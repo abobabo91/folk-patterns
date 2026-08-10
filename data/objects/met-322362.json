@@ -1,0 +1,93 @@
+{
+  "id": "met-322362",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "322362",
+    "object_url": "https://www.metmuseum.org/art/collection/search/322362",
+    "iiif_manifest": null,
+    "credit_line": "Bequest of Joseph H. Durkee, 1898",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "99.35.2964",
+    "accession_year": "1899"
+  },
+  "cultural": {
+    "region": "mena",
+    "country": "Iran",
+    "ethnicity": "Persian",
+    "tradition": "general",
+    "art_form": "unclassified",
+    "pattern_density": 0
+  },
+  "physical": {
+    "title": "Tetradrachm",
+    "titles_alt": [],
+    "date_text": "ca. 212–213 CE",
+    "date_earliest": 212,
+    "date_latest": 213,
+    "period": "Parthian",
+    "dynasty": null,
+    "materials": [
+      "Silver"
+    ],
+    "techniques": [],
+    "medium_raw": "Silver",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Thickness 0.41 cm, Diameter 2.52 cm",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Iran",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025928",
+      "http://vocab.getty.edu/page/aat/300123319"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_322362.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bb0f27f55236a6d084f6edd7b49ccbfd58d441ac0befb52fd30a57ffe2b18947",
+      "bytes": 1652137,
+      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_322362.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_322362_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "alt",
+      "sha256": "42f7e186f286b596c264ec66c4b09ab507a9509f24b6e3e3a0f65644fe9c8a56",
+      "bytes": 1714816,
+      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_322362_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-23T20:07:06.364716+00:00"
+}

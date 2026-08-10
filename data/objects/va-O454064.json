@@ -1,0 +1,119 @@
+{
+  "id": "va-O454064",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O454064",
+    "object_url": "https://collections.vam.ac.uk/item/O454064",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.26-1960",
+    "accession_year": 1960
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "parang",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "ca. 1920",
+    "date_earliest": 1915,
+    "date_latest": 1924,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [],
+    "medium_raw": "Wax-resist dyed cotton",
+    "classification": "Head cloth",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing",
+      "Hats & headwear"
+    ],
+    "physical_description": "Head cloth of cotton batik. Dyed fabric using the wax-resist process in blue, brown and cream. The field is patterned with a parang (broken dagger) motif. The centre of the field is broken by a modang (lozenge) in blue bordered with a frieze of small stylised leaves (tjekmukirran). The cloth is bordered with a narrow band of blue eyelets surrounded by brown lines.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "41",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "40.25",
+        "unit": "in",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "016",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O454064.jpg",
+      "iiif_id": "2021NA3537",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3537/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "82dedd474250519b07df80a532f430f49275e0098dd3947b20fab067e46c1156",
+      "bytes": 304029,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O454064.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O454064_1.jpg",
+      "iiif_id": "2012FM9553",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9553/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "9e8a50da5bc019014e7dec4327fc147dd876d22b03de3c826a7323818ac0793e",
+      "bytes": 273158,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O454064_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O454064_2.jpg",
+      "iiif_id": "2018KY9219",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9219/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "3a9e026a69c2f7678feccf67b01189ed77d003901e51e3872f854141d1898df6",
+      "bytes": 233335,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O454064_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:21:00.416143+00:00"
+}

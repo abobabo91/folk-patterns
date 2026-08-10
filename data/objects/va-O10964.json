@@ -1,0 +1,123 @@
+{
+  "id": "va-O10964",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O10964",
+    "object_url": "https://collections.vam.ac.uk/item/O10964",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "6152(IS)",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Myanmar",
+    "ethnicity": "Bamar",
+    "tradition": "acheik",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "3rd quarter 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1875,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "silk (textile)"
+    ],
+    "techniques": [
+      "weaving"
+    ],
+    "medium_raw": "Silk luntaya (one hundred shuttles) interlocking tapestry weave.",
+    "classification": "Acheik-luntaya silk textile",
+    "styles": [
+      "Konbaung"
+    ],
+    "categories": [
+      "India Museum"
+    ],
+    "physical_description": "Two lengths of  cloth tacked together along one selvage edge. Repeating acheik (horizontal wave pattern) stripes of red, green and yellow on a white warp ground. Possibly intended to form a pah-soe (man's wrap around skirt).",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "213.5",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "33",
+        "unit": "cm",
+        "part": "1st length"
+      },
+      {
+        "dimension": "Length",
+        "value": "122",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "33",
+        "unit": "cm",
+        "part": "2nd length"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Pegu",
+    "made_in_place_alt": [],
+    "current_gallery": "007",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/architectural/acheik/images/va_O10964.jpg",
+      "iiif_id": "2020MP4373",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4373/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "ff6427518d3bd7a0426eac9254aa56412b2602008469c133a2423d2c2be1a89c",
+      "bytes": 631136,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\architectural\\acheik\\images\\va_O10964.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/architectural/acheik/images/va_O10964_1.jpg",
+      "iiif_id": "2011FB0603",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0603/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "015b4d884638292b9100a62286edab7a0c02dfd97f0aa9b467a5d3e4cf28bcd8",
+      "bytes": 229727,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\architectural\\acheik\\images\\va_O10964_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:33:47.656385+00:00"
+}

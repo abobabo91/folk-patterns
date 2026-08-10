@@ -1,0 +1,117 @@
+{
+  "id": "va-O478581",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478581",
+    "object_url": "https://collections.vam.ac.uk/item/O478581",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.31-1960",
+    "accession_year": 1960
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "parang",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "ca. 1930",
+    "date_earliest": 1925,
+    "date_latest": 1934,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [],
+    "medium_raw": "Waxed and dyed cotton batik",
+    "classification": "Textile",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Textile of cotton batik. Waxed with copper blocks and dyed indigo and brown on a white ground. Wing (lar) motifs are repeated at wide intervals on a parang background.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "84",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "48.5",
+        "unit": "in",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "017",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/parang/images/va_O478581.jpg",
+      "iiif_id": "2021NA3556",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3556/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "731f038f5ecd7f6592af092429042f6de5ad03a1776e36d592eefe12fd6b4a7c",
+      "bytes": 405606,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\parang\\images\\va_O478581.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/parang/images/va_O478581_1.jpg",
+      "iiif_id": "2012FM9541",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9541/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "29b6e327782204be368aaea4d189ef4b7b1f7b3bc681a0ce47d68b53ad7fb380",
+      "bytes": 392389,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\parang\\images\\va_O478581_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/parang/images/va_O478581_2.jpg",
+      "iiif_id": "2018KY9305",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9305/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "7c46923917c3028bca9be5bd26a9d12601c29f92556a464a7c854163362afb72",
+      "bytes": 247152,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\parang\\images\\va_O478581_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:20:41.032112+00:00"
+}

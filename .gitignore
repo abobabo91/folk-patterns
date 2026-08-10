@@ -1,0 +1,18 @@
+library/
+data/raw/
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Generated site build — 51k files, rebuilt by build_index.py
+site/
+
+# Sample images pulled down for quality checks (257 files, 70 MB). Regenerable
+# by re-running the probe scripts; the verdicts that matter live in
+# data/ethnicities/ and data/rejects.jsonl.
+data/probes/
+
+# Kept on purpose: data/objects/ (3325 museum-metadata JSONs, ~17 MB) and
+# data/ethnicities/. Those are scrape output that costs museum API calls to
+# rebuild, so they belong in the repo even though they are generated.

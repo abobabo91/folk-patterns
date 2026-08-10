@@ -1,0 +1,88 @@
+{
+  "id": "va-O471804",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O471804",
+    "object_url": "https://collections.vam.ac.uk/item/O471804",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.331-1993",
+    "accession_year": 1993
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "batik",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "20th century",
+    "date_earliest": 1900,
+    "date_latest": 1999,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [
+      "batik"
+    ],
+    "medium_raw": "Cotton batik",
+    "classification": "Batik",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "White cotton with a repeating pattern in indigo batik",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Jawa Tengah",
+    "made_in_place_alt": [],
+    "current_gallery": "010",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik/images/va_O471804.jpg",
+      "iiif_id": "2021NA2512",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA2512/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "14aa1a3004ec67969c507546f086ea49d1d9ccb59d8509a5adc44d6a2827f0fc",
+      "bytes": 176808,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik\\images\\va_O471804.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:18:19.924882+00:00"
+}

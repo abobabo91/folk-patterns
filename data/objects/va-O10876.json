@@ -1,0 +1,111 @@
+{
+  "id": "va-O10876",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O10876",
+    "object_url": "https://collections.vam.ac.uk/item/O10876",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "6138(IS)",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Myanmar",
+    "ethnicity": "Bamar",
+    "tradition": "acheik",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "3rd quarter 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1875,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "silk (textile)"
+    ],
+    "techniques": [
+      "weaving"
+    ],
+    "medium_raw": "Silk of the luntaya (one hundred shuttles) interlocking tapestry weave.",
+    "classification": "Silk acheik luntaya",
+    "styles": [
+      "Konbaung"
+    ],
+    "categories": [
+      "India Museum"
+    ],
+    "physical_description": "Repeating acheik (horizontal wave patterned) stripes of black, red and white on a warp ground of yellow, red, black and white stripes.  This may have formed a pah-soe (man's wrap around skirt) with 6151 (IS) which is an identical fabric.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "395",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "63",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Burma",
+    "made_in_place_alt": [],
+    "current_gallery": "007",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/acheik/images/va_O10876.jpg",
+      "iiif_id": "2020MP4372",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4372/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "5fd41c8153c6e7f1f709d3153f3ab49fa960000a1557eb2886798ca7a0c36e00",
+      "bytes": 513436,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10876.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/acheik/images/va_O10876_1.jpg",
+      "iiif_id": "2017JX7592",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7592/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "ce26d6e8abd724d68558596fc4710119361318cbd0708c1de6b84ffdab71b3c0",
+      "bytes": 309744,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10876_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:33:29.135073+00:00"
+}

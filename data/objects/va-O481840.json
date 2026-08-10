@@ -1,0 +1,117 @@
+{
+  "id": "va-O481840",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O481840",
+    "object_url": "https://collections.vam.ac.uk/item/O481840",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.17-1960",
+    "accession_year": 1960
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Batak",
+    "tradition": "Batak weaving",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1950-1959",
+    "date_earliest": 1950,
+    "date_latest": 1959,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [
+      "weaving"
+    ],
+    "medium_raw": "Plain weave cotton, warp ikat, supplementary weft patterning",
+    "classification": "Shoulder cloth",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Shoulder cloth (ragidup) of ikat woven cotton. Divided into three sections. The large section in the middle has a striped pattern in dark blue, brown and natural, and ikat on warp threads. Both ends have large white panels inserted with additional weft threads in tapestry technique.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "93.5",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "36",
+        "unit": "in",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Sumatra",
+    "made_in_place_alt": [],
+    "current_gallery": "002",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/batak-weaving/images/va_O481840.jpg",
+      "iiif_id": "2020MP7666",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP7666/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "5b27bf80410962e7ac89553cbdcf3e49a3aa45a7da32d0538c94bbc23f4aef21",
+      "bytes": 387730,
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-weaving\\images\\va_O481840.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/batak-weaving/images/va_O481840_1.jpg",
+      "iiif_id": "2017KC6894",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6894/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "9c39fe5a31aa673983f225d11f9daf0bfb8cd3dd07079ba7558b2c564536a39a",
+      "bytes": 426774,
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-weaving\\images\\va_O481840_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/batak-weaving/images/va_O481840_2.jpg",
+      "iiif_id": "2017KC6895",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6895/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "2696d8bb18da05af553c5397f617288bc95877ed82e018655257b41f80fe8f16",
+      "bytes": 323980,
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-weaving\\images\\va_O481840_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:24:49.601161+00:00"
+}

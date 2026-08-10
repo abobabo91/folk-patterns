@@ -1,0 +1,102 @@
+{
+  "id": "met-316415",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "316415",
+    "object_url": "https://www.metmuseum.org/art/collection/search/316415",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Anita E. Spertus and Robert J. Holmgren, in honor of Douglas Newton, 1990",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1990.335.22",
+    "accession_year": "1990"
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "general",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": "Ceremonial Textile (Tampan)",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Cotton"
+    ],
+    "techniques": [],
+    "medium_raw": "Cotton",
+    "classification": "Textiles-Woven",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 31 x  W. 28 1/2 in. (78.7 x 72.4 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Piya, Lampung province, Sumatra, Indonesia",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Lampung artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300082981"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/general/images/met_316415.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6b17265cc77ac936d23a7394e3b5598a39060810cfb1f7d02229c5a3e757c2ea",
+      "bytes": 8744969,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\general\\images\\met_316415.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/general/images/met_316415_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "alt",
+      "sha256": "c255676a728ce2bc2dad709281dba84131ceb1f85fca48d32b71bfa46df53b94",
+      "bytes": 2906554,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\general\\images\\met_316415_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:08:39.312008+00:00"
+}

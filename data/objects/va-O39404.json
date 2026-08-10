@@ -1,0 +1,119 @@
+{
+  "id": "va-O39404",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O39404",
+    "object_url": "https://collections.vam.ac.uk/item/O39404",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IND.LOST.222",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Myanmar",
+    "ethnicity": "Bamar",
+    "tradition": "Burmese lacquer",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "Probably 19th century",
+    "date_earliest": 1800,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "palm",
+      "lacquer",
+      "gilt"
+    ],
+    "techniques": [
+      "forming",
+      "lacquering",
+      "gilding"
+    ],
+    "medium_raw": "Incised or written with a stylus on prepared leaves of the palmyra palm. Gilded red-lacquered edges.",
+    "classification": "Burmese manuscript",
+    "styles": [
+      "Konbaung"
+    ],
+    "categories": [],
+    "physical_description": "Red Burmese (not Pali) text on parchment coloured ground.\r\nWithout covers.\r\nLeaves pierced twice for tieing cord.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "48.5",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Depth",
+        "value": "6.5",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "5.5",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Burma",
+    "made_in_place_alt": [],
+    "current_gallery": "008",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O39404.jpg",
+      "iiif_id": "2025PE7267",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2025PE7267/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "88097c8c60d27f7a851201df0447235ef2f6f5539ed27ce65d3f4d820aef4968",
+      "bytes": 37762,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O39404.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O39404_1.jpg",
+      "iiif_id": "2025PE7266",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2025PE7266/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "4403257ee6d5a35fe09f0af0e146f818ae60c709440a3ff3ff66588b9368dd55",
+      "bytes": 42219,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O39404_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:36:15.401879+00:00"
+}

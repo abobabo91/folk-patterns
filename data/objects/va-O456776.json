@@ -1,0 +1,198 @@
+{
+  "id": "va-O456776",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O456776",
+    "object_url": "https://collections.vam.ac.uk/item/O456776",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "05308(IS)",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "central_asia",
+    "country": "China (Xinjiang)",
+    "ethnicity": "Uyghur",
+    "tradition": "Hotan carpet",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "ca. 1867",
+    "date_earliest": 1862,
+    "date_latest": 1867,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "",
+    "classification": "Carpet",
+    "styles": [],
+    "categories": [
+      "India Museum",
+      "Textiles",
+      "Interiors"
+    ],
+    "physical_description": "The carpet is of a reddish tone with flower patterns of various colours in the middle of the carpet. On the sides of the carpet there are geometrical patterns of a combination of shades such as blue, yellow, brown and red which match those of the flowers.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Width",
+        "value": "1571",
+        "unit": "mm",
+        "part": "Top Edge"
+      },
+      {
+        "dimension": "Width",
+        "value": "1635",
+        "unit": "mm",
+        "part": "Bottom Edge"
+      },
+      {
+        "dimension": "Length",
+        "value": "3194",
+        "unit": "mm",
+        "part": "Proper Right"
+      },
+      {
+        "dimension": "Length",
+        "value": "3100",
+        "unit": "mm",
+        "part": "Proper Left"
+      },
+      {
+        "dimension": "Weight",
+        "value": "16.5",
+        "unit": "kg",
+        "part": null
+      }
+    ],
+    "dimensions_note": "Weight including roller",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Hotan",
+    "made_in_place_alt": [],
+    "current_gallery": "003",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776.jpg",
+      "iiif_id": "2019MA0140",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0140/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "16c3fd91691a4daea05ed98a0859064fd002ddc77366e2e6d6a9c57a6de1f031",
+      "bytes": 513745,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_1.jpg",
+      "iiif_id": "2011EV3334",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2011EV3334/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "c6e46ab98569d71b8a6a71ea53869b3d770d0e7f38e85f252978d609d30f6e47",
+      "bytes": 402304,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_2.jpg",
+      "iiif_id": "2013GD0234",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2013GD0234/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "ee22fe326b28683a6679d9422238eaf1edda278b286a8cb72b6e9d4ce77ae1dc",
+      "bytes": 471695,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_2.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_3.jpg",
+      "iiif_id": "2019MA0141",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0141/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "7634acc5a40f14b10e2cdeba8cf08a417cb5f2af0d5e9fb1f75451aabb6358b8",
+      "bytes": 240415,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_3.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_4.jpg",
+      "iiif_id": "2019MA0142",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0142/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "d8b2bb60554cca65d397a6746b8de14611942bc118ac5f99454ccfed39470f8f",
+      "bytes": 238325,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_4.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_5.jpg",
+      "iiif_id": "2019MA0143",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0143/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "01594f3e823fa21dad15a1a2dc2f0e59f7347976b6b27e4e5383ca1ef3e172ae",
+      "bytes": 457260,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_5.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_6.jpg",
+      "iiif_id": "2019MA0144",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0144/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "21a9451a68899ba8feec0ea5018594025428bf3a91048301b5f51332b8a7d4a2",
+      "bytes": 220832,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_6.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_7.jpg",
+      "iiif_id": "2019MA0145",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0145/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "08973925560b8aab5e2c731ec4fc5525b2e2ac96df0f8d49d282c5b6753b8a14",
+      "bytes": 250158,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_7.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_8.jpg",
+      "iiif_id": "2019MA0146",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0146/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "186d2173fafaf2577771e0121ad47be05e2e0646c3e4fe858d0f5ef39c6ba7c1",
+      "bytes": 239677,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_8.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O456776_9.jpg",
+      "iiif_id": "2019MA0170",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0170/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "4e2334bc2e28d0dd614263b02a5b4a8ed73130c6801d7c3cbac16c426e68d81b",
+      "bytes": 139795,
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_9.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:36:06.779394+00:00"
+}

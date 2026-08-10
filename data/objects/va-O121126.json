@@ -1,0 +1,132 @@
+{
+  "id": "va-O121126",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O121126",
+    "object_url": "https://collections.vam.ac.uk/item/O121126",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "2324-1876",
+    "accession_year": 1876
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Turkmenistan",
+    "ethnicity": "Turkmen",
+    "tradition": "Salor gul",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1800-1850",
+    "date_earliest": 1800,
+    "date_latest": 1850,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "wool",
+      "silk"
+    ],
+    "techniques": [],
+    "medium_raw": "WARP: white wool; Z2S; 24 threads per inch (91 per dm); depressed.\r\nWEFT: brown wool; Z spun, unplied, check possibly 2 parallel threads per shoot; 2 shoots after each row of knots;  19 knots per inch (71 per dm).\r\nPILE: wool and silk; 11 colours: dark red, red, orange, dark green, dark blue, blue, dark purple, purple (wool), purple (silk), dark brown, white; asymmetrical knot open to the left and tied around 2 threads; 228 knots per sq. inch (3230 per sq. dm).\r\nSIDE FINISH: Left: one cord oversewn with dark blue wool.  Right: one cord oversewn with dark green wool.\r\nEND FINISH: Lower: plain weave with a band of red weft and a band of cream weft; turned and stitched in place.  Upper: plain weave with 1\" of red and 1\" of cream weft; turned and stitched.",
+    "classification": "Chuval",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Turcoman, Salor bag face\r\nDESIGN: field: red ground with central band of three large hooked and stepped guls.  Within each there is a red ground containing a multi-coloured star within a hooked cruciform.  Similar upper and lower bands are partially evident.  In two bands off-set to the guls are groups of nine small rectangles stepped diagonally in threes.  They are outlined in dark blue and contain white stars.\r\nMain border: dark purple ground with a two-coloured flowerhead set in a small, white horned motif and four florets between each pair.\r\nInner and outer border: red ground with touching S-motifs: dark blue (inner) blue (outer).\r\nLower band: immediately above plain weave is a band of reciprocal arrowheads in dark blue/red.  The red ones contain a white dot; the dark blue ones contain a red dot.\r\nUpper band: 24 \"tree of life\" motifs: every 4th one is blue; the others are dark green or dark blue.  They bear either red or white blossoms.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "89",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "149.5",
+        "unit": "cm",
+        "part": "maximum"
+      },
+      {
+        "dimension": "Width",
+        "value": "141.5",
+        "unit": "cm",
+        "part": "minimum"
+      },
+      {
+        "dimension": "Weight",
+        "value": "13",
+        "unit": "kg",
+        "part": null
+      }
+    ],
+    "dimensions_note": "Weight including roller",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Central Asia",
+    "made_in_place_alt": [
+      "Turkmenistan"
+    ],
+    "current_gallery": "001",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O121126.jpg",
+      "iiif_id": "2006BC8545",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006BC8545/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "73fb2e05026ae835cd03e97bab0f37e8f6ed3b9c6349de0bb3a7c88d91512947",
+      "bytes": 164604,
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O121126.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O121126_1.jpg",
+      "iiif_id": "2006BF7104",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF7104/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "eeccd6575dc61494e6651a3dcc86e91aca3bf7a1cfcbcb7acdcfadbe9d251d4f",
+      "bytes": 429580,
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O121126_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O121126_2.jpg",
+      "iiif_id": "2013GB4183",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2013GB4183/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "435d2e05550487aa4636581b5c600f8bbf5dc642f961a029d7de29196c8948ca",
+      "bytes": 287018,
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O121126_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:32:55.632422+00:00"
+}

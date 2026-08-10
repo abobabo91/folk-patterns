@@ -1,0 +1,105 @@
+{
+  "id": "va-O478389",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478389",
+    "object_url": "https://collections.vam.ac.uk/item/O478389",
+    "iiif_manifest": null,
+    "credit_line": "Bequeathed by Sir John Addis",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.58-1984",
+    "accession_year": 1984
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1960s",
+    "date_earliest": 1960,
+    "date_latest": 1969,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Silk",
+    "classification": "Shoulder cloth",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Textile of checkered silk in green and magenta.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Width",
+        "value": "63.8",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Length",
+        "value": "200",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Laos",
+    "made_in_place_alt": [],
+    "current_gallery": "003",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O478389.jpg",
+      "iiif_id": "2016JE0385",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2016JE0385/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "c3c3afa94acbcd6d1b8955b722fc013ddbc982f6199beb06cfd9bbd8a5b066b1",
+      "bytes": 180838,
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O478389.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O478389_1.jpg",
+      "iiif_id": "2006AP6239",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AP6239/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "11ba9b656b1df73d0d90dc33ed4d0bcc4bf5073877bbe1c5a7d98ed44a78161c",
+      "bytes": 93568,
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O478389_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:30:51.677263+00:00"
+}

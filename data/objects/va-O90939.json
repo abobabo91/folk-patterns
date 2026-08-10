@@ -1,0 +1,125 @@
+{
+  "id": "va-O90939",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O90939",
+    "object_url": "https://collections.vam.ac.uk/item/O90939",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "T.61-1925",
+    "accession_year": 1925
+  },
+  "cultural": {
+    "region": "central_asia",
+    "country": "Uzbekistan",
+    "ethnicity": "Uzbek",
+    "tradition": "ikat",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1850-1900",
+    "date_earliest": 1850,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton",
+      "silk"
+    ],
+    "techniques": [
+      "weaving",
+      "embroidering",
+      "sewing",
+      "dyeing"
+    ],
+    "medium_raw": "Cotton, embroidered with silk and lined with silk ikat",
+    "classification": "Coat",
+    "styles": [],
+    "categories": [
+      "Clothing",
+      "Embroidery",
+      "Textiles"
+    ],
+    "physical_description": "Coat, cotton embroidered with silk and lined with silk ikat.",
+    "summary": "Time was of little consequence in the making of this coat. Every inch of the garment has been covered with floral stripes embroidered in cross-stitch. A green and white tablet-woven band has been sewn on as an edging and the large red silk stitches holding it in place can be seen around the edge of the silk lining. Not only was the vast expanse of embroidery time-consuming to produce. The resist-dyed (<i>ikat</I>) lining would have required three separate dyeing processes to create the four-coloured effect. In addition, some of the panels were glazed after dyeing to make them darker and more reflective.\r\n\r\nResist-dyeing involves blocking out areas of the fabric with a resist agent, often a wax or paste, to prevent them from taking dye. The resist agent is then removed. By repeating this process a multi-coloured pattern can be created.",
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "144",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "98",
+        "unit": "cm",
+        "part": "at hem, approx."
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Uzbekistan",
+    "made_in_place_alt": [],
+    "current_gallery": "013",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/ikat/images/va_O90939.jpg",
+      "iiif_id": "2006AY3279",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AY3279/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "516fcdb01025cec5a49fd85fab82db80490489dc31154cc48215814f0adcfe52",
+      "bytes": 295935,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\ikat\\images\\va_O90939.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/ikat/images/va_O90939_1.jpg",
+      "iiif_id": "2006AY3278",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AY3278/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "d05614d70d6b642ec90f0813212293ea6e49ab6bc183fbff08d4f839ef6378e7",
+      "bytes": 421471,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\ikat\\images\\va_O90939_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/ikat/images/va_O90939_2.jpg",
+      "iiif_id": "2006AF5809",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF5809/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "01d3972556f412d7fab626dde74a2db3247dc18a81fa84de8797b22df608f787",
+      "bytes": 347008,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\ikat\\images\\va_O90939_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:21:31.169148+00:00"
+}

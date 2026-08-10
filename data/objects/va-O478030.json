@@ -1,0 +1,115 @@
+{
+  "id": "va-O478030",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478030",
+    "object_url": "https://collections.vam.ac.uk/item/O478030",
+    "iiif_manifest": null,
+    "credit_line": "Given by Mrs L. Ryan",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.42-1985",
+    "accession_year": 1985
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Batak",
+    "tradition": "ulos",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "20th century",
+    "date_earliest": 1900,
+    "date_latest": 1985,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Plain weave silk, warp ikat",
+    "classification": "Textile",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Textile (Ulos Padang Rusak) of silk with a base colour in reddish and rusty brown, and with simple ikat patterns of white 'arrowheads' in dark stripes set against their background. The lateral margins are the same brown with an off-white selvedge. The non selvedge edges have been cut off, but may originally have had a fringe.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "170",
+        "unit": "cm",
+        "part": "warp"
+      },
+      {
+        "dimension": "Width",
+        "value": "70",
+        "unit": "cm",
+        "part": "weft"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Aceh",
+    "made_in_place_alt": [],
+    "current_gallery": "002",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ulos/images/va_O478030.jpg",
+      "iiif_id": "2020MP9117",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP9117/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "6f934ae236c401d12997dc54853d3066da1967f07753492c088c801710a2ca53",
+      "bytes": 203574,
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ulos\\images\\va_O478030.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ulos/images/va_O478030_1.jpg",
+      "iiif_id": "2017KC6883",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6883/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "f2f21750b3210230c2a08fd438fbeec99039f70dd67fc5d43abe40ae1e24301b",
+      "bytes": 260588,
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ulos\\images\\va_O478030_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ulos/images/va_O478030_2.jpg",
+      "iiif_id": "2017KC6882",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6882/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "5952b08233d1666e738f900b9fb80b9022a8168dd98409f63c83eb94a207d65d",
+      "bytes": 308961,
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ulos\\images\\va_O478030_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:24:41.432824+00:00"
+}

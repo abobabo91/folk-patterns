@@ -1,0 +1,84 @@
+---
+title: "Bukharan Jew"
+subtitle: "Uzbekistan"
+region: "Central Asia"
+tags: [ethnography, central-asia]
+---
+
+## Overview
+
+Bukharan Jews (self-designation historically *Bnei Israel*) are a Persian-speaking Mizrahi Jewish community whose historic core lay in the oasis cities of the Zerafshan valley — Bukhara, Samarkand, and Shahrisabz — with substantial communities also in Tashkent, Kokand, Andijan in the Fergana Valley, and Dushanbe and Khujand in what is now Tajikistan. Their name derives from the Emirate of Bukhara, and their establishment in Central Asia is traced to the aftermath of the Babylonian exile and the Achaemenid period, making them one of the oldest ethnoreligious groups in the region. Today only a few dozen remain in Central Asia; the community of roughly 150,000–200,000 lives principally in Queens (New York), Israel, and Vienna. In folk-culture terms they matter as the carriers of a distinctive Judeo-Tajik synthesis — silk *ikat* robes, gold-couched embroidery, and the *shashmaqam* musical repertoire — that they shared with and often led among their Muslim neighbors.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Bukharan silk embroidery (*kanda-khayol* / *zardo'zi*)** — Densely worked silk-on-cotton or silk-on-silk needlework, of which Bukharan Jewish women were long the dominant practitioners in the emirate; the technique uses a fine chain stitch (*yurma*) and satin fills. Distinct from Uzbek village *suzani* in its finer thread count and its frequent use of couched metallic gold thread (*zardo'zi*), a craft in which Bukharan Jewish men held a near-monopoly in the workshops of Bukhara.
+
+**Bukharan robe (*jома* / *chapan*)** — The long, straight-cut coat of Central Asia, worn by Bukharan Jewish men over an inner shirt and belted with a folded sash. Ceremonial robes were made from local *adras* (silk-warp, cotton-weft ikat) or full-silk *shohi* ikat woven in Bukhara, Margilan, and Namangan; Jewish dyers and silk merchants were central to the production chain.
+
+**Ikat (*abrbandi*)** — Warp-resist-dyed silk in the characteristic clouded, flame-edged bands of the Fergana Valley and Bukhara. The dyeing houses of Bukhara were disproportionately Jewish; Bukharan Jews held the indigo (*nil*) and cochineal trades and were the principal *abrband* master-dyers under the emirate.
+
+**Suzani (*suzani*)** — Large embroidered dowry hangings worked in couched silk on a cotton ground. Bukharan Jewish women produced *suzani* alongside their Tajik and Uzbek neighbors, with the Bukhara-style *gulkurpa* (flower-blanket) and the Nurata-style medallion compositions being the two regional idioms most often documented in Jewish households.
+
+**Joma / kaftan for the *khupa* (wedding canopy)** — Ceremonial ikat and velvet robes commissioned for the groom and given as bridewealth; the heavy velvet variety, embroidered in metallic thread by the Bukhara *zardo'z* workshops, formed part of the woman's trousseau and was later re-used as a Torah mantle or ark curtain (*parochet*) in the synagogue.
+
+**Torah mantles and *parochet***  — A distinctively synagogal branch of *zardo'zi*: the same gold-couched floral and vegetal vocabulary of the emiri court robes was transferred onto crimson or wine-red velvet ground for Torah scroll covers, ark curtains, and reader's-desk cloths, often bearing Hebrew dedicatory inscriptions.
+
+**Motif vocabulary.** *palak* (celestial disc / sun), *oi* (moon), *anor* (pomegranate), *bodom* (almond / boteh), *lola* (tulip), *chorbog* (four-garden quartered field), *islimi* (running vine scroll), *gulkurpa* (flower-blanket rosette), *toji-khoros* (cockscomb), *chashm* (eye, apotropaic).
+
+### Clothing & dress
+
+Men wore a long ikat or striped-silk *joma* over a white cotton shirt and wide trousers, bound at the waist with a folded silk sash (*belbog*). Under the emirate, sumptuary law required Jewish men to substitute a rope belt (*arqon*) for the leather one permitted to Muslims, and to wear a distinctive tall dark fur-trimmed cap called a *telpak* rather than the white turban; a yellow patch or rope end at the shoulder marked the wearer as Jewish. Footwear was the soft leather boot (*mahsi*) worn inside a galosh (*kaush*). On the Sabbath and festivals men added a heavier ikat *joma* and, for the wealthy, a gold-embroidered skullcap (*duppi zardo'zi*). Women wore a wide-sleeved dress (*kurta*) of ikat or printed silk over harem trousers (*lozim*), a small close-fitting embroidered cap or a headscarf tied at the nape, and, for outdoor use into the early twentieth century, the horsehair-veiled *faranji* mantle common to their Muslim neighbors. Married women wore heavy silver-gilt and coral jewelry; brides were dressed in a gold-couched velvet *joma* for the *khupa*.
+
+### Architecture
+
+The Bukharan Jewish quarter (*mahalla-yi Yahudiyon*) established in Bukhara at the end of the sixteenth century is the classic setting. Houses were mud-brick and timber-framed courtyard dwellings built to the same *hovli* plan as their Muslim neighbors, but constrained by dhimmi rules that required them to be lower than adjacent Muslim buildings and that forbade doors opening directly to the street; a low, deliberately shabby entry gave onto an interior courtyard around which the family rooms opened. The reception room (*mehmonkhona*) faced north and was raised on a plastered platform; walls carried carved and painted plaster (*ganch*) niches (*tokcha*) for bedding, samovars, and Sabbath silver, and coffered painted-wood ceilings (*vassa*) in geometric and floral polychromy. The Jewish quarter's synagogues — the surviving Bukhara Old Synagogue is the emblem — followed the same courtyard logic, with a central hall containing a raised *bimah* and a carved wooden *heikhal* housing scrolls in silver-gilt Torah cases (*tik*) of the Persian-Sephardi cylindrical form. The Bukharan Quarter of Jerusalem, laid out from 1891 by Conrad Schick with unusually wide streets and neo-Moorish mansions, is the community's other signature built environment.
+
+### Ceramics, metalwork & everyday objects
+
+Bukharan Jewish households used the wider Uzbek ceramic repertoire — the cobalt-and-turquoise **Rishtan** wares of the Fergana Valley and the ochre-glazed *lagan* platters of Gijduvan — but their distinctive contribution was in metal. Bukharan Jewish goldsmiths and silversmiths (*zargar*) worked the emirate's coin silver into filigree bridal jewelry, gilded Torah finials (*rimonim*), pointed Torah pointers (*yad*), spice-boxes (*besamim*) for the Havdalah rite, and silver-mounted *tik* Torah cases. Domestic objects with cultural weight include the copper-tinned samovar and its tea bowl (*piyola*), the round low table (*hantakht*) around which the family sat cross-legged on floor cushions (*kurpacha*) laid over quilted *suzani*, and carved-wood cradles (*gahvora*). The gold-embroidery workshops themselves — wooden slant-frames strung with taut velvet — were treated almost as heirloom furniture.
+
+### Jewelry & body adornment
+
+Bukharan Jewish brides wore the heaviest silver-gilt assemblages of the region. Characteristic pieces include the *tillakosh* (a broad gilded silver band worn across the forehead under a scarf), the *peshonaband* (a beaded and coined brow-band), long temple pendants (*kadzhak*), coral-and-pearl chest ropes and the coined chest-plate (*zeb-i-gardan*), heavy hoop earrings (*halqa*) and multiple silver rings. Apotropaic amulets — the triangular *tumor* containing a written Hebrew or Judeo-Persian charm, and the eye-motif *chashm* bead — were sewn into infants' caps and pinned inside women's collars. Henna was applied to brides' hands and feet on the *hina-bandon* night before the wedding, and small facial beauty marks were painted on with kohl (*surma*), which was also used to line the eyes of both women and infants.
+
+## Music & performance
+
+The central art music of the community is the **shashmaqam** ("six *maqoms*"), the classical suite tradition of Bukhara inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity. Bukharan Jewish musicians — the *sozanda* families among women and the male *hofiz* singers — were among its principal transmitters through the nineteenth and twentieth centuries, and the emiri court repertoire was preserved into the Soviet period largely through Jewish performers such as Levi Babakhanov, court singer to the last emir of Bukhara. The suite unfolds through six modal cycles (*Buzruk, Rost, Navo, Dugoh, Segoh, Iroq*), each combining an instrumental section (*mushkilot*) and a vocal section (*nasr*) set to Persian-Tajik ghazals. Instruments include the long-necked lutes *tanbur* and *dutar*, the spike fiddle *sato* and *g'ijjak*, the hammered dulcimer *chang*, the frame drum *doira*, and the reed *nay*. Women's ensembles, the *sozanda*, sang to *doira* alone at weddings, circumcisions, and *bar mitzvah* feasts, improvising sung praise and comic verse. A parallel liturgical tradition set piyyutim and Psalms to *maqom* modes; the *bakashot* pre-dawn devotional singing of Sabbath eves in winter drew directly on the *shashmaqam* scale system.
+
+## Dance & theatre
+
+Bukharan Jewish women were the principal professional dancers of the emirate. The *sozanda* dancer-singer performed the solo Bukharan style — restrained torso, articulate hand and wrist gestures, isolated shoulder shakes (*yelka*), fast spins with the wide sleeves of the *kurta* held out — at women's celebrations, keeping her own time on the *doira*. The dance repertoire around Bukhara is known generically as **raqs-i Bukhoro**, and its more virtuoso items include *larzon* (the trembling dance), *munojot*, and knife or tray balancing pieces. Under Soviet cultural policy this tradition was codified onto the concert stage — the choreographer and dancer Tamara Khanum, of Armenian-Bukharan formation, and the Bukharan Jewish dancer Malika Kalontarova became its best-known figures. There is no indigenous masked or puppet theatre in the community; the theatrical outlet was the *maskharaboz* comic entertainer at weddings and, from the 1920s, a short-lived Bukharan Jewish state theatre in Samarkand performing plays in Bukhori.
+
+## Festivals & rituals
+
+The calendar is the Hebrew one, with Central Asian inflections. **Rosh Hashanah** and **Yom Kippur** open the autumn cycle; **Sukkot** is celebrated with booths roofed in reeds cut from the Zerafshan. **Hanukkah** (*Chanuko*) is marked with fried dough. **Purim** in Bukhara acquired a local flavor as a masquerade street feast. **Pesach** is the community's grandest festival: the seder is conducted in Judeo-Tajik and Hebrew, the table centered on the *osh-e sabzi* green herb dishes and the round hand-baked *matzo* fired in a tandoor. **Shavuot** and the summer fast of **Tisha B'Av** follow. Beyond the Hebrew year, Bukharan Jews shared the spring **Nowruz** (21 March) with their Persian-speaking neighbors, cooking the sprouted-wheat pudding *sumalak*. Life-cycle rites are elaborate: the *brit milah* circumcision on the eighth day is followed by a *tahdid* naming feast; the *bar mitzvah* is celebrated with a procession from the boy's home to the synagogue. Weddings run for a week and include the henna night (*hina-bandon*), the ritual bath (*mikveh*), the canopy (*khupa*), and the *yush-yush* dowry procession in which the bride's trousseau of *suzani*, ikat robes, and copperware is carried in public through the *mahalla*. Mourning follows the seven-day *shiva* and thirty-day *sheloshim*.
+
+## Foodways
+
+Bukharan cuisine is the Central Asian repertoire read through the laws of *kashrut*. The signature dish is **oshi savo** (also **bakhsh** or "green plov") — a Sabbath rice pilaf tinted deep green with coriander and dill, cooked overnight in a sealed pot with meat, in the manner of an Ashkenazi *cholent* but in Bukharan form. The daily rice dish is **oshi palov** (plov) with mutton, carrot, and yellow *devzira* rice, cooked in a cast-iron *qazon*. Bread is the tandoor-baked round *non*, brought to the table torn, never cut. Meat dishes include **shashlik** skewers, **kebob**, and the fried meat pastry **samsa**, all prepared from *shechita*-slaughtered lamb and beef. Dairy and meat are kept separate; the community was historically without pork and shellfish. Vegetable dishes lean on eggplant, tomato, pumpkin, and quince; salads include **shakarob** (tomato-onion) and pickled turnip. Sweets include **halvaitar** (a poured flour halva), *nishalda* (an egg-white and licorice confection eaten at Pesach), and clouds of dried fruit and nuts served with green tea (*choi kabud*) from a *piyola*. Tea, not coffee, is the drink of hospitality, and the meal ends with **noni toki** (grape-leaf-wrapped rice) or fresh melon.
+
+## Oral tradition & literature
+
+Bukharan Jews shared the Persianate literary canon with their neighbors — Ferdowsi's *Shahnameh*, the ghazals of Hafez and Bedil, the *Bahoriston* of Jami — recited and sung at male gatherings (*gap*) around green tea. Their own written tradition is a Judeo-Persian literature in Hebrew script running from the fourteenth-century poet Shahin of Shiraz through Yosef Yehudi (Yusuf ben Yitzhaq) of Bukhara in the seventeenth century, whose verse rendered biblical narrative into Persian mathnavi. The greatest late figure is Rabbi **Shimon Hakham** (1843–1910), who from Jerusalem produced the monumental Judeo-Tajik Bible translation and commentary known as the *Tafsir Shimon Hakham*, printed in the *Bukhori* language in Hebrew letters and disseminated back to Bukhara. A living oral form is the *maddoh* — a devotional narrative singer, often blind, who recited hagiographies of biblical prophets and Sufi-style spiritual verse to a *doira* frame drum. Proverbs, riddles, and folktales circulated in Bukhori around the domestic *hantakht*; the American ethnomusicologist Theodore Levin has documented much of this repertoire in situ and in the New York diaspora.
+
+## Language & religion
+
+The community's vernacular is *Bukhori* (also *Judeo-Tajik*), an Indo-European Iranian language of the southwestern group, closely related to the Tajiki and Dari dialects of Persian and enriched with Hebrew and Aramaic religious vocabulary. It was traditionally written in Hebrew script; a brief Soviet-era experiment used Latin and then Cyrillic. Hebrew was the language of prayer and religious study; Russian and Uzbek were added under the Tsarist and Soviet regimes. Religion is Rabbinic Judaism. Until the late eighteenth century the community followed the Persian rite; from 1793 the Moroccan-born emissary Rabbi Yosef Maimon imposed the Sephardic rite, and the community has since followed the Sephardi liturgy with its own musical modalities drawn from *shashmaqam*. Folk-religious practice includes pilgrimage to the tomb of the prophet **Daniel** (Doniyor) in Samarkand — a site venerated in common with Muslims and Christians — the lighting of candles and tying of ribbons at saints' graves, and the wearing of *tumor* amulets containing Hebrew charms against the evil eye.
+
+## Sources & further reading
+
+- Levin, Theodore. *The Hundred Thousand Fools of God: Musical Travels in Central Asia (and Queens, New York)*. Indiana University Press, 1996.
+- Kalontarov, Yakov, and Alanna E. Cooper. *Bukharan Jews and the Dynamics of Global Judaism*. Indiana University Press, 2012.
+- Baldauf, Ingeborg, Moshe Gammer, and Thomas Loy (eds.). *Bukharan Jews in the 20th Century: History, Experience and Narration*. Reichert Verlag, 2008.
+- Kaganovitch, Albert. *The Long Life and Swift Death of Jewish Rechitsa: A Community in Belarus, 1625–2000* and his articles on Bukharan Jewish demography; see also his *Druz'ia ponevole: Rossiia i bukharskie evrei, 1800–1917*, NLO, 2016.
+- Sukhareva, O. A. *Bukhara XIX – nachala XX v.* (ethnography of Bukhara's mahallas, including the Jewish quarter). Nauka, Moscow, 1966.
+- Alexander Djumaev — published extensively on Bukharan *shashmaqam* and on Jewish musicians in the emirate's court music.
+- Emanuel Shimonov and the Bukharian Jewish Museum, Queens, NY — community documentation of textiles, silverwork, and *zardo'zi*.
+- Wikipedia: https://en.wikipedia.org/wiki/Bukharan_Jews
+- UNESCO ICH — **Shashmaqom music**, inscription RL/00089: https://ich.unesco.org/en/RL/00089
+- UNESCO ICH country page, Uzbekistan: https://ich.unesco.org/en/state/uzbekistan-UZ
+- Smithsonian Folkways search (Bukhara / shashmaqam): https://folkways.si.edu/search?query=bukhara
+- Victoria & Albert Museum, Central Asian ikat and *suzani* collections: https://collections.vam.ac.uk/search/?q=bukhara
+- The Metropolitan Museum of Art, Central Asian textiles: https://www.metmuseum.org/art/collection/search#!?q=bukhara

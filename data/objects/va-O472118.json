@@ -1,0 +1,111 @@
+{
+  "id": "va-O472118",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O472118",
+    "object_url": "https://collections.vam.ac.uk/item/O472118",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.23-1968",
+    "accession_year": 1968
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Balinese",
+    "tradition": "wayang",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1930-1939",
+    "date_earliest": 1930,
+    "date_latest": 1939,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [],
+    "medium_raw": "Printed cotton",
+    "classification": "Cloth",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Cloth of printed cotton, imitating batik. Patterned with a row of figures from the Wayang marionette theatre. Colours in blue and white.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "39.25",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Length",
+        "value": "99.4",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "19.75",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "50.3",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "022",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/wayang/images/va_O472118.jpg",
+      "iiif_id": "2021NA3582",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3582/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "d6a7d0981baeec8c45977eb5d20621c495f2d073b8e59c61abf15dfd45377f9b",
+      "bytes": 189951,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\wayang\\images\\va_O472118.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:23:35.987688+00:00"
+}

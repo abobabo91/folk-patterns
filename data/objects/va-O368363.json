@@ -1,0 +1,159 @@
+{
+  "id": "va-O368363",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O368363",
+    "object_url": "https://collections.vam.ac.uk/item/O368363",
+    "iiif_manifest": null,
+    "credit_line": "Given by Mrs Denman",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "T.295-1910",
+    "accession_year": 1910
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Philippines",
+    "ethnicity": "Filipino",
+    "tradition": "piña",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": "Fichu",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "pina",
+      "plant fibre"
+    ],
+    "techniques": [
+      "knitting"
+    ],
+    "medium_raw": "Vegetable fibre (possibly<i> piña</i>), loosely knitted",
+    "classification": "Fichu",
+    "styles": [],
+    "categories": [
+      "Accessories",
+      "Womenswear",
+      "Knitting"
+    ],
+    "physical_description": "Fichu, or <i>pañuelo</i>, of loosely knitted vegetable fibre, possibly <i>piña</i>, a textile derived from pineapple tree leaf fibres. Triangular in shape, with long pointed ends, the centre has a small overlapping pattern, arranged diagonally. The border is of a larger overlapping repeat pattern. 19th century. ",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "114",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "40",
+        "unit": "in",
+        "part": null
+      }
+    ],
+    "dimensions_note": "Measurements taken from historic record",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Philippines",
+    "made_in_place_alt": [
+      "Manila"
+    ],
+    "current_gallery": "014",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O368363.jpg",
+      "iiif_id": "2019MD7748",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7748/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "99373d3c8318d78284a239beab05a68448978730ae419ee83e5b345f5e86ace7",
+      "bytes": 54533,
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O368363.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O368363_1.jpg",
+      "iiif_id": "2019MD7751",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7751/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "ea98e645ed453acb3cbfa2eeec0e124410a13c057e49d4bd138af2bf7e45aa03",
+      "bytes": 78649,
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O368363_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O368363_2.jpg",
+      "iiif_id": "2019MD7752",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7752/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "b6287092aa2aaa17c842467b9839fcf99cc9ef5c23b7974a8cf612739872ed74",
+      "bytes": 76342,
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O368363_2.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O368363_3.jpg",
+      "iiif_id": "2019MD7753",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7753/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "a2e94a0fa4360ad0c3e06cf7766b336467f44d9d540fa2053ac68deed39e5b35",
+      "bytes": 50162,
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O368363_3.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O368363_4.jpg",
+      "iiif_id": "2019MD7760",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7760/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "0a895c4f80e00569a5a48ad705fdc9635271d0cae13f50dda191416ba55da996",
+      "bytes": 79976,
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O368363_4.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O368363_5.jpg",
+      "iiif_id": "2019MD7765",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7765/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "01e5f27e364a64b75ae372c0d650405adff5d4db057ff2e30f8027e267052b6f",
+      "bytes": 80384,
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O368363_5.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O368363_6.jpg",
+      "iiif_id": "2019MD7767",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7767/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "588c3f121800c259dfa829cfddc094537ff427a87facd8f1021a367e46ed8b61",
+      "bytes": 51613,
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O368363_6.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:39:17.115716+00:00"
+}

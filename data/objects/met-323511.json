@@ -1,0 +1,93 @@
+{
+  "id": "met-323511",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "323511",
+    "object_url": "https://www.metmuseum.org/art/collection/search/323511",
+    "iiif_manifest": null,
+    "credit_line": "Rogers Fund, 1936",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "36.30.332",
+    "accession_year": "1936"
+  },
+  "cultural": {
+    "region": "mena",
+    "country": "Iran",
+    "ethnicity": "Persian",
+    "tradition": "general",
+    "art_form": "unclassified",
+    "pattern_density": 0
+  },
+  "physical": {
+    "title": "Obol",
+    "titles_alt": [],
+    "date_text": "ca. 1st century BCE",
+    "date_earliest": -100,
+    "date_latest": -1,
+    "period": "Parthian",
+    "dynasty": null,
+    "materials": [
+      "Silver"
+    ],
+    "techniques": [],
+    "medium_raw": "Silver",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "3/8 in. (0.9 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Qasr-i Abu Nasr, Iran",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025928",
+      "http://vocab.getty.edu/page/aat/300123319"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_323511.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "719b67e689dc269317ed1401562d024b9ac514f1ce1fb355ba1a28578396c00b",
+      "bytes": 724736,
+      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_323511.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_323511_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "alt",
+      "sha256": "11dbb8db27a7e24854359661e722603c5b5075e386ef581a771a6c529a98997c",
+      "bytes": 711033,
+      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_323511_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-23T20:07:40.969547+00:00"
+}

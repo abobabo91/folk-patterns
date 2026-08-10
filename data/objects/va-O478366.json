@@ -1,0 +1,122 @@
+{
+  "id": "va-O478366",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478366",
+    "object_url": "https://collections.vam.ac.uk/item/O478366",
+    "iiif_manifest": null,
+    "credit_line": "Bequeathed by Sir John Addis",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.81-1984",
+    "accession_year": 1984
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1960s",
+    "date_earliest": 1960,
+    "date_latest": 1969,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Silk",
+    "classification": "Scarf",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing",
+      "Accessories"
+    ],
+    "physical_description": "Silk scarf in white with a weft design in pink.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Width",
+        "value": "34.3",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Length",
+        "value": "208",
+        "unit": "cm",
+        "part": "excluding fringe"
+      },
+      {
+        "dimension": "Length",
+        "value": "5",
+        "unit": "cm",
+        "part": "fringe"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Laos",
+    "made_in_place_alt": [],
+    "current_gallery": "003",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/unclassified/lao-silk/images/va_O478366.jpg",
+      "iiif_id": "2020MP8065",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8065/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "f2ae15441c4bb0e36313f84694e93feea33aad6e4bb8639b5134a3f404a90cba",
+      "bytes": 301316,
+      "local_path": "library\\southeast-asia\\laos\\lao\\unclassified\\lao-silk\\images\\va_O478366.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/unclassified/lao-silk/images/va_O478366_1.jpg",
+      "iiif_id": "2016JA7774",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2016JA7774/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "22317aede4b3486a0b7da0fcd9441ff962e1a213c5e7f4ba881e9c346a9dbdbd",
+      "bytes": 200322,
+      "local_path": "library\\southeast-asia\\laos\\lao\\unclassified\\lao-silk\\images\\va_O478366_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/unclassified/lao-silk/images/va_O478366_2.jpg",
+      "iiif_id": "2016JA7773",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2016JA7773/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "357308442b565a12899c1fc7350e4611399fb7021c2ecf5a220a903e9ef4a6bd",
+      "bytes": 200508,
+      "local_path": "library\\southeast-asia\\laos\\lao\\unclassified\\lao-silk\\images\\va_O478366_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:31:01.550187+00:00"
+}

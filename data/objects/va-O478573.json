@@ -1,0 +1,100 @@
+{
+  "id": "va-O478573",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478573",
+    "object_url": "https://collections.vam.ac.uk/item/O478573",
+    "iiif_manifest": null,
+    "credit_line": "Given by Miss Christobel Hardcastle",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.32-1974",
+    "accession_year": 1974
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "parang",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "19th century-20th century",
+    "date_earliest": 1800,
+    "date_latest": 1999,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [],
+    "medium_raw": "Batik on cotton",
+    "classification": "Skirt",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing"
+    ],
+    "physical_description": "Skirt of batik on cotton. Divided into rectangular compartments, each enclosing a lar (garuda) winged motif. Between the rectangles, which are lozenges, are bands with a parang motif. Colours are cream, blue and brown.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "101",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "160",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "023",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/parang/images/va_O478573.jpg",
+      "iiif_id": "2021NA3627",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3627/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "466dc28614fdaf867ff6b42c88ddf22cfcedefb7df26a27503a4383e675b6c79",
+      "bytes": 267922,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\parang\\images\\va_O478573.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:20:45.697621+00:00"
+}

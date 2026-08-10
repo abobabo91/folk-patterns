@@ -1,0 +1,1031 @@
+{
+  "region": "southeast-asia",
+  "notes": "Rijksmuseum is the workhorse here (Dutch colonial reach — Sumatra 1861 hits, Java 1645, batik 40, sarong 17, ikat 10). V&A + Smithsonian (CHNDM + FSG) provide the rest. Ethnicity != country: Malay stretches across Malaysia/Indonesia/Singapore; Cham across Vietnam/Cambodia. `met_queries` are broad Met-friendly terms (see museum-apis KB entry).",
+  "countries": [
+    {
+      "country": "Indonesia",
+      "met_queries": [
+        "Indonesia",
+        "Java",
+        "Sumatra",
+        "Bali",
+        "Dutch East Indies"
+      ],
+      "ethnicities": [
+        {
+          "name": "Javanese",
+          "homeland": {
+            "lat": -7.8,
+            "lon": 110.36
+          },
+          "homeland_place": "Yogyakarta",
+          "traditions": [
+            "batik",
+            "batik tulis",
+            "batik cap",
+            "kain panjang",
+            "kain kembangan",
+            "parang",
+            "kawung",
+            "truntum",
+            "sido mukti",
+            "wayang kulit",
+            "keris",
+            "kebaya",
+            "songket Javanese"
+          ],
+          "arch_commons_categories": [
+            "Borobudur",
+            "Prambanan",
+            "Kraton Yogyakarta",
+            "Kraton Surakarta",
+            "Sewu Temple",
+            "Mendut Temple",
+            "Traditional Javanese houses",
+            "Joglo"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Java",
+              "Javanese"
+            ]
+          }
+        },
+        {
+          "name": "Balinese",
+          "homeland": {
+            "lat": -8.34,
+            "lon": 115.09
+          },
+          "homeland_place": "Ubud",
+          "traditions": [
+            "gringsing",
+            "double ikat",
+            "endek",
+            "songket Balinese",
+            "prada",
+            "wayang",
+            "ceremonial mask",
+            "kain gringsing",
+            "poleng"
+          ],
+          "arch_commons_categories": [
+            "Pura Besakih",
+            "Pura Tanah Lot",
+            "Pura Ulun Danu Bratan",
+            "Goa Gajah",
+            "Uluwatu Temple",
+            "Balinese architecture",
+            "Bali Aga villages"
+          ],
+          "cleveland_accept_tokens": [
+            "bali",
+            "balinese"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Bali"
+            ]
+          }
+        },
+        {
+          "name": "Sundanese",
+          "homeland": {
+            "lat": -6.9,
+            "lon": 107.61
+          },
+          "homeland_place": "Bandung",
+          "traditions": [
+            "batik Cirebon",
+            "megamendung",
+            "batik Sunda",
+            "angklung",
+            "wayang golek",
+            "kujang",
+            "iket Sunda",
+            "kebaya Sunda",
+            "batik Garutan",
+            "batik Tasikmalaya",
+            "Soendaneesch",
+            "Soendanezen",
+            "kecapi suling",
+            "Baduy weaving",
+            "Kanekes textiles",
+            "boeh Baduy"
+          ],
+          "arch_commons_categories": [
+            "Sundanese houses",
+            "Ciamis Regency vernacular",
+            "Rumah adat Sunda",
+            "Kasepuhan Palace",
+            "Kanoman Palace",
+            "Gedung Sate",
+            "Great Mosque of Cirebon",
+            "Kampung Naga",
+            "Baduy village"
+          ],
+          "cleveland_accept_tokens": [
+            "sunda",
+            "sundanese",
+            "cirebon",
+            "sunda, java",
+            "priangan",
+            "baduy",
+            "kanekes",
+            "parahyangan"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Sunda",
+              "Sundanese",
+              "Java"
+            ],
+            "europeana": [
+              "Soendanees",
+              "Soendaneesch Java",
+              "Sundanese Preanger",
+              "Priangan Java",
+              "wayang golek Sunda",
+              "Baduy Kanekes"
+            ]
+          }
+        },
+        {
+          "name": "Batak",
+          "homeland": {
+            "lat": 2.63,
+            "lon": 98.87
+          },
+          "homeland_place": "Lake Toba",
+          "traditions": [
+            "ulos",
+            "ragi hotang",
+            "sadum",
+            "mangiring",
+            "Batak weaving",
+            "gorga carving"
+          ],
+          "arch_commons_categories": [
+            "Batak houses",
+            "Rumah Bolon",
+            "Ambarita",
+            "Bawomataluo"
+          ],
+          "cleveland_accept_tokens": [
+            "batak",
+            "toba",
+            "karo"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Batak",
+              "Sumatra"
+            ]
+          }
+        },
+        {
+          "name": "Minangkabau",
+          "homeland": {
+            "lat": -0.3,
+            "lon": 100.37
+          },
+          "homeland_place": "Bukittinggi",
+          "traditions": [
+            "songket Palembang",
+            "songket Pandai Sikek",
+            "tenun Minangkabau",
+            "sulaman Minangkabau"
+          ],
+          "arch_commons_categories": [
+            "Rumah Gadang",
+            "Istana Basa Pagaruyung",
+            "Minangkabau vernacular architecture"
+          ],
+          "cleveland_accept_tokens": [
+            "minangkabau"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Minangkabau",
+              "Sumatra"
+            ]
+          }
+        },
+        {
+          "name": "Dayak",
+          "homeland": {
+            "lat": 0.02,
+            "lon": 113.92
+          },
+          "homeland_place": "Central Kalimantan",
+          "traditions": [
+            "pua kumbu",
+            "Iban ikat",
+            "Dayak beadwork",
+            "Dayak carving",
+            "hornbill motif",
+            "Kayan",
+            "Kenyah",
+            "Bidayuh",
+            "Ngaju",
+            "mandau",
+            "parang ilang",
+            "hampatong",
+            "Dayak baby carrier",
+            "ba'ing",
+            "aso motif",
+            "Dayak tattoo",
+            "sirat",
+            "Dajak",
+            "tingang"
+          ],
+          "arch_commons_categories": [
+            "Rumah Betang",
+            "Dayak longhouses",
+            "Dayak villages",
+            "Traditional Dayak architecture",
+            "Sandung",
+            "Betang Radakng"
+          ],
+          "cleveland_accept_tokens": [
+            "dayak",
+            "kayan",
+            "kenyah",
+            "ngaju",
+            "bidayuh",
+            "iban",
+            "dajak"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Dayak",
+              "Borneo",
+              "Kalimantan"
+            ],
+            "europeana": [
+              "Dajak Borneo",
+              "Dayak Kalimantan",
+              "Ngaju Borneo",
+              "Kenyah Borneo",
+              "mandau Dayak",
+              "hampatong Dajak"
+            ]
+          }
+        },
+        {
+          "name": "Toraja",
+          "homeland": {
+            "lat": -3.02,
+            "lon": 119.87
+          },
+          "homeland_place": "Tana Toraja",
+          "traditions": [
+            "Toraja weaving",
+            "Toraja beadwork",
+            "tongkonan carving",
+            "Sa'dan Toraja",
+            "Mamasa Toraja",
+            "pa'tedong",
+            "pa'barre allo",
+            "sarita cloth",
+            "maa' cloth",
+            "kandaure",
+            "tau-tau",
+            "ma'nene",
+            "rambu solo",
+            "pangngan",
+            "passura"
+          ],
+          "arch_commons_categories": [
+            "Tongkonan",
+            "Toraja villages",
+            "Kete Kesu",
+            "Toraja funeral",
+            "Batutumonga",
+            "Rock tombs in Tana Toraja",
+            "Tau-tau"
+          ],
+          "cleveland_accept_tokens": [
+            "toraja",
+            "sa'dan",
+            "sa'dan toraja",
+            "mamasa",
+            "tana toraja"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Toraja",
+              "Sulawesi"
+            ],
+            "europeana": [
+              "Toraja Sulawesi",
+              "Sa'dan Toraja",
+              "Toradja",
+              "Toraja Celebes",
+              "tongkonan Toraja",
+              "Toraja textile Indonesia"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Javanese"
+    },
+    {
+      "country": "Malaysia",
+      "met_queries": [
+        "Malaysia",
+        "Malay",
+        "Borneo",
+        "Sarawak"
+      ],
+      "ethnicities": [
+        {
+          "name": "Malay",
+          "homeland": {
+            "lat": 3.14,
+            "lon": 101.69
+          },
+          "homeland_place": "Kuala Lumpur",
+          "traditions": [
+            "batik Malaysia",
+            "songket Malay",
+            "tekat",
+            "kelingkan",
+            "kain limar"
+          ],
+          "arch_commons_categories": [
+            "Sultan Abu Bakar State Mosque",
+            "Sultan Salahuddin Abdul Aziz Mosque",
+            "Malay traditional houses",
+            "Kampong houses in Malaysia",
+            "Istana Alam Shah",
+            "Kuala Kangsar",
+            "Interior of Sultan Salahuddin Abdul-Aziz Mosque"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Malay",
+              "Malaysia"
+            ]
+          }
+        },
+        {
+          "name": "Iban",
+          "homeland": {
+            "lat": 2.3,
+            "lon": 111.83
+          },
+          "homeland_place": "Sarawak",
+          "traditions": [
+            "pua kumbu",
+            "Iban ikat",
+            "Iban weaving",
+            "kalambi"
+          ],
+          "arch_commons_categories": [
+            "Iban longhouses",
+            "Rumah panjang",
+            "Longhouses in Sarawak"
+          ],
+          "cleveland_accept_tokens": [
+            "iban",
+            "sea dayak"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Borneo",
+              "Iban",
+              "Dayak"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Malay"
+    },
+    {
+      "country": "Thailand",
+      "met_queries": [
+        "Thai",
+        "Thailand",
+        "Siam",
+        "Siamese"
+      ],
+      "ethnicities": [
+        {
+          "name": "Thai",
+          "homeland": {
+            "lat": 13.75,
+            "lon": 100.5
+          },
+          "homeland_place": "Bangkok",
+          "traditions": [
+            "mudmee",
+            "Thai silk",
+            "phraphum",
+            "phasin",
+            "sinh",
+            "yok dok",
+            "khit",
+            "Thai temple mural"
+          ],
+          "arch_commons_categories": [
+            "Wat Phra Kaew",
+            "Wat Arun",
+            "Wat Pho",
+            "Ayutthaya Historical Park",
+            "Sukhothai Historical Park",
+            "Wat Phra Si Sanphet",
+            "Wat Chaiwatthanaram",
+            "Paintings of Wat Pho"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Thai",
+              "Siamese",
+              "Thailand"
+            ]
+          }
+        },
+        {
+          "name": "Lao Isan",
+          "homeland": {
+            "lat": 16.44,
+            "lon": 102.83
+          },
+          "homeland_place": "Khon Kaen",
+          "traditions": [
+            "mudmee Isan",
+            "praewa",
+            "sinh Isan",
+            "khit Isan",
+            "pha sin tin chok",
+            "khaen",
+            "bun bang fai",
+            "mor lam",
+            "pha khao ma",
+            "sinh mi",
+            "Kalasin silk",
+            "Chonnabot silk",
+            "Ban Chiang pottery"
+          ],
+          "arch_commons_categories": [
+            "Prasat Hin Phimai",
+            "Wat Phra That Phanom",
+            "Wat Nong Wang",
+            "Prasat Hin Phanom Rung",
+            "Prasat Muang Tam",
+            "Wat Phra That Choeng Chum",
+            "Ku Ka Sing",
+            "Prasat Puai Noi",
+            "Phra That Kong Khao Noi",
+            "Sim (Isan architecture)"
+          ],
+          "cleveland_accept_tokens": [
+            "isan",
+            "lao isan",
+            "northeastern thai",
+            "tai lao",
+            "phu tai",
+            "ban chiang"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Isan",
+              "Lao Isan"
+            ],
+            "europeana": [
+              "Isan textile Thailand",
+              "Lao Thailand silk",
+              "mudmee ikat",
+              "phu tai textile",
+              "praewa Kalasin",
+              "northeastern Thailand weaving"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Thai"
+    },
+    {
+      "country": "Vietnam",
+      "met_queries": [
+        "Vietnam",
+        "Vietnamese",
+        "Annam",
+        "Champa"
+      ],
+      "ethnicities": [
+        {
+          "name": "Kinh",
+          "homeland": {
+            "lat": 21.03,
+            "lon": 105.85
+          },
+          "homeland_place": "Hanoi",
+          "traditions": [
+            "ao dai",
+            "silk Vietnamese",
+            "brocade Vietnamese",
+            "lacquer painting",
+            "Dong Ho print",
+            "Hang Trong print"
+          ],
+          "arch_commons_categories": [
+            "Imperial City, Huế",
+            "Perfume Pagoda",
+            "One Pillar Pagoda",
+            "Temple of Literature, Hanoi",
+            "Bái Đính Temple",
+            "Hoi An Ancient Town",
+            "Old Quarter, Hanoi"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Vietnamese",
+              "Vietnam"
+            ]
+          }
+        },
+        {
+          "name": "Hmong",
+          "homeland": {
+            "lat": 22.34,
+            "lon": 103.84
+          },
+          "homeland_place": "Sapa",
+          "traditions": [
+            "Hmong batik",
+            "Hmong embroidery",
+            "paj ntaub",
+            "Hmong applique",
+            "Hmong textile",
+            "Hmong silver jewelry",
+            "Hmong costume",
+            "Miao textile",
+            "flower Hmong",
+            "black Hmong",
+            "white Hmong",
+            "Hmong indigo",
+            "reverse applique",
+            "Hmong pleated skirt",
+            "Meo textile",
+            "Hmong hemp cloth"
+          ],
+          "arch_commons_categories": [
+            "Hmong villages",
+            "Hmong people",
+            "Hmong women",
+            "Hmong New Year",
+            "Hmong clothing"
+          ],
+          "cleveland_accept_tokens": [
+            "hmong",
+            "miao",
+            "hmong, vietnam",
+            "miao, china",
+            "meo",
+            "mong"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Hmong",
+              "Miao"
+            ],
+            "europeana": [
+              "Hmong textile Vietnam",
+              "Miao embroidery",
+              "Meo Vietnam costume",
+              "paj ntaub Hmong",
+              "Hmong batik indigo",
+              "Miao silver jewelry"
+            ]
+          }
+        },
+        {
+          "name": "Cham",
+          "homeland": {
+            "lat": 12.24,
+            "lon": 109.19
+          },
+          "homeland_place": "Nha Trang",
+          "traditions": [
+            "Cham weaving",
+            "Cham brocade",
+            "Cham temple carving"
+          ],
+          "arch_commons_categories": [
+            "My Son",
+            "Po Nagar Cham Towers",
+            "Po Klong Garai",
+            "Cham towers"
+          ],
+          "cleveland_accept_tokens": [
+            "champa",
+            "cham"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Champa",
+              "Cham"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Kinh"
+    },
+    {
+      "country": "Cambodia",
+      "met_queries": [
+        "Cambodia",
+        "Cambodian",
+        "Khmer"
+      ],
+      "ethnicities": [
+        {
+          "name": "Khmer",
+          "homeland": {
+            "lat": 13.44,
+            "lon": 103.86
+          },
+          "homeland_place": "Siem Reap",
+          "traditions": [
+            "hol",
+            "pidan",
+            "Khmer silk",
+            "sampot hol",
+            "sampot chorabap",
+            "Khmer relief"
+          ],
+          "arch_commons_categories": [
+            "Angkor Wat",
+            "Bayon",
+            "Ta Prohm",
+            "Preah Vihear Temple",
+            "Banteay Srei",
+            "Angkor Thom",
+            "Roluos Group",
+            "Silver Pagoda, Phnom Penh",
+            "Wat Phnom",
+            "Walls of Angkor Thom"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Cambodian",
+              "Cambodia",
+              "Angkor"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Khmer"
+    },
+    {
+      "country": "Laos",
+      "met_queries": [
+        "Laos",
+        "Lao",
+        "Laotian"
+      ],
+      "ethnicities": [
+        {
+          "name": "Lao",
+          "homeland": {
+            "lat": 19.89,
+            "lon": 102.13
+          },
+          "homeland_place": "Luang Prabang",
+          "traditions": [
+            "sinh",
+            "Lao silk",
+            "mudmee Lao",
+            "Tai Lue weaving",
+            "naga motif"
+          ],
+          "arch_commons_categories": [
+            "Pha That Luang",
+            "Haw Phra Kaew",
+            "Wat Xieng Thong",
+            "Wat Sisaket",
+            "Vat Phou",
+            "Traditional houses in Laos"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Lao",
+              "Laos",
+              "Laotian"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Lao"
+    },
+    {
+      "country": "Myanmar",
+      "met_queries": [
+        "Myanmar",
+        "Burma",
+        "Burmese",
+        "Shan"
+      ],
+      "ethnicities": [
+        {
+          "name": "Bamar",
+          "homeland": {
+            "lat": 21.98,
+            "lon": 96.09
+          },
+          "homeland_place": "Mandalay",
+          "traditions": [
+            "longyi",
+            "acheik",
+            "kalaga",
+            "Burmese lacquer",
+            "Shan weaving"
+          ],
+          "arch_commons_categories": [
+            "Shwedagon Pagoda",
+            "Ananda Temple",
+            "Shwezigon Pagoda",
+            "Dhammayangyi Temple",
+            "Sulamani Temple",
+            "Thatbyinnyu Temple",
+            "Shwenandaw Kyaung",
+            "Kuthodaw Pagoda",
+            "Bagan temples",
+            "Mahamuni Buddha Temple",
+            "Interior of Ananda Temple",
+            "Glass mosaics in Kuthodaw Pagoda"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Burmese",
+              "Burma",
+              "Myanmar"
+            ]
+          }
+        },
+        {
+          "name": "Chin",
+          "homeland": {
+            "lat": 22.3,
+            "lon": 93.6
+          },
+          "homeland_place": "Hakha",
+          "traditions": [
+            "Chin blanket",
+            "Chin weaving",
+            "puan"
+          ],
+          "arch_commons_categories": [
+            "Chin State",
+            "Traditional houses in Chin State"
+          ],
+          "cleveland_accept_tokens": [
+            "chin state"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Chin",
+              "Myanmar"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Bamar"
+    },
+    {
+      "country": "Philippines",
+      "met_queries": [
+        "Philippines",
+        "Filipino",
+        "Philippine"
+      ],
+      "ethnicities": [
+        {
+          "name": "Filipino",
+          "homeland": {
+            "lat": 14.6,
+            "lon": 120.98
+          },
+          "homeland_place": "Manila",
+          "traditions": [
+            "barong Tagalog",
+            "piña",
+            "jusi",
+            "abaca",
+            "inabel"
+          ],
+          "arch_commons_categories": [
+            "Bahay na bato",
+            "Nipa hut",
+            "Baguio Cathedral",
+            "Vigan",
+            "Paoay Church",
+            "Miagao Church",
+            "Interior of Baguio Cathedral",
+            "Interior of Paoay Church"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Filipino",
+              "Philippines"
+            ]
+          }
+        },
+        {
+          "name": "T'boli",
+          "homeland": {
+            "lat": 6.29,
+            "lon": 124.72
+          },
+          "homeland_place": "Lake Sebu",
+          "traditions": [
+            "t'nalak",
+            "T'boli brass",
+            "T'boli beadwork"
+          ],
+          "arch_commons_categories": [
+            "T'boli people",
+            "Lake Sebu",
+            "T'nalak",
+            "Tboli"
+          ],
+          "cleveland_accept_tokens": [
+            "t'boli",
+            "tboli"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "T'boli",
+              "Philippines Mindanao"
+            ]
+          }
+        },
+        {
+          "name": "Yakan",
+          "homeland": {
+            "lat": 6.52,
+            "lon": 122.05
+          },
+          "homeland_place": "Basilan",
+          "traditions": [
+            "Yakan weaving",
+            "seputangan",
+            "sinaluan",
+            "bunga sama"
+          ],
+          "arch_commons_categories": [
+            "Yakan people",
+            "Yakan textiles"
+          ],
+          "cleveland_accept_tokens": [
+            "yakan"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Yakan",
+              "Philippines Mindanao"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Filipino"
+    }
+  ],
+  "region_places": {
+    "place_to_country": {
+      "indonesia": "Indonesia",
+      "dutch east indies": "Indonesia",
+      "java": "Indonesia",
+      "west java": "Indonesia",
+      "central java": "Indonesia",
+      "east java": "Indonesia",
+      "yogyakarta": "Indonesia",
+      "jogjakarta": "Indonesia",
+      "solo": "Indonesia",
+      "surakarta": "Indonesia",
+      "cirebon": "Indonesia",
+      "pekalongan": "Indonesia",
+      "sumatra": "Indonesia",
+      "west sumatra": "Indonesia",
+      "north sumatra": "Indonesia",
+      "palembang": "Indonesia",
+      "medan": "Indonesia",
+      "aceh": "Indonesia",
+      "batak": "Indonesia",
+      "bali": "Indonesia",
+      "denpasar": "Indonesia",
+      "kalimantan": "Indonesia",
+      "borneo": "_regional",
+      "sarawak": "Malaysia",
+      "sabah": "Malaysia",
+      "sulawesi": "Indonesia",
+      "celebes": "Indonesia",
+      "toraja": "Indonesia",
+      "flores": "Indonesia",
+      "sumba": "Indonesia",
+      "timor": "Indonesia",
+      "maluku": "Indonesia",
+      "papua": "Indonesia",
+      "new guinea": "_regional",
+      "malaysia": "Malaysia",
+      "malay peninsula": "Malaysia",
+      "kuala lumpur": "Malaysia",
+      "penang": "Malaysia",
+      "melaka": "Malaysia",
+      "malacca": "Malaysia",
+      "kelantan": "Malaysia",
+      "terengganu": "Malaysia",
+      "brunei": "Malaysia",
+      "singapore": "Malaysia",
+      "thailand": "Thailand",
+      "siam": "Thailand",
+      "siamese": "Thailand",
+      "bangkok": "Thailand",
+      "chiang mai": "Thailand",
+      "isan": "Thailand",
+      "vietnam": "Vietnam",
+      "annam": "Vietnam",
+      "tonkin": "Vietnam",
+      "champa": "Vietnam",
+      "hanoi": "Vietnam",
+      "saigon": "Vietnam",
+      "ho chi minh": "Vietnam",
+      "hue": "Vietnam",
+      "cambodia": "Cambodia",
+      "cambodian": "Cambodia",
+      "khmer": "Cambodia",
+      "phnom penh": "Cambodia",
+      "siem reap": "Cambodia",
+      "angkor": "Cambodia",
+      "laos": "Laos",
+      "lao": "Laos",
+      "luang prabang": "Laos",
+      "vientiane": "Laos",
+      "myanmar": "Myanmar",
+      "burma": "Myanmar",
+      "burmese": "Myanmar",
+      "yangon": "Myanmar",
+      "rangoon": "Myanmar",
+      "mandalay": "Myanmar",
+      "shan": "Myanmar",
+      "chin": "Myanmar",
+      "philippines": "Philippines",
+      "filipino": "Philippines",
+      "manila": "Philippines",
+      "mindanao": "Philippines",
+      "sulu": "Philippines",
+      "basilan": "Philippines",
+      "cotabato": "Philippines",
+      "luzon": "Philippines",
+      "southeast asia": "_regional",
+      "south-east asia": "_regional",
+      "indochina": "_regional",
+      "east indies": "_regional"
+    },
+    "reject_places": [
+      "afghanistan",
+      "americas",
+      "australia",
+      "bangladesh",
+      "central asia",
+      "china",
+      "europe",
+      "france",
+      "germany",
+      "india",
+      "iran",
+      "italy",
+      "japan",
+      "korea",
+      "mexico",
+      "netherlands",
+      "pakistan",
+      "papua new guinea",
+      "persia",
+      "spain",
+      "sri lanka",
+      "united states",
+      "uzbekistan"
+    ],
+    "signature_traditions": {
+      "batik": "Indonesia",
+      "songket": "Indonesia",
+      "gringsing": "Indonesia",
+      "ulos": "Indonesia",
+      "pua kumbu": "Malaysia",
+      "mudmee": "Thailand",
+      "hol": "Cambodia",
+      "sinh": "Laos",
+      "acheik": "Myanmar",
+      "longyi": "Myanmar",
+      "kalaga": "Myanmar",
+      "t'nalak": "Philippines",
+      "paj ntaub": "Vietnam",
+      "sarong": "_regional",
+      "ikat": "_regional",
+      "kain panjang": "Indonesia"
+    }
+  }
+}

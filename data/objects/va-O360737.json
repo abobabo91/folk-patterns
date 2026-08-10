@@ -1,0 +1,117 @@
+{
+  "id": "va-O360737",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O360737",
+    "object_url": "https://collections.vam.ac.uk/item/O360737",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "966-1889",
+    "accession_year": 1889
+  },
+  "cultural": {
+    "region": "central_asia",
+    "country": "Uzbekistan",
+    "ethnicity": "Uzbek",
+    "tradition": "suzani",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "",
+    "classification": "Suzani",
+    "styles": [],
+    "categories": [
+      "Parasol Foundation Trust Indian Textiles Cataloguing Project",
+      "Textiles",
+      "Embroidery"
+    ],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Width",
+        "value": "104",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Length",
+        "value": "165",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Uzbekistan",
+    "made_in_place_alt": [],
+    "current_gallery": "005",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/suzani/images/va_O360737.jpg",
+      "iiif_id": "2018LB2658",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2018LB2658/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "1e677abf6fd41ccfcaaab504361c460378432b705c306398872426d25e27d529",
+      "bytes": 409338,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\suzani\\images\\va_O360737.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/suzani/images/va_O360737_1.jpg",
+      "iiif_id": "2018LB2657",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2018LB2657/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "0523c659b1edd5b72d9746b2584106f0bec739c617f17333d692990bbcea412b",
+      "bytes": 487391,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\suzani\\images\\va_O360737_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/suzani/images/va_O360737_2.jpg",
+      "iiif_id": "2018LB2656",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2018LB2656/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "b10651888b733eae88ac0014f9d5068ad192da7a4ba831638031ffdebff73861",
+      "bytes": 212429,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\suzani\\images\\va_O360737_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:22:41.845034+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "europeana-15514_T_4194",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "MAK – Museum of Applied Arts",
+    "object_id": "15514_T_4194",
+    "object_url": "https://www.europeana.eu/item/15514/T_4194?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Turkmenistan",
+    "ethnicity": "Turkmen",
+    "tradition": "Turkmen",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": "Ersari-Turkmenen-Teppich (vom Bearbeiter vergebener Titel)",
+    "titles_alt": [],
+    "date_text": {
+      "def": "1851-1900"
+    },
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "http://data.europeana.eu/concept/2154"
+    ],
+    "techniques": [],
+    "medium_raw": "http://data.europeana.eu/concept/2154",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Height: 115 cm · Höhe: 115 cm · Breite: 78 cm",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Austria",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "MAK – Museum of Applied Arts",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/garment/turkmen/images/eu_15514_T_4194.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fe2d812221ac49a25320d3a5db49e12f8786af05728aea7c0dc57e2f18652678",
+      "bytes": 165727,
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\garment\\turkmen\\images\\eu_15514_T_4194.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-20T18:26:27.601440+00:00"
+}

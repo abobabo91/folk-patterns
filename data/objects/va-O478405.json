@@ -1,0 +1,109 @@
+{
+  "id": "va-O478405",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478405",
+    "object_url": "https://collections.vam.ac.uk/item/O478405",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.8-1983",
+    "accession_year": 1983
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Sundanese",
+    "tradition": "batik Cirebon",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1900-1910",
+    "date_earliest": 1900,
+    "date_latest": 1910,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [],
+    "medium_raw": "Cotton batik",
+    "classification": "Shoulder cloth",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing"
+    ],
+    "physical_description": "Shoulder cloth (<i>selendang</i>) of cotton batik. With a white design in blue relief ground made up in diamond form around the centre of the cloth, with two further smaller diamonds centred at each half of the cloth.\n\nThe design is made up in Arabic calligraphy with larger calligraphic elements in the corners and along the outer borders, and on the central division and in two minor diamonds centred in each half. The overall diamond design is created by parallel rows of script separated by lines with rows of dots on each side.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "139",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "90",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Cirebon",
+    "made_in_place_alt": [],
+    "current_gallery": "020",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/textile/batik-cirebon/images/va_O478405.jpg",
+      "iiif_id": "2017JV4678",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JV4678/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "bc9afbc70ead2589364101e4dbf4604350c990438a8e077e50715354ffe0f127",
+      "bytes": 719073,
+      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\textile\\batik-cirebon\\images\\va_O478405.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/textile/batik-cirebon/images/va_O478405_1.jpg",
+      "iiif_id": "2017JV4677",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JV4677/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "54cb51bf779e615c7c2538729b18499553025e63682f716aef55314f0e6d9fb8",
+      "bytes": 285698,
+      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\textile\\batik-cirebon\\images\\va_O478405_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:24:28.399165+00:00"
+}

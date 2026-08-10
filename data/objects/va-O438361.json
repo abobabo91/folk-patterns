@@ -1,0 +1,115 @@
+{
+  "id": "va-O438361",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O438361",
+    "object_url": "https://collections.vam.ac.uk/item/O438361",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.12-2008",
+    "accession_year": 2008
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Tajikistan",
+    "ethnicity": "Tajik",
+    "tradition": "kurta",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "ca. 1900",
+    "date_earliest": 1895,
+    "date_latest": 1904,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)",
+      "cotton"
+    ],
+    "techniques": [
+      "woven",
+      "appliqué"
+    ],
+    "medium_raw": "Cotton, woven, embroidered with cotton thread",
+    "classification": "Kurta",
+    "styles": [],
+    "categories": [
+      "Embroidery",
+      "Clothing",
+      "Textiles",
+      "Parasol Foundation Trust Indian Textiles Cataloguing Project"
+    ],
+    "physical_description": "A man's shirt (kurta) of white cotton, embroidered around the neck and arm-holes with white cotton and with a repeating embroidered floral motif on the body. Appliqué work in cotton around the collar.",
+    "summary": "This man's shirt (kurta) was made and worn in Lucknow in northern India in the early 20th century. The use of fine white cotton and delicate embroidery in white cotton thread (called 'chikan' work) is typical of Lucknow garments in the 19th and early 20th century. Embroidered cotton kurtas are still made in Lucknow, but the embroidery and the cotton are less fine than on earlier examples.",
+    "historical_context": "Intended for use as clothing/garment.",
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "99",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "173",
+        "unit": "cm",
+        "part": "maximum with arms outstretched"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Lucknow",
+    "made_in_place_alt": [],
+    "current_gallery": "002",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O438361.jpg",
+      "iiif_id": "2021MY0807",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021MY0807/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "8113e3789e9a1dc6a560dc09b6505b38aae3b399585e531bf071ac5b1170437a",
+      "bytes": 117548,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O438361.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O438361_1.jpg",
+      "iiif_id": "2012FL3956",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3956/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "41e8cfc027837018d21687ce12927b7f5053f3ec1b184fcaa7cd0517b11a8fa6",
+      "bytes": 332698,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O438361_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:33:54.181711+00:00"
+}

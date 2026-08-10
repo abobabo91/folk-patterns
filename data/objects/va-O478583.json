@@ -1,0 +1,116 @@
+{
+  "id": "va-O478583",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478583",
+    "object_url": "https://collections.vam.ac.uk/item/O478583",
+    "iiif_manifest": null,
+    "credit_line": "Given by G. P. Baker",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.167-1950",
+    "accession_year": 1950
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "batik",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [],
+    "medium_raw": "Resist-dyed cotton",
+    "classification": "Textile",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Textile of resist-dyed cotton (batik). Plain blue field with the border decoration in white and brown on a blue ground. Leaves and flowers.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "132",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "81",
+        "unit": "in",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Malaysia",
+    "made_in_place_alt": [],
+    "current_gallery": "017",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/architectural/batik/images/va_O478583.jpg",
+      "iiif_id": "2021NA3554",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3554/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "75794af45be0bd0a78bd2e31c66586d4625354b8aa224f4248c6b79afd6cf909",
+      "bytes": 371865,
+      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\architectural\\batik\\images\\va_O478583.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/architectural/batik/images/va_O478583_1.jpg",
+      "iiif_id": "2012FM9542",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9542/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "1abd190707e324e10ad207b9f44fe194b1b001ef30d963e7475ca9e6aa31c0e8",
+      "bytes": 344367,
+      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\architectural\\batik\\images\\va_O478583_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/architectural/batik/images/va_O478583_2.jpg",
+      "iiif_id": "2018KY9275",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9275/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "b7e042a9199d97519420da0e070a6f3d21def66b2c1696c99faaf14cbf236111",
+      "bytes": 271566,
+      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\architectural\\batik\\images\\va_O478583_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:19:02.857692+00:00"
+}

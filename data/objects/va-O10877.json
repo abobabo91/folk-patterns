@@ -1,0 +1,104 @@
+{
+  "id": "va-O10877",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O10877",
+    "object_url": "https://collections.vam.ac.uk/item/O10877",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "6140(IS)",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Myanmar",
+    "ethnicity": "Bamar",
+    "tradition": "acheik",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "3rd Quarter of 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1875,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "silk (textile)"
+    ],
+    "techniques": [
+      "weaving"
+    ],
+    "medium_raw": "Silk luntaya (one hundred shuttles) interlocking tapestry weave.",
+    "classification": "Acheik-luntaya silk textile",
+    "styles": [
+      "Konbaung"
+    ],
+    "categories": [
+      "India Museum"
+    ],
+    "physical_description": "Acheik (horizontal wave) patterned cloth in dark green, white and red.\r\nIdentical pattern to 6146 (IS)",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "108",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "61",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Pegu",
+    "made_in_place_alt": [
+      "Burma"
+    ],
+    "current_gallery": "006",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/architectural/acheik/images/va_O10877.jpg",
+      "iiif_id": "2020MP5255",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5255/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "ad4cda0d214e6048c1ddf345c09a7dd44e251bad1ca00ab7a1a72bfeaa730fb0",
+      "bytes": 317210,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\architectural\\acheik\\images\\va_O10877.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:33:24.645786+00:00"
+}

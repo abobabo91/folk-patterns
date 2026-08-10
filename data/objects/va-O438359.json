@@ -1,0 +1,135 @@
+{
+  "id": "va-O438359",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O438359",
+    "object_url": "https://collections.vam.ac.uk/item/O438359",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.14-2008",
+    "accession_year": 2008
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Tajikistan",
+    "ethnicity": "Tajik",
+    "tradition": "kurta",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "ca. 1900",
+    "date_earliest": 1895,
+    "date_latest": 1904,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "muslin",
+      "cotton (textile)",
+      "cotton thread"
+    ],
+    "techniques": [
+      "woven",
+      "embroidered",
+      "applied"
+    ],
+    "medium_raw": "Cotton, woven, with appliqué and embroidery in cotton thread",
+    "classification": "Kurta",
+    "styles": [],
+    "categories": [
+      "Clothing",
+      "Embroidery",
+      "Textiles",
+      "Parasol Foundation Trust Indian Textiles Cataloguing Project"
+    ],
+    "physical_description": "Man's shirt (kurta) of fine white muslin, with stand-up collar and 3 mother-of-pearl buttons. Whitework appliqué and embroidery in a floral design around collar, armholes, cuffs and edges. ",
+    "summary": "This man's shirt (kurta) from Lucknow in northern India is unusual in that it has a stand-up collar and is fastened with buttons, neither of which would be found in a traditional Indian kurta, which has a plain round neck and is fastened with studs. The use of fine white muslin and whitework embroidery, called chikan work, is however typical of Lucknow, where embroidered cotton kurtas are still made today.",
+    "historical_context": "Intended for use as clothing, garment.",
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "96",
+        "unit": "cm",
+        "part": "from top of collar to hem"
+      },
+      {
+        "dimension": "Width",
+        "value": "151",
+        "unit": "cm",
+        "part": "maximum with arms outstretched"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Lucknow",
+    "made_in_place_alt": [],
+    "current_gallery": "010",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O438359.jpg",
+      "iiif_id": "2012FL3945",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3945/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "042ebb10c02fb03fd9328829d078f32105d54cbd586e5671f2255477c3eb81ea",
+      "bytes": 127993,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O438359.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O438359_1.jpg",
+      "iiif_id": "2012FL3946",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3946/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "03951c3ad0e84dcf140c8aa8758d7cea8480e6bd52e670e995c0c951fbc0334b",
+      "bytes": 190870,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O438359_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O438359_2.jpg",
+      "iiif_id": "2012FL3947",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3947/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "148f8c7ee4fb056491be37d74e4c477ca9691bbdfc0ec217f94ef0076b1a2efa",
+      "bytes": 148393,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O438359_2.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O438359_3.jpg",
+      "iiif_id": "2012FL3948",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3948/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "1af63f543736abb8dffc37b13ec46244c103b2240c8ca31c6f37de0551bf036d",
+      "bytes": 247095,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O438359_3.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:33:41.253404+00:00"
+}

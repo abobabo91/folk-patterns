@@ -1,0 +1,102 @@
+{
+  "id": "met-448960",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "448960",
+    "object_url": "https://www.metmuseum.org/art/collection/search/448960",
+    "iiif_manifest": null,
+    "credit_line": "Rogers Fund, 1933",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "33.118",
+    "accession_year": "1933"
+  },
+  "cultural": {
+    "region": "mena",
+    "country": "Iran",
+    "ethnicity": "Persian",
+    "tradition": "general",
+    "art_form": "sculpture",
+    "pattern_density": 0
+  },
+  "physical": {
+    "title": "Tombstone of Abu Sa'd ibn Muhammad ibn Ahmad al-Hasan Karwaih",
+    "titles_alt": [],
+    "date_text": "dated 545 AH/1150 CE",
+    "date_earliest": 1149,
+    "date_latest": 1151,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Marble",
+      "carved",
+      "painted"
+    ],
+    "techniques": [],
+    "medium_raw": "Marble; carved, painted",
+    "classification": "Stone",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 22 1/4 in. (56.5 cm)\r\nW. 14 5/8 in. (37.1 cm)\r\nD. 2 7/8 in. (7.3 cm)\r\nWt. 64lb. (29kg)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Yazd, Iran",
+    "made_in_place_alt": [],
+    "current_gallery": "453",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Ahmad ibn Muhammad Astak",
+        "role": "Maker",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q116274530",
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300076155",
+      "http://vocab.getty.edu/page/aat/300387843"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_448960.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "52c0664b73c06620a0f8bc22dfe73395d80a715b660cd08038d0b7184f43eff0",
+      "bytes": 1922603,
+      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_448960.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_448960_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "alt",
+      "sha256": "9d593fbc4b3103847e42cabecd89c2d564cb173fb9f03f21dade27f46a434a83",
+      "bytes": 382457,
+      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_448960_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-23T20:16:26.521237+00:00"
+}

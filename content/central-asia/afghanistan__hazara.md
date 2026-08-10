@@ -1,0 +1,85 @@
+---
+title: "Hazara"
+subtitle: "Afghanistan"
+region: "Central Asia"
+tags: [ethnography, central-asia]
+---
+
+## Overview
+
+The Hazara are a Persian-speaking, predominantly Shi'a Muslim people concentrated in the *Hazarajat* (also called Hazaristan), a high plateau of central Afghanistan spanning the Koh-i-Baba range and the headwaters of the Helmand, Hari, and Balkh rivers. Core provinces are Bamyan, Daikundi, Ghor, Maidan Wardak, and Ghazni, with major diaspora populations in Quetta (Pakistan) and Mashhad (Iran). Estimates of population range widely, but most unbiased sources place them at roughly 9% of Afghanistan's population, alongside significant communities across Central Asia, Iran, and Pakistan. They speak *Hazaragi*, a Dari (Persian) dialect enriched with Mongolic and Turkic vocabulary. Their ethnogenesis blends Turkic, Mongolic, and Iranic strands, and their material culture — high-altitude pastoral textiles, embroidered coats, mudbrick fortified houses — reflects this crossroads geography between Iran, Turkestan, and the Indian subcontinent.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Hazaragi embroidery** — Dense counted-thread and satin-stitch needlework worked in silk or cotton floss on cotton ground, used to ornament dress fronts (*peshwaz*), cuffs, collars, cap crowns, and small bags. Unlike the freer floral embroidery of Kandahari *khamak*, Hazaragi work leans toward tight geometric registers built up from crosses, lozenges, and sun-wheels, often in a saturated palette of madder red, indigo, black, and white.
+
+**Chapan** — The long, sleeved, straight-cut coat worn across Central Asia; the Hazara version is typically of quilted cotton or wool for winter, sometimes lined with lambskin (*pustin*) in the highest villages. Prestige *chapans* use imported striped silk *ikat* (*abr*, "cloud" cloth) from Bukhara or Mazar-i-Sharif, bound with a plain contrasting tape at cuffs and hem.
+
+**Barak** — A fulled, felt-like woolen cloth woven in Hazarajat and Ghor from soft mountain-sheep wool, prized across Afghanistan for winter coats and blankets. Undyed cream, camel, and dark brown are the classic tones; the cloth is warm, water-shedding, and often finished with a light nap.
+
+**Namad felts** — Heavy pressed felt rugs made by rolling wetted, carded wool around a reed mat. Hazara *namad* typically carries appliquéd or inlaid contrasting-color medallions and running borders rather than the piled knots of a Turkmen rug; the felts serve as floor covering, sleeping mat, and saddle pad.
+
+**Gilim and jajim** — Flat-woven *gilim* (kilim) and narrow warp-faced *jajim* strips are produced on ground looms in Hazara households, used as mattress covers, storage-sack fronts (*juwal*), and door hangings. Slit-tapestry lozenges and hooked "S" borders are common.
+
+**Silk caps and cap embroidery** — Small round or four-panel caps (*kulah*) are embroidered by women and worn under turbans by men and under headscarves by girls; the crown carries radial stitched motifs and the band a running border. Silk thread for the finer examples ties into the broader Central Asian *sericulture* tradition inscribed on UNESCO's Representative List.
+
+**Motif vocabulary.** *gul* (rosette / flower medallion), *badam* (almond / boteh), *shakh-e-buz* (goat-horn hook), *chashm* (eye, protective), *muhr* (seal / eight-pointed star), *panja* (five-finger hand), *sar-e-mar* (snake-head zig-zag), *charkh* (wheel / sun disc), *dandana* (toothed border), *koh* (mountain triangle).
+
+### Clothing & dress
+
+Men's daily dress is the *perahan-tunban* — a long shirt over full-cut trousers — worn with a waistcoat (*waskat*), a wound turban (*lungi* or *dastar*) or an embroidered *kulah* cap, and in winter the quilted *chapan* or a sheepskin *pustin* with the fleece turned inward. Leather-soled slip-ons (*paizar*) or, in the mountains, thick felt boots are usual. Women wear a long dress (*peshwaz* or *kurta*) with wide skirts over trousers gathered at the ankle, layered with a long headscarf (*chadar*); festive dresses carry heavy embroidered chest panels and mirror-work at the cuffs. Brides wear a green or red embroidered gown, silver-and-coral jewelry, and a fine muslin veil; the henna night (*shab-e-hana*) has its own dress code of green. Small children are given embroidered caps sewn with amuletic triangles (*ta'wiz*) and coral beads to ward off the evil eye. Winter mountain dress adds felted *barak* overcoats and thick knitted wool socks patterned in geometric bands.
+
+### Architecture
+
+The characteristic Hazarajat house is a flat-roofed, single-story mudbrick or rammed-earth dwelling built into a south-facing hillside for winter insulation. Walls of sun-dried brick (*khesht*) rest on a stone footing; the flat roof is a layer of poplar beams, brushwood, and packed earth that must be re-rolled after each snowfall with a stone cylinder (*ghaltak*). Interiors center on a sunken hearth or a *tandoor* pit for bread; a low mud platform (*sufa*) along one wall doubles as seat and sleeping bench, spread with felts and *gilim*. Larger villages retain the *qala* — a square fortified compound with high blind outer walls, corner towers, and a single gated entrance opening onto an inner courtyard with stables, grain stores, and family rooms. Windows are small and high, sometimes closed with carved wooden lattices. In summer pastures (*aylaq*), families move with their flocks to black goat-hair tents or simple stone-and-turf huts. The rock-cut cliff niches and cave dwellings around Bamyan — many still inhabited — extend a tradition of hewn architecture that predates the giant Buddhas destroyed in 2001.
+
+### Ceramics, metalwork & everyday objects
+
+Hazara household equipment is dominated by copper and tinned-copper vessels made by urban coppersmiths (*misgar*) in Kabul, Herat, and Mashhad and traded into the mountains: the deep *deg* cooking pot, the long-spouted ewer and basin (*aftaba-lagan*) used for handwashing before meals, and the samovar. Wooden objects are pared and lathe-turned from local walnut, poplar, and juniper — bread-dough troughs, low round tables (*khan*), butter churns of stitched sheepskin, and the carved wooden cradle (*gahwara*) that rocks on curved rails. Turned wooden bowls and long-handled ladles serve for the daily wheat- and dairy-based dishes. Utility pottery is generally coarse, unglazed water jars and storage vessels of local red clay; the fine tin-glazed wares of Istalif and Nishapur reach Hazara markets by trade rather than local production. Storage bags of striped *jajim* and knotted-pile *khorjin* saddlebags carry grain and salt on the yearly transhumance.
+
+### Jewelry & body adornment
+
+Silver dominates Hazara jewelry, often set with carnelian, turquoise, lapis, and coral traded from Badakhshan and beyond. Characteristic pieces include the *ta'wiz* or *tumar* — a cylindrical or triangular amulet case worn on a cord across the chest, holding a folded Qur'anic verse; the *gulband* (choker); heavy hollow-silver bracelets; forehead ornaments hung with dangling coins across the parting; and large hoop or pendant earrings. Married women braid their hair into many fine plaits weighted at the ends with silver and coral tassels. Coins — Maria Theresa thalers, old Afghan and Iranian silver — are sewn onto festive caps and bridal chest panels. Henna (*hana*) is applied to bride and groom on the pre-wedding *shab-e-hana*, and to children's palms at Nowruz. Kohl (*surma*) lines the eyes of both infants (as protection) and brides. Tattooing is not a documented Hazara practice.
+
+## Music & performance
+
+Hazara music is a distinct branch of the eastern Persian musical world, sung primarily in *Hazaragi*. The signature instrument is the *dambura*, a long-necked, two-string fretless lute with a hollowed mulberry-wood body, plucked and strummed with the fingers to produce a drone-and-melody texture that accompanies almost every sung genre. Other instruments include the *ghichak* (spike fiddle), the frame drum *dayra*, the goblet drum *zerbaghali*, and, for celebratory outdoor music, the double-reed *sorna* paired with the *dohol* barrel drum. Sung genres include the extended narrative ballad and lament, and short strophic love and work songs; *dambura*-poet-singers called *dambura-nawaz* or *shair* improvise long sung poems at weddings, memorial gatherings, and winter *shabnishini* evenings around the hearth. A specifically Hazara song form is the *falak* — a high, plangent, ornamented solo lament shared with Tajik mountain repertoires, often on themes of separation, exile, and love of the homeland. Elegies for the martyrs of Karbala (*nawha*, *marsiya*) are chanted during Muharram, with responsorial choruses and rhythmic chest-beating (*sinazani*). The Hazara singer Sarwar Sarkhosh is a modern icon of *dambura* song; the tradition sits alongside — but is distinct from — Afghan art music (*klasik*) of Kabul and Central Asian *shashmaqam*.
+
+## Dance & theatre
+
+The best-known Hazara dance is the *dambura*-driven men's line and circle dance performed at weddings and Nowruz, with shoulder shrugs, hand claps, and stamping footwork; women dance separately in domestic gatherings with hand gestures, wrist rotations, and slow turns that display the sleeves and skirts of the *peshwaz*. Circle dances (*raqs-e-halqawi*) accompany festive songs, and stick dances with paired short staves appear in some western Hazarajat villages. Hazara performance tradition is fundamentally musical and poetic rather than dramatic — there is no indigenous masked, puppet, or court-theatre form comparable to Uzbek *maskharaboz* or Iranian *ta'ziyeh*, though the Shi'a *ta'ziyeh* passion recitations of Muharram are performed in Hazara communities and constitute the group's main ritual-dramatic expression.
+
+## Festivals & rituals
+
+The year opens with **Nowruz** on the spring equinox (21 March), the pre-Islamic Persian new year inscribed on UNESCO's Representative List (RL/02097). In Bamyan and across Hazarajat it is marked by the raising of the *janda* banner at the shrine of Ali in Mazar-i-Sharif (attended by many Hazara pilgrims), by household visiting, by the *haft-mewa* seven-fruit compote, by *sabzi chalaw* (rice with greens), and by the first spring games of *buzkashi* on horseback. **Jashn-e-Gulghula** and other local spring fairs mark the melting of snow. The Shi'a religious calendar is central: **Muharram**, especially the tenth day (**Ashura**), fills community halls (*takyakhana*, *husseinia*) with black banners, *nawha* chanting, and processions of *sinazani*; **Arba'in** forty days later closes the cycle. **Eid al-Fitr** and **Eid al-Adha** follow the lunar calendar with new clothes, visits, and the ritual sacrifice of a sheep. Life-cycle rites include the *aqiqa* naming-and-hair-cutting on the seventh day after birth, boys' circumcision (*sunnat*) celebrated with music and a feast, the marriage sequence of *shirini-khori* (engagement sweets), *shab-e-hana* (henna night), *nikah* (contract), and the bride's procession to the groom's house; and the funerary *khatm* and *chehlum* (fortieth-day memorial) with communal Qur'an recitation and the distribution of *halwa*.
+
+## Foodways
+
+Hazara cooking is a mountain, wheat-and-dairy cuisine adapted to long winters. The daily staple is *naan* bread baked against the walls of a *tandoor*, eaten with tea and yogurt. The signature dish is *aush* — a hearty noodle soup of hand-cut wheat noodles, legumes (chickpeas, red kidney beans, mung beans), spinach or dried herbs, topped with garlicky yogurt (*chaka*), dried mint, and a spoon of meat sauce. Equally emblematic is *mantu*, small steamed dumplings filled with spiced minced beef or lamb and onion, sauced with *chaka*, split-pea *dal*, and dried mint — a dish the Hazara share with the wider Turco-Mongol steppe dumpling family (*manti*). Other characteristic dishes include *aushak* (leek-filled boiled dumplings), *shorwa* (mutton-and-bone broth with potato and turnip), *kichiri* (rice-and-mung-bean porridge eaten with *qorma*), *landi* (air-dried mutton preserved for winter and later stewed), and *qurut* — hard, sun-dried balls of salted strained yogurt that are reconstituted into sauces. Ceremonial and celebratory rice is the layered *palaw* / *qabuli palaw* with carrots, raisins, and lamb. Sweets include *halwa-ye-aurdi* (roasted-flour halva) served at funerals and *sheer-berenj* rice pudding. Green tea (*chai sabz*) with cardamom is drunk through the day; black tea (*chai siyah*) is winter fare. Diet observes Shi'a halal rules; pork is absent and alcohol is not part of custom.
+
+## Oral tradition & literature
+
+Hazara oral culture is carried by the *dambura*-poet and by household storytellers. Its most distinctive verbal form is the *shair* — improvised or memorized rhymed quatrains, often in the melancholy register of exile, love, and social protest, sung to *dambura* accompaniment. Proverbs (*zarbulmasal*), riddles (*chistan*), lullabies (*lala'i*), and long prose folktales told on winter evenings around the hearth belong to every household repertoire. Hazara singers also perform passages of the Persian classical epic *Shahnameh* of Ferdowsi and the mystical *ghazals* of Hafez, Sa'di, and Rumi, alongside the poetry of the Ismaili philosopher Nasir Khusraw — who himself referenced the Hazara in an 11th-century verse. Modern Hazara literary voices include the poet and revolutionary Akram Yari, the novelist Muhammad Hussain Muhammadi, and the Kabul writer Ali Payam; in exile, the Australian-Hazara memoirist Najaf Mazari and the Canadian-Hazara politician-writer Maryam Monsef have brought Hazara experience to wider readerships. Preservation of *Hazaragi* vocabulary, proverbs, and song has become a self-conscious project of diaspora publishers in Quetta, Mashhad, and Sydney since the 1990s.
+
+## Language & religion
+
+Hazaras speak *Hazaragi*, a dialect of Dari (Persian, an Indo-European / Iranian language) that preserves a substantial layer of Mongolic and Turkic loanwords in vocabulary for kinship, livestock, tools, and landscape — the strongest linguistic evidence of the group's mixed ethnogenesis. Historical reports by Babur (*Baburnama*) and by the 19th-century orientalist Ármin Vámbéry note that some Hazara communities still spoke a Mongolic dialect (Moghol / Mogholi) into modern times; that language is now effectively extinct in Afghanistan. Writing uses the Perso-Arabic script. Religiously the majority are Twelver Shi'a Muslims — a distinguishing feature in a mostly Sunni Afghanistan and a recurring cause of persecution — with a significant Ismaili Shi'a minority (notably in Baghlan and the northern Hindu Kush) and small Sunni Hazara communities. Folk religion braids Shi'a devotion — pilgrimage to *ziyarat* shrines, veneration of Imam Ali and the Karbala martyrs, *nazr* votive offerings — with pre-Islamic seasonal practice at Nowruz and with amuletic use of Qur'anic verses in silver *ta'wiz*.
+
+## Sources & further reading
+
+- Sayed Askar Mousavi, *The Hazaras of Afghanistan: An Historical, Cultural, Economic and Political Study*, Curzon Press / St. Martin's Press, 1998.
+- Elizabeth E. Bacon, *Obok: A Study of Social Structure in Eurasia*, Wenner-Gren Foundation for Anthropological Research, 1958.
+- Hassan Poladi, *The Hazāras*, Mughal Publishing Company, 1989.
+- Niamatullah Ibrahimi, *The Hazaras and the Afghan State: Rebellion, Exclusion and the Struggle for Recognition*, Hurst, 2017.
+- Kristiana Kahakauwila and Robert L. Canfield on ethnic and sectarian politics of Hazarajat; Robert L. Canfield, *Faction and Conversion in a Plural Society: Religious Alignments in the Hindu Kush*, University of Michigan, 1973.
+- John Baily and Veronica Doubleday on Afghan music, including Hazara *dambura* traditions (documentary recordings and articles for the *Garland Encyclopedia of World Music*, vol. 5).
+- Willem Vogelsang, *The Afghans*, Blackwell, 2002.
+- Wikipedia: [Hazaras](https://en.wikipedia.org/wiki/Hazaras)
+- UNESCO Intangible Cultural Heritage — Afghanistan: [https://ich.unesco.org/en/state/afghanistan-AF](https://ich.unesco.org/en/state/afghanistan-AF)
+- UNESCO ICH — *Nowruz* (RL/02097): [https://ich.unesco.org/en/RL/02097](https://ich.unesco.org/en/RL/02097)
+- UNESCO ICH — *Sericulture and traditional production of silk for weaving* (RL/01890): [https://ich.unesco.org/en/RL/01890](https://ich.unesco.org/en/RL/01890)
+- Smithsonian Folkways search — Afghanistan: [https://folkways.si.edu/search?query=Afghanistan](https://folkways.si.edu/search?query=Afghanistan)
+- Victoria and Albert Museum, Central Asian and Afghan textiles collection: [https://collections.vam.ac.uk/search/?q=afghanistan](https://collections.vam.ac.uk/search/?q=afghanistan)
+- The British Museum, Afghanistan collection: [https://www.britishmuseum.org/collection/search?place=Afghanistan](https://www.britishmuseum.org/collection/search?place=Afghanistan)

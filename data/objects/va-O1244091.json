@@ -1,0 +1,123 @@
+{
+  "id": "va-O1244091",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O1244091",
+    "object_url": "https://collections.vam.ac.uk/item/O1244091",
+    "iiif_manifest": null,
+    "credit_line": "Lanchester Collection",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "S.983-2011",
+    "accession_year": 2011
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Balinese",
+    "tradition": "wayang",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "sculpture"
+  },
+  "physical": {
+    "title": "Wayang shadow puppet",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "leather",
+      "gilt",
+      "tortoise shell"
+    ],
+    "techniques": [
+      "painted",
+      "sewn"
+    ],
+    "medium_raw": "Leather, gilt and tortoise shell",
+    "classification": "Shadow puppet",
+    "styles": [],
+    "categories": [
+      "Entertainment & Leisure",
+      "Puppetry"
+    ],
+    "physical_description": "Wayang shadow puppet with wooden rods, possibly representing Arjuna. Has curled black hair and black face. The body section is painted gold with a decorated lhungi and headdress. Each arm is painted gold and is in two sections, joined at the elbow and each attached to the body at the shoulder and to a rod at its hands. The central supporting rod runs straight up behind one leg and is shaped in a serpentine curve to fit the shape of the puppet.\n",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "height",
+        "value": "47",
+        "unit": "cm",
+        "part": "from the top of the crown to the bottom"
+      },
+      {
+        "dimension": "width",
+        "value": "17",
+        "unit": "cm",
+        "part": "from arm to arm"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "008",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244091.jpg",
+      "iiif_id": "2011FD2272",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2272/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "fb9c6859ba860b8bb55ac99dd55c012e3f59f02274f9525e5dbd1166ab23264f",
+      "bytes": 209190,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244091.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244091_1.jpg",
+      "iiif_id": "2011FD2276",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2276/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "e1cc15048650c5a83bc76eb628ea9e838f845b79ae476d4005585e3b7fd72383",
+      "bytes": 230684,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244091_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244091_2.jpg",
+      "iiif_id": "2012FG6883",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FG6883/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "b6d8d09967cbc392cf7a7a626b453485dcc62a40e7d3e85509149a6bea4e9f0e",
+      "bytes": 115979,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244091_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:23:20.323492+00:00"
+}

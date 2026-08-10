@@ -1,0 +1,1679 @@
+{
+  "region": "sub-saharan-africa",
+  "notes": "Sub-Saharan Africa cohort. Well-collected in French/Belgian/German/British colonial museums (Musée du quai Branly-Jacques Chirac, Royal Museum for Central Africa Tervuren, Ethnologisches Museum Berlin, British Museum). Cultural attribution is delicate — some groups span multiple modern states (Fulani across ~10 countries), many colonial museum records tag by continent (\"Africa\") not ethnicity. Priority is groups with well-defined material traditions.",
+  "countries": [
+    {
+      "country": "Senegal",
+      "majority_ethnicity": "Wolof",
+      "met_queries": [
+        "Senegal",
+        "Wolof"
+      ],
+      "ethnicities": [
+        {
+          "name": "Wolof",
+          "homeland": {
+            "lat": 14.7167,
+            "lon": -17.4677
+          },
+          "homeland_place": "Senegambia",
+          "traditions": [
+            "Wolof jewelry",
+            "Wolof textile",
+            "boubou",
+            "batik Senegal",
+            "Wolof mask",
+            "Senegalese glass painting",
+            "sous-verre",
+            "Wolof beadwork",
+            "Wolof pottery",
+            "filigree Senegal",
+            "indigo Senegal",
+            "Wolof leatherwork",
+            "gris-gris",
+            "Wolof amulet",
+            "pagne tissé",
+            "bijoux wolof",
+            "orfèvrerie sénégalaise",
+            "Wolof drum",
+            "sabar"
+          ],
+          "cleveland_accept_tokens": [
+            "wolof",
+            "ouolof",
+            "lebou",
+            "lébou",
+            "saint-louis, senegal"
+          ],
+          "arch_commons_categories": [
+            "Great Mosque of Touba",
+            "Mosque of Divinity",
+            "Grande Mosquée de Dakar",
+            "Architecture of Saint-Louis, Senegal"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Wolof Senegal",
+              "Ouolof Sénégal",
+              "boubou Sénégal",
+              "bijoux wolof",
+              "sous-verre Sénégal",
+              "Saint-Louis Sénégal"
+            ]
+          }
+        },
+        {
+          "name": "Fulani",
+          "homeland": {
+            "lat": 14.5,
+            "lon": -3.0
+          },
+          "homeland_place": "Sahel (multi-country)",
+          "traditions": [
+            "Fulani jewelry",
+            "gerewol",
+            "milk gourd",
+            "Peul textile",
+            "leather goatskin",
+            "Peulh",
+            "Fulbe",
+            "Fula",
+            "Pulaar",
+            "Toucouleur",
+            "Tukulor",
+            "Halpulaar",
+            "Fulani calabash",
+            "Fulani hat",
+            "Fulani embroidery",
+            "indigo Fulani",
+            "Fulani wedding blanket",
+            "khasa blanket",
+            "arkilla kerka"
+          ],
+          "cleveland_accept_tokens": [
+            "fulani",
+            "peul",
+            "peulh",
+            "fulbe",
+            "fula",
+            "toucouleur",
+            "tukulor",
+            "pulaar"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Peul Senegal",
+              "Peulh Sénégal",
+              "Fulani Senegal",
+              "Toucouleur Sénégal",
+              "Fulbe textile",
+              "\"Pulaar\" Senegal"
+            ]
+          },
+          "arch_commons_categories": [
+            "Fula people",
+            "Fulani people",
+            "Peul people"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Nigeria",
+      "majority_ethnicity": "Yoruba",
+      "met_queries": [
+        "Nigeria",
+        "Yoruba",
+        "Igbo",
+        "Benin bronzes"
+      ],
+      "ethnicities": [
+        {
+          "name": "Yoruba",
+          "homeland": {
+            "lat": 7.8,
+            "lon": 4.5
+          },
+          "homeland_place": "Yorubaland",
+          "traditions": [
+            "Yoruba mask",
+            "adire",
+            "aso oke",
+            "Ile-Ife bronze",
+            "Yoruba beadwork",
+            "gelede mask",
+            "egungun",
+            "Ife terracotta",
+            "Owo ivory",
+            "Esie soapstone",
+            "Ogboni edan",
+            "opon Ifa",
+            "ibeji figure",
+            "Shango staff",
+            "Yoruba divination",
+            "Epa mask",
+            "agbada",
+            "Yoruba drum",
+            "bata drum",
+            "Ijebu cloth",
+            "Sango wand"
+          ],
+          "cleveland_accept_tokens": [
+            "yoruba",
+            "ife",
+            "ijebu",
+            "owo",
+            "ekiti",
+            "egba",
+            "oyo"
+          ],
+          "arch_commons_categories": [
+            "Palace of the Ooni of Ife",
+            "Osun-Osogbo Sacred Grove"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Yoruba Nigeria",
+              "Yoruba mask",
+              "Ife bronze",
+              "ibeji figure",
+              "Yoruba beadwork",
+              "egungun costume"
+            ]
+          }
+        },
+        {
+          "name": "Igbo",
+          "homeland": {
+            "lat": 6.5,
+            "lon": 7.5
+          },
+          "homeland_place": "southeastern Nigeria",
+          "traditions": [
+            "Igbo mask",
+            "uli",
+            "Igbo pottery",
+            "mbari",
+            "Igbo-Ukwu bronze",
+            "Ibo",
+            "ikenga",
+            "mmwo",
+            "agbogho mmuo",
+            "ekpe",
+            "ozo",
+            "nsibidi",
+            "okwa",
+            "ofo staff",
+            "Awka",
+            "Nri",
+            "Igbo textile",
+            "akwete"
+          ],
+          "cleveland_accept_tokens": [
+            "igbo",
+            "ibo",
+            "igbo-ukwu",
+            "nri",
+            "awka",
+            "afikpo"
+          ],
+          "arch_commons_categories": [
+            "Mbari houses",
+            "Architecture of Igboland"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Igbo Nigeria",
+              "Ibo Nigeria",
+              "Igbo mask",
+              "Igbo-Ukwu bronze",
+              "ikenga figure",
+              "mbari Igbo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Ghana",
+      "majority_ethnicity": "Ashanti",
+      "met_queries": [
+        "Ghana",
+        "Ashanti",
+        "Asante"
+      ],
+      "ethnicities": [
+        {
+          "name": "Ashanti",
+          "homeland": {
+            "lat": 6.7,
+            "lon": -1.6
+          },
+          "homeland_place": "Ashanti Region",
+          "traditions": [
+            "kente",
+            "adinkra",
+            "Akan goldweights",
+            "Asante stool",
+            "fertility doll akuaba",
+            "Asante",
+            "Ashanti gold",
+            "kuduo",
+            "forowa",
+            "abusua kuruwa",
+            "mmaa dua",
+            "sika dwa",
+            "okyeame poma",
+            "linguist staff",
+            "adwinasa",
+            "nsaa",
+            "Fante asafo flag",
+            "mframadan"
+          ],
+          "cleveland_accept_tokens": [
+            "asante",
+            "ashanti",
+            "akan",
+            "fante",
+            "fanti",
+            "kumasi"
+          ],
+          "arch_commons_categories": [
+            "Asante traditional buildings",
+            "Manhyia Palace",
+            "Kumasi Fort"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Ashanti Ghana",
+              "Asante Goldgewichte",
+              "Akan goldweights",
+              "poids à peser l'or Akan",
+              "kente Asante",
+              "akuaba fertility"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Ethiopia",
+      "majority_ethnicity": "Amhara",
+      "met_queries": [
+        "Ethiopia",
+        "Ethiopian",
+        "Amhara",
+        "Coptic Ethiopia"
+      ],
+      "ethnicities": [
+        {
+          "name": "Amhara",
+          "homeland": {
+            "lat": 11.5,
+            "lon": 39.5
+          },
+          "homeland_place": "Ethiopian Highlands",
+          "traditions": [
+            "shamma",
+            "netela",
+            "Ethiopian cross",
+            "meskel",
+            "Amhara jewelry",
+            "Ge'ez manuscript",
+            "Ethiopian icon",
+            "gabi",
+            "kuta",
+            "tibeb",
+            "processional cross",
+            "hand cross",
+            "Ethiopian Orthodox",
+            "magic scroll",
+            "healing scroll",
+            "Ethiopian psalter",
+            "Solomonic",
+            "Gondar",
+            "Lalibela",
+            "sistrum",
+            "prayer stick",
+            "mesob"
+          ],
+          "cleveland_accept_tokens": [
+            "amhara",
+            "amharic",
+            "ethiopian",
+            "abyssinian",
+            "gondar",
+            "lalibela",
+            "solomonic"
+          ],
+          "arch_commons_categories": [
+            "Rock-hewn churches of Lalibela",
+            "Fasil Ghebbi",
+            "Debre Berhan Selassie",
+            "Church of Debre Birhan Selassie",
+            "Gondarine architecture"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Amhara Ethiopia",
+              "Abyssinian",
+              "Ethiopian Orthodox cross",
+              "Ethiopian manuscript Ge'ez",
+              "Gondar Ethiopia",
+              "Ethiopian icon"
+            ]
+          }
+        },
+        {
+          "name": "Oromo",
+          "homeland": {
+            "lat": 7.5,
+            "lon": 39.0
+          },
+          "homeland_place": "Oromia",
+          "traditions": [
+            "Oromo jewelry",
+            "Oromo shield",
+            "gadaa",
+            "Oromo weaving",
+            "Oromo basketry",
+            "Oromo leatherwork",
+            "Oromo pottery",
+            "Borana",
+            "Guji",
+            "Arsi",
+            "Wollo",
+            "Oromo siiqqee",
+            "Oromo callee",
+            "Oromo horo",
+            "Galla",
+            "Oromo beadwork",
+            "Oromo milk vessel",
+            "Oromo headrest",
+            "Oromo prayer stick"
+          ],
+          "cleveland_accept_tokens": [
+            "oromo",
+            "borana",
+            "guji",
+            "arsi",
+            "galla"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Oromo Ethiopia",
+              "Galla Ethiopia",
+              "Borana",
+              "Oromo jewellery",
+              "Oromo shield",
+              "Galla Abyssinia"
+            ]
+          },
+          "arch_commons_categories": [
+            "Oromo people",
+            "Oromo culture",
+            "Oromo women"
+          ]
+        },
+        {
+          "name": "Tigray",
+          "homeland": {
+            "lat": 13.5,
+            "lon": 39.0
+          },
+          "homeland_place": "Tigray region",
+          "traditions": [
+            "Tigrinya cross",
+            "Aksumite stele",
+            "netela",
+            "Ge'ez manuscript",
+            "Tigrayan silver cross",
+            "processional cross",
+            "hand cross",
+            "shamma",
+            "gabi",
+            "kuba (Ethiopian crown)",
+            "sistrum",
+            "magic scroll",
+            "healing scroll",
+            "Ethiopian icon",
+            "diptych icon",
+            "mesob",
+            "jebena",
+            "Adwa"
+          ],
+          "cleveland_accept_tokens": [
+            "tigray",
+            "tigrayan",
+            "tigrinya",
+            "aksum",
+            "axum",
+            "aksumite",
+            "ge'ez",
+            "abyssinian"
+          ],
+          "arch_commons_categories": [
+            "Obelisk of Axum",
+            "Church of Our Lady Mary of Zion",
+            "Dungur",
+            "Debre Damo",
+            "Yeha",
+            "Abreha and Atsbeha Church",
+            "Rock-hewn churches of Tigray"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Tigray Ethiopia",
+              "Tigrinya",
+              "Aksum",
+              "Abyssinian cross",
+              "Ge'ez manuscript",
+              "Ethiopian Orthodox"
+            ]
+          }
+        },
+        {
+          "name": "Sidama",
+          "homeland": {
+            "lat": 6.7,
+            "lon": 38.5
+          },
+          "homeland_place": "Sidama Region",
+          "traditions": [
+            "Sidama basketry",
+            "Sidama pottery",
+            "Sidamo woodcarving",
+            "Sidama gourd vessels",
+            "Sidama beadwork",
+            "Sidama leatherwork",
+            "Sidamo basketry",
+            "Sidama enset processing tools"
+          ],
+          "cleveland_accept_tokens": [
+            "sidama",
+            "sidamo"
+          ],
+          "arch_commons_categories": [
+            "Sidama traditional houses",
+            "Sidama people",
+            "Sidama zone",
+            "Sidama Region"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Sidamo Ethiopia",
+              "Sidama Ethiopia basketry",
+              "Sidama pottery Ethiopia",
+              "Sidamo gourd Ethiopia",
+              "Sidama beadwork"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Kenya",
+      "majority_ethnicity": "Kikuyu",
+      "met_queries": [
+        "Kenya",
+        "Kikuyu",
+        "Maasai",
+        "Kenyan"
+      ],
+      "ethnicities": [
+        {
+          "name": "Kikuyu",
+          "homeland": {
+            "lat": -0.9,
+            "lon": 37.0
+          },
+          "homeland_place": "central Kenya highlands",
+          "traditions": [
+            "Kikuyu jewelry",
+            "Kikuyu pottery",
+            "Kikuyu shield",
+            "Kikuyu basketry",
+            "Gikuyu",
+            "Agikuyu",
+            "Kikuyu beadwork",
+            "Kikuyu gourd",
+            "Kikuyu calabash",
+            "Kikuyu snuff container",
+            "Kikuyu stool",
+            "Kikuyu drum",
+            "Kikuyu textile",
+            "Kikuyu leather"
+          ],
+          "cleveland_accept_tokens": [
+            "kikuyu",
+            "gikuyu",
+            "agikuyu"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Kikuyu Kenya",
+              "Gikuyu",
+              "Agikuyu",
+              "Kikuyu British East Africa",
+              "Kikuyu ethnography"
+            ]
+          },
+          "arch_commons_categories": [
+            "Kikuyu people"
+          ]
+        },
+        {
+          "name": "Maasai",
+          "homeland": {
+            "lat": -2.0,
+            "lon": 36.0
+          },
+          "homeland_place": "Kenya-Tanzania border",
+          "traditions": [
+            "Maasai beadwork",
+            "shuka",
+            "Maasai jewelry",
+            "Maasai shield",
+            "Maasai spear",
+            "Maa people",
+            "Samburu",
+            "Il-Chamus",
+            "Maasai calabash",
+            "Maasai sandals",
+            "Maasai club",
+            "rungu",
+            "orinka",
+            "olpul",
+            "engonongoi",
+            "enkuraru",
+            "Maasai gourd",
+            "Maasai headdress",
+            "Maasai leather"
+          ],
+          "cleveland_accept_tokens": [
+            "maasai",
+            "masai",
+            "samburu",
+            "il-chamus",
+            "maa"
+          ],
+          "arch_commons_categories": [
+            "Manyatta"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Maasai Kenya",
+              "Massai",
+              "Masai beadwork",
+              "Samburu Kenya",
+              "Maasai shield spear",
+              "Maasai ornament"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Tanzania",
+      "majority_ethnicity": "Swahili",
+      "met_queries": [
+        "Tanzania",
+        "Swahili",
+        "Zanzibar"
+      ],
+      "ethnicities": [
+        {
+          "name": "Swahili",
+          "homeland": {
+            "lat": -6.7,
+            "lon": 39.2
+          },
+          "homeland_place": "East African coast",
+          "traditions": [
+            "kanga",
+            "kitenge",
+            "Swahili door",
+            "Swahili chest",
+            "kufi cap",
+            "msikiti",
+            "jahazi",
+            "mtepe",
+            "siwa horn",
+            "Zanzibar chest",
+            "Lamu door",
+            "kikoi",
+            "utenzi manuscript",
+            "coral stone carving",
+            "Swahili silver",
+            "Swahili jewellery",
+            "mkeka mat"
+          ],
+          "cleveland_accept_tokens": [
+            "swahili",
+            "zanzibar",
+            "lamu",
+            "kilwa",
+            "pemba",
+            "bajuni"
+          ],
+          "arch_commons_categories": [
+            "Architecture of Zanzibar",
+            "Stone Town of Zanzibar",
+            "Old Town of Lamu",
+            "Great Mosque of Kilwa Kisiwani",
+            "Ruins of Kilwa Kisiwani",
+            "Doors in Zanzibar"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Swahili Zanzibar",
+              "Swahili Tanzania",
+              "Suaheli Ostafrika",
+              "Souahéli Zanzibar",
+              "Lamu Kenya",
+              "Zanzibar chest"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "majority_ethnicity": "Kongo",
+      "met_queries": [
+        "Congo",
+        "Kongo",
+        "Kuba",
+        "Zaire"
+      ],
+      "ethnicities": [
+        {
+          "name": "Kongo",
+          "homeland": {
+            "lat": -5.0,
+            "lon": 14.0
+          },
+          "homeland_place": "lower Congo",
+          "traditions": [
+            "nkisi",
+            "nkondi",
+            "Kongo textile",
+            "raphia cloth",
+            "Kongo mask",
+            "minkisi",
+            "mangaaka",
+            "ntadi",
+            "mintadi",
+            "Yombe",
+            "Vili",
+            "Woyo",
+            "Bembe",
+            "pfemba",
+            "mpu cap",
+            "nduda",
+            "Kongo crucifix",
+            "Bakongo",
+            "art bakongo",
+            "nkisi nkondi"
+          ],
+          "cleveland_accept_tokens": [
+            "kongo",
+            "bakongo",
+            "yombe",
+            "vili",
+            "woyo",
+            "bembe",
+            "kongo peoples"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Kongo Congo",
+              "Bakongo",
+              "Yombe nkisi",
+              "art kongo",
+              "nkisi nkondi",
+              "Vili Loango"
+            ]
+          }
+        },
+        {
+          "name": "Kuba",
+          "homeland": {
+            "lat": -5.0,
+            "lon": 21.5
+          },
+          "homeland_place": "Kasai region",
+          "traditions": [
+            "Kuba cloth",
+            "raphia embroidery",
+            "Kuba mask",
+            "mwaash amboy",
+            "ndop",
+            "Bushoong",
+            "Kasai velvet",
+            "shoowa",
+            "Bakuba",
+            "ntshak",
+            "mbal",
+            "bwoom",
+            "ngady amwaash",
+            "cut-pile embroidery",
+            "Kete",
+            "Ngeende",
+            "lukasa",
+            "cache-sexe",
+            "mukyeem"
+          ],
+          "cleveland_accept_tokens": [
+            "kuba",
+            "bushoong",
+            "bakuba",
+            "shoowa",
+            "ngeende",
+            "kete",
+            "kasai"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Kuba Congo",
+              "Bakuba",
+              "Kuba raffia",
+              "Kasai velvet",
+              "Bushoong Congo",
+              "Kuba mask Bwoom"
+            ]
+          }
+        },
+        {
+          "name": "Chokwe",
+          "homeland": {
+            "lat": -10.0,
+            "lon": 21.0
+          },
+          "homeland_place": "Angola-Congo border",
+          "traditions": [
+            "Chokwe mask",
+            "chihongo",
+            "pwo mask",
+            "Chokwe chair",
+            "Chokwe divination",
+            "Cokwe",
+            "Tshokwe",
+            "Tchokwe",
+            "Kioko",
+            "Bajokwe",
+            "Lwena",
+            "cikungu mask",
+            "mwana pwo",
+            "kalelwa mask",
+            "chikunza",
+            "mukanda",
+            "cihongo",
+            "hamba figure",
+            "lukasa",
+            "ngombo divination basket"
+          ],
+          "cleveland_accept_tokens": [
+            "chokwe",
+            "cokwe",
+            "tshokwe",
+            "tchokwe",
+            "lwena",
+            "lunda-chokwe"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Chokwe",
+              "Tshokwe",
+              "Tchokwe Angola",
+              "Chokwe masque",
+              "Cokwe Congo",
+              "pwo mask Chokwe"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Gabon",
+      "majority_ethnicity": "Fang",
+      "met_queries": [
+        "Gabon",
+        "Fang",
+        "Gabonese"
+      ],
+      "ethnicities": [
+        {
+          "name": "Fang",
+          "homeland": {
+            "lat": 0.4,
+            "lon": 11.5
+          },
+          "homeland_place": "Gabon-Cameroon-Equatorial Guinea",
+          "traditions": [
+            "Fang mask",
+            "byeri",
+            "Fang reliquary",
+            "ngil mask",
+            "Fang statue",
+            "eyema byeri",
+            "nlo byeri",
+            "bieri",
+            "Pahouin",
+            "Pangwe",
+            "ngontang",
+            "Fang-Betsi",
+            "Fang-Ntumu",
+            "Fang-Mvai",
+            "mvet",
+            "Fang harp",
+            "Fang guardian figure"
+          ],
+          "cleveland_accept_tokens": [
+            "fang",
+            "pahouin",
+            "pangwe",
+            "betsi",
+            "ntumu",
+            "mvai"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Fang Gabon",
+              "Fang reliquary byeri",
+              "Pahouin Gabon",
+              "Pangwe Fang",
+              "ngil mask Fang",
+              "Fang ngontang"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Central African Republic",
+      "majority_ethnicity": "Mbuti",
+      "met_queries": [
+        "Mbuti",
+        "Pygmy",
+        "Ituri"
+      ],
+      "ethnicities": [
+        {
+          "name": "Mbuti",
+          "homeland": {
+            "lat": 1.5,
+            "lon": 28.5
+          },
+          "homeland_place": "Ituri Forest",
+          "traditions": [
+            "Mbuti barkcloth",
+            "pongo cloth",
+            "Mbuti painting",
+            "Mbuti bark cloth",
+            "Bambuti",
+            "Efe",
+            "Mbuti pygmy",
+            "Ituri barkcloth",
+            "murumba",
+            "pongo",
+            "Mbuti body painting",
+            "Bambuti barkcloth"
+          ],
+          "cleveland_accept_tokens": [
+            "mbuti",
+            "bambuti",
+            "bambuti pygmy",
+            "efe",
+            "ituri"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Mbuti barkcloth",
+              "Mbuti pongo",
+              "Bambuti Ituri",
+              "pygmée Ituri",
+              "Mbuti Pygmäen",
+              "\"Mbuti\" Congo"
+            ]
+          },
+          "arch_commons_categories": [
+            "Mbuti people",
+            "Bambuti",
+            "Ituri Pygmies"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "South Africa",
+      "majority_ethnicity": "Zulu",
+      "met_queries": [
+        "South Africa",
+        "Zulu",
+        "Xhosa",
+        "Ndebele"
+      ],
+      "ethnicities": [
+        {
+          "name": "Zulu",
+          "homeland": {
+            "lat": -28.5,
+            "lon": 31.0
+          },
+          "homeland_place": "KwaZulu-Natal",
+          "traditions": [
+            "Zulu beadwork",
+            "Zulu pot",
+            "Zulu shield",
+            "Zulu headrest",
+            "isicholo",
+            "Zulu basket",
+            "Zulu snuff container",
+            "Zulu earplug",
+            "Zulu meat platter",
+            "Zulu spoon",
+            "Zulu knobkerrie",
+            "Zulu assegai",
+            "Zulu ilala palm",
+            "izinduku",
+            "iziqhaza",
+            "ukhamba",
+            "imbenge",
+            "Zulu love letter",
+            "isigqoko",
+            "AmaZulu"
+          ],
+          "cleveland_accept_tokens": [
+            "zulu",
+            "amazulu",
+            "kwazulu",
+            "kwazulu-natal",
+            "nguni"
+          ],
+          "arch_commons_categories": [
+            "Zulu huts",
+            "Ondini",
+            "Nodwengu",
+            "Rorke's Drift"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Zulu",
+              "Zoeloe",
+              "AmaZulu",
+              "Zulu Natal",
+              "Nguni Zulu",
+              "Zulu KwaZulu"
+            ]
+          }
+        },
+        {
+          "name": "Xhosa",
+          "homeland": {
+            "lat": -32.5,
+            "lon": 27.0
+          },
+          "homeland_place": "Eastern Cape",
+          "traditions": [
+            "Xhosa beadwork",
+            "isikhakha",
+            "Xhosa doll",
+            "Xhosa smoking pipe",
+            "amaXhosa",
+            "Xhosa blanket",
+            "umbhaco",
+            "Xhosa headdress",
+            "iqhiya",
+            "Xhosa snuff spoon",
+            "Xhosa knobkerrie",
+            "Xhosa basket",
+            "Mfengu beadwork",
+            "Thembu beadwork",
+            "Bhaca beadwork",
+            "Mpondo beadwork",
+            "Xhosa apron",
+            "incebetha",
+            "Kaffir art"
+          ],
+          "cleveland_accept_tokens": [
+            "xhosa",
+            "amaxhosa",
+            "mfengu",
+            "thembu",
+            "mpondo",
+            "bhaca",
+            "pondo"
+          ],
+          "arch_commons_categories": [
+            "Rondavels in South Africa",
+            "Xhosa people",
+            "Xhosa women",
+            "Xhosa culture",
+            "Xhosa villages"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Xhosa",
+              "amaXhosa",
+              "Xhosa beadwork",
+              "Kaffir South Africa",
+              "Pondo Transkei",
+              "Thembu Eastern Cape"
+            ]
+          }
+        },
+        {
+          "name": "Ndebele",
+          "homeland": {
+            "lat": -25.5,
+            "lon": 28.5
+          },
+          "homeland_place": "Mpumalanga",
+          "traditions": [
+            "Ndebele beadwork",
+            "Ndebele mural",
+            "isiqolo neck ring",
+            "Ndebele apron",
+            "Ndebele doll",
+            "linaga",
+            "jocolo",
+            "mapoto apron",
+            "Ndebele blanket",
+            "isigolwani",
+            "Ndzundza Ndebele",
+            "Manala Ndebele",
+            "Transvaal Ndebele",
+            "Ndebele house painting",
+            "Ndebele beaded blanket",
+            "Ndebele beaded cape",
+            "nguba"
+          ],
+          "cleveland_accept_tokens": [
+            "ndebele",
+            "ndzundza",
+            "manala",
+            "transvaal ndebele",
+            "southern ndebele"
+          ],
+          "arch_commons_categories": [
+            "Ndebele architecture",
+            "Ndebele house painting"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Ndebele beadwork",
+              "Ndebele South Africa",
+              "Ndebele apron",
+              "Süd-Ndebele",
+              "Transvaal Ndebele",
+              "Ndebele mural painting"
+            ]
+          }
+        },
+        {
+          "name": "Sotho",
+          "homeland": {
+            "lat": -29.3,
+            "lon": 27.5
+          },
+          "homeland_place": "Lesotho / Free State",
+          "traditions": [
+            "Basotho hat",
+            "Basotho blanket",
+            "mokorotlo",
+            "Sotho beadwork",
+            "Basuto",
+            "Southern Sotho",
+            "Sesotho",
+            "Basotho",
+            "Basotho pottery",
+            "litema",
+            "Sotho initiation",
+            "moshoeshoe",
+            "seana marena",
+            "thebe",
+            "Sotho snuff container",
+            "Sotho reed mat"
+          ],
+          "cleveland_accept_tokens": [
+            "sotho",
+            "basotho",
+            "basuto",
+            "southern sotho",
+            "sesotho",
+            "lesotho"
+          ],
+          "arch_commons_categories": [
+            "Architecture of Lesotho",
+            "Rondavels",
+            "Litema"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Basotho",
+              "Basuto blanket",
+              "Sotho Lesotho",
+              "mokorotlo hat",
+              "Sesotho",
+              "Southern Sotho"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Namibia",
+      "majority_ethnicity": "Himba",
+      "met_queries": [
+        "Namibia",
+        "Himba",
+        "Herero"
+      ],
+      "ethnicities": [
+        {
+          "name": "Himba",
+          "homeland": {
+            "lat": -18.5,
+            "lon": 13.5
+          },
+          "homeland_place": "Kunene",
+          "traditions": [
+            "Himba jewelry",
+            "otjize",
+            "Himba leather",
+            "Himba hairstyle ornament",
+            "Ovahimba",
+            "Herero",
+            "Himba headdress",
+            "erembe",
+            "ekori",
+            "ohumba shell",
+            "Himba doll",
+            "Himba apron",
+            "Himba beadwork",
+            "Kaokoland",
+            "Kunene"
+          ],
+          "cleveland_accept_tokens": [
+            "himba",
+            "ovahimba",
+            "herero",
+            "kaokoland",
+            "kunene"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Himba Namibia",
+              "Ovahimba",
+              "Herero Namibia",
+              "Himba jewellery",
+              "Kaokoland",
+              "Deutsch-Südwestafrika Himba"
+            ]
+          },
+          "arch_commons_categories": [
+            "Himba people",
+            "Ovahimba",
+            "Himba women",
+            "Himba huts",
+            "Himba jewellery"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Botswana",
+      "majority_ethnicity": "San",
+      "met_queries": [
+        "San",
+        "Bushmen",
+        "Botswana"
+      ],
+      "ethnicities": [
+        {
+          "name": "San",
+          "homeland": {
+            "lat": -21.5,
+            "lon": 22.0
+          },
+          "homeland_place": "Kalahari",
+          "traditions": [
+            "San rock painting",
+            "San arrow",
+            "ostrich eggshell bead",
+            "San leather bag"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Somalia",
+      "majority_ethnicity": "Somali",
+      "met_queries": [
+        "Somalia",
+        "Somali",
+        "Somaliland"
+      ],
+      "ethnicities": [
+        {
+          "name": "Somali",
+          "homeland": {
+            "lat": 5.15,
+            "lon": 46.2
+          },
+          "homeland_place": "Horn of Africa",
+          "traditions": [
+            "Somali basketry",
+            "Somali silver",
+            "shuqqad",
+            "guntiino",
+            "aqal",
+            "Somali kitab",
+            "Somali woodcarving",
+            "Somali headrest",
+            "Somali amulet",
+            "Benadiri weaving",
+            "alindi cloth",
+            "Somali camel bell",
+            "Somali prayer beads",
+            "Somali leatherwork",
+            "Somali dagger",
+            "billaawe",
+            "Somali incense burner",
+            "dabqaad",
+            "haaqad",
+            "Somali wooden comb"
+          ],
+          "cleveland_accept_tokens": [
+            "somali",
+            "somalia",
+            "benadiri",
+            "issa",
+            "isaaq",
+            "darod",
+            "ogaden"
+          ],
+          "arch_commons_categories": [
+            "Architecture of Somalia",
+            "Mosques in Somalia",
+            "Fakr ad-Din Mosque",
+            "Arba Rukun Mosque",
+            "Ruins of Adal Sultanate",
+            "Laas Geel"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Somali",
+              "Somalia ethnography",
+              "Benadir Somalia",
+              "Somaliland basketry",
+              "Italian Somaliland",
+              "Somali Africa Orientale"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Djibouti / Eritrea",
+      "majority_ethnicity": "Afar",
+      "met_queries": [
+        "Afar",
+        "Danakil"
+      ],
+      "ethnicities": [
+        {
+          "name": "Afar",
+          "homeland": {
+            "lat": 12.0,
+            "lon": 42.0
+          },
+          "homeland_place": "Afar Triangle",
+          "traditions": [
+            "Afar dagger",
+            "jile",
+            "Afar leather",
+            "Afar mat",
+            "Afar basketry",
+            "Afar jewelry",
+            "Danakil",
+            "Adal",
+            "Afar milk container",
+            "gile",
+            "Afar shield",
+            "Afar comb",
+            "Afar amulet",
+            "Afar headrest"
+          ],
+          "cleveland_accept_tokens": [
+            "afar",
+            "danakil",
+            "adal"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Afar Ethiopia",
+              "Afar Djibouti",
+              "Danakil",
+              "Afar dagger jile",
+              "Afar Eritrea",
+              "peuple Afar"
+            ]
+          },
+          "arch_commons_categories": [
+            "Afar people",
+            "Afar culture"
+          ]
+        }
+      ]
+    }
+  ],
+  "region_places": {
+    "place_to_country": {
+      "senegal": "Senegal",
+      "sénégal": "Senegal",
+      "wolof": "Senegal",
+      "fulani": "Senegal",
+      "peul": "Senegal",
+      "peulh": "Senegal",
+      "fulbe": "Senegal",
+      "dakar": "Senegal",
+      "saint-louis du sénégal": "Senegal",
+      "sine-saloum": "Senegal",
+      "casamance": "Senegal",
+      "nigeria": "Nigeria",
+      "yoruba": "Nigeria",
+      "yorouba": "Nigeria",
+      "igbo": "Nigeria",
+      "ibo": "Nigeria",
+      "benin city": "Nigeria",
+      "kingdom of benin": "Nigeria",
+      "royaume du bénin": "Nigeria",
+      "ife": "Nigeria",
+      "ilé-ifè": "Nigeria",
+      "nok": "Nigeria",
+      "lagos": "Nigeria",
+      "nigéria": "Nigeria",
+      "biafra": "Nigeria",
+      "ghana": "Ghana",
+      "ashanti": "Ghana",
+      "asante": "Ghana",
+      "gold coast": "Ghana",
+      "côte-de-l'or": "Ghana",
+      "goldküste": "Ghana",
+      "kumasi": "Ghana",
+      "accra": "Ghana",
+      "fante": "Ghana",
+      "ethiopia": "Ethiopia",
+      "éthiopie": "Ethiopia",
+      "äthiopien": "Ethiopia",
+      "abyssinia": "Ethiopia",
+      "abyssinie": "Ethiopia",
+      "abessinien": "Ethiopia",
+      "amhara": "Ethiopia",
+      "oromo": "Ethiopia",
+      "galla": "Ethiopia",
+      "tigray": "Ethiopia",
+      "tigrinya": "Ethiopia",
+      "sidama": "Ethiopia",
+      "addis abeba": "Ethiopia",
+      "addis ababa": "Ethiopia",
+      "aksum": "Ethiopia",
+      "axum": "Ethiopia",
+      "gondar": "Ethiopia",
+      "lalibela": "Ethiopia",
+      "kenya": "Kenya",
+      "british east africa": "Kenya",
+      "afrique orientale britannique": "Kenya",
+      "kikuyu": "Kenya",
+      "gikuyu": "Kenya",
+      "maasai": "Kenya",
+      "masai": "Kenya",
+      "massaï": "Kenya",
+      "nairobi": "Kenya",
+      "tanzania": "Tanzania",
+      "tanzanie": "Tanzania",
+      "tansania": "Tanzania",
+      "tanganyika": "Tanzania",
+      "german east africa": "Tanzania",
+      "deutsch-ostafrika": "Tanzania",
+      "afrique orientale allemande": "Tanzania",
+      "zanzibar": "Tanzania",
+      "swahili": "Tanzania",
+      "souahéli": "Tanzania",
+      "makonde": "Tanzania",
+      "democratic republic of the congo": "Democratic Republic of the Congo",
+      "drc": "Democratic Republic of the Congo",
+      "dr congo": "Democratic Republic of the Congo",
+      "congo belge": "Democratic Republic of the Congo",
+      "belgian congo": "Democratic Republic of the Congo",
+      "belgisch kongo": "Democratic Republic of the Congo",
+      "belgisch-kongo": "Democratic Republic of the Congo",
+      "kongostaat": "Democratic Republic of the Congo",
+      "état indépendant du congo": "Democratic Republic of the Congo",
+      "congo free state": "Democratic Republic of the Congo",
+      "zaïre": "Democratic Republic of the Congo",
+      "zaire": "Democratic Republic of the Congo",
+      "kinshasa": "Democratic Republic of the Congo",
+      "léopoldville": "Democratic Republic of the Congo",
+      "leopoldville": "Democratic Republic of the Congo",
+      "katanga": "Democratic Republic of the Congo",
+      "kongo": "Democratic Republic of the Congo",
+      "bakongo": "Democratic Republic of the Congo",
+      "kuba": "Democratic Republic of the Congo",
+      "bakuba": "Democratic Republic of the Congo",
+      "chokwe": "Democratic Republic of the Congo",
+      "tchokwe": "Democratic Republic of the Congo",
+      "luba": "Democratic Republic of the Congo",
+      "songye": "Democratic Republic of the Congo",
+      "pende": "Democratic Republic of the Congo",
+      "gabon": "Gabon",
+      "fang": "Gabon",
+      "libreville": "Gabon",
+      "central african republic": "Central African Republic",
+      "république centrafricaine": "Central African Republic",
+      "zentralafrikanische republik": "Central African Republic",
+      "oubangui-chari": "Central African Republic",
+      "ubangi-shari": "Central African Republic",
+      "mbuti": "Central African Republic",
+      "bambuti": "Central African Republic",
+      "south africa": "South Africa",
+      "afrique du sud": "South Africa",
+      "südafrika": "South Africa",
+      "zuid-afrika": "South Africa",
+      "cape colony": "South Africa",
+      "colonie du cap": "South Africa",
+      "kapkolonie": "South Africa",
+      "transvaal": "South Africa",
+      "natal": "South Africa",
+      "zululand": "South Africa",
+      "zulu": "South Africa",
+      "zoulou": "South Africa",
+      "xhosa": "South Africa",
+      "ndebele": "South Africa",
+      "sotho": "South Africa",
+      "basutoland": "South Africa",
+      "namibia": "Namibia",
+      "namibie": "Namibia",
+      "südwestafrika": "Namibia",
+      "deutsch-südwestafrika": "Namibia",
+      "german south west africa": "Namibia",
+      "south west africa": "Namibia",
+      "sud-ouest africain": "Namibia",
+      "himba": "Namibia",
+      "ovambo": "Namibia",
+      "botswana": "Botswana",
+      "bechuanaland": "Botswana",
+      "betchouanaland": "Botswana",
+      "san": "Botswana",
+      "bushmen": "Botswana",
+      "bochiman": "Botswana",
+      "buschmänner": "Botswana",
+      "somalia": "Somalia",
+      "somalie": "Somalia",
+      "somali": "Somalia",
+      "somaliland": "Somalia",
+      "italian somaliland": "Somalia",
+      "somalia italiana": "Somalia",
+      "mogadishu": "Somalia",
+      "djibouti": "Djibouti / Eritrea",
+      "côte française des somalis": "Djibouti / Eritrea",
+      "french somaliland": "Djibouti / Eritrea",
+      "eritrea": "Djibouti / Eritrea",
+      "érythrée": "Djibouti / Eritrea",
+      "eritrea italiana": "Djibouti / Eritrea",
+      "afar": "Djibouti / Eritrea",
+      "asmara": "Djibouti / Eritrea",
+      "afrique-occidentale française": "_regional",
+      "french west africa": "_regional",
+      "aof": "_regional",
+      "afrique-équatoriale française": "_regional",
+      "french equatorial africa": "_regional",
+      "aef": "_regional",
+      "sub-saharan africa": "_regional",
+      "afrique subsaharienne": "_regional",
+      "west africa": "_regional",
+      "afrique de l'ouest": "_regional",
+      "east africa": "_regional",
+      "afrique orientale": "_regional",
+      "central africa": "_regional",
+      "afrique centrale": "_regional",
+      "southern africa": "_regional",
+      "afrique australe": "_regional",
+      "sahel": "_regional",
+      "horn of africa": "_regional",
+      "corne de l'afrique": "_regional",
+      "great lakes region": "_regional"
+    },
+    "reject_places": [
+      "afghanistan",
+      "afrique du nord",
+      "algeria",
+      "algérie",
+      "america",
+      "americas",
+      "arabia",
+      "arctic",
+      "australia",
+      "austria",
+      "bali",
+      "borneo",
+      "brazil",
+      "britain",
+      "burma",
+      "cambodge",
+      "cambodia",
+      "caribbean",
+      "central asia",
+      "china",
+      "chine",
+      "cuba",
+      "egypt",
+      "england",
+      "europe",
+      "flanders",
+      "france",
+      "germany",
+      "greece",
+      "greenland",
+      "haiti",
+      "inde",
+      "india",
+      "indonesia",
+      "indonésie",
+      "iran",
+      "iraq",
+      "italy",
+      "japan",
+      "japon",
+      "java",
+      "kazakhstan",
+      "korea",
+      "laos",
+      "levant",
+      "libya",
+      "libye",
+      "madagascar",
+      "maghreb",
+      "malaysia",
+      "maroc",
+      "melanesia",
+      "mena",
+      "mexico",
+      "micronesia",
+      "middle east",
+      "mongolia",
+      "morocco",
+      "myanmar",
+      "nepal",
+      "netherlands",
+      "new zealand",
+      "north africa",
+      "north america",
+      "oman",
+      "ottoman empire",
+      "pakistan",
+      "papouasie",
+      "papua new guinea",
+      "perse",
+      "persia",
+      "peru",
+      "philippines",
+      "polynesia",
+      "portugal",
+      "russia",
+      "saudi arabia",
+      "scotland",
+      "siberia",
+      "soudan",
+      "south america",
+      "spain",
+      "sudan",
+      "syria",
+      "thailand",
+      "thaïlande",
+      "tibet",
+      "tunisia",
+      "tunisie",
+      "turkey",
+      "uzbekistan",
+      "vietnam",
+      "yemen",
+      "égypte"
+    ],
+    "signature_traditions": {
+      "kente": "Ghana",
+      "adinkra": "Ghana",
+      "akan goldweights": "Ghana",
+      "asante stool": "Ghana",
+      "kuba cloth": "Democratic Republic of the Congo",
+      "raffia velvet": "Democratic Republic of the Congo",
+      "nkisi nkondi": "Democratic Republic of the Congo",
+      "minkisi": "Democratic Republic of the Congo",
+      "byeri": "Gabon",
+      "fang reliquary": "Gabon",
+      "ife bronzes": "Nigeria",
+      "benin bronzes": "Nigeria",
+      "nok terracotta": "Nigeria",
+      "gelede mask": "Nigeria",
+      "ibeji": "Nigeria",
+      "processional cross": "Ethiopia",
+      "ethiopian icon": "Ethiopia",
+      "magdala treasure": "Ethiopia",
+      "shamma": "Ethiopia",
+      "kanga": "Tanzania",
+      "makonde mask": "Tanzania",
+      "shuka": "Kenya",
+      "maasai beadwork": "Kenya",
+      "kikuyu gourd": "Kenya",
+      "himba otjize": "Namibia",
+      "san rock art": "Botswana",
+      "zulu beadwork": "South Africa",
+      "ndebele wall painting": "South Africa",
+      "xhosa pipe": "South Africa",
+      "wolof boubou": "Senegal",
+      "senufo kpelie": "_regional"
+    }
+  }
+}

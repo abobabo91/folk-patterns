@@ -1,0 +1,122 @@
+{
+  "id": "va-O167209",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O167209",
+    "object_url": "https://collections.vam.ac.uk/item/O167209",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "T.96-1925",
+    "accession_year": 1925
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Afghanistan",
+    "ethnicity": "Afghan Turkmen",
+    "tradition": "Ersari carpet",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "wool"
+    ],
+    "techniques": [],
+    "medium_raw": "Wool",
+    "classification": "Saddle cover",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Equestrian equipment",
+      "Transport"
+    ],
+    "physical_description": "Saddle cover (made from something else and requires more thought)\r\n\r\nWARP: cream wool; Z2S; 18 threads per inch (70 per dm).\r\n\r\nWEFT: light brown wool; unable to ascertain spin and twist; 2 shoots after every row of knots; 21 knots per inch (86 per dm).\r\n\r\nPILE: wool; 6 colours: dark red with some bleeding into the cream, red, dark blue, blue, dark brown, cream; asymmetrical knot open to the right and tied around 2 threads; 189 knots per sq. inch (3010 per sq. dm).\r\n\r\nSIDE FINISH: Lower part: one cord oversewn with blue wool.  Upper part: kelim band with slits; not using weft from the piled areas (which is fine) but using warp wool.  Traces of a fringe.\r\n\r\nEND FINISH: Lower: maximum of 3.5 cms. of plain weave with cream weft; turned and stitched in place.  Upper: one row of blue soumak the 3.5 cms. plain weave with cream weft.\r\n\r\nDESIGN: two equal parts joined vertically.  There is now an arch shaped with a band above it.  The arch contains a square with two rectangles and several borders - the outer one contains stepped diamonds and the inner ones are checked.  The band has a central hexagon with half a hexagon to either side; these contain a diamond motif.  There is an \"insert\" in the sixth border from either side - there might originally have been a slit here.\r\n\r\nDate catalogued: 21.6.94",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "45",
+        "unit": "cm",
+        "part": "maximum"
+      },
+      {
+        "dimension": "Length",
+        "value": "24",
+        "unit": "cm",
+        "part": "minimum"
+      },
+      {
+        "dimension": "Width",
+        "value": "51",
+        "unit": "cm",
+        "part": "maximum"
+      },
+      {
+        "dimension": "Width",
+        "value": "28",
+        "unit": "cm",
+        "part": "minimum"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Central Asia",
+    "made_in_place_alt": [],
+    "current_gallery": "005",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O167209.jpg",
+      "iiif_id": "2012FP8678",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FP8678/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "acfc7dbb5c25a794a354049de3742550986573ca66473bb32917e23992b48bbd",
+      "bytes": 269016,
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O167209.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O167209_1.jpg",
+      "iiif_id": "2019MC7798",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019MC7798/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "2d0e95c1f9cfa3914105829b43ad85345b6d32695510eac224427ecc0cdbffaf",
+      "bytes": 223061,
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O167209_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:35:33.645122+00:00"
+}

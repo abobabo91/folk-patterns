@@ -1,0 +1,134 @@
+{
+  "id": "va-O478338",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478338",
+    "object_url": "https://collections.vam.ac.uk/item/O478338",
+    "iiif_manifest": null,
+    "credit_line": "Given by Lt. Col. R. Stocker, MCIT, AMBIM",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.106-1985",
+    "accession_year": 1985
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "batik cap",
+    "art_form": "textile",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "20th century",
+    "date_earliest": 1900,
+    "date_latest": 1999,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Batik wax-resist dyed",
+    "classification": "Sarong",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing"
+    ],
+    "physical_description": "Sarong with the badan (body) dyed using the cap (copper block) by the batik wax-resist process. A cream ground with a design of two flowering trees with birds, in red and pink. Only the body of two of the birds can be seen since the head has not been printed. The top border of the badan has a simple floral design in cream and pale blue on a dark pink ground. The lower border is more elaborate with large alternate pale blue and cream flowers running the length of the border.\n\nThe kepala (head) consists of a single floral sprays which is made up of various stylised leaves, flowers and berries in white and blue on a pink ground. On the right hand side of the spray is a bird with a blue head and wing. The rest of the bird is outlined in white. On the left hand side of the spray is another bird and is outlined in white except for two blue wings. At the top of the kepala, either side of the spray, are two birds in flight. Each holds a spray of berries. They too are outlined in white, each with a blue wing. Regularly spaced on the pink ground are small rosette motifs. Running down the sides of the kepala are borders identical to that of the lower one of the badan.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Width",
+        "value": "105",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Length",
+        "value": "170",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "020",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338.jpg",
+      "iiif_id": "2017JX7737",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7737/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "3a0513946327face0f504060f4b791f9755d7d4c7d0f2896795df0cb727c6330",
+      "bytes": 150072,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_1.jpg",
+      "iiif_id": "2017JX7736",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7736/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "bf0ccb2b39a41bb89a0f92ed57be0fd36479554e1bfab49d5aa78b0c5c0e0052",
+      "bytes": 336942,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_2.jpg",
+      "iiif_id": "2017JX7738",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7738/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "a6a0be6358ce1598b856e356365dc5fe0efb94e586e33d7c9d59c1714c357f09",
+      "bytes": 163887,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_2.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_3.jpg",
+      "iiif_id": "2017JX7739",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7739/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "a0f30082ae8c9363783ef8f5a67e466c03fbcca9c9f135c0778a49ab31a94aa0",
+      "bytes": 187339,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_3.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_4.jpg",
+      "iiif_id": "2017JX7740",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7740/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "e191a36291f5dfd1b0eac02dc616cb6bb744032aec7a002286784b87343a7899",
+      "bytes": 356896,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_4.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:19:18.506436+00:00"
+}

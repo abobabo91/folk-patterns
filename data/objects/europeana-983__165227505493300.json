@@ -1,0 +1,86 @@
+{
+  "id": "europeana-983__165227505493300",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Craft Museum of Finland",
+    "object_id": "983__165227505493300",
+    "object_url": "https://www.europeana.eu/item/983/_165227505493300?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "license_url": "http://creativecommons.org/licenses/by/4.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Uzbekistan",
+    "ethnicity": "Uzbek",
+    "tradition": "Uzbek",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": "ikat-kangas",
+    "titles_alt": [],
+    "date_text": {
+      "def": "1950/1999"
+    },
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "http://data.europeana.eu/concept/2130"
+    ],
+    "techniques": [],
+    "medium_raw": "http://data.europeana.eu/concept/2130",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Finland",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Craft Museum of Finland",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/uzbek/images/eu_983__165227505493300.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b34078b527f7d55069c4d07c89f9f6223383a847a54394571f2ea24440bf1b09",
+      "bytes": 214683,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\uzbek\\images\\eu_983__165227505493300.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-20T18:23:18.281061+00:00"
+}

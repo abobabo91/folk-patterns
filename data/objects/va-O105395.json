@@ -1,0 +1,108 @@
+{
+  "id": "va-O105395",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O105395",
+    "object_url": "https://collections.vam.ac.uk/item/O105395",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "1286-1893",
+    "accession_year": 1893
+  },
+  "cultural": {
+    "region": "central_asia",
+    "country": "Uzbekistan",
+    "ethnicity": "Uzbek",
+    "tradition": "Samarkand tile",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "ceramic"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "ca. 1380-1420",
+    "date_earliest": 1375,
+    "date_latest": 1420,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Earthenware",
+    "classification": "Tile",
+    "styles": [],
+    "categories": [
+      "Ceramics",
+      "Earthenware",
+      "Tiles"
+    ],
+    "physical_description": "Earthenware tile with turquoise calligraphy",
+    "summary": "The ancient traditions of unglazed and turquoise-glazed ceramics are here used side by side. The tile is from an architectural frieze. The colour contrast makes the fragment of text legible, even though the first two letters (reading left to right) have been twisted into a symmetrical knot.",
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Height",
+        "value": "34",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "26",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Samarkand",
+    "made_in_place_alt": [],
+    "current_gallery": "42 (VA)",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O105395.jpg",
+      "iiif_id": "2006BB1738",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006BB1738/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "fef64312127e1c57ece544bf6f64c8bc75bea540b334105fbff6194737c2d0e4",
+      "bytes": 353658,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O105395.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O105395_1.jpg",
+      "iiif_id": "2017JU6350",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JU6350/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "7f8e87102b6897bb4f923b8488ae7dd538d4ddc1d91e90fa4178f37711c9af10",
+      "bytes": 233075,
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O105395_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:25:30.574422+00:00"
+}

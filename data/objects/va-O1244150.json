@@ -1,0 +1,112 @@
+{
+  "id": "va-O1244150",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O1244150",
+    "object_url": "https://collections.vam.ac.uk/item/O1244150",
+    "iiif_manifest": null,
+    "credit_line": "Lanchester Collection",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "S.990-2011",
+    "accession_year": 2011
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Balinese",
+    "tradition": "wayang",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "sculpture"
+  },
+  "physical": {
+    "title": "Wayang shadow puppet",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "leather"
+    ],
+    "techniques": [
+      "painted",
+      "sewn"
+    ],
+    "medium_raw": "Painted leather",
+    "classification": "Shadow puppet",
+    "styles": [],
+    "categories": [
+      "Entertainment & Leisure",
+      "Puppetry"
+    ],
+    "physical_description": "One of four very fine wayang shadow puppets, possibly representing Arjuna. Has a black painted face. The body section is painted gold with a decorated lhungi and headdress. Each arm is painted gold and is in two sections, joined at the elbow and each attached to the body at the shoulder. ",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "height",
+        "value": "48",
+        "unit": "cm",
+        "part": "from the top of the crown to the bottom"
+      },
+      {
+        "dimension": "width",
+        "value": "44",
+        "unit": "cm",
+        "part": "from arm to arm"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "008",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244150.jpg",
+      "iiif_id": "2019LX4779",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019LX4779/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "02fe487ee525782faf453ea62dab45dc5560108c09293a758a0b751b29056029",
+      "bytes": 193712,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244150.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244150_1.jpg",
+      "iiif_id": "2012FG6905",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FG6905/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "c4d668694e4fa41942e0851890bb0dc243b0fe0d51c57c02d7ad286d72cdf2af",
+      "bytes": 105600,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244150_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:23:08.172834+00:00"
+}

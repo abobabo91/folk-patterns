@@ -1,0 +1,141 @@
+{
+  "id": "va-O10875",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O10875",
+    "object_url": "https://collections.vam.ac.uk/item/O10875",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "6137(IS)",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Myanmar",
+    "ethnicity": "Bamar",
+    "tradition": "acheik",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": null
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "3rd quarter 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1875,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "silk (textile)"
+    ],
+    "techniques": [
+      "weaving"
+    ],
+    "medium_raw": "Silk of the luntaya (one hundred shuttles) interlocking tapestry weave.",
+    "classification": "Silk acheik-luntaya",
+    "styles": [
+      "Konbaung"
+    ],
+    "categories": [
+      "India Museum"
+    ],
+    "physical_description": "Acheik (horizontal wave) patterned textile.\r\nWarp: repeating bands of green, white, lime, yellow and coral.\r\nWeft: 3 repeating acheik patterns in the same colours as the warp.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "145",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "width",
+        "value": "63.5",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": [
+      {
+        "content": "\"544\"[Refers to sample of this silk in the Forbes-Watson <font -u>Textile Fabrics of India</font>. See Ref.]",
+        "inscriber": {
+          "name": {
+            "text": "",
+            "id": ""
+          },
+          "association": {
+            "text": "",
+            "id": ""
+          }
+        },
+        "date": {
+          "text": "",
+          "earliest": null,
+          "latest": null
+        },
+        "description": "",
+        "interpretation": "",
+        "language": "",
+        "medium": "",
+        "method": "",
+        "position": "",
+        "script": "",
+        "translation": "",
+        "transliteration": "",
+        "type": "Label",
+        "note": "Label"
+      }
+    ]
+  },
+  "location": {
+    "made_in_place": "Burma",
+    "made_in_place_alt": [],
+    "current_gallery": "007",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/acheik/images/va_O10875.jpg",
+      "iiif_id": "2020MP4371",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4371/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "289c8ec1937f40c05bd750092878a7af3367d1814eb3c8012195589e6389f578",
+      "bytes": 149471,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10875.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/acheik/images/va_O10875_1.jpg",
+      "iiif_id": "2011FB0618",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0618/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "a140c468d3e1bae0fa89ab73a6cf45b2ba8c89b09ce6858af5134cfdad1d9e01",
+      "bytes": 253472,
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10875_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:33:21.054476+00:00"
+}

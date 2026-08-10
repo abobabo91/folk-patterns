@@ -1,0 +1,125 @@
+{
+  "id": "va-O472068",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O472068",
+    "object_url": "https://collections.vam.ac.uk/item/O472068",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.89-1993",
+    "accession_year": 1993
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "kain panjang",
+    "art_form": "textile",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [
+      "batik"
+    ],
+    "medium_raw": "Cotton batik",
+    "classification": "Skirt cloth",
+    "styles": [],
+    "categories": [
+      "Textiles"
+    ],
+    "physical_description": "Skirt cloth (<i>Kain panjang</i>) of cotton batik with zig-zag bands in black & red depicting various figures. ",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "",
+        "value": "",
+        "unit": "",
+        "part": null
+      },
+      {
+        "dimension": "Length",
+        "value": "244",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "104",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "012",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472068.jpg",
+      "iiif_id": "2006AT8360",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8360/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "427a00e0d8336fe923fc31757aa2e36da7d3c061e612ae564e6d512aec53ca11",
+      "bytes": 214653,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472068.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472068_1.jpg",
+      "iiif_id": "2006AT8358",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8358/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "16a17487a9de1de5118f8196024687a8f4c52d539adc808e3bdc594ad3688fd2",
+      "bytes": 247957,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472068_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472068_2.jpg",
+      "iiif_id": "2006AT8357",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8357/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "fe2503294e36b5f6e6e060af3e6c266a59798dfdbab099fcf7c4b11a49254f9d",
+      "bytes": 243609,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472068_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:19:51.221188+00:00"
+}

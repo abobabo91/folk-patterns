@@ -1,0 +1,1032 @@
+{
+  "region": "middle-east-north-africa",
+  "notes": "MENA pilot cohort — extends the Islamic material work from Central Asia. Focus on cultures with strong open-access museum representation (Louvre + MET Islamic wing + V&A Middle East collection via Europeana + direct APIs). Kurdish is split by country because Turkish-Kurdish and Iranian-Kurdish material is cataloged under different colonial-museum systems (Turkish vs French).",
+  "countries": [
+    {
+      "country": "Iran",
+      "majority_ethnicity": "Persian",
+      "met_queries": [
+        "Iran",
+        "Persian",
+        "Persia",
+        "Safavid",
+        "Qajar"
+      ],
+      "ethnicities": [
+        {
+          "name": "Persian",
+          "homeland": {
+            "lat": 32.4279,
+            "lon": 53.688
+          },
+          "homeland_place": "Iranian Plateau",
+          "traditions": [
+            "Persian carpet",
+            "Isfahan tile",
+            "khatam",
+            "minakari",
+            "termeh",
+            "qalamzani",
+            "miniature painting",
+            "khāṭamkāri",
+            "Persian miniature",
+            "Kashan tile",
+            "Kerman carpet",
+            "Tabriz rug",
+            "Kashan carpet",
+            "Qom silk carpet",
+            "Nain rug",
+            "gabbeh",
+            "kilim",
+            "suzani",
+            "giveh",
+            "Persian calligraphy",
+            "moaraq",
+            "Persian lacquerware",
+            "Safavid tile",
+            "Qajar painting",
+            "Yazd textile"
+          ],
+          "cleveland_accept_tokens": [
+            "persian",
+            "iran",
+            "iranian",
+            "safavid",
+            "qajar",
+            "achaemenid",
+            "sasanian",
+            "isfahan"
+          ],
+          "arch_commons_categories": [
+            "Naqsh-e Jahan Square",
+            "Shah Mosque (Isfahan)",
+            "Sheikh Lotfollah Mosque",
+            "Persepolis",
+            "Nasir ol Molk Mosque",
+            "Ali Qapu",
+            "Chehel Sotoun",
+            "Golestan Palace",
+            "Tomb of Hafez",
+            "Jameh Mosque of Isfahan",
+            "Domes of Shah Mosque (Isfahan)",
+            "Interior of Shah Mosque (Isfahan)",
+            "Dome of Sheikh Lotfollah Mosque",
+            "Interior of Sheikh Lotfollah Mosque",
+            "Interior of Ali Qapu",
+            "Interior of Golestan Palace",
+            "Ceiling of Tomb of Hafez",
+            "Domes of Jameh Mosque of Isfahan",
+            "Interior of Jameh Mosque of Isfahan",
+            "Persian music"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Persian Iran",
+              "Perse art",
+              "persisch Iran",
+              "Safavid Persia",
+              "Qajar Iran",
+              "Perzisch tapijt"
+            ]
+          }
+        },
+        {
+          "name": "Kurdish (Iranian)",
+          "homeland": {
+            "lat": 35.32,
+            "lon": 46.996
+          },
+          "homeland_place": "Kurdistan Province",
+          "traditions": [
+            "klash shoes",
+            "Kurdish carpet",
+            "kilim",
+            "gelim",
+            "Senneh carpet",
+            "jajim",
+            "Kurdish felt",
+            "Kurdish jewelry",
+            "Sanandaj carpet",
+            "Bijar carpet",
+            "Kolyayi rug",
+            "Jaff rug",
+            "Sauj Bulagh rug",
+            "Kurdish saddlebag",
+            "khorjin",
+            "mafrash",
+            "Kurdish cradle cover",
+            "giveh",
+            "Kurdish silverwork",
+            "Hewrami costume",
+            "shal u shapik"
+          ],
+          "cleveland_accept_tokens": [
+            "kurdish",
+            "kurd",
+            "senneh",
+            "sanandaj",
+            "bijar",
+            "jaff",
+            "mukri",
+            "sauj bulagh"
+          ],
+          "arch_commons_categories": [
+            "Palace of Sardar of Sanandaj",
+            "Khosro Abad Mansion",
+            "Asef Vaziri Mansion",
+            "Moshir Divan Mansion"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Kurdish Iran textile",
+              "Senneh rug",
+              "Bijar carpet",
+              "Kurde Perse",
+              "Sanandaj kilim",
+              "Kurdish Persia costume"
+            ]
+          }
+        },
+        {
+          "name": "Azeri (Iranian)",
+          "homeland": {
+            "lat": 37.905,
+            "lon": 46.262
+          },
+          "homeland_place": "Iranian Azerbaijan",
+          "traditions": [
+            "Tabriz carpet",
+            "verni",
+            "kilim",
+            "silversmithing",
+            "Azeri embroidery",
+            "sumakh",
+            "soumak",
+            "jajim",
+            "Shahsavan",
+            "Heriz carpet",
+            "Karabagh carpet",
+            "khatam",
+            "Azerbaijani silk",
+            "kelaghayi",
+            "Tabriz metalwork"
+          ],
+          "cleveland_accept_tokens": [
+            "azerbaijani",
+            "azeri",
+            "tabriz",
+            "shahsavan",
+            "heriz",
+            "karabagh"
+          ],
+          "arch_commons_categories": [
+            "Blue Mosque (Tabriz)",
+            "Arg of Tabriz",
+            "Bazaar of Tabriz",
+            "Kabud Mosque",
+            "Dome of Soltaniyeh",
+            "Interior of Blue Mosque (Tabriz)"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Azerbaijani carpet",
+              "Tabriz rug",
+              "Shahsavan sumakh",
+              "Heriz carpet Iran",
+              "Karabagh rug",
+              "verni Azerbaijan"
+            ]
+          }
+        },
+        {
+          "name": "Qashqai",
+          "homeland": {
+            "lat": 29.75,
+            "lon": 52.64
+          },
+          "homeland_place": "Fars Province",
+          "traditions": [
+            "Qashqai kilim",
+            "Qashqai gabbeh",
+            "gabbeh",
+            "jajim",
+            "Qashqai carpet",
+            "Qashqai rug",
+            "Qashqai saddlebag",
+            "khorjin",
+            "Qashqai salt bag",
+            "namakdan",
+            "Qashqai weaving",
+            "Kashkai",
+            "Kashgai",
+            "Ghashghai",
+            "Qashqa'i",
+            "Shishboluki",
+            "Amaleh",
+            "Darrehshuri",
+            "Kashkuli",
+            "Farsimadan"
+          ],
+          "cleveland_accept_tokens": [
+            "qashqai",
+            "qashqa'i",
+            "kashkai",
+            "kashgai",
+            "ghashghai",
+            "shishboluki",
+            "kashkuli"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Qashqai rug",
+              "Qashqai kilim Iran",
+              "Kashkai gabbeh",
+              "Ghashghai carpet",
+              "Qashqa'i weaving Fars",
+              "Qashqai nomad textile"
+            ]
+          }
+        },
+        {
+          "name": "Baluchi",
+          "homeland": {
+            "lat": 27.55,
+            "lon": 60.6
+          },
+          "homeland_place": "Sistan and Baluchestan",
+          "traditions": [
+            "Baluch carpet",
+            "Baluchi embroidery",
+            "Sistan carpet",
+            "silversmith Baluch",
+            "Baluchi doch",
+            "Baloch",
+            "Balochi",
+            "Belutsch",
+            "Baluchistan rug",
+            "Belouch",
+            "Beluch",
+            "Baluch prayer rug",
+            "Baluch saddlebag",
+            "Baluch khorjin",
+            "Sistan kilim",
+            "Baluch pile weaving",
+            "Baluch balisht",
+            "Baluchi mirror work",
+            "Baluch sofreh",
+            "Makran"
+          ],
+          "cleveland_accept_tokens": [
+            "baluch",
+            "baluchi",
+            "baloch",
+            "balochi",
+            "belutsch",
+            "sistan",
+            "khorasan baluch",
+            "makran"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Baluch",
+              "Belutsch",
+              "Belouch rug",
+              "Baluchi Iran",
+              "Baluch Khorasan",
+              "Sistan Baluchistan"
+            ]
+          },
+          "arch_commons_categories": [
+            "Baloch people",
+            "Baluchi women",
+            "Baluchi men",
+            "Baluchi clothing",
+            "Baloch culture"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Morocco",
+      "majority_ethnicity": "Moroccan Arab",
+      "met_queries": [
+        "Morocco",
+        "Moroccan",
+        "Fez",
+        "Marrakech"
+      ],
+      "ethnicities": [
+        {
+          "name": "Berber",
+          "homeland": {
+            "lat": 31.01,
+            "lon": -8.135
+          },
+          "homeland_place": "Atlas Mountains",
+          "traditions": [
+            "Amazigh jewelry",
+            "Berber carpet",
+            "Beni Ourain",
+            "Boucherouite",
+            "kilim Berber",
+            "tagelmust",
+            "Berber tattoo",
+            "Kabyle jewelry",
+            "Amazigh",
+            "Berbère",
+            "Tamazight",
+            "Rif",
+            "Chleuh",
+            "Souss",
+            "Ait Bou Ichaouen",
+            "Zemmour",
+            "Zaiane",
+            "Azilal",
+            "Taznakht",
+            "haïk",
+            "fibula Berber",
+            "khamsa",
+            "handira",
+            "djellaba"
+          ],
+          "cleveland_accept_tokens": [
+            "berber",
+            "amazigh",
+            "kabyle",
+            "chleuh",
+            "tamazight",
+            "rif",
+            "tuareg"
+          ],
+          "arch_commons_categories": [
+            "Berber architecture",
+            "Ksour in Morocco",
+            "Kasbahs in Morocco",
+            "Agadirs (fortified granaries)",
+            "Aït Benhaddou",
+            "Tighremt"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Berbère Maroc",
+              "Amazigh Morocco",
+              "Kabyle bijoux",
+              "Berber textile Morocco",
+              "tapis berbère",
+              "Chleuh Souss"
+            ]
+          }
+        },
+        {
+          "name": "Moroccan Arab",
+          "homeland": {
+            "lat": 33.593,
+            "lon": -7.583
+          },
+          "homeland_place": "Fez / Marrakech",
+          "traditions": [
+            "Fez embroidery",
+            "zellige",
+            "Moroccan tile",
+            "Rabat carpet",
+            "Fez pottery",
+            "Meknes brocade",
+            "handira",
+            "caftan Morocco",
+            "babouche",
+            "Berber jewelry Morocco",
+            "Moroccan silverwork",
+            "Tetouan embroidery",
+            "Chefchaouen textile",
+            "Sale pottery",
+            "Safi pottery",
+            "djellaba",
+            "haik",
+            "Moroccan leather Fez",
+            "koumia dagger",
+            "Moroccan brassware",
+            "moucharabieh",
+            "tadelakt",
+            "Moroccan illuminated manuscript"
+          ],
+          "cleveland_accept_tokens": [
+            "moroccan",
+            "morocco",
+            "fez",
+            "rabat",
+            "meknes",
+            "tetouan",
+            "maghreb"
+          ],
+          "arch_commons_categories": [
+            "Koutoubia Mosque",
+            "Hassan Tower",
+            "Kasbah of the Udayas",
+            "Bou Inania Madrasa",
+            "Ben Youssef Madrasa",
+            "Al-Attarine Madrasa",
+            "Bahia Palace",
+            "El Badi Palace",
+            "Medina of Fez",
+            "Medina of Marrakesh",
+            "Ksar of Ait-Ben-Haddou",
+            "Hassan II Mosque",
+            "Koutoubia Mosque interior",
+            "Interior of the Kasbah of the Udayas",
+            "Walls of the Kasbah of the Udayas",
+            "Decorated ceilings in Bahia Palace",
+            "Interior of Hassan II Mosque"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Maroc broderie",
+              "Marocain tapis",
+              "Fes ceramique",
+              "Moroccan caftan",
+              "art marocain",
+              "Marokko textil"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Tunisia",
+      "majority_ethnicity": "Tunisian Arab",
+      "met_queries": [
+        "Tunisia",
+        "Tunisian",
+        "Kairouan"
+      ],
+      "ethnicities": [
+        {
+          "name": "Tunisian Arab",
+          "homeland": {
+            "lat": 36.806,
+            "lon": 10.181
+          },
+          "homeland_place": "Tunis / Kairouan",
+          "traditions": [
+            "Kairouan carpet",
+            "mergoum",
+            "kilim tunisien",
+            "chechia",
+            "Tunisian pottery",
+            "sifsari",
+            "Tunisian brocade",
+            "fouta tunisienne",
+            "jebba",
+            "burnous",
+            "haik",
+            "Nabeul pottery",
+            "Sejnane pottery",
+            "Guellala pottery",
+            "Berber jewelry Tunisia",
+            "khomsa",
+            "margoum",
+            "klim",
+            "Tunisian embroidery",
+            "Raf Raf embroidery",
+            "Moknine jewelry",
+            "tapis tunisien"
+          ],
+          "cleveland_accept_tokens": [
+            "tunisian",
+            "tunisia",
+            "kairouan",
+            "nabeul",
+            "sejnane",
+            "djerba",
+            "moknine"
+          ],
+          "arch_commons_categories": [
+            "Great Mosque of Kairouan",
+            "Mosque of Uqba",
+            "Ribat of Sousse",
+            "Ribat of Monastir",
+            "Zitouna Mosque",
+            "Medina of Tunis",
+            "Medina of Sousse",
+            "Kasbah of Tunis",
+            "Sidi Bou Said",
+            "Dar Hussein",
+            "Bardo National Museum (Tunisia)",
+            "Domes of the Great Mosque of Kairouan",
+            "Domes of the Zitouna Mosque"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Tunisie tapis",
+              "Tunisian Kairouan carpet",
+              "Tunisie céramique Nabeul",
+              "\"tunisien\" costume",
+              "Tunisie bijoux berbère",
+              "Tunisian textile mergoum"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Egypt",
+      "majority_ethnicity": "Egyptian",
+      "met_queries": [
+        "Egypt",
+        "Egyptian",
+        "Cairo",
+        "Coptic"
+      ],
+      "ethnicities": [
+        {
+          "name": "Egyptian",
+          "homeland": {
+            "lat": 30.044,
+            "lon": 31.236
+          },
+          "homeland_place": "Nile Valley",
+          "traditions": [
+            "Coptic textile",
+            "khayamiya",
+            "tentmaker applique",
+            "mashrabiya",
+            "Egyptian embroidery",
+            "Cairo mamluk",
+            "kilim egyptien",
+            "Egyptian silver",
+            "assiut",
+            "tulle bi telli",
+            "Nubian jewelry",
+            "Bedouin embroidery Sinai",
+            "Fayum portrait",
+            "Coptic tunic",
+            "Egyptian faience",
+            "shadouf",
+            "Siwa embroidery",
+            "naqsh hajar",
+            "Cairene woodwork",
+            "Fustat pottery",
+            "mother-of-pearl inlay Egypt",
+            "Rashid tiles",
+            "galabeya"
+          ],
+          "cleveland_accept_tokens": [
+            "egypt",
+            "egyptian",
+            "coptic",
+            "mamluk",
+            "fatimid",
+            "cairo",
+            "nubian",
+            "fustat"
+          ],
+          "arch_commons_categories": [
+            "Mosque-Madrasa of Sultan Hassan",
+            "Al-Azhar Mosque",
+            "Mosque of Ibn Tulun",
+            "Mosque of Muhammad Ali",
+            "Hanging Church",
+            "Bab Zuweila",
+            "Sultan Al-Ghuri Complex",
+            "Mashrabiya",
+            "Interior of Sultan Hasan Mosque-Madrasa",
+            "Dome of al-Hafiz (al-Azhar Mosque)",
+            "Interior of Ibn Tulun Mosque",
+            "Interior of the Hanging Church"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Egyptian Coptic textile",
+              "Égypte broderie",
+              "Ägypten Mamluk",
+              "khayamiya Cairo",
+              "assiut tulle bi telli",
+              "Nubian Egypt jewelry"
+            ]
+          }
+        },
+        {
+          "name": "Nubian",
+          "homeland": {
+            "lat": 23.973,
+            "lon": 32.918
+          },
+          "homeland_place": "Upper Nile / Sudan border",
+          "traditions": [
+            "Nubian house painting",
+            "Nubian jewelry",
+            "Nubian pottery",
+            "Nubian textile",
+            "Nubian beadwork",
+            "Nubian basketry",
+            "Kenuz",
+            "Fadicca",
+            "Mahas",
+            "Dongolawi",
+            "Nubian leatherwork",
+            "Nubian amulet",
+            "Nubian silverwork",
+            "Nubian wedding costume",
+            "Nubian scarification",
+            "Nubian palm-frond weaving",
+            "Nubian tattoo"
+          ],
+          "cleveland_accept_tokens": [
+            "nubian",
+            "nubia",
+            "kenuz",
+            "kenzi",
+            "fadicca",
+            "fadija",
+            "mahas",
+            "dongolawi"
+          ],
+          "arch_commons_categories": [
+            "Nubian architecture",
+            "Nubian houses",
+            "Nubian villages",
+            "Hassan Fathy",
+            "New Gourna"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Nubian Egypt",
+              "Nubien Ägypten",
+              "Nubie Égypte",
+              "Nubia Sudan",
+              "Kenuz Nubian",
+              "Nubische"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Turkey",
+      "majority_ethnicity": "Turkish",
+      "met_queries": [
+        "Turkey",
+        "Turkish",
+        "Anatolia",
+        "Ottoman",
+        "Iznik"
+      ],
+      "ethnicities": [
+        {
+          "name": "Turkish",
+          "homeland": {
+            "lat": 39.925,
+            "lon": 32.866
+          },
+          "homeland_place": "Anatolia",
+          "traditions": [
+            "Iznik tile",
+            "Ottoman brocade",
+            "kilim",
+            "yastik",
+            "cintemani",
+            "Bursa silk",
+            "hereke carpet",
+            "Turkish carpet",
+            "Kütahya tile",
+            "Ottoman miniature",
+            "suzani",
+            "iznik pottery",
+            "cuerda seca",
+            "tugra",
+            "saz style",
+            "Ushak carpet",
+            "Ladik carpet",
+            "Ghiordes carpet",
+            "Milas carpet",
+            "Konya carpet",
+            "Ottoman calligraphy",
+            "çatma velvet",
+            "Ottoman embroidery",
+            "Iznik ware",
+            "Turkish rug"
+          ],
+          "cleveland_accept_tokens": [
+            "turkish",
+            "ottoman",
+            "iznik",
+            "kütahya",
+            "hereke",
+            "bursa",
+            "anatolian"
+          ],
+          "arch_commons_categories": [
+            "Süleymaniye Mosque",
+            "Sultan Ahmed Mosque",
+            "Selimiye Mosque, Edirne",
+            "Topkapı Palace",
+            "Hagia Sophia",
+            "Rüstem Pasha Mosque",
+            "Şehzade Mosque",
+            "Ottoman architecture",
+            "Interior of the Süleymaniye Mosque",
+            "Interior of Topkapı Palace",
+            "Interior of Hagia Sophia",
+            "Details of tiles in Rüstem Pasha Mosque",
+            "Interior of the Rüstem Pasha Mosque",
+            "Interior of the Şehzade Mosque"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Ottoman Turkey",
+              "Iznik ceramic",
+              "Turkish carpet Anatolia",
+              "Ottoman textile",
+              "Türkisch Osmanisch",
+              "tapis turc Ottoman"
+            ]
+          }
+        },
+        {
+          "name": "Kurdish (Turkish)",
+          "homeland": {
+            "lat": 37.917,
+            "lon": 40.235
+          },
+          "homeland_place": "Southeastern Anatolia",
+          "traditions": [
+            "Van kilim",
+            "Hakkari kilim",
+            "Kurdish carpet",
+            "cicim",
+            "sumak",
+            "Kurdish silver",
+            "jajim",
+            "verneh",
+            "Kurdish jewelry",
+            "Kurdish costume",
+            "Şal û şapik",
+            "klash",
+            "Kurdish felt",
+            "Yezidi textile",
+            "Botan kilim",
+            "Serhat kilim",
+            "Kurdish saddlebag",
+            "heybe",
+            "Kurdish embroidery"
+          ],
+          "cleveland_accept_tokens": [
+            "kurdish",
+            "kurd",
+            "hakkari",
+            "van",
+            "yezidi",
+            "zaza"
+          ],
+          "arch_commons_categories": [
+            "Hoşap Castle",
+            "Ishak Pasha Palace",
+            "Akdamar Church",
+            "Cizre Great Mosque",
+            "Interior of İshak Paşa Palace",
+            "Interior of Akdamar Church"
+          ],
+          "source_queries": {
+            "europeana": [
+              "Kurdish kilim Turkey",
+              "Kurden Türkei",
+              "Kurdes Turquie textile",
+              "Hakkari kilim",
+              "Van kilim Kurdish",
+              "Yezidi Turkey"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "region_places": {
+    "place_to_country": {
+      "iran": "Iran",
+      "persia": "Iran",
+      "persian": "Iran",
+      "tehran": "Iran",
+      "isfahan": "Iran",
+      "esfahan": "Iran",
+      "ispahan": "Iran",
+      "shiraz": "Iran",
+      "tabriz": "Iran",
+      "kashan": "Iran",
+      "kerman": "Iran",
+      "mashhad": "Iran",
+      "qom": "Iran",
+      "yazd": "Iran",
+      "hamadan": "Iran",
+      "nishapur": "Iran",
+      "neyshabur": "Iran",
+      "khorasan": "Iran",
+      "gilan": "Iran",
+      "mazandaran": "Iran",
+      "luristan": "Iran",
+      "lorestan": "Iran",
+      "azerbaijan (iran)": "Iran",
+      "iranian azerbaijan": "Iran",
+      "morocco": "Morocco",
+      "maroc": "Morocco",
+      "moroccan": "Morocco",
+      "marocain": "Morocco",
+      "fez": "Morocco",
+      "fes": "Morocco",
+      "fès": "Morocco",
+      "marrakesh": "Morocco",
+      "marrakech": "Morocco",
+      "rabat": "Morocco",
+      "meknes": "Morocco",
+      "meknès": "Morocco",
+      "tetouan": "Morocco",
+      "tétouan": "Morocco",
+      "chefchaouen": "Morocco",
+      "essaouira": "Morocco",
+      "casablanca": "Morocco",
+      "tangier": "Morocco",
+      "tanger": "Morocco",
+      "salé": "Morocco",
+      "sale": "Morocco",
+      "atlas mountains": "Morocco",
+      "haut atlas": "Morocco",
+      "moyen atlas": "Morocco",
+      "rif": "Morocco",
+      "sous": "Morocco",
+      "souss": "Morocco",
+      "tunisia": "Tunisia",
+      "tunisie": "Tunisia",
+      "tunisian": "Tunisia",
+      "tunisien": "Tunisia",
+      "tunis": "Tunisia",
+      "kairouan": "Tunisia",
+      "sfax": "Tunisia",
+      "sousse": "Tunisia",
+      "mahdia": "Tunisia",
+      "djerba": "Tunisia",
+      "jerba": "Tunisia",
+      "nabeul": "Tunisia",
+      "carthage": "Tunisia",
+      "egypt": "Egypt",
+      "egyptian": "Egypt",
+      "égypte": "Egypt",
+      "cairo": "Egypt",
+      "le caire": "Egypt",
+      "alexandria": "Egypt",
+      "alexandrie": "Egypt",
+      "fustat": "Egypt",
+      "giza": "Egypt",
+      "luxor": "Egypt",
+      "thebes": "Egypt",
+      "aswan": "Egypt",
+      "sinai": "Egypt",
+      "upper egypt": "Egypt",
+      "lower egypt": "Egypt",
+      "coptic egypt": "Egypt",
+      "mamluk egypt": "Egypt",
+      "turkey": "Turkey",
+      "türkiye": "Turkey",
+      "turkiye": "Turkey",
+      "turquie": "Turkey",
+      "turkish": "Turkey",
+      "anatolia": "Turkey",
+      "anatolian": "Turkey",
+      "asia minor": "Turkey",
+      "ottoman empire": "Turkey",
+      "ottoman": "Turkey",
+      "istanbul": "Turkey",
+      "constantinople": "Turkey",
+      "iznik": "Turkey",
+      "bursa": "Turkey",
+      "izmir": "Turkey",
+      "smyrna": "Turkey",
+      "konya": "Turkey",
+      "edirne": "Turkey",
+      "adrianople": "Turkey",
+      "kutahya": "Turkey",
+      "kütahya": "Turkey",
+      "cappadocia": "Turkey",
+      "hereke": "Turkey",
+      "usak": "Turkey",
+      "uşak": "Turkey",
+      "maghreb": "_regional",
+      "maghrib": "_regional",
+      "north africa": "_regional",
+      "afrique du nord": "_regional",
+      "berber": "_regional",
+      "amazigh": "_regional",
+      "islamic world": "_regional",
+      "middle east": "_regional",
+      "near east": "_regional"
+    },
+    "reject_places": [
+      "afghanistan",
+      "al-andalus",
+      "algeria",
+      "algérie",
+      "andalusia",
+      "arabia",
+      "armenia",
+      "azerbaijan",
+      "bahrain",
+      "bhutan",
+      "bukhara",
+      "burma",
+      "cambodia",
+      "caucasus",
+      "chad",
+      "china",
+      "cyprus",
+      "east africa",
+      "eritrea",
+      "ethiopia",
+      "france",
+      "georgia",
+      "greece",
+      "hejaz",
+      "india",
+      "indonesia",
+      "iraq",
+      "israel",
+      "italy",
+      "japan",
+      "jordan",
+      "kashmir",
+      "kazakhstan",
+      "korea",
+      "kuwait",
+      "kyrgyzstan",
+      "lebanon",
+      "libya",
+      "malaysia",
+      "mali",
+      "mauritania",
+      "mesopotamia",
+      "mongolia",
+      "myanmar",
+      "nepal",
+      "nigeria",
+      "oman",
+      "pakistan",
+      "palestine",
+      "philippines",
+      "portugal",
+      "qatar",
+      "russia",
+      "samarkand",
+      "saudi arabia",
+      "senegal",
+      "somalia",
+      "spain",
+      "sri lanka",
+      "sub-saharan africa",
+      "sudan",
+      "syria",
+      "tajikistan",
+      "tashkent",
+      "thailand",
+      "tibet",
+      "turkmenistan",
+      "uae",
+      "uzbekistan",
+      "vietnam",
+      "west africa",
+      "xinjiang",
+      "yemen"
+    ],
+    "signature_traditions": {
+      "iznik": "Turkey",
+      "kutahya ware": "Turkey",
+      "hereke rug": "Turkey",
+      "hereke carpet": "Turkey",
+      "usak carpet": "Turkey",
+      "ushak carpet": "Turkey",
+      "ottoman tugra": "Turkey",
+      "tughra": "Turkey",
+      "cintamani": "Turkey",
+      "qashqai": "Iran",
+      "kashkai": "Iran",
+      "bakhtiari": "Iran",
+      "kilim shiraz": "Iran",
+      "safavid": "Iran",
+      "qajar": "Iran",
+      "lusterware kashan": "Iran",
+      "minai ware": "Iran",
+      "mina'i": "Iran",
+      "beni ourain": "Morocco",
+      "beni mguild": "Morocco",
+      "boucherouite": "Morocco",
+      "azemmour embroidery": "Morocco",
+      "fez embroidery": "Morocco",
+      "zellige": "Morocco",
+      "tadelakt": "Morocco",
+      "babouche": "Morocco",
+      "chemla": "Tunisia",
+      "kairouan carpet": "Tunisia",
+      "mergoum": "Tunisia",
+      "coptic textile": "Egypt",
+      "mamluk carpet": "Egypt",
+      "mamluk glass": "Egypt",
+      "fatimid": "Egypt",
+      "fustat textile": "Egypt"
+    }
+  }
+}

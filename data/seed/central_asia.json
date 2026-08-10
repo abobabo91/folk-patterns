@@ -1,0 +1,741 @@
+{
+  "region": "central-asia",
+  "notes": "Hand-written seed. Each ethnicity has a `homeland` with center lat/lon (used for globe markers), a `homeland_place` label (nearest city or region center), and starter tradition names. Ethnicity != country; some ethnicities span borders. `met_queries` are the broad country/culture terms sent to the Met search (see `tools/knowledge base/museum open access apis 2026-07.md` for its fallback bug).",
+  "countries": [
+    {
+      "country": "Uzbekistan",
+      "met_queries": [
+        "Uzbek",
+        "Uzbekistan",
+        "Bukhara",
+        "Samarkand",
+        "Timurid"
+      ],
+      "ethnicities": [
+        {
+          "name": "Uzbek",
+          "homeland": {
+            "lat": 39.65,
+            "lon": 66.96
+          },
+          "homeland_place": "Samarkand",
+          "traditions": [
+            "ikat",
+            "adras",
+            "atlas",
+            "khan-atlas",
+            "suzani",
+            "chapan",
+            "duppi",
+            "tubeteika",
+            "iranian tile",
+            "muqarnas",
+            "girih",
+            "Bukhara embroidery",
+            "Samarkand tile",
+            "Rishtan ceramics"
+          ],
+          "arch_commons_categories": [
+            "Bibi-Khanym Mosque",
+            "Shah-i-Zinda",
+            "Kalyan minaret",
+            "Poi Kalyan",
+            "Registan",
+            "Ulugh Beg Madrasah (Samarkand)",
+            "Tilya-Kori Madrasah",
+            "Sher-Dor Madrasah",
+            "Ark of Bukhara",
+            "Chor Minor",
+            "Char Minar Bukhara",
+            "Islom Xoja Minaret",
+            "Ichan Kala",
+            "Itchan Kala",
+            "Mausoleum of Amir Timur",
+            "Gur-e Amir",
+            "Kok Gumbaz",
+            "Poi Kalan",
+            "Miri Arab Madrasah",
+            "Interior of Bibi-Khanym Mosque",
+            "Brick wall textures in Shah-i-Zinda",
+            "Ceiling paintings in Shah-i-Zinda",
+            "Domes in Shah-i-Zinda",
+            "Majolica tiles in Shah-i-Zinda",
+            "Mosaics in Shah-i-Zinda",
+            "Muqarnas in Shah-i-Zinda",
+            "Interior of Chor Minor",
+            "Itchan Kala gates and wall",
+            "Interior of Gur-e Amir",
+            "Dome of Gur-e Amir",
+            "Uzbeks"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Uzbek",
+              "Uzbekistan",
+              "Bukhara",
+              "Samarkand"
+            ]
+          }
+        },
+        {
+          "name": "Karakalpak",
+          "homeland": {
+            "lat": 42.46,
+            "lon": 59.62
+          },
+          "homeland_place": "Nukus",
+          "traditions": [
+            "Karakalpak yurt band",
+            "Karakalpak embroidery",
+            "aq oy",
+            "Karakalpak jewelry",
+            "kupbet"
+          ],
+          "arch_commons_categories": [
+            "Mizdakhan",
+            "Ayaz Kala",
+            "Toprak Kala",
+            "Karakalpaks",
+            "Karakalpakstan",
+            "Karakalpak yurts"
+          ],
+          "cleveland_accept_tokens": [
+            "karakalpak"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Karakalpak"
+            ]
+          }
+        },
+        {
+          "name": "Bukharan Jew",
+          "homeland": {
+            "lat": 39.77,
+            "lon": 64.42
+          },
+          "homeland_place": "Bukhara",
+          "traditions": [
+            "Bukharan silk embroidery",
+            "Bukharan robe"
+          ],
+          "arch_commons_categories": [
+            "Synagogues in Uzbekistan",
+            "Bukharan Jews",
+            "Bukhara Synagogue",
+            "Bukharian Jews"
+          ],
+          "cleveland_accept_tokens": [
+            "bukhara",
+            "bukharan"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Bukhara Jew",
+              "Bukharan"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Uzbek",
+      "met_gate_tokens": [
+        "Bactria",
+        "Sogdian",
+        "Bukhara",
+        "Samarkand",
+        "Timurid"
+      ]
+    },
+    {
+      "country": "Kazakhstan",
+      "met_queries": [
+        "Kazakh",
+        "Central Asia"
+      ],
+      "ethnicities": [
+        {
+          "name": "Kazakh",
+          "homeland": {
+            "lat": 48.02,
+            "lon": 66.92
+          },
+          "homeland_place": "Karaganda",
+          "traditions": [
+            "shyrdak",
+            "tuskiiz",
+            "syrmak",
+            "koshma",
+            "koilek",
+            "chapan",
+            "saukele",
+            "tumar",
+            "bilezik",
+            "Kazakh yurt band",
+            "Kazakh felt",
+            "Kazakh applique"
+          ],
+          "arch_commons_categories": [
+            "Kazakh yurts",
+            "Mausoleum of Khoja Ahmed Yasawi",
+            "Interior of Mausoleum of Khoja Ahmed Yasawi"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Kazakh",
+              "Kazakhstan"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Kazakh"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "met_queries": [
+        "Kyrgyz",
+        "Central Asia"
+      ],
+      "ethnicities": [
+        {
+          "name": "Kyrgyz",
+          "homeland": {
+            "lat": 42.87,
+            "lon": 74.6
+          },
+          "homeland_place": "Bishkek",
+          "traditions": [
+            "shyrdak",
+            "ala kiyiz",
+            "tush kiyiz",
+            "boz uy",
+            "kalpak",
+            "elechek",
+            "Kyrgyz felt carpet",
+            "chiy screen",
+            "ak kalpak",
+            "kementai",
+            "chapan",
+            "beldemchi",
+            "jooluk",
+            "komuz",
+            "kyl kyyak",
+            "tebetei",
+            "saukele",
+            "kurak",
+            "tush kyiz",
+            "jorgo salt",
+            "ordo"
+          ],
+          "arch_commons_categories": [
+            "Boz Uy",
+            "Yurts in Kyrgyzstan",
+            "Burana Tower",
+            "Tash Rabat",
+            "Uzgen architectural complex",
+            "Gumbez of Manas",
+            "Shah Fazil Mausoleum",
+            "Petroglyphs of Cholpon-Ata"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Kyrgyz",
+              "Kirghiz"
+            ],
+            "europeana": [
+              "Kirghiz felt",
+              "Kirgisen Filz",
+              "kirghize Kirghizistan",
+              "Kyrgyz yurt",
+              "Kirgiz shyrdak",
+              "\"Kirghiz\" Central Asia"
+            ]
+          },
+          "cleveland_accept_tokens": [
+            "kyrgyz",
+            "kirghiz",
+            "kirgiz",
+            "kyrgyzstan"
+          ]
+        }
+      ],
+      "majority_ethnicity": "Kyrgyz"
+    },
+    {
+      "country": "Turkmenistan",
+      "met_queries": [
+        "Turkmen",
+        "Turkmenistan"
+      ],
+      "ethnicities": [
+        {
+          "name": "Turkmen",
+          "homeland": {
+            "lat": 37.94,
+            "lon": 58.38
+          },
+          "homeland_place": "Ashgabat",
+          "traditions": [
+            "Turkmen carpet",
+            "gul motif",
+            "Tekke gul",
+            "Yomud gul",
+            "Salor gul",
+            "keteni silk",
+            "kürte",
+            "Turkmen jewelry",
+            "asyk",
+            "gulyaka"
+          ],
+          "arch_commons_categories": [
+            "Ancient Merv",
+            "Kunya-Urgench",
+            "Turkmen yurts"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Turkmen",
+              "Turkmenistan",
+              "Tekke",
+              "Yomud",
+              "Saryk"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Turkmen",
+      "met_gate_tokens": [
+        "Turkmen",
+        "Merv"
+      ]
+    },
+    {
+      "country": "Tajikistan",
+      "met_queries": [
+        "Tajik",
+        "Central Asia",
+        "Pamir"
+      ],
+      "ethnicities": [
+        {
+          "name": "Tajik",
+          "homeland": {
+            "lat": 38.54,
+            "lon": 68.78
+          },
+          "homeland_place": "Dushanbe",
+          "traditions": [
+            "chakan embroidery",
+            "atlas silk",
+            "adras",
+            "kurta",
+            "toqi",
+            "Pamir chakan",
+            "Pamir house painting",
+            "suzani",
+            "ikat",
+            "chapan",
+            "tubeteika",
+            "Pamiri music",
+            "falak",
+            "shashmaqam",
+            "rubab",
+            "Badakhshan textiles",
+            "tumor amulet",
+            "gilim",
+            "Tadschikisch",
+            "tadjik"
+          ],
+          "arch_commons_categories": [
+            "Panjakent",
+            "Hisor Fortress",
+            "Tajik houses",
+            "Architecture of Tajikistan",
+            "Mausoleum of Muhammad Bashoro",
+            "Khoja Mashhad Mausoleum",
+            "Sarazm",
+            "Ajina Tepa",
+            "Hulbuk",
+            "Yamchun Fort",
+            "Kaahka Fortress"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Tajik",
+              "Tajikistan"
+            ],
+            "europeana": [
+              "Tajik Tajikistan",
+              "Tadschikisch",
+              "tadjik Tadjikistan",
+              "Pamir Badakhshan",
+              "Sogdian Panjakent",
+              "Bukhara Tajik textile"
+            ]
+          },
+          "cleveland_accept_tokens": [
+            "tajik",
+            "tadjik",
+            "tadzhik",
+            "pamiri",
+            "badakhshan",
+            "sogdian"
+          ]
+        },
+        {
+          "name": "Pamiri",
+          "homeland": {
+            "lat": 37.49,
+            "lon": 71.55
+          },
+          "homeland_place": "Khorog",
+          "traditions": [
+            "Pamiri chid",
+            "Pamiri house pillar",
+            "Wakhi textile"
+          ],
+          "arch_commons_categories": [
+            "Pamiri house",
+            "Wakhi houses"
+          ],
+          "cleveland_accept_tokens": [
+            "pamir",
+            "pamiri",
+            "wakhi"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Pamiri",
+              "Pamir"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Tajik",
+      "met_gate_tokens": [
+        "Sogdian",
+        "Pamir"
+      ]
+    },
+    {
+      "country": "Afghanistan",
+      "met_queries": [
+        "Afghan",
+        "Afghanistan"
+      ],
+      "ethnicities": [
+        {
+          "name": "Afghan Turkmen",
+          "homeland": {
+            "lat": 36.71,
+            "lon": 67.11
+          },
+          "homeland_place": "Mazar-i-Sharif",
+          "traditions": [
+            "Ersari carpet",
+            "Beshir carpet",
+            "Turkmen gul"
+          ],
+          "arch_commons_categories": [
+            "Turkmen yurts"
+          ],
+          "cleveland_accept_tokens": [
+            "ersari",
+            "tekke",
+            "yomud",
+            "saryk"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Ersari",
+              "Afghan Turkmen"
+            ]
+          }
+        },
+        {
+          "name": "Hazara",
+          "homeland": {
+            "lat": 34.82,
+            "lon": 67.83
+          },
+          "homeland_place": "Bamyan",
+          "traditions": [
+            "Hazaragi embroidery",
+            "chapan"
+          ],
+          "arch_commons_categories": [
+            "Bamyan Buddhas",
+            "Hazara villages"
+          ],
+          "cleveland_accept_tokens": [
+            "hazara"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Hazara"
+            ]
+          }
+        },
+        {
+          "name": "Uzbek (Afghanistan)",
+          "homeland": {
+            "lat": 36.71,
+            "lon": 67.11
+          },
+          "homeland_place": "Mazar-i-Sharif",
+          "traditions": [
+            "Uzbek chapan",
+            "Mazar-e-Sharif tile"
+          ],
+          "arch_commons_categories": [
+            "Mazar-e Sharif"
+          ],
+          "cleveland_accept_tokens": [
+            "uzbek"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Uzbek Afghanistan"
+            ]
+          }
+        }
+      ],
+      "met_gate_tokens": [
+        "Afghan",
+        "Bactria"
+      ]
+    },
+    {
+      "country": "China (Xinjiang)",
+      "met_queries": [
+        "Uyghur",
+        "Xinjiang",
+        "Central Asia"
+      ],
+      "ethnicities": [
+        {
+          "name": "Uyghur",
+          "homeland": {
+            "lat": 39.47,
+            "lon": 75.99
+          },
+          "homeland_place": "Kashgar",
+          "traditions": [
+            "Atlas silk",
+            "khan-atlas",
+            "Uyghur doppa",
+            "Uyghur embroidery",
+            "Hotan carpet",
+            "Uyghur ikat",
+            "Uyghur jewelry",
+            "Uyghur musical instruments",
+            "dutar",
+            "rawap",
+            "Uyghur felt",
+            "Etles silk",
+            "Kashgar knife",
+            "Uyghur copperware",
+            "Uyghur woodwork",
+            "Uyghur costume",
+            "Muqam",
+            "Uyghur calligraphy",
+            "Chagatai manuscripts",
+            "Yarkand carpet",
+            "Uyghur pottery"
+          ],
+          "arch_commons_categories": [
+            "Id Kah Mosque",
+            "Emin Minaret",
+            "Apak Khoja Mausoleum",
+            "Islamic architecture in Xinjiang",
+            "Kashgar Old City",
+            "Sugong Tower",
+            "Tuyoq",
+            "Jiaohe ruins",
+            "Gaochang ruins",
+            "Afaq Khoja Mausoleum",
+            "Mosques in Xinjiang",
+            "Mausoleums in Xinjiang",
+            "Inside Emin Minaret",
+            "Afaq Khoja Mausoleum interior"
+          ],
+          "cleveland_accept_tokens": [
+            "uyghur",
+            "uighur",
+            "xinjiang",
+            "kashgar",
+            "turpan",
+            "hotan",
+            "uyghurs",
+            "yarkand",
+            "kucha",
+            "khotan",
+            "kashgaria",
+            "east turkestan"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Uyghur",
+              "Uighur",
+              "Xinjiang"
+            ],
+            "europeana": [
+              "Uyghur Xinjiang",
+              "Ouïghour textile",
+              "Uigurisch Zentralasien",
+              "Ostturkestan",
+              "Kashgar ikat",
+              "Chinese Turkestan"
+            ]
+          }
+        },
+        {
+          "name": "Kazakh (Xinjiang)",
+          "homeland": {
+            "lat": 43.92,
+            "lon": 81.32
+          },
+          "homeland_place": "Ili",
+          "traditions": [
+            "Kazakh felt",
+            "shyrdak",
+            "Kazakh embroidery",
+            "tekemet",
+            "tuskiiz",
+            "syrmak",
+            "Kazakh saddle",
+            "dombra",
+            "kobyz",
+            "Kazakh silver jewelry",
+            "saukele",
+            "chapan",
+            "Kasachen",
+            "Kasachische"
+          ],
+          "arch_commons_categories": [
+            "Yurts in Xinjiang",
+            "Kazakh yurts",
+            "Mausoleums in Xinjiang"
+          ],
+          "cleveland_accept_tokens": [
+            "kazakh",
+            "kazak",
+            "qazaq",
+            "xinjiang",
+            "ili",
+            "altay",
+            "dzungaria"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Kazakh Xinjiang"
+            ],
+            "europeana": [
+              "Kazakh Xinjiang",
+              "Kasachen Textilien",
+              "Kazakh felt shyrdak",
+              "Kazakh embroidery Central Asia",
+              "Kasachische Volkskunst",
+              "Kazakh yurt China"
+            ]
+          }
+        }
+      ],
+      "majority_ethnicity": "Uyghur",
+      "met_gate_tokens": [
+        "Xinjiang",
+        "Uyghur",
+        "Chinese Turkestan",
+        "Hotan",
+        "Kashgar"
+      ]
+    }
+  ],
+  "region_places": {
+    "place_to_country": {
+      "uzbekistan": "Uzbekistan",
+      "bukhara": "Uzbekistan",
+      "samarkand": "Uzbekistan",
+      "samarqand": "Uzbekistan",
+      "khiva": "Uzbekistan",
+      "tashkent": "Uzbekistan",
+      "fergana": "Uzbekistan",
+      "ferghana": "Uzbekistan",
+      "namangan": "Uzbekistan",
+      "kokand": "Uzbekistan",
+      "shakhrisabz": "Uzbekistan",
+      "termez": "Uzbekistan",
+      "turkmenistan": "Turkmenistan",
+      "merv": "Turkmenistan",
+      "ashgabat": "Turkmenistan",
+      "kazakhstan": "Kazakhstan",
+      "almaty": "Kazakhstan",
+      "kyrgyzstan": "Kyrgyzstan",
+      "bishkek": "Kyrgyzstan",
+      "tajikistan": "Tajikistan",
+      "dushanbe": "Tajikistan",
+      "pamir": "Tajikistan",
+      "khujand": "Tajikistan",
+      "afghanistan": "Afghanistan",
+      "kabul": "Afghanistan",
+      "herat": "Afghanistan",
+      "balkh": "Afghanistan",
+      "mazar-i-sharif": "Afghanistan",
+      "mazar-e-sharif": "Afghanistan",
+      "kandahar": "Afghanistan",
+      "hotan": "China (Xinjiang)",
+      "khotan": "China (Xinjiang)",
+      "kashgar": "China (Xinjiang)",
+      "turfan": "China (Xinjiang)",
+      "xinjiang": "China (Xinjiang)",
+      "chinese turkestan": "China (Xinjiang)",
+      "east turkestan": "China (Xinjiang)",
+      "central asia": "_regional",
+      "turkestan": "_regional",
+      "silk road": "_regional",
+      "transoxiana": "_regional",
+      "bactria": "_regional",
+      "sogdiana": "_regional"
+    },
+    "reject_places": [
+      "cairo",
+      "central tibet",
+      "china",
+      "constantinople",
+      "damascus",
+      "egypt",
+      "europe",
+      "france",
+      "germany",
+      "gujarat",
+      "india",
+      "iran",
+      "iranian",
+      "istanbul",
+      "italy",
+      "japan",
+      "kashmir",
+      "korea",
+      "moscow",
+      "netherlands",
+      "persia",
+      "russia",
+      "spain",
+      "syria",
+      "tibet",
+      "turkey",
+      "ukraine"
+    ],
+    "signature_traditions": {
+      "suzani": "Uzbekistan",
+      "ikat length": "Uzbekistan",
+      "khan-atlas": "Uzbekistan",
+      "adras": "Uzbekistan",
+      "chapan": "_regional",
+      "kurta": "_regional",
+      "doppa": "China (Xinjiang)",
+      "kalpak": "Kyrgyzstan",
+      "shyrdak": "Kyrgyzstan",
+      "yurt band": "_regional"
+    }
+  }
+}

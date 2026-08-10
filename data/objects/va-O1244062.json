@@ -1,0 +1,122 @@
+{
+  "id": "va-O1244062",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O1244062",
+    "object_url": "https://collections.vam.ac.uk/item/O1244062",
+    "iiif_manifest": null,
+    "credit_line": "Lanchester Collection",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "S.979-2011",
+    "accession_year": 2011
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Balinese",
+    "tradition": "wayang",
+    "art_form": "sculpture",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "sculpture"
+  },
+  "physical": {
+    "title": "Head of a Javanese rod puppet, 19th century",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "wood",
+      "paint"
+    ],
+    "techniques": [
+      "painted",
+      "carved"
+    ],
+    "medium_raw": "Carved wood with painted decoration",
+    "classification": "Puppet",
+    "styles": [],
+    "categories": [
+      "Entertainment & Leisure",
+      "Puppetry"
+    ],
+    "physical_description": "Painted wooden head, possibly representing Gatotkaca. Face painted green with red eyes and lips. Also wears painted red and gold patterned crown with pink bird.\r\nBody is missing.",
+    "summary": "Javanese wayang golek or rod puppets are carved from soft wood, with necks that can swivel and bodies clad in long cotton sarongs. Their headdresses, costumes and  colours can indicate the puppets’ characters. White means purity, virtue and moral integrity and is often the face colour of princes. Red means aggressiveness and anger, while  blue and green faces mean cowardliness and hypocrisy. They are operated from below the stage by a central rod and by rods connected to the puppets’ hands. The puppeteer  directs the performance and speaks all the roles. Behind him sit female singers and a gamelan orchestra. \r\n\r\nDating back to the 16th century, the plays they performed were based on Javanese folklore or stories from the <i>Mahabharata</i> or the <i>Ramayana</i>, ancient Indian epic stories featuring the struggle between good and evil, with good figures on the left of the puppeteer or dalang, and the evil on his left. ",
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "height",
+        "value": "18",
+        "unit": "cm",
+        "part": "from the top of the crown to the neck"
+      },
+      {
+        "dimension": "width",
+        "value": "13",
+        "unit": "cm",
+        "part": "widest part of face"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "005",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244062.jpg",
+      "iiif_id": "2019LX3126",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019LX3126/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "5635a7e432daf82b0c224556e0dc21bc0db97f71e72464ee49ad02eb05d9d960",
+      "bytes": 106995,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244062.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244062_1.jpg",
+      "iiif_id": "2017JT3460",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JT3460/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "7e9adf6cbd82265b1e08f8590b00f8134c1d4d9045d002e95a9a25eeb5306d9d",
+      "bytes": 317508,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244062_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244062_2.jpg",
+      "iiif_id": "2017JT3451",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JT3451/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "ba9cd05548d5efd58b74dd6f828f9c7ee98bf7a57568be3e544f84aeb75648c8",
+      "bytes": 296430,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244062_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:23:38.200928+00:00"
+}

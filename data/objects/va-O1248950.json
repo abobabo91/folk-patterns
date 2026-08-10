@@ -1,0 +1,114 @@
+{
+  "id": "va-O1248950",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O1248950",
+    "object_url": "https://collections.vam.ac.uk/item/O1248950",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS 3-1997",
+    "accession_year": 1997
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Tajikistan",
+    "ethnicity": "Tajik",
+    "tradition": "kurta",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "1950-70",
+    "date_earliest": 1950,
+    "date_latest": 1970,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)",
+      "silk"
+    ],
+    "techniques": [
+      "embroidery"
+    ],
+    "medium_raw": "Cotton, silk embroidery",
+    "classification": "Kurta",
+    "styles": [],
+    "categories": [
+      "Clothing",
+      "Embroidery",
+      "Womenswear",
+      "Textiles"
+    ],
+    "physical_description": "Loose-fitting cotton shirt with round neck and long sleeves, black cotton embroidered with chain stitch in silk thread, decorated with attached coins, plastic beads, metal tags, and a zip fastener at the neck. ",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "98",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "156",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Pakistan",
+    "made_in_place_alt": [],
+    "current_gallery": "011",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O1248950.jpg",
+      "iiif_id": "2006AP5944",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AP5944/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "dd51e3bdde7749a4eb0a48b9836c1aa554ce0d961aa06c0af46251f499b57340",
+      "bytes": 90679,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O1248950.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/kurta/images/va_O1248950_1.jpg",
+      "iiif_id": "2006AL3188",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2006AL3188/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "21a2da9f2b8150a912abcb95dcd1adb2e641ef401d7262fe8eb4a743764bc8e7",
+      "bytes": 338981,
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\kurta\\images\\va_O1248950_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T06:34:23.312838+00:00"
+}

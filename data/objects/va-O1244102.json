@@ -1,0 +1,123 @@
+{
+  "id": "va-O1244102",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O1244102",
+    "object_url": "https://collections.vam.ac.uk/item/O1244102",
+    "iiif_manifest": null,
+    "credit_line": "Lanchester Collection",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "S.984-2011",
+    "accession_year": 2011
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "wayang kulit",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "sculpture"
+  },
+  "physical": {
+    "title": "Javanese shadow puppet, possibly representing Arjuna.",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "leather",
+      "wood",
+      "paint"
+    ],
+    "techniques": [
+      "painted",
+      "glued"
+    ],
+    "medium_raw": "Leather and wood",
+    "classification": "Puppet",
+    "styles": [],
+    "categories": [
+      "Entertainment & Leisure",
+      "Puppetry"
+    ],
+    "physical_description": "Javanese shadow puppet possibly representing Arjuna. Has curled black hair and orange face. The body section is painted gold with a decorated lhungi and headdress. Each arm is painted gold and is in two sections, joined at the elbow and each attached to the body at the shoulder and to a rod at its hands. The central supporting rod runs straight up behind one leg and is shaped in a serpentine curve to fit the shape of the puppet.\n",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "height",
+        "value": "28",
+        "unit": "cm",
+        "part": "from the top of the crown to the hem of the skirt"
+      },
+      {
+        "dimension": "width",
+        "value": "14",
+        "unit": "cm",
+        "part": "from arm to arm"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "003",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1244102.jpg",
+      "iiif_id": "2011FD2306",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2306/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "6b6adf9857b7f2e1cfd2bcbd715e0f7bd9b08ee42800a73239f930a68608d56d",
+      "bytes": 90302,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1244102.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1244102_1.jpg",
+      "iiif_id": "2011FD2273",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2273/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "e6faff2cb8ed0fb4d45610965cec3949b37051bcb9ba6e122c0824568c05bd32",
+      "bytes": 90267,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1244102_1.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1244102_2.jpg",
+      "iiif_id": "2012FG6912",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2012FG6912/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "7adffe71779de1556b5b5cae716b900bf672522789c4a1abde20608dd18c10c8",
+      "bytes": 92229,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1244102_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:21:36.436083+00:00"
+}

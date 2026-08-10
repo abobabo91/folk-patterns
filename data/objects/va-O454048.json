@@ -1,0 +1,100 @@
+{
+  "id": "va-O454048",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O454048",
+    "object_url": "https://collections.vam.ac.uk/item/O454048",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.32-1987",
+    "accession_year": 1987
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "kain panjang",
+    "art_form": "textile",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "20th century",
+    "date_earliest": 1900,
+    "date_latest": 1987,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [],
+    "medium_raw": "Cotton batik",
+    "classification": "Kain panjang",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing"
+    ],
+    "physical_description": "Kain panjang of cotton batik. With a tambal or patchwork design.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Width",
+        "value": "103.5",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Length",
+        "value": "233.5",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Surakarta",
+    "made_in_place_alt": [],
+    "current_gallery": "017",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kain-panjang/images/va_O454048.jpg",
+      "iiif_id": "2021NA3557",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3557/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "19b142ae7f231ee76f3ea1296503215efbcef93dd5ca7b730bdc28de5737525b",
+      "bytes": 391872,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kain-panjang\\images\\va_O454048.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:19:26.097405+00:00"
+}

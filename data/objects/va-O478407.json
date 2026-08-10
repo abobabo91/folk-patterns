@@ -1,0 +1,186 @@
+{
+  "id": "va-O478407",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O478407",
+    "object_url": "https://collections.vam.ac.uk/item/O478407",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "IS.96-1977",
+    "accession_year": 1977
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "kawung",
+    "art_form": "textile",
+    "pattern_density": 2,
+    "vision_vetted": false,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": null,
+    "titles_alt": [],
+    "date_text": "ca. 1930",
+    "date_earliest": 1925,
+    "date_latest": 1934,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "cotton (textile)"
+    ],
+    "techniques": [
+      "batik"
+    ],
+    "medium_raw": "Cotton batik",
+    "classification": "Sarong",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing"
+    ],
+    "physical_description": "Sarong (skirt cloth) of cotton batik. The field is patterned with the row of three identical tall flowering plants, on a background derived from the <i>Kawung</i> motif (intersecting circles). Field colours: cream ground, circles outlined in two reds with cream dots reserved in lozenge-shaped compartments between the circles. Plants in blue, two reds, green and yellow, all with cream patterns reserved. The head section is divided into five vertical bands, with two different flower-and-stem motifs, repeating alternately. The bands are coloured as follows: three with a diagonal red stripe on a cream ground, and between these three one blue and one deep green band. A frieze of flower and leaf motif on a deep green ground separates the head section from the field, and is repeated along the bottom of the sarong. A border of formalised scrolling stems, leaves and flowers, in light red and cream on a dark red ground, runs along the top. Signed at the top of the blue band, reserved in cream, 'Jan Kay Bian'.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "105",
+        "unit": "cm",
+        "part": "single"
+      },
+      {
+        "dimension": "Circumference",
+        "value": "202",
+        "unit": "cm",
+        "part": "doubled"
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": [
+      {
+        "content": "'Jan Kay Bian' signed",
+        "inscriber": {
+          "name": {
+            "text": "",
+            "id": ""
+          },
+          "association": {
+            "text": "",
+            "id": ""
+          }
+        },
+        "date": {
+          "text": "",
+          "earliest": null,
+          "latest": null
+        },
+        "description": "",
+        "interpretation": "",
+        "language": "",
+        "medium": "",
+        "method": "",
+        "position": "",
+        "script": "",
+        "translation": "",
+        "transliteration": "",
+        "type": "",
+        "note": ""
+      }
+    ]
+  },
+  "location": {
+    "made_in_place": "Java",
+    "made_in_place_alt": [],
+    "current_gallery": "025",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [
+      "P",
+      "u",
+      "r",
+      "c",
+      "h",
+      "a",
+      "s",
+      "e",
+      "d",
+      ".",
+      " ",
+      "R",
+      "e",
+      "g",
+      "i",
+      "s",
+      "t",
+      "e",
+      "r",
+      "e",
+      "d",
+      " ",
+      "F",
+      "i",
+      "l",
+      "e",
+      " ",
+      "n",
+      "u",
+      "m",
+      "b",
+      "e",
+      "r",
+      " ",
+      "1",
+      "9",
+      "7",
+      "7",
+      "/",
+      "2",
+      "1",
+      "1",
+      "4",
+      "."
+    ],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kawung/images/va_O478407.jpg",
+      "iiif_id": "2017JX7760",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7760/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "3ed6bd04e1664894b876f3a64f0b032c5a391ddfa79e83bb39e88c7697230e43",
+      "bytes": 257572,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kawung\\images\\va_O478407.jpg"
+    },
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kawung/images/va_O478407_1.jpg",
+      "iiif_id": "2017JX7761",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7761/full/{size}/0/default.jpg",
+      "role": "alt",
+      "sha256": "56b7b89338804bf07f72fdeaecf5d6a1d4156e160ad2f181903377bd841c3527",
+      "bytes": 259964,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kawung\\images\\va_O478407_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:21:17.723058+00:00"
+}

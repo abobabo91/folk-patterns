@@ -1,0 +1,88 @@
+{
+  "id": "smithsonian-ld1-1643399887910-1643399933594-0",
+  "source": {
+    "museum": "smithsonian",
+    "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+    "object_id": "ld1-1643399887910-1643399933594-0",
+    "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129205",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Alan L. Wolfe",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1961-115-29",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast_asia",
+    "country": "Indonesia",
+    "ethnicity": "Javanese",
+    "tradition": "batik",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-haiku-4-5",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": "Sea Weed",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave",
+    "classification": "printed, dyed & painted textiles",
+    "styles": [],
+    "categories": [
+      "printed, dyed & painted textiles",
+      "Sarong",
+      "Sarong"
+    ],
+    "physical_description": "Research in Progress",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H x W: 191.8 x 99 cm (75 1/2 x 39 in.)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Pekalongan, Indonesia",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": [
+      "http://n2t.net/ark:/65665/kq43472157b-f3f5-4d8e-b209-c2a5cb108ded"
+    ]
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/batik/images/si_chndm_1961-115-29.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b91dc417d6c44171650772c86b03635e6007ae54f450f80e4673d08fda38c2ee",
+      "bytes": 5657994,
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\batik\\images\\si_chndm_1961-115-29.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-18T11:49:12.802933+00:00"
+}
