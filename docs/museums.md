@@ -1,6 +1,7 @@
 # Museum sources — quirks and workarounds
 
-Sourced from `tools/knowledge base/museum open access apis 2026-07.md`. Kept here for the project-local view.
+Everything measured against live endpoints on 2026-07-18 while wiring this project.
+This is the authoritative copy — there is no cross-project duplicate.
 
 ## Currently wired
 
@@ -12,7 +13,27 @@ Sourced from `tools/knowledge base/museum open access apis 2026-07.md`. Kept her
 
 ## Wired but not yet used at scale
 
-Cooper Hewitt, Smithsonian OA, Europeana. All keyed, all free, ~2 min signup each. When scaling beyond the current region.
+| Museum | Base URL | Key | Reach for it when |
+|---|---|---|---|
+| Cooper Hewitt | `collection.cooperhewitt.org/api` | yes | pure design / pattern focus, proper full-text search |
+| Smithsonian OA | `api.si.edu/openaccess/api/v1.0` | yes (api.data.gov) | Indigenous Americas or African American folk art — filter NMAI / NMAAHC via `unit_code` |
+| Europeana | `api.europeana.eu/record/v2` | yes | breadth over EU-adjacent cultures (Balkans, Baltic, Sami); aggregates 4000+ institutions incl. Tropenmuseum |
+
+All keyed, all free, ~2 min signup each. When scaling beyond the current region.
+
+## Picking a source for a query
+
+- **Know the country / culture, want everything they hold** → Met + V&A country queries + client-side technique filter.
+- **Know a specific niche craft name** (suzani, adras, sabuku, adire) → V&A + Rijksmuseum + Cooper Hewitt full-text. Skip the Met at this layer — niche vocabulary lands in its fallback bucket.
+- **EU-adjacent breadth** → Europeana.
+- **Indigenous Americas / African American folk art** → Smithsonian OA.
+- **SE Asia / Indonesian batik** → Rijksmuseum first (Dutch colonial holdings are enormous), Tropenmuseum via Europeana second.
+
+## Rate limits
+
+None of these APIs publish a hard rate limit on their open-access endpoints. 0.5 s between requests
+is polite and has never drawn a 429 on any of them. For a big backfill use 1–2 s — a few hours instead
+of one, and it stays under the radar.
 
 ## V&A
 
@@ -43,6 +64,13 @@ q=Uzbekistan       → total=135, first ID 329073   ← 7 real extra IDs
 **Country-gate filter:** after search, each returned object's `culture` / `country` / `region` fields must contain a per-country whitelist term (see `scrape_region.py::scrape_met_for_country`) — otherwise the "Central Asia" query drags in Persian and Tibetan objects.
 
 **Additional images:** Met records have an `additionalImages[]` array with alt views. All are downloaded.
+
+**`/objects/<id>` can return non-JSON.** Specific IDs occasionally answer with an HTML error page.
+Wrap the `.json()` call in try/except and skip the ID — one bad object must not kill a whole scrape.
+
+**Sanity-check against the V&A, not the Met.** V&A returns 0 for a nonsense term and correct counts
+for real ones, so it behaves like a real search index. When testing a new museum-API pattern, verify
+your expectations there first, then adapt for the Met's fallback behaviour.
 
 ## Rijksmuseum
 
