@@ -56,3 +56,44 @@ Throughput is ~50 records/minute at `--workers 20`. All records go through one g
 **Failure mode to watch: quota exhaustion.** When the CLI starts failing, every call returns non-zero and the script records `vision_vetted: None` while the progress counter keeps climbing — a run can look healthy and produce nothing. On 2026-08-27 this happened after ~650 records and the remaining 3,338 were logged as errors. Watch the *verdicts*, not the counter. Resume is safe: records are skipped only on a real boolean verdict, so `None` records are retried automatically.
 
 `build_index.py` consumes the results — it drops records whose `vision_vetted` is `False` and prefers `art_form_vision` over the rule-based classifier. `None` behaves exactly like never-vetted, so a failed run is harmless to the index.
+
+## Where this stands
+
+Run `python scripts/_vet_status.py` for live numbers — it reads the library, so it is never stale. Snapshot verified 2026-08-28:
+
+| | records | share |
+|---|---:|---:|
+| in library | 4,625 | |
+| judged (real verdict) | 1,087 | 24% |
+| — kept | 846 | |
+| — dropped | 241 | 22% of judged |
+| still to judge | 3,538 | 76% |
+| — attempted, failed on quota | 3,535 | |
+| — never attempted | 3 | |
+| **verdicts carrying reasoning** | **0** | |
+
+| source | total | judged | kept | dropped | todo |
+|---|---:|---:|---:|---:|---:|
+| british_museum | 1322 | 196 | 154 | 42 | 1126 |
+| commons_arch | 1295 | 424 | 322 | 102 | 871 |
+| europeana | 866 | 52 | 47 | 5 | 814 |
+| cleveland | 559 | 122 | 42 | 80 | 437 |
+| va | 466 | 255 | 248 | 7 | 211 |
+| met | 69 | 12 | 7 | 5 | 57 |
+| smithsonian | 33 | 26 | 26 | 0 | 7 |
+| rijks | 15 | 0 | 0 | 0 | 15 |
+
+**No stored verdict carries reasoning, which means none of them was made by the current prompt.** That is the discriminator to check — `vision_reason` present = current generation. The 1,087 existing verdicts come from two superseded prompts: an image-only one, and a mid-tuning one that still carried the over-strict monumental-architecture clause and no ethnicity tie-break. Do not treat them as trustworthy and do not build on them.
+
+The per-source `dropped` figures above are likewise **not** representative — the run that produced them died inside the alphabetical Central-Asia/MENA segment, which is why Cleveland reads 66%. Fresh-seed sampling puts Cleveland at 10–30%. Use `_vet_status.py` after the re-vet for real rates, not these.
+
+## Agreed next step
+
+1. **Full `--force` re-vet of all 4,625 records.** Not a resume — every stored verdict predates the current prompt.
+2. **Run it in chunks sized to the token budget** (`--limit N`). Start with one small persisted chunk (~200, without `--dry-run`) to confirm writes land correctly; all validation so far has been dry-run.
+3. **Do not rebuild the index, deploy, or add any culture until it completes.** Build once on complete verdicts so the site is never a mix of judged and unjudged records.
+4. **Then** revisit `build_index.py`'s `_TRUSTED_MUSEUM_SOURCES` bypass with the finished numbers. It exists to protect against a vetter that could not be trusted; with complete verdicts from one that can, it probably comes out — but decide on the data, not in advance.
+5. **Before the next culture is added,** wire the vetter into `add_culture.py` so new material arrives judged instead of needing its own sweep.
+
+Expected outcome at the measured ~26% drop rate: roughly **3,400 records** survive. The deployed site currently shows 1,534, so the vetted collection is still more than double what is published.
+

@@ -86,8 +86,10 @@ drafts the region seed) before step 1 (the ethnicity seed).
   `_review_sample.py`, `_generate_region.py`, `_patch_europeana_reject.py`
   — internal helpers of `add_culture.py`. Underscore prefix = don't call
   directly unless debugging.
-- `scripts/_quality_audit.py` and `_completeness_report.py` — read-only
-  diagnostics you can run any time.
+- `scripts/_quality_audit.py`, `_completeness_report.py` and
+  `_vet_status.py` — read-only diagnostics you can run any time.
+  `_vet_status.py` is the one that answers "what has been vetted and what
+  hasn't" — always run it instead of trusting a number written in a doc.
 
 ## Preventive filters that already exist
 
