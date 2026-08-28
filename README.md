@@ -4,7 +4,9 @@ A visual atlas of folk-art surface patterns organized by ethnicity, powered by m
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a Claude-drafted encyclopedic writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** Central Asia prototype (7 countries, 13 ethnicities, 188 objects, 359 image files including alt views). See `library/` for the raw image library.
+**Status:** 4 regions — Central Asia, MENA, Southeast Asia, Sub-Saharan Africa — 34 countries, 71 ethnicities, 4,625 records and 5,745 image files in `library/`, each with a Claude-drafted writeup.
+
+**Currently mid-re-vet.** `scripts/vet_images.py` judges every image against its ethnicity and category ([docs/vetting.md](docs/vetting.md)); the whole library is being re-run through it because every stored verdict predates the current prompt. The built index in `data/` and the deployed site are older than the library and will be rebuilt once vetting completes. No new cultures until then.
 
 ## How it works
 
@@ -19,12 +21,18 @@ library/<region>/<country>/<ethnicity>/<art_form>/<tradition>/
   ├─ images/*.jpg
   └─ metadata.json                     # canonical records (full raw museum response preserved in `raw`)
   │
+scripts/vet_images.py                  # THE QUALITY GATE — shows every image to
+  │                                    # Claude, drops what doesn't belong under
+  │                                    # its ethnicity, fixes wrong categories.
+  │                                    # Writes vision_vetted + the reasoning.
+  ▼
 scripts/generate_writeups.py           # Claude CLI drafts per-ethnicity markdown
   │
   ▼
 content/<region>/<country>__<ethnicity>.md
   │
-scripts/build_index.py                 # aggregates into site-ready shards
+scripts/build_index.py                 # aggregates into site-ready shards,
+                                       # dropping vision_vetted == False
   │
   ▼
 data/{index,globe}.json                # globe payload + facets
@@ -125,6 +133,7 @@ See [`docs/adding-a-region.md`](docs/adding-a-region.md).
 
 ## Docs
 
+- [`docs/vetting.md`](docs/vetting.md) — the quality gate: how it judges, why it's trusted, how to run it
 - [`docs/architecture.md`](docs/architecture.md) — data flow, module boundaries
 - [`docs/schema.md`](docs/schema.md) — canonical record shape
 - [`docs/adding-a-region.md`](docs/adding-a-region.md) — new region playbook

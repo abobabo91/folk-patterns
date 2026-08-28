@@ -82,7 +82,35 @@ New API (data.rijksmuseum.nl) is **keyless**. Returns Linked Art JSON.
 
 **Coverage:** zero Central Asian holdings. Dutch colonial reach was to Indonesia — this is a game-changer for a SE Asia region (Sumatra 1861 records, Java 1645, batik 40, sarong 17, ikat 10, Perzië 164).
 
+## Europeana
+
+**`country` / `made_in_place` is the HOLDING institution, not the origin.** This is the single most dangerous field in the whole pipeline. A Sarawak Iban `pua kumbu` carries `country: ["Sweden"]` because Gothenburg's Museum of World Culture owns it; a Thai Isan silk shawl reads `Sweden` for the same reason. The object's real origin is buried in `dcDescription`, usually in the holding museum's own language — the Iban cloth's description reads *"Ovanligt lång pua kumbu med krokodilmotiv 'baya' … Varpikat, växtfärgad"* followed by `Sarawak, Östmalaysia | Malaysia | Sea Dayaks | Iban`.
+
+Never let any filter treat that field as evidence of origin. Measured 2026-08-27: feeding it to the vision vetter as "made in" with instructions to reject on geographic contradiction sent Europeana's reject rate to **86%**, discarding canonical material (Iban pua kumbu, Batak ulos, Minangkabau songket, Kuba cloth). Labelling the same field as the holding museum and telling the judge a European holding country is never grounds for rejection brought it to **14%** on the identical sample. Ethnographic collections of the whole world sit in European museums; that is the normal case, not an anomaly.
+
+Corollary for `dcDescription`: read several entries, not just the first. Europeana splits origin across list items (`"Sarazm"`, `"Malaysia"`, `"Iban"`), so `desc[0]` alone usually loses the provenance.
+
+## Ethnonym word-match collisions found in the library
+
+Every one of these was sitting in the atlas as a real record. They pass the junk regexes because nothing about the title looks like junk — only looking at the image plus the museum's own description catches them. Verified 2026-08-28 by the vision vetter across 100 sampled records.
+
+| filed under | actually is |
+|---|---|
+| San | Venetian engravings — `San` is Italian for *Saint* (San Salvatore, Visentini album); also "after a Female Figure by Tintoretto" |
+| Iban | Spanish documents — `iban` is Spanish for *"they were going"* (an 1821 Galician political pamphlet) |
+| Fang | Chinese porcelain — `fang ding` is a Chinese vessel type (Jingdezhen fahua censer) |
+| Chin | a Santee **Dakota** studio portrait from St Paul, USA |
+| Maasai | Japanese ukiyo-e kabuki prints (two separate records) |
+| Khmer | a 1778 Spanish royal decree on Vizcaya taxation |
+| Thai | a European etching after Parmigianino |
+| Persian | Rubens' costume book; a Baroque chalk drawing of "the Persian Sibyl" |
+| Cham | the French cartoonist Cham |
+
+Neighbouring-group misfiles are a *different* class and just as common — the museum's own record names the right people and we filed it wrong: `"Shan weft-ikat cloth"` under Bamar, `"Sierra Leone Kusaibi type"` under Wolof, `"Afghan war kilim"` under both Kurdish (Iranian) and Azeri (Iranian), a Khmer temple site under Lao Isan, a Herero hut engraving under Himba. Rule that works: if the museum's description **names** a different people, it is mis-filed; if the group is merely unverifiable, keep it.
+
 ## What not to trust
 
 - **Museums' own country / culture attributions.** Widely inconsistent. V&A uses "Central Asia" for anything Silk Road; Met uses "Iran or Central Asia" for a lot; both mislabel Uzbek as "Turkestan" in pre-1920 records. Use these as *hints* to route into a `_regional` bucket, not as ground truth.
+- **British Museum's `title` is its classification**, not a description — 486 of 1,322 BM records (37%) are titled `print` / `drawing` / `album` / `photographic print` / `book-illustration`. That department is mostly out of scope (Ephesus ruin watercolours, named-sultan portraits, European book plates) but ~162 of them are genuine costume documentation (`"Folio 21 from an album showing Turkish costume … çengi dancer"`). Do NOT drop the department wholesale — it needs per-record judgement.
+- **V&A `title` is null on 94% of records** while `classification` carries the real name ("Kurta", "Ikat length"). Read classification as the fallback title.
 - **Museum date fields.** "mid 19th century" gets parsed to (1825, 1875) but some entries say "1800s" (whole century), "early Timurid" (400-year range), or just `null`. Always check `date_earliest` and `date_latest` before using them as filter bounds.
