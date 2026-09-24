@@ -42,7 +42,10 @@ from folk_patterns.util import LIBRARY_DIR
 
 MEDIA_DIR = Path(__file__).resolve().parents[1] / "content" / "media"
 UA = "folk-patterns/0.1 (research atlas)"
-MODEL = "claude-haiku-4-5-20251001"
+# Sonnet, not Haiku: on the 2026-09-24 calibration Haiku judged BELONGS as
+# well but called every weak image "good" (0/3 vs 2/3). Sonnet is rate-limited
+# server-side above ~3 parallel calls — keep --workers at the default.
+MODEL = "claude-sonnet-5"
 
 # Slugs are stable identifiers shared with classify.py, the library folder
 # layout and the site; display names live in the site. "jewelry" is shown as
@@ -53,7 +56,7 @@ VALID_ART_FORMS = {
     "architectural", "painting-mss", "photo", "unclassified",
 }
 VALID_IMAGE = {"good", "weak", "unusable"}
-VALID_ERA = {"traditional", "modern"}
+VALID_ERA = {"traditional", "modern", "archaeological"}
 
 PROMPT = """Read the image at path {path}. LOOK AT THE PICTURE FIRST — it is
 the primary evidence. The text below is only context, and it is sometimes
@@ -81,10 +84,13 @@ grand, famous, imperially patronised, religious, or a tourist destination.
 Hagia Sophia, Wat Phra Kaew, the Registan and Shah-i-Zinda all belong here.
 "Vernacular vs. monumental" is NOT a distinction this atlas makes.
 
-We are NOT building a museum catalogue or an archaeology database. Pictures
-of the culture made by OUTSIDERS (European fine art, travel-book engravings),
-portable antiquities dug out of the ground, and pictures of museums
-themselves do not belong here.
+Archaeology belongs too, tagged by ERA below: excavated objects, grave goods
+and the art of ancient civilisations of the homeland — a Ban Chiang pot
+under Thai, a Book of the Dead under Egyptian.
+
+We are NOT building a museum catalogue. Pictures of the culture made by
+OUTSIDERS (European fine art, travel-book engravings) and pictures of
+museums themselves do not belong here.
 
 THIS RECORD CLAIMS TO BE
   ethnicity : {ethnicity}   ({country})
@@ -144,26 +150,18 @@ YOUR TWO JUDGEMENTS
         Persian Sibyl" on a Baroque drawing, "Cham" as an artist's name);
       - a map, distribution chart, diagram, coat of arms, flag, logo,
         screenshot, or a scientific specimen;
-      - PORTABLE excavated antiquity: grave goods, cylinder seals,
-        predynastic palettes, Bronze-Age burial pottery, sculpture
-        fragments recovered from a dig, and the funerary texts and objects
-        of ancient civilisations (a Pharaonic Book of the Dead, a mummy
-        mask) — "made within the culture" does not rescue antiquity;
       - a photograph of a modern named politician or celebrity. (A court
         portrait of a ruler painted within the culture is court art: YES.)
 
     A STANDING building still in the cultural landscape — mosque, fort,
     mausoleum, caravanserai, temple, palace, walled old town — is
-    architecture, not archaeology. Say YES even when ruined, even when
-    world-famous, even when built by an emperor. Only reject a site when
-    nothing stands and the picture is of an excavation or foundations.
+    architecture. Say YES even when ruined, even when world-famous, even
+    when built by an emperor. An excavation site of an ancient civilisation
+    in the homeland is YES too, with ERA archaeological.
 
     Religious objects still belonging to a living tradition — masks, icons,
     votive figures, painted panels, ritual vessels — are YES regardless of
-    how finely made. Craftsmanship is not a disqualification. Judge age and
-    context, not quality: an 8th-century temple fragment in a museum is
-    archaeology, a carved mask or painted icon from a living practice is
-    folk culture.
+    how finely made. Craftsmanship is not a disqualification.
 
     PHOTOGRAPHIC STYLE IS NEVER A REASON TO REJECT. If the subject shows
     dress, craft, daily life or building, keep it — whether the
@@ -200,13 +198,19 @@ YOUR TWO JUDGEMENTS
     Judge the picture, not the object. A plain undecorated pot photographed
     clearly is "good".
 
-(d) ERA — traditional or modern?
+(d) ERA — traditional, modern or archaeological?
       traditional  handmade in a traditional technique, or a building or
                    scene of traditional life, of any date up to today
       modern       industrially made or mass-produced (machine-printed or
                    machine-woven cloth, factory goods), a building of modern
                    design and materials, or contemporary studio art
+      archaeological  recovered by excavation, or made by an ancient
+                   civilisation of the homeland and no longer part of living
+                   practice: grave goods, cylinder seals, Neolithic or
+                   Bronze-Age pottery, Pharaonic funerary texts, temple
+                   sculpture fragments in museums, an excavation site
     A machine-printed kanga still BELONGS — it is modern, not out of scope.
+    A Ban Chiang burial jar still BELONGS — it is archaeological.
 
 REPLY IN EXACTLY THIS FORMAT, reasoning first:
 REASON: <one or two sentences. Say what the picture ACTUALLY SHOWS, then
@@ -215,7 +219,7 @@ REASON: <one or two sentences. Say what the picture ACTUALLY SHOWS, then
 BELONGS: <YES or NO>
 ART_FORM: <one category from the list>
 IMAGE: <GOOD, WEAK or UNUSABLE>
-ERA: <TRADITIONAL or MODERN>
+ERA: <TRADITIONAL, MODERN or ARCHAEOLOGICAL>
 CONFIDENCE: <HIGH, MEDIUM or LOW>"""
 
 

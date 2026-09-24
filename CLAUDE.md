@@ -16,9 +16,11 @@ for continuity only.
 ## Current priority: re-vet the whole library, then stop
 
 **The prompt is aligned with the scope and calibrated** (60 records,
-2026-09-24 — [docs/vetting.md](docs/vetting.md)). Open before the full
-`--force` pass: which model (Haiku misses WEAK images, Sonnet catches
-them but is rate-limited), and wiring IMAGE/ERA into `build_index.py`.
+2026-09-24 — [docs/vetting.md](docs/vetting.md)). The vetter runs on
+Sonnet (Haiku missed every WEAK image) at the default 3 workers — more
+trips a server-side rate limit. `build_index.py` drops `vision_image ==
+"unusable"`, sinks weak images to the end of each gallery and exports
+`era`. Next: the full `--force` pass.
 
 `scripts/vet_images.py` is the quality gate and it works — it looks at each
 image, decides whether it belongs under its ethnicity and category, and says

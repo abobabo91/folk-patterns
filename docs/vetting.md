@@ -1,6 +1,6 @@
 # Vetting — the quality gate
 
-`scripts/vet_images.py` is how this atlas decides whether a record belongs. It shows every image to Claude Haiku via the Claude Code CLI (`claude --print --tools Read`, subscription-covered — never the paid API) and asks two questions:
+`scripts/vet_images.py` is how this atlas decides whether a record belongs. It shows every image to Claude Sonnet via the Claude Code CLI (`claude --print --tools Read`, subscription-covered — never the paid API) and asks for a verdict with its reasoning — BELONGS and ART_FORM below, plus IMAGE and ERA (see [Scope-aligned prompt](#scope-aligned-prompt--calibration-2026-09-24)). The two original questions:
 
 1. **BELONGS** — does this picture belong under the ethnicity it is filed under?
 2. **ART_FORM** — is the category right, and if not, what is?
@@ -32,9 +32,11 @@ The collection is a general ethnographic one ([README](../README.md#what-the-col
 |---|---|
 | Dress, textiles, jewellery, vessels, tools, weapons, instruments, furniture, household things | Pictures of the culture made by outsiders — European fine art, travel-book engravings, named European masters, colonial exhibition material |
 | Masks, ritual and religious objects, including finely made temple and monastery work | Objects the museum's own record attributes to a different people |
-| Vernacular and monumental buildings still standing, and their ornament | Portable excavated antiquity — grave goods, seals, dig finds |
-| Documentary photographs of dress, craft, festivals and daily life, whatever the photographer's intent | Maps, charts, catalogue cards, museum interiors, flags, logos |
+| Vernacular and monumental buildings still standing, and their ornament | Maps, charts, catalogue cards, museum interiors, flags, logos |
+| Documentary photographs of dress, craft, festivals and daily life, whatever the photographer's intent | |
 | Court and elite art made within the culture — miniatures, album pages, royal lacquer, temple bronzes | Name-collision contamination (San → San Francisco, Cham → an emperor's title) |
+| Archaeology of the homeland — excavated objects, grave goods, ancient-civilisation art, excavation sites — tagged `era: archaeological` | |
+| Modern and machine-made things of the living culture — tagged `era: modern` | |
 | | Images where the subject is a backdrop, or too small or blurred to read |
 
 **How the prompt enforces it.** Since 2026-09-24 the prompt states this scope and returns, besides BELONGS and the category, an IMAGE judgement (the backdrop/unreadable row) and an ERA (modern items belong, and are tagged). Measured results and the model trade-off: [Scope-aligned prompt](#scope-aligned-prompt--calibration-2026-09-24). Some rule texts further down still carry the pattern-first wording of the original prompt; the rules themselves are unchanged.
@@ -48,7 +50,8 @@ Each of these rules exists because its absence produced a measured, specific fai
 - **Photographic style is never a reason to reject.** Staged, modern, touristic, charity or news photographs still document the culture if the subject shows traditional dress, craft or life. Judge the subject, not the photographer's intent. Only reject when the actual subject is something else — a street market where a monument is mere backdrop.
 - **Religious art made by the culture counts** regardless of how finely made. Ethiopian Orthodox painting on hand-woven cotton, Buddha figures, mosque tilework. Judge who made it, not what it depicts.
 - **Ethnicity tie-break.** If the museum's own record *names* a different people, it is mis-filed → NO. If the group is merely unverifiable, keep it — we cannot tell neighbouring groups apart by eye either, and absence of proof is not evidence of a mistake.
-- **Out of scope:** portable excavated antiquity (grave goods, cylinder seals, temple-sculpture fragments in museums), European fine art including named masters documenting the culture (Rubens' costume book), colonial exhibition material, maps and charts, portraits of named rulers, museum catalogue cards.
+- **Archaeology is in, tagged by era.** Excavated objects and the art of ancient civilisations of the homeland are YES with `era: archaeological`, so the site can show them as their own section. Earlier prompts rejected them.
+- **Out of scope:** European fine art including named masters documenting the culture (Rubens' costume book), colonial exhibition material, maps and charts, photographs of modern named politicians or celebrities, museum catalogue cards.
 
 Tuning history, all measured on identical records: drop rate **44% → 28% → 26%**, each reduction traceable to removing one named over-strictness.
 
@@ -59,14 +62,14 @@ Tuning history, all measured on identical records: drop rate **44% → 28% → 2
 python scripts/vet_images.py --target library --limit 50 --seed 7777 --dry-run
 
 # a real chunk, persisted
-python scripts/vet_images.py --target library --limit 500 --workers 20
+python scripts/vet_images.py --target library --limit 500
 
 # one museum only, or one ethnicity
 python scripts/vet_images.py --target library --source british_museum
 python scripts/vet_images.py --target library --only uzbek
 ```
 
-Throughput is ~50 records/minute at `--workers 20`. All records go through one global thread pool; an earlier per-file pool put a barrier between `metadata.json` files and pinned throughput at 14/min regardless of worker count.
+Keep `--workers` at the default 3: Sonnet answers `Server is temporarily limiting requests (not your usage limit)` above that (measured 2026-09-24, 10 workers failed after 18 calls). Sonnet throughput on the full library is not yet measured; the ~50 records/minute figure was Haiku at `--workers 20`. All records go through one global thread pool; an earlier per-file pool put a barrier between `metadata.json` files and pinned throughput at 14/min regardless of worker count.
 
 **Failure mode to watch: quota exhaustion.** When the CLI starts failing, every call returns non-zero and the script records `vision_vetted: None` while the progress counter keeps climbing — a run can look healthy and produce nothing. On 2026-08-27 this happened after ~650 records and the remaining 3,338 were logged as errors. Watch the *verdicts*, not the counter. Resume is safe: records are skipped only on a real boolean verdict, so `None` records are retried automatically.
 
@@ -141,9 +144,9 @@ Calibrated on 60 records labelled by eye first — the 30 keeps above, 15 drops 
 | ERA modern, 4 by-eye cases | 3 / 4 | 3 / 4 |
 | Throughput | 10 parallel workers, no errors | server rate limit after 18 calls at 10 workers ("temporarily limiting requests (not your usage limit)"); 3 workers ran clean |
 
-- The one BELONGS error on both models was a Pharaonic Book of the Dead kept as "made within the culture". The antiquity clause now names ancient funerary texts and objects explicitly; not yet re-measured.
+- The one BELONGS error on both models was a Pharaonic Book of the Dead kept although the prompt then excluded antiquity. Archaeology is now in scope with its own ERA, and a Sonnet re-check of six records came back right on all six: Ban Chiang jar, Book of the Dead and Jiaohe → YES + archaeological; Shahnama → traditional; kanga → modern; the Tunis grille shot → weak.
 - One of my own by-eye labels was wrong: V&A's record names a `_regional` ikat as Shan, so the drop both models gave it was correct.
-- Haiku reasons its way past weak images ("the grille does not obscure the architecture"). If WEAK is meant to work, the full run needs Sonnet.
+- Haiku reasons its way past weak images ("the grille does not obscure the architecture"). That is why `MODEL` is Sonnet.
 
 ## Agreed next step
 

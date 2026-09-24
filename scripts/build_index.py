@@ -177,7 +177,7 @@ def build() -> None:
     global_facets = {"art_form": defaultdict(int), "source": defaultdict(int),
                      "country": defaultdict(int)}
     all_objects_count = 0
-    reroute_stats = {"routed": 0, "unroutable": 0, "junk_drop": 0, "classifier_override": 0, "classifier_reject": 0}
+    reroute_stats = {"routed": 0, "unroutable": 0, "junk_drop": 0, "classifier_override": 0, "classifier_reject": 0, "image_unusable": 0}
 
     # Per-record classifier overrides (data/classifier_overrides.json).
     # Populated by scripts/expand_classifier.py — Claude assigns an art_form
@@ -241,6 +241,11 @@ def build() -> None:
                 # our own curated category and keep despite vision reject.
                 if not (src == "commons_arch" and _is_arch_monument):
                     continue
+            # The vetter judged the picture itself unreadable (blank,
+            # placeholder, scale bar only) — nothing to show.
+            if cul.get("vision_image") == "unusable":
+                reroute_stats["image_unusable"] += 1
+                continue
             # If vision assigned an art_form, prefer it over the rule-based one.
             if cul.get("art_form_vision"):
                 cul["art_form"] = cul["art_form_vision"]
@@ -284,7 +289,8 @@ def build() -> None:
           f"{reroute_stats['unroutable']} could not be attributed and were dropped from the map. "
           f"Junk filter caught {reroute_stats['junk_drop']} pre-existing junk records. "
           f"Classifier overrides: {reroute_stats['classifier_override']} reclassified, "
-          f"{reroute_stats['classifier_reject']} rejected.")
+          f"{reroute_stats['classifier_reject']} rejected. "
+          f"Unusable images dropped: {reroute_stats['image_unusable']}.")
 
     # Build the globe payload (lightweight).
     globe_points: list[dict] = []
@@ -417,6 +423,11 @@ def build() -> None:
                          "commons_arch": 1, "europeana": 2, "va": 0,
                          "commons": 0}.get(src.get("museum", ""), 1)
             score += src_bonus
+            # A WEAK image (subject a backdrop, obscured, too partial) still
+            # belongs but should never lead a gallery — sink it below every
+            # readable image.
+            if (r.get("cultural") or {}).get("vision_image") == "weak":
+                score -= 100
             # Dedup fingerprint.
             #
             # V&A records almost always lack a title (title=None) and their
@@ -469,6 +480,8 @@ def build() -> None:
                 "art_form": (r.get("cultural") or {}).get("art_form"),
                 "tradition": (r.get("cultural") or {}).get("tradition"),
                 "pattern_density": (r.get("cultural") or {}).get("pattern_density"),
+                "era": (r.get("cultural") or {}).get("vision_era") or None,
+                "image_quality": (r.get("cultural") or {}).get("vision_image") or None,
                 "source": src.get("museum"),
                 "object_url": src.get("object_url"),
                 "image": img_path,
