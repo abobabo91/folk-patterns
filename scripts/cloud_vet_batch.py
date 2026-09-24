@@ -3,28 +3,35 @@ session runs it with no setup script; with Pillow installed, `fetch` also
 downscales images to MAX_EDGE px.
 
     python scripts/cloud_vet_batch.py fetch   pilot   # images + prompts into work/
+    python scripts/cloud_vet_batch.py judge   pilot [N]  # one bare `claude --print` per pending record (at most N)
     python scripts/cloud_vet_batch.py status  pilot   # fetched / answered / pending
     python scripts/cloud_vet_batch.py collect pilot   # replies -> data/vet_verdicts/pilot.jsonl
 
-The judging itself is done by Sonnet subagents between `fetch` and `collect`:
-each reads work/prompts/<key>.txt, does exactly what it says (the prompt
-points at work/img/<key>.jpg), and writes its reply verbatim to
-work/replies/<key>.txt. The procedure is docs/cloud-vetting.md.
+`judge` sends each record's prompt with its image inline to `claude --print`
+with no tools, no MCP servers, no user settings and a one-line system prompt,
+so a call carries only the prompt and the image (~4k tokens, measured
+2026-09-24). Replies go to work/replies/<key>.txt; every raw result, with its
+reported cost and token usage, is appended to work/judge_<batch>.jsonl.
+The procedure is docs/cloud-vetting.md.
 
 `collect` never parses the replies — that happens locally in
 scripts/apply_vet_verdicts.py with the same parser the local vetter uses.
 """
 from __future__ import annotations
 
+import base64
 import json
+import shutil
 import ssl
+import subprocess
 import sys
+import tempfile
 import threading
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -147,6 +154,97 @@ def status(name: str) -> None:
     print(f"pending keys with an image: {len(pending)} -> work/pending_{name}.txt")
 
 
+# Same model as vet_images.MODEL (not imported: this script stays free of the
+# project's dependencies).
+MODEL = "claude-sonnet-5"
+JUDGE_WORKERS = 3
+JUDGE_SYSTEM = ("You judge one image for an ethnographic collection. "
+                "Follow the user prompt exactly.")
+# Same schedule and detection as vet_images._ask_claude: Sonnet answers
+# "Server is temporarily limiting requests" in bursts that clear within minutes.
+RATE_LIMIT_BACKOFF = (30, 60, 120, 240, 300)
+_log_lock = threading.Lock()
+
+
+def _is_rate_limited(text: str) -> bool:
+    t = text.lower()
+    return any(k in t for k in ("rate limit", "limiting requests", "overloaded", "529"))
+
+
+def _judge_one(key: str, name: str, cwd: str, mcp: str) -> str:
+    prompt = (WORK / "prompts" / f"{key}.txt").read_text(encoding="utf-8")
+    prompt = prompt.replace(f"Read the image at path work/img/{key}.jpg.", "The image is attached.")
+    img = base64.b64encode((WORK / "img" / f"{key}.jpg").read_bytes()).decode()
+    msg = json.dumps({"type": "user", "message": {"role": "user", "content": [
+        {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": img}},
+        {"type": "text", "text": prompt}]}}) + "\n"
+    cmd = [shutil.which("claude") or "claude", "--print", "--verbose",
+           "--no-session-persistence", "--setting-sources", "local", "--model", MODEL,
+           "--input-format", "stream-json", "--output-format", "stream-json",
+           "--system-prompt", JUDGE_SYSTEM, "--tools", "",
+           "--strict-mcp-config", "--mcp-config", mcp]
+    for attempt in range(len(RATE_LIMIT_BACKOFF) + 1):
+        t0 = time.time()
+        try:
+            res = subprocess.run(cmd, input=msg, capture_output=True, text=True,
+                                 encoding="utf-8", timeout=180, cwd=cwd)
+            out, err = res.stdout, res.stderr
+        except subprocess.TimeoutExpired:
+            out, err = "", "timeout after 180 s"
+        result = None
+        for line in out.splitlines():
+            try:
+                ev = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if ev.get("type") == "result":
+                result = ev
+        text = (result or {}).get("result") or ""
+        ok = bool(result) and not result.get("is_error") and "BELONGS:" in text
+        with _log_lock, open(WORK / f"judge_{name}.jsonl", "a", encoding="utf-8") as f:
+            f.write(json.dumps({"key": key, "ok": ok, "attempt": attempt,
+                                "seconds": round(time.time() - t0, 1),
+                                "cost_usd": (result or {}).get("total_cost_usd"),
+                                "usage": (result or {}).get("usage"),
+                                "result": text, "stderr": err[-500:]},
+                               ensure_ascii=False) + "\n")
+        if ok:
+            (WORK / "replies" / f"{key}.txt").write_text(text, encoding="utf-8")
+            return "ok"
+        if attempt < len(RATE_LIMIT_BACKOFF) and _is_rate_limited(text + err):
+            time.sleep(RATE_LIMIT_BACKOFF[attempt])
+            continue
+        return f"failed: {(text or err)[:160]}"
+    return "failed: rate limited through every retry"
+
+
+def judge(name: str, limit: int = 0) -> None:
+    status(name)
+    keys = [k for k in (WORK / f"pending_{name}.txt").read_text(encoding="utf-8").splitlines() if k]
+    if limit:
+        keys = keys[:limit]
+    (WORK / "replies").mkdir(parents=True, exist_ok=True)
+    # A cwd outside the repo, so no CLAUDE.md is discovered and added to every call.
+    cwd = tempfile.mkdtemp(prefix="vet-judge-")
+    mcp = str(Path(cwd) / "empty_mcp.json")
+    Path(mcp).write_text('{"mcpServers":{}}', encoding="utf-8")
+    done = failed = 0
+    t0 = time.time()
+    with ThreadPoolExecutor(JUDGE_WORKERS) as ex:
+        futures = {ex.submit(_judge_one, k, name, cwd, mcp): k for k in keys}
+        for fut in as_completed(futures):
+            r = fut.result()
+            done += 1
+            if r != "ok":
+                failed += 1
+                print(f"  {futures[fut]}: {r}")
+            if done % 10 == 0 or done == len(keys):
+                print(f"judged {done}/{len(keys)} ({failed} failed, {time.time() - t0:.0f}s)")
+    costs = [json.loads(l).get("cost_usd") or 0
+             for l in (WORK / f"judge_{name}.jsonl").read_text(encoding="utf-8").splitlines()]
+    print(f"reported cost of all calls so far: ${sum(costs):.2f} over {len(costs)} calls")
+
+
 def collect(name: str) -> None:
     rows = _rows(name)
     fetch_report = WORK / f"fetch_{name}.json"
@@ -174,6 +272,10 @@ def collect(name: str) -> None:
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3 or sys.argv[1] not in ("fetch", "status", "collect"):
+    sys.stdout.reconfigure(line_buffering=True)
+    if len(sys.argv) not in (3, 4) or sys.argv[1] not in ("fetch", "judge", "status", "collect"):
         raise SystemExit(__doc__)
-    {"fetch": fetch, "status": status, "collect": collect}[sys.argv[1]](sys.argv[2])
+    if sys.argv[1] == "judge":
+        judge(sys.argv[2], int(sys.argv[3]) if len(sys.argv) == 4 else 0)
+    else:
+        {"fetch": fetch, "status": status, "collect": collect}[sys.argv[1]](sys.argv[2])
