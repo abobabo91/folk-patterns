@@ -24,13 +24,28 @@ Across 100 sampled records with the current prompt, 26 of 27 drops were correct 
 
 **The blind test is the one to re-run if you ever doubt it.** Hold a record's metadata constant, point it at an unrelated image, and check the verdict moves. A vetter that scores well on metadata alone is not vetting.
 
+## Scope — what the collection keeps
+
+The collection is a general ethnographic one ([README](../README.md#what-the-collection-is)): everything a people made, wore, built or used that is beautiful and informative. Pattern is a facet, not the criterion.
+
+| In | Out |
+|---|---|
+| Dress, textiles, jewellery, vessels, tools, weapons, instruments, furniture, household things | Pictures of the culture made by outsiders — European fine art, travel-book engravings, named European masters, colonial exhibition material |
+| Masks, ritual and religious objects, including finely made temple and monastery work | Objects the museum's own record attributes to a different people |
+| Vernacular and monumental buildings still standing, and their ornament | Portable excavated antiquity — grave goods, seals, dig finds |
+| Documentary photographs of dress, craft, festivals and daily life, whatever the photographer's intent | Maps, charts, catalogue cards, museum interiors, flags, logos |
+| Court and elite art made within the culture — miniatures, album pages, royal lacquer, temple bronzes | Name-collision contamination (San → San Francisco, Cham → an emperor's title) |
+| | Images where the subject is a backdrop, or too small or blurred to read |
+
+**Known gap between this scope and the prompt below.** The prompt was written when the atlas was pattern-first: it frames the question as "PATTERN AND CRAFT", judges only *belonging* and never *image value*, and treats court painting only through the costume-album clause. The backdrop/unreadable row of the table is therefore not enforced yet — the first persisted chunk (below) kept 4 such images out of 30 sampled. Aligning the prompt with this table is the next change, and it needs the calibration in [Why it is trusted](#why-it-is-trusted) re-run afterwards.
+
 ## What the prompt encodes
 
 Each of these rules exists because its absence produced a measured, specific failure. Do not remove one without re-running the calibration.
 
 - **A European holding country is never grounds for rejection.** Europeana's location field is the *holding museum*. Treating it as origin sent Europeana's reject rate to 86% and discarded Iban pua kumbu, Batak ulos, Minangkabau songket. See [museums.md](museums.md).
 - **Monumental architecture is in scope.** Mosques, temples, palaces, mausolea, forts, walled towns — including famous, imperially-patronised ones. Without this the judge invented a vernacular-vs-monumental line the atlas does not draw and dropped Hagia Sophia, Wat Phra Kaew, Bibi Khanym and Khulbuk.
-- **Photographic style is never a reason to reject.** Staged, modern, touristic, charity or news photographs still evidence the pattern if the subject shows traditional dress or craft. Judge the subject, not the photographer's intent. Only reject when the actual subject is something else — a street market where a monument is mere backdrop.
+- **Photographic style is never a reason to reject.** Staged, modern, touristic, charity or news photographs still document the culture if the subject shows traditional dress, craft or life. Judge the subject, not the photographer's intent. Only reject when the actual subject is something else — a street market where a monument is mere backdrop.
 - **Religious art made by the culture counts** regardless of how finely made. Ethiopian Orthodox painting on hand-woven cotton, Buddha figures, mosque tilework. Judge who made it, not what it depicts.
 - **Ethnicity tie-break.** If the museum's own record *names* a different people, it is mis-filed → NO. If the group is merely unverifiable, keep it — we cannot tell neighbouring groups apart by eye either, and absence of proof is not evidence of a mistake.
 - **Out of scope:** portable excavated antiquity (grave goods, cylinder seals, temple-sculpture fragments in museums), European fine art including named masters documenting the culture (Rubens' costume book), colonial exhibition material, maps and charts, portraits of named rulers, museum catalogue cards.
@@ -105,9 +120,9 @@ The per-source `dropped` figures above are likewise **not** representative — t
 
 **Keeps (30 random, judged from the images on contact sheets): 2 wrong, 4 weak, 24 good.**
 - Wrong: a machine-woven kente imitation kept under Ashanti although its own reason says it imitates kente; a modern 20th-century Malaysian mosque interior.
-- Weak — belong, but show little pattern: a Tunis rooftop shot through a blue grille with the mosque as backdrop, a distant El Badi palace postcard, a recent painted church filed as Debre Damo, an Angkorian bronze figure (fine-art antiquity at the edge of scope).
+- Weak — belong, but make a poor image of the culture: a Tunis rooftop shot through a blue grille with the mosque as backdrop, a distant El Badi palace postcard, a recent painted church filed as Debre Damo. An Angkorian bronze figure was also flagged at the time; under the [scope](#scope--what-the-collection-keeps) it is court and temple art made within the culture, so it is in.
 
-The prompt judges *belonging*, never *pattern value*, so the weak class passes by design. That is the gap to close if the goal is a collection of strong pattern images, not only correctly filed ones.
+The prompt judges *belonging*, never *image value*, so the weak class passes by design — that is the gap named in the scope section.
 
 ## Agreed next step
 

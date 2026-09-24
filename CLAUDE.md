@@ -3,7 +3,23 @@
 Read this before touching anything. It supersedes any pattern you might infer
 from skimming the code.
 
+## What the collection is
+
+A general ethnographic collection, not a pattern atlas: everything a people
+made, wore, built or used that is beautiful and informative, filed by
+ethnicity. Surface pattern is a browsing facet (`pattern_density`), never a
+reason to exclude. The in/out table is in
+[docs/vetting.md → Scope](docs/vetting.md#scope--what-the-collection-keeps);
+judge every filtering question against it. The name `folk-patterns` is kept
+for continuity only.
+
 ## Current priority: re-vet the whole library, then stop
+
+**Before the full run, align the vetter prompt with the scope.** It still
+frames the question as pattern and craft and judges only belonging, not
+whether the image is a good one — see the known-gap note in
+[docs/vetting.md](docs/vetting.md). Change the prompt, re-run the
+calibration, then do the full `--force` pass once.
 
 `scripts/vet_images.py` is the quality gate and it works — it looks at each
 image, decides whether it belongs under its ethnicity and category, and says

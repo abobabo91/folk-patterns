@@ -21,7 +21,7 @@ Order matters — checks are tried top to bottom, first match wins.
 
 ## Pattern density (0–3)
 
-Roughly: how much of the image is legible surface pattern?
+Roughly: how much of the image is legible surface pattern? A browsing and sorting facet only — the collection is ethnographic, so a score of 0 (a plain vessel, a sculpture, a portrait photograph) is never a reason to exclude a record.
 
 | Score | Meaning | Applied when |
 |-------|---------|-------------|
