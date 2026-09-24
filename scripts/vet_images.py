@@ -137,6 +137,10 @@ YOUR TWO JUDGEMENTS
       - the museum's own record NAMES a different people ("Shan cloth" filed
         under Bamar, "Sierra Leone Kusaibi type" filed under Wolof, "Afghan
         war kilim" filed under Kurdish) -> NO, it is mis-filed;
+      - the picture unmistakably shows the signature style of a DISTANT
+        tradition — a Cambodian pidan filed under Uzbek, a Chinese ink
+        scroll filed under Lao, a Japanese print filed under Kongo -> NO.
+        This is for another world region, never for a neighbouring group;
       - the specific group is merely unverifiable, and the object is a
         plausible piece from the right region -> YES. We cannot tell
         neighbouring groups apart by eye and neither can you; absence of
@@ -178,8 +182,11 @@ YOUR TWO JUDGEMENTS
       ceramic        pottery and vessels in clay or porcelain, loose tiles
       metalwork      metal vessels, lamps, boxes, metal tools
       arms           weapons, shields, armour, blowguns, bows
-      masks-ritual   masks, cult and ritual objects, fetishes, altars
-      sculpture      figures, statues, carvings that are not masks or ritual
+      masks-ritual   masks, and objects USED in ritual: power figures (nkisi),
+                     ritual bells, vajras and implements, amulets, reliquaries,
+                     altars, offering vessels — whatever their material
+      sculpture      figures, statues and carvings, including statues of
+                     deities, that are not masks or ritual implements
       instruments    musical instruments
       household      baskets, furniture, spoons, utensils, non-metal tools
       architectural  buildings, their ornament and interiors
@@ -272,8 +279,16 @@ def _download(url: str, dst: Path, min_interval: float = 0.4) -> bool:
     return False
 
 
+_RATE_LIMIT_BACKOFF = (30, 60, 120, 240, 300)   # seconds between retries
+
+
+def _is_rate_limited(err: str) -> bool:
+    e = err.lower()
+    return any(k in e for k in ("rate limit", "limiting requests", "overloaded", "529"))
+
+
 def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
-                timeout: int = 90, title: str = "", desc: str = "",
+                timeout: int = 180, title: str = "", desc: str = "",
                 place: str = "") -> tuple[bool | None, str | None, str, str, str, str]:
     """Return (authentic, art_form, reason, confidence, image, era).
 
@@ -291,18 +306,29 @@ def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
         desc=(desc or "(none recorded)")[:600],
         place=(place or "(none recorded)")[:120],
     )
-    try:
-        res = subprocess.run(
-            f'claude --print --dangerously-skip-permissions --no-session-persistence '
-            f'--tools Read --model {MODEL}',
-            input=prompt, capture_output=True, text=True, encoding="utf-8",
-            timeout=timeout, shell=True,
-        )
-        if res.returncode != 0:
-            return None, None, f"(cli exit {res.returncode})", "", "", ""
-        out = (res.stdout or "").strip()
-    except subprocess.TimeoutExpired:
-        return None, None, "(cli timeout)", "", "", ""
+    # Sonnet answers "Server is temporarily limiting requests (not your usage
+    # limit)" in bursts, even at 3 workers (2026-09-24: 43 of 50 calls in one
+    # run). It clears within minutes, so back off and retry instead of
+    # recording a None verdict. Any other failure is returned at once, with
+    # the CLI's own message kept for diagnosis.
+    for attempt in range(len(_RATE_LIMIT_BACKOFF) + 1):
+        try:
+            res = subprocess.run(
+                f'claude --print --dangerously-skip-permissions --no-session-persistence '
+                f'--tools Read --model {MODEL}',
+                input=prompt, capture_output=True, text=True, encoding="utf-8",
+                timeout=timeout, shell=True,
+            )
+        except subprocess.TimeoutExpired:
+            return None, None, "(cli timeout)", "", "", ""
+        if res.returncode == 0:
+            break
+        err = " ".join(((res.stdout or "") + " " + (res.stderr or "")).split())
+        if attempt < len(_RATE_LIMIT_BACKOFF) and _is_rate_limited(err):
+            time.sleep(_RATE_LIMIT_BACKOFF[attempt])
+            continue
+        return None, None, f"(cli exit {res.returncode}) {err[:160]}", "", "", ""
+    out = (res.stdout or "").strip()
 
     authentic: bool | None = None
     art_form: str | None = None

@@ -148,6 +148,30 @@ Calibrated on 60 records labelled by eye first — the 30 keeps above, 15 drops 
 - One of my own by-eye labels was wrong: V&A's record names a `_regional` ikat as Shan, so the drop both models gave it was correct.
 - Haiku reasons its way past weak images ("the grille does not obscure the architecture"). That is why `MODEL` is Sonnet.
 
+## Fresh 50-record review — 2026-09-24
+
+50 random records (seed 424242, none from the calibration set), Sonnet, dry run, every image then judged by eye on contact sheets with the verdict printed under it.
+
+| | result |
+|---|---|
+| BELONGS | 48 right, 1 wrong, 1 debatable. Wrong: a purple figurative silk ikat with elephants and pavilions filed under Uzbek, kept by the "unverifiable → keep" tie-break although its style is Cambodian *pidan*. Debatable: a studio portrait of a man in a Western jacket filed under Berber, dropped. |
+| drops | all 15 real: Laozi scroll filed under Lao, Japanese scroll under Kongo, European academic drawings under San and Chin, a book cover, a catalogue card, an Italian state dinner under Somali, Solomon Islands sheep under Javanese |
+| IMAGE | nothing weak passed as good; one weak verdict (a jar-stopper sealing) fair |
+| ERA | kangas, a Sotho factory blanket, adire correctly modern; two near-identical stencilled kanga samples split modern / traditional |
+| category | 2 misses — an nkisi power figure → sculpture, a vajra ritual bell → metalwork; both should be masks-ritual |
+
+Changes made from it, then re-run on the 12 affected records and on the 30 calibration keeps as a regression check:
+
+- **masks-ritual** now lists power figures, ritual bells and implements, amulets, reliquaries, altars and offering vessels explicitly; statues of deities stay under sculpture. Both misses moved to masks-ritual.
+- **Distant-style tie-break:** an unmistakable signature style of another world region (pidan under Uzbek, Chinese ink scroll under Lao) → NO, explicitly never applied to neighbouring groups. The pidan flipped to NO; all 29 calibration keeps stayed YES.
+- Repeat runs are not fully deterministic on IMAGE and ERA: in the regression one clean Turkmen carpet photograph came back weak, and an Angkorian bronze and a My Son stela moved to archaeological (defensible).
+
+**Operational findings**
+- Sonnet rate-limits in bursts even at 3 workers — one run had 43 of 50 calls fail with `Server is temporarily limiting requests (not your usage limit)`. `_ask_claude` now backs off 30 → 60 → 120 → 240 → 300 s and retries; on the retry run 42 of 43 went through, the last one a timeout.
+- Single Sonnet calls can exceed 90 s; the per-call timeout is 180 s.
+- **Throughput: ~5 records/minute** at 3 workers (20 records in 238 s, 43 in 522 s). The full 4,625-record `--force` pass is therefore on the order of 15 hours of wall time.
+- 128 Europeana records point at thumbnails of PDFs (`&type=TEXT`): general catalogues, catalogue cards, book scans, but also 11 Balinese manuscripts. They are left to the vetter rather than filtered by URL, because the manuscripts are real.
+
 ## Agreed next step
 
 1. **Full `--force` re-vet of all 4,625 records.** Not a resume — every stored verdict predates the current prompt.
