@@ -44,24 +44,34 @@ MEDIA_DIR = Path(__file__).resolve().parents[1] / "content" / "media"
 UA = "folk-patterns/0.1 (research atlas)"
 MODEL = "claude-haiku-4-5-20251001"
 
+# Slugs are stable identifiers shared with classify.py, the library folder
+# layout and the site; display names live in the site. "jewelry" is shown as
+# adornment, "architectural" as architecture, "painting-mss" as painting.
 VALID_ART_FORMS = {
-    "textile", "garment", "ceramic", "architectural", "jewelry",
-    "metalwork", "painting-mss", "sculpture", "household", "photo",
-    "unclassified",
+    "textile", "garment", "jewelry", "ceramic", "metalwork", "arms",
+    "masks-ritual", "sculpture", "instruments", "household",
+    "architectural", "painting-mss", "photo", "unclassified",
 }
+VALID_IMAGE = {"good", "weak", "unusable"}
+VALID_ERA = {"traditional", "modern"}
 
 PROMPT = """Read the image at path {path}. LOOK AT THE PICTURE FIRST — it is
 the primary evidence. The text below is only context, and it is sometimes
 wrong. Judge what you can actually see.
 
-WHAT THIS ATLAS IS
-We are building a visual atlas of world folk art, organised by ethnic group.
-Every entry should be something made or used by ordinary people of a named
-ethnicity: woven, dyed and embroidered textiles, everyday and festival
-dress, pots, baskets, tools, weapons, jewellery, masks and puppets,
-vernacular buildings and their surface ornament, and documentary photographs
-of traditional life. What we care about most is PATTERN AND CRAFT — how a
-people decorate the things they make.
+WHAT THIS COLLECTION IS
+We are building a general ethnographic collection, organised by ethnic group:
+everything a people made, wore, built or used that is beautiful and tells you
+something about them. Textiles and dress, jewellery, pots, baskets, tools,
+weapons, musical instruments, furniture, masks and ritual objects, buildings
+and their ornament, documentary photographs of dress, craft and daily life,
+and the art of the culture's own courts and temples. Surface pattern is
+welcome but NOT required — a plain clay pot, a carved spoon or a portrait
+photograph of a woman in festival dress all belong.
+
+Court and elite art MADE WITHIN the culture belongs: Persian miniature and
+album paintings, royal lacquerwork, temple bronzes, illuminated manuscripts,
+court costume albums — whether they show ornament, dress or a story.
 
 We DO collect monumental architecture and its ornament. Mosques, temples,
 palaces, mausolea, forts and walled old towns are a deliberate part of this
@@ -71,10 +81,10 @@ grand, famous, imperially patronised, religious, or a tourist destination.
 Hagia Sophia, Wat Phra Kaew, the Registan and Shah-i-Zinda all belong here.
 "Vernacular vs. monumental" is NOT a distinction this atlas makes.
 
-We are NOT building an art-history collection, a museum catalogue, or an
-archaeology database. European fine art, portable antiquities dug out of the
-ground, portraits of named rulers, and pictures of museums themselves do not
-belong here.
+We are NOT building a museum catalogue or an archaeology database. Pictures
+of the culture made by OUTSIDERS (European fine art, travel-book engravings),
+portable antiquities dug out of the ground, and pictures of museums
+themselves do not belong here.
 
 THIS RECORD CLAIMS TO BE
   ethnicity : {ethnicity}   ({country})
@@ -96,7 +106,7 @@ or German.
 YOUR TWO JUDGEMENTS
 
 (a) BELONGS — does this picture belong under {ethnicity}?
-    Say YES when the picture plainly shows a traditional object, garment,
+    Say YES when the picture plainly shows an object, garment,
     textile, building or scene and nothing contradicts it. A plain museum
     photograph of a patterned cloth, robe, pot, basket or tool on a neutral
     background is exactly what we collect. You do not need proof of the
@@ -109,10 +119,10 @@ YOUR TWO JUDGEMENTS
     ritual masks. Christian or Buddhist subject matter is not evidence of
     European origin — judge who made it, not what it depicts.
 
-    A painting or drawing that DOCUMENTS traditional dress or daily life
-    counts as YES *when it was made within the culture's own world* — an
-    anonymous Ottoman costume-album folio of a dancer's clothing is evidence
-    of the costume, so keep it. But a work by a NAMED European master
+    A painting, drawing or manuscript counts as YES *when it was made within
+    the culture's own world*, whatever it shows — an anonymous Ottoman
+    costume-album folio, a Persian Shahnama scene of kings and heroes, a
+    Burmese ordination manuscript. But a work by a NAMED European master
     (Rubens' costume book, a Grand Tour watercolourist) is European art
     history even when its subject is accurate: say NO. The test is who made
     it and for whom, not how faithful the depiction is.
@@ -136,8 +146,11 @@ YOUR TWO JUDGEMENTS
         screenshot, or a scientific specimen;
       - PORTABLE excavated antiquity: grave goods, cylinder seals,
         predynastic palettes, Bronze-Age burial pottery, sculpture
-        fragments recovered from a dig;
-      - a portrait of a NAMED ruler, sultan, or celebrity.
+        fragments recovered from a dig, and the funerary texts and objects
+        of ancient civilisations (a Pharaonic Book of the Dead, a mummy
+        mask) — "made within the culture" does not rescue antiquity;
+      - a photograph of a modern named politician or celebrity. (A court
+        portrait of a ruler painted within the culture is court art: YES.)
 
     A STANDING building still in the cultural landscape — mosque, fort,
     mausoleum, caravanserai, temple, palace, walled old town — is
@@ -153,7 +166,7 @@ YOUR TWO JUDGEMENTS
     folk culture.
 
     PHOTOGRAPHIC STYLE IS NEVER A REASON TO REJECT. If the subject shows
-    traditional dress, craft, pattern or building, keep it — whether the
+    dress, craft, daily life or building, keep it — whether the
     shot is staged, modern, touristic, a portrait, or taken for a charity
     or news report. Judge the SUBJECT, not the photographer's intent. Only
     reject a photograph when its actual subject is something else (a street
@@ -161,17 +174,39 @@ YOUR TWO JUDGEMENTS
 
 (b) ART_FORM — is "{current_af}" the right category, and if not, what is?
     Pick the single best fit for what the picture SHOWS:
-      textile        cloth, weaving, embroidery, carpets, felt
-      garment        worn clothing, robes, hats, shoes
-      ceramic        pottery, tiles, porcelain
-      architectural  buildings, ornament, interiors
-      jewelry        body ornament
-      metalwork      vessels, weapons, tools in metal
-      painting-mss   paintings, drawings, manuscripts, prints
-      sculpture      carving, statuary, masks
-      household      baskets, furniture, domestic tools
-      photo          documentary photo of a SCENE (people, festival, market)
-      unclassified   authentic but fits nothing above
+      textile        cloth, weaving, embroidery, carpets, felt (not worn)
+      garment        worn clothing, headwear, footwear, belts
+      jewelry        jewellery, beadwork and other body adornment
+      ceramic        pottery and vessels in clay or porcelain, loose tiles
+      metalwork      metal vessels, lamps, boxes, metal tools
+      arms           weapons, shields, armour, blowguns, bows
+      masks-ritual   masks, cult and ritual objects, fetishes, altars
+      sculpture      figures, statues, carvings that are not masks or ritual
+      instruments    musical instruments
+      household      baskets, furniture, spoons, utensils, non-metal tools
+      architectural  buildings, their ornament and interiors
+      painting-mss   paintings, drawings, manuscripts, prints, calligraphy
+      photo          documentary photo of PEOPLE or a SCENE (dress worn,
+                     festival, market, craft being made)
+      unclassified   belongs but fits nothing above
+
+(c) IMAGE — is this a good picture of it?
+      good      the object or scene is the clear subject and can be read
+      weak      it belongs, but shows it poorly: the subject is a small part
+                of the frame or a backdrop, heavily obscured, very dark, or
+                a fragment too partial to tell what the object is
+      unusable  nothing can be made out: blank, a placeholder, a scale bar
+                or colour chart only, badly corrupted, or a tiny thumbnail
+    Judge the picture, not the object. A plain undecorated pot photographed
+    clearly is "good".
+
+(d) ERA — traditional or modern?
+      traditional  handmade in a traditional technique, or a building or
+                   scene of traditional life, of any date up to today
+      modern       industrially made or mass-produced (machine-printed or
+                   machine-woven cloth, factory goods), a building of modern
+                   design and materials, or contemporary studio art
+    A machine-printed kanga still BELONGS — it is modern, not out of scope.
 
 REPLY IN EXACTLY THIS FORMAT, reasoning first:
 REASON: <one or two sentences. Say what the picture ACTUALLY SHOWS, then
@@ -179,6 +214,8 @@ REASON: <one or two sentences. Say what the picture ACTUALLY SHOWS, then
   the title claims.>
 BELONGS: <YES or NO>
 ART_FORM: <one category from the list>
+IMAGE: <GOOD, WEAK or UNUSABLE>
+ERA: <TRADITIONAL or MODERN>
 CONFIDENCE: <HIGH, MEDIUM or LOW>"""
 
 
@@ -233,8 +270,11 @@ def _download(url: str, dst: Path, min_interval: float = 0.4) -> bool:
 
 def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
                 timeout: int = 90, title: str = "", desc: str = "",
-                place: str = "") -> tuple[bool | None, str | None, str, str]:
-    """Return (authentic, art_form, reason, confidence).
+                place: str = "") -> tuple[bool | None, str | None, str, str, str, str]:
+    """Return (authentic, art_form, reason, confidence, image, era).
+
+    `image` is good / weak / unusable and `era` is traditional / modern, or
+    "" when the reply did not carry a valid value.
 
     `reason` is the judge's own one-line account of what it saw. It is kept
     and persisted so every verdict is auditable after the fact — a bare
@@ -255,15 +295,17 @@ def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
             timeout=timeout, shell=True,
         )
         if res.returncode != 0:
-            return None, None, f"(cli exit {res.returncode})", ""
+            return None, None, f"(cli exit {res.returncode})", "", "", ""
         out = (res.stdout or "").strip()
     except subprocess.TimeoutExpired:
-        return None, None, "(cli timeout)", ""
+        return None, None, "(cli timeout)", "", "", ""
 
     authentic: bool | None = None
     art_form: str | None = None
     reason = ""
     confidence = ""
+    image = ""
+    era = ""
     for line in out.splitlines():
         line_u = line.strip().upper()
         if line_u.startswith(("BELONGS:", "AUTHENTIC:")):
@@ -276,6 +318,16 @@ def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
             reason = line.split(":", 1)[1].strip()
         elif line_u.startswith("CONFIDENCE:"):
             confidence = line_u.split(":", 1)[1].strip().split()[0] if ":" in line_u else ""
+        elif line_u.startswith("IMAGE:"):
+            v = line_u.split(":", 1)[1].strip().lower().strip(".,;:")
+            v = v.split()[0] if v else ""
+            if v in VALID_IMAGE:
+                image = v
+        elif line_u.startswith("ERA:"):
+            v = line_u.split(":", 1)[1].strip().lower().strip(".,;:")
+            v = v.split()[0] if v else ""
+            if v in VALID_ERA:
+                era = v
         elif line_u.startswith("ART_FORM:"):
             v = line.split(":", 1)[1].strip().lower().split()[0] if ":" in line else ""
             v = v.strip(".,;:")
@@ -292,7 +344,7 @@ def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
         # Model ignored the format — keep its prose so the verdict is still
         # auditable rather than silently discarding the explanation.
         reason = " ".join(out.split())[:300]
-    return authentic, art_form, reason, confidence
+    return authentic, art_form, reason, confidence, image, era
 
 
 # -----------------------------------------------------------------------------
@@ -392,14 +444,15 @@ def _vet_library_record(meta_path: Path, rec: dict, tmp: Path):
         if not _download(url, dl_tmp):
             return {"skip": "download-failed"}, meta_path, rec.get("id")
         img_path = dl_tmp
-    authentic, art_form, reason, confidence = _ask_claude(
+    authentic, art_form, reason, confidence, image, era = _ask_claude(
         img_path, ethnicity, country, current_af,
         title=r_title, desc=r_desc, place=r_place)
     if dl_tmp is not None:
         try: dl_tmp.unlink()
         except Exception: pass
     return ({"authentic": authentic, "art_form": art_form,
-             "reason": reason, "confidence": confidence},
+             "reason": reason, "confidence": confidence,
+             "image": image, "era": era},
             meta_path, rec.get("id"))
 
 
@@ -479,9 +532,11 @@ def _vet_library(workers: int, force: bool, only: str | None,
                         auth = result.get("authentic")
                         af = result.get("art_form")
                         cul["vision_vetted"] = bool(auth) if auth is not None else None
-                        cul["vision_by"] = "claude-haiku-4-5"
+                        cul["vision_by"] = MODEL
                         cul["vision_reason"] = result.get("reason") or ""
                         cul["vision_confidence"] = result.get("confidence") or ""
+                        cul["vision_image"] = result.get("image") or ""
+                        cul["vision_era"] = result.get("era") or ""
                         if af and af in VALID_ART_FORMS and af != "unclassified":
                             cul["art_form_vision"] = af
                         mark = "✓" if auth else ("✗" if auth is False else "?")
@@ -505,6 +560,8 @@ def _vet_library(workers: int, force: bool, only: str | None,
                         "art_form_after": _af_new,
                         "belongs": result.get("authentic"),
                         "confidence": result.get("confidence"),
+                        "image": result.get("image"),
+                        "era": result.get("era"),
                         "reason": result.get("reason"),
                     })
                 # Last record of this file landed — persist it now.
@@ -532,14 +589,15 @@ def _vet_commons_photo(url: str, ethnicity: str, country: str, tmp: Path,
     dst = tmp / f"vet_{abs(hash(url))}{ext}"
     if not _download(url, dst):
         return {"skip": "download-failed"}
-    authentic, art_form, reason, confidence = _ask_claude(
+    authentic, art_form, reason, confidence, image, era = _ask_claude(
         dst, ethnicity, country, "photo", title=title, desc=desc)
     try:
         dst.unlink()
     except Exception:
         pass
     return {"authentic": authentic, "art_form": art_form,
-            "reason": reason, "confidence": confidence}
+            "reason": reason, "confidence": confidence,
+            "image": image, "era": era}
 
 
 def _vet_commons(workers: int, force: bool, only: str | None) -> None:
@@ -581,7 +639,9 @@ def _vet_commons(workers: int, force: bool, only: str | None) -> None:
                             cp.pop("vetted", None)
                         if af and af in VALID_ART_FORMS:
                             cp["vetted_art_form"] = af
-                        cp["vetted_by"] = "claude-haiku-4-5"
+                        cp["vetted_by"] = MODEL
+                        cp["vetted_image"] = result.get("image") or ""
+                        cp["vetted_era"] = result.get("era") or ""
                         mark = "✓" if auth else ("✗" if auth is False else "?")
                     title = cp.get("title", "")
                     print(f"  {mark} [{ethn}] {str(title)[:60]}", flush=True)
@@ -623,6 +683,8 @@ def _recheck_rejected(workers: int, only: str | None) -> None:
                     if auth is True:
                         cul["vision_vetted"] = True
                         cul["vision_flipped"] = True
+                        cul["vision_image"] = result.get("image") or ""
+                        cul["vision_era"] = result.get("era") or ""
                         flipped += 1
                         af = result.get("art_form")
                         if af and af in VALID_ART_FORMS and af != "unclassified":
@@ -655,6 +717,8 @@ def _recheck_rejected(workers: int, only: str | None) -> None:
                     if result.get("authentic") is True:
                         cp["vetted"] = True
                         cp["vetted_flipped"] = True
+                        cp["vetted_image"] = result.get("image") or ""
+                        cp["vetted_era"] = result.get("era") or ""
                         af = result.get("art_form")
                         if af and af in VALID_ART_FORMS:
                             cp["vetted_art_form"] = af

@@ -37,7 +37,7 @@ The collection is a general ethnographic one ([README](../README.md#what-the-col
 | Court and elite art made within the culture — miniatures, album pages, royal lacquer, temple bronzes | Name-collision contamination (San → San Francisco, Cham → an emperor's title) |
 | | Images where the subject is a backdrop, or too small or blurred to read |
 
-**Known gap between this scope and the prompt below.** The prompt was written when the atlas was pattern-first: it frames the question as "PATTERN AND CRAFT", judges only *belonging* and never *image value*, and treats court painting only through the costume-album clause. The backdrop/unreadable row of the table is therefore not enforced yet — the first persisted chunk (below) kept 4 such images out of 30 sampled. Aligning the prompt with this table is the next change, and it needs the calibration in [Why it is trusted](#why-it-is-trusted) re-run afterwards.
+**How the prompt enforces it.** Since 2026-09-24 the prompt states this scope and returns, besides BELONGS and the category, an IMAGE judgement (the backdrop/unreadable row) and an ERA (modern items belong, and are tagged). Measured results and the model trade-off: [Scope-aligned prompt](#scope-aligned-prompt--calibration-2026-09-24). Some rule texts further down still carry the pattern-first wording of the original prompt; the rules themselves are unchanged.
 
 ## What the prompt encodes
 
@@ -123,6 +123,27 @@ The per-source `dropped` figures above are likewise **not** representative — t
 - Weak — belong, but make a poor image of the culture: a Tunis rooftop shot through a blue grille with the mosque as backdrop, a distant El Badi palace postcard, a recent painted church filed as Debre Damo. An Angkorian bronze figure was also flagged at the time; under the [scope](#scope--what-the-collection-keeps) it is court and temple art made within the culture, so it is in.
 
 The prompt judges *belonging*, never *image value*, so the weak class passes by design — that is the gap named in the scope section.
+
+## Scope-aligned prompt — calibration 2026-09-24
+
+The prompt now carries the ethnographic scope, the category list below, and two new judgements written onto every record: `vision_image` (good / weak / unusable) and `vision_era` (traditional / modern).
+
+Categories (`art_form_vision`): textile, garment, jewelry (shown as adornment), ceramic, metalwork, **arms**, **masks-ritual**, sculpture, **instruments**, household, architectural, painting-mss, photo, unclassified. Slugs stay stable because `classify.py`, the library folders and the site share them.
+
+Calibrated on 60 records labelled by eye first — the 30 keeps above, 15 drops from the first chunk, 15 never judged — then run dry (`$TEMP` harness calling `_vet_library_record`, nothing persisted):
+
+| | Haiku 4.5 | Sonnet |
+|---|---|---|
+| BELONGS, decisive cases (~53) | 1 wrong | 1 wrong (the same one) |
+| Court art — Shahnama folio dropped by the old prompt | flipped to YES | YES |
+| IMAGE weak, 3 by-eye cases | **0 / 3** — calls everything good | **2 / 3** |
+| IMAGE unusable, 3 cases | 3 / 3 | 2 / 3 (the third was dropped on BELONGS anyway) |
+| ERA modern, 4 by-eye cases | 3 / 4 | 3 / 4 |
+| Throughput | 10 parallel workers, no errors | server rate limit after 18 calls at 10 workers ("temporarily limiting requests (not your usage limit)"); 3 workers ran clean |
+
+- The one BELONGS error on both models was a Pharaonic Book of the Dead kept as "made within the culture". The antiquity clause now names ancient funerary texts and objects explicitly; not yet re-measured.
+- One of my own by-eye labels was wrong: V&A's record names a `_regional` ikat as Shan, so the drop both models gave it was correct.
+- Haiku reasons its way past weak images ("the grille does not obscure the architecture"). If WEAK is meant to work, the full run needs Sonnet.
 
 ## Agreed next step
 

@@ -15,11 +15,10 @@ for continuity only.
 
 ## Current priority: re-vet the whole library, then stop
 
-**Before the full run, align the vetter prompt with the scope.** It still
-frames the question as pattern and craft and judges only belonging, not
-whether the image is a good one — see the known-gap note in
-[docs/vetting.md](docs/vetting.md). Change the prompt, re-run the
-calibration, then do the full `--force` pass once.
+**The prompt is aligned with the scope and calibrated** (60 records,
+2026-09-24 — [docs/vetting.md](docs/vetting.md)). Open before the full
+`--force` pass: which model (Haiku misses WEAK images, Sonnet catches
+them but is rate-limited), and wiring IMAGE/ERA into `build_index.py`.
 
 `scripts/vet_images.py` is the quality gate and it works — it looks at each
 image, decides whether it belongs under its ethnicity and category, and says
