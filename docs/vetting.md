@@ -87,6 +87,28 @@ Run `python scripts/_vet_status.py` for live numbers — it reads the library, s
 
 The per-source `dropped` figures above are likewise **not** representative — the run that produced them died inside the alphabetical Central-Asia/MENA segment, which is why Cleveland reads 66%. Fresh-seed sampling puts Cleveland at 10–30%. Use `_vet_status.py` after the re-vet for real rates, not these.
 
+## First persisted chunk — 2026-09-24
+
+`--target library --force --limit 200 --seed 20260924 --workers 10`, run locally on the subscription. Writes landed: `_vet_status.py` counted 200 verdicts carrying reasoning afterwards. 2 of 200 came back `(cli exit 1)` on V&A records whose images are intact on disk; they stay `None` and are retried by the next run.
+
+| source | kept | dropped | drop % |
+|---|---:|---:|---:|
+| british_museum | 32 | 26 | 45% |
+| europeana | 17 | 13 | 43% |
+| commons_arch | 43 | 16 | 27% |
+| cleveland | 20 | 5 | 20% |
+| va | 18 | 0 | 0% |
+| met / rijks / smithsonian | 6 | 2 | — |
+| **total** | **136** | **62** | **31%** |
+
+**Drops (all 62 reasons read, 6 images opened): correct.** The high British Museum and Europeana rates are real contamination, not over-strictness — ethnonym collisions ("San" → San Francisco beach and zoo photos, Naples; "Cham" → Nieuhof's 1669 China etchings; "Fang" → a George III satire print and a Shakespeare engraving; "Chin" → a drawing after Perugino), a Stockholm catalogue card, and records the museum itself attributes to another people (Ewe kente under Ashanti, Dayak darts under Javanese). One Europeana record (`europeana-2020903_KMS7`, "Don Miguel de Castro, Emissary of Kongo") carries an unrelated image of a glass-and-water installation — the source served the wrong file.
+
+**Keeps (30 random, judged from the images on contact sheets): 2 wrong, 4 weak, 24 good.**
+- Wrong: a machine-woven kente imitation kept under Ashanti although its own reason says it imitates kente; a modern 20th-century Malaysian mosque interior.
+- Weak — belong, but show little pattern: a Tunis rooftop shot through a blue grille with the mosque as backdrop, a distant El Badi palace postcard, a recent painted church filed as Debre Damo, an Angkorian bronze figure (fine-art antiquity at the edge of scope).
+
+The prompt judges *belonging*, never *pattern value*, so the weak class passes by design. That is the gap to close if the goal is a collection of strong pattern images, not only correctly filed ones.
+
 ## Agreed next step
 
 1. **Full `--force` re-vet of all 4,625 records.** Not a resume — every stored verdict predates the current prompt.
