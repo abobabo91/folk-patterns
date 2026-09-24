@@ -1,6 +1,6 @@
 """Generate a places dict for Sub-Saharan Africa via Claude CLI."""
 import subprocess, sys, io
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace', line_buffering=True)
 
 prompt = """Generate a Python dict for routing museum "place" strings to countries in Sub-Saharan Africa.
 

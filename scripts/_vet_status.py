@@ -16,7 +16,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 if hasattr(sys.stdout, "buffer"):
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace", line_buffering=True)
 
 ROOT = Path(__file__).resolve().parents[1]
 LIB = ROOT / "library"

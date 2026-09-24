@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 if hasattr(sys.stdout, "buffer"):
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace", line_buffering=True)
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 from folk_patterns.util import RateLimitedClient

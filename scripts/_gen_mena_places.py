@@ -1,6 +1,6 @@
 """Ask Claude for the MENA places dict."""
 import subprocess, sys, io
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace', line_buffering=True)
 
 prompt = """Generate a MENA_PLACES dictionary matching this exact Python structure — for routing museum "place" strings to countries in the Middle East / North Africa region. Countries: Iran, Morocco, Tunisia, Egypt, Turkey.
 
