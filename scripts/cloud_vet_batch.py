@@ -16,6 +16,7 @@ scripts/apply_vet_verdicts.py with the same parser the local vetter uses.
 from __future__ import annotations
 
 import json
+import ssl
 import sys
 import threading
 import time
@@ -32,6 +33,12 @@ MAGIC = (b"\xff\xd8\xff", b"\x89PNG", b"GIF8", b"RIFF")
 # Wikimedia answers 429 at 6 parallel downloads (measured 2026-09-24), so
 # requests to one host are spaced out; different hosts still run in parallel.
 HOST_INTERVAL = 1.0
+# media.britishmuseum.org serves its leaf certificate without the intermediate
+# (measured 2026-09-24). Browsers fetch it via AIA; Python does not, and the
+# cloud sandbox cannot reach crt.sectigo.com. So the missing intermediates ship
+# in the repo and are added to the default trust store.
+SSL_CTX = ssl.create_default_context()
+SSL_CTX.load_verify_locations(str(Path(__file__).with_name("certs") / "extra-intermediates.pem"))
 _host_lock: dict[str, threading.Lock] = {}
 _host_last: dict[str, float] = {}
 _locks_guard = threading.Lock()
@@ -65,7 +72,7 @@ def _fetch_one(row: dict) -> tuple[str, str]:
                 req = urllib.request.Request(url, headers={
                     "User-Agent": UA, "Accept": "image/*,*/*;q=0.8",
                     "Referer": "https://commons.wikimedia.org/"})
-                with urllib.request.urlopen(req, timeout=60) as r:
+                with urllib.request.urlopen(req, timeout=60, context=SSL_CTX) as r:
                     data = r.read()
                 if len(data) > 1000 and data.startswith(MAGIC):
                     dst.write_bytes(data)
