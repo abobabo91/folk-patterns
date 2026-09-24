@@ -1,6 +1,6 @@
 # Vetting — the quality gate
 
-`scripts/vet_images.py` is how this atlas decides whether a record belongs. It shows every image to Claude Sonnet via the Claude Code CLI (`claude --print --tools Read`, subscription-covered — never the paid API) and asks for a verdict with its reasoning — BELONGS and ART_FORM below, plus IMAGE and ERA (see [Scope-aligned prompt](#scope-aligned-prompt--calibration-2026-09-24)). The two original questions:
+`scripts/vet_images.py` is how this atlas decides whether a record belongs. It shows every image to Claude Sonnet via the Claude Code CLI (one bare `claude --print` per image, the image inline, subscription-covered — never the paid API; the call and the prompt are `scripts/vet_judge.py`, shared with the [cloud path](cloud-vetting.md)) and asks for a verdict with its reasoning — BELONGS and ART_FORM below, plus IMAGE and ERA (see [Scope-aligned prompt](#scope-aligned-prompt--calibration-2026-09-24)). The two original questions:
 
 1. **BELONGS** — does this picture belong under the ethnicity it is filed under?
 2. **ART_FORM** — is the category right, and if not, what is?
@@ -43,7 +43,7 @@ The collection is a general ethnographic one ([README](../README.md#what-the-col
 
 ## What the prompt encodes
 
-Each of these rules exists because its absence produced a measured, specific failure. Do not remove one without re-running the calibration.
+Each of these rules exists because its absence produced a measured, specific failure. Do not remove one without re-running the calibration. The prompt states them in compressed form (`SYSTEM_PROMPT` in `scripts/vet_judge.py`, ~3k characters); this list is the reasoning behind each line — see [Short cached prompt](#short-cached-prompt--2026-09-24).
 
 - **A European holding country is never grounds for rejection.** Europeana's location field is the *holding museum*. Treating it as origin sent Europeana's reject rate to 86% and discarded Iban pua kumbu, Batak ulos, Minangkabau songket. See [museums.md](museums.md).
 - **Monumental architecture is in scope.** Mosques, temples, palaces, mausolea, forts, walled towns — including famous, imperially-patronised ones. Without this the judge invented a vernacular-vs-monumental line the atlas does not draw and dropped Hagia Sophia, Wat Phra Kaew, Bibi Khanym and Khulbuk.
@@ -171,6 +171,23 @@ Changes made from it, then re-run on the 12 affected records and on the 30 calib
 - Single Sonnet calls can exceed 90 s; the per-call timeout is 180 s.
 - **Throughput: ~5 records/minute** at 3 workers (20 records in 238 s, 43 in 522 s). The full 4,625-record `--force` pass is therefore on the order of 15 hours of wall time.
 - 128 Europeana records point at thumbnails of PDFs (`&type=TEXT`): general catalogues, catalogue cards, book scans, but also 11 Balinese manuscripts. They are left to the vetter rather than filtered by URL, because the manuscripts are real.
+
+## Short cached prompt — 2026-09-24
+
+The rules were first a ~10k-character prompt sent in the user message with the record block inside it. They are now a ~3k-character system prompt, identical on every call, with the record block and the image as the user message. Two reasons, both measured on the 117 pilot records (docs/cloud-vetting.md → Pilot 3):
+
+- **Cost.** A fixed system prompt is served from the CLI's prompt cache after the first call: $0.035 → $0.011 per record. Moving the long rules into the system prompt alone gave $0.0116; shortening them adds only ~7%, because the image and record block, written fresh every call, are most of what is left.
+- **No loss in judgement.** Against the long prompt's cloud pilot: BELONGS 113 / 117, and on the 89 records both keep ART_FORM 86, IMAGE 88, ERA 85. Against local Sonnet with the long prompt: BELONGS 114 / 116. Against the by-eye labels: 57 / 60 (the long prompt: 55–56), two of the three misses being labels made under the old rule that excluded excavated material.
+
+Getting the short prompt there took three measured rounds, each fixing a class the previous one missed — keep these lines:
+
+- First cut: ERA 81 / 89. Khmer and Javanese temple bronzes came back `traditional`. Fixed by naming "an Angkor-era or 10th-century temple bronze or ritual bell now in a museum" as archaeological, "even when it is well made and court or temple art".
+- That pushed an Ilkhanid Shahnama folio to `archaeological`. Fixed by "a painting or manuscript of a living tradition (a Shahnama folio, a Mughal album page) is traditional, however old; one recovered from a tomb (a Book of the Dead) is archaeological".
+- A sarong/longyi as `textile` and ritual bells as `metalwork`: the category line names them.
+
+The remaining ERA differences from the long prompt are ones the short prompt gets right or that are debatable: Masjid Shah Alam (built 1988) → modern, the Dungur ruins → archaeological, a kanga design proof and a Lao checked silk → modern.
+
+Verdicts written by the long prompt (the pilot and batch b001) count as current and are not re-run.
 
 ## Agreed next step
 

@@ -3,9 +3,10 @@
     python scripts/export_vet_batch.py --name pilot --ids-file ids.json
     python scripts/export_vet_batch.py --name b001 --todo --limit 500 --seed 1
 
-Writes data/vet_batches/<name>.jsonl — one line per record with the exact
-prompt the local vetter would send (vet_images.build_prompt, pointing at
-work/img/<key>.jpg) and the image URLs to fetch it from. The cloud session
+Writes data/vet_batches/<name>.jsonl — one line per record with the record
+text the local vetter would send next to the image (vet_images.build_prompt;
+the fixed rules are the system prompt in scripts/vet_judge.py) and the image
+URLs to fetch it from. The cloud session
 needs nothing else: not the library, not a key. See docs/cloud-vetting.md.
 
 `--todo` picks records without a current-prompt verdict (no vision_image yet);
@@ -129,13 +130,13 @@ def main() -> None:
                 "meta": meta_path.relative_to(ROOT).as_posix(),
                 "image_path": img_path,
                 "urls": urls,
-                "prompt": v.build_prompt(img_path, cul.get("ethnicity") or "",
+                "prompt": v.build_prompt(cul.get("ethnicity") or "",
                                          cul.get("country") or "",
                                          cul.get("art_form") or "unclassified",
                                          title=title, desc=desc, place=place),
             }, ensure_ascii=False) + "\n")
     print(f"wrote {out_path.relative_to(ROOT)}: {len(rows)} records "
-          f"({n_r2} with an R2 copy, prompt model-agnostic; judge with {v.MODEL} or its cloud equivalent)")
+          f"({n_r2} with an R2 copy)")
 
 
 if __name__ == "__main__":

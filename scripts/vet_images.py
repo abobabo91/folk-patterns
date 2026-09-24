@@ -1,7 +1,7 @@
 """Unified agentic vetter for every image in the library.
 
-For each museum object and each Commons documentary photo, ask Claude Haiku
-(via CLI + Read tool) two things at once:
+For each museum object and each Commons documentary photo, ask Claude Sonnet
+(one bare `claude --print` call per image, scripts/vet_judge.py) two things at once:
 
   1. Does this image genuinely depict authentic material folk culture of the
      tagged ethnicity? YES / NO.
@@ -23,7 +23,6 @@ import argparse
 import io
 import json
 import shutil
-import subprocess
 import sys
 import tempfile
 import time
@@ -42,10 +41,10 @@ from folk_patterns.util import LIBRARY_DIR
 
 MEDIA_DIR = Path(__file__).resolve().parents[1] / "content" / "media"
 UA = "folk-patterns/0.1 (research atlas)"
-# Sonnet, not Haiku: on the 2026-09-24 calibration Haiku judged BELONGS as
-# well but called every weak image "good" (0/3 vs 2/3). Sonnet is rate-limited
-# server-side above ~3 parallel calls — keep --workers at the default.
-MODEL = "claude-sonnet-5"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import vet_judge  # noqa: E402
+
+MODEL = vet_judge.MODEL
 
 # Slugs are stable identifiers shared with classify.py, the library folder
 # layout and the site; display names live in the site. "jewelry" is shown as
@@ -58,176 +57,8 @@ VALID_ART_FORMS = {
 VALID_IMAGE = {"good", "weak", "unusable"}
 VALID_ERA = {"traditional", "modern", "archaeological"}
 
-PROMPT = """Read the image at path {path}. LOOK AT THE PICTURE FIRST — it is
-the primary evidence. The text below is only context, and it is sometimes
-wrong. Judge what you can actually see.
-
-WHAT THIS COLLECTION IS
-We are building a general ethnographic collection, organised by ethnic group:
-everything a people made, wore, built or used that is beautiful and tells you
-something about them. Textiles and dress, jewellery, pots, baskets, tools,
-weapons, musical instruments, furniture, masks and ritual objects, buildings
-and their ornament, documentary photographs of dress, craft and daily life,
-and the art of the culture's own courts and temples. Surface pattern is
-welcome but NOT required — a plain clay pot, a carved spoon or a portrait
-photograph of a woman in festival dress all belong.
-
-Court and elite art MADE WITHIN the culture belongs: Persian miniature and
-album paintings, royal lacquerwork, temple bronzes, illuminated manuscripts,
-court costume albums — whether they show ornament, dress or a story.
-
-We DO collect monumental architecture and its ornament. Mosques, temples,
-palaces, mausolea, forts and walled old towns are a deliberate part of this
-atlas — their tilework, carving and brick patterning are among the richest
-surface pattern any culture produces. Do NOT reject a building for being
-grand, famous, imperially patronised, religious, or a tourist destination.
-Hagia Sophia, Wat Phra Kaew, the Registan and Shah-i-Zinda all belong here.
-"Vernacular vs. monumental" is NOT a distinction this atlas makes.
-
-Archaeology belongs too, tagged by ERA below: excavated objects, grave goods
-and the art of ancient civilisations of the homeland — a Ban Chiang pot
-under Thai, a Book of the Dead under Egyptian.
-
-We are NOT building a museum catalogue. Pictures of the culture made by
-OUTSIDERS (European fine art, travel-book engravings) and pictures of
-museums themselves do not belong here.
-
-THIS RECORD CLAIMS TO BE
-  ethnicity : {ethnicity}   ({country})
-  category  : {current_af}
-
-THE HOLDING MUSEUM'S METADATA
-  title:            {title}
-  description:      {desc}
-  location on file: {place}
-
-CRITICAL — "location on file" is usually the country of the museum that
-HOLDS the object, not where it was made. Ethnographic collections of the
-whole world sit in Swedish, Dutch, British and German museums; "Sweden" on
-a Malaysian Iban textile just means Gothenburg owns it. A European or
-American location is NEVER by itself a reason to reject. The true origin,
-when recorded, is usually inside the description, often in Swedish, Dutch
-or German.
-
-YOUR TWO JUDGEMENTS
-
-(a) BELONGS — does this picture belong under {ethnicity}?
-    Say YES when the picture plainly shows an object, garment,
-    textile, building or scene and nothing contradicts it. A plain museum
-    photograph of a patterned cloth, robe, pot, basket or tool on a neutral
-    background is exactly what we collect. You do not need proof of the
-    specific ethnic group — a plausible object from the right cultural
-    region is enough, because we cannot tell neighbouring groups apart by
-    eye either.
-
-    Religious art MADE BY the culture counts: Ethiopian Orthodox painting
-    on hand-woven cotton, Buddha figures, Hindu deities, mosque tilework,
-    ritual masks. Christian or Buddhist subject matter is not evidence of
-    European origin — judge who made it, not what it depicts.
-
-    A painting, drawing or manuscript counts as YES *when it was made within
-    the culture's own world*, whatever it shows — an anonymous Ottoman
-    costume-album folio, a Persian Shahnama scene of kings and heroes, a
-    Burmese ordination manuscript. But a work by a NAMED European master
-    (Rubens' costume book, a Grand Tour watercolourist) is European art
-    history even when its subject is accurate: say NO. The test is who made
-    it and for whom, not how faithful the depiction is.
-
-    ETHNICITY TIE-BREAK. Be decisive when the group is in doubt:
-      - the museum's own record NAMES a different people ("Shan cloth" filed
-        under Bamar, "Sierra Leone Kusaibi type" filed under Wolof, "Afghan
-        war kilim" filed under Kurdish) -> NO, it is mis-filed;
-      - the picture unmistakably shows the signature style of a DISTANT
-        tradition — a Cambodian pidan filed under Uzbek, a Chinese ink
-        scroll filed under Lao, a Japanese print filed under Kongo -> NO.
-        This is for another world region, never for a neighbouring group;
-      - the specific group is merely unverifiable, and the object is a
-        plausible piece from the right region -> YES. We cannot tell
-        neighbouring groups apart by eye and neither can you; absence of
-        proof is not evidence of a mistake.
-
-    Say NO only on positive evidence, from the picture or the description:
-      - an unrelated culture or subject: European fine art, a named European
-        artist, a colonial exhibition, a museum gift shop or gallery
-        interior, a modern tourist or holiday snapshot, a generic cityscape;
-      - the ethnonym is only an incidental word in a European title ("the
-        Persian Sibyl" on a Baroque drawing, "Cham" as an artist's name);
-      - a map, distribution chart, diagram, coat of arms, flag, logo,
-        screenshot, or a scientific specimen;
-      - a photograph of a modern named politician or celebrity. (A court
-        portrait of a ruler painted within the culture is court art: YES.)
-
-    A STANDING building still in the cultural landscape — mosque, fort,
-    mausoleum, caravanserai, temple, palace, walled old town — is
-    architecture. Say YES even when ruined, even when world-famous, even
-    when built by an emperor. An excavation site of an ancient civilisation
-    in the homeland is YES too, with ERA archaeological.
-
-    Religious objects still belonging to a living tradition — masks, icons,
-    votive figures, painted panels, ritual vessels — are YES regardless of
-    how finely made. Craftsmanship is not a disqualification.
-
-    PHOTOGRAPHIC STYLE IS NEVER A REASON TO REJECT. If the subject shows
-    dress, craft, daily life or building, keep it — whether the
-    shot is staged, modern, touristic, a portrait, or taken for a charity
-    or news report. Judge the SUBJECT, not the photographer's intent. Only
-    reject a photograph when its actual subject is something else (a street
-    market where a monument is mere backdrop, a European traveller posing).
-
-(b) ART_FORM — is "{current_af}" the right category, and if not, what is?
-    Pick the single best fit for what the picture SHOWS:
-      textile        cloth, weaving, embroidery, carpets, felt (not worn)
-      garment        worn clothing, headwear, footwear, belts
-      jewelry        jewellery, beadwork and other body adornment
-      ceramic        pottery and vessels in clay or porcelain, loose tiles
-      metalwork      metal vessels, lamps, boxes, metal tools
-      arms           weapons, shields, armour, blowguns, bows
-      masks-ritual   masks, and objects USED in ritual: power figures (nkisi),
-                     ritual bells, vajras and implements, amulets, reliquaries,
-                     altars, offering vessels — whatever their material
-      sculpture      figures, statues and carvings, including statues of
-                     deities, that are not masks or ritual implements
-      instruments    musical instruments
-      household      baskets, furniture, spoons, utensils, non-metal tools
-      architectural  buildings, their ornament and interiors
-      painting-mss   paintings, drawings, manuscripts, prints, calligraphy
-      photo          documentary photo of PEOPLE or a SCENE (dress worn,
-                     festival, market, craft being made)
-      unclassified   belongs but fits nothing above
-
-(c) IMAGE — is this a good picture of it?
-      good      the object or scene is the clear subject and can be read
-      weak      it belongs, but shows it poorly: the subject is a small part
-                of the frame or a backdrop, heavily obscured, very dark, or
-                a fragment too partial to tell what the object is
-      unusable  nothing can be made out: blank, a placeholder, a scale bar
-                or colour chart only, badly corrupted, or a tiny thumbnail
-    Judge the picture, not the object. A plain undecorated pot photographed
-    clearly is "good".
-
-(d) ERA — traditional, modern or archaeological?
-      traditional  handmade in a traditional technique, or a building or
-                   scene of traditional life, of any date up to today
-      modern       industrially made or mass-produced (machine-printed or
-                   machine-woven cloth, factory goods), a building of modern
-                   design and materials, or contemporary studio art
-      archaeological  recovered by excavation, or made by an ancient
-                   civilisation of the homeland and no longer part of living
-                   practice: grave goods, cylinder seals, Neolithic or
-                   Bronze-Age pottery, Pharaonic funerary texts, temple
-                   sculpture fragments in museums, an excavation site
-    A machine-printed kanga still BELONGS — it is modern, not out of scope.
-    A Ban Chiang burial jar still BELONGS — it is archaeological.
-
-REPLY IN EXACTLY THIS FORMAT, reasoning first:
-REASON: <one or two sentences. Say what the picture ACTUALLY SHOWS, then
-  why it does or does not fit {ethnicity}. Describe what you see, not what
-  the title claims.>
-BELONGS: <YES or NO>
-ART_FORM: <one category from the list>
-IMAGE: <GOOD, WEAK or UNUSABLE>
-ERA: <TRADITIONAL, MODERN or ARCHAEOLOGICAL>
-CONFIDENCE: <HIGH, MEDIUM or LOW>"""
+# The judge prompt — fixed rules as the system prompt, the record block as the
+# user message — lives in scripts/vet_judge.py, shared with the cloud path.
 
 
 TRANSCRIPT = Path(__file__).resolve().parents[1] / "data" / "vet_transcript.jsonl"
@@ -279,64 +110,32 @@ def _download(url: str, dst: Path, min_interval: float = 0.4) -> bool:
     return False
 
 
-_RATE_LIMIT_BACKOFF = (30, 60, 120, 240, 300)   # seconds between retries
-
-
-def _is_rate_limited(err: str) -> bool:
-    e = err.lower()
-    return any(k in e for k in ("rate limit", "limiting requests", "overloaded", "529"))
-
-
 def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
                 timeout: int = 180, title: str = "", desc: str = "",
                 place: str = "") -> tuple[bool | None, str | None, str, str, str, str]:
     """Return (authentic, art_form, reason, confidence, image, era).
 
-    `image` is good / weak / unusable and `era` is traditional / modern, or
-    "" when the reply did not carry a valid value.
+    `image` is good / weak / unusable and `era` is traditional / modern /
+    archaeological, or "" when the reply did not carry a valid value.
 
     `reason` is the judge's own one-line account of what it saw. It is kept
     and persisted so every verdict is auditable after the fact — a bare
     boolean tells you nothing about WHY a record was dropped, and the whole
     point of an agentic filter is being able to read back its mistakes."""
-    prompt = build_prompt(image_path, ethnicity, country, current_af,
-                          title=title, desc=desc, place=place)
-    # Sonnet answers "Server is temporarily limiting requests (not your usage
-    # limit)" in bursts, even at 3 workers (2026-09-24: 43 of 50 calls in one
-    # run). It clears within minutes, so back off and retry instead of
-    # recording a None verdict. Any other failure is returned at once, with
-    # the CLI's own message kept for diagnosis.
-    for attempt in range(len(_RATE_LIMIT_BACKOFF) + 1):
-        try:
-            res = subprocess.run(
-                f'claude --print --dangerously-skip-permissions --no-session-persistence '
-                f'--tools Read --model {MODEL}',
-                input=prompt, capture_output=True, text=True, encoding="utf-8",
-                timeout=timeout, shell=True,
-            )
-        except subprocess.TimeoutExpired:
-            return None, None, "(cli timeout)", "", "", ""
-        if res.returncode == 0:
-            break
-        err = " ".join(((res.stdout or "") + " " + (res.stderr or "")).split())
-        if attempt < len(_RATE_LIMIT_BACKOFF) and _is_rate_limited(err):
-            time.sleep(_RATE_LIMIT_BACKOFF[attempt])
-            continue
-        return None, None, f"(cli exit {res.returncode}) {err[:160]}", "", "", ""
-    return parse_reply(res.stdout or "")
+    reply, error = vet_judge.judge(
+        build_prompt(ethnicity, country, current_af, title=title, desc=desc, place=place),
+        Path(image_path).read_bytes(), timeout=timeout)
+    if not reply:
+        return None, None, f"(cli) {error[:160]}", "", "", ""
+    return parse_reply(reply)
 
 
-def build_prompt(image_path, ethnicity: str, country: str, current_af: str,
+def build_prompt(ethnicity: str, country: str, current_af: str,
                  title: str = "", desc: str = "", place: str = "") -> str:
-    """The exact text the judge sees. Shared by the local CLI path and the
-    cloud batch export (scripts/export_vet_batch.py), so both judge alike."""
-    return PROMPT.format(
-        path=str(image_path), ethnicity=ethnicity, country=country,
-        current_af=current_af,
-        title=(title or "(none recorded)")[:200],
-        desc=(desc or "(none recorded)")[:600],
-        place=(place or "(none recorded)")[:120],
-    )
+    """The record text the judge sees next to the image. Shared by the local
+    path and the cloud batch export (scripts/export_vet_batch.py)."""
+    return vet_judge.build_record(ethnicity, country, current_af,
+                                  title=title, desc=desc, place=place)
 
 
 def parse_reply(out: str) -> tuple[bool | None, str | None, str, str, str, str]:

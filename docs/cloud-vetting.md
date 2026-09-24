@@ -2,14 +2,14 @@
 
 The full `--force` re-vet is ~4,600 Sonnet judgements (4,508 records without a current-prompt verdict on 2026-09-24), ~15 hours of wall time locally at the rate limit ([vetting.md](vetting.md)). This runs the heavy part — the judgements — in a Claude Code cloud session, so it spends cloud session credit instead of local subscription usage. Everything else stays local.
 
-The judge is the same as the local vetter's: the exact prompt from `vet_images.build_prompt`, the same model (`vet_images.MODEL`), the same parser (`vet_images.parse_reply`) and the same persistence (`vet_images.apply_verdict`). In the cloud, `scripts/cloud_vet_batch.py judge` runs one bare `claude --print` call per record with the image attached inline.
+The judge is the same as the local vetter's: both call `vet_judge.judge` (`scripts/vet_judge.py` — the prompt, the model and the CLI call), and verdicts go through the same parser (`vet_images.parse_reply`) and the same persistence (`vet_images.apply_verdict`). In the cloud, `scripts/cloud_vet_batch.py judge` runs that call once per record.
 
 ## Why this shape
 
 Measured or read from the docs on 2026-09-24:
 
 - The cloud session has a shell and the `claude` CLI (2.1.282 on 2026-09-24), so a plain script can call `claude --print` per record, as the local vetter does.
-- **What a call costs is almost all Claude Code overhead, not the vetting prompt.** The prompt is ~2.5k tokens and a 1024 px image ~1k; everything else is system prompt, tool definitions, and CLAUDE.md files. Measured per record:
+- **What a call costs was mostly Claude Code overhead, then the uncached prompt.** Measured per record:
 
   | Shape | Cost per record | Tokens per call | Measured by |
   |---|---|---|---|
@@ -19,16 +19,18 @@ Measured or read from the docs on 2026-09-24:
   | lean: `--system-prompt`, `--tools Read`, empty MCP | $0.18 | 24.8k, 2 turns | same |
   | image inline, `--tools ""` | $0.12 | 18.4k, 1 turn | same — the rest is the user-level `~/.claude/CLAUDE.md` |
   | **image inline, `--tools ""`, `--setting-sources local`** | **$0.035** | **4.1k, 1 turn** | same, 20 records |
-  | **the same, in the cloud (`judge`, batch b001)** | **$0.025** | — | cloud credit, $5 for 197 incl. the main session; the script reported $4.49 |
+  | the same, in the cloud (`judge`, batch b001) | $0.025 | — | cloud credit, $5 for 197 incl. the main session; the script reported $4.49 |
+  | long rules moved to the system prompt, cached | $0.0116 | 3,445 cached | CLI-reported, 117 records |
+  | **short rules (~3k chars) in the system prompt, cached — the current `vet_judge.judge`** | **$0.011** | **1,199 cached** | CLI-reported, 117 records (Pilot 3) |
 
-- There is no prompt-cache reuse between different records (0 cache reads across 3 consecutive different images): every call pays its full input once. A second call with the *same* image read 18k tokens from cache for $0.017, which says nothing about a real batch.
+- **The prompt cache only reuses a prefix that is identical across calls.** With the rules in the user message after the image, 3 consecutive different records read 0 tokens from cache. With the rules as the system prompt and the record + image as the user message, every call after the first reads the whole system prompt from cache. Once cached, the image and the record block (~350–1,500 tokens, written fresh each call) are most of the cost, so shortening the rules from ~10k to ~3k characters saved only ~7% more — the short prompt is kept because it judges as well ([vetting.md](vetting.md#short-cached-prompt--2026-09-24)).
 - Subagents launched from a cloud session run in the background even when asked to run in the foreground, so the main session wakes for every finished subagent and re-reads its whole context each time. That, and each subagent's own fixed context, is why both subagent shapes cost more than the bare call.
 - The cloud environment's default network policy is an allowlist that excludes the museum image hosts; the environment needs **Custom** network access with the domains below.
 - Sessions stop after a period of inactivity; no maximum length is documented. So work is split into batches of a few hundred records and committed as it goes.
 - Pushes go to `claude/`-prefixed branches only.
 - Routines draw ordinary subscription usage, not cloud session credit, so they are not used.
 
-`claude --print` inside a cloud session is billed to the cloud session credit, at the rate it reports: batch `b001` reported $4.49 for 197 calls and the credit went $226 → $221, with weekly plan usage unchanged (58%). A cloud call is cheaper than the same call locally ($0.023 vs $0.035) because the cloud has no user-level CLAUDE.md to strip.
+`claude --print` inside a cloud session is billed to the cloud session credit, at the rate it reports: batch `b001` reported $4.49 for 197 calls and the credit went $226 → $221, with weekly plan usage unchanged (58%). A cloud call was cheaper than the same call locally ($0.023 vs $0.035); why is not established — the user-level CLAUDE.md is already excluded by `--setting-sources local` in both.
 
 ## Flow
 
@@ -41,7 +43,7 @@ local:  git fetch + merge the branch
 local:  scripts/apply_vet_verdicts.py data/vet_verdicts/<batch>.jsonl  → library metadata.json
 ```
 
-A batch row carries the record id, a key (hash of metadata file + id — the same museum object can be filed under two ethnicities and each copy is judged separately), the rendered prompt and the image URLs: the R2 copy first when uploaded (same bytes as the local file), then the source museum. `work/` is gitignored scratch.
+A batch row carries the record id, a key (hash of metadata file + id — the same museum object can be filed under two ethnicities and each copy is judged separately), the record text for the user message (`prompt`) and the image URLs: the R2 copy first when uploaded (same bytes as the local file), then the source museum. `work/` is gitignored scratch.
 
 ```bash
 python scripts/export_vet_batch.py --name pilot --ids-file ids.json
@@ -53,7 +55,7 @@ python scripts/apply_vet_verdicts.py data/vet_verdicts/pilot.jsonl
 
 `--todo` selects records without a current-prompt verdict (`vision_image` unset). `apply_vet_verdicts.py` records download failures as `vision_vetted: None` with a note, so they are retried like local failures.
 
-`judge` replaces the prompt's first sentence ("Read the image at path …") with "The image is attached." and sends the image as a base64 content block over `--input-format stream-json`; the rest of the prompt is byte-identical to the local vetter's. It runs 3 workers, backs off on Sonnet's "temporarily limiting requests" bursts on the same schedule as `vet_images._ask_claude`, runs from a temporary directory so no project CLAUDE.md is discovered, and logs every raw result with `cost_usd` and `usage` to `work/judge_<batch>.jsonl`. Measured locally on 20 records: 36 s, $0.70 reported, 0 failures.
+`judge` calls `vet_judge.judge` per record: `claude --print --setting-sources local --tools "" --strict-mcp-config` with an empty MCP config, `--system-prompt-file` holding the fixed rules, and a stream-json user message with the record text and the image as a base64 block. It runs 3 workers, backs off on Sonnet's "temporarily limiting requests" bursts (30 → 300 s), runs from a temporary directory so no project CLAUDE.md is discovered, and logs every raw attempt with `cost_usd` and `usage` to `work/judge_<batch>.jsonl`. A batch exported before the prompt split (its `prompt` starts "Read the image at path") is refused; re-export it. Measured locally on 117 records: 160 s, $1.28 reported, 0 failures.
 
 ## Cloud environment
 
@@ -121,3 +123,7 @@ The bare `judge` call on 20 of these records (locally): BELONGS 20 / 20 vs pilot
 200 records without a current-prompt verdict (`--todo --seed 1`), judged by `judge` in cloud session `claude/brave-mccarthy-rv3ms3` (main model Sonnet 5, low effort). 197 judged, 0 failed judgements, 3 downloads failed on Wikimedia 429 even on a second `fetch` (recorded as retryable). ~9.5 min end to end. $5 of credit. 158 kept, 39 dropped.
 
 The drops, read: ethnonym collisions and out-of-scope pictures — a Cruikshank caricature under Khmer, a Tintoretto copy and a Carven fashion sketch under San, a ukiyo-e print under Maasai, an Ottoman costume album under Chin, placeholder icons, a newspaper front page, a Baroque siege etching under Afar, a modern museum building in Dushanbe, a tourist snapshot at an airport. One debatable: a Mughal-style album portrait dropped under Hazara. A random 14 of the keeps are all correct (Gur-e-Amir tilework, a Burmese court painting, Yoruba adire and strip cloth, a Kazakh felt, a Hmong appliqué, a Gelede mask); one category slip — Vietnamese lacquer boxes as `metalwork`.
+
+## Pilot 3 — 2026-09-24
+
+The 117 pilot records re-exported (`pilot3`) and run locally through the current `fetch` → `judge` → `collect`: the short system prompt, cached. 117 / 117 replies, 0 failures, 160 s, **$1.28** reported ($0.011 per record); every call after the first read 1,199 tokens from cache. Agreement: BELONGS 113 / 117 with the cloud pilot and 114 / 116 with local Sonnet; ART_FORM / IMAGE / ERA 86 / 88 / 85 of the 89 both runs keep; by-eye labels 57 / 60. Read in detail in [vetting.md](vetting.md#short-cached-prompt--2026-09-24). The verdicts in `data/vet_verdicts/pilot3.jsonl` are a measurement, not applied — the pilot's are.
