@@ -81,4 +81,22 @@ The prompt that starts a session is: *"Follow docs/cloud-vetting.md, section 'Pr
 
 Batch `pilot`: the 110 records already judged by eye in [vetting.md](vetting.md) (60 calibration + 50 random) — 117 rows, since 7 of those objects are filed under two ethnicities. Tested locally end to end before the cloud run: `fetch` 117/117 (after adding the per-host throttle; before it, Wikimedia returned 429 on 2), one Sonnet reply collected and parsed by `apply_vet_verdicts.py --dry-run`.
 
-What the pilot is to measure: agreement of cloud-subagent verdicts with the local Sonnet verdicts and with the by-eye labels; whether 10 records per subagent causes anchoring between records; wall time; and the credit spent, read from the claude.ai usage page before and after.
+Run in cloud session `claude/happy-mayer-amhm1a`, main model Sonnet 5, 15 subagents in 4 waves. Results, measured:
+
+| | |
+|---|---|
+| Records judged | 117 / 117, 0 unparsed replies (first fetch lost the 30 British Museum images to the TLS fault above; rerun after the fix) |
+| Verdicts | 90 kept, 27 dropped |
+| BELONGS vs local Sonnet | 110 / 116 agree |
+| ART_FORM / IMAGE / ERA vs local Sonnet | 108 / 109 / 104 of 116 — the same order of drift as local Sonnet against itself ([vetting.md](vetting.md)) |
+| BELONGS vs by-eye labels | 55 / 60; 2 of the 5 are labels made under the old rule that excluded excavated material (a Book of the Dead, a Ban Chiang jar), which the cloud now correctly keeps as `era: archaeological` |
+| Wall time | ~35 min including ~6 min diagnosing the TLS fault; a 5-subagent wave of 50 records took ~2 min |
+| Credit | **$9** ($250 → $241), ~$0.08 per record including the orchestrator and the debugging; weekly plan usage unchanged (56% before and after) |
+
+The six BELONGS disagreements with local Sonnet, read one by one: two where the cloud is right (a Shan zinme longyi and a Shan ikat both filed under Bamar → NO, while the same ikat under `_regional` Myanmar → YES), one where it is wrong (livestock in a field near Aksum kept as `photo`), and three borderline (a near-blank faded sketch dropped, a patola-style double ikat under Balinese dropped, an Ewe kente under Ashanti kept).
+
+Anchoring: one subagent wrote "the same red … longyi" for the second copy of an object filed under two ethnicities, so a worker does notice repeats inside its chunk. It still judged each copy against its own filing, and no disagreement clusters by chunk.
+
+Projection: at $0.08 per record the $241 left covers ~3,000 records, not the full ~4,600. Where the cost goes (orchestrator context at 148k tokens by the end, subagent context growing through a chunk of 10, image size) is not yet split out.
+
+Operational: the session opened in plan mode and waited for approval; accepting with "auto mode" let it run unattended afterwards.
