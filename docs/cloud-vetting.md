@@ -19,6 +19,7 @@ Measured or read from the docs on 2026-09-24:
   | lean: `--system-prompt`, `--tools Read`, empty MCP | $0.18 | 24.8k, 2 turns | same |
   | image inline, `--tools ""` | $0.12 | 18.4k, 1 turn | same — the rest is the user-level `~/.claude/CLAUDE.md` |
   | **image inline, `--tools ""`, `--setting-sources local`** | **$0.035** | **4.1k, 1 turn** | same, 20 records |
+  | **the same, in the cloud (`judge`, batch b001)** | **$0.025** | — | cloud credit, $5 for 197 incl. the main session; the script reported $4.49 |
 
 - There is no prompt-cache reuse between different records (0 cache reads across 3 consecutive different images): every call pays its full input once. A second call with the *same* image read 18k tokens from cache for $0.017, which says nothing about a real batch.
 - Subagents launched from a cloud session run in the background even when asked to run in the foreground, so the main session wakes for every finished subagent and re-reads its whole context each time. That, and each subagent's own fixed context, is why both subagent shapes cost more than the bare call.
@@ -27,7 +28,7 @@ Measured or read from the docs on 2026-09-24:
 - Pushes go to `claude/`-prefixed branches only.
 - Routines draw ordinary subscription usage, not cloud session credit, so they are not used.
 
-Whether `claude --print` inside a cloud session is billed to the cloud session credit at the rate it reports is **not yet measured**; the first `judge` batch settles it (credit before and after).
+`claude --print` inside a cloud session is billed to the cloud session credit, at the rate it reports: batch `b001` reported $4.49 for 197 calls and the credit went $226 → $221, with weekly plan usage unchanged (58%). A cloud call is cheaper than the same call locally ($0.023 vs $0.035) because the cloud has no user-level CLAUDE.md to strip.
 
 ## Flow
 
@@ -114,3 +115,9 @@ Anchoring: one subagent wrote "the same red … longyi" for the second copy of a
 The same 117 records, one subagent per record (a Read/Write-only Sonnet agent), images downscaled to 1024 px, main session on low effort, in cloud session `claude/exciting-heisenberg-pthl8k`. Credit **$15** ($241 → $226). Verdicts: BELONGS agrees with pilot on 114 / 117 and with local Sonnet on 110 / 116, IMAGE 110 / 116 — so **downscaling to 1024 px does not change the verdicts**; the cost went up, for the reasons under "Why this shape".
 
 The bare `judge` call on 20 of these records (locally): BELONGS 20 / 20 vs pilot, 19 / 20 vs local Sonnet (the Aksum livestock again), IMAGE 20 / 20, ERA 17 / 20.
+
+## Batch b001 — 2026-09-24
+
+200 records without a current-prompt verdict (`--todo --seed 1`), judged by `judge` in cloud session `claude/brave-mccarthy-rv3ms3` (main model Sonnet 5, low effort). 197 judged, 0 failed judgements, 3 downloads failed on Wikimedia 429 even on a second `fetch` (recorded as retryable). ~9.5 min end to end. $5 of credit. 158 kept, 39 dropped.
+
+The drops, read: ethnonym collisions and out-of-scope pictures — a Cruikshank caricature under Khmer, a Tintoretto copy and a Carven fashion sketch under San, a ukiyo-e print under Maasai, an Ottoman costume album under Chin, placeholder icons, a newspaper front page, a Baroque siege etching under Afar, a modern museum building in Dushanbe, a tourist snapshot at an airport. One debatable: a Mughal-style album portrait dropped under Hazara. A random 14 of the keeps are all correct (Gur-e-Amir tilework, a Burmese court painting, Yoruba adire and strip cloth, a Kazakh felt, a Hmong appliqué, a Gelede mask); one category slip — Vietnamese lacquer boxes as `metalwork`.
