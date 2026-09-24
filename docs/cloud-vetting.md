@@ -61,6 +61,8 @@ sgdap.girona.cat
 
 No environment variables, secrets or setup script: `cloud_vet_batch.py` is standard library only and every image URL is public. Wikimedia answers 429 at 6 parallel downloads, so `fetch` spaces requests to one host 1 s apart and backs off on 429.
 
+`media.britishmuseum.org` serves its certificate without the intermediate (Corporation Service Company RSA OV SSL CA). Browsers and Windows fetch it through AIA; Python in the cloud sandbox does not, and `crt.sectigo.com` is not reachable from there, so every British Museum download failed `CERTIFICATE_VERIFY_FAILED` in the pilot's first fetch (30 of 117). The intermediate is committed at `scripts/certs/extra-intermediates.pem` and added to the default trust store by `fetch`; verified 2026-09-24 against certifi's roots alone (fails without the file, downloads with it). Another host with the same fault gets its intermediate appended to that file.
+
 ## Procedure for the cloud session
 
 The prompt that starts a session is: *"Follow docs/cloud-vetting.md, section 'Procedure for the cloud session', for batch `<batch>`."* The session then does:
