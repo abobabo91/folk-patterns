@@ -20,7 +20,8 @@ for continuity only.
 Sonnet (Haiku missed every WEAK image) at the default 3 workers — more
 trips a server-side rate limit. `build_index.py` drops `vision_image ==
 "unusable"`, sinks weak images to the end of each gallery and exports
-`era`. Next: the full `--force` pass.
+`era`. Next: the full `--force` pass, judged in cloud sessions to spend cloud credit
+— procedure and pilot in [docs/cloud-vetting.md](docs/cloud-vetting.md).
 
 `scripts/vet_images.py` is the quality gate and it works — it looks at each
 image, decides whether it belongs under its ethnicity and category, and says

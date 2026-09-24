@@ -16,3 +16,7 @@ data/probes/
 # Kept on purpose: data/objects/ (3325 museum-metadata JSONs, ~17 MB) and
 # data/ethnicities/. Those are scrape output that costs museum API calls to
 # rebuild, so they belong in the repo even though they are generated.
+
+# Cloud vetting scratch: fetched images, rendered prompts, raw replies.
+# The durable output is data/vet_verdicts/.
+work/

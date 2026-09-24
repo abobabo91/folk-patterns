@@ -147,6 +147,7 @@ See [`docs/adding-a-region.md`](docs/adding-a-region.md).
 ## Docs
 
 - [`docs/vetting.md`](docs/vetting.md) — the quality gate: how it judges, why it's trusted, how to run it
+- [`docs/cloud-vetting.md`](docs/cloud-vetting.md) — running the vetting in a Claude Code cloud session: batch export, cloud procedure, applying verdicts
 - [`docs/architecture.md`](docs/architecture.md) — data flow, module boundaries
 - [`docs/schema.md`](docs/schema.md) — canonical record shape
 - [`docs/adding-a-region.md`](docs/adding-a-region.md) — new region playbook

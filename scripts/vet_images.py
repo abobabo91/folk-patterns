@@ -299,13 +299,8 @@ def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
     and persisted so every verdict is auditable after the fact — a bare
     boolean tells you nothing about WHY a record was dropped, and the whole
     point of an agentic filter is being able to read back its mistakes."""
-    prompt = PROMPT.format(
-        path=str(image_path), ethnicity=ethnicity, country=country,
-        current_af=current_af,
-        title=(title or "(none recorded)")[:200],
-        desc=(desc or "(none recorded)")[:600],
-        place=(place or "(none recorded)")[:120],
-    )
+    prompt = build_prompt(image_path, ethnicity, country, current_af,
+                          title=title, desc=desc, place=place)
     # Sonnet answers "Server is temporarily limiting requests (not your usage
     # limit)" in bursts, even at 3 workers (2026-09-24: 43 of 50 calls in one
     # run). It clears within minutes, so back off and retry instead of
@@ -328,8 +323,26 @@ def _ask_claude(image_path: Path, ethnicity: str, country: str, current_af: str,
             time.sleep(_RATE_LIMIT_BACKOFF[attempt])
             continue
         return None, None, f"(cli exit {res.returncode}) {err[:160]}", "", "", ""
-    out = (res.stdout or "").strip()
+    return parse_reply(res.stdout or "")
 
+
+def build_prompt(image_path, ethnicity: str, country: str, current_af: str,
+                 title: str = "", desc: str = "", place: str = "") -> str:
+    """The exact text the judge sees. Shared by the local CLI path and the
+    cloud batch export (scripts/export_vet_batch.py), so both judge alike."""
+    return PROMPT.format(
+        path=str(image_path), ethnicity=ethnicity, country=country,
+        current_af=current_af,
+        title=(title or "(none recorded)")[:200],
+        desc=(desc or "(none recorded)")[:600],
+        place=(place or "(none recorded)")[:120],
+    )
+
+
+def parse_reply(out: str) -> tuple[bool | None, str | None, str, str, str, str]:
+    """Parse a judge reply into (authentic, art_form, reason, confidence,
+    image, era). Shared by the local CLI path and scripts/apply_vet_verdicts.py."""
+    out = out.strip()
     authentic: bool | None = None
     art_form: str | None = None
     reason = ""
@@ -455,6 +468,22 @@ def _record_text(rec: dict) -> tuple[str, str, str]:
     return str(title), str(desc), str(place)
 
 
+def apply_verdict(cul: dict, result: dict, by: str) -> None:
+    """Write one verdict onto a record's `cultural` block. Shared by the local
+    run and scripts/apply_vet_verdicts.py, so a cloud verdict lands in exactly
+    the fields a local one does."""
+    auth = result.get("authentic")
+    af = result.get("art_form")
+    cul["vision_vetted"] = bool(auth) if auth is not None else None
+    cul["vision_by"] = by
+    cul["vision_reason"] = result.get("reason") or ""
+    cul["vision_confidence"] = result.get("confidence") or ""
+    cul["vision_image"] = result.get("image") or ""
+    cul["vision_era"] = result.get("era") or ""
+    if af and af in VALID_ART_FORMS and af != "unclassified":
+        cul["art_form_vision"] = af
+
+
 def _vet_library_record(meta_path: Path, rec: dict, tmp: Path):
     """Return (result_dict, meta_path, rec_id) — updates rec in-place is done by caller."""
     cul = rec.get("cultural") or {}
@@ -559,16 +588,8 @@ def _vet_library(workers: int, force: bool, only: str | None,
                         cul["vision_note"] = result["skip"]
                         mark = "?"
                     else:
+                        apply_verdict(cul, result, MODEL)
                         auth = result.get("authentic")
-                        af = result.get("art_form")
-                        cul["vision_vetted"] = bool(auth) if auth is not None else None
-                        cul["vision_by"] = MODEL
-                        cul["vision_reason"] = result.get("reason") or ""
-                        cul["vision_confidence"] = result.get("confidence") or ""
-                        cul["vision_image"] = result.get("image") or ""
-                        cul["vision_era"] = result.get("era") or ""
-                        if af and af in VALID_ART_FORMS and af != "unclassified":
-                            cul["art_form_vision"] = af
                         mark = "✓" if auth else ("✗" if auth is False else "?")
                     _src = (target.get("source") or {}).get("museum", "?")
                     tally[(_src, mark)] += 1
