@@ -59,23 +59,22 @@ sgdap.girona.cat
 <the R2 public bucket host — public_base_url in the vault>
 ```
 
-No environment variables, secrets or setup script: `cloud_vet_batch.py` is standard library only and every image URL is public. Wikimedia answers 429 at 6 parallel downloads, so `fetch` spaces requests to one host 1 s apart and backs off on 429.
+No environment variables, secrets or setup script: `cloud_vet_batch.py` is standard library only (Pillow, installed with pip in the session, adds downscaling) and every image URL is public. The "default list of common package managers" option is on, so `pip` works. Wikimedia answers 429 at 6 parallel downloads, so `fetch` spaces requests to one host 1 s apart and backs off on 429.
 
 `media.britishmuseum.org` serves its certificate without the intermediate (Corporation Service Company RSA OV SSL CA). Browsers and Windows fetch it through AIA; Python in the cloud sandbox does not, and `crt.sectigo.com` is not reachable from there, so every British Museum download failed `CERTIFICATE_VERIFY_FAILED` in the pilot's first fetch (30 of 117). The intermediate is committed at `scripts/certs/extra-intermediates.pem` and added to the default trust store by `fetch`; verified 2026-09-24 against certifi's roots alone (fails without the file, downloads with it). Another host with the same fault gets its intermediate appended to that file.
 
 ## Procedure for the cloud session
 
-The prompt that starts a session is: *"Follow docs/cloud-vetting.md, section 'Procedure for the cloud session', for batch `<batch>`."* The session then does:
+Start the session with the main model on the lowest effort — it only runs scripts and launches subagents. The prompt is: *"Follow docs/cloud-vetting.md, section 'Procedure for the cloud session', for batch `<batch>`."* The session then does:
 
-1. `python scripts/cloud_vet_batch.py fetch <batch>` — report the fetched count and any failures.
+1. `pip install pillow` (so `fetch` downscales to 1024 px), then `python scripts/cloud_vet_batch.py fetch <batch>` — report the fetched count and any failures.
 2. `python scripts/cloud_vet_batch.py status <batch>` — writes `work/pending_<batch>.txt`, one key per line.
-3. Split the pending keys into chunks of 10. Launch subagents with **model `sonnet`**, up to 5 at a time, one chunk each, with exactly this instruction (keys filled in):
-
-   > You are one worker in an image-vetting job. For EACH key below, in order: (1) Read `work/prompts/<key>.txt`. (2) Do exactly what that prompt says — it tells you to look at the image `work/img/<key>.jpg`; Read it. (3) Write your answer, and nothing else, in the prompt's exact six-line format (REASON / BELONGS / ART_FORM / IMAGE / ERA / CONFIDENCE) to `work/replies/<key>.txt` with the Write tool. Judge every record on its own; an earlier record must not influence a later one. Do not edit any other file. Keys: `<key1> … <key10>`
-
-4. After every wave of subagents: `python scripts/cloud_vet_batch.py collect <batch>`, then `git add data/vet_verdicts/<batch>.jsonl`, commit and push to the session's `claude/` branch.
+3. Take the next 10 pending keys. In **one** message, launch 10 subagents of type **`image-vetter`** ([.claude/agents/image-vetter.md](../.claude/agents/image-vetter.md): Sonnet, Read and Write only), **in the foreground** (`run_in_background: false`), one key each, with the prompt being just the key. They run in parallel and return together, so the main session wakes once per wave, not once per record. Each replies `done`; do not read or restate verdicts.
+4. After every 3 waves: `python scripts/cloud_vet_batch.py collect <batch>`, then `git add data/vet_verdicts/<batch>.jsonl`, commit and push to the session's `claude/` branch.
 5. Repeat 2–4 until `status` reports 0 pending with an image. Do not judge any record yourself — only subagents judge, so every verdict comes from the same instruction.
 6. Finish with a final `collect`, commit and push, and report: records, replies, download failures, and the branch name.
+
+One record per subagent: a subagent that judges several records carries all earlier ones in its context and pays for them again on every step.
 
 ## Pilot — 2026-09-24
 

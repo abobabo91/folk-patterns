@@ -1,5 +1,6 @@
 """Cloud-side helper for a vetting batch. Standard library only, so a cloud
-session runs it with no setup script.
+session runs it with no setup script; with Pillow installed, `fetch` also
+downscales images to MAX_EDGE px.
 
     python scripts/cloud_vet_batch.py fetch   pilot   # images + prompts into work/
     python scripts/cloud_vet_batch.py status  pilot   # fetched / answered / pending
@@ -33,6 +34,7 @@ MAGIC = (b"\xff\xd8\xff", b"\x89PNG", b"GIF8", b"RIFF")
 # Wikimedia answers 429 at 6 parallel downloads (measured 2026-09-24), so
 # requests to one host are spaced out; different hosts still run in parallel.
 HOST_INTERVAL = 1.0
+MAX_EDGE = 1024
 # media.britishmuseum.org serves its leaf certificate without the intermediate
 # (measured 2026-09-24). Browsers fetch it via AIA; Python does not, and the
 # cloud sandbox cannot reach crt.sectigo.com. So the missing intermediates ship
@@ -55,6 +57,27 @@ def _wait_for_host(url: str) -> None:
         _host_last[host] = time.time()
 
 
+def _downscale(data: bytes) -> bytes:
+    """Shrink to MAX_EDGE on the long side: image tokens scale with pixel
+    area. Pillow is optional (`pip install pillow` in the session); without
+    it the original bytes are kept."""
+    try:
+        import io
+        from PIL import Image
+    except ImportError:
+        return data
+    try:
+        im = Image.open(io.BytesIO(data))
+        if max(im.size) <= MAX_EDGE:
+            return data
+        im.thumbnail((MAX_EDGE, MAX_EDGE))
+        out = io.BytesIO()
+        im.convert("RGB").save(out, "JPEG", quality=85)
+        return out.getvalue()
+    except Exception:  # an image Pillow cannot decode is judged as downloaded
+        return data
+
+
 def _rows(name: str) -> list[dict]:
     p = ROOT / "data" / "vet_batches" / f"{name}.jsonl"
     return [json.loads(l) for l in p.read_text(encoding="utf-8").splitlines() if l.strip()]
@@ -75,7 +98,7 @@ def _fetch_one(row: dict) -> tuple[str, str]:
                 with urllib.request.urlopen(req, timeout=60, context=SSL_CTX) as r:
                     data = r.read()
                 if len(data) > 1000 and data.startswith(MAGIC):
-                    dst.write_bytes(data)
+                    dst.write_bytes(_downscale(data))
                     return row["key"], "ok"
                 last = f"not-an-image ({len(data)} bytes) from {url[:80]}"
                 break
