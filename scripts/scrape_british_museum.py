@@ -30,6 +30,8 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("region", nargs="?")
     ap.add_argument("--only", help="Only run for this ethnicity")
+    ap.add_argument("--max-total", type=int, default=60,
+                    help="New records to save per culture (objects already in the library are skipped)")
     args = ap.parse_args()
 
     from _only_match import matches as _only_matches
@@ -71,7 +73,10 @@ def main() -> None:
                 try:
                     n = british_museum.scrape_ethnicity(
                         client, region, country, ethnicity, queries,
-                        max_per_query=100, max_total=60,
+                        max_per_query=100, max_total=args.max_total,
+                        # BM's own name for the people when it differs from
+                        # ours ("Asante" for Ashanti) — docs/museums.md.
+                        ethnic_name=eth.get("bm_ethnic_name"),
                         accept_tokens=accept_tokens,
                         tradition_tokens=tradition_tokens,
                     )

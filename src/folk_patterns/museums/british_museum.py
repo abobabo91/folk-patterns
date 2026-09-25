@@ -84,10 +84,12 @@ def _clean_title(t: str) -> str:
     return t.split(" | ")[0].strip()
 
 
-def search_ids(client, query: str | None, page: int = 1,
+def search_ids(client, query: str | None, page: int = 0,
                ethnic_name: str | None = None) -> list[str]:
     """Return unique object IDs from one search page (~100 per page)."""
-    params = {"page": page}
+    # image=true is the site's "Image only" toggle: objects without a photo
+    # are useless to us and cost a detail fetch each (San: 304 of 383).
+    params = {"page": page, "image": "true"}
     if query:
         params["keyword"] = query
     if ethnic_name:
@@ -120,6 +122,27 @@ def fetch_detail(client, unique_id: str) -> dict | None:
         "description": desc_m.group(1) if desc_m else "",
         "image_url": img_m.group(1).replace("http://", "https://"),
     }
+
+
+_LIBRARY_IDS: set[str] | None = None
+
+
+def _in_library(unique_id: str) -> bool:
+    """True when this BM object is already a record anywhere in the library.
+    append_metadata REPLACES a same-id record, so re-saving one would wipe its
+    vetting verdict and re-attribution and spend the per-culture cap on an
+    object we already have."""
+    global _LIBRARY_IDS
+    if _LIBRARY_IDS is None:
+        _LIBRARY_IDS = set()
+        for mp in LIBRARY_DIR.glob("*/*/*/*/*/metadata.json"):
+            try:
+                for r in json.loads(mp.read_text(encoding="utf-8")):
+                    if isinstance(r.get("id"), str) and r["id"].startswith("british_museum-"):
+                        _LIBRARY_IDS.add(r["id"])
+            except Exception:
+                continue
+    return f"british_museum-{unique_id}" in _LIBRARY_IDS
 
 
 def _to_canonical(unique_id: str, detail: dict, cultural: dict) -> dict | None:
@@ -186,7 +209,7 @@ def scrape_ethnicity(
     # BM's own ethnic attribution first; keyword search only when it has none.
     facet = (ethnic_name or ethnicity.split(" (")[0]).strip()
     facet_ids: list[str] = []
-    for page in range(1, 10):
+    for page in range(0, 40):   # BM pages are 0-based: page=0 is the first
         try:
             ids = search_ids(client, None, page=page, ethnic_name=facet)
         except Exception as e:
@@ -213,14 +236,20 @@ def scrape_ethnicity(
     else:
         search_data = {"ids": [], "details": {}}
 
-    if use_facet and not search_data.get("ids"):
-        search_data = {"ids": facet_ids, "details": {}}
+    if use_facet:
+        # The facet listing is cheap and changes; detail pages are cached.
+        # BM lists by object name, so a capped run would take only the A-B
+        # object types ("adze", "amulet"); a fixed-seed shuffle spreads it.
+        import random
+        search_data["ids"] = sorted(facet_ids)
+        random.Random(0).shuffle(search_data["ids"])
+        search_data.setdefault("details", {})
     if not search_data.get("ids"):
         all_ids: list[str] = []
         seen: set[str] = set()
         for q in queries:
             try:
-                ids = search_ids(client, q, page=1)
+                ids = search_ids(client, q, page=0)
             except Exception as e:
                 print(f"  ! bm search {q!r} failed: {e}", flush=True)
                 continue
@@ -242,6 +271,8 @@ def scrape_ethnicity(
     for uid in search_data["ids"]:
         if saved >= max_total:
             break
+        if _in_library(uid):
+            continue
 
         # Detail cache to avoid re-fetching
         detail = search_data["details"].get(uid)
@@ -302,6 +333,8 @@ def scrape_ethnicity(
             print(f"  ! bm {uid} img download failed: {e}", flush=True)
             continue
         append_metadata(dest, rec)
+        if _LIBRARY_IDS is not None:
+            _LIBRARY_IDS.add(rec["id"])
         saved += 1
 
     # Save final cache
