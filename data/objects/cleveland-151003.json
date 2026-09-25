@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
-    "pattern_density": 1,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a gilt-and-dark bronze standing goddess/royal-woman figure with a tiered crown, jewelry, bare torso and a striated sampot-style skirt — classic Angkorian Khmer bronze casting technique and iconography. This is squarely Khmer temple/court art.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "sculpture",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Royal Female Figure",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/khmer/images/cle_151003.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_151003.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bf40286b3de6b0991ac448626d06e27b695cd4887fe4b9e4c722306b1a91d337",
       "bytes": 243870,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\khmer\\images\\cle_151003.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_151003.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.875732+00:00"
+  "processed_at": "2026-07-28T11:57:41.329186+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "parang",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "Hand-drawn batik textile fragment with dark indigo ground and cream parang-like/organic scrolling motifs, consistent with traditional Javanese batik tulis.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Textile",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/parang/images/si_chndm_1945-56-3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/si_chndm_1945-56-3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "697f84116016853ed98ca4156a2e0e483c3b9ffb5b1931e69fbcaccf6111e13c",
       "bytes": 1932175,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\parang\\images\\si_chndm_1945-56-3.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\si_chndm_1945-56-3.jpg"
     }
   ],
   "map": {

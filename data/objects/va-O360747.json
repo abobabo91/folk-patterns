@@ -13,15 +13,19 @@
     "accession_year": 1927
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "suzani",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A large embroidered cotton suzani with classic floral medallion and vine-border design, a traditional Uzbek embroidered textile form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

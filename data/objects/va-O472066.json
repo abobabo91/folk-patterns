@@ -17,11 +17,15 @@
     "country": "Malaysia",
     "ethnicity": "Malay",
     "tradition": "songket Malay",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A pair of songket silk trousers with gold thread brocade, a traditional garment form worn in Indonesia (e.g., Palembang/Malay court dress); consistent with the regional Indonesian claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -423,31 +427,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/unclassified/songket-malay/images/va_O472066.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/garment/songket-malay/images/va_O472066.jpg",
       "iiif_id": "2020MN6661",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN6661/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f9f258f2ad77dff26dc6ac47d2ed717f3318e9a6713bb13d7e0c7ec7b4264fb3",
       "bytes": 285145,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\unclassified\\songket-malay\\images\\va_O472066.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\garment\\songket-malay\\images\\va_O472066.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/unclassified/songket-malay/images/va_O472066_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/garment/songket-malay/images/va_O472066_1.jpg",
       "iiif_id": "2018LH0653",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LH0653/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "23706e8663a1c9704a6878ab4c73c2e6a9d1b3a36bb2723f8c45115cdd1d0407",
       "bytes": 435983,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\unclassified\\songket-malay\\images\\va_O472066_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\garment\\songket-malay\\images\\va_O472066_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/unclassified/songket-malay/images/va_O472066_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/garment/songket-malay/images/va_O472066_2.jpg",
       "iiif_id": "2018LH0655",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LH0655/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fd313dcfe561a95457938d63286053f82aeeac36f6e4a97223701740ffd187b8",
       "bytes": 335766,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\unclassified\\songket-malay\\images\\va_O472066_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\garment\\songket-malay\\images\\va_O472066_2.jpg"
     }
   ],
   "map": {

@@ -16,11 +16,16 @@
     "region": "southeast-asia",
     "country": "Vietnam",
     "ethnicity": "Hmong",
-    "tradition": "Hmong embroidery",
-    "art_form": "textile",
+    "tradition": "Hmong applique",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "Handwoven cotton jacket with brocaded, embroidered, and appliqué geometric patterning consistent with Shan textile traditions of Myanmar; garment is worn, not flat cloth.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -465,13 +470,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/hmong-embroidery/images/va_O100677.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/textile/hmong-applique/images/va_O100677.jpg",
       "iiif_id": "2021MY0643",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MY0643/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "01df3e9c522dc6e3eb2ab684581384039e115435ba8421ec19f20c32ab770542",
       "bytes": 216834,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\hmong-embroidery\\images\\va_O100677.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\textile\\hmong-applique\\images\\va_O100677.jpg"
     }
   ],
   "map": {
@@ -479,5 +484,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:29:01.187871+00:00"
+  "processed_at": "2026-07-18T11:29:05.764271+00:00"
 }

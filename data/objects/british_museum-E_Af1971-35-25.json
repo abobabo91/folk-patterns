@@ -18,7 +18,14 @@
     "ethnicity": "Yoruba",
     "tradition": "Yoruba",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an indigo adire cloth (starch-resist dyed cotton) with repeating stencilled motifs of figures, umbrellas, and a crowned king plus signed producer text — a classic Yoruba textile tradition, though the category is mislabeled as \"sculpture\" rather than textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "adire",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/yoruba/textile/yoruba/images/bm_E_Af1971-35-25.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/yoruba/sculpture/yoruba/images/bm_E_Af1971-35-25.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6bd92d78eb6b89739c0dd97804530b2940d0201f998f598295ccfddcdf99aeee",
       "bytes": 92513,
-      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba\\images\\bm_E_Af1971-35-25.jpg"
+      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\yoruba\\images\\bm_E_Af1971-35-25.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:55:39.083201+00:00"
+  "processed_at": "2026-07-28T19:24:42.980947+00:00"
 }

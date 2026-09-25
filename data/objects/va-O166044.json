@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a knotted-pile Turkmen (Central Asian) bagface fragment with classic gul motifs (octagonal guls in repeating rows and elem border with cross-in-diamond motifs), consistent with a regional Central Asian weaving tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -81,13 +85,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O166044.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O166044.jpg",
       "iiif_id": "2013GB4185",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2013GB4185/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "2e5addd6b0146482c6a47036026a66e4ea29283148ec23568916f2e82605d2c2",
       "bytes": 400029,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O166044.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O166044.jpg"
     }
   ],
   "map": {
@@ -95,5 +99,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:31:20.692524+00:00"
+  "processed_at": "2026-07-18T06:28:04.894892+00:00"
 }

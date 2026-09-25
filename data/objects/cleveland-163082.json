@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a raffia cloth overskirt with the characteristic geometric interlocking-diamond and hook motifs typical of Kuba embroidered raffia textiles, matching the claimed Kuba origin and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Woman's overskirt (ncaka)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:50.893063+00:00"
+  "processed_at": "2026-07-28T18:41:32.987858+00:00"
 }

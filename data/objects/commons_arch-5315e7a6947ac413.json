@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "Rumah Bolon",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows a traditional Batak rumah bolon (saddle-roofed traditional house) with carved wooden pillars and decorative gable patterns in Simalungun, North Sumatra, matching the claimed Batak ethnicity and architectural category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Cagar Budaya dan Wisata Sumatra Utara 14.jpg",

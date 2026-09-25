@@ -18,10 +18,14 @@
     "ethnicity": "Uzbek",
     "tradition": "ikat",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a length of ikat-patterned silk textile with heart and hamsa motifs typical of Central Asian (Uzbek/Bukhara-region) ikat weaving, consistent with the regional attribution; it is not jewelry as claimed, but that miscategorization doesn't affect ethnicity fit.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -627,13 +631,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ikat/images/va_O143553.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ikat/images/va_O143553.jpg",
       "iiif_id": "2007BM4956",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM4956/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "7b4a29245f51ca2a8550d1cb4e9624a109b9de5bf8c2e9960d804dfd519027fc",
       "bytes": 150788,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ikat\\images\\va_O143553.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ikat\\images\\va_O143553.jpg"
     }
   ],
   "map": {

@@ -14,13 +14,17 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Thailand",
-    "ethnicity": "Thai",
-    "tradition": "Thai",
+    "country": "Cambodia",
+    "ethnicity": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "ceramic",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The jar is a documented Khmer brown-glazed stoneware vessel from the Angkor Wat/Bayon period, made in kilns within the Khmer cultural sphere—an object made and used by Khmer people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/ceramic/thai/images/cle_151300.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/ceramic/cambodian/images/cle_151300.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e50544bccd72d8aa64ef74161618e3a57c872667ad94e833952e3e65b7185ba8",
       "bytes": 161160,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\ceramic\\thai\\images\\cle_151300.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\ceramic\\cambodian\\images\\cle_151300.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:05.706112+00:00"
+  "processed_at": "2026-07-28T11:57:39.313490+00:00"
 }

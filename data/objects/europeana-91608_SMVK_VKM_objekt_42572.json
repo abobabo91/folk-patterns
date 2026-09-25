@@ -18,7 +18,14 @@
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A woven rattan/cane rat trap collected in Angola during the Bolinder expedition; conical woven traps like this are plausible household items for peoples of that region, and Chokwe territory extends into eastern Angola.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "råttfälla",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/unclassified/chokwe/images/eu_91608_SMVK_VKM_objekt_42572.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/household/chokwe/images/eu_91608_SMVK_VKM_objekt_42572.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ddf748d8829460ebfdfe06829eaabdd5b07fca2f606dd73af0c0759174b0ed68",
       "bytes": 7796,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42572.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42572.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:17.064220+00:00"
+  "processed_at": "2026-07-28T18:47:07.057975+00:00"
 }

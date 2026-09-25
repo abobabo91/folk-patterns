@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Yomud gul",
+    "tradition": "gul motif",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a knotted-pile woven bag face (Yomud/Turkmen Central Asian tribal weaving) with a gul-patterned field and plain tabby-woven back, not metalwork at all — but as a regional Central Asian textile it plausibly belongs to the claimed regional/ethnic grouping.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -100,22 +104,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O169086.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/gul-motif/images/va_O169086.jpg",
       "iiif_id": "2017KA1351",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1351/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "0b02088b6e12fdacc3d83b4807267f7510f7fab4f85f6a24755f045ba94f6599",
       "bytes": 141843,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O169086.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O169086.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O169086_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/gul-motif/images/va_O169086_1.jpg",
       "iiif_id": "2017KA1313",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1313/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "9245872ebf59f6b126c32cc95543fdc3be1d9bb4bb7c023ea55565be00d8e61e",
       "bytes": 134377,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O169086_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O169086_1.jpg"
     }
   ],
   "map": {
@@ -123,5 +127,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:32:25.712415+00:00"
+  "processed_at": "2026-07-18T06:30:29.155248+00:00"
 }

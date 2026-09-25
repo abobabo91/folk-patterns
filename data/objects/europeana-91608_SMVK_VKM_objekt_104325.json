@@ -17,10 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "\"Kinh\" Vietnam",
-    "art_form": "ceramic",
+    "art_form": "household",
     "pattern_density": 1,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a woven bamboo/rattan basket from Vinh Phu province, Vietnam, plausible household craft of the Kinh people, though it is a basket rather than ceramic.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "household",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "korg, basket",
@@ -63,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/unclassified/kinh-vietnam/images/eu_91608_SMVK_VKM_objekt_104325.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/ceramic/kinh-vietnam/images/eu_91608_SMVK_VKM_objekt_104325.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4465e696bd19c79e8fa7c9ed1d121cff2ac58d34e4b6d03d6278a8ea344735d8",
       "bytes": 14338,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\unclassified\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104325.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\kinh\\ceramic\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104325.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:34:20.269131+00:00"
+  "processed_at": "2026-07-28T18:44:25.783085+00:00"
 }

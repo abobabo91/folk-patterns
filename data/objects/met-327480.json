@@ -13,12 +13,19 @@
     "accession_year": "1992"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "metalwork",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a lobed silver bowl with engraved bird and rosette medallions, a metal vessel rather than ceramic (as the record claims), but plausible as Persian/Central Asian metalwork consistent with the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Lobed bowl",
@@ -66,31 +73,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_327480.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_327480.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4eaf2875a24ba8371285965fa599ac462f8c272a5928e5e2fe291a1c915ebc6e",
       "bytes": 4156245,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_327480.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_327480.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_327480_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_327480_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "0177d6ce108a330ebcf6ac8ef51abe5e7c5ea8dc45da2ff30cd54c83a9cd401c",
       "bytes": 56039,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_327480_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_327480_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_327480_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_327480_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "5920b8d66c4416813bdd3486c6ebd20ace6fd944fe0294462dc8c1544b323366",
       "bytes": 6098614,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_327480_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_327480_2.jpg"
     }
   ],
   "map": {

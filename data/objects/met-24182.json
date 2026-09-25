@@ -13,12 +13,19 @@
     "accession_year": "1936"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a segmented lacquered-metal cuirass (body armor) with gilt calligraphic cartouches typical of Safavid/Qajar Persian arms, consistent with the claimed Persian ethnicity and origin.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Cuirass",
@@ -70,76 +77,76 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "093610a461858d0d100696fd22a0d78007a0ec67f2880f435bc4f58a0f67932d",
       "bytes": 3137336,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "dedc17604863dba32395e64f9f2281e16a3d5cf23940f8bdc86d8fa70b90c6dc",
       "bytes": 3188031,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "5361455b0936ce4928d4ce8ce60e08280d0868177cdfe893d6d6b54703d8546d",
       "bytes": 3047265,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "28ca384fb7be9c81648205280879a078030b5617b53ec9f67f3e6b3213627641",
       "bytes": 3665759,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "a0138d9725a8ae8f2def5f65371be5212b2e2d9f1999a90445ab0ae73b6c4534",
       "bytes": 5244916,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182_5.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "c94a5810de9581a4d673dfed275f3ea2ef30c84b9264e211f4edbb3e16b821e6",
       "bytes": 3475703,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182_5.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182_6.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "abfb16c19213aa938f30cbb5a4cc32e25ccae6884d22d1351dc82163f0a28e25",
       "bytes": 2843198,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182_6.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_6.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_24182_7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_24182_7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "60e67ff5ef974f26d192142f623049266945fa1658178f073fbd58103458bfa4",
       "bytes": 2920759,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_24182_7.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_7.jpg"
     }
   ],
   "map": {

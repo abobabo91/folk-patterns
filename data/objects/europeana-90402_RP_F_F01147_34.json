@@ -18,7 +18,14 @@
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photograph shows a small settlement of traditional beehive-shaped huts on a grassy hillside with two figures standing outside, documenting Xhosa dwellings and daily life near the Witwatersrand — consistent with the claimed ethnicity as a documentary photo.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Twee Xhosa voor hun woningen aan de voet van de Witwatersrandheuvels",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "ff21ce3f9ed903fb4379088b69df01dd59975c473c21593bc0f58f82f65306ea",
       "bytes": 11012,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\unclassified\\xhosa\\images\\eu_90402_RP_F_F01147_34.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\unclassified\\xhosa\\images\\eu_90402_RP_F_F01147_34.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:06.295224+00:00"
+  "processed_at": "2026-07-28T18:47:37.006250+00:00"
 }

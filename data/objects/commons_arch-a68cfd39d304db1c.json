@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Persepolis",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the excavated ruins of the Apadana Palace (Achaemenid Persian site), scattered stone remains in a grassy field — archaeological remnants of a Persian imperial building, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Apadana4.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/persepolis/images/carch_a68cfd39d304db1c.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/photo/persepolis/images/carch_a68cfd39d304db1c.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e4dcac715fe8e7df1e7a96ffe8165b4d0d2e1cd1e8f2d0a7d24a73aa3ba66c3d",
       "bytes": 228358,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\persepolis\\images\\carch_a68cfd39d304db1c.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\photo\\persepolis\\images\\carch_a68cfd39d304db1c.jpg"
     }
   ],
   "map": {

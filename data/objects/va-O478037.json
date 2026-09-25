@@ -13,14 +13,19 @@
     "accession_year": 1970
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "piña",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a piña (pineapple fiber) cloth stole with brocaded designs of nipa huts, palm trees, and carabao/animals — classic Filipino traditional motifs and textile technique associated with the Philippines, with location on file in Manila.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -117,13 +122,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O478037.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/va_O478037.jpg",
       "iiif_id": "2020MP8085",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8085/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "4ff41fc045b32790f98baca5b21cf8bc7789876cd4d163aa2c26e2cf29742347",
       "bytes": 194785,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O478037.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478037.jpg"
     }
   ],
   "map": {

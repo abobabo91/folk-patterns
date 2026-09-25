@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Zulu",
     "tradition": "Zulu",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a tightly coiled basketry lid with a small woven loop handle at center, used to cover Zulu beer pots — a clear, well-lit household object consistent with Zulu craft traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "Pot Lid",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:06:49.147376+00:00"
+  "processed_at": "2026-07-28T18:41:33.822478+00:00"
 }

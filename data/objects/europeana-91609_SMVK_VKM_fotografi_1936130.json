@@ -18,7 +18,14 @@
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary photograph of a Maasai warrior with headdress, shield, and spear on the Kilimanjaro steppe, taken during a 1905-1906 expedition — this is a genuine ethnographic photo of the claimed people, though it is a photo, not painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "man, fotografi, photograph",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/unclassified/maasai-kenya/images/eu_91609_SMVK_VKM_fotografi_1936130.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/painting-mss/maasai-kenya/images/eu_91609_SMVK_VKM_fotografi_1936130.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9594ab8c32ab768bd0702c1723a2e27c151c9d898e0f7efd89fd9402d0b1a177",
       "bytes": 24270,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91609_SMVK_VKM_fotografi_1936130.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\painting-mss\\maasai-kenya\\images\\eu_91609_SMVK_VKM_fotografi_1936130.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:55:04.814053+00:00"
+  "processed_at": "2026-07-28T18:46:13.665929+00:00"
 }

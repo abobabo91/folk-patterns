@@ -13,12 +13,19 @@
     "accession_year": "1955"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Persian manuscript painting from a Zafarnama (Book of Victory) depicting Timur's conquest of Baghdad, made in Shiraz, Iran — a classic example of the living Persian miniature painting tradition with Persian calligraphy text.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "\"Conquest of Baghdad by Timur\", Folio from a Zafarnama (Book of Victory)",
@@ -78,31 +85,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451304.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451304.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e41c85bb9c0b7eac043f2e989f74d77b68428a9c6c16331886c7d7a586482f18",
       "bytes": 2297923,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451304.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451304.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451304_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451304_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d834479d8187a4ce94543f85bc985590992f8452147ee92f721b8b860a144b88",
       "bytes": 183979,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451304_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451304_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451304_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451304_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "a2c48db6d156a8d1434b4aff3f2fe5438ec1d3d525c649d09f9ec722f9c96aea",
       "bytes": 198005,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451304_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451304_2.jpg"
     }
   ],
   "map": {

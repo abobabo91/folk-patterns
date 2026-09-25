@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Balinese",
-    "art_form": "garment",
+    "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photo shows Balinese dancers in elaborate traditional headdresses and costume performing at an exhibition opening — this is documentary photography of Balinese dress/performance, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Zijne Excellentie Sharif Padmadisastra tentoonstelling Bali geopend, tijdens de opening trad een groep Balinese dansers op",
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:17.447103+00:00"
+  "processed_at": "2026-07-28T18:43:04.878950+00:00"
 }

@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photo of Balinese dancers in traditional costume and headdress performing for tourists in front of a temple gateway, a documentary scene of Balinese dress and dance culture despite the tourist photographers in frame.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "cb276d976cf8eb839fe53764dcfd88ec79551a3678cc0e2497f8a99593aee7b8",
       "bytes": 28897,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_8ab7ed7a_cbdf_d1f6_4597_1debbfbf56de.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_8ab7ed7a_cbdf_d1f6_4597_1debbfbf56de.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:14.832134+00:00"
+  "processed_at": "2026-07-28T18:43:02.500016+00:00"
 }

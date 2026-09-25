@@ -17,8 +17,15 @@
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "Ayutthaya Historical Park",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a Buddhist temple complex in Ayutthaya, Thailand, with a classic Thai chedi and traditional multi-tiered roof architecture, consistent with Thai ethnic/cultural material.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Ayuddhaya - panoramio.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/architectural/ayutthaya-historical-park/images/carch_ad91dc652355d31f.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/photo/ayutthaya-historical-park/images/carch_ad91dc652355d31f.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3dcb2cae081a0bd408cb7ddc5d7afb194b55a453eddf39942f6075560d0f17b8",
       "bytes": 270551,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\architectural\\ayutthaya-historical-park\\images\\carch_ad91dc652355d31f.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\photo\\ayutthaya-historical-park\\images\\carch_ad91dc652355d31f.jpg"
     }
   ],
   "map": {

@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Iznik tile",
-    "art_form": "architectural",
-    "pattern_density": 2
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A pair of Iznik fritware spandrel tiles with classic Ottoman floral motifs (rosettes, tulips, saz leaves), a quintessential Turkish craft made in the Ottoman heartland; though ceramic/architectural rather than \"sculpture,\" it clearly belongs to Turkish material culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": null,
@@ -484,22 +491,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/architectural/iznik-tile/images/va_O100771.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/sculpture/iznik-tile/images/va_O100771.jpg",
       "iiif_id": "2006AF4175",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF4175/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5036513b186fa3bd400ede5b04cafb3fbc15179a60948a8ac795fc14c1490026",
       "bytes": 169094,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\architectural\\iznik-tile\\images\\va_O100771.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\sculpture\\iznik-tile\\images\\va_O100771.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/architectural/iznik-tile/images/va_O100771_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/sculpture/iznik-tile/images/va_O100771_1.jpg",
       "iiif_id": "2006AF8434",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF8434/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fc5fbb8a087e604924e41bebd8525aacb55eed694244cd75cc14c438584a393d",
       "bytes": 70873,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\architectural\\iznik-tile\\images\\va_O100771_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\sculpture\\iznik-tile\\images\\va_O100771_1.jpg"
     }
   ],
   "map": {

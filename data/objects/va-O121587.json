@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a Turkmen-type asymmetrical-knot wool bag face with rows of quartered guls on a red ground, a classic Central Asian tribal weaving consistent with the \"_regional\" (Central Asian) attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -100,31 +104,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121587.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121587.jpg",
       "iiif_id": "2017JY9403",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JY9403/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "ce7166b5d301e7aa9cc8f885acad4b811e35989497e209c4ab77a9fa85c5e6a8",
       "bytes": 215425,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121587.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121587.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121587_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121587_1.jpg",
       "iiif_id": "2013GB4186",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2013GB4186/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "bb6e3dc57df6fef36159efcab94789aa43ec9b6d43f618f06b3f7ae755f9b443",
       "bytes": 407456,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121587_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121587_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121587_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121587_2.jpg",
       "iiif_id": "2017JY9393",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JY9393/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b60250f1ce009616bc576a2e28978c12eb84925b725f8d2acaec3bdc166b493d",
       "bytes": 200359,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121587_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121587_2.jpg"
     }
   ],
   "map": {
@@ -132,5 +136,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:31:18.025297+00:00"
+  "processed_at": "2026-07-18T06:28:07.443458+00:00"
 }

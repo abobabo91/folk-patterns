@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary photo of a Somali minister and a woman in traditional Somali dress (headscarf, beaded necklace, patterned garment) at a hotel event; this depicts Somali dress and daily/public life, fitting the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "The Somali minister and the consort (?) pose inside the Grand hotel. American plan",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "dce9f761754dff27ffebaa69e57877bc4d2f683766a3f7dc9fe97b32bcc45fea",
       "bytes": 27428,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010336_gen5.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010336_gen5.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:28.634788+00:00"
+  "processed_at": "2026-07-28T18:48:25.778211+00:00"
 }

@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photograph shows a traditional Batak-style thatched dwelling with people (likely planters/estate workers) gathered outside; the building's architecture is consistent with Batak vernacular housing, supporting the ethnic attribution despite the title emphasizing the planters.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "[Planters poseren bij een Batak woning]",
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "79ee55e48e0edddc4857f92fdaa9f76a53936fe471ace53d2588d3fa50aea577",
       "bytes": 22801,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_01592ea7_4294_175a_dc4f_6e9a533ae38c.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_01592ea7_4294_175a_dc4f_6e9a533ae38c.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:42.197637+00:00"
+  "processed_at": "2026-07-28T18:43:18.769077+00:00"
 }

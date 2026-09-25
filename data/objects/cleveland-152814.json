@@ -19,8 +19,12 @@
     "tradition": "Thai",
     "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A stucco Buddha head from the Mon-Dvaravati culture of ancient Thailand — an earlier tradition practiced within Thailand's homeland, fitting the \"Thai\" claim as regional archaeology/art despite being a distinct pre-Thai people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:06.084742+00:00"
+  "processed_at": "2026-07-28T18:41:21.090374+00:00"
 }

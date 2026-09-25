@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Bronze kneeling devotee figure with Baphuon-period stylistic traits (low-slung belt, third eye, silver-inlaid eyes) from Angkor, Cambodia — Khmer temple sculpture from the culture's own homeland.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer/images/cle_149430.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_149430.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1164c380d2e1dd09bd7efc1b82121fb9b1ec799adcb5df3ce90bcae35def491c",
       "bytes": 172650,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer\\images\\cle_149430.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_149430.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.234545+00:00"
+  "processed_at": "2026-07-28T11:57:27.906967+00:00"
 }

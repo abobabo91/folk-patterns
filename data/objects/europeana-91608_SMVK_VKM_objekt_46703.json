@@ -16,11 +16,16 @@
     "region": "southeast-asia",
     "country": "Vietnam",
     "ethnicity": "Hmong",
-    "tradition": "\"Hmong\" Vietnam",
+    "tradition": "Hmong textile Vietnam",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an indigo-and-white wax-resist (batik) textile strip labeled \"meo-folket\" (Hmong/Miao), a technique and format characteristic of Hmong dress panels used in Vietnam/Laos/Southeast Asia. The geometric batik pattern fits plausible Hmong material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "textil, batik, vax-batik, cloth",
@@ -30,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -65,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/textile/hmong-vietnam/images/eu_91608_SMVK_VKM_objekt_46703.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/textile/hmong-textile-vietnam/images/eu_91608_SMVK_VKM_objekt_46703.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "cebdbd4dcbbc01b2e52a86a0d5e640961ce757dd04bcf44cce3c5399a55143c5",
       "bytes": 29975,
-      "local_path": "library\\southeast-asia\\vietnam\\hmong\\textile\\hmong-vietnam\\images\\eu_91608_SMVK_VKM_objekt_46703.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\hmong\\textile\\hmong-textile-vietnam\\images\\eu_91608_SMVK_VKM_objekt_46703.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -79,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:34:29.989684+00:00"
+  "processed_at": "2026-07-28T18:44:29.723593+00:00"
 }

@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This shows the entrance gate of a temple building at the Perfume Pagoda in Vietnam, with carved guardian figures and traditional Vietnamese temple roof ornament (dragons), a structure built and used by the Kinh (Viet) people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "A temple in Perfume Pagoda.jpg",

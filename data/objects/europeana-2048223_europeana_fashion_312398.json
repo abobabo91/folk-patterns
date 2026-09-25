@@ -17,8 +17,15 @@
     "country": "Kenya",
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
-    "art_form": "garment",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a traditional feathered headdress (enkuraru) with beaded hide band, a known Maasai warrior ceremonial ornament — consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Headdress (enkuraru)",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:54:59.947407+00:00"
+  "processed_at": "2026-07-28T18:46:12.009532+00:00"
 }

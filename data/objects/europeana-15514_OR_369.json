@@ -18,7 +18,14 @@
     "ethnicity": "Kurdish (Iranian)",
     "tradition": "Kurdish Iran textile",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A handwoven pile rug with an allover floral lattice medallion pattern and multiple guard borders, titled \"Kurdistan-Teppich\" (Kurdistan carpet), consistent with Kurdish weaving traditions of western Iran.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Kurdistan-Teppich",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "9e5ada88b7ba9c2def83364dc128a5ee0f0d46d08c1b26d9a77cd38f00caa058",
-      "bytes": 18273,
+      "sha256": "6c5987f7bb65693b6a4a47d37c90917dcacd1f65dbecc093c4175394c709e72b",
+      "bytes": 235259,
       "local_path": "library\\middle-east-north-africa\\iran\\kurdish-iranian\\textile\\kurdish-iran-textile\\images\\eu_15514_OR_369.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:47.622546+00:00"
+  "processed_at": "2026-07-28T18:42:19.888928+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Hanging Church",
-    "art_form": "textile",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This shows the ornate stone entrance portal of the Hanging Church (Coptic church) in Cairo, Egyptian Coptic architecture — a building made and used by Egyptians, though not a textile as claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "+Die Hängende Kirche in Kairo... 02.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/architectural/hanging-church/images/carch_0bfc667decda865a.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/textile/hanging-church/images/carch_0bfc667decda865a.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5ffba8ade374f19bce40d0f818455994c85b4342785b2b608f39df8d26dd07cc",
       "bytes": 862571,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\architectural\\hanging-church\\images\\carch_0bfc667decda865a.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\hanging-church\\images\\carch_0bfc667decda865a.jpg"
     }
   ],
   "map": {

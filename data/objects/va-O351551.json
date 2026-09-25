@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "Ikat-woven silk/cotton dress fabric with the classic bold medallion pattern typical of Khotan/Xinjiang atlas silk ikat, consistent with Uyghur textile production in the region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -144,22 +148,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/china-xinjiang/textile/ikat/images/va_O351551.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/china-xinjiang/garment/ikat/images/va_O351551.jpg",
       "iiif_id": "2021NA6740",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA6740/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5167fffa0314cb3f8056c5da2e332d1e31d7d57eed0099e5ef251435fa2b3666",
       "bytes": 109500,
-      "local_path": "library\\central-asia\\china-xinjiang\\china-xinjiang\\textile\\ikat\\images\\va_O351551.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\china-xinjiang\\garment\\ikat\\images\\va_O351551.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/china-xinjiang/textile/ikat/images/va_O351551_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/china-xinjiang/garment/ikat/images/va_O351551_1.jpg",
       "iiif_id": "2021NA6767",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA6767/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "544d95063113166d1182971ca20ac714b5dcf921be4805b1584efc6cbbc46fde",
       "bytes": 190087,
-      "local_path": "library\\central-asia\\china-xinjiang\\china-xinjiang\\textile\\ikat\\images\\va_O351551_1.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\china-xinjiang\\garment\\ikat\\images\\va_O351551_1.jpg"
     }
   ],
   "map": {

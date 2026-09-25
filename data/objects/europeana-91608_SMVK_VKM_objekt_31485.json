@@ -18,7 +18,14 @@
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved wooden standing figure, plain and unpatinated (\"skiss\"/sketch style), consistent with a Fang (Pangwe) reliquary-type ancestor figure from Gabon/Ogooué as noted in the museum's own attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Fetisch., fetisch, figur, skulptur, sculpture, fetish, figure",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "c970f4935df2fea36a138726e0946acec556011abeb282439a31339754f1c983",
       "bytes": 19977,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31485.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31485.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:59.977642+00:00"
+  "processed_at": "2026-07-28T18:47:13.905076+00:00"
 }

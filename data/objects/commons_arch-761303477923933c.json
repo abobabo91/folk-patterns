@@ -17,8 +17,15 @@
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "Ayutthaya Historical Park",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a ruined brick Thai wat (temple) with a shrine statue and offerings of rooster figurines, a common Thai devotional practice at ancient temple ruins such as Ayutthaya; this documents Thai religious/material culture at their own archaeological site.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "2010년 8월 태국 087 Kwangmo's iPhone.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/architectural/ayutthaya-historical-park/images/carch_761303477923933c.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/photo/ayutthaya-historical-park/images/carch_761303477923933c.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "45e78f6d2ea158925c3ce0e5a837c9d7481df52e95efa809972e58f5d8e547fe",
       "bytes": 468465,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\architectural\\ayutthaya-historical-park\\images\\carch_761303477923933c.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\photo\\ayutthaya-historical-park\\images\\carch_761303477923933c.jpg"
     }
   ],
   "map": {

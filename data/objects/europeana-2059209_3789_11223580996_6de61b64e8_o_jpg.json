@@ -17,10 +17,15 @@
     "country": "Myanmar",
     "ethnicity": "Chin",
     "tradition": "\"Chin\" Myanmar",
-    "art_form": "painting-mss",
+    "art_form": "photo",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of \"Haka women\" (Haka is a Chin subgroup) wearing traditional plaid wrap garments and jewelry, from a book on Chin-Lushai peoples, clearly depicting Chin dress and daily life.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Burma from \"Chin-Lushai Land ... With maps and illustrations\".",
@@ -77,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:35:33.258176+00:00"
+  "processed_at": "2026-07-28T18:45:02.311102+00:00"
 }

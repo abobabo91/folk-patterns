@@ -18,7 +18,14 @@
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A wooden spoon with carved handle and dark banding, collected in Angola during the Bolinder expedition, consistent with Chokwe household craft (Chokwe territory spans DRC and Angola).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "sked, Träsked, spoon",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "6dacfc0e8464b92dfac9729b99ca764909a373d371ce19f65b199f3f2d21e406",
       "bytes": 4727,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42596.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42596.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:27.908253+00:00"
+  "processed_at": "2026-07-28T18:47:07.807485+00:00"
 }

@@ -20,8 +20,12 @@
     "art_form": "sculpture",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "The photo shows a stone door guardian (raksasa) statue at Pura Besakih temple on Bali, a genuine example of Balinese temple sculpture and architecture, though it is a documentary photograph rather than a painting or manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "002 Door Guardian, Pura Besikih, Mount Agung, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-besakih/images/carch_a4a1e98e1eee9dbe.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-besakih/images/carch_a4a1e98e1eee9dbe.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "06f8505a47bb9115b10000d306f1fa440a5552c5e1b343edc3ba8986f40dd3bb",
       "bytes": 880812,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-besakih\\images\\carch_a4a1e98e1eee9dbe.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-besakih\\images\\carch_a4a1e98e1eee9dbe.jpg"
     }
   ],
   "map": {

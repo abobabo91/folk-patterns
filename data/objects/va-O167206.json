@@ -14,14 +14,18 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Turkmenistan",
-    "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "country": "Afghanistan",
+    "ethnicity": "Afghan Turkmen",
+    "tradition": "Ersari carpet",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "Three knotted-pile bag faces with geometric diamond and hooked lattice motifs, characteristic Turkmen-type weaving typical of Central Asian tribal work; region claim (\"_regional\"/Central Asia) fits generically.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -93,13 +97,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O167206.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O167206.jpg",
       "iiif_id": "2012FT7107",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FT7107/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b0bd670777aebfada2a26813133f39b05164ba9a57c804e94dcfdeb0a0d34695",
       "bytes": 279181,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O167206.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O167206.jpg"
     }
   ],
   "map": {
@@ -107,5 +111,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:31:39.546489+00:00"
+  "processed_at": "2026-07-18T06:35:39.661031+00:00"
 }

@@ -27,8 +27,8 @@ gallery and exports `era`.
 Next, in order ([docs/vetting.md → Next steps](docs/vetting.md#next-steps)):
 
 - Rebuild the index and deploy on the complete verdicts.
-- Revisit `build_index.py`'s `_TRUSTED_MUSEUM_SOURCES` bypass with the
-  finished numbers.
+- Re-attribute misfiled objects (Shan cloth under Bamar, Javanese puppets
+  under Balinese) instead of dropping them.
 - **Do NOT add new cultures or regions** until the vetter is wired into
   `add_culture.py`, so new material arrives judged instead of needing its
   own sweep.

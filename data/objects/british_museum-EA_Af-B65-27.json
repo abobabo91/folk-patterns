@@ -17,8 +17,15 @@
     "country": "Kenya",
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu",
-    "art_form": "jewelry",
-    "pattern_density": 1
+    "art_form": "photo",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary black-and-white photograph of Kikuyu and Maasai warriors in traditional dress (leopard skin, fur, shield, ornaments), not a painting or manuscript, but it clearly depicts Kikuyu material culture and dress.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "photographic print (black and white)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/jewelry/kikuyu/images/bm_EA_Af-B65-27.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/painting-mss/kikuyu/images/bm_EA_Af-B65-27.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2553b013f50e8abb83080f8a4a28a733adddfed8e8af1717059f766a8af5d341",
       "bytes": 35576,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\jewelry\\kikuyu\\images\\bm_EA_Af-B65-27.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\painting-mss\\kikuyu\\images\\bm_EA_Af-B65-27.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:13.585254+00:00"
+  "processed_at": "2026-07-28T19:35:11.475559+00:00"
 }

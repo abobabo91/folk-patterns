@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
-    "art_form": "jewelry",
-    "pattern_density": 1,
+    "tradition": "Cambodian",
+    "art_form": "metalwork",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "jewelry"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Bronze palanquin hook with naga/kala ornament in Angkor Wat style, a genuine functional-decorative object made and used by the Khmer at Angkor; fits Khmer material culture well.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "One of a Pair of Decorated Palanquin Hooks and Rings",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/khmer/images/cle_169259.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_169259.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bbcaa7c1dc188e4b81fb11da3aabccfee02ef3232a1eb8cc4c534951f7df507a",
       "bytes": 282973,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\khmer\\images\\cle_169259.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_169259.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.035014+00:00"
+  "processed_at": "2026-07-28T11:57:20.766021+00:00"
 }

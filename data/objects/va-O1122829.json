@@ -13,15 +13,19 @@
     "accession_year": 1978
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "wayang kulit",
     "art_form": "sculpture",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "art_form_vision": "sculpture"
+    "art_form_vision": "sculpture",
+    "vision_reason": "The image shows a Javanese wayang kulit shadow puppet (leather, gilded, mounted on sticks), a traditional Javanese art form matching the museum's description of the puppet set.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -405,13 +409,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1122829.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/painting-mss/wayang-kulit/images/va_O1122829.jpg",
       "iiif_id": "2006AN5633",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AN5633/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "1f18637acec9a154dfca818af79321466174af52ff3ba0f3e64a42cf46facbed",
       "bytes": 98614,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1122829.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\wayang-kulit\\images\\va_O1122829.jpg"
     }
   ],
   "map": {

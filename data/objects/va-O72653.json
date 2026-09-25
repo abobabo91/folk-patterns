@@ -19,8 +19,13 @@
     "tradition": "batik",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A batik cotton sarong with kepala tumpal panel and trellis geometric field, consistent with Jambi/Sumatran regional batik textile traditions—an object plausible for the claimed region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -83,13 +88,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O72653.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O72653.jpg",
       "iiif_id": "2006AN6213",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AN6213/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "e922a256cfaba87f8bd81686f0da891534316404070fc6ffed8e7d38dcd2fe63",
       "bytes": 143791,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O72653.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O72653.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Yoruba",
     "tradition": "Yoruba",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an indigo starch-resist stencil-dyed adire cloth, a textile technique characteristic of the Yoruba people of Nigeria, matching both the metadata and visible construction.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "adire",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:55:44.012832+00:00"
+  "processed_at": "2026-07-28T19:24:44.345317+00:00"
 }

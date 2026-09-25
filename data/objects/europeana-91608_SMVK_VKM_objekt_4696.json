@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Kyrgyzstan",
     "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "tradition": "Kirghiz felt",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A felted wool floor rug made with the ala-kiyiz (mosaic felt) technique, explicitly a traditional Kyrgyz craft, with typical scrolling horn/floral motifs in orange, grey and green.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "matta av pressad filt",
@@ -31,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -66,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/unclassified/kyrgyz/images/eu_91608_SMVK_VKM_objekt_4696.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kirghiz-felt/images/eu_91608_SMVK_VKM_objekt_4696.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "839156c26e09c47c9ae54cfe0e2c5140a8053c78c5e667f63673b86be766f812",
-      "bytes": 63853,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\unclassified\\kyrgyz\\images\\eu_91608_SMVK_VKM_objekt_4696.jpg"
+      "sha256": "9c8d584f2fa73793fb1e593d4869388cd544d14af2287d19fc863101ecb828c8",
+      "bytes": 56982,
+      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kirghiz-felt\\images\\eu_91608_SMVK_VKM_objekt_4696.jpg"
     }
   ],
   "map": {
@@ -80,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:26:20.703823+00:00"
+  "processed_at": "2026-07-28T18:41:52.861839+00:00"
 }

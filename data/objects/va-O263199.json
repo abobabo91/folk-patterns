@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is an ikat silk/cotton dress fabric from Khotan, a Uyghur weaving center in Xinjiang; such vividly patterned ikat cloth is characteristic Uyghur textile production of the region, so it fits the claimed ethnicity/location.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

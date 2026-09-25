@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This is a documentary photograph of the entrance to Goa Gajah (Elephant Cave), a stone temple site in Bali with carved gateway and cave relief, actively used with ceremonial offerings and cloth — Balinese architecture and religious practice, not a painting/manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "008 View of Caves, Goa Gajah, Gyanyar, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/goa-gajah/images/carch_9c935a51a427987b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/goa-gajah/images/carch_9c935a51a427987b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0fae62ad36784a930f15b7743b8a7126d5d96fee704d362602d8bc7093a03560",
       "bytes": 308838,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\goa-gajah\\images\\carch_9c935a51a427987b.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\goa-gajah\\images\\carch_9c935a51a427987b.jpg"
     }
   ],
   "map": {

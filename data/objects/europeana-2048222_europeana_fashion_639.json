@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a pair of simple leather sandals with plaited leather thong straps, consistent with traditional Himba/Herero-region footwear made and worn in Namibia; plausible for the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Himba Tribe-ladies sandals.",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "f865d032fa839818397a3070f0cdd047d149346616f9489ac9ca3b41e50ff8a0",
       "bytes": 27388,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\garment\\himba-namibia\\images\\eu_2048222_europeana_fashion_639.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\garment\\himba-namibia\\images\\eu_2048222_europeana_fashion_639.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:53.316046+00:00"
+  "processed_at": "2026-07-28T18:47:47.017314+00:00"
 }

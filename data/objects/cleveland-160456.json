@@ -20,7 +20,11 @@
     "art_form": "ceramic",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A blue-and-white glazed stoneware ginger jar with phoenix and floral motifs is a traditional Vietnamese ceramic type historically made and used in Vietnam, consistent with Kinh craft traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:12.967835+00:00"
+  "processed_at": "2026-07-28T18:41:21.386448+00:00"
 }

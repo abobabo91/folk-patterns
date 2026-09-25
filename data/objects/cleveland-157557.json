@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba",
     "art_form": "ceramic",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A ceramic bowl with incised geometric interlace patterning typical of Kuba decorative arts, made to be hung as a container (likely for cosmetics); this is a genuine Kuba-attributed object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "Bowl",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/ceramic/kuba/images/cle_157557.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/sculpture/kuba/images/cle_157557.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bac1009f7b8cc0b2ea2afc199e0af2cd7a1f977bfa111fb37d3e520e0b67e21b",
       "bytes": 621859,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\ceramic\\kuba\\images\\cle_157557.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\cle_157557.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:41.622203+00:00"
+  "processed_at": "2026-07-28T18:41:32.742395+00:00"
 }

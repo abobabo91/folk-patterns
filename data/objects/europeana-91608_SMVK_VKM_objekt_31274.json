@@ -17,8 +17,15 @@
     "country": "Gabon",
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The object is a bundle of twisted iron pieces bound together as a form of primitive currency (mynt = \"coin\"), labeled as from Gabon/Ogooué region, consistent with Fang-associated iron currency traditions of Gabon.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "mynt",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/unclassified/fang-gabon/images/eu_91608_SMVK_VKM_objekt_31274.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/household/fang-gabon/images/eu_91608_SMVK_VKM_objekt_31274.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "62b9949bd75d0f0873e63c120935b3c04b322be7e43e90d6b19da1246b62975f",
       "bytes": 21548,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\unclassified\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31274.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\household\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31274.jpg",
+      "low_quality": true
     }
   ],
   "map": {

@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Minangkabau",
     "tradition": "Minangkabau",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
     "vision_vetted": true,
-    "art_form_vision": "photo"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a traditional Minangkabau rumah gadang (with its characteristic curved, horn-like roof) with a group of women and children standing in front of it — a documentary image of Minangkabau architecture and daily life.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Een Minangkabau gemeenschapshuis met daarvoor een aantal vrouwen en kinderen.",
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:13.214169+00:00"
+  "processed_at": "2026-07-28T18:43:41.057329+00:00"
 }

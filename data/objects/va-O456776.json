@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "China (Xinjiang)",
     "ethnicity": "Uyghur",
     "tradition": "Hotan carpet",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A hand-knotted wool carpet with an allover geometric/floral lattice field and multiple guard-and-border bands, located to Hotan—a classic style of Uyghur carpet weaving from Xinjiang.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

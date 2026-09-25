@@ -18,7 +18,14 @@
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A carved wooden standing female figure, plain unpatinated wood with simple features—consistent with a Fang-region reliquary/ancestor figure (\"fetisch\") from Gabon as noted in the museum's own record.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "fetisch, Fetisch., figur, skulptur, fetish, figure, sculpture",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "0483d956f3ac191f3d11248db02208cf4879cef5aa15a3e16190645613043acc",
       "bytes": 23693,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31481.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31481.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:59.426208+00:00"
+  "processed_at": "2026-07-28T18:47:13.880154+00:00"
 }

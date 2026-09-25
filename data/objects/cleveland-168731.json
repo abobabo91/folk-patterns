@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved wooden anthropomorphic figure with an abstracted bust, inset eyes, and a cracked torso surface consistent with a Kongo power figure (nkisi) fragment, mounted on a small base; this matches the described minkisi ensemble used to hold medicine loads.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Power figure (nkisi)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:44.271173+00:00"
+  "processed_at": "2026-07-28T18:41:31.809961+00:00"
 }

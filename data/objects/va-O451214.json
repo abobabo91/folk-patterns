@@ -17,10 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "keris",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A keris dagger with wooden sheath and carved wooden hilt with brass mounts, a traditional Malay weapon form, matching the regional Malaysia claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": null,
@@ -772,13 +777,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/metalwork/keris/images/va_O451214.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/metalwork/keris/images/va_O451214.jpg",
       "iiif_id": "2020MP8507",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8507/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6c49ce6b05e5d67c01eb512f4088ce34a3c8fb20b3b7e2701518119cfb7be8ef",
       "bytes": 62566,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\metalwork\\keris\\images\\va_O451214.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\metalwork\\keris\\images\\va_O451214.jpg"
     }
   ],
   "map": {

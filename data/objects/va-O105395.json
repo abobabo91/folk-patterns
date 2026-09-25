@@ -13,15 +13,19 @@
     "accession_year": 1893
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Samarkand tile",
-    "art_form": "ceramic",
+    "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "A carved earthenware tile with turquoise glazed calligraphy set in raised terracotta arabesque, from Samarkand — a classic Timurid-era architectural tile of the kind produced in the Central Asian region now Uzbekistan; this is an architectural fragment rather than a painting/manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": null,
@@ -81,22 +85,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O105395.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/painting-mss/samarkand-tile/images/va_O105395.jpg",
       "iiif_id": "2006BB1738",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BB1738/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "fef64312127e1c57ece544bf6f64c8bc75bea540b334105fbff6194737c2d0e4",
       "bytes": 353658,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O105395.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\samarkand-tile\\images\\va_O105395.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O105395_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/painting-mss/samarkand-tile/images/va_O105395_1.jpg",
       "iiif_id": "2017JU6350",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JU6350/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "7f8e87102b6897bb4f923b8488ae7dd538d4ddc1d91e90fa4178f37711c9af10",
       "bytes": 233075,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O105395_1.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\samarkand-tile\\images\\va_O105395_1.jpg"
     }
   ],
   "map": {

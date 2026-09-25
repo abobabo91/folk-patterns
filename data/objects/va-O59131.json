@@ -13,14 +13,19 @@
     "accession_year": 1882
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
-    "art_form": "textile",
+    "art_form": "instruments",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a traditional Burmese saung gauk (boat-shaped arched harp) with lacquer, gilding, and silk strings, a classic Bamar musical instrument, though it is mislabeled as \"textile\" in the category field.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments"
   },
   "physical": {
     "title": null,
@@ -344,31 +349,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O59131.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/burmese-lacquer/images/va_O59131.jpg",
       "iiif_id": "2021MV2240",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MV2240/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5e6d2b9728f52f4b142e70823dfa3490b0ade82477870c608e111cc16975f836",
       "bytes": 62185,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O59131.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\burmese-lacquer\\images\\va_O59131.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O59131_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/burmese-lacquer/images/va_O59131_1.jpg",
       "iiif_id": "2021MV2244",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MV2244/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "93be8b05524c27d0f59554b8dc910571f72e90e2eada5b188011efbc3a570c06",
       "bytes": 66031,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O59131_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\burmese-lacquer\\images\\va_O59131_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O59131_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/burmese-lacquer/images/va_O59131_2.jpg",
       "iiif_id": "2021MV2245",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MV2245/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "51172a3188a9394885cc23ab200db0bf5561437023b5a842337ea15f4b5efdd7",
       "bytes": 53910,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O59131_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\burmese-lacquer\\images\\va_O59131_2.jpg"
     }
   ],
   "map": {

@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Tomb of Hafez",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a modern photograph of the domed pavilion over the tomb of Hafez in Shiraz, Iran — a Persian architectural monument, not a painting/manuscript as claimed. It clearly fits the Persian ethnicity through its architecture, but the category should be corrected.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "005001hafez.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/tomb-of-hafez/images/carch_5ada20a8f67b131b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/tomb-of-hafez/images/carch_5ada20a8f67b131b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0153a52c1a00759ee1779b0111fad11ff7efd532592d6bef595359d7d5804cb4",
       "bytes": 260184,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\tomb-of-hafez\\images\\carch_5ada20a8f67b131b.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\tomb-of-hafez\\images\\carch_5ada20a8f67b131b.jpg"
     }
   ],
   "map": {

@@ -17,10 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "lacquer painting",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A lacquered metal storage box with thayo relief scrollwork and an interior painted scene, made and used in Burma (this piece with Chiang Mai-derived design) — a traditional decorative object of the region's material culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": null,
@@ -255,13 +260,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/lacquer-painting/images/va_O48663.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/sculpture/lacquer-painting/images/va_O48663.jpg",
       "iiif_id": "2020MN9291",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9291/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "940847d8de8d64bd23e07104aed054433d0260c57421acbbb2a54a7ac5c2ba0f",
       "bytes": 101266,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\lacquer-painting\\images\\va_O48663.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\sculpture\\lacquer-painting\\images\\va_O48663.jpg"
     }
   ],
   "map": {

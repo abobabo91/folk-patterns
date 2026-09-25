@@ -20,7 +20,11 @@
     "art_form": "ceramic",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A 15th-century Vietnamese (Annam) blue-and-white porcelain bird-shaped jar, a traditional Vietnamese ceramic form consistent with the Kinh majority culture of the region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:13.056501+00:00"
+  "processed_at": "2026-07-28T18:41:21.492735+00:00"
 }

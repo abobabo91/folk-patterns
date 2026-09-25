@@ -13,14 +13,19 @@
     "accession_year": 1977
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Malaysia",
     "ethnicity": "Malay",
     "tradition": "kain limar",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a silk ikat skirt cloth (kain limar) with a head panel, a traditional Malay/Maritime Southeast Asian textile form for a woman's sarong; the pattern and structure are consistent with Malay dress.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -129,13 +134,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/unclassified/kain-limar/images/va_O477904.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/garment/kain-limar/images/va_O477904.jpg",
       "iiif_id": "2020MN9321",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9321/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b9abf6f377d1cd87a38f1d932a979ce0c1206ae4dfbdbd4ab132306f268288b3",
       "bytes": 402652,
-      "local_path": "library\\southeast-asia\\malaysia\\malay\\unclassified\\kain-limar\\images\\va_O477904.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\garment\\kain-limar\\images\\va_O477904.jpg"
     }
   ],
   "map": {

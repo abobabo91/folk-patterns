@@ -18,7 +18,14 @@
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of a Bambuti (Mbuti) woman carrying a child in front of a thatched shelter, with other people visible near a raised platform hut — a genuine ethnographic scene of the claimed group's daily life and dwelling. The category \"painting-mss\" is misapplied; this is a photograph.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Žena s dítětem u boku stojící před přístřeškem, Bambuti",
@@ -63,13 +70,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/unclassified/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266575.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/painting-mss/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266575.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f6b1ae4ec1a1423fc61a40957fac168a22a3d8b3e402e31308421db1cca37366",
       "bytes": 29212,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266575.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\painting-mss\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266575.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:39.020472+00:00"
+  "processed_at": "2026-07-28T18:47:24.863944+00:00"
 }

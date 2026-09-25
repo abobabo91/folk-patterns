@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a weft-ikat silk hanging with elephants, temples, and figures made for a Cambodian Buddhist temple, consistent with Khmer weaving traditions of the period (early 20th century).",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "textile",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Wall Hanging or Ceiling Canopy",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer/images/cle_107179.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/cambodian/images/cle_107179.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "47da62e01dfe8f8fcbc3c8483089e62ba7c9d6cbd6d75a95cb57a123c6b188d8",
       "bytes": 620755,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer\\images\\cle_107179.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\cambodian\\images\\cle_107179.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.055706+00:00"
+  "processed_at": "2026-07-28T11:57:21.850883+00:00"
 }

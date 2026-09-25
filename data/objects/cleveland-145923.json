@@ -1,0 +1,86 @@
+{
+  "id": "cleveland-145923",
+  "source": {
+    "museum": "cleveland",
+    "museum_name": "Cleveland Museum of Art",
+    "object_id": "145923",
+    "object_url": "https://clevelandart.org/art/1971.135",
+    "iiif_manifest": null,
+    "credit_line": "John L. Severance Fund",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1971.135",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Egypt",
+    "ethnicity": "Egyptian",
+    "tradition": "Egyptian",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "This is a Fayum-style mummy portrait painted on linen, part of Egyptian funerary practice from Roman-era Egypt; though the style is Greco-Roman in technique, it was made in and for Egyptian burial customs, so it fits the claimed culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
+  },
+  "physical": {
+    "title": "Funerary Panel of a Man",
+    "titles_alt": [],
+    "date_text": "about 138–92 CE",
+    "date_earliest": 138,
+    "date_latest": 192,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "encaustic on linen",
+    "classification": "Painting",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A young man with a slight mustache and warm brown eyes looks at the viewer from this painting. The linen on which his image was rendered was a less popular alternative to wood. Its delicate surface was only workable with brushes, and not the flat metal tools used for details on wooden paintings. The rest of the cartonnage (body case) the man’s image was once part of was painted with ancient Egyptian religious imagery, like that of the young man Artemidorus. The blended decorative forms on the cartonnage show how distinctive Greco-Roman and Egyptian representational systems interacted in Roman-ruled Egypt.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Antonine-era Roman Empire (Egypt), unknown painter",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Cleveland Museum of Art",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/painting-mss/egyptian/images/cle_145923.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0c23d1d84b1406c9d40a5a97cb8b58d889a1a60f426ce12528ef9b00c7731e00",
+      "bytes": 614283,
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\painting-mss\\egyptian\\images\\cle_145923.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-28T18:41:06.301096+00:00"
+}

@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved wooden headrest/stool-like object with a bird-head finial, a form used by Kuba and related Congo-area peoples; it is a plausible Kuba-made object despite the mislabeled \"textile\" category and the museum's own \"pall\" (stool) title.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "pall",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/unclassified/kuba-congo/images/eu_91608_SMVK_VKM_objekt_55479.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/textile/kuba-congo/images/eu_91608_SMVK_VKM_objekt_55479.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3eaaf2d1a9d891e82e60a8d68357d4b8b59afe6ca8d56539612d8520d3ef42aa",
       "bytes": 7355,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\unclassified\\kuba-congo\\images\\eu_91608_SMVK_VKM_objekt_55479.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\textile\\kuba-congo\\images\\eu_91608_SMVK_VKM_objekt_55479.jpg",
+      "low_quality": true
     }
   ],
   "map": {

@@ -13,12 +13,19 @@
     "accession_year": "1945"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A fine Persian/Safavid-style ink drawing of an emaciated horse led by its master, classic Iranian court album drawing subject matter and style, consistent with Persian manuscript/album painting tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "An Emaciated Horse Led by His Master",
@@ -67,31 +74,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_450593.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_450593.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ef027be24e75ab36b5f9a3ee094fd74663e6e992f1fd7b01f51236ec4f2d3184",
       "bytes": 2114733,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_450593.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_450593.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_450593_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_450593_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d236e9063b5efee2a89e1bd4604e6be34993baa371a562a275cf147e6145329c",
       "bytes": 312548,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_450593_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_450593_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_450593_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_450593_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "27ca033ce5da7932551ffa096c5ce84195ab631b06be8edf06901dbfbcf74343",
       "bytes": 1724829,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_450593_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_450593_2.jpg"
     }
   ],
   "map": {

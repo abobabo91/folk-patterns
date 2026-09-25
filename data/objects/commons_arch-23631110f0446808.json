@@ -18,7 +18,14 @@
     "ethnicity": "Malay",
     "tradition": "Kuala Kangsar",
     "art_form": "architectural",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows Istana Hulu, a Perak Malay royal palace in Malaysia, a colonial-influenced building associated with Malay royalty; it is a photograph of architecture, not a painting/manuscript.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Istana Hulu, Perak.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/architectural/kuala-kangsar/images/carch_23631110f0446808.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/painting-mss/kuala-kangsar/images/carch_23631110f0446808.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0cd71bdc287d9dc00831be9b24c6284e563ef410ba31848f8271c7481a8a6f3a",
       "bytes": 456426,
-      "local_path": "library\\southeast-asia\\malaysia\\malay\\architectural\\kuala-kangsar\\images\\carch_23631110f0446808.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\painting-mss\\kuala-kangsar\\images\\carch_23631110f0446808.jpg"
     }
   ],
   "map": {

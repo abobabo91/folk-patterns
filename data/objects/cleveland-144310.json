@@ -18,7 +18,14 @@
     "ethnicity": "Kongo",
     "tradition": "Kongo",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a carved ivory tusk with figural bands (including a European merchant pouring liquor), a well-documented genre made by Vili/Kongo-area carvers of the Lower Congo for the export/tourist trade — a Kongo-region-made object depicting cross-cultural contact, not a European depiction of Africans, so it fits the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Carved Tooth",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:47.918869+00:00"
+  "processed_at": "2026-07-28T18:41:31.966270+00:00"
 }

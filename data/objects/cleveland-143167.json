@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A sandstone rakshasa (demon guardian figure) in Koh Ker style, a well-documented Khmer sculptural tradition from 10th-century Cambodia; this is temple art made within the culture claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer/images/cle_143167.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_143167.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3110e5db98e8b630e22bba0383234126105eeb84599d3207ee0b57110bc3b6ff",
       "bytes": 77755,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer\\images\\cle_143167.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_143167.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.346491+00:00"
+  "processed_at": "2026-07-28T11:57:53.981624+00:00"
 }

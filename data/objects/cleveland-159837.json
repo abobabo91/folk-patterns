@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo",
-    "art_form": "painting-mss",
-    "pattern_density": 0
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Classic wooden \"mother and child\" (pfemba) maternity figure with neck rings, cicatrization marks, and seated crossed-legs pose, attributed to the Yombe, a Kongo subgroup — a traditional Kongo carving genre.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Mother and Child Figure",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/painting-mss/kongo/images/cle_159837.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/sculpture/kongo/images/cle_159837.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "60a4889e5e82eeb26cd1873c0d0819c00bd3c386da4c57aad45ba11dfedb38b0",
       "bytes": 258542,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\painting-mss\\kongo\\images\\cle_159837.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\sculpture\\kongo\\images\\cle_159837.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:56.786081+00:00"
+  "processed_at": "2026-07-28T18:41:32.311160+00:00"
 }

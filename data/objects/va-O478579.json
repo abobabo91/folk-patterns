@@ -19,8 +19,13 @@
     "tradition": "batik",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A Javanese batik kain panjang (sarong cloth) from Yogyakarta (Djocja) with classic lar/naga and semen motifs, matching a general Indonesian/regional attribution well.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -81,31 +86,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O478579.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O478579.jpg",
       "iiif_id": "2021NA3628",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3628/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b152907bb97a6d2ecb1f75ae59e620976052d9e76b5d1966705324f757aa063a",
       "bytes": 216354,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O478579.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O478579.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O478579_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O478579_1.jpg",
       "iiif_id": "2012FP8756",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FP8756/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "42cd1e7206bbfdca5ddf1b7b79bb7ee4fc708302026e14f0f53dfce2a423cabb",
       "bytes": 259950,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O478579_1.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O478579_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O478579_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O478579_2.jpg",
       "iiif_id": "2021MU6823",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MU6823/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ff5a2657c70ae0bc8e270bb3d31685ceb6eac63a85b930634732588a6fc3a6cb",
       "bytes": 248900,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O478579_2.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O478579_2.jpg"
     }
   ],
   "map": {

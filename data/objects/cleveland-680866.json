@@ -17,10 +17,15 @@
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Bamar",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Burmese Kammavacha manuscript folio, lacquered text in Burmese script with gilt border ornament, a traditional Bamar ceremonial ordination text — clearly matches the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Text, folio 4 (verso) from a Kammavacha: Buddhist ordination text",
@@ -63,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/bamar/images/cle_680866.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/bamar/images/cle_680866.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7bc262e81306184f7209b157068b51f59d76dd9a4ff631356f343682e59f4b0a",
       "bytes": 177099,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\bamar\\images\\cle_680866.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\bamar\\images\\cle_680866.jpg"
     }
   ],
   "map": {
@@ -77,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:35.061290+00:00"
+  "processed_at": "2026-07-28T18:41:25.013468+00:00"
 }

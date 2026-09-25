@@ -18,7 +18,14 @@
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
     "art_form": "ceramic",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a gourd-shaped snuff container with textured, beaded/nodular surface decoration, a traditional personal object made and used by the Xhosa people of South Africa; the form and material fit the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "Snuff Container",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:30.521725+00:00"
+  "processed_at": "2026-07-28T18:41:34.087299+00:00"
 }

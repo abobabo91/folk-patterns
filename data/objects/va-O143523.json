@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic Central Asian ikat (abr) silk/cotton length with the characteristic bold pomegranate/medallion motifs in red, blue and white on a yellow ground, consistent with regional Uzbek/Central Asian production; it is a textile length (used as a garment fabric), which fits a broad \"_regional\" claim for Central Asia.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -627,13 +631,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ikat/images/va_O143523.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/ikat/images/va_O143523.jpg",
       "iiif_id": "2007BM4959",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM4959/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d1d74153025ffe00bdd064adab666ff1e58b48753ad5acc8b7944281c271c110",
       "bytes": 196867,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ikat\\images\\va_O143523.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\ikat\\images\\va_O143523.jpg"
     }
   ],
   "map": {

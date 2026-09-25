@@ -17,11 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "Imperial City, Huế",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The postcard shows the bronze gate/portico (Nghi Môn) within the Hué Imperial Citadel, court architecture built and used by the Vietnamese (Kinh) imperial court, though the metalwork gate is small within the overall architectural view.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Annam - Hué - Les Portiques de Bronze dans le Palais.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/architectural/imperial-city-hue/images/carch_2fde32beb1137c61.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/metalwork/imperial-city-hue/images/carch_2fde32beb1137c61.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a15d97d78e3e5da455747affde667ffaa328514f6e5266397acdb5cc0745f020",
       "bytes": 442215,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\architectural\\imperial-city-hue\\images\\carch_2fde32beb1137c61.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\kinh\\metalwork\\imperial-city-hue\\images\\carch_2fde32beb1137c61.jpg"
     }
   ],
   "map": {

@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "metalwork",
-    "pattern_density": 1,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Bronze palanquin hooks with rings and kala-mask/naga decoration, cast in Angkor Wat style — a classic Khmer courtly decorative object used for a palanquin fitting.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "metalwork"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/khmer/images/cle_169258.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_169258.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8f11392a4ffcec6b4df63f116588eca2fe8da1adf6332a32df6113f8b4943e8f",
       "bytes": 172764,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\khmer\\images\\cle_169258.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_169258.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.019814+00:00"
+  "processed_at": "2026-07-28T11:57:19.763537+00:00"
 }

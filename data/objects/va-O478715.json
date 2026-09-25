@@ -13,14 +13,19 @@
     "accession_year": 1852
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Malaysia",
     "ethnicity": "Malay",
     "tradition": "songket Malay",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a woven silk songket cloth with diaper-work patterning and gold/silver metallic thread, a traditional Malay textile form used as a scarf/sash; consistent with Malay weaving traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -240,13 +245,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/unclassified/songket-malay/images/va_O478715.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/garment/songket-malay/images/va_O478715.jpg",
       "iiif_id": "2011FB0560",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0560/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "305685b2c6453f4add4b9a0b2770b8d35d36de211add85fd364cc4f3e2fdf2bc",
       "bytes": 412962,
-      "local_path": "library\\southeast-asia\\malaysia\\malay\\unclassified\\songket-malay\\images\\va_O478715.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\garment\\songket-malay\\images\\va_O478715.jpg"
     }
   ],
   "map": {

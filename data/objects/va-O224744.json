@@ -13,15 +13,19 @@
     "accession_year": 1893
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Samarkand tile",
-    "art_form": "ceramic",
-    "pattern_density": 3,
+    "art_form": "architectural",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This is a carved and glazed earthenware architectural tile fragment from Samarkand, Uzbekistan, decorated with turquoise and dark-blue interlacing geometric strapwork typical of Timurid-era Central Asian tilework; it plausibly belongs to the region's Uzbek/Central Asian craft tradition, though categorized as sculpture it is actually an architectural tile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": null,
@@ -264,13 +268,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O224744.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/sculpture/samarkand-tile/images/va_O224744.jpg",
       "iiif_id": "2010EC3064",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2010EC3064/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "bf115b0aad02faeea9e2b6dbda91ccd92d62b68abba5fd8df18c73968fa9d89e",
       "bytes": 186688,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O224744.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\sculpture\\samarkand-tile\\images\\va_O224744.jpg"
     }
   ],
   "map": {

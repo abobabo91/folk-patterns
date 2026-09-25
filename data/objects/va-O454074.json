@@ -13,15 +13,19 @@
     "accession_year": 1921
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kawung",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a hand-stamped batik cotton headcloth with classic Javanese motifs (kawung pijis, modang square, deep blue baden field) consistent with a Javanese man's headdress from Surakarta, a center of traditional batik.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -804,13 +808,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kawung/images/va_O454074.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kawung/images/va_O454074.jpg",
       "iiif_id": "2021NA3614",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3614/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "843b7366713846873ecc23ce1f1100cfbcae7ebfa155ba012bd7c2d8ccdd1184",
       "bytes": 488700,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kawung\\images\\va_O454074.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kawung\\images\\va_O454074.jpg"
     }
   ],
   "map": {

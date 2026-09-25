@@ -17,8 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Toraja",
     "tradition": "Toraja Sulawesi",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a woven bamboo basket (used as a hen's nest, per the museum description), collected in Kantewoe, Central Celebes—a Toraja-inhabited region—so it is a plausible everyday object of this people, though it is a basket rather than ceramic as claimed.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "korg, basket",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:02:02.839594+00:00"
+  "processed_at": "2026-07-28T18:44:14.608279+00:00"
 }

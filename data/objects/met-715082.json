@@ -13,15 +13,19 @@
     "accession_year": "2017"
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "general",
     "art_form": "metalwork",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "metalwork",
+    "vision_reason": "A round bronze offering tray with engraved floral/scrollwork medallion, a traditional Javanese ritual and household metalwork form consistent with the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Offering tray (talam)",
@@ -66,22 +70,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/jewelry/general/images/met_715082.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/general/images/met_715082.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9726b8fae6d9a4f6e7faf6b2b951331c0d5ba1892f6b4f529e5c35bb828bed8f",
       "bytes": 3983717,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\jewelry\\general\\images\\met_715082.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\general\\images\\met_715082.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/jewelry/general/images/met_715082_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/general/images/met_715082_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "a82962594c4bbfc7d5ea689ef555c5c7c06637303badc9dea6a5c915e8025ae5",
       "bytes": 3974626,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\jewelry\\general\\images\\met_715082_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\general\\images\\met_715082_1.jpg"
     }
   ],
   "map": {

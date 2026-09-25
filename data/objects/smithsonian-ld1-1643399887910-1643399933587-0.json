@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "ulos",
-    "art_form": "garment",
+    "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a handwoven ceremonial shoulder cloth with dark reddish-brown ground, warp stripes, and an intricately patterned supplementary-weft panel with fringe — consistent with a Batak ulos ragidup textile from North Sumatra.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Ulos ragidup (ceremonial shoulder cloth)",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ulos/images/si_chndm_1961-115-17.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/ulos/images/si_chndm_1961-115-17.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6fd4d1f67d1a459343a29a71b006ddd5f5bf1a7d6c4e0e0c126d428981c04ac9",
       "bytes": 5229362,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ulos\\images\\si_chndm_1961-115-17.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\si_chndm_1961-115-17.jpg"
     }
   ],
   "map": {

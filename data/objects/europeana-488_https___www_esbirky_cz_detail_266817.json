@@ -18,7 +18,14 @@
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary photograph of two Mbuti (Bambuti) women, one wearing a metal necklace, in front of a leaf-thatched shelter — matches Mbuti daily life and dress despite the record's category label being wrong (it's a photo, not a manuscript/painting).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Dvě ženy, jedna s dítětem na zádech, starší žena s nápadným kovovým náhrdelníkem, Bambuti",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/unclassified/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266817.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/painting-mss/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266817.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6ea5ae00259a6514b7b00e06e084c2de253bc2f703dbe064d3b2085117060344",
       "bytes": 41728,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266817.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\painting-mss\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266817.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:50.551762+00:00"
+  "processed_at": "2026-07-28T18:47:25.553343+00:00"
 }

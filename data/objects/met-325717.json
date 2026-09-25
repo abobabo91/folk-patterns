@@ -13,12 +13,19 @@
     "accession_year": "1965"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a silver-and-gilt Sasanian royal bust (a king's head with a distinctive crenellated crown and korymbos, likely a lamp or vessel finial), a classic type of ancient Persian royal art made in Iran.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Head of a king",
@@ -68,13 +75,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_325717.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/sculpture/general/images/met_325717.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "113c8c28ff48b44aef4162529e59fdd00b3799b8828a58ec8811efa1566d1b0f",
       "bytes": 1657352,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_325717.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\sculpture\\general\\images\\met_325717.jpg"
     }
   ],
   "map": {

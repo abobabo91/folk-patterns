@@ -13,12 +13,19 @@
     "accession_year": "1927"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A lobed silk textile fragment with figures, animals (lions/dragons), and floral scrollwork in a style consistent with Safavid Persian silk weaving. This matches the claimed Persian/Iranian origin.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Textile Fragment",
@@ -68,49 +75,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/textile/general/images/met_447966.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/textile/general/images/met_447966.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4fb8613081acc86accf9912092307d57420540a2e930510e2de52fc062b8b417",
       "bytes": 6104435,
-      "local_path": "library\\mena\\iran\\persian\\textile\\general\\images\\met_447966.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/textile/general/images/met_447966_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/textile/general/images/met_447966_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "c256522f98c01595ea1dcc15bb63c656be0a058d21353d0e1ddb8c3add10f19b",
       "bytes": 138408,
-      "local_path": "library\\mena\\iran\\persian\\textile\\general\\images\\met_447966_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/textile/general/images/met_447966_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/textile/general/images/met_447966_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "9909c6faf064ee0b07ec1fbae0bcb15d1e3e3a33b673c242d2c9585a301d0f1e",
       "bytes": 108738,
-      "local_path": "library\\mena\\iran\\persian\\textile\\general\\images\\met_447966_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/textile/general/images/met_447966_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/textile/general/images/met_447966_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "38b9ee139f23af4dcb6fb00b6a6738206fbcef6795a8d02ed4dce25a409167f4",
       "bytes": 156845,
-      "local_path": "library\\mena\\iran\\persian\\textile\\general\\images\\met_447966_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/textile/general/images/met_447966_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/textile/general/images/met_447966_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "6118cb34ac976d492d48c18d71cee3f9aea465d540c8373a3ee6eae981d434a9",
       "bytes": 487586,
-      "local_path": "library\\mena\\iran\\persian\\textile\\general\\images\\met_447966_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_4.jpg"
     }
   ],
   "map": {

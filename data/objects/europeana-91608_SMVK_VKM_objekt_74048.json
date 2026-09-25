@@ -18,7 +18,14 @@
     "ethnicity": "Toraja",
     "tradition": "Toraja Sulawesi",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a dark bast-fiber jacket/blouse (women's garment) with wing-like sleeves, laid flat on a plain background, with a small button/toggle at the neck — consistent with a traditional Toraja bark-cloth garment from Central Sulawesi as noted in the museum record (Tobaku district).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Kvinnotröja, tröja",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "51e9a22e194da954e5033748a7534e863da68c434538b54bf7a804739f91dc7b",
       "bytes": 8329,
-      "local_path": "library\\southeast-asia\\indonesia\\toraja\\garment\\toraja-sulawesi\\images\\eu_91608_SMVK_VKM_objekt_74048.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\garment\\toraja-sulawesi\\images\\eu_91608_SMVK_VKM_objekt_74048.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:02:07.372437+00:00"
+  "processed_at": "2026-07-28T18:44:16.036888+00:00"
 }

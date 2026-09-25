@@ -18,7 +18,14 @@
     "ethnicity": "Ndebele",
     "tradition": "Ndebele beadwork",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A plain brass armring collected from the Ndebele reserve near Pretoria, matching known Ndebele metal jewelry/adornment worn as bracelets.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "armring, bracelet",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "cf9dfc712061a4bec644984b5731d9357969d759ee354830019ad48bf5194af8",
       "bytes": 10498,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\ndebele\\jewelry\\ndebele-beadwork\\images\\eu_91608_SMVK_VKM_objekt_50588.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\ndebele\\jewelry\\ndebele-beadwork\\images\\eu_91608_SMVK_VKM_objekt_50588.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:44.228467+00:00"
+  "processed_at": "2026-07-28T18:47:42.300908+00:00"
 }

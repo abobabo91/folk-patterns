@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
-    "art_form": "painting-mss",
+    "art_form": "household",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The picture shows a round red lacquerware tray/bowl with an engraved gilt-and-black geometric band around the rim, matching the description of a Burmese lacquer tray — a craft vessel, not a painting or manuscript.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "household",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -256,31 +261,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O48850.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O48850.jpg",
       "iiif_id": "2020MP2583",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP2583/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f2a544257b00cbabd9a4bfaadcf14c1a6628d7efcf63ddc91b9a44ac7352cf0a",
       "bytes": 71447,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O48850.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O48850.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O48850_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O48850_1.jpg",
       "iiif_id": "2020MP2584",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP2584/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "97e3489ba6c9890c95b6b9a5a7a35a4ecef35e3bec7bbe3776d67de4f0cf213e",
       "bytes": 64003,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O48850_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O48850_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O48850_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O48850_2.jpg",
       "iiif_id": "2020MP2588",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP2588/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "9dc6257cf7441f7dff81ad43d01996fc4f8fc773cfddcf514255b88be9c9e29e",
       "bytes": 63971,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O48850_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O48850_2.jpg"
     }
   ],
   "map": {

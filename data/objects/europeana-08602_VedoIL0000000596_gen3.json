@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows Somali military officers in dress uniform meeting an Italian politician; it is a documentary photo of Somali people, but the subject is a diplomatic/political meeting rather than their dress, craft or daily life as such, and Italian-style uniforms are not distinctively Somali material culture — still it is a valid ethnographic documentary photo of Somali individuals.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Alcuni somali conversano con un uomo politico italiano; piano americano",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "4e0ccc1a700789b5786cd59ce336239fe30d18b18ead8ad6be2bbd8d64068863",
       "bytes": 26319,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen3.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen3.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:18.231184+00:00"
+  "processed_at": "2026-07-28T18:48:15.213030+00:00"
 }

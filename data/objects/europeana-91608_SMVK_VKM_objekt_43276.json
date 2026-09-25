@@ -18,7 +18,14 @@
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A simple wooden stool collected in Angola during the 1948-49 Bolinder expedition, a plausible household object from the Chokwe region of Angola/DRC.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "stol",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "eeddf0c00e3c242a3b1ba44efecb50bbbb1b6d3d75509fdfe2f0f76d3e8eeee8",
       "bytes": 21045,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43276.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43276.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:10.356596+00:00"
+  "processed_at": "2026-07-28T18:47:06.357741+00:00"
 }

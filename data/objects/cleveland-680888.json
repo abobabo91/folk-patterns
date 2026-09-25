@@ -17,10 +17,15 @@
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Bamar",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a folio from a Burmese Kammavacha ordination manuscript, written in Pali using Burmese script on lacquered, gilded paper with decorative borders—a classic Bamar Buddhist devotional object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Text and illumination, folio 15 (verso) from a Kammavacha: Buddhist ordination text",
@@ -63,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/bamar/images/cle_680888.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/bamar/images/cle_680888.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ee670ac216a0388d6cef619cf82a9a6bfd92a807137215728d8615c47e9619e2",
       "bytes": 165567,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\bamar\\images\\cle_680888.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\bamar\\images\\cle_680888.jpg"
     }
   ],
   "map": {
@@ -77,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:36.254170+00:00"
+  "processed_at": "2026-07-28T18:41:25.852427+00:00"
 }

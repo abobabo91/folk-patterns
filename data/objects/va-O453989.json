@@ -13,15 +13,19 @@
     "accession_year": 1921
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "Batak weaving",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A hand-woven checked cotton sarong with kapala end-panel is a plausible traditional Sumatran textile, consistent with a Batak attribution though such garments are shared across Sumatran groups.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -804,49 +808,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-weaving/images/va_O453989.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/garment/batak-weaving/images/va_O453989.jpg",
       "iiif_id": "2020MP7665",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP7665/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "94696f25ebcb8516922e3cb6ac47d042e989162c426ce24d7075ec877a0127ff",
       "bytes": 336201,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-weaving\\images\\va_O453989.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\garment\\batak-weaving\\images\\va_O453989.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-weaving/images/va_O453989_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/garment/batak-weaving/images/va_O453989_1.jpg",
       "iiif_id": "2017KC6881",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6881/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f46b553e1e386964359d63df8e5fbcd4e873d3c397e7aa1dc99df6b445631966",
       "bytes": 295848,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-weaving\\images\\va_O453989_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\garment\\batak-weaving\\images\\va_O453989_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-weaving/images/va_O453989_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/garment/batak-weaving/images/va_O453989_2.jpg",
       "iiif_id": "2017KC6878",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6878/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "0cead48abae5362d0fe23818d16fce923985aa39036fbfa7bdf12f771d894d27",
       "bytes": 164284,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-weaving\\images\\va_O453989_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\garment\\batak-weaving\\images\\va_O453989_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-weaving/images/va_O453989_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/garment/batak-weaving/images/va_O453989_3.jpg",
       "iiif_id": "2017KC6879",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6879/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "4439b6cda5709f7aebb21790c606208efa3af45f3b345dc4b440a1b1c592af08",
       "bytes": 208166,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-weaving\\images\\va_O453989_3.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\garment\\batak-weaving\\images\\va_O453989_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-weaving/images/va_O453989_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/garment/batak-weaving/images/va_O453989_4.jpg",
       "iiif_id": "2017KC6880",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6880/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fd9b2b262517c07961c93e6ed52e1ea55197c2b63f22d9afa231a963907bd674",
       "bytes": 416245,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-weaving\\images\\va_O453989_4.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\garment\\batak-weaving\\images\\va_O453989_4.jpg"
     }
   ],
   "map": {

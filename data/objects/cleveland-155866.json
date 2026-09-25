@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A bronze figure of Hanuman in dynamic dance pose atop a standard, cast in Angkorian Bayon-style bronze — this is Khmer court/temple art made in the Angkor tradition, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer/images/cle_155866.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_155866.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c56e49e8616c48826b0bee7cbb8e3d52eb946ec9c7c1e6fc744cfa40cdb6e797",
       "bytes": 91775,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer\\images\\cle_155866.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_155866.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.260932+00:00"
+  "processed_at": "2026-07-28T11:57:52.299906+00:00"
 }

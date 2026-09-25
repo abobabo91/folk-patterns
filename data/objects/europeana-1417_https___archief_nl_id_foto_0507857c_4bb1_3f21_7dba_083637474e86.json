@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Composite of period photographs by Kleingrothe showing Batak women and girls carrying water, working, and holding a child, documenting Batak daily life and dress in Sumatra — directly matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "81b6b30d78f7186427f4417e83db3f54f11e41ef969d54ece91e2585ab9e47ef",
       "bytes": 19723,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_0507857c_4bb1_3f21_7dba_083637474e86.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_0507857c_4bb1_3f21_7dba_083637474e86.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:43.311492+00:00"
+  "processed_at": "2026-07-28T18:43:19.988532+00:00"
 }

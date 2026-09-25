@@ -17,10 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "keris",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The picture shows a pair of ornate metal cord/strap mounts with looped, gem-set gold-toned ends and fine chain-like bodies — mountings worn with court dress, consistent with keris-belt metalwork from the Malay/Bugis region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": null,
@@ -767,13 +772,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/metalwork/keris/images/va_O451215.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/metalwork/keris/images/va_O451215.jpg",
       "iiif_id": "2020MP8440",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8440/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "47b7ef09c92d4fdefe42cc7fff7106ee9147f7d16264c857ef218f9625c7e836",
       "bytes": 60214,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\metalwork\\keris\\images\\va_O451215.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\metalwork\\keris\\images\\va_O451215.jpg"
     }
   ],
   "map": {

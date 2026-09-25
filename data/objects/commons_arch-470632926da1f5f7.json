@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Interior of Topkapı Palace",
-    "art_form": "architectural",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a wall fresco/painted panel inside Topkapı Palace depicting a landscape with a kiosk pavilion by water, a decorative interior mural made for and within Ottoman Turkish court architecture, fitting the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Palais de Topkapı (48985983732).jpg",

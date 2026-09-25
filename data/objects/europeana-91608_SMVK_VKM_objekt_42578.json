@@ -18,7 +18,14 @@
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a woven basketry fish trap (fiskfälla), a plausible household/utility object collected during a Swedish expedition to southern Africa; such traps are used across the region including Chokwe territory, so it fits the claimed ethnicity even if it can't be distinguished from neighboring groups' work.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "fiskfälla",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/unclassified/chokwe/images/eu_91608_SMVK_VKM_objekt_42578.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/household/chokwe/images/eu_91608_SMVK_VKM_objekt_42578.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "64a78b907ca07b0a1d59462a71134793abe8605a33680078975094f8618dda7d",
       "bytes": 55896,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42578.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42578.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:09.142749+00:00"
+  "processed_at": "2026-07-28T18:47:06.329163+00:00"
 }

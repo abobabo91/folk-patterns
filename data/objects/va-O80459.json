@@ -17,10 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "lacquer painting",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a plain woven textile with striped ikat-like patterning, not a painted parabaik manuscript as described in the metadata; regardless, a Myanmar textile is plausible for the claimed regional Burmese culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -514,13 +519,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/painting-mss/lacquer-painting/images/va_O80459.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/painting-mss/lacquer-painting/images/va_O80459.jpg",
       "iiif_id": "2020MP4382",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4382/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "0cb67f135873f3e6d5c02acd77a5eeee74d754db1fe5da03660dd59d3d736c3e",
       "bytes": 128962,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\painting-mss\\lacquer-painting\\images\\va_O80459.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\painting-mss\\lacquer-painting\\images\\va_O80459.jpg"
     }
   ],
   "map": {

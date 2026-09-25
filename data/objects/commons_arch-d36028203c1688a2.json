@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Mashrabiya",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows a traditional Cairene building near Khan El Khalili with mashrabiya latticework windows and Islamic-style ornamental stonework, consistent with historic Egyptian architecture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Cairo Residence.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/architectural/mashrabiya/images/carch_d36028203c1688a2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/photo/mashrabiya/images/carch_d36028203c1688a2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2f13c94bd0236f1d4dec7f037562e0ae4ea9cf8da4977e0a9837bed00473f11d",
       "bytes": 229018,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\architectural\\mashrabiya\\images\\carch_d36028203c1688a2.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\photo\\mashrabiya\\images\\carch_d36028203c1688a2.jpg"
     }
   ],
   "map": {

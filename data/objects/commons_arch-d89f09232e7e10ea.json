@@ -17,8 +17,15 @@
     "country": "Kyrgyzstan",
     "ethnicity": "Kyrgyz",
     "tradition": "Tash Rabat",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "Tash Rabat is a stone caravanserai on the historic Silk Road in the Kyrgyz mountains, now a well-known architectural landmark in Kyrgyzstan and a valid piece of the region's built heritage.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Tash Rabat in mountains.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/architectural/tash-rabat/images/carch_d89f09232e7e10ea.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/photo/tash-rabat/images/carch_d89f09232e7e10ea.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "54a740168eadde2381d24d38e0c2afa58e4859a75af56286d8d894a30a20e993",
       "bytes": 340110,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\architectural\\tash-rabat\\images\\carch_d89f09232e7e10ea.jpg"
+      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\photo\\tash-rabat\\images\\carch_d89f09232e7e10ea.jpg"
     }
   ],
   "map": {

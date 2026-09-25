@@ -17,10 +17,15 @@
     "country": "Laos",
     "ethnicity": "Lao",
     "tradition": "naga motif",
-    "art_form": "ceramic",
+    "art_form": "metalwork",
     "pattern_density": 1,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A hard sealstone showing a crowned naga rising from a lotus, used for documents/money boxes at central Javanese courts — a court object made and used within Indonesian (Javanese) culture, fitting the regional claim despite the mislabeled \"ceramic\" category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": null,
@@ -100,40 +105,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/unclassified/naga-motif/images/va_O24769.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/ceramic/naga-motif/images/va_O24769.jpg",
       "iiif_id": "2006AN7081",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AN7081/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "1612c900434d77c66af8f935ede6879931d8de52eafd47e191d2688eb2db3e19",
       "bytes": 74137,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\unclassified\\naga-motif\\images\\va_O24769.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\ceramic\\naga-motif\\images\\va_O24769.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/unclassified/naga-motif/images/va_O24769_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/ceramic/naga-motif/images/va_O24769_1.jpg",
       "iiif_id": "2019MD2975",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD2975/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "668760882c1d278bd3f57fa4c6cfc1c5d9baf6f63a3c394e60a22cdc0c720833",
       "bytes": 123655,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\unclassified\\naga-motif\\images\\va_O24769_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\ceramic\\naga-motif\\images\\va_O24769_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/unclassified/naga-motif/images/va_O24769_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/ceramic/naga-motif/images/va_O24769_2.jpg",
       "iiif_id": "2019MD2978",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD2978/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "3ad3b659759e22f382d1e93041de9e11fcf3973e0cb95d88c230793ec7476e6b",
       "bytes": 129628,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\unclassified\\naga-motif\\images\\va_O24769_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\ceramic\\naga-motif\\images\\va_O24769_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/unclassified/naga-motif/images/va_O24769_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/ceramic/naga-motif/images/va_O24769_3.jpg",
       "iiif_id": "2019MD2979",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD2979/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "14e0ecf35fd314827117abf3bc86176a0b128de0f029f7e40da076e51f79bfdd",
       "bytes": 92833,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\unclassified\\naga-motif\\images\\va_O24769_3.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\ceramic\\naga-motif\\images\\va_O24769_3.jpg"
     }
   ],
   "map": {

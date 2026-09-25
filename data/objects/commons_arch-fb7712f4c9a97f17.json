@@ -17,8 +17,16 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Tomb of Hafez",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/7/72/002001hafez.jpg",
+    "vision_reason": "The image shows the Tomb of Hafez pavilion in Shiraz, Iran, a Persian architectural monument with garden and visitors, not a painting or manuscript as claimed. It clearly belongs to Persian culture despite the mismatched category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "002001hafez.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/tomb-of-hafez/images/carch_fb7712f4c9a97f17.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/tomb-of-hafez/images/carch_fb7712f4c9a97f17.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7a96bab191f8609d5610c09cbcc68886589b571e6dc9d62971ce8b3c903e4202",
       "bytes": 248041,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\tomb-of-hafez\\images\\carch_fb7712f4c9a97f17.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\tomb-of-hafez\\images\\carch_fb7712f4c9a97f17.jpg"
     }
   ],
   "map": {

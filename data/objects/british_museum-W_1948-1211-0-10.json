@@ -18,7 +18,14 @@
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "This is a Mughal-style opaque watercolour portrait depicting ʿAbdullah Khan Uzbek II (a historical Uzbek ruler) seated cross-legged, cutting melons — a genre scene of Central Asian court dress and custom, consistent with the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "painting",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:38.491980+00:00"
+  "processed_at": "2026-07-28T18:57:27.011353+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian Iran",
     "art_form": "textile",
-    "pattern_density": 0
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "An embroidered termeh textile with red wool ground, metallic thread and pearl-beaded floral/vine scrollwork centered on a rosette medallion, a classic Qajar-era Persian embroidered cloth used as a gift/heirloom textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Termeh",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/unclassified/persian-iran/images/eu_2048047_Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/textile/persian-iran/images/eu_2048047_Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ea08ccfe0a81f8f9a782f85d1bc4a4df8f88c90b2b1b3e0df28840b18d2ffa07",
       "bytes": 34402,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\persian-iran\\images\\eu_2048047_Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\persian-iran\\images\\eu_2048047_Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:37.985187+00:00"
+  "processed_at": "2026-07-28T18:42:15.223249+00:00"
 }

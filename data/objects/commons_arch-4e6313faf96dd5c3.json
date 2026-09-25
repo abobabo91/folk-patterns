@@ -17,8 +17,15 @@
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Interior of Gur-e Amir",
-    "art_form": "architectural",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "This is a framed modern painted portrait of Amir Temur (Tamerlane) hanging on a museum wall, not an architectural subject at all despite the claimed category; it is a piece of contemporary studio art depicting a historical Timurid/Uzbek figure.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "20230615 Samarkand144.jpg",

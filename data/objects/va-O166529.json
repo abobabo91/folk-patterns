@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows four flat-woven/knotted pile \"bag faces\" with typical Turkmen guls (octagonal medallions) and a striped fringed tent bag below, all consistent with Central Asian Turkmen weaving traditions matching the described technical structure (asymmetrical knots, wool warp/weft/pile). This fits a broad \"_regional\" Central Asian claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -81,13 +85,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O166529.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O166529.jpg",
       "iiif_id": "2011EY9183",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011EY9183/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "093a46d3e22429013540c135773f523dee4876cce242fca125fd62590b4de5f7",
       "bytes": 194931,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O166529.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O166529.jpg"
     }
   ],
   "map": {
@@ -95,5 +99,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:31:24.594169+00:00"
+  "processed_at": "2026-07-18T06:29:57.816070+00:00"
 }

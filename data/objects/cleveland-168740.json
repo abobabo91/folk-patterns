@@ -18,7 +18,14 @@
     "ethnicity": "Kongo",
     "tradition": "Kongo",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Kongo crucifix figure (nkangi kiditu type), a metal corpus made by Kongo artisans blending Christian iconography with local sculptural conventions, a well-documented Kongo Christian art form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Corpus (Crucified Christ)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:42.486305+00:00"
+  "processed_at": "2026-07-28T18:41:31.767798+00:00"
 }

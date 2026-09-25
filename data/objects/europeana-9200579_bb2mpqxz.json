@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Zulu",
     "tradition": "Zulu",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary studio photograph displaying an array of Zulu material culture (shields, beadwork necklaces, spoons, pots, baskets, mats) arranged for photographic record — clearly belongs to the claimed culture, though the category should be photo, not painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Africa: a display of Zulu shields, mats, pillows, smoking horns, monchies, spoons, baskets, tschinala and amas pots, and beadwork. Albumen print.",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/zulu/metalwork/zulu/images/eu_9200579_bb2mpqxz.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/zulu/painting-mss/zulu/images/eu_9200579_bb2mpqxz.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "509ca4225497f09882fc8ddf6e1037825cd05afdebc004c0f6b13e2294f18730",
       "bytes": 96464,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\metalwork\\zulu\\images\\eu_9200579_bb2mpqxz.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\painting-mss\\zulu\\images\\eu_9200579_bb2mpqxz.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:05:59.073395+00:00"
+  "processed_at": "2026-07-28T18:47:26.028429+00:00"
 }

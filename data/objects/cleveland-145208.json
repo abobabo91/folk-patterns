@@ -19,8 +19,12 @@
     "tradition": "Thai",
     "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A bronze seated Buddha in Chiang Sen/Lanna style from northern Thailand, made and used within Thai Buddhist tradition — clearly fits the claimed ethnicity and is temple/court sculpture from the region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:06.150797+00:00"
+  "processed_at": "2026-07-28T18:41:21.156559+00:00"
 }

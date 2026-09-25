@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A long batik-patterned cotton shoulder cloth (slendang) with geometric diamond motifs, consistent with 19th-century Central Javanese batik textile tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/javanese/images/cle_107857.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/java/images/cle_107857.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1d84fc62c0a9f12d06cb45a40f1d92103fbb3eb266d397ef0a011a0ac1ee68cd",
       "bytes": 193070,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\javanese\\images\\cle_107857.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\java\\images\\cle_107857.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:29.227010+00:00"
+  "processed_at": "2026-07-28T11:56:35.607161+00:00"
 }

@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a kalis/sundang sword with okir-style pierced hilt fittings and cockatoo pommel, a weapon form traditionally made and used by Muslim groups of Mindanao (Maranao/Moro), fitting the Filipino ethnicity claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Sword (Kalis or Sundang)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.937239+00:00"
+  "processed_at": "2026-07-28T18:41:28.778551+00:00"
 }

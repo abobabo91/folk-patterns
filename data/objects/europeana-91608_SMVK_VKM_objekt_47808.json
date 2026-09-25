@@ -20,8 +20,12 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a silk ikat robe (chapan) with a printed cotton lining, a classic Central Asian court/official garment consistent with traditional Uzbek dress and textile production.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "dräkt, dress",
@@ -31,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -80,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:17:39.246684+00:00"
+  "processed_at": "2026-07-28T18:41:52.137209+00:00"
 }

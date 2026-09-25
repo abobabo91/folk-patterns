@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Tajikistan",
     "ethnicity": "Tajik",
-    "tradition": "Tajik",
+    "tradition": "Tajik Tajikistan",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "An embroidered suzani-style textile with dense floral medallion embroidery, explicitly documented as Tajik national ornament made in the Tajik SSR — a classic Tajik embroidered textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Seinavaip, Tadžiki NSV, 1963",
@@ -38,7 +42,7 @@
     "styles": [],
     "categories": [],
     "physical_description": null,
-    "summary": "event comment: Tajik national ornament.",
+    "summary": null,
     "historical_context": null,
     "dimensions": [],
     "dimensions_note": null,
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/unclassified/tajik/images/eu_401_item_K7R7TTRDUQB7AR4N5FQM3TYL5GCRH4JY.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/textile/tajik-tajikistan/images/eu_401_item_K7R7TTRDUQB7AR4N5FQM3TYL5GCRH4JY.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "4ec7e23825ea8b38bfe253ed67846683087826a3a23b03ff30391fc78c93ba9d",
-      "bytes": 283547,
-      "local_path": "library\\central-asia\\tajikistan\\tajik\\unclassified\\tajik\\images\\eu_401_item_K7R7TTRDUQB7AR4N5FQM3TYL5GCRH4JY.jpg"
+      "sha256": "c388d1b655cadf28bd207aa0d72fe5972d44f67ef64f2c3221d5fc1c8c84f163",
+      "bytes": 82166,
+      "local_path": "library\\central-asia\\tajikistan\\tajik\\textile\\tajik-tajikistan\\images\\eu_401_item_K7R7TTRDUQB7AR4N5FQM3TYL5GCRH4JY.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:30:45.897622+00:00"
+  "processed_at": "2026-07-28T18:41:57.460587+00:00"
 }

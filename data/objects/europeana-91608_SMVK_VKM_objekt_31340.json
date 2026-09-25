@@ -17,8 +17,15 @@
     "country": "Gabon",
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
-    "art_form": "household",
-    "pattern_density": 0
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The object is a wooden lur (signal horn/call), a plausible household/utility item from the Gabon/Ogooué region; such wooden trumpets were used across Fang and neighboring groups for signaling, so it fits the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments"
   },
   "physical": {
     "title": "lur",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/unclassified/fang-gabon/images/eu_91608_SMVK_VKM_objekt_31340.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/household/fang-gabon/images/eu_91608_SMVK_VKM_objekt_31340.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c6de49b23ada1813dc913efeeed3993d913bfbb0e49fb03e1782270db92ab565",
       "bytes": 6414,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\unclassified\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31340.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\household\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31340.jpg",
+      "low_quality": true
     }
   ],
   "map": {

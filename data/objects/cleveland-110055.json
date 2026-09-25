@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a batik sarong with tumpal border, gold leaf accents, and floral/phoenix motifs characteristic of the north coast Javanese batik tradition, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/javanese/images/cle_110055.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/java/images/cle_110055.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fa1753a6f762b9de3645dff0adebf6ff2daf15555f45a8a98a780fc02bbb3ef3",
       "bytes": 221749,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\javanese\\images\\cle_110055.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\java\\images\\cle_110055.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:28.819033+00:00"
+  "processed_at": "2026-07-28T11:56:25.179950+00:00"
 }

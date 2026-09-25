@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photo of Batak women and girls wearing traditional woven sarongs (ulos-type cloth) and distinctive broad hats, consistent with Batak dress from Sumatra.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "43b4793c08d41c3904daa6a5fe5f2f24346b78b705a2ae1d121768de75c0348b",
       "bytes": 25860,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_adda9d22_d0b4_102d_bcf8_003048976d84.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_adda9d22_d0b4_102d_bcf8_003048976d84.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:48.741553+00:00"
+  "processed_at": "2026-07-28T18:43:25.388544+00:00"
 }

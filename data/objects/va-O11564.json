@@ -13,14 +13,19 @@
     "accession_year": 1909
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "acheik",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a hand-woven silk luntaya acheik tapestry-weave cloth, the classic Bamar (Myanmar court) textile tradition, with the characteristic wave patterns and checkered end borders described, from Mandalay.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -564,13 +569,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/acheik/images/va_O11564.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/acheik/images/va_O11564.jpg",
       "iiif_id": "2020MP4360",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4360/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5c7fb1d23a78f790af3d9b338acec4469990f506de2702473eaf515f98a282ee",
       "bytes": 58534,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\acheik\\images\\va_O11564.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11564.jpg"
     }
   ],
   "map": {

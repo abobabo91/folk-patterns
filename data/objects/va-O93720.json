@@ -19,8 +19,13 @@
     "tradition": "double ikat",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A striped and ikat-patterned tubular skirt cloth from Burma, consistent with regional textile traditions and plausible for the claimed regional attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -264,31 +269,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/double-ikat/images/va_O93720.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/double-ikat/images/va_O93720.jpg",
       "iiif_id": "2020MN9396",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9396/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "7f5e21c7392b9b399f3cb19bd78e83557c09aeb3c9da9817671cb9823c108bfb",
       "bytes": 366999,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\double-ikat\\images\\va_O93720.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\double-ikat\\images\\va_O93720.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/double-ikat/images/va_O93720_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/double-ikat/images/va_O93720_1.jpg",
       "iiif_id": "2018LE3007",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LE3007/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "4c546bb586ae64aa25253e48fbe047efa5f3cd641b68d8d8e1a5f65ae819dbbe",
       "bytes": 340413,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\double-ikat\\images\\va_O93720_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\double-ikat\\images\\va_O93720_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/double-ikat/images/va_O93720_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/double-ikat/images/va_O93720_2.jpg",
       "iiif_id": "2018LE3006",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LE3006/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "0df645c4691d355afd2c580729a71d56d82405c6c3d602bb0e95e3c528c4d7d8",
       "bytes": 442760,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\double-ikat\\images\\va_O93720_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\double-ikat\\images\\va_O93720_2.jpg"
     }
   ],
   "map": {

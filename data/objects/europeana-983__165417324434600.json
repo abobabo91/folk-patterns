@@ -19,8 +19,13 @@
     "tradition": "Bamar",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a kalaga tapestry with padded, sequined elephant appliqué under an ornate archway — a classic Burmese kalaga embroidery textile, plausible for the Bamar/Myanmar tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Kalaga-kirjontatyö elefantit",
@@ -32,12 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2728",
-      "http://data.europeana.eu/concept/1796"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2728; http://data.europeana.eu/concept/1796",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -68,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/bamar/images/eu_983__165417324434600.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/bamar/images/eu_983__165417324434600.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bac8655f32d0489e4f7160a5d332b0b6aa7d0d3c07154d886c9635d24a76e056",
       "bytes": 148170,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\bamar\\images\\eu_983__165417324434600.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\bamar\\images\\eu_983__165417324434600.jpg"
     }
   ],
   "map": {
@@ -82,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:35:07.725750+00:00"
+  "processed_at": "2026-07-28T18:44:41.927334+00:00"
 }

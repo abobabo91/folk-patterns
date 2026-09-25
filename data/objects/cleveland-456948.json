@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "garment",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a beaded garment (breast cover/apron) made of strung glass beads with a zigzag pattern, consistent with elite Xhosa beadwork ceremonial dress as described. This is a garment made and worn by Xhosa women, so it belongs to the claimed group.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Royal ceremonial beadwork: breast cover (incebetha)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:25.905169+00:00"
+  "processed_at": "2026-07-28T18:41:34.011049+00:00"
 }

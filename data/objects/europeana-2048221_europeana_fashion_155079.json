@@ -17,8 +17,15 @@
     "country": "Tanzania",
     "ethnicity": "Swahili",
     "tradition": "Swahili Zanzibar",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a printed cotton kanga cloth with Swahili text (\"Dawa ya moto ni moto\"), a traditional East African wrapper garment worn by women, matching the claimed Swahili ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Katoenen wikkeldoek",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:54:23.789305+00:00"
+  "processed_at": "2026-07-28T18:46:33.166387+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": 1893
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Samarkand tile",
-    "art_form": "ceramic",
+    "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "A fragmentary glazed earthenware frieze tile with interlacing geometric design in turquoise, white, and purple/manganese, from Samarkand — consistent with Central Asian Timurid-era architectural tilework, plausible for Uzbek craft tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -174,22 +178,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O224780.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/ceramic/samarkand-tile/images/va_O224780.jpg",
       "iiif_id": "2010ED7382",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2010ED7382/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5bce8c1ea43a31517a28d3179a6c4255e6936d6fdcb8a74022b2b8b98ba73ba5",
       "bytes": 85203,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O224780.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\ceramic\\samarkand-tile\\images\\va_O224780.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O224780_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/ceramic/samarkand-tile/images/va_O224780_1.jpg",
       "iiif_id": "2010ED7384",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2010ED7384/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "a3a5e1ac715e04086548ea9b0d1eebe5a4b0eb71b81545a4d7dd90395d1a0af9",
       "bytes": 114996,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O224780_1.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\ceramic\\samarkand-tile\\images\\va_O224780_1.jpg"
     }
   ],
   "map": {

@@ -14,14 +14,18 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Turkmenistan",
-    "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "country": "Afghanistan",
+    "ethnicity": "Afghan Turkmen",
+    "tradition": "Ersari carpet",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "Two Turkmen-style knotted wool carpet/bag-face fragments with typical asymmetrical-knot pile weave and geometric panel designs, consistent with Central Asian nomadic weaving traditions; the image and technical data support the general regional attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -81,13 +85,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O167207.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O167207.jpg",
       "iiif_id": "2012FT7094",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FT7094/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6d612964cdbc0fa81d74e1d35ae300e3191c9539219bc0696eda64d5e5fe813b",
       "bytes": 322047,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O167207.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O167207.jpg"
     }
   ],
   "map": {
@@ -95,5 +99,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:31:32.534199+00:00"
+  "processed_at": "2026-07-18T06:35:13.043608+00:00"
 }

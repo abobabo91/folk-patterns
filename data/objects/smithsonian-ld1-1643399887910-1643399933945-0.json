@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "piña",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A handwoven plaid/check textile in natural fiber tones, plausible as a traditional Filipino handwoven cloth (e.g., abaca or piña-blend); no conflicting cultural markers present.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Textile",
@@ -68,22 +73,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/architectural/pina/images/si_chndm_1961-181-1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/si_chndm_1961-181-1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3a7bd609d2223bbbc9baf7a0fa559a65b0e430f1951de3cc9378654bc2d37e2c",
       "bytes": 1984037,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\architectural\\pina\\images\\si_chndm_1961-181-1.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1961-181-1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/architectural/pina/images/si_chndm_1961-181-1_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/si_chndm_1961-181-1_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "771ed9361a2b1120110f82fa858019b875d1f275c03087cfa62738972107842c",
       "bytes": 3446781,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\architectural\\pina\\images\\si_chndm_1961-181-1_1.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1961-181-1_1.jpg"
     }
   ],
   "map": {

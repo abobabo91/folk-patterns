@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
-    "tradition": "Balinese",
+    "tradition": "Bali",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A narrow handwoven cotton band with weft-float diamond patterning in magenta, purple, and orange tones, consistent with traditional Balinese woven textile bands (e.g., sash/belt cloth). Nothing contradicts the Balinese attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/balinese/images/cle_157113.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/bali/images/cle_157113.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0ee2992592aff03a5a9efaabf99ceb970aef04736931f088f44d3a124d9827ce",
       "bytes": 393011,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\cle_157113.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\bali\\images\\cle_157113.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:34.589918+00:00"
+  "processed_at": "2026-07-28T11:56:51.115329+00:00"
 }

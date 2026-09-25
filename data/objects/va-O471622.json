@@ -13,14 +13,19 @@
     "accession_year": 1994
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Laos",
     "ethnicity": "Lao",
     "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A red silk scarf with supplementary-weft patterned end panels in geometric diamond and zigzag motifs, a traditional Lao/Tai weaving technique and style consistent with textiles from Laos.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -83,13 +88,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/unclassified/lao-silk/images/va_O471622.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O471622.jpg",
       "iiif_id": "2020MP8061",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8061/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "a9f061fb63a11775fe5644d84046a422cd5d59ac388e9469afab6d6bae3e145c",
       "bytes": 425685,
-      "local_path": "library\\southeast-asia\\laos\\lao\\unclassified\\lao-silk\\images\\va_O471622.jpg"
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O471622.jpg"
     }
   ],
   "map": {

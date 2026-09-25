@@ -13,15 +13,19 @@
     "accession_year": "1987"
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "general",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "This is a bronze seated deity figure in East Javanese style (crown, jewelry, lotus base) from Ngandjuk, Java — a classic Central/East Javanese Hindu-Buddhist bronze tradition no longer practiced today.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Seated Male Deity Holding a Cuirass (Chest Armour)",

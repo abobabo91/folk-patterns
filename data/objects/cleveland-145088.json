@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A stone guardian lion sculpture from Angkorean-period Cambodia, a well-known Khmer temple sculptural form, matching the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer/images/cle_145088.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_145088.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "332e9de56e3cbb1143a58274d4b7f2816a24688f5f4de0e61efeee9f29a1e6ab",
       "bytes": 244031,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer\\images\\cle_145088.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_145088.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:24.961982+00:00"
+  "processed_at": "2026-07-28T11:57:16.360278+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Ashanti",
     "tradition": "Ashanti Ghana",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a classic Akuaba fertility doll with disc-shaped head, ringed neck, and cross-form body with beaded ornaments — the well-known Akan/Ashanti fertility figure type, matching the metadata's own identification.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "skulptur, ashanti doll, fertilitetsskulptur, sculpture, akuaba",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "f307f28918a4cdefeb87e953720798a4b04d5ef3acf41a29d8b8a679df0bcf6f",
       "bytes": 23080,
-      "local_path": "library\\sub-saharan-africa\\ghana\\ashanti\\sculpture\\ashanti-ghana\\images\\eu_91619_SMVK_EM_objekt_1217801.jpg"
+      "local_path": "library\\sub-saharan-africa\\ghana\\ashanti\\sculpture\\ashanti-ghana\\images\\eu_91619_SMVK_EM_objekt_1217801.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:46:56.783921+00:00"
+  "processed_at": "2026-07-28T18:45:43.892567+00:00"
 }

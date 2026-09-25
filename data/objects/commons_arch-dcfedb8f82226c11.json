@@ -18,7 +18,14 @@
     "ethnicity": "Tigray",
     "tradition": "Yeha",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photo of a village house in Yeha, Tigray with two children, stone/mud construction and Ge'ez script signage typical of Tigray daily life and architecture. This fits the claimed Tigray ethnicity as an everyday scene.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "YeHa Village, Tigray.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/architectural/yeha/images/carch_dcfedb8f82226c11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/photo/yeha/images/carch_dcfedb8f82226c11.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e0137b43b9c273dc1dc7c7765962ecad4470b3bbb35ae494b031f4b0ecd03232",
       "bytes": 447804,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\architectural\\yeha\\images\\carch_dcfedb8f82226c11.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\photo\\yeha\\images\\carch_dcfedb8f82226c11.jpg"
     }
   ],
   "map": {

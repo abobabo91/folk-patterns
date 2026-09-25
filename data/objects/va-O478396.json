@@ -13,14 +13,19 @@
     "accession_year": 1984
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Laos",
     "ethnicity": "Lao",
     "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A checkered silk shoulder cloth in blue, magenta and orange, consistent with traditional Lao handwoven silk textiles used as shawls/shoulder cloths.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "textile",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

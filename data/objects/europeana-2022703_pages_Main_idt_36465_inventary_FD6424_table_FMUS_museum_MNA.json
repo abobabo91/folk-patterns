@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary stereoscopic photograph of a Fulani (Peuhl) man crouching in an arid landscape in Senegal/Gambia, showing his dress and pose — a straightforward ethnographic portrait matching the claimed group.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Peuhle - Placa fotográfica",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "a51d4925f4307c7084449174247c34e272a4943d2e100554f02ca8221329da4e",
       "bytes": 17087,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_36465_inventary_FD6424_table_FMUS_museum_MNA.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_36465_inventary_FD6424_table_FMUS_museum_MNA.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:33.833630+00:00"
+  "processed_at": "2026-07-28T18:45:22.103978+00:00"
 }

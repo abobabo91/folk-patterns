@@ -17,8 +17,15 @@
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a long narrow woven silk band/belt with a central ikat pattern in reddish-brown and cream tones, flanked by striped borders, with beaded tassels at the end — consistent with Central Asian ikat-woven belts/sashes of the Uzbek tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "ribbon (?); belt (?)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/uzbek/images/bm_A_As-3464.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbek/images/bm_A_As-3464.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "abc2176002d9418209046bc39ac0f3272af51d7368151438fef1476e7016b8f7",
       "bytes": 49981,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\uzbek\\images\\bm_A_As-3464.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbek\\images\\bm_A_As-3464.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:44.978539+00:00"
+  "processed_at": "2026-07-28T18:57:30.934418+00:00"
 }

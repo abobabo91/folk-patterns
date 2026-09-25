@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows a carved stone shrine sign with a bell symbol at Pura Besakih temple on Bali, Balinese temple stone carving, a plausible product of Balinese architecture/craft. It is a real photograph of a temple ornament, not a painting/manuscript despite the claimed category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "007 Bell Symbol, Pura Besikih, Mount Agung, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-besakih/images/carch_f9d228fbd4fc8cb9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-besakih/images/carch_f9d228fbd4fc8cb9.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bba93c22fff5fa267e934072fd051afbdec3422ad1ba5bd052ab8475a29e23bb",
       "bytes": 1095430,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-besakih\\images\\carch_f9d228fbd4fc8cb9.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-besakih\\images\\carch_f9d228fbd4fc8cb9.jpg"
     }
   ],
   "map": {

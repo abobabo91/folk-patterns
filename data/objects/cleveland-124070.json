@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "jewelry",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A gold ring set with a moonstone cabochon and ruby-accented floral scrollwork, consistent with 19th-century Cambodian court goldsmithing; a plausible Khmer-made personal ornament.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "jewelry"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/khmer/images/cle_124070.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/cambodian/images/cle_124070.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e84543b063f1cd4c624dd275d18a5f1d8c78a199c8c19f35ee4777cdf3773cfe",
       "bytes": 84855,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\khmer\\images\\cle_124070.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\cambodian\\images\\cle_124070.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.535005+00:00"
+  "processed_at": "2026-07-28T11:57:58.156567+00:00"
 }

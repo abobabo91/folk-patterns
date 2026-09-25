@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "These are traditional Burmese lacquerware nesting boxes (yun-de) with gwin-shet linked-cellular patterning and zodiac motifs, a craft form made and used by the Bamar; the museum's own category label is wrong (it's household lacquerware, not a painting/manuscript), but that mislabeling doesn't disqualify the object itself.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": null,
@@ -297,31 +302,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O48717.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O48717.jpg",
       "iiif_id": "2020MP2601",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP2601/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "79f91fa18d89be9236deeee6cff02d3a357d38d236d3138d0987993e8167c07c",
       "bytes": 87813,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O48717.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O48717.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O48717_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O48717_1.jpg",
       "iiif_id": "2011ER1184",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011ER1184/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e7a20dcfa73bd6f7aef3dc900680c30df3f09308c5d134bce3b34358aa5bffd3",
       "bytes": 116345,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O48717_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O48717_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O48717_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O48717_2.jpg",
       "iiif_id": "2011ER1177",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011ER1177/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1364574ca6d862785029dabd5258368ef45035fc85aab22e77950382201a1bd9",
       "bytes": 115093,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O48717_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O48717_2.jpg"
     }
   ],
   "map": {

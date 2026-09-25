@@ -19,8 +19,13 @@
     "tradition": "Lao",
     "art_form": "textile",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a red silk embroidered ceremonial banner/pennant with Lao and Romanian text, presented by a Lao delegation to the Romanian Communist Party — a diplomatic gift made in the Lao textile-embroidery tradition, so it qualifies as something made by the claimed people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Fanion din mătase roșie de formă rectangulară cu franjuri galbeni pe trei laturi. Este brodat în limba laoțiană și în română cu un text despre prietenia dintre cele două popoare. În română textul este: „Să fie în veci prietenia și solidaritatea militantă dintre Partidul Popular Revoluționar din Laos și Partidul Comunist Român, dintre poporul laoțian și poporul român!/noiembrie 1974/din partea Comitetului Central al Partidului Popular Revoluționar din Laos” Oferit de delegația laoțiană cu prilejul Congresului al XI-lea al PCR, din noiembrie 1974.",
@@ -32,11 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2130"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2130",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -81,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:34:55.694968+00:00"
+  "processed_at": "2026-07-28T18:44:36.091483+00:00"
 }

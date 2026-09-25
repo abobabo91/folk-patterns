@@ -16,11 +16,16 @@
     "region": "southeast-asia",
     "country": "Vietnam",
     "ethnicity": "Hmong",
-    "tradition": "Hmong embroidery",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "tradition": "Hmong applique",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A woven cotton waist-belt with symmetrical blue-and-red appliqué/embroidery floral panels and long fringes, a type of dress accessory worn by Shan/Myanmar-region hill peoples; the museum's own file locates it to Shan, consistent with the regional Myanmar claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -510,13 +515,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/hmong-embroidery/images/va_O101273.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/hmong-applique/images/va_O101273.jpg",
       "iiif_id": "2020MN9376",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9376/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "a4e35fa63ebb1a8b7fd586ca2739657b02f8c8088540533549e1c0112f76bd39",
       "bytes": 55641,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\hmong-embroidery\\images\\va_O101273.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\hmong-applique\\images\\va_O101273.jpg"
     }
   ],
   "map": {
@@ -524,5 +529,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:28:59.131533+00:00"
+  "processed_at": "2026-07-18T11:29:04.504220+00:00"
 }

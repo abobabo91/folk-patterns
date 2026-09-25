@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The mask shows cowrie shells, raffia/fiber fringe, and a fur/textile face with a distinctive nose bridge, consistent with a mbuya-type initiation mask from the Kuba/West Kasai region as the museum itself notes; this is a plausible ritual object for the claimed culture even though attribution is only probable.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Kongolesische Maske",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:20.544445+00:00"
+  "processed_at": "2026-07-28T18:46:55.429136+00:00"
 }

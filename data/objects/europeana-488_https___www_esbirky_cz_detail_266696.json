@@ -18,7 +18,14 @@
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of a standing Mbuti/Bambuti man with a headdress, ornaments, and a bow, matching the title \"Bambuti\" and depicting traditional dress and daily life — though labeled painting-mss, the actual image is a photograph.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Stojící muž s lukem v ruce, Bambuti",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/unclassified/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266696.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/painting-mss/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266696.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5316db38883856676e2a101af7abad1abc90f2e7f8c53c2f4d88052784406bbb",
       "bytes": 74259,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266696.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\painting-mss\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266696.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:44.940688+00:00"
+  "processed_at": "2026-07-28T18:47:25.229732+00:00"
 }

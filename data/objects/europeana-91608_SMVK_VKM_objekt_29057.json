@@ -17,8 +17,15 @@
     "country": "Nigeria",
     "ethnicity": "Yoruba",
     "tradition": "Yoruba Nigeria",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The drawing shows a helmet-style wooden mask with a carved face, painted details, and pointed ear flaps, collected in Oyo, Nigeria — consistent with a Yoruba Gelede-type masquerade helmet mask (the description explicitly ties it to \"geledesällskapet,\" the Gelede society).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "mask, Hjälmmask",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:46:02.304237+00:00"
+  "processed_at": "2026-07-28T18:45:36.780688+00:00"
 }

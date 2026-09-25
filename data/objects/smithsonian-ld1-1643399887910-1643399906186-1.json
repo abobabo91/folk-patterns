@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a cream cotton cloth fragment densely batik-patterned in indigo blue with sprays of flowers, leaves and stylized birds — a classic Javanese blue batik textile fragment, clearly and fully photographed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Sarong fragment",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/batik/images/si_chndm_1938-34-1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/si_chndm_1938-34-1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "14d1762984e85bb96b2921190a717d18a0b2294864fccbc91fda50b04d85c148",
       "bytes": 5701381,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\batik\\images\\si_chndm_1938-34-1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\si_chndm_1938-34-1.jpg"
     }
   ],
   "map": {

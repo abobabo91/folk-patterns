@@ -18,9 +18,13 @@
     "ethnicity": "Malay",
     "tradition": "Malay",
     "art_form": "metalwork",
-    "pattern_density": 1,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A white-metal (silver/pewter alloy) repoussé pillow-end plate with dense floral and scroll ornament, a traditional Malay decorative metalwork form used on bridal or ceremonial bolster/pillow ends, consistent with Malaysia's Peranakan/Malay silverware tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "metalwork"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/ceramic/malay/images/cle_96716.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/metalwork/malay/images/cle_96716.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "eea2951dec050230e9f273d219b5ba584cd8a1d949b492dc5e958bbe85185763",
       "bytes": 218635,
-      "local_path": "library\\southeast-asia\\malaysia\\malay\\ceramic\\malay\\images\\cle_96716.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\metalwork\\malay\\images\\cle_96716.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:57.912347+00:00"
+  "processed_at": "2026-07-28T18:41:20.405664+00:00"
 }

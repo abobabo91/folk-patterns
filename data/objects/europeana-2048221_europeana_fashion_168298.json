@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A four-tined wooden hair comb with a herringbone-carved handle and arched pierced grip, plausible as Central African/Kuba-style personal grooming item; museum notes the carving style is consistent with Kuba work.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "Houten sierkam met vier tanden",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "d5d940cedb0f561dac8fe301b1bae7b4a177cb7a20e8af29b7201051c2a36dd7",
       "bytes": 22167,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\unclassified\\kuba-congo\\images\\eu_2048221_europeana_fashion_168298.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\unclassified\\kuba-congo\\images\\eu_2048221_europeana_fashion_168298.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:17.942741+00:00"
+  "processed_at": "2026-07-28T18:46:53.898155+00:00"
 }

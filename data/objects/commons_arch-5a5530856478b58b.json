@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows a long, elevated wooden longhouse on stilts with a covered gallery and multiple doors/windows, consistent with a traditional Iban communal longhouse structure in Borneo/Malaysia.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Iban longhouse2.JPG",

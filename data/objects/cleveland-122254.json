@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
-    "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A pre-Angkorian sandstone figure of Vishnu with mitre crown and sampot in the Prasat Andet style, a classic Khmer temple sculpture from Cambodia.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer/images/cle_122254.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_122254.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "68353a76cec3848811dc179a2e2742a9566a97eb502fd644abb248b0101a0ec4",
       "bytes": 56485,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer\\images\\cle_122254.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_122254.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.896880+00:00"
+  "processed_at": "2026-07-28T11:57:41.813041+00:00"
 }

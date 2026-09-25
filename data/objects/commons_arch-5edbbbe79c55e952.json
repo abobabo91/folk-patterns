@@ -17,8 +17,15 @@
     "country": "Tanzania",
     "ethnicity": "Swahili",
     "tradition": "Doors in Zanzibar",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a traditional carved wooden Zanzibari door set into a weathered coral-rag building in Stone Town, a hallmark of Swahili coastal architecture and craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Door in the Corner - Old building in Zanzibar Stone Town.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/swahili/architectural/doors-in-zanzibar/images/carch_5edbbbe79c55e952.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/swahili/photo/doors-in-zanzibar/images/carch_5edbbbe79c55e952.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e85d3fdb9e885a2d7b7e4a02c71e19118b055fd1d734b80eb65383962d0ad267",
       "bytes": 392689,
-      "local_path": "library\\sub-saharan-africa\\tanzania\\swahili\\architectural\\doors-in-zanzibar\\images\\carch_5edbbbe79c55e952.jpg"
+      "local_path": "library\\sub-saharan-africa\\tanzania\\swahili\\photo\\doors-in-zanzibar\\images\\carch_5edbbbe79c55e952.jpg"
     }
   ],
   "map": {

@@ -17,11 +17,16 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Pura Ulun Danu Bratan",
-    "art_form": "architectural",
+    "art_form": "photo",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/008_The_11-Tiered_Temp",
+    "vision_reason": "The photograph shows the multi-tiered meru shrine of Pura Ulun Danu Beratan, a Balinese Hindu temple, which is a Balinese-built structure; the claimed category \"painting-mss\" is wrong but the culture attribution is correct.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "008 The 11-Tiered Temple, Pura Ulun Danu Beratan, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-ulun-danu-bratan/images/carch_a0484d8adb4e84b9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-ulun-danu-bratan/images/carch_a0484d8adb4e84b9.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "08301fbace2944181924a891b0399b06a119905cafdfa772dd484c2cb425acf2",
       "bytes": 214886,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-ulun-danu-bratan\\images\\carch_a0484d8adb4e84b9.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-ulun-danu-bratan\\images\\carch_a0484d8adb4e84b9.jpg"
     }
   ],
   "map": {

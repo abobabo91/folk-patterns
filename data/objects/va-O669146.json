@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "barong Tagalog",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The watercolour depicts a man in striped barong-style shirt, trousers, and top hat holding a gamecock, with a Tagalog caption pasted below — a traditional Filipino costume/genre study made in Manila. This clearly fits the claimed Filipino ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": null,

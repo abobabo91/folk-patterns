@@ -18,9 +18,14 @@
     "ethnicity": "Iban",
     "tradition": "Iban",
     "art_form": "garment",
-    "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A warp-ikat ceremonial jacket (kalambi) with warrior figures and hornbill motifs, attributed to the Iban (Sea Dayak) of Sarawak — a documented traditional garment type of this group.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Iban, jacka, kalambi",
@@ -30,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -65,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/unclassified/iban/images/eu_91608_SMVK_VKM_objekt_105029.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/garment/iban/images/eu_91608_SMVK_VKM_objekt_105029.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "65a1d55eca7a31e03c235d29d2180173e75ecf4158c6349524889d53c7242a6b",
       "bytes": 20270,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\unclassified\\iban\\images\\eu_91608_SMVK_VKM_objekt_105029.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\iban\\garment\\iban\\images\\eu_91608_SMVK_VKM_objekt_105029.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -79,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:49.038442+00:00"
+  "processed_at": "2026-07-28T18:44:20.092936+00:00"
 }

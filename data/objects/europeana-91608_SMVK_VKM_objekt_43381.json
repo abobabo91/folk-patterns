@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "household",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Leg rattles made from small gourds/shells strung on sticks with leather straps, collected in Angola during the Bolinder expedition — a plausible Chokwe-region dance/ritual accessory used as anklet rattles.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "skallra",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "111b5ea54f5cf5eb58e3522c73c3f41d7d6fb0c44713eb49bbe55506cf5d5c2d",
       "bytes": 17981,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43381.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43381.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:12.641397+00:00"
+  "processed_at": "2026-07-28T18:47:06.880928+00:00"
 }

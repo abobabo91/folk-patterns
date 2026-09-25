@@ -20,7 +20,11 @@
     "art_form": "metalwork",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is the top of a Dongson bronze drum, a product of the Dongson culture (an archaeological tradition, c. 300–400 CE) found across mainland Southeast Asia including sites in Thailand; it is not made by the modern Thai ethnic group but is archaeology of the region, which is acceptable.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "metalwork"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/unclassified/thai/images/cle_155735.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/metalwork/thai/images/cle_155735.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "79071ba3a796d0be1f6b1d13f67f95dce2579df15cd130b72ba3320b520fa7f1",
       "bytes": 235095,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\cle_155735.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\metalwork\\thai\\images\\cle_155735.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:06.056492+00:00"
+  "processed_at": "2026-07-28T18:41:21.069797+00:00"
 }

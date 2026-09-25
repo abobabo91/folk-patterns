@@ -19,8 +19,13 @@
     "tradition": "batik",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "Batik cotton textile with classic parang (diagonal slanting) motif and floral/foliate border, a resist-dye technique and pattern consistent with Malay/Indonesian regional batik tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -80,31 +85,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/architectural/batik/images/va_O478583.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O478583.jpg",
       "iiif_id": "2021NA3554",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3554/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "75794af45be0bd0a78bd2e31c66586d4625354b8aa224f4248c6b79afd6cf909",
       "bytes": 371865,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\architectural\\batik\\images\\va_O478583.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O478583.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/architectural/batik/images/va_O478583_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O478583_1.jpg",
       "iiif_id": "2012FM9542",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9542/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1abd190707e324e10ad207b9f44fe194b1b001ef30d963e7475ca9e6aa31c0e8",
       "bytes": 344367,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\architectural\\batik\\images\\va_O478583_1.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O478583_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/architectural/batik/images/va_O478583_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O478583_2.jpg",
       "iiif_id": "2018KY9275",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9275/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b7e042a9199d97519420da0e070a6f3d21def66b2c1696c99faaf14cbf236111",
       "bytes": 271566,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\architectural\\batik\\images\\va_O478583_2.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O478583_2.jpg"
     }
   ],
   "map": {

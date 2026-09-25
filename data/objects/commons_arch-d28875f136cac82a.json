@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows the golden qilin (kỳ lân) statue and stone staircase within the Hue Imperial City complex, a Nguyen dynasty (Kinh Vietnamese) royal site — clearly Kinh architectural/court art rather than a person photo, despite the \"photo\" category label.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "4.4 Hue-23 (36458207732).jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/architectural/imperial-city-hue/images/carch_d28875f136cac82a.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/photo/imperial-city-hue/images/carch_d28875f136cac82a.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "36901ccc9b19b44b45fefb3cb4368270b06ed52a3aaf75eda0e427194e1716cb",
       "bytes": 212747,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\architectural\\imperial-city-hue\\images\\carch_d28875f136cac82a.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\kinh\\photo\\imperial-city-hue\\images\\carch_d28875f136cac82a.jpg"
     }
   ],
   "map": {

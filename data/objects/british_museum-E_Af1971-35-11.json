@@ -18,7 +18,14 @@
     "ethnicity": "Yoruba",
     "tradition": "Yoruba",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an indigo resist-dyed adire cloth with a diamond fold-and-tie pattern, a classic Yoruba textile technique and object type.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "adire",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:55:39.164979+00:00"
+  "processed_at": "2026-07-28T19:24:42.999587+00:00"
 }

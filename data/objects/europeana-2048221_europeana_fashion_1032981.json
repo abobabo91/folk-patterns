@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Persian Iran",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a metallic textile face veil (burqa/mask-style veil) worn by women in Bandar Abbas, Iran, matching the claimed Persian ethnicity; it is a garment, not a sculpture as mis-labeled.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Face mask",
@@ -65,8 +72,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "6347dde3123b8698b930dd3c297ce0b8ee4e3b48d95bdbe5c5d8d64af4646872",
-      "bytes": 22410,
+      "sha256": "45fdfe24df5c5b2a70cee249f043dd71e46ea4a0a5c983c4f2c4c63cd2a613da",
+      "bytes": 660232,
       "local_path": "library\\middle-east-north-africa\\iran\\persian\\sculpture\\persian-iran\\images\\eu_2048221_europeana_fashion_1032981.jpg"
     }
   ],
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:38.584264+00:00"
+  "processed_at": "2026-07-28T18:42:15.233091+00:00"
 }

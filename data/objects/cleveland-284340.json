@@ -20,8 +20,12 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A hand-embroidered indigo cotton robe with crimson floral/sunburst silk embroidery, consistent with Karakalpak/Khorezm women's robes from Uzbekistan; this matches the claimed Uzbek ethnicity and garment category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Woman's robe with crimson flora",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:45.180129+00:00"
+  "processed_at": "2026-07-28T18:40:55.396427+00:00"
 }

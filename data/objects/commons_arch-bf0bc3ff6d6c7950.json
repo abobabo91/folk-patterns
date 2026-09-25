@@ -17,8 +17,15 @@
     "country": "Ghana",
     "ethnicity": "Ashanti",
     "tradition": "Manhyia Palace",
-    "art_form": "architectural",
-    "pattern_density": 2
+    "art_form": "household",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an Ashanti royal fly whisk (elephant tail hair with gold-decorated handle) displayed at the Manhyia Palace Museum, a regalia item used by Ashanti chiefs, though it is mislabeled as \"architectural\" rather than an object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "A historical fly whisk at the manhyia palace.jpg",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "f3cf5109e9b62daa6b85c66d18520f006d32f32f4e4ff0802056ec9e4fe382c9",
       "bytes": 23824,
-      "local_path": "library\\sub-saharan-africa\\ghana\\ashanti\\architectural\\manhyia-palace\\images\\carch_bf0bc3ff6d6c7950.jpg"
+      "local_path": "library\\sub-saharan-africa\\ghana\\ashanti\\architectural\\manhyia-palace\\images\\carch_bf0bc3ff6d6c7950.jpg",
+      "low_quality": true
     }
   ],
   "map": {

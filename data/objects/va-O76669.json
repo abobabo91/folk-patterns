@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Salor gul",
+    "tradition": "gul motif",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a Turkoman (Salor) knotted wool and silk chuval (bag face) with typical guls and tribal border patterns, a textile made and used by a Central Asian Turkoman group, consistent with the regional claim. The category \"metalwork\" is clearly wrong given the description and image—it's a woven textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -141,31 +145,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O76669.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/gul-motif/images/va_O76669.jpg",
       "iiif_id": "2006AU4959",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AU4959/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d7fb47fe439e43540ae345c61498dcb2ee25a959d8a58f8269adf9dcc44f985b",
       "bytes": 234902,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O76669.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O76669.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O76669_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/gul-motif/images/va_O76669_1.jpg",
       "iiif_id": "2012FT8171",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FT8171/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d6ff28ddc6a6f90b61f1644654f40e7c5694cb3e556fb4705faaaa91690eb59c",
       "bytes": 349887,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O76669_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O76669_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O76669_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/gul-motif/images/va_O76669_2.jpg",
       "iiif_id": "2019MB9170",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9170/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "9db3d45bcf4343bf948d3f94ef2ad7d02c83a8f2f32626b6f04838701fec2226",
       "bytes": 111212,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O76669_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O76669_2.jpg"
     }
   ],
   "map": {
@@ -173,5 +177,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:32:28.900802+00:00"
+  "processed_at": "2026-07-18T06:28:19.105518+00:00"
 }

@@ -17,11 +17,15 @@
     "country": "Tajikistan",
     "ethnicity": "Tajik",
     "tradition": "Tajik",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows an elaborately embroidered wedding veil with a woven netting rectangle, consistent with Central Asian Tajik/Turkmen bridal dress traditions, matching the museum's own description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Wedding Veil",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:06.851606+00:00"
+  "processed_at": "2026-07-28T18:40:55.696061+00:00"
 }

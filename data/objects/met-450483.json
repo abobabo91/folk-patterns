@@ -13,12 +13,19 @@
     "accession_year": "1942"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an archaeological stone sculpture head wearing a pointed cap, explicitly titled a \"Central Asian Figure\" — a headwear type associated with ancient Scythian/Central Asian peoples, not a garment or ethnic marker of the Persian (Iranian) people specifically, and it depicts a foreign type rather than something made/worn by Persians themselves. However, it was found/held in Iran and such pointed-cap figures do appear in Achaemenid-era art of the Iranian plateau, so a headwear plausibly worn within ancient Iranian culture is defensible.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Head of a Central Asian Figure in a Pointed Cap",
@@ -68,67 +75,67 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_450483.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/general/images/met_450483.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "121d0f3d9e8b155169e9dd05523e9d789ac8747b90a56c315c2cecc26561e7e3",
       "bytes": 1103404,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_450483.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\general\\images\\met_450483.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_450483_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/general/images/met_450483_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "f0bec36c559550de21ce349b500da589f76e540c42b21521cb2a017f33a5844d",
       "bytes": 306184,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_450483_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\general\\images\\met_450483_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_450483_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/general/images/met_450483_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d308357630960c64b9a853206223891fc0d2c8940068046b71a6d3e7c10b5eb2",
       "bytes": 307101,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_450483_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\general\\images\\met_450483_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_450483_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/general/images/met_450483_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "1ce800707ef458959b82d74c055f8b29baea66234c476a3fe6386e0f96751989",
       "bytes": 256693,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_450483_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\general\\images\\met_450483_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_450483_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/general/images/met_450483_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "e514cdbec338f7a8909c6dc80be9f8882346a8799b1d23228c442353a1a990e5",
       "bytes": 373877,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_450483_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\general\\images\\met_450483_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_450483_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/general/images/met_450483_5.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "459f3b93f007ac4691e9feedab5ca84347913410b3ad3d6204bcaeaee0a9e160",
       "bytes": 173269,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_450483_5.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\general\\images\\met_450483_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_450483_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/general/images/met_450483_6.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "5b20b36bc7ec94869b39648279158244da3cbd6dd5c1aff755c6ecd3c1374e0f",
       "bytes": 194334,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_450483_6.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\general\\images\\met_450483_6.jpg"
     }
   ],
   "map": {

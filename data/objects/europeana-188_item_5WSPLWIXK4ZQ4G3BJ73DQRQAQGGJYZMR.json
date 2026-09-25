@@ -17,8 +17,15 @@
     "country": "Ethiopia",
     "ethnicity": "Oromo",
     "tradition": "Oromo Ethiopia",
-    "art_form": "painting-mss",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photographic portrait of an Oromo (Galla) woman in traditional dress, not a painting or manuscript, but it does document the claimed people's appearance/clothing.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Portrait of a Woman from the People’s Group of Galla (Abhu)",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:53:49.273153+00:00"
+  "processed_at": "2026-07-28T18:46:03.519320+00:00"
 }

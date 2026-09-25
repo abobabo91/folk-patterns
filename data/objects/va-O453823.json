@@ -13,15 +13,19 @@
     "accession_year": 1983
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kebaya",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This shows detailed cutwork and silk embroidery from a kebaya blouse, a traditional Javanese women's garment style with characteristic floral cutwork lace panels.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -83,22 +87,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O453823.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O453823.jpg",
       "iiif_id": "2006BC6575",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BC6575/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "33d108a278c57e1d3b999bc3299d5faadab84280a0250ff4ab37f58bf0798778",
       "bytes": 397817,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O453823.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O453823.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O453823_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O453823_1.jpg",
       "iiif_id": "2006BC6574",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BC6574/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "47c23259ca44d817deb2e9630f4edbae5144d0f8c648988e4930b4f35548a000",
       "bytes": 455285,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O453823_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O453823_1.jpg"
     }
   ],
   "map": {

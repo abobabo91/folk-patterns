@@ -13,12 +13,19 @@
     "accession_year": "1933"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A carved stone tombstone with Arabic/Persian inscriptions and a mihrab-style niche, made in Yazd, Iran, for an Islamic-era Persian burial — a plausible object of Persian material culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Tombstone of Abu Sa'd ibn Muhammad ibn Ahmad al-Hasan Karwaih",
@@ -75,22 +82,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_448960.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/sculpture/general/images/met_448960.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "52c0664b73c06620a0f8bc22dfe73395d80a715b660cd08038d0b7184f43eff0",
       "bytes": 1922603,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_448960.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\sculpture\\general\\images\\met_448960.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_448960_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/sculpture/general/images/met_448960_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "9d593fbc4b3103847e42cabecd89c2d564cb173fb9f03f21dade27f46a434a83",
       "bytes": 382457,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_448960_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\sculpture\\general\\images\\met_448960_1.jpg"
     }
   ],
   "map": {

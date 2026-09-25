@@ -19,8 +19,13 @@
     "tradition": "batik",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a traditional Javanese batik tulis sarong (cotton, wax-resist, indigo and brown, wing/garuda-like \"lar\" motifs) from Tegal, Java — consistent with a general Indonesian/regional attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -81,40 +86,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O478580.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O478580.jpg",
       "iiif_id": "2006BE6944",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BE6944/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "8f12ee5aecd5bc83eb2db74ff6de92f7510d9d7a4868173ece0d8db9de58df20",
       "bytes": 309226,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O478580.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O478580.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O478580_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O478580_1.jpg",
       "iiif_id": "2012FP8735",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FP8735/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f1ed82ab40255ca0b5a56fa9a833061cbfe946e6ef8a0254ddf4d21a293a7ab2",
       "bytes": 367854,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O478580_1.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O478580_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O478580_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O478580_2.jpg",
       "iiif_id": "2012FR8372",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FR8372/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "10a53d0a610eaeb481891ca300a0b8525a6cec8b685be0dce03f059933c6772d",
       "bytes": 362525,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O478580_2.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O478580_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/batik/images/va_O478580_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O478580_3.jpg",
       "iiif_id": "2021MU6824",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MU6824/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "5f577715f095fc97d44645b92efa5df1028c8495f652447d114b402beabdc4db",
       "bytes": 245657,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\batik\\images\\va_O478580_3.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O478580_3.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photograph of an older woman (Bambuti/Mbuti) wearing a metal coiled necklace, filed as \"painting-mss\" but actually a photo; it fits the claimed ethnicity as an ethnographic portrait.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Stará žena s nápadným kovovým náhrdelníkem, Bambuti",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/unclassified/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266905.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/painting-mss/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266905.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4e1b8fea63b9b07040c67e9005800040a30a273252524893ccb889ae5aab7205",
       "bytes": 32838,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266905.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\painting-mss\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266905.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:54.937457+00:00"
+  "processed_at": "2026-07-28T18:47:25.857383+00:00"
 }

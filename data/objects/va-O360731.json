@@ -13,15 +13,19 @@
     "accession_year": 1874
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
-    "tradition": "suzani",
+    "tradition": "Bukhara embroidery",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A large embroidered suzani textile with dense floral scroll medallions and a palm-leaf/floral border, a classic Uzbek embroidered cloth type, consistent with the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -398,22 +402,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/suzani/images/va_O360731.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/bukhara-embroidery/images/va_O360731.jpg",
       "iiif_id": "2018LB2631",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LB2631/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "db90013bc9ffc799d0a70e260cd07f5782aa209b677e48b3959b35d20f3cea3d",
       "bytes": 476999,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\suzani\\images\\va_O360731.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\bukhara-embroidery\\images\\va_O360731.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/suzani/images/va_O360731_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/bukhara-embroidery/images/va_O360731_1.jpg",
       "iiif_id": "2018LB2632",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LB2632/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "22855715e7f18b9585b7c232bbb50e77a3baecf055c793d4c9b79a54c60091b7",
       "bytes": 497331,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\suzani\\images\\va_O360731_1.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\bukhara-embroidery\\images\\va_O360731_1.jpg"
     }
   ],
   "map": {
@@ -421,5 +425,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:22:23.297791+00:00"
+  "processed_at": "2026-07-18T06:24:45.952006+00:00"
 }

@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a stone relief triad from the Prambanan temple complex in Central Java, a Hindu-Javanese temple built and used by the Javanese people; it fits the claimed ethnicity even though it depicts a Hindu deity group.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/javanese/images/cle_126240.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/java/images/cle_126240.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c607f53aeee6fc62a57cbb3f81544f6dfe4396bf86881d471570494b667f1533",
       "bytes": 160543,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\javanese\\images\\cle_126240.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\java\\images\\cle_126240.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:28.669023+00:00"
+  "processed_at": "2026-07-28T11:56:20.112244+00:00"
 }

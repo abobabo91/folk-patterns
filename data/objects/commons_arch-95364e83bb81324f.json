@@ -18,7 +18,15 @@
     "ethnicity": "Tajik",
     "tradition": "Panjakent",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bunjikath%2C_Tajikista",
+    "vision_reason": "This is a panoramic townscape of modern Penjikent, Tajikistan, showing the settlement's houses and surrounding landscape rather than any craft, dress, or architecture distinctive to Tajik material culture, but it does document the Tajik built environment and daily settlement pattern in their homeland.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Bunjikath, Tajikistan (494459).jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/architectural/panjakent/images/carch_95364e83bb81324f.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/photo/panjakent/images/carch_95364e83bb81324f.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "aaca8459def25b89e740cec8be59f8a00cde367b54f3c129a7868cd55b3eb38b",
       "bytes": 359430,
-      "local_path": "library\\central-asia\\tajikistan\\tajik\\architectural\\panjakent\\images\\carch_95364e83bb81324f.jpg"
+      "local_path": "library\\central-asia\\tajikistan\\tajik\\photo\\panjakent\\images\\carch_95364e83bb81324f.jpg"
     }
   ],
   "map": {

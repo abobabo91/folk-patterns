@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a woven basket collected in Angola, a region within Chokwe territory; the object plausibly belongs to the culture even though it is misclassified as \"ceramic\" (it is actually a basket/household item).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "korg, basket",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "627665b07707e8c3cbff3f4d37b5f4c0e461d5279dda1eae442c2c4b2b18f83d",
       "bytes": 14806,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\ceramic\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42591.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\ceramic\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42591.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:25.751997+00:00"
+  "processed_at": "2026-07-28T18:47:07.586786+00:00"
 }

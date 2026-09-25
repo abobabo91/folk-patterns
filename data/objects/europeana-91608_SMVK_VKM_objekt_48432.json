@@ -17,8 +17,15 @@
     "country": "Kenya",
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "household",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a leather bag/pouch with straps, an item plausibly made and used by Maasai people from the claimed region (British East Africa/Kenya-Tanzania Maasai area); the museum's own record mislabels it as \"textile\" but it is clearly a leather household/carrying item, not woven cloth.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "väska, Läderväska, bag, bolsa",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "fb72851814834aae31d61990751811afebb5c6d0fdf7c6379c68ac468254523e",
       "bytes": 25516,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\textile\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48432.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\textile\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48432.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:55:01.524890+00:00"
+  "processed_at": "2026-07-28T18:46:13.078066+00:00"
 }

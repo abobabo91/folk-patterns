@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows Somali army officers in dress uniform with medals, a documentary photograph of Somali military personnel and their attire/decorations, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Ufficiali dell'esercito somalo - piano medio",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "9d1641428a5bd1800f767435bb61d5685e830d02f59c54580abe6465510277d5",
       "bytes": 27122,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000001707_gen8.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000001707_gen8.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:24.388043+00:00"
+  "processed_at": "2026-07-28T18:48:21.330669+00:00"
 }

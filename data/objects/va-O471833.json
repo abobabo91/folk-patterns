@@ -13,15 +13,19 @@
     "accession_year": 1993
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A hand-drawn batik cloth in indigo and beige with a diagonal geometric lattice and leaf motifs, consistent with Central Javanese batik tulis tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -70,13 +74,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik/images/va_O471833.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/va_O471833.jpg",
       "iiif_id": "2021NA2483",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA2483/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b956860b776c6b67c0d16122f363f03e9a882b3f4fad4a7a5e6fd7c8b1830152",
       "bytes": 342061,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik\\images\\va_O471833.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\va_O471833.jpg"
     }
   ],
   "map": {

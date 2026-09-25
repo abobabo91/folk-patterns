@@ -17,10 +17,15 @@
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Bamar",
-    "art_form": "textile",
+    "art_form": "sculpture",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved wooden marionette figure with a man's torso and a scaled fish/naga tail — a type of traditional Burmese (Bamar) puppet figure (yoke thé), not a textile despite the \"kalaga\" label; it is plausible Bamar craft.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "puuskulptuur, Meesfiguur, kalaga",
@@ -63,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/bamar/images/eu_401_item_34NXWF2GC4SORHSTOM4A7ESWZIOWNEGY.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/bamar/images/eu_401_item_34NXWF2GC4SORHSTOM4A7ESWZIOWNEGY.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0cde95dafe2d5fe493c6a67b6c3561e1aaaf5f70fafe74bad66cf4a30c6b3d61",
       "bytes": 15601,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\bamar\\images\\eu_401_item_34NXWF2GC4SORHSTOM4A7ESWZIOWNEGY.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\bamar\\images\\eu_401_item_34NXWF2GC4SORHSTOM4A7ESWZIOWNEGY.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:35:15.908886+00:00"
+  "processed_at": "2026-07-28T18:44:49.223528+00:00"
 }

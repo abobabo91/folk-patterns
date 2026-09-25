@@ -17,8 +17,15 @@
     "country": "China (Xinjiang)",
     "ethnicity": "Uyghur",
     "tradition": "Jiaohe ruins",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows the ruined mudbrick city of Jiaohe (Yarkhoto), an ancient archaeological site in the Turpan region of Xinjiang, the historic homeland of the Uyghur people; archaeology of a group's homeland qualifies even if built by an earlier culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "2015-09-18-075331 - Ruinenstadt Jiaohe.JPG",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/architectural/jiaohe-ruins/images/carch_bc3eb552972a4964.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/photo/jiaohe-ruins/images/carch_bc3eb552972a4964.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "cb9d26849327f669d1d3862b91a10c82465c78b0815b4090babe77326268c955",
       "bytes": 329482,
-      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\architectural\\jiaohe-ruins\\images\\carch_bc3eb552972a4964.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\photo\\jiaohe-ruins\\images\\carch_bc3eb552972a4964.jpg"
     }
   ],
   "map": {

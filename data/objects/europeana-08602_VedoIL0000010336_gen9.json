@@ -17,8 +17,15 @@
     "country": "Somalia",
     "ethnicity": "Somali",
     "tradition": "Somali",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a press photograph of a Somali minister in Western suit and traditional cap at a social event, not a sculpture; it is a documentary photo of a person, which still counts as valid ethnographic evidence of dress.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "The Somali minister resumed in half a bust of below up in an interior of the Grand hotel. Middle floor",
@@ -63,13 +70,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/unclassified/somali/images/eu_08602_VedoIL0000010336_gen9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/sculpture/somali/images/eu_08602_VedoIL0000010336_gen9.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4a289035148c1d9985a9c0b80a6dbe71393ed63b7cefba963011b79ba8fc69a4",
       "bytes": 24646,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010336_gen9.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\sculpture\\somali\\images\\eu_08602_VedoIL0000010336_gen9.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:29.166252+00:00"
+  "processed_at": "2026-07-28T18:48:26.396183+00:00"
 }

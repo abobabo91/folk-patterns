@@ -17,8 +17,15 @@
     "country": "Ghana",
     "ethnicity": "Ashanti",
     "tradition": "Ashanti Ghana",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "textile",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a classic strip-woven kente cloth in the characteristic red, gold, green, black and white geometric pattern, matching the museum's description of it as Ashanti kente cloth.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "tyg, kentetyg, mantel, cloth",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:46:57.205456+00:00"
+  "processed_at": "2026-07-28T18:45:44.475502+00:00"
 }

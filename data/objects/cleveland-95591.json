@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic suzani embroidery with dense floral medallions and multiple borders, made in Ura Tube (Ura-Tyube), a traditional Tajik embroidery center in Tajikistan — a hand-embroidered dowry textile fitting the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Curtain or bedcover",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:06.874568+00:00"
+  "processed_at": "2026-07-28T18:40:55.704092+00:00"
 }

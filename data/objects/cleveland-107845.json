@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
-    "tradition": "Balinese",
+    "tradition": "Bali",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a handwoven cotton and gold-brocaded cloth (kamben/wearing cloth) with a red-and-gold ornamented central band, consistent with traditional Balinese songket-style textile production.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/balinese/images/cle_107845.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/bali/images/cle_107845.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "cf51920545d8de253bf38a6972977c0d59c08198b4dd2f0c0c343d69f485e82b",
       "bytes": 192796,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\cle_107845.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\bali\\images\\cle_107845.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:33.492834+00:00"
+  "processed_at": "2026-07-28T11:56:49.258174+00:00"
 }

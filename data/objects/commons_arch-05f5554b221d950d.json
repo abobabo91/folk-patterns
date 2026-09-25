@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Kurdish (Turkish)",
     "tradition": "Hoşap Castle",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows Hoşap Castle, a 17th-century fortress in Kurdish-inhabited eastern Turkey (Van province), historically built by a Kurdish emir — an architectural landmark fitting Kurdish material culture of the region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Güzelsu, Burg Hoşap (kurdisch, 17. Jhdt.) (26551032078).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/kurdish-turkish/architectural/hosap-castle/images/carch_05f5554b221d950d.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/kurdish-turkish/photo/hosap-castle/images/carch_05f5554b221d950d.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5c9c8b7e4338bb66f255e52eaa76255e3e297a8a316c24c900ecccef16b94bb7",
       "bytes": 468722,
-      "local_path": "library\\middle-east-north-africa\\turkey\\kurdish-turkish\\architectural\\hosap-castle\\images\\carch_05f5554b221d950d.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\kurdish-turkish\\photo\\hosap-castle\\images\\carch_05f5554b221d950d.jpg"
     }
   ],
   "map": {

@@ -19,8 +19,13 @@
     "tradition": "Iban",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a warp ikat (pua kumbu) textile with the classic hooked-diamond and figurative ikat patterning characteristic of Iban weaving from Sarawak, matching the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Iban, väv, fabric, pua kumbu",
@@ -30,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -79,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:44.793770+00:00"
+  "processed_at": "2026-07-28T18:44:17.719892+00:00"
 }

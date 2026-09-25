@@ -17,8 +17,16 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Ceiling of Tomb of Hafez",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Abstract_sky.jpg/1280p",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a Persian-style tiled pavilion ceiling (resembling the Hafez mausoleum canopy) with intricate mosaic tilework, clearly Persian architectural ornament rather than a painting or manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Abstract sky.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/ceiling-of-tomb-of-hafez/images/carch_56a3114a4c408e64.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/ceiling-of-tomb-of-hafez/images/carch_56a3114a4c408e64.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f8a385394537d15ec0ab7ee8cf72fa3ed12a3f851925b13801ce265dcbfe458e",
       "bytes": 408059,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\ceiling-of-tomb-of-hafez\\images\\carch_56a3114a4c408e64.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\ceiling-of-tomb-of-hafez\\images\\carch_56a3114a4c408e64.jpg"
     }
   ],
   "map": {

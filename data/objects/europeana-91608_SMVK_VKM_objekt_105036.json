@@ -18,9 +18,14 @@
     "ethnicity": "Iban",
     "tradition": "Iban",
     "art_form": "garment",
-    "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a traditional beaded/embroidered ceremonial jacket (kalambi) with woven supplementary-weft geometric motifs typical of Iban/Sea Dayak textile art from Sarawak, matching the claimed ethnicity and museum documentation.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "jacka, Iban, kalambi",
@@ -30,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -65,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/unclassified/iban/images/eu_91608_SMVK_VKM_objekt_105036.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/garment/iban/images/eu_91608_SMVK_VKM_objekt_105036.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "dbc92f3fecd15c9c0debc6a3f5a07a873f62b8053e3bb5aa3c1b3f65bdc8ed15",
       "bytes": 28969,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\unclassified\\iban\\images\\eu_91608_SMVK_VKM_objekt_105036.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\iban\\garment\\iban\\images\\eu_91608_SMVK_VKM_objekt_105036.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -79,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:52.431156+00:00"
+  "processed_at": "2026-07-28T18:44:20.284388+00:00"
 }

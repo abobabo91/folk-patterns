@@ -13,14 +13,19 @@
     "accession_year": 1919
   },
   "cultural": {
-    "region": "southeast_asia",
-    "country": "Myanmar",
-    "ethnicity": "Bamar",
-    "tradition": "Shan weaving",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a handwoven silk longyi cloth with weft-ikat geometric bands, matching the Shan weaving tradition of Myanmar's Shan States as described.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -715,13 +720,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O107556.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/lao-silk/images/va_O107556.jpg",
       "iiif_id": "2020MN9361",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9361/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f58fbe589d235d75f4855df6caf03d771788bd589f96c89fcc718c89bd3e0ed5",
       "bytes": 433606,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O107556.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\lao-silk\\images\\va_O107556.jpg"
     }
   ],
   "map": {
@@ -729,5 +734,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:37:48.821670+00:00"
+  "processed_at": "2026-07-18T11:31:11.866853+00:00"
 }

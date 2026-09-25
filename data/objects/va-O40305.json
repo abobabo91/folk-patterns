@@ -13,14 +13,19 @@
     "accession_year": 1886
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "kalaga",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A kalaga (felted wool wall hanging with silk embroidery, floral cartouche and lotus scroll border) is a well-known traditional Burmese textile craft, consistent with Bamar culture and the Rangoon location.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -332,13 +337,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40305.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O40305.jpg",
       "iiif_id": "2006BF7879",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF7879/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "de9e89d870c1051e937a0f6bfe4b70ff95cc00992e7faadb62bc8de864b8ed49",
       "bytes": 139928,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40305.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O40305.jpg"
     }
   ],
   "map": {

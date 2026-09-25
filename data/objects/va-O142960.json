@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a length of ikat-woven silk/cotton fabric with typical Central Asian (Uzbek) abrash cloud-band pattern in green, red, purple and yellow — a classic regional textile form, consistent with the \"_regional\" (Central Asian) attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -627,13 +631,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ikat/images/va_O142960.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/ikat/images/va_O142960.jpg",
       "iiif_id": "2007BM4958",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM4958/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "bb30a732ee2d6ba36b834d374a9ffa177f9c07ca9241a1b2b933475f4375f4fe",
       "bytes": 139852,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ikat\\images\\va_O142960.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\ikat\\images\\va_O142960.jpg"
     }
   ],
   "map": {

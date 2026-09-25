@@ -14,13 +14,17 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Thailand",
-    "ethnicity": "Thai",
-    "tradition": "Thai",
+    "country": "Cambodia",
+    "ethnicity": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "ceramic",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a glazed stoneware lid with a loop handle from a Khmer-ware kiln of the Angkor Wat/Bayon period, a ceramic vessel type made and used in the Khmer cultural sphere. It matches the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/ceramic/thai/images/cle_151301.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/ceramic/cambodian/images/cle_151301.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2a2d74830d630a2817ba546cce9af074768959aba4a17b70ad6f230b42930e6f",
       "bytes": 133457,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\ceramic\\thai\\images\\cle_151301.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\ceramic\\cambodian\\images\\cle_151301.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:05.709027+00:00"
+  "processed_at": "2026-07-28T11:57:38.415415+00:00"
 }

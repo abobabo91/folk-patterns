@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Minangkabau",
     "tradition": "Minangkabau",
-    "art_form": "household",
+    "art_form": "metalwork",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
     "vision_vetted": true,
-    "art_form_vision": "household"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a lens-shaped brass belt buckle (gördelspänne) with intricate niello-style geometric inlay, a form plausibly used in Sumatra; Minangkabau craft cannot be distinguished from neighbouring Sumatran groups, but the object type and region fit.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "gördelspänne, pending",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:22.856312+00:00"
+  "processed_at": "2026-07-28T18:43:50.399369+00:00"
 }

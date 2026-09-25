@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows an ikat silk-and-cotton dress fabric with bold floral/almond motifs, consistent with the traditional Khotan/Uyghur ikat weaving tradition of Xinjiang.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

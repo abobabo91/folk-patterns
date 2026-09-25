@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "ikat",
     "art_form": "garment",
-    "pattern_density": 3,
+    "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a quilted silk ikat skull cap (doppi-style) with twisted wool trim, a classic Uzbek headwear form made and worn in Uzbekistan; the ikat pattern and construction are consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -530,22 +534,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/unclassified/ikat/images/va_O453552.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/ikat/images/va_O453552.jpg",
       "iiif_id": "2017KM9450",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KM9450/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "61e2f53f32685db35075ec85ac95fad9a894dd5260bd9c85d571c689c51462c7",
       "bytes": 146191,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\unclassified\\ikat\\images\\va_O453552.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\ikat\\images\\va_O453552.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/unclassified/ikat/images/va_O453552_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/ikat/images/va_O453552_1.jpg",
       "iiif_id": "2017KM9451",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KM9451/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "45bc8ccca8ed994ab7d9b09a63118e799f41b78324f23e1fa698d2ca920d7135",
       "bytes": 212479,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\unclassified\\ikat\\images\\va_O453552_1.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\ikat\\images\\va_O453552_1.jpg"
     }
   ],
   "map": {

@@ -13,12 +13,19 @@
     "accession_year": "1925"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A classic Persian \"composite animal\" miniature — a camel formed of interlocked human/animal figures, with a courtly attendant in Safavid-style dress — a well-known Persian painting genre from Khurasan, matching the claimed Persian ethnicity and painting-mss category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Composite Camel with Attendant",
@@ -66,40 +73,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447804.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447804.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bec7b9206a4ca2e0ba64e530ff7c08e4eb8e8d570d75bab2baeff82a76b47629",
       "bytes": 3074879,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447804.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447804.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447804_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447804_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "afe59a87756c8b3a1d19d273d5d09a6953a3fe3c99bdb7657c4b9f73963e327a",
       "bytes": 917176,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447804_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447804_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447804_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447804_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d85c218f0a0837a0f78e1793c7e0527c07a4904aa927e24273e0f42672b108e3",
       "bytes": 2553523,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447804_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447804_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447804_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447804_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "342efc374908d02f88e7a699da6fe6ee6bd62a9847bccf476e27cf47a2a7c482",
       "bytes": 3681013,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447804_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447804_3.jpg"
     }
   ],
   "map": {

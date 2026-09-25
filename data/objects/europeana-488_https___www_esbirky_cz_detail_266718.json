@@ -18,7 +18,14 @@
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photograph of a man seated before a mud-walled hut with an elaborate headdress and pipe, labeled as a Bambuti/Mbuti man — a photo, not painting-mss as claimed, but it clearly documents Mbuti dress and daily life.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Muž sedící před hliněnou chýší, Bambuti",
@@ -63,13 +70,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/unclassified/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266718.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/painting-mss/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266718.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fb2d0bb876531b2a6183d823609f51e16a9994d54d810bb3a4abbeb6e66881ed",
       "bytes": 23617,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266718.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\painting-mss\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266718.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:45.951276+00:00"
+  "processed_at": "2026-07-28T18:47:25.269397+00:00"
 }

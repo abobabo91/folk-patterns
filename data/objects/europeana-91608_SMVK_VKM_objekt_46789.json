@@ -16,11 +16,16 @@
     "region": "southeast-asia",
     "country": "Vietnam",
     "ethnicity": "Hmong",
-    "tradition": "\"Hmong\" Vietnam",
+    "tradition": "Hmong textile Vietnam",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an indigo batik-patterned cloth attributed to the Hmong (Meo) people, made in Thailand — batik hemp cloth is a well-known Hmong textile craft, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Gösta Sandberg, textil, batik mönstrad duk, cloth",
@@ -30,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -65,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/textile/hmong-vietnam/images/eu_91608_SMVK_VKM_objekt_46789.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/textile/hmong-textile-vietnam/images/eu_91608_SMVK_VKM_objekt_46789.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0aa960059a4397d4d021de6df8746bbc49af5f921415678ba0920ba9f33f6594",
       "bytes": 42023,
-      "local_path": "library\\southeast-asia\\vietnam\\hmong\\textile\\hmong-vietnam\\images\\eu_91608_SMVK_VKM_objekt_46789.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\hmong\\textile\\hmong-textile-vietnam\\images\\eu_91608_SMVK_VKM_objekt_46789.jpg"
     }
   ],
   "map": {
@@ -79,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:34:30.575068+00:00"
+  "processed_at": "2026-07-28T18:44:31.088748+00:00"
 }

@@ -13,14 +13,19 @@
     "accession_year": 1919
   },
   "cultural": {
-    "region": "southeast_asia",
-    "country": "Myanmar",
-    "ethnicity": "Bamar",
-    "tradition": "Shan weaving",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a Shan weft-ikat silk longyi cloth with characteristic banded geometric patterning, a garment textile used within the Shan (Myanmar regional) tradition, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -685,13 +690,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O107109.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/lao-silk/images/va_O107109.jpg",
       "iiif_id": "2020MN9359",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9359/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "180fbf407eb0af85214c6c37b8abdf5245acfdac7488ef33f09602965361b5c6",
       "bytes": 473120,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O107109.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\lao-silk\\images\\va_O107109.jpg"
     }
   ],
   "map": {
@@ -699,5 +704,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:37:47.796451+00:00"
+  "processed_at": "2026-07-18T11:31:18.726080+00:00"
 }

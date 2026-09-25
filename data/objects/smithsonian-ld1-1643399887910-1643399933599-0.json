@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
-    "tradition": "wayang",
+    "tradition": "double ikat",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a geringsing double-ikat ceremonial cloth from Tenganan, Bali — a textile form unique to the Balinese (specifically Bali Aged village) weaving tradition, matching the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Kamben geringsing (ceremonial cloth)",
@@ -69,22 +73,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/wayang/images/si_chndm_1961-115-37.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/double-ikat/images/si_chndm_1961-115-37.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "454560c85bef22a8e488925fa4176b45f2ac09ec43e3757437212f180b0c07ac",
       "bytes": 723489,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\wayang\\images\\si_chndm_1961-115-37.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\double-ikat\\images\\si_chndm_1961-115-37.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/wayang/images/si_chndm_1961-115-37_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/double-ikat/images/si_chndm_1961-115-37_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "6c3b08eddd3a3a44794ab5f501ad34c49d580b5712eb4452e4129541572bc732",
       "bytes": 3931717,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\wayang\\images\\si_chndm_1961-115-37_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\double-ikat\\images\\si_chndm_1961-115-37_1.jpg"
     }
   ],
   "map": {
@@ -92,5 +96,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:57:16.480751+00:00"
+  "processed_at": "2026-07-18T11:56:08.096084+00:00"
 }

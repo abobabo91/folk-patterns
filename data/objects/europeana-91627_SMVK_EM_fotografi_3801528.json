@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photograph of Fulani (Fulbe) women and man in traditional dress and jewelry from Fatoto village, Senegal region, not a painting or manuscript as claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "kvinna, man, fotografi, photograph",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/senegal/fulani/unclassified/peul-senegal/images/eu_91627_SMVK_EM_fotografi_3801528.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/senegal/fulani/painting-mss/peul-senegal/images/eu_91627_SMVK_EM_fotografi_3801528.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "dfd2aa45524c601eb095924be4e8b6fd4a9a49359843c3a14ae4bf4321ad452a",
       "bytes": 114495,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_91627_SMVK_EM_fotografi_3801528.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\painting-mss\\peul-senegal\\images\\eu_91627_SMVK_EM_fotografi_3801528.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:34.394440+00:00"
+  "processed_at": "2026-07-28T18:45:22.624925+00:00"
 }

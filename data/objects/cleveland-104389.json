@@ -17,11 +17,15 @@
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Bamar",
-    "art_form": "sculpture",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture shows an ornate cast brass aureole/halo mount with flame-and-naga motifs and mounting feet, the kind of devotional fitting placed behind a Buddha image — a ritual implement rather than a standalone figure.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Aureole",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:37.933189+00:00"
+  "processed_at": "2026-07-28T18:41:26.774350+00:00"
 }

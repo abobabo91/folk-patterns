@@ -19,8 +19,13 @@
     "tradition": "Bamar",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a kalaga, a Burmese embroidered and sequinned wall hanging with animal medallions (peacock, elephant, horse, lion) in metallic thread, beads, and sequins — a well-known Bamar craft tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Kalaga-eläimet",
@@ -30,13 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/1809",
-      "http://data.europeana.eu/concept/2797",
-      "http://data.europeana.eu/concept/2022"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/1809; http://data.europeana.eu/concept/2797; http://data.europeana.eu/concept/2022",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -67,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/bamar/images/eu_983__158567353921100.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/bamar/images/eu_983__158567353921100.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6a58daf4cda598561d224d6943db3a9412fc684a711172c875403fc022f9fed8",
       "bytes": 61890,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\bamar\\images\\eu_983__158567353921100.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\bamar\\images\\eu_983__158567353921100.jpg"
     }
   ],
   "map": {
@@ -81,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:35:06.448616+00:00"
+  "processed_at": "2026-07-28T18:44:41.840381+00:00"
 }

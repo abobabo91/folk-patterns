@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A wooden three-pronged comb topped with a carved figure playing a drum, a classic Chokwe decorative art form for female patrons, matching the museum's own description and attribution.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "household",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Comb",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:39.858845+00:00"
+  "processed_at": "2026-07-28T18:41:33.295554+00:00"
 }

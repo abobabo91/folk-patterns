@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a classic Kongo nkisi power figure seated with hand to cheek in a mourning pose, wearing a chief's mpu-style headdress, consistent with Kongo ritual sculpture from the Congo region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Power figure (nkisi)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/textile/kongo/images/cle_168738.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/sculpture/kongo/images/cle_168738.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2bc114fcf2d732e612c797ea73bca133fa6c7ec1ea06ad4d54bb2ce4e2cc6af6",
       "bytes": 343861,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\textile\\kongo\\images\\cle_168738.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\sculpture\\kongo\\images\\cle_168738.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:45.176671+00:00"
+  "processed_at": "2026-07-28T18:41:31.842841+00:00"
 }

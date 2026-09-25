@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Malaysia",
     "ethnicity": "Iban",
-    "tradition": "Iban",
+    "tradition": "Borneo",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a classic warp-ikat pua kumbu ceremonial cloth with hexagonal medallion patterning, a well-documented Iban textile form from Kalimantan/Sarawak Borneo, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/cle_149972.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/borneo/images/cle_149972.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8df3e6ff98283195d7c646917165dbc56a9a555040f40e8ece6a681f5382230b",
       "bytes": 160385,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\cle_149972.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\borneo\\images\\cle_149972.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:01.871186+00:00"
+  "processed_at": "2026-07-28T11:56:56.678468+00:00"
 }

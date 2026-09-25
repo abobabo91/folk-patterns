@@ -20,8 +20,13 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/006_Temple_with_Golden",
+    "vision_reason": "The image shows the ornate stone gateway of Pura Ulun Danu Beratan, a Balinese Hindu temple, with carved reliefs, thatched meru roofs, and two women in traditional Balinese dress — clearly Balinese architecture, though mislabeled as painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "006 Temple with Golden Doors, Pura Ulun Danu Beratan, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-ulun-danu-bratan/images/carch_af0be91865f5b12b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-ulun-danu-bratan/images/carch_af0be91865f5b12b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "b24f0178fa7e5b57b59df5976c796021d9cfb2a611243acc399825d7ac0c2ae7",
       "bytes": 307826,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-ulun-danu-bratan\\images\\carch_af0be91865f5b12b.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-ulun-danu-bratan\\images\\carch_af0be91865f5b12b.jpg"
     }
   ],
   "map": {

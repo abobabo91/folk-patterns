@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Fulani",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A handwoven strip-pieced wool blanket with geometric weft-float motifs, consistent with a Fulani-style kaasa blanket from the West African Sahel region; this is exactly the type of textile made and used by Fulani and related groups.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Blanket or Cover (Kaasa)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:47.782436+00:00"
+  "processed_at": "2026-07-28T18:41:31.505186+00:00"
 }

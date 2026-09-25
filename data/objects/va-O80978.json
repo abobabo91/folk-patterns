@@ -17,10 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a woman's traditional cotton baju jacket with a fine woven check pattern, a typical Malay garment form; this matches a regional Malaysia attribution even though the specific ethnic subgroup can't be pinpointed.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "garment",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -420,13 +425,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/batik/images/va_O80978.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O80978.jpg",
       "iiif_id": "2006AM3674",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AM3674/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "2e36b3743ac473fec7964b2e9498ffd1d93f5b134c50e8b1a52a614e0f80116a",
       "bytes": 89144,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\batik\\images\\va_O80978.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O80978.jpg"
     }
   ],
   "map": {

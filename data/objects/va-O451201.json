@@ -17,10 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "keris",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image clearly shows a Malay keris (straight-bladed dagger) with a carved ivory bird-form hilt, alongside its carved wooden sheath — a classic Patani-Malay weapon consistent with a regional Malaysia attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": null,
@@ -1318,13 +1323,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/metalwork/keris/images/va_O451201.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/metalwork/keris/images/va_O451201.jpg",
       "iiif_id": "2020MP8494",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8494/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b389da56fbbaab3918aead062ad9fbe5ab55d08d6aacf8a4c19f0f5f5020500f",
       "bytes": 71214,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\metalwork\\keris\\images\\va_O451201.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\metalwork\\keris\\images\\va_O451201.jpg"
     }
   ],
   "map": {

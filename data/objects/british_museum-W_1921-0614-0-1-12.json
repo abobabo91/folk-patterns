@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Persian",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A painted album illustration of a young Persian woman in traditional Qajar-era costume (striped jacket, yellow skirt, feathered headdress), matching the album's stated theme of Persian costumes.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "album; painting",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/persian/images/bm_W_1921-0614-0-1-12.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/persian/images/bm_W_1921-0614-0-1-12.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4fc09e19aa24e0f140a31ca3ff5dbcb84c72672afe07a697077b053e71fe80fc",
       "bytes": 29866,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\persian\\images\\bm_W_1921-0614-0-1-12.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian\\images\\bm_W_1921-0614-0-1-12.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:58.485786+00:00"
+  "processed_at": "2026-07-28T18:59:07.194253+00:00"
 }

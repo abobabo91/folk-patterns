@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Hanging Church",
-    "art_form": "textile",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows the interior of the Hanging Church in Cairo, a Coptic Egyptian church with carved wooden screens, icons, and architectural ornament made and used by Egyptians; it clearly belongs to the claimed ethnicity but not to the \"textile\" category as recorded.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "+Die Hängende Kirche in Kairo... 06.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/architectural/hanging-church/images/carch_28504e9e4267e54f.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/textile/hanging-church/images/carch_28504e9e4267e54f.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "cd292b8b7f0ade2bec9171a24dc22c1f2e0198ffc9355b87087966ebcd2ddc5f",
       "bytes": 422974,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\architectural\\hanging-church\\images\\carch_28504e9e4267e54f.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\hanging-church\\images\\carch_28504e9e4267e54f.jpg"
     }
   ],
   "map": {

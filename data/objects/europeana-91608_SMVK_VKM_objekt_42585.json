@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a coiled fiber basket (spiral-wulst technique) used for carrying on the head, collected in Angola near Chokwe territory; this is a woven basket, not a ceramic, but it plausibly belongs to the Chokwe or a neighboring Angolan group.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "korg, basket",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:09.740907+00:00"
+  "processed_at": "2026-07-28T18:47:06.345717+00:00"
 }

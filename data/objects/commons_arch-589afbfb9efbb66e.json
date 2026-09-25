@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The One Pillar Pagoda in Hanoi is a well-known traditional Vietnamese (Kinh) Buddhist temple structure with distinctive tiled roof and dragon-motif ridge ornament, clearly matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "04261-Hanoi (32007887633).jpg",

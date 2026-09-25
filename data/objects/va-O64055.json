@@ -13,14 +13,19 @@
     "accession_year": 1981
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "acheik",
     "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a plain cotton cloth cover with an acheik-style woven wave pattern, not the parabaik manuscript itself; acheik weaving is a Bamar/Burmese court textile tradition, so it fits the region though the record is filed as painting-mss when it is really a textile/garment cover.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,

@@ -18,7 +18,14 @@
     "ethnicity": "Kyrgyz",
     "tradition": "Tash Rabat",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "A close-up documentary portrait of a young Kyrgyz girl near Tash Rabat, Naryn Province, Kyrgyzstan, matching the claimed ethnicity and location.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Kyrgyz girl Tash Rabat.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/architectural/tash-rabat/images/carch_9bc77eea1f769ace.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/photo/tash-rabat/images/carch_9bc77eea1f769ace.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a84b29c5517ff51c05a27996d34225862bd0ef62d750c707888ec43ac9c2387a",
       "bytes": 211586,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\architectural\\tash-rabat\\images\\carch_9bc77eea1f769ace.jpg"
+      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\photo\\tash-rabat\\images\\carch_9bc77eea1f769ace.jpg"
     }
   ],
   "map": {

@@ -18,9 +18,13 @@
     "ethnicity": "Javanese",
     "tradition": "Javanese",
     "art_form": "photo",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photograph documents Javanese girls producing batik-tulis (hand-drawn wax-resist cloth), a documentary photo of traditional craft/daily life matching the claimed ethnicity, though the record's category \"painting-mss\" is incorrect for a photograph.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -38,7 +42,7 @@
     "styles": [],
     "categories": [],
     "physical_description": null,
-    "summary": "Javanese girls in work with the production of tjanting-batk. (batik-tulis)\nPhoto from: Kon instituut v/d trope\nErh: to the archive Dato: 1978-10-26\nNegative No: 012052",
+    "summary": null,
     "historical_context": null,
     "dimensions": [],
     "dimensions_note": null,
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/javanese/images/eu_91609_SMVK_VKM_fotografi_1248391.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/painting-mss/javanese/images/eu_91609_SMVK_VKM_fotografi_1248391.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "62767f0d79513bb51fd5626f0f060ea7435d28451a18ac299417afc0be9191d7",
       "bytes": 95403,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\eu_91609_SMVK_VKM_fotografi_1248391.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\eu_91609_SMVK_VKM_fotografi_1248391.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T13:33:29.894597+00:00"
+  "processed_at": "2026-07-28T18:42:59.464942+00:00"
 }

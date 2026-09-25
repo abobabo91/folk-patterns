@@ -17,8 +17,15 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Angkor Thom",
-    "art_form": "sculpture",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the South Gate of Angkor Thom, a stone gopura with the iconic four-faced towers, built by the Khmer Empire and located within their historic homeland in Cambodia. This is textbook Khmer architectural sculpture, even though it is now a ruin/archaeological site.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Angkor Area, the rest - AngkorA1281.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/angkor-thom/images/carch_811140dcd02da586.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/angkor-thom/images/carch_811140dcd02da586.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8af288501cc4d2573262be3d5d590cd71f1ac40c9ec1f96e67aa92c03ffb5ab5",
       "bytes": 647656,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\angkor-thom\\images\\carch_811140dcd02da586.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\angkor-thom\\images\\carch_811140dcd02da586.jpg"
     }
   ],
   "map": {

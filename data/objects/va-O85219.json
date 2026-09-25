@@ -13,14 +13,19 @@
     "accession_year": 1998
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Chin",
-    "tradition": "Chin weaving",
+    "tradition": "Chin blanket",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a handwoven striped shoulder bag with supplementary weft diamond and zig-zag patterning typical of Chin textile traditions in Myanmar; this is a plausible traditional Chin-made bag/textile object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -391,13 +396,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85219.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-blanket/images/va_O85219.jpg",
       "iiif_id": "2021NA4854",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA4854/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "67b0dc147302b3c55c2e4b7d8baf5f49f1a1c0ca02c06d50aee8d97ab908bd51",
       "bytes": 497813,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85219.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-blanket\\images\\va_O85219.jpg"
     }
   ],
   "map": {
@@ -405,5 +410,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:38:28.297396+00:00"
+  "processed_at": "2026-07-18T11:38:19.016084+00:00"
 }

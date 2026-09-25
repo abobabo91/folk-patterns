@@ -18,7 +18,14 @@
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu people",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The postcard shows a group of men in beaded headdresses, necklaces, arm bands, and skin/hide garments, identified as a \"Chef Kikouyou en tenue de guerre\" (Kikuyu chief in war dress); this documentary photo of traditional East African dress plausibly matches Kikuyu material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Afrique-Chef Kikouyou en tenue de guerre.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/architectural/kikuyu-people/images/carch_ade584a8f2993f56.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/photo/kikuyu-people/images/carch_ade584a8f2993f56.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d061fa45b9eec8519a51ad682f0d6f25276125127e4b421ebcda4c141b8a5e61",
       "bytes": 369663,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\architectural\\kikuyu-people\\images\\carch_ade584a8f2993f56.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\photo\\kikuyu-people\\images\\carch_ade584a8f2993f56.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-25T08:38:55.488925+00:00"
+  "processed_at": "2026-07-28T20:00:27.708631+00:00"
 }

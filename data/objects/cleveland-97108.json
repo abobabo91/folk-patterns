@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a wavy-bladed kalis/sundang sword with wrapped hilt, consistent with Moro (Maranao/Maguindanao) weaponry from Mindanao, Philippines, matching the claimed Filipino ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Sword (Kalis or Sundang)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:46.047265+00:00"
+  "processed_at": "2026-07-28T18:41:28.918961+00:00"
 }

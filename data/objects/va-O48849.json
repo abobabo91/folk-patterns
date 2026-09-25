@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
     "art_form": "household",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A plain red lacquerware tray, a household item consistent with traditional Burmese lacquer craft associated with the Bamar people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": null,
@@ -259,13 +264,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O48849.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/household/burmese-lacquer/images/va_O48849.jpg",
       "iiif_id": "2020MP2579",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP2579/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "7428e22938638fd314ad5db85d144a1fc4b0967bf3c84672df4e02a68c0e6a7d",
       "bytes": 48323,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O48849.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\household\\burmese-lacquer\\images\\va_O48849.jpg"
     }
   ],
   "map": {

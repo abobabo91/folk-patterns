@@ -20,7 +20,11 @@
     "art_form": "jewelry",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an ornate silver-gilt bracelet with repoussé floral filigree, bosses, and a chain tassel, photographed clearly on a neutral studio background — consistent with 19th-century Burmese silverwork traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "jewelry"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:37.131818+00:00"
+  "processed_at": "2026-07-28T18:41:26.315479+00:00"
 }

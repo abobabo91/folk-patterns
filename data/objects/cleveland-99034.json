@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "metalwork",
-    "pattern_density": 3,
+    "art_form": "arms",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a wavy-bladed kalis sword with okir-carved guard and cockatoo pommel, a weapon type made and used by Moro peoples (Maranao/Tausug/Maguindanao) of Mindanao, Philippines; this fits broadly within the claimed Filipino ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Sword (Kalis or Sundang)",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/filipino/images/cle_99034.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/metalwork/filipino/images/cle_99034.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5874965cf765a07b79ead00b411682aadb454b3d007444bbd5e0e90bc14c3dc3",
       "bytes": 115434,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_99034.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\metalwork\\filipino\\images\\cle_99034.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.914455+00:00"
+  "processed_at": "2026-07-28T18:41:28.743550+00:00"
 }

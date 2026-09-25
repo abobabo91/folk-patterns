@@ -17,8 +17,15 @@
     "country": "China (Xinjiang)",
     "ethnicity": "Uyghur",
     "tradition": "Gaochang ruins",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows the mudbrick ruins of Gaochang (Kocho), an ancient Silk Road city site in Xinjiang's Turpan region, with eroded earthen walls and structural remains under an open sky. This is an excavated/ruined archaeological site in the Uyghur homeland, so it fits the collection.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "2015-09-17-092553 - Ruinenstätte Gaochang (Kocho), Bad der alten Stadt.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/architectural/gaochang-ruins/images/carch_3e5a42765c1f08e5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/photo/gaochang-ruins/images/carch_3e5a42765c1f08e5.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fd2d9c38f74a023bbd3cba3c55b68017177f9d695d3b3ef33d1aced4dc3f5359",
       "bytes": 184656,
-      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\architectural\\gaochang-ruins\\images\\carch_3e5a42765c1f08e5.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\photo\\gaochang-ruins\\images\\carch_3e5a42765c1f08e5.jpg"
     }
   ],
   "map": {

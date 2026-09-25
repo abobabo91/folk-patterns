@@ -18,7 +18,14 @@
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The watercolor depicts a Xhosa warrior in traditional dress carrying assegais (spears), matching the claimed ethnicity; it's a European-made illustration (likely early Cape colonial period) but the subject is authentic Xhosa attire and weaponry.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Running man holding an assegai in his right hand and four assegais in his left",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:03.438969+00:00"
+  "processed_at": "2026-07-28T18:47:34.174321+00:00"
 }

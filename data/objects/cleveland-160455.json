@@ -20,7 +20,11 @@
     "art_form": "ceramic",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A blue-and-white stoneware ginger jar with phoenix-among-clouds and floral motifs, a traditional Vietnamese ceramic decoration style produced by Kinh potters (e.g. Hai Duong/Chu Dau wares); plausible for the claimed ethnicity and region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:12.965130+00:00"
+  "processed_at": "2026-07-28T18:41:21.380324+00:00"
 }

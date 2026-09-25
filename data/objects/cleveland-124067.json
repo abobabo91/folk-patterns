@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "jewelry",
     "pattern_density": 1,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "jewelry"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A gold ring set with cabochon rubies, attributed to Cambodia, 1800s—plausible traditional Khmer goldsmith jewelry consistent with regional court/temple adornment traditions.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "jewelry",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Ring",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/khmer/images/cle_124067.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/cambodian/images/cle_124067.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e49312eb1f17958b950e14ab9f353a720c0416ffc013561745f5ed400d79a39c",
       "bytes": 61517,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\khmer\\images\\cle_124067.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\cambodian\\images\\cle_124067.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.663299+00:00"
+  "processed_at": "2026-07-28T11:58:00.746781+00:00"
 }

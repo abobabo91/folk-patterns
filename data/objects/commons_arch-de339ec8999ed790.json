@@ -17,8 +17,15 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Bayon",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the famous face-towers of the Bayon temple at Angkor Thom, a Khmer monument in Cambodia, matching the claimed ethnicity and location despite being classified archaeological rather than a \"photo\" of people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "02-Bayon (NgnL)-06358.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/bayon/images/carch_de339ec8999ed790.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/photo/bayon/images/carch_de339ec8999ed790.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "462a74f4b432e2d6a33cd7cf7aa3e106cd90013eee3e2db5f4824ed00fa07a0a",
       "bytes": 467948,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\bayon\\images\\carch_de339ec8999ed790.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\photo\\bayon\\images\\carch_de339ec8999ed790.jpg"
     }
   ],
   "map": {

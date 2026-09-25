@@ -20,8 +20,12 @@
     "art_form": "ceramic",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "ceramic",
+    "vision_reason": "The image shows a circular earthenware dish/strainer with a central cruciform perforation, decorated with slip-painted and sgraffito medallions containing floral rosettes and small animal figures in a purple/brown ground with red, green and cream slips — a traditional Central Asian (Turkestan) glazed ceramic, plausibly from the region's settled Turkic/Persianate pottery tradition. It is clearly photographed on a plain dark background and fits the regional ceramic craft category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -76,13 +80,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/unclassified/rishtan-ceramics/images/va_O225731.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/ceramic/rishtan-ceramics/images/va_O225731.jpg",
       "iiif_id": "2010EB4652",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2010EB4652/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6f5b91a526bb141d43e8c7dd883aaf7ac0eb4847e8a6095522a852ffecf1254f",
       "bytes": 229477,
-      "local_path": "library\\central-asia\\regional\\regional\\unclassified\\rishtan-ceramics\\images\\va_O225731.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\ceramic\\rishtan-ceramics\\images\\va_O225731.jpg"
     }
   ],
   "map": {

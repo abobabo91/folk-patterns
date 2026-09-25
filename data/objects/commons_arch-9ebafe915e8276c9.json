@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows traditional Kazakh yurts (felt-covered dwellings) at Baiyanggou in Xinjiang, a documentary scene of Kazakh domestic architecture consistent with the claimed ethnicity and location.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Baiyanggou Kazakh yurts.jpg",

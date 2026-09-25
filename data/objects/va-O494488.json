@@ -13,15 +13,19 @@
     "accession_year": 1978
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Khmer relief",
-    "art_form": "metalwork",
-    "pattern_density": 2,
+    "art_form": "ceramic",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "ceramic",
+    "vision_reason": "This is a stoneware ewer with iron-brown glaze, incised comb pattern, and a bird-shaped handle in relief — consistent with Khmer glazed stoneware ceramics from the Angkor period. It fits the claimed Khmer origin, though the category should be ceramic, not sculpture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": null,
@@ -111,22 +115,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/unclassified/khmer-relief/images/va_O494488.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer-relief/images/va_O494488.jpg",
       "iiif_id": "2007BM7232",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM7232/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5aa02a0694b51ecd07948925c73286da34b033940173299d1bd08d2c0773b902",
       "bytes": 68411,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer-relief\\images\\va_O494488.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer-relief\\images\\va_O494488.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/unclassified/khmer-relief/images/va_O494488_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer-relief/images/va_O494488_1.jpg",
       "iiif_id": "2007BM7231",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM7231/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b77761f9c95c61868ce986da31d8067d8484d29abde287da7eb6899ea846bcc7",
       "bytes": 64285,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer-relief\\images\\va_O494488_1.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer-relief\\images\\va_O494488_1.jpg"
     }
   ],
   "map": {

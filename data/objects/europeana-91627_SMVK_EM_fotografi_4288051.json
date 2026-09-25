@@ -18,7 +18,14 @@
     "ethnicity": "Baluchi",
     "tradition": "Baluch",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary photograph of a group of Baluchi men in traditional dress and turbans in eastern Persia, taken by Sven Hedin in 1906; this is a genuine ethnographic photo of the claimed group, though the category should be photo, not painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "A Group of Baluchis., fotografi, photograph",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/baluchi/unclassified/baluch/images/eu_91627_SMVK_EM_fotografi_4288051.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/baluchi/painting-mss/baluch/images/eu_91627_SMVK_EM_fotografi_4288051.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "7d7cc1f5c3a0859a1509b867450f72b5bfc34de7e54e5aa03973088e4c60c6aa",
-      "bytes": 23353,
-      "local_path": "library\\middle-east-north-africa\\iran\\baluchi\\unclassified\\baluch\\images\\eu_91627_SMVK_EM_fotografi_4288051.jpg"
+      "sha256": "8470d00619fbbcdb8dd339032844242db6f394b1fbab1be5d9e26d475a484fcd",
+      "bytes": 164383,
+      "local_path": "library\\middle-east-north-africa\\iran\\baluchi\\painting-mss\\baluch\\images\\eu_91627_SMVK_EM_fotografi_4288051.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:50:03.995095+00:00"
+  "processed_at": "2026-07-28T18:42:21.638801+00:00"
 }

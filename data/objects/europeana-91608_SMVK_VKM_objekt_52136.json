@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Kyrgyzstan",
     "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "tradition": "Kirghiz felt",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A felted wool seat cushion made with the shyrdak mosaic technique, explicitly named in the museum's description, which is a traditional Kyrgyz felt craft. The curled ram's-horn style motif and construction match Kyrgyz felt textile tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "sittdyna",
@@ -31,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -66,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/unclassified/kyrgyz/images/eu_91608_SMVK_VKM_objekt_52136.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kirghiz-felt/images/eu_91608_SMVK_VKM_objekt_52136.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e48a8be6e466ef5daf3ab1aaf5997c54c5075ddad28616a47ea33b199021b66e",
       "bytes": 64161,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\unclassified\\kyrgyz\\images\\eu_91608_SMVK_VKM_objekt_52136.jpg"
+      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kirghiz-felt\\images\\eu_91608_SMVK_VKM_objekt_52136.jpg"
     }
   ],
   "map": {
@@ -80,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:26:19.930237+00:00"
+  "processed_at": "2026-07-28T18:41:52.824546+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": 1968
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "parang",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a printed cotton skirt cloth with a parang-style batik pattern from Java, a Javanese garment — it is a textile, not metalwork, but the ethnicity attribution is plausible.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": null,
@@ -94,13 +98,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O454055.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/parang/images/va_O454055.jpg",
       "iiif_id": "2021NA3624",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3624/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d79f6b4a37251a7c5e5507114a6a3dba340417ce423ed8db11f82962d4d28aac",
       "bytes": 298871,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O454055.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\parang\\images\\va_O454055.jpg"
     }
   ],
   "map": {

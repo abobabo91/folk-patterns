@@ -13,14 +13,19 @@
     "accession_year": 1919
   },
   "cultural": {
-    "region": "southeast_asia",
-    "country": "Myanmar",
-    "ethnicity": "Bamar",
-    "tradition": "Shan weaving",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a Shan longyi cloth with weft-ikat and supplementary weft banding, matching the museum's description of a Shan States garment textile from Myanmar's ethnic regions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -685,40 +690,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O107552.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/lao-silk/images/va_O107552.jpg",
       "iiif_id": "2020MN9360",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9360/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "2e2e1123fae3f209ec384c584c82598c8ffab78156952cf4d3ec3b8e5ed6385f",
       "bytes": 599279,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O107552.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\lao-silk\\images\\va_O107552.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O107552_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/lao-silk/images/va_O107552_1.jpg",
       "iiif_id": "2017JX7619",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7619/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "2f88b0e4355f3384054e5b5241147dca5cea9c188e4b3d9d66ca91bdd39e8945",
       "bytes": 539406,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O107552_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\lao-silk\\images\\va_O107552_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O107552_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/lao-silk/images/va_O107552_2.jpg",
       "iiif_id": "2017JX7620",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7620/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "7bd63ea04d7e9da949f755e7c52777f19e0cf5241e9e2a9d2f858fcb5e377825",
       "bytes": 599712,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O107552_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\lao-silk\\images\\va_O107552_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O107552_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/lao-silk/images/va_O107552_3.jpg",
       "iiif_id": "2017JX7618",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7618/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "19a7547b316be41d346305e4bdc522cc26612885c24a59ef60da2db2fb211b5c",
       "bytes": 476257,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O107552_3.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\lao-silk\\images\\va_O107552_3.jpg"
     }
   ],
   "map": {
@@ -726,5 +731,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:37:55.916506+00:00"
+  "processed_at": "2026-07-18T11:31:23.005642+00:00"
 }

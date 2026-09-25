@@ -18,7 +18,14 @@
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A woven conical rat trap collected in Angola during the 1948-49 Bolinder expedition, plausible household object for the Chokwe region of Angola/DRC.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "råttfälla",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/unclassified/chokwe/images/eu_91608_SMVK_VKM_objekt_42573.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/household/chokwe/images/eu_91608_SMVK_VKM_objekt_42573.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8a59e3a82c8d22b35825d58ad95a7f9600df932f786aa4e26bf8c22389604e9d",
       "bytes": 7096,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42573.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42573.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:17.633215+00:00"
+  "processed_at": "2026-07-28T18:47:07.089634+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": 1921
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain panjang",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a hand-drawn/block-printed batik kain panjang from Surakarta (Solo), a classic Javanese court batik with an interlocking-circle (ceplok-type) pattern, matching the claimed Javanese garment attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -804,40 +808,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O455596.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O455596.jpg",
       "iiif_id": "2020MP2764",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP2764/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "e677db19ded66575b2975a46289c0ff4315d717c9e63334c5259131c6326aea6",
       "bytes": 393493,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O455596.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O455596.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O455596_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O455596_1.jpg",
       "iiif_id": "2012FM9543",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9543/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "23c49b07525e9b5b98738fd66e052c13d439656fb7c3d2c787e7d396bc3d6e77",
       "bytes": 360382,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O455596_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O455596_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O455596_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O455596_2.jpg",
       "iiif_id": "2012FR8377",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FR8377/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "0b8dde4cf27433428e3350f90f27eb59d26fd84f9feb08142819e0ae7b9f2258",
       "bytes": 355246,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O455596_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O455596_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O455596_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O455596_3.jpg",
       "iiif_id": "2018KY9306",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9306/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "c74f93752816251606a82680f4e93be86d52bdcdd07da43ad60a3aa64f22a8a1",
       "bytes": 292301,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O455596_3.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O455596_3.jpg"
     }
   ],
   "map": {

@@ -13,14 +13,19 @@
     "accession_year": 1909
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "acheik",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a hand-woven silk acheik-luntaya textile with checkered end borders, a garment/cloth type (breast cloth or stole) traditionally made and worn by the Bamar in Mandalay, Myanmar.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -847,22 +852,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/acheik/images/va_O11565.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/acheik/images/va_O11565.jpg",
       "iiif_id": "2020MP4336",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4336/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "3bd79fe395094deb5b2d9c8c6b82eec1f3189e4dbfecdc4c2221bd0990f7342b",
       "bytes": 61044,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\acheik\\images\\va_O11565.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\acheik\\images\\va_O11565.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/acheik/images/va_O11565_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/acheik/images/va_O11565_1.jpg",
       "iiif_id": "2006AT8853",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8853/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "c97451a0f7d92fac38673ebf61a57c5a4474da6658d6c9649cce8182fc0a0dbe",
       "bytes": 103537,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\acheik\\images\\va_O11565_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\acheik\\images\\va_O11565_1.jpg"
     }
   ],
   "map": {

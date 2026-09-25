@@ -17,8 +17,15 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Banteay Srei",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows Banteay Srei, a 10th-century Angkorian temple in Cambodia, built by the Khmer Empire; this is Khmer archaeology/architecture, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Angkor - Banteay Srei.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/banteay-srei/images/carch_e792533f655592d1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/photo/banteay-srei/images/carch_e792533f655592d1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3a6f08cd71b575988dc293c4bcdd25e86a9f4dc1a798498f1df838a6987c4e72",
       "bytes": 446969,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\banteay-srei\\images\\carch_e792533f655592d1.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\photo\\banteay-srei\\images\\carch_e792533f655592d1.jpg"
     }
   ],
   "map": {

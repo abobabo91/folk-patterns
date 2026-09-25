@@ -18,7 +18,14 @@
     "ethnicity": "Sotho",
     "tradition": "Rondavels",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Shows a traditional thatched hut with a group of Africans seated outside, matching generic southern African Bantu village life; \"Kafir hut\" was a period colonial label often used loosely across such groups, and this is plausible vernacular dwelling/dress for the region even if the exact group can't be confirmed.",
+    "vision_confidence": "LOW",
+    "art_form_vision": "photo",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "IY188 pg515 KAFIR HUT.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/sotho/architectural/rondavels/images/carch_ffedbe8b9af9b166.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/sotho/photo/rondavels/images/carch_ffedbe8b9af9b166.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5dab809a6fa9fbcf2e30e916298fe539f0c8ecb25e6d09211a935810bebb4dfa",
       "bytes": 319251,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\architectural\\rondavels\\images\\carch_ffedbe8b9af9b166.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\photo\\rondavels\\images\\carch_ffedbe8b9af9b166.jpg"
     }
   ],
   "map": {

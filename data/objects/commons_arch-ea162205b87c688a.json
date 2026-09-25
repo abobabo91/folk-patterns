@@ -18,7 +18,15 @@
     "ethnicity": "Tigray",
     "tradition": "Yeha",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Orthodox_pilgrims_in_Y",
+    "vision_reason": "The photo shows two Tigrayan Orthodox pilgrims in traditional dress (woman's netela shawl and patterned dress, elderly man's gabi wrap and cap) descending stone steps at the Yeha church site in Tigray, documenting local dress and daily/religious life as claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Orthodox pilgrims in Yeha, Tigray, Ethiopia (April 2022).jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/architectural/yeha/images/carch_ea162205b87c688a.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/photo/yeha/images/carch_ea162205b87c688a.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "dbc37a2ede88c5a111492e2e0bed3f0350015f283952bf016e83104eb4c50982",
       "bytes": 419184,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\architectural\\yeha\\images\\carch_ea162205b87c688a.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\photo\\yeha\\images\\carch_ea162205b87c688a.jpg"
     }
   ],
   "map": {

@@ -20,8 +20,12 @@
     "art_form": "jewelry",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "jewelry"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "jewelry",
+    "vision_reason": "A gold gilt-silver earring with pearls, gemstone beads, and granulation work, consistent with traditional Central Asian (Uzbek) jewelry craft.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Earring",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:45.046939+00:00"
+  "processed_at": "2026-07-28T18:40:55.219504+00:00"
 }

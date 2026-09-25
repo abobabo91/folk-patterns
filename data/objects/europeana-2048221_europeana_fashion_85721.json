@@ -18,7 +18,14 @@
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu Kenya",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture shows a large curved, punch-dot decorated forged iron finger ring on a plain background; the description explains it is specifically worn as a status item by wealthy Kikuyu men, so it documents Kikuyu adornment practice even though the form originates with the Maasai.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Iron finger ring",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "408f58209fb81b69857bda7e710f3f737e4eb70b06c04ebb5396c3ae9f00b328",
       "bytes": 15285,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\jewelry\\kikuyu-kenya\\images\\eu_2048221_europeana_fashion_85721.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\jewelry\\kikuyu-kenya\\images\\eu_2048221_europeana_fashion_85721.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:54:45.371123+00:00"
+  "processed_at": "2026-07-28T18:46:09.147363+00:00"
 }

@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Afghanistan",
     "ethnicity": "Afghan Turkmen",
-    "tradition": "Ersari carpet",
+    "tradition": "Beshir carpet",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a hand-knotted woollen pile carpet with repeating stepped-diamond geometric medallions in deep red, brown and blue tones, a classic Turkmen/Central Asian design consistent with the claimed regional ethnicity and the museum's Turkoman attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -106,94 +110,94 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143.jpg",
       "iiif_id": "2019MB9562",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9562/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "197beb19e8bf156210c41be586249cd1a4e6f1f239023277c038cb4695d3c5d8",
       "bytes": 518530,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_1.jpg",
       "iiif_id": "2006AK4609",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AK4609/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "20e9cc690bd3c9eae2e994452a30909a221d99d86b7ae64eb1cc3ab9afe90a5b",
       "bytes": 346511,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_2.jpg",
       "iiif_id": "2019MB9554",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9554/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "cb79d9df953dfc22147d3875c12dd0043104c46392b3404a69300cf33d33f1ce",
       "bytes": 187585,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_3.jpg",
       "iiif_id": "2019MB9555",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9555/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e4b8a5adb919f56ba4d4758816c2cc0ea50592d895010de04db69c2767d30d66",
       "bytes": 203412,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_3.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_4.jpg",
       "iiif_id": "2019MB9556",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9556/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d56f464dc13ed100115e950d337c70ebdfbc0572d9533185e63499184339fb92",
       "bytes": 204605,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_4.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_5.jpg",
       "iiif_id": "2019MB9557",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9557/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f8a4e59c6edea21ddf36d517864b837f9bf9c19a1a535d696af731633eafe90c",
       "bytes": 179962,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_5.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_6.jpg",
       "iiif_id": "2019MB9558",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9558/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d5451cdf9f2a2184888671632ddd1d8bdd98eba91951bc051e262de37d4f88aa",
       "bytes": 197295,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_6.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_6.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_7.jpg",
       "iiif_id": "2019MB9559",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9559/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "4e1b7a30daec433efddd79940f34746ed25ed274665a53bda1bd7cbf238af618",
       "bytes": 198443,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_7.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_7.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_8.jpg",
       "iiif_id": "2019MB9560",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9560/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1ae99bc702589ac614e2797de9212e5336e6aa467ae6d954e9511599bf0826ca",
       "bytes": 178759,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_8.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_8.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O67143_9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/beshir-carpet/images/va_O67143_9.jpg",
       "iiif_id": "2019MB9561",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9561/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "340348180e154093155f8c647d2eda9bdf39643f69ca49621d41558325fd4d4c",
       "bytes": 183582,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O67143_9.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\beshir-carpet\\images\\va_O67143_9.jpg"
     }
   ],
   "map": {
@@ -201,5 +205,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:34:59.370430+00:00"
+  "processed_at": "2026-07-18T06:35:43.223140+00:00"
 }

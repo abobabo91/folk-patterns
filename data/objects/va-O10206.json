@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "metalwork",
+    "pattern_density": 1,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A gilded, jeweled multitiered theatrical headdress consistent with traditional Burmese court/dance regalia (Bamar tradition), though worn as costume rather than metal vessel it is fittingly metalwork due to its gilt-metal construction.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": null,
@@ -285,22 +290,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/burmese-lacquer/images/va_O10206.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/metalwork/burmese-lacquer/images/va_O10206.jpg",
       "iiif_id": "2006AM9995",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AM9995/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "01ae3048d449101a3ff284120ab38b2935d5e5de317f75fa3b4f1c4f3950b2c9",
       "bytes": 163839,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\burmese-lacquer\\images\\va_O10206.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\metalwork\\burmese-lacquer\\images\\va_O10206.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/burmese-lacquer/images/va_O10206_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/metalwork/burmese-lacquer/images/va_O10206_1.jpg",
       "iiif_id": "2016JL3218",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JL3218/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b3000b38067697bf8a97cdbee417cbe3cb37a46b59b8eb4a8017117b90777e8f",
       "bytes": 239860,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\burmese-lacquer\\images\\va_O10206_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\metalwork\\burmese-lacquer\\images\\va_O10206_1.jpg"
     }
   ],
   "map": {

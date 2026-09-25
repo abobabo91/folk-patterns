@@ -18,7 +18,14 @@
     "ethnicity": "Zulu",
     "tradition": "Zulu",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A beaded necklace with striped multicolor pattern in glass beads on fiber, consistent with well-documented Zulu beadwork traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Beaded Necklace",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:06:52.047090+00:00"
+  "processed_at": "2026-07-28T18:41:33.896543+00:00"
 }

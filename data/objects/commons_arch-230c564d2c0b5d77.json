@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Ali Qapu",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows Ali Qapu Palace in Isfahan, a Safavid-era Persian royal building with its distinctive columned veranda and ornate façade, mislabeled as painting-mss but clearly architecture belonging to Persian culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "11عالی قاپو.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/ali-qapu/images/carch_230c564d2c0b5d77.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/ali-qapu/images/carch_230c564d2c0b5d77.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9f3378fc4e62e41af7bc963a5fcbf411ef0348ea3a3dcd22a1d599ab33c9cae9",
       "bytes": 176564,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\ali-qapu\\images\\carch_230c564d2c0b5d77.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\ali-qapu\\images\\carch_230c564d2c0b5d77.jpg"
     }
   ],
   "map": {

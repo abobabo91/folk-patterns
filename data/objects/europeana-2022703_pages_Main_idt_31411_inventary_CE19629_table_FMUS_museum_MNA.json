@@ -18,7 +18,14 @@
     "ethnicity": "Oromo",
     "tradition": "Oromo Ethiopia",
     "art_form": "jewelry",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a necklace/collar made of hollow seed pods strung with colored cloth strips, a plausible traditional adornment item consistent with Oromo material culture as described.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Collar",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "2680002fd8d1093419fca65b392bb05d6a4f59b688fc8f96351a315c2eb63d48",
       "bytes": 12822,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\oromo\\unclassified\\oromo-ethiopia\\images\\eu_2022703_pages_Main_idt_31411_inventary_CE19629_table_FMUS_museum_MNA.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\oromo\\unclassified\\oromo-ethiopia\\images\\eu_2022703_pages_Main_idt_31411_inventary_CE19629_table_FMUS_museum_MNA.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:53:52.583312+00:00"
+  "processed_at": "2026-07-28T18:46:06.378069+00:00"
 }

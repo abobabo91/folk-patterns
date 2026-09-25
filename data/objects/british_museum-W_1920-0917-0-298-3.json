@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Classic Safavid-style Persian miniature painting depicting a young page seated on a stool reading from an album, with Persian calligraphic inscriptions and gold-flecked ground, fully consistent with Persian court art of the claimed culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "painting; album (detached folio)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:58.820647+00:00"
+  "processed_at": "2026-07-28T18:59:08.135978+00:00"
 }

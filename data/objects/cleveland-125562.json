@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A bronze seated Vajrasattva figure holding vajra and bell, consistent with Khmer tantric Buddhist bronze sculpture of the Angkor Thom (Bayon) period under Jayavarman VII.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer/images/cle_125562.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_125562.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "850b577c1fa91e4eb820b3f2b6cf76631178ccb9874bc6ae234550166c78263b",
       "bytes": 133468,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer\\images\\cle_125562.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_125562.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.166389+00:00"
+  "processed_at": "2026-07-28T11:57:49.258011+00:00"
 }

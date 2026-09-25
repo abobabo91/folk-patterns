@@ -18,7 +18,14 @@
     "ethnicity": "Kongo",
     "tradition": "Kongo",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a raffia knotted prestige cap (mpu ngola) with leopard claw attachments, a headwear form documented among the Kongo (and related Vili/Yombe) peoples, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Prestige Cap (mpu ngola)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/unclassified/kongo/images/cle_159880.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/garment/kongo/images/cle_159880.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8bfcfb3c514c50b5e23fcaff87d31ba807e27cf113bb725de7ffd66349044378",
       "bytes": 212900,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\unclassified\\kongo\\images\\cle_159880.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\garment\\kongo\\images\\cle_159880.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:43.391491+00:00"
+  "processed_at": "2026-07-28T18:41:31.805426+00:00"
 }

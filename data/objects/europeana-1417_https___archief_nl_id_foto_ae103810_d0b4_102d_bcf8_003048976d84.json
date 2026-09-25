@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
-    "art_form": "photo",
+    "art_form": "household",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photo of two Batak women in Sumatra, one carrying a woven basket on her head with a headcloth support, showing traditional daily-life dress and a household carrying implement.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "[zonder titel] [reportage Batak-gebied Sumatra] [vrouwen, waarvan een met mand op hoofd ]",
@@ -64,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-indonesia/images/eu_1417_https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/household/batak-indonesia/images/eu_1417_https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "df9e76c0ed9fcff7ebecbc89ff361f54ec50514cbdc6bf02a216e2dbdc3246f7",
       "bytes": 14397,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\household\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:49.873208+00:00"
+  "processed_at": "2026-07-28T18:43:26.567584+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Hagia Sophia",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows Hagia Sophia in Istanbul under scaffolding restoration, an Ottoman/Byzantine-era Turkish landmark and architectural monument, consistent with the claimed Turkish origin.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "20260211 Istanbul 03 (85725).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/architectural/hagia-sophia/images/carch_0ca30e5301fcd39c.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/photo/hagia-sophia/images/carch_0ca30e5301fcd39c.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "15f137e75acb27dd6bffd43ad8af732c6de9a04c1ec0a7ae14e1cd9ceb687183",
       "bytes": 301409,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\architectural\\hagia-sophia\\images\\carch_0ca30e5301fcd39c.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\photo\\hagia-sophia\\images\\carch_0ca30e5301fcd39c.jpg"
     }
   ],
   "map": {

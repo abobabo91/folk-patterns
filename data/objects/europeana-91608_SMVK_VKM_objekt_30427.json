@@ -18,7 +18,14 @@
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
     "art_form": "textile",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a large piece of bark cloth (basttyg) from Gabon/Ogove region, a material and household textile plausible for Fang or neighboring groups in that area; no distinguishing feature separates it from Fang production specifically, but the region matches the claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "bastväv, Basttyg",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/unclassified/fang-gabon/images/eu_91608_SMVK_VKM_objekt_30427.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/household/fang-gabon/images/eu_91608_SMVK_VKM_objekt_30427.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0dc7a307f5051b798260f580be02aa12e299c5c89508ebeeef404d687f3b546a",
       "bytes": 12756,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\unclassified\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_30427.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\household\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_30427.jpg",
+      "low_quality": true
     }
   ],
   "map": {

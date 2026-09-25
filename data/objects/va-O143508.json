@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic Central Asian ikat (adras/abr) fabric length with the typical bold blue, purple and green palette and repeating stylized floral/flame motif, characteristic of Uzbek/Central Asian weaving traditions that fit the broad regional claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -152,22 +156,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ikat/images/va_O143508.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/ikat/images/va_O143508.jpg",
       "iiif_id": "2007BM4952",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM4952/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f3a15eb891b285ae13900b7ce6c24e0ab9a1678652885b4bcc34a7e76bce884b",
       "bytes": 164475,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ikat\\images\\va_O143508.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\ikat\\images\\va_O143508.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ikat/images/va_O143508_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/ikat/images/va_O143508_1.jpg",
       "iiif_id": "2007BM4951",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM4951/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "c140d3d6f5807d51fe2021b8add8f1fc75010d1189c6331878f355cd88e1b954",
       "bytes": 164386,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ikat\\images\\va_O143508_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\ikat\\images\\va_O143508_1.jpg"
     }
   ],
   "map": {

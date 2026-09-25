@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows an ornately carved and gilded temple door (kori/pemedal) at Pura Ulun Danu Beratan, a Balinese Hindu temple, with a Boma face and guardian figures typical of Balinese temple architecture — clearly Balinese craft, though the record's category should be architectural rather than painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "005 Golden Doors, Pura Ulun Danu Beratan, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-ulun-danu-bratan/images/carch_b1cf94f1e572f1b6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-ulun-danu-bratan/images/carch_b1cf94f1e572f1b6.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a1e95534a6f470d5f4a4314582e18f4f6fe85d59dfdc22d25cb01677839be92b",
       "bytes": 1137050,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-ulun-danu-bratan\\images\\carch_b1cf94f1e572f1b6.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-ulun-danu-bratan\\images\\carch_b1cf94f1e572f1b6.jpg"
     }
   ],
   "map": {

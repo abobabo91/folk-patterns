@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "These two bronze tantric deities trampling prone figures were made at Angkor in 11th-century Cambodia, part of the Khmer Buddhist/Hindu tantric tradition even though the iconography (Samvara and a dakini) relates to a form current in Tibetan Buddhism too; the sculptures themselves are Khmer-made cult objects.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "sculpture",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Shamvara and A Dakini",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/metalwork/khmer/images/cle_152856.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_152856.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1e720bae73841b96f3971ecddb2ef4ef59e0a2cd8ccac006b58a490618294c66",
       "bytes": 90959,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\metalwork\\khmer\\images\\cle_152856.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_152856.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.143882+00:00"
+  "processed_at": "2026-07-28T11:57:48.369353+00:00"
 }

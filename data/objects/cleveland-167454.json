@@ -20,8 +20,12 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a classic Bukhara-style ikat velvet munisak robe with characteristic bold ram's-horn and pomegranate motifs, matching traditional Uzbek women's dress and the museum's own attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Woman’s Robe (munisak)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:44.854495+00:00"
+  "processed_at": "2026-07-28T18:40:54.984143+00:00"
 }

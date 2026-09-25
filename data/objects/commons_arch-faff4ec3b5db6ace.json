@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Kurdish (Iranian)",
     "tradition": "Asef Vaziri Mansion",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This shows a historic building (stone/brick masonry with arched arcade and columns) in Iran, plausibly within Kurdish-inhabited territory; architecture is a valid category for the claimed ethnicity even though filed as painting-mss.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "20170329 191102-picsay.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/kurdish-iranian/architectural/asef-vaziri-mansion/images/carch_faff4ec3b5db6ace.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/kurdish-iranian/painting-mss/asef-vaziri-mansion/images/carch_faff4ec3b5db6ace.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6d6834abd28725c1b1bf81562dcc01c24603f970d393ab764480cbe2514a5ef0",
       "bytes": 339316,
-      "local_path": "library\\middle-east-north-africa\\iran\\kurdish-iranian\\architectural\\asef-vaziri-mansion\\images\\carch_faff4ec3b5db6ace.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\kurdish-iranian\\painting-mss\\asef-vaziri-mansion\\images\\carch_faff4ec3b5db6ace.jpg"
     }
   ],
   "map": {

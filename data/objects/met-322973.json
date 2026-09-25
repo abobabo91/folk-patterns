@@ -13,12 +13,19 @@
     "accession_year": "1934"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "metalwork",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a silver-gilt Sasanian royal hunting plate depicting a mounted king shooting rams, an iconic Sasanian-Persian courtly art form found in Iran; it is metalwork, not ceramic as the record's category claims, but the ethnicity attribution to ancient Persian royal tradition is correct.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Plate with king hunting rams",
@@ -71,40 +78,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_322973.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_322973.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "95e7404197ef11e207a1b71ac6d3e38de08a6d86f77179a90d5a1af921f3a163",
       "bytes": 3396225,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_322973.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_322973.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_322973_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_322973_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "0c31fa1fde038db3fbaa038ba3e68bd8c6ad1771819810c7abcc44a11a66a3ab",
       "bytes": 930134,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_322973_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_322973_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_322973_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_322973_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "1f7b28dadc992065a6ce1b41a23d17b36307605864e55ed115dc804f0077cc8d",
       "bytes": 870036,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_322973_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_322973_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_322973_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_322973_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "177942e7ec23b305db6123f3765003585f2b63f5feac2d1a0ef70ca4f2e34f46",
       "bytes": 4097810,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_322973_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_322973_3.jpg"
     }
   ],
   "map": {

@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a Balinese raja meeting a Dutch colonial officer in front of an ornately carved Balinese temple/palace gateway, documenting Balinese dress and architecture during the colonial period; this is a documentary photo relevant to Balinese culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:15.542329+00:00"
+  "processed_at": "2026-07-28T18:43:03.057925+00:00"
 }

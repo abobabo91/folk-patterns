@@ -18,9 +18,13 @@
     "ethnicity": "Minangkabau",
     "tradition": "Minangkabau",
     "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
+    "pattern_density": 0,
     "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a handwoven shoulder cloth with supplementary gold-thread weft in geometric bands and crocheted gold-thread trim ends, matching a garment/textile type made and worn by Minangkabau women as described in the museum record.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -33,12 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2130",
-      "http://data.europeana.eu/concept/1771"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2130; http://data.europeana.eu/concept/1771",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -75,7 +76,8 @@
       "role": "primary",
       "sha256": "ec1bea9f747a9172bb8c7dcdfeefb8b263311e50329086d977176198b5ed2505",
       "bytes": 20227,
-      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\minangkabau\\images\\eu_2048221_europeana_fashion_84229.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\minangkabau\\images\\eu_2048221_europeana_fashion_84229.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -83,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:22.205506+00:00"
+  "processed_at": "2026-07-28T18:43:49.791907+00:00"
 }

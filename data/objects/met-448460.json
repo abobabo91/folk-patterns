@@ -13,12 +13,19 @@
     "accession_year": "1930"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Mughal-style miniature painting (from the Davis Album) showing a night gathering of sages/dervishes with a floral border, in the Perso-Indian courtly manuscript tradition; such works were closely shared between Safavid Iran and Mughal India, so it fits the claimed Persian attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "\"A Night-time Gathering\", Folio from the Davis Album",
@@ -80,22 +87,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_448460.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_448460.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "21b4463406f515c40564ba0d4d2ad8f48d53624700d9e7c0357461012ecf1d9c",
       "bytes": 3151313,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_448460.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_448460.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_448460_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_448460_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "daff02eed88973d4e1b0d461ddc9050830afcbabc96a9509d15769ca040890d0",
       "bytes": 245007,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_448460_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_448460_1.jpg"
     }
   ],
   "map": {

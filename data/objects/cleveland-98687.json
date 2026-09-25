@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a hand-drawn batik cotton hip cloth (kain panjang) with a traditional sarong/badan-kepala layout in classic brown-and-indigo tones typical of Javanese batik. It clearly matches a Javanese textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/javanese/images/cle_98687.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/java/images/cle_98687.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8d99699bbcd30f71369288bde7fe7c012df6720b1e96ebc9670c109ccb3e3732",
       "bytes": 270785,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\javanese\\images\\cle_98687.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\java\\images\\cle_98687.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:29.050699+00:00"
+  "processed_at": "2026-07-28T11:56:31.336939+00:00"
 }

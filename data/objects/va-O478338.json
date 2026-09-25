@@ -13,15 +13,19 @@
     "accession_year": 1985
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik cap",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A cap batik sarong with cream ground, floral/bird motifs and kepala/badan structure, matching Javanese batik textile tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -80,49 +84,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/batik-cap/images/va_O478338.jpg",
       "iiif_id": "2017JX7737",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7737/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "3a0513946327face0f504060f4b791f9755d7d4c7d0f2896795df0cb727c6330",
       "bytes": 150072,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\batik-cap\\images\\va_O478338.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/batik-cap/images/va_O478338_1.jpg",
       "iiif_id": "2017JX7736",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7736/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "bf0ccb2b39a41bb89a0f92ed57be0fd36479554e1bfab49d5aa78b0c5c0e0052",
       "bytes": 336942,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\batik-cap\\images\\va_O478338_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/batik-cap/images/va_O478338_2.jpg",
       "iiif_id": "2017JX7738",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7738/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "a6a0be6358ce1598b856e356365dc5fe0efb94e586e33d7c9d59c1714c357f09",
       "bytes": 163887,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\batik-cap\\images\\va_O478338_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/batik-cap/images/va_O478338_3.jpg",
       "iiif_id": "2017JX7739",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7739/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "a0f30082ae8c9363783ef8f5a67e466c03fbcca9c9f135c0778a49ab31a94aa0",
       "bytes": 187339,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_3.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\batik-cap\\images\\va_O478338_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik-cap/images/va_O478338_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/batik-cap/images/va_O478338_4.jpg",
       "iiif_id": "2017JX7740",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7740/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e191a36291f5dfd1b0eac02dc616cb6bb744032aec7a002286784b87343a7899",
       "bytes": 356896,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik-cap\\images\\va_O478338_4.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\batik-cap\\images\\va_O478338_4.jpg"
     }
   ],
   "map": {

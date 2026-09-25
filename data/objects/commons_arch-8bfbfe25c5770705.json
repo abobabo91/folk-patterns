@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Mashrabiya",
-    "art_form": "jewelry",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This is a carved wooden mashrabiya (projecting oriel window with latticework), displayed in a museum gift shop; mashrabiya is a traditional Arabic/Islamic architectural element found in Egypt among other places, so it plausibly belongs to Egyptian architectural tradition, though it is mislabeled as \"sculpture\" rather than architectural.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Birmingham Museum & Art Gallery - Industrial Gallery - Gift Shop sculpture - Mashrabiya (7103434457).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/architectural/mashrabiya/images/carch_8bfbfe25c5770705.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/sculpture/mashrabiya/images/carch_8bfbfe25c5770705.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "42cee65779ca3aec8c086f7a9b1f377f7008495f5f08d7c2fb0d7c7ea1812d7b",
       "bytes": 393738,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\architectural\\mashrabiya\\images\\carch_8bfbfe25c5770705.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\sculpture\\mashrabiya\\images\\carch_8bfbfe25c5770705.jpg"
     }
   ],
   "map": {

@@ -17,10 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "\"Kinh\" Vietnam",
-    "art_form": "ceramic",
+    "art_form": "household",
     "pattern_density": 1,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a woven basket/tray made of cane or rattan, from Vinh Phu province, Vietnam — a plausible Kinh craft item, but it is a basketry object, not ceramic as claimed.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "fat, Korgfat, plate",
@@ -69,7 +74,8 @@
       "role": "primary",
       "sha256": "c903b0b58957a95d96f7ab11b8e3dac50d3db1f9f7845da05507a12850c62807",
       "bytes": 19108,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\ceramic\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104324.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\kinh\\ceramic\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104324.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:34:19.606851+00:00"
+  "processed_at": "2026-07-28T18:44:25.770018+00:00"
 }

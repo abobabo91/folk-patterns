@@ -13,15 +13,19 @@
     "accession_year": 1891
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain panjang",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "Batik kain panjang skirt cloth with tumpal borders and floral/bird diaper pattern, a classic Javanese textile form, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -285,22 +289,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472105.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O472105.jpg",
       "iiif_id": "2011FB0563",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0563/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "15d78e4cd016529a9a7daf44e58e2815b3e1f2306a388dd16d3ab2e8d82056e0",
       "bytes": 686758,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472105.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O472105.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472105_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O472105_1.jpg",
       "iiif_id": "2011FB0575",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0575/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1dac39897449ee65303f2227c9412a1cc0be7219f927bf2495982f6def6f4140",
       "bytes": 192589,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472105_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O472105_1.jpg"
     }
   ],
   "map": {

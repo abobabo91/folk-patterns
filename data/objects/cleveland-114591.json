@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
-    "tradition": "Balinese",
-    "art_form": "metalwork",
+    "tradition": "Bali",
+    "art_form": "arms",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A kris dagger with a Damascus-patterned steel blade and gold, gem-set hilt is a classic Balinese weapon/status object, consistent with the claimed ethnicity and Cleveland's attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Kris",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/metalwork/balinese/images/cle_114591.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/metalwork/bali/images/cle_114591.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "eba91636d5723d0c44f06f2faad8d61e2d86ea0fb7e26a08e917ae683e34fa90",
       "bytes": 100818,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\metalwork\\balinese\\images\\cle_114591.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\metalwork\\bali\\images\\cle_114591.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:33.436560+00:00"
+  "processed_at": "2026-07-28T11:56:47.380199+00:00"
 }

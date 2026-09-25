@@ -18,7 +18,14 @@
     "ethnicity": "Berber",
     "tradition": "Berbère Maroc",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A silver bracelet with enamel decoration and pyramidal bosses, consistent with traditional Anti-Atlas Amazigh (Berber) silver jewelry as described in the museum's provenance.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Bracelet of a pair of bracelets with enamel decoration",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:50:09.316107+00:00"
+  "processed_at": "2026-07-28T18:42:21.710879+00:00"
 }

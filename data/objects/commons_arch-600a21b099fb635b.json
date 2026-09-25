@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows carved stone temple gates/statues at Pura Besakih, a Balinese Hindu temple complex, which fits Balinese architectural sculpture rather than painting-mss as claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "009 Dewa Statue made of Bitterwood, Pura Besikih, Mount Agung, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-besakih/images/carch_600a21b099fb635b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-besakih/images/carch_600a21b099fb635b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "140f487a2e697d68e70a5b17051cdf01ebee9088de9a4e9c9e8f82058d776075",
       "bytes": 902633,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-besakih\\images\\carch_600a21b099fb635b.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-besakih\\images\\carch_600a21b099fb635b.jpg"
     }
   ],
   "map": {

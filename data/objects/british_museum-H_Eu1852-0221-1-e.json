@@ -17,8 +17,15 @@
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A silk embroidered skull-cap with ikat-lined interior, consistent with Central Asian (Uzbek) women's headwear traditions; the form and materials are plausible for the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "cap",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/uzbek/images/bm_H_Eu1852-0221-1-e.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbek/images/bm_H_Eu1852-0221-1-e.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1d435cd484ba2d2d84fafa7cc9a37ab0f49758cbe4e099e395fda7dfa491e28b",
       "bytes": 53273,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\uzbek\\images\\bm_H_Eu1852-0221-1-e.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbek\\images\\bm_H_Eu1852-0221-1-e.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:46.213794+00:00"
+  "processed_at": "2026-07-28T18:57:31.375252+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a classic Kongo power figure (nkisi) with feathered headdress, textile/fiber attachments, and shell eyes—directly matching the claimed Kongo/Vili culture and museum attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Male Figure (Nkisi)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/textile/kongo/images/cle_168727.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/sculpture/kongo/images/cle_168727.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "cea08ec9935deb6010af6282243f422858cbd59a7aa87645efc1ef40ecf52316",
       "bytes": 299525,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\textile\\kongo\\images\\cle_168727.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\sculpture\\kongo\\images\\cle_168727.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:00.303249+00:00"
+  "processed_at": "2026-07-28T18:41:32.462730+00:00"
 }

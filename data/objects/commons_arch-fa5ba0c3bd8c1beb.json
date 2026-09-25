@@ -18,7 +18,14 @@
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu people",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A vintage documentary photograph of a young East African person with braided hair, beaded necklaces, and traditional dress, captioned as a Kikuyu boy from British East Africa; this fits the claimed ethnicity as documentary evidence of dress and adornment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "The American Museum journal (c1900-(1918)) (18160678395).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/architectural/kikuyu-people/images/carch_fa5ba0c3bd8c1beb.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/photo/kikuyu-people/images/carch_fa5ba0c3bd8c1beb.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "76722e2829b2e36ef8887793d40934f9265731345910aa5f54fc0523281d48d8",
       "bytes": 266388,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\architectural\\kikuyu-people\\images\\carch_fa5ba0c3bd8c1beb.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\photo\\kikuyu-people\\images\\carch_fa5ba0c3bd8c1beb.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-25T08:38:52.261900+00:00"
+  "processed_at": "2026-07-28T20:00:24.912006+00:00"
 }

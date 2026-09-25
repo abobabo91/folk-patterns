@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo Congo",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a classic Kongo nkisi nkondi power figure—kneeling wooden figure studded with metal blades and nails, with a mirrored medicine cavity on the abdomen and raised striking arm—a well-documented Kongo ritual object type.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Figura",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "a5c0709594776206a660654ad6eb108bb2ad690d88ea6acb19b63e3e8addb363",
       "bytes": 20914,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\unclassified\\kongo-congo\\images\\eu_2022703_pages_Main_idt_37615_inventary_CE20560_table_FMUS_museum_MNA.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\unclassified\\kongo-congo\\images\\eu_2022703_pages_Main_idt_37615_inventary_CE20560_table_FMUS_museum_MNA.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:26.477180+00:00"
+  "processed_at": "2026-07-28T18:46:42.435824+00:00"
 }

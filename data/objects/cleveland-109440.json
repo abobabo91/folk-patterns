@@ -19,8 +19,13 @@
     "tradition": "Filipino",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a piña fiber textile with hand embroidery, a traditional Filipino craft using fibers from pineapple leaves, consistent with the Philippines attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Lace Fichu",
@@ -77,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.462439+00:00"
+  "processed_at": "2026-07-28T18:41:27.950388+00:00"
 }

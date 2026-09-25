@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Balinese",
-    "art_form": "photo",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A man in a suit presents an elaborate long-haired Balinese ritual mask/costume (resembling a Barong or similar figure) at an exhibition opening, matching a traditional Balinese ceremonial mask costume.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Zijne Excellentie Sharif Padmadisastra tentoonstelling Bali geopend, tijdens de opening trad een groep Balinese dansers op",
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:18.643363+00:00"
+  "processed_at": "2026-07-28T18:43:06.068576+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": 1960
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "parang",
-    "art_form": "textile",
-    "pattern_density": 3,
+    "art_form": "garment",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a cotton batik head cloth with a parang motif, a traditional Javanese textile worn as headwear, not metalwork as claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -83,31 +87,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O454064.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/parang/images/va_O454064.jpg",
       "iiif_id": "2021NA3537",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3537/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "82dedd474250519b07df80a532f430f49275e0098dd3947b20fab067e46c1156",
       "bytes": 304029,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O454064.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\parang\\images\\va_O454064.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O454064_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/parang/images/va_O454064_1.jpg",
       "iiif_id": "2012FM9553",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9553/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "9e8a50da5bc019014e7dec4327fc147dd876d22b03de3c826a7323818ac0793e",
       "bytes": 273158,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O454064_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\parang\\images\\va_O454064_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O454064_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/parang/images/va_O454064_2.jpg",
       "iiif_id": "2018KY9219",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9219/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "3a9e026a69c2f7678feccf67b01189ed77d003901e51e3872f854141d1898df6",
       "bytes": 233335,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O454064_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\parang\\images\\va_O454064_2.jpg"
     }
   ],
   "map": {

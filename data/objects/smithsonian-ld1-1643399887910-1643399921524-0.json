@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain panjang",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a batik kain panjang with a classic repeating parang/tumpal-style motif in brown, cream and dark tones typical of Javanese batik cloth, consistent with the claimed Javanese textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Long sarong (kain panjang)",
@@ -69,22 +73,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/kain-panjang/images/si_chndm_1951-111-20.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/si_chndm_1951-111-20.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2a0d9978f148d5fb8696b777e662ac596084cb695738e07d8df7ac07121e40b1",
       "bytes": 8478147,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\kain-panjang\\images\\si_chndm_1951-111-20.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\si_chndm_1951-111-20.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/kain-panjang/images/si_chndm_1951-111-20_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/si_chndm_1951-111-20_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "0cef57a20c39fea79dc834b60ce06e73e3b3b7fe18cf678340ba20db5bee46d8",
       "bytes": 478719,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\kain-panjang\\images\\si_chndm_1951-111-20_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\si_chndm_1951-111-20_1.jpg"
     }
   ],
   "map": {

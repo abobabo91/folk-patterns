@@ -18,7 +18,14 @@
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
     "art_form": "jewelry",
-    "pattern_density": 0
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a wire necklace/collar with attached chains, consistent with Maasai-style metal jewelry as described in the museum's inventory. This is a plausible personal ornament type for the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Collier des Maasaï",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/unclassified/maasai-kenya/images/eu_1269_mnha50834.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/jewelry/maasai-kenya/images/eu_1269_mnha50834.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c9001b3775fff2b3a7f693d64e93c1ee9d9e60db5a637422feb6e9f3a5832b46",
       "bytes": 16196,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_1269_mnha50834.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\jewelry\\maasai-kenya\\images\\eu_1269_mnha50834.jpg",
+      "low_quality": true
     }
   ],
   "map": {

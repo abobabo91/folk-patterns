@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows traditional Batak-style saddle-roofed houses (with distinctive curved boat-shaped roofs) beside Lake Toba near Ambarita, matching the claimed ethnicity and location.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "North Sumatra banner2.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ambarita/images/carch_9d5c1c389f443276.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/photo/ambarita/images/carch_9d5c1c389f443276.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e2371cc91a60730c435388e2068e144471a33afd3fa376ddfa73f77c39dcb60e",
       "bytes": 89842,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ambarita\\images\\carch_9d5c1c389f443276.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\photo\\ambarita\\images\\carch_9d5c1c389f443276.jpg"
     }
   ],
   "map": {

@@ -13,15 +13,19 @@
     "accession_year": 1987
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "parang",
+    "tradition": "kain panjang",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a hand-drawn batik cotton kain panjang from Yogyakarta with classic parang and ceplok motifs, clearly a Javanese textile — correctly attributed to the culture but wrongly filed as metalwork.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -82,13 +86,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/parang/images/va_O454047.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/kain-panjang/images/va_O454047.jpg",
       "iiif_id": "2021NA3539",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3539/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "7f288ca89a7ea0819756d25c87bb3499e8f2f85f1dcb968738664a1b77c495a4",
       "bytes": 366879,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\parang\\images\\va_O454047.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\kain-panjang\\images\\va_O454047.jpg"
     }
   ],
   "map": {
@@ -96,5 +100,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:21:09.423144+00:00"
+  "processed_at": "2026-07-18T11:19:37.204662+00:00"
 }

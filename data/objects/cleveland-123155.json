@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a piña (pineapple fiber) blouse sleeve with traditional Filipino embroidery and needle lace, a hallmark of 19th-century Philippine textile craft, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Blouse in four pieces (sleeve)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:46.479099+00:00"
+  "processed_at": "2026-07-28T18:41:29.638078+00:00"
 }

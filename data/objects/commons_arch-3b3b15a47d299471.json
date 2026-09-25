@@ -18,7 +18,15 @@
     "ethnicity": "Khmer",
     "tradition": "Banteay Srei",
     "art_form": "sculpture",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/b/b2/A_lion-headed_scribe_at_Bant",
+    "vision_reason": "The image shows a stone guardian figure with a lion head seated at Banteay Srei temple, a 10th-century Khmer Angkorian monument in Siem Reap — clearly Khmer temple sculpture from their homeland.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "A lion-headed scribe at Banteay Srei.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/banteay-srei/images/carch_3b3b15a47d299471.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/banteay-srei/images/carch_3b3b15a47d299471.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1edce2f26305243ebac23d8e50b1f7f4e0c535f76a0ba4a6449f1fe3313c231e",
       "bytes": 380468,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\banteay-srei\\images\\carch_3b3b15a47d299471.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\banteay-srei\\images\\carch_3b3b15a47d299471.jpg"
     }
   ],
   "map": {

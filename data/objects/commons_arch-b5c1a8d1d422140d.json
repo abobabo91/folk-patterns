@@ -17,8 +17,15 @@
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "Paintings of Wat Pho",
-    "art_form": "architectural",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Thai mural painting depicting scenes at Wat Pho temple, showing traditional Thai architecture (multi-tiered roofs, ornate gables) and figures in a Buddhist narrative setting — clearly Thai temple art. The claimed category \"architectural\" is a slight mismatch since it's primarily a painting, but the depicted buildings are authentic Thai architecture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "032 Kali (13573897923).jpg",

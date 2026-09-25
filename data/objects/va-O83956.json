@@ -17,10 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "lacquer painting",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A bronze crowned and bejeweled Buddha (bodhisattva-style ornamented Buddha) seated in bhumisparsa mudra, a form long produced in Burmese Buddhist tradition (Ava/Konbaung period); fits the claimed Burmese/regional attribution as a devotional metal sculpture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": null,
@@ -341,13 +346,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/lacquer-painting/images/va_O83956.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/metalwork/lacquer-painting/images/va_O83956.jpg",
       "iiif_id": "2020MT7459",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MT7459/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "38af1f4b73fbb7e2968327ad9e46e81ddb8d78f98f5546ac1be9d9796ea8c9e7",
       "bytes": 118849,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\lacquer-painting\\images\\va_O83956.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\metalwork\\lacquer-painting\\images\\va_O83956.jpg"
     }
   ],
   "map": {

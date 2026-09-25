@@ -14,14 +14,18 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Turkmenistan",
-    "ethnicity": "Turkmen",
-    "tradition": "Yomud gul",
+    "country": "Afghanistan",
+    "ethnicity": "Afghan Turkmen",
+    "tradition": "Ersari carpet",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a pile-woven bag face (rug fragment) with a Turkmen-style diamond lattice design, a textile object not jewelry, but plausibly Central Asian regional weaving.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -94,85 +98,85 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961.jpg",
       "iiif_id": "2011EV3413",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011EV3413/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d6428b301fae7fc323e9520e18914d330a5f5716438af60184cf64f4b172e550",
       "bytes": 300333,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_1.jpg",
       "iiif_id": "2017JW7226",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7226/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "5bd9c8fced839116e06499265f05fe67b40a3f2b002f4755f87db5a310c3603b",
       "bytes": 413844,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_2.jpg",
       "iiif_id": "2017JW7227",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7227/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "79b67292be295849201c8f0979f90332db626f47c5ea7a889a05e8b5db6b2f06",
       "bytes": 166869,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_3.jpg",
       "iiif_id": "2017JW7229",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7229/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ec517b3bf05c270f3231ee51189f66ed8309a8937e430b45519debb1aecbc4e4",
       "bytes": 157833,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_3.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_4.jpg",
       "iiif_id": "2017JW7230",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7230/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "26e3121bd0a88cecdee7bf5c74c8e632a3139eef40e4b01bdf43790fed5c60df",
       "bytes": 180921,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_4.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_5.jpg",
       "iiif_id": "2017JW7231",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7231/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "57067c6382047d6c831b4e19e7105cb3a0d67838dbc5ab25dbcdaa8abbf75f79",
       "bytes": 413523,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_5.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_6.jpg",
       "iiif_id": "2017JW7232",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7232/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "724465fb88db526211c63d2b2c17dbfad83db68ccadf749fbdc8995714bd847f",
       "bytes": 164657,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_6.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_6.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_7.jpg",
       "iiif_id": "2017JW7233",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7233/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b3d99d4edf8a91e3a863d91e213a1badc2b8c6d8e401dc64ac6ab43afbf00dec",
       "bytes": 187487,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_7.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_7.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O156961_8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/jewelry/ersari-carpet/images/va_O156961_8.jpg",
       "iiif_id": "2017JW7236",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JW7236/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "15840077f98e18c8407b651e8da3664888b23be486fde3f91458ac1294ea382a",
       "bytes": 167989,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O156961_8.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\jewelry\\ersari-carpet\\images\\va_O156961_8.jpg"
     }
   ],
   "map": {
@@ -180,5 +184,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:32:11.945718+00:00"
+  "processed_at": "2026-07-18T06:35:21.553362+00:00"
 }

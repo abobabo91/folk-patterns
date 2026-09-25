@@ -18,7 +18,14 @@
     "ethnicity": "Baluchi",
     "tradition": "Baluch",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a classic Baluch runner rug with repeating tree/candelabra medallion motifs in deep red and dark tones, a weaving style well-documented among Baluchi weavers of Iran/Afghanistan; the museum title confirms \"Belutschen-Teppich\" (Baluch carpet).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Belutschen-Teppich (Läufer) (vom Bearbeiter vergebener Titel)",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "de941e21cd54535edd416390aee7bad94e218065e124832fec92c41a977dda95",
-      "bytes": 8160,
+      "sha256": "a62c0ad18f440d1273452a4f00bec78924d551914393dfb035af05363b41bcb5",
+      "bytes": 121211,
       "local_path": "library\\middle-east-north-africa\\iran\\baluchi\\textile\\baluch\\images\\eu_15514_T_11492.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:50:02.840322+00:00"
+  "processed_at": "2026-07-28T18:42:20.474488+00:00"
 }

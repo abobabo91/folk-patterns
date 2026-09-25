@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "kain panjang",
+    "tradition": "batik",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a batik-patterned kain panjang (long sarong cloth) with a repeating geometric ceffee lattice/star motif, a classic Javanese batik design and format, consistent with the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Kain panjang (long sarong)",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/kain-panjang/images/si_chndm_1961-115-24.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/si_chndm_1961-115-24.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "141fb0f868beba223bcbc03648081878de623bd674d9c20ef9ecdc2a9a1f34bb",
       "bytes": 7004911,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\kain-panjang\\images\\si_chndm_1961-115-24.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\si_chndm_1961-115-24.jpg"
     }
   ],
   "map": {
@@ -83,5 +87,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:50:41.907619+00:00"
+  "processed_at": "2026-07-18T11:47:28.502589+00:00"
 }

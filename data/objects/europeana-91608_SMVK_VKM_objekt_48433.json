@@ -17,8 +17,15 @@
     "country": "Kenya",
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photo shows a leather sheathed sword with a leather strap, collected from the Maasai area of British East Africa (Kenya/Tanzania), consistent with Maasai-made weaponry.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "arms",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Sabel, sabel med slida",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "d9d0c5f91021c5a77c1454b45e08989c3f587dc87108d4110ccf44023bfc568f",
       "bytes": 8714,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48433.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48433.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:55:01.964388+00:00"
+  "processed_at": "2026-07-28T18:46:13.083585+00:00"
 }

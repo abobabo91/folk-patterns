@@ -17,8 +17,15 @@
     "country": "Tunisia",
     "ethnicity": "Tunisian Arab",
     "tradition": "Dar Hussein",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows ceramic tile panels from Dar Hussein in the Tunis Medina, made by Kallaline potters in the traditional Tunisian style; though category is labeled \"photo,\" the actual subject is Tunisian ceramic architectural decoration, fitting the claimed Tunisian Arab ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Céramique de Kallaline dans le Dar Hussein (Medina de Tunis) (49798407507).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/tunisia/tunisian-arab/architectural/dar-hussein/images/carch_995dbadbb3e6f40b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/tunisia/tunisian-arab/photo/dar-hussein/images/carch_995dbadbb3e6f40b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d2ddfa1ffc1bee066223731dfd4bf2d91be053f81bf34a4620876bac5e9db292",
       "bytes": 3444905,
-      "local_path": "library\\middle-east-north-africa\\tunisia\\tunisian-arab\\architectural\\dar-hussein\\images\\carch_995dbadbb3e6f40b.jpg"
+      "local_path": "library\\middle-east-north-africa\\tunisia\\tunisian-arab\\photo\\dar-hussein\\images\\carch_995dbadbb3e6f40b.jpg"
     }
   ],
   "map": {

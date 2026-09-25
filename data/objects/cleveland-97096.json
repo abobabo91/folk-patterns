@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "metalwork",
-    "pattern_density": 3,
+    "art_form": "arms",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a Moro sword (kalis/sundang) with a straight fullered blade, silver-braided grip, and large ivory pommel typical of Tausug/Maranao elite weaponry from Mindanao, consistent with the claimed Filipino (Moro) attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Sword (Kalis or Sundang)",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/filipino/images/cle_97096.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/metalwork/filipino/images/cle_97096.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a959c0c65aad7b019b41a1ac985de33eaf1d6331a4e1f3c19375269aef566f80",
       "bytes": 109429,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_97096.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\metalwork\\filipino\\images\\cle_97096.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.402435+00:00"
+  "processed_at": "2026-07-28T18:41:27.797759+00:00"
 }

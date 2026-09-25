@@ -17,8 +17,15 @@
     "country": "Gabon",
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a barbed iron spearhead with wooden shaft, a weapon type consistent with Central African (Fang/Upper Congo) manufacture; it is a used, functional tool/weapon rather than an outsider's depiction.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "spjut",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/unclassified/fang-gabon/images/eu_91608_SMVK_VKM_objekt_29790.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/household/fang-gabon/images/eu_91608_SMVK_VKM_objekt_29790.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a139bce6016a2be7142f30ca4b39c2be8911e5b974ccd458c76cfcbfa5ab74a3",
       "bytes": 5991,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\unclassified\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_29790.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\household\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_29790.jpg",
+      "low_quality": true
     }
   ],
   "map": {

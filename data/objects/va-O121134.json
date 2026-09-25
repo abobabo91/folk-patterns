@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The carpet shows a classic Turkmen (Turcoman) \"guls\" (octagonal medallion) design in the typical madder-red palette with elephant-foot-style gul motifs, consistent with Turkmen weaving traditions of Central Asia; this fits the regional/Turcoman attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

@@ -13,12 +13,19 @@
     "accession_year": "1936"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A worn silver coin (obol) with a profile bust wearing a headdress, from Qasr-i Abu Nasr, Iran — an ancient Persian coin type consistent with the claimed ethnicity/region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Obol",
@@ -63,22 +70,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_323508.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/unclassified/general/images/met_323508.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "082bf0e45263bc50fb38cc2a469be9f6db041a367707435bd3a135fa117ee52a",
       "bytes": 501458,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_323508.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\general\\images\\met_323508.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_323508_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/unclassified/general/images/met_323508_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "8f6ab4e5a296a9d82540dd55c08e3239eb35ccdc7cacba022b788c3c3ccd39b7",
       "bytes": 482843,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_323508_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\general\\images\\met_323508_1.jpg"
     }
   ],
   "map": {

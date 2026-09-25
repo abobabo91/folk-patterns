@@ -19,9 +19,13 @@
     "tradition": "One Pillar Pagoda",
     "art_form": "photo",
     "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "The photo shows a modern market scene with mass-produced Buddhist prayer flags outside the One Pillar Pagoda in Hanoi, a Kinh/Vietnamese Buddhist site, and vendor stalls with tourists; the flags are a religious/commercial display rather than a documented architectural or ethnographic object, but the scene is a genuine contemporary Vietnamese setting.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Buddhist flags at the One Piller Pagoda in 2016 (2).jpg",

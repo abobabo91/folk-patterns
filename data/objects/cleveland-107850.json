@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a batik head cloth from Java's North Coast, showing classic batik cap floral, paisley (buketan-style sprigs) and diamond-shaped kepala patterning in red and pink tones—consistent Javanese textile craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/javanese/images/cle_107850.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/java/images/cle_107850.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1035b4209bf3329d9ba74ae81bbbff977d55711f3881dbc87b920d8f0d175e7a",
       "bytes": 400080,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\javanese\\images\\cle_107850.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\java\\images\\cle_107850.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:29.632295+00:00"
+  "processed_at": "2026-07-28T11:56:45.202150+00:00"
 }

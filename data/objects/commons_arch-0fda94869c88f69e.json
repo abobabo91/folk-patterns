@@ -17,8 +17,15 @@
     "country": "Tunisia",
     "ethnicity": "Tunisian Arab",
     "tradition": "Dar Hussein",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture shows the ornate two-story courtyard of a historic Tunisian mansion (Dar Hussein), with carved white stucco arches, tiled panels, carved wooden balconies and marble columns — richly decorated traditional Tunisian domestic/palatial architecture, no people present so \"photo\" is not the best fit.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Dar Hussein 1.JPG",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/tunisia/tunisian-arab/architectural/dar-hussein/images/carch_0fda94869c88f69e.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/tunisia/tunisian-arab/photo/dar-hussein/images/carch_0fda94869c88f69e.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "10697e7b78fa157393d6e86fdc8fc6ceffba14fe38b5b42affb89693002e2f82",
       "bytes": 382999,
-      "local_path": "library\\middle-east-north-africa\\tunisia\\tunisian-arab\\architectural\\dar-hussein\\images\\carch_0fda94869c88f69e.jpg"
+      "local_path": "library\\middle-east-north-africa\\tunisia\\tunisian-arab\\photo\\dar-hussein\\images\\carch_0fda94869c88f69e.jpg"
     }
   ],
   "map": {

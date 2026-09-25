@@ -17,11 +17,15 @@
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
     "tradition": "Tekke gul",
-    "art_form": "textile",
+    "art_form": "household",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "household",
+    "vision_reason": "This is a knotted-pile double saddlebag with geometric medallions, typical Central Asian/Middle Eastern tribal weaving; the claimed ethnicity is a broad regional label, and the object is a plausible regional textile/bag made of wool pile.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -113,31 +117,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/unclassified/tekke-gul/images/va_O167232.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O167232.jpg",
       "iiif_id": "2013GB4189",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2013GB4189/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "3688fb6e58e35bd452e29a91c9383b2d0089261356e7c86e1d889f6d018df25c",
       "bytes": 368471,
-      "local_path": "library\\central-asia\\regional\\regional\\unclassified\\tekke-gul\\images\\va_O167232.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O167232.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/unclassified/tekke-gul/images/va_O167232_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O167232_1.jpg",
       "iiif_id": "2014HJ3070",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2014HJ3070/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "43f97d03c96fa6f5ca4df07f9a1cad5d1e5b4f82d3fb01d39bbc9ddec89d613e",
       "bytes": 128915,
-      "local_path": "library\\central-asia\\regional\\regional\\unclassified\\tekke-gul\\images\\va_O167232_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O167232_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/unclassified/tekke-gul/images/va_O167232_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O167232_2.jpg",
       "iiif_id": "2014HJ3073",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2014HJ3073/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "de7b82a327508af652201e87d014d00f6e112870b5abd34c46a296b51cd895d1",
       "bytes": 291999,
-      "local_path": "library\\central-asia\\regional\\regional\\unclassified\\tekke-gul\\images\\va_O167232_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O167232_2.jpg"
     }
   ],
   "map": {

@@ -13,14 +13,19 @@
     "accession_year": 1912
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
-    "art_form": "garment",
+    "art_form": "sculpture",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a gilded bronze/lacquer sculpture of the Buddha dressed in full Burmese royal regalia (crown, winged shoulder ornaments, jewelled chains, tiered court robes) — a sculpture, not a garment, but the regalia depicted is characteristically Burmese (Bamar) court art.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": null,
@@ -545,22 +550,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/sculpture/burmese-lacquer/images/va_O49228.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/burmese-lacquer/images/va_O49228.jpg",
       "iiif_id": "2006AT8855",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8855/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "4d39fe1a1a0cb45329442a148bb4bd2cd6508b16148aa2dc88a2bda2f46d8286",
       "bytes": 250957,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\sculpture\\burmese-lacquer\\images\\va_O49228.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\burmese-lacquer\\images\\va_O49228.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/sculpture/burmese-lacquer/images/va_O49228_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/burmese-lacquer/images/va_O49228_1.jpg",
       "iiif_id": "2006AT8856",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8856/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d8f2c126dcd7a77dea7c66dddb3d1b287b31a0fdb7db306e84f81c35cd076135",
       "bytes": 143591,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\sculpture\\burmese-lacquer\\images\\va_O49228_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\burmese-lacquer\\images\\va_O49228_1.jpg"
     }
   ],
   "map": {

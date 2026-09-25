@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Egyptian Coptic textile",
-    "art_form": "textile",
-    "pattern_density": 0
+    "art_form": "garment",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a plain undyed linen tunic (bag tunic) with faint woven stripe patterning near the edges, consistent with a Egyptian mummy/burial garment as described; the object is clearly the subject, photographed flat against a neutral background.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "mummiekleed ; weefsel",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/unclassified/egyptian-coptic-textile/images/eu_2021606_resource_document_rijksmuseum_van_oudheden_AU45.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/textile/egyptian-coptic-textile/images/eu_2021606_resource_document_rijksmuseum_van_oudheden_AU45.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "baaf63cb9e0fd664273f290511d495da09ee97afa7c0a7db07db29d0578d70c2",
       "bytes": 36439,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\unclassified\\egyptian-coptic-textile\\images\\eu_2021606_resource_document_rijksmuseum_van_oudheden_AU45.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\egyptian-coptic-textile\\images\\eu_2021606_resource_document_rijksmuseum_van_oudheden_AU45.jpg"
     }
   ],
   "map": {

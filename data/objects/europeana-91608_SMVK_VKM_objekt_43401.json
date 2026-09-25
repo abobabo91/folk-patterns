@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Small carved wooden human figurine (4.5 cm) used as a divination object in a diviner's basket, collected in Angola during the Bolinders expedition — consistent with Chokwe divination practice and material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "figur, Träfigur, sculpture, figurine",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "286596c0f328209933a113a0f295d100089667e7d2c74936637b0fcfc4e731e9",
       "bytes": 7222,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\sculpture\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43401.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\sculpture\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43401.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:13.668178+00:00"
+  "processed_at": "2026-07-28T18:47:06.931069+00:00"
 }

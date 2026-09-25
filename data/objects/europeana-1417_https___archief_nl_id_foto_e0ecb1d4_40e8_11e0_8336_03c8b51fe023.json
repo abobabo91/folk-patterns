@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A small sepia archival photograph mounted on a card, showing a crowd of people gathered outdoors around objects laid on the grass, consistent with a documented traditional Batak funeral/cremation gathering. The scene is genuine documentary ethnography, but the figures and ground objects are quite small and dim within the frame.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -72,7 +76,8 @@
       "role": "primary",
       "sha256": "92e98dbef5b218d87f042bd57c10ba731a05bb9cf8382d21bb606aa79d018c24",
       "bytes": 15988,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_e0ecb1d4_40e8_11e0_8336_03c8b51fe023.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_e0ecb1d4_40e8_11e0_8336_03c8b51fe023.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -80,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:41.605799+00:00"
+  "processed_at": "2026-07-28T18:43:18.081670+00:00"
 }

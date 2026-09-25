@@ -18,7 +18,14 @@
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu people",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A snapshot of a smiling young Kenyan woman in a modern white top inside a wooden kitchen hut, wrapped in a colorful printed kanga/lesso cloth; Nyeri is a Kikuyu-majority region, and the setting/dress is consistent with contemporary Kikuyu daily life.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "A Nyeri woman waiting for the pumpkin to simmer.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/architectural/kikuyu-people/images/carch_45c175894b6866c7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/photo/kikuyu-people/images/carch_45c175894b6866c7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d599bbee5f9479d39a052a13650a25b07254976c9bdebcb262f60a4de879224c",
       "bytes": 464167,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\architectural\\kikuyu-people\\images\\carch_45c175894b6866c7.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\photo\\kikuyu-people\\images\\carch_45c175894b6866c7.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-25T08:38:54.776811+00:00"
+  "processed_at": "2026-07-28T20:00:26.689258+00:00"
 }

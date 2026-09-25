@@ -17,8 +17,16 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Tomb of Hafez",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/a/a4/001hafez.jpg",
+    "vision_reason": "The image shows the domed pavilion monument at Hafez's tomb in Shiraz, Iran, a Persian architectural structure with painted ceiling ornament and visitors below — this is Persian architecture, not painting-mss as claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "001hafez.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/tomb-of-hafez/images/carch_4a11b2775b152197.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/tomb-of-hafez/images/carch_4a11b2775b152197.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1ab3cc2e7123b942ddef6f6d7e3890484720c93cbe9419253ef9fae466813e9e",
       "bytes": 209724,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\tomb-of-hafez\\images\\carch_4a11b2775b152197.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\tomb-of-hafez\\images\\carch_4a11b2775b152197.jpg"
     }
   ],
   "map": {

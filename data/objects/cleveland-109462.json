@@ -19,8 +19,12 @@
     "tradition": "Filipino",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A fine sheer embroidered textile with scalloped lace-like border and floral sprigs, consistent with Philippine piña/jusi embroidered cloth traditions; plausible for the claimed Filipino origin.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.719370+00:00"
+  "processed_at": "2026-07-28T18:41:28.443245+00:00"
 }

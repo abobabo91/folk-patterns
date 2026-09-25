@@ -18,7 +18,14 @@
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of three young Mbuti (Bambuti) women/girls in a forest setting, consistent with the claimed group and location (Central African Republic/DRC region).",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "photo",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Three standing girls, Bambuti",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "4c42a932a8171ab8175cea75e546bed1703cd77ce75dd28633d97d39f2459e54",
       "bytes": 29353,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266839.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266839.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:51.693597+00:00"
+  "processed_at": "2026-07-28T18:47:25.632506+00:00"
 }

@@ -18,7 +18,15 @@
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu people",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/3/36/A_Kikuyu_girl_in_ceremonial_",
+    "vision_reason": "The image shows a girl in traditional beaded headdress, large earrings, layered necklaces, and draped garment, a documentary photograph consistent with East African (Kikuyu) ceremonial dress; the pose and setting align with early 20th-century ethnographic photography from British East Africa.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "A Kikuyu girl in ceremonial dress. British East Africa.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/architectural/kikuyu-people/images/carch_ad019aa2ccfe9e0d.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/photo/kikuyu-people/images/carch_ad019aa2ccfe9e0d.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "692e013e2a2020c0a46aeafa2d26c20f469ec01d4865704fb25ee8eb23d3e76a",
       "bytes": 188030,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\architectural\\kikuyu-people\\images\\carch_ad019aa2ccfe9e0d.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\photo\\kikuyu-people\\images\\carch_ad019aa2ccfe9e0d.jpg"
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-25T08:38:54.088319+00:00"
+  "processed_at": "2026-07-28T20:00:25.779084+00:00"
 }

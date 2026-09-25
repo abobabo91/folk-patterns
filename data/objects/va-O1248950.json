@@ -20,8 +20,12 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a heavily embroidered, mirror/coin/bead-decorated cotton kurta typical of Sindhi/Baloch regional dress traditions from Pakistan, matching a plausible regional garment for the claimed \"_regional\" ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

@@ -18,7 +18,14 @@
     "ethnicity": "Yoruba",
     "tradition": "Yoruba",
     "art_form": "metalwork",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A carver's finishing knife with wooden handle and tanged iron blade, a plausible woodworking tool for a Yoruba carving tradition; nothing contradicts the attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "knife",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "269d6a7bfedafa3b1e9377314fc34a78af53e1e33c95e6f64ce56c1bcfd270d1",
       "bytes": 25600,
-      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\metalwork\\yoruba\\images\\bm_E_Af1951-12-194.jpg"
+      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\metalwork\\yoruba\\images\\bm_E_Af1951-12-194.jpg",
+      "low_quality": true
     }
   ],
   "map": {

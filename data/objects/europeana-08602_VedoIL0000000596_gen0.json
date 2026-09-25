@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary photograph of a Somali police delegation posing with an Italian officer; this is a photo of Somali people, not a painting or manuscript, though it fits the ethnicity claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Group photo of the delegation of Somali policemen; middle camp",
@@ -63,13 +70,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/unclassified/somali/images/eu_08602_VedoIL0000000596_gen0.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/painting-mss/somali/images/eu_08602_VedoIL0000000596_gen0.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0328f4a1a6b399ceee8de753fac437da411739685444a45eded20f0a78bd71c5",
       "bytes": 26625,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen0.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\eu_08602_VedoIL0000000596_gen0.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:16.527805+00:00"
+  "processed_at": "2026-07-28T18:48:13.652344+00:00"
 }

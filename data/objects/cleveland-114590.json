@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
-    "tradition": "Balinese",
-    "art_form": "metalwork",
+    "tradition": "Bali",
+    "art_form": "arms",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A kris dagger with gold, jewel-set hilt and figural pommel and its scabbard, a classic Balinese weapon form; the metal hilt fittings and blade are consistent with Balinese metalwork tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Kris and Scabbard",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/metalwork/balinese/images/cle_114590.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/metalwork/bali/images/cle_114590.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f957a555a53ae18d15c56185b16389b49ebb530379e473de7f80a60a759bb264",
       "bytes": 121606,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\metalwork\\balinese\\images\\cle_114590.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\metalwork\\bali\\images\\cle_114590.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:33.433426+00:00"
+  "processed_at": "2026-07-28T11:56:46.432694+00:00"
 }

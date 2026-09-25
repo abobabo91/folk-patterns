@@ -18,7 +18,14 @@
     "ethnicity": "Azeri (Iranian)",
     "tradition": "Azerbaijani carpet",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a hand-knotted Tabriz medallion carpet with a central star medallion, floral field, and multiple guard borders—a classic Persian carpet type produced in Iran, consistent with Azeri (Iranian Turkic) weaving traditions of the Tabriz region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "b016dee84a8b11bedf2bbb4a53ec228d52b4b204e101d095bf8fc84c3fb2612d",
-      "bytes": 18279,
+      "sha256": "d7a0112900bac68c55a1d1f1b65bf58c1dda7fbd4c7ce004dfc90e14d4cb8909",
+      "bytes": 258807,
       "local_path": "library\\middle-east-north-africa\\iran\\azeri-iranian\\textile\\azerbaijani-carpet\\images\\eu_15514_T_10375.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:53.333843+00:00"
+  "processed_at": "2026-07-28T18:42:20.446928+00:00"
 }

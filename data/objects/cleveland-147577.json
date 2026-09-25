@@ -17,11 +17,15 @@
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "Thai",
-    "art_form": "sculpture",
+    "art_form": "metalwork",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a repoussé gold votive plaque of Vishnu made in the Dvaravati (Mon) culture of Thailand, buried under a temple stone — an object made and used within the region claimed, so it belongs even though \"Thai\" here really means Mon-Dvaravati ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Plaque with Vishnu",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/sculpture/thai/images/cle_147577.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/metalwork/thai/images/cle_147577.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "48fb41680e5f6bd6866ff4c4b5be83bc2a92842ab30c3db41eb47110c4236bfe",
       "bytes": 443761,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\sculpture\\thai\\images\\cle_147577.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\metalwork\\thai\\images\\cle_147577.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:05.835829+00:00"
+  "processed_at": "2026-07-28T18:41:20.827235+00:00"
 }

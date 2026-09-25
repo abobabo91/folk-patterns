@@ -19,8 +19,13 @@
     "tradition": "Bamar",
     "art_form": "jewelry",
     "pattern_density": 1,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A green glass cylindrical earring plug typical of Burmese traditional ear ornaments, plausible for Bamar dress adornment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Earring",
@@ -77,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:37.613967+00:00"
+  "processed_at": "2026-07-28T18:41:26.598259+00:00"
 }

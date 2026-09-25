@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kuba",
     "tradition": "Kuba",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a carved wooden cup with characteristic Kuba interlace/geometric surface decoration and a figural handle, a well-known Kuba prestige drinking vessel form. It belongs to the claimed ethnicity, though it is wood rather than ceramic as the category states.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "Cup",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:58.627904+00:00"
+  "processed_at": "2026-07-28T18:41:33.145103+00:00"
 }

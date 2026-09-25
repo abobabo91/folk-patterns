@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Goa Gajah",
-    "art_form": "textile",
+    "art_form": "photo",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "This is a documentary photograph of a small Balinese shrine at Goa Gajah temple, showing a ceremonial umbrella and poleng (black-and-white/saput) ritual cloths draped over offerings and a stone lingga-like carved element—clearly a Balinese temple/ritual scene, not a painting or manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "007 Small Shrine, Goa Gajah, Gyanyar, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/goa-gajah/images/carch_b8fad20232c38493.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/goa-gajah/images/carch_b8fad20232c38493.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5c0573420b76d7033a7ecb05dbd8be6e7ccbbcd06a25e70460be0b90eefd4852",
       "bytes": 856048,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\goa-gajah\\images\\carch_b8fad20232c38493.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\goa-gajah\\images\\carch_b8fad20232c38493.jpg"
     }
   ],
   "map": {

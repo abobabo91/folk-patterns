@@ -13,14 +13,19 @@
     "accession_year": 1963
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "kalaga",
-    "art_form": "garment",
+    "art_form": "textile",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a Burmese kalaga (embroidered wall hanging) with appliqué figures in traditional dress, acheik pattern borders, and a scene from Burmese Manohari legend — a well-known Bamar textile craft form, though a hanging rather than clothing.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -384,13 +389,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47042.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/kalaga/images/va_O47042.jpg",
       "iiif_id": "2006AF5825",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF5825/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "29fe2712845a44659381a83ff0d5fbfec1218b56f776ddde074553c772cd2727",
       "bytes": 134321,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47042.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\kalaga\\images\\va_O47042.jpg"
     }
   ],
   "map": {

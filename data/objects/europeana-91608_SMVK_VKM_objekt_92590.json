@@ -17,10 +17,15 @@
     "country": "Malaysia",
     "ethnicity": "Iban",
     "tradition": "Iban",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a traditional woven jacket (kalambi) with warp ikat patterning, including anthropomorphic motifs described as engkaramba figures — a well-documented Iban textile form used for warding off harm, matching the museum's citation of Haddon & Start's study of Iban/Sea Dayak fabrics.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "jacka, kalambi",
@@ -30,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -65,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/unclassified/iban/images/eu_91608_SMVK_VKM_objekt_92590.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/garment/iban/images/eu_91608_SMVK_VKM_objekt_92590.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9f9cdfe7f3afca2c71320992ab2e92f3f104e32f59be6a96b22be9987b886e41",
       "bytes": 14765,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\unclassified\\iban\\images\\eu_91608_SMVK_VKM_objekt_92590.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\iban\\garment\\iban\\images\\eu_91608_SMVK_VKM_objekt_92590.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -79,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:54.300613+00:00"
+  "processed_at": "2026-07-28T18:44:20.660125+00:00"
 }

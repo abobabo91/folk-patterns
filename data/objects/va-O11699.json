@@ -13,14 +13,19 @@
     "accession_year": 1988
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a woven cotton longyi (man's wrap skirt) with horizontal panels and extra-weft decorative stripes, matching the described Burmese man's garment; longyi are traditional Bamar dress in Myanmar.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -83,31 +88,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11699.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11699.jpg",
       "iiif_id": "2020MP5183",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5183/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "efdc4032221d58fd1fdf665b7fa4aab50e3fef81dc109da9c9325c0dfc708514",
       "bytes": 287592,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11699.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11699.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11699_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11699_1.jpg",
       "iiif_id": "2017JX7545",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7545/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "a32010e0c547d94df108bf18e23f2af765da978332bfe868ad654d4c79e59c8e",
       "bytes": 354008,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11699_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11699_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11699_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11699_2.jpg",
       "iiif_id": "2017JX7546",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7546/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d101dc831ed624cf924761227cb7363ca6fdc97b205bba04a09ec9abff9f8cac",
       "bytes": 211827,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11699_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11699_2.jpg"
     }
   ],
   "map": {

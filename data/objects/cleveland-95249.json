@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "household",
-    "pattern_density": 3,
+    "art_form": "metalwork",
+    "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "household"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a cast brass betel nut box with silver-inlaid geometric motifs and a beaded strap, a type of container used and made by Muslim groups of Mindanao (Maranao/Bagobo); this is consistent with a broad Filipino Mindanao attribution even if the specific sub-group is uncertain.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Betel nut container",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/filipino/images/cle_95249.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/metalwork/filipino/images/cle_95249.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0cea4a1395dcc435a05931aca299e458308a74e4e1576344f8876c294cf67299",
       "bytes": 228500,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_95249.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\metalwork\\filipino\\images\\cle_95249.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:46.201030+00:00"
+  "processed_at": "2026-07-28T18:41:29.208418+00:00"
 }

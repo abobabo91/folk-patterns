@@ -17,8 +17,15 @@
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Uzbeks",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "photo",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "Studio photograph of a Central Asian woman in a richly embroidered robe with elaborate beaded headdress and jewelry, holding a child, consistent with traditional Uzbek women's dress and adornment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "An Uzbek woman with her child, 19th-20th centuries.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/uzbeks/images/carch_068005ca38583b1c.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbeks/images/carch_068005ca38583b1c.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8814eb796277a2d47df4c408fb94c61d3d09f2549893820310f5e8cb485412e1",
       "bytes": 1020174,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\uzbeks\\images\\carch_068005ca38583b1c.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbeks\\images\\carch_068005ca38583b1c.jpg"
     }
   ],
   "map": {

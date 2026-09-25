@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The object is a beaded headdress backpiece of Herero type (iron/glass beadwork strip with fringe), per the museum's own description, not Himba; Herero and Himba are closely related neighboring groups so material culture overlaps, but the record explicitly claims Himba while the museum identifies it as Herero-type.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "HUVUDBONAD -Herero",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/unclassified/himba-namibia/images/eu_916106_vbg_object_VM04047.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/garment/himba-namibia/images/eu_916106_vbg_object_VM04047.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "976425f1ab2edcc859bffee4f9f71b563d3866f983ea2d7f4b3918fc56686dd1",
       "bytes": 31419,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_916106_vbg_object_VM04047.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\garment\\himba-namibia\\images\\eu_916106_vbg_object_VM04047.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:57.947431+00:00"
+  "processed_at": "2026-07-28T18:47:47.927643+00:00"
 }

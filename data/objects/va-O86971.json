@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Iznik tile",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "ceramic",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Classic Iznik fritware tile panel with saz-style scrolling floral design in cobalt blue, green, and Iznik red — a quintessential Ottoman Turkish ceramic art form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": null,
@@ -95,22 +102,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/textile/iznik-tile/images/va_O86971.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/ceramic/iznik-tile/images/va_O86971.jpg",
       "iiif_id": "2006AG1325",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AG1325/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "2358cf7215b2d6fbef301ed4167f9d8638a2d209597a8dd00cbb666fd9f3ae8d",
       "bytes": 221244,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\textile\\iznik-tile\\images\\va_O86971.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\ceramic\\iznik-tile\\images\\va_O86971.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/textile/iznik-tile/images/va_O86971_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/ceramic/iznik-tile/images/va_O86971_1.jpg",
       "iiif_id": "2017JU9678",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JU9678/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "25feae3b88e4fdca69e691d96bcd2a94d30a26bcdbc60c4f1a1891095df6376e",
       "bytes": 214290,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\textile\\iznik-tile\\images\\va_O86971_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\ceramic\\iznik-tile\\images\\va_O86971_1.jpg"
     }
   ],
   "map": {

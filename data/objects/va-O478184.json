@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "sampot hol",
+    "tradition": "hol",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a silk/cotton hip wrapper (sampot chawng kbun) with weft ikat (hol) patterning and diamond lattice motifs typical of Khmer textiles, matching the claimed ethnicity and category exactly.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -156,31 +160,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/unclassified/sampot-hol/images/va_O478184.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/hol/images/va_O478184.jpg",
       "iiif_id": "2011FB0576",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0576/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "41b3ad1942de7ea1b8216dcacfcd4cb2b40333e680cb83fb534c7c86051e6050",
       "bytes": 402046,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\sampot-hol\\images\\va_O478184.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\hol\\images\\va_O478184.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/unclassified/sampot-hol/images/va_O478184_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/hol/images/va_O478184_1.jpg",
       "iiif_id": "2012FR8500",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FR8500/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "6555ccc7424fc2209999ec38c3e81562e9da089f933291c5bb0203172d67c1d7",
       "bytes": 250580,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\sampot-hol\\images\\va_O478184_1.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\hol\\images\\va_O478184_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/unclassified/sampot-hol/images/va_O478184_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/hol/images/va_O478184_2.jpg",
       "iiif_id": "2020MN9309",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9309/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "daf3d9ecc90d337d0bb8211f0f4852e27e8f0bb82702179912311feaf72bc924",
       "bytes": 270508,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\sampot-hol\\images\\va_O478184_2.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\hol\\images\\va_O478184_2.jpg"
     }
   ],
   "map": {
@@ -188,5 +192,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:29:47.316636+00:00"
+  "processed_at": "2026-07-18T11:29:18.594295+00:00"
 }

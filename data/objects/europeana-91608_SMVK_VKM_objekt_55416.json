@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a raffia cloth with characteristic embroidered geometric interlocking key/diamond patterns typical of Kuba raffia textiles from the Congo region, matching both the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "tyg: basttyg, Raffia",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:11.178020+00:00"
+  "processed_at": "2026-07-28T18:46:51.856909+00:00"
 }

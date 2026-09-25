@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-Y_EA77154",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "Y_EA77154",
+    "object_url": "https://www.britishmuseum.org/collection/object/Y_EA77154",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "Y,EA77154",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Egypt",
+    "ethnicity": "Nubian",
+    "tradition": "Nubian",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A leather document fragment bearing Old Nubian script, a legal text made and used by Nubians — directly fits the claimed ethnicity as a manuscript/document.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
+  },
+  "physical": {
+    "title": "document",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "document",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Large leather fragment of a document which has been folded several times and which contains Old Nubian writing on the inner surface. The exterior surface is reddish-brown while the interior is rust coloured. The edges are ragged. Though largely illegible, the document has been identified as a legal text.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/nubian/unclassified/nubian/images/bm_Y_EA77154.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7f94699074f5a51c0af1d72900ec26a7cac15d8f8d8a019188abe4eb05f47cc7",
+      "bytes": 52021,
+      "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\unclassified\\nubian\\images\\bm_Y_EA77154.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-28T19:07:07.580819+00:00"
+}

@@ -18,7 +18,14 @@
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "This is a Mughal-style miniature painting depicting a court audience scene with a ruler enthroned, courtiers, and a garden pavilion — a Persianate/Mughal painting tradition, portraying an Uzbek khan but made in the Mughal courtly idiom rather than an Uzbek-produced work, and stylistically fits Mughal album painting conventions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "album",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:28.286296+00:00"
+  "processed_at": "2026-07-28T18:57:21.829298+00:00"
 }

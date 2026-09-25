@@ -18,7 +18,14 @@
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A woven basket-flask used for sifting manioc flour, collected in Angola during the Bolinder expedition — plausible utilitarian household object for the Chokwe region of Angola/DRC.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "korgflaska",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/unclassified/chokwe/images/eu_91608_SMVK_VKM_objekt_42579.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/household/chokwe/images/eu_91608_SMVK_VKM_objekt_42579.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "516bd315a255bdb582bc7a4c99e7a05cd356f044b857ed886551ca752bd91891",
       "bytes": 9655,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42579.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\household\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42579.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:20.288213+00:00"
+  "processed_at": "2026-07-28T18:47:07.253406+00:00"
 }

@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A plain wooden hunting/war bow, plausible for the Philippines and consistent with weapons used by Filipino indigenous groups; misclassified as metalwork since it's wood, not metal.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Bow",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/sculpture/filipino/images/cle_104162.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/metalwork/filipino/images/cle_104162.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fd66bb3431d74bbd91ab16f1a0266df621305655aec0dddb6c45cf17c2ed9840",
       "bytes": 88848,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\sculpture\\filipino\\images\\cle_104162.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\metalwork\\filipino\\images\\cle_104162.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.382998+00:00"
+  "processed_at": "2026-07-28T18:41:27.724432+00:00"
 }

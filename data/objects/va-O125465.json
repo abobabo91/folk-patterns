@@ -20,8 +20,12 @@
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "ceramic",
+    "vision_reason": "A traditional slip-decorated earthenware dish with sgraffito floral rosette design, consistent with Central Asian (Turkestan/Uzbek-Tajik regional) pottery traditions such as those from Rishtan or the Fergana valley.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

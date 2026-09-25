@@ -17,8 +17,15 @@
     "country": "Gabon",
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an iron-tipped spear with a wooden shaft, a weapon type documented among the Fang (Tessmann reference confirms cultural attribution). It is a weapon rather than household object, but that mislabeling doesn't affect ethnicity attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "spjut",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/unclassified/fang-gabon/images/eu_91608_SMVK_VKM_objekt_29794.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/household/fang-gabon/images/eu_91608_SMVK_VKM_objekt_29794.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "53848285b09928a784e759817f2ecf0292908a4bbc079163e22bd98a793e940c",
       "bytes": 8168,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\unclassified\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_29794.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\household\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_29794.jpg",
+      "low_quality": true
     }
   ],
   "map": {

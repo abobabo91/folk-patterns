@@ -13,15 +13,19 @@
     "accession_year": 1918
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kebaya",
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a white cotton kebaya encim blouse with cutwork embroidery and lace trim, a garment style worn by Peranakan Chinese and other communities in Java, consistent with dress from the claimed region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "kebaya encim",
@@ -84,67 +88,67 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O475787.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O475787.jpg",
       "iiif_id": "2016JG8955",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JG8955/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "eda10386001915be0a119a2baa707c01cdee752d84c8c1f371c933262f74dff7",
       "bytes": 376467,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O475787.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O475787.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O475787_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O475787_1.jpg",
       "iiif_id": "2016JG8956",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JG8956/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b79ea716c7f15fcf15f62db0877eb5454c7c7f25bfe28018a12d0e8b739ab469",
       "bytes": 195600,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O475787_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O475787_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O475787_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O475787_2.jpg",
       "iiif_id": "2016JG8957",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JG8957/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e06492de4fe17dc4a530be4da42f0f7be1e46d37bd0aac6251fd129b7ee5c157",
       "bytes": 184415,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O475787_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O475787_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O475787_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O475787_3.jpg",
       "iiif_id": "2016JG8953",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JG8953/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "647fb87303fb98841fd071c4d8c9b49845f28187172f1d5e99ee0a12b4be5ec8",
       "bytes": 362315,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O475787_3.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O475787_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O475787_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O475787_4.jpg",
       "iiif_id": "2016JG8954",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JG8954/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e40d95b96fc28cb21893186f72eff7a36596e4c8c93170013bfb87bde79a3d0e",
       "bytes": 201147,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O475787_4.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O475787_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O475787_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O475787_5.jpg",
       "iiif_id": "2016JG8958",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JG8958/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "83f74ef8802db15c158fcc44af472cbb95d401df7b44d88abee65e34966d5cf2",
       "bytes": 202004,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O475787_5.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O475787_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kebaya/images/va_O475787_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kebaya/images/va_O475787_6.jpg",
       "iiif_id": "2016JG8959",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JG8959/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fce4aa6e3713964bb02988ca0416abbebcd07ac05683286c147215ed4bd9b2e0",
       "bytes": 193096,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kebaya\\images\\va_O475787_6.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kebaya\\images\\va_O475787_6.jpg"
     }
   ],
   "map": {

@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "kalaga",
     "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a hand-embroidered textile hanging with mythical lion-like creatures and floral border, made in Burma (Myanmar) and traditionally attributed to Bamar craft — it is a textile, not metalwork, but the ethnicity attribution stands.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -756,31 +761,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O40299.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/metalwork/kalaga/images/va_O40299.jpg",
       "iiif_id": "2018KX3583",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KX3583/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "61889eb05c27eb845c21401a3f8829501b5f3fc2424a307cb08786be1c9b571b",
       "bytes": 141099,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O40299.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\metalwork\\kalaga\\images\\va_O40299.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O40299_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/metalwork/kalaga/images/va_O40299_1.jpg",
       "iiif_id": "2006AF5078",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF5078/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f2a9a7e504b35a5084748f33a45eae14ddaa922b5ab820640b42cc123ab41aad",
       "bytes": 544502,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O40299_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\metalwork\\kalaga\\images\\va_O40299_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O40299_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/metalwork/kalaga/images/va_O40299_2.jpg",
       "iiif_id": "2018KX3044",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KX3044/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "41feb49fddf8f8201336239ebeae3ab42b52f73eaed385cd4189cc2a3dc175c5",
       "bytes": 221797,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O40299_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\metalwork\\kalaga\\images\\va_O40299_2.jpg"
     }
   ],
   "map": {

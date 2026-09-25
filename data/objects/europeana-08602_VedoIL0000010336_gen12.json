@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photograph of a woman identified as the wife of the Somali minister, wearing a beaded necklace, bracelets, and a floral-patterned dress/wrap, posed at a hotel — a documentary photo of Somali dress and adornment, fitting the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "La giovane moglie (?) del ministro somalo posa all'interno del Grand Hotel. Piano medio-americano",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "4140a5bbded283b32a0add80a131b1d28f396e6bb922a9408fc7b2c0d6a668cd",
       "bytes": 25944,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010336_gen12.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010336_gen12.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:27.471732+00:00"
+  "processed_at": "2026-07-28T18:48:24.668744+00:00"
 }

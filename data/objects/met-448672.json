@@ -13,12 +13,19 @@
     "accession_year": "1932"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "ceramic",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Lustreware bowl with Kufic/Naskh inscription bands and a central medallion depicting seated figures (musicians), consistent with Kashan lustre ceramics of the Persian tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "Bowl with Musicians",
@@ -68,40 +75,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448672.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448672.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7ce6f095bacdd2fb894843a2588ff16e432ddb10bffbe97fcaf929dbeff0e5fb",
       "bytes": 2381763,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448672.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448672.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448672_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448672_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "0d63da479138fc415c8b9ca8d8ee9778ecde1efbf8c5d3b6f2aa4f469a3ba0b1",
       "bytes": 290070,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448672_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448672_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448672_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448672_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "f5527b3132e3fd198032a75b8a667ceb129ff9d8f549d6c5d3427bcba8f57df4",
       "bytes": 618929,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448672_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448672_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448672_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448672_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "6d6662f98128128a34983615e0c0f7bf12adafb1439e7f0a6f835f8129a20528",
       "bytes": 1140347,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448672_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448672_3.jpg"
     }
   ],
   "map": {

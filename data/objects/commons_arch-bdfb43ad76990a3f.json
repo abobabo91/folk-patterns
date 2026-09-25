@@ -17,8 +17,16 @@
     "country": "China (Xinjiang)",
     "ethnicity": "Uyghur",
     "tradition": "Jiaohe ruins",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2015-09-18-085224_-_Ru",
+    "vision_reason": "The image shows the ruins of Jiaohe, an ancient city in the Turpan region of Xinjiang, built long before the Uyghur people settled the area — but it is archaeology located within the Uyghur homeland, which qualifies as belonging per the rules.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "2015-09-18-085224 - Ruinenstadt Jiaohe.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/architectural/jiaohe-ruins/images/carch_bdfb43ad76990a3f.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/photo/jiaohe-ruins/images/carch_bdfb43ad76990a3f.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d408ac66af9ccb63ec2490936ab4cbfdcdf905565577d7888debf17ccc9ea74f",
       "bytes": 99469,
-      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\architectural\\jiaohe-ruins\\images\\carch_bdfb43ad76990a3f.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\photo\\jiaohe-ruins\\images\\carch_bdfb43ad76990a3f.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a pair of handmade leather sandals with thong straps, plausible traditional footwear for the Himba people of Namibia; nothing contradicts the claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Himba Tribe-ladies sandals.",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "22fb1c6b045948ad4ed53778eef6b3a5f8a81d709843f178930b40c06359fc01",
       "bytes": 26822,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\garment\\himba-namibia\\images\\eu_2048222_europeana_fashion_642.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\garment\\himba-namibia\\images\\eu_2048222_europeana_fashion_642.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:53.852594+00:00"
+  "processed_at": "2026-07-28T18:47:47.035510+00:00"
 }

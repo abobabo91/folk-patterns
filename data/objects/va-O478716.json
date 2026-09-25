@@ -13,14 +13,19 @@
     "accession_year": 1852
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Malaysia",
     "ethnicity": "Malay",
     "tradition": "songket Malay",
-    "art_form": "garment",
+    "art_form": "textile",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a red silk cloth with gold songket supplementary-weft diaper patterning, a traditional Malay woven textile/handkerchief (saputangan) form consistent with Malay court weaving traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -228,13 +233,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/unclassified/songket-malay/images/va_O478716.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/garment/songket-malay/images/va_O478716.jpg",
       "iiif_id": "2011FB0559",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0559/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f3cbdf3cd18cb9f43fb897cd303014b40a57ed5238a924bab90c46b4e361fb69",
       "bytes": 238591,
-      "local_path": "library\\southeast-asia\\malaysia\\malay\\unclassified\\songket-malay\\images\\va_O478716.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\garment\\songket-malay\\images\\va_O478716.jpg"
     }
   ],
   "map": {

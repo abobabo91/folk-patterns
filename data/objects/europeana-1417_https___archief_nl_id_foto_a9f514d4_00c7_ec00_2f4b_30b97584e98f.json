@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of a traditional Batak stilt house with distinctive saddle-shaped thatched roof, with people gathered in front — a classic example of Batak vernacular architecture and daily life.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "[Een Batak dorp]",
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "53de167ad58e0d000f425c633d821319f67f1b0657cc766c5a8fb683113cf371",
       "bytes": 22005,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_a9f514d4_00c7_ec00_2f4b_30b97584e98f.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_a9f514d4_00c7_ec00_2f4b_30b97584e98f.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:48.216503+00:00"
+  "processed_at": "2026-07-28T18:43:24.812159+00:00"
 }

@@ -13,12 +13,19 @@
     "accession_year": "1912"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A Safavid-style Persian miniature painting depicting a seated woman in traditional dress with a turban-style headpiece, curling her hair — classic Persian courtly painting subject matter, consistent with Iranian manuscript/album painting traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Seated Woman Curling her Hair",
@@ -68,22 +75,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446271.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446271.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e4b434138b2027bf2b664aae1e8a14cf2d654844583cc9d9cba9d101bb557b1a",
       "bytes": 802842,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446271.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446271.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446271_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446271_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "60f60f5ac14fc6a7089ed156a0c36b79b2855da0a04da31d1f5cbf4bf0cd751a",
       "bytes": 3512145,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446271_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446271_1.jpg"
     }
   ],
   "map": {

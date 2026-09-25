@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Ndebele",
     "tradition": "Ndebele beadwork",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image is a museum catalogue card with a hand-drawn sketch of a beaded band (geometric triangles/angles in black, white, blue, yellow, green) collected in an Ndebele village near Pretoria, described as a beaded decorative band for festive dress. It plainly shows a beadwork textile object with catalogue text, consistent with Ndebele beadwork tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "katalogkort",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/ndebele/unclassified/ndebele-beadwork/images/eu_91670_SMVK_VKM_arkiv_1384002.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/ndebele/textile/ndebele-beadwork/images/eu_91670_SMVK_VKM_arkiv_1384002.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a38ea74f66075baff69dbe844a56bc0fc8e7513ee15d71acdd1168028bbc233e",
       "bytes": 23735,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\ndebele\\unclassified\\ndebele-beadwork\\images\\eu_91670_SMVK_VKM_arkiv_1384002.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\ndebele\\textile\\ndebele-beadwork\\images\\eu_91670_SMVK_VKM_arkiv_1384002.jpg",
+      "low_quality": true
     }
   ],
   "map": {

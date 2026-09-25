@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A batik cotton waist cloth (kain panjang) with floral vine motif, made in Samarang, Java — a classic Javanese textile made and worn locally.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/javanese/images/cle_107855.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/java/images/cle_107855.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f56f75b4fb387b7f3ee4792e10b686b256b1a6db7e3cae0e1aaa98f0476bc0d6",
       "bytes": 193163,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\javanese\\images\\cle_107855.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\java\\images\\cle_107855.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:29.010272+00:00"
+  "processed_at": "2026-07-28T11:56:30.382973+00:00"
 }

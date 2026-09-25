@@ -19,8 +19,12 @@
     "tradition": "Minangkabau",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
     "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a woven fiber jacket with beaded/embroidered eye motifs and bronze bells attached, a ceremonial bridal garment consistent with Indonesian archipelago dress traditions; even if the specific style is more associated with a neighboring Sumatran/Nusantara group than Minangkabau proper, it is plausible for the broader region and fits the claimed category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "garment"
   },
   "physical": {
@@ -33,11 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2022"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2022",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -74,7 +76,8 @@
       "role": "primary",
       "sha256": "bedb5d1c1d4c553308f05d923c2f7efe65657d1b6278e1c54ebf8f66e193c805",
       "bytes": 22413,
-      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\garment\\minangkabau\\images\\eu_2048221_europeana_fashion_66260.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\garment\\minangkabau\\images\\eu_2048221_europeana_fashion_66260.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -82,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:18.763325+00:00"
+  "processed_at": "2026-07-28T18:43:46.221331+00:00"
 }

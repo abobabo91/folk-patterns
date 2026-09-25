@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a man with a beaded headwrap, layered necklaces, and a spear, consistent with Himba (or closely related Namibian/southern African pastoralist) dress and material culture; it is a documentary photograph, not a painting or manuscript.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Himba-mies ja keihäs",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/unclassified/himba-namibia/images/eu_2021009__6D9885C01BD3C4E9991E968AA0094936.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/painting-mss/himba-namibia/images/eu_2021009__6D9885C01BD3C4E9991E968AA0094936.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7a55af9cc5aef340473c27497ab7274f056266fbc5319b09ba38df00d8c5e9e9",
       "bytes": 124637,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__6D9885C01BD3C4E9991E968AA0094936.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__6D9885C01BD3C4E9991E968AA0094936.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:49.950864+00:00"
+  "processed_at": "2026-07-28T18:47:46.830406+00:00"
 }

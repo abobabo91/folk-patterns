@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows the main tower of Candi Prambanan, a 9th-century Hindu temple complex in Central Java, with carved niches and relief panels; it is archaeology of the Javanese homeland and thus fits the claim despite being built by an earlier Hindu-Javanese civilization.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Candi Prambanan - Kompleks Candi Prambanan 14.jpg",

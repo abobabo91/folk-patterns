@@ -13,14 +13,19 @@
     "accession_year": 1919
   },
   "cultural": {
-    "region": "southeast_asia",
-    "country": "Myanmar",
-    "ethnicity": "Bamar",
-    "tradition": "Shan weaving",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a handwoven silk-and-cotton weft-ikat cloth panel with typical Shan-style geometric ikat bands, matching the Myanmar/Shan attribution and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -517,22 +522,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O111630.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/textile/lao-silk/images/va_O111630.jpg",
       "iiif_id": "2020MN9353",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9353/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "867d7d492060fedb77d9cea47dc73f22a34b40e8e56507e184f1ce14721711e5",
       "bytes": 444501,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O111630.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\textile\\lao-silk\\images\\va_O111630.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O111630_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/textile/lao-silk/images/va_O111630_1.jpg",
       "iiif_id": "2020MN9354",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9354/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "08e9767f9cc3f453c2692fffe1d0dee2e9e5403d36875d78db02d07238348d63",
       "bytes": 406478,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O111630_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\textile\\lao-silk\\images\\va_O111630_1.jpg"
     }
   ],
   "map": {
@@ -540,5 +545,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:37:53.781512+00:00"
+  "processed_at": "2026-07-18T11:31:16.454182+00:00"
 }

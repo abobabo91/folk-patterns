@@ -13,15 +13,19 @@
     "accession_year": 1999
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "wayang kulit",
-    "art_form": "sculpture",
-    "pattern_density": 3,
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "masks-ritual",
+    "vision_reason": "This is a Javanese wayang kulit shadow puppet (perforated, painted leather/wood figure with rods), a traditional craft object made and used by the Javanese for shadow theatre — clearly belongs to the claimed culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -204,13 +208,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O35248.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/va_O35248.jpg",
       "iiif_id": "2019LV9011",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LV9011/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f19b6a7eb24db7ec662212c30ea07ae7440eff5f4b568aa5fcb2613cf36a11e8",
       "bytes": 127565,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O35248.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\va_O35248.jpg"
     }
   ],
   "map": {

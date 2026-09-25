@@ -18,7 +18,14 @@
     "ethnicity": "Thai",
     "tradition": "Ayutthaya Historical Park",
     "art_form": "architectural",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows brick ruins of a Thai temple (likely Ayutthaya, given the eroded Buddha head visible amid the brick prang remains), a documentary snapshot of Thai archaeology/architecture consistent with the claimed Thai ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "2010년 8월 태국 083 Kwangmo's iPhone.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/architectural/ayutthaya-historical-park/images/carch_a2eef6384712e869.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/photo/ayutthaya-historical-park/images/carch_a2eef6384712e869.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ee4c969275753e3219de2c4ba55fef7edfc20591d0a75063174401d283ef1186",
       "bytes": 471889,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\architectural\\ayutthaya-historical-park\\images\\carch_a2eef6384712e869.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\photo\\ayutthaya-historical-park\\images\\carch_a2eef6384712e869.jpg"
     }
   ],
   "map": {

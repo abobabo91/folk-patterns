@@ -20,8 +20,12 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "The photo shows the Hoi An riverside townscape and traditional boats during the lantern festival — a documentary night scene of Kinh (Vietnamese) daily/cultural life and vernacular architecture along the Thu Bon River, consistent with the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Hoi An - HoiAn1441.jpg",

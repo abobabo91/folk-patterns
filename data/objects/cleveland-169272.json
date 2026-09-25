@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "metalwork",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A gilt-bronze palanquin ring with cast figures, probably from Angkor-era Cambodia, used to suspend a royal/priestly litter — a Khmer-made ceremonial object fitting the claimed culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "metalwork"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer/images/cle_169272.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_169272.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "32cd6ad3e71d07c165176da6191b0d188af8fdf0b974f6f4d6b719f898b5e1fc",
       "bytes": 155196,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer\\images\\cle_169272.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_169272.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.299582+00:00"
+  "processed_at": "2026-07-28T11:57:52.670623+00:00"
 }

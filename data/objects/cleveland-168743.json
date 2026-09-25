@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "instruments",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an ivory side-blown trumpet (oliphant) carved with a seated Yombe (Kongo sub-group) ruler figure, an instrument made and used by the Kongo/Yombe people, not jewelry as mislabeled.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments"
   },
   "physical": {
     "title": "Oliphant (Side-Blown Trumpet)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/garment/kongo/images/cle_168743.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/jewelry/kongo/images/cle_168743.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "81d1ddacc7cb913ff1b4e987d847112e31a6e27f718bffffff6ea9f2463be70e",
       "bytes": 199434,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\garment\\kongo\\images\\cle_168743.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\jewelry\\kongo\\images\\cle_168743.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:48.881405+00:00"
+  "processed_at": "2026-07-28T18:41:32.009203+00:00"
 }

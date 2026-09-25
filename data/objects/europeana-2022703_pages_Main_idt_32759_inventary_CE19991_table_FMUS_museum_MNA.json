@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an elaborately embroidered tunic worn by Fulbe (Fulani) men for the Gerewol festival, matching the museum's own description; Fulani groups span Senegal to Niger so the claimed regional attribution is close enough for the same broad ethnic group.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Túnica",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:37.849438+00:00"
+  "processed_at": "2026-07-28T18:45:26.057925+00:00"
 }

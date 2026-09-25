@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "jewelry",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an ensemble of Xhosa beaded regalia — a beaded pendant necklace, a beaded/leather apron-like breast cover, a fringed beaded skirt/headdress element, and beaded anklets — consistent with elite Xhosa beadwork traditions described in the record.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Ceremonial beadwork for a Xhosa royal woman: headdress (umnqwazi), pendant, breast cover (incebetha), pair of anklets (izitsaba)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/xhosa/textile/xhosa/images/cle_456940.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/xhosa/jewelry/xhosa/images/cle_456940.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "36717720ce4f102cd7748c4a45ea437b59b9c685916facdb016612e8625faf1f",
       "bytes": 348805,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\textile\\xhosa\\images\\cle_456940.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\jewelry\\xhosa\\images\\cle_456940.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:23.526037+00:00"
+  "processed_at": "2026-07-28T18:41:34.001134+00:00"
 }

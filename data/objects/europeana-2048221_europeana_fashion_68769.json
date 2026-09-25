@@ -18,9 +18,13 @@
     "ethnicity": "Balinese",
     "tradition": "Balinese",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a double-ikat (geringsing) cotton shoulder cloth from Tenganan, Bali, a woven textile rather than jewelry, but it clearly belongs to the Balinese cultural tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -33,12 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2022",
-      "http://data.europeana.eu/concept/1821"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2022; http://data.europeana.eu/concept/1821",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -69,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/balinese/images/eu_2048221_europeana_fashion_68769.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/jewelry/balinese/images/eu_2048221_europeana_fashion_68769.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "826af5f18f223af45b535d54ef7d9a9ded835d1fafaea577359fa6d614ccd72e",
-      "bytes": 19811,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\eu_2048221_europeana_fashion_68769.jpg"
+      "sha256": "d367677b1e2d558651da74480101d01ac026840e12acb3223b29ca6fdc1a7054",
+      "bytes": 906868,
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\jewelry\\balinese\\images\\eu_2048221_europeana_fashion_68769.jpg"
     }
   ],
   "map": {
@@ -83,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:23.973955+00:00"
+  "processed_at": "2026-07-28T18:43:11.422533+00:00"
 }

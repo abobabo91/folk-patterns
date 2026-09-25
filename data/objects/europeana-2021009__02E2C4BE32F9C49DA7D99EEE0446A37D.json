@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a Himba man in profile with characteristic ochre-styled hair and layered beaded/shell necklaces, a documentary portrait of dress and adornment consistent with the claimed ethnicity. Though catalogued as painting-mss, it is clearly a photograph.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Himba-mies",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/unclassified/himba-namibia/images/eu_2021009__02E2C4BE32F9C49DA7D99EEE0446A37D.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/painting-mss/himba-namibia/images/eu_2021009__02E2C4BE32F9C49DA7D99EEE0446A37D.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "02a40b2032617b817ae43afec5817ff1625874b2aa670f33cbb886748a2c6c3b",
       "bytes": 42024,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__02E2C4BE32F9C49DA7D99EEE0446A37D.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__02E2C4BE32F9C49DA7D99EEE0446A37D.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:47.042484+00:00"
+  "processed_at": "2026-07-28T18:47:46.727434+00:00"
 }

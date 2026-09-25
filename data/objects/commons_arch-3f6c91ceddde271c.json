@@ -17,11 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "One Pillar Pagoda",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows Buddhist prayer flags strung between trees at the One Pillar Pagoda in Hanoi, a Vietnamese Buddhist temple site associated with the Kinh people; the pagoda structure itself is barely visible in the background, but the setting and ritual decoration fit Kinh religious architecture and practice.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Buddhist flags at the One Piller Pagoda in 2016 (1).jpg",

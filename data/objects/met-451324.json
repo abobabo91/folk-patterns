@@ -13,12 +13,19 @@
     "accession_year": "1955"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A Persian manuscript folio from a Khavarannama produced in Shiraz, showing a Safavid-style illustrated scene with Persian text blocks — a classic living Persian painting tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "\"Amr has the Infidels Thrown into the Sea\", Folio from a Khavarannama (The Book of the East) of ibn Husam al-Din",
@@ -75,49 +82,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451324.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451324.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "09be6911b4838fa7636bcd6f5a28f48074f3dfdf109d4ae3d37c9309e6048e1c",
       "bytes": 3099856,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451324.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451324.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451324_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451324_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "5d66730a632644158eac12e8ab1cfee6cce8575ea73e5263a1ef317f61560073",
       "bytes": 765797,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451324_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451324_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451324_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451324_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "f8e65d58f1fa5e46ed4ea379e20d2fefc2035ce15fe2dc1b89bfa85d498d792b",
       "bytes": 589544,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451324_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451324_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451324_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451324_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "89404d33c18f7a34a364d53bf52ff58a2ad5d0657967821b8b4cdec605afa1a0",
       "bytes": 783314,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451324_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451324_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451324_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451324_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "8920c0f0832b06e25ea4bbe9fab61cbd49703c1cc75c687caf0f91f624362d77",
       "bytes": 512654,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451324_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451324_4.jpg"
     }
   ],
   "map": {

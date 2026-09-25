@@ -17,11 +17,15 @@
     "country": "Malaysia",
     "ethnicity": "Iban",
     "tradition": "Iban longhouses",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The picture shows a long stilted longhouse structure with a modern van and truck parked outside, consistent with a contemporary Iban longhouse in Malaysia/Borneo. The building's elongated multi-unit form is characteristic of Iban communal architecture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Iban longhouse.jpg",

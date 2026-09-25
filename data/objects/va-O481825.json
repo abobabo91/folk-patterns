@@ -17,10 +17,15 @@
     "country": "Malaysia",
     "ethnicity": "Iban",
     "tradition": "kalambi",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a bright red woven cotton jacket with geometric bands and fringed edges, matching the Iban (Bornean) Kalambi jacket described in the museum's own metadata; this is a genuine garment of the region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -71,13 +76,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/kalambi/images/va_O481825.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/textile/kalambi/images/va_O481825.jpg",
       "iiif_id": "2021MY0646",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MY0646/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "a0f8f375dc6db96ba9c77f41a61e73780dafaccea33f8108218e63e335f79a86",
       "bytes": 222105,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\kalambi\\images\\va_O481825.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\textile\\kalambi\\images\\va_O481825.jpg"
     }
   ],
   "map": {

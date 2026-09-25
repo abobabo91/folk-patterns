@@ -18,7 +18,14 @@
     "ethnicity": "Kurdish (Iranian)",
     "tradition": "Kurdish Iran textile",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a hand-knotted rug with an allover repeating floral lattice (Herati-type) design in a madder-red and dark blue palette, consistent with Kurdish weaving traditions of western Iran; the museum's own title identifies it as a Kurdistan carpet.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Kurdistan-Teppich (vom Bearbeiter vergebener Titel)",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "8aa477b6837b2344ab01645f234bf47b45e6a6c0a5f0428abd15dc8ab9b93981",
-      "bytes": 10940,
+      "sha256": "1e9b6abcfdcda9cab55da3429afc1486927f3c17ade7e21481f5ff5e03adb58a",
+      "bytes": 156476,
       "local_path": "library\\middle-east-north-africa\\iran\\kurdish-iranian\\textile\\kurdish-iran-textile\\images\\eu_15514_OR_339.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:46.662558+00:00"
+  "processed_at": "2026-07-28T18:42:18.760045+00:00"
 }

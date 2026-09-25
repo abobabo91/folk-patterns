@@ -13,15 +13,19 @@
     "accession_year": 1893
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Samarkand tile",
-    "art_form": "ceramic",
+    "art_form": "architectural",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "A hexagonal fritware tile with turquoise, white and gold foliated star design on a dark blue ground, from Samarkand — a classic Timurid-era architectural tile consistent with the Central Asian (Uzbek homeland) tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": null,

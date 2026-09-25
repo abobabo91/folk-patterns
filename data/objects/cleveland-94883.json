@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "jewelry",
-    "pattern_density": 1
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved ivory Chokwe whistle (kasengosengo) with a stylized human/mask figure, a genuine Chokwe hunting implement, though the claimed category \"painting-mss\" is wrong—it's a carved object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Whistle (kasengosengo)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/jewelry/chokwe/images/cle_94883.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/painting-mss/chokwe/images/cle_94883.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3a53bb3e16b77dd7ecb812a918dec8b605dfb54878cfc71a24e2ff5683ed464a",
       "bytes": 248865,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\jewelry\\chokwe\\images\\cle_94883.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\painting-mss\\chokwe\\images\\cle_94883.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:38.106893+00:00"
+  "processed_at": "2026-07-28T18:41:33.259197+00:00"
 }

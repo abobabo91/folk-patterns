@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A beaded/embroidered vest (chaleco) with geometric embroidery, described as Fulbe/Fulani ceremonial garment worn for the Gerewol festival — this matches Fulani material culture (claimed as Senegal but metadata says Niger, both Fulani regions, plausible for the group).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Chaleco",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "c29e73d37620c890fb94ccd884d08976b30adb4307f542e38e3147f6a39869f9",
       "bytes": 22580,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32763_inventary_CE19995_table_FMUS_museum_MNA.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32763_inventary_CE19995_table_FMUS_museum_MNA.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:39.900321+00:00"
+  "processed_at": "2026-07-28T18:45:28.538658+00:00"
 }

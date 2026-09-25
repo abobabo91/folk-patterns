@@ -17,10 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "keris",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A keris dagger with wavy blade, carved wooden Garuda hilt, and filigree band, with matching wooden sheath — a classic Malay/Indonesian weapon type consistent with a Malay Peninsula regional attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": null,
@@ -1318,13 +1323,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/metalwork/keris/images/va_O451198.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/metalwork/keris/images/va_O451198.jpg",
       "iiif_id": "2020MP8508",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8508/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "eed17ddc8d3abe677b704b71ac62aa224bc0c6bcc1fe8a4f7ccb920fa255870c",
       "bytes": 59931,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\metalwork\\keris\\images\\va_O451198.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\metalwork\\keris\\images\\va_O451198.jpg"
     }
   ],
   "map": {

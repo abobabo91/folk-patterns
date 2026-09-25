@@ -13,15 +13,19 @@
     "accession_year": 1993
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Khmer relief",
     "art_form": "metalwork",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "metalwork",
+    "vision_reason": "A bronze architectural fitting with a Khmer inscription, showing a celestial figure rising from scrolling foliage — a decorative surround element from a Khmer temple, consistent with the claimed culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Foliage Relief",
@@ -244,22 +248,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer-relief/images/va_O25054.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/metalwork/khmer-relief/images/va_O25054.jpg",
       "iiif_id": "2011ET4106",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011ET4106/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "3625dea24acb59ee350b960e4fb31ef30009a166feb66a488ad56b8fcb1207e0",
       "bytes": 87265,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer-relief\\images\\va_O25054.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\metalwork\\khmer-relief\\images\\va_O25054.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/khmer-relief/images/va_O25054_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/metalwork/khmer-relief/images/va_O25054_1.jpg",
       "iiif_id": "2011ET4131",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011ET4131/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "65c16c3cd77dbbbc51ccb20cae3df7ab8223591eea4baa05bf28a5feb2d82bcd",
       "bytes": 77702,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\khmer-relief\\images\\va_O25054_1.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\metalwork\\khmer-relief\\images\\va_O25054_1.jpg"
     }
   ],
   "map": {

@@ -13,15 +13,19 @@
     "accession_year": 1982
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
     "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "Classic Turkmen (Tekke-type) hand-knotted wool carpet with rows of octagonal guls on a deep madder-purple field and characteristic minor guls and border patterning — a textbook Turkmen tribal weaving.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

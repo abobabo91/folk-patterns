@@ -17,8 +17,15 @@
     "country": "Gabon",
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
-    "art_form": "household",
-    "pattern_density": 0
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved wooden canoe model with figures of paddlers, described as from the Gabon/Ogooué region of Africa where the Fang people live; this is a plausible ethnographic object from that area (or a neighboring group along the Ogooué river).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "modell, Kanotmodell, kanot",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/unclassified/fang-gabon/images/eu_91608_SMVK_VKM_objekt_31295.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/sculpture/fang-gabon/images/eu_91608_SMVK_VKM_objekt_31295.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3883211d053378ac131a6d4c6dadeed3b6a0da278917f4ae19cd74de08de20bc",
       "bytes": 7527,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\unclassified\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31295.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31295.jpg",
+      "low_quality": true
     }
   ],
   "map": {

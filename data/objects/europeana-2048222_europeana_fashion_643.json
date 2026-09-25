@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a pair of leather sandals with cord straps, a plausible traditional footwear item for the Himba region of Namibia; nothing contradicts the attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Himba Tribe-men's sandals.",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:55.570092+00:00"
+  "processed_at": "2026-07-28T18:47:47.165910+00:00"
 }

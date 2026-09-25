@@ -13,12 +13,19 @@
     "accession_year": "1955"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A classic Safavid-style Persian miniature painting showing a seated woman applying henna, with Persian calligraphy borders and illuminated margins — a traditional Persian manuscript painting subject.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "painting-mss",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Woman  Applying Henna",
@@ -67,40 +74,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451308.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451308.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "837714a5052fe23efc1bdc38df92f4ec97d3d486146c8d8df72c6673a22f38f6",
       "bytes": 2767962,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451308.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451308.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451308_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451308_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "468235817318382317475d56790516e42a4e1a417334b15c354f8b74924cb348",
       "bytes": 312559,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451308_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451308_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451308_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451308_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "40e1c8344d3b72a513bda4ad1ca7060942a91e31673c9f14bf494789c9e3a1b7",
       "bytes": 738373,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451308_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451308_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451308_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451308_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "0ab40b3b1d1c4da5babdce26633675c9c065b0dc9e9b19a94e677c8242116789",
       "bytes": 553290,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451308_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451308_3.jpg"
     }
   ],
   "map": {

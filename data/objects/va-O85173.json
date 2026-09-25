@@ -13,14 +13,19 @@
     "accession_year": 1998
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Chin",
-    "tradition": "Chin weaving",
+    "tradition": "Chin blanket",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A striped handwoven cotton blanket with warp-stripe bands in red, yellow, green and blue and a fringed edge — a plausible traditional Chin-type handwoven textile from Myanmar.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -195,13 +200,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85173.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-blanket/images/va_O85173.jpg",
       "iiif_id": "2020MN6722",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN6722/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "fd9365e860064e0d4e64034c6c700b0b55a96f75978b962c4f494b87433eb333",
       "bytes": 414001,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85173.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-blanket\\images\\va_O85173.jpg"
     }
   ],
   "map": {
@@ -209,5 +214,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:38:39.497858+00:00"
+  "processed_at": "2026-07-18T11:38:14.523507+00:00"
 }

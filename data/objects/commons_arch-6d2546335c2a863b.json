@@ -19,8 +19,13 @@
     "tradition": "Ambarita",
     "art_form": "architectural",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a modern government district office building (Kantor Camat Simanindo) in a Batak Toba region of Samosir, North Sumatra, featuring a saddle-shaped roof echoing traditional Batak architectural form even though the structure itself is a contemporary administrative building.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Kecamatan Simanindo - Samosir Office (2).JPG",
@@ -63,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ambarita/images/carch_6d2546335c2a863b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/photo/ambarita/images/carch_6d2546335c2a863b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "91df2ce847fab34600ee831bee202c70c26997dc8f8289ddef692d00728a2f76",
       "bytes": 230578,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ambarita\\images\\carch_6d2546335c2a863b.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\photo\\ambarita\\images\\carch_6d2546335c2a863b.jpg"
     }
   ],
   "map": {

@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
-    "art_form": "metalwork",
+    "tradition": "Cambodian",
+    "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A bronze finial depicting a seated Buddha with naga flanking figures and lotus/flame aureole, in the classic Angkorian style of the Jayavarman VII period Khmer Empire — clearly Khmer-made ritual/temple sculpture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Finial with the temptation of Buddha by Mara",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/metalwork/khmer/images/cle_141482.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/sculpture/cambodian/images/cle_141482.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "48a3c4ecbc9d5757294e627ab2e0486c7ea47df8a16a2751b5110a5dc8c53eb6",
       "bytes": 261557,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\metalwork\\khmer\\images\\cle_141482.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\sculpture\\cambodian\\images\\cle_141482.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.492145+00:00"
+  "processed_at": "2026-07-28T11:57:34.579312+00:00"
 }

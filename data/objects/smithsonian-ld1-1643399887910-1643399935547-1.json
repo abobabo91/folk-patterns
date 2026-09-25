@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a printed cotton sarong-length cloth with floral bouquets, ribbons, and birds/butterflies in a European Chintz-derived pattern, consistent with a batik-cap/printed sarong cloth (pesisir style) produced and worn in Java; the sarong format with kepala-like end border fits Javanese textile tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Sarong",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/batik/images/si_chndm_1962-233-11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/si_chndm_1962-233-11.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "69cb484592327a8b151d75f4f722d24e48513df97b757450abb5a38ace9afad1",
       "bytes": 4232842,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\batik\\images\\si_chndm_1962-233-11.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\si_chndm_1962-233-11.jpg"
     }
   ],
   "map": {

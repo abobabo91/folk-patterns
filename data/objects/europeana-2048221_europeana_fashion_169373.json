@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Minangkabau",
     "tradition": "Minangkabau",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
     "vision_vetted": true,
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a batik cotton wraparound skirt with floral bouquets and parang motifs, described as worn by Minangkabau nobility of Sumatra — this style of batik cloth (imported/traded from Java but worn as court dress) is plausible attire for the claimed group and category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Cotton wraparound skirt with floral border, bouquets and cocks, used by the Sumatran Minangkabau nobility",
@@ -33,11 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2022"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2022",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -74,7 +76,8 @@
       "role": "primary",
       "sha256": "ae06d2656be2bdceae4bc85f2883af5c3a049f5372c6c34e5920211672fb1104",
       "bytes": 24482,
-      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\textile\\minangkabau\\images\\eu_2048221_europeana_fashion_169373.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\textile\\minangkabau\\images\\eu_2048221_europeana_fashion_169373.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -82,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:07.768704+00:00"
+  "processed_at": "2026-07-28T18:43:35.671798+00:00"
 }

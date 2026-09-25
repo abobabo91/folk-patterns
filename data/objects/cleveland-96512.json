@@ -20,7 +20,11 @@
     "art_form": "metalwork",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a domed silver-gilt object with filigree, granulation, and a large faceted stone finial, resembling a small lidded box or cap ornament rather than an earring; regardless of the mislabeled category, this style of gilt silver granulation/filigree work with set stone is consistent with traditional Burmese silverwork, so it plausibly belongs to Bamar material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "metalwork"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:37.096084+00:00"
+  "processed_at": "2026-07-28T18:41:26.289807+00:00"
 }

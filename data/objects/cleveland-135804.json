@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
-    "tradition": "Balinese",
+    "tradition": "Bali",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A purple silk brocade textile with repeating gold songket-style medallion motifs, consistent with traditional Balinese woven cloth; matches the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/balinese/images/cle_135804.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/bali/images/cle_135804.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d3c03fda0f9d74f5d955375c813becf26be2fcbcecb9edb89d09540edb01827e",
       "bytes": 495833,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\cle_135804.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\bali\\images\\cle_135804.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:35.806614+00:00"
+  "processed_at": "2026-07-28T11:56:52.146133+00:00"
 }

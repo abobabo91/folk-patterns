@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Pura Ulun Danu Bratan",
-    "art_form": "architectural",
+    "art_form": "photo",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "The photo shows the split gate (candi bentar) and the pagoda-like meru towers of Pura Ulun Danu Beratan, a Balinese Hindu temple, with the volcanic mountain behind it — clearly Balinese religious architecture, though the record's \"painting-mss\" category is wrong (it's a photograph).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "004 Split Gateway and Mountain, Pura Ulun Danu Beratan, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-ulun-danu-bratan/images/carch_04208da4a264391f.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-ulun-danu-bratan/images/carch_04208da4a264391f.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9bc64fa20bbcb167e8948bb1b2a49ed6d5b3769dbf4dadc43a7727f15d4b03fa",
       "bytes": 579534,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-ulun-danu-bratan\\images\\carch_04208da4a264391f.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-ulun-danu-bratan\\images\\carch_04208da4a264391f.jpg"
     }
   ],
   "map": {

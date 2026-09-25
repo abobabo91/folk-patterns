@@ -13,12 +13,19 @@
     "accession_year": "1932"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "ceramic",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Timurid/Nishapur-type slip-painted earthenware bowl with a dragon motif and pseudo-kufic script, a well-known ceramic tradition from the Persian cultural sphere (Iran/Central Asia). It fits the claimed Persian ethnicity, consistent with the museum's own attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "Bowl",
@@ -66,40 +73,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448663.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448663.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bc34cf9f2e72eb720a872d59346ae1a03010c30d1b623ba26441d56c59a5eadf",
       "bytes": 1427225,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448663.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448663.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448663_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448663_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "bdd0a68fff712f4540d32b160c66acecb9ee482b164b8c396cb02fdb8e1dc732",
       "bytes": 1287621,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448663_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448663_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448663_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448663_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "23320c1269a741f7edacf503a88977b7526bfaa027d57507a7b8bef821b2f9f0",
       "bytes": 127024,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448663_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448663_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_448663_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_448663_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "668a19373e7b855b8827172883e396fe9bf5e6f6032c6d298595f7e7cfb3ad1e",
       "bytes": 98476,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_448663_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_448663_3.jpg"
     }
   ],
   "map": {

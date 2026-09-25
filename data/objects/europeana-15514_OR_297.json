@@ -18,7 +18,14 @@
     "ethnicity": "Kurdish (Iranian)",
     "tradition": "Kurdish Iran textile",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture clearly shows a handwoven pile rug with a dark blue field, stylized floral/palmette medallions in red, gold and cream, and a patterned border — exactly the kind of Kurdish-region carpet (\"Kurdistan-Teppich\") this record claims.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "textile",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Kurdistan-Teppich",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "45e668de7753b1f117d483aa44571c322f8ded1ebe82e69cf88d5cf751774d59",
-      "bytes": 16395,
+      "sha256": "a9727c6cebb45b896def81eb7a37eb4b99d963acb4ce93751efa0c59edd9b468",
+      "bytes": 208861,
       "local_path": "library\\middle-east-north-africa\\iran\\kurdish-iranian\\textile\\kurdish-iran-textile\\images\\eu_15514_OR_297.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:46.093857+00:00"
+  "processed_at": "2026-07-28T18:42:18.239117+00:00"
 }

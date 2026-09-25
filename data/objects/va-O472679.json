@@ -20,8 +20,12 @@
     "art_form": "household",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "household"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "household",
+    "vision_reason": "This is a lacquered wood box with silver-under-red-lacquer decoration made in Palembang, a Chinese-influenced Peranakan craft tradition of the region, plausible as a Sumatran/Indonesian regional object even though the motifs are Chinese-derived; it is not a textile despite the claimed category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -378,13 +382,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/textile/lacquer-painting/images/va_O472679.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/textile/lacquer-painting/images/va_O472679.jpg",
       "iiif_id": "2014HD6166",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2014HD6166/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6e547b82fe9100fd967ec58e07e58a3503b743b65bf0e81ec5bd93c9ac6c85e4",
       "bytes": 79455,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\textile\\lacquer-painting\\images\\va_O472679.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\textile\\lacquer-painting\\images\\va_O472679.jpg"
     }
   ],
   "map": {

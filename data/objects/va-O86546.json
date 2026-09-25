@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Chin",
-    "tradition": "Chin weaving",
+    "tradition": "Chin blanket",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A handwoven navy man's shawl/blanket with fine white pinstripes and red/yellow bands is consistent with Chin traditional weaving from Myanmar; nothing contradicts the claim.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "textile",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -116,13 +121,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O86546.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-blanket/images/va_O86546.jpg",
       "iiif_id": "2006BB3805",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BB3805/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "0d6bfc45931608a340b2758ac5f1888dc6fde219c205b438bd26a2eb0fb65a9a",
       "bytes": 77986,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O86546.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-blanket\\images\\va_O86546.jpg"
     }
   ],
   "map": {
@@ -130,5 +135,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:38:40.920787+00:00"
+  "processed_at": "2026-07-18T11:38:17.099810+00:00"
 }

@@ -20,8 +20,12 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A pair of leather boots with colorful appliqué and embroidered cloth panels, consistent with traditional Central Asian (Uzbek) women's footwear.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Uzbek tribe. Ladies stocking boots.",
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:17:21.624162+00:00"
+  "processed_at": "2026-07-28T18:41:51.916326+00:00"
 }

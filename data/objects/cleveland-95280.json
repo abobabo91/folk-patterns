@@ -20,7 +20,11 @@
     "art_form": "jewelry",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A gold ear stud set with rubies, attributed to Burma (Bamar), consistent with traditional Burmese gold jewelry worn by both men and women; the ornate repoussé and granulation work is plausible for the region and period.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "jewelry"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:37.518025+00:00"
+  "processed_at": "2026-07-28T18:41:26.539041+00:00"
 }

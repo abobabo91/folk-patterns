@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary photograph titled \"Batak vrouwen\" (Batak women) shows three women in traditional dress and carrying vessels, photographed by Kleingrothe who worked extensively in Sumatra — consistent with Batak daily life imagery.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "ea2a3f74c460deed0c59a76a8a498a2955450da1036aada17fee589bc2e391ba",
       "bytes": 16876,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_01e3a3cd_ddc8_58a9_3fb0_d3916041b6d7.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_01e3a3cd_ddc8_58a9_3fb0_d3916041b6d7.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:42.730052+00:00"
+  "processed_at": "2026-07-28T18:43:19.386786+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Toraja",
     "tradition": "Tau-tau",
     "art_form": "sculpture",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a wooden tau tau ancestor effigy figure from South Sulawesi, a well-documented Toraja funerary sculpture tradition, matching the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Ancestor figure (tau tau), South Sulawesi, Desa Rabung, Toraja, Honolulu Museum of Art.JPG",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/toraja/architectural/tau-tau/images/carch_0a348d66336517f7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/toraja/sculpture/tau-tau/images/carch_0a348d66336517f7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c026df9c7c1a5a1789f293fb1aa90f1c08950f94d75361d5fb97528c5b9da77c",
       "bytes": 640853,
-      "local_path": "library\\southeast-asia\\indonesia\\toraja\\architectural\\tau-tau\\images\\carch_0a348d66336517f7.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\sculpture\\tau-tau\\images\\carch_0a348d66336517f7.jpg"
     }
   ],
   "map": {

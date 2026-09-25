@@ -17,10 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "\"Kinh\" Vietnam",
-    "art_form": "painting-mss",
+    "art_form": "photo",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photograph shows a group of small lacquered furniture/vessel pieces with painted decoration, plausible Vietnamese lacquerware objects, but the image itself is a documentary photograph of objects rather than a painting or manuscript.",
+    "vision_confidence": "LOW",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)",
@@ -32,11 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/1692"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/1692",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -44,7 +47,7 @@
     "summary": null,
     "historical_context": null,
     "dimensions": [],
-    "dimensions_note": "Height: 13.4 cm · Width: 19.2 cm · Höhe: 13.4 cm · Breite: 19.2 cm",
+    "dimensions_note": null,
     "marks_inscriptions": null
   },
   "location": {
@@ -73,7 +76,8 @@
       "role": "primary",
       "sha256": "4ca345b98faad2f9b052838329a344c882e3196b5c5ac3490ef4ee9f885bff67",
       "bytes": 10773,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh-vietnam\\images\\eu_15514_KI_16141_4.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh-vietnam\\images\\eu_15514_KI_16141_4.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -81,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:34:23.304484+00:00"
+  "processed_at": "2026-07-28T18:44:26.041362+00:00"
 }

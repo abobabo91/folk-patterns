@@ -18,9 +18,13 @@
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a red woven shoulder cloth (sirara na marsimata) with supplementary weft beadwork end-panels, a traditional Batak textile from the Silindung valley, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -72,7 +76,8 @@
       "role": "primary",
       "sha256": "06e84590af04e30075ee8510304b302e195996f2d158aee920e184e2ce90750d",
       "bytes": 23668,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_2048221_europeana_fashion_168158.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_2048221_europeana_fashion_168158.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -80,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:51.033605+00:00"
+  "processed_at": "2026-07-28T18:43:27.776911+00:00"
 }

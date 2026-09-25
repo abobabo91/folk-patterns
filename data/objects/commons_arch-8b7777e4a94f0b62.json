@@ -17,8 +17,15 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Walls of Angkor Thom",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the ancient stone walls of Angkor Thom, the Khmer imperial capital, which is authentic Khmer archaeological architecture in Cambodia.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Angkor Thom-Mauerweg-12-2007-gje.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/walls-of-angkor-thom/images/carch_8b7777e4a94f0b62.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/photo/walls-of-angkor-thom/images/carch_8b7777e4a94f0b62.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e36c8411f9d07bfd6b3f98a7630a5fc5a3b62240dd499be0191be030bed5dbaa",
       "bytes": 514816,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\walls-of-angkor-thom\\images\\carch_8b7777e4a94f0b62.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\photo\\walls-of-angkor-thom\\images\\carch_8b7777e4a94f0b62.jpg"
     }
   ],
   "map": {

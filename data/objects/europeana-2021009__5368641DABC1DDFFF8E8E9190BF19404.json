@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of a Himba woman with characteristic ochre-coiffed hairstyle, layered beaded headdress, and leather/fabric headwrap — consistent with Himba dress and adornment, though this is a photo, not painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Himba-nainen",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/unclassified/himba-namibia/images/eu_2021009__5368641DABC1DDFFF8E8E9190BF19404.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/painting-mss/himba-namibia/images/eu_2021009__5368641DABC1DDFFF8E8E9190BF19404.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "88a10d268b056083b5502abd50fe34ba5ee33a15d7de036826ea0584e33192ea",
       "bytes": 139936,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__5368641DABC1DDFFF8E8E9190BF19404.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__5368641DABC1DDFFF8E8E9190BF19404.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:48.740419+00:00"
+  "processed_at": "2026-07-28T18:47:46.773195+00:00"
 }

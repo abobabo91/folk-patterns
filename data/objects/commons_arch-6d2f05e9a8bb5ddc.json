@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Goa Gajah",
-    "art_form": "architectural",
+    "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "The photo shows the ancient stone water fountain statues at Goa Gajah (Elephant Cave) temple site in Bali, an archaeological/temple site built by the Balinese Hindu culture; it's a documentary photograph rather than a painting/manuscript, but it does depict Balinese-made architectural/sculptural heritage.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "003 Sacred Fountains, Goa Gajah, Gyanyar, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/goa-gajah/images/carch_6d2f05e9a8bb5ddc.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/goa-gajah/images/carch_6d2f05e9a8bb5ddc.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "541c2d6cb35fbc07d7f5d2489d34fa5a79306568ea96d01149a1a6e1d7d8780e",
       "bytes": 424011,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\goa-gajah\\images\\carch_6d2f05e9a8bb5ddc.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\goa-gajah\\images\\carch_6d2f05e9a8bb5ddc.jpg"
     }
   ],
   "map": {

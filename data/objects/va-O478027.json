@@ -13,14 +13,19 @@
     "accession_year": 1987
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Laos",
     "ethnicity": "Lao",
     "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A handwoven silk scarf with pink ground, gold supplementary weft bands, and fringed ends — a traditional Lao silk-weaving product consistent with the claimed ethnicity and location.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -80,13 +85,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/unclassified/lao-silk/images/va_O478027.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O478027.jpg",
       "iiif_id": "2020MP8059",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8059/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6dd8b82eb19e897522e7a67ce03c5ce693b7a9b587617547c497aa707c469111",
       "bytes": 353236,
-      "local_path": "library\\southeast-asia\\laos\\lao\\unclassified\\lao-silk\\images\\va_O478027.jpg"
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O478027.jpg"
     }
   ],
   "map": {

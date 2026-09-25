@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Minangkabau",
     "tradition": "songket Palembang",
     "art_form": "textile",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "art_form_vision": "textile"
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a woven silk fragment with weft ikat banding and gold-brocaded end panel — a limar/songket style textile characteristic of Sumatran weaving traditions including Minangkabau, plausible for the claimed culture even though the file notes Palembang.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -179,22 +183,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/minangkabau/unclassified/songket-palembang/images/va_O477947.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/minangkabau/garment/songket-palembang/images/va_O477947.jpg",
       "iiif_id": "2011FB0554",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0554/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "7311b72990d99923b03811bcae06b62c33e2a88b18461e9d16278242d61b1e5f",
       "bytes": 465054,
-      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\songket-palembang\\images\\va_O477947.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\garment\\songket-palembang\\images\\va_O477947.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/minangkabau/unclassified/songket-palembang/images/va_O477947_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/minangkabau/garment/songket-palembang/images/va_O477947_1.jpg",
       "iiif_id": "2017JX7664",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7664/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fbb2af23f9371fa2d2d26c7462f56bd984624570c67f3f35825c22ab71c4c711",
       "bytes": 440891,
-      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\songket-palembang\\images\\va_O477947_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\garment\\songket-palembang\\images\\va_O477947_1.jpg"
     }
   ],
   "map": {

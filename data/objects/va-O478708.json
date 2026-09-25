@@ -19,8 +19,13 @@
     "tradition": "songket Malay",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a traditional songket sarong (red silk brocaded with gold floral motifs, plaid-effect field), a garment type consistent with Batubara (Batak/Malay Sumatran) weaving traditions; nothing contradicts the regional attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -1322,13 +1327,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/songket-malay/images/va_O478708.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/songket-malay/images/va_O478708.jpg",
       "iiif_id": "2020MP9109",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP9109/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d45eebd3eddf296c7bdc1a9014119d23251081c06bf1c94e830979f7c5acf948",
       "bytes": 267983,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\songket-malay\\images\\va_O478708.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\songket-malay\\images\\va_O478708.jpg"
     }
   ],
   "map": {

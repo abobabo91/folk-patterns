@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "Thai silk",
     "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a gilt-embroidered silk cone-shaped hood (khlum pak) used to cover offering trays in the Thai royal court — a Thai court textile, though the museum mislabels it \"metalwork\" (no metal object is depicted).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -311,13 +316,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/unclassified/thai-silk/images/va_O482730.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/metalwork/thai-silk/images/va_O482730.jpg",
       "iiif_id": "2020MP9802",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP9802/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "9d5e67d56d2292b2131f6f7119a8a467c68c9ed3a8ceaf49902d89a0f28d98ab",
       "bytes": 143874,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai-silk\\images\\va_O482730.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\metalwork\\thai-silk\\images\\va_O482730.jpg"
     }
   ],
   "map": {

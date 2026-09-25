@@ -13,15 +13,19 @@
     "accession_year": 2011
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "wayang",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "This is a wayang kulit shadow puppet (leather, gilded and painted), a craft form shared by both Javanese and Balinese culture; the claimed Balinese attribution is plausible even though the museum notes Java, as the two traditions cannot be reliably distinguished.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Wayang shadow puppet",
@@ -87,13 +91,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244151.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/sculpture/wayang/images/va_O1244151.jpg",
       "iiif_id": "2019LX4780",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LX4780/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "ad689c34beea3c1b0d35e3d8632e9020274434613b06dff89c429ab389f5c4f9",
       "bytes": 173452,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244151.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\sculpture\\wayang\\images\\va_O1244151.jpg"
     }
   ],
   "map": {

@@ -17,8 +17,15 @@
     "country": "Tajikistan",
     "ethnicity": "Tajik",
     "tradition": "Hulbuk",
-    "art_form": "painting-mss",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows the reconstructed citadel walls and portal of the Khulbuk palace, an archaeological site in Tajikistan's homeland region; it is a fortified building, not a painting or manuscript despite the record's category label. This is site architecture from the historical Tajik-Persianate cultural sphere, so it belongs, but as architecture rather than painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Ancient Town Khulbuk, Tajikistan (43131706144).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/architectural/hulbuk/images/carch_5bc8b093616bc908.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/painting-mss/hulbuk/images/carch_5bc8b093616bc908.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d143b5fe204c3ce017e0c47a4803c5138c651ab90aa413c0ced6ada9b27a0a31",
       "bytes": 364663,
-      "local_path": "library\\central-asia\\tajikistan\\tajik\\architectural\\hulbuk\\images\\carch_5bc8b093616bc908.jpg"
+      "local_path": "library\\central-asia\\tajikistan\\tajik\\painting-mss\\hulbuk\\images\\carch_5bc8b093616bc908.jpg"
     }
   ],
   "map": {

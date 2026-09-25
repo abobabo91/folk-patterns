@@ -13,12 +13,19 @@
     "accession_year": "1914"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A fine ink drawing of a standing/walking bridled stallion, mounted with decorative Persianate borders and gold-flecked margins — a classic Persian album drawing subject and style, consistent with the claimed Iranian tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Portrait of a Stallion",
@@ -65,22 +72,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446656.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446656.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e197e5ff065ee775b19d929647fea3a4a3a6973eed9b2218c23a4905e445e49a",
       "bytes": 986317,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446656.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446656.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446656_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446656_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "52216ae491b32e822e29776b31b952012961beae318294b76927b09a06afd391",
       "bytes": 2802193,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446656_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446656_1.jpg"
     }
   ],
   "map": {

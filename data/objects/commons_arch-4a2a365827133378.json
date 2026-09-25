@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Kurdish (Turkish)",
     "tradition": "Hoşap Castle",
-    "art_form": "painting-mss",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a book illustration (engraving/print) of a ruined castle at Khoshab captioned \"Ruins of a Kurdish Castle,\" from a printed 1895 book page — it is a print/illustration depicting Kurdish architecture, so it fits the claimed ethnicity, but the category should be architectural rather than painting-mss, and it is a printed illustration, not a manuscript painting.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "78 of 'The Armenian Crisis in Turkey- the massacre of 1894, its antecedents and significance, etc' (11302834503).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/kurdish-turkish/architectural/hosap-castle/images/carch_4a2a365827133378.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/kurdish-turkish/painting-mss/hosap-castle/images/carch_4a2a365827133378.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "580f1c4fdb5634c0417357e56d2491634174c4a63a2baed285fb9b805243d873",
       "bytes": 374451,
-      "local_path": "library\\middle-east-north-africa\\turkey\\kurdish-turkish\\architectural\\hosap-castle\\images\\carch_4a2a365827133378.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\kurdish-turkish\\painting-mss\\hosap-castle\\images\\carch_4a2a365827133378.jpg"
     }
   ],
   "map": {

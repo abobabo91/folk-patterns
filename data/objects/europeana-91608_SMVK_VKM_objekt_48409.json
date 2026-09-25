@@ -17,8 +17,15 @@
     "country": "Kenya",
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a wooden knobkerrie-style club, a weapon/staff type used by Maasai leaders as described in the museum's own citation (Baumann, Massailand), consistent with the claimed culture and object type.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "klubba",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/unclassified/maasai-kenya/images/eu_91608_SMVK_VKM_objekt_48409.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/household/maasai-kenya/images/eu_91608_SMVK_VKM_objekt_48409.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5d433174911b28cf2cb71fc827ba35ae97422b4bb96d074fd1e85c052afeddeb",
       "bytes": 3600,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48409.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\household\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48409.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:55:00.994481+00:00"
+  "processed_at": "2026-07-28T18:46:13.072807+00:00"
 }

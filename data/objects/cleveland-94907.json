@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a raffia-woven, dome-shaped Kuba laket hat with a decorative metal pin, matching the claimed Kuba ethnicity and headwear tradition exactly.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Hat (laket) with Pin",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:40.751954+00:00"
+  "processed_at": "2026-07-28T18:41:32.711064+00:00"
 }

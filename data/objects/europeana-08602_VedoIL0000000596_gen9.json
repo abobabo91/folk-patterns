@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary snapshot of a man in a suit speaking with Somali military officers in uniform, a scene of contemporary Somali public/political life. This is a documentary photo, not an object made/worn traditionally, but it does depict Somali people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Tre somali parlano con un uomo colto di spalle; piano americano",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "5ad32b3920be5a4762a3d455c9c024c6adf010753e8c0632edb68be194bd53be",
       "bytes": 26983,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen9.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen9.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:21.639171+00:00"
+  "processed_at": "2026-07-28T18:48:18.653973+00:00"
 }

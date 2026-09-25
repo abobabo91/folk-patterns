@@ -17,8 +17,15 @@
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "A watercolour depicting a Central Asian man in a striped robe over a floral tunic, with a fur-trimmed hat, consistent with \"Tartar or Uzbek\" costume study of the region — a European-style documentary drawing of Uzbek/Central Asian dress.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "drawing",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbek/images/bm_P_1906-0509-1-33.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/painting-mss/uzbek/images/bm_P_1906-0509-1-33.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "658e86373dfd2748503968c5afc7466afcb61fe7a3fbf0a2f1ec919f74e911ff",
       "bytes": 56875,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbek\\images\\bm_P_1906-0509-1-33.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_P_1906-0509-1-33.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:38.334289+00:00"
+  "processed_at": "2026-07-28T18:57:26.942422+00:00"
 }

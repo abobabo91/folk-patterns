@@ -13,15 +13,19 @@
     "accession_year": 1974
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "parang",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a batik cotton cloth with a lattice of diamond compartments containing garuda-wing (lar) motifs alternating with parang-style diagonal bands, a classic Javanese batik pattern rendered in indigo, cream and brown — a textile, not metalwork.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -82,13 +86,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/parang/images/va_O478573.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/parang/images/va_O478573.jpg",
       "iiif_id": "2021NA3627",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3627/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "466dc28614fdaf867ff6b42c88ddf22cfcedefb7df26a27503a4383e675b6c79",
       "bytes": 267922,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\parang\\images\\va_O478573.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\parang\\images\\va_O478573.jpg"
     }
   ],
   "map": {

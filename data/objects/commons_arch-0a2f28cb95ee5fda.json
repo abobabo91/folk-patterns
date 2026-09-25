@@ -17,8 +17,16 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Ali Qapu",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/2/29/Ali_Qapu_Antoin_Sevruguin.jp",
+    "vision_reason": "The photograph shows the Ali Qapu palace in Isfahan, a Persian Safavid-era building, with local people gathered in front, photographed by Antoin Sevruguin c.1900 — clearly Persian architecture and daily life.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Ali Qapu Antoin Sevruguin.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/ali-qapu/images/carch_0a2f28cb95ee5fda.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/photo/ali-qapu/images/carch_0a2f28cb95ee5fda.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2ab3e0cd7d372bfe679da05b3b645889fa3d6190282f286032b521c016c7b84d",
       "bytes": 232967,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\ali-qapu\\images\\carch_0a2f28cb95ee5fda.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\photo\\ali-qapu\\images\\carch_0a2f28cb95ee5fda.jpg"
     }
   ],
   "map": {

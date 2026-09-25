@@ -18,7 +18,14 @@
     "ethnicity": "Yoruba",
     "tradition": "Yoruba",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Classic indigo adire eleko/stitch-resist cloth with concentric circle and stripe motifs, a well-documented Yoruba textile technique made from imported cotton and hand-dyed with indigo resist patterns.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "textile",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "adire",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/yoruba/textile/yoruba/images/bm_E_Af1971-35-3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/yoruba/garment/yoruba/images/bm_E_Af1971-35-3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c5d08c0e547e8a53e9bfdbcc2b19d3a26d6ac71788a21456bf7fbcd6606f0075",
       "bytes": 118961,
-      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba\\images\\bm_E_Af1971-35-3.jpg"
+      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\garment\\yoruba\\images\\bm_E_Af1971-35-3.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:55:43.176346+00:00"
+  "processed_at": "2026-07-28T19:24:44.155947+00:00"
 }

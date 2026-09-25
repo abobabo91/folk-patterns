@@ -13,14 +13,19 @@
     "accession_year": 1960
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "kalaga",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "textile",
+    "pattern_density": 1,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A kalaga hanging depicting a Mandalay court lady in traditional Burmese dress (acheik-patterned htamein, ein-gyi jacket), made in appliqué, embroidery and paint — a classic Bamar textile art form, correctly matching the claimed ethnicity though miscategorized as painting-mss rather than a textile/hanging.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -638,22 +643,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O46415.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O46415.jpg",
       "iiif_id": "2006AF4585",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF4585/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "fb3583f3bb6ea121ad5c9a8d82b101d896df91c82599e2cea238b5b31d6f9ec5",
       "bytes": 210688,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O46415.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O46415.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O46415_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O46415_1.jpg",
       "iiif_id": "2012FT0162",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FT0162/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d5a2c40649642653a310e5d5b80df0361e4f626e8d579c051aa6ec2a0a155ea1",
       "bytes": 213934,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O46415_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O46415_1.jpg"
     }
   ],
   "map": {

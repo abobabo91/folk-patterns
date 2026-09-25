@@ -17,10 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "keris",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A straight-bladed keris with wood hilt and sheath, a traditional Malay weapon consistent with the Malaysia/Malay world region claimed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": null,
@@ -773,13 +778,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/metalwork/keris/images/va_O451206.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/metalwork/keris/images/va_O451206.jpg",
       "iiif_id": "2020MP8542",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8542/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b667d72dbb6a56d89067afad294a507553c2fcea12c379e738d8c276ee017da8",
       "bytes": 41699,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\metalwork\\keris\\images\\va_O451206.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\metalwork\\keris\\images\\va_O451206.jpg"
     }
   ],
   "map": {

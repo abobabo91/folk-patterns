@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Kyrgyzstan",
     "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "tradition": "Kirghiz felt",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a square felt seat cushion (sittdyna) with mirror-symmetric red and grey curling motifs on a felted ground, edged in dark border with zigzag trim and orange whipstitching — this is shyrdak felt-appliqué work, a hallmark Kyrgyz textile technique explicitly named in the description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "sittdyna",
@@ -31,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -66,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/unclassified/kyrgyz/images/eu_91608_SMVK_VKM_objekt_17131.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kirghiz-felt/images/eu_91608_SMVK_VKM_objekt_17131.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "97d9cd1c9bc10a16f9dd518fedde7576705677082e5b0efcfe69bfd66a4a00a0",
       "bytes": 69619,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\unclassified\\kyrgyz\\images\\eu_91608_SMVK_VKM_objekt_17131.jpg"
+      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kirghiz-felt\\images\\eu_91608_SMVK_VKM_objekt_17131.jpg"
     }
   ],
   "map": {
@@ -80,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:26:12.470528+00:00"
+  "processed_at": "2026-07-28T18:41:52.474048+00:00"
 }

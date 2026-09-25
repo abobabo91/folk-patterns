@@ -20,7 +20,11 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photograph of a traditional Batak village with steep-roofed wooden houses and palm trees, a documentary scene of Batak architecture and daily life in Sumatra, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "architectural"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "3a47454e5e5f5fab7154890093f7e282808aecba8e9e1f3830f863067c80318f",
       "bytes": 17989,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_4d00b74e_7d23_5f12_f5ac_33a1c394b084.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_4d00b74e_7d23_5f12_f5ac_33a1c394b084.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:46.444642+00:00"
+  "processed_at": "2026-07-28T18:43:22.978105+00:00"
 }

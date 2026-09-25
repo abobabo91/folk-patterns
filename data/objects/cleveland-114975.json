@@ -15,12 +15,16 @@
   "cultural": {
     "region": "southeast-asia",
     "country": "Vietnam",
-    "ethnicity": "Kinh",
-    "tradition": "Kinh",
+    "ethnicity": "Cham",
+    "tradition": "Cham",
     "art_form": "sculpture",
-    "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A sandstone enthroned planetary deity from Dong Duong monastery, a Cham Buddhist temple complex in Quang Nam province — clearly Cham temple sculpture made within that culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/textile/kinh/images/cle_114975.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/sculpture/cham/images/cle_114975.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6d8a8c2934704da124e2069b86d00da54acbfe8ba44fcb9f07732d5073f3ae18",
       "bytes": 276382,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\textile\\kinh\\images\\cle_114975.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\cham\\sculpture\\cham\\images\\cle_114975.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:12.962362+00:00"
+  "processed_at": "2026-07-28T18:41:21.606068+00:00"
 }

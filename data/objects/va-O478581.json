@@ -13,15 +13,19 @@
     "accession_year": 1960
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "parang",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "Cotton batik cloth with parang (diagonal dagger) pattern and lar/garuda wing motifs, a classic Javanese batik design and technique, consistent with the claimed ethnicity and origin.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -81,31 +85,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/parang/images/va_O478581.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O478581.jpg",
       "iiif_id": "2021NA3556",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3556/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "731f038f5ecd7f6592af092429042f6de5ad03a1776e36d592eefe12fd6b4a7c",
       "bytes": 405606,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\parang\\images\\va_O478581.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O478581.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/parang/images/va_O478581_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O478581_1.jpg",
       "iiif_id": "2012FM9541",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9541/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "29b6e327782204be368aaea4d189ef4b7b1f7b3bc681a0ce47d68b53ad7fb380",
       "bytes": 392389,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\parang\\images\\va_O478581_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O478581_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/parang/images/va_O478581_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O478581_2.jpg",
       "iiif_id": "2018KY9305",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9305/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "7c46923917c3028bca9be5bd26a9d12601c29f92556a464a7c854163362afb72",
       "bytes": 247152,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\parang\\images\\va_O478581_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O478581_2.jpg"
     }
   ],
   "map": {

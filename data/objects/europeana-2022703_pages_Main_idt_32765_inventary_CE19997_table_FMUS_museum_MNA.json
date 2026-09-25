@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an embroidered woven vest with vertical stripes and colorful geometric embroidery, matching the described Gerewol ritual garment; Fulani/Fulbe is a widespread ethnonym (Senegal to Niger) and this is plausible traditional dress from that broader culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Chaleco",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "3715ea66714b173dbbf7b238b66c1dd32e4a1082982666c8aa2ea1c890bce1da",
       "bytes": 23346,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32765_inventary_CE19997_table_FMUS_museum_MNA.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32765_inventary_CE19997_table_FMUS_museum_MNA.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:41.016227+00:00"
+  "processed_at": "2026-07-28T18:45:29.651572+00:00"
 }

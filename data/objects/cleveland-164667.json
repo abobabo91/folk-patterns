@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic Bukhara silk velvet ikat panel with bold medallion patterning, a textile type historically woven and used by Uzbeks in the Bukhara region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Length of silk velvet ikat",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:45.125552+00:00"
+  "processed_at": "2026-07-28T18:40:55.310887+00:00"
 }

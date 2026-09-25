@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A silk ikat sarong with pavilions, dancers, elephants and riders in the traditional Khmer weft-ikat (hol) style, consistent with Cambodian court/traditional textile production.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/garment/khmer/images/cle_112705.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/cambodian/images/cle_112705.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f99be75a655e93c2750e847ecae6546e45ca652f9013ca07b03709a27b2fe9ce",
       "bytes": 678883,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\garment\\khmer\\images\\cle_112705.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\cambodian\\images\\cle_112705.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.837450+00:00"
+  "processed_at": "2026-07-28T11:58:06.087504+00:00"
 }

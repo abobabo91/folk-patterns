@@ -20,7 +20,11 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a handmade lace scarf/strip made from local abacá fiber, a craft tradition documented as Filipino using indigenous material with imported lacemaking technique, consistent with the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.352310+00:00"
+  "processed_at": "2026-07-28T18:41:27.684719+00:00"
 }

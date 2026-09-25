@@ -18,9 +18,13 @@
     "ethnicity": "Balinese",
     "tradition": "Balinese",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A songket-woven cloth with gold/silver thread patterning, consistent with a Balinese breast cloth used in ceremonial dress as described.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -31,12 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2130",
-      "http://data.europeana.eu/concept/1775"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2130; http://data.europeana.eu/concept/1775",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -81,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:27.483046+00:00"
+  "processed_at": "2026-07-28T18:43:14.744198+00:00"
 }

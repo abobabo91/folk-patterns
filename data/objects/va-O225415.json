@@ -20,8 +20,12 @@
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "ceramic",
+    "vision_reason": "The dish shows a classic Central Asian earthenware form with blue/turquoise slip-painted boteh (paisley) and foliate motifs, consistent with regional Turkestan pottery traditions and the \"Turkestan\" location noted.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

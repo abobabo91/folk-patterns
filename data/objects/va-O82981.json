@@ -14,13 +14,18 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Laos",
-    "ethnicity": "Lao",
-    "tradition": "naga motif",
-    "art_form": "jewelry",
+    "country": "Cambodia",
+    "ethnicity": "Khmer",
+    "tradition": "Khmer relief",
+    "art_form": "metalwork",
     "pattern_density": 1,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a bronze multi-headed naga finial from a Khmer-style palanquin or chair shaft, made in central Thailand (Lopburi), so it belongs to the regional Thai/Khmer-related tradition; it is metal furniture hardware, not jewelry.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Furniture ornament",
@@ -113,40 +118,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thailand/jewelry/naga-motif/images/va_O82981.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/_regional/jewelry/khmer-relief/images/va_O82981.jpg",
       "iiif_id": "2006BF1915",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF1915/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "a753a0d5386b26578330ca5efdad5dbf81d2dea3b70f023225dbfc59d7f43612",
       "bytes": 163075,
-      "local_path": "library\\southeast-asia\\thailand\\thailand\\jewelry\\naga-motif\\images\\va_O82981.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\_regional\\jewelry\\khmer-relief\\images\\va_O82981.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thailand/jewelry/naga-motif/images/va_O82981_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/_regional/jewelry/khmer-relief/images/va_O82981_1.jpg",
       "iiif_id": "2021MW3462",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MW3462/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e492ce9f9bd8850a5ddb0ca558a642dd363b266b6603597baaf41c8d915496c3",
       "bytes": 229645,
-      "local_path": "library\\southeast-asia\\thailand\\thailand\\jewelry\\naga-motif\\images\\va_O82981_1.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\_regional\\jewelry\\khmer-relief\\images\\va_O82981_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thailand/jewelry/naga-motif/images/va_O82981_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/_regional/jewelry/khmer-relief/images/va_O82981_2.jpg",
       "iiif_id": "2021MW3463",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MW3463/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "7f08c2fd889558598e28c12dc7e167d463881f2e35c037be25c65a31d1471a74",
       "bytes": 248223,
-      "local_path": "library\\southeast-asia\\thailand\\thailand\\jewelry\\naga-motif\\images\\va_O82981_2.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\_regional\\jewelry\\khmer-relief\\images\\va_O82981_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thailand/jewelry/naga-motif/images/va_O82981_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/_regional/jewelry/khmer-relief/images/va_O82981_3.jpg",
       "iiif_id": "2021MW3464",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MW3464/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "630ea932483aef6fe202b92ac0684bfca3f5ecd6d2d51963dced38a17021aa09",
       "bytes": 106069,
-      "local_path": "library\\southeast-asia\\thailand\\thailand\\jewelry\\naga-motif\\images\\va_O82981_3.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\_regional\\jewelry\\khmer-relief\\images\\va_O82981_3.jpg"
     }
   ],
   "map": {
@@ -154,5 +159,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:31:46.989242+00:00"
+  "processed_at": "2026-07-18T11:29:59.868951+00:00"
 }

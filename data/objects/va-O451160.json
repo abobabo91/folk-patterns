@@ -17,11 +17,15 @@
     "country": "Laos",
     "ethnicity": "Lao",
     "tradition": "naga motif",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "arms",
+    "vision_reason": "The image shows a Bugis-type knife with wooden hilt and silver-mounted sheath decorated with naga motifs, a traditional Indonesian edged weapon consistent with the regional Indonesian claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -775,13 +779,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/metalwork/naga-motif/images/va_O451160.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/metalwork/naga-motif/images/va_O451160.jpg",
       "iiif_id": "2020MP8416",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8416/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "e96cfc344be8a919859c29a9e185bf2b58fb295a71392c2df4180a9942f52246",
       "bytes": 76280,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\metalwork\\naga-motif\\images\\va_O451160.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\metalwork\\naga-motif\\images\\va_O451160.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a raffia cut-pile \"kasai velvet\" style panel with geometric diamond patterns, characteristic of Kuba/Kongo-region raffia textiles used as mats or ceremonial cloth; plausible for the claimed region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Raffia, matta, mat, carpet",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "6223ec6c41f5e0b26dda6f54f77428c3635180c57661642465e898a0b2415cf3",
       "bytes": 21218,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\textile\\kuba-congo\\images\\eu_91608_SMVK_VKM_objekt_55418.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\textile\\kuba-congo\\images\\eu_91608_SMVK_VKM_objekt_55418.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:11.751876+00:00"
+  "processed_at": "2026-07-28T18:46:51.870941+00:00"
 }

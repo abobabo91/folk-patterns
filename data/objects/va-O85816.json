@@ -13,14 +13,19 @@
     "accession_year": 1997
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Chin",
     "tradition": "Chin weaving",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A woven silk skirt cloth with striped supplementary-weft geometric patterning, explicitly noted as typical of Haka (a Chin subgroup) style — a textile made and worn by the Chin.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,

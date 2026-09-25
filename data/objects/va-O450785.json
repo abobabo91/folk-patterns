@@ -13,15 +13,19 @@
     "accession_year": 1950
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "keris",
-    "art_form": "metalwork",
+    "art_form": "arms",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "arms",
+    "vision_reason": "The image shows a wavy-bladed keris with an ornately carved silver-and-brass hilt beside its curved wooden sheath — a Javanese ceremonial dagger, clearly a weapon rather than plain metalwork.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

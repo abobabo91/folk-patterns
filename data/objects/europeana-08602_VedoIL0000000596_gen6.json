@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows Somali military/political officials in uniform meeting Italian officials — a documentary photo of Somali people, fitting the claimed ethnicity, though it's a diplomatic snapshot rather than an object of material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Some Somalis converse with two Italian political men; American plan",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "8b88281613a312510344600f1a4e9b7dc8946c064e433c13a272e84fe028990b",
       "bytes": 27323,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen6.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen6.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:19.996386+00:00"
+  "processed_at": "2026-07-28T18:48:16.877561+00:00"
 }

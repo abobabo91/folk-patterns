@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Pura Besakih",
-    "art_form": "architectural",
+    "art_form": "sculpture",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "The photograph shows carved stone deity/guardian figures on a naga vehicle at Pura Besakih, a major Balinese Hindu temple complex on Mount Agung, Bali — clear temple sculpture belonging to Balinese tradition, though it's a documentary photo of sculpture rather than a painting/manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "008 Dewa on Vehicle, Pura Besikih, Mount Agung, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-besakih/images/carch_a63c936524f4daf1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-besakih/images/carch_a63c936524f4daf1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "65bda6aa3b0437ec0c5e690467580854fc140234936d43a2c6add251b3391e17",
       "bytes": 1117658,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-besakih\\images\\carch_a63c936524f4daf1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-besakih\\images\\carch_a63c936524f4daf1.jpg"
     }
   ],
   "map": {

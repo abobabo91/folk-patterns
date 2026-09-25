@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "wayang",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a batik-style square cloth with a wayang (shadow-puppet) figure in a central medallion and gunungan/parang-like corner motifs, a style associated with Javanese-influenced Balinese textile production; the imagery and technique are consistent with Balinese/Indonesian cloth work.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Square",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/wayang/images/si_chndm_1961-115-26.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/wayang/images/si_chndm_1961-115-26.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "018bcc5ff49cfe8c0f03ad1988eb3d1f8e79ad30abac2076251e9f406d1d988c",
       "bytes": 6414451,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\wayang\\images\\si_chndm_1961-115-26.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\wayang\\images\\si_chndm_1961-115-26.jpg"
     }
   ],
   "map": {

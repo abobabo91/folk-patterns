@@ -18,7 +18,14 @@
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A woman's robe combining silk ikat panels, embroidered suzani, and Indian sari brocade with metallic tassels — ikat and suzani are hallmark Central Asian (Uzbek) textile traditions, well matching the claimed ethnicity and garment category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "abayah; dress",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:38.971616+00:00"
+  "processed_at": "2026-07-28T18:57:27.162054+00:00"
 }

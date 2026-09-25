@@ -19,8 +19,12 @@
     "tradition": "Filipino",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A fine piña fiber square with hand-embroidered floral/geometric lace border, made as a fichu/neck covering — piña cloth and this embroidery style are a distinctive traditional Filipino textile craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.657226+00:00"
+  "processed_at": "2026-07-28T18:41:28.329358+00:00"
 }

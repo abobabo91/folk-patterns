@@ -18,7 +18,15 @@
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu people",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/e/ef/The_American_Museum_journal_",
+    "vision_reason": "A documentary-style photograph of an African man carrying a large horned animal skull/mask trophy on his head, likely from an early ethnographic natural history journal; plausible for East African hunting/ritual practice, though exact ethnic attribution to Kikuyu cannot be confirmed from the image alone.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "The American Museum journal (c1900-(1918)) (18160364125).jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/architectural/kikuyu-people/images/carch_8ee8267725fcb8e0.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/photo/kikuyu-people/images/carch_8ee8267725fcb8e0.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f46f5a6dcb3543a2ca5b4ffba9b240c9f4908df694d7aedccc82003e03dbe626",
       "bytes": 335228,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\architectural\\kikuyu-people\\images\\carch_8ee8267725fcb8e0.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\photo\\kikuyu-people\\images\\carch_8ee8267725fcb8e0.jpg"
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-25T08:38:51.195541+00:00"
+  "processed_at": "2026-07-28T20:00:24.053407+00:00"
 }

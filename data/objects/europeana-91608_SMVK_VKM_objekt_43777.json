@@ -17,8 +17,15 @@
     "country": "Djibouti / Eritrea",
     "ethnicity": "Afar",
     "tradition": "Afar Ethiopia",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A curved iron knife with brass pommel, leather sheath and studded leather belt, collected at Awash Station in Ethiopia's Shoa province — a region and object type consistent with Afar material culture (this style of curved knife with belt is a well-known Afar/Danakil artifact type).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "kniv, skida, bälte, Kniv",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "ab3d421e3443e9b9f327ee31254c12480a220374b76b9625492332421aa9a2c4",
       "bytes": 12097,
-      "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\metalwork\\afar-ethiopia\\images\\eu_91608_SMVK_VKM_objekt_43777.jpg"
+      "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\metalwork\\afar-ethiopia\\images\\eu_91608_SMVK_VKM_objekt_43777.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:24:22.918542+00:00"
+  "processed_at": "2026-07-28T18:48:37.305112+00:00"
 }

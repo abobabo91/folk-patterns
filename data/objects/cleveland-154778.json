@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
-    "art_form": "metalwork",
+    "tradition": "Java",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "metalwork"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A dark bronze ritual hand-bell topped with a vajra finial and a band of small faces around the shoulder — a tantric Buddhist ritual implement from ancient Central Javanese court/temple culture, not a freestanding figural sculpture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Bell with Vajra Handle",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/javanese/images/cle_154778.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/java/images/cle_154778.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4ecb172f6ddb6e8ac26c47077fc75fa5daeb9434a82151f69f382b5eb84ac42f",
       "bytes": 41289,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\javanese\\images\\cle_154778.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\java\\images\\cle_154778.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:28.724014+00:00"
+  "processed_at": "2026-07-28T11:56:21.855498+00:00"
 }

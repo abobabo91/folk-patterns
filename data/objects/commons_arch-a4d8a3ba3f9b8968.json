@@ -17,11 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "Temple of Literature, Hanoi",
-    "art_form": "ceramic",
+    "art_form": "sculpture",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "This is a small decorative figurine set (souvenir-style ceramic statuettes of two men playing Chinese chess), not a photo of the Temple of Literature or any Kinh architecture despite the title/description; the claimed category \"architectural\" does not match the image content, but figurines depicting everyday Vietnamese life scene are plausible Kinh craft/decorative objects.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "03816-Hanoi (32111273334).jpg",

@@ -13,14 +13,19 @@
     "accession_year": 1997
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Chin",
     "tradition": "Chin weaving",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a Haka Chin woman's blouse (kor) made of dark red silk with warp-faced striped panels and supplementary-weft geometric patterning, matching the museum's detailed description and Chin textile traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -88,49 +93,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85882.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-weaving/images/va_O85882.jpg",
       "iiif_id": "2019MA0659",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0659/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "98eb9747ea20149f37ab202916a6c494157b0c71052566c67a4ef8782651c743",
       "bytes": 158209,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85882.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-weaving\\images\\va_O85882.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85882_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-weaving/images/va_O85882_1.jpg",
       "iiif_id": "2019MA0658",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0658/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ba159e7673640254fc14dee10e4f576bce78dbc1c91ac0251a801530e546d128",
       "bytes": 157205,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85882_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-weaving\\images\\va_O85882_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85882_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-weaving/images/va_O85882_2.jpg",
       "iiif_id": "2019MA0626",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0626/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "7f70dd498863249940c497ae5045625ffa63dd64b2bdaeac1f69b4c544b76d7e",
       "bytes": 231178,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85882_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-weaving\\images\\va_O85882_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85882_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-weaving/images/va_O85882_3.jpg",
       "iiif_id": "2018LH4761",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LH4761/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b0f3a372d8f5b114940d7c23050b887ca0059836b6d6491315162a55007dbce9",
       "bytes": 200692,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85882_3.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-weaving\\images\\va_O85882_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85882_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-weaving/images/va_O85882_4.jpg",
       "iiif_id": "2018LH4762",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LH4762/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f5a71be8311dc4216504b1f58f19d9f1949d7cf1d3a33656b6d8b0baa9265d99",
       "bytes": 226007,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85882_4.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-weaving\\images\\va_O85882_4.jpg"
     }
   ],
   "map": {

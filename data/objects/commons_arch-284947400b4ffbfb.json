@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This is a photograph of the split gateway (candi bentar) at Tanah Lot temple in Bali, a Balinese architectural form with characteristic guardian statues, fitting Balinese culture despite being mislabeled as painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "001 Split Gateway, The Tanah Lot Area, Tabanan, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-tanah-lot/images/carch_284947400b4ffbfb.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-tanah-lot/images/carch_284947400b4ffbfb.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7e81c6f3f8c24c4517e0f32fc2054672f2f50245b541247e5c763b1c0d2010d5",
       "bytes": 418877,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-tanah-lot\\images\\carch_284947400b4ffbfb.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-tanah-lot\\images\\carch_284947400b4ffbfb.jpg"
     }
   ],
   "map": {

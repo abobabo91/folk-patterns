@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A narrow ikat cloth length with bold red medallions and floral motifs in the classic Central Asian (Uzbek/Bukhara-region) style, plausible as a regional textile from that area though it is a length of cloth rather than a finished garment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -627,13 +631,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ikat/images/va_O143421.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/ikat/images/va_O143421.jpg",
       "iiif_id": "2007BM4957",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM4957/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "e01812d0e88b4de28a5206eb53cb3b9fecc1bfc791565c3fc7d283314a40d2a1",
       "bytes": 153675,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ikat\\images\\va_O143421.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\ikat\\images\\va_O143421.jpg"
     }
   ],
   "map": {

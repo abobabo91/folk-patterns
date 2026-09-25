@@ -18,9 +18,13 @@
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a hand-woven ikat/supplementary-weft cloth (a sadum-style shawl or shoulder cloth) attributed to Toba Batak weavers of Sipaholon, matching known Batak textile forms and materials.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "9c99e5fc0ef73c2021096fd7adf23131472bd7846e9a2797a5e419792ae31a01",
       "bytes": 23117,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_2048221_europeana_fashion_192456.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_2048221_europeana_fashion_192456.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:51.619663+00:00"
+  "processed_at": "2026-07-28T18:43:28.357621+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persepolis",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a modern documentary photograph of the Achaemenid ruins at Persepolis (the Gate of All Nations lamassu reliefs) in Fars Province, Iran, with a tourist in the foreground; it is archaeological architecture from ancient Persia's homeland, so it fits \"Persian\" broadly, though it is a photo, not painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "030614-Perspolice-IMG 1273-2.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/persepolis/images/carch_302e7b3552b05a7e.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/persepolis/images/carch_302e7b3552b05a7e.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9a1a050599557544d90e6b246c68f3994ccca895176fc6c096abf73b09b5f870",
       "bytes": 655665,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\persepolis\\images\\carch_302e7b3552b05a7e.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persepolis\\images\\carch_302e7b3552b05a7e.jpg"
     }
   ],
   "map": {

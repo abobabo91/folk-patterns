@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photograph shows the stone gateway and thatched-roof pavilion walls of Pura Ulun Danu Beratan, a Balinese Hindu temple, which is Balinese architecture; the record's category is mislabeled as painting-mss but the ethnicity attribution is valid.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "001 Walls and Temple, Pura Ulun Danu Beratan, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-ulun-danu-bratan/images/carch_efc10ed812bf0d29.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-ulun-danu-bratan/images/carch_efc10ed812bf0d29.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "63cc721ac5b460cba755e60713a31b4c4dc33ab5c555a0d9049b82cebbefeaf1",
       "bytes": 372897,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-ulun-danu-bratan\\images\\carch_efc10ed812bf0d29.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-ulun-danu-bratan\\images\\carch_efc10ed812bf0d29.jpg"
     }
   ],
   "map": {

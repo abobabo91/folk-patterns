@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo Congo",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an iron implement—likely a hoe blade, currency, or throwing tool—consistent with forged ironwork traditions from the Congo region; plausible as a Kongo-made metal object.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "crap",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "a5d7a5e2b9aa43dea723318d86206f780c4c99b86f3974587224603e3d545968",
       "bytes": 7706,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\unclassified\\kongo-congo\\images\\eu_91619_SMVK_EM_objekt_1185575.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\unclassified\\kongo-congo\\images\\eu_91619_SMVK_EM_objekt_1185575.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:25.921975+00:00"
+  "processed_at": "2026-07-28T18:46:42.404188+00:00"
 }

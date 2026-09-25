@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Hanging Church",
-    "art_form": "textile",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This shows the Hanging Church (Coptic Christian church) in Old Cairo, Egypt — a building with a mosaic mural, tourists, and courtyard, not a textile at all; it is architectural, and does depict Coptic Egyptian heritage tied to the claimed ethnicity/location.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "+Die Hängende Kirche in Kairo... 04.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/architectural/hanging-church/images/carch_054aa0ea841a13b7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/textile/hanging-church/images/carch_054aa0ea841a13b7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8b0079ae3ad2a2668d49214093c7390bfbfa920720bfae80d45578bbcadc1179",
       "bytes": 322973,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\architectural\\hanging-church\\images\\carch_054aa0ea841a13b7.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\hanging-church\\images\\carch_054aa0ea841a13b7.jpg"
     }
   ],
   "map": {

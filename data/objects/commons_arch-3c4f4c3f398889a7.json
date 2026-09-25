@@ -17,8 +17,16 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Banteay Srei",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/1/13/A_doorway_at_Banteay_Srei.jp",
+    "vision_reason": "The image shows a carved sandstone doorway at Banteay Srei, a 10th-century Khmer temple in Siem Reap, Cambodia, showing the moulded doorframe and laterite wall construction typical of Angkorian architecture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "A doorway at Banteay Srei.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/banteay-srei/images/carch_3c4f4c3f398889a7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/photo/banteay-srei/images/carch_3c4f4c3f398889a7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "47ddb9daf8dff73e8fc416b1c129e6bc40afe02101598d223724a525bf535e05",
       "bytes": 841205,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\banteay-srei\\images\\carch_3c4f4c3f398889a7.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\photo\\banteay-srei\\images\\carch_3c4f4c3f398889a7.jpg"
     }
   ],
   "map": {

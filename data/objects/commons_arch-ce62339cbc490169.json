@@ -18,9 +18,15 @@
     "ethnicity": "Bukharan Jew",
     "tradition": "Synagogues in Uzbekistan",
     "art_form": "architectural",
-    "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/JBSZ_3D.jpg/1280px-JBS",
+    "vision_reason": "This is a 3D architectural rendering (\"3D\" in filename) of a modern Bukharan Jewish community center, featuring a menorah facade and Star of David motif — a building made by and for this community, though it's a contemporary render rather than a documentary photo.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "JBSZ 3D.jpg",
@@ -63,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/bukharan-jew/architectural/synagogues-in-uzbekistan/images/carch_ce62339cbc490169.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/bukharan-jew/photo/synagogues-in-uzbekistan/images/carch_ce62339cbc490169.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "36e5a87ab85b8f74b958e5741350b6b6e446d180eff78f078187e1c38b278aad",
       "bytes": 281481,
-      "local_path": "library\\central-asia\\uzbekistan\\bukharan-jew\\architectural\\synagogues-in-uzbekistan\\images\\carch_ce62339cbc490169.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\bukharan-jew\\photo\\synagogues-in-uzbekistan\\images\\carch_ce62339cbc490169.jpg"
     }
   ],
   "map": {
@@ -77,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:37:20.850980+00:00"
+  "processed_at": "2026-07-28T20:20:25.431464+00:00"
 }

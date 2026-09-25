@@ -20,8 +20,12 @@
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture shows a dark gray earthenware jar with a flared rim band of incised curvilinear designs above a plain lower body, matching the described Ban Chiang Neolithic vessel.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "ceramic",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Jar",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:05.937775+00:00"
+  "processed_at": "2026-07-28T18:41:20.931463+00:00"
 }

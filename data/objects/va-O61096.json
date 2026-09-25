@@ -13,14 +13,19 @@
     "accession_year": 1996
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A red longyi cloth with a warp-striped panel is a style of lower garment worn broadly across Myanmar (Bamar and Shan alike); the location note \"Shan State\" does not rule out Bamar attribution since the two groups share this garment type and the pattern is not diagnostic to either.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -230,13 +235,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O61096.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O61096.jpg",
       "iiif_id": "2020MP5177",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5177/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d288aa99f983c4d60f9f668b3499b35d011febc67082c0aeed02e5d239781e73",
       "bytes": 268833,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O61096.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O61096.jpg"
     }
   ],
   "map": {

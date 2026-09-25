@@ -19,8 +19,12 @@
     "tradition": "Minangkabau",
     "art_form": "photo",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
     "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photograph shows women and children in festival dress walking in front of a Minangkabau rumah gadang with its characteristic curved, horn-like roof gables, in a village setting with ceremonial decorations (cloth-wrapped poles) — a clear documentary scene of Minangkabau dress and architecture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "c9846654d3256411c27a65e8b205827d891d63d5a00801609b32f89c2dca4dca",
       "bytes": 15499,
-      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\minangkabau\\images\\eu_90402_RP_F_00_5346_4.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\minangkabau\\images\\eu_90402_RP_F_00_5346_4.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:15.690635+00:00"
+  "processed_at": "2026-07-28T18:43:43.790187+00:00"
 }

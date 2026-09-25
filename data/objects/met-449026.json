@@ -13,12 +13,19 @@
     "accession_year": "1935"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture shows a classic Safavid-style Persian manuscript painting — richly dressed courtly figures with turbans and swords gathered around sleeping figures in a rocky, pastel-colored landscape — consistent with a Falnama folio made within the Persian court tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "\"The Seven Sleepers of Ephesus\", Folio from a Falnama (Book of Omens)",
@@ -75,49 +82,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_449026.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_449026.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7c903e7998e3c850a21bfa52fadb98ff2defe1dd353198a3a775621a6b7cf9de",
       "bytes": 2619206,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_449026.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_449026.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_449026_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_449026_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "b1930e8e4030a063f34681ff5d16304aba174b3a55335bb0df4b30b122b28e55",
       "bytes": 3117460,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_449026_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_449026_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_449026_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_449026_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d8d82392eba85e636dcbe19051d3799f4bf371bf647d35a76e6c0c3e3ebfe2c0",
       "bytes": 2781041,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_449026_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_449026_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_449026_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_449026_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d24819fef01b1aec2b0b738db998ebe3f50de488a0ccffcb1cbbda1cd1e10eb4",
       "bytes": 3676862,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_449026_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_449026_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_449026_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_449026_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "7439392d452ec83540c963e924e376685890f5144863b11a7dabd6a110c2300d",
       "bytes": 268001,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_449026_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_449026_4.jpg"
     }
   ],
   "map": {

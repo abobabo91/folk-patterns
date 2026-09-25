@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Hanging Church",
-    "art_form": "textile",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This is a modern photograph of tourists visiting the Hanging Church (Coptic Cairo), a building associated with Coptic Egyptian Christian heritage; it is architecture, not a textile, but still belongs to Egyptian cultural heritage.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "+Die Hängende Kirche in Kairo... 03.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/architectural/hanging-church/images/carch_41919965bd7b6d40.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/textile/hanging-church/images/carch_41919965bd7b6d40.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a942e576e6c22ab1fe6251d045ffe07ed0cc521d9bbe38274738ca4c5063ea59",
       "bytes": 370449,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\architectural\\hanging-church\\images\\carch_41919965bd7b6d40.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\hanging-church\\images\\carch_41919965bd7b6d40.jpg"
     }
   ],
   "map": {

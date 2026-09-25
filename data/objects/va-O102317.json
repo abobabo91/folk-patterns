@@ -13,15 +13,19 @@
     "accession_year": 2001
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "wayang kulit",
     "art_form": "sculpture",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "This is a wayang kulit shadow puppet depicting Dewa Ruci, a pierced and painted leather figure with rod handles — a traditional Javanese performance object, correctly attributed to Java though best classified as sculpture/object rather than painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Dewa Ruci shadow puppet",
@@ -87,13 +91,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O102317.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/painting-mss/wayang-kulit/images/va_O102317.jpg",
       "iiif_id": "2019LV9032",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LV9032/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "908b5834d301d0a9612a4630bdd2c38a5fb37af0a22c8e03c2268750a85ad082",
       "bytes": 136398,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O102317.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\wayang-kulit\\images\\va_O102317.jpg"
     }
   ],
   "map": {

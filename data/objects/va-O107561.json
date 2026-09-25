@@ -13,14 +13,19 @@
     "accession_year": 1919
   },
   "cultural": {
-    "region": "southeast_asia",
-    "country": "Myanmar",
-    "ethnicity": "Bamar",
-    "tradition": "Shan weaving",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The picture shows a long red silk-and-cotton textile with fine woven stripes and an elaborate ikat-patterned border band with fringe — a Shan-style longyi cloth, a plausible traditional textile from the Myanmar region and consistent with the generic regional filing.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "garment",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -716,13 +721,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O107561.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/garment/lao-silk/images/va_O107561.jpg",
       "iiif_id": "2020MN9362",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9362/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "115c520a7c672159fa5e012516108255a03f39eb3417cf9f5459550b946afb57",
       "bytes": 413538,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O107561.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\garment\\lao-silk\\images\\va_O107561.jpg"
     }
   ],
   "map": {
@@ -730,5 +735,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:37:45.808985+00:00"
+  "processed_at": "2026-07-18T11:31:08.563096+00:00"
 }

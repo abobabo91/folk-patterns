@@ -17,8 +17,15 @@
     "country": "Somalia",
     "ethnicity": "Somali",
     "tradition": "Somali",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary press photo of a diplomatic meeting, with Somali officials wearing traditional white embroidered caps (koofiyad) alongside Italian officials in Western suits; the caps are a genuine element of Somali dress, though the photo itself documents a political event rather than craft or daily life.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Signs and the Somali president look up. Middle camp",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "840de4a95ff63db93fcec51448281fc3ba17e366a5e00c7a5cb52ae7e6a718c4",
       "bytes": 27364,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010894_gen11.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010894_gen11.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:31.919302+00:00"
+  "processed_at": "2026-07-28T18:48:29.208111+00:00"
 }

@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Kyrgyzstan",
     "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "tradition": "Kirghiz felt",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a felt seat cushion (shyrdak) with mosaic appliqué pattern in red, blue, and white, a technique and style closely associated with Kyrgyz nomadic craft, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "sittdyna",
@@ -31,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -66,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/unclassified/kyrgyz/images/eu_91608_SMVK_VKM_objekt_52133.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kirghiz-felt/images/eu_91608_SMVK_VKM_objekt_52133.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "693ac3694585e7a91a450bed59599e4734814a79659496bd41035ed31d0ed164",
       "bytes": 66839,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\unclassified\\kyrgyz\\images\\eu_91608_SMVK_VKM_objekt_52133.jpg"
+      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kirghiz-felt\\images\\eu_91608_SMVK_VKM_objekt_52133.jpg"
     }
   ],
   "map": {
@@ -80,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:26:17.300248+00:00"
+  "processed_at": "2026-07-28T18:41:52.702257+00:00"
 }

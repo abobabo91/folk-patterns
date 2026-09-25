@@ -13,12 +13,19 @@
     "accession_year": "1940"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "jewelry",
-    "pattern_density": 1
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A cast bronze amuletic pendant with pseudo-Kufic script border and a lion/scorpion talismanic design, from Nishapur, Iran — consistent with Persian metalwork amulets of the early Islamic period.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "metalwork",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Pendant with Lion and Scorpion",
@@ -67,22 +74,23 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_449929.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_449929.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "caa666a0410d07262e53cf05f4a82ed421d0eae6ecafa3e87e1cfa9d8df02e42",
       "bytes": 2765078,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_449929.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_449929.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_449929_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/metalwork/general/images/met_449929_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "0ddbc091f09e4fb2a8c0389edef22b56775b8fff69058bb530d4f47412732d72",
       "bytes": 16593,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_449929_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_449929_1.jpg",
+      "low_quality": true
     }
   ],
   "map": {

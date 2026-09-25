@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
-    "tradition": "Balinese",
+    "tradition": "Bali",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a classic Balinese geringsing double ikat cloth (Tenganan Pegeringsingan village), showing the characteristic dense floral-geometric medallion pattern in dark red/brown and cream cotton, consistent with traditional Balinese ceremonial textile production.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/balinese/images/cle_156262.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/bali/images/cle_156262.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d5b34ef11c7ddf5c11dc1e405da39e0d18ad0661fb55d2fdd10e5465d273c2c5",
       "bytes": 206899,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\cle_156262.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\bali\\images\\cle_156262.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:33.510658+00:00"
+  "processed_at": "2026-07-28T11:56:50.165898+00:00"
 }

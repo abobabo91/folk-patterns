@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic Turkmen (Central Asian) woven bag face with gul medallions and characteristic dark red palette, asymmetrical knotting, and wool structure matching Turkmen weaving traditions — consistent with the generic \"_regional\" (Central Asian) ethnicity claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -100,40 +104,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121174.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121174.jpg",
       "iiif_id": "2017KK4573",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KK4573/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d77e54602c954c6a427bda044c3fd5f73e5ab1462beb1747fdd872584c1b7c15",
       "bytes": 114477,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121174.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121174.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121174_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121174_1.jpg",
       "iiif_id": "2011EY9171",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011EY9171/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "adf2be04d2e658c9fd62c06ae7a0411096c2a811a3973c0915a54fd7729ea5a4",
       "bytes": 186990,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121174_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121174_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121174_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121174_2.jpg",
       "iiif_id": "2017KC9992",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC9992/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "11dbf91f5bd664c636afbffd4771b323c4077ef262b0c215e0bf758c8aa7e241",
       "bytes": 172415,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121174_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121174_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121174_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121174_3.jpg",
       "iiif_id": "2017KK4502",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KK4502/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d41fb48fc4ecf71aee132d5045ae75cf8cbcdf1c311a85eb6fffc2eff6dfb4e1",
       "bytes": 150681,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121174_3.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121174_3.jpg"
     }
   ],
   "map": {
@@ -141,5 +145,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:31:25.675479+00:00"
+  "processed_at": "2026-07-18T06:30:07.639890+00:00"
 }

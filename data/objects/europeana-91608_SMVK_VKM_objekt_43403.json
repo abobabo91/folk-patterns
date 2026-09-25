@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "jewelry",
-    "pattern_density": 1
+    "art_form": "masks-ritual",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a bundle of small carved wooden amulet figures bound together with cord and net wrapping, described as a Chokwe good-luck amulet collected in Angola — this fits the claimed Chokwe ethnicity as a worn/carried personal ritual object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "amulett, figurer, amulet",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "7721c6c777d7cdd99d7b306f250937efeb0ed9cf26a474e0af76600c99644c22",
       "bytes": 11223,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\jewelry\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43403.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\jewelry\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43403.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:14.206971+00:00"
+  "processed_at": "2026-07-28T18:47:06.957674+00:00"
 }

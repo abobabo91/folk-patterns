@@ -13,14 +13,19 @@
     "accession_year": 1983
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a handwoven silk longyi with acheik-style wavy weft patterning in maroon and gold, matching Bamar court/traditional dress from Amarapura.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -173,13 +178,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11258.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11258.jpg",
       "iiif_id": "2020MP4343",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4343/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "12a6816fc43a7bad57a47ccbe9d3bd9cb184c8cafec59dfc5b6ba16b44017412",
       "bytes": 268777,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11258.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11258.jpg"
     }
   ],
   "map": {

@@ -13,15 +13,19 @@
     "accession_year": 1993
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Khmer relief",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "A weathered sandstone torso of a standing figure with a distinctive tiered hairstyle, damaged arms, and broken below the waist — consistent with a Khmer (Angkorian-era) stone deity fragment, likely the described Krishna figure, in a plain museum photograph.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Standing Krishna",

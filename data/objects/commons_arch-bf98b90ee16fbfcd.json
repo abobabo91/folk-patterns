@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Hanging Church",
-    "art_form": "textile",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows the interior of the Hanging Church (Coptic Orthodox) in Cairo, with carved wood screens, ivory inlay, marble columns, and Coptic/Arabic embroidered altar curtains — Coptic Egyptian religious architecture and its furnishings, not a textile object in isolation.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "+Die Hängende Kirche in Kairo... 08.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/architectural/hanging-church/images/carch_bf98b90ee16fbfcd.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/textile/hanging-church/images/carch_bf98b90ee16fbfcd.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "76ca71fe44ce54ada9008c6450beaa3c9a257781c1e080979569db81ad44a096",
       "bytes": 474226,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\architectural\\hanging-church\\images\\carch_bf98b90ee16fbfcd.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\hanging-church\\images\\carch_bf98b90ee16fbfcd.jpg"
     }
   ],
   "map": {

@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Yomud gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic Turkmen (Yomut/Tekke-type) woven bag face with gul medallions, hand-knotted wool pile — a traditional Central Asian textile form, consistent with the broad \"_regional\" Central Asian attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -103,40 +107,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O67284.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O67284.jpg",
       "iiif_id": "2017KK3434",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KK3434/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "eee1afdb6badf7050c36a6daa8c3308ff4fc3039d95879ff4af84c7538ffa254",
       "bytes": 109133,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O67284.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O67284.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O67284_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O67284_1.jpg",
       "iiif_id": "2006AK4773",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AK4773/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fe5bec9fd4cc2853139a0cce04958fc653d6799d1794b4ed9965bebb118ed016",
       "bytes": 198927,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O67284_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O67284_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O67284_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O67284_2.jpg",
       "iiif_id": "2013GB4195",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2013GB4195/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "36874e261fbb4665c192a3a16bd5e541a4379d49bdc6e8f656e8e3a78946caba",
       "bytes": 427704,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O67284_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O67284_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/yomud-gul/images/va_O67284_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O67284_3.jpg",
       "iiif_id": "2017KK3697",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KK3697/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "8beb076f2133c1dbbac0d5d4b3927ec58ed0eee6c61c6c84217038306c944027",
       "bytes": 134473,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\yomud-gul\\images\\va_O67284_3.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O67284_3.jpg"
     }
   ],
   "map": {
@@ -144,5 +148,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:32:08.375923+00:00"
+  "processed_at": "2026-07-18T06:29:51.740243+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Ochre-dyed hide/blanket skirt with beaded edging and decorative panels, matching documented Xhosa \"red blanket\" (bomvana) traditional dress.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Cuffed skirt part of Xhosa costume",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "f6fc8c18344eaa75bef29f9c53644c690cc4c795729a7b5fbaba0b4edecc7bd9",
       "bytes": 22463,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\garment\\xhosa\\images\\eu_2048221_europeana_fashion_449115.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\garment\\xhosa\\images\\eu_2048221_europeana_fashion_449115.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:01.745038+00:00"
+  "processed_at": "2026-07-28T18:47:32.630579+00:00"
 }

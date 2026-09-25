@@ -19,8 +19,13 @@
     "tradition": "kebaya",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A green cotton kebaya blouse with floral silk embroidery, a traditional garment worn by Malay and Peranakan women in Malaysia, matching the regional claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -305,31 +310,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/kebaya/images/va_O1263704.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/kebaya/images/va_O1263704.jpg",
       "iiif_id": "2015HP6360",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2015HP6360/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "9c3c35881fc287d91c00f093e4ebb4c65121f4b944c3135401e7c875e2f2ea78",
       "bytes": 132991,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\kebaya\\images\\va_O1263704.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\kebaya\\images\\va_O1263704.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/kebaya/images/va_O1263704_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/kebaya/images/va_O1263704_1.jpg",
       "iiif_id": "2015HP6361",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2015HP6361/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "57544c3239b9686c91d88af8b3f9efcd8c0c41931e0b663b61e5bd2162292055",
       "bytes": 124583,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\kebaya\\images\\va_O1263704_1.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\kebaya\\images\\va_O1263704_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/kebaya/images/va_O1263704_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/kebaya/images/va_O1263704_2.jpg",
       "iiif_id": "2015HP6362",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2015HP6362/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "561100205965146808856ffadc55580fd23e2e1c9949fee30cef1805c8de7047",
       "bytes": 104827,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\kebaya\\images\\va_O1263704_2.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\kebaya\\images\\va_O1263704_2.jpg"
     }
   ],
   "map": {

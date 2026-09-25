@@ -18,7 +18,14 @@
     "ethnicity": "Yoruba",
     "tradition": "Yoruba Nigeria",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a full Egungun masquerade costume with sequined, appliquéd panels, cowrie-shell fringe, and beaded boots, an outfit characteristic of the Yoruba Egungun ancestral cult, matching both the claimed ethnicity and the museum's description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Egungun costume",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:46:00.764152+00:00"
+  "processed_at": "2026-07-28T18:45:35.260044+00:00"
 }

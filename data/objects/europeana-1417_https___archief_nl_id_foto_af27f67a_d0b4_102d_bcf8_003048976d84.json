@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a woman weaving on a traditional backstrap-style loom, an activity documented for both Javanese and Balinese women; the image itself is consistent with the claimed Balinese identity, though the museum's own title is uncertain between the two.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "84f8b977bcf1e397400fb837d7759fc4ac04bbacc41e76d9c836c286e2f174e9",
       "bytes": 15154,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_af27f67a_d0b4_102d_bcf8_003048976d84.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_af27f67a_d0b4_102d_bcf8_003048976d84.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:20.837308+00:00"
+  "processed_at": "2026-07-28T18:43:08.425181+00:00"
 }

@@ -13,14 +13,19 @@
     "accession_year": 1900
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Samarkand tile",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "art_form": "ceramic",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows numerous excavated moulded ceramic sherds and fragments (tiles, vessel fragments, lamp fragments) from Samarkand, consistent with terracotta/architectural ceramics of the region historically associated with Uzbek/Central Asian material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": null,
@@ -1030,22 +1035,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O278975.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/ceramic/samarkand-tile/images/va_O278975.jpg",
       "iiif_id": "2019LY2952",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LY2952/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "ba7004fc741281193666fa9be9a7b10f9e474a05479b07442c9c19ccc1be084b",
       "bytes": 176374,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O278975.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\ceramic\\samarkand-tile\\images\\va_O278975.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/architectural/samarkand-tile/images/va_O278975_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/ceramic/samarkand-tile/images/va_O278975_1.jpg",
       "iiif_id": "2019LY2953",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LY2953/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fdda7580d437fabb9b314a02f424b2a7ac746b6256b411f9f543503bb819443c",
       "bytes": 174592,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\architectural\\samarkand-tile\\images\\va_O278975_1.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\ceramic\\samarkand-tile\\images\\va_O278975_1.jpg"
     }
   ],
   "map": {

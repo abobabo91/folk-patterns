@@ -17,8 +17,15 @@
     "country": "Kenya",
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a metal spearhead described as a Maasai lance, a weapon used by the Maasai; this is a weapon, not jewelry, so the claimed category is wrong, but the ethnicity attribution is plausible.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Lance des Massais",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/unclassified/maasai-kenya/images/eu_1269_mnha98812.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/jewelry/maasai-kenya/images/eu_1269_mnha98812.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3f4c4ce1bb10677652fdd12068a1943e53f332064034df283737e26e9a622432",
       "bytes": 5911,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_1269_mnha98812.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\jewelry\\maasai-kenya\\images\\eu_1269_mnha98812.jpg",
+      "low_quality": true
     }
   ],
   "map": {

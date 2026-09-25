@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Kurdish (Turkish)",
     "tradition": "Hoşap Castle",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture is a close-up of a carved stone portal on a massive round tower, with an arched inscription panel flanked by carved lion reliefs — matching the described Hoşap Castle, a 17th-century Kurdish fortress, so it belongs; it is a building-ornament detail rather than a documentary scene of people.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "architectural",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Güzelsu, Burg Hoşap (kurdisch, 17. Jhdt.) (38611354250).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/kurdish-turkish/architectural/hosap-castle/images/carch_8557d02771b0c02c.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/kurdish-turkish/photo/hosap-castle/images/carch_8557d02771b0c02c.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0b61ae7894904a51e35d4f8d23fa0643fe7ffcfd21dafc9b5a10cceaa8f2845b",
       "bytes": 296010,
-      "local_path": "library\\middle-east-north-africa\\turkey\\kurdish-turkish\\architectural\\hosap-castle\\images\\carch_8557d02771b0c02c.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\kurdish-turkish\\photo\\hosap-castle\\images\\carch_8557d02771b0c02c.jpg"
     }
   ],
   "map": {

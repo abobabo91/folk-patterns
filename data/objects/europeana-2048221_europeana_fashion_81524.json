@@ -18,7 +18,14 @@
     "ethnicity": "Zulu",
     "tradition": "Zulu",
     "art_form": "jewelry",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a beaded necklace with a geometric beadwork pendant (\"love letter\") of a type made and worn by Zulu youth in courtship traditions, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Kralen halssieraad 'liefdesbrief'",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "cb8ef879b8fb40efea2d05174263441a000859ac36457eb37ec80772cc73e2b1",
       "bytes": 29082,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\unclassified\\zulu\\images\\eu_2048221_europeana_fashion_81524.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\unclassified\\zulu\\images\\eu_2048221_europeana_fashion_81524.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:06:03.249944+00:00"
+  "processed_at": "2026-07-28T18:47:28.417337+00:00"
 }

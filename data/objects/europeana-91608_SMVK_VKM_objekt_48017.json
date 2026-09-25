@@ -19,8 +19,13 @@
     "tradition": "Thai",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A handwoven silk ikat shawl with diamond lattice motifs, explicitly documented as woven in Isan, Northeast Thailand — a textile made and used by Thai (Isan/Lao-Thai) weavers, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "sjal",
@@ -65,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/unclassified/thai/images/eu_91608_SMVK_VKM_objekt_48017.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/textile/thai/images/eu_91608_SMVK_VKM_objekt_48017.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e1f070f9fee6f9053c18bdf492a9224435794ef33f5834c060433c8107903522",
       "bytes": 33603,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_91608_SMVK_VKM_objekt_48017.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\eu_91608_SMVK_VKM_objekt_48017.jpg"
     }
   ],
   "map": {

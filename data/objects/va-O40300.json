@@ -13,14 +13,19 @@
     "accession_year": 1886
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "kalaga",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a kalaga, a Burmese embroidered/appliqué wall hanging depicting scenes from Jataka tales, made and used by the Bamar; it is a traditional textile art form, not a manuscript painting.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -438,193 +443,193 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300.jpg",
       "iiif_id": "2018KY7832",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7832/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "978ba872d7fb8aac4a9651f65386335f433aba1ace94c83df08c49c95f3b931d",
       "bytes": 361017,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_1.jpg",
       "iiif_id": "2018KY7838",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7838/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "eb01a64da13f1096200301692f582fc2b63f305ee87057bcb8a124208915c1e5",
       "bytes": 188200,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_2.jpg",
       "iiif_id": "2018KY7839",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7839/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "7f4f58ac1f4578900c2f550e45e932b23f3b18af64a9802da9a45ee2f29245ab",
       "bytes": 175871,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_3.jpg",
       "iiif_id": "2018KY7841",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7841/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "9cad8623ad638752fe64102d29f785aa7f86605b77d1e9a430aa8989fcdc3f54",
       "bytes": 183934,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_3.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_4.jpg",
       "iiif_id": "2018KY7842",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7842/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fe39b8b89b33110c2868ad4676a21eb321fb51f0abe00f787b4f5d3e380726ca",
       "bytes": 182928,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_4.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_5.jpg",
       "iiif_id": "2018KY7843",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7843/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "c172c0e79b7e8c9136ea653f530c071b84e4cf88bb6fc34d45a9e40e1353346d",
       "bytes": 177492,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_5.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_6.jpg",
       "iiif_id": "2018KY7884",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7884/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "3688c5ab2a356dbf64e2f756edbdde59bfdf3d70cc9dc66f84ef3785a31dcd4a",
       "bytes": 176945,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_6.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_6.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_7.jpg",
       "iiif_id": "2018KY7886",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7886/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "838ec34b7e0d705e59058dcfaee1c40e5dc58b04f616ebe725cfefbc7345e0b7",
       "bytes": 181176,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_7.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_7.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_8.jpg",
       "iiif_id": "2018KY7887",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7887/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "acbfa2467fe616edb29649fe9e6f9615eaf9ade2a01a1c9fcda400b9bb1f797a",
       "bytes": 181312,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_8.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_8.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_9.jpg",
       "iiif_id": "2006AV2518",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AV2518/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "6c04c12719ee697b55f16acd6a1f8f7b1ff9b5fe0573e325074ffccd88c4fc89",
       "bytes": 281059,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_9.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_9.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_10.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_10.jpg",
       "iiif_id": "2018KY7834",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7834/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "13df653ec33812668d04fa8570c788978a341b469684b42626672af40dc5c157",
       "bytes": 86683,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_10.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_10.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_11.jpg",
       "iiif_id": "2018KY7835",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY7835/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "846e67cbcc03ea3bb20d05975e8be34a9c05985cee07eed6e67e49b72341f020",
       "bytes": 207302,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_11.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_11.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_12.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_12.jpg",
       "iiif_id": "2018LA7565",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7565/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "6b5ee71517e703969c8828ee60c31c025ddc29a031699fa3fcd89518afb83e76",
       "bytes": 347693,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_12.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_12.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_13.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_13.jpg",
       "iiif_id": "2018LA7566",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7566/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e867235aa1a5daf18f7920b16710c8f567d279dc6e6eb296ee34e3c2ff8d43d4",
       "bytes": 434536,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_13.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_13.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_14.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_14.jpg",
       "iiif_id": "2018LA7569",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7569/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1ac5b6dc0db9092fdaea16be3049730be2d4bfb70d23cf25e6006fa022aef007",
       "bytes": 163169,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_14.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_14.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_15.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_15.jpg",
       "iiif_id": "2018LA7571",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7571/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "bc9bd6c28b06ae8d0648e567019210c7dafe2ecec2eab734c4754d92990662f5",
       "bytes": 257751,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_15.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_15.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_16.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_16.jpg",
       "iiif_id": "2018LA7572",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7572/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b52a6837e31e41cbf3d92abcb30cfcf6406c5dcebdca6ecf7c28036aac557509",
       "bytes": 218764,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_16.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_16.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_17.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_17.jpg",
       "iiif_id": "2018LA7573",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7573/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ccd531fd567e89ae7918e4b2297a36aabd38091c4dd4b8fc0583cac7490f3067",
       "bytes": 238837,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_17.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_17.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_18.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_18.jpg",
       "iiif_id": "2018LA7575",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7575/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "6450d25bd45a8c9ee2fc8712da314e24b70396443c57f6d7b19f5aa69e018dec",
       "bytes": 261725,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_18.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_18.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_19.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_19.jpg",
       "iiif_id": "2018LA7578",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7578/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "8bd8d98eafec1784acb1918af91d0bf361feab0af18e30ce89d5294a30305d79",
       "bytes": 231409,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_19.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_19.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/kalaga/images/va_O40300_20.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O40300_20.jpg",
       "iiif_id": "2018LA7580",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2018LA7580/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "092aa39a38d8237d1b593c08fd6fd6d7073b5c52024f4c59336bb77acab9f064",
       "bytes": 255820,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\kalaga\\images\\va_O40300_20.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O40300_20.jpg"
     }
   ],
   "map": {

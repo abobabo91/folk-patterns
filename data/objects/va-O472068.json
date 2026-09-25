@@ -13,15 +13,19 @@
     "accession_year": 1993
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain panjang",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a classic Javanese batik kain panjang (skirt cloth) in traditional zig-zag (parang-like) format with figural motifs, matching the claimed Javanese ethnicity and garment category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -89,31 +93,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472068.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O472068.jpg",
       "iiif_id": "2006AT8360",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8360/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "427a00e0d8336fe923fc31757aa2e36da7d3c061e612ae564e6d512aec53ca11",
       "bytes": 214653,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472068.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O472068.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472068_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O472068_1.jpg",
       "iiif_id": "2006AT8358",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8358/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "16a17487a9de1de5118f8196024687a8f4c52d539adc808e3bdc594ad3688fd2",
       "bytes": 247957,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472068_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O472068_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O472068_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O472068_2.jpg",
       "iiif_id": "2006AT8357",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8357/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "fe2503294e36b5f6e6e060af3e6c266a59798dfdbab099fcf7c4b11a49254f9d",
       "bytes": 243609,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O472068_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O472068_2.jpg"
     }
   ],
   "map": {

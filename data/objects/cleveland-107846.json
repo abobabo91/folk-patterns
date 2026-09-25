@@ -20,7 +20,11 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A long fringed silk-and-metal-thread brocade cloth with geometric diamond patterning, consistent with Minangkabau supplementary-weft weaving traditions from Sumatra.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:46.851583+00:00"
+  "processed_at": "2026-07-28T18:41:20.270880+00:00"
 }

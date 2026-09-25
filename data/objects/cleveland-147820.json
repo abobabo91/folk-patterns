@@ -18,7 +18,14 @@
     "ethnicity": "Kongo",
     "tradition": "Kongo",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a wooden standing male figure with glass-inset eyes, consistent with Kongo/Vili power figure traditions from the region, matching the museum's attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Male Figure",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:55.022952+00:00"
+  "processed_at": "2026-07-28T18:41:32.237177+00:00"
 }

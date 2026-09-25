@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The building is a museum in Jakarta built in traditional Balinese architectural style, with meru-like tiered roofs and elaborate Balinese stone carving/reliefs, so despite being a modern museum construction it fits Balinese architectural forms and ornament.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Museum Indonesia Main Building.jpg",

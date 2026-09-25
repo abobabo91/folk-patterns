@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The photo shows the ornate interior of a Nguyễn dynasty palace hall (Khải Định era, Huế) with lacquered furniture, carved pillars, lanterns, and a ceramic vase — Kinh royal court craftsmanship and architecture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "27482324309 9077e026d1 h TPNY.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/architectural/imperial-city-hue/images/carch_3367d6539be1ccd3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/photo/imperial-city-hue/images/carch_3367d6539be1ccd3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "26bf5aef42b88a9f40e75975e98350cad515c4c0d97f13733f1c6104587c67bc",
       "bytes": 349086,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\architectural\\imperial-city-hue\\images\\carch_3367d6539be1ccd3.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\kinh\\photo\\imperial-city-hue\\images\\carch_3367d6539be1ccd3.jpg"
     }
   ],
   "map": {

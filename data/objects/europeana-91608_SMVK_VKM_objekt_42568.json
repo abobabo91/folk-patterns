@@ -18,7 +18,14 @@
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
     "art_form": "household",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a simple handmade snare trap made of bent twigs/reed, collected in Angola by the Bolinder expedition and described as a small-animal snare used by a boy — a plausible traditional tool from the Chokwe homeland region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "snara",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "346e136b546a0875390233286d7434144941646b958acdaee1cef9cea7eea9b6",
       "bytes": 12282,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42568.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42568.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:15.934491+00:00"
+  "processed_at": "2026-07-28T18:47:07.003709+00:00"
 }

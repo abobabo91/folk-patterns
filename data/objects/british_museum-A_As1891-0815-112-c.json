@@ -17,8 +17,15 @@
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A handwoven warp-faced ikat and striped silk/cotton belt/sash, consistent with Central Asian (Uzbek) textile traditions and plausible for the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "belt; sash",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/uzbek/images/bm_A_As1891-0815-112-c.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbek/images/bm_A_As1891-0815-112-c.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "535e7786fa63d0ae5bc4a575c4e6f1927b38e0f26f46626a0ede3d8b6d04ce54",
       "bytes": 230584,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\uzbek\\images\\bm_A_As1891-0815-112-c.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbek\\images\\bm_A_As1891-0815-112-c.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:44.817026+00:00"
+  "processed_at": "2026-07-28T18:57:30.882099+00:00"
 }

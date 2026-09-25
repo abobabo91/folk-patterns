@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Persian",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A painted portrait of a young woman in Persian costume (jacket, blouse, flowered skirt, feathered headdress) from an album of Persian costume paintings, matching the claimed Persian ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "album; painting",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/persian/images/bm_W_1921-0614-0-1-7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/persian/images/bm_W_1921-0614-0-1-7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7aa32032c0ceea5d4d07e48a70c31476fbb292faae012618ff35b90708217db7",
       "bytes": 277649,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\persian\\images\\bm_W_1921-0614-0-1-7.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian\\images\\bm_W_1921-0614-0-1-7.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:58.795356+00:00"
+  "processed_at": "2026-07-28T18:59:08.084448+00:00"
 }

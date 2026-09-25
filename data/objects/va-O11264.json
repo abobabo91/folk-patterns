@@ -13,14 +13,19 @@
     "accession_year": 1988
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a warp-ikat cotton longyi cloth with floral motifs, a traditional woman's garment worn in Myanmar (Amarapura), consistent with Bamar dress even though the design imitates a Chiangmai style.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -230,13 +235,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11264.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11264.jpg",
       "iiif_id": "2020MP5164",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5164/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "c30291dba4403e0f5a422bebfc32d3dd8f74d5538311f2965a69ed285bbe934b",
       "bytes": 110670,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11264.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11264.jpg"
     }
   ],
   "map": {

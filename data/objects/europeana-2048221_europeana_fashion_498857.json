@@ -18,7 +18,14 @@
     "ethnicity": "Berber",
     "tradition": "Berbère Maroc",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a silver necklace with eight disc pendants bearing spiral motifs and coral-colored bead spacers, a documented Berber (Ahl Massa, southwestern Morocco) jewelry type, matching the metadata description precisely.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Necklace with spiral-motif pendants",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "1cfdc5ccfcdba2ef56d6769981bd5833889fee2c88ba0cdb0e96c40cdf320b27",
-      "bytes": 26949,
+      "sha256": "16a47e228dd2ca829ae89372dad8d2fbe25d677cb89954022c70222700b8f150",
+      "bytes": 2202834,
       "local_path": "library\\middle-east-north-africa\\morocco\\berber\\jewelry\\berbere-maroc\\images\\eu_2048221_europeana_fashion_498857.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:50:09.888308+00:00"
+  "processed_at": "2026-07-28T18:42:21.714072+00:00"
 }

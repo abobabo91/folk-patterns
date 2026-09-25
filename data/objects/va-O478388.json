@@ -13,14 +13,19 @@
     "accession_year": 1984
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Laos",
     "ethnicity": "Lao",
     "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A checkered silk shoulder cloth in green and magenta is a classic Lao/Tai weaving form, consistent with traditional Lao textile production.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,

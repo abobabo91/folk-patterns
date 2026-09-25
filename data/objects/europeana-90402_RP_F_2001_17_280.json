@@ -19,8 +19,12 @@
     "tradition": "Minangkabau",
     "art_form": "architectural",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
     "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a traditional Minangkabau rumah gadang with its distinctive curved, horn-like buffalo-horn roof gables in Bukittinggi, West Sumatra — a clear example of Minangkabau vernacular architecture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "architectural"
   },
   "physical": {
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:13.800657+00:00"
+  "processed_at": "2026-07-28T18:43:41.748746+00:00"
 }

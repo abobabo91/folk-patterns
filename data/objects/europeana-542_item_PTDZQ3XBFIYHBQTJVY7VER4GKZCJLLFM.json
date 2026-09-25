@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kongo",
     "tradition": "Kongo Congo",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a snapshot of a Congolese boys' choir performing in a town hall in Freiburg, Germany — a documentary photo of a group from Kinshasa, but the subject is the event/performance itself rather than depicting distinctive Kongo dress, craft or daily life; the T-shirts are modern uniform apparel, not traditional garments.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Freiburg: Rathaus, Kongo Knabenchor Chem Chem Yetu des Ökumenischen Jugendzentrums Carrefour des Jeunes in Kinshasa in der Aula des Rathauses",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "5b66f3c8b2fd29e0f5ff10b3b59770c4b70f94b541803935cfc4927f248fe863",
       "bytes": 23513,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\unclassified\\kongo-congo\\images\\eu_542_item_PTDZQ3XBFIYHBQTJVY7VER4GKZCJLLFM.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\unclassified\\kongo-congo\\images\\eu_542_item_PTDZQ3XBFIYHBQTJVY7VER4GKZCJLLFM.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:34.934351+00:00"
+  "processed_at": "2026-07-28T18:46:50.351343+00:00"
 }

@@ -13,14 +13,19 @@
     "accession_year": 1919
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Shan weaving",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a hand-woven textile panel with a checked terracotta field and intricate weft-ikat and supplementary-weft banded borders with fret, hook, and floral motifs — a style typical of Shan textile weaving traditions in Myanmar. The museum's own location metadata identifies it as Shan, not Bamar, but Shan and Bamar are neighbouring Myanmar groups whose textile traditions cannot be reliably told apart from the object alone, so it still fits the region and claimed culture per the guidance.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,

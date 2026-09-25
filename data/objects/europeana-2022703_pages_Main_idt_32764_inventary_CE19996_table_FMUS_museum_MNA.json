@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an embroidered vest/bodice, described as ritual Gerewol festival attire of the Fulbe (Fulani) people; the record's \"Senegal\" vs museum's \"Niger\" is a minor location discrepancy but both refer to the same Fulani/Fulbe ethnic group, so this is a garment they wore.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Chaleco",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:40.421494+00:00"
+  "processed_at": "2026-07-28T18:45:29.090638+00:00"
 }

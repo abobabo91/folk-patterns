@@ -17,8 +17,15 @@
     "country": "Egypt",
     "ethnicity": "Egyptian",
     "tradition": "Egyptian Coptic textile",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a Coptic tapestry-woven textile fragment used as a garment ornament, found in an Egyptian grave — consistent with Coptic/Egyptian textile production of the period.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Coptic tissue fragment with animal figure",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/sculpture/egyptian-coptic-textile/images/eu_2048221_europeana_fashion_98059.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/garment/egyptian-coptic-textile/images/eu_2048221_europeana_fashion_98059.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6aaa64867ffefc980dd39c1a98004c604b3e74ed1ea8ba63977ddeca092a1397",
       "bytes": 47238,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\sculpture\\egyptian-coptic-textile\\images\\eu_2048221_europeana_fashion_98059.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\garment\\egyptian-coptic-textile\\images\\eu_2048221_europeana_fashion_98059.jpg"
     }
   ],
   "map": {

@@ -19,8 +19,13 @@
     "tradition": "keris",
     "art_form": "metalwork",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a carved ebony keris hilt with gold-mounted fittings, a classic Malay dagger component consistent with Malaysian regional craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": null,
@@ -771,13 +776,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/metalwork/keris/images/va_O450787.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/metalwork/keris/images/va_O450787.jpg",
       "iiif_id": "2020MP8537",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8537/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6f8380f4e856da99f0bea1f8ac9fb5ad1530093a08d4130fb8635b57c33cbf62",
       "bytes": 112028,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\metalwork\\keris\\images\\va_O450787.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\metalwork\\keris\\images\\va_O450787.jpg"
     }
   ],
   "map": {

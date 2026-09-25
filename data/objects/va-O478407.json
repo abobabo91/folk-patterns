@@ -13,15 +13,19 @@
     "accession_year": 1977
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kawung",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a floral batik-printed cotton cloth on a bed, but it lacks the geometric kawung motif and traditional coloring described in the museum record — instead it shows a European-style floral chintz pattern with a diaper background, inconsistent with classic Javanese batik design. However, floral batik sarongs with such motifs were indeed produced in Java (Pekalongan-style), so this is plausible as a Javanese sarong.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -159,22 +163,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kawung/images/va_O478407.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kawung/images/va_O478407.jpg",
       "iiif_id": "2017JX7760",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7760/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "3ed6bd04e1664894b876f3a64f0b032c5a391ddfa79e83bb39e88c7697230e43",
       "bytes": 257572,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kawung\\images\\va_O478407.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kawung\\images\\va_O478407.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kawung/images/va_O478407_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kawung/images/va_O478407_1.jpg",
       "iiif_id": "2017JX7761",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7761/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "56b7b89338804bf07f72fdeaecf5d6a1d4156e160ad2f181903377bd841c3527",
       "bytes": 259964,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kawung\\images\\va_O478407_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kawung\\images\\va_O478407_1.jpg"
     }
   ],
   "map": {

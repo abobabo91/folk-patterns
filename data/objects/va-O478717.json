@@ -19,8 +19,13 @@
     "tradition": "Thai silk",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a songket silk scarf with gold/silver supplementary weft floral and geometric motifs, a traditional Malay textile craft consistent with the regional Malaysia claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -195,22 +200,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/thai-silk/images/va_O478717.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/thai-silk/images/va_O478717.jpg",
       "iiif_id": "2011FB0544",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0544/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "cae53533c0073a3b5498582d291cb4410a387afedea3425465c88eabd89b1f78",
       "bytes": 459408,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\thai-silk\\images\\va_O478717.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\thai-silk\\images\\va_O478717.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/thai-silk/images/va_O478717_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/thai-silk/images/va_O478717_1.jpg",
       "iiif_id": "2011FB0574",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0574/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "0f58d1a567f56edbb11ac19137bbb498b5976e2ec8650de47487a89031b6a572",
       "bytes": 138393,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\thai-silk\\images\\va_O478717_1.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\thai-silk\\images\\va_O478717_1.jpg"
     }
   ],
   "map": {

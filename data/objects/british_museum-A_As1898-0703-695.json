@@ -18,7 +18,14 @@
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a small silk ikat bag with a tasseled corner closure, a form typical of Central Asian (including Uzbek) ikat textile production; the striped ikat pattern and construction are plausible for the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "bag",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:40.719800+00:00"
+  "processed_at": "2026-07-28T18:57:28.240350+00:00"
 }

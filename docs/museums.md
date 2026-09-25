@@ -29,6 +29,29 @@ All keyed, all free, ~2 min signup each. When scaling beyond the current region.
 - **Indigenous Americas / African American folk art** → Smithsonian OA.
 - **SE Asia / Indonesian batik** → Rijksmuseum first (Dutch colonial holdings are enormous), Tropenmuseum via Europeana second.
 
+## Source quality — measured on the full re-vet (2026-09-24)
+
+Every one of the 4,625 library records judged by the current vetter ([vetting.md](vetting.md)). `weak+unusable`, `modern`, `archaeological` are shares of the kept records; `category changed` is how often the vetter's `art_form` differs from the scrape-time classifier's.
+
+| source | records | kept | dropped | weak + unusable | modern | archaeological | category changed |
+|---|---|---|---|---|---|---|---|
+| British Museum | 1,322 | 873 | **34%** | 2% | 10% | 5% | 27% |
+| Wikimedia Commons (arch) | 1,295 | 1,162 | 10% | 5% | 7% | 15% | 22% |
+| Europeana | 866 | 642 | **26%** | 4% | 8% | 1% | **57%** |
+| Cleveland | 559 | 543 | 3% | 0% | 0% | 34% | 27% |
+| V&A | 466 | 429 | 8% | 0% | 0% | 3% | 33% |
+| Met | 69 | 66 | 4% | 0% | 0% | 27% | 12% |
+| Smithsonian | 33 | 32 | 3% | 0% | 3% | 0% | 6% |
+| Rijksmuseum | 15 | 8 | 47% | 0% | 38% | 12% | 100% |
+
+Why each source's drops happen (drop reasons bucketed by keyword, then read):
+
+- **British Museum — ethnonym search against a print room.** 170 of 449 drops are European or outsider art (engravings, drawings, Rubens, fashion sketches), 135 name another people or a distant style, 82 are scans or cards. Almost all of it comes from short ethnonyms that are also words: San 93% dropped (55 of its 64 drops from BM), Chin 86%, Cham 80%, Maasai 74%, Fang 50%. **Moving forward: query BM by department (Africa, Oceania & Americas; Asia) and object type, never by bare ethnonym for San, Chin, Cham, Fang, Maasai, Iban, Thai.**
+- **Europeana — documents, not objects.** 149 of 224 drops are scans, catalogue cards, newspaper pages, book covers or placeholder icons (thumbnails of `type=TEXT` records), and it has the worst category accuracy (57% re-categorised). Word collisions too: Estonian `kalaga` ("with fish") under Bamar. **Moving forward: request `type=IMAGE` or `3D` only**, and treat its category as unknown.
+- **Wikimedia Commons (arch)** — low drop rate, but its drops are its own kind: signboards, nature close-ups at a site, souvenirs, a cat in a kasbah, and 42 of its images failed on 429 until the User-Agent carried contact info (see [cloud-vetting.md](cloud-vetting.md)). Most archaeological material comes from here and Cleveland.
+- **Cleveland, V&A, Met, Smithsonian — curated, and the vetter agrees**: 3–8% dropped, and those drops are almost all *misfiles*, not junk — Shan cloths under Bamar, Javanese puppets and batik under Balinese, Cham temple sculpture under Kinh, Khmer ware under Thai. The object is good; the ethnicity is wrong. These are the best sources to expand from.
+- **Rijksmuseum** — too few records to judge (15); its drops were colonial-exhibition posters and Dutch album covers.
+
 ## Rate limits
 
 None of these APIs publish a hard rate limit on their open-access endpoints. 0.5 s between requests

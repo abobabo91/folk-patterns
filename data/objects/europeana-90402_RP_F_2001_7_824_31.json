@@ -18,7 +18,14 @@
     "ethnicity": "Kongo",
     "tradition": "Kongo Congo",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture shows an open book with a captioned photographic plate of a shirtless man labelled as a portrait of a Bakongo person, a documentary ethnographic portrait rather than an object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Portret van een kruier van de Bakongo",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:16.016409+00:00"
+  "processed_at": "2026-07-28T18:46:38.912414+00:00"
 }

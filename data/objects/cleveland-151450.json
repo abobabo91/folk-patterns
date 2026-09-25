@@ -19,8 +19,12 @@
     "tradition": "Thai",
     "art_form": "ceramic",
     "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a painted pedestal-footed earthenware vessel (tazza) from Ban Chiang, a Neolithic archaeological culture in present-day Thailand; it is archaeology of the claimed region, so it belongs despite predating modern Thai ethnic identity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:06.171193+00:00"
+  "processed_at": "2026-07-28T18:41:21.184862+00:00"
 }

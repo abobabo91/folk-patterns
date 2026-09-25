@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic Bukhara suzani-style embroidered panel with silk floral rosette embroidery on cotton, a well-documented Uzbek textile tradition made and used within the culture (as a curtain or hanging).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Panel, Probably from a Curtain",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:45.224352+00:00"
+  "processed_at": "2026-07-28T18:40:55.447181+00:00"
 }

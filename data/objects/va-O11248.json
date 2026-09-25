@@ -13,14 +13,19 @@
     "accession_year": 1983
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a woman's silk longyi with the classic acheik wave pattern in yellow on a dark purple ground, a garment style specifically associated with Bamar (Burmese) court and traditional dress, matching the museum's description and Amarapura provenance.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -172,13 +177,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11248.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11248.jpg",
       "iiif_id": "2020MP4342",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4342/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "106f83dbcd1e58536cdea16c3d22f5538777774b7dea407fcbfe6750fb2c6ae7",
       "bytes": 250319,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11248.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11248.jpg"
     }
   ],
   "map": {

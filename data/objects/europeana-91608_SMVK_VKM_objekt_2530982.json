@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Kyrgyzstan",
     "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "tradition": "Kirghiz felt",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A felted wool carpet with geometric diamond patterning, collected directly from Kyrgyz yurt-dwellers in the Pamir border region as described in the donor's account; felt rugs (shyrdak/ala-kiyiz style) are a hallmark Kyrgyz craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "matta, carpet",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kyrgyz/images/eu_91608_SMVK_VKM_objekt_2530982.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kirghiz-felt/images/eu_91608_SMVK_VKM_objekt_2530982.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "b204fc8a132d0a4f7632526ef0b6fc873c4e01446046e7f9972708fa6561d543",
-      "bytes": 302604,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kyrgyz\\images\\eu_91608_SMVK_VKM_objekt_2530982.jpg"
+      "sha256": "8f7126dec450fd7c14152c001aeec719f43030d48cf59eaf929ad7abfa67cbea",
+      "bytes": 59754,
+      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kirghiz-felt\\images\\eu_91608_SMVK_VKM_objekt_2530982.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:26:15.116650+00:00"
+  "processed_at": "2026-07-28T18:41:52.621065+00:00"
 }

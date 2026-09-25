@@ -17,8 +17,16 @@
     "country": "Morocco",
     "ethnicity": "Berber",
     "tradition": "Ksour in Morocco",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bassin_et_Khsar_d%27A%",
+    "vision_reason": "The photo shows the old earthen ksar (fortified village) and irrigation basin at Aïn Chaïr oasis in Morocco, a traditional mudbrick architectural form typical of Berber/Amazigh oasis settlements in the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Bassin et Khsar d'Aïn Chaïr, Maroc.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/morocco/berber/architectural/ksour-in-morocco/images/carch_2abe15e66aa75850.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/morocco/berber/photo/ksour-in-morocco/images/carch_2abe15e66aa75850.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e0f2e5a33a16afb03f22c7a48b5ad15e87ae1f1013c161cf66ebd7e9453c2ce1",
       "bytes": 783346,
-      "local_path": "library\\middle-east-north-africa\\morocco\\berber\\architectural\\ksour-in-morocco\\images\\carch_2abe15e66aa75850.jpg"
+      "local_path": "library\\middle-east-north-africa\\morocco\\berber\\photo\\ksour-in-morocco\\images\\carch_2abe15e66aa75850.jpg"
     }
   ],
   "map": {

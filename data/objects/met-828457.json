@@ -13,14 +13,19 @@
     "accession_year": "2019"
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "general",
     "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A gilt bronze Buddha head with tight curls and flame finial, in classic Thai (likely Sukhothai/Ayutthaya-style) sculptural tradition, consistent with the claimed Thai ethnicity and Thailand location.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Head of Buddha Shakyamuni",

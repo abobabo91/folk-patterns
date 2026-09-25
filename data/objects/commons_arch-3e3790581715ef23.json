@@ -18,7 +18,15 @@
     "ethnicity": "Yoruba",
     "tradition": "Osun-Osogbo Sacred Grove",
     "art_form": "sculpture",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/a/a4/A_statue_signifying_the_mate",
+    "vision_reason": "This shows the Osun-Osogbo sacred grove sculptures depicting the fertility deity Iya Osun, a Yoruba religious site and shrine art in Osogbo, Nigeria, matching the claimed ethnicity and its ritual/mythological context.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "A statue signifying the maternity nature of iya osun at the sacred grove of oshun2-1.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/yoruba/architectural/osun-osogbo-sacred-grove/images/carch_3e3790581715ef23.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/yoruba/sculpture/osun-osogbo-sacred-grove/images/carch_3e3790581715ef23.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fb7ab3aeb23b7fd7287c324af9bd8b87d52d9ee6d51c9fc88bec8cdb8224e178",
       "bytes": 266991,
-      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\architectural\\osun-osogbo-sacred-grove\\images\\carch_3e3790581715ef23.jpg"
+      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\osun-osogbo-sacred-grove\\images\\carch_3e3790581715ef23.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Toraja",
     "tradition": "Toraja",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a wooden effigy figure (tau-tau) constructed with jointed limbs and a separate head, matching the funerary effigy tradition of the Toraja people of Sulawesi, used to represent the deceased in their burial rites.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "figure",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:55:54.403701+00:00"
+  "processed_at": "2026-07-28T19:22:43.369053+00:00"
 }

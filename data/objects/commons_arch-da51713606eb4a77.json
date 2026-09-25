@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Ceiling of Tomb of Hafez",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the muqarnas ceiling tilework with geometric star-pattern mosaics and calligraphic bands at the Tomb of Hafez in Shiraz, Iran, a Persian architectural monument.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Hafez-9.JPG",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/ceiling-of-tomb-of-hafez/images/carch_da51713606eb4a77.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/photo/ceiling-of-tomb-of-hafez/images/carch_da51713606eb4a77.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c6f28fd4a5cd3775c234502104554b8d7f75e7f20f26e859f8d1fcf204950eb7",
       "bytes": 612464,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\ceiling-of-tomb-of-hafez\\images\\carch_da51713606eb4a77.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\photo\\ceiling-of-tomb-of-hafez\\images\\carch_da51713606eb4a77.jpg"
     }
   ],
   "map": {

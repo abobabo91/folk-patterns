@@ -13,15 +13,19 @@
     "accession_year": "1957"
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "general",
     "art_form": "painting-mss",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "painting-mss"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "A Persianate manuscript painting of a seated dervish in Bukhara style, illuminated with gold and floral border, produced in the Bukhara school of miniature painting — a tradition practiced in Central Asian/Uzbek courts.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Portrait of a Dervish",

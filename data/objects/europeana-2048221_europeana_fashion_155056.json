@@ -17,8 +17,15 @@
     "country": "Tanzania",
     "ethnicity": "Swahili",
     "tradition": "Swahili Zanzibar",
-    "art_form": "textile",
-    "pattern_density": 0
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a printed kanga cloth with a repeating geometric pattern, border motifs, and a Swahili proverb text (\"Kisasi silipizi maana malipo ni hapa duniani\"), a classic Swahili women's wrapper garment from the East African coast.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Katoenen wikkeldoek",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:54:16.281934+00:00"
+  "processed_at": "2026-07-28T18:46:25.198526+00:00"
 }

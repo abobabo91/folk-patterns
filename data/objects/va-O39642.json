@@ -13,14 +13,19 @@
     "accession_year": 1905
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
     "art_form": "painting-mss",
     "pattern_density": 1,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a Burmese palm-leaf/kammavaca-style manuscript with gilt lacquered cover boards decorated with medallions, containing Pali/Burmese text — a traditional Bamar Buddhist manuscript form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": null,
@@ -86,49 +91,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O39642.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O39642.jpg",
       "iiif_id": "2025PE7384",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2025PE7384/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "9895363c81ab6c4656002f29d9aa9c03cbb1072b6072f551b5046c9275439e64",
       "bytes": 135260,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O39642.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O39642.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O39642_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O39642_1.jpg",
       "iiif_id": "2025PE7383",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2025PE7383/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "79af220abaae26cf95fb929090dba83f5c06f586f121eb27947002177472c951",
       "bytes": 65621,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O39642_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O39642_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O39642_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O39642_2.jpg",
       "iiif_id": "2025PE7382",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2025PE7382/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f20a465264d942d468cbf2e62ce7f62503a7ca77f787fd95e75b7a52e3d5c73f",
       "bytes": 151340,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O39642_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O39642_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O39642_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O39642_3.jpg",
       "iiif_id": "2025PE7381",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2025PE7381/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e8a816f884dc57bef7d682f4042cec3689b5956b9e1f20fbe08b18bb7b54bf97",
       "bytes": 53409,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O39642_3.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O39642_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O39642_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O39642_4.jpg",
       "iiif_id": "2025PE7380",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2025PE7380/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1c610f30c5fcb1403fc0f4717f6eec07499210d98a0502ab0f41bcb29316efaf",
       "bytes": 37821,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O39642_4.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O39642_4.jpg"
     }
   ],
   "map": {

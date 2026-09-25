@@ -13,15 +13,19 @@
     "accession_year": 2011
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "wayang",
-    "art_form": "sculpture",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "masks-ritual",
+    "vision_reason": "This is a Javanese/Balinese-style wayang kulit shadow puppet (likely Hanoman), a painted leather figure used in shadow theatre performances common across Java and Bali, so it plausibly fits the claimed Balinese culture despite the museum locating it to Java.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Wayang shadow puppet",
@@ -87,40 +91,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244154.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/sculpture/wayang/images/va_O1244154.jpg",
       "iiif_id": "2011FD2262",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2262/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f9d0385dbaa6e633523344d2f52c585011295aa4b725354c769e77ea73e61019",
       "bytes": 140850,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244154.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\sculpture\\wayang\\images\\va_O1244154.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244154_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/sculpture/wayang/images/va_O1244154_1.jpg",
       "iiif_id": "2011FD2267",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2267/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "0b2b8df94c7cb61a5a16d1701bacd37c85987a4579183c86b782d9572d29a9ad",
       "bytes": 142461,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244154_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\sculpture\\wayang\\images\\va_O1244154_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244154_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/sculpture/wayang/images/va_O1244154_2.jpg",
       "iiif_id": "2012FG7154",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FG7154/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "8c519fc22e252eaa6d8895241f5df8b2f676a66ee72066725eb561849bad24a7",
       "bytes": 214604,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244154_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\sculpture\\wayang\\images\\va_O1244154_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/unclassified/wayang/images/va_O1244154_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/sculpture/wayang/images/va_O1244154_3.jpg",
       "iiif_id": "2012FG6903",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FG6903/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "10909ac81223c27e429ea5e7002da10f062cc53c5009943c33a57c53e27543af",
       "bytes": 112463,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\wayang\\images\\va_O1244154_3.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\sculpture\\wayang\\images\\va_O1244154_3.jpg"
     }
   ],
   "map": {

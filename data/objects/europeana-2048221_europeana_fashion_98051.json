@@ -18,7 +18,14 @@
     "ethnicity": "Egyptian",
     "tradition": "Egyptian Coptic textile",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A knitted red wool cap/hood from a Coptic-period Egyptian grave find, matching the claimed Egyptian ethnicity and garment category, though it is a burial textile of an ancient tradition no longer practiced.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Muts uit de Koptische periode",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/unclassified/egyptian-coptic-textile/images/eu_2048221_europeana_fashion_98051.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/garment/egyptian-coptic-textile/images/eu_2048221_europeana_fashion_98051.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4c39acf206149daf76efa3b1146601c773363b9eb6ac5705aa005da0e3083f7b",
       "bytes": 37255,
-      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\unclassified\\egyptian-coptic-textile\\images\\eu_2048221_europeana_fashion_98051.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\garment\\egyptian-coptic-textile\\images\\eu_2048221_europeana_fashion_98051.jpg"
     }
   ],
   "map": {

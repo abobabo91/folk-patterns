@@ -20,8 +20,12 @@
     "art_form": "jewelry",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "jewelry"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "jewelry",
+    "vision_reason": "Gold gilt filigree earrings with pearls and colored stones, a traditional Central Asian jewelry style consistent with Uzbek craftsmanship of the 18th–19th century.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Pair of Earrings",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:45.010650+00:00"
+  "processed_at": "2026-07-28T18:40:55.167061+00:00"
 }

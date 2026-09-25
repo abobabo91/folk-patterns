@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_2007-2014-15",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2007-2014-15",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2007-2014-15",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2007.2014.15",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ghana",
+    "ethnicity": "Ashanti",
+    "tradition": "Ashanti",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a woven kente strip-cloth, described by the museum as Ewe (not Ashanti) work, and the image shows a textile, not metalwork. Ewe and Ashanti are neighboring Ghanaian weaving traditions using similar strip-woven kente techniques, so the cloth type is plausible for the region even though the claimed ethnicity in the record is likely wrong.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": "cloth",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cloth",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Man&#039;s cloth (Ewe kente) composed of 20 narrow strips of imported cotton, hand-woven and hand sewn together along the selvedges, and arranged in a chequerboard pattern along the cloth without any bands at the ends. There are two warp patterns that alternate across the cloth. One has two shades of blue through which run thin lines of white cotton; the other is of blue, white, red, green and yellow stripes. The double weft blocks in the same range of colours frame designs in supplementary discontinuous thread in red, white and orange. Some of these patterns are geometric; others represent swords, animals and humans. The cloth is hemmed by a sewing machine.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/ashanti/metalwork/ashanti/images/bm_E_2007-2014-15.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d2729dc5a6e660fa56a21c7873ebf9fc167b6d6a30fbe83670fdccc298a69935",
+      "bytes": 131608,
+      "local_path": "library\\sub-saharan-africa\\ghana\\ashanti\\metalwork\\ashanti\\images\\bm_E_2007-2014-15.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-28T19:30:43.815035+00:00"
+}

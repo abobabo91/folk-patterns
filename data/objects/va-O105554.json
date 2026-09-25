@@ -13,14 +13,19 @@
     "accession_year": 1988
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a woman's longyi cloth with striped and solid red panels, a garment style worn across Myanmar including both Bamar and Shan groups; the museum's own location note flags Shan rather than Bamar, but the garment type is plausible for either, and general Myanmar-region dress cannot reliably distinguish the two neighboring groups from the object alone.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -209,13 +214,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O105554.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O105554.jpg",
       "iiif_id": "2020MP5178",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5178/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "9f131e8d2bd8eadfad04a368ea9bb9c191fc186f066715f17c8a481633e4f92c",
       "bytes": 215391,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O105554.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O105554.jpg"
     }
   ],
   "map": {

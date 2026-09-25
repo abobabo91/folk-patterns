@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a classic Kuba raffia cut-pile \"Kasai velvet\" cloth with interlocking geometric embroidered patterns, a well-documented Kuba textile form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Embroidered Raffia Pile Cloth",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:52.780578+00:00"
+  "processed_at": "2026-07-28T18:41:33.022076+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": 1985
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain panjang",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a classic Javanese pagi-sore batik kain panjang, a hand-drawn wax-resist cotton skirt cloth with floral and semen motifs typical of Javanese dress tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -82,13 +86,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/va_O96459.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O96459.jpg",
       "iiif_id": "2006BF9442",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9442/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "83f33b7bdf7ec23bc6ea046d2b9c63b095751d3dbb8d701a01c31f8eddeb3b40",
       "bytes": 154956,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\va_O96459.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O96459.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an embroidered ritual tunic worn by Fulani (Fulbe/Wodaabe) men for the Gerewol festival, matching the claimed ethnicity and Fulani material culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Túnica",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "f6f382d6391b460116dc298fa95e2af64bf832fea2fe68fb8bd21fbea367795e",
       "bytes": 21986,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32758_inventary_CE19990_table_FMUS_museum_MNA.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32758_inventary_CE19990_table_FMUS_museum_MNA.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:37.374633+00:00"
+  "processed_at": "2026-07-28T18:45:25.450403+00:00"
 }

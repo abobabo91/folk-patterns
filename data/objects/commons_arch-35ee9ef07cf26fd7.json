@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "Photograph of the multi-tiered meru shrine at Pura Besakih, the Balinese mother temple on Mount Agung, clearly Balinese religious architecture; category should be photo/architectural rather than painting-mss, but that mismatch is not grounds for NO.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "003 Seven-Tiered Temple, Pura Besikih, Mount Agung, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-besakih/images/carch_35ee9ef07cf26fd7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-besakih/images/carch_35ee9ef07cf26fd7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0a3d307b49d0e774bafc6826b85b318da7fabb7362e3bc2d4ade6df1e024f8ae",
       "bytes": 446935,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-besakih\\images\\carch_35ee9ef07cf26fd7.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-besakih\\images\\carch_35ee9ef07cf26fd7.jpg"
     }
   ],
   "map": {

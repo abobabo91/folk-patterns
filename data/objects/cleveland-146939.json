@@ -17,8 +17,15 @@
     "country": "Nigeria",
     "ethnicity": "Igbo",
     "tradition": "Igbo",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a classic Igbo ikenga shrine figure with elongated ram-like horns and a seated human figure, a well-documented Igbo ritual sculpture type used to honor personal achievement and strength.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Shrine Figure (Ikenga)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:46:45.826984+00:00"
+  "processed_at": "2026-07-28T18:41:31.632752+00:00"
 }

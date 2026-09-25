@@ -18,7 +18,14 @@
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is an embroidered wool/silk/cotton tent-hanging with metal thread and glass beads, a form of textile art used by Central Asian (including Uzbek) peoples for yurt/tent decoration — plausible material culture for the claimed group, though it is a textile, not metalwork as labeled.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "tent-hanging (Uut Kap Ilgitsh); panel",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/uzbek/images/bm_W_As2002-03-35.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/metalwork/uzbek/images/bm_W_As2002-03-35.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f2d701991e587ba509333b04dbedb839a27288b836fe72cbdc7e3832954e1c8b",
       "bytes": 49022,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\uzbek\\images\\bm_W_As2002-03-35.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\metalwork\\uzbek\\images\\bm_W_As2002-03-35.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:38.844279+00:00"
+  "processed_at": "2026-07-28T18:57:27.143054+00:00"
 }

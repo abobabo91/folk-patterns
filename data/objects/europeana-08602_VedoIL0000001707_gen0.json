@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows Italian official Folchi shaking hands with Somali military officers/cadets in uniform, a documentary press photo of Somali people, fitting the claimed ethnicity even though it's a news/event snapshot rather than an art object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Folchi stringe la mano agli ufficiali somali - piano americano",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "9d00c014b60a09726e59183c208e8495d7bb47ef8a02338e97d6e1e5b0e2248b",
       "bytes": 28365,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000001707_gen0.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000001707_gen0.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:22.204288+00:00"
+  "processed_at": "2026-07-28T18:48:19.241629+00:00"
 }

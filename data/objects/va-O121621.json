@@ -14,14 +14,18 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Turkmenistan",
-    "ethnicity": "Turkmen",
-    "tradition": "gul motif",
+    "country": "Afghanistan",
+    "ethnicity": "Afghan Turkmen",
+    "tradition": "Ersari carpet",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a Central Asian (Turkmen-type) tribal rug/bag face with a repeating diamond-lattice \"gul\" motif in deep reds, browns, and dark blue, flatly photographed on a neutral background — a classic ethnographic textile with clear pile weave, borders, and design, typical of the Turkmen/Central Asian weaving tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -354,22 +358,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121621.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O121621.jpg",
       "iiif_id": "2017KC5302",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC5302/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "e08649707afd4a2ef434787d104791b052dea7b5cfab74be2739a74d57dc57f9",
       "bytes": 108344,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121621.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O121621.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121621_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O121621_1.jpg",
       "iiif_id": "2017KC5309",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC5309/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "9d1d512f64037b1fb791c317d3023ef43df0b023843cee3bcf4873b9e05b1e93",
       "bytes": 180371,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121621_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O121621_1.jpg"
     }
   ],
   "map": {
@@ -377,5 +381,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:30:13.310701+00:00"
+  "processed_at": "2026-07-18T06:35:10.920986+00:00"
 }

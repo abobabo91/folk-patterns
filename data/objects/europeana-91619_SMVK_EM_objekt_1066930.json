@@ -18,7 +18,14 @@
     "ethnicity": "Kongo",
     "tradition": "Kongo Congo",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a wooden figural sculpture with a raised cap, embedded blades/nails near the face, attached child figures, and a raffia fiber skirt — consistent with Kongo power figure/nkisi traditions, matching the Laman \"The Kongo\" reference cited in the museum record.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "skulptur, figur, sculpture",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "52cda216b1d72365be27b19a2923803ff4d82a197149652f35802d9758eccf8e",
       "bytes": 26517,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\sculpture\\kongo-congo\\images\\eu_91619_SMVK_EM_objekt_1066930.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\sculpture\\kongo-congo\\images\\eu_91619_SMVK_EM_objekt_1066930.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:58:23.675396+00:00"
+  "processed_at": "2026-07-28T18:46:42.114854+00:00"
 }

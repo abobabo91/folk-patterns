@@ -17,10 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A batik-printed cotton baju jacket, a traditional Malay garment style consistent with a regional Malaysia attribution; the small repeating batik motif and cut are typical of Malay dress.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -94,13 +99,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/batik/images/va_O80976.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O80976.jpg",
       "iiif_id": "2006AM3673",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AM3673/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "ed65a97a9de1668b92586e13eec44297078d3b91c86ba407a2baad728ad39f5b",
       "bytes": 127548,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\batik\\images\\va_O80976.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O80976.jpg"
     }
   ],
   "map": {

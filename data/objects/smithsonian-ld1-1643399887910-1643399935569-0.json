@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "wayang",
-    "art_form": "sculpture",
+    "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a batik cloth panel depicting wayang kulit-style puppet figures, a classic Javanese batik motif; however this style of wayang batik is strongly associated with Javanese (e.g., Cirebon/Central Java) textile tradition rather than Balinese, though Bali produces closely related batik and shares the wayang iconography within the broader Indonesian region, so it is plausible for the neighboring/related culture and cannot be firmly distinguished.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Panel",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/wayang/images/si_chndm_1962-233-5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/wayang/images/si_chndm_1962-233-5.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f9de62c3ebc36038ab999f30d7a3899385d79a4ae2885d8bf181ebf5133d47f3",
       "bytes": 4736777,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\wayang\\images\\si_chndm_1962-233-5.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\wayang\\images\\si_chndm_1962-233-5.jpg"
     }
   ],
   "map": {

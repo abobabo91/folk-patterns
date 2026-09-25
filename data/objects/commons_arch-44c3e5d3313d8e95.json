@@ -17,8 +17,15 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Banteay Srei",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows Banteay Srei, a 10th-century Khmer temple in Angkor, Cambodia, with elaborately carved sandstone towers and guardian statues — Khmer temple architecture and ornament fits the claimed ethnicity even though the category should be architectural rather than photo.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Angkor (Banteay Srey) (15777816638).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/banteay-srei/images/carch_44c3e5d3313d8e95.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/photo/banteay-srei/images/carch_44c3e5d3313d8e95.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "101810d35e8e2d3ecc21a287da37349bc922054bb7ce613da9430a7812e7155f",
       "bytes": 417578,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\banteay-srei\\images\\carch_44c3e5d3313d8e95.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\photo\\banteay-srei\\images\\carch_44c3e5d3313d8e95.jpg"
     }
   ],
   "map": {

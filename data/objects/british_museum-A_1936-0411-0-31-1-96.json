@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Gouache painting of seated saints/dervishes in a green landscape with Persian inscriptions, consistent with a Persian devotional album painting; figures, dress, and script all fit the tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "album; painting",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:56.740978+00:00"
+  "processed_at": "2026-07-28T18:59:05.235605+00:00"
 }

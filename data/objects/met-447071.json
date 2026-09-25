@@ -13,12 +13,19 @@
     "accession_year": "1919"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an illustrated Persian manuscript folio (astrological/talismanic imagery of figures, a lion, and celestial faces) with Persian nasta'liq text, from a known Persian literary work (Jajarmi's Mu'nis al-ahrar), matching the claimed Persian ethnicity and painting-mss category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Folio from a Mu'nis al-ahrar fi daqa'iq al-ash'ar (The Free Man's Companion to the Subtleties of Poems) of Jajarmi",
@@ -79,67 +86,67 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447071.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447071.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c94b8329b9823de4becbb12057ce9bfdad2cb5936df30d89bd802e1a99a894ee",
       "bytes": 3294235,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447071.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447071.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447071_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447071_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d03a5c2ed2d9f0b45b8090c2bc5a7246db1b7788a6911ca693eb3147b212f646",
       "bytes": 3443749,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447071_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447071_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447071_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447071_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "78d1831e6bfa9330f5e70daf15afa7a7a28b83c7f26f8a56b14041715238e246",
       "bytes": 4350965,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447071_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447071_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447071_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447071_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "1dd4714e28a582f106061fea5f1f52b22462f379aad06f8c2a24af165ff6f83b",
       "bytes": 749589,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447071_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447071_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447071_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447071_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "18d39810f03df837579644b6c4c559f9c119c801ea1ca06c177a6b011915bfb0",
       "bytes": 4567016,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447071_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447071_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447071_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447071_5.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "f2c5419f57806707515cd230ed4c738098cde04858dca7bb7ab843c6a109ed57",
       "bytes": 1067027,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447071_5.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447071_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447071_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447071_6.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "e157c795801eea65c8acbf5a01878f77f32e914c9c94c2dba9c90bb1b03f5447",
       "bytes": 3044103,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447071_6.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447071_6.jpg"
     }
   ],
   "map": {

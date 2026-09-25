@@ -17,8 +17,15 @@
     "country": "Uzbekistan",
     "ethnicity": "Uzbek",
     "tradition": "Uzbek",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "household",
+    "vision_reason": "The object shows a small tool wrapped in silk ikat fabric with a fringe, described as a possible bread-stamp or felt-making tool; ikat textiles and such household/craft implements are consistent with Uzbek material culture, though the claimed category \"sculpture\" is incorrect.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "bread-stamp (?); tool/implement (?)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/textile/uzbek/images/bm_W_As2003-22-23.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/sculpture/uzbek/images/bm_W_As2003-22-23.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5a0f87a16fe383328efe949465ba9cce1a0b82175d6ffaed3a3edd095ec78076",
       "bytes": 38710,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\textile\\uzbek\\images\\bm_W_As2003-22-23.jpg"
+      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\sculpture\\uzbek\\images\\bm_W_As2003-22-23.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:46.111640+00:00"
+  "processed_at": "2026-07-28T18:57:31.351145+00:00"
 }

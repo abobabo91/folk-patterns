@@ -13,15 +13,19 @@
     "accession_year": 1993
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "pidan",
+    "tradition": "Khmer silk",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a silk weft-ikat temple hanging (pidan) depicting Buddha's life, elephants and horsemen — a well-known Khmer textile tradition, consistent with the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -118,58 +122,58 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/pidan/images/va_O68026.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O68026.jpg",
       "iiif_id": "2019MA0807",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0807/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "1cdb092b36b76c7d3a0301fdeed74f79b2c2034face4f40cb8f028ae9212cf39",
       "bytes": 128620,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\pidan\\images\\va_O68026.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O68026.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/pidan/images/va_O68026_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O68026_1.jpg",
       "iiif_id": "2019MA0806",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0806/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ee1c748b133d6de2165a5654cbb6c65f219f0773f54361703b86aa81c1554f96",
       "bytes": 126633,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\pidan\\images\\va_O68026_1.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O68026_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/pidan/images/va_O68026_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O68026_2.jpg",
       "iiif_id": "2019MA0808",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0808/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ca58f413f61dbd7dbc1d019186359ee12b1629f13aa250f2768a35487e86476d",
       "bytes": 140095,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\pidan\\images\\va_O68026_2.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O68026_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/pidan/images/va_O68026_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O68026_3.jpg",
       "iiif_id": "2019MA0811",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0811/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b3a632fd722fffee6e4cb573bac3dc9e221c6c16d3cb3c3bec4e29dbad509edb",
       "bytes": 128084,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\pidan\\images\\va_O68026_3.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O68026_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/pidan/images/va_O68026_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O68026_4.jpg",
       "iiif_id": "2019MA0812",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0812/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "8e11c9b64b457805450cab7408f618d14acc4cee78c0ebcb203bcd0988806cba",
       "bytes": 248106,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\pidan\\images\\va_O68026_4.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O68026_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/pidan/images/va_O68026_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O68026_5.jpg",
       "iiif_id": "2019MA0851",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0851/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "11b0fa0244c29445cfea9e50510d2758979f6bb49294be6af483a2008e915621",
       "bytes": 80884,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\pidan\\images\\va_O68026_5.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O68026_5.jpg"
     }
   ],
   "map": {
@@ -177,5 +181,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:29:25.400805+00:00"
+  "processed_at": "2026-07-18T11:29:37.218265+00:00"
 }

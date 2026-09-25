@@ -20,7 +20,11 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A pair of finely knotted abacá-fiber shoes made using local Filipino craft materials and techniques (macramé over abacá fiber), a hybrid colonial-era Philippine craft — clearly footwear made and worn within Filipino culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "garment"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.842182+00:00"
+  "processed_at": "2026-07-28T18:41:28.628043+00:00"
 }

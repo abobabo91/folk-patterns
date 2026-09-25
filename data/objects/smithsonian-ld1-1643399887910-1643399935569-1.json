@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "wayang",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A batik cloth with wayang-style figures (echoing Balinese/Javanese kamasan wayang painting motifs) arranged around a central medallion, consistent with Indonesian batik textile traditions plausible for Bali.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Square",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/wayang/images/si_chndm_1962-233-6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/textile/wayang/images/si_chndm_1962-233-6.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "b3f21655e48a6efe2c657cf03af355074533bdfdce58dbf8cba7a1dea586bf5f",
       "bytes": 5562688,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\wayang\\images\\si_chndm_1962-233-6.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\wayang\\images\\si_chndm_1962-233-6.jpg"
     }
   ],
   "map": {

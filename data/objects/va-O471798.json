@@ -13,15 +13,19 @@
     "accession_year": 1993
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A hand-drawn batik cotton cloth with the classic indigo-and-brown sogan palette and repeating stylized bird/floral motifs, consistent with Central Javanese batik tradition (Jawa Tengah, as noted in the record).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -70,13 +74,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/batik/images/va_O471798.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/va_O471798.jpg",
       "iiif_id": "2021NA2550",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA2550/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "023f416296622418c3931b6c369b731b487673f28e1142b089d3669280d89931",
       "bytes": 157486,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\batik\\images\\va_O471798.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\va_O471798.jpg"
     }
   ],
   "map": {

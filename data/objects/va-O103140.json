@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Iznik tile",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "ceramic",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A large fritware tile panel with classic Iznik/Kütahya-style underglaze blue and turquoise floral vases and arabesque niches — a quintessential Ottoman Turkish ceramic art form, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": null,
@@ -96,13 +103,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/textile/iznik-tile/images/va_O103140.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/ceramic/iznik-tile/images/va_O103140.jpg",
       "iiif_id": "2006AU8594",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AU8594/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f7bad504e29c20f077d1a87b4c67d6cdaadc34d5d01415bb4270f68fc18632ca",
       "bytes": 314193,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\textile\\iznik-tile\\images\\va_O103140.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\ceramic\\iznik-tile\\images\\va_O103140.jpg"
     }
   ],
   "map": {

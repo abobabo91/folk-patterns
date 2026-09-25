@@ -13,15 +13,19 @@
     "accession_year": 1921
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain kembangan",
-    "art_form": "textile",
-    "pattern_density": 2,
+    "art_form": "garment",
+    "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a batik iket kepala (man's head-cloth) from Surakarta, Central Java — a garment/textile associated with Javanese dress, not jewelry as mislabeled. The purple ground with green modang and batik borders is consistent with Javanese court batik tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -804,13 +808,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-kembangan/images/va_O454076.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/jewelry/kain-kembangan/images/va_O454076.jpg",
       "iiif_id": "2021NA3613",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3613/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "ef4e2efa007c3ba9e1305f1bcadc9ca804fc9ee521bcb13139034d77e7bae2cb",
       "bytes": 396722,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-kembangan\\images\\va_O454076.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\jewelry\\kain-kembangan\\images\\va_O454076.jpg"
     }
   ],
   "map": {

@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "garment",
+    "art_form": "household",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a Bagobo (Filipino, Mindanao) beaded shoulder basket/bag with cotton, rattan, and beadwork — a plausible object made and used by this ethnic group, though it is a beaded basket rather than a woven textile per se.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "Shoulder basket (Bagobo people)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.893608+00:00"
+  "processed_at": "2026-07-28T18:41:28.711569+00:00"
 }

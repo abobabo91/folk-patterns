@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows a traditional Batak house (rumah bolon) at Tugu Silalahi with characteristic carved and painted gable ornamentation in the traditional red-white-black Batak motifs, matching the claimed ethnicity and location.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Batak house - Silalahi.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/batak-houses/images/carch_71c704e4c93fee4a.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/photo/batak-houses/images/carch_71c704e4c93fee4a.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f6e38ef61681a52077b50b66489a53c7a1008d1f5b00ba6214bcc7a708cd28d0",
       "bytes": 344183,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\batak-houses\\images\\carch_71c704e4c93fee4a.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\photo\\batak-houses\\images\\carch_71c704e4c93fee4a.jpg"
     }
   ],
   "map": {

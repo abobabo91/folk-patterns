@@ -18,9 +18,13 @@
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
     "art_form": "textile",
-    "pattern_density": 0,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a hank/skein of yarn prepared for the \"ragi hotang\" ikat-dyeing technique, a traditional Batak textile process from Sumatra; the raw material for a Batak textile technique fits the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-indonesia/images/eu_91608_SMVK_VKM_objekt_71869.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/batak-indonesia/images/eu_91608_SMVK_VKM_objekt_71869.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4b5a453357b4c3955fb379b3bd46a89017d42a175adba223d89ace6df1a8fc61",
       "bytes": 9380,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71869.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71869.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:58.052769+00:00"
+  "processed_at": "2026-07-28T18:43:30.203409+00:00"
 }

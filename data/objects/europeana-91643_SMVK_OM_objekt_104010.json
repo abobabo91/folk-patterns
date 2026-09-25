@@ -19,8 +19,13 @@
     "tradition": "Thai",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This shows sample swatch books/catalogues of Jim Thompson Thai Silk textile samples, not the fabric itself as a genuine cultural artifact — it's a commercial sample kit/catalog with an order slip from 1987. The silk swatches themselves are Thai-made textiles, so the fiber content qualifies, but the object photographed is essentially a product catalogue.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "modern",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Textilprov",
@@ -63,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/unclassified/thai/images/eu_91643_SMVK_OM_objekt_104010.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/textile/thai/images/eu_91643_SMVK_OM_objekt_104010.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "122d7a8c64b27fdb5c053d6cd348b0e6ac6277142ccb0c896ca5b560b798b7f2",
       "bytes": 15642,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_91643_SMVK_OM_objekt_104010.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\eu_91643_SMVK_OM_objekt_104010.jpg",
+      "low_quality": true
     }
   ],
   "map": {

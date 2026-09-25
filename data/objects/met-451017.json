@@ -13,12 +13,19 @@
     "accession_year": "1950"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Safavid-period miniature painting from a Falnama manuscript made in Qazvin, Iran, depicting figures with veiled, flame-haloed faces (denoting holy figures) escorting a camel-borne coffin — a classic work of Persian court painting tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "\"Coffin of Imam 'Ali\", Folio from a Falnama (The Book of Omens) of Ja'far al-Sadiq",
@@ -69,49 +76,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451017.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451017.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e4278fa0c38e1cb9f8b62142d05f1a2fb40b979b6fa92536c23881abccf7740d",
       "bytes": 3039662,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451017.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451017.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451017_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451017_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "9473643a791ae7053fe4538fb00ffa293476be3e618bc59e1605806bc13441c0",
       "bytes": 3167228,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451017_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451017_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451017_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451017_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "1cd8dc5d6a36280b42124e6c4113948446074f698e1dadc7610b93ea2ee4e7a7",
       "bytes": 3587967,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451017_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451017_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451017_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451017_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "8fc95706ec93133f65240e1f9aad25f3a8a43de6af4e9b005839306ed8a94346",
       "bytes": 3289929,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451017_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451017_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451017_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451017_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "c4071fe72822d0e31e38b2ab2170c9716bb29eefee4bed648b36bac29aa2ea26",
       "bytes": 672925,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451017_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451017_4.jpg"
     }
   ],
   "map": {

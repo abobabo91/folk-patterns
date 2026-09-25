@@ -17,8 +17,15 @@
     "country": "Nigeria",
     "ethnicity": "Yoruba",
     "tradition": "Yoruba Nigeria",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "garment",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a wide-sleeved cotton shirt/jacket with a decorative striped lower panel, a garment type consistent with traditional Yoruba men's dress; it is plausibly made/worn by the Yoruba.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Cotton shirt or jacket with long, wide sleeves",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "8df34d00f3679309f95f2122176a532d8b747962d4f7b104786a1360bd88a05e",
       "bytes": 16073,
-      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba-nigeria\\images\\eu_2048221_europeana_fashion_185605.jpg"
+      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba-nigeria\\images\\eu_2048221_europeana_fashion_185605.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:46:01.804779+00:00"
+  "processed_at": "2026-07-28T18:45:36.283710+00:00"
 }

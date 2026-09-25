@@ -17,8 +17,15 @@
     "country": "Tajikistan",
     "ethnicity": "Tajik",
     "tradition": "Hulbuk",
-    "art_form": "textile",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This shows the reconstructed fortified walls of Khulbuk Palace, an archaeological site in Tajikistan, not a textile of any kind; the category is wrong, but as an architectural monument in the Tajik homeland it still belongs to the culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Ancient Town Khulbuk, Tajikistan (28912838827).jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/architectural/hulbuk/images/carch_72365fe20f830b0b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/textile/hulbuk/images/carch_72365fe20f830b0b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6bad20fa02c4ace19bd375e11af5fed3508d162324c2c98464acc5c838fbb029",
       "bytes": 215920,
-      "local_path": "library\\central-asia\\tajikistan\\tajik\\architectural\\hulbuk\\images\\carch_72365fe20f830b0b.jpg"
+      "local_path": "library\\central-asia\\tajikistan\\tajik\\textile\\hulbuk\\images\\carch_72365fe20f830b0b.jpg"
     }
   ],
   "map": {

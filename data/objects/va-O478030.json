@@ -13,15 +13,19 @@
     "accession_year": 1985
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "ulos",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is an ikat-woven silk cloth (Ulos Padang Rusak) with arrowhead ikat patterning typical of Batak textile traditions from Sumatra; despite the museum listing location as Aceh, the described ulos type is a Batak garment/textile form.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -79,31 +83,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ulos/images/va_O478030.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/ulos/images/va_O478030.jpg",
       "iiif_id": "2020MP9117",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP9117/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6f934ae236c401d12997dc54853d3066da1967f07753492c088c801710a2ca53",
       "bytes": 203574,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ulos\\images\\va_O478030.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\va_O478030.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ulos/images/va_O478030_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/ulos/images/va_O478030_1.jpg",
       "iiif_id": "2017KC6883",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6883/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f2f21750b3210230c2a08fd438fbeec99039f70dd67fc5d43abe40ae1e24301b",
       "bytes": 260588,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ulos\\images\\va_O478030_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\va_O478030_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/architectural/ulos/images/va_O478030_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/ulos/images/va_O478030_2.jpg",
       "iiif_id": "2017KC6882",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6882/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "5952b08233d1666e738f900b9fb80b9022a8168dd98409f63c83eb94a207d65d",
       "bytes": 308961,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\architectural\\ulos\\images\\va_O478030_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\va_O478030_2.jpg"
     }
   ],
   "map": {

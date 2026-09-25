@@ -18,9 +18,13 @@
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
     "art_form": "textile",
-    "pattern_density": 0,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a wound skein of black yarn with white speckled resist-dyed sections (ikat thread bundle), a raw material for weaving \"ragi hotang\" cloth as noted in the museum description — this is a traditional Sumatran (Batak) textile-making item, plainly shown against a neutral background.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-indonesia/images/eu_91608_SMVK_VKM_objekt_71865.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/batak-indonesia/images/eu_91608_SMVK_VKM_objekt_71865.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7537660bd4989d85ef25f401eeeb96b94c92c446a5d88e37cfc59ad5fa734e93",
       "bytes": 10309,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71865.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71865.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:56.800299+00:00"
+  "processed_at": "2026-07-28T18:43:30.156080+00:00"
 }

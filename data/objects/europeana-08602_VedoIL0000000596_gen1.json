@@ -18,7 +18,14 @@
     "ethnicity": "Somali",
     "tradition": "Somali",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photograph of a Somali police delegation posing in a formal room, not a painting or manuscript; it depicts Somali people in uniform, a documentary daily-life/official photo, so it fits the ethnicity but not the claimed art form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Foto di gruppo della delegazione di poliziotti somali; campo medio",
@@ -63,13 +70,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/unclassified/somali/images/eu_08602_VedoIL0000000596_gen1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/painting-mss/somali/images/eu_08602_VedoIL0000000596_gen1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1999ee778c04b4a9b8e1faf665db0beb9b429b087147cd33f8713f7737b6be8a",
       "bytes": 26269,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000000596_gen1.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\eu_08602_VedoIL0000000596_gen1.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:17.046660+00:00"
+  "processed_at": "2026-07-28T18:48:14.096870+00:00"
 }

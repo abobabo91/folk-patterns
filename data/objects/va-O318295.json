@@ -13,15 +13,19 @@
     "accession_year": 1921
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "parang",
+    "tradition": "batik cap",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A hand-drawn/block-printed batik skirt cloth with the typical kapala flowering-tree-and-birds panel and a body of saw-edge diagonal stripes (parang-style variant) in brown, blue and red — classic Javanese batik dress cloth construction.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -336,31 +340,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O318295.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik-cap/images/va_O318295.jpg",
       "iiif_id": "2021NA2545",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA2545/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "8dac39ee95f1afce5651ee4a7140e11ac7ee007fbc206a35d14ca9616e6feed6",
       "bytes": 239206,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O318295.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik-cap\\images\\va_O318295.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O318295_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik-cap/images/va_O318295_1.jpg",
       "iiif_id": "2012FP8741",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FP8741/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "63688373dc0bc1425c5b939d6a1922d912329c8d85777829257a01eaf63167cb",
       "bytes": 230230,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O318295_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik-cap\\images\\va_O318295_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O318295_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik-cap/images/va_O318295_2.jpg",
       "iiif_id": "2021MU6819",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021MU6819/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "0c5ead2572885c41f36c3cb52e755edf39fe41366850ae6b112c84113aae74da",
       "bytes": 253342,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O318295_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik-cap\\images\\va_O318295_2.jpg"
     }
   ],
   "map": {
@@ -368,5 +372,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:21:06.207824+00:00"
+  "processed_at": "2026-07-18T11:19:11.497414+00:00"
 }

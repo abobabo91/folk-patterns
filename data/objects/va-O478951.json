@@ -13,14 +13,19 @@
     "accession_year": 1973
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "piña",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A fine white embroidered muslin tunic (baro-style garment) with whitework floral embroidery and lace edging, made in Manila — consistent with Filipino traditional dress/embroidery craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -168,49 +173,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O478951.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/va_O478951.jpg",
       "iiif_id": "2012FP8253",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FP8253/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "3fa9f6df42fdf3254e09e7540bb407cdcdb86ddc9c9985d0ab04f8c6fccdfa79",
       "bytes": 274401,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O478951.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O478951_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/va_O478951_1.jpg",
       "iiif_id": "2012FL3950",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3950/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1934b33a7716c8762be06be58909a58e2cf8d669055afd58ab57e74bfc5a131d",
       "bytes": 188024,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O478951_1.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O478951_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/va_O478951_2.jpg",
       "iiif_id": "2012FL3951",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3951/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "64ff293ff338a0c72653e601549dcd7ddee72636d4d0ae83b73660621ffc9928",
       "bytes": 386299,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O478951_2.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O478951_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/va_O478951_3.jpg",
       "iiif_id": "2012FL7872",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL7872/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f670f59b712c77f5a466463c32251e1a8472b2323ff17d500c33bd2ce8aaa6e5",
       "bytes": 107407,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O478951_3.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/unclassified/pina/images/va_O478951_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/va_O478951_4.jpg",
       "iiif_id": "2012FL7874",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL7874/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "f50f109223bf668775d242271657d574063ea138034abcc28c55c414d59bdaaa",
       "bytes": 191756,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\unclassified\\pina\\images\\va_O478951_4.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_4.jpg"
     }
   ],
   "map": {

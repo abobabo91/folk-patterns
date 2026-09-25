@@ -17,8 +17,16 @@
     "country": "Indonesia",
     "ethnicity": "Sundanese",
     "tradition": "Sundanese houses",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Abdulrohmatt3.jpg/1280",
+    "vision_reason": "The image shows Kampung Naga, a traditional Sundanese village in Tasikmalaya, West Java, with its characteristic thatched-roof adat houses set amid rice terraces and palm groves — a documentary photo of Sundanese vernacular architecture and daily life.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Abdulrohmatt3.jpg",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/architectural/sundanese-houses/images/carch_4dcdef40a4eab698.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/photo/sundanese-houses/images/carch_4dcdef40a4eab698.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "438ca468824b793a1ba6a980cba67bbf9143cbb1b8e8107c4803c1bf1b1489a0",
       "bytes": 515065,
-      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\architectural\\sundanese-houses\\images\\carch_4dcdef40a4eab698.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\photo\\sundanese-houses\\images\\carch_4dcdef40a4eab698.jpg"
     }
   ],
   "map": {

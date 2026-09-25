@@ -18,7 +18,14 @@
     "ethnicity": "Wolof",
     "tradition": "Wolof Senegal",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A silver woven-chain armlet with ball terminals, purchased in Dakar and described as a woman's bracelet from a Wolof village near Dakar—consistent silver jewelry from the claimed region and culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "armband, Kvinnoarmband, armlet, bracelet",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "d03a8554f66ea478fd35ccf104182b08bb12abc8a489e18c210b888e7b9f33eb",
       "bytes": 18211,
-      "local_path": "library\\sub-saharan-africa\\senegal\\wolof\\jewelry\\wolof-senegal\\images\\eu_91608_SMVK_VKM_objekt_28714.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\wolof\\jewelry\\wolof-senegal\\images\\eu_91608_SMVK_VKM_objekt_28714.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:17.296349+00:00"
+  "processed_at": "2026-07-28T18:45:21.987256+00:00"
 }

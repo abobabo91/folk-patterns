@@ -19,8 +19,13 @@
     "tradition": "batik",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a batik cotton selendang with rosette repeat pattern and key/scroll borders, a traditional Malay textile technique and form consistent with Malaysian batik.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -129,13 +134,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/batik/images/va_O478412.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O478412.jpg",
       "iiif_id": "2017JX7769",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7769/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "c3f61ef266bfa709a72896efee89a75ad1404d6132b0f4e9e0833dea8ca74e6a",
       "bytes": 513963,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\batik\\images\\va_O478412.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O478412.jpg"
     }
   ],
   "map": {

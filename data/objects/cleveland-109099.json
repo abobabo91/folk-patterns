@@ -18,7 +18,14 @@
     "ethnicity": "Zulu",
     "tradition": "Zulu",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A multi-strand beaded necklace with claw and horn pendants, matching Southern African (Zulu-style) beadwork traditions as noted by the museum itself.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Beaded Necklace",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:06:52.809959+00:00"
+  "processed_at": "2026-07-28T18:41:33.927412+00:00"
 }

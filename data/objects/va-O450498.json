@@ -13,15 +13,19 @@
     "accession_year": 1993
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Sundanese",
     "tradition": "batik Cirebon",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "art_form_vision": "textile"
+    "art_form_vision": "textile",
+    "vision_reason": "Classic Javanese batik cloth with a repeating semen-style motif and a parang/diamond border, described as Kratonan-style (court) batik from Java. Batik is a shared Javanese tradition; Sundanese people in West Java also produce and wear batik of this kind, so this plausibly belongs to the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -70,13 +74,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/unclassified/batik-cirebon/images/va_O450498.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/textile/batik-cirebon/images/va_O450498.jpg",
       "iiif_id": "2006AT8553",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8553/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "a256ee331a082d0106b9a97d76e94f0fb82130488712aa929b70c695b5df4a28",
       "bytes": 320588,
-      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\unclassified\\batik-cirebon\\images\\va_O450498.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\textile\\batik-cirebon\\images\\va_O450498.jpg"
     }
   ],
   "map": {

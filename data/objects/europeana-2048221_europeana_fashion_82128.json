@@ -18,9 +18,13 @@
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a woven cotton \"sadum\" shoulder cloth with fringed ends and decorative bands, a textile type from the Batak (Angkola/Mandailing/Toba) region of North Sumatra, matching the museum's description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -33,11 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/2022"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/2022",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -74,7 +76,8 @@
       "role": "primary",
       "sha256": "62506270a466132b4f4cd5269a0f3314f72ece77cc03b4842c58a29745c25fb7",
       "bytes": 29848,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_2048221_europeana_fashion_82128.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_2048221_europeana_fashion_82128.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -82,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:00.585649+00:00"
+  "processed_at": "2026-07-28T18:43:31.856059+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "garment",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a beaded leather garment (ceremonial headdress/pendant) made and worn by elite Xhosa women, matching the claimed ethnicity and craft tradition; it is a worn garment/adornment piece rather than a flat textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Royal ceremonial headdress (umnqwazi)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:28.749978+00:00"
+  "processed_at": "2026-07-28T18:41:34.045916+00:00"
 }

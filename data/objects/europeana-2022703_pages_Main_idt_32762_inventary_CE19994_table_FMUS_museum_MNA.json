@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows an embroidered vest (chaleco) worn by Fulani/Fulbe women for the Gerewol festival, a garment made and used by this pastoral Fulani culture; the record misidentifies the country (Niger vs. Senegal) but the Fulani/Fulbe are one broad ethnic group, so the object plausibly belongs.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Chaleco",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "1dd6aaae9e07f6db956137d8e0dc6a54cfb057424d5afb2aaf481e5753a51a92",
       "bytes": 22655,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32762_inventary_CE19994_table_FMUS_museum_MNA.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_2022703_pages_Main_idt_32762_inventary_CE19994_table_FMUS_museum_MNA.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:39.417352+00:00"
+  "processed_at": "2026-07-28T18:45:27.911613+00:00"
 }

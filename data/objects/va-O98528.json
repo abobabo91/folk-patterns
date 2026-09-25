@@ -13,14 +13,19 @@
     "accession_year": 1924
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Shan weaving",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "garment",
+    "pattern_density": 1,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a woman's tubular skirt (htamein-type garment) with applique panels, hand-loom brocade, and gilt-kidskin strips — a Burmese/Shan textile garment, not jewelry, and the museum's own metadata locates it as Shan rather than Bamar, but as a mainland Southeast Asian ethnic garment it is plausible for the broader Burmese cultural sphere and neighbouring groups cannot be reliably distinguished.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -601,13 +606,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/shan-weaving/images/va_O98528.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/jewelry/shan-weaving/images/va_O98528.jpg",
       "iiif_id": "2020MN9378",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9378/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "593b7d9a3178b56e0ca10b27498c3e9b1eacb8db6c80d3069a25ded738d2ca14",
       "bytes": 260310,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\shan-weaving\\images\\va_O98528.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\jewelry\\shan-weaving\\images\\va_O98528.jpg"
     }
   ],
   "map": {

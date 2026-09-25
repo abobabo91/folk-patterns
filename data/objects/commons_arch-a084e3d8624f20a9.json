@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The picture shows a weathered ancient stone stele covered in eroded Cham/Sanskrit script, standing among the brick ruins of the My Son sanctuary with a temple tower visible behind it — a genuine archaeological inscription monument of the Cham civilization, not a modern sign.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Chu viet Cham tren phe tich My Son.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/architectural/my-son/images/carch_a084e3d8624f20a9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/photo/my-son/images/carch_a084e3d8624f20a9.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "32c1d501995b9f9dd4b399f017e62ee59e974df2a034cc882de767cbb1d07dbf",
       "bytes": 1047290,
-      "local_path": "library\\southeast-asia\\vietnam\\cham\\architectural\\my-son\\images\\carch_a084e3d8624f20a9.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\cham\\photo\\my-son\\images\\carch_a084e3d8624f20a9.jpg"
     }
   ],
   "map": {

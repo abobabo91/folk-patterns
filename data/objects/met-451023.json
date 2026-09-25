@@ -13,12 +13,19 @@
     "accession_year": "1950"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A classic Safavid-style Persian miniature painting depicting two embracing lovers in Persianate dress, with Persian calligraphy and gold-decorated background, consistent with Isfahan-school court painting.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "The Lovers",
@@ -79,40 +86,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451023.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451023.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "08465473f31802907e376402bc0c2b67694b11c31aff82c1d8b01eb490bc8708",
       "bytes": 2809795,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451023.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451023.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451023_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451023_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "256d30b3531bdd4b09379abb6fb3fdb47e833316e31640453227983062eba79c",
       "bytes": 3322346,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451023_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451023_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451023_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451023_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "9289caab1cc1352e7939db897622599494edd202cb7596e3d639885d37033b77",
       "bytes": 760387,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451023_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451023_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_451023_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451023_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "36195b680a8f26395ddae975a455215482907701412736519fdec64d174f61f6",
       "bytes": 452885,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_451023_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451023_4.jpg"
     }
   ],
   "map": {

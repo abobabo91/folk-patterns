@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "household",
-    "pattern_density": 3,
+    "art_form": "arms",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "household"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A bamboo arrow shaft, a weapon component plausible for indigenous Philippine groups; it is a weapon, not metalwork, though the museum mislabeled the category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Arrow",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/filipino/images/cle_104083.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/metalwork/filipino/images/cle_104083.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ba2e00b3b72485e9a735b59d1ec6f906e8f9e8dc38b326c3b50625e9f691d501",
       "bytes": 89082,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_104083.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\metalwork\\filipino\\images\\cle_104083.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.441642+00:00"
+  "processed_at": "2026-07-28T18:41:27.882509+00:00"
 }

@@ -13,14 +13,19 @@
     "accession_year": 1973
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "kalaga",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is an embroidered Burmese kalaga hanging depicting a Jataka/legend scene with figures, horse, and floral borders — a traditional Bamar textile art form, though catalogued here as painting-mss which is a mismatch.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -869,76 +874,76 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767.jpg",
       "iiif_id": "2006AF5080",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF5080/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "767984101d6611827fc78a27e2132eb8c437b57b740903f7dc7870cc5ddd4e44",
       "bytes": 208891,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767_1.jpg",
       "iiif_id": "2019LM6973",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LM6973/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "64da0ce641d1ce45f920fd90d1c32852bd63f90492922c97e01f1ff7ffccbf7f",
       "bytes": 157197,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767_2.jpg",
       "iiif_id": "2019LM6975",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LM6975/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "8a84d07a1c4d98070f37acd221013f45dca058832f384dbeef2800da6217379c",
       "bytes": 197875,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767_2.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767_3.jpg",
       "iiif_id": "2019LM6977",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LM6977/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ceea38333c5dd2d22a62b611db85e422e331556ffa8382590df7de6fce9f55b9",
       "bytes": 196928,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767_3.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767_4.jpg",
       "iiif_id": "2019LM6978",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LM6978/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "c77083aadcd06ea545f03535b02265d1dacb4fcaa67966057ddc0d57f8ed93ee",
       "bytes": 189006,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767_4.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767_5.jpg",
       "iiif_id": "2019LM6981",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LM6981/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "bf4378daa28c12c79b2dae93ee6db969d4a5fb8c108648aacd4937ecec2b32d4",
       "bytes": 193486,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767_5.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767_6.jpg",
       "iiif_id": "2019LM6984",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LM6984/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "91d5778314dbdc079febff9ee8fd1a511ef291f8fe5e0a811062d3cfe4d80213",
       "bytes": 76104,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767_6.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767_6.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/kalaga/images/va_O47767_7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/kalaga/images/va_O47767_7.jpg",
       "iiif_id": "2019LM6987",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LM6987/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d7062445fb1f4ef8c54e5086b97dde6ab29861deabbeabdd08c3fdbce69737a3",
       "bytes": 88517,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\kalaga\\images\\va_O47767_7.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\kalaga\\images\\va_O47767_7.jpg"
     }
   ],
   "map": {

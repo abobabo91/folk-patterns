@@ -18,7 +18,14 @@
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photo of Maasai warriors with traditional feathered headdresses, shields, and spears, consistent with the claimed ethnicity and location (Kenya Colony, 1930).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Maasai warriors ._x000D_\n( Kenya Colony",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:54:58.412214+00:00"
+  "processed_at": "2026-07-28T18:46:11.355423+00:00"
 }

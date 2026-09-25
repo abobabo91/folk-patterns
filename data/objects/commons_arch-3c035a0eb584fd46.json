@@ -17,8 +17,15 @@
     "country": "China (Xinjiang)",
     "ethnicity": "Uyghur",
     "tradition": "Gaochang ruins",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This shows the ruins of Gaochang (Kocho) in Xinjiang, an ancient Uyghur Kingdom capital, with a modern mosque visible near the ruins; the archaeological site of a historic Uyghur city fits the claimed ethnicity's regional heritage.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "2015-09-17-074502 - Ruinenstätte Gaochang (Kocho), Mosche im Norden der Ruinenstätte.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/architectural/gaochang-ruins/images/carch_3c035a0eb584fd46.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/photo/gaochang-ruins/images/carch_3c035a0eb584fd46.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e823bb6b4bd673e7d391160f62d3ced3d96bbf3556f2c3c0ace19b8222e114b2",
       "bytes": 348568,
-      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\architectural\\gaochang-ruins\\images\\carch_3c035a0eb584fd46.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\photo\\gaochang-ruins\\images\\carch_3c035a0eb584fd46.jpg"
     }
   ],
   "map": {

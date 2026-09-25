@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian Iran",
     "art_form": "garment",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a face veil (burqa/battoulah-type) worn by women near the Persian Gulf, collected in Bandar Abbas/Minab, Iran, which fits the claimed Persian ethnicity as a regional garment tradition.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "garment",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Gezichtsmasker",
@@ -65,8 +72,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "b751c70b54263fdaf360584aa6004ac5b851e67b6dd33bc112484a9c3a39490d",
-      "bytes": 19615,
+      "sha256": "1a141be5bac413894277cb99ea94ee10e9c7ee95f5898d9ffcda3ea13b8fefdf",
+      "bytes": 1127493,
       "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\persian-iran\\images\\eu_2048221_europeana_fashion_1033548.jpg"
     }
   ],
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:39.630178+00:00"
+  "processed_at": "2026-07-28T18:42:16.400143+00:00"
 }

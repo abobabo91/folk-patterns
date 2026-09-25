@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Turkmen carpet",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a woven wool tent bag face with the classic Turkmen (Tekke-type) gul lattice design and asymmetrical knotting, a nomadic weaving typical of the Central Asian region; it fits the general regional attribution even though the specific ethnic subgroup can't be pinpointed.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -87,31 +91,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/turkmen-carpet/images/va_O156860.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O156860.jpg",
       "iiif_id": "2015HM6059",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2015HM6059/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "86ab7b828c29ff8652037a62620fde20d135cf57c96f059cdf8e2b4c67953c92",
       "bytes": 86371,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\turkmen-carpet\\images\\va_O156860.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O156860.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/turkmen-carpet/images/va_O156860_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O156860_1.jpg",
       "iiif_id": "2012FT7103",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FT7103/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e462fcf1036d02afef534e7f9a62eb58e07766a2259d2ae69ebf91e1fdd8d4c0",
       "bytes": 269493,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\turkmen-carpet\\images\\va_O156860_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O156860_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/turkmen-carpet/images/va_O156860_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O156860_2.jpg",
       "iiif_id": "2012FT7104",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FT7104/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "4b9289068c72b789dcf8890f18d64331cb10e0fe5ea62117b8255f59ba44ca32",
       "bytes": 280216,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\turkmen-carpet\\images\\va_O156860_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O156860_2.jpg"
     }
   ],
   "map": {
@@ -119,5 +123,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:26:44.567051+00:00"
+  "processed_at": "2026-07-18T06:30:31.719780+00:00"
 }

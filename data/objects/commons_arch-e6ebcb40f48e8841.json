@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Persepolis",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the archaeological remains of the Apadana Palace (Achaemenid Persia) at Susa, with scattered stone blocks and foundation fragments visible in an open field — this is Persian archaeological heritage.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Apadana3.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/persepolis/images/carch_e6ebcb40f48e8841.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/photo/persepolis/images/carch_e6ebcb40f48e8841.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a461f669d7da067b2c049a5ad370f27299f44fe933b2546888e0c510e4473863",
       "bytes": 267736,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\persepolis\\images\\carch_e6ebcb40f48e8841.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\photo\\persepolis\\images\\carch_e6ebcb40f48e8841.jpg"
     }
   ],
   "map": {

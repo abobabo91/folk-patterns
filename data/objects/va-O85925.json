@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Chin",
     "tradition": "Chin weaving",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A black plain-weave shirt panel with supplementary-weft geometric bands in dark pink/red and green, of a style consistent with Chin textiles from Myanmar; this matches known Chin garment traditions well.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -291,13 +296,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/unclassified/chin-weaving/images/va_O85925.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin-weaving/images/va_O85925.jpg",
       "iiif_id": "2006BB3810",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BB3810/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "7f9c48a00ec2b25cc339a538024a679d3cc04164077eb06d96c8f50f9548763d",
       "bytes": 170125,
-      "local_path": "library\\southeast-asia\\myanmar\\chin\\unclassified\\chin-weaving\\images\\va_O85925.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin-weaving\\images\\va_O85925.jpg"
     }
   ],
   "map": {

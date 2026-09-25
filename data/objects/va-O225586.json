@@ -20,8 +20,12 @@
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "ceramic"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "ceramic",
+    "vision_reason": "The dish shows a polychrome slip-painted glazed earthenware ware with quartered floral medallion and dense geometric borders, a style typical of Central Asian (Turkestan) pottery centers like Rishtan or Samarkand — consistent with a \"regional\" Central Asian ceramic attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,

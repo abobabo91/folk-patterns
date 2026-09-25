@@ -17,8 +17,15 @@
     "country": "Kenya",
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
-    "art_form": "metalwork",
-    "pattern_density": 0
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a sword with leather scabbard, cited to Merker's \"Die Masai\" reference work, consistent with a Maasai simi (short sword) with its leather sheath — a documented Maasai weapon type.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "svärd med skida, svärd",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "2e7ec84c8478ca0a26361aaddc9e7e2dda31c9acb0d3190c3acdd98bd9fe8bbc",
       "bytes": 3235,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\metalwork\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48739.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\metalwork\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48739.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:55:03.700471+00:00"
+  "processed_at": "2026-07-28T18:46:13.637033+00:00"
 }

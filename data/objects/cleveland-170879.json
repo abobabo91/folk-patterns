@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "central-asia",
-    "country": "Uzbekistan",
-    "ethnicity": "Uzbek",
-    "tradition": "Uzbek",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "region": "middle-east-north-africa",
+    "country": "Iran",
+    "ethnicity": "Persian",
+    "tradition": "Persian",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A page of fine Persian calligraphy (verses of Hafiz) from an album, consistent with Persian/Persianate court art traditions; the calligrapher worked in Safavid Iran and Mughal India, so this fits the claimed Persian ethnicity despite the album's compilation in Bukhara.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Calligraphic exercises and verses of Hafiz (Persian, about 1325–1389) (verso)",
@@ -70,13 +75,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbek/images/cle_170879.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/persian/images/cle_170879.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2dd4f5e4dd9c537ed1f02186993dee9b3b5892b56f53bba34097a5f585be324b",
       "bytes": 251003,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbek\\images\\cle_170879.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian\\images\\cle_170879.jpg"
     }
   ],
   "map": {
@@ -84,5 +89,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:44.919968+00:00"
+  "processed_at": "2026-07-28T18:41:00.851857+00:00"
 }

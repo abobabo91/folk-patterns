@@ -19,8 +19,13 @@
     "tradition": "My Son",
     "art_form": "architectural",
     "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a modern brick entrance archway/signage gate at the Mỹ Sơn UNESCO site (Cham temple complex), not the ancient temples themselves, but it is still a structure at the Cham archaeological site.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "0040223 My Son UNESCO site entrance, Cham Hindu temples complex, Vietnam.jpg",

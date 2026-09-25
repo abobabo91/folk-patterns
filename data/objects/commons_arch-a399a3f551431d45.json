@@ -17,8 +17,15 @@
     "country": "Somalia",
     "ethnicity": "Somali",
     "tradition": "Laas Geel",
-    "art_form": "painting-mss",
-    "pattern_density": 2
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary snapshot of Somali people (traditional dress, headscarf, handbag) and vehicles at the Laas Geel rock art site during a book fair event, not a painting or manuscript itself. It fits the claimed Somali ethnicity as a documentary photo of daily life, but the category should be photo, not painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "ASC Leiden - van de Bruinhorst Collection - Somaliland 2019 - 4550 - Visitors of the Hargeysa 12th International Book Fair 20-25 July 2019 with a police car arriving at the caves with rock paintings of Laas Geel.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/architectural/laas-geel/images/carch_a399a3f551431d45.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/somalia/somali/painting-mss/laas-geel/images/carch_a399a3f551431d45.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "88d846e3cf4e0f2485dd113102365025b1c5e08044bef5c505a964d611de215d",
       "bytes": 268223,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\architectural\\laas-geel\\images\\carch_a399a3f551431d45.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\laas-geel\\images\\carch_a399a3f551431d45.jpg"
     }
   ],
   "map": {

@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a silk batik shoulder cloth made by Chinese communities on Java's north coast, produced and worn within Javanese coastal cultural context (and traded regionally); it was made, traded, and worn in Java, so it fits the broader Javanese textile tradition despite Chinese motifs and makers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "textile"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/javanese/images/cle_110569.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/java/images/cle_110569.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "b3bbd2e98d94cf728c7e396d7a3c4a8673ccd2428b13ed4d30a1ec583dbe4b7d",
       "bytes": 179832,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\javanese\\images\\cle_110569.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\java\\images\\cle_110569.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:28.936124+00:00"
+  "processed_at": "2026-07-28T11:56:28.242275+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Yoruba",
     "tradition": "Yoruba",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a raffia strip-woven cloth with supplementary weft accents in green and burgundy, consistent with the described Yoruba-style aso oke technique described in the metadata.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "cloth",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "6db8f519c58a7329721f2d6c1151eb07f7e013c666b7adbb82765131f463dd66",
       "bytes": 6187,
-      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba\\images\\bm_E_Af1981-09-15.jpg"
+      "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba\\images\\bm_E_Af1981-09-15.jpg",
+      "low_quality": true
     }
   ],
   "map": {

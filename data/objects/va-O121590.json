@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a Turkmen-style pile carpet with rows of octagonal \"gul\" motifs in madder red with dark accents, a classic Central Asian (Turkoman) design consistent with a generic \"_regional\" Central Asian attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -99,49 +103,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121590.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121590.jpg",
       "iiif_id": "2017KA1750",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1750/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "e837d21ae1a76aeda14531384db6f37c35075c30e44bec339a9283c36ee65611",
       "bytes": 166210,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121590.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121590.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121590_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121590_1.jpg",
       "iiif_id": "2013GB4200",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2013GB4200/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "6d1d8eef46350a8a5529c71977d4ec949d24987ea233b2978850e2a7ac5b73dd",
       "bytes": 355620,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121590_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121590_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121590_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121590_2.jpg",
       "iiif_id": "2017KA1748",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1748/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "ae98692ca03bda99de388c05d34546eb03f2614d7b677766568ee7bdeb96be12",
       "bytes": 116913,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121590_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121590_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121590_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121590_3.jpg",
       "iiif_id": "2017KA1749",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1749/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "5b0dce75caf96079fd12c87c22ee47e33a44d13682236e4839ab099cee174d0c",
       "bytes": 156853,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121590_3.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121590_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121590_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121590_4.jpg",
       "iiif_id": "2017KA1753",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1753/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "c29bd6f4bfd587de6daf21d1d0a5b5de394e2a1931402ab053fe87e3b16d0b8f",
       "bytes": 109270,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121590_4.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121590_4.jpg"
     }
   ],
   "map": {
@@ -149,5 +153,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:30:35.172072+00:00"
+  "processed_at": "2026-07-18T06:28:12.030767+00:00"
 }

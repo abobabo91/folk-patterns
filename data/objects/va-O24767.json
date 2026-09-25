@@ -13,15 +13,19 @@
     "accession_year": 1989
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "wayang kulit",
     "art_form": "sculpture",
-    "pattern_density": 2,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "A stone relief fragment carved with figures in traditional East Javanese temple style (frontal torsos, three-quarter heads, foliate and eye-motif borders), consistent with historic Javanese temple architecture ornament.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Relief  Panel",
@@ -265,13 +269,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/wayang-kulit/images/va_O24767.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/va_O24767.jpg",
       "iiif_id": "2006AU4464",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AU4464/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5cd2b0f5cb986439ebe56a0bee37b38c6018e7a213fb761f642bd26e0a2c259e",
       "bytes": 223896,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\wayang-kulit\\images\\va_O24767.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\va_O24767.jpg"
     }
   ],
   "map": {

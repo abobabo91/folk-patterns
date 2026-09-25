@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "wayang kulit",
-    "art_form": "sculpture",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "art_form_vision": "sculpture"
+    "art_form_vision": "masks-ritual",
+    "vision_reason": "This is a leather wayang kulit shadow puppet with painted/gilded articulated arms, a classic Javanese theatrical figure, matching the claimed ethnicity though better classified as masks-ritual/theatrical object rather than sculpture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Shadow puppet (wayang kulit)",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/si_chndm_1935-15-1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/si_chndm_1935-15-1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e0b901738f6b916b1e6992bcfd41b930801693137ea6b8b9172ef079a0d165f7",
       "bytes": 1933241,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\si_chndm_1935-15-1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\si_chndm_1935-15-1.jpg"
     }
   ],
   "map": {

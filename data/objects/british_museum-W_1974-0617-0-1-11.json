@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Persian",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A Persian album painting depicting a mullah with a woman smoking a water pipe, executed in traditional Safavid/Qajar-era style with Persian inscriptions — clearly Persian costume and manuscript art.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "album; painting",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/persian/images/bm_W_1974-0617-0-1-11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/persian/images/bm_W_1974-0617-0-1-11.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ac922755f485fad17c67f55c0aec5cba5c9e629aa05a0d770770e64f9d73be18",
       "bytes": 59754,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\persian\\images\\bm_W_1974-0617-0-1-11.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian\\images\\bm_W_1974-0617-0-1-11.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:58.596211+00:00"
+  "processed_at": "2026-07-28T18:59:07.506338+00:00"
 }

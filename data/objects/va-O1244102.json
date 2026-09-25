@@ -13,15 +13,19 @@
     "accession_year": 2011
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "wayang kulit",
-    "art_form": "sculpture",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "masks-ritual",
+    "vision_reason": "The image shows a traditional Javanese leather shadow puppet (wayang kulit) depicting a figure resembling Arjuna, made and used in Javanese performance traditions, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Javanese shadow puppet, possibly representing Arjuna.",
@@ -87,31 +91,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1244102.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/va_O1244102.jpg",
       "iiif_id": "2011FD2306",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2306/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "6b6adf9857b7f2e1cfd2bcbd715e0f7bd9b08ee42800a73239f930a68608d56d",
       "bytes": 90302,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1244102.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\va_O1244102.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1244102_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/va_O1244102_1.jpg",
       "iiif_id": "2011FD2273",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FD2273/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "e6faff2cb8ed0fb4d45610965cec3949b37051bcb9ba6e122c0824568c05bd32",
       "bytes": 90267,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1244102_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\va_O1244102_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1244102_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/va_O1244102_2.jpg",
       "iiif_id": "2012FG6912",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FG6912/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "7adffe71779de1556b5b5cae716b900bf672522789c4a1abde20608dd18c10c8",
       "bytes": 92229,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1244102_2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\va_O1244102_2.jpg"
     }
   ],
   "map": {

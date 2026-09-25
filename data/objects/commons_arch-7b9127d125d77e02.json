@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This shows carved stone relief detail at Goa Gajah, an ancient rock-cut sanctuary in Gianyar, Bali — architectural ornament carved in the Balinese homeland, though the site itself dates to an earlier era. The category is mislabeled (this is architectural carving, not painting-mss), but the ethnicity attribution to Balinese cultural heritage is valid.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "011 Carving Detail, Goa Gajah, Gyanyar, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/goa-gajah/images/carch_7b9127d125d77e02.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/goa-gajah/images/carch_7b9127d125d77e02.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6a4fa8cb0b2685da151e8f758e0545a9f43d0ec92cbc40e660232f3b803dca8d",
       "bytes": 1268883,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\goa-gajah\\images\\carch_7b9127d125d77e02.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\goa-gajah\\images\\carch_7b9127d125d77e02.jpg"
     }
   ],
   "map": {

@@ -17,8 +17,15 @@
     "country": "Tanzania",
     "ethnicity": "Swahili",
     "tradition": "Doors in Zanzibar",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a Zanzibar Stone Town building facade with carved wooden door, barred windows, and painted steps—typical Swahili coastal architecture of Zanzibar.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Red Steps - Zanzibar Stone Town.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/swahili/architectural/doors-in-zanzibar/images/carch_2b2623eb91f4bba8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/swahili/photo/doors-in-zanzibar/images/carch_2b2623eb91f4bba8.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "59e9bc68197fcc00a82bcb8937432de699b9b2c359d629d9c55722e37c8fb8d9",
       "bytes": 268490,
-      "local_path": "library\\sub-saharan-africa\\tanzania\\swahili\\architectural\\doors-in-zanzibar\\images\\carch_2b2623eb91f4bba8.jpg"
+      "local_path": "library\\sub-saharan-africa\\tanzania\\swahili\\photo\\doors-in-zanzibar\\images\\carch_2b2623eb91f4bba8.jpg"
     }
   ],
   "map": {

@@ -13,12 +13,19 @@
     "accession_year": "1936"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A silver hemidrachm coin with a profile portrait bust, excavated at Qasr-i Abu Nasr in Iran — a coin minted and used within Persian territory, consistent with the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Hemidrachm",
@@ -65,22 +72,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_323509.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/unclassified/general/images/met_323509.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "85c991567a8dd808d0427ae799295709a4ac3023f168e1981981ab0e765dfaaf",
       "bytes": 991478,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_323509.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\general\\images\\met_323509.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/unclassified/general/images/met_323509_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/unclassified/general/images/met_323509_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "7363aa04e403ce338105c0ba19d09ace0679fc7d6ec59224fad05e5717b90239",
       "bytes": 993786,
-      "local_path": "library\\mena\\iran\\persian\\unclassified\\general\\images\\met_323509_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\general\\images\\met_323509_1.jpg"
     }
   ],
   "map": {

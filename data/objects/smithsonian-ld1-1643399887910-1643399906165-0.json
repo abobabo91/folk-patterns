@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a clear ikat-woven hinggi (man's wrapper) from Sumba, Indonesia, with the characteristic banded design of stylized horses, birds, skulls and geometric motifs in rust, cream and dark indigo, complete with warp fringe at both ends — a textbook example of Sumbanese warp-ikat weaving.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Man's wrapper (hinggi)",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/indonesia/architectural/naga-motif/images/si_chndm_1938-26-1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/_regional/textile/naga-motif/images/si_chndm_1938-26-1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f6a12bb1870f529ead2e6ccef090a91284dc36225fd0d0929d3a8e6a00c0234a",
       "bytes": 2048301,
-      "local_path": "library\\southeast-asia\\indonesia\\indonesia\\architectural\\naga-motif\\images\\si_chndm_1938-26-1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\_regional\\textile\\naga-motif\\images\\si_chndm_1938-26-1.jpg"
     }
   ],
   "map": {

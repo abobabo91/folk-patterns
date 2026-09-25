@@ -17,8 +17,15 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Walls of Angkor Thom",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the ancient wall of Angkor Thom, a Khmer archaeological monument in Cambodia, with tree roots overgrowing the stone, and a tourist posing for scale; this is Khmer heritage architecture, so it fits the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "architectural",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Angkor Thom-Mauerweg-02-Vegetation-2007-gje.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/architectural/walls-of-angkor-thom/images/carch_dd573bbbdf7a2936.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/photo/walls-of-angkor-thom/images/carch_dd573bbbdf7a2936.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "098fd5179fc5dba2fbd3ff55b25a10526ae15d27bb6c75b76fed449dcd8276b2",
       "bytes": 434454,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\architectural\\walls-of-angkor-thom\\images\\carch_dd573bbbdf7a2936.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\photo\\walls-of-angkor-thom\\images\\carch_dd573bbbdf7a2936.jpg"
     }
   ],
   "map": {

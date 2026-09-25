@@ -19,8 +19,13 @@
     "tradition": "batik",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a batik head-cloth (kain kepala) with a dense floral rosette field and scrolling border, a traditional Malay/Indonesian batik textile type consistent with regional Malaysian dress.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -129,13 +134,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/batik/images/va_O478409.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/batik/images/va_O478409.jpg",
       "iiif_id": "2017JX7768",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7768/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "74a9181f20570782e039d2288ee8d15354f305fdafe88b05b3fbe692f7e67b66",
       "bytes": 493698,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\batik\\images\\va_O478409.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\batik\\images\\va_O478409.jpg"
     }
   ],
   "map": {

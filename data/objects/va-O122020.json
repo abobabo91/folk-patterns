@@ -14,14 +14,18 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Turkmenistan",
-    "ethnicity": "Turkmen",
-    "tradition": "Salor gul",
+    "country": "Afghanistan",
+    "ethnicity": "Afghan Turkmen",
+    "tradition": "Ersari carpet",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a Turkmen-style tribal bag face (chuval/torba) with characteristic gul medallions in deep madder red, asymmetrical knotting, and wool structure consistent with Central Asian nomadic weaving — a plausible regional Central Asian textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -138,22 +142,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O122020.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O122020.jpg",
       "iiif_id": "2017KC9894",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC9894/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d5edfc099da1945fdd52bcedf68f83909ef2b5ca337440efd04920976a022087",
       "bytes": 91676,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O122020.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O122020.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O122020_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ersari-carpet/images/va_O122020_1.jpg",
       "iiif_id": "2017KC9902",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC9902/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "3f640ca234b41635b812f38ce4458f5dff8027366151d6a0f2d928387f4a9ff1",
       "bytes": 140069,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O122020_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\ersari-carpet\\images\\va_O122020_1.jpg"
     }
   ],
   "map": {
@@ -161,5 +165,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:33:35.956482+00:00"
+  "processed_at": "2026-07-18T06:35:30.666115+00:00"
 }

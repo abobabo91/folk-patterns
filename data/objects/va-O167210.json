@@ -13,15 +13,19 @@
     "accession_year": 1926
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Salor gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a Turkmen (Salor) knotted wool pile carpet with classic gul medallions and a kilim end panel, matching the claimed Turkmen textile attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -124,112 +128,103 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210.jpg",
-      "iiif_id": "2017JX0214",
-      "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0214/full/{size}/0/default.jpg",
-      "role": "primary",
-      "sha256": "fe76b566eed6e5e48eaa410cb3a73e0fb81e5e262556dacb6cf6f7fab8279591",
-      "bytes": 371659,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210.jpg"
-    },
-    {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_1.jpg",
       "iiif_id": "2017JX0132",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0132/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "c91ed7d3b265c98a7e90ae1b7b08e51dec66b03a6e5e2a6a70d2e904220b64f9",
       "bytes": 325130,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_1.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_2.jpg",
       "iiif_id": "2017JX0183",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0183/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "2ebf6b09d2bdebc0c8089c7a3477d9ff4f4eefa893e1ecd11a24f29416e30d0b",
       "bytes": 311160,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_2.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_3.jpg",
       "iiif_id": "2017JX0185",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0185/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1fd22d768a5379a514198c6e4db59585539d9ede9b386679eaf0307932329b27",
       "bytes": 309395,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_3.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_4.jpg",
       "iiif_id": "2017JX0224",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0224/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "d92a027906529b298908a56a1664ef62082e92f775915a25099aec01a5f0b62e",
       "bytes": 322790,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_4.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_4.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_5.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_5.jpg",
       "iiif_id": "2017JX0201",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0201/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "eab4ec12f75fe4684f88802f3357d35d7e7709d794de6fb7289541d21ab7ea70",
       "bytes": 365767,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_5.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_5.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_6.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_6.jpg",
       "iiif_id": "2017JX0179",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0179/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "32dd0e2efb8092e1422903fff5093acd725fbb02eb3fe9219da23737a8abc921",
       "bytes": 370228,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_6.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_6.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_7.jpg",
       "iiif_id": "2017JX0175",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0175/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "2aa5399a394a1d5afa09f0af985393adc7bd0c1f8bcdc336148d6e9275f84da9",
       "bytes": 347511,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_7.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_7.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_8.jpg",
       "iiif_id": "2017JX0178",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0178/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "5001edeb5c29361548570e4ae535e74b0546bfa7658aa7e15297ac873267e95b",
       "bytes": 361709,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_8.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_8.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_9.jpg",
       "iiif_id": "2017JX0200",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX0200/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "3bee181fe54fb951990c8e9a05cfb317ef9da719e0374b5e74f5d5c75938e3e9",
       "bytes": 373700,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_9.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_9.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_10.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_10.jpg",
       "iiif_id": "2013GD0232",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2013GD0232/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "cb91cecb22aeb5efd832fb33b5df0243a58b5f2343e5927a40c5fb49168f2b7c",
       "bytes": 364050,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_10.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_10.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/salor-gul/images/va_O167210_11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/textile/gul-motif/images/va_O167210_11.jpg",
       "iiif_id": "2011EV3327",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011EV3327/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "1af91dcac547464e83842f5648026d2ad7e22f7c1de718944446863ebf5abf26",
       "bytes": 367640,
-      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\salor-gul\\images\\va_O167210_11.jpg"
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\textile\\gul-motif\\images\\va_O167210_11.jpg"
     }
   ],
   "map": {
@@ -237,5 +232,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:32:32.581081+00:00"
+  "processed_at": "2026-07-18T06:27:00.045093+00:00"
 }

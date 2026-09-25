@@ -14,14 +14,18 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Turkmenistan",
-    "ethnicity": "Turkmen",
-    "tradition": "Tekke gul",
+    "country": "Afghanistan",
+    "ethnicity": "Afghan Turkmen",
+    "tradition": "Ersari carpet",
     "art_form": "textile",
-    "pattern_density": 3,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a Turkmen (Central Asian) tribal knotted-wool bag face with classic gul medallion field and elem stripe, a woven textile — not metalwork despite the stated category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -100,31 +104,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121160.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/ersari-carpet/images/va_O121160.jpg",
       "iiif_id": "2017JY9343",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JY9343/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "71ffb71b9148f0e1e11b2d5501790a20cd91ce65dbe85fe0d599bc12a8618cd4",
       "bytes": 184587,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121160.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\ersari-carpet\\images\\va_O121160.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121160_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/ersari-carpet/images/va_O121160_1.jpg",
       "iiif_id": "2012FM5651",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM5651/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "14c44be0c9f5db96994c4cb3f56ee0b868e608e83669aa80b7bf25a3774cdefe",
       "bytes": 102183,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121160_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\ersari-carpet\\images\\va_O121160_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/tekke-gul/images/va_O121160_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/metalwork/ersari-carpet/images/va_O121160_2.jpg",
       "iiif_id": "2017JY9374",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JY9374/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "191c3e9890cc681f6247bdb071c683a94879228b0963fcf0455cc8aff09ecbd2",
       "bytes": 206603,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\tekke-gul\\images\\va_O121160_2.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\metalwork\\ersari-carpet\\images\\va_O121160_2.jpg"
     }
   ],
   "map": {
@@ -132,5 +136,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:31:11.092627+00:00"
+  "processed_at": "2026-07-18T06:35:36.657515+00:00"
 }

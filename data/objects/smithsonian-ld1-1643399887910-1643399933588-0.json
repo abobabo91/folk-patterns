@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "kain panjang",
+    "tradition": "batik",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a gold-thread (songket-style) long sarong cloth with a dense diamond lattice pattern and floral border, consistent with Javanese woven textile traditions and the Yogyakarta location noted.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Long sarong (kain panjang)",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/kain-panjang/images/si_chndm_1961-115-2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/si_chndm_1961-115-2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e7c7e9f3a495b470e7c45791dba6144a5df02cfafd9dd08b9c0871f56410fb96",
       "bytes": 6711353,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\kain-panjang\\images\\si_chndm_1961-115-2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\si_chndm_1961-115-2.jpg"
     }
   ],
   "map": {
@@ -83,5 +87,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:51:35.532581+00:00"
+  "processed_at": "2026-07-18T11:48:50.960050+00:00"
 }

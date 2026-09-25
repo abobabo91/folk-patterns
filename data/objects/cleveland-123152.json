@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 3,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows four unsewn pieces of fine piña cloth with hand embroidery, forming components of a baro-camisa ensemble (a traditional Filipino piña garment), consistent with the claimed Filipino ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Blouse in four pieces",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.513458+00:00"
+  "processed_at": "2026-07-28T18:41:28.071612+00:00"
 }

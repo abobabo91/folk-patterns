@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a conical fiber and cloth headdress/mask covered with cowrie shells, beadwork, and raffia fringe, consistent with a Kuba (or related Congo basin) prestige/ritual headpiece such as a mukyeem-type mask; the museum's own title identifies it as such.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "mask, mukyeem",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "66270275db46d11dc98f65e9cda54f8c2744ae292501db3aedf04290827ec7c2",
       "bytes": 28372,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba-congo\\images\\eu_91619_SMVK_EM_objekt_1210355.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba-congo\\images\\eu_91619_SMVK_EM_objekt_1210355.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:10.614667+00:00"
+  "processed_at": "2026-07-28T18:46:51.853103+00:00"
 }

@@ -13,14 +13,19 @@
     "accession_year": 1984
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Laos",
     "ethnicity": "Lao",
     "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "Handwoven silk scarf with pink/red weft-ikat and geometric weft-supplementary bands on white ground, consistent with traditional Lao silk weaving.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -86,22 +91,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/unclassified/lao-silk/images/va_O478367.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O478367.jpg",
       "iiif_id": "2020MP8064",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8064/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b29604417a972f5448aa9ffae9d6f3690df307c6bdf127af9c61e15c8fed673a",
       "bytes": 298834,
-      "local_path": "library\\southeast-asia\\laos\\lao\\unclassified\\lao-silk\\images\\va_O478367.jpg"
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O478367.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/unclassified/lao-silk/images/va_O478367_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O478367_1.jpg",
       "iiif_id": "2016JE0931",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2016JE0931/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "73a06413eb74417440f55012b42b8e5140282259de7b90b31bf9e36024b0b7ce",
       "bytes": 194239,
-      "local_path": "library\\southeast-asia\\laos\\lao\\unclassified\\lao-silk\\images\\va_O478367_1.jpg"
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O478367_1.jpg"
     }
   ],
   "map": {

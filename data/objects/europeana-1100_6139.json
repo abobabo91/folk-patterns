@@ -17,8 +17,15 @@
     "country": "Ethiopia",
     "ethnicity": "Amhara",
     "tradition": "Amhara Ethiopia",
-    "art_form": "painting-mss",
-    "pattern_density": 0
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is the striped fabric binding cover of an Ethiopian Ge'ez manuscript (Amhara Christian tradition), not a page of text but the textile binding itself, which is an object used/made within the culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Ethiopian Psalter and Prayers to the Virgin (Weddase Maryam, Weddase wa-genay la-Emma Adonay)",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/amhara/unclassified/amhara-ethiopia/images/eu_1100_6139.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/amhara/painting-mss/amhara-ethiopia/images/eu_1100_6139.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a7e109e4b28c8dfa7fea1838a9d6c3a306c8c14c16f8cf3c41acdb5f0bf5f6b6",
       "bytes": 38028,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\amhara\\unclassified\\amhara-ethiopia\\images\\eu_1100_6139.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\amhara\\painting-mss\\amhara-ethiopia\\images\\eu_1100_6139.jpg"
     }
   ],
   "map": {

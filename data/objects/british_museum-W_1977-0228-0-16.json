@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian",
     "art_form": "painting-mss",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A gilt and painted album-leaf portrait of a crouched shaykh with Persian verses in the margin and Arabic inscriptions, consistent with a Persian manuscript/album painting tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "painting; album",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:58.290639+00:00"
+  "processed_at": "2026-07-28T18:59:06.620994+00:00"
 }

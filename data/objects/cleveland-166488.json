@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a classic Turkmen bag face (torba) with rows of Saryk-type lobed guls on a red pile ground, a woven bag panel used by Turkmen tribes for tent storage — clearly matching the claimed Turkmen/Saryk attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Turkmen Bag Face",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:03.423776+00:00"
+  "processed_at": "2026-07-28T18:40:55.614911+00:00"
 }

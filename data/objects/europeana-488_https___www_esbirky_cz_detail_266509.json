@@ -17,8 +17,15 @@
     "country": "Central African Republic",
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photograph of a woman with body scarification, labeled Bambuti (Mbuti), taken in the field setting typical of Central African Pygmy ethnographic photography — consistent with the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Medium figure women with scarification, Bambuti",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:35.714906+00:00"
+  "processed_at": "2026-07-28T18:47:24.708274+00:00"
 }

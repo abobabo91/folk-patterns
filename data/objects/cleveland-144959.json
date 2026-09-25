@@ -20,7 +20,11 @@
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Sawankhalok stoneware jar lid with incised scrolling foliage decoration, produced in the Sukhothai kingdom of Thailand — a classic Thai ceramic tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:06.106836+00:00"
+  "processed_at": "2026-07-28T18:41:21.114504+00:00"
 }

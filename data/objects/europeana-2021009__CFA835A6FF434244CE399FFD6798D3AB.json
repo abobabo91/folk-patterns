@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a photographic portrait of a man with a headwrap and layered beaded necklace, consistent with Himba or related Namibian pastoralist dress; it is a documentary photo, not a painting or manuscript.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Himba-mies istuu",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/unclassified/himba-namibia/images/eu_2021009__CFA835A6FF434244CE399FFD6798D3AB.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/painting-mss/himba-namibia/images/eu_2021009__CFA835A6FF434244CE399FFD6798D3AB.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c5aa8ff360873d07d123f45604345df98ff182b6ab5cb5d37dc0c5cf979ebd4d",
       "bytes": 125397,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__CFA835A6FF434244CE399FFD6798D3AB.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__CFA835A6FF434244CE399FFD6798D3AB.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:52.189709+00:00"
+  "processed_at": "2026-07-28T18:47:46.962661+00:00"
 }

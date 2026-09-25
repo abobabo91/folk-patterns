@@ -13,15 +13,19 @@
     "accession_year": "1984"
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "general",
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "A four-armed stone Ganesha carved in the East Javanese style, said to be from the Kutei region of Kalimantan; the museum's own location note places it outside Java, but such stone Ganesha images are characteristic products of Hindu-Javanese sculptural tradition exported/found across the archipelago, so it plausibly belongs to Javanese religious sculpture rather than a distinct local Kalimantan tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Seated Four-Armed Ganesha",

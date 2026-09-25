@@ -18,7 +18,15 @@
     "ethnicity": "Toraja",
     "tradition": "Tau-tau",
     "art_form": "sculpture",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/0/02/19th_century_ancestor_figure",
+    "vision_reason": "The image shows a wooden tau tau ancestor effigy, a well-documented Toraja funerary sculpture tradition from Sulawesi, matching both the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "19th century ancestor figure (tau tau) from Sulawesi, Buntu Bourake, HAA.JPG",
@@ -61,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/toraja/architectural/tau-tau/images/carch_288f6fb0af6e4b20.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/toraja/sculpture/tau-tau/images/carch_288f6fb0af6e4b20.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bd9895c95c6f9e2dc0e92587c39f846a2da12a78d5507f8c065dc56543d00e27",
       "bytes": 476011,
-      "local_path": "library\\southeast-asia\\indonesia\\toraja\\architectural\\tau-tau\\images\\carch_288f6fb0af6e4b20.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\sculpture\\tau-tau\\images\\carch_288f6fb0af6e4b20.jpg"
     }
   ],
   "map": {

@@ -17,8 +17,15 @@
     "country": "Tajikistan",
     "ethnicity": "Tajik",
     "tradition": "Sarazm",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "jewelry",
+    "vision_reason": "The image shows a gold beaded necklace excavated from the \"Princess of Sarazm\" tomb in Tajikistan, dating to the mid-4th millennium BC—an archaeological artifact from the same territory as the claimed Tajik ethnicity, though from a prehistoric culture long predating any modern ethnic group.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Collier constitué de perles bi-triconiques pleines.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/architectural/sarazm/images/carch_c9805927c3ac5f93.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/photo/sarazm/images/carch_c9805927c3ac5f93.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6987bd1953f179dc0530479fb563762a4aab42a133cac624bc93e59f712cdbd4",
       "bytes": 184726,
-      "local_path": "library\\central-asia\\tajikistan\\tajik\\architectural\\sarazm\\images\\carch_c9805927c3ac5f93.jpg"
+      "local_path": "library\\central-asia\\tajikistan\\tajik\\photo\\sarazm\\images\\carch_c9805927c3ac5f93.jpg"
     }
   ],
   "map": {

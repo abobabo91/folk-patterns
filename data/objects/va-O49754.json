@@ -13,14 +13,19 @@
     "accession_year": 1927
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "Burmese lacquer",
-    "art_form": "textile",
-    "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a lacquered teak scripture box with a decorative shrine (used for storing Buddhist manuscripts) made in Burma with typical Bamar motifs (nats, biluus, hti finial) — a genuine Bamar craft object, though it's a container/architectural object rather than a painting or manuscript itself.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": null,
@@ -359,13 +364,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/burmese-lacquer/images/va_O49754.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/painting-mss/burmese-lacquer/images/va_O49754.jpg",
       "iiif_id": "2006AH2098",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AH2098/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "d3a80dff5ed3d3bdb4cb3fe51ffd61d45c0ab3c2ebdeb5f64b4f3a490445d6c5",
       "bytes": 237976,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\burmese-lacquer\\images\\va_O49754.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\painting-mss\\burmese-lacquer\\images\\va_O49754.jpg"
     }
   ],
   "map": {

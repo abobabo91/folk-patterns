@@ -13,12 +13,19 @@
     "accession_year": "1891"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "metalwork",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a metal (bronze/tinned copper) bowl with engraved calligraphic inscription bands and arabesque decoration, a well-known Persian metalworking tradition (likely Timurid/Safavid Tabriz), though catalogued here as \"ceramic\" it is actually metalwork.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Inscribed Bowl",
@@ -73,49 +80,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444614.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444614.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "34a7ff60907b672267d259211001bd0d98be430b6343ae7d13f7935a85c1f643",
       "bytes": 2397858,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444614.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444614.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444614_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444614_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "5aa7f1033a2cda61cc14d9bd633319ce30839cab2c9611f4c3e5fca930fc99ce",
       "bytes": 141662,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444614_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444614_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444614_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444614_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "d3217dc4b45ac3afa9553932123918d0f7a97aeb6a53b54c69691220906f3682",
       "bytes": 229660,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444614_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444614_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444614_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444614_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "0ebdc0a5dd421edd3d6b6566df90c9833c4c2d45cacc67fe677182a820eeee41",
       "bytes": 205689,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444614_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444614_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444614_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444614_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "24c2ac1c415a4e0ababd96cd1653b2af0e169244c66f7ff5e86b64ad597f8820",
       "bytes": 284629,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444614_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444614_4.jpg"
     }
   ],
   "map": {

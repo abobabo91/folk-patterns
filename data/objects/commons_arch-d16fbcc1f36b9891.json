@@ -20,8 +20,12 @@
     "art_form": "architectural",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "This is a modern longhouse in Sarawak, an elevated multi-family dwelling on stilts with a shared verandah, a traditional Iban/Dayak architectural form, though built with contemporary materials (corrugated roofing, sawn timber).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Sarawak 08-04-2023 19.jpg",

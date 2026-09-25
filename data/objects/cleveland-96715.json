@@ -18,9 +18,13 @@
     "ethnicity": "Malay",
     "tradition": "Malay",
     "art_form": "metalwork",
-    "pattern_density": 1,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A pair of repoussé white-metal pillow-end plates with floral and bird motifs, a traditional decorative metalwork form used in the Malay world; plausible as Malay craft.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "metalwork"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/ceramic/malay/images/cle_96715.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/metalwork/malay/images/cle_96715.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fda48095a1e9795fb9cf43d8ac4c60b52caa819aaf58fcd17fdb0bebf5c806bb",
       "bytes": 148734,
-      "local_path": "library\\southeast-asia\\malaysia\\malay\\ceramic\\malay\\images\\cle_96715.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\metalwork\\malay\\images\\cle_96715.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:57.894215+00:00"
+  "processed_at": "2026-07-28T18:41:20.381064+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "Somalia",
     "ethnicity": "Somali",
     "tradition": "Somali",
-    "art_form": "unclassified",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photo of a Somali delegation meeting Italian officials, with the Somali men wearing traditional white kufi-style caps; it's a snapshot of a diplomatic meeting rather than depicting Somali dress/craft in itself, but the caps are a genuine ethnic garment element.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "photo",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Segni conversa con la delegazione somala. Campo medio",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "8bf07cb16de2f654cbcf3f97fdd6cfb50ec5d198137e78d7cf707350f640773a",
       "bytes": 25946,
-      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010894_gen9.jpg"
+      "local_path": "library\\sub-saharan-africa\\somalia\\somali\\unclassified\\somali\\images\\eu_08602_VedoIL0000010894_gen9.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:34.070317+00:00"
+  "processed_at": "2026-07-28T18:48:31.452121+00:00"
 }

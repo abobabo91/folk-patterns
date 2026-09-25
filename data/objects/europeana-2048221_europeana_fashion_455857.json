@@ -17,10 +17,15 @@
     "country": "Malaysia",
     "ethnicity": "Iban",
     "tradition": "Iban",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of two Dayak/Iban (Borneo) women wearing beaded/rattan corset-belts, bead necklaces, and patterned woven or beaded skirts—traditional dress plausible for the Iban/Dayak region of Borneo, so it fits the claimed ethnicity despite the category being mislabeled.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Portrait of two Iban women",
@@ -32,11 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/1764"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/1764",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -81,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:53.672140+00:00"
+  "processed_at": "2026-07-28T18:44:20.345913+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Zulu",
     "tradition": "Zulu",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a group of Zulu women and children outdoors, one woman bare-chested in traditional dress with beadwork, others in wrapped garments — a clear documentary scene of traditional dress and daily life.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Zulunaisia lapsineen Etelä-Afrikassa Natalin provinssissa",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "5238837dca75f99d436aa019bfaca75601ac52ae11725849d9b37a69f6ae56ad",
       "bytes": 24916,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\unclassified\\zulu\\images\\eu_2021009__082398A65EC4B979D471685454FE296E.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\unclassified\\zulu\\images\\eu_2021009__082398A65EC4B979D471685454FE296E.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:06:01.489761+00:00"
+  "processed_at": "2026-07-28T18:47:27.382344+00:00"
 }

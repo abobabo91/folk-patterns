@@ -18,7 +18,14 @@
     "ethnicity": "Afar",
     "tradition": "Afar Ethiopia",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A simple wooden-soled sandal with rope thong binding, a plausible traditional footwear type for the Afar region; museum attributes it to Afar tribesmen.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Afar Tribe-men's sandal.",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "986286eea53eedbb9fd4d354384b85d99ce0350cff5b2a19df7c9d291b703d8b",
       "bytes": 25123,
-      "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\garment\\afar-ethiopia\\images\\eu_2048222_europeana_fashion_291.jpg"
+      "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\garment\\afar-ethiopia\\images\\eu_2048222_europeana_fashion_291.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:24:20.898673+00:00"
+  "processed_at": "2026-07-28T18:48:35.406922+00:00"
 }

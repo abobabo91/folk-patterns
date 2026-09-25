@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a hand-tinted documentary photograph of Bakuba (Kuba) boys in raffia skirts gathered for puberty rite ceremonies, matching the claimed ethnicity and their traditional dress/customs, though it is not a painting or manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "pojkar, gruppbild, utsmyckningar, fotografi, photograph",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/unclassified/kuba-congo/images/eu_91627_SMVK_EM_fotografi_25192737.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/painting-mss/kuba-congo/images/eu_91627_SMVK_EM_fotografi_25192737.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9172ba70537cb0526b0f303d0fe0e288e92ea81e2f0a5a523ac6bb1faf5733e3",
       "bytes": 107457,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\unclassified\\kuba-congo\\images\\eu_91627_SMVK_EM_fotografi_25192737.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\painting-mss\\kuba-congo\\images\\eu_91627_SMVK_EM_fotografi_25192737.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:27.284121+00:00"
+  "processed_at": "2026-07-28T18:47:02.709354+00:00"
 }

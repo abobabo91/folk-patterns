@@ -13,14 +13,19 @@
     "accession_year": 1996
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a woven longyi (sarong cloth) with diamond and stripe patterning, a garment type worn throughout Myanmar including by the Bamar; though described as a Chiangmai-style design, such patterns are commonly made and worn in Burma.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -200,13 +205,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11327.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11327.jpg",
       "iiif_id": "2020MP5163",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5163/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "742fad4de1bde749cd8c3f0bd3511f77684dd1b01245d2878843907ed2bff6bc",
       "bytes": 424713,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11327.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11327.jpg"
     }
   ],
   "map": {

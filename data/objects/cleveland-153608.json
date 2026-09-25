@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
-    "art_form": "sculpture",
-    "pattern_density": 3,
+    "tradition": "Cambodian",
+    "art_form": "metalwork",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a cast bronze multiheaded naga finial from a royal palanquin, Angkor Wat period Khmer court art, matching the claimed ethnicity and metalwork category perfectly.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "metalwork"
   },
   "physical": {
     "title": "Naga Finial",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer/images/cle_153608.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/metalwork/cambodian/images/cle_153608.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8a56b6f9de9ee08a2826c8cd432abb45c6ff12e2b23f5c021f9b7f2a92899374",
       "bytes": 197522,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer\\images\\cle_153608.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\metalwork\\cambodian\\images\\cle_153608.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.168289+00:00"
+  "processed_at": "2026-07-28T11:57:26.032041+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": 1988
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain panjang",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a batik kain panjang (cloth for wrapping) in a slobog geometric pattern, a traditional Javanese textile/garment form consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Tumbal Tolak Bala",
@@ -80,13 +84,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/kain-panjang/images/va_O455852.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O455852.jpg",
       "iiif_id": "2021NA3558",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3558/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "0238c71cbd235dba20823e013f6760187ab464383b8546806064ab1f2b8c86f2",
       "bytes": 208948,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\kain-panjang\\images\\va_O455852.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O455852.jpg"
     }
   ],
   "map": {

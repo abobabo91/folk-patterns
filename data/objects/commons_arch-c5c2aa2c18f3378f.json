@@ -18,7 +18,14 @@
     "ethnicity": "Thai",
     "tradition": "Sukhothai Historical Park",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A young Thai boy sits at a wooden restaurant table/chair in Sukhothai Historical Park, a documentary snapshot of daily life in Thailand, fitting the Thai ethnicity claim despite the wrong category label.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "201312141058b HL ps Sukothai, Old Town.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/architectural/sukhothai-historical-park/images/carch_c5c2aa2c18f3378f.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/thai/photo/sukhothai-historical-park/images/carch_c5c2aa2c18f3378f.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "399b7e300fa75b2e7e753d517c4e6fbf26693c61553e5fc43b2f885ec5642507",
       "bytes": 592291,
-      "local_path": "library\\southeast-asia\\thailand\\thai\\architectural\\sukhothai-historical-park\\images\\carch_c5c2aa2c18f3378f.jpg"
+      "local_path": "library\\southeast-asia\\thailand\\thai\\photo\\sukhothai-historical-park\\images\\carch_c5c2aa2c18f3378f.jpg"
     }
   ],
   "map": {

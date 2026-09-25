@@ -17,8 +17,15 @@
     "country": "Ethiopia",
     "ethnicity": "Tigray",
     "tradition": "Tigray",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a traditional Ethiopian Gospel manuscript leaf with a portrait of St. Luke and his ox symbol, painted in the characteristic Ethiopian church art style with Ge'ez text — a genuine product of Ethiopian Christian culture consistent with the Tigray region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Single Leaf from a Gospel Book with a  Portrait of Saint Luke",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/textile/tigray/images/cle_160940.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/painting-mss/tigray/images/cle_160940.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0fa731ed255226e9f2c1d7222785d9ecbc85784317faf7b9d4c7a86a1363728f",
       "bytes": 390752,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\textile\\tigray\\images\\cle_160940.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\painting-mss\\tigray\\images\\cle_160940.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:23:06.801326+00:00"
+  "processed_at": "2026-07-28T18:41:31.683197+00:00"
 }

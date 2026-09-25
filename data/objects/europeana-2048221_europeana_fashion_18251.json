@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Minangkabau",
     "tradition": "Minangkabau",
-    "art_form": "garment",
-    "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
+    "art_form": "photo",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a studio portrait of a Minangkabau girl wearing traditional adat festive dress with the distinctive tanduk-style headcloth, layered gold-thread jewelry, and songket-woven skirt — matching the museum's own description of Minangkabau women's ceremonial textile costume; the \"Men's tie\" title/description is unrelated boilerplate mismatched to this record.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Men's tie",
@@ -33,11 +37,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/1764"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/1764",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -82,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:07.123361+00:00"
+  "processed_at": "2026-07-28T18:43:35.192822+00:00"
 }

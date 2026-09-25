@@ -20,7 +20,11 @@
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A standing Buddha sculpture in Dvaravati style from Thailand, made by the Mon-Dvaravati culture of the region — plausible as Thai/regional heritage sculpture, though it predates the modern Thai ethnic tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:05.777714+00:00"
+  "processed_at": "2026-07-28T18:41:20.757767+00:00"
 }

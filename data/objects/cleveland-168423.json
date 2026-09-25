@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Sotho",
     "tradition": "Sotho",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The picture shows a dark carved horn snuff container in stylized anthropomorphic form, with a small head, arms folded across the chest, and a tapering conical body — a classic South Sotho snuff container form, clearly photographed against a neutral background.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Snuff Container",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/sotho/ceramic/sotho/images/cle_168423.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/sotho/sculpture/sotho/images/cle_168423.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a7e02222d7227e438966a2fab0ac79f85800654f7fa5701b6e319b3adef0c01a",
       "bytes": 125260,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\ceramic\\sotho\\images\\cle_168423.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\sculpture\\sotho\\images\\cle_168423.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:25:09.322759+00:00"
+  "processed_at": "2026-07-28T18:41:34.116498+00:00"
 }

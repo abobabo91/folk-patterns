@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Persian",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The drawing depicts a panoramic view of the Persian town of Yazd-i Khast with its fortified walled structures and surrounding agricultural terraces, part of an album of Persian costumes, animals, and topographical views (with some Kaempfer drawings) — clearly a documentary architectural/topographical view of a Persian site made within/for the culture's own study tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "drawing; album",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/garment/persian/images/bm_W_1974-0617-0-1-1-2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/persian/images/bm_W_1974-0617-0-1-1-2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ab80ed8ce39f06b2fe2d4a1acff5ec0c99383520e63aa88da83194c3c5cf26b2",
       "bytes": 95066,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\garment\\persian\\images\\bm_W_1974-0617-0-1-1-2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian\\images\\bm_W_1974-0617-0-1-1-2.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:58.305675+00:00"
+  "processed_at": "2026-07-28T18:59:06.700087+00:00"
 }

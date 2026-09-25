@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Ali Qapu",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows the Ali Qapu palace in Naqsh-e Jahan Square, Isfahan, a Safavid-era Persian royal building with its iconic columned talar, dating the image to 1885.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Ali-Qapu-1885.JPG",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/ali-qapu/images/carch_327d5b1a92854a00.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/photo/ali-qapu/images/carch_327d5b1a92854a00.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2de0531f792f6ec0a9dd48f0702c6b2ca27e162fa7a8a6516f54db1a11b49cf2",
       "bytes": 239097,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\ali-qapu\\images\\carch_327d5b1a92854a00.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\photo\\ali-qapu\\images\\carch_327d5b1a92854a00.jpg"
     }
   ],
   "map": {

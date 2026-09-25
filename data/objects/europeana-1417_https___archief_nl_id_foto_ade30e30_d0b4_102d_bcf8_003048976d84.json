@@ -19,8 +19,12 @@
     "tradition": "Minangkabau",
     "art_form": "architectural",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
     "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photograph shows intricately carved wooden façade details of a traditional Minangkabau adat house (rumah gadang) in the Padang Highlands, Sumatra, matching the claimed ethnicity and culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "architectural"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "d28f43b8ffa4994d939ca0d700ec05ed710ee62af5c3cb5f5aed9f3b1bbe23a7",
       "bytes": 25543,
-      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\minangkabau\\images\\eu_1417_https___archief_nl_id_foto_ade30e30_d0b4_102d_bcf8_003048976d84.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\unclassified\\minangkabau\\images\\eu_1417_https___archief_nl_id_foto_ade30e30_d0b4_102d_bcf8_003048976d84.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:09.774097+00:00"
+  "processed_at": "2026-07-28T18:43:37.384081+00:00"
 }

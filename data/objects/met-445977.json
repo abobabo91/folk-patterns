@@ -13,12 +13,19 @@
     "accession_year": "1910"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "ceramic",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A luster-painted frieze tile from Kashan depicting two mounted hunters amid scrolling vine ornament — classic Persian Kashan lusterware tile production, consistent with the claimed Iranian/Persian origin.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "Frieze Tile with Two Hunters",
@@ -71,49 +78,49 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_445977.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_445977.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a59781ac6cbd43bdefe5e4245e45d0fb90cbb4a8997c599be20b922c246bf188",
       "bytes": 5384533,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_445977.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_445977.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_445977_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_445977_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "9cbf817d247223abfcdd44f9236ccbdf1f39179ed85a24edbfee36dae70fb7a6",
       "bytes": 361765,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_445977_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_445977_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_445977_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_445977_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "585b27acd6baf28b5e288ece0cb9f748f7de2f6888ee995c50fe3a1e9c221963",
       "bytes": 1089149,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_445977_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_445977_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_445977_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_445977_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "73d438a7db77d3423f791795b8da62fdef2958bf8f7f93dab133b5aa06f92524",
       "bytes": 455194,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_445977_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_445977_3.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_445977_4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_445977_4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "924f064cfaa715cd6e5155500a98c06abad9693f734da3ed8fcc1f87811fabb9",
       "bytes": 4511737,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_445977_4.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_445977_4.jpg"
     }
   ],
   "map": {

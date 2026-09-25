@@ -20,7 +20,11 @@
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a red-on-buff painted earthenware jar excavated at Ban Chiang, Thailand, a prehistoric archaeological culture from the region now inhabited by Thai people; such Ban Chiang vessels are standard for representing early ceramics of Thailand's homeland.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:06.032682+00:00"
+  "processed_at": "2026-07-28T18:41:21.049949+00:00"
 }

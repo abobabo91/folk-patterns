@@ -17,8 +17,15 @@
     "country": "Tajikistan",
     "ethnicity": "Tajik",
     "tradition": "Sarazm",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "Photo shows excavated mudbrick ruins at Sarazm, a Bronze Age proto-urban site in Tajikistan, under a modern protective shelter; this is archaeology of the Tajik homeland even though it predates any modern ethnic group.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Excavation at ancient city of sarazm - panoramio.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/architectural/sarazm/images/carch_403d831246168439.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/tajikistan/tajik/photo/sarazm/images/carch_403d831246168439.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e103d53cc8160b816933c7abaaa3352ea142ace75790912e34aeb56131f1ddc3",
       "bytes": 337956,
-      "local_path": "library\\central-asia\\tajikistan\\tajik\\architectural\\sarazm\\images\\carch_403d831246168439.jpg"
+      "local_path": "library\\central-asia\\tajikistan\\tajik\\photo\\sarazm\\images\\carch_403d831246168439.jpg"
     }
   ],
   "map": {

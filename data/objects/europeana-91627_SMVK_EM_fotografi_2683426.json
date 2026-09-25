@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photographic portrait of a man wearing a headwrap and robe, consistent with Fulani dress in West Africa; it is a photo, not a painting/manuscript as claimed.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "skägg, porträtt, huvudbonad, man, fotografi, photograph",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/senegal/fulani/unclassified/peul-senegal/images/eu_91627_SMVK_EM_fotografi_2683426.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/senegal/fulani/painting-mss/peul-senegal/images/eu_91627_SMVK_EM_fotografi_2683426.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "e5c5cd383b391cb424ad338b597b28881f1da5e9c8f6dae010f930bd7ab5a12d",
       "bytes": 101860,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_91627_SMVK_EM_fotografi_2683426.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\painting-mss\\peul-senegal\\images\\eu_91627_SMVK_EM_fotografi_2683426.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:32.644728+00:00"
+  "processed_at": "2026-07-28T18:45:22.043943+00:00"
 }

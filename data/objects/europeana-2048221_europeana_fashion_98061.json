@@ -18,7 +18,14 @@
     "ethnicity": "Egyptian",
     "tradition": "Egyptian Coptic textile",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "The image shows a fragmentary woven wool textile, described as a burial find from Coptic-period Egypt (c. 5th century AD), consistent with a garment (mantle) worn by ancient Egyptians.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Wollen mantel",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "2ddd54f1b6a514bdf61b22c2250cd7f9e308fd1b57409392aafaebac639227fb",
-      "bytes": 20624,
+      "sha256": "2fbdc91152b93c1f2df6de04f43a211c68bdec2b6786f4784077fb8d2f1268df",
+      "bytes": 134787,
       "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\garment\\egyptian-coptic-textile\\images\\eu_2048221_europeana_fashion_98061.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:50:48.960105+00:00"
+  "processed_at": "2026-07-28T18:42:45.033384+00:00"
 }

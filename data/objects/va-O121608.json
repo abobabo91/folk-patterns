@@ -16,12 +16,16 @@
     "region": "central-asia",
     "country": "Turkmenistan",
     "ethnicity": "Turkmen",
-    "tradition": "Salor gul",
+    "tradition": "gul motif",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a Turkmen (Tekke-type) knotted wool bag face with characteristic gul medallions in madder-red field, a classic Central Asian tribal weaving; the regional/Central Asian attribution fits what's shown.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -1093,22 +1097,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O121608.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121608.jpg",
       "iiif_id": "2017KK4527",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KK4527/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "20d70969c3e86aa5ffaf7fd20c324cbe2a4b54a4cbf6ea85d885528743271629",
       "bytes": 127110,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O121608.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121608.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/salor-gul/images/va_O121608_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/gul-motif/images/va_O121608_1.jpg",
       "iiif_id": "2017KK4517",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KK4517/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "19fac41f1507b0917144fa1a8c916eeded86b91cccbc3b863907b35295a43bfe",
       "bytes": 149139,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\salor-gul\\images\\va_O121608_1.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\textile\\gul-motif\\images\\va_O121608_1.jpg"
     }
   ],
   "map": {
@@ -1116,5 +1120,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T06:33:05.576366+00:00"
+  "processed_at": "2026-07-18T06:28:01.591283+00:00"
 }

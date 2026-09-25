@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A dark-glazed earthenware vase with fluted rim, made in 12th-century Cambodia, consistent with Khmer stoneware/earthenware production of that era.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "ceramic"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/ceramic/khmer/images/cle_154790.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/ceramic/cambodian/images/cle_154790.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9b7eaf9f819b872e2dc080ff5444ac3cb67080a77fea28aec67623be14f45eee",
       "bytes": 216572,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\ceramic\\khmer\\images\\cle_154790.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\ceramic\\cambodian\\images\\cle_154790.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:24.956313+00:00"
+  "processed_at": "2026-07-28T11:57:15.305615+00:00"
 }

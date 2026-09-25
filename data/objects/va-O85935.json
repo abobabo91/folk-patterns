@@ -18,7 +18,14 @@
     "ethnicity": "Turkish",
     "tradition": "Iznik tile",
     "art_form": "ceramic",
-    "pattern_density": 1
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an Iznik blue-and-white ceramic dish with grape-bunch motifs, a classic Ottoman Turkish pottery tradition, correctly tied to the claimed ethnicity though miscategorized as painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "Dish",
@@ -79,22 +86,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/ceramic/iznik-tile/images/va_O85935.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/painting-mss/iznik-tile/images/va_O85935.jpg",
       "iiif_id": "2006AU4966",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AU4966/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "819fd245a5cbdd3f546dec76320037efe32202ec1627627319ff448fac07f5e6",
       "bytes": 181651,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\ceramic\\iznik-tile\\images\\va_O85935.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\iznik-tile\\images\\va_O85935.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/ceramic/iznik-tile/images/va_O85935_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/painting-mss/iznik-tile/images/va_O85935_1.jpg",
       "iiif_id": "2017KB2107",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017KB2107/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "b44b43fc0960376e5b1b9e1b5ffbb2548e42566288f6406231873ea5ecbee1d7",
       "bytes": 209223,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\ceramic\\iznik-tile\\images\\va_O85935_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\iznik-tile\\images\\va_O85935_1.jpg"
     }
   ],
   "map": {

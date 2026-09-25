@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "ceramic",
-    "pattern_density": 1
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a coiled/spiral-technique woven basket with geometric dark-brown pattern bands, collected in Angola region during a 1948-49 expedition; a coiled carrying basket is plausible material culture for Chokwe/neighboring peoples in that area, but it is a basket, not ceramic.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "korg, basket",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:22.957211+00:00"
+  "processed_at": "2026-07-28T18:47:07.439204+00:00"
 }

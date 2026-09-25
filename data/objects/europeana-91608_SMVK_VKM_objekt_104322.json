@@ -19,8 +19,13 @@
     "tradition": "\"Kinh\" Vietnam",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A woven plaited mat used for sleeping, made in Vinh Phu province, Vietnam; this is a plausible traditional handwoven floor/sleeping mat consistent with Kinh (or general Vietnamese) craft, though the specific ethnicity can't be distinguished from the object alone.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "matta, mat, carpet",
@@ -77,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:34:18.908782+00:00"
+  "processed_at": "2026-07-28T18:44:25.730962+00:00"
 }

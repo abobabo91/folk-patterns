@@ -18,7 +18,14 @@
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of two Bambuti (Mbuti) men, one holding a child, in traditional dress (bark-cloth loincloths) outside a woven hut wall, consistent with the Mbuti pygmy people of Central Africa.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Dva muži, jeden drží v náručí dítě, Bambuti",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "7595c9772a2eba6d6688f0a1150b96d3c7afdd7b525d6e80db9ea7aa15459d21",
       "bytes": 25421,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266597.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266597.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:40.002891+00:00"
+  "processed_at": "2026-07-28T18:47:24.942171+00:00"
 }

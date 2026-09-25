@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
-    "art_form": "household",
+    "tradition": "Cambodian",
+    "art_form": "instruments",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "household"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a traditional Khmer plucked lute (ta'khe/takhe), a crocodile-shaped stringed instrument used in Cambodian classical music, matching both the claimed Khmer ethnicity and its origin, though mislabeled as textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments"
   },
   "physical": {
     "title": "Ta'khe",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer/images/cle_98669.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/cambodian/images/cle_98669.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "28c41e9a142dfe5154efd4074a4630778cd7c1ce51d176550293ee3e14ebceae",
       "bytes": 75409,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer\\images\\cle_98669.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\cambodian\\images\\cle_98669.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:26.683997+00:00"
+  "processed_at": "2026-07-28T11:58:01.585496+00:00"
 }

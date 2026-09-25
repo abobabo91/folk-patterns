@@ -13,12 +13,19 @@
     "accession_year": "1925"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A classic Safavid-period Persian miniature depicting two figures (an old man and a youth) in fine period dress, set within illuminated calligraphic borders, matching the Isfahan, Iran attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "The Old man and the Youth",
@@ -77,40 +84,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447798.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447798.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "57c89d74f9665813e9113d6704b328b43d390d28d6f175cf50ffb3e9ceab0d54",
       "bytes": 3184031,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447798.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447798.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447798_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447798_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "94353cc3932bbc816618ff2767be50e359307e5a0db8ae24b652ca2e3ff48cc2",
       "bytes": 906917,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447798_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447798_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447798_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447798_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "c4e43884ef8b2737483e2160e09bcc30bc47be7801aa0682bd23b592d5c82549",
       "bytes": 1964651,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447798_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447798_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_447798_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_447798_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "2691b7b801e8c3f41216b076b6d8248c5a783666248822d48283a87c43c8792b",
       "bytes": 4263715,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_447798_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_447798_3.jpg"
     }
   ],
   "map": {

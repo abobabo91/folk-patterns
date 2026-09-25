@@ -20,7 +20,11 @@
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved and painted guardian/demon figure (a Balinese-style ritual sculpture, holding a kris-like blade) consistent with Balinese temple or ritual carving, matching the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -40,7 +44,7 @@
     "styles": [],
     "categories": [],
     "physical_description": null,
-    "summary": "Travel photos Asia. Balinese deity?",
+    "summary": null,
     "historical_context": null,
     "dimensions": [],
     "dimensions_note": null,
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:23.311901+00:00"
+  "processed_at": "2026-07-28T18:43:10.701743+00:00"
 }

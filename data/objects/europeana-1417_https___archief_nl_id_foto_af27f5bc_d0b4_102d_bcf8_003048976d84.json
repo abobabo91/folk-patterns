@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photo of a woman grinding/pounding a substance in a mortar in a traditional dwelling setting, consistent with Javanese/Balinese daily life; the museum's own title notes uncertainty between Javanese or Balinese, so it plausibly fits the claimed Balinese ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "5c6bc778bd353f326dc6a56dad87753f9df890367403a6ce6abd71a64a56766a",
       "bytes": 13265,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_af27f5bc_d0b4_102d_bcf8_003048976d84.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_af27f5bc_d0b4_102d_bcf8_003048976d84.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:20.321185+00:00"
+  "processed_at": "2026-07-28T18:43:07.850565+00:00"
 }

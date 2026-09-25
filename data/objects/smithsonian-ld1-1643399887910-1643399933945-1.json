@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "piña",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A plain handwoven fabric with subtle checked texture, consistent with a Philippine handwoven textile (e.g., piña or abaca cloth); nothing contradicts the Filipino attribution.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Textile",
@@ -68,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/architectural/pina/images/si_chndm_1961-181-2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/pina/images/si_chndm_1961-181-2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f54a5e19b3d2ca637c4774530f1d9a0c7febbfed4144505cd97687a64159c3ac",
       "bytes": 2215911,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\architectural\\pina\\images\\si_chndm_1961-181-2.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1961-181-2.jpg"
     }
   ],
   "map": {

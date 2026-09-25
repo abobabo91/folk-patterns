@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "Joglo",
-    "art_form": "architectural",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "masks-ritual",
+    "vision_reason": "The photo shows a museum hall interior (the Setia Darma Mask and Puppet House in Bali) displaying rows of wayang kulit shadow puppets on the wall, which are traditional Javanese/Balinese craft objects, but the subject of the photograph itself is the museum display room rather than the puppets as documentary craft photography.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "112 Hall with Wayang, Setia Darma Mask and Puppet House, Ubud, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/joglo/images/carch_01c3ba07b6d2f2da.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/painting-mss/joglo/images/carch_01c3ba07b6d2f2da.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6163dae1e9f00f8316cc0df7d43cb7929d36e5938db1ba2bdbdca11a118125a2",
       "bytes": 232936,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\joglo\\images\\carch_01c3ba07b6d2f2da.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\joglo\\images\\carch_01c3ba07b6d2f2da.jpg"
     }
   ],
   "map": {

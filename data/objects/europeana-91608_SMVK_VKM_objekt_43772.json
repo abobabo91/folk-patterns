@@ -18,7 +18,14 @@
     "ethnicity": "Afar",
     "tradition": "Afar Ethiopia",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A twisted-wire metal bracelet/armring with white-metal clamps, a plausible personal adornment for the Afar region; such twisted-wire jewelry is consistent with pastoralist craftwork of the Horn of Africa and no evidence contradicts the attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "armring, bracelet",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "da0f33a2ea836f894b56ea50e2d0145002540ee34547404b3d111432c9655c80",
       "bytes": 22023,
-      "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\jewelry\\afar-ethiopia\\images\\eu_91608_SMVK_VKM_objekt_43772.jpg"
+      "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\jewelry\\afar-ethiopia\\images\\eu_91608_SMVK_VKM_objekt_43772.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:24:22.428900+00:00"
+  "processed_at": "2026-07-28T18:48:37.293554+00:00"
 }

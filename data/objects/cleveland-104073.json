@@ -17,11 +17,15 @@
     "country": "Philippines",
     "ethnicity": "Filipino",
     "tradition": "Filipino",
-    "art_form": "household",
-    "pattern_density": 3,
+    "art_form": "arms",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "household"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a long, plain bamboo arrow shaft with notches at one end for the bowstring, photographed clearly on a neutral background — a plausible traditional Filipino weapon component, though it is a weapon (arms) rather than metalwork since it's bamboo, not metal.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
   },
   "physical": {
     "title": "Arrow",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/textile/filipino/images/cle_104073.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/filipino/metalwork/filipino/images/cle_104073.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "a5b5ddac4aa7445f9fa64a56ba7c4732522699206dfd5fa9d8df41ab7662fa63",
       "bytes": 93469,
-      "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_104073.jpg"
+      "local_path": "library\\southeast-asia\\philippines\\filipino\\metalwork\\filipino\\images\\cle_104073.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:45.700322+00:00"
+  "processed_at": "2026-07-28T18:41:28.403316+00:00"
 }

@@ -19,9 +19,13 @@
     "tradition": "Sundanese",
     "art_form": "photo",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "art_form_vision": "photo"
+    "art_form_vision": "photo",
+    "vision_reason": "A barefoot man in traditional dress squats outdoors playing a double-reed wind instrument (likely a tarompet/selompret); this is a documentary photograph of a Sundanese/Javanese musician from Jaap Kunst's study of Indonesian music, showing craft and daily musical life.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "man, oboe, fotografi, photograph",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/unclassified/sundanese/images/eu_91609_SMVK_VKM_fotografi_1248307.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/painting-mss/sundanese/images/eu_91609_SMVK_VKM_fotografi_1248307.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "cba4b19437e3b5820add75cbb5c193797cb309722e1035b1cb91f2cf10b7d1d2",
       "bytes": 48352,
-      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\unclassified\\sundanese\\images\\eu_91609_SMVK_VKM_fotografi_1248307.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\painting-mss\\sundanese\\images\\eu_91609_SMVK_VKM_fotografi_1248307.jpg"
     }
   ],
   "map": {

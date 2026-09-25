@@ -20,7 +20,11 @@
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Carved schist bracket depicting a standing Buddha flanked by two acolytes, in the Mon-Dvaravati style from ancient Thailand (Nagara Pathama); this is archaeological art of the region that later became Thai territory, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:06.211031+00:00"
+  "processed_at": "2026-07-28T18:41:21.231930+00:00"
 }

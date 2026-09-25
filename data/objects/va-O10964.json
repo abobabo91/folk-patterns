@@ -13,14 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "acheik",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The cloth shows the classic acheik wave-stripe pattern woven in the luntaya technique traditionally associated with Bamar (Burmese) court dress, intended as material for a man's pah-soe. This is a well-documented Bamar textile form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -96,22 +101,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/architectural/acheik/images/va_O10964.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/acheik/images/va_O10964.jpg",
       "iiif_id": "2020MP4373",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4373/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "ff6427518d3bd7a0426eac9254aa56412b2602008469c133a2423d2c2be1a89c",
       "bytes": 631136,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\architectural\\acheik\\images\\va_O10964.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10964.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/architectural/acheik/images/va_O10964_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/acheik/images/va_O10964_1.jpg",
       "iiif_id": "2011FB0603",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0603/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "015b4d884638292b9100a62286edab7a0c02dfd97f0aa9b467a5d3e4cf28bcd8",
       "bytes": 229727,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\architectural\\acheik\\images\\va_O10964_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10964_1.jpg"
     }
   ],
   "map": {

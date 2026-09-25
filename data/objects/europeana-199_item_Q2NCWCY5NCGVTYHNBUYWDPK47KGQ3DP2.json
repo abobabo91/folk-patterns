@@ -17,8 +17,15 @@
     "country": "Nigeria",
     "ethnicity": "Yoruba",
     "tradition": "Yoruba Nigeria",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A wooden face mask with raffia/fiber hair and beard is a plausible mask form for the Yoruba region of Nigeria; nothing contradicts the attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "Mask of the Yoruba",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:54.858147+00:00"
+  "processed_at": "2026-07-28T18:45:31.438995+00:00"
 }

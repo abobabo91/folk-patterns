@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Zulu",
     "tradition": "Zulu",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "jewelry",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a beaded neckpiece (umphapheni) with tasseled fringe and chevron-patterned panel, a documented Zulu/Northern Nguni beadwork form, matching the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Neckpiece with panel (umphapheni)",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/zulu/textile/zulu/images/cle_168428.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/zulu/jewelry/zulu/images/cle_168428.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "eb7fca76b8d6799314a1aa55a2e961b7a082ba64e3a703c733b406bcee378f89",
       "bytes": 448483,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\textile\\zulu\\images\\cle_168428.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\jewelry\\zulu\\images\\cle_168428.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:06:41.092691+00:00"
+  "processed_at": "2026-07-28T18:41:33.700363+00:00"
 }

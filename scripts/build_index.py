@@ -123,19 +123,15 @@ def build() -> None:
     # Majority ethnicity per country — used as the fallback bucket for records
     # that were tagged with country=ethnicity or _regional and don't have a
     # more specific tradition tag. Mirrors media.COUNTRY_MAJORITY_ETHNICITY.
-    # Derive country-majority routing + arch-monument trust set from seed
-    # JSON. Adding a new ethnicity becomes a single-file change (edit the
-    # seed) instead of touching build_index + commons_arch + Places.
+    # Derive country-majority routing from seed JSON. Adding a new ethnicity
+    # becomes a single-file change (edit the seed) instead of touching
+    # build_index + commons_arch + Places.
     _MAJORITY: dict[str, tuple[str, str]] = {}
-    _ARCH_MONUMENT_TRADITIONS: set[str] = set()
     for region_slug, seed in seeds.items():
         for country in seed.get("countries", []):
             maj = country.get("majority_ethnicity")
             if maj:
                 _MAJORITY[country["country"]] = (region_slug, maj)
-            for eth in country.get("ethnicities", []):
-                for cat in eth.get("arch_commons_categories") or []:
-                    _ARCH_MONUMENT_TRADITIONS.add(cat.strip().lower())
 
     def _route_regional(rec: dict) -> tuple[str, str, str] | None:
         """Try to reattribute a _regional or country=ethnicity orphan record.
@@ -204,19 +200,6 @@ def build() -> None:
         for rec in records:
             cul = rec.get("cultural") or {}
             src = (rec.get("source") or {}).get("museum", "")
-            # Museum-curated APIs whose vision-vet FALSE flags we IGNORE
-            # entirely — curator-vetted at source; vision false-rejects legit
-            # religious sculpture (Buddha statues, dakinis, Shiva panels).
-            _TRUSTED_MUSEUM_SOURCES = {"va", "met", "cleveland", "smithsonian", "rijks"}
-            # For commons_arch, trust vision-vet UNLESS the tradition is
-            # a hand-curated architectural monument (an entry in some
-            # ethnicity's `arch_commons_categories` in the seed JSON).
-            # Village-name traditions like "Ambarita" catch a lot of
-            # tourist/landscape junk that vision correctly rejects;
-            # monument-category traditions are inherently about a specific
-            # building and vision was over-rejecting legit views of them.
-            trad_lower = (cul.get("tradition") or "").lower()
-            _is_arch_monument = trad_lower in _ARCH_MONUMENT_TRADITIONS
             # Safety-net junk gate. Apply to ALL sources — trusted museum
             # APIs still leak Latin binomials via cross-department search
             # (Smithsonian's "batak" query returns Philippine botanical
@@ -230,17 +213,13 @@ def build() -> None:
             if _junk:
                 reroute_stats["junk_drop"] += 1
                 continue
-            # Drop records the vision pass explicitly flagged as not authentic
-            # material folk culture — BUT only for uncurated sources. Museum-
-            # curated APIs (V&A, Met, Cleveland, Smithsonian) are already
-            # source-vetted; Claude's strict prompt often false-rejects
-            # legitimate religious sculpture (Buddha statues, Hindu deities)
-            # that ARE folk material culture. Trust the museum's own curation.
-            if cul.get("vision_vetted") is False and src not in _TRUSTED_MUSEUM_SOURCES:
-                # commons_arch on an architectural-monument tradition: trust
-                # our own curated category and keep despite vision reject.
-                if not (src == "commons_arch" and _is_arch_monument):
-                    continue
+            # The vetter's verdict is final for every source. Museum-curated
+            # APIs and curated monument categories used to bypass it, when an
+            # earlier prompt false-rejected religious sculpture and monuments;
+            # read on 2026-09-24, the current prompt's 64 drops from V&A, Met,
+            # Cleveland, Smithsonian and Rijks were right (docs/vetting.md).
+            if cul.get("vision_vetted") is False:
+                continue
             # The vetter judged the picture itself unreadable (blank,
             # placeholder, scale bar only) — nothing to show.
             if cul.get("vision_image") == "unusable":
@@ -250,8 +229,11 @@ def build() -> None:
             if cul.get("art_form_vision"):
                 cul["art_form"] = cul["art_form_vision"]
             # Apply per-record classifier overrides from
-            # data/classifier_overrides.json. "reject" drops the record.
-            _override = _classifier_overrides.get(rec.get("id") or "")
+            # data/classifier_overrides.json — only to records the vetter has
+            # not judged: its category is newer and, where the two differ,
+            # better (a lute the overrides call household, a yurt photo they
+            # call architectural). "reject" drops the record.
+            _override = None if cul.get("vision_image") else _classifier_overrides.get(rec.get("id") or "")
             if _override:
                 if _override == "reject":
                     reroute_stats["classifier_reject"] += 1

@@ -18,7 +18,14 @@
     "ethnicity": "Maasai",
     "tradition": "Maasai Kenya",
     "art_form": "jewelry",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a pair of metal (copper) cone earrings with wire loops, a type of jewelry worn by Maasai (documented via a photo from the Arusha market and referenced Maasai literature), not a painting/manuscript at all.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "örhängen",
@@ -61,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/unclassified/maasai-kenya/images/eu_91608_SMVK_VKM_objekt_48605.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/painting-mss/maasai-kenya/images/eu_91608_SMVK_VKM_objekt_48605.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ef753a522291461da00621d246488b8086a3c27946335199aae844b765c7da37",
       "bytes": 19755,
-      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48605.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\painting-mss\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48605.jpg",
+      "low_quality": true
     }
   ],
   "map": {

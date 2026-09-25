@@ -18,7 +18,14 @@
     "ethnicity": "Zulu",
     "tradition": "Zulu",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A rectangular beaded band ornament with zigzag pattern and shell/pearl button trim, plausibly a Zulu beadwork ornament (belt or necklace piece) as the museum notes; beadwork of this style is consistent with Southern African traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Beaded jewelry",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "3fbe8cb3754071dbcb24f6616609a86618d849b54b63a282c50c5c8a1f42a9d2",
       "bytes": 19616,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\jewelry\\zulu\\images\\eu_2048221_europeana_fashion_96363.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\jewelry\\zulu\\images\\eu_2048221_europeana_fashion_96363.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:06:04.316098+00:00"
+  "processed_at": "2026-07-28T18:47:29.571793+00:00"
 }

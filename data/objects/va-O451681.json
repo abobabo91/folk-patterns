@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "central_asia",
+    "region": "central-asia",
     "country": "China (Xinjiang)",
     "ethnicity": "Uyghur",
     "tradition": "Hotan carpet",
     "art_form": "household",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "household"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "household",
+    "vision_reason": "The image shows a wooden and metal weaving comb, a tool used to beat down weft threads in carpet weaving, from Hotan in Xinjiang — a plausible Uyghur craft tool tied to the region's carpet-weaving tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -359,13 +363,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/unclassified/hotan-carpet/images/va_O451681.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/textile/hotan-carpet/images/va_O451681.jpg",
       "iiif_id": "2020MP8850",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8850/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "93d9454127a52e601d13410ed079da91b5fb8d1b700da39abfec1540d9419762",
       "bytes": 93877,
-      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\unclassified\\hotan-carpet\\images\\va_O451681.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O451681.jpg"
     }
   ],
   "map": {

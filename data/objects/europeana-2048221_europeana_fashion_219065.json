@@ -18,7 +18,14 @@
     "ethnicity": "Toraja",
     "tradition": "Toraja Sulawesi",
     "art_form": "textile",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a rectangular reddish-brown ceremonial cotton cloth with a repeating geometric pattern and decorated borders — consistent with imported Indian trade cloths (patola-style) that were treasured and used ceremonially by Toraja communities, a well-documented historical practice, so it fits \"used\" by the claimed people even if not locally made.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Ceremoniële doek met ganzen",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "a194273b8effc2308101fb6599b23614caf269d1b19fa76f31745953280c2438",
       "bytes": 21352,
-      "local_path": "library\\southeast-asia\\indonesia\\toraja\\unclassified\\toraja-sulawesi\\images\\eu_2048221_europeana_fashion_219065.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\unclassified\\toraja-sulawesi\\images\\eu_2048221_europeana_fashion_219065.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:02:04.111661+00:00"
+  "processed_at": "2026-07-28T18:44:14.627464+00:00"
 }

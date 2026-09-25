@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian Iran",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a folio of Persian manuscript text (nasta'liq script) from a Persian cosmology treatise, consistent with the claimed Persian ethnicity; the described illustration of Jupiter as a scholar is not visible on this particular page shown, only the text.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "The planet Jupiter as a scholar, from a Persian cosmology treatise",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/unclassified/persian-iran/images/eu_1100_1826.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/persian-iran/images/eu_1100_1826.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1949e561de4ca609cd9aa285d99cb6d3c7376fcf957db50aaed6bf35cf9784f8",
       "bytes": 30225,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\persian-iran\\images\\eu_1100_1826.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_1100_1826.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photographic portrait of a Himba man with a headwrap, beaded/shell necklaces, and a spear over his shoulder — consistent with Himba dress and material culture, though a fixed image is misclassified as painting-mss.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Himba-mies keihäs olkapäällä",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/unclassified/himba-namibia/images/eu_2021009__6FC0A9BFF99DC0D74874B4391D592F11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/painting-mss/himba-namibia/images/eu_2021009__6FC0A9BFF99DC0D74874B4391D592F11.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d301404f2b47b87471f11cba5f26b37e335efa7c1af908965277b341ba7820e4",
       "bytes": 132117,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__6FC0A9BFF99DC0D74874B4391D592F11.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__6FC0A9BFF99DC0D74874B4391D592F11.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:50.541957+00:00"
+  "processed_at": "2026-07-28T18:47:46.870892+00:00"
 }

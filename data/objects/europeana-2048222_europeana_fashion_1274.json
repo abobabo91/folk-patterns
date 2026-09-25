@@ -20,8 +20,12 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "A pair of embroidered velvet bootstockings (mahsi), a traditional Central Asian garment worn by Uzbek women under overshoes; the ornate chain-stitch floral embroidery is consistent with Uzbek craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Uzbek women's bootstocking 'Magshi' to be worn in 'Galosh' overshoes.",
@@ -80,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-20T18:17:10.639948+00:00"
+  "processed_at": "2026-07-28T18:41:51.688218+00:00"
 }

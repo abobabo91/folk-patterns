@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian",
     "art_form": "ceramic",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "These are fragments of a calcite (alabaster) jar bearing a trilingual cuneiform inscription naming Xerxes, King of Persia — a royal Achaemenid vessel, so it fits Persian court art despite being made/inscribed in Egypt.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "jar (?); alabastron (?)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:56:53.912747+00:00"
+  "processed_at": "2026-07-28T18:59:03.258872+00:00"
 }

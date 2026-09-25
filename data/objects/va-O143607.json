@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A narrow ikat-woven cotton/silk length with dark blue ground and white/pink medallion patterning, consistent with Central Asian (Uzbek/Tajik) ikat weaving traditions; plausible for the claimed regional attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -627,13 +631,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/textile/ikat/images/va_O143607.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/regional/regional/garment/ikat/images/va_O143607.jpg",
       "iiif_id": "2007BM4953",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2007BM4953/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "b5eff640252be08b45c486560e034eea5eeb58e454b13dabeccbcc55cd215ccc",
       "bytes": 139943,
-      "local_path": "library\\central-asia\\regional\\regional\\textile\\ikat\\images\\va_O143607.jpg"
+      "local_path": "library\\central-asia\\regional\\regional\\garment\\ikat\\images\\va_O143607.jpg"
     }
   ],
   "map": {

@@ -13,12 +13,19 @@
     "accession_year": "1981"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A gold ring with a large turquoise cabochon, a type of jewelry plausible for Persian goldsmithing traditions, and the museum records its origin as Iran.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "jewelry",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Ring",
@@ -64,31 +71,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_453048.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/jewelry/general/images/met_453048.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8cf2ae019279d631f9130f161c92f98def8667dc3c643e930997812c528140a4",
       "bytes": 166916,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_453048.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\jewelry\\general\\images\\met_453048.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_453048_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/jewelry/general/images/met_453048_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "732688e3182a0b8cb74fef105d7f3ff646666fe12b670fd4b6bec30579470664",
       "bytes": 178054,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_453048_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\jewelry\\general\\images\\met_453048_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_453048_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/jewelry/general/images/met_453048_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "783380af40d7ea1d9b74360d751967a54bf582bc106f38724cd95a064461b11b",
       "bytes": 106190,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_453048_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\jewelry\\general\\images\\met_453048_2.jpg"
     }
   ],
   "map": {

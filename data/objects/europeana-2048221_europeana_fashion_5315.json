@@ -17,8 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Dayak",
     "tradition": "Dajak Borneo",
-    "art_form": "painting-mss",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of a Kenyah Dayak woman (subgroup \"Kenja\") from Apo Kayan/Upper Bulungan, Central Borneo, wearing traditional dress, large ear ornaments, beaded belt and sarong—taken during Nieuwenhuis's expedition. This is a photo, not a painting/manuscript, but it clearly documents Dayak dress and adornment.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Portrait of a Kenja Dajak woman, Apokajan or Upper Bulungan",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:02:16.277058+00:00"
+  "processed_at": "2026-07-28T18:43:50.484909+00:00"
 }

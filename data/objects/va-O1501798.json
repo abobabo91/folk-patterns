@@ -13,15 +13,19 @@
     "accession_year": 1881
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "wayang kulit",
-    "art_form": "sculpture",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "masks-ritual",
+    "vision_reason": "This is a wayang kulit shadow puppet, a leather figure with rods used in traditional Javanese theatre—a classic Javanese craft object. The claimed category \"sculpture\" is a mismatch for a flat carved-leather puppet.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -217,22 +221,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1501798.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/va_O1501798.jpg",
       "iiif_id": "2011ER1161",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011ER1161/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "eb1cf319b830ac1e1c9ba4614c6bbe232a37736431f5950adbc34c4a2cb9b5f8",
       "bytes": 121433,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1501798.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\va_O1501798.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/unclassified/wayang-kulit/images/va_O1501798_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/sculpture/wayang-kulit/images/va_O1501798_1.jpg",
       "iiif_id": "2011ER1157",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011ER1157/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "a4e6730b7626d6c5ae15b8a5d3ecd4e76cb2ebe5470bd82d47fb6d507ed70537",
       "bytes": 122973,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\wayang-kulit\\images\\va_O1501798_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\sculpture\\wayang-kulit\\images\\va_O1501798_1.jpg"
     }
   ],
   "map": {

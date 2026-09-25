@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "Javanese",
-    "art_form": "textile",
+    "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A batik kain panjang (hip-wrap cloth) with a classic Javanese semen-style pattern of scrolling vines/leaves and small geometric motifs, in traditional soga-brown/indigo tones — a textile plausibly made and worn in Java.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "textil, Kain-pandjang, batik, cloth, Kain Pandjang",
@@ -31,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/55"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/55",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -66,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/javanese/images/eu_91608_SMVK_VKM_objekt_72217.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/javanese/images/eu_91608_SMVK_VKM_objekt_72217.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3b703cdaf6df6e7332e687b977b010acdbe457c7fc090eb2b52a8324164352b9",
       "bytes": 148056,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\javanese\\images\\eu_91608_SMVK_VKM_objekt_72217.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\javanese\\images\\eu_91608_SMVK_VKM_objekt_72217.jpg"
     }
   ],
   "map": {
@@ -80,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T13:33:28.124158+00:00"
+  "processed_at": "2026-07-28T18:42:59.437282+00:00"
 }

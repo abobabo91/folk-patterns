@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "kain panjang",
+    "tradition": "batik",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a hand-drawn batik cloth in dark indigo/brown tones with a dense semen-style motif (floral sprays and geometric elements), consistent with traditional Javanese batik kain panjang.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Kain panjang (long sarong)",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/kain-panjang/images/si_chndm_1962-233-8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/si_chndm_1962-233-8.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "24b1a30d97f877b3e34e65c284bbd3ef090a80ae2b44ca5b3454ba2effbf1283",
       "bytes": 7374374,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\kain-panjang\\images\\si_chndm_1962-233-8.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\si_chndm_1962-233-8.jpg"
     }
   ],
   "map": {
@@ -83,5 +87,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:51:54.360561+00:00"
+  "processed_at": "2026-07-18T11:49:29.951022+00:00"
 }

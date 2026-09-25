@@ -17,8 +17,15 @@
     "country": "Nigeria",
     "ethnicity": "Igbo",
     "tradition": "Igbo Nigeria",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A wooden face mask with distorted, swollen features labeled as a \"disease mask\" (leprosy) — a type of ritual mask consistent with West African, plausibly Igbo/Nigerian, carving traditions; nothing contradicts the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
   },
   "physical": {
     "title": "mask",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:46:37.336296+00:00"
+  "processed_at": "2026-07-28T18:45:40.232117+00:00"
 }

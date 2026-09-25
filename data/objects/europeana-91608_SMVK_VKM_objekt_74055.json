@@ -18,7 +18,14 @@
     "ethnicity": "Toraja",
     "tradition": "Toraja Sulawesi",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a bark-cloth (basttyg) woman's blouse with chain-stitch embroidery, collected in Central Sulawesi (Kantewoe/Poso area), a region associated with Toraja and related highland groups — a plausible traditional garment for the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "tröja, Kvinnotröja",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "b9bb1c259a98d6c9fc93f99501170c0ce7c5c42b9181e4c81acfd7a5a85de12c",
       "bytes": 13382,
-      "local_path": "library\\southeast-asia\\indonesia\\toraja\\garment\\toraja-sulawesi\\images\\eu_91608_SMVK_VKM_objekt_74055.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\garment\\toraja-sulawesi\\images\\eu_91608_SMVK_VKM_objekt_74055.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:02:06.789110+00:00"
+  "processed_at": "2026-07-28T18:44:16.013518+00:00"
 }

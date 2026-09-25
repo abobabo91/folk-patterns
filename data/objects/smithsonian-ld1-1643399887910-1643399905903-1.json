@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "kain panjang",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A batik kain panjang with dense floral/tendril motif in indigo and brown, a classic Javanese batik textile form and typical hand-drawn batik palette.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Kain panjang (long sarong)",
@@ -69,13 +73,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/kain-panjang/images/si_chndm_1937-35-4.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/kain-panjang/images/si_chndm_1937-35-4.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1f2c2a9980ad369902adbae7703df71561959fa253685f6242b2bbb7adaf939a",
       "bytes": 7221960,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\kain-panjang\\images\\si_chndm_1937-35-4.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\si_chndm_1937-35-4.jpg"
     }
   ],
   "map": {

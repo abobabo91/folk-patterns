@@ -17,8 +17,15 @@
     "country": "Central African Republic",
     "ethnicity": "Mbuti",
     "tradition": "Mbuti barkcloth",
-    "art_form": "sculpture",
-    "pattern_density": 0
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Photo of a Mbuti (Bambuti) man wearing a fitted cap with attached feather/plant ornament, a documentary ethnographic image of dress consistent with the claimed group and region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Semi-figure of a man with a cap on his head, Bambuti",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/sculpture/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266707.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/mbuti/garment/mbuti-barkcloth/images/eu_488_https___www_esbirky_cz_detail_266707.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "27bcc69c1e3b85cabee0621fe86243f11dee7b1c925133cbc5ce4420a2eb3fb6",
       "bytes": 54232,
-      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\sculpture\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266707.jpg"
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\garment\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266707.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:45.447037+00:00"
+  "processed_at": "2026-07-28T18:47:25.265883+00:00"
 }

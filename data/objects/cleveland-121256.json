@@ -20,8 +20,12 @@
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "sculpture"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a wood kris scabbard with the characteristic pistol-grip (Malay-style) hilt/handle shape, a form used across the Malay world including Malaysia; the material and form are plausible for the claimed culture even though the museum hedges \"Indonesia or Malaysia.\" It is a hilt/scabbard fitting, not metal, so it belongs to the sculpture/carved-object category rather than metalwork.",
+    "vision_confidence": "MEDIUM",
+    "art_form_vision": "sculpture",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Wood Scabbard for a Knife (Kris)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:57.930308+00:00"
+  "processed_at": "2026-07-28T18:41:20.431340+00:00"
 }

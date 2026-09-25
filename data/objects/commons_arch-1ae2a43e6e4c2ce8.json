@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Balinese",
     "tradition": "Pura Tanah Lot",
-    "art_form": "architectural",
+    "art_form": "sculpture",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "This is a photograph of a gilded stone gate guardian statue (dwarapala) at Tanah Lot temple in Bali, a Balinese temple carving, not a painting or manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "002 Gate Guardian, The Tanah Lot Area, Tabanan, Bali, photograph by Anandajoti Bhikkhu.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/architectural/pura-tanah-lot/images/carch_1ae2a43e6e4c2ce8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/pura-tanah-lot/images/carch_1ae2a43e6e4c2ce8.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "de9d4c1a087257a3a1b96c3d4a0e1ad67d4ff7efb347586d9416948c064fd4d3",
       "bytes": 790115,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\architectural\\pura-tanah-lot\\images\\carch_1ae2a43e6e4c2ce8.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\pura-tanah-lot\\images\\carch_1ae2a43e6e4c2ce8.jpg"
     }
   ],
   "map": {

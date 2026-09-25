@@ -16,11 +16,15 @@
     "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
-    "tradition": "Khmer",
+    "tradition": "Cambodian",
     "art_form": "jewelry",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A bronze naga-form earring with intricate scrollwork, consistent with Angkorean-period Khmer bronze ornament as described; corrosion patina indicates genuine ancient bronze.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "jewelry"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/khmer/images/cle_152013.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/jewelry/cambodian/images/cle_152013.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "03629ac3c329019ad1f81c279e9248b7773e37c1a8c0d78222ee05b853425b2b",
       "bytes": 67980,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\khmer\\images\\cle_152013.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\jewelry\\cambodian\\images\\cle_152013.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:25.461089+00:00"
+  "processed_at": "2026-07-28T11:57:33.704050+00:00"
 }

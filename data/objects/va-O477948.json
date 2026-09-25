@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "The image shows a silk hip wrapper with weft ikat patterning and woven borders, a traditional Cambodian textile form (sampot hol style), consistent with the claimed regional attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -183,13 +187,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/cambodia/unclassified/cham-weaving/images/va_O477948.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/_regional/textile/cham-weaving/images/va_O477948.jpg",
       "iiif_id": "2011FB0552",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0552/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "51baf5f5cc65be4f9430d95c0549048383f3d59d2412c90b29d29bb6d64d9282",
       "bytes": 354965,
-      "local_path": "library\\southeast-asia\\cambodia\\cambodia\\unclassified\\cham-weaving\\images\\va_O477948.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\_regional\\textile\\cham-weaving\\images\\va_O477948.jpg"
     }
   ],
   "map": {

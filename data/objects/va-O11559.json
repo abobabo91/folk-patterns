@@ -13,14 +13,19 @@
     "accession_year": 1996
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a striped ikat cotton longyi, a garment worn broadly across Myanmar including by the Bamar; such regional dress cannot be reliably distinguished from neighboring groups like the Shan, so the claimed ethnicity is plausible.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -193,13 +198,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11559.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11559.jpg",
       "iiif_id": "2020MP5161",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5161/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "f79c9fc82de9f067add6f0d1e2ccccadb10fb4d848b886707abf6f78ce11cb20",
       "bytes": 285748,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11559.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11559.jpg"
     }
   ],
   "map": {

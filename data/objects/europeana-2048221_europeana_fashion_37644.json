@@ -17,8 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Dayak",
     "tradition": "Dajak Borneo",
-    "art_form": "painting-mss",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Documentary photograph of a Dayak woman in traditional dress with beaded necklaces and hip ornaments, matching the claimed ethnicity and typical of early ethnographic photography from Borneo held in Dutch colonial collections.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Portrait of a Dajak woman",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:02:17.948187+00:00"
+  "processed_at": "2026-07-28T18:43:52.192935+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "Democratic Republic of the Congo",
     "ethnicity": "Chokwe",
     "tradition": "Chokwe",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "sculpture",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved wooden snuff mortar with figures, a cup-like container, and metal studs—Chokwe court regalia, not a textile. It clearly belongs to Chokwe material culture, but the category should be corrected to metalwork/sculpture rather than textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Snuff Mortar (Tesa Ya Ma Kanya)",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:35.594705+00:00"
+  "processed_at": "2026-07-28T18:41:33.219559+00:00"
 }

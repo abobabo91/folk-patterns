@@ -16,11 +16,16 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "kain panjang",
+    "tradition": "batik",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "Batik cotton sarong with tumpal borders and floral/rosette motifs, consistent with Jambi/Sumatran batik cloth used as regional dress.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -184,13 +189,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/unclassified/kain-panjang/images/va_O471984.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/regional/regional/garment/batik/images/va_O471984.jpg",
       "iiif_id": "2017JX7714",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7714/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "553cb1c5c3adae1a3742a919237ec701736a53f5be833242b6767e3a970f9513",
       "bytes": 140475,
-      "local_path": "library\\southeast-asia\\regional\\regional\\unclassified\\kain-panjang\\images\\va_O471984.jpg"
+      "local_path": "library\\southeast-asia\\regional\\regional\\garment\\batik\\images\\va_O471984.jpg"
     }
   ],
   "map": {
@@ -198,5 +203,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:20:11.043222+00:00"
+  "processed_at": "2026-07-18T11:18:31.680012+00:00"
 }

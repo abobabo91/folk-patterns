@@ -18,7 +18,14 @@
     "ethnicity": "Kuba",
     "tradition": "Kuba Congo",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A plain raffia-fiber woven cloth with fringed edges, collected in the Kasai/Mweka region of DR Congo in 1937 — consistent with Kuba raffia weaving, a well-documented craft of the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "väv, fabric",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "3aa05e85f080fcab8a5371de081e00203f975cb583ab9b155d21d6c551415ade",
       "bytes": 15505,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\textile\\kuba-congo\\images\\eu_91608_SMVK_VKM_objekt_56059.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\textile\\kuba-congo\\images\\eu_91608_SMVK_VKM_objekt_56059.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:59:13.855987+00:00"
+  "processed_at": "2026-07-28T18:46:53.412541+00:00"
 }

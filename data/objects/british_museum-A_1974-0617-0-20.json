@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persian",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Persian-style single-page portrait of the Sufi poet Farid ud-Din Attar in traditional dress, painted in ink and watercolour on an album folio — a classic Persian manuscript painting tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "album; painting",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:57:00.805885+00:00"
+  "processed_at": "2026-07-28T18:59:10.390669+00:00"
 }

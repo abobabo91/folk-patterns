@@ -20,7 +20,11 @@
     "art_form": "jewelry",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A gold finger ring with cabochon stone and garuda-head motifs from Cakranegara, Lombok, a Balinese Hindu court closely related to Karangasem, matching the Balinese \"ali-ali karangjahe\" ring type — the culture and craft are Balinese even if made in Lombok.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "jewelry"
   },
   "physical": {
@@ -31,11 +35,9 @@
     "date_latest": null,
     "period": null,
     "dynasty": null,
-    "materials": [
-      "http://data.europeana.eu/concept/1771"
-    ],
+    "materials": [],
     "techniques": [],
-    "medium_raw": "http://data.europeana.eu/concept/1771",
+    "medium_raw": null,
     "classification": null,
     "styles": [],
     "categories": [],
@@ -72,7 +74,8 @@
       "role": "primary",
       "sha256": "babb2ac9a81655d1141255a5e0286789f6e6bf323b8d023ef01e568e9b540170",
       "bytes": 18074,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\jewelry\\balinese\\images\\eu_2048221_europeana_fashion_738403.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\jewelry\\balinese\\images\\eu_2048221_europeana_fashion_738403.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -80,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:26.895725+00:00"
+  "processed_at": "2026-07-28T18:43:14.128373+00:00"
 }

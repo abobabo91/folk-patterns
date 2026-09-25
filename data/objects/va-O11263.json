@@ -13,14 +13,19 @@
     "accession_year": 1983
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a striped silk textile with acheik-style wave patterning, consistent with a Burmese woman's longyi, a garment characteristic of Bamar dress.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -179,22 +184,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11263.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11263.jpg",
       "iiif_id": "2017JX7588",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7588/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "929a13a839063611fffd515db29df299bc1fcc9b65a608243c6d95cdc890be93",
       "bytes": 120035,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11263.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11263.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O11263_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O11263_1.jpg",
       "iiif_id": "2020MP4344",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4344/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "22a8f589371d9b57427a1ada2b74efb0247fc34f6add7b5bd9b4c333acb5e6c0",
       "bytes": 215977,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O11263_1.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O11263_1.jpg"
     }
   ],
   "map": {

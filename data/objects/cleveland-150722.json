@@ -15,12 +15,16 @@
   "cultural": {
     "region": "southeast-asia",
     "country": "Vietnam",
-    "ethnicity": "Kinh",
-    "tradition": "Kinh",
+    "ethnicity": "Cham",
+    "tradition": "Cham",
     "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A sandstone relief of a rearing, semi-human heraldic lion (guardian figure) from a Cham temple site in Vietnam — a classic form of Cham sacred sculpture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
     "art_form_vision": "sculpture"
   },
   "physical": {
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/kinh/sculpture/kinh/images/cle_150722.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/sculpture/cham/images/cle_150722.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "99c83299d0481b933db1fb6758ac91a6f494f5fdf10776bd3887e98f0ed83683",
       "bytes": 97827,
-      "local_path": "library\\southeast-asia\\vietnam\\kinh\\sculpture\\kinh\\images\\cle_150722.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\cham\\sculpture\\cham\\images\\cle_150722.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:46:12.919077+00:00"
+  "processed_at": "2026-07-28T18:41:21.586912+00:00"
 }

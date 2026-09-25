@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
-    "art_form": "textile",
-    "pattern_density": 3,
+    "art_form": "photo",
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary photograph of a Batak funerary scene, showing a corpse wrapped in traditional woven textiles (ulos-type cloth) with a betel/areca basket, matching the described Batak death ritual practice — a genuine ethnographic photo, not a painting/manuscript.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "begravning, fotografi, photograph",
@@ -38,7 +42,7 @@
     "styles": [],
     "categories": [],
     "physical_description": null,
-    "summary": "6521D",
+    "summary": null,
     "historical_context": null,
     "dimensions": [],
     "dimensions_note": null,
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-indonesia/images/eu_91609_SMVK_VKM_fotografi_2325385.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/painting-mss/batak-indonesia/images/eu_91609_SMVK_VKM_fotografi_2325385.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2275c945dd0c202ccd1f21485f135f28542ab1177312bc7bbedc367e70b7da4f",
       "bytes": 139961,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_91609_SMVK_VKM_fotografi_2325385.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\painting-mss\\batak-indonesia\\images\\eu_91609_SMVK_VKM_fotografi_2325385.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:53.303396+00:00"
+  "processed_at": "2026-07-28T18:43:29.031906+00:00"
 }

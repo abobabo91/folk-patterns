@@ -18,7 +18,14 @@
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
     "art_form": "ceramic",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A small handmade textured clay vessel collected from Gabon (Ogooué region), consistent with local pottery of Central African peoples including the Fang; plausible for the region even without a diagnostic pattern.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "kärl, Lerkärl, vessel",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "af97a0ef3106e6dd89ae7c9f4a5e98fed7842971d18a3c3273c9a0afd4319031",
       "bytes": 22395,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\ceramic\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_30679.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\ceramic\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_30679.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:01:07.282361+00:00"
+  "processed_at": "2026-07-28T18:47:19.435346+00:00"
 }

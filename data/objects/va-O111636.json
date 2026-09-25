@@ -13,14 +13,19 @@
     "accession_year": 1919
   },
   "cultural": {
-    "region": "southeast_asia",
-    "country": "Myanmar",
-    "ethnicity": "Bamar",
-    "tradition": "Shan weaving",
+    "region": "southeast-asia",
+    "country": "Laos",
+    "ethnicity": "Lao",
+    "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a woven silk-and-cotton textile with a solid red field and elaborate polychrome geometric weft-ikat/supplementary weft banding, matching the described Shan cloth from the Shan States region of Myanmar.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -533,13 +538,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/textile/shan-weaving/images/va_O111636.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/textile/lao-silk/images/va_O111636.jpg",
       "iiif_id": "2020MN9355",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9355/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5affaf8e281a7cf23266cdf3941d16e5ee71694a398db77af90c4adc27a32983",
       "bytes": 386337,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\shan-weaving\\images\\va_O111636.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\textile\\lao-silk\\images\\va_O111636.jpg"
     }
   ],
   "map": {
@@ -547,5 +552,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:37:52.831484+00:00"
+  "processed_at": "2026-07-18T11:31:14.425697+00:00"
 }

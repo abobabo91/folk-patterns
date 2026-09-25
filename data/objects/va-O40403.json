@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Iznik tile",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "ceramic",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is an Iznik ceramic tile panel with the classic Ottoman/Turkish floral quatrefoil design, not jewelry; it clearly belongs to Turkish decorative art tradition but the category is mislabeled.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": null,
@@ -485,13 +492,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/textile/iznik-tile/images/va_O40403.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/jewelry/iznik-tile/images/va_O40403.jpg",
       "iiif_id": "2006AF0192",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF0192/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "026d2759abbc7df341ca58d890735ad236a00ec64c011b6a13c6a9e143e12768",
       "bytes": 440809,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\textile\\iznik-tile\\images\\va_O40403.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\jewelry\\iznik-tile\\images\\va_O40403.jpg"
     }
   ],
   "map": {

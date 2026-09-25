@@ -18,7 +18,14 @@
     "ethnicity": "Himba",
     "tradition": "Himba Namibia",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A documentary photograph of a Himba woman with traditional ochre-coiffed braids, layered arm and leg ring adornments, and leather garment, consistent with claimed Himba ethnicity and dress. The photo is misfiled as painting-mss but the subject matter clearly belongs.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Istuva Himba-nainen koristeineen",
@@ -63,13 +70,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/unclassified/himba-namibia/images/eu_2021009__3278F96B74AAD0DA44D62CF55843ED90.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/himba/painting-mss/himba-namibia/images/eu_2021009__3278F96B74AAD0DA44D62CF55843ED90.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "83828813ac0bdea81b896c9996bc5bc9f1779dd6ad4bafd4c21ddb26125e9850",
       "bytes": 135139,
-      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__3278F96B74AAD0DA44D62CF55843ED90.jpg"
+      "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__3278F96B74AAD0DA44D62CF55843ED90.jpg"
     }
   ],
   "map": {
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:10:48.247373+00:00"
+  "processed_at": "2026-07-28T18:47:46.743963+00:00"
 }

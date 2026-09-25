@@ -13,12 +13,19 @@
     "accession_year": "2016"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "jewelry",
-    "pattern_density": 1
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A silver pectoral disc with carnelian cabochons and engraved/filigree decoration, a style of jewelry made across Central Asia and Iran/Turkmen-influenced regions; plausible as Persian or related Central Asian dress ornament, and no evidence contradicts the claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Pectoral Disc Ornament",
@@ -68,31 +75,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_455350.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/jewelry/general/images/met_455350.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "281d6cb85643e00d419a66e2abb1911c359434cee7f63a52ef9c39451bac4eff",
       "bytes": 1607262,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_455350.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\jewelry\\general\\images\\met_455350.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_455350_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/jewelry/general/images/met_455350_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "a318d27310bc9543c7d3795b3f8037608aa03030addc278904c059ff98f11078",
       "bytes": 264784,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_455350_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\jewelry\\general\\images\\met_455350_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/jewelry/general/images/met_455350_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/jewelry/general/images/met_455350_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "72c347e4536ec904e98fe90569bbdd2b016b8564429f7f619f99aac6de2758c4",
       "bytes": 1228599,
-      "local_path": "library\\mena\\iran\\persian\\jewelry\\general\\images\\met_455350_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\jewelry\\general\\images\\met_455350_2.jpg"
     }
   ],
   "map": {

@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Khmer silk",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "A silk weft-ikat (holbein-style) hip wrapper with dense diamond/floral ikat patterning and solid borders, consistent with Cambodian ikat sampot traditions; nothing points away from Khmer attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -104,22 +108,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/unclassified/khmer-silk/images/va_O440834.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O440834.jpg",
       "iiif_id": "2011FB0551",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0551/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "63b6d46aecc9101d3eed78d669bfa4bd021c8a05ff516511ca1570dc095d9235",
       "bytes": 362943,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer-silk\\images\\va_O440834.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O440834.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/unclassified/khmer-silk/images/va_O440834_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/cambodia/khmer/textile/khmer-silk/images/va_O440834_1.jpg",
       "iiif_id": "2020MN9308",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9308/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "27f79c0c0f430687ae834522deb03464d526bc0ab7db2e0b0fdde7dd205e6870",
       "bytes": 349108,
-      "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer-silk\\images\\va_O440834_1.jpg"
+      "local_path": "library\\southeast-asia\\cambodia\\khmer\\textile\\khmer-silk\\images\\va_O440834_1.jpg"
     }
   ],
   "map": {

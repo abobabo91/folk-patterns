@@ -17,8 +17,15 @@
     "country": "China (Xinjiang)",
     "ethnicity": "Uyghur",
     "tradition": "Jiaohe ruins",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows the ruins of Jiaohe, an ancient Silk Road city site in the Turpan region of Xinjiang, an archaeological site located within the Uyghur homeland, though the city itself predates the Uyghurs.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "2015-09-18-085157 - Ruinenstadt Jiaohe.JPG",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/architectural/jiaohe-ruins/images/carch_1a6dc3f8ba29be8b.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/uyghur/photo/jiaohe-ruins/images/carch_1a6dc3f8ba29be8b.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "d02f2327376191f893e296d9461986e3f487c5ed81813f801b2ed2426c0021cb",
       "bytes": 220524,
-      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\architectural\\jiaohe-ruins\\images\\carch_1a6dc3f8ba29be8b.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\photo\\jiaohe-ruins\\images\\carch_1a6dc3f8ba29be8b.jpg"
     }
   ],
   "map": {

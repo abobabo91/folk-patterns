@@ -13,12 +13,19 @@
     "accession_year": "1912"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Safavid-style Persian drawing of a reclining courtly figure in patterned robe with paisley motifs, wine flask, and garden setting, consistent with 16th–17th century Isfahan album painting traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Reclining Figure",
@@ -67,40 +74,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446267.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446267.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "437a762ab49cf79f43d19bd5168ed6d6a967d435a5d7546601e4ee83f5db0aad",
       "bytes": 2208241,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446267.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446267.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446267_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446267_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "27d8d85e8e37918695268558fe59bffcd72a8642df1807b75964969799da2cc6",
       "bytes": 610417,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446267_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446267_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446267_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446267_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "5e4ef0db82b0b4d055f293bde04185e4b09ec708a22fb33982b3d5a25bd7125f",
       "bytes": 1881636,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446267_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446267_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/painting-mss/general/images/met_446267_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_446267_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "4d885cc514f75e95b62f4b4fdb3243ced1b7e24c17896d5dcb1ec2dc7f5927dd",
       "bytes": 3050488,
-      "local_path": "library\\mena\\iran\\persian\\painting-mss\\general\\images\\met_446267_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_446267_3.jpg"
     }
   ],
   "map": {

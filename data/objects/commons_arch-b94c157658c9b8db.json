@@ -17,11 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Kinh",
     "tradition": "Temple of Literature, Hanoi",
-    "art_form": "photo",
+    "art_form": "architectural",
     "pattern_density": 2,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "architectural",
+    "vision_reason": "The image shows the Temple of Literature in Hanoi, a traditional Vietnamese (Kinh) architectural complex with tiled roofs, red lacquered columns, and a large bronze ritual incense burner in the courtyard, with graduating students gathered in front.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "03819-Hanoi (32111279854).jpg",

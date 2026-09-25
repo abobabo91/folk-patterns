@@ -17,8 +17,15 @@
     "country": "Ethiopia",
     "ethnicity": "Tigray",
     "tradition": "Debre Damo",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows climbers scaling a rope route up the cliff to the entrance of Debre Damo, the famous Tigray monastery accessed only by rope climb, documenting local monastic/architectural culture in situ.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Debre Damo Acces.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/architectural/debre-damo/images/carch_4ccfe6704f852f62.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/photo/debre-damo/images/carch_4ccfe6704f852f62.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "4446e8ac7c8cf0454a94ad5d19ec4eb68e90221441adc3ae40d8c563e14bb81a",
       "bytes": 790165,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\architectural\\debre-damo\\images\\carch_4ccfe6704f852f62.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\photo\\debre-damo\\images\\carch_4ccfe6704f852f62.jpg"
     }
   ],
   "map": {

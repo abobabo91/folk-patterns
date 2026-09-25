@@ -16,12 +16,16 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "Javanese",
+    "tradition": "Java",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A batik-dyed cotton sarong with classic floral vase and kembangan motifs, consistent with early 20th-century Javanese batik production.",
+    "vision_confidence": "HIGH",
+    "art_form_vision": "textile",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Sarong",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/javanese/images/cle_105825.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/java/images/cle_105825.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "63ce627884aed543e4a4ecc553d005937d7f2ba88746fd104141222a8a2adce9",
       "bytes": 775688,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\javanese\\images\\cle_105825.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\java\\images\\cle_105825.jpg"
     }
   ],
   "map": {
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:29.533931+00:00"
+  "processed_at": "2026-07-28T11:56:42.928752+00:00"
 }

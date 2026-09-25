@@ -17,8 +17,15 @@
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "Tomb of Hafez",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the Tomb of Hafez in Shiraz, Iran — a domed pavilion (aramgah) in a garden setting, which is Persian architecture, not a painting or manuscript. It fits the claimed ethnicity but not the claimed category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "007001hafez.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/tomb-of-hafez/images/carch_afb933e9e72416c2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/tomb-of-hafez/images/carch_afb933e9e72416c2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "8c37bcd12e3469a61cf82a16b2f2b90cf2475fe0dc4d3d3483f1d0caf8912f3b",
       "bytes": 262814,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\tomb-of-hafez\\images\\carch_afb933e9e72416c2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\tomb-of-hafez\\images\\carch_afb933e9e72416c2.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Kikuyu",
     "tradition": "Kikuyu people",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Vintage postcard photo of an African family group in traditional dress, beads, and thatched huts, labeled as Kikuyu warrior and family; this is a documentary photo of daily life/dress plausible for the claimed group.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "Afrique-Guerrier Kikouyou et sa famille.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/architectural/kikuyu-people/images/carch_34aa02ad46b99c5d.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/photo/kikuyu-people/images/carch_34aa02ad46b99c5d.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "044a2a2a5fc3490c4647641a458d047c28ca0e25c16352d702e67cf2d4133b7a",
       "bytes": 432246,
-      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\architectural\\kikuyu-people\\images\\carch_34aa02ad46b99c5d.jpg"
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\photo\\kikuyu-people\\images\\carch_34aa02ad46b99c5d.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-25T08:38:57.650378+00:00"
+  "processed_at": "2026-07-28T20:00:30.896497+00:00"
 }

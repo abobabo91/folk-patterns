@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a Balinese dancer in traditional costume and headdress performing on stage, with gamelan musicians visible behind, at a Bali exhibition opening — a documentary photo of Balinese performance dress and dance.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -72,7 +76,8 @@
       "role": "primary",
       "sha256": "3dd737684bcfa01ec4d38bb4129714d49accd3994a3c95a77cc64aa9781bb2cc",
       "bytes": 25003,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_aa81fce2_d0b4_102d_bcf8_003048976d84.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_aa81fce2_d0b4_102d_bcf8_003048976d84.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -80,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:19.171658+00:00"
+  "processed_at": "2026-07-28T18:43:06.710385+00:00"
 }

@@ -13,15 +13,19 @@
     "accession_year": 1985
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "parang",
+    "tradition": "kawung",
     "art_form": "textile",
-    "pattern_density": 2,
+    "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a batik cotton cloth (kemben/slendang) with parang design and traditional Javanese motifs from Yogyakarta, clearly belonging to Javanese textile culture — though the category is wrongly listed as metalwork rather than textile.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": null,
@@ -84,22 +88,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O96460.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/kawung/images/va_O96460.jpg",
       "iiif_id": "2006BG5477",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BG5477/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "1f6d4c038d14b96462df6a9e12aa74b653b73ced1e18791ff9ea389ff173df6b",
       "bytes": 580286,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O96460.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\kawung\\images\\va_O96460.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/parang/images/va_O96460_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/metalwork/kawung/images/va_O96460_1.jpg",
       "iiif_id": "2006BF9443",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9443/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "44a2406921a272aff39322ad4b3d36a0a8e3d4b307ae5bd4eb49da24f9379a7d",
       "bytes": 579606,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\parang\\images\\va_O96460_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\metalwork\\kawung\\images\\va_O96460_1.jpg"
     }
   ],
   "map": {
@@ -107,5 +111,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:20:34.953413+00:00"
+  "processed_at": "2026-07-18T11:21:14.924777+00:00"
 }

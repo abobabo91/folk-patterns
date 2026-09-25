@@ -18,7 +18,14 @@
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
     "art_form": "painting-mss",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a European (Dutch-style) watercolor/gouache costume illustration labeled \"Caffer\" (an old European exonym for Southern African peoples), depicting a man in leopard-skin garments with beadwork and a spear — an outsider's ethnographic illustration rather than an object made or a documentary photo by the culture itself, but it does depict genuine Xhosa/Nguni-style dress and adornment plausibly, so it still shows what the people wore.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Man, probably of the AmaXhosa, wearing a leopard skin and holding a spear",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:01.096482+00:00"
+  "processed_at": "2026-07-28T18:47:31.966998+00:00"
 }

@@ -20,7 +20,11 @@
     "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows a young Balinese girl in traditional ceremonial dress and headdress performing a trance dance while a gallery of Western tourists in colonial-era clothing looks on; this is documentary photography of Balinese dress and ritual dance practice, so it belongs.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
     "art_form_vision": "photo"
   },
   "physical": {
@@ -70,7 +74,8 @@
       "role": "primary",
       "sha256": "ea714de98dabf1daf254034675387379b7eda793eb913ef07a5495ac4ca75744",
       "bytes": 28905,
-      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_81a58be1_a07b_0c6a_fd5c_bb816495d246.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\unclassified\\balinese\\images\\eu_1417_https___archief_nl_id_foto_81a58be1_a07b_0c6a_fd5c_bb816495d246.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:14.113432+00:00"
+  "processed_at": "2026-07-28T18:43:01.849077+00:00"
 }

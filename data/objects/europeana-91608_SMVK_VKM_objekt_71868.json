@@ -17,11 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Batak",
     "tradition": "\"Batak\" Indonesia",
-    "art_form": "jewelry",
-    "pattern_density": 0,
+    "art_form": "textile",
+    "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "jewelry"
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a bundled, tied and dyed skein of yarn (garnhärva) used in ikat preparation for weaving \"ragi hotang\" cloth, a technique associated with Batak textile traditions of Sumatra. This is a raw material stage of a traditional textile process from the correct region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "garnhärva",
@@ -64,13 +68,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/unclassified/batak-indonesia/images/eu_91608_SMVK_VKM_objekt_71868.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/batak/textile/batak-indonesia/images/eu_91608_SMVK_VKM_objekt_71868.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "1fb4dbc43bf820daaef715cb265d17ddc695ee40d0f916b60ad6ec9b179c804d",
       "bytes": 9655,
-      "local_path": "library\\southeast-asia\\indonesia\\batak\\unclassified\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71868.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71868.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -78,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:32:57.451608+00:00"
+  "processed_at": "2026-07-28T18:43:30.180918+00:00"
 }

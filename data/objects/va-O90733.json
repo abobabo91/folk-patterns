@@ -17,8 +17,15 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Iznik tile",
-    "art_form": "textile",
-    "pattern_density": 3
+    "art_form": "ceramic",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "Classic Iznik-style tile panel with saz leaves, tulips, and rumi/floral motifs typical of Ottoman Turkish ceramic production; matches the claimed Turkish ethnicity and origin.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": null,
@@ -153,13 +160,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/textile/iznik-tile/images/va_O90733.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/ceramic/iznik-tile/images/va_O90733.jpg",
       "iiif_id": "2006AF0215",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006AF0215/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "1e95489c3261e1334fd0cbdb96aa07e534ce3e1447d0ce5a08ed72b93a6bb93c",
       "bytes": 534682,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\textile\\iznik-tile\\images\\va_O90733.jpg"
+      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\ceramic\\iznik-tile\\images\\va_O90733.jpg"
     }
   ],
   "map": {

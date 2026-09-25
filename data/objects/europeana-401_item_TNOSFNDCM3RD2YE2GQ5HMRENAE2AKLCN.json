@@ -18,7 +18,14 @@
     "ethnicity": "Tajik",
     "tradition": "Tajik Tajikistan",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a Soviet-era propaganda tapestry depicting Lenin's portrait within a traditional Tajik-style geometric woven border, made in Tajik SSR in 1965 as a gift; it is a woven textile produced by Tajik weavers using their decorative border patterns, so it belongs despite the Soviet iconography.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "wall tapestry, Tajik SSR, 1965",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:29:09.435335+00:00"
+  "processed_at": "2026-07-28T18:41:58.016049+00:00"
 }

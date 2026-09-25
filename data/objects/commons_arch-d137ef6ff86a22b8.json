@@ -17,8 +17,15 @@
     "country": "Ethiopia",
     "ethnicity": "Tigray",
     "tradition": "Yeha",
-    "art_form": "photo",
-    "pattern_density": 2
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows the ancient Sabaean-era temple of Yeha in Tigray, Ethiopia, with an Aksumite-era church beside it, set against a hillside landscape—this is archaeological/architectural heritage located in and associated with the Tigray region, so it fits the claimed ethnicity even though the metadata mislabels it as \"photo.\"",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Yeha 2.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/architectural/yeha/images/carch_d137ef6ff86a22b8.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/photo/yeha/images/carch_d137ef6ff86a22b8.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "6c02facfa9277ef2ca8c322b2be9ae0fe6a91970a6e66675445374179e94ec1a",
       "bytes": 1259442,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\architectural\\yeha\\images\\carch_d137ef6ff86a22b8.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\photo\\yeha\\images\\carch_d137ef6ff86a22b8.jpg"
     }
   ],
   "map": {

@@ -18,7 +18,14 @@
     "ethnicity": "Fang",
     "tradition": "Fang Gabon",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A wooden standing figure with reflective eye inlays, a classic Fang-style ancestor/reliquary guardian figure (byeri) form, consistent with Gabon/Ogooué attribution given in the museum's own field notes.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "skulptur, fetisch, Fetisch., figur, fetish, sculpture, figure",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "14b551234c6ca483515d1864ec5a878030d7967f5c4938104065d7f2683172c3",
       "bytes": 20189,
-      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31479.jpg"
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31479.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:00:58.794966+00:00"
+  "processed_at": "2026-07-28T18:47:13.855795+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "South Africa",
     "ethnicity": "Xhosa",
     "tradition": "Xhosa",
-    "art_form": "painting-mss",
-    "pattern_density": 0
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a carved wooden smoking pipe with beadwork fringe in typical Xhosa color scheme, a household/ritual object used and adorned by Xhosa people; the claimed category \"painting-mss\" is wrong but the ethnicity attribution fits.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
   },
   "physical": {
     "title": "Pipe",
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:07:24.663365+00:00"
+  "processed_at": "2026-07-28T18:41:34.007267+00:00"
 }

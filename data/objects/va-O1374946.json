@@ -13,14 +13,19 @@
     "accession_year": 2017
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Laos",
     "ethnicity": "Lao",
-    "tradition": "Tai Lue weaving",
+    "tradition": "Lao silk",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A densely patterned handwoven silk ceremonial hanging with naga and sang hong motifs typical of Lao textile tradition, matching the museum's description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -352,22 +357,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/tai-lue-weaving/images/va_O1374946.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O1374946.jpg",
       "iiif_id": "2019MD0284",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD0284/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "df564add6e52dc45cf039bccd41b724734fb4f337e87755b1d7cbb3df3038aee",
       "bytes": 125732,
-      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\tai-lue-weaving\\images\\va_O1374946.jpg"
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O1374946.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/tai-lue-weaving/images/va_O1374946_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/laos/lao/textile/lao-silk/images/va_O1374946_1.jpg",
       "iiif_id": "2019MD0292",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD0292/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "4371c7cdb061628640e942b76a9a945ffa16ba07f9b30d53a4e29d9e549c94cc",
       "bytes": 187820,
-      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\tai-lue-weaving\\images\\va_O1374946_1.jpg"
+      "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao-silk\\images\\va_O1374946_1.jpg"
     }
   ],
   "map": {
@@ -375,5 +380,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:31:35.945171+00:00"
+  "processed_at": "2026-07-18T11:30:21.315315+00:00"
 }

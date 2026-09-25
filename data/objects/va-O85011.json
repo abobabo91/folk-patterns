@@ -13,14 +13,19 @@
     "accession_year": 1998
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Myanmar",
     "ethnicity": "Bamar",
     "tradition": "longyi",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "A plain woven cotton longyi (tube skirt) with a black waistband — a standard everyday garment worn by Bamar people in Myanmar, consistent with the museum's own description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -207,13 +212,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/unclassified/longyi/images/va_O85011.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/bamar/garment/longyi/images/va_O85011.jpg",
       "iiif_id": "2020MN9380",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9380/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "ac0d037e06ef5fb865da2af976b704bbd73043844e02e4e96af8b68a09b80aad",
       "bytes": 193843,
-      "local_path": "library\\southeast-asia\\myanmar\\bamar\\unclassified\\longyi\\images\\va_O85011.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\bamar\\garment\\longyi\\images\\va_O85011.jpg"
     }
   ],
   "map": {

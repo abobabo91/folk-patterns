@@ -19,8 +19,13 @@
     "tradition": "lacquer painting",
     "art_form": "textile",
     "pattern_density": 3,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "The image shows a lacquered powder horn with a wax-resist (batik-style) printed cotton band and embroidered tassels used as a strap/pouch accessory, a firearm accoutrement consistent with Burmese material culture; the textile band is the relevant claimed item.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": null,
@@ -93,13 +98,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/myanmar/unclassified/lacquer-painting/images/va_O450907.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/_regional/textile/lacquer-painting/images/va_O450907.jpg",
       "iiif_id": "2020MN9286",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9286/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "462c78cefa49b0e6fe3145ccc3196d5f2d8b4cfe4fb8a43a321b8adab18cebd1",
       "bytes": 100919,
-      "local_path": "library\\southeast-asia\\myanmar\\myanmar\\unclassified\\lacquer-painting\\images\\va_O450907.jpg"
+      "local_path": "library\\southeast-asia\\myanmar\\_regional\\textile\\lacquer-painting\\images\\va_O450907.jpg"
     }
   ],
   "map": {

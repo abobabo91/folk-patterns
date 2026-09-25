@@ -19,8 +19,13 @@
     "tradition": "batik",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_vetted": true,
+    "vision_reason": "This is a batik head-cloth (kain kepala) with lozenge and rosette motifs typical of Malay/Indonesian batik tradition, consistent with a Malaysian regional attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": null,
@@ -129,13 +134,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malaysia/unclassified/batik/images/va_O478410.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/batik/images/va_O478410.jpg",
       "iiif_id": "2017JX7770",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7770/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "192accd8e2078c77e92aac340beb79540905abc3965dd55c2437d8991fa4b47d",
       "bytes": 503005,
-      "local_path": "library\\southeast-asia\\malaysia\\malaysia\\unclassified\\batik\\images\\va_O478410.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\batik\\images\\va_O478410.jpg"
     }
   ],
   "map": {

@@ -17,8 +17,15 @@
     "country": "Kyrgyzstan",
     "ethnicity": "Kyrgyz",
     "tradition": "Kirghiz felt",
-    "art_form": "architectural",
-    "pattern_density": 0
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_reason": "The photograph shows a Kyrgyz yurt (tente kirghize) in a mountain meadow with a group of people in traditional dress gathered around it, a documentary ethnographic photo consistent with Kyrgyz nomadic life.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Asie. Tente kirghize (yourte) / [mission] Chaffanjon ; photogr. Chaffanjon [?] ; [photogr. reprod. par] Molteni [pour la conférence donnée par]Chaffanjon",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "32352dfddc83da358c8a7b2bb6e8129e722b8c00a9f37ef13f5896d50be2956f",
-      "bytes": 21892,
+      "sha256": "b6ca27dbc5981897dcea37e72cddb9dda1829c6240bde2edc9784b43d8f016bc",
+      "bytes": 35109,
       "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\unclassified\\kirghiz-felt\\images\\eu_9200518_ark__12148_btv1b53136641v.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T13:28:52.423493+00:00"
+  "processed_at": "2026-07-28T18:41:52.314062+00:00"
 }

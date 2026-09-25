@@ -18,7 +18,14 @@
     "ethnicity": "Fulani",
     "tradition": "Peul Senegal",
     "art_form": "photo",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a documentary studio photograph of a Fulani man from Fouta Djallon (Guinea, a major Fulani homeland region), showing hairstyle and facial features typical of ethnographic portraiture of the people — this fits the claimed ethnicity as a documentary photo, though the record's ART_FORM (painting-mss) is wrong.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "man, skägg, flätor, porträtt, fotografi, photograph",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/senegal/fulani/unclassified/peul-senegal/images/eu_91627_SMVK_EM_fotografi_2683858.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/senegal/fulani/painting-mss/peul-senegal/images/eu_91627_SMVK_EM_fotografi_2683858.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "dccb57742abfcefb470d5be76821b4f754460700e37629093c7722c81d72ad4c",
       "bytes": 100266,
-      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\unclassified\\peul-senegal\\images\\eu_91627_SMVK_EM_fotografi_2683858.jpg"
+      "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\painting-mss\\peul-senegal\\images\\eu_91627_SMVK_EM_fotografi_2683858.jpg"
     }
   ],
   "map": {
@@ -75,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:45:33.230293+00:00"
+  "processed_at": "2026-07-28T18:45:22.070284+00:00"
 }

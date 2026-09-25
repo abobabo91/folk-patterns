@@ -13,12 +13,19 @@
     "accession_year": "2014"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "sculpture",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This stucco head with rounded face and hat/turban is a Sasanian-era stucco fragment from Iran, a genre made and used in ancient Persia; the \"Central Asian\" title reflects a stylistic guess but the piece is Iranian archaeology, fitting the claimed ethnicity/region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Head of a Central Asian Figure",
@@ -67,31 +74,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_664761.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/sculpture/general/images/met_664761.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "09b475885c6612d5d3ace984d24be6ccc366f59ef78218ace55bcdab591f3b2c",
       "bytes": 2263648,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_664761.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\sculpture\\general\\images\\met_664761.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_664761_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/sculpture/general/images/met_664761_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "76de45d8e7e3c1d2579078a757de11567192a77b761427ef069ed7cdd62ae001",
       "bytes": 3658749,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_664761_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\sculpture\\general\\images\\met_664761_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/sculpture/general/images/met_664761_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/sculpture/general/images/met_664761_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "793900f4d21f94aba5dafdd6ae98d7168e3ce21f9fe19efe5d8877714c2c417c",
       "bytes": 2101346,
-      "local_path": "library\\mena\\iran\\persian\\sculpture\\general\\images\\met_664761_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\sculpture\\general\\images\\met_664761_2.jpg"
     }
   ],
   "map": {

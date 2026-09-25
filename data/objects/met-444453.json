@@ -13,12 +13,19 @@
     "accession_year": "1891"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
     "art_form": "ceramic",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "An eight-pointed star-shaped lustre tile with scrolling vine decoration and Persian calligraphic inscription, consistent with Kashan lustreware production, a classic Persian ceramic craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
   },
   "physical": {
     "title": "Star-Shaped Tile",
@@ -66,40 +73,40 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444453.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444453.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f57877c6b748c82b81fddddfcd6450067b83db0302d7002598f97a953be641d6",
       "bytes": 3168583,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444453.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444453.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444453_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444453_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "a9acb172e69aea6a680c29ac7c509efe1a7a52aec72da5492c7df4f8c4fdc0c5",
       "bytes": 241077,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444453_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444453_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444453_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444453_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "37a2706e46dc029eb052008573585d19ae37459ea0b40c4c1c0dfcd3e5843e32",
       "bytes": 334210,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444453_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444453_2.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/ceramic/general/images/met_444453_3.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/general/images/met_444453_3.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "9808ec338d20d48646fdc062917808ee66881a5a076919d621ba27430a9cf11f",
       "bytes": 397773,
-      "local_path": "library\\mena\\iran\\persian\\ceramic\\general\\images\\met_444453_3.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\general\\images\\met_444453_3.jpg"
     }
   ],
   "map": {

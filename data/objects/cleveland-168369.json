@@ -20,8 +20,12 @@
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "garment"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a classic Tekke Turkmen chyrpy (woman's mantle) with false sleeves and silk chain-stitch tulip embroidery, matching the claimed Turkmen ethnicity and garment category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Woman’s Mantle (Chyrpy)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:45:03.464177+00:00"
+  "processed_at": "2026-07-28T18:40:55.649820+00:00"
 }

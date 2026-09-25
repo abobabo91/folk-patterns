@@ -17,11 +17,15 @@
     "country": "Vietnam",
     "ethnicity": "Cham",
     "tradition": "My Son",
-    "art_form": "architectural",
+    "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "architectural"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "sculpture",
+    "vision_reason": "Historic photo (1902) of a Cham Dvarapala guardian statue at the Cham temple complex of Dương Dương/Mỹ Sơn, with archaeologist Charles Carpeaux and an assistant posed among the ruins; the sculpture is genuine Cham temple art from the claimed culture's homeland.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Charles Carpeaux at Mỹ Sơn.jpg",
@@ -64,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/architectural/my-son/images/carch_fbc07e73bd622549.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/sculpture/my-son/images/carch_fbc07e73bd622549.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fb08155fcb54264e491ff746fd9a515cf7a9ba0543644106fbce3c862e0141a3",
       "bytes": 347056,
-      "local_path": "library\\southeast-asia\\vietnam\\cham\\architectural\\my-son\\images\\carch_fbc07e73bd622549.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\cham\\sculpture\\my-son\\images\\carch_fbc07e73bd622549.jpg"
     }
   ],
   "map": {

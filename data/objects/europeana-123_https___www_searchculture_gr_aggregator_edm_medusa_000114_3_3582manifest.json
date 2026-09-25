@@ -17,10 +17,15 @@
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "Thai",
-    "art_form": "painting-mss",
+    "art_form": "sculpture",
     "pattern_density": 0,
-    "vision_by": "claude-haiku-4-5",
-    "vision_vetted": null
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a modern souvenir figurine of a Thai classical dancer in traditional costume with headdress, mass-produced as a tourist collectible rather than a genuine dance costume, mask, or sculpture from the tradition itself. It depicts Thai dress but is a modern plastic curio, not miniature-painting or manuscript art as claimed.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "Thai miniature doll",
@@ -77,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-21T15:33:59.972411+00:00"
+  "processed_at": "2026-07-28T18:44:21.235470+00:00"
 }

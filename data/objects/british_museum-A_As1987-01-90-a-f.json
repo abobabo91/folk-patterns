@@ -17,8 +17,15 @@
     "country": "Indonesia",
     "ethnicity": "Toraja",
     "tradition": "Toraja",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "sculpture",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "This is a Toraja tau-tau grave effigy figure carved from jackfruit wood and dressed in cloth shirt, trousers and sarong; the clothing shown is Toraja-made garment worn by the funerary figure, consistent with the claimed ethnicity. Though the record labels it \"garment,\" the object itself is primarily a carved sculpture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture"
   },
   "physical": {
     "title": "figure; grave-marker",
@@ -67,7 +74,8 @@
       "role": "primary",
       "sha256": "7c347b4e996511f635ab4a5287ab30fc6b546258a68957016298e4cbc34a238c",
       "bytes": 27116,
-      "local_path": "library\\southeast-asia\\indonesia\\toraja\\garment\\toraja\\images\\bm_A_As1987-01-90-a-f.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\garment\\toraja\\images\\bm_A_As1987-01-90-a-f.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -75,5 +83,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T08:55:53.888566+00:00"
+  "processed_at": "2026-07-28T19:22:43.309118+00:00"
 }

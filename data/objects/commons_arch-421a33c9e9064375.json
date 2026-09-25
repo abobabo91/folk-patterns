@@ -19,9 +19,14 @@
     "tradition": "My Son",
     "art_form": "photo",
     "pattern_density": 0,
-    "vision_vetted": false,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "photo"
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "photo",
+    "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/2/25/Folklore_My_Son_-_Vietnam.jp",
+    "vision_reason": "This is a documentary photo of contemporary performers in Cham-style dance costume at My Son (a historic Cham site in Vietnam), a modern staged folklore performance rather than a painting or manuscript. It supports the Cham ethnicity claim through traditional dress and cultural practice, but the museum's category is wrong.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "modern"
   },
   "physical": {
     "title": "Folklore My Son - Vietnam.jpg",
@@ -64,13 +69,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/architectural/my-son/images/carch_421a33c9e9064375.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/cham/painting-mss/my-son/images/carch_421a33c9e9064375.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "89727db162844934e78b98ba4b4a99e33710d581ea2309f358eead06e1688b26",
       "bytes": 848926,
-      "local_path": "library\\southeast-asia\\vietnam\\cham\\architectural\\my-son\\images\\carch_421a33c9e9064375.jpg"
+      "local_path": "library\\southeast-asia\\vietnam\\cham\\painting-mss\\my-son\\images\\carch_421a33c9e9064375.jpg"
     }
   ],
   "map": {

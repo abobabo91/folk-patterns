@@ -13,15 +13,19 @@
     "accession_year": null
   },
   "cultural": {
-    "region": "southeast_asia",
+    "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
     "tradition": "batik",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a hand-drawn batik cloth (tulis) with a leafy \"seaweed\"-style motif and floral kawung-like border, made in Pekalongan, a well-known Javanese batik-producing center — consistent with Javanese textile production.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Sea Weed",
@@ -70,13 +74,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/architectural/batik/images/si_chndm_1961-115-29.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/textile/batik/images/si_chndm_1961-115-29.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "b91dc417d6c44171650772c86b03635e6007ae54f450f80e4673d08fda38c2ee",
       "bytes": 5657994,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\architectural\\batik\\images\\si_chndm_1961-115-29.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\batik\\images\\si_chndm_1961-115-29.jpg"
     }
   ],
   "map": {

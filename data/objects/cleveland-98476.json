@@ -20,8 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "claude-haiku-4-5",
-    "art_form_vision": "textile"
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "textile",
+    "vision_reason": "This is a classic suzani-style silk embroidery on cotton from Bukhara, with the characteristic floral rosettes and medallion motifs made by Central Asian (Uzbek) needleworkers.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "Part of a Curtain (Two Widths)",
@@ -78,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-22T14:44:45.263916+00:00"
+  "processed_at": "2026-07-28T18:40:55.511180+00:00"
 }

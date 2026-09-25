@@ -18,7 +18,14 @@
     "ethnicity": "Azeri (Iranian)",
     "tradition": "Azerbaijani carpet",
     "art_form": "textile",
-    "pattern_density": 3
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A knotted wool rug with a central medallion in madder red, indigo, and cream, titled \"Tabriz carpet with medallion\" — Tabriz is a major Azeri-populated city in Iranian Azerbaijan, and this style of Persian medallion carpet is a well-known product of that weaving tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "6cb1e0a200f3e38b0613eb31b2730c794051ccbf5369ee9d58dbc8159209a06e",
-      "bytes": 18825,
+      "sha256": "81a7aac6666e7d67264bcf00cb38e80a516629af7dbed95abf1ac82b7e2b4413",
+      "bytes": 295969,
       "local_path": "library\\middle-east-north-africa\\iran\\azeri-iranian\\textile\\azerbaijani-carpet\\images\\eu_15514_T_10374.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:49:52.833565+00:00"
+  "processed_at": "2026-07-28T18:42:20.442412+00:00"
 }

@@ -13,12 +13,19 @@
     "accession_year": "1955"
   },
   "cultural": {
-    "region": "mena",
+    "region": "middle-east-north-africa",
     "country": "Iran",
     "ethnicity": "Persian",
     "tradition": "general",
-    "art_form": "garment",
-    "pattern_density": 2
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A Safavid-period Persian miniature painting depicting a young man in a fur-lined coat and turban, seated beneath a willow tree, in the classic Isfahan/Persian court painting style — a clear fit for Persian painting-mss tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss"
   },
   "physical": {
     "title": "Man in a Fur-Lined Coat",
@@ -79,31 +86,31 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/garment/general/images/met_451320.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451320.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "10169468831383f9ecf4c74847e08048aaca06bf9cde9198721207dfd2a45c94",
       "bytes": 3252048,
-      "local_path": "library\\mena\\iran\\persian\\garment\\general\\images\\met_451320.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451320.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/garment/general/images/met_451320_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451320_1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "9f88dad7459f6b9acf1700a069a7906876744af43f5a892925c339ec7940c723",
       "bytes": 481556,
-      "local_path": "library\\mena\\iran\\persian\\garment\\general\\images\\met_451320_1.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451320_1.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/mena/iran/persian/garment/general/images/met_451320_2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/painting-mss/general/images/met_451320_2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "alt",
       "sha256": "4ac5d8bb7ec34326c042724fdb11bdf1b6f5cc48e84e5c7c3fac6f245c544b28",
       "bytes": 980042,
-      "local_path": "library\\mena\\iran\\persian\\garment\\general\\images\\met_451320_2.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\general\\images\\met_451320_2.jpg"
     }
   ],
   "map": {

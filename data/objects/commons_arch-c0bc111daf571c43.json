@@ -18,7 +18,14 @@
     "ethnicity": "Persian",
     "tradition": "Persepolis",
     "art_form": "photo",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A photo contact sheet from Persepolis showing local Persian workers/boys at an archaeological excavation site, a documentary scene of local people at their work and daily life in Iran, consistent with the claimed Persian ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
   },
   "physical": {
     "title": "CH-NB - Persien, Persepolis- Ausgrabungen u. Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-04-134.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/architectural/persepolis/images/carch_c0bc111daf571c43.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/photo/persepolis/images/carch_c0bc111daf571c43.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "7e6f7baba04b680baf0cd7bb5222795948dc1fd2c5cf3e03d5b4033730fbc760",
       "bytes": 264451,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\persepolis\\images\\carch_c0bc111daf571c43.jpg"
+      "local_path": "library\\middle-east-north-africa\\iran\\persian\\photo\\persepolis\\images\\carch_c0bc111daf571c43.jpg"
     }
   ],
   "map": {

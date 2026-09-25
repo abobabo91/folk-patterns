@@ -18,7 +18,14 @@
     "ethnicity": "Egyptian",
     "tradition": "Egyptian Coptic textile",
     "art_form": "garment",
-    "pattern_density": 2
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "garment",
+    "vision_reason": "This is a Coptic-period wool tunic excavated from an Egyptian grave (5th c. AD), with woven decorative bands typical of Egyptian textile tradition — a plausible garment made and worn in Egypt.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "Wollen hemd met dierfiguren",
@@ -67,8 +74,8 @@
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "2acb9f9c016770c5422c0e30f00716de7451c389bf1717204fee1a44c9bedc86",
-      "bytes": 20021,
+      "sha256": "274379524c07b05bdad676fa1210cebef0a01ec3cb1654e8275f74db0e1282b8",
+      "bytes": 4929170,
       "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\garment\\egyptian-coptic-textile\\images\\eu_2048221_europeana_fashion_98060.jpg"
     }
   ],
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-23T14:50:48.497315+00:00"
+  "processed_at": "2026-07-28T18:42:45.006377+00:00"
 }

@@ -17,8 +17,15 @@
     "country": "Tanzania",
     "ethnicity": "Swahili",
     "tradition": "Swahili Zanzibar",
-    "art_form": "textile",
-    "pattern_density": 0
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "A machine-printed cotton kanga cloth with Ki Swahili proverb text (methali), worn by women as wrapper clothing — a classic Swahili garment, though mass-produced rather than handmade.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "garment"
   },
   "physical": {
     "title": "Katoenen wikkeldoek",
@@ -77,5 +84,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T06:54:27.042422+00:00"
+  "processed_at": "2026-07-28T18:46:36.647271+00:00"
 }

@@ -18,7 +18,14 @@
     "ethnicity": "Zulu",
     "tradition": "Zulu",
     "art_form": "jewelry",
-    "pattern_density": 0
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The image shows a beaded belt/girdel with a plaid fabric closure, matching the museum description of a Zulu women's beaded belt (kralen gordel) — a plausible traditional adornment item for this culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
   },
   "physical": {
     "title": "Kralen gordel voor Zulu vrouwen",
@@ -69,7 +76,8 @@
       "role": "primary",
       "sha256": "625629085c82537c0c2e6fe87405f60ac420e1f9735180c29b8c808566ec0434",
       "bytes": 18993,
-      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\unclassified\\zulu\\images\\eu_2048221_europeana_fashion_101807.jpg"
+      "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\unclassified\\zulu\\images\\eu_2048221_europeana_fashion_101807.jpg",
+      "low_quality": true
     }
   ],
   "map": {
@@ -77,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-24T07:05:59.663247+00:00"
+  "processed_at": "2026-07-28T18:47:26.199823+00:00"
 }

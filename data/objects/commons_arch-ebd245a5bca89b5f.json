@@ -18,7 +18,14 @@
     "ethnicity": "Malay",
     "tradition": "Kuala Kangsar",
     "art_form": "architectural",
-    "pattern_density": 2
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
+    "vision_reason": "The photo shows Istana Hulu, a Malay royal palace in Kuala Kangsar, Malaysia, an example of Malay colonial-era palatial architecture. It is a photograph of a building, not a painting/manuscript, so the category should be corrected.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "modern",
+    "art_form_vision": "architectural"
   },
   "physical": {
     "title": "Istana Hulu, Kuala Kangsar.jpg",
@@ -61,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/architectural/kuala-kangsar/images/carch_ebd245a5bca89b5f.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/painting-mss/kuala-kangsar/images/carch_ebd245a5bca89b5f.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "b0d1e8169f719db1c72fe4bfbf6db235eeb22ec35b10367516e01c197de07260",
       "bytes": 268713,
-      "local_path": "library\\southeast-asia\\malaysia\\malay\\architectural\\kuala-kangsar\\images\\carch_ebd245a5bca89b5f.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\painting-mss\\kuala-kangsar\\images\\carch_ebd245a5bca89b5f.jpg"
     }
   ],
   "map": {
