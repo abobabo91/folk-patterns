@@ -177,17 +177,20 @@ Changes made from it, then re-run on the 12 affected records and on the 30 calib
 The rules were first a ~10k-character prompt sent in the user message with the record block inside it. They are now a ~3k-character system prompt, identical on every call, with the record block and the image as the user message. Two reasons, both measured on the 117 pilot records (docs/cloud-vetting.md → Pilot 3):
 
 - **Cost.** A fixed system prompt is served from the CLI's prompt cache after the first call: $0.035 → $0.011 per record. Moving the long rules into the system prompt alone gave $0.0116; shortening them adds only ~7%, because the image and record block, written fresh every call, are most of what is left.
-- **No loss in judgement.** Against the long prompt's cloud pilot: BELONGS 113 / 117, and on the 89 records both keep ART_FORM 86, IMAGE 88, ERA 85. Against local Sonnet with the long prompt: BELONGS 114 / 116. Against the by-eye labels: 57 / 60 (the long prompt: 55–56), two of the three misses being labels made under the old rule that excluded excavated material.
+- **No loss in judgement.** The current prompt against the long prompt's cloud pilot: BELONGS 113 / 117, and on the 89 records both keep ART_FORM 84, IMAGE 88, ERA 85. Against local Sonnet with the long prompt: BELONGS 112 / 116. Against the by-eye labels: 55 / 60 (the long prompt: 55–56). Three of the five misses are wrong labels — the Book of the Dead and the Ban Chiang jar were labelled under the old rule that excluded excavated material, and V&A's record names the "Bamar" ikat as Shan — which leaves an Ewe kente kept under Ashanti and a printed cloth whose museum record calls it adire dropped, both borderline.
 
-Getting the short prompt there took three measured rounds, each fixing a class the previous one missed — keep these lines:
+Getting the short prompt there took measured rounds on the 117 pilot records and on batch b002's drops, each fixing a class the previous one missed — keep these lines:
 
 - First cut: ERA 81 / 89. Khmer and Javanese temple bronzes came back `traditional`. Fixed by naming "an Angkor-era or 10th-century temple bronze or ritual bell now in a museum" as archaeological, "even when it is well made and court or temple art".
 - That pushed an Ilkhanid Shahnama folio to `archaeological`. Fixed by "a painting or manuscript of a living tradition (a Shahnama folio, a Mughal album page) is traditional, however old; one recovered from a tomb (a Book of the Dead) is archaeological".
 - A sarong/longyi as `textile` and ritual bells as `metalwork`: the category line names them.
+- In batch b002 three pictures were dropped only because the record's claimed category was wrong — the Hanging Church and the Tash Rabat caravanserai filed as `textile`, an Iranian façade filed as `painting-mss` — and a Khmer temple in Isan was dropped under Lao Isan. The long prompt asked "is the category right, and if not, what is?"; the short one had lost that. Fixed by "a wrong claimed category alone is never a reason for NO — give the right ART_FORM" and "archaeology of their homeland, even when an earlier people built it (a Khmer temple in Isan)". All four came back YES.
+- The first wording of that category line ("never a reason for NO") made the judge lenient: a scanned document page about kilims and the Cambodian pidan filed under Uzbek flipped to YES. Fixed by adding "every NO reason above still applies", "a scanned page of a document or book" to the NO list, and "a pictorial Cambodian pidan silk under Uzbek" to the distant-style example — the long prompt had named that exact case. The pidan went from YES on 3 / 3 repeat calls to NO on 3 / 3.
+- A single re-run is noisy: a kitten in the Kasbah of the Udayas flipped to YES once, then came back NO on 3 / 3 repeats. Check a flip with repeats before changing the prompt for it.
 
 The remaining ERA differences from the long prompt are ones the short prompt gets right or that are debatable: Masjid Shah Alam (built 1988) → modern, the Dungur ruins → archaeological, a kanga design proof and a Lao checked silk → modern.
 
-Verdicts written by the long prompt (the pilot and batch b001) count as current and are not re-run.
+Verdicts written by the long prompt (the pilot and batch b001) count as current and are not re-run. Batch b002 was judged before the category fix: its 38 drops were re-judged with the current prompt (`data/vet_verdicts/b002-drops-rejudged.jsonl`, applied after `b002.jsonl`; 7 flipped to YES), its keeps stand, since that fix only makes the judge keep more.
 
 ## Agreed next step
 
