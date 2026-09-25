@@ -1,0 +1,473 @@
+"""World list of peoples with museum evidence — which cultures the atlas could
+add, per continent, before anything is scraped.
+
+    python scripts/world_peoples.py wikidata     # -> data/world/wikidata.json
+    python scripts/world_peoples.py bm           # BM "Ethnic group" hits per name (needs BM_CDP_URL)
+    python scripts/world_peoples.py aliases      # Wikidata English aliases of the names BM found 0 for
+    python scripts/world_peoples.py bm --aliases # retry those under their aliases
+    python scripts/world_peoples.py europeana    # hits at ethnographic providers per name
+    python scripts/world_peoples.py classify     # Wikipedia summary + Haiku: a people? where?
+    python scripts/world_peoples.py harvest      # BM object names per people (<= 500), for category breadth
+    python scripts/world_peoples.py report       # -> data/world/peoples.json
+
+The universe is Wikidata: every item that is an instance of "ethnic group"
+(Q41710) or "indigenous people" (Q103817), or of any of their ~2,600
+subclasses, and that has an English Wikipedia article. Only names with
+articles in 5+ languages are counted. Two known gaps: the subclass tree also
+holds dioceses, church bodies and ancient tribes, which the keyword filter
+below does not fully remove (the museum count does: they have no objects),
+and some peoples have no P31 at all (Kuba, T'boli), so the atlas's own
+cultures are always added.
+
+Counts are cached per name in data/world/counts_<source>.jsonl, so every step
+resumes.
+"""
+from __future__ import annotations
+
+import argparse
+import glob
+import json
+import re
+import sys
+import time
+from pathlib import Path
+
+import httpx
+
+REPO = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO / "src"))
+OUT = REPO / "data" / "world"
+UA = {"User-Agent": "folk-patterns/0.1 (https://github.com/abobabo91/folk-patterns)"}
+MIN_SITELINKS = 5
+
+# Labels that are not peoples: institutions the subclass tree drags in, and
+# diaspora / religious sub-groups of a people already on the list.
+_INSTITUTION = re.compile(
+    r"\b(Diocese|Archdiocese|Archbishopric|Eparchy|Church|Order|University|Universidad|Instituto|School|College|"
+    r"Sisters|Daughters|Brothers|Congregation|Friary|Abbey|Monastery|Council|Conference|Catholic|Orthodox|"
+    r"Presbyterian|Baptists|titular|see|Prefecture|Vicariate|Francophonie|Reservation|Rancheria|Band of|"
+    r"Tribe of|Pueblo of|Community|Society|Association|History|List|Governing Body)\b", re.I)
+_DIASPORA = re.compile(
+    r"\b(Americans?|Canadians?|Australians?|Britons?|Brazilians?|Argentines?|Mexicans?|Chileans?|New Zealanders|"
+    r"in the|in [A-Z]\w+|of [A-Z]\w+ia\b|diaspora|expatriates|immigrants?|descent|Muslims?|Christians?|Sikhs?|Jews)\b")
+
+
+def _sparql(q: str) -> list[dict]:
+    for _ in range(3):
+        r = httpx.post("https://query.wikidata.org/sparql", data={"query": q, "format": "json"}, headers=UA, timeout=300)
+        if r.status_code == 200:
+            return [{k: v["value"] for k, v in b.items()} for b in r.json()["results"]["bindings"]]
+        print(f"  wikidata {r.status_code}, retrying", flush=True)
+        time.sleep(15)
+    raise SystemExit("wikidata query failed 3 times")
+
+
+def cmd_wikidata() -> None:
+    # one query per 40 types: the single transitive query times out (504)
+    types = [t["c"].split("/")[-1] for t in _sparql(
+        "SELECT DISTINCT ?c WHERE { VALUES ?root { wd:Q41710 wd:Q103817 } ?c wdt:P279* ?root }")] + ["Q83828"]
+    rows: dict[str, dict] = {}
+    for i in range(0, len(types), 40):
+        vals = " ".join("wd:" + t for t in types[i:i + 40])
+        for x in _sparql(f"""SELECT ?g ?gLabel ?article ?sitelinks (SAMPLE(?cLabel) AS ?country)
+            (SAMPLE(?lat) AS ?lat) (SAMPLE(?lon) AS ?lon) WHERE {{
+              VALUES ?t {{ {vals} }} ?g wdt:P31 ?t .
+              ?article schema:about ?g ; schema:isPartOf <https://en.wikipedia.org/> .
+              ?g wikibase:sitelinks ?sitelinks .
+              OPTIONAL {{ ?g wdt:P17 ?c . ?c rdfs:label ?cLabel FILTER(lang(?cLabel) = "en") }}
+              SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+            }} GROUP BY ?g ?gLabel ?article ?sitelinks"""):
+            rows[x["g"].split("/")[-1]] = {"qid": x["g"].split("/")[-1], "label": x["gLabel"],
+                                           "article": x["article"], "sitelinks": int(x["sitelinks"]),
+                                           "country": x.get("country")}
+        print(f"types {i + 40}/{len(types)}: {len(rows)} items", flush=True)
+    keep = [r for r in rows.values()
+            if not re.match(r"^Q\d+$", r["label"]) and not _INSTITUTION.search(r["label"]) and not _DIASPORA.search(r["label"])]
+    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / "wikidata.json").write_text(json.dumps(sorted(keep, key=lambda r: -r["sitelinks"]), ensure_ascii=False, indent=0),
+                                       encoding="utf-8")
+    print(f"{len(rows)} items, {len(keep)} after the label filter, "
+          f"{sum(r['sitelinks'] >= MIN_SITELINKS for r in keep)} with {MIN_SITELINKS}+ sitelinks")
+
+
+def cmd_aliases() -> None:
+    """English alternative names for every item the BM found nothing for: the BM
+    search is exact and accent-sensitive ("Otomi" 0, "Otomí" 86; "Ashanti" 0,
+    "Asante" 2,785)."""
+    bm = _counts("bm")
+    zero = [k for k, d in bm.items() if not k.startswith("atlas:") and not any(d["hits"].values())]
+    got: dict[str, list[str]] = {}
+    for i in range(0, len(zero), 200):
+        vals = " ".join("wd:" + k for k in zero[i:i + 200])
+        for x in _sparql(f'SELECT ?g ?alt WHERE {{ VALUES ?g {{ {vals} }} ?g skos:altLabel ?alt FILTER(lang(?alt) = "en") }}'):
+            got.setdefault(x["g"].split("/")[-1], []).append(x["alt"])
+        print(f"  {min(i + 200, len(zero))}/{len(zero)}: {len(got)} with aliases", flush=True)
+    (OUT / "aliases.json").write_text(json.dumps(got, ensure_ascii=False, indent=0), encoding="utf-8")
+
+
+def _atlas_names() -> list[str]:
+    return sorted({json.loads(Path(f).read_text(encoding="utf-8"))["ethnicity"].split(" (")[0]
+                   for f in glob.glob(str(REPO / "data" / "ethnicities" / "*.json"))})
+
+
+def _names() -> list[tuple[str, str]]:
+    """(key, label) to count: Wikidata items with enough sitelinks, plus the atlas."""
+    wd = json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))
+    out = [(r["qid"], r["label"]) for r in wd if r["sitelinks"] >= MIN_SITELINKS]
+    return out + [("atlas:" + n, n) for n in _atlas_names()]
+
+
+def variants(label: str) -> list[str]:
+    """BM and Europeana name a people in the singular, without "people":
+    "Nagas" -> Naga, "Hopi people" -> Hopi, "Hungarians" -> Hungarian."""
+    l = re.sub(r"\s*\(.*\)$", "", label)
+    l = re.sub(r"\s+(people|peoples|tribe|tribes)$", "", l, flags=re.I).replace("ʼ", "'")
+    v = [l]
+    if l.endswith("s") and not l.endswith("ss") and len(l) > 4:
+        v.append(l[:-1])
+    return list(dict.fromkeys(v))
+
+
+def _done(src: str) -> set[str]:
+    p = OUT / f"counts_{src}.jsonl"
+    return {json.loads(l)["key"] for l in p.read_text(encoding="utf-8").splitlines() if l.strip()} if p.exists() else set()
+
+
+def cmd_bm(use_aliases: bool = False) -> None:
+    from folk_patterns.museums import british_museum as bm
+    c = bm._client()
+    done = _done("bm")
+
+    def count(name: str) -> int:
+        # first page only: 100 ids a page, so ">= 100" is all the threshold needs
+        r = c.get(bm.SEARCH_URL, params={"ethnic_name": name, "page": 0, "image": "true"})
+        if r.status_code != 200:   # a Cloudflare 403 page has no ids: never record it as 0
+            raise RuntimeError(f"BM answered {r.status_code}")
+        t = r.text
+        ids = set(bm._OBJECT_LINK_RE.findall(t))
+        more = re.search(r"page=[1-9]", t.replace("&amp;", "&"))
+        return 100 if more else len(ids)
+
+    def one_names(k: str, names: list[str]) -> dict:
+        hits = {}
+        for v in names:
+            hits[v] = count(v)
+            time.sleep(0.3)
+            if hits[v]:
+                break
+        return {"key": k, "label": names[0] if names else "", "hits": hits}
+
+    def one(kl: tuple[str, str]) -> dict:
+        k, l = kl
+        hits = {}
+        for v in variants(l):
+            hits[v] = count(v)
+            time.sleep(0.3)
+            if hits[v]:
+                break
+        return {"key": k, "label": l, "hits": hits}
+
+    from concurrent.futures import ThreadPoolExecutor
+    if use_aliases:   # second pass: only names the first found nothing for, tried under their aliases
+        al = json.loads((OUT / "aliases.json").read_text(encoding="utf-8"))
+        done = _done("bm_alias")
+        tried = {k: set(d["hits"]) for k, d in _counts("bm").items()}
+        todo = [(k, [a for a in dict.fromkeys(v for x in al[k] for v in variants(x)) if a not in tried.get(k, ())][:6])
+                for k in al if k not in done]
+        out_p, fn = OUT / "counts_bm_alias.jsonl", lambda kv: one_names(kv[0], kv[1])
+    else:
+        todo = [(k, l) for k, l in _names() if k not in done]
+        out_p, fn = OUT / "counts_bm.jsonl", one
+    print(f"bm: {len(todo)} names to count ({len(done)} cached)", flush=True)
+    with open(out_p, "a", encoding="utf-8") as f, ThreadPoolExecutor(3) as ex:
+        for i, d in enumerate(ex.map(fn, todo)):
+            if not d["hits"]:
+                d["hits"] = {"": 0}
+            f.write(json.dumps(d, ensure_ascii=False) + "\n")
+            f.flush()
+            if i % 50 == 0 or max(d["hits"].values()) >= 30:
+                print(f"  {i}/{len(todo)} {d['label']}: {d['hits']}", flush=True)
+
+
+# Ethnographic / folk-life providers. Europeana's text search matches any
+# record that mentions the name, so a count only means something at these.
+_EU_GOOD = ("world culture", "wereldculturen", "world cultures", "ethnograph", "etnograf", "néprajz", "neprajz",
+            "náprstek", "naprstek", "anthropolog", "weltmuseum", "rautenstrauch", "quai branly", "volkenkunde",
+            "tropenmuseum", "asia and pacific", "finnish heritage", "volkskunde", "národopis", "narodopis",
+            "etnolog", "ethnolog", "folk", "rahva", "etnografisk", "open air museum", "skansen", "mucem")
+
+
+def cmd_europeana() -> None:
+    from folk_patterns.museums.europeana import _get_key
+    key = _get_key()
+    done = _done("europeana")
+    todo = [(k, l) for k, l in _names() if k not in done]
+    print(f"europeana: {len(todo)} names to count ({len(done)} cached)", flush=True)
+    with httpx.Client(timeout=60) as cl, open(OUT / "counts_europeana.jsonl", "a", encoding="utf-8") as f:
+        for i, (k, l) in enumerate(todo):
+            hits, provs = {}, {}
+            for v in variants(l):
+                try:
+                    j = cl.get("https://api.europeana.eu/record/v2/search.json", params={
+                        "wskey": key, "query": f'"{v}"', "rows": 0, "media": "true", "reusability": "open,permission",
+                        "qf": "TYPE:IMAGE", "profile": "facets", "facet": "DATA_PROVIDER",
+                        "f.DATA_PROVIDER.facet.limit": 100}).json()
+                except (httpx.HTTPError, ValueError) as e:
+                    print(f"  ! {v}: {e}", flush=True)
+                    time.sleep(5)
+                    continue
+                fields = {x["name"]: x["fields"] for x in j.get("facets", [])}
+                good = {x["label"]: x["count"] for x in fields.get("DATA_PROVIDER", [])
+                        if any(g in x["label"].lower() for g in _EU_GOOD)}
+                hits[v] = sum(good.values())
+                provs[v] = sorted(good.items(), key=lambda x: -x[1])[:5]
+                time.sleep(0.2)
+                if hits[v]:
+                    break
+            f.write(json.dumps({"key": k, "label": l, "hits": hits, "providers": provs}, ensure_ascii=False) + "\n")
+            f.flush()
+            if i % 100 == 0:
+                print(f"  {i}/{len(todo)} {l}: {hits}", flush=True)
+
+
+def _counts(src: str) -> dict[str, dict]:
+    p = OUT / f"counts_{src}.jsonl"
+    if not p.exists():
+        return {}
+    return {d["key"]: d for d in (json.loads(l) for l in p.read_text(encoding="utf-8").splitlines() if l.strip())}
+
+
+def _bm_name(k: str) -> str | None:
+    """The spelling the BM answered to (first pass or alias pass)."""
+    for d in (_counts("bm").get(k), _counts("bm_alias").get(k)):
+        for v, n in ((d or {}).get("hits") or {}).items():
+            if n:
+                return v
+    return None
+
+
+def cmd_harvest(pages: int) -> None:
+    """Object names of every classified people from the BM list pages, up to
+    `pages` x 100 per people — enough to count its categories, no images.
+    -> data/world/bm_objects.jsonl (gitignored)."""
+    sys.path.insert(0, str(REPO / "scripts"))
+    from harvest_pool import _bm_teasers
+    from folk_patterns.museums.british_museum import _client, SEARCH_URL
+    from concurrent.futures import ThreadPoolExecutor
+    cls = json.loads((OUT / "classified.json").read_text(encoding="utf-8"))
+    out_p = OUT / "bm_objects.jsonl"
+    done = {json.loads(l)["key"] for l in out_p.read_text(encoding="utf-8").splitlines()} if out_p.exists() else set()
+    strong = {r["key"] for r in _rows() if r["bm"] >= 30}   # Europeana-only hits are mostly word collisions
+    todo = [(k, _bm_name(k)) for k, d in cls.items() if d.get("people") and k in strong and k not in done]
+    todo = [(k, n) for k, n in todo if n]
+    print(f"harvest: {len(todo)} peoples ({len(done)} cached)", flush=True)
+    c = _client()
+
+    def one(kn: tuple[str, str]) -> dict:
+        k, n = kn
+        objs = []
+        for page in range(pages):
+            r = c.get(SEARCH_URL, params={"ethnic_name": n, "image": "true", "page": page})
+            if r.status_code != 200:
+                raise RuntimeError(f"BM answered {r.status_code} for {n}")
+            ts = _bm_teasers(r.text)
+            objs += [{"id": t["id"], "name": t["title"], "date": t["meta"].get("Production date")} for t in ts]
+            time.sleep(0.3)
+            if len(ts) < 100:
+                break
+        return {"key": k, "bm_name": n, "objects": objs}
+
+    with open(out_p, "a", encoding="utf-8") as f, ThreadPoolExecutor(3) as ex:
+        for i, d in enumerate(ex.map(one, todo)):
+            f.write(json.dumps(d, ensure_ascii=False) + "\n")
+            f.flush()
+            if i % 25 == 0:
+                print(f"  {i}/{len(todo)} {d['bm_name']}: {len(d['objects'])}", flush=True)
+
+
+CLASSIFY_MODEL ="claude-haiku-4-5-20251001"
+CLASSIFY_PROMPT = """For each entry below (a Wikidata "ethnic group" item with the first lines of its
+English Wikipedia article), decide from the text:
+
+- people: true only if it is a living or historically recent people / ethnic group with its own
+  material culture (dress, crafts, objects). National peoples count (Germans, French, Hungarians
+  have folk art), and so do regional peoples inside them (Transylvanian Saxons, Catalans).
+  false for: a religion, church or institution; a caste or clan; a diaspora group; a people
+  extinct before 1700 (Aztec, Medes, Romans); an umbrella grouping of many peoples ("Bantu
+  peoples", "Slavs", "Melanesians", "Indigenous peoples of the Americas"); a racial or
+  mixed-descent category ("Negro", "Coloured", "Creole").
+- continent: one of Africa, Europe, Asia, Americas, Oceania.
+- region: a short sub-region, e.g. "West Africa", "Central Asia", "Andes", "Melanesia".
+- country: the main country of its homeland.
+
+Use only the text given. Reply with a JSON array only, one object per entry, same order:
+[{{"key": "...", "people": true, "continent": "...", "region": "...", "country": "..."}}]
+
+Entries:
+{entries}
+"""
+
+
+def _summary(cl: httpx.Client, article: str) -> str:
+    title = article.rsplit("/", 1)[-1]
+    for wait in (0, 5, 20):   # parallel fetches get 429s; an empty text makes Haiku answer "not a people"
+        time.sleep(wait)
+        try:
+            r = cl.get(f"https://en.wikipedia.org/api/rest_v1/page/summary/{title}")
+            if r.status_code == 200:
+                return (r.json().get("extract") or "")[:600]
+        except (httpx.HTTPError, ValueError):
+            pass
+    return ""
+
+
+def cmd_classify(threshold: int) -> None:
+    """Wikipedia summary + Haiku for every name that passes the threshold:
+    is it a people, and where. Cached in data/world/classified.json."""
+    import subprocess, tempfile
+    cache_p = OUT / "classified.json"
+    cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
+    wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
+    rows = [r for r in _rows() if max(r["bm"], r["europeana"]) >= threshold and r["key"] not in cache]
+    print(f"classify: {len(rows)} names ({len(cache)} cached)", flush=True)
+    with httpx.Client(timeout=30, headers=UA, follow_redirects=True) as cl:
+        sums = [_summary(cl, r["article"]) if r.get("article") else "" for r in rows]
+    print(f"  {sum(1 for x in sums if not x)} of {len(sums)} without article text", flush=True)
+    mcp = Path(tempfile.gettempdir()) / "empty_mcp.json"
+    mcp.write_text('{"mcpServers":{}}', encoding="utf-8")
+    raw = open(OUT / "classify_raw.jsonl", "a", encoding="utf-8")
+    for i in range(0, len(rows), 60):
+        batch = [(r, s) for r, s in zip(rows[i:i + 60], sums[i:i + 60])]
+        entries = "\n".join(f'- key: {r["key"]} | name: {r["label"]} | wikidata country: {r.get("country") or "-"} | '
+                            f'text: {s or "(no article text)"}' for r, s in batch)
+        res = subprocess.run([__import__("shutil").which("claude") or "claude", "--print", "--model", CLASSIFY_MODEL, "--output-format", "json", "--tools", "",
+                              "--mcp-config", str(mcp), "--strict-mcp-config"],
+                             input=CLASSIFY_PROMPT.format(entries=entries), capture_output=True, text=True,
+                             encoding="utf-8", timeout=600, env={**__import__("os").environ, "MAX_THINKING_TOKENS": "0"})
+        ev = json.loads(res.stdout)
+        raw.write(json.dumps({"batch": i, "cost_usd": ev.get("total_cost_usd"), "result": ev.get("result")},
+                             ensure_ascii=False) + "\n")
+        raw.flush()
+        m = re.search(r"\[.*\]", ev.get("result") or "", re.S)
+        got = json.loads(m.group(0)) if m else []
+        for d in got:
+            if d.get("key") in {r["key"] for r, _ in batch}:
+                cache[d["key"]] = d
+        cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
+        print(f"  batch {i}: {len(got)}/{len(batch)} classified, ${ev.get('total_cost_usd') or 0:.3f}", flush=True)
+
+
+def _rows() -> list[dict]:
+    wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
+    bm, bma, eu = _counts("bm"), _counts("bm_alias"), _counts("europeana")
+    atlas = set(_atlas_names())
+    rows = []
+    for k, l in _names():
+        b = max(list((bm.get(k) or {}).get("hits", {0: 0}).values()) + list((bma.get(k) or {}).get("hits", {0: 0}).values()))
+        e = max((eu.get(k) or {}).get("hits", {0: 0}).values() or [0])
+        w = wd.get(k, {})
+        rows.append({"key": k, "label": l, "country": w.get("country"), "sitelinks": w.get("sitelinks"),
+                     "article": w.get("article"), "bm": b, "europeana": e,
+                     "in_atlas": k.startswith("atlas:") or any(v in atlas for v in variants(l))})
+    return rows
+
+
+_CATS = ["textile", "garment", "jewelry", "ceramic", "metalwork", "arms", "masks-ritual", "sculpture",
+         "instruments", "household", "architectural", "painting-mss"]   # photo / unclassified do not count
+
+
+def _atlas_bm_names() -> set[str]:
+    """The BM spellings our own census resolved the atlas cultures to (Asante, Kuba, Herero...)."""
+    p = REPO / "data" / "bm_ethnic_census.json"
+    return {n for r in json.loads(p.read_text(encoding="utf-8")) for n, c in r["facet"].items() if c} if p.exists() else set()
+
+
+def cmd_report(threshold: int) -> None:
+    cls_p = OUT / "classified.json"
+    cls = json.loads(cls_p.read_text(encoding="utf-8")) if cls_p.exists() else {}
+    kinds_p = REPO / "data" / "pool" / "kinds.json"
+    kinds = json.loads(kinds_p.read_text(encoding="utf-8")) if kinds_p.exists() else {}
+    objs_p = OUT / "bm_objects.jsonl"
+    objs = {d["key"]: d for d in (json.loads(l) for l in objs_p.read_text(encoding="utf-8").splitlines())} if objs_p.exists() else {}
+    atlas_bm = _atlas_bm_names()
+    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and max(r["bm"], r["europeana"]) >= threshold]
+    for r in rows:
+        r.update({k: v for k, v in (cls.get(r["key"]) or {}).items() if k != "key"})
+        o = objs.get(r["key"])
+        r["bm_name"] = _bm_name(r["key"])
+        r["in_atlas"] = r["in_atlas"] or (r["bm_name"] in atlas_bm)
+        r["tier"] = "bm" if r["bm"] >= threshold else "europeana-only"
+        if o:
+            cnt: dict[str, int] = {}
+            for x in o["objects"]:
+                af = (kinds.get((x.get("name") or "").strip()[:120]) or {}).get("art_form", "unclassified")
+                cnt[af] = cnt.get(af, 0) + 1
+            r["sampled"] = len(o["objects"])
+            r["categories"] = dict(sorted(cnt.items(), key=lambda x: -x[1]))
+            r["breadth"] = sum(1 for c in _CATS if cnt.get(c, 0) >= 5)
+            r["photo_share"] = round(cnt.get("photo", 0) / max(1, len(o["objects"])), 2)
+    keep = [r for r in rows if r.get("people")]
+    # one row per BM name: "Arahuacos (Arawak)" and "Lokono" both resolve to BM "Arawak"
+    best: dict[str, dict] = {}
+    for r in keep:
+        if r["tier"] != "bm":
+            continue
+        b = best.get(r["bm_name"])
+        if b is None or (r.get("sitelinks") or 0) > (b.get("sitelinks") or 0):
+            best[r["bm_name"]] = r
+    for r in keep:
+        if r["tier"] == "bm" and best[r["bm_name"]] is not r:
+            best[r["bm_name"]].setdefault("also", []).append(r["label"])
+    keep = [r for r in keep if r["tier"] != "bm" or best[r["bm_name"]] is r]
+    keep.sort(key=lambda r: (r.get("continent") or "?", r["tier"] != "bm", -(r.get("breadth") or 0), -(r.get("sampled") or 0)))
+    (OUT / "peoples.json").write_text(json.dumps(keep, ensure_ascii=False, indent=0), encoding="utf-8")
+    _write_doc(keep, threshold)
+    by: dict[str, list] = {}
+    for r in keep:
+        by.setdefault(r.get("continent") or "?", []).append(r)
+    print(f"{len(rows)} names with {threshold}+ image objects in one source; {len(keep)} are peoples, "
+          f"{sum(r['tier'] == 'bm' for r in keep)} of them with {threshold}+ in the BM "
+          f"({sum(r['in_atlas'] for r in keep)} already in the atlas)")
+    for c, rs in sorted(by.items()):
+        strong = [r for r in rs if r["tier"] == "bm"]
+        print(f"  {c:9s} BM {len(strong):3d} (atlas {sum(r['in_atlas'] for r in strong):2d}, breadth>=6: "
+              f"{sum((r.get('breadth') or 0) >= 6 for r in strong):3d})   Europeana-only {len(rs) - len(strong)}")
+
+
+def _write_doc(keep: list[dict], threshold: int) -> None:
+    lines = ["# World peoples with museum evidence", "",
+             "Generated by `python scripts/world_peoples.py report` — do not edit by hand.", "",
+             f"A people is listed when the British Museum holds {threshold}+ image objects under its "
+             "\"Ethnic group\" name. **Breadth** is how many of the 12 object categories (photo and unclassified "
+             "excluded) have 5+ objects in a sample of up to 500 BM objects. Categories come from each object's "
+             "BM name via `normalize_kinds.py` (Haiku). **BM** is capped at 500 by the sample. **Eur.** counts "
+             "records at ethnographic providers in Europeana that mention the name. It is a text match, so it "
+             "is only a hint. Peoples only Europeana finds are listed separately, because most of those are "
+             "word collisions (\"Iron\" for Ossetians, \"Bali\", \"Dan\").", ""]
+    for cont in sorted({r.get("continent") or "?" for r in keep}):
+        rs = [r for r in keep if (r.get("continent") or "?") == cont and r["tier"] == "bm"]
+        lines += [f"## {cont} — {len(rs)}", "", "| people | country | region | in atlas | BM | breadth | photo | top categories | Eur. |",
+                  "|---|---|---|:-:|--:|--:|--:|---|--:|"]
+        for r in rs:
+            top = ", ".join(f"{k} {v}" for k, v in list((r.get("categories") or {}).items())[:4])
+            also = f" (also {', '.join(r['also'])})" if r.get("also") else ""
+            lines.append(f"| [{r['label']}]({r.get('article') or ''}){also} | {r.get('country') or ''} | {r.get('region') or ''} | "
+                         f"{'✓' if r['in_atlas'] else ''} | {r.get('sampled', r['bm'])} | {r.get('breadth', '')} | "
+                         f"{int(100 * (r.get('photo_share') or 0))}% | {top} | {r['europeana']} |")
+        lines.append("")
+    eo = [r for r in keep if r["tier"] != "bm"]
+    lines += [f"## Europeana only — {len(eo)}, to check", "",
+              ", ".join(f"{r['label']} ({r['europeana']})" for r in sorted(eo, key=lambda r: -r["europeana"])), ""]
+    (REPO / "docs" / "world-peoples.md").write_text("\n".join(lines), encoding="utf-8")
+
+
+if __name__ == "__main__":
+    sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "classify", "harvest", "report"])
+    ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
+    ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
+    ap.add_argument("--threshold", type=int, default=30)
+    a = ap.parse_args()
+    {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana,
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages)}.get(a.step, lambda: cmd_report(a.threshold))()

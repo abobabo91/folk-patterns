@@ -24,3 +24,7 @@ work/
 # Image-hash cache for duplicate detection (build_index.py)
 .cache/
 data/pool/
+
+# world_peoples.py: large or raw, regenerable
+data/world/bm_objects.jsonl
+data/world/classify_raw.jsonl

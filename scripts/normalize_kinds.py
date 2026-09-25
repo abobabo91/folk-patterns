@@ -6,13 +6,16 @@ all 114k pool rows.
 
     python scripts/normalize_kinds.py --sample 250    # one batch, printed, cached
     python scripts/normalize_kinds.py                 # every name not yet cached
+    python scripts/normalize_kinds.py --world         # names from world_peoples.py harvest
+    python scripts/normalize_kinds.py --compare       # current MODEL vs the cached answers
 
 Cache: data/pool/kinds.json {name: {"kind": ..., "art_form": ...}}.
 Raw replies: data/pool/kinds_raw.jsonl. `claude --print`, no tools, no MCP.
-Only the 250-name sample has run (claude-sonnet-5, $0.43, good output).
-claude-sonnet-5 ignores MAX_THINKING_TOKENS=0, which makes a full run ~$23
-(names used 2+ times: ~$8). Haiku + JSON is ~10x cheaper for the writeups;
-it is untested here.
+Model: claude-haiku-4-5-20251001, ~$0.04 per 250 names. Measured 2026-09-25 with
+--compare against claude-sonnet-5 on the same 250 names: 235 same art_form.
+The 15 differences are mostly borderline (bag: textile vs household, axe: tool vs
+arms), plus a few Haiku errors (rattle -> household). Sonnet cost $0.43 for that
+batch because it ignores MAX_THINKING_TOKENS=0.
 """
 from __future__ import annotations
 
@@ -35,7 +38,7 @@ from folk_patterns.util import DATA_DIR  # noqa: E402
 POOL = DATA_DIR / "pool"
 CACHE = POOL / "kinds.json"
 RAW = POOL / "kinds_raw.jsonl"
-MODEL = "claude-sonnet-5"
+MODEL = "claude-haiku-4-5-20251001"
 BATCH = 250
 ART_FORMS = ["textile", "garment", "jewelry", "ceramic", "metalwork", "arms", "masks-ritual", "sculpture",
              "instruments", "household", "architectural", "painting-mss", "photo", "unclassified"]
@@ -61,8 +64,15 @@ NAMES
 """
 
 
-def _names() -> collections.Counter:
+def _names(world: bool = False) -> collections.Counter:
     c = collections.Counter()
+    if world:   # object names from world_peoples.py harvest
+        for l in (DATA_DIR / "world" / "bm_objects.jsonl").read_text(encoding="utf-8").splitlines():
+            for o in json.loads(l)["objects"]:
+                n = (o.get("name") or "").strip()[:120]
+                if n:
+                    c[n] += 1
+        return c
     for l in (POOL / "assigned.jsonl").read_text(encoding="utf-8").splitlines():
         r = json.loads(l)
         if "held" in r["flags"]:
@@ -126,8 +136,28 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--sample", type=int, default=0)
     ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--world", action="store_true", help="names from data/world/bm_objects.jsonl")
+    ap.add_argument("--compare", action="store_true", help="re-run the cached names, print agreement; cache untouched")
     a = ap.parse_args()
-    names = _names()
+    if a.compare:
+        cache = _cache()
+        old = dict(cache)
+        pick = list(old)[:BATCH]
+        text, ev = _claude(PROMPT.format(forms=", ".join(ART_FORMS), names="\n".join(f"{i}. {n}" for i, n in enumerate(pick))))
+        new = {}
+        for line in text.splitlines():
+            try:
+                row = json.loads(line.strip().strip(","))
+                new[pick[int(row["i"])]] = row
+            except (json.JSONDecodeError, KeyError, ValueError, IndexError):
+                pass
+        same = [n for n in pick if n in new and new[n].get("art_form") == old[n]["art_form"]]
+        print(f"{MODEL}: parsed {len(new)}/{len(pick)}, art_form agrees on {len(same)}, ${ev.get('total_cost_usd') or 0:.3f}")
+        for n in pick:
+            if n in new and new[n].get("art_form") != old[n]["art_form"]:
+                print(f"  {n[:50]:50s} cached {old[n]['kind']}/{old[n]['art_form']:14s} now {new[n].get('kind')}/{new[n].get('art_form')}")
+        sys.exit()
+    names = _names(a.world)
     cache = _cache()
     todo = [n for n, _ in names.most_common() if n not in cache]
     print(f"{len(names)} distinct names, {len(todo)} not cached")
