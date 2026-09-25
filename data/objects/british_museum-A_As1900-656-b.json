@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1900-656-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1900-656-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1900-656-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1900.656.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This is a wooden sword sheath (mandau scabbard) with intricate beadwork, goat hair tassels, and a boar-tusk charm — a classic Dayak (Borneo) craft form, consistent with the claimed culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
+  },
+  "physical": {
+    "title": "sword-sheath",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sword-sheath",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sword-sheath made of wood, hair (goat), beads with beadwork charm with boars tusks attached with human hair.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/metalwork/dayak/images/bm_A_As1900-656-b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8b1f80ea986548d02313427c8f0b2e199f4e0ee66e00b79a092548489b119fe8",
+      "bytes": 62178,
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\metalwork\\dayak\\images\\bm_A_As1900-656-b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:43:24.299620+00:00"
+}

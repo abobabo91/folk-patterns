@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1908-Ty-154",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1908-Ty-154",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-Ty-154",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1908.Ty.154",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Kuba",
+    "tradition": "Kuba",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The object is a wooden ceremonial knife with a carved hand handle, a form associated with Kuba and neighboring Congolese groups; it is plausible for the claimed culture, though it is carved wood rather than metal despite the \"metalwork\" category label.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
+  },
+  "physical": {
+    "title": "knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Ceremonial knife carved in wood, with a hand as the handle and a lizard.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/metalwork/kuba/images/bm_E_Af1908-Ty-154.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b810bf8432f2d45d8630d1245fed6749fff5328622d831bb19299870b9c16a2a",
+      "bytes": 25211,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\metalwork\\kuba\\images\\bm_E_Af1908-Ty-154.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:41:45.290806+00:00"
+}

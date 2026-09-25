@@ -15,6 +15,7 @@ Collections but also renders as plain markdown anywhere.
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 
 MODEL = "claude-opus-5"
@@ -247,3 +248,132 @@ def generate_writeup(country: str, ethnicity: str, region: str, seed_traditions:
     else:
         prompt = make_prompt(country, ethnicity, region, seed_traditions)
     return run_claude(prompt)
+
+
+RESTRUCTURE_MODEL = "claude-haiku-4-5-20251001"
+
+# Headings a restructured writeup must keep: EthnicityPanel.tsx hangs the
+# object galleries under them.
+RESTRUCTURE_HEADINGS = ["## At a glance", "## Overview", "## Material culture", "### Textile & pattern traditions",
+    "### Clothing & dress", "### Architecture", "### Ceramics, metalwork & everyday objects",
+    "### Jewelry & body adornment", "## Music & performance", "## Dance & theatre", "## Festivals & rituals",
+    "## Foodways", "## Oral tradition & literature", "## Language & religion", "## Glossary",
+    "## Sources & further reading"]
+
+
+def missing_headings(md: str) -> list[str]:
+    lines = {l.strip() for l in md.splitlines()}
+    return [h for h in RESTRUCTURE_HEADINGS if h not in lines]
+
+SECTIONS = ["Textile & pattern traditions", "Clothing & dress", "Architecture",
+            "Ceramics, metalwork & everyday objects", "Jewelry & body adornment", "Music & performance",
+            "Dance & theatre", "Festivals & rituals", "Foodways", "Oral tradition & literature",
+            "Language & religion"]
+_MATERIAL = SECTIONS[:5]
+
+RESTRUCTURE_PROMPT = """Below is an ethnographic profile of the {ethnicity} ({country}) written for a
+folk-culture atlas. Extract its content into the JSON shape below, for a
+general reader: plain words, short sentences, no academic phrasing.
+
+Rules:
+- Use ONLY facts in the profile. Add nothing. Dropping detail is fine.
+- "lead": one sentence, the most important thing about that section.
+- "items": the up-to-5 MOST DISTINCTIVE named things of that section, each
+  {{"name": plain English name, "term": the vernacular term or "", "text": one sentence}}.
+  Give items whenever the profile names things for the section.
+- Put each item where it belongs: an object under its object section; a
+  practice (game, hunt, rite) under Festivals & rituals or Music & performance.
+- "glossary": the 15-25 most important vernacular terms that you used as a
+  "term" above, each {{"term": ..., "meaning": a few words}}.
+- "sources": the profile's source list lines, copied unchanged.
+
+Return only this JSON, nothing else:
+{{"glance": {{"who": "...", "where": "...", "how_many": "...", "language": "...", "religion": "...",
+             "known_for": ["3-5 signature things"]}},
+ "overview": "3-4 sentences",
+ "material_lead": "one sentence about the material culture as a whole",
+ "sections": {{{section_keys}}},
+ "glossary": [...],
+ "sources": ["..."]}}
+
+PROFILE
+{markdown}
+"""
+
+
+def _render_restructured(front: str, d: dict) -> str:
+    """Markdown from the extracted JSON. The format lives here, not in the
+    prompt: every heading always present, at most 5 items per section, a
+    glossary of at most 25 terms that the text actually uses."""
+    g = d.get("glance") or {}
+    out = [front.strip(), "", "## At a glance", "| | |", "|---|---|"]
+    for label, key in (("Who", "who"), ("Where", "where"), ("How many", "how_many"), ("Language", "language"),
+                       ("Religion", "religion")):
+        out.append(f"| {label} | {(g.get(key) or 'not stated').strip()} |")
+    out.append(f"| Known for | {' · '.join((g.get('known_for') or [])[:5])} |")
+    out += ["", "## Overview", "", (d.get("overview") or "").strip(), "", "## Material culture", "",
+            (d.get("material_lead") or "").strip()]
+    used = set()
+    for sec in SECTIONS:
+        body = (d.get("sections") or {}).get(sec) or {}
+        out += ["", ("### " if sec in _MATERIAL else "## ") + sec, "", (body.get("lead") or "Little is recorded.").strip()]
+        items = [it for it in (body.get("items") or []) if (it.get("name") or "").strip()][:5]
+        if items:
+            out.append("")
+        for it in items:
+            term = (it.get("term") or "").strip()
+            name = it["name"].strip()
+            if term and name.lower().startswith(term.lower()):
+                # "Aṣọ òkè (cloth of the top country)" + term "aṣọ òkè": keep the gloss as the name
+                gloss = re.search(r"\((.+)\)\s*$", name)
+                name = gloss.group(1).strip().capitalize() if gloss else name
+                if name.lower() == term.lower():
+                    term = ""
+            if term:
+                used.add(term.lower())
+            out.append(f"- **{name}**" + (f" (*{term}*)" if term else "") + f" — {(it.get('text') or '').strip()}")
+    text = "\n".join(out).lower()
+    gl = [x for x in (d.get("glossary") or []) if (x.get("term") or "").strip() and x["term"].strip().lower() in text][:25]
+    out += ["", "## Glossary", ""] + [f"- *{x['term'].strip()}* — {(x.get('meaning') or '').strip()}" for x in gl]
+    out += ["", "## Sources & further reading", ""] + [
+        (l if l.lstrip().startswith("-") else f"- {l}") for l in (d.get("sources") or [])]
+    return "\n".join(out) + "\n"
+
+
+def restructure_writeup(markdown: str, ethnicity: str, country: str, timeout: int = 900,
+                        model: str = RESTRUCTURE_MODEL, thinking: bool = False,
+                        effort: str | None = None) -> tuple[str, dict]:
+    """Rewrite an existing writeup into the fixed short format, using only its
+    own facts: the model extracts JSON, _render_restructured writes the
+    markdown. Returns (markdown or "" on a bad reply, claude json event)."""
+    import os
+    import re
+    import shutil
+    import tempfile
+    from pathlib import Path
+    d = Path(tempfile.mkdtemp(prefix="restructure-"))
+    (d / "empty_mcp.json").write_text('{"mcpServers":{}}', encoding="utf-8")
+    cmd = [shutil.which("claude") or "claude", "--print", "--no-session-persistence", "--setting-sources", "local",
+           "--model", model, "--output-format", "json", "--tools", "",
+           "--strict-mcp-config", "--mcp-config", str(d / "empty_mcp.json")]
+    if effort:
+        cmd += ["--effort", effort]
+    env = dict(os.environ)
+    if not thinking:
+        env["MAX_THINKING_TOKENS"] = "0"      # a rewrite, not a reasoning task
+    keys = ", ".join(f'"{k}": {{"lead": "...", "items": [...]}}' for k in SECTIONS)
+    prompt = RESTRUCTURE_PROMPT.format(
+        ethnicity=ethnicity, country=country, markdown=markdown, section_keys=keys)
+    res = subprocess.run(cmd, input=prompt, capture_output=True, text=True, encoding="utf-8",
+                         timeout=timeout, cwd=d, env=env)
+    ev = json.loads(res.stdout)
+    reply = ev.get("result") or ""
+    m = re.search(r"\{.*\}", reply, re.S)
+    try:
+        data = json.loads(m.group(0)) if m else None
+    except json.JSONDecodeError:
+        data = None
+    if not data:
+        return "", ev
+    front = re.match(r"---.*?---", markdown, re.S)
+    return _render_restructured(front.group(0) if front else "", data), ev

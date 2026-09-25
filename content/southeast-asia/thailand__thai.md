@@ -5,69 +5,156 @@ region: "Southeast Asia"
 tags: [ethnography, southeast-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Thai people, a Tai-speaking group from the Chao Phraya river basin |
+| Where | Thailand |
+| How many | 51–57 million |
+| Language | Central Thai, a tonal language with five tones |
+| Religion | Over 90% Theravada Buddhist, with animist and Brahmanical elements |
+| Known for | Thai silk weaving and mudmee ikat textiles · Classical masked dance-drama (Khon) and shadow puppetry · Ornate temple architecture with tiered roofs and spirit houses · Tom yum kung and balanced five-flavor cuisine · Temporary male monkhood as a life-cycle rite |
+
 ## Overview
 
-The Thai (endonym *chao thai*, historically Siamese or *Tai Noi*) are a Tai-speaking people native to the Chao Phraya river basin and the peninsular south of present-day Thailand, with a total population of roughly 51–57 million within the country. They speak Central Thai, a Southwestern branch of the Kra-Dai family, and — through 20th-century Thaification policies under King Vajiravudh and Field Marshal Plaek Phibunsongkhram — have absorbed the Northern (Lanna), Northeastern (Isan) and Southern Thai populations, plus substantial Sino-Thai communities, into a shared cultural umbrella. Overwhelmingly Theravada Buddhist, they inherit a hybrid inheritance from earlier Mon Dvaravati polities, the Hindu-Khmer statecraft of Angkor, and the Ayutthaya and Sukhothai kingdoms. In folk-culture terms the Thai are a textbook case of an Indianized Southeast Asian court tradition welded to a village animist substrate.
+The Thai are a Tai-speaking people native to Thailand who speak Central Thai and practice Theravada Buddhism mixed with animist spirit beliefs. Through 20th-century policies they absorbed neighboring Northern, Northeastern, and Southern Thai populations into a shared culture. Their traditions blend Indianized court practices from the Sukhothai and Ayutthaya kingdoms with a village animist base. They are known for intricate textiles, classical performing arts, elaborate temple architecture, and cuisine built on balanced flavors of salt, sour, sweet, spicy and bitter.
 
 ## Material culture
 
+Thai material culture blends court luxury with village craft, from silk brocades and painted porcelain to everyday sticky-rice baskets and spirit-house offerings.
+
 ### Textile & pattern traditions
 
-**Thai silk** — Handwoven silk (*mai thai*) from the domesticated *Bombyx mori*, historically produced in the Khorat plateau and revived internationally in the 1950s by Jim Thompson's workshops; distinguished from Chinese silk by the coarser, uneven double-cocoon "hand" and the use of natural gum finishes.
+Thai textiles are built on silk and cotton weaving techniques like ikat and brocade, with regional variations and a rich vocabulary of symbolic motifs.
 
-**Mudmee** (*mat mi*) — A weft-*ikat* technique in which silk or cotton yarn is bound and dyed before weaving, producing blurred lozenge, hook and elephant motifs. The Isan and Central Thai variants tend to darker indigo and maroon palettes than the neighbouring Cambodian *hol*.
-
-**Phasin** (*phaa sin*) — The tubular wrap-skirt of Northern Thai and Isan women; a three-part composite of waistband (*hua sin*), body (*tua sin*) and hem border (*tin sin*), often assembled from cloths woven in different techniques.
-
-**Sinh** — The Lao-Isan cognate of *phasin*, distinguished by a heavy supplementary-weft hem panel; still central to Isan wedding and temple dress.
-
-**Yok dok** — A supplementary-weft brocade technique using metallic gold or silver thread on silk, historically restricted to the Ayutthaya and Bangkok courts; the name means "raised flower."
-
-**Khit** — A discontinuous supplementary-weft technique from the northeast, worked in cotton on cotton, producing dense geometric bands used for pillow ends (*mon khit*), altar cloths and shoulder cloths.
-
-**Phraphum** — Cloths and cushion covers whose motifs echo the *san phra phum* spirit-house iconography, used as offerings and altar drapery.
-
-**Motif vocabulary.** *nak* (naga serpent), *chang* (elephant), *hongsa* (hamsa/goose), *dok kaew* (crystal flower), *dok phikun* (Mimusops flower), *kanok* (flame-like tendril), *kranok phuang* (pendant flame cluster), *lai thai* (the umbrella term for classical curvilinear Thai ornament), *rachawat* (diamond lattice), *prajam yam* (four-petalled rosette).
+- **Thai silk** (*mai thai*) — Handwoven silk from domesticated silkworms, produced on the Khorat plateau and revived internationally in the 1950s by Jim Thompson, distinguished by its coarser hand and natural gum finishes.
+- **Mudmee** (*mat mi*) — A weft-ikat technique using bound and dyed yarn before weaving to produce blurred lozenge, hook and elephant motifs in indigo and maroon tones.
+- **Phasin** (*phaa sin*) — A three-part tubular wrap-skirt worn by Northern Thai and Isan women, made of waistband, body and hem border often assembled from different weaving techniques.
+- **Yok dok brocade** — A supplementary-weft technique using metallic gold or silver thread on silk, historically restricted to Ayutthaya and Bangkok courts, whose name means 'raised flower.'
+- **Khit** — A Northeastern cotton-on-cotton technique producing dense geometric bands used for pillow ends, altar cloths and shoulder cloths.
 
 ### Clothing & dress
 
-Everyday village dress until the mid-20th century pairing a wrapped lower garment with a simple shoulder cloth. Men wore the *chong kraben*, a length of cloth pulled between the legs and tucked at the back, with a plain cotton shirt; women wore the *phasin* with a breast cloth (*sabai*) draped diagonally over one shoulder. The *sabai* remains formal wear and is required for royal audiences and temple ceremonies. Court and wedding dress adds the *sabai* in *yok dok* brocade, a stiff embroidered blouse (*suea pat*) and gold anklets. Rama V's westernising reforms introduced tailored jackets for officials, and in 1960 Queen Sirikit codified eight national dress ensembles (*chut thai phra ratcha niyom*), including the *chut thai chakkri* and *chut thai boromphiman*, still worn at state functions. Southern Thai Muslims wear the *baju melayu* and *sarong* in patterns shared with the Malay peninsula. Farmers wear the wide conical *ngob* palm-leaf hat in the rice fields.
+Everyday dress pairs wrapped lower garments with shoulder cloths, while royal and formal occasions call for brocade sabai, embroidered blouses and gold ornaments.
+
+- **Chong kraben** — A men's everyday garment of cloth pulled between the legs and tucked at the back, worn with a plain cotton shirt.
+- **Sabai** — A diagonal shoulder cloth required for temple ceremonies and royal audiences, worn in plain cotton for everyday dress and rich yok dok brocade for formal occasions.
+- **Suea pat** — A stiff embroidered blouse worn for court and wedding dress alongside brocade sabai and gold anklets.
+- **Chut thai phra ratcha niyom** — Eight national dress ensembles including chut thai chakkri and chut thai boromphiman, codified by Queen Sirikit in 1960 and worn at state functions.
+- **Ngob** — A wide conical palm-leaf hat worn by farmers in rice fields.
 
 ### Architecture
 
-The classical Central Thai house (*ruean thai*) is a raised timber structure on hardwood posts, with steeply pitched gables terminating in carved finials (*ngao* or *cho fa*, the "sky tassel") and prefabricated wall panels tilted slightly inward. The ground level is open, used for storage, weaving looms and rice-pounding; the upper floor is reached by a removable ladder and organised around a central open verandah (*chan*) that separates sleeping quarters from the kitchen. Northern Lanna houses share the raised form but use heavier teak and add the distinctive **kalae**, a pair of crossed carved gable-boards. Religious architecture is centred on the walled temple compound (*wat*), whose principal buildings include the *ubosot* (ordination hall), the *viharn* (assembly hall) and the bell-shaped or lotus-bud *chedi* (stupa), the latter a Sukhothai signature. Roofs are tiled in orange, green and red glazed ceramic, layered in overlapping tiers with gilded barge-boards. Nearly every house and business shelters a *san phra phum* spirit house on a pillar in the compound corner, receiving daily offerings of rice, flowers and red Fanta.
+Central Thai houses are raised timber structures with steeply pitched gables and open ground levels, while temples center on walled compounds with ordination halls, assembly halls and bell-shaped stupas.
+
+- **Ruean thai** — A raised timber house on hardwood posts with steeply pitched gables ending in carved finials, an open ground level for storage and weaving, and an upper central verandah separating sleeping quarters from the kitchen.
+- **Kalae** — A pair of crossed carved gable-boards distinctive to Northern Lanna houses built in heavy teak.
+- **Wat** — A walled temple compound centered on an ordination hall, assembly hall and bell-shaped lotus-bud stupa with tiered orange, green and red glazed ceramic roofs.
+- **Chedi** — A bell-shaped or lotus-bud stupa with layered tiled roofs and gilded barge-boards, a Sukhothai architectural signature.
+- **San phra phum** — A spirit house sheltered in nearly every house and business, receiving daily offerings of rice, flowers and red soft drinks.
 
 ### Ceramics, metalwork & everyday objects
 
-The Sukhothai and Si Satchanalai kilns of the 14th–16th centuries produced **Sangkhalok** ware — celadon-glazed stonewares and underglaze iron-brown painted dishes with fish, chrysanthemum and floral roundels — traded as far as the Philippines and Japan. **Benjarong** ("five colours") is an overglaze polychrome enamelled porcelain commissioned in China to Thai designs from the Ayutthaya period on, later manufactured domestically; its tightly compartmented *thepphanom* (praying deity) and *norasingh* medallions are a court signature. Bronze offering bowls, betel-nut sets (*chian mak*), lacquered manuscript cabinets with gold-leaf *lai rot nam* (washed-gold) narrative panels, and mother-of-pearl inlaid door leaves round out the temple-donor repertoire. Village households retain sticky-rice steaming baskets (*huat*) and lidded rattan serving containers (*krataep*).
+Thai ceramicware ranges from historic Sukhothai celadons to polychrome court porcelain, while everyday objects include bronze bowls, lacquered cabinets and rattan containers.
+
+- **Sangkhalok** — Celadon-glazed stonewares and underglaze iron-brown painted dishes from 14th–16th century Sukhothai and Si Satchanalai kilns, traded as far as the Philippines and Japan.
+- **Benjarong** — Overglaze polychrome enamelled porcelain commissioned in China and later manufactured domestically, with tightly compartmented praying deity and norasingh medallions as court signatures.
+- **Chian mak** — Bronze betel-nut sets used in temple-donor repertoires.
+- **Huat** — A sticky-rice steaming basket made of bamboo and rattan, an essential village household item.
+- **Krataep** — A lidded rattan serving container for everyday household use.
 
 ### Jewelry & body adornment
 
-Gold is worked by weight, not design, and 96.5% pure gold chains and pendants function as portable savings as much as ornament. Ceremonial ornament includes the tiered *mongkut* crown worn by Khon dancers and grooms, engraved gold belts (*khem khat*), amuletic gold and pearl fingernail extensions (*lep*) for classical dance, and ankle bells. Southern Thai men still commission *sak yant* — protective yantra tattoos of Pali-Khmer *khom* script and Hindu-Buddhist iconography (the *hah taew* five-line yantra, the *paed tidt* eight-direction yantra, tigers and Hanuman) — inked at temples such as Wat Bang Phra by monk-tattooists using a metal *khem sak* rod. Amulets (*phra khruang*) of clay, metal or herbal paste, worn in gold cases around the neck, are Thailand's most numerically important body ornament, with a serious collector market.
+Gold is worked by weight and function as portable savings, while ceremonial ornaments and protective amulets form the richest body-adornment tradition.
+
+- **Mongkut** — A tiered crown worn by Khon dancers and grooms.
+- **Sak yant** — Protective yantra tattoos of Pali-Khmer script and Hindu-Buddhist iconography including the hah taew five-line yantra, paed tidt eight-direction yantra, tigers and Hanuman, inked by monk-tattooists using a metal rod.
+- **Phra khruang** — Amulets of clay, metal or herbal paste worn in gold cases around the neck, Thailand's most numerically important body ornament with a serious collector market.
+- **Lep** — Amuletic gold and pearl fingernail extensions worn for classical dance.
+- **Khem khat** — Engraved gold belts worn as ceremonial ornament.
 
 ## Music & performance
 
-The two classical ensembles are *piphat*, a percussion-and-oboe ensemble built around the *pi nai* quadruple-reed shawm, the *ranat ek* and *ranat thum* xylophones, the circular *khong wong yai* gong-chime and the *taphon* barrel drum, played for Khon and ritual; and *mahori*, a mixed ensemble that adds the bowed *saw sam sai* three-string spike fiddle and the *chakhe* crocodile-shaped floor zither and was historically the female court ensemble. String ensembles (*khruang sai*) use the *saw duang* and *saw u* fiddles with the *khim* hammered dulcimer, borrowed from Chinese immigrants. Tuning is a seven-tone equidistant system that does not match Western semitones, and pieces are organised in suites (*phleng thao*) with three tempo levels. Folk genres include Isan *mor lam* narrative singing accompanied by the *khaen* free-reed mouth organ, Central Thai *phleng choi* and *phleng ruea* boat-song call-and-response, and Southern *nora* singing. The 20th-century popular genres *luk thung* (country) and *luk krung* (city) both grew out of these folk roots grafted onto Western band instrumentation.
+Two classical ensembles—piphat with oboe and xylophones for ritual and masked dance, and mahori with stringed instruments for court—anchor Thai music alongside regional folk genres.
+
+- **Piphat** — A percussion-and-oboe ensemble built around the pi nai quadruple-reed shawm, ranat ek and ranat thum xylophones and khong wong yai gong-chime, played for Khon and ritual.
+- **Mahori** — A mixed ensemble adding bowed saw sam sai three-string spike fiddle and chakhe crocodile-shaped floor zither to the piphat core, historically the female court ensemble.
+- **Khaen** — A free-reed mouth organ used to accompany Isan mor lam narrative singing.
+- **Mor lam** — Isan folk narrative singing accompanied by the khaen.
+- **Luk thung and luk krung** — 20th-century popular genres of country and city music grown from folk roots grafted onto Western band instrumentation.
 
 ## Dance & theatre
 
-**Khon** (UNESCO 2018) is a masked dance-drama enacting episodes of the *Ramakien*, performed originally by all-male troupes with a *piphat* ensemble and offstage narrator-singers; the demon and monkey roles wear elaborate papier-mâché masks while the human roles wear only crowns. **Lakhon** covers the unmasked court dance-dramas, subdivided into *lakhon nai* (inner-court, female performers), *lakhon nok* (outer, comic, male) and *lakhon chatri* (ritual). **Nang yai** is large-figure shadow puppetry with hide panels almost two metres tall, manipulated in silhouette against a lit screen while dancers move behind the puppets; **nang talung** is its smaller Southern cousin with articulated figures. **Menora** (*nora*, UNESCO 2021) is the Southern Thai dance-drama with distinctive long-nailed hand gestures, a beaded bodice, a swan-tail costume and a genealogical ritual function tying performers to ancestral teachers. **Likay** is the popular folk opera of the Central Plains — improvised, glittering, comic, and until the arrival of television the dominant temple-fair entertainment.
+Classical masked Khon dance-drama and unmasked Lakhon court dances share the stage with shadow puppetry and the Southern Menora dance with ritual genealogical function.
+
+- **Khon** — A masked dance-drama enacting episodes of the Ramakien, performed originally by all-male troupes with demon and monkey roles in elaborate papier-mâché masks and human roles in crowns only.
+- **Lakhon** — Unmasked court dance-dramas subdivided into lakhon nai (inner-court, female performers), lakhon nok (outer, comic, male) and lakhon chatri (ritual).
+- **Nang yai** — Large-figure shadow puppetry with hide panels almost two metres tall manipulated in silhouette against a lit screen while dancers move behind the puppets.
+- **Nang talung** — The smaller Southern cousin of nang yai shadow puppetry with articulated figures.
+- **Menora** (*nora*) — Southern Thai dance-drama with distinctive long-nailed hand gestures, beaded bodice, swan-tail costume and genealogical ritual function tying performers to ancestral teachers.
 
 ## Festivals & rituals
 
-The Thai year runs on a lunisolar calendar overlaid on the Gregorian. **Songkran** (13–15 April) is the solar new year, marked by water-pouring on Buddha images, respectful sprinkling of elders' hands, and the mass public water fights that now define it internationally. **Loi Krathong**, on the full moon of the twelfth lunar month (November), floats banana-leaf offerings on rivers and canals to the water spirits and ask forgiveness of Phra Mae Khongkha; in the north it coincides with **Yi Peng**, the Lanna sky-lantern release. **Visakha Bucha**, **Makha Bucha** and **Asalha Bucha** are the three great Buddha days, marked by candlelit circumambulation (*wian tian*) of the *ubosot*. The three-month rains retreat begins at *Khao Phansa* and ends at *Ok Phansa*, followed by *Thot Kathin* robe-offering processions. Life-cycle rites are dominated by two: the male ordination (*buat nak*), a temporary novice monkhood expected of every young man as merit for his mother, preceded by a shaving and procession dressed as Prince Vessantara; and the funeral, in which the body is kept at home or the temple for chanting nights before cremation, with bone fragments later interred in the *chedi* wall. Weddings pair a morning Buddhist chanting session and *rot nam sang* water-pouring on the joined hands of the couple with the payment of *sin sot* bride price.
+A lunisolar calendar anchors major festivals like Songkran water festival and Loi Krathong river offerings, while Buddhist holy days and life-cycle rites center on temples and merit-making.
+
+- **Songkran** — The solar new year (13–15 April) marked by water-pouring on Buddha images, respectful sprinkling of elders' hands, and mass public water fights.
+- **Loi Krathong** — Held on the full moon of the twelfth lunar month (November), it floats banana-leaf offerings on rivers and canals to water spirits.
+- **Yi Peng** — A Lanna sky-lantern release festival coinciding with Loi Krathong in the north.
+- **Buat nak** — Temporary male novice monkhood expected of every young man as merit for his mother, preceded by shaving and procession dressed as Prince Vessantara.
+- **Thot Kathin** — Robe-offering processions following the three-month Buddhist rains retreat.
 
 ## Foodways
 
-Long-grain jasmine rice (*khao hom mali*) is the Central and Southern staple; glutinous *khao niao*, steamed in a bamboo *huat* and eaten by hand, is the staple of the North and Isan. The taste architecture aims at simultaneous salt, sour, sweet, spicy and bitter, achieved through fish sauce (*nam pla*), lime, palm sugar, bird's-eye chilli (*prik khi nu*) and fermented shrimp paste (*kapi*). Signature dishes include **tom yum kung** (UNESCO 2024), the sour-hot prawn soup thickened with lemongrass, galangal, kaffir lime leaf and *nam prik pao* chilli paste; **tom kha kai**, its coconut-milk cousin; **som tam**, the Isan green-papaya salad pounded in a clay mortar; **laap**, minced-meat salad with toasted rice powder; **massaman** curry, a Muslim-Thai peanut and cinnamon curry acknowledged as Persian-derived; **khao soi**, the Northern coconut-curry egg noodle carrying Yunnanese Muslim heritage; and **kaeng khiao wan**, green curry. Sweets (*khanom*) rely on coconut milk, palm sugar, mung-bean flour and duck egg yolks — the yolk-based *thong yip*, *thong yot* and *foi thong* are 17th-century Portuguese-Ayutthayan borrowings via Maria Guyomar de Pinha. Everyday drinks are cold pandan water and *cha yen* (iced tea with condensed milk); temple monks accept only the morning alms-bowl meal and refuse solid food after noon.
+Thai cuisine balances salt, sour, sweet, spicy and bitter through fish sauce, lime, palm sugar and chilies, built on jasmine or glutinous rice and featuring regional signature dishes.
+
+- **Tom yum kung** — A sour-hot prawn soup thickened with lemongrass, galangal, kaffir lime leaf and nam prik pao chilli paste.
+- **Som tam** — An Isan green-papaya salad pounded in a clay mortar.
+- **Khao soi** — A Northern coconut-curry egg noodle dish carrying Yunnanese Muslim heritage.
+- **Massaman curry** — A Muslim-Thai peanut and cinnamon curry acknowledged as Persian-derived.
+- **Cha yen** — Iced tea with condensed milk, an everyday drink.
 
 ## Oral tradition & literature
 
-The central literary work is the **Ramakien**, the Thai recension of the Ramayana codified under Rama I in 1797, distinguished from the Indian original by its sympathetic treatment of the demon king Thotsakan and by its Ayutthayan-Bangkok geography. The Ayutthaya-era **Lilit Phra Lo** and the epic **Khun Chang Khun Phaen**, a versified love triangle drawn from Suphanburi folk tradition and canonised in Sunthorn Phu's era, are the great vernacular poems; Sunthorn Phu himself (1786–1855) produced the sea-voyage epic **Phra Aphai Mani**. Folktales such as the trickster cycle of **Sri Thanonchai**, the ghost story of **Mae Nak Phra Khanong**, and the Vessantara Jataka (recited during the Northeastern **Bun Phra Wet** festival) circulate orally and in temple mural form. The 1482 **Mahachat Kham Luang** is the earliest surviving vernacular Vessantara sermon. Proverb collections (*suphasit*) and the didactic **Suphasit Phra Ruang** are memorised in school.
+The Ramakien Thai recension of the Ramayana and epic poems like Khun Chang Khun Phaen anchor a literary tradition of folktales, ghost stories and proverbs passed down orally and in temple murals.
+
+- **Ramakien** — The Thai recension of the Ramayana codified under Rama I in 1797, distinguished by sympathetic treatment of demon king Thotsakan and Ayutthayan-Bangkok geography.
+- **Khun Chang Khun Phaen** — An epic versified love triangle drawn from Suphanburi folk tradition and canonised in Sunthorn Phu's era.
+- **Phra Aphai Mani** — A sea-voyage epic produced by Sunthorn Phu (1786–1855).
+- **Mae Nak Phra Khanong** — A famous ghost story that circulates orally and in temple mural form.
+- **Sri Thanonchai** — A trickster cycle that circulates in folk tradition and temple murals.
 
 ## Language & religion
 
-Central Thai is a tonal (five tones) analytic language of the Southwestern Tai branch of Kra-Dai, written in the Thai script devised under King Ramkhamhaeng of Sukhothai in 1283 from a Khmer-derived Pallava alphabet, with an alphasyllabic structure and 44 consonants. Regional lects — Northern Thai (Kam Mueang, once written in the Tai Tham script), Isan (mutually intelligible with Lao) and Southern Thai — coexist with the standard. Religion is over 90% Theravada Buddhist, reformed on Sri Lankan lines under Mongkut's 19th-century Thammayut movement, but interpenetrated with Brahmanical court ritual (the royal ploughing ceremony, *phram* Brahmin priests at coronations), Chinese Mahayana temples in urban Sino-Thai neighbourhoods, and a living animist substrate of *phi* spirit belief manifested in spirit houses, the *khwan* soul-calling ceremony and the *sak yant* tattoo tradition.
+Central Thai is a five-tone analytic language written in the Thai script from 1283, while Theravada Buddhism reformed on Sri Lankan lines interpenetrates with Brahmanical court ritual and animist spirit beliefs.
+
+- **Central Thai** — A five-tone analytic language of the Southwestern Tai branch, written in the Thai script devised by King Ramkhamhaeng of Sukhothai in 1283 with 44 consonants.
+- **Kam Mueang** — Northern Thai, once written in the Tai Tham script, coexisting with Central Thai as a regional lect.
+- **Isan** — A regional lect mutually intelligible with Lao, coexisting with Central Thai.
+- **Thammayut movement** — A 19th-century Sri Lankan reform of Thai Theravada Buddhism under King Mongkut.
+- **Khwan** — A soul-calling ceremony in the animist substrate interpenetrating Thai Buddhism.
+
+## Glossary
+
+- *mai thai* — handwoven Thai silk
+- *mat mi* — weft-ikat weaving technique producing blurred motifs
+- *phaa sin* — tubular wrap-skirt worn by women
+- *sabai* — diagonal shoulder cloth worn for formal dress and temple ceremonies
+- *wat* — Buddhist temple compound
+- *chedi* — bell-shaped or lotus-bud stupa in temple architecture
+- *san phra phum* — spirit house for daily offerings in compounds
+- *piphat* — classical percussion-and-oboe ensemble for ritual and masked dance
+- *mahori* — classical mixed ensemble with stringed instruments, historically female court ensemble
+- *khon* — masked dance-drama enacting Ramakien episodes
+- *nora* — Southern Thai dance-drama with ritual genealogical function
+- *songkran* — solar new year festival marked by water-pouring and public water fights
+- *loi krathong* — festival of floating banana-leaf offerings on water to spirits
+- *buat nak* — temporary male novice monkhood as life-cycle merit-making
+- *huat* — sticky-rice steaming basket
+- *krataep* — lidded rattan serving container
+- *sak yant* — protective yantra tattoo of Pali-Khmer script and iconography
+- *phra khruang* — amulet worn in gold case as body ornament
+- *phi* — spirit in the animist belief substrate
+- *khwan* — soul-calling ceremony
 
 ## Sources & further reading
 
@@ -80,10 +167,11 @@ Central Thai is a tonal (five tones) analytic language of the Southwestern Tai b
 - Rutnin, Mattani Mojdara. *Dance, Drama, and Theatre in Thailand: The Process of Development and Modernization*. Silkworm Books, 1996.
 - Wikipedia: [Thai people](https://en.wikipedia.org/wiki/Thai_people)
 - UNESCO Intangible Cultural Heritage, Thailand: [https://ich.unesco.org/en/state/thailand-th](https://ich.unesco.org/en/state/thailand-th)
-  - RL/01385 *Khon, masked dance drama in Thailand* — [https://ich.unesco.org/en/RL/01385](https://ich.unesco.org/en/RL/01385)
-  - RL/01587 *Nora, dance drama in southern Thailand* — [https://ich.unesco.org/en/RL/01587](https://ich.unesco.org/en/RL/01587)
-  - RL/01879 *Tom Yum Kung* — [https://ich.unesco.org/en/RL/01879](https://ich.unesco.org/en/RL/01879)
-  - RL/01384 *Nuad Thai, traditional Thai massage* — [https://ich.unesco.org/en/RL/01384](https://ich.unesco.org/en/RL/01384)
+- RL/01385 *Khon, masked dance drama in Thailand* — [https://ich.unesco.org/en/RL/01385](https://ich.unesco.org/en/RL/01385)
+- RL/01587 *Nora, dance drama in southern Thailand* — [https://ich.unesco.org/en/RL/01587](https://ich.unesco.org/en/RL/01587)
+- RL/01879 *Tom Yum Kung* — [https://ich.unesco.org/en/RL/01879](https://ich.unesco.org/en/RL/01879)
+- RL/01384 *Nuad Thai, traditional Thai massage* — [https://ich.unesco.org/en/RL/01384](https://ich.unesco.org/en/RL/01384)
 - Smithsonian Folkways, Thailand catalogue: [https://folkways.si.edu/search?query=Thailand](https://folkways.si.edu/search?query=Thailand)
 - Victoria and Albert Museum, Thai collections: [https://www.vam.ac.uk/collections/thailand](https://www.vam.ac.uk/collections/thailand)
 - The Jim Thompson House Museum, Bangkok: [https://www.jimthompsonhouse.org](https://www.jimthompsonhouse.org)
+

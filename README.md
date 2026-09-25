@@ -41,6 +41,10 @@ scripts/vet_images.py                  # THE QUALITY GATE — shows every image 
   ▼
 scripts/generate_writeups.py           # Claude CLI drafts per-ethnicity markdown
   │
+scripts/restructure_writeups.py        # Haiku rewrites it into the short fixed
+  │                                    # format (at a glance, ≤5 bullets per
+  │                                    # section, glossary); audited against the
+  │                                    # original, kept as <name>.long.md
   ▼
 content/<region>/<country>__<ethnicity>.md
   │
@@ -82,6 +86,8 @@ python scripts/vet_images.py --target library
 
 # 4. draft writeups (Claude CLI must be installed and signed in)
 python scripts/generate_writeups.py central_asia
+python scripts/restructure_writeups.py --only Yoruba --preview   # -> work/writeup-preview/
+python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
 
 # 5. images to R2, then the site index shards
 python scripts/upload_to_r2.py --commit -j 8

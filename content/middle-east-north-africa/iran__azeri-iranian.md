@@ -5,79 +5,152 @@ region: "Middle East North Africa"
 tags: [ethnography, middle-east-north-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Iranian Azeris, a Turkic-speaking people of northwestern Iran |
+| Where | Iranian Azerbaijan (East Azerbaijan, West Azerbaijan, Ardabil, Zanjan provinces) and major cities like Tabriz, Tehran |
+| How many | 15-20 million, Iran's largest ethnic minority |
+| Language | South Azerbaijani, an Oghuz Turkic language written in Perso-Arabic script |
+| Religion | Overwhelmingly Twelver Shi'a Islam since the sixteenth century |
+| Known for | Tabriz carpets and other celebrated weaving traditions · Ashiq bardic poetry and performance with the sāz lute · Distinctive regional cuisine with ash soups and kebabs · Kelaghayi silk headscarves and fine metalwork · Yallī circle dances and Nowruz celebrations |
+
 ## Overview
 
-The Iranian Azeris (*Āzarbāyjānī*, self-designation *Türk* in vernacular speech) are an Oghuz Turkic-speaking people of northwestern Iran, forming by most estimates the country's largest ethnic minority at somewhere between 15 and 20 million, with some communities claiming higher figures. Their heartland is Iranian Azerbaijan — the provinces of East Azerbaijan (*Āzarbāyjān-e Sharqī*), West Azerbaijan (*Āzarbāyjān-e Gharbī*), Ardabil, and Zanjan — anchored on the historic capital of Tabriz and stretching from the shores of Lake Urmia across the volcanic massif of Sahand and Sabalan to the Aras river frontier with the Republic of Azerbaijan. Significant Azeri populations also fill Qazvin, Hamadan, and the Tehran metropolis, where by some counts a quarter or more of the capital's residents are of Azeri descent. Their language, South Azerbaijani, is mutually intelligible with the northern variety spoken across the Aras but is written by convention in the Perso-Arabic script and saturated with Persian and Arabic lexicon. Culturally the Iranian Azeris sit at a hinge: Turkic in speech and much of their pastoral inheritance from the Oghuz and later Qara Qoyunlu, Aq Qoyunlu and Safavid confederations, but Persianate in courtly refinement, Shi'a Twelver in religion since the Safavid conversion of the sixteenth century, and long integrated as the mercantile and military spine of the Iranian state. In folk-culture terms they matter most as heirs of the Tabriz carpet workshops, the *Shahsavan* pastoral weavers of flatweaves and *sumakh*, the silk *kelaghayi* headscarves of the Aras basin, and the *ashiq* bardic tradition inscribed by UNESCO.
+The Iranian Azeris are the largest ethnic minority in Iran, inhabiting the northwestern mountainous region centered on Tabriz. Though Turkic in language and pastoral heritage from medieval confederations, they are deeply Persianate in culture, Shi'a in religion since the Safavid era, and long integrated into Iran's merchant and military classes. Their folk culture is celebrated internationally, particularly their carpet weaving, ashiq bardic tradition, and UNESCO-inscribed practices like mugham music and Nowruz observance.
 
 ## Material culture
 
+Iranian Azeri material culture blends Turkic weaving and metalworking traditions with Persianate refinement, centered on carpets, textiles, and chased metalwork of renowned technical skill.
+
 ### Textile & pattern traditions
 
-**Tabriz carpet** — the pile carpet of the East Azerbaijan capital, historically the most technically ambitious of Iranian weaving centres, worked on the Turkish (symmetric) knot in fine wool on cotton foundation, sometimes with silk highlights or a full silk pile. Tabriz workshops are known for the *māhī* ("fish"; also *herātī*) all-over field, medallion-and-corner compositions descended from Safavid book-illumination, pictorial hunting and garden carpets, and the *golfarangī* ("European flower") sprays of the Qajar period.
+Iranian Azeris are heirs to some of Iran's most celebrated carpet and flatweave traditions, from the fine knotted carpets of Tabriz to the woven sumakh and kilim of nomadic Shahsavan weavers.
 
-**Heriz carpet** — the coarser, more architecturally drawn village pile carpet from the district east of Tabriz, on cotton foundation with a bold rectilinear central medallion, oxidised madder-red ground, and indigo corners; the finest grades from Serapi villages command their own trade name.
-
-**Karabagh carpet** — a related tradition of the Aras basin bleeding across the modern border, on wool foundation with saturated palette and floral or *chelaberd* ("eagle *kazak*") medallions; UNESCO inscribed the wider Azerbaijani carpet-weaving art in 2010, and the Iranian side of the tradition draws on the same design vocabulary.
-
-**Verni** — a distinctive weft-wrapped flatweave of the Shahsavan and Moghan steppe, ornamented with stylised birds, S-forms and stepped animal silhouettes on an ivory or brick ground, made without pattern cartoons by women weavers from memory.
-
-**Kilim** — the plain tapestry-woven flatweave in slit-tapestry technique, produced across the region for floor covers, storage bags and tent bands, with characteristic serrated diamond fields.
-
-**Sumakh** (also spelled *soumak*) — a supplementary-weft wrapping technique producing a dense herringbone face; the Shahsavan bag-faces (*mafrash* end panels and *khorjin* saddle-bags) are the most sought-after Iranian *sumakh* work, with protective *göl* medallions and hooked crosses.
-
-**Jajim** — a warp-faced striped flatweave, narrow-loom woven and stitched into panels, used for bedding covers and wraps in Ardabil and Zanjan households.
-
-**Shahsavan textiles** — the semi-nomadic *Shāhsavan* ("those loyal to the shah") confederation of the Moghan and Sabalan pastures produced a full material repertoire of *mafrash* (rectangular bedding chests woven in *sumakh*), *khorjin* (double saddle-bags), salt-bags (*namakdān*) with narrow protective necks, and tent bands (*qolān*); their weavings are among the most collected of Iranian tribal textiles.
-
-**Azerbaijani silk** and **kelaghayi** — mulberry silk raised historically in the Aras valley is woven and block-printed into the *kelāghāyī*, a square woman's headscarf with resist-dyed *boteh* and floral rosette borders on ivory, saffron or wine grounds. The making and wearing of the *kelaghayi* is inscribed on the UNESCO Representative List (2014) under the Republic of Azerbaijan file but is equally at home on the Iranian side of the Aras.
-
-**Azeri embroidery** — most commonly worked in *tekelduz* (couched cord), *pilaki* (spangle) and cross-stitch on cotton and silk grounds for cushions, bridal wraps and prayer covers, with pomegranate, cypress and *boteh* motifs.
-
-**Motif vocabulary.** *Boteh* (paisley, curled cypress), *gol* (rose or medallion), *māhī dar ham* (fish-in-pond), *herātī* (rosette-and-leaf lattice), *toranj* (central citron medallion), *lachak* (corner spandrel), *sarv* (cypress, mourning and eternity), *anār* (pomegranate), *tāvūs* (peacock), *qoç buynuzu* (ram's horn, protective virility), *aynalı* (mirrored).
+- **Tabriz carpet** (*Tabriz*) — Fine pile carpets on cotton foundation with symmetric knots, known for fish (herātī) patterns, medallion compositions from Safavid design, hunting scenes, and European flower sprays.
+- **Heriz carpet** (*Heriz*) — A bolder village carpet from east of Tabriz with rectilinear central medallions, oxidised madder-red grounds, and indigo corners.
+- **Sumakh** — A supplementary-weft wrapping technique producing dense herringbone surfaces; Shahsavan bag-faces with protective medallions are the most sought-after Iranian work.
+- **Kelaghayi** (*kelāghāyī*) — A square silk woman's headscarf with resist-dyed paisley and floral rosette borders on ivory, saffron, or wine grounds, made from Aras valley mulberry silk.
+- **Shahsavan textiles** (*Shāhsavan*) — Semi-nomadic confederation producing sumakh-woven bedding chests, double saddle-bags, salt-bags with protective necks, and tent bands—among the most collected Iranian tribal textiles.
 
 ### Clothing & dress
 
-Everyday urban dress among Iranian Azeris has, for most of the twentieth century, tracked broader Iranian norms — the Pahlavi-era suit and, since 1979, the state-mandated *hejāb* code for women. Older and rural forms survive at weddings, *ashiq* performances and festivals. Men's traditional dress in the Ardabil and Sabalan highlands is a collarless shirt (*köynek*), wide dark trousers, a sleeveless waistcoat (*jelizqe*), a heavy belted felt or wool overcoat, and, for shepherds and *ashiq* bards, a tall lambskin cap (*papāq* or *börk*). Women's festival dress commonly combines a full gathered skirt (*tuman*) worn in layers, a fitted long-sleeved velvet or silk bodice (*arxaliq*) closed at the waist, a chemise of fine white cotton, and a silk *kelaghayi* headscarf pinned under the chin, sometimes with an embroidered forehead band. The *chādor* in plain black or in printed floral cotton (*chādor gol-dār*) is the standard outer wrap for older women in Tabriz and Ardabil bazaars. Bridal dress in some communities preserves a heavily embroidered red velvet coat and silver-mounted belt (*kemer*).
+Traditional Azeri dress survives at weddings and festivals, blending fitted velvet bodices with layered skirts, silk headscarves, and embroidered elements, while everyday urban wear follows broader Iranian norms.
+
+- **Arxaliq** — A fitted long-sleeved velvet or silk bodice worn as part of women's festival dress, closed at the waist over a full gathered skirt.
+- **Papāq** — A tall lambskin cap worn by shepherds and ashiq bards in the Ardabil and Sabalan highlands.
+- **Tuman** — A full gathered skirt worn in layers as the foundation of women's festival dress.
+- **Jelizqe** — A sleeveless waistcoat worn over a collarless shirt as part of men's traditional highland dress.
 
 ### Architecture
 
-The traditional Tabrizi and Ardabili urban house is built of fired brick and timber around a walled interior courtyard (*hayāt*) with a central pool (*howz*) and pomegranate or quince trees, presenting almost no window to the lane. The reception room (*orsi-khāneh*) is fronted with tall sash windows glazed in coloured geometric *orsi* lattices that flood the room with red and blue light. Winters at Tabriz's altitude are severe, and houses commonly feature a *korsi* — a low table set over a brazier and quilted over — as the winter social centre. Vaulted brick roofing, wind-catchers of modest scale, and deep basements (*zir-zamin*) for summer refuge are shared with wider Iranian practice. Monumental architecture in Iranian Azerbaijan includes the fourteenth-century Blue Mosque (*Masjed-e Kabūd*) of Tabriz, once faced in celebrated cobalt haft-rang and cuerda-seca tile; the Il-Khanid *Arg* citadel; and the UNESCO-inscribed Sheikh Safi al-Din *khāneqāh* and shrine ensemble at Ardabil (2010), a Safavid pilgrimage complex of domed halls, muqarnas portals, and porcelain-lined chini-khāneh niches. The rural Shahsavan on transhumance still raise the *alāchıq*, a domed felt tent related to the Turkic yurt but with a low silhouette adapted to the Moghan winds; permanent winter villages are of stone and adobe.
+Traditional urban houses center on a walled courtyard with pool and trees, while monuments include the tilework of the Blue Mosque and the UNESCO Safavid shrine complex at Ardabil.
+
+- **Tabrizi courtyard house** (*hayāt*) — A brick and timber house built around a walled interior courtyard with central pool and fruit trees, with reception rooms fronted in colored geometric lattice windows.
+- **Blue Mosque** (*Masjed-e Kabūd*) — A fourteenth-century Tabriz monument once faced in celebrated cobalt haft-rang and cuerda-seca tile.
+- **Sheikh Safi shrine complex** (*khāneqāh*) — A UNESCO-inscribed Safavid pilgrimage complex at Ardabil featuring domed halls, muqarnas portals, and porcelain-lined niches.
+- **Alāchıq** — A domed felt tent raised by Shahsavan on transhumance, a low-silhouette variant of the Turkic yurt adapted to Moghan winds.
 
 ### Ceramics, metalwork & everyday objects
 
-Iranian Azerbaijan is not a first-rank glazed-pottery region on the scale of Kashan or Meybod, but coarse slip-painted earthenware for *māst* (yoghurt) jars, water pitchers and cooking pots is made in villages around Ahar and Kaleybar. The metropolitan strength lies in metalwork: **Tabriz metalwork** — hand-chased and engraved copper trays (*sīnī*), samovars, ewers (*āftābe*), rice-cooking pots (*deg*) and the tinned copper cookware of the bazaar's *mesgar* quarter — is a living craft, and Tabriz-trained silversmiths supply much of the country. **Azeri silversmithing** covers filigree (*mo'arraq*) belt plaques, niello-inlaid daggers, and chased trays; Zanjan, at the southern edge of the Azeri-speaking zone, is Iran's premier centre of filigree silver *malīleh-kārī* and is nationally famous for its *charoq* leather footwear as well. **Khatam** — micromosaic marquetry of camel bone, brass wire, and coloured woods assembled into hexagonal star bundles, drawn thin and sliced into veneers — is worked in Tabriz and Isfahan for boxes, Quran stands (*rahl*), backgammon boards, and picture frames. Household objects of note include the samovar (*samāvar*) around which Azeri sociability is organised, the *armūdī* pear-shaped tea glass, hand-hammered copper *sīnī* trays for serving, carved walnut *sandūq* dowry chests, and the wooden cradle (*beshik*).
+Tabriz is a living center for hand-chased copper trays and tinned metalwork, while filigree silver work and khatam marquetry produce fine objects for bazaars and homes.
+
+- **Tabriz metalwork** (*mesgar*) — Hand-chased and engraved copper trays, samovars, ewers, rice-cooking pots, and tinned cookware crafted by Tabriz metalworkers and silversmiths.
+- **Khatam** — Micromosaic marquetry of camel bone, brass wire, and colored woods assembled into hexagonal stars, sliced into veneers for boxes and Quran stands.
+- **Samovar** (*samāvar*) — A central vessel around which Azeri sociability is organized, used for brewing black tea served in pear-shaped glasses.
+- **Armūdī glass** (*armūdī*) — A pear-shaped tea glass used for serving black tea with sugar cubes held between the teeth.
+- **Sandūq** — A carved walnut dowry chest for storing household goods and bridal items.
 
 ### Jewelry & body adornment
 
-Azeri jewellery in Iran favours high-carat gold in urban Tabriz and Ardabil bazaars — heavy chain necklaces, gold coin (*sekke*) bridal sets, and filigree bracelets — while rural and Shahsavan traditions retained silver longer, set with turquoise (*fīrūze*) from Neyshabur and carnelian (*aqīq*). Characteristic older forms include the *sīne-rīz*, a fringed breast-ornament of linked silver plaques and coins hanging from a neckband; forehead pieces and temple pendants (*zolf-band*); triangular amulet cases (*hamāyel*) holding a folded prayer against the evil eye; and heavy belt buckles (*kemer*) worked in repoussé silver. Wedding preparation includes a henna night (*hana yakhdı*) at which the bride's palms are patterned. Long braided hair for unmarried women, and the covering of hair after marriage, remain conventional markers in observant households.
+Urban Azeri jewelry favors high-carat gold, while rural and nomadic traditions retain silver set with turquoise and carnelian, often in protective amulet forms.
+
+- **Sīne-rīz** — A fringed breast-ornament of linked silver plaques and coins hanging from a neckband, worn by women.
+- **Hamāyel** — Triangular amulet cases holding a folded prayer against the evil eye, worn as pendant jewelry.
+- **Gold coin set** (*sekke*) — Gold coins assembled into bridal jewelry sets, a standard component of wedding preparation in urban Tabriz and Ardabil.
+- **Henna night** (*hana yakhdı*) — A pre-wedding gathering at which the bride's palms are patterned with henna in preparation for marriage.
 
 ## Music & performance
 
-The signature Azeri musical tradition is the *ashiq* (*āşıq*) bardic art — inscribed on the UNESCO Representative List in 2009 under the Azerbaijani file and continuously practised on the Iranian side, particularly in Tabriz, Ardabil, Urmia, and among the Qara-Dagh and Sulduz communities. The *ashiq* is a wandering poet-singer who accompanies himself on the long-necked lute *sāz* (also *qopuz*), performing an inherited repertoire of *dāstān* narrative cycles — most famously *Koroghlu*, *Aşıq Qərib*, and *Əsli və Kərəm* — in a declamatory, ornamented vocal style, and improvising *deyişme* verse-duels against rival bards. Alongside the *ashiq* stands the classical *mugham* tradition, a modal suite art related to Persian *radif* and Central Asian *maqam* but with its own melodic types (*Rast*, *Şur*, *Segah*, *Chahargah*), also on the UNESCO list; in Iran *mugham* is performed on *tār* (long-necked lute), *kamānche* (spike fiddle), and *daf* frame drum, with a solo singer holding a small frame drum (*qaval*) as pulse-keeper. Folk instruments include the double-reed shawm *balaban* (*mey*), the end-blown flute *ney*, the shawm *zurna* paired with the drum *nagara* for outdoor wedding processions, and the accordion (*qarmon*), adopted in the twentieth century and now standard at village celebrations.
+The ashiq bardic tradition of wandering poet-singers performing narrative cycles on the sāz lute is the signature Azeri art form, inscribed on UNESCO's Representative List alongside the classical mugham modal suite.
+
+- **Ashiq** (*āşıq*) — A wandering poet-singer accompanying himself on the long-necked sāz lute, performing inherited narrative cycles like Koroghlu and improvising verse-duels against rival bards.
+- **Dāstān** — An inherited narrative romance cycle performed by ashiq bards in declamatory, ornamented vocal style over multiple nights.
+- **Mugham** — A classical modal suite tradition related to Persian radif, performed on tār lute, kamānche spike fiddle, and daf frame drum with solo voice and pulse-keeping frame drum.
+- **Sāz** — A long-necked lute played by ashiq bards to accompany narrative singing and improvised verse-duels.
+- **Zurna** — A shawm paired with the drum nagara for outdoor wedding processions and celebrations.
 
 ## Dance & theatre
 
-Azeri folk dance in Iran is centred on the *yallı*, a chain or circle line-dance held hand-to-hand or by little fingers, led by a *başçı* who directs steps and tempo, performed at weddings and *Nowruz* gatherings across the Ardabil and Urmia highlands; the wider *yalli* tradition of Nakhchivan is on the UNESCO Urgent Safeguarding list (2018) and its Iranian cognates share the same vocabulary. Solo women's dances in fitted arxaliq and long skirt emphasise arm carriage, wrist-turns, and a smooth gliding step; men's solo dance is more percussive, with shoulder-shakes and knee-drops. Improvised comic-satirical theatre in the *mīrzā* and *kosa* traditions — masked New Year mummery in which a "beardless one" (*kosa*) and a bearded old man enact the death and return of winter — survives in rural pockets. Passion play (*ta'ziye*) commemorating the martyrdom of Imam Husayn at Karbala is performed in Azeri as well as Persian in Ardabil and Tabriz during Muharram.
+The yallī chain line-dance is the central folk dance, performed at weddings and Nowruz gatherings, while comic theatrical traditions and passion plays survive in rural areas.
+
+- **Yallī** — A chain or circle line-dance held hand-to-hand or by little fingers, led by a başçı director, performed at weddings and Nowruz across the highlands.
+- **Kosa** — A beardless masked figure in New Year mummery enacting winter's death and return alongside a bearded old man character.
+- **Ta'ziye** — Passion play commemorating Imam Husayn's martyrdom at Karbala, performed in Azeri as well as Persian during Muharram.
 
 ## Festivals & rituals
 
-*Nowruz*, the vernal equinox New Year, is the central festival, celebrated with the *haft-sīn* table of seven symbolic items beginning with the letter *sīn*, and preceded on the last Tuesday eve of the old year by *Chāhārshanbe Sūrī*, the fire-jumping night. The Iranian Azeri calendar overlays several distinctively local Nowruz customs: *Novruz bayramı* is preceded by four "Tuesdays" (*chərşənbələr*) dedicated in turn to water, fire, wind, and earth, each marked with specific foods and rites, and Nowruz itself is inscribed on the UNESCO Representative List as a multi-national element (2009, extended 2016). The Shi'a religious calendar structures the year alongside it: *Muharram* processions with breast-beating (*sīne-zani*) and chained flagellants, *Arba'īn* pilgrimage, *Ramadan* fasting broken with the *iftār* meal, and *Eid al-Fitr* and *Eid al-Adha* are all observed with distinctively Azeri foodways. Weddings run over several days with a *nişan* engagement, henna night, bride's transfer with the *jahāz* dowry, and the *toy* feast itself. Life-cycle rites include the fortieth-day (*chille*) confinement of a newborn and the mother, and elaborate mourning gatherings on the third, seventh, and fortieth days after death.
+Nowruz, the spring equinox, is the central festival with distinctively local Azeri customs, while the Shi'a Islamic calendar structures observance of Muharram processions, Ramadan fasting, and holiday celebrations.
+
+- **Nowruz** (*Novruz*) — The vernal equinox New Year celebrated with the seven-item table (haft-sīn), preceded by fire-jumping (Chāhārshanbe Sūrī) and four symbolic Tuesdays for water, fire, wind, and earth.
+- **Chille** — A forty-day confinement period for a newborn and mother following birth, observed as a life-cycle ritual.
+- **Haft-sīn** — A table of seven symbolic items beginning with the letter sīn, set out for Nowruz celebration.
+- **Toy** — The wedding feast marking the culmination of multi-day wedding celebrations that begin with engagement and henna night.
+- **Sīne-zani** — Breast-beating mourning processions during Muharram, accompanied by chained flagellants and organized passion plays.
 
 ## Foodways
 
-Iranian Azeri cuisine is one of the strongest regional cuisines of the country, sharing much with the Persian core but leaning distinctly toward Turkic and Caucasian forms. The signature dish is *āsh* — thick soups of grain, pulse, herbs, and yoghurt or *kashk* (fermented whey) — of which *āsh-e dūgh* (with strained yoghurt), *āsh-e reshte* (with hand-cut noodles), and Tabriz's *āsh-e ābghūshtī* are best known. *Ābgūsht* itself, the meat-and-chickpea stew pounded at table into *gūsht-kūbīde* and eaten with flatbread, is a Tabriz mainstay. Grilled meats include *kabāb-e Tabrīzī* of minced lamb over saj bread, and *jujeh-kabāb* of saffron-marinated chicken. *Dolma* — stuffed vine leaves, quinces, aubergines, and peppers filled with rice, meat, and yellow split peas — is central; the tradition of *yarpaq dolması* is on the UNESCO Representative List (2017) under the Azerbaijani file. Sweets include *bāqlavā* of the Tabriz school, *qottāb* fried pastries, *sohān-e ʿasalī* honey-sesame brittle from Tabriz, and *nuqul* almond confits for engagements. The samovar-brewed black tea in the pear-shaped *armūdī* glass, taken with sugar cubes held between the teeth (*qənd*), is the universal social solvent.
+Iranian Azeri cuisine is one of Iran's strongest regional traditions, centered on thick ash soups, meat stews, grilled kebabs, and dolma, with black tea served in distinctive pear-shaped glasses as the social center.
+
+- **Āsh** — Thick soups of grain, pulse, herbs, and yoghurt or fermented whey, with varieties like āsh-e dūgh and āsh-e reshte widely eaten.
+- **Ābgūsht** — A meat-and-chickpea stew pounded at table into gūsht-kūbīde and eaten with flatbread, a Tabriz staple.
+- **Dolma** — Stuffed vine leaves, quinces, aubergines, and peppers filled with rice, meat, and yellow split peas, a central dish tradition inscribed on UNESCO list.
+- **Kabāb-e Tabrīzī** — Minced lamb kebab grilled over saj bread, a signature Tabriz grilled meat preparation.
+- **Sohān-e ʿasalī** — A honey-sesame brittle confection from Tabriz, served as a sweet treat and gift.
 
 ## Oral tradition & literature
 
-The oral spine of Iranian Azeri culture is the *ashiq* repertoire of *dāstān* romances, sung in a hemistich verse of *bayātī* quatrains and *qoshma* strophes, preserving pre-Islamic epic memory alongside Sufi lyric. Written Azeri literature begins in the fourteenth to fifteenth centuries with the mystical *dīvāns* of Nasimi and, in the sixteenth, with Shah Ismail I ("Khatai"), the Safavid founder who wrote his Turkic *dīvān* in the Tabriz dialect. Muhammad Fuzuli of Baghdad (d. 1556), whose *Leylī va Majnūn* is the canonical Azeri verse romance, is claimed by Iranian and Republic Azeris alike. In the modern era the satirist Mirzə Ələkbər Sabir (d. 1911) and the poet Mohammad-Hossein Shahriar (d. 1988) — whose *Heydar Baba'ya salam* is arguably the most widely memorised Azeri poem on either side of the Aras — anchor the twentieth-century canon. Proverb (*atalar sözü*) and riddle traditions are dense, and lullabies (*layla*) form a distinct maternal repertoire.
+The ashiq dāstān narrative repertoire preserves pre-Islamic epic and Sufi lyric, while written Azeri literature begins in the fourteenth century with mystical poetry and includes twentieth-century canonical figures like Shahriar.
+
+- **Dāstān** — Narrative romance cycles like Koroghlu and Aşıq Qərib sung in hemistich bayātī quatrains and qoshma strophes, the oral spine of Azeri culture.
+- **Nasimi's dīvān** (*dīvān*) — Fourteenth-century mystical poetry marking the beginning of written Azeri literature.
+- **Shah Ismail's Khatai** (*dīvān*) — The sixteenth-century Safavid founder's Turkic poetry collection in the Tabriz dialect, representing early courtly Azeri verse.
+- **Heydar Baba'ya salam** — A twentieth-century poem by Mohammad-Hossein Shahriar widely memorized among Azeris on both sides of the Aras river.
 
 ## Language & religion
 
-South Azerbaijani (*Türkī* in vernacular usage, *Āzarbāyjānī* in official Iranian Persian) is an Oghuz Turkic language of the same branch as Turkish and Turkmen, mutually intelligible with the northern variety of the Republic of Azerbaijan but with heavier Persian lexical borrowing and, in Iran, no standardised orthography — it is written by convention in a modified Perso-Arabic script when written at all, since the language has no official status in Iranian schools and is not the medium of instruction. Estimates of the speaker population range widely, most commonly cited at 15–20 million within Iran. Religiously the Iranian Azeris are overwhelmingly Twelver Shi'a, converted under the Safavids (whose own dynastic origins were in the Ardabil Sufi order, and who spoke Azeri Turkic at court); the shrine of Sheikh Safi al-Din at Ardabil remains a pilgrimage focus. Small Sunni, Sufi (particularly of the Naqshbandi and Khalwati orders in border districts), and Ahl-e Haqq minorities exist, and until the mid-twentieth century Iranian Azerbaijan hosted significant Armenian, Assyrian, and Jewish communities in Urmia, Tabriz, and Salmas whose material culture is closely interwoven with the Azeri majority's.
+South Azerbaijani is an Oghuz Turkic language with heavy Persian borrowing, written in Perso-Arabic script without standardization; the Iranian Azeris are overwhelmingly Twelver Shi'a, converted under the Safavids.
+
+- **South Azerbaijani** (*Türkī*) — An Oghuz Turkic language mutually intelligible with northern Azerbaijani but with heavier Persian lexical borrowing and no standardized orthography in Iran.
+- **Twelver Shi'a** — The dominant Islamic faith since Safavid conversion in the sixteenth century, centered on pilgrimage to the shrine of Sheikh Safi al-Din at Ardabil.
+- **Sheikh Safi order** (*khāneqāh*) — The Ardabil Sufi order from which the Safavids emerged, whose shrine remains a pilgrimage focus for Iranian Azeris.
+
+## Glossary
+
+- *āşıq* — Wandering poet-singer performing narrative cycles on the sāz lute
+- *dāstān* — Narrative romance cycle sung in verse, such as Koroghlu
+- *mugham* — Classical modal suite tradition for voice and traditional instruments
+- *sāz* — Long-necked lute played by ashiq bards
+- *yallī* — Chain or circle line-dance held hand-to-hand
+- *Novruz* — Spring equinox New Year festival with symbolic table and fire-jumping
+- *haft-sīn* — Table of seven symbolic items for Nowruz, each beginning with letter sīn
+- *kelāghāyī* — Square silk headscarf with resist-dyed patterns
+- *sumakh* — Supplementary-weft wrapping technique for flatweaves
+- *Shāhsavan* — Semi-nomadic confederation producing woven textiles and sumakh
+- *ābgūsht* — Meat-and-chickpea stew pounded at table
+- *dolma* — Vegetables stuffed with rice, meat, and split peas
+- *arxaliq* — Fitted long-sleeved velvet bodice worn in festival dress
+- *papāq* — Tall lambskin cap worn by shepherds and bards
+- *hamāyel* — Triangular amulet case holding a prayer against evil eye
+- *sīne-rīz* — Fringed breast-ornament of linked silver plaques and coins
+- *samāvar* — Vessel for brewing tea, center of social gathering
+- *armūdī* — Pear-shaped tea glass for serving black tea
+- *khatam* — Micromosaic marquetry of bone, brass, and colored woods
 
 ## Sources & further reading
 
 - Wikipedia: "Iranian Azerbaijanis", "Azerbaijani language", "Tabriz rug", "Heriz rug", "Shahsevan", "Sumak (rug)", "Verni (rug)", "Kelaghayi", "Khatam", "Ashik", "Mugham", "Yalli (dance)", "Novruz", "Sheikh Safi al-Din Khānegāh and Shrine Ensemble".
-- UNESCO Intangible Cultural Heritage inscriptions: *Art of Azerbaijani Ashiq* (2009); *Azerbaijani Mugham* (2008); *Traditional art of Azerbaijani carpet weaving* (2010); *Traditional art and symbolism of Kelaghayi* (2014); *Yalli (Kochari, Tenzere), traditional group dances of Nakhchivan* (2018, Urgent Safeguarding); *Dolma making and sharing tradition* (2017); *Nowruz* (2009/2016, multi-national).
-- UNESCO World Heritage: *Sheikh Safi al-Din Khānegāh and Shrine Ensemble in Ardabil* (2010); *Tabriz Historic Bazaar Complex* (2010).
-- Jenny Housego, *Tribal Rugs* (1978); Parviz Tanavoli, *Shahsavan: Iranian Rugs and Textiles from the Moghan Steppe* (1985); Richard Tapper, *Frontier Nomads of Iran: A Political and Social History of the Shahsevan* (1997); Tourkhan Gandjei, editions of the *Divan* of Shah Ismail Khatai; Hasan Javadi & Willem Floor, translations of Sabir and Shahriar.
+- UNESCO Intangible Cultural Heritage inscriptions: Art of Azerbaijani Ashiq (2009); Azerbaijani Mugham (2008); Traditional art of Azerbaijani carpet weaving (2010); Traditional art and symbolism of Kelaghayi (2014); Yalli (Kochari, Tenzere), traditional group dances of Nakhchivan (2018, Urgent Safeguarding); Dolma making and sharing tradition (2017); Nowruz (2009/2016, multi-national).
+- UNESCO World Heritage: Sheikh Safi al-Din Khānegāh and Shrine Ensemble in Ardabil (2010); Tabriz Historic Bazaar Complex (2010).
+- Jenny Housego, Tribal Rugs (1978); Parviz Tanavoli, Shahsavan: Iranian Rugs and Textiles from the Moghan Steppe (1985); Richard Tapper, Frontier Nomads of Iran: A Political and Social History of the Shahsevan (1997); Tourkhan Gandjei, editions of the Divan of Shah Ismail Khatai; Hasan Javadi & Willem Floor, translations of Sabir and Shahriar.
+

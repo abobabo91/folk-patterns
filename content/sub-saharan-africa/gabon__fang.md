@@ -5,55 +5,147 @@ region: "Sub Saharan Africa"
 tags: [ethnography, sub-saharan-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Fang, a Bantu-speaking people of the equatorial forest belt |
+| Where | Southern Cameroon, Equatorial Guinea, northern Gabon, western Congo, with diaspora on Bioko and São Tomé |
+| How many | One to one and a half million total; roughly half a million in Gabon |
+| Language | Faŋ, a Northwest Bantu language with several dialects |
+| Religion | Overwhelmingly Christian (Catholic and Protestant); many also initiated into bwiti; older beliefs in a creator god, ancestral intercession, and witchcraft remain operative |
+| Known for | Byeri reliquary ancestor sculptures that shaped European modernism · Mvet epic chanted narratives and harp-zither instrument · Ngil judicial masks and ngontang white-faced dance masks · Bwiti syncretic ancestor religion |
+
 ## Overview
 
-The Fang (self-designation *Faŋ*, historically written *Pahouin* by French colonial administrators and *Pangwe* in the German ethnographic literature) are a Bantu-speaking people of the equatorial forest belt straddling southern Cameroon, mainland Equatorial Guinea (Río Muni), the northern two-thirds of Gabon, and the westernmost fringe of the Republic of the Congo, with a smaller diaspora on the island of Bioko and in São Tomé. Their total population is commonly estimated at around one to one and a half million, of whom roughly half a million live in Gabon, where they constitute the largest single ethnic bloc and have supplied much of the country's political and cultural elite since independence. Their language, *Faŋ*, belongs to the Northwest Bantu (A70) group and is mutually intelligible across a dialect chain that includes *Ntumu* in the north, *Okak* on the coast, *Betsi* (also written *Nzaman-Betsi*) in the central Gabonese plateaus, *Mvai* along the Ivindo, and *Meke* in the far south — the four or five subdivisions the older ethnographic literature grouped under the umbrella term "Pahouin". Fang oral tradition remembers a long southward migration out of the Adamawa savanna, across the Sanaga river and into the *ozila* (equatorial rainforest) during the eighteenth and nineteenth centuries, ending only when the coastal peoples and the French colonial frontier halted further movement. In world folk-culture terms the Fang matter above all as the makers of the *byeri* reliquary sculpture — the polished blackwood ancestor figures that so decisively shaped the vision of European modernism after 1905 — and of the *ngil* judicial masks and *ngontang* white-faced dance masks that entered the same collections. To this the Fang add the great sung epic of *mvet*, inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2023 as the "*Melan* and *Mvet oyeng*" tradition, and the arched harp-zither which bears the same name.
+The Fang are a forest people who migrated south from the Adamawa savanna during the eighteenth and nineteenth centuries and now form Gabon's largest ethnic group. They are best known internationally for the polished blackwood byeri ancestor figures and the sung mvet epic, both inscribed in world collections and UNESCO heritage lists. Their culture combines forest lifeways, initiation societies, masked performance, and ancestor veneration, with Christianity now dominant but older ritual practices still active. Today most Fang live in urban centers like Libreville and Bata but maintain strong ties to village life, genealogy, and ritual.
 
 ## Material culture
 
+Fang material culture relies on forest materials — carved wood, woven raphia palm, beaten bark-cloth, clay — rather than textiles, with sculpted wood as the prestige craft.
+
 ### Textile & pattern traditions
 
-The Fang have no signature loom-weaving tradition of the kind found among the Kuba to the east or the Yoruba to the northwest: the equatorial forest environment favoured bark-cloth and imported trade textiles rather than an indigenous weaving industry. The historic everyday cloth was *obom*, a beaten bark-cloth prepared from the inner bast of *Ficus* species — soaked, pounded on a hardwood anvil with a grooved wooden mallet until supple, then sometimes dyed a rust-red with *padouk* (*Pterocarpus soyauxii*) powder or blackened with river mud. *Obom* survives today mainly as a ritual substrate for initiation ornaments and as backing for certain *byeri* wrappings. Pattern in Fang visual culture is therefore carried less by cloth than by scarification, by the incised decoration of gourds and stools, and by the painted surfaces of masks: the characteristic vocabulary is a repertoire of parallel lines, lozenges, opposed triangles and the concentric *mbon* (moon) disc, sometimes read as cosmological but more often simply as *bibuk* — "the marks". Trade textiles from the coast — the striped and checked cottons brought by Portuguese, Dutch and later French traders — were rapidly integrated into male dress from the nineteenth century onward and largely displaced *obom* by the 1930s.
+The Fang have no signature loom-weaving tradition; pattern is carried by scarification, carved decoration, and painted masks rather than woven cloth.
+
+- **Beaten bark-cloth** (*obom*) — Cloth made from the inner bast of Ficus species, soaked and pounded until supple, sometimes dyed rust-red with padouk powder or blackened with mud.
+- **Pattern vocabulary** (*bibuk*) — Parallel lines, lozenges, opposed triangles, and concentric moon discs characterize Fang visual decoration on gourds, stools, and masks.
 
 ### Clothing & dress
 
-Pre-colonial everyday dress was minimal and adapted to a hot, wet forest: men wore a bark-cloth or, later, a woven cotton loincloth (*ntsag*) wrapped between the legs and tucked at the waist, sometimes with a shoulder cloth for elders; women wore a shorter wrapped skirt, often with a belt of *nsuk* beads at the hips and copper or brass anklets. Both sexes went bare-chested in the village and reserved their finer ornament for public occasions. Body-painting with red *padouk* powder mixed with palm oil, and with white *pemba* clay for initiates returning from the *so* or *melan* ceremonies, functioned as a second skin of dress. Facial and torso scarification (*mbila*) — commonly a set of vertical bands on the temples and paired arcs on the chest — marked lineage and, for women, marriageability. Filed and pointed incisors, worn plugs of ivory or wood in the earlobes, and elaborately braided coiffures dressed with palm oil and *padouk* completed the appearance recorded by nineteenth-century travellers such as Paul Du Chaillu. Contemporary Fang dress in Libreville and Bata is indistinguishable from the wider West-Central African urban norm — tailored *boubou* on formal occasions, imported *pagne* wax-print for women — with the older ritual dress reserved for funerals, weddings and *bwiti* ceremonies.
+Pre-colonial dress was minimal and adapted to the hot, wet forest; elaborate ornament was reserved for public occasions and marked status and lineage.
+
+- **Loincloth** (*ntsag*) — A woven cotton loincloth wrapped between the legs and tucked at the waist, worn by men from the nineteenth century onward.
+- **Facial and torso scarification** (*mbila*) — Vertical bands on the temples and paired arcs on the chest marked lineage and, for women, marriageability.
+- **Red body-paint** (*padouk*) — Powder from Pterocarpus soyauxii mixed with palm oil, applied as a second skin of dress and ornament.
+- **White initiates' paint** (*pemba*) — White clay worn by initiates returning from the so or melan ceremonies.
+- **Hip beads** (*nsuk*) — Strings of small glass beads worn at the waist under the wrapper by married women, invisible in daily wear but revealed in intimate settings.
 
 ### Architecture
 
-The classic Fang village is a single long street lined on both sides by rectangular *mbeñ* houses built of a *raphia*-palm frame lashed with liana and infilled with mud (*potopoto*) or with split *bamboo de Chine*, roofed in overlapping *raphia* leaf tiles that shed the heavy equatorial rains. Each house has a low door and few or no windows; cooking is done in a lean-to at the back. At the head of the street stands the *aba* (also *abaa* or *abeñ*), the men's meeting-house — an open-sided rectangular pavilion with a steep raphia roof and low mud benches around the perimeter, dominated by a central hearth. The *aba* is the political, judicial and ritual heart of the village: it hosts the palaver, the reception of guests, the recitation of *mvet* epics and, historically, the display of the *byeri* reliquary boxes. Because Fang settlement was until recently semi-mobile — villages were abandoned when the surrounding gardens were exhausted or after a run of deaths interpreted as sorcery — the architecture was designed to be built quickly from forest materials rather than to last. Monumental building in stone or fired brick is absent from the Fang tradition; the twentieth-century Catholic missions and colonial administrative posts introduced corrugated iron, cement block and glass, which now dominate the larger villages and towns.
+The classic Fang village is a single long street of rectangular houses built of raphia-palm frame and mud or bamboo, with the men's meeting-house at its head.
+
+- **Rectangular family house** (*mbeñ*) — Built of raphia-palm frame lashed with liana and infilled with mud or split bamboo, roofed in overlapping raphia leaf tiles, with a low door and minimal windows.
+- **Men's meeting-house** (*aba*) — An open-sided rectangular pavilion with a steep raphia roof and low mud benches, dominated by a central hearth; the political, judicial and ritual heart of the village.
+- **Syncretic temple** (*mbandja*) — A purpose-built temple for bwiti ceremonies, constructed in the twentieth century for all-night ritual gatherings.
 
 ### Ceramics, metalwork & everyday objects
 
-Fang pottery is a domestic, hand-built tradition — coiled cooking pots and water jars of a red-brown micaceous clay, burnished with a pebble and open-fired, without a wheel and without glaze — and was largely displaced by imported enamel and aluminium ware in the twentieth century. The prestige craft is instead woodcarving. The *byeri* reliquary figure — a full-length or half-length standing or seated ancestor image, carved from a single block of dense hardwood (often *padouk* or a related *Pterocarpus*), polished with palm oil and lamp-black until it acquires a deep glossy patina — was mounted on the lid of a cylindrical bark box (the *nsekh o byeri*) containing the skulls and long bones of lineage founders. The figure's function was apotropaic: to frighten the uninitiated away from the relics and, at the same time, to concentrate the ancestral presence. Regional substyles are conventionally distinguished — the more elongated, high-domed *nlo byeri* heads of the northern *Ntumu*, the compact, muscular full figures of the central *Betsi*, and the rounder, softer *Mvai* variants — though the boundaries are porous. Alongside the *byeri* the Fang carved the great judicial masks of the *ngil* society, elongated white-kaolin-painted faces on a heart-shaped concave plane with a long straight nose, worn by masked judges who arrived at night to identify sorcerers; and the four-faced *ngontang* ("young white girl") helmet mask, its whitened faces representing the spirits of the dead and the returning ancestors, danced at funerals and initiations. Everyday woodwork includes low three-legged stools, *mvet* harp-zithers (see below), pestles and mortars, and finely carved combs and spoons. Ironwork was the specialised craft of a hereditary blacksmith caste who produced throwing knives, spearheads, hoes, and the leaf-shaped currency blades sometimes called *bikei* used in bride-wealth.
+Fang prestige craft is woodcarving, especially the byeri reliquary figure; pottery and metalwork are secondary domestic and utilitarian traditions.
+
+- **Ancestor reliquary figure** (*byeri*) — A full-length or half-length carved ancestor image in dense hardwood, polished until deeply glossy, mounted on a cylindrical bark box containing the skulls and long bones of lineage founders.
+- **Reliquary box** (*nsekh o byeri*) — A cylindrical bark box that held the ancestral skulls and long bones, topped by the byeri figure.
+- **Judicial mask** (*ngil*) — An elongated white-kaolin-painted face on a heart-shaped concave plane with a long straight nose, worn by masked judges to identify sorcerers.
+- **Helmet mask** (*ngontang*) — A four-faced helmet mask with whitened faces representing the spirits of the dead and returning ancestors, danced at funerals and initiations.
+- **Currency blade** (*bikei*) — Leaf-shaped iron blade forged by blacksmiths, used in bride-wealth exchange.
 
 ### Jewelry & body adornment
 
-Personal ornament among the pre-colonial Fang combined imported brass and copper — worked into heavy neck-rings (*nlōk*), spiral arm-rings and stacked anklets — with local materials: iron bracelets from the village smithy, cowrie strings brought up from the coast, red *abrus* seeds, blue trade beads, and the teeth and claws of leopard and crocodile mounted as amulets. Married women commonly wore layered strings of small glass beads at the waist under the wrapper (*nsuk*), invisible in daily wear but revealed in intimate settings. Filed incisors, pierced septum and earlobes with wooden or ivory plugs, and elaborate scarification patterns on the temples, back and chest constituted a body-jewellery in themselves. The masks and reliquary figures themselves were often adorned in ritual use with strings of beads, brass tacks driven into the wood, and feather headdresses, so that the sculpture participated in the same ornament economy as the living body.
+Personal ornament combined imported brass and copper with local materials, including beads, animal trophies, and scarification that marked status and kinship.
+
+- **Neck-ring** (*nlōk*) — Heavy rings of imported brass or copper worn around the neck as prestige ornament.
+- **Filed incisors** — Sharp, pointed incisors were filed and filed as a body-jewellery mark.
+- **Earplug** — Worn plugs of ivory or wood inserted in the earlobes as personal adornment.
 
 ## Music & performance
 
-The core of Fang musical culture is the *mvet* — both the name of a great sung epic and the name of the instrument that accompanies it. The *mvet* instrument is a stick-zither with three or four raphia-stem strings passing over a central bridge, amplified by two or three hollowed gourd resonators lashed to the underside; the player, the *mbom mvet*, holds it horizontally against the chest and plucks the strings while chanting. The epic itself narrates the wars of the immortals of *Engong* — a mythic land of iron people ruled by the hero *Akoma Mba* — against the mortals of *Oku*, in performances that can last through several nights and that combine sung verse, spoken narration, mimed action and audience refrain. In 2023 UNESCO inscribed the tradition on the Representative List as "*Melan* and *Mvet oyeng*, chanted narratives of the Fang people" (jointly with Cameroon, Congo, Equatorial Guinea and Gabon). Alongside the *mvet* the Fang play the *ngombi*, an eight-string arched harp with an anthropomorphic neck carved as a female figure, central to the liturgy of the *bwiti* religion; the *mbeñ* slit-drum hollowed from a single log and beaten with rubber-tipped sticks to send messages between villages; the *nkul* signal drum; hand-clap and rattle patterns of split raphia (*asseng*); and the sanza thumb-piano. Vocal style is characteristically antiphonal, with a soloist and a chorus of villagers who answer in close two- or three-part harmony, over an ostinato hand-clap.
+The mvet epic and its accompanying stick-zither instrument are the core of Fang musical culture, performed in multi-night recitations combining song, narration, and mimed action.
+
+- **Stick-zither** (*mvet*) — A three- or four-string raphia-stem zither amplified by hollowed gourds, held horizontally against the chest and plucked while chanting.
+- **Arched harp** (*ngombi*) — An eight-string arched harp with an anthropomorphic neck carved as a female figure, central to bwiti liturgy.
+- **Slit-drum** (*mbeñ*) — A hollow log beaten with rubber-tipped sticks to send messages between villages.
+- **Signal drum** (*nkul*) — A percussion drum used for signaling.
+- **Thumb-piano** (*sanza*) — A hand-held percussion instrument with plucked metal or bamboo tines.
 
 ## Dance & theatre
 
-Fang dance is inseparable from the masked and initiatory societies. The *ngil* dance, now largely obsolete after French colonial suppression in the early twentieth century, involved masked judges circling a central fire at night while their acolytes drummed and the accused were brought forward. The *ngontang* mask dances at funerals and celebrations with a rapid, light-footed step in which the masker spins so that the four white faces of the helmet each in turn confront the audience — a choreography read as the ancestors surveying the living from every direction. Women's dances at weddings and at the return of initiates are typically circular, with a hip-driven step and hand-clap chorus. In the *bwiti* liturgy the all-night dance, punctuated by the harp and by the ingestion of *iboga* (*Tabernanthe iboga*) root-bark, is itself the central sacrament. Secular village theatre takes the form of the *mvet* recital, in which the *mbom mvet* mimes the fights of his heroes with sweeping gestures and shifts of voice, and the audience becomes chorus.
+Fang dance is inseparable from initiation societies and masked performance; the mvet recital serves as secular village theatre.
+
+- **Judicial mask dance** (*ngil*) — Masked judges circled a central fire at night while acolytes drummed and the accused were brought forward; largely obsolete after French colonial suppression.
+- **Helmet mask dance** (*ngontang*) — Rapid, light-footed spinning dance in which the four white faces of the mask each confront the audience, read as ancestors surveying the living from all directions.
+- **All-night sacramental dance** (*bwiti*) — An all-night dance punctuated by harp music and iboga root-bark ingestion, the central sacrament of bwiti religion.
 
 ## Festivals & rituals
 
-The great ritual cycles of the pre-Christian Fang were the male initiation *so* (or *sso*), a forest ordeal in which young men were secluded, scarified, and taught the lineage genealogies; the *melan* ceremony at which the *byeri* reliquary figures were consecrated with palm wine and the blood of a sacrificed animal, and at which initiates were shown the ancestral skulls for the first time; and the *ngil* judicial performances used to identify witches. Almost all of these were suppressed or driven underground during the colonial and mission period, and the ritual functions of the *byeri* have since largely lapsed. What has emerged in their place — from roughly the 1890s onward — is the *bwiti*, a syncretic religion that fuses Fang ancestor-veneration with elements taken from the neighbouring Tsogho and with Christian imagery, and whose all-night ceremonies in a purpose-built temple (the *mbandja*) remain widely practised in Gabon today. The Catholic and Protestant liturgical calendars, national independence day (17 August in Gabon), and family funerals — which for the Fang remain the largest and most expensive gatherings of the ritual year — provide the framework of contemporary festival life.
+The great pre-Christian ritual cycles — male initiation, ancestor consecration, and judicial performances — were suppressed during colonialism; bwiti emerged in their place.
+
+- **Male forest initiation** (*so*) — A secluded forest ordeal in which young men were scarified and taught lineage genealogies.
+- **Ancestor consecration ceremony** (*melan*) — A ceremony at which byeri reliquary figures were consecrated with palm wine and animal blood, and initiates were shown the ancestral skulls for the first time.
+- **Syncretic ancestor religion** (*bwiti*) — A syncretic religion fusing Fang ancestor-veneration with Tsogho elements and Christian imagery, practiced in purpose-built temples with all-night ceremonies.
 
 ## Foodways
 
-Fang cuisine is the classic cuisine of the equatorial forest: a heavy starch base, wild-gathered leaves and nuts, freshwater fish and bushmeat, and a strong emphasis on smoked and long-cooked preparations. The staple starches are cassava — eaten as *bâton de manioc* (also *chikwangue* or *mintumba*), a dense fermented cassava loaf wrapped in *marantaceae* leaf and steamed — plantain, yam and taro. The signature dish is *nyembwe* (also *moambé*), chicken or fish stewed in a thick sauce of pounded palm nuts (*Elaeis guineensis*) whose oily red pulp gives the sauce its characteristic colour; it is the dish served for guests and at every important gathering, and is the de facto national dish of Gabon. *Odika* (bush-mango kernel, *Irvingia gabonensis*) is ground into a dense chocolate-brown paste used to thicken meat stews. Leaves of *koko* or *nkumu* (*Gnetum africanum*), finely shredded, are stewed with palm oil and smoked fish. Bushmeat — porcupine, cane rat, duiker, monkey — is smoked over the kitchen fire and stored on a rack above the hearth. Palm wine (*meyok*) tapped from the raphia or oil palm, and a distilled palm spirit locally called *hâ* or *odontol*, accompany the meal.
+Fang cuisine is based on forest starches, wild-gathered leaves and nuts, freshwater fish and bushmeat, with a strong emphasis on smoked and long-cooked preparations.
+
+- **Fermented cassava loaf** (*bâton de manioc*) — A dense fermented cassava loaf wrapped in marantaceae leaf and steamed, a staple starch.
+- **Palm nut stew** (*nyembwe*) — Chicken or fish stewed in a thick sauce of pounded palm nuts, the signature dish served for guests and the de facto national dish of Gabon.
+- **Bush-mango paste** (*odika*) — Ground kernel paste from Irvingia gabonensis used to thicken meat stews.
+- **Forest leaf stew** (*koko*) — Finely shredded Gnetum africanum stewed with palm oil and smoked fish.
+- **Palm wine** (*meyok*) — Fermented beverage tapped from raphia or oil palm, served at meals and important gatherings.
 
 ## Oral tradition & literature
 
-The prestige oral genre is the *mvet* epic already described, whose cycle of tales — the *Mvet Moneblum*, the *Mvet Ekang* — has been transcribed and published in French translation since the mid-twentieth century, most influentially by the Cameroonian scholar Eno Belinga and by the Gabonese *mbom mvet* Tsira Ndong Ndoutoume, whose four-volume *Le Mvett* (1970–1993) is the standard printed corpus. Alongside the epic the Fang preserve a large body of shorter genres: *minkana* (proverbs), *nlañ* (riddles), *minlaŋ* (folk-tales, often trickster stories featuring the tortoise *kulu* or the spider), and genealogical recitations (*ayoŋ*) by which each patrilineage traces its descent from a common founder through a memorised chain of names. Written Fang literature emerged in the twentieth century out of the mission schools; Gabonese novelists writing in French — most prominently Ferdinand Oyono of Cameroon and, in Gabon, Angèle Rawiri and Justine Mintsa — have drawn on Fang village life for their material.
+The prestige oral genre is the mvet epic, whose tales have been transcribed and published in French translation since the mid-twentieth century.
+
+- **Epic poem cycle** (*Mvet Moneblum*) — One cycle of the mvet epic tales, transcribed and published in French translation.
+- **Epic poem cycle** (*Mvet Ekang*) — Another cycle of the mvet epic tales, transcribed and published in French translation.
+- **Proverbs** (*minkana*) — A traditional oral genre of Fang wisdom sayings.
+- **Riddles** (*nlañ*) — A traditional oral genre of puzzles and enigmatic questions.
+- **Folk-tales** (*minlaŋ*) — Traditional narrative genre, often trickster stories featuring the tortoise kulu or the spider.
 
 ## Language & religion
 
-Fang (*Faŋ*) is a Bantu language of Guthrie zone A70, closely related to Bulu and Ewondo of southern Cameroon with which it forms a dialect continuum. It is tonal, with a two- or three-tone system depending on analysis, and is written in a Latin orthography developed by American Presbyterian and French Catholic missionaries in the late nineteenth century. It is the first language of most Fang households and is widely used alongside French (in Gabon, Cameroon and Congo) and Spanish (in Equatorial Guinea) as the languages of school and administration. Religiously the Fang today are overwhelmingly Christian — Catholic in the areas of French and Spanish mission influence, Presbyterian and other Protestant denominations in the northern Ntumu areas — but a large minority, particularly in Gabon, are initiated into *bwiti*, the syncretic ancestor religion mentioned above, and many practise both simultaneously without perceived contradiction. The older stratum of belief in a distant creator god (*Nzame* or *Mebeghe*), in the intercession of the ancestors (*bekôn*), and in the reality of witchcraft (*evu*, an internal organ of sorcery believed to inhabit some individuals) remains widely operative alongside the formal religions.
+Fang is a tonal Bantu language of zone A70, closely related to the languages of southern Cameroon; the people are predominantly Christian but many practice bwiti alongside formal religion.
+
+- **Creator god** (*Nzame*) — A distant creator god in the older stratum of Fang belief, complemented by ancestral intercession.
+- **Creator god variant** (*Mebeghe*) — An alternative name for the creator god in older Fang belief.
+- **Ancestral spirits** (*bekôn*) — The ancestors believed to intercede between the living and the distant creator god.
+- **Internal sorcery organ** (*evu*) — An internal organ of sorcery believed to inhabit certain individuals in older Fang belief.
+
+## Glossary
+
+- *Faŋ* — The Fang language and people; self-designation
+- *byeri* — Polished blackwood ancestor reliquary figure
+- *ngil* — Judicial mask and mask dance society
+- *ngontang* — White-faced four-faced helmet mask representing the spirits of the dead
+- *mvet* — Sung epic narrative and its accompanying stick-zither instrument
+- *obom* — Beaten bark-cloth made from Ficus inner bast
+- *padouk* — Pterocarpus soyauxii powder used for red body-paint and cloth dye
+- *pemba* — White clay worn by initiates from so or melan ceremonies
+- *ntsag* — Woven cotton loincloth worn by men
+- *mbila* — Facial and torso scarification marking lineage and status
+- *nsuk* — Strings of small glass beads worn at the waist by married women
+- *mbeñ* — Rectangular family house built of raphia-palm frame and mud
+- *aba* — Men's meeting-house, the political and ritual heart of the village
+- *nsekh o byeri* — Cylindrical bark box containing ancestral skulls and long bones
+- *nlōk* — Heavy neck-ring of imported brass or copper
+- *ngombi* — Eight-string arched harp with anthropomorphic female neck, used in bwiti
+- *sanza* — Thumb-piano with plucked metal or bamboo tines
+- *so* — Male forest initiation ceremony with scarification and genealogy teaching
+- *melan* — Ancestor consecration ceremony for byeri reliquary figures
+- *bwiti* — Syncretic ancestor religion fusing Fang veneration with Tsogho and Christian elements
+- *mbandja* — Purpose-built temple for bwiti all-night ceremonies
+- *nyembwe* — Chicken or fish stewed in pounded palm nut sauce, signature Fang dish
+- *meyok* — Palm wine fermented from raphia or oil palm
 
 ## Sources & further reading
 
@@ -65,3 +157,4 @@ Fang (*Faŋ*) is a Bantu language of Guthrie zone A70, closely related to Bulu a
 - Tsira Ndong Ndoutoume, *Le Mvett*, 4 vols. (Présence Africaine, 1970–1993).
 - Samuel-Martin Eno Belinga, *L'épopée camerounaise: Mvet* (Yaoundé, 1978).
 - Paul Du Chaillu, *Explorations and Adventures in Equatorial Africa* (1861) — the earliest sustained European first-hand account of the Fang.
+

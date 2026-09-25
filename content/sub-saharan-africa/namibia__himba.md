@@ -5,62 +5,157 @@ region: "Sub Saharan Africa"
 tags: [ethnography, sub-saharan-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Himba, a semi-nomadic pastoralist people of northwestern Namibia |
+| Where | The Kunene region (historically Kaokoland) between the Hoanib and Kunene rivers in Namibia, with related communities across the border in Angola |
+| How many | Roughly 20,000 to 50,000 in Namibia, with a comparable number in Angola |
+| Language | OtjiHimba, a dialect of OtjiHerero |
+| Religion | Ancestral fire religion centered on Mukuru, the high god, with Christian affiliation layered in some communities |
+| Known for | The ochre-butter cosmetic otjize worn daily on skin and hair · Layered leather-and-iron female dress with shell ornaments · Sacred ancestral fire (okuruwo) that connects the living to ancestors · Long-horned Sanga cattle as the foundation of wealth and ritual life · Dense body-adornment system encoding age, marital status, and lineage |
+
 ## Overview
 
-The Himba (*OvaHimba*, singular *OmuHimba*) are a semi-nomadic pastoralist people of the arid north-western Namibian region of Kunene, historically known as Kaokoland, with related communities across the Kunene River in the Angolan provinces of Namibe and Huíla. They speak *OtjiHimba*, a dialect of *OtjiHerero* within the Bantu family (Southern Bantoid, R.30 in Guthrie's classification), and are ethnically and linguistically a branch of the wider Herero cluster that entered the region from the Great Lakes area several centuries ago before splitting during the *Mfecane*-era displacements and cattle-raiding of the nineteenth century. Population estimates range from roughly 20,000 to 50,000 on the Namibian side, with a comparable number in Angola, though the semi-nomadic movement of homesteads and the porous colonial border make counts approximate. Their homeland is the ochre-red desert-mountain landscape between the Hoanib and Kunene rivers — sparsely watered thornveld broken by the Baynes, Otjihipa and Zebra mountains — and their economy is built around long-horned Sanga cattle (the source of wealth and ritual centrality), fat-tailed sheep and goats, supplemented by small-scale millet cultivation at the wetter fringes. In folk-culture terms the Himba matter as one of the last African pastoralist societies whose everyday material practice — the ochre-butter cosmetic *otjize*, the layered leather-and-iron female dress, the sacred fire (*okuruwo*) that mediates between the living and the ancestors, and a distinctive corpus of hair and headdress ornaments encoding age, marital status and lineage — has been sustained rather than reconstructed, and whose homestead architecture and ritual geography remain organised around the double axis of ancestral fire and cattle kraal.
+The Himba are one of the last African pastoralist societies whose everyday material practice has been sustained rather than reconstructed. Their economy centers on long-horned cattle, supplemented by sheep, goats, and millet. Their daily life and ritual practice revolve around the sacred ancestral fire and the cattle kraal, with material culture built entirely on leather, hide, iron, and shell rather than woven textiles. Hairstyle, headdress, and body adornment form a legible biography in metal and shell, marking age, sex, marital status, and lineage affiliation at a glance.
 
 ## Material culture
 
+Himba material culture is built on leather, hide, iron, and shell rather than woven cloth, with ornament and pattern produced by cut edges, pleating, studding, and beadwork rather than weaving or dyeing.
+
 ### Textile & pattern traditions
 
-The Himba are not a weaving people in the sense the term applies to the oasis or Sahelian societies — no cotton loom tradition, no indigo cloth, no signature woven cloth of their own manufacture. Historically the entire material register of the body was leather and hide: soft goatskin and calfskin worked with fat, ash and ochre, its "pattern" produced not by weaving or dyeing but by the sculpting of cut edges, the pleating of skirts, and the studding of surfaces with iron and shell. In the twentieth century imported blankets and, among neighbouring *Herero* proper, printed cotton entered the wardrobe, but the *OvaHimba* have largely retained the pre-textile logic, so that ornament sits directly on skin, hide and hair rather than on cloth. The visual vocabulary — concentric bands on the *erembe* leather headdress, rows of iron beadwork on aprons, the repeated cowrie punctuation of a belt — belongs to a beadwork-and-hide grammar rather than a textile one.
+The Himba have no weaving tradition; their entire historical register was leather and hide, and they have largely retained this pre-textile logic.
+
+- **Iron beadwork** — Iron studs and beads are sewn onto leather aprons and clothing in rows and patterns.
+- **Cowrie punctuation** (*ohumba*) — Conus shells are studded onto belts and ornaments in repeated rows.
+- **Leather headdress bands** (*erembe*) — Concentric bands ornament the tanned goatskin headdress.
 
 ### Clothing & dress
 
-Adult women wear a pleated goatskin miniskirt (*ohorokweva* or, more generally, the ochred hide skirt), tied at the waist over a belt, and go bare-breasted, the entire skin surface — face, chest, arms, hair — coated daily in *otjize*, a cosmetic paste of butterfat and finely ground red ochre (*otjize* proper being both the paste and the practice), sometimes scented with the aromatic resin of the *omuzumba* shrub. *Otjize* functions simultaneously as sunscreen, insect repellent, skin conditioner in a desert climate with almost no bathing water, and as the visual signature of Himba adulthood, its deep terracotta colour read as an ideal of beauty tied to earth and blood. Married women wear the *erembe*, a headdress of tanned goat or calfskin whose upward-splaying pointed lobes rest above the *otjize*-dressed hair; girls of marriageable age wear the *ekori*, a three-pointed hide crown, at ceremonial moments. Around the neck and waist hang aprons — front and back — of leather, iron and *ohumba* (Conus shell) discs, and the front apron of a mature woman (*misconce*, in local usage often just *ohorokweva*) is a heavy piece stitched with iron beadwork and shell. Men wear a simple loincloth of goatskin or, increasingly, imported cloth, often with a single string of beads and, on married men, an *ondengura* head-cloth wound over the hair. Boys have a single braid falling backwards from the crown; young girls wear two braids falling forward; at puberty a girl's hair is plaited into many ochred braids that fall over her face; upon marriage the *erembe* is added and the braids are worn back. Hairstyle and headdress together read at a glance as a full biographical statement of sex, age-grade, marital and reproductive status.
+Adult women wear pleated goatskin miniskirts and are daily coated in otjize, a cosmetic paste of butterfat and red ochre that serves as sunscreen, insect repellent, skin conditioner, and visual signature of adulthood.
+
+- **Otjize paste** (*otjize*) — A cosmetic of butterfat and finely ground red ochre applied daily to skin, hair, and face, sometimes scented with omuzumba resin.
+- **Pointed headdress** (*erembe*) — Worn by married women, a tanned goat or calfskin headdress with upward-splaying pointed lobes resting above otjize-dressed hair.
+- **Three-pointed hide crown** (*ekori*) — Worn by girls of marriageable age at ceremonial moments.
+- **Pleated goatskin miniskirt** (*ohorokweva*) — The main garment of adult women, tied at the waist over a belt.
+- **Leather aprons** (*misconce*) — Iron-stitched and shell-studded aprons hang front and back at the neck and waist, heaviest on mature women.
 
 ### Architecture
 
-The Himba homestead (*onganda*) is a small cluster of conical mud-and-dung huts arranged in a rough circle around two ritual foci: the sacred ancestral fire (*okuruwo*), which burns between the headman's hut and the entrance to the main cattle kraal, and the kraal (*ohambo*) itself, a thornbush enclosure. The line running from the headman's hut through the sacred fire to the kraal gate is a ritually charged axis that ordinary people, and especially outsiders, do not cross without invitation. Individual huts (*ondjuwo*) are built by the women: a framework of *mopane* saplings lashed into a beehive or shallow-domed cone, plastered with a mixture of clay, cattle dung and palm leaf, with a low single doorway facing the fire. There is no window, no chimney; the smoke of the small interior hearth blackens the roof and helps preserve the timber. The floor is beaten earth polished with cattle dung, and interior "furniture" is limited to a low sleeping platform of hide over sticks, wooden headrests (*ondumbo*), gourds for sour milk, and a suspended pouch or two of ochre and butterfat. Because homesteads move with pasture and water, whole *onganda* are abandoned and rebuilt on a seasonal cycle; the fire, however, is transferred as an ember and never allowed to die, since its extinction would sever contact with *Mukuru*, the ancestral high god and the deceased fathers of the lineage.
+The Himba homestead is a small cluster of conical mud-and-dung huts arranged in a circle around the sacred ancestral fire and cattle kraal, with the fire-to-kraal axis ritually charged and not to be crossed without invitation.
+
+- **Sacred ancestral fire** (*okuruwo*) — Burns between the headman's hut and the kraal gate, mediates between the living and ancestors, and is never allowed to die.
+- **Cattle enclosure** (*ohambo*) — A thornbush kraal that houses the herds and is ritually central to the homestead.
+- **Conical hut** (*ondjuwo*) — Built by women from mopane saplings lashed into a dome, plastered with clay, dung, and palm leaf, with a single low doorway facing the fire.
+- **Homestead settlement** (*onganda*) — A cluster of huts around the fire and kraal that is rebuilt seasonally as homesteads move with pasture and water.
 
 ### Ceramics, metalwork & everyday objects
 
-The Himba do not have a strong indigenous fired-ceramic tradition; liquids — sour milk (*omaere*), water, ochre paste — are stored and served in carved wooden vessels and, above all, in dried gourds (*ondjupa*), which are shaken to churn butter and passed as milking and drinking containers. Wood is worked into stools, milk pails, meat platters, headrests, and the long stirring sticks used at the fire. Iron working, historically supplied by neighbouring smith communities and by trade rather than by Himba specialists themselves, produces the beads, chain links, and small conical bells that ornament aprons and anklets, as well as knives and spearheads. Cowrie-family shell (*ohumba*), the single most prestigious material after cattle themselves, is not local — it is a trade good from the Atlantic and Indian Ocean coasts that travelled inland over generations — and its concentration on a woman's chest ornament or a bridal apron is a direct index of household wealth and lineage prestige. Small carved wooden dolls, sometimes called *Himba dolls* in the tourist register, are made for and by children as figurative playthings and, in some cases, as fertility or teaching objects, ochred and dressed in miniature versions of adult skirts and headdresses.
+The Himba store and serve liquids in carved wooden vessels and dried gourds rather than fired pottery, and work iron into ornamental beads, bells, and tools.
+
+- **Dried gourds** (*ondjupa*) — Used for storage and serving of sour milk, water, and ochre paste, and shaken to churn butter.
+- **Wooden headrest** (*ondumbo*) — A carved wooden object used as a pillow inside huts.
+- **Iron beads and bells** — Small conical bells and chain-linked beads ornament aprons and anklets.
+- **Cowrie shell** (*ohumba*) — A prestigious trade good from the coasts, concentrated on women's chest ornaments and bridal aprons as an index of household wealth.
+- **Carved wooden dolls** — Made for children as playthings and fertility or teaching objects, ochred and dressed in miniature adult skirts and headdresses.
 
 ### Jewelry & body adornment
 
-Himba jewelry is one of the densest ornament systems in southern Africa and, together with hair and *otjize*, constitutes what elsewhere would be dress. Around the neck married women wear the *ohumba*, a large single conch or Conus shell suspended on a leather thong at the sternum, given at marriage and understood as a fertility and lineage symbol. Multiple strands of iron and copper beads (*ondjeva*), leather chokers stitched with metal studs, and heavy shell-and-iron collars build up the upper body. Iron and copper coil bracelets (*otjize*-stained through daily contact) climb the forearms; heavy anklets of coiled iron wire (*omohanga*) protect the ankles against snake bite and, in some readings, mark a woman as a mother. The *erembe* headdress described above sits at the crown of this ensemble; small brass or iron ornaments and shell buttons are also attached into the braids themselves, so that the ochred hair becomes a mounting surface for further metalwork. Men's ornament is far sparer: a single beaded necklace, occasionally an arm ring, and the wound head-cloth. Children wear thin waist-strings of beads from infancy, added to on ritual occasions. The whole body-adornment system is durable rather than fashionable — pieces are added at life-stage transitions (naming, puberty, betrothal, marriage, motherhood) and generally kept, so an older woman's silhouette carries a legible biography in metal and shell.
+Himba jewelry is one of the densest ornament systems in southern Africa, built from iron, copper, shell, and leather, with each piece marking a life-stage transition and worn cumulatively over a lifetime.
+
+- **Conch shell pendant** (*ohumba*) — A large single Conus or conch shell suspended at the sternum on a leather thong, given at marriage as a fertility and lineage symbol.
+- **Iron and copper beads** (*ondjeva*) — Multiple strands worn around the neck and build up the upper body.
+- **Coil bracelets** (*otjize*) — Iron and copper coils climb the forearms, stained through daily contact with otjize.
+- **Ankle wire** (*omohanga*) — Heavy coiled iron wire worn around the ankles to protect against snake bite and mark a woman as a mother.
+- **Pointed headdress** (*erembe*) — Crowns the ensemble with small brass, iron ornaments, and shell buttons attached into braids.
 
 ## Music & performance
 
-Himba music is overwhelmingly vocal and percussive, tied to work, courtship and ritual rather than to a court or professional-musician tradition. Solo and antiphonal singing accompanies the milking of cattle, the pounding of ochre, and long night gatherings around the *okuruwo*. Handclapping in cross-rhythm is the principal accompaniment; body-percussion — thigh-slapping, foot-stamping — carries the pulse where drums are absent. Small musical bows and, occasionally, a mouth-resonated pluriarc are played by herdboys in the veld; iron ankle rattles worn by dancers add a metallic layer to communal performance. Praise songs (*omitandu*) address lineage ancestors and prized cattle by name, cattle themselves being addressed with individual praise-names describing horn shape, colour and temperament — a genre shared with the wider Herero tradition. There is no inscribed UNESCO Intangible Cultural Heritage element specific to the *OvaHimba* at the time of writing, but their oral and performance traditions are broadly documented within Namibian ethnomusicological survey work.
+Himba music is overwhelmingly vocal and percussive, tied to work, courtship, and ritual rather than to a professional musician tradition.
+
+- **Praise songs** (*omitandu*) — Address lineage ancestors and prized cattle by name, with cattle addressed by individual praise-names describing horn shape, colour, and temperament.
+- **Solo and antiphonal singing** — Accompanies milking, pounding of ochre, and night gatherings around the okuruwo.
+- **Handclapping in cross-rhythm** — The principal accompaniment to singing; body-percussion carries the pulse where drums are absent.
+- **Musical bow** — Small bows and mouth-resonated pluriarcs are played by herdboys in the veld.
 
 ## Dance & theatre
 
-Dance is participatory rather than staged, most often taking the form of a circle (*ondjongo* and related genres) in which clapping and singing women form the ring while individual dancers — often young men or unmarried women — enter the centre to perform short, high-energy solos of leaping, foot-stamping and pelvic articulation before rejoining the ring. The *ondjongo* and the courtship dance *outjina* are performed at weddings, at the return of successful hunters, and at the seasonal gatherings that bring dispersed homesteads together. There is no theatrical tradition in the proscenium sense, no masked drama, and no puppet form; performance is embedded in ritual context — the sacred fire, the wedding kraal, the rain-invocation — rather than presented for an audience separated from the event.
+Dance is participatory rather than staged, most often taking the form of a circle where women clap and sing while individual dancers perform short, high-energy solos in the centre.
+
+- **Circle dance** (*ondjongo*) — Clapping and singing women form the ring while dancers enter the centre to perform leaping, foot-stamping, and pelvic articulation solos.
+- **Courtship dance** (*outjina*) — Performed at weddings, hunter returns, and seasonal gatherings that bring dispersed homesteads together.
 
 ## Festivals & rituals
 
-The ritual calendar is organised less around fixed dates than around life-stage passages and the pastoral cycle. The daily invocation at the *okuruwo* — the headman opening communication with *Mukuru* and the fathers each morning — is the substrate of Himba religious life; every major event, from a child's naming to a bride's departure, is presented at this fire. Weddings involve the ochring and dressing of the bride, the transfer of the *ekori* or *erembe* headdress, the slaughter of cattle from both lineages, and the escorted procession of the bride to the groom's *onganda*, where she is presented to his ancestral fire. Male initiation includes the extraction of the lower central incisors, still practised in some communities, and the assumption of adult herd responsibility. Funerals of important men are extended affairs at which many cattle are slaughtered and the horns arranged on the grave; the deceased joins the lineage of ancestral fathers addressed at the *okuruwo*. Rain-calling and cattle-blessing ceremonies punctuate the dry-season / wet-season transition.
+The ritual calendar is organised around life-stage passages and the pastoral cycle, with the daily invocation at the ancestral fire as the substrate of religious life.
+
+- **Daily fire invocation** (*okuruwo*) — The headman opens communication with Mukuru and the fathers each morning at the sacred fire.
+- **Wedding** — Involves ochring and dressing the bride, transfer of headdress, slaughter of cattle from both lineages, and the escorted procession of the bride to the groom's onganda.
+- **Male initiation** — Includes extraction of lower central incisors and assumption of adult herd responsibility.
+- **Funeral** — Extended affairs at which many cattle are slaughtered, horns arranged on the grave, and the deceased joins the lineage of ancestral fathers.
+- **Rain-calling ceremony** — Punctuates the dry-season and wet-season transition.
 
 ## Foodways
 
-The Himba diet is built on the products of the herd — sour milk (*omaere*), fresh milk, curds, butter, and, more sparingly, meat, since cattle are wealth and are eaten mainly at ritual slaughters — supplemented by maize- or millet-meal porridge (*oruhere ruomaere* when eaten with sour milk), wild greens and tubers, and, in season, the *!nara* melon and *marula* and *mopane* fruits. Cattle blood, tapped from the jugular of a live beast without killing it, is drunk in some communities on ritual occasions, in a practice that connects the Himba to the wider East African pastoralist food register. Cooking is done on the small hearth inside the hut or, for shared meals, at an outdoor fire; wooden platters and gourds serve as vessels. Water is scarce and reserved for drinking and for cattle; personal cleansing is done not by washing but by the daily application of *otjize* and by smoke-bathing over aromatic herbs (*omuzumba*) burned on coals, a practice used especially by women after childbirth and before ceremonies.
+The Himba diet is built on herd products—sour milk, fresh milk, curds, butter, and rarely meat—supplemented by millet porridge, wild greens, tubers, and seasonal fruits.
+
+- **Sour milk** (*omaere*) — The staple herd product, eaten with millet-meal porridge or consumed on its own.
+- **Millet-meal porridge** (*oruhere ruomaere*) — Eaten with sour milk, made from millet or maize meal.
+- **Cattle blood** — Tapped from the jugular of a live beast without killing it and drunk on ritual occasions.
+- **Nara melon** (*!nara*) — A seasonal wild fruit supplement to the diet.
+- **Smoke-bathing** — Personal cleansing done by burning aromatic omuzumba herbs on coals, especially by women after childbirth and before ceremonies.
 
 ## Oral tradition & literature
 
-Himba oral literature is transmitted at the fire and in the veld: lineage genealogies traced back many generations through the *oruzo* (patrilineal clan, transmitting sacred-fire duties) and the *eanda* (matrilineal clan, transmitting cattle inheritance), the double-descent system that structures Herero-speaking society; praise poetry for ancestors and cattle; historical narrative of the nineteenth-century wars, the *Mfecane* displacements, the flight into Angola and return, and the German colonial *Vernichtungsbefehl* of 1904 that devastated the settled Herero and left the Kaokoland Himba as one of the surviving refuges of the culture; folk tales of trickster hare and hyena shared with neighbouring Bantu-speaking peoples; and songs of milking, of walking with the herd, of the sacred fire. Literacy in *OtjiHerero* is a twentieth-century mission introduction and remains uneven; the primary medium of transmission remains spoken.
+Himba oral literature is transmitted at the fire and in the veld through lineage genealogies, praise poetry for ancestors and cattle, historical narratives of the nineteenth-century wars, and folk tales.
+
+- **Patrilineal clan** (*oruzo*) — Transmits sacred-fire duties through the male line, traced back many generations.
+- **Matrilineal clan** (*eanda*) — Transmits cattle inheritance through the female line.
+- **Praise poetry** — Honors ancestors and cattle, a genre shared with the wider Herero tradition.
+- **Historical narrative** — Recounts the nineteenth-century Mfecane wars, flight into Angola, and the 1904 German Vernichtungsbefehl.
 
 ## Language & religion
 
-*OtjiHimba* is mutually intelligible with standard *OtjiHerero* and shares its Bantu grammatical structure — noun-class prefixes, agglutinative verb morphology — with minor lexical and phonological divergences. Religion centres on *Mukuru*, the ancestral high god, approached through the mediation of the fathers (*ovakuru*) at the sacred fire; the fire itself is the point of contact, tended by the headman and never allowed to go out. Cattle are quasi-sacred, individually named, and figure in every major transaction with the ancestral world. Mission Christianity — Lutheran, Catholic and, more recently, evangelical — has made significant inroads among the settled Herero of central Namibia but far less so among the Kunene Himba, who remain overwhelmingly practitioners of the ancestral fire religion, with Christian affiliation often layered rather than substituted.
+OtjiHimba is mutually intelligible with OtjiHerero and shares Bantu grammar; religion centers on Mukuru, the ancestral high god, approached through the fathers at the sacred fire.
+
+- **OtjiHimba language** (*OtjiHimba*) — A dialect of OtjiHerero with minor lexical and phonological divergences, sharing Bantu noun-class prefixes and agglutinative verb morphology.
+- **High god** (*Mukuru*) — The ancestral high god approached through mediation of the fathers at the sacred fire.
+- **Ancestral fathers** (*ovakuru*) — The deceased fathers of the lineage who are addressed at the okuruwo.
+
+## Glossary
+
+- *OtjiHimba* — The Himba language, a dialect of OtjiHerero
+- *otjize* — Cosmetic paste of butterfat and red ochre, also the daily practice of applying it
+- *okuruwo* — The sacred ancestral fire that mediates between the living and ancestors
+- *ohumba* — Conus or conch shell, a prestigious trade good and ornament
+- *erembe* — Pointed hide headdress worn by married women
+- *ekori* — Three-pointed hide crown worn by girls of marriageable age
+- *ohorokweva* — Pleated goatskin miniskirt worn by adult women
+- *onganda* — Himba homestead, a cluster of huts arranged around the fire and kraal
+- *ondjuwo* — Individual conical mud-and-dung hut
+- *ohambo* — Cattle kraal or thornbush enclosure
+- *ondjupa* — Dried gourd used for storage and serving of liquids
+- *ondumbo* — Carved wooden headrest
+- *ondjeva* — Iron and copper beads worn as jewelry
+- *omohanga* — Heavy coiled iron wire worn around the ankles
+- *omitandu* — Praise songs addressing ancestors and cattle
+- *ondjongo* — Circle dance with women clapping and singing
+- *outjina* — Courtship dance performed at weddings and gatherings
+- *omaere* — Sour milk, a staple food product
+- *oruhere ruomaere* — Millet or maize-meal porridge eaten with sour milk
+- *oruzo* — Patrilineal clan transmitting sacred-fire duties
+- *eanda* — Matrilineal clan transmitting cattle inheritance
+- *Mukuru* — The ancestral high god
+- *ovakuru* — Ancestral fathers of the lineage
 
 ## Sources & further reading
 
 - Wikipedia: "Himba people", "Herero people", "Kaokoland", "OtjiHerero language", "Otjize".
-- Jacobsohn, Margaret. *Himba: Nomads of Namibia*. Struik, 1990.
-- Bollig, Michael. *Risk Management in a Hazardous Environment: A Comparative Study of Two Pastoral Societies* (Himba and Pokot). Springer, 2006.
-- Crandall, David P. *The Place of Stunted Ironwood Trees: A Year in the Lives of the Cattle-Herding Himba of Namibia*. Continuum, 2000.
-- Malan, J. S. *Peoples of Namibia*. Rhino Publishers, 1995.
+- Jacobsohn, Margaret. Himba: Nomads of Namibia. Struik, 1990.
+- Bollig, Michael. Risk Management in a Hazardous Environment: A Comparative Study of Two Pastoral Societies (Himba and Pokot). Springer, 2006.
+- Crandall, David P. The Place of Stunted Ironwood Trees: A Year in the Lives of the Cattle-Herding Himba of Namibia. Continuum, 2000.
+- Malan, J. S. Peoples of Namibia. Rhino Publishers, 1995.
 - UNESCO Intangible Cultural Heritage Lists — Namibia country page (for regional context; no Himba-specific inscription at the time of writing).
 - Namibian National Museum / Museums Association of Namibia, ethnographic collections on Kunene material culture.
+

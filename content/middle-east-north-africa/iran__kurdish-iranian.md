@@ -5,73 +5,157 @@ region: "Middle East North Africa"
 tags: [ethnography, middle-east-north-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Kurds, an Iranian-speaking people |
+| Where | Northwestern Zagros highlands of Iran, chiefly Kurdistan, Kermanshah, West Azerbaijan, and Ilam provinces |
+| How many | 8 to 12 million, the third-largest ethnic group in Iran |
+| Language | Northwestern Iranian: Sorani (Central Kurdish), Kurmanji (Northern Kurdish), and archaic Hewrami |
+| Religion | Majority Sunni Muslim (Shafi'i school); also Shia, Yarsan (Ahl-e Haqq), and small Jewish and Christian communities |
+| Known for | fine knotted carpets (Senneh, Bijar, Jaff rugs) · distinctive men's costume of baggy trousers and short jacket · terraced stone villages (Hawraman) · epic sung poetry (Mem u Zin) · circle dance (govend) |
+
 ## Overview
 
-The Kurds (*Kurd*, collective *Kurdan*) of Iran are an Iranian-speaking people of the northwestern Zagros highlands, forming the eastern arm of a wider Kurdish population that stretches across southeastern Turkey, northern Iraq, and northern Syria. In Iran they are concentrated in the provinces of Kurdistan (with its capital Sanandaj, historically *Sine*), Kermanshah, West Azerbaijan (around Mahabad, historically *Sauj Bulagh*), and Ilam, with substantial diaspora communities of Khorasani Kurds resettled to the northeast under the Safavids in the sixteenth and seventeenth centuries. Estimates of the Iranian Kurdish population range from roughly 8 to 12 million, making them the third-largest ethnic group in the country. Their language belongs to the Northwestern Iranian branch and is internally diverse: *Sorani* (Central Kurdish) predominates around Sanandaj and Mahabad, *Kurmanji* (Northern Kurdish) is spoken by Khorasani Kurds and along the Turkish border, and the archaic Gorani-related *Hewrami* survives in the Hawraman valleys straddling the Iran–Iraq frontier — the last recognised by UNESCO in 2019 as part of the *Uramanat* cultural landscape. Culturally the Iranian Kurds matter as heirs of one of the great weaving traditions of the Persianate world: the *Senneh* fine-knotted rugs of Sanandaj, the massively constructed *Bijar* carpets of the Garrus district, and the tribal *Jaff* and *Kolyayi* pile weaves are all attributed to Kurdish workshops and encampments, alongside the terraced stone architecture of Hawraman and a distinctive men's costume of baggy trousers, cummerbund, and short jacket that has become the visual shorthand of Kurdish identity across the region.
+The Iranian Kurds are an ancient Iranian people of the northwestern highlands, heirs to one of the great weaving traditions of the Persianate world. Their culture spans a spectrum from urban workshops in cities like Sanandaj to fully nomadic pastoral tribes. They maintain one of the Middle East's most consistent folk costumes and a rich repertoire of music, dance, oral literature, and regional foodways. Religiously diverse, they are united by a shared language family and a distinctive material and performative culture that has become a visual and cultural shorthand for Kurdish identity across the wider region.
 
 ## Material culture
 
+Kurdish material culture ranges from fine urban carpets and metalwork to robust pastoral textiles and wooden objects, all marked by bold geometry, strong colour, and functional beauty.
+
 ### Textile & pattern traditions
 
-The Iranian Kurdish textile repertoire divides into knotted pile carpets, flatweaves, and felt, produced across a spectrum from urban workshop to fully tribal.
+Iranian Kurds are master weavers, producing some of the world's finest knotted carpets alongside flatweaves, felts, and striped blankets.
 
-**Senneh carpet** (*farsh-e Sine*) — the fine knotted rugs of Sanandaj, historically single-wefted with the Persian (asymmetric) knot on a cotton foundation, remarkable for a thin, taut handle and for *herati* and *boteh* fields that are more closely related to urban Persian design than to tribal Kurdish weaving. The town also produces silk-warped prayer rugs (*sajjada*).
-
-**Bijar carpet** — from the Garrus district east of Sanandaj, woven by settled Kurds using a heavy double-wefted structure with the wet wefts compacted so hard that the finished carpet is famously stiff and durable, earning it the trade name "the iron rug of Persia." Fields are commonly a medallion-and-corner *lachak-torunj* or an allover *herati*, in madder red and indigo.
-
-**Kolyayi rug** — coarser village pile weaves from the Kolyai plain south of Bijar, in strong geometric medallions.
-
-**Jaff rug** — the pile weaves of the Jaff (*Jāf*) confederation, straddling the Iran–Iraq border, typically small format with an allover field of concentric hooked lozenges (*chichi bota*) in madder, indigo and undyed ivory wool.
-
-**Sauj Bulagh rug** — an early tribal Kurdish pile tradition from around Mahabad, now largely historical, with archaic Caucasian-inflected medallions and much-imitated ivory grounds.
-
-**Kilim / *gelim*** — slit-tapestry flatweaves in bold banded and diamond compositions, used as floor covers, tent dividers and dowry pieces.
-
-**Jajim** — narrow warp-faced striped flatweaves sewn edge to edge into blankets and bedding covers, in restrained palettes of madder, indigo, cream and brown.
-
-**Kurdish felt** (*nemed*) — pressed and rolled wool felt, in some communities decorated with inlaid coloured wool patterns, made into shepherds' cloaks (*kolabalān*), prayer mats, and floor pads.
-
-**Motif vocabulary.** *Boteh* (paisley, seed), *herati* (rosette-and-fish lattice), *chichi bota* (hooked lozenge of the Jaff), *toranj* (medallion), *sardar* (running-dog border), *aghaj* (tree of life), *ashk* (teardrop), *seh gol* (three-flower), *chapiras* (S-motif), and protective triangular *tumar* amulet forms scattered through borders.
+- **Senneh carpet** (*farsh-e Sine*) — Fine knotted rugs from Sanandaj with a thin, taut handle, Persian knots, and patterns like herati and boteh that draw from urban Persian design.
+- **Bijar carpet** — Massively constructed rugs from the Garrus district using double-wefted wool compacted so hard they are called 'the iron rug of Persia' and are famously durable.
+- **Jaff rug** (*Jāf*) — Small pile weaves from the Jaff confederation straddling the Iran–Iraq border, featuring an allover field of concentric hooked lozenges in madder, indigo and ivory.
+- **Kilim** (*gelim*) — Slit-tapestry flatweaves in bold banded and diamond compositions, used as floor covers, tent dividers, and dowry pieces.
+- **Kurdish felt** (*nemed*) — Pressed and rolled wool felt, sometimes decorated with inlaid coloured wool patterns, made into shepherds' cloaks, prayer mats, and floor pads.
 
 ### Clothing & dress
 
-Kurdish dress is one of the most consistently maintained folk costumes of the Middle East and is worn ceremonially and, in many rural districts, still daily. The signature men's ensemble is *shal u shapik* (also *rank u chokha*): very wide, tapered trousers (*shalvar* or *rank*) gathered at the waist under a long woven cummerbund (*pshten* or *qamarband*) wound many times around the middle, a collarless shirt, and a short jacket (*chokha* or *chukha*) of the same fabric as the trousers, historically in undyed brown or grey twill and now often in fine wool. A conical or wound turban of fringed cloth (*jamadani*, *desmal*) is knotted around a felt cap; men of the Hawraman valleys tie theirs so that the black-and-white fringes fan around the face, a look codified as *Hewrami costume*. Feet are shod in *klash* (also *giveh* in western Iran) — the white cotton-topped shoe with a hand-plaited sole traditionally of compressed rag or twisted cotton, made in workshops in Hawraman, Marivan and Kermanshah and lately inscribed in UNESCO discussions of Uramanat craft. Women's dress centres on a long, wide-sleeved dress (*kras*) worn over trousers, with a short embroidered waistcoat (*sukhma* or *kolija*), a sash, and a headscarf pinned with coin ornaments (*klaw u desmal*); Sorani-speaking women in Sanandaj and Mahabad favour brilliantly coloured shot silks and sequinned tulles for the bridal *kras*, while Hawrami women wear a more sombre layered ensemble with a distinctive black headcloth.
+Kurdish dress is one of the most consistently maintained folk costumes of the Middle East, with a signature men's ensemble of wide trousers, cummerbund, and short jacket.
+
+- **Shalvar and chokha** (*shal u shapik, rank u chokha*) — The men's signature ensemble: very wide tapered trousers gathered at the waist under a long woven cummerbund, a collarless shirt, and a short jacket, historically in undyed brown or grey twill.
+- **Hewrami turban** (*jamadani, desmal*) — A wound cloth turban knotted around a felt cap, with black-and-white fringes fanning around the face in the distinctive Hawraman valleys style.
+- **Klash shoe** (*giveh*) — White cotton-topped shoe with a hand-plaited sole traditionally of compressed rag or twisted cotton, made in Hawraman, Marivan and Kermanshah workshops.
+- **Women's dress** (*kras*) — A long, wide-sleeved dress worn over trousers with a short embroidered waistcoat, sash, and headscarf pinned with coin ornaments; bridal versions in silk and sequinned tulle.
+- **Bridal ensemble** (*kras*) — Sorani women favour brilliantly coloured shot silks and sequinned tulles for the wedding dress, while Hawrami women wear a more sombre layered ensemble with a distinctive black headcloth.
 
 ### Architecture
 
-The signature Iranian Kurdish architecture is the stepped stone village of Hawraman (Uramanat), where dry-laid schist houses climb the steep valley walls so that each roof serves as the courtyard of the house above — a form recognised in the 2021 UNESCO World Heritage inscription of the "Cultural Landscape of Hawraman/Uramanat." Walls are of undressed stone laid without mortar or set in mud, roofs are flat and beaten earth over poplar beams, and the front room opens onto a covered veranda (*eyvan*) overlooking the terraced orchards of walnut, mulberry and pomegranate below. Elsewhere in Kurdistan Province village houses are of mudbrick and stone with domed or vaulted roofs of the wider Zagros type. Urban Kurdish houses in Sanandaj follow the Persianate courtyard model, with a garden (*bagh*), a pool, and rooms of carved stucco and coloured *orsi* sash windows — the eighteenth-century Asef Vaziri (Kurdish House) mansion is the surviving canonical example. The transhumant Jaff, Herki and Shikak groups historically summered in black goat-hair tents (*kon* or *khema*) on the high pastures, structurally similar to the tents of neighbouring Arab and Turkic pastoralists but distinctively partitioned inside by hung kilims and *mafrash* storage bags.
+The signature Iranian Kurdish architecture is the stepped stone village of Hawraman, where dry-laid schist houses climb steep valley walls with each roof serving as the courtyard of the house above.
+
+- **Hawraman village** (*Uramanat*) — Terraced schist houses built on steep slopes so that roofs serve as courtyards, with flat beaten-earth roofs over poplar beams and front rooms opening onto covered verandas overlooking orchards.
+- **Kurmanji house** (*eyvan*) — Village houses of mudbrick and stone with domed or vaulted roofs, featuring a covered veranda overlooking gardens of walnut, mulberry and pomegranate.
+- **Urban courtyard house** (*bagh*) — Persianate urban houses in Sanandaj with a garden and pool, decorated with carved stucco and coloured sash windows, exemplified by the eighteenth-century Asef Vaziri mansion.
+- **Pastoral tent** (*kon, khema*) — Black goat-hair tents used by transhumant Jaff, Herki and Shikak groups on high summer pastures, partitioned inside by hung kilims and mafrash storage bags.
 
 ### Ceramics, metalwork & everyday objects
 
-The Iranian Kurds are not, on the whole, a major glazed-ceramic tradition — everyday pottery is the plain earthenware of the wider Zagros — but their metalwork, leather and wood traditions are strong. **Kurdish silverwork** flourishes in Sanandaj and formerly in Mahabad, producing filigree and niello belts, dagger fittings, and the coin-fringed head ornaments worn by women. Sanandaj is also known for engraved and chased copper trays and long-spouted ewers, and for inlaid *khatam* woodwork adapted from Isfahan practice. The pastoral repertoire is rich in woven and stitched textile-objects: the double saddlebag *khorjin* (a **Kurdish saddlebag** typically with pile faces and a flatwoven back) for carrying goods on horse or donkey; the large rectangular *mafrash* bedding-and-storage bag, woven in kilim or *sumak* technique and closed at the top, used to pack a household onto pack animals during transhumance; salt bags (*namakdan*) with narrow necks; and the **Kurdish cradle cover**, a small embroidered or pile-woven textile laid over the wooden cradle (*lānik*) to protect the infant from sun, insects and the evil eye, often carrying amuletic triangles and hand motifs.
+Kurdish metalwork, leather and wood traditions are strong, with silver filigree work and engraved copper from Sanandaj and a rich pastoral repertoire of woven and stitched objects.
+
+- **Kurdish silverwork** — Filigree and niello belts, dagger fittings, and coin-fringed head ornaments produced in Sanandaj and formerly Mahabad for women's jewellery and adornment.
+- **Engraved copper** — Trays and long-spouted ewers with engraved and chased designs, made in Sanandaj for household and ceremonial use.
+- **Kurdish saddlebag** (*khorjin*) — A double saddlebag for carrying goods on horse or donkey, typically with pile faces and a flatwoven back.
+- **Mafrash** — A large rectangular bedding-and-storage bag woven in kilim or sumak technique, used to pack a household onto pack animals during transhumance.
+- **Kurdish cradle cover** (*lānik*) — A small embroidered or pile-woven textile laid over the wooden cradle to protect the infant from sun, insects and the evil eye, often carrying amuletic triangles and hand motifs.
 
 ### Jewelry & body adornment
 
-Kurdish women's jewellery is silver-heavy and coin-heavy, worn in visible layers as both dowry-wealth and amulet. Characteristic pieces include the *melwanke* or coin necklace of Ottoman, Qajar and Maria Theresa thalers strung on braided cord; heavy hollow silver bracelets (*bazin*) with granulation and niello; large filigree pendants and *tumar* amulet cases containing a folded Quranic verse or a Yarsani prayer; and the *klaw* headpiece — a small cap covered in overlapping silver discs and coin fringes, worn under or over the headscarf for weddings. Men in some tribes carried a curved dagger (*qama*) in a silver-mounted sheath at the front of the sash. Henna (*hena*) is applied to the bride's hands on the night before the wedding at a gathering that in Sorani-speaking areas is called *shew-i hena*. Long braided hair, often reaching the waist and bound with silver-tipped cords, remains the traditional marker for women.
+Kurdish women's jewellery is silver-heavy and coin-heavy, worn in visible layers as both dowry-wealth and protection amulet.
+
+- **Coin necklace** (*melwanke*) — Ottoman, Qajar and Maria Theresa thalers strung on braided cord, worn as visible wealth and amulet.
+- **Silver bracelet** (*bazin*) — Heavy hollow silver bracelets with granulation and niello decoration, worn as signs of wealth and protection.
+- **Amulet case** (*tumar*) — Large filigree pendants and tumar amulet cases containing a folded Quranic verse or Yarsani prayer, worn for spiritual protection.
+- **Headpiece** (*klaw*) — A small cap covered in overlapping silver discs and coin fringes, worn under or over the headscarf for weddings.
+- **Dagger** (*qama*) — A curved dagger carried by men in some tribes in a silver-mounted sheath at the front of the sash.
 
 ## Music & performance
 
-Kurdish music in Iran is stylistically distinct from surrounding Persian *radif* traditions, preserving a modal and rhythmic vocabulary shared across the Kurdish-speaking area. The core vocal genres are the *beyt* or *bayt*, long narrative sung poems performed by a solo singer (*bêjî* or *bêtbêj*) recounting epic and love stories such as *Mem u Zin* and *Las u Khazal*; the *heyran* and *lawuk*, lyrical unaccompanied songs; and the *siyachamane* of the Hawraman valleys, a high-tessitura mountain-song form. Ritual music of the Yarsan (Ahl-e Haqq) community of Kermanshah and Guran centres on the sacred long-necked lute *tanbur* (*tembûr*), played to accompany the sung *kalam* hymns of the community — a repertoire recognised in Iranian national heritage listings and studied internationally as one of the oldest continuously transmitted devotional lute traditions of the region. Secular instruments include the long flute *shimshal* and the shorter *bilûr*, the double-reed *duzale* or *dozaleh* (paired reed pipes played with circulating breath), the shawm *sorna* or *zurna* paired with the large kettledrum *dahol* for outdoor wedding and dance music, the frame drum *daf* — used both in Sufi *dhikr* of the Qadiri and Naqshbandi orders around Sanandaj and Mahabad and, in a virtuoso concert form, by contemporary Kurdish ensembles — and the goblet drum *tonbak* borrowed from wider Iranian practice. The *daf* traditions of Iranian Kurdistan have been proposed for UNESCO inscription and are widely documented as a living Sufi practice.
+Kurdish music preserves a modal and rhythmic vocabulary distinct from Persian traditions, centred on sung epics and accompanied by a distinctive lute and drums.
+
+- **Epic sung poetry** (*beyt, bayt*) — Long narrative sung poems performed by a solo singer recounting epic and love stories such as Mem u Zin and Las u Khazal.
+- **Sacred lute** (*tanbur, tembûr*) — A long-necked lute played by the Yarsan community to accompany sung kalam hymns, recognised as one of the oldest continuously transmitted devotional lute traditions.
+- **Mountain song** (*siyachamane*) — A high-tessitura song form from the Hawraman valleys, performed unaccompanied in a strict modal style.
+- **Frame drum** (*daf*) — A frame drum used in Sufi dhikr ceremonies and, in virtuoso concert form, by contemporary Kurdish ensembles.
+- **Shawm and drum** (*sorna, zurna, dahol*) — A shawm paired with a large kettledrum for outdoor wedding and dance music, played to accompany govend dancing.
 
 ## Dance & theatre
 
-The signature Kurdish dance is *govend* (Sorani *helperke*, Kurmanji *govend*), a line or open-circle dance in which dancers link little fingers or hold shoulders and move with a characteristic shoulder-shimmy and stamping footwork, led by a *sergovend* who waves a coloured cloth. Dozens of named regional variants exist — *çepî*, *sêpê*, *do pê*, *khanmirza*, *fatah pasha* — each with its own metre and step pattern, and virtually every wedding, Newroz gathering, and political rally is punctuated by a govend to *sorna-o-dahol*. Formal theatre in a Western sense is a twentieth-century development centred on Sanandaj and Mahabad, but the older tradition of the *beytbêj* — the epic reciter who half-sings, half-declaims the long narrative poems in a coffee-house or a wedding tent — functions as a one-man theatrical form. Sufi *sama* gatherings of the Qadiri lodges around Sanandaj and the border villages, in which men rhythmically play the *daf* and pierce themselves with skewers under the shaykh's supervision, are also performative in structure though strictly devotional in intent.
+The signature Kurdish dance is govend, a line or open-circle dance with a characteristic shoulder-shimmy and stamping footwork, with dozens of named regional variants.
+
+- **Circle dance** (*govend, helperke, helperke*) — A line or open-circle dance in which dancers link little fingers or hold shoulders and move with a characteristic shoulder-shimmy and stamping footwork, led by a sergovend waving cloth.
+- **Dance variants** (*çepî, sêpê, do pê, khanmirza, fatah pasha*) — Dozens of named regional govend variants, each with its own metre and step pattern, performed at weddings and Newroz gatherings.
+- **Epic reciter** (*beytbêj*) — A one-man theatrical performer who half-sings, half-declaims long narrative poems in a coffee-house or wedding tent.
+- **Sufi gathering** (*sama*) — Qadiri lodge gatherings in which men rhythmically play the daf and pierce themselves with skewers under the shaykh's supervision, devotional in intent but performative in structure.
 
 ## Festivals & rituals
 
-The paramount Kurdish festival is *Newroz* (*Newroz-e Kurdî*), the Iranian New Year of the March equinox, observed in Kurdistan with fires lit on hilltops, torch-lit processions, and open-air *govend* dances — the fire holding a particularly strong political and identity-laden charge in the Kurdish reading of the Kaveh-the-blacksmith myth. The wider Iranian calendar of *Chaharshanbe Suri* (fire-jumping on the last Wednesday of the year), *Sizdah Be-dar* (the thirteenth-day picnic), and *Yalda* (winter solstice) is also observed. Sunni Kurds keep the two *Eid* festivals with distinctive village visiting rounds; Shia Kurds of Kermanshah observe *Muharram* with *ta'zieh* passion plays inflected by local practice; the Yarsan community keeps its own calendar of *jam* assemblies, the winter fast of *rojî Xawenkar*, and a spring festival tied to the shrine complexes of Guran. Weddings (*dawet*) are three-day events with a *hena* night, a bride's procession, and continuous *sorna-o-dahol* accompaniment for dancing; birth is marked by a naming ceremony (*navlêkirin*) and the amuletic covering of the cradle.
+The paramount Kurdish festival is Newroz at the March equinox, observed with hilltop fires and circle dances; the wider Iranian calendar and community-specific observances also hold.
+
+- **Newroz** (*Newroz-e Kurdî*) — The Iranian New Year at the March equinox, observed in Kurdistan with fires lit on hilltops, torch-lit processions, and open-air govend dances.
+- **Wedding** (*dawet*) — A three-day event with a hena night, bride's procession, and continuous sorna-o-dahol music for dancing.
+- **Henna night** (*shew-i hena*) — A gathering on the night before the wedding in Sorani-speaking areas where henna is applied to the bride's hands.
+- **Naming ceremony** (*navlêkirin*) — A birth ritual marking the infant's name, accompanied by amuletic covering of the cradle for protection.
+- **Yarsan assembly** (*jam*) — Sacred assemblies held by the Yarsan community according to its own calendar, including a winter fast and spring festivals at shrine complexes.
 
 ## Foodways
 
-Iranian Kurdish cuisine sits within the wider western-Iranian and Mesopotamian food world but has its own regional signatures. Wheat and rice are the staples: flatbread is baked as *nan-e tiri* on a metal dome or as thin *lavash*, and the celebration rice dish *biryan-i Kurdî* of Sanandaj is layered with fried onion, spices and lamb. Stuffed dumpling and pastry forms include *kufte Kurdi* — a very large rice-and-bulgur ball stuffed with spiced meat, walnuts and dried barberries, poached in broth — and *shefta*, a herbed lamb patty. Whey and dairy are central: *kashk*, dried strained yogurt, is reconstituted into soups such as *ash-e kashk*, and *doogh* is drunk with meals. Wild mountain herbs — *chevil*, *khalvash*, *reyvās* (rhubarb) — flavour spring stews, and walnuts, sumac, pomegranate molasses and dried fruit dominate the sour-sweet palette. Hawrami villages preserve *torshi* pickles and long-cured mountain cheeses in skins. Tea (*chay*) drunk from a waisted glass with sugar cubes held between the teeth punctuates the day, and coffee is the traditional welcome in tribal contexts.
+Iranian Kurdish cuisine sits within the wider western-Iranian and Mesopotamian food world but has its own regional signatures of rice, wheat, dairy, wild herbs, and sour-sweet spices.
+
+- **Celebration rice dish** (*biryan-i Kurdî*) — A layered dish from Sanandaj with fried onion, spices and lamb, served as the festive rice of the Kurdish celebration meal.
+- **Stuffed rice and bulgur ball** (*kufte Kurdi*) — A very large ball of rice and bulgur stuffed with spiced meat, walnuts and dried barberries, poached in broth.
+- **Herbed meat patty** (*shefta*) — A herbed lamb patty, a common dish across Kurdish communities.
+- **Dried yogurt soup** (*ash-e kashk*) — A soup made from kashk, dried strained yogurt reconstituted with water, flavoured with wild mountain herbs and spices.
+- **Mountain cheese** (*torshi*) — Long-cured mountain cheeses preserved in skins in Hawrami villages, kept alongside pickled vegetables and condiments.
 
 ## Oral tradition & literature
 
-The Kurdish oral repertoire is dominated by the long sung epic, chief among them *Mem u Zin*, the seventeenth-century verse romance by Ehmedê Xanî which functions as a de facto national epic; *Las u Khazal*, *Khej u Siyabend*, and the *Dimdim* cycle celebrating a seventeenth-century Kurdish resistance against Shah Abbas. These are transmitted by the *dengbêj* (Kurmanji) and *beytbêj* (Sorani) — memory-singers who perform unaccompanied in a strict modal style. Iranian Kurdish written literature is centred on the *Ardalan* court of Sanandaj, which patronised Gorani-language poetry from the seventeenth century (Mestûre Ardalan, Mele Perîşan), and on the classical Hewrami sacred poetry of the Yarsan community, whose foundational *Perdiwari* and *Saranjam* texts are among the oldest surviving Kurdish-language religious writings. In the twentieth century Sanandaj and Mahabad produced modern novelists, poets (Hêmin, Hejar, Sherko Bekas — the latter based in Iraq but widely read across the border) and a robust journalistic tradition in Sorani.
+The Kurdish oral repertoire is dominated by long sung epics, with a strong written tradition of poetry and sacred texts, especially in Sanandaj and among the Yarsan.
+
+- **National epic** (*Mem u Zin*) — A seventeenth-century verse romance by Ehmedê Xanì that functions as the de facto Kurdish national epic, transmitted by memory-singers.
+- **Resistance cycle** (*Dimdim*) — A cycle of epic poetry celebrating seventeenth-century Kurdish resistance against Shah Abbas, part of the sung repertoire.
+- **Memory-singer** (*dengbêj, beytbêj*) — A performer who transmits unaccompanied long epic poems in a strict modal style, preserving the oral literary tradition.
+- **Sacred text** (*Perdiwari, Saranjam*) — Foundational Yarsan religious writings in Hewrami, among the oldest surviving Kurdish-language religious texts.
+- **Modern literature** — Twentieth-century novelists, poets and journalists from Sanandaj and Mahabad working in Sorani, including Hêmin, Hejar, and Sherko Bekas.
 
 ## Language & religion
 
-Iranian Kurds speak three principal varieties of the Kurdish continuum — *Sorani* around Sanandaj, Mahabad and Kermanshah's Kurdish-speaking north; *Kurmanji* among Khorasani Kurds and along the northern border; and the archaic *Hewrami* (Gorani) of the Hawraman valleys and among the Yarsan — plus Southern Kurdish (*Kelhurî*, *Laki*) in Ilam and southern Kermanshah. Sorani is written in a modified Arabic-Persian script. Religiously the Iranian Kurds are more diverse than any other Kurdish population: the majority are Sunni Muslims of the Shafi'i school (distinguishing them from Shia-majority Iran), with a strong presence of the Qadiri and Naqshbandi Sufi orders whose *tekiye* lodges around Sanandaj sustain the *daf*-driven *dhikr*; a substantial Shia Kurdish population in southern Kermanshah and Ilam; the *Yarsan* (*Ahl-e Haqq*) esoteric religion, centred on Guran and the shrine of Sultan Sahak, with its own *tanbur*-accompanied hymnody and sacred texts in Hewrami; and small remnant communities of Kurdish Jews (largely emigrated to Israel after 1950) and, historically, Kurdish-speaking Christians in the northwest.
+Iranian Kurds speak three principal Kurdish dialects and are religiously more diverse than any other Kurdish population, with Sunni, Shia, and esoteric communities.
+
+- **Sorani** — Central Kurdish spoken around Sanandaj, Mahabad and Kermanshah, written in a modified Arabic-Persian script.
+- **Kurmanji** — Northern Kurdish spoken among Khorasani Kurds and along the Turkish border, part of the wider Kurdish linguistic continuum.
+- **Hewrami** (*Gorani*) — An archaic Gorani-related dialect spoken in the Hawraman valleys and among the Yarsan, recognised by UNESCO in 2019 as part of the Uramanat cultural landscape.
+- **Sunni Sufi orders** (*Qadiri, Naqshbandi*) — The majority Sunni Muslim population also has a strong presence of Sufi orders whose tekiye lodges around Sanandaj sustain the daf-driven dhikr ritual.
+- **Esoteric religion** (*Yarsan, Ahl-e Haqq*) — An esoteric religion centred on Guran and the shrine of Sultan Sahak, with its own tanbur-accompanied hymnody and sacred texts in Hewrami.
+
+## Glossary
+
+- *farsh-e Sine* — Senneh carpet, fine knotted rug from Sanandaj
+- *herati* — Rosette-and-fish lattice pattern used in rugs and textiles
+- *boteh* — Paisley or seed pattern motif in rugs
+- *shal u shapik* — Men's signature ensemble of wide trousers and short jacket
+- *chokha* — Short jacket, part of traditional men's dress
+- *kras* — Long, wide-sleeved woman's dress
+- *govend* — Line or circle dance with shoulder-shimmy and stamping footwork
+- *sorna* — Shawm or reed pipe used in wedding and dance music
+- *dahol* — Large kettledrum paired with sorna for outdoor music
+- *tanbur* — Sacred long-necked lute of the Yarsan community
+- *daf* — Frame drum used in Sufi ritual and concert performance
+- *khorjin* — Double saddlebag with pile faces for carrying goods on pack animals
+- *mafrash* — Large rectangular bedding-and-storage bag used during transhumance
+- *kashk* — Dried strained yogurt used in soups and sauces
+- *klaw* — Small cap covered in silver discs and coin fringes worn for weddings
+- *tumar* — Amulet case containing a Quranic verse or prayer
+- *Newroz* — Kurdish New Year festival at the March equinox
+- *beyt* — Long narrative sung epic poem
+- *beytbêj* — Epic reciter or memory-singer who performs narrative poems
+- *sama* — Sufi gathering with rhythmic daf playing and devotional ritual
+- *Yarsan* — Esoteric Kurdish religion also called Ahl-e Haqq
+- *kilim* — Slit-tapestry flatweave used as floor cover and dowry piece
+- *nemed* — Pressed and rolled wool felt used for cloaks and prayer mats
 
 ## Sources & further reading
 
@@ -85,3 +169,4 @@ Iranian Kurds speak three principal varieties of the Kurdish continuum — *Sora
 - Housego, Jenny. *Tribal Rugs* (Scorpion, 1978), chapters on Kurdish weavings.
 - Tapper, Richard, ed. *The Conflict of Tribe and State in Iran and Afghanistan* (Croom Helm, 1983).
 - During, Jean. *The Spirit of Sounds: The Unique Art of Ostad Elahi* — on the Yarsan tanbur tradition.
+

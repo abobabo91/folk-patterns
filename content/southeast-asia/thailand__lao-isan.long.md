@@ -1,0 +1,87 @@
+---
+title: "Lao Isan"
+subtitle: "Thailand"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Lao Isan (*khon isan*, คนอีสาน) are the ethnic Lao majority of Northeastern Thailand, numbering roughly 22 million across the twenty provinces of the Khorat Plateau — a broad, sandstone-floored basin bounded by the Phetchabun and Dong Phraya Yen ranges to the west, the Phanom Dong Rak escarpment to the south, and the Mekong River to the north and east. They speak *Isan*, a cluster of Lao dialects belonging to the Southwestern Tai branch of the Tai-Kadai family, and they descend in large part from ethnic Lao populations forcibly resettled westward across the Mekong after the failed 1826 Lao Rebellion against Siam. Isan matters in folk-culture terms because it preserves — often more continuously than the Lao PDR itself — the weaving grammars, *mor lam* singing traditions, wet-rice ritual calendar, and stilted-house architecture of the pre-modern Lao world, even as those elements have been rebranded under a Thai regional identity.
+
+## Material culture
+
+### Textile & pattern traditions
+
+Isan is one of the densest weaving regions in mainland Southeast Asia; nearly every subdistrict has a distinct loom vocabulary, and skirt cloth (*sinh*) and ceremonial shoulder cloth (*pha biang*) remain the primary vehicles for pattern.
+
+**Mudmee Isan** (*mat mi*, มัดหมี่) — a warp-and-weft resist-dye tradition in which weft threads are tied off in bundles before dyeing, then aligned on the loom to build up figurative and geometric motifs. Isan *mat mi* is typically silk, dyed indigo or with lac and ebony pod for browns and blacks, and is more figural (elephants, *naga*, ancestral spirit figures) than the more strictly geometric *mat mi* of Cambodia or the Cham.
+
+**Praewa** (*phrae wa*, แพรวา) — the shoulder cloth of the **Phu Thai** people of Kalasin province, a supplementary-weft (*khit* and *chok*) silk brocade traditionally about a *wa* (arm-span) long, densely patterned in red grounds with tiny geometric motifs; often called the "queen of Isan silks" since Queen Sirikit's 1970s promotion of the craft.
+
+**Sinh Isan** — the tubular wrap skirt worn by Isan women, structurally divided into waistband (*hua sinh*), body (*tua sinh*), and hem panel (*tin sinh*). Isan versions often combine a *mat mi* body with a horizontally striped hem, in contrast to the continuous vertical patterning common in Luang Prabang sinh.
+
+**Pha khao ma** (ผ้าขาวม้า) — the checked cotton multi-purpose cloth worn by men as a waist wrap, sash, towel, and sling; typically red-and-white or blue-and-white plaid, plain weave.
+
+**Khit** (ขิด) — a discontinuous supplementary-weft technique used for pillow ends (*mon khit*), monk's cloths, and skirt hems, producing raised, tapestry-like geometric bands. Ban Nong Aor and Roi Et are noted *khit* centers.
+
+**Pha sin tin chok** — skirts with a separately woven, discontinuous-supplementary-weft hem panel; the *chok* panel is treated almost as a distinct textile and often stored separately.
+
+**Motif vocabulary.** *Nak* / *naga* (serpent, along skirt hems as protective boundary), *hong* (hamsa/goose), *chang* (elephant), *dok kaew* (glass flower rosette), *dok phikun* (bullet-wood flower diaper), *khan* (hooked lozenge, likely a stylized offering vessel), *ta lai* (small diamond eye), *phaya nak koet* (rearing naga), *dok phak waen* (fern-shoot spiral), *sri* (chevron rays).
+
+### Clothing & dress
+
+Everyday Isan dress has largely converted to Thai and Western clothing, but a distinctive festival costume persists. Women wear a silk or cotton *sinh* wrapped and tucked at the left hip, a fitted long-sleeved blouse (*suea*), and a *pha biang* draped diagonally across one shoulder in Buddhist-holiday and wedding contexts; Phu Thai women pair a black indigo-dyed *sinh* with the red-ground *praewa* shoulder cloth and heavy silver ornaments. Men's ceremonial dress consists of a collarless shirt (*suea kom*), loose *sabai*-style trousers or a *pha khao ma* wrapped as a *chong kraben*, and often a shoulder-slung *pha khao ma*. Monks wear ochre robes in the Thai Theravada Dhammayut and Mahanikaya patterns rather than the redder Lao tone. Elderly Isan women, especially in Ubon Ratchathani and Roi Et, still chew betel and carry a lidded silver or lacquered box; blackened teeth from lifelong betel use, once a beauty marker, are now rare. Footwear is modern; rice-farming dress remains a knee-length *sinh* hitched up with a *pha khao ma* belt and a broad palm-leaf sunhat (*ngob*).
+
+### Architecture
+
+The traditional Isan house (*heuan Isan*, เฮือนอีสาน) is a wooden pile dwelling raised two to three metres off the ground on hardwood posts, with a steep gable roof clad historically in split *khaem* palm thatch and today in corrugated iron or terracotta tile. The plan divides into a main sleeping room (*heuan yai*), a smaller room (*heuan noi*) reserved for unmarried daughters, an open verandah (*chan* or *toem*), and a covered granary (*lao khao*) that is often a separate structure on its own posts. Walls are planked hardwood or, in older examples, woven bamboo. A characteristic feature is the *ho phi*, a small spirit-house shelf inside the main room for ancestral spirits, distinct from the outdoor *san phra phum* shrine. Wat compounds preserve the more monumental idiom: the *sim* (ordination hall) in Isan is smaller and squatter than the Central Thai *ubosot*, often with a broad forward-projecting porch, low tiled roofs stacked in three tiers, and — in older examples in Khon Kaen and Nakhon Phanom — exterior mural paintings (*hup taem*) of Jataka tales and local life. The That Phanom stupa in Nakhon Phanom, a Lao-style corncob-form chedi, is the region's paramount Buddhist monument.
+
+### Ceramics, metalwork & everyday objects
+
+Isan's most famous ceramic tradition is **Ban Chiang** red-on-buff painted pottery of the Bronze Age (c. 1500 BCE onward), whose spiraling motifs continue to be reproduced by potters in Udon Thani. Contemporary utilitarian wares include the *hai* — a large unglazed earthenware jar used for fermenting *pla ra* (salted fish paste) and *nam pla* — and the *mo din*, a rounded cooking pot. The *huat* (bamboo conical steamer) and *kong khao* (lidded lacquered bamboo basket) for sticky rice are near-universal household objects; the *kong khao* is often given as a wedding gift and passed down. Metalwork centers on silver: repoussé betel-box sets, belts (*khem khat*), and the heavy hollow neck rings and earplugs (*tum hu*) of the Phu Thai. Bronze *khaen* mouth-organ reeds and bronze temple bells are cast in villages around Roi Et. Wooden objects include the *kwian* ox-cart, once the region's primary transport, and carved *khan mak* offering trays for wedding processions.
+
+### Jewelry & body adornment
+
+Isan silver jewelry is heavier and less filigreed than Central Thai or Lao Luang Prabang work. Phu Thai women wear stacked silver neck rings, cylindrical silver earplugs pushed through distended lobes, and coin-fringed belts. Amulets (*phra khruang*) suspended on multi-strand cords are worn by both sexes, often housing miniature Buddha images or images of famous forest-tradition monks such as Ajahn Mun and Luang Pu Man. *Sak yant* — sacred yantra tattoos in Khom (a Khmer-derived) script and Pali syllables, applied by monks or specialist *ajarn* using a long steel needle — remain widespread among Isan men, protecting against blades, bullets, and malevolent spirits; common designs include the *hah taew* (five lines) and the *paet tit* (eight directions). Hair is worn long and coiled by older women, often pinned with a silver comb.
+
+## Music & performance
+
+The signature Isan instrument is the *khaen* (แคน), a free-reed mouth organ of paired bamboo pipes fitted with small bronze reeds and bound to a hardwood wind chest sealed with beeswax; it comes in several sizes (*khaen jet*, *khaen paet*, *khaen kao*) named for the number of pipe-pairs. It accompanies **mor lam** (*mo lam*, หมอลำ), the region's dominant vocal genre — a partly improvised, partly memorized sung poetry in rhymed Lao verse, performed by a *mor lam* singer trading verses with a *mor khaen* player. Sub-genres include *lam klon* (courting duet between male and female singers), *lam phuen* (long narrative ballads recounting Jataka tales or the *Sang Sinxay* epic), *lam sing* (an amplified, upbeat 1990s pop hybrid pioneered by Ratri Sriwilai and popularized nationally by Jintara Poonlarp), and *lam phi fa* (a shamanic healing form performed for the spirits). Other instruments include the *phin* (a plucked three-string long-necked lute), the *ponglang* (a vertical wooden xylophone characteristic of Kalasin), and the *sor Isan* (a two-string bowed lute). Contexts range from wedding processions and temple fairs (*ngan wat*) to funerary vigils, where *mor lam* singers may perform through the night. Overlapping with mor lam is the electric-guitar-driven country genre *luk thung Isan*, exemplified by singers like Pornsak Songsaeng and the late Phai Pongsathon.
+
+## Dance & theatre
+
+**Serng** (เซิ้ง) is the umbrella term for Isan group dances, performed at temple festivals and civic events, usually in a line or ring with a khaen and drum ensemble. Named variants include *serng krathip khao* (sticky-rice-basket dance), *serng katha* (bamboo-fish-trap dance), and *serng bang fai* (rocket-festival dance). *Fon Phu Thai* is the graceful, slow-tempo women's dance of the Phu Thai, with fingernail extensions and metronomic bell anklets. Ritual masked performance survives most vividly in the *Phi Ta Khon* (ผีตาโขน) festival of Dan Sai, Loei, where young men wear towering carved-wood-and-woven-bamboo masks painted in bright colors, topped with a rice-steamer crown, and parade with wooden phalluses as spirits welcoming the returning Bodhisattva Vessantara. Shadow puppetry survives in the *nang pramo thai* form of Southern Isan (Ubon Ratchathani, Roi Et), a small-scale cousin of Cambodian *sbek touch* using articulated leather figures behind a lit screen, with an accompanying *mor lam* narrator. Court dance in the Central Thai *khon* and *lakhon* idiom is performed in Isan cities but is not a native tradition.
+
+## Festivals & rituals
+
+The Isan ritual calendar is organized around the *Hit Sipsong Khong Sipsi* (ฮีตสิบสอง คองสิบสี่, "Twelve Traditions and Fourteen Customs"), a Lao Buddhist-agricultural cycle: **Bun Khao Kam** (post-rains monk retreat, January), **Bun Khun Lan** (rice-threshing merit, February), **Bun Khao Chi** (grilled-rice offering, March), **Bun Phawet** (recitation of the *Vessantara Jataka*, March–April), **Songkran / Bun Pi Mai** (Lao New Year water festival, April), **Bun Bang Fai** (rocket festival, May, at which enormous bamboo and PVC rockets are fired to prompt the rains — the Yasothon festival is the largest), **Bun Somha** (monastic confession, June), **Bun Khao Phansa** (start of Buddhist Lent, July), **Bun Khao Pradap Din** (offerings to the dead, August), **Bun Khao Sak** (further ancestral rites, September), **Bun Ok Phansa** (end of Lent, October, coinciding with the *bang fai phaya nak* naga fireballs on the Mekong at Nong Khai), **Bun Kathin** (robe offerings) and the illuminated-boat festival *Lai Reua Fai* of Nakhon Phanom (November), and **Bun Khao Kam** closing the cycle. Life-cycle rites include the *su khwan* (or *bai si su khwan*) soul-tying ceremony, in which cotton strings are bound around a person's wrists to secure the *khwan* essences after birth, before a journey, at marriage, or after illness; the food-offering centerpiece is a *phakhuan* — a conical arrangement of banana leaves, marigolds, boiled eggs, and rice cones. Ordination of young men as monks (*buat nak*) remains near-universal.
+
+## Foodways
+
+Isan food is defined by glutinous rice (*khao niao*), eaten by hand from lidded bamboo baskets and dipped into sauces and grilled meats. The core condiment is *pla ra* (ปลาร้า), a long-fermented salted freshwater-fish paste, and its distilled fish sauce *nam pla ra*, both far more pungent than Central Thai *nam pla*. Signature dishes include **som tam** (ส้มตำ, green papaya salad pounded in a clay mortar with lime, chilies, dried shrimp, palm sugar, and — in the Isan *tam pu pla ra* version — salted crab and fermented fish); **larb** (ลาบ, minced meat or fish tossed with toasted ground rice *khao khua*, mint, shallots, lime, and chilies, often served *dip* — raw — in beef and buffalo versions); **nam tok** (grilled sliced beef or pork dressed like *larb*); **tom saep** and **tom sap** (sour-spicy offal soups); **gai yang** (marinated grilled chicken); **sai krok Isan** (fermented pork-and-rice sausage with a distinctive sour tang); **jaew bong** (chili paste with fermented fish); and **kaeng om** (a herbal, dill-scented meat and offal soup thickened with sticky rice). Insects — silkworm pupae (*non mai*), giant water bugs (*maeng da na*), grasshoppers, and crickets — are a legitimate staple protein, sold fried at every night market. Sticky rice is steamed in a bamboo *huat* over a *mo nueng*. Sweets are less developed than in Central Thailand; the standard is *khao niao mamuang* (sticky rice with mango) in season, and toasted-rice-based confections. Rice whiskey (*lao khao*) and the fermented sticky-rice wine *sato* accompany festivals.
+
+## Oral tradition & literature
+
+Isan oral literature centers on the *Sang Sinxay* (Lao *Xin Xay*), a long verse epic composed in the 17th century by the Lao poet Pangkham, recounting the hero Sinxay's quest to rescue his aunt from the ogre king Nyak Kumphan; it is chanted in *lam phuen* mor lam performances and painted on the walls of Wat Chaisi in Khon Kaen. Local Jataka cycles, especially the *Vessantara Jataka* (*Phra Wet*), are recited over one long day during **Bun Phawet**, with each of the thirteen chapters sponsored by a different family. Palm-leaf manuscripts (*bai lan*) in the Tham script preserved these texts before the Thai Cultural Mandates of the late 1930s ordered the destruction of Lao-script materials; surviving manuscripts are now catalogued by Mahasarakham University and the Preservation of Lao Manuscripts Program. Proverbs (*phasit boran*) and courting-verse exchanges (*phaya*) remain living forms, and contemporary Isan literary revival has been led by writers such as Khamsing Srinawk (whose short-story collection *The Politician and Other Stories* is set in rural Isan) and the poet Naowarat Pongpaiboon. The online magazine *The Isaan Record* continues a documentary tradition of regional reporting in Thai, Isan, and English.
+
+## Language & religion
+
+Isan is a group of Southwestern Tai (Lao) dialects — broadly Vientiane Lao in the central belt, Luang Prabang-influenced varieties in the north around Loei, and Southern Lao in Ubon Ratchathani — historically written in the *Tai Noi* secular script and the ecclesiastical *Tua Tham* script, both suppressed under Thai state policy and now replaced almost entirely by the Thai script when the language is written at all. Religion is Theravada Buddhism of the Thai Mahanikaya and Dhammayutika Nikaya orders, deeply overlaid with pre-Buddhist animist practice: household ancestral spirits (*phi puta*), village guardian spirits (*phi ban*, housed in a *don pu ta* grove at the edge of settlements), rice-field spirits (*phi ta haek*), and the *phi fa* sky spirits addressed in shamanic *lam phi fa* healing rites. The Isan region is also the heartland of the 20th-century Thai Forest Tradition (*kammatthana*) founded by Ajahn Sao Kantasilo and Ajahn Mun Bhuridatta, whose meditation monasteries in Sakon Nakhon and Ubon Ratchathani draw practitioners worldwide.
+
+## Sources & further reading
+
+- Charles F. Keyes, *Finding Their Voice: Northeastern Villagers and the Thai State*, Silkworm Books, 2014.
+- Volker Grabowsky (ed.), *Regions and National Integration in Thailand, 1892–1992*, Harrassowitz Verlag, 1995 (chapter "The Northeast (Isan)").
+- Susan Conway, *Silken Threads, Lacquer Thrones: Lan Na Court Textiles*, River Books, 2002 (comparative context for Tai supplementary-weft weaving).
+- Patricia Cheesman, *Lao-Tai Textiles: The Textiles of Xam Nuea and Muang Phuan*, Studio Naenna, 2004 — the standard reference on Lao mat mi and khit vocabulary applicable to Isan.
+- Terry E. Miller, *Traditional Music of the Lao: Kaen Playing and Mawlum Singing in Northeast Thailand*, Greenwood Press, 1985 — the foundational English-language monograph on khaen and mor lam.
+- Duncan McCargo & Krisadawan Hongladarom, "Contesting Isan-ness: Discourses of Politics and Identity in Northeast Thailand," *Asian Ethnicity* 5(2), 2004.
+- Asia Foundation, *Thailand's Inequality: Myths & Reality of Isan*, 2019.
+- The Isaan Record (online magazine): https://theisaanrecord.co
+- Wikipedia, "Isan people": https://en.wikipedia.org/wiki/Isan_people
+- Wikipedia, "Mor lam": https://en.wikipedia.org/wiki/Mor_lam
+- UNESCO Intangible Cultural Heritage — Thailand state page: https://ich.unesco.org/en/state/thailand-TH
+- Smithsonian Folkways search — Thailand / Isan: https://folkways.si.edu/search?query=isan
+- Victoria & Albert Museum, Southeast Asian textiles collection: https://collections.vam.ac.uk/search/?q=isan
+- James H.W. Thompson Foundation, Bangkok — Thai and Lao textile collections: https://www.jimthompsonhouse.org

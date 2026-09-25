@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1909-0513-133",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1909-0513-133",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-133",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1909.0513.133",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Kuba",
+    "tradition": "Kuba",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This is a carved wooden disc with a square central perforation and incised interlace patterning around the rim, consistent with Kuba wooden objects (such as spindle whorls or similar decorative/functional items) known for this kind of geometric surface decoration. Nothing indicates it belongs to another culture, and the carving style is plausible for the Kuba region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "disc",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "disc",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Perforated disc made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/unclassified/kuba/images/bm_E_Af1909-0513-133.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "129a8291c85792b92cc7d5e06689d5cc9830bf586d21ed49b074dbb34f33be15",
+      "bytes": 43600,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\unclassified\\kuba\\images\\bm_E_Af1909-0513-133.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:42:02.851002+00:00"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1949-46-448",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1949-46-448",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1949-46-448",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1949.46.448",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Kuba",
+    "tradition": "Kuba",
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden pipe-bowl with interlace geometric patterning consistent with Kuba decorative style, used as a smoking implement by the culture. It belongs to the claimed ethnicity, though the museum's own metadata (wood) and the visual evidence contradict the \"ceramic\" category label.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "smoking-pipe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "smoking-pipe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Pipe-bowl made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kuba/ceramic/kuba/images/bm_E_Af1949-46-448.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "20a9333de91debe2f667638207b8b5097466dbf069255bc76e956de53ead826a",
+      "bytes": 40521,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\ceramic\\kuba\\images\\bm_E_Af1949-46-448.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:41:28.100823+00:00"
+}

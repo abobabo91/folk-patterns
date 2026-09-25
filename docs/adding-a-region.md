@@ -42,6 +42,16 @@ One `claude --print` call per (country, ethnicity). Roughly 30s each × (ethnici
 
 Review the output. Claude is instructed to omit uncertain content, but check for wrong dates, invented traditions, wrong regional attribution. Edit freely — writeups are plain markdown.
 
+Then shorten them into the site's fixed format:
+
+```bash
+python scripts/restructure_writeups.py --only <Ethnicity> ... --workers 4
+```
+
+Haiku (`claude-haiku-4-5-20251001`) returns JSON and the code renders the markdown: an "At a glance" table, overview, one lead sentence and at most 5 bullets per section, a glossary of at most 25 terms, and the sources. It may only use facts already in the writeup. Every rewrite is audited against its original. The audit checks that every heading is present, that every word of every vernacular term (or the stem of an English word of 6+ letters) appears in the original, and that every number does. A failing rewrite is retried once. If it fails twice, the file is left untouched. The original is kept as `<name>.long.md`, which `build_index.py` ignores, and later reruns start from it. Log: `data/writeup_restructure.jsonl`.
+
+Measured 2026-09-25 on the 71 existing writeups: ~$0.05 per culture, 68 of 71 rewritten. The audit caught real inventions that were never written: Qashqai *dastband*/*tisnak*/*ziyārat*, Kinh *đúc*, and a Kongo "1.25 million" where the original says "ten and sixteen million". Those three stay on their long text. Sonnet 5 costs ~$0.50 per culture for the same job because it ignores `MAX_THINKING_TOKENS=0`, so use Haiku.
+
 ## 5. Rebuild the site index
 
 ```bash

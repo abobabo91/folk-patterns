@@ -5,76 +5,166 @@ region: "Sub Saharan Africa"
 tags: [ethnography, sub-saharan-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Amhara, a Semitic-speaking people |
+| Where | Northern and central Ethiopian Highlands (Gondar, Gojjam, Wollo, Shewa, Lake Tana region) |
+| How many | 30–35 million in Ethiopia, with diaspora in the United States, Israel, and Arabian Peninsula |
+| Language | Amharic, written in fidäl syllabary |
+| Religion | Predominantly Ethiopian Orthodox Tewahedo Christian |
+| Known for | white cotton shamma mantle · illuminated Ge'ez manuscripts and icon painting · rock-hewn churches of Lalibela and castles of Gondar · coffee ceremony and teff-based injera bread · azmari minstrel tradition and eskista dance |
+
 ## Overview
 
-The Amhara (*Amara*, ኣማራ) are a Semitic-speaking people of the northern and central Ethiopian Highlands, historically the politically dominant group of the Ethiopian state from the medieval *Solomonic* restoration of 1270 until the fall of the Derg in 1991. They inhabit the temperate plateaux of Gondar, Gojjam, Wollo, Shewa and the highlands around Lake Tana, at elevations typically between 1,800 and 3,000 metres, and number roughly 30–35 million within Ethiopia with sizeable diaspora communities in the United States, Israel, and the Arabian Peninsula. Their language, *Amharic* (*Amarəñña*), belongs to the South Ethiosemitic branch of the Afroasiatic family and is written in the *fidäl* syllabary inherited from *Ge'ez*, the classical liturgical tongue of the Ethiopian Orthodox Tewahedo Church. Amhara culture is inseparable from that church: fifteen centuries of continuous Christian practice have produced one of Africa's oldest literate traditions — illuminated *Ge'ez* manuscripts, panel icons, painted churches, silver *processional crosses* — as well as a distinctive cuisine built on the endemic grain *teff*, a courtly music of *azmari* minstrels and church chant, and the white cotton mantle (*shamma*) that remains the visual signature of the highland peasantry. In folk-culture terms the Amhara matter as the tradents of the Aksumite and Zagwe legacy: the rock-hewn churches of *Lalibela*, the castles of *Gondar*, and the *Kebra Nagast* narrative of Solomonic descent all sit within their tradition.
+The Amhara are the historically dominant group of Ethiopia, inhabiting the temperate highlands between 1,800 and 3,000 metres. Fifteen centuries of continuous Christian practice have shaped their distinctive culture, from illuminated manuscripts to painted churches. Their material world revolves around hand-woven white cotton cloth, ecclesiastical metalwork, and a cuisine built on the endemic grain teff. The Amhara are keepers of the Aksumite and Zagwe legacy, including the rock-hewn churches of Lalibela and the Solomonic dynasty narrative.
 
 ## Material culture
 
+Amhara material culture is built on hand-woven white cotton cloth, ecclesiastical metalwork, and domestic objects shaped by fifteen centuries of Christian practice.
+
 ### Textile & pattern traditions
 
-**Shamma** — the plain woven white cotton cloth that is the substrate of nearly all Amhara dress. Handspun cotton is woven on a pit treadle loom by hereditary weavers (historically often *shemane*, a low-status occupational group), producing a soft, semi-transparent gauze in roughly two-metre lengths.
+White cotton cloth woven by hereditary weavers on pit treadle looms is the foundation of all Amhara dress, with coloured decorative borders marking occasions and wealth.
 
-**Netela** — a lighter, single-layer *shamma* worn as a head-and-shoulder shawl by women, edged along one long side with a coloured woven border called *tibeb*.
-
-**Gabi** — the heaviest form, four to eight layers of *shamma* fulled together into a thick blanket-mantle worn against the highland cold, wrapped toga-fashion by men.
-
-**Kuta** — an intermediate two-layer wrap, typical of men's everyday dress, lighter than a *gabi* but more substantial than a *netela*.
-
-**Tibeb** — the woven or embroidered decorative band, in coloured silk or rayon, that runs along the edge of *netela* and along the hem, cuffs and neckline of women's dresses; motifs are geometric, cruciform, or based on the Ethiopian cross, and the width and complexity of *tibeb* signal the occasion and the wealth of the wearer.
-
-**Habesha kemis** — the ankle-length white cotton dress worn by women for church and celebration, with *tibeb* borders and a matching *netela*; regional variants differ in the placement and density of the coloured bands.
-
-**Motif vocabulary.** The Ethiopian cross in its many regional forms (Lalibela, Gondar, Axum), the Star of Solomon (interlaced hexagram), stepped lozenges, comb-tooth registers, and stylised eye motifs. Pattern is concentrated at edges and hems on the principle that the border protects the body within.
+- **shamma** — Plain woven white cotton cloth handspun and woven on a pit treadle loom, roughly two metres long, soft and semi-transparent.
+- **netela** — A lighter single-layer shamma worn as a head-and-shoulder shawl by women, edged with a coloured woven border called tibeb.
+- **gabi** — Four to eight layers of shamma fulled together into a thick blanket-mantle worn against the highland cold, wrapped toga-fashion by men.
+- **tibeb** — Coloured silk or rayon decorative band running along edges and hems, with geometric, cruciform, or Ethiopian cross motifs that signal occasion and wearer's wealth.
+- **kuta** — An intermediate two-layer wrap typical of men's everyday dress, lighter than a gabi but more substantial than a netela.
 
 ### Clothing & dress
 
-Men's traditional dress is a long white cotton shirt and jodhpur-like tight trousers (*surri*), gathered at the calf, worn under a *kuta* or *gabi* wrapped over the shoulders in the manner of a Roman toga; priests and elders add a white turban (*shash*) and, for clergy, a black or coloured cape (*kabba*) and a broad-brimmed felt hat. Women wear the *habesha kemis* over a slip, cinched with a woven sash and covered outdoors by the *netela*, which is drawn over the head on entering a church. Married women commonly wear their hair in fine cornrows close to the scalp (*shuruba*) gathered into a bun at the nape, and mark forehead, neck and hands with small cruciform tattoos in indigo ink — a *qidus* cross at the throat is understood as both ornament and baptismal seal. Priestly dress is elaborated with brocade chasubles, embroidered *lammäd* stoles, and, on high feasts, jewelled crowns and umbrella-canopies (*ṭəla*) carried above the celebrant. Rural men in cold Wollo and Gojjam add a heavy sheepskin cloak; the *shepherd's* leather cape and the *dula* walking staff complete the highland silhouette.
+Men wear white cotton shirts with jodhpur-like trousers under a wrapped kuta or gabi; women wear the habesha kemis dress with netela shawl and often wear their hair in fine cornrows marked with indigo cruciform tattoos.
+
+- **habesha kemis** — Ankle-length white cotton dress worn by women for church and celebration, with tibeb borders and a matching netela.
+- **surri** — Jodhpur-like tight trousers gathered at the calf, worn by men under a kuta or gabi.
+- **qidus cross** (*qidus*) — Small cruciform tattoo in indigo ink worn at the throat by married women, understood as both ornament and baptismal seal.
+- **shash** — White turban worn by priests and elders.
+- **kabba** — Black or coloured cape worn by clergy.
 
 ### Architecture
 
-Vernacular Amhara housing centres on the round *tukul* (also *gojo*), a circular thatched dwelling with a low cylindrical wall of stone, mud-and-wattle or *chika* (mud-and-straw), a central hardwood pole (*wanber*), and a steep conical thatched roof of grass or *teff* straw crowned with a pinnacle of inverted pots or a wrought-iron cross. Interior space is divided by low partitions into a hearth zone, a raised sleeping platform (*medeb*) built of packed earth and covered with hides, and a stall for calves or small stock. Larger provincial gentry houses (*addarash*) are rectangular two-storey buildings with a first-floor timber gallery, developed under Gondarine influence. The great monumental tradition is ecclesiastical: the circular thatched or copper-roofed church of the highlands, built on a three-concentric-ring plan with the *maqdas* (holy of holies) at the centre housing the *tabot* (altar tablet), surrounded by the *qeddest* for communicants and the outer *qene mahlet* for chant and the laity, and painted throughout with narrative cycles of saints, angels and biblical scenes. The rock-hewn churches of *Lalibela* — eleven monolithic buildings carved downward out of the living tuff in the twelfth and thirteenth centuries under the Zagwe kings, a UNESCO World Heritage site — represent the tradition's high point, as do the earlier cave and cliff churches of Tigray and the later castellated palace complex of *Fasil Ghebbi* at *Gondar*, a fusion of Portuguese, Indian and indigenous stonework built by the Gondarine emperors from the seventeenth century onward.
+Vernacular housing centres on the round tukul with low stone or mud-and-wattle walls and steep conical thatched roofs; the great tradition is ecclesiastical churches built on a three-ring plan with the maqdas at the centre.
+
+- **tukul** (*tukul (gojo)*) — Circular thatched dwelling with low cylindrical wall of stone or mud-and-wattle, central hardwood pole, steep conical roof crowned with pots or iron cross.
+- **Lalibela churches** (*Lalibela*) — Eleven monolithic rock-hewn churches carved downward out of living tuff in the twelfth and thirteenth centuries under the Zagwe kings, a UNESCO World Heritage site.
+- **Fasil Ghebbi** — Castellated palace complex at Gondar built by Gondarine emperors from the seventeenth century onward, fusing Portuguese, Indian and indigenous stonework.
+- **maqdas** — The holy of holies at the centre of a church, housing the tabot altar tablet.
+- **tabot** — Altar tablet housed in the maqdas, venerated as an Ark of the Covenant tablet in every church.
 
 ### Ceramics, metalwork & everyday objects
 
-Amhara pottery is the province of women of the *fuga* and related occupational groups, hand-built by coiling without a wheel and open-fired to a matte black or red-brown. The signature vessel is the *jebena*, the round-bellied long-necked coffee pot with a straw lid, central to the ritual coffee ceremony; alongside it the flat clay griddle (*mitad*) on which *injera* is baked, the water jar (*insira*), and the *mesob* — the tall hourglass-shaped basketry table woven of dyed grass and topped with a conical lid, in which *injera* is served to guests. Metalwork is dominated by the ecclesiastical arts. **Processional crosses** (*meskel*), carried on the tops of long staves before the priest, are cast in brass or silver in intricate open-work interlace, with a small cloth (*makatäb*) tied to the shaft — regional schools of Lalibela, Gondar and Axum are distinguishable by the density and geometry of the interlace. **Hand crosses** (*maskal*), smaller and gripped by the priest for blessing, are carried by every ordained man and touched by the faithful to forehead and lips. **Neck crosses** (*mateb*) are worn by every baptised Christian on a blue silk cord tied at baptism. Silver **sistrums** (*tsenatsil*), rattled by cantors during chant, and long silver-tipped **prayer sticks** (*mäqwamiya*), on which worshippers lean during the many hours of standing liturgy, complete the church furnishings. Domestic objects include carved wooden headrests, low three-legged stools, and horn drinking cups.
+Women potters hand-build distinctive black and red-brown ceramics; ecclesiastical metalwork in brass and silver dominates, particularly processional and hand crosses in regional styles.
+
+- **jebena** — Round-bellied long-necked coffee pot with a straw lid, central to the ritual coffee ceremony.
+- **mitad** — Flat clay griddle on which injera is baked.
+- **mesob** — Tall hourglass-shaped basketry table woven of dyed grass with conical lid, in which injera is served to guests.
+- **processional cross** (*meskel*) — Cast brass or silver cross in intricate open-work interlace carried on a long stave before the priest, with regional schools distinguishable by geometry.
+- **hand cross** (*maskal*) — Smaller gripped cross carried by ordained men for blessing and touched by the faithful to forehead and lips.
 
 ### Jewelry & body adornment
 
-Amhara jewellery is predominantly silver, and predominantly Christian in vocabulary. The *mateb* baptismal cross on its blue cord is universal. Women layer necklaces of silver filigree crosses of Lalibela, Gondar and Axum types, often interspersed with amber, coral and old Maria Theresa thalers, and add silver granulated bangles, anklets, and large hoop or crescent earrings. Wollo and Gondar produce fine niello and open-work filigree; hollow silver amulet cases (*kitab*) worn on the chest hold rolled parchment *magic scrolls* against illness and the evil eye. Cruciform tattoos in indigo — at the throat, on the forehead, on the back of the hand, sometimes on the gums — are applied in childhood or early adulthood by specialist women and are understood as permanent baptismal marks. Henna is used sparingly on the hands of brides. Long cornrowed hair (*shuruba*), often oiled with butter, is the marker of a married Amhara woman; young girls may wear the hair in a raised central crest.
+Jewellery is predominantly silver and Christian in vocabulary, centred on the mateb baptismal cross, with women layering silver filigree crosses interspersed with amber and coral.
+
+- **mateb** — Baptismal cross worn by every baptised Christian on a blue silk cord tied at baptism.
+- **neck cross** (*mateb*) — Silver filigree cross worn on a blue silk cord, universal to all baptised Amhara Christians.
+- **amulet case** (*kitab*) — Hollow silver case worn on the chest holding rolled parchment magic scrolls against illness and the evil eye.
+- **shuruba** — Fine cornrows worn close to the scalp by married women, often oiled with butter and gathered into a bun at the nape.
 
 ## Music & performance
 
-The two poles of Amhara musical life are the church and the *azmari* tavern. Ecclesiastical chant, *zema*, is a fully notated tradition attributed to the sixth-century saint Yared, sung in *Ge'ez* in three modes — *ge'ez*, *ezel* and *araray* — and accompanied by the sistrum (*tsenatsil*), the prayer staff (*mäqwamiya*) beaten rhythmically on the floor, the large frame drum (*kebero*), and stylised swaying dance (*aquaquam*) performed by cantors (*debtera*) in white robes and turbans. The secular counterpart is the *azmari*, a wandering minstrel who plays the single-string spike fiddle *masinqo* and improvises rhymed praise, satire and love-songs in a bar-room genre called *azmari bet*. The *krar*, a five- or six-string bowl lyre, and the ten-string *begena* — the "harp of David", played meditatively during Lent by lay musicians — are the other core instruments, together with the *washint* end-blown flute of the shepherds and the *kebero* double-headed conical drum. The improvised poetic form *qene*, composed in *Ge'ez* and delivered in the church school, prizes deliberate double meaning (*säm-ənna-wärq*, "wax and gold") and is considered the highest verbal art of the tradition.
+The two poles of musical life are ecclesiastical chant (zema) in Ge'ez with sistrum and prayer staff, and the secular azmari minstrel tradition with the single-string masinqo fiddle.
+
+- **zema** — Fully notated ecclesiastical chant attributed to the sixth-century saint Yared, sung in Ge'ez in three modes with sistrum, prayer staff and frame drum.
+- **azmari** — Wandering minstrel who plays the single-string spike fiddle masinqo and improvises rhymed praise, satire and love-songs in tavern settings.
+- **masinqo** — Single-string spike fiddle played by azmari minstrels.
+- **begena** — Ten-string harp called the 'harp of David', played meditatively during Lent by lay musicians.
+- **qene** — Improvised poetic form composed in Ge'ez and delivered in church schools, prizing deliberate double meaning called säm-ənna-wärq.
 
 ## Dance & theatre
 
-The signature Amhara secular dance is *eskista*, an athletic shoulder-shaking performed to *masinqo* and *kebero* rhythm, in which the dancer isolates and rolls the shoulders, chest and neck in rapid staccato waves while the hips and feet remain relatively still — a virtuosic idiom demanding years of practice and unmistakable across the highlands. Line and circle dances at weddings pair *eskista* with call-and-response singing. Ecclesiastical *aquaquam*, by contrast, is stately and processional: cantors in two facing rows sway, beat prayer staves, and shake sistrums in slow triple time before the sanctuary. A formal theatre tradition in the European sense is a twentieth-century Addis Ababa development; older performance forms include the *azmari* tavern, the processional pageantry of *Timkat* and *Meskel*, and the recitation of *qene* poetry as public verbal contest.
+The signature secular dance is eskista, an athletic shoulder-shaking performed to masinqo and kebero rhythm; ecclesiastical aquaquam is stately and processional.
+
+- **eskista** — Athletic shoulder-shaking dance performed to masinqo and kebero rhythm, isolating and rolling the shoulders, chest and neck in rapid staccato waves.
+- **aquaquam** — Stately processional ecclesiastical dance where cantors in two facing rows sway, beat prayer staves and shake sistrums in slow triple time.
 
 ## Festivals & rituals
 
-The Amhara ritual calendar is that of the Ethiopian Orthodox Tewahedo Church, reckoned by the Julian calendar of thirteen months. *Enkutatash* (11 September) opens the new year with yellow *adey abeba* daisies. *Meskel* (27 September) commemorates the finding of the True Cross by the Empress Helena with the burning of a great bonfire (*demera*) crowned with fresh flowers and yellow daisies, around which processions of white-robed clergy circle chanting — *Meskel* is inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity (2013). *Genna* (Ethiopian Christmas, 7 January) is marked by an all-night vigil and, historically, a rough hockey-like stick game of the same name. *Timkat* (Ethiopian Epiphany, 19 January), also on the UNESCO list (2019), is the greatest feast: the *tabot* of each church is carried in procession under embroidered umbrellas to a nearby pool or river, where the water is blessed and the faithful renew their baptism at dawn. The long Lent (*Hudadi*, 55 days) and the multiple weekly fasts of the Orthodox calendar structure the year around abstinence from animal products. Life-cycle rituals include baptism (boys at 40 days, girls at 80), with the tying of the *mateb* cord; church weddings under the *kaba* mantle; and the *tazkar* memorial commemorations at 40 days, six months, and one year after death, at which quantities of *injera* and *tella* are distributed.
+The ritual calendar follows the Ethiopian Orthodox Church's Julian calendar; major feasts include Meskel (finding of the True Cross) and Timkat (Epiphany), both UNESCO-listed.
+
+- **Enkutatash** — New Year opening on 11 September, marked with yellow adey abeba daisies.
+- **Meskel** — Festival on 27 September commemorating the finding of the True Cross with the burning of a great bonfire crowned with flowers, UNESCO-listed (2013).
+- **Timkat** — Ethiopian Epiphany on 19 January, the greatest feast where the tabot is carried in procession to water for blessing and baptismal renewal, UNESCO-listed (2019).
+- **Genna** — Ethiopian Christmas on 7 January, marked by all-night vigil and historically a rough hockey-like stick game.
+- **tazkar** — Memorial commemorations held at 40 days, six months, and one year after death, at which injera and tella are distributed.
 
 ## Foodways
 
-The dietary base is *injera*, a large soft sourdough pancake fermented for two to three days from a batter of *teff* (*Eragrostis tef*, the endemic Ethiopian grain) and baked on the clay *mitad*. *Injera* is both plate and utensil: torn by hand, it is used to scoop up stews (*wet*) served in small mounds on its surface. The stews divide into *key wet* (red, built on the fiery *berbere* spice blend of chilli, fenugreek, korarima and a dozen other spices) and *alicha* (yellow-mild, coloured with turmeric); characteristic dishes include *doro wet* (chicken and hard-boiled egg in *berbere*, the festival dish), *siga wet* (beef), *shiro* (a smooth chickpea-flour stew, ubiquitous on fast days), *misir wet* (red lentils), *gomen* (collard greens), and *kitfo* (minced raw beef seasoned with *mitmita* chilli and clarified spiced butter *niter kibbeh*, of Gurage origin but widely eaten). Fasting cuisine (*ye'som mägäb*) is fully vegan and accounts for more than half the days of the year. The coffee ceremony (*bunna*) is the daily social ritual: green beans are washed, roasted over charcoal, ground in a wooden mortar, and brewed three successive times (*abol*, *tona*, *bereka*) in the *jebena*, served in small handleless cups on a bed of fresh grass with incense and popcorn or roasted barley. Drinks include the honey wine *tej*, drunk from the round-bellied *berele* flask, and the barley beer *tella*.
+The dietary base is injera, a sourdough pancake fermented from teff grain and baked on a clay mitad, served with stews and used as both plate and utensil.
+
+- **injera** — Large soft sourdough pancake fermented for two to three days from teff batter, used as both plate and utensil for scooping stews.
+- **teff** — Endemic Ethiopian grain (Eragrostis tef) fermented into injera, the dietary base of Amhara cuisine.
+- **doro wet** — Chicken and hard-boiled egg in berbere spice blend, the traditional festival dish.
+- **kitfo** — Minced raw beef seasoned with mitmita chilli and clarified spiced butter niter kibbeh.
+- **coffee ceremony** (*bunna*) — Daily social ritual where green beans are roasted, ground and brewed three times in a jebena, served in small cups with incense and popcorn.
 
 ## Oral tradition & literature
 
-Amhara literary culture is exceptional in sub-Saharan Africa in resting on a continuous fifteen-hundred-year written tradition in *Ge'ez*, preserved in illuminated parchment manuscripts produced in monastic scriptoria at Lake Tana, Gondar and Lalibela. The core corpus includes the *Ethiopian psalter* (*Mäzmurä Dawit*), the *Miracles of Mary* (*Ta'amra Maryam*), the hagiographic *Synaxarium* (*Sənkəssar*), and the national epic *Kebra Nagast* ("Glory of Kings"), which grounds the *Solomonic* dynasty's claim of descent from Menelik I, son of Solomon and the Queen of Sheba. Manuscripts are written on locally prepared goatskin parchment in carbon and red ochre inks, illuminated with panel miniatures in a distinctive frontal style, and bound between wooden boards in tooled leather satchels (*mahdär*). Alongside the codex tradition circulate the *magic* or *healing scrolls* (*ye branna kitab*), long strips of parchment inscribed by *debtera* clerics with protective prayers, King Solomon's seals, and stylised staring-eyed guardian faces, rolled into a leather case and worn or hung above the bed against demonic illness. Oral tradition preserves *qene* poetry, proverbs (*missale*), the folktales of *Aleka Gebrehanna* the trickster-cleric, and long historical ballads recited by *azmari*. Ethiopian icon painting, developed from Byzantine and later Portuguese prototypes into a distinctive local idiom of large frontal eyes and flat brilliant colour, is treated as a branch of scripture: an icon is written (*sä'alä*), not painted.
+Amhara literary culture rests on a continuous fifteen-hundred-year written tradition in Ge'ez preserved in illuminated parchment manuscripts from monastic scriptoria, including the national epic Kebra Nagast.
+
+- **Kebra Nagast** — National epic 'Glory of Kings' that grounds the Solomonic dynasty's claim of descent from Menelik I, son of Solomon and the Queen of Sheba.
+- **magic scrolls** (*ye branna kitab*) — Long strips of parchment inscribed by debtera clerics with protective prayers, King Solomon's seals and staring-eyed guardian faces, worn or hung against demonic illness.
+- **Miracles of Mary** (*Ta'amra Maryam*) — Core text of Amhara manuscript tradition preserved in illuminated parchment codices.
+- **Ethiopian psalter** (*Mäzmurä Dawit*) — Psalter tradition that forms part of the core corpus of illuminated Ge'ez manuscripts.
+- **Synaxarium** (*Sənkəssar*) — Hagiographic text preserving the lives of saints in the manuscript tradition.
 
 ## Language & religion
 
-*Amharic* is a South Ethiosemitic language written in *fidäl*, a syllabary of some 270 characters descended from the South Arabian abjad by way of *Ge'ez*; it is the working language of the Ethiopian federal government and a lingua franca across much of the country. *Ge'ez* itself, no longer spoken vernacularly since roughly the tenth century, survives as the liturgical language of the Ethiopian Orthodox Tewahedo Church and the Ethiopian Catholic Church, and is taught in monastic schools alongside *qene* poetics and *zema* chant. The overwhelming majority of Amhara are Ethiopian Orthodox Tewahedo Christians — a miaphysite (non-Chalcedonian) church in communion with the Coptic, Syrian and Armenian Orthodox — with a distinctive practice retaining Old Testament features (Saturday observance alongside Sunday, dietary avoidance of pork, male circumcision, the veneration of the *tabot* as an Ark of the Covenant tablet in every church). A significant Muslim Amhara minority is concentrated in Wollo, where Sufi shrines and syncretic devotional practices flourish alongside orthodox Sunni observance. Pre-Christian and para-Christian beliefs persist at the folk level: the evil eye (*buda*), attributed in some communities to hereditary craft groups; possession cults (*zar*) treated by specialist female mediums; and the ambivalent figure of the *debtera*, a lay cleric who is simultaneously chanter, scribe, herbalist, and maker of protective scrolls.
+Amharic, a South Ethiosemitic language written in fidäl syllabary, is the working language of the Ethiopian federal government; Ge'ez survives as the liturgical language of the Ethiopian Orthodox Tewahedo Church.
+
+- **Amharic** (*Amarəñña*) — South Ethiosemitic language written in fidäl syllabary of some 270 characters, the working language of Ethiopian federal government.
+- **fidäl** — Syllabary of some 270 characters descended from the South Arabian abjad by way of Ge'ez, used to write Amharic.
+- **Ge'ez** — Classical liturgical language no longer spoken vernacularly since roughly the tenth century, surviving in the Ethiopian Orthodox Tewahedo Church.
+- **Ethiopian Orthodox Tewahedo Church** — Miaphysite non-Chalcedonian church in communion with Coptic, Syrian and Armenian Orthodox, distinctive in retaining Old Testament features and venerating the tabot.
+- **buda** — Folk belief in the evil eye, attributed in some communities to hereditary craft groups.
+
+## Glossary
+
+- *azmari* — Wandering minstrel; secular tavern musician and improviser
+- *buda* — The evil eye; folk belief attributed to some hereditary craft groups
+- *debtera* — Lay cleric who is chanter, scribe, herbalist and maker of protective scrolls
+- *gabi* — Heaviest form of shamma; four to eight layers fulled into a thick blanket-mantle
+- *Ge'ez* — Classical liturgical language of the Ethiopian Orthodox Church, used in manuscripts
+- *habesha kemis* — Ankle-length white cotton dress worn by women for church and celebration
+- *jebena* — Round-bellied long-necked coffee pot with straw lid, used in the coffee ceremony
+- *kebero* — Large frame drum or double-headed conical drum used in music and chant
+- *Kebra Nagast* — National epic 'Glory of Kings' grounding the Solomonic dynasty's claim of descent
+- *kitab* — Hollow silver amulet case worn on the chest, holding protective magic scrolls
+- *kuta* — Intermediate two-layer wrap, lighter than gabi but more substantial than netela
+- *masinqo* — Single-string spike fiddle played by azmari minstrels
+- *mateb* — Baptismal cross worn on a blue silk cord by every baptised Christian
+- *mitad* — Flat clay griddle on which injera is baked
+- *netela* — Light single-layer shamma worn as head-and-shoulder shawl by women, with coloured border
+- *qene* — Improvised poetic form composed in Ge'ez, prizing deliberate double meaning
+- *shamma* — Plain woven white cotton cloth; substrate of all Amhara dress
+- *shuruba* — Fine cornrows worn close to the scalp by married women, gathered in a bun
+- *tabot* — Altar tablet housed in the maqdas, venerated as an Ark of the Covenant
+- *teff* — Endemic Ethiopian grain used to make injera pancake
+- *tibeb* — Coloured silk or rayon decorative band on edges and hems, signalling occasion and wealth
+- *tukul* — Circular thatched dwelling with low cylindrical wall and conical roof
+- *ye branna kitab* — Magic or healing scrolls inscribed with protective prayers and guardian faces
+- *zema* — Fully notated ecclesiastical chant in Ge'ez, attributed to the sixth-century saint Yared
 
 ## Sources & further reading
 
 - Wikipedia: "Amhara people", "Amharic language", "Ge'ez", "Ethiopian Orthodox Tewahedo Church", "Ethiopian cross", "Injera", "Lalibela", "Fasil Ghebbi", "Kebra Nagast", "Eskista", "Azmari", "Zema", "Qene", "Ethiopian calendar".
-- UNESCO Representative List of the Intangible Cultural Heritage of Humanity: *Meskel*, festival of the finding of the True Cross (2013); *Ethiopian Epiphany* / Timkat (2019); *Gada system* (Oromo, comparative reference, 2016).
+- UNESCO Representative List of the Intangible Cultural Heritage of Humanity: Meskel, festival of the finding of the True Cross (2013); Ethiopian Epiphany / Timkat (2019); Gada system (Oromo, comparative reference, 2016).
 - UNESCO World Heritage: Rock-Hewn Churches, Lalibela (1978); Fasil Ghebbi, Gondar Region (1979); Aksum (1980).
-- Richard Pankhurst, *The Ethiopians: A History* (Blackwell, 2001).
-- Donald N. Levine, *Wax and Gold: Tradition and Innovation in Ethiopian Culture* (University of Chicago Press, 1965).
-- Marilyn Heldman & Stuart C. Munro-Hay, *African Zion: The Sacred Art of Ethiopia* (Yale University Press, 1993).
-- Jacques Mercier, *Ethiopian Magic Scrolls* (George Braziller, 1979).
-- Kay Kaufman Shelemay, *Music, Ritual, and Falasha History* (Michigan State University Press, 1986); and *A Song of Longing: An Ethiopian Journey* (University of Illinois Press, 1991).
-- Michael Gervers (ed.), *Textiles from the Middle Ages to the 20th Century in Ethiopia* (various).
+- Richard Pankhurst, The Ethiopians: A History (Blackwell, 2001).
+- Donald N. Levine, Wax and Gold: Tradition and Innovation in Ethiopian Culture (University of Chicago Press, 1965).
+- Marilyn Heldman & Stuart C. Munro-Hay, African Zion: The Sacred Art of Ethiopia (Yale University Press, 1993).
+- Jacques Mercier, Ethiopian Magic Scrolls (George Braziller, 1979).
+- Kay Kaufman Shelemay, Music, Ritual, and Falasha History (Michigan State University Press, 1986); and A Song of Longing: An Ethiopian Journey (University of Illinois Press, 1991).
+- Michael Gervers (ed.), Textiles from the Middle Ages to the 20th Century in Ethiopia (various).
+

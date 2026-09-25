@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1900-672",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1900-672",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1900-672",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1900.672",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a plaited rattan war cap, a plausible headwear form for Dayak groups of Borneo who traditionally made woven rattan helmets and caps for warfare; nothing contradicts the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": "cap",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cap",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "War cap made of plaited rattan.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/garment/dayak/images/bm_A_As1900-672.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f9273e3b23888c8c883bb2cafc8cbb5c123e15aa281a106b07bd40f72adc4d58",
+      "bytes": 69122,
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\garment\\dayak\\images\\bm_A_As1900-672.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:44:24.704813+00:00"
+}

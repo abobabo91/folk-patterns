@@ -5,67 +5,154 @@ region: "Middle East North Africa"
 tags: [ethnography, middle-east-north-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Baluchi, an Iranian people of the arid southeast |
+| Where | Sistan and Baluchestan province, Iran (also Pakistan and Afghanistan) |
+| How many | Two to three million in Iran |
+| Language | Balochi, a Northwestern Iranian language related to Kurdish |
+| Religion | Predominantly Sunni Muslim, Hanafi school |
+| Known for | Dark indigo and aubergine woven rugs and prayer rugs · Mirror-embroidered women's dresses with heavy silk work · Epic narrative singing with the bowed lute soroz · Intricate silversmithing with granulated forms · Reed-and-mud coastal architecture of the Makran |
+
 ## Overview
 
-The Baluchi (*Baloch*, also transliterated *Balochi*, *Belutsch*, *Belouch*, *Beluch*) are an Iranian people of the arid southeast of the Iranian plateau, whose homeland — *Baluchistan* — straddles the modern borders of Iran, Pakistan, and southern Afghanistan. In Iran they are concentrated in the province of Sistan and Baluchestan, a vast, sparsely-populated territory extending from the salt-caked *Hamun* wetlands of Sistan in the north, across the black volcanic ridges of the Central Makran, down to the fishing coast of the *Makran* on the Gulf of Oman. Estimates of the Iranian Baluch population range between two and three million, with far larger communities across the border in Pakistani Balochistan and diasporas in the Arab Gulf, Turkmenistan, and East Africa. Their language, *Balochi*, is a Northwestern Iranian tongue related to Kurdish and to the extinct Parthian, preserved in several dialect groups (Rakhshani, Sarhaddi, Makrani, Kechi) and written when written at all in a modified Perso-Arabic script; the closely related Sistani community speaks a Southwestern Iranian variety. Historically the Baluch migrated southeastward from the Caspian region in the medieval period, absorbed the earlier Dravidian-speaking Brahui and the settled irrigation cultures of the Bampur and Hamun basins, and organised themselves into a confederacy of tribes (*tuman*) under hereditary sardars owing loose allegiance to the Khan of Kalat. In folk-culture terms the Baluch matter as the great weavers of the eastern Iranian world: the sombre wine-and-indigo *Baluch prayer rug* and *Baluch balisht* are pillars of the Persian tribal-rug canon, the mirror-embroidered women's dress of Sarawan and Chabahar is among the most technically demanding needlework of the region, and Baluch silversmithing and the reed-and-mud coastal architecture of Makran round out a distinctive material world.
+The Baluchi are an Iranian people spread across the arid southeast of the Iranian plateau, concentrated in Sistan and Baluchestan. They speak Balochi, a Northwestern Iranian language, and practice Sunni Islam. Their material culture is distinctive: they are renowned as weavers of dark, sombre rugs, embroiderers of mirror-work dress, and silversmiths. Their oral literature centers on the heroic epic of Mir Chakar Khan and Mir Gohar, recited by professional singers to lute accompaniment.
 
 ## Material culture
 
+Baluchi material culture combines weaving, embroidery, and metalwork as the primary arts, shaped by the demands of pastoral and coastal life.
+
 ### Textile & pattern traditions
 
-**Baluch pile weaving** is the group's best-known craft. The classical *Baluch carpet* — woven on horizontal ground looms by women of the tribal confederations of Khorasan and Sistan, particularly around Torbat-e Heydarieh, Torbat-e Jam, Zabol and the Chakhansur plain across the Afghan border — is a small-format rug in symmetrical (Turkish) knot on a wool foundation, tightly packed and clipped low. The palette is famously sombre: aubergine, oxblood, indigo, and undyed camel-hair ground, with sparing white cotton highlights that read almost as jewels against the dark field. Field designs draw on the *mina khani* flower lattice, the *boteh*, and repeat medallion grids; the *Baluch prayer rug* (*jonamaz*) is the signature form, its *mihrab* commonly stepped or with a "tree of life" springing from a stylised vase, sometimes flanked by "hands" or comb motifs at the top edge that are read as apotropaic. Kilim ends carry deep bands of striped *gelim*-weave and knotted fringes.
+The Baluchi are master weavers, famous for small dark rugs with sombre indigo, aubergine, and oxblood palettes and sparing white highlights.
 
-**Sistan carpet** and **Sistan kilim** — the flat-woven and low-pile production of the Sistani plain proper, often coarser and more graphic than the Khorasani Baluch work, dominated by hooked lozenges, stepped diamonds, and archaic bird-and-tree motifs on a red or camel ground. The Sistani weft-substitution kilim is a related tradition.
-
-**Baluch balisht** — the small pile-woven cushion cover, typically about 50 × 80 cm, made in pairs to be stuffed and stacked along the tent wall. *Balisht* faces carry the finest weaving a household produces and are common survivals in the international rug market.
-
-**Baluch khorjin** and **Baluch saddlebag** — the double-pouched saddlebag woven in one piece with a central connecting panel, in mixed pile-and-flatweave technique. Smaller *chanteh* purses and long *mafrash* bedding bags round out the tent inventory.
-
-**Baluch sofreh** — the flatwoven eating cloth, rectangular, spread on the ground at meals, woven in weft-substitution or *soumak* with a plain central field bordered by narrow patterned bands. The *sofreh-ye nan* (bread cloth) is a related form used for wrapping baked bread.
-
-**Baluchi doch** (or *doch-duzi*) is the embroidery tradition proper, worked by women in fine silk floss on cotton or silk ground in geometrical counted-thread patterns — interlocking lozenges, stepped squares, eight-pointed stars — that cover the bodice yoke (*zih*), the cuffs, and the great front pocket of the woman's dress. **Baluchi mirror work** (*shisha-duzi*) is often integrated into the *doch*, small discs of mirror couched down with buttonhole stitch and framed by geometric embroidery; it is especially associated with the Sarawan and Iranshahr traditions and shares its logic with the mirror-work of Sindh and Gujarat across the border.
-
-**Motif vocabulary.** *Boteh* (paisley), *mina khani* (flower lattice), *dokhtar-e qali* ("carpet girl", a hooked-diamond form), *morgh* (bird), *dast* (hand, protective), *shamsa* (sun rosette), *tir* (arrow), and repeat *gul* medallions named for the sub-tribe that wove them.
+- **Baluch prayer rug** (*jonamaz*) — A small symmetrical-knotted rug in dark tones with a stepped or tree-of-life mihrab, often flanked by protective hand or comb motifs.
+- **Baluch cushion cover** (*balisht*) — A small pile-woven cushion about 50 by 80 centimetres, made in pairs and stuffed to line the tent wall, carrying the finest weaving a household produces.
+- **Baluch saddlebag** (*khorjin*) — A double-pouched saddlebag woven in one piece with a central connecting panel in mixed pile-and-flatweave technique.
+- **Baluch embroidery** (*doch*) — Fine silk-floss embroidery in geometrical counted-thread patterns worked by women on the yoke, cuffs, and front pocket of the dress.
+- **Mirror-work embroidery** (*shisha-duzi*) — Small discs of mirror couched with buttonhole stitch and framed by geometric embroidery, especially associated with Sarawan and Iranshahr traditions.
 
 ### Clothing & dress
 
-Baluchi women's dress is one of the most immediately recognisable ensembles of the Iranian world. The base is a long straight-cut tunic (*pashk* or *jamag*) reaching to the calf or ankle, worn over wide gathered trousers (*shalvar*) that taper to an embroidered cuff at the ankle, and topped with a long head-and-shoulder scarf (*sarig* or *chador*). What sets the *pashk* apart is its embroidery: a densely worked yoke (*zih* or *pandol*), a pair of embroidered sleeve cuffs (*astin*), and — most distinctively — a large rectangular embroidered pocket (*jib* or *pandol-e-jib*) set at the front of the skirt, sometimes reaching almost to the hem. In festival dress the pocket and yoke are heavy with *doch* silk embroidery and *shisha* mirrors, with regional schools (Sarawan, Iranshahr, Saravan, Chabahar, Makrani) distinguishable by density and palette. Married women commonly wear a nose ring (*bulaq*). Men's everyday dress is a long white or ecru cotton tunic (*jamag*) worn over exceptionally voluminous *shalvar* — the classic Baluch trouser can use eight or more metres of cloth, cut wide at the hip and pleated to a narrow ankle — with a shoulder cloth (*chador*) and a turban (*pag* or *dastar*) wound in a manner that varies by tribe. Sardars and elders add a woollen cloak (*aba*) over the shoulders; leather sandals (*sawas*) are the standard footwear. Indigo-dyed cottons are traditional; imported synthetics have largely displaced them in daily wear but festival dress preserves the older palette.
+Baluchi dress is instantly recognisable, with women wearing long tunics heavily embroidered at the yoke and front pocket and men wearing exceptionally voluminous trousers.
+
+- **Women's tunic** (*pashk*) — A long straight-cut tunic reaching to ankle or calf, distinguished by dense embroidery at the yoke and a large rectangular embroidered pocket at the front skirt.
+- **Men's voluminous trousers** (*shalvar*) — Exceptionally wide gathered trousers that can use eight or more metres of cloth, cut wide at the hip and pleated to a narrow embroidered ankle.
+- **Headscarf** (*sarig or chador*) — A long head-and-shoulder scarf worn by women over the tunic.
+- **Men's turban** (*pag or dastar*) — A turban wound in a manner that varies by tribe, worn with the long cotton tunic and shoulder cloth.
+- **Nose ring** (*bulaq*) — A ring worn by married women as a marker of marital status.
 
 ### Architecture
 
-The Baluch have no single monumental architecture in the sense of the Timurid oasis cities; their building tradition is instead a vernacular one shaped by heat, wind, and scarcity of timber. In the interior of Sistan and Baluchestan the classic dwelling is a domed mud-brick house (*kolbeh* or *khesht*), often with a barrel-vaulted roof laid without centring in the Sasanian manner and pierced by small high windows for cross-ventilation; the Sistani plain is famous for the *bad-gir* wind-catcher, a tall chimney-like tower that channels the region's fierce "120-day wind" (*bad-e sad-o-bist-ruz*) into the living space below. In the Makran coastal belt and around Chabahar the signature form is the *kapar*, a rectangular hut with walls and roof of woven date-palm mat (*pish*) tied to a light wooden frame, sometimes plastered with mud, cool and demountable; fishing villages combine *kapar* dwellings with palm-frond storage huts and open-air date-drying floors. Pastoral Baluch in the mountain interior use a black goat-hair tent (*gedan*) similar to the Bedouin *bayt al-sha'ar*, woven in narrow strips by women and stretched on wooden poles. Fortified compounds of the sardars (*qal'a*) — high mud-brick walls with corner towers around a central courtyard — dot the interior. The most famous historical monument of the region, the citadel of Bam just outside the Baluch heartland, shares this mud-brick vocabulary.
+Baluchi building is a vernacular tradition shaped by heat, wind, and timber scarcity, ranging from domed mud-brick houses to palm-frond huts and goat-hair tents.
+
+- **Domed mud-brick house** (*kolbeh or khesht*) — A dwelling with a barrel-vaulted roof laid without centring and pierced by small high windows for cross-ventilation.
+- **Wind-catcher tower** (*bad-gir*) — A tall chimney-like tower that channels the fierce 120-day wind into the living space below, famous on the Sistani plain.
+- **Coastal palm-mat hut** (*kapar*) — A rectangular dwelling with walls and roof of woven date-palm mat tied to a light wooden frame, sometimes plastered with mud.
+- **Pastoral tent** (*gedan*) — A black goat-hair tent woven in narrow strips by women and stretched on wooden poles, similar to Bedouin tents.
+- **Fortified compound** (*qal'a*) — A high mud-brick enclosure with corner towers around a central courtyard, built by sardars and elders.
 
 ### Ceramics, metalwork & everyday objects
 
-Baluch ceramics are utilitarian: undecorated earthenware water jars (*kuza*), pot-bellied storage jars, and the shallow bread-baking griddle (*tabag*) used for the paper-thin Baluchi flatbread. The **silversmith Baluch** tradition, by contrast, is a developed craft, historically practised by hereditary artisan castes on the fringes of the tribal structure. Baluchi silver is heavy, granulated, and often set with coloured glass or carnelian; forms include the *tumar* amulet case in triangular or cylindrical form, hollow bangles (*churi*), anklets (*pazeb*), large hoop earrings (*gushvara*), pectoral discs, and the nose ring (*bulaq*). Filigree and repoussé are the dominant techniques. Coastal Makran adds a metalworking tradition of engraved brass and copper trays and long-spouted coffee pots (*dallah*) that echo the Omani side of the Gulf. Wooden objects include carved date-palm chests (*sanduq*), low bread-kneading trays, the long-necked lute *soroz*, and rope-strung bed frames (*takht*). Basketry in date-palm leaf — mats, fans, food covers, storage baskets — is a household craft along the Makran coast.
+Ceramics are utilitarian and undecorated, while silversmithing is a developed hereditary craft producing heavy granulated forms often set with coloured glass or carnelian.
+
+- **Amulet case** (*tumar*) — A triangular or cylindrical silver case worn on a cord across the chest, containing Quranic text.
+- **Baluchi silver bangles** (*churi*) — Heavy hollow silver bangles, often the product of filigree and repoussé work.
+- **Bread-baking griddle** (*tabag*) — A shallow earthenware dish used for baking paper-thin Baluchi flatbread.
+- **Bowed short-necked lute** (*soroz or sorud*) — A wooden instrument with sympathetic strings, played to accompany epic and lyric singers.
+- **Brass coffee pot** (*dallah*) — A long-spouted engraved brass or copper pot used for Omani-style cardamom coffee on the Makran coast.
 
 ### Jewelry & body adornment
 
-Beyond the silver forms noted above, Baluchi women historically wore a full complement of ornaments read as both wealth and amulet. The *tumar* (amuletic Quran case) is worn on a cord across the chest. Forehead pendants (*panjak*), heavy braided temple ornaments, and rows of small silver bells at the hem of the *pashk* are common. Coral, turquoise and carnelian are the preferred stones. Facial tattooing (*khal-kubi*) in indigo — small dots on the chin, cheeks and forehead — was practised into the mid twentieth century, especially in the Makran, and survives among older women. Henna (*hana*) is applied to the hands, feet and hair for weddings and for the two great Islamic feasts. Kohl (*surma*) lines the eyes of both sexes and is applied to infants as a protective measure.
+Baluchi women historically wore a full complement of silver ornaments read as both wealth and protective amulet, including tumar cases, forehead pendants, and bells.
+
+- **Quran amulet case** (*tumar*) — A silver case worn on a cord across the chest, functioning as both ornament and spiritual protection.
+- **Forehead pendant** (*panjak*) — A pendant worn on the forehead as a marker of status and protection.
+- **Facial tattoo** (*khal-kubi*) — Indigo dots applied to the chin, cheeks and forehead, practised into the mid twentieth century especially on the Makran coast.
+- **Henna paste** (*hana*) — Applied to the hands, feet and hair for weddings and Islamic feasts.
+- **Kohl eyeliner** (*surma*) — Applied to the eyes of both sexes and to infants as a protective measure.
 
 ## Music & performance
 
-Baluchi music is one of the most distinctive traditions of the Iranian plateau, characterised by long-form modal singing, the double-flute *donali*, and a repertoire of trance and healing genres shared with the Afro-Baluch communities of the Makran coast. The core instrument is the *soroz* (or *sorud*), a bowed short-necked lute with sympathetic strings, played to accompany the epic and lyric singer (*pahlawan*). The plucked *tanburag* and *rabab*, the double-reed *nar-sur*, the *donali* twin flute (a paired end-blown reed pipe played with circular breathing), and the goblet drum *tabla* and frame drum *daf* fill out the ensemble. Genres include *sowt* — lyric love songs — *zahirig*, a nostalgic mode associated with exile and longing, *liko* and *dastanag* short forms, and long narrative *sher* recitation. On the Makran coast the *guati* and *damali* ceremonies, healing rites of possession derived from African antecedents brought by Zanzibari and Omani-connected slave populations, are still performed; they use the *tanbura* lyre, hand-clapping, and a leader (*mama* or *baba*) who diagnoses and negotiates with the possessing spirit. The related *lewa* and *zar* are shared with Gulf Arab communities. Baluchi *pahlawani* narrative singing, in which a soloist declaims the deeds of heroes such as Chakar and Gohar to *soroz* accompaniment, is the region's counterpart to Central Asian *dastan* recitation.
+Baluchi music is characterised by long-form modal singing, the double-flute donali, and a repertoire of trance and healing genres shared with Afro-Baluch communities.
+
+- **Bowed lute with sympathetic strings** (*soroz or sorud*) — The core instrument played to accompany epic and lyric singers in narrative and love-song performances.
+- **Double-reed pipe** (*nar-sur*) — A woodwind instrument used in ensemble music.
+- **Twin-flute with circular breathing** (*donali*) — A paired end-blown reed pipe, a signature sound of Baluchi music.
+- **Healing trance ceremony** (*guati or damali*) — A possession-based healing rite performed on the Makran coast using the tanbura lyre and a leader who diagnoses the possessing spirit.
+- **Narrative epic singing** (*pahlawani*) — A soloist recounts the deeds of heroes like Chakar and Gohar to soroz accompaniment, functioning as regional narrative theatre.
 
 ## Dance & theatre
 
-The best-known Baluchi dance is the *do-chapi* (or *chap*), a circle or line dance performed by men at weddings and festivals to the beat of the *dohol* drum and the shawm *sorna*, with clapping and rhythmic stamping punctuating the sung refrain. The *lewa* is a coastal Makrani circle dance of Afro-Baluch origin, faster and more polyrhythmic, danced around a central drummer. Women's dance is generally domestic, performed within the household at weddings and involving swaying arm movements and the shaking of the mirror-embroidered *pashk*. There is no developed tradition of masked or scripted theatre; the *pahlawan* narrative singer is the closest analogue, performing epic material with sung interludes before a seated audience in the guest room.
+The best-known Baluchi dance is the do-chapi, a circle or line dance performed by men at weddings and festivals with drumming and rhythmic stamping.
+
+- **Circle dance with drumming** (*do-chapi or chap*) — Men dance in circle or line formation to the beat of the dohol drum and shawm, with clapping and rhythmic stamping.
+- **Coastal circle dance** (*lewa*) — A faster, polyrhythmic circle dance of Afro-Baluch origin danced around a central drummer.
+- **Narrative singing performance** (*pahlawan*) — A solo singer performs epic material with sung interludes seated before an audience in the guest room.
 
 ## Festivals & rituals
 
-The Baluch calendar is Islamic and follows the great feasts of *Eid al-Fitr* (*Eid-e Ramazan*) and *Eid al-Adha* (*Eid-e Qorban*), the latter marked in the pastoral interior by the sacrifice of a sheep or goat and the distribution of meat. As a predominantly Sunni Hanafi population within Shi'a Iran, Baluch observance of *Muharram* is muted compared to that of the Persian majority. The Iranian new year *Nowruz* is celebrated in some Sistani communities but is less central than among Persian speakers. Weddings (*aros*) are the great social event of the year and stretch over several days, with a *henna night* (*shab-e hana*) in which the bride's hands and feet are patterned in henna to the accompaniment of women's drumming, followed by processions with *sorna* and *dohol*, communal meals of rice and mutton, and the presentation of embroidered textiles and silver as bridewealth. Circumcision (*sunnat*) of boys is marked with a smaller family feast. On the Makran coast the *guati* healing ceremony, in which a possessed patient dances until the spirit is pacified, functions as both ritual and social event.
+The Baluch calendar follows Islamic feasts, with weddings as the great social event of the year, and healing ceremonies on the coast functioning as ritual and social gathering.
+
+- **Henna night** (*shab-e hana*) — The night before the wedding when the bride's hands and feet are patterned in henna to the accompaniment of women's drumming.
+- **Islamic feast of breaking the fast** (*Eid-e Ramazan*) — The Baluch observe Eid al-Fitr as one of the two great Islamic feasts.
+- **Islamic feast of sacrifice** (*Eid-e Qorban*) — Eid al-Adha is marked in the pastoral interior by the sacrifice of a sheep or goat and distribution of meat.
+- **Possession-based healing ceremony** (*guati*) — A coastal Makrani ritual in which a possessed patient dances until the spirit is pacified, functioning as both ceremony and social event.
+- **Boys' circumcision feast** (*sunnat*) — A family celebration marking a boy's religious circumcision.
 
 ## Foodways
 
-Baluchi cooking is austere and mutton-and-bread centred in the interior, fish-and-date centred on the coast. The staple bread is *tanurcheh* or *nan-e tanuri*, a large flat wheat bread baked on the inside wall of a clay oven, and in poorer households the paper-thin *nan-e roghani* baked on a domed griddle over an open fire. Rice enters as the festival grain in the pilaf *sajji-berenj* and in the celebrated *sajji* — a whole lamb or kid, salted, skewered on a green wooden stake, and roasted slowly leaning over an open fire of embers, then served on a bed of rice. *Tabahag* (sun-dried salted mutton), *dampukht* (a slow-simmered meat-and-rice pot), and the fish stew *bat* of the Makran are other core dishes. Dates (*khorma*) from the Bam and Iranshahr palm groves are eaten fresh, dried, and pounded with flour into a travelling ration. Along the coast, dried and salted fish, shark, and the small anchovy-like *methi* are staples. Tea (*chai*) — strong, black, drunk from small handleless glasses with a lump of sugar held between the teeth — punctuates the day; on the coast, Omani-style cardamom coffee is also drunk. Buttermilk (*doogh*), yoghurt, and clarified butter (*roghan*) round out the dairy repertoire of the pastoral interior.
+Baluchi food is austere and mutton-and-bread centred in the interior, fish-and-date centred on the coast, centred on flatbreads baked in clay ovens.
+
+- **Flatbread baked in clay oven** (*tanurcheh or nan-e tanuri*) — A large wheat flatbread baked on the inside wall of a clay oven, the dietary staple of the interior.
+- **Whole lamb roasted on a stake** (*sajji*) — A whole lamb or kid salted and skewered on a green wooden stake, roasted slowly over embers and served on a bed of rice.
+- **Slow-simmered meat-and-rice pot** (*dampukht*) — A core dish of the interior combining meat and rice cooked slowly together.
+- **Fish stew of the coast** (*bat*) — A stew of dried or fresh fish that anchors coastal Makrani cooking.
+- **Black tea with sugar** (*chai*) — Strong black tea drunk from small handleless glasses with a lump of sugar held between the teeth, punctuating the day.
 
 ## Oral tradition & literature
 
-Baluchi oral literature is exceptionally rich and, until the twentieth century, almost entirely unwritten. The core corpus is a body of heroic epic (*sher* or *dastan*) recounting the wars of the sixteenth-century chieftains Mir Chakar Khan Rind and Mir Gohar of the Lashari, sung by the *pahlawan* to *soroz* accompaniment; the Chakar-Gohar cycle functions as the Baluch national epic. Beyond the epic, the lyric repertoire includes *sowt* love songs, the sung genealogies (*shajara*) that preserve tribal history, lullabies (*laylo*), work songs of the date harvest and the fishing boats, and long moralising ballads on the deaths of famous lovers such as Shay Mureed and Hani, and Sassi and Punnu (the latter shared with Sindhi tradition). A written Balochi literature emerged in the twentieth century, associated with figures such as Mulla Fazul, Sayad Hashmi, and Gul Khan Nasir, and with the periodical presses of Karachi and later Iranshahr and Zahedan.
+Baluchi oral literature is exceptionally rich, centred on heroic epic recounting the sixteenth-century wars of Mir Chakar Khan and Mir Gohar, sung by professional pahlawan to soroz.
+
+- **Heroic epic of Chakar and Gohar** (*sher or dastan*) — The core epic recounting the wars of sixteenth-century chieftains Mir Chakar Khan Rind and Mir Gohar, functioning as the Baluch national epic.
+- **Love song** (*sowt*) — Lyric songs of love sung as part of the wider repertoire beyond the heroic epic.
+- **Sung tribal genealogies** (*shajara*) — Genealogies sung to preserve tribal history and lineage.
+- **Lullaby** (*laylo*) — Cradle songs sung by women, part of the domestic lyric repertoire.
+- **Moralising ballad** (*dastanag*) — Long narratives recounting the deaths of famous lovers such as Sassi and Punnu, shared with Sindhi tradition.
 
 ## Language & religion
 
-*Balochi* belongs to the Northwestern Iranian branch and is thus closer to Kurdish, Zaza and the ancient Parthian than to Persian, though centuries of Persian prestige have deposited a heavy Persian and Arabic vocabulary. The main dialect division is between Rakhshani (spoken across the north and in the diaspora), Sarhaddi (the Iranian Sarhad plateau), Makrani (the coast) and Kechi (interior southern Balochistan), with the eastern Suleimani dialects of Pakistan considered by some a separate group. Sistani, spoken by the settled population of the Hamun basin, is a Southwestern Iranian variety related to Persian rather than to Balochi proper. The Brahui-speaking population of the interior, historically integrated with the Baluch, speaks a Dravidian language — the westernmost surviving member of that family. Religiously the overwhelming majority of Iranian Baluch are Sunni Muslims of the Hanafi school, distinguishing them sharply from the Twelver Shi'a Persian majority; a smaller number, especially in and around Zahedan, follow the Shafi'i school. Sufi orders, notably the Naqshbandi and Qadiri, are historically important, and the shrines (*ziyarat*) of local saints (*pir*) — often on hilltops or at springs — remain focal points of popular devotion. On the Makran coast, syncretic elements from African, Sindhi and Omani sources colour local practice, most visibly in the *guati* and *zar* healing cults.
+Balochi is a Northwestern Iranian language closer to Kurdish than Persian, spoken in dialect groups; the Baluch are predominantly Sunni Hanafi Muslims, distinguished from the Twelver Shi'a Persian majority.
+
+- **Northwestern Iranian language** (*Balochi*) — Closer to Kurdish and ancient Parthian than to Persian, written in modified Perso-Arabic script when written at all.
+- **Northern dialect** (*Rakhshani*) — Spoken across the north of Baluchistan and in the diaspora.
+- **Coastal dialect** (*Makrani*) — Spoken along the Makran coast and incorporating local Sindhi, Omani and African influences.
+- **Interior southern dialect** (*Kechi*) — Spoken in interior southern Balochistan.
+- **Sunni Islamic school** (*Hanafi*) — The overwhelming majority of Iranian Baluch follow this school, distinguishing them from the Twelver Shi'a Persian majority.
+
+## Glossary
+
+- *soroz* — bowed short-necked lute with sympathetic strings, the core Baluchi instrument
+- *pahlawan* — professional epic and lyric singer who recites heroic narratives to lute accompaniment
+- *pashk* — long tunic worn by women, distinguished by heavy embroidery at yoke and front pocket
+- *shalvar* — voluminous gathered trousers, tapered to an embroidered ankle, worn by both sexes
+- *doch* — embroidery worked in silk floss on the bodice yoke, cuffs and pocket of the dress
+- *shisha-duzi* — mirror-work embroidery in which small mirror discs are couched and framed geometrically
+- *jonamaz* — Baluch prayer rug, small and symmetrically knotted with a stepped or tree-of-life mihrab
+- *balisht* — small pile-woven cushion cover about 50 by 80 centimetres, made in pairs for the tent wall
+- *tumar* — amulet case, triangular or cylindrical and worn on a cord across the chest
+- *kolbeh* — domed mud-brick dwelling with a barrel-vaulted roof and high ventilation windows
+- *bad-gir* — wind-catcher tower that channels wind into the living space, famous on the Sistani plain
+- *kapar* — rectangular coastal hut with walls and roof of woven date-palm mat on a wooden frame
+- *guati* — possession-based healing ceremony performed on the Makran coast using the tanbura lyre
+- *do-chapi* — circle or line dance performed by men at weddings and festivals with drumming and stamping
+- *sher* — heroic epic recounting the wars of Mir Chakar Khan and Mir Gohar
+- *sowt* — lyric love songs sung as part of Baluchi musical repertoire
+- *shajara* — sung genealogies that preserve tribal history and lineage
+- *sajji* — whole lamb or kid salted and roasted on a green stake over embers, served on rice
+- *nan-e tanuri* — large flatbread baked on the inside wall of a clay oven, the dietary staple
+- *bulaq* — nose ring worn by married Baluchi women as a marker of marital status
 
 ## Sources & further reading
 
@@ -79,3 +166,4 @@ Baluchi oral literature is exceptionally rich and, until the twentieth century, 
 - Jean During, on the music of Baluchistan and the *guati* healing ceremony (Institut français de recherche en Iran, various).
 - UNESCO ICH: while no Baluch-specific element is currently inscribed, the related *Nowruz* multinational inscription and the *Pahlevani and Zoorkhaneh rituals* provide comparative context for the wider Iranian sphere.
 - Encyclopædia Iranica entries on "Baluchistan", "Balochi language and literature", "Sistan", and "Carpets xiv. Tribal carpets".
+

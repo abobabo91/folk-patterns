@@ -5,73 +5,159 @@ region: "Middle East North Africa"
 tags: [ethnography, middle-east-north-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Oghuz Turkic people, the titular majority of Turkey |
+| Where | Anatolia and eastern Thrace, with diaspora in Germany, Netherlands, France, Austria, UK, and historically in the Balkans and Levant |
+| How many | 75–80 million in Turkey |
+| Language | Turkish (Türkçe), an agglutinative Oghuz Turkic language written in Latin alphabet since 1928 |
+| Religion | Overwhelming majority Sunni Muslim (Hanafi school); 15–25% Alevi; historical Sufi orders |
+| Known for | Iznik glazed ceramics and tiles · knotted carpets of western Anatolia · Ottoman court silks from Bursa and Istanbul · Ottoman classical music and the Mevlevi sema ceremony · Turkish cuisine and coffee culture |
+
 ## Overview
 
-The Turks (*Türkler*) are an Oghuz Turkic people whose historical homeland since the eleventh century has been Anatolia (*Anadolu*), the peninsula bounded by the Aegean, Mediterranean and Black Seas, together with eastern Thrace (*Trakya*) across the Bosphorus. They form the titular majority of the Republic of Turkey, numbering roughly 75–80 million within its borders, with substantial diaspora communities in Germany, the Netherlands, France, Austria, and the United Kingdom, plus historically rooted populations in Cyprus, Bulgaria, Greece (western Thrace), North Macedonia, Kosovo, Romania, and the former Ottoman provinces of the Levant. Their language, Turkish (*Türkçe*), belongs to the Oghuz branch of Turkic, closely related to Azerbaijani, Turkmen, and Gagauz, and was written in an Arabic-derived script (*Osmanlıca*) until Atatürk's 1928 alphabet reform introduced a Latin orthography. Turkish folk culture is the layered product of Central Asian Oghuz pastoral heritage, the Byzantine and Seljuk syntheses of medieval Anatolia, six centuries of Ottoman imperial cosmopolitanism absorbing Balkan, Arab, Armenian, Greek, Kurdish, and Persian idioms, and the twentieth-century secular republican project. In folk-culture terms the Turks matter as the tradition that produced the *Iznik* tile revolution of the sixteenth century, the vast knotted-carpet corpus of western Anatolia, Ottoman court silk-weaving at Bursa and Istanbul, and the calligraphic and musical high cultures of the Sublime Porte.
+Turks are an Oghuz Turkic people whose culture blends Central Asian pastoral heritage, Byzantine and Seljuk medieval synthesis, six centuries of Ottoman imperial cosmopolitanism, and twentieth-century secular republicanism. Their material traditions — textiles, ceramics, metalwork, architecture — rank among the world's great craft heritages. Turkish folk culture encompasses distinct regional music, dance, cuisine, and oral traditions shaped by the Islamic calendar and life-cycle rituals.
 
 ## Material culture
 
+Turkish material culture reflects layers of Central Asian, Byzantine, Persian, Arab, and European influence, with distinctive achievement in textiles, ceramics, and architectural decoration.
+
 ### Textile & pattern traditions
 
-**Ottoman brocade and *çatma* velvet** — the heavy silk-and-metal-thread furnishing fabrics woven at Bursa (*Bursa ipeği*) and later at the Istanbul court workshops, dominated by pomegranate, artichoke, tulip and *çintamani* motifs on crimson grounds. *Kemha* is the flat brocaded silk lampas; *seraser* interweaves silver-gilt strip with silk; *çatma* is the voided velvet with pile pattern on a satin ground, used for cushion covers (*yastık*) and throne canopies.
+Ottoman imperial silks, Anatolian village carpets, and embroidered household textiles form a vast, regionally distinct tradition.
 
-**Hereke carpets and silks** — the imperial manufactory founded on the Sea of Marmara in 1843 producing extremely fine silk knotted carpets (often 10 knots per square millimetre) and jacquard-woven furnishing silks for the Dolmabahçe and Yıldız palaces, still associated with the highest grade of contemporary Turkish carpet.
-
-**Anatolian village carpets** — a vast regional corpus of wool-pile rugs on wool warps, tied with the symmetrical *Gördes* (Turkish) knot. Named traditions include the large-medallion *Uşak* carpets (star-Uşak, medallion-Uşak) that furnished sixteenth-century European palaces; the prayer rugs (*seccade*) of *Gördes* and *Ladık* with their characteristically columned mihrab niches; the geometric long rugs of *Konya*; the pastel diamond-medallion carpets of *Milas* in the southwest; and the *Bergama*, *Kula* and *Yağcıbedir* village types. UNESCO inscribed the *traditional craftsmanship of the Turkish knotted carpet* in Kırşehir on the Representative List of Intangible Cultural Heritage.
-
-**Kilim** — the tapestry-woven flatweave, made across Anatolia (Konya, Karapınar, Manastır, Malatya, Sivas, Van) in slit-tapestry technique with characteristic *elibelinde* ("hands on hips", the stylised mother figure), *koçboynuzu* (ram's horn), *bereket* (fertility), *saç bağı* (hair band), *nazarlık* (evil-eye), and *ejder* (dragon) motifs. Related flatweave techniques are *cicim*, *zili* and *sumak*.
-
-**Yastık** — the long cushion cover, roughly 60 by 90 cm, woven or embroidered as domestic furnishing and as a compact export item; a distinct genre within the Turkish rug tradition.
-
-**Ottoman embroidery** — layered *dival* (couched gold) work, *sarma* (satin stitch) and *pesent* counted-thread embroidery on towels (*havlu*), sashes (*kuşak*), bath wrappers (*peştemal*), bohças (*bohça*, square wrapping cloths for dowry gifts), and *yağlık* handkerchiefs given as courtship tokens. The Bursa and Istanbul palace workshops produced heavily gilt ceremonial embroideries; village embroidery of Aydın, Bartın and Kastamonu preserves a lighter floral idiom.
-
-**Motif vocabulary.** *Çintamani* (the "three balls and wavy lines" motif, of Buddhist origin transmitted via Central Asia, associated with power and used across textiles, tiles and ceramics), *lale* (tulip), *karanfil* (carnation), *gül* (rose, and also the medallion of a carpet), *sümbül* (hyacinth), *nar* (pomegranate), *hatayi* (chinoiserie composite flower), *rumi* (split-palmette scroll), *saz yolu* ("reed-pen style" — the feathery serrated leaf and floral idiom developed at Süleyman the Magnificent's court by the painter Şahkulu), *ay-yıldız* (crescent and star), *elibelinde*, and *nazar boncuğu* (the blue glass eye-bead).
+- **Ottoman brocade and velvet** (*çatma, kemha, seraser*) — Heavy silk-and-metal-thread furnishing fabrics woven at Bursa and Istanbul court workshops with pomegranate, tulip, and çintamani motifs on crimson grounds.
+- **Hereke carpets and silks** (*Hereke*) — Imperial manufactory founded in 1843 on the Sea of Marmara producing extremely fine silk knotted carpets and jacquard-woven furnishing silks for Ottoman palaces.
+- **Anatolian village carpets** (*Gördes, Uşak, Ladık, Konya, Milas, Bergama*) — Regional wool-pile rugs tied with the symmetrical Turkish knot, named for their places of origin and distinctive medallion, prayer-rug, geometric, and diamond patterns.
+- **Kilim flatweave** (*kilim, elibelinde, koçboynuzu, bereket*) — Tapestry-woven flatweave made across Anatolia with slit-tapestry technique and motifs including the mother figure, ram's horn, fertility symbols, and evil-eye designs.
+- **Cushion covers** (*yastık*) — Long cushion covers of roughly 60 by 90 cm, woven or embroidered as domestic furnishings and export items within the Turkish rug tradition.
 
 ### Clothing & dress
 
-Ottoman-era male dress layered a long inner shirt (*gömlek*), baggy trousers (*şalvar*), a waistcoat (*yelek*) and a long open coat (*kaftan*) or the shorter *cepken*, gathered by a broad wrapped sash (*kuşak*); footwear was soft leather inner boots (*mest*) with over-slippers. Headgear indexed status and era: the wound turban (*sarık*) of the classical Ottoman period, the crimson *fez* (*fes*) after Mahmud II's 1826 reform, and the flat cap after the 1925 Hat Law. Women in Ottoman towns wore a three-skirted robe (*üçetek*) over *şalvar*, a fitted waistcoat, and a diadem-like *hotoz* or embroidered headscarf (*yazma*, *oyalı*) trimmed with needle-lace *oya* flowers — a distinctively Turkish women's craft in which coloured silk florets are worked in three dimensions along the scarf's edge. Outdoors an enveloping *ferace* was worn with a face veil (*yaşmak*). Bridal dress in the Aegean and central Anatolian villages includes the red *bindallı* velvet gown embroidered in couched gold, and a red veil (*duvak*) worn during the henna night. Rural men across eastern Anatolia retained heavy felt cloaks (*kepenek*) for shepherding into the twentieth century. Republican-era dress is Western, but headscarves, *şalvar*, and embroidered waistcoats remain markers of village and pious urban identity.
+Ottoman-era dress for men layered long robes and wrapped sashes; women wore three-skirted robes with embroidered headscarves and outdoor veils.
+
+- **Ottoman men's dress** (*gömlek, şalvar, yelek, kaftan, cepken, kuşak, mest*) — Male clothing featured a long inner shirt, baggy trousers, waistcoat, long open coat or shorter jacket, broad wrapped sash, and soft leather inner boots with over-slippers.
+- **Ottoman women's dress** (*üçetek, hotoz, yazma, oya, ferace, yaşmak*) — Women wore a three-skirted robe over baggy trousers, fitted waistcoat, and diadem-like or embroidered headscarf trimmed with needle-lace flowers; outdoors they wore an enveloping robe and face veil.
+- **Bridal dress** (*bindallı, duvak*) — Village brides in the Aegean and central Anatolia wore a red velvet gown embroidered in couched gold with a red veil worn during the henna night.
+- **Headgear by era** (*sarık, fes, Hat Law*) — The wound turban marked the classical Ottoman period; the crimson fez was adopted after 1826; the flat cap followed the 1925 Hat Law.
+- **Rural outerwear** (*kepenek*) — Heavy felt cloaks worn by eastern Anatolian shepherds into the twentieth century.
 
 ### Architecture
 
-Classical Ottoman monumental architecture, codified by the sixteenth-century imperial architect Mimar Sinan, is organised around the great domed mosque (*cami*) — the Süleymaniye and Selimiye complexes, the Şehzade and the Blue Mosque — in which a central hemispherical dome rests on half-domes and pendentives above a square prayer hall, flanked by pencil minarets (*minare*) and set within a *külliye* complex of medrese, hospital (*darüşşifa*), soup kitchen (*imaret*), caravanserai (*han*) and bath (*hamam*). Interiors are faced with *Iznik* tile revetments, muqarnas-hooded *mihrab* niches, and carved marble *minbar* pulpits. Vernacular urban housing — the classic Ottoman *konak* and the more modest *ev* — is a timber-framed structure with mud-brick or lath infill, whitewashed on the ground floor and with a projecting upper storey (*cumba*) supported on carved brackets, opening to a walled courtyard (*avlu*) with a wellhead and vine pergola. The lattice screens (*kafes*) of the women's quarters (*harem*) and the tiled inglenook (*ocak*) with its conical hood are signature interior features; well-preserved townscapes survive in Safranbolu (a UNESCO World Heritage site), Amasya, Beypazarı, Cumalıkızık, and the Bosphorus *yalı* waterside mansions. Anatolian villages retain flat-roofed adobe houses on the central plateau, stone houses with terracotta tiles in the Aegean, and log houses (*çantı*) in the eastern Black Sea highlands. The nomadic *Yörük* and Türkmen tribes of the Taurus range still pitch black goat-hair tents (*kara çadır*) at their summer pastures (*yayla*), a survival of the Central Asian pastoral inheritance.
+Ottoman monumental mosques with domed prayer halls and tilework anchor vast architectural complexes; vernacular housing features timber frames, projecting upper storeys, and interior lattice screens.
+
+- **Ottoman imperial mosques** (*cami, Süleymaniye, Selimiye, Şehzade, Sultanahmet*) — Great domed mosques with a central hemispherical dome resting on half-domes and pendentives, flanked by pencil minarets, built by Mimar Sinan and his successors.
+- **Mosque complex** (*külliye*) — Domed mosques are set within complexes of religious schools, hospitals, soup kitchens, caravanserais, and baths.
+- **Ottoman townhouses** (*konak, ev, cumba, avlu, kafes, harem, ocak*) — Timber-framed structures with projecting upper storeys supported on carved brackets, opening to walled courtyards, with lattice screens in the women's quarters and tiled inglenooks.
+- **Waterside mansions** (*yalı*) — Timber houses built along the Bosphorus shores, well-preserved in the Ottoman townscapes of Safranbolu, Amasya, Beypazarı, and Cumalıkızık.
+- **Nomadic tent** (*kara çadır, yayla*) — Black goat-hair tents pitched by Yörük and Türkmen tribes at summer mountain pastures, surviving from Central Asian pastoral tradition.
 
 ### Ceramics, metalwork & everyday objects
 
-**Iznik ware** — the underglaze-painted fritware produced at the town of Iznik (Byzantine Nicaea) from the late fifteenth to the seventeenth century, technically a hard white quartz-frit body slipped, painted and glazed with a brilliant alkaline-lead glaze. The palette evolved from early cobalt-on-white (Baba Nakkaş style), through the addition of turquoise and sage green (Damascus ware), to the mature quadrichrome of cobalt, turquoise, green and — uniquely — a thick raised tomato-red (*bol Armenian*, "Armenian bole") set against a pure white ground, painted with tulips, carnations, *saz* leaves, *çintamani* roundels and ships. Iznik tiles clad the interiors of the Rüstem Paşa Mosque, the Sultanahmet (Blue Mosque), and the harem of Topkapı Palace.
+Iznik underglaze-painted ceramics and Kütahya ware set the standard for Ottoman glazed pottery; coppersmiths and filigree workers continue regional craft traditions.
 
-**Kütahya ware** — the parallel ceramic tradition to the east, continuous into the present, historically produced by Armenian and Turkish potters in a lighter palette dominated by yellow, sage and manganese purple, with a folk-idiom repertoire of angels, saints (for Armenian ecclesiastical use) and flower sprays. **Çanakkale** ware of the Dardanelles is a later coarser earthenware in yellows and greens, often modelled as lions or ships. The earlier *cuerda seca* technique — colour fields separated by a manganese-and-oil resist line — was used on early Ottoman tiles at Bursa (Green Mosque, Muradiye).
-
-**Metalwork.** Ottoman coppersmithing survives at Gaziantep, Erzincan and Kahramanmaraş, producing tinned copper trays (*sini*), long-handled coffee pots (*cezve*), ewers (*ibrik*) and hammam bowls (*tas*) with chased and repoussé decoration. Damascened steel and inlaid brass trays with silver and copper wire (*telkari* filigree at Mardin) continue as regional crafts. Ottoman weaponry — the curved *kılıç* sabre, the *yatağan* short sword, and the *şeşper* mace — is preserved in museum collections rather than living use.
-
-**Everyday objects.** Carved wooden bridal chests (*sandık*) inlaid with mother-of-pearl (*sedef*) from Damascus and Istanbul workshops; low copper-topped tables (*sini* on an *ayak*); rosewater sprinklers (*gülabdan*); and the *nargile* water-pipe in silver-mounted glass. Meerschaum (*lületaşı*) pipes carved at Eskişehir from local sepiolite are a distinctive local craft.
+- **Iznik ware** (*Iznik, bol Armenian*) — Underglaze-painted fritware from the fifteenth to seventeenth century with a brilliant white ground and a distinctive thick raised tomato-red paint, decorated with tulips, carnations, and geometric motifs.
+- **Kütahya and Çanakkale ware** (*Kütahya, cuerda seca, Çanakkale*) — Kütahya ceramics are produced by Armenian and Turkish potters in lighter palettes of yellow and purple with folk motifs; Çanakkale ware is coarser earthenware often modelled as lions or ships.
+- **Ottoman metalwork** (*sini, cezve, ibrik, tas, telkari, kılıç, yatağan, şeşper*) — Coppersmiths produce tinned trays, coffee pots, ewers, and bowls with chased decoration; damascened steel and filigree work continue as regional crafts.
+- **Wooden and glass objects** (*sandık, sedef, gülabdan, nargile, lületaşı*) — Carved wooden bridal chests inlaid with mother-of-pearl, low copper-topped tables, rosewater sprinklers, silver-mounted glass water-pipes, and meerschaum pipes carved at Eskişehir.
 
 ### Jewelry & body adornment
 
-Traditional Turkish jewellery emphasises gold rather than silver, especially the flat-woven *trabzon hasırı* (Trabzon "basketweave") chain and bracelet, and the coin necklaces (*altın kolye*, *beşibiryerde* "five-in-one" gold pieces) that constitute a bride's transferable wealth. Filigree (*telkari*), practiced at Mardin and Midyat, produces openwork silver brooches, belts and cigarette cases. The *nazar boncuğu* — a flat cobalt-glass disc with concentric white and light-blue eye — is the ubiquitous evil-eye amulet, hung on children, animals, vehicles and doorways, and produced in the glass workshops of İzmir province (Nazarköy). Henna (*kına*) is applied to the bride's hands on the *kına gecesi* (henna night) in a ceremony of ritualised weeping. Silver belts with large chased buckles (*gümüş kemer*), coral and amber prayer beads (*tesbih*), and the *muska* — a triangular leather or silver amulet case containing a Quranic verse — round out the tradition.
+Gold chains and coin necklaces constitute a bride's transferable wealth; the evil-eye amulet is ubiquitous protection.
+
+- **Gold ornaments** (*trabzon hasırı, altın kolye, beşibiryerde*) — Flat-woven gold chains and bracelets, and coin necklaces of five-in-one gold pieces that represent a bride's transferable wealth.
+- **Evil-eye amulet** (*nazar boncuğu*) — A flat cobalt-glass disc with concentric white and light-blue eye, hung on children, animals, vehicles, and doorways, produced in İzmir province workshops.
+- **Filigree work** (*telkari*) — Openwork silver brooches, belts, and cigarette cases crafted at Mardin and Midyat.
+- **Henna ceremony** (*kına, kına gecesi*) — Henna is applied to the bride's hands during a ritual night of weeping before the wedding.
+- **Religious ornaments** (*gümüş kemer, tesbih, muska*) — Silver belts with large chased buckles, coral and amber prayer beads, and triangular leather or silver amulet cases containing a Quranic verse.
 
 ## Music & performance
 
-Turkish music is stratified into three long-running traditions. **Ottoman classical music** (*Türk sanat müziği* or *Osmanlı klasik müziği*) is a modal art music built on the *makam* system (a repertoire of some 500 modes), rhythmic cycles (*usul*) that can run to 120 beats, and vocal-instrumental suites called *fasıl*. Its instruments are the long-necked lute *tanbur*, the short-necked lute *ud*, the plucked zither *kanun*, the end-blown reed flute *ney* (also central to the Mevlevi ceremony), the bowed *kemençe*, and the goblet drum *kudüm*. **Folk music** (*Türk halk müziği*) centres on the long-necked lute *bağlama* or *saz* (in its small *cura*, medium *bağlama* and large *divan* sizes), accompanying the sung narrative-lyric *türkü* repertoire of the Anatolian *âşık* (bardic troubadour) tradition — inscribed by UNESCO as the *Art of the Meddah / Aşıklık tradition* and separately the *Semah, Alevi-Bektaşi ritual*. The *zurna* shawm paired with the *davul* double-headed drum is the outdoor ensemble of weddings, circumcision processions and wrestling matches from Thrace to eastern Anatolia. **Mevlevi Sufi music**, developed around the thirteenth-century Konya order of Jalal ad-Din Rumi, frames the *sema* whirling ceremony (UNESCO ICH, *Mevlevi Sema Ceremony*) with *ney*, *kudüm* and vocal *na't*. The **Janissary military band** (*mehter*) — thunderous cymbals, kettledrums (*nakkare*), *zurna* and *boru* trumpet — is the ancestral form of the European military band and survives as a ceremonial ensemble at the Military Museum in Istanbul.
+Three stratified musical traditions—Ottoman classical music with makam modes, folk music centred on the bağlama, and Mevlevi Sufi music—dominate the soundscape.
+
+- **Ottoman classical music** (*Türk sanat müziği, makam, usul, fasıl, tanbur, ud, kanun, ney, kemençe, kudüm*) — Modal art music built on a repertoire of some 500 makam modes and rhythmic cycles reaching 120 beats, performed by lutes, zither, reed flute, bowed string, and goblet drums.
+- **Folk music and troubadour tradition** (*bağlama, saz, cura, türkü, âşık, ozan, koşma, destan*) — Long-necked lutes accompany the sung narrative-lyric türkü repertoire of wandering minstrels who compose and improvise vocal verses.
+- **Outdoor wedding and circumcision ensemble** (*zurna, davul*) — A shawm paired with a double-headed drum forms the outdoor ensemble for weddings, circumcision processions, and wrestling matches.
+- **Mevlevi Sufi music** (*Mevlevi, sema, na't*) — The order's whirling ceremony is framed with reed flute, goblet drum, and vocal hymns.
+- **Janissary military band** (*mehter, nakkare, boru*) — A ceremonial ensemble of thunderous cymbals, kettledrums, shawm, and trumpet, the ancestral form of the European military band.
 
 ## Dance & theatre
 
-Folk dance is intensely regional. The line-and-arm-linked *halay* dominates central and eastern Anatolia, danced to *davul-zurna*. The *horon* of the eastern Black Sea coast is a tight, trembling shoulder-shake danced in a closed circle to the three-stringed *kemençe*. The *zeybek* of the Aegean is a slow, wide-armed solo men's dance in 9/8 time, associated with the *efe* mountain-brigand ethos. The *bar* is the ceremonial line dance of Erzurum and the northeast; the *çiftetelli* is the urban belly-dance-adjacent couple dance in 8/4. The *kaşık oyunu* (spoon dance) of Konya, Silifke and Mersin is danced with a wooden spoon clacked in each hand. **Traditional theatre** comprises three major forms: the shadow play *Karagöz* (UNESCO ICH), in which translucent camel-hide puppets manipulated on rods and lit from behind enact bawdy comic dialogues between the wily commoner Karagöz and the pedantic Ottoman gentleman Hacivat; the live comic *ortaoyunu* played in the round; and the storyteller *meddah* who impersonates a cast of characters solo with a staff and handkerchief as props.
+Folk dances are intensely regional; shadow play Karagöz and the comic ortaoyunu are the major traditional theatre forms.
+
+- **Regional folk dances** (*halay, horon, zeybek, bar, çiftetelli, kaşık oyunu*) — Line dances like the halay dominate central and eastern Anatolia; the horon is a trembling shoulder-shake of the Black Sea coast; the zeybek is a slow solo men's dance of the Aegean.
+- **Shadow play** (*Karagöz, Hacivat*) — Translucent camel-hide puppets manipulated on rods and lit from behind enact bawdy comic dialogues between the wily commoner Karagöz and the pedantic gentleman Hacivat.
+- **Comic theatre in the round** (*ortaoyunu*) — Live comic theatre played in the round with a cast of stock characters.
+- **Solo storytelling** (*meddah*) — A storyteller impersonates a cast of characters solo, using a staff and handkerchief as props.
 
 ## Festivals & rituals
 
-The Islamic calendar structures the ritual year: **Ramazan** with its dawn-drummer (*Ramazan davulcusu*) and communal *iftar* meals, **Ramazan Bayramı** (*Şeker Bayramı*, the "sugar festival" of Eid al-Fitr) with children's visits to elders and the kissing of hands, and **Kurban Bayramı** (Eid al-Adha) with the sacrifice of a sheep or cow shared with neighbours and the poor. The **Mevlid Kandili** and four other *kandil* nights are marked by mosque illumination and the distribution of *mevlid şekeri* candy. **Nevruz** on 21 March, the Persianate spring equinox, is celebrated across eastern Anatolia with bonfire-leaping and communal picnics. The **Hıdrellez** on 5–6 May, marking the meeting of the prophets Hızır and İlyas, is a spring festival with wish-tying at rose bushes, jumping fires, and the setting of paper-boat wishes on running water (UNESCO ICH, jointly with Macedonia). The **Mesir Macunu** paste festival at Manisa (UNESCO ICH) commemorates the sixteenth-century apothecary who cured the sultan's mother. Life-cycle rituals include the elaborate boys' circumcision (*sünnet düğünü*) with white satin costume and plumed cap, the multi-day wedding with its henna night and bride's procession (*gelin alayı*), the fortieth-day postpartum bath, and the *mevlit* memorial reading at forty days and one year after death.
+The Islamic calendar structures the ritual year with Ramazan, Bayram festivals, and kandil nights; spring festivals and life-cycle ceremonies mark the social calendar.
+
+- **Ramazan and Bayram** (*Ramazan, davulcusu, iftar, Ramazan Bayramı, Şeker Bayramı, Kurban Bayramı*) — The fasting month features a dawn drummer and communal evening meals; two major festivals mark the end of the fast and the sheep sacrifice shared with neighbors and the poor.
+- **Kandil nights and spring festivals** (*kandil, mevlid şekeri, Nevruz, Hıdrellez, Hızır, İlyas*) — Five nights are marked by mosque illumination and candy distribution; Nevruz on 21 March and Hıdrellez on 5–6 May celebrate spring with bonfires, picnics, and wish-tying.
+- **Mesir Macunu festival** (*Mesir Macunu*) — An annual festival at Manisa commemorating a sixteenth-century apothecary who cured the sultan's mother.
+- **Boys' circumcision** (*sünnet düğünü*) — An elaborate ceremony in which the boy wears a white satin costume and plumed cap.
+- **Wedding and postpartum rituals** (*gelin alayı, mevlit*) — A multi-day wedding includes a henna night and bride's procession; forty-day postpartum baths and memorial readings mark other life transitions.
 
 ## Foodways
 
-Turkish cuisine is one of the great Ottoman synthesis traditions, spanning the palace *saray* kitchens of Topkapı and the peasant hearths of Anatolia. Breakfast (*kahvaltı*) is a spread of white cheese (*beyaz peynir*), olives, tomato, cucumber, honey with clotted cream (*kaymak*), jam, and the crescent bread roll *simit* strewn with sesame, taken with black tea from a small tulip-waisted glass (*ince belli bardak*) brewed in a stacked *çaydanlık*. Meze culture — small cold and hot dishes eaten before the main course and traditionally with the anise spirit *rakı* — encompasses *haydari* (strained yoghurt with garlic), *ezme* (chopped tomato-pepper relish), *cacık*, stuffed vine leaves (*yaprak sarma*), fried liver (*arnavut ciğeri*) and *fava*. Kebap traditions are regionally specific: *Adana kebabı* (long hand-chopped skewer), *Urfa kebabı* (its milder twin), *İskender* (sliced doner over bread with tomato and browned butter, from Bursa), *çöp şiş* of the Aegean, and *cağ kebabı* of Erzurum on a horizontal spit. Bread (*ekmek*, *pide*, *lavaş*, *yufka*) is central. Signature dishes include the layered aubergine casserole *karnıyarık*, the wheat-and-lamb ceremonial dish *keşkek* (UNESCO ICH, *Ceremonial Keşkek Tradition*), the wedding soup *düğün çorbası*, Gaziantep's *lahmacun* and stuffed *içli köfte*, and the Black Sea maize bread and anchovy dishes (*hamsi*). Sweets include the layered filo pastry *baklava* (canonically of Gaziantep, itself UNESCO-recognised for its gastronomy), *künefe* (shredded pastry with melted cheese in syrup) of Hatay, milk puddings (*sütlaç*, *muhallebi*), the resin-gum mastic-flavoured Maraş ice cream (*dondurma*), and the starch-and-sugar confection *lokum* (Turkish delight). Coffee — the fine-ground, unfiltered brew boiled in a *cezve* and served with a glass of water and a piece of *lokum* — is inscribed as *Turkish Coffee Culture and Tradition* on the UNESCO Representative List.
+Turkish cuisine blends palace kitchens and peasant hearths, emphasising bread, meze dishes, regionally specific kebaps, and elaborate sweets.
+
+- **Breakfast spread** (*kahvaltı, beyaz peynir, kaymak, simit, ince belli bardak, çaydanlık*) — White cheese, olives, tomato, cucumber, honey with clotted cream, jam, and sesame-strewn crescent rolls accompany black tea from a small tulip-waisted glass.
+- **Meze culture** (*meze, haydari, ezme, cacık, yaprak sarma, arnavut ciğeri, fava, rakı*) — Small cold and hot dishes eaten before the main course and traditionally with an anise spirit, including strained yoghurt, chopped relish, yoghurt dip, stuffed vine leaves, and fried liver.
+- **Regional kebap traditions** (*Adana kebabı, Urfa kebabı, İskender, çöp şiş, cağ kebabı*) — Hand-chopped skewers, sliced doner over bread with tomato and browned butter, and meat on horizontal spits vary by region from the Mediterranean to the eastern plateau.
+- **Signature dishes** (*karnıyarık, keşkek, düğün çorbası, lahmacun, içli köfte, hamsi*) — Layered aubergine, wheat-and-lamb ceremonial dish, wedding soup, flatbread pizza, and stuffed meat balls represent the regional and ceremonial repertoire.
+- **Sweets and coffee** (*baklava, künefe, sütlaç, muhallebi, dondurma, lokum, cezve*) — Layered filo pastry, shredded pastry with cheese in syrup, milk puddings, mastic-flavoured ice cream, and starch-sugar confections accompany the fine-ground coffee brewed in a long-handled pot.
 
 ## Oral tradition & literature
 
-The pre-Islamic Turkic inheritance survives in the *Book of Dede Korkut* (*Dede Korkut Kitabı*), a cycle of twelve heroic prose-and-verse tales of the Oghuz nomads, jointly inscribed by UNESCO (Turkey, Azerbaijan, Kazakhstan) as *Heritage of Dede Qorqud/Korkyt Ata/Dede Korkut*. The *âşık* / *ozan* bardic tradition — wandering minstrels who compose and improvise sung *koşma* and *destan* to *bağlama* accompaniment — is exemplified by Karacaoğlan (17th c.), Dadaloğlu (19th c.) and Âşık Veysel (d. 1973). The mystical folk poet Yunus Emre (13th–14th c.) shaped a durable vernacular devotional idiom, and the Bektashi-Alevi *nefes* hymns of Pir Sultan Abdal (16th c.) remain in living repertoire. Ottoman *Divan* poetry — the aruz-metre courtly ghazal and kaside tradition of Fuzûlî, Bâkî, Nedim and Şeyh Galib — was the parallel high-literary tradition. Folk narrative includes the ubiquitous *Nasreddin Hoca* tales of the wise-fool imam of Akşehir, the romances of *Ferhat and Şirin* and *Kerem and Aslı*, and a vast corpus of *masal* wonder-tales, *bilmece* riddles, *mani* quatrains, and *tekerleme* tongue-twisters.
+Pre-Islamic Turkic heroic tales and wandering minstrels' sung poetry anchor a living bardic tradition alongside Ottoman courtly verse and folk narratives.
+
+- **Book of Dede Korkut** (*Dede Korkut Kitabı, Oghuz*) — A cycle of twelve heroic prose-and-verse tales of the Oghuz nomads, a pre-Islamic Turkic inheritance jointly inscribed by Turkey, Azerbaijan, and Kazakhstan.
+- **Minstrel tradition** (*âşık, ozan, koşma, destan*) — Wandering minstrels compose and improvise sung verses and epics to the bağlama, exemplified by Karacaoğlan, Dadaloğlu, and Âşık Veysel.
+- **Mystical folk poetry** (*nefes, Pir Sultan Abdal*) — Bektashi-Alevi hymns rooted in the sixteenth-century poet Pir Sultan Abdal remain in living repertoire; Yunus Emre shaped a durable vernacular devotional idiom.
+- **Ottoman courtly verse** (*Divan, ghazal, kaside, Fuzûlî, Bâkî, Nedim, Şeyh Galib*) — High-literary aruz-metre courtly poetry in the ghazal and kaside forms produced a parallel tradition to folk verse.
+- **Folk narratives** (*Nasreddin Hoca, Ferhat and Şirin, Kerem and Aslı, masal, bilmece, mani, tekerleme*) — Wise-fool tales, romances, wonder-tales, riddles, quatrains, and tongue-twisters form a vast corpus of spoken narrative and word-play.
 
 ## Language & religion
 
-Turkish (*Türkçe*) is an agglutinative Oghuz Turkic language with vowel harmony and suffix-chain morphology; the 1928 Latin alphabet reform and the subsequent *Öz Türkçe* "pure Turkish" language reform of the Turkish Language Association (*Türk Dil Kurumu*) replaced much Arabic and Persian vocabulary with Turkic neologisms. Regional dialects range from the Rumelian speech of eastern Thrace to the distinctive dialects of the eastern Black Sea (Trabzon, Rize), central Anatolia and the southeast. The overwhelming majority of Turks are Sunni Muslims of the Hanafi legal school; a substantial minority (commonly estimated at 15–25% and concentrated in central and eastern Anatolia) are **Alevi**, a heterodox Shia-adjacent tradition with its own *cem* ritual (led by a *dede*), the *semah* devotional dance, and a deep attachment to the twelve imams and to Hacı Bektaş Veli. Sufi orders — the **Mevlevi** of Konya, the **Bektaşi** historically linked to the Janissary corps, the **Naqshbandi** and the **Halveti** — shaped Ottoman religious culture and, though formally abolished in 1925, continue as cultural and devotional networks. Folk religion incorporates saint (*evliya*) veneration at *türbe* tombs, wish-tying at trees, the evil eye (*nazar*), and consultation with *hoca* healers.
+Turkish is an agglutinative Oghuz language with vowel harmony; the majority are Sunni Muslims of the Hanafi school, with a substantial Alevi minority and historical Sufi orders.
+
+- **Turkish language** (*Türkçe, Öz Türkçe, Türk Dil Kurumu*) — An agglutinative language with vowel harmony and suffix-chain morphology; the 1928 Latin alphabet reform and subsequent language reforms replaced Arabic and Persian vocabulary with Turkic neologisms.
+- **Regional dialects** (*Rumelian, Trabzon, Rize*) — Speech varies from eastern Thrace to the distinctive dialects of the eastern Black Sea, central Anatolia, and the southeast.
+- **Alevi tradition** (*Alevi, cem, dede, semah, Hacı Bektaş Veli*) — A heterodox Shia-adjacent minority of 15–25% concentrated in central and eastern Anatolia with its own ritual, devotional dance, and attachment to the twelve imams.
+- **Sufi orders** (*Mevlevi, Bektaşi, Naqshbandi, Halveti*) — Mystical orders shaped Ottoman religious culture and, though formally abolished in 1925, continue as cultural and devotional networks.
+- **Folk religion** (*evliya, türbe, nazar, hoca*) — Saint veneration at tombs, wish-tying at trees, evil-eye amulets, and consultation with healers remain common practices.
+
+## Glossary
+
+- *âşık* — bardic troubadour or minstrel
+- *Alevi* — heterodox Shia-adjacent Islamic minority tradition
+- *bağlama* — long-necked lute played by folk musicians
+- *baklava* — layered filo pastry dessert
+- *Bayram* — Islamic festival
+- *beyaz peynir* — white cheese
+- *bindallı* — red embroidered velvet bridal gown
+- *cami* — mosque
+- *çatma* — voided velvet with pile pattern on satin ground
+- *cezve* — long-handled coffee pot
+- *çintamani* — three balls and wavy lines motif of Buddhist origin
+- *dondurma* — Turkish mastic-flavoured ice cream
+- *duvak* — red veil worn during henna night
+- *elibelinde* — mother figure motif with hands on hips
+- *Gördes* — symmetrical Turkish knot used in carpets
+- *halay* — line dance of central and eastern Anatolia
+- *ince belli bardak* — small tulip-waisted glass for tea
+- *Iznik* — town famous for glazed ceramics and tiles
+- *Karagöz* — shadow puppet theatre
+- *kaymak* — clotted cream
+- *keşkek* — wheat-and-lamb ceremonial dish
+- *kilim* — tapestry-woven flatweave carpet
+- *kına gecesi* — henna night before wedding
+- *koçboynuzu* — ram's horn motif in textiles
+- *konak* — Ottoman-era townhouse
 
 ## Sources & further reading
 
@@ -83,3 +169,4 @@ Turkish (*Türkçe*) is an agglutinative Oghuz Turkic language with vowel harmon
 - Suraiya Faroqhi, *Subjects of the Sultan: Culture and Daily Life in the Ottoman Empire* (2000).
 - Halil İnalcık and Donald Quataert (eds.), *An Economic and Social History of the Ottoman Empire* (1994).
 - Walter Feldman, *Music of the Ottoman Court* (1996).
+

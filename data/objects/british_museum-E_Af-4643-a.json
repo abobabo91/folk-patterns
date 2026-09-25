@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af-4643-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-4643-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-4643-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.4643.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Xhosa",
+    "tradition": "Xhosa",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a long wooden tobacco pipe with lead inlay decoration, a type of pipe consistent with Xhosa/Southern African pipe-making traditions; it is a plausible object used by the claimed people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "tobacco-pipe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "tobacco-pipe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Tobacco pipe made of wood, inlaid with lead",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/xhosa/unclassified/xhosa/images/bm_E_Af-4643-a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ecbc2f2d6798e1904b572081f279805fe702105fa7e0616efa4d9f7d3ca6d557",
+      "bytes": 28178,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\unclassified\\xhosa\\images\\bm_E_Af-4643-a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:40:09.148831+00:00"
+}

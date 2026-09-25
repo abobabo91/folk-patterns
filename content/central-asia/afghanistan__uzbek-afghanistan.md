@@ -5,80 +5,170 @@ region: "Central Asia"
 tags: [ethnography, central-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Uzbeks, a Turkic-speaking people |
+| Where | Northern Afghanistan (Faryab, Jowzjan, Sar-e Pol, Balkh, Samangan, Kunduz, Takhar) |
+| How many | Three to four million |
+| Language | Uzbek (Karluk branch of Turkic) |
+| Religion | Sunni Muslim (Hanafi school), with Naqshbandi and Yasawi Sufi traditions |
+| Known for | Carpet weaving and silk production · Chapan silk coats with distinctive striped patterns · Epic poetry and bard traditions (Alpomish, baxshi) · Buzkashi (mounted goat-carcass contest) · Mazar-e-Sharif shrine pilgrimage and Nowruz festival |
+
 ## Overview
 
-The Uzbeks of Afghanistan are a Turkic-speaking people concentrated across the northern provinces — Faryab, Jowzjan, Sar-e Pol, Balkh, Samangan, Kunduz, and Takhar — in the belt of irrigated plains and loess foothills between the Amu Darya and the Hindu Kush. They number roughly three to four million, making them the third or fourth largest ethnic community in Afghanistan. Their language, Uzbek, belongs to the Karluk branch of the Turkic family, and most Afghan Uzbeks speak a dialect closer to the pre-Soviet literary Chagatai than the Cyrillic-standardised Uzbek of Uzbekistan. Descended from the Shibanid nomads who swept south of the Oxus in the sixteenth century and from earlier Karluk, Kipchak, and Turkicised Iranian populations, they anchor the Turkestani cultural sphere in Afghanistan — carpet weavers, horsemen, silk raisers, and shrine-city dwellers around Mazar-e-Sharif.
+The Uzbeks of Afghanistan are the third or fourth largest ethnic group, anchoring the Turkestani cultural sphere in the northern provinces. Descended from sixteenth-century Shibanid nomads and earlier Karluk populations, they are carpet weavers, horsemen, and shrine-city dwellers centered on Mazar-e-Sharif. Their language preserves pre-Soviet Chagatai features, and their material culture — textiles, ceramics, metalwork — reflects Timurid heritage shared with neighbors across the Amu Darya.
 
 ## Material culture
 
+Uzbek material culture is rooted in silk weaving, ikat dyeing, and earthenware traditions that descend from Timurid aesthetics and continue to animate chapans, suzani embroideries, and architectural ornament.
+
 ### Textile & pattern traditions
 
-**Chapan** — the *chapan* is the quilted, silk- or cotton-lined man's coat that is the single most recognisable Uzbek garment; Afghan versions from Mazar and Andkhoy are typically striped in warp-faced silk (*bekasab* or *adras*) or made in a heavier ikat, worn long and sashed. Its horizontal striping and abrupt colour blocks distinguish it from the Turkmen *chirpy* and from Tajik chapans, which favour more scattered floral embroidery.
+Warp-ikat silks and embroidered hangings dominate; Afghan Uzbek weavers of Mazar and Andkhoy supply the northern bazaars with distinctive striped and resist-dyed cloths.
 
-**Adras and bekasab ikat** — *adras* is a warp-ikat cloth of silk warp and cotton weft; *bekasab* is a heavier all-silk striped satin. Both are resist-dyed on the warp before weaving, producing the characteristic feathered edge of Central Asian *abr* ("cloud") ikat. Afghan Uzbek weavers in Andkhoy and Mazar traditionally supplied the northern bazaars.
-
-**Suzani** — large embroidered cotton or silk hangings worked in chain, couching, and *basma* stitch, made as dowry pieces and hung behind the bridal bed. Afghan Uzbek *suzani* from Balkh and Samangan lean towards bold medallion layouts (*palak*, "sky/celestial disc") rather than the denser trailing-vine *nim-suzani* of Bukhara.
-
-**Julkhyrs and Uzbek pile carpets** — *julkhyrs* ("bear's fur") is a shaggy long-pile rug in wide colour bands, historically woven by Uzbek and Arab weavers of northern Afghanistan; distinct from the fine Turkmen *gül*-based knotting of neighbouring Ersari.
-
-**Andkhoy karakul and namad felts** — the Uzbek-Turkmen town of Andkhoy is the historic entrepôt for *karakul* (Persian lamb) pelts and for pressed-wool *namad* felts, often decorated with inlaid coloured wool in ram's-horn scrolls.
-
-**Peshkir and ruband** — smaller embroidered towels, sashes, and face-veils in cross-stitch and *iroqi* (tambour) work, given at weddings.
-
-**Mazar-e-Sharif tile** — the fifteenth-century Timurid revetments of the *Rawza-i Sharif* (Shrine of Ali) at Mazar-e-Sharif set the local pattern vocabulary in cuerda-seca and mosaic *kashi*: interlaced star-and-cross *girih*, split-palmette *islimi*, and Kufic bands. This tile tradition is a shared Timurid-Uzbek heritage and its geometry migrates directly onto *suzani*, chapan lining prints, and painted ceiling beams.
-
-**Motif vocabulary.** *palak* (celestial disc/medallion), *oy* (moon roundel), *anor* (pomegranate), *bodom* (almond/boteh), *ilon izi* (snake track, zigzag), *qoʻchqor shoxi* (ram's horn), *islimi* (arabesque scroll), *girih* (geometric star-knot), *chorbogh* (four-garden quartered field), *tumor* (triangular amulet).
+- **Chapan** — A quilted silk- or cotton-lined man's coat, striped in warp-faced silk or heavy ikat, worn long and sashed; the single most recognizable Uzbek garment.
+- **Adras and bekasab ikat** (*adras, bekasab*) — Warp-ikat cloths with characteristic feathered cloud edges; adras combines silk warp and cotton weft, bekasab is all-silk striped satin.
+- **Suzani** — Large embroidered cotton or silk hangings worked as dowry pieces; Afghan versions favor bold celestial medallions over the trailing-vine patterns of Bukhara.
+- **Julkhyrs** — A shaggy long-pile rug in wide color bands, woven by Uzbek and Arab weavers; distinct from fine Turkmen knotted designs.
+- **Mazar-e-Sharif tile** (*kashi*) — Fifteenth-century Timurid geometric patterns in cuerda-seca and mosaic tile; the vocabulary migrates onto suzani, chapan linings, and painted ceilings.
 
 ### Clothing & dress
 
-Men wear a long *chapan* over a *koʻylak* shirt and loose *ishton* trousers, sashed with a folded scarf *belbogh*, and shod in leather *maxsi* soft boots slipped into overshoes (*kavush*). The defining head covering is the *doʻppi* (also *toʻppi*, *toqi*): a four-panel embroidered skullcap. Northern Afghan Uzbek elders often wear a white turban (*salla*) wound around a cap, and karakul lambswool hats — the *telpak* and the tall, glossy *qorakoʻl* cap — mark Andkhoy and Mazar men in winter. Women wear a *koʻylak* dress of *adras* or printed cotton over *lozim* gathered trousers narrowing at the ankle, layered with a sleeveless *nimcha* waistcoat and, on ceremonial occasions, an embroidered *paranji*-style mantle. Silver-embroidered *doʻppi* and a long headscarf (*roʻmol*) are daily wear; brides wear a heavier embroidered veil with silver-and-coral temple ornaments. Children's caps carry protective triangular *tumor* amulets and tufts of owl feathers.
+Men wear a long chapan over shirt and trousers, sashed and topped with an embroidered doʻppi skullcap; women layer a printed koʻylak dress with waistcoat and ceremonial mantle, crowned with silver-embroidered cap and long scarf.
+
+- **Doʻppi** (*doʻppi, toʻppi, toqi*) — A four-panel embroidered skullcap worn by both men and women; children's versions carry protective triangular amulets and owl feathers.
+- **Chapan** — The defining man's outer coat, worn long and sashed over a koʻylak shirt and loose ishton trousers.
+- **Telpak and qorakoʻl** (*telpak, qorakoʻl*) — Winter karakul lambswool hats; the tall, glossy qorakoʻl cap marks Andkhoy and Mazar men.
+- **Nimcha** — A sleeveless waistcoat layered over the women's dress on everyday occasions.
+- **Paranji mantle** (*paranji*) — An embroidered mantle worn by women on ceremonial occasions, often with silver-and-coral temple ornaments for brides.
 
 ### Architecture
 
-Rural Uzbek settlements in northern Afghanistan are built of *pakhsa* (rammed earth) and sun-dried mudbrick, with flat earthen roofs supported on poplar beams and reed matting — a form shared with Tajik neighbours but distinguishable by the interior *ayvan* (columned porch) and the raised platform *soʻri* for summer sleeping. The courtyard house (*hovli*) turns blank walls to the lane; inside, whitewashed rooms are ringed with wall-niches (*tokcha*) for bedding and copper vessels, and ceilings are painted with *islimi* scrollwork in red and green. Semi-nomadic Uzbeks retain the *oʻtov* — the Central Asian felt tent (equivalent to the Kazakh *kiyiz üy* or the yurt) — pitched at summer pastures with a wooden lattice *kerege* and a crown wheel *changaraq*. Monumental architecture centres on the Timurid **Shrine of Ali** at Mazar-e-Sharif, with its double blue dome, and on Andkhoy's mud-brick caravanserais and the ruined *madrasa* and minaret complexes of Balkh (the "mother of cities"), whose ribbed melon-domes and glazed tile drums remain the reference vocabulary for local builders.
+Rural settlements use rammed earth and mudbrick with flat earthen roofs; courtyard houses turn blank walls outward and feature interior columned porches and painted ceilings; semi-nomadic Uzbeks pitch the Central Asian felt tent (oʻtov).
+
+- **Hovli** — The courtyard house form with rooms ringed around a central open space, interior porches (ayvan), and wall niches (tokcha) for storage.
+- **Oʻtov** — The Central Asian felt tent with wooden lattice frame (kerege) and crown wheel (changaraq), pitched at summer pastures.
+- **Shrine of Ali** (*Rawza-i Sharif*) — A fifteenth-century Timurid monument at Mazar-e-Sharif with a double blue dome; the reference vocabulary for local builders.
+- **Tandir oven** (*tandir*) — A clay cylinder oven for baking disc-shaped bread (non); integral to the Uzbek kitchen.
+- **Islimi ceiling work** (*islimi*) — Interior ceilings painted with arabesque scrollwork in red and green, descended from Timurid mosque ornament.
 
 ### Ceramics, metalwork & everyday objects
 
-The dominant ceramics of northern Afghanistan are hand-thrown, tin- and copper-glazed earthenwares in the turquoise-and-cobalt palette that descends from Timurid *kashi*, with related traditions across the Amu Darya in Rishtan and Gurumsaray. Locally the potters of Istalif (Kabul-region) and Balkh supply the bazaars with slip-painted bowls and water jars (*kuza*). Uzbek metalwork favours tinned-copper trays (*lagan*) and long-spouted ewers (*aftoba*) for washing before meals, brass teapots (*choydish*), and the *qazan*, the heavy cast-iron cauldron in which *palov* is cooked. Woodwork includes carved poplar doors, low tea tables, cradles (*beshik*), and painted saddle frames; the Andkhoy region is known for horse tack — plaited leather bridles and silver-mounted saddles reflecting a persistent horseman culture that also produces the equipment for *buzkashi*.
+Hand-thrown earthenwares in turquoise and cobalt descend from Timurid tradition; metalwork favors tinned-copper and brass vessels for ritual and cooking, and woodwork includes carved doors and silver-mounted saddle frames.
+
+- **Kuza** — A hand-thrown, slip-painted water jar in turquoise-and-cobalt glaze, made in Istalif and Balkh for the bazaars.
+- **Lagan** — A tinned-copper tray used in ritual washings before meals and for serving food.
+- **Aftoba** — A long-spouted ewer for ritual hand and face washing before prayer and meals.
+- **Qazan** — A heavy cast-iron cauldron in which palov rice is cooked; essential to feast preparation.
+- **Buzkashi equipment** (*buzkashi*) — Plaited leather bridles and silver-mounted saddles reflect the persistent horseman culture and are made in the Andkhoy region.
 
 ### Jewelry & body adornment
 
-Uzbek women's jewelry is silver-heavy, often gilded and set with carnelian, turquoise, and coral. Signature pieces include the *tumor* — a triangular or cylindrical amulet-case holding a Qur'anic scroll, worn on the chest — the *bibishak* and *tillakosh* forehead ornaments (a gilded diadem worn low on the brow), the *zebigardan* choker of linked plaques, and heavy hoop earrings (*isirgha*). Brides receive a *peshonaband* of coin-hung silver over the forehead. Nose studs are worn in some northern communities. Henna (*hino*) is applied to the palms and fingertips of brides on the pre-wedding *hino-bandon* night, and blue kohl (*surma*) lines the eyes. Braided hair — many thin plaits for unmarried girls, two thick plaits for married women — is a legible age-marker.
+Women's jewelry is silver-heavy, often gilded, and set with carnelian, turquoise, and coral; signature pieces include amulet cases (tumor), forehead ornaments, and chokers of linked plaques.
+
+- **Tumor** — A triangular or cylindrical amulet case holding a Qur'anic scroll, worn on the chest for protection.
+- **Bibishak and tillakosh** (*bibishak, tillakosh*) — Gilded forehead ornaments worn low on the brow; bibishak is a diadem shape.
+- **Zebigardan** — A choker of linked silver plaques worn around the neck.
+- **Isirgha** — Heavy hoop earrings in silver, often gilded.
+- **Peshonaband** — A bride's forehead ornament of coin-hung silver, given at marriage.
 
 ## Music & performance
 
-Afghan Uzbek music sits within the broader Turkestani soundworld and shares repertoire with Uzbekistan and Tajikistan. The core instruments are the two-string long-necked lute *dutor* (silk-strung, plucked with the fingers); the spike fiddle *ghijak*; the plucked *tanbur* and the fretless *dombra*; the frame drum *doira* (also *childirma*); and, in wedding bands, the double-reed *surnay* and cylindrical drum *nagora* played in shawm-and-drum pairs at doorways and processions. The classical suite tradition **shashmaqom** — six modal cycles of sung ghazal poetry with instrumental preludes — is claimed jointly by Uzbek and Tajik musicians of Bukhara and radiates into northern Afghanistan through Mazar and Kunduz musicians. Alongside it, the epic-singing tradition of *baxshi* and *dostonchi* is central: bards accompanying themselves on *dombra* or *dutor* perform long narrative *doston* (dastan) — most famously **Alpomish**, but also **Goʻroʻgʻli** and love-cycles like **Tohir va Zuhra**. Wedding musicians (*sozanda*, often women in earlier generations) sing *yalla* and *lapar* call-and-response songs, and Sufi *zikr* chanting is performed at the Mazar shrine on Thursday nights and during Nowruz.
+Afghan Uzbek music centers on plucked and bowed lutes (dutor, ghijak, dombra) and frame drums; the classical shashmaqom suite is shared with Tajiks, but epic bard traditions (baxshi, dostonchi) singing long narrative poems (doston) like Alpomish are distinctively Uzbek.
+
+- **Dutor** — A two-string long-necked lute, silk-strung and plucked with the fingers; central to baxshi epic performance.
+- **Ghijak** — A spike fiddle, bowed and played in pairs with the doira frame drum.
+- **Doira** (*doira, childirma*) — A frame drum that accompanies solo dance and wedding songs; essential to rhythmic accompaniment.
+- **Shashmaqom** — A classical suite of six modal cycles of sung ghazal poetry with instrumental preludes, claimed jointly by Uzbek and Tajik musicians.
+- **Alpomish** (*doston*) — A Kipchak-derived epic of some 14,000 lines telling of a hero's captivity and return, performed by bards to dombra accompaniment.
 
 ## Dance & theatre
 
-Uzbek dance in Afghanistan is dominated by solo women's and men's improvisations built on wrist articulation, shoulder shimmy (*yelka*), and rapid spins, performed to *doira* rhythms at weddings and circumcision feasts. Named forms shared with Uzbekistan include the Bukharan **raqs** vocabulary and the Ferghana-school lyrical solos, though village performance leans towards a robust, less codified *oʻyin*. Male dance overlaps with acrobatics and stick-play. Theatre proper is thin: the itinerant clown-actor *masxaraboz* (jester) and *qiziqchi* perform comic dialogues and satirical sketches at bazaar festivals, sometimes with a rope-walker (*dorboz*) and a trained goat or monkey. Puppet traditions are marginal compared with the Iranian or Turkish worlds. The horse-game **buzkashi** — the mounted contest for a headless goat carcass — functions as public spectacle across the Uzbek north and is inseparable from the festival calendar.
+Solo male and female improvisations built on wrist work, shoulder shimmy, and rapid spins dominate; comic clown-actors (masxaraboz) and acrobats perform at bazaar festivals, and the mounted buzkashi contest functions as public spectacle.
+
+- **Oʻyin** — Improvised village dance performed to doira rhythms at weddings and circumcision feasts, built on wrist articulation and shoulder shimmy.
+- **Yelka** — A shoulder shimmy movement that is a signature element of Uzbek dance.
+- **Masxaraboz** — An itinerant clown-actor and jester who performs comic dialogues and satirical sketches at bazaar festivals.
+- **Dorboz** — A rope-walker who performs acrobatics as part of bazaar theatre, sometimes accompanied by trained animals.
+- **Buzkashi** — A mounted contest for a headless goat carcass that functions as public spectacle and is inseparable from the festival calendar.
 
 ## Festivals & rituals
 
-The year opens with **Nowruz** on 21 March, celebrated with special intensity at the Shrine of Ali in Mazar-e-Sharif, where the raising of the *janda* (sacred banner) draws pilgrims for the forty-day **Gul-i Surkh** ("red flower") festival timed to the blooming of the steppe tulips; buzkashi tournaments, wrestling (*kurash*), and the cooking of *sumalak* (a slow wheat-germ pudding stirred through the night by women) mark the season. **Ramazon** and **Eid al-Fitr** (*Roʻza hayit*) and **Eid al-Adha** (*Qurbon hayit*) structure the Islamic year; the shrine also draws Shia and Sunni pilgrims on Ashura and on the birthday of Ali. Life-cycle rites include the *beshik toʻyi* (cradle ceremony) for a newborn, the *sunnat toʻyi* (circumcision feast, often the largest party of a boy's childhood), the multi-day wedding cycle of *fatiha* (betrothal), *non sindirish* (bread-breaking), *hino-bandon* (henna night), *nikoh* (contract), and *kelin salom* (bride's greeting of in-laws), and the funerary *janoza* followed by commemorations at three, seven, twenty, and forty days and at the one-year mark.
+Nowruz in spring initiates the festival year with intense shrine pilgrimage and the forty-day Gul-i Surkh festival; Islamic holidays, life-cycle rites (cradle ceremony, circumcision feast, multi-day wedding), and funerary commemorations structure the year.
+
+- **Nowruz and Gul-i Surkh** (*Nowruz, Gul-i Surkh*) — The spring new year on 21 March, marked by the raising of the sacred banner (janda) at Mazar-e-Sharif and a forty-day festival timed to tulip blooming.
+- **Buzkashi tournaments** (*buzkashi*) — Mounted goat-carcass contests held during Nowruz and other festivals; a central Uzbek spectacle and cultural practice.
+- **Sunnat toʻyi** — The circumcision feast, often the largest party of a boy's childhood, with music, dance, and communal food.
+- **Hino-bandon** — The pre-wedding henna night when brides' palms and fingertips are dyed; a threshold ritual before the marriage contract.
+- **Kelin salom** — The bride's formal greeting of her in-laws on the wedding day; the final event in the multi-day wedding cycle.
 
 ## Foodways
 
-The Uzbek kitchen of northern Afghanistan is a wheat-and-mutton kitchen with rice for feast days. The national dish is **palov** (Afghan Uzbeks say *osh* or *palov*): long-grain rice steamed over a base of *zirvak* — mutton, sliced yellow carrot, onion, cumin, and sometimes chickpeas, quince, or raisins — cooked in a *qazan*. Regional variants include the **Andkhoy palov** and the wedding *toʻy oshi* cooked for hundreds. Bread is the disc-shaped *non* (also *patyr*), stamped with a *chekich* rosette and baked on the walls of the *tandir* clay oven; it is never cut with a knife and never placed upside down. Everyday dishes are the mutton-and-noodle soup *shoʻrva*, hand-pulled noodles *laghmon*, steamed dumplings *manti*, fried turnovers *somsa* baked in the tandoor, and boiled dumplings *chuchvara*. Dairy runs to *qatiq* (yogurt), the dried yogurt-balls *qurut*, and clotted cream *qaymoq*. Green tea (*koʻk choy*) is drunk all day from handleless bowls (*piyola*), often with *navvot* rock sugar and sweets of *halva* and dried mulberries. Meat is halal; horse sausage (*qazi*), common north of the Oxus, is less prominent in Afghanistan than among Kazakh and Kyrgyz neighbours.
+The Uzbek kitchen is wheat-and-mutton based; palov (rice steamed over a zirvak of meat and vegetables) is the national dish, with regional variants and feast versions cooked for hundreds.
+
+- **Palov** (*palov, osh*) — Long-grain rice steamed over a zirvak base of mutton, yellow carrot, onion, cumin, and sometimes chickpeas or dried fruit; the national dish.
+- **Andkhoy palov** — A regional variant of palov from the Andkhoy region, reflecting local ingredients and preferences.
+- **Non** (*non, patyr*) — A disc-shaped flatbread stamped with a rosette (chekich) and baked on the walls of the tandir oven; never cut with a knife or placed upside down.
+- **Laghmon** — Hand-pulled noodles served in a rich broth with mutton and vegetables; an everyday dish.
+- **Qazi** — Horse sausage, a specialty north of the Oxus but less prominent in Afghanistan than among Kazakh and Kyrgyz neighbors.
 
 ## Oral tradition & literature
 
-The pre-eminent Uzbek epic is **Alpomish**, a Kipchak-derived *doston* of some 14,000 lines telling of the hero Alpomish, his wife Barchin, and his captivity among the Kalmyks; it is performed by *baxshi* bards to *dombra* accompaniment and is a shared heritage across Uzbek, Karakalpak, and Kazakh audiences. Also current are **Goʻroʻgʻli** (the Central Asian cycle of the outlaw-hero Koroghlu), the tragic romance **Tohir va Zuhra**, and religious *hikoyat* narratives from the lives of the Prophet, Ali, and the Naqshbandi saints. Chagatai literary heritage — above all the fifteenth-century Herat poet **Alisher Navoiy**, whose *Khamsa* remains a touchstone — is claimed as Uzbek cultural patrimony, and lines from Navoiy circulate as proverbs. Everyday oral genres include the four-line lyric *qoʻshiq*, the wedding lament *yor-yor*, riddles (*topishmoq*), and the anecdotes of Nasreddin (*Nasriddin Afandi*), the trickster-mullah whose donkey and quick tongue appear in every teahouse.
+The pre-eminent epic is Alpomish (some 14,000 lines of Kipchak-derived verse); Goʻroʻgʻli, Tohir va Zuhra, and religious narratives circulate widely, alongside the proverbs of Alisher Navoiy and the anecdotes of Nasreddin the trickster-mullah.
+
+- **Alpomish** — A Kipchak-derived doston of some 14,000 lines about a hero's captivity and return; a shared heritage of Uzbek, Karakalpak, and Kazakh audiences.
+- **Goʻroʻgʻli** — The Central Asian cycle of the outlaw-hero Koroghlu, widely performed and recited.
+- **Tohir va Zuhra** — A tragic romance doston, part of the shared Uzbek and Tajik oral tradition.
+- **Alisher Navoiy** — A fifteenth-century Herat poet whose Khamsa is a cultural touchstone; lines from his work circulate as proverbs.
+- **Nasriddin Afandi** (*Nasriddin Afandi, Nasreddin*) — A trickster-mullah whose anecdotes appear in every teahouse; tales of his donkey and quick tongue are shared across the Islamic world.
 
 ## Language & religion
 
-Uzbek belongs to the Karluk (Southeastern) branch of the Turkic family, closely related to Uyghur and descended, as a literary language, from Chagatai. Afghan Uzbek is written in a modified Perso-Arabic script (unlike the Latin/Cyrillic used in Uzbekistan), and most speakers are bilingual in Dari. Northern dialects preserve Kipchak features; the Balkh–Mazar variety is closer to standard Karluk. Religiously, Afghan Uzbeks are overwhelmingly Sunni Muslims of the Hanafi school, with strong Naqshbandi and Yasawi Sufi affiliations — the Naqshbandiyya was founded in Bukhara and the shrine of Ahmad Yasawi in Turkestan is a spiritual reference point. Folk Islam braids into pre-Islamic Turkic and Iranian layers: shrine pilgrimage (*ziyorat*), amulet use (*tumor*), the veneration of Ali at Mazar, and Nowruz observance are all defended as compatible with orthodox practice.
+Uzbek (Karluk branch of Turkic) is written in Perso-Arabic script in Afghanistan; speakers are bilingual in Dari. Afghan Uzbeks are Sunni Muslims (Hanafi school) with strong Naqshbandi and Yasawi Sufi ties, and folk Islam braids pre-Islamic Turkic and Iranian layers into orthodox practice.
+
+- **Karluk Uzbek** (*Uzbek*) — The language belongs to the Karluk (Southeastern) Turkic branch; closely related to Uyghur and descended from Chagatai literary tradition.
+- **Chagatai literary heritage** (*Chagatai*) — The fifteenth-century literary language; Chagatai texts and poetry (especially Navoiy) remain a touchstone of Uzbek cultural identity.
+- **Hanafi school** (*Hanafi*) — The Islamic juridical school followed by Afghan Uzbeks, one of the four Sunni schools of Islamic law.
+- **Naqshbandi order** (*Naqshbandiyya*) — A Sufi order founded in Bukhara; strong affiliation among Afghan Uzbeks and a channel for folk devotional practice.
+- **Ziyorat** — Shrine pilgrimage, a folk Islamic practice braiding pre-Islamic Turkic and Iranian veneration into Sunni orthodoxy.
+
+## Glossary
+
+- *chapan* — quilted silk or cotton-lined man's coat, the national Uzbek garment
+- *adras* — warp-ikat cloth of silk warp and cotton weft with feathered cloud edges
+- *bekasab* — heavier all-silk striped satin, warp-ikat
+- *suzani* — large embroidered cotton or silk hanging worked as a dowry piece
+- *doʻppi* — four-panel embroidered skullcap worn by men and women
+- *oʻtov* — Central Asian felt tent with wooden lattice frame and crown wheel
+- *hovli* — courtyard house form with interior columned porches and wall niches
+- *ayvan* — columned porch or portico inside a house
+- *tokcha* — wall niche for bedding and vessels
+- *dutor* — two-string long-necked lute, silk-strung and plucked
+- *doira* — frame drum used in wedding bands and dance accompaniment
+- *baxshi* — epic bard who recites long narrative poems (doston) to lute accompaniment
+- *doston* — long narrative epic poem, typically sung or recited by a bard
+- *buzkashi* — mounted contest for a headless goat carcass, a festival spectacle
+- *tumor* — triangular or cylindrical amulet case holding a Qur'anic scroll
+- *palov* — long-grain rice steamed over a base of meat, vegetables, and spices
+- *zirvak* — the base of mutton, yellow carrot, onion, and spices for palov
+- *non* — disc-shaped flatbread baked on the walls of a tandir oven
+- *tandir* — clay cylinder oven for baking bread
+- *qazan* — heavy cast-iron cauldron used for cooking palov and stews
+- *Naqshbandiyya* — Sufi order founded in Bukhara with strong Afghan Uzbek affiliations
+- *ziyorat* — shrine pilgrimage, a folk Islamic practice
+- *Chagatai* — fifteenth-century literary language; ancestor of modern Uzbek
 
 ## Sources & further reading
 
-- Adshead, S. A. M. *Central Asia in World History.* Palgrave Macmillan, 1993.
-- Soucek, Svat. *A History of Inner Asia.* Cambridge University Press, 2000.
-- Kalter, Johannes, and Margareta Pavaloi (eds). *Uzbekistan: Heirs to the Silk Road.* Thames & Hudson, 1997.
-- Centlivres, Pierre, and Micheline Centlivres-Demont. *Et si on parlait de l'Afghanistan? Terrains et textes 1964–1980.* Éditions de la Maison des sciences de l'homme, 1988.
-- Fitrat, Abdurauf, and modern editors — for classical Chagatai literary background; see also Eric Schluessel, *An Introduction to Chaghatay* (Michigan, 2018).
-- Levin, Theodore. *The Hundred Thousand Fools of God: Musical Travels in Central Asia (and Queens, New York).* Indiana University Press, 1996 — on shashmaqom and baxshi traditions.
+- Adshead, S. A. M. Central Asia in World History. Palgrave Macmillan, 1993.
+- Soucek, Svat. A History of Inner Asia. Cambridge University Press, 2000.
+- Kalter, Johannes, and Margareta Pavaloi (eds). Uzbekistan: Heirs to the Silk Road. Thames & Hudson, 1997.
+- Centlivres, Pierre, and Micheline Centlivres-Demont. Et si on parlait de l'Afghanistan? Terrains et textes 1964–1980. Éditions de la Maison des sciences de l'homme, 1988.
+- Fitrat, Abdurauf, and modern editors — for classical Chagatai literary background; see also Eric Schluessel, An Introduction to Chaghatay (Michigan, 2018).
+- Levin, Theodore. The Hundred Thousand Fools of God: Musical Travels in Central Asia (and Queens, New York). Indiana University Press, 1996 — on shashmaqom and baxshi traditions.
 - Djumaev, Alexander — writings on Central Asian maqam and Bukharan musical culture.
-- Harvey, Janet. *Traditional Textiles of Central Asia.* Thames & Hudson, 1996.
+- Harvey, Janet. Traditional Textiles of Central Asia. Thames & Hudson, 1996.
 - Wikipedia: https://en.wikipedia.org/wiki/Uzbeks
 - UNESCO ICH — Nowruz (RL/02097): https://ich.unesco.org/en/RL/02097
 - UNESCO ICH — Sericulture and traditional production of silk for weaving (RL/01890): https://ich.unesco.org/en/RL/01890
@@ -86,3 +176,4 @@ Uzbek belongs to the Karluk (Southeastern) branch of the Turkic family, closely 
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Uzbek
 - Victoria & Albert Museum, Central Asian textiles collection: https://collections.vam.ac.uk/search/?q=uzbek
 - Metropolitan Museum of Art, Islamic Art collection (Timurid Central Asia): https://www.metmuseum.org/art/collection/search#!?q=uzbek
+

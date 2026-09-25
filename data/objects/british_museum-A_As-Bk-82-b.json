@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As-Bk-82-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As-Bk-82-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As-Bk-82-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As.Bk.82.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This shows a bark/wood knife sheath with woven rattan cord and fur/hide wrapping, consistent with Dayak mandau (parang) sheaths from Borneo, though it is not metal itself. The museum's own metadata mislabels the category as metalwork when it is actually a wood/bark object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "knife-sheath",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "knife-sheath",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Knife sheath made of bark.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/metalwork/dayak/images/bm_A_As-Bk-82-b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "be82e5a3a92e3ea0d5fe1d018f737dcdc17d456bc61519b9eb27b35d85f13f0c",
+      "bytes": 51242,
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\metalwork\\dayak\\images\\bm_A_As-Bk-82-b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:44:39.935444+00:00"
+}

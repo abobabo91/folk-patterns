@@ -5,63 +5,169 @@ region: "Middle East North Africa"
 tags: [ethnography, middle-east-north-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Nubians, descendants of ancient Kush, Kerma, Napata, and Meroë |
+| Where | Along the Nile between Aswan in southern Egypt and the Fourth Cataract in northern Sudan; now concentrated in Aswan governorate and resettlement villages |
+| How many | 300,000–500,000 in Egypt; 3–5 million across the border in Sudan |
+| Language | Kenuzi and Fadicca, branches of the Eastern Sudanic family; increasingly Egyptian Arabic |
+| Religion | Sunni Islam of the Maliki school; Sufi orders; veneration of local saints |
+| Known for | whitewashed mud-brick houses with relief-painted façades · heavy silver bridal jewelry · five-string lyre (kissir/tanbūra) and hand-clap music · palm-frond basketry and coiled mats · Nile-centered foodways and wedding ceremonies |
+
 ## Overview
 
-The Nubians (*Nūbiyyūn* in Arabic; *Nubīn* in their own languages) are a Nilotic-riverine people whose ancestral homeland stretches along the Nile between the First Cataract at Aswan in southern Egypt and roughly the Fourth Cataract at Debba in northern Sudan — the strip historically called *Bilād al-Nūba* or, in older European scholarship, Lower and Upper Nubia. They are the descendants of the peoples of Kush, Kerma, Napata and Meroë, and of the Christian kingdoms of Nobatia, Makuria and Alwa which flourished between the sixth and fourteenth centuries CE, and their culture represents one of the deepest continuities in the Nile Valley outside pharaonic Egypt itself. In Egypt they are concentrated in the governorate of Aswan and in resettlement villages such as Kom Ombo (*Nasr al-Nūba*) built for those displaced by the flooding of Old Nubia beneath Lake Nasser after the completion of the High Dam in 1964; further large communities live in Cairo, Alexandria and Suez, and the greater share of the Nubian population — perhaps three to five million against roughly 300,000–500,000 in Egypt — lives across the border in Sudan. Their languages belong to the Nubian branch of the Eastern Sudanic family within Nilo-Saharan and comprise two principal Egyptian varieties, *Kenuzi* (or *Kunūzi*, *Mattokki*) spoken from Aswan southward to Wadi es-Sebua, and *Fadicca* (*Fadidja*, *Fiadidja*, *Nobiin*) spoken from there to the Sudanese border and continuing among the *Mahas* of northern Sudan, with the related *Dongolawi* farther south around the Third Cataract; the Kenuz and Dongolawi dialects are mutually intelligible while Fadicca–Mahas–Nobiin forms a separate cluster. In folk-culture terms the Nubians matter as the makers of the whitewashed, relief-modelled and polychrome-painted mud-brick houses of the Nile bend, of a distinctive palm-frond and coiled-grass basketry, of heavy silver bridal jewellery, and of a music built on the five-string lyre and hand-clap polyrhythm that has passed, through singers such as Hamza El Din and Ali Hassan Kuban, into the world-music canon.
+The Nubians are a Nilotic people whose culture stretches back to the ancient kingdoms of Kush and the Christian kingdoms of the medieval period. Most live in Sudan, but large communities inhabit Aswan and resettlement villages in Egypt, displaced when Lake Nasser flooded Old Nubia after the 1964 High Dam. Their material culture—painted houses, silver jewelry, lyre-based music, and palm-frond crafts—represents one of the deepest continuities in the Nile Valley. They speak two endangered Nubian languages and practice Sunni Islam layered with older river veneration and Sufi healing traditions.
 
 ## Material culture
 
+Nubian material culture centers on architectural decoration, body adornment, and palm-frond weaving rather than loom textiles, with a consistent palette of indigo blue, ochre yellow, iron red, chalk white, and kohl black.
+
 ### Textile & pattern traditions
 
-Nubians are not primarily loom weavers in the West African or Central Asian sense, and their signature "pattern tradition" is architectural and bodily rather than textile: the whitewashed façade, the plastered interior wall, the woven palm mat and the beaded belt carry the ornamental vocabulary that in other cultures would be borne by cloth. What weaving does exist is largely in palm fibre and grass — the coiled and plaited mats (*birsh*, *tabaq*) discussed under basketry — and in imported cotton and wool for household covers. Nubian women historically embroidered the edges of the *jarjar* overdress and the cotton head-veil (*tarha*) with drawn-thread work and coloured cross-stitch in geometric bands, and beadwork panels sewn to leather or cloth belts (*hijāb*, *ḥagāb*) form the closest thing to a portable Nubian textile art. The characteristic Nubian palette — indigo blue, ochre yellow, iron red, chalk white, kohl black, with sparing use of imported green — recurs across all these media. Motif vocabulary shared between house-painting, beadwork and basketry includes the *khamsa* or open hand, the crescent (*hilāl*), radiating suns and stars, the palm frond (*sa'af*), the crocodile (*timsāḥ*) fixed above doorways as protection, the fish, the dove, the steamer and later the aeroplane and car — added in the twentieth century as tokens of the pilgrim's or migrant's journey — and long registers of triangles, lozenges and toothed bands read as evil-eye repellents.
+Nubians carry ornament on the built environment and the body rather than in cloth, with geometric beadwork, embroidered veil edges, and painted palm mats bearing a shared symbolic vocabulary.
+
+- **coiled palm-mat food cover** (*ṭabaq*) — Circular woven mat in concentric bands of natural, red-dyed and black fibre, used to cover communal food trays and hung as interior ornament.
+- **beaded belt** (*hijāb, ḥagāb*) — Beadwork panel sewn to leather or cloth belts worn by women and drum players, forming the closest thing to a portable Nubian textile art.
+- **head veil** (*tarha*) — Long black cotton veil embroidered at the edges with drawn-thread work and coloured cross-stitch in geometric bands.
+- **sleeping mat** (*birsh*) — Palm-frond woven sleeping surface, part of a major domestic weaving industry.
+- **evil-eye motif** (*khamsa, hilāl, timsāḥ*) — The open hand, crescent, sun, star, crocodile and other geometric designs repeated across house-painting, beadwork and basketry as apotropaic symbols.
 
 ### Clothing & dress
 
-Men's everyday dress is the ankle-length white cotton *jallābiyya* worn over loose *sirwāl* trousers, a white skullcap (*ṭāqiyya*) sometimes wound with a long white or coloured turban (*'imma*), and leather sandals; older men in the Sudanese-facing communities may wear the wide-sleeved *jibba* and a wound *tāqiyya-plus-'imma* in the Sudanese style rather than the Egyptian. Women's traditional dress is the *jarjar*, a full-length black overdress of light gauze with very wide sleeves and a train, worn over a coloured underdress and drawn up and pinned at the shoulder for work; over it goes a long black *tarha* head-veil, and married women in older photographs are shown with the veil fully enveloping the body in the manner of the Sudanese *tōb*. Bridal dress adds a heavy layer of silver jewellery over a red or golden underdress, with the face and hands patterned in henna (*ḥinnā*) and, in earlier generations, with fine facial *shulūkh* scarification of three vertical cheek-lines or with lip and gum tattooing (*dagg*) in indigo — practices now largely abandoned among younger women but remembered in wedding song. Children wear miniature versions of adult dress with amuletic additions: a leather-cased Qur'anic *ḥijāb* on a cord, cowrie shells sewn to the cap, and a small silver *khamsa* pinned to the shoulder.
+Men wear white cotton jallābiyya and turban; women's traditional dress is the black gauze jarjar overdress with a long veil, replaced with bridal silver jewelry and henna for weddings.
+
+- **men's tunic** (*jallābiyya*) — Ankle-length white cotton everyday dress worn with loose trousers, a skullcap and sometimes a wound turban.
+- **women's overdress** (*jarjar*) — Full-length black gauze dress with very wide sleeves and a train, worn over a coloured underdress and pinned at the shoulder for work.
+- **bridal henna** (*ḥinnā*) — Fine geometric patterns applied to the bride's hands and feet in the night before the wedding.
+- **facial scarification** (*shulūkh*) — Three vertical cheek-lines once marking Fadicca and Mahas identity but now largely abandoned among younger women.
+- **lip and gum tattooing** (*dagg*) — Indigo marks on lips and gums that survived longer among older women but are remembered mainly in wedding song.
 
 ### Architecture
 
-The Nubian house is the group's most internationally recognised material contribution and the reason the Egyptian architect Hassan Fathy took Old Nubian building as the model for his New Gourna experiment. The classical Nile-bend house is a single-storey compound of sun-dried mud brick (*ṭūb*) built around one or more open courtyards, presenting to the lane a long blank wall broken only by a monumental gateway (*bawwāba*) whose façade is the principal canvas of the household's decorative programme. Roofs are either flat palm-log-and-mat terraces in the northern Kenuz zone or, most famously, catenary mud-brick vaults and shallow domes (*qubba*) built without centring by the leaning-course technique preserved in Upper Egypt and northern Sudan and revived by Fathy as a low-cost vernacular for the twentieth century. Interior rooms open onto the courtyard through arched doorways; the *mandara* or reception room for male guests faces the gate, while women's quarters and the kitchen with its clay oven (*ṭābūna*) and grain silos (*matmūra*) lie deeper in the compound. **Nubian house painting** is applied to the whitewashed gateway and courtyard walls in lime, ochre, indigo and charcoal, sometimes worked in low relief with the fingers before painting; the repertoire includes the *khamsa*, sun and crescent, mounted horsemen, steamers and lorries, mosques with minarets, and the pilgrim's Kaaba and Buraq painted after the household's return from the *ḥajj* (a genre related to but distinct from the *ḥajj* paintings of Upper Egyptian villages farther north). Doorways are studded with crocodile skulls, ostrich eggs and mirrors as apotropaic devices. The submerging of Old Nubia beneath Lake Nasser after 1964 destroyed most of the classical villages between Aswan and Wadi Halfa; the concrete-block government houses of *Nasr al-Nūba* at Kom Ombo were built without courtyards or vaulted roofs, and much twentieth-century Nubian effort has gone into re-painting their façades in the old vocabulary and, since the 1990s, into rebuilding vaulted mud-brick houses on the shore of Lake Nasser at villages such as Gharb Soheil and Elephantine as both dwellings and guest houses for tourists.
+The Nubian house is a single-storey mud-brick compound built around open courtyards, famous for its catenary vaults and domes, with a monumental gateway that serves as the principal canvas for decorative house-painting.
+
+- **mud-brick house** (*ṭūb*) — Sun-dried brick construction built around one or more courtyards, presenting to the lane a long blank wall broken only by a decorated gateway.
+- **gateway** (*bawwāba*) — Monumental entrance whose whitewashed façade is the principal site of house-painting decoration and apotropaic devices.
+- **vaulted roof** (*qubba*) — Catenary mud-brick domes built without centring by the leaning-course technique, now revived by architect Hassan Fathy as a low-cost vernacular model.
+- **reception room** (*mandara*) — Room opening onto the courtyard through an arched doorway, reserved for male guests and facing the gate.
+- **clay oven** (*ṭābūna*) — Kitchen cooking vessel, part of the women's quarters built deeper in the compound alongside grain silos.
 
 ### Ceramics, metalwork & everyday objects
 
-Nubian pottery is coil-built by women without a wheel, from Nile silt tempered with donkey dung or chopped straw, and fired in open bonfires of palm fibre; the resulting ware is a soft red-brown earthenware used for the porous water jar (*zīr*) set in a wooden stand at the gate to cool drinking water by evaporation, the wide-mouthed cooking pot (*qidra*), the incense burner (*mabkhara*) and the small cup for the palm-fibre-strained coffee (*jabana*) served in the Sudanese style. Decoration is limited to burnished bands, impressed cord and, in some communities, red-slip painted triangles. Wheel-thrown and kiln-fired glazed pottery in the tourist market at Aswan is a later, Cairo-influenced tradition. Metalwork is mostly imported — brass trays, tinned-copper coffee pots, iron cooking tripods — but silver jewellery (see below) is a genuinely local craft. Nubian leatherwork produces the amulet case (*ḥijāb*), the whip (*kurbāj*) of hippopotamus hide historically traded from the south, sandals, and the beaded and tasselled belts worn by women and by *dūfūfa*-drum players. Palm-frond weaving is a major domestic industry: from the leaf of the date palm women plait coiled and stitched circular food covers (*ṭabaq*) in concentric bands of natural, red-dyed and black-dyed fibre — used to cover the communal tray and hung on interior walls as ornament — as well as sleeping mats (*birsh*), grain baskets, fans and the palm-rib bedstead (*angarīb*) laced with rawhide that is shared with Sudanese material culture.
+Nubian pottery is hand-coiled from Nile silt and fired in open bonfires; metalwork is mostly imported except for local silver jewelry, while palm-frond weaving produces major domestic crafts.
+
+- **water jar** (*zīr*) — Porous red-brown earthenware set in a wooden stand at the gate to cool drinking water by evaporation.
+- **cooking pot** (*qidra*) — Wide-mouthed earthenware vessel for stews and slow-cooked dishes.
+- **incense burner** (*mabkhara*) — Small ceramic vessel used in household and ritual contexts.
+- **palm-rib bedstead** (*angarīb*) — Woven and rawhide-laced bed shared with Sudanese material culture.
+- **amulet case** (*ḥijāb*) — Leather case holding Qur'anic verses, worn as protection by men, women and children.
 
 ### Jewelry & body adornment
 
-Nubian jewellery is heavy silver, historically hammered and cast by itinerant Sudanese and Yemeni-descended smiths and now increasingly by Aswan bazaar workshops, and it forms both the bride's dowry and her portable wealth. The characteristic bridal set includes a domed forehead ornament, temple pendants hung with small bells and coins, large crescent (*hilāl*) earrings, a hinged neck ring (*ṭawq*), long strands of Ethiopian and Yemeni silver beads interspersed with amber and coral, a pectoral of linked *khamsa* hands, cylindrical or triangular amulet cases (*ḥijāb*, *ḥirz*) containing folded Qur'anic verses, wide bracelets (*asāwir*) worn in pairs, and heavy anklets (*khulkhāl*) that once signalled a married woman's step. Cowrie shells, imported across the Red Sea and up the Nile from the Indian Ocean, are sewn to caps, belts and children's clothes as fertility and evil-eye charms. Henna is applied in fine geometric patterns to the bride's hands and feet during the *laylat al-ḥinnā* on the eve of the wedding. Facial scarification — three short vertical lines on each cheek — was in earlier generations the mark of Fadicca and Mahas identity but has effectively vanished under twentieth-century Egyptian and Sudanese state pressure and shifting aesthetic norms; lip and gum tattooing in indigo (*dagg*) survived somewhat longer among older women.
+Nubian jewelry is heavy silver hammered or cast by Sudanese and Yemeni smiths, forming the bride's dowry and portable wealth, complemented by henna, cowrie shells and historical facial marking.
+
+- **crescent earrings** (*hilāl*) — Large silver crescents hung from the ears as part of the bridal set.
+- **neck ring** (*ṭawq*) — Hinged silver collar worn as part of bridal adornment.
+- **pectoral** (*khamsa*) — Linked silver hand ornaments worn across the chest, combining protection symbolism with wealth display.
+- **anklet** (*khulkhāl*) — Heavy silver ankle ornament that once signalled a married woman's status through the sound of her step.
+- **cowrie shell charm** (*cowrie*) — Imported shells sewn to caps, belts and children's clothes as fertility and evil-eye amulets.
 
 ## Music & performance
 
-Nubian music is built on two instrumental foundations — the five- or six-string bowl lyre known as *kissir* or *tanbūra* (the latter name shared with the Red Sea *zār* cult farther east), and a battery of frame and goblet drums including the large double-headed *dūfūfa* or *nuggāra*, the tambourine *duff* or *ṭār*, and hand-clap polyrhythm that in performance often replaces melodic instruments altogether. Song is in the Nubian languages rather than Arabic and is organised around call-and-response between a lead singer (*shā'ir*) and a chorus of hand-clapping women, with lines built from short repeated cells over a driving 6/8 or 12/8 pulse — the pattern that gave Nubian dance music its distinctive lilt when it was electrified in Cairo in the 1970s and 1980s by Ali Hassan Kuban and Mohamed Mounir, whose fusion of *dūfūfa* rhythm with brass and electric guitar carried Nubian music into the Egyptian and international mainstream. The solo art-music tradition of Hamza El Din, based on the *oud* and the *tār* and drawing on the melodic patterns of Fadicca village song, is a parallel twentieth-century development. Wedding and Nile-festival repertoires are distinct from lament (*bikā'*) and from the sung Qur'anic and Sufi *madḥ* praise-song shared with Egyptian and Sudanese Islamic practice. Ritual *zār* possession ceremonies, conducted by female practitioners for the healing of afflicted women, use the *tanbūra* lyre and the *manjūr* hoof-rattle belt in a repertoire shared across the Red Sea with the Ethiopian and Arabian coasts.
+Nubian music rests on the five-string bowl lyre and frame drums with hand-clap polyrhythm, organized around call-and-response between a lead singer and a hand-clapping chorus in the Nubian languages.
+
+- **five-string lyre** (*kissir, tanbūra*) — The foundational melodic instrument of Nubian music, played solo in art-music traditions and in ensemble for wedding and festival songs.
+- **double-headed drum** (*dūfūfa, nuggāra*) — Large frame drum that provides the driving polyrhythmic pulse in wedding music and that was electrified into the Cairo mainstream in the 1970s–1980s.
+- **lead singer** (*shā'ir*) — Vocalist who initiates call-and-response with a hand-clapping chorus of women.
+- **healing possession ceremony** (*zār*) — Ritual led by female practitioners using the tanbūra lyre and manjūr hoof-rattle to heal afflicted women, shared across the Red Sea.
+- **praise song** (*madḥ*) — Sung Qur'anic and Sufi devotional music shared with Egyptian and Sudanese Islamic practice.
 
 ## Dance & theatre
 
-Nubian dance is line- and circle-based rather than solo-virtuosic. In the *aragīd* wedding dance, men and women form facing lines that advance, retreat and cross to the beat of the *dūfūfa*, with the bride and groom eventually drawn into the centre; shoulder-shimmy movements and small precise footwork predominate over the hip articulation characteristic of Egyptian *raqṣ baladī* farther north. The stick dance shared with Upper Egyptian *ṣa'īdī* culture is performed by Kenuzi men at weddings and moulids, and a distinct crocodile-and-hunter mimetic dance is remembered in some villages. Formal theatre in the Western sense is a modern import, but the wedding itself is treated as a multi-day dramatic sequence with named scenes — the *laylat al-ḥinnā*, the procession to the Nile for the bride's ritual bath, the *jirtig* anointing with sandalwood and perfume shared with Sudanese practice, the entry into the marital house — each with its own songs, costumes and blocking.
+Nubian dance is line- and circle-based with facing formations, shoulder-shimmy and precise footwork, as opposed to the solo hip-articulated dance of Egyptian lowlands.
+
+- **wedding line dance** (*aragīd*) — Men and women form facing lines that advance, retreat and cross to the dūfūfa beat, with the bride and groom eventually drawn to the centre.
+- **stick dance** (*sa'īdī*) — Stick-wielding dance performed by Kenuzi men at weddings and moulids, shared with Upper Egyptian cultural practice.
+- **crocodile-and-hunter dance** (*crocodile dance*) — Mimetic performance remembered in some villages, combining hunted-animal play with protective symbolism.
+- **henna night** (*laylat al-ḥinnā*) — First scene of the multi-day wedding drama, where the bride receives henna and songs specific to this rite.
+- **sandalwood anointing** (*jirtig*) — Scene of the wedding sequence where bride and groom are anointed with perfumes, shared with Sudanese practice.
 
 ## Festivals & rituals
 
-The Nubian ritual year is structured by the Islamic calendar — the two *'īds*, Ramadan, the Prophet's birthday (*mawlid al-nabī*), and pilgrimage to Mecca, whose returning pilgrim is welcomed with painted house-façade and slaughtered sheep — overlaid on a Nile-centred cycle whose central figure is the river itself. Weddings are the largest folk-cultural events, commonly lasting several days and involving the whole village; the Nile bath of the bride and groom, in which the couple are led to the water at dawn to be sprinkled and to have Nile water poured over their hands, preserves an evidently pre-Islamic layer of river veneration. Birth is marked at seven days by the *sebū'*, shared with wider Egyptian practice, in which the infant is passed over a brass mortar struck with a pestle while women chant instructions for a good life. Local saints' *mawālid* draw pilgrims to shrines along both banks. The *zār* healing ceremony, though officially disapproved of by orthodox clerics, remains an important women's ritual space. Since the trauma of the 1964 displacement, the annual commemoration of the flooding of Old Nubia has itself become a Nubian civic ritual, with photograph exhibitions, poetry readings and songs of return (*al-'awda*).
+The Nubian ritual year follows the Islamic calendar overlaid on a Nile-centred cycle; weddings are the largest cultural events, lasting several days and involving whole villages.
+
+- **Islamic festivals** (*'īds, mawlid al-nabī*) — The two feast days and the Prophet's birthday structure the ritual year, with returning pilgrims welcomed with painted façades and sacrificed sheep.
+- **bride's Nile bath** (*Nile bath ritual*) — Dawn ceremony in which the couple are led to the water to be sprinkled and have Nile water poured over their hands, preserving pre-Islamic river veneration.
+- **seven-day naming** (*sebū'*) — Birth rite shared with wider Egyptian practice, in which the infant is passed over a struck brass mortar while women chant instructions for a good life.
+- **saint's shrine pilgrimage** (*mawālid*) — Annual pilgrimages to local saints' shrines along both banks of the Nile.
+- **remembrance of the flooding** (*al-'awda*) — Since 1964, annual civic commemoration of the drowned Old Nubia, with photographs, poetry and songs of return.
 
 ## Foodways
 
-Nubian cooking is a Nile-and-desert cuisine built on sorghum, millet, wheat, dates, fava beans, okra, molokhia and freshwater fish, lightly spiced compared with Cairene cooking and closer in spirit to northern Sudanese food than to Delta Egyptian. The staple bread is *kabid* or *gurrāṣa*, a thick sorghum or wheat disc baked on a clay griddle, alongside the thin fermented sorghum pancake *kisra* shared with Sudan. Signature dishes include *wayka*, a dried-okra stew thickened to a mucilaginous consistency and poured over kisra; *shorbat 'ads*, red-lentil soup; grilled and stewed Nile perch (*qishr al-bayāḍ*) and tilapia (*būltī*); *ful mudammas*, slow-cooked fava beans eaten at breakfast with oil, cumin and lime; and dates in every form, from fresh through the soft *raṭab* to the dried *tamr* pressed into blocks for travel. The characteristic Nubian drink is *jabana* coffee, green beans roasted at the moment of use in a small iron pan over charcoal, pounded with cardamom and cloves, brewed in a long-necked clay pot and poured through a palm-fibre strainer into tiny handleless cups; hibiscus infusion (*karkadē*), served hot in winter and iced in summer, is the ceremonial welcome drink offered to any guest crossing the threshold.
+Nubian cooking is lightly spiced, Nile-and-desert cuisine built on sorghum, millet, wheat, dates, beans and freshwater fish, closer in spirit to northern Sudan than to Cairo.
+
+- **sorghum bread** (*kabid, gurrāṣa*) — Thick sorghum or wheat disc baked on a clay griddle, the staple carbohydrate of Nubian meals.
+- **sorghum pancake** (*kisra*) — Thin fermented sorghum flatbread shared with Sudan, served as a base for stews.
+- **dried okra stew** (*wayka*) — Dried okra thickened to a mucilaginous consistency and poured over kisra, a signature Nubian dish.
+- **Nile fish** (*qishr al-bayāḍ, būltī*) — Grilled and stewed perch and tilapia from the Nile, prepared whole and eaten with bread.
+- **roasted green-bean coffee** (*jabana*) — Green beans roasted at the moment of use, pounded with cardamom and cloves, brewed in a clay pot and poured through a palm-fibre strainer.
 
 ## Oral tradition & literature
 
-The Nubian languages have historically been oral rather than written — the medieval Old Nubian of the Christian kingdoms was recorded in a Greek-derived alphabet with Coptic and Meroitic additions for liturgical and legal use between roughly the eighth and fifteenth centuries and then effectively disappeared as a written language — and the modern folk canon is transmitted through wedding song, praise poetry, lullaby, work song for date harvest and waterwheel (*sāqiya*) turning, and long narrative *ḥawādīt* tales told by grandmothers to children in the evening courtyard. Recurring narrative figures include *Angessana* and other river-spirits, the trickster jackal, the crocodile as ambivalent protector and devourer, and cycles of tales set in the vanished villages of Old Nubia that now function as memory-literature for the displaced generations. Twentieth-century Nubian intellectuals — the novelists Idris Ali, Haggag Hassan Oddoul and Yahya Mukhtar, and the poet Muhyi al-Din Saleh — wrote in Arabic but drew heavily on this oral corpus and on the theme of the drowned homeland; a modern movement to write the Nubian languages in Arabic script, and to a lesser extent in a revived Old Nubian alphabet, has produced primers, poetry collections and a small periodical literature since the 1990s.
+The Nubian languages are historically oral rather than written; modern folk canon is transmitted through wedding song, praise poetry, lullabies, work songs and narrative tales told in evening courtyards.
+
+- **grandmother's evening tale** (*ḥawādīt*) — Long narrative stories told by grandmothers to children in the courtyard, recurring figures include river-spirits, the trickster jackal, and crocodiles.
+- **river spirit** (*Angessana*) — Mythological figure in Nubian oral narrative, representing water power and danger.
+- **drowned-village cycle** (*Old Nubia tales*) — Story cycles set in the villages submerged beneath Lake Nasser, now functioning as memory-literature for displaced generations.
+- **date harvest song** (*work song*) — Sung poetry accompanying the labour of gathering and processing dates.
+- **waterwheel turning song** (*sāqiya song*) — Sung poetry accompanying the operation of Nile water-lifting machinery.
 
 ## Language & religion
 
-The Egyptian Nubians speak two Nubian languages, Kenuzi (Mattokki) and Fadicca (Nobiin), both of the Nubian sub-branch of Eastern Sudanic within Nilo-Saharan; both are severely endangered under the pressure of Egyptian Arabic, transmission to children having fallen sharply in the resettlement villages and almost entirely in the Cairo diaspora. Arabic is the language of school, mosque, state and increasingly of the home. Religiously the Nubians are Sunni Muslims of the Maliki school, converted gradually between the fourteenth and sixteenth centuries after the collapse of the Christian kingdoms of Makuria and Alwa; Sufi affiliations, especially with the Khatmiyya and Qadiriyya orders that dominate northern Sudan, are strong, and the veneration of local saints and the practice of the *zār* healing cult coexist with orthodox observance. A very small Nubian Christian presence — mostly Coptic Orthodox — survives in Aswan, and the medieval Christian past is visible in the archaeological record of church sites now beneath Lake Nasser and in salvage collections at the Nubia Museum in Aswan.
+Egyptian Nubians speak two severely endangered Nubian languages (Kenuzi and Fadicca) of the Eastern Sudanic family; they are Sunni Muslims of the Maliki school with strong Sufi and saint-veneration traditions.
+
+- **Kenuzi language** (*Kunūzi, Mattokki*) — Northern Egyptian Nubian dialect spoken from Aswan southward to Wadi es-Sebua, mutually intelligible with Dongolawi.
+- **Fadicca language** (*Fadidja, Nobiin*) — Southern Egyptian Nubian dialect spoken from Wadi es-Sebua to the Sudanese border and among the Mahas.
+- **Islamic school** (*Maliki*) — The school of Islamic law followed by Nubian Sunni Muslims.
+- **Islamic fraternity** (*Khatmiyya, Qadiriyya*) — Sufi orders with strong affiliations in Nubian practice and dominant in northern Sudan.
+- **Nubian Christian heritage** (*Coptic Orthodox, medieval church sites*) — A small Christian presence survives in Aswan; medieval churches now lie beneath Lake Nasser but are preserved in salvage collections and the Nubia Museum.
+
+## Glossary
+
+- *khamsa* — the open hand, protective symbol in beadwork, house-painting and jewelry
+- *hilāl* — crescent moon symbol, used in earrings and architectural decoration
+- *timsāḥ* — crocodile, fixed above doorways as protection and carved from skulls
+- *jallābiyya* — ankle-length white cotton tunic worn by men
+- *jarjar* — black gauze overdress worn by women with wide sleeves
+- *tarha* — long black head veil, embroidered and worn by women
+- *ṭābūna* — clay oven used in kitchen for bread and cooking
+- *bawwāba* — monumental gateway to a Nubian house compound
+- *qubba* — catenary mud-brick vault or dome roof
+- *zīr* — porous water jar set in a stand to cool drinking water by evaporation
+- *kissir* — five-string bowl lyre, foundational melodic instrument
+- *tanbūra* — five-string lyre, also name for Red Sea zār cult music
+- *dūfūfa* — large double-headed frame drum providing polyrhythmic pulse
+- *shā'ir* — lead singer in call-and-response with hand-clapping chorus
+- *zār* — healing possession ceremony conducted by female practitioners
+- *ḥinnā* — henna, applied in geometric patterns to bride's hands and feet
+- *ṭabaq* — coiled palm-mat food cover in concentric bands
+- *birsh* — palm-frond sleeping mat
+- *angarīb* — palm-rib bedstead laced with rawhide
+- *ḥijāb* — leather amulet case containing Qur'anic verses
+- *dagg* — indigo lip and gum tattoo, now largely abandoned
+- *kisra* — thin fermented sorghum pancake served as bread
+- *wayka* — dried-okra stew thickened and served over kisra
+- *al-'awda* — songs and ceremonies of return, commemorating the drowned homeland
 
 ## Sources & further reading
 
 - Wikipedia: "Nubians", "Nubian languages", "Nobiin language", "Kenzi language", "Nubia", "Nubian architecture", "Hassan Fathy", "Hamza El Din", "Ali Hassan Kuban".
 - UNESCO: Nubia Campaign (1960–1980) and the Nubia Museum, Aswan; related Sudanese ICH inscriptions on Nile Valley music and craft.
-- Robert A. Fernea, *Nubians in Egypt: Peaceful People* (University of Texas Press, 1973).
-- Armgard Grauer and Robert A. Fernea, "Nubian Village Art", *Natural History* (1972); Marjorie Ransom, *Silver Treasures from the Land of Sheba* (AUC Press, 2014) — comparative silver-jewellery reference.
-- Hassan Fathy, *Architecture for the Poor: An Experiment in Rural Egypt* (University of Chicago Press, 1973).
-- Nicholas S. Hopkins and Sohair R. Mehanna (eds.), *Nubian Encounters: The Story of the Nubian Ethnological Survey 1961–1964* (AUC Press, 2010).
-- Anne Jennings, *The Nubians of West Aswan: Village Women in the Midst of Change* (Lynne Rienner, 1995).
-- Giovanni Vantini, *Christianity in the Sudan* (EMI, 1981) — background on Nubian Christian heritage.
+- Robert A. Fernea, Nubians in Egypt: Peaceful People (University of Texas Press, 1973).
+- Armgard Grauer and Robert A. Fernea, "Nubian Village Art", Natural History (1972); Marjorie Ransom, Silver Treasures from the Land of Sheba (AUC Press, 2014) — comparative silver-jewellery reference.
+- Hassan Fathy, Architecture for the Poor: An Experiment in Rural Egypt (University of Chicago Press, 1973).
+- Nicholas S. Hopkins and Sohair R. Mehanna (eds.), Nubian Encounters: The Story of the Nubian Ethnological Survey 1961–1964 (AUC Press, 2010).
+- Anne Jennings, The Nubians of West Aswan: Village Women in the Midst of Change (Lynne Rienner, 1995).
+- Giovanni Vantini, Christianity in the Sudan (EMI, 1981) — background on Nubian Christian heritage.
+

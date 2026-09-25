@@ -5,96 +5,179 @@ region: "Central Asia"
 tags: [ethnography, central-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Kyrgyz, a Turkic people |
+| Where | Kyrgyzstan and the Tien Shan and Pamir-Alay mountain ranges, with communities in China, Afghanistan, Uzbekistan, and Turkey |
+| How many | Roughly 5 million in Kyrgyzstan |
+| Language | Kyrgyz, a Kipchak Turkic language |
+| Religion | Hanafi Sunni Muslims with pre-Islamic shamanic traditions |
+| Known for | The Epic of Manas, a 500,000-line oral poem performed from memory · Shyrdak mosaic felt carpets · The ak-kalpak tall white felt hat · Kok-boru, a mounted game with a headless goat carcass · Kymyz, fermented mare's milk |
+
 ## Overview
 
-The Kyrgyz are a Turkic people of the Tien Shan and Pamir-Alay ranges, numbering roughly 5 million in Kyrgyzstan with substantial populations in the Kizilsu Kirghiz Autonomous Prefecture of Xinjiang, the Wakhan Corridor of Afghanistan, the Fergana Valley in Uzbekistan, and diaspora settlements as far as Ulupamir in Van Province, Turkey. They speak Kyrgyz, a Kipchak Turkic language, and trace their ethnogenesis to the Yenisei Kyrgyz of the Sayan-Altai region, who migrated south to the Tien Shan between the 9th and 15th centuries and fused with local tribes to form the "forty tribes" of the Manas foundation myth. Their folk culture is defined by high-altitude transhumance between winter villages and summer *jailoo* pastures, and by a felt-working tradition that ranks among the most developed in Eurasia — the raw material of a nomadic architecture, wardrobe, and floor covering all sheared from the same flock.
+The Kyrgyz are a mountain people of Central Asia who migrated from the Sayan-Altai region to the Tien Shan between the 9th and 15th centuries. They live by herding sheep and horses, moving between winter villages in the valleys and summer pastures called jailoo. Their entire way of life — their homes, clothes, and floors — is built from felt made from their own wool. Their most famous treasure is the Epic of Manas, a giant poem about a hero who united the forty tribes, which bards still recite from memory.
 
 ## Material culture
 
+Kyrgyz material culture centers on felt, leather, and wood—the raw materials of nomadic herding—rather than pottery or ceramics.
+
 ### Textile & pattern traditions
 
-**_Shyrdak_** — mosaic-inlaid felt floor carpet made by cutting two contrasting sheets of dyed felt in mirror image and stitching the pieces together edge-to-edge so that positive and negative fields alternate; the seams are then couched with a coloured cord (*jyluu jip*). Inscribed on the UNESCO Urgent Safeguarding List in 2012, the *shyrdak* is the household textile of highest status, commissioned for weddings and dowries.
+Felt-making is the foundation of Kyrgyz textiles, with two main decorative types and a vocabulary of named motifs.
 
-**_Ala kiyiz_** — "motley felt," made by laying dyed wool directly onto a base fleece and rolling it in a *chiy* mat so the pattern fuses into the surface during felting. Softer and cheaper than *shyrdak*, with blurred, painterly outlines rather than sharp mosaic edges.
-
-**_Tush kiyiz_** — large embroidered wall hanging that lines the interior of the *boz üy* behind the seat of honour. Worked in silk chain-stitch on a dark cotton or velvet ground, typically by the bride and her female kin as part of the *sep* (trousseau), with the maker's name and date often stitched into the border.
-
-**_Chiy_** — screen woven from steppe reed (*Achnatherum splendens*), each stem individually wrapped with dyed wool before being twined together. Used both as an interior divider inside the yurt (the *ashkana chiy* screens off the kitchen quarter) and as the outer mat for rolling felt.
-
-**_Terme_ and _beshkeshte_** — narrow warp-faced woven bands used to lash the wooden frame of the yurt and to bind bedding rolls; *terme* is warp-pick patterning, *beshkeshte* is a five-heddle brocade.
-
-**_Kyrgyz felt carpet_ (general)** — beyond *shyrdak* and *ala kiyiz*, plain white *ak kiyiz* felts are made for saddle underlays, prayer mats, and the outer covering of the yurt itself.
-
-**Motif vocabulary.** *Kochkor müyüz* (ram's horn — the master motif, fertility and wealth), *it kuyruk* (dog's tail — protection), *kaz tamak* (goose throat), *tegerek* (roundel/sun), *jürök* (heart), *tumarcha* (small amulet, triangular), *bota köz* (camel's eye), *köpölök* (butterfly), *muyuz* (horn variants generally), *sanjyra* (genealogical/tree motif).
+- **Shyrdak** — A mosaic floor carpet made by cutting and stitching two contrasting sheets of dyed felt in mirror image, with seams couched in colored cord; the most prized household textile, commissioned for weddings.
+- **Ala kiyiz** — Softer, cheaper felt made by laying dyed wool onto a base fleece and rolling it, creating blurred, painterly patterns instead of sharp edges.
+- **Tush kiyiz** — A large embroidered wall hanging that lines the back of the yurt behind the seat of honor, worked by the bride and her female kin as part of her trousseau.
+- **Chiy** — A screen woven from reed with each stem wrapped in dyed wool, used inside the yurt to divide spaces and as a mat for rolling felt.
+- **Ram's horn motif** (*kochkor müyüz*) — The master motif in Kyrgyz felt decoration, symbolizing fertility and wealth.
 
 ### Clothing & dress
 
-The signature Kyrgyz garment is the *ak-kalpak*, a tall white felt hat with four black-stitched panels and an upturned brim, inscribed on the UNESCO Representative List in 2019 and worn as a marker of male ethnic identity across all ages. The panels' shape and the embroidery on the brim once encoded region and clan. Under the *kalpak* men wear a *chapan* (quilted coat) belted with a *kemer* studded with silver plaques, tucked into soft leather boots (*maasy*) worn inside overshoes (*kepich*).
+Kyrgyz dress is marked by the tall white ak-kalpak hat for men and the large elechek turban for married women, both rich in regional and status meanings.
 
-Women's dress centres on the *elechek*, a large white turban wound over a cap, historically indicating a married woman's status; its exact winding varied by region and could use up to thirty metres of muslin. Younger women wore the embroidered skullcap *takyya* and the sleeveless *chyptama* vest over a long dress (*köynök*) and pleated skirt (*beldemchi*) wrapped over the hips and richly embroidered along the front opening. Silver-plaited hair ornaments (*chach uchtuk*) weighted the ends of the braids.
+- **Ak-kalpak** — A tall white felt hat with four black-stitched panels and an upturned brim, worn by men of all ages as a marker of ethnic identity; the panels and brim embroidery once encoded region and clan.
+- **Elechek** — A large white turban wound over a cap and worn by married women, historically using up to thirty meters of muslin; its winding style varied by region.
+- **Chapan** — A quilted coat worn by men under the ak-kalpak, belted with a studded silver kemer.
+- **Chyptama** — A sleeveless embroidered vest worn by younger women over a long dress and pleated skirt.
+- **Hair ornaments** (*chach uchtuk*) — Silver-plaited ornaments weighted at the ends of braids, jingling as the wearer moved to mark her status as a young married woman.
 
 ### Architecture
 
-The *boz üy* ("grey house") is the Kyrgyz yurt: a domed lattice tent of willow *kerege* walls, bent roof-poles (*uuk*), and a wooden crown ring (*tündük*) whose silhouette appears on the national flag. Coverings are layered — reed *chiy* against the lattice, white felt *ak kiyiz* over that, and an outer waterproof layer lashed with *terme* bands. The interior is spatially coded: the *tör* (place of honour) opposite the door, men's side to the right holding harness and weapons, women's side to the left holding the hearth, cradle and kitchen *chiy*. Winter settlements (*kyshtak*) in the valleys use flat-roofed mudbrick and timber houses of the general Central Asian pattern, with a walled courtyard, an *aiwan* (verandah), and a raised sleeping platform, but the *boz üy* remains the ritually and aesthetically central dwelling and is re-erected for weddings, funerals, and the summer move to the *jailoo*.
+The yurt, or boz üy, is the ritual and aesthetic center of Kyrgyz life, though winter settlements use mudbrick houses.
+
+- **Yurt** (*boz üy*) — A domed lattice tent with willow walls, bent roof-poles, and a wooden crown ring; covered in layers of reed mat, white felt, and waterproof outer layer.
+- **Tündük** — The wooden crown ring at the top of the yurt, whose silhouette appears on the Kyrgyz national flag and retains solar symbolism.
+- **Tör** — The place of honor inside the yurt, positioned opposite the door.
+- **Ashkana chiy** — A reed screen inside the yurt that separates off the kitchen quarter on the women's side.
+- **Winter house** (*kyshtak*) — A flat-roofed mudbrick and timber house used in winter valleys, with a walled courtyard, verandah, and raised sleeping platform.
 
 ### Ceramics, metalwork & everyday objects
 
-Kyrgyz material culture is dominated by leather, wood and felt rather than pottery. Fermented mare's milk (*kymyz*) is churned in a large smoked-leather bag (*saba* or *chanach*) hung on a wooden frame beside the door; smaller leather flasks (*köökör*) hold it for travel. Wooden bowls (*chyny kap* cases protect porcelain ones), butter churns (*küü*), cradles (*beshik*), and the low round table (*üstöl*) are carved and sometimes bone-inlaid. Metalwork is concentrated on horse harness — silver-inlaid bridles, breast-straps and stirrups — and on knife hilts and sheaths (*bychak*). The *komuz* case, saddle (*eer*), and whip (*kamchy*) form a set of male-associated craft objects passed between generations.
+Kyrgyz craftsmanship favors leather, wood, and bone over pottery, with metalwork concentrated on horse gear and weapons.
+
+- **Churning bag** (*saba*) — A large smoked-leather bag hung on a wooden frame for churning fermented mare's milk, kept beside the yurt door.
+- **Cradle** (*beshik*) — A carved wooden cradle, sometimes bone-inlaid, used to rock infants.
+- **Round table** (*üstöl*) — A low round wooden table, carved and sometimes bone-inlaid, for eating and gathering.
+- **Saddle** (*eer*) — A wooden saddle, part of a set of male-associated craft objects passed between generations.
+- **Knife sheath** (*bychak*) — A decorated sheath for a knife, worked in silver inlay and a marker of male status.
 
 ### Jewelry & body adornment
 
-Silver is the dominant metal, worked in filigree and set with carnelian and coral imported along the Silk Road. Married women wore the *söykö* (earrings), pectoral chains (*önjük*), and the *tumar* — a triangular or cylindrical amulet case holding a Qur'anic verse or protective herb, worn against illness and the evil eye. Braid ornaments (*chach uchtuk*, *chach monchok*) ended in silver bells or coin pendants that jingled as the wearer moved, an audible marker of a young married woman. Rings (*shakek*) and heavy bracelets (*bilerik*) were part of the bride-price display. Men's adornment was concentrated on the belt and the knife.
+Silver jewelry, often set with carnelian and coral from the Silk Road, marks a woman's married status and a man's social standing.
+
+- **Tumar** — A triangular or cylindrical amulet case holding a Qur'anic verse or protective herb, worn against illness and the evil eye.
+- **Earrings** (*söykö*) — Silver filigree earrings worn by married women, often set with carnelian or coral.
+- **Pectoral chain** (*önjük*) — A heavy chain worn across the chest by married women.
+- **Braid ornaments** (*chach monchok*) — Silver ornaments ending in bells or coin pendants that jingled at the ends of braids, marking a young married woman's status.
+- **Bracelets** (*bilerik*) — Heavy silver bracelets worn as part of the bride-price display.
 
 ## Music & performance
 
-The central instrument is the *komuz*, a three-stringed fretless long-necked lute of apricot or juniper wood, played with a wide range of right-hand strumming and left-hand string-tapping techniques; its solo repertoire (*küü*) is programmatic, each piece attached to a story. The *kyl kyiak* is a two-stringed horsehair bowed fiddle held upright on the knee, associated with lament and epic accompaniment. The *temir komuz* (jaw harp, iron) and *choor* (end-blown flute of reed or wood) round out the core instrumentarium; the *sybyzgy* is a related long flute.
+The three-stringed komuz lute and the epic recitation of Manas are the heart of Kyrgyz music and performance.
 
-Vocal genres divide between the epic and the lyric. The **Kyrgyz epic trilogy of Manas, Semetey and Seytek** (UNESCO Representative List, 2013) is performed by a *manaschy* — a specialised bard who recites the half-million-line cycle from memory, unaccompanied, in a distinctive chanted delivery with fixed gestures. Shorter narrative songs (*dastan*) are performed by *irchi* singers, and improvised sung poetry contests belong to the *akyn* tradition (UNESCO Representative List, 2003, jointly with Kazakhstan), in which two poets face off with *komuz* in hand in a duel called *aitysh*. Wedding repertoire includes the bride's lament *koshok*, funeral repertoire the sung lament *joktoo*.
+- **Komuz** — A three-stringed fretless long-necked lute of apricot or juniper wood, with a solo repertoire of programmatic pieces called küü, each attached to a story.
+- **Kyl kyiak** — A two-stringed horsehair bowed fiddle held upright on the knee, associated with laments and epic accompaniment.
+- **Temir komuz** — An iron jaw harp played as part of the core instrumental repertoire.
+- **Choor** — An end-blown flute made of reed or wood.
+- **Epic of Manas** (*Manas*) — A half-million-line oral epic performed by specialized bards called manaschy from memory in a distinctive chanted delivery with fixed gestures.
 
 ## Dance & theatre
 
-The Kyrgyz have no tradition of masked drama or court dance comparable to sedentary Central Asian neighbours. Movement performance is concentrated in games on horseback and in the mimetic gestures of the *manaschy* rather than in an independent staged dance form. Twentieth-century Soviet cultural policy created a stage-choreographed "Kyrgyz national dance" repertoire — the *Kara jorgo* being the most widely performed today, with characteristic shoulder-shrugging and hand-flourishing set to a driving 6/8 rhythm — which draws on gestures from horse-taming, eagle-flight, and felt-rolling work. Ritualised performance survives most strongly in wedding games (*kyz oyun*) and in the shamanic seances of the *bakshy*, where drumming, whip-cracking and trance movement are used for healing.
+The Kyrgyz have no masked drama tradition; movement is centered in horseback games and the gestures of epic recitation.
+
+- **Kara jorgo** — A stage-choreographed national dance created in the Soviet era, with characteristic shoulder-shrugging and hand-flourishing in a 6/8 rhythm, drawing on horse-taming and felt-rolling work.
+- **Wedding games** (*kyz oyun*) — Ritualized movement performances held at weddings.
+- **Shamanic seance** (*bakshy*) — A healing performance by shamans using drumming, whip-cracking, and trance movement.
 
 ## Festivals & rituals
 
-**Nooruz** (21 March, UNESCO Representative List, 2009/2016) opens the year with the cooking of *sümölök*, a slow-simmered wheat-germ pudding, communal *boz üy* raising, and horseback games. Summer brings the move to the *jailoo* and the season of weddings and horse festivals. The horseback game **Kok-boru** (UNESCO Representative List, 2017) — two mounted teams contesting a headless goat carcass — is the pre-eminent public spectacle, played at weddings, national holidays and the modern World Nomad Games. Other equestrian contests include *at chabysh* (long-distance racing), *kyz kuumai* (a man on horseback pursuing a woman), *oodarysh* (mounted wrestling), and *tyiyn enmei* (picking coins from the ground at gallop).
+Kyrgyz festivals and life-cycle rituals are dense with ceremony, centered on the yurt, horseback games, and communal meals.
 
-Life-cycle rites are dense. At birth, the *beshik toi* marks the placing of the child in the cradle, and *tushoo kesüü* — the "cutting of the ties" — is held when a child takes its first steps, a footrace in which the winner cuts a braided cord tied round the child's ankles. Weddings involve bride-price (*kalym*), the ceremonial dressing of the bride in the *elechek*, and the *arkan tartuu* rope-blocking of the wedding party. Funerals include forty-day (*kyrky*) and one-year (*ash*) commemorations, the *ash* historically involving massive horseback games hosted by the deceased's kin.
+- **Nooruz** — The new year celebration on March 21, marked by cooking sümölök wheat-germ pudding, raising a communal yurt, and horseback games.
+- **Kok-boru** — A mounted game played at weddings and holidays where two teams on horseback contest a headless goat carcass.
+- **Kyz kuumai** — A horseback game in which a man pursues a woman.
+- **Tushoo kesüü** — A child's first-steps ceremony in which a footrace is held and the winner cuts a braided cord tied round the child's ankles.
+- **Wedding and funeral meals** (*kalym, ash*) — Weddings involve bride-price and the ceremonial dressing of the bride; funerals include forty-day and one-year commemorations marked by massive horseback games.
 
 ## Foodways
 
-The Kyrgyz table is built on mutton, horse and dairy. *Beshbarmak* ("five fingers") — boiled mutton or horse laid over wide flat noodles and eaten by hand — is the ceremonial dish served at weddings, funerals and honoured-guest meals; the sheep's head is presented to the most senior guest, who distributes cuts by seniority. *Kuurdak* is a fried mutton-and-offal dish, *lagman* the pulled-noodle soup shared with Uyghurs and Dungans, *manty* the large steamed dumplings, *samsa* the baked meat pastry, and *plov* (*paloo*) the rice pilaf shared across Central Asia. Horse produces the cured sausage *chuchuk* and the winter fat-and-rib delicacy *kazy-karta*.
+Kyrgyz food is built on mutton, horse, and dairy, with ceremonial dishes eaten by hand and dairy products that travel with herders.
 
-Dairy is a category unto itself: **_kymyz_** (UNESCO Representative List, 2022), fermented mare's milk churned in a *saba* and drunk cold by the bowl through the summer; *ayran* (yoghurt), *suzmö* (strained yoghurt), *kaymak* (clotted cream), and the hard sun-dried curd balls *kurut* that travel with herders. Bread is the round tandoor-baked *nan*; the wider Central Asian **flatbread tradition of Lavash, Katyrma, Jupka and Yufka** (UNESCO Representative List, 2016) includes Kyrgyz *katama* and *kattama*. Tea — black in the south, green in the north — is drunk from small bowls (*kese*) throughout the day, with *boorsok* (fried dough pillows) heaped on the table.
+- **Beshbarmak** — Boiled mutton or horse laid over wide flat noodles and eaten by hand, the ceremonial dish served at weddings, funerals, and meals for honored guests.
+- **Kymyz** — Fermented mare's milk churned in a leather bag and drunk cold by the bowl through the summer, a cornerstone of Kyrgyz diet and hospitality.
+- **Chuchuk** — A cured sausage made from horse meat.
+- **Manty** — Large steamed dumplings filled with meat.
+- **Kurut** — Hard sun-dried curd balls that travel with herders as a protein source.
 
 ## Oral tradition & literature
 
-The **Epic of Manas** is the defining Kyrgyz oral work: a cycle recounting the hero Manas's unification of the forty tribes against the Khitans, extended in the sequels *Semetey* (his son) and *Seytek* (his grandson). The longest recorded version, from the *manaschy* Sayakbay Karalaev, runs to roughly 500,000 lines — several times the length of the Iliad and Odyssey combined — and is transmitted by memory alone, without a written text, in a distinctive melodic recitation. UNESCO inscribed the trilogy in 2013 (having earlier proclaimed *Manas* in 2008). Alongside the epic sits a broad repertoire of shorter *dastan*, animal-tale cycles, genealogical recitations (*sanjyra*) tracing lineage back to Manas, and dense proverb and riddle traditions (*makal*, *tabyshmak*). The Soviet-era novelist Chinghiz Aitmatov (*The Day Lasts More Than a Hundred Years*, *Jamila*) drew directly on this oral stock, and contemporary *manaschylyk* is taught in state schools and staged in *aitysh* competitions.
+The Epic of Manas, recited from memory by specialized bards, is the defining Kyrgyz literary work, surrounded by a rich tradition of shorter tales and genealogies.
+
+- **Epic of Manas** (*Manas*) — A 500,000-line oral epic recounting how the hero Manas unified the forty tribes against the Khitans, transmitted by memory alone in a distinctive melodic recitation.
+- **Semetey and Seytek** (*Semetey, Seytek*) — Sequels to the Manas epic, following the hero's son and grandson.
+- **Dastan** — Shorter narrative songs performed by singers called irchi.
+- **Genealogical recitation** (*sanjyra*) — A recitation tracing lineage back to Manas.
+- **Aitysh** — An improvised sung poetry contest in which two poets face off with komuz in hand in a competitive duel.
 
 ## Language & religion
 
-Kyrgyz is a Kipchak Turkic language, closest to Kazakh and Altai, written today in a Cyrillic alphabet (in use since 1940) after earlier Arabic and Latin scripts. Dialects divide broadly into a northern group (Chüy, Issyk-Kul, Talas, Naryn) and a southern group (Osh, Batken, Jalal-Abad) with Uzbek and Tajik contact features; the Pamir Kyrgyz of the Wakhan speak a conservative variety, and the Fuyu Kyrgyz of Manchuria retain a Yenisei-type language close to Khakas. Religiously, the Kyrgyz are Hanafi Sunni Muslims — conversion from the 17th century, largely through Naqshbandi Sufi missionaries — but pre-Islamic layers remain strongly visible in folk practice: shamanic healers (*bakshy*, mostly women) still officiate at illness and mourning, the *tündük* of the yurt retains solar symbolism, sacred trees and springs (*mazar*) are visited for vows, and the tying of votive rags to trees is a routine roadside sight.
+Kyrgyz is a Kipchak Turkic language written in Cyrillic; the people are Hanafi Sunni Muslims, but shamanic healers and sacred sites remain active in folk practice.
+
+- **Kyrgyz language** (*Kyrgyz*) — A Kipchak Turkic language closest to Kazakh and Altai, written in Cyrillic since 1940.
+- **Shamanic healer** (*bakshy*) — A folk healer, mostly women, who performs rituals for illness and mourning outside official Islam.
+- **Sacred site** (*mazar*) — A sacred spring or tree visited for vows, with votive rags tied to the branches.
+- **Hanafi Sunni Islam** — The official religion, adopted from the 17th century onward through Naqshbandi Sufi missionaries.
+- **Pre-Islamic practices** — Shamanic healing, solar symbolism in the yurt's crown ring, and tree and spring veneration remain strong in folk practice.
+
+## Glossary
+
+- *shyrdak* — Mosaic-inlaid felt floor carpet with contrasting colors
+- *ala kiyiz* — Motley felt with dyed wool fused into base fleece
+- *tush kiyiz* — Large embroidered wall hanging for yurt interior
+- *chiy* — Reed screen woven with dyed wool, interior divider
+- *boz üy* — Kyrgyz yurt, domed lattice tent
+- *ak-kalpak* — Tall white felt hat with four black panels, men's ethnic marker
+- *elechek* — Large white turban for married women
+- *komuz* — Three-stringed fretless long-necked lute
+- *kyl kyiak* — Two-stringed horsehair bowed fiddle
+- *Manas* — Half-million-line oral epic recited from memory
+- *manaschy* — Specialized bard who recites the Manas epic
+- *kok-boru* — Mounted game where teams contest a headless goat carcass
+- *kymyz* — Fermented mare's milk, staple dairy product
+- *beshbarmak* — Boiled meat over noodles, eaten by hand
+- *tündük* — Wooden crown ring at top of yurt
+- *tör* — Place of honor inside the yurt
+- *jailoo* — Summer pasture where herds move seasonally
+- *kalym* — Bride-price in wedding ceremony
+- *aitysh* — Improvised sung poetry contest between two poets
+- *bakshy* — Shamanic healer who performs rituals outside official Islam
+- *tumar* — Amulet case holding Qur'anic verse or protective herb
+- *kochkor müyüz* — Ram's horn motif, symbol of fertility and wealth
+- *sanjyra* — Genealogical recitation or tree motif
 
 ## Sources & further reading
 
-- Abramzon, S. M. *The Kirgiz and their Ethnogenetical Historical and Cultural Connections*. Moscow: Nauka, 1971 (Frunze reprint, Kyrgyzstan Publishers).
-- Prior, Daniel. *The Šabdan Baatır Codex: Epic and the Writing of Northern Kirghiz History*. Leiden: Brill, 2013.
-- Bunn, Stephanie. *Nomadic Felts: Artistic Traditions in World Culture*. London: British Museum Press, 2010.
-- Van der Heide, Nienke. *Spirited Performance: The Manas Epic and Society in Kyrgyzstan*. Amsterdam: Rozenberg / Bremen: Ibidem, 2008.
-- Shahrani, M. Nazif. *The Kirghiz and Wakhi of Afghanistan: Adaptation to Closed Frontiers and War*. Seattle: University of Washington Press, 1979 / 2002.
-- Kokaisl, Petr and Kokaislova, Pavla. *The Kyrgyz — Children of Manas*. Prague: NOSTALGIE, 2009.
-- Levin, Theodore, Daukeyeva, Saida and Köchümkulova, Elmira (eds.). *The Music of Central Asia*. Bloomington: Indiana University Press, 2016.
+- Abramzon, S. M. The Kirgiz and their Ethnogenetical Historical and Cultural Connections. Moscow: Nauka, 1971 (Frunze reprint, Kyrgyzstan Publishers).
+- Prior, Daniel. The Šabdan Baatır Codex: Epic and the Writing of Northern Kirghiz History. Leiden: Brill, 2013.
+- Bunn, Stephanie. Nomadic Felts: Artistic Traditions in World Culture. London: British Museum Press, 2010.
+- Van der Heide, Nienke. Spirited Performance: The Manas Epic and Society in Kyrgyzstan. Amsterdam: Rozenberg / Bremen: Ibidem, 2008.
+- Shahrani, M. Nazif. The Kirghiz and Wakhi of Afghanistan: Adaptation to Closed Frontiers and War. Seattle: University of Washington Press, 1979 / 2002.
+- Kokaisl, Petr and Kokaislova, Pavla. The Kyrgyz — Children of Manas. Prague: NOSTALGIE, 2009.
+- Levin, Theodore, Daukeyeva, Saida and Köchümkulova, Elmira (eds.). The Music of Central Asia. Bloomington: Indiana University Press, 2016.
 - Wikipedia, "Kyrgyz people": https://en.wikipedia.org/wiki/Kyrgyz_people
 - UNESCO ICH inscriptions for Kyrgyzstan: https://ich.unesco.org/en/state/kyrgyzstan-KG
-  - Kyrgyz epic trilogy: Manas, Semetey, Seytek (RL/00876): https://ich.unesco.org/en/RL/00876
-  - Ak-kalpak craftsmanship (RL/01496): https://ich.unesco.org/en/RL/01496
-  - *Shyrdak*, art of Kyrgyz traditional felt carpets (USL/00693): https://ich.unesco.org/en/USL/00693
-  - Kok-boru, traditional horse game (RL/01294): https://ich.unesco.org/en/RL/01294
-  - Aitysh/Aitys, art of improvisation (RL/00065): https://ich.unesco.org/en/RL/00065
-  - Nowruz (RL/02097): https://ich.unesco.org/en/RL/02097
-  - Togyz kumalak, traditional intellectual game (RL/01597): https://ich.unesco.org/en/RL/01597
-  - Culture of making and sharing *kymyz* (RL/01172): https://ich.unesco.org/en/RL/01172
-  - Flatbread making and sharing: Lavash, Katyrma, Jupka, Yufka (RL/01181): https://ich.unesco.org/en/RL/01181
+- Kyrgyz epic trilogy: Manas, Semetey, Seytek (RL/00876): https://ich.unesco.org/en/RL/00876
+- Ak-kalpak craftsmanship (RL/01496): https://ich.unesco.org/en/RL/01496
+- Shyrdak, art of Kyrgyz traditional felt carpets (USL/00693): https://ich.unesco.org/en/USL/00693
+- Kok-boru, traditional horse game (RL/01294): https://ich.unesco.org/en/RL/01294
+- Aitysh/Aitys, art of improvisation (RL/00065): https://ich.unesco.org/en/RL/00065
+- Nowruz (RL/02097): https://ich.unesco.org/en/RL/02097
+- Togyz kumalak, traditional intellectual game (RL/01597): https://ich.unesco.org/en/RL/01597
+- Culture of making and sharing kymyz (RL/01172): https://ich.unesco.org/en/RL/01172
+- Flatbread making and sharing: Lavash, Katyrma, Jupka, Yufka (RL/01181): https://ich.unesco.org/en/RL/01181
 - Smithsonian Folkways, Kyrgyz recordings: https://folkways.si.edu/search?query=Kyrgyz
 - Victoria and Albert Museum, Central Asian textiles collection: https://collections.vam.ac.uk/search/?q=kyrgyz
 - Metropolitan Museum of Art, Central Asian collection: https://www.metmuseum.org/art/collection/search#!?q=Kyrgyz
+

@@ -5,78 +5,166 @@ region: "Southeast Asia"
 tags: [ethnography, southeast-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Balinese, an Austronesian people |
+| Where | The island of Bali, east of Java, Indonesia; diaspora in Lombok, eastern Java, Lampung, and Sulawesi |
+| How many | Roughly 4.2 million |
+| Language | Balinese, a Malayo-Polynesian language with three speech registers (low, middle, high) based on caste |
+| Religion | Balinese Hinduism (Agama Hindu Dharma), about 87% of the population |
+| Known for | Intricate textile traditions including gringsing double ikat and songket brocade · Gamelan music and shadow puppetry (wayang kulit) · Elaborate ceremonies and festivals tied to two calendars · Sacred dance forms and mask drama (topeng) · Cremation rituals (ngaben) and daily offerings (canang sari) |
+
 ## Overview
 
-The Balinese (*Anak Bali*, *Wong Bali*, *Krama Bali*) are an Austronesian people of roughly 4.2 million, concentrated on the volcanic island of Bali east of Java, with diaspora communities on Lombok, in Banyuwangi Regency at the eastern tip of Java, and in transmigration settlements in Lampung and Sulawesi established after the 1963 eruption of Mount Agung. They speak Balinese, a Malayo-Polynesian language with a hierarchical register system (*ketah*, *madia*, *singgih*) that mirrors caste. Among Indonesia's ethnic groups they are distinctive for their adherence to Balinese Hinduism (*Agama Tirta*, the "holy-water religion") rather than Islam, a persistence shaped by the flight of Majapahit aristocrats to Bali in the 15th–16th centuries and by later Dutch *Baliseering* policy. In folk-culture terms Bali is one of the densest ritual-art landscapes in island Southeast Asia, where textile, music, dance, and offering-making are woven into a single ceremonial economy.
+The Balinese are an Austronesian people of 4.2 million living on Bali and nearby islands, distinguished by their practice of Balinese Hinduism rather than Islam. Their language uses three speech registers that reflect caste and social status. Bali is one of the densest ritual-art landscapes in Southeast Asia, where textiles, music, dance, and offerings are woven into a single ceremonial life.
 
 ## Material culture
 
+Balinese material culture is deeply tied to ritual and ceremony, from woven textiles to carved wood to daily offerings.
+
 ### Textile & pattern traditions
 
-**_Gringsing_** — Double ikat woven exclusively in the Bali Aga village of Tenganan Pegringsingan in Karangasem, where both warp and weft are resist-dyed before weaving so the pattern emerges only when the two align on the loom. The name is glossed as "no illness" (*gring* + *sing*), and the cloth is worn as protective ritual dress; Tenganan is one of only three places worldwide (with Patan in Gujarat and Ōshima in Japan) where true double ikat is made.
+Balinese textiles combine resist dyeing, supplementary weaving, and gold-leaf finishing to create cloths worn in temple, ceremony, and dance.
 
-**_Endek_** — Weft ikat woven across Bali, historically a court cloth of the Klungkung palace and now produced in workshops around Sidemen, Gianyar, and Denpasar. Motifs are dyed onto the weft threads before weaving, producing softer pattern edges than *gringsing*.
-
-**_Songket Bali_** — Supplementary-weft brocade in which silver- or gold-wrapped threads float across a silk or cotton ground to form flowers, birds, and geometric borders. Used for temple dress, dance costume, and wedding attire; Sidemen and Klungkung are the main centres.
-
-**_Prada_** — A finishing technique rather than a weave: gold leaf or gold pigment is applied to cloth (often *endek* or plain silk) in floral and foliate patterns, producing the shimmering skirts and shoulder cloths worn by *legong* dancers and temple attendants.
-
-**_Poleng_** — The black-and-white checkerboard cloth wrapped around shrines, banyan trees, temple guardian statues (*dwarapala*), and the waists of *pecalang* village guards. The two colours embody *rwa bhineda*, the balance of opposing forces central to Balinese cosmology; three-colour and multi-colour versions exist for specific deities.
-
-**_Kamben cepuk_** — A supplementary or plain-weave ceremonial cloth in strong reds and yellows, used in tooth-filing and cremation ritual and associated particularly with Nusa Penida.
-
-**Wayang-style cloth painting (_kain wayang_ / Kamasan style)** — Narrative cloths and ceiling panels painted in the classical Kamasan idiom near Klungkung, depicting scenes from the *Ramayana*, *Mahabharata*, and the *Malat*, using natural pigments and stylised puppet-shaped figures.
-
-**Motif vocabulary.** *Patra punggel* (curling fern-shoot scroll), *patra Cina* (Chinese-derived floral scroll), *patra sari* (flower medallion), *patra samblung* (creeping vine), *karang asti* (elephant-head corner ornament), *karang boma* (demon-face lintel), *bunga tunjung* (lotus), *swastika* (solar cross), *poleng* (black-white check), *tumpal* (triangular border band), *cepuk* rays.
+- **Gringsing** — A double ikat cloth woven only in Tenganan Pegringsingan, where both warp and weft are resist-dyed before weaving, creating patterns that emerge only when threads align; made in only three places worldwide and worn as protective ritual dress.
+- **Endek** — Weft ikat produced across Bali with motifs dyed onto weft threads before weaving, creating softer pattern edges than gringsing; historically a court cloth and now made in workshops around Sidemen and Gianyar.
+- **Songket Bali** (*songket*) — Supplementary-weft brocade with silver- or gold-wrapped threads floating across silk or cotton to form flowers, birds, and geometric borders, worn for temple dress and weddings.
+- **Prada** — Gold leaf or gold pigment applied to cloth in floral patterns to create the shimmering skirts worn by legong dancers and temple attendants.
+- **Poleng** — Black-and-white checkerboard cloth wrapped around shrines and temple guardians, embodying rwa bhineda, the balance of opposing forces in Balinese cosmology.
 
 ### Clothing & dress
 
-Everyday dress for both sexes centres on a wrapped hip cloth. Men wear a *kamben* (sarong) with a shorter overlaid *saput* and a folded head cloth called *udeng* (in temple dress, the knot rises to a point at the front). A sash (*umpal* or *selendang*) is tied at the waist whenever entering a temple, regardless of dress underneath. Women wear a *kamben* with a fitted *kebaya* blouse of lace or brocade over a *kutang* underblouse, and a *selendang* sash. Ceremonial dress adds a stiff embroidered *sabuk prada* belt, gilded *songket* or *prada* skirts, and, for temple-going women, hair drawn back with frangipani (*jepun*) blossoms. Dance costume is more elaborate again: the *legong* dancer wears a gilded *gelungan* headdress topped with frangipani, wrapped from ankle to chest in *prada* cloth. Barefoot practice is standard indoors and in temple courtyards; sandals are removed at the *candi bentar* split gate.
+Everyday dress centers on wrapped hip cloths and folded head wraps, while temple and ceremonial dress adds gilded belts, embroidered cloths, and frangipani flowers.
+
+- **Kamben and saput** (*kamben, saput*) — A wrapped sarong worn by men, often with a shorter overlaid saput, accompanied by a folded head cloth called udeng.
+- **Kebaya blouse** (*kebaya*) — A fitted lace or brocade blouse worn by women over an underblouse, paired with a wrapped kamben and sash.
+- **Legong dance costume** (*legong*) — An elaborate costume featuring a gilded headdress topped with frangipani, gold prada cloth wrapped from ankle to chest, and going barefoot.
+- **Sash** (*selendang, umpal*) — A waist sash tied whenever entering a temple, worn with both everyday and ceremonial dress.
 
 ### Architecture
 
-The Balinese house is not a single building but a walled family compound (*pekarangan*) oriented on the *kaja–kelod* axis running from the sacred mountain (Gunung Agung) to the sea. Inside the compound, discrete pavilions (*bale*) sit around an open swept-earth court: the *bale daja* for the head of household, the *bale dauh* for guests, the *paon* kitchen at the *kelod* corner, the granary (*jineng*) with its distinctive high curved roof, and, in the *kaja–kangin* (mountain-east) corner, the *sanggah* or *merajan* family temple. Village temples come in three canonical forms — *pura puseh* (temple of origin), *pura desa* (community temple), and *pura dalem* (temple of the dead) — collectively the *kahyangan tiga*. Signature features include split gates (*candi bentar*), roofed gateways (*kori agung*) guarded by *boma* demon-heads, tiered pagoda-like shrines (*meru*) whose odd-numbered thatched roofs indicate the rank of the deity, and *paras* volcanic-tuff carving in high relief. Rice-terrace landscapes are organised by the *subak* irrigation cooperatives, themselves inscribed with water temples (*pura tirta*).
+Balinese houses are walled family compounds with discrete pavilions oriented toward the sacred mountain, while temples follow three canonical forms with tiered shrines and volcanic-tuff carvings.
+
+- **Family compound** (*pekarangan*) — A walled enclosure with separate pavilions arranged around an open court, oriented on the kaja–kelod axis from mountain to sea, housing the family head, guests, kitchen, and family shrine.
+- **Pavilions** (*bale, paon, jineng, merajan*) — Discrete structures within a compound: sleeping and reception pavilions, a kitchen, a high-roofed granary with curved roof, and a family temple.
+- **Temple forms** (*pura puseh, pura desa, pura dalem*) — Three canonical temple types—temple of origin, community temple, and temple of the dead—collectively forming the kahyangan tiga.
+- **Split gate and shrines** (*candi bentar, meru*) — Signature temple features: towering split gates, tiered pagoda-like shrines with odd-numbered thatched roofs indicating deity rank, and demon-head decorations.
+- **Rice terraces and irrigation** (*subak*) — Terraced rice paddies organized by subak irrigation cooperatives, themselves anchored by water temples (pura tirta).
 
 ### Ceramics, metalwork & everyday objects
 
-Bali is not a major ceramic centre; earthenware water jars and cooking pots come largely from villages such as Pejaten and Banyuning. Metalwork is stronger: bronze casting for gamelan gongs and keys is concentrated in Tihingan (Klungkung) and in Blahbatuh, and iron *keris* forging survives in a handful of *pande* smith lineages. Silverwork for offering trays, hair ornaments, and temple regalia is centred on Celuk near Ubud, using granulation and openwork filigree. Woodcarving from Mas and Batuan produces temple doors, *garuda* figures, dance masks, and lacquered offering stands. In every kitchen the *lesung* mortar and *ulekan* pestle, split-bamboo *sokasi* rice baskets, and coconut-shell ladles remain in daily use, alongside palm-leaf work — *canang sari* daily offerings, *penjor* pole decorations, and *lamak* altar hangings — produced by women as a devotional craft.
+Balinese craftsmanship in metal and wood produces gamelan instruments, decorative objects, and daily-use items, while pottery comes largely from neighboring villages.
+
+- **Bronze gamelan casting** (*gamelan*) — Bronze gongs and keys cast in workshops at Tihingan and Blahbatuh for gamelan ensembles.
+- **Keris** — Iron ceremonial dagger forged by pande smith lineages, serving as heirloom, weapon, and spiritual object with its own name.
+- **Silverwork** (*celuk*) — Offering trays, hair ornaments, and temple regalia crafted in Celuk near Ubud using granulation and openwork filigree.
+- **Woodcarving** (*garuda, topeng*) — Temple doors, guardian figures, and dance masks carved from wood in Mas and Batuan, often lacquered.
+- **Daily kitchen objects** (*lesung, ulekan, sokasi*) — Mortar and pestle, split-bamboo rice baskets, and coconut-shell ladles remain in everyday use alongside palm-leaf offerings and decorations.
 
 ### Jewelry & body adornment
 
-Ceremonial gold and silver ornaments are worn most conspicuously in dance and rites of passage: gilded *gelungan* crowns for *legong* and *baris*, ear flowers (*subeng*), and elaborate *bapang* chest collars. Married women wear gold hairpins (*tusuk konde*) shaped as flowers, and both sexes may wear rings set with agate or coral. The *keris*, tucked into the back of a man's *saput* at ceremonies, functions as heirloom, weapon, and spiritual object with its own name and offerings. The most consequential body ritual is *mepandes* or *potong gigi* — the filing of the six upper front teeth in adolescence to smooth away the six vices (*sad ripu*); the ritual descends from Austronesian tooth-modification traditions and is a prerequisite for full adult status and Hindu cremation.
+Ceremonial gold and silver ornaments worn in dance and rites include crowns, ear flowers, and chest collars; tooth-filing is the most consequential body ritual.
+
+- **Gelungan crown** (*gelungan*) — A gilded headdress topped with frangipani flowers, worn by legong and baris dancers.
+- **Ear flowers and chest collars** (*subeng, bapang*) — Ornamental earpieces and elaborate metal chest pieces worn in ceremonial dress and dance.
+- **Hair ornaments** (*tusuk konde*) — Gold hairpins shaped as flowers, worn by married women.
+- **Keris** — A ceremonial dagger tucked into a man's waist sash, functioning as heirloom, weapon, and spiritual object.
+- **Tooth-filing ritual** (*mepandes, potong gigi*) — Filing of the six upper front teeth in adolescence to remove the six vices, a prerequisite for adult status and Hindu cremation.
 
 ## Music & performance
 
-The core ensemble is the *gamelan*, of which Bali maintains dozens of distinct tunings and repertoires. The bright, hard-mallet *gamelan gong kebyar*, standardised in north Bali in the early twentieth century, is the dominant modern form; older ceremonial ensembles include the seven-tone *gamelan semar pegulingan* (traditionally played outside a raja's sleeping pavilion), the sacred iron-keyed *gamelan selonding* of Tenganan, the small processional *gamelan angklung* used at cremations, the flute-and-*rebab*-led *gamelan gambuh* that accompanies the oldest court dance-drama, and the *gamelan beleganjur* march ensemble carried in cremation processions. Instruments include bronze-keyed metallophones (*gangsa*, *jegogan*, *ugal*), tuned gong chimes (*reyong*, *trompong*), hanging gongs (*gong ageng*, *kempur*), the paired lead drums (*kendang lanang* and *kendang wadon*), bamboo flute (*suling*), and two-string spike fiddle (*rebab*). Vocal genres include *kidung* and *kakawin* sung recitation of Old Javanese texts at temple ceremonies, and *macapat*-derived verse. Music is functionally specified by rite — a *piodalan* temple anniversary, a *metatah* tooth-filing, a *ngaben* cremation, and a *melasti* purification each call for a different ensemble and repertoire. Balinese *gamelan* is inscribed on the UNESCO Representative List (RL/01607) alongside its Javanese counterpart.
+The gamelan ensemble, with dozens of tunings and repertoires, is the core of Balinese music, each ensemble type paired with specific rituals and ceremonial occasions.
+
+- **Gamelan gong kebyar** — The bright, hard-mallet ensemble standardized in north Bali in the early twentieth century, now the dominant modern gamelan form.
+- **Sacred and ceremonial gamelan** (*gamelan semar pegulingan, gamelan selonding, gamelan gambuh, gamelan angklung, gamelan beleganjur*) — Specialized ensembles for specific rituals: seven-tone semar pegulingan for court, iron-keyed selonding of Tenganan, flute-led gambuh for dance-drama, processional angklung for cremations, and beleganjur march ensembles.
+- **Gamelan instruments** (*gangsa, gong ageng, kendang, rebab, suling*) — Bronze metallophones, tuned gongs, paired lead drums, two-string spike fiddle, and bamboo flute combine to form the ensemble.
+- **Vocal genres** (*kidung, kakawin, macapat*) — Sung recitations of Old Javanese texts at temple ceremonies, performed in literary clubs and by shadow puppet narrators.
+- **UNESCO inscription** (*gamelan*) — Balinese gamelan is inscribed on the UNESCO Representative List alongside its Javanese counterpart.
 
 ## Dance & theatre
 
-Balinese dance is inscribed on the UNESCO Representative List (RL/00617). It is conventionally sorted by sacredness: *wali* (sacred temple dances performed only in the inner sanctum) include *rejang*, *sanghyang dedari* (trance dance of young girls), and *baris gede*; *bebali* (semi-sacred, performed in the middle courtyard) include *topeng* mask drama and *gambuh* dance-drama; *balih-balihan* (secular, outer courtyard or stage) include *legong*, *baris tunggal*, *oleg tambulilingan*, and *jauk*. *Wayang kulit* shadow puppetry is performed by a single *dalang* who narrates and voices all characters, drawing on *Ramayana*, *Mahabharata*, and local *Malat* cycles, accompanied by *gamelan gender wayang*. Mask drama (*topeng*) uses fixed character types — the refined *topeng dalem*, the coarse *topeng keras*, the comic *bondres*. The best-known choral form outside Bali is *kecak*, a twentieth-century composition by Walter Spies and Wayan Limbak that sets a *Ramayana* episode to the interlocking "cak" chanting of a men's chorus derived from *sanghyang* trance chant.
+Balinese dance ranges from sacred temple dances to secular performances, classified by context and sacredness, and is accompanied by gamelan and narrative forms like shadow puppetry.
+
+- **Sacred temple dances** (*wali, rejang, sanghyang dedari, baris gede*) — Dances performed only in the inner sanctum including rejang, trance dances of young girls, and processional baris gede.
+- **Semi-sacred dances** (*bebali, topeng, gambuh*) — Performed in temple courtyards, including mask drama (topeng) with fixed character types and dance-drama (gambuh).
+- **Secular stage dances** (*balih-balihan, legong, baris tunggal, oleg tambulilingan, jauk*) — Outer-courtyard and stage performances including the famous legong court dance and the bee-inspired oleg tambulilingan.
+- **Shadow puppetry** (*wayang kulit*) — A single dalang narrates and voices all characters, drawing on Ramayana, Mahabharata, and local Malat cycles, accompanied by gamelan gender wayang.
+- **Kecak choral form** (*kecak*) — A twentieth-century composition setting a Ramayana episode to interlocking "cak" chanting by a men's chorus, derived from sanghyang trance chant.
 
 ## Festivals & rituals
 
-The Balinese use two interlocking calendars: the 210-day *pawukon* and the lunar-solar *saka*. **Nyepi**, the Saka New Year, is a day of total silence — no fires, no travel, no work, no electric light — preceded the night before by *ogoh-ogoh* processions in which villages parade and burn giant papier-mâché demons to expel bad spirits. **Galungan**, marking the victory of *dharma* over *adharma*, is celebrated every 210 days with tall arched bamboo poles (*penjor*) planted at every gate; ten days later **Kuningan** closes the cycle. **Saraswati** honours the goddess of learning; **Tumpek Landep** blesses metal objects including *keris* and, today, motorcycles; **Tumpek Kandang** blesses livestock. Temple anniversaries (*odalan*) recur on each temple's own 210-day cycle. Life-cycle rites include the *nelu bulanin* three-month ceremony when an infant first touches the ground, the *mepandes* tooth-filing, temple weddings, and above all *ngaben*, cremation, in which the corpse is carried in a multi-tiered *bade* tower to the *setra* burial ground and burned in a bull- or lion-shaped *lembu* sarcophagus, followed by *nyekah* and the scattering of ashes at sea. Secular festivals such as the **Bali Kite Festival** on the Sanur coast (giant *bebean* fish, *janggan* bird, and *pecukan* leaf kites) and the **Sanur Village Festival** are twentieth-century additions.
+Balinese life follows two interlocking calendars marked by major festivals, temple anniversaries, and life-cycle rites centered on offerings and ceremonial exchange.
+
+- **Nyepi (New Year)** (*nyepi, ogoh-ogoh*) — A day of total silence—no fires, travel, work, or electric light—preceded by processions burning giant papier-mâché demons (ogoh-ogoh) to expel bad spirits.
+- **Galungan and Kuningan** (*galungan, kuningan, penjor*) — A 210-day cycle celebrating dharma's victory, marked by tall arched bamboo poles (penjor) planted at gates, closing ten days later with Kuningan.
+- **Goddess and object blessings** (*saraswati, tumpek landep, tumpek kandang*) — Festivals honoring the goddess of learning, blessing metal objects including keris and motorcycles, and blessing livestock.
+- **Cremation ritual** (*ngaben, bade, lembu, setra, nyekah*) — The corpse is carried in a multi-tiered tower to the burial ground and burned in a bull- or lion-shaped sarcophagus, followed by ash scattering at sea.
+- **Kite Festival and secular celebrations** (*bebean, janggan, pecukan*) — Modern festivals including the Bali Kite Festival on Sanur coast featuring giant fish, bird, and leaf kites.
 
 ## Foodways
 
-The staple is rice (*nasi*), grown in *subak*-irrigated terraces and eaten with a plate of small side dishes — the everyday *nasi campur*. Signature dishes include *babi guling*, spit-roasted suckling pig stuffed with a spice paste (*base genep*) of turmeric, galangal, ginger, garlic, shallots, chilli, candlenut, coriander, and shrimp paste; *bebek betutu* and *ayam betutu*, duck or chicken smeared in the same paste, wrapped in banana and areca-palm leaves and slow-cooked in rice husks; *lawar*, a mix of finely chopped vegetables, grated coconut, minced meat, and — in its "red" form (*lawar merah*) — fresh pig's blood; *sate lilit*, minced fish or pork wound onto lemongrass or bamboo skewers and grilled; *tum*, spiced minced meat steamed in banana leaf; and *jukut ares*, a soup of the tender inner heart of banana stem. Salt is harvested by evaporating seawater in coconut-log troughs at Kusamba and Amed. Ceremonial food is presented as tall towers of fruit, rice cakes, and roast chicken (*gebogan* or *banten tegeh*) carried on women's heads to the temple. Coffee (*kopi Bali*), grown in the highlands around Kintamani and Pupuan, is served unfiltered with grounds settling in the glass. Unlike most of Indonesia, pork is a normal ritual and festive meat because Balinese Hinduism imposes no such prohibition; certain caste and priestly households nonetheless abstain from beef out of Hindu observance.
+Rice is the staple, grown in irrigated terraces and eaten with small side dishes; signature dishes combine spiced pastes, slow-cooked meats, and coconut.
+
+- **Babi guling** (*babi guling, base genep*) — Spit-roasted suckling pig stuffed with a spice paste of turmeric, galangal, ginger, garlic, shallots, chilli, candlenut, coriander, and shrimp paste.
+- **Betutu dishes** (*bebek betutu, ayam betutu*) — Duck or chicken smeared in spice paste, wrapped in banana and areca-palm leaves, and slow-cooked in rice husks.
+- **Lawar** (*lawar, lawar merah*) — A mix of finely chopped vegetables, grated coconut, minced meat, and—in its red form—fresh pig's blood.
+- **Sate lilit and tum** (*sate lilit, tum*) — Minced fish or pork wound onto lemongrass or bamboo skewers and grilled, or spiced meat steamed in banana leaf.
+- **Coffee and ceremonial presentations** (*kopi bali, gebogan, banten tegeh*) — Unfiltered highland coffee served with grounds settling in the glass; ceremonial foods presented as tall towers carried on women's heads to the temple.
 
 ## Oral tradition & literature
 
-Balinese literary culture rests on palm-leaf (*lontar*) manuscripts, still copied, read aloud, and stored in temple and household libraries; the Gedong Kirtya in Singaraja and the Hooykaas–Ketut Sangka digitisation project have documented thousands. The classical repertoire is largely in Kawi (Old Javanese) — the *kakawin* poems including the *Ramayana Kakawin* and *Bharatayuddha* — and in Middle Javanese *kidung* such as the *Malat* romance cycle around Prince Panji. Balinese-language *geguritan* narrative verse and *satua* prose folktales (including the trickster cycles of the mouse-deer *Kancil* and the boy hero *I Belog*) circulate more informally. Recitation contexts include *mabebasan* literary clubs, in which a reciter chants a Kawi verse and a translator glosses it into Balinese for the audience, and the *dalang*'s puppet-side narration in *wayang kulit*, which remains the principal popular vehicle of the *Mahabharata* and *Ramayana* stories.
+Balinese literary culture centers on palm-leaf manuscripts in Old Javanese, Middle Javanese, and Balinese, recited in clubs and performed by shadow puppet narrators.
+
+- **Palm-leaf manuscripts** (*lontar*) — Texts still copied, read aloud, and stored in temple and household libraries, documented by projects such as Gedong Kirtya.
+- **Classical Kawi poetry** (*kakawin, ramayana kakawin, bharatayuddha*) — Old Javanese epic poems including the Ramayana and Bharatayuddha, recited at temple ceremonies.
+- **Middle Javanese romance** (*kidung, malat*) — Romance cycles including the Malat, centered on Prince Panji and recited in literary clubs.
+- **Balinese-language tales** (*geguritan, satua, kancil, belog*) — Narrative verse and folktales including trickster mouse-deer cycles and boy-hero stories, circulating informally.
+- **Recitation and performance contexts** (*mabebasan, dalang*) — Literary clubs where a reciter chants Kawi verse and a translator glosses it; puppet narrators perform in wayang kulit, the principal popular vehicle for Mahabharata and Ramayana stories.
 
 ## Language & religion
 
-Balinese belongs to the Malayo-Polynesian branch of Austronesian. It is written today in Latin script but has its own Brahmi-derived script, *aksara Bali*, closely related to Javanese *hanacaraka* and still taught in schools and used on temple signage and *lontar*. The language operates in speech registers (*ketah* low, *madia* middle, *singgih* high) chosen by the caste and relative status of speaker and addressee. Roughly 87% of Balinese follow **Balinese Hinduism** (*Agama Hindu Dharma* / *Agama Tirta*), a syncretism of Shaiva, Vaishnava, and Buddhist tantric strands overlaid on Austronesian ancestor and mountain worship; the Bali Aga villages of Tenganan and Trunyan preserve older, pre-Majapahit forms including sky burial at Trunyan. Daily religious life turns on the *canang sari* offering of palm leaf, flowers, and rice placed at household shrines, gateways, and crossroads each morning.
+Balinese is a Malayo-Polynesian language with three speech registers based on caste; Balinese Hinduism, practiced by 87%, syncretizes Shaiva, Vaishnava, and Buddhist strands with local worship.
+
+- **Balinese language** (*balinese, aksara bali, ketah, madia, singgih*) — A Malayo-Polynesian language written today in Latin script but with its own Brahmi-derived script, featuring three speech registers (low, middle, high) chosen by caste and social status.
+- **Balinese Hinduism** (*agama hindu dharma, agama tirta*) — A syncretic religion practiced by roughly 87% of Balinese, blending Shaiva, Vaishnava, and Buddhist tantric elements with Austronesian ancestor and mountain worship.
+- **Daily offerings** (*canang sari*) — Small palm-leaf, flower, and rice offerings placed at household shrines, gateways, and crossroads each morning as the core of daily religious practice.
+- **Bali Aga traditions** (*bali aga, tenganan, trunyan*) — Villages preserving pre-Majapahit forms of worship, including the practice of sky burial at Trunyan.
+
+## Glossary
+
+- *gringsing* — Double ikat cloth woven only in Tenganan, with both warp and weft resist-dyed before weaving
+- *endek* — Weft ikat with motifs dyed onto weft threads, creating softer pattern edges
+- *songket* — Supplementary-weft brocade with silver or gold-wrapped threads forming flowers and geometric patterns
+- *prada* — Gold leaf or pigment applied to cloth in floral patterns, used in dance and temple dress
+- *poleng* — Black-and-white checkerboard cloth embodying the balance of opposing forces (rwa bhineda)
+- *kamben* — A wrapped sarong worn by men and women as everyday dress
+- *kebaya* — A fitted lace or brocade blouse worn by women over an underblouse
+- *pekarangan* — A walled family compound with pavilions oriented toward the sacred mountain
+- *bale* — Discrete pavilions within a family compound for sleeping, reception, or family needs
+- *merajan* — A family temple located in the mountain-east corner of a household compound
+- *gamelan* — A percussion ensemble of bronze metallophones, gongs, drums, and other instruments
+- *keris* — A ceremonial iron dagger serving as heirloom, weapon, and spiritual object
+- *legong* — A classical court dance performed by young women in elaborate gilded costumes
+- *wayang kulit* — Shadow puppetry performed by a single narrator-puppeteer telling Ramayana and Mahabharata stories
+- *topeng* — Mask drama using fixed character types such as refined, coarse, and comic masks
+- *nyepi* — The Saka New Year, a day of total silence with no fires, travel, work, or electric light
+- *ngaben* — Cremation ritual in which the corpse is burned in a bull- or lion-shaped sarcophagus
+- *canang sari* — Daily palm-leaf, flower, and rice offerings placed at shrines and crossroads
+- *lontar* — Palm-leaf manuscripts containing classical texts, still copied and read in religious contexts
+- *kakawin* — Old Javanese epic poetry including the Ramayana and Bharatayuddha
+- *aksara bali* — The Brahmi-derived script used to write Balinese, still taught in schools and used on temple signage
+- *rwa bhineda* — The balance of opposing forces central to Balinese cosmology, represented in poleng cloth
+- *subak* — Irrigation cooperatives that organize rice-terrace landscapes and water temples
 
 ## Sources & further reading
 
-- Covarrubias, Miguel. *Island of Bali*. New York: Alfred A. Knopf, 1937.
-- Eiseman, Fred B. *Bali: Sekala and Niskala* (2 vols). Berkeley: Periplus, 1989–1990.
-- Geertz, Clifford. *Negara: The Theatre State in Nineteenth-Century Bali*. Princeton: Princeton University Press, 1980.
-- Hauser-Schäublin, Brigitta, Marie-Louise Nabholz-Kartaschoff, and Urs Ramseyer. *Balinese Textiles*. London: British Museum Press, 1991.
-- Tenzer, Michael. *Gamelan Gong Kebyar: The Art of Twentieth-Century Balinese Music*. Chicago: University of Chicago Press, 2000.
-- Lansing, J. Stephen. *Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali*. Princeton: Princeton University Press, 1991.
+- Covarrubias, Miguel. Island of Bali. New York: Alfred A. Knopf, 1937.
+- Eiseman, Fred B. Bali: Sekala and Niskala (2 vols). Berkeley: Periplus, 1989–1990.
+- Geertz, Clifford. Negara: The Theatre State in Nineteenth-Century Bali. Princeton: Princeton University Press, 1980.
+- Hauser-Schäublin, Brigitta, Marie-Louise Nabholz-Kartaschoff, and Urs Ramseyer. Balinese Textiles. London: British Museum Press, 1991.
+- Tenzer, Michael. Gamelan Gong Kebyar: The Art of Twentieth-Century Balinese Music. Chicago: University of Chicago Press, 2000.
+- Lansing, J. Stephen. Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali. Princeton: Princeton University Press, 1991.
 - Wikipedia, "Balinese people": https://en.wikipedia.org/wiki/Balinese_people
 - UNESCO ICH, "Balinese dance" (RL/00617): https://ich.unesco.org/en/RL/00617
 - UNESCO ICH, "Gamelan" (RL/01607): https://ich.unesco.org/en/RL/01607
@@ -84,3 +172,4 @@ Balinese belongs to the Malayo-Polynesian branch of Austronesian. It is written 
 - Smithsonian Folkways, Bali/Indonesia recordings: https://folkways.si.edu/search?query=Bali
 - Victoria and Albert Museum, Indonesian textiles collection: https://collections.vam.ac.uk/search/?q=bali
 - Tropenmuseum / Nationaal Museum van Wereldculturen collection: https://collectie.wereldculturen.nl/
+

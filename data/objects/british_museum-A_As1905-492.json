@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1905-492",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1905-492",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1905-492",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1905.492",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a finely woven rattan mat with geometric diamond and diagonal patterning, consistent with Dayak plaited rattan/pandanus matwork traditions from Borneo.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "mat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Mat made of rattan.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/unclassified/dayak/images/bm_A_As1905-492.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "dcf9d060fa6c05d6c67c9c7092cbb5c5d522c7d8f95d284bbb1990e7577802f0",
+      "bytes": 70020,
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\unclassified\\dayak\\images\\bm_A_As1905-492.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:44:26.653005+00:00"
+}

@@ -5,69 +5,147 @@ region: "Southeast Asia"
 tags: [ethnography, southeast-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Yakan, a Muslim ethnolinguistic group |
+| Where | Basilan Island in the Sulu Archipelago, southern Philippines; diaspora in Upper Calarian, Zamboanga City |
+| How many | Not specified in profile |
+| Language | Bissa Yakan, an Austronesian language |
+| Religion | Sunni Muslim, Shafi'i school |
+| Known for | Geometrically complex backstrap loom weaving · Distinctive horse culture at weddings · White-dot face paint tradition (tanyak-tanyak) · Xylophone music (kwintangan kayu) · Inland agrarian communities |
+
 ## Overview
 
-The Yakan are a Muslim ethnolinguistic group of the Sulu Archipelago, based principally on the interior uplands of Basilan Island off the southern tip of the Zamboanga Peninsula, with a substantial diaspora community at Upper Calarian in Zamboanga City established after the political unrest of the early 1970s. They speak *Bissa Yakan*, an Austronesian language sharing features with both Sama-Bajau *Sinama* and Tausug, historically written in a Malay-derived Arabic script (*jawi*) adapted for sounds absent in Arabic. Ethnographic and historical sources trace their ancestry to the *Tagimaha*, an early maritime people of Basilan (called Tagima in precolonial sources), with formative Cham (*Orang Dampuan*) influence transmitted through centuries of trade with Champa. In folk-culture terms the Yakan matter above all for their loom weaving — one of the most geometrically complex textile traditions in island Southeast Asia — and for a distinctive horse culture unusual among Philippine Muslim groups.
+The Yakan are a Muslim people of the Sulu Archipelago centered on Basilan Island, speaking an Austronesian language influenced by Tausug and Sama-Bajau neighbors. They shifted from maritime to inland farming life centuries ago and are renowned for some of Southeast Asia's most intricate geometric weaving on backstrap looms. A distinctive horse culture marks their weddings, and music, dance, and textile arts remain central to identity and ceremony.
 
 ## Material culture
 
+Yakan material culture emphasizes woven textiles, carved wood, and forged metal rather than pottery, with weaving as the supreme craft tradition.
+
 ### Textile & pattern traditions
 
-Yakan weaving is executed on a backstrap or floor-tension loom, historically in fibers of pineapple (*piña*) and abaca, later in cotton and rayon, with dyes originally extracted from leaves, roots, and bark and now largely replaced by chemical dyes since contact with Luzon and Visayan settlers and the American Peace Corps in the mid-twentieth century.
+Yakan weavers produce some of island Southeast Asia's most geometrically complex cloths on backstrap and floor-tension looms, using named patterns of remarkable sophistication.
 
-**Seputangan** — the most technically demanding Yakan cloth, a densely patterned square worn by women wrapped around the waist over the tubular skirt or folded as a head cloth. Its supplementary-weft geometry is the benchmark of a weaver's skill.
-
-**Sinaluan** — a warp-striped or finely banded cloth used chiefly for the tight *sawal* trousers worn by both sexes; the narrow parallel bands give it its characteristic linear rhythm.
-
-**Bunga sama** — literally "flower-like," a pattern named after the python; the diamond-and-lozenge lattice reproduces the reptile's skin markings across the field of the cloth.
-
-**Palipattang** — a rainbow-banded cloth whose horizontal stripes cycle through the spectrum, used for waist-wrappers and sashes.
-
-**Kabban Buddi** — a diamond-lattice ground pattern, one of the newer named designs to enter the repertoire, worked in strong contrasting color blocks.
-
-**Pis siyabit** (adopted from Tausug neighbors but woven in a Yakan idiom) — a small square head cloth in supplementary weft, used by men.
-
-**Motif vocabulary.** *bunga sama* (python skin), *kabban buddi* (diamond lattice), *kenna-kenna* (fish), *dawen-dawen* (leaf of a vine), *pene mata-mata* (eye shape), *palipattang* (rainbow bands), *sinaluan* (warp stripes), *seputangan* (composite geometric field).
+- **Seputangan** — A densely patterned square cloth worn wrapped around the waist or folded as a head cloth, its supplementary-weft geometry marks a weaver's skill level.
+- **Sinaluan** — A warp-striped cloth with narrow parallel bands used chiefly for tight trousers worn by both sexes.
+- **Bunga sama** — A pattern named after the python, its diamond-and-lozenge lattice reproduces the reptile's skin markings across the cloth field.
+- **Palipattang** — A rainbow-banded cloth whose horizontal stripes cycle through the spectrum, used for waist-wrappers and sashes.
+- **Kabban Buddi** — A diamond-lattice ground pattern worked in strong contrasting color blocks, one of the newer designs in the weaving repertoire.
 
 ### Clothing & dress
 
-Traditional Yakan dress is emphatically tailored rather than draped. Women wear a close-fitting short blouse (*badju*) over narrow-cut *sawal* trousers resembling breeches, with a *seputangan* wrapped around the hips and often a second one folded over the head. Men wear the same narrow *sawal* with a fitted shirt and wind a sash-like cloth around the waist into which a long knife (*barung* or *kris*) is thrust. For weddings both bride and groom appear in elaborately layered woven ensembles with faces painted in white dots and lines (*tanyak-tanyak*), a cosmetic tradition unique in the region, and the groom traditionally arrives on horseback. Everyday dress today is largely western; the handwoven wardrobe is reserved for weddings, festivals, and demonstrations at the weaving villages of Upper Calarian and Lamitan.
+Yakan dress is tailored rather than draped, with women in fitted blouses and narrow trousers and men in fitted shirts and waist sashes, both sexes displaying woven cloths.
+
+- **Badju** — A close-fitting short blouse worn by women over narrow sawal trousers.
+- **Sawal** — Narrow-cut breeches-like trousers worn by both men and women, often paired with woven sashes.
+- **Tanyak-tanyak face paint** (*tanyak-tanyak*) — White dots and lines painted on bride's and groom's faces at weddings, said to ward off spirits and signal ritual transformation—unique in the region.
+- **Kopiah** — An embroidered skullcap worn by men as a marker of Muslim identity.
 
 ### Architecture
 
-The Yakan house (*luma*) is a single-room rectangular pile dwelling raised on hardwood posts, walled in split bamboo or sawn plank and roofed in *cogon* thatch or nipa, with a steeply pitched gable and a separate elevated kitchen (*kusina*) attached by a covered platform. Unlike the coastal Sama-Bajau, whose houses stand over water on piles at the tideline, Yakan houses sit inland among cleared upland fields, reflecting the group's shift from maritime to agrarian life after the thirteenth century. Communities cluster around a *langgal* — a small mosque of the same timber-and-thatch construction as the domestic house, distinguished by a modest tower and prayer platform — which serves as prayer hall, Qur'anic school (*pagadjihan*), and meeting place. Ornament is restrained: incised finials on ridge poles, carved brackets at post tops, and occasional pierced-wood ventilation panels above the doorways.
+Yakan houses are single-room pile dwellings of split bamboo and thatch, inland rather than over water, clustered around timber-and-thatch mosques.
+
+- **Luma** — A rectangular pile dwelling raised on hardwood posts, walled in split bamboo or sawn plank, roofed in cogon thatch or nipa with a steeply pitched gable.
+- **Kusina** — A separate elevated kitchen attached to the house by a covered platform.
+- **Langgal** — A small mosque of timber-and-thatch construction distinguished by a modest tower and prayer platform, serving also as school and meeting place.
+- **Pagadjihan** — A Qur'anic school and religious learning space housed within or near the langgal mosque.
 
 ### Ceramics, metalwork & everyday objects
 
-Yakan material culture leans toward wood, bamboo, and fiber rather than fired clay; cooking pots are typically brass or imported earthenware traded through Sulu ports. Metalwork centers on the smith's forge and the production of edged weapons — the wavy-bladed *kris*, the leaf-shaped *barung*, and the small utility *pisaw* — with hilts of carved *kamagong* hardwood and scabbards bound in rattan. Betel-chewing equipment includes brass boxes (*salapa*) with hinged lids for lime, areca, and leaf, and small brass or bronze mortars. Household weaving equipment — the backstrap loom's beater (*balida*), heddle rods, and shuttle — is itself often decorated with incised geometric patterns echoing the cloth on the loom.
+Yakan material culture favors wood, bamboo, and fiber; metalwork centers on edged weapons with decorated hilts and scabbards.
+
+- **Kris** — A wavy-bladed edged weapon with a hilt of carved kamagong hardwood and a rattan-bound scabbard.
+- **Barung** — A leaf-shaped knife thrust into the waist sash, worn by men and used in martial dances.
+- **Salapa** — A brass box with a hinged lid for holding betel-chewing ingredients: lime, areca, and leaf.
+- **Balida** — The beater tool of the backstrap loom, often decorated with incised geometric patterns echoing the cloth being woven.
 
 ### Jewelry & body adornment
 
-Yakan personal ornament is modest by comparison with neighboring Tausug and Maranao work: filigree earrings, gold or brass finger rings, and coin necklaces obtained through Sulu trade. The most visible body adornment is the wedding face-paint *tanyak-tanyak*, in which the bride's and groom's cheeks and forehead are marked with white dots and short lines applied with rice paste or powder, said to ward off spirits and to signal ritual transformation. Hair for women is pulled back and covered with a folded *seputangan*; for men, an embroidered skullcap (*kopiah*) marks Muslim identity. Tattooing is not a documented Yakan practice.
+Personal ornament is restrained compared to neighboring groups: filigree earrings, rings, and coin necklaces, with wedding face paint the most visible adornment.
+
+- **Filigree earrings** — Gold or brass earrings in filigree work, modest in comparison with Tausug and Maranao jewelry traditions.
+- **Azimat** — Protective inscriptions in Arabic script worn on the body or hung in houses as spiritual safeguards.
+- **Coin necklaces** — Necklaces made from coins obtained through Sulu trade networks.
 
 ## Music & performance
 
-Yakan music belongs to the broader Sulu gong-and-drum ensemble tradition. The core instrument is the *kulintangan*, a set of small horizontally-laid bossed gongs played melodically with two padded sticks, supported by the larger hanging gongs *agung* and *gandang*, and by a two-headed cylindrical drum (*tambul*). The characteristic Yakan solo instrument is the *kwintangan kayu*, a xylophone of five wooden bars suspended horizontally over a rice field or in a house and struck by a lone player — a form specifically identified with Yakan practice and comparatively rare elsewhere in Sulu. String music includes the two-stringed boat-lute *gabbang* and the bamboo tube zither *tagunggo'*. Vocal genres include Qur'anic recitation (*paluggu'*), the sung wedding narrative accompanying the arrival of the groom, and lullabies (*langan bata-bata*). Music accompanies the wedding (*hinang magtiaun*), the harvest, and *pagkanduli* thanksgiving gatherings, while the *kwintangan kayu* is traditionally played to encourage the growth of rice.
+Yakan music belongs to the Sulu gong-and-drum ensemble tradition, with a distinctive xylophone and string instruments alongside vocal genres.
+
+- **Kwintangan kayu** — A five-bar wooden xylophone struck by a lone player, specifically identified with Yakan practice and played to encourage rice growth.
+- **Kulintangan** — A set of small horizontally-laid bossed gongs played melodically with two padded sticks, the core melodic instrument.
+- **Gabbang** — A two-stringed boat-lute used in Yakan string music.
+- **Paluggu'** — Qur'anic recitation performed as a vocal genre at religious occasions.
 
 ## Dance & theatre
 
-Dance is centered on the wedding and on informal festival performance rather than on courtly or theatrical forms. The best-known Yakan dance is the *pangalay*-related **pansak**, a slow arm-and-hand dance in which women in *seputangan* and *sawal* trace curving figures with the fingers, often extended with long brass fingernails as in the wider Sulu *pangalay* tradition. The **pig-panayaman** is a martial-inflected duet in which two men circle each other holding *kris* or *barung*, choreographing combat without contact. There is no shadow-puppet or masked-drama tradition among the Yakan; theatrical narrative is carried by sung recitation at the wedding rather than by staged performance.
+Yakan dance is centered on weddings and informal festivals, with slow hand-tracing dances and martial duets but no shadow-puppet or masked-drama traditions.
+
+- **Pansak** — A slow arm-and-hand dance in which women trace curving figures with the fingers, often extended with long brass fingernails, related to the wider Sulu pangalay tradition.
+- **Pig-panayaman** — A martial-inflected male duet in which two men circle each other holding kris or barung, choreographing combat without contact.
 
 ## Festivals & rituals
 
-The Yakan calendar is Islamic, structured by the lunar month and the two great feasts *Hari Raya Puasa* (Eid al-Fitr, ending Ramadan) and *Hari Raya Hadji* (Eid al-Adha), both marked by communal prayer at the *langgal*, new woven clothing, and the visiting of graves. The rice cycle adds agricultural rites — clearing, planting, and a harvest thanksgiving at which the *kwintangan kayu* is played in the fields. Life-cycle observance follows Muslim norms overlaid with local practice: the naming ceremony (*paggunting*) with the first cutting of an infant's hair; circumcision (*pag-islam*) for boys; and the elaborate multi-day wedding (*hinang magtiaun*) in which bride and groom appear in full woven regalia with *tanyak-tanyak* face paint, the groom arriving on a decorated horse — a distinctively Yakan element linked to the group's inland horse culture. Funerals follow Islamic burial rites within twenty-four hours, with recitation from the Qur'an and a graveside marker (*sunduk*) sometimes carved in low relief. The **Lami-Lamihan Festival**, held annually in Lamitan, Basilan, showcases weaving, horseback processions, and Yakan music and dance as a public assertion of identity.
+The Islamic calendar structures Yakan observance with the two great feasts, rice-cycle agricultural rites, and an elaborate multi-day wedding featuring horse processions and face paint.
+
+- **Hinang magtiaun** — An elaborate multi-day wedding in which bride and groom appear in full woven regalia with tanyak-tanyak face paint and the groom arrives on a decorated horse.
+- **Hari Raya Puasa** — Eid al-Fitr, ending Ramadan, marked by communal prayer, new woven clothing, and grave visits.
+- **Pag-islam** — The circumcision ceremony for boys, following Muslim life-cycle norms.
+- **Lami-Lamihan Festival** — An annual festival held in Lamitan, Basilan, showcasing weaving, horseback processions, music, and dance as a public assertion of Yakan identity.
 
 ## Foodways
 
-Yakan cooking is halal, rice-centered, and closely related to the wider Sulu-Zamboanga kitchen. The staple is upland rice supplemented by cassava and maize; fish is the principal source of protein, together with chicken and, on ceremonial occasions, goat and beef. Coconut milk and turmeric flavor stews (*kulma*), and grilled fish (*ihaw-ihaw*) is a daily preparation. Sticky-rice cakes such as *panyalam* (a fried rice-flour and coconut pancake) and *pitis* (small steamed rice cakes) appear at weddings and Hari Raya. *Tiyula itum*, the black stew of beef or goat colored with burnt coconut and flavored with ginger and turmeric — better known as a Tausug dish — is served at major Yakan feasts as well. Sweet snacks include *daral* (rolled coconut crêpes) and *bang-bang* (assorted rice-flour sweets). Betel-chewing (*mama*) — areca nut, lime, and *piper betle* leaf carried in a brass *salapa* — remains a marker of hospitality among older Yakan, offered to guests on arrival. Alcohol is absent under Muslim observance; sweetened black coffee is the standard drink of welcome.
+Yakan cooking is halal and rice-centered, closely related to the wider Sulu kitchen, with fish as the principal protein and coconut milk flavoring stews.
+
+- **Kulma** — A stew flavored with coconut milk and turmeric, the core dish of Yakan cooking.
+- **Tiyula itum** — A black stew of beef or goat colored with burnt coconut and flavored with ginger and turmeric, served at major Yakan feasts.
+- **Panyalam** — A fried rice-flour and coconut pancake appearing at weddings and Hari Raya celebrations.
+- **Mama** — Betel-chewing with areca nut, lime, and piper betle leaf carried in a brass salapa, remaining a marker of hospitality among older Yakan.
 
 ## Oral tradition & literature
 
-Yakan oral tradition is transmitted largely through sung and spoken performance at weddings and evening gatherings rather than through a codified epic cycle. Genres include *kata-kata*, extended prose-and-verse tales of heroes and journeys shared with the Tausug and Sama; *tarasul*, moralizing sung verse in Arabic-influenced meter often drawn from Islamic didactic sources; and *sindil*, sung improvised repartee exchanged between a man and a woman at social gatherings. Proverbs and riddles (*tukud-tukud*) frame moral instruction for children, while Qur'anic recitation (*paluggu'*) at the *pagadjihan* school forms the literate backbone of childhood learning. There is no single national epic identified specifically with the Yakan comparable to the Maranao *Darangen* or the Sulu *Parang Sabil* cycles, though the latter's martyrological narratives circulate among Yakan reciters as part of the shared Sulu repertoire.
+Yakan oral tradition is transmitted through sung and spoken performance at weddings and gatherings rather than through a single epic cycle, with genres of tales, moralizing verse, and improvised repartee.
+
+- **Kata-kata** — Extended prose-and-verse tales of heroes and journeys shared with the Tausug, performed at social gatherings.
+- **Tarasul** — Moralizing sung verse in Arabic-influenced meter, often drawn from Islamic didactic sources.
+- **Sindil** — Sung improvised repartee exchanged between a man and a woman at social gatherings.
+- **Tukud-tukud** — Proverbs and riddles that frame moral instruction for children.
 
 ## Language & religion
 
-*Bissa Yakan* is a Sama-Bajau language of the Austronesian family, closely related to Sinama but heavily influenced by neighboring Tausug in vocabulary and phonology. It was historically written in a locally adapted Arabic script (*jawi* with additional letters for sounds absent in Arabic); today Latin-based orthography predominates in schools and print. The Yakan are almost entirely Sunni Muslim of the Shafi'i legal school, with Islam introduced through Cham merchants and later reinforced by missionaries such as *Karimul Makdum* traveling through Sulu from the fourteenth century. Popular religious practice preserves pre-Islamic elements: healing rites conducted by a spirit medium (*mangungubat*), invocations before rice planting, and protective inscriptions in Arabic script (*azimat*) worn on the body or hung in the house.
+The Yakan speak Bissa Yakan, a Sama-Bajau language influenced by Tausug, and are Sunni Muslim with popular practice preserving pre-Islamic healing and protective elements.
+
+- **Bissa Yakan** — An Austronesian language closely related to Sinama but heavily influenced by Tausug, historically written in jawi script and now in Latin orthography.
+- **Jawi script** (*jawi*) — A Malay-derived Arabic script historically used to write Yakan, adapted with additional letters for sounds absent in standard Arabic.
+- **Mangungubat** — A spirit medium who conducts healing rites, preserving pre-Islamic religious elements in popular practice.
+
+## Glossary
+
+- *seputangan* — densely patterned square cloth worn at waist or as head cloth
+- *sinaluan* — warp-striped cloth used for tight trousers
+- *bunga sama* — python-skin diamond-lozenge pattern
+- *palipattang* — rainbow-banded cloth with horizontal spectrum stripes
+- *kabban buddi* — diamond-lattice ground pattern in contrasting colors
+- *badju* — close-fitting short blouse
+- *sawal* — narrow-cut breeches-like trousers
+- *tanyak-tanyak* — white-dot and line face paint for weddings
+- *luma* — rectangular pile dwelling of split bamboo and thatch
+- *langgal* — small mosque serving as prayer hall, school, and meeting place
+- *pagadjihan* — Qur'anic school and religious learning space
+- *kris* — wavy-bladed knife with carved hilt and rattan-bound scabbard
+- *barung* — leaf-shaped knife thrust into waist sash
+- *salapa* — brass box with hinged lid for betel-chewing ingredients
+- *kwintangan kayu* — five-bar wooden xylophone played by single striker
+- *kulintangan* — set of small bossed gongs played melodically
+- *pansak* — slow arm-and-hand dance with curved finger movements
+- *hinang magtiaun* — elaborate multi-day wedding with horse procession
+- *mama* — betel-chewing with areca nut, lime, and piper betle leaf
+- *kulma* — coconut milk and turmeric stew
+- *tiyula itum* — black stew of beef or goat with burnt coconut
+- *kata-kata* — extended prose-and-verse tales of heroes and journeys
+- *tarasul* — moralizing sung verse in Arabic-influenced meter
+- *sindil* — sung improvised repartee between man and woman
+- *Bissa Yakan* — Austronesian language of the Yakan people
 
 ## Sources & further reading
 
@@ -82,3 +160,4 @@ Yakan oral tradition is transmitted largely through sung and spoken performance 
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Philippines+Sulu
 - National Commission for Culture and the Arts (NCCA), "Yakan": https://ncca.gov.ph
 - Victoria and Albert Museum, Southeast Asian textiles collection: https://collections.vam.ac.uk
+

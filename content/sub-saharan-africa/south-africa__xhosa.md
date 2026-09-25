@@ -5,70 +5,160 @@ region: "Sub Saharan Africa"
 tags: [ethnography, sub-saharan-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | The Xhosa, a Nguni Bantu people of southeastern South Africa |
+| Where | Eastern Cape, with large diaspora in Western Cape, Gauteng, and mining areas |
+| How many | Roughly 8-9 million first-language speakers |
+| Language | IsiXhosa, a Southern Bantu language with three click consonants |
+| Religion | Majority Christian (Methodist, African Independent Churches); also practice ancestor veneration |
+| Known for | Beadwork with color-coded meanings · Ochre-dyed umbhaco cotton dress · Long-stemmed clay smoking pipes · Praise-poet tradition (imbongi) · Call-and-response vocal music |
+
 ## Overview
 
-The Xhosa (*amaXhosa*) are a Nguni Bantu people of southeastern South Africa, historically concentrated between the Kei and Fish rivers in what is today the Eastern Cape, with substantial diaspora populations in the Western Cape (especially the Cape Town townships), Gauteng, and across the mining belt. They are the second-largest ethnic group in South Africa after the Zulu, numbering roughly 8–9 million first-language speakers of *isiXhosa*, a Southern Bantu language of the Nguni subgroup notable for its three families of click consonants (*c*, *q*, *x*) borrowed from long historical contact with San and Khoekhoe neighbours. The name "Xhosa" is now used both narrowly, for the paramount house descended from the semi-legendary chief uXhosa, and broadly, as an umbrella for a cluster of closely related chiefdoms — the Gcaleka, Rharhabe, Thembu, Mpondo, Mpondomise, Bomvana, Bhaca, and the incorporated Mfengu (Fingo) refugees who arrived from Natal in the 1820s after the *Mfecane*. Their nineteenth century was defined by a hundred-year sequence of frontier wars with the Cape Colony and by the catastrophic 1856–57 cattle-killing prophecy of the girl Nongqawuse. In folk-culture terms the Xhosa matter above all for their beadwork — arguably the most codified colour-symbolic beadwork tradition in southern Africa — for the ochre-dyed *umbhaco* cotton dress, for the long-stemmed clay smoking pipe of married women, and for the *imbongi* praise-poet tradition that carried through Nelson Mandela's and Thabo Mbeki's inaugurations.
+The Xhosa are the second-largest ethnic group in South Africa, speaking isiXhosa with its distinctive click sounds learned from neighboring San and Khoekhoe peoples. Their culture blends nineteenth-century colonial influence with older traditions of ochre body decoration, beadwork, and ancestor worship. They are known worldwide for their intricate beadwork that carries symbolic color meanings, their praise-poetry tradition performed at state ceremonies, and vocal music techniques like overtone singing.
 
 ## Material culture
 
+Xhosa material culture integrates color-coded beadwork, red-ochre dyed cloth, and carved wooden objects into a unified aesthetic that marks identity, status, and life stage.
+
 ### Textile & pattern traditions
 
-**Umbhaco** — the signature Xhosa cloth, a heavy unbleached or white cotton (originally locally spun, from the nineteenth century onward mill-woven and traded up from the Cape) dyed a deep red-ochre with *imbola* (red clay) or, in more recent decades, left white and trimmed with black braid. Panels are stitched into wrap skirts, capes and blankets and finished with parallel bands of black bias tape (*ibhayi*) in geometric arrangements — chevrons, stepped rectangles, ladders — that distinguish sub-group and marital status.
+The signature umbhaco cloth—ochre-dyed or white cotton trimmed with black geometric braid—distinguishes sub-groups and marital status.
 
-**Xhosa blanket** (*ingcawa*, *iqhiya yebhulukhwe*) — the wool trade blanket, adopted in the nineteenth century from colonial trade stores, has become fully indigenised as everyday wear for men and as a ceremonial wrap for initiates and brides; the striped Basotho-style blanket circulates alongside locally preferred plaids and the specifically Xhosa dyed-and-braided *umbhaco* blanket.
-
-**Isikhakha** (also *umbhaco* in some usages) — the ochre wrap skirt worn by married women, pleated at the waist and falling to mid-calf, worn with a matching cape (*ibhayi*) over the shoulders.
-
-**Beadwork textile fields.** Xhosa beadwork (*ubuhlalu*) is applied not as isolated ornament but as densely worked panels sewn onto cloth: aprons, collars, headbands, bandoliers, anklets and pipe-stem wrappings. Regional schools are sharply distinguishable. **Thembu beadwork** favours a white ground with restrained navy, black and pale-blue geometry. **Mpondo beadwork** to the northeast leans on pink, white and pale blue with looser figuration. **Bhaca beadwork** carries denser, more polychrome fields with strong reds and greens. **Mfengu beadwork**, reflecting the group's mixed Nguni origin, blends Zulu-influenced colour saturation with Xhosa forms. Colour carries a semi-standardised vocabulary — white for ancestors and purity, red for maturity and blood, blue for the sky and fidelity, green for new grass and fertility, pink for a sweetheart's promise — though readings shift by chiefdom and generation and no single "dictionary" holds across the whole nation.
-
-**Motif vocabulary.** Chevron (*izigqi*), diamond lozenge, stepped triangle, the "railway line" ladder motif that entered the repertoire in the late nineteenth century, and the ubiquitous banded horizontal — read as cattle-track, river or path — organised in bilateral symmetry across aprons and collars.
+- **Umbhaco cloth** (*umbhaco*) — Heavy cotton dyed deep red-ochre with red clay or left white and trimmed with black braid in geometric patterns like chevrons and stepped rectangles.
+- **Xhosa blanket** (*ingcawa, iqhiya yebhulukhwe*) — Wool trade blanket from the nineteenth century, worn everyday by men and ceremonially by initiates and brides, now fully part of Xhosa identity.
+- **Xhosa beadwork** (*ubuhlalu*) — Densely worked beaded panels sewn onto cloth as aprons, collars, and bandoliers, with regional schools distinguished by color: Thembu favors white with navy and blue, Mpondo uses pink and pale blue, Bhaca features dense polychrome with reds and greens.
+- **Chevron motif** (*izigqi*) — A signature geometric pattern in beadwork arranged in bilateral symmetry, part of a motif vocabulary that also includes diamonds, stepped triangles, and the late-nineteenth-century railway-line ladder motif.
 
 ### Clothing & dress
 
-Everyday twentieth-century Xhosa dress fuses Victorian mission-era cuts with the older ochred wrap. Married women wear the *isikhakha* / *umbhaco* skirt, a long-sleeved blouse, the *ibhayi* shoulder cape, and — most distinctively — the *iqhiya*, a large square headscarf folded and tied in codified ways that mark whether a woman is a young wife, a mother, a widow, or a *makoti* (new bride) still living under her mother-in-law's roof. The formal beaded bridal ensemble adds a beaded **Xhosa headdress** — a stiff crown or turban worked in white, blue and black beadwork — a beaded collar (*ithumbu*), and a heavily beaded front apron (*incebetha* or *isitshaba*), the last a signature Thembu and Bomvana form worn by the newly married woman across the belly. Men in ceremonial dress wrap a white-ochre blanket over one shoulder, wear a beaded headband and neck-collar, and carry a **knobkerrie** (*iwisa* / *induku*) — a heavy hardwood club with a rounded head, both weapon and speaker's baton — and, for elders, a tobacco bag. Initiates (*abakhwetha*) emerging from the circumcision seclusion appear in a distinctive white kaolin body paint and a plain new blanket, and are subsequently invested as *amakrwala* (new men) in a formal suit and cap. Young unmarried women may go bare-breasted in traditional contexts, wearing only a short beaded apron; the marker of marriage is the covered head and covered torso.
+Married women wear the ochred isikhakha skirt, long blouse, shoulder cape, and distinctively folded headscarf; bridal dress adds beaded crown, collar, and front apron.
+
+- **Isikhakha wrap skirt** (*isikhakha*) — The ochre wrap skirt worn by married women, pleated at the waist and falling to mid-calf, worn with a matching cape over the shoulders.
+- **Headscarf** (*iqhiya*) — A large square scarf folded and tied in codified ways to mark whether a woman is a young wife, mother, widow, or newly married bride living under her mother-in-law's roof.
+- **Xhosa headdress** — A stiff beaded crown or turban in white, blue, and black worn by the bride in formal ceremonial dress.
+- **Beaded bridal apron** (*incebetha, isitshaba*) — A heavily beaded front apron worn across the belly by the newly married woman, a signature Thembu and Bomvana form.
+- **Knobkerrie** (*iwisa, induku*) — A heavy hardwood club with a rounded head, worn by men in ceremonial dress and used as both weapon and speaker's baton.
 
 ### Architecture
 
-The classical Xhosa homestead (*umzi*) is a cluster of round thatched huts (*iindlu*, sing. *indlu*) arranged around a central circular cattle byre (*ubuhlanti*) of stacked thornbush or dry-stone, itself the ritual centre of the household — the place where ancestors are addressed, where beasts are slaughtered, and where the umbilical cord and placenta of a newborn are traditionally buried. Each hut is a wattle-and-daub cylinder — a ring of hardwood posts interwoven with pliant branches and plastered with a mix of clay, cow dung and ash — capped by a conical thatched roof of *ingca* grass tied to a central pole. Interiors are floored in polished dung, divided by function (the *umsamo*, the sacred back wall opposite the door, is the place of ancestors and stored ritual objects), and traditionally have no windows, only a low doorway facing the byre. From the late nineteenth century the rectangular *irondavel* and mission-influenced four-square house with a pitched corrugated-iron roof gradually displaced the round hut in denser settlements, but the round *indlu* remains standard for ceremonial homesteads, initiation lodges (built fresh for each cohort and burnt at the end of seclusion), and for the ancestor-room in even quite modern rural compounds. Distinctive to some Xhosa villages of the Transkei is the exterior painting of walls in bands of ochre, white lime and pale blue laundry-bluing — a domestic decoration usually done by the women of the household.
+The classical homestead is a cluster of round, wattle-and-daub thatched huts arranged around a central cattle byre that serves as the ritual center.
+
+- **Homestead** (*umzi*) — A cluster of round thatched huts arranged around a central circular cattle byre of stacked thornbush or dry-stone, the ritual and social center of the household.
+- **Round hut** (*indlu*) — A wattle-and-daub cylinder with a conical thatched roof, floored in polished dung, with an interior divided by function and a sacred back wall (umsamo) for ancestors.
+- **Cattle byre** (*ubuhlanti*) — The central circular enclosure where ancestors are addressed, beasts are slaughtered, and umbilical cords are buried—the ritual center of the household.
 
 ### Ceramics, metalwork & everyday objects
 
-Xhosa potters, traditionally women, hand-build (without a wheel) coiled earthenware for beer, water and cooking: the large-bellied beer pot (*imbiza*) for brewing *umqombothi* sorghum beer, the smaller drinking pot (*ukhamba*) passed communally around a seated circle, and the wide-mouthed cooking pot. Vessels are burnished with a smooth stone before firing in an open bonfire, and finished dark grey to black; decoration is restrained, usually a band of incised or applied *amasumpa* (raised bumps) around the shoulder. **Xhosa baskets** are coiled from *ilala* palm or grass in shallow open forms for winnowing grain and in tightly woven lidded forms (*isichumo*) originally used to carry beer without spilling. The **Xhosa smoking pipe** (*inqawa*) is one of the group's most distinctive objects: a small clay or carved-wood bowl set on a very long reed or wooden stem, often up to half a metre, wrapped in beadwork along its length; it is the signature accessory of the married woman and elderly matron, and pipes were exchanged as courtship and marriage tokens. The matched **snuff spoon** (*isikhetho* / *ikhonkco*), a small carved bone, horn or brass spoon worn suspended from an earlobe or beaded neckband, is used to take *isihuba* powdered tobacco, historically also an offering to the ancestors. Ironwork — spear (*umkhonto*) and adze heads — was traditionally the work of specialist smiths, and the *iwisa* knobkerrie is carved by men from a single piece of hardwood root or hard trunk. **Xhosa dolls**, small stump-figures wrapped in cloth and covered in beaded aprons, collars and headbands miniaturising adult women's dress, were traditionally fertility charms carried by young women hoping for a child rather than children's toys, and are now one of the most collected Xhosa objects. (The nineteenth- and early-twentieth-century curio trade lumped Xhosa artefacts, along with much other southern African material, under the racial slur "Kaffir art"; the term is offensive, obsolete, and retained here only to identify old museum labels one may encounter.)
+Women potters hand-build coiled earthenware for beer and cooking; the smoking pipe is the most distinctive Xhosa object.
+
+- **Beer pot** (*imbiza*) — A large-bellied earthenware vessel for brewing sorghum beer, hand-coiled and burnished, finished dark grey to black.
+- **Drinking pot** (*ukhamba*) — A smaller pottery vessel passed communally around a seated circle during ritual and social gatherings.
+- **Xhosa smoking pipe** (*inqawa*) — A small clay or carved-wood bowl set on a very long reed or wooden stem, often half a meter, wrapped in beadwork—the signature accessory of married women and elderly matrons.
+- **Snuff spoon** (*isikhetho, ikhonkco*) — A small carved bone, horn, or brass spoon worn suspended from an earlobe or beaded neckband, used to take powdered tobacco and offered to ancestors.
+- **Xhosa doll** — Small stump-figures wrapped in cloth and covered with beaded aprons and headbands, traditionally fertility charms carried by young women hoping for a child.
 
 ### Jewelry & body adornment
 
-Xhosa personal adornment is above all beaded. Neck collars (*ithumbu*), multi-strand chokers, beaded bandoliers worn crossed over the chest, wristlets and anklets, beaded belts and the long beaded ropes (*inyongo*) draped from the neck, all worked in the regional palettes described above. Distinctively Xhosa is the *ithumbu lomtshato*, the beaded bridal collar, and the *incebetha*, the heavy beaded breast-panel or apron of the newly married Thembu / Bomvana woman. Brass and copper wire arm- and leg-rings (*iingqosha*) were traditionally worn stacked from ankle to knee and wrist to elbow, adding weight and sound to a woman's walk. Body paint in white kaolin (*ifutha*) covers the initiate boy through his months of seclusion and marks the diviner's apprentice (*umkhwetha wobugqirha*); red ochre (*imbola*) rubbed into the skin, hair and cloth is the aesthetic and ritual signature of the older ochre-wearing rural population, the so-called "Red Xhosa" (*amaqaba*) who into the twentieth century resisted mission dress. Facial scarification is largely absent; ear-piercing to hold the snuff spoon and small beaded plugs is standard for both sexes.
+Personal adornment is above all beaded—neck collars, bandoliers, wristlets, anklets, and long draped beaded ropes in regional color palettes.
+
+- **Beaded collar** (*ithumbu*) — Multi-strand chokers and neck ornaments worked in regional beadwork palettes, with a special bridal version (ithumbu lomtshato) for newly married women.
+- **Beaded bandolier** — A crossed chest ornament worn with beadwork panels reflecting regional and chiefdom identity.
+- **Wire arm- and leg-rings** (*iingqosha*) — Brass and copper wire rings traditionally worn stacked from ankle to knee and wrist to elbow, adding weight and sound to a woman's walk.
+- **White kaolin body paint** (*ifutha*) — Applied to the initiate boy through months of seclusion and marking the diviner's apprentice.
+- **Red ochre** (*imbola*) — Rubbed into skin, hair, and cloth as the aesthetic and ritual signature of older rural populations resisting mission dress, called the 'Red Xhosa' (amaqaba).
 
 ## Music & performance
 
-Xhosa vocal music rests on overlapping call-and-response between a leader (*umhlabeli*) and a chorus, characteristically in parallel fourths and fifths with a strong hemiola between duple singing and triple hand-clap. The most internationally recognisable Xhosa vocal genre is *umngqokolo*, the split-tone overtone singing of the women of the Ngqoko area in the former Transkei, in which a low fundamental is sung against a whistled selected upper partial — a technique brought to wide notice by the ethnomusicologist Dave Dargie and the Ngqoko Cultural Group. The signature instrument is the **uhadi** (bow with a calabash resonator held against the breast, struck with a light stick) and the smaller mouth-bow **umrhubhe** (held to the lips, the mouth cavity selecting overtones); both underpin women's singing. Percussion is provided by handclapping, ankle rattles, and the *ingqongqo* (dry cowhide beaten with sticks) at girls' initiation. The **isicathulo** or "gumboot" idiom, though pan-Nguni and born in the mine compounds, is strongly present in Xhosa migrant-labour music. Miriam Makeba's *Qongqothwane* ("The Click Song") popularised a Xhosa wedding song worldwide, and the composer Enoch Sontonga's 1897 hymn *Nkosi Sikelel' iAfrika* — written in isiXhosa — became first the ANC anthem and then, since 1997, part of the national anthem of South Africa.
+Xhosa vocal music rests on call-and-response in parallel fourths and fifths; the signature instruments are the uhadi bow and umrhubhe mouth-bow.
+
+- **Umngqokolo** — Split-tone overtone singing by women of the Ngqoko area in which a low fundamental is sung against a whistled upper partial.
+- **Uhadi** — A bow with a calabash resonator held against the breast and struck with a light stick, underpinning women's singing.
+- **Mouth-bow** (*umrhubhe*) — A smaller bow held to the lips with the mouth cavity selecting overtones, used in women's vocal music.
+- **Gumboot idiom** (*isicathulo*) — Though pan-Nguni and born in mine compounds, this idiom is strongly present in Xhosa migrant-labour music.
 
 ## Dance & theatre
 
-Xhosa dance is almost always sung dance, performed in a circle or facing line with the beat carried by handclap and stamping foot rather than drum (Xhosa tradition, unlike much of Bantu Africa, is largely drumless). Girls' puberty dances (*intonjane*) feature slow shoulder-shaking and side-stepping in beaded aprons; the boys' *umtshotsho* is a courting dance-party of unmarried youth. The *umxhentso* is the trance-inducing dance of the diviner (*igqirha* / *isangoma*), performed to accelerating clapping and the *ingqongqo* hide until the diviner enters an ancestral state and delivers pronouncements. Wedding processions feature the slow *ukusina* stepping of the bridal party. Formal theatre in the European sense is a twentieth-century development, but the *imbongi*'s praise-performance is itself a theatrical form — a solo declaimed poetry with stamping, gesture, leopard-skin cape and knobkerrie flourish, performed before chiefs, at funerals, at political rallies, and, famously, at the 1994 and 1999 presidential inaugurations.
+Xhosa dance is almost always sung, performed in circle or line with handclap and stamping foot rather than drum, featuring slow shoulder-shaking and courting movements.
+
+- **Girls' puberty dance** (*intonjane*) — Features slow shoulder-shaking and side-stepping in beaded aprons at menarche seclusion.
+- **Courting dance-party** (*umtshotsho*) — A boys' dance gathering of unmarried youth.
+- **Diviner's trance dance** (*umxhentso*) — The trance-inducing dance of the diviner performed to accelerating clapping and cowhide until the diviner enters an ancestral state.
+- **Praise-performance** (*imbongi*) — A solo declaimed poetry with stamping, gesture, and leopard-skin cape flourish, performed before chiefs, at funerals, and at political rallies and presidential inaugurations.
 
 ## Festivals & rituals
 
-The Xhosa ritual year is not agricultural-calendrical but life-cycle. The dominant public rite is *ulwaluko*, the male initiation and circumcision, in which cohorts of boys (*abakhwetha*) are secluded for several weeks in a purpose-built bush lodge, circumcised by a traditional surgeon (*ingcibi*), instructed by an *ikhankatha* attendant, and emerge painted in white kaolin, wrapped in a new blanket, before the lodge is burnt and the young men return as *amakrwala*. Its female counterpart is *intonjane*, the girls' seclusion at menarche, less physically dramatic but marked by beadwork gifts, secluded instruction, and a dance emergence. Marriage centres on *lobola* (bridewealth in cattle), the bride's transfer to her husband's homestead as *makoti*, and the ritual slaughter of a beast to introduce her to his ancestors. Ancestor-veneration rites (*ukubuyisa* — bringing home the spirit of the dead, held about a year after death) and the diviner's calling-out ceremony (*ukuthwasa*) punctuate adult life. The **Nongqawuse commemoration** on the anniversary of the 1856 cattle-killing is observed at certain Eastern Cape sites. Christmas and New Year, when migrant workers return from the cities, have become the great annual homecoming and marriage season.
+The ritual year centers on life-cycle rites: male circumcision seclusion (ulwaluko), girls' menarche seclusion (intonjane), marriage with bridewealth (lobola), and ancestor veneration.
+
+- **Male initiation** (*ulwaluko*) — Cohorts of boys are secluded for weeks in a bush lodge, circumcised, instructed, and emerge in white kaolin paint before the lodge is burnt and they return as new men (amakrwala).
+- **Girls' seclusion** (*intonjane*) — Menarche seclusion marked by beadwork gifts, secluded instruction, and a dance emergence, the female counterpart to ulwaluko.
+- **Bridewealth** (*lobola*) — Cattle exchanged to transfer the bride to her husband's homestead as makoti, with ritual slaughter of a beast to introduce her to his ancestors.
+- **Ancestor homecoming** (*ukubuyisa*) — The ritual bringing home of the dead spirit, held about a year after death.
+- **Nongqawuse commemoration** — Observed on the anniversary of the 1856 cattle-killing prophecy at certain Eastern Cape sites.
 
 ## Foodways
 
-The Xhosa staple is maize, cooked as stiff porridge (*umphokoqo*, crumbly, eaten with sour milk *amasi*) or soft porridge (*isidudu*); older sorghum (*amazimba*) survives principally in the beer. *Umngqusho* — samp (coarse-crushed maize) stewed slowly with sugar beans, onion, potato and often lamb or beef — is the national dish, associated indelibly with the Thembu homeland and repeatedly named by Nelson Mandela as his favourite food. Meat is boiled or spit-roasted, cattle slaughter is ritually charged and reserved for weddings, funerals and ancestor rites, and the offal (*ulusu*) is eaten by the men at the byre. *Umqombothi*, sorghum-and-maize beer brewed in the *imbiza* pot by the women of the homestead, is central to every ritual: passed in a communal *ukhamba* from oldest to youngest, and offered to the ancestors by spilling a first pour on the ground of the byre. Everyday accompaniments include wild greens (*imifino*, chiefly amaranth and blackjack), pumpkin, sweet potato, and, on the coast, shellfish and line-fish. Tea is drunk sweet with condensed milk. Snuff (*isihuba*) and the long pipe of tobacco function as social and ritual substances alongside beer.
+The staple is maize cooked as stiff or soft porridge with sour milk; umngqusho (samp stewed with sugar beans) is the national dish.
+
+- **Maize porridge** (*umphokoqo, isidudu*) — Crumbly stiff porridge (umphokoqo) or soft porridge (isidudu) eaten with sour milk (amasi), the daily staple.
+- **Umngqusho** — Samp stewed slowly with sugar beans, onion, potato, and lamb or beef—the national dish associated with the Thembu homeland and Nelson Mandela's favorite.
+- **Sorghum beer** (*umqombothi*) — Brewed from sorghum and maize by homestead women in the imbiza pot, passed communally in an ukhamba from oldest to youngest and offered to ancestors.
+- **Wild greens** (*imifino*) — Chiefly amaranth and blackjack, served as everyday vegetable accompaniments.
 
 ## Oral tradition & literature
 
-The dominant Xhosa oral genre is *izibongo* — praise poetry — declaimed by the specialist praise-singer *imbongi* in a torrential improvised style built on chained metaphors, historical allusion and rhythmic parallelism, addressed to chiefs, ancestors and, in modern usage, presidents and football teams. Folktales (*iintsomi*) are told by grandmothers in the evening and feature stock characters — the trickster jackal, the ogre *iZim*, the beautiful girl who disobeys her parents — and end with a formulaic *phela phela ngantsomi*. Riddles (*izaci*) and proverbs (*amaqhalo*) circulate in daily speech. The nineteenth-century mission at Lovedale produced the first Xhosa written literature: Tiyo Soga's translation of *Pilgrim's Progress*, and John Bennie's press. S.E.K. Mqhayi (1875–1945), the "father of Xhosa literature", composed *izibongo* in print as well as voice and wrote the additional verses adopted into *Nkosi Sikelel' iAfrika*. A.C. Jordan's 1940 novel *Ingqumbo Yeminyanya* ("The Wrath of the Ancestors") remains the canonical Xhosa novel; the poet Nontsizi Mgqwetho was the first major woman voice in the tradition.
+The dominant genre is praise poetry (izibongo) declaimed by the specialist imbongi in improvised style; folktales and riddles circulate in evening speech.
+
+- **Praise poetry** (*izibongo*) — Torrential improvised declamation by the imbongi built on chained metaphors, historical allusion, and rhythmic parallelism, addressed to chiefs, ancestors, and in modern usage, presidents.
+- **Folktales** (*iintsomi*) — Evening stories told by grandmothers featuring stock characters like the trickster jackal and the ogre iZim, ending with the formula 'phela phela ngantsomi.'
+- **Riddles** (*izaci*) — Posed in daily speech.
+- **Proverbs** (*amaqhalo*) — Wisdom sayings circulating in daily speech.
 
 ## Language & religion
 
-*IsiXhosa* is one of the eleven (now twelve, with the 2023 addition of South African Sign Language) official languages of South Africa, mutually intelligible in large part with Zulu, Swati and Ndebele within the Nguni cluster, and famous for its click consonants — the dental *c*, the alveolar *q* and the lateral *x* (as in the name Xhosa itself) — historically absorbed from Khoisan neighbours. The classical religion centres on a distant creator (*uThixo*, or *uQamata*) and the immediate authority of the ancestors (*iminyanya* / *izinyanya*), addressed through the diviner (*igqirha*, called out by the ancestors through the *ukuthwasa* illness-and-training), the herbalist (*ixhwele*), and, historically, the war-doctor (*itola*). Nineteenth-century Presbyterian, Methodist, Anglican and later Ethiopianist and African Independent (Zionist) missions converted a substantial majority, and today most Xhosa identify as Christian, most commonly Methodist or as members of AICs, while continuing to consult diviners and observe ancestor rites — a pragmatic dual system that is the norm rather than the exception. Islam is a small presence, largely through Cape connections.
+IsiXhosa, with its three click consonants, is an official South African language; religion centers on a distant creator and the immediate authority of ancestors, addressed through diviners.
+
+- **IsiXhosa language** (*isiXhosa*) — One of South Africa's official languages, mutually intelligible with Zulu and other Nguni languages, famous for three click consonants (c, q, x) borrowed from Khoisan neighbors.
+- **Creator** (*uThixo, uQamata*) — The distant high god of classical Xhosa religion.
+- **Ancestors** (*iminyanya, izinyanya*) — The immediate spiritual authority, addressed through diviners, herbalists, and ritual offerings.
+- **Diviner** (*igqirha, isangoma*) — Called out by the ancestors through illness and training (ukuthwasa), serving as an intermediary to the spirit world.
+- **Herbalist** (*ixhwele*) — Traditional healer using plant remedies and ancestral knowledge.
+
+## Glossary
+
+- *umbhaco* — ochre-dyed or white cotton cloth trimmed with black geometric braid
+- *ubuhlalu* — beadwork, applied as densely worked panels sewn onto cloth
+- *isikhakha* — ochre wrap skirt worn by married women
+- *iqhiya* — large square headscarf folded to mark marital and life status
+- *incebetha* — heavily beaded front apron worn by newly married woman
+- *ithumbu* — beaded neck collar, especially the bridal version (ithumbu lomtshato)
+- *iwisa* — hardwood knobkerrie club, weapon and speaker's baton
+- *umzi* — homestead or settlement cluster
+- *indlu* — round wattle-and-daub hut with conical thatched roof
+- *ubuhlanti* — central circular cattle byre, ritual center of the household
+- *inqawa* — long-stemmed clay or wood smoking pipe, married woman's signature object
+- *isikhetho* — small carved bone or horn snuff spoon worn from earlobe or neckband
+- *ulwaluko* — male initiation and circumcision seclusion
+- *intonjane* — girls' menarche seclusion and puberty rite
+- *makoti* — newly married bride living under her mother-in-law's roof
+- *amakrwala* — newly initiated men who have completed ulwaluko
+- *lobola* — bridewealth in cattle, exchanged at marriage
+- *ukubuyisa* — ritual bringing home of the dead spirit, about a year after death
+- *imbongi* — praise-poet who declaims izibongo in improvised form
+- *izibongo* — praise poetry with chained metaphors and historical allusion
+- *iintsomi* — folktales told in evening with stock characters and formulaic ending
+- *umqombothi* — sorghum-and-maize beer brewed in homestead imbiza pot
+- *amasi* — sour milk eaten with maize porridge
 
 ## Sources & further reading
 
-- Wikipedia: *Xhosa people*, *Xhosa language*, *Ulwaluko*, *Umbhaco*, *Umngqokolo*, *Nongqawuse*, *S.E.K. Mqhayi*, *Nkosi Sikelel' iAfrika*.
-- Dave Dargie, *Xhosa Music: Its Techniques and Instruments, with a Collection of Songs* (David Philip, 1988) — the foundational study of *uhadi*, *umrhubhe* and *umngqokolo*.
-- Jeffrey B. Peires, *The House of Phalo: A History of the Xhosa People in the Days of their Independence* (1981) and *The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing of 1856–7* (1989).
-- Sandra Klopper & others, *Zulu-Xhosa Beadwork* and related catalogues of the Standard Bank and Iziko South African National Gallery collections.
-- A.C. Jordan, *Tales from Southern Africa* (University of California Press, 1973) — canonical translation of *iintsomi*.
-- UNESCO Intangible Cultural Heritage: no Xhosa-specific inscription to date; South Africa's inscribed elements include *Isicathamiya* singing (Zulu) and the *Koma* / *Bogwera* male initiation of the Sotho-Tswana, cognate but distinct from *ulwaluko*.
-- Iziko Museums of South Africa and the East London Museum hold the reference collections of Xhosa beadwork, *umbhaco* dress, and Xhosa dolls.
+- Wikipedia: Xhosa people, Xhosa language, Ulwaluko, Umbhaco, Umngqokolo, Nongqawuse, S.E.K. Mqhayi, Nkosi Sikelel' iAfrika.
+- Dave Dargie, Xhosa Music: Its Techniques and Instruments, with a Collection of Songs (David Philip, 1988)
+- Jeffrey B. Peires, The House of Phalo: A History of the Xhosa People in the Days of their Independence (1981) and The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing of 1856–7 (1989).
+- Sandra Klopper & others, Zulu-Xhosa Beadwork and related catalogues of the Standard Bank and Iziko South African National Gallery collections.
+- A.C. Jordan, Tales from Southern Africa (University of California Press, 1973)
+- UNESCO Intangible Cultural Heritage: South Africa's inscribed elements include Isicathamiya singing (Zulu) and the Koma/Bogwera male initiation of the Sotho-Tswana.
+- Iziko Museums of South Africa and the East London Museum hold reference collections of Xhosa beadwork, umbhaco dress, and Xhosa dolls.
+

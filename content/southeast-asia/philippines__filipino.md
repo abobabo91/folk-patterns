@@ -5,85 +5,176 @@ region: "Southeast Asia"
 tags: [ethnography, southeast-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Filipinos, descendants of Malayo-Polynesian migrants with admixture from earlier Negrito populations, comprising over 185 ethnolinguistic groups |
+| Where | Philippine archipelago of more than 7,000 islands in Southeast Asia between the South China Sea and the Pacific |
+| How many | Above 110 million |
+| Language | Philippine branch of Austronesian languages; national language is Filipino (standardized Tagalog); English co-official |
+| Religion | Majority Roman Catholic; Sunni Islam in Sulu, Mindanao, and Palawan; indigenous animism among Cordillera and Lumad peoples |
+| Known for | Intricate hand-loomed textiles (piña, abaca, inabel weaving) · Epic song traditions (Hudhud, Darangen) · Diverse folk dance (tinikling, singkil) · Rice-based cuisine with soured-savory flavor axis · Town fiestas with saint celebrations |
+
 ## Overview
 
-Filipinos (*Mga Pilipino*) are the citizens and peoples of the Philippine archipelago, a chain of more than 7,000 islands between the South China Sea and the Pacific. They are predominantly Austronesian in origin, descended from Malayo-Polynesian migrants who arrived from Taiwan around 4,500–3,500 years ago and admixed with earlier Negrito populations such as the Aeta, Ati, Batak, and Mamanwa. The country comprises more than 185 ethnolinguistic groups — among them the Tagalog, Cebuano/Visayan, Ilocano, Kapampangan, Bikolano, Hiligaynon, Waray, Maranao, Maguindanao, Tausug, Ifugao, Kalinga, Bontoc, T'boli, and Subanen — speaking languages of the Philippine branch of the Austronesian family. With a population above 110 million, Filipino folk culture matters as a laboratory of layered influence: an Austronesian substrate overlaid by Indic, Chinese (Hokkien), Islamic, Iberian (Spanish–Mexican), and American strata visible in weaving, cuisine, ritual, and epic song.
+Filipinos inhabit an archipelago of 7,000+ islands with a population over 110 million, speaking languages from the Austronesian family across 185+ ethnolinguistic groups. Their culture reflects layered influences from Austronesian, Indic, Chinese, Islamic, Spanish-Mexican, and American sources, visible in weaving, cuisine, ritual, and epic song. The material and spiritual life balances Catholic observance, pre-Hispanic animist traditions, and Islamic practice across different regions.
 
 ## Material culture
 
+Filipino material culture centers on hand-loomed textiles, raised bamboo houses, and objects of daily life shaped by pre-Hispanic craft traditions and colonial layering.
+
 ### Textile & pattern traditions
 
-**Piña** — *piña* cloth is hand-loomed from the fibers of the red Bisayan pineapple leaf, principally in Aklan on Panay island. The gossamer, straw-colored ground is often embellished with *calado* drawnwork and *sombrado* shadow embroidery, giving it a stiffness and translucency unlike any other Southeast Asian bast textile.
+The archipelago produces distinctive hand-loomed textiles including gossamer piña, sturdy abaca, and cotton weaves with named ikat, brocade, and supplementary-weft patterns.
 
-**Jusi** — a lighter, less costly companion cloth historically woven from banana or abaca fiber and now most often from silk or a silk–pineapple blend, used for the same formalwear register as piña but with a smoother, less crisp hand.
-
-**Abaca (t'nalak, sinamay)** — abaca (Manila hemp) is the workhorse bast of the archipelago. Among the T'boli of South Cotabato it becomes *t'nalak*, a three-colored (black, red, ecru) ikat woven by "dream weavers" (*mabaʼ*) said to receive designs from the spirit *Fu Dalu*. In the Visayas the coarser plain-woven *sinamay* is used for veils and stiffened millinery.
-
-**Inabel** — the cotton weaving of the Ilocos region on northwestern Luzon, produced on the *pedal* floor loom. Characteristic weaves include *binakol* (an optically dizzying "whirlwind" tessellation believed to ward off evil spirits), *pinilian* (supplementary-weft brocade), and *kusikus*.
-
-**Barong Tagalog** — the sheer men's over-shirt in piña or jusi, ancestor of the formal *barong*, whose translucency and *calado* panels are the primary vehicle for embroidered pattern.
-
-**Yakan weaving** — the Yakan of Basilan produce densely warp-faced cotton and silk cloth in *bunga sama*, *sinaluan*, and *seputangan* patterns, worn as headcloths, sashes, and tube skirts.
-
-**Inaul** — the Maguindanao *inaul* is a lustrous silk or cotton–silk *malong* woven in tapestry and warp-striped bands of magenta, ochre, and green, the ceremonial wrap of Mindanao's Islamic sultanates.
-
-**Motif vocabulary.** *Binakol* (whirlwind spiral), *kusikus* (concentric eddy), *bulan-bulan* (moon rosette), *sinukit* (supplementary-weft floral), *pinilian* (heddle-picked brocade), *okir/okil* (Maranao curvilinear leaf-and-vine, cognate to Malay *ukiran*), *naga* (serpent-dragon), *sarimanok* (mythical crested bird holding a fish), *pako rabong* (growing fern), and the T'boli *bangala* (frog) and *g'mayaw* (butterfly).
+- **Piña cloth** (*piña*) — Gossamer, straw-colored hand-loomed cloth from red Bisayan pineapple leaf fibers, embellished with drawnwork and shadow embroidery, chiefly from Aklan on Panay island.
+- **Abaca weaving** (*t'nalak, sinamay*) — Abaca (Manila hemp) becomes t'nalak among the T'boli—a three-colored ikat woven by dream weavers receiving designs from the spirit Fu Dalu—and coarser sinamay in the Visayas.
+- **Ilocano cotton weaving** (*inabel*) — Cotton weaving from northwestern Luzon on pedal looms, including binakol whirlwind patterns believed to ward off evil and supplementary-weft brocade pinilian.
+- **Yakan weaving** (*bunga sama, sinaluan, seputangan*) — Densely warp-faced cotton and silk cloth from Basilan worn as headcloths, sashes, and tube skirts in named patterns.
+- **Maguindanao inaul** (*inaul*) — Lustrous silk or cotton-silk malong in tapestry and warp-striped bands of magenta, ochre, and green, the ceremonial wrap of Mindanao's Islamic sultanates.
 
 ### Clothing & dress
 
-Lowland Christian men wear the *barong Tagalog*, an untucked, hip-length piña or jusi shirt with a stiff standing collar and embroidered *pechera* (front placket), worn over an undershirt with dark trousers. Women's formal counterpart is the *Maria Clara* ensemble — camisa, *pañuelo* (stiff triangular fichu), floor-length *saya*, and *tapis* overskirt — and the *terno*, whose stiffened butterfly sleeves became the twentieth-century national gown. In the Cordillera, Ifugao men wear the woven *wanoh* (or *ba-ag*) loincloth and women the *tapis* wrap-skirt with beaded belts. Muslim Filipinos of the Sulu and Mindanao sultanates wear the *malong* — a tubular wrap doubling as skirt, shawl, and blanket — with the men's *sablay* jacket and *pis siyabit* headcloth, and women's *kombong* headveil. Everyday footwear was historically bare feet or wooden *bakya* clogs; the woven *salakot* palm-leaf and rattan sun hat, sometimes silver-mounted, is the archetypal Filipino head covering.
+Formal dress divides by region and religion: lowland Christians wear the translucent piña barong Tagalog for men and the Maria Clara or butterfly-sleeved terno for women.
+
+- **Barong Tagalog** (*barong*) — An untucked, hip-length piña or jusi shirt with stiff standing collar and embroidered front placket, worn over an undershirt with dark trousers.
+- **Maria Clara ensemble** (*Maria Clara*) — Women's formal dress of camisa, stiff triangular fichu pañuelo, floor-length saya, and tapis overskirt.
+- **Terno** — A stiffened butterfly-sleeved gown that became the twentieth-century national dress for women.
+- **Malong** — A tubular wrap worn by Muslim Filipinos of Sulu and Mindanao, serving as skirt, shawl, and blanket.
+- **Salakot** — A woven palm-leaf and rattan sun hat, sometimes silver-mounted, the archetypal Filipino head covering.
 
 ### Architecture
 
-The archetypal lowland house is the *bahay kubo* (*nipa hut*): a raised, single-room dwelling on hardwood posts, walled in split bamboo and *sawali* matting, thatched with *nipa* palm or *cogon* grass, with a steep hip roof and a *batalan* (open water-and-cooking platform) at the back. Its Spanish–colonial descendant is the *bahay na bato* ("stone house") of Vigan, Taal, and Intramuros — a two-storey urban house with a coral-stone or brick ground floor for storage and *entresuelo*, a timber upper storey with capiz-shell sliding windows (*ventanillas*), overhanging *volada* galleries, and a *media agua* eave. In the Cordillera the Ifugao *fale* and Bontoc *fayu* are pyramid-roofed granary-houses on four posts fitted with rat-guard *halipan* disks; among the Maranao the *torogan* is a raised royal longhouse whose beam-ends flare into carved *panolong* projections cut in *okir/naga* motifs. The Badjao and Sama-Bajau build stilt villages over shallow reefs and once lived aboard *lepa* houseboats.
+Dwellings range from the raised single-room bahay kubo with nipa thatch to colonial bahay na bato stone houses and regional granary forms.
+
+- **Bahay kubo** (*bahay kubo, nipa hut*) — A raised, single-room dwelling on hardwood posts, split-bamboo walled, thatched with nipa palm or cogon grass, with steep hip roof and open batalan cooking platform.
+- **Bahay na bato** — A two-storey colonial stone house with coral-stone ground floor, timber upper storey, capiz-shell sliding windows, overhanging volada galleries, and media agua eave.
+- **Ifugao fale granary** (*fale*) — A pyramid-roofed granary on four posts fitted with rat-guard halipan disks in the Cordillera.
+- **Maranao torogan** (*torogan*) — A raised royal longhouse whose beam-ends flare into carved panolong projections cut in okir and naga motifs.
+- **Badjao lepa** (*lepa*) — A houseboat once used by the Badjao and Sama-Bajau, who built and lived in stilt villages over shallow reefs.
 
 ### Ceramics, metalwork & everyday objects
 
-Pre-Hispanic earthenware traditions survive in the *palayok* cooking pot and the *banga* water jar; the Kalinga of Luzon still produce paddle-and-anvil pottery documented in classic ethnoarchaeology. Metalwork centers on the Moro *kris* — a wavy-bladed sword with an *okir*-carved *kakatua* (cockatoo) pommel — the straight *kampilan*, and the Cordillera headhunting *pinahig* axe. Brass casting by the Maranao produces the *gador* betel-container, the *lantaka* bronze swivel-cannon, and the *kulintang* gong-chime set. Everyday objects include the woven *bayong* market bag, the *tampipi* rattan travel case, and the *banig* pandan sleeping mat, whose finest examples come from Basey (Samar) and the Sama of Sulu. Capiz (windowpane oyster) shell is cut into panels for sliding *ventana* windows and into parol Christmas lanterns.
+Pre-Hispanic earthenware traditions survive in cooking pots, while Moro metalwork produces sword hilts, bronze cannon, and gong sets.
+
+- **Palayok and banga** (*palayok, banga*) — Traditional earthenware cooking pot and water jar, paddle-and-anvil pottery still made by the Kalinga.
+- **Moro kris** (*kris*) — A wavy-bladed sword with an okir-carved cockatua (cockatoo) pommel, central to Moro martial tradition.
+- **Maranao brass vessels** (*gador, lantaka, kulintang*) — Brass-cast betel containers, bronze swivel-cannon, and gong-chime sets produced by Maranao metalworkers.
+- **Banig mat** (*banig*) — A woven pandan sleeping mat, finest examples from Basey (Samar) and the Sama of Sulu.
+- **Parol lantern** (*parol*) — A Christmas lantern cut from capiz (windowpane oyster) shell, part of lowland Christian holiday display.
 
 ### Jewelry & body adornment
 
-Gold ornaments of the Butuan and Surigao hoards — *kamagi* braided-link chains, *upav* sashes, and repoussé ear discs — attest to a pre-Hispanic goldsmithing tradition tied to Southeast Asian *mandala* polities. Maranao and Tausug women wear filigreed gold *mamandiyang* earrings and betel-nut *lutuan* boxes; Cordillera peoples wear mother-of-pearl *lingling-o* omega-shaped pendants (a form found across the Austronesian world) and boar-tusk armlets. The Kalinga and Bontoc practice hand-tapped *batok* tattooing, revived in the twenty-first century through the work of centenarian Whang-od Oggay of Buscalan; motifs include the centipede *gayaman*, python scales, and the headhunter's chest *bikking*. Islamic Filipinos of Sulu wear henna (*inai*) at weddings.
+Pre-Hispanic gold ornaments, Islamic filigreed earrings, Cordillera shell pendants, and hand-tapped tattoos reflect wealth, status, and ethnic identity.
+
+- **Butuan gold hoards** (*kamagi, upav*) — Pre-Hispanic braided-link gold chains and repoussé ear discs attesting to a goldsmithing tradition tied to Southeast Asian mandala polities.
+- **Maranao mamandiyang earrings** (*mamandiyang*) — Filigreed gold earrings worn by Maranao and Tausug women, often paired with betel-nut lutuan boxes.
+- **Lingling-o pendant** (*lingling-o*) — A mother-of-pearl omega-shaped pendant worn by Cordillera peoples, a form found across the Austronesian world.
+- **Batok tattoo** (*batok*) — Hand-tapped tattoos revived in the twenty-first century, with motifs including centipede gayaman, python scales, and headhunter's chest bikking.
+- **Henna body art** (*inai*) — Henna applied at weddings by Islamic Filipinos of Sulu.
 
 ## Music & performance
 
-Two great instrumental complexes divide the archipelago. In the Islamic south, the *kulintang* ensemble of the Maguindanao, Maranao, and Tausug pairs a row of horizontally-laid bossed gongs with hanging gongs (*agung*, *gandingan*), a *dabakan* goblet drum, and the *babendil* time-keeper — a gong-chime cousin of Indonesian and Malay ensembles but with its own repertoire of *binalig*, *sinulog*, and *tidtu* modes. In the Cordillera north the sonic signature is bronze flat-gong *gangsa* ensembles played in *toppaya* (hand-struck) and *palook* (stick-struck) style, joined by nose flutes (*tongali*), bamboo buzzers (*balingbing*), Jew's harps (*kubing*), and the boat-lute *kudyapi* of the T'boli, Manobo, and Palawan Hanunoo. Lowland Christian music absorbed Iberian forms: the *harana* moonlight serenade, the *kundiman* art-song in triple meter modulating from minor to parallel major, and the *rondalla* plucked-string band of *bandurria*, *laúd*, *octavina*, and *bajo de uñas*. Two epic-singing traditions carry UNESCO recognition: the Ifugao **Hudhud** chants, sung during rice harvest and wakes, and the Maranao **Darangen**, a cycle of seventeen episodes recounting the exploits of Prince Bantugan of Bumbaran.
+Two instrumental complexes divide the archipelago: kulintang gong ensembles in the Islamic south and gangsa bronze flat-gong ensembles in the Cordillera north, with lowland Christian music incorporating Iberian forms.
+
+- **Kulintang ensemble** (*kulintang, agung, gandingan, dabakan*) — A gong ensemble pairing horizontally-laid bossed kulintang gongs with hanging agung and gandingan gongs, a goblet dabakan drum, and babendil time-keeper in the Islamic south.
+- **Gangsa ensemble** (*gangsa*) — Bronze flat-gong ensembles of the Cordillera played in hand-struck toppaya and stick-struck palook style, joined by nose flutes and bamboo instruments.
+- **Harana serenade** (*harana*) — A moonlight serenade form absorbed from Iberian influence in lowland Christian music.
+- **Kundiman art-song** (*kundiman*) — A triple-meter art-song modulating from minor to parallel major, part of lowland Christian music tradition.
+- **Rondalla plucked-string band** (*rondalla, bandurria, laúd, octavina*) — An Iberian-derived ensemble of plucked strings including bandurria, laúd, octavina, and bajo de uñas.
 
 ## Dance & theatre
 
-Lowland folk dance is dominated by the *tinikling* (dancers stepping between clashing bamboo poles imitating the *tikling* rail bird), the candle-balancing *pandanggo sa ilaw*, the wine-glass *binasuan*, the courtship *cariñosa* and *itik-itik*, and the Muslim-influenced *singkil* — a Maranao princess dance with clashing bamboo, fan, and parasol, staged from the Darangen episode of the earthquake at Bumbaran. The Cordillera preserves ritual gong-and-line dances such as the Ifugao *bangibang* funeral dance and Kalinga *salidsid* courtship. Spanish-derived theatrical forms include the *moro-moro* (or *komedya*), a metrical Christian-versus-Moro verse play performed at town fiestas, the Passion-week *sinakulo*, and the singing-debate *duplo* and *balagtasan*. Puppetry is marginal but the *carrillo* shadow theatre was once performed in Manila.
+Lowland folk dances feature clashing bamboo poles and courtship movement, while the Cordillera preserves ritual gong-and-line dances and Spanish-derived verse plays dominate town fiestas.
+
+- **Tinikling** — Dancers stepping between clashing bamboo poles imitating the tikling rail bird.
+- **Singkil** — A Maranao princess dance with clashing bamboo, fan, and parasol, staged from the Darangen episode of the earthquake at Bumbaran.
+- **Pandanggo sa ilaw** — A candle-balancing lowland folk dance.
+- **Moro-moro** (*moro-moro, komedya*) — A metrical Christian-versus-Moro verse play performed at town fiestas.
+- **Salidsid courtship dance** (*salidsid*) — A Kalinga ritual gong-and-line courtship dance of the Cordillera.
 
 ## Festivals & rituals
 
-The Christian folk calendar is anchored by town *fiestas* honoring each locality's patron saint, notably the January triad of the **Ati-Atihan** (Kalibo), **Sinulog** (Cebu), and **Dinagyang** (Iloilo), all commemorating the Santo Niño with soot-blackened dancers echoing the pre-Hispanic Ati. **Pahiyas** in Lucban (15 May) decorates house façades with *kiping* rice-wafer chandeliers for San Isidro Labrador; **MassKara** in Bacolod (October) parades smiling masks; **Panagbenga** in Baguio (February) is a flower festival. Holy Week brings *Pabasa* chanted Passion vigils, *Salubong* dawn re-enactments of the Risen Christ meeting the Virgin, and, in Pampanga, penitent self-flagellation and voluntary crucifixions at San Pedro Cutud. Christmas begins with nine dawn *Simbang Gabi* Masses and *parol* star-lantern displays. Life-cycle rites include Catholic baptism with *ninong/ninang* godparents, the *binyag*, the girl's *debut* at eighteen, the *pamamanhikan* betrothal visit, and the *lamay* nine-day wake. Among the Subanen of the Zambo­anga peninsula the UNESCO-listed **Buklog** is a multi-day thanksgiving ceremony performed on a springy elevated dance floor set over a resonating log. The **tugging rituals and games** shared with Cambodia, Korea, and Vietnam are represented by the *punnuk* tug-of-war closing the Ifugao rice cycle at the Hapao River.
+The Christian calendar centers on town fiestas honoring patron saints, notably the January Ati-Atihan, Sinulog, and Dinagyang celebrating the Santo Niño.
+
+- **Ati-Atihan** — A January fiesta in Kalibo commemorating the Santo Niño with soot-blackened dancers echoing pre-Hispanic Ati.
+- **Sinulog** — A January fiesta in Cebu celebrating the Santo Niño with soot-blackened dancers.
+- **Pahiyas** — A May 15 fiesta in Lucban decorating house façades with kiping rice-wafer chandeliers for San Isidro Labrador.
+- **Salubong dawn re-enactment** (*Salubong*) — A Holy Week dawn re-enactment of the Risen Christ meeting the Virgin.
+- **Buklog thanksgiving ceremony** (*Buklog*) — A UNESCO-listed multi-day thanksgiving ritual of the Subanen performed on a springy elevated dance floor set over a resonating log.
 
 ## Foodways
 
-The Filipino table is built on rice (*kanin*), a soured-savoury flavor axis, and a Spanish–Chinese–Malay pantry. The unofficial national dish is *adobo* — meat braised in vinegar, soy, garlic, bay, and peppercorn. *Sinigang* is a tamarind- or *kamias*-soured broth of pork, shrimp, or fish; *kare-kare* is an oxtail-and-tripe stew in annatto-tinted peanut sauce eaten with *bagoong alamang* (fermented shrimp paste). *Lechon* — a whole spit-roasted pig, most celebrated in its Cebuano form — is the centerpiece of fiestas. Chinese-derived noodles (*pancit canton*, *pancit palabok*, *mami*) and Spanish-derived stews (*menudo*, *afritada*, *caldereta*, *paella*) sit next to indigenous *kinilaw* (raw fish cured in vinegar and *dayap*/calamansi). Regional signatures include Bicol's chili-and-coconut *laing* and *Bicol express*, Ilocano *pinakbet* and *bagnet*, Pampanga's *sisig*, and the halal *rendang*-adjacent *tiyula itum* of the Tausug. Breakfast is the *silog* platter of garlic rice, egg, and cured meat (*tapa*, *tocino*, *longganisa*). Sweets rely on rice and coconut: *bibingka*, *puto bumbong*, *suman*, *biko*, and the shaved-ice *halo-halo* layered with *ube* (purple yam), *leche flan*, red beans, and *pinipig*. Coffee (*kapeng barako* from Batangas), *tsokolate* whisked with a *batidor*, and *tuba* (coconut toddy) and *lambanog* palm liquor round out the drink cabinet.
+The Filipino table is built on rice, a soured-savory flavor axis, and a Spanish-Chinese-Malay pantry anchored by adobo as the unofficial national dish.
+
+- **Adobo** — Meat braised in vinegar, soy, garlic, bay, and peppercorn, the unofficial national dish.
+- **Sinigang** — A tamarind- or kamias-soured broth of pork, shrimp, or fish.
+- **Kare-kare** — An oxtail-and-tripe stew in annatto-tinted peanut sauce eaten with fermented shrimp paste bagoong alamang.
+- **Lechon** — A whole spit-roasted pig, most celebrated in its Cebuano form as the centerpiece of fiestas.
+- **Kinilaw** — Raw fish cured in vinegar and dayap (calamansi), an indigenous preparation alongside Chinese noodles and Spanish stews.
 
 ## Oral tradition & literature
 
-Filipino epic song is one of the richest in Southeast Asia. Alongside the Ifugao **Hudhud** and Maranao **Darangen**, the corpus includes the *Biag ni Lam-ang* (Ilocano), *Hinilawod* (Sulodnon of Panay, a chant that runs longer than the Iliad), *Ibalon* (Bikolano), *Labaw Donggon*, *Agyu* / *Ulaging* (Manobo), *Kudaman* (Palawan), and *Bantugan* (a hero of the Darangen cycle). Shorter forms include the *bugtong* (riddle), the *salawikain* and *sawikain* (proverb), the *tanaga* (a monorhymed seven-syllable quatrain in Tagalog), the sung *dallot* of the Ilocos, and Cordillera *ullalim* narrative songs. The colonial period produced the *pasyon* — a versified Passion of Christ sung during Holy Week — and the metrical romances *awit* and *korido*, of which Francisco Balagtas's *Florante at Laura* (1838) is the canonical example. José Rizal's *Noli Me Tangere* (1887) and *El Filibusterismo* (1891) transposed folk voices into the ilustrado novel. Contemporary safeguarding is led by the National Commission for Culture and the Arts and the Manlilikha ng Bayan (National Living Treasures) program.
+Filipino epic song is one of Southeast Asia's richest, with the Ifugao Hudhud and Maranao Darangen joined by longer-form regional epics and shorter riddle and proverb traditions.
+
+- **Hudhud chants** (*Hudhud*) — Ifugao epic chants sung during rice harvest and wakes, recognized by UNESCO.
+- **Darangen epic** (*Darangen*) — A seventeen-episode Maranao cycle recounting the exploits of Prince Bantugan of Bumbaran, recognized by UNESCO.
+- **Hinilawod** — A Sulodnon epic chant from Panay that runs longer than the Iliad.
+- **Pasyon** — A colonial-period versified Passion of Christ sung during Holy Week.
+- **Florante at Laura** (*awit, korido*) — Francisco Balagtas's canonical metrical romance of 1838, part of a tradition of awit and korido verse narratives.
 
 ## Language & religion
 
-Philippine languages belong to the Malayo-Polynesian branch of Austronesian; the national language *Filipino* is a standardized register of Tagalog, and English is co-official. Major regional languages include Cebuano, Ilocano, Hiligaynon, Waray, Kapampangan, Pangasinan, Bikol, Maranao, Maguindanao, and Tausug. Pre-Hispanic writing used the *baybayin* abugida (with cognate scripts *kulitan*, *Hanunoo*, *Buhid*, and *Tagbanwa*), largely displaced by the Latin alphabet under Spain. Roman Catholicism, brought after 1565, is the majority religion (with the indigenous Iglesia Filipina Independiente and the Iglesia ni Cristo as significant offshoots); Sunni Islam of the Shafi'i school predominates in the Sulu archipelago, mainland Mindanao, and parts of Palawan. Indigenous animist traditions — *anito* ancestor veneration, *diwata* nature spirits, and the shamanic *babaylan* / *catalonan* / *mumbaki* — persist openly among the Cordillera peoples and Lumad of Mindanao, and syncretically within lowland folk Catholicism through practices like *panata* vows, *anting-anting* amulets, and the healer-*albularyo*.
+Philippine languages belong to the Malayo-Polynesian branch of Austronesian; Filipino is the national language and English is co-official. Religion divides between Roman Catholicism in lowlands and Sunni Islam in Sulu and Mindanao, with indigenous animism persisting openly among Cordillera peoples.
+
+- **Filipino national language** (*Filipino*) — A standardized register of Tagalog, the national language, with English as co-official.
+- **Baybayin script** (*baybayin*) — Pre-Hispanic abugida writing system with cognate scripts kulitan, Hanunoo, Buhid, and Tagbanwa, largely displaced by the Latin alphabet under Spain.
+- **Anito veneration** (*anito*) — Ancestor veneration tradition persisting among Cordillera and Lumad peoples and syncretically in lowland folk Catholicism.
+- **Diwata spirits** (*diwata*) — Nature spirits in indigenous animist belief persisting openly among Cordillera and Lumad, and syncretically in lowland practice.
+- **Babaylan shaman** (*babaylan, catalonan, mumbaki*) — A shamanic healer figure in indigenous practice, surviving openly in Cordillera and Lumad communities and syncretically in lowland albularyo healers.
+
+## Glossary
+
+- *piña* — Hand-loomed gossamer cloth from pineapple leaf fibers
+- *abaca* — Manila hemp, a bast fiber used for weaving
+- *t'nalak* — Three-colored ikat woven by T'boli dream weavers
+- *inabel* — Ilocano cotton weaving on pedal looms
+- *barong* — Translucent formal men's over-shirt
+- *malong* — Tubular wrap serving as skirt, shawl, and blanket
+- *bahay kubo* — Raised single-room nipa-thatched dwelling
+- *bahay na bato* — Two-storey colonial stone house
+- *torogan* — Maranao raised royal longhouse
+- *kris* — Wavy-bladed Moro sword with decorated pommel
+- *kulintang* — Ensemble of horizontally-laid bossed gongs
+- *gangsa* — Bronze flat-gong of the Cordillera
+- *tinikling* — Dance stepping between clashing bamboo poles
+- *singkil* — Maranao princess dance with clashing bamboo
+- *adobo* — Meat braised in vinegar, soy, and spices
+- *sinigang* — Tamarind-soured broth
+- *kinilaw* — Raw fish cured in vinegar and calamansi
+- *Hudhud* — Ifugao epic chants sung at harvest and wakes
+- *Darangen* — Maranao epic cycle of Prince Bantugan
+- *baybayin* — Pre-Hispanic abugida writing system
+- *anito* — Ancestor spirit in indigenous belief
+- *diwata* — Nature spirit in indigenous belief
+- *babaylan* — Shamanic healer in indigenous tradition
 
 ## Sources & further reading
 
-- William Henry Scott, *Barangay: Sixteenth-Century Philippine Culture and Society*, Ateneo de Manila University Press, 1994.
-- F. Landa Jocano, *Filipino Prehistory: Rediscovering Precolonial Heritage*, Punlad Research House, 1998.
-- Marian Pastor Roces, *Sinaunang Habi: Philippine Ancestral Weave*, Nikki Coseteng, 1991.
-- Norma A. Respicio, *Journey of a Thousand Shuttles: The Philippine Weave*, National Commission for Culture and the Arts, 2014.
-- Robert B. Fox, *The Tabon Caves: Archaeological Explorations and Excavations on Palawan Island*, National Museum of the Philippines, 1970.
-- Reynaldo C. Ileto, *Pasyon and Revolution: Popular Movements in the Philippines, 1840–1910*, Ateneo de Manila University Press, 1979.
+- William Henry Scott, Barangay: Sixteenth-Century Philippine Culture and Society, Ateneo de Manila University Press, 1994.
+- F. Landa Jocano, Filipino Prehistory: Rediscovering Precolonial Heritage, Punlad Research House, 1998.
+- Marian Pastor Roces, Sinaunang Habi: Philippine Ancestral Weave, Nikki Coseteng, 1991.
+- Norma A. Respicio, Journey of a Thousand Shuttles: The Philippine Weave, National Commission for Culture and the Arts, 2014.
+- Robert B. Fox, The Tabon Caves: Archaeological Explorations and Excavations on Palawan Island, National Museum of the Philippines, 1970.
+- Reynaldo C. Ileto, Pasyon and Revolution: Popular Movements in the Philippines, 1840–1910, Ateneo de Manila University Press, 1979.
 - José Maceda, ethnomusicological field recordings and writings on Philippine gong and bamboo traditions.
 - Wikipedia: https://en.wikipedia.org/wiki/Filipinos
 - UNESCO Intangible Cultural Heritage — Philippines: https://ich.unesco.org/en/state/philippines-PH
-  - Hudhud chants of the Ifugao (RL/00015): https://ich.unesco.org/en/RL/00015
-  - Darangen epic of the Maranao (RL/00159): https://ich.unesco.org/en/RL/00159
-  - Tugging rituals and games (RL/01080): https://ich.unesco.org/en/RL/01080
-  - Buklog, thanksgiving ritual system of the Subanen (USL/01495): https://ich.unesco.org/en/USL/01495
+- Hudhud chants of the Ifugao (RL/00015): https://ich.unesco.org/en/RL/00015
+- Darangen epic of the Maranao (RL/00159): https://ich.unesco.org/en/RL/00159
+- Tugging rituals and games (RL/01080): https://ich.unesco.org/en/RL/01080
+- Buklog, thanksgiving ritual system of the Subanen (USL/01495): https://ich.unesco.org/en/USL/01495
 - Smithsonian Folkways: https://folkways.si.edu/search?query=Philippines
 - Metropolitan Museum of Art, Philippine collections: https://www.metmuseum.org/art/collection/search#!?q=Philippines
 - Victoria and Albert Museum, Philippine textiles: https://collections.vam.ac.uk/search/?q=Philippines
+

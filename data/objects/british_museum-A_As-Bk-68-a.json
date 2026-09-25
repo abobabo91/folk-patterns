@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As-Bk-68-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As-Bk-68-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As-Bk-68-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As.Bk.68.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a beaded panel (pillow cover fragment) with symmetrical geometric/anthropomorphic motifs in glass beads, a craft strongly associated with Dayak beadwork traditions of Borneo. This matches an object type made and used by Dayak people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "pillow",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "pillow",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Pillow (part of) made of beads (glass), thread (fibre).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/unclassified/dayak/images/bm_A_As-Bk-68-a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e026f3b2a0e903b16d2553078a4849194106aec9210cdd40d27cc653a2d5f6bd",
+      "bytes": 111719,
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\unclassified\\dayak\\images\\bm_A_As-Bk-68-a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:44:36.150938+00:00"
+}

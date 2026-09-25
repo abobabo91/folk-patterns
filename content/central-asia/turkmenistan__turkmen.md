@@ -5,71 +5,150 @@ region: "Central Asia"
 tags: [ethnography, central-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Turkmen, a Turkic people of the Eastern Oghuz branch |
+| Where | Turkmenistan, Iran, Afghanistan, Uzbekistan, Kazakhstan, and North Caucasus; homeland is the Karakum desert |
+| How many | Six to eight million worldwide |
+| Language | Turkmen, Eastern Oghuz Turkic branch, closely related to Azerbaijani and Turkish |
+| Religion | Sunni Muslim, Hanafi school, with syncretic folk practices |
+| Known for | Hand-knotted carpet weaving with tribal gul medallion patterns · Semi-nomadic pastoral culture and yurt dwelling · Silver jewelry and intricate needlework · Epic bagşy singer-reciter tradition · Akhal-Teke horse breed |
+
 ## Overview
 
-The Turkmen are a Turkic people of the Eastern Oghuz branch, numbering roughly six to eight million worldwide, with the largest populations in Turkmenistan, the Golestan and northern Khorasan provinces of Iran, and the Jawzjan and Faryab provinces of northwestern Afghanistan. Smaller communities live in Uzbekistan, Kazakhstan, and Stavropol Krai in the North Caucasus. Their homeland is dominated by the Karakum desert, bounded by the Amu Darya to the east, the Kopet Dag mountains along the Iranian border, and the Caspian shoreline to the west; life historically clustered in the oases of Merv, Khiva-adjacent lowlands, and the piedmont strip below the Kopet Dag. In folk-culture terms the Turkmen matter above all for their carpet weaving — the tribal *gul* system is one of the most tightly codified motif traditions in the world — and for a semi-nomadic pastoral culture that survived into the 20th century largely intact.
+The Turkmen are a Turkic people centered in the Karakum desert region, known worldwide for their hand-knotted carpets with coded tribal medallion patterns. Their culture blends semi-nomadic pastoralism with settled oasis life, expressed through elaborate textiles, silver metalwork, and a rich tradition of sung epic narrative. Islam arrived between the 12th and 14th centuries through Sufi orders, but folk practice remains deeply syncretic, preserving pre-Islamic elements alongside Muslim observance.
 
 ## Material culture
 
+Turkmen material culture is strongest in fiber arts—carpet, silk, and felt—and precious metalwork, weaker in ceramics but rich in carved wood and leather.
+
 ### Textile & pattern traditions
 
-**Turkmen carpet** — Hand-knotted pile carpets in a deep madder-red ground, made on horizontal ground looms by women. Distinguished from Persian and Caucasian carpets by the asymmetric Persian knot on a fine wool foundation, the near-monochrome red palette, and the strict repetition of tribal medallions rather than curvilinear floral fields.
+Turkmen carpet weaving uses a strict tribal medallion system, with each tribe's gul pattern tightly codified across red-ground pile carpets.
 
-**Tekke *gul*** — The medallion of the Tekke tribe: a quartered octagon subdivided into four color fields, historically the "royal" gul now printed on the Turkmen state flag. Tekke work from the Akhal and Merv oases is the most widely reproduced Turkmen weaving.
-
-**Yomud *gul*** — Diamond- or dyrnak-form medallions from the Yomut of the Caspian littoral and Balkan region; often used together with the hooked *dyrnak gul* and the *kepse gul*, and paired with wide skirt panels called *elem*.
-
-**Salor *gul*** — The medallion of the Salor, one of the oldest Oghuz tribes; distinguished by an internal trefoil arrangement and by exceptionally fine knot counts on early 19th-century examples, among the most prized on the antique carpet market.
-
-**Ersary chuval and *gul*s** — Larger-scale medallions from the Ersary of the middle Amu Darya, including the *gülli gül* and *temirjin gül*, worked on coarser wool and often incorporating aubergine and ivory alongside red.
-
-***Keteni*** — Warp-faced silk cloth woven in narrow loom widths, typically deep red with fine yellow, green, and black warp stripes, used for women's dresses and for the *kürte* mantle. Its production draws on the sericulture tradition inscribed by UNESCO for Turkmenistan.
-
-***Kürte*** — A ceremonial mantle-coat worn draped over the head by brides and young married women, in *keteni* silk densely embroidered at the cuffs, hem, and false sleeves with silk chain stitch — the same needlework tradition recognized by UNESCO as *Turkmen-style needlework art*.
-
-**Felt *keçe*** — Pressed sheep-wool felts used as yurt floor coverings and saddle pads, patterned by rolling contrasting fleece into the felt before fulling, producing bold curling-horn and ram's-horn designs.
-
-**Motif vocabulary.** *gül* (medallion), *dyrnak* (fingernail hook), *kepse*, *gülli gül*, *temirjin*, *ayna* (mirror), *goçak* (ram's horn), *tumar* (triangular amulet), *elem* (skirt panel), *çemçe* (spoon/cross).
+- **Turkmen carpet** — Hand-knotted pile carpets on fine wool, distinguished by deep madder-red ground, asymmetric Persian knots, and tribal medallions rather than floral fields.
+- **Tekke gul** — A quartered octagon medallion of the Tekke tribe, historically the royal gul now on the Turkmen state flag.
+- **Yomud gul** — Diamond-shaped medallions from the Yomut of the Caspian coast, often paired with wide skirt panels called elem.
+- **Salor gul** — The medallion of the Salor tribe, distinguished by an internal trefoil and exceptionally fine knots in early 19th-century examples, highly prized on the antique market.
+- **Keteni silk cloth** (*keteni*) — Warp-faced silk in deep red with fine yellow, green, and black stripes, used for women's dresses and ceremonial mantles.
 
 ### Clothing & dress
 
-Women's daily dress is a long straight-cut dress (*köynek*) of red *keteni* silk with a narrow slit collar closed by a silver clasp, worn over narrow trousers (*balak*) whose embroidered ankle bands show below the hem. Over the dress a long sleeveless coat (*çabyt*) or false-sleeved *çyrpy* mantle is worn; the color of the *çyrpy* is age-coded — dark green or black for young women, yellow for middle-aged, white for elders. The bridal *kürte* is the most elaborate garment, densely worked in silk chain stitch on the false sleeves and hem. Married women bind the hair under a tall cylindrical headdress wrapped in a white cloth (*çykyrma*), while girls wear an embroidered skullcap (*tahýa*), sometimes with a silver *gupba* dome at the crown. Men wear a white or striped shirt, wide trousers, a *don* robe belted at the waist, and above all the *telpek* — a massive shaggy sheepskin hat of white, black, or brown Karakul wool, worn in all seasons.
+Women wear long red silk dresses over narrow trousers, with age-coded outer coats and bound hair under cylindrical headdresses; men wear white shirts, wide trousers, and the massive telpek sheepskin hat.
+
+- **Kürte** — A bridal ceremonial mantle draped over the head, densely embroidered in silk chain stitch at the cuffs and hem.
+- **Köynek** — A long straight-cut red keteni silk dress worn with a narrow slit collar closed by a silver clasp.
+- **Balak** — Narrow trousers worn under the dress, with embroidered ankle bands that show below the hem.
+- **Telpek** — A massive shaggy sheepskin hat of Karakul wool worn by men in white, black, or brown in all seasons.
+- **Çykyrma headdress** (*çykyrma*) — A tall cylindrical headdress wrapped in white cloth worn by married women to bind the hair.
 
 ### Architecture
 
-The characteristic Turkmen dwelling is the *gara öý* ("black house"), the Central Asian trellis-tent known more generally as a yurt: a collapsible cylindrical frame of scissor-lattice *terim* walls, bent roof poles (*uk*), and a domed crown ring (*tüýnük*), covered in felts and lashed with narrow woven bands. In contrast to Kazakh and Kyrgyz yurts the Turkmen crown is more shallowly domed, and the felt exterior is often plain rather than appliquéd, with the visual work concentrated inside on knotted pile bands and door rugs — the *ensi* (door rug), *kapunuk* (door frame surround), and *asmalyk* (five-sided camel flank hanging used for wedding processions). In the oases along the Kopet Dag and Amu Darya, permanent houses were built of sun-dried mud brick (*pakhsa*) with flat earthen roofs on wooden beams, arranged around a walled courtyard. The historical urban tradition survives above all at Merv and Konye-Urgench, where medieval mausolea and the Seljuk-era brickwork of the Sultan Sanjar mausoleum are landmarks of Central Asian architecture.
+The traditional dwelling is the gara öý, a trellis-tent yurt with shallow dome, while oasis settlements used mud-brick houses arranged around walled courtyards.
+
+- **Yurt** (*gara öý*) — A collapsible cylindrical dwelling of scissor-lattice walls, bent roof poles, and domed crown ring, covered in felts and woven bands.
+- **Door rug** (*ensi*) — A knotted pile rug hung inside the yurt entrance, showing the finest weaving and design inside the dwelling.
+- **Asmalyk** — A five-sided camel flank hanging used to decorate yurts during wedding processions.
+- **Pakhsa mud brick** (*pakhsa*) — Sun-dried mud brick used to build permanent oasis houses with flat earthen roofs around walled courtyards.
 
 ### Ceramics, metalwork & everyday objects
 
-Turkmen material culture is weaker in glazed ceramics than that of neighboring settled Uzbeks — there is nothing quite equivalent to Rishtan or Gijduvan pottery — and stronger in fibre, wood, and silver. Carved wooden cradles (*sallançak*), yurt doors, and long-handled wooden spoons carry chip-carved geometric patterns echoing carpet *gül*s. Copper and tinned-copper vessels include the ewer-and-basin (*kündük*) used for ritual handwashing, and large cauldrons (*gazan*) set into clay hearths for pilaf. The tandoor (*tamdyr*), a bell-shaped clay oven fired from within, is the standard bread oven of every household. Leatherwork produces the *saba*, a smoked goatskin bag used to churn fermented camel milk into *çal*.
+Turkmen material culture emphasizes fiber, wood, and silver over glazed ceramics, with carved wooden household goods and copper vessels reflecting carpet patterns.
+
+- **Sallançak** — A carved wooden cradle with chip-carved geometric patterns echoing carpet guls.
+- **Kündük** — An ewer-and-basin set in copper or tinned copper used for ritual handwashing.
+- **Gazan cauldron** (*gazan*) — A large copper or tinned-copper cauldron set into clay hearths for cooking pilaf and other large meals.
+- **Tamdyr oven** (*tamdyr*) — A bell-shaped clay oven fired from within, the standard bread oven for every household.
+- **Saba** — A smoked goatskin bag used to churn fermented camel milk into çal.
 
 ### Jewelry & body adornment
 
-Turkmen silver jewelry is one of the great Central Asian metalwork traditions, worked by hereditary smiths (*zergär*) in high-silver alloy, fire-gilded in panels and set with carnelian (*hakyk*). Characteristic forms include the ***gulýaka***, a large hinged or disc-shaped chest clasp closing the dress collar; the ***asyk***, a stylized heart- or spade-shaped pendant hung down the back from the headdress; the ***tumar***, a triangular or tubular amulet case containing a Qur'anic text; the ***bukav*** hinged bracelet; the ***çapraz*** row of ornaments sewn to the chest of a bridal dress; and the ***gupba***, a domed silver finial for a girl's *tahýa* cap. A bride at her wedding may carry many kilograms of silver; the ornaments function simultaneously as dowry, portable wealth, and apotropaic protection, with carnelian and triangular forms specifically warding off the evil eye.
+Turkmen silver jewelry is one of Central Asia's great metalwork traditions, worked in high-silver alloy and fire-gilded, set with carnelian and shaped into elaborate amulets and clasps.
+
+- **Gulýaka** — A large hinged or disc-shaped silver chest clasp closing the dress collar, often fire-gilded and set with carnelian.
+- **Asyk** — A stylized heart- or spade-shaped silver pendant hung down the back from the headdress.
+- **Tumar** — A triangular or tubular amulet case containing a Qur'anic text, worn for protection against the evil eye.
+- **Bukav** — A hinged silver bracelet worn by women as both ornament and portable wealth.
+- **Gupba** — A domed silver finial worn at the crown of a girl's tahýa cap.
 
 ## Music & performance
 
-The central figure of Turkmen musical life is the *bagşy* (bakhshi), a professional singer-reciter who accompanies himself on the two-stringed long-necked lute ***dutar***. The craftsmanship of the dutar and its performance tradition are jointly inscribed on the UNESCO Representative List as **Dutar making craftsmanship and traditional music performing art combined with singing**. A *bagşy* is often joined by a *gyjakçy* playing the ***gyjak***, a spike fiddle held vertically on the knee. Other instruments include the ***tüýdük*** (an end-blown reed or wooden flute, made in both short *dilli tüýdük* and long *gargy tüýdük* forms) and the ***gopuz***, a small metal jaw harp played mainly by women. Repertoire is organized around the *dessan* — long sung-and-spoken narrative cycles such as ***Görogly***, ***Şasenem-Garyp***, ***Zöhre-Tahyr***, and ***Leýli-Mejnun*** — and around lyric song settings of the 18th-century poet ***Magtymguly Pyragy***. Regional schools are named for their oasis: the Ahal-Teke, Yomut-Gökleň, Salyr-Saryk, and Çowdur styles differ in tuning, ornament, and vocal timbre, the Yomut style being noted for its strained, high-tessitura throat singing. Performance contexts are the wedding (*toý*), the circumcision feast, and the *maslahat* — extended evenings of *dessan* recitation in a private home. The Central Asian classical *muqam* tradition is present in a distinctively Turkmen form, and 20th-century composers such as Nury Halmammedov drew on *bagşy* melodies for orchestral works.
+The bagşy, a professional singer-reciter accompanying himself on the long-necked dutar lute, is the central figure of Turkmen musical life, performing long epic narrative cycles called dessans.
+
+- **Dutar** — A two-stringed long-necked lute played by the bagşy, its making and performance tradition inscribed by UNESCO.
+- **Gyjak** — A spike fiddle held vertically on the knee, played by the gyjakçy who accompanies the bagşy.
+- **Tüýdük** — An end-blown reed or wooden flute made in short (dilli tüýdük) and long (gargy tüýdük) forms.
+- **Gopuz** — A small metal jaw harp played mainly by women.
+- **Dessan** — Long sung-and-spoken narrative cycles performed over one or several evenings by a bagşy from memory.
 
 ## Dance & theatre
 
-The most distinctive Turkmen performance tradition is the ***küştdepdi***, a joint sung-and-danced rite inscribed by UNESCO as the **Kushtdepdi rite of singing and dancing**. Originally a Sufi zikr practice of the Turkmen of the Caspian coast, it is now performed at weddings and national holidays: a chorus stands in a semicircle chanting rhythmic praise verses while a lead singer improvises above them and dancers advance in paired lines with sharp shoulder shrugs, hand claps, and cries of "küşt-depdi." Women's dance is more restrained, built around slow arm and wrist movements and the graceful manipulation of long braids and sleeves. Turkmenistan has no indigenous mask or puppet theatre comparable to Uzbek *qoghirchoq* or Uyghur puppetry; dramatic content is carried instead by the *bagşy*'s epic recitation, in which the singer voices multiple characters and switches between sung verse and spoken prose.
+The küştdepdi is the most distinctive Turkmen performance: a Sufi-origin rite of chanted praise verses with paired dancers advancing in sharp shoulder shrugs and hand claps.
+
+- **Küştdepdi** — A joint sung-and-danced rite now performed at weddings and holidays, with a chorus chanting rhythmic praise while dancers advance in paired lines with sharp movements.
+- **Bagşy epic recitation** (*bagşy*) — The singer voices multiple characters and switches between sung verse and spoken prose, carrying dramatic content in place of mask or puppet theatre.
 
 ## Festivals & rituals
 
-The great annual festival is ***Nowruz*** (Turkmen: *Nowruz baýramy*), the Iranian-Central Asian new year at the spring equinox on 21 March, inscribed on the UNESCO Representative List as a multinational element. Turkmen Nowruz is marked by cooking *semeni* (wheatgrass pudding made from sprouted wheat), preparing large communal pilafs, and holding horse races featuring the ***Akhal-Teke*** — the ancient golden-coated Turkmen horse breed itself inscribed by UNESCO. The Islamic calendar contributes *Oraza baýramy* (Eid al-Fitr) and *Gurban baýramy* (Eid al-Adha), the latter marked by the sacrifice of a sheep and a shared *dograma* meal. Life-cycle rites are elaborate. Forty days after birth (*kyrky*) the infant is ritually bathed and named. Boys' circumcision (*sünnet toýy*) is a major feast with music and horse racing. Weddings (*toý*) extend across several days and stages — matchmaking (*gudaçylyk*), bride-price (*galyň*), the bride's transfer wrapped in the *kürte* mantle, and the *gelin salam*, a ritual in which the new bride greets her husband's kin in silence and with a covered face for weeks or months afterward. Pre-Islamic survivals remain visible: pilgrimage to *ojak* shrines of local saints, tying rag-strips to sacred trees for the fulfillment of vows, and jumping over a live wolf as a fertility rite for barren women.
+Nowruz marks the spring equinox with communal pilaf and horse races featuring the Akhal-Teke breed; Islamic holidays and elaborate life-cycle rites structure the year.
+
+- **Nowruz baýramy** — The Iranian-Central Asian new year on 21 March, marked by cooking semeni (wheatgrass pudding) and holding horse races.
+- **Akhal-Teke horse** (*Akhal-Teke*) — An ancient golden-coated Turkmen horse breed, inscribed by UNESCO and featured in Nowruz races.
+- **Wedding** (*toý*) — A multi-day celebration including matchmaking, bride-price, and the gelin salam ritual where the bride greets her husband's kin in silence with a covered face.
+- **Circumcision feast** (*sünnet toýy*) — A major feast for boys' circumcision featuring music and horse racing.
+- **Ojak shrine pilgrimage** (*ojak*) — Pilgrimage to local saint shrines, with rag-strips tied to sacred trees for vow fulfillment, a pre-Islamic survival.
 
 ## Foodways
 
-The Turkmen table centres on wheat and mutton. Flatbread (*çörek*) is baked daily on the walls of the *tamdyr* oven and treated with strong respect — never placed upside down, never thrown away. Cracked-wheat porridge (*ýarma*), fried wheat puffs (*pişme*), and stuffed dumplings (*börek*) are everyday staples. The prestige dish is ***palaw*** (pilaf), rice cooked with mutton, carrots, and onions in a *gazan* cauldron, served for weddings and holidays. ***Dograma*** — a torn-bread, boiled-mutton, and onion dish assembled in a communal bowl — is the ritual meal of *Gurban baýramy*, made from the sacrificial sheep. ***Çorba*** is the everyday mutton-and-vegetable soup, and grilled skewered mutton (*şaşlyk*) and ground-meat *kebap* are cooked over open coals. A distinctive Turkmen dish is ***işlekli***, a large round meat pie baked directly in the sand and coals. Dairy from sheep, goats, and camels is fermented into ***çal*** (soured camel milk), *gatyk* (yogurt), *süzme* (strained yogurt), and *gurt* (dried cheese balls). The signature melons of the Karakum oases, especially the *waharman* and *garrygyz* varieties, are eaten fresh and dried in strips. Green tea (*gök çaý*) is drunk throughout the day; unusually among Central Asian and Turkic peoples, horse meat is not eaten, and its consumption is prohibited by law in Turkmenistan.
+The Turkmen table centers on wheat and mutton, with flatbread baked in the tandoor and palaw pilaf as the prestige dish for celebrations.
+
+- **Palaw** — Rice cooked with mutton, carrots, and onions in a gazan cauldron, the prestige dish for weddings and holidays.
+- **Dograma** — Torn bread, boiled mutton, and onion assembled in a communal bowl, the ritual meal of Gurban baýramy made from the sacrificial sheep.
+- **Çörek** — Flatbread baked daily on the walls of the tamdyr oven and treated with strong respect, never placed upside down or thrown away.
+- **Işlekli** — A large round meat pie baked directly in sand and coals, a distinctive Turkmen dish.
+- **Çal** — Soured camel milk fermented and churned in a saba bag, a signature dairy product.
 
 ## Oral tradition & literature
 
-Turkmen oral tradition is dominated by the *dessan*, a long verse-and-prose narrative performed from memory by a *bagşy* over one or several evenings. The heroic cycle of ***Görogly*** — the outlaw-hero Köroğlu of pan-Turkic tradition — is the flagship epic, and Turkmen versions are considered among the fullest. The pre-Islamic Oghuz epic ***Book of Dede Korkut*** (*Gorkut ata*) is a shared inheritance with Azerbaijanis and Anatolian Turks; several of its episodes are set on Turkmen territory. Romantic *dessans* — ***Şasenem-Garyp***, ***Zöhre-Tahyr***, ***Leýli-Mejnun***, ***Hüýrlukga-Hemra*** — form a second layer, and the 18th-century philosophical poetry of ***Magtymguly Pyragy***, along with that of his father ***Döwletmämmet Azady***, ***Nurmuhammet Andalyp***, and ***Şeýdaýy***, is memorized and sung. Shorter genres include *aýdym* (lyric song), *läle* (women's swing songs), *hüwdi* (lullabies), and dense collections of proverbs (*nakyl*). The 20th-century novel *Aýgytly ädim* ("Decisive Step") by Berdi Kerbabayev is the canonical modern literary work.
+Turkmen oral tradition centers on the dessan epic, with Görogly the flagship heroic cycle and romantic dessans forming a second layer alongside the philosophical poetry of Magtymguly Pyragy.
+
+- **Görogly** — The heroic epic of the outlaw Köroğlu, a pan-Turkic tradition; Turkmen versions are considered among the fullest.
+- **Şasenem-Garyp** — A romantic dessan (verse-and-prose epic narrative) performed by bagşys at weddings and evening gatherings.
+- **Magtymguly Pyragy** — An 18th-century philosophical poet whose work is memorized and sung; his poetry is central to Turkmen identity.
+- **Book of Dede Korkut** (*Gorkut ata*) — A pre-Islamic Oghuz epic shared with Azerbaijanis and Anatolian Turks, with several episodes set on Turkmen territory.
 
 ## Language & religion
 
-The Turkmen language belongs to the Eastern Oghuz branch of Turkic, closely related to Azerbaijani, Turkish, and Khorasani Turkic, with high mutual intelligibility across the group. The literary standard is based on the *Teke* dialect of the Akhal oasis; Iranian Turkmen use the *Yomut* dialect and Afghan Turkmen the *Ärsary*. The script has changed three times in a century — Arabic until 1928, Latin 1928–1940, Cyrillic 1940–1993, and a reformed Latin alphabet since Turkmenistan's independence. The population is overwhelmingly Sunni Muslim of the Hanafi school, converted between the 12th and 14th centuries largely through the ***Yasawiyya*** and ***Kubrawiyya*** Sufi orders. Folk practice is markedly syncretic: veneration of local saints at *ojak* shrines, *pir* lineages that trace descent from early Islamic missionaries, cults of the wolf (whose true name is avoided by shepherds using euphemisms), amulets against the evil eye, divination by reading dried camel dung, and the survival of the pre-Islamic sky-god name in the Turkmen word for God, *Taňry*, from Turkic *Tengri*.
+Turkmen belongs to the Eastern Oghuz branch of Turkic, closely related to Azerbaijani and Turkish; the population is overwhelmingly Sunni Muslim with syncretic folk practice.
+
+- **Yasawiyya** — A Sufi order through which Turkmen were largely converted to Islam between the 12th and 14th centuries.
+- **Kubrawiyya** — A Sufi order instrumental in the Islamization of Turkmen peoples.
+- **Pir lineages** (*pir*) — Hereditary lines claiming descent from early Islamic missionaries, venerated in folk practice.
+- **Taňry** — The Turkmen word for God, deriving from the pre-Islamic Turkic sky-god Tengri, a syncretic survival.
+
+## Glossary
+
+- *gul* — Medallion or primary motif in carpet weaving, tribal-specific and highly codified
+- *keteni* — Warp-faced silk cloth in deep red with fine colored stripes, used for dresses and mantles
+- *kürte* — Ceremonial bridal mantle draped over the head, densely embroidered
+- *tamdyr* — Bell-shaped clay bread oven fired from within
+- *telpek* — Massive shaggy sheepskin hat worn by men
+- *gara öý* — Traditional yurt dwelling with scissor-lattice walls and domed crown
+- *dutar* — Two-stringed long-necked lute played by the bagşy singer
+- *bagşy* — Professional singer-reciter who performs epic narratives with musical accompaniment
+- *dessan* — Long sung-and-spoken narrative cycle performed over one or several evenings
+- *küştdepdi* — Joint sung-and-danced Sufi-origin rite performed at weddings and holidays
+- *toý* — Wedding feast and celebration, typically multi-day
+- *palaw* — Pilaf of rice cooked with mutton, carrots, and onions in a cauldron
+- *çörek* — Flatbread baked on the walls of a tandoor oven
+- *gulýaka* — Large hinged silver chest clasp closing the dress collar
+- *tumar* — Triangular or tubular amulet case containing a Qur'anic text
+- *ojak* — Shrine of a local saint, site of pilgrimage and vow fulfillment
+- *Nowruz baýramy* — Iranian-Central Asian new year festival on 21 March, marked by pilaf and horse races
+- *çal* — Soured camel milk fermented and churned
+- *pakhsa* — Sun-dried mud brick used in oasis architecture
+- *asmalyk* — Five-sided camel flank hanging used for wedding procession decoration
 
 ## Sources & further reading
 
@@ -84,3 +163,4 @@ The Turkmen language belongs to the Eastern Oghuz branch of Turkic, closely rela
 - Smithsonian Folkways search: [https://folkways.si.edu/search?query=Turkmen](https://folkways.si.edu/search?query=Turkmen).
 - Victoria and Albert Museum, Central Asian carpet collection: [https://collections.vam.ac.uk/search/?q=turkmen](https://collections.vam.ac.uk/search/?q=turkmen).
 - The Metropolitan Museum of Art, Turkmen jewelry and textiles: [https://www.metmuseum.org/art/collection/search#!?q=turkmen](https://www.metmuseum.org/art/collection/search#!?q=turkmen).
+

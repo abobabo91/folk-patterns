@@ -5,69 +5,158 @@ region: "Central Asia"
 tags: [ethnography, central-asia]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Turkic Muslim pastoralists |
+| Where | Ili Kazakh Autonomous Prefecture and adjacent counties in northwestern Xinjiang, China |
+| How many | Roughly 1.5 million in China |
+| Language | Kazakh, a Kipchak-branch Turkic language |
+| Religion | Sunni Muslim (Hanafi school) |
+| Known for | Felt yurts and woven textiles with ram's-horn motifs · High-mountain pastoral nomadism with preserved mobile material culture · Dombyra music and aitys competitive song-duels · Horseback sports and eagle-hunting with golden eagles · Fermented mare's milk (qymyz) and hand-rolled noodle dishes |
+
 ## Overview
 
-The Kazakhs of Xinjiang are a Turkic Muslim people concentrated in the **Ili Kazakh Autonomous Prefecture** of northwestern Xinjiang, with additional populations in the **Mori** and **Barköl** Kazakh Autonomous Counties. They inhabit the alpine pastures and river valleys of the **Tian Shan** and **Altai** mountains, the **Ili** and **Irtysh** river basins, and the steppe fringes around **Ürümqi** and **Tacheng**. Numbering roughly 1.5 million in China, they are the second-largest Kazakh population after Kazakhstan itself and speak Kazakh, a Kipchak-branch Turkic language. In folk-culture terms they matter because their high-mountain, cross-border pastoralism has preserved a mobile material culture — felt architecture, saddlery, embroidered wall hangings — that has thinned considerably in the sedentarized Kazakh heartland to the west.
+The Kazakhs of Xinjiang are the second-largest Kazakh population after Kazakhstan itself, inhabiting alpine pastures and river valleys across the Tian Shan and Altai mountains. Their culture centres on pastoral herding and is built around sheep and horse products. They have preserved a rich mobile material culture—felt architecture, embroidered wall hangings, and decorated saddlery—that reflects their transhumant way of life between winter quarters and high summer pastures.
 
 ## Material culture
 
+Kazakh material culture is built around sheep and horse, with felt, wool pile weaving, and leather furnishing nearly every surface of daily life.
+
 ### Textile & pattern traditions
 
-Kazakh material culture is built around the sheep. Wool, felt, and pile weaving furnish nearly every surface of the yurt interior, and pattern-making is overwhelmingly a women's craft transmitted within the *aul* (encampment).
+Women create geometric felt and woven textiles, using ram's horns as the master motif, to furnish the yurt interior and its hangings.
 
-**Kazakh felt (*kiiz*)** — Beaten and rolled sheep's wool, the base fabric of the yurt cover, floor mats, and saddle pads. Xinjiang Kazakh felt tends to be undyed cream, brown, or black, with pattern applied later by inlay or appliqué rather than woven in.
-
-**Shyrdak (*syrmaq*)** — A large mosaic floor felt made by cutting two contrasting sheets of dyed felt (typically red and black, or ochre and cream) into mirror-image scrolls, swapping them, and stitching the join with a couched cord. The result is a positive/negative reversible field, usually built around a central medallion and cornerpieces.
-
-**Tekemet (*tekemet*)** — A pressed-in felt rug: pattern wool is laid out in coloured tufts on a reed mat, wetted, and rolled together with the ground wool so the design fuses into the fabric rather than sitting on it. Motifs are consequently softer-edged than on shyrdak.
-
-**Tuskiiz (*tus-kiiz*)** — An embroidered wall hanging that frames the bride's side of the yurt. Xinjiang examples are usually red or black velvet or plush with silk chain-stitch and satin-stitch embroidery in floral and horn scrolls, often edged in silver braid.
-
-**Alasha and terme (*alasha*, *terme*)** — Narrow warp-faced woven bands and strips, sewn edge-to-edge into larger rugs and storage covers. *Terme* is the pick-up patterned variant with geometric ram's-horn bands.
-
-**Baskur and bau (*basqur*, *bau*)** — Long tablet-woven or pile bands that tie the yurt's lattice wall (*kerege*) to its roof poles; the interior-facing *basqur* is the widest and most heavily patterned textile in the tent.
-
-**Motif vocabulary.** *qoshqar-müyiz* (ram's horns, the master motif), *sıŋar müyiz* (single horn), *qos müyiz* (double horns), *tüye-tabaŋ* (camel's footprint), *ıt-quyrıq* (dog's tail), *qaz-moyın* (goose neck), *tümarsha* (amulet/triangle), *jūrek* (heart), *gül* (flower rosette), *shımaı* (cross-scroll).
+- **Shyrdak mosaic floor felt** (*syrmaq*) — Two contrasting sheets of dyed felt are cut into mirror-image scrolls, swapped, and stitched together to create a reversible positive-negative field built around a central medallion.
+- **Tekemet pressed-in felt rug** (*tekemet*) — Pattern wool laid in coloured tufts on a reed mat is wetted and rolled together so the design fuses into the fabric with soft-edged motifs.
+- **Tuskiiz embroidered wall hanging** (*tus-kiiz*) — A large wall hanging that frames the bride's side of the yurt, usually red or black velvet with silk chain-stitch embroidery in floral and horn scrolls.
+- **Kazakh felt** (*kiiz*) — Beaten and rolled sheep's wool forms the base fabric of the yurt cover, floor mats, and saddle pads, typically in cream, brown, or black.
+- **Woven tent bands** (*baskur, bau*) — Long tablet-woven or pile bands tie the yurt's lattice wall to its roof poles; the interior-facing baskur is the widest and most patterned textile in the tent.
 
 ### Clothing & dress
 
-Men wear a collarless shirt and trousers under a long quilted *shapan* (chapan) robe, belted with a tooled leather *kısı belbeu*. Winter dress adds a sheepskin *ton* worn fleece-in, and for horseback the *shalbar*, a wide leather or suede overtrouser. The characteristic male headgear is the *tymaq*, a four-flap fox- or lambskin winter cap, and in summer the tall white felt *kalpak* or an embroidered skullcap (*taqiya*). Women's daily dress is a long dress (*köylek*) with a ruffled hem, over which married women wear an embroidered sleeveless vest (*qamzol*). The signature bridal headdress is the *saukele*, a tall conical cap up to seventy centimetres high, covered in red velvet and loaded with silver plaques, coral, pearl strings, and owl feathers at the crown. After the birth of her first child a young wife exchanges the *saukele* for the *kimeshek*, a white cotton hood-and-bib that covers the hair, shoulders, and chest and remains her headgear for life. Both sexes wear soft leather boots (*etik*) with an inner felt stocking.
+Men wear quilted robes and winter fox-fur caps; women's signature bridal headdress is a tall conical cap; married women wear white cotton hoods for life.
+
+- **Saukele bridal headdress** (*saukele*) — A tall conical cap up to seventy centimetres high, covered in red velvet and loaded with silver plaques, coral, pearl strings, and owl feathers.
+- **Kimeshek married woman's hood** (*kimeshek*) — A white cotton hood-and-bib that covers the hair, shoulders, and chest, worn by married women for life after the birth of the first child.
+- **Winter fox-fur cap** (*tymaq*) — A four-flap fox- or lambskin winter cap worn by men, paired with a tall white felt kalpak or embroidered skullcap in summer.
+- **Quilted robe** (*shapan*) — A long quilted robe worn over a collarless shirt and trousers, belted with a tooled leather kısı belbeu.
+- **Soft leather boots** (*etik*) — Worn by both sexes with an inner felt stocking.
 
 ### Architecture
 
-The Xinjiang Kazakh dwelling is the *kiiz üy* ("felt house"), the round trellis-walled tent known in English as the yurt. Its skeleton is a collapsible willow lattice (*kerege*) forming the cylindrical wall, roof poles (*uıq*) bent at the base, and a wooden crown wheel (*shanyraq*) that admits light and smoke; the shanyraq is a lineage heirloom passed from father to youngest son and appears on the state emblem of Kazakhstan. The whole is dressed in cream *kiiz* felts lashed on with woven *bau* bands. Interior division is by textile rather than wall: the *tör* (place of honour) opposite the door is hung with the *tus-kiiz*, the right side is the men's/saddlery side, the left the women's/kitchen side. In the Altai and Ili valleys, sedentary winter quarters (*qystau*) are log or adobe rectangular houses with flat earth roofs, often with a separate walled yard for livestock; the yurt is pitched only for the summer transhumance to the *jailau* high pasture.
+The yurt is a collapsible willow-lattice tent with a wooden crown wheel, dressed in cream felts and hung with textiles that divide interior space by function.
+
+- **Yurt** (*kiiz üy*) — A round trellis-walled felt house with a collapsible willow lattice wall, bent roof poles, and a wooden crown wheel that admits light and smoke.
+- **Crown wheel** (*shanyraq*) — The wooden crown of the yurt, a lineage heirloom passed from father to youngest son and appearing on Kazakhstan's state emblem.
+- **Lattice wall** (*kerege*) — The collapsible willow lattice that forms the cylindrical wall of the yurt and can be disassembled for transport.
+- **Winter quarters** (*qystau*) — Log or adobe rectangular houses with flat earth roofs and walled yards for livestock, used during cold months in the Altai and Ili valleys.
+- **High summer pasture** (*jailau*) — Alpine grassland where yurts are pitched during transhumant herding season.
 
 ### Ceramics, metalwork & everyday objects
 
-Kazakhs are not a ceramic-producing people — pottery is imported from Uyghur and Hui neighbours. Their signature workshop crafts are in wood, leather, and silver. Carved and painted wooden chests (*sandyq*) and bed-frames furnish the yurt, and the *asadal* is a low painted cupboard for dishes. Saddlery is the male decorative art par excellence: high-pommeled wooden saddles (*er*) inlaid with bone and silver, tooled *qamshı* riding whips, and stamped leather horse-gear. Vessels for *qymyz* (fermented mare's milk) — the *saba*, a large smoked-hide bag, and the *torsyq*, a smaller flask — are made of tanned horse hide and shaped while wet. Metalwork centres on the silversmith (*zerger*), who produces belt plaques, harness fittings, and the tooled silver mounts for the master of the household's knife and tinderbox.
+Kazakhs work in wood, leather, and silver rather than ceramics, producing decorated chests, high-pommeled saddles, and vessels for fermented milk.
+
+- **High-pommeled saddle** (*er*) — A wooden saddle inlaid with bone and silver, the male decorative art par excellence, paired with tooled riding whips and stamped leather horse-gear.
+- **Painted chest** (*sandyq*) — A carved and painted wooden storage chest that furnishes the yurt interior.
+- **Smoked-hide mare's-milk bag** (*saba*) — A large vessel made of tanned horse hide, smoked and shaped while wet, for holding fermented mare's milk.
+- **Smaller fermented-milk flask** (*torsyq*) — A smaller vessel of tanned horse hide for carrying fermented milk while traveling.
+- **Silversmith's work** (*zerger*) — A silversmith produces belt plaques, harness fittings, and tooled silver mounts for knife and tinderbox.
 
 ### Jewelry & body adornment
 
-Silver is the ritually correct metal; gold is uncommon. Married women wear paired temple pendants (*shekelik*) that hang from the *kimeshek*, heavy hollow bracelets (*bilezik*) — often a matched pair worn one on each wrist — and broad breast ornaments (*öŋirjiek*) of linked silver plaques set with carnelian and turquoise. The most emblematic amulet is the *tumar*, a triangular silver case containing a Qur'anic verse, worn at the throat or sewn onto a child's cap against the evil eye. Girls wear their hair in many thin braids weighted at the ends with *shashbau*, silver-and-coin hair pendants that chime as they move; at marriage the braids are reduced to two. Rings (*juzik*), including the double-hooped *quskonaq* ("two-guests") ring, are exchanged at engagement.
+Silver is the ritually correct metal for jewelry; women wear temple pendants, hollow bracelets, and Qur'anic amulets; girls' hair is weighted with silver-and-coin pendants.
+
+- **Temple pendants** (*shekelik*) — Paired pendants worn by married women that hang from the kimeshek hood.
+- **Amulet case** (*tumar*) — A triangular silver case containing a Qur'anic verse, worn at the throat or sewn onto a child's cap against the evil eye.
+- **Hair pendants** (*shashbau*) — Silver-and-coin weights attached to girls' thin braids that chime as they move; reduced to two braids at marriage.
+- **Hollow bracelets** (*bilezik*) — Heavy paired bracelets worn one on each wrist by married women, often matched sets.
+- **Engagement ring** (*quskonaq*) — A double-hooped ring exchanged at engagement, meaning 'two guests.'
 
 ## Music & performance
 
-The core instrument is the *dombyra*, a two-string long-necked plucked lute with a pear-shaped body, played both as solo instrument and to accompany sung poetry. Alongside it the bowed *qyl-qobyz*, a two-string horsehair fiddle traditionally associated with the *baqsy* (shaman), carries the oldest repertoire; the *sybyzgy* end-blown flute and the *shankobyz* jaw harp round out the ensemble. Instrumental repertoire is organised as *küy* — short programmatic solo pieces, each with a title and a legend, transmitted from named master to named master in schools such as the western *tökpe* (strummed) and eastern *shertpe* (plucked) traditions; the eastern *shertpe* style dominates in Xinjiang. Sung genres include the *jyr* (narrative epic), the *terme* (didactic sung verse), the *qara öleŋ* (unaccompanied lyric quatrain), and the *aitys*, a competitive improvised song-duel between two *aqyns* (bard-poets) that remains a living contest at Xinjiang Kazakh festivals. Life-cycle songs are strictly genred: *jar-jar* and *betashar* at weddings (the latter unveiling the bride to her new relatives), *besik jyry* lullabies, and *joqtau* laments and *estirtu* death-announcement songs at funerals. Neighbouring Uyghur traditions such as the **Uyghur Muqam of Xinjiang** and the community gathering **Meshrep** (both UNESCO-inscribed) share the Xinjiang stage but are not Kazakh forms.
+The two-string dombyra lute is the core instrument; instrumental pieces called küy are transmitted from master to master; sung poetry and competitive song-duels remain living traditions.
+
+- **Two-string lute** (*dombyra*) — A pear-shaped plucked lute played as solo instrument and to accompany sung poetry.
+- **Bowed horsehair fiddle** (*qyl-qobyz*) — A two-string horsehair fiddle traditionally associated with the shaman, carrying the oldest repertoire.
+- **Instrumental solo piece** (*küy*) — A short programmatic solo piece with a title and legend, transmitted from named master to named master in schools such as tökpe and shertpe traditions.
+- **Competitive song-duel** (*aitys*) — An improvised duel between two bard-poets (aqyns) that remains a living contest at Xinjiang Kazakh festivals.
+- **Narrative epic** (*jyr*) — A sung genre that carries heroic tales and is performed at feasts.
 
 ## Dance & theatre
 
-Kazakhs do not have a classical theatre tradition; drama is embedded in sung epic and in the aitys duel. Dance is largely mimetic and solo. The best-known piece is *Qara Jorga* ("black ambler"), a men's dance imitating the gait of a pacing horse, revived as a mass folk dance across Xinjiang in the 2000s. *Qazaq bi* comprises a family of shoulder-shaking and hand-articulating dances performed at weddings and *toi* celebrations, often to dombyra accompaniment. Hunting and pastoral mimes — the eagle, the wolf, the milkmaid — survive in staged repertoire.
+Kazakhs have no classical theatre; drama is embedded in sung epic and song-duels; dance is largely solo and mimetic, imitating animal and pastoral movement.
+
+- **Horse-gait dance** (*Qara Jorga*) — A men's dance imitating a pacing horse, revived as a mass folk dance across Xinjiang in the 2000s.
+- **Shoulder-shaking dance** (*Qazaq bi*) — A family of dances with shoulder-shaking and hand-articulation performed at weddings and celebrations, often to dombyra accompaniment.
 
 ## Festivals & rituals
 
-The year opens with *Nauryz* on 21–22 March, the Turko-Iranian spring equinox: households cook *nauryz köje*, a seven-ingredient grain-and-meat soup, and hold horseback games. The summer move to the *jailau* is itself a communal ritual, marked by the first milking of the mares and the churning of new *qymyz*. Islamic feasts — *Oraza ait* (Eid al-Fitr) and *Qurban ait* (Eid al-Adha) — punctuate the lunar year. The great secular gatherings are the equestrian *toi*, held for weddings, circumcisions (*sündet toi*), and the fortieth-day naming of infants; competitions include *kökpar* (called *buzkashi* elsewhere), a mounted contest over a goat carcass; *qyz quu* ("catch the girl"), a courting race in which a woman on horseback is pursued by a suitor and, on the return leg, whips him; and *audaryspaq*, mounted wrestling. Falconry and eagle-hunting with the *bürkit* (golden eagle) is a signature Altai Kazakh practice, celebrated at annual eagle festivals in the Altai region. Life-cycle rites are dense: the *besikke salu* placing of the infant in the cradle, the *tusau kesu* cutting of the hobble that binds a toddler's ankles at first walking, the *betashar* unveiling of the bride, and the fortieth-day and one-year memorials for the dead.
+The year opens with the spring equinox feast; Islamic holidays punctuate the lunar year; the great gatherings are equestrian toi with mounted games, horseback wrestling, and eagle-hunting.
+
+- **Spring equinox feast** (*Nauryz*) — Held on 21–22 March, households cook a seven-ingredient grain-and-meat soup and hold horseback games.
+- **Mounted goat-carcass contest** (*kökpar*) — A game played at toi celebrations where riders compete over a goat carcass.
+- **Courting race** (*qyz quu*) — A game meaning 'catch the girl' where a woman on horseback is pursued by a suitor and whips him on the return leg.
+- **Mounted wrestling** (*audaryspaq*) — A wrestling contest on horseback, part of toi celebrations.
+- **Eagle-hunting festival** (*bürkit*) — Annual celebrations in the Altai region featuring falconry and hunting with golden eagles, a signature Altai Kazakh practice.
 
 ## Foodways
 
-Kazakh cuisine is built on mutton, horsemeat, and dairy — the "white food" (*aq*) of the herds. The national dish is *beshbarmaq* ("five fingers"), boiled mutton or horse served over broad sheets of hand-rolled noodle (*jaima*) with an onion-broth sauce (*tuzdyq*), eaten from a common platter with the hand. Horse products are prestige food: *qazy* (smoked sausage from the fatty rib of the horse), *shuzhyq*, *jal* (mane fat), and *jaya* (rump). The signature drink is *qymyz*, fermented mare's milk, drunk cool through the summer; the winter equivalent is *shubat*, fermented camel's milk. Everyday dairy includes *aiıran* (yoghurt), *qatyq*, *süzbe* (strained curd), *irimshik* (a browned cheese), and *qurt*, hard sun-dried cheese balls that keep for months and travel with the herder. Bread is either the tandoor-baked *nan* (borrowed from Uyghur neighbours) or *shelpek*, a thin fried flatbread cooked in oil. Guest hospitality follows a fixed sequence: tea with milk and salt (never plain), then *bauyrsaq* (fried dough puffs) and dairy, then the *bas tartu* — the boiled sheep's head is presented to the honoured guest, who carves it and distributes named cuts (ear to a child, palate to a young woman) around the table.
+Kazakh cuisine is built on mutton, horsemeat, and dairy; the national dish is hand-rolled noodles with boiled meat; fermented mare's milk is the summer drink.
+
+- **Hand-rolled noodle dish** (*beshbarmaq*) — Boiled mutton or horse served over broad sheets of hand-rolled noodle with an onion-broth sauce, eaten from a common platter with the hand.
+- **Fermented mare's milk** (*qymyz*) — A prestige drink fermented from mare's milk, drunk cool through the summer and central to seasonal rituals.
+- **Fermented camel's milk** (*shubat*) — The winter equivalent of qymyz, fermented from camel's milk.
+- **Smoked horse sausage** (*qazy*) — A prestige food made from the fatty rib of the horse.
+- **Hard sun-dried cheese balls** (*qurt*) — Cheese balls that keep for months and travel with the herder as storable dairy.
 
 ## Oral tradition & literature
 
-The Kazakh oral canon is carried by two figures: the *aqyn*, an improvising bard, and the *jyrau*, a keeper of memorised heroic epic. The core repertoire includes the epics **Qobylandy Batyr**, **Alpamys Batyr**, **Er Targyn**, and **Qambar Batyr**, and the lyric romances **Qyz Jibek** and **Kozy Korpesh — Bayan Sulu**. Shorter genres — *maqal* (proverbs), *jumbaq* (riddles), *shешendik söz* (oratorical set-pieces) — are performed at feasts and judged as skill. The nineteenth-century Kazakh literary revival associated with **Abai Qunanbaiuly** and the ethnographer **Shoqan Wälikhanov** reached the Xinjiang Kazakhs through cross-border circulation of books and, from the 1930s, through Kazakh-language publishing in Ürümqi. The *aitys* song-duel is the living heart of this tradition and is regularly televised in Xinjiang.
+The aqyn (bard) and jyrau (epic keeper) carry the oral canon; heroic epics and lyric romances remain central; the aitys song-duel is the living heart of tradition.
+
+- **Heroic epic** (*Qobylandy Batyr*) — One of the core epics of the Kazakh oral canon, carried by bards and epic keepers.
+- **Lyric romance** (*Qyz Jibek*) — One of the signature lyric romances in Kazakh oral tradition, performed by aqyns.
+- **Lyric romance** (*Kozy Korpesh — Bayan Sulu*) — Another signature lyric romance in the Kazakh oral canon.
+- **Improvising bard** (*aqyn*) — A figure who carries the Kazakh oral canon by improvisation and performance, regularly televised in Xinjiang.
+- **Proverb** (*maqal*) — A shorter oral genre performed and judged as a display of skill at feasts.
 
 ## Language & religion
 
-Kazakh is a Kipchak-branch Turkic language, mutually intelligible across the border with Kazakhstan. Xinjiang Kazakhs write it in a modified Perso-Arabic script (the *töte jazu* reformed in the 1950s), whereas Kazakhstan itself uses Cyrillic and is transitioning to Latin — a script divide that materially separates the two literatures. The community is Sunni Muslim of the Hanafi *madhhab*, with a substrate of pre-Islamic Turko-Mongol practice: reverence for the *shanyraq* and the hearth, purification by fire and by juniper smoke (*alastau*), and the residual authority of the *baqsy*, a spirit-medium who traditionally drummed on the qyl-qobyz. Sufi lineages, particularly the Yasawiyya, shaped the region's Islamisation from the fourteenth century and remain culturally, if not organisationally, present.
+Kazakhs speak a Kipchak Turkic language written in modified Perso-Arabic script; they are Sunni Muslims with Hanafi law and pre-Islamic Turko-Mongol practices.
+
+- **Islamic school** (*Hanafi*) — The Sunni Islamic madhhab (school of law) followed by Xinjiang Kazakhs.
+- **Spirit-medium shaman** (*baqsy*) — A traditional figure associated with horsehair fiddle playing and spirit mediation, retaining residual authority in folk practice.
+- **Sufi lineage** (*Yasawiyya*) — A Sufi order that shaped the region's Islamisation from the fourteenth century and remains culturally present.
+- **Purification by smoke** (*alastau*) — Ritual purification by juniper smoke, a pre-Islamic Turko-Mongol practice retained in folk religion.
+- **Modified Perso-Arabic script** (*töte jazu*) — The writing system for Kazakh in Xinjiang, reformed in the 1950s, distinguishing it from Kazakhstan's Cyrillic and Latin scripts.
+
+## Glossary
+
+- *aq* — white food; dairy products from the herds
+- *aqyn* — improvising bard-poet
+- *aitys* — competitive improvised song-duel between two aqyns
+- *alastau* — ritual purification by juniper smoke
+- *baqsy* — spirit-medium shaman
+- *bau* — pile band tying yurt lattice to roof poles
+- *beshbarmaq* — hand-rolled noodle dish with boiled meat
+- *bilezik* — hollow bracelet
+- *dombyra* — two-string pear-shaped plucked lute
+- *er* — high-pommeled wooden saddle
+- *etik* — soft leather boot
+- *jailau* — high summer pasture
+- *jyr* — narrative epic, sung poetry genre
+- *jyrau* — keeper of memorised heroic epic
+- *kerege* — collapsible willow lattice wall of yurt
+- *kiiz* — felt; beaten and rolled sheep's wool
+- *kimeshek* — white cotton hood-and-bib worn by married women
+- *kökpar* — mounted contest over a goat carcass
+- *küy* — short programmatic instrumental solo piece
+- *maqal* — proverb
+- *qazy* — smoked horse sausage from rib
+- *qobylandy batyr* — heroic epic; Qobylandy the Champion
+- *qymyz* — fermented mare's milk
+- *qyz jibek* — lyric romance of a girl's name
+- *qyz quu* — catch-the-girl courting race on horseback
 
 ## Sources & further reading
 
@@ -81,3 +170,4 @@ Kazakh is a Kipchak-branch Turkic language, mutually intelligible across the bor
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=kazakh
 - Victoria & Albert Museum, Central Asian textiles collection: https://collections.vam.ac.uk/search/?q=kazakh
 - The Metropolitan Museum of Art, search "Kazakh": https://www.metmuseum.org/art/collection/search#!?q=kazakh
+

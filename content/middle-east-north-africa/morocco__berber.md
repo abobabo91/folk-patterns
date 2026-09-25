@@ -5,76 +5,168 @@ region: "Middle East North Africa"
 tags: [ethnography, middle-east-north-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | Berbers (Imazighen, 'free people'), the indigenous population of North Africa |
+| Where | Morocco, primarily in three regions: the Rif north, the Middle Atlas, and the High Atlas and Souss valley south |
+| How many | Fifteen to eighteen million in Morocco, roughly forty to fifty percent of the population |
+| Language | Tamazight (Tarifit, Central Atlas Tamazight, Tashelhit), co-official with Arabic since 2011, written in Tifinagh |
+| Religion | Sunni Muslim (Maliki school) with strong Sufi brotherhoods and local saint veneration; pre-Islamic and syncretic practices persist |
+| Known for | Hand-woven Berber carpets and rugs (Beni Ourain, Boucherouite, Azilal, Taznakht) · Heavy silver jewelry with enamel and coral (fibulae, diadems, pectorals) · Line-dances and music (ahidus, ahwash, rwais bardic songs) · Mud-brick fortified villages (tighremt, ksar, agadir) · Couscous and tagine cooking |
+
 ## Overview
 
-The Berbers (*Imazighen*, singular *Amazigh*, "free people") are the indigenous population of North Africa west of the Nile, occupying a vast but discontinuous belt from the Siwa oasis in Egypt through Libya, Tunisia, Algeria and Morocco to Mauritania and deep into the Sahel among the Tuareg. In Morocco, where they form the demographic and cultural bedrock of the country, Berber-speakers number perhaps fifteen to eighteen million — roughly forty to fifty percent of the population — and are conventionally grouped into three great regional-linguistic blocks: the *Rif* (*Tarifit*) of the northern Mediterranean spur, the *Zayan*, *Zemmour* and Ait Bou Ichaouen tribes of the *Tamazight*-speaking Middle Atlas and eastern High Atlas, and the *Chleuh* (*Tashelhit*) of the western High Atlas, Anti-Atlas and the Souss valley. Their language, *Tamazight*, belongs to the Afro-Asiatic family and is now co-official with Arabic under the 2011 Moroccan constitution, written in the reconstituted Tifinagh alphabet whose consonantal skeleton reaches back to the Libyco-Berber inscriptions of the first millennium BCE. Historically the Berbers built the Almoravid and Almohad empires that ruled from Andalusia to Senegal, and in folk-culture terms they matter as the makers of the flat-woven and shag *tapis berbère* now universally known as the "Berber carpet," the silver-and-enamel fibula-and-diadem jewellery of the Anti-Atlas, the deep-piled *Beni Ourain* rug of the Middle Atlas, the *tagelmust* indigo veil of the desert south, the mud-*tighremt* fortified villages of the pre-Saharan valleys, and the pentatonic *ahwash* and *ahidus* line-dances that structure village festivity.
+Berbers are the cultural and demographic bedrock of Morocco, speaking Tamazight and organized into three main regional groups across the Mediterranean north and Saharan south. They built the Almoravid and Almohad empires and remain the makers of iconic textiles, silver jewelry, architecture and music that define North African folk culture. Berber society blends Sunni Islam with Sufi mysticism, local saint cults, and older apotropaic and spiritual beliefs.
 
 ## Material culture
 
+Berber material culture centers on hand-crafted, regionally distinct textiles, metalwork and ceramics that blend geometric and apotropaic motifs drawn from a shared symbolic vocabulary.
+
 ### Textile & pattern traditions
 
-**Beni Ourain** — the ivory or cream, long-shag, hand-knotted wool rug of the seventeen tribes of the Middle Atlas around Taza, drawn in undyed natural wool with an irregular lozenge or lattice grid in dark brown or black; historically slept on and used as a bed cover rather than a floor rug, and since the mid-twentieth century the archetypal "Berber rug" of modernist interiors.
+Berber weavers produce iconic hand-knotted and flat-woven rugs and wraps in wool and recycled fiber, each region with its own pattern and dye palette.
 
-**Boucherouite** (from the Arabic *bu sherwit*, "torn cloth") — the rag rug of the last several decades, woven from strips of recycled cotton, nylon and synthetic clothing when the pastoral wool supply fails; wildly polychrome, improvised, and by convention read as a distinctly female, domestic idiom.
-
-**Azilal** — the flat-and-pile rug of the central High Atlas around the town of Azilal, on a natural white ground with narrative asymmetric drawings in red madder, saffron and indigo, often incorporating human, animal and abstract sign motifs.
-
-**Taznakht** — the tight, kilim-pile hybrid of the Ouarzazate region south of the High Atlas, woven by Ouaouzguite women in dense geometric fields of red, orange and black; a signature Chleuh production.
-
-**Kilim berbère** and **handira** — the flatwoven kilim tradition is spread across all Berber regions, while the *handira* is the specific wedding cape of the Beni Ouarain and Zemmour, a heavy off-white wool cloth fringed with hundreds of small metal sequins that jingle as the bride walks, later reused as a blanket in the marital household.
-
-**Haïk** — the long unstitched white or cream wool-and-cotton body wrap draped over head and body by women in the pre-Saharan towns and in the Rif; now mostly ceremonial.
-
-**Motif vocabulary.** The lozenge (*taqbilt*), the eye (*tit*), the comb, the fibula, the frog, the partridge eye (*tit n taskurt*), the *khamsa* (five-fingered hand), the "free man" glyph resembling a Tifinagh *yaz* (ⵣ) that has become the pan-Amazigh emblem, chevrons, ladders, and the eight-pointed star all recur across weaving, tattoo, pottery and jewellery, generally read as apotropaic — turning away the evil eye — rather than purely decorative.
+- **Beni Ourain rug** (*Beni Ourain*) — Ivory or cream long-shag wool rug from the Middle Atlas with irregular lozenge grid in dark brown or black, historically used as a bed cover.
+- **Boucherouite rag rug** (*Boucherouite*) — Wildly polychrome rag rug woven from strips of recycled cotton and synthetic clothing, a distinctly female domestic idiom.
+- **Azilal rug** (*Azilal*) — Flat-and-pile rug from the central High Atlas with narrative asymmetric drawings in red, saffron and indigo on a white ground.
+- **Taznakht rug** (*Taznakht*) — Tight kilim-pile hybrid from the Ouarzazate region woven in dense geometric fields of red, orange and black.
+- **Wedding cape** (*handira*) — Heavy off-white wool cloth fringed with hundreds of small metal sequins that jingle as the bride walks, later reused as a blanket.
 
 ### Clothing & dress
 
-Men across Berber Morocco wear the *djellaba*, a long hooded wool or cotton robe with wide sleeves, over a shirt and loose trousers (*serwal*); in the mountains the winter *djellaba* is of heavy undyed brown or striped wool, and the *burnous*, a hooded sleeveless cape, is thrown over it against the cold. The Chleuh of the Souss traditionally wore a shorter tunic with a woven wool cloak in indigo. Rural women wear a wrapped and pinned rectangular dress — in the Atlas, two or three lengths of cloth secured at the shoulders by a matched pair of large silver fibulae (*tizerzai*) linked by a chain, over which a woven belt (*tasmert*) is wound at the waist, and in the Rif a distinctive red-and-white striped *foutah* skirt (*mendil*) worn with a wide straw hat trimmed with woollen pom-poms. Across the Sahara-facing south, the Tuareg-adjacent and *drâa*-valley men wind the *tagelmust* or *cheche*, a five-metre indigo-dyed cotton veil, around head and face; the indigo bleeds onto the skin, hence the exonym "blue men." Berber women's festival dress adds the sequinned *handira* cape at weddings and layered silver pectorals for dance. Until the mid-twentieth century facial and hand tattooing — small crosses, chevrons, palm-frond lines and lozenges on chin, forehead and between the brows — was almost universal for rural women and marked tribal affiliation, marriageability and protection; the practice has largely lapsed under religious pressure but survives on elderly women and is being revisited by younger Amazigh activists.
+Men wear long hooded robes and sleeveless capes; women wear wrapped dresses pinned with silver fibulae, belted at the waist, with regional variations in wrap style and color.
+
+- **Long hooded robe** (*djellaba*) — Standard garment for men across Berber Morocco, a long wool or cotton robe with wide sleeves worn over shirt and trousers.
+- **Sleeveless cape** (*burnous*) — Hooded sleeveless wool cape worn by men in the mountains for warmth in winter.
+- **Desert indigo veil** (*tagelmust or cheche*) — Five-meter indigo-dyed cotton veil wound around head and face by men of the pre-Saharan south; the indigo bleeds onto the skin.
+- **Rif skirt** (*foutah or mendil*) — Red-and-white striped skirt worn in the Rif with a wide straw hat trimmed with woollen pom-poms.
+- **Shoulder fibulae** (*tizerzai*) — Matched pair of large silver fibulae linked by a chain that pin the shoulders of the wrapped dress.
 
 ### Architecture
 
-The signature Berber architecture of southern Morocco is the mud-brick or rammed-earth *tighremt* — a tall, tapering fortified house with corner towers, blank lower walls and geometric relief brickwork around the upper windows — and its collective form the *ksar* (*ighrem*, plural *igherman*), a fortified village of shared walls threaded by covered lanes and centred on a mosque, a communal granary and a well. The *agadir* of the Anti-Atlas and Souss is the collective granary proper, a multi-storey cliff-set or hilltop keep of stone and mud divided into hundreds of small locked cells, one per family, administered by an elected council; several survive in the Ida ou Semlal and Ait Baha regions. In the High Atlas villages of the Ait Bou Guemez and Azilal, dry-stone and pisé houses stack on the slope with flat earth roofs supported on juniper beams. Nomadic and semi-nomadic pastoralists of the eastern High Atlas and the Sahara fringe — including the Ait Bou Ichaouen — use the black *khaima*, a low tent of hand-woven strips of goat and camel hair sewn together and pegged with rope, its interior divided by a woven curtain (*afrag*) into male and female halves. Monumental Berber-dynasty architecture, above all the Almohad Koutoubia and Tinmel mosques, sits within the wider Moorish tradition but is characterised by austere carved-stucco *sebka* strapwork rather than mosaic.
+Berber architecture ranges from tall mud-brick fortified houses with corner towers to collective village compounds and cliff-set communal granaries.
+
+- **Fortified house** (*tighremt*) — Tall tapering mud-brick or rammed-earth house with corner towers, blank lower walls and geometric relief brickwork around upper windows.
+- **Fortified village** (*ksar or ighrem*) — Collective village of shared walls threaded by covered lanes, centered on a mosque, communal granary and well.
+- **Collective granary** (*agadir*) — Multi-storey cliff-set or hilltop keep divided into hundreds of small locked cells, one per family, administered by an elected council.
+- **Nomadic tent** (*khaima*) — Low tent of hand-woven strips of goat and camel hair, interior divided by a woven curtain into male and female halves.
+- **Tent partition curtain** (*afrag*) — Woven curtain that divides the interior of the khaima tent into separate spaces for men and women.
 
 ### Ceramics, metalwork & everyday objects
 
-Berber pottery is overwhelmingly a women's non-wheel tradition. In the Rif, the potters of the villages around Al Hoceima and among the Ait Bouayach coil unglazed red-clay water jars, tagines and lamps and paint them freehand with black manganese and iron-oxide geometric bands — triangles, chevrons, "snakes" and the *tit* eye — that closely echo tattoo and carpet vocabulary; the ware is open-fired in a pit of dung and brushwood. In the Souss and Anti-Atlas the tradition runs to burnished blackware and to the large storage *khabia*. Wheel-thrown, tin-glazed urban ceramics (Fez blue, Safi polychrome) belong to the Arab-Andalusi tradition, not the Berber one, though Berber consumers use them. Woodwork is dominated by carved cedar and juniper — painted ceilings and doors in the Middle Atlas, incised dowry chests, low round tea tables, olive-wood spoons and the long-handled *maqla* couscous ladle. The tagine itself, the conical lidded earthenware cooking vessel, is a shared Maghrebi form but is at home in every Berber kitchen.
+Berber pottery is a non-wheel women's tradition of red-clay and blackware vessels; woodwork features carved cedar and juniper with geometric incision.
+
+- **Red-clay pottery** — Hand-coiled unglazed water jars, tagines and lamps from the Rif, painted with black geometric bands of triangles, chevrons and eye motifs.
+- **Cooking vessel** (*tagine*) — Conical lidded earthenware pot used for slow-cooked stews, a shared Maghrebi form at home in every Berber kitchen.
+- **Blackware storage jar** (*khabia*) — Large burnished blackware storage jar, a tradition of the Souss and Anti-Atlas.
+- **Couscous ladle** (*maqla*) — Long-handled wooden ladle for serving couscous, carved from olive or cedar wood.
+- **Dowry chest** — Incised cedar or juniper chest with geometric carving, used to hold a bride's textiles and goods.
 
 ### Jewelry & body adornment
 
-Amazigh jewellery — and its Kabyle cousin across the Algerian border — is one of the great silver traditions of the Mediterranean world. It is silver rather than gold (gold being religiously suspect and associated with the towns), heavy, and worked by Jewish silversmiths in the Anti-Atlas oases of Tiznit, Tahala and Tiznit's satellite villages until the mass Jewish emigration of the 1950s and 60s, after which Muslim Berber smiths took over the workshops. The core forms are the paired triangular or disk *fibula* (*tizerzai*, singular *tazerzit*) that pin the shoulders of the wrapped dress and are linked by a chain often threaded with coral, amber and coins; the *taounza* forehead diadem; heavy hinged bracelets (*azbeg*) with pyramidal bosses; anklets (*ikhelkhalen*); pectorals hung with niello, cloisonné enamel in yellow, green and blue, coral beads, cowries and old silver coins (Maria Theresa thalers, French rials); and the omnipresent *khamsa* hand pendant against the evil eye. Kabyle work from the Ait Yenni in Algeria is distinguished by its jewel-toned enamel and coral inlay and is close kin to Moroccan Chleuh and Ida ou Nadif work. Amber beads (*luban*) are believed to protect nursing mothers, coral to protect children. Henna (*lhenna*) is drawn in fine geometric patterns on hands and feet at weddings and at the naming of a child.
+Amazigh jewelry is one of the great silver traditions of the Mediterranean, worked by Jewish and later Muslim Berber smiths, heavy and set with coral, amber, enamel and coins.
+
+- **Shoulder fibulae** (*tizerzai*) — Paired triangular or disk silver brooches that pin the shoulders of the wrapped dress, often linked by a chain threaded with coral and coins.
+- **Forehead diadem** (*taounza*) — Heavy silver diadem worn on the forehead, often set with enamel and semi-precious stones.
+- **Hinged bracelets** (*azbeg*) — Heavy silver bracelets with pyramidal bosses, hinged to open and close around the wrist.
+- **Hand pendant** (*khamsa*) — Five-fingered hand pendant in silver, worn against the evil eye and used as an apotropaic motif in textiles and pottery.
+- **Henna patterns** (*lhenna*) — Fine geometric patterns drawn in henna on hands and feet at weddings and during a child's naming ceremony.
 
 ## Music & performance
 
-Berber music is regionally distinct and largely oral. In the Middle Atlas the *ahidus* is the emblematic form: a mixed line of men and women, shoulder-to-shoulder or interlocked, sway and step to a bank of *bendir* frame drums while a lead poet (*amdyaz*) improvises rhymed *izlan* couplets that the line answers in chorus. In the High Atlas and Souss the Chleuh equivalent is the *ahwash*, similarly antiphonal but structured around a slow opening *astara*, an accelerating middle and a rapid *aberdag* climax, with the *taârijt* goblet drum joining the *bendir*. The *rwais* are the professional Chleuh bardic troupes of the Souss, led by a *rays* who sings, dances and plays the *ribab* one-string bowed spike fiddle, backed by the *lotar* small plucked lute and hand-clapping; their long narrative songs treat love, exile, migration and social commentary and have been continuously recorded on cassette and now streaming since the 1970s. Rif music centres on a sharper, more melancholic idiom accompanied by the *adjun* frame drum and the *zamar* double-reed pipe. Across all regions the *ghaita* (shawm) and *tbel* (kettledrum) announce weddings and *moussems*. The *Gnawa* brotherhoods, though of sub-Saharan not Berber origin, share ritual space with Berber Sufi communities and their *lila* trance ceremony was inscribed on the UNESCO Representative List in 2019.
+Berber music is regionally distinct and oral, built on antiphonal singing between a lead poet and a line or chorus, accompanied by frame drums and local instruments.
+
+- **Line-dance with sung couplets** (*ahidus*) — Mixed line of men and women shoulder-to-shoulder, swaying to bendir frame drums while a lead poet improvises rhymed couplets answered by the chorus.
+- **High Atlas line-dance** (*ahwash*) — Antiphonal dance-song structured around a slow opening astara, accelerating middle and rapid aberdag climax, with bendir and goblet drums.
+- **Professional bardic troupes** (*rwais*) — Chleuh bards of the Souss led by a rays singer, backed by the ribab one-string fiddle and lotar lute, singing long narrative songs on love and social themes.
+- **Frame drum** (*bendir*) — Double-headed frame drum played in the ahidus and ahwash, a core instrument of Berber music.
+- **Goblet drum** (*taârijt*) — Goblet-shaped drum used in the ahwash line-dance of the High Atlas and Souss.
 
 ## Dance & theatre
 
-Dance is inseparable from music in Berber practice and is overwhelmingly collective and non-narrative. The *ahidus* and *ahwash* line-dances described above are simultaneously the dance and the song. The *guedra*, associated with the Tuareg-adjacent Regueibat and the "blue" women of Guelmim in the pre-Sahara, is by contrast a kneeling solo woman's dance performed under a dark veil to a single low drum, the hands doing the entire expressive work in a slow hypnotic vocabulary. The *taskiwin*, a martial shoulder-shaking dance of the western High Atlas performed by young men wearing a decorated powder-horn (*tiskt*) slung across the chest, was inscribed on the UNESCO List of Intangible Cultural Heritage in Need of Urgent Safeguarding in 2017. There is no indigenous Berber theatre tradition in the proscenium sense; dramatic content is carried by the *amdyaz* poet-singers and by wedding and *moussem* performance.
+Berber dance is collective and non-narrative, inseparable from music; the solo kneeling guedra and martial taskiwin shoulder-dance are notable exceptions.
+
+- **Line-dance** (*ahidus or ahwash*) — Simultaneously the dance and the song, a mixed or single-gender line moving in unison to drumming and sung couplets.
+- **Solo kneeling dance** (*guedra*) — Solo woman's dance performed under a dark veil, kneeling, with hands doing all expressive work in a slow hypnotic vocabulary, associated with the pre-Saharan Regueibat.
+- **Martial shoulder-dance** (*taskiwin*) — Young men's dance of the western High Atlas with shoulder-shaking movements, wearing a decorated powder-horn slung across the chest.
 
 ## Festivals & rituals
 
-The Berber agrarian year is anchored by *Yennayer*, the Amazigh New Year, celebrated on the night of 12–13 January and marked in 2024 as a national public holiday in Morocco after long activist campaigning; households prepare a special couscous with seven vegetables or a chicken tagine and children receive dried fruit and nuts. *Imilchil*, the September marriage *moussem* of the Ait Haddidou in the eastern High Atlas, brings tribes together for betrothals and market. Every region hosts its patron-saint *moussem* — Moulay Idriss, Sidi Ahmed ou Moussa in the Souss, Sidi Ali in the Middle Atlas — combining pilgrimage, market, horse *tbourida* (powder-play) charges and *ahwash*. Life-cycle rituals include the seven-day naming ceremony (*sboue*), the pre-wedding henna night (*lilat el-henna*) at which the bride's hands and feet are patterned, and the wedding proper across three to seven days with the *handira* cape and the transfer of the bride on a mule or in a covered palanquin.
+Berber festivals anchor the agrarian and social year, centered on the Amazigh New Year, regional patron-saint pilgrimages, and elaborate three-to-seven-day wedding ceremonies.
+
+- **Amazigh New Year** (*Yennayer*) — Celebrated on the night of 12–13 January with special couscous and dried fruit; marked as a national public holiday in Morocco since 2024.
+- **Marriage moussem** (*Imilchil*) — September pilgrimage and market in the eastern High Atlas where Ait Haddidou tribes gather for betrothals and collective ceremonies.
+- **Patron-saint pilgrimage** (*moussem*) — Regional pilgrimage combining market, horse powder-play charges and ahwash dancing, held for local saints like Moulay Idriss or Sidi Ali.
+- **Seven-day naming ceremony** (*sboue*) — Life-cycle ritual marking a child's name, typically featuring a celebration with food and family gathering.
+- **Pre-wedding henna night** (*lilat el-henna*) — Celebration on the night before the wedding, where the bride's hands and feet are patterned with henna by women.
 
 ## Foodways
 
-The Berber kitchen is the base layer of Moroccan cuisine. *Couscous* — steamed semolina, of Berber origin and inscribed on the UNESCO Representative List in 2020 as a shared Maghrebi heritage — is the Friday and festival dish, served under a stew of seven vegetables and lamb or chicken. The *tagine*, slow-cooked in the conical earthenware vessel of the same name, ranges from lamb with prunes and almonds in the High Atlas to chicken with preserved lemon and olives to the Souss *tagine* of fish with *chermoula*. *Tanjia*, the sealed urn of lamb slow-cooked in the ashes of a hammam furnace, is a Marrakchi speciality with Berber roots. Everyday food is simpler: *baddaz* or *tagoula*, a barley or maize porridge with *argan* oil and honey; *harira* soup of tomato, lentils and chickpeas at Ramadan; *bissara* fava-bean soup; *msemen* and *baghrir* griddle breads; and, unique to the Chleuh Souss, *amlou*, a paste of roasted almonds, argan oil and honey eaten with bread. Argan oil itself, pressed from the kernel of the *Argania spinosa* endemic to the Souss, is a defining Chleuh product and the argan-tree region and its practices were inscribed on the UNESCO Representative List in 2014. Mint tea (*atay*) poured from height into small glasses closes every meal and every visit.
+The Berber kitchen is the base of Moroccan cuisine, centered on couscous, slow-cooked tagines, and argan oil as a defining ingredient and product.
+
+- **Steamed semolina dish** (*couscous*) — Friday and festival dish of Berber origin, steamed semolina served under a stew of seven vegetables and lamb or chicken; inscribed on UNESCO list in 2020.
+- **Slow-cooked stew** (*tagine*) — Meat or fish stew slow-cooked in a conical earthenware vessel, ranging from lamb with prunes to chicken with preserved lemon and olives.
+- **Ashed urn stew** (*tanjia*) — Sealed urn of lamb slow-cooked in the ashes of a hammam furnace, a Marrakchi speciality with Berber roots.
+- **Almond and argan paste** (*amlou*) — Paste of roasted almonds, argan oil and honey eaten with bread, unique to the Chleuh Souss.
+- **Argan oil** — Oil pressed from the kernel of the Argania spinosa tree endemic to the Souss, a defining Chleuh product inscribed on UNESCO list in 2014.
 
 ## Oral tradition & literature
 
-Until the twentieth century Berber literature was overwhelmingly oral, though the *Tashelhit* south preserves a written manuscript tradition in Arabic script reaching back to the sixteenth century, including the religious poems of Muhammad Awzal (d. 1749) and a body of grammar, jurisprudence and medicine. The oral repertoire is vast: *izlan* and *tamawayt* sung couplets of the Middle Atlas, the long narrative songs of the Souss *rwais*, tales of the trickster jackal, of *Aïcha Kandicha* the seductive spirit, of the ogress *Tériel*, and genealogical praise poetry. The *amdyaz* itinerant poet — half bard, half satirist — travelled between villages composing on commission and settling disputes in verse. Since the reconstitution of Tifinagh as an official script and the founding of the Institut Royal de la Culture Amazighe in 2001, a modern written literature in Tamazight has emerged in novels, poetry and children's books, and Amazigh-language television and radio (Tamazight TV, since 2010) have carried the oral repertoires to a national audience.
+Berber literature was overwhelmingly oral until the twentieth century; the Souss preserves a written Arabic-script tradition, and modern written Tamazight literature has emerged since 2001.
+
+- **Sung couplets** (*izlan or tamawayt*) — Rhymed couplets improvised by poets and sung by a chorus or line, the backbone of Middle Atlas and Souss music traditions.
+- **Narrative bardic songs** (*rwais songs*) — Long songs by Souss professional bards on themes of love, exile, migration and social commentary, continuously recorded since the 1970s.
+- **Itinerant poet** (*amdyaz*) — Half-bard, half-satirist who travelled between villages composing on commission and settling disputes in verse.
+- **Trickster tales** — Oral stories of the jackal trickster and seductive spirits like Aïcha Kandicha, transmitted through families and community gatherings.
+- **Religious poetry manuscript** — Sixteenth-century and later Tashelhit-language poems in Arabic script, including works by Muhammad Awzal, reflecting theological and jurisprudential knowledge.
 
 ## Language & religion
 
-*Tamazight*, in its three main Moroccan varieties *Tarifit*, *Central Atlas Tamazight* and *Tashelhit*, is co-official with Arabic since 2011 and is written in Tifinagh, in Arabic script, and in Latin script depending on domain. The three varieties are only partially mutually intelligible and speakers commonly code-switch with Moroccan Arabic (*Darija*). Almost all Moroccan Berbers are Sunni Muslims of the Maliki school, with a strong Sufi overlay organised into brotherhoods (*tariqa*) — Nasiriyya, Darqawiyya, Tijaniyya — and a deep cult of local saints (*siyyid*) whose whitewashed cubical shrines dot every ridge and valley. Pre-Islamic and syncretic practice persists in the veneration of springs, caves and ancestor tombs, in the near-universal use of the *khamsa* and of tattooed and woven apotropaic marks, and in the belief in *jnun* spirits and the evil eye. A small Berber-speaking Jewish community was central to the Anti-Atlas silversmithing trade until the emigrations of 1948–67; the *Ibadi* Berbers of the Mzab in Algeria and of Jebel Nafusa in Libya represent a distinct sectarian survival outside Morocco.
+Tamazight, co-official since 2011 and written in Tifinagh, is the native tongue; Berbers are Sunni Muslims of the Maliki school with strong Sufi brotherhoods and saint cults.
+
+- **Official language** (*Tamazight*) — Native tongue in three main varieties (Tarifit, Central Atlas Tamazight, Tashelhit), co-official with Arabic and written in Tifinagh, Arabic or Latin script.
+- **Reconstituted alphabet** (*Tifinagh*) — Ancient Libyco-Berber consonantal script reconstituted as the official alphabet for Tamazight since 2011.
+- **Moroccan colloquial Arabic** (*Darija*) — Local Arabic dialect code-switched with Tamazight by bilingual speakers in daily life.
+- **Sufi brotherhoods** (*tariqa*) — Religious orders (Nasiriyya, Darqawiyya, Tijaniyya) that organize Sufi mystical practice and saint veneration among Berbers.
+- **Local saint shrine** (*siyyid*) — Whitewashed cubical tomb or shrine of a venerated local saint, dotting every ridge and valley in Berber Morocco.
+
+## Glossary
+
+- *Imazighen* — Berbers (plural); free people in Tamazight
+- *Amazigh* — Berber (singular); free person
+- *Tamazight* — The Berber language, with three main Moroccan varieties
+- *Tifinagh* — Ancient Berber alphabet, reconstituted as official script in 2011
+- *Beni Ourain* — Long-shag Middle Atlas wool rug with lozenge pattern
+- *Boucherouite* — Rag rug woven from recycled cloth strips, polychrome
+- *Azilal* — High Atlas flat-and-pile rug with narrative asymmetric drawings
+- *Taznakht* — Kilim-pile rug from Ouarzazate in dense geometric fields
+- *handira* — Wedding cape of heavy off-white wool fringed with metal sequins
+- *djellaba* — Long hooded wool or cotton robe with wide sleeves, worn by men
+- *burnous* — Hooded sleeveless wool cape worn by men for warmth
+- *tagelmust* — Five-meter indigo veil wound around head and face by southern men
+- *tizerzai* — Paired silver fibulae that pin the shoulders of wrapped dress
+- *tighremt* — Tall mud-brick fortified house with corner towers and geometric relief
+- *ksar* — Fortified village compound with shared walls and covered lanes
+- *ighrem* — Fortified structure; plural igherman
+- *agadir* — Multi-storey communal granary with individual family storage cells
+- *khaima* — Low nomadic tent of woven goat and camel hair
+- *afrag* — Woven curtain dividing the khaima tent into male and female sections
+- *tagine* — Conical lidded earthenware cooking pot, or the stew cooked in it
+- *khamsa* — Five-fingered hand pendant against the evil eye; five-hand apotropaic motif
+- *ahidus* — Middle Atlas antiphonal line-dance with sung couplets and bendir drums
+- *ahwash* — High Atlas and Souss line-dance with slow opening, acceleration and climax
+- *rwais* — Professional Chleuh bardic troupes singing narrative songs with ribab and lotar
 
 ## Sources & further reading
 
-- Wikipedia: *Berbers*, *Amazigh people*, *Tamazight language*, *Beni Ourain*, *Boucherouite*, *Azilal rug*, *Taznakht*, *Berber jewelry*, *Kabyle jewelry*, *Tagelmust*, *Berber tattoo*, *Ahwash*, *Ahidus*, *Rwais*, *Ksar*, *Tighremt*, *Agadir (granary)*, *Yennayer*, *Imilchil marriage festival*.
-- UNESCO Intangible Cultural Heritage: *Taskiwin, martial dance of the western High Atlas* (2017, Urgent Safeguarding); *Argan, practices and know-how concerning the argan tree* (2014); *Couscous, knowledge, know-how and practices* (2020, multinational); *Gnawa* (2019).
-- Bynon, James. *Berber Studies*. Cambridge, various.
-- Becker, Cynthia. *Amazigh Arts in Morocco: Women Shaping Berber Identity*. University of Texas Press, 2006.
-- Rabaté, Marie-Rose and Jacques Rabaté. *Bijoux du Maroc: du Haut-Atlas à la Vallée du Draa*. ACR / Le Fennec, 1996.
-- Ramirez, Francis and Christian Rolot. *Tapis et tissages du Maroc*. ACR Édition, 1995.
-- Sijelmassi, Mohamed. *Les arts traditionnels au Maroc*. ACR Édition, 1994.
-- Hoffman, Katherine E. *We Share Walls: Language, Land, and Gender in Berber Morocco*. Wiley-Blackwell, 2008.
+- Wikipedia: Berbers, Amazigh people, Tamazight language, Beni Ourain, Boucherouite, Azilal rug, Taznakht, Berber jewelry, Kabyle jewelry, Tagelmust, Berber tattoo, Ahwash, Ahidus, Rwais, Ksar, Tighremt, Agadir (granary), Yennayer, Imilchil marriage festival.
+- UNESCO Intangible Cultural Heritage: Taskiwin, martial dance of the western High Atlas (2017, Urgent Safeguarding); Argan, practices and know-how concerning the argan tree (2014); Couscous, knowledge, know-how and practices (2020, multinational); Gnawa (2019).
+- Bynon, James. Berber Studies. Cambridge, various.
+- Becker, Cynthia. Amazigh Arts in Morocco: Women Shaping Berber Identity. University of Texas Press, 2006.
+- Rabaté, Marie-Rose and Jacques Rabaté. Bijoux du Maroc: du Haut-Atlas à la Vallée du Draa. ACR / Le Fennec, 1996.
+- Ramirez, Francis and Christian Rolot. Tapis et tissages du Maroc. ACR Édition, 1995.
+- Sijelmassi, Mohamed. Les arts traditionnels au Maroc. ACR Édition, 1994.
+- Hoffman, Katherine E. We Share Walls: Language, Land, and Gender in Berber Morocco. Wiley-Blackwell, 2008.
 - Institut Royal de la Culture Amazighe (IRCAM), Rabat — publications on Tamazight linguistics and literature.
+

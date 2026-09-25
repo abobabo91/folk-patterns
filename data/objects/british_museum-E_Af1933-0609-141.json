@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1933-0609-141",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1933-0609-141",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1933-0609-141",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1933.0609.141",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Xhosa",
+    "tradition": "Xhosa",
+    "art_form": "ceramic",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a handmade, burnished reddish-brown clay vessel with an irregular rim, consistent with traditional Southern African (including Xhosa) pottery-making traditions; nothing contradicts the claimed attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic"
+  },
+  "physical": {
+    "title": "vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Vessel made of pottery.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/xhosa/ceramic/xhosa/images/bm_E_Af1933-0609-141.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f06c265b4c037077e24e03ec47099544e57353525e89b5f20ed75c5911e9f54a",
+      "bytes": 40119,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\xhosa\\ceramic\\xhosa\\images\\bm_E_Af1933-0609-141.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T13:39:20.190320+00:00"
+}
