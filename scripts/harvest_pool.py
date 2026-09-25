@@ -307,12 +307,13 @@ def harvest_met() -> None:
     keep = ["Arts of Africa, Oceania, and the Americas", "Islamic Art", "Asian Art", "Musical Instruments",
             "Costume Institute", "Arms and Armor"]
     df = df[df["Is Public Domain"] & df.Department.isin(keep) & (df["Object End Date"] >= 1700)].fillna("")
+    df.columns = [c.lower().replace(" ", "_") for c in df.columns]   # itertuples by name, not position
     with _writer("met") as f:
         for r in df.itertuples(index=False):
-            f.write(_row("met", r[0], "csv", people=r.Culture or None, object_name=r[3] or None, title=r.Title or None,
-                         material=r.Medium or None, date=r[8] or None,
-                         place=", ".join(x for x in (r.Country, r.Region) if x) or None,
-                         provider=r.Department, url=r[11] or None))
+            f.write(_row("met", r.object_id, "csv", people=r.culture or None, object_name=r.object_name or None,
+                         title=r.title or None, material=r.medium or None, date=r.object_date or None,
+                         place=", ".join(x for x in (r.country, r.region) if x) or None,
+                         provider=r.department, url=r.link_resource or None))
     print(f"met: {len(df)}")
 
 

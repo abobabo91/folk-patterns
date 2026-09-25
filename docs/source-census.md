@@ -112,6 +112,6 @@ Total named, new: **~32,000 usable** against 4,383 shown — BM 24,083, European
 | Cleveland | 9,778 | the department dump |
 | Smithsonian | 1,456 | stopped after 9 cultures: NMNH Anthropology rows carry no image |
 
-Which atlas culture a row belongs to is not decided here: shared names (Kazakh, Kurd, Uzbek, Lao, Turkmen), broad names (Miao for Hmong, Herero for Himba) and place-only rows (V&A) need the place, and that is the next step.
+Which atlas culture a row belongs to is decided by `scripts/assign_pool.py` → `data/pool/assigned.jsonl`. Each row gets a status: named, split (a shared name resolved by place), text, check (broad names, and known collisions such as Europeana "Kongo" = Congo) or candidate (place only). Each row also gets a kind from a rule map. Last run: 116,881 assignments over 68,339 distinct objects. Yoruba has 2,601 confident objects in 262 kinds; Persian is almost all candidate (V&A 4,755). `scripts/normalize_kinds.py` maps the raw object names in every language to one English kind plus an art_form with an LLM. Only a 250-name sample has run.
 
 What one culture's pool looks like — BM Yoruba, 2,569 objects in 215 kinds: textile / cloth / adire ≈ 690, figure + ibeji ≈ 490, mask ≈ 175, then a long tail (82 kinds occur once: doors, house-posts, mancala boards, bullroarers). A random 72 held before were 54 adire.
