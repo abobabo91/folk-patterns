@@ -89,7 +89,7 @@ python scripts/build_index.py
 
 # 6. run the site (Astro dev on :4321), or deploy it
 cd site && npm run dev
-cd site && npm run prepare-data && vercel --prod
+cd site && npm run prepare-data && vercel --prod --archive=tgz
 ```
 
 Individual scrapers still exist (`scrape_region.py`, `scrape_cleveland.py`,

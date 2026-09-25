@@ -63,7 +63,7 @@ Four-stage pipeline. Each stage writes to disk; each downstream stage reads from
 
 - Astro static site generator. React island (`GlobeSwitcher`, `MapLibreGlobe`, `EthnicityPanel`) only where interactivity is needed.
 - `site/scripts/sync-public.mjs` mirrors what the site reads — `index.json`, `globe.json`, `ethnicities/`, `objects/` — from `../data/` into `site/public/data/` before dev/build, replacing the shard folders so a dropped object loses its page. Nothing else from `data/` (scrape caches, vetting transcripts) is published. `site/public/data/world-countries.geojson` is the site's own file and the only tracked one there. Images are not copied: `build_index.py` writes R2 URLs.
-- Deploy: `vercel --prod` from `site/` (project `folk-patterns`). Vercel builds from the uploaded `site/`, where `../data` does not exist, so the uploaded `public/data` is what ships — run `npm run prepare-data` (or `npm run build`) locally first.
+- Deploy: `vercel --prod --archive=tgz` from `site/` (project `folk-patterns`). Without `--archive=tgz` the CLI uploads every shard as its own file; ~9,000 files trip the free tier's "more than 5000" upload limit (`api-upload-free`), which then blocks all uploads for 24 hours (hit 2026-09-24). `.vercelignore` keeps `node_modules`, `.astro`, `dist` and `.env` out. Vercel builds from the uploaded `site/`, where `../data` does not exist, so the uploaded `public/data` is what ships — run `npm run prepare-data` (or `npm run build`) locally first.
 - Pages: `/` (globe landing), `/object/[id]` (per-object detail).
 
 ## Caching layers
