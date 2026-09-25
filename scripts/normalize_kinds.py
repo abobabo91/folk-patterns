@@ -66,8 +66,9 @@ NAMES
 
 def _names(world: bool = False) -> collections.Counter:
     c = collections.Counter()
-    if world:   # object names from world_peoples.py harvest
-        for l in (DATA_DIR / "world" / "bm_objects.jsonl").read_text(encoding="utf-8").splitlines():
+    if world:   # object names from world_peoples.py harvest + local
+        for fn in ("bm_objects.jsonl", "local_objects.jsonl"):
+          for l in (DATA_DIR / "world" / fn).read_text(encoding="utf-8").splitlines():
             for o in json.loads(l)["objects"]:
                 n = (o.get("name") or "").strip()[:120]
                 if n:

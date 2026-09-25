@@ -6,6 +6,7 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py aliases      # Wikidata English aliases of the names BM found 0 for
     python scripts/world_peoples.py bm --aliases # retry those under their aliases
     python scripts/world_peoples.py europeana    # hits at ethnographic providers per name
+    python scripts/world_peoples.py local        # Met + Cleveland pool rows whose people field names it
     python scripts/world_peoples.py classify     # Wikipedia summary + Haiku: a people? where?
     python scripts/world_peoples.py harvest      # BM object names per people (<= 500), for category breadth
     python scripts/world_peoples.py report       # -> data/world/peoples.json
@@ -237,6 +238,70 @@ def _counts(src: str) -> dict[str, dict]:
     return {d["key"]: d for d in (json.loads(l) for l in p.read_text(encoding="utf-8").splitlines() if l.strip())}
 
 
+def _fold(s: str) -> str:
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFKD", s or "") if not unicodedata.combining(c)).lower()
+
+
+# Parts of a Met culture field that name a period, court or market, not a
+# people: "Japan, Edo period", "Mughal India, court of Akbar", "for the Japanese market".
+_NOT_PEOPLE = re.compile(r"period|dynasty|court of|reigned|kingdom|empire|market|made for|style of", re.I)
+
+
+def _people_text(r: dict) -> str:
+    """The part of a pool row's people field that can name a people.
+    Cleveland writes a place path and then the maker ("Africa, Central Africa,
+    Democratic Republic of the Congo, Kuba-style maker"): only the maker counts,
+    or the alias "Congo" matches every object from the DRC."""
+    parts = [x.strip() for x in r["people"].split(",")]
+    if r["source"] == "cleveland":
+        if _NOT_PEOPLE.search(parts[-1]):   # Asian rows end in a period: "Japan, Edo period (1615–1868)"
+            return ""
+        m = re.sub(r"(possibly|probably|unknown|workshop|-?style|maker|artist|people|peoples)", " ", parts[-1], flags=re.I)
+        return m if len(parts) > 1 and m.strip() else ""
+    return ", ".join(x for x in parts if not _NOT_PEOPLE.search(x))
+
+
+def cmd_local() -> None:
+    """Met and Cleveland rows already in data/pool (harvest_pool.py) whose
+    people / culture field names the people, as a whole word or phrase:
+    "Asmat people", "Africa, West Africa, Burkina Faso, Bwa". Free, no requests.
+    -> data/world/local_objects.jsonl, one line per key with the matched objects."""
+    pool = REPO / "data" / "pool"
+    rows = []
+    for src in ("met", "cleveland"):
+        for l in (pool / f"{src}.jsonl").read_text(encoding="utf-8").splitlines():
+            try:
+                r = json.loads(l)
+            except ValueError:
+                continue
+            if r.get("people") and _people_text(r):
+                rows.append(r)
+    # index word n-grams (1-3) of the folded people text -> row positions
+    index: dict[str, set[int]] = {}
+    for i, r in enumerate(rows):
+        w = re.findall(r"[^\W_]+(?:['’][^\W_]+)?", _fold(_people_text(r)).replace("-", " "))
+        for n in (1, 2, 3):
+            for j in range(len(w) - n + 1):
+                index.setdefault(" ".join(w[j:j + n]), set()).add(i)
+    al_p = OUT / "aliases.json"
+    al = json.loads(al_p.read_text(encoding="utf-8")) if al_p.exists() else {}
+    with open(OUT / "local_objects.jsonl", "w", encoding="utf-8") as f:
+        hit = 0
+        for k, l in _names():
+            names = list(dict.fromkeys(v for x in [l] + al.get(k, []) for v in variants(x)))
+            found: set[int] = set()
+            for v in names:
+                key = " ".join(re.findall(r"[^\W_]+(?:['’][^\W_]+)?", _fold(v).replace("-", " ")))
+                if len(key) >= 3:
+                    found |= index.get(key, set())
+            objs = [{"source": rows[i]["source"], "id": rows[i]["id"], "name": rows[i].get("object_name") or rows[i].get("title"),
+                     "people": rows[i]["people"]} for i in sorted(found)]
+            f.write(json.dumps({"key": k, "label": l, "objects": objs}, ensure_ascii=False) + "\n")
+            hit += bool(objs)
+    print(f"{len(rows)} Met + Cleveland rows with a people field; {hit} of {len(_names())} names match at least one")
+
+
 def _bm_name(k: str) -> str | None:
     """The spelling the BM answered to (first pass or alias pass)."""
     for d in (_counts("bm").get(k), _counts("bm_alias").get(k)):
@@ -328,7 +393,7 @@ def cmd_classify(threshold: int) -> None:
     cache_p = OUT / "classified.json"
     cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
     wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
-    rows = [r for r in _rows() if max(r["bm"], r["europeana"]) >= threshold and r["key"] not in cache]
+    rows = [r for r in _rows() if max(_museums(r), r["europeana"]) >= threshold and r["key"] not in cache]
     print(f"classify: {len(rows)} names ({len(cache)} cached)", flush=True)
     with httpx.Client(timeout=30, headers=UA, follow_redirects=True) as cl:
         sums = [_summary(cl, r["article"]) if r.get("article") else "" for r in rows]
@@ -357,9 +422,22 @@ def cmd_classify(threshold: int) -> None:
         print(f"  batch {i}: {len(got)}/{len(batch)} classified, ${ev.get('total_cost_usd') or 0:.3f}", flush=True)
 
 
+def _local() -> dict[str, list[dict]]:
+    p = OUT / "local_objects.jsonl"
+    if not p.exists():
+        return {}
+    return {d["key"]: d["objects"] for d in (json.loads(l) for l in p.read_text(encoding="utf-8").splitlines())}
+
+
+def _museums(r: dict) -> int:
+    """Image objects in the museums with a people field: BM (first-page count) + Met + Cleveland."""
+    return r["bm"] + r.get("local", 0)
+
+
 def _rows() -> list[dict]:
     wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
     bm, bma, eu = _counts("bm"), _counts("bm_alias"), _counts("europeana")
+    loc = _local()
     atlas = set(_atlas_names())
     rows = []
     for k, l in _names():
@@ -367,7 +445,7 @@ def _rows() -> list[dict]:
         e = max((eu.get(k) or {}).get("hits", {0: 0}).values() or [0])
         w = wd.get(k, {})
         rows.append({"key": k, "label": l, "country": w.get("country"), "sitelinks": w.get("sitelinks"),
-                     "article": w.get("article"), "bm": b, "europeana": e,
+                     "article": w.get("article"), "bm": b, "local": len(loc.get(k, [])), "europeana": e,
                      "in_atlas": k.startswith("atlas:") or any(v in atlas for v in variants(l))})
     return rows
 
@@ -390,35 +468,40 @@ def cmd_report(threshold: int) -> None:
     objs_p = OUT / "bm_objects.jsonl"
     objs = {d["key"]: d for d in (json.loads(l) for l in objs_p.read_text(encoding="utf-8").splitlines())} if objs_p.exists() else {}
     atlas_bm = _atlas_bm_names()
-    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and max(r["bm"], r["europeana"]) >= threshold]
+    loc = _local()
+    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and max(_museums(r), r["europeana"]) >= threshold]
     for r in rows:
         r.update({k: v for k, v in (cls.get(r["key"]) or {}).items() if k != "key"})
         o = objs.get(r["key"])
         r["bm_name"] = _bm_name(r["key"])
         r["in_atlas"] = r["in_atlas"] or (r["bm_name"] in atlas_bm)
-        r["tier"] = "bm" if r["bm"] >= threshold else "europeana-only"
-        if o:
+        r["tier"] = "bm" if _museums(r) >= threshold else "europeana-only"
+        sample = ((o or {}).get("objects") or []) + loc.get(r["key"], [])
+        if sample:
             cnt: dict[str, int] = {}
-            for x in o["objects"]:
+            for x in sample:
                 af = (kinds.get((x.get("name") or "").strip()[:120]) or {}).get("art_form", "unclassified")
                 cnt[af] = cnt.get(af, 0) + 1
-            r["sampled"] = len(o["objects"])
+            r["sampled"] = len(sample)
             r["categories"] = dict(sorted(cnt.items(), key=lambda x: -x[1]))
             r["breadth"] = sum(1 for c in _CATS if cnt.get(c, 0) >= 5)
-            r["photo_share"] = round(cnt.get("photo", 0) / max(1, len(o["objects"])), 2)
+            r["photo_share"] = round(cnt.get("photo", 0) / max(1, len(sample)), 2)
     keep = [r for r in rows if r.get("people")]
     # one row per BM name: "Arahuacos (Arawak)" and "Lokono" both resolve to BM "Arawak"
+    # one row per BM name (or, with no BM hit, per identical set of Met/Cleveland objects)
+    def dk(r: dict) -> str:
+        return r["bm_name"] or "local:" + ",".join(sorted(o["id"] for o in loc.get(r["key"], [])))
     best: dict[str, dict] = {}
     for r in keep:
         if r["tier"] != "bm":
             continue
-        b = best.get(r["bm_name"])
+        b = best.get(dk(r))
         if b is None or (r.get("sitelinks") or 0) > (b.get("sitelinks") or 0):
-            best[r["bm_name"]] = r
+            best[dk(r)] = r
     for r in keep:
-        if r["tier"] == "bm" and best[r["bm_name"]] is not r:
-            best[r["bm_name"]].setdefault("also", []).append(r["label"])
-    keep = [r for r in keep if r["tier"] != "bm" or best[r["bm_name"]] is r]
+        if r["tier"] == "bm" and best[dk(r)] is not r:
+            best[dk(r)].setdefault("also", []).append(r["label"])
+    keep = [r for r in keep if r["tier"] != "bm" or best[dk(r)] is r]
     keep.sort(key=lambda r: (r.get("continent") or "?", r["tier"] != "bm", -(r.get("breadth") or 0), -(r.get("sampled") or 0)))
     (OUT / "peoples.json").write_text(json.dumps(keep, ensure_ascii=False, indent=0), encoding="utf-8")
     _write_doc(keep, threshold)
@@ -437,22 +520,26 @@ def cmd_report(threshold: int) -> None:
 def _write_doc(keep: list[dict], threshold: int) -> None:
     lines = ["# World peoples with museum evidence", "",
              "Generated by `python scripts/world_peoples.py report` — do not edit by hand.", "",
-             f"A people is listed when the British Museum holds {threshold}+ image objects under its "
-             "\"Ethnic group\" name. **Breadth** is how many of the 12 object categories (photo and unclassified "
-             "excluded) have 5+ objects in a sample of up to 500 BM objects. Categories come from each object's "
+             f"A people is listed when the museums with a people field hold {threshold}+ image objects under its "
+             "name: the British Museum \"Ethnic group\" and the Met and Cleveland culture fields (the Met: public "
+             "domain, 1700 or later). **Met+Cle** is that count. The Met's European entries (French, German) come "
+             "from its costume and arms departments, not folk collections. The V&A names places, not peoples, so it "
+             "cannot be counted per people. Smithsonian anthropology has no open images. **Breadth** is how many of "
+             "the 12 object categories (photo and unclassified excluded) have 5+ objects in a sample of up to 500 BM "
+             "objects plus every Met/Cleveland match. Categories come from each object's "
              "BM name via `normalize_kinds.py` (Haiku). **BM** is capped at 500 by the sample. **Eur.** counts "
              "records at ethnographic providers in Europeana that mention the name. It is a text match, so it "
              "is only a hint. Peoples only Europeana finds are listed separately, because most of those are "
              "word collisions (\"Iron\" for Ossetians, \"Bali\", \"Dan\").", ""]
     for cont in sorted({r.get("continent") or "?" for r in keep}):
         rs = [r for r in keep if (r.get("continent") or "?") == cont and r["tier"] == "bm"]
-        lines += [f"## {cont} — {len(rs)}", "", "| people | country | region | in atlas | BM | breadth | photo | top categories | Eur. |",
-                  "|---|---|---|:-:|--:|--:|--:|---|--:|"]
+        lines += [f"## {cont} — {len(rs)}", "", "| people | country | region | in atlas | BM | Met+Cle | breadth | photo | top categories | Eur. |",
+                  "|---|---|---|:-:|--:|--:|--:|--:|---|--:|"]
         for r in rs:
             top = ", ".join(f"{k} {v}" for k, v in list((r.get("categories") or {}).items())[:4])
             also = f" (also {', '.join(r['also'])})" if r.get("also") else ""
             lines.append(f"| [{r['label']}]({r.get('article') or ''}){also} | {r.get('country') or ''} | {r.get('region') or ''} | "
-                         f"{'✓' if r['in_atlas'] else ''} | {r.get('sampled', r['bm'])} | {r.get('breadth', '')} | "
+                         f"{'✓' if r['in_atlas'] else ''} | {r.get('sampled', 0) - r.get('local', 0)} | {r.get('local', 0)} | {r.get('breadth', '')} | "
                          f"{int(100 * (r.get('photo_share') or 0))}% | {top} | {r['europeana']} |")
         lines.append("")
     eo = [r for r in keep if r["tier"] != "bm"]
@@ -464,10 +551,10 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "classify", "harvest", "report"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "report"])
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
-    {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana,
+    {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local,
      "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages)}.get(a.step, lambda: cmd_report(a.threshold))()
