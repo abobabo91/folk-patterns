@@ -19,7 +19,7 @@ Live map: a spinnable dark globe with a marker per ethnicity. Click a marker →
 
 **Status:** 4 regions — Central Asia, MENA, Southeast Asia, Sub-Saharan Africa — 34 countries, 71 ethnicities, 4,625 records and 5,745 image files in `library/`, each with a Claude-drafted writeup.
 
-**Currently mid-re-vet.** `scripts/vet_images.py` judges every image against its ethnicity and category ([docs/vetting.md](docs/vetting.md)); the whole library is being re-run through it because every stored verdict predates the current prompt. The built index in `data/` and the deployed site are older than the library and will be rebuilt once vetting completes. No new cultures until then.
+**Library fully vetted, index not yet rebuilt.** `scripts/vet_images.py` judges every image against its ethnicity and category ([docs/vetting.md](docs/vetting.md)). All 4,625 records carry a verdict from the current prompt (2026-09-24, mostly judged in Claude Code cloud sessions — [docs/cloud-vetting.md](docs/cloud-vetting.md)): 3,755 kept, 870 dropped. The built index in `data/` and the deployed site are older than these verdicts and are rebuilt next. No new cultures until then.
 
 ## How it works
 

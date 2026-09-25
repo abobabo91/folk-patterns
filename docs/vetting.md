@@ -192,13 +192,10 @@ The remaining ERA differences from the long prompt are ones the short prompt get
 
 Verdicts written by the long prompt (the pilot and batch b001) count as current and are not re-run. Batch b002 was judged before the category fix: its 38 drops were re-judged with the current prompt (`data/vet_verdicts/b002-drops-rejudged.jsonl`, applied after `b002.jsonl`; 7 flipped to YES), its keeps stand, since that fix only makes the judge keep more.
 
-## Agreed next step
+## Next steps
 
-1. **Full `--force` re-vet of all 4,625 records.** Not a resume — every stored verdict predates the current prompt.
-2. **Run it in chunks sized to the token budget** (`--limit N`). Start with one small persisted chunk (~200, without `--dry-run`) to confirm writes land correctly; all validation so far has been dry-run.
-3. **Do not rebuild the index, deploy, or add any culture until it completes.** Build once on complete verdicts so the site is never a mix of judged and unjudged records.
-4. **Then** revisit `build_index.py`'s `_TRUSTED_MUSEUM_SOURCES` bypass with the finished numbers. It exists to protect against a vetter that could not be trusted; with complete verdicts from one that can, it probably comes out — but decide on the data, not in advance.
-5. **Before the next culture is added,** wire the vetter into `add_culture.py` so new material arrives judged instead of needing its own sweep.
+The full re-vet is done: on 2026-09-24 every one of the 4,625 records carries a verdict from the current prompt — 3,755 kept, 870 dropped (19%); IMAGE good 4,428 / weak 141 / unusable 56; ERA traditional 3,556 / modern 579 / archaeological 490. The run: [cloud-vetting.md](cloud-vetting.md#full-run--2026-09-24).
 
-Expected outcome at the measured ~26% drop rate: roughly **3,400 records** survive. The deployed site currently shows 1,534, so the vetted collection is still more than double what is published.
-
+1. **Rebuild the index and deploy** on these verdicts. The site is never to be a mix of judged and unjudged records, and it no longer would be.
+2. **Revisit `build_index.py`'s `_TRUSTED_MUSEUM_SOURCES` bypass** with the finished numbers. It exists to protect against a vetter that could not be trusted; with complete verdicts from one that can, it probably comes out — but decide on the data, not in advance.
+3. **Before the next culture is added,** wire the vetter into `add_culture.py` so new material arrives judged instead of needing its own sweep.

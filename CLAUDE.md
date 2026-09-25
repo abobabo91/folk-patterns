@@ -13,37 +13,25 @@ reason to exclude. The in/out table is in
 judge every filtering question against it. The name `folk-patterns` is kept
 for continuity only.
 
-## Current priority: re-vet the whole library, then stop
+## Current priority: rebuild on the vetted library, then stop
 
-**The prompt is aligned with the scope and calibrated** (60 records,
-2026-09-24 — [docs/vetting.md](docs/vetting.md)). The vetter runs on
-Sonnet (Haiku missed every WEAK image) at the default 3 workers — more
-trips a server-side rate limit. `build_index.py` drops `vision_image ==
-"unusable"`, sinks weak images to the end of each gallery and exports
-`era`. Next: the full `--force` pass, judged in cloud sessions to spend cloud credit
-— procedure and pilot in [docs/cloud-vetting.md](docs/cloud-vetting.md).
+**The re-vet is complete** (2026-09-24). All 4,625 records carry a verdict
+from the current prompt — 3,755 kept, 870 dropped — judged by
+`scripts/vet_judge.py` (Sonnet, one bare `claude --print` per image, the
+rules as a cached system prompt), locally or in Claude Code cloud sessions
+([docs/cloud-vetting.md](docs/cloud-vetting.md)). Why it is trusted and what
+the prompt encodes: [docs/vetting.md](docs/vetting.md). `build_index.py`
+drops `vision_image == "unusable"`, sinks weak images to the end of each
+gallery and exports `era`.
 
-`scripts/vet_images.py` is the quality gate and it works — it looks at each
-image, decides whether it belongs under its ethnicity and category, and says
-why. Verified 2026-08-28: blind-tested to confirm it reads pixels, 13/13
-correct on a fresh sample, stable across repeat runs, ~26% drop rate. Full
-evidence and the rules it encodes: [docs/vetting.md](docs/vetting.md).
+Next, in order ([docs/vetting.md → Next steps](docs/vetting.md#next-steps)):
 
-**Every verdict currently in the library predates that prompt** and must be
-re-run with `--force`. Roughly 4,600 records. Until that finishes:
-
-- **Do NOT add new cultures or regions.** `add_culture.py` works, but adding
-  more material to an unvetted library multiplies the cleanup rather than
-  reducing it. One trustworthy collection first.
-- **Do NOT rebuild the index or deploy** on partial verdicts. Build once,
-  when the re-vet is complete, so the site is never a mix of judged and
-  unjudged records.
-- Run it in chunks sized to the token budget (`--limit N`). It is resumable —
-  records with a real verdict are skipped, failed ones are retried.
-
-Once the library is fully vetted, that becomes the baseline collection and
-new cultures can be added on top. Wire the vetter into `add_culture.py` at
-that point so new material arrives pre-judged instead of needing a sweep.
+- Rebuild the index and deploy on the complete verdicts.
+- Revisit `build_index.py`'s `_TRUSTED_MUSEUM_SOURCES` bypass with the
+  finished numbers.
+- **Do NOT add new cultures or regions** until the vetter is wired into
+  `add_culture.py`, so new material arrives judged instead of needing its
+  own sweep.
 
 ## The one command for everything
 

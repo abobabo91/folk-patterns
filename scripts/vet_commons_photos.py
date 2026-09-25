@@ -33,7 +33,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 import requests
 
 MEDIA_DIR = Path(__file__).resolve().parents[1] / "content" / "media"
-UA = "folk-patterns/0.1 (research atlas)"
+# Wikimedia answers 429 to a User-Agent without contact info and 200 with one
+# (measured 2026-09-24 on upload.wikimedia.org originals).
+UA = "folk-patterns/0.1 (https://github.com/abobabo91/folk-patterns; research atlas)"
 MODEL = "claude-haiku-4-5-20251001"
 
 

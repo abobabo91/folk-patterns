@@ -80,7 +80,7 @@ sgdap.girona.cat
 <the R2 public bucket host — public_base_url in the vault>
 ```
 
-No environment variables, secrets or setup script: `cloud_vet_batch.py` is standard library only (Pillow, installed with pip in the session, adds downscaling) and every image URL is public. The "default list of common package managers" option is on, so `pip` works. Wikimedia answers 429 at 6 parallel downloads, so `fetch` spaces requests to one host 1 s apart and backs off on 429.
+No environment variables, secrets or setup script: `cloud_vet_batch.py` is standard library only (Pillow, installed with pip in the session, adds downscaling) and every image URL is public. The "default list of common package managers" option is on, so `pip` works. `fetch` spaces requests to one host 1 s apart and backs off on 429. **Wikimedia answers 429 to a User-Agent without contact information** and 200 to the same request once the UA carries the repo URL (measured 2026-09-24 on `upload.wikimedia.org` originals, one request each); the UA in `cloud_vet_batch.py` and `vet_images.py` carries it. Before that fix, 2–4% of every cloud batch (8–17 of ~1,030) failed on Wikimedia 429 even after a second `fetch`; with it, a local retry of all 47 fetched 47 / 47.
 
 `media.britishmuseum.org` serves its certificate without the intermediate (Corporation Service Company RSA OV SSL CA). Browsers and Windows fetch it through AIA; Python in the cloud sandbox does not, and `crt.sectigo.com` is not reachable from there, so every British Museum download failed `CERTIFICATE_VERIFY_FAILED` in the pilot's first fetch (30 of 117). The intermediate is committed at `scripts/certs/extra-intermediates.pem` and added to the default trust store by `fetch`; verified 2026-09-24 against certifi's roots alone (fails without the file, downloads with it). Another host with the same fault gets its intermediate appended to that file.
 
@@ -133,3 +133,21 @@ The 117 pilot records re-exported (`pilot3`) and judged locally with the current
 200 records (`--todo --seed 2`), judged in cloud session `claude/elegant-lovelace-8t0fa4` with the short cached prompt (main model Sonnet 5, low effort) — the first cloud batch on it. 198 judged in two `judge` runs, 0 failed judgements, 2 downloads lost to Wikimedia 429 (retryable). The first run reported $1.42 for 150 records. Credit **$221 → $218** for the whole session (the page shows whole dollars), i.e. ~$0.015 per record including the main session, against $0.025 for b001.
 
 Reading the 38 drops found the category-driven drops described in [vetting.md](vetting.md#short-cached-prompt--2026-09-24); after the prompt fix they were re-judged locally ($0.41) and 7 flipped to YES. Applied: `b002.jsonl`, then `b002-drops-rejudged.jsonl` — 167 kept, 31 dropped. The right drops, read: European engravings and a Rubens costume sketch, ukiyo-e under Maasai, Indian deity paintings under Fang, Dutch travel engravings under Cham, a Manila newspaper, a map of German East Africa, a necktie of Thai silk by a French designer, Akdamar's Armenian church under Kurdish, Bamum residents under Fulani, a Batak jacket under Minangkabau.
+
+## Full run — 2026-09-24
+
+The remaining 4,108 records as four batches of ~1,030 (`b003`–`b006`, `--todo --seed 3 --exclude-batches`), one cloud session each, all four running at once (main model Sonnet 5, low effort). About 75 minutes end to end, a third of it `fetch`.
+
+| Batch | Judged | Failed judgements | Download failures | Reported | Kept / dropped | Branch |
+|---|---|---|---|---|---|---|
+| b003 | 1,013 | 0 | 17 | $9.61 | 814 / 199 | `claude/hopeful-sagan-3kxdmw` |
+| b004 | 1,021 | 0 | 9 | $9.68 | 813 / 208 | `claude/trusting-gates-sxe02q` |
+| b005 | 1,022 | 0 | 8 | $9.62 | 852 / 170 | `claude/trusting-carson-g509t1` |
+| b006 | 1,010 | 0 | 8 | $9.43 | 821 / 189 | `claude/vet-b006` |
+
+- **Credit $218 → $171: $47 for 4,066 records, ~$0.0116 per record** including the four main sessions; the judge calls alone reported $38.34 ($0.0094 per record).
+- **Four sessions × 3 workers ran with no rate-limit failure** — 12 concurrent Sonnet calls, 0 failed judgements across 4,066.
+- The 42 download failures plus the 5 left from b001/b002 were re-exported (`r001`, `--todo`), fetched locally with the fixed User-Agent (47 / 47) and judged locally ($0.59): 40 kept, 7 dropped.
+- Not every session follows step 3 unprompted: the b005 session looped `judge` without committing between runs until told to. Check that a batch branch appears on the remote after the first `judge` run.
+- Read before applying, per batch: every drop the category pattern could explain, 15 random drops and 12–20 random keeps. All drops read were right except a domed mudbrick building in Garagos dropped under Nubian as "not a ceramic object" (b003) — the category-driven drop the prompt now guards against, once in ~4,000 — and a gold-tooled Persian album binding dropped as "not the paintings themselves". Keeps read: all right.
+

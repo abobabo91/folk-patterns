@@ -34,7 +34,9 @@ import vet_judge  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT / "work"
-UA = "folk-patterns/0.1 (research atlas)"
+# Wikimedia answers 429 to a User-Agent without contact info and 200 with one
+# (measured 2026-09-24 on upload.wikimedia.org originals).
+UA = "folk-patterns/0.1 (https://github.com/abobabo91/folk-patterns; research atlas)"
 MAGIC = (b"\xff\xd8\xff", b"\x89PNG", b"GIF8", b"RIFF")
 # Wikimedia answers 429 at 6 parallel downloads (measured 2026-09-24), so
 # requests to one host are spaced out; different hosts still run in parallel.
