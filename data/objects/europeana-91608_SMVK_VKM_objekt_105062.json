@@ -14,14 +14,14 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Malaysia",
-    "ethnicity": "Iban",
-    "tradition": "Iban",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dajak Borneo",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is a classic pua kumbu ikat-woven ceremonial cloth with the characteristic anthropomorphic and serpent (nabau) figures typical of Iban textile tradition from Sarawak/Borneo, matching the claimed ethnicity perfectly.",
+    "vision_reason": "This is a handwoven pua kumbu ikat textile with serpent, turtle, and figural motifs typical of Iban weaving; the Iban are a Dayak subgroup of Borneo, so this fits the claimed ethnicity.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/eu_91608_SMVK_VKM_objekt_105062.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/textile/dajak-borneo/images/eu_91608_SMVK_VKM_objekt_105062.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "ade6734860a40c195ca07e20523ccc2fdb1caa0dd72febda59673b38c9ccddd2",
       "bytes": 82038,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\eu_91608_SMVK_VKM_objekt_105062.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\textile\\dajak-borneo\\images\\eu_91608_SMVK_VKM_objekt_105062.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:44:17.243251+00:00"
+  "processed_at": "2026-07-28T18:44:03.720795+00:00"
 }

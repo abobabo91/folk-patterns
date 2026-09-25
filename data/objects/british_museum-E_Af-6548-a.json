@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af-6548-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-6548-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-6548-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.6548.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Ndebele",
+    "tradition": "Ndebele",
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a carved coconut-shell ladle bowl with incised geometric and floral dot-and-line decoration; this is a household utensil plausible for the region, though it is a carved shell vessel rather than fired clay ceramic.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "ladle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "ladle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Ladle bowl made of coconut shell, with incised dot and line design. Handle missing.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/ndebele/ceramic/ndebele/images/bm_E_Af-6548-a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e986d1ac25b44f74fdf2f09b00c4673c9b494e8803168f6b35a8cdb7d62a4bae",
+      "bytes": 86212,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\ndebele\\ceramic\\ndebele\\images\\bm_E_Af-6548-a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:26:06.262387+00:00"
+}

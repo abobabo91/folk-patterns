@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-W_As1973-09-211",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "W_As1973-09-211",
+    "object_url": "https://www.britishmuseum.org/collection/object/W_As1973-09-211",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "W,As1973.09.211",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "central-asia",
+    "country": "Turkmenistan",
+    "ethnicity": "Turkmen",
+    "tradition": "Turkmen",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a leather shoe/slipper with embroidered metal-thread trim and a red-lacquered interior, a type of footwear plausible for Central Asian (Turkmen) traditional dress; the object is clearly visible and consistent with the claimed garment category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": "shoe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shoe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Shoe made of leather, thread (metal).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/turkmenistan/turkmen/garment/turkmen/images/bm_W_As1973-09-211.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d9254ed63996a4d07325f32274fb13f70860684ed443741bea95f2229c7d81f7",
+      "bytes": 57678,
+      "local_path": "library\\central-asia\\turkmenistan\\turkmen\\garment\\turkmen\\images\\bm_W_As1973-09-211.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:20:13.000416+00:00"
+}

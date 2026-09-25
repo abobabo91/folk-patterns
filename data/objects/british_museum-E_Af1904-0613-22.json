@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1904-0613-22",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1904-0613-22",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1904-0613-22",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1904.0613.22",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Kikuyu",
+    "tradition": "Kikuyu",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a wooden fire-making tool (female fire-stick) with four charred hearth notches, a plausible traditional household/tool item consistent with East African use, including Kikuyu.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "fire-stick",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "fire-stick",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Female fire-stick made of wood with four &#039;hearths&#039;.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/unclassified/kikuyu/images/bm_E_Af1904-0613-22.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "78aef0cd5e8c2ab1e3a2b686907df7f52c16907bbd207865bde735f8de18ecfe",
+      "bytes": 72292,
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\unclassified\\kikuyu\\images\\bm_E_Af1904-0613-22.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:18:23.610218+00:00"
+}

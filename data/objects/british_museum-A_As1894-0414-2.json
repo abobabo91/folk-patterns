@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1894-0414-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1894-0414-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1894-0414-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1894.0414.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Iban",
+    "tradition": "Iban",
+    "art_form": "garment",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This is a woven rattan headband decorated with red cloth and porcelain buttons, a type of headwear plausible for Iban dress in Borneo; it is a worn garment, not a ceramic vessel, though the buttons are porcelain.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": "head-band",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-band",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Head-band made of rattan, cloth (flannel), buttons (porcelain).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/ceramic/iban/images/bm_A_As1894-0414-2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "64405cd0944540e1e2af5376ad5b6dba9193a7930f74260ddeed8cb5d6217ecc",
+      "bytes": 49893,
+      "local_path": "library\\southeast-asia\\malaysia\\iban\\ceramic\\iban\\images\\bm_A_As1894-0414-2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:22:37.051773+00:00"
+}

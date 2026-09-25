@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-EA_Af-B72-4",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-B72-4",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B72-4",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.B72.4",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Kikuyu",
+    "tradition": "Kikuyu",
+    "art_form": "photo",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image is a documentary gelatin silver photograph of two Kikuyu children, an older one carrying a younger one on the back with a cloth, both wearing beaded personal ornaments — a genuine ethnographic photo of dress/adornment fitting the claimed people, though the museum mislabeled the category as painting-mss.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Kenya [?], head and shoulders view of two Kikuyu children [male or female?]. Older child carrying younger child on back in cloth. Both wearing personal-ornaments. Rural setting.\nMedium: Gelatin silver print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/painting-mss/kikuyu/images/bm_EA_Af-B72-4.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c7c00e314e6eac3fb812bec4ed11c543a0d4b9fad20ec2acc0eb80f01883881f",
+      "bytes": 26060,
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\painting-mss\\kikuyu\\images\\bm_EA_Af-B72-4.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:17:59.844339+00:00"
+}

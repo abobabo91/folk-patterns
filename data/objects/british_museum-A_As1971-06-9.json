@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1971-06-9",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1971-06-9",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1971-06-9",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1971.06.9",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "ethnicity": "Hmong",
+    "tradition": "Hmong",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a wooden opium pipe with silver embossed bands and a brass/metal bowl, consistent with Hmong opium-smoking paraphernalia known from Vietnam and the wider Southeast Asian highlands. Silver-decorated wood objects like this are plausible Hmong metalwork craft.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
+  },
+  "physical": {
+    "title": "opium-pipe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "opium-pipe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Opium pipe made of wood and embossed with silver decoration, with a brass and wood bowl. The pipe is complete with a metal (iron?) impliment that would have been used to clean and put opium in the pipe. This tool is stored inside the stem of the pipe. The bowl is fixed in place with fine silk padding which is still visible.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/metalwork/hmong/images/bm_A_As1971-06-9.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2a8c6b6dcb7554b3494486edd16caa3c512ed471d984ca1bcf1282e1800e41b7",
+      "bytes": 93608,
+      "local_path": "library\\southeast-asia\\vietnam\\hmong\\metalwork\\hmong\\images\\bm_A_As1971-06-9.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:24:07.772203+00:00"
+}

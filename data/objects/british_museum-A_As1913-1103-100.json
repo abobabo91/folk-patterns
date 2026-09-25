@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1913-1103-100",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1913-1103-100",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1913-1103-100",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1913.1103.100",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Chin",
+    "tradition": "Chin",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a hide shield, a weapon type plausible for Chin material culture, though the metadata describes it as hide/cane rather than metal.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
+  },
+  "physical": {
+    "title": "shield",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shield",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Shield made of hide, cane.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/metalwork/chin/images/bm_A_As1913-1103-100.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e01a5b8cf376667c228c8e513c4fea1e4e412f6e61c6ea57bef2e0a2b1f1068d",
+      "bytes": 42458,
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\metalwork\\chin\\images\\bm_A_As1913-1103-100.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:16:18.775181+00:00"
+}

@@ -14,18 +14,18 @@
   },
   "cultural": {
     "region": "middle-east-north-africa",
-    "country": "Turkey",
-    "ethnicity": "Turkish",
-    "tradition": "Turkish",
+    "country": "Egypt",
+    "ethnicity": "Nubian",
+    "tradition": "Nubian",
     "art_form": "painting-mss",
     "pattern_density": 0,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "Watercolor drawing from a costume album of Constantinople depicting a veiled Turkish woman in a checked ferace with a child, part of a series documenting local dress including Turkish figures—this plate matches the claimed ethnicity.",
-    "vision_confidence": "HIGH",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "This is a leaf from a 19th-century costume album of Constantinople \"types,\" showing a fully veiled woman (checked izar) leading a small child by the hand — consistent with the depiction of a \"Nubian slave\" acting as nurse/attendant to a well-dressed Ottoman child, one of the named subjects in this same album.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
-    "vision_era": "traditional",
-    "art_form_vision": "painting-mss"
+    "vision_era": "traditional"
   },
   "physical": {
     "title": "drawing; album",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/turkish/painting-mss/turkish/images/bm_P_1921-0614-29-58.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/nubian/painting-mss/nubian/images/bm_P_1921-0614-29-58.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "3e0d7c4af828042e920571e7a0b5bfb553f9c1999bc65b98cf6dc588870b912f",
       "bytes": 37466,
-      "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1921-0614-29-58.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\painting-mss\\nubian\\images\\bm_P_1921-0614-29-58.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T19:09:07.067113+00:00"
+  "processed_at": "2026-07-28T19:06:13.093782+00:00"
 }

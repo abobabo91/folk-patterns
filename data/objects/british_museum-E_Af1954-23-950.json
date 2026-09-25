@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1954-23-950",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-950",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-950",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.950",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Gabon",
+    "ethnicity": "Fang",
+    "tradition": "Fang",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows an iron throwing knife with a bird-head-shaped blade and wrapped wooden handle, a form of weapon/currency object typical of Central African groups (Fang and neighboring peoples in Gabon/Cameroon region); this matches the claimed use and origin.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
+  },
+  "physical": {
+    "title": "throwing-knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "throwing-knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Throwing knife with the blade in the shape of the head of a bird, with a wooden handle.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/metalwork/fang/images/bm_E_Af1954-23-950.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9cb2f8e36d22945b6a809dd02198b0724608ea788a33f378bd7f1b4fe111d741",
+      "bytes": 31285,
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\metalwork\\fang\\images\\bm_E_Af1954-23-950.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:27:03.248891+00:00"
+}

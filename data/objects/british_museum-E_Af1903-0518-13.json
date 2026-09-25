@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1903-0518-13",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1903-0518-13",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1903-0518-13",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1903.0518.13",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Kikuyu",
+    "tradition": "Kikuyu",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a wooden oval dance shield painted red, white, and black — this is a wooden object, not metalwork, though shields of this type are plausible East African (Kikuyu/Kamba-region) craft. The category is mismatched but the object itself fits the claimed ethnicity's material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
+  },
+  "physical": {
+    "title": "dance-shield",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dance-shield",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Oval shield made of soft wood, painted red along the long axis, the rest white with two black chevrons.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/metalwork/kikuyu/images/bm_E_Af1903-0518-13.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3f4315ac4ebc419a8ecc9c525abd3a26fee16263b2e9e4657a02a3cf8ea94f4f",
+      "bytes": 43155,
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\metalwork\\kikuyu\\images\\bm_E_Af1903-0518-13.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:18:16.090220+00:00"
+}

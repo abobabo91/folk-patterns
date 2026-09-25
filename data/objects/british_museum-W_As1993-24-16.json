@@ -20,12 +20,12 @@
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
-    "vision_by": "cloud-subagent:sonnet",
-    "art_form_vision": "textile",
-    "vision_reason": "The image shows a red suzani embroidered textile with characteristic rosette medallions and floral vine borders, a classic Central Asian embroidery tradition strongly associated with Uzbek (and neighboring Tajik) craftsmanship.",
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a red embroidered suzani textile with characteristic medallion and floral motifs, a classic Central Asian Uzbek embroidery tradition used as a tent-hanging or curtain.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
-    "vision_era": "traditional"
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "tent-hanging; curtain",
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:26.911760+00:00"
+  "processed_at": "2026-09-25T03:28:05.965712+00:00"
 }

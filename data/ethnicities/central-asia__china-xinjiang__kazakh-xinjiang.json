@@ -40,9 +40,7 @@
         "source": "commons_arch",
         "object_url": "https://commons.wikimedia.org/wiki/File:Baiyanggou Kazakh yurts.jpg",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/architectural/yurts-in-xinjiang/images/carch_9ebafe915e8276c9.jpg",
-        "place": null,
-        "_score": 7,
-        "_fp": "baiyanggou kazakh yurts||"
+        "place": null
       }
     ],
     "textile": [
@@ -58,9 +56,7 @@
         "source": "british_museum",
         "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-2",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As2003-22-2.jpg",
-        "place": null,
-        "_score": 7,
-        "_fp": "rug||"
+        "place": null
       },
       {
         "id": "europeana-91608_SMVK_VKM_objekt_17072",
@@ -74,13 +70,11 @@
         "source": "europeana",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17072?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/eu_91608_SMVK_VKM_objekt_17072.jpg",
-        "place": "Sweden",
-        "_score": 4,
-        "_fp": "matta||"
+        "place": "Sweden"
       },
       {
-        "id": "british_museum-W_As1996-13-5",
-        "title": "bag",
+        "id": "british_museum-W_As2003-22-3",
+        "title": "rug",
         "date_text": null,
         "art_form": "textile",
         "tradition": "Kazakh (Xinjiang)",
@@ -88,11 +82,9 @@
         "era": "traditional",
         "image_quality": "good",
         "source": "british_museum",
-        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-5",
-        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-5.jpg",
-        "place": null,
-        "_score": 7,
-        "_fp": "bag||"
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-3",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As2003-22-3.jpg",
+        "place": null
       },
       {
         "id": "europeana-91608_SMVK_VKM_objekt_4699",
@@ -106,9 +98,63 @@
         "source": "europeana",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4699?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/eu_91608_SMVK_VKM_objekt_4699.jpg",
-        "place": "Sweden",
-        "_score": 4,
-        "_fp": "mönstrad filtmatta||"
+        "place": "Sweden"
+      },
+      {
+        "id": "british_museum-W_As2003-22-4",
+        "title": "rug",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-4",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As2003-22-4.jpg",
+        "place": null
+      },
+      {
+        "id": "europeana-91608_SMVK_VKM_objekt_4698",
+        "title": "mönstrad filtmatta, intarsia, shyrdak",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh Xinjiang",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "europeana",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4698?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/eu_91608_SMVK_VKM_objekt_4698.jpg",
+        "place": "Sweden"
+      },
+      {
+        "id": "british_museum-W_As2003-22-1",
+        "title": "rug",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-1",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As2003-22-1.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-5",
+        "title": "bag",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-5",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-5.jpg",
+        "place": null
       },
       {
         "id": "british_museum-W_As1997-04-6",
@@ -122,9 +168,49 @@
         "source": "british_museum",
         "object_url": "https://www.britishmuseum.org/collection/object/W_As1997-04-6",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1997-04-6.jpg",
-        "place": null,
-        "_score": 7,
-        "_fp": "carpet (?); mat (?); rug (?)||"
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-12",
+        "title": "carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-12",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-12.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-11",
+        "title": "carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-11",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-11.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-8",
+        "title": "carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-8",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-8.jpg",
+        "place": null
       },
       {
         "id": "british_museum-W_As1995-20-10",
@@ -138,9 +224,119 @@
         "source": "british_museum",
         "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-10",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1995-20-10.jpg",
-        "place": null,
-        "_score": 7,
-        "_fp": "tent-cloth; carpet (?); mat (?); rug (?)||"
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1995-20-11",
+        "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-11",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1995-20-11.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-7",
+        "title": "carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-7",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-7.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1995-20-14",
+        "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-14",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1995-20-14.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1995-20-6",
+        "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-6",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1995-20-6.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1995-20-5",
+        "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-5",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1995-20-5.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1995-20-7",
+        "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-7",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1995-20-7.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-13",
+        "title": "carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-13",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-13.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-2",
+        "title": "carpet (?); mat (?); rug (?)",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-2",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-2.jpg",
+        "place": null
       },
       {
         "id": "british_museum-W_As1996-13-3",
@@ -154,9 +350,7 @@
         "source": "british_museum",
         "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-3",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-3.jpg",
-        "place": null,
-        "_score": 7,
-        "_fp": "door-mat; tent-cloth (?)||"
+        "place": null
       },
       {
         "id": "british_museum-W_As1996-13-14",
@@ -170,9 +364,49 @@
         "source": "british_museum",
         "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-14",
         "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-14.jpg",
-        "place": null,
-        "_score": 7,
-        "_fp": "tent-cloth||"
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-9",
+        "title": "tent-cloth",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-9",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-9.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1996-13-10",
+        "title": "tent-cloth",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-10",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-10.jpg",
+        "place": null
+      },
+      {
+        "id": "british_museum-W_As1995-20-2",
+        "title": "tent-cloth",
+        "date_text": null,
+        "art_form": "textile",
+        "tradition": "Kazakh (Xinjiang)",
+        "pattern_density": 3,
+        "era": "traditional",
+        "image_quality": "good",
+        "source": "british_museum",
+        "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-2",
+        "image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1995-20-2.jpg",
+        "place": null
       }
     ]
   },

@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1924-1218-44",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1924-1218-44",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1924-1218-44",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1924.1218.44",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Maasai",
+    "tradition": "Maasai",
+    "art_form": "jewelry",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a leather headband decorated with glass beadwork and metal-and-bead fringes, a type of adornment consistent with Maasai beaded regalia. It is a worn accessory rather than woven cloth, so it fits the culture but not the claimed textile category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
+  },
+  "physical": {
+    "title": "head-band",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-band",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Head-band made of leather and glass beads, ornamented with three metal and bead fringes.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/textile/maasai/images/bm_E_Af1924-1218-44.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "50ea33a93d8ff7e1f06ab592cd3f3d7bad772c4320bf67c9fd847667d462ee17",
+      "bytes": 35457,
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\textile\\maasai\\images\\bm_E_Af1924-1218-44.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:21:53.052158+00:00"
+}

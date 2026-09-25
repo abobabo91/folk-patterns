@@ -14,14 +14,14 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Malaysia",
-    "ethnicity": "Iban",
-    "tradition": "Iban",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dajak Borneo",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is a classic Iban pua kumbu ikat-woven cotton textile with the characteristic ikat diamond and hook motifs, matching the museum's own attribution (\"Sea Dayaks\" is a historical name for Iban) and Sarawak provenance.",
+    "vision_reason": "This is a pua kumbu ikat-woven cotton textile made by the Iban (Sea Dayak), a Dayak subgroup of Sarawak, with typical warp-ikat diamond and hook motifs; Dayak is a correct broader ethnic category for this Iban weaving.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/eu_91608_SMVK_VKM_objekt_105071.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/textile/dajak-borneo/images/eu_91608_SMVK_VKM_objekt_105071.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "c04234cb372f1a1ce25ef1e839fa21653360e66b2c2aa95d0a1a61efeb5584e8",
       "bytes": 75907,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\eu_91608_SMVK_VKM_objekt_105071.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\textile\\dajak-borneo\\images\\eu_91608_SMVK_VKM_objekt_105071.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:44:19.579870+00:00"
+  "processed_at": "2026-07-28T18:44:07.940467+00:00"
 }

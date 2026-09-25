@@ -1,0 +1,95 @@
+{
+  "id": "british_museum-Y_EA10752-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "Y_EA10752-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/Y_EA10752-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "Y,EA10752.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Egypt",
+    "ethnicity": "Egyptian",
+    "tradition": "Nubian",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": false,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "painting-mss",
+    "vision_reason": "The image shows an ancient Egyptian papyrus fragment inscribed in hieratic script (the Semna despatches/magical texts), a genuine artifact made and used by ancient Egyptians, though it is a manuscript rather than household object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "reattribution": {
+      "to": "middle-east-north-africa__egypt__egyptian",
+      "people": "Egyptian",
+      "belongs": true,
+      "art_form": "painting-mss",
+      "image": "good",
+      "era": "archaeological",
+      "reason": "The image shows an ancient Egyptian papyrus fragment inscribed in hieratic script (the Semna despatches/magical texts), a genuine artifact made and used by ancient Egyptians, though it is a manuscript rather than household object."
+    }
+  },
+  "physical": {
+    "title": "papyrus",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "papyrus",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "P. Ramesseum C, Frame 1. Papyrus written on the recto and on the verso in hieratic script. The recto contains despatches from Nubian fortresses (the so-called Semna despatches); P. Ramesseum 18 (EA 10771) is part of the same papyrus and another fragment is mounted in EA 10772.2. On the verso there are magical texts, including an incantation against ghosts, as well as a strengthening strip with accounts.These magical texts consist of similarly constructed paragraphs invoking dangerous spirits who lack some part of their body. The text is written in horizontal lines. This frame contains Despatch no. 1 (page 1, lines 1-13) on the recto and page 5 and end of 4 of the verso on the verso. The papyrus was a full-height roll.\r\n\r\nThe papyrus is part of the collection of papyri found with a bundle of pens in a chest from a plundered late 13th dynasty tomb under the Ramesseum, apparently belonging to someone like a lector priest. Two of the papyri from the chest are in the Egyptian Museum Berlin (P. Ramesseum A and D); the objects are in the Fitzwilliam Museum Cambridge and the Manchester Museum.\r\n\r\nThe papyri are very fragile, apparently due to dampness in the tomb-shaft.  This papyrus was mounted on sheets of gelatin by Hugo Ibscher.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/nubian/household/nubian/images/bm_Y_EA10752-1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "14111cb8e9d362dcec6c167618b2c6343c638a13f00f994ebdc939835946244c",
+      "bytes": 36048,
+      "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\household\\nubian\\images\\bm_Y_EA10752-1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-28T19:07:45.256362+00:00"
+}

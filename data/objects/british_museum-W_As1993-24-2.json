@@ -14,16 +14,16 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Uzbekistan",
-    "ethnicity": "Uzbek",
-    "tradition": "Uzbek",
+    "country": "Afghanistan",
+    "ethnicity": "Hazara",
+    "tradition": "Hazara",
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "garment",
-    "vision_reason": "A vivid ikat silk women's coat/chapan with characteristic bold abstract ikat patterning in magenta, orange, red and purple, a classic Central Asian Uzbek textile form and technique.",
-    "vision_confidence": "HIGH",
+    "vision_reason": "This is a silk ikat chapan-style coat, a garment type widely worn across Central Asian and Afghan groups including Hazara; the ikat weaving tradition and garment form are plausible for the claimed culture, and neighbouring groups' styles cannot be reliably distinguished.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbek/images/bm_W_As1993-24-2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/afghanistan/hazara/garment/hazara/images/bm_W_As1993-24-2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "5009584e89f954713c4a11a4cf0fe7bd8a425c9d17b526db40d66757dc916373",
       "bytes": 69583,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbek\\images\\bm_W_As1993-24-2.jpg"
+      "local_path": "library\\central-asia\\afghanistan\\hazara\\garment\\hazara\\images\\bm_W_As1993-24-2.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:26.564724+00:00"
+  "processed_at": "2026-07-28T18:58:38.048902+00:00"
 }

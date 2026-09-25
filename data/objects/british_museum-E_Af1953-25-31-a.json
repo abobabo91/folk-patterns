@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1953-25-31-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1953-25-31-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1953-25-31-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1953.25.31.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Gabon",
+    "ethnicity": "Fang",
+    "tradition": "Fang",
+    "art_form": "arms",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows an iron-bladed sword with a wooden, wire-bound hilt and a decorated leather sheath, a plausible weapon form for Central African peoples including the Fang, who produced similar edged weapons with woven-wire hilts.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
+  },
+  "physical": {
+    "title": "sword",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sword",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Composite sword with iron blade with chased decoration and wooden hilt bound with bronze  wire.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/metalwork/fang/images/bm_E_Af1953-25-31-a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1e35907ab8f97fe168e0f59f2e4ae2cb510e80d64091d27f9aff98e37bc7deb1",
+      "bytes": 32124,
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\metalwork\\fang\\images\\bm_E_Af1953-25-31-a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:27:37.623633+00:00"
+}

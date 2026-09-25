@@ -17,9 +17,9 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a Claude-drafted encyclopedic writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** 4 regions — Central Asia, MENA, Southeast Asia, Sub-Saharan Africa — 34 countries, 71 ethnicities, 4,625 records and 5,745 image files in `library/`, each with a Claude-drafted writeup.
+**Status:** 4 regions — Central Asia, MENA, Southeast Asia, Sub-Saharan Africa — 34 countries, 71 ethnicities, 5,346 records in `library/`, each culture with a Claude-drafted writeup.
 
-**Library fully vetted, index not yet rebuilt.** `scripts/vet_images.py` judges every image against its ethnicity and category ([docs/vetting.md](docs/vetting.md)). All 4,625 records carry a verdict from the current prompt (2026-09-24, mostly judged in Claude Code cloud sessions — [docs/cloud-vetting.md](docs/cloud-vetting.md)): 3,755 kept, 870 dropped. The built index in `data/` and the deployed site are older than these verdicts and are rebuilt next. No new cultures until then.
+**Every record is vetted** ([docs/vetting.md](docs/vetting.md)): 4,457 kept, 889 dropped, 79 drops re-filed under the culture they actually belong to. The site shows 4,380 objects after one-culture-per-object and picture dedup. Thinnest cultures, which the British Museum facet cannot fill: Qashqai 0, Sidama 4, Pamiri 5, Uzbek (Afghanistan) 5, Oromo 8, Yakan 8.
 
 ## How it works
 
@@ -44,8 +44,12 @@ scripts/generate_writeups.py           # Claude CLI drafts per-ethnicity markdow
   ▼
 content/<region>/<country>__<ethnicity>.md
   │
-scripts/build_index.py                 # aggregates into site-ready shards,
-                                       # dropping vision_vetted == False
+scripts/reattribute_drops.py           # drops that belong to ANOTHER atlas
+  │                                    # culture: named, re-judged, re-filed
+scripts/build_index.py                 # aggregates into site-ready shards:
+                                       # drops vision_vetted == False (unless
+                                       # re-filed), one culture per object,
+                                       # picture/accession dedup
   │
   ▼
 data/{index,globe}.json                # globe payload + facets
@@ -55,7 +59,7 @@ data/objects/*.json                    # per-object detail shards
 site/                                  # Astro static site consumes the shards
   │
   ▼
-folk-patterns.<domain>                 # deploy target
+Vercel project folk-patterns           # vercel --prod from site/; images on R2
 ```
 
 ## Quickstart
@@ -69,16 +73,23 @@ cd site && npm install && cd ..
 
 # 2. scrape a region — runs Met + V&A + Rijks + Smithsonian + Cleveland +
 #    British Museum + Europeana + Wikimedia Commons in the right order.
+#    The British Museum sits behind Cloudflare: point BM_CDP_URL at a Chrome
+#    with remote debugging (docs/museums.md#british-museum).
 python scripts/scrape_all.py central_asia
 
-# 3. draft writeups (Claude CLI must be installed and signed in)
+# 3. vet every new record (Claude CLI) — build_index keeps unjudged records
+python scripts/vet_images.py --target library
+
+# 4. draft writeups (Claude CLI must be installed and signed in)
 python scripts/generate_writeups.py central_asia
 
-# 4. build the site index shards
+# 5. images to R2, then the site index shards
+python scripts/upload_to_r2.py --commit -j 8
 python scripts/build_index.py
 
-# 5. run the site (Astro dev on :4321)
+# 6. run the site (Astro dev on :4321), or deploy it
 cd site && npm run dev
+cd site && npm run prepare-data && vercel --prod
 ```
 
 Individual scrapers still exist (`scrape_region.py`, `scrape_cleveland.py`,

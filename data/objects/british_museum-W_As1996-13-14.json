@@ -14,16 +14,16 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Kyrgyzstan",
-    "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "country": "China (Xinjiang)",
+    "ethnicity": "Kazakh (Xinjiang)",
+    "tradition": "Kazakh (Xinjiang)",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "textile",
-    "vision_reason": "Felt tent-cloth with quilted spiral center and appliqué zigzag/scroll borders, made using the shyrdak felt technique typical of Kyrgyz and other Central Asian nomadic dwellings — consistent with Kyrgyz material culture.",
-    "vision_confidence": "HIGH",
+    "vision_reason": "This is a felt tent-band/cloth with applied felt zigzag and curvilinear scrollwork borders (shyrdak-style technique), a nomadic Central Asian craft consistent with Kazakh material culture; the design is plausible for the claimed group even though neighboring Kyrgyz/other steppe groups use similar patterns.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kyrgyz/images/bm_W_As1996-13-14.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-14.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "34db6facdcd5efe837a2e1beded6a53e117fdf520c742bf777b1cfe74ede9cb6",
       "bytes": 114722,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kyrgyz\\images\\bm_W_As1996-13-14.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-14.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:56.969146+00:00"
+  "processed_at": "2026-07-28T18:58:52.056279+00:00"
 }

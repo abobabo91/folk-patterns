@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1993-01-30",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1993-01-30",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1993-01-30",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1993.01.30",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Iban",
+    "tradition": "Iban",
+    "art_form": "household",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a rolled rattan mat (tikai lampit) made of split rattan strips bound with plaited fibre, a household item plausible for Iban material culture in Borneo. This is a household object rather than a woven textile, but that mismatch in category doesn't preclude cultural attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "mat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Mat (&quot;tikai lampit&quot;); made of split rattan; lengths of split rattan laid parallel, and fastened together on either side with plaited fibre.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/bm_A_As1993-01-30.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b7bfb069a9116e712160f6b2e8a6f420b2438eaddab28779f32576d5a08f2e8d",
+      "bytes": 58573,
+      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\bm_A_As1993-01-30.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:22:53.038176+00:00"
+}

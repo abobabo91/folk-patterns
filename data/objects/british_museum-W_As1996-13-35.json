@@ -14,18 +14,27 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Kyrgyzstan",
-    "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "country": "Kazakhstan",
+    "ethnicity": "Kazakh",
+    "tradition": "Kazakh",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "textile",
-    "vision_reason": "This is a shyrdak felt tent-cloth with classic Kyrgyz motifs (ram's-horn kochkor muyuz border, felt appliqué floral/butterfly design) and Kyrgyz embroidered inscription naming a village (At-Bashy), consistent with the claimed ethnicity and textile category.",
-    "vision_confidence": "HIGH",
+    "vision_reason": "The image shows a colourful appliqué felt tent-cloth (shyrdak) with classic Central Asian nomadic motifs (ram's-horn kochkor muyuz, rosettes, stylised flowers/butterflies) — a felt craft shared across the Central Asian steppe and plausible for Kazakh material culture even if the embroidered place-name points to Kyrgyzstan; neighbouring nomadic groups' felt work cannot be reliably distinguished.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
-    "vision_era": "traditional"
+    "vision_era": "traditional",
+    "reattribution": {
+      "to": "central-asia__kyrgyzstan__kyrgyz",
+      "people": "Kyrgyz",
+      "belongs": true,
+      "art_form": "textile",
+      "image": "good",
+      "era": "traditional",
+      "reason": "This is a shyrdak-style felt tent-cloth with typical ram's-horn (kochkor muyuz) border motifs, appliquéd floral and butterfly designs, matching the described Kyrgyz felt textile tradition (with Kyrgyz-language embroidery reference to Ат-Башы)."
+    }
   },
   "physical": {
     "title": "tent-cloth",
@@ -68,13 +77,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kyrgyz/images/bm_W_As1996-13-35.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kazakhstan/kazakh/textile/kazakh/images/bm_W_As1996-13-35.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "65551e4731d9067267e41415ba0ab387b4d3fa739e948734e170be1eaa55d3b1",
       "bytes": 125489,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kyrgyz\\images\\bm_W_As1996-13-35.jpg"
+      "local_path": "library\\central-asia\\kazakhstan\\kazakh\\textile\\kazakh\\images\\bm_W_As1996-13-35.jpg"
     }
   ],
   "map": {
@@ -82,5 +91,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:57.648328+00:00"
+  "processed_at": "2026-07-28T18:57:39.084494+00:00"
 }

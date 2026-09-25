@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af-6090",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-6090",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-6090",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.6090",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Sotho",
+    "tradition": "Sotho",
+    "art_form": "instruments",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows an earthenware pot-drum with a skin membrane stretched over the mouth, a form consistent with Southern African traditional drums plausibly made and used by Sotho people. It is a musical instrument, not a plain ceramic vessel, so the category should be corrected.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments"
+  },
+  "physical": {
+    "title": "drum",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Drum made of earthenware covered with parchment-like skin.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/sotho/ceramic/sotho/images/bm_E_Af-6090.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2e9a066c8c184d0c03d649e9f468b84d90bdb2ec5eb95cca448303b6e5e0f5ab",
+      "bytes": 26901,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\ceramic\\sotho\\images\\bm_E_Af-6090.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:18:45.132119+00:00"
+}

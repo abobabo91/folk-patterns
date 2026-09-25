@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1938-0319-80",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1938-0319-80",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1938-0319-80",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1938.0319.80",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Botswana",
+    "ethnicity": "San",
+    "tradition": "San",
+    "art_form": "garment",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows an animal-skin cloak/baby-carrier with attached pendant gourds and seed containers, a garment plausible for San material culture in Botswana, though it is not jewelry as claimed.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": "cloak; baby-carrier",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cloak; baby-carrier",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Cloak made of skin, with pendant seeds and gourds for tobacco etc.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/botswana/san/jewelry/san/images/bm_E_Af1938-0319-80.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7ee8b2e9c79931f68b6825a6c231349eaadf00ccaeab9266a590db734a1308d9",
+      "bytes": 53260,
+      "local_path": "library\\sub-saharan-africa\\botswana\\san\\jewelry\\san\\images\\bm_E_Af1938-0319-80.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:13:55.771346+00:00"
+}

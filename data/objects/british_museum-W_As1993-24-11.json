@@ -14,16 +14,16 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Uzbekistan",
-    "ethnicity": "Uzbek",
-    "tradition": "Uzbek",
+    "country": "Afghanistan",
+    "ethnicity": "Hazara",
+    "tradition": "Hazara",
     "art_form": "garment",
     "pattern_density": 2,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "garment",
-    "vision_reason": "A striped man's chapan coat in classic Central Asian adras/bekasab-style striped cotton-silk cloth with embroidered trim, a traditional Uzbek garment type.",
-    "vision_confidence": "HIGH",
+    "vision_reason": "A striped silk-cotton chapan coat with embroidered trim, a garment style widely worn by Central Asian peoples including Hazara men in Afghanistan; plausible for the claimed culture.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/garment/uzbek/images/bm_W_As1993-24-11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/afghanistan/hazara/garment/hazara/images/bm_W_As1993-24-11.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "fac89f9c289e3557d74372da46fc2e9f7c8a3b6f5d81ec1cc21a329400139673",
       "bytes": 76262,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\garment\\uzbek\\images\\bm_W_As1993-24-11.jpg"
+      "local_path": "library\\central-asia\\afghanistan\\hazara\\garment\\hazara\\images\\bm_W_As1993-24-11.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:26.711232+00:00"
+  "processed_at": "2026-07-28T18:58:38.184760+00:00"
 }

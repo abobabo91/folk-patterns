@@ -14,14 +14,14 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Malaysia",
-    "ethnicity": "Iban",
-    "tradition": "Iban",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is an ikat-woven cotton pua (ceremonial blanket) with stylized ancestor/spirit figures, a classic Iban textile form from Sarawak, matching the claimed culture and museum description.",
+    "vision_reason": "This is a red-and-cream ikat cloth (pua) with anthropomorphic ancestor figures, a classic Iban Dayak textile type from Sarawak; Iban are part of the Dayak ethnic grouping, so it fits the claimed ethnicity.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/bm_A_As1992-05-105.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/textile/dayak/images/bm_A_As1992-05-105.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "196be02cd6282f21fb4d6c897dbd1e0f71fda76676647d4136ee2ba898270ab6",
       "bytes": 48761,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\bm_A_As1992-05-105.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\textile\\dayak\\images\\bm_A_As1992-05-105.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T19:22:51.874424+00:00"
+  "processed_at": "2026-07-28T19:22:41.807079+00:00"
 }

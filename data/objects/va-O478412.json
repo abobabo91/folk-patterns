@@ -14,15 +14,15 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Indonesia",
-    "ethnicity": "Javanese",
-    "tradition": "batik",
+    "country": "Malaysia",
+    "ethnicity": "Malay",
+    "tradition": "batik Malaysia",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "vision_reason": "The image shows a batik cotton selendang with rosette repeat pattern and key/scroll borders, a traditional Malay textile technique and form consistent with Malaysian batik.",
-    "vision_confidence": "MEDIUM",
+    "vision_reason": "A dark red cotton batik selendang (scarf) with dense repeating rosette pattern and key/lozenge/scrolling foliage borders, a traditional Malay batik textile form.",
+    "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
     "art_form_vision": "textile"
@@ -134,13 +134,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O478412.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/textile/batik-malaysia/images/va_O478412.jpg",
       "iiif_id": "2017JX7769",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7769/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "c3f61ef266bfa709a72896efee89a75ad1404d6132b0f4e9e0833dea8ca74e6a",
       "bytes": 513963,
-      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O478412.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\textile\\batik-malaysia\\images\\va_O478412.jpg"
     }
   ],
   "map": {
@@ -148,5 +148,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:18:26.330340+00:00"
+  "processed_at": "2026-07-18T11:25:20.946803+00:00"
 }

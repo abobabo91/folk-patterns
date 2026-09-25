@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1971-06-10",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1971-06-10",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1971-06-10",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1971.06.10",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "ethnicity": "Hmong",
+    "tradition": "Hmong",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a silver smoking pipe with decorative banded rims, a plausible object type used and made by Hmong communities in Vietnam for tobacco smoking; nothing contradicts the claimed attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
+  },
+  "physical": {
+    "title": "tobacco-pipe; smoking-pipe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "tobacco-pipe; smoking-pipe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Tobacco pipe made of silver, metal. The pipe consists of two pieces and is decorated with a series of raised rims. A seam runs along the top.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/unclassified/hmong/images/bm_A_As1971-06-10.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9498c613597c30be96db4ab545154454716aad629d31f97b1cc07ae49a73bf59",
+      "bytes": 70487,
+      "local_path": "library\\southeast-asia\\vietnam\\hmong\\unclassified\\hmong\\images\\bm_A_As1971-06-10.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:24:10.567811+00:00"
+}

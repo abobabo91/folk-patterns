@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1985-11-180",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1985-11-180",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1985-11-180",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1985.11.180",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Botswana",
+    "ethnicity": "San",
+    "tradition": "San",
+    "art_form": "jewelry",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a simple long shell-bead necklace, consistent with San ostrich-eggshell bead necklaces traditionally made and worn in Botswana. Nothing contradicts the claimed attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
+  },
+  "physical": {
+    "title": "necklace",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "necklace",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Necklace made of shells.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/botswana/san/jewelry/san/images/bm_E_Af1985-11-180.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c2d45ef6b00b48266111897f1c4ba96166579f393d247714a7e1038ec1642c6c",
+      "bytes": 28153,
+      "local_path": "library\\sub-saharan-africa\\botswana\\san\\jewelry\\san\\images\\bm_E_Af1985-11-180.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:13:23.201799+00:00"
+}

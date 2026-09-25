@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1899-1018-3",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1899-1018-3",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1899-1018-3",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1899.1018.3",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Chin",
+    "tradition": "Chin",
+    "art_form": "household",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a wooden model of a cotton-spinning/winding device with bamboo-strip wheel and iron handle, a plausible traditional tool used by Chin communities in Myanmar for textile production; though it's a model rather than a woven textile, it fits craft/household equipment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "spinning equipment; winder (?); model",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spinning equipment; winder (?); model",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Cotton-spinning machine (model). Frame made of wood; wheel of strips of split bamboo; iron handle.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin/images/bm_A_As1899-1018-3.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6343ec0d75d606ff8cee143b8636d1c54e650a98d02f88639c5aa48ba2d65c95",
+      "bytes": 31024,
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin\\images\\bm_A_As1899-1018-3.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:16:58.334839+00:00"
+}

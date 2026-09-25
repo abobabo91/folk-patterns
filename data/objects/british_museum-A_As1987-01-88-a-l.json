@@ -20,8 +20,8 @@
     "art_form": "sculpture",
     "pattern_density": 1,
     "vision_vetted": true,
-    "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is a tau-tau grave effigy figure made by the Toraja, carved wood with textile clothing and a seed/bamboo necklace — a full-figure sculpture, not jewelry, but the underlying object clearly belongs to Toraja funerary tradition.",
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a Torajan tau-tau grave effigy—a carved wooden figure dressed in textile clothing and wearing a seed/bamboo necklace, a well-documented Toraja funerary tradition. Though catalogued as \"jewelry,\" the picture actually depicts a full carved figure, not simply an ornament.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -74,8 +74,7 @@
       "role": "primary",
       "sha256": "3a641752dec8e1c5acb039ff83020ad0bd24e4351fb55ce3a69be83bef820de9",
       "bytes": 24172,
-      "local_path": "library\\southeast-asia\\indonesia\\toraja\\jewelry\\toraja\\images\\bm_A_As1987-01-88-a-l.jpg",
-      "low_quality": true
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\jewelry\\toraja\\images\\bm_A_As1987-01-88-a-l.jpg"
     }
   ],
   "map": {
@@ -83,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T19:22:43.332743+00:00"
+  "processed_at": "2026-09-25T03:24:59.730022+00:00"
 }

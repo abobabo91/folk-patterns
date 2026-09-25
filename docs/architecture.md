@@ -50,13 +50,20 @@ Four-stage pipeline. Each stage writes to disk; each downstream stage reads from
 
 - `scrape_region.py` — the orchestrator. Loops seed countries → Met country-gated scrape; loops seed traditions → V&A tradition-routed scrape.
 - `generate_writeups.py` — iterate (country, ethnicity), shell out to `claude --print`, save markdown.
-- `build_index.py` — walk `library/**/metadata.json`, aggregate by ethnicity, emit site-ready JSON shards.
+- `build_index.py` — walk `library/**/metadata.json`, aggregate by ethnicity, emit site-ready JSON shards. Along the way it:
+  - drops records the vetter said NO to, unless `scripts/reattribute_drops.py` re-judged them YES under another culture — those are filed there;
+  - files each museum object under one culture only (145 objects sat in the library under two, found by two cultures' searches) — the copy whose country the object's own place text names wins, else the first;
+  - collapses duplicates inside a culture's gallery by museum accession number and by picture (`_same_picture`: a 16×16 dHash of the autocontrasted image, plus aspect-ratio and mean-colour gates when the hashes are merely close). Titles are not a duplicate signal — generic ones ("adire", "cloth", "photographic print; album") are shared by dozens of distinct objects, and a title fingerprint once hid 1,470 of 3,744 objects. Hashes are cached in `.cache/image_hashes.json` (gitignored); a cold build hashes ~3,700 images in about a minute, a warm one takes 6 s;
+  - writes `object_count` as what the galleries show, so the marker, the panel header and the galleries agree;
+  - labels an untitled object (all are V&A) by its `classification` ("Man's costume"), not by its tradition tag.
+- `reattribute_drops.py` — recovers vetter drops that belong to another atlas culture (a Shan cloth under Bamar is a NO for Bamar). Text pass names the people, image pass re-judges under that culture; see [vetting.md](vetting.md#re-attributing-drops).
 - `build_gallery.py` — legacy static HTML gallery (predates the Astro site). Kept as a no-JS fallback.
 
 **Site (`site/`)**
 
 - Astro static site generator. React island (`GlobeSwitcher`, `MapLibreGlobe`, `EthnicityPanel`) only where interactivity is needed.
-- `site/scripts/sync-public.mjs` copies `../data/` and `../library/` into `site/public/` before dev/build. Prevents symlink pain on Windows.
+- `site/scripts/sync-public.mjs` mirrors what the site reads — `index.json`, `globe.json`, `ethnicities/`, `objects/` — from `../data/` into `site/public/data/` before dev/build, replacing the shard folders so a dropped object loses its page. Nothing else from `data/` (scrape caches, vetting transcripts) is published. `site/public/data/world-countries.geojson` is the site's own file and the only tracked one there. Images are not copied: `build_index.py` writes R2 URLs.
+- Deploy: `vercel --prod` from `site/` (project `folk-patterns`). Vercel builds from the uploaded `site/`, where `../data` does not exist, so the uploaded `public/data` is what ships — run `npm run prepare-data` (or `npm run build`) locally first.
 - Pages: `/` (globe landing), `/object/[id]` (per-object detail).
 
 ## Caching layers
@@ -74,4 +81,4 @@ Image downloads in `library/**/images/` are also idempotent by filename — re-r
 
 - **No SSR for map interactivity.** The React globe is a client-only island; Astro doesn't try to SSR MapLibre.
 - **No database.** JSON files all the way. `build_index.py` writes ~1000 small files instead of an SQLite blob; git-diffable, greppable, easy to inspect.
-- **No CDN for images (yet).** Images are served from the local `library/` copied into `site/public/library/`. For deployment, either upload to a bucket + rewrite paths in `build_index.py`, or let the static host serve them (Cloudflare Pages fits ~1GB total fine).
+- **Images are not in the site.** They live in the Cloudflare R2 bucket (`scripts/upload_to_r2.py --commit -j 8`, additive and idempotent) and `build_index.py` writes their public R2 URLs into the shards. Upload new library images before deploying, or their tiles 404.

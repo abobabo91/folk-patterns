@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1951-24-3",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1951-24-3",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1951-24-3",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1951.24.3",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Gabon",
+    "ethnicity": "Fang",
+    "tradition": "Fang",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a composite sword with wooden hilt and iron tanged/barbed blade, consistent with Fang and related Central African metalwork traditions; plausible as an object used/made in the claimed region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms"
+  },
+  "physical": {
+    "title": "sword",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sword",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Composite sword, with wooden hilt, with brass?  wire and iron tanged and barbed blade with incised decoration.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/gabon/fang/metalwork/fang/images/bm_E_Af1951-24-3.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6495e292eca5defec820f161eeec50bd93455acc5986e0d2c52c75c3ab33e736",
+      "bytes": 24759,
+      "local_path": "library\\sub-saharan-africa\\gabon\\fang\\metalwork\\fang\\images\\bm_E_Af1951-24-3.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:27:08.791610+00:00"
+}

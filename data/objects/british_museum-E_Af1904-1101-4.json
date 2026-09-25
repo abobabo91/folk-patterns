@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1904-1101-4",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1904-1101-4",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1904-1101-4",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1904.1101.4",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Kikuyu",
+    "tradition": "Kikuyu",
+    "art_form": "garment",
+    "pattern_density": 2,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a hide belt/strap adorned with cowrie shells and glass beads, a wearable accessory consistent with East African adornment traditions such as those of the Kikuyu; no evidence contradicts the claimed attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": "belt; strap",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "belt; strap",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Belt, shoulder strap made of hide, string, beads (glass), shells (cowrie).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kikuyu/garment/kikuyu/images/bm_E_Af1904-1101-4.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bb692a250ce0e324e204b98e9373caa3eccd17f200ceef83a3fd996de7f95809",
+      "bytes": 49149,
+      "local_path": "library\\sub-saharan-africa\\kenya\\kikuyu\\garment\\kikuyu\\images\\bm_E_Af1904-1101-4.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:17:55.947881+00:00"
+}

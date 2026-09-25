@@ -77,33 +77,31 @@ Keep `--workers` at the default 3: Sonnet answers `Server is temporarily limitin
 
 ## Where this stands
 
-Run `python scripts/_vet_status.py` for live numbers — it reads the library, so it is never stale. Snapshot verified 2026-08-28:
+Run `python scripts/_vet_status.py` for live numbers — it reads the library, so it is never stale. Snapshot 2026-09-24, after the British Museum facet re-scrape:
 
-| | records | share |
-|---|---:|---:|
-| in library | 4,625 | |
-| judged (real verdict) | 1,087 | 24% |
-| — kept | 846 | |
-| — dropped | 241 | 22% of judged |
-| still to judge | 3,538 | 76% |
-| — attempted, failed on quota | 3,535 | |
-| — never attempted | 3 | |
-| **verdicts carrying reasoning** | **0** | |
+| source | records | kept | dropped |
+|---|---:|---:|---:|
+| british_museum | 2,043 | 1,575 | 468 |
+| commons_arch | 1,295 | 1,162 | 133 |
+| europeana | 866 | 642 | 224 |
+| cleveland | 559 | 543 | 16 |
+| va | 466 | 429 | 37 |
+| met | 69 | 66 | 3 |
+| smithsonian | 33 | 32 | 1 |
+| rijks | 15 | 8 | 7 |
+| **all** | **5,346** | **4,457** | **889 (17%)** |
 
-| source | total | judged | kept | dropped | todo |
-|---|---:|---:|---:|---:|---:|
-| british_museum | 1322 | 196 | 154 | 42 | 1126 |
-| commons_arch | 1295 | 424 | 322 | 102 | 871 |
-| europeana | 866 | 52 | 47 | 5 | 814 |
-| cleveland | 559 | 122 | 42 | 80 | 437 |
-| va | 466 | 255 | 248 | 7 | 211 |
-| met | 69 | 12 | 7 | 5 | 57 |
-| smithsonian | 33 | 26 | 26 | 0 | 7 |
-| rijks | 15 | 0 | 0 | 0 | 15 |
+Every record carries a current-prompt verdict with its reasoning; nothing is left to judge. The 721 British Museum records scraped through the "Ethnic group" facet ([museums.md](museums.md#british-museum)) were judged 702 kept / 19 dropped (2.6%), against 34% for the keyword-scraped BM records:
 
-**No stored verdict carries reasoning, which means none of them was made by the current prompt.** That is the discriminator to check — `vision_reason` present = current generation. The 1,087 existing verdicts come from two superseded prompts: an image-only one, and a mid-tuning one that still carried the over-strict monumental-architecture clause and no ethnicity tie-break. Do not treat them as trustworthy and do not build on them.
-
-The per-source `dropped` figures above are likewise **not** representative — the run that produced them died inside the alphabetical Central-Asia/MENA segment, which is why Cleveland reads 66%. Fresh-seed sampling puts Cleveland at 10–30%. Use `_vet_status.py` after the re-vet for real rates, not these.
+| culture | kept | dropped | | culture | kept | dropped |
+|---|---:|---:|---|---|---:|---:|
+| San | 59 | 1 | | Iban | 55 | 0 |
+| Igbo | 59 | 1 | | Hmong | 57 | 1 |
+| Chin | 59 | 1 | | Toraja | 41 | 3 |
+| Kikuyu | 56 | 4 | | Ndebele | 58 | 1 |
+| Sotho | 60 | 0 | | Fang | 55 | 1 |
+| Turkmen (+1 Afghan Turkmen) | 61 | 0 | | Uzbek | 24 | 4 |
+| Maasai | 58 | 2 | | | | |
 
 ## First persisted chunk — 2026-09-24
 
@@ -192,10 +190,30 @@ The remaining ERA differences from the long prompt are ones the short prompt get
 
 Verdicts written by the long prompt (the pilot and batch b001) count as current and are not re-run. Batch b002 was judged before the category fix: its 38 drops were re-judged with the current prompt (`data/vet_verdicts/b002-drops-rejudged.jsonl`, applied after `b002.jsonl`; 7 flipped to YES), its keeps stand, since that fix only makes the judge keep more.
 
+## Re-attributing drops
+
+The vetter answers one question — does this object belong to the culture it is filed under — so a good object filed under the wrong people is a NO: a Shan cloth under Bamar, New Gourna mosque under Nubian, a Batak wedding jacket under Minangkabau. `scripts/reattribute_drops.py` recovers those.
+
+```bash
+python scripts/reattribute_drops.py propose   # text: who made it? which atlas culture is that?
+python scripts/reattribute_drops.py rejudge   # image: the normal judge, claiming that culture
+python scripts/reattribute_drops.py apply     # cultural.reattribution on the library record
+python scripts/reattribute_drops.py report    # counts, incl. peoples the atlas lacks
+```
+
+1. **propose** — one `claude --print` per 40 drops, text only: the museum metadata plus the vetter's own reason. It names the people who made the object (or none: a specimen, a scan, a San Francisco postcard) and the atlas culture that *is* that people (or none). When the model names a people that is exactly an atlas culture's name but leaves the key empty (it did for two Batak jackets), the script fills it in.
+2. **rejudge** — every proposal with an atlas culture goes through `vet_judge.judge` with the image, now claiming that culture. Only a YES moves the record.
+3. **apply** writes `cultural.reattribution {to, people, belongs, art_form, image, era, reason}`; `build_index.py` files a dropped record with `belongs: true` under `to`, with the re-judge's category, image and era verdicts.
+
+Outputs live in `data/reattribution/` (`proposals.jsonl`, `verdicts.jsonl`, and every raw reply in `raw.jsonl`).
+
+**Run of 2026-09-24, all 868 drops:** propose $8.30, rejudge $0.98 (CLI-reported). 88 proposals named an atlas culture; the re-judge said YES to 79 and NO to 9. By eye, 17 of 20 random YES moves are clearly right (an Egyptian coffin from a Khmer search, Javanese batik under Minangkabau, a Kyrgyz shyrdak under Kazakh (Xinjiang), Batak jackets, Persian album paintings under Chin, New Gourna mosque) and 3 are defensible but soft (a Cairo costume-album leaf, a photo filed as Khulbuk that the judge reads as Khiva, a songket called Malay as "plausible").
+
+Most drops are not misfiles: 283 name no people at all, and of the rest the largest groups are outsiders (Italian 74, English 69, Dutch 51, Japanese 45, Indian 31, Chinese 22). **Peoples the atlas has no culture for** — the list to read before adding one: Armenian 15, Shan 13, Hausa 7, Ewe 5, Sumba 3 (`report` prints it).
+
 ## Next steps
 
-The full re-vet is done: on 2026-09-24 every one of the 4,625 records carries a verdict from the current prompt — 3,755 kept, 870 dropped (19%); IMAGE good 4,428 / weak 141 / unusable 56; ERA traditional 3,556 / modern 579 / archaeological 490. The run: [cloud-vetting.md](cloud-vetting.md#full-run--2026-09-24).
+The full re-vet is done: on 2026-09-24 every one of the 4,625 records then in the library carried a verdict from the current prompt — 3,755 kept, 870 dropped (19%); IMAGE good 4,428 / weak 141 / unusable 56; ERA traditional 3,556 / modern 579 / archaeological 490. The run: [cloud-vetting.md](cloud-vetting.md#full-run--2026-09-24). `build_index.py` treats the verdict as final for every source, and drops that belong to another culture are re-filed (above).
 
-1. **Rebuild the index and deploy** on these verdicts. `build_index.py` now treats the vetter's verdict as final for every source: the museum-curated and monument-category bypasses are removed (the 64 drops they re-admitted from V&A, Met, Cleveland, Smithsonian and Rijks were read on 2026-09-24 and were right), and the old `data/classifier_overrides.json` applies only to records the vetter has not judged (44 of its categories contradicted the vetter's, and read worse).
-2. **Re-attribute misfiles instead of dropping them.** Many drops from the curated museums are good objects filed under the wrong people (Shan cloths under Bamar, Javanese puppets under Balinese, Cham sculpture under Kinh) — see [museums.md](museums.md#source-quality--measured-on-the-full-re-vet-2026-09-24). The vetter only answers YES / NO; a field naming the people the museum record names would let the build move them.
-3. **Before the next culture is added,** wire the vetter into `add_culture.py` so new material arrives judged instead of needing its own sweep.
+1. **Wire the vetter into `add_culture.py` / `scrape_all.py`** so new material arrives judged. Until then, after any scrape run `python scripts/vet_images.py --target library` — `build_index.py` keeps records that have no verdict yet.
+2. **Consider Armenian and Shan as new cultures** — they are the only peoples with 10+ good objects waiting in the drops.

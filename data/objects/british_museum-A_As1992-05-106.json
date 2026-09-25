@@ -14,18 +14,18 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Malaysia",
-    "ethnicity": "Iban",
-    "tradition": "Iban",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "The picture shows a full ikat-woven blanket with the dense geometric diamond and hook motifs characteristic of Iban pua kumbu textiles, matching the museum's own description as a pua ikat blanket from Sarawak, Iban.",
+    "vision_reason": "The image shows a red-brown warp-ikat cloth with a dense hooked-diamond pattern typical of an Iban pua kumbu ceremonial blanket from Sarawak, Borneo, which is exactly what the museum record describes and fits Dayak weaving tradition.",
     "vision_confidence": "HIGH",
-    "art_form_vision": "textile",
     "vision_image": "good",
-    "vision_era": "traditional"
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "cloth",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/bm_A_As1992-05-106.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/textile/dayak/images/bm_A_As1992-05-106.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "9711aa4a8e6555b7552f56fb0dea76845d330a6e929128ea3b023b7a825530b5",
       "bytes": 138976,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\bm_A_As1992-05-106.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\textile\\dayak\\images\\bm_A_As1992-05-106.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T19:22:51.811856+00:00"
+  "processed_at": "2026-07-28T19:22:41.770097+00:00"
 }

@@ -14,16 +14,16 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Kyrgyzstan",
-    "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "country": "China (Xinjiang)",
+    "ethnicity": "Kazakh (Xinjiang)",
+    "tradition": "Kazakh (Xinjiang)",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "textile",
-    "vision_reason": "The image shows a felt shyrdak with appliquéd curvilinear floral/horn motifs and contrasting piped borders, a classic Kyrgyz felt textile technique used as a floor/tent cover, matching the museum's description.",
-    "vision_confidence": "HIGH",
+    "vision_reason": "This shows a felt appliqué shyrdak-style rug with floral motifs, a type of felt floor covering traditionally made by Central Asian nomadic peoples including Kazakhs; such work is plausible for a Kazakh household and cannot be reliably distinguished from neighbouring groups' felt work.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kyrgyz/images/bm_W_As1996-13-11.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-11.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "105e2780d56c7d840e919af5eefe70dedfb7eef2fcc399cf0722761d37ec7c66",
       "bytes": 40542,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kyrgyz\\images\\bm_W_As1996-13-11.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-11.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:53.251057+00:00"
+  "processed_at": "2026-07-28T18:58:51.526336+00:00"
 }

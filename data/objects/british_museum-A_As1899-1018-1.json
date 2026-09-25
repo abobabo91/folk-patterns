@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1899-1018-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1899-1018-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1899-1018-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1899.1018.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Chin",
+    "tradition": "Chin",
+    "art_form": "household",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a wooden yoke/load-carrier with plaited cane rope, a household/utility tool plausibly used by Chin people for carrying loads, not a textile at all despite the claimed category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "yoke (harness); load-carrier",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "yoke (harness); load-carrier",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Yoke (load carrier) made of wood with holes at either end, through which passes twisted fibre rope (2-ply), knotted above holes and woven into band made of plaited strips of split cane at top. Ends of rope below tied together.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/chin/textile/chin/images/bm_A_As1899-1018-1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6beb56a48c952e22f882bd27ff97b457bd92a430620ca059bb106f76cbf9b129",
+      "bytes": 44245,
+      "local_path": "library\\southeast-asia\\myanmar\\chin\\textile\\chin\\images\\bm_A_As1899-1018-1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:16:10.404018+00:00"
+}

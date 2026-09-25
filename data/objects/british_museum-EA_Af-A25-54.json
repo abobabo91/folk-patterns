@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-EA_Af-A25-54",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-A25-54",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A25-54",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.A25.54",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Maasai",
+    "tradition": "Maasai",
+    "art_form": "photo",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This is a documentary gelatin silver photograph of a Maasai adult wearing a draped blanket, ear ornaments, arm bands, finger rings and a forehead ornament, holding a spear — consistent with Maasai dress and material culture, though the metadata mislabels the medium as \"painting-mss.\"",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo"
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Portrait of an adult wearing a blanket, hair-ornaments including a safety pin, ear-ornaments, arm-ornaments, finger-ornaments. Carrying a spear [?].\nMedium: Gelatin silver print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/maasai/painting-mss/maasai/images/bm_EA_Af-A25-54.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b182f30630b555097f40e59bacac703b7f9c86bf64c7b33e580ac27b9bea031b",
+      "bytes": 20388,
+      "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\painting-mss\\maasai\\images\\bm_EA_Af-A25-54.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:22:02.553850+00:00"
+}

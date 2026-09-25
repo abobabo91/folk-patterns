@@ -20,8 +20,8 @@
     "art_form": "textile",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is a Hmong appliqué/embroidered textile made by a Hmong refugee (as stated in the inscription itself), showing the characteristic story-cloth animal motifs; it belongs to the culture but is a textile, not sculpture.",
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This is a Hmong appliquéd and embroidered textile (a \"story cloth\" style bed-cover) made by a Hmong refugee, with animal motifs and embroidered text confirming Hmong authorship; it clearly belongs to the claimed ethnicity, though the museum's \"sculpture\" category is wrong.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T19:24:52.889862+00:00"
+  "processed_at": "2026-09-25T03:24:09.743108+00:00"
 }

@@ -46,11 +46,34 @@ Every one of the 4,625 library records judged by the current vetter ([vetting.md
 
 Why each source's drops happen (drop reasons bucketed by keyword, then read):
 
-- **British Museum — ethnonym search against a print room.** 170 of 449 drops are European or outsider art (engravings, drawings, Rubens, fashion sketches), 135 name another people or a distant style, 82 are scans or cards. Almost all of it comes from short ethnonyms that are also words: San 93% dropped (55 of its 64 drops from BM), Chin 86%, Cham 80%, Maasai 74%, Fang 50%. **Moving forward: query BM by department (Africa, Oceania & Americas; Asia) and object type, never by bare ethnonym for San, Chin, Cham, Fang, Maasai, Iban, Thai.**
-- **Europeana — documents, not objects.** 149 of 224 drops are scans, catalogue cards, newspaper pages, book covers or placeholder icons (thumbnails of `type=TEXT` records), and it has the worst category accuracy (57% re-categorised). Word collisions too: Estonian `kalaga` ("with fish") under Bamar. **Moving forward: request `type=IMAGE` or `3D` only**, and treat its category as unknown.
+- **British Museum — ethnonym search against a print room.** 170 of 449 drops are European or outsider art (engravings, drawings, Rubens, fashion sketches), 135 name another people or a distant style, 82 are scans or cards. Almost all of it comes from short ethnonyms that are also words: San 93% dropped (55 of its 64 drops from BM), Chin 86%, Cham 80%, Maasai 74%, Fang 50%. **Fixed in the scraper: it now searches BM's own "Ethnic group" facet** — see [British Museum](#british-museum) below.
+- **Europeana — documents, not objects.** 149 of 224 drops are scans, catalogue cards, newspaper pages, book covers or placeholder icons, and it has the worst category accuracy (57% re-categorised). The scans arrive as `type: IMAGE` — the scraper already rejects every other type, and `dcType` is empty on all 866 records — so type cannot filter them. The provider can: Virtual Library of Historical Press gave 0 kept of 32, Palais Galliera (Paris couture sketches) 0 of 9, Bodleian 0 of 8, Digital Memory of Catalonia 0 of 5, Galiciana 0 of 4, Uppsala University 0 of 4, while Museum of World Culture kept 249 of 263 and Náprstek 40 of 40. Those providers are now in `NON_CULTURAL_PROVIDER_TOKENS` (`europeana.py`). Word collisions too: Estonian `kalaga` ("with fish") under Bamar. Treat its category as unknown.
 - **Wikimedia Commons (arch)** — low drop rate, but its drops are its own kind: signboards, nature close-ups at a site, souvenirs, a cat in a kasbah, and 42 of its images failed on 429 until the User-Agent carried contact info (see [cloud-vetting.md](cloud-vetting.md)). Most archaeological material comes from here and Cleveland.
 - **Cleveland, V&A, Met, Smithsonian — curated, and the vetter agrees**: 3–8% dropped, and those drops are almost all *misfiles*, not junk — Shan cloths under Bamar, Javanese puppets and batik under Balinese, Cham temple sculpture under Kinh, Khmer ware under Thai. The object is good; the ethnicity is wrong. These are the best sources to expand from.
 - **Rijksmuseum** — too few records to judge (15); its drops were colonial-exhibition posters and Dutch album covers.
+
+## British Museum
+
+**Search by the "Ethnic group" facet, not by keyword.** `collection/search?ethnic_name=San` returns BM's own ethnic attribution; `keyword=san` searches the whole collection, print room included. Counts on 2026-09-24:
+
+| culture | `ethnic_name=` | `keyword=` |
+|---|---:|---:|
+| San | 383 | 15,290 |
+| Chin | 539 | 7,043 |
+| Thai | 53 | 1,531 |
+| Maasai | 602 | 1,140 (`Masai` facet: 0) |
+| Fang | 167 | 880 |
+| Cham | 1 | 373 |
+| Yoruba | 2,747 | 3,066 |
+| Zulu | 2,049 | 2,464 |
+
+`british_museum.scrape_ethnicity` walks the facet (up to 9 pages of ~100) and uses it when it yields 20+ objects, skipping the ethnonym attribution filter since BM already attributed them; otherwise it falls back to keyword search. The facet has nothing under our names for Qashqai, Sidama, Pamiri, Oromo, Karakalpak, Yakan, Afar, Cham, Hazara, T'boli, Baluch(i), Kurd(ish), Tigray, Lao Isan — those still use keywords.
+
+**Measured result**, 721 facet-scraped records over 13 cultures judged by the vetter on 2026-09-24: 702 kept, 19 dropped (2.6%) — San 59/1 where keyword-era San lost 93%, Chin 59/1 where it lost 86%, Maasai 58/2 where it lost 74%. Per-culture table: [vetting.md](vetting.md#where-this-stands).
+
+**Cloudflare.** Since 2026-09-24 every curl_cffi TLS impersonation (chrome124, chrome131, safari, firefox) gets 403 on search and detail pages. A real Chrome passes, and its `cf_clearance` cookie, sent with that Chrome's exact User-Agent, lets curl_cffi through (200). Set `BM_CDP_URL=http://127.0.0.1:<port>` to a Chrome with remote debugging and `_client()` opens one search page there and copies the cookie. Without it the scraper warns and gets nothing.
+
+**Image host.** `media.britishmuseum.org` serves its leaf certificate without the intermediate; `scripts/certs/extra-intermediates.pem` carries it for the cloud vetter.
 
 ## Rate limits
 

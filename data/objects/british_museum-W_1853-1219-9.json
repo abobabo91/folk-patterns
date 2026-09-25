@@ -14,18 +14,18 @@
   },
   "cultural": {
     "region": "middle-east-north-africa",
-    "country": "Iran",
-    "ethnicity": "Persian",
-    "tradition": "Persian",
+    "country": "Egypt",
+    "ethnicity": "Egyptian",
+    "tradition": "Egyptian",
     "art_form": "ceramic",
     "pattern_density": 1,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "These are fragments of a calcite (alabaster) jar bearing a trilingual cuneiform inscription naming Xerxes, King of Persia — a royal Achaemenid vessel, so it fits Persian court art despite being made/inscribed in Egypt.",
-    "vision_confidence": "HIGH",
+    "art_form_vision": "ceramic",
+    "vision_reason": "The image shows four calcite (alabaster) fragments from a trilingual Xerxes vase inscription, excavated stone vessel fragments bearing Old Persian/Elamite/Babylonian cuneiform, found in Egypt as part of the Achaemenid Persian royal deposits — these are ancient inscribed stone fragments, not a made-in-Egypt ceramic vessel but a genuine archaeological object from the Egyptian homeland.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
-    "vision_era": "archaeological",
-    "art_form_vision": "ceramic"
+    "vision_era": "archaeological"
   },
   "physical": {
     "title": "jar (?); alabastron (?)",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/iran/persian/ceramic/persian/images/bm_W_1853-1219-9.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/egyptian/ceramic/egyptian/images/bm_W_1853-1219-9.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "62adb1ffddb368d40a8e9a67c44634780d90d996c356d7bd1e58f05142aacd3f",
       "bytes": 36679,
-      "local_path": "library\\middle-east-north-africa\\iran\\persian\\ceramic\\persian\\images\\bm_W_1853-1219-9.jpg"
+      "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\ceramic\\egyptian\\images\\bm_W_1853-1219-9.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:59:03.258872+00:00"
+  "processed_at": "2026-07-28T19:04:17.815483+00:00"
 }

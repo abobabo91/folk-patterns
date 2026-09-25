@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af-5458",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-5458",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-5458",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.5458",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Botswana",
+    "ethnicity": "San",
+    "tradition": "San",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a plain wooden staff/stick, consistent with an item that could be used or carved by San people in southern Africa; the described pricked bird and animal designs are not clearly visible in this small, distant photo but the object type (a carved staff) is plausible material culture for the group.",
+    "vision_confidence": "LOW",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "staff",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "staff",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wooden staff covered with pricked designs of birds and animals.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/botswana/san/unclassified/san/images/bm_E_Af-5458.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1138968d963b097bb54f1a71c4600269d358af2c9cdb567fc8b50ad4af62ab6d",
+      "bytes": 14295,
+      "local_path": "library\\sub-saharan-africa\\botswana\\san\\unclassified\\san\\images\\bm_E_Af-5458.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:13:41.255155+00:00"
+}

@@ -14,14 +14,14 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Indonesia",
-    "ethnicity": "Javanese",
-    "tradition": "batik",
+    "country": "Malaysia",
+    "ethnicity": "Malay",
+    "tradition": "batik Malaysia",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "vision_reason": "A batik cotton selendang with dark blue trellis-rosette field and red floral border, a traditional textile form and pattern typical of the Malaysia/wider Malay archipelago region, consistent with the claimed regional group.",
+    "vision_reason": "The image shows a batik cotton scarf (selendang) with a dense trellis of rosette motifs and floral borders, a textile form used and worn in the Malay world; nothing indicates it is from a different, distinguishable neighboring tradition.",
     "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -134,13 +134,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/textile/batik/images/va_O478413.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/textile/batik-malaysia/images/va_O478413.jpg",
       "iiif_id": "2017JX7773",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7773/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "50dcf0fae21c2610f84614bce00235ecdc3195fc0d51f2f999f5f43fa1a80240",
       "bytes": 620847,
-      "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\batik\\images\\va_O478413.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\textile\\batik-malaysia\\images\\va_O478413.jpg"
     }
   ],
   "map": {
@@ -148,5 +148,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:18:35.640718+00:00"
+  "processed_at": "2026-07-18T11:25:24.202427+00:00"
 }

@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1983-09-78",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1983-09-78",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1983-09-78",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1983.09.78",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "ethnicity": "Hmong",
+    "tradition": "Hmong",
+    "art_form": "jewelry",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a silver open-ended neck-ring with flared terminal ends, a form consistent with the silver torque-style neck rings traditionally worn by Hmong communities in Vietnam and neighboring highland regions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry"
+  },
+  "physical": {
+    "title": "neck-ring",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "neck-ring",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Neck-ring made of silver.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/jewelry/hmong/images/bm_A_As1983-09-78.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "64eaea1533cb363cce35d6482521c4dd9f0720831c015a6d25e78e6def5a8252",
+      "bytes": 30801,
+      "local_path": "library\\southeast-asia\\vietnam\\hmong\\jewelry\\hmong\\images\\bm_A_As1983-09-78.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:23:57.531035+00:00"
+}

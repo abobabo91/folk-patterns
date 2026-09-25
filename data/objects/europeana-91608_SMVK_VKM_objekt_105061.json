@@ -14,14 +14,14 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Malaysia",
-    "ethnicity": "Iban",
-    "tradition": "Iban",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dajak Borneo",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is a warp-ikat pua kumbu cloth with anthropomorphic and animal (leopard/anteater) motifs, a classic Iban textile form from Sarawak, matching the claimed ethnicity.",
+    "vision_reason": "This is an ikat pua kumbu warp-ikat cloth from the Iban (Sea Dayak), a Dayak subgroup of Sarawak, showing typical anthropomorphic and animal (leopard/hornbill) motifs; Iban falls within the broader Dayak claim.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/eu_91608_SMVK_VKM_objekt_105061.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/textile/dajak-borneo/images/eu_91608_SMVK_VKM_objekt_105061.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "bde6eeb56fc8f2387a0381d1c2ef8fe57db600575ea0d99bddf4729aae352c49",
       "bytes": 60892,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\eu_91608_SMVK_VKM_objekt_105061.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\textile\\dajak-borneo\\images\\eu_91608_SMVK_VKM_objekt_105061.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:44:17.190739+00:00"
+  "processed_at": "2026-07-28T18:44:03.180790+00:00"
 }

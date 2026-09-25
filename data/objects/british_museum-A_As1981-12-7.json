@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1981-12-7",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1981-12-7",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1981-12-7",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1981.12.7",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Toraja",
+    "tradition": "Toraja",
+    "art_form": "textile",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a warp-ikat textile with geometric red, black, and cream banded motifs, a style consistent with traditional Indonesian ikat weaving traditions found in the eastern archipelago (Sulawesi/Toraja and neighboring regions); the pattern is plausible for the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile"
+  },
+  "physical": {
+    "title": "textile",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "textile",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Textile sample (ikat).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/toraja/textile/toraja/images/bm_A_As1981-12-7.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "5b7af7e5dafa79476a05b7aa7c89c0591c30a20839f014ece210a8f4baef77ac",
+      "bytes": 119684,
+      "local_path": "library\\southeast-asia\\indonesia\\toraja\\textile\\toraja\\images\\bm_A_As1981-12-7.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:24:31.735496+00:00"
+}

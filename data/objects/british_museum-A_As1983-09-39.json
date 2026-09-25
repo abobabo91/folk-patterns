@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-A_As1983-09-39",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1983-09-39",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1983-09-39",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1983.09.39",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "ethnicity": "Hmong",
+    "tradition": "Hmong",
+    "art_form": "garment",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a pleated cotton skirt consistent with Hmong women's traditional dress (pleated skirts are a hallmark garment of Hmong ethnic groups in Vietnam and Southeast Asia), though undyed/plain here rather than batik-decorated.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment"
+  },
+  "physical": {
+    "title": "skirt",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "skirt",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Woman&#039;s skirt made of pleated cotton.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/hmong/textile/hmong/images/bm_A_As1983-09-39.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ebb3956585d3de34495b2efbda68474e6e2b6cbca628d1c3f9d2281fbbed9c2c",
+      "bytes": 55142,
+      "local_path": "library\\southeast-asia\\vietnam\\hmong\\textile\\hmong\\images\\bm_A_As1983-09-39.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:23:39.498520+00:00"
+}

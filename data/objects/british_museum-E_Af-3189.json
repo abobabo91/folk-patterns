@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af-3189",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-3189",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-3189",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.3189",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Sotho",
+    "tradition": "Sotho",
+    "art_form": "metalwork",
+    "pattern_density": 3,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a metal scraper tool attached to a leather band with colourful beadwork, a personal adornment/tool object consistent with Sotho material culture, though it is metalwork/beadwork rather than textile as claimed.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork"
+  },
+  "physical": {
+    "title": "scraper",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "scraper",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Iron nose scraper &#039;libeke&#039;, with round handle with looped end and flat blade, attached to a narrow leather band covered with coloured beads.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/sotho/textile/sotho/images/bm_E_Af-3189.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "55fd2f2e8bfdd78654a324b9b39d1082c45fca8a2663e70155d62acb7445a456",
+      "bytes": 31346,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\textile\\sotho\\images\\bm_E_Af-3189.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:19:10.349728+00:00"
+}

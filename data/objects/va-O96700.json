@@ -15,15 +15,15 @@
   "cultural": {
     "region": "southeast-asia",
     "country": "Indonesia",
-    "ethnicity": "Sundanese",
-    "tradition": "batik Cirebon",
+    "ethnicity": "Javanese",
+    "tradition": "kain panjang",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "garment",
-    "vision_reason": "This is a batik kain panjang (skirt cloth) from Cirebon, a well-known Javanese batik center; the fine dense floral, tumpal, and animal motifs are typical coastal Javanese batik. Cirebon is not a Sundanese cultural center in the batik tradition sense but a Javanese-Sundanese coastal port; batik of this refined type is generally attributed to Javanese/coastal batik culture, though Sundanese communities in West Java also produced and used such cloths, so it remains plausible for the claimed group.",
-    "vision_confidence": "MEDIUM",
+    "vision_reason": "A batik kain panjang skirt cloth with dense floral, bird and crayfish motifs and tumpal end panels, from Cirebon—a classic Javanese batik-producing center, matching the claimed ethnicity and garment category.",
+    "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -88,13 +88,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/garment/batik-cirebon/images/va_O96700.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O96700.jpg",
       "iiif_id": "2006BF9451",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9451/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "1f10e393a22daea58e8aeb21da3f06aa5966483d4644bc879476a7286a7361b7",
       "bytes": 144797,
-      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96700.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O96700.jpg"
     }
   ],
   "map": {
@@ -102,5 +102,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:24:12.763713+00:00"
+  "processed_at": "2026-07-18T11:19:46.638136+00:00"
 }

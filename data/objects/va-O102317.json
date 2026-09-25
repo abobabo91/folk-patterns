@@ -16,16 +16,25 @@
     "region": "southeast-asia",
     "country": "Indonesia",
     "ethnicity": "Javanese",
-    "tradition": "wayang kulit",
-    "art_form": "sculpture",
+    "tradition": "wayang",
+    "art_form": "masks-ritual",
     "pattern_density": 0,
-    "vision_vetted": true,
+    "vision_vetted": false,
     "vision_by": "cloud-subagent:sonnet",
-    "art_form_vision": "sculpture",
-    "vision_reason": "This is a wayang kulit shadow puppet depicting Dewa Ruci, a pierced and painted leather figure with rod handles — a traditional Javanese performance object, correctly attributed to Java though best classified as sculpture/object rather than painting-mss.",
-    "vision_confidence": "HIGH",
+    "art_form_vision": "masks-ritual",
+    "vision_reason": "This is a wayang kulit shadow puppet (Dewa Ruci), a pierced and painted leather figure with control rods, a classic Javanese performance art object; the claimed category \"painting-mss\" is wrong but the object itself clearly belongs to Javanese culture.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
-    "vision_era": "traditional"
+    "vision_era": "traditional",
+    "reattribution": {
+      "to": "southeast-asia__indonesia__javanese",
+      "people": "Javanese",
+      "belongs": true,
+      "art_form": "masks-ritual",
+      "image": "good",
+      "era": "traditional",
+      "reason": "This is a wayang kulit shadow puppet (Dewa Ruci), a pierced and painted leather figure with control rods, a classic Javanese performance art object; the claimed category \"painting-mss\" is wrong but the object itself clearly belongs to Javanese culture."
+    }
   },
   "physical": {
     "title": "Dewa Ruci shadow puppet",
@@ -91,13 +100,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/painting-mss/wayang-kulit/images/va_O102317.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/balinese/painting-mss/wayang/images/va_O102317.jpg",
       "iiif_id": "2019LV9032",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2019LV9032/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "908b5834d301d0a9612a4630bdd2c38a5fb37af0a22c8e03c2268750a85ad082",
       "bytes": 136398,
-      "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\wayang-kulit\\images\\va_O102317.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\balinese\\painting-mss\\wayang\\images\\va_O102317.jpg"
     }
   ],
   "map": {
@@ -105,5 +114,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:21:26.202927+00:00"
+  "processed_at": "2026-07-18T11:23:27.553798+00:00"
 }

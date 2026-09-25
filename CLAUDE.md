@@ -13,25 +13,15 @@ reason to exclude. The in/out table is in
 judge every filtering question against it. The name `folk-patterns` is kept
 for continuity only.
 
-## Current priority: rebuild on the vetted library, then stop
+## Current priority: fill the thin cultures, then new ones
 
-**The re-vet is complete** (2026-09-24). All 4,625 records carry a verdict
-from the current prompt — 3,755 kept, 870 dropped — judged by
-`scripts/vet_judge.py` (Sonnet, one bare `claude --print` per image, the
-rules as a cached system prompt), locally or in Claude Code cloud sessions
-([docs/cloud-vetting.md](docs/cloud-vetting.md)). Why it is trusted and what
-the prompt encodes: [docs/vetting.md](docs/vetting.md). `build_index.py`
-drops `vision_image == "unusable"`, sinks weak images to the end of each
-gallery and exports `era`.
+The library is fully vetted (5,346 records, 2026-09-24) and the site is built on it: vetter verdicts are final, misfiled drops are re-filed by `scripts/reattribute_drops.py`, galleries dedup by picture and accession ([docs/architecture.md](docs/architecture.md)). The British Museum is scraped through its "Ethnic group" facet and needs `BM_CDP_URL` for Cloudflare ([docs/museums.md](docs/museums.md#british-museum)).
 
 Next, in order ([docs/vetting.md → Next steps](docs/vetting.md#next-steps)):
 
-- Rebuild the index and deploy on the complete verdicts.
-- Re-attribute misfiled objects (Shan cloth under Bamar, Javanese puppets
-  under Balinese) instead of dropping them.
-- **Do NOT add new cultures or regions** until the vetter is wired into
-  `add_culture.py`, so new material arrives judged instead of needing its
-  own sweep.
+- **Wire the vetter into `add_culture.py` / `scrape_all.py`.** Until then, run `python scripts/vet_images.py --target library` after every scrape — `build_index.py` keeps unjudged records.
+- Thin cultures the BM facet cannot fill (Qashqai, Sidama, Pamiri, Oromo, Yakan, Karakalpak, Afar, Cham, Hazara): Cleveland, V&A and Met, the sources with 3–8% drops.
+- **Do NOT add new cultures** until the vetter is wired in. Armenian and Shan are the candidates with good objects already waiting in the drops.
 
 ## The one command for everything
 

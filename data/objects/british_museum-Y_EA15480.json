@@ -1,0 +1,95 @@
+{
+  "id": "british_museum-Y_EA15480",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "Y_EA15480",
+    "object_url": "https://www.britishmuseum.org/collection/object/Y_EA15480",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "Y,EA15480",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Egypt",
+    "ethnicity": "Egyptian",
+    "tradition": "Nubian",
+    "art_form": "ceramic",
+    "pattern_density": 1,
+    "vision_vetted": false,
+    "vision_by": "cloud-subagent:sonnet",
+    "art_form_vision": "ceramic",
+    "vision_reason": "The image shows a terracotta ampulla in the form of a hedgehog with a human face, made of Nile silt with black slip (Memphis Black Ware), a ceramic vessel made and used in ancient Egypt (Roman period). This is a genuine Egyptian-made ceramic object, fitting the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "archaeological",
+    "reattribution": {
+      "to": "middle-east-north-africa__egypt__egyptian",
+      "people": "Egyptian",
+      "belongs": true,
+      "art_form": "ceramic",
+      "image": "good",
+      "era": "archaeological",
+      "reason": "The image shows a terracotta ampulla in the form of a hedgehog with a human face, made of Nile silt with black slip (Memphis Black Ware), a ceramic vessel made and used in ancient Egypt (Roman period). This is a genuine Egyptian-made ceramic object, fitting the claimed ethnicity."
+    }
+  },
+  "physical": {
+    "title": "ampulla",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "ampulla",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A terracotta flask modelled as a caricature of a hedgehog with a human face (a Nubian?), the hair representing the spines of the animal, and with legs and tail shown. A narrow neck and ridged mouth rises from back of the animal, and is furnished with two handles. It has a raised base: a modern mount obscures the details underneath. Two-piece mould. Grey-brown Nile silt, with an overall black slip: Memphis Black Ware.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/nubian/ceramic/nubian/images/bm_Y_EA15480.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ea1f2deea35470a08dd1f26fb1a7dc69d11a5840e66d49d53d879176191034ee",
+      "bytes": 43524,
+      "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\ceramic\\nubian\\images\\bm_Y_EA15480.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-07-28T19:06:14.641866+00:00"
+}

@@ -14,16 +14,16 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Kyrgyzstan",
-    "ethnicity": "Kyrgyz",
-    "tradition": "Kyrgyz",
+    "country": "China (Xinjiang)",
+    "ethnicity": "Kazakh (Xinjiang)",
+    "tradition": "Kazakh (Xinjiang)",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "textile",
-    "vision_reason": "A felt appliqué shyrdak rug with bold geometric/floral motifs and quilted piping — this is the classic Central Asian Kyrgyz felt carpet form, consistent with the claimed ethnicity.",
-    "vision_confidence": "HIGH",
+    "vision_reason": "This is a felt appliqué rug (shyrdak-style) with symmetrical floral/geometric motifs, a form of felted floor covering traditional among Central Asian nomadic peoples including Kazakhs; plausible for the claimed culture even if the museum uses Kyrgyz terminology.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kyrgyz/images/bm_W_As1996-13-7.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/bm_W_As1996-13-7.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "2cba9a6551cbb40be136b4bb8523ad199376991688f87c2b32e54b3a96076d0f",
       "bytes": 42833,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kyrgyz\\images\\bm_W_As1996-13-7.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-7.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:53.130321+00:00"
+  "processed_at": "2026-07-28T18:58:51.687988+00:00"
 }

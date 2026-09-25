@@ -15,14 +15,14 @@
   "cultural": {
     "region": "southeast-asia",
     "country": "Indonesia",
-    "ethnicity": "Sundanese",
-    "tradition": "batik Cirebon",
+    "ethnicity": "Javanese",
+    "tradition": "kain panjang",
     "art_form": "garment",
     "pattern_density": 2,
-    "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
+    "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "garment",
-    "vision_reason": "The picture shows a full cream-ground batik cloth densely covered with an all-over vine, floral and mythological-bird motif in maroon tones, a typical Cirebon-style kain panjang; nothing contradicts the Sundanese/Java attribution.",
+    "vision_reason": "A cream cotton batik cloth densely patterned with flowering vines and stylized mythological birds in maroon, shown fully flat and sharp — a Javanese batik kain panjang (skirt cloth), matching the description exactly.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional"
@@ -88,22 +88,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/garment/batik-cirebon/images/va_O96458.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O96458.jpg",
       "iiif_id": "2006BF9269",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9269/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "99ef8438fd6fd80843b866a72568882555d07c185f5488efbefc4e00d064c4a4",
       "bytes": 315605,
-      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96458.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O96458.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/sundanese/garment/batik-cirebon/images/va_O96458_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/javanese/garment/kain-panjang/images/va_O96458_1.jpg",
       "iiif_id": "2017JX7705",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7705/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "0014a5b2a1dcdcb83c449d42601f48786eb84a84d9d4e2324c58c70343248745",
       "bytes": 407438,
-      "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96458_1.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\javanese\\garment\\kain-panjang\\images\\va_O96458_1.jpg"
     }
   ],
   "map": {
@@ -111,5 +111,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:24:10.414430+00:00"
+  "processed_at": "2026-07-18T11:19:39.473655+00:00"
 }

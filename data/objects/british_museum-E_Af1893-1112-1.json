@@ -15,13 +15,13 @@
   "cultural": {
     "region": "sub-saharan-africa",
     "country": "Ethiopia",
-    "ethnicity": "Tigray",
-    "tradition": "Tigray",
+    "ethnicity": "Amhara",
+    "tradition": "Amhara",
     "art_form": "painting-mss",
     "pattern_density": 0,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is a traditional Ethiopian Orthodox devotional painting on hand-woven cotton depicting the Crucifixion and scenes from the life of Bishop Selama, a subject and style characteristic of Ethiopian (including Tigray) Christian art.",
+    "vision_reason": "A traditional Ethiopian devotional painting on cotton depicting the Crucifixion and life of Bishop Selama, in the characteristic Ethiopian Orthodox iconographic style associated with Amhara Christian art.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/tigray/painting-mss/tigray/images/bm_E_Af1893-1112-1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/amhara/painting-mss/amhara/images/bm_E_Af1893-1112-1.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "478e1275574f2b52737ce0ad6767b4126d6fecb42487582aa44cf36d9d3cad5b",
       "bytes": 61833,
-      "local_path": "library\\sub-saharan-africa\\ethiopia\\tigray\\painting-mss\\tigray\\images\\bm_E_Af1893-1112-1.jpg"
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\amhara\\painting-mss\\amhara\\images\\bm_E_Af1893-1112-1.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T19:34:56.148149+00:00"
+  "processed_at": "2026-07-28T19:33:03.453838+00:00"
 }

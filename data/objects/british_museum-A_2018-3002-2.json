@@ -14,18 +14,27 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Malaysia",
-    "ethnicity": "Iban",
-    "tradition": "Iban",
+    "country": "Indonesia",
+    "ethnicity": "Dayak",
+    "tradition": "Dayak",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "This is a classic pua kumbu ikat blanket with the characteristic reddish-brown ground and geometric ikat patterning, a textile form specifically associated with the Iban of Sarawak/Borneo, matching the claimed ethnicity and category.",
+    "vision_reason": "This is a classic Pua Kumbu ikat blanket with warp-faced weave and geometric diamond motifs, a well-documented Dayak textile tradition from Borneo/Kalimantan.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
-    "art_form_vision": "textile"
+    "art_form_vision": "textile",
+    "reattribution": {
+      "to": "southeast-asia__malaysia__iban",
+      "people": "Iban",
+      "belongs": true,
+      "art_form": "textile",
+      "image": "good",
+      "era": "traditional",
+      "reason": "This is a classic Iban pua kumbu ikat blanket, handwoven with the characteristic warm rust-and-cream ikat diamond and hook motifs typical of Iban ritual textiles from Sarawak, Malaysia."
+    }
   },
   "physical": {
     "title": "blanket",
@@ -68,13 +77,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/iban/textile/iban/images/bm_A_2018-3002-2.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/dayak/textile/dayak/images/bm_A_2018-3002-2.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "68cfb09f0c3a5c0ba9f6f2704d6153f2eb456a58cd69f1c90bd22d6d5a457c33",
       "bytes": 64488,
-      "local_path": "library\\southeast-asia\\malaysia\\iban\\textile\\iban\\images\\bm_A_2018-3002-2.jpg"
+      "local_path": "library\\southeast-asia\\indonesia\\dayak\\textile\\dayak\\images\\bm_A_2018-3002-2.jpg"
     }
   ],
   "map": {
@@ -82,5 +91,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T19:22:51.756515+00:00"
+  "processed_at": "2026-07-28T19:22:41.740778+00:00"
 }

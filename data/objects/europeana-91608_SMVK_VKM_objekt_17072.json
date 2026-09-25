@@ -14,16 +14,16 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Kyrgyzstan",
-    "ethnicity": "Kyrgyz",
-    "tradition": "Kirghiz felt",
+    "country": "China (Xinjiang)",
+    "ethnicity": "Kazakh (Xinjiang)",
+    "tradition": "Kazakh Xinjiang",
     "art_form": "textile",
     "pattern_density": 3,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "textile",
-    "vision_reason": "The image shows a felt shyrdak rug with classic intarsia scroll-and-diamond motifs in red, green, purple and black — a traditional Kyrgyz felt textile technique, matching both the claimed ethnicity and the museum's description.",
-    "vision_confidence": "HIGH",
+    "vision_reason": "The image shows a felt appliqué (shyrdak-technique) rug with bold geometric diamond motifs, a textile form long used by Central Asian nomadic Turkic peoples including Kazakhs; such felt work is plausible for the claimed culture even if the shyrdak name is more strongly associated with neighboring Kyrgyz tradition.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/kyrgyzstan/kyrgyz/textile/kirghiz-felt/images/eu_91608_SMVK_VKM_objekt_17072.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/eu_91608_SMVK_VKM_objekt_17072.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "0aaab39e4734b858a85d021493a44548592d78d592c7b5592068afb7f834d233",
       "bytes": 51916,
-      "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\textile\\kirghiz-felt\\images\\eu_91608_SMVK_VKM_objekt_17072.jpg"
+      "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\eu_91608_SMVK_VKM_objekt_17072.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:41:52.214700+00:00"
+  "processed_at": "2026-07-28T18:42:02.554344+00:00"
 }

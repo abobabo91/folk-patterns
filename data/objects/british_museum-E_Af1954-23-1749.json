@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1954-23-1749",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-1749",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1749",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.1749",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Igbo",
+    "tradition": "Igbo",
+    "art_form": "household",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "The image shows a woven reed/coiled basket bowl, not a ceramic vessel; this is a plausible household object for the region and consistent with Igbo material culture, though the claimed category \"ceramic\" is incorrect.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household"
+  },
+  "physical": {
+    "title": "basket; bowl",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "basket; bowl",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Basket; bowl; food server made of reed; lengths of reed woven and secured to create spiral pattern on internal surface of bowl.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/igbo/ceramic/igbo/images/bm_E_Af1954-23-1749.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d761ef043a534c2a4a2e16b252c7a9cfd1a8be9200d0a4787290ad06ed73c61e",
+      "bytes": 68017,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\igbo\\ceramic\\igbo\\images\\bm_E_Af1954-23-1749.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:14:52.106696+00:00"
+}

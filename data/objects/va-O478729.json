@@ -14,14 +14,14 @@
   },
   "cultural": {
     "region": "southeast-asia",
-    "country": "Indonesia",
-    "ethnicity": "Balinese",
-    "tradition": "double ikat",
+    "country": "Malaysia",
+    "ethnicity": "Malay",
+    "tradition": "songket Malay",
     "art_form": "garment",
     "pattern_density": 2,
     "vision_by": "cloud-subagent:sonnet",
     "vision_vetted": true,
-    "vision_reason": "The image shows men's silk trousers with weft-ikat and gold songket weaving, a traditional Malay court garment style consistent with the regional Malaysia claim.",
+    "vision_reason": "The image shows men's silk trousers with weft-ikat and gold songket brocade, a traditional garment type worn in the Malay world (Malaysia/Indonesia region), consistent with Malay dress and craft.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
@@ -150,22 +150,22 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/double-ikat/images/va_O478729.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/garment/songket-malay/images/va_O478729.jpg",
       "iiif_id": "2020MN6671",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN6671/full/{size}/0/default.jpg",
       "role": "primary",
       "sha256": "5c1b5e4b2d299f6bcd49b06d823c7fe4cf2bcbc7b2f117c3b4ea1da72ffe954b",
       "bytes": 229642,
-      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\double-ikat\\images\\va_O478729.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\garment\\songket-malay\\images\\va_O478729.jpg"
     },
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/_regional/garment/double-ikat/images/va_O478729_1.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/malay/garment/songket-malay/images/va_O478729_1.jpg",
       "iiif_id": "2006BC6363",
       "iiif_base": "https://framemark.vam.ac.uk/collections/2006BC6363/full/{size}/0/default.jpg",
       "role": "alt",
       "sha256": "4b501f8e5e4cffb3521f395057e64e5edc8bdf33cd8ddc85612faec6ebcb5d82",
       "bytes": 510984,
-      "local_path": "library\\southeast-asia\\malaysia\\_regional\\garment\\double-ikat\\images\\va_O478729_1.jpg"
+      "local_path": "library\\southeast-asia\\malaysia\\malay\\garment\\songket-malay\\images\\va_O478729_1.jpg"
     }
   ],
   "map": {
@@ -173,5 +173,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-18T11:22:54.084882+00:00"
+  "processed_at": "2026-07-18T11:25:36.334880+00:00"
 }

@@ -14,16 +14,16 @@
   },
   "cultural": {
     "region": "central-asia",
-    "country": "Uzbekistan",
-    "ethnicity": "Uzbek",
-    "tradition": "Uzbek",
+    "country": "Afghanistan",
+    "ethnicity": "Uzbek (Afghanistan)",
+    "tradition": "Uzbek (Afghanistan)",
     "art_form": "painting-mss",
     "pattern_density": 0,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
     "art_form_vision": "painting-mss",
-    "vision_reason": "This is a Mughal-style opaque watercolour portrait depicting ʿAbdullah Khan Uzbek II (a historical Uzbek ruler) seated cross-legged, cutting melons — a genre scene of Central Asian court dress and custom, consistent with the claimed ethnicity.",
-    "vision_confidence": "MEDIUM",
+    "vision_reason": "This is a Mughal-style opaque watercolour portrait depicting ʿAbdullah Khan Uzbek II, a historical Uzbek ruler, painted in a courtly manuscript-painting tradition — fitting the claimed Uzbek ethnicity and category.",
+    "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional"
   },
@@ -68,13 +68,13 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/uzbekistan/uzbek/painting-mss/uzbek/images/bm_W_1948-1211-0-10.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/afghanistan/uzbek-afghanistan/painting-mss/uzbek-afghanistan/images/bm_W_1948-1211-0-10.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
       "sha256": "f178bc3dd3d6862576e81201f71ea1d837c585a85da8d2dde63654b86e28e40c",
       "bytes": 42297,
-      "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_W_1948-1211-0-10.jpg"
+      "local_path": "library\\central-asia\\afghanistan\\uzbek-afghanistan\\painting-mss\\uzbek-afghanistan\\images\\bm_W_1948-1211-0-10.jpg"
     }
   ],
   "map": {
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:57:27.011353+00:00"
+  "processed_at": "2026-07-28T18:58:38.705312+00:00"
 }

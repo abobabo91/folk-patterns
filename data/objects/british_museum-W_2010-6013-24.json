@@ -20,12 +20,12 @@
     "art_form": "textile",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "cloud-subagent:sonnet",
-    "art_form_vision": "textile",
-    "vision_reason": "This is a woven Afghan \"war rug\" made by Turkmen weavers depicting weapons, vehicles and a map of Afghanistan — a textile, not metalwork, though the maker's craft fits the claimed Turkmen ethnicity of Afghanistan.",
-    "vision_confidence": "HIGH",
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This is a woven Afghan \"war rug\" depicting a map of Afghanistan, weapons, and military vehicles—a textile craft made in Afghanistan, plausibly by Turkmen weavers (a group known for this rug-weaving tradition), though the piece is misfiled as metalwork rather than textile.",
+    "vision_confidence": "MEDIUM",
     "vision_image": "good",
-    "vision_era": "modern"
+    "vision_era": "modern",
+    "art_form_vision": "textile"
   },
   "physical": {
     "title": "rug",
@@ -82,5 +82,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:58:34.979817+00:00"
+  "processed_at": "2026-09-25T03:20:52.770440+00:00"
 }

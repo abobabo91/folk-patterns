@@ -1,0 +1,86 @@
+{
+  "id": "british_museum-E_Af1962-17-14",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1962-17-14",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1962-17-14",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1962.17.14",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Igbo",
+    "tradition": "Igbo",
+    "art_form": "masks-ritual",
+    "pattern_density": 1,
+    "vision_vetted": true,
+    "vision_by": "claude-sonnet-5",
+    "vision_reason": "This is a small carved wood figure with an iron ring attached by fibre, consistent with a ritual/power figure rather than jewelry; wood carving of this style is plausible for the West African/Nigeria region generally attributed to Igbo, though it cannot be distinguished with certainty from neighboring groups.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual"
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Figure carved in wood, with a human face supported on two legs and surmounted by something resenmbling an umbrella; a small iron ring attached by a piece of fibre.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/igbo/jewelry/igbo/images/bm_E_Af1962-17-14.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "729fa402612dbaabf23ebcb0f816daa8d3dcf227a75d693222c3157e7a830832",
+      "bytes": 42112,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\igbo\\jewelry\\igbo\\images\\bm_E_Af1962-17-14.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-25T03:15:03.339817+00:00"
+}
