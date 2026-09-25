@@ -5,8 +5,8 @@ __pycache__/
 .venv/
 .env
 
-# Generated site build — 51k files, rebuilt by build_index.py
-site/
+# site/ is tracked; its own .gitignore keeps node_modules, dist, .env,
+# .vercel and the mirrored public/data out.
 
 # Sample images pulled down for quality checks (257 files, 70 MB). Regenerable
 # by re-running the probe scripts; the verdicts that matter live in
@@ -20,3 +20,6 @@ data/probes/
 # Cloud vetting scratch: fetched images, rendered prompts, raw replies.
 # The durable output is data/vet_verdicts/.
 work/
+
+# Image-hash cache for duplicate detection (build_index.py)
+.cache/

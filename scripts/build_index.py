@@ -77,6 +77,63 @@ def _image_url(local_path: str | None) -> str | None:
     return "/library/" + key
 
 
+# Perceptual image features for duplicate detection, cached by path, size and
+# mtime in .cache/ (gitignored) — hashing ~3,700 images takes about a minute.
+_HASH_CACHE_PATH = REPO_ROOT / ".cache" / "image_hashes.json"
+_hash_cache: dict | None = None
+
+
+def _image_features(local_path: str | None) -> list | None:
+    """[16x16 dHash of the autocontrasted grey image, aspect ratio, mean RGB]."""
+    global _hash_cache
+    if not local_path:
+        return None
+    p = REPO_ROOT / local_path
+    if not p.exists():
+        return None
+    if _hash_cache is None:
+        try:
+            _hash_cache = json.loads(_HASH_CACHE_PATH.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            _hash_cache = {}
+    st = p.stat()
+    ck = f"{local_path}|{st.st_size}|{int(st.st_mtime)}"
+    if ck not in _hash_cache:
+        from PIL import Image, ImageOps
+        try:
+            im = Image.open(p).convert("RGB")
+        except Exception:
+            return None
+        g = ImageOps.autocontrast(im.convert("L"), cutoff=2).resize((17, 16), Image.LANCZOS)
+        px = g.tobytes()
+        h = sum(1 << i for i, (r, c) in enumerate((r, c) for r in range(16) for c in range(16))
+                if px[r * 17 + c] > px[r * 17 + c + 1])
+        _hash_cache[ck] = [str(h), im.width / im.height, list(im.resize((1, 1), Image.BOX).getpixel((0, 0)))]
+    return _hash_cache[ck]
+
+
+def _save_hash_cache() -> None:
+    if _hash_cache is not None:
+        _HASH_CACHE_PATH.parent.mkdir(exist_ok=True)
+        _HASH_CACHE_PATH.write_text(json.dumps(_hash_cache), encoding="utf-8")
+
+
+def _same_picture(a: list | None, b: list | None) -> bool:
+    """Thresholds read off contact sheets of every same-ethnicity pair
+    (2026-09-24): up to 12 of 256 bits every pair was the same photograph;
+    from 12 to 24 only pairs with the same framing and colour were (spears shot
+    on one museum backdrop differ in aspect or tint). An 8x8 hash without
+    autocontrast is useless here — pale textiles on white hash identically."""
+    if not a or not b:
+        return False
+    d = bin(int(a[0]) ^ int(b[0])).count("1")
+    if d <= 12:
+        return True
+    aspect = abs(a[1] - b[1]) / max(a[1], b[1])
+    colour = max(abs(x - y) for x, y in zip(a[2], b[2]))
+    return d <= 24 and aspect <= 0.01 and colour <= 20
+
+
 def slugify(s: str) -> str:
     from slugify import slugify as _s
     return _s(s)
@@ -173,7 +230,7 @@ def build() -> None:
     global_facets = {"art_form": defaultdict(int), "source": defaultdict(int),
                      "country": defaultdict(int)}
     all_objects_count = 0
-    reroute_stats = {"routed": 0, "unroutable": 0, "junk_drop": 0, "classifier_override": 0, "classifier_reject": 0, "image_unusable": 0}
+    reroute_stats = {"routed": 0, "unroutable": 0, "junk_drop": 0, "classifier_override": 0, "classifier_reject": 0, "image_unusable": 0, "reattributed": 0, "cross_culture_dup": 0}
 
     # Per-record classifier overrides (data/classifier_overrides.json).
     # Populated by scripts/expand_classifier.py — Claude assigns an art_form
@@ -218,7 +275,21 @@ def build() -> None:
             # earlier prompt false-rejected religious sculpture and monuments;
             # read on 2026-09-24, the current prompt's 64 drops from V&A, Met,
             # Cleveland, Smithsonian and Rijks were right (docs/vetting.md).
-            if cul.get("vision_vetted") is False:
+            # A drop that belongs to another atlas culture was re-judged under
+            # that culture by scripts/reattribute_drops.py; a YES files it
+            # there, with the re-judge's own category, image and era verdicts.
+            _re_attr = cul.get("reattribution") or {}
+            if cul.get("vision_vetted") is False and _re_attr.get("belongs") and _re_attr.get("to") in eth_meta:
+                _to = eth_meta[_re_attr["to"]]
+                cul.update({"region": _to["region"], "country": _to["country"],
+                            "ethnicity": _to["ethnicity"],
+                            "vision_image": _re_attr.get("image") or cul.get("vision_image"),
+                            "vision_era": _re_attr.get("era") or cul.get("vision_era"),
+                            "vision_reason": _re_attr.get("reason") or cul.get("vision_reason")})
+                if _re_attr.get("art_form"):
+                    cul["art_form_vision"] = _re_attr["art_form"]
+                reroute_stats["reattributed"] += 1
+            elif cul.get("vision_vetted") is False:
                 continue
             # The vetter judged the picture itself unreadable (blank,
             # placeholder, scale bar only) — nothing to show.
@@ -262,9 +333,35 @@ def build() -> None:
                 reroute_stats["routed"] += 1
             key = _ethnicity_key(region, country, ethnicity)
             objects_by_eth[key].append(rec)
+
+    # One culture per object. 145 museum objects sit in the library under two
+    # cultures (a Cleveland rug under both Afghan Turkmen and Turkmen, a BM
+    # robe under Hazara and Uzbek) because two cultures' searches found it.
+    # Keep the copy whose country the object's own place text names, else the
+    # first in path order; the others are dropped from the index.
+    copies: dict[str, list[tuple[str, dict]]] = defaultdict(list)
+    for key in sorted(objects_by_eth):
+        for rec in objects_by_eth[key]:
+            copies[rec.get("id") or f"{key}#{id(rec)}"].append((key, rec))
+    for rid, cs in copies.items():
+        if len(cs) < 2:
+            continue
+        def _place_hit(kr):
+            key, rec = kr
+            place = " ".join(str(x) for x in ((rec.get("location") or {}).get("made_in_place"),
+                                              (rec.get("physical") or {}).get("summary")) if x).lower()
+            return eth_meta[key]["country"].split(" (")[0].lower() in place
+        keep = next((kr for kr in cs if _place_hit(kr)), cs[0])
+        for key, rec in cs:
+            if rec is not keep[1]:
+                objects_by_eth[key] = [r for r in objects_by_eth[key] if r is not rec]
+                reroute_stats["cross_culture_dup"] += 1
+    for key, recs in objects_by_eth.items():
+        for rec in recs:
+            cul = rec.get("cultural") or {}
             global_facets["art_form"][cul.get("art_form") or "unclassified"] += 1
             global_facets["source"][(rec.get("source") or {}).get("museum") or "?"] += 1
-            global_facets["country"][country] += 1
+            global_facets["country"][eth_meta[key]["country"]] += 1
             all_objects_count += 1
 
     print(f"Re-attribution: routed {reroute_stats['routed']} previously _regional records; "
@@ -272,7 +369,9 @@ def build() -> None:
           f"Junk filter caught {reroute_stats['junk_drop']} pre-existing junk records. "
           f"Classifier overrides: {reroute_stats['classifier_override']} reclassified, "
           f"{reroute_stats['classifier_reject']} rejected. "
-          f"Unusable images dropped: {reroute_stats['image_unusable']}.")
+          f"Unusable images dropped: {reroute_stats['image_unusable']}. "
+          f"Drops re-filed under another culture: {reroute_stats['reattributed']}. "
+          f"Second copies of an object filed under two cultures dropped: {reroute_stats['cross_culture_dup']}.")
 
     # Build the globe payload (lightweight).
     globe_points: list[dict] = []
@@ -372,6 +471,7 @@ def build() -> None:
         }
 
     # Per-ethnicity shard
+    shown_count: dict[str, int] = {}
     for key, meta in eth_meta.items():
         objs = objects_by_eth.get(key) or []
         # bucket by art_form
@@ -410,54 +510,11 @@ def build() -> None:
             # readable image.
             if (r.get("cultural") or {}).get("vision_image") == "weak":
                 score -= 100
-            # Dedup fingerprint.
-            #
-            # V&A records almost always lack a title (title=None) and their
-            # date_text is a free-string ("before 1875", "ca. 1870", "1850-1900")
-            # so a title|year|dims fingerprint doesn't collapse serial fragments.
-            # Instead, when the record has no title, use the museum's own
-            # accession lot key: (accession-prefix, acquisition-year). Sibling
-            # accession numbers from one collection lot — IS.1849-1883 and
-            # IS.1850-1883, or 870-1900 and 871-1900 — collapse into one
-            # fingerprint and only the highest-scored copy survives dedup.
-            #
-            # For records WITH a title (Cleveland/Met/Smithsonian) the
-            # normalised title + rounded 4-digit year + dims chunk continues
-            # to work well.
-            import re as _re
-            title_norm = (phys.get("title") or "").strip().lower().split(",")[0]
-            # Normalise camera-dump serial titles so a photographer's sequence
-            # ("48 Madrasah Chor Minor 120.jpg" .. "126.jpg") collapses to one
-            # fingerprint. Strip file extension, then any trailing " 123",
-            # " 125a", "-123", "_123", "(3)". This runs before the title-less
-            # branch so records that become empty after stripping fall through
-            # to the accession-lot branch.
-            title_norm = _re.sub(r"\.(jpg|jpeg|png|tif|tiff|gif|webp)$", "", title_norm)
-            # Strip leading YYYY-MM-DD-HHMMSS or YYYYMMDD prefixes (photo-batch
-            # timestamp signatures) — one photographer's session with 20 frames
-            # of the same building collapses to one fingerprint.
-            title_norm = _re.sub(r"^\d{4}[-_]?\d{2}[-_]?\d{2}[-_\s]?\d{0,6}[a-z]{0,3}[\s\-_]*", "", title_norm)
-            # Strip trailing Flickr photo ID in parens like " (29700620670)"
-            title_norm = _re.sub(r"\s*\(\d{7,}\)\s*$", "", title_norm)
-            # Strip trailing serial suffix (" 12", " 12a", "-12", "_12", "(3)")
-            title_norm = _re.sub(r"[\s\-_]*\(?\d{1,4}[a-z]?\)?$", "", title_norm).strip()
-            if not title_norm:
-                acc = (src.get("accession_number") or "").strip()
-                m_prefix = _re.match(r"^([A-Z]+\.?|CIRC\.)", acc)
-                prefix = m_prefix.group(1) if m_prefix else ""
-                m_year = _re.search(r"-(\d{4})$", acc)
-                acc_year = m_year.group(1) if m_year else ""
-                fingerprint = f"{src.get('museum','?')}|acc|{prefix}|{acc_year}" if acc else f"{src.get('museum','?')}|noacc|{r.get('id')}"
-            else:
-                year = phys.get("date_earliest") or phys.get("date_text") or ""
-                year_str = str(year)
-                m_y = _re.search(r"(\d{4})", year_str)
-                year_bucket = m_y.group(1) if m_y else ""
-                dim_note = (phys.get("dimensions_note") or "")[:20]
-                fingerprint = f"{title_norm}|{year_bucket}|{dim_note}"
+            local = next((i["local_path"] for i in imgs if i.get("local_path")), None)
+            acc = (src.get("accession_number") or "").strip()
             return {
                 "id": r.get("id"),
-                "title": phys.get("title"),
+                "title": phys.get("title") or phys.get("classification"),
                 "date_text": phys.get("date_text"),
                 "art_form": (r.get("cultural") or {}).get("art_form"),
                 "tradition": (r.get("cultural") or {}).get("tradition"),
@@ -470,65 +527,43 @@ def build() -> None:
                 "place": (r.get("location") or {}).get("made_in_place"),
                 # Tile-ordering helpers — not surfaced in the UI directly
                 "_score": score,
-                "_fp": fingerprint,
+                "_acc": f"{src.get('museum')}|{acc}" if acc else None,
+                "_hash": _image_features(local),
             }
 
         def _dedup_and_rank(items: list[dict]) -> list[dict]:
-            """Three passes:
-              1. Fingerprint dedup — collapse identical records (title|year|dims
-                 for titled records, accession-lot for title-less ones).
-              2. Per-(source, tradition) cap at 3 — prevents V&A's title-less
-                 suzani serials (12 near-identical tiles) or Cleveland's 6
-                 similar wall-hangings from monopolising a tradition group in
-                 the UI. The user regroups by tradition, so capping at the
-                 (source, tradition) grain is what actually reduces visible
-                 duplication.
-              3. Interleave sources for the flat gallery view."""
-            # Pass 1: fingerprint dedup.
-            best_by_fp: dict[str, dict] = {}
-            for it in items:
-                fp = it.get("_fp") or it.get("id")
-                cur = best_by_fp.get(fp)
-                if cur is None or (it.get("_score") or 0) > (cur.get("_score") or 0):
-                    best_by_fp[fp] = it
-            deduped = sorted(best_by_fp.values(), key=lambda x: -(x.get("_score") or 0))
-
-            # Pass 2: cap per (source, tradition). Titled records get a
-            # generous cap because titles help distinguish visually similar
-            # objects. Title-less records (V&A serials, mostly) get a strict
-            # cap because tile labels collapse to just the tradition and 5+
-            # of them look like duplicate cards.
-            TITLED_CAP = 8
-            TITLELESS_CAP = 3
-            titled_kept: dict[tuple, int] = defaultdict(int)
-            titleless_kept: dict[tuple, int] = defaultdict(int)
-            capped: list[dict] = []
-            for it in deduped:
-                key = (it.get("source") or "?", (it.get("tradition") or "").lower())
-                if it.get("title"):
-                    if titled_kept[key] >= TITLED_CAP:
-                        continue
-                    titled_kept[key] += 1
-                else:
-                    if titleless_kept[key] >= TITLELESS_CAP:
-                        continue
-                    titleless_kept[key] += 1
-                capped.append(it)
-
-            # Pass 3: interleave by TRADITION so a top-N view naturally shows
+            """Two passes:
+              1. Duplicate collapse — the same museum accession number, or the
+                 same picture (_same_picture). Titles are NOT a duplicate
+                 signal: generic ones ("adire", "cloth", "kanga",
+                 "photographic print; album") are shared by dozens of distinct
+                 objects, and a title fingerprint once hid 1,470 of 3,744.
+              2. Interleave traditions for the flat gallery view."""
+            ranked = sorted(items, key=lambda x: -(x.get("_score") or 0))
+            kept: list[dict] = []
+            seen_acc: set[str] = set()
+            for it in ranked:
+                if it.get("_acc") and it["_acc"] in seen_acc:
+                    continue
+                if any(_same_picture(it.get("_hash"), k.get("_hash")) for k in kept):
+                    continue
+                if it.get("_acc"):
+                    seen_acc.add(it["_acc"])
+                kept.append(it)
+            # Pass 2: interleave by TRADITION so a top-N view naturally shows
             # one representative per sub-category (Bibi-Khanym once, Chor Minor
             # once, Registan once, ...) before circling back for a second pass.
             # The frontend renders a flat gallery per art_form, so this
             # ordering is what the user sees first.
             by_trad: dict[str, list[dict]] = defaultdict(list)
-            for it in capped:
+            for it in kept:
                 by_trad[(it.get("tradition") or "").lower() or "?"].append(it)
             interleaved: list[dict] = []
             while any(by_trad.values()):
                 for t in list(by_trad.keys()):
                     if by_trad[t]:
                         interleaved.append(by_trad[t].pop(0))
-            return interleaved
+            return [{k: v for k, v in it.items() if not k.startswith("_")} for it in interleaved]
         writeup_md = _load_writeup(meta["region"], meta["country"], meta["ethnicity"])
         media = _load_media(meta["region"], meta["country"], meta["ethnicity"])
 
@@ -570,7 +605,8 @@ def build() -> None:
             "homeland": meta.get("homeland"),
             "homeland_place": meta.get("homeland_place"),
             "seed_traditions": meta["seed_traditions"],
-            "object_count": real_object_count + len(art_form_buckets.get("photo", [])),
+            # What the galleries show, so the panel header matches them.
+            "object_count": sum(len(v) for v in art_form_buckets.values()),
             "writeup_markdown": writeup_md,
             "art_form_buckets": art_form_buckets,
             "wikipedia_url": media.get("wikipedia_url"),
@@ -582,6 +618,7 @@ def build() -> None:
         (out_root / "ethnicities" / f"{key}.json").write_text(
             json.dumps(shard, indent=2, ensure_ascii=False), encoding="utf-8"
         )
+        shown_count[key] = shard["object_count"]
 
     # Per-object shard (canonical record — but strip `raw` which contains the
     # full museum API response and can be 10-100KB per record). The frontend
@@ -625,10 +662,14 @@ def build() -> None:
     (out_root / "index.json").write_text(
         json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8"
     )
+    # Markers carry the same count as the panel: objects left after dedup.
+    for gp in globe_points:
+        gp["object_count"] = shown_count.get(gp["key"], gp["object_count"])
     (out_root / "globe.json").write_text(
         json.dumps({"points": globe_points}, indent=2, ensure_ascii=False), encoding="utf-8"
     )
 
+    _save_hash_cache()
     print(f"Wrote data/index.json  ({all_objects_count} objects, {len(globe_points)} globe points)")
     print(f"Wrote {len(eth_meta)} ethnicity shards, {sum(len(v) for v in objects_by_eth.values())} object shards")
 
