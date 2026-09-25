@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import { GlobeSwitcher } from '../components/GlobeSwitcher';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+
+// Load the pre-built globe payload at build time.
+const globePath = path.resolve('./public/data/globe.json');
+const raw = JSON.parse(await fs.readFile(globePath, 'utf-8'));
+const points = raw.points;
+---
+
+<Base title="folk-patterns · visual atlas">
+  <GlobeSwitcher client:only="react" points={points} />
+</Base>

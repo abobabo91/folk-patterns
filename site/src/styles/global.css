@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+  html:not(.dark) {
+    color-scheme: light;
+  }
+  html, body {
+    height: 100%;
+    background: theme('colors.ink');
+    color: theme('colors.parchment');
+    font-family: theme('fontFamily.sans');
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 200ms, color 200ms;
+  }
+  html:not(.dark), html:not(.dark) body {
+    background: #f8f5ee;   /* warm cream */
+    color: #1a1a1c;         /* near-black */
+  }
+  h1, h2, h3, h4 {
+    font-family: theme('fontFamily.serif');
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-night border border-dusk rounded-md overflow-hidden;
+  }
+  html:not(.dark) .card {
+    background: #ffffff;
+    border-color: #e5e0d3;
+  }
+  .tag {
+    @apply inline-flex items-center px-2 py-0.5 text-[11px] uppercase tracking-wider
+           bg-dusk text-parchment/70 rounded-sm;
+  }
+  html:not(.dark) .tag {
+    background: #ebe6d8;
+    color: #4a4a4c;
+  }
+
+  /* Editorial serif for prose */
+  .prose-writeup h2 {
+    @apply mt-6 mb-2 font-serif text-lg font-medium text-parchment;
+  }
+  html:not(.dark) .prose-writeup h2 { color: #1a1a1c; }
+  .prose-writeup h3 {
+    @apply mt-4 mb-1 font-serif text-base font-medium text-parchment;
+  }
+  html:not(.dark) .prose-writeup h3 { color: #1a1a1c; }
+  .prose-writeup p {
+    @apply mb-3 text-[13.5px] leading-relaxed text-parchment/75 font-serif;
+  }
+  html:not(.dark) .prose-writeup p { color: #3a3a3c; }
+  .prose-writeup em {
+    @apply text-amber-400 not-italic;
+  }
+  html:not(.dark) .prose-writeup em { color: #a56d18; }
+  .prose-writeup ul {
+    @apply mb-3 space-y-1 pl-4 list-none;
+  }
+  .prose-writeup li {
+    @apply text-[13px] leading-relaxed text-parchment/70 font-serif;
+  }
+  html:not(.dark) .prose-writeup li { color: #3a3a3c; }
+  .prose-writeup li::before {
+    content: "·";
+    @apply mr-2 text-amber-500;
+  }
+  html:not(.dark) .prose-writeup li::before { color: #c4892a; }
+  .prose-writeup strong {
+    @apply text-amber-400 font-normal not-italic;
+  }
+  html:not(.dark) .prose-writeup strong { color: #a56d18; }
+  .prose-writeup a {
+    @apply text-amber-400 hover:underline;
+  }
+  html:not(.dark) .prose-writeup a { color: #a56d18; }
+
+  /* Header/footer helper classes — light-mode overrides */
+  .header-sub { @apply text-parchment/50; }
+  html:not(.dark) .header-sub { color: #7a7a7c; }
+  .footer-legend { @apply text-parchment/40; }
+  html:not(.dark) .footer-legend { color: #7a7a7c; }
+  .mode-toggle { @apply border-dusk bg-night/80; }
+  html:not(.dark) .mode-toggle { background: rgba(255,255,255,0.9); border-color: #e5e0d3; }
+  html:not(.dark) .mode-toggle button:not(.bg-amber-500) { color: #4a4a4c; }
+  html:not(.dark) .mode-toggle button.bg-amber-500 { color: #1a1a1c; }
+
+  /* Sidebar (EthnicityPanel) */
+  .sidebar-panel { @apply bg-night/95 border-dusk; }
+  html:not(.dark) .sidebar-panel { background: rgba(255,255,255,0.97); border-color: #e5e0d3; }
+  .sub-mono { @apply text-parchment/40; }
+  html:not(.dark) .sub-mono { color: #7a7a7c; }
+  .sub-meta { @apply text-parchment/60; }
+  html:not(.dark) .sub-meta { color: #4a4a4c; }
+  .close-btn { @apply border-dusk text-parchment/60 hover:text-parchment; }
+  html:not(.dark) .close-btn { border-color: #e5e0d3; color: #7a7a7c; }
+  html:not(.dark) .close-btn:hover { color: #1a1a1c; }
+  .tile-tag { @apply bg-ink/70 text-parchment; }
+  html:not(.dark) .tile-tag { background: rgba(255,255,255,0.9); color: #1a1a1c; }
+}
+
+/* ---------------------------------------------------------------
+   Universal palette overrides for light mode. Any component that
+   uses text-parchment/border-dusk/bg-night without a component-scoped
+   override falls back to these. Keeps the object detail page + any
+   other utility-class-only spots readable in light mode without
+   me editing every occurrence.
+   --------------------------------------------------------------- */
+html:not(.dark) .text-parchment { color: #1a1a1c; }
+html:not(.dark) .text-parchment\/80 { color: rgba(26,26,28,0.85); }
+html:not(.dark) .text-parchment\/75 { color: rgba(26,26,28,0.78); }
+html:not(.dark) .text-parchment\/70 { color: rgba(26,26,28,0.72); }
+html:not(.dark) .text-parchment\/60 { color: rgba(26,26,28,0.6); }
+html:not(.dark) .text-parchment\/50 { color: rgba(26,26,28,0.5); }
+html:not(.dark) .text-parchment\/40 { color: rgba(26,26,28,0.42); }
+html:not(.dark) .border-dusk { border-color: #e5e0d3; }
+html:not(.dark) .bg-night, html:not(.dark) [class*="bg-night"] { background-color: #ffffff; }
+html:not(.dark) .bg-ink\/70 { background-color: rgba(255,255,255,0.85); }
+html:not(.dark) .bg-ink { background-color: #f8f5ee; }
+html:not(.dark) .bg-dusk { background-color: #ebe6d8; }
+html:not(.dark) .text-amber-400 { color: #a56d18; }
+html:not(.dark) .text-amber-500 { color: #a56d18; }
+html:not(.dark) .border-amber-500\/40 { border-color: rgba(165,109,24,0.4); }
+
+/* Mini-nav in the sidebar writeup — light-mode override */
+html:not(.dark) .mini-nav a { color: #7a7a7c; }
+html:not(.dark) .mini-nav a:hover { color: #a56d18; }
+
+/* Marker hover card on the atlas (MapLibreGlobe) — names markers whose label
+   lost the collision contest. */
+.eth-hover .maplibregl-popup-content {
+  padding: 4px 9px;
+  border-radius: 3px;
+  background: rgba(244, 239, 230, 0.96);
+  color: #1a1a1c;
+  font: 500 13px "Cormorant Garamond", serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  pointer-events: none;
+}
+.eth-hover .maplibregl-popup-content span {
+  margin-left: 4px;
+  font: 10px ui-monospace, monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.6;
+}
+.eth-hover .maplibregl-popup-tip { display: none; }

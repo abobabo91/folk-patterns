@@ -1,0 +1,37 @@
+---
+import '../styles/global.css';
+export interface Props {
+  title?: string;
+  description?: string;
+}
+const { title = 'folk-patterns', description = 'A visual atlas of world folk culture — textiles, music, dance, festivals, foodways, and the museum objects that record them.' } = Astro.props;
+---
+<!doctype html>
+<html lang="en" data-theme="dark" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono&display=swap"
+    />
+    <title>{title}</title>
+    {/* Read theme from localStorage BEFORE hydration to avoid a light-flash on dark loads (or vice versa). */}
+    <script is:inline>
+      (() => {
+        try {
+          const t = localStorage.getItem('folk-patterns-theme');
+          const theme = t === 'light' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', theme);
+          document.documentElement.classList.toggle('dark', theme === 'dark');
+        } catch {}
+      })();
+    </script>
+  </head>
+  <body class="min-h-screen">
+    <slot />
+  </body>
+</html>

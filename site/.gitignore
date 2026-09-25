@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.vercel/
+dist/
+# Mirrored from ../data by scripts/sync-public.mjs on every dev/build;
+# only the site's own map outline is tracked.
+public/data/*
+!public/data/world-countries.geojson
+node_modules/
+.astro/

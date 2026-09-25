@@ -1,0 +1,187 @@
+---
+import Base from '../layouts/Base.astro';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+
+// Load seed data to build the ethnicity dropdown
+const seedDir = path.resolve('./public/data');
+const idx = JSON.parse(await fs.readFile(path.join(seedDir, 'index.json'), 'utf-8'));
+
+type Choice = { key: string; label: string; region: string; country: string; ethnicity: string };
+const ethnicities: Choice[] = [];
+for (const key of idx.ethnicity_keys as string[]) {
+  const shard = JSON.parse(
+    await fs.readFile(path.join(seedDir, 'ethnicities', `${key}.json`), 'utf-8')
+  );
+  ethnicities.push({
+    key,
+    label: `${shard.ethnicity} — ${shard.country}`,
+    region: shard.region,
+    country: shard.country,
+    ethnicity: shard.ethnicity,
+  });
+}
+ethnicities.sort((a, b) => a.label.localeCompare(b.label));
+
+const artForms = [
+  'textile', 'garment', 'architectural', 'ceramic', 'jewelry',
+  'metalwork', 'painting-mss', 'sculpture', 'household', 'photo', 'other',
+];
+
+const licenses = [
+  { value: 'cc0', label: 'CC0 (public domain dedication)' },
+  { value: 'cc-by', label: 'CC BY (attribution)' },
+  { value: 'cc-by-sa', label: 'CC BY-SA (attribution + share alike)' },
+  { value: 'cc-by-nc', label: 'CC BY-NC (non-commercial)' },
+  { value: 'public-domain', label: 'Public domain (age)' },
+  { value: 'own', label: 'I made this myself' },
+  { value: 'unknown', label: 'Unknown / other' },
+];
+---
+
+<Base title="Contribute · folk-patterns">
+  <div class="mx-auto max-w-2xl px-6 py-10">
+    <a href="/" class="font-mono text-[10px] uppercase tracking-widest text-parchment/40 hover:text-parchment">← back to atlas</a>
+
+    <h1 class="mt-6 font-serif text-3xl font-medium">Contribute a record</h1>
+    <p class="mt-3 text-parchment/70 leading-relaxed">
+      Have a folk-culture object — a textile, a building, a piece of jewelry, a photograph
+      documenting a tradition — that isn't in the atlas? Submit it here.
+      Every submission is reviewed by hand before it appears on the site.
+    </p>
+    <p class="mt-3 text-parchment/60 text-sm">
+      Please only submit material you have the right to share (your own photograph, a public-domain
+      image, or something under a Creative Commons license). We can't accept copyrighted images.
+    </p>
+
+    <form id="contribute-form" class="mt-8 space-y-5" enctype="multipart/form-data">
+      <!-- Honeypot — bots fill this, real users skip it -->
+      <div class="hidden" aria-hidden="true">
+        <label>Website (leave blank)</label>
+        <input type="text" name="website" tabindex="-1" autocomplete="off" />
+      </div>
+
+      <div>
+        <label for="ethnicity_key" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Ethnicity <span class="text-amber-400">*</span></label>
+        <select id="ethnicity_key" name="ethnicity_key" required class="w-full rounded border border-dusk bg-ink/60 px-3 py-2">
+          <option value="">— select —</option>
+          {ethnicities.map((e) => (
+            <option value={e.key}>{e.label}</option>
+          ))}
+        </select>
+      </div>
+
+      <div>
+        <label for="art_form" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Category</label>
+        <select id="art_form" name="art_form" class="w-full rounded border border-dusk bg-ink/60 px-3 py-2">
+          {artForms.map((af) => <option value={af}>{af}</option>)}
+        </select>
+      </div>
+
+      <div>
+        <label for="tradition" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Tradition or type (optional)</label>
+        <input type="text" id="tradition" name="tradition" placeholder="e.g. ikat, suzani, tongkonan"
+               class="w-full rounded border border-dusk bg-ink/60 px-3 py-2" />
+      </div>
+
+      <div>
+        <label for="title" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Title <span class="text-amber-400">*</span></label>
+        <input type="text" id="title" name="title" required maxlength="200"
+               placeholder="e.g. Ceremonial cloth from Rantepao"
+               class="w-full rounded border border-dusk bg-ink/60 px-3 py-2" />
+      </div>
+
+      <div>
+        <label for="description" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Description (optional)</label>
+        <textarea id="description" name="description" rows="4" maxlength="2000"
+                  placeholder="What is it, where is it from, what makes it interesting"
+                  class="w-full rounded border border-dusk bg-ink/60 px-3 py-2"></textarea>
+      </div>
+
+      <div>
+        <label for="image" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Image (JPEG or PNG, max 5MB) <span class="text-amber-400">*</span></label>
+        <input type="file" id="image" name="image" accept="image/jpeg,image/png" required
+               class="w-full text-sm" />
+      </div>
+
+      <div>
+        <label for="source_url" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Source URL (where the image / record is from)</label>
+        <input type="url" id="source_url" name="source_url" placeholder="https://..."
+               class="w-full rounded border border-dusk bg-ink/60 px-3 py-2" />
+      </div>
+
+      <div>
+        <label for="credit" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Credit (photographer, museum, or your name)</label>
+        <input type="text" id="credit" name="credit" maxlength="200"
+               class="w-full rounded border border-dusk bg-ink/60 px-3 py-2" />
+      </div>
+
+      <div>
+        <label for="license" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">License</label>
+        <select id="license" name="license" class="w-full rounded border border-dusk bg-ink/60 px-3 py-2">
+          {licenses.map((l) => <option value={l.value}>{l.label}</option>)}
+        </select>
+      </div>
+
+      <div class="grid grid-cols-2 gap-4">
+        <div>
+          <label for="submitter_name" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Your name (optional)</label>
+          <input type="text" id="submitter_name" name="submitter_name" maxlength="100"
+                 class="w-full rounded border border-dusk bg-ink/60 px-3 py-2" />
+        </div>
+        <div>
+          <label for="submitter_email" class="mb-1 block text-[11px] font-mono uppercase tracking-widest text-parchment/50">Email (optional, for reply)</label>
+          <input type="email" id="submitter_email" name="submitter_email" maxlength="200"
+                 class="w-full rounded border border-dusk bg-ink/60 px-3 py-2" />
+        </div>
+      </div>
+
+      <div class="pt-4">
+        <button type="submit" id="submit-btn"
+                class="rounded bg-amber-500 px-6 py-2 text-ink font-medium hover:bg-amber-400 transition disabled:opacity-50 disabled:cursor-not-allowed">
+          Submit for review
+        </button>
+        <span id="submit-status" class="ml-4 text-sm text-parchment/60"></span>
+      </div>
+    </form>
+
+    <div id="result" class="mt-8"></div>
+  </div>
+</Base>
+
+<script>
+  const form = document.getElementById('contribute-form') as HTMLFormElement;
+  const btn = document.getElementById('submit-btn') as HTMLButtonElement;
+  const status = document.getElementById('submit-status') as HTMLSpanElement;
+  const result = document.getElementById('result') as HTMLDivElement;
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    btn.disabled = true;
+    status.textContent = 'Uploading…';
+    result.innerHTML = '';
+
+    try {
+      const data = new FormData(form);
+      const res = await fetch('/api/contribute', { method: 'POST', body: data });
+      const json = await res.json();
+      if (!res.ok) {
+        result.innerHTML = `<div class="rounded border border-red-500/40 bg-red-500/10 p-4 text-red-300">Error: ${json.error ?? 'unknown'}</div>`;
+        status.textContent = '';
+        btn.disabled = false;
+        return;
+      }
+      form.reset();
+      result.innerHTML = `<div class="rounded border border-green-500/40 bg-green-500/10 p-4 text-green-300">
+        Thanks — your submission (<code class="font-mono text-xs">${json.id}</code>) is queued for review.
+        We'll reply if you gave an email.
+      </div>`;
+      status.textContent = '';
+      btn.disabled = false;
+    } catch (err) {
+      result.innerHTML = `<div class="rounded border border-red-500/40 bg-red-500/10 p-4 text-red-300">Network error, please try again.</div>`;
+      status.textContent = '';
+      btn.disabled = false;
+    }
+  });
+</script>

@@ -1,0 +1,182 @@
+---
+import Base from '../../layouts/Base.astro';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { unwrapLang, stripExt, cleanList, cleanMediumRaw, displayTitle, cleanMadeInPlace } from '../../lib/clean';
+
+export async function getStaticPaths() {
+  const dir = path.resolve('./public/data/objects');
+  const files = await fs.readdir(dir).catch(() => []);
+  return files
+    .filter((f) => f.endsWith('.json'))
+    .map((f) => ({ params: { id: f.replace(/\.json$/, '') } }));
+}
+
+const { id } = Astro.params;
+const objectPath = path.resolve(`./public/data/objects/${id}.json`);
+const rec: any = JSON.parse(await fs.readFile(objectPath, 'utf-8'));
+
+const primaryImg = (rec.images ?? []).find((i: any) => i.role === 'primary') ?? rec.images?.[0];
+const altImgs = (rec.images ?? []).filter((i: any) => i !== primaryImg);
+const p = rec.physical ?? {};
+const s = rec.source ?? {};
+const c = rec.cultural ?? {};
+const loc = rec.location ?? {};
+const attr = rec.attribution ?? {};
+const ld = rec.linked_data ?? {};
+
+// Sanitized display values (see lib/clean.ts for reasoning behind each helper)
+const dispTitle = displayTitle(p.title, unwrapLang(p.classification) || c.tradition);
+const dispDate = unwrapLang(p.date_text);
+const dispSummary = unwrapLang(p.summary);
+const dispHistorical = unwrapLang(p.historical_context);
+const dispPhysical = unwrapLang(p.physical_description);
+const dispMadeIn = cleanMadeInPlace(loc.made_in_place, c.country);
+const dispMedium = cleanMediumRaw(p.medium_raw);
+const dispMaterials = cleanList(p.materials);
+const dispTechniques = cleanList(p.techniques);
+// V&A lists every part's measurements in one array (jacket length, sleeve
+// length, belt width...). Group by part so they don't read as one long
+// "Length 77cm × Width 60cm × Length 151cm" product, and drop repeats.
+const dimGroups = new Map<string, string[]>();
+for (const d of p.dimensions ?? []) {
+  const part = (d.part ?? '').toString().trim();
+  const txt = `${d.dimension ?? ''} ${d.value}${d.unit ? ' ' + d.unit : ''}`.trim();
+  const list = dimGroups.get(part) ?? [];
+  if (!list.includes(txt)) list.push(txt);
+  dimGroups.set(part, list);
+}
+const dimLines = [...dimGroups].map(([part, v]) => (part ? `${part}: ` : '') + v.join(' × '));
+---
+
+<Base title={`${dispTitle || 'object'} · folk-patterns`}>
+  <div class="mx-auto max-w-6xl px-6 py-10">
+    <a href="/" class="font-mono text-[10px] uppercase tracking-widest text-parchment/40 hover:text-parchment">← back to atlas</a>
+
+    <div class="mt-6 grid gap-10 md:grid-cols-[minmax(0,1fr)_360px]">
+      {/* Image column */}
+      <div>
+        {primaryImg && (
+          <img
+            src={primaryImg.url ?? `/${(primaryImg.local_path ?? '').replace(/\\/g, '/')}`}
+            alt={p.title ?? ''}
+            class="w-full rounded-md border border-dusk"
+          />
+        )}
+        {altImgs.length > 0 && (
+          <div class="mt-2 grid grid-cols-4 gap-2">
+            {altImgs.map((i: any) => (
+              <img
+                src={i.url ?? `/${(i.local_path ?? '').replace(/\\/g, '/')}`}
+                alt=""
+                class="aspect-square rounded-sm border border-dusk object-cover"
+              />
+            ))}
+          </div>
+        )}
+      </div>
+
+      {/* Meta column */}
+      <div class="space-y-6">
+        <div>
+          <div class="font-mono text-[10px] uppercase tracking-widest text-parchment/40">
+            {c.country} · {c.ethnicity} · {c.tradition}
+          </div>
+          <h1 class="mt-1 font-serif text-3xl font-medium leading-tight">
+            {dispTitle || '(untitled)'}
+          </h1>
+          {dispDate && (
+            <p class="mt-2 text-sm text-parchment/60">
+              {dispDate}
+              {p.date_earliest && p.date_latest && p.date_earliest !== p.date_latest && (
+                <span class="ml-1 text-parchment/40">({p.date_earliest}–{p.date_latest})</span>
+              )}
+            </p>
+          )}
+        </div>
+
+        {dispSummary && (
+          <p class="text-parchment/80 leading-relaxed" set:html={dispSummary} />
+        )}
+        {dispHistorical && (
+          <p class="text-parchment/60 leading-relaxed border-l-2 border-amber-500/40 pl-4 italic text-sm" set:html={dispHistorical} />
+        )}
+        {dispPhysical && (
+          <details class="text-sm">
+            <summary class="font-mono text-[10px] uppercase tracking-widest text-parchment/40 cursor-pointer">Physical description</summary>
+            <p class="mt-2 text-parchment/70 leading-relaxed" set:html={dispPhysical} />
+          </details>
+        )}
+
+        <dl class="grid grid-cols-[100px_1fr] gap-x-4 gap-y-1.5 text-[12px]">
+          {dispMadeIn && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Made in</dt>
+            <dd>{dispMadeIn}</dd>
+          </>)}
+          {dispMedium && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Medium</dt>
+            <dd>{dispMedium}</dd>
+          </>)}
+          {dispMaterials.length > 0 && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Materials</dt>
+            <dd>{dispMaterials.join(', ')}</dd>
+          </>)}
+          {dispTechniques.length > 0 && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Techniques</dt>
+            <dd>{dispTechniques.join(', ')}</dd>
+          </>)}
+          {p.dimensions?.length > 0 && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Size</dt>
+            <dd>{dimLines.map((l) => <div>{l}</div>)}</dd>
+          </>)}
+          {p.dimensions_note && !p.dimensions?.length && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Size</dt>
+            <dd>{p.dimensions_note}</dd>
+          </>)}
+          {p.classification && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Type</dt>
+            <dd>{p.classification}</dd>
+          </>)}
+          {p.categories?.length > 0 && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Categories</dt>
+            <dd class="text-parchment/70">{p.categories.join(' › ')}</dd>
+          </>)}
+          {loc.current_gallery && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Gallery</dt>
+            <dd>{loc.current_museum}, gallery {loc.current_gallery}</dd>
+          </>)}
+          {s.credit_line && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Credit</dt>
+            <dd class="text-parchment/70">{s.credit_line}</dd>
+          </>)}
+          {s.accession_number && (<>
+            <dt class="text-parchment/40 uppercase font-mono text-[10px]">Accession</dt>
+            <dd class="font-mono">{s.accession_number}{s.accession_year && ` (${s.accession_year})`}</dd>
+          </>)}
+        </dl>
+
+        <div class="border-t border-dusk pt-4 text-[12px]">
+          <div class="font-mono text-[10px] uppercase tracking-widest text-parchment/40 mb-2">Provenance</div>
+          <div class="space-y-1">
+            <div><span class="text-parchment/40">Source: </span>{s.museum_name}</div>
+            {s.object_url && (
+              <div>
+                <a href={s.object_url} target="_blank" rel="noopener" class="text-amber-400 hover:underline">
+                  View at {s.museum_name} →
+                </a>
+              </div>
+            )}
+            {ld.wikidata_url && (
+              <div>
+                <a href={ld.wikidata_url} target="_blank" rel="noopener" class="text-amber-400 hover:underline">Wikidata</a>
+              </div>
+            )}
+            {s.rights && (
+              <div class="text-parchment/40">Rights: {s.rights}{s.license_url && <> · <a href={s.license_url} class="hover:underline">license</a></>}</div>
+            )}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</Base>
