@@ -98,6 +98,11 @@ NON_CULTURAL_PROVIDER_TOKENS = (
     # are bibliographic records, not folk material culture.
     "libraries", "bibliothek", "biblioteca", "bibliothèque",
     "national library", "university library", "state archive",
+    # Measured on the full re-vet (2026-09-24, docs/museums.md): these gave
+    # only newspaper pages, book scans and Paris couture sketches — 0 kept of
+    # 32, 5, 4, 4 and 9 records.
+    "historical press", "virtual library", "digital library", "digital memory",
+    "uppsala university", "palais galliera",
     # Academic research repositories — full-text PDFs of papers, not artifacts.
     "ssoar", "gesis", "leibniz institute for the social",
     "polytechnic university", "open access repository",

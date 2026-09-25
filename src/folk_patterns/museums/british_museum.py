@@ -10,8 +10,19 @@ public HTML pages still work fine, so this module scrapes those:
   Detail page: https://www.britishmuseum.org/collection/object/<unique_id>
     (returns HTML with og:title, og:description, og:image metadata)
 
-curl_cffi impersonation still required to pass Cloudflare's TLS check.
-No API key needed.
+Search by BM's own "Ethnic group" facet (`ethnic_name=San`) whenever it has
+records for the culture. A bare keyword search runs over the whole collection,
+print room included: `keyword=san` answers 15,290 results against 383 for
+`ethnic_name=San`, `chin` 7,043 against 539, `thai` 1,531 against 53
+(measured 2026-09-24), and on the full re-vet 34% of BM records were dropped,
+most of them from those collisions. Keyword search is the fallback for a
+culture the facet does not know (`Cham` has 1 facet record).
+
+Cloudflare: since 2026-09-24 every curl_cffi impersonation gets 403. A
+`cf_clearance` cookie earned by a real Chrome passes, used with that Chrome's
+User-Agent. Set BM_CDP_URL (e.g. http://127.0.0.1:9226) to a Chrome with
+remote debugging and `_client()` opens the search page there once and copies
+the cookie. No API key needed.
 """
 from __future__ import annotations
 
@@ -45,8 +56,27 @@ _OG_IMAGE_RE = re.compile(r'<meta property="og:image" content="([^"]+)"')
 
 
 def _client():
+    import os
     from curl_cffi import requests as _cc
-    return _cc.Session(impersonate="chrome124", timeout=45, verify=False)
+    s = _cc.Session(impersonate="chrome131", timeout=45, verify=False)
+    cdp = os.environ.get("BM_CDP_URL")
+    if cdp:
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            ctx = p.chromium.connect_over_cdp(cdp).contexts[0]
+            pg = ctx.new_page()
+            pg.goto(SEARCH_URL + "?keyword=textile", wait_until="domcontentloaded", timeout=60000)
+            pg.wait_for_timeout(5000)
+            ua = pg.evaluate("navigator.userAgent")
+            pg.close()
+            for c in ctx.cookies():
+                if "britishmuseum" in c["domain"]:
+                    s.cookies.set(c["name"], c["value"], domain=c["domain"])
+        s.headers["User-Agent"] = ua
+    r = s.get(SEARCH_URL, params={"keyword": "textile"})
+    if r.status_code == 403:
+        print("  ! British Museum answers 403 (Cloudflare) — set BM_CDP_URL", flush=True)
+    return s
 
 
 def _clean_title(t: str) -> str:
@@ -54,9 +84,15 @@ def _clean_title(t: str) -> str:
     return t.split(" | ")[0].strip()
 
 
-def search_ids(client, query: str, page: int = 0) -> list[str]:
+def search_ids(client, query: str | None, page: int = 1,
+               ethnic_name: str | None = None) -> list[str]:
     """Return unique object IDs from one search page (~100 per page)."""
-    r = client.get(SEARCH_URL, params={"keyword": query, "page": page})
+    params = {"page": page}
+    if query:
+        params["keyword"] = query
+    if ethnic_name:
+        params["ethnic_name"] = ethnic_name
+    r = client.get(SEARCH_URL, params=params)
     if r.status_code != 200:
         return []
     ids: list[str] = []
@@ -117,6 +153,7 @@ def scrape_ethnicity(
     max_total: int = 60,
     accept_tokens: list[str] | None = None,
     tradition_tokens: list[str] | None = None,
+    ethnic_name: str | None = None,
 ) -> int:
     """Search each query via HTML search page, then fetch each detail
     page. Attribution filter: keep a record if EITHER an ethnonym token
@@ -146,8 +183,27 @@ def scrape_ethnicity(
             tokens.add(t.strip().lower())
     tokens = {t for t in tokens if len(t) >= 3}
 
+    # BM's own ethnic attribution first; keyword search only when it has none.
+    facet = (ethnic_name or ethnicity.split(" (")[0]).strip()
+    facet_ids: list[str] = []
+    for page in range(1, 10):
+        try:
+            ids = search_ids(client, None, page=page, ethnic_name=facet)
+        except Exception as e:
+            print(f"  ! bm facet {facet!r} page {page} failed: {e}", flush=True)
+            break
+        new = [i for i in ids if i not in facet_ids]
+        if not new:
+            break
+        facet_ids += new
+        time.sleep(0.3)
+    use_facet = len(facet_ids) >= 20
+    print(f"  bm ethnic_name={facet!r}: {len(facet_ids)} ids -> "
+          f"{'facet' if use_facet else 'keyword search'}", flush=True)
+
     # Search-result cache: {query: [ids...]}
-    cache_key = f"bm-html__{country.replace(' ','_')}__{ethnicity.replace(' ','_')}"
+    cache_key = (f"bm-{'facet' if use_facet else 'html'}__"
+                 f"{country.replace(' ','_')}__{ethnicity.replace(' ','_')}")
     cache = raw_path("british-museum", cache_key)
     if cache.exists():
         try:
@@ -157,12 +213,14 @@ def scrape_ethnicity(
     else:
         search_data = {"ids": [], "details": {}}
 
+    if use_facet and not search_data.get("ids"):
+        search_data = {"ids": facet_ids, "details": {}}
     if not search_data.get("ids"):
         all_ids: list[str] = []
         seen: set[str] = set()
         for q in queries:
             try:
-                ids = search_ids(client, q, page=0)
+                ids = search_ids(client, q, page=1)
             except Exception as e:
                 print(f"  ! bm search {q!r} failed: {e}", flush=True)
                 continue
@@ -205,7 +263,7 @@ def scrape_ethnicity(
 
         # Attribution + junk filters
         hay = f"{detail['title']} {detail['description']}".lower()
-        if not any(tok in hay for tok in tokens):
+        if not use_facet and not any(tok in hay for tok in tokens):
             rejected_attribution += 1
             continue
         if should_reject(detail["title"], detail["description"], "British Museum")[0]:
