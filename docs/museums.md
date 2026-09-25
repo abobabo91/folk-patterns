@@ -99,7 +99,13 @@ of one, and it stays under the radar.
 
 **Deep-fetch cache:** `data/raw/va-deep/<systemNumber>.json`. Keep this; it's the expensive one.
 
+**Search by place, not by people name.** V&A catalogues by place of origin, so an ethnonym `q` matches titles and pattern names instead. Measured 2026-09-25: `Chin` → 1,144, mostly Chin-Chin prints; `Persian` → 4,521, mostly pattern names ("Persian Sprig") and archive records; `Turkish` → 2,588, mostly European pictures of Turks. Only `Malay` (624, 80% placed in the Malay Peninsula / Malaysia) was real. Per-country place counts are in [source-census.md](source-census.md).
+
 ## Met Museum
+
+**For counting, use the open-access CSV, not the API.** `https://media.githubusercontent.com/media/metmuseum/openaccess/master/MetObjects.csv` (318 MB, 484,956 objects, refreshed daily) has `Culture`, `Country`, `Region`, `Department`, `Object End Date` and `Is Public Domain` for every object. The API cannot do this: fetching `/objects/{id}` with 8–12 parallel workers gets HTTP 403 after about 70 requests (measured 2026-09-25), so a department-wide pull of ~70k objects is not feasible. Keep the CSV in `.cache/` (gitignored).
+
+**What the CSV shows for our cultures** (public domain, dated 1700 or later — see [source-census.md](source-census.md)): Persian 90 by culture and 639 with country Iran, Turkish 129 and 376, Javanese 74, Thai 53, Yoruba 28, Kongo 23. Everything else is under 15. The Islamic Art department leaves `Culture` empty and records origin in `Country`; Asian Art writes place into `Culture` ("Indonesia (Central Java)"). Only 6,370 of the Africa/Oceania/Americas department's 12,254 objects are public domain, and most of those are pre-Columbian.
 
 **Silent-fallback bug.** `GET /search?q=<term>` returns a ~128-item "highlights" fallback set for any term it doesn't recognize, including nonsense strings. Confirmed 2026-07-18:
 
@@ -123,6 +129,10 @@ Wrap the `.json()` call in try/except and skip the ID — one bad object must no
 **Sanity-check against the V&A, not the Met.** V&A returns 0 for a nonsense term and correct counts
 for real ones, so it behaves like a real search index. When testing a new museum-API pattern, verify
 your expectations there first, then adapt for the Met's fallback behaviour.
+
+## Smithsonian
+
+**The pool is NMNH Anthropology, and it is culture-tagged.** `"<name>" AND online_media_type:"Images"` with the natural-history units excluded returns almost only `unitCode NMNHANTHRO`, and `content.indexedStructured.culture` names the people as a Library of Congress heading: `Malays (Asian people)`, `Dayak (Indonesian people)`, `Filipinos`, `Yoruba`. Counted 2026-09-25: Dayak 1,634, Malay ~1,660, Filipino ~940, Yoruba 352, Kuba 397 — ~10,000 over the atlas, 33 held. The fielded query `culture:"Yoruba"` returns 0 although the field says Yoruba; filter on the field client-side instead. NMAfA barely appears in open-access image results.
 
 ## Rijksmuseum
 

@@ -164,5 +164,6 @@ See [`docs/adding-a-region.md`](docs/adding-a-region.md).
 - [`docs/adding-a-region.md`](docs/adding-a-region.md) — new region playbook
 - [`docs/classifier.md`](docs/classifier.md) — art_form and pattern_density rules
 - [`docs/museums.md`](docs/museums.md) — per-museum quirks and workarounds
+- [`docs/source-census.md`](docs/source-census.md) — how many unscraped objects each source holds per culture
 
 Findings kept in `tools/knowledge base/museum open access apis 2026-07.md`.
