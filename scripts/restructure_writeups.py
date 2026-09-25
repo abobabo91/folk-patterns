@@ -10,7 +10,7 @@ already in the writeup.
 The original is kept next to it as <name>.long.md the first time it is
 overwritten. Each rewrite is audited against its original before it is
 written — every heading present, every vernacular term and every number of
-the new text found in the old one — and retried once when it fails; a
+the new text found in the old one — and retried once when it fails, with the audit's objections added to the prompt; a
 second failure leaves the file untouched and is reported. Cost and audit go
 to data/writeup_restructure.jsonl.
 """
@@ -78,7 +78,7 @@ def run(path: Path, preview: bool) -> str:
     eth, country = _meta(md)
     cost, probs, attempt, new = 0.0, [], 0, ""
     for attempt in (1, 2):
-        new, ev = restructure_writeup(md, eth, country)
+        new, ev = restructure_writeup(md, eth, country, feedback=probs or None)
         cost += ev.get("total_cost_usd") or 0
         probs = audit(md, new)
         with open(LOG, "a", encoding="utf-8") as f:

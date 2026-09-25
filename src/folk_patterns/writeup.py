@@ -331,6 +331,7 @@ def _render_restructured(front: str, d: dict) -> str:
                     term = ""
             if term:
                 used.add(term.lower())
+            name = name[:1].upper() + name[1:]   # Haiku often lowercases English names
             out.append(f"- **{name}**" + (f" (*{term}*)" if term else "") + f" — {(it.get('text') or '').strip()}")
     text = "\n".join(out).lower()
     gl = [x for x in (d.get("glossary") or []) if (x.get("term") or "").strip() and x["term"].strip().lower() in text][:25]
@@ -342,7 +343,7 @@ def _render_restructured(front: str, d: dict) -> str:
 
 def restructure_writeup(markdown: str, ethnicity: str, country: str, timeout: int = 900,
                         model: str = RESTRUCTURE_MODEL, thinking: bool = False,
-                        effort: str | None = None) -> tuple[str, dict]:
+                        effort: str | None = None, feedback: list[str] | None = None) -> tuple[str, dict]:
     """Rewrite an existing writeup into the fixed short format, using only its
     own facts: the model extracts JSON, _render_restructured writes the
     markdown. Returns (markdown or "" on a bad reply, claude json event)."""
@@ -364,6 +365,10 @@ def restructure_writeup(markdown: str, ethnicity: str, country: str, timeout: in
     keys = ", ".join(f'"{k}": {{"lead": "...", "items": [...]}}' for k in SECTIONS)
     prompt = RESTRUCTURE_PROMPT.format(
         ethnicity=ethnicity, country=country, markdown=markdown, section_keys=keys)
+    if feedback:   # a retry: the audit's objections to the previous attempt
+        prompt += ("\n\nA previous attempt was rejected because it used words or numbers the profile does "
+                   "not contain. Every term and number must appear verbatim in the profile. Rejected:\n- "
+                   + "\n- ".join(feedback))
     res = subprocess.run(cmd, input=prompt, capture_output=True, text=True, encoding="utf-8",
                          timeout=timeout, cwd=d, env=env)
     ev = json.loads(res.stdout)

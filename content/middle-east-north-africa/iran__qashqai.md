@@ -5,76 +5,157 @@ region: "Middle East North Africa"
 tags: [ethnography, middle-east-north-africa]
 ---
 
+## At a glance
+| | |
+|---|---|
+| Who | A Turkic-speaking tribal confederation of southwestern Iran |
+| Where | Fars Province in the Zagros Mountains, between summer pastures around Semirom and winter quarters near the Persian Gulf |
+| How many | Roughly 1.5 to 2 million |
+| Language | Qashqai Turkic, an Oghuz idiom closely related to Azerbaijani |
+| Religion | Twelver Shiʿi Muslims |
+| Known for | Flat-woven kilims and deeply piled gabbehs · Paired saddlebags called khorjins · Long-necked lute music and aşıq bardic song · Distinctive men's felt hat with ear-flaps · Biannual migration between summer and winter pastures |
+
 ## Overview
 
-The Qashqai (*Qašqāʾī*, also transliterated Kashkai, Kashgai, Ghashghai or Qashqa'i) are a Turkic-speaking tribal confederation of southwestern Iran, historically the most powerful of the pastoral nomadic groupings of the Zagros. Their heartland is Fars Province — the high summer pastures (*yaylāq*) of the Zagros around Semirom, Shahreza and the Kuh-e Dinar range, and the winter quarters (*qešlāq*) in the warm lowlands stretching toward the Persian Gulf near Firuzabad, Kazerun and Farrashband. The confederation is organised into named component tribes, of which the largest and most frequently cited are the *Shishboluki*, *Amaleh*, *Darrehshuri*, *Kashkuli* (Bozorg and Kuchak), and *Farsimadan*, together with several smaller units such as the Qarachaʾi and Rahimi. Their language, *Qašqāʾī Türkčäsi*, is an Oghuz Turkic idiom closely related to Azerbaijani, carried into Fars in successive medieval and early-modern migrations from the north, with a heavy overlay of Persian loanwords and a Persianate literary culture. Estimates of population vary widely and are politically sensitive; a commonly cited range is roughly 1.5 to 2 million, of whom only a minority still practise the full biannual *kuč* (long vertical migration) between summer and winter pasture. In folk-culture terms the Qashqai matter above all as weavers: the flat-woven *kilim* and *jajim*, the deeply piled *gabbeh*, the paired saddlebag *khorjin* and the small salt bag *namakdan* constitute one of the most instantly recognisable tribal weaving traditions of the Islamic world, and their long-necked lute repertoire and *aşıq*-style bardic song sit alongside the textiles as the second great signature of the group.
+The Qashqai are the historically most powerful pastoral nomadic confederation of the Zagros, organized into named component tribes including the Shishboluki, Amaleh, Darrehshuri, and Kashkuli. Their heartland stretches from high summer pastures around Semirom to warm winter quarters near Firuzabad. A minority still practice the full biannual kuč migration between pastures, while increasing numbers have settled into fixed houses. They are renowned above all as weavers and musicians, with textiles and long-necked lute repertoires constituting the confederation's two great cultural signatures.
 
 ## Material culture
 
+Qashqai material culture is dominated by hand-woven textiles made by women on horizontal ground looms, while metalwork and ceramics have historically been purchased from settled towns rather than produced locally.
+
 ### Textile & pattern traditions
 
-Weaving is the defining Qashqai craft, worked almost exclusively by women on horizontal ground looms that can be dismantled and loaded onto pack animals for the migration. The wool comes from the confederation's own fat-tailed sheep, hand-spun with a drop spindle (*duk*), and dyes are traditionally vegetal — madder for the deep brick reds, indigo for the blues, walnut husk and oak gall for browns and blacks, weld and vine leaves for yellows — although synthetic dyes have been common since the late nineteenth century.
+Weaving is the defining Qashqai craft, worked almost exclusively by women on dismantleable horizontal ground looms using hand-spun wool from the confederation's own fat-tailed sheep and traditionally vegetal dyes.
 
-**Qashqai carpet / Qashqai rug** — knotted-pile carpets, typically in the asymmetric (Persian, *senneh*) knot on a wool foundation, with a saturated madder-red or indigo-blue field. The classic Qashqai design is the pole-medallion (*heybatlu*) with elongated stepped diamond medallions and a densely filled ground of small ancillary motifs: birds (*morğ*), stylised human figures, combs, boteh, and the distinctive "chicken" and "dog" fillers. The Kashkuli sub-tribe is associated with the finest and most curvilinear work, sometimes approaching city-workshop quality.
-
-**Gabbeh** — thick, coarsely knotted pile rugs with a long, shaggy pile and a radically simplified drawing: two or three animals or human figures set on a plain madder-red or camel-ground field, with a narrow border or none at all. Originally domestic bedding and floor cover rather than commercial goods, the gabbeh (*gabbe*, "raw" or "natural" in colloquial Persian) has since the 1980s become the most internationally collected of all Qashqai weavings.
-
-**Kilim** — flat-woven, weft-faced tapestry rugs in slit-tapestry technique, with strong banded compositions of stepped diamonds, hooked *S* motifs, and the ram's-horn (*qoçboynuzu*) figure. Qashqai kilims are distinguished from their Kurdish and Shahsevan counterparts by a warmer red and by a preference for narrow horizontal registers.
-
-**Jajim** — narrow warp-faced striped weavings, produced in long strips (roughly 30–40 cm wide) and sewn together edge-to-edge to make bedcovers, wall hangings and mattress covers. Palette is typically red, blue, black and undyed cream in fine warp stripes broken by small pick-up motifs.
-
-**Khorjin** — the paired saddlebag, two square pouches joined by a woven bridge, made in mixed technique combining flatweave, pile, weft-substitution and *soumak* wrapping on a single piece. The face of each pouch is the most densely patterned surface in Qashqai weaving; the underside is plain kilim. Khorjins were made for horses, mules and donkeys, and smaller versions (*chanteh*) for personal use.
-
-**Namakdan** — the salt bag, a bottle-shaped weaving with a narrow neck and a wider body, closed with a woven cord. The narrow neck kept salt dry and inaccessible to livestock on the march; the form is now almost purely decorative but remains a signature Qashqai object.
-
-**Motif vocabulary.** *Boteh* (paisley, fertility), *qoçboynuzu* (ram's horn, virility), *morğ* (bird), *deve* (camel), *āyneh* (mirror, protective), *āfṭāb* (sun disc), *dast* (hand, apotropaic), *āqrab* (scorpion, warding), *segoosh* (three-eared amulet), stepped diamond *gol*, and the small *S* and swastika-like hook fillers collectively called *çengel*.
+- **Qashqai carpet** (*Qashqai rug*) — Knotted-pile carpets typically in the asymmetric senneh knot with a saturated madder-red or indigo-blue field, featuring the classic pole-medallion design with elongated stepped diamond medallions and densely filled grounds of small motifs like birds, stylised human figures, and combs.
+- **Gabbeh** (*gabbe*) — Thick, coarsely knotted pile rugs with long shaggy pile and radically simplified drawing of two or three animals or human figures on a plain madder-red or camel-ground field, originally domestic bedding that became internationally collected from the 1980s onward.
+- **Kilim** — Flat-woven, weft-faced tapestry rugs in slit-tapestry technique with strong banded compositions of stepped diamonds, hooked S motifs, and the ram's-horn figure, distinguished from Kurdish and Shahsevan counterparts by warmer red and preference for narrow horizontal registers.
+- **Khorjin** — Paired saddlebags made in mixed technique combining flatweave, pile, weft-substitution and soumak wrapping, with each pouch's face densely patterned and underside plain kilim, made for horses, mules and donkeys.
+- **Salt bag** (*namakdan*) — Bottle-shaped weaving with narrow neck and wider body, closed with a woven cord, originally designed to keep salt dry and inaccessible to livestock on the march and now a signature decorative Qashqai object.
 
 ### Clothing & dress
 
-Qashqai men's dress is among the most immediately recognisable in Iran and is often invoked as a marker of confederation identity. The core is a long-sleeved white or cream shirt worn over wide black trousers, with a short collarless jacket (*arxaluq*) and, over that, a heavy sleeveless felt cloak (*kapanak*) for the migration. The signature element is the two-flapped felt hat (*doşlaqlï börk* or, in Persian, *kolāh-e do gushi*), a rounded natural-cream felt cap with two upturned ear-flaps at the front and back — reportedly popularised or reinforced under the paramount khan Ismāʿīl Khan Solat al-Dowleh in the early twentieth century as a distinguishing sign against Reza Shah's imposed European hats. A folded cummerbund (*šāl*) is wound at the waist. Women's dress is by contrast extraordinarily colourful and voluminous: multiple layered wide skirts (*tunbān* or *tuman*) of printed or plain cloth, often five to fifteen skirts worn simultaneously to produce a bell silhouette, over narrow trousers; a short fitted velvet or silk tunic (*arxaluq*) with a long open front; and a triangular headscarf (*charqad* or *lachak*) worn tied loosely at the back of the head rather than under the chin, leaving the front hair and often gold coin ornaments visible. Bright pinks, oranges, greens and yellows are preferred, and married women's skirts typically carry sequins and metallic braid at the hem. Children's dress miniaturises the adult forms.
+Qashqai men's dress is among the most immediately recognisable in Iran, centered on a white shirt, black trousers, and collarless jacket topped with a distinctive two-flapped felt hat, while women's dress is extraordinarily colourful and voluminous with multiple layered skirts.
+
+- **Two-flapped felt hat** (*doşlaqlï börk or kolāh-e do gushi*) — A rounded natural-cream felt cap with two upturned ear-flaps at the front and back, reportedly popularised under the paramount khan Ismāʿīl Khan Solat al-Dowleh in the early twentieth century as a distinguishing sign against Reza Shah's imposed European hats.
+- **Sleeveless felt cloak** (*kapanak*) — A heavy felt garment worn over the short collarless jacket for protection during the migration.
+- **Collarless jacket** (*arxaluq*) — A short jacket worn over the long-sleeved shirt by men, and also made in short fitted velvet or silk versions worn by women over their many layered skirts.
+- **Layered skirts** (*tunbān or tuman*) — Multiple wide skirts of printed or plain cloth, often five to fifteen worn simultaneously by women to produce a bell silhouette, typically carrying sequins and metallic braid at the hem in married women's versions.
+- **Triangular headscarf** (*charqad or lachak*) — Worn tied loosely at the back of the head rather than under the chin, leaving the front hair and often gold coin ornaments visible.
 
 ### Architecture
 
-The Qashqai have, in the strict sense, no monumental architecture: they are pastoral nomads and their signature dwelling is the black tent (*siyāh čādor* or *alāčïq*), woven by the women themselves from hand-spun goat hair in long strips sewn together. The tent is rectangular, supported on internal wooden poles and guyed with hair ropes, open along one long side in fair weather and closed with a hanging kilim in cold or wind; the interior is divided by a low reed screen (*čïğ*) into a men's reception side and a women's working and sleeping side, with the hearth toward the front. A woven reed windbreak, often patterned with coloured wool bindings, encloses the tent at the rear. On the summer pastures dry-stone livestock pens and low stone platforms mark repeatedly used campsites. In the twentieth century — accelerating under the forced settlement (*taxt-e qāpū*) of Reza Shah in the 1930s and under later Pahlavi and Islamic Republic sedentarisation programmes — a growing share of the confederation has moved into fixed mud-brick and, more recently, concrete-block village houses in Fars, retaining the tent only for the summer months or abandoning it altogether. Where fixed houses exist they follow the regional Fars vernacular — a walled courtyard, a *sofeh* veranda, flat roof — rather than any distinctively Qashqai type.
+The Qashqai have no monumental architecture; their signature dwelling is the black tent woven by women from hand-spun goat hair, with interior divided into men's and women's sections by a low reed screen.
+
+- **Black tent** (*siyāh čādor or alāčïq*) — A rectangular tent woven by women from hand-spun goat hair in long strips sewn together, supported on internal wooden poles, open along one long side in fair weather and closed with a hanging kilim in cold or wind.
+- **Interior reed screen** (*čïğ*) — A low reed divider that separates the tent interior into a men's reception side and a women's working and sleeping side, with the hearth toward the front.
+- **Woven reed windbreak** (*windbreak*) — A patterned enclosure often decorated with coloured wool bindings that encloses the tent at the rear for protection.
 
 ### Ceramics, metalwork & everyday objects
 
-Ceramics are not a Qashqai craft: as migratory pastoralists they historically bought pottery from the settled towns of Fars (Shiraz, Firuzabad, Kazerun) rather than producing it themselves, and the fragile earthenware of the Iranian plateau does not survive the pack animal well in any case. Metalwork is likewise a limited domestic tradition. Blacksmiths (*āhangar*) — often from associated non-Qashqai service groups such as the Ghorbati — travelled with or between camps to make and mend horseshoes, sickles, shears for the spring shearing, tent pegs, and the iron tripods and skewers used at the hearth. Copper cooking pots (*dig*), long-handled ladles, and tinned trays were purchased in the bazaars of Shiraz and retinned periodically by itinerant tinsmiths. Distinctively Qashqai everyday objects are almost all woven or wooden: the drop spindle (*duk*), the wooden butter churn hung from a tripod and rocked to make yoghurt butter (*maš*), carved wooden spoons and cradles, leather water bags (*mašk*) made from a whole goat skin, and the woven storage sacks (*juvāl*) in which grain, salt and clothing travel between pastures.
+Ceramics are not a Qashqai craft, historically purchased from settled towns, while metalwork remains a limited domestic tradition of travelling blacksmiths; distinctively Qashqai everyday objects are almost all woven or wooden.
+
+- **Drop spindle** (*duk*) — A device used to hand-spin wool from the confederation's fat-tailed sheep into yarn for weaving.
+- **Wooden butter churn** (*maš*) — A churn hung from a tripod and rocked to make yoghurt butter from dairy products.
+- **Leather water bag** (*mašk*) — Made from a whole goat skin and used to carry water during the migration.
+- **Woven storage sack** (*juvāl*) — Used to transport grain, salt and clothing between pastures during migration.
 
 ### Jewelry & body adornment
 
-Qashqai women's jewellery is silver, worn in quantity and layered visibly over the tunic and headscarf. Characteristic forms include long strings of Ottoman, Qajar and Pahlavi gold and silver coins (*sekke*) sewn to the headscarf or hung across the forehead as a fringe; large hollow silver bead necklaces; cylindrical or box-shaped amulet cases (*doʿā* or *tumār*) holding a folded Quranic verse, worn on the chest; heavy silver bracelets, often granulated or set with turquoise and carnelian; and rings on multiple fingers. Men wear far less — commonly a single silver or agate (*ʿaqīq*) seal ring, and sometimes an amulet on a leather cord. Braided hair reaching well below the waist, sometimes lengthened with woollen extensions and bound with silver-tipped cords, is the traditional female form; girls' hair is tied back with coloured bands. Kohl (*sormeh*) and, at weddings, henna (*ḥanā*) on the palms and fingertips are commonly applied. Tattooing (*xāl-kubi*) of small dots and dashes on the chin, cheek, hand and ankle was widespread among older women, understood as both cosmetic and protective, though it is now rare among the younger generation.
+Qashqai women wear silver jewellery in quantity and layered visibly, including long strings of coins, large hollow silver bead necklaces, and amulet cases holding Quranic verses, while men wear minimal jewellery.
+
+- **Coin ornaments** (*sekke*) — Long strings of Ottoman, Qajar and Pahlavi gold and silver coins sewn to the headscarf or hung across the forehead as a fringe.
+- **Amulet case** (*doʿā or tumār*) — Cylindrical or box-shaped silver cases holding a folded Quranic verse, worn on the chest as protective pendants.
+- **Braided hair** — Female hair reaching well below the waist, sometimes lengthened with woollen extensions and bound with silver-tipped cords, the traditional female form.
+- **Kohl** (*sormeh*) — Eye cosmetic commonly applied by women.
+- **Henna** (*ḥanā*) — Applied to the palms and fingertips at weddings.
 
 ## Music & performance
 
-Qashqai music is dominated by the long-necked plucked lute *tār* and, above all, the double-reed shawm *sornā* (sorna) paired with the double-headed drum *naqqāra* (or the larger *dohol*), which together constitute the outdoor ensemble that announces every wedding, circumcision and mounted contest. Indoors and around the tent the lute *tanbur* and the goblet drum *tombak* accompany song. The signature vocal tradition is the *āšïq* (or *ʿāšeq*) — a bardic singer-poet in the wider Turkic mould, performing narrative songs and improvised couplets to his own lute; Qashqai *āšïq*s draw on a shared Oghuz repertoire including versions of *Kör-oğlu* and *Aşıq Ğarīb* alongside distinctively Qashqai lyric songs (*bayāt*) about migration, pasture, and beloved horses. Women's song is a separate and largely private register: lullabies (*lāy-lāy*), work songs sung at the loom and the churn, and the ritual laments (*savt*) sung at funerals and at the departure of a bride. Qashqai musicians have been an important channel for the wider circulation of Fars regional music, and several — most prominently the brothers of the Kiyani family — have brought the repertoire onto Iranian national stages and international recordings from the 1970s onward.
+Qashqai music is dominated by the long-necked plucked lute tār and the double-reed shawm sornā paired with the double-headed drum naqqāra, which together announce every wedding, circumcision and mounted contest.
+
+- **Long-necked plucked lute** (*tār*) — A stringed instrument that accompanies the signature vocal tradition of the aşıq bardic singer-poet.
+- **Double-reed shawm** (*sornā*) — An outdoor wind instrument paired with the naqqāra drum to announce weddings, circumcisions and mounted contests.
+- **Double-headed drum** (*naqqāra*) — Paired with the sornā as part of the outdoor ensemble, also played in the larger form called dohol.
+- **Indoors lute** (*tanbur*) — Accompanies song around the tent along with the goblet drum tombak.
+- **Bardic singer-poet** (*āšïq or ʿāšeq*) — Performs narrative songs and improvised couplets in the wider Turkic mould, drawing on a shared Oghuz repertoire and distinctively Qashqai lyric songs about migration, pasture, and beloved horses.
 
 ## Dance & theatre
 
-The characteristic Qashqai dance is the *chub-bāzī* ("stick game"), a men's stick dance performed at weddings and festivals to the *sornā* and *naqqāra*: two dancers face each other, one armed with a long staff and the other with a short stick, and combine stylised attack-and-parry with rhythmic footwork, the short-stick dancer defending in a crouching, spinning pattern. Women's dance is the *dastmāl-bāzī* or handkerchief dance, performed in a loose circle or facing pairs, with a coloured kerchief held in each hand and moved in figure-eights above the shoulders, the body turning in place with small rapid steps and the many-layered skirts flaring at the hem. Group circle dances in the wider Zagros mode are also performed, hands joined or linked at the little finger. Formal theatre in the urban Iranian sense (*taʿziye*, *rū-howzī*) is not a Qashqai tradition; dramatic performance instead takes the form of the *āšïq*'s narrated epics and of the ritualised mock combat of the stick dance itself.
+The characteristic Qashqai men's dance is the stick game performed at weddings and festivals, while women perform the handkerchief dance in loose circles or facing pairs.
+
+- **Stick game** (*chub-bāzī*) — A men's stick dance performed at weddings and festivals to the sornā and naqqāra, combining stylised attack-and-parry with rhythmic footwork between dancers armed with a long staff and a short stick.
+- **Handkerchief dance** (*dastmāl-bāzī*) — A women's dance performed in a loose circle or facing pairs with a coloured kerchief held in each hand and moved in figure-eights above the shoulders, the body turning in place with small rapid steps.
 
 ## Festivals & rituals
 
-The Qashqai ceremonial year is structured less by fixed religious dates than by the two great migrations: the spring *bahāreh kuč* northward from the Gulf lowlands to the summer pastures around Semirom, and the autumn *pāʾizeh kuč* back south. Both are marked by feasting, weaving displays and mounted games. *Nowruz*, the Iranian New Year at the spring equinox, is celebrated in a Qashqai idiom with the setting of a *haft-sīn* table inside the tent, the wearing of new clothes, and visits between camps. Weddings (*ʿarūsī*) are the largest single ritual event, extending over several days and combining the henna night (*ḥanā-bandān*), the bride's procession on a decorated mare, stick and handkerchief dancing, sornā-and-naqqāra music, and the display of the bride's woven dowry (*jahāz*) — the kilims, gabbehs, khorjins and namakdans she has made in the years before marriage. Circumcision (*xatna*), the first haircut of a boy, and the branding of a foal are lesser but comparable occasions. Islamic festivals — *ʿīd al-fiṭr*, *ʿīd al-aḍḥā*, and the Shiʿi mourning of *Muḥarram* — are observed in a low-key pastoral form, with the *taʿziye* passion plays of the settled towns rarely staged in the camps themselves.
+The Qashqai ceremonial year is structured less by fixed religious dates than by the two great migrations marked by feasting, weaving displays and mounted games, with weddings as the largest single ritual event.
+
+- **Spring migration** (*bahāreh kuč*) — The northward movement from the Gulf lowlands to the summer pastures around Semirom, marked by feasting, weaving displays and mounted games.
+- **Autumn migration** (*pāʾizeh kuč*) — The southward return to winter quarters, marked by feasting, weaving displays and mounted games.
+- **Wedding ceremony** (*ʿarūsī*) — The largest single ritual event extending over several days and combining the henna night, the bride's procession on a decorated mare, stick and handkerchief dancing, sornā-and-naqqāra music, and the display of the bride's woven dowry.
+- **Henna night** (*ḥanā-bandān*) — The first night of a wedding ceremony when henna is applied.
+- **New Year celebration** (*Nowruz*) — Celebrated at the spring equinox in a Qashqai idiom with the setting of a haft-sīn table inside the tent, the wearing of new clothes, and visits between camps.
 
 ## Foodways
 
-Qashqai foodways are those of a sheep- and goat-herding people of the Zagros, built around the products of the flock and around wheat and rice acquired by exchange with settled cultivators. The staple bread is a thin unleavened flatbread (*tīrī* or *nān-e tīrī*) baked on a convex iron griddle (*sāj*) laid over the tent hearth, torn and used as both plate and utensil. Dairy is central: fresh yoghurt (*māst*), a churned buttermilk drink (*dūğ*), fresh and dried curd (*kašk*), and clarified butter (*rowğan-e ḥeyvānī*). Meat — mutton, kid, occasionally camel — is eaten roasted on skewers over the hearth, stewed with pulses and dried herbs, or preserved for the migration as *qavurma*, small cubes of mutton fried and packed in their own fat. A distinctive Qashqai preparation, closely associated with wedding feasts, is a whole-lamb dish cooked in a pit oven with rice. Rice pilafs (*polow*) with barberries, saffron and pistachio are made for guests where means allow. Tea (*čāy*), brewed strong in a samovar and drunk from small waisted glasses with a lump of rock sugar (*nabāt*) held between the teeth, is the constant social medium.
+Qashqai foodways are built around the products of sheep and goat herding and around wheat and rice acquired by exchange with settled cultivators, centered on thin unleavened flatbread and dairy products.
+
+- **Unleavened flatbread** (*tīrī or nān-e tīrī*) — Thin bread baked on a convex iron griddle laid over the tent hearth, torn and used as both plate and utensil.
+- **Convex iron griddle** (*sāj*) — Laid over the tent hearth to bake unleavened flatbread.
+- **Churned buttermilk drink** (*dūğ*) — A dairy product made from yoghurt.
+- **Preserved meat** (*qavurma*) — Small cubes of mutton fried and packed in their own fat for consumption during the migration.
+- **Tea service** (*čāy*) — Brewed strong in a samovar and drunk from small waisted glasses with a lump of rock sugar held between the teeth, the constant social medium.
 
 ## Oral tradition & literature
 
-Qashqai literary production is overwhelmingly oral and bilingual: sung and recited in Qashqai Turkic, with a strong secondary current of Persian lyric absorbed through the wider Iranian culture. The core corpus is *āšïq* poetry — improvised and memorised quatrains and longer narrative songs — together with lullabies, wedding songs, laments, and a substantial body of proverbs (*atalar sözi*) and riddles. Epic narratives of the wider Oghuz world, including versions of *Kör-oğlu*, circulate in Qashqai recensions. A distinguished modern written tradition in Qashqai Turkic, using the Perso-Arabic script, was established in the twentieth century by the poet Muhammad Bahmanbegi and above all by the poet-scholar known as Yusof-e ʿAli Beygi and by Manṣūr Ṭayyefeh, drawing on both the *āšïq* heritage and Persian classical models. Bahmanbegi is also remembered as the founder, from the 1950s, of the celebrated tribal tent-schools (*madāres-e ʿašāyerī*) that brought literacy to the migrating camps.
+Qashqai literary production is overwhelmingly oral and bilingual, sung and recited in Qashqai Turkic with a strong secondary current of Persian lyric, centered on aşıq poetry, lullabies, wedding songs and laments.
+
+- **Bardic poetry** (*āšïq poetry*) — Improvised and memorised quatrains and longer narrative songs, together with epic narratives of the wider Oghuz world including versions of Kör-oğlu.
+- **Proverbs** (*atalar sözi*) — A substantial body of traditional sayings in the Qashqai language.
+- **Lullabies** (*lāy-lāy*) — Women's songs sung privately.
+- **Ritual laments** (*savt*) — Women's songs sung at funerals and at the departure of a bride.
 
 ## Language & religion
 
-The Qashqai speak an Oghuz Turkic language most closely related to Azerbaijani and to the Turkic of the Aynallu and other Fars Turkic enclaves, with heavy Persian lexical influence and a vigorous oral literature but no official status in Iran; it is transmitted at home and increasingly under pressure from Persian, which is the language of school, market and state. In religion the Qashqai are Twelver Shiʿi Muslims, aligned with the majority confession of Iran, though their practical religious life has historically been light on clerical infrastructure — few resident mullas in the camps, few purpose-built mosques — and heavier on domestic observance, pilgrimage to regional shrines (notably Shāh Chirāgh in Shiraz), and the amuletic and protective use of Quranic verses in the *tumār* pendants and in the motifs of the weavings. Sufi affiliations, principally to the Niʿmatullāhī order, are present but not dominant.
+The Qashqai speak an Oghuz Turkic language most closely related to Azerbaijani with heavy Persian lexical influence and no official status in Iran, and practice Twelver Shiʿi Islam with light clerical infrastructure and heavy reliance on domestic observance and protective Quranic verses.
+
+- **Qashqai Turkic** (*Qašqāʾī Türkčäsi*) — An Oghuz Turkic idiom most closely related to Azerbaijani and to the Turkic of the Aynallu and other Fars Turkic enclaves, with heavy Persian lexical influence and no official status in Iran.
+- **Twelver Shiʿi Islam** (*Twelver Shiʿi*) — The religious confession of the Qashqai, aligned with the majority faith of Iran, practiced with light clerical infrastructure and heavier reliance on domestic observance and pilgrimage to regional shrines.
+- **Protective amulet pendants** (*tumār*) — Pendants holding folded Quranic verses, worn for protection and amuletic purposes.
+
+## Glossary
+
+- *kuč* — Long vertical biannual migration between summer and winter pastures
+- *kilim* — Flat-woven tapestry rug
+- *gabbeh* — Thick coarsely knotted pile rug with long shaggy pile
+- *khorjin* — Paired saddlebags for pack animals
+- *namakdan* — Bottle-shaped salt bag with narrow neck
+- *duk* — Drop spindle for hand-spinning wool
+- *siyāh čādor* — Black tent woven from goat hair
+- *alāčïq* — Black tent woven from goat hair
+- *čïğ* — Low reed screen dividing tent interior
+- *sornā* — Double-reed shawm wind instrument
+- *naqqāra* — Double-headed drum for outdoor ensemble
+- *tār* — Long-necked plucked lute
+- *tanbur* — Indoor lute accompanying tent song
+- *tombak* — Goblet drum
+- *āšïq* — Bardic singer-poet performing narrative songs
+- *chub-bāzī* — Men's stick dance at weddings and festivals
+- *dastmāl-bāzī* — Women's handkerchief dance
+- *ʿarūsī* — Wedding ceremony
+- *bahāreh kuč* — Spring northward migration to summer pastures
+- *pāʾizeh kuč* — Autumn southward migration to winter quarters
+- *tīrī* — Thin unleavened flatbread
+- *sāj* — Convex iron griddle for baking bread
 
 ## Sources & further reading
 
 - Wikipedia: "Qashqai people", "Qashqai language", "Gabbeh (rug)", "Qashqai rug", "Kilim", "Khorjin".
 - UNESCO Intangible Cultural Heritage: the Fars regional traditions are represented in Iran's national inventories; see also the ICH element "Traditional skills of carpet weaving in Fars" (Iran, inscribed 2010).
-- Pierre Oberling, *The Qashqāʾī Nomads of Fārs* (The Hague: Mouton, 1974) — the standard historical monograph.
-- Lois Beck, *The Qashqa'i of Iran* (Yale University Press, 1986) and *Nomad: A Year in the Life of a Qashqa'i Tribesman in Iran* (University of California Press, 1991) — long-term ethnography, especially of the Qermezi subtribe of the Darrehshuri.
-- James Opie, *Tribal Rugs: Nomadic and Village Weavings from the Near East and Central Asia* (Laurence King, 1992) — chapter on Qashqai and Khamseh weavings.
-- Parviz Tanavoli, *Gabbeh: The George D. Bornstein Collection* and related monographs on Fars tribal weaving.
+- Pierre Oberling, The Qashqāʾī Nomads of Fārs (The Hague: Mouton, 1974) — the standard historical monograph.
+- Lois Beck, The Qashqa'i of Iran (Yale University Press, 1986) and Nomad: A Year in the Life of a Qashqa'i Tribesman in Iran (University of California Press, 1991) — long-term ethnography, especially of the Qermezi subtribe of the Darrehshuri.
+- James Opie, Tribal Rugs: Nomadic and Village Weavings from the Near East and Central Asia (Laurence King, 1992) — chapter on Qashqai and Khamseh weavings.
+- Parviz Tanavoli, Gabbeh: The George D. Bornstein Collection and related monographs on Fars tribal weaving.
 - Encyclopædia Iranica, entries "Qašqāʾī Tribal Confederacy" (Pierre Oberling) and "Fārs, ethnography".
+

@@ -61,7 +61,7 @@ The *keris* wavy-bladed dagger with pattern-welded iron is the signature Javanes
 - **Bronze ensemble** (*gamelan*) — Full ensemble of tuned bronze percussion instruments including *saron* metallophones, *bonang* kettle-gong rows, hanging gongs, and supporting drums and flutes, inscribed by UNESCO in 2021.
 - **Bronze metallophone** (*saron*) — Bronze metallophone bars struck with a wooden mallet, a core melodic instrument in the gamelan.
 - **Woven bamboo tray** (*besek*) — Round woven bamboo tray used for serving *tumpeng* conical rice and side dishes at communal meals.
-- **earthenware cookware** — Cooking pots from Kasongan (Yogyakarta) and large decorative terracotta vessels that have become known since the mid-20th century.
+- **Earthenware cookware** — Cooking pots from Kasongan (Yogyakarta) and large decorative terracotta vessels that have become known since the mid-20th century.
 
 ### Jewelry & body adornment
 

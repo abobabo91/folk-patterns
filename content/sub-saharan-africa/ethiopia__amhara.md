@@ -27,67 +27,67 @@ Amhara material culture is built on hand-woven white cotton cloth, ecclesiastica
 
 White cotton cloth woven by hereditary weavers on pit treadle looms is the foundation of all Amhara dress, with coloured decorative borders marking occasions and wealth.
 
-- **shamma** — Plain woven white cotton cloth handspun and woven on a pit treadle loom, roughly two metres long, soft and semi-transparent.
-- **netela** — A lighter single-layer shamma worn as a head-and-shoulder shawl by women, edged with a coloured woven border called tibeb.
-- **gabi** — Four to eight layers of shamma fulled together into a thick blanket-mantle worn against the highland cold, wrapped toga-fashion by men.
-- **tibeb** — Coloured silk or rayon decorative band running along edges and hems, with geometric, cruciform, or Ethiopian cross motifs that signal occasion and wearer's wealth.
-- **kuta** — An intermediate two-layer wrap typical of men's everyday dress, lighter than a gabi but more substantial than a netela.
+- **Shamma** — Plain woven white cotton cloth handspun and woven on a pit treadle loom, roughly two metres long, soft and semi-transparent.
+- **Netela** — A lighter single-layer shamma worn as a head-and-shoulder shawl by women, edged with a coloured woven border called tibeb.
+- **Gabi** — Four to eight layers of shamma fulled together into a thick blanket-mantle worn against the highland cold, wrapped toga-fashion by men.
+- **Tibeb** — Coloured silk or rayon decorative band running along edges and hems, with geometric, cruciform, or Ethiopian cross motifs that signal occasion and wearer's wealth.
+- **Kuta** — An intermediate two-layer wrap typical of men's everyday dress, lighter than a gabi but more substantial than a netela.
 
 ### Clothing & dress
 
 Men wear white cotton shirts with jodhpur-like trousers under a wrapped kuta or gabi; women wear the habesha kemis dress with netela shawl and often wear their hair in fine cornrows marked with indigo cruciform tattoos.
 
-- **habesha kemis** — Ankle-length white cotton dress worn by women for church and celebration, with tibeb borders and a matching netela.
-- **surri** — Jodhpur-like tight trousers gathered at the calf, worn by men under a kuta or gabi.
-- **qidus cross** (*qidus*) — Small cruciform tattoo in indigo ink worn at the throat by married women, understood as both ornament and baptismal seal.
-- **shash** — White turban worn by priests and elders.
-- **kabba** — Black or coloured cape worn by clergy.
+- **Habesha kemis** — Ankle-length white cotton dress worn by women for church and celebration, with tibeb borders and a matching netela.
+- **Surri** — Jodhpur-like tight trousers gathered at the calf, worn by men under a kuta or gabi.
+- **Qidus cross** (*qidus*) — Small cruciform tattoo in indigo ink worn at the throat by married women, understood as both ornament and baptismal seal.
+- **Shash** — White turban worn by priests and elders.
+- **Kabba** — Black or coloured cape worn by clergy.
 
 ### Architecture
 
 Vernacular housing centres on the round tukul with low stone or mud-and-wattle walls and steep conical thatched roofs; the great tradition is ecclesiastical churches built on a three-ring plan with the maqdas at the centre.
 
-- **tukul** (*tukul (gojo)*) — Circular thatched dwelling with low cylindrical wall of stone or mud-and-wattle, central hardwood pole, steep conical roof crowned with pots or iron cross.
+- **Tukul** (*tukul (gojo)*) — Circular thatched dwelling with low cylindrical wall of stone or mud-and-wattle, central hardwood pole, steep conical roof crowned with pots or iron cross.
 - **Lalibela churches** (*Lalibela*) — Eleven monolithic rock-hewn churches carved downward out of living tuff in the twelfth and thirteenth centuries under the Zagwe kings, a UNESCO World Heritage site.
 - **Fasil Ghebbi** — Castellated palace complex at Gondar built by Gondarine emperors from the seventeenth century onward, fusing Portuguese, Indian and indigenous stonework.
-- **maqdas** — The holy of holies at the centre of a church, housing the tabot altar tablet.
-- **tabot** — Altar tablet housed in the maqdas, venerated as an Ark of the Covenant tablet in every church.
+- **Maqdas** — The holy of holies at the centre of a church, housing the tabot altar tablet.
+- **Tabot** — Altar tablet housed in the maqdas, venerated as an Ark of the Covenant tablet in every church.
 
 ### Ceramics, metalwork & everyday objects
 
 Women potters hand-build distinctive black and red-brown ceramics; ecclesiastical metalwork in brass and silver dominates, particularly processional and hand crosses in regional styles.
 
-- **jebena** — Round-bellied long-necked coffee pot with a straw lid, central to the ritual coffee ceremony.
-- **mitad** — Flat clay griddle on which injera is baked.
-- **mesob** — Tall hourglass-shaped basketry table woven of dyed grass with conical lid, in which injera is served to guests.
-- **processional cross** (*meskel*) — Cast brass or silver cross in intricate open-work interlace carried on a long stave before the priest, with regional schools distinguishable by geometry.
-- **hand cross** (*maskal*) — Smaller gripped cross carried by ordained men for blessing and touched by the faithful to forehead and lips.
+- **Jebena** — Round-bellied long-necked coffee pot with a straw lid, central to the ritual coffee ceremony.
+- **Mitad** — Flat clay griddle on which injera is baked.
+- **Mesob** — Tall hourglass-shaped basketry table woven of dyed grass with conical lid, in which injera is served to guests.
+- **Processional cross** (*meskel*) — Cast brass or silver cross in intricate open-work interlace carried on a long stave before the priest, with regional schools distinguishable by geometry.
+- **Hand cross** (*maskal*) — Smaller gripped cross carried by ordained men for blessing and touched by the faithful to forehead and lips.
 
 ### Jewelry & body adornment
 
 Jewellery is predominantly silver and Christian in vocabulary, centred on the mateb baptismal cross, with women layering silver filigree crosses interspersed with amber and coral.
 
-- **mateb** — Baptismal cross worn by every baptised Christian on a blue silk cord tied at baptism.
-- **neck cross** (*mateb*) — Silver filigree cross worn on a blue silk cord, universal to all baptised Amhara Christians.
-- **amulet case** (*kitab*) — Hollow silver case worn on the chest holding rolled parchment magic scrolls against illness and the evil eye.
-- **shuruba** — Fine cornrows worn close to the scalp by married women, often oiled with butter and gathered into a bun at the nape.
+- **Mateb** — Baptismal cross worn by every baptised Christian on a blue silk cord tied at baptism.
+- **Neck cross** (*mateb*) — Silver filigree cross worn on a blue silk cord, universal to all baptised Amhara Christians.
+- **Amulet case** (*kitab*) — Hollow silver case worn on the chest holding rolled parchment magic scrolls against illness and the evil eye.
+- **Shuruba** — Fine cornrows worn close to the scalp by married women, often oiled with butter and gathered into a bun at the nape.
 
 ## Music & performance
 
 The two poles of musical life are ecclesiastical chant (zema) in Ge'ez with sistrum and prayer staff, and the secular azmari minstrel tradition with the single-string masinqo fiddle.
 
-- **zema** — Fully notated ecclesiastical chant attributed to the sixth-century saint Yared, sung in Ge'ez in three modes with sistrum, prayer staff and frame drum.
-- **azmari** — Wandering minstrel who plays the single-string spike fiddle masinqo and improvises rhymed praise, satire and love-songs in tavern settings.
-- **masinqo** — Single-string spike fiddle played by azmari minstrels.
-- **begena** — Ten-string harp called the 'harp of David', played meditatively during Lent by lay musicians.
-- **qene** — Improvised poetic form composed in Ge'ez and delivered in church schools, prizing deliberate double meaning called säm-ənna-wärq.
+- **Zema** — Fully notated ecclesiastical chant attributed to the sixth-century saint Yared, sung in Ge'ez in three modes with sistrum, prayer staff and frame drum.
+- **Azmari** — Wandering minstrel who plays the single-string spike fiddle masinqo and improvises rhymed praise, satire and love-songs in tavern settings.
+- **Masinqo** — Single-string spike fiddle played by azmari minstrels.
+- **Begena** — Ten-string harp called the 'harp of David', played meditatively during Lent by lay musicians.
+- **Qene** — Improvised poetic form composed in Ge'ez and delivered in church schools, prizing deliberate double meaning called säm-ənna-wärq.
 
 ## Dance & theatre
 
 The signature secular dance is eskista, an athletic shoulder-shaking performed to masinqo and kebero rhythm; ecclesiastical aquaquam is stately and processional.
 
-- **eskista** — Athletic shoulder-shaking dance performed to masinqo and kebero rhythm, isolating and rolling the shoulders, chest and neck in rapid staccato waves.
-- **aquaquam** — Stately processional ecclesiastical dance where cantors in two facing rows sway, beat prayer staves and shake sistrums in slow triple time.
+- **Eskista** — Athletic shoulder-shaking dance performed to masinqo and kebero rhythm, isolating and rolling the shoulders, chest and neck in rapid staccato waves.
+- **Aquaquam** — Stately processional ecclesiastical dance where cantors in two facing rows sway, beat prayer staves and shake sistrums in slow triple time.
 
 ## Festivals & rituals
 
@@ -97,24 +97,24 @@ The ritual calendar follows the Ethiopian Orthodox Church's Julian calendar; maj
 - **Meskel** — Festival on 27 September commemorating the finding of the True Cross with the burning of a great bonfire crowned with flowers, UNESCO-listed (2013).
 - **Timkat** — Ethiopian Epiphany on 19 January, the greatest feast where the tabot is carried in procession to water for blessing and baptismal renewal, UNESCO-listed (2019).
 - **Genna** — Ethiopian Christmas on 7 January, marked by all-night vigil and historically a rough hockey-like stick game.
-- **tazkar** — Memorial commemorations held at 40 days, six months, and one year after death, at which injera and tella are distributed.
+- **Tazkar** — Memorial commemorations held at 40 days, six months, and one year after death, at which injera and tella are distributed.
 
 ## Foodways
 
 The dietary base is injera, a sourdough pancake fermented from teff grain and baked on a clay mitad, served with stews and used as both plate and utensil.
 
-- **injera** — Large soft sourdough pancake fermented for two to three days from teff batter, used as both plate and utensil for scooping stews.
-- **teff** — Endemic Ethiopian grain (Eragrostis tef) fermented into injera, the dietary base of Amhara cuisine.
-- **doro wet** — Chicken and hard-boiled egg in berbere spice blend, the traditional festival dish.
-- **kitfo** — Minced raw beef seasoned with mitmita chilli and clarified spiced butter niter kibbeh.
-- **coffee ceremony** (*bunna*) — Daily social ritual where green beans are roasted, ground and brewed three times in a jebena, served in small cups with incense and popcorn.
+- **Injera** — Large soft sourdough pancake fermented for two to three days from teff batter, used as both plate and utensil for scooping stews.
+- **Teff** — Endemic Ethiopian grain (Eragrostis tef) fermented into injera, the dietary base of Amhara cuisine.
+- **Doro wet** — Chicken and hard-boiled egg in berbere spice blend, the traditional festival dish.
+- **Kitfo** — Minced raw beef seasoned with mitmita chilli and clarified spiced butter niter kibbeh.
+- **Coffee ceremony** (*bunna*) — Daily social ritual where green beans are roasted, ground and brewed three times in a jebena, served in small cups with incense and popcorn.
 
 ## Oral tradition & literature
 
 Amhara literary culture rests on a continuous fifteen-hundred-year written tradition in Ge'ez preserved in illuminated parchment manuscripts from monastic scriptoria, including the national epic Kebra Nagast.
 
 - **Kebra Nagast** — National epic 'Glory of Kings' that grounds the Solomonic dynasty's claim of descent from Menelik I, son of Solomon and the Queen of Sheba.
-- **magic scrolls** (*ye branna kitab*) — Long strips of parchment inscribed by debtera clerics with protective prayers, King Solomon's seals and staring-eyed guardian faces, worn or hung against demonic illness.
+- **Magic scrolls** (*ye branna kitab*) — Long strips of parchment inscribed by debtera clerics with protective prayers, King Solomon's seals and staring-eyed guardian faces, worn or hung against demonic illness.
 - **Miracles of Mary** (*Ta'amra Maryam*) — Core text of Amhara manuscript tradition preserved in illuminated parchment codices.
 - **Ethiopian psalter** (*Mäzmurä Dawit*) — Psalter tradition that forms part of the core corpus of illuminated Ge'ez manuscripts.
 - **Synaxarium** (*Sənkəssar*) — Hagiographic text preserving the lives of saints in the manuscript tradition.
@@ -124,10 +124,10 @@ Amhara literary culture rests on a continuous fifteen-hundred-year written tradi
 Amharic, a South Ethiosemitic language written in fidäl syllabary, is the working language of the Ethiopian federal government; Ge'ez survives as the liturgical language of the Ethiopian Orthodox Tewahedo Church.
 
 - **Amharic** (*Amarəñña*) — South Ethiosemitic language written in fidäl syllabary of some 270 characters, the working language of Ethiopian federal government.
-- **fidäl** — Syllabary of some 270 characters descended from the South Arabian abjad by way of Ge'ez, used to write Amharic.
+- **Fidäl** — Syllabary of some 270 characters descended from the South Arabian abjad by way of Ge'ez, used to write Amharic.
 - **Ge'ez** — Classical liturgical language no longer spoken vernacularly since roughly the tenth century, surviving in the Ethiopian Orthodox Tewahedo Church.
 - **Ethiopian Orthodox Tewahedo Church** — Miaphysite non-Chalcedonian church in communion with Coptic, Syrian and Armenian Orthodox, distinctive in retaining Old Testament features and venerating the tabot.
-- **buda** — Folk belief in the evil eye, attributed in some communities to hereditary craft groups.
+- **Buda** — Folk belief in the evil eye, attributed in some communities to hereditary craft groups.
 
 ## Glossary
 

@@ -27,91 +27,91 @@ Tajik material culture centers on textiles—especially ikat silks and embroider
 
 Embroidered cottons and silk ikats are the signature textiles, each region developing distinct patterns and techniques.
 
-- **chakan embroidery** (*chakan*) — Bright silk chain-stitch work from Kulob featuring cosmological symbols like sun, moon, and tree of life on cotton or silk.
-- **atlas silk** (*atlas*) — Warp-ikat silk woven along the upper Zarafshan with tie-resist dye, producing blurred vertical bands in magenta, ochre, and indigo.
-- **adras** — Mixed silk-warp and cotton-weft ikat, heavier than pure atlas, used for coats and everyday dresses.
+- **Chakan embroidery** (*chakan*) — Bright silk chain-stitch work from Kulob featuring cosmological symbols like sun, moon, and tree of life on cotton or silk.
+- **Atlas silk** (*atlas*) — Warp-ikat silk woven along the upper Zarafshan with tie-resist dye, producing blurred vertical bands in magenta, ochre, and indigo.
+- **Adras** — Mixed silk-warp and cotton-weft ikat, heavier than pure atlas, used for coats and everyday dresses.
 - **Pamir house painting** — Decorated wooden ceiling panels and lintels of highland dwellings feature solar disks, ram's-horn spirals, and tulips matching embroidery motifs.
-- **toqi skullcap** (*toqi*) — Small embroidered cap worn by all ages, with regional styles like black-and-white almonds in Fergana towns and beaded, mirrored Pamiri versions.
+- **Toqi skullcap** (*toqi*) — Small embroidered cap worn by all ages, with regional styles like black-and-white almonds in Fergana towns and beaded, mirrored Pamiri versions.
 
 ### Clothing & dress
 
 Women wear embroidered dresses over loose trousers and headscarves; men wear long shirts, wide trousers, quilted coats, and skullcaps.
 
-- **kurta dress** (*kurta*) — Long straight-cut woman's dress traditionally cut from a single width of ikat or hand-woven cotton, with narrow collar and embroidered neck slit as the main display surface.
-- **chapan coat** (*chapan*) — Quilted, striped ikat or wool coat worn over the kurta, tied at the waist with a folded sash.
-- **miyonband sash** (*miyonband*) — Folded waist sash that serves as both pocket and prayer mat.
-- **mahsi boots** (*mahsi*) — Soft leather boots worn inside galoshes and removed at the threshold.
-- **salla turban** (*salla*) — Wrapped turban worn by elders and religious figures over the toqi.
+- **Kurta dress** (*kurta*) — Long straight-cut woman's dress traditionally cut from a single width of ikat or hand-woven cotton, with narrow collar and embroidered neck slit as the main display surface.
+- **Chapan coat** (*chapan*) — Quilted, striped ikat or wool coat worn over the kurta, tied at the waist with a folded sash.
+- **Miyonband sash** (*miyonband*) — Folded waist sash that serves as both pocket and prayer mat.
+- **Mahsi boots** (*mahsi*) — Soft leather boots worn inside galoshes and removed at the threshold.
+- **Salla turban** (*salla*) — Wrapped turban worn by elders and religious figures over the toqi.
 
 ### Architecture
 
 Lowland houses center on courtyards with pools and carved summer porches; highland Pamiri dwellings are square stone structures built around a symbolic central skylight.
 
-- **hovli courtyard** (*hovli*) — Central courtyard of urban houses opening from a blank street facade, containing a pool, guest room, and summer porch.
-- **ayvan porch** (*ayvan*) — Deep summer porch supported by carved wooden columns with muqarnas capitals.
-- **chid Pamiri house** (*chid*) — Square, flat-roofed highland dwelling with a central skylight built of five concentric wooden squares symbolizing Ismaili holy figures.
-- **roshandon skylight** (*roshandon*) — Central wooden skylight of the chid, organizing the house around five sacred pillars.
-- **tokcha niche** (*tokcha*) — Carved and painted wall niche for displaying ceramics and storing folded bedding.
+- **Hovli courtyard** (*hovli*) — Central courtyard of urban houses opening from a blank street facade, containing a pool, guest room, and summer porch.
+- **Ayvan porch** (*ayvan*) — Deep summer porch supported by carved wooden columns with muqarnas capitals.
+- **Chid Pamiri house** (*chid*) — Square, flat-roofed highland dwelling with a central skylight built of five concentric wooden squares symbolizing Ismaili holy figures.
+- **Roshandon skylight** (*roshandon*) — Central wooden skylight of the chid, organizing the house around five sacred pillars.
+- **Tokcha niche** (*tokcha*) — Carved and painted wall niche for displaying ceramics and storing folded bedding.
 
 ### Ceramics, metalwork & everyday objects
 
 Tajik potters and metalworkers produce glazed earthenware, hammered copperware, and carved wooden household goods.
 
 - **Istaravshan pottery** — Lead-glazed earthenware from Istaravshan in oxide green, manganese brown, and cobalt blue with painted floral scrolls.
-- **aftoba ewer** (*aftoba*) — Hammered and tinned copper vessel for pouring water over hands.
-- **dastshuy handwashing basin** (*dastshuy*) — Engraved copper basin used for ritual hand-washing.
-- **kordi chusti knife** (*kordi chusti*) — Knife made at Chorku near Isfara with bone or bull-horn handle and stamped blade.
-- **lauh Quran stand** (*lauh*) — Carved wooden stand for holding the Quran.
+- **Aftoba ewer** (*aftoba*) — Hammered and tinned copper vessel for pouring water over hands.
+- **Dastshuy handwashing basin** (*dastshuy*) — Engraved copper basin used for ritual hand-washing.
+- **Kordi chusti knife** (*kordi chusti*) — Knife made at Chorku near Isfara with bone or bull-horn handle and stamped blade.
+- **Lauh Quran stand** (*lauh*) — Carved wooden stand for holding the Quran.
 
 ### Jewelry & body adornment
 
 Little is recorded.
 
-- **tumor amulet** (*tumor*) — Hinged triangular or cylindrical silver amulet case worn on the chest holding a Quranic verse.
-- **haykal pectoral** (*haykal*) — Large silver pectoral plaque worn as formal jewelry.
-- **silsila forehead piece** (*silsila*) — Forehead ornament worn under a headscarf, sometimes hung with coin fringes.
-- **gushvor earrings** (*gushvor*) — Heavy silver earrings worn by women.
-- **arabak nose ring** (*arabak*) — Silver nose ring worn especially in southern regions.
+- **Tumor amulet** (*tumor*) — Hinged triangular or cylindrical silver amulet case worn on the chest holding a Quranic verse.
+- **Haykal pectoral** (*haykal*) — Large silver pectoral plaque worn as formal jewelry.
+- **Silsila forehead piece** (*silsila*) — Forehead ornament worn under a headscarf, sometimes hung with coin fringes.
+- **Gushvor earrings** (*gushvor*) — Heavy silver earrings worn by women.
+- **Arabak nose ring** (*arabak*) — Silver nose ring worn especially in southern regions.
 
 ## Music & performance
 
 Classical shashmaqam court music alternates with falak mountain laments; devotional maddoh songs accompany Ismaili gatherings.
 
-- **shashmaqam** — Classical six-maqam suite from Bukhara alternating instrumental preludes with metered songs and Persian poetry settings.
-- **falak** — Solo mountain lament sung to lute accompaniment, expressing separation and complaint against fate.
-- **tanbur lute** (*tanbur*) — Long-necked plucked lute used in shashmaqam ensembles.
-- **dutar** — Long-necked lute accompanying falak songs and other genres.
-- **maddoh** — Sung Ismaili devotional poetry accompanied by the rubobi pomiri, performed during Pamiri vigils.
+- **Shashmaqam** — Classical six-maqam suite from Bukhara alternating instrumental preludes with metered songs and Persian poetry settings.
+- **Falak** — Solo mountain lament sung to lute accompaniment, expressing separation and complaint against fate.
+- **Tanbur lute** (*tanbur*) — Long-necked plucked lute used in shashmaqam ensembles.
+- **Dutar** — Long-necked lute accompanying falak songs and other genres.
+- **Maddoh** — Sung Ismaili devotional poetry accompanied by the rubobi pomiri, performed during Pamiri vigils.
 
 ## Dance & theatre
 
 Lowland urban dances are soft and wrist-centered; mountain dances are grounded and percussive.
 
-- **raqsi Bukhoro** — Soft women's dance from Bukhara with wrist-and-shoulder movements and spins, historically performed by professional female entertainers.
-- **raqsi Samarqandi** — Soft women's dance from Samarkand with expressive hand articulation and shoulder shimmies.
-- **rapo** — Pamiri pair dance with slow, mirror-image arm gestures performed during maddoh gatherings.
-- **raqsi kordi knife dance** (*raqsi kordi*) — Men's dance performed with knives, historically presented at Nowruz and bazaar festivals.
-- **dorbozi rope-walking** (*dorbozi*) — Acrobatic rope-walking performance historically shown at festivals.
+- **Raqsi Bukhoro** — Soft women's dance from Bukhara with wrist-and-shoulder movements and spins, historically performed by professional female entertainers.
+- **Raqsi Samarqandi** — Soft women's dance from Samarkand with expressive hand articulation and shoulder shimmies.
+- **Rapo** — Pamiri pair dance with slow, mirror-image arm gestures performed during maddoh gatherings.
+- **Raqsi kordi knife dance** (*raqsi kordi*) — Men's dance performed with knives, historically presented at Nowruz and bazaar festivals.
+- **Dorbozi rope-walking** (*dorbozi*) — Acrobatic rope-walking performance historically shown at festivals.
 
 ## Festivals & rituals
 
 Nowruz spring celebration anchors the calendar with bonfires and sumanak cooking; Islamic feasts and life-cycle rituals mark the year.
 
 - **Nowruz** — Persian New Year at spring equinox celebrated with a haft sin table, sprouted wheat, bonfires, and sumanak sweet paste cooked overnight by singing women.
-- **sumanak** — Sweet paste of boiled germinated wheat cooked during Nowruz, accompanied by women's songs.
+- **Sumanak** — Sweet paste of boiled germinated wheat cooked during Nowruz, accompanied by women's songs.
 - **Sada midwinter fire festival** (*Sada*) — Pre-Islamic midwinter fire festival revived as a state holiday in Tajikistan.
-- **chirogh-rawshan lamp-lighting** (*chirogh-rawshan*) — Three-day Ismaili mourning rite in which sung poetry accompanies kindling a wick to guide the soul.
-- **sunnat-tuy circumcision feast** (*sunnat-tuy*) — Multi-day celebration marking a boy's circumcision.
+- **Chirogh-rawshan lamp-lighting** (*chirogh-rawshan*) — Three-day Ismaili mourning rite in which sung poetry accompanies kindling a wick to guide the soul.
+- **Sunnat-tuy circumcision feast** (*sunnat-tuy*) — Multi-day celebration marking a boy's circumcision.
 
 ## Foodways
 
 The table centers on wheat bread baked in a tanur oven and on rice and mutton dishes.
 
-- **osh palov** (*osh*) — National rice dish cooked with mutton, yellow carrots, onion, cumin, chickpeas or quince, served communally and eaten by hand.
-- **qurutob** — Tajik national dish of torn flaky bread drenched in melted dried yogurt with onions, tomatoes, and herbs.
-- **non bread** (*non*) — Round wheat bread baked in a tanur clay oven and stamped with a chekich pricker.
-- **shashlik** — Skewered meat, the bazaar staple.
-- **qurut dried yogurt** (*qurut*) — Dried yogurt used in qurutob and other dishes, central to Tajik dairy tradition.
+- **Osh palov** (*osh*) — National rice dish cooked with mutton, yellow carrots, onion, cumin, chickpeas or quince, served communally and eaten by hand.
+- **Qurutob** — Tajik national dish of torn flaky bread drenched in melted dried yogurt with onions, tomatoes, and herbs.
+- **Non bread** (*non*) — Round wheat bread baked in a tanur clay oven and stamped with a chekich pricker.
+- **Shashlik** — Skewered meat, the bazaar staple.
+- **Qurut dried yogurt** (*qurut*) — Dried yogurt used in qurutob and other dishes, central to Tajik dairy tradition.
 
 ## Oral tradition & literature
 
@@ -120,8 +120,8 @@ Tajik tradition rests on Persian classical epics and poetry, with living bardic 
 - **Gurughli epic** (*Gurughli*) — Sung epic cycle of hundreds of episodes about the hero Gurughli and his son Avaz, performed by gūrūghlī-khon bards especially in Kulob.
 - **Mullah Nasruddin tales** (*Mullah Nasruddin*) — Shared Turko-Persian trickster tale cycle of comic episodes and wisdom.
 - **Shahnameh epic** (*Shahnameh*) — Persian classical epic by Ferdowsi, foundational to Tajik tradition and recited proverbially.
-- **ruboi quatrain** (*ruboi*) — Four-line Persian poem, a short verse form in the living tradition.
-- **maddoh Pamiri poetry** (*maddoh*) — Sung Ismaili devotional poetry preserved by Pamiri communities in Persian and Pamiri languages.
+- **Ruboi quatrain** (*ruboi*) — Four-line Persian poem, a short verse form in the living tradition.
+- **Maddoh Pamiri poetry** (*maddoh*) — Sung Ismaili devotional poetry preserved by Pamiri communities in Persian and Pamiri languages.
 
 ## Language & religion
 
@@ -131,7 +131,7 @@ Tajiki, an eastern Persian language, is written in Cyrillic in Tajikistan; most 
 - **Shughni language** (*Shughni*) — Eastern Iranian language spoken by Pamiri populations in Badakhshan.
 - **Yaghnobi language** (*Yaghnobi*) — Upper Zarafshan language preserving a direct descendant of Sogdian.
 - **Hanafi school** (*Hanafi*) — Islamic school of jurisprudence followed by the majority of Tajiks.
-- **mazor sacred site** (*mazor*) — Sacred spring or tree venerated in folk practice, a pre-Islamic Zoroastrian survival.
+- **Mazor sacred site** (*mazor*) — Sacred spring or tree venerated in folk practice, a pre-Islamic Zoroastrian survival.
 
 ## Glossary
 
