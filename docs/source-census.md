@@ -10,12 +10,12 @@ Counted 2026-09-25 against every source the scrapers use, for the 71 cultures on
 | Cleveland | culture field matches the ethnonym, minus ancient, minus held (`data/cleveland_culture_census.json`) | high, but small; Cleveland mostly catalogues by place |
 | Europeana | hits from ethnographic providers only (world-culture / ethnography / anthropology museums), minus held (`data/europeana_census.json`) | medium. **`?` = word collision**: Kongo (Swedish for Congo), San (Spanish place names). Lao is set to the 30 real ones at the Museum of World Culture |
 | Met | public-domain objects whose `Culture` names the people, dated 1700 or later, from the open-access CSV (`data/met_census.json`) | high, but tiny for these cultures |
-| Smithsonian | `"<name>"` search, image-bearing, natural-history units excluded, scaled by the share of the first 100 hits whose `indexedStructured.culture` names the people (`data/si_commons_census.json`) | high — almost all NMNH Anthropology, culture-tagged ("Malays (Asian people)", "Dayak (Indonesian people)"). **`?` = San**: the substring test also hits "San Ildefonso" |
+| Smithsonian | `"<name>"` search, image-bearing, natural-history units excluded, scaled by the share of the first 100 hits whose `indexedStructured.culture` names the people (`data/si_commons_census.json`) | **unusable** — almost all NMNH Anthropology, which releases no open-access images (0 of 671 harvested rows had one; [museums.md](museums.md#smithsonian)). The column counts objects, not usable pictures. **`?` = San**: the substring test also hits "San Ildefonso" |
 | **named, new** | sum of the columns above | the pool a culture-named scrape can reach |
 | V&A by place | V&A objects with images whose place is the culture's country (`work/` scratch census) | **not per culture** — a whole country, ancient included (Egypt 7,517). V&A ethnonym search is not in the sum: "Chin" returns Chin-Chin prints, "Persian" returns wallpaper pattern names, "Turkish" returns European pictures of Turks; only "Malay" (607) was real |
 | Commons files | files directly in the culture's curated architecture categories (`commons_arch.ARCH_CATEGORIES`), subcategories not counted | a floor. Photos of buildings, not objects |
 
-Total named, new: **~42,000** against 4,383 shown — BM 24,083, Smithsonian 10,024, Europeana 5,872, Cleveland 953, Met 487.
+Total named, new: **~32,000 usable** against 4,383 shown — BM 24,083, Europeana 5,872, Cleveland 953, Met 487. The Smithsonian's 10,024 are counted in the table but have no open-access images.
 
 ## Table
 
@@ -95,6 +95,23 @@ Total named, new: **~42,000** against 4,383 shown — BM 24,083, Smithsonian 10,
 
 ## What the table says
 
-- **Nearly all the growth is in two sources.** BM (24k) and Smithsonian (10k) together are 81% of the named pool. Cleveland and the Met add little per culture.
+- **Nearly all the growth is in one source.** BM (24k) is three quarters of the usable named pool, Europeana (5.9k) most of the rest. Cleveland and the Met add little per culture; the Smithsonian's culture-tagged objects have no open-access images.
 - **Nothing named exists** for Bamar, Karakalpak, Pamiri and Sidama, and almost nothing for Tajik, Yakan, T'boli, Hazara, Qashqai, Afar, Tigray, Bukharan Jew, Cham, Azeri, Khmer. For these only place-based sources remain (V&A by place: Burma 151; Met Iran 639 from 1700 on, shared by every Iranian culture) and Commons architecture — both need the vetter to decide the people, since the record does not.
 - **The largest pools are African and Bornean**: Ashanti 5.5k (BM counts all Akan), Dayak 4.2k, Yoruba 3.1k, Malay 2.8k, Kuba 2.7k, Zulu 2.4k, Chin 1.8k, Igbo 1.4k, Fang 1.4k, Berber 1.2k, Filipino 1.1k.
+
+## The pool — metadata of everything, harvested
+
+`scripts/harvest_pool.py <source>` writes one metadata-only row per source object to `data/pool/<source>.jsonl` (gitignored, ~52 MB): object name, title, date, place, the source's people tag, provider, thumbnail URL. No images, no vetting. It exists so a culture's gallery can be picked for variety before anything is downloaded. Harvested 2026-09-25:
+
+| source | rows | what a row is |
+|---|--:|---|
+| British Museum | 22,695 | every image-bearing object under 60 "Ethnic group" facet names (list pages only, 100 per page; needs `BM_CDP_URL`) |
+| Europeana | 23,239 | ethnographic providers only; 17,719 of them are the Swedish museums' "Kongo" (= Congo) set |
+| V&A | 19,908 | every image-bearing object under 37 place ids; no people named |
+| Met | 38,473 | public domain, made 1700 or later, six non-European departments (from the CSV) |
+| Cleveland | 9,778 | the department dump |
+| Smithsonian | 1,456 | stopped after 9 cultures: NMNH Anthropology rows carry no image |
+
+Which atlas culture a row belongs to is not decided here: shared names (Kazakh, Kurd, Uzbek, Lao, Turkmen), broad names (Miao for Hmong, Herero for Himba) and place-only rows (V&A) need the place, and that is the next step.
+
+What one culture's pool looks like — BM Yoruba, 2,569 objects in 215 kinds: textile / cloth / adire ≈ 690, figure + ibeji ≈ 490, mask ≈ 175, then a long tail (82 kinds occur once: doors, house-posts, mancala boards, bullroarers). A random 72 held before were 54 adire.

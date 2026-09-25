@@ -132,7 +132,7 @@ your expectations there first, then adapt for the Met's fallback behaviour.
 
 ## Smithsonian
 
-**The pool is NMNH Anthropology, and it is culture-tagged.** `"<name>" AND online_media_type:"Images"` with the natural-history units excluded returns almost only `unitCode NMNHANTHRO`, and `content.indexedStructured.culture` names the people as a Library of Congress heading: `Malays (Asian people)`, `Dayak (Indonesian people)`, `Filipinos`, `Yoruba`. Counted 2026-09-25: Dayak 1,634, Malay ~1,660, Filipino ~940, Yoruba 352, Kuba 397 — ~10,000 over the atlas, 33 held. The fielded query `culture:"Yoruba"` returns 0 although the field says Yoruba; filter on the field client-side instead. NMAfA barely appears in open-access image results.
+**NMNH Anthropology has no open-access images.** `"<name>" AND online_media_type:"Images"` with the natural-history units excluded returns mostly `unitCode NMNHANTHRO`, culture-tagged as a Library of Congress heading (`Malays (Asian people)`, `Dayak (Indonesian people)`) — but `online_media` is null on every one of them: 0 of 671 harvested 2026-09-25 carried a media block. The `Images` flag only means a picture exists on collections.si.edu; it is not released. So the ~10,000 culture-tagged Anthropology objects cannot be used. The images that do come through are Cooper Hewitt (`CHNDM`, all 33 we hold), NMAAHC, SAAM and a few NMAfA — a small share of the hits. The fielded query `culture:"Yoruba"` returns 0 although the field says Yoruba; filter on the field client-side.
 
 ## Rijksmuseum
 
