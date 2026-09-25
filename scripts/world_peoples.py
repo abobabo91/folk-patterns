@@ -311,7 +311,7 @@ def _bm_name(k: str) -> str | None:
     return None
 
 
-def cmd_harvest(pages: int) -> None:
+def cmd_harvest(pages: int, threshold: int = 30) -> None:
     """Object names of every classified people from the BM list pages, up to
     `pages` x 100 per people — enough to count its categories, no images.
     -> data/world/bm_objects.jsonl (gitignored)."""
@@ -322,7 +322,7 @@ def cmd_harvest(pages: int) -> None:
     cls = json.loads((OUT / "classified.json").read_text(encoding="utf-8"))
     out_p = OUT / "bm_objects.jsonl"
     done = {json.loads(l)["key"] for l in out_p.read_text(encoding="utf-8").splitlines()} if out_p.exists() else set()
-    strong = {r["key"] for r in _rows() if r["bm"] >= 30}   # Europeana-only hits are mostly word collisions
+    strong = {r["key"] for r in _rows() if r["bm"] >= threshold}   # Europeana-only hits are mostly word collisions
     todo = [(k, _bm_name(k)) for k, d in cls.items() if d.get("people") and k in strong and k not in done]
     todo = [(k, n) for k, n in todo if n]
     print(f"harvest: {len(todo)} peoples ({len(done)} cached)", flush=True)
@@ -393,7 +393,7 @@ def cmd_classify(threshold: int) -> None:
     cache_p = OUT / "classified.json"
     cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
     wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
-    rows = [r for r in _rows() if max(_museums(r), r["europeana"]) >= threshold and r["key"] not in cache]
+    rows = [r for r in _rows() if (_museums(r) >= threshold or r["europeana"] >= 30) and r["key"] not in cache]
     print(f"classify: {len(rows)} names ({len(cache)} cached)", flush=True)
     with httpx.Client(timeout=30, headers=UA, follow_redirects=True) as cl:
         sums = [_summary(cl, r["article"]) if r.get("article") else "" for r in rows]
@@ -469,7 +469,7 @@ def cmd_report(threshold: int) -> None:
     objs = {d["key"]: d for d in (json.loads(l) for l in objs_p.read_text(encoding="utf-8").splitlines())} if objs_p.exists() else {}
     atlas_bm = _atlas_bm_names()
     loc = _local()
-    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and max(_museums(r), r["europeana"]) >= threshold]
+    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and (_museums(r) >= threshold or r["europeana"] >= 30)]
     for r in rows:
         r.update({k: v for k, v in (cls.get(r["key"]) or {}).items() if k != "key"})
         o = objs.get(r["key"])
@@ -485,6 +485,7 @@ def cmd_report(threshold: int) -> None:
             r["sampled"] = len(sample)
             r["categories"] = dict(sorted(cnt.items(), key=lambda x: -x[1]))
             r["breadth"] = sum(1 for c in _CATS if cnt.get(c, 0) >= 5)
+            r["cats3"] = sum(1 for c in _CATS if cnt.get(c, 0) >= 3)   # the list rule: 2+ categories with 3+ objects
             r["photo_share"] = round(cnt.get("photo", 0) / max(1, len(sample)), 2)
     keep = [r for r in rows if r.get("people")]
     # one row per BM name: "Arahuacos (Arawak)" and "Lokono" both resolve to BM "Arawak"
@@ -502,7 +503,10 @@ def cmd_report(threshold: int) -> None:
         if r["tier"] == "bm" and best[dk(r)] is not r:
             best[dk(r)].setdefault("also", []).append(r["label"])
     keep = [r for r in keep if r["tier"] != "bm" or best[dk(r)] is r]
-    keep.sort(key=lambda r: (r.get("continent") or "?", r["tier"] != "bm", -(r.get("breadth") or 0), -(r.get("sampled") or 0)))
+    for r in keep:
+        r["listed"] = r["tier"] == "bm" and (r.get("cats3") or 0) >= 2
+    keep.sort(key=lambda r: (r.get("continent") or "?", not r["listed"], -(r.get("breadth") or 0), -(r.get("cats3") or 0),
+                             -(r.get("sampled") or 0)))
     (OUT / "peoples.json").write_text(json.dumps(keep, ensure_ascii=False, indent=0), encoding="utf-8")
     _write_doc(keep, threshold)
     by: dict[str, list] = {}
@@ -511,16 +515,20 @@ def cmd_report(threshold: int) -> None:
     print(f"{len(rows)} names with {threshold}+ image objects in one source; {len(keep)} are peoples, "
           f"{sum(r['tier'] == 'bm' for r in keep)} of them with {threshold}+ in the BM "
           f"({sum(r['in_atlas'] for r in keep)} already in the atlas)")
+    lst = [r for r in keep if r["listed"]]
+    print(f"LIST (2+ categories with 3+ objects): {len(lst)}, new {sum(not r['in_atlas'] for r in lst)}")
     for c, rs in sorted(by.items()):
-        strong = [r for r in rs if r["tier"] == "bm"]
-        print(f"  {c:9s} BM {len(strong):3d} (atlas {sum(r['in_atlas'] for r in strong):2d}, breadth>=6: "
-              f"{sum((r.get('breadth') or 0) >= 6 for r in strong):3d})   Europeana-only {len(rs) - len(strong)}")
+        l = [r for r in rs if r["listed"]]
+        print(f"  {c:9s} listed {len(l):3d} (new {sum(not r['in_atlas'] for r in l):3d}, breadth>=6 {sum((r.get('breadth') or 0) >= 6 for r in l):3d})"
+              f"   not listed {sum(r['tier'] == 'bm' and not r['listed'] for r in rs):3d}   Europeana-only {sum(r['tier'] != 'bm' for r in rs)}")
 
 
 def _write_doc(keep: list[dict], threshold: int) -> None:
     lines = ["# World peoples with museum evidence", "",
              "Generated by `python scripts/world_peoples.py report` — do not edit by hand.", "",
-             f"A people is listed when the museums with a people field hold {threshold}+ image objects under its "
+             "A people is **listed** when its objects fill 2+ of the 12 categories with 3+ objects each (column "
+             "**cat. 3+**). It is counted at all when the museums with a people field hold "
+             f"{threshold}+ image objects under its "
              "name: the British Museum \"Ethnic group\" and the Met and Cleveland culture fields (the Met: public "
              "domain, 1700 or later). **Met+Cle** is that count. The Met's European entries (French, German) come "
              "from its costume and arms departments, not folk collections. The V&A names places, not peoples, so it "
@@ -532,16 +540,18 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
              "is only a hint. Peoples only Europeana finds are listed separately, because most of those are "
              "word collisions (\"Iron\" for Ossetians, \"Bali\", \"Dan\").", ""]
     for cont in sorted({r.get("continent") or "?" for r in keep}):
-        rs = [r for r in keep if (r.get("continent") or "?") == cont and r["tier"] == "bm"]
-        lines += [f"## {cont} — {len(rs)}", "", "| people | country | region | in atlas | BM | Met+Cle | breadth | photo | top categories | Eur. |",
-                  "|---|---|---|:-:|--:|--:|--:|--:|---|--:|"]
+        rs = [r for r in keep if (r.get("continent") or "?") == cont and r["listed"]]
+        below = [r for r in keep if (r.get("continent") or "?") == cont and r["tier"] == "bm" and not r["listed"]]
+        lines += [f"## {cont} — {len(rs)}", "", "| people | country | region | in atlas | BM | Met+Cle | breadth | cat. 3+ | photo | top categories | Eur. |",
+                  "|---|---|---|:-:|--:|--:|--:|--:|--:|---|--:|"]
         for r in rs:
             top = ", ".join(f"{k} {v}" for k, v in list((r.get("categories") or {}).items())[:4])
             also = f" (also {', '.join(r['also'])})" if r.get("also") else ""
             lines.append(f"| [{r['label']}]({r.get('article') or ''}){also} | {r.get('country') or ''} | {r.get('region') or ''} | "
-                         f"{'✓' if r['in_atlas'] else ''} | {r.get('sampled', 0) - r.get('local', 0)} | {r.get('local', 0)} | {r.get('breadth', '')} | "
+                         f"{'✓' if r['in_atlas'] else ''} | {r.get('sampled', 0) - r.get('local', 0)} | {r.get('local', 0)} | {r.get('breadth', '')} | {r.get('cats3', '')} | "
                          f"{int(100 * (r.get('photo_share') or 0))}% | {top} | {r['europeana']} |")
-        lines.append("")
+        lines += ["", f"Below the bar ({len(below)}): " + ", ".join(
+            f"{r['label']} ({r.get('sampled', 0)} obj, photo {int(100 * (r.get('photo_share') or 0))}%)" for r in below), ""]
     eo = [r for r in keep if r["tier"] != "bm"]
     lines += [f"## Europeana only — {len(eo)}, to check", "",
               ", ".join(f"{r['label']} ({r['europeana']})" for r in sorted(eo, key=lambda r: -r["europeana"])), ""]
@@ -557,4 +567,4 @@ if __name__ == "__main__":
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local,
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages)}.get(a.step, lambda: cmd_report(a.threshold))()
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold)}.get(a.step, lambda: cmd_report(a.threshold))()
