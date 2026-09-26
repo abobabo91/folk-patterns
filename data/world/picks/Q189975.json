@@ -282,23 +282,6 @@
     "featured": false
    }
   ],
-  "architectural": [
-   {
-    "source": "bm",
-    "id": "E_Am1993-07-1-a-c",
-    "name": "model building/structure",
-    "kind": "model building",
-    "title": "model building/structure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_17/9d357c9a_bbf5_465e_83b4_a3df01250098/preview_01531472_001.jpg",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a carved walrus-ivory model of a multi-chambered snow house (igloo) on a base, a traditional Inuit architectural form and craft object made from a material Inuit artisans commonly used for miniatures.",
-    "featured": true
-   }
-  ],
   "household": [
    {
     "source": "bm",
@@ -933,6 +916,21 @@
     "confidence": "LOW",
     "reason": "A carved wooden female figure with simplified, slightly elongated features and a slit skirt-like lower body, consistent with Inuit or other Arctic/Northwest carved wood figures used in ritual or doll contexts.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1993-07-1-a-c",
+    "name": "model building/structure",
+    "kind": "model building",
+    "title": "model building/structure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_17/9d357c9a_bbf5_465e_83b4_a3df01250098/preview_01531472_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved walrus-ivory model of a multi-chambered snow house (igloo) on a base, a traditional Inuit architectural form and craft object made from a material Inuit artisans commonly used for miniatures.",
+    "featured": true
    }
   ],
   "textile": [

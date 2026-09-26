@@ -8,163 +8,163 @@ tags: [ethnography, europe]
 ## At a glance
 | | |
 |---|---|
-| Who | The Sámi, indigenous people of northern Fennoscandia |
-| Where | Sápmi — northern Norway, Sweden, Finland, and Russia's Kola Peninsula |
-| How many | 80,000–100,000 (estimates vary; no official census) |
-| Language | Sámi branch of Uralic; nine living languages, North Sámi largest |
-| Religion | Lutheran (mostly Laestadian); Russian Orthodox among Skolt Sámi |
-| Known for | reindeer herding and migration · gákti tunic with coded color bands · duodji craft in antler and root · joik singing · silver risku brooches and lávvu tents |
+| Who | The Sámi, the Indigenous people of northern Scandinavia and Russia's Kola Peninsula |
+| Where | Northern Norway, Sweden, Finland, and Russia's Kola Peninsula (Sápmi) |
+| How many | Roughly 80,000–100,000 |
+| Language | Nine or ten Sámi languages in the Uralic family |
+| Religion | Lutheran, shaped strongly by Laestadianism |
+| Known for | The gákti coat, which encodes home region and family status in its pattern · Joik, a vocal genre that creates a sonic likeness of a person, animal, or place · Duodji, traditional handicrafts in antler, bone, wood, hide and textiles · The risku silver brooch with hanging pendants · Reindeer herding and the seasonal festival calendar centered on it |
 
 ## Overview
 
-The Sámi are the only indigenous people of the European Union, living across four countries in a homeland that has never matched any border. Their languages form a dialect chain where speakers from opposite ends may be mutually unintelligible. Historically they fished, farmed, and hunted wild reindeer, but from the 1600s onward intensive reindeer herding became the foundation of their material culture. Today most Sámi no longer herd, but the reindeer remains central to their crafts and identity.
+The Sámi are the only Indigenous people of the European Union, with roots in northern Scandinavia and the Kola Peninsula. Their unbroken material tradition encodes identity in clothing patterns, metal work, and textiles. They speak Uralic languages and practice a form of Christianity shaped by the Laestadian revival movement. Sámi culture centers on reindeer herding, vocal performance, and handicraft that follows the logic of the material itself.
 
 ## Material culture
 
-Sámi material culture is built from the reindeer itself — antler, bone, sinew, hide and fur — combined with birch, root, and traded metals, all made light and durable enough for a herding migration.
+Sámi material culture is practical, portable, and legible—each object encodes information about the maker's home, family, and status through pattern, form, and ornament.
 
 ### Textile & pattern traditions
 
-Sámi textiles center on woven bands and pewter-thread embroidery rather than figurative patterns, with decoration concentrated on edgings and collars.
+Sámi textiles use color, appliqué, and narrow woven bands to create patterns that identify the wearer's home region and family.
 
-- **Pewter-thread embroidery** (*tinntråd*) — Tin-rich pewter wire drawn fine through an antler draw-plate, hammered flat, then couched onto reindeer leather in spirals and scrolls.
-- **Band weaving** (*vuoddaga fanas, bandgrind*) — Narrow colored wool bands woven on carved antler or tablets in red, yellow, green and blue, producing ties, belts and shoe-bands.
-- **Shoe bands** (*vuoddagat, komagbånd*) — Long woven bands wound over the instep and up the ankle, where pattern and width signal district and family.
-- **Collar band** (*koltakrage*) — Stiffened standing collar on the tunic, faced in colored cloth and often beaded or pewter-stitched, above which the neck brooch sits.
-- **Woollen coverlet weaving** (*grene*) — Coarse striped wool blankets used for bedding, sledge wraps and tent lining.
+- **Gákti coat** (*gákti*) — A wool broadcloth coat gathered at the waist, with appliqué bands at collar, cuffs and hem; the pattern, shoulder width and color identify the wearer's home siida and family.
+- **Pewter-thread embroidery** (*dádjá*) — Spun tin-and-lead wire laid in tight scrolls and coiled spirals on tanned reindeer hide, then couched down with sinew; used on pouches, belts, and knife sheaths.
+- **Narrow woven bands** (*vuoddagat / komagbånd*) — Long shoe-bands woven in red, yellow, green and blue geometric repeats, wound over the instep to close the boots; often several metres long.
+- **Winter overcoat** (*beaska*) — A reindeer-hide coat worn with the fur out, belted, with a high standing collar for winter wear.
+- **Hooded shoulder poncho** (*luhkka*) — A woollen poncho worn over the gákti that sheds snow and wind and needs no fastening.
 
 ### Clothing & dress
 
-The tunic called gákti or kolt is the single most legible Sámi object, its cut, hem length, color bands and buttons identifying the wearer's home district and family.
+Both men and women wear the gákti as daily and festival dress; regional variations in headgear are the strongest marker of home and status.
 
-- **Tunic** (*gákti, kolt*) — Straight-cut wool tunic, most commonly deep blue with bands of red, yellow and green at hem and cuff, shorter and belted for men, longer for women.
-- **Hooded shoulder cape** (*luhkka*) — Short circular hooded poncho of wool thrown over the tunic against wind and snow.
-- **Fur coat** (*beaska*) — Winter overcoat of reindeer hide with hair outward, the warmest garment and still worn by herders.
-- **Fur boots** (*skaller, gállohat, nutukas*) — Reindeer-leg-skin boots with upturned toe for the ski strap, insulated with dried sedge grass rather than socks.
-- **Horn hat** (*ládjogahpir*) — Nineteenth-century women's cap over a curved wooden board, condemned by pietist clergy, abandoned by the late 1800s and deliberately revived in recent decades.
+- **Reindeer-hide boot** (*skaller / nutukas*) — A boot with an upturned pointed toe, stuffed with dried sedge grass instead of socks and bound with woven bands.
+- **Four-winds hat** — A Kautokeino men's hat with four stiffened points as the strongest regional marker.
+- **Horn hat** (*ládjogahpir*) — A tall ceremonial women's cap built over a wooden crescent, revived since the 2010s after being condemned by Laestadian clergy in the 19th century.
+- **Broad leather belt** (*belt*) — A man's working belt tooled or studded with pewter, hung with a sheathed knife, needle case and pouch.
+- **Needle case** (*nállogoahti*) — A small decorated case hung from the belt to hold sewing needles.
 
 ### Architecture
 
-Sámi building is a graded series of shelters matched to how long a family intends to stay, from a night's tent to a turf house occupied for generations.
+Sámi buildings are relocatable or semi-permanent forms suited to seasonal movement, built around a central hearth.
 
-- **Turf hut** (*goahti, gåetie, kåta*) — Semi-permanent dwelling on a frame of curved birch poles clad in birch bark and turf, with a central hearth and a sacred rear space for meat and hunting gear.
-- **Conical tent** (*lávvu*) — Portable tent of straight poles in a tripod covered in reindeer hide, cloth or canvas, erectable in minutes and the standard migration dwelling.
-- **Pole store** (*njalla*) — Small gabled storehouse raised on peeled stumps and reached by a removable ladder, keeping dried food beyond the reach of predators.
-- **Timber house** (*stuollu, stuga*) — Log cabins at fixed fishing and winter sites, adopted from Scandinavian neighbors from the eighteenth century onward.
-- **Sacred sites** (*sieidi*) — Marked places — distinctive rocks, cliffs, lake islands and springs — that received offerings of antler, bone, fat and coins, many still known and respected.
+- **Portable conical tent** (*lávvu*) — A tripod of forked poles covered with reindeer hide or heavy cloth, with a smoke hole at the apex and hearth below; the boaššu behind the hearth stores food and hunting gear.
+- **Winter and settlement dwelling** (*goahti / gamme*) — A dome-like structure of paired curved poles covered with birch bark and turf, appearing as a low green mound from outside.
+- **Raised storehouse** (*njalla*) — A storehouse raised on peeled posts and reached by a removable ladder, keeping dried meat and fish above scavengers.
 
 ### Ceramics, metalwork & everyday objects
 
-The Sámi produced no pottery; instead they carved wood, sewed hide and beat traded metal, and the entire craft complex is called duodji.
+The Sámi tradition is in carved wood, antler, bone and hide rather than pottery; reindeer antler carving supplies most everyday tools.
 
-- **Burl cup** (*guksi, kuksa*) — Drinking cup carved from birch burl with visible grain, often fitted with an antler or bone handle plate and a belt thong.
-- **Milking vessel** (*náhppi*) — Shallow carved wooden bowl with a broad handle, used to milk reindeer cows in summer and to make sour milk preserves.
-- **Antler carving** (*čoarvi duodji*) — Reindeer antler sawn, filed, bent in hot water and incised with fine geometric bands, used for knife hilts, spoons, buttons and belt fittings.
-- **Needle case** (*nállogoahti*) — Hollow antler tube hung from a woman's belt with scissors, awl and thimble, densely decorated and among the most ornate Sámi objects.
-- **Root basketry and knives** (*vesse, niibi*) — Coiled spruce and birch-root containers for food, and the long-bladed working knife with stiffened leather and antler sheath.
+- **Birch-burl drinking cup** (*guksi / kåsa*) — A cup carved from birch burl with the bowl following the grain, the handle often pierced or incised and sometimes inlaid with reindeer antler.
+- **Antler carving** — Reindeer antler supplies knife handles, spoons, needle cases, band-weaving heddles and scoops, cut with fine incised geometric fields.
+- **Ritual drum** (*runebomme / goavddis*) — An oval drum of reindeer hide painted with alder bark in red figures of sun, reindeer, ritual specialists and dwellings; the central ritual object.
+- **Hide container** (*nappe*) — A hide bag or cover used for storage and transport.
 
 ### Jewelry & body adornment
 
-Sámi ornament is silver and pewter rather than gold, much of it entered through trade with Scandinavian silversmiths and reworked to Sámi taste.
+The defining ornament is the risku, a large flat silver brooch hung with small pendants that chime as the wearer moves.
 
-- **Neck brooch** (*risku*) — Concave silver disc, pierced and stamped, fastening the tunic's collar and hung with loose spoon-shaped danglers that chime with movement.
-- **Chest brooch sets** (*silbabáktaris*) — Several graded brooches worn together on a woman's chest, historically also a portable store of household wealth.
-- **Belt** (*boagán*) — Leather or woven belt studded with pewter or silver plaques, carrying knife, needle case, pouch and cup, cut differently for men and women.
-- **Leather bracelet** (*sámi bracelet, tinntrådsarmband*) — Soft reindeer-leather band embroidered in pewter thread and closed with an antler button, now the most widely sold single duodji object.
-- **Headwear** — Women's caps vary sharply by district, from the red four-winds cap of Kautokeino to the embroidered Skolt cap, commonly marking marital status.
+- **Silver brooch** (*risku*) — A large flat disc pierced and hung with small loose silver pendants; worn singly or stacked several deep to close the gákti collar or shawl, and their accumulation marks wealth.
+- **Sámi bracelet** — A modern duodji bracelet of tanned reindeer hide couched with pewter thread and closed with an antler button.
+- **Pewter-studded belt fittings** (*belt fittings*) — Chains, chatelaine hooks and pewter-studded fittings that complete the belt ornament.
 
 ## Music & performance
 
-Sámi music is dominated by the joik, a vocal genre sung not about its subject but of it, calling it into presence with a personal melody.
+Joik, a vocal genre with no close European parallel, is a sonic likeness of a person, animal or place rather than a song about it.
 
-- **Yoik** (*luohti, vuolle, juoigos*) — Short cyclic melody, pentatonic or freer in pitch, without fixed beginning or end; personal yoiks are composed for individuals and remain attached to them after death.
-- **Skolt narrative song** (*leu'dd*) — Long text-heavy Skolt Sámi song recounting individual biographies, marriages and migrations, treated as a form of historical record.
-- **Angelica pipe** (*fadno*) — Reed instrument made from the hollow stalk of angelica, attested historically and reconstructed by contemporary musicians.
-- **Shaman drum** (*goavddis, meavrresgárri, runebomme*) — Oval frame drum with hide head painted in red alder-bark juice with sun, deity and animal figures, struck with an antler hammer and read as a divining device.
-- **Contemporary Sámi music** — Artists like Nils-Aslak Valkeapää, Mari Boine and Sofia Jannok carried the joik into art music, rock and jazz, while Frode Fjellheim's South Sámi vuelie opened Disney's Frozen to global audiences.
+- **Joik** (*luohti / vuolle / leu'dd*) — A short, cyclic vocal genre sung without fixed beginning or end, each person or place having its own joik often composed for a newborn and carried for life.
+- **Drum ritual** (*runebomme*) — The ritual drum accompanied the noaidi (ritual specialist) who drummed to reach a trance state, with a brass or antler ring moving across painted figures.
+- **Modern Sámi music scene** (*modern joik*) — Since the 1970s joik has been fused with concert composition and modern songwriting, visible in artists like Nils-Aslak Valkeapää and Mari Boine and the Sámi Grand Prix song contest.
 
 ## Dance & theatre
 
-There is no large documented Sámi dance corpus because Laestadian revivalism condemned dancing along with yoik and the drum, though the Skolt Sámi retained couple and set dances.
+The Sámi have no large indigenous repertoire of named set dances; modern theatre is young and consequential.
 
-- **Skolt dances** (*Sä´mmlaž tanss*) — Couple and set dances including quadrille forms retained by Skolt Sámi, who were insulated from Lutheran pietism by Orthodox Christianity.
-- **Ring and game dances** — Simple circle and imitation dances suggested by scattered accounts and a few revived sequences, though the record is too thin to fully reconstruct.
-- **Beaivváš Sámi National Theatre** (*Beaivváš Sámi Nášunálateáhter*) — Theatre founded in Kautokeino in 1981, performing in Sámi languages and mixing adapted oral narrative with new political drama.
-- **Sámi cinema** — Films like Nils Gaup's Ofelaš (1987), the first feature in North Sámi, and Amanda Kernell's Sameblod (2016) on the boarding-school era carry much of the work a staged tradition might otherwise hold.
-- **Festival stage culture** — Riddu Riđđu in Kåfjord and Márkomeannu in the Ofoten borderlands function as commissioning venues for contemporary Sámi performance.
+- **Skolt social dance** (*Skolt dance*) — Skolt Sámi communities retained a distinct social dance culture in which the leu'dd singer and dancers share the same evening event.
+- **National theatre** (*Beaivváš*) — The Sámi national theatre founded in Kautokeino in 1981, working in Northern Sámi and staging joik-driven productions.
 
 ## Festivals & rituals
 
-The Sámi ceremonial year is organized around the herding calendar and around markets and church gatherings that historically brought dispersed families together.
+The Sámi festival year hangs on the reindeer calendar and the church calendar fused to it, with Easter and winter gatherings as the great events.
 
-- **Sámi National Day** — Celebrated on February 6 to commemorate the first Sámi congress held in Trondheim in 1917, marked with the Sámi flag and anthem.
-- **Kautokeino Easter Festival** (*beassážat*) — Great spring gathering at the end of winter pastures, featuring weddings, confirmations, reindeer racing and the Sámi Grand Prix song and joik competition.
-- **Jokkmokk winter market** — Swedish Sámi market held since 1605 in the first week of February, originally a taxation and trading occasion now become a craft and reunion fair.
-- **Bear ceremonialism** — The most elaborate documented pre-Christian rite: a regulated hunt with euphemistic vocabulary, ritual purification of hunters, and burial of bear bones in anatomical order.
-- **Offering at sieidi** — Seasonal offerings of antler, fat, bone and metal at named rocks and lake islands made for fishing and herding luck, persisting quietly long after nominal conversion.
+- **Easter week in Kautokeino** (*Sámi Easter Festival*) — The great spring gathering for herders arriving before migration, featuring weddings, confirmations, reindeer-racing championships, lasso-throwing and the Sámi Grand Prix song contest.
+- **February winter market** (*Jokkmokks marknad*) — Held the first Thursday of February since 1605, one of Europe's oldest continuous winter markets, featuring reindeer caravans and a duodji fair.
+- **Sámi National Day** — Falls on 6 February, the anniversary of the first pan-Sámi congress at Trondheim in 1917; the flag and anthem are raised across all four countries.
+- **Summer arts festival** (*Riddu Riđđu*) — An Indigenous arts festival held at Manndalen in July.
+- **Autumn herding ritual** (*gárdi*) — The autumn reindeer separation when herds are gathered into corrals, marked and divided between owners, functioning as both working ritual and social season.
 
 ## Foodways
 
-Sámi cooking is a cuisine of one animal — the reindeer — and what the tundra adds to it, with nothing wasted from the herd.
+Sámi cooking centers on reindeer meat, fish and dairy with almost no grain; the plague of 1349 spared them partly because they ate reindeer and fish, not wheat.
 
-- **Boiled reindeer meat** (*vuoššanbiergu*) — Meat cut from bones and boiled in water with little more than salt, the everyday protein.
-- **Cold-smoked reindeer** (*suovas*) — Smoked and thinly sliced reindeer meat prepared for storage and travel.
-- **Reindeer sausage** (*gurpi*) — Minced meat and fat sewn into an intestine casing and smoked into a dense travelling sausage.
-- **Mountain sorrel or angelica preserve** (*juobmu*) — A paste of boiled mountain sorrel or angelica made with soured reindeer milk, supplied vitamin C through winter.
-- **Reindeer stew** (*bidos*) — A thick stew of meat, marrow bone, potato and carrot that marks a wedding feast.
+- **Cold-smoked reindeer** (*suovas*) — Reindeer meat hung in the smoke of the goahti to cold-smoke and salt it.
+- **Reindeer and fat sausage** (*gurpi*) — Minced reindeer and fat wrapped in fat membrane or intestine and smoked.
+- **Reindeer stew** (*bidos*) — A reindeer stew with potato and carrot, the wedding and festival dish of Finnmark.
+- **Flatbread** (*gáhkku / láibi*) — Unleavened flatbread baked on a pan over the hearth, eaten with butter and dried meat.
+- **Berry and plant foods** (*luomi*) — Cloudberries, lingonberries, crowberries eaten with reindeer milk products or preserved in fat; Angelica stalks and sorrel as significant plant foods.
 
 ## Oral tradition & literature
 
-Before the twentieth century Sámi knowledge moved by voice: genealogies, pasture rights, route descriptions and cosmology all travelled as narrative, inseparable from the joik.
+Sámi oral tradition has no single long epic; its backbone is the folktale and the joik, which does narrative work that elsewhere falls to sung epic.
 
-- **Sun mythology** (*Beaivi*) — The sun goddess, whose sons appear in the nineteenth-century epic by priest Anders Fjellner as the Sun's Son courting a giant's daughter.
-- **Great Mother** (*Máttaráhkká*) — Goddess whose daughters Sáráhkká, Juksáhkká and Uksáhkká governed conception, birth and the threshold.
-- **Thunderer** (*Horagalles*) — Storm deity in the Sámi pantheon.
-- **Ogre** (*stállu*) — A large, rich and stupid being regularly outwitted by a Sámi boy in folklore narratives.
-- **Account of the Sámi** (*Muitalus sámiid birra*) — Johan Turi's 1910 book, the first secular book written in a Sámi language by a Sámi, and the foundational insider ethnography.
+- **Folktale cycle** (*máinnas*) — The Sámi folktale, the most widespread cycle concerning the Stállu (a large slow dangerous ogre-like being) outwitted by a clever Sámi.
+- **Water-being tale** (*Čáhcerávga*) — Tales of the water-being that drowns the careless, part of the oral tradition.
+- **Historical raiding tales** (*Čudit*) — Tales of hostile raiders from the east that anchor a historical memory of raiding.
+- **First Sámi book** (*Muitalus sámiid birra*) — Johan Turi's 1910 work, the first secular book in a Sámi language by a Sámi author.
+- **Modern literature** (*modern Sámi literature*) — Nils-Aslak Valkeapää's poetry and Elin Anna Labba's account of forced displacements anchor the modern literary revival.
 
 ## Language & religion
 
-Nine living Sámi languages form a dialect chain from Scandinavia to the Kola Peninsula, with North Sámi the largest; almost all Sámi are Lutheran, predominantly Laestadian, while Skolt Sámi are Russian Orthodox.
+Sámi comprises nine or ten languages in the Uralic family; religion is Lutheran, shaped by Laestadianism, which suppressed traditional joik and drums while preserving Sámi-language preaching.
 
-- **North Sámi** — The largest Sámi language with 20,000–25,000 speakers, carrying most published literature, education and broadcasting.
-- **Laestadianism** — An austere Lutheran revival begun by Lars Levi Laestadius, a Sámi, which gave congregations preaching in Sámi but drove out yoik, drum and dancing.
-- **Norwegianisation** (*fornorsking*) — Policy from the mid-nineteenth to mid-twentieth century that put Sámi children in boarding schools where their language was punished.
-- **Sámi Parliaments** — Three representative bodies in Finland (from 1973), Norway's Sámediggi (from 1989) and Sweden (from 1993) giving political voice to Sámi peoples.
-- **Shaman** (*noaidi*) — Pre-Christian mediator between worlds using drum and trance, surviving mainly in missionary records and place names.
+- **Northern Sámi** — The most widely spoken of the Sámi languages, used in schools and media.
+- **Laestadian movement** (*Laestadianism*) — A revival movement founded by Lars Levi Laestadius in the 1840s that reached deep into Sámi communities, preserving Sámi-language preaching while suppressing joik and drums.
+- **Ritual specialist** (*noaidi*) — The Sámi ritual specialist who used the drum to reach a trance state in older cosmology.
+- **Offering stone** (*sieidi*) — A natural rock or stone formation given offerings of antler, bone and fat; many sites remain known and respected even where offerings stopped generations ago.
+- **Sun deity** (*Beaivi*) — The sun deity in older Sámi cosmology, surviving in documented tradition and place-name evidence.
 
 ## Glossary
 
-- *gákti* — Sámi tunic, the distinctive dress garment
-- *duodji* — Sámi craft tradition in wood, antler, bone and metal
-- *joik* — Personal vocal melody sung to call a person or being into presence
-- *lávvu* — Portable conical migration tent
-- *goahti* — Semi-permanent turf hut dwelling
-- *risku* — Concave silver neck brooch
-- *tinntråd* — Pewter-thread embroidery on leather
-- *sieidi* — Sacred marked place receiving ritual offerings
-- *noaidi* — Pre-Christian shaman mediating between worlds
-- *boagán* — Leather or woven belt studded with metal plaques
-- *guksi* — Drinking cup carved from birch burl
-- *nállogoahti* — Ornate hollow antler needle case
-- *Sápmi* — The Sámi homeland spanning four countries
-- *fornorsking* — Norwegianisation policy suppressing Sámi language
-- *Laestadianism* — Austere Lutheran revival dominant among Sámi
-- *Sámediggi* — Norwegian Sámi Parliament
-- *beassážat* — Kautokeino Easter festival and spring gathering
-- *stállu* — Folklore ogre outsmarted by Sámi boys
-- *Máttaráhkká* — Pre-Christian great mother goddess
-- *suovas* — Cold-smoked and sliced reindeer meat
-- *juobmu* — Mountain sorrel preserve supplying winter vitamin C
-- *vuoddagat* — Long woven ankle bands sealing boots
+- *gákti* — The Sámi coat, a wool broadcloth garment that identifies the wearer's home region and family
+- *duodji* — Sámi handicraft covering hard crafts in antler, bone and wood and soft crafts in hide and textiles
+- *dádjá* — Spun tin-and-lead wire used in pewter-thread embroidery on hides
+- *vuoddagat* — Long narrow woven shoe-bands wound over the instep to close the boots
+- *beaska* — A reindeer-hide winter overcoat worn with the fur out
+- *luhkka* — A hooded woollen shoulder poncho worn over the gákti
+- *skaller* — A reindeer-hide boot with an upturned pointed toe
+- *ládjogahpir* — The tall ceremonial women's horn hat built over a wooden crescent
+- *nállogoahti* — A needle case hung from the belt
+- *risku* — A large flat silver brooch hung with small pendants that chime as the wearer moves
+- *lávvu* — A portable conical tent with a central hearth
+- *goahti* — A heavy winter dwelling with paired curved poles and a dome-like structure covered with birch bark
+- *njalla* — A raised storehouse on peeled posts, keeping dried meat and fish above scavengers
+- *guksi* — A drinking cup carved from birch burl
+- *runebomme* — An oval ritual drum of reindeer hide painted with alder bark figures
+- *luohti* — Joik in Northern Sámi, a vocal genre creating a sonic likeness of a person, animal or place
+- *leu'dd* — Joik in Skolt Sámi, a more narrative form recounting biographies and family histories
+- *noaidi* — The Sámi ritual specialist who used the drum to reach a trance state
+- *sieidi* — A natural rock or stone formation given offerings of antler, bone and fat
+- *gárdi* — The autumn reindeer separation when herds are gathered, marked and divided
+- *suovas* — Cold-smoked and salted reindeer meat hung in the smoke of the goahti
+- *gurpi* — Minced reindeer and fat wrapped in membrane or intestine and smoked
+- *bidos* — A reindeer stew with potato and carrot, the festival dish of Finnmark
+- *máinnas* — The Sámi folktale, the backbone of oral tradition
+- *Laestadianism* — A revival movement that shaped Sámi religious practice while suppressing joik and drums
 
 ## Sources & further reading
 
-- Wikipedia: *Sámi people*; *Gákti*; *Duodji*; *Joik*; *Lávvu*; *Goahti*; *Sámi shamanism*; *Sámi languages*; *Sámi National Day*.
-- No Sámi element currently appears on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity; safeguarding runs instead through the three Sámi Parliaments, the Sámi Duodji trademark, and the Nordic Sámi Convention process.
-- Johan Turi, *Muitalus sámiid birra* / *An Account of the Sámi* (1910; trans. Thomas A. DuBois, 2012) — the foundational insider ethnography.
-- Ernst Manker, *Die lappische Zaubertrommel* (1938–50) — the standard catalogue of surviving shaman drums.
-- Veli-Pekka Lehtola, *The Sámi People: Traditions in Transition* (rev. edn) — the accessible general history.
-- Gunvor Guttorm, writings on *duodji* as both craft and knowledge system (Sámi allaskuvla, Kautokeino).
-- Museum collections: Sámiid Vuorká-Dávvirat / RiddoDuottarMuseat (Karasjok), Ájtte (Jokkmokk), Siida (Inari), Nordiska museet (Stockholm), Norsk Folkemuseum (Oslo).
+- Johan Turi, An Account of the Sámi (Muitalus sámiid birra, 1910), trans. Thomas A. DuBois, Nordic Studies Press, 2011
+- Veli-Pekka Lehtola, The Sámi People: Traditions in Transition, University of Alaska Press, 2004
+- Neil Kent, The Sámi Peoples of the North: A Social and Cultural History, Hurst & Company, 2014
+- Elin Anna Labba, The Rocks Will Echo Our Sorrow: The Forced Displacement of the Northern Sámi, University of Minnesota Press, 2023
+- Ernst Manker, Die lappische Zaubertrommel (2 vols., 1938–1950) — the standard catalogue of surviving Sámi drums and their painted figures
+- Thomas A. DuBois on Sámi joik and oral literature; Richard Jones-Bamman on joik and Sámi identity in modern music
+- https://en.wikipedia.org/wiki/S%C3%A1mi_people
+- Norway, Sweden and Finland have no UNESCO Intangible Cultural Heritage inscriptions covering Sámi traditions; see https://ich.unesco.org/en/lists for the current lists
+- https://folkways.si.edu/search?query=Sami
+- RiddoDuottarMuseat / Sámiid Vuorká-Dávvirat (Sámi Museum, Karasjok): https://rdm.no
+- Ájtte, Svenskt Fjäll- och Samemuseum, Jokkmokk: https://www.ajtte.com
+- Norsk Folkemuseum Sámi collections: https://digitaltmuseum.no
+- Nordiska museet, Stockholm — Sámi collections: https://digitaltmuseum.se
+- British Museum, "Sami" ethnic-group search: https://www.britishmuseum.org/collection
 

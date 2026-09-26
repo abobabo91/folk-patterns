@@ -8,151 +8,156 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Gbagyi (also called Gwari or Gbari), a Nupoid-speaking people of Nigeria's Middle Belt |
-| Where | Niger, Kaduna, Nasarawa and Kogi States and the Federal Capital Territory; centered around Minna and the Abuja plateau |
-| How many | 3 to 5 million |
-| Language | Gbagyi and Gbari (Nupoid languages) |
-| Religion | Christianity and Islam, with ancestral and earth veneration |
-| Known for | Kwali and Ushafa pottery · Shoulder-borne water pots · Conical thatch compounds and mud granaries · Knunu masked dance · Goge fiddle and facial cicatrization |
+| Who | The Gbagyi (also called Gbari), a Middle Belt Nigerian people |
+| Where | Western Abuja, the Federal Capital Territory, southern Niger State, Chikun LGA in Kaduna State, and parts of Nasarawa State. Towns include Minna, Suleja, Kwali, Ushafa, and Bwari. |
+| How many | About 12 million across four states and thirty local government areas |
+| Language | Gbagyi/Gbari, Niger-Congo language with two dialects, placed in the Nupoid group |
+| Religion | Majority Christian (Sudan Interior Mission and Yoruba Baptist missions); Muslim minority; traditional practitioners |
+| Known for | Hand-built pottery, especially the work of Ladi Kwali · Distinctive shoulder-carried-load posture · Knunu dance with brass anklets and bells · Indigo resist cloth and ethnic-identity printed wrappers · Folktale tradition with refrain songs |
 
 ## Overview
 
-The Gbagyi are among the oldest settled peoples of the Nigerian Middle Belt, living on granite plateaus between the Niger and Kaduna rivers. In the 1800s, slave raiding forced them into hilltop settlements, giving them the distinctive compound architecture that defines the region today. The creation of Abuja in the 1970s and 1980s displaced thousands from their ancestral lands. They are known for their pottery, especially through Ladi Kwali, and for a reputation as patient and accommodating people.
+The Gbagyi are a people of the granite savanna between the Kaduna and Gurara rivers in Nigeria's Middle Belt. They are most famous for their pottery tradition, which produced Ladi Kwali, the twentieth century's most internationally known African potter. Their culture centers on agriculture, chieftaincy, and performance arts tied to the farming calendar and life-cycle rituals. Displacement from Abuja's federal capital development has reshaped settlement patterns, but Gbagyi associations now organize cultural festivals asserting indigenous land ownership.
 
 ## Material culture
 
-Gbagyi material culture centers on clay, grass and iron—women's pottery, men's blacksmithing, and domestic work in grass and calabash—rather than weaving or cast metal.
+Gbagyi decorative genius runs through clay, gourd, grass and indigo, with pottery as the signature art form transmitted through women.
 
 ### Textile & pattern traditions
 
-The Gbagyi were not major weavers; cloth came mostly from trade with Nupe and Hausa, while their own patterning vocabulary lives on pottery and grass screens.
+Gbagyi textiles center on indigo resist cloth, grass screens and gourd work rather than loom weaving.
 
-- **Grass screen** (*zana*) — Panels of split guinea-corn or elephant-grass stalks bound in rows with cord, used as courtyard walls, gates and bathing enclosures.
-- **Roulette impression** — A carved or twisted-cord roller rolled across damp clay to create continuous textured bands, the most characteristic Gbagyi ornamental technique.
-- **Raffia basketry** — Coiled and plaited baskets, mats and containers worked in alternating natural and dyed strands to produce banded and spiral patterning.
-- **Calabash pyrography** — Gourd vessels incised and scorched with heated iron points into geometric registers.
-- **Indigo resist cloth** — Cotton cloth patterned by tying, stitching or clamping before dipping in fermented indigo, obtained from Hausa pit-dyeing centers.
+- **Indigo resist cloth** (*yan bula*) — Dark blue cloth dyed in sunken indigo pits, historically wrapped at the loins and later cut into trousers and skirts paired with white shirts.
+- **Mizhin Gbagyizanu ethnic-identity print** — Factory-woven black-and-white cloth showing women bearing loads on their shoulders, worn at cultural days, association meetings and funerals as an ethnographic statement about posture.
+- **Zana grass screen** (*zana*) — Tall guinea grass stems bound in parallel rows with cord, used for compound fencing, bathing enclosures and granary skirts, producing a banded surface pattern.
+- **Calabash pyrography** — Gourd bowls, beer dippers and covers decorated by incision and hot-iron burning, with blackened lines against the pale gourd wall.
 
 ### Clothing & dress
 
-Gbagyi dress today follows the northern Nigerian style of gown, cap and wrapper, shaped by Hausa and Nupe contact and Islamic and Christian influence.
+Daily dress centers on the wrapped indigo loincloth, while ceremonial regalia adds brass anklets, bells and cowrie belts.
 
-- **Dance regalia** (*knunu*) — Costume for the knunu masked dance, combining grass and raffia fringing, cloth strips, ankle rattles and a concealing headpiece.
-- **Embroidered gown** — Wide-sleeved men's gown worn over trousers, now standard for elders and festival dress.
-- **Wrapper and headtie** — Two-piece women's dress of waist wrapper and tied head cloth, commonly in indigo or printed cotton.
-- **Waist beads** — Strings of beads or cowries worn beneath or above the wrapper by women, marking maturity and marital status.
+- **Indigo loincloth** — Worn by both sexes; women wrap a longer length at the waist, with ankle-length marking seniority.
+- **Knunu dance regalia** (*knunu*) — Fibre or grass skirting worn over the wrapper with brass anklets, bells and cowrie-strung waistbands and cross-body straps.
+- **Contemporary women's dress** (*zani*) — The zani wrapper paired with a matching blouse and head-tie, the head-tie tied high for ceremonies.
+- **Shoulder-carried-load posture** — The distinctive Gbagyi marker: loads are borne on the shoulder, never the head, because the head is held to be the king of the body.
 
 ### Architecture
 
-Gbagyi compounds are walled family clusters of round mud-walled rooms under steep conical thatch, historically sited on granite hilltops for defense against slave raiding.
+The Gbagyi compound is a cluster of round mud-walled huts under conical thatch, ringed by a grass or earth perimeter.
 
-- **Conical thatch compound** — Cluster of circular puddled-mud rooms, each roofed with a steep conical frame of poles and guinea grass, arranged around a swept central courtyard.
-- **Mud granary** — Large bottle-shaped or cylindrical earthen store raised on stones or timber to keep out damp and rodents, capped with a removable thatch cone.
-- **Grass screen enclosure** (*zana*) — Woven grass-stalk panels forming compound walls, entrance baffles and bathing enclosures, replaced seasonally.
-- **Hilltop settlement** — Defensive siting on and among granite inselbergs, with narrow approach paths, rock-shelter storage and water cisterns in natural hollows.
-- **Entrance hut** — Roofed gateway chamber at the compound threshold where the household head receives visitors.
+- **Gbagyi compound** (*gida*) — A cluster of round mud-walled huts built of puddled laterite in courses and smoothed by hand, with conical thatch roofs and a single gatehouse hut where the compound head receives visitors.
+- **Granary** — Raised mud cylinders with detachable thatch caps set on stone or potsherd footings to prevent termites and rodents, the compound's most visible statement of harvest.
+- **Kitchen hearth** — Sunken hearths with three stones, with enormous kasko grain pots built into corners.
 
 ### Ceramics, metalwork & everyday objects
 
-Pottery is the Gbagyi craft of international consequence, hand-built by women without the wheel and decorated with roulette, while men's blacksmithing supplies agricultural tools.
+Pottery is the Gbagyi art form of record, transmitted matrilineally as a woman's craft, with three named vessel forms.
 
-- **Kwali pottery** (*Kwali*) — Hand-built water jars and bowls from Kwali, characteristically large, thin-walled and decorated with incised and roulette-impressed registers.
-- **Water pot** (*tulu*) — Narrow-necked round-bodied carrying pot for drawing and transporting water, the form most associated with Gbagyi ceramics.
-- **Storage jar** (*randa*) — Very large wide-mouthed earthen jar used to hold water, grain or fermenting beer, too heavy to move once filled.
-- **Ushafa pottery** (*Ushafa*) — Ware from Ushafa near Bwari, a long-established potting village whose burnished domestic vessels remain in continuous manufacture.
-- **Shoulder-borne pot carriage** — The distinctive Gbagyi practice of carrying the water pot on one shoulder rather than balanced on the head, functioning as an ethnic emblem.
+- **Randa** — The largest pot, 20–30 gallons, wide-mouthed with a short neck and narrow rim, for drinking water and ceremonial beer; the Gwarin Yamma are its specialists.
+- **Tulu** — Long-necked, fat-bellied pot with a narrow mouth and wide flat rim, reserved strictly for giya beer, whose contents are held safe from spirits overnight.
+- **Kasko** — An open, variable utility pot for water, oil, meat, fish, salt, cooking and serving, and in giant form for grain storage.
+- **Pottery decoration techniques** — Vessels are pinched and coil-built, shaped with wooden ribs and knife blades, decorated with roulette and incision, and open-fired.
+- **Blacksmith work** — Blacksmiths forge hoe blades, adzes and knife tangs from scrap bloom at bellows hearths.
 
 ### Jewelry & body adornment
 
-Gbagyi adornment relies on brass, iron, cowries and beads, and historically on facial and body cicatrization that identified lineage and community.
+Dance and marriage adornment turns on cast brass or bronze anklets, cowrie-strung waistbands and beads, with facial cicatrization marking lineage.
 
-- **Facial cicatrization** — Sets of incised cheek, temple and forehead scars cut in childhood and rubbed with pigment or ash to raise them, identifying lineage affiliation.
-- **Brass anklet** — Heavy cast or coiled brass anklet worn by women, sometimes in weighty pairs that alter the gait audibly, associated with marriage and dance.
-- **Body scarification** — Decorative keloid patterning on the torso, arms and abdomen of women, understood as enhancing beauty and marking passage to adulthood.
-- **Cowrie waistband** — Band of cowrie shells strung or sewn at the waist, carrying ornamental and older monetary and fertility associations.
+- **Brass or bronze anklets** — Worn in pairs, they sound with the step and are the audible half of knunu dance regalia.
+- **Cowrie-strung waistbands and cross-body straps** — Worn for dance and marriage ceremonies as part of formal adornment.
+- **Brass and iron bangles** — Worn alongside strung glass and stone beads for ceremonial occasions.
+- **Facial cicatrization** — Short cheek and temple cuts marking lineage and locality, general before the mid-twentieth century and surviving on elders.
 
 ## Music & performance
 
-Gbagyi music centers on drums, the single-string goge fiddle and massed responsorial singing, performed at work parties, funerals and harvest celebrations.
+Gbagyi musical life is drum- and fiddle-led, tied to agricultural labour, chieftaincy and mourning, with Christian expansion producing substantial hymn and gospel-chorus repertoires.
 
-- **Bowed fiddle** (*goge*) — Single-string gourd-bodied fiddle with a horsehair bow, played by a specialist who both accompanies and sings, commonly with a rattle-player.
-- **Drum** (*kundu*) — Sets of differing pitch drums played with interlocking patterns that cue dance movement and convey praise phrases.
-- **Responsorial song** — Lead-and-chorus singing in which a soloist improvises praise, complaint or narrative over a fixed communal refrain.
-- **Calabash rattle and gourd percussion** — Netted seed-covered gourds, struck calabashes floating in water and iron scrapers supplying the timeline for drum patterns.
+- **Kundu drum** (*kundu*) — A single-headed hourglass or goblet drum played with the hands and carried on a shoulder strap, played in graded sets with a lead voice and answering drums.
+- **Goge bowed lute** (*goge*) — A single- or two-string fiddle with a gourd body and lizard- or reptile-skin membrane, bowed with a horsehair arc and accompanied by the kwarya inverted-calabash percussion.
+- **Praise singing** — Songs of praise-naming for the Osu and lineage heads, performed at the Osu's court, weddings and spirit-appeasement performances.
+- **Farm songs** — Call-and-response songs sung over communal hoeing, part of agricultural labour.
+- **Gbagyi-language hymn and gospel repertoire** — Substantial Christian repertoire sung to kundu accompaniment produced by Sudan Interior Mission and Yoruba Baptist missionaries, now outweighing court music in everyday hearing.
 
 ## Dance & theatre
 
-Gbagyi dance is communal and occasion-bound, organized by age and gender, with the masked knunu tradition as its most theatrical expression.
+The knunu dance is the signature Gbagyi performance, a line and circle dance in fibre skirting and brass anklets, performed at chieftaincy installations, marriages and elder second burials.
 
-- **Knunu dance** (*knunu*) — Masked or costumed dance performed in concealing regalia of grass, raffia and cloth, appearing at funerals, harvest and initiation occasions.
-- **Anklet dance** — Women's display dance in which heavy brass anklets are made to sound rhythmically, the ornament functioning simultaneously as instrument and costume.
-- **Harvest circle dance** — Massed dance in concentric rings, women and men in separate arcs, with foot-stamping and hip articulation set against the kundu ensemble.
-- **Hunters' display** — Competitive mimetic dance by hunters' associations re-enacting stalking and the kill, performed with bows, horns and trophy skins.
-- **Masquerade satire** — Topical mockery and mimicry delivered from behind the mask, licensing criticism that could not be voiced openly.
+- **Knunu dance** (*knunu*) — A line and circle dance for women and men in fibre skirting, brass anklets and cowrie belts, driven by kundu drums, in which the stamping foot and ankle bells supply the counter-rhythm.
+- **Harvest and new-yam dancing** — Dancing accompanying the close of the farming year, with mimed hoeing and load-carrying figures, including the shoulder-borne pot, worked into the choreography.
+- **Masquerade performances** — Tied to the appeasement of deities such as Maigiro, belonging to the traditional-religion minority and now rare and largely closed to outsiders.
+- **Gbagyi Day cultural pageants** — Modern staged productions organized by Gbagyi associations in Abuja, Minna and Suleja, dramatising migration, Fulani jihad displacements and loss of land to the federal capital.
 
 ## Festivals & rituals
 
-The Gbagyi ritual year follows the agricultural cycle, with principal celebrations at harvest and chieftaincy installation, and life-cycle rites anchored in funerals.
+There is no single pan-Gbagyi annual festival; the calendar is local and agricultural, keyed to communal hoeing and harvest, with Gbagyi Day now the main public occasion.
 
-- **Funeral rites** — The most elaborate Gbagyi ceremony, extending over days for a senior person, with drum ensembles, knunu appearances and mass singing.
-- **Harvest celebration** — Post-harvest thanksgiving with drumming, masquerade, wrestling and communal beer, marking the closing of the farming year.
-- **Earth and ancestral veneration** (*Maigiro*) — Offerings at rock shrines, groves and hearthstones directed to the earth and to lineage ancestors, mediated by lineage heads and the smith.
-- **Chieftaincy installation** — Investiture of the Etsu or local titleholder with regalia, horn calls and processional drumming.
-- **Initiation into adulthood** — Age-grade transition involving seclusion, instruction in obligations, and historically the cutting of identifying facial marks.
+- **Communal hoeing and harvest thanksgiving** — Keyed to the single rainy season, with first rains beginning hoeing and the end of guinea-corn and yam cycles marking harvest, now largely absorbed into church services.
+- **Chieftaincy installation of the Osu** (*Osu*) — The largest political ritual, with the assembly of the council of elders charged with keeping peace in the land.
+- **Gbagyi Day cultural festivals** — Since the 1990s, festivals organized by Gbagyi development associations in Abuja, Minna and Kwali, combining knunu dancing, pottery display and political assertion of indigenous land ownership.
+- **Naming ceremony** — Performed on the seventh or eighth day, with the child presented to the compound's elders.
+- **Second-burial celebration** — A later ceremony for an elder with drumming, dancing and giya beer poured from tulu pots, distinguished from immediate burial.
 
 ## Foodways
 
-Gbagyi cooking rests on savanna staples of guinea corn, millet, maize, yam and rice, transformed into stiff porridges and fermented gruels eaten with vegetable soups.
+Staples are guinea corn, millet, maize, yam and cassava, with a daily stiff porridge eaten with soups of okra, baobab leaf and groundnut seasoned with locust-bean condiment.
 
-- **Stiff porridge** — Guinea-corn, millet or maize flour stirred into a firm mass and eaten by hand with soup, the everyday centre of the diet.
-- **Locust bean condiment** — Fermented Parkia seeds pressed into dark pungent cakes, the principal flavouring of soups and stews.
-- **Fermented gruel** — Thin soured grain gruel drunk in the morning and carried to the farm, sweetened or taken with a savoury relish.
-- **Leaf and seed soups** — Soups thickened with baobab leaf, melon seed or okra, with dried fish, bushmeat or beef where available.
-- **Grain beer** — Sorghum or millet beer brewed in large earthen jars for funerals, harvest and work parties.
+- **Tuwo** — A stiff porridge of pounded grain or cassava flour, turned in a pot and eaten with soup of okra, baobab leaf, groundnut or bitterleaf, seasoned with locust-bean condiment and palm oil.
+- **Giya** — Sorghum or millet beer brewed by women, kept in tulu pots, drunk from calabash dippers at marriages, second burials and installations, and poured as libation to the deities.
+- **Fermented gruel** — A thin fermented gruel of sorghum or millet, the morning food.
+- **Roasted yam** — Yam with palm oil and pepper, the field meal.
+- **Ceremonial meat** — Bush meat, guinea fowl, goat and river fish enter the pot at ceremonies.
 
 ## Oral tradition & literature
 
-Gbagyi verbal art comprises migration narratives, praise and lament song, proverb, riddle and animal tale, with raiding and displacement as recurring themes.
+Gbagyi folktale telling is an evening compound-yard genre in which an adult or senior child narrates while the audience sings the story's refrain.
 
-- **Migration and origin narratives** — Stories of the flight to hills, loss of farmland and endurance under pressure, central to Gbagyi identity.
-- **Proverbs** — Traditional sayings concerning the shoulder-borne load and the patient ox, widely quoted as self-characterisation.
-- **Praise and lament song** — Verbal art performed at funerals and celebrations, honoring individuals and lamenting loss.
+- **Folktale performance** — Evening genre in the compound yard after the meal, with the audience singing the story's refrain as structural hinges of the tale.
+- **Trickster animal cycles** — A major component of the folktale repertoire.
+- **Kinship and hospitality tales** — Tales explaining kinship obligation and hospitality, with moral consequences of refusing a guest.
+- **Proverb use** — Dense in elders' speech and in dispute settlement before the compound head and the Osu's council.
 
 ## Language & religion
 
-Gbagyi and Gbari are tonal Nupoid languages quite distinct from Hausa, with Christianity and Islam overlaying an older veneration of earth and ancestors.
+Gbagyi/Gbari belongs to Niger-Congo, placed in the Nupoid group with affinity to Nupe, with majority Christian belief centered on Shekwoyi and lesser deities like Maigiro.
 
-- **Gbagyi language** — A tonal Nupoid language of the Benue-Congo family, related to Nupe, Gade and Ebira rather than Hausa.
-- **Earth and ancestral veneration** (*Maigiro*) — Veneration of granite outcrops, groves and lineage ancestors, with the blacksmith and lineage head as ritual intermediaries.
+- **Gbagyi/Gbari language** — Niger-Congo language placed in the Nupoid group, with two principal dialects, Gbari (Gwari yamma) and Gbagyi, with recognized affinity to Nupe and no indigenous script.
+- **Shekwoyi** — Supreme traditional deity, 'one who was there before our ancestors,' approached above lesser deities.
+- **Maigiro** — A lesser traditional deity receiving appeasement offerings of beer and fowl.
+- **Zuma Rock** — An ancestral spiritual landmark remaining significant in traditional belief.
+- **Reincarnation belief** — Widely held throughout Gbagyi communities, with children read for the return of named ancestors.
 
 ## Glossary
 
-- *zana* — grass screen or woven grass panel
-- *knunu* — masked dance or dance regalia
-- *goge* — single-string bowed fiddle
-- *kundu* — principal Gbagyi drum
-- *randa* — large storage jar
-- *tulu* — water-carrying pot
-- *Maigiro* — earth and ancestral veneration
-- *Etsu* — local titleholder or chief
-- *Kwali* — pottery from Kwali village
-- *Ushafa* — pottery from Ushafa village
-- *Gbagyi* — self-designation of the people and their language
-- *Gwari* — exonym for Gbagyi, historically used and now rejected
-- *Nupoid* — language group including Gbagyi, Nupe, Ebira and Gade
-- *inselberg* — steep granite hill rising from plains
-- *Parkia* — locust bean tree
-- *conical thatch* — steep cone-shaped roof of poles and grass
-- *cicatrization* — intentional scarring for identification
+- *yan bula* — indigo resist cloth in regional trade parlance
+- *Mizhin Gbagyizanu* — we are Gbagyi people (ethnic-identity print cloth)
+- *zana* — tall guinea grass bound in parallel rows, used for fencing and screens
+- *gida* — Gbagyi compound; a cluster of round mud-walled huts
+- *randa* — large water and ceremonial beer pot, 20–30 gallons
+- *tulu* — long-necked pot reserved strictly for giya beer
+- *kasko* — open utility pot for water, oil, cooking, serving and grain storage
+- *knunu* — signature line and circle dance with stamping feet and brass anklets
+- *kundu* — hourglass or goblet drum played with hands, carried on shoulder strap
+- *goge* — single- or two-string bowed lute with gourd body
+- *kwarya* — inverted-calabash percussion accompanying goge
+- *Osu* — Gbagyi chief or ruler
+- *giya* — sorghum or millet beer brewed by women, ceremonial drink
+- *tuwo* — stiff porridge of pounded grain or cassava flour
+- *Shekwoyi* — supreme traditional deity, 'one who was there before our ancestors'
+- *Maigiro* — lesser traditional deity receiving appeasement offerings
+- *Gwari yamma* — Gbari dialect of Gbagyi/Gbari language
 
 ## Sources & further reading
 
-- Wikipedia: "Gbagyi people"; "Gbagyi language"; "Ladi Kwali"; "Abuja Pottery" / "Michael Cardew"; "Nupoid languages"
-- Michael Cardew, *Pioneer Pottery* (1969) — the Abuja Pottery Training Centre and its Gbagyi potters
-- Sylvester Okwunodu Ogbechie and other scholarship on Ladi Kwali and modern Nigerian ceramics
-- Nigel Barley, *Smashing Pots: Feats of Clay from Africa* (1994) — West African hand-built pottery technique and decoration
-- Colonial-era Northern Nigeria provincial gazetteers and ethnographic reports on the "Gwari" (Niger and Zaria Provinces)
-- Roger Blench, comparative work on Nupoid and Middle Belt languages and ethnography
-- Gbagyi cultural-association publications and Nigerian university theses on Gbagyi history, displacement in the Federal Capital Territory, and *knunu* performance
-- UNESCO Intangible Cultural Heritage lists — no Gbagyi-specific element is inscribed; Nigerian inscriptions cover other traditions (e.g. Ifa divination, Ijele masquerade, Sango festival)
+- Joseph Shekwo, Understanding Gbagyi Folktales: Premises for Targeting Salient Electronic Mass Media Programs (PhD thesis, Northwestern University, 1984)
+- Elias Rosendall, Aspects of Gbari Grammar (MA thesis, University of Texas at Arlington, 1998)
+- Michael Cardew, Pioneer Pottery (Longmans, 1969) — the Abuja Pottery Training Centre from the inside; Cardew founded the PTC in 1952 under Edward Harland Duckworth's programme to make Nigerian ware a match for Japanese and Czechoslovak production
+- Tanya Harrod, The Last Sane Man: Michael Cardew — Modern Pots, Colonialism and the Counterculture (Yale University Press, 2012) — on Abuja, Ladi Kwali (first female student, 1954; graduate 1959; then staff) and Magdalene Odundo (1974)
+- Theophilus Tanko Chigudu on Gbagyi identity, settlement and displacement
+- Sylvester Ogbechie and the literature on Ladi Kwali as the canonical modern African potter
+- https://en.wikipedia.org/wiki/Gbagyi_people
+- UNESCO Intangible Cultural Heritage — Nigeria has no inscriptions relevant to this group: https://ich.unesco.org/en/state/nigeria-NG
+- https://folkways.si.edu/search?query=Nigeria
+- Victoria and Albert Museum, Ladi Kwali and Abuja pottery: https://collections.vam.ac.uk/search/?q=Ladi%20Kwali
+- The Metropolitan Museum of Art, Nigerian ceramics: https://www.metmuseum.org/art/collection/search?q=Nigeria%20pottery
+- British Museum, Gwari/Gbagyi ethnographic collections: https://www.britishmuseum.org/collection/search?keyword=Gwari
 

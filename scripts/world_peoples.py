@@ -544,7 +544,8 @@ _CATS = ["textile", "garment", "jewelry", "ceramic", "metalwork", "arms", "masks
 _KIND_FIX = [
     (re.compile(r"divination|charm|amulet|ceremonial staff|religious/ritual|shrine|fetish", re.I), "masks-ritual"),
     (re.compile(r"adinkra|stamp|stencil|^pattern", re.I), "textile"),
-    (re.compile(r"model building|model house|house-post", re.I), "architectural"),
+    (re.compile(r"model building|model house|miniature", re.I), "sculpture"),   # a model is not a building
+    (re.compile(r"house-post", re.I), "architectural"),
     (re.compile(r"mancala|doll|toy|walking-stick|game", re.I), "household"),
 ]
 

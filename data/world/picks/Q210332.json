@@ -176,36 +176,6 @@
    },
    {
     "source": "bm",
-    "id": "E_Am1902-0526-1-a-b",
-    "name": "model building/structure; tomb",
-    "kind": "tomb model",
-    "title": "model building/structure; tomb",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_7/f28ad173_9088_4554_b202_a3c5007ac711/preview_00921388_001.jpg",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "This is a model of a Haida mortuary box/tomb on pillars, carved and painted with a classic Haida formline crest design (bear face with characteristic ovoid eyes and formline elements) — a recognized Haida architectural/funerary form.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1898-1020-1-a-d",
-    "name": "model building/structure; totem-pole; model",
-    "kind": "totem pole",
-    "title": "model building/structure; totem-pole; model",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_6/49da2b0a_98fe_4fbb_bd6b_a3b70066a348/preview_00030868_001.jpg",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a carved and painted model of a traditional Haida-style plank house with a totem pole depicting crest figures (raven, bear, killer whale, frog), consistent with Northwest Coast Haida architectural and carving traditions.",
-    "featured": true
-   },
-   {
-    "source": "bm",
     "id": "EA_Am-B44-25",
     "name": "print",
     "kind": "print",
@@ -232,21 +202,6 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The photograph shows a monumental wooden Haida tomb structure (a mortuary post/gateway with painted crest panel) at Masset, a documented Haida village, consistent with Haida mortuary architecture traditions.",
-    "featured": false
-   },
-   {
-    "source": "bm",
-    "id": "EA_Am-B44-2",
-    "name": "print",
-    "kind": "print",
-    "title": "print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/352baa2c_c983_446f_9368_a3c1014516e4/preview_00696093_001.jpg",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image is a printed postcard-style reproduction showing a Haida totem pole and model gabled longhouse, with explanatory text about crest symbolism and house construction — a documentary depiction of genuine Haida material culture (architecture and totem carving).",
     "featured": false
    }
   ],
@@ -839,6 +794,36 @@
     "confidence": "MEDIUM",
     "reason": "A carved wooden totemic figure with painted formline-style face (large ovoid eyes, painted brow shapes) mounted on a shaft, consistent with Northwest Coast/Haida-style carved figures used in ritual or crest contexts.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1902-0526-1-a-b",
+    "name": "model building/structure; tomb",
+    "kind": "tomb model",
+    "title": "model building/structure; tomb",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_7/f28ad173_9088_4554_b202_a3c5007ac711/preview_00921388_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a model of a Haida mortuary box/tomb on pillars, carved and painted with a classic Haida formline crest design (bear face with characteristic ovoid eyes and formline elements) — a recognized Haida architectural/funerary form.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1898-1020-1-a-d",
+    "name": "model building/structure; totem-pole; model",
+    "kind": "totem pole",
+    "title": "model building/structure; totem-pole; model",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_6/49da2b0a_98fe_4fbb_bd6b_a3b70066a348/preview_00030868_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved and painted model of a traditional Haida-style plank house with a totem pole depicting crest figures (raven, bear, killer whale, frog), consistent with Northwest Coast Haida architectural and carving traditions.",
+    "featured": true
    }
   ],
   "arms": [
@@ -1160,6 +1145,21 @@
     "confidence": "MEDIUM",
     "reason": "The photograph documents a carved wooden rattle in a bear/animal form with characteristic Northwest Coast formline carving, consistent with Haida ceremonial art; it is a documentary studio photo of the object rather than of people, but still depicts something the culture made.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B44-2",
+    "name": "print",
+    "kind": "print",
+    "title": "print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/352baa2c_c983_446f_9368_a3c1014516e4/preview_00696093_001.jpg",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image is a printed postcard-style reproduction showing a Haida totem pole and model gabled longhouse, with explanatory text about crest symbolism and house construction — a documentary depiction of genuine Haida material culture (architecture and totem carving).",
+    "featured": false
    }
   ],
   "textile": [

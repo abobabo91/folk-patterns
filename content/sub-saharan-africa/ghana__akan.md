@@ -8,155 +8,172 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Akan, a Kwa-speaking people of the West African forest belt |
-| Where | Southern and central Ghana, south-eastern Côte d'Ivoire, with diaspora communities in Europe and North America |
-| How many | About 20–25 million, roughly half living in Ghana |
-| Language | Akan (Twi–Fante), a Central Tano language |
-| Religion | Predominantly Christian, with a living substratum of Akan religion centered on Nyame and the abosom |
-| Known for | Kente strip-weaving cloth · Adinkra stamped cloth with proverb symbols · Lost-wax gold casting and goldweights · The Golden Stool and stool-based chieftaincy · Ananse trickster tales |
+| Who | The Akan, a Kwa-speaking people of West Africa |
+| Where | Southern and central Ghana, and adjacent southeast Côte d'Ivoire |
+| How many | Roughly 20 million |
+| Language | Akan (Asante Twi, Akuapem Twi, Fante dialects) |
+| Religion | Largely Christian with Muslim minority, overlaying indigenous cosmology centered on sky-god Nyame |
+| Known for | Kente cloth woven in narrow strips with named designs and proverbs · Adinkra stamped cloth with symbolic motifs for funerals and celebrations · Gold-weight sculpture cast in geometric and figurative forms · Talking drums that reproduce Twi speech patterns · Ananse spider trickster stories and proverb tradition |
 
 ## Overview
 
-The Akan are a cluster of closely related peoples unified by a shared language continuum, matrilineal descent system, and political grammar of stools and paramount chiefs. Their history centers on gold and the forest, from early states like Bono Manso through the seventeenth-century consolidation of Denkyira and Akwamu, to the Asante confederacy rising from 1701 under Osei Tutu. Akan material culture—kente cloth, adinkra stamps, cast brass weights and vessels, carved stools—carries meanings that are proverbial and political rather than merely decorative.
+The Akan are a matrilineal people of the forest belt of Ghana, comprising subgroups like Asante, Fante, and Akyem who share systems of descent and chiefly rule. They are densely documented in folk-culture study for their distinctive material arts: kente cloth with named designs, adinkra stamped cloth, cast-gold ornaments, and terracotta funerary sculpture. Their culture centers on chiefly courts, ancestral stools, and a rich oral tradition of proverbs and stories performed through multiple genres—drumming, dance, song, and oratory.
 
 ## Material culture
 
-Akan material culture is organized around chieftaincy and gold, with the most valued objects being regalia displayed on a chief's body or carried in procession.
+Akan material culture is layered with meaning: every named cloth, gold-weight, stool, and staff carries a proverb or statement about power, beauty, kinship, and the spirit world.
 
 ### Textile & pattern traditions
 
-Kente and adinkra are complementary Akan textiles, both encoding named designs that express proverbs, history, or moral statements.
+Kente and adinkra cloth are the signature Akan textiles, each woven or stamped with named designs and symbolic motifs.
 
-- **Kente** (*nwentoma*) — Narrow strips of about 10 cm woven on a double-heddle loom and sewn edge to edge into a large wrapper, with named patterns that run into the hundreds and are historically rank-restricted.
-- **Adweneasa** — The most prestigious kente class meaning 'my skill is exhausted', where every weft block carries a different design so no square repeats across the whole cloth, historically reserved for royalty.
-- **Asasia** — A rare royal kente woven in twill on a loom with additional heddles producing a diagonal ground, traditionally the Asantehene's exclusive prerogative and the most technically demanding weave.
-- **Adinkra** — Cotton cloth stamped with carved calabash blocks using thick black dye from the badie tree, divided into panels with comb-drawn lines and filled with repeated glyphs, centered on Ntonso and associated with mourning.
-- **Adinkra symbols** — A corpus of several hundred glyphs each with a name and attached proverb, such as gye nyame (except for God), sankofa (a backward-turning bird), and duafe (the wooden comb).
+- **Kente cloth** (*nwentoma*) — Narrow-strip cloth woven on a men's double-heddle loom and hand-sewn edge to edge, with every named design carrying an owner and a proverb.
+- **Adweneasa** — The most demanding kente, with every weft block filled with supplementary inlay figuring, historically reserved for the Asantehene and senior chiefs.
+- **Asasia** — Royal kente woven in twill on a third heddle to produce a diagonal rib, a pattern no commoner weaver was permitted to make.
+- **Adinkra cloth** — Stamped cloth from Ntonso made by pressing calabash stamps in grids over cloth divided by comb-drawn bands, worn chiefly for funerals and thanksgiving.
+- **Sankofa motif** — The backward-looking bird symbol on adinkra cloth meaning to retrieve what was left behind.
 
 ### Clothing & dress
 
-Akan dress is fundamentally the draped rectangle, with meanings conveyed through proportion, colour choice, and the manner of wrapping.
+Men and women wear wrapped cloths in forms that signal status and occasion; color and garment type mark funerals, thanksgiving, and the life cycle.
 
-- **Men's toga wrap** (*ntoma*) — A large cloth of roughly two by three metres worn wrapped around the waist and thrown over the left shoulder, with the right shoulder lowered as a gesture of respect before a chief.
-- **Women's two- or three-piece** (*ntama ne kaba*) — A wrapper skirt worn with a fitted blouse, often with a second cloth as a shoulder wrap or for carrying an infant, and a head-tie.
-- **Mourning cloth** (*ayitoma*) — Red, russet, brown or black cloth worn to funerals, with the darkest grounds and red marking closest kin.
-- **Chiefly sandals** (*ahenema*) — Leather-soled sandals with ornamented and often gilded straps, since a chief's feet should not touch bare earth, with specific motifs serving as rank markers.
+- **Men's cloth wrap** — A single large cloth wrapped under the right arm and thrown over the left shoulder, leaving the right shoulder bare for greeting.
+- **Chief's sandals** (*ahenema*) — Sandals worn by chiefs so their feet never touch bare earth.
+- **Women's wrapper** (*ntama*) — The base garment worn by women, often paired with a second cloth over the shoulder or as a baby-carrier.
+- **Women's headtie** (*duku*) — Elaborately knotted cloth worn on the head, tied low and dark in mourning.
+- **Spokesman's staff** (*akyeamepoma*) — A gold-leafed staff carried by the ɔkyeame with a finial that is a proverb in sculpture.
 
 ### Architecture
 
-Traditional Akan building is earth architecture of wattle-and-daub walls on timber frames, organized as rooms around an open courtyard.
+Asante courtyard houses are wattle-and-daub rectangles with low-relief plasterwork, while Fante towns feature colorful multi-storey shrine-forts.
 
-- **Courtyard compound** (*adan*) — Four or more rectangular rooms set around an open rectangular courtyard, several opening as verandas, housing a matrilineal household under its senior woman and elder.
-- **Asante traditional buildings** — Ten surviving shrine houses in the Kumasi hinterland, inscribed on the UNESCO World Heritage List in 1980, whose walls carry bold low-relief arabesques and spirals in mud plaster beneath steep thatch.
-- **Shrine house** (*abosomfie*) — The typical plan of four rooms around a courtyard, with one raised and screened as the resting place of the obosom, one for drumming, one for cooking and one for storage.
-- **Posuban shrine** (*posuban*) — Elaborate multi-storey cement-and-plaster military shrines built by Fante asafo companies in coastal towns, crowded with brightly painted figurative sculpture asserting each company's history and rivalry.
+- **Asante courtyard house** (*abrono*) — A rectangle of four open-fronted rooms around a beaten-earth court with steep thatch hipped roofs and a raised platform for receiving.
+- **Reception platform** (*pato*) — A raised open platform at the front of the house for greeting visitors.
+- **Fante shrine-fort** (*posuban*) — Multi-storey concrete-and-stucco buildings belonging to asafo military companies, painted in company colors and crowded with figurative sculpture.
+- **Stool house** (*nkonguafieso*) — The shrine where blackened ancestral stools are kept and fed during rituals.
+- **Asante Traditional Buildings** — UNESCO World Heritage shrine houses around Kumasi including Besease, Asawase, Ejisu, and others, among the last surviving examples of classic Asante architecture.
 
 ### Ceramics, metalwork & everyday objects
 
-Brass and gold casting by lost-wax method is the technical summit of Akan craft, while pottery is a women's craft using hand-building.
+Cast brass, carved wood, and hand-built terracotta serve wealth, office, and the ancestor cult, each form a vessel for proverb and power.
 
-- **Goldweights** (*abrammuo*) — Thousands of small brass weights cast by lost wax to a calibrated system for weighing gold dust, in geometric and figurative forms depicting animals, tools, and proverb scenes, in use from roughly the fifteenth century.
-- **Kuduo** — Cast brass lidded vessels often with figurative lid groups and bands of engraved ornament, used to hold gold dust and beads, employed in kra soul-washing rites and sometimes buried with their owners.
-- **Golden Stool** (*sika dwa kofi*) — The Asante nation's palladium: a gold-adorned stool held never to be sat on and said to contain the nation's soul, with blackened ancestral stools kept in a stool house and fed offerings.
-- **Akua'ba** — Carved wooden figures with a large flattened disc head and ringed cylindrical neck, carried at the waist by women hoping to conceive or bear a beautiful child.
-- **Terracotta funerary heads** (*nsodie*) — Hand-modelled clay commemorative heads and half-figures made largely by women potters, placed at sacred groves near cemeteries to receive offerings for the dead.
+- **Gold-weights** (*abrammuo*) — Brass weights cast in geometric series and figurative form—shields, birds, scorpions, human scenes—that were the working currency of the gold economy.
+- **Gold-dust vessel** (*kuduo*) — Lidded cast-brass vessel holding gold dust, beads, and nkrawoo for the soul-washing rite and buried with its owner.
+- **Repoussé box** (*forowa*) — Sheet-brass box with chased register bands, used to hold shea butter.
+- **Chief's stool** (*dwa*) — Carved from a single block of osese wood with a curved seat over five pillars, a symbol of office and the seat of the chief's soul.
+- **Commemorative head** (*nsodie*) — Terracotta funerary head with scarified cheeks, ringed neck, and pursed lips, made for funerary groves.
 
 ### Jewelry & body adornment
 
-Gold is the definitive Akan adornment worked in cast, repoussé and gold-leaf-over-wood techniques, with its display directly regulated by office.
+Gold and glass beads adorn the body in forms tied to life stages and spiritual states; white clay marks purification and priestly possession.
 
-- **Soul-washer's badge** (*akrafokonmu*) — A large repoussé gold or gilt disc with radiating ornament worn on the chest by the okra attendant, among the most recognizable Akan gold forms.
-- **Gold-leaf regalia** (*abosodee*) — Carved wooden ornaments, staffs and umbrella finials sheathed in beaten gold leaf, allowing large emblematic sculpture to be carried in procession at manageable weight.
-- **Beads** (*ahene, bota*) — Glass trade beads and bodom beads worn in strands at the neck, wrist, waist and knee, with waist beads worn by women from girlhood and specific types appearing in puberty rites and funerary dress.
+- **Soul-washer's disc** (*akrafokonmu*) — Cast-gold disc worn at the throat by the king's attendants, symbolizing the washing of the soul.
+- **Waist beads** (*toma*) — Strings of bodom and aggrey beads (Venetian, Bohemian, and powder-glass) put on girls in infancy.
+- **Fertility doll** (*akua'ba*) — Wooden doll with a flat disc face, high domed forehead, and ringed neck, carried at the waist by a woman seeking conception.
+- **Amulet packet** (*nsaa*) — Protective charm packets, including Islamic-derived leather talismans brought south by Dyula traders.
+- **White clay** (*hyire*) — Body marking for purification, thanksgiving, and priestly possession.
 
 ## Music & performance
 
-Akan music is drum-centered and speech-linked, with the language's tonal system permitting instruments to reproduce utterance directly.
+Layered drum ensembles with bell and rattle timelines frame royal praise, talking speech, and dance, each ensemble with its own repertoire.
 
-- **Atumpan** — Paired talking drums, one male and one lower-pitched female, whose pitches and rhythms render Twi speech tone for tone, used to summon, announce and recite appellations.
-- **Fontomfrom** — Pair of tall carved royal drums played with curved sticks, associated with Asante court and capable of speech-surrogate praise texts.
-- **Ivory trumpets** (*ntahera, mmenson*) — Side-blown elephant-tusk horn ensembles, with the seven-horn mmenson set being a chiefly prerogative, which similarly render proverbs and praise phrases in tone.
-- **Seperewa** — Akan harp-lute with a calabash or wooden resonator and typically ten to fourteen strings, historically a court instrument accompanying praise song and today undergoing revival.
+- **Royal barrel drums** (*fontomfrom*) — A pair of huge open-ended barrel drums played with curved sticks for royal dance and war praise.
+- **Talking drums** (*atumpan*) — A tuned male and female drum pair whose slack and taut heads reproduce the tone-and-quantity pattern of Twi, allowing praise-poetry and proverbs to be drummed as speech.
+- **Harp-lute** (*seperewa*) — A 6–14 string instrument over a calabash-and-skin body, the direct forebear of Ghanaian highlife guitar picking.
+- **King's trumpets** (*mmɛnson*) — An ensemble of seven ivory or antelope-horn side-blown trumpets that speak the king's appellations.
+- **Funeral dirge** (*adwera*) — Women's poetic form sung at funerals, analyzed as the core Akan literary genre.
 
 ## Dance & theatre
 
-Akan dance is closely tied to occasion and rank, with gesture and hand signs carrying statements so that a chief dancing is understood to be speaking.
+Dance is readable as well as watched: hand positions carry sentences, and performance genres range from flirtation dances to stately court forms to martial war dances.
 
-- **Adowa** — The best-known Akan funeral and social dance danced by both sexes with small measured steps and an elaborate vocabulary of hand signs conveying proverbs and states of feeling.
-- **Kete** — A court dance suite in several named sections performed by chiefs and their retinue, more stately and restricted than adowa.
-- **Asafo companies** (*asafo*) — Fante militia companies whose parades combine drumming, dance, flag-dancing with appliqué banners and display at the posuban shrine, competitive and satirical in register.
-- **Concert party** — A twentieth-century Ghanaian travelling popular theatre of comic sketches, cross-dressed characters and highlife music, performed in Twi and Fante and carrying Ananse-style moral plotting to the commercial stage.
+- **Adowa** — The most widespread Akan dance, performed by both sexes at funerals and celebrations, with hand movements that carry utterble sentences.
+- **Chief's dance** (*fontomfrom or akantam*) — A broad and martial dance performed by the chief to the big drums, often with a sword or gun.
+- **Court dance** (*kete*) — A dance of restrained elegance performed in the chiefly court.
+- **Asafo parade** — Fante military company processions with appliqué flag scenes that insult rival companies.
+- **Ananse storytelling** (*Ananse akuamoa*) — Dramatized Ananse stories with sung interludes into which the audience breaks, the base for the twentieth-century concert-party travelling theatre.
 
 ## Festivals & rituals
 
-Akan ritual time runs on the adaduanan, a forty-two-day cycle on which principal ancestral observances and purification festivals fall.
+The Akan calendar cycles through chief's rites, life-stage ceremonies, and seasonal festivals, each structured around feeding the ancestors and lifting the ban on new harvest.
 
-- **Akwasidae and awukudae** (*adae*) — Ancestral rites closing each forty-two-day cycle, in which blackened stools are fed with mashed yam and drink, with Akwasidae at Manhyia in Kumasi being the great public durbar of the Asante calendar.
-- **Odwira** — Annual purification festival of the Akuapem and Akyem marked by a ban on yam-eating and drumming, followed by cleansing of stools and a final procession of paramount and sub-chiefs in full regalia.
-- **Aboakyir** — The Effutu deer hunt festival at Winneba in which two asafo companies compete bare-handed to capture a live antelope for presentation to the chief.
-- **Life-cycle rites** (*abadinto, bragoro*) — The eighth-day outdooring and naming at which the child receives a day-name from the day of birth, and bragoro, the girls' puberty rite involving seclusion, ritual bathing and public seating on a stool.
+- **Chief's rite** (*Akwasidae or Awukudae*) — Sunday and Wednesday rites in which the chief sits in state, ancestral stools are fed with mashed yam and sheep's blood, and drummers recite the dynastic roll.
+- **Purification festival** (*Odwira*) — Asante and Akuapem festival in September–October when the ban on new yam is lifted, shrines and stools are cleansed, and the dead are fed.
+- **Fishing festival** (*Bakatue*) — Fante festival at Elmina on the first Tuesday of July that opens the Benya lagoon fishing season.
+- **Bushbuck hunt** (*Aboakyir*) — Winneba festival on the first Saturday of May when two asafo companies catch a live bushbuck bare-handed for the god Penkye Otu.
+- **Naming ceremony** (*abadinto*) — Outdooring on the eighth day after birth, when the child is named and given water and liquor to teach truth-telling.
 
 ## Foodways
 
-Akan cooking is a forest cuisine of starchy staples pounded or boiled into a mass, eaten with a soup or stew based on palm fruit, groundnut or garden-egg.
+Starch is the meal and soup is the accompaniment; fufu of pounded cassava and plantain is the Akan dish, swallowed with groundnut, palm-nut, or leaf soups.
 
-- **Fufu** (*fufuo*) — Cassava and plantain, or cocoyam, boiled and pounded to a smooth elastic mass, served in soup and regarded as the definitive Akan meal.
-- **Palm nut and groundnut soups** (*abenkwan, nkatenkwan*) — Abenkwan is palm fruit pulped into an orange soup, and nkatenkwan is groundnut paste soup, both typically with smoked fish, snails, goat or bushmeat.
-- **Kenkey and banku** (*dokono, banku*) — Fermented maize dough steamed in plantain leaves as dokono or cooked stirred as banku, eaten with fried fish and ground pepper.
-- **Palm wine and akpeteshie** (*nsafufuo, akpeteshie*) — Tapped palm sap drunk fresh or fermented, and the distilled spirit akpeteshie, both poured as libation to ancestors before formal gatherings.
+- **Fufu** — Cassava and plantain boiled and pounded together in a wooden mortar to a smooth elastic ball, swallowed in pinched pieces with soup.
+- **Palm-nut soup** (*abenkwan*) — Soup made from the pounded pericarp of the oil palm, a common accompaniment to fufu.
+- **Ritual yam dish** (*ɛtɔ*) — Mashed yam or plantain with palm oil and egg, given at outdoorings, puberty rites, and offered on ancestral stools.
+- **Fermented maize dough** (*kenkey or dokono*) — Boiled dough eaten with pepper and fried fish, particularly on the coast.
+- **Palm wine** (*nsafufuo*) — Poured as libation before any drinking, and distilled into akpeteshie; the word nsa (drink) also means bride-price.
 
 ## Oral tradition & literature
 
-The Akan oral canon is organized around the proverb, which connects speech, cloth, gold and drum, functioning as a visible literature.
+Ananse spider stories told at night with call-and-response openings and sung interludes anchor a narrative world; proverbs govern high oratory and are carried on material objects.
 
-- **Ananse stories** (*Anansesem*) — Spider stories about Kwaku Ananse, a trickster whose greed and cleverness explain origins of things, the cycle travelling with the Atlantic slave trade to survive as Anansi in the Caribbean.
-- **Linguist's role** (*okyeame*) — The spokesperson holds a gold-leafed staff and re-delivers a chief's words in heightened, proverb-laden form, making formal speech a specialist art.
-- **Riddles** (*aboadwe*) — Traditional riddle form that forms part of the formal oral repertoire alongside proverbs and dirges.
-- **Day-names and praise-names** (*Kwame, Akosua, mmerane*) — Personal names deriving from the day of birth and accompanying praise-names that carry an individual's character and lineage.
+- **Ananse stories** (*Anansesɛm*) — Spider trickster tales of the small greedy clever spider who steals the world's wisdom and explains natural phenomena, told with call-and-response and sung interludes.
+- **Proverb** (*ɛbɛ*) — The higher register of oratory, governing chiefly speech and carried on staff finials, gold-weights, stools, and adinkra stamps.
+- **Praise-poetry** (*apae*) — Drummed and declaimed poetry reciting the king's ancestry and the roll of the stool.
+- **Women's song** (*nnwonkorɔ*) — Polyphonic entertainment songs with commentary on marriage and morals.
+- **Hunters' song** (*abofoo*) — Songs sung by hunters, part of the Akan vocal tradition.
 
 ## Language & religion
 
-Akan is a Central Tano language, tonal and shaped by verbal serialization, while Akan religion remains a functioning cosmology of Nyame, the abosom and the nsamanfo ancestors.
+Akan is a Tano language of the Kwa branch, written with marked tone; religion is now largely Christian but overlays an intact indigenous cosmology centered on Nyame the sky-god and served by ancestors in blackened stools.
 
-- **Nyame** — The remote creator approached indirectly, also known as Onyankopon and Odomankoma, to whom the okra or soul is bound.
-- **Abosom** — Lesser deities many associated with rivers such as Tano and Bosomtwe, served by akomfo priests through possession dance and divination.
-- **Ancestors** (*nsamanfo*) — The immediate object of ritual attention, fed at every Adae through the blackened stools.
-- **Soul composition** (*okra, sunsum, mogya, ntoro*) — The person comprises okra (soul bound to a day), sunsum (personality), mogya (blood inherited maternally), and ntoro (transmitted from the father).
-- **Good lineage** (*abusua pa*) — The moral ideal naming the reputation a matriclan holds and defends, one of the concepts adinkra cloth is used to assert.
+- **Asante Twi dialect** (*Asante Twi*) — One of the chief literary dialects of Akan, a lingua franca for 20 million speakers.
+- **Bible dialect** (*Akuapem Twi*) — The dialect used in the Akan Bible translation.
+- **Sky-god** (*Nyame or Onyankopɔn*) — The supreme deity of the Akan cosmology, invoked in proverbs and oaths.
+- **Ancestral soul in stool** (*nsamanfo*) — Ancestors who reside in blackened stools and are fed and consulted in ritual.
+- **Soul** (*ɔkra*) — The spiritual essence of a person, washed in the akrafokonmu rite to purify it after death.
 
 ## Glossary
 
-- *nwentoma* — Kente cloth, woven from narrow strips
-- *adinkra* — Stamped cotton cloth with proverb glyphs
-- *sika dwa kofi* — The Golden Stool, Asante nation's palladium
-- *abosom* — Lesser deities served through possession and divination
-- *nsamanfo* — Ancestors, immediate object of ritual attention
-- *okra* — The soul bound to a day and to Nyame
-- *sunsum* — Personality or spirit of a person
-- *mogya* — Blood inherited from the mother, basis of matrilineal descent
-- *abusua* — Matrilineal clan or lineage
-- *adaduanan* — Forty-two-day cycle on which principal observances fall
-- *atumpan* — Paired talking drums that render speech in tone
-- *asafo* — Fante militia companies and their ceremonial parades
-- *posuban* — Elaborate shrine built by asafo companies in coastal towns
-- *abrammuo* — Small brass weights for measuring gold dust
-- *kuduo* — Cast brass lidded vessel for holding valuables
-- *akua'ba* — Wooden fertility figure carried by women desiring conception
-- *nsodie* — Terracotta funerary heads placed at cemeteries
-- *akrafokonmu* — Gold disc worn by soul-washer attendant to the chief
-- *Anansesem* — Spider stories about the trickster Ananse
-- *okyeame* — Linguist or spokesperson of the chief
-- *abusua pa* — The moral ideal of good lineage and reputation
+- *nwentoma* — Kente cloth
+- *adinkra* — Stamped cloth used for funerals and thanksgiving
+- *hyire* — White clay used for marking purification
+- *ntama* — Wrapper cloth worn by women
+- *duku* — Headtie
+- *abrono* — Asante courtyard house
+- *pato* — Raised reception platform
+- *posuban* — Fante multi-storey shrine-fort
+- *abrammuo* — Brass gold-weights
+- *kuduo* — Lidded brass vessel for gold dust
+- *dwa* — Carved wooden stool
+- *nsodie* — Terracotta commemorative head
+- *akrafokonmu* — Cast-gold soul-washer's disc
+- *toma* — Waist beads
+- *akua'ba* — Wooden fertility doll
+- *fontomfrom* — Royal barrel drums and dance
+- *atumpan* — Talking drums that reproduce speech
+- *seperewa* — Harp-lute
+- *adwera* — Funeral dirge, women's poetic form
+- *adowa* — Most widespread Akan dance
+- *Anansesɛm* — Ananse trickster stories
+- *ɛbɛ* — Proverb
+- *apae* — Praise-poetry of the stool
+- *nsamanfo* — Ancestors resident in blackened stools
+- *ɔkra* — Soul or spiritual essence
 
 ## Sources & further reading
 
-- Wikipedia: Akan people, Ashanti Empire, Kente, Adinkra, Akan goldweights, Akua'ba, Golden Stool, Anansi, Akan religion, Akan language.
-- UNESCO World Heritage List: Asante Traditional Buildings (Ghana, inscribed 1980) — the ten surviving shrine houses near Kumasi.
-- UNESCO Memory of the World / ICH context: Ghana's Kente weaving and Adinkra have been the subject of national safeguarding and geographical-indication initiatives; check the current ICH register before citing a specific inscription.
-- R. S. Rattray, Ashanti (1923), Religion and Art in Ashanti (1927) and Akan-Ashanti Folk-Tales (1930) — the foundational colonial-era ethnographies, with reservations about their framing.
-- Timothy F. Garrard, Akan Weights and the Gold Trade (1980) — the standard study of goldweights and the kuduo.
-- Doran H. Ross (ed.), Wrapped in Pride: Ghanaian Kente and African American Identity (1998) — weaving technique, pattern names and diaspora reception.
-- Herbert M. Cole & Doran H. Ross, The Arts of Ghana (1977) — the standard survey of regalia, stools, terracottas and posuban.
-- J. H. Kwabena Nketia, The Music of Africa (1974) and Drumming in Akan Communities of Ghana (1963) — speech-surrogate drumming and court ensembles.
-- Kwasi Wiredu, Cultural Universals and Particulars (1996) and Kwame Gyekye, An Essay on African Philosophical Thought: The Akan Conceptual Scheme (1987) — Akan personhood, okra/sunsum, and proverb as philosophy.
+- R. S. Rattray, Religion and Art in Ashanti, Oxford University Press, 1927
+- Doran H. Ross, Wrapped in Pride: Ghanaian Kente and African American Identity, UCLA Fowler Museum, 1998
+- J. H. Kwabena Nketia, Funeral Dirges of the Akan People, Achimota, 1955; and Drumming in Akan Communities of Ghana, Nelson, 1963
+- Timothy F. Garrard, Akan Weights and the Gold Trade, Longman, 1980
+- Malcolm D. McLeod, The Asante, British Museum Publications, 1981
+- Peter and Ama Shinnie, Early Asante (archaeological reports, 1995); Dennis M. Warren and David Tait on Bono oral tradition and the critique of Meyerowitz
+- Kwesi Yankah, Speaking for the Chief: Ɔkyeame and the Politics of Akan Royal Oratory, Indiana University Press, 1995
+- https://en.wikipedia.org/wiki/Akan_people
+- UNESCO World Heritage: Asante Traditional Buildings — https://whc.unesco.org/en/list/35
+- https://folkways.si.edu/search?query=Ghana+Akan
+- British Museum Akan collections — https://www.britishmuseum.org/collection
+- Metropolitan Museum — https://www.metmuseum.org/art/collection
+- V&A — https://collections.vam.ac.uk
 

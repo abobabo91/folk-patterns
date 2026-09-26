@@ -212,9 +212,15 @@ def _writeup_and_index(args) -> None:
     if args.skip_writeup:
         print("[skip] writeup skipped by flag")
     else:
+        # Grounded: Wikipedia + UNESCO ICH sidecar first, then the writeup from it.
+        # generate_writeup.py (no grounding) got the Tiv population wrong (5-7 m vs 8 m+).
         _run(
-            [sys.executable, str(ROOT / "scripts" / "generate_writeup.py"), args.name],
-            f"[5/6] Generating writeup for {args.name}",
+            [sys.executable, str(ROOT / "scripts" / "enrich_media.py"), args.region, "--only", args.name],
+            f"[5/6] Fetching Wikipedia / UNESCO grounding for {args.name}",
+        )
+        _run(
+            [sys.executable, str(ROOT / "scripts" / "generate_writeups.py"), args.region, "--only", args.name],
+            f"[5/6] Generating grounded writeup for {args.name}",
         )
         _run(
             [sys.executable, str(ROOT / "scripts" / "restructure_writeups.py"), "--only", args.name],

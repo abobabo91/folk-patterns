@@ -8,157 +8,163 @@ tags: [ethnography, east-asia]
 ## At a glance
 | | |
 |---|---|
-| Who | The Ainu, an Indigenous people of northern Japan |
-| Where | Hokkaido; historically also Sakhalin and the Kuril Islands |
-| How many | 13,000–25,000 self-identifying in Japan; estimates suggest far more with Ainu ancestry |
-| Language | Ainu, a language isolate with no known relatives, now critically endangered |
-| Religion | Animism centred on kamuy spirits, alongside Buddhism and Shinto |
-| Known for | elm-bark robes with bold appliqué and embroidery · tonkori zither · upopo round songs · bear-sending ceremony · yukar epic recitation |
+| Who | The Ainu are the indigenous people of northern Japan and the Sea of Okhotsk region |
+| Where | Hokkaido, southern Sakhalin, the Kuril Islands, and formerly northern Honshu |
+| How many | About 11,450 official respondents in Hokkaido; estimates of 200,000 or higher in Japan including unaware descendants; about 300 in Russia |
+| Language | Ainu, a language isolate with no living native speakers in Hokkaido; Sakhalin and Kuril Ainu are extinct |
+| Religion | Spirit-beings called kamuy inhabit animals, tools, fire and place, mediated through inaw prayer-sticks |
+| Known for | Elm-bast appliqué robes with curvilinear patterns · Bear-sending ceremony (iomante) · Circular participatory dance (rimse) · Heroic epics (yukar) and god-songs (kamuy yukar) · Carved wooden objects like prayer-sticks and gift-knives |
 
 ## Overview
 
-The Ainu are the Indigenous people of Hokkaido, speaking a language isolate now nearly extinct with only a handful of fluent first-language speakers. They developed from earlier northern populations into a distinct trading and hunting society by the thirteenth century, moving marine mammal products, eagle feathers and dried salmon across the region. Japanese conquest came in stages: Shakushain's revolt was crushed in 1669, the Tokugawa system turned hunters into forced labour, and the Meiji state's 1899 Protection Act banned their fishing, hunting and language. Japan only recognised them as Indigenous in 2008.
+The Ainu are the indigenous people of Hokkaido and the surrounding northern regions, with a material culture that blends Jōmon-period traditions, northern Okhotsk elements, and reworked trade goods from Manchuria, Qing China, and Japan. Though official records count only about 11,450 speakers, estimates suggest 200,000 people of Ainu descent, many unaware of their heritage due to Japanese assimilation policies. Their distinctive practices—elaborate textiles, ritual bear ceremonies, oral epics, and participatory dances—were protected as important folk culture only after decades of suppression under Meiji law.
 
 ## Material culture
 
-Ainu material culture centres on the forest and river, using elm and willow bark for cloth and cordage, and decorating objects with curvilinear swirls and barbed thorns.
+Ainu material culture centers on elm-bast cloth, carved wood, and reworked trade goods, with textiles bearing apotropaic spiral and thorn patterns placed to guard ritual openings.
 
 ### Textile & pattern traditions
 
-The core textile is elm-bark cloth woven on a backstrap loom, finished with applied cotton bands and embroidery in protective patterns at openings.
+Ainu textiles combine elm-bast cloth with cotton appliqué and embroidery in curvilinear patterns placed to ward off hostile spirits.
 
-- **Elm-bark cloth** (*attus or attush*) — Woven from retted inner bark of the Manchurian elm on a backstrap loom, producing a coarse, water-shedding fabric that forms the base of the classic Ainu robe.
-- **Appliqué-and-embroidery robe** (*ruunpe*) — Robe with cotton ground carrying broad appliquéd bands of contrasting cloth overlaid with chain and couched embroidery, associated with southern districts.
-- **White appliqué robe** (*kaparamip*) — Dark cotton robe with large cut-out panels of white cloth applied in sweeping symmetrical curves, typically worn for prestige and ceremony.
-- **Swirl motif** (*morew*) — Spiral or volute, the fundamental curvilinear unit of Ainu design, mirrored across the garment's centre line.
-- **Thorn motif** (*aiushi*) — Barred or bracketed element, read as a repelling or protective device, paired with morew.
+- **Elm-bast cloth** (*attus (attush)*) — Inner bark of elm is hand-spun without a wheel and woven on a body-tensioned backstrap loom to make stiff, water-shedding amber-brown cloth.
+- **Elaborate appliqué with overstitching** (*ruunpe*) — Broad bands of colored cotton are appliquéd onto dark cloth, then overstitched so the edges are completely enclosed, creating dense banded patterns on the torso.
+- **High-contrast white appliqué** (*kaparamip*) — Large sheets of white cotton cut into sweeping shapes and appliquéd onto dark indigo ground, the most recognizable Ainu robe type in museum collections.
+- **Embroidery-only mode** (*chijiri*) — Curvilinear designs worked directly onto cloth in chain and couched stitch with no cut-cloth appliqué, common on Hokkaido garments where trade cotton was scarce.
+- **General appliqué and embroidery class** (*chikarkarpe*) — Robes combining cut-cloth appliqué and heavy embroidery, supplied with cotton through the Matsumae trade and earlier through Qing silk tribute.
 
 ### Clothing & dress
 
-Dress is cut on a simple straight-sleeved wrapped plan for both sexes, distinguished by ornament, headbands and sashes that mark status and occasion.
+The core garment for both sexes is a long wrapped robe; women wore embroidered headbands and hand covers, while men wore ceremonial swords suspended on decorated baldrics.
 
-- **Bark-cloth robe** (*attus*) — Straight-cut wrapped robe of elm-bast cloth closed with a sash, worn by men and women alike as everyday dress.
-- **Woman's headband** (*matanpushi*) — Embroidered band worn across the forehead and tied at the back, a defining element of women's formal dress and often the first piece a girl learns to embroider.
-- **Ceremonial crown** (*sapanpe*) — Men's ritual headdress of shaved wood bound into a wreath, commonly carrying a small carved animal effigy.
-- **Women's lip and forearm tattoos** — Women were tattooed around the lips in expanding stages from girlhood to marriage, with bands on the hands and forearms; the practice was banned by the Meiji administration.
+- **Long wrapped robe** (*amip*) — A front-opening robe in elm bast or cotton, worn wrapped and sashed by both men and women.
+- **Women's embroidered headband** (*matanpushi*) — A decorated headband tied at the back with the ends hanging free.
+- **Embroidered wrist and hand covers** (*tekunpe*) — Protective coverings worn on wrists and hands.
+- **Ceremonial crown with inlay** (*sapaunpe*) — A carved wooden band mounted with shavings and a small carved animal effigy, worn by elders in the bear ceremony.
+- **Sword or ritual object** (*emush*) — Suspended across the chest on a broad decorated baldric called an emush-at, worn by men as ceremonial dress.
 
 ### Architecture
 
-Settlements were small riverside clusters of post-and-beam dwellings thatched in reed or bark, with a strictly oriented interior and an east-facing sacred window.
+The Ainu dwelling is a single-room rectangular house with a post-and-beam frame, bark-rope lashing, reed or bark thatch, and a central sunken hearth with no chimney.
 
-- **Reed-thatched house** (*chise*) — Single-room rectangular dwelling on a timber frame, thatched to the ground, with a central open hearth and an east-facing sacred window for ritual offerings.
-- **Raised storehouse** (*pu*) — Granary raised on posts, reached by a notched log, keeping dried salmon, millet and venison clear of damp and rodents.
-- **Altar row** (*nusasan*) — Row of inscribed willow prayer-sticks set outside the sacred window on the eastern side of the house, the household's principal ritual site.
-- **Bear pen** (*heper set*) — Timber cage beside the house in which a cub raised for the iyomante ceremony was kept and fed.
+- **Traditional dwelling** (*chise*) — A rectangular single-room house with lashed frame, thatched walls and gabled roof, no nails, with a sunken hearth running the long axis and smoke filtering through thatch to cure hanging fish and meat.
+- **Sacred eastern window** (*rorun-puyar*) — The east-facing window through which spirits and the bear's spirit pass, and through which ritual objects are handed, not used for human entry.
+- **Altar fence** (*nusasan*) — A fence of inaw prayer-sticks standing outside the house facing the sacred window.
+- **Raised storehouse** (*pu*) — A post-supported structure beside the chise with elevated floor, holding dried salmon, deer meat, and millet safe from ground damp and rodents.
+- **Settlement cluster** (*kotan*) — Larger settlements of a few houses with storehouses, bear cage and altar row, sited along salmon rivers and relocated as hunting and fishing grounds shift.
 
 ### Ceramics, metalwork & everyday objects
 
-Ainu potting had ceased by the Satsumon period and iron came through trade; the productive crafts are woodcarving, bark and grass plaiting, and decoration of imported blades.
+The Ainu did not make pottery; instead, identity resides in carved wooden objects like prayer-sticks and gift-knives, with cooking vessels coming by trade.
 
-- **Ceremonial sword** (*emush*) — Sword with traded iron blade in a carved wooden scabbard, worn for ritual and display rather than combat.
-- **Utility knife** (*makiri*) — Small single-edged knife in a wooden sheath carved in relief with morew and aiushi patterning; men commonly carved sheaths as courting gifts.
-- **Prayer stick** (*ikupasuy*) — Flat carved wooden stick used to flick rice wine toward the fire and gods during libation, conveying human speech to the kamuy.
-- **Inscribed offering stick** (*inaw*) — Willow or dogwood stave with attached curling shavings, planted at the nusasan as the material form of a message to a deity.
-- **Lacquer tub** (*sintoko*) — Japanese-made lidded lacquer vessel acquired by trade and used for brewing and serving millet wine at ceremonies.
+- **Prayer-stick or libation wand** (*ikupasuy*) — A flat carved stick with relief morew and aiushi patterns, used to flick sake toward kamuy during ritual, with the owner's incised mark on the underside.
+- **Sheath knife** (*makiri*) — A small knife with carved wooden hilt and scabbard in low relief, a man's gift to a woman and among the most densely ornamented Ainu objects.
+- **Imported lacquered lidded tubs** (*sintoko*) — Japanese lacquered vessels that held ceremonial sake and stood as household treasure (ikor).
+- **Bast-fiber carrying bags** (*saranip*) — Woven bags used for daily storage and transport.
 
 ### Jewelry & body adornment
 
-Ornament relies on traded glass and metal rather than local precious metal, with women's beadwork and earrings forming the principal inherited wealth.
+Women wore broad beaded necklaces and large hoop earrings; the most distinctive practice was progressive lip tattooing from girlhood to adulthood, now extinct due to Meiji prohibition.
 
-- **Bead necklace** (*tamasay*) — Long necklace of traded glass beads, commonly with a central metal disc pendant, worn by women at ceremonies and passed down through the female line.
-- **Earrings** (*ninkari*) — Metal hoops, sometimes bead-hung, historically worn by both women and men, though male wear declined under Japanese pressure.
-- **Beaded shoulder ornament** (*rekutunpe*) — Broad embroidered or bead-covered band worn at the throat and upper chest with formal dress.
+- **Broad beaded necklace** (*tamasay*) — Graduated rows of glass trade beads, many from China and Japan, with a large central metal disc (shitoki) of repurposed brass or silver, inherited and displayed at ceremonies.
+- **Large metal hoop earrings** (*ninkari*) — Worn by women and in earlier periods by men, sometimes with a bead or ball pendant, inherited as treasure-goods.
+- **Lip tattooing** — A wide dark band applied progressively around the lips from girlhood and completed before marriage, made with soot rubbed into incisions; outlawed under Meiji assimilation measures.
 
 ## Music & performance
 
-Ainu music is overwhelmingly vocal and built on short repeated cells performed in overlapping rounds, with a small instrumentarium centred on the tonkori zither.
+Two distinctive instruments anchor Ainu music: the plucked zither tonkori and the bamboo mouth-lamellaphone mukkuri, but vocal genres—round-songs, epics, and laments—are the true center.
 
-- **Round song** (*upopo*) — Seated song in which women sing a short phrase in staggered canon, commonly while striking the lid of a sintoko, producing dense layered sound.
-- **Zither** (*tonkori*) — Long narrow plucked box zither of Sakhalin origin, usually five strings, played held upright against the body with open strings sounded in fixed patterns.
-- **Mouth harp** (*mukkuri*) — Bamboo lamella idiophone sounded by jerking a cord to set the tongue vibrating, played mainly by women.
-- **Work and lullaby songs** (*yaysama, ihunke*) — Improvised personal songs of grief or longing, and a throat-modulated cradle song using rapid tongue-trilling.
+- **Plucked zither** (*tonkori*) — A long slender instrument with two to five open strings held upright against the body, played without frets to give a fixed drone-chord texture, with a bead sealed inside as its soul.
+- **Bamboo mouth-lamellaphone** (*mukkuri*) — Sounded by jerking a string to vibrate a cut tongue, played almost exclusively by women.
+- **Seated round-songs** (*upopo*) — Women singing in canon with one voice entering as the last finishes, often with a sintoko lid beaten as a drum.
+- **Long heroic epics** (*yukar*) — Recited in metrical verse, typically in the voice of hero Poiyaunpe, with a narrator beating time on the hearth edge; a single recitation could run through a night.
+- **God-songs** (*kamuy yukar*) — Epics narrated in the voice of deities like owl, fox, bear or thunder, each with its own repeated refrain-burden (sakehe).
 
 ## Dance & theatre
 
-Ainu dance is communal, mimetic and closely tied to ritual; Traditional Ainu Dance was inscribed on the UNESCO Representative List in 2009.
+Ainu dance is circular and participatory, performed by rings of dancers stepping and stamping to song, with largely mimetic and animal-derived repertoire but no masked drama or narrative theatre.
 
-- **Crane dance** (*sarorun rimse*) — Circle dance imitating the courtship of the red-crowned crane, with arms extended as wings and slow dipping steps.
-- **Sword dance** (*emush rimse*) — Men's dance with drawn emush, performed at iyomante and at the reception of guests, understood as purificatory.
-- **Bow dance** (*ku rimse*) — Men's dance using the hunting bow, mimicking the stalk and release.
-- **Hair-swinging dance** (*hetchiri, horippa*) — Women's dances in which long unbound hair is swung in arcs, and open-ring dances in which the whole kotan joins hands.
+- **Crane dance** (*sarorun rimse*) — Dancers extend their arms and trail their sleeves as wings.
+- **Bear-sending dance** (*iomante rimse*) — Performed at the bear ceremony.
+- **Bow dance** (*ku rimse*) — Part of the circular dance repertoire.
+- **Sword dance** (*emush rimse*) — Performed by men with the emush drawn.
+- **Women's hair-tossing dance** (*hararki*) — Dancers swing unbound hair in wide arcs.
 
 ## Festivals & rituals
 
-Ritual life addresses kamuy — spirits inhabiting animals, tools, fire and place — whose bodies are understood as visiting gifts that must be ceremonially returned.
+The defining ceremony is iomante, the spirit-sending, most famously the bear ceremony in which a raised cub is ritually killed in midwinter so its kamuy returns to the spirit world bearing gifts.
 
-- **Bear-sending ceremony** (*iyomante*) — The central Ainu rite in which a bear cub raised in the settlement is ritually killed, feasted and its spirit sent home laden with gifts of wine, inaw and dumplings.
-- **Owl-sending ceremony** (*kotan kor kamuy iyomante*) — Sending rite for the Blakiston's fish owl, regarded as the guardian deity of the settlement.
-- **First-salmon rite** (*ashiri chep nomi*) — Autumn ceremony welcoming the first salmon of the run with libation and prayer at the riverbank.
-- **Fire-goddess libation** (*kamuy nomi*) — Household prayer directed to the hearth goddess Ape-huchi-kamuy, the indispensable intermediary through whom all other deities are addressed.
+- **Spirit-sending ceremony** (*iomante*) — A cub taken from the den is raised in the settlement, often suckled and named, then ritually killed in midwinter so the kamuy inhabiting it can return to the spirit world bearing gifts of inaw, dried salmon and millet dumplings.
+- **Salmon-welcoming rites** (*shishirmuka / chep-nomi*) — River and salmon-welcoming rituals that open the autumn run, with the first salmon received with formal address.
+- **New-salmon festival** (*ashir-cep-nomi*) — Held publicly at Sapporo and along the Ishikari river.
+- **Household prayer rites** (*kamuy-nomi*) — Conducted at the nusasan altar fence, with sake flicked from the ikupasuy toward the east window.
+- **Throat-play pairing** (*rekutkar*) — A competitive technique in which two women breathe into one another's mouths, with parallels among Siberian and Inuit peoples, now revived from recordings.
 
 ## Foodways
 
-The diet was built on salmon, deer and wild plants, boiled or dried rather than fried, and seasoned with animal fat and kelp.
+Ainu subsistence centered on salmon, deer and gathered plants rather than rice, with catch addressed spiritually and first portions offered to the hearth fire.
 
-- **Salmon** (*chep*) — Autumn-run salmon speared with a barbed marek, then split and wind-dried for winter; its skin was also sewn into boots.
-- **Millet wine** (*tonoto*) — Millet- or rice-based brew prepared in a sintoko and offered to the kamuy before any human drinks; central to every ceremony.
-- **Boiled stew** (*ohaw*) — One-pot soup of fish or venison with wild greens, bulbs and animal fat, the everyday staple.
-- **Wild plant foods** (*pukusa, turep*) — Wild garlic gathered in spring and dried, and dogtooth-violet bulbs processed for starch, alongside lily root and fiddleheads.
+- **Dried salmon** (*satcep*) — Salmon split and wind-dried without salt, stored in the pu storehouse.
+- **Base dish of meat or fish broth** (*ohaw*) — A one-pot broth named for its content: cep-ohaw (salmon), kam-ohaw (venison), pukusa-ohaw with wild leek.
+- **Mash of wild greens** (*rataskep*) — Boiled wild greens, beans or squash bound with animal fat or fish oil.
+- **Ritual sake brewed from millet** (*tonoto*) — Offered at kamuy-nomi and poured from the sintoko.
+- **Gathered staple foods** (*pukusa / korkoni / turep*) — Wild leek (pukusa), butterbur (korkoni), lily bulbs, and dried and pounded dogtooth violet starch cakes (turep).
 
 ## Oral tradition & literature
 
-The Ainu had no indigenous writing, and their oral corpus is among the largest recorded oral literatures of East Asia, preserved largely through Ainu women collaborating with Japanese scholars.
+Ainu oral literature is extensive and recited, not written, centered on long heroic epics and god-songs narrated in deity voices, preserved chiefly through twentieth-century Ainu scholars.
 
-- **Heroic epic** (*yukar*) — Long first-person verse narrative of the culture hero Poiyaunpe, chanted in metrical lines to a beaten stick, running in some versions to thousands of lines.
-- **God-song** (*kamuy yukar*) — Shorter epic told in the first person by an animal or object deity, each marked by a refrain that punctuates the verse.
-- **Prose tale** (*uwepeker*) — Narrative told in prose rather than verse, often didactic and concerning human households.
-- **Ainu Shin'yōshū** — Collection of thirteen kamuy yukar transcribed in romanised Ainu with Japanese translation by Chiri Yukie in 1923, the foundational published text of Ainu literature by an Ainu author.
+- **Heroic epics** (*yukar*) — Long chanted narratives in metrical verse, typically first-person from the hero Poiyaunpe, performed by a narrator beating time with a stick against the hearth edge.
+- **Songs of the gods** (*kamuy yukar*) — Epics narrated in the voice of the deity—owl, fox, bear, thunder—each with its own repeated refrain-burden (sakehe) at line ends.
+- **Prose folktales** (*uwepeker*) — Traditional stories passed orally.
+- **Ancestral historical traditions** (*upaskuma*) — Historical narratives preserved in oral form.
+- **Song collection and translation** (*Ainu Shin'yōshū*) — Thirteen kamuy yukar transcribed and translated into Japanese by Chiri Yukie in 1923 before her death at nineteen.
 
 ## Language & religion
 
-Ainu is a polysynthetic language isolate now critically endangered; religion centres on kamuy, spirits treated as guests in reciprocal exchange rather than worshipped from a distance.
+Ainu is a language isolate unrelated to Japanese or northern neighbors; no native speakers remain in Hokkaido, though revitalization efforts continue. Religion centers on kamuy, spirit-beings mediated through inaw prayer-sticks.
 
-- **Ainu language** — Polysynthetic language isolate with small phoneme inventory and extensive verbal incorporation, historically spoken in Hokkaido, Sakhalin and Kuril varieties; Hokkaido Ainu is now classed as critically endangered.
-- **Kamuy spirits** (*kamuy*) — Spirits of animals, plants, tools, fire and place who visit in bodily disguise, are honoured, and are sent home with gifts so that they will return.
-- **Fire goddess** (*Ape-huchi-kamuy*) — The hearth goddess who mediates all communication with other kamuy; household members direct all prayers through her.
-- **Religious specialists** (*tusu kur*) — Female shamanic practitioners reported in some communities; ritual authority rested with household elders rather than a formal priesthood.
+- **Language isolate** (*Ainu*) — Unrelated to Japanese or Tungusic and Nivkh languages, written in Japanese katakana and the Latin alphabet; three branches are distinguished: Hokkaido, Sakhalin, and Kuril Ainu.
+- **Spirit-beings inhabiting the world** (*kamuy*) — Spirits dwelling in animals, tools, fire and place, mediated by inaw prayer-sticks whose curled shavings parallel the inau of Nivkh and Orok peoples.
+- **Hearth-fire grandmother** (*ape-huci-kamuy*) — The primary household deity.
+- **Bear, the mountain lord** (*kim-un-kamuy*) — A principal deity in Ainu belief.
+- **Anglican missionary work** — Rev. John Batchelor and Bishop Philip Fyson worked among the Ainu from the 1870s, with Batchelor's writings remaining a documentary source.
 
 ## Glossary
 
-- *morew* — Swirl or spiral motif, the fundamental unit of Ainu design
-- *aiushi* — Thorn or barbed protective motif in design
-- *ruunpe* — Robe with appliquéd bands and embroidery
-- *kaparamip* — White appliqué robe with cut-out panels
-- *matanpushi* — Woman's embroidered forehead headband
-- *sapanpe* — Men's carved wooden ceremonial crown
-- *chise* — Reed-thatched dwelling house
-- *pu* — Raised storehouse for food stores
-- *nusasan* — Row of inscribed prayer-sticks at the altar
-- *emush* — Ceremonial sword with iron blade
-- *makiri* — Utility knife with carved wooden sheath
-- *ikupasuy* — Carved prayer stick for wine libations
-- *inaw* — Inscribed offering stick planted at altar
-- *sintoko* — Lacquer tub for brewing and serving wine
-- *tamasay* — Bead necklace with metal pendant
-- *ninkari* — Metal hoops worn as earrings
-- *upopo* — Round song sung in staggered canon
-- *tonkori* — Plucked box zither with five strings
-- *mukkuri* — Bamboo mouth harp
-- *iyomante* — Bear-sending ceremonial rite
-- *kamuy* — Spirit inhabiting animals, plants, fire and place
-- *yukar* — Long heroic epic chanted to beaten rhythm
-- *kamuy yukar* — Shorter god-song told in first person by deity
-- *kotan* — Ainu settlement or village
+- *attus (attush)* — Elm-bast cloth, the signature Ainu textile
+- *amip* — Long front-opening robe worn wrapped and sashed
+- *matanpushi* — Embroidered headband worn by women
+- *tekunpe* — Embroidered wrist and hand covers
+- *emush* — Sword or ritual object suspended on a decorated baldric
+- *sapaunpe* — Carved ceremonial crown with inlay, worn by elders
+- *chise* — Traditional dwelling with post-and-beam frame and thatched roof
+- *rorun-puyar* — Sacred eastern window of the chise
+- *nusasan* — Altar fence of inaw prayer-sticks outside the house
+- *pu* — Raised storehouse beside the chise for food storage
+- *ikupasuy* — Flat carved prayer-stick or libation wand
+- *makiri* — Small carved sheath knife, a man's gift to a woman
+- *sintoko* — Imported lacquered lidded tubs for ceremonial sake
+- *tamasay* — Broad necklace of graduated glass trade beads with metal disc
+- *ninkari* — Large metal hoop earrings worn by women and men
+- *tonkori* — Plucked zither with two to five strings
+- *mukkuri* — Bamboo mouth-lamellaphone played by jerking a string
+- *upopo* — Seated round-songs sung by women in canon
+- *yukar* — Long heroic epics chanted in metrical verse
+- *kamuy yukar* — God-songs narrated in the voice of a deity
+- *rimse* — Circular participatory dance
+- *iomante* — Spirit-sending ceremony, especially the bear ceremony
+- *kamuy* — Spirit-beings inhabiting animals, tools, fire and place
+- *inaw* — Shaved willow prayer-sticks that mediate kamuy
 
 ## Sources & further reading
 
-- Wikipedia: "Ainu people", "Ainu language", "Ainu music", "Iyomante", "Attus", "Tonkori", "Chise"
-- UNESCO Intangible Cultural Heritage: Traditional Ainu Dance (Representative List, 2009)
-- UNESCO Atlas of the World's Languages in Danger — Ainu (Hokkaido) listed as critically endangered
-- Chiri Yukie, Ainu Shin'yōshū (1923) — the first Ainu-authored published collection of kamuy yukar
-- Kayano Shigeru, Our Land Was a Forest: An Ainu Memoir (English translation, 1994)
-- Donald L. Philippi, Songs of Gods, Songs of Humans: The Epic Tradition of the Ainu (1979)
-- Richard Siddle, Race, Resistance and the Ainu of Japan (1996)
-- Ann B. Irish, Hokkaido: A History of Ethnic Transition and Development on Japan's Northern Island (2009)
-- Collection catalogues: Hokkaido Museum of Northern Peoples (Abashiri), Ainu Museum / Upopoy (Shiraoi), Kushiro City Museum, British Museum and Smithsonian NMNH Ainu holdings
+- Kayano Shigeru, Our Land Was a Forest: An Ainu Memoir, Westview Press, 1994
+- Chiri Yukie, Ainu Shin'yōshū (Collection of Ainu Songs of the Gods), 1923; English translation The Song the Owl God Sang, BJS Books, 2013
+- Richard Siddle, Race, Resistance and the Ainu of Japan, Routledge, 1996
+- Donald L. Philippi, Songs of Gods, Songs of Humans: The Epic Tradition of the Ainu, University of Tokyo Press / Princeton University Press, 1979
+- Ann B. Irish, Hokkaido: A History of Ethnic Transition and Development on Japan's Northern Island, McFarland, 2009
+- Chisato (Kitty) Dubreuil and William W. Fitzhugh (eds.), Ainu: Spirit of a Northern People, Smithsonian Institution Arctic Studies Center / University of Washington Press, 1999
+- Kindaichi Kyōsuke and Kannari Matsu, Ainu jojishi Yūkara shū (collected Ainu epics)
+- John Batchelor, The Ainu and Their Folk-Lore, Religious Tract Society, 1901
 

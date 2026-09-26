@@ -8,165 +8,157 @@ tags: [ethnography, north-america]
 ## At a glance
 | | |
 |---|---|
-| Who | Haida, an Indigenous nation of the Northwest Coast |
-| Where | Haida Gwaii (British Columbia, Canada), with communities in southeast Alaska |
-| How many | roughly 4,000–5,000 people of Haida descent |
-| Language | Xaad Kil / Xaayda Kil (Haida), a language isolate |
-| Religion | traditional crest-and-spirit cosmology, widely combined with Anglican Christianity |
-| Known for | monumental red cedar poles and houses · formline design and ovoid vocabulary · argillite carving · Chilkat and raven's tail weaving · the potlatch |
+| Who | The Haida, an Indigenous people of the Pacific Northwest Coast |
+| Where | Haida Gwaii (an archipelago 80 km off northern British Columbia) and southern Prince of Wales Island in Southeast Alaska |
+| How many | Roughly 6,607 before the 1862 smallpox epidemic, which reduced the population to 829 by 1881 |
+| Language | Haida, a language isolate with no demonstrated relatives; fewer than four dozen fluent first-language speakers remain |
+| Religion | Today Anglican, Methodist, United Church, Catholic, and Bahá'í, following nineteenth-century missions; pre-colonial belief and potlatch practice persist |
+| Known for | Totem poles and bentwood boxes · The most disciplined graphic system in Northwest Coast art (formline) · Chilkat weaving (naaxiin) · Potlatch ceremonies · Transformation masks |
 
 ## Overview
 
-The Haida are an Indigenous nation whose homeland is the island archipelago of Haida Gwaii off northern British Columbia, with roots going back thousands of years. Their society is organized into two family lines, Raven and Eagle, each with its own crests, houses, and territories. By the late 1700s they were the dominant sea traders of the northern coast, but epidemics reduced their population from tens of thousands to a few hundred. Today their art, architecture, weaving and carving traditions are recognized worldwide, with the abandoned village of SGang Gwaay now a UNESCO World Heritage Site.
+The Haida are an Indigenous Pacific Northwest Coast people whose territory centers on Haida Gwaii, with archaeological evidence of habitation dating back 13,100 years. A 1862 smallpox epidemic devastated the population. They are renowned as originators of the totem pole and bentwood box, and for creating formline, the most structured design system in Northwest Coast art, applied across weavings, carvings, and tattooed skin.
 
 ## Material culture
 
-Haida material culture centers on western red cedar, shaped by a single powerful design system called formline that turns every surface into a reading of the owner's lineage and rank.
+Haida material culture centers on red cedar, which replaced ceramics and became the medium for houses, boxes, carved objects, and woven robes carrying crest designs.
 
 ### Textile & pattern traditions
 
-Haida ceremonial weaving is twined rather than woven on a loom, worked downward and capable of carrying formline design into cloth with unmatched precision.
+Haida weaving traditions carry crest images in colored wool and cedar bark using distinctive curvilinear and geometric designs.
 
-- **Chilkat weaving** (*naaxiin*) — A curvilinear twined robe of mountain goat wool on a cedar bark warp, woven from a painted pattern board and capable of true curves.
-- **Raven's tail weaving** (*yeil koowu*) — An older geometric twined robe in black-and-white bands of diagonals, chevrons and lozenges, nearly lost by the nineteenth century and revived from museum examples.
-- **Spruce root basketry** — Finely twined baskets and hats from split spruce roots, often with false-embroidery or dyed skip-stitch bands.
-- **Cedar bark work** — Inner bark pounded to softness and woven into mats, capes, aprons, rope and cradle padding, with plaited geometric patterning.
-- **Button blanket** (*gwaayGang*) — A dark wool trade blanket bordered in red flannel and outlined with pearl or abalone buttons, the crest figure rendered in appliqué.
+- **Chilkat robe** (*naaxiin*) — A fingerwoven garment of mountain-goat wool twined over yellow cedar bark that can produce free-form curves, allowing it to carry the same formline crest images a carver would cut.
+- **Raven's tail weaving** — An older geometric twining tradition in black and white, built from zigzag, diamond and chevron bands rather than crest figures, largely replaced by naaxiin by the early nineteenth century.
+- **Button blanket** — A post-contact ceremonial robe made from a Hudson's Bay wool trade blanket with a crest appliquéd in red and outlined in mother-of-pearl or shell buttons, worn at potlatch.
+- **Cedar bark hat** — A spruce root basket woven with a painted crest field and sometimes stacked cylinders at the crown indicating potlatches given, representing the highest-status form of headwear.
+- **Formline design system** (*formline*) — The underlying two-dimensional design of swelling-and-narrowing black lines enclosing red and blue-green fields, applied identically to weavings, painted house fronts, bentwood chests and tattooed skin.
 
 ### Clothing & dress
 
-Everyday dress was minimal and weatherproof for the rainforest, while ceremonial dress was among the most elaborate on the coast, assembled as a matched ensemble.
+Everyday dress was cedar-bark-based, while ceremonial dress distinguished rank through specific regalia, carved masks, and body modifications.
 
-- **Cedar bark cape and skirt** — Shredded cedar bark garments that shed rain, worn alone in mild weather and layered with fur robes in winter.
-- **Cedar bark hat** (*dajangai*) — A wide conical woven hat of spruce root or cedar bark, sometimes painted with crest designs.
-- **Frontlet headdress** (*hlgidang*) — A carved wooden forehead plaque inlaid with abalone, mounted on a crown of sea lion whiskers and ermine, holding eagle down that scatters over guests.
-- **Chilkat robe as rank dress** (*naaxiin*) — The robe worn over the shoulders by a chief or high-ranking woman, its three-panel design read as a crest by guests.
-- **Potlatch regalia** — A full ceremonial ensemble of woven or button robe, dance apron hung with puffin beaks or shells, leggings and headdress, worn only for the feast hall.
+- **Cedar-bark cape and skirt** — Everyday garments made by pounding inner red-cedar bark soft and shredding it into wearable cloth.
+- **Conical rain hat** — A cedar-bark hat designed to shed the islands' near-constant rain.
+- **Frontlet** — A small carved forehead mask inlaid with abalone and crowned with sea-lion whiskers and ermine, worn with eagle down inside the crown that scattered over guests as the dancer moved.
+- **Labret** — A lip plug of wood, bone or stone inserted through the lower lip and enlarged over a lifetime, indexing age and standing among women of rank.
+- **Dance apron** — A beaded or hide apron hung with puffin beaks or deer-hoof rattlers, worn by chiefs at potlatch with a naaxiin or button blanket and crest hat.
 
 ### Architecture
 
-Haida monumental architecture consists of the plank house and the pole, both of red cedar split with wedges, raised by invited labour and paid for at a feast.
+Haida towns were rows of monumental cedar houses facing the beach, each fronted by totem poles, with interiors excavated into stepped terraces around central hearths.
 
-- **Monumental cedar house** (*na*) — A large rectangular post-and-beam house with massive corner posts and enormous roof beams, housing several related families around a central hearth.
-- **House frontal pole** (*gyaa'aang*) — A crest pole set against or into the house front, frequently pierced at the base by an oval doorway so guests entered through the figure.
-- **Totem pole** — A freestanding or attached carved cedar column recording lineage crests and rights, commissioned publicly and validated at a potlatch.
-- **Mortuary pole** — A broad-topped pole with a cavity and painted frontal board holding the remains of a high-ranking person.
-- **SGang Gwaay village** — An abandoned southern village whose standing poles and house depressions are inscribed as a UNESCO World Heritage Site and left to return to the forest.
+- **Monumental cedar house** — A post-and-beam structure of split red cedar with massive corner posts and roof beams carrying shed or gable roofs of overlapping cedar planks.
+- **House frontal pole** (*gyaa'aang*) — A pole stood against or incorporated into the house façade, with many houses having the entrance cut through the pole itself as an oval doorway.
+- **Mortuary pole** — A broad-fronted post with a cavity at the top holding a bentwood box of remains, capped by a painted frontal board.
+- **Interior hearth terrace** — Excavated stepped rectangular pits, sometimes three or four descending terraces around a central hearth, with the chief's family quarters at the rear.
+- **SG̱ang Gwaay village** (*Ninstints*) — The great surviving village that preserves the alignment of monumental houses, poles and canoes drawn up on the beach.
 
 ### Ceramics, metalwork & everyday objects
 
-The Haida had no pottery tradition; with cedar that splits cleanly and holds water, containers were made of wood, making the household inventory a carpentry inventory.
+The Haida made no pottery; instead cedar bentwood boxes and carved wooden vessels served the functions of containers and serving pieces across all social contexts.
 
-- **Bentwood box** (*GuuGaay*) — A container made from a single cedar plank kerfed at three corners, steamed, bent square and pegged at the fourth, painted or carved with formline crests.
-- **Argillite carving** (*tlaajaang*) — Carving in soft black carbonaceous shale quarried on Graham Island, worked into pipes, platters, chests, model poles and figure groups, initially for sale to maritime traders.
-- **Dugout canoe** (*tluu*) — An ocean-going canoe hollowed from a single red cedar log with flaring sides and a vertical cutwater, in lengths from family craft to war canoes carrying dozens of people.
-- **Copper shield** (*tinaa*) — A shield-shaped beaten copper plaque that stores and displays wealth, given away, broken or cut at potlatches to assert rank.
-- **Transformation mask** — A hinged mask with an outer face that opens by concealed strings to reveal a second inner identity, staging transformations narrated in lineage stories.
+- **Bentwood box** — A single plank kerfed at three corners, steamed, bent square, and pegged at the fourth, producing a watertight container for grease, water, food, regalia or remains, often painted or carved in formline on all sides.
+- **Argillite carving** — Post-contact work in soft black shale from Slatechuck Creek near Skidegate, carved into pipes, platters, chests and model poles since about 1820, initially for trade with maritime traders.
+- **Copper shield** (*tináa*) — A shield-shaped plaque with a T-ridge cold-worked from copper, functioning as the highest denomination of potlatch wealth and ceremonially broken as an act of prestige.
+- **Feast ladle** — A carved ladle of mountain-sheep and goat horn used to serve grease and other feast foods at potlatch ceremonies.
+- **Chief's settee** — A carved bench-throne, part of the house carving economy alongside feast dishes and oil dishes.
 
 ### Jewelry & body adornment
 
-Adornment marked rank and lineage rather than personal taste, using abalone shell and, after contact, engraved silver.
+Post-contact Haida jewellery centers on engraved silver and gold bracelets worn stacked by women of rank, while pre-contact ornament included labrets, piercings and body tattooing of crests.
 
-- **Abalone inlay** — Iridescent shell set into masks, frontlets, boxes and argillite as eyes, teeth and rim edging.
-- **Labret** — A lower-lip plug of wood, bone or stone worn by high-ranking women, its size increased over a lifetime, marking noble status.
-- **Engraved silver and gold bracelets** — Bracelets hammered from coins and sheet metal and engraved with formline crests, now the most commonly worn Haida art object.
-- **Crest tattooing** — Lineage crest figures tattooed on the chest, back, arms and legs, commonly applied at a potlatch as validation of the right to the crest.
-- **Ear and nose ornaments** — Multiple pierced ear ornaments of shell and bone, their number commonly indicating the number of feasts a family had given.
+- **Engraved silver bracelet** — Hammered from coin silver and later sheet and incised with a crest in formline (Raven, Eagle, Killer Whale, Bear), worn in stacks by women of rank.
+- **Abalone inlay** — Cut from California red abalone and inset in the teeth, eyes and lip rims of masks, frontlets and rattles, and in argillite and horn objects.
+- **Crest tattoo** — Crest figures pricked into the chest, forearms, backs of hands, thighs and shins of high-ranking children at the potlatch where their names were confirmed, publishing lineage affiliation on the body.
+- **Face paint** — Red and black formline paint applied for dances and vision quests.
+- **Bone and shell pendant** — Pre-contact ornament of bone, shell and copper worn as pendants alongside ear and nose piercings.
 
 ## Music & performance
 
-Haida music is predominantly vocal and owned; songs belong to lineages and individuals, and the right to sing one is property transferred by inheritance or payment.
+Haida music is vocal and percussive, with no melodic instruments in the pre-contact repertoire; songs are owned property inherited within lineages.
 
-- **Potlatch and crest songs** — Lineage-owned songs performed to validate names, poles and crests, sung in unison with a strong percussive pulse.
-- **Raven rattle** — A carved wooden rattle in the form of a raven carrying a reclining human figure, held by chiefs in dance.
-- **Box drum** — A large bentwood box suspended and struck to give a deep resonance for house-front dances.
-- **Hide hand drum** — A frame drum of deer or sea mammal hide, often painted with a crest, the standard accompaniment for processional and welcome songs.
-- **Whistles and horns** — Concealed wooden whistles sounded from behind screens to announce the arrival of supernatural beings in the winter ceremonial.
+- **Raven rattle** — A carved bird form with a reclining shaman and frog on its back, held by chiefs during entrance dances.
+- **Shaman's rattle** — A round globular rattle that belonged to the sg̱aaga (shaman).
+- **Plank drum** — A large painted cedar box or wall plank struck with the fist or a beater to accompany singing.
+- **Potlatch entrance song** — A lineage-owned song performed at potlatch as an assertion of title, part of genres including mourning, memorial, peace-making and gambling songs.
+- **Cedar whistle** — A carved whistle that voiced supernatural beings during ceremonies.
 
 ## Dance & theatre
 
-Performance in the Haida feast house is theatrical in the fullest sense, with screened backstage, trapdoors, string mechanisms, sudden darkness and light, and masks built to change in view of the audience.
+Haida dance is masked, narrative and staged inside the house at potlatch, centered on the transformation mask which splits to reveal a human face within.
 
-- **Masked dance drama** — Enactments of lineage histories and encounters with supernatural beings, performed at potlatches with carved masks, screens and rehearsed stage effects.
-- **Transformation dance** — A sequence in which a hinged mask opens to reveal another being, dramatising the permeability of human and animal identity.
-- **Dance screen** (*gwaa'ang*) — A large painted plank partition at the rear of the house behind which performers dressed and from which they emerged through a central opening.
-- **Welcome and paddle dances** — Processional dances performed on the beach and at the house door to receive arriving canoes, revived and now central to public Haida performance.
-- **Contemporary dance groups** — Community dance groups at Skidegate, Old Massett and Hydaburg that maintain repertoire, teach young dancers and perform at pole raisings and canoe journeys.
+- **Transformation mask** — An outer mask, usually an animal or supernatural being, that splits open on strings pulled by the dancer to reveal a human face carved within, enacting metamorphosis and reincarnation.
+- **Chief's entrance dance** — A masked dance in which the chief wears a raven rattle and frontlet, scattering eagle down as a sign of peace.
+- **Crest dance** — A masked dance in which the wearer of a naaxiin or button blanket turns to display the crest.
+- **Secret society performance** — A dramatic masked performance borrowed from Heiltsuk and Kwakwaka'wakw neighbours in which an initiate is possessed and publicly tamed.
+- **Peace-making ceremony dance** — A masked performance used to settle feuds and disputes rather than through negotiation.
 
 ## Festivals & rituals
 
-The potlatch, a multi-day feast of speeches, songs, masked dance and mass gift distribution, is the organising institution of Haida ceremonial life, banned from 1884 until 1951 and now publicly resumed.
+The potlatch is the central institution of Haida ceremonial life, a winter gathering that functions simultaneously as legal proceeding, economic redistribution and assertion of rank.
 
-- **Potlatch** (*waahlGahl*) — A multi-day feast given to mark a house raising, a memorial, a name-taking or a marriage, where a host lineage distributes wealth and guests validate claims.
-- **Pole raising** — The public raising of a carved pole by invited guests pulling on ropes, followed by a feast; the act of raising is itself the validation of the crest.
-- **Memorial feast** — A feast held some time after a death to end mourning, settle the succession of names and titles, and commission a memorial pole.
-- **Name-taking** — The conferral of a lineage name on a child or adult, announced and witnessed at a feast, with goods given as payment for the witnessing.
-- **Canoe journeys** — Contemporary intertribal paddles in which carved canoes travel between coastal communities and ask permission to come ashore, reviving protocol and navigation.
+- **Potlatch** (*gyáa isáaw*) — A ceremonial gathering convened to raise a pole, build a house, mourn a death, confirm an heir's name, mark a marriage or repair an insult, held in winter months and running for days.
+- **Boy's puberty instruction** — At puberty, a boy's mother's brothers instructed him in lineage history and prescribed a diet held to confer specific capacities—duck tongues for breath-holding, blue jay tongues for climbing.
+- **Girl's menarche seclusion** — A girl at menarche was secluded in the family house, sleeping on a stone pillow with restricted food and drink, and instructed by her father's sisters.
+- **Vision quest** — Both sexes historically undertook solitary journeys into the forest for days to find a guiding spirit, with successful return celebrated with masks, face paint and costume.
+- **Mortuary potlatch** — A memorial potlatch given a year or more after the death of a chief or shaman, convened by the heir.
 
 ## Foodways
 
-Haida Gwaii is one of the richest temperate marine environments in the world, and the Haida diet was overwhelmingly a sea diet, supplemented by berries, roots and rainforest products.
+Haida subsistence is marine, centered on Pacific salmon, halibut and herring, with grease rendered from candlefish as the defining condiment and trade good.
 
-- **Salmon** — Five species taken in weirs and traps and preserved by smoking and wind-drying for winter.
-- **Herring spawn** — Spawn collected on hemlock boughs or kelp set in the shallows, a prized food and trade item.
-- **Eulachon grease** — Grease from a small oily fish rendered into the coast's great condiment and wealth good, obtained by trade with mainland nations.
-- **Soapberry foam** — Berries whipped with water into a pink foam and served as a feast dessert, highly valued on land.
-- **Feast service** — Food served in carved grease bowls with horn spoons, the scale of what a host could provide itself part of the claim being made.
+- **Salmon weir** — Five species of Pacific salmon—sockeye, coho, pink, chum and chinook—were taken at stone-walled intertidal traps and weirs, then split and smoked for winter storage.
+- **Halibut hook** (*ch'iiga*) — A carved wooden V-hook whose barb geometry selects fish of a particular size and whose upper arm is often carved with a crest figure.
+- **Herring spawn harvest** (*k'aaw*) — Herring roe deposited on hemlock branches or kelp set out in the shallows, then eaten raw, boiled or dried, remaining the most sought-after spring food.
+- **Eulachon grease** — Oil rendered from small candlefish that accompanies nearly every dried food and moves along grease trails as the defining trade good.
+- **Berry cake** — Salmonberry, huckleberry and other wild berries mashed and dried into cakes stored in bentwood boxes under grease.
 
 ## Oral tradition & literature
 
-Haida oral literature is one of the most substantially recorded Indigenous literatures of North America, largely documented by ethnographer John Swanton with narrators Skaay and Ghandl in 1900–1901.
+Haida oral literature divides between sacred narratives of the supernatural age and lineage histories, which are property owned and told only by those entitled.
 
-- **Raven stories** — Accounts of Raven, who steals light, brings water and fish, and reshapes the world through appetite and mischief.
-- **Lineage histories** — Narratives that establish a family's right to a crest by recounting an ancestor's encounter with a supernatural being.
-- **The Sea Wolf** (*Wasgo*) — A recurring supernatural figure in Haida narratives, representing power and danger from the sea.
-- **The Bear Mother** — A recurring figure who marries a bear and bears his children, appearing in lineage and world-creation narratives.
-- **Swanton's collections** — Published Haida narratives taken down in Haida language, retranslated in the later twentieth century and controversially reframed as classical poetry by Robert Bringhurst.
+- **Raven** (*Nang Kilsdlaas*) — The great cycle's central figure, who revealed the world, took an active hand in creating life, and is simultaneously creator and glutton, benefactor and trickster.
+- **Foam Woman** (*SGuuluu Jaad*) — A founding matrilineage ancestress who anchors lineage histories.
+- **Ghandl and Skaay** — The Skidegate and Masset narrators recorded by John R. Swanton in 1900–1901, whose corpus was published as Haida Texts and Myths.
+- **Haida manga** — Contemporary narrative form by Michael Nicoll Yahgulanaas that renders stories in formline-bordered panels.
+- **The Edge of the Knife** (*SG̱aawaay Ḵʹuuna*) — The first feature film in Haida (2018), directed by Gwaai Edenshaw and Helen Haig-Brown with an all-Haida cast who learned the language for the production.
 
 ## Language & religion
 
-Xaad Kil is generally treated as a language isolate with northern and southern dialects; traditional religion centred on a populated world of supernatural beings, expressed through the crest system and coexisting with Anglican Christianity.
+Haida is a language isolate with no demonstrated relatives; fewer than four dozen fluent first-language speakers remain after suppression through residential schools, though revitalization efforts began in the 1970s.
 
-- **Xaad Kil language** — A language isolate with northern (Masset and Alaskan) and southern (Skidegate) dialects, severely endangered but subject to revitalisation efforts.
-- **Residential school impact** — The residential school system drove the decline of fluent first-language speakers to the low double figures or fewer, nearly all elderly.
-- **Immersion programming** — Intensive documentation, immersion programming and adult apprenticeship at Skidegate and Old Massett producing a small cohort of new speakers.
-- **Crest cosmology** — Traditional religion in which animals, sea, forest and weather are peopled by beings with their own houses and protocols, mediated by shamans.
-- **Anglican Christianity** — Most Haida today identify as Christian, commonly Anglican, coexisting with crest law, potlatch obligation and lineage protocol.
+- **Haida language isolate** — A language with no demonstrated genetic relationship to any other family, once tentatively assigned to Na-Dene but later disassociated.
+- **Skidegate Haida Immersion Program** — A contemporary language revitalization program supporting the learning of Haida among children and community members.
+- **Anglican mission** — Missionization began at Masset from 1876 under William Collison, introducing Anglicanism to the northern community.
+- **Methodist mission** — A Methodist mission established at Skidegate from 1883, whose members later became United Church.
+- **Shaman** (*sg̱aaga*) — A spiritual practitioner who mediated between human and spirit worlds, healing and negotiating with supernatural beings; the role is no longer publicly practised.
 
 ## Glossary
 
-- *Xaad Kil / Xaayda Kil* — The Haida language, a language isolate with northern and southern dialects
-- *formline* — A two-dimensional design system using continuously swelling and tapering lines to render crest figures
-- *ovoid* — A rounded rectangle used in formline design for eyes, joints and major fields
-- *naaxiin* — Chilkat weaving, a curvilinear twined robe of mountain goat wool on a cedar bark warp
-- *yeil koowu* — Raven's tail weaving, an older geometric twined robe with black-and-white or natural wool bands
-- *GuuGaay* — A bentwood box, a container made from a single cedar plank kerfed and steamed into shape
-- *tlaajaang* — Argillite carving, working in soft black carbonaceous shale into pipes, platters, chests and poles
-- *tluu* — A dugout canoe, ocean-going canoe hollowed from a single red cedar log
-- *tinaa* — A copper shield, a shield-shaped beaten copper plaque displaying wealth and rank
-- *hlgidang* — A frontlet headdress, a carved wooden forehead plaque inlaid with abalone and mounted on sea lion whiskers and ermine
-- *dajangai* — A cedar bark hat, a wide conical woven hat of spruce root or cedar bark
-- *na* — A monumental cedar house, a large post-and-beam dwelling housing several related families of one lineage
-- *gyaa'aang* — A house frontal pole, a crest pole set against or into the house front with an oval doorway at the base
-- *gwaa'ang* — A dance screen, a large painted plank partition at the rear of the feast house
-- *waahlGahl* — A potlatch, a multi-day feast where a host lineage distributes wealth and guests validate claims
-- *Wasgo* — The Sea Wolf, a recurring supernatural figure representing power and danger from the sea
-- *Raven* — A figure in Haida creation stories who steals light, brings water and fish, and reshapes the world
-- *Eagle* — One of the two matrilineal moieties into which Haida society is organized
-- *lineage* — A matrilineal clan that owns houses, names, songs, territories and crest figures
-- *crest* — A figure displayed on monumental art and regalia that represents a lineage's identity and supernatural counterpart
-- *shaman* — A spiritual practitioner who mediated with supernatural beings in traditional Haida religion
-- *labret* — A lower-lip plug of wood, bone or stone worn by high-ranking women as a marker of noble status
+- *naaxiin* — Chilkat weaving, a fingerwoven robe of mountain-goat wool and cedar bark
+- *gyaa'aang* — House frontal pole, set against or into the house façade
+- *tináa* — Copper shield, the highest denomination of potlatch wealth
+- *labret* — Lip plug of wood, bone or stone worn by women of rank
+- *formline* — The underlying design system of swelling-and-narrowing black lines with red and blue-green fields
+- *sg̱aaga* — Shaman who mediated between human and spirit worlds
+- *ch'iiga* — Carved wooden halibut hook whose barb selects fish of particular size
+- *k'aaw* — Herring spawn roe, harvested on hemlock branches or kelp
+- *gyáa isáaw* — Potlatch, the central ceremonial institution
+- *Nang Kilsdlaas* — Raven, the creator-trickster figure of Haida cosmology
+- *SGuuluu Jaad* — Foam Woman, a founding matrilineage ancestress
 
 ## Sources & further reading
 
-- Wikipedia: *Haida people*, *Haida language*, *Haida Gwaii*, *Totem pole*, *Argillite carving*, *Chilkat weaving*, *Potlatch*, *SGang Gwaay*
-- UNESCO World Heritage List: *SGang Gwaay* (Anthony Island), inscribed 1981
-- John R. Swanton, *Haida Texts and Myths: Skidegate Dialect* (1905) and *Contributions to the Ethnology of the Haida* (1905)
-- George F. MacDonald, *Haida Monumental Art: Villages of the Queen Charlotte Islands* (1983)
-- Bill Holm, *Northwest Coast Indian Art: An Analysis of Form* (1965)
-- Robert Bringhurst, *A Story as Sharp as a Knife* (1999), with the Skaay and Ghandl volumes
-- Cheryl Samuel, *The Chilkat Dancing Blanket* (1982) and *The Raven's Tail* (1987)
-- Carole Kaufmann and Peter Macnair on argillite; Alan Hoover (ed.), *Nuu-chah-nulth Voices, Histories, Objects and Journeys* and the Royal BC Museum's Haida holdings
-- Haida Gwaii Museum at Kay Llnagaay and the Council of the Haida Nation for community-authored material
+- George F. MacDonald, Haida Monumental Art: Villages of the Queen Charlotte Islands, University of British Columbia Press, 1983
+- Bill Holm, Northwest Coast Indian Art: An Analysis of Form, University of Washington Press, 1965
+- Robert Bringhurst, A Story as Sharp as a Knife: The Classical Haida Mythtellers and Their World, Douglas & McIntyre, 1999
+- Cheryl Samuel, The Chilkat Dancing Blanket, Pacific Search Press, 1982
+- Carol Sheehan, Pipes That Won't Smoke, Coal That Won't Burn: Haida Sculpture in Argillite, Glenbow Museum, 1981
+- John R. Swanton, Contributions to the Ethnology of the Haida and Haida Texts and Myths, Jesup North Pacific Expedition / Bureau of American Ethnology, 1905–1908
+- https://en.wikipedia.org/wiki/Haida_people
+- https://ich.unesco.org/en/state/canada
+- https://folkways.si.edu/search?query=Haida
+- https://www.historymuseum.ca
+- https://www.metmuseum.org/art/collection/search?q=Haida
+- https://collection-online.moa.ubc.ca
 

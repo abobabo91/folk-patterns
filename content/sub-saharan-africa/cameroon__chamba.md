@@ -8,154 +8,147 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Chamba, who call themselves Sama or Samba, a people straddling the Nigeria-Cameroon border |
-| Where | The Ganye plains and Alantika Mountains in Adamawa State (Nigeria) and Cameroon's Faro and Mayo-Banyo divisions; also the Chamba-founded Bali chiefdoms in the Bamenda Grassfields |
-| How many | 200,000–300,000 across both countries |
-| Language | Chamba Daka (Dakoid) and Chamba Leko (Adamawa language) |
-| Religion | Indigenous cult practice (jup), Islam, and Lutheran and Presbyterian Christianity |
-| Known for | buffalo-and-antelope helmet masks · iron throwing knives and currency · sorghum beer · smithing · the lela festival of the Bali chiefdoms |
+| Who | A Northern Bantoid people straddling the Nigeria–Cameroon border |
+| Where | Adamawa State highlands of north-eastern Nigeria and adjoining Cameroonian grassfields |
+| How many | Hundreds of thousands |
+| Language | Chamba Leko and Chamba Daka |
+| Religion | Traditional (ancestors and creator god), with roughly fifteen percent Muslim and Christian influence |
+| Known for | Buffalo-helmet masks and janus wood figures · Skilled sculptors, potters and iron-workers · Calabash pyrography and indigo cloth · Displacement by Fulani jihads and founding of Bali chiefdoms |
 
 ## Overview
 
-The Chamba occupy a mountainous frontier zone divided between Nigeria and Cameroon. They are remarkable because a single people sharing chiefship and material culture speak two completely unrelated languages. In the nineteenth century, Fulani pressure scattered Chamba war bands southward, and these diaspora groups founded the five Bali chiefdoms in the Grassfields of western Cameroon. Chamba society is based on double descent, where each person belongs to both a father's clan and a mother's clan.
+The Chamba are a large Northern Bantoid group split between Nigeria and Cameroon, speaking two distantly related languages. They are renowned for their wood and iron sculpture, especially buffalo masks and janus figures that are among West Africa's most recognisable forms. Chamba warrior bands displaced by Fulani jihads migrated southwest and founded the Bali chiefdoms in the Cameroon Grassfields. Their material culture and ritual life centre on the guinea-corn cycle, masquerade theatre, and the jup cult system.
 
 ## Material culture
 
-Chamba material culture revolves around three centres: the forge (which makes weapons and currency), the shrine (which houses masks and cult figures), and the beer pot (which anchors labour, funerals and hospitality).
+Chamba surface pattern lives on gourd, wood, iron and body rather than on woven cloth, creating a distinctive visual language across everyday and ritual objects.
 
 ### Textile & pattern traditions
 
-Chamba weaving produces narrow indigo strips that are sewn together, while gourd decoration using burnt and incised ornament is the strongest surviving decorative art.
+Pattern appears chiefly on gourd, wood, iron and body through burnt designs, dyed cloth, and painted masks.
 
-- **Chamba indigo cloth** — Narrow bands woven by men, dyed in fermented indigo pits and sewn edge-to-edge into wrappers and gowns; the deepest, most heavily dyed cloth carries the highest value.
-- **Gourd pyrography** (*Chamba calabash pyrography*) — Gourd bowls, dippers and bottles scorched and incised with a heated blade to create dark geometric patterns of hatching, chevrons, lozenges and concentric bands; generally women's work.
-- **Resist and stitched patterning** — Tie-dyed and stitch-resisted cloth that circulates through regional markets and is often combined with locally woven strip cloth in dress.
-- **Fibre and leaf work** — Plaited fibre skirts, fringes and mask costumes form a parallel textile tradition, with fibre outranking cloth as the proper covering in ritual contexts.
+- **Calabash pyrography** — Bottle gourds and calabash bowls are scorched with a heated iron point to produce dark linear bands, hatched triangles and concentric rings on the pale rind.
+- **Indigo cloth** (*Chamba indigo cloth*) — Indigo-dyed cotton wrappers worn as women's waist cloths and as the ground for chiefly dress, patterned by resist-tying and narrow strip widths sewn edge to edge.
+- **Buffalo helmet mask** — A wooden head worn with a long-fibre costume, painted male or female with horns indexing the female bush-cow ancestor and painted red, white and black zoning across cheek and crown.
+- **Vara mask** (*vara*) — A wooden masked figure worn with long-fibre costume belonging to the wild-bush register.
+- **Jup shrine figure** (*jup*) — Wooden or iron figures attached to jup cults, their bodies scored with linear and chevron marks that echo scarification once worn on human skin.
 
 ### Clothing & dress
 
-Everyday dress was once minimal but shifted to the gown-and-cap style of Muslim Adamawa towns, with ornament rather than tailoring carrying social meaning.
+Everyday dress is minimal in the hot climate; warrior dress features indigo tunic and throwing knife; masquerade dress completely encloses the wearer in long plant fibre.
 
-- **Riverain gown** (*babban riga*) — Wide embroidered gown adopted from Hausa-Fulani neighbours, worn with drawstring trousers and an embroidered cap; became the mark of chiefs, traders and Muslim converts.
-- **Waist cloth and apron** — Men's loin coverings of skin or strip cloth and women's short cloth or fibre aprons formed the older everyday dress, with beaded or cord waist strings.
-- **Leaf bunch** — Leaf or fibre bunches worn front and back by women, retained longest in the Alantika hill settlements into the twentieth century.
-- **Bali regalia** — In the Grassfields chiefdoms, chiefly dress follows Grassfields conventions with indigo resist-dyed cloth, beaded prestige items and richly worked caps.
-- **Warrior dress** — Hide or quilted protection, iron arm rings and the throwing knife slung at the shoulder; now seen only in dance.
+- **Warrior tunic** — A heavy indigo or dark cotton tunic worn with an iron throwing knife slung at the hip or across the back, and the gbana staff carried as the mark of office.
+- **Chiefly gown** — A long embroidered gown worn with a cap or beaded headdress and brass anklets for investiture.
+- **Masquerade costume** — A skirt and cape of long plant fibre reaching to the ankles, entirely enclosing the wearer with a locked wooden helmet so no human surface shows.
+- **Throwing knife** — A multi-bladed iron weapon that doubles as regalia, slung at the hip or across the back of warriors.
+- **Gbana staff** (*gbana*) — A staff carried as the mark of chiefly or warrior office.
 
 ### Architecture
 
-Chamba build round mud and thatch houses in walled compounds; there is no monumental tradition, and the grandest buildings are the Grassfields palaces of the Bali.
+Settlement is the nucleated village of round mud-walled huts with conical thatch roofs, clustered into compounds around a raised granary.
 
-- **Compound** — Cluster of round mud-walled, conical-thatched houses linked by low walls into a single enclosure with one controlled entrance, containing sleeping huts, kitchen, byre and shrine.
-- **Granary** — Round mud or coiled-clay storage bin raised on stones against damp and termites, closed with a removable conical thatch cap; the number of granaries displays a household's standing.
-- **Hill settlement** — Dispersed, defensible settlements on the slopes of the Alantika range, dating from the slave-raiding era and contrasting with open plains villages of the Ganye lowlands.
-- **Shrine hut** — Small, low structure or fenced enclosure housing a cult's objects, sited at the compound edge or in bush groves and entered only by initiated members.
-- **Bali palace** — In the Grassfields chiefdoms, a complex of rectangular pillared buildings with carved doorframes and posts, and an assembly plaza used for lela.
+- **Granary** (*Chamba granary*) — A raised cylindrical mud or wattle bin on stone footings or timber platform with a conical thatch cap, sited inside the compound and holding the guinea-corn that turns the household year.
+- **Compound** — A cluster of round mud-walled huts joined by low walls or reed screens into a single enclosure per married man and his wives, each wife holding her own hut and hearth.
 
 ### Ceramics, metalwork & everyday objects
 
-Iron is the prestige medium and pottery the essential one: smiths made currency, weapons and staffs, while women potters supplied vessels for daily life and shrines.
+Women potters and men smiths produce the beer pot and throwing knife that are central to Chamba ritual and social life.
 
-- **Throwing knife** — Multi-bladed iron weapon with a leaf or hook-shaped head and lateral cutting arms set on a wrapped grip, thrown or carried as a prestige and ritual object.
-- **Iron currency** — Bars, rods and hoe- or spatula-shaped iron pieces used as stores of value and in bridewealth and ritual payment, kept in bundles and passed between households.
-- **Staff** (*gbana*) — Forged iron staff, often with a flattened or figurated terminal, planted in shrines or carried as an emblem of office; stands for the permanence and danger of the forge.
-- **Beer pot** — Large hand-built globular vessel with a short neck and cord-impressed decoration, used to brew, carry and serve sorghum beer; specific pots are dedicated to shrines.
-- **Stool** — Low stool carved from a single block, generally a circular seat over an openwork or solid support, kept as personal property and offered to visitors as a gesture of hospitality.
+- **Beer pot** (*Chamba beer pot*) — A wide-mouthed, round-bellied coil-built jar for fermented guinea-corn beer, often with an applied or combed band at the shoulder.
+- **Throwing knife** (*Chamba throwing knife*) — A multi-bladed iron weapon produced at the blacksmith forge that doubles as regalia.
+- **Iron currency** (*Chamba iron currency*) — Bars and blade-shaped iron units used in bridewealth and cult payment.
+- **Stool** (*Chamba stool*) — A low single-block wooden seat whose possession is tied to seniority.
+- **Blacksmith forge** (*Chamba blacksmith forge*) — Bellows, stone anvil, and a smith whose status is ritually set apart, producing throwing knives, currency and iron figural sculptures.
 
 ### Jewelry & body adornment
 
-Adornment is dominated by cast copper alloy worn on the limbs, supplemented by iron rings, beads, cowries and extensive scarification in older practice.
+Heavy brass anklets and beaded strings mark status and life-cycle membership; tooth evulsion and scarification patterns tied initiation and cult membership.
 
-- **Brass anklet** — Heavy cast copper-alloy anklet, sometimes weighing several kilograms, worn in pairs by women; accumulated as household wealth and transferred at marriage.
-- **Arm and leg rings** — Iron and brass bracelets, spirals and cuffs worn in graded numbers by men and women, with certain forms restricted to cult members and titleholders.
-- **Bead and cowrie ornament** — Waist strings, neck strands and hair ornaments of glass beads, cowries and seeds, formerly indicating a girl's stage of maturity.
-- **Scarification** — Patterned cicatrisation of face, torso or abdomen once marked clan and maturity; largely lapsed under Islam, Christianity and schooling.
-- **Hairdressing** — Shaved, crested and plaited coiffures, dressed with oil and ochre, distinguished age and marital status; still revived for festivals.
+- **Brass anklet** (*Chamba brass anklet*) — A thick cast or forged ring worn in pairs at the ankle by married and senior women, its weight altering the wearer's gait to mark status audibly and visibly.
+- **Tooth evulsion** — The deliberate removal of front teeth, forming part of initiation in some women's cults.
+- **Beaded waist and neck strings** — Beaded ornament worn as part of the adornment repertoire.
 
 ## Music & performance
 
-Chamba music is functional and ensemble-based: it summons, mourns, works and honours, built on drums, bells, rattles and horns that announce a chief and address him.
+Musical life is organised around the masquerade, the cult and the beer party, with drums, iron and gourds forming the core ensemble.
 
-- **Chamba drum** — Single-headed or double-headed cylindrical drum played in pairs and threes with hands or stick, the core instrument of Chamba music.
-- **Cult instruments** — Whistles, flutes, friction instruments and bull-roarers that produce the sound of the jup itself, produced out of sight so the uninitiated hear the cult without seeing it.
-- **Bamboo pipes** — End-blown bamboo pipes played in the Bali chiefdoms at lela, whose overlapping pitches make a dense single texture; the most-recorded Chamba-derived music.
-- **Funeral music** — Drumming that continues for days at the funerals of elders, with mourning songs led by senior women and gun salutes where firearms are available.
+- **Drum ensemble** (*Chamba drum*) — Hollowed log and skin drums of several sizes played in ensemble, with the largest carrying signal patterns that call a mask out of the bush.
+- **Iron clappers and struck iron** — Struck iron from the smithing tradition giving the ensemble its metallic timbre.
+- **Gourd rattles and calabash idiophones** — Idiophones made from the same pyrographed gourds used for beer, completing the percussion ensemble.
+- **Cult songs** — Song genres whose texts are secret to initiates and cannot be performed outside the jup.
 
 ## Dance & theatre
 
-There is no theatre separate from masquerade; the mask presents a presence to be received rather than a character to interpret.
+The masquerade is the theatre, with the buffalo mask dancing at circumcisions, chiefly installation and funerals in a charging, head-lowered lunging step.
 
-- **Vara masquerade** — The buffalo-antelope helmet mask is danced covered head to foot in fibre, moving in charged bursts of stamping, wheeling and rushes punctuated by stillness.
-- **Community dances** — Line and circle dances in which women dance in a close arc with small steps and shoulder work while men move outside them.
-- **Warrior dances** — Dances in which throwing knives and spears are handled in mock combat, now confined to ritual contexts.
-- **Lela processional dancing** — In the Grassfields chiefdoms, horsemen, flag-bearers and ranked societies move between palace, plaza and stream over four days.
-- **Funeral clowning** — Satirical and mimetic performance that can mock the living with impunity for the duration of the rite.
+- **Buffalo mask dance** (*buffalo (bush cow) mask*) — A clan mask brought from the bush into the village to dance at circumcisions, chiefly installation and funerals, using a charging, head-lowered, lunging step with long fibre costume flaring.
+- **Circle and line dances** — Participatory gendered dances at beer parties and after harvest.
+- **Women's wedding dance** — Dance performed by women at weddings as part of participatory festive occasions.
 
 ## Festivals & rituals
 
-The ritual year is anchored to sorghum planting and harvesting, but the greatest ceremonies are mortuary rather than calendrical.
+The year is set by the guinea-corn cycle with harvest observances as the main calendrical occasions; life-cycle ritual through circumcision and marriage is where ethnography is densest.
 
-- **Funeral ceremony** — Staged in two movements — burial, then a later commemorative gathering — where masks appear, cattle are killed, and rights are transferred along patriline and matriline.
-- **Jup cult initiation** (*jup*) — Graded, paid initiation into a cult with beer, iron and livestock that structures a man's public life; parallel women's cults structure women's ritual life.
-- **Chief installation** — Involves seclusion, ritual instruction and the handing over of iron and pottery regalia.
-- **Lela festival** (*lela*) — Annual four-day festival in the Bali chiefdoms in the dry season with flag-raising, pipe music, mounted parade, gun salutes and a procession to water.
-- **First-fruits observance** — Rites at which the new crop and new beer are offered to shrines before anyone may consume them freely.
+- **Circumcision** — Boys pass into manhood through circumcision, performed as part of initiation into a men's jup cult with the bush-cow mask present.
+- **Marriage** — The passage into womanhood for girls, after which women typically join a jup, with tooth evulsion forming part of initiation in some women's cults.
+- **Jup cult** (*jup*) — A ritual institution tied to a specific misfortune or disease, controlling and curing it through rituals and payments, binding members to secrecy as insurance against a named affliction.
+- **Funeral rites** — Elaborate handling of death running for days with drumming, beer and masked appearance, with mediums who can address ancestor spirits accorded high respect.
 
 ## Foodways
 
-Sorghum and bulrush millet are the old staples, with the centre of Chamba foodways being sorghum beer rather than any single dish.
+Guinea corn is the staple and organising crop, supplemented by vegetables and meat, with beer brewed from it as the ritual substance of Chamba life.
 
-- **Sorghum beer** — Malted, mashed and briefly fermented by women in great globular pots; cloudy, sour and low in alcohol, consumed fresh because it does not keep.
-- **Grain porridge** — Stiff grain porridge broken by hand and dipped into a sauce whose character comes from fermented locust-bean cakes, dried baobab, okra, hot pepper and oil.
-- **Meat occasions** — Goat, sheep, guinea fowl and chicken eaten at rites; cattle circulate chiefly as wealth and bridewealth rather than food.
-- **Condiments** — Fermented locust-bean cakes from Parkia biglobosa seeds, dried and pounded baobab or bitter leaf, okra and hot pepper form the flavour base.
-- **Preserved foods** — Smoked and dried preserved foods of the long dry season, along with sweetened drinks of ginger, tamarind and baobab, and kola nuts obtained by trade.
+- **Guinea corn** — Sorghum is the staple and organising crop of Chamba agriculture, supplemented by other cereals and, in Cameroon, by cocoa and coffee.
+- **Beer** — Brewed by women from guinea corn, served in pyrographed calabashes and beer pots, functioning as payment, hospitality and obligation in cult dues, work-party wages and funerals.
+- **Everyday meal** — A stiff porridge of pounded guinea-corn flour cooked to a firm mass and eaten by hand with a soup of leaves, groundnut or okra from a common bowl.
 
 ## Oral tradition & literature
 
-Chamba oral tradition is preoccupied with movement and origins, from clan histories of arrival and settlement to the nineteenth-century dispersals under Fulani pressure.
+Oral tradition turns on migration and war, centring on accounts of displacement under the Fulani jihads and the founding charters of the Bali chiefdoms.
 
-- **Clan and chiefdom histories** — Narratives recount arrival from east or north, settlement on named hills, splitting after disputes, and the nineteenth-century dispersals; Bali recitations centre on Gawolbe's migration and death.
-- **Genealogical knowledge** — A person's standing is argued through patriclan and matriclan names, the cults attached to each, and the precedents of past transfers.
-- **Animal trickster tales** — Stories in which a small clever creature outwits the large and powerful.
-- **Proverbs** — A dense repertoire used in dispute settlement, where the apt proverb functions as an argument.
-- **Dirges and insult songs** — Dirges improvised by senior women at funerals and songs of insult and correction aimed at the lazy, mean and adulterous carry social sanction.
+- **Fulani jihad narratives** (*Fulani jihads*) — Accounts of displacement under eighteenth and nineteenth century jihads where Chamba communities were enslaved, many moved south into the mountains, and bands retaliated as raiders.
+- **Bali chiefdom founding charters** — Origin accounts telling how Chamba warrior parties travelled southwest and established Bali Nyonga, Bali Kumbat, Bali-Gham, Bali-Gangsin and Bali-Gashu, politically live and underwriting claims to title and land.
+- **Clan genealogies** — Genealogical accounts recited by chiefly lineages explaining family lineage and descent.
+- **Cult knowledge** — A large body of verbal art deliberately unrecorded, as jup members are bound to secrecy.
 
 ## Language & religion
 
-The Chamba speak two mutually unintelligible Niger-Congo languages while regarding themselves as one people, and practise a religion centred on the ancestral dead and the power of cults.
+Chamba is two distantly related Northern Bantoid languages; religion centres on the remote creator god Su and the wurumbu ancestors, with jup cults addressing disease-specific misfortunes.
 
-- **Chamba Daka language** (*Chamba Daka*) — A Dakoid language predominant around Ganye and in the Nigerian lowlands, whose classification within Benue-Congo remains contested.
-- **Chamba Leko language** (*Chamba Leko*) — An Adamawa language of the Leko–Nimbari group spoken on the Cameroonian side and in the Alantika area, source of important literature on Chamba religion.
-- **High God** (*Su*) — Associated with the sky and rain, distant and rarely addressed directly; practical religious attention goes to the ancestral dead and to the jup.
-- **Cult and medicine** (*jup*) — Cults and medicines whose objects, sounds and masks mediate power from outside the settled human world; the bush is the source of both danger and efficacy.
-- **Islam and Christianity** — Islam is now dominant in the Cameroon Faro plains and among market families; Lutheran and Basel Mission Presbyterian Christianity produced large populations in Nigerian Adamawa and the Grassfields; neither conversion has emptied the older frame.
+- **Chamba Leko** — A Leko–Nimbari language spoken in the easternmost central area largely on the Cameroonian side of the border.
+- **Chamba Daka** — A Dakoid language spoken by everyone else, also called Sama Nnakenyare by speakers.
+- **Creator god** (*Su*) — A remote solar creator who does not deal with the living, so practical religion is addressed to ancestors and cults instead.
+- **Ancestor spirits** (*wurumbu*) — The dead, who continue to live below the ground in a society mirroring the living one but wiser and possessed of supernatural power, mediated by specialists.
+- **Jup cult** (*jup*) — Disease-specific cults that control and cure a named misfortune through rituals and payments, binding members to secrecy.
 
 ## Glossary
 
-- *Sama or Samba* — Self-designation of the Chamba people
-- *jup* — A cult, medicine, or the objects and sounds associated with a particular cult
-- *vara* — Buffalo helmet mask, or the cult associated with it
-- *babban riga* — Wide embroidered gown adopted from Hausa-Fulani neighbours, worn by chiefs and Muslim converts
-- *gbana* — Forged iron staff planted in shrines or carried as an emblem of office
-- *lela* — Annual four-day festival in the Bali chiefdoms featuring flag-raising, pipe music, mounted parade and procession to water
-- *Chamba Daka* — Dakoid Niger-Congo language spoken in the Nigerian lowlands around Ganye
-- *Chamba Leko* — Adamawa Niger-Congo language of the Leko–Nimbari group spoken on the Cameroon side and Alantika area
-- *Su* — High God associated with sky and rain in Chamba religion
-- *Bali chiefdoms* — Five chiefdoms (Bali Nyonga, Bali Kumbat, Bali Gham, Bali Gashu, Bali Gangsin) founded by Chamba diaspora in the Grassfields
-- *Gawolbe* — Nineteenth-century Chamba war leader whose diaspora founded the Bali chiefdoms; killed in battle in the 1830s
-- *double descent* — Social system in which each person belongs simultaneously to a patrilineal clan and a matrilineal clan
-- *patriclan* — Clan traced through the father's line, to which ritual offices and shrine objects are distributed
-- *matriclan* — Clan traced through the mother's line, to which cults and ritual offices are distributed
-- *Parkia biglobosa* — Locust-bean tree whose fermented seeds are used as a condiment in Chamba cooking
+- *Chamba Leko* — Leko–Nimbari language spoken in easternmost central area
+- *Chamba Daka* — Dakoid language spoken by the majority of Chamba
+- *Sama Nnakenyare* — Self-designation of Chamba Daka speakers
+- *Su* — Remote solar creator god
+- *wurumbu* — The dead, living underground in mirror-society with supernatural power
+- *jup* — Disease-specific cult controlling misfortune through ritual and payment
+- *gbana* — Staff carried as mark of chiefly or warrior office
+- *bush-cow* — Buffalo ancestor and mask associated with it
+- *vara* — Wild-bush masked figure
+- *Fulani jihads* — Eighteenth and nineteenth century wars displacing Chamba communities
+- *Bali chiefdoms* — Cameroon settlements founded by Chamba warrior migrants
+- *pyrography* — Technique of scorching design into gourds with heated iron
+- *guinea corn* — Sorghum staple crop and organising element of Chamba agriculture
+- *janus figure* — Wood sculpture with two upper bodies on one pair of legs
+- *indigo cloth* — Indigo-dyed cotton wrapper for women's waist and chiefly dress
+- *tooth evulsion* — Deliberate removal of front teeth in some women's cult initiation
+- *throwing knife* — Multi-bladed iron weapon doubling as regalia
+- *brass anklet* — Heavy ankle ring marking married and senior women's status
+- *calabash* — Gourd vessel for serving and measuring beer
+- *compound* — Cluster of huts grouped around granary for one married man and wives
 
 ## Sources & further reading
 
-- Wikipedia — *Chamba people*, *Chamba Daka language*, *Chamba Leko language*, *Bali Nyonga*, *Ganye*, *Alantika Mountains*, *Adamawa Emirate*
-- Richard Fardon, *Raiders and Refugees: Trends in Chamba Political Development, 1750–1950* (Smithsonian Institution Press, 1988)
-- Richard Fardon, *Between God, the Dead and the Wild: Chamba Interpretations of Religion and Ritual* (Edinburgh University Press for the International African Institute, 1990)
-- Richard Fardon, *Lela in Bali: Historical Narratives and the Problem of Ethnic Identity* (Berghahn, 2006)
-- Marla C. Berns, Richard Fardon and Sidney Littlefield Kasfir (eds), *Central Nigeria Unmasked: Arts of the Benue River Valley* (Fowler Museum at UCLA, 2011)
-- Museum collections with documented Chamba holdings: British Museum, Musée du quai Branly, Fowler Museum, Rijksmuseum Volkenkunde
-- UNESCO Intangible Cultural Heritage Lists — no Chamba element is currently inscribed; see *Kwagh-hir theatrical performance* (Nigeria, 2019) and the *Oral heritage of Gelede* (Benin, Nigeria, Togo) for the regional context
+- Richard Fardon, *Raiders and Refugees: Trends in Chamba Political Development, 1750 to 1950*. Smithsonian Institution Press, 1988.
+- Richard Fardon, *Between God, the Dead and the Wild: Chamba Interpretations of Ritual and Religion*. Edinburgh University Press / International African Institute, 1990.
+- Richard Fardon, *Lela in Bali: History through Ceremony in Cameroon*. Berghahn Books, 2006.
+- Karin Ådahl and Berit Sahlström (eds.), *Islamic Art and Culture in Sub-Saharan Africa* — for the Benue-corridor trade and dress context. Uppsala, 1995.
+- Marla Berns, Richard Fardon and Sidney Kasfir (eds.), *Central Nigeria Unmasked: Arts of the Benue River Valley*. Fowler Museum at UCLA, 2011 — the standard reference for Chamba masks, janus figures and iron currency.
 

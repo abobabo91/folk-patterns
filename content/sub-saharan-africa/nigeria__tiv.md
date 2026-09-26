@@ -8,154 +8,162 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Tiv, a Bantoid people of Nigeria's Benue valley |
-| Where | Benue State (Makurdi, Gboko, Katsina-Ala), with communities in Taraba, Nasarawa, Plateau and Cross River States, and a small presence in western Cameroon |
-| How many | 5–7 million |
-| Language | Tiv, a Southern Bantoid language of the Benue–Congo branch |
-| Religion | Predominantly Christian, with persistent ritual practice and belief in Aondo |
-| Known for | black-and-white striped a'nger cloth · kwagh-hir puppet theatre · indyer slit-drum · yam farming · elaborate body scarification |
+| Who | The Tiv are a Bantu-speaking people of central Nigeria. |
+| Where | Benue Valley in central Nigeria, mainly in Benue State, with communities in Taraba, Nasarawa, Plateau, northern Cross River, and Cameroon. |
+| How many | Over eight million, roughly 3.5% of Nigeria's population. |
+| Language | Tiv (Tiiv), a Benue–Congo language. |
+| Religion | Predominantly Christian (NKST church dominant), with traditional practices like akombo rites and tsav beliefs persisting. |
+| Known for | A'nger cloth: distinctive black-and-white striped weave · Kwagh-hir puppet theatre: night performances combining masks, puppets, and satire · Wooden signal drums: indyer, ilyu, gbande as a communication system |
 
 ## Overview
 
-The Tiv are the largest ethnic group of Nigeria's Middle Belt, occupying the Benue and Katsina-Ala river valleys. They organized themselves without chiefs for most of their history through a vast segmentary lineage system, though colonial rule imposed a paramount office, the Tor Tiv, in 1946. They are best known for their boldly striped indigo-and-white cloth called a'nger, their puppet-theatre art form kwagh-hir, and their reputation as great yam farmers of the region.
+The Tiv migrated from the Congo basin to Nigeria's Benue Valley around 1600–1700. They built a society without kings, using carved wooden instruments as a communication network. They are known for their striking black-and-white striped cloth, an elaborate wooden puppet theatre, and a rich oral tradition centered on genealogy and lineage. Yam farming remains central to their ritual year and foodways.
 
 ## Material culture
 
-Tiv material culture is agrarian, portable and relatively unmonumental, concentrating on woven cloth, carved wood, worked iron, raffia and clay.
+Tiv material culture emphasizes bold linear patterns and carved wood, with black-and-white striping repeated across cloth, beadwork, and body marking.
 
 ### Textile & pattern traditions
 
-Tiv weaving is built on narrow strips of hand-spun cotton sewn edge to edge, with pattern carried almost entirely by warp stripes.
+A'nger, the iconic black-and-white striped cloth, represents the Tiv's visual identity and commemorates the zebra stripes of their ancestral homeland.
 
-- **Striped cloth** (*a'nger*) — Narrow strips woven in alternating black or deep indigo and white, sewn into a large wrapper and now the standard emblem of Tiv identity at Nigerian national occasions.
-- **Cloth wrapper** (*anger*) — The general Tiv term for woven cloth and for the strip-woven wrapper from which specific named patterns are distinguished.
-- **Named pattern** (*gberyum*) — A pattern distinguished by its particular stripe sequence and width, functioning much as tartan names do.
-- **Named pattern** (*godo*) — Another named strip-cloth pattern commonly cited alongside a'nger and gberyum among recognised designs.
-- **White cloth** (*tugudu*) — A white or undyed cloth type that circulated in the Tiv prestige-exchange sphere alongside brass rods and cattle.
+- **A'nger cloth** (*a'nger*) — Narrow warp-striped strips in black and white sewn together into robes, the defining Tiv cloth and memorial to the zebra hide that once supplied ceremonial dress.
+- **Godo cloth** (*godo*) — A heavier, broader-banded strip-weave worn draped from the shoulder, readable at a distance.
+- **Lishi cloth** (*lishi*) — A finer-striped variant where black and white bands are reduced to close pinstripes.
+- **Tugudu cloth** (*tugudu*) — A large plain-weave panel that circulated as a unit of prestige exchange alongside brass rods and livestock, not in ordinary market trade.
+- **Gberyum cloth** (*gberyum*) — A striped cloth in the a'nger family with bands in distinct proportions, marking a different grade within the same visual logic.
 
 ### Clothing & dress
 
-Everyday Tiv dress is the strip-woven wrapper, worn draped or tied, with striped cloth reserved for public and ceremonial occasions.
+A'nger cloth marks Tiv identity and appears at every public occasion, worn by all genders and all ranks, with elaboration showing social status.
 
-- **Striped wrapper** (*a'nger*) — Worn by men draped over the left shoulder and by women as a wrapped skirt with matching upper cloth.
-- **White wrapper** (*tugudu*) — Plain white cloth used for wrapping, gifts and ritual contexts where the bold stripe would be inappropriate.
-- **Formal dress** — Contemporary Tiv formal dress pairs a stitched cap in striped cloth with a tailored shirt or gown of the same material.
+- **A'nger robe** (*a'nger*) — Originally a single length draped over one shoulder, now tailored into long robes, caps, wrappers and shirts, worn with matching black-and-white beaded necklaces.
+- **Kwase kuhan outfit** (*kwase kuhan*) — Marriage reception dress in which both bride and groom wear a'nger, considered incomplete without headpieces, bracelets and necklaces in black-and-white beads.
+- **Tor Tiv regalia** (*Tor Tiv*) — The paramount office created in 1946 wears the fullest a'nger robes with black-and-white beaded necklaces chosen to match the cloth.
 
 ### Architecture
 
-Tiv building is a domestic tradition of round thatched huts grouped in compounds around swept central spaces, periodically shifted as farmland was exhausted.
+Tiv compounds are organized as genealogical diagrams, with round houses arranged in rings around a central yard and a reception hut as the gathering place for elders.
 
-- **Compound** (*ya*) — The basic Tiv settlement unit of round mud-walled, conical-thatched huts arranged in a ring around a swept yard, mapping lineage relations of occupants.
-- **Reception hut** (*ate*) — The open-sided round shelter with conical thatched roof at the compound centre where men receive visitors, hold discussions and settle disputes.
-- **Granary** — Raised cylindrical mud or wickerwork stores with small thatched caps, holding yam, millet and guinea corn and positioned as visible evidence of farming success.
+- **Tiv compound** (*tar*) — A settlement where members of the smallest lineage unit, the ipaven, live adjacent to one another, making the physical layout a reflection of family relationships.
+- **Reception hut** (*orya's hut*) — An open-sided, roofed circular shelter where the senior man receives visitors, hears disputes, and sits with elders—the architectural counterpart of a courthouse.
+- **Round house** — Mud walls over a stick armature with steeply pitched conical grass-thatched roofs, arranged in a ring around a swept central yard.
+- **Granary** — Raised structures on stones or timber within the compound for storing yam and millet.
 
 ### Ceramics, metalwork & everyday objects
 
-Tiv craft production is dominated by carved wood and worked iron, with pottery made largely by women; the most elaborate objects are ritual emblems and carved figures for performance.
+Tiv carving in wood produces signature instruments and functional domestic pieces with geometric designs that echo cloth and body-marking patterns.
 
-- **Ritual vessel** (*swem*) — A potsherd or shallow vessel filled with ash, earth and substances from the Swem hill, used in oath-taking and truth-telling.
-- **Slit drum** (*indyer*) — A very large hollowed wooden slit-drum, sometimes several metres long, struck to carry announcements, alarms and ritual signals across long distances.
-- **Ritual apparatus** (*akombo*) — Pots, stones, iron pieces, plant matter and carved objects assembled by specialists and used in affliction, fertility, farming and protection rites.
-- **Prestige currency** (*tsar*) — Brass or copper rods that formed the prestige currency of pre-colonial Tiv exchange, convertible into cattle, slaves, cloth and rights in women.
-- **Puppet theatre figures** — Articulated wooden figures with movable limbs and heads operated by concealed handlers, together with carved masks and headpieces for kwagh-hir.
+- **Indyer drum** (*indyer*) — A large mahogany slit drum hollowed through a small opening, held to carry magico-spiritual potency and not played for secular purposes without elders' sanction.
+- **Ilyu** — A light wooden idiophone that summons people to elders' meetings or the market square, now the standard instrument for marriage receptions.
+- **Agbande drum** (*agbande*) — Large drums played by young men at festivals and for social dancing.
+- **Ityogh pickaxe** (*ityogh*) — An iron tool that served as the circumcision instrument before razor blades displaced it in the twentieth century.
+- **Carved domestic objects** — Mortars and pestles for pounding yam, stools, and lidded bowls, decorated with concentric circles, chevrons, and linear patterns.
 
 ### Jewelry & body adornment
 
-For the Tiv, the decorated surface of the body was historically the primary field of visual art, with scarification carrying an elaborate and changing repertoire of designs.
+Black-and-white beadwork matches a'nger cloth for rulers and brides, while raised-keloid body marking in geometric patterns distinguished the Tiv from neighbouring Fulani.
 
-- **Body scarification** (*Tiv body scarification*) — Raised keloid patterns cut into the abdomen, chest, back, face and arms in concentric, chevron and radiating fields, marking courage, beauty and social adulthood.
-- **Hair pattern** (*avan*) — A named coiffure pattern in which the hair is parted, ridged and dressed into a recognised design, following the logic of scarification with named styles that came in and out of fashion.
-- **Metal ornament** — Coiled brass and iron anklets, armlets and neck rings worn in quantity by women on ceremonial occasions.
-- **Beadwork** — Strung glass and seed beads at neck, waist and wrist, with waist-beads worn by women under clothing, imported through Benue river trade.
+- **Black-and-white necklaces** — Strands of beads worn by rulers and elders, chosen deliberately to match a'nger cloth.
+- **Bride's beadwork** — Bracelets, waistbeads and headpieces in black-and-white beads completing the marriage outfit.
+- **Avan body marking** (*avan*) — Raised keloid scarification on chest, abdomen and face in concentric and radiating lines, matching the geometry of carved wood and woven cloth.
+- **Ear-piercing** — General to both sexes; young men historically also filed their teeth.
 
 ## Music & performance
 
-Tiv musical life is overwhelmingly vocal and percussive, organised around composer-singers who make new songs for specific occasions and drums with communicative as well as musical roles.
+Tiv instruments functioned as a communication system before becoming entertainment, each with a specific message and ritual role in a society without kings.
 
-- **Slit drum** (*indyer*) — Struck with heavy beaters to send signals and underpin large gatherings; its sound is understood as the voice of the community.
-- **Dance drum** (*gbande*) — A Tiv drum type used in ensemble for dance and song accompaniment, providing the rhythmic frame over which singers and chorus work.
-- **Song genre** (*ilyu*) — Composed songs by named song-makers setting topical, praise and satirical texts to music for weddings, funerals and public controversies.
-- **Composer-singers** — Named song-makers who compose for specific occasions with a call-and-response chorus answering; their texts are a principal medium of Tiv public opinion.
-- **Wind instruments** — Side-blown animal-horn and reed instruments used for signalling and melodic interjection in dance ensembles.
+- **Kakaki trumpet** (*kakaki*) — A long metal royal trumpet announcing royal events—births, namings, coronations, marriages—and alarm at attack, shared with Hausa, Nupe and other Sahelian courts.
+- **Indyer drum** (*indyer*) — The great mahogany slit drum announces the death of an important person or a call to war and carries magico-spiritual potency.
+- **Adiguve fiddle** (*adiguve*) — A bowed one-string fiddle played with agbande for dance, and played slowly and mournfully at funerals and the death of an elder.
+- **Kolugh ku bua horn** (*kolugh ku bua*) — A cow-horn trumpet blown by farmers' work associations to raise their members for a day's ridging.
+- **Ortindin messenger** (*ortindin*) — A human messenger chosen by elders to carry word to neighbouring family heads, completing the communication system.
 
 ## Dance & theatre
 
-The Tiv contribution to Nigerian performance is kwagh-hir, a composite theatre of puppets, masks, song and narration that emerged in its present form in the mid-twentieth century.
+Kwagh-hir puppet theatre combines carved masks, articulated puppets, narration and drumming to enact legend, current events and political satire.
 
-- **Puppet theatre** (*kwagh-hir*) — Night-time travelling theatre in which carved, articulated puppets and large masked constructions are manipulated by concealed operators while a narrator tells episodes and a chorus and drums answer.
-- **Puppet operation** — Figures with movable heads, arms and jaws are worked from below or behind by handlers under cloth, producing motions timed to the narrator's lines.
-- **Masked constructions** — Large composite masks and body constructions, sometimes multi-figured, appear alongside puppets and cross the boundary between puppet and masquerade.
-- **Social dance** — Vigorous group dances with waist and shoulder articulation, performed in a'nger wrappers to gbande drumming at weddings, funerals and festivals.
-- **Theatre origins** — Kwagh-hir is generally understood to have grown out of older evening tale-telling in the ate, absorbing carving and masking traditions into a staged form.
+- **Kwagh-hir puppet theatre** (*kwagh-hir*) — A night theatre where troupes stage tableaux with puppets and masked figures enacting legend and political commentary, with performers keeping their identities concealed until the end.
+- **Adzov spirits** (*adzov*) — The bush spirits portrayed by performers in kwagh-hir, recognized at the end of the performance by individual style.
+- **Social dancing** — Vigorous waist-driven dancing in lines and rings by age-sets to agbande and adiguve, accompanying weddings, festivals and the installation of officeholders.
+- **Adan Wade** — A written Tiv-language drama by Suemo Chia reworking the oral repertoire for the stage.
 
 ## Festivals & rituals
 
-Tiv ceremonial life is anchored in life-cycle rites, the agricultural year of yam, and the ritual complex of akombo, with modern additions of institutional celebrations centred on the Tor Tiv.
+The Tiv ritual year is keyed to the yam cycle and lineage demands, with akombo rites and tsav beliefs governing fertility, illness and social order.
 
-- **Ritual observances** (*akombo*) — A large family of ritual observances, each with its own emblems, prohibitions and specialists, addressing illness, infertility, crop failure, theft and social breach.
-- **Truth ordeal** (*swem*) — The supreme Tiv oath in which disputants swear on the ash-filled emblem; its authority underwrote dispute settlement in a society without chiefs.
-- **Yam harvest** — Seasonal rites and feasting around the yam crop, the staple and prestige food, marked by household and lineage-level celebration.
-- **Funerals** — Extended mortuary observances with drumming, composed songs, dancing and large-scale hospitality, commonly the largest gatherings in Tiv social life.
-- **Paramount ruler ceremonies** (*Tor Tiv*) — Installation and anniversary ceremonies of the paramount ruler, a twentieth-century institution now central to Tiv public identity.
+- **Akombo rites** (*akombo*) — Material emblems and rites governing fertility, illness, farming and social order, whose repair by a qualified elder restores what has been disturbed.
+- **Tsav power** (*tsav*) — An inner power attributed to certain individuals that can protect the lineage or be turned against it, the fear of which continues to shape social behaviour.
+- **Swem oath-place** (*swem*) — The ancestral hill where oaths sworn on Swem earth are believed to kill a liar, the strongest Tiv sanction into the colonial period.
+- **Ichongo and Ipusu descent** — All Tiv descend from either Ichongo (circumcised) or Ipusu (uncircumcised), determining genealogical identity.
+- **Yam harvest gathering** — The largest annual gathering with agbande drumming, kwagh-hir performances and the display of a'nger, now consolidated into state-level Tiv Day celebrations.
 
 ## Foodways
 
-Tiv cuisine is built on yam and guinea corn, pounded and boiled into stiff staples eaten with soups thickened by seeds and leaves.
+The Tiv diet is built on yam and root starches with an unusually long soup repertoire that distinguishes Tiv cooking.
 
-- **Prestige staple** — Yam is the central crop and prestige food, boiled, roasted or pounded, around which Tiv identity as farmers is built.
-- **Characteristic meal** — A stiff pounded or stirred starch from yam or cereal flour, eaten by hand with soup, often thickened with beniseed.
-- **Beniseed soup** — Soup thickened with beniseed (sesame), which the Tiv grow extensively and which gives Benue cooking a nutty, slightly bitter register.
-- **Protein sources** — Bush meat, river fish from the Benue and Katsina-Ala, and goat and chicken from the compound supply protein.
-- **Communal labour feasts** — A farmer feeds and beers his neighbours in exchange for a day's work on his fields, tying food directly to the Tiv agricultural system.
+- **Ruam kumen** — Pounded yam, the central Tiv dish.
+- **Yam** (*iyou*) — The staple crop around which the ritual year and diet revolve.
+- **Ichegh soup** (*ichegh*) — One of over a dozen distinctive Tiv soups, the most elaborated part of Tiv cooking.
+- **Ibyer pudding** (*ibyer*) — A fermented cereal pudding that serves as both food and drink.
+- **Sesame (beni-seed)** (*beni-seed*) — Eaten as a snack seed and ground into pastes, named by the British after the Benue River and became the valley's main export crop.
 
 ## Oral tradition & literature
 
-Tiv oral literature is unusually well documented and central to the group's sense of itself; genealogy, tale and song together did the work that written law and history do elsewhere.
+Tiv history is oral, centred on genealogy and the descent of Tiv through his children Ichongo and Ipusu, which serves as the operative charter of their segmentary lineage system.
 
-- **Genealogical recitation** — Foundational oral form in which placement within branching descent from the ancestor Tiv determined rights in land and dispute jurisdiction.
-- **Evening tales** — Tales told in the ate, including trickster narratives, tales of transformation and moral fables, from which kwagh-hir is generally understood to have developed.
-- **Composed song** (*ilyu*) — The living literary genre in which named composers produce texts of praise, complaint, satire and political commentary that circulate widely.
-- **Proverb and riddle** — Used densely in ordinary speech and in judicial argument before elders as forms of wisdom and persuasion.
-- **Written literature** — Dating from missionary orthography of the early twentieth century, including Akiga Sai's Akiga's Story, one of the earliest African-authored ethnographies.
+- **Genealogy** — The principal literary form and operative charter of the segmentary lineage system, recited from Tiv down through major and minor branches to the ipaven.
+- **Animal trickster tales** — Stories in the oral repertoire alongside riddles, praise and abuse songs.
+- **Kwagh-hir narratives** — Oral storytelling episodes that supply kwagh-hir puppet theatre its material, best understood as oral storytelling given puppets.
+- **Polyglotta Africana** — Sigismund Koelle's 1854 record of the Tiv language from freed slaves in Sierra Leone, the first documentation of the language.
 
 ## Language & religion
 
-Tiv is a Southern Bantoid language with a tone system and noun-class structure, written since the early twentieth century with a Bible translation and considerable printed literature.
+Tiv is a Benue–Congo language spoken by over eight million; the Tiv are predominantly Christian but continue akombo rites, tsav beliefs and Swem oaths alongside Christianity.
 
-- **Language family** (*Tiv*) — A Southern Bantoid language of the Benue–Congo group, a distant relative of southern Bantu languages rather than neighbouring Jukunoid, Idomoid and Chadic tongues.
-- **High god** (*Aondo*) — The sky-associated high god, distant and not directly propitiated, at the centre of older Tiv cosmology.
-- **Personal force** (*tsav*) — An inherent personal substance associated with the ability to affect others, historically understood to underlie both leadership and witchcraft accusation.
-- **Christianity** — The majority religion today, with Dutch Reformed and Sudan United Mission, and Roman Catholic communities strongly represented.
-- **Coexisting belief** — Older cosmological categories remain operative in ordinary explanation of illness and misfortune, coexisting with Christian practice rather than being displaced by it.
+- **Tiv language** (*Tiiv*) — A Benue–Congo language of the Niger–Congo phylum with lexical closeness to the Nyanza group of East Africa.
+- **NKST church** (*NKST*) — The dominant Christian denomination, founded by Dutch Reformed missionaries in 1911, full name Nongo u Kristu u i Ser u sha Tar.
+- **Akombo rites** (*akombo*) — Traditional rites governing fertility, illness and social order that persist alongside Christianity.
+- **Tsav belief** (*tsav*) — A traditional belief in inner spiritual power that persists and continues to shape social behaviour despite Christianity's dominance.
 
 ## Glossary
 
-- *a'nger* — Black-and-white striped cloth, the signature Tiv textile and national marker of identity
-- *akombo* — Family of ritual observances addressing illness, infertility, crop failure and social breach
-- *Aondo* — The sky god in Tiv cosmology, distant and not directly propitiated
-- *ate* — Reception hut, the social and political heart of a compound
-- *avan* — Named Tiv hair pattern, parted and ridged into a recognised design
-- *gbande* — Tiv drum type used for dance and song accompaniment
-- *gberyum* — Named Tiv cloth pattern distinguished by stripe sequence and width
-- *godo* — Named strip-cloth pattern in the Tiv weaving repertoire
-- *ilyu* — Tiv term for song and the genre of composed topical, praise and satirical songs
-- *indyer* — Very large hollowed slit-drum struck to carry announcements and signals
-- *kwagh-hir* — Night-time puppet theatre with articulated figures, masks, song and narration
-- *swem* — Ritual vessel used in oath-taking and truth-telling, potsherd filled with ash and earth
-- *Tor Tiv* — The paramount office, a twentieth-century institution imposed by colonialism and now central to Tiv identity
-- *tsar* — Brass or copper rods that formed prestige currency in pre-colonial Tiv exchange
-- *tsav* — Inherent personal force associated with ability to affect others, underlying leadership and witchcraft
-- *tugudu* — White or undyed cloth that circulated in the prestige-exchange sphere
-- *ya* — Compound, the basic Tiv settlement unit of huts arranged around a swept yard
+- *a'nger* — Black-and-white striped cloth, the defining Tiv textile and marker of identity
+- *akombo* — Material emblems and rites governing fertility, illness, farming and social order
+- *agbande* — Large drums played at festivals by young men
+- *adiguve* — Bowed one-string fiddle played for dance and mourning
+- *adzov* — Bush spirits portrayed in kwagh-hir puppet theatre
+- *avan* — Raised-keloid body scarification on chest, abdomen and face
+- *godo* — Heavy, broad-banded strip-weave cloth worn draped from the shoulder
+- *ilyu* — Light wooden idiophone used to summon people to meetings and markets
+- *indyer* — Large mahogany slit drum announcing death or war
+- *ipaven* — The smallest lineage unit
+- *ityogh* — Iron pickaxe formerly used as a circumcision tool
+- *iyou* — Yam, the staple crop
+- *kakaki* — Long metal royal trumpet announcing royal events and alarms
+- *kolugh ku bua* — Cow-horn trumpet blown by farmers' work associations
+- *kwagh-hir* — Puppet theatre combining masks, puppets, narration and drumming
+- *kwase kuhan* — Marriage reception
+- *lishi* — Fine-striped variant of a'nger cloth with close pinstripes
+- *ortindin* — Elder-chosen messenger to carry word to neighbouring family heads
+- *orya* — The senior man of a compound
+- *swem* — The ancestral hill where binding oaths are sworn
+- *tar* — A Tiv compound
+- *Tor Tiv* — The paramount office created in 1946
+- *tsav* — Inner spiritual power attributed to certain individuals
+- *tugudu* — Large plain-weave panel used as a unit of prestige exchange
 
 ## Sources & further reading
 
-- Wikipedia, "Tiv people", "Tiv language", "Kwagh-hir", "Benue State", "Tor Tiv"
-- Akiga Sai and Rupert East, Akiga's Story: The Tiv Tribe as Seen by One of Its Members (1939) — the foundational insider account
-- Paul Bohannan and Laura Bohannan, Tiv Economy (1968) and The Tiv of Central Nigeria (Ethnographic Survey of Africa, 1953)
-- Paul Bohannan, "The Impact of Money on an African Subsistence Economy", Journal of Economic History (1959) — the spheres-of-exchange argument built on tsar rods and tugudu cloth
-- Iyorwuese Hagher, The Kwagh-hir Theatre: A Metaphor of Resistance — the standard study of the puppet theatre
-- Laura Bohannan (as Elenore Smith Bowen), Return to Laughter (1954) — fieldwork narrative from Tivland
-- Nigerian National Commission for UNESCO country files on intangible heritage; note that kwagh-hir is documented in Nigerian national inventory work but is not, at the time of writing, an inscription on the UNESCO Representative List, and claims to the contrary should be checked against the current ICH register
-- British Museum and Nigerian National Museum (Jos, Lagos) collections for Tiv strip-woven cloth, indyer drums and kwagh-hir puppets
+- Paul Bohannan and Laura Bohannan, *Tiv Economy*, Northwestern University Press, 1968
+- Laura Bohannan and Paul Bohannan, *The Tiv of Central Nigeria*, International African Institute (Ethnographic Survey of Africa), 1953
+- Rupert East (ed.), *Akiga's Story: The Tiv Tribe as Seen by One of Its Members*, Oxford University Press for the International African Institute, 1939 — the foundational insider account, by Akiga Sai
+- Iyorwuese Hagher, *The Kwagh-hir Theater: A Weapon for Social Action*, University Press of America, 2003
+- R. C. Abraham, *The Tiv People*, Government Printer, Lagos, 1933 (repr. Frank Cass, 1968)
+- Paul Bohannan, "The Impact of Money on an African Subsistence Economy," *Journal of Economic History* 19 (1959) — the spheres-of-exchange argument in which *tugudu* cloth figures
+- https://en.wikipedia.org/wiki/Tiv_people
+- Smithsonian Folkways, Nigeria recordings: https://folkways.si.edu/search?query=Tiv+Nigeria
+- British Museum online collection, Tiv material (search by Ethnic group "Tiv"): https://www.britishmuseum.org/collection
+- Smithsonian National Museum of African Art: https://africa.si.edu/collections/
+- The Metropolitan Museum of Art, African collection: https://www.metmuseum.org/art/collection
 

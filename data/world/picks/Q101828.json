@@ -980,38 +980,6 @@
     "featured": true
    }
   ],
-  "architectural": [
-   {
-    "source": "bm",
-    "id": "A_As1910-1119-75",
-    "name": "model building/structure",
-    "kind": "model building",
-    "title": "model building/structure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_7/c4006a2b_7342_4b99_a2cd_a3b700774049/preview_00035460_001.jpg",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a model of a traditional thatched house with a steep gabled reed roof and reed-bundle walls, consistent with the known form of the Ainu \"cise\" dwelling. It plausibly represents Ainu vernacular architecture as a model/miniature.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1910-1119-76",
-    "name": "model building/structure",
-    "kind": "model building",
-    "title": "model building/structure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/9d874354_9a7f_4ba0_820e_a3b600761048/preview_00174816_001.jpg",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a model of a raised, thatched-roof storehouse on stilts, a building type consistent with traditional Ainu granaries (pu) built to protect stores from moisture and animals. Nothing in the image contradicts the Ainu attribution.",
-    "featured": true
-   }
-  ],
   "instruments": [
    {
     "source": "met",
@@ -1224,6 +1192,38 @@
     "confidence": "HIGH",
     "reason": "The photo shows a bearded Ainu man wearing a traditional layered robe (attush-style bark-fiber or woven garment), a documentary portrait consistent with 19th-century ethnographic photography of Ainu people.",
     "featured": false
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "bm",
+    "id": "A_As1910-1119-75",
+    "name": "model building/structure",
+    "kind": "model building",
+    "title": "model building/structure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_7/c4006a2b_7342_4b99_a2cd_a3b700774049/preview_00035460_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a model of a traditional thatched house with a steep gabled reed roof and reed-bundle walls, consistent with the known form of the Ainu \"cise\" dwelling. It plausibly represents Ainu vernacular architecture as a model/miniature.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1910-1119-76",
+    "name": "model building/structure",
+    "kind": "model building",
+    "title": "model building/structure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/9d874354_9a7f_4ba0_820e_a3b600761048/preview_00174816_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a model of a raised, thatched-roof storehouse on stilts, a building type consistent with traditional Ainu granaries (pu) built to protect stores from moisture and animals. Nothing in the image contradicts the Ainu attribution.",
+    "featured": true
    }
   ]
  }

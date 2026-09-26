@@ -8,164 +8,173 @@ tags: [ethnography, oceania]
 ## At a glance
 | | |
 |---|---|
-| Who | Māori, the indigenous Polynesian people of New Zealand |
-| Where | Aotearoa (New Zealand), with a large diaspora in Australia |
-| How many | c. 900,000 in New Zealand; c. 1 million including diaspora |
-| Language | Te reo Māori, an Eastern Polynesian language |
-| Religion | Christianity (including Rātana and Ringatū), alongside traditional Māori cosmology |
-| Known for | wood carving (whakairo) · greenstone (pounamu) work · tattoo (tā moko) · haka dance · carved meeting houses (wharenui) |
+| Who | Māori, the indigenous Polynesian people of Aotearoa New Zealand |
+| Where | Aotearoa New Zealand, concentrated in the North Island (Northland, Waikato, Bay of Plenty, Gisborne, Te Urewera) and urban Auckland |
+| How many | 978,246 people (19.6% of New Zealand's population as of 2023) |
+| Language | Te reo Māori, an Eastern Polynesian language of the Austronesian family |
+| Religion | 53.5% no religion; 29.9% Christian; 7.7% Māori religions including Rātana and Ringatū |
+| Known for | Intricate wood carving (whakairo) on monumental scale · Finger-twined cloaks (whatu) made without looms · Chiselled facial tattoos (tā moko) as genealogical records · Earth-oven cooking (hāngī) · Oral tradition and genealogy (whakapapa) |
 
 ## Overview
 
-The Māori are the indigenous people of New Zealand, descended from Eastern Polynesian voyagers who arrived in the late thirteenth century. They adapted their material culture to a temperate land, developing distinctive traditions in wood carving, flax weaving, and greenstone work. Society is organised by descent into extended families, sub-tribes and tribes, each connected to an ancestral canoe. After a century of language decline and land loss following the 1840 Treaty of Waitangi, a sustained renaissance since the 1970s has restored te reo Māori to official status and returned traditional practices to living use.
+Māori descended from East Polynesian voyagers who arrived between 1250 and 1350 CE. Centuries of isolation in New Zealand's cool climate produced distinctive material culture: finger-twined flax cloaks, curvilinear wood carving, and a tattoo system that records descent. Today about 19.6% of New Zealand's population is Māori, with strong cultural institutions including the marae (community centre), kapa haka performance, and revived language transmission.
 
 ## Material culture
 
-Māori material culture centres on two great crafts—wood, bone and stone carving, and finger-woven flax fibre—both understood as the work of ancestors made visible and carrying spiritual weight.
+Māori material culture centres on carved wood, woven flax, and worked bone and stone, with no pottery or metalwork before European contact.
 
 ### Textile & pattern traditions
 
-Without a loom, Māori developed finger-twining and plaiting techniques using silky inner fibre from flax leaves, producing cloaks of extraordinary fineness and ornamental wall and rafter panels.
+Plaiting in harakeke (flax) and finger-twining without looms create baskets, mats, and prestige cloaks that remain central to Māori identity.
 
-- **Flax fibre** (*muka*) — Inner fibre of the harakeke leaf, scraped free with a shell, washed, pounded and rolled into two-ply cord for fine weaving.
-- **Finger-twining** (*whatu*) — Downward twining technique worked on upright pegs without a loom, the defining structural method of cloak-making.
-- **Plaiting** (*raranga*) — Checkerwork and twill plaiting of whole or split flax leaf used for floor mats, food baskets and platters.
-- **Coloured border weaving** (*tāniko*) — Intricate geometric borders worked in dyed fibre by modified twining, producing triangles, chevrons and diamonds in black, red-brown and yellow.
-- **Lattice wall panels** (*tukutuku*) — Ornamental panels of horizontal laths and vertical rods stitched with dyed plant fibres, worked in named patterns such as poutama, the stepped stairway of knowledge.
+- **Finger-twined cloak** (*whatu*) — All Māori cloaks are made by finger-twining off a suspension cord with no loom, using two-pair and four-pair variants to control density.
+- **Prestige cloak** (*kākahu*) — A cloak of dressed muka held on the shoulders, worn as a visible sign of rank and still worn at graduations, weddings, and funerals.
+- **Tassel cloak** (*korowai*) — A muka cloak hung with rows of black-dyed rolled flax tassels, dyed in iron-rich swamp mud, giving a mobile, rattling surface.
+- **Feather cloak** (*kahu huruhuru*) — A muka foundation covered in overlapping kiwi, kererū, kākā, tūī and huia feathers arranged in blocks and bands; all-kiwi cloaks hold the highest status.
+- **Painted scroll ornament** (*kōwhaiwhai*) — Red, black and white painted curves on the ridgepole and rafters of a wharenui, bilaterally reflected and named rather than freely improvised.
 
 ### Clothing & dress
 
-Dress centred on rectangular garments worn around the waist and shoulders, with the cloak as the pinnacle—a treasured heirloom worn at major life events.
+Pre-contact dress was built from flax rather than bark cloth, with a waist garment and cloak worn according to rank and occasion.
 
-- **Cloak** (*kākahu*) — Woven shoulder garment in many named types, passed down as an heirloom and worn at graduations, weddings and funerals.
-- **Tag cloak** (*korowai*) — Cloak whose ground is covered in hanging dyed black rolled cords, one of the most widely recognised forms.
-- **Feather cloak** (*kahu huruhuru*) — Cloak densely covered with feathers from kiwi, wood pigeon and other forest birds, the highest-status garment.
-- **Flax skirt** (*piupiu*) — Waist garment of rolled and scraped flax tubes dyed in bands, today standard performance dress that rattles in movement.
-- **Cloak pin** (*aurei*) — Whale-bone or greenstone pin used to fasten the cloak at the shoulder, also worn as an ornament.
+- **Waist garment** (*piupiu*) — Suspended flax tubes scraped in alternating bands so exposed muka takes dye black while unscraped sections stay pale, flashing when the wearer moves.
+- **Geometric border** (*tāniko*) — Weft-twined border technique in dyed muka applied to cloak hems, headbands, and belts in rectilinear patterns like triangles and chevrons.
+- **Sandal** (*pāraerae*) — Plaited flax sandals made for rough travel, though feet were usually bare.
+- **Headband** (*tīpare*) — A plaited or tāniko headband worn by women; chiefly men wore a topknot with feathers and a comb.
+- **Cloak pin** (*aurei*) — A bone, wood, or greenstone pin used to fasten cloaks at the shoulder.
 
 ### Architecture
 
-Māori building centres on the marae, a ceremonial courtyard, and the great carved meeting house conceived as the body of an ancestor.
+The marae complex centres on the wharenui (carved great house), understood as an ancestor's body, surrounded by storage, dining, and sleeping structures.
 
-- **Meeting house** (*wharenui*) — Large gabled communal house with a deep porch, carved and painted throughout, used for gatherings, debate, sleeping and funerary rites.
-- **Carved wall figures** (*poupou*) — Upright ancestral figures set along the interior walls, each representing a named forebear in the house's genealogy.
-- **Door lintel** (*pare*) — Carved lintel above the doorway, often with a central female figure and flanking guardian figures, marking the threshold between sacred and everyday.
-- **Storehouse** (*pātaka*) — Raised storehouse on posts for preserved food and valuables, often the most elaborately carved building on a settlement.
-- **Fortified settlement** (*pā*) — Terraced and palisaded hilltop settlements with ditches and banks, thousands of which remain visible as earthworks in the landscape.
+- **Great house** (*wharenui*) — The principal structure of a marae, with the ridgepole as spine, rafters as ribs, bargeboards as arms, a mask at the gable as head, and carved ancestor slabs alternating with lattice panels inside.
+- **Storage house** (*pātaka*) — A raised, richly carved storehouse elevated on posts to guard food from rats and display the community's surplus.
+- **Dining house** (*wharekai*) — A deliberately unrestricted (noa) dining house kept apart from the tapu wharenui.
+- **Sleeping house** (*whare puni*) — A low, earth-banked sleeping house.
+- **Fortified village** (*pā*) — A strategically sited village fortified with ditches, banks, palisades, and terraced platforms, most densely built in the north.
 
 ### Ceramics, metalwork & everyday objects
 
-Māori made neither pottery nor metal before European contact; instead, great skill went into carving wood, bone and stone, and into building the ocean-going canoe.
+Māori worked no pottery or metal before contact; identity instead centres on wood carving and bone and stone working.
 
-- **War canoe** (*waka taua*) — Long plank-built canoe with a towering openwork sternpost and carved prow, paddled by scores of men and the supreme communal artwork of a tribe.
-- **Wood carving** (*whakairo rākau*) — The overarching carving tradition, worked with stone adzes and later steel, in hard timber such as tōtara.
-- **Feather box** (*waka huia*) — Small lidded box carved on all surfaces including the underside, held feathers and combs and was hung from rafters to be viewed from below.
-- **Greenstone club** (*mere pounamu*) — Flat, spatulate short club of nephrite jade used in close combat with a thrusting strike, the pre-eminent chiefly heirloom.
-- **Earth oven** (*hāngī*) — Pit oven of heated stones in which food is steamed under cloth and earth; in geothermal regions, natural steam and boiling pools are used directly.
+- **Treasure box** (*waka huia*) — A lidded carved box for storing head-combs and feathers, carved on every surface including the underside because it hung from rafters.
+- **War canoe** (*waka taua*) — A canoe up to 30 metres long with a pierced openwork prow and towering sternpost.
+- **Digging spade** (*kō*) — A wooden spade used for tending gardens, hafted with plaited lashing.
+- **Fish hook** (*matau*) — Hooks made of bone and shell for fishing.
+- **Hand club** (*mere pounamu*) — A greenstone hand club that doubles as a weapon and as regalia, inherited through families.
 
 ### Jewelry & body adornment
 
-Personal adornment concentrates on greenstone from the South Island and on tattoo, which is a permanent statement of identity and rank rather than mere ornament.
+Greenstone pendants and facial tattoos mark descent and rank, with the full-face tattoo carrying a readable record of genealogy.
 
-- **Greenstone** (*pounamu*) — Nephrite jade worked by laborious sawing and abrasion with sandstone, traded the length of the country in several named colour varieties.
-- **Neck pendant** (*hei tiki*) — Stylised human figure with tilted head and hands on thighs, worn at the neck and passed between generations, accruing the mana of each wearer.
-- **Tattoo** (*tā moko*) — Chiselled tattoo applied with bone chisels into grooved skin, worn full-face by men and on chin and lips by women, recording descent and standing.
-- **Ear pendant** (*kuru*) — Straight or curve-tipped greenstone drops worn in the ear, often paired with a shark-tooth pendant.
-- **Carving motifs** (*koru, manaia, pākati*) — The unfurling fern-frond, the beaked guardian figure, and dog-tooth notching that fills surface bands—the shared grammar of carved and painted ornament.
+- **Human-form pendant** (*hei tiki*) — A pendant of nephrite jade worn on the chest with head tilted, inherited through generations and gaining mana with each wearer.
+- **Fish-hook pendant** (*hei matau*) — A greenstone pendant shaped like a fishhook, worn as jewellery.
+- **Facial tattoo** (*tā moko*) — Grooved into skin with an albatross-bone chisel, creating a legible, inherited record of descent that served as a signature and status marker.
+- **Chin and lip tattoo** (*moko kauae*) — A tattoo worn on the chin and lips, historically suppressed but now worn by Māori women in public office.
+- **Ear pendant** (*kuru*) — A pendant worn in the ear, made of bone, shell, or greenstone.
 
 ## Music & performance
 
-Traditional Māori music is overwhelmingly vocal and text-bearing, serving genealogy, lament and welcome, with instruments largely reconstructed since the 1980s.
+Vocal music carries greater weight than instruments; traditional sung poetry and formal oratory remain central to all gatherings.
 
-- **Chant** (*waiata*) — Sung poetry in named genres including lament, love song and lullaby, typically narrow in range and sung in unison.
-- **Rhythmic chant** (*karakia*) — Ritual incantations and protective chants that open meetings and regulate sacred conduct.
-- **Flutes** (*kōauau, nguru*) — Short cross-blown and nose-blown flutes of wood, bone or stone, played with intimate breathy tone.
-- **Two-voiced flute** (*pūtōrino*) — Bugle-shaped instrument unique to Māori, with a central figured mouth, capable of both a flute voice and a trumpeted voice.
-- **Action song** (*waiata-ā-ringa*) — Twentieth-century song set to Western harmony with synchronised hand movements illustrating the text, now central to competition.
+- **Traditional sung poetry** (*mōteatea*) — Laments, love songs, and lullabies performed in a narrow melodic range with continuous breath overlap so the line never breaks.
+- **Ceremonial call** (*karanga*) — A high ceremonial call of women that opens a formal welcome, made in a characteristic rising tone.
+- **Formal oratory** (*whaikōrero*) — Formal male oratory opened by a tauparapara chant, a core element of all formal gatherings.
+- **Short cross-blown flute** (*kōauau*) — A flute of wood, bone, or albatross wing, one of the taonga pūoro (treasured sound instruments) reconstructed from museum specimens.
+- **Two-voiced bugle** (*pūtōrino*) — A unique Māori instrument with a central figure-mouth giving both a low male trumpet voice and a high female flute voice.
 
 ## Dance & theatre
 
-Performance is communal and disciplined, with the kapa haka group standing in ranks as the standard performing unit and intense competition between groups.
+Kapa haka is the central performance form, grouping haka, action songs, poi, and entrance sequences, with origins credited to the ancestor Tinirau.
 
-- **Posture dance** (*haka*) — Vigorous chanted dance with stamping, thigh-slapping, dilated eyes and protruded tongue, performed by men and in some forms by women.
-- **Ka Mate** — The best-known haka, composed by the Ngāti Toa chief Te Rauparaha in the 1820s and made globally familiar by the national rugby team.
-- **Poi** — Light balls on cords swung in rhythmic patterns against the body and hands by women, historically also used in wrist training for men.
-- **Stick game** (*tītī tōrea*) — Rhythmic game in which short sticks are tapped and thrown between seated partners at increasing speed.
-- **Challenge** (*wero*) — Formal challenge in which an armed warrior advances on arriving visitors and lays down a token to be picked up, testing intent before welcome.
+- **War haka** (*haka*) — Not solely war dances; peruperu is leaping with weapons, tūtū ngārahu is standing, haka taparahi is ceremonial and weaponless, and ngeri is short and unchoreographed.
+- **Leaping war haka** (*peruperu*) — A vigorous haka performed with weapons, involving rapid leg movements and body slaps.
+- **Light-ball dance** (*poi*) — Light balls on cords historically of raupō and flax, danced chiefly by women in single and double forms, struck against hand and body in rhythmic counterpoint.
+- **Action song** (*waiata-ā-ringa*) — Action songs shaped from the 1910s onward to European harmony and guitar accompaniment by Āpirana Ngata and Paraire Tomoana.
+- **National kapa haka competition** (*Te Matatini*) — Held biennially since 1972 as the national kapa haka competition, now a major cultural event.
 
 ## Festivals & rituals
 
-Ritual life is anchored in the marae and in protocols governing encounter, death and the management of tapu, rather than a calendar of saints' days.
+Formal gatherings open with pōwhiri (welcome ritual); the three-day tangihanga (funeral wake) is the most tenacious Māori institution.
 
-- **Welcome ceremony** (*pōwhiri*) — Sequence of challenge, women's calling, speeches, song and pressing of noses by which visitors are brought from stranger to host status.
-- **Funeral gathering** (*tangihanga*) — Multi-day funeral on the marae at which the deceased lies in an open coffin surrounded by cloaks and photographs, with kin keeping vigil.
-- **Māori New Year** (*Matariki*) — Midwinter rising of the Pleiades marking the new year, observed with remembrance of the year's dead, feasting and planning.
-- **Unveiling** (*hura kōhatu*) — Unveiling of the headstone roughly a year after death, drawing the family together and closing the mourning period.
-- **Lifting of tapu** (*whakanoa*) — Rites involving water and cooked food that return a person or place from sacred restriction to ordinary use, performed after funerals and building openings.
+- **Pleiades new year** (*Matariki*) — The heliacal rising in midwinter (June–July) opens the Māori new year, marking remembrance of the dead, star-reading for the harvest, and feasting; became a public holiday in 2022.
+- **Formal welcome** (*pōwhiri*) — An opening ritual combining challenge, call, speeches, songs, gift, and the nose-press (hongi) that makes the visitor tangata whenua (people of the land).
+- **Funeral wake** (*tangihanga*) — A three-day wake on the marae with the open coffin attended day and night, the deceased addressed directly in oratory.
+- **Ritual challenge** (*wero*) — An armed warrior's ritual challenge performed as part of formal welcomes and the pōwhiri opening.
+- **Tapu restriction** (*rāhui*) — A closure on a place or species to use, such as after a drowning or to let a fishery recover.
 
 ## Foodways
 
-Traditional subsistence combined cultivation of the sweet potato and other crops adapted to temperate climate with intensive fishing, fowling and gathering, regulated by seasonal prohibitions.
+Founding crops were Polynesian (kūmara, taro, gourd, bracken fern); the signature cooking method is the hāngī (earth oven).
 
-- **Sweet potato** (*kūmara*) — The staple cultivated crop, grown in raised gravel-mulched plots and stored in underground pits over winter.
-- **Wood pigeon** (*kererū*) — Forest bird harvested for food, one of the protein sources that supplemented cultivation.
-- **Muttonbird** (*tītī*) — Seabird still harvested from southern islands under customary right by Rakiura Māori.
-- **Seafood** (*kaimoana*) — Gathered under strict tribal custody of the shore, including abalone, sea urchins, mussels, crayfish and fish.
-- **Geothermal cooking** — In Rotorua and Te Arawa districts, food is cooked directly in steam boxes and natural boiling pools, a distinctive regional practice.
+- **Sweet potato** (*kūmara*) — A founding Polynesian crop demanding elaborate management in temperate New Zealand through raised, gravel-mulched gardens and semi-subterranean storage pits.
+- **Earth oven** (*hāngī*) — Stones fire-heated in a pit, food layered over damp leaves and sacking, covered with earth and steamed for hours.
+- **Fermented corn** (*kānga pirau*) — Maize steeped in running water until fermented then boiled, a deliberately sour and strong-smelling delicacy.
+- **Sourdough bread** (*rēwena parāoa*) — A sourdough potato-bread developed after wheat arrived, still made from a kept potato 'bug' starter.
+- **Native greens** (*pūhā*) — Sow thistle boiled with pork bones, one of several gathered native greens including seaweed, fern shoots, and kawakawa leaf.
 
 ## Oral tradition & literature
 
-Before writing arrived in the 1810s, Māori knowledge was carried entirely in memorised speech and song, with genealogy as the organising framework of all knowledge.
+Genealogy (whakapapa) is the master framework of Māori knowledge, recited from the migration waka through named ancestors to the living.
 
-- **Genealogy** (*whakapapa*) — Genealogy recited from primal parents down to the living, the organising framework for land claims, marriage, precedence in speech and identity.
-- **Formal oratory** (*whaikōrero*) — Formal speeches on the marae judged on skilful embedding of proverb, song and genealogical allusion, a highly competitive art.
-- **Cosmological narratives** — Creation stories of the sky father and earth mother, the exploits of the trickster hero Māui, and voyaging traditions held in tribally distinct versions.
-- **Māori-language newspapers** (*niupepa*) — Extensive Māori-language newspaper press between the 1840s and 1930s, now digitised and a major historical source.
-- **Modern literature** — Contemporary literature in English and te reo by authors including Witi Ihimaera, Patricia Grace, Hone Tuwhare and Keri Hulme, with film adaptations reaching international audiences.
+- **Genealogy** (*whakapapa*) — Recited genealogy traceable from the migration waka through named ancestors to the living, the framework for all Māori knowledge and the source of oratory's authority.
+- **Mythological narrative** (*pūrākau*) — Narratives of sky and earth prised apart, the demigod Māui slowing the sun and fishing up the North Island, and river and harbour guardians.
+- **Proverb** (*whakataukī*) — Compressed sayings quoted in speeches, such as 'He tangata, he tangata, he tangata' (What is the greatest thing? It is people).
+- **Lullaby with genealogy** (*oriori*) — A lullaby composed to instruct a high-born child in its genealogy through song.
+- **String figures** (*whai*) — Figures made with string, performed as entertainment in pre-European whare tapere (entertainment houses).
 
 ## Language & religion
 
-Te reo Māori is an Eastern Polynesian language with a small sound system; fluency collapsed through the twentieth century but has been substantially revived since the 1970s.
+Te reo Māori is an Eastern Polynesian language with regional dialects; pre-contact knowledge was carried in recitation, carving, and tattoos.
 
-- **Te reo Māori** — Eastern Polynesian language with five vowels distinguished by length and ten consonants, with dialectal variation across tribes.
-- **Language-nest preschools** (*kōhanga reo*) — Movement from 1982 to revive te reo Māori through immersion preschools, followed by immersion schools, raising fluency from a small elderly minority.
-- **Traditional cosmology** — Recognition of a pantheon of departmental gods—Tāne of the forest, Tangaroa of the sea, Rongo of food, Tūmatauenga of war—and concepts of tapu, noa, mana and mauri.
-- **Ringatū church** — Indigenous church founded by the prophet Te Kooti in the 1860s, combining Christianity with traditional elements.
-- **Rātana church** — Indigenous church founded by Tahupōtiki Wiremu Rātana in 1918, combining faith healing with continuing political alliance and traditional worldview.
+- **Te reo Māori** (*te reo*) — An Eastern Polynesian language closest to Cook Islands Māori and Tahitian, with regional dialects differing in vocabulary and pronunciation but mutually intelligible.
+- **Prophetic movement** (*Rātana*) — A prophetic religious movement blending Māori spirituality with Christianity, one of the major Māori religions.
+- **Prophetic movement** (*Ringatū*) — A prophetic movement founded by Te Kooti, blending Māori spirituality with Christianity.
+- **Sacred state** (*tapu*) — A sacred or restricted state applied to people, places, and things; removal requires ritual involving water and cooked food.
+- **Unrestricted state** (*noa*) — An unrestricted or common state; contact with cooked food removes tapu, which is why food is noa and never enters the wharenui.
 
 ## Glossary
 
-- *iwi* — tribe
-- *tapu* — sacred restriction or sacredness
-- *mana* — inherited and earned authority or prestige
-- *noa* — ordinariness or the state of being free from restriction
-- *mauri* — life force
-- *marae* — enclosed ceremonial courtyard and its buildings
-- *harakeke* — New Zealand flax plant
-- *muka* — silky inner fibre of flax leaf
-- *whatu* — finger-twining weaving technique
-- *raranga* — plaiting technique for mats and baskets
-- *pounamu* — nephrite jade or greenstone
-- *tā moko* — chiselled facial tattoo
-- *whakairo* — wood carving
-- *haka* — vigorous chanted posture dance
-- *poi* — light balls on cords swung in rhythmic patterns
-- *waiata* — sung poetry or chant
-- *karakia* — ritual incantation or protective chant
-- *whakapapa* — genealogy
-- *whaikōrero* — formal oratory
-- *tangihanga* — funeral gathering
-- *Matariki* — Māori New Year marked by rising of the Pleiades
-- *kūmara* — sweet potato
+- *whakairo* — Wood carving, the primary art form of Māori culture
+- *whatu* — Finger-twining technique for making cloaks without a loom
+- *muka* — Dressed flax fibre extracted and processed for cloaks and weaving
+- *harakeke* — New Zealand flax plant used for plaiting baskets and mats
+- *kākahu* — Prestige cloak worn as a sign of rank and occasion
+- *korowai* — Cloak with tassel rows, dyed black and creating a rattling surface
+- *kahu huruhuru* — Feather cloak with kiwi, kererū, or other native bird feathers
+- *tāniko* — Weft-twined geometric border technique in rectilinear patterns
+- *piupiu* — Waist garment of suspended flax tubes with alternating dye bands
+- *kōwhaiwhai* — Painted scroll ornament on wharenui ridgepole and rafters
+- *wharenui* — Great house understood as an ancestor's body, central to the marae
+- *pātaka* — Raised carved storehouse displaying surplus and protecting food
+- *marae* — The community gathering place and ceremonial centre
+- *hei tiki* — Human-form greenstone pendant worn on the chest as heirloom
+- *tā moko* — Facial tattoo grooved into skin as a legible genealogical record
+- *moko kauae* — Chin and lip tattoo worn by Māori women
+- *pounamu* — Nephrite jade from the South Island's west coast, highest-value material
+- *mōteatea* — Traditional sung poetry including laments, love songs, and lullabies
+- *karanga* — High ceremonial call by women opening a formal welcome
+- *whaikōrero* — Formal male oratory that opens all formal gatherings
+- *haka* — Performed chant or dance; not solely war dances but multiple ceremonial forms
+- *poi* — Light balls on cords danced by women in rhythmic counterpoint
+- *whakapapa* — Genealogy recited from migration through named ancestors to the living
+- *pūrākau* — Mythological narratives of gods, demigods, and ancestors
+- *tapu* — Sacred or restricted state requiring ritual removal with water and cooked food
 
 ## Sources & further reading
 
-- Te Ara — The Encyclopedia of New Zealand (teara.govt.nz), especially the entries on whakairo, raranga me te whatu, tā moko, taonga pūoro and marae protocol.
-- Wikipedia: "Māori people", "Māori culture", "Whakairo", "Tā moko", "Pounamu", "Wharenui", "Haka", "Matariki".
-- UNESCO: New Zealand is not a State Party to the 2003 Intangible Cultural Heritage Convention, so Māori traditions carry no ICH inscriptions; Te Wāhipounamu – South West New Zealand and Tongariro National Park are inscribed on the World Heritage List, Tongariro as the first site listed for associative cultural landscape values on the basis of its Māori spiritual significance.
-- Roger Neich, Painted Histories: Early Māori Figurative Painting (1993) and Carved Histories: Rotorua Ngāti Tarawhai Woodcarving (2001).
-- Mick Pendergrast, Te Aho Tapu: The Sacred Thread — Traditional Māori Weaving (1987).
-- Anne Salmond, Hui: A Study of Māori Ceremonial Gatherings (1975) and Two Worlds (1991).
-- Richard Nunns and Hirini Melbourne, writings and recordings on taonga pūoro; Mervyn McLean, Māori Music (1996).
-- Museum of New Zealand Te Papa Tongarewa and Auckland War Memorial Museum collections online.
+- Hirini Moko Mead, *Te Toi Whakairo: The Art of Māori Carving*, Reed, 1986
+- Mick Pendergrast, *Raranga Whakairo: Māori Plaiting Patterns*, Reed, 1984
+- Awhina Tamarapa (ed.), *Whatu Kākahu / Māori Cloaks*, Te Papa Press, 2011
+- Michael King, *The Penguin History of New Zealand*, Penguin, 2003
+- Ngāhuia Te Awekotuku & Linda Waimarie Nikora, *Mau Moko: The World of Māori Tattoo*, Penguin, 2007
+- Brian Flintoff, *Taonga Pūoro: Singing Treasures*, Craig Potton, 2004
+- Apirana Ngata & Pei Te Hurinui Jones, *Ngā Mōteatea* (4 vols.), Auckland University Press
+- https://en.wikipedia.org/wiki/M%C4%81ori_people
+- Te Ara — The Encyclopedia of New Zealand: https://teara.govt.nz
+- Museum of New Zealand Te Papa Tongarewa collections: https://collections.tepapa.govt.nz
+- Auckland War Memorial Museum Tāmaki Paenga Hira collections: https://www.aucklandmuseum.com/collections
+- https://folkways.si.edu/search?query=Maori
+- British Museum Oceania collection: https://www.britishmuseum.org/collection
+- Metropolitan Museum of Art, Oceanic art: https://www.metmuseum.org/art/collection
 

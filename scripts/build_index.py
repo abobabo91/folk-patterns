@@ -510,6 +510,12 @@ def build() -> None:
             # readable image.
             if (r.get("cultural") or {}).get("vision_image") == "weak":
                 score -= 100
+            # Records from world_peoples.py pick carry the judge's QUALITY 1-5
+            # and whether they were among a category's top five: that ranking
+            # leads, the metadata score above only breaks ties.
+            cul = r.get("cultural") or {}
+            if cul.get("pick_quality"):
+                score += 20 * cul["pick_quality"] + (10 if cul.get("pick_featured") else 0)
             local = next((i["local_path"] for i in imgs if i.get("local_path")), None)
             acc = (src.get("accession_number") or "").strip()
             return {

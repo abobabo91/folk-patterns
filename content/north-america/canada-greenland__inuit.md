@@ -8,164 +8,157 @@ tags: [ethnography, north-america]
 ## At a glance
 | | |
 |---|---|
-| Who | Inuit, an Arctic people of the Inuit-Yupik-Unangan language family |
-| Where | Nunavut, Nunavik, Nunatsiavut and the Inuvialuit Settlement Region in Canada; Greenland; with related peoples in Alaska and Chukotka |
-| How many | Roughly 150,000 across the circumpolar world, about 70,000 in Canada and 50,000 in Greenland |
-| Language | Inuktut / Kalaallisut, a dialect continuum from the Mackenzie Delta to East Greenland |
-| Religion | Lutheran and Anglican Christianity layered over an older animist cosmology |
-| Known for | tailored two-layer fur clothing · kayak and skin boats · snow and sod architecture · throat singing · Cape Dorset printmaking and ivory carving |
+| Who | Inuit people, roughly 180,000 living across the North American Arctic and Greenland |
+| Where | Arctic coast from Alaska through Canada to Greenland |
+| How many | About 70,000 in Canada, 50,000 in Greenland |
+| Language | Inupiaq, Inuvialuktun, Inuinnaqtun, Inuktitut, Kalaallisut (Inuit-Inupiaq branch) |
+| Religion | Christian (Moravian, Anglican, Lutheran, Catholic); pre-Christian cosmology persists |
+| Known for | Tailoring and skin-working as survival and art · Throat singing (katajjaq) and drum dancing · Snow-building and cold-weather engineering · Sealskin mosaic (avittat) and beaded capes · Traditional diet of seal, whale, and caribou |
 
 ## Overview
 
-The Inuit are Arctic peoples who descend from the Thule culture and speak a continuous dialect chain across Canada and Greenland. They developed the most sophisticated cold-weather clothing system ever made, along with the kayak, snow house, and drum dance. Their material culture was built almost entirely from animals, with almost every object serving more than one purpose, optimised for one of Earth's most demanding environments.
+The Inuit are the Indigenous people of the Arctic, descended from the Thule who spread east from the Bering Strait around 1000 CE. They developed a refined cold-weather material culture where every seam serves both survival and beauty. Today they live across Alaska, Canada, and Greenland, speaking related polysynthetic languages and maintaining traditions of throat singing, drum dancing, and intricate skin-working alongside Christian practice.
 
 ## Material culture
 
-Inuit material culture draws on sea mammal, caribou, bone, ivory, and stone, with genius in tailoring, insulation, and waterproofing rather than surface ornament.
+Inuit material culture is dominated by skin and bone, with clothing and boot-making the supreme arts where insulation and decoration merge.
 
 ### Textile & pattern traditions
 
-Pattern in skin sewing comes from piecing contrasting furs and inserted decorative strips, with no loom weaving tradition.
+The Inuit developed ingenious two-layer fur suits and waterproof sealskin boots, with Greenlandic mosaic sealskin trim as the most labour-intensive decorative technique in the Arctic.
 
-- **Fur mosaic inlay** (*avittat*) — Narrow strips and geometric insets of contrasting light and dark sealskin pieced into trims and borders, developing into fine polychrome bands in Greenland.
-- **Waterproof gut seam** — Sinew-sewn seams that never fully penetrate the hide and swell shut when wet, making skin clothing and kayak covers watertight.
-- **Sakiak beadwork** — Dense beaded shoulder and collar panels on women's ceremonial dress, using imported glass beads in heavily patterned yokes.
-- **Sealskin mosaic** — Larger-scale pieced sealskin work in wall hangings, bags and contemporary fashion, using the natural range of seal pelt tones.
+- **Woman's parka** (*amauti*) — An Eastern Arctic parka with an oversized shoulder pouch and wide hood so infants ride bare-skinned against the mother's back and can swing forward to nurse.
+- **Two-layer caribou suit** (*atigi and qulittaq*) — Inner fur-side-in layer (atigi) and outer fur-side-out layer (qulittaq) with trapped air between them for insulation; winter skins cut from different animals for different loft.
+- **Waterproof boots** (*kamik*) — Sealskin boots sewn with sinew using a blind welted seam that swells shut when wet; Greenlandic versions dyed scarlet or white with sealskin mosaic tops.
+- **Sealskin mosaic** (*avittat*) — Hundreds of dyed sealskin slivers spliced into geometric bands for boot tops and trousers, executed entirely in skin rather than thread.
+- **Greenlandic national costume** (*kalaallisuut / annoraaq*) — Formal dress including a glass-bead cape (nuilarmiut), sealskin shorts, dyed high boots with avittat inlay, and embroidered anorak, worn at confirmations and National Day.
 
 ### Clothing & dress
 
-The Inuit clothing system uses two layers with trapped air between them—an inner layer with fur inward and an outer layer with fur outward—making it the most sophisticated cold-weather tradition ever developed.
+Women's sewing was a central survival skill and social asset, with each garment calculated for its specific environment and use.
 
-- **Amauti** — Woman's parka with a deep back pouch and oversized hood where an infant rides naked against the mother's back, a definitive Inuit garment and symbol of motherhood.
-- **Inner parka** (*atigi*) — Lighter inner coat worn with fur against the body, forming the first insulating layer of the two-layer system.
-- **Outer parka** (*qulittaq*) — Heavier outer coat commonly made of caribou with hair outward, often edged in wolverine or wolf fur at the hood so frost brushes off rather than building up.
-- **Boots** (*kamik*) — Sealskin or caribou boots sewn waterproof for summer and built with insulating inner stocking for winter, with elaborate fur mosaic bands in Greenland.
-- **Greenlandic national costume** (*kalaallisuut*) — Modern ceremonial dress combining a beaded yoke, patterned sealskin shorts, red or white boots with fur inlay, and imported cloth, worn at confirmations and national occasions.
+- **Snow goggles** (*iggaak*) — Carved from wood, bone or antler with a hairline slit to cut glare on spring ice.
+- **Mittens** (*pualuk*) — Hand covering worn over the paired fur suit by both sexes.
+- **Inner slipper-liner** (*mitsi*) — Hare or bird-skin liner worn inside kamik boots for dry cold.
+- **Outer windshell layer** (*silapaaq*) — Gut-skin or cotton-drill layer worn over the fur suit to shed snow and spray.
 
 ### Architecture
 
-Inuit building is seasonal and transportable—winter forms of snow or sod, summer forms of skin—with no permanent settlement architecture before the twentieth century.
+Inuit built seasonally for mobility: snow domes for winter, semi-subterranean houses for autumn, and skin tents for summer.
 
-- **Snow house** (*iglu*) — Domed winter dwelling of cut snow blocks laid in a rising spiral with a sunken entrance tunnel and raised sleeping platform, heated by a single oil lamp to temperatures far above the outside air.
-- **Sod house** (*qarmaq*) — Semi-subterranean winter dwelling of stone, whalebone or driftwood framing covered with turf and skins, the standard Thule-era winter house.
-- **Skin tent** (*tupiq*) — Summer tent of sealskin or caribou hide over a light frame, weighted at the edges with stones whose rings often survive as archaeological traces.
-- **Stone marker** (*inuksuk*) — Stacked stone figure built to mark routes, caches, fishing places or caribou drive lines, with the human-shaped variant becoming the emblem of Nunavut.
+- **Snow dome** (*iglu*) — Spiral-cut snow blocks sealed by interior glazing from a qulliq flame, with sleeping platform above a cold-sink entrance tunnel, built in an hour by two hunters.
+- **Cold-season semi-subterranean house** (*qarmaq*) — Excavated floor with whale-rib or driftwood rafters, sod and stone walls, skin or snow roof, rebuilt each autumn.
+- **Conical or ridge tent** (*tupiq*) — Summer sealskin tent held down by a ring of stones.
+- **Stone navigation and hunting markers** (*inuksuit / inunnguaq*) — Stacked stone figures used as navigation marks, caribou drive lines, and cache indicators, with inunnguaq built in human form.
+- **Ceremonial winter gathering iglu** (*qaggiq*) — Large iglu built for drum dancing, singing, song duels, trading and marriage arrangements.
 
 ### Ceramics, metalwork & everyday objects
 
-There is no pottery tradition and no indigenous metallurgy; the repertoire is stone, bone, antler, ivory and driftwood worked to a very high standard.
+No pottery tradition; instead, Inuit crafted essential tools from stone, bone, antler, ivory and driftwood.
 
-- **Woman's knife** (*ulu*) — Crescent-bladed knife with a handle set above the blade, used for skinning, butchering, cutting snow blocks and trimming skins, passed between generations of women.
-- **Oil lamp** (*qulliq*) — Shallow crescent of carved soapstone burning rendered seal or whale oil, the single source of heat, light and cooking in a winter dwelling.
-- **Kayak** (*qajaq*) — Single-hulled skin-on-frame hunting boat of driftwood or bone built to each hunter's body measurements, ancestor of every kayak in the world.
-- **Skin boat** (*umiaq*) — Large open skin boat rowed or paddled by a crew for moving families and goods, sometimes used for whaling and called the woman's boat.
-- **Tupilak carving** (*tupilak*) — Carved ivory or bone figures representing malevolent assembled objects originally created by shamans, now a major East Greenlandic carving tradition.
+- **Women's crescent blade knife** (*ulu*) — Central tool for skin-working, butchery and sewing-pattern cutting, with antler or bone handle; remains an identity emblem.
+- **Soapstone oil lamp** (*qulliq*) — Shallow lamp burning seal oil on a moss or Arctic-cotton wick, providing light, heat, cooking and the interior glaze for snow domes; lit ceremonially in Nunavut assemblies.
+- **Grotesque composite figures** (*tupilaq*) — East Greenlandic creatures in whale tooth, bone and antler, originally the material form of a revenge charm.
 
 ### Jewelry & body adornment
 
-Personal ornament is modest in quantity compared with clothing, but tattooing carried heavy social meaning and has become central to cultural revival.
+Inuit tattoos encoded family, origin and standing; modern ornament uses carved ivory, bone and glass beads.
 
-- **Facial tattoos** (*tunniit*) — Lines and chevrons tattooed on women's chins, cheeks and foreheads marking maturity and belonging, suppressed under missionary pressure and revived from the 2010s onward.
-- **Body tattoos** (*kakiniit*) — Tattooed bands and patterns on hands, arms, thighs and shoulders, each mark commonly tied to a life event and applied by skin-stitching with sinew.
-- **Amulets** — Small objects of bone, claw, tooth or skin sewn to clothing to attach an animal's qualities to the wearer, especially children's garments.
-- **Beaded ornament** — Post-contact glass beadwork applied to collars, headbands and bag fronts in dense geometric or fringed panels.
+- **Women's facial and hand tattoos** (*kakiniit / tunniit*) — Lines on chin, forehead, cheeks and hands applied by skin-stitching with soot-soaked thread, encoding origin, family and achievement; suppressed by missionaries, revived since the 2010s.
+- **Lip ornaments** (*sakiak*) — Bead- and ivory-trimmed labrets worn in the lip.
+- **Protective amulets** (*aarnguaq*) — Claw, tooth or miniature carving sewn into clothing for protection.
+- **Glass-bead cape** (*nuilarmiut*) — Greenlandic shoulder cape of thousands of glass beads in rosette and horizontal-band patterns, part of national costume.
 
 ## Music & performance
 
-Inuit music is overwhelmingly vocal and percussive, with the single-membrane drum as the only traditional instrument and the melodic instruments absent from the old repertoire.
+The frame drum is central, used in shamanic drum dance, while throat singing is the most distinctive Inuit performance genre.
 
-- **Drum dance** (*qilaut*) — Large hoop drum struck on the rim with a wooden beater, played by a soloist who sings and moves with it, the central performance form of Inuit ceremonial life.
-- **Throat singing** (*katajjaq*) — Competitive vocal game between two women standing face to face, producing rhythmic voiced and unvoiced sounds in interlocking patterns until one laughs or runs out of breath.
-- **Personal song** (*pisiq*) — Composed song belonging to an individual, recounting a hunt or grievance and sometimes passed on as a form of property.
-- **Song duel** — Formalised public exchange of mocking composed songs used to settle disputes without violence, with the audience deciding the loser.
-- **Greenlandic accordion music** (*kalattuut*) — Post-contact European instruments absorbed into Greenlandic dance music, particularly accordion polka repertoire.
+- **Frame drum** (*qilaut / qilaat*) — Bent driftwood or baleen hoop with skin or bladder membrane, struck on the rim with a slim beater, producing a dry knock with ringing overtone.
+- **Drum dance** (*qilaujjarniq / qilaatersorneq*) — Shamanic performance welcoming spirits, used in settlement gatherings and to resolve disputes through song duels without violence.
+- **Throat singing game** (*katajjaq*) — Two women face to face interlocking voiced and unvoiced breath patterns over rhythmic ostinati, named after subjects like the saw or sled dog, played until one laughs.
+- **Personal songs** (*piseq / pisiit*) — Greenlandic songs composed by individuals about their hunting life or grievances and owned by the composer.
+- **Polka-derived dance music** (*kalattuut*) — Button accordion music brought by whalers, now the sound of a Greenlandic party.
 
 ## Dance & theatre
 
-Performance is not divided into distinct dance and theatre genres; the drum dance carries narrative, satirical and dramatic functions, with masked performance mainly in the western reaches.
+Drum dancing is the core performance form; masked dances use distorted wooden faces to embody spirits and provoke laughter.
 
-- **Drum dancing** — Solo performance combining song, percussion and bent-knee swaying movement, historically opening and closing communal events and now performed at festivals and ceremonies.
-- **Greenlandic polka** (*kalattuut*) — Couple dance in European form adopted in the eighteenth and nineteenth centuries, danced to accordion at celebrations throughout Greenland.
-- **String figures** (*ajaraaq*) — Elaborate string games accompanied by chanted narration, functioning as both pastime and storytelling medium, traditionally restricted to particular seasons.
-- **Mimetic and comic play** — Imitation of animals, absent persons and outsiders formed a large part of winter entertainment, shading from mime into satire.
+- **Community drum dance** (*drum dance*) — Single dancer inside a circle with flexed knees and pumping torso, drumming their own song while the community answers the refrain.
+- **Grotesque solo mask dance** (*uaajeerneq*) — Greenlandic face painted black, red and white with mouth stuffed to distort features, explicitly grotesque and sexual, used to test and toughen audiences.
+- **East Greenlandic mask dances** (*mask dance*) — Carved wooden faces with asymmetrical, deliberately distorted features to embody spirits and provoke laughter.
 
 ## Festivals & rituals
 
-Ritual life followed the year of the hunt and the return of the sun, reorganised around Christian observance after the nineteenth century.
+The Arctic calendar pivots on the return of the sun after polar night; dense naming and life-cycle practices mark births, hunts, marriages and deaths.
 
-- **Return of the sun** (*Qaumaniq*) — Celebration of the sun's reappearance after the polar night, marked by extinguishing and relighting lamps, games and feasting.
-- **Bladder and sea-mammal rites** — Ceremonies returning the bladders or bones of hunted sea mammals to the water so the animal's soul could be reborn.
-- **First-hunt celebration** — Communal marking of a young hunter's first significant catch, with the meat commonly distributed to elders.
-- **Nunavut Day** — Modern civic festival on 9 July at which national costume, drum dance and traditional food are publicly displayed.
-- **Games and athletics** — Arctic Winter Games and community contests preserving traditional trials of strength including the one-foot high kick and knuckle hop.
+- **Solstice National Day** (*Ullortuneq*) — Greenlandic celebration on 21 June marking the sun's return, the occasion for wearing the national costume.
+- **Midwinter drum-dance assemblies** (*qaggiq gathering*) — Winter gathering of scattered camps for singing, song duels, trading and marriage arrangements in a large ceremonial iglu.
+- **Name-soul inheritance** (*atiq*) — Newborn receives the name-soul of a recently deceased relative and is addressed by that person's kin terms.
+- **First kill distribution** (*first seal / first caribou*) — Boy's first large game is distributed through the camp rather than kept, marking entry into the hunt.
+- **Conversion ritual** (*siqqitiq*) — Converts ate forbidden food to break taboos and formally mark the transition to Christianity.
 
 ## Foodways
 
-Until the twentieth century Inuit diet was almost entirely animal, and traditional country food remains a central marker of identity and a functioning sharing institution.
+The traditional diet is almost entirely animal, roughly 75 percent fat, eaten raw or fermented to remain nutritionally complete.
 
-- **Quaq** — Frozen raw meat sliced thin, a traditional preparation eaten in the Arctic diet.
-- **Mattak** — The skin and adjacent blubber of narwhal or beluga, valued as a delicacy and as a significant source of vitamin C in a plant-poor diet.
-- **Igunaq** — Aged meat fermented in skin containers and under stone caches, with a strong flavour.
-- **Kiviaq** — Small auks packed whole into a sealskin and left to ferment under stone, a Greenlandic preparation.
-- **Country food sharing** — A catch is shared across a community according to established relationships, with sharing networks remaining a functioning institution.
+- **Frozen raw meat chips** (*quaq / quaqtaq*) — Frozen raw meat or fish shaved into chips with an ulu.
+- **Fermented aged meat** (*igunaq*) — Meat or walrus aged in its own hide in a stone cache until fermented.
+- **Raw whale skin and blubber** (*mattaq / muktuk*) — Whale skin with blubber attached, chewed in cubes, rich in vitamin C.
+- **Rendered seal or whale oil** (*misiraq*) — Oil used as a dip for everything dry.
+- **Greenlandic seal and whale soup** (*suaasat*) — National soup of seal, whale or seabird with onion, potato and rice or barley.
 
 ## Oral tradition & literature
 
-Before the nineteenth century Inuit literature was entirely oral, carried in narrative, song and memorised knowledge now formalised as Inuit Qaujimajatuqangit.
+No single epic; instead a shared corpus of narrative held across the whole Arctic, with Sedna as the central figure.
 
-- **Sedna cycle** (*Sedna*) — The woman cast from a boat whose severed fingers became the sea mammals and who governs the sea's willingness to give them up, central to Inuit cosmology.
-- **Kaujjajjuk** — Narrative cycle of an orphan who grows strong through spirit aid, a widespread story.
-- **Inuktitut syllabic script** — Syllabic script adapted from Cree syllabics by missionaries, adopted rapidly across the Canadian Arctic and remaining in official use in Nunavut.
-- **Greenlandic printed literature** — Roman-alphabet Kalaallisut literature from the nineteenth century onward, including Mathias Storch's 1914 novel, generally the first Greenlandic novel.
-- **Fifth Thule Expedition records** — Knud Rasmussen's 1921-24 expedition recorded a large body of songs and narratives that remains foundational to understanding Inuit tradition.
+- **Woman at the bottom of the sea** (*Sedna / Sanna / Nuliajuk / Takannaaluk*) — Master figure who withholds game animals when human taboos are broken and must be placated by a shaman's soul-journey to comb her hair.
+- **Wandering hero cycles** (*Kiviuq*) — Episodic travels among shape-shifters and giants, running to dozens of hours in full telling.
+- **Sea creature taking children** (*Qalupalik*) — Spirit who takes children from the ice edge.
+- **Stories of earlier giants** (*Tuniit*) — Remembered as giants stronger than Inuit who receded before them.
+- **True old accounts** (*unikkaaqtuat*) — Stories held to be true accounts.
 
 ## Language & religion
 
-Inuktut and Kalaallisut are polysynthetic languages with great morphological density, where a single word can carry the content of an English sentence and contain fine-grained vocabulary for conditions of snow, ice and sea.
+Inuit languages are polysynthetic, building sentence-length words; most Inuit are now Christian, but pre-Christian cosmology persists in practice.
 
-- **Polysynthetic structure** — Inuit languages build words from a root and a long chain of suffixes, allowing one word to carry the content of an English sentence.
-- **Snow and ice vocabulary** — The languages contain fine-grained vocabulary distinguishing conditions of snow, ice and sea state that matter for travel and hunting.
-- **Inua concept** (*inua*) — The belief that persons, animals and land features possess an indwelling person or owner, central to the older cosmology.
-- **Shaman** (*angakkuq*) — The specialist in the older religion who diagnosed breaches of prohibitions, made confession public, and travelled in trance to petition beings who controlled the game.
-- **Naming practice** — A child given the name of a recently deceased relative is addressed by that person's kin terms and understood to carry something of their identity, a custom that persists alongside church membership.
+- **Prestige written languages** (*Inuktitut / Kalaallisut*) — The two most closely related languages; Inuktitut written in syllabics adapted from Cree, Kalaallisut in Latin orthography.
+- **Deaf language isolate** (*Inuit Sign Language*) — Around 50 users; an isolate not related to other sign languages.
+- **Indwelling person of animals or places** (*inua*) — Concept at the heart of Inuit cosmology.
+- **Helping and hostile spirits** (*tuurngait*) — Spirit beings shamans negotiated with.
+- **Shamans** (*angakkuit*) — Negotiators with Sedna and Sila (weather-air), now obsolete but remembered in language and practice.
 
 ## Glossary
 
-- *amauti* — Woman's parka with a back pouch for carrying an infant
-- *angakkuq* — Shaman or spiritual specialist in the older religion
-- *atigi* — Inner parka worn as the first layer of the two-layer clothing system
-- *avittat* — Fur mosaic inlay using contrasting light and dark furs in strips and geometric patterns
-- *igunaq* — Aged meat fermented in containers under stone, with strong flavour
-- *iglu* — Snow house with domed structure built from cut snow blocks
-- *inua* — The indwelling person or owner believed to reside in animals, persons and landscape features
-- *inuksuk* — Stacked stone figure marking routes, caches, fishing places or caribou drives
-- *kakiniit* — Body tattoos applied to hands, arms, thighs and shoulders
-- *kalaallisuut* — Greenlandic national costume for ceremonies and formal occasions
-- *kalattuut* — Greenlandic polka dance and accordion music repertoire
-- *kamik* — Sealskin or caribou boots, sewn waterproof for summer or insulated for winter
-- *katajjaq* — Throat singing competition between two women producing interlocking vocal patterns
-- *kiviaq* — Small auks packed whole into a sealskin and fermented under stone
-- *Kalaallisut* — The official language of Greenland and a polysynthetic dialect of Inuktut
-- *pisiq* — Composed personal song about a hunt, journey or grievance, sometimes passed as property
-- *qajaq* — Single-hulled skin-on-frame hunting kayak built to individual measurements
-- *qarmaq* — Semi-subterranean sod house with stone, whalebone or driftwood framing
-- *qilaut* — Large hoop drum struck on the rim, used in ceremonial drum dance
-- *qulliq* — Shallow crescent-shaped oil lamp burning seal or whale oil with moss wick
-- *qulittaq* — Heavy outer parka commonly made of caribou with hair outward
-- *quaq* — Frozen raw meat sliced thin as a traditional food preparation
-- *tupilak* — Carved ivory or bone figure representing a malevolent assembled object
-- *tupiq* — Summer tent made of sealskin or caribou hide over a light frame
-- *tunniit* — Facial tattoos on women marking maturity, accomplishment and belonging
+- *amauti* — Woman's parka with infant pouch
+- *atigi* — Inner caribou-skin layer, fur-side in
+- *qulittaq* — Outer caribou-skin layer, fur-side out
+- *kamik* — Waterproof sealskin boot
+- *avittat* — Sealskin mosaic decoration
+- *ulu* — Women's crescent-bladed knife
+- *iglu* — Snow dome winter shelter
+- *qarmaq* — Semi-subterranean autumn house
+- *tupiq* — Sealskin summer tent
+- *inuksuit* — Stacked stone markers
+- *katajjaq* — Throat singing game between two women
+- *kakiniit* — Women's facial and hand tattoos
+- *tupilaq* — East Greenlandic revenge charm figure
+- *muktuk* — Whale skin with blubber
+- *qulliq* — Soapstone oil lamp
+- *inua* — Indwelling person of animal or place
+- *tuurngait* — Helping and hostile spirits
+- *angakkuit* — Shamans; spirit negotiators
+- *siqqitiq* — Christian conversion ritual
 
 ## Sources & further reading
 
-- Wikipedia: Inuit, Inuit culture, Inuit religion, Inuit art, Greenlandic Inuit, Inuit clothing, Inuit throat singing, Kayak, Igloo, Inuksuk
-- UNESCO Intangible Cultural Heritage: Drum dancing and singing in Greenland (inscribed on the Representative List, 2021)
-- Knud Rasmussen, Report of the Fifth Thule Expedition 1921–24 — the foundational early ethnographic record of Canadian Inuit song, narrative and religion
-- Franz Boas, The Central Eskimo (1888) — early systematic description of Baffin Island material culture
-- Handbook of North American Indians, Volume 5: Arctic (Smithsonian Institution, 1984) — standard regional reference
-- Betty Kobayashi Issenman, Sinews of Survival: The Living Legacy of Inuit Clothing (1997) — the standard work on skin sewing and garment construction
-- Jean Blodgett and Dorothy Harley Eber on Kinngait printmaking; the annual Cape Dorset Print Collection catalogues (West Baffin Eskimo Co-operative)
-- Nunavut Department of Culture and Heritage publications on Inuit Qaujimajatuqangit
-- Inuit Tapiriit Kanatami and the Inuit Circumpolar Council for contemporary demographic and language-vitality data
+- Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos (Report of the Fifth Thule Expedition 1921–24, Vol. VII), Gyldendal, 1929
+- Betty Kobayashi Issenman, Sinews of Survival: The Living Legacy of Inuit Clothing, UBC Press, 1997
+- Jill Oakes and Rick Riewe, Our Boots: An Inuit Women's Art, Douglas & McIntyre, 1995
+- Hugh Brody, The Other Side of Eden: Hunters, Farmers and the Shaping of the World, Douglas & McIntyre, 2000
+- Nelson Graburn on Inuit art and tourism; Jean Briggs, Never in Anger: Portrait of an Eskimo Family (Harvard, 1970); Bernard Saladin d'Anglure on Sedna and Inuit cosmology; Jean-Jacques Nattiez on katajjaq musicology; the Inuit Tattoo Revitalization Project on kakiniit
+- https://en.wikipedia.org/wiki/Inuit
+- https://folkways.si.edu/search?query=Inuit
+- Canadian Museum of History, Inuit collections: https://www.historymuseum.ca/collections/
+- Metropolitan Museum of Art: https://www.metmuseum.org/art/collection/search?q=Inuit
+- National Museum of Denmark (Greenland collections): https://en.natmus.dk/
 
