@@ -5,7 +5,7 @@
  "judged": 0,
  "cached": 67,
  "cost_usd": 0,
- "picks": {
+ "ranked": {
   "sculpture": [
    {
     "source": "cleveland",
@@ -19,7 +19,8 @@
     "era": "traditional",
     "quality": 5,
     "confidence": "HIGH",
-    "reason": "This wooden female figure with horn crest, upholstery-stud embellishment, and inset material in the torso (a magic cavity) is characteristic of Songye power figures (mankisi), matching the claimed ethnicity and museum attribution."
+    "reason": "This wooden female figure with horn crest, upholstery-stud embellishment, and inset material in the torso (a magic cavity) is characteristic of Songye power figures (mankisi), matching the claimed ethnicity and museum attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -33,7 +34,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden figure with an elaborate crested coiffure, scarification patterns on the torso, and stylized facial features consistent with Songye figural sculpture traditions from the DRC. This matches the claimed ethnicity's known corpus of anthropomorphic carved figures (though the \"four-faced\" multi-figure description isn't fully visible from this single frontal view)."
+    "reason": "The image shows a carved wooden figure with an elaborate crested coiffure, scarification patterns on the torso, and stylized facial features consistent with Songye figural sculpture traditions from the DRC. This matches the claimed ethnicity's known corpus of anthropomorphic carved figures (though the \"four-faced\" multi-figure description isn't fully visible from this single frontal view).",
+    "featured": true
    },
    {
     "source": "bm",
@@ -47,7 +49,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden male figurine with a raised coiffure, angular open-limb carving style, seated on a base, and a hollowed abdominal cavity likely intended to hold ritual/magical charge material — a form consistent with Songye power figures (nkisi) or ancestor figures from the region."
+    "reason": "The image shows a wooden male figurine with a raised coiffure, angular open-limb carving style, seated on a base, and a hollowed abdominal cavity likely intended to hold ritual/magical charge material — a form consistent with Songye power figures (nkisi) or ancestor figures from the region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -61,7 +64,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden female figure with an elongated neck, elaborate coiffure, mirror or shell-inlaid eyes, and copper/metal detailing at the torso — a style consistent with Songye or related Luba-area power/ancestor figures from the DRC region."
+    "reason": "The image shows a wooden female figure with an elongated neck, elaborate coiffure, mirror or shell-inlaid eyes, and copper/metal detailing at the torso — a style consistent with Songye or related Luba-area power/ancestor figures from the DRC region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -75,7 +79,53 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a standing wooden male figure with a carved coiffure, beard, and prominent features consistent with Songye (or closely related Luba-region) ancestor/power figure carving traditions, fitting the claimed sculpture category."
+    "reason": "The image shows a standing wooden male figure with a carved coiffure, beard, and prominent features consistent with Songye (or closely related Luba-region) ancestor/power figure carving traditions, fitting the claimed sculpture category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1907-0528-391",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/4dc26de0_83ab_42a1_a1f9_a50700e2c316/preview_EAF36263.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A squatting wooden human figure with an elaborate crested coiffure, resting chin on hands - this pose and style is consistent with Songye figural carving traditions, though it lacks the typical magical/power-figure attachments (horns, medicine packets) that often distinguish Songye pieces from Luba work, so exact attribution is uncertain but plausible for the region.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1232_1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_11/3_10/4eb7c830_7b93_4468_9c67_a6b300b198f9/preview_EAF51847.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden standing male figure with an elongated coiffure, closed slit eyes, open mouth, and ringed neck — a form consistent with Songye or related Central African wood carving traditions. This is a plausible object type for the Songye people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1947-25-2",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/24_13/fd912089_b97e_4ceb_adf6_a51d00daac15/preview_EAF48724.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden standing human figure with a pot belly, right hand raised to the ear, and stylized facial features carved on a rounded base — consistent with Songye figurative wood sculpture (though could equally be attributed to a related Luba-area style, this general form is plausible for the claimed people).",
+    "featured": false
    }
   ],
   "masks-ritual": [
@@ -91,7 +141,8 @@
     "era": "traditional",
     "quality": 5,
     "confidence": "HIGH",
-    "reason": "This is a classic Songye nkishi power figure with metal-clad face, horn, beaded collar, raffia skirt, and medicine-laden abdominal cavity, all consistent with Songye ritual carving traditions."
+    "reason": "This is a classic Songye nkishi power figure with metal-clad face, horn, beaded collar, raffia skirt, and medicine-laden abdominal cavity, all consistent with Songye ritual carving traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -105,7 +156,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden power figure (nkisi-type) with attached horn, fibre, seeds, and organic materials — a classic Songye-style minkisi fetish figure used for protection/ritual purposes, consistent with the claimed ethnicity."
+    "reason": "The image shows a wooden power figure (nkisi-type) with attached horn, fibre, seeds, and organic materials — a classic Songye-style minkisi fetish figure used for protection/ritual purposes, consistent with the claimed ethnicity.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -119,7 +171,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a wooden face mask with striped polychrome pigment (black, white, red bands) and a raised ridge, a form consistent with Songye kifwebe-type masks, which use exactly this kind of striated geometric painting for dance and ritual purposes."
+    "reason": "This is a wooden face mask with striped polychrome pigment (black, white, red bands) and a raised ridge, a form consistent with Songye kifwebe-type masks, which use exactly this kind of striated geometric painting for dance and ritual purposes.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -133,7 +186,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a carved wooden power figure/charm with a stylized human face, teeth inlays, feather headdress and a ring-form body designed to hold magical substances—consistent with Songye minkisi/power figure traditions used in ritual practice."
+    "reason": "This is a carved wooden power figure/charm with a stylized human face, teeth inlays, feather headdress and a ring-form body designed to hold magical substances—consistent with Songye minkisi/power figure traditions used in ritual practice.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -147,7 +201,113 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden divination instrument with a two-faced (Janus) head on a long neck above a handle, a form consistent with Songye/Luba-region divination and ritual carving traditions. This fits plausibly within the claimed Songye culture's use of ritual/divination objects."
+    "reason": "The image shows a carved wooden divination instrument with a two-faced (Janus) head on a long neck above a handle, a form consistent with Songye/Luba-region divination and ritual carving traditions. This fits plausibly within the claimed Songye culture's use of ritual/divination objects.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1127",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_11/3_10/f8ffb865_8155_4606_96bf_a6b300b18788/preview_EAF51797.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a large wooden mask with a tall crested ridge, protruding rectangular block-like mouth and eyebrows, and striated linear incisions with white pigment residue — consistent with Songye kifwebe mask style, used in ritual/society contexts.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1956-27-274",
+    "name": "dance-mask",
+    "kind": "mask",
+    "title": "dance-mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/d583601c_8beb_49df_8f99_a50700e2fce9/preview_EAF53208.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This striped, geometrically painted wooden face mask with a raised triangular nose and banded polychrome pattern is consistent with Songye kifwebe-type mask carving traditions, a hallmark ritual object of this people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-521",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/e84c0af5_5a93_49c0_b799_a50700e2ea56/preview_EAF49723.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden face mask with chevron/striped polychrome patterning and a raffia beard-fringe, consistent with Songye kifwebe-style masks made and used in ritual contexts by this people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1956-27-273",
+    "name": "dance-mask",
+    "kind": "mask",
+    "title": "dance-mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_12/17_11/a5d5e949_25fa_4016_abcc_ab2600c50cda/preview_EAF53207_front.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The mask shows a wooden dance mask with striated/hatched surface carving, a protruding tubular mouth, and elongated heart-shaped face — a style consistent with Songye (or closely related Luba/Songye-region) mask traditions of the DRC.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-502",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/999ae698_cf74_4ffa_9a7b_a50700e2e711/preview_EAF49707.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The mask shows a wooden carved face with striped black/white/red geometric pattern, heart-shaped eyes, and a protruding rectangular mouth—consistent with Songye kifwebe-style dance masks used in ritual and social control societies.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-2893",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/21_12/8f93d6b0_6263_419f_a4a2_a6a600c610f3/preview_EAF52744.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The object shows a wooden board with a carved face bearing incised radiating/striated linear patterns typical of Songye (and related Luba-Songye) kifwebe-style masking traditions, topped by a smaller subsidiary mask; this stylistic treatment is consistent with the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1235_1",
+    "name": "divination equipment",
+    "kind": "divination equipment",
+    "title": "divination equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_11/3_15/02c14db1_6574_4ebf_9ad6_a6b30103c3bf/preview_EAF148110.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden figure with a stylized head, beard, and geometric neck decoration on a conical base, consistent with divination equipment produced by Songye or related Luba-area carvers in the DRC. This type of ritual/divination figure is plausible for the claimed ethnicity.",
+    "featured": false
    }
   ],
   "household": [
@@ -163,7 +323,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden headrest supported by a standing human figure on a circular base, a form well known among Songye and related Luba-area peoples of the DRC, consistent with the claimed household object."
+    "reason": "The image shows a carved wooden headrest supported by a standing human figure on a circular base, a form well known among Songye and related Luba-area peoples of the DRC, consistent with the claimed household object.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -177,7 +338,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden stool with an hourglass/lens-shaped body wrapped in copper/metal strips and a circular seat and base, a form consistent with Songye and neighboring Luba-region prestige stools used as household/status furniture. This matches the claimed ethnicity and household category well."
+    "reason": "The image shows a wooden stool with an hourglass/lens-shaped body wrapped in copper/metal strips and a circular seat and base, a form consistent with Songye and neighboring Luba-region prestige stools used as household/status furniture. This matches the claimed ethnicity and household category well.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -191,7 +353,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a finely woven lidded cane basket with geometric patterning and a cord loop, a household storage type consistent with Central African (Songye region) basketry craft; nothing contradicts the claimed attribution."
+    "reason": "The image shows a finely woven lidded cane basket with geometric patterning and a cord loop, a household storage type consistent with Central African (Songye region) basketry craft; nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -205,7 +368,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The photograph documents a Songye carved wooden chair with intricate relief patterning, a plausible object type for this Congolese people known for their wood carving traditions."
+    "reason": "The photograph documents a Songye carved wooden chair with intricate relief patterning, a plausible object type for this Congolese people known for their wood carving traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -219,7 +383,128 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden comb with four teeth and a notched, incised handle, a plausible personal grooming/household object consistent with Central African (Songye or neighboring group) craft traditions."
+    "reason": "The image shows a carved wooden comb with four teeth and a notched, incised handle, a plausible personal grooming/household object consistent with Central African (Songye or neighboring group) craft traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1433",
+    "name": "container",
+    "kind": "container",
+    "title": "container",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/e8a18a59_ae7d_44b5_80d0_a50700e2f1f6/preview_EAF51930.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a gourd container wrapped with woven raffia and fitted with a plaited fibre carry strap — a plausible domestic vessel type for Central African peoples including the Songye, though such gourd containers are widely made across the region and cannot be attributed exclusively to one group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1909-Ty-977",
+    "name": "trap; fish-trap",
+    "kind": "trap",
+    "title": "trap; fish-trap",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/17_9/b817debd_d7f0_461c_97dd_a51600948b3f/preview_EAF38219.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven cane fish trap, a plausible everyday household/utilitarian object for a Central African riverine people such as the Songye; such traps are widely used across the Congo basin and are consistent with the claim, though not distinctive to this group alone.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-219",
+    "name": "tool/implement",
+    "kind": "tool",
+    "title": "tool/implement",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/382fe46a_2ce0_40b7_ab2c_a50700e2ef46/preview_EAF51392.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden-handled tool with a short iron blade bearing incised decoration, consistent with a Songye or broadly Central African carving/adze tool used in craft production. Such tools are plausible utilitarian items from this region and cannot be ruled out as Songye-made.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1909-Ty-982-a",
+    "name": "vessel",
+    "kind": "vessel",
+    "title": "vessel",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/c199aee3_7437_44a0_914d_a50700e2d58d/preview_EAF38224.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The object is a decorated gourd vessel with incised geometric patterns, a type of container used across Central African groups including the Songye; nothing contradicts the ethnic attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1909-Ty-983",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/5564764b_b64f_49a3_94c4_a50700e2d7a3/preview_EAF38226.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The bowl is a decorated gourd vessel with incised geometric patterns, a household container plausible for the Songye and neighboring Congolese groups, though the category \"ceramic\" is mislabeled since the museum's own description states it is gourd, not clay.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1415",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/21_8/01bef1ba_9ebf_48e5_86be_a6a60083f347/preview_EAF51921.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a wooden caryatid stool with a squatting figure supporting a round seat, a well-known Songye/Luba-region prestige object form used by chiefs and dignitaries; the carving style and figure treatment are consistent with Songye workmanship.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1890-1206-7",
+    "name": "head-rest",
+    "kind": "headrest",
+    "title": "head-rest",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/107d21f6_176f_4f23_aaa1_a50700e2b5d5/preview_EAF31857.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden headrest with a crescent-shaped top supported by two columns on a rectangular base, a classic Central African household object type consistent with Songye and neighboring Luba-region craft traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1909-Ty-981",
+    "name": "vessel",
+    "kind": "vessel",
+    "title": "vessel",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_8/27_8/87bcf9e6_3e4d_494a_9ff4_a501008c83d9/preview_EAF38223.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved and incised gourd vessel with a fitted lid, plausible as a Songye household container; the museum's own material description (gourd, fibre) contradicts the claimed \"ceramic\" category, but that does not affect ethnicity attribution.",
+    "featured": false
    }
   ],
   "arms": [
@@ -235,7 +520,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The picture shows a ceremonial iron axe with an openwork blade bearing incised face motifs and a wooden handle wrapped in copper wire — this style of ceremonial axe is consistent with Songye and neighboring Congolese prestige weaponry."
+    "reason": "The picture shows a ceremonial iron axe with an openwork blade bearing incised face motifs and a wooden handle wrapped in copper wire — this style of ceremonial axe is consistent with Songye and neighboring Congolese prestige weaponry.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -249,7 +535,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden dance-shield with a human face in relief and incised geometric border patterns, a type of ceremonial arms object consistent with Songye and neighboring Congo Basin traditions."
+    "reason": "The image shows a carved wooden dance-shield with a human face in relief and incised geometric border patterns, a type of ceremonial arms object consistent with Songye and neighboring Congo Basin traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -263,7 +550,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a double-bladed throwing/hand weapon with a looped metal handle, a form of prestige knife consistent with Songye and neighboring Central African (Luba/Songye) metalworking traditions. The style and construction fit plausibly with Songye smithing."
+    "reason": "This is a double-bladed throwing/hand weapon with a looped metal handle, a form of prestige knife consistent with Songye and neighboring Central African (Luba/Songye) metalworking traditions. The style and construction fit plausibly with Songye smithing.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -277,7 +565,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a Z-shaped copper/metal knife blade with a carved wooden double-headed handle, a form consistent with Central African prestige/currency knives such as those attributed to Songye and neighboring groups. This type of ceremonial or currency knife is plausible material culture for the claimed ethnicity."
+    "reason": "The image shows a Z-shaped copper/metal knife blade with a carved wooden double-headed handle, a form consistent with Central African prestige/currency knives such as those attributed to Songye and neighboring groups. This type of ceremonial or currency knife is plausible material culture for the claimed ethnicity.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -291,7 +580,83 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a ceremonial adze with a carved wooden handle featuring geometric diamond patterns, a rounded pommel, and a metal blade, consistent with Central African prestige objects; such adzes/axes are plausible items of Songye or neighbouring Luba-region regalia."
+    "reason": "This is a ceremonial adze with a carved wooden handle featuring geometric diamond patterns, a rounded pommel, and a metal blade, consistent with Central African prestige objects; such adzes/axes are plausible items of Songye or neighbouring Luba-region regalia.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1909-Ty-973",
+    "name": "club",
+    "kind": "club",
+    "title": "club",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_16/e9e6b939_60cc_4d86_abc6_a8860114241d/preview_EAF38215.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "LOW",
+    "reason": "The image shows a simple wooden club with a curved head and long slender shaft, a plausible weapon type for Songye and neighboring Central African peoples; nothing contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-798",
+    "name": "sword",
+    "kind": "sword",
+    "title": "sword",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_15/bdf5d346_bb95_4709_b766_a50700f74e59/preview_EAF49904.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron sword/short sword with a slightly curved blade and decorated pommel, a plausible weapon type for Songye and neighboring Central African peoples; nothing contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1909-Ty-971",
+    "name": "bow",
+    "kind": "bow",
+    "title": "bow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_16/743582bf_ba51_47ae_9a6d_a886011422db/preview_EAF38208.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a simple wooden bow, consistent with weaponry used by Songye and neighboring Central African peoples; nothing distinguishes it stylistically but it is plausible material culture for the region.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-2783",
+    "name": "ceremonial axe",
+    "kind": "axe",
+    "title": "ceremonial axe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/18_11/592600ea_44ef_4e9a_85fa_a6a300b564cc/preview_EAF62187.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a ceremonial iron axe with an openwork blade divided into multiple decorative prongs, a style consistent with prestige axes made by Songye and neighboring Congolese groups (Luba, Songye) for chiefly/ceremonial display rather than combat use.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1589",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/23_8/0a3eb5aa_22d2_45d3_97ab_a51c008c5efd/preview_EAF52008.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron knife blade with a face-like form in the tang/handle section and incised herringbone patterns, consistent with Songye and broader Congolese blacksmithing traditions for prestige/ceremonial knives.",
+    "featured": false
    }
   ],
   "garment": [
@@ -307,7 +672,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a woven raffia peaked cap with concentric circular patterns and looped edging, consistent with Central African (Congo basin) headwear traditions such as those made by the Songye. The object is plausible for the region and matches the museum's description."
+    "reason": "The image shows a woven raffia peaked cap with concentric circular patterns and looped edging, consistent with Central African (Congo basin) headwear traditions such as those made by the Songye. The object is plausible for the region and matches the museum's description.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -321,7 +687,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a raffia palm fiber woven textile with maroon and natural-colored panel sections sewn together, consistent with Central African raffia cloth traditions such as those of the Songye and neighboring Congo Basin peoples used as wrapper garments."
+    "reason": "The image shows a raffia palm fiber woven textile with maroon and natural-colored panel sections sewn together, consistent with Central African raffia cloth traditions such as those of the Songye and neighboring Congo Basin peoples used as wrapper garments.",
+    "featured": true
    }
   ],
   "textile": [
@@ -337,7 +704,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a striped leaf-fiber mat with bound edges, a plausible woven/plaited object type made across Central African peoples including the Songye region; it fits the \"made by\" criterion even if mat-weaving is not exclusive to this group."
+    "reason": "The image shows a striped leaf-fiber mat with bound edges, a plausible woven/plaited object type made across Central African peoples including the Songye region; it fits the \"made by\" criterion even if mat-weaving is not exclusive to this group.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -351,7 +719,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a rolled palm-leaf mat with woven diaper patterning, a plausible domestic textile/household item from Central Africa; such woven mats are made across the wider Congo region including Songye areas, so the attribution cannot be ruled out."
+    "reason": "The image shows a rolled palm-leaf mat with woven diaper patterning, a plausible domestic textile/household item from Central Africa; such woven mats are made across the wider Congo region including Songye areas, so the attribution cannot be ruled out.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -365,7 +734,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A woven leaf mat with a bound edge and a subtle zigzag pattern band, a plausible domestic household/textile item for a Central African group such as the Songye; nothing contradicts the attribution."
+    "reason": "A woven leaf mat with a bound edge and a subtle zigzag pattern band, a plausible domestic household/textile item for a Central African group such as the Songye; nothing contradicts the attribution.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -381,7 +751,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden slit-drum with brass-stud geometric decoration and a skin carrying strap, consistent with Songye-style trapezoidal slit-drums used as signal/musical instruments in Central Africa."
+    "reason": "The image shows a wooden slit-drum with brass-stud geometric decoration and a skin carrying strap, consistent with Songye-style trapezoidal slit-drums used as signal/musical instruments in Central Africa.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -395,7 +766,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden lamellophone (sansa/mbira) with numerous iron keys mounted on a resonator board, consistent with instruments made and used across Central Africa including by the Songye."
+    "reason": "The image shows a wooden lamellophone (sansa/mbira) with numerous iron keys mounted on a resonator board, consistent with instruments made and used across Central Africa including by the Songye.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -409,7 +781,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a woven cane rattle with seeds enclosed in a wickerwork head on a wooden handle, a type of instrument widely used across Central African peoples including the Songye; the form is plausible for the claimed culture."
+    "reason": "This is a woven cane rattle with seeds enclosed in a wickerwork head on a wooden handle, a type of instrument widely used across Central African peoples including the Songye; the form is plausible for the claimed culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -423,7 +796,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a cane flute/whistle bound with a skin band and decorative metal cap, consistent with a Central African wind instrument; nothing contradicts a Songye attribution, though such instruments are hard to distinguish among neighboring Congolese peoples."
+    "reason": "The image shows a cane flute/whistle bound with a skin band and decorative metal cap, consistent with a Central African wind instrument; nothing contradicts a Songye attribution, though such instruments are hard to distinguish among neighboring Congolese peoples.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -437,7 +811,53 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden drum with a hide skin, carved geometric patterning, and a resonance hole in the body — a form and decoration consistent with Central African, including Songye, drum-making traditions."
+    "reason": "The image shows a wooden drum with a hide skin, carved geometric patterning, and a resonance hole in the body — a form and decoration consistent with Central African, including Songye, drum-making traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1908-0622-151",
+    "name": "flute; whistle; musical instrument",
+    "kind": "flute",
+    "title": "flute; whistle; musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/17_9/8148d4cb_bb10_4a07_9f3e_a51600948050/preview_EAF36549.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved cane/wood flute or whistle with incised geometric banding, plausible as a Songye musical instrument used in daily or ritual life; nothing contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1908-0622-148",
+    "name": "rattle",
+    "kind": "rattle",
+    "title": "rattle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/17_9/61619209_6bcf_4373_842d_a51600947c41/preview_EAF36546.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a dance rattle made of seed-capsules strung on twisted cloth cord, a type of body-worn percussion instrument plausible for Songye and neighboring Central African peoples.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1908-0622-152",
+    "name": "flute; whistle",
+    "kind": "flute",
+    "title": "flute; whistle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/17_9/6171c275_3887_48e1_aa5f_a51600948211/preview_EAF36550.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden flute or whistle with incised geometric banding at the top, consistent with Central African instrument-making traditions such as the Songye; the carved decoration and form are plausible for the region even though fine cultural attribution from image alone is not certain.",
+    "featured": false
    }
   ],
   "photo": [
@@ -453,7 +873,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "Documentary photograph of men in a dance line wearing wrapped cloths, holding sticks, before thatched-roof buildings — a plausible ethnographic scene from the Congo region consistent with Songye daily/ceremonial life; nothing contradicts the claimed ethnicity."
+    "reason": "Documentary photograph of men in a dance line wearing wrapped cloths, holding sticks, before thatched-roof buildings — a plausible ethnographic scene from the Congo region consistent with Songye daily/ceremonial life; nothing contradicts the claimed ethnicity.",
+    "featured": true
    }
   ]
  }

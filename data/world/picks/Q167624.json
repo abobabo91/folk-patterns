@@ -5,7 +5,7 @@
  "judged": 0,
  "cached": 39,
  "cost_usd": 0,
- "picks": {
+ "ranked": {
   "jewelry": [
    {
     "source": "bm",
@@ -19,7 +19,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a multi-strand glass beadwork necklace with colorful geometric banding, a type of personal adornment consistent with East African pastoralist beadwork traditions including the Boya people of South Sudan."
+    "reason": "The image shows a multi-strand glass beadwork necklace with colorful geometric banding, a type of personal adornment consistent with East African pastoralist beadwork traditions including the Boya people of South Sudan.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -33,7 +34,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a metal fighting bracelet/wristguard with a hide-covered guard, a type of arm ornament and weapon worn by pastoralist groups in South Sudan including the Boya; the form and materials (iron with metal binding) are consistent with the claimed culture."
+    "reason": "This is a metal fighting bracelet/wristguard with a hide-covered guard, a type of arm ornament and weapon worn by pastoralist groups in South Sudan including the Boya; the form and materials (iron with metal binding) are consistent with the claimed culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -47,7 +49,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a twisted brass lip-ring with a small metal bead, a personal ornament type worn by South Sudanese pastoralist groups such as the Boya; the object is plausible for the region and consistent with the claimed use."
+    "reason": "The image shows a twisted brass lip-ring with a small metal bead, a personal ornament type worn by South Sudanese pastoralist groups such as the Boya; the object is plausible for the region and consistent with the claimed use.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -61,7 +64,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a pair of metal ear-plugs consistent with body adornment worn by South Sudanese pastoralist groups such as the Boya; the form and material are plausible for the region even though such ornaments cannot be reliably distinguished between neighbouring ethnic groups."
+    "reason": "The image shows a pair of metal ear-plugs consistent with body adornment worn by South Sudanese pastoralist groups such as the Boya; the form and material are plausible for the region even though such ornaments cannot be reliably distinguished between neighbouring ethnic groups.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -75,7 +79,68 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a multi-strand beaded necklace made of white, red, black, and green beads on fiber string — a type of personal adornment consistent with East African pastoralist beadwork traditions, including those of the Boya people of South Sudan."
+    "reason": "The image shows a multi-strand beaded necklace made of white, red, black, and green beads on fiber string — a type of personal adornment consistent with East African pastoralist beadwork traditions, including those of the Boya people of South Sudan.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-163",
+    "name": "lip-ring; ring",
+    "kind": "lip ring",
+    "title": "lip-ring; ring",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/66fe5b11_b3ce_4f48_9507_a48700f3434b/preview_EAF57728.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a metal (brass/aluminium) lip-ring ornament, a personal adornment type consistent with jewelry made and worn by South Sudanese peoples such as the Boya; nothing contradicts the claimed attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-161-a-b",
+    "name": "ear-plug",
+    "kind": "ear-plug",
+    "title": "ear-plug",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/011f11bb_a28f_44d0_b817_a48700f3409f/preview_EAF57725.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a pair of cast metal ear-plugs with decorative perforations, consistent with body ornaments used by South Sudanese pastoralist groups like the Boya; the object type and form are plausible for the region.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-168",
+    "name": "ornament",
+    "kind": "ornament",
+    "title": "ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_13/1402acb9_2f48_4cb2_9779_a48700e2bbe5/preview_EAF57732.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a braided hide loop ornament with a long hair tassel, consistent with an arm ornament of the type made and worn by South Sudanese pastoralist peoples such as the Boya; nothing contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-156",
+    "name": "ornament",
+    "kind": "ornament",
+    "title": "ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/f7980c09_4dba_4b2a_8f67_a48700f33a27/preview_EAF57721.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a beaded necklace/ornament made of small glass beads strung together, consistent with East African pastoralist beadwork jewelry such as that made by the Boya people; the plausible regional style supports the claimed attribution.",
+    "featured": false
    }
   ],
   "household": [
@@ -91,7 +156,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a decorated gourd vessel with incised triangular and cross-hatch patterns, a typical container made and used by South Sudanese pastoralist groups such as the Boya; the object is plausible for the region even though it is gourd rather than fired clay."
+    "reason": "The image shows a decorated gourd vessel with incised triangular and cross-hatch patterns, a typical container made and used by South Sudanese pastoralist groups such as the Boya; the object is plausible for the region even though it is gourd rather than fired clay.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -105,7 +171,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a decorated gourd bowl with incised geometric patterns and red pigment, a household vessel type plausible for South Sudanese pastoralist groups like the Boya; despite the \"ceramic\" category label, the museum's own description confirms it is gourd, not clay."
+    "reason": "This is a decorated gourd bowl with incised geometric patterns and red pigment, a household vessel type plausible for South Sudanese pastoralist groups like the Boya; despite the \"ceramic\" category label, the museum's own description confirms it is gourd, not clay.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -119,7 +186,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a classic East African wooden headrest with a curved crossbar, single carved pillar, and a hide/leather loop handle — a form used widely by pastoralist groups in South Sudan and neighboring regions, consistent with Boya material culture."
+    "reason": "This is a classic East African wooden headrest with a curved crossbar, single carved pillar, and a hide/leather loop handle — a form used widely by pastoralist groups in South Sudan and neighboring regions, consistent with Boya material culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -133,7 +201,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden spoon with an incised decorative pattern along the handle, a plausible everyday utensil for a Boya household in South Sudan; the plain form cannot distinguish it from neighbouring groups, but nothing contradicts the attribution."
+    "reason": "The image shows a wooden spoon with an incised decorative pattern along the handle, a plausible everyday utensil for a Boya household in South Sudan; the plain form cannot distinguish it from neighbouring groups, but nothing contradicts the attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -147,7 +216,173 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A wooden three-legged stool with a round seat and flared, hoof-like legs, a common East African household furniture type consistent with pastoralist groups like the Boya of South Sudan; nothing contradicts the attribution."
+    "reason": "A wooden three-legged stool with a round seat and flared, hoof-like legs, a common East African household furniture type consistent with pastoralist groups like the Boya of South Sudan; nothing contradicts the attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-155",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/4b793771_4447_425b_a4db_a48700f3381b/preview_EAF57720.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a traditional pottery-and-bamboo smoking pipe, a plausible everyday household/utility object for a South Sudanese pastoralist group such as the Boya; nothing contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-149",
+    "name": "head-rest",
+    "kind": "headrest",
+    "title": "head-rest",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_13/c9dfad9c_780e_4b2d_9b3a_a48700e2afbd/preview_EAF57714.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a classic wooden headrest with a curved crescent top, central column, and round base—an object type widely used by pastoralist peoples of South Sudan and East Africa, including the Boya, to protect coiffure while sleeping. It is plausible for the claimed group and no evidence contradicts it.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-135",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_11/6c7ce1ce_1f8e_4994_b761_a48700bd96c1/preview_EAF57700.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a decorated gourd bowl with incised triangular and geometric patterns, a common household vessel type used by South Sudanese pastoralist groups such as the Boya; nothing contradicts the claimed attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-140",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/29_11/76f8871d_c417_4149_b646_a48900c1cc6d/preview_EAF57705.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a gourd bowl with incised geometric decoration and a repaired crack with beaded thread — a household vessel plausible for South Sudanese pastoralist groups like the Boya, though the museum's own record calls it a gourd, not ceramic.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-138",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/29_11/18ae78c8_7fe0_4150_ab89_a48900c1c8c9/preview_EAF57703.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a gourd bowl with a woven repair patch, a plausible household vessel type used across South Sudanese peoples including the Boya; the museum's own description confirms it's a gourd, not fired clay, but this is still a container plausibly used by the claimed group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-144",
+    "name": "vessel",
+    "kind": "vessel",
+    "title": "vessel",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/29_11/c113687e_ad38_4a43_bbe7_a48900c1d319/preview_EAF57709.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a hollowed gourd vessel with a natural stem, plausibly used by Boya or neighboring South Sudanese pastoralist groups for storage, though the museum record mislabels it as \"ceramic\" when it is clearly a gourd, not clay.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-141",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/29_11/475d190e_f426_467f_9436_a48900c1ce25/preview_EAF57706.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a decorated gourd bowl with incised triangular hatched patterns, a household vessel type plausible for South Sudanese peoples like the Boya; the museum's own description confirms it is gourd rather than fired clay, so the claimed \"ceramic\" category is wrong but the object itself is a genuine utilitarian craft item consistent with the group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-143",
+    "name": "vessel",
+    "kind": "vessel",
+    "title": "vessel",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/29_11/be0fb1a4_043f_4952_aba8_a48900c1d166/preview_EAF57708.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a decorated gourd vessel with pyrogravure-style geometric triangle patterns, consistent with East African gourd containers used for storage, plausible for Boya material culture, though the museum's own description notes it is gourd, not fired ceramic.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-153",
+    "name": "spoon",
+    "kind": "spoon",
+    "title": "spoon",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_13/a113ed64_629c_42bc_ba15_a48700e2b576/preview_EAF57718.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden hand-carved spoon with a wrapped fiber-cord handle end, consistent with utilitarian household items made by South Sudanese pastoralist groups such as the Boya; nothing contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-147",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_13/81d8c876_ed02_4c78_bc72_a48700e2ac69/preview_EAF57712.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden headrest/stool with an elongated organic form and four splayed legs, consistent with East African pastoralist headrests used by groups like the Boya in South Sudan; plausible for the region and culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-154",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/f6b2e8b5_2218_44b1_9520_a48700f3367f/preview_EAF57719.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wood-and-bamboo smoking pipe with a carved bowl and incised decoration, a plausible household/utility object for a South Sudanese pastoralist group like the Boya; nothing contradicts the attribution.",
+    "featured": false
    }
   ],
   "ceramic": [
@@ -163,7 +398,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a handmade earthenware storage vessel with a globular body and short neck, consistent with traditional South Sudanese ceramic pottery types; no evidence contradicts the Boya attribution, and such vessels are plausible for the region."
+    "reason": "The image shows a handmade earthenware storage vessel with a globular body and short neck, consistent with traditional South Sudanese ceramic pottery types; no evidence contradicts the Boya attribution, and such vessels are plausible for the region.",
+    "featured": true
    }
   ],
   "arms": [
@@ -179,7 +415,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hide shield with a central wooden spine, lacing, and a tufted fur/feather ornament at the top — a form consistent with pastoralist shields from South Sudan/East Africa, plausible for the Boya people. No evidence contradicts the attribution."
+    "reason": "The image shows a hide shield with a central wooden spine, lacing, and a tufted fur/feather ornament at the top — a form consistent with pastoralist shields from South Sudan/East Africa, plausible for the Boya people. No evidence contradicts the attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -193,7 +430,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a simple wooden hunting bow with fibre string, a plausible weapon type used by Boya and neighboring South Sudanese pastoralist/hunting peoples; nothing contradicts the attribution."
+    "reason": "The image shows a simple wooden hunting bow with fibre string, a plausible weapon type used by Boya and neighboring South Sudanese pastoralist/hunting peoples; nothing contradicts the attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -207,7 +445,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows four wooden arrows/spears with varied iron heads, consistent with weaponry made and used by pastoralist groups such as the Boya of South Sudan."
+    "reason": "The image shows four wooden arrows/spears with varied iron heads, consistent with weaponry made and used by pastoralist groups such as the Boya of South Sudan.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -221,7 +460,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden-shafted spear with a broad metal blade, a weapon type consistent with pastoralist groups of South Sudan such as the Boya; nothing contradicts the claimed attribution."
+    "reason": "The image shows a wooden-shafted spear with a broad metal blade, a weapon type consistent with pastoralist groups of South Sudan such as the Boya; nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -235,7 +475,23 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hide shield with a central wooden spine/grip, a form consistent with cattle-hide shields used by South Sudanese pastoralist peoples such as the Boya. It plausibly fits the claimed ethnicity and category."
+    "reason": "The image shows a hide shield with a central wooden spine/grip, a form consistent with cattle-hide shields used by South Sudanese pastoralist peoples such as the Boya. It plausibly fits the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-175",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_8/2_11/ef108230_a3dc_4acd_b31f_aa9d00b5a723/preview_EAF57739.jpg",
+    "art_form": "arms",
+    "image": "weak",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a long wooden-shafted spear with a metal blade tip, a plausible weapon type used by Boya and neighboring South Sudanese pastoralist groups.",
+    "featured": false
    }
   ],
   "garment": [
@@ -251,7 +507,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an animal-skin apron with fur intact, consistent with traditional garments worn by South Sudanese pastoralist groups such as the Boya; such hide aprons are plausible attire for the region and no evidence contradicts the attribution."
+    "reason": "The image shows an animal-skin apron with fur intact, consistent with traditional garments worn by South Sudanese pastoralist groups such as the Boya; such hide aprons are plausible attire for the region and no evidence contradicts the attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -265,7 +522,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a spotted animal skin apron (dance apron) with hide strips for tying, consistent with garments worn by South Sudanese pastoralist groups like the Boya for dance/ceremonial dress; the material and form are plausible for the region."
+    "reason": "The image shows a spotted animal skin apron (dance apron) with hide strips for tying, consistent with garments worn by South Sudanese pastoralist groups like the Boya for dance/ceremonial dress; the material and form are plausible for the region.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -281,7 +539,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a handmade conical whistle of wood, brass banding, hide wrapping, and a fibre cord — a plausible personal or herding instrument type used across South Sudanese pastoralist groups including the Boya, and nothing contradicts the claim."
+    "reason": "The image shows a handmade conical whistle of wood, brass banding, hide wrapping, and a fibre cord — a plausible personal or herding instrument type used across South Sudanese pastoralist groups including the Boya, and nothing contradicts the claim.",
+    "featured": true
    }
   ]
  }

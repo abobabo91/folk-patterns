@@ -656,7 +656,8 @@ def _quality(reply: str) -> int:
 
 
 def _choose(objs: list[dict]) -> list[dict]:
-    """The PICK_MAX best of one category: quality first, a good image before a
+    """Every kept object of one category, best first (the first PICK_MAX are
+    the featured ones): quality first, a good image before a
     weak one, and the best of each kind before a second of any kind, so five
     gold-weights never crowd out the one kuduo."""
     objs = sorted((o for o in objs if o["quality"] >= PICK_QUALITY_MIN),
@@ -668,7 +669,7 @@ def _choose(objs: list[dict]) -> list[dict]:
             out.append(o)
             kinds.add(k)
     out += [o for o in objs if o not in out]
-    return out[:PICK_MAX]
+    return out
 
 
 def cmd_pick(only: list[str]) -> None:
@@ -680,7 +681,9 @@ def cmd_pick(only: list[str]) -> None:
     re-files (wooden bowls the kind list calls ceramic go to household), so
     every kept object is collected first and assigned to the judge's category
     afterwards, then _choose ranks each category by quality with one of each
-    kind first. Objects already in the library are skipped. Judge replies are
+    kind first. The file keeps every kept object in that order ("ranked"),
+    the first PICK_MAX flagged "featured"; q1-q2 and every other verdict stay
+    only in raw.jsonl. Objects already in the library are skipped. Judge replies are
     cached in picks/raw.jsonl, so a rerun only pays for new objects.
     -> data/world/picks/<key>.json.
     Measured 2026-09-26, before the QUALITY line, on 15 peoples (Rukai, Tiv,
@@ -769,11 +772,15 @@ def cmd_pick(only: list[str]) -> None:
         by: dict[str, list] = {}
         for a in accepted:
             by.setdefault(a["art_form"], []).append(a)
-        picks = {c: v for c, v in ((c, _choose(v)) for c, v in by.items()) if v}
+        ranked = {c: v for c, v in ((c, _choose(v)) for c, v in by.items()) if v}
+        for v in ranked.values():
+            for i, o in enumerate(v):
+                o["featured"] = i < PICK_MAX
+        picks = {c: v[:PICK_MAX] for c, v in ranked.items()}
         (OUT / "picks" / f"{r['key']}.json").write_text(json.dumps(
             {"key": r["key"], "label": r["label"], "name": name, "judged": tried, "cached": cached, "cost_usd": round(cost, 3),
-             "picks": picks}, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"{name}: {sum(map(len, picks.values()))} picks in {len(picks)} categories "
+             "ranked": ranked}, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"{name}: {sum(map(len, ranked.values()))} kept, {sum(map(len, picks.values()))} featured in {len(picks)} categories "
               f"({', '.join(f'{c} {len(v)}' for c, v in picks.items())}); {tried} judged, {cached} cached, ${cost:.2f}, {time.time() - t0:.0f}s", flush=True)
 
 

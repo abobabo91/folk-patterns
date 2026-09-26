@@ -5,7 +5,7 @@
  "judged": 0,
  "cached": 88,
  "cost_usd": 0,
- "picks": {
+ "ranked": {
   "household": [
    {
     "source": "bm",
@@ -19,7 +19,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden tobacco pipe with two human-face figures and an iron stem, a well-documented Central African (Angola region, including Ambundu) craft form used in daily and ceremonial smoking. This is plausible material culture for the claimed people."
+    "reason": "The image shows a carved wooden tobacco pipe with two human-face figures and an iron stem, a well-documented Central African (Angola region, including Ambundu) craft form used in daily and ceremonial smoking. This is plausible material culture for the claimed people.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -33,7 +34,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a finely woven reed basket with diaper twill patterning on a rectangular tray base, a plausible household basketry item for Central African peoples including the Ambundu of Angola. There is nothing in the image contradicting the claimed attribution, and such plaited basketry is consistent with regional craft traditions."
+    "reason": "The image shows a finely woven reed basket with diaper twill patterning on a rectangular tray base, a plausible household basketry item for Central African peoples including the Ambundu of Angola. There is nothing in the image contradicting the claimed attribution, and such plaited basketry is consistent with regional craft traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -47,7 +49,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a wooden zoomorphic stool with carved geometric/incised decoration and legs shaped like animal limbs, a household furniture form consistent with Angolan/Central African carving traditions attributed to the Ambundu region. The object is plausible for the claimed people as a handmade domestic seat."
+    "reason": "This is a wooden zoomorphic stool with carved geometric/incised decoration and legs shaped like animal limbs, a household furniture form consistent with Angolan/Central African carving traditions attributed to the Ambundu region. The object is plausible for the claimed people as a handmade domestic seat.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -61,7 +64,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a decorated gourd beer-container with poker-work patterning, a container type plausible for Ambundu daily/domestic use, though it is not ceramic despite the record's category label."
+    "reason": "The image shows a decorated gourd beer-container with poker-work patterning, a container type plausible for Ambundu daily/domestic use, though it is not ceramic despite the record's category label.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -75,7 +79,113 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A cow's-tail fly-whisk bound with cloth at the handle—an everyday/status implement plausible for Ambundu and neighboring Central African peoples, consistent with claimed household use."
+    "reason": "A cow's-tail fly-whisk bound with cloth at the handle—an everyday/status implement plausible for Ambundu and neighboring Central African peoples, consistent with claimed household use.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1901-0607-7",
+    "name": "comb",
+    "kind": "comb",
+    "title": "comb",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_13/dc7a5e93_7bf1_4ca9_ae06_a71200dabfec/preview_EAF33950.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden hair comb with a carved handle featuring geometric incising, a plausible everyday object for the Ambundu people of Angola; combs of this general style are common across Central African groups and cannot be distinguished as specifically Ambundu, but nothing contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1901-0607-45",
+    "name": "hoe",
+    "kind": "hoe",
+    "title": "hoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_16/54a1dcd8_49d3_48d5_b6bf_a7120107e518/preview_EAF33982.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a hand-forged iron hoe blade fitted to a naturally forked wooden handle, a tool type used for agricultural work across Central African societies including the Ambundu of Angola. It plausibly represents household/agricultural equipment of this culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0312-112",
+    "name": "dish",
+    "kind": "dish",
+    "title": "dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/17_9/4620f618_2e6d_4d41_80a1_a71d00a0dabb/preview_EAF46592.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden footed dish/bowl, consistent with a household vessel plausible for Ambundu material culture; the museum's own description confirms it is wood, not clay, so the claimed \"ceramic\" category is mismatched.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1901-0607-54",
+    "name": "mat",
+    "kind": "mat",
+    "title": "mat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_16/f175635e_b4bc_4dc3_8cc4_a7120107f319/preview_EAF33992.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven reed sleeping mat bound with bark twine, a household item plausible for the Ambundu region of Angola and consistent with everyday material culture there.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1901-0607-28",
+    "name": "dish; food-tray",
+    "kind": "dish",
+    "title": "dish; food-tray",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_16/4f9aa7de_e1d9_419c_a54d_a7120107d2fa/preview_EAF33970.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven basketwork tray, not a ceramic vessel—but basketry food-trays are a plausible household item made and used across Central African peoples including the Ambundu, so it belongs to the culture despite the mislabeled category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0312-115",
+    "name": "beer-container",
+    "kind": "beer-container",
+    "title": "beer-container",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/17_9/0e36fe36_b37c_4b85_bf54_a71d00a119b1/preview_EAF63087.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a gourd container with incised geometric decoration, described by the museum as a beer vessel—plausible as an object used by the Ambundu or neighboring Angolan peoples, though it is not ceramic but a worked gourd.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0312-113",
+    "name": "dish",
+    "kind": "dish",
+    "title": "dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_16/47ca2ba7_e3fb_4be3_a84d_a71201146da3/preview_EAF46593.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a footed wooden dish/bowl, plausible as a household vessel used by the Ambundu people of Angola; the museum's own description confirms it is wood rather than ceramic.",
+    "featured": false
    }
   ],
   "sculpture": [
@@ -91,7 +201,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden staff topped with a finely carved human head/bust, a classic form of prestige or chief's staff produced by Central African peoples including groups in Angola such as the Ambundu; this fits the region's material culture even though it isn't strictly \"household\" in the furniture/utensil sense."
+    "reason": "The image shows a carved wooden staff topped with a finely carved human head/bust, a classic form of prestige or chief's staff produced by Central African peoples including groups in Angola such as the Ambundu; this fits the region's material culture even though it isn't strictly \"household\" in the furniture/utensil sense.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -105,7 +216,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden figure with a hat, standing on a small base — consistent with Ambundu (Kimbundu) figural carving traditions from Angola, plausible as a doll or minor ancestor/protective figure."
+    "reason": "The image shows a carved wooden figure with a hat, standing on a small base — consistent with Ambundu (Kimbundu) figural carving traditions from Angola, plausible as a doll or minor ancestor/protective figure.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -119,7 +231,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a carved wooden standing female figure with hands clasped at the abdomen and a stylized disc-like halo behind the head, a form typical of Central African ancestor/power figures; it is plausible as an Ambundu-region wood sculpture even though precise sub-group attribution within Angola/DRC is uncertain."
+    "reason": "This is a carved wooden standing female figure with hands clasped at the abdomen and a stylized disc-like halo behind the head, a form typical of Central African ancestor/power figures; it is plausible as an Ambundu-region wood sculpture even though precise sub-group attribution within Angola/DRC is uncertain.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -133,7 +246,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A carved wooden crocodile figure used as divination equipment, consistent with Central African (Ambundu/Angola) divinatory carving traditions; plausible material culture object for the claimed people."
+    "reason": "A carved wooden crocodile figure used as divination equipment, consistent with Central African (Ambundu/Angola) divinatory carving traditions; plausible material culture object for the claimed people.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -149,7 +263,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden sansa (thumb piano/mbira) with iron tines and a hide carrying loop, incised with circular decoration — a type of lamellophone widely made and used by Ambundu and neighboring Angolan/Central African peoples."
+    "reason": "The image shows a wooden sansa (thumb piano/mbira) with iron tines and a hide carrying loop, incised with circular decoration — a type of lamellophone widely made and used by Ambundu and neighboring Angolan/Central African peoples.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -163,7 +278,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden-handled rattle made from three strung seed pods, a type of percussion instrument plausible for Central African peoples including the Ambundu of Angola; nothing contradicts the claimed attribution."
+    "reason": "The image shows a wooden-handled rattle made from three strung seed pods, a type of percussion instrument plausible for Central African peoples including the Ambundu of Angola; nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -177,7 +293,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a notched gourd rasp with its scraping stick, a traditional idiophone type widely used in Central African cultures including the Ambundu of Angola; nothing contradicts the claimed attribution."
+    "reason": "The image shows a notched gourd rasp with its scraping stick, a traditional idiophone type widely used in Central African cultures including the Ambundu of Angola; nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -191,7 +308,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a brass bell with an interior clapper, a plausible instrument/ritual object type used across Central African groups including the Ambundu of Angola. Nothing contradicts the claimed attribution."
+    "reason": "The image shows a brass bell with an interior clapper, a plausible instrument/ritual object type used across Central African groups including the Ambundu of Angola. Nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -205,7 +323,23 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A wooden six-holed flute fragment, a plausible traditional instrument type for Angola/Central Africa; nothing contradicts an Ambundu attribution."
+    "reason": "A wooden six-holed flute fragment, a plausible traditional instrument type for Angola/Central Africa; nothing contradicts an Ambundu attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0312-60",
+    "name": "rattle; musical instrument",
+    "kind": "rattle",
+    "title": "rattle; musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_16/3183fc2a_2957_40f6_84ea_a7120114476e/preview_EAF46546.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a rattle instrument made of pierced nuts/shells strung on sticks with fiber cord, a type of percussion instrument used widely in Central African regions including Angola; plausible for Ambundu material culture.",
+    "featured": false
    }
   ],
   "masks-ritual": [
@@ -221,7 +355,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A small wooden armless figure with a dark-coated head and cowrie shell topper, consistent with divination figures used in Central African traditions including Ambundu-related groups of Angola; the form and function fit the claimed culture and category."
+    "reason": "A small wooden armless figure with a dark-coated head and cowrie shell topper, consistent with divination figures used in Central African traditions including Ambundu-related groups of Angola; the form and function fit the claimed culture and category.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -235,7 +370,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a gourd dancing mask with pierced eyes, nose and mouth, consistent with masks used by Ambundu and neighboring Central African peoples for ritual/dance purposes; nothing contradicts the claimed attribution."
+    "reason": "The image shows a gourd dancing mask with pierced eyes, nose and mouth, consistent with masks used by Ambundu and neighboring Central African peoples for ritual/dance purposes; nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -249,7 +385,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a feather headdress with quills bound together in a row, consistent with a diviner's headdress used in Central African (Ambundu-region) ritual practice; plausible for the claimed culture."
+    "reason": "The image shows a feather headdress with quills bound together in a row, consistent with a diviner's headdress used in Central African (Ambundu-region) ritual practice; plausible for the claimed culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -263,7 +400,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an antelope horn bound with fur at the base, described as a \"cursing-horn\" — a ritual/magical implement rather than a weapon, but such horn objects used for divination, cursing or protective magic are well documented among Central African peoples including the Ambundu of Angola."
+    "reason": "The image shows an antelope horn bound with fur at the base, described as a \"cursing-horn\" — a ritual/magical implement rather than a weapon, but such horn objects used for divination, cursing or protective magic are well documented among Central African peoples including the Ambundu of Angola.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -277,7 +415,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a feather topknot/dance headdress with a woven base and cord ties, a type of ceremonial headwear plausible for the Ambundu region of Angola; it is a worn/used ritual object rather than European or specimen material, so it belongs despite the \"garment\" category being a rough fit."
+    "reason": "This is a feather topknot/dance headdress with a woven base and cord ties, a type of ceremonial headwear plausible for the Ambundu region of Angola; it is a worn/used ritual object rather than European or specimen material, so it belongs despite the \"garment\" category being a rough fit.",
+    "featured": true
    }
   ],
   "ceramic": [
@@ -293,7 +432,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A dark handmade pottery bowl with an incised herringbone band around the rim, consistent with traditional Central African ceramic wares including those from Ambundu-speaking regions of Angola; nothing contradicts the claim."
+    "reason": "A dark handmade pottery bowl with an incised herringbone band around the rim, consistent with traditional Central African ceramic wares including those from Ambundu-speaking regions of Angola; nothing contradicts the claim.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -307,7 +447,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A handmade black pottery bowl with incised decoration, a plausible traditional vessel type for the Ambundu region of Angola."
+    "reason": "A handmade black pottery bowl with incised decoration, a plausible traditional vessel type for the Ambundu region of Angola.",
+    "featured": true
    }
   ],
   "jewelry": [
@@ -323,7 +464,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a brass cuff bracelet with an incised diamond/lattice pattern, a plausible form of adornment worn by Ambundu and other Central African peoples in Angola. Nothing contradicts the claimed attribution."
+    "reason": "The image shows a brass cuff bracelet with an incised diamond/lattice pattern, a plausible form of adornment worn by Ambundu and other Central African peoples in Angola. Nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -337,7 +479,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hide dancing ornament with leather fringe tassels tipped in metal, consistent with body/dance regalia worn by Central African peoples such as the Ambundu; plausible material and form for the region."
+    "reason": "The image shows a hide dancing ornament with leather fringe tassels tipped in metal, consistent with body/dance regalia worn by Central African peoples such as the Ambundu; plausible material and form for the region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -351,7 +494,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a simple open-ended brass wire anklet, a common form of body adornment consistent with Ambundu and neighbouring Central African peoples' metalwork traditions."
+    "reason": "The image shows a simple open-ended brass wire anklet, a common form of body adornment consistent with Ambundu and neighbouring Central African peoples' metalwork traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -365,7 +509,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an iron penannular bracelet with incised crosshatch decoration, a plausible child's ornament type made and worn across Central African peoples including the Ambundu of Angola."
+    "reason": "The image shows an iron penannular bracelet with incised crosshatch decoration, a plausible child's ornament type made and worn across Central African peoples including the Ambundu of Angola.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -379,7 +524,38 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a duiker horn pendant strung on a plaited cord, a type of amuletic personal adornment consistent with Central African (Ambundu/Angola region) traditional dress and material culture; nothing contradicts the claimed ethnicity."
+    "reason": "The image shows a duiker horn pendant strung on a plaited cord, a type of amuletic personal adornment consistent with Central African (Ambundu/Angola region) traditional dress and material culture; nothing contradicts the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1901-0607-12-a-k",
+    "name": "armlet; leglet",
+    "kind": "armlet",
+    "title": "armlet; leglet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_16/5486f990_6532_4880_907c_a712010c2240/preview_EAF33955.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows eleven penannular copper rings (armlets/leglets), a form of body ornament consistent with Central African metal jewelry traditions including Ambundu groups in Angola.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0312-46",
+    "name": "bracelet",
+    "kind": "bracelet",
+    "title": "bracelet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/17_9/cdd368af_f15d_40b3_9865_a71d00a1247e/preview_EAF46533.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a brass cuff bracelet with an incised geometric pattern, a plausible type of personal adornment for Ambundu or neighboring Angolan peoples. Nothing contradicts the claimed attribution.",
+    "featured": false
    }
   ],
   "arms": [
@@ -395,7 +571,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden staff/club topped with a stylized female head with body scarification marks, a form consistent with Ambundu/Angolan prestige staffs and clubs used by chiefs or dignitaries. This is plausible material culture for the claimed region."
+    "reason": "The image shows a carved wooden staff/club topped with a stylized female head with body scarification marks, a form consistent with Ambundu/Angolan prestige staffs and clubs used by chiefs or dignitaries. This is plausible material culture for the claimed region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -409,7 +586,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a ceremonial axe with an iron blade bearing incised decoration and a curved wooden haft, a type of prestige weapon/tool consistent with Central African (Angola region) traditions including the Ambundu."
+    "reason": "The image shows a ceremonial axe with an iron blade bearing incised decoration and a curved wooden haft, a type of prestige weapon/tool consistent with Central African (Angola region) traditions including the Ambundu.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -423,7 +601,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden staff/club with a carved female head handle featuring facial markings and elaborate coiffure, a form consistent with Ambundu (and broader Angolan) prestige staffs or clubs used as status/ceremonial objects."
+    "reason": "The image shows a wooden staff/club with a carved female head handle featuring facial markings and elaborate coiffure, a form consistent with Ambundu (and broader Angolan) prestige staffs or clubs used as status/ceremonial objects.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -437,7 +616,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a full oblong reed-and-wood shield with pointed ends and a carved handle, consistent with traditional Central African arms-making; such shields are plausible for the Ambundu region of Angola though not uniquely diagnostic of that specific group."
+    "reason": "The image shows a full oblong reed-and-wood shield with pointed ends and a carved handle, consistent with traditional Central African arms-making; such shields are plausible for the Ambundu region of Angola though not uniquely diagnostic of that specific group.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -451,7 +631,23 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a plain wooden bow with a twisted hide string, a common weapon type across Central African peoples including Ambundu; nothing contradicts the claimed ethnicity."
+    "reason": "The image shows a plain wooden bow with a twisted hide string, a common weapon type across Central African peoples including Ambundu; nothing contradicts the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1901-0607-48",
+    "name": "axe",
+    "kind": "axe",
+    "title": "axe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_16/ae63714e_2582_4f0e_ac42_a7120107eb70/preview_EAF33985.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron axe head mounted on a wooden haft, a plausible weapon/tool type used by Ambundu and neighboring Angolan peoples; no distinguishing features contradict the attribution.",
+    "featured": false
    }
   ],
   "garment": [
@@ -467,7 +663,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a full-body suit made of knotted/netted vegetable fiber string with a striped pattern, a traditional textile technique documented among Central African peoples including the Ambundu region of Angola; this is a plausible garment type for the claimed culture."
+    "reason": "The image shows a full-body suit made of knotted/netted vegetable fiber string with a striped pattern, a traditional textile technique documented among Central African peoples including the Ambundu region of Angola; this is a plausible garment type for the claimed culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -481,7 +678,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a netted fibre hat with brim and long streamers, consistent with traditional headwear/costume made from plant fibre found in Central African regions including Ambundu areas of Angola."
+    "reason": "The image shows a netted fibre hat with brim and long streamers, consistent with traditional headwear/costume made from plant fibre found in Central African regions including Ambundu areas of Angola.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -495,7 +693,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a pair of hide sandals made from sable antelope skin, a footwear type consistent with traditional Ambundu dress and craft using local materials. There is no evidence contradicting the claimed ethnicity."
+    "reason": "The image shows a pair of hide sandals made from sable antelope skin, a footwear type consistent with traditional Ambundu dress and craft using local materials. There is no evidence contradicting the claimed ethnicity.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -509,7 +708,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a woven fibre headdress with a spray of light-coloured fibre/hair tufts atop a plaited base, consistent with ceremonial or masquerade headwear made in Central Africa, plausible for the Ambundu region of Angola."
+    "reason": "The image shows a woven fibre headdress with a spray of light-coloured fibre/hair tufts atop a plaited base, consistent with ceremonial or masquerade headwear made in Central Africa, plausible for the Ambundu region of Angola.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -523,7 +723,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a dance cap made of dark monkey fur with a woven/hide band base, a plausible traditional headwear item for Central African peoples including the Ambundu of Angola; nothing contradicts the claimed attribution."
+    "reason": "The image shows a dance cap made of dark monkey fur with a woven/hide band base, a plausible traditional headwear item for Central African peoples including the Ambundu of Angola; nothing contradicts the claimed attribution.",
+    "featured": true
    }
   ],
   "textile": [
@@ -539,7 +740,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This shows narrow strips of raffia palm fiber cloth with a tie-dyed geometric pattern in red and tan, hand-sewn together — a technique and material consistent with Central African raffia textile traditions found among Angolan peoples including the Ambundu."
+    "reason": "This shows narrow strips of raffia palm fiber cloth with a tie-dyed geometric pattern in red and tan, hand-sewn together — a technique and material consistent with Central African raffia textile traditions found among Angolan peoples including the Ambundu.",
+    "featured": true
    }
   ]
  }

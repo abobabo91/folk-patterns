@@ -5,7 +5,7 @@
  "judged": 0,
  "cached": 65,
  "cost_usd": 0,
- "picks": {
+ "ranked": {
   "metalwork": [
    {
     "source": "bm",
@@ -19,7 +19,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a small brass gold-weight cast in the form of a round shield with coil decoration and rams-horn motifs, a well-documented Akan goldweight type used for weighing gold dust in Ghana."
+    "reason": "The image shows a small brass gold-weight cast in the form of a round shield with coil decoration and rams-horn motifs, a well-documented Akan goldweight type used for weighing gold dust in Ghana.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -33,7 +34,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a brass kuduo vessel with a lidded, ringed handle and decorative banding, a classic Akan ceremonial container used to hold valuables and for ritual ablutions — a well-documented Akan metalwork tradition."
+    "reason": "The image shows a brass kuduo vessel with a lidded, ringed handle and decorative banding, a classic Akan ceremonial container used to hold valuables and for ritual ablutions — a well-documented Akan metalwork tradition.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -47,7 +49,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a classic Akan gold-dust spoon (brass, with punched geometric decoration along a segmented handle), a well-known Akan goldweighing implement used for measuring gold dust in trade."
+    "reason": "This is a classic Akan gold-dust spoon (brass, with punched geometric decoration along a segmented handle), a well-known Akan goldweighing implement used for measuring gold dust in trade.",
+    "featured": true
    },
    {
     "source": "met",
@@ -61,7 +64,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a classic Akan brass gold weight with geometric openwork design, a well-known Akan craft used for weighing gold dust in trade."
+    "reason": "This is a classic Akan brass gold weight with geometric openwork design, a well-known Akan craft used for weighing gold dust in trade.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -75,7 +79,248 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a lost-wax cast brass box with a decorated lid and lock plate, matching the well-known Akan gold-dust boxes (kuduo-related forms) used to store gold dust as currency and for ceremonial purposes. The form, material, and function are all consistent with Akan metalworking traditions."
+    "reason": "This is a lost-wax cast brass box with a decorated lid and lock plate, matching the well-known Akan gold-dust boxes (kuduo-related forms) used to store gold dust as currency and for ceremonial purposes. The form, material, and function are all consistent with Akan metalworking traditions.",
+    "featured": true
+   },
+   {
+    "source": "cleveland",
+    "id": "115159",
+    "name": "Tools and Equipment",
+    "kind": "tool",
+    "title": "Gold Weight (abrammuo):  Antelope",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1935.306/1935.306_web.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a cast copper-alloy figurative gold weight in the form of an antelope with a spiraled long horn, a classic Akan goldweight (abrammuo) type used for weighing gold dust in commerce and daily life.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1947-13-13-a",
+    "name": "kuduo; offering-bowl; vessel",
+    "kind": "offering bowl",
+    "title": "kuduo; offering-bowl; vessel",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_10/30_16/97d3eb67_417b_4ce2_8f48_a9890107cb5b/preview_EAF4751.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a cast bronze/brass kuduo vessel with lid and handle, a classic Akan ceremonial object used for storing valuables and in purification rituals; the record's \"ceramic\" category is a misclassification since the piece is metal, not clay.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1947-13-691",
+    "name": "gold-weight; clock-stand; base",
+    "kind": "clock stand",
+    "title": "gold-weight (?); clock-stand (?); base (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_8/28_8/a311985a_eb4c_4222_9514_b3470091260e/preview_EAF124468_b.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a small brass lost-wax cast object in the shape of a lion's paw, consistent with Akan gold-weights made using the traditional lost-wax casting technique for which the Akan are well known.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-636_1",
+    "name": "cup",
+    "kind": "cup",
+    "title": "cup",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_10/3_11/60cb18d8_3ce5_4ea3_a9ae_a96e00bc19cc/preview_EAF7022.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a cast brass cup with a ribbed body and twisted-wire handle, consistent with Akan metalwork traditions (e.g., forowa-related brass vessels), though the museum's own description confirms it is brass, not ceramic as claimed.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-634_1",
+    "name": "lid; kuduo",
+    "kind": "kuduo",
+    "title": "lid; kuduo",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_10/3_11/b16d33b5_3228_46a8_b634_a96e00bc15a1/preview_EAF7020.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a circular brass kuduo lid with concentric incised rope-like decoration and small loop handles, a classic Akan cast-brass ceremonial vessel component used to hold gold dust and valuables. This is a metal object made by the Akan, though the museum's own \"ceramic\" category is mismatched to the actual material (brass).",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1947-13-237",
+    "name": "gold-weight; shovel; pendant",
+    "kind": "pendant",
+    "title": "gold-weight; shovel; pendant (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_23/72ad14f2_fcf4_41cf_9c02_a3de01894ab5/preview_01489382_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "This is a brass gold-weight cast in the form of a shovel, a classic Akan gold-weight type used for weighing gold dust in Akan trading culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-2219_1",
+    "name": "gold-weight; belt-buckle",
+    "kind": "belt buckle",
+    "title": "gold-weight (?); belt-buckle (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_18/4a5e2b23_a00b_4e92_9695_a3dd01349b7f/preview_01393189_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a lost-wax cast brass S-shaped clasp/fastener with two conjoined animal (bird/serpent) heads — a form and technique closely associated with Akan (or neighboring Akan-influenced) goldweight and metalwork traditions in Ghana. The object type (gold-weight/belt-buckle) is plausible Akan material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1946-20-12",
+    "name": "gold-weight; finger-ring",
+    "kind": "ring",
+    "title": "gold-weight (?); finger-ring",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/a5a51d89_26d7_41b0_bd38_a3dd01100244/preview_01383951_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a lost-wax cast brass object with concentric zig-zag openwork bands, consistent with Akan goldweight or ring-bezel metalwork traditions from Ghana. This craft form and decorative style is well documented among the Akan.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1961-16-17-b",
+    "name": "gold-weight; sheath",
+    "kind": "sheath",
+    "title": "gold-weight; sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_9/8_10/209ec128_8018_46ec_a6ad_b35200a9e26b/preview_EAF8177_b.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "This is a brass gold-weight cast in the form of an afena (ceremonial sword) sheath, a distinctive Akan form of goldweight; while goldweights are technically metrological tools rather than arms, the object itself is a genuine Akan-made item referencing their sword tradition.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-01-5279",
+    "name": "gold-weight; musical horn",
+    "kind": "horn",
+    "title": "gold-weight; musical horn",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_8/29_14/5bde3c4b_ffa1_4c61_a395_b34800ec2f25/preview_EAF124441.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "This is a cast brass gold-weight in the form of a side-blown horn (akoben), a well-documented Akan goldweight motif and a traditional Akan craft object; it clearly belongs to Akan material culture even though it is a miniature weight rather than a playable instrument.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-631-a-b",
+    "name": "kuduo",
+    "kind": "vessel",
+    "title": "kuduo",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_10/3_11/4da59879_0773_4147_8cbf_a96e00bc1062/preview_EAF7016.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a brass kuduo, a lidded ceremonial vessel with incised geometric and figural decoration on the lid, a hallmark of Akan metalworking used for ritual and status purposes. The form and engraved ornament are consistent with authentic Akan production.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af2000-07-1_1",
+    "name": "gold-dust-spoon",
+    "kind": "spoon",
+    "title": "gold-dust-spoon",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/16_13/d7e4ea65_1baa_45c7_9612_b2df00dee643/preview_EAF128978.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a brass gold-dust spoon with a long, incised handle and small round bowl—a classic Akan implement used for measuring gold dust as currency, consistent with the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-01-3550",
+    "name": "gold-weight",
+    "kind": "gold-weight",
+    "title": "gold-weight",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/4481f9e8_7ba4_4cd2_a0d1_a3dd010d3c13/preview_01382937_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a brass, lost-wax cast gold-weight in the form of a crab's claw, a classic Akan goldweight type used for weighing gold dust in Akan trade culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1961-16-33",
+    "name": "gold-weight; pendant",
+    "kind": "gold weight",
+    "title": "gold-weight; pendant",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_17/8d569aa8_a2d0_4e45_9492_a3df01286139/preview_01532792_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "This is a cast brass gold-weight/pendant with geometric ring decoration, a well-documented Akan lost-wax casting tradition used for weighing gold dust and as ornament.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-2451",
+    "name": "gold-weight",
+    "kind": "gold-weight",
+    "title": "gold-weight",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_19/7ad5ff35_21db_484c_94b0_a3de013e977a/preview_01464346_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A rectangular brass lost-wax cast gold-weight with geometric zigzag and comb-tooth motifs, matching the classic Akan goldweight tradition used for weighing gold dust in trade.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-2315_1",
+    "name": "gold-weight; pendant",
+    "kind": "gold weight",
+    "title": "gold-weight (?); pendant (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_17/df978347_e8cf_4bba_b732_a3df011f0a87/preview_01529400_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a lost-wax cast brass gold-weight/pendant in the form of a smoking pipe, a well-known Akan goldweight motif and craft technique. This matches Akan metalworking tradition clearly.",
+    "featured": false
    }
   ],
   "sculpture": [
@@ -91,7 +336,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a carved wooden finial in the form of a hornbill grasping a snake, a well-known Akan/Asante symbolic motif used atop chiefly state umbrellas (linked to proverbs about interdependence and vigilance) — a genuine Akan art form, though it is carved wood, not metal as claimed."
+    "reason": "This is a carved wooden finial in the form of a hornbill grasping a snake, a well-known Akan/Asante symbolic motif used atop chiefly state umbrellas (linked to proverbs about interdependence and vigilance) — a genuine Akan art form, though it is carved wood, not metal as claimed.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -105,7 +351,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a terracotta funerary figurine with a stylized head, ringed neck and raised arms — a form consistent with Akan (or related Akan-area) commemorative funerary pottery traditions from Ghana. The style and material match objects plausibly made by the claimed people."
+    "reason": "This is a terracotta funerary figurine with a stylized head, ringed neck and raised arms — a form consistent with Akan (or related Akan-area) commemorative funerary pottery traditions from Ghana. The style and material match objects plausibly made by the claimed people.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -119,7 +366,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a terracotta commemorative head on a ringed neck/pedestal, consistent with Akan (or related Ghanaian) funerary terracotta traditions used to honor deceased royals and elites. The style, form, and material match known Akan mortuary sculpture."
+    "reason": "This is a terracotta commemorative head on a ringed neck/pedestal, consistent with Akan (or related Ghanaian) funerary terracotta traditions used to honor deceased royals and elites. The style, form, and material match known Akan mortuary sculpture.",
+    "featured": true
    },
    {
     "source": "cleveland",
@@ -133,7 +381,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a terracotta memorial head with elongated neck, elaborate hairstyle, and stylized facial features consistent with Akan (particularly Twifo-Heman/Krobo region) commemorative funerary terracotta heads (mma) used in royal funerary rites in Ghana. The form and material strongly match known Akan terracotta traditions."
+    "reason": "This is a terracotta memorial head with elongated neck, elaborate hairstyle, and stylized facial features consistent with Akan (particularly Twifo-Heman/Krobo region) commemorative funerary terracotta heads (mma) used in royal funerary rites in Ghana. The form and material strongly match known Akan terracotta traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -147,7 +396,23 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "LOW",
-    "reason": "A carved wooden female figure with naturalistic features, ridged coiffure, and closed eyes is consistent with West African ancestor/spirit figure traditions found among the Akan and related groups; nothing marks it as another culture's distinct style."
+    "reason": "A carved wooden female figure with naturalistic features, ridged coiffure, and closed eyes is consistent with West African ancestor/spirit figure traditions found among the Akan and related groups; nothing marks it as another culture's distinct style.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1936-0307-12",
+    "name": "figure; funerary equipment",
+    "kind": "figure",
+    "title": "figure; funerary equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_12/ce384c86_d07e_4a79_aa7b_a3dd00d37a66/preview_01363130_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a terracotta funerary head, consistent with Akan commemorative funerary heads (mma) traditionally made in Ghana for royal or important burials. The stylized flat face, applied features, and reddish clay match this well-documented Akan tradition.",
+    "featured": false
    }
   ],
   "household": [
@@ -163,7 +428,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "A wooden comb with a carved anthropomorphic head handle and geometric incised patterns above the teeth—this is consistent with Akan wooden combs, a well-known Ghanaian craft form."
+    "reason": "A wooden comb with a carved anthropomorphic head handle and geometric incised patterns above the teeth—this is consistent with Akan wooden combs, a well-known Ghanaian craft form.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -177,7 +443,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden mancala board with two rows of six cups raised on a stool-like base, a game board type used widely in West Africa including by Akan peoples, consistent with the claimed ethnicity and household category."
+    "reason": "The image shows a carved wooden mancala board with two rows of six cups raised on a stool-like base, a game board type used widely in West Africa including by Akan peoples, consistent with the claimed ethnicity and household category.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -191,7 +458,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "HIGH",
-    "reason": "This is a classic Akan-style carved wooden stool (model form) with the curved seat, central pedestal, and rectangular base characteristic of Akan royal/domestic stools from Ghana. It clearly fits the claimed ethnicity and household category."
+    "reason": "This is a classic Akan-style carved wooden stool (model form) with the curved seat, central pedestal, and rectangular base characteristic of Akan royal/domestic stools from Ghana. It clearly fits the claimed ethnicity and household category.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -205,7 +473,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A small decorated gourd container with wire-threaded motifs is a plausible domestic craft object from Ghana/West Africa, consistent with Akan household use."
+    "reason": "A small decorated gourd container with wire-threaded motifs is a plausible domestic craft object from Ghana/West Africa, consistent with Akan household use.",
+    "featured": true
    },
    {
     "source": "met",
@@ -219,7 +488,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "HIGH",
-    "reason": "The image shows a brass gold-weighing scale with two pans suspended by strings, a well-documented Akan household/utilitarian object used for measuring gold dust in trade."
+    "reason": "The image shows a brass gold-weighing scale with two pans suspended by strings, a well-documented Akan household/utilitarian object used for measuring gold dust in trade.",
+    "featured": true
    }
   ],
   "ceramic": [
@@ -235,7 +505,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows an unglazed ceramic pot with an anthropomorphic head/neck, incised facial features, and raised bumps on the body — a form consistent with Akan figurative pottery traditions (such as funerary or ritual vessels) from Ghana."
+    "reason": "The image shows an unglazed ceramic pot with an anthropomorphic head/neck, incised facial features, and raised bumps on the body — a form consistent with Akan figurative pottery traditions (such as funerary or ritual vessels) from Ghana.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -249,7 +520,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a black burnished pottery vessel with impressed/stamped decoration, a wide squat body and short neck — a form and finish consistent with traditional Akan pottery-making traditions in Ghana. Nothing about it points to a different culture or a non-ceramic use."
+    "reason": "This is a black burnished pottery vessel with impressed/stamped decoration, a wide squat body and short neck — a form and finish consistent with traditional Akan pottery-making traditions in Ghana. Nothing about it points to a different culture or a non-ceramic use.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -263,7 +535,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A handmade pottery bowl with an incised/stamped geometric band and a looped handle, a plausible traditional Akan earthenware vessel form; nothing here contradicts the attribution."
+    "reason": "A handmade pottery bowl with an incised/stamped geometric band and a looped handle, a plausible traditional Akan earthenware vessel form; nothing here contradicts the attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -277,7 +550,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a plain terracotta pottery vessel with a simple ridged neck, consistent with traditional Akan earthenware pot forms used for storage or ritual purposes in Ghana."
+    "reason": "The image shows a plain terracotta pottery vessel with a simple ridged neck, consistent with traditional Akan earthenware pot forms used for storage or ritual purposes in Ghana.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -291,7 +565,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a dark burnished clay vessel with a wide flaring rim and incised/stamped decorative bands, a form consistent with traditional Akan/Ghanaian hand-built pottery. Nothing in the picture contradicts the claimed attribution."
+    "reason": "The image shows a dark burnished clay vessel with a wide flaring rim and incised/stamped decorative bands, a form consistent with traditional Akan/Ghanaian hand-built pottery. Nothing in the picture contradicts the claimed attribution.",
+    "featured": true
    }
   ],
   "textile": [
@@ -307,7 +582,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a single hand-woven narrow strip cloth with complex warp/weft patterning, consistent with a kente-style Akan weaving strip meant to be sewn together with others into a larger cloth. This matches the claimed Akan textile tradition of narrow-strip weaving."
+    "reason": "The image shows a single hand-woven narrow strip cloth with complex warp/weft patterning, consistent with a kente-style Akan weaving strip meant to be sewn together with others into a larger cloth. This matches the claimed Akan textile tradition of narrow-strip weaving.",
+    "featured": true
    }
   ],
   "jewelry": [
@@ -323,7 +599,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a lost-wax cast brass/gold ring with incised geometric bands, a form consistent with Akan finger-rings or gold-weights, a well-documented Akan tradition of metal casting."
+    "reason": "The image shows a lost-wax cast brass/gold ring with incised geometric bands, a form consistent with Akan finger-rings or gold-weights, a well-documented Akan tradition of metal casting.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -337,7 +614,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a lost-wax cast brass ring/gold-weight with incised geometric decoration, a form consistent with Akan goldweight and personal ornament traditions of Ghana. This matches the claimed Akan attribution with plausible material and technique."
+    "reason": "The image shows a lost-wax cast brass ring/gold-weight with incised geometric decoration, a form consistent with Akan goldweight and personal ornament traditions of Ghana. This matches the claimed Akan attribution with plausible material and technique.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -351,7 +629,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows five leather-bound amulet cases (sebe/safi) worn as protective jewelry, a well-documented form among Akan and neighboring West African peoples influenced by Islamic amulet traditions; the object type is plausible for Ghana and fits the claimed jewelry category."
+    "reason": "The image shows five leather-bound amulet cases (sebe/safi) worn as protective jewelry, a well-documented form among Akan and neighboring West African peoples influenced by Islamic amulet traditions; the object type is plausible for Ghana and fits the claimed jewelry category.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -365,7 +644,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "HIGH",
-    "reason": "The image shows a lost-wax cast brass Akan gold-weight in the form of a feline tooth with suspension loops, a well-documented Akan craft tradition used for weighing gold dust and also worn as an amulet/pendant. This is a genuine Akan-made object."
+    "reason": "The image shows a lost-wax cast brass Akan gold-weight in the form of a feline tooth with suspension loops, a well-documented Akan craft tradition used for weighing gold dust and also worn as an amulet/pendant. This is a genuine Akan-made object.",
+    "featured": true
    }
   ],
   "garment": [
@@ -381,7 +661,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a fibre girdle with attached knives, sheaths, feather and gourd ornaments, and bells, explicitly documented as belonging to an Asante (Akan) executioner's regalia associated with King Prempeh — a worn ritual/ceremonial ensemble consistent with Akan royal court culture."
+    "reason": "This is a fibre girdle with attached knives, sheaths, feather and gourd ornaments, and bells, explicitly documented as belonging to an Asante (Akan) executioner's regalia associated with King Prempeh — a worn ritual/ceremonial ensemble consistent with Akan royal court culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -395,7 +676,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a leather-and-hide bandolier with bullet cases, powder gourd, and knife sheaths — a worn hunter/warrior accoutrement plausible for the West African savanna/forest region including Akan-speaking groups; it is a garment/wearable item, not a neighbouring-culture-specific style that would rule it out."
+    "reason": "The image shows a leather-and-hide bandolier with bullet cases, powder gourd, and knife sheaths — a worn hunter/warrior accoutrement plausible for the West African savanna/forest region including Akan-speaking groups; it is a garment/wearable item, not a neighbouring-culture-specific style that would rule it out.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -409,7 +691,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a strip-woven indigo and white cotton cloth with weft-float patterning, consistent with a hand-woven man's wrapper made using narrow-strip weaving techniques practiced in Ghana, including by Akan weavers. The construction and indigo palette are plausible for the region."
+    "reason": "The image shows a strip-woven indigo and white cotton cloth with weft-float patterning, consistent with a hand-woven man's wrapper made using narrow-strip weaving techniques practiced in Ghana, including by Akan weavers. The construction and indigo palette are plausible for the region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -423,7 +706,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a hunter's bandolier with hide-covered powder boxes, a skin pouch, and a gourd flask worn across the body — plausible hunting equipment consistent with West African (Akan) hunter's regalia, though such items are not culturally distinctive to a specific ethnic group in the region."
+    "reason": "This is a hunter's bandolier with hide-covered powder boxes, a skin pouch, and a gourd flask worn across the body — plausible hunting equipment consistent with West African (Akan) hunter's regalia, though such items are not culturally distinctive to a specific ethnic group in the region.",
+    "featured": true
    }
   ],
   "arms": [
@@ -439,7 +723,8 @@
     "era": "traditional",
     "quality": 5,
     "confidence": "HIGH",
-    "reason": "This is a classic Akan state sword (afena) with iron blade, open-work apertures, and a gold-foil-covered bar-bell hilt — a well-documented Akan ceremonial regalia form used by chiefs and officials in Ghana."
+    "reason": "This is a classic Akan state sword (afena) with iron blade, open-work apertures, and a gold-foil-covered bar-bell hilt — a well-documented Akan ceremonial regalia form used by chiefs and officials in Ghana.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -453,7 +738,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a lost-wax cast brass ornament in the shape of a war horn (eben) with mandible decoration, described as an abosodee sword ornament — a well-documented type of Akan/Asante regalia attached to state swords."
+    "reason": "The image shows a lost-wax cast brass ornament in the shape of a war horn (eben) with mandible decoration, described as an abosodee sword ornament — a well-documented type of Akan/Asante regalia attached to state swords.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -467,7 +753,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a short sword with a turned wooden hilt and a straight iron blade, a form consistent with Akan state swords/ceremonial blades from Ghana, though this example is plainer than the elaborate afena types."
+    "reason": "The image shows a short sword with a turned wooden hilt and a straight iron blade, a form consistent with Akan state swords/ceremonial blades from Ghana, though this example is plainer than the elaborate afena types.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -481,7 +768,8 @@
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a sword with a carved wooden hilt (bulbous, ridged pommel typical of Akan-style state swords) and a straight iron blade, consistent with Akan ceremonial/state swords (afena) from Ghana."
+    "reason": "The image shows a sword with a carved wooden hilt (bulbous, ridged pommel typical of Akan-style state swords) and a straight iron blade, consistent with Akan ceremonial/state swords (afena) from Ghana.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -497,7 +785,8 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a wooden goblet-shaped drum with skin head, pegs, cord binding, and carved decorative bands consistent with an Akan apentemma drum from Ghana."
+    "reason": "The image shows a wooden goblet-shaped drum with skin head, pegs, cord binding, and carved decorative bands consistent with an Akan apentemma drum from Ghana.",
+    "featured": true
    }
   ]
  }
