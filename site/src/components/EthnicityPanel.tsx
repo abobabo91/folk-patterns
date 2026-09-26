@@ -157,7 +157,7 @@ const AF_LABEL: Record<string, string> = {
   sculpture: 'Sculpture',
   household: 'Household objects',
   unclassified: 'Other',
-  photo: 'Documentary photographs',
+  photo: 'Photographs',
 };
 
 function MediaSection({ shard }: { shard: EthnicityShard }) {
@@ -280,8 +280,13 @@ const SECTION_TO_ART_FORMS: Record<string, string[]> = {
   // h2 headings
   'oral tradition & literature': ['painting-mss'],
   'music & performance': ['instruments'],
-  'festivals & rituals': ['masks-ritual', 'photo'],
+  'festivals & rituals': ['masks-ritual'],
 };
+
+// Photographs are their own category with their own section, placed before
+// the glossary / sources (not inside Festivals: most are dress and daily life).
+const PHOTO_SECTION = { id: 'photographs', label: 'Photographs' };
+const _isBackMatter = (heading: string) => /^(glossary|sources)/i.test(heading.trim());
 
 function _lookupBuckets(headingText: string): string[] {
   const key = headingText.trim().toLowerCase().replace(/\s+/g, ' ');
@@ -313,12 +318,28 @@ function _splitByHeading(md: string): { level: number; text: string; body: strin
 
 function WriteupSection({ markdown, shard }: { markdown: string; shard: EthnicityShard }) {
   const stripped = useMemo(() => stripFrontmatter(markdown), [markdown]);
-  const sections = useMemo(() => extractSections(stripped), [stripped]);
   const chunks = useMemo(() => _splitByHeading(stripped), [stripped]);
+  const hasPhotos = (shard.art_form_buckets['photo']?.length ?? 0) > 0;
+  const sections = useMemo(() => {
+    const s = extractSections(stripped);
+    if (!hasPhotos) return s;
+    const i = s.findIndex((x) => _isBackMatter(x.label));
+    return i < 0 ? [...s, PHOTO_SECTION] : [...s.slice(0, i), PHOTO_SECTION, ...s.slice(i)];
+  }, [stripped, hasPhotos]);
+  const backIdx = chunks.findIndex((c) => c.level === 2 && _isBackMatter(c.text));
+  const photoAt = hasPhotos ? (backIdx < 0 ? chunks.length : backIdx) : -1;
 
   // Track which art_form buckets we've rendered inline so we can render the
   // leftovers (unclassified, photo, etc.) as a trailing gallery.
   const bucketsUsed = new Set<string>();
+  if (hasPhotos) bucketsUsed.add('photo');
+  const photoBlock = hasPhotos ? (
+    <div key="photographs" id={PHOTO_SECTION.id} className="scroll-mt-4">
+      <div className="mt-6 mb-6">
+        <ArtFormBucket af="photo" label={AF_LABEL['photo']} items={shard.art_form_buckets['photo']} />
+      </div>
+    </div>
+  ) : null;
 
   const rendered = chunks.map((c, idx) => {
     const html = marked.parse(c.body, { renderer }) as string;
@@ -357,7 +378,7 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
           ))}
         </nav>
       )}
-      <div>{rendered}</div>
+      <div>{photoAt < 0 ? rendered : [...rendered.slice(0, photoAt), photoBlock, ...rendered.slice(photoAt)]}</div>
       {trailing.length > 0 && (
         <div className="mt-6 space-y-8">
           {trailing.map((af) => (
