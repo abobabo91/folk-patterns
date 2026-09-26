@@ -130,21 +130,28 @@ def _call_dir() -> Path:
 
 
 def judge(record_text: str, image: bytes, timeout: int = 180,
-          on_attempt=None) -> tuple[str, str]:
+          on_attempt=None, extra: str = "") -> tuple[str, str]:
     """Judge one record. Returns (reply, error): the reply text when the call
     produced a verdict, else "" and the reason. `image` is downscaled here.
     `on_attempt(attempt, seconds, result_event_or_None, stderr)` is called
-    after every attempt, for raw logging."""
+    after every attempt, for raw logging. `extra` is appended to the system
+    prompt (world_peoples.py pick adds a QUALITY line); the library's own
+    vetting passes nothing."""
     data = downscale(image)
     msg = json.dumps({"type": "user", "message": {"role": "user", "content": [
         {"type": "text", "text": record_text},
         {"type": "image", "source": {"type": "base64", "media_type": _media_type(data),
                                      "data": base64.b64encode(data).decode()}}]}}) + "\n"
     d = _call_dir()
+    sysfile = d / "system.txt"
+    if extra:
+        sysfile = d / f"system-{abs(hash(extra))}.txt"
+        if not sysfile.exists():
+            sysfile.write_text(SYSTEM_PROMPT + "\n" + extra, encoding="utf-8")
     cmd = [shutil.which("claude") or "claude", "--print", "--verbose",
            "--no-session-persistence", "--setting-sources", "local", "--model", MODEL,
            "--input-format", "stream-json", "--output-format", "stream-json",
-           "--system-prompt-file", str(d / "system.txt"), "--tools", "",
+           "--system-prompt-file", str(sysfile), "--tools", "",
            "--strict-mcp-config", "--mcp-config", str(d / "empty_mcp.json")]
     for attempt in range(len(RATE_LIMIT_BACKOFF) + 1):
         t0 = time.time()

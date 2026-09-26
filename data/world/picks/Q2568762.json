@@ -2,9 +2,9 @@
  "key": "Q2568762",
  "label": "Gbagyi people",
  "name": "Gbagyi",
- "judged": 45,
- "cached": 0,
- "cost_usd": 0.404,
+ "judged": 0,
+ "cached": 54,
+ "cost_usd": 0,
  "picks": {
   "ceramic": [
    {
@@ -17,21 +17,9 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a red-slipped pottery bowl with incised rim decoration, a plausible traditional ceramic form for a Nigerian pottery-making group such as the Gbagyi; nothing contradicts the attribution."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1989-14-8-b",
-    "name": "lid",
-    "kind": "lid",
-    "title": "lid",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/2939b46d_caac_4691_be52_a3bc0105dcc8/preview_00429421_001.jpg",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a handmade terracotta ceramic lid with a small knob handle and incised decorative lines, consistent with traditional Gbagyi pottery-making traditions of Nigeria."
+    "reason": "The image shows a red-toned handmade pottery bowl with incised rim decoration, consistent with traditional Gbagyi ceramic ware from Nigeria; the plain woven base is likely a museum display stand rather than part of the object."
    },
    {
     "source": "bm",
@@ -43,8 +31,9 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a handmade earthenware vessel with incised banded decoration and burnished red slip, consistent with traditional Nigerian pottery-making traditions like those of the Gbagyi."
+    "reason": "The image shows a wide-mouthed, red-slipped clay vessel with incised banded decoration, consistent with traditional Nigerian pottery traditions such as those made by Gbagyi potters. It is a plausible handmade ceramic vessel from the region, so it fits the claimed ethnicity."
    },
    {
     "source": "bm",
@@ -56,8 +45,9 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a burnished earthenware lamp with a handle, incised geometric decoration, and a pedestal base — a type of pottery vessel consistent with traditional Nigerian ceramic craft, plausible for the Gbagyi region."
+    "reason": "The image shows a burnished earthenware pedestal lamp with incised geometric decoration and a loop handle, consistent with traditional Nigerian pottery traditions including those of the Gbagyi people; nothing contradicts the claimed attribution."
    },
    {
     "source": "bm",
@@ -69,23 +59,53 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wheel-thrown pottery money-box with incised geometric patterns and red/black slip banding, a plausible domestic ceramic craft item for a Nigerian ethnic group such as the Gbagyi; nothing contradicts the claimed attribution."
+    "reason": "The image shows a wheel-thrown ceramic money-box with incised geometric patterns and red/black slip banding, a plausible domestic pottery form for the Gbagyi region of Nigeria, consistent with their known pottery traditions."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1972-33-1",
+    "name": "figure; roof-finial",
+    "kind": "figure",
+    "title": "figure; roof-finial",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2026_3/23_15/751dd4ba_fd3c_4bac_98ef_b41600fbf23f/preview_EAF24894.jpg",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a terracotta female figure seated astride a hut-shaped vessel, consistent with Gbagyi (and related Nigerian) pottery roof-finial traditions used to ornament granaries or shrine roofs. The object type, material, and iconography plausibly belong to this culture."
    }
   ],
   "household": [
    {
     "source": "bm",
-    "id": "E_Af1989-14-23",
-    "name": "pot-stand",
-    "kind": "pot-stand",
-    "title": "pot-stand",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_4/1_10/4d602819_cbde_4a2d_984d_b2b200af57ee/preview_af1989_14_23__a_.jpg",
+    "id": "E_Af1951-12-41",
+    "name": "basket-cover",
+    "kind": "basket-cover",
+    "title": "basket-cover",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/27_8/b69f8ee8_0565_4aa5_a920_aa01008c73bc/preview_EAF20234.jpg",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a fibre-bound circular pot-ring/stand, a plausible everyday household item of the type used by Gbagyi and other Nigerian communities for stabilizing round-bottomed vessels; nothing contradicts the claimed attribution."
+    "reason": "The image shows a plaited grass conical basket cover with twilled banding and top loops, a plausible household/storage item for the Gbagyi region of central Nigeria; no evidence contradicts the claimed attribution."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1951-12-46",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/1_13/07c745ac_aeb3_4734_8544_a92f00e04a5d/preview_EAF20239.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A carved four-legged wooden stool with incised geometric decoration on the seat, consistent with domestic furniture used by Gbagyi women in Nigeria; nothing contradicts the claimed attribution."
    },
    {
     "source": "bm",
@@ -97,8 +117,9 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden roulette tool with a geometric pattern, used by potters to stamp designs into clay vessels—a plausible traditional craft tool for Gbagyi pottery-making practice."
+    "reason": "The image shows a carved wooden roulette tool used by potters to stamp decorative patterns onto pottery, a craft tool consistent with Gbagyi material culture in Nigeria. This is a plausible household/craft implement for the region."
    },
    {
     "source": "bm",
@@ -110,8 +131,9 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden smoking pipe with carved zigzag and geometric ornament, a plausible everyday household/utilitarian object for a Nigerian group such as the Gbagyi; nothing contradicts the attribution."
+    "reason": "The image shows a carved wooden smoking pipe with a notched grip and engraved geometric ornament on the bowl, a domestic utensil type plausible for Gbagyi material culture in Nigeria; nothing contradicts the attribution."
    },
    {
     "source": "bm",
@@ -123,21 +145,9 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a woven cane basket/strainer with a handle, consistent with a household beer-strainer as described—a plausible everyday craft object for the Gbagyi or neighboring Nigerian groups."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1951-12-41",
-    "name": "basket-cover",
-    "kind": "basket-cover",
-    "title": "basket-cover",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/27_8/b69f8ee8_0565_4aa5_a920_aa01008c73bc/preview_EAF20234.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a plaited grass/fibre basket cover with twilled banding and top loops, a plausible domestic household object for a Nigerian ethnic group such as the Gbagyi; nothing contradicts the attribution."
+    "reason": "The image shows a woven cane beer-strainer basket with a handle, a household/utilitarian craft item consistent with Gbagyi domestic material culture from Nigeria; nothing contradicts the claimed ethnicity."
    }
   ],
   "instruments": [
@@ -151,8 +161,9 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a cylindrical wooden drum bound with hide and cord, a type of instrument consistent with traditional Gbagyi/Nigerian craftsmanship; no evidence contradicts the claimed ethnicity."
+    "reason": "The image shows a cylindrical wooden drum covered with hide, bound with cord and fitted with an iron rattle, consistent with drums used across the Nigerian Middle Belt region including Gbagyi communities; such instruments are plausible for the claimed people and cannot be distinguished stylistically from neighboring groups."
    },
    {
     "source": "bm",
@@ -164,8 +175,9 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a cane/wood tubular musical instrument (likely a flute or horn) with finger holes, decorated with leather fringes and cowrie shells, consistent with West African instrument-making traditions plausible for the Gbagyi region of Nigeria."
+    "reason": "The image shows a cane flute-like instrument with finger holes, wrapped in leather strips ending in cowrie shells — a plausible traditional Nigerian instrument consistent with Gbagyi material culture, and nothing indicates a different origin."
    },
    {
     "source": "bm",
@@ -177,21 +189,9 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a traditional bowed lute/fiddle with hide-covered body, wooden neck, and iron rattle attachments—a type of instrument consistent with Nigerian and broader West African traditions, plausible for the Gbagyi people."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1989-14-12",
-    "name": "rattle",
-    "kind": "rattle",
-    "title": "rattle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/ba6d9f23_8d47_4a71_9c5b_a3bc0106177c/preview_00429403_001.jpg",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a repurposed metal watering-can spout used as a rattle, a plausible improvised musical instrument consistent with Nigerian craft traditions; nothing contradicts the Gbagyi attribution."
+    "reason": "The image shows a hide-covered bowed lute (fiddle) with a wooden neck and iron rattle, a traditional instrument type consistent with Nigerian/Gbagyi musical traditions. This is a plausible instrument made and used by the claimed ethnic group."
    },
    {
     "source": "bm",
@@ -203,8 +203,23 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a large hand-forged iron gong/bell with decorative dangling metal fringe, consistent with iron war gongs used by Nigerian ethnic groups such as the Gbagyi; the form is plausible for the region even though exact ethnic attribution can't be confirmed from the object alone."
+    "reason": "This is a large iron double-bell/gong with dangling metal fringe ornaments, a type of forged iron ritual/signal instrument found among Nigerian and Central African groups; nothing contradicts its attribution to the Gbagyi, though such gongs are shared across neighbouring peoples."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1924-0415-13",
+    "name": "musical instrument; dance equipment",
+    "kind": "instrument",
+    "title": "musical instrument; dance equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/23_16/bc95139a_7ba3_4284_8abf_a9a1010bfb25/preview_EAF16093.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A double-gourd-shaped pottery vessel with incised decorative bands, described as a musical instrument (likely a hummed or blown pot instrument), plausible as a Gbagyi-made ceramic instrument from central Nigeria; nothing contradicts the claimed attribution."
    }
   ],
   "textile": [
@@ -218,21 +233,9 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven strip-cloth wrapper in indigo-and-white checked plaid, consistent with traditional Nigerian narrow-strip weaving practiced by groups including the Gbagyi; nothing contradicts the claimed attribution."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af2000-09-8",
-    "name": "cloth; wrapper",
-    "kind": "cloth",
-    "title": "cloth; wrapper",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_4/97ac0fa5_2d1e_474e_b430_a3c100524908/preview_00602075_001.jpg",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a plain, undyed handwoven cotton strip-cloth wrapper, consistent with the museum's description of a Gbagyi woman's wrapper made of hand-spun cotton strips sewn together with fringed ends—a plausible traditional Nigerian textile."
+    "reason": "The image shows a hand-woven strip-cloth wrapper in indigo and white plaid, consistent with traditional Nigerian narrow-strip cotton weaving practiced by Gbagyi women weavers; the object type and construction match the claimed ethnicity's textile traditions."
    },
    {
     "source": "bm",
@@ -244,21 +247,9 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a handspun, indigo-dyed cotton cloth with openwork strip-weave construction and braided fringe, consistent with traditional Nigerian textile production plausible for the Gbagyi region; nothing contradicts the claimed ethnicity."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af2000-09-7",
-    "name": "cloth; wrapper",
-    "kind": "cloth",
-    "title": "cloth; wrapper",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_4/b01e40cf_3a90_4932_a7d4_a3c100524df8/preview_00602077_001.jpg",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven natural cotton wrapper cloth made of narrow strips joined with decorative braiding, consistent with traditional Nigerian strip-woven textiles as described; this plausibly fits Gbagyi women's dress cloth."
+    "reason": "The image shows a handwoven indigo cotton cloth with strip-woven construction, openwork detailing, and fringed openwork panel — consistent with a Gbagyi-made waist-cloth or head-tie as described."
    },
    {
     "source": "bm",
@@ -270,11 +261,24 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven strip-cloth wrapper in indigo, white, and blue check stripes with a tie extension, consistent with Nigerian narrow-strip cotton weaving traditions such as those practiced by the Gbagyi. Nothing contradicts the claimed attribution."
-   }
-  ],
-  "garment": [
+    "reason": "The image shows a hand-woven strip-woven cotton wrapper cloth with indigo and white checked stripes and a tie fastener strip, consistent with Nigerian narrow-strip weaving traditions such as those practiced by the Gbagyi and neighbouring groups; this is a plausible garment textile for the claimed people."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af2000-09-7",
+    "name": "cloth; wrapper",
+    "kind": "cloth",
+    "title": "cloth; wrapper",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_4/b01e40cf_3a90_4932_a7d4_a3c100524df8/preview_00602077_001.jpg",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a hand-spun natural-cotton woman's wrapper cloth made of narrow woven strips joined with decorative openwork braiding, consistent with traditional Gbagyi textile production and dress practice in Nigeria."
+   },
    {
     "source": "bm",
     "id": "E_Af2000-09-9",
@@ -282,37 +286,12 @@
     "kind": "cloth",
     "title": "cloth; wrapper",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_4/aa9cdbe1_48c2_447f_8f37_a3c100525139/preview_00602079_001.jpg",
-    "art_form": "garment",
+    "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hand-spun cotton strip-woven wrapper cloth with openwork banding, consistent with the described Gbagyi woman's wrapper made of narrow woven strips joined by braiding."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1979-01-575",
-    "name": "hat; head-dress",
-    "kind": "hat",
-    "title": "hat; head-dress",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/12_13/3ba8471b_61d7_4654_8f07_a9b400daaf8c/preview_EAF25500.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wicker-framed hat with fur and feather decoration and ties, consistent with traditional Nigerian headwear plausible for the Gbagyi region; no evidence contradicts the attribution."
-   },
-   {
-    "source": "bm",
-    "id": "E_2018-2036-141",
-    "name": "waist-cloth",
-    "kind": "cloth",
-    "title": "waist-cloth",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/4_14/ee8dc6f8_4e08_4a7e_9c05_aee700eea336/preview_EAF33406___1___F__.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a handwoven, indigo-dyed cotton waist-cloth with strip-woven construction and fringed edges, a garment type consistent with Nigerian handloom textile traditions including the Gbagyi; nothing indicates a different origin."
+    "reason": "The image shows a handwoven natural-cotton strip-woven wrapper cloth with openwork bands, consistent with traditional Gbagyi/Nigerian narrow-strip weaving used for women's wrappers."
    }
   ],
   "arms": [
@@ -326,8 +305,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a composite quiver with leather/snakeskin bindings and barbed iron-headed arrows sealed in a museum storage bag, consistent with West African hunting/arms traditions; quivers and poisoned arrows of this type are plausible for Gbagyi material culture in Nigeria."
+    "reason": "The image shows a composite reed/leather quiver with snakeskin bands and several barbed-iron arrows, a weapon type consistent with Nigerian hunting/warfare traditions such as the Gbagyi; the object is plausible for the claimed people though not diagnostic to them specifically."
    },
    {
     "source": "bm",
@@ -339,8 +319,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a composite wooden bow with leather string binding and leather cover, consistent with a traditional hunting/war weapon plausible for a Nigerian ethnic group such as the Gbagyi; no evidence contradicts the attribution."
+    "reason": "The image shows a composite wooden bow with a wound leather string, leather cover, and lizard-skin band — a plausible traditional weapon type for the Gbagyi region of Nigeria."
    },
    {
     "source": "bm",
@@ -352,8 +333,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden curved throwing club with pokerwork/burned decorative marks, a plausible weapon type used by Gbagyi and neighbouring Nigerian groups; nothing contradicts the attribution."
+    "reason": "The image shows a wooden curved throwing club with pokerwork (burned-line) decoration, a weapon type consistent with those made and used by Gbagyi and neighboring Nigerian groups."
    },
    {
     "source": "bm",
@@ -365,8 +347,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an archer's thumb-guard—an iron ring wrapped in braided leather with a leather flap—consistent with archery equipment used across West African groups including the Gbagyi; such items are plausible for the claimed culture and category."
+    "reason": "The image shows an archer's thumb-guard/ring made of iron with woven leather, a plausible archery accessory for a Nigerian group like the Gbagyi; nothing contradicts the claimed ethnicity."
    },
    {
     "source": "bm",
@@ -378,8 +361,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an iron ceremonial axe with a long handle and a small pendant near the head, consistent with ceremonial weapons/regalia produced by Nigerian ethnic groups such as the Gbagyi; the object type is plausible for the claimed culture."
+    "reason": "The image shows an iron ceremonial axe with a curved blade and a small pendant attachment on a long haft, consistent with West African ceremonial/prestige axes; such iron ceremonial axes are plausible arms/regalia for Gbagyi and neighboring Nigerian groups."
    }
   ],
   "architectural": [
@@ -393,8 +377,9 @@
     "art_form": "architectural",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The photo shows traditional circular thatched mud buildings with relief mud decoration (horse and aeroplane motifs) on the exterior wall, matching Gwari (Gbagyi) vernacular architecture in Nigeria — consistent with the claimed ethnicity despite the category label mismatch (architecture vs. \"photo\")."
+    "reason": "The photo shows traditional circular thatched-roof mud buildings with relief mud decoration (horse and aeroplane motifs) on the exterior wall, consistent with Gwari/Gbagyi vernacular architecture in Nigeria; this documentary image directly depicts structures the people built and decorated."
    },
    {
     "source": "bm",
@@ -406,8 +391,9 @@
     "art_form": "architectural",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The photograph shows a compound with circular thatched-roof mud buildings and granaries, consistent with traditional Gwari/Gbagyi (Gwarl) architecture in Nigeria as described in the museum metadata; this is a documentary photo of dwelling structures used by the group."
+    "reason": "The photograph documents a compound with circular thatched-roof mud buildings and granaries, consistent with traditional architecture found among Gwari/Gbagyi peoples of central Nigeria; this is plausible vernacular architecture for the claimed region."
    },
    {
     "source": "bm",
@@ -419,8 +405,9 @@
     "art_form": "architectural",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The photo shows traditional thatched-roof granary/storage structures with decorated grave markers in a compound courtyard, consistent with documentary ethnographic photography of a Gwari/Gbagyi (or closely related Nigerian) homestead. This is plausible vernacular architecture for the region and fits the claimed people."
+    "reason": "The image shows two thatched-roof granary structures with grave markers in a compound courtyard, matching the museum's own description of a Nigerian (Gwari/Gbagyi-region) homestead; this is documentary architecture consistent with the claimed people's homeland."
    }
   ],
   "photo": [
@@ -434,8 +421,9 @@
     "art_form": "photo",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The photo shows a Gwari (Gbagyi) woman carrying a pointed basket of sticks on her shoulder, balanced on a pot, wearing a head-cloth and neck-ornament — a documentary image of the claimed group's daily life and material culture."
+    "reason": "The photo shows a Gwari (Gbagyi) woman carrying a large woven basket of sticks on her shoulder, wearing a head-cloth and neck-ornament—an authentic documentary image of the claimed people's daily life and material culture (basketry, dress)."
    }
   ],
   "jewelry": [
@@ -449,8 +437,9 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a necklace of spherical pottery beads with incised decoration, alternating red and black — a plausible traditional adornment type for a Nigerian ethnic group like the Gbagyi, and consistent with the museum's description."
+    "reason": "The image shows a necklace of spherical pottery/clay beads with incised decoration, strung alternately in red-orange and black tones, matching the described object plausibly used as personal adornment in the claimed region; no evidence contradicts a Gbagyi (or broadly West African) attribution."
    },
    {
     "source": "bm",
@@ -462,23 +451,39 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a fibre head-ring made of twisted cord wound tightly around a base ring, a type of head-carrying pad plausible for Gbagyi and neighboring Nigerian groups, used as personal adornment/utility item worn on the head."
+    "reason": "The image shows a fibre head-ring made of tightly wound twisted cord with subtle color banding, a type of carrying-pad/head support used across West African peoples including the Gbagyi; it is plausible as an everyday adornment/utility item for this group."
    }
   ],
-  "sculpture": [
+  "garment": [
    {
     "source": "bm",
-    "id": "E_Af1972-33-1",
-    "name": "figure; roof-finial",
-    "kind": "figure",
-    "title": "figure; roof-finial",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2026_3/23_15/751dd4ba_fd3c_4bac_98ef_b41600fbf23f/preview_EAF24894.jpg",
-    "art_form": "sculpture",
+    "id": "E_Af1979-01-575",
+    "name": "hat; head-dress",
+    "kind": "hat",
+    "title": "hat; head-dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/12_13/3ba8471b_61d7_4654_8f07_a9b400daaf8c/preview_EAF25500.jpg",
+    "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a pottery female figure seated atop a hut-like vessel, consistent with Gbagyi (Nigerian) roof-finial/architectural ceramic sculpture traditions. This is plausible regional material culture, clearly photographed."
+    "reason": "The image shows a wicker-framed hat with cloth lining and fur/feather decoration and chin ties, a traditional type of headwear plausible for the Gbagyi or neighbouring Nigerian groups. Nothing contradicts the claimed ethnicity, and the object is a genuine worn garment."
+   },
+   {
+    "source": "bm",
+    "id": "E_2018-2036-141",
+    "name": "waist-cloth",
+    "kind": "cloth",
+    "title": "waist-cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/4_14/ee8dc6f8_4e08_4a7e_9c05_aee700eea336/preview_EAF33406___1___F__.jpg",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a handwoven, indigo-dyed cotton waist-cloth made of joined strips with openwork banding and loose warp fringes — a garment type consistent with Nigerian handwoven cloths including those made by the Gbagyi; nothing contradicts the claimed attribution."
    }
   ]
  }

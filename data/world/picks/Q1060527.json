@@ -2,24 +2,11 @@
  "key": "Q1060527",
  "label": "Chamba people",
  "name": "Chamba",
- "judged": 22,
- "cached": 0,
- "cost_usd": 0.182,
+ "judged": 3,
+ "cached": 19,
+ "cost_usd": 0.03,
  "picks": {
   "sculpture": [
-   {
-    "source": "bm",
-    "id": "E_Af1956-27-277",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/783ee731_17ef_488c_a7f8_a3bf013eae59/preview_00541036_001.jpg",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden male figure with a rounded head, carved hair, a diamond-shaped torso with protruding navel, and articulated legs painted with bands—consistent with Chamba figurative wood sculpture from the Cameroon-Nigeria borderlands."
-   },
    {
     "source": "bm",
     "id": "E_Af1975-12-6",
@@ -30,11 +17,26 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The carved wooden humanoid figure with conical headdress, red glass beads at the neck, and a metal spike base is consistent with Chamba-style figures from Cameroon/Nigeria border region used as ritual or divination objects. This type of carved figure fits plausible Chamba material culture."
+    "reason": "The image shows a carved wooden humanoid figure with a conical/coiffed headdress, arms at sides, red glass beads around the neck, and a metal spike at the base — consistent with Chamba figural staffs/currency figures used in ritual contexts, a form well documented for this Cameroon-Nigeria borderland people."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1956-27-277",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/783ee731_17ef_488c_a7f8_a3bf013eae59/preview_00541036_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden male figure with a round head, articulated hair, arms along the sides, and a protruding navel—consistent with figurative wood sculpture types made by peoples of the Cameroon grassfields/Chamba region area."
    }
   ],
-  "household": [
+  "metalwork": [
    {
     "source": "bm",
     "id": "E_Af1934-1013-3",
@@ -42,11 +44,26 @@
     "kind": "pipe",
     "title": "smoking-pipe",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/0c6125ed_9ea9_43a1_b233_a88600ef2cdd/preview_EAF17365.jpg",
-    "art_form": "household",
+    "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a brass smoking-pipe bowl cast with a stylized animal (elephant-like) figure, a household/utilitarian object of a type made and used by Cameroon Grassfields-region peoples including the Chamba; the form is plausible for the claimed culture."
+    "reason": "This is a brass smoking-pipe bowl cast in the form of a stylized animal (possibly a ram or elephant-referencing creature), a type of metal pipe consistent with Cameroon Grassfields/Chamba-area metalworking traditions; nothing contradicts the claimed ethnicity."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1934-1013-4",
+    "name": "cap; cover",
+    "kind": "cap",
+    "title": "cap; cover",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/6d7ce3df_50af_4bef_a39b_a88600ef2eee/preview_EAF17366.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a brass pipe mouthpiece cap decorated with a leopard figure and spiral motifs, a small metal object used rather than worn — plausible as a Chamba-region metal craft item, though \"garment\" is the wrong category for a pipe cap."
    },
    {
     "source": "bm",
@@ -55,37 +72,12 @@
     "kind": "pipe",
     "title": "smoking-pipe",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/a68ef534_c9c2_4117_8959_a88600ef2abe/preview_EAF17364.jpg",
-    "art_form": "household",
+    "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a brass smoking-pipe bowl with a figural animal/face design, a type of decorated metal household object consistent with Cameroon Grassfields-region craft traditions to which the Chamba are plausibly linked; no evidence contradicts the claimed ethnicity."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1934-1013-6",
-    "name": "smoking-pipe",
-    "kind": "pipe",
-    "title": "smoking-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/67846dd3_b667_45c4_9574_a88600ef32f3/preview_EAF17368.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a brass and wood pipe-stem with fibre binding, a plausible household smoking implement for a Cameroonian grassfields/highlands group such as the Chamba; nothing contradicts the claimed ethnicity."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1934-1013-5",
-    "name": "smoking-pipe",
-    "kind": "pipe",
-    "title": "smoking-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/3e19661e_337a_4c54_9703_a88600ef3097/preview_EAF17367.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a smoking-pipe stem made of brass and wood with fiber wrapping and a leather strap, a plausible everyday household/utensil object for a Cameroonian ethnic group such as the Chamba."
+    "reason": "This is a brass smoking-pipe bowl cast with an animal/human face and decorative shield-like motifs, a form of metalwork consistent with Chamba (Cameroon-Nigeria borderland) figurative brass casting traditions used in daily and prestige contexts. It plausibly belongs to the claimed culture as a used household object."
    }
   ],
   "ceramic": [
@@ -99,8 +91,39 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a finely carved pottery pipe-bowl with elaborate floral/rope relief decoration, consistent with Cameroon Grassfields-area pipe traditions such as the Chamba; it is a plausible household/smoking object made and used within the culture."
+    "reason": "This is a finely carved terracotta pipe-bowl with elaborate relief decoration (chain-and-link motifs, fluting), a type of pottery pipe produced across Cameroon Grassfields/Chamba-related regions; the form and craft are plausible for the claimed people, though pipe styles can be hard to attribute to one specific neighbouring group."
+   }
+  ],
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1934-1013-6",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/67846dd3_b667_45c4_9574_a88600ef32f3/preview_EAF17368.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a smoking-pipe stem made of brass, wood, and fibre binding, a plausible everyday utensil for the Chamba people of Cameroon/Nigeria region. Nothing contradicts the attribution, and such pipe stems are typical household items across this cultural area."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1934-1013-5",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/3e19661e_337a_4c54_9703_a88600ef3097/preview_EAF17367.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a smoking pipe-stem made of brass, wood and fibre with a leather strap and metal bowl-cap, a plausible household/utensil item for a Cameroonian group like the Chamba; the object type is consistent with the region though neighbouring groups make similar pieces."
    }
   ],
   "garment": [
@@ -114,21 +137,23 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a fringed bast-fiber kilt/apron worn as part of a masquerade costume, a plausible garment type for Chamba masquerade traditions in Cameroon/Nigeria borderlands."
+    "reason": "The image shows a bast-fibre fringed kilt/apron worn as part of a masquerade costume, a plausible garment type for Chamba or neighbouring Cameroonian/Nigerian groups practicing masquerade traditions."
    },
    {
     "source": "bm",
-    "id": "E_Af1922-0610-22",
-    "name": "tail-piece; masquerade-costume",
-    "kind": "tail piece",
-    "title": "tail-piece; masquerade-costume",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/27_8/09393fb5_d027_4e01_a162_aa01008c4928/preview_EAF16006.jpg",
+    "id": "E_Af1922-0610-18",
+    "name": "masquerade-costume",
+    "kind": "costume",
+    "title": "masquerade-costume",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/9c4ab31d_43df_44a5_a5fb_a93400d8ab3d/preview_EAF16003.jpg",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a plaited bast-fibre tail-piece belonging to a masquerade costume, a wearable/attachable element used in traditional dance dress consistent with the claimed Chamba ethnicity of Cameroon. It is a plausible garment/costume accessory for the region."
+    "reason": "The image shows a bast-fibre masquerade costume, a type of garment plausible for Chamba ritual/masquerade traditions in Cameroon; nothing contradicts the claimed attribution."
    },
    {
     "source": "bm",
@@ -140,8 +165,9 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a pair of bast-fibre masquerade sleeves used with a mask costume, consistent with Chamba masquerade dress traditions in Cameroon/Nigeria borderlands."
+    "reason": "This shows a pair of bast-fibre masquerade sleeves/costume elements, worn with a mask, consistent with Chamba masquerade traditions in Cameroon; plausible material culture of the group."
    },
    {
     "source": "bm",
@@ -153,64 +179,9 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows handwoven strip-cotton trousers, plain and undecorated, consistent with traditional Cameroon grassfields/Chamba-region garment construction from narrow hand-woven strips sewn together."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1922-0610-19",
-    "name": "apron; masquerade-costume",
-    "kind": "apron",
-    "title": "apron; masquerade-costume",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/fab2a908_120c_4d03_9815_a93400d8adfb/preview_EAF16004.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a fringed bast-fibre kilt/apron used as a masquerade costume, a plausible garment for the Chamba people of Cameroon's masking traditions; nothing contradicts the claimed attribution."
-   }
-  ],
-  "masks-ritual": [
-   {
-    "source": "bm",
-    "id": "E_Af1922-0610-18",
-    "name": "masquerade-costume",
-    "kind": "costume",
-    "title": "masquerade-costume",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/9c4ab31d_43df_44a5_a5fb_a93400d8ab3d/preview_EAF16003.jpg",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a bast-fibre masquerade costume, a type of ritual garment plausible for Chamba or neighbouring Cameroonian groups; it fits the claimed use and origin even without distinctive pattern."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1922-0610-1",
-    "name": "mask; costume; religious/ritual equipment",
-    "kind": "mask",
-    "title": "mask; costume; religious/ritual equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/a06fc28b_d81b_4822_aeab_a3bf013e94cf/preview_00541025_001.jpg",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden horned mask with metal eye inlays and fibre fringe, matching the museum's description of a ritual cow-mask; such horned masks are plausible ritual objects for the Chamba region of Cameroon/Nigeria borderlands."
-   }
-  ],
-  "metalwork": [
-   {
-    "source": "bm",
-    "id": "E_Af1934-1013-4",
-    "name": "cap; cover",
-    "kind": "cap",
-    "title": "cap; cover",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/13_14/6d7ce3df_50af_4bef_a39b_a88600ef2eee/preview_EAF17366.jpg",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "This is a brass pipe-mouthpiece cover/cap decorated with spiral motifs and a leopard figure, a personal metal object rather than a garment; brass casting with such motifs is plausible for Cameroon Grassfields-area peoples including Chamba, but it is metalwork, not a garment."
+    "reason": "The image shows a pair of handwoven, hand-sewn cotton trousers made from narrow strip-woven cloth, a garment type consistent with West African/Cameroon grassfields traditions such as the Chamba use handspun cotton strip weaving for clothing."
    }
   ],
   "instruments": [
@@ -224,24 +195,12 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a long metal (tin) horn with relief ornament, consistent with musical horns used by Chamba and neighboring Cameroonian groups; the object plausibly matches the claimed ethnicity and category."
+    "reason": "The image shows a long metal (tin) horn with incised geometric relief ornament near the bell, consistent with a musical instrument type used by Chamba and neighboring groups in the Cameroon/Nigeria borderland region."
    }
   ],
   "arms": [
-   {
-    "source": "bm",
-    "id": "E_Af1932-1021-121",
-    "name": "spear",
-    "kind": "spear",
-    "title": "spear",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/23_10/997cb5a4_8e71_45b7_827d_aa3800ad35f1/preview_EAF17083.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a long wooden-shafted spear with an iron blade and iron counter-weight at the butt, consistent with weaponry types produced and used by peoples of the Cameroon/Nigeria borderlands, including the Chamba."
-   },
    {
     "source": "bm",
     "id": "E_Af1932-1021-119",
@@ -252,8 +211,39 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a traditional battle axe with an iron blade and carved wooden handle, a weapon type consistent with those made and used by Chamba and neighboring peoples in the Cameroon/Nigeria borderland region."
+    "reason": "The image shows a traditional battle axe with a carved wooden haft (with a face/figure motif near the head) and an iron blade engraved with chevrons, a form consistent with weapons used by Chamba and neighboring peoples of the Cameroon/Nigeria borderland region."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1932-1021-121",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/23_10/997cb5a4_8e71_45b7_827d_aa3800ad35f1/preview_EAF17083.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a spear with an iron leaf-shaped blade and a wooden shaft with an iron counterweight at the butt, consistent with weapons made and used by peoples of the Cameroon/Nigeria borderlands including the Chamba."
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Af1922-0610-1",
+    "name": "mask; costume; religious/ritual equipment",
+    "kind": "mask",
+    "title": "mask; costume; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/a06fc28b_d81b_4822_aeab_a3bf013e94cf/preview_00541025_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden horned cow-form mask with fibre fringe, matching a documented type of Chamba (or related Cameroon/Nigeria borderland) ritual mask used in ceremonial contexts. It is a plausible ritual object for this cultural region."
    }
   ]
  }

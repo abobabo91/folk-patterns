@@ -2,11 +2,25 @@
  "key": "Q2275739",
  "label": "Mambila people",
  "name": "Mambila",
- "judged": 31,
- "cached": 0,
- "cost_usd": 0.253,
+ "judged": 0,
+ "cached": 47,
+ "cost_usd": 0,
  "picks": {
   "ceramic": [
+   {
+    "source": "bm",
+    "id": "E_Af1986-24-54",
+    "name": "vessel",
+    "kind": "vessel",
+    "title": "vessel",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_11/27f1d011_9893_45b4_95bf_a3dc00c53682/preview_01288512_001.jpg",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a distinctive large black pottery vessel with a double stirrup neck and incised decoration, matching the described \"bogo mena fa\" — a traditional Mambila ceramic form used for storage/ritual purposes."
+   },
    {
     "source": "bm",
     "id": "E_Af1986-24-51",
@@ -17,8 +31,9 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "The image shows a rotund handmade pottery cooking vessel with incised decoration below the rim, consistent with the described Mambila \"soo/twom-njeba\" cooking pot used for meat preparation."
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a large rotund handmade pottery cooking vessel with incised decoration around the shoulder, consistent with traditional Mambila ceramic cooking pots used for meat preparation (\"soo/twom-njeba\")."
    },
    {
     "source": "bm",
@@ -30,8 +45,9 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "A handmade black pottery cooking vessel with incised/roulette decoration around the shoulder, consistent with traditional West African (Mambila) pottery production and use."
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a black, rotund handmade cooking pot with incised/impressed decoration around the shoulder, consistent with traditional Mambila pottery (\"nyambo\") from Nigeria."
    },
    {
     "source": "bm",
@@ -43,8 +59,9 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a handmade black pottery cooking vessel with incised decoration around the neck, consistent with traditional Mambila cooking pots used for preparing fish, as described in the museum record."
+    "reason": "The image shows a rotund black cooking pot with incised band decoration below the rim, consistent with a handmade Mambila cooking vessel used for preparing fish as described."
    },
    {
     "source": "bm",
@@ -56,24 +73,54 @@
     "art_form": "ceramic",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a large bulbous clay vessel with a narrow, incised neck consistent with a traditional African beer-storage pot, matching the described Mambila \"bogo\" beer vessel."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-14",
-    "name": "beer-pot",
-    "kind": "pot",
-    "title": "beer-pot",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_10/c2ffb896_1b92_4b79_a6fe_a3dc00a596e5/preview_01288470_001.jpg",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "The image shows a bulbous ceramic beer/water vessel with a narrow neck, bound with split cane strips, matching the described Mambila \"bogo\" pot — a plausible traditional household vessel for the region."
+    "reason": "The image shows a large bulbous handmade pottery vessel with a narrow incised neck, consistent with the described Mambila \"bogo\" beer-storage vessel, a plausible traditional craft item for this Nigerian people."
    }
   ],
   "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1986-24-4",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/11_10/0b840a36_3f66_44ac_ace1_a75200a90c8e/preview_EAF28682.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image clearly shows a large woven cane basket with plaited fibre carrying handles, matching the museum's description of a Mambila grain/root-crop carrying basket (sogo/soro baa) — a plausible everyday household object for this region."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1986-24-31",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_14/dad341a9_279e_4fa2_8230_a75f00ef08c0/preview_EAF28755.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a large single-piece carved wooden stool with a concave seat, triangular cut-outs, burned decorative motifs, and traces of camwood dye — a household furniture object consistent with Mambila carving traditions from Nigeria/Cameroon borderlands."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1986-24-46",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_11/b89e3975_02f2_44b5_a530_a75f00bdc03f/preview_EAF28833.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a long wooden smoking-pipe with a ceramic bowl and metal-ring decoration, matching a Mambila woman's \"tetab\" pipe described in the metadata; this is a plausible household/utensil object for this Nigerian group."
+   },
    {
     "source": "bm",
     "id": "E_Af1986-24-45",
@@ -84,8 +131,9 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hollowed, blackened gourd vessel (\"fer\") with hide suspension loops, a handmade household container plausible for Mambila daily use; the museum's \"ceramic\" label is simply wrong for a gourd object, but that mislabel doesn't disqualify the ethnic attribution."
+    "reason": "This is a large gourd vessel (\"fer\") with a cut opening and hide suspension loops, blackened with soot from use as a household container—a plausible everyday object from the Mambila region of Nigeria, though it is a gourd, not ceramic."
    },
    {
     "source": "bm",
@@ -97,47 +145,9 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden lidded bowl with pyro-engraved circle/dot motifs, not a ceramic vessel as claimed, but wooden vessels are plausible Mambila material culture and the mismatch in category is not grounds for rejection."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-47",
-    "name": "vessel; cup",
-    "kind": "vessel",
-    "title": "vessel; cup",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_12/346f00ed_ea5d_45b7_836c_a3dc00cf2414/preview_01290511_001.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a gourd vessel/cup tied with vine, matching a traditional Mambila drinking vessel described in the metadata, plausible as a household object used by this group."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-24-a-b",
-    "name": "bowl",
-    "kind": "bowl",
-    "title": "bowl",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_12/d407174d_3b17_4bef_bbef_a3dc00cf4b59/preview_01290488_001.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden lidded bowl with pyro-engraved circle/dot decoration, not a ceramic vessel as claimed; the object itself is plausible as a household item from the Mambila region of Nigeria, though the museum's own description contradicts the \"ceramic\" category."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-4",
-    "name": "basket",
-    "kind": "basket",
-    "title": "basket",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/11_10/0b840a36_3f66_44ac_ace1_a75200a90c8e/preview_EAF28682.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "The image shows a large woven cane basket with plaited fibre handles, matching the museum's description of a Mambila carrying basket for grain and root crops — a plausible traditional household item for the region."
+    "reason": "This is a round wooden lidded bowl on a pedestal foot with pyro-engraved circle/dot motifs, not a ceramic vessel — but wooden containers with such decoration are plausible household objects for Mambila or neighbouring Nigerian/Cameroon grassfields peoples, so it still belongs to the culture even if the claimed material is wrong."
    }
   ],
   "masks-ritual": [
@@ -151,21 +161,9 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden animal-head mask with dark pigment, red-and-white concentric eye motifs, and an elongated orange snout/beak — a style consistent with Mambila (Grassfields/Cameroon-Nigeria border region) helmet masks used in ritual dances."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-10-a-j",
-    "name": "divination equipment",
-    "kind": "divination equipment",
-    "title": "divination equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_11/12e8467b_e822_4570_8799_a75f00bdacab/preview_EAF28688.jpg",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a set of cane sticks used for divination, a ritual practice plausible for the Mambila people of Nigeria; such divination sticks are a documented tool used in Mambila spider/leaf divination traditions."
+    "reason": "The picture shows a wooden animal-head mask with painted features (dark body, orange snout, red-and-white eye roundels) and fiber attachments, consistent with Mambila-style helmet masks used in ritual/masquerade contexts from the Nigeria-Cameroon borderland region."
    },
    {
     "source": "bm",
@@ -177,8 +175,9 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a carved wooden elephant mask with large ears, curved trunk, and tusks, a form consistent with Grassfields/Cross River region masking traditions including Mambila ritual masquerade practice."
+    "reason": "This is a carved wooden elephant mask with large ears, upturned trunk, and tusks — a mask form consistent with Mambila and neighboring Grassfields/Cross River region ritual masquerade traditions."
    }
   ],
   "sculpture": [
@@ -192,34 +191,9 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden carved male figure with a high beaded/coiffed headdress, painted teeth, red-accented eyes and joints—consistent with Mambila tadep-style ancestor/ritual figures used in men's cult contexts in Nigeria/Cameroon borderlands."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-43-a-b",
-    "name": "toy",
-    "kind": "toy",
-    "title": "toy",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_11/e74c9113_1c17_4863_be4d_a75f00bdbd6a/preview_EAF28807.jpg",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows two carved palm-pith figurines (male and female) with articulated stick legs, joined by thread — a traditional toy/figure type consistent with Mambila material culture from Nigeria."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-41",
-    "name": "figurine",
-    "kind": "figurine",
-    "title": "figurine",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_14/698ff9c4_619f_4e36_ac21_a75f00ef0e2e/preview_EAF28765.jpg",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a small carved wooden/pith figurine with a simple stylized head, arms, and elongated body, consistent with Mambila \"nuar tu:\" (person) figures traditionally made from raffia palm pith. This matches the museum's description and is plausible for the claimed culture."
+    "reason": "The image shows a carved wooden male figure with a high coiffure and painted black, white and red pigments, consistent with Mambila tadep-style figures used in ritual contexts, matching the museum's description."
    },
    {
     "source": "bm",
@@ -231,8 +205,9 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden carved female figure with painted black, white, and red pigment, prominent teeth, applied arms, and a textured red coiffure—consistent with Mambila-style figural sculpture from Nigeria/Cameroon border region used in ritual/ancestral contexts."
+    "reason": "The image shows a wooden carved female figure with a distinctive high, textured red-painted coiffure, black-painted body with white scarification-like dot patterns, and hands held to the chest — a style consistent with Mambila figurative sculpture (tadep) from Nigeria/Cameroon borderland."
    },
    {
     "source": "bm",
@@ -244,24 +219,40 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden standing male figure with beaded necklace, bead arm ornaments, and a leather/cloth belt, consistent with Mambila figurative sculpture from Nigeria/Cameroon border region."
+    "reason": "The image shows a carved wooden standing male figure with a distinctive tall crested coiffure, painted red lips and white eyes, plastic bead necklace/belt ornaments and a leather loincloth — consistent with Mambila figurative sculpture traditions from the Nigeria/Cameroon borderland."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1986-17-125",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_10/bd14e708_ca3b_4934_b6c7_a75f00b15f02/preview_EAF27513.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a standing wooden male figure with a large rounded head, arms akimbo forming loops, short bowed legs, and characteristic bicolor (dark/light) surface treatment — a style closely associated with Mambila figurative sculpture (tadep) from Nigeria/Cameroon border region. This is consistent with the claimed ethnicity."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3519",
+    "name": "figure; vessel",
+    "kind": "figure",
+    "title": "figure; vessel",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/3_11/86bc63ed_668d_476e_9e8b_a74a00b9831c/preview_EAF23019.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden crouching human figure supporting a bowl on its head, a well-documented sculptural form (figure-vessel/bowl-bearer) consistent with Mambila and related Grassfields/Cameroon-Nigeria borderland traditions, with visible traditional carving, pigment traces, and patina."
    }
   ],
   "instruments": [
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-25",
-    "name": "whistle",
-    "kind": "whistle",
-    "title": "whistle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_11/2428766c_0546_48ec_ba41_a75f00bdae0f/preview_EAF28749.jpg",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a simple hollow reed whistle, notched at each end, consistent with a plausible handmade instrument used by peoples of the Nigerian region including the Mambila."
-   },
    {
     "source": "bm",
     "id": "E_Af1934-0514-2",
@@ -272,21 +263,9 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden side-blown trumpet with a carved human figure at the end, a well-documented instrument type made and used by the Mambila and neighboring Cameroon Grassfields/Nigerian groups. This matches the claimed ethnicity and category."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1986-24-34",
-    "name": "rattle",
-    "kind": "rattle",
-    "title": "rattle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_12/5c26e1f1_fb96_4b88_85e1_a3dc00cf1301/preview_01290498_001.jpg",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a woven palm-leaf rattle with a gourd-based cylindrical body and bound handle, matching the described \"sisa\" rattle — a plausible traditional musical instrument for the Mambila region of Nigeria."
+    "reason": "The image shows a carved wooden side-blown trumpet with a human figure at one end, a well-documented Mambila and broader Cameroon-Nigeria grassfields instrument type used ceremonially. This matches the claimed ethnicity and category plausibly."
    },
    {
     "source": "bm",
@@ -298,21 +277,37 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a skin-covered gourd fiddle with its horsehair bow, a traditional musical instrument type consistent with Mambila craft; the object is plausible for the region and matches the stated category."
+    "reason": "The image shows a skin-covered gourd/resonator fiddle with a wooden neck and a matching horsehair bow, consistent with traditional West African bowed lute instruments used by groups such as the Mambila. This is a plausible musical instrument for the region and fits the claimed category."
    },
    {
     "source": "bm",
-    "id": "E_Af1986-24-42",
-    "name": "whistle",
-    "kind": "whistle",
-    "title": "whistle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_11/4a070b57_4f16_43db_8383_a75f00bdbc4c/EAF28806.JPG",
+    "id": "E_Af1986-24-34",
+    "name": "rattle",
+    "kind": "rattle",
+    "title": "rattle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_12/5c26e1f1_fb96_4b88_85e1_a3dc00cf1301/preview_01290498_001.jpg",
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a small hollow reed whistle notched at each end, matching the museum's description of a \"nggar\" whistle, a plausible traditional Mambila musical instrument."
+    "reason": "The image shows a woven palm-leaf rattle (\"sisa\") with a gourd resonator and cross-strut handle, matching a musical instrument plausibly made and used by the Mambila people of Nigeria."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1934-0514-3",
+    "name": "trumpet",
+    "kind": "trumpet",
+    "title": "trumpet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_13/5de110ab_2d74_4a5a_8414_a74d00e2c171/preview_EAF17350.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden side-blown trumpet with a carved human figure finial, consistent with Mambila (and neighboring Cameroon Grassfields/Nigeria) musical instrument traditions used in ceremonial contexts."
    }
   ],
   "arms": [
@@ -326,8 +321,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "The image shows a rectangular shield made of palm pith strips with concave cut edges and cross-strut binding, consistent with a Mambila-type \"ko\" shield used in Nigeria/Cameroon grassfields region."
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a large rectangular shield made of palm pith strips with concave top and bottom edges and criss-cross cane struts, consistent with the described Mambila \"ko\" shield type. This is a plausible weapon/defensive item for the claimed Nigerian ethnic group."
    },
    {
     "source": "bm",
@@ -339,8 +335,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an old iron machete with wooden grips fixed by rivets, matching the museum's description of a traditional-style weapon plausible for the Mambila region of Nigeria."
+    "reason": "The image shows an old iron machete with a wooden-gripped hilt, consistent with a utilitarian edged weapon/tool plausible for the Mambila region of Nigeria; nothing contradicts the claimed attribution."
    },
    {
     "source": "bm",
@@ -352,8 +349,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden weapon sheath covered in calfskin with cane carrying loops, a plausible arms accessory for a Nigerian group such as the Mambila; nothing contradicts the claimed attribution."
+    "reason": "The image shows a rectangular wood-and-calfskin sheath with cane loops for a belt, matching a weapon accessory type consistent with the Mambila region of Nigeria/Cameroon."
    },
    {
     "source": "bm",
@@ -365,8 +363,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a fiber-cord sling with a woven pocket, a hunting/weapon tool plausible for the Mambila region of Nigeria; nothing contradicts the ethnic attribution."
+    "reason": "The image shows a hand-plaited vegetable-fibre sling with a woven pocket, a type of weapon/hunting tool plausible for the Mambila region of Nigeria."
    },
    {
     "source": "bm",
@@ -378,8 +377,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a long wooden-shafted spear with a barbed iron socketed head, consistent with a weapon plausible for the Mambila region of Nigeria/Cameroon; no evidence contradicts the attribution."
+    "reason": "The image shows a full-length spear with a wooden shaft and a barbed, socketed iron head, consistent with the described \"gwa\" spear type used by the Mambila people of Nigeria."
    }
   ]
  }

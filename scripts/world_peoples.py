@@ -639,22 +639,61 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
                     "description": " · ".join(filter(None, [j.get("culture") and ", ".join(j["culture"]), j.get("technique"), j.get("creation_date")]))}
 
 
+PICK_QUALITY_MIN = 3
+PICK_QUALITY = """
+QUALITY — add one more line, QUALITY: <1-5>: how well this one picture would show a general viewer what this people makes, as one of the five chosen for its category.
+5 a showpiece: distinctive of this people, well made, whole, clearly photographed (a Kuba raffia cloth, an Akan kuduo, a Haida crest pole)
+4 a good, characteristic example of a type this people is known for
+3 a sound but ordinary object that many neighbouring peoples make the same way (a plain spear, a gourd, a comb)
+2 a fragment, a part, raw material, a toy, a plain tool or a dull repeat
+1 barely worth showing, or a catalogue card, drawing of an object, or a picture of something else
+"""
+
+
+def _quality(reply: str) -> int:
+    m = re.search(r"QUALITY:\s*([1-5])", reply or "", re.I)
+    return int(m.group(1)) if m else 0
+
+
+def _choose(objs: list[dict]) -> list[dict]:
+    """The PICK_MAX best of one category: quality first, a good image before a
+    weak one, and the best of each kind before a second of any kind, so five
+    gold-weights never crowd out the one kuduo."""
+    objs = sorted((o for o in objs if o["quality"] >= PICK_QUALITY_MIN),
+                  key=lambda o: (-o["quality"], o["image"] != "good"))
+    out, kinds = [], set()
+    for o in objs:
+        k = re.sub(r"[^a-z]", "", (o.get("kind") or o.get("name") or "").lower())
+        if k not in kinds:
+            out.append(o)
+            kinds.add(k)
+    out += [o for o in objs if o not in out]
+    return out[:PICK_MAX]
+
+
 def cmd_pick(only: list[str]) -> None:
-    """Up to PICK_MAX vetted objects per category per people: candidates are
-    tried in _pick_order, each image shown to the library's judge
-    (scripts/vet_judge.py), at most PICK_TRIES per category. Accepted: BELONGS
-    YES, IMAGE good or weak, ERA not modern or archaeological. The judge often
+    """Up to PICK_MAX objects per category per people, fewer when fewer pass.
+    Up to PICK_TRIES candidates per category, in _pick_order, are shown to the
+    library's judge (scripts/vet_judge.py) with one line added: a QUALITY
+    score 1-5 (PICK_QUALITY). Kept: BELONGS YES, IMAGE good or weak, ERA not
+    modern or archaeological, QUALITY >= PICK_QUALITY_MIN. The judge often
     re-files (wooden bowls the kind list calls ceramic go to household), so
-    every accepted object is collected first and assigned to the judge's
-    category afterwards, good images before weak: a re-filed object is never
-    lost to a category filled earlier, and a category stops early only once 5
-    good picks already land in it. Objects already in the library are skipped.
-    Judge replies are cached in picks/raw.jsonl, so a rerun only pays for new
-    objects. -> data/world/picks/<key>.json.
-    Measured 2026-09-26 on Rukai, Tiv, Oromo, Afar, Haida: 169 judged, 132
-    picks, $1.48 (~$0.009 per call, ~4.5 s each, sequential), 9 dropped. Haida
-    ceramic ends at 0 correctly: all 10 tried were wooden or argillite dishes,
-    re-filed to household (the Haida made no pottery)."""
+    every kept object is collected first and assigned to the judge's category
+    afterwards, then _choose ranks each category by quality with one of each
+    kind first. Objects already in the library are skipped. Judge replies are
+    cached in picks/raw.jsonl, so a rerun only pays for new objects.
+    -> data/world/picks/<key>.json.
+    Measured 2026-09-26, before the QUALITY line, on 15 peoples (Rukai, Tiv,
+    Oromo, Afar, Haida and 10 African): 473 judged, 371 kept, ~$0.009 per call,
+    ~4.5 s each. The judge passed ~90% of what it saw, so without a score the
+    first five to pass won: spinning tops as Ambundu sculpture, raw eggshell as
+    Sukuma jewelry, four plain Akan gold-weights beside the one kuduo. Haida
+    ceramic ends at 0 correctly: all 10 tried were wooden or argillite dishes
+    (the Haida made no pottery).
+    With the QUALITY line, same day, the 10 African peoples: 421 judged, 222
+    picks, $3.80, ~5 min for the richest. Scores q1 17, q2 76, q3 165, q4 114,
+    q5 7; the q1-q2 drops are what the earlier run wrongly kept (spinning
+    tops, drum pegs, sinew, catalogue cards, raw eggshell)."""
     import os
     sys.path.insert(0, str(REPO / "scripts"))
     sys.path.insert(0, str(REPO / "src"))
@@ -671,7 +710,7 @@ def cmd_pick(only: list[str]) -> None:
     seen = {}
     for l in (raw.read_text(encoding="utf-8").splitlines() if raw.exists() else []):
         x = json.loads(l)
-        if x.get("reply"):
+        if "QUALITY:" in (x.get("reply") or ""):
             seen[(x["key"], x["source"], x["id"])] = x
     bm_client = _client() if os.environ.get("BM_CDP_URL") else None
     http = httpx.Client(timeout=45, follow_redirects=True, headers=UA)
@@ -685,7 +724,7 @@ def cmd_pick(only: list[str]) -> None:
                 continue
             n = 0
             for o in _pick_order(objs):
-                if n >= PICK_TRIES or sum(a["art_form"] == cat and a["image"] == "good" for a in accepted) >= PICK_MAX:
+                if n >= PICK_TRIES:
                     break
                 if any(a["source"] == o["source"] and a["id"] == o["id"] for a in accepted):
                     continue
@@ -697,36 +736,40 @@ def cmd_pick(only: list[str]) -> None:
                     d, reply, err = hit["detail"], hit["reply"], ""
                     cached += 1
                 else:
-                    d = _detail(o, bm_client, http)
+                    try:
+                        d = _detail(o, bm_client, http)
+                        img = d and (bm_client if o["source"] == "bm" else http).get(d["image_url"])
+                    except Exception as e:   # one museum timing out must not end the run
+                        print(f"  {cat:13s} {o['id']:22s} fetch failed: {type(e).__name__}", flush=True)
+                        continue
                     if not d:
                         print(f"  {cat:13s} {o['id']:22s} no image", flush=True)
                         continue
-                    img = (bm_client if o["source"] == "bm" else http).get(d["image_url"])
                     if img.status_code != 200:
                         print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
                         continue
                     ev: dict = {}
                     reply, err = judge(build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
                                                     d.get("description") or "", d.get("place") or ""),
-                                       img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}))
+                                       img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}), extra=PICK_QUALITY)
                     tried += 1
                     cost += ev.get("total_cost_usd") or 0
                     with open(raw, "a", encoding="utf-8") as f:
                         f.write(json.dumps({"key": r["key"], "category": cat, **o, "detail": d, "reply": reply, "error": err,
                                             "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
-                ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak")
-                if ok:
+                q = _quality(reply)
+                ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak") and q >= PICK_QUALITY_MIN
+                if belongs and era not in ("modern", "archaeological") and image in ("good", "weak"):
                     accepted.append({**o, "title": d.get("title"), "image_url": d["image_url"],
                                      "art_form": af if af and af != "unclassified" else cat,
-                                     "image": image, "era": era, "confidence": conf, "reason": reason})
-                print(f"  {cat:13s} {o['id']:22s} {'KEEP' if ok else 'drop'} {af or '-':13s} {image:6s} {era:14s} "
+                                     "image": image, "era": era, "quality": q, "confidence": conf, "reason": reason})
+                print(f"  {cat:13s} {o['id']:22s} {'KEEP' if ok else 'drop'} q{q} {af or '-':13s} {image:6s} {era:14s} "
                       f"{'(cached) ' if hit else ''}{reason[:80]}", flush=True)
-        picks: dict[str, list] = {}
-        for a in sorted(accepted, key=lambda a: a["image"] != "good"):
-            if len(picks.setdefault(a["art_form"], [])) < PICK_MAX:
-                picks[a["art_form"]].append(a)
-        picks = {c: v for c, v in picks.items() if v}
+        by: dict[str, list] = {}
+        for a in accepted:
+            by.setdefault(a["art_form"], []).append(a)
+        picks = {c: v for c, v in ((c, _choose(v)) for c, v in by.items()) if v}
         (OUT / "picks" / f"{r['key']}.json").write_text(json.dumps(
             {"key": r["key"], "label": r["label"], "name": name, "judged": tried, "cached": cached, "cost_usd": round(cost, 3),
              "picks": picks}, ensure_ascii=False, indent=1), encoding="utf-8")

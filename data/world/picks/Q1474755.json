@@ -2,9 +2,9 @@
  "key": "Q1474755",
  "label": "Sukuma people",
  "name": "Sukuma",
- "judged": 9,
- "cached": 0,
- "cost_usd": 0.074,
+ "judged": 0,
+ "cached": 10,
+ "cost_usd": 0,
  "picks": {
   "jewelry": [
    {
@@ -17,8 +17,9 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a strand of disc-shaped ostrich eggshell beads strung on fiber cord, a traditional necklace form plausible for Sukuma and other East African peoples."
+    "reason": "The image shows a strand of ostrich eggshell disc beads strung on plant fiber, a traditional beadmaking craft found among various East African pastoralist groups including the Sukuma; nothing contradicts the claim."
    },
    {
     "source": "bm",
@@ -30,75 +31,23 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a strand of disc-shaped ostrich eggshell beads, a traditional adornment form widespread among East African peoples including the Sukuma; nothing contradicts the claimed attribution."
+    "reason": "The image shows a strand of disc-shaped ostrich eggshell beads, a widely known East African adornment form plausible for the Sukuma or their neighbors; nothing contradicts the attribution."
    },
    {
     "source": "bm",
-    "id": "E_Af1926-0206-1",
+    "id": "E_Af1926-0206-4",
     "name": "necklace",
     "kind": "necklace",
     "title": "necklace",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/2f07869e_11cf_411c_88ab_a3e60145256b/preview_01606686_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/9a55452f_41ba_4df0_917b_a3e60145325d/preview_01606689_001.jpg",
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows raw, unshaped ostrich eggshell fragments prior to bead-making, matching the description as the first stage of necklace production; such shell-bead jewelry traditions are plausible for Sukuma and neighboring East African peoples."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1926-0206-2",
-    "name": "necklace",
-    "kind": "necklace",
-    "title": "necklace",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/335c3088_948c_4d0f_b8ff_a3e6014529d3/preview_01606687_001.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows unstrung ostrich eggshell disc beads, drilled but not yet shaped or strung into a necklace — a known jewelry-making material and technique used by Sukuma and other East African peoples, plausible for the claimed group."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1926-0206-3",
-    "name": "necklace",
-    "kind": "necklace",
-    "title": "necklace",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/636d172e_8f0b_4555_8461_a3e601453a4c/preview_01606690_001.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a pile of disc-shaped ostrich eggshell beads with drilled central holes, an intermediate stage of jewelry-making consistent with ostrich eggshell necklace traditions found among East African peoples including the Sukuma."
-   }
-  ],
-  "household": [
-   {
-    "source": "bm",
-    "id": "E_Af1924-1218-178",
-    "name": "spindle",
-    "kind": "spindle",
-    "title": "spindle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_9/15_14/6a6154db_6fd7_417b_9084_af1100e8daf2/preview_EAF41439_FRONT.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden spindle wound with cotton thread, a tool used in traditional hand-spinning practiced by Sukuma and neighboring East African peoples; plausible for the claimed culture. The category is best described as a household/craft tool rather than \"textile\" per se."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1924-1218-177",
-    "name": "spindle",
-    "kind": "spindle",
-    "title": "spindle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_9/15_14/d082f67d_499b_48ab_a614_af1100e8b7a4/preview_EAF41438_FRONT.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden spindle wound with cotton thread, a tool used for hand-spinning cotton fiber into yarn, a plausible domestic craft tool for the Sukuma people of Tanzania. It is a textile-production tool rather than a woven cloth itself, but fits the broader \"made and used\" criterion for the claimed culture."
+    "reason": "The image shows an ostrich eggshell disc-bead necklace strung on cord, a traditional adornment type made across East and Southern African pastoralist/agropastoralist peoples including the Sukuma; nothing contradicts the claimed attribution."
    }
   ],
   "arms": [
@@ -112,8 +61,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows an oval hide shield with a wooden central handle/rib, a form consistent with East African shields used by Sukuma and neighboring groups in Tanzania. This matches the claimed ethnicity and category."
+    "reason": "The image shows an oval hide shield with a wooden central handle and constricted waist, consistent with East African hide shields such as those made by Sukuma and neighboring Tanzanian peoples for use in warfare and ceremony."
    },
    {
     "source": "bm",
@@ -125,8 +75,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image clearly shows an iron blade knife with a woven-wrapped handle and a leather/hide sheath with plaited decoration, consistent with East African knife types made and used by groups such as the Sukuma."
+    "reason": "The image shows an iron knife with a woven-wrapped hilt and matching decorated leather/wood sheath, consistent with East African bladed weapons including those made and used by Sukuma smiths and neighboring groups in Tanzania."
    }
   ]
  }

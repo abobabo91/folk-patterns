@@ -4,7 +4,7 @@
  "name": "Nubian",
  "judged": 14,
  "cached": 0,
- "cost_usd": 0.124,
+ "cost_usd": 0.149,
  "picks": {
   "arms": [
    {
@@ -17,24 +17,12 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a spear with an iron head and wooden shaft, a weapon type plausible for Nubian material culture; nothing contradicts the claimed ethnicity."
+    "reason": "The image shows a spear with a leaf-shaped iron head on a wooden shaft, a weapon type plausible for Nubian and neighboring Nile Valley/Sudanic peoples; nothing contradicts the claimed attribution."
    }
   ],
   "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Af-5124",
-    "name": "necklace",
-    "kind": "necklace",
-    "title": "necklace",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/14_11/fea748f1_7211_455d_b2e6_a47a00bdbabf/preview_EAF30308.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a strung necklace of small disc-shaped ostrich eggshell beads, a well-attested traditional Nubian/Nilotic adornment form, consistent with the claimed ethnicity and category."
-   },
    {
     "source": "bm",
     "id": "E_Af1900-1119-3",
@@ -45,8 +33,23 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a leather breast ornament decorated with embroidery and cowrie shell strands, a type of adornment consistent with Nubian/Nile Valley jewelry traditions using leather and cowrie shells. The object is plausible for the region and matches the claimed category well."
+    "reason": "The image shows a leather breast ornament decorated with embroidery and dense clusters of cowrie shells, consistent with traditional Nubian/Nilotic adornment worn as jewelry across the region."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af-5124",
+    "name": "necklace",
+    "kind": "necklace",
+    "title": "necklace",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/14_11/fea748f1_7211_455d_b2e6_a47a00bdbabf/preview_EAF30308.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a simple necklace of ostrich eggshell beads strung on cotton cord, a form of personal adornment consistent with traditional Nubian and wider Nile Valley/African craft traditions. Nothing contradicts the claimed ethnicity, though such beadwork is common across many neighboring peoples as well."
    },
    {
     "source": "bm",
@@ -58,8 +61,9 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a pendant/necklace made of cowrie shells strung on leather cords, a type of adornment widely used across African cultures including Nubian regions; the object is plausible for the claimed group."
+    "reason": "The image shows a pendant/necklace made of cowrie shells strung on leather cords, a widely used adornment material across Nile Valley and Nubian cultures; plausible as Nubian jewelry."
    },
    {
     "source": "bm",
@@ -71,8 +75,9 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows two neck ornaments made of glass beads and cowrie shells, a traditional adornment style consistent with Nubian/Nile Valley jewelry-making practices; no evidence contradicts the claimed ethnicity."
+    "reason": "Two necklaces of glass beads and cowrie shells strung on cord, a plausible ornament type for Nubian or other northeast African communities; nothing contradicts the claimed origin."
    },
    {
     "source": "bm",
@@ -84,23 +89,25 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image clearly shows a handmade necklace of glass beads strung with cowrie shells, a traditional adornment style consistent with Nubian and broader Nile Valley/African jewelry traditions; nothing contradicts the claimed attribution."
+    "reason": "The image shows a beaded necklace strung with glass beads and cowrie shells, a type of adornment widely worn across Nubian and broader Nile Valley/African communities. It matches the claimed jewelry category and is plausible Nubian material culture."
    }
   ],
   "garment": [
    {
     "source": "bm",
-    "id": "E_Af1900-1119-1",
-    "name": "apron; girdle",
+    "id": "E_Af1939-09-34",
+    "name": "apron",
     "kind": "apron",
-    "title": "apron; girdle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_9/0971429c_8e26_45b9_be4b_a3b60094c3b3/preview_00185891_001.jpg",
+    "title": "apron",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/14_14/7a6c8c03_e637_480d_8725_a47a00eb4986/preview_EAF47666.jpg",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The drawing depicts a beadwork apron/girdle with leather fringe and shell pendants, associated with Aswan (Northeast Africa), consistent with Nubian beaded garments worn as everyday or ceremonial dress."
+    "reason": "This is a beaded and cowrie-shell fringed apron with leather thongs, a garment type consistent with Nubian/Sudanic traditional women's dress; the beadwork pattern is generic enough that it plausibly fits the claimed culture and region."
    },
    {
     "source": "bm",
@@ -112,21 +119,9 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a fringed skirt/petticoat made of fiber strands with cowrie shell decoration along the waistband, a garment type plausible for Nile Valley/Nubian peoples who traditionally wore such fringed skirts (rahat/leather-strip or fiber skirts with cowries)."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1939-09-34",
-    "name": "apron",
-    "kind": "apron",
-    "title": "apron",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/14_14/7a6c8c03_e637_480d_8725_a47a00eb4986/preview_EAF47666.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "This is a beaded apron with cowrie shells, glass beadwork, and leather fringe—a type of adornment/garment consistent with Nile Valley and broader Nilotic/African pastoralist traditions, plausible for Nubian material culture. It is a wearable item made and used by the people, fitting the claimed category and ethnicity."
+    "reason": "This is a leather-strip skirt with cowrie shells strung along the waistband, a garment type well documented among Nubian and wider Nile Valley/Sudanic peoples for dance or ceremonial wear; it plausibly belongs to the claimed culture."
    },
    {
     "source": "bm",
@@ -138,8 +133,9 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a beaded leather apron/girdle with shell (cowrie/olive shell) tassels and geometric beadwork, a garment type consistent with Nubian/Nilotic personal adornment traditions in the region."
+    "reason": "This is a beaded leather apron/girdle with shell (cowrie/olive shell) tassels, a type of adornment/garment consistent with Nile Valley/Nubian women's dress traditions; the geometric beadwork and shell fringing are plausible for the region."
    }
   ],
   "household": [
@@ -153,8 +149,9 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The object is a cow-horn flask with hide covering, carrying strap, and copper wire binding — a made and used vessel plausible for Nubian/Nilotic material culture; it is not ceramic but a horn container, so the claimed category is wrong though ethnicity attribution is plausible."
+    "reason": "This is a cow horn flask covered with hide and copper wire, a household/utility container of the type used by Nile Valley pastoralist peoples including Nubians; it is not a ceramic vessel despite the record's category label, but the object type itself is plausible for the claimed ethnicity."
    },
    {
     "source": "bm",
@@ -166,8 +163,9 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a leather-covered bottle/container decorated with beadwork, cowrie shells, and leather fringe, not a glass or ceramic vessel as described—this is a beaded leather object plausible for Nile Valley/Nubian material culture, though the \"glass beads bottle\" description is a mismatch with the museum's own label."
+    "reason": "The picture shows a leather-covered flask/box decorated with strings of glass beads and a cowrie shell, with leather fringe tassels — a type of beaded leather container consistent with Nilotic/Sudanic material culture including Nubian groups, though it is not ceramic despite the claimed category."
    }
   ],
   "photo": [
@@ -181,8 +179,9 @@
     "art_form": "photo",
     "image": "good",
     "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "A studio albumen photograph showing a Nubian woman in traditional veil and gown carrying a basket on her head, alongside a boy with shaved head and scarification carrying a metal box, matching documentary studio ethnographic photography of Nubian dress and daily life."
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Studio portrait of a Nubian woman in veil, gown and wrist ornaments carrying a produce basket on her head, alongside a boy carrying a metal box, matching the described traditional dress and daily-life documentation of Nubian people in Egypt."
    }
   ]
  }

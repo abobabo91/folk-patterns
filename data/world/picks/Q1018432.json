@@ -2,24 +2,11 @@
  "key": "Q1018432",
  "label": "Bwa people",
  "name": "Bwa",
- "judged": 10,
+ "judged": 15,
  "cached": 0,
- "cost_usd": 0.074,
+ "cost_usd": 0.115,
  "picks": {
   "sculpture": [
-   {
-    "source": "bm",
-    "id": "E_Af1979-01-1722",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_7/15_14/ee83e71c_44ea_44b4_9ba9_a4d600f106d8/preview_EAF55888.jpg",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden standing male figure with elongated proportions, scarification marks on the torso, and a crested coiffure, consistent with the wood-carving traditions of the Bwa and neighboring Voltaic peoples of Burkina Faso."
-   },
    {
     "source": "bm",
     "id": "E_Af1979-01-1723",
@@ -30,24 +17,26 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden female figure with scarification patterns, incised motifs on the torso, and a fiber waist cord—consistent with Bwa/Burkinabe wooden statuary traditions used in ritual or ancestral contexts."
+    "reason": "A carved wooden female figure with elongated arms, incised geometric body markings, and a fiber waist cord — consistent with Bwa/Bobo-region ancestor or shrine figures from Burkina Faso. Style and materials are plausible for the claimed group."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-01-1722",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_7/15_14/ee83e71c_44ea_44b4_9ba9_a4d600f106d8/preview_EAF55888.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden standing male figure with elongated form, crested coiffure, and scarification marks on the torso—consistent with Bwa/Bobo-region ancestor or shrine figures from Burkina Faso."
    }
   ],
   "arms": [
-   {
-    "source": "bm",
-    "id": "E_Af1898-229",
-    "name": "knife",
-    "kind": "knife",
-    "title": "knife",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_7/8_13/817f3d88_38d8_41a8_8305_a4cf00da16c3/preview_EAF33574.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows an iron leaf-shaped blade knife/short sword with a wire-wound wooden handle, consistent with West African (Burkina Faso region) weapon traditions; such throwing/hand knives are plausible for the Bwa or neighboring peoples of the wider region."
-   },
    {
     "source": "bm",
     "id": "E_Af1978-22-420",
@@ -58,34 +47,9 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a curved metal sickle-sword (mambeli-type) with a wrapped wooden handle, consistent with weapon types made and used by peoples of Burkina Faso and the wider West African savanna region including the Bwa."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1898-132",
-    "name": "spear",
-    "kind": "spear",
-    "title": "spear",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_6/24_12/a07453b3_b510_4185_a1db_aa7600c5e6ab/preview_EAF33483.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a simple iron-headed spear with a wooden shaft, a plausible weapon type for Burkina Faso peoples including the Bwa; nothing distinguishes it from neighboring groups, but it fits the region and category."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1898-121",
-    "name": "harpoon",
-    "kind": "harpoon",
-    "title": "harpoon",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_6/5_13/41182f5c_5b6b_492b_bcbf_aa6300e2c2b5/preview_EAF33477.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "A wooden-shafted harpoon with a detachable barbed iron socketed head, consistent with weapons made and used by Bwa hunters/fishers in Burkina Faso; plausible for the region."
+    "reason": "The image shows a curved sickle-sword (mambeli-type) with a wire-wrapped wooden handle and narrow curved metal blade, a weapon form well documented among Bwa and neighboring Gur-speaking peoples of Burkina Faso, consistent with the claimed ethnicity."
    },
    {
     "source": "bm",
@@ -97,11 +61,54 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows an iron dagger with a decorated leather sheath featuring metal appliqué, a type of weapon consistent with West African (Burkina Faso region) traditions; such daggers are used across groups in this area, plausible for Bwa."
+    "reason": "The image shows an iron dagger with a decorated leather/metal sheath featuring copper and brass geometric ornamentation, consistent with West African (Burkina Faso region) weapon traditions such as those made by the Bwa or neighboring groups."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1898-219",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_7/15_14/fd0262db_ff53_4860_88e3_a4d600f086ce/preview_EAF33565.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a sickle-shaped iron blade knife with a wooden handle, a weapon type consistent with those made by Bwa and neighboring peoples of Burkina Faso/West Africa."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1898-132",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_6/24_12/a07453b3_b510_4185_a1db_aa7600c5e6ab/preview_EAF33483.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a simple iron-tipped spear with a wooden shaft, a weapon type widely used across Burkina Faso and West Africa; plausible for the Bwa people, though not distinctive to them alone."
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1898-121",
+    "name": "harpoon",
+    "kind": "harpoon",
+    "title": "harpoon",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_6/5_13/41182f5c_5b6b_492b_bcbf_aa6300e2c2b5/preview_EAF33477.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden-shafted harpoon with a detachable barbed iron head, a plausible weapon/tool type for West African peoples including the Bwa; nothing contradicts the claimed attribution."
    }
   ],
-  "masks-ritual": [
+  "instruments": [
    {
     "source": "bm",
     "id": "E_Af1898-287",
@@ -109,12 +116,15 @@
     "kind": "bell",
     "title": "bell",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_7/15_14/abf866ad_9dfb_4781_bdad_a4d600f0a146/preview_EAF33629.jpg",
-    "art_form": "masks-ritual",
+    "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "An iron war bell with a woven cane loop, a type of object made and used by peoples of the West African savanna region including the Bwa; consistent with the claimed culture and plausible for the region."
-   },
+    "reason": "The image shows an iron bell with a cane/fiber loop handle, a form consistent with West African forged iron bells used for war signaling, ritual, or livestock, plausible for the Bwa people of Burkina Faso."
+   }
+  ],
+  "masks-ritual": [
    {
     "source": "cleveland",
     "id": "144495",
@@ -125,11 +135,10 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 5,
     "confidence": "MEDIUM",
-    "reason": "This is a wooden buffalo mask with large curved horns, geometric painted facial patterns, and a plant-fiber fringe skirt — a classic form associated with Bwa/Bobo ritual masquerades of Burkina Faso, matching the claimed ethnicity and category."
-   }
-  ],
-  "instruments": [
+    "reason": "This is a classic buffalo mask with large curved horns, geometric face painting, and raffia fiber ruff — a well-known type made and used by the Bwa and neighboring Bobo/Gurunsi peoples of Burkina Faso for masquerade rituals. It clearly matches the claimed ethnicity and category."
+   },
    {
     "source": "bm",
     "id": "E_Af1898-288",
@@ -137,11 +146,12 @@
     "kind": "bell",
     "title": "bell",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_7/15_14/6c7e499c_0161_4ab7_8580_a4d600f04775/preview_EAF153082.jpg",
-    "art_form": "instruments",
+    "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an iron bell with a cane/rattan loop handle, consistent with iron bells made and used by peoples of the West African savanna region including Burkina Faso for signaling or ritual purposes; this is a plausible Bwa-associated object."
+    "reason": "The image shows an iron bell with a cane loop handle, a type of ritual/signal bell commonly used across West African peoples including the Bwa for ceremonial or war purposes; plausible for the region."
    }
   ]
  }
