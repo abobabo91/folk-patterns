@@ -9,6 +9,7 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py local        # Met + Cleveland pool rows whose people field names it
     python scripts/world_peoples.py classify     # Wikipedia summary + Haiku: a people? where?
     python scripts/world_peoples.py harvest      # BM object names per people (<= 500), for category breadth
+    python scripts/world_peoples.py cleanup      # Haiku: atlas match, duplicates, sub-groups
     python scripts/world_peoples.py report       # -> data/world/peoples.json
 
 The universe is Wikidata: every item that is an instance of "ethnic group"
@@ -350,7 +351,82 @@ def cmd_harvest(pages: int, threshold: int = 30) -> None:
                 print(f"  {i}/{len(todo)} {d['bm_name']}: {len(d['objects'])}", flush=True)
 
 
-CLASSIFY_MODEL ="claude-haiku-4-5-20251001"
+CLEANUP_PROMPT = """Below is a list of peoples (LIST, one per line: id | name | country | region), and the
+cultures an atlas already has (ATLAS). For each line of BATCH, answer:
+
+- atlas: the ATLAS name that is the same people, or "" (e.g. "Asante people" -> "Ashanti",
+  "Amhara people" -> "Amhara", "Kazakhs" -> "Kazakh"; match the people, not just the country).
+- same_as: the id of another LIST entry that is the same people under another name
+  (Boer / Afrikaners, Lokono / Arawak), or "". Point to the better-known name.
+- part_of: the id of another LIST entry, or an ATLAS name, of which this is a sub-group — a clan,
+  iwi, lineage, sub-tribe, or local branch (Ngāti Kahungunu -> Māori, Thembu -> Xhosa, Aro -> Igbo),
+  or "". Only when it is widely described as part of that people, not merely related or neighbouring.
+
+Reply with a JSON array only, one object per BATCH line, in order:
+[{{"id": "...", "atlas": "", "same_as": "", "part_of": ""}}]
+
+ATLAS
+{atlas}
+
+LIST
+{all}
+
+BATCH
+{batch}
+"""
+
+
+CLEANUP_MODEL = "claude-sonnet-5"   # Haiku got sub-groups wrong: Fante -> Ashanti, Nandi -> Maasai, Nguni -> Xhosa
+
+
+def _json_objects(text: str) -> list[dict]:
+    """Every {...} object in a reply, parsed one by one: one bad line must not lose the batch."""
+    out = []
+    for m in re.finditer(r"\{[^{}]*\}", text or ""):
+        try:
+            out.append(json.loads(m.group(0)))
+        except ValueError:
+            pass
+    return out
+
+
+def cmd_cleanup(min_cats: int, limit: int = 0) -> None:
+    """Atlas match, duplicates and sub-groups for every listed people.
+    The model sees the whole list, so it can point at another entry.
+    -> data/world/cleanup.json"""
+    import os, shutil, subprocess, tempfile
+    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8"))
+          if r["tier"] == "bm" and (r.get("cats3") or 0) >= min_cats]
+    cache_p = OUT / "cleanup.json"
+    cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
+    line = lambda r: f"{r['key']} | {r['label']} | {r.get('country') or ''} | {r.get('region') or ''}"
+    allt = "\n".join(line(r) for r in pe)
+    atlas = "\n".join(_atlas_names())
+    todo = [r for r in pe if r["key"] not in cache][:limit or None]
+    print(f"cleanup: {len(todo)} of {len(pe)} to check", flush=True)
+    mcp = Path(tempfile.gettempdir()) / "empty_mcp.json"
+    mcp.write_text('{"mcpServers":{}}', encoding="utf-8")
+    raw = open(OUT / "cleanup_raw.jsonl", "a", encoding="utf-8")
+    for i in range(0, len(todo), 80):
+        batch = todo[i:i + 80]
+        res = subprocess.run([shutil.which("claude") or "claude", "--print", "--model", CLEANUP_MODEL, "--effort", "low",
+                              "--output-format", "json", "--tools", "", "--mcp-config", str(mcp), "--strict-mcp-config"],
+                             input=CLEANUP_PROMPT.format(atlas=atlas, all=allt, batch="\n".join(line(r) for r in batch)),
+                             capture_output=True, text=True, encoding="utf-8", timeout=900,
+                             env={**os.environ, "MAX_THINKING_TOKENS": "0"})
+        ev = json.loads(res.stdout)
+        raw.write(json.dumps({"batch": i, "cost_usd": ev.get("total_cost_usd"), "result": ev.get("result")}, ensure_ascii=False) + "\n")
+        raw.flush()
+        got = _json_objects(ev.get("result"))
+        keys = {r["key"] for r in batch}
+        for d in got:
+            if d.get("id") in keys:
+                cache[d["id"]] = d
+        cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
+        print(f"  batch {i}: {len(got)}/{len(batch)}, ${ev.get('total_cost_usd') or 0:.3f}", flush=True)
+
+
+CLASSIFY_MODEL = "claude-haiku-4-5-20251001"
 CLASSIFY_PROMPT = """For each entry below (a Wikidata "ethnic group" item with the first lines of its
 English Wikipedia article), decide from the text:
 
@@ -460,7 +536,7 @@ def _atlas_bm_names() -> set[str]:
     return {n for r in json.loads(p.read_text(encoding="utf-8")) for n, c in r["facet"].items() if c} if p.exists() else set()
 
 
-def cmd_report(threshold: int) -> None:
+def cmd_report(threshold: int, min_cats: int = 1) -> None:
     cls_p = OUT / "classified.json"
     cls = json.loads(cls_p.read_text(encoding="utf-8")) if cls_p.exists() else {}
     kinds_p = REPO / "data" / "pool" / "kinds.json"
@@ -503,8 +579,28 @@ def cmd_report(threshold: int) -> None:
         if r["tier"] == "bm" and best[dk(r)] is not r:
             best[dk(r)].setdefault("also", []).append(r["label"])
     keep = [r for r in keep if r["tier"] != "bm" or best[dk(r)] is r]
+    # curated merges (clans / iwi / bands into their people) and the Sonnet atlas matches,
+    # minus the ones data/world/merges.json rejects
+    mp = OUT / "merges.json"
+    merges = json.loads(mp.read_text(encoding="utf-8")) if mp.exists() else {}
+    atlas_not = merges.get("_atlas_not", {})
+    cp = OUT / "cleanup.json"
+    clean = json.loads(cp.read_text(encoding="utf-8")) if cp.exists() else {}
+    by_label = {r["label"]: r for r in keep}
+    for child, parent in merges.items():
+        if child.startswith("_") or child not in by_label or parent not in by_label:
+            continue
+        by_label[parent].setdefault("includes", []).append(child)
+        by_label[child]["merged_into"] = parent
     for r in keep:
-        r["listed"] = r["tier"] == "bm" and (r.get("cats3") or 0) >= 2
+        a = (clean.get(r["key"]) or {}).get("atlas")
+        if a and r["label"] not in atlas_not:
+            r["in_atlas"], r["atlas"] = True, a
+        elif r["label"] in atlas_not:
+            r["in_atlas"] = False
+    keep = [r for r in keep if not r.get("merged_into")]
+    for r in keep:
+        r["listed"] = r["tier"] == "bm" and (r.get("cats3") or 0) >= min_cats
     keep.sort(key=lambda r: (r.get("continent") or "?", not r["listed"], -(r.get("breadth") or 0), -(r.get("cats3") or 0),
                              -(r.get("sampled") or 0)))
     (OUT / "peoples.json").write_text(json.dumps(keep, ensure_ascii=False, indent=0), encoding="utf-8")
@@ -516,7 +612,8 @@ def cmd_report(threshold: int) -> None:
           f"{sum(r['tier'] == 'bm' for r in keep)} of them with {threshold}+ in the BM "
           f"({sum(r['in_atlas'] for r in keep)} already in the atlas)")
     lst = [r for r in keep if r["listed"]]
-    print(f"LIST (2+ categories with 3+ objects): {len(lst)}, new {sum(not r['in_atlas'] for r in lst)}")
+    print(f"LIST ({min_cats}+ categories with 3+ objects): {len(lst)}, new {sum(not r['in_atlas'] for r in lst)}, "
+          f"in atlas {sum(r['in_atlas'] for r in lst)} ({len({r.get('atlas') for r in lst if r.get('atlas')})} distinct atlas cultures)")
     for c, rs in sorted(by.items()):
         l = [r for r in rs if r["listed"]]
         print(f"  {c:9s} listed {len(l):3d} (new {sum(not r['in_atlas'] for r in l):3d}, breadth>=6 {sum((r.get('breadth') or 0) >= 6 for r in l):3d})"
@@ -526,7 +623,7 @@ def cmd_report(threshold: int) -> None:
 def _write_doc(keep: list[dict], threshold: int) -> None:
     lines = ["# World peoples with museum evidence", "",
              "Generated by `python scripts/world_peoples.py report` — do not edit by hand.", "",
-             "A people is **listed** when its objects fill 2+ of the 12 categories with 3+ objects each (column "
+             "A people is **listed** when its objects fill at least one of the 12 categories with 3+ objects (column "
              "**cat. 3+**). It is counted at all when the museums with a people field hold "
              f"{threshold}+ image objects under its "
              "name: the British Museum \"Ethnic group\" and the Met and Cleveland culture fields (the Met: public "
@@ -538,7 +635,9 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
              "BM name via `normalize_kinds.py` (Haiku). **BM** is capped at 500 by the sample. **Eur.** counts "
              "records at ethnographic providers in Europeana that mention the name. It is a text match, so it "
              "is only a hint. Peoples only Europeana finds are listed separately, because most of those are "
-             "word collisions (\"Iron\" for Ossetians, \"Bali\", \"Dan\").", ""]
+             "word collisions (\"Iron\" for Ossetians, \"Bali\", \"Dan\"). Clans, iwi and bands are merged into their "
+             "people (\"incl.\") by the curated `data/world/merges.json`. Its note lists the model suggestions that were "
+             "rejected: Sonnet folded distinct peoples into umbrella groups (Hopi into Puebloan, Vezo into Merina).", ""]
     for cont in sorted({r.get("continent") or "?" for r in keep}):
         rs = [r for r in keep if (r.get("continent") or "?") == cont and r["listed"]]
         below = [r for r in keep if (r.get("continent") or "?") == cont and r["tier"] == "bm" and not r["listed"]]
@@ -547,6 +646,7 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
         for r in rs:
             top = ", ".join(f"{k} {v}" for k, v in list((r.get("categories") or {}).items())[:4])
             also = f" (also {', '.join(r['also'])})" if r.get("also") else ""
+            also += f" (incl. {', '.join(r['includes'])})" if r.get("includes") else ""
             lines.append(f"| [{r['label']}]({r.get('article') or ''}){also} | {r.get('country') or ''} | {r.get('region') or ''} | "
                          f"{'✓' if r['in_atlas'] else ''} | {r.get('sampled', 0) - r.get('local', 0)} | {r.get('local', 0)} | {r.get('breadth', '')} | {r.get('cats3', '')} | "
                          f"{int(100 * (r.get('photo_share') or 0))}% | {top} | {r['europeana']} |")
@@ -561,10 +661,12 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "report"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "cleanup", "report"])
+    ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
+    ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local,
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold)}.get(a.step, lambda: cmd_report(a.threshold))()
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

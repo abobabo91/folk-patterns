@@ -1,0 +1,29 @@
+{
+ "_note": "Curated 2026-09-25 from the Sonnet cleanup suggestions (data/world/cleanup.json): only clans, iwi, bands and divisions of ONE people are merged. Distinct peoples inside an umbrella stay separate: Hopi/Zuni/Tewa (not 'Puebloan'), Dene and Coast Salish nations, Maya peoples, Malagasy peoples (not Merina), Bretons, Csángós, Pomaks, Fante, Lanna, Konyak, Kalaallit, Miao, Mthwakazi. Wrong suggestions not applied: Vezo/Zafimaniry/Antemoro/Bezanozano -> Merina, Mpongwe -> Fang, Iñupiaq <-> Yupik.",
+ "Te Arawa": "Māori",
+ "Ngāti Kahungunu": "Māori",
+ "Ngāpuhi": "Māori",
+ "Thembu tribe": "Xhosa people",
+ "Pondo people": "Xhosa people",
+ "Aro people": "Igbo people",
+ "Igbomina people": "Yoruba people",
+ "Assin": "Asante people",
+ "Tlokwa": "Sotho people",
+ "Manyema": "Luba people",
+ "Sioux": "Lakota people",
+ "Sicangu": "Lakota people",
+ "Sihasapa": "Lakota people",
+ "Santee tribe": "Dakota people",
+ "Copper Inuit": "Inuit",
+ "Jicarilla Apache": "Apache",
+ "Yomut": "Turkmens",
+ "Nandi people": "Kalenjin people",
+ "Boer": "Afrikaners",
+ "_atlas_not": {
+  "Lunda people": "a different people, not Kongo",
+  "Brong people": "a separate Akan people, not Asante",
+  "Herero people": "own people; the atlas Himba page only borrows the BM Herero facet",
+  "Kabyle people": "Algerian Berber people, distinct from the atlas's Moroccan Berber",
+  "Kuki people": "related to, not part of, the Chin"
+ }
+}
