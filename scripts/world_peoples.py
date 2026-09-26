@@ -12,6 +12,7 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py cleanup      # Haiku: atlas match, duplicates, sub-groups
     python scripts/world_peoples.py report       # -> data/world/peoples.json + docs/world-peoples.md
     python scripts/world_peoples.py candidates   # -> data/world/candidates.jsonl: objects per category, one culture per object
+    python scripts/world_peoples.py pick --only Haida Tiv   # <= 5 vetted objects per category -> data/world/picks/ (needs BM_CDP_URL)
 
 The universe is Wikidata: every item that is an instance of "ethnic group"
 (Q41710) or "indigenous people" (Q103817), or of any of their ~2,600
@@ -601,6 +602,120 @@ def cmd_candidates() -> None:
     print(f"{len(pe)} peoples, {len(owner)} distinct objects; {moved} shared objects left to a more specific people")
 
 
+PICK_MAX, PICK_TRIES = 5, 10
+
+
+def _pick_order(objs: list[dict]) -> list[dict]:
+    """Round-robin over kinds, commonest kind first, so the first five tried
+    are five different things (bowl, cup, jar...) rather than five bowls."""
+    by: dict[str, list] = {}
+    for o in objs:
+        by.setdefault(o.get("kind") or o.get("name") or "?", []).append(o)
+    queues = sorted(by.values(), key=len, reverse=True)
+    out = []
+    while any(queues):
+        for q in queues:
+            if q:
+                out.append(q.pop(0))
+    return out
+
+
+def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
+    """{title, description, place, image_url} of one candidate, from its museum."""
+    if o["source"] == "bm":
+        from folk_patterns.museums.british_museum import fetch_detail
+        d = fetch_detail(bm_client, o["id"])
+        return d and dict(d, place="")
+    if o["source"] == "met":
+        r = http.get(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{o['id']}")
+        j = r.json() if r.status_code == 200 else {}
+        return j.get("primaryImageSmall") and {"title": j.get("title") or j.get("objectName"), "image_url": j["primaryImageSmall"],
+                                               "description": " · ".join(filter(None, [j.get("culture"), j.get("medium"), j.get("objectDate")])),
+                                               "place": j.get("country") or ""}
+    r = http.get(f"https://openaccess-api.clevelandart.org/api/artworks/{o['id']}")
+    j = (r.json() or {}).get("data") or {} if r.status_code == 200 else {}
+    img = ((j.get("images") or {}).get("web") or {}).get("url")
+    return img and {"title": j.get("title"), "image_url": img, "place": "",
+                    "description": " · ".join(filter(None, [j.get("culture") and ", ".join(j["culture"]), j.get("technique"), j.get("creation_date")]))}
+
+
+def cmd_pick(only: list[str]) -> None:
+    """Up to PICK_MAX vetted objects per category per people: candidates are
+    tried in _pick_order, each image shown to the library's judge
+    (scripts/vet_judge.py), at most PICK_TRIES per category. Accepted: BELONGS
+    YES, IMAGE good, ERA not modern or archaeological; a weak image only fills
+    a category that ends short. A pick the judge files under another category
+    counts there. Objects already in the library are skipped.
+    -> data/world/picks/<key>.json; every judge reply in picks/raw.jsonl.
+    Measured 2026-09-26 on Rukai, Tiv, Oromo, Afar, Haida: 182 judged, 132
+    picks, $1.60 (~$0.009 per call, ~4.5 s each, sequential), 9 dropped. The
+    judge re-files often (wooden bowls the kind list calls ceramic go to
+    household), and a re-filed pick is lost when that category is already full:
+    Haida ceramic ended at 0 after 10 tries of wooden and argillite dishes."""
+    import os
+    sys.path.insert(0, str(REPO / "scripts"))
+    sys.path.insert(0, str(REPO / "src"))
+    from vet_judge import judge, build_record
+    from vet_images import parse_reply
+    from folk_patterns.museums.british_museum import _client, _in_library
+    want = {s.lower() for s in only}
+    rows = [json.loads(l) for l in (OUT / "candidates.jsonl").read_text(encoding="utf-8").splitlines()]
+    rows = [r for r in rows if not want or {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
+                                             (r.get("atlas") or "").lower()} & want]
+    print(f"{len(rows)} peoples: {', '.join(r['label'] for r in rows)}", flush=True)
+    (OUT / "picks").mkdir(exist_ok=True)
+    bm_client = _client() if os.environ.get("BM_CDP_URL") else None
+    http = httpx.Client(timeout=45, follow_redirects=True, headers=UA)
+    for r in rows:
+        name = r.get("atlas") or re.sub(r"\s+(people|peoples)$", "", r["label"])
+        picks: dict[str, list] = {}
+        weak: dict[str, list] = {}
+        tried = cost = 0
+        t0 = time.time()
+        for cat, objs in r["objects"].items():
+            if cat == "unclassified":
+                continue
+            n = 0
+            for o in _pick_order(objs):
+                if n >= PICK_TRIES or len(picks.get(cat, [])) >= PICK_MAX:
+                    break
+                if o["source"] == "bm" and (bm_client is None or _in_library(o["id"])):
+                    continue
+                n += 1
+                d = _detail(o, bm_client, http)
+                if not d:
+                    print(f"  {cat:13s} {o['id']:22s} no image", flush=True)
+                    continue
+                img = (bm_client if o["source"] == "bm" else http).get(d["image_url"])
+                if img.status_code != 200:
+                    print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
+                    continue
+                ev: dict = {}
+                reply, err = judge(build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
+                                                d.get("description") or "", d.get("place") or ""),
+                                   img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}))
+                tried += 1
+                cost += ev.get("total_cost_usd") or 0
+                belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
+                with open(OUT / "picks" / "raw.jsonl", "a", encoding="utf-8") as f:
+                    f.write(json.dumps({"key": r["key"], "category": cat, **o, "detail": d, "reply": reply, "error": err,
+                                        "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
+                rec = {**o, "title": d.get("title"), "image_url": d["image_url"], "art_form": af or cat,
+                       "image": image, "era": era, "confidence": conf, "reason": reason}
+                ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak")
+                dest = af if af and af != "unclassified" else cat
+                if ok and len(picks.get(dest, [])) < PICK_MAX:
+                    (picks if image == "good" else weak).setdefault(dest, []).append(rec)
+                print(f"  {cat:13s} {o['id']:22s} {'KEEP' if ok else 'drop'} {af or '-':13s} {image:6s} {era:14s} {reason[:90]}", flush=True)
+        for cat, w in weak.items():
+            picks.setdefault(cat, []).extend(w[:PICK_MAX - len(picks[cat])])
+        (OUT / "picks" / f"{r['key']}.json").write_text(json.dumps(
+            {"key": r["key"], "label": r["label"], "name": name, "judged": tried, "cost_usd": round(cost, 3),
+             "picks": picks}, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"{name}: {sum(map(len, picks.values()))} picks in {len(picks)} categories "
+              f"({', '.join(f'{c} {len(v)}' for c, v in picks.items())}); {tried} judged, ${cost:.2f}, {time.time() - t0:.0f}s", flush=True)
+
+
 def _atlas_bm_names() -> set[str]:
     """The BM spellings our own census resolved the atlas cultures to (Asante, Kuba, Herero...)."""
     p = REPO / "data" / "bm_ethnic_census.json"
@@ -732,7 +847,8 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "cleanup", "report", "candidates"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick"])
+    ap.add_argument("--only", nargs="*", default=[], help="pick: peoples by Wikidata key, label or atlas name")
     ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
@@ -741,4 +857,4 @@ if __name__ == "__main__":
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local,
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
