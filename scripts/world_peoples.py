@@ -10,7 +10,8 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py classify     # Wikipedia summary + Haiku: a people? where?
     python scripts/world_peoples.py harvest      # BM object names per people (<= 500), for category breadth
     python scripts/world_peoples.py cleanup      # Haiku: atlas match, duplicates, sub-groups
-    python scripts/world_peoples.py report       # -> data/world/peoples.json
+    python scripts/world_peoples.py report       # -> data/world/peoples.json + docs/world-peoples.md
+    python scripts/world_peoples.py candidates   # -> data/world/candidates.jsonl: objects per category, one culture per object
 
 The universe is Wikidata: every item that is an instance of "ethnic group"
 (Q41710) or "indigenous people" (Q103817), or of any of their ~2,600
@@ -312,7 +313,7 @@ def _bm_name(k: str) -> str | None:
     return None
 
 
-def cmd_harvest(pages: int, threshold: int = 30) -> None:
+def cmd_harvest(pages: int, threshold: int = 30, refill: bool = False) -> None:
     """Object names of every classified people from the BM list pages, up to
     `pages` x 100 per people — enough to count its categories, no images.
     -> data/world/bm_objects.jsonl (gitignored)."""
@@ -326,6 +327,9 @@ def cmd_harvest(pages: int, threshold: int = 30) -> None:
     strong = {r["key"] for r in _rows() if r["bm"] >= threshold}   # Europeana-only hits are mostly word collisions
     todo = [(k, _bm_name(k)) for k, d in cls.items() if d.get("people") and k in strong and k not in done]
     todo = [(k, n) for k, n in todo if n]
+    if refill:   # re-fetch, in full, every people an earlier run stopped at its page cap (the last line per key wins)
+        last = {d["key"]: d for d in (json.loads(l) for l in out_p.read_text(encoding="utf-8").splitlines())}
+        todo = [(k, d["bm_name"]) for k, d in last.items() if len(d["objects"]) >= 500 and len(d["objects"]) % 100 == 0]
     print(f"harvest: {len(todo)} peoples ({len(done)} cached)", flush=True)
     c = _client()
 
@@ -532,6 +536,71 @@ _CATS = ["textile", "garment", "jewelry", "ceramic", "metalwork", "arms", "masks
          "instruments", "household", "architectural", "painting-mss", "photo"]
 
 
+# Kinds the Haiku mapping left unclassified that have an obvious category
+# (top unclassified BM names, 2026-09-26). Samples ("vegetal remains", "dye
+# sample") and money stay unclassified: they are not material culture to show.
+_KIND_FIX = [
+    (re.compile(r"divination|charm|amulet|ceremonial staff|religious/ritual|shrine|fetish", re.I), "masks-ritual"),
+    (re.compile(r"adinkra|stamp|stencil|^pattern", re.I), "textile"),
+    (re.compile(r"model building|model house|house-post", re.I), "architectural"),
+    (re.compile(r"mancala|doll|toy|walking-stick|game", re.I), "household"),
+]
+
+
+def _kinds() -> dict:
+    p = REPO / "data" / "pool" / "kinds.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+
+def _art_form(kinds: dict, name: str | None) -> str:
+    n = (name or "").strip()[:120]
+    af = (kinds.get(n) or {}).get("art_form", "unclassified")
+    if af == "unclassified":
+        for rx, fix in _KIND_FIX:
+            if rx.search(n):
+                return fix
+    return af
+
+
+def cmd_candidates() -> None:
+    """Every listed people's objects, grouped by category — the pool the
+    5-per-category pick works from. One culture per object: an object the BM
+    tags with several peoples (Nguni + Zulu, Akan + Asante) goes to the most
+    specific one, the people with the fewest objects; the umbrella keeps the
+    rest. -> data/world/candidates.jsonl (gitignored)."""
+    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if r.get("listed")]
+    bm = {}
+    for l in (OUT / "bm_objects.jsonl").read_text(encoding="utf-8").splitlines():
+        d = json.loads(l)
+        bm[d["key"]] = d["objects"]   # the last line per key wins (harvest --refill)
+    loc, kinds = _local(), _kinds()
+    pool = {r["key"]: [dict(o, source="bm") for o in bm.get(r["key"], [])] + loc.get(r["key"], []) for r in pe}
+    size = {k: len(v) for k, v in pool.items()}
+    owner: dict[tuple, str] = {}
+    for k, objs in pool.items():
+        for o in objs:
+            ref = (o.get("source"), o["id"])
+            if ref not in owner or size[k] < size[owner[ref]]:
+                owner[ref] = k
+    with open(OUT / "candidates.jsonl", "w", encoding="utf-8") as f:
+        moved = 0
+        for r in pe:
+            cats: dict[str, list] = {}
+            for o in pool[r["key"]]:
+                if owner[(o.get("source"), o["id"])] != r["key"]:
+                    moved += 1
+                    continue
+                cats.setdefault(_art_form(kinds, o.get("name")), []).append(
+                    {"source": o.get("source"), "id": o["id"], "name": o.get("name"),
+                     "kind": (kinds.get((o.get("name") or "").strip()[:120]) or {}).get("kind")})
+            f.write(json.dumps({"key": r["key"], "label": r["label"], "continent": r.get("continent"),
+                                "region": r.get("region"), "country": r.get("country"), "in_atlas": r["in_atlas"],
+                                "atlas": r.get("atlas"), "bm_name": r.get("bm_name"),
+                                "counts": {c: len(v) for c, v in sorted(cats.items(), key=lambda x: -len(x[1]))},
+                                "objects": cats}, ensure_ascii=False) + "\n")
+    print(f"{len(pe)} peoples, {len(owner)} distinct objects; {moved} shared objects left to a more specific people")
+
+
 def _atlas_bm_names() -> set[str]:
     """The BM spellings our own census resolved the atlas cultures to (Asante, Kuba, Herero...)."""
     p = REPO / "data" / "bm_ethnic_census.json"
@@ -558,7 +627,7 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
         if sample:
             cnt: dict[str, int] = {}
             for x in sample:
-                af = (kinds.get((x.get("name") or "").strip()[:120]) or {}).get("art_form", "unclassified")
+                af = _art_form(kinds, x.get("name"))
                 cnt[af] = cnt.get(af, 0) + 1
             r["sampled"] = len(sample)
             r["categories"] = dict(sorted(cnt.items(), key=lambda x: -x[1]))
@@ -663,12 +732,13 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "cleanup", "report"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "cleanup", "report", "candidates"])
     ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
+    ap.add_argument("--refill", action="store_true", help="harvest: re-fetch in full the peoples that hit the page cap")
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local,
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

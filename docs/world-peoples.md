@@ -8,121 +8,121 @@ A people is **listed** when its objects fill at least one of the 13 categories w
 
 | people | country | region | in atlas | BM | Met+Cle | breadth | cat. 3+ | photo | top categories | Eur. |
 |---|---|---|:-:|--:|--:|--:|--:|--:|---|--:|
-| [Edo people](https://en.wikipedia.org/wiki/Edo_people) | Nigeria | West Africa |  | 500 | 138 | 12 | 13 | 11% | sculpture 114, unclassified 98, jewelry 91, photo 68 | 172 |
-| [Igbo people](https://en.wikipedia.org/wiki/Igbo_people) (incl. Aro people) | Nigeria | West Africa | ✓ | 500 | 5 | 12 | 12 | 3% | household 110, ceramic 94, sculpture 65, jewelry 49 | 107 |
-| [Hausa people](https://en.wikipedia.org/wiki/Hausa_people) | Niger | West Africa |  | 500 | 1 | 11 | 11 | 2% | garment 134, household 89, textile 58, ceramic 45 | 230 |
-| [Yoruba people](https://en.wikipedia.org/wiki/Yoruba_people) (incl. Igbomina people) | Nigeria | West Africa | ✓ | 500 | 45 | 10 | 11 | 1% | textile 147, sculpture 113, masks-ritual 49, household 44 | 142 |
+| [Edo people](https://en.wikipedia.org/wiki/Edo_people) | Nigeria | West Africa |  | 1269 | 138 | 12 | 13 | 15% | unclassified 243, photo 209, sculpture 196, jewelry 195 | 172 |
+| [Nguni people](https://en.wikipedia.org/wiki/Nguni_peoples) | South Africa | Southern Africa |  | 3372 | 8 | 12 | 12 | 12% | jewelry 1123, household 846, garment 426, photo 419 | 3 |
+| [Yoruba people](https://en.wikipedia.org/wiki/Yoruba_people) (incl. Igbomina people) | Nigeria | West Africa | ✓ | 2569 | 45 | 12 | 12 | 1% | textile 737, sculpture 540, masks-ritual 278, household 268 | 142 |
+| [Igbo people](https://en.wikipedia.org/wiki/Igbo_people) (incl. Aro people) | Nigeria | West Africa | ✓ | 1330 | 5 | 12 | 12 | 3% | household 262, ceramic 232, sculpture 199, masks-ritual 120 | 107 |
+| [Hausa people](https://en.wikipedia.org/wiki/Hausa_people) | Niger | West Africa |  | 1205 | 1 | 12 | 12 | 2% | garment 331, household 218, textile 184, ceramic 108 | 230 |
+| [Malagasy people](https://en.wikipedia.org/wiki/Malagasy_peoples) | Madagascar | East Africa |  | 1005 | 13 | 12 | 12 | 2% | household 438, textile 133, garment 105, arms 70 | 3 |
+| [Akan people](https://en.wikipedia.org/wiki/Akan_people) | Ghana | West Africa | ✓ | 5152 | 41 | 11 | 12 | 1% | metalwork 3181, household 639, jewelry 503, textile 177 | 10 |
+| [Asante people](https://en.wikipedia.org/wiki/Asante_people) (incl. Assin) | Ghana | West Africa | ✓ | 2404 | 12 | 11 | 12 | 1% | metalwork 756, jewelry 487, household 484, textile 166 | 59 |
+| [Sotho people](https://en.wikipedia.org/wiki/Sotho_people) (incl. Tlokwa) | South Africa | Southern Africa | ✓ | 594 | 2 | 11 | 11 | 3% | jewelry 182, household 106, garment 83, arms 55 | 3 |
+| [Zulu people](https://en.wikipedia.org/wiki/Zulu_people) | South Africa | Southern Africa | ✓ | 1934 | 13 | 10 | 12 | 1% | jewelry 687, household 578, garment 293, arms 144 | 321 |
+| [Berbers](https://en.wikipedia.org/wiki/Berbers) | Morocco | North Africa | ✓ | 914 | 1 | 10 | 11 | 24% | photo 219, jewelry 150, ceramic 145, household 141 | 10 |
+| [Bemba people](https://en.wikipedia.org/wiki/Bemba_people) | Zambia | South Central Africa |  | 609 | 0 | 10 | 11 | 0% | household 211, arms 101, unclassified 71, jewelry 66 | 2 |
 | [Kamba people](https://en.wikipedia.org/wiki/Kamba_people) | Kenya | East Africa |  | 440 | 0 | 10 | 11 | 1% | household 115, arms 106, jewelry 69, garment 34 | 94 |
-| [Asante people](https://en.wikipedia.org/wiki/Asante_people) (incl. Assin) | Ghana | West Africa | ✓ | 500 | 12 | 10 | 10 | 1% | metalwork 168, jewelry 104, household 102, unclassified 26 | 59 |
-| [Shona people](https://en.wikipedia.org/wiki/Shona_people) | Zimbabwe | Southern Africa |  | 500 | 5 | 10 | 10 | 0% | household 171, jewelry 93, arms 90, sculpture 42 | 6 |
-| [Sotho people](https://en.wikipedia.org/wiki/Sotho_people) (incl. Tlokwa) | South Africa | Southern Africa | ✓ | 500 | 2 | 10 | 10 | 3% | jewelry 157, household 84, garment 67, arms 50 | 3 |
-| [Swahili people](https://en.wikipedia.org/wiki/Swahili_people) | Kenya | East Africa | ✓ | 433 | 0 | 10 | 10 | 0% | household 148, ceramic 79, textile 54, unclassified 38 | 114 |
+| [Shona people](https://en.wikipedia.org/wiki/Shona_people) | Zimbabwe | Southern Africa |  | 538 | 5 | 10 | 10 | 0% | household 185, jewelry 102, arms 95, masks-ritual 45 | 6 |
+| [Fulbe people](https://en.wikipedia.org/wiki/Fula_people) | Senegal | West Africa | ✓ | 494 | 3 | 10 | 10 | 17% | household 105, jewelry 85, photo 85, textile 69 | 75 |
+| [Swahili people](https://en.wikipedia.org/wiki/Swahili_people) | Kenya | East Africa | ✓ | 433 | 0 | 10 | 10 | 0% | household 153, ceramic 79, textile 54, jewelry 38 | 114 |
 | [Bedoui](https://en.wikipedia.org/wiki/Bedouin) | Egypt | North Africa |  | 342 | 0 | 10 | 10 | 2% | garment 111, jewelry 67, household 53, textile 38 | 0 |
-| [Zulu people](https://en.wikipedia.org/wiki/Zulu_people) | South Africa | Southern Africa | ✓ | 500 | 13 | 9 | 11 | 1% | jewelry 184, household 142, garment 84, arms 36 | 321 |
-| [Malagasy people](https://en.wikipedia.org/wiki/Malagasy_peoples) | Madagascar | East Africa |  | 500 | 13 | 9 | 11 | 3% | household 194, textile 68, garment 53, unclassified 48 | 3 |
-| [Tetela people](https://en.wikipedia.org/wiki/Tetela_people) | Democratic Republic of the Congo | Central Africa |  | 452 | 0 | 9 | 11 | 1% | arms 136, household 92, jewelry 45, instruments 40 | 3 |
-| [Akan people](https://en.wikipedia.org/wiki/Akan_people) | Ghana | West Africa | ✓ | 500 | 41 | 9 | 10 | 1% | metalwork 316, household 86, jewelry 53, sculpture 20 | 10 |
-| [Berbers](https://en.wikipedia.org/wiki/Berbers) | Morocco | North Africa | ✓ | 500 | 1 | 9 | 10 | 26% | photo 129, jewelry 84, ceramic 76, household 73 | 10 |
-| [Somalis](https://en.wikipedia.org/wiki/Somalis) | Somalia | East Africa | ✓ | 500 | 0 | 9 | 10 | 1% | arms 180, household 141, ceramic 56, textile 47 | 119 |
-| [Fulbe people](https://en.wikipedia.org/wiki/Fula_people) | Senegal | West Africa | ✓ | 494 | 3 | 9 | 10 | 17% | household 104, jewelry 85, photo 85, textile 69 | 75 |
-| [Ibibio people](https://en.wikipedia.org/wiki/Ibibio_people) | Nigeria | West Africa |  | 490 | 2 | 9 | 10 | 3% | sculpture 90, masks-ritual 84, household 82, ceramic 57 | 53 |
+| [Tetela people](https://en.wikipedia.org/wiki/Tetela_people) | Democratic Republic of the Congo | Central Africa |  | 452 | 0 | 9 | 11 | 1% | arms 136, household 95, jewelry 45, instruments 40 | 3 |
+| [Somalis](https://en.wikipedia.org/wiki/Somalis) | Somalia | East Africa | ✓ | 506 | 0 | 9 | 10 | 1% | arms 181, household 143, ceramic 57, textile 47 | 119 |
+| [Ibibio people](https://en.wikipedia.org/wiki/Ibibio_people) | Nigeria | West Africa |  | 490 | 2 | 9 | 10 | 3% | sculpture 90, masks-ritual 89, household 87, ceramic 57 | 53 |
 | [Kikuyu people](https://en.wikipedia.org/wiki/Kikuyu_people) | Kenya | East Africa | ✓ | 341 | 0 | 9 | 10 | 7% | jewelry 103, household 68, arms 53, photo 25 | 39 |
 | [Ewe people](https://en.wikipedia.org/wiki/Ewe_people) | Ghana | West Africa |  | 163 | 0 | 9 | 10 | 3% | garment 43, sculpture 37, textile 30, household 20 | 33 |
-| [Nupe people](https://en.wikipedia.org/wiki/Nupe_people) | Nigeria | West Africa |  | 451 | 1 | 9 | 9 | 0% | ceramic 125, household 84, jewelry 64, garment 55 | 11 |
-| [Ambundu people](https://en.wikipedia.org/wiki/Ambundu) | Angola | South-Central Africa |  | 316 | 0 | 9 | 9 | 0% | household 101, unclassified 65, instruments 33, arms 29 | 0 |
+| [Mthwakazi](https://en.wikipedia.org/wiki/Mthwakazi) | Zimbabwe | Southern Africa | ✓ | 151 | 0 | 9 | 10 | 4% | household 31, garment 29, jewelry 23, arms 17 | 0 |
+| [Nupe people](https://en.wikipedia.org/wiki/Nupe_people) | Nigeria | West Africa |  | 451 | 1 | 9 | 9 | 0% | ceramic 125, household 86, jewelry 64, garment 55 | 11 |
+| [Ambundu people](https://en.wikipedia.org/wiki/Ambundu) | Angola | South-Central Africa |  | 316 | 0 | 9 | 9 | 0% | household 102, masks-ritual 54, instruments 33, arms 29 | 0 |
 | [Pende people](https://en.wikipedia.org/wiki/Pende_people) | Democratic Republic of the Congo | Central Africa |  | 268 | 4 | 9 | 9 | 0% | jewelry 61, household 46, masks-ritual 34, garment 30 | 158 |
-| [Mende people](https://en.wikipedia.org/wiki/Mende_people) | Sierra Leone | West Africa |  | 247 | 1 | 9 | 9 | 9% | household 52, sculpture 44, masks-ritual 33, textile 32 | 156 |
-| [Yaka people](https://en.wikipedia.org/wiki/Yaka_people) | Democratic Republic of the Congo | Central Africa |  | 243 | 3 | 9 | 9 | 1% | arms 76, household 50, sculpture 25, unclassified 20 | 17 |
-| [Kalabari tribe](https://en.wikipedia.org/wiki/Kalabari_tribe) | Nigeria | West Africa |  | 188 | 0 | 9 | 9 | 1% | masks-ritual 41, unclassified 39, arms 30, ceramic 17 | 0 |
-| [Bemba people](https://en.wikipedia.org/wiki/Bemba_people) | Zambia | South Central Africa |  | 500 | 0 | 8 | 10 | 0% | household 176, unclassified 78, arms 72, jewelry 58 | 2 |
+| [Kongo people](https://en.wikipedia.org/wiki/Kongo_people) | Angola | Central Africa | ✓ | 216 | 34 | 9 | 9 | 1% | sculpture 112, ceramic 35, household 29, arms 22 | 17914 |
+| [Mende people](https://en.wikipedia.org/wiki/Mende_people) | Sierra Leone | West Africa |  | 247 | 1 | 9 | 9 | 9% | household 58, sculpture 44, masks-ritual 37, textile 32 | 156 |
+| [Yaka people](https://en.wikipedia.org/wiki/Yaka_people) | Democratic Republic of the Congo | Central Africa |  | 243 | 3 | 9 | 9 | 1% | arms 76, household 55, sculpture 25, instruments 19 | 17 |
+| [Kalabari tribe](https://en.wikipedia.org/wiki/Kalabari_tribe) | Nigeria | West Africa |  | 188 | 0 | 9 | 9 | 1% | masks-ritual 80, arms 30, ceramic 17, sculpture 15 | 0 |
 | [Chokwe people](https://en.wikipedia.org/wiki/Chokwe_people) | Angola | South-Central Africa | ✓ | 215 | 10 | 8 | 10 | 0% | household 89, arms 45, sculpture 21, instruments 19 | 168 |
-| [Nguni people](https://en.wikipedia.org/wiki/Nguni_peoples) | South Africa | Southern Africa |  | 500 | 8 | 8 | 9 | 11% | jewelry 159, household 133, garment 72, photo 56 | 3 |
+| [Gbaya people](https://en.wikipedia.org/wiki/Gbaya_people) | Central African Republic | Central Africa |  | 172 | 0 | 8 | 10 | 8% | arms 72, household 42, photo 14, jewelry 10 | 411 |
+| [Xhosa people](https://en.wikipedia.org/wiki/Xhosa_people) (incl. Thembu tribe, Pondo people) | South Africa | Southern Africa | ✓ | 794 | 11 | 8 | 9 | 1% | jewelry 406, household 195, garment 108, ceramic 23 | 3 |
+| [Maasai people](https://en.wikipedia.org/wiki/Maasai_people) | Kenya | East Africa | ✓ | 540 | 1 | 8 | 9 | 4% | arms 197, jewelry 151, garment 67, household 60 | 154 |
 | [Luhya](https://en.wikipedia.org/wiki/Luhya_people) | Kenya | East Africa |  | 397 | 0 | 8 | 9 | 32% | photo 127, arms 74, jewelry 67, household 61 | 0 |
 | [Dinka people](https://en.wikipedia.org/wiki/Dinka_people) | South Sudan | East Africa |  | 311 | 0 | 8 | 9 | 20% | arms 70, household 67, photo 61, jewelry 59 | 16 |
-| [Ovambo people](https://en.wikipedia.org/wiki/Ovambo_people) | Namibia | Southern Africa |  | 278 | 0 | 8 | 9 | 1% | jewelry 66, household 58, garment 48, arms 45 | 88 |
-| [Kongo people](https://en.wikipedia.org/wiki/Kongo_people) | Angola | Central Africa | ✓ | 216 | 34 | 8 | 9 | 1% | sculpture 112, ceramic 35, household 29, arms 22 | 17914 |
-| [Bamileke people](https://en.wikipedia.org/wiki/Bamileke_people) | Cameroon | Central Africa |  | 208 | 6 | 8 | 9 | 0% | household 89, ceramic 26, sculpture 22, masks-ritual 20 | 2 |
-| [Gbaya people](https://en.wikipedia.org/wiki/Gbaya_people) | Central African Republic | Central Africa |  | 172 | 0 | 8 | 9 | 8% | arms 72, household 39, photo 14, jewelry 10 | 411 |
+| [Ovambo people](https://en.wikipedia.org/wiki/Ovambo_people) | Namibia | Southern Africa |  | 278 | 0 | 8 | 9 | 1% | jewelry 66, household 65, garment 48, arms 45 | 88 |
+| [Bamileke people](https://en.wikipedia.org/wiki/Bamileke_people) | Cameroon | Central Africa |  | 208 | 6 | 8 | 9 | 0% | household 89, ceramic 26, sculpture 22, masks-ritual 22 | 2 |
 | [Baganda people](https://en.wikipedia.org/wiki/Baganda) | Uganda | East Africa |  | 167 | 1 | 8 | 9 | 17% | household 45, arms 28, photo 28, jewelry 20 | 19 |
-| [Mthwakazi](https://en.wikipedia.org/wiki/Mthwakazi) | Zimbabwe | Southern Africa | ✓ | 151 | 0 | 8 | 9 | 4% | household 31, garment 29, jewelry 23, arms 17 | 0 |
 | [Dogon people](https://en.wikipedia.org/wiki/Dogon_people) | Mali | West Africa |  | 81 | 34 | 8 | 9 | 0% | sculpture 24, textile 16, garment 14, instruments 14 | 49 |
-| [Kalenjin people](https://en.wikipedia.org/wiki/Kalenjin_people) (incl. Nandi people) | Kenya | East Africa |  | 333 | 0 | 8 | 8 | 2% | arms 125, household 65, jewelry 64, garment 30 | 35 |
-| [Konso people](https://en.wikipedia.org/wiki/Konso_people) | Ethiopia | East Africa |  | 129 | 0 | 8 | 8 | 0% | household 42, jewelry 31, arms 14, garment 12 | 3 |
-| [Luo people](https://en.wikipedia.org/wiki/Luo_people) | Kenya | East Africa |  | 283 | 0 | 7 | 9 | 14% | arms 77, household 63, photo 39, jewelry 37 | 78 |
-| [Tiv people](https://en.wikipedia.org/wiki/Tiv_people) | Nigeria | West Africa |  | 243 | 0 | 7 | 9 | 2% | arms 68, household 55, sculpture 55, jewelry 16 | 252 |
-| [Xhosa people](https://en.wikipedia.org/wiki/Xhosa_people) (incl. Thembu tribe, Pondo people) | South Africa | Southern Africa | ✓ | 500 | 11 | 7 | 8 | 2% | jewelry 247, household 120, garment 77, textile 15 | 3 |
-| [Maasai people](https://en.wikipedia.org/wiki/Maasai_people) | Kenya | East Africa | ✓ | 500 | 1 | 7 | 8 | 5% | arms 190, jewelry 138, garment 62, household 50 | 154 |
+| [Kalenjin people](https://en.wikipedia.org/wiki/Kalenjin_people) (incl. Nandi people) | Kenya | East Africa |  | 333 | 0 | 8 | 8 | 2% | arms 125, household 66, jewelry 64, garment 30 | 35 |
+| [Konso people](https://en.wikipedia.org/wiki/Konso_people) | Ethiopia | East Africa |  | 129 | 0 | 8 | 8 | 0% | household 44, jewelry 31, arms 14, garment 12 | 3 |
+| [Luo people](https://en.wikipedia.org/wiki/Luo_people) | Kenya | East Africa |  | 283 | 0 | 7 | 9 | 14% | arms 77, household 64, photo 39, jewelry 37 | 78 |
+| [Tiv people](https://en.wikipedia.org/wiki/Tiv_people) | Nigeria | West Africa |  | 243 | 0 | 7 | 9 | 2% | arms 68, household 55, sculpture 55, masks-ritual 23 | 252 |
+| [Venda people](https://en.wikipedia.org/wiki/Venda_people) | South Africa | Southern Africa |  | 181 | 0 | 7 | 9 | 59% | photo 107, household 17, jewelry 16, arms 14 | 6 |
 | [Mbunda people](https://en.wikipedia.org/wiki/Mbunda_people) | Angola | Southern Africa |  | 310 | 0 | 7 | 8 | 0% | textile 69, jewelry 62, garment 48, ceramic 37 | 8 |
 | [Luba people](https://en.wikipedia.org/wiki/Luba_people) (incl. Manyema) | Democratic Republic of the Congo | Central Africa |  | 249 | 15 | 7 | 8 | 0% | household 78, sculpture 58, arms 54, ceramic 21 | 70 |
+| [Ngoni people](https://en.wikipedia.org/wiki/Ngoni_people) | Tanzania | Southern Africa |  | 251 | 0 | 7 | 8 | 0% | arms 90, household 53, jewelry 50, garment 22 | 1 |
 | [Lozi people](https://en.wikipedia.org/wiki/Lozi_people) (also Lodha people) | Zambia | Southern Africa |  | 237 | 0 | 7 | 8 | 0% | household 87, ceramic 72, sculpture 30, instruments 17 | 12 |
-| [Hutu](https://en.wikipedia.org/wiki/Hutu) | Rwanda | East Africa |  | 201 | 0 | 7 | 8 | 0% | jewelry 57, household 40, textile 30, arms 24 | 2 |
-| [Venda people](https://en.wikipedia.org/wiki/Venda_people) | South Africa | Southern Africa |  | 181 | 0 | 7 | 8 | 59% | photo 107, jewelry 16, household 16, arms 14 | 6 |
+| [Bari people](https://en.wikipedia.org/wiki/Bari_people) | South Sudan | East Africa |  | 208 | 0 | 7 | 8 | 5% | arms 96, household 35, jewelry 28, garment 22 | 291 |
+| [Hutu](https://en.wikipedia.org/wiki/Hutu) | Rwanda | East Africa |  | 201 | 0 | 7 | 8 | 0% | jewelry 57, household 42, textile 30, arms 24 | 2 |
 | [Fang people](https://en.wikipedia.org/wiki/Fang_people) | Equatorial Guinea | Central Africa | ✓ | 148 | 15 | 7 | 8 | 6% | arms 84, household 15, sculpture 13, instruments 13 | 1076 |
-| [Ekoi people](https://en.wikipedia.org/wiki/Ekoi_people) | Nigeria | West Africa |  | 144 | 0 | 7 | 8 | 0% | masks-ritual 46, ceramic 31, household 19, sculpture 16 | 32 |
+| [Ekoi people](https://en.wikipedia.org/wiki/Ekoi_people) | Nigeria | West Africa |  | 144 | 0 | 7 | 8 | 0% | masks-ritual 47, ceramic 31, household 21, sculpture 16 | 32 |
+| [Nuba peoples](https://en.wikipedia.org/wiki/Nuba_peoples) | Sudan | East Africa |  | 137 | 0 | 7 | 8 | 7% | household 35, arms 34, ceramic 19, textile 15 | 2 |
 | [Beja people](https://en.wikipedia.org/wiki/Beja_people) | Sudan | Northeast Africa |  | 89 | 0 | 7 | 7 | 16% | household 25, arms 18, photo 14, jewelry 10 | 4 |
-| [Songye people](https://en.wikipedia.org/wiki/Songye_people) | Democratic Republic of the Congo | Central Africa |  | 175 | 2 | 6 | 9 | 2% | sculpture 56, arms 50, household 23, instruments 12 | 6 |
-| [Betsimisaraka people](https://en.wikipedia.org/wiki/Betsimisaraka_people) | Madagascar | East Africa |  | 327 | 0 | 6 | 8 | 0% | household 162, unclassified 38, textile 37, garment 35 | 6 |
+| [San people](https://en.wikipedia.org/wiki/San_peoples) | South Africa | Southern Africa | ✓ | 304 | 0 | 6 | 10 | 1% | arms 121, household 52, painting-mss 42, jewelry 32 | 7054 |
+| [Songye people](https://en.wikipedia.org/wiki/Songye_people) | Democratic Republic of the Congo | Central Africa |  | 175 | 2 | 6 | 9 | 2% | sculpture 56, arms 50, household 23, masks-ritual 13 | 6 |
+| [Betsimisaraka people](https://en.wikipedia.org/wiki/Betsimisaraka_people) | Madagascar | East Africa |  | 327 | 0 | 6 | 8 | 0% | household 171, textile 37, garment 35, arms 33 | 6 |
 | [Tutsi](https://en.wikipedia.org/wiki/Tutsi) | Rwanda | East Africa |  | 233 | 0 | 6 | 8 | 1% | arms 65, household 58, ceramic 36, jewelry 30 | 2 |
+| [Mangbetu people](https://en.wikipedia.org/wiki/Mangbetu_people) | Democratic Republic of the Congo | Central Africa |  | 198 | 12 | 6 | 8 | 0% | arms 116, household 30, jewelry 24, instruments 19 | 36 |
 | [Tsonga people](https://en.wikipedia.org/wiki/Tsonga_people) | Mozambique | Southern Africa |  | 150 | 2 | 6 | 8 | 3% | household 76, jewelry 22, arms 18, garment 8 | 1 |
-| [Nuba peoples](https://en.wikipedia.org/wiki/Nuba_peoples) | Sudan | East Africa |  | 137 | 0 | 6 | 8 | 7% | arms 34, household 33, ceramic 19, unclassified 16 | 2 |
 | [Baoulé people](https://en.wikipedia.org/wiki/Baoul%C3%A9_people) | Ivory Coast | West Africa |  | 99 | 15 | 6 | 8 | 1% | sculpture 33, household 21, jewelry 21, masks-ritual 18 | 35 |
-| [Ngoni people](https://en.wikipedia.org/wiki/Ngoni_people) | Tanzania | Southern Africa |  | 251 | 0 | 6 | 7 | 0% | arms 90, household 53, jewelry 50, garment 22 | 1 |
-| [Mangbetu people](https://en.wikipedia.org/wiki/Mangbetu_people) | Democratic Republic of the Congo | Central Africa |  | 198 | 12 | 6 | 7 | 0% | arms 116, household 29, jewelry 24, instruments 19 | 36 |
-| [Bari people](https://en.wikipedia.org/wiki/Bari_people) | South Sudan | East Africa |  | 208 | 0 | 6 | 7 | 5% | arms 96, household 35, jewelry 28, garment 22 | 291 |
 | [Mossi people](https://en.wikipedia.org/wiki/Mossi_people) | Burkina Faso | West Africa |  | 170 | 1 | 6 | 7 | 1% | arms 79, garment 23, household 17, jewelry 14 | 14 |
-| [Tswana people](https://en.wikipedia.org/wiki/Tswana_people) | Botswana | Southern Africa |  | 136 | 0 | 6 | 7 | 3% | household 54, arms 28, jewelry 14, garment 13 | 11 |
+| [Tswana people](https://en.wikipedia.org/wiki/Tswana_people) | Botswana | Southern Africa |  | 136 | 0 | 6 | 7 | 3% | household 56, arms 28, jewelry 14, garment 13 | 11 |
 | [Embu people](https://en.wikipedia.org/wiki/Embu_people) | Kenya | East Africa |  | 127 | 0 | 6 | 7 | 0% | arms 76, masks-ritual 16, household 11, jewelry 8 | 0 |
 | [Fante people](https://en.wikipedia.org/wiki/Fante_people) | Ghana | West Africa |  | 99 | 1 | 6 | 7 | 7% | household 29, ceramic 20, sculpture 19, textile 11 | 3 |
-| [Fon people](https://en.wikipedia.org/wiki/Fon_people) | Benin | West Africa |  | 73 | 2 | 6 | 7 | 3% | sculpture 34, masks-ritual 8, household 7, arms 7 | 11 |
+| [Fon people](https://en.wikipedia.org/wiki/Fon_people) | Benin | West Africa |  | 73 | 2 | 6 | 7 | 3% | sculpture 34, masks-ritual 9, household 7, arms 7 | 11 |
 | [Tiriki tribe](https://en.wikipedia.org/wiki/Tiriki) | Kenya | East Africa |  | 154 | 0 | 6 | 6 | 9% | arms 39, household 35, jewelry 34, instruments 15 | 21 |
 | [Yanzi people](https://en.wikipedia.org/wiki/Yanzi_people) | Democratic Republic of the Congo | Central Africa |  | 146 | 0 | 6 | 6 | 0% | textile 59, arms 45, household 15, sculpture 9 | 4 |
 | [Hehe people](https://en.wikipedia.org/wiki/Hehe_people) | Tanzania | East Africa |  | 102 | 0 | 6 | 6 | 0% | household 35, arms 24, ceramic 16, jewelry 8 | 1 |
-| [San people](https://en.wikipedia.org/wiki/San_peoples) | South Africa | Southern Africa | ✓ | 304 | 0 | 5 | 9 | 1% | arms 121, household 52, painting-mss 42, jewelry 32 | 7054 |
 | [Bambara](https://en.wikipedia.org/wiki/Bambara_people) | Mali | West Africa |  | 102 | 7 | 5 | 9 | 4% | textile 31, garment 21, sculpture 18, masks-ritual 14 | 45 |
 | [Great Lakes Twa](https://en.wikipedia.org/wiki/Great_Lakes_Twa) (also Twa) | Rwanda | Central Africa | ✓ | 216 | 0 | 5 | 8 | 0% | arms 74, household 62, ceramic 41, instruments 12 | 0 |
-| [Sakalava people](https://en.wikipedia.org/wiki/Sakalava_people) | Madagascar | East Africa |  | 113 | 1 | 5 | 7 | 2% | household 33, sculpture 24, unclassified 22, jewelry 10 | 14 |
-| [Turkana people](https://en.wikipedia.org/wiki/Turkana_people) | Kenya | East Africa |  | 114 | 0 | 5 | 7 | 0% | household 33, garment 23, jewelry 23, ceramic 13 | 184 |
+| [Turkana people](https://en.wikipedia.org/wiki/Turkana_people) | Kenya | East Africa |  | 114 | 0 | 5 | 8 | 0% | household 33, garment 23, jewelry 23, ceramic 13 | 184 |
+| [Sakalava people](https://en.wikipedia.org/wiki/Sakalava_people) | Madagascar | East Africa |  | 113 | 1 | 5 | 7 | 2% | household 44, sculpture 24, jewelry 10, unclassified 8 | 14 |
+| [Acholi people](https://en.wikipedia.org/wiki/Acholi_people) | Uganda | East Africa |  | 113 | 0 | 5 | 7 | 0% | garment 28, jewelry 22, instruments 20, arms 19 | 0 |
 | [Gbagyi people](https://en.wikipedia.org/wiki/Gbagyi_people) | Nigeria | West Africa |  | 107 | 0 | 5 | 7 | 4% | household 48, ceramic 24, arms 10, instruments 8 | 0 |
 | [Lomwe people](https://en.wikipedia.org/wiki/Lomwe_people) | Malawi | Southern Africa |  | 79 | 0 | 5 | 7 | 0% | household 22, jewelry 21, arms 15, instruments 7 | 0 |
+| [Mambila people](https://en.wikipedia.org/wiki/Mambila_people) | Nigeria | Central Africa |  | 69 | 0 | 5 | 7 | 0% | household 30, ceramic 10, arms 8, sculpture 7 | 4 |
 | [Betsileo people](https://en.wikipedia.org/wiki/Betsileo_people) | Madagascar | East Africa |  | 119 | 0 | 5 | 6 | 0% | household 40, textile 33, garment 21, ceramic 8 | 10 |
-| [Acholi people](https://en.wikipedia.org/wiki/Acholi_people) | Uganda | East Africa |  | 113 | 0 | 5 | 6 | 0% | garment 28, jewelry 22, instruments 20, arms 19 | 0 |
-| [Anga people](https://en.wikipedia.org/wiki/Angas_people) | Nigeria | West Africa |  | 100 | 0 | 5 | 6 | 16% | household 51, photo 16, arms 11, ceramic 6 | 33 |
+| [Anga people](https://en.wikipedia.org/wiki/Angas_people) | Nigeria | West Africa |  | 100 | 0 | 5 | 6 | 16% | household 52, photo 16, arms 11, ceramic 6 | 33 |
 | [Merina people](https://en.wikipedia.org/wiki/Merina_people) | Madagascar | East Africa |  | 79 | 4 | 5 | 6 | 25% | textile 32, photo 21, jewelry 9, garment 8 | 1 |
 | [Gurunsi people](https://en.wikipedia.org/wiki/Gurunsi_people) | Ghana | West Africa |  | 78 | 0 | 5 | 6 | 3% | arms 38, garment 10, jewelry 8, masks-ritual 6 | 3 |
-| [Mambila people](https://en.wikipedia.org/wiki/Mambila_people) | Nigeria | Central Africa |  | 69 | 0 | 5 | 6 | 0% | household 30, ceramic 10, arms 8, sculpture 7 | 4 |
 | [Kabyle people](https://en.wikipedia.org/wiki/Kabyle_people) | Algeria | North Africa |  | 215 | 6 | 5 | 5 | 0% | ceramic 97, jewelry 45, arms 34, household 34 | 1 |
 | [Shilluk people](https://en.wikipedia.org/wiki/Shilluk_people) | South Sudan | East Africa |  | 102 | 0 | 5 | 5 | 21% | jewelry 32, arms 26, photo 21, household 12 | 28 |
 | [Urhobo people](https://en.wikipedia.org/wiki/Urhobo_people) | Nigeria | West Africa |  | 57 | 0 | 5 | 5 | 2% | sculpture 18, instruments 11, masks-ritual 7, household 7 | 0 |
 | [Antandroy](https://en.wikipedia.org/wiki/Antandroy) | Madagascar | Southern Africa |  | 43 | 0 | 5 | 5 | 0% | textile 14, jewelry 8, household 8, arms 6 | 2 |
 | [Ha people](https://en.wikipedia.org/wiki/Ha_people) | Tanzania | East Africa |  | 41 | 0 | 5 | 5 | 0% | jewelry 13, household 7, arms 6, garment 5 | 4722 |
 | [Nkole people](https://en.wikipedia.org/wiki/Nkole_people) | Uganda | East Africa |  | 169 | 0 | 4 | 6 | 0% | arms 72, household 43, ceramic 26, jewelry 19 | 14 |
-| [Hadza people](https://en.wikipedia.org/wiki/Hadza_people) | Tanzania | East Africa |  | 118 | 0 | 4 | 6 | 0% | arms 48, unclassified 20, household 17, jewelry 14 | 0 |
-| [Vezo people](https://en.wikipedia.org/wiki/Vezo_people) | Madagascar | Southern Africa |  | 83 | 0 | 4 | 6 | 0% | household 27, unclassified 20, sculpture 12, jewelry 8 | 0 |
+| [Hadza people](https://en.wikipedia.org/wiki/Hadza_people) | Tanzania | East Africa |  | 118 | 0 | 4 | 6 | 0% | arms 48, unclassified 19, household 18, jewelry 14 | 0 |
+| [Vezo people](https://en.wikipedia.org/wiki/Vezo_people) | Madagascar | Southern Africa |  | 83 | 0 | 4 | 6 | 0% | household 38, sculpture 12, unclassified 8, jewelry 8 | 0 |
+| [Moru people](https://en.wikipedia.org/wiki/Moru_people) | South Sudan | East Africa |  | 70 | 0 | 4 | 6 | 3% | household 20, jewelry 19, arms 11, instruments 8 | 0 |
 | [Murle people](https://en.wikipedia.org/wiki/Murle_people) | South Sudan | East Africa |  | 67 | 0 | 4 | 6 | 0% | jewelry 26, household 12, ceramic 12, arms 8 | 0 |
 | [Kru people](https://en.wikipedia.org/wiki/Kru_people) | Ivory Coast | West Africa |  | 54 | 3 | 4 | 6 | 19% | photo 11, masks-ritual 10, instruments 8, garment 8 | 70 |
-| [Karamojong people](https://en.wikipedia.org/wiki/Karamojong_people) | Uganda | East Africa |  | 143 | 0 | 4 | 5 | 0% | jewelry 79, household 25, garment 21, arms 9 | 195 |
+| [Karamojong people](https://en.wikipedia.org/wiki/Karamojong_people) | Uganda | East Africa |  | 143 | 0 | 4 | 5 | 0% | jewelry 79, household 29, garment 21, arms 9 | 195 |
 | [Baggara](https://en.wikipedia.org/wiki/Baggara_Arabs) | Chad | Sahel |  | 125 | 0 | 4 | 5 | 25% | textile 48, household 31, photo 31, garment 10 | 100 |
 | [Bongo people](https://en.wikipedia.org/wiki/Bongo_people_(South_Sudan)) (also Bongo people) | South Sudan | East Africa |  | 115 | 1 | 4 | 5 | 2% | arms 71, household 13, jewelry 13, instruments 10 | 121 |
 | [Khoikhoi people](https://en.wikipedia.org/wiki/Khoekhoe) | South Africa | Southern Africa |  | 77 | 0 | 4 | 5 | 1% | painting-mss 36, household 15, arms 9, garment 7 | 1 |
 | [Berom people](https://en.wikipedia.org/wiki/Berom_people) | Nigeria | West Africa |  | 77 | 0 | 4 | 5 | 23% | garment 31, arms 19, photo 18, instruments 5 | 0 |
-| [Moru people](https://en.wikipedia.org/wiki/Moru_people) | South Sudan | East Africa |  | 70 | 0 | 4 | 5 | 3% | household 20, jewelry 19, arms 11, instruments 8 | 0 |
 | [Senufo people](https://en.wikipedia.org/wiki/Senufo_people) | Mali | West Africa |  | 63 | 4 | 4 | 5 | 3% | masks-ritual 26, sculpture 16, household 8, arms 5 | 56 |
 | [Pokot people](https://en.wikipedia.org/wiki/Pokot_people) | Kenya | East Africa |  | 63 | 1 | 4 | 5 | 0% | jewelry 20, household 16, garment 15, arms 8 | 199 |
 | [Sherbro people](https://en.wikipedia.org/wiki/Sherbro_people) | Sierra Leone | West Africa |  | 47 | 1 | 4 | 5 | 0% | sculpture 14, arms 10, household 8, garment 6 | 1 |
 | [Dan people](https://en.wikipedia.org/wiki/Dan_people) | Guinea | West Africa |  | 81 | 4 | 4 | 4 | 0% | masks-ritual 39, jewelry 26, household 9, sculpture 9 | 929 |
 | [Toposa people](https://en.wikipedia.org/wiki/Toposa_people) | South Sudan | East Africa |  | 57 | 0 | 4 | 4 | 0% | household 32, jewelry 11, arms 6, instruments 6 | 0 |
-| [Samburu people](https://en.wikipedia.org/wiki/Samburu_people) | Kenya | East Africa |  | 48 | 0 | 4 | 4 | 27% | photo 13, household 12, jewelry 12, arms 7 | 8 |
+| [Samburu people](https://en.wikipedia.org/wiki/Samburu_people) | Kenya | East Africa |  | 48 | 0 | 4 | 4 | 27% | photo 13, household 13, jewelry 12, arms 7 | 8 |
 | [Boya people](https://en.wikipedia.org/wiki/Boya_people) | South Sudan | East Africa |  | 44 | 0 | 4 | 4 | 0% | jewelry 13, ceramic 12, household 10, arms 6 | 1 |
-| [Obolo people](https://en.wikipedia.org/wiki/Obolo_people) | Nigeria | West Africa |  | 68 | 0 | 3 | 6 | 0% | unclassified 33, masks-ritual 10, household 6, jewelry 5 | 0 |
-| [Zafimaniry](https://en.wikipedia.org/wiki/Zafimaniry) | Madagascar | Southern Africa |  | 57 | 0 | 3 | 6 | 0% | household 27, ceramic 7, textile 7, arms 4 | 0 |
+| [Obolo people](https://en.wikipedia.org/wiki/Obolo_people) | Nigeria | West Africa |  | 68 | 0 | 3 | 6 | 0% | unclassified 29, masks-ritual 14, household 6, jewelry 5 | 0 |
+| [Zafimaniry](https://en.wikipedia.org/wiki/Zafimaniry) | Madagascar | Southern Africa |  | 57 | 0 | 3 | 6 | 0% | household 28, ceramic 7, textile 7, arms 4 | 0 |
 | [Mahafaly people](https://en.wikipedia.org/wiki/Mahafaly) | Madagascar | Southern Africa |  | 56 | 0 | 3 | 6 | 0% | household 28, textile 8, garment 6, instruments 4 | 4 |
+| [Makua people](https://en.wikipedia.org/wiki/Makua_people) | Mozambique | East Africa |  | 95 | 0 | 3 | 5 | 0% | jewelry 37, household 30, arms 13, instruments 3 | 7 |
 | [Nyamwezi people](https://en.wikipedia.org/wiki/Nyamwezi_people) | Tanzania | East Africa |  | 45 | 0 | 3 | 5 | 0% | jewelry 20, household 7, ceramic 6, arms 3 | 0 |
 | [Idoma people](https://en.wikipedia.org/wiki/Idoma_people) | Nigeria | West Africa |  | 33 | 1 | 3 | 5 | 0% | masks-ritual 8, household 7, sculpture 7, arms 4 | 1 |
 | [Luvale people](https://en.wikipedia.org/wiki/Luvale_people) | Zambia | Southern Africa |  | 34 | 0 | 3 | 5 | 0% | household 8, instruments 7, arms 6, garment 4 | 1 |
 | [Lobi people](https://en.wikipedia.org/wiki/Lobi_people) | Ghana | West Africa |  | 25 | 8 | 3 | 5 | 0% | sculpture 11, household 7, ceramic 7, arms 3 | 50 |
-| [Makua people](https://en.wikipedia.org/wiki/Makua_people) | Mozambique | East Africa |  | 95 | 0 | 3 | 4 | 0% | jewelry 37, household 30, arms 13, unclassified 4 | 7 |
 | [Masalit people](https://en.wikipedia.org/wiki/Masalit_people) | Chad | Sahel |  | 71 | 0 | 3 | 4 | 0% | jewelry 40, household 18, arms 6, ceramic 4 | 0 |
-| [Antemoro people](https://en.wikipedia.org/wiki/Antemoro_people) | Madagascar | Southern Africa |  | 68 | 0 | 3 | 4 | 0% | household 35, garment 18, textile 5, ceramic 3 | 0 |
+| [Antemoro people](https://en.wikipedia.org/wiki/Antemoro_people) | Madagascar | Southern Africa |  | 68 | 0 | 3 | 4 | 0% | household 37, garment 18, textile 5, ceramic 3 | 0 |
 | [Nuer people](https://en.wikipedia.org/wiki/Nuer_people) | South Sudan | East Africa |  | 63 | 0 | 3 | 4 | 11% | jewelry 41, photo 7, household 6, garment 3 | 159 |
 | [Bena people](https://en.wikipedia.org/wiki/Bena_people) | Tanzania | East Africa |  | 63 | 0 | 3 | 4 | 13% | household 29, ceramic 16, photo 8, instruments 3 | 34 |
 | [Oromo people](https://en.wikipedia.org/wiki/Oromo_people) | Ethiopia | East Africa | ✓ | 60 | 0 | 3 | 4 | 2% | arms 29, household 10, garment 10, jewelry 4 | 25 |
@@ -131,8 +131,9 @@ A people is **listed** when its objects fill at least one of the 13 categories w
 | [Herero people](https://en.wikipedia.org/wiki/Herero_people) | Namibia | Southern Africa |  | 43 | 0 | 3 | 4 | 0% | arms 14, jewelry 10, household 10, garment 4 | 24 |
 | [Nyakyusa people](https://en.wikipedia.org/wiki/Nyakyusa_people) | Tanzania | East Africa |  | 38 | 0 | 3 | 4 | 0% | household 10, arms 10, jewelry 10, textile 3 | 0 |
 | [Gogo people](https://en.wikipedia.org/wiki/Gogo_people) | Tanzania | East Africa |  | 37 | 0 | 3 | 4 | 0% | jewelry 15, arms 8, garment 7, household 4 | 0 |
-| [Pokomo people](https://en.wikipedia.org/wiki/Pokomo_people) | Kenya | East Africa |  | 37 | 0 | 3 | 4 | 0% | jewelry 11, household 9, garment 6, instruments 3 | 0 |
+| [Pokomo people](https://en.wikipedia.org/wiki/Pokomo_people) | Kenya | East Africa |  | 37 | 0 | 3 | 4 | 0% | household 12, jewelry 11, garment 6, instruments 3 | 0 |
 | [Kipsigis people](https://en.wikipedia.org/wiki/Kipsigis_people) | Kenya | East Africa |  | 36 | 0 | 3 | 4 | 3% | arms 18, household 6, jewelry 5, garment 4 | 0 |
+| [Pedi people](https://en.wikipedia.org/wiki/Pedi_people) | South Africa | Southern Africa |  | 35 | 0 | 3 | 4 | 0% | household 15, ceramic 11, masks-ritual 5, garment 4 | 0 |
 | [Buduma people](https://en.wikipedia.org/wiki/Buduma_people) | Chad | Central Africa |  | 35 | 0 | 3 | 4 | 0% | jewelry 11, household 10, ceramic 6, arms 3 | 0 |
 | [Bamun people](https://en.wikipedia.org/wiki/Bamum_people) | Cameroon | Central Africa |  | 78 | 1 | 3 | 3 | 0% | sculpture 56, household 10, masks-ritual 9, jewelry 2 | 37 |
 | [Tallensi](https://en.wikipedia.org/wiki/Tallensi) | Ghana | West Africa |  | 56 | 0 | 3 | 3 | 0% | arms 34, household 9, garment 7, textile 2 | 162 |
@@ -144,13 +145,12 @@ A people is **listed** when its objects fill at least one of the 13 categories w
 | [Fur people](https://en.wikipedia.org/wiki/Fur_people) | Sudan | Sahel |  | 73 | 0 | 2 | 4 | 1% | jewelry 41, household 20, ceramic 4, arms 4 | 4701 |
 | [Bezanozano](https://en.wikipedia.org/wiki/Bezanozano) | Madagascar | East Africa |  | 60 | 0 | 2 | 4 | 0% | household 43, arms 6, unclassified 3, ceramic 3 | 0 |
 | [Teke people](https://en.wikipedia.org/wiki/Teke_people) (also Tekes) | Republic of the Congo | Central Africa |  | 45 | 4 | 2 | 4 | 0% | jewelry 23, garment 18, sculpture 4, textile 3 | 104 |
-| [Mano people](https://en.wikipedia.org/wiki/Mano_people) | Guinea | West Africa |  | 44 | 1 | 2 | 4 | 0% | unclassified 15, masks-ritual 11, sculpture 6, jewelry 3 | 3251 |
+| [Mano people](https://en.wikipedia.org/wiki/Mano_people) | Guinea | West Africa |  | 44 | 1 | 2 | 4 | 0% | unclassified 14, masks-ritual 11, sculpture 6, household 4 | 3251 |
 | [Tikar people](https://en.wikipedia.org/wiki/Tikar_people) | Cameroon | Central Africa |  | 25 | 1 | 2 | 4 | 0% | sculpture 9, household 8, textile 3, garment 3 | 4 |
 | [Lunda people](https://en.wikipedia.org/wiki/Lunda_people) | Democratic Republic of the Congo | Central Africa |  | 90 | 0 | 2 | 3 | 1% | household 51, arms 33, instruments 4, photo 1 | 105 |
 | [Makonde people](https://en.wikipedia.org/wiki/Makonde_people) | Tanzania | East Africa |  | 62 | 0 | 2 | 3 | 0% | sculpture 41, masks-ritual 13, arms 3, jewelry 2 | 33 |
 | [Konkomba people](https://en.wikipedia.org/wiki/Konkomba_people) | Ghana | West Africa |  | 53 | 0 | 2 | 3 | 0% | arms 33, garment 13, jewelry 3, masks-ritual 2 | 1 |
-| [Nara people](https://en.wikipedia.org/wiki/Nara_people) | Eritrea | East Africa |  | 35 | 0 | 2 | 3 | 0% | household 17, ceramic 6, unclassified 5, sculpture 4 | 4223 |
-| [Pedi people](https://en.wikipedia.org/wiki/Pedi_people) | South Africa | Southern Africa |  | 35 | 0 | 2 | 3 | 0% | household 15, ceramic 11, unclassified 5, garment 4 | 0 |
+| [Nara people](https://en.wikipedia.org/wiki/Nara_people) | Eritrea | East Africa |  | 35 | 0 | 2 | 3 | 0% | household 19, ceramic 6, sculpture 4, unclassified 2 | 4223 |
 | [Sara people](https://en.wikipedia.org/wiki/Sara_people) | Chad | Central Africa |  | 32 | 0 | 2 | 3 | 0% | arms 18, garment 7, household 3, jewelry 2 | 388 |
 | [Amhara people](https://en.wikipedia.org/wiki/Amhara_people) | Ethiopia | East Africa | ✓ | 20 | 7 | 2 | 3 | 44% | photo 12, painting-mss 7, household 3, garment 2 | 101 |
 | [Brong people](https://en.wikipedia.org/wiki/Bono_people) | Ghana | West Africa |  | 26 | 1 | 2 | 3 | 0% | garment 14, ceramic 7, household 4, sculpture 1 | 0 |
@@ -188,7 +188,7 @@ A people is **listed** when its objects fill at least one of the 13 categories w
 | [Mumuye people](https://en.wikipedia.org/wiki/Mumuye_people) | Nigeria | West Africa |  | 20 | 0 | 1 | 3 | 5% | sculpture 6, garment 4, masks-ritual 3, jewelry 2 | 0 |
 | [Teso people](https://en.wikipedia.org/wiki/Teso_people) | Uganda | East Africa |  | 17 | 0 | 1 | 3 | 0% | jewelry 5, arms 4, garment 3, instruments 2 | 42 |
 | [Songhai people](https://en.wikipedia.org/wiki/Songhai_people) | Niger | West Africa |  | 16 | 0 | 1 | 3 | 0% | textile 9, household 3, garment 3, unclassified 1 | 20 |
-| [Kaguru people](https://en.wikipedia.org/wiki/Kaguru_people) | Tanzania | East Africa |  | 16 | 0 | 1 | 3 | 0% | garment 7, household 4, jewelry 3, unclassified 1 | 0 |
+| [Kaguru people](https://en.wikipedia.org/wiki/Kaguru_people) | Tanzania | East Africa |  | 16 | 0 | 1 | 3 | 0% | garment 7, household 4, jewelry 3, architectural 1 | 0 |
 | [Antaisaka people](https://en.wikipedia.org/wiki/Antaisaka_people) | Madagascar | Southern Africa |  | 22 | 0 | 1 | 2 | 0% | household 14, garment 4, ceramic 2, instruments 1 | 0 |
 | [Esan people](https://en.wikipedia.org/wiki/Esan_people) | Nigeria | West Africa |  | 20 | 0 | 1 | 2 | 0% | household 5, sculpture 4, unclassified 3, garment 2 | 0 |
 | [Wolof people](https://en.wikipedia.org/wiki/Wolof_people) | Senegal | West Africa | ✓ | 18 | 0 | 1 | 2 | 11% | jewelry 9, textile 4, photo 2, garment 2 | 15 |
@@ -235,7 +235,7 @@ A people is **listed** when its objects fill at least one of the 13 categories w
 | [Konjo people](https://en.wikipedia.org/wiki/Konjo_people) | Democratic Republic of the Congo | Central Africa |  | 9 | 0 | 1 | 1 | 0% | jewelry 7, instruments 2 | 0 |
 | [Bassa people](https://en.wikipedia.org/wiki/Bassa_people_(Liberia)) (also Basa people) | Liberia | West Africa |  | 9 | 0 | 1 | 1 | 0% | masks-ritual 9 | 63 |
 | [Isoko people](https://en.wikipedia.org/wiki/Isoko_people) | Nigeria | West Africa |  | 9 | 0 | 1 | 1 | 0% | sculpture 8, instruments 1 | 2 |
-| [Bubi people](https://en.wikipedia.org/wiki/Bubi_people) | Equatorial Guinea | Central Africa |  | 8 | 0 | 1 | 1 | 0% | jewelry 5, unclassified 2, ceramic 1 | 113 |
+| [Bubi people](https://en.wikipedia.org/wiki/Bubi_people) | Equatorial Guinea | Central Africa |  | 8 | 0 | 1 | 1 | 0% | jewelry 5, masks-ritual 2, ceramic 1 | 113 |
 | [Krobo people](https://en.wikipedia.org/wiki/Krobo_people) | Ghana | West Africa |  | 8 | 0 | 1 | 1 | 25% | household 6, photo 2 | 1 |
 | [Danes](https://en.wikipedia.org/wiki/Danes) | Egypt | North Africa |  | 0 | 7 | 1 | 1 | 0% | garment 5, metalwork 1, painting-mss 1 | 19 |
 | [Iraqw people](https://en.wikipedia.org/wiki/Iraqw_people) | Tanzania | East Africa |  | 7 | 0 | 1 | 1 | 0% | garment 6, household 1 | 1 |
@@ -267,19 +267,19 @@ Below the bar (4): Toubou people (7 obj, photo 0%), Bassari people (6 obj, photo
 
 | people | country | region | in atlas | BM | Met+Cle | breadth | cat. 3+ | photo | top categories | Eur. |
 |---|---|---|:-:|--:|--:|--:|--:|--:|---|--:|
-| [Haida people](https://en.wikipedia.org/wiki/Haida_people) | Canada | Pacific Northwest |  | 484 | 22 | 11 | 12 | 5% | household 209, instruments 57, sculpture 48, jewelry 41 | 151 |
+| [Haida people](https://en.wikipedia.org/wiki/Haida_people) | Canada | Pacific Northwest |  | 484 | 22 | 11 | 13 | 5% | household 209, instruments 57, sculpture 48, jewelry 41 | 151 |
 | [Nuu-chah-nulth people](https://en.wikipedia.org/wiki/Nuu-chah-nulth) | Canada | North America |  | 416 | 0 | 11 | 11 | 3% | household 188, arms 83, garment 26, ceramic 23 | 61 |
-| [Puebloan peoples](https://en.wikipedia.org/wiki/Pueblo_peoples) | United States | North America |  | 500 | 0 | 10 | 10 | 22% | ceramic 117, photo 109, jewelry 75, household 59 | 500 |
-| [Inuit](https://en.wikipedia.org/wiki/Inuit) (incl. Copper Inuit) | Canada | Arctic |  | 500 | 10 | 9 | 11 | 30% | photo 155, arms 101, household 90, garment 68 | 2349 |
+| [Maya people](https://en.wikipedia.org/wiki/Maya_peoples) | Guatemala | Mesoamerica |  | 1850 | 0 | 10 | 11 | 78% | photo 1442, garment 137, textile 72, household 57 | 2451 |
+| [Inuit](https://en.wikipedia.org/wiki/Inuit) (incl. Copper Inuit) | Canada | Arctic |  | 1053 | 10 | 10 | 11 | 31% | photo 330, arms 203, household 191, garment 136 | 2349 |
+| [Puebloan peoples](https://en.wikipedia.org/wiki/Pueblo_peoples) | United States | North America |  | 585 | 0 | 10 | 10 | 22% | ceramic 141, photo 128, jewelry 82, household 74 | 500 |
 | [Tlingit](https://en.wikipedia.org/wiki/Tlingit) | Canada | North America |  | 272 | 25 | 9 | 10 | 10% | household 143, photo 30, jewelry 28, masks-ritual 19 | 226 |
-| [Zuni people](https://en.wikipedia.org/wiki/Zuni_people) | United States | North America |  | 195 | 6 | 9 | 10 | 3% | ceramic 48, jewelry 34, household 29, sculpture 26 | 81 |
+| [Zuni people](https://en.wikipedia.org/wiki/Zuni_people) | United States | North America |  | 195 | 6 | 9 | 10 | 3% | ceramic 48, household 38, jewelry 34, sculpture 26 | 81 |
 | [Kwakwaka'wakw](https://en.wikipedia.org/wiki/Kwakwaka%CA%BCwakw) | Canada | Pacific Northwest |  | 109 | 0 | 9 | 9 | 15% | household 28, jewelry 18, photo 16, masks-ritual 15 | 4 |
 | [Hopi people](https://en.wikipedia.org/wiki/Hopi) | United States | North America |  | 165 | 9 | 8 | 9 | 19% | photo 33, ceramic 31, household 28, arms 22 | 262 |
-| [Nahua](https://en.wikipedia.org/wiki/Nahuas) | Mexico | Mesoamerica |  | 467 | 0 | 8 | 8 | 0% | ceramic 133, garment 106, textile 87, household 70 | 95 |
+| [Nahua](https://en.wikipedia.org/wiki/Nahuas) | Mexico | Mesoamerica |  | 467 | 0 | 8 | 8 | 0% | ceramic 133, garment 106, textile 87, household 71 | 95 |
 | [Arahuacos (Arawak)](https://en.wikipedia.org/wiki/Arawak) (also Lokono) | Trinidad and Tobago | Caribbean |  | 448 | 0 | 8 | 8 | 0% | jewelry 101, household 96, ceramic 88, garment 55 | 0 |
 | [Cree](https://en.wikipedia.org/wiki/Cree) | Canada | North America |  | 187 | 13 | 7 | 10 | 17% | garment 58, household 37, photo 33, textile 23 | 69 |
-| [Maya people](https://en.wikipedia.org/wiki/Maya_peoples) | Guatemala | Mesoamerica |  | 500 | 0 | 7 | 9 | 79% | photo 393, garment 34, textile 22, masks-ritual 11 | 2451 |
-| [Ojibwe](https://en.wikipedia.org/wiki/Ojibwe) | Canada | North America |  | 214 | 17 | 7 | 9 | 47% | photo 109, household 47, garment 22, textile 13 | 22 |
+| [Ojibwe](https://en.wikipedia.org/wiki/Ojibwe) | Canada | North America |  | 214 | 17 | 7 | 9 | 47% | photo 109, household 48, garment 22, textile 13 | 22 |
 | [Dakota people](https://en.wikipedia.org/wiki/Dakota_people) (incl. Santee tribe) | United States | North America |  | 384 | 6 | 7 | 8 | 60% | photo 234, household 53, garment 37, arms 16 | 459 |
 | [Coast Salish peoples](https://en.wikipedia.org/wiki/Coast_Salish_peoples) | Canada | North America |  | 141 | 0 | 6 | 9 | 13% | household 62, photo 19, textile 17, arms 9 | 11 |
 | [Witoto people](https://en.wikipedia.org/wiki/Witoto) | Colombia | South America |  | 136 | 0 | 6 | 7 | 0% | jewelry 75, household 14, arms 14, instruments 11 | 3 |
@@ -289,23 +289,23 @@ Below the bar (4): Toubou people (7 obj, photo 0%), Bassari people (6 obj, photo
 | [Quechua people](https://en.wikipedia.org/wiki/Quechua_people) | Peru | Andes |  | 200 | 19 | 5 | 6 | 0% | garment 139, textile 30, household 19, ceramic 17 | 309 |
 | [Kiowa people](https://en.wikipedia.org/wiki/Kiowa) | United States | North America |  | 70 | 1 | 5 | 6 | 25% | garment 24, photo 18, jewelry 8, painting-mss 7 | 29 |
 | [Macushi people](https://en.wikipedia.org/wiki/Macushi) | Brazil | South America |  | 69 | 0 | 5 | 6 | 0% | arms 18, instruments 12, household 11, garment 9 | 16 |
+| [Zapotec](https://en.wikipedia.org/wiki/Zapotec_peoples) | Mexico | Mesoamerica |  | 65 | 1 | 5 | 6 | 9% | sculpture 29, garment 13, household 6, instruments 6 | 82 |
 | [Yupik peoples](https://en.wikipedia.org/wiki/Yupik_peoples) | United States | North America |  | 45 | 0 | 5 | 5 | 0% | garment 18, household 8, textile 5, arms 5 | 3 |
-| [Tsimshian people](https://en.wikipedia.org/wiki/Tsimshian) | Canada | North America |  | 94 | 8 | 4 | 8 | 3% | household 59, arms 7, unclassified 7, jewelry 7 | 125 |
-| [Krahô](https://en.wikipedia.org/wiki/Krah%C3%B4) | Brazil | Central Brazil |  | 50 | 0 | 4 | 7 | 0% | jewelry 12, instruments 11, garment 8, household 5 | 7 |
-| [Innu people](https://en.wikipedia.org/wiki/Innu) | Canada | North America |  | 102 | 0 | 4 | 6 | 33% | photo 34, garment 22, household 20, unclassified 7 | 6 |
-| [Iñupiaq people](https://en.wikipedia.org/wiki/I%C3%B1upiat) | United States | North America |  | 61 | 0 | 4 | 6 | 0% | household 33, garment 8, painting-mss 5, arms 5 | 28 |
+| [Tsimshian people](https://en.wikipedia.org/wiki/Tsimshian) | Canada | North America |  | 94 | 8 | 4 | 8 | 3% | household 59, arms 7, jewelry 7, instruments 7 | 125 |
+| [Krahô](https://en.wikipedia.org/wiki/Krah%C3%B4) | Brazil | Central Brazil |  | 50 | 0 | 4 | 7 | 0% | jewelry 12, instruments 11, garment 8, household 7 | 7 |
+| [Innu people](https://en.wikipedia.org/wiki/Innu) | Canada | North America |  | 102 | 0 | 4 | 6 | 33% | photo 34, garment 22, household 21, jewelry 6 | 6 |
+| [Iñupiaq people](https://en.wikipedia.org/wiki/I%C3%B1upiat) | United States | North America |  | 61 | 0 | 4 | 6 | 0% | household 34, garment 8, painting-mss 5, arms 5 | 28 |
 | [Yurok people](https://en.wikipedia.org/wiki/Yurok) | United States | North America |  | 138 | 0 | 4 | 5 | 0% | household 106, metalwork 12, garment 9, jewelry 5 | 15 |
 | [Q'eqchi' people](https://en.wikipedia.org/wiki/Q%CA%BCeqchi%CA%BC) | Guatemala | Mesoamerica |  | 101 | 0 | 4 | 5 | 0% | garment 74, sculpture 8, masks-ritual 7, textile 6 | 3 |
 | [Crow Nation](https://en.wikipedia.org/wiki/Crow_people) | United States | North America |  | 98 | 2 | 4 | 5 | 55% | photo 55, garment 18, household 7, textile 6 | 0 |
 | [Huastec people](https://en.wikipedia.org/wiki/Huastec_people) | Mexico | Mesoamerica |  | 88 | 0 | 4 | 5 | 0% | textile 49, garment 15, household 9, ceramic 9 | 2 |
-| [Catawba people](https://en.wikipedia.org/wiki/Catawba_people) | United States | North America |  | 74 | 0 | 4 | 5 | 0% | household 27, ceramic 16, unclassified 10, arms 9 | 0 |
-| [Chorotí](https://en.wikipedia.org/wiki/Chorote) | Argentina | South America |  | 69 | 0 | 4 | 5 | 0% | household 35, textile 10, jewelry 8, instruments 7 | 1003 |
-| [Mohawk](https://en.wikipedia.org/wiki/Mohawk_people) | United States | North America |  | 67 | 1 | 4 | 5 | 43% | photo 29, household 15, painting-mss 9, garment 7 | 4 |
-| [Zapotec](https://en.wikipedia.org/wiki/Zapotec_peoples) | Mexico | Mesoamerica |  | 65 | 1 | 4 | 5 | 9% | sculpture 29, garment 13, instruments 6, photo 6 | 82 |
+| [Catawba people](https://en.wikipedia.org/wiki/Catawba_people) | United States | North America |  | 74 | 0 | 4 | 5 | 0% | household 31, ceramic 16, arms 9, textile 9 | 0 |
+| [Chorotí](https://en.wikipedia.org/wiki/Chorote) | Argentina | South America |  | 69 | 0 | 4 | 5 | 0% | household 37, textile 10, jewelry 8, instruments 7 | 1003 |
+| [Mohawk](https://en.wikipedia.org/wiki/Mohawk_people) | United States | North America |  | 67 | 1 | 4 | 5 | 43% | photo 29, household 16, painting-mss 9, garment 7 | 4 |
 | [Karajá](https://en.wikipedia.org/wiki/Karaj%C3%A1) | Brazil | South America |  | 58 | 0 | 4 | 5 | 0% | arms 20, household 13, jewelry 11, garment 7 | 226 |
-| [Kali'na people](https://en.wikipedia.org/wiki/Kalina_people) | Venezuela | South America |  | 51 | 0 | 4 | 5 | 0% | ceramic 16, unclassified 11, sculpture 6, household 6 | 42 |
+| [Kali'na people](https://en.wikipedia.org/wiki/Kalina_people) | Venezuela | South America |  | 51 | 0 | 4 | 5 | 0% | ceramic 16, unclassified 9, household 7, sculpture 6 | 42 |
 | [Aleuts](https://en.wikipedia.org/wiki/Aleuts) | United States | North America |  | 40 | 1 | 4 | 5 | 7% | garment 11, arms 9, household 8, sculpture 6 | 5 |
-| [Akimel O'odham](https://en.wikipedia.org/wiki/Akimel_O%CA%BCodham) | United States | North America |  | 32 | 7 | 4 | 5 | 23% | arms 10, household 9, photo 9, ceramic 5 | 16 |
+| [Akimel O'odham](https://en.wikipedia.org/wiki/Akimel_O%CA%BCodham) | United States | North America |  | 32 | 7 | 4 | 5 | 23% | arms 10, household 10, photo 9, ceramic 5 | 16 |
 | [Cheyennes](https://en.wikipedia.org/wiki/Cheyenne) | United States | North America |  | 37 | 115 | 4 | 4 | 17% | painting-mss 109, photo 26, garment 5, textile 5 | 12 |
 | [Kalaallit](https://en.wikipedia.org/wiki/Kalaallit) | Denmark | Arctic |  | 72 | 0 | 4 | 4 | 12% | garment 23, household 16, arms 15, photo 9 | 5 |
 | [Asháninka people](https://en.wikipedia.org/wiki/Ash%C3%A1ninka) | Peru | South America |  | 66 | 0 | 4 | 4 | 0% | textile 27, garment 22, jewelry 8, household 6 | 4 |
@@ -315,20 +315,21 @@ Below the bar (4): Toubou people (7 obj, photo 0%), Bassari people (6 obj, photo
 | [Mopan people](https://en.wikipedia.org/wiki/Mopan_people) | Guatemala | Central America |  | 40 | 0 | 3 | 6 | 0% | masks-ritual 12, household 9, garment 5, textile 4 | 0 |
 | [Taíno people](https://en.wikipedia.org/wiki/Ta%C3%ADno) | Dominican Republic | Caribbean |  | 154 | 0 | 3 | 5 | 0% | ceramic 80, jewelry 36, household 21, unclassified 10 | 27 |
 | [Apache](https://en.wikipedia.org/wiki/Apache) (incl. Jicarilla Apache) | United States | Southwest |  | 115 | 11 | 3 | 5 | 65% | photo 82, household 12, unclassified 9, instruments 8 | 132 |
-| [Chumash people](https://en.wikipedia.org/wiki/Chumash_people) | United States | North America |  | 70 | 9 | 3 | 5 | 0% | household 41, unclassified 11, jewelry 9, arms 6 | 3 |
+| [Chumash people](https://en.wikipedia.org/wiki/Chumash_people) | United States | North America |  | 70 | 9 | 3 | 5 | 0% | household 41, unclassified 9, jewelry 9, arms 6 | 3 |
 | [Mi’kmaw](https://en.wikipedia.org/wiki/Mi%EA%9E%8Ckmaq) | Canada | North America |  | 64 | 7 | 3 | 5 | 3% | household 29, garment 17, unclassified 6, jewelry 5 | 0 |
-| [Mixtec people](https://en.wikipedia.org/wiki/Mixtec) | Mexico | Mesoamerica |  | 67 | 0 | 3 | 5 | 0% | garment 19, ceramic 19, household 13, unclassified 6 | 67 |
+| [Mixtec people](https://en.wikipedia.org/wiki/Mixtec) | Mexico | Mesoamerica |  | 67 | 0 | 3 | 5 | 0% | garment 19, ceramic 19, household 18, sculpture 4 | 67 |
 | [Klamath people](https://en.wikipedia.org/wiki/Klamath_people) (also Klamath Tribes) | United States | North America |  | 38 | 0 | 3 | 5 | 8% | household 16, jewelry 8, arms 5, garment 4 | 52 |
 | [Aymara](https://en.wikipedia.org/wiki/Aymara_people) | Bolivia | Andes |  | 202 | 9 | 3 | 4 | 0% | garment 112, textile 43, household 32, unclassified 16 | 384 |
 | [Otomi](https://en.wikipedia.org/wiki/Otomi) | Mexico | Mesoamerica |  | 86 | 0 | 3 | 4 | 0% | painting-mss 27, garment 27, textile 22, household 3 | 137 |
 | [Wapishana people](https://en.wikipedia.org/wiki/Wapishana) | Brazil | Amazonia |  | 66 | 0 | 3 | 4 | 0% | household 24, textile 15, unclassified 13, garment 8 | 26 |
+| [Tzotzil people](https://en.wikipedia.org/wiki/Tzotzil) | Mexico | Mesoamerica |  | 63 | 0 | 3 | 4 | 0% | garment 25, household 21, sculpture 11, ceramic 3 | 21 |
 | [Tewa people](https://en.wikipedia.org/wiki/Tewa) | United States | North America |  | 38 | 0 | 3 | 4 | 0% | ceramic 16, jewelry 8, garment 8, household 3 | 7 |
-| [Naskapi](https://en.wikipedia.org/wiki/Naskapi) | Canada | North America |  | 35 | 1 | 3 | 4 | 0% | garment 12, household 8, jewelry 6, unclassified 4 | 1 |
+| [Naskapi](https://en.wikipedia.org/wiki/Naskapi) | Canada | North America |  | 35 | 1 | 3 | 4 | 0% | garment 12, household 9, jewelry 6, textile 3 | 1 |
 | [Wichís](https://en.wikipedia.org/wiki/Wich%C3%AD) | Argentina | South America |  | 34 | 0 | 3 | 4 | 0% | household 15, arms 7, jewelry 7, garment 3 | 772 |
 | [Garifuna](https://en.wikipedia.org/wiki/Garifuna) | Guatemala | Caribbean |  | 32 | 0 | 3 | 4 | 0% | garment 9, instruments 8, household 6, sculpture 4 | 0 |
 | [Modoc people](https://en.wikipedia.org/wiki/Modoc_people) | United States | North America |  | 23 | 0 | 3 | 4 | 30% | household 7, photo 7, arms 6, garment 3 | 14 |
 | [Cherokee](https://en.wikipedia.org/wiki/Cherokee) | United States | Southeast |  | 44 | 0 | 3 | 3 | 48% | photo 21, arms 10, household 6, painting-mss 2 | 11 |
-| [Rarámuri](https://en.wikipedia.org/wiki/Rar%C3%A1muri) | Mexico | North America |  | 34 | 1 | 3 | 3 | 0% | household 21, ceramic 5, instruments 5, unclassified 2 | 54 |
+| [Rarámuri](https://en.wikipedia.org/wiki/Rar%C3%A1muri) | Mexico | North America |  | 34 | 1 | 3 | 3 | 0% | household 23, ceramic 5, instruments 5, garment 1 | 54 |
 | [Nez Perce](https://en.wikipedia.org/wiki/Nez_Perce) | United States | Pacific Northwest |  | 27 | 1 | 3 | 3 | 54% | photo 15, textile 6, household 5, garment 2 | 25 |
 | [Munduruku people](https://en.wikipedia.org/wiki/Munduruku) | Brazil | South America |  | 27 | 0 | 3 | 3 | 0% | jewelry 11, garment 8, household 6, metalwork 2 | 12 |
 | [Pawnee Nation](https://en.wikipedia.org/wiki/Pawnee_people) | United States | North America |  | 132 | 0 | 2 | 4 | 86% | photo 114, household 9, painting-mss 4, arms 3 | 1 |
@@ -339,17 +340,16 @@ Below the bar (4): Toubou people (7 obj, photo 0%), Bassari people (6 obj, photo
 | [Lakota people](https://en.wikipedia.org/wiki/Lakota_people) (incl. Sioux, Sicangu, Sihasapa) | United States | North America |  | 164 | 1 | 2 | 3 | 67% | photo 110, painting-mss 49, garment 3, household 2 | 56 |
 | [Ute](https://en.wikipedia.org/wiki/Ute_people) | United States | North America |  | 107 | 0 | 2 | 3 | 89% | photo 95, garment 5, household 3, textile 2 | 318 |
 | [Shoshone](https://en.wikipedia.org/wiki/Shoshone) | United States | North America |  | 62 | 1 | 2 | 3 | 81% | photo 51, household 5, garment 4, textile 2 | 4 |
-| [Tzotzil people](https://en.wikipedia.org/wiki/Tzotzil) | Mexico | Mesoamerica |  | 63 | 0 | 2 | 3 | 0% | garment 25, unclassified 21, sculpture 11, ceramic 3 | 21 |
 | [Arapaho people](https://en.wikipedia.org/wiki/Arapaho) | United States | North America |  | 43 | 7 | 2 | 3 | 80% | photo 40, painting-mss 5, garment 3, instruments 2 | 22 |
 | [Dakelh people](https://en.wikipedia.org/wiki/Dakelh) | Canada | Northwest |  | 27 | 0 | 2 | 3 | 0% | household 10, arms 9, textile 3, painting-mss 2 | 0 |
 | [Tuscarora Nation](https://en.wikipedia.org/wiki/Tuscarora_people) | United States | North America |  | 20 | 0 | 2 | 3 | 55% | photo 11, household 5, garment 3, textile 1 | 0 |
 | [Apinajé](https://en.wikipedia.org/wiki/Apinaj%C3%A9_people) | Brazil | Central Brazil |  | 19 | 0 | 2 | 3 | 0% | jewelry 9, arms 7, instruments 3 | 540 |
-| [Tzeltal people](https://en.wikipedia.org/wiki/Tzeltal_people) | Mexico | Mesoamerica |  | 16 | 0 | 2 | 3 | 0% | ceramic 7, garment 5, household 3, unclassified 1 | 5 |
+| [Tzeltal people](https://en.wikipedia.org/wiki/Tzeltal_people) | Mexico | Mesoamerica |  | 16 | 0 | 2 | 3 | 0% | ceramic 7, garment 5, household 4 | 5 |
 | [Makah people](https://en.wikipedia.org/wiki/Makah) | United States | North America |  | 60 | 0 | 2 | 2 | 0% | household 36, arms 13, unclassified 6, jewelry 2 | 32 |
 | [Paiute people](https://en.wikipedia.org/wiki/Paiute) | United States | Great Basin |  | 53 | 0 | 2 | 2 | 89% | photo 47, household 5, ceramic 1 | 11 |
-| [Ye'kuana people](https://en.wikipedia.org/wiki/Ye%EA%9E%8Ckuana) | Venezuela | South America |  | 50 | 0 | 2 | 2 | 0% | household 20, jewelry 19, unclassified 5, garment 2 | 0 |
+| [Ye'kuana people](https://en.wikipedia.org/wiki/Ye%EA%9E%8Ckuana) | Venezuela | South America |  | 50 | 0 | 2 | 2 | 0% | household 24, jewelry 19, garment 2, arms 2 | 0 |
 | [Pomo](https://en.wikipedia.org/wiki/Pomo) | United States | North America |  | 34 | 0 | 2 | 2 | 26% | household 23, photo 9, jewelry 1, arms 1 | 114 |
-| [Klickitat](https://en.wikipedia.org/wiki/Klickitat_people) | United States | North America |  | 31 | 0 | 2 | 2 | 0% | household 24, arms 5, unclassified 1, jewelry 1 | 2 |
+| [Klickitat](https://en.wikipedia.org/wiki/Klickitat_people) | United States | North America |  | 31 | 0 | 2 | 2 | 0% | household 25, arms 5, jewelry 1 | 2 |
 | [Muscogee](https://en.wikipedia.org/wiki/Muscogee) | United States | Southeast |  | 20 | 1 | 2 | 2 | 38% | photo 8, garment 7, household 2, painting-mss 1 | 2 |
 | [Tehuelche](https://en.wikipedia.org/wiki/Tehuelche_people) | Argentina | Patagonia |  | 21 | 0 | 2 | 2 | 43% | arms 10, photo 9, household 1, unclassified 1 | 26 |
 | [Potawatomi](https://en.wikipedia.org/wiki/Potawatomi) | United States | Great Lakes |  | 12 | 9 | 2 | 2 | 43% | photo 9, household 5, textile 2, garment 2 | 4 |
@@ -389,7 +389,7 @@ Below the bar (4): Toubou people (7 obj, photo 0%), Bassari people (6 obj, photo
 | [Yaqui people](https://en.wikipedia.org/wiki/Yaqui) | Mexico | North America |  | 11 | 0 | 1 | 1 | 0% | ceramic 9, masks-ritual 1, unclassified 1 | 507 |
 | [Saraguros](https://en.wikipedia.org/wiki/Saraguro_people) | Ecuador | Andes |  | 11 | 0 | 1 | 1 | 0% | garment 11 | 1 |
 | [Tillamook](https://en.wikipedia.org/wiki/Tillamook_people) | United States | Northwest |  | 11 | 0 | 1 | 1 | 0% | household 9, jewelry 1, instruments 1 | 0 |
-| [Toba people](https://en.wikipedia.org/wiki/Toba_people) | Argentina | South America |  | 10 | 0 | 1 | 1 | 0% | textile 5, painting-mss 2, household 2, unclassified 1 | 1273 |
+| [Toba people](https://en.wikipedia.org/wiki/Toba_people) | Argentina | South America |  | 10 | 0 | 1 | 1 | 0% | textile 5, painting-mss 2, household 2, masks-ritual 1 | 1273 |
 | [Western Apache](https://en.wikipedia.org/wiki/Western_Apache_people) | United States | Southwest |  | 9 | 1 | 1 | 1 | 90% | photo 9, garment 1 | 15 |
 | [Isleta Pueblo](https://en.wikipedia.org/wiki/Pueblo_of_Isleta) | United States | Southwest |  | 10 | 0 | 1 | 1 | 90% | photo 9, ceramic 1 | 4 |
 | [Warao](https://en.wikipedia.org/wiki/Warao_people) | Venezuela | South America |  | 9 | 0 | 1 | 1 | 0% | household 7, arms 1, garment 1 | 42 |
@@ -411,45 +411,46 @@ Below the bar (4): Toubou people (7 obj, photo 0%), Bassari people (6 obj, photo
 | [Dene](https://en.wikipedia.org/wiki/Dene) | Canada | North America |  | 9 | 0 | 0 | 1 | 0% | garment 4, textile 2, instruments 2, household 1 | 86 |
 | [Slavey people](https://en.wikipedia.org/wiki/Slavey) | Canada | North America |  | 8 | 0 | 0 | 1 | 0% | garment 4, instruments 2, household 1, textile 1 | 0 |
 | [Ohlone people](https://en.wikipedia.org/wiki/Ohlone) | United States | North America |  | 7 | 0 | 0 | 1 | 0% | arms 3, jewelry 2, garment 1, household 1 | 0 |
-| [Seri people](https://en.wikipedia.org/wiki/Seri_people) | Mexico | North America |  | 6 | 1 | 0 | 1 | 0% | sculpture 3, unclassified 2, ceramic 1, instruments 1 | 7 |
+| [Seri people](https://en.wikipedia.org/wiki/Seri_people) | Mexico | North America |  | 6 | 1 | 0 | 1 | 0% | sculpture 3, household 2, ceramic 1, instruments 1 | 7 |
 | [Sto:lo](https://en.wikipedia.org/wiki/St%C3%B3%EA%9E%89l%C5%8D) | Canada | Northwest |  | 0 | 7 | 0 | 1 | 0% | sculpture 3, household 2, metalwork 1, textile 1 | 0 |
 | [Chipewyan people](https://en.wikipedia.org/wiki/Chipewyan) | Canada | North America |  | 6 | 0 | 0 | 1 | 17% | garment 3, household 1, photo 1, textile 1 | 1 |
 
 Below the bar (4): Sinixt people (7 obj, photo 0%), Cubeo people (6 obj, photo 0%), Aluku (6 obj, photo 0%), Cayuga people (1 obj, photo 0%)
 
-## Asia — 114
+## Asia — 115
 
 | people | country | region | in atlas | BM | Met+Cle | breadth | cat. 3+ | photo | top categories | Eur. |
 |---|---|---|:-:|--:|--:|--:|--:|--:|---|--:|
 | [Kayan](https://en.wikipedia.org/wiki/Kayan_people_(Borneo)) | Indonesia | Southeast Asia | ✓ | 383 | 0 | 11 | 11 | 13% | household 86, arms 51, photo 50, garment 43 | 32 |
-| [Batak](https://en.wikipedia.org/wiki/Batak) | Indonesia | Southeast Asia | ✓ | 277 | 1 | 11 | 11 | 0% | household 79, arms 58, unclassified 28, ceramic 28 | 202 |
+| [Batak](https://en.wikipedia.org/wiki/Batak) | Indonesia | Southeast Asia | ✓ | 277 | 1 | 11 | 11 | 0% | household 79, arms 58, ceramic 28, unclassified 21 | 202 |
 | [Iban](https://en.wikipedia.org/wiki/Iban_people) | Indonesia | Southeast Asia | ✓ | 497 | 4 | 10 | 11 | 14% | household 97, jewelry 86, textile 80, garment 71 | 338 |
 | [Kenyah Dayak](https://en.wikipedia.org/wiki/Kenyah_people) | Indonesia | Southeast Asia | ✓ | 436 | 0 | 10 | 11 | 18% | household 81, photo 77, arms 74, jewelry 67 | 1 |
-| [Chin people](https://en.wikipedia.org/wiki/Chin_people) | Myanmar | Southeast Asia | ✓ | 500 | 0 | 10 | 10 | 0% | household 142, arms 93, jewelry 71, textile 70 | 196 |
-| [Dai people](https://en.wikipedia.org/wiki/Dai_people) | China | Southeast Asia |  | 500 | 0 | 9 | 10 | 0% | household 167, garment 96, textile 83, instruments 52 | 26 |
-| [Ainu people](https://en.wikipedia.org/wiki/Ainu_people) | Japan | East Asia |  | 267 | 5 | 9 | 10 | 4% | household 78, arms 49, garment 33, unclassified 22 | 201 |
+| [Dai people](https://en.wikipedia.org/wiki/Dai_people) | China | Southeast Asia |  | 741 | 0 | 10 | 10 | 0% | household 291, garment 111, textile 97, instruments 65 | 26 |
+| [Chin people](https://en.wikipedia.org/wiki/Chin_people) | Myanmar | Southeast Asia | ✓ | 515 | 0 | 10 | 10 | 0% | household 147, arms 96, jewelry 74, textile 70 | 196 |
+| [Turkmens](https://en.wikipedia.org/wiki/Turkmens) (incl. Yomut) | Turkmenistan | Central Asia | ✓ | 399 | 3 | 10 | 10 | 0% | garment 113, textile 91, household 81, jewelry 50 | 19 |
+| [Naga people](https://en.wikipedia.org/wiki/Naga_people) | India | South Asia |  | 669 | 12 | 9 | 12 | 0% | jewelry 240, arms 139, household 93, garment 73 | 275 |
+| [Gondi people](https://en.wikipedia.org/wiki/Gondi_people) | India | South Asia |  | 435 | 0 | 9 | 11 | 0% | household 120, jewelry 100, arms 44, textile 36 | 6 |
+| [Ainu people](https://en.wikipedia.org/wiki/Ainu_people) | Japan | East Asia |  | 267 | 5 | 9 | 11 | 4% | household 78, arms 49, garment 33, unclassified 19 | 201 |
+| [Melanau people](https://en.wikipedia.org/wiki/Melanau_people) | Malaysia | Southeast Asia |  | 265 | 0 | 9 | 10 | 4% | sculpture 121, household 68, garment 15, ceramic 11 | 1 |
 | [Mara people](https://en.wikipedia.org/wiki/Mara_people) | India | Southeast Asia | ✓ | 468 | 0 | 9 | 9 | 0% | household 146, jewelry 72, arms 68, textile 68 | 66 |
-| [Turkmens](https://en.wikipedia.org/wiki/Turkmens) (incl. Yomut) | Turkmenistan | Central Asia | ✓ | 399 | 3 | 9 | 9 | 0% | garment 113, textile 91, household 81, jewelry 50 | 19 |
-| [Melanau people](https://en.wikipedia.org/wiki/Melanau_people) | Malaysia | Southeast Asia |  | 265 | 0 | 9 | 9 | 4% | sculpture 121, household 68, garment 15, ceramic 11 | 1 |
-| [Gondi people](https://en.wikipedia.org/wiki/Gondi_people) | India | South Asia |  | 435 | 0 | 8 | 10 | 0% | household 120, jewelry 100, arms 44, unclassified 39 | 6 |
+| [Shan people](https://en.wikipedia.org/wiki/Shan_people) | Myanmar | Southeast Asia |  | 410 | 0 | 8 | 10 | 0% | household 228, garment 42, jewelry 39, ceramic 21 | 181 |
 | [Japanese people](https://en.wikipedia.org/wiki/Japanese_people) | Japan | East Asia |  | 0 | 2269 | 8 | 9 | 0% | metalwork 1522, arms 560, instruments 83, garment 39 | 1466 |
-| [Shan people](https://en.wikipedia.org/wiki/Shan_people) | Myanmar | Southeast Asia |  | 410 | 0 | 8 | 9 | 0% | household 228, garment 42, jewelry 39, ceramic 21 | 181 |
 | [Mangyan peoples](https://en.wikipedia.org/wiki/Mangyan) | Philippines | Southeast Asia |  | 376 | 0 | 8 | 9 | 0% | household 151, jewelry 66, arms 43, ceramic 31 | 0 |
-| [Igorot peoples](https://en.wikipedia.org/wiki/Igorot_people) | Philippines | Southeast Asia |  | 283 | 6 | 8 | 8 | 0% | household 116, arms 46, ceramic 35, garment 31 | 345 |
-| [Kelabit people](https://en.wikipedia.org/wiki/Kelabit_people) | Malaysia | Southeast Asia |  | 218 | 0 | 8 | 8 | 2% | household 113, textile 21, arms 17, ceramic 17 | 0 |
+| [Igorot peoples](https://en.wikipedia.org/wiki/Igorot_people) | Philippines | Southeast Asia |  | 283 | 6 | 8 | 8 | 0% | household 117, arms 46, ceramic 35, garment 31 | 345 |
+| [Kelabit people](https://en.wikipedia.org/wiki/Kelabit_people) | Malaysia | Southeast Asia |  | 218 | 0 | 8 | 8 | 2% | household 114, textile 21, arms 17, ceramic 17 | 0 |
 | [Toraja](https://en.wikipedia.org/wiki/Torajan_people) | Indonesia | Southeast Asia | ✓ | 143 | 3 | 8 | 8 | 0% | household 44, textile 32, ceramic 24, garment 15 | 475 |
-| [Naga people](https://en.wikipedia.org/wiki/Naga_people) | India | South Asia |  | 500 | 12 | 7 | 10 | 1% | jewelry 172, arms 113, household 61, garment 57 | 275 |
+| [Malays](https://en.wikipedia.org/wiki/Malays_(ethnic_group)) | Malaysia | Southeast Asia | ✓ | 223 | 1 | 7 | 9 | 8% | household 83, arms 61, unclassified 18, photo 18 | 16 |
 | [Semai people](https://en.wikipedia.org/wiki/Semai_people) | Malaysia | Southeast Asia |  | 429 | 0 | 7 | 8 | 0% | household 160, arms 121, jewelry 47, instruments 26 | 4 |
 | [Tibetan people](https://en.wikipedia.org/wiki/Tibetans) | China | East Asia |  | 152 | 129 | 7 | 8 | 50% | photo 140, arms 79, instruments 18, metalwork 11 | 300 |
-| [Malays](https://en.wikipedia.org/wiki/Malays_(ethnic_group)) | Malaysia | Southeast Asia | ✓ | 223 | 1 | 7 | 8 | 8% | household 83, arms 61, unclassified 23, photo 18 | 16 |
 | [Turkish people](https://en.wikipedia.org/wiki/Turkish_people) | Turkey | West Asia | ✓ | 87 | 123 | 7 | 8 | 25% | arms 72, photo 53, instruments 31, painting-mss 20 | 277 |
-| [Ifugao people](https://en.wikipedia.org/wiki/Ifugao_people) | Philippines | Southeast Asia | ✓ | 145 | 1 | 6 | 8 | 0% | household 69, ceramic 19, garment 13, sculpture 12 | 465 |
+| [Ifugao people](https://en.wikipedia.org/wiki/Ifugao_people) | Philippines | Southeast Asia | ✓ | 145 | 1 | 6 | 8 | 0% | household 70, ceramic 19, garment 13, sculpture 12 | 465 |
 | [Bhil](https://en.wikipedia.org/wiki/Bhil) | India | South Asia |  | 115 | 2 | 6 | 8 | 0% | arms 39, sculpture 25, jewelry 12, garment 12 | 14 |
+| [Miao](https://en.wikipedia.org/wiki/Miao_people) | China | East Asia | ✓ | 594 | 10 | 6 | 7 | 0% | garment 409, textile 80, jewelry 40, household 37 | 44 |
 | [Lanna people](https://en.wikipedia.org/wiki/Lanna_people) | Thailand | Southeast Asia |  | 248 | 0 | 6 | 7 | 0% | household 83, textile 57, instruments 51, garment 25 | 9 |
 | [Hmong people](https://en.wikipedia.org/wiki/Hmong_people) | China | Southeast Asia | ✓ | 153 | 0 | 6 | 7 | 0% | garment 46, household 41, jewelry 20, textile 13 | 46 |
 | [Andamanese people](https://en.wikipedia.org/wiki/Andamanese_peoples) | India | South Asia |  | 132 | 0 | 6 | 7 | 2% | arms 49, household 19, textile 14, ceramic 14 | 3 |
 | [Karen people](https://en.wikipedia.org/wiki/Karen_peoples) | Myanmar | Southeast Asia |  | 116 | 1 | 6 | 7 | 2% | garment 58, household 17, textile 12, instruments 9 | 122 |
-| [Khanty people](https://en.wikipedia.org/wiki/Khanty) | Russia | North Asia |  | 87 | 0 | 6 | 7 | 0% | garment 26, household 21, unclassified 8, instruments 7 | 54 |
+| [Khanty people](https://en.wikipedia.org/wiki/Khanty) | Russia | North Asia |  | 87 | 0 | 6 | 7 | 0% | garment 26, household 21, instruments 7, jewelry 7 | 54 |
 | [Ida'an](https://en.wikipedia.org/wiki/Ida%CA%BCan) | Malaysia | Southeast Asia |  | 79 | 0 | 6 | 7 | 0% | household 24, garment 18, arms 10, textile 8 | 0 |
 | [Nivkh people](https://en.wikipedia.org/wiki/Nivkh_people) | Russia | East Asia |  | 114 | 0 | 6 | 6 | 0% | household 42, arms 23, sculpture 17, ceramic 11 | 1 |
 | [Chukchis](https://en.wikipedia.org/wiki/Chukchi_people) | Russia | North Asia |  | 67 | 0 | 6 | 6 | 1% | household 14, arms 14, garment 11, sculpture 10 | 544 |
@@ -457,13 +458,12 @@ Below the bar (4): Sinixt people (7 obj, photo 0%), Cubeo people (6 obj, photo 0
 | [Jarawa people](https://en.wikipedia.org/wiki/Jarawas_(Andaman_Islands)) (also Afizere) | India | South Asia |  | 110 | 0 | 5 | 6 | 0% | arms 44, household 19, textile 13, ceramic 13 | 0 |
 | [Konyak people](https://en.wikipedia.org/wiki/Konyak_Naga) | India | South Asia |  | 94 | 0 | 5 | 6 | 0% | jewelry 43, household 15, garment 10, arms 8 | 5 |
 | [Thai people](https://en.wikipedia.org/wiki/Thai_people) | Thailand | Southeast Asia | ✓ | 53 | 36 | 5 | 6 | 0% | masks-ritual 35, instruments 25, arms 9, garment 8 | 106 |
-| [Miao](https://en.wikipedia.org/wiki/Miao_people) | China | East Asia | ✓ | 500 | 10 | 5 | 5 | 0% | garment 352, textile 66, jewelry 40, household 23 | 44 |
+| [Dusun people](https://en.wikipedia.org/wiki/Dusun_people) | Malaysia | Southeast Asia |  | 64 | 0 | 5 | 6 | 0% | household 15, jewelry 12, garment 11, ceramic 10 | 3 |
 | [Atayal](https://en.wikipedia.org/wiki/Atayal_people) | Taiwan | East Asia |  | 152 | 1 | 5 | 5 | 0% | textile 78, garment 51, jewelry 14, household 5 | 2 |
 | [Penan people](https://en.wikipedia.org/wiki/Penan_people) | Malaysia | Southeast Asia |  | 106 | 0 | 5 | 5 | 15% | household 54, photo 16, arms 14, instruments 10 | 5 |
 | [Murut people](https://en.wikipedia.org/wiki/Murut_people) | Malaysia | Southeast Asia |  | 106 | 0 | 5 | 5 | 0% | textile 33, household 24, garment 19, arms 17 | 1 |
 | [Akha](https://en.wikipedia.org/wiki/Akha_people) | Myanmar | Southeast Asia |  | 78 | 1 | 5 | 5 | 0% | garment 42, textile 11, jewelry 10, arms 8 | 93 |
 | [Bamar](https://en.wikipedia.org/wiki/Bamar_people) | Myanmar | Southeast Asia | ✓ | 31 | 36 | 5 | 5 | 1% | instruments 21, arms 14, ceramic 12, painting-mss 7 | 0 |
-| [Dusun people](https://en.wikipedia.org/wiki/Dusun_people) | Malaysia | Southeast Asia |  | 64 | 0 | 5 | 5 | 0% | household 15, jewelry 12, garment 11, ceramic 10 | 3 |
 | [Semang](https://en.wikipedia.org/wiki/Semang) | Malaysia | Southeast Asia |  | 91 | 0 | 4 | 6 | 0% | arms 40, household 15, garment 14, jewelry 12 | 66 |
 | [Apatani people](https://en.wikipedia.org/wiki/Apatani_people) | India | Northeast India |  | 56 | 0 | 4 | 6 | 0% | arms 17, garment 11, jewelry 11, household 7 | 0 |
 | [Lao people](https://en.wikipedia.org/wiki/Lao_people) | Laos | Southeast Asia | ✓ | 44 | 0 | 4 | 6 | 0% | jewelry 12, household 7, unclassified 6, garment 5 | 337 |
@@ -494,10 +494,12 @@ Below the bar (4): Sinixt people (7 obj, photo 0%), Cubeo people (6 obj, photo 0
 | [Kotas](https://en.wikipedia.org/wiki/Kota_people_(India)) (also Kota people) | India | South Asia |  | 25 | 15 | 2 | 2 | 5% | sculpture 23, painting-mss 13, photo 2, masks-ritual 1 | 645 |
 | [Mishmi people](https://en.wikipedia.org/wiki/Mishmi_people) | India | South Asia |  | 27 | 0 | 2 | 2 | 4% | arms 18, garment 5, household 2, jewelry 1 | 3 |
 | [Bouyei people](https://en.wikipedia.org/wiki/Bouyei_people) | China | Southeast Asia |  | 23 | 0 | 2 | 2 | 0% | garment 13, textile 7, jewelry 2, household 1 | 0 |
+| [Yi people](https://en.wikipedia.org/wiki/Yi_people) | China | East Asia |  | 39 | 0 | 1 | 5 | 0% | masks-ritual 15, unclassified 6, household 4, ceramic 3 | 53 |
 | [Kurds](https://en.wikipedia.org/wiki/Kurds) | Iraq | West Asia | ✓ | 19 | 0 | 1 | 3 | 0% | garment 11, textile 3, painting-mss 3, household 2 | 2 |
 | [Monpa people](https://en.wikipedia.org/wiki/Monpa_people) | India | South Asia |  | 16 | 0 | 1 | 3 | 25% | sculpture 6, photo 4, painting-mss 4, unclassified 1 | 0 |
 | [Parsi](https://en.wikipedia.org/wiki/Parsis) | India | South Asia |  | 13 | 0 | 1 | 3 | 0% | garment 5, instruments 4, arms 3, household 1 | 16 |
 | [Lampung people](https://en.wikipedia.org/wiki/Lampung_people) | Indonesia | Southeast Asia |  | 0 | 17 | 1 | 2 | 0% | garment 14, textile 3 | 23 |
+| [Minangkabau](https://en.wikipedia.org/wiki/Minangkabau_people) | Indonesia | Southeast Asia | ✓ | 13 | 3 | 1 | 2 | 0% | arms 9, architectural 4, sculpture 1, ceramic 1 | 36 |
 | [Kadar people](https://en.wikipedia.org/wiki/Kadar_people) | India | South Asia |  | 16 | 0 | 1 | 2 | 0% | jewelry 13, household 3 | 0 |
 | [Khasi people](https://en.wikipedia.org/wiki/Khasi_people) | India | South Asia |  | 14 | 0 | 1 | 2 | 0% | household 8, arms 4, ceramic 2 | 0 |
 | [Ukit people](https://en.wikipedia.org/wiki/Ukit_people) | Malaysia | Southeast Asia |  | 14 | 0 | 1 | 2 | 43% | photo 6, jewelry 4, arms 2, garment 1 | 0 |
@@ -505,10 +507,10 @@ Below the bar (4): Sinixt people (7 obj, photo 0%), Cubeo people (6 obj, photo 0
 | [Palestinians](https://en.wikipedia.org/wiki/Palestinians) | Palestine | West Asia |  | 12 | 0 | 1 | 2 | 0% | textile 8, garment 4 | 291 |
 | [Magars](https://en.wikipedia.org/wiki/Magars) | Nepal | South Asia |  | 10 | 0 | 1 | 2 | 0% | jewelry 5, garment 4, household 1 | 16 |
 | [Bunong people](https://en.wikipedia.org/wiki/Bunong_people) | Cambodia | Southeast Asia |  | 9 | 0 | 1 | 2 | 0% | jewelry 5, arms 3, household 1 | 0 |
+| [Yakuts](https://en.wikipedia.org/wiki/Yakuts) | Russia | North Asia |  | 32 | 0 | 1 | 1 | 0% | household 25, sculpture 2, ceramic 2, garment 1 | 1 |
 | [Pahari people](https://en.wikipedia.org/wiki/Pahari_people_(Nepal)) | Nepal | South Asia |  | 0 | 20 | 1 | 1 | 0% | painting-mss 20 | 13 |
 | [Alune](https://en.wikipedia.org/wiki/Alune_people) | Indonesia | Southeast Asia |  | 20 | 0 | 1 | 1 | 0% | household 13, unclassified 3, jewelry 2, instruments 1 | 18 |
 | [Buginese people](https://en.wikipedia.org/wiki/Bugis) | Indonesia | Southeast Asia |  | 17 | 0 | 1 | 1 | 0% | arms 13, instruments 2, garment 2 | 19 |
-| [Minangkabau](https://en.wikipedia.org/wiki/Minangkabau_people) | Indonesia | Southeast Asia | ✓ | 13 | 3 | 1 | 1 | 0% | arms 9, unclassified 4, sculpture 1, ceramic 1 | 36 |
 | [Pashtuns](https://en.wikipedia.org/wiki/Pashtuns) (also Pashtun tribe) | Afghanistan | South Asia |  | 15 | 0 | 1 | 1 | 7% | garment 10, arms 2, photo 1, household 1 | 1 |
 | [Sindhis](https://en.wikipedia.org/wiki/Sindhis) | Pakistan | South Asia |  | 15 | 0 | 1 | 1 | 0% | painting-mss 12, garment 2, arms 1 | 3 |
 | [Balinese](https://en.wikipedia.org/wiki/Balinese_people) | Indonesia | Southeast Asia | ✓ | 0 | 13 | 1 | 1 | 0% | arms 11, household 1, garment 1 | 137 |
@@ -520,14 +522,13 @@ Below the bar (4): Sinixt people (7 obj, photo 0%), Cubeo people (6 obj, photo 0
 | [Ngada](https://en.wikipedia.org/wiki/Ngada_people) | Indonesia | Southeast Asia |  | 8 | 0 | 1 | 1 | 0% | garment 8 | 1 |
 | [Kalinga people](https://en.wikipedia.org/wiki/Kalinga_people) | Philippines | Southeast Asia |  | 7 | 1 | 1 | 1 | 0% | arms 6, ceramic 1, instruments 1 | 46 |
 | [Manggarai people](https://en.wikipedia.org/wiki/Manggarai_people) | Indonesia | Southeast Asia |  | 6 | 0 | 1 | 1 | 0% | garment 6 | 0 |
-| [Yi people](https://en.wikipedia.org/wiki/Yi_people) | China | East Asia |  | 39 | 0 | 0 | 5 | 0% | unclassified 18, household 4, ceramic 3, masks-ritual 3 | 53 |
 | [Uyghurs](https://en.wikipedia.org/wiki/Uyghurs) | China | Central Asia | ✓ | 10 | 0 | 0 | 2 | 40% | jewelry 4, photo 4, household 1, garment 1 | 1 |
 | [Armenians](https://en.wikipedia.org/wiki/Armenians) | Armenia | West Asia |  | 8 | 2 | 0 | 2 | 0% | painting-mss 4, garment 3, jewelry 1, metalwork 1 | 17 |
 | [Nanai](https://en.wikipedia.org/wiki/Nanai_people) | Russia | East Asia |  | 10 | 0 | 0 | 2 | 0% | garment 4, arms 3, textile 1, household 1 | 4 |
 | [Khumi people](https://en.wikipedia.org/wiki/Khumi_people) | Myanmar | Southeast Asia | ✓ | 9 | 0 | 0 | 2 | 0% | household 4, garment 3, arms 2 | 0 |
 | [Kuki people](https://en.wikipedia.org/wiki/Kuki_people) | India | South Asia |  | 11 | 0 | 0 | 1 | 0% | painting-mss 4, jewelry 2, household 1, arms 1 | 3 |
 | [Sinhalese](https://en.wikipedia.org/wiki/Sinhalese_people) | Sri Lanka | South Asia |  | 9 | 0 | 0 | 1 | 22% | sculpture 3, garment 2, photo 2, household 1 | 17 |
-| [Bisaya](https://en.wikipedia.org/wiki/Bisaya_(Borneo)) | Malaysia | Southeast Asia |  | 9 | 0 | 0 | 1 | 44% | photo 4, unclassified 2, arms 1, household 1 | 2 |
+| [Bisaya](https://en.wikipedia.org/wiki/Bisaya_(Borneo)) | Malaysia | Southeast Asia |  | 9 | 0 | 0 | 1 | 44% | photo 4, masks-ritual 2, arms 1, household 1 | 2 |
 | [Lun Bawang](https://en.wikipedia.org/wiki/Lun_Bawang) | Malaysia | Southeast Asia |  | 9 | 0 | 0 | 1 | 0% | garment 3, arms 2, unclassified 1, textile 1 | 0 |
 | [Bontoc people](https://en.wikipedia.org/wiki/Bontoc_people) | Philippines | Southeast Asia |  | 6 | 1 | 0 | 1 | 0% | household 4, garment 2, arms 1 | 99 |
 | [Bali (tribe)](https://en.wikipedia.org/wiki/Bali_(tribe)) | Saudi Arabia | Middle East |  | 0 | 7 | 0 | 1 | 0% | arms 4, jewelry 2, household 1 | 1396 |
@@ -536,7 +537,7 @@ Below the bar (4): Sinixt people (7 obj, photo 0%), Cubeo people (6 obj, photo 0
 | [Puyuma people](https://en.wikipedia.org/wiki/Puyuma_people) | Taiwan | East Asia |  | 6 | 0 | 0 | 1 | 0% | jewelry 3, textile 2, arms 1 | 0 |
 | [Circassians](https://en.wikipedia.org/wiki/Circassians) | Russia | Caucasus |  | 0 | 3 | 0 | 1 | 0% | arms 3 | 1 |
 
-Below the bar (4): Yakuts (32 obj, photo 0%), Kalash people (11 obj, photo 0%), Bahnar people (6 obj, photo 0%), Tajiks (1 obj, photo 0%)
+Below the bar (3): Kalash people (11 obj, photo 0%), Bahnar people (6 obj, photo 0%), Tajiks (1 obj, photo 0%)
 
 ## Europe — 27
 
@@ -576,18 +577,18 @@ Below the bar (2): Sorbs (11 obj, photo 0%), English people (4 obj, photo 0%)
 
 | people | country | region | in atlas | BM | Met+Cle | breadth | cat. 3+ | photo | top categories | Eur. |
 |---|---|---|:-:|--:|--:|--:|--:|--:|---|--:|
-| [Native Hawaiians](https://en.wikipedia.org/wiki/Native_Hawaiians) | United States | Polynesia |  | 435 | 12 | 11 | 12 | 1% | painting-mss 98, household 72, textile 71, garment 48 | 0 |
-| [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) (incl. Te Arawa, Ngāti Kahungunu, Ngāpuhi) | New Zealand | Polynesia |  | 500 | 20 | 11 | 11 | 24% | household 143, photo 126, arms 71, jewelry 41 | 154 |
+| [Māori](https://en.wikipedia.org/wiki/M%C4%81ori_people) (incl. Te Arawa, Ngāti Kahungunu, Ngāpuhi) | New Zealand | Polynesia |  | 2787 | 20 | 12 | 12 | 26% | household 810, photo 742, arms 379, garment 166 | 154 |
+| [Native Hawaiians](https://en.wikipedia.org/wiki/Native_Hawaiians) | United States | Polynesia |  | 435 | 12 | 11 | 12 | 1% | painting-mss 98, household 74, textile 71, garment 48 | 0 |
+| [Torres Strait Islanders](https://en.wikipedia.org/wiki/Torres_Strait_Islanders) | Australia | Melanesia |  | 716 | 1 | 10 | 12 | 9% | arms 197, jewelry 133, household 113, garment 64 | 2 |
 | [Asmat people](https://en.wikipedia.org/wiki/Asmat_people) | Indonesia | Melanesia |  | 339 | 0 | 10 | 11 | 28% | photo 95, arms 75, textile 35, household 24 | 286 |
-| [Torres Strait Islanders](https://en.wikipedia.org/wiki/Torres_Strait_Islanders) | Australia | Melanesia |  | 500 | 1 | 9 | 11 | 8% | arms 140, jewelry 97, household 74, garment 45 | 2 |
 | [Fijians](https://en.wikipedia.org/wiki/Fijians) | Fiji | Melanesia |  | 260 | 8 | 9 | 9 | 13% | arms 81, ceramic 43, photo 35, household 31 | 1 |
-| [Nuaulu](https://en.wikipedia.org/wiki/Nuaulu_people) | Indonesia | Melanesia |  | 326 | 0 | 7 | 8 | 0% | household 141, unclassified 73, jewelry 30, arms 20 | 0 |
-| [Samoans](https://en.wikipedia.org/wiki/Samoans) | Samoa | Polynesia |  | 500 | 0 | 6 | 7 | 76% | photo 378, painting-mss 59, textile 21, household 16 | 20 |
+| [Nuaulu](https://en.wikipedia.org/wiki/Nuaulu_people) | Indonesia | Melanesia |  | 326 | 0 | 7 | 8 | 0% | household 144, unclassified 56, jewelry 30, textile 21 | 0 |
+| [Samoans](https://en.wikipedia.org/wiki/Samoans) | Samoa | Polynesia |  | 567 | 0 | 6 | 7 | 74% | photo 422, painting-mss 69, textile 26, household 17 | 20 |
 | [Tiwi people](https://en.wikipedia.org/wiki/Tiwi_people) | Australia | Australia |  | 181 | 0 | 6 | 7 | 15% | jewelry 66, arms 40, photo 27, household 20 | 1 |
 | [Motu people](https://en.wikipedia.org/wiki/Motu_people) | Papua New Guinea | Melanesia |  | 104 | 0 | 6 | 7 | 26% | photo 27, household 21, jewelry 21, unclassified 11 | 2 |
-| [Tongans](https://en.wikipedia.org/wiki/Tongans) | Tonga | Polynesia |  | 500 | 0 | 6 | 6 | 80% | photo 401, painting-mss 52, household 14, textile 13 | 2 |
+| [Tongans](https://en.wikipedia.org/wiki/Tongans) | Tonga | Polynesia |  | 778 | 0 | 6 | 6 | 80% | photo 619, painting-mss 87, household 23, textile 19 | 2 |
 | [Palauans](https://en.wikipedia.org/wiki/Palauans) | Palau | Micronesia |  | 134 | 0 | 6 | 6 | 0% | household 60, ceramic 23, jewelry 21, garment 7 | 0 |
-| [Kanak](https://en.wikipedia.org/wiki/Kanak_people) | France | Melanesia |  | 69 | 3 | 4 | 8 | 24% | arms 17, photo 17, garment 10, household 9 | 10 |
+| [Kanak](https://en.wikipedia.org/wiki/Kanak_people) | France | Melanesia |  | 69 | 3 | 5 | 8 | 24% | arms 17, photo 17, garment 10, household 9 | 10 |
 | [Abelam people](https://en.wikipedia.org/wiki/Abelam_people) | Papua New Guinea | Melanesia |  | 142 | 0 | 4 | 6 | 0% | painting-mss 96, sculpture 26, household 6, masks-ritual 5 | 23 |
 | [Tahitians](https://en.wikipedia.org/wiki/Tahitians) | French Polynesia | Polynesia |  | 91 | 2 | 4 | 4 | 13% | painting-mss 53, garment 14, photo 12, textile 9 | 5 |
 | [Huli people](https://en.wikipedia.org/wiki/Huli_people) | Papua New Guinea | Melanesia |  | 29 | 0 | 4 | 4 | 21% | arms 10, garment 7, photo 6, jewelry 5 | 3 |
@@ -598,7 +599,7 @@ Below the bar (2): Sorbs (11 obj, photo 0%), English people (4 obj, photo 0%)
 | [Tolai people](https://en.wikipedia.org/wiki/Tolai_people) | Papua New Guinea | Melanesia |  | 15 | 1 | 1 | 2 | 0% | masks-ritual 5, textile 3, instruments 2, household 2 | 0 |
 | [Ambonese](https://en.wikipedia.org/wiki/Ambonese_people) | Indonesia | Melanesia |  | 17 | 0 | 1 | 1 | 0% | ceramic 12, textile 2, household 2, unclassified 1 | 0 |
 | [Pintupi](https://en.wikipedia.org/wiki/Pintupi) | Australia | Australia |  | 11 | 0 | 1 | 1 | 100% | photo 11 | 2 |
-| [Warumungu people](https://en.wikipedia.org/wiki/Warumungu) | Australia | Australia |  | 9 | 0 | 1 | 1 | 0% | arms 8, unclassified 1 | 0 |
+| [Warumungu people](https://en.wikipedia.org/wiki/Warumungu) | Australia | Australia |  | 9 | 0 | 1 | 1 | 0% | arms 8, masks-ritual 1 | 0 |
 | [Rapa Nui people](https://en.wikipedia.org/wiki/Rapa_Nui_people) | Chile | Polynesia |  | 0 | 8 | 1 | 1 | 0% | sculpture 5, household 2, arms 1 | 178 |
 | [Wiradjuri](https://en.wikipedia.org/wiki/Wiradjuri) | Australia | Australia |  | 7 | 0 | 1 | 1 | 86% | photo 6, arms 1 | 0 |
 | [Mundugumor people](https://en.wikipedia.org/wiki/Mundugumor_people) | Papua New Guinea | Melanesia |  | 9 | 0 | 0 | 2 | 0% | sculpture 4, instruments 3, masks-ritual 2 | 3 |
