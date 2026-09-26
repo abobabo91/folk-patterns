@@ -643,15 +643,18 @@ def cmd_pick(only: list[str]) -> None:
     """Up to PICK_MAX vetted objects per category per people: candidates are
     tried in _pick_order, each image shown to the library's judge
     (scripts/vet_judge.py), at most PICK_TRIES per category. Accepted: BELONGS
-    YES, IMAGE good, ERA not modern or archaeological; a weak image only fills
-    a category that ends short. A pick the judge files under another category
-    counts there. Objects already in the library are skipped.
-    -> data/world/picks/<key>.json; every judge reply in picks/raw.jsonl.
-    Measured 2026-09-26 on Rukai, Tiv, Oromo, Afar, Haida: 182 judged, 132
-    picks, $1.60 (~$0.009 per call, ~4.5 s each, sequential), 9 dropped. The
-    judge re-files often (wooden bowls the kind list calls ceramic go to
-    household), and a re-filed pick is lost when that category is already full:
-    Haida ceramic ended at 0 after 10 tries of wooden and argillite dishes."""
+    YES, IMAGE good or weak, ERA not modern or archaeological. The judge often
+    re-files (wooden bowls the kind list calls ceramic go to household), so
+    every accepted object is collected first and assigned to the judge's
+    category afterwards, good images before weak: a re-filed object is never
+    lost to a category filled earlier, and a category stops early only once 5
+    good picks already land in it. Objects already in the library are skipped.
+    Judge replies are cached in picks/raw.jsonl, so a rerun only pays for new
+    objects. -> data/world/picks/<key>.json.
+    Measured 2026-09-26 on Rukai, Tiv, Oromo, Afar, Haida: 169 judged, 132
+    picks, $1.48 (~$0.009 per call, ~4.5 s each, sequential), 9 dropped. Haida
+    ceramic ends at 0 correctly: all 10 tried were wooden or argillite dishes,
+    re-filed to household (the Haida made no pottery)."""
     import os
     sys.path.insert(0, str(REPO / "scripts"))
     sys.path.insert(0, str(REPO / "src"))
@@ -664,56 +667,71 @@ def cmd_pick(only: list[str]) -> None:
                                              (r.get("atlas") or "").lower()} & want]
     print(f"{len(rows)} peoples: {', '.join(r['label'] for r in rows)}", flush=True)
     (OUT / "picks").mkdir(exist_ok=True)
+    raw = OUT / "picks" / "raw.jsonl"
+    seen = {}
+    for l in (raw.read_text(encoding="utf-8").splitlines() if raw.exists() else []):
+        x = json.loads(l)
+        if x.get("reply"):
+            seen[(x["key"], x["source"], x["id"])] = x
     bm_client = _client() if os.environ.get("BM_CDP_URL") else None
     http = httpx.Client(timeout=45, follow_redirects=True, headers=UA)
     for r in rows:
         name = r.get("atlas") or re.sub(r"\s+(people|peoples)$", "", r["label"])
-        picks: dict[str, list] = {}
-        weak: dict[str, list] = {}
-        tried = cost = 0
+        accepted: list[dict] = []
+        tried = cached = cost = 0
         t0 = time.time()
         for cat, objs in r["objects"].items():
             if cat == "unclassified":
                 continue
             n = 0
             for o in _pick_order(objs):
-                if n >= PICK_TRIES or len(picks.get(cat, [])) >= PICK_MAX:
+                if n >= PICK_TRIES or sum(a["art_form"] == cat and a["image"] == "good" for a in accepted) >= PICK_MAX:
                     break
+                if any(a["source"] == o["source"] and a["id"] == o["id"] for a in accepted):
+                    continue
                 if o["source"] == "bm" and (bm_client is None or _in_library(o["id"])):
                     continue
                 n += 1
-                d = _detail(o, bm_client, http)
-                if not d:
-                    print(f"  {cat:13s} {o['id']:22s} no image", flush=True)
-                    continue
-                img = (bm_client if o["source"] == "bm" else http).get(d["image_url"])
-                if img.status_code != 200:
-                    print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
-                    continue
-                ev: dict = {}
-                reply, err = judge(build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
-                                                d.get("description") or "", d.get("place") or ""),
-                                   img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}))
-                tried += 1
-                cost += ev.get("total_cost_usd") or 0
+                hit = seen.get((r["key"], o["source"], o["id"]))
+                if hit:
+                    d, reply, err = hit["detail"], hit["reply"], ""
+                    cached += 1
+                else:
+                    d = _detail(o, bm_client, http)
+                    if not d:
+                        print(f"  {cat:13s} {o['id']:22s} no image", flush=True)
+                        continue
+                    img = (bm_client if o["source"] == "bm" else http).get(d["image_url"])
+                    if img.status_code != 200:
+                        print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
+                        continue
+                    ev: dict = {}
+                    reply, err = judge(build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
+                                                    d.get("description") or "", d.get("place") or ""),
+                                       img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}))
+                    tried += 1
+                    cost += ev.get("total_cost_usd") or 0
+                    with open(raw, "a", encoding="utf-8") as f:
+                        f.write(json.dumps({"key": r["key"], "category": cat, **o, "detail": d, "reply": reply, "error": err,
+                                            "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
-                with open(OUT / "picks" / "raw.jsonl", "a", encoding="utf-8") as f:
-                    f.write(json.dumps({"key": r["key"], "category": cat, **o, "detail": d, "reply": reply, "error": err,
-                                        "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
-                rec = {**o, "title": d.get("title"), "image_url": d["image_url"], "art_form": af or cat,
-                       "image": image, "era": era, "confidence": conf, "reason": reason}
                 ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak")
-                dest = af if af and af != "unclassified" else cat
-                if ok and len(picks.get(dest, [])) < PICK_MAX:
-                    (picks if image == "good" else weak).setdefault(dest, []).append(rec)
-                print(f"  {cat:13s} {o['id']:22s} {'KEEP' if ok else 'drop'} {af or '-':13s} {image:6s} {era:14s} {reason[:90]}", flush=True)
-        for cat, w in weak.items():
-            picks.setdefault(cat, []).extend(w[:PICK_MAX - len(picks[cat])])
+                if ok:
+                    accepted.append({**o, "title": d.get("title"), "image_url": d["image_url"],
+                                     "art_form": af if af and af != "unclassified" else cat,
+                                     "image": image, "era": era, "confidence": conf, "reason": reason})
+                print(f"  {cat:13s} {o['id']:22s} {'KEEP' if ok else 'drop'} {af or '-':13s} {image:6s} {era:14s} "
+                      f"{'(cached) ' if hit else ''}{reason[:80]}", flush=True)
+        picks: dict[str, list] = {}
+        for a in sorted(accepted, key=lambda a: a["image"] != "good"):
+            if len(picks.setdefault(a["art_form"], [])) < PICK_MAX:
+                picks[a["art_form"]].append(a)
+        picks = {c: v for c, v in picks.items() if v}
         (OUT / "picks" / f"{r['key']}.json").write_text(json.dumps(
-            {"key": r["key"], "label": r["label"], "name": name, "judged": tried, "cost_usd": round(cost, 3),
+            {"key": r["key"], "label": r["label"], "name": name, "judged": tried, "cached": cached, "cost_usd": round(cost, 3),
              "picks": picks}, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{name}: {sum(map(len, picks.values()))} picks in {len(picks)} categories "
-              f"({', '.join(f'{c} {len(v)}' for c, v in picks.items())}); {tried} judged, ${cost:.2f}, {time.time() - t0:.0f}s", flush=True)
+              f"({', '.join(f'{c} {len(v)}' for c, v in picks.items())}); {tried} judged, {cached} cached, ${cost:.2f}, {time.time() - t0:.0f}s", flush=True)
 
 
 def _atlas_bm_names() -> set[str]:
