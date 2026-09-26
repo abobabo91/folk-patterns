@@ -8,160 +8,169 @@ tags: [ethnography, middle-east-north-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Arabic-speaking majority population of Tunisia |
-| Where | The fertile Sahel and Tell between the Mediterranean and Sahara; urban centers in Tunis, Kairouan, Sfax, Sousse, and southern ksour |
-| How many | Roughly 12 million in Tunisia, with diasporas in France, Italy, Germany, and the Gulf |
-| Language | Tunisian Arabic (Tounsi/Darja), a Maghrebi Arabic with Berber, Latin, Andalusi, Ottoman, Italian, and French influences |
-| Religion | Sunni Muslim (Mālikī school); small Ibāḍī minority on Djerba; ancient Jewish community |
-| Known for | Kairouan knotted carpets with mihrab medallions · crimson chechia felt caps · Andalusi maʾlūf music repertoire · polychrome tilework in medinas · black-fired figurative pottery of Sejnane |
+| Who | Tunisian Arabs, the Arabic-speaking majority of Tunisia |
+| Where | The Sahel coastal plain, Medjerda river valley, Kairouan, Cap Bon peninsula, and Jerid oases |
+| How many | Roughly eleven million people |
+| Language | Derja, a Maghrebi Arabic dialect mixed with Amazigh, Turkish, and Italian words |
+| Religion | Sunni Muslim, Maliki school; Ibadi on Djerba; Sufi brotherhoods |
+| Known for | Kairouan knotted carpets with lozenge medallions · Andalusi malouf music tradition in modal suites · Hand-built Sejnane pottery by women · Layered history visible in living crafts · Week-long wedding ceremonies with regional costume sequences |
 
 ## Overview
 
-Tunisian Arabs are the Arabic-speaking majority of Tunisia, shaped by layers of rule from Carthaginian through French colonial times. Their identity crystallized after the eleventh-century Banū Hilāl Arab migrations and was reshaped by seventeenth-century Andalusi Morisco refugees who influenced urban crafts, farming, and music. They inhabit the narrow, well-watered coastal and inland regions, creating a distinctly Mediterranean-Islamic cultural synthesis. Their traditions span knotted carpets, embroidered textiles, ornate architecture, three pottery styles, layered jewelry, classical music, and food built on couscous, olive oil, and harissa.
+Tunisian Arabs occupy Tunisia's coasts, river valleys, and Saharan oases, speaking Derja and practicing Sunni Islam. Their culture holds visible layers from Phoenician Carthage, 7th-century Arab conquest, 11th-century Bedouin migration, Spanish Muslim refugees, and Ottoman rule. Rather than merging, these strata remain distinct in working crafts, music, and ritual—a Kairouan carpet, a Sejnane figurine, and an Andalusi wedding song each belong to a different time.
 
 ## Material culture
 
-Tunisian material culture blends Arab, Berber, Andalusi, and Ottoman traditions through textiles, ceramics, metalwork, and architecture that fill homes and mark religious and social life.
+Tunisian material culture blends Maghrebi, Ottoman, Andalusi, and Amazigh traditions, with textiles and metalwork tied to guild systems and regional identity.
 
 ### Textile & pattern traditions
 
-Tunisian weaving centers on the knotted Kairouan carpet, flat-woven mergoum rugs, and regional embroidery schools that dress brides and furnish homes.
+Tunisia's textiles range from the knotted Kairouan carpet to flatweaves and embroidered silks, each region keeping its own technique and motif vocabulary.
 
-- **Kairouan carpet** (*zarbiyya qayrawāniyya*) — A symmetrically knotted wool rug with a central mihrab-like medallion flanked by pendants, graded by knot density.
-- **Mergoum rug** (*marqūm*) — A warp-faced tapestry-weave rug with geometric lozenges and zigzag bands in madder red, indigo, and undyed wool from the central steppe.
-- **Tunisian brocade** (*brokār or ṭarz al-fīḍḍa*) — Silk-and-metal-thread cloth woven on the drawloom, most famous in gold-and-silver wedding keswa el-kbira.
-- **Raf Raf embroidery** — Dense polychrome silk work on velvet from Cap Bon, covering the bodice and cuffs of bridal costumes.
-- **Fouta tunisienne** (*fouta*) — A long striped cotton or cotton-linen wrap historically used in the hammam, now a beach towel and light coverlet.
+- **Kairouan carpet** (*zerbia kairouaniya*) — Symmetrically knotted wool pile carpet with a central lozenge medallion, concentric guard borders, and dense filler motifs in madder red and indigo, the only major knotted-pile tradition in the Maghreb.
+- **Mergoum** (*margoum*) — Flatweave in weft-faced tapestry and supplementary weft, woven in bands of geometry across the width rather than centred, with bold versions from Gafsa, Oudref, and the Jerid.
+- **Fouta** — Striped cotton or cotton-silk bath wrap in plain weave with warp stripes, woven in Ksar Hellal and Moknine, ancestor of the modern global Turkish towel trade.
+- **Sifsari** — Fine cream silk or silk-cotton outer wrap worn by urban women, nearly translucent and undecorated, marked by its yellowish natural-silk tone.
+- **Raf Raf embroidery** (*Raf Raf*) — Dense silk and metal-thread embroidery from Cap Bon, worked in solid colour blocks on wedding tunics with heavy couched-gold registers.
 
 ### Clothing & dress
 
-Urban men wear the sleeveless jebba tunic with crimson chechia cap; women layer chemise, embroidered bodice, and sifsari wrap; rural dress adds the haik and silver fibulae.
+Men wear tunics, sashes, and the crimson chechia skullcap; women wrap themselves in pinned rectangles and embroider regional bridal costumes worn over several nights.
 
-- **Chechia** (*shāshiyya*) — The emblematic soft crimson knitted-and-felted wool cap, produced in the Souk ech-Chaouachine of Tunis by guild craftsmen using methods unchanged since the seventeenth century.
-- **Jebba** — An unfitted sleeveless or short-sleeved tunic of fine wool, silk, or linen worn over a long shirt and trousers, covered by a woollen burnous for ceremony.
-- **Sifsari** — An ivory or cream silk-and-cotton wrap draped over the head and body, drawn across the lower face by hand, worn by urban women when going out.
-- **Haik** (*milḥafa*) — A rectangular length of undyed wool wrapped and pinned at the shoulders with silver fibulae, worn by rural women over a long shift.
-- **Grand costume** (*keswa el-kbira*) — A stiff gold-brocaded bridal ensemble of skirt, jacket, and conical headdress laden with jewellery, worn in Hammamet and Jewish communities.
+- **Chechia** — Felted crimson wool skullcap knitted, fulled, dyed and brushed in the Souk des Chéchias of Tunis, the national marker and product of an ancient guild system.
+- **Jebba** — Sleeveless or short-sleeved tunic of wool, silk or cotton worn by men over shirt and baggy trousers, with waistcoat and wide sash between.
+- **Burnous** — Hooded sleeveless wool mantle of the Maghreb worn over the jebba, white for ceremony and brown or undyed for work.
+- **Melia** — Rectangle of wool or cotton pinned at both shoulders with large fibulae and belted, worn by women as a wrapped garment over a tunic.
+- **Bridal costume** (*keswa*) — Regionally specific wedding dress—Hammamet bride's gold-embroidered keswa, Djerba silk ensemble, Raf Raf couched-gold tunic—worn across a sequence of nights rather than once.
 
 ### Architecture
 
-Urban medinas center on whitewashed lime-plastered courtyard houses with polychrome tilework and carved doors; monumental mosques and madrasas anchor the cities; the south preserves fortified granaries, troglodyte houses, and stone farmsteads.
+Tunisian houses are inward-facing compounds around courtyards with tiled interiors; fortified granaries, domed farmsteads, and fortified monasteries anchor rural and coastal landscapes.
 
-- **Courtyard house** (*dār*) — A whitewashed urban dwelling with a central open patio surrounded by T-shaped reception rooms, interior walls faced in polychrome tin-glazed tiles to shoulder height.
-- **Great Mosque of Kairouan** (*Jāmiʿ ʿUqba*) — The oldest congregational mosque in the Maghreb, archetype for the region's square-shafted minarets and hypostyle prayer halls.
-- **Ksar** — A fortified granary of the arid south built with stacked vaulted cells, exemplified by Ksar Ouled Soltane and Medenine.
-- **Matmata troglodyte house** (*troglodyte courtyard houses*) — Dwellings carved down into the loess of the south, with underground courtyards and rooms.
-- **Tunis blue doors** (*azraq tūnisī*) — Doorways framed in carved sandstone with black iron nails arranged in khomsa, fish, and crescent patterns, painted in the celebrated Tunis blue against whitewash.
+- **Dar** — Inward-facing urban house built around a paved courtyard with rooms opening through horseshoe-arched doorways, street façade blank except for a studded blue door.
+- **Ghorfa** — Barrel-vaulted stacked storage cell of the Dahar, aggregated into fortified granary complexes at Medenine and Ksar Ouled Soltane.
+- **Menzel** — Whitewashed domed farmstead compound of Djerba, built with squat fortress-mosques anchoring the landscape.
+- **Ribat** — 8th–9th century fortified frontier monastery at Monastir and Sousse, anchoring coastal defence.
+- **Troglodyte pit-house** (*matmata*) — Sunken courtyard dug into loess with living rooms tunnelled off it, found in Matmata in the south.
 
 ### Ceramics, metalwork & everyday objects
 
-Three living pottery traditions define the ceramic heritage: tin-glazed maiolica from Nabeul, large unglazed storage jars from Guellala on Djerba, and handbuilt figurative ware from Sejnane; metalwork centers on chased brass and wrought-iron grilles.
+Tunisia produces polychrome tin-glazed pottery, unglazed utilitarian earthenware, hand-built feminine figurines, and engraved metalwork from urban guilds.
 
-- **Nabeul pottery** — Tin-glazed maiolica painted in cobalt, manganese, iron-yellow, and copper-green on a white ground, produced since sixteenth-century Andalusi potters settled on Cap Bon.
-- **Guellala pottery** — Unglazed and lead-glazed earthenware and stoneware, specializing in enormous olive-oil and water jars fired in half-buried updraught kilns.
-- **Sejnane pottery** — Handbuilt, coil-raised, open-fired earthenware inscribed on the UNESCO Representative List, featuring figurines and vessels painted with iron-oxide red and manganese black zigzags.
-- **Chased brass trays and ewers** (*Souk en-Nhas work*) — Chased and pierced brass trays, ewers, and incense burners from the Souk en-Nhas in Tunis.
-- **Ṣunduq dowry chest** (*ṣunduq*) — Carved and painted wooden dowry chest banded in iron, used to furnish traditional households.
+- **Nabeul pottery** (*Nabeul*) — Polychrome tin-glazed and painted wheelwork from Cap Bon in cobalt, green and amber with fish, floral arabesque and hand motifs, continuous with Andalusi-Ottoman tile tradition.
+- **Guellala pottery** (*Guellala*) — Unglazed or minimally glazed utilitarian earthenware from Djerba thrown by a male potter caste, producing amphorae, couscous steamers and water jars.
+- **Sejnane pottery** (*Sejnane*) — Coil-built, burnished pottery made by women without a wheel in the Mogod hills, open-fired in straw and hand-painted after with red ochre and stylized female figurines.
+- **Brass trays and lanterns** (*Souk el-Nhas*) — Engraved and pierced brass from the Souk el-Nhas in Tunis, paired with cedar and olive-wood chests and the clay tabouna bread oven.
+- **Keskes** — Couscous steamer pot, one of the primary ceramic forms from Guellala.
 
 ### Jewelry & body adornment
 
-Urban brides wear fine gold filigree and enamelled pieces; rural and southern women wear heavier silver assemblages of fibulae, chains, and amulet cases; the khomsa hand is the pervasive protective form.
+Silver jewelry is rural and Amazigh, gold is urban and Andalusi-Ottoman; Moknine and Djerba workshops made the classic repertoire of fibulae, amulet cases, and chased pieces.
 
-- **Ḥarz gold pectoral** (*ḥarz*) — A gold pectoral ornament given to urban brides, part of the coastal medina tradition.
-- **Moknine jewelry** — A specialist Sahel urban school known for filigree gold and enamelled work supplied to brides across coastal towns.
-- **Berber silver fibulae** (*khlāl*) — Triangular silver fibulae linked by chains across the chest, worn by Arabised Berber and rural Arab women in the south.
-- **Coin necklace** (*jnāwī*) — A necklace strung with Ottoman and Spanish coinage, worn by rural women.
-- **Khomsa** — The stylised open hand in silver, gold, glass paste, or painted, worn as pendant or hung over doors and cradles to deflect the evil eye.
+- **Khlel** — Large triangular or disc fibulae joined by a chain that pin the melia, among the foundational pieces of Moknine and Djerba metalwork.
+- **Khomsa** — Hand-of-Fatima pendant in filigree, enamel or plain sheet, a protective amulet and motif in textile patterns.
+- **Hedid and skhab necklaces** (*hedid, skhab*) — Necklaces strung with amber, clove and coral, part of the Moknine and Djerba classical repertoire.
+- **Khalkhal** — Heavy ankle rings worn by women, made in silver (rural) or gold (urban) from Moknine and Djerba workshops.
+- **Harraz** — Hinged amulet case holding a written charm, part of urban bridal gold regalia.
 
 ## Music & performance
 
-The classical maʾlūf Andalusi suite tradition anchors Tunisian music, while urban, Sufi, rural, and sub-Saharan stambeli genres flourish alongside.
+Art music is the malouf, an Andalusi-Ottoman nuba suite tradition in thirteen modal forms; rural music runs on the mizwid bagpipe and frame drums, Sufi orders maintain their own hadra, and stambeli is healing music from sub-Saharan traditions.
 
-- **Maʾlūf** — The Andalusi nawba suite tradition brought by seventeenth-century Morisco refugees, organized into thirteen nawbāt pairing metric instrumental preludes with sung poetry.
-- **Stambeli** — The music and healing ritual of descendants of enslaved sub-Saharans, centered on the gumbrī three-string lute and iron clappers.
-- **Mizwid** — A bagpipe-led popular song of the working-class urban quarters.
-- **Ḥaḍra** — Sufi trance drumming of the Isawiyya, Qadiriyya, and Sulamiyya brotherhoods.
-- **Ṣalḥī and Fazzānī** (*ṣalḥī, fazzānī*) — Sung poetry genres of the Bedouin steppe and pearl-diving songs of Kerkennah.
+- **Malouf** — Local branch of the Andalusi nuba suite tradition in thirteen modal suites, each progressing through fixed rhythmic movements, reorganised under Ottoman beys and standardised by the Rashidiyya Institute in 1934.
+- **Mizwid** — Mouth-blown bagpipe with two chanters and goatskin bag, paired with frame drum and darbuka in rural and working-class song.
+- **Stambeli** — Healing music tradition of Tunis brought by sub-Saharan enslaved populations, built on the gumbri three-string bass lute and iron clappers, used in possession ceremony.
+- **Hadra** — Sung liturgy of Sufi brotherhoods (Aissawa, Sulamiyya, Tijaniyya) built on drums, frame drums and responsorial chant.
+- **Oud arbi** — Four-course North African lute used in malouf ensembles, distinct from the Middle Eastern oud sharqi.
 
 ## Dance & theatre
 
-Urban women perform seated raqṣ and standing fazzānī at weddings; men dance with sticks and sabres; the south preserves group dances and possession-trance; Karagöz shadow theatre survives from Ottoman times.
+Wedding and festival dance is largely women's dance with hip and torso articulation; men dance shoulder-to-shoulder in lines; shadow-puppet theatre and storytellers performed in cafés.
 
-- **Raqṣ and fazzānī** (*raqṣ, fazzānī*) — Seated and standing dances performed by urban women at weddings, using shoulder-shimmy and hip-articulation vocabulary.
-- **Stick and sabre dances** (*raqṣ al-ʿaṣā*) — Dances performed by men of the Sahel and Cap Bon in lines with sticks or sabres.
-- **Nagāza and ḥadra** (*nagāza, ḥadra*) — Group dances preserved in the Bedouin south.
-- **Karagöz shadow theatre** (*Qaraqūz*) — Tea-house shadow-puppet theatre inherited from Ottoman times, performed in Tunisian Arabic with a stock cast of comic types.
-- **Spoken theatre** — Secular theatre in Tunisian Arabic has been a strong local form since pioneering troupes of the 1910s, visible internationally through the Journées Théâtrales de Carthage.
+- **Hair dance** (*raqs*) — Distinctive women's dance of the south and Jerid in which women whip loosened hair in circles to the mizwid and bendir.
+- **Men's line dance** (*raqs*) — Shoulder-to-shoulder men's dance in the Sahel and Cap Bon to the zukra shawm.
+- **Stambeli possession ceremony** (*stambeli*) — Danced as ritual rather than entertainment, each spirit summoned by its own rhythm and colour.
+- **Karakouz** — Ottoman shadow-puppet theatre of satirical leather figures played in coffee houses, declined in the 20th century.
+- **Fdawi** — Storyteller who performed serialized epic in cafés during Ramadan nights.
 
 ## Festivals & rituals
 
-The ritual year follows the Islamic lunar calendar with Ramadan, Eid celebrations, and Mūlid an-Nabī; local saint pilgrimages and multi-day weddings structure community life.
+The year follows the Islamic calendar—Ramadan, Eids, and Mouled—crossed by solar agricultural festivals at saint tombs and local mawsims; life-cycle ritual is dense with naming, circumcision, week-long wedding, and forty-day mourning.
 
-- **Ramadan ftūr meals** (*ftūr*) — Nightly communal breaking of fast with sweet zlābiyya fritters, especially in the Tunis medina.
-- **Mūlid an-Nabī** — Prophet's birthday celebrated with particular intensity at Kairouan with processions, ʿassīda zgougou pine-nut pudding, and Sufi ḥaḍra.
-- **Ziyāra pilgrimage** (*ziyāra*) — Local pilgrimages to the shrines of saints, such as Sidi Bou Said above Tunis Bay and Sidi Sahbi in Kairouan.
-- **Ghriba pilgrimage** (*Ghriba*) — The annual pilgrimage of the Djerba Jewish community that draws broader participation.
-- **Wedding ḥinnāʾ night** (*ḥinnāʾ*) — Henna is applied to the bride's hands and feet the night before the wedding in geometric patterns.
+- **Zarda** — Local saint's festival and pilgrimage-picnic at a marabout's tomb with animal sacrifice, Sufi processions and communal cooking.
+- **Sboua** — Seventh-day naming ceremony after birth, marked with assida pudding and sacrifice.
+- **Tahara** — Male circumcision celebration, a public event with the boy dressed in miniature jebba and gold.
+- **Hanna** — Night of henna application during wedding week, a distinct ceremony at which women apply geometric stains.
+- **Jelwa** — Wedding unveiling at which the bride is presented in successive regional costumes.
 
 ## Foodways
 
-The Tunisian table is built on wheat couscous and olive oil, distinguished by intense chilli use in harissa paste; signature dishes include brik pastry, lablabi chickpea soup, and shakshūka.
+Wheat couscous steamed in a keskes is the base; harissa chilli paste and fermented lemons are the defining seasonings; signature dishes run from fried brik to slow-cooked stews and date-filled sweets.
 
-- **Couscous** (*kuskus*) — Hand-rolled hard-wheat semolina, the national dish served with fish on the coast, lamb inland, and sweetened masfūf for feasts.
-- **Harissa** (*harīsa*) — A pounded paste of dried red chillies, garlic, caraway, and coriander inscribed on the UNESCO Representative List of Intangible Cultural Heritage in 2022.
-- **Brik** — Paper-thin malsūqa pastry folded around egg, tuna, capers, and parsley, then deep-fried.
-- **Lablabi** — Chickpea soup poured over stale bread with harissa, cumin, olive oil, and a raw egg.
-- **Maqrūḍ** — Semolina-and-date diamond sweets of Kairouan, part of the Andalusi and Ottoman sweet inheritance.
+- **Couscous** (*kosksi*) — Hand-rolled hard durum wheat steamed in a keskes over a stew of lamb, fish or vegetables, the national dish.
+- **Brik** — Triangle of malsouka pastry folded around egg, tuna and parsley and deep-fried.
+- **Harissa** — Paste of dried red chilli, garlic, caraway and coriander, the defining seasoning of Tunisian cooking.
+- **Makroudh** — Date-filled semolina diamond from Kairouan, a signature sweet.
+- **Charmoula** — Onion-and-raisin sweet-sour relish eaten at Eid with grilled and stewed fish in the Sahel and Kerkennah.
 
 ## Oral tradition & literature
 
-The ḥilāliyya sung epic of the Banū Hilāl migration anchors oral literature alongside malḥūn vernacular poetry, storytellers' folktales, and collected proverbs; Ibn Khaldūn and modern writers extend the classical tradition.
+The café storyteller narrated the Sirat Bani Hilal, an Arabic oral epic tied to the 11th-century arabization of Tunisia; women's genres include lullabies, ululation, and sung laments; malouf poetry retains Andalusi strophic forms.
 
-- **Ḥilāliyya epic** (*ḥilāliyya*) — The sung epic cycle of the Banū Hilāl migration from Najd to Ifriqiya, inscribed on the UNESCO Representative List, with the hero Abū Zayd al-Hilālī invoked from Egypt to Morocco.
-- **Malḥūn poetry** (*malḥūn*) — Strophic poetry in vernacular Arabic, a rich body of verse tradition.
-- **Folktales** (*ḥkāyāt*) — Folktales framed by storytellers (fdāwī) of the Tunis and Kairouan cafés.
-- **Proverbs** (*amthāl*) — Collected proverbs of everyday speech, one of the most-studied corpora in the Maghreb.
-- **Ibn Khaldūn** — The fourteenth-century historian born in Tunis is claimed as a founding figure of modern historical writing.
+- **Sirat Bani Hilal** — Arabic oral epic of the Banu Hilal tribes' westward migration into the Maghreb, narrated by café storytellers as a Tunisian origin story.
+- **Zaghrouta** — Wedding ululation, a women's vocal genre performed at celebrations.
+- **Muwashshah** — Andalusi strophic poetic form retained in malouf poetry.
+- **Zajal** — Colloquial Andalusi strophic form adapted in malouf poetry.
+- **Fdawi** — Storyteller who recounted serialized tales opening with the formula 'I'll tell you a tale.'
 
 ## Language & religion
 
-Tunisian Arabic is the everyday vernacular with Maghrebi grammar and Berber substrate; small Berber-speaking communities survive in the south; the overwhelming majority are Sunni Muslims with Ibāḍī and Jewish minorities.
+Tunisian Arabic (Derja) is a Maghrebi variety with Amazigh, Turkish, and Italian substrate; Modern Standard Arabic is administrative; Sunni Maliki Islam is dominant with Ibadi, Jewish, and Sufi communities; folk religion centers on saint cults and protective practice.
 
-- **Tunisian Arabic** (*Tounsi, ad-dārija at-tūnisiyya*) — The everyday vernacular sharing Maghrebi grammar with Algerian and Libyan Arabic, marked by Berber substrate, Andalusi retentions, and dense Italian and French borrowings.
-- **Shelḥa** — Small Berber-speaking communities surviving in the south around Chenini, Douiret, Matmata, and Djerba.
-- **Mālikī school** (*Mālikī*) — The school of Islamic jurisprudence to which the overwhelming majority of Tunisian Arab Sunni Muslims belong.
-- **Ibāḍī minority** (*Ibāḍī*) — A minority Islamic school concentrated on Djerba.
-- **Ghriba synagogue** (*Ghriba*) — The ancient Jewish community's most visible site on Djerba, formerly with a ḥāra (quarter) in Tunis.
+- **Derja** — Maghrebi Arabic dialect with Amazigh substrate, Turkish and Italian vocabulary, the spoken language of Tunisia.
+- **Maliki school** (*Maliki*) — The distinctive Maghrebi legal tradition of Islamic law, followed by the overwhelming Sunni Muslim majority.
+- **Wali** — Saint, venerated through tomb visitation, vow-making and zarda sacrifice in folk religion.
+- **Khomsa** — Hand motif used as apotropaic protective practice against evil eye.
+- **Bkhour** — Incense burned as protective practice and folk medicine.
 
 ## Glossary
 
-- *maʾlūf* — Andalusi nawba suite tradition of classical music
-- *nawba* — Paired suite of instrumental preludes and sung poetry
-- *chechia* — Soft crimson knitted-and-felted wool cap
-- *mergoum* — Warp-faced tapestry-weave rug with geometric patterns
-- *khomsa* — Hand of Fatima motif and protective amulet
-- *jebba* — Unfitted sleeveless tunic worn by men
-- *sifsari* — Silk-and-cotton wrap worn by urban women
-- *haik* — Rectangular wool wrap worn by rural women, also milḥafa
-- *dār* — Courtyard house with central patio
-- *harīsa* — Pounded paste of dried red chillies, garlic, and spices
-- *kuskus* — Hand-rolled wheat semolina, national dish
-- *stambeli* — Healing ritual and music of sub-Saharan descendants
-- *ziyāra* — Pilgrimage to a saint's shrine
-- *Tounsi* — Tunisian Arabic vernacular language
-- *ḥinnāʾ* — Henna, applied on bride's hands and feet
-- *ksar* — Fortified granary of stacked vaulted cells
-- *ḥaḍra* — Sufi trance drumming ritual
-- *khlāl* — Silver fibulae or brooches linked by chains
+- *Derja* — Maghrebi Arabic dialect of Tunisia with Amazigh and Turkish vocabulary
+- *zerbia kairouaniya* — Kairouan knotted wool-pile carpet with lozenge medallion
+- *margoum* — Flatweave tapestry in banded geometry, also mergoum
+- *fouta* — Striped cotton or silk bath wrap, ancestor of Turkish towel
+- *sifsari* — Fine silk outer wrap worn by urban women
+- *chechia* — Crimson felted wool skullcap, national marker
+- *jebba* — Sleeveless or short-sleeved tunic worn by men
+- *burnous* — Hooded sleeveless wool mantle of the Maghreb
+- *melia* — Wrapped rectangle of wool or cotton pinned with fibulae
+- *khlel* — Large triangular or disc fibulae that pin the melia
+- *dar* — Urban house with inward-facing courtyard and tiled interior
+- *ghorfa* — Barrel-vaulted stacked storage cell of the Dahar
+- *keskes* — Couscous steamer pot
+- *malouf* — Andalusi-Ottoman art music in thirteen modal suites
+- *mizwid* — Mouth-blown bagpipe with two chanters and goatskin bag
+- *stambeli* — Sub-Saharan healing music tradition of Tunis with gumbri lute
+- *hadra* — Sung liturgy of Sufi brotherhoods in responsorial chant
+- *zarda* — Local saint's festival at marabout tomb with sacrifice
+- *sboua* — Seventh-day naming ceremony after birth
+- *harissa* — Paste of dried red chilli, garlic, caraway and coriander
+- *khomsa* — Hand of five motif; also hand-of-Fatima pendant and protective amulet
+- *wali* — Saint venerated through tomb pilgrimage and vow-making
+- *bkhour* — Incense used in protective practice and folk medicine
+- *fdawi* — Café storyteller who performed serialized epics during Ramadan
 
 ## Sources & further reading
 
-- Wikipedia: "Tunisian people", "Culture of Tunisia", "Tunisian Arabic", "Maʾlūf", "Chechia (cap)", "Sejnane pottery", "Kairouan", "Medina of Tunis", "Ksar Ouled Soltane"
-- UNESCO Representative List of the Intangible Cultural Heritage of Humanity: Pottery-making skills of the women of Sejnane (2018); Harissa, knowledge, skills and culinary and social practices (2022); Al-Sirah al-Hilaliyyah epic (regional, inscribed 2008)
-- Lucette Valensi, Tunisian Peasants in the Eighteenth and Nineteenth Centuries (Cambridge, 1985)
-- Ali Mrabet and Samir Aounallah on the Kairouan carpet trade, Revue Tunisienne des Sciences Sociales
-- Ruth Davis, Ma'lūf: Reflections on the Arab Andalusian Music of Tunisia (Scarecrow, 2004)
-- Paul Sebag, Tunis: Histoire d'une ville (L'Harmattan, 1998)
-- Jean-Louis Combès and André Louis, Les potiers de Djerba (Tunis, 1967)
-- Sophie Ferchiou (ed.), Hasab wa nasab: parenté, alliance et patrimoine en Tunisie (CNRS, 1992)
+- Jacques Revault, *Palais et résidences d'été de la région de Tunis (XVIe–XIXe siècles)*, Éditions du CNRS, 1974
+- Ruth F. Davis, *Ma'luf: Reflections on the Arab Andalusian Music of Tunisia*, Scarecrow Press, 2004
+- Richard C. Jankowsky, *Stambeli: Music, Trance, and Alterity in Tunisia*, University of Chicago Press, 2010
+- Sophie Ferchiou, *Hasab wa nasab: parenté, alliance et patrimoine en Tunisie*, Éditions du CNRS, 1992
+- Samia Chergui and Jamila Binous on Tunisian domestic architecture and the medina of Tunis; Ruth Davis on *malouf* and the Rashidiyya Institute
+- https://en.wikipedia.org/wiki/Arabs
+- https://en.wikipedia.org/wiki/Tunisian_Arabic
+- UNESCO ICH, Tunisia: https://ich.unesco.org/en/state/tunisia-TN — including *Pottery skills of the women of Sejnane* (2018), https://ich.unesco.org/en/RL/01406
+- Smithsonian Folkways: https://folkways.si.edu/search?query=Tunisia
+- Victoria and Albert Museum collections: https://collections.vam.ac.uk/search/?q=Tunisia
+- The Metropolitan Museum of Art: https://www.metmuseum.org/art/collection/search?q=Tunisia
 

@@ -8,160 +8,164 @@ tags: [ethnography, middle-east-north-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Persian people, also called Fārsīyān |
-| Where | Iran's central plateau, from Fārs north to Isfahan and Tehran, east to Yazd and Kerman |
-| How many | 50-60% of Iran's 88 million people; also in Afghanistan, Tajikistan, Uzbekistan, and the Gulf |
-| Language | Fārsī (New Persian), written in modified Arabic script |
-| Religion | Twelver Shia Islam; minorities include Sunnis, Zoroastrians, Bahāʾīs, Christians, and Jews |
-| Known for | knotted-pile carpets from Tabriz, Kashan, Isfahan, Kerman, and Qom · glazed tilework and ceramic traditions · Persian miniature painting and calligraphy · classical music and the epic Shāhnāma · Nowrūz spring festival and Shia mourning rituals |
+| Who | Persians, an Iranian ethnic group |
+| Where | Iranian plateau, with historic core in Fars province; major cities include Isfahan, Kashan, Yazd, Kerman, and Mashhad |
+| How many | roughly 45–50 million people |
+| Language | Persian (Fārsi), a West Iranian Indo-European language |
+| Religion | Mostly Twelver Shi'i Muslims; Zoroastrian, Jewish, Armenian and Bahá'í minorities |
+| Known for | hand-knotted carpets and rugs · tilework and glazed ceramics · classical music and poetry · passion plays and storytelling · gardens and courtyard architecture |
 
 ## Overview
 
-The Persians are an Iranian people whose material and literary culture is one of Eurasia's greatest continuous traditions. They have absorbed influences from Elamite, Mesopotamian, Hellenistic, and Turco-Mongol sources while reshaping themselves around Twelver Shia Islam since the seventh century. Their heartland spans Iran's central plateau, and their craft traditions—carpets, tilework, metalwork, painting, and calligraphy—were exported across the Islamic world from Safavid ateliers. Persian poetry, music, and ritual remain living practices woven into daily life.
+Persians are the majority population of Iran, centered on the plateau oasis cities and descended from the Achaemenid empire. Their city workshops — carpet looms, tile kilns, metalwork benches — created a design vocabulary that influenced Ottoman, Mughal, Central Asian and Caucasian crafts. Persian culture weaves together Zoroastrian festival roots, Shi'i ritual practice, classical literature and music, and distinctive handmade objects in textile, ceramic and metal.
 
 ## Material culture
 
-Persian material culture is known for refined technique, geometric and floral patterning, and the integration of local materials like walnut, turquoise, silk, and copper into objects for both everyday use and ceremonial display.
+Persian material culture centers on the hand-made and the decorative, from knotted carpets to glazed tiles, metalwork, marquetry and lacquerware.
 
 ### Textile & pattern traditions
 
-Persian carpets are the most codified knotted-pile tradition in the world, with each regional school producing distinctive patterns and qualities.
+Hand-knotted carpets with the asymmetric Persian knot are the signature Persian textile, each region producing distinct formal and tribal styles.
 
-- **Persian carpet (Tabriz)** (*qālī, farsh*) — Dense pile on cotton, named for the Tabriz workshops of Azerbaijan, featuring the fish or herātī all-over pattern.
-- **Persian carpet (Kashan)** (*qālī*) — Historic source of Safavid silk carpets; later known for cochineal-red medallion formats.
-- **Gabbeh** (*gabbe*) — Thick, long-piled sleeping rug of Qashqāʾī and Lur nomads with sparse designs, inscribed on UNESCO lists.
-- **Kilim** (*gelīm*) — Flat-woven tapestry rug in slit-tapestry technique, particularly associated with Senneh and Shāhsavan weavers.
-- **Termeh** — Twill-tapestry woven silk-and-wool shawl from Yazd and Kerman, patterned with paisley and used as table cover or ceremonial mantle.
+- **Persian carpet** (*farsh, qāli*) — Hand-knotted pile on cotton or silk warp with wool or silk pile, tied with the asymmetric Persian knot for fine curvilinear drawing.
+- **Kashan carpet** — Built on formal medallion-and-spandrel cartoons.
+- **Kerman carpet** — Built on formal medallion-and-spandrel cartoons.
+- **Gabbeh** — Thick, long-piled tribal rug from Fars woven by Qashqai and Lur women in blocks of undyed or madder-red ground with abstract figures.
+- **Termeh** — Yazd's figured twill of fine merino-type wool in vertical bands of boteh and vine, traditionally a cover for gift trays and Qur'an stands.
 
 ### Clothing & dress
 
-Urban Persian dress before 1928 favored layered, flowing garments; tribal dress preserves older patterns with brilliant colors and distinctive headgear.
+Urban Persian dress mixed fitted coats, wide trousers and layered robes; rural and tribal dress kept gathered skirts and fringed headscarves, while the hand-stitched giveh shoe served all.
 
-- **Qabā** — Fitted long coat worn by men as part of historical urban dress, paired with wide trousers and a sash.
-- **Chādor** — Unfastened semicircle of cloth held at the chin by women, layered over a face-veil in public before 1983.
-- **Qashqāʾī pleated skirt** (*shalīta*) — Brilliantly colored pleated skirt worn by Qashqāʾī women with gauze headscarves.
-- **Giveh** — Hand-woven cotton-uppered shoe with compressed-rag or rawhide sole, made in Kermanshah and still worn in bazaars.
-- **Hijāb** (*hijāb, maqnaʿe, manteau*) — Legally required women's headscarf and overcoat, or full chādor in religious settings, since 1983.
+- **Giveh** — Hand-stitched shoe with cotton-yarn upper over a leather or compressed-rag sole, made in Kermanshah and the Zagros towns.
+- **Chādor** — Face-veil worn in the street by Qajar-era women.
+- **Kolāh** (*kolāh-e namadi*) — Black brimless felt or tall astrakhan lambskin cap worn by Qajar-era men.
+- **Shaliteh** — Short pleated skirt worn indoors by Qajar-era women over leggings with a bolero jacket.
+- **Charqad** — Fringed headscarf pinned under the chin, worn in Fars villages.
 
 ### Architecture
 
-Persian architecture organizes around the four-īwān courtyard plan with inward-facing rooms, mud brick construction, and distinctive cooling systems.
+The plateau house is walled and inward-facing around a central courtyard with pool and trees, built of mud-brick or baked brick with vaulted rooms and ornamental tilework.
 
-- **Four-īwān courtyard** (*īwān*) — Rectangular open court with vaulted, screen-fronted halls on all four sides, codified in mosques, madrasas, and grand houses.
-- **Wind-catcher** (*bādgīr*) — Vertical tower that draws air downward to cool interior spaces, a signature feature of Yazd and Kāshān architecture.
-- **Seven-colour tile technique** (*haft-rang*) — Safavid method in which the whole design is painted on square tiles and fired once, faster than cut-tile mosaic.
-- **Fire-temple** (*ātashkade*) — Zoroastrian structure surviving from the pre-Islamic layer in Yazd.
-- **Muqarnas honeycomb** (*muqarnas, mo'arraq-kāri*) — Elaborated vaulting visible on the Shah Mosque half-domes of Isfahan.
+- **Isfahan tile** (*kāshi-kāri*) — Glazed revetment in cobalt, turquoise and mustard applied to walls and vaults.
+- **Bādgir** — Wind-catcher shaft raised above the roof to drive desert air down over a cistern, used in Yazd.
+- **Muqarnas** — Stalactite vaulting used as ornament in Persian architecture.
+- **Persian garden** (*chahārbāgh*) — Quadripartite walled garden rill-fed, inscribed on the UNESCO World Heritage List in 2011.
+- **Yakhchāl** — Conical mud-brick ice-house built for storage.
 
 ### Ceramics, metalwork & everyday objects
 
-Persian ceramics and metalwork traditions rank among the world's greatest, from glazed tiles to painted enamels and intricate marquetry.
+Medieval Persian kilns pioneered lustreware and enamelled bowls; later centres produced blue-and-white and enamel wares, while metalworkers specialized in chased copper and brass, champlevé enamel, and micro-mosaic marquetry.
 
-- **Mīnākāri** (*mīnā-kārī*) — Painted enamel on copper with cobalt-blue grounds and white flowers, from Isfahan, used for plates, vases, boxes, and bowls.
-- **Qalamzani** — Chasing and repoussé of copper, brass, and silver, an Isfahan specialty producing trays, ewers, and sprinklers.
-- **Khātamkāri** (*khātam*) — Micromosaic marquetry of walnut, ebony, bone, and metal, glued onto boxes, backgammon sets, and doors in Isfahan and Shiraz.
-- **Ghalamkār** — Hand block-printed cotton with resist-and-madder technique, an Isfahan specialty for table cloths and hangings.
-- **Persian miniature** (*negārgarī*) — Illuminated manuscript painting from the schools of Tabriz, Herat, Qazvin, Shiraz, and Isfahan, inscribed on UNESCO lists.
+- **Qalamzani** — Chased and repoussé engraving on copper, brass, silver and tinned copper trays, ewers and bowls.
+- **Minakari** — Champlevé and painted vitreous enamel on copper, usually cobalt ground with floral roundels.
+- **Khatam** (*khāṭamkāri*) — Micro-mosaic marquetry of brass wire, camel bone, ebony and jujube wood veneered onto boxes, mirror frames and doors.
+- **Persian lacquerware** — Papier-mâché pen boxes, mirror cases and book covers painted in gol o morgh and varnished, peaked under the Qajars.
 
 ### Jewelry & body adornment
 
-Persian jewelry emphasizes high-karat gold, turquoise, and pierced-and-enamelled forms, with amuletic and bridal traditions.
+Gold and turquoise are the standards for wedding jewelry and daily wear, often engraved with Qur'anic phrases or set in protective amulets.
 
-- **Turquoise** (*fīrūze*) — Favored gemstone from the Neyshābūr mines, set into gold jewelry and enamelled pieces.
-- **Filigree earrings** (*goshvāre*) — Delicate gold earrings, a characteristic form of Persian jewelry.
-- **Nazar eye bead** (*nazar*) — Amuletic bead worn to ward off the evil eye, widespread across Persian communities.
-- **Henna night** (*ḥanā-bandān*) — Bride's hands are stained with henna in the evening before the wedding ceremony.
-- **Kohl** (*sormeh*) — Eye cosmetic applied as part of traditional adornment, still used in some communities.
+- **Shishdāng** — Bride's jewelry set of necklace, earrings, ring and bangles given as mehriyeh.
+- **Ta'viz** — Amulet case worn on the upper arm holding a written prayer.
+- **Chashm-e nazar** — Blue eye-bead worn as protection.
+- **Henna** (*hanā*) — Applied to the bride's hands and the groom's at the pre-wedding hanā-bandān, and used as a hair dye by older women.
+- **Turquoise** (*firuzeh*) — Stone from Nishapur mines, the signature Iranian stone set in silver seal rings.
 
 ## Music & performance
 
-Classical Persian music centers on the radīf repertoire of melodic units grouped into modes, transmitted through memorization and inscribed on UNESCO lists.
+Persian art music is organized as a memorised repertoire of melodic models grouped into named modes, realized through improvisation on stringed, wind and percussion instruments.
 
-- **Radīf** — Canonical repertoire of three hundred melodic units grouped into seven principal modes and five secondary, inscribed on UNESCO lists in 2009.
-- **Dastgāh modes** (*dastgāh*) — Seven principal musical modes: shūr, māhūr, homāyūn, segāh, chahārgāh, navā, and rāst-panjgāh.
-- **Tar lute** (*tār*) — Long-necked lute, a foundational instrument in classical Persian music.
-- **Naqqālī** — Epic story-telling of the Shāhnāma by a solo performer with staff and painted backdrop, inscribed on UNESCO Urgent Safeguarding List.
-- **Taʿziye** — Shia passion play commemorating the martyrdom of Ḥusayn, performed during Muḥarram and inscribed on UNESCO lists.
+- **Radif** — Memorised repertoire of melodic models grouped into dastgāh and āvāz modes.
+- **Tār** — Long-necked instrument with mulberry body, lambskin face and brass frets.
+- **Kamāncheh** — Bowed spike-fiddle used in Persian music.
+- **Santur** — Hammered trapezoid instrument used in Persian art music.
+- **Rowzeh-khāni** — Mourning recitation, a central vocal genre in Persian ritual music.
 
 ## Dance & theatre
 
-Persian dance favors solo improvised forms with fluid wrist and shoulder movements; regional dances include line and stick dances.
+Solo wrist and finger-led improvised dance contrasts with the commanding ta'ziyeh passion play and comic traditions of farce, shadow play and solo storytelling.
 
-- **Solo gathering dance** (*raqṣ-e majlesī*) — Improvisational dance with fluid rotations of wrists and shoulders, small ornamental foot-steps, performed at weddings to 6/8 rhythm.
-- **Kurdish line-dance** (*chūpī, govend*) — Vigorous group dance gripped by little fingers and led by a scarf-swinging front dancer.
-- **Stick dance** (*chūb-bāzī*) — Qashqāʾī and Baxtiārī dance in which two men trade blows and parries with wooden staffs to shawm and drum.
-- **Ru-ḥowżi** — Comic improvised farce played on a plank over the courtyard pool at weddings, featuring stock characters.
-- **String-puppet theatre** (*shab-bāzī, kheyme-shab-bāzī*) — Shadow and puppet plays, with string-puppet forms inscribed on UNESCO lists in 2010.
+- **Ta'ziyeh** — Shi'i passion play of the martyrdom of Husayn at Karbala staged in Muharram in the round, with sympathetic characters chanting in dastgāh modes and antagonists declaiming in prose.
+- **Raqs-e Irāni** — Solo improvised dance working through wrist rotation, finger snaps, shoulder shimmy and small hip articulation.
+- **Naqqāli** — Dramatic solo storytelling from the Shāhnāmeh, delivered standing with a stick and a painted cloth in the coffee house.
+- **Khayāl-bāzi** — Shadow play, a comic theatrical tradition.
+- **Zurkhāneh** — House of strength, a hybrid of athletics, drum-and-bell recitation and Shahnameh chant.
 
 ## Festivals & rituals
 
-Nowrūz spring festival and the Shia mourning calendar are the central ritual occasions, marked by household spreads, bonfires, and processions.
+Nowruz at the vernal equinox marks the year's pivot with spring cleaning and symbolic table settings; Shi'i Ashura and Ramadan overlay a calendar also marked by older water festivals and bonfire rites.
 
-- **Nowrūz** — Spring equinox New Year on 21 March, rooted in Zoroastrianism and shared across the Iranian cultural sphere, inscribed on UNESCO lists.
-- **Haft-sīn table** (*haft-sīn*) — Household spread of seven items whose names begin with the Persian letter s, set out for Nowrūz with mirror, eggs, coins, and a holy book.
-- **Chahārshanbe-sūrī** — Wednesday before Nowrūz marked by leaping over small bonfires with a chant exchanging redness for paleness.
-- **Yaldā** (*Yaldā, Shab-e Chelle*) — Longest night of the year spent reading Ḥāfeẓ and eating pomegranate and watermelon, inscribed on UNESCO lists.
-- **Wedding spread** (*sofre-ye ʿaqd*) — Elaborate ritual cloth with mirror, candles, honey, sugar cones ground over the couple's heads, and Quran or Shāhnāma.
+- **Nowruz** — Zoroastrian-rooted New Year at the vernal equinox with haft-sin table, spring cleaning, and Sizdah Bedar picnic on the thirteenth day.
+- **Chahārshanbeh Suri** — Tuesday night before Nowruz when families jump bonfires with the couplet zardi-ye man az to, sorkhi-ye to az man.
+- **Shab-e Yaldā** — Longest night celebration on 20–21 December with watermelon, pomegranate, nuts and divination from the Divān of Hafez.
+- **Ashura** — Muharram commemoration of Husayn's martyrdom with ta'ziyeh, nazri food distribution and alam standard-bearing processions.
+- **Sofreh-ye aqd** — Marriage contract spread of mirror, candelabra, bread, honey and Qur'an with a silk canopy held overhead while sugar cones are ground.
 
 ## Foodways
 
-The Persian table centers on long-grain rice steamed with a butter crust, paired with slow-cooked braises, grilled meats, and signature flavors of saffron, dried lime, and pomegranate.
+Persian foodways center on seasonal celebrations and ritual meals, from Nowruz watermelon to Ramadan breaking-the-fast and vow-meal distributions.
 
-- **Chelow rice** (*chelow*) — Parboiled and steamed long-grain rice with a butter-and-oil crust on the pot bottom.
-- **Pomegranate-walnut braise** (*khoresht-e fesenjān*) — Slow-cooked stew of pomegranate and walnut with duck or chicken, one of the classic trio of Persian braises.
-- **Flatbread** (*sangak, lavāsh, taftūn, barbarī*) — Neighborhood bakery breads including sangak baked on hot pebbles, essential to every meal.
-- **Minced lamb skewer** (*kabāb-e kūbīde*) — Grilled skewered minced lamb served over rice or wrapped in flatbread, a restaurant staple.
-- **Saffron brittle** (*sohān*) — Sweet specialty of Qom made with saffron, a signature Persian confection.
+- **Haft-sin** — Nowruz table of seven symbolic s-items marking the New Year celebration.
+- **Iftār** — Breaking-the-fast meal during Ramadan.
+- **Sofreh-ye Abbās** — Vow meal distributed as folk religious practice.
+- **Nazri** — Food distribution during Ashura commemoration.
 
 ## Oral tradition & literature
 
-Persian literature is one of the world's deepest traditions, anchored in the epic Shāhnāma and the lyric ghazal, still recited and performed in folk contexts.
+The Shāhnāmeh national epic anchors oral performance and coffee-house recitation; lyric and didactic works by Rumi, Sa'di, Hafez and Attar are quoted conversationally and used for divination.
 
-- **Shāhnāma** — Tenth-century epic of fifty thousand distiches recounting mythic and historical kings of Iran, still recited in naqqālī performance.
-- **Ghazal** — Lyric poem form perfected by Ḥāfeẓ of Shiraz, whose Dīvān is used for bibliomantic divination at Nowrūz and Yaldā.
-- **Golestān** (*Golestān, Būstān*) — Works by Saʿdī that supply the proverbs woven into everyday Persian speech.
-- **Khamsa** — Five long narrative poems by Neẓāmī, including Layla and Majnūn, sources for the miniature-painting canon.
-- **Nastaʿlīq calligraphy** (*nastaʿlīq*) — Specifically Persian hanging script developed in the fourteenth century, inscribed on UNESCO Representative List in 2021.
+- **Shāhnāmeh** — National epic by Ferdowsi completed in 1010, backbone of oral performance and coffee-house storytelling.
+- **Panj Ganj** — Romance cycles by Nizami Ganjavi including Khosrow and Shirin and Layla and Majnun.
+- **Masnavi** — Didactic work by Rumi quoted conversationally in Persian culture.
+- **Fāl-e Hāfez** — Bibliomancy or divination from the Divān of Hafez, a domestic ritual.
+- **Do-bayti** — Quatrain folk verse genre.
 
 ## Language & religion
 
-Persian is written in a modified Arabic script, grammatically simple but lexically layered with Arabic, Turkic, and modern European terms; the vast majority are Twelver Shia Muslims with significant minorities of Sunnis, Zoroastrians, Bahāʾīs, Christians, and Jews.
+Persian is a West Iranian language continuing Old and Middle Persian, written in Perso-Arabic script; most Persians are Twelver Shi'i Muslims with Zoroastrian, Jewish, Armenian and Bahá'í minorities.
 
-- **Fārsī script** (*Fārsī*) — Modified Arabic script of thirty-two letters, adding p, ch, ž, and g to the Arabic base.
-- **Twelver Shia Islam** (*Twelver Shia*) — State religion of Iran since Shah Ismāʿīl I in 1501, centered on veneration of the Twelve Imams and pilgrimage to their shrines.
-- **Marjaʿ-e taqlīd** — System of clerical authority that structures Twelver Shia religious life.
-- **ʿĀshūrā mourning** (*ʿĀshūrā*) — Religious observance on 10 Muḥarram with black-clad processions, chest-beating, and taʿziye plays.
-- **Zoroastrian fire temple** (*ātashkade*) — Fire temples still in use in Yazd and Kerman among the Zoroastrian minority.
+- **Fārsi** — Persian language, West Iranian within the Indo-European family, continuing Middle Persian and Old Persian.
+- **Nasta'liq** — Perso-Arabic script used for Persian poetry.
+- **Dakhma** — Zoroastrian tower used by Persian Zoroastrian communities in Yazd and Kerman.
+- **Ziyārat** — Shrine visiting as folk religious practice, especially at Mashhad and Qom.
+- **Esfand** — Seed burned in the evil-eye rite of Persian folk religion.
 
 ## Glossary
 
-- *qālī* — Knotted-pile carpet
-- *haft-rang* — Seven-colour tile technique of Safavid Isfahan
-- *mīnā-kārī* — Painted enamel on copper
-- *qalamzani* — Chased and repoussé metalwork
-- *khātam* — Micromosaic marquetry of wood and metal
-- *ghalamkār* — Hand block-printed cotton cloth
-- *radīf* — Canonical repertoire of classical Persian music
-- *dastgāh* — Modal system in Persian classical music
-- *naqqālī* — Epic dramatic story-telling of the Shāhnāma
-- *taʿziye* — Shia passion play of the martyrdom of Ḥusayn
-- *Nowrūz* — Spring equinox New Year on 21 March
-- *haft-sīn* — Ceremonial table of seven items for Nowrūz
-- *chelow* — Steamed long-grain rice with butter crust
-- *khoresht* — Slow-cooked braise served with rice
-- *Fārsī* — New Persian language, spoken and written
-- *Twelver Shia* — Major branch of Islam centred on the Twelve Imams
-- *īwān* — Vaulted hall opening onto a courtyard
-- *bādgīr* — Wind-catching tower for cooling buildings
+- *qāli* — Persian carpet or rug
+- *boteh* — Almond or cypress bent-tip figure motif, became paisley
+- *gol o morgh* — Flower and bird motif
+- *dastgāh* — Named melodic mode in Persian music
+- *tār* — Long-necked plucked instrument with lambskin face
+- *ney* — End-blown reed flute in Persian music
+- *ta'ziyeh* — Shi'i passion play of Husayn's martyrdom
+- *naqqāli* — Dramatic solo storytelling from the Shāhnāmeh
+- *Nowruz* — Persian New Year at the vernal equinox
+- *haft-sin* — Nowruz table of seven symbolic s-items
+- *Ashura* — Muharram commemoration of Husayn's martyrdom
+- *bādgir* — Wind-catcher shaft for cooling desert houses
+- *qalamzani* — Chased and repoussé engraving on metal
+- *minakari* — Champlevé and painted vitreous enamel on copper
+- *khāṭamkāri* — Micro-mosaic marquetry with wood and bone
+- *firuzeh* — Turquoise stone, signature Iranian gemstone
+- *hanā* — Henna applied for weddings and hair dyeing
+- *fāl-e Hāfez* — Divination from the Divān of Hafez
 
 ## Sources & further reading
 
-- Wikipedia: "Persians", "Culture of Iran", "Persian carpet", "Persian miniature", "Nowruz", "Radif (music)", "Taʿzieh", "Naqqāli", "Khatam", "Mina (art)", "Persian architecture".
-- UNESCO Intangible Cultural Heritage inscriptions: Nowruz (2009, extended 2016); Radif of Iranian music (2009); Ritual dramatic art of Taʿzīye (2010); Traditional skills of carpet weaving in Fars (2010) and in Kashan (2010); Naqqāli, Iranian dramatic story-telling (2011, Urgent Safeguarding); Kheyme Shab-Bazi traditional puppetry (2010); Music of the Bakhshis of Khorasan (2010); Craftsmanship and playing of the Kamantcheh/Kamānche (2017, with Azerbaijan); Yalda / Chella (2022, with Afghanistan); Persian calligraphy — Nastaʿlīq (2021); Art of miniature (2020, with Turkey, Azerbaijan and Uzbekistan); Chahārshanbe-sūrī (2024).
-- A. U. Pope and P. Ackerman, A Survey of Persian Art (Oxford, 1938–39, many reprints) — the foundational reference for material culture.
-- Jennifer Wearden and Patricia Baker, Iranian Textiles (V&A, 2010).
-- Bruno Nettl, The Radif of Persian Music: Studies of Structure and Cultural Context (1987).
-- Ehsan Yarshater (ed.), Encyclopædia Iranica — the authoritative reference for all topics above (online, iranicaonline.org).
-- Willem Floor, Traditional Crafts in Qajar Iran (Mazda, 2003).
-- Peter Chelkowski (ed.), Taʿziyeh: Ritual and Drama in Iran (NYU, 1979).
+- Ehsan Yarshater (ed.), Encyclopædia Iranica (Columbia University / Routledge, 1982– )
+- Arthur Upham Pope and Phyllis Ackerman (eds.), A Survey of Persian Art from Prehistoric Times to the Present (Oxford University Press, 1938–39)
+- Bruno Nettl, The Radif of Persian Music: Studies of Structure and Cultural Context (Elephant & Cat, 1987)
+- Peter J. Chelkowski (ed.), Ta'ziyeh: Ritual and Drama in Iran (New York University Press, 1979)
+- Margaret Shortle / Jennifer Wearden and Patricia L. Baker, Iranian Textiles (V&A Publishing, 2010); Cecil Edwards, The Persian Carpet (Duckworth, 1953)
+- Hasan Javadi and Sadeq Hedayat, Neyrangestān — foundational Iranian folklore collecting; Abol-Qasem Enjavi Shirazi's national folklore archive
+- Jean During, Zia Mirabdolbaghi and Dariush Safvat, The Art of Persian Music (Mage, 1991)
+- https://en.wikipedia.org/wiki/Persians
+- https://ich.unesco.org/en/state/iran-islamic-republic-of-IR
+- https://whc.unesco.org/en/list/1372 — The Persian Garden, UNESCO World Heritage List, 2011
+- https://folkways.si.edu/search?query=Iran
+- https://collections.vam.ac.uk/search/?q=persian%20carpet
+- https://www.metmuseum.org/art/collection/search?department=14&q=Iran
+- https://www.rijksmuseum.nl/en/search?q=Perzi%C3%AB
 

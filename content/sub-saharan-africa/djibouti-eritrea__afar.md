@@ -8,160 +8,159 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Afar pastoralists, a Cushitic-speaking people |
-| Where | The Afar Triangle where Djibouti, Eritrea and Ethiopia meet, including the Danakil Depression |
-| How many | Three to four million speakers total, with largest communities in Ethiopia |
-| Language | Qafar af, a Lowland East Cushitic language |
-| Religion | Sunni Islam of the Shafi'i school with Sufi traditions |
-| Known for | The crescent-bladed jile dagger worn by all adult men · Salt caravan trade from Lake Assale to Ethiopian highlands · Plaited palm-fibre mats and leather work · Oral poetry and ginnili verse · Pastoral nomadic culture in harsh desert landscape |
+| Who | The Afar, a Cushitic-speaking pastoral people |
+| Where | The Afar Triangle: the Danakil Desert, northeastern Ethiopia, Djibouti, southern Eritrea |
+| How many | 2,276,867 in Ethiopia's 2007 census; over a third of Djibouti's population |
+| Language | Afar, an East Cushitic language of the Afroasiatic family |
+| Religion | Overwhelmingly Sunni Muslim of the Shafi'i school |
+| Known for | Portable material culture made for camelback transport · Battle songs and the ginnili poet-warrior tradition · The jile dagger worn by every adult man · Plaited and coiled palm-fibre craft · The dagu news-exchange system |
 
 ## Overview
 
-The Afar are nomadic pastoralists of the Horn of Africa living in one of earth's harshest landscapes. Their material culture is pared to what camels can carry: light mats, wooden vessels, leather work, and the iconic crescent dagger. Historically they controlled the salt trade routes and several sultanates; today their society still follows Islamic practice mixed with older pastoral customs.
+The Afar are pastoralists of the Horn of Africa whose territory spans the hottest inhabited desert regions. Their material world is engineered for mobility: mats, vessels, daggers and headrests all built to travel on camel. They are overwhelmingly Muslim but preserve older rain sacrifices and healing practices. Their oral tradition includes battle songs, clan genealogies, and the dagu system of news exchange that functions as a desert-wide intelligence network.
 
 ## Material culture
 
-Afar material culture is built for mobility, made from palm fibre, leather, wood and silver rather than heavy woven textiles or stone.
+Afar craft is dominated by plaited and coiled plant fibre rather than loom weaving, creating a complete portable material world in leather, wood, horn and doum-palm.
 
 ### Textile & pattern traditions
 
-Afar weavers make plaited mats and baskets rather than woven cloth, acquiring textiles by trade instead.
+Afar weaving is done not on looms but through plaiting and coiling of doum-palm leaf, dyed in red, black and orange.
 
-- **Afar mat** (*bura or daboyta*) — A large rectangular sleeping mat plaited from split doum-palm leaf with geometric bands in red, black and orange dyed in lozenges, chevrons and stepped triangles.
-- **Afar basketry** (*gambo*) — Tightly coiled lidded food bowls and milk covers with the same geometric vocabulary as the mats, made as part of a young woman's marriage portion.
-- **Afar leather work** — Leather tanned and softened with butter and ochre is fringed, punched and beaded to make skirts, saddle-pads and amulet pouches.
+- **Afar mat** (*fiddima*) — Strips of split doum-palm leaf, some dyed and some natural, plaited into panels and stitched with leather thong; used as house skin, floor and bedding, rolled and loaded on camels.
+- **Afar milk container** — A coiled or plaited fibre vessel densely worked to hold milk, waterproofed with fat or resin, fumigated inside with aromatic wood, with rims and lids bound in tooled leather and hung with cowries or metal discs.
+- **Afar basketry** — Tight coiled work in palm fibre over a grass-bundle core, with coils counted in bands of contrasting dye; squat and thick-walled for liquid rather than grain.
+- **Cotton wrap cloth** (*sanafil*) — Plain-woven cotton lengths, mostly undyed or with a narrow coloured border, traded from Red Sea ports and highlands rather than woven locally.
+- **Afar shield** — A round or slightly conical buckler of thick hide, preferably oryx or giraffe, moulded wet and carried with a spear.
 
 ### Clothing & dress
 
-Men wear wrapped cotton cloth with the dagger at the waist; women wear longer wraps with head-cloths and beading.
+Men and women wear the sanafil cloth knotted in distinctive ways, with men carrying the jile dagger prominently at the waist and women wearing head cloths after marriage.
 
-- **Man's wrap** (*sanafil*) — Undyed or lightly striped cotton wrapped around the waist to mid-calf, worn with the upper body bare or draped in a second cloth.
-- **Ceremonial dagger** (*jile or gile*) — The single most diagnostic element of adult male dress, a crescent-bladed dagger presented at circumcision and worn for life.
-- **Woman's wrap** (*shash or sabota*) — A longer wrap covering from breast to ankle, often dyed brown or red-ochre, with a second cloth thrown over the head.
-- **Afro hairstyle** — Hair is worn high and teased, dressed with clarified butter and combed daily with a long-toothed wooden comb.
-- **Ceremonial leather skirt** (*harayto*) — An older garment worn at weddings and receptions, its lower edge fringed and hung with metal jingles.
+- **Men's dress** — The sanafil wound round the waist and reaching the calf, knotted at the hip, with a second length thrown over the shoulder like a toga; a leather belt carries the jile dagger at the front of the body.
+- **Headrest** — A carved wooden neck-rest cut from a single block, with an incised or chip-carved stem, protecting the buttered coiffure in sleep and travelled tied to the belt.
+- **Women's head cloth** (*shash*) — Commonly dark, worn by women after marriage; brides and dancers add heavy silver and bead ornament.
+- **Afar comb** — Long-toothed combs in wood, horn and bone, carved on the handle, part of the male grooming set.
+- **Sandals** — Cut from thick hide for both men and women.
 
 ### Architecture
 
-Afar build portable domed huts that can be disassembled and moved by camel, while old sultanate towns have permanent coral-stone buildings.
+Afar buildings are engineered for transhumance: a portable dome house for movement and a larger rectangular structure for seasonal camps.
 
-- **Portable dwelling** (*ari or aris*) — A domed hut of bent acacia saplings lashed into a hemispherical frame two to three metres across, covered with layered palm mats and hides.
-- **Nomadic encampment** (*burra*) — A cluster of ari dwellings belonging to a lineage, typically enclosed by a low thorn zariba against predators.
-- **Sultanate towns** — Permanent settlements like Tadjoura, Obock and Aussa feature flat-roofed coral-rag houses with carved wooden doors and shuttered windows around a Friday mosque.
-- **Afar monuments** — Graves are the durable landmarks of the Afar country: cairns and low rectangular tumuli walled in dry stone for notables.
+- **Portable house** (*ari*) — A dome of bent acacia or supple branches lashed into a hemispherical frame and sheathed in plaited palm-leaf panels, with a low door and smoke gap; belongs to the woman, who builds, owns, and dismantles it.
+- **Sedentary house** (*dabooyta*) — Larger and rectangular in plan with a ridged or flattened roof over a posted wooden frame, clad in mats; used at permanent settlements and dry-season bases along the Awash.
+- **Camp enclosure** — Thorn-branch enclosures ring or flank camps, protecting goats, sheep and camel calves grouped loosely by household and clan.
+- **Coastal courtyard house** — Arabian-influenced coral-rag and lime-plastered houses used by Afar elites in sultanate towns like Tadjoura and Rahaito.
 
 ### Ceramics, metalwork & everyday objects
 
-Afar favour wood and leather over pottery; their master smiths forge the iconic curved dagger and shields.
+Wood, horn, hide and coiled fibre replace fired pottery in a mobile economy, with the jile dagger as the defining Afar object.
 
-- **Milk container** — A tall lidded wooden vessel hollowed from acacia or Cordia wood and bound with plaited leather, used to store and churn camel and goat milk.
-- **Headrest stool** (*barkuma*) — A low stool of a single piece of hardwood with a concave top and two splayed legs, used to protect the buttered hairstyle during sleep.
-- **Ceremonial dagger** (*jile or gile*) — A broad curved double-edged dagger 30–40 cm long with a pronounced belly and upturned tip, its hilt of horn, wood or ivory and scabbard of tooled or chased silver.
-- **Long straight sword** (*seif*) — A weapon worn by sultanate elite, produced by smith specialists.
-- **Hide shield** (*gaasha*) — A round shield cut from oryx or buffalo hide, sun-hardened, with a central boss and leather handgrip.
+- **Broad curved dagger** (*jile or gile*) — A broad curved double-edged dagger with a short hilt and hide-covered sheath, worn horizontally at the waist by every adult man, with blades forged by specialist smiths or imported from Harar and Yemen.
+- **Afar headrest** — A small stool-like neck-rest cut from a single block of hard wood, with an incised or chip-carved stem, protecting the buttered coiffure in sleep.
+- **Silver baton** — The primary emblem of the Sultan of Aussa, credited with magical properties.
+- **Salt currency** (*amole*) — Salt bars cut from Lake Karum that long served as currency across the region.
 
 ### Jewelry & body adornment
 
-Afar jewellery is silver, coral and amber from centuries of Red Sea trade, with amulets serving as protective talismans.
+Afar silverwork runs to heavy necklaces, bangles and earrings, much recycled from Maria Theresa thalers; Islamic amulets and henna also mark important occasions.
 
-- **Amulet** (*hijaab or khataba*) — A small cylindrical or rectangular silver or leather case holding folded paper with Qur'anic verses or protective text, worn at the neck, upper arm or in infants' hair.
-- **Silver ornaments** — Heavy hoop earrings, torque necklaces interspersed with coral and Maria Theresa thalers, and stacks of thin bangles at wrist and ankle.
-- **Nose stud** — A small silver stud worn in the left nostril by married women.
-- **Bridal amulets** — A matched pair of larger amulet boxes flanking a central pendant worn as a standard bridal form.
-- **Henna** (*hinna*) — Applied to the bride's hands and feet, and in some communities in a broad band across the forehead.
+- **Silver ornaments** — Heavy necklaces, torques, bangles, anklets, hoop and pendant earrings, and forehead and temple chains worn by brides, much recycled from Maria Theresa thalers.
+- **Islamic amulet** — A cylindrical, rectangular or trapezoidal silver or leather case holding a Qur'anic verse or healer's text, hung at the neck, upper arm or on a child's cord against the eye.
+- **Beadwork** — Imported glass, amber, carnelian and cowrie decorating women's head cloths, belts and milk-vessel straps.
+- **Henna** — Applied to hands and feet for weddings and Eid.
+- **Male hairdressing** — Dressing the hair with ghee, comb and headrest is itself a form of adornment.
 
 ## Music & performance
 
-Afar music is vocal and drum-driven, tied to pastoral labour and life passages, with praise poetry as the highest prestige form.
+Afar performance is overwhelmingly vocal, centred on battle songs sung solo or antiphonally and accompanied by body percussion rather than instruments.
 
-- **Camel-driving song** (*keeke*) — Sung by young men driving camels to and from water.
-- **Praise poem** (*ginnili*) — Long poems performed by respected elders and clan poets, comparable to the Somali gabayaa, preserving clan history and memory.
-- **Lament** (*saare*) — A song genre expressing grief and loss.
-- **Wedding song** (*malabo*) — Collective clapping and hand-drumming songs performed by women at weddings and after childbirth.
-- **Poetic contest** — Two ginnili answer each other in extempore verse before an audience that judges wit and metrical mastery, the highest prestige performance.
+- **Battle song** — An extensive repertoire sung solo or antiphonally by a leader and responding group, directed at named clans, raids and dead.
+- **Poet-warrior** (*ginnili*) — A figure who combines warrior, diviner and poet, whose verse carries both prophecy and the record of clan events.
+- **Ululation** (*ilillil*) — A type of trilling that frames every celebration.
+- **Work and herding songs** — Camel and herding songs sung on the move and at the well, milking and grinding songs belonging to women, and songs for cutting and loading salt.
+- **Sufi chanting** (*dhikr*) — Drum and chanted litany used in Qadiriyya order sessions at saints' tombs and on the Prophet's birthday.
 
 ## Dance & theatre
 
-Afar dance is participatory rather than theatrical, with stamping lines and solo performances at weddings and gatherings.
+Afar dance is participatory and occasional, performed at weddings and celebrations in lines with solo male breaks displaying martial prowess.
 
-- **Wedding dance** (*malabo*) — Two lines face each other and advance and retreat in a stamping, shoulder-jerking pattern with soloists leaping forward to shake their heads and brandish the jile.
-- **Warrior dance** — Performed at the return of a raiding party or reception of guests, featuring the drawn dagger and hide shield brought together in mock parry.
-- **Women's line dance** — Wedding dances involving ululation, synchronised hip movement and the passing of a lit incense burner along the row.
-- **Solo courtship dance** — Improvised solo dancing during evening camp gatherings accompanied by clapping and a single drum, where young men and women measure each other's poise.
+- **Line dance** — Men and women in facing lines advancing and retiring to clapped and sung rhythm, with solo breaks in which a man leaps on the spot, brandishing the jile or spear and shield.
+- **Women's dance** — Emphasises shoulder and neck articulation, footwork kept small, and the sound of massed silver anklets and bracelets.
+- **Ball game** (*kwosso*) — An Afar ball game played between clans or age-groups with a ball of rolled hide, functioning as a festival contest for inter-clan rivalry without bloodshed.
 
 ## Festivals & rituals
 
-Afar observe Islamic holy days and life-cycle rites, with older pastoral rain-calling ceremonies and clan assemblies.
+The Afar calendar is Islamic with Ramadan, Eid, and Mawlid, alongside pre-Islamic rain sacrifices and folk healing.
 
-- **Eid al-Adha** (*Ciid Wayn*) — A principal festival marked by congregational prayer, the slaughter of a goat or camel, and reciprocal visits between camps.
-- **Eid al-Fitr** (*Ciid Yar*) — A principal festival marked by congregational prayer, the slaughter of livestock, and reciprocal visits.
-- **Naming ceremony** (*magaqisiya*) — Held on the seventh day after birth.
-- **Circumcision and dagger ceremony** — Performed in late boyhood when the initiate receives his first jile dagger.
-- **Rain-calling ceremony** (*rooba cabsiisa*) — A seasonal pre-Islamic pastoral rite at which a black bull or ram is sacrificed and its blood poured at the base of a sacred tree.
+- **Islamic calendar observance** — Ramadan and night prayers, Eid al-Fitr and Eid al-Adha with sheep or goat slaughter, Mawlid for the Prophet's birthday.
+- **Saint pilgrimage** (*ziyara*) — Local pilgrimages to the tombs of holy men drawing Qadiriyya-affiliated congregations for chanted dhikr, feeding and blessing.
+- **Rain sacrifice** — Performed at fixed sacred locations when the rains fail, part of a pre-Islamic layer of practice.
+- **Naming ceremony** — Held about a week after birth, with the head shaved and an animal slaughtered.
+- **Circumcision and marriage** (*absuma*) — Boys' circumcision marked publicly with feasting and dance; marriage governed by absuma, a recognised claim a man holds on his maternal uncle's daughter, keeping alliance within kin.
 
 ## Foodways
 
-Afar diet centres on camel milk, meat and imported grains, with coffee and tea as required guest offerings.
+Afar foodways centre on soured camel milk carried in signature fibre containers and the pastoral economy's meat and livestock.
 
-- **Camel milk** (*caano geel*) — The staple, drunk fresh, soured, and lightly churned in the wooden milk container.
-- **Flatbread** (*gaambo*) — A thin unleavened flatbread of sorghum or wheat flour baked on a heated stone or metal plate, eaten with milk or a thin sauce.
-- **Ethiopian pancake** (*injera*) — The fermented teff pancake of the highlands, adopted where trade permits.
-- **Coffee preparation** (*qishr*) — Coffee taken as a decoction of the husks rather than the roasted bean, prepared as a required offering to any guest.
-- **Rock salt** (*amole*) — Salt from the Danakil pans, once the currency of caravan trade, remains a staple seasoning and prestige gift.
+- **Soured camel milk** — Carried in coiled or plaited fibre containers waterproofed with fat or resin, fumigated inside with aromatic wood to sterilise and flavour it.
 
 ## Oral tradition & literature
 
-Afar tradition is overwhelmingly oral and poetic, with ginnili poets carrying genealogies, histories and didactic verse.
+The most distinctive Afar oral institution is dagu, an obligatory exchange of news functioning as a desert-wide intelligence system.
 
-- **Genealogy** (*ablis*) — Carried by ginnili poets to preserve family and clan lineages.
-- **Praise and historical poetry** (*ginnili*) — Long poems recounting histories of the sultanates of Adal, Aussa and Tadjoura, elegies for fallen warriors, and didactic poems on customary law.
-- **Invective verse** (*hija*) — Pointed verse used to shame an opponent in a clan dispute.
-- **Folktale characters** — Include the trickster hyena, the wise camel, and culture-hero ancestors from whom the major clan confederations trace descent.
-- **Latin orthography** (*Qafar Feera*) — An adapted Latin writing system devised in the 1970s to write Qafar af, enabling a modest modern written literature.
+- **News exchange** (*dagu*) — An obligatory exchange between Afar who meet on the road or arrive at camp, covering rain, grazing, water, movements of people and stock, deaths, marriages and conflicts in a set order.
+- **Clan genealogies** — Recited to fix descent and rights.
+- **Prophetic and commemorative verse** — Composed by the ginnili.
+- **Evening tales** — Riddles told in the evening and animal and trickster tales studied comparatively with Saho, Somali and Beja material.
+- **Modern written literature** — Afar was standardised in Latin script in the 1970s; since then schoolbooks, newspapers, radio, dictionaries and oral-text collections have created a small modern Afar literary output.
 
 ## Language & religion
 
-Qafar af is a tonal Lowland East Cushitic language; nearly all Afar are Sunni Muslims with strong Sufi traditions.
+Afar is an East Cushitic language written in Latin script; the Afar are Sunni Muslim of the Shafi'i school, with religious life frankly syncretic.
 
-- **Qafar language** (*Qafar af*) — A Lowland East Cushitic language related to Saho, using a rich system of case-marked nouns and written in Arabic, Ethiopic fidel, or Latin script.
-- **Islamic school** (*Shafi'i*) — The school of Sunni Islam followed by nearly all Afar, adopted gradually from coastal ports between the ninth and thirteenth centuries.
-- **Sufi brotherhood** (*Qadiriyya*) — A major tariqaa (Sufi order) with strong affiliation among the Afar.
-- **Saint tomb** (*sheekh*) — Tombs of local saints are places of pilgrimage in Afar sacred geography.
-- **Diviner** (*ginili*) — A specialist distinct from the poet ginnili, practicing divination as a pre-Islamic survival.
+- **Afar language** (*Qafár af*) — An East Cushitic language forming the Saho–Afar dialect cluster, written in Latin orthography used in Ethiopia, Djibouti and Eritrea.
+- **Islamic school** — The Afar are Sunni Muslim of the Shafi'i school, converted largely by the thirteenth century.
+- **Sufi order** (*Qadiriyya*) — The most widespread order among the Afar, organising part of religious and social life.
+- **Social classes** (*asaimara and adoimara*) — The asaimara or reds are politically dominant; the adoimara or whites are a working stratum associated with the Mabla Mountains.
+- **Customary law** (*mada'a*) — Afar law under which elders settle disputes over blood, water, grazing and stock through compensation payments.
 
 ## Glossary
 
-- *Qafar af* — Afar language, Lowland East Cushitic branch of Afroasiatic
-- *jile or gile* — Crescent-bladed dagger worn by adult men
-- *bura or daboyta* — Palm-fibre sleeping and screening mat with geometric patterns
-- *ari or aris* — Portable domed hut of saplings and palm mats
-- *burra* — Nomadic encampment of ari dwellings, usually enclosed by thorn fence
-- *sanafil* — Man's wrap of undyed cotton around the waist
-- *shash or sabota* — Woman's longer wrap covering breast to ankle
-- *gaasha* — Round hide shield with central boss
-- *seif* — Long straight sword of sultanate elite
-- *barkuma* — Carved wooden headrest stool used by men
-- *hijaab or khataba* — Small amulet case holding protective or Qur'anic text
-- *caano geel* — Camel milk, the staple food
-- *ginnili* — Long praise poem or clan poet
-- *gaambo* — Thin unleavened flatbread, or a lidded food basket
-- *qishr* — Coffee prepared from husks rather than beans
-- *amole* — Rock salt mined from Lake Assale
-- *malabo* — Wedding dance or women's collective clapping songs
-- *keeke* — Work song sung by young men herding camels
-- *saare* — Lament or grief song
-- *Qafar Feera* — Latin-based orthography for writing Qafar af, devised in the 1970s
-- *sheekh* — Saint or holy figure, often honored at tomb shrines
-- *Shafi'i* — School of Sunni Islamic law followed by Afar
+- *fiddima* — Plaited doum-palm-leaf matting
+- *sanafil* — Plain-woven cotton cloth
+- *jile or gile* — Broad curved double-edged dagger
+- *ari* — Portable hemispherical house
+- *dabooyta* — Larger rectangular sedentary house
+- *shash* — Woman's head cloth
+- *amole* — Salt bars used as currency
+- *ginnili* — Poet-warrior-diviner figure
+- *ilillil* — Ululation or trilling
+- *dhikr* — Sufi chanted litany
+- *kwosso* — Afar ball game played between clans
+- *ziyara* — Pilgrimage to a holy man's tomb
+- *dagu* — Obligatory news exchange
+- *absuma* — Recognised claim on maternal uncle's daughter
+- *mada'a* — Afar customary law
+- *asaimara* — Politically dominant reds
+- *adoimara* — Working whites stratum
+- *Qafár af* — Afar language
+- *Qadiriyya* — Widespread Sufi order
+- *Shafi'i* — School of Sunni Islam
 
 ## Sources & further reading
 
-- Wikipedia: "Afar people", "Afar language", "Afar Region", "Sultanate of Aussa", "Sultanate of Adal", "Danakil Depression", "Jile (dagger)".
-- Didier Morin, Dictionnaire historique afar (1288–1982) (Karthala, 2004).
-- I. M. Lewis, Peoples of the Horn of Africa: Somali, Afar and Saho (International African Institute, 1955; reprinted Red Sea Press).
-- Richard Wilding, The Shorefolk: Aspects of the Early Development of Swahili Communities — for the Red Sea coastal context of Tadjoura and Obock.
-- Kevin O'Mahoney, "The Salt Trail" (Journal of Ethiopian Studies), on the Danakil salt caravans.
-- UNESCO ICH: no Afar-specific inscription to date; the wider Horn pastoralist context is partly covered by inscriptions on Gada (Oromo) and on coffee traditions.
-- Jean Doresse, Histoire sommaire de la Corne orientale de l'Afrique (Geuthner, 1971), for the Adal and Aussa sultanate background.
-- Didier Morin, Poésie traditionnelle des Afars (Peeters, 1997), the standard collection of ginnili verse in Qafar af with French translation.
+- I. M. Lewis, Peoples of the Horn of Africa: Somali, Afar and Saho (International African Institute / Haan, 1955; rev. 1998)
+- Didier Morin, "Des paroles douces comme la soie": introduction aux contes dans l'aire couchitique (bedja, afar saho, somali) (Peeters, 1995), and Dictionnaire historique afar (1288–1982) (Karthala, 2004)
+- Jean-Baptiste Jeangène Vilmer and Franck Gouery, Les Afars d'Éthiopie: dans l'enfer du Danakil (Non Lieu, 2011)
+- Kassa Negussie Getachew, Among the Pastoral Afar in Ethiopia: Tradition, Continuity and Socio-economic Change (International Books / OSSREA, 2001)
+- Wilfred Thesiger, The Danakil Diary: Journeys through Abyssinia, 1930–34 (HarperCollins, 1996); L. M. Nesbitt, Desert and Forest: The Exploration of Abyssinian Danakil (Cape, 1934)
+- J. Spencer Trimingham, Islam in Ethiopia (Oxford University Press, 1952)
+- https://en.wikipedia.org/wiki/Afar_people
+- https://ich.unesco.org/en/state/djibouti-DJ
+- https://ich.unesco.org/en/state/eritrea-ER
+- https://folkways.si.edu/search?query=Djibouti
+- https://www.britishmuseum.org/collection/search?keyword=Afar
+- https://collections.vam.ac.uk/search/?q=Afar
+- https://www.metmuseum.org/art/collection/search?q=Danakil
 

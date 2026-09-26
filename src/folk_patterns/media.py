@@ -148,7 +148,12 @@ def _title_matches_ethnicity(title: str, ethnicity: str) -> bool:
 WIKI_TITLE_OVERRIDES: dict[str, str] = {
     "Kinh": "Vietnamese people",             # Kinh is the endonym; Wikipedia uses "Vietnamese people"
     "Lao Isan": "Isan people",               # More specific than the token-fallback "Lao people"
+    "Kurdish (Iranian)": "Kurds in Iran",    # "Kurdish" is a disambiguation page; search found "Kurdish Canadians"
+    "Kurdish (Turkish)": "Kurds in Turkey",
 }
+
+# A diaspora article is about a community abroad, not the people at home.
+_DIASPORA_TITLE = re.compile(r"\b(Americans|Canadians|Australians|Britons|British|diaspora|in the United)\b", re.I)
 
 
 def wiki_resolve_title(ethnicity: str, country: str) -> str | None:
@@ -184,12 +189,17 @@ def wiki_resolve_title(ethnicity: str, country: str) -> str | None:
     for cand in candidates:
         r = _get(
             "https://en.wikipedia.org/w/api.php",
-            params={"action": "query", "titles": cand, "redirects": 1, "format": "json"},
+            params={"action": "query", "titles": cand, "redirects": 1, "format": "json",
+                    "prop": "pageprops", "ppprop": "disambiguation"},
             headers={"User-Agent": UA}, timeout=TIMEOUT,
         )
         r.raise_for_status()
         pages = r.json().get("query", {}).get("pages", {})
         for _, p in pages.items():
+            # A disambiguation page ("Kurdish may refer to: …") is not an article:
+            # Kurdish (Iranian) was grounded on one before this check.
+            if "disambiguation" in (p.get("pageprops") or {}):
+                continue
             if "missing" not in p and p.get("title") and _title_matches_ethnicity(p["title"], ethnicity):
                 return p["title"]
     # Fallback: full-text search restricted to article space, but only accept a
@@ -205,7 +215,7 @@ def wiki_resolve_title(ethnicity: str, country: str) -> str | None:
 
     for hit in r.json().get("query", {}).get("search", []):
         title = hit.get("title", "")
-        if _title_matches_ethnicity(title, ethnicity):
+        if _title_matches_ethnicity(title, ethnicity) and not _DIASPORA_TITLE.search(title):
             return title
     return None
 

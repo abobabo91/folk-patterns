@@ -17,7 +17,7 @@
     "country": "Cambodia",
     "ethnicity": "Khmer",
     "tradition": "Angkor Wat",
-    "art_form": "architectural",
+    "art_form": "sculpture",
     "pattern_density": 2,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
@@ -25,7 +25,8 @@
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "archaeological",
-    "art_form_vision": "architectural"
+    "art_form_vision": "sculpture",
+    "art_form_recheck": "architectural->sculpture: This shows a carved apsara relief figure taken directly from the wall of Angkor Wat, a Khmer temple in Cambodia, matching both the claimed ethnicity and location."
   },
   "physical": {
     "title": "0f-Ankor Wat (NgnL)-06260.jpg",

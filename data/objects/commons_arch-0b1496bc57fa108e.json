@@ -17,7 +17,7 @@
     "country": "Turkey",
     "ethnicity": "Turkish",
     "tradition": "Ottoman architecture",
-    "art_form": "architectural",
+    "art_form": "painting-mss",
     "pattern_density": 0,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
@@ -25,7 +25,8 @@
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
-    "art_form_vision": "architectural"
+    "art_form_vision": "painting-mss",
+    "art_form_recheck": "architectural->painting-mss: This is an Ottoman miniature painting depicting the Büyük Valide Han building in Istanbul with figures in Ottoman dress, clearly Ottoman Turkish artistic and architectural tradition."
   },
   "physical": {
     "title": "Büyük Valide Inn.jpg",

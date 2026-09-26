@@ -8,161 +8,168 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Yoruba, children of Oduduwa |
-| Where | Southwestern Nigeria and parts of Benin and Togo |
-| How many | 45–55 million |
-| Language | Yorùbá, a tonal language of the Niger-Congo family |
-| Religion | Indigenous òrìṣà worship, Islam, and Christianity, often overlapping |
-| Known for | Beaded crowns and indigo resist cloth · Talking drums that speak proverbs · Ifá divination system · Gẹ̀lẹ̀dẹ́ masquerade · Naturalistic Ile-Ife bronze and terracotta sculpture |
+| Who | The Yoruba people |
+| Where | Southwestern Nigeria, Benin, and Togo |
+| How many | More than 50 million in Africa |
+| Language | Yoruba (Edekiri branch of Yoruboid) |
+| Religion | Islam, Christianity, and òrìṣà veneration |
+| Known for | Brass and terracotta sculpture from Ile-Ife · Indigo-resist adire cloth · Talking drums and praise-poetry · Masquerade theatre · Urban walled cities |
 
 ## Overview
 
-The Yoruba are one of Africa's largest ethnic groups, with a civilization built around sacred city-states led by crowned rulers. Their culture is organized around a pantheon of òrìṣà spirits, expressed through sophisticated arts of cloth, metal, wood carving, and music. The tonal Yoruba language flows directly into music and divination, making sound inseparable from meaning. Through the slave trade, Yoruba culture seeded major religions in the Caribbean and Brazil.
+The Yoruba are one of Africa's largest ethnic groups, with over 50 million speakers across West Africa. Historically among Africa's most urban peoples, they built walled concentric cities centered on an Ọba's palace and king's market. Their exceptional craft guilds produced naturalistic brass and terracotta heads ranked among world sculpture's technical high points. Yoruba culture carried across the Atlantic, seeding Santería, Candomblé, Umbanda and Trinidad Orisha.
 
 ## Material culture
 
-Yoruba material culture centers on handmade textiles, beaded regalia, carved wood and cast metal, each piece marked by naturalism, geometric pattern, and spiritual purpose.
+Yoruba material culture is marked by elaborate textile techniques, carved architectural elements, and ritual metalwork reflecting rank and spiritual authority.
 
 ### Textile & pattern traditions
 
-Handwoven narrow-strip cloth and indigo resist are the foundation of Yoruba dress and status.
+Indigo and narrow-strip weaving define Yoruba cloth, from women's resist-dyed adire to men's prestige aso oke gowns.
 
-- **Cloth of the top country** (*aṣọ òkè*) — Prestige narrow-strip weave of handspun cotton and silk sewn into wrappers and gowns, graded by fiber type—natural beige silk, magenta cochineal-dyed, or indigo-and-white pinstripe for chieftaincy.
-- **Indigo resist cloth** (*àdìrẹ*) — Women's cloth made by hand-painting cassava paste or tying-and-stitching before indigo-vat dipping, with named patterns like Olókun (sea goddess) and Ìbàdàn dùn (Ibadan is sweet) that carry proverbs and city loyalties.
-- **Ijebu itagbe** (*itagbe*) — Dark blue cloth patterned with white weft-float figures (crocodiles, birds, staffs) worn as regalia by the Ogboni society and as prestige wrappers.
-- **Kìjìpa** — Coarser handwoven cotton for everyday wrappers and historically as ground cloth for indigo resist patterns.
+- **Adire cloth** (*adire*) — Indigo-resist cloth made by Egba and Ijebu women, using three techniques: raffia-tied resist (oniko), needle-stitched resist (alabere), and cassava-starch freehand painting (eleko) that distinguishes Yoruba work from neighboring peoples' tied-and-dyed cloths.
+- **Narrow-strip cloth** (*aso oke*) — Cloth woven by men on double-heddle horizontal treadle looms in three grades: sanyan (beige-grey wild silk), etu (dark indigo with white weft stripes), and alaari (crimson from imported magenta silk).
+- **Ijebu cloth** (*itagbe, ikale*) — Dense indigo-and-white strip cloths from the Ijebu kingdom, including fringed itagbe shoulder cloths worn as insignia by Ogboni society members.
+- **Beadwork** (*adigba*) — Glass-bead embroidery over cloth-covered cane armatures made by the adigba guild, including fringed ade crowns, ileke necklaces, and beaded staffs.
 
 ### Clothing & dress
 
-Men wear embroidered flowing gowns and soft caps; women wear wrapped skirts, matching blouses, and sculptural head-ties; rulers wear beaded crowns with face-veiling fringe.
+Men wear flowing agbada gowns of aso oke strips with fila caps; women wear iro wrappers with gele head-ties and ipele shoulder sashes, with rank marked by cloth grade and coral beads.
 
-- **Agbádá** — Three-piece men's outfit of flowing embroidered outer gown over tunic and drawstring trousers, worn with a soft folded or cylindrical cap.
-- **Head-tie** (*gèlè*) — Sculptured head-tie tied into elaborate architectural forms from stiff aṣọ òkè or damask for weddings and church.
-- **Beaded crown** (*adé*) — Great conical beaded crown worn by chiefs and ọbas with a fringe of beads (ìboju) veiling the face, the veil being sacred because the ọba's gaze is too potent for direct sight.
-- **Family cloth** (*aṣọ ẹbí*) — Coordinated cloth worn by kin and friends in a single announced fabric to mark an event, a defining Yoruba social practice.
+- **Men's gown** (*agbada*) — A wide-sleeved flowing gown made from four to eight aso oke strips worn over a long-sleeved shirt (buba) and drawstring trousers (sokoto), with formality read from cloth grade.
+- **Men's cap** (*fila*) — The crushable fila abeti-aja (dog-ear cap) or cylindrical gobi are standard forms worn with the agbada.
+- **Women's wrapper** (*iro*) — A wrapper worn with a matching buba blouse, gele head-tie, and ipele or iborun shoulder sash, with market women and titled elders layering additional wrappers to display wealth.
+- **Royal regalia** (*ade*) — The Ọba wears the beaded ade crown with a veil of bead fringes, beaded slippers, and a beaded fly-whisk or staff.
+- **Masquerade cloth** (*egungun*) — Stacked appliqué panels of imported and local cloth worn by egungun performers that fly outward as the wearer spins.
 
 ### Architecture
 
-Yoruba towns radiate from central palace and market, with compounds of mud-wall rooms around interior courtyards and signature carved veranda posts.
+The Yoruba compound is a rectangular courtyard house with mud walls, thatch roofs, and carved hardwood posts; the Ọba's palace expands this plan to dozens of courtyards at the town's centre.
 
-- **Compound** (*agbo ilé*) — Rectangular multi-family compound of mud-wall rooms opening onto a single interior courtyard (àkodì) that catches rain and light, roofed in thatch or corrugated iron.
-- **Veranda posts (ọ̀pó)** (*ọ̀pó*) — Carved hardwood posts supporting palace and shrine verandas, one of Africa's great sculpture genres, worked by masters like Olowe of Ise with superimposed equestrian and maternity figures.
-- **Palace door (ìlẹ̀kùn)** (*ìlẹ̀kùn*) — Carved low-relief palace and Ogboni-house doors with narrative panels of processions, battle and sacrifice.
-- **Osun-Osogbo Sacred Grove** (*Osun-Osogbo*) — Sacred grove replanted and rebuilt from the 1950s onward in monumental cement sculpture, now on the UNESCO World Heritage List.
+- **Compound** (*agbo ile*) — A rectangular courtyard house with ranges of puddled mud rooms roofed with thatch and later corrugated iron, enclosing ile-ita courtyards for cooking and lineage gatherings.
+- **Carved posts** (*opo*) — Signature Yoruba architectural sculptures bearing equestrian figures, mounted warriors, kneeling mothers with children, and caryatid forms produced by Ekiti and Ìgbómìnà carving schools.
+- **Palace** (*aafin*) — The Ọba's residence is the compound plan expanded to dozens of courtyards at town centre facing the king's market, with carved doors in horizontal registers of figural relief.
+- **Earthwork** (*iyàrà, Sungbo's Eredo*) — Defensive moats and trenches ringed the Ife Empire and Ijebu kingdom; Ọyọ-Ilé's outer wall was reported at over twenty feet with ten gates.
 
 ### Ceramics, metalwork & everyday objects
 
-Ile-Ife cast bronzes and terracottas, Owo ivory carving, and carved ritual objects are the signature Yoruba metals and ceramics.
+Ile-Ife's lost-wax bronze-casting and terracotta heads rank among world sculpture's technical high points, while ritual and household ceramics serve specific ceremonial and daily functions.
 
-- **Ile-Ife heads** (*Ile-Ife ẹṛa*) — Naturalistic brass, copper-alloy and terracotta heads made by lost-wax casting between roughly the twelfth and fifteenth centuries, thin-walled and finished with fine parallel striations.
-- **Ogboni staff** (*edan Ògbóni*) — Paired brass male-and-female staff linked by a chain, carried by Ogboni society elders and driven point-first into the earth in judgement.
-- **Divination tray** (*ọpọ́n Ifá*) — Carved wooden divination tray with raised border carrying figurative registers (Èṣù face, birds, kolanuts) around a central dusted field where the oracle is cast.
-- **Twin figures** (*ère ìbejì*) — Small carved wooden statuettes commissioned when a twin dies, then fed, washed and clothed by the mother, the single largest genre of Yoruba sculpture in world collections.
-- **Shango staff** (*oṣé Ṣàngó*) — Wand or dance staff surmounted by a double-headed axe representing the thunder-stones the god casts to earth, carried by Ṣàngó devotees.
+- **Bronze casting** (*Obalufon II*) — Ile-Ife's bronze-casters worked the lost-wax process to naturalism unmatched in sub-Saharan Africa, credited to Obalufon II, venerated as patron òrìṣà of brass-casting, weaving and regalia.
+- **Ife terracotta** — Heads and figures in fired clay sharing the portrait sensibility of bronze work, recorded in fine detail.
+- **Soapstone figures** (*Esie soapstone*) — Over a thousand seated stone figures of unknown attribution found in Kwara State, puzzling in purpose and origin.
+- **Divination tray** (*opon Ifa*) — Carved with a face of Eshu at the top edge and a border of figural registers, tapped with an ivory iroke to keep time during divination.
+- **Ogboni emblems** (*edan*) — Paired male-and-female brass staff figures joined by a chain, emblems of the earth-cult society worn at the chest.
 
 ### Jewelry & body adornment
 
-Beadwork is the pre-eminent Yoruba luxury art, with glass beads threaded and appliquéd to make crowns, necklaces and ritual costumes in color-coded designs for each òrìṣà.
+Glass and coral beads carry rank; facial scarification in lineage-specific patterns identifies origin; women's hair is braided into named coiffures and ibeji twin figures are dressed and adorned as bodies.
 
-- **Bead strand** (*ìlẹ̀kẹ̀*) — Neck-strand of glass beads, color-coded to each òrìṣà priesthood—white for Ọbàtálá, red-and-white for Ṣàngó, amber-yellow for Ọ̀ṣun, blue-and-clear for Yemọja, red-and-black for Èṣù.
-- **Waist beads** (*bèbè ìdí*) — Beads worn under the wrapper as an intimate marker of femininity and historically of reproductive stage.
-- **Facial scarification** (*ìlà*) — Sets of vertical or horizontal cheek marks such as the three pélé of Oyo or àbàjà of Egba that until the mid-twentieth century identified lineage and town of origin.
+- **Rank beads** (*ileke*) — Red coral iyun and blue glass segi beads worn at neck, wrist and waist, with waist-beads a women's intimate adornment and royal prerogatives marked by red coral.
+- **Facial scarification** (*ila*) — Lineage- and town-specific sets of vertical or horizontal cheek cuts including abaja, pele, keke, and gombo patterns that identified origin.
+- **Diviner's beads** (*ide Ifa, ileke Ifa*) — Diviners wear a wrist-band (ide Ifa) and alternating green and brown Orunmila beads (ileke Ifa).
+- **Hair coiffures** (*suku, kolese*) — Women's braided hairstyles including suku (gathered into a crest), kolese (cornrows to the nape), ipako-elede, and koroba, recorded in detail by terracotta and bronze heads.
+- **Twin figures** (*ibeji*) — Carved figures washed, dressed, beaded and camwood-rubbed as bodies to honor twins and their spiritual power.
 
 ## Music & performance
 
-The talking drum literally speaks Yoruba through pitch-shifting, accompanying divination, praise-poetry and ritual, spawning twentieth-century jùjú, fújì and Afrobeat.
+Yoruba music centers on talking drums whose tonal contours reproduce the pitch patterns of language, with ensemble drumming supporting vocal genres rooted in praise-poetry and storytelling.
 
-- **Talking drum** (*dùndún*) — Hourglass pressure drum whose leather tension cords are squeezed to slide pitch and literally speak Yoruba proverbs, praise-names and divination verses.
-- **Sacred drum** (*bàtá*) — Set of three double-headed conical drums (ìyáàlù, omele abo, omele akọ) sacred to Ṣàngó, carrying his liturgy and transported across the Atlantic to become the ritual drum of Cuban Santería.
-- **Netted-gourd rattle** (*ṣẹ̀kẹ̀rẹ̀*) — Netted gourd rattle used in ensemble with drums.
-- **Single-string fiddle** (*gòjé*) — Single-string fiddle played in Yoruba music ensembles.
-- **Metal trumpet** (*kàkàkí*) — Long metal trumpet of northern Yoruba courts.
+- **Drum ensemble** (*dundun*) — Led by the hourglass tension drum iya ilu with leather tension cords squeezed under the arm to bend pitch, supported by kerikeri, gudugudu, and kanango.
+- **Sacred drums** (*bata*) — Conical two-headed drums including iya ilu bata, itotele, kudi, and omele belonging to Sango and Egungun worship, with repertoire of drummed praise-poetry of the thunder god.
+- **Praise-chant** (*oriki*) — Praise-name chains recited for persons, lineages and òrìṣà, performed by named practitioners.
+- **Hunters' chant** (*ijala*) — A chant for Ogun delivered in Ẹgbẹ Ọdẹ contexts by hunters, representing a named vocal genre with distinct performers.
+- **Popular genres** (*juju, fuji*) — From the 1920s onward, sakara, apala, juju and fuji emerged from traditional vocal genres and remain the music of Yoruba weddings, naming ceremonies and funerals.
 
 ## Dance & theatre
 
-Polyrhythmic and segmented Yoruba dance is almost always the visible half of a masquerade or spirit possession, with the gẹ̀lẹ̀dẹ́ honoring women and ancestors.
+Masquerade theatre honours ancestors and spiritual power through Gelede, Egungun, and Epa performances; Yoruba travelling theatre of the 20th century drew on these ritual aesthetics.
 
-- **Gẹ̀lẹ̀dẹ́** — Spectacle of the western Yoruba honoring the mothers (elderly women, ancestors and the goddess Ìyá Nlá), with paired male dancers in carved superstructure headdresses depicting daily and satirical scenes, inscribed on UNESCO Representative List in 2001.
-- **Ancestor masquerade** (*Egúngún*) — Fully covered dancers in stitched panels of hundreds of layered cloth strips whirl so the cloth becomes a horizontal disc, the ancestor made visible without human skin exposed.
-- **Northern ekiti masquerade** (*Ẹpa*) — Enormous helmet masks with tiered superstructure figures (mothers with children, warriors on horseback) leapt over a mound as a test of male initiates.
-- **Masque-theatre** (*aláàrìnjó*) — Travelling masque-theatre that grew into twentieth-century Yoruba folk-opera and eventually the Nigerian film industry Nollywood.
+- **Gelede masquerade** (*Gelede*) — Performed in the Ketu and Egbado west by male dancers in paired masks with superstructures carrying carved scenes of daily life, honouring awon iya wa (our mothers) and the spiritual power of elder women.
+- **Ancestor masquerade** (*Egungun*) — Masquerades embodying returning ancestors, with the paka dancer spinning so that layered cloth panels fly out and the masker's voice altered to mark him as non-human.
+- **Helmet masquerade** (*Epa*) — Masquerades of the Ekiti and Ìgbómìnà carrying massive helmet masks surmounted by equestrian or maternity groups, danced in leaping displays that prove the wearer's strength.
+- **Travelling theatre** (*Yoruba travelling theatre*) — A 20th-century professional touring opera by Hubert Ogunde, Duro Ladipo and Kola Ogunmola that took egungun aesthetics, oriki declamation and drumming into new form.
 
 ## Festivals & rituals
 
-The ritual calendar is organized around the òrìṣà, with annual festivals, rites of passage naming and marriage, and elaborate second burials that install the deceased as ancestors.
+The Yoruba year cycles through òrìṣà festivals tied to towns, with life-cycle rites marking naming, consultation of Ifa, twin birth, marriage and death.
 
-- **Ọ̀ṣun-Òṣogbo festival** (*Ọ̀ṣun-Òṣogbo*) — Annual festival in August culminating in the procession of the Arugbá (virgin votary bearing the calabash of offerings) from the palace to the sacred grove on the Oṣun river.
-- **Naming** (*ìkọmọ*) — Naming ceremony on the eighth day during which the child receives its personal name, oríkì praise-string, and tastes salt, honey, kola, palm-oil, water and dried fish as symbols of life's flavours.
-- **Bride-price ceremony** (*ìdána*) — Marriage ceremony involving bride-price exchange.
-- **Second burial** (*ìsìnkú*) — Elaborate second burial that formally installs the deceased as an egúngún ancestor.
-- **Egúngún festival** (*Egúngún*) — Festival timed to each town's own calendar that brings lineage ancestors out for several days of masquerade.
+- **Osun Osogbo** — An August festival taking the Arugba votive-calabash bearer to the sacred grove on the Osun river.
+- **Olojo festival** (*Olojo*) — At Ile-Ife, marks the day of first dawn when the Ooni wears the Are crown.
+- **Eyo festival** (*Eyo*) — In Lagos, brings out white-robed, hatted Adamu Orisa masqueraders with opambata staffs to honour a departed Ọba.
+- **Naming ceremony** (*ikomojade*) — Held on the seventh, eighth or ninth day, where the infant is touched to water, salt, palm oil, honey, kola, bitter kola and pepper, each with a spoken wish.
+- **Bride's lament** (*ekun iyawo*) — Sung as the bride leaves her father's compound after marriage proceeds through itoro, idana (bride-gifts), and ceremonial transfer.
 
 ## Foodways
 
-Starchy hand foods called swallows—pounded yam, yam-flour paste, cassava granules—are eaten with soups flavored by palm oil, locust-bean and dried fish.
+Staples are yam, cassava, maize, cocoyam and plantain pounded into stiff porridges eaten with soup by hand, with specific regional dishes and ritual food practices.
 
-- **Pounded yam** (*iyán*) — Prestige swallow made from boiled yam beaten in a wooden mortar to a smooth elastic mass.
-- **Yam or plantain paste** (*àmàlà*) — Dark yam-flour or plantain-flour paste, a signature of Ibadan and Ọyọ, eaten with soups.
-- **Leafy-greens stew** (*ẹ̀fọ́ riro*) — Thick leafy-greens stew with palm oil, ground melon seed, smoked fish, dried crayfish and locust-bean condiment.
-- **Yellow bean soup** (*gbẹ̀gìrì*) — Yellow bean soup characteristically served alongside àmàlà and pepper soup as the Ibadan trio abula.
-- **Fried bean-cake** (*àkàrà*) — Fried bean-cake eaten as street and festival food.
+- **Pounded yam** (*iyan*) — Pounded yam eaten with soup, a foundational staple eaten by hand.
+- **Yam flour swallow** (*amala*) — A dark swallow made from elubo (dried yam flour), specifically an Ọyọ–Ibadan marker, eaten with ewedu, gbegiri and obe ata.
+- **Jute mallow stew** (*ewedu*) — Jute mallow whisked with a broom-whisk ijabe to its characteristic draw, served with amala and gbegiri.
+- **Ritual nuts** (*obi, orogbo*) — Kola nut (obi) and bitter kola (orogbo) offered to guests, used in divination and in every rite of passage.
+- **Locust bean seasoning** (*iru*) — Fermented locust bean, the defining seasoning alongside smoked fish and egusi melon seed thickener in stews like efo riro.
 
 ## Oral tradition & literature
 
-Ifá divination with its 256 chapters of memorized verses is the center of Yoruba oral culture, alongside praise-poems, hunters' chants, and riddle-songs.
+Yoruba culture rests on itan—the complex of songs, histories, myths and concepts including the Odu Ifa, 256 divination chapters with verses memorised and chanted by babalawos.
 
-- **Ifá divination** (*Ifá*) — Divination system of Ọ̀rúnmìlà with 256 odù (chapters) each containing hundreds of memorized verses recited by the babaláwo (father of secrets) after casting palm nuts or divining chain, proclaimed UNESCO Masterpiece in 2005.
-- **Praise-poems** (*oríkì*) — Praise-poems attached to persons, lineages, towns and òrìṣà, chanted by women elders and professional bards.
-- **Hunters' chant** (*ìjálá*) — Hunters' chant sacred to Ògún the iron-god.
-- **Riddles** (*àlọ́ àpamọ̀*) — Moonlight riddles and animal-tale songs of children.
+- **Divination corpus** (*Odu Ifa, ese Ifa*) — 256 divination chapters each with its own body of verses (ese Ifa) which the babalawo memorises and chants to interpret the figure cast with palm nuts or divining chain.
+- **Praise-poetry** (*oriki*) — A performed genre of praise-name chains recited for persons, lineages and òrìṣà, with named practitioners demonstrating rhetorical competence.
+- **Trickster tales** (*Ijapa*) — Narrative folklore turning on Ijapa the tortoise, the trickster whose greed and cunning carry moral lessons.
+- **Proverb** (*owe*) — Proverbs mark rhetorical competence; the saying owe l'esin oro means the proverb is the horse of speech.
+- **Modern literature** (*itan*) — D. O. Fagunwa's Ogboju Ode Ninu Igbo Irunmale (1938) created a literary idiom out of hunters' tales, followed by Amos Tutuola, Wole Soyinka and Duro Ladipo drawing on the same material.
 
 ## Language & religion
 
-Yorùbá is a tonal Volta-Niger language with about forty dialects; religion is threefold—indigenous òrìṣà worship, Islam, and Christianity—with most families containing adherents of two or three strands.
+Yoruba belongs to the Edekiri group of Yoruboid (Niger–Congo), written in Latin script with tone marks; most Yoruba today are Muslim or Christian, but òrìṣà concepts remain operative.
 
-- **Supreme being** (*Olódùmarè*) — The supreme creator being in Yoruba cosmology.
-- **Sculptor of humans** (*Ọbàtálá*) — Òrìṣà who sculpts human form, associated with white beads and cloth.
-- **Iron-god** (*Ògún*) — Òrìṣà of iron, war and craft, patron of blacksmiths and hunters.
-- **Thunder-king** (*Ṣàngó*) — Òrìṣà of thunder and lightning, king of Ọyọ, associated with red-and-white beads and the double-axe wand.
-- **River-goddess** (*Ọ̀ṣun*) — Òrìṣà of the Oṣun river, goddess of love and wealth, associated with yellow-and-brass beads.
+- **Language family** (*Edekiri, Volta-Niger*) — Yoruba belongs to the Edekiri group of Yoruboid within Volta-Niger (Niger–Congo), with three dialect areas: North-West, Central, and South-East.
+- **Supreme being** (*Olodumare*) — The Yoruba concept of a supreme being, operative in òrìṣà systems alongside Islam and Christianity.
+- **Empowering force** (*ase*) — The empowering force in Yoruba spiritual thought, carried through òrìṣà mediation and ancestral veneration.
+- **Orisha deities** (*òrìṣà*) — Mediators including Obatala, Ogun, Orunmila, Osun, Eshu, Olokun, Yemoja, Osanyin, and Sango, surviving in diaspora as Santería, Candomblé, Umbanda and Trinidad Orisha.
+- **Divination practice** (*Ifa*) — Divination by Ifa, the Ogboni earth cult, and Aladura Christian churches coexist with Islam and Christianity.
 
 ## Glossary
 
-- *ọba* — crowned ruler of a city-state
-- *adé* — beaded crown with face-veiling fringe
-- *òrìṣà* — spirit or deity in the pantheon
-- *aṣọ òkè* — prestige narrow-strip woven cloth
-- *àdìrẹ* — indigo resist-dyed cloth
-- *gèlè* — sculptured head-tie
-- *agbádá* — three-piece men's flowing gown outfit
-- *aṣọ ẹbí* — coordinated family cloth worn together for events
-- *agbo ilé* — multi-family compound around a central courtyard
-- *dùndún* — talking drum that speaks through pitch-shifting
-- *bàtá* — sacred three-drum set dedicated to Ṣàngó
-- *gẹ̀lẹ̀dẹ́* — masquerade honoring mothers and ancestors
-- *Egúngún* — masked ancestor embodies the collective dead
-- *Ifá* — divination system with 256 chapters of verses
-- *babaláwo* — father of secrets, Ifá diviner
-- *oríkì* — praise-poem attached to person or spirit
-- *ìkọmọ* — naming ceremony on eighth day
-- *ìsìnkú* — second burial installing deceased as ancestor
-- *iyán* — prestige pounded yam swallow
-- *àmàlà* — yam or plantain-flour paste swallow
-- *bèbè ìdí* — waist beads worn under the wrapper
+- *adire* — Indigo-resist cloth using starch-paste or tied-resist techniques
+- *aso oke* — Narrow-strip cloth woven by men in grades: sanyan, etu, alaari
+- *itagbe* — Fringed indigo-white cloth worn as Ogboni insignia
+- *adigba* — Bead-workers' guild making glass-bead embroidery
+- *ila* — Facial scarification in lineage-specific cheek patterns
+- *agbada* — Wide-sleeved flowing gown worn by men
+- *gele* — Women's head-tie tied high and structured for ceremony
+- *ade* — Beaded crown with veil of bead fringes worn by Ọba
+- *agbo ile* — Rectangular courtyard compound house
+- *aafin* — The Ọba's palace
+- *opon Ifa* — Divination tray carved with Eshu face and figural borders
+- *edan* — Paired brass male-female figures joined by chain, Ogboni emblem
+- *ileke* — Strands of glass or coral beads worn at neck, wrist, waist
+- *ibeji* — Twin figures dressed, beaded and camwood-rubbed as bodies
+- *iya ilu* — Hourglass tension drum that leads dundun ensemble
+- *bata* — Conical two-headed drums of Sango and Egungun worship
+- *oriki* — Praise-name chains recited for persons, lineages, òrìṣà
+- *ijala* — Hunters' chant for Ogun in Ẹgbẹ Ọdẹ contexts
+- *Gelede* — Masquerade theatre honouring elder women's spiritual power
+- *Egungun* — Masquerade embodying returning ancestors
+- *ikomojade* — Naming ceremony on seventh, eighth or ninth day
+- *amala* — Dark swallow made from elubo, yam-flour starch
+- *ewedu* — Jute mallow stew whisked to characteristic draw
+- *iru* — Fermented locust bean, defining seasoning
+- *owe* — Proverb marking rhetorical competence
 
 ## Sources & further reading
 
-- Wikipedia: Yoruba people, Yoruba language, Yoruba religion, Ile-Ife, Oyo Empire, Adire, Aso Oke, Gelede, Egungun, Ifá, Osun-Osogbo Sacred Grove, Sungbo's Eredo, Ère Ìbejì
-- UNESCO ICH Representative List: Gelede oral heritage (2001/2008); Ifá divination system (2005/2008)
-- UNESCO World Heritage List: Osun-Osogbo Sacred Grove (2005); Sungbo's Eredo (Tentative List)
-- Robert Farris Thompson, Flash of the Spirit: African and Afro-American Art and Philosophy (1983); Black Gods and Kings: Yoruba Art at UCLA (1971)
-- Henry John Drewal & Margaret Thompson Drewal, Gẹlẹdẹ: Art and Female Power among the Yoruba (1983)
-- Rowland Abiodun, Yoruba Art and Language: Seeking the African in African Art (2014)
-- William Bascom, Ifa Divination: Communication between Gods and Men in West Africa (1969); Sixteen Cowries (1980)
-- Ulli Beier, A Year of Sacred Festivals in One Yoruba Town (1959)
-- John Pemberton III & Funso S. Afolayan, Yoruba Sacred Kingship (1996)
-- Suzanne Preston Blier, Art and Risk in Ancient Yoruba: Ife History, Power, and Identity, c. 1300 (2015)
-- Ruth Nielsen, The History and Development of Wax-Printed Textiles Intended for West Africa and Zaire, in The Fabrics of Culture (1979)
-- Judith Byfield, The Bluest Hands: A Social and Economic History of Women Dyers in Abeokuta, 1890–1940 (2002)
-- Karin Barber, I Could Speak Until Tomorrow: Oríkì, Women and the Past in a Yoruba Town (1991)
+- Rowland Abiodun, Yoruba Art and Language: Seeking the African in African Art, Cambridge University Press, 2014
+- Henry John Drewal and Margaret Thompson Drewal, Gelede: Art and Female Power among the Yoruba, Indiana University Press, 1983
+- Henry John Drewal, John Pemberton III and Rowland Abiodun, Yoruba: Nine Centuries of African Art and Thought, Center for African Art / Harry N. Abrams, 1989
+- Robert Farris Thompson, Black Gods and Kings: Yoruba Art at UCLA, University of California Press, 1971
+- John Picton and John Mack, African Textiles, British Museum Press, 1989 (adire and aso oke technique)
+- Suzanne Preston Blier and Suzanne Wenger's Osogbo grove documentation; Karin Barber on oriki (I Could Speak Until Tomorrow, Edinburgh University Press, 1991); Wande Abimbola on the Ifa corpus
+- https://en.wikipedia.org/wiki/Yoruba_people
+- https://folkways.si.edu/search?query=Yoruba
+- https://www.britishmuseum.org/collection — search "Ethnic group: Yoruba"
+- https://www.metmuseum.org/art/collection/search?q=Yoruba
+- https://collections.vam.ac.uk/search/?q=adire
+- https://www.rijksmuseum.nl/en/collection
 

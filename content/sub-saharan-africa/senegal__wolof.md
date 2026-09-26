@@ -8,163 +8,170 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Wolof, the largest ethnic group in Senegal |
-| Where | Coastal plain of Senegal, Gambia, southern Mauritania, with diaspora in France, Italy, Spain, and the United States |
-| How many | Seven to nine million Wolof proper; tens of millions more speak the language |
-| Language | Wolof, an Atlantic language of the Niger-Congo family; lingua franca of Senegal |
-| Religion | Sunni Muslim, Maliki school, organized around Sufi brotherhoods (Tijaniyya, Mouridiyya, Qadiriyya, Layene) |
-| Known for | Flowing boubou robes with indigo and embroidery · Filigree goldsmithing and jewelry · Sabar drum ensembles and mbalax popular music · Reverse-glass painting (sous-verre) · Ceebu jën, the national rice and fish dish |
+| Who | The Wolof, a Senegambian people of the West Atlantic branch |
+| Where | Northwestern Senegal, northwestern Gambia, and coastal Mauritania |
+| How many | Over six million across the three countries; roughly 39.7 percent of Senegal |
+| Language | Wolof, unusually non-tonal, functions as Senegal's lingua franca |
+| Religion | Virtually all Sunni Muslims of the Mālikī school, organized into Sufi brotherhoods |
+| Known for | Heirs to the Jolof Empire's caste-based craft economy with hereditary occupations · Sabar drumming and the dense interlocking bàkk rhythmic phrases · Sous-verre glass painting, a Wolof urban art since the 1930s · The couture boubou, the great flowing embroidered robe · Wolof goldsmithing with filigree worked in drawn gold wire |
 
 ## Overview
 
-The Wolof are a West African people of the Senegambian coast whose identity formed around the medieval Jolof Empire and its successor states. They are known as master tailors, goldsmiths, and griots — praise-singers and historians. Their society is organized into nobles, casted artisans, and dependants, and Sufi Islam organized around spiritual brotherhoods forms the center of contemporary life.
+The Wolof are the largest ethnic group in Senegal, concentrated in northwestern regions that were once the old kingdom lands of Waalo, Kajoor, Bawol, Jolof, Saloum and Dimar. They inherit a rich caste-based craft tradition from the Jolof Empire, in which smithing, weaving, leatherwork and gold jewelry were hereditary occupations. In the twentieth century, Wolof artists in Dakar created sabar drumming, sous-verre glass painting, and the embroidered boubou, which now stand for Senegalese culture at large. Wolof religious life is organized around two main Sufi brotherhoods, the Mouridiyya and the Tijāniyya.
 
 ## Material culture
 
-Wolof material culture is shaped by the indigo and embroidery of textiles, the filigree of gold, and the fusion of local craft traditions with Islamic and colonial influences.
+Wolof material culture centers on textiles, goldsmithing, and drums, rooted in a hereditary caste system where smiths, weavers, leatherworkers and potters held distinct social ranks.
 
 ### Textile & pattern traditions
 
-Indigo dyeing, embroidery, and the imported damask bazin riche define Wolof cloth and pattern.
+Wolof textiles range from narrow-strip woven cloth to indigo-dyed fabric with a hard metallic sheen, twentieth-century batik, embroidered robes, and reverse paintings on glass.
 
-- **Indigo-dyed cloth** (*gara, sër u nit ku ñuul*) — Deep blue-black cloth made by resist-dyeing locally woven or imported cotton in fermented indigo vats, with stitch-resist, tie-resist, and stencilled techniques used for wrappers and men's boubous.
-- **Strip-woven cloth** (*sër u ràbb*) — Narrow warp-faced bands woven by men on a horizontal loom and sewn edge-to-edge into wrappers and blankets, with the finest pieces featuring weft-float geometric patterning for weddings and naming ceremonies.
-- **Bazin riche damask** (*bazin riche*) — Heavily starched and beetled imported cotton damask dyed, stitched and calendered locally to a mirror-bright finish, used for formal dress.
-- **Embroidery on boubous** (*broderie*) — Dense chain-stitch and couched-cord embellishment in silk or rayon thread on the neck, chest, and cuffs of the grand boubou, the signature decorative surface of Senegalese formal dress.
-- **Batik cloth** (*teinture*) — Twentieth-century adaptation using wax and chemical dyes, worked by women's cooperatives in Dakar, Thiès, and Rufisque, combining wax-resist blocks with tie-dye rosettes.
+- **Narrow-strip cloth** (*sër, ndëkët, pagne tissé*) — Woven by men of the weaver caste on a double-heddle horizontal treadle loom in strips 10–20 cm wide, cut and edge-sewn into wrappers and blankets with bold weft-face bands in indigo, white and red.
+- **Indigo-dyed cloth** (*gara*) — Dyed by women using fermented indigo vats and stitch- or raffia-resist, then pounded with wooden mallets and dressed with gum arabic to a hard, near-metallic sheen.
+- **Batik and wax-resist pagnes** (*batik*) — A twentieth-century Dakar and Saint-Louis workshop industry using hot-wax resist and chemical dyes on factory cotton, favoring large-scale calligraphic and figurative panels such as marabout portraits, fish, and hands.
+- **The great flowing robe** (*boubou, mbubb, ndoket*) — Cut from strip-cloth or imported damask, the boubou carries dense machine or hand embroidery in silk floss on the neck opening, chest panel and hems, worked in interlace and arabesque registers.
+- **Reverse painting on window glass** (*sous-verre*) — A Wolof urban art since the 1930s, descended from imported Mecca pilgrimage prints, depicting Mouride and Tijānī marabouts, market women, wrestlers and taxis, with figures outlined first and ground filled last.
 
 ### Clothing & dress
 
-The boubou robe, paired with turbans, wrappers, and elaborate headties, is the signature garment across all ceremonies and formal occasions.
+Men wear the wide-sleeved boubou with drawstring trousers and a long undershirt; women wrap the pagne at the waist, add a matching bodice and headwrap, and top it with the vast embroidered boubou for ceremonies.
 
-- **Grand boubou** (*mbubb (Wolof), boubou (French)*) — A wide unfitted robe cut from a single width of cloth with a boat neckline and large embroidered chest pocket, worn by men over matching trousers and a long tunic.
-- **Starched headtie** (*musóor*) — A towering starched cloth wound into fan and shell shapes for women at ceremonies, with names that change season by season.
-- **Henna decoration for brides** (*fudden*) — Elaborate henna applied to hands and feet as part of the bridal aesthetic.
-- **Beaded waist-string** (*bin-bin, ferr*) — Beaded strings worn under the wrapper as an intimate marker of adult femininity.
-- **Incense perfume** (*thiouraye*) — A mixture that perfumes cloth and body together as part of the formal aesthetic.
+- **Men's ensemble** (*mbubb, xaftan*) — A wide sleeveless-looking robe worn over drawstring trousers and a long undershirt; when tailored close, the ensemble is called a xaftan.
+- **Tall wound turban** (*kala*) — Worn by marabouts and Baye Fall mendicants as a badge of religious discipline.
+- **Women's wrapped ensemble** (*sër, taille-basse, musoor*) — The pagne wrapped at the waist over a chemise, with a matching bodice and headwrap tied in high architectural forms in Dakar and Saint-Louis.
+- **Waist-beads** (*bin-bin, féer*) — Strung beads in glass, amber and coral worn under clothing by women in color sequences that read as erotic and marital signals.
+- **Leather slippers** (*tëgg-made sandals, babouches*) — Worn by both sexes; embroidered babouches are part of ceremonial dress.
 
 ### Architecture
 
-Traditional rural compounds give way to creole townhouses in historic coastal towns and modernist religious architecture in Sufi cities.
+Wolof villages are built as clusters of compounds, with round or square huts of mud and millet-stalk, conical thatched roofs, and a central mosque; urban river towns have two-storey coral-stone houses with wooden galleries and courtyards.
 
-- **Traditional compound** (*kër*) — A walled or fenced enclosure of round mud-and-thatch huts arranged around a swept sand courtyard shaded by a palaver tree.
-- **Round hut** (*neeg*) — A mud-and-thatch dwelling with a conical millet-stalk roof, one per adult woman in a compound.
-- **Creole townhouse** — Two-storey coral-rubble and lime-plaster buildings with wooden shuttered galleries and interior courtyards, adopted in Saint-Louis and Gorée.
-- **Great Mosque of Touba** — The emblem of modern Sufi religious architecture: white-plastered with squared minarets and green-tiled domes.
+- **Village cluster** (*dëkk*) — A Wolof village built as clusters of compounds, sometimes scattered without a centre, more often ringed around a plaza with the mosque at its middle.
+- **Compound** (*kër*) — A compound holds several huts with walls of mud and millet-stalk armature, conical thatched roofs, and a palisade fence; one joint kitchen serves the polygynous household.
+- **Round or square hut** (*neeg*) — Built with mud and millet-stalk walls and conical thatched roofs of millet straw or grass laid over a timber ring-beam.
+- **Urban creole house** — Two-storey coral-stone and lime houses with wooden galleries, shutters and interior courtyards, built for signare households in old river towns like Saint-Louis, Gorée and Rufisque.
+- **Great Mosque with minaret** (*Lamp Fall*) — At Mouride Touba, the Great Mosque with its minaret Lamp Fall organizes a purpose-built holy city.
 
 ### Ceramics, metalwork & everyday objects
 
-Women make hand-built pottery; casted smiths craft iron, brass, and precious metals; and a distinctive reverse-glass painting tradition emerged in coastal towns.
+Pottery is made by women of the potter caste without a wheel, while smiths and leatherworkers produce forged tools, precious metalwork, and decorated amulet sheaths.
 
-- **Water jar** (*ndaa*) — A wide-mouthed pottery vessel made by women using coil-building and paddle-and-anvil techniques, fired in open bonfires.
-- **Reverse-glass painting** (*sous-verre, suweer*) — A distinctive urban folk art from Saint-Louis and Dakar: pigments applied to the back of glass in reverse sequence to create brightly colored scenes of Sufi saints, market types, and Quranic episodes.
-- **Filigree goldwork** (*filigrane, xuur*) — Twisted and granulated fine gold wire soldered into earrings, pendants, and bracelets, the principal technique of Wolof goldsmiths.
-- **Amulet case** (*téeré*) — A small square or cylindrical leather-wrapped container for holding written Quranic gris-gris or herbal preparations.
-- **Pyroengraved calabash** — A gourd bowl or drum resonator with geometric bands burned into the surface.
+- **Water jar** (*ndaa*) — Hand-built by coiling and pinching, a porous water jar whose walls cool by evaporation.
+- **Long-handled weeding blade** (*iler*) — Forged by smiths of the ñeeño castes for agricultural work.
+- **Amulet sheath** (*gris-gris, téere*) — Produced by leatherworkers, stitched envelopes containing a Qur'anic verse or magic square folded into leather.
+- **Wooden mortar and pestle** — Turned by woodworkers for pounding millet in the household.
+- **Drum shell** (*sabar, tama*) — Carved by woodworkers, these instruments are central to Wolof music and ceremony.
 
 ### Jewelry & body adornment
 
-Filigree goldsmithing in Saint-Louis and Dakar is one of West Africa's great metal traditions, complemented by beaded ornaments and protective amulets.
+Wolof goldsmithing is the signature craft, producing filigree beads and massive hoop earrings; religious amulets called gris-gris are worn by all ages and are the most widespread item of Wolof adornment.
 
-- **Filigree earrings** (*boucles*) — Openwork Saint-Louis earrings with dangling teardrop pendants, made from twisted and coiled gold wire.
-- **Filigree bangle** (*jaaro*) — A heavy filigree bracelet worn stacked on the wrist.
-- **Cathedral pendant** — A heavy hollow-worked pendant developed for nineteenth-century signare clientele and still made for weddings.
-- **Protective amulet** (*gris-gris*) — Small leather-wrapped packets containing Quranic verses or herbal preparations prescribed by a marabout, worn on necklaces and belts.
-- **Henna and eyeliner** (*fudden, xuur*) — Henna on hands and feet, and khôl eyeliner, complete the ceremonial toilette.
+- **Filigree bead** (*filigrane*) — Worked in drawn gold wire and granulation into large hollow bicone and globular beads.
+- **Crescent pendant** — A gold pendant form worked by Wolof goldsmiths using filigree technique.
+- **Hoop and pendant earring** — Massive gold earrings whose weight is carried by a cord over the head, part of ceremonial suites.
+- **Qur'anic amulet** (*gris-gris, téere*) — A Qur'anic verse or magic square folded into leather or silver, worn on the upper arm, waist or neck by men, women and children alike, prescribed by a marabout.
+- **Hennaed hands and feet** (*fudden*) — Applied by women for weddings as a mark of adornment and celebration.
 
 ## Music & performance
 
-The sabar drum ensemble, played by casted griots at neighborhood dances and celebrations, anchors the Wolof soundscape and gave rise to modern mbalax.
+Wolof music is drum music first, centered on the sabar ensemble of carved goatskin drums played with interlocking bàkk rhythmic phrases by hereditary griot drummers.
 
-- **Sabar ensemble** (*sabar*) — A hierarchical ensemble of goblet-shaped single-headed drums tuned by pegs, with improvised lead patterns and named rhythms like baar mbay and ceebu jën.
-- **Lead drum** (*nder*) — The tall, high-pitched drum that improvises the lead patterns in a sabar ensemble.
-- **Talking drum** (*tama*) — A small hourglass drum squeezed under the arm to bend pitch, used to accompany sung praise poetry.
-- **Plucked lute** (*xalam*) — A small lute with two to five strings, ancestral to the banjo, used in praise poetry.
-- **Mbalax popular music** (*mbalax*) — The twentieth-century fusion of sabar rhythms with Cuban son and rock instrumentation, now the mainstream popular music of Senegal.
+- **Sabar drum ensemble** (*sabar*) — A set of carved, single-headed goatskin drums—nder, mbëng-mbëng, col, talmbat, tungune, lamb—played with one bare hand and one thin stick to produce dense interlocking bàkk phrases.
+- **Talking drum** (*tama, jung-jung*) — A small tension-laced drum tucked under the arm, its pitch bent to imitate speech; the junjung belongs to royal and warrior contexts.
+- **Plucked lute** (*xalam*) — A melodic instrument that is the ancestor of the banjo.
+- **Single-string bowed fiddle** (*riti*) — A melodic instrument played alongside the xalam in Wolof ensembles.
+- **Rhythmic sung-spoken praise** (*taasu*) — Performed by griots at naming ceremonies, weddings and the wrestling arena, a direct ancestor of rap.
 
 ## Dance & theatre
 
-Sabar dance is the signature performance: women enter the ring one at a time to answer the drum with named, high-kicking steps that are competitive and flirtatious.
+Dance is inseparable from sabar drumming; women's neighborhood gatherings feature short explosive solos, and Senegalese wrestling is a full performance genre with pre-bout display and amulet-laden costume.
 
-- **Sabar dance** (*fecc*) — Explosive, high-kicking improvisational solos where dancers answer the lead drum's phrases with named steps like ventilateur and farwu jaar.
-- **Healing ceremony** (*ndëpp*) — A ritual where possession by rab spirits is induced and negotiated through rhythm and body vocabulary related to sabar dance.
-- **Wrestling** (*làmb, làmb ji*) — A hybrid sport and theatre where bouts are preceded by self-praise chants, amulet-binding, and drummer processions, with champions as cultural celebrities.
-- **Initiation masquerade** (*kankurang*) — A masked performance circulating in Wolof-Mandinka border zones, inscribed on the UNESCO Representative List of Intangible Cultural Heritage.
+- **Women's dance gathering** (*tànnebéer*) — A neighborhood gathering held in a street circle where dancers enter one at a time to answer a drummer's bàkk with short, explosive solos of leaps, thrown legs and rapid pelvic articulation.
+- **Named dance form** (*ventilateur, ceebu jën, farta*) — Choreographies that circulate and date like popular songs in Wolof dance tradition.
+- **Slow close-hipped dance** (*lëmbël*) — Performed for women at weddings.
+- **Senegalese wrestling** (*lamb*) — A full performance genre where the wrestler's pre-bout bàkk, amulet-laden costume and circling display are as watched as the fall itself.
+- **Contemporary theatre** (*kotéba*) — Popular troupes influenced by kotéba, broadcast on television, carry the satirical griot voice into scripted form.
 
 ## Festivals & rituals
 
-Life-cycle rituals — naming, circumcision, marriage, and funerals — are the armature of Wolof social time, complemented by Islamic holidays and vast Sufi pilgrimages.
+The calendar is Islamic; the year's great feasts are Korité and Tabaski, and the Màggal pilgrimage to Touba drawing millions is the defining ritual event of Wolof religious life.
 
-- **Naming ceremony** (*ngente*) — Held on the seventh day after birth: the child's head is shaved, the name whispered into its ear, a sheep sacrificed, and thiéboudienne served to the neighborhood.
-- **Circumcision ceremony** (*xaraf*) — A ritual for boys, historically a bush retreat with masked instructors, now usually a hospital procedure followed by a home celebration.
-- **Marriage ceremony** (*céet*) — A multi-stage ritual including bride-price negotiation (warugar), the religious takk at the mosque, and the public xew feast.
-- **Mouride pilgrimage** (*Màggal*) — An annual pilgrimage to Touba commemorating Cheikh Amadou Bamba's 1895 exile, drawing several million pilgrims and the largest single religious gathering in Senegal.
-- **Tijaniyya pilgrimage** (*Gàmmu*) — An annual gathering at Tivaouane marking the Prophet's birthday for the Tijaniyya brotherhood.
+- **Eid al-Fitr** (*Korité*) — One of the year's great feasts in the Islamic calendar.
+- **Eid al-Adha** (*Tabaski*) — A great feast marked by the ram slaughter that dominates household spending.
+- **Islamic New Year celebration** (*Tamxarit*) — Marked by a night of couscous with meat, cross-dressing and children's door-to-door singing called tajaboon.
+- **Mouride pilgrimage** (*Màggal of Touba*) — The Mouride pilgrimage commemorating Cheikh Amadou Bamba's 1895 exile, drawing millions to Touba on 18 Safar, the defining ritual event of Wolof religious life.
+- **Naming ceremony** (*ngénte*) — Held on the eighth day after birth, when the child's name is whispered at the ear, a ram or goat is killed, the baby's head shaved, and griots are paid to sing lineage.
 
 ## Foodways
 
-Ceebu jën, the national rice and fish dish, is joined by peanut stews, marinated fish and chicken, and ritual beverages in a shared-platter dining tradition.
+Millet was the historic staple cooked as couscous or porridge; rice took over in the twentieth century, above all as ceebu jën, the one-pot national dish of rice and fish.
 
-- **Rice and fish** (*ceebu jën*) — Broken rice cooked in tomato and néré-seasoned broth with stuffed fish, cassava, carrot, cabbage, and okra, inscribed on the UNESCO Intangible Cultural Heritage list in 2021.
-- **Marinated fish or chicken** (*yassa*) — Fish or chicken marinated in lemon, mustard, and onions.
-- **Peanut-butter stew** (*maafe*) — A rich stew built around ground peanuts.
-- **Millet couscous** (*thiéré*) — Steamed millet couscous served with baobab-leaf sauce, fermented milk, or peanut sauce.
-- **Green-tea ritual** (*ataaya*) — A three-round ceremony where green tea is poured from height to build foam and drunk in sequence from bitter to sweet.
+- **Steamed millet couscous** (*cere*) — Millet pounded in wooden mortars and steamed, a historic staple food.
+- **Millet porridge** (*laax, ruy, fondé*) — Cooked millet porridges served with soured milk and sweet baobab or peanut sauce.
+- **Rice and fish** (*ceebu jën*) — Senegal's national dish, a one-pot of broken rice cooked in a tomato-and-fish stock with stuffed white grouper, cassava, carrot, cabbage and bitter tomato, served red or white.
+- **Onion-and-lemon marinated fish** (*yassa*) — A mainstay dish made with chicken or fish.
+- **Tea ceremony** (*attaya*) — A three-round ceremony of gunpowder green tea poured foaming into small glasses with heavy sugar and mint, structures male sociability.
 
 ## Oral tradition & literature
 
-Casted griots preserve genealogy, history, and epic cycles through rhythmic praise poetry and song, while written Wolof exists in both Arabic and Latin scripts.
+Wolof oral literature is carried by the gëwël caste, whose repertoire runs from royal genealogy and the epic of the Jolof kings through folktales and the trickster hare Leuk-le-lièvre.
 
-- **Praise poetry** (*taasu*) — Rhythmic recited praise poetry, often improvised over a sabar pattern and recognized as an African ancestor of rap.
-- **Sung song** (*woy*) — Sung oral poetry in the griot repertoire.
-- **Proverb** (*léebu*) — Standard rhetorical furniture of adult conversation.
-- **Riddle** (*cakkatuy*) — Traditional riddle form used in adult conversation.
-- **Wolof literary prose** — Modern Wolof-language literature, with Boubacar Boris Diop's novel Doomi Golo (2003) as the landmark work.
+- **Foundation legend** (*Ndiadiane Ndiaye*) — The epic of the Jolof kings in which a stranger rises from a lake to settle a dispute between two villages and becomes the first Buur-ba Jolof.
+- **Praise-epics** — Named epics of Lat Dior Ngoné Latyr Diop and the queens Ndaté Yalla Mbodj and Njembot Mbodj of Waalo.
+- **Trickster hare** (*Leuk-le-lièvre*) — A central figure in the Wolof folktale corpus.
+- **Greedy dupe** (*Bouki*) — The hyena character in Wolof folktales.
+- **Step-mother tale** (*Kumba am ndeey, Kumba amul ndeey*) — The girl with a mother and the orphan girl, collected in dozens of versions in Wolof tradition.
 
 ## Language & religion
 
-Wolof is the de facto lingua franca of Senegal, and Sufi Islam organized around brotherhoods and the marabout-disciple relationship is embedded in all aspects of contemporary life.
+Wolof is unusually non-tonal and has noun-class concord; virtually all Wolof are Sunni Muslims organized into the Mouridiyya and Tijāniyya Sufi brotherhoods whose marabouts hold decisive religious and economic weight.
 
-- **Wolof language** (*Wolof*) — An Atlantic language of Niger-Congo, marked by noun-class concord, verb-focus morphology, and rich aspectual conjugations; mother tongue of 40% of Senegal and working lingua franca of 80–90%.
-- **Arabic-script Wolof** (*Wolofal*) — An Arabic-script orthography used since at least the eighteenth century for religious poetry and correspondence in rural areas.
-- **Tijaniyya brotherhood** (*Tijaniyya*) — A Sufi order with centers at Tivaouane and Kaolack.
-- **Mouride brotherhood** (*Mouridiyya*) — A Sufi order founded by Cheikh Amadou Bamba at Touba in the 1880s, centered on an ethic of work and obedience to the marabout.
-- **Spiritual teacher** (*sëriñ, marabout*) — A marabout or marabout who prescribes gris-gris amulets and guides disciples in their spiritual path.
+- **Mouride brotherhood** (*Mouridiyya*) — Founded by Cheikh Amadou Bamba with its centre at Touba, organized around Baye Fall working disciples in mendicant discipline.
+- **Tijānī brotherhood** (*Tijāniyya*) — A Sufi brotherhood centred on Tivaouane and Kaolack.
+- **Chanted Arabic poems** (*xassaïda*) — Mouride devotional verses of Cheikh Amadou Bamba.
+- **Islamic recitation** (*zikr*) — Tijānī devotional practice.
+- **Wolof in Arabic script** (*Wolofal, Ajami*) — Used for Mouride devotional verse, the vehicle of the group's own literate register alongside Latin orthography.
 
 ## Glossary
 
-- *boubou* — A wide unfitted robe, the signature Wolof garment
-- *bazin riche* — Heavily starched and polished imported damask cotton
-- *gara* — Indigo dye or indigo-dyed cloth
-- *sabar* — An ensemble of goblet-shaped drums and neighborhood dance
-- *gris-gris* — A protective amulet with Quranic verses or herbal preparation
-- *mbalax* — Popular music fusing sabar rhythms with Cuban son and rock
-- *sous-verre* — Reverse-glass painting, a folk art of the coastal towns
-- *kër* — A traditional walled compound with huts and a courtyard
-- *taasu* — Rhythmic improvised praise poetry
-- *thiouraye* — An incense mixture that perfumes cloth and body
-- *musóor* — A towering starched headtie worn by women at ceremonies
-- *sëriñ* — A spiritual teacher or marabout who guides disciples
-- *Mouridiyya* — A Sufi brotherhood founded by Cheikh Amadou Bamba
-- *ceebu jën* — The national rice and fish dish
-- *néré* — A locust bean pod used to season dishes
-- *téeré* — A small amulet case holding written gris-gris
-- *tama* — A small hourglass talking-drum
-- *fecc* — Sabar dance, explosive solos answered by the lead drum
-- *ngente* — The naming ceremony held on the seventh day after birth
-- *Màggal* — The annual Mouride pilgrimage to Touba
-- *xaraf* — Circumcision ceremony for boys
-- *Wolofal* — Arabic-script orthography of Wolof used for religious and personal writing
+- *sër, ndëkët* — Narrow-strip woven cloth
+- *gara* — Indigo-dyed cloth with metallic sheen
+- *mbubb, ndoket* — The great flowing embroidered robe
+- *sous-verre* — Reverse painting on window glass
+- *bin-bin, féer* — Strung waist-beads worn under clothing
+- *dëkk* — A village cluster
+- *kër* — A compound of huts and courtyard
+- *neeg* — Round or square hut
+- *ndaa* — Porous water jar for cooling by evaporation
+- *gris-gris, téere* — Qur'anic amulet or magic square in leather or silver
+- *sabar* — Drum ensemble and set of carved goatskin drums
+- *bàkk* — Named rhythmic phrases encoding verbal formulas
+- *gëwël* — Griot; hereditary drummer, praise-singer and genealogist
+- *tama* — Small tension-laced talking drum
+- *xalam* — Plucked lute, ancestor of the banjo
+- *tànnebéer* — Women's neighborhood dance gathering in a street circle
+- *lamb* — Senegalese wrestling as a performance genre
+- *ngénte* — Naming ceremony held on the eighth day after birth
+- *ceebu jën* — Rice and fish, Senegal's national dish
+- *attaya* — Three-round ceremony of gunpowder green tea with sugar and mint
+- *Mouridiyya* — Sufi brotherhood founded by Cheikh Amadou Bamba
+- *Tijāniyya* — Sufi brotherhood centred on Tivaouane and Kaolack
+- *xassaïda* — Chanted Arabic poems of Mouride devotion
 
 ## Sources & further reading
 
-- Wikipedia: Wolof people, Wolof language, Jolof Empire, Sabar, Mbalax, Boubou (clothing), Sous-verre, Mouride, Tijaniyyah, Cheikh Amadou Bamba, Thieboudienne.
-- UNESCO Representative List of the Intangible Cultural Heritage of Humanity: Ceebu Jën, culinary art of Senegal (2021); Kankurang, Manding initiatory rite (Senegal & Gambia, 2005/2008).
-- UNESCO World Heritage: Island of Gorée (1978); Island of Saint-Louis (2000/2007).
-- Judith T. Irvine, When Talk Isn't Cheap: Language and Political Economy (on Wolof griot speech genres).
-- Patricia Tang, Masters of the Sabar: Wolof Griot Percussionists of Senegal (Temple University Press, 2007).
-- Leigh Swigart, "Cultural Creolisation and Language Use in Post-Colonial Africa: The Case of Senegal" (Africa, 1994).
-- Allen F. Roberts & Mary Nooter Roberts, A Saint in the City: Sufi Arts of Urban Senegal (UCLA Fowler Museum, 2003) — the standard reference on sous-verre and Mouride visual culture.
-- Mamadou Diouf (ed.), Tolerance, Democracy, and Sufis in Senegal (Columbia University Press, 2013).
-- Fiona McLaughlin, "Dakar Wolof and the Configuration of an Urban Identity" (Journal of African Cultural Studies, 2001).
+- David P. Gamble, *The Wolof of Senegambia: Together with Notes on the Lebu and the Serer* (International African Institute / Ethnographic Survey of Africa, London, 1957; rev. 1967)
+- Boubacar Barry, *Senegambia and the Atlantic Slave Trade* (Cambridge University Press, 1998)
+- Patricia Tang, *Masters of the Sabar: Wolof Griot Percussionists of Senegal* (Temple University Press, 2007)
+- James F. Searing, *"God Alone Is King": Islam and Emancipation in Senegal — The Wolof Kingdoms of Kajoor and Bawol, 1859–1914* (Heinemann, 2002)
+- Leonardo A. Villalón, *Islamic Society and State Power in Senegal: Disciples and Citizens in Fatick* (Cambridge University Press, 1995)
+- Tal Tamari, *Les castes de l'Afrique occidentale: artisans et musiciens endogames* (Société d'ethnologie, Nanterre, 1991)
+- Anne-Marie Bouttiaux and the Royal Museum for Central Africa on Senegalese *sous-verre*; Patricia Tang on *sabar* drumming and *bàkk* notation; Fiona Mc Laughlin on Dakar-Wolof and urban language; Fiona Sheales / British Museum Africa collections on Senegambian goldwork
+- https://en.wikipedia.org/wiki/Wolof_people
+- https://ich.unesco.org/en/state/senegal-SN
+- https://folkways.si.edu/search?query=Senegal+Wolof
+- https://www.britishmuseum.org/collection — search "Ethnic group: Wolof"
+- https://collections.vam.ac.uk / https://www.metmuseum.org/art/collection — search "Senegal", "Wolof"
+- https://africa.si.edu — Smithsonian National Museum of African Art, Senegalese textiles and goldwork
 

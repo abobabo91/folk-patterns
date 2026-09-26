@@ -8,155 +8,155 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Kongo, a Bantu-speaking people |
-| Where | Lower Congo River region from southern Gabon through Angola |
-| How many | Ten to sixteen million |
-| Language | Kikongo, with Kituba as a trade lingua franca |
-| Religion | Indigenous cosmology, Catholicism, and independent African churches |
-| Known for | Power figures and nailed wooden minkisi · Raphia textile weaving with geometric patterns · Soapstone ancestor effigies called mintadi · The Kingdom of Kongo, a major early-modern Atlantic power · Syncretic Kongo crucifix blending Christ with cosmogram |
+| Who | The Kongo, a Bantu people and speakers of Kikongo |
+| Where | Atlantic coast of Central Africa: southwest Democratic Republic of the Congo, south Republic of the Congo, north Angola, southwest Gabon |
+| How many | 4,040,000 (1975 count); largest ethnic group in the Republic of the Congo |
+| Language | Kikongo (macrolanguage with eight dialects); Kituba as regional lingua franca |
+| Religion | Overwhelmingly Christian (Catholic since 1491, Protestant since 1880s); Kimbanguist church; indigenous nkisi practice and ancestral veneration |
+| Known for | Raphia cloth weaving and the mpu looped-fibre cap · Nkisi power figures driven with nails and blades · Kingdom of Kongo (founded 14th century); shipped 5.6 million captives to the Americas · Oral tradition, proverbs, and materialized proverb art on pot lids · Dikenga cosmogram; influence on Caribbean and African-American ritual traditions |
 
 ## Overview
 
-The Kongo are a Bantu people of west-central Africa whose Kingdom, founded around 1390, converted to Catholicism in 1491 and maintained ties with Portugal for four centuries. From the blend of Bantu cosmology and lusophone Christianity came their most distinctive material tradition: power figures, ancestor sculptures, raphia cloths marked with the dikenga cosmogram, and brass crucifixes. Today the Kongo number ten to sixteen million and speak Kikongo and its trade form Kituba, practice Catholicism and independent African churches, and maintain customary chiefly authority.
+The Kongo are a major Bantu people of the Atlantic coast of Central Africa, speakers of Kikongo and its dialects. Their Kingdom of Kongo, founded in the 14th century with capital at Mbanza Kongo, became one of the first African states to adopt Christianity (1491) and the largest supplier of enslaved people to the Americas—5.6 million captives—making Kongo visual and ritual vocabulary foundational to Cuban Palo Mayombe, Brazilian Candomblé, Haitian Vodou, Jamaican Kumina, and African-American Hoodoo. Their material culture—textiles, sculpture, metalwork and regalia—and their oral traditions, calendar, and cosmology remain vibrant and documented.
 
 ## Material culture
 
-Kongo material culture centers on raphia palm fibre, soft-stone carving, iron and brass work, and the sacred power figures called minkisi.
+Kongo material culture centres on woven raphia, wood sculpture charged with spiritual power, and regalia that encode rank, oath, and chiefly authority.
 
 ### Textile & pattern traditions
 
-Raphia fibre from palm fronds is worked into cloths, mats and skirts with emphatic geometric designs anchored by the dikenga cosmogram.
+Kongo weavers created raphia cloth and cut-pile textiles that served as currency and garment, distinguished by flat geometric fields and relief-worked caps.
 
-- **Raphia cloth squares** (*mbadi*) — Fibre stripped from young palm fronds and woven on a single-heddle upright loom into squares roughly 50–60 cm on a side.
-- **Cut-pile decoration** (*ntsak*) — Supplementary raphia tufts inserted and clipped to produce plush surfaces used among the Yombe and Bembe.
-- **Interlace pattern** (*makanda*) — One of the emphatic geometric designs in the Kongo textile vocabulary.
-- **Cosmogram** (*dikenga dia Kongo*) — A cross-in-circle design whose four points mark sunrise, zenith, sunset and midnight, and by extension birth, maturity, death and rebirth.
-- **Carved wooden pot-lids** (*taampha or mataampha*) — Woyo coastal carved lids where each incised motif encodes a proverb signalling grievances from wife to husband at meals.
+- **Raphia cloth** (*mbadi, nteva*) — Woven on a single-heddle vertical loom from split palm leaflets in square panels; raphia was both garment and standardized currency circulating with shell money.
+- **Cut-pile velvet cloth** (*mbala*) — Raphia pile cloth with supplementary knotted threads sheared flat to produce velvet, traded to European cabinets of curiosity in the seventeenth century as 'Congo velvets.'
+- **Mpu cap** (*mpu*) — A close-fitting looped or knotted cap made by needle-looping technique from raphia or pineapple fibre, worked in relief with lozenges, spirals, claws and interlace; insignia of a chief or titleholder.
+- **Loango coast prestige cloth** — Fine interlaced panels produced by Vili and Woyo weavers with tight diamond lattices, traded along the Atlantic littoral.
+- **Woyo pot lids** (*taampha*) — Carved wooden lids whose relief figures encode proverbs, presented at meals to make an argument without speech; motifs overlap with textile and cap vocabulary.
 
 ### Clothing & dress
 
-Everyday dress consisted of raphia wrappers, while chiefs wore regalia including woven caps, leopard-skin capes, and ivory staffs.
+Everyday dress centred on raphia wrappers; chiefly dress added the mpu cap, leopard skins, and from the sixteenth century, Portuguese-influenced court garments and Christian ornament.
 
-- **Woven basketry cap** (*mpu*) — A close-fitting knotted-fibre bonnet studded with leopard claws, brass tacks or cowries and worked in interlace patterns that read as coded genealogies.
-- **Knee-length wrapper** (*nlele*) — The everyday male garment tied at the waist, worn bare-chested or with a second cloth draped over the left shoulder.
-- **Leopard-skin cape** (*ngo*) — A chiefly regalia item worn over the shoulder.
-- **Ivory or wooden staff** (*mvwala*) — A chiefly insignia with figurative finial.
-- **Fly-whisk** (*mfunya*) — Made of buffalo or elephant tail set into a carved handle and worn by chiefs.
+- **Raphia wrapper** — Knotted at the hip for men, passed under arms or over shoulder for women; length and weave fineness marked rank.
+- **Chiefly insignia ornament** (*nkangi kiditu, toni malau*) — Brass and bronze crucifixes and Saint Anthony medallions worn as chiefly and juridical emblems during oath-taking and investiture.
+- **Women's coiffure** — Elaborately built over a fibre armature, dressed with palm oil and red nkula camwood powder, a ritual substance signalling transition.
 
 ### Architecture
 
-Pre-colonial villages arranged around central plazas combined timber frames, raphia mats and thatch roofs, with the spatial logic of the dikenga cosmogram orienting compounds and shrines.
+Kongo villages were clusters of light-frame rectangular houses with raphia or wattle walls and thatched roofs; the whole building was a woven object.
 
-- **Village** (*vata or mbanza*) — A settlement arranged as parallel rows of rectangular houses flanking a central plaza, with a chiefly seat or shrine enclosure.
-- **Central plaza** (*lumbu*) — The open space in a village containing the chief's compound, the men's palaver shelter and often a shrine with a sacred tree.
-- **Men's palaver shelter** (*mbongi*) — A gathering place for council and deliberation in the village centre.
-- **Raphia-palm mat panels** (*tsivu*) — Walling material for houses made from raphia palm mats.
-- **Royal necropoli** (*mbanza ya bafwa*) — Enclosed burial grounds for royalty, architecturally the most distinctive Kongo constructions.
+- **Kongo house** — Frame of poles, walls of raphia or palm matting lashed to frame or wattle daubed with clay, steeply pitched gabled or hipped roof thatched in palm and grass; interiors partitioned with mats.
+- **Mbanza Kongo** — Capital city 200 kilometres inland with royal enclosure, ward divisions for nobility and foreigners, and after conversion, masonry churches; burnt after the third Kongo-Portuguese war and renamed São Salvador.
+- **Grave mounds** — Raised mounds crowned with inverted vessels, imported ceramics, glass, and later concrete or brick monuments; in some areas marked with mintadi stone figures.
 
 ### Ceramics, metalwork & everyday objects
 
-Women hand-built blackened ceramics in restrained geometric forms, while men carved soft-stone funerary figures and worked iron and brass into tools, weapons and religious objects.
+Kongo potters made coil-built vessels; the great sculptural corpus is wood and mixed media, especially nkisi power figures driven with iron nails.
 
-- **Seated or kneeling grave figures** (*mintadi (singular ntadi)*) — Soft chloritic schist sculptures placed on graves of chiefs from the sixteenth century onward, with crossed legs, hand to cheek, mpu cap or drum encoding titles and virtues.
-- **Wide-mouthed cooking pot** (*nzungu*) — A hand-built ceramic form used for cooking.
-- **Water jar** (*mvungu*) — A hand-built ceramic with a constricted neck for holding water.
-- **Twin iron gong** (*ngonge or ngongi*) — A double-strike instrument worked by hereditary smiths and used to call chiefs to council.
-- **Power figures** (*minkisi (singular nkisi)*) — Containers — gourd, shell, bundle or carved wooden figure — packed by ritual specialists with empowering substances from the world of the dead.
+- **Nkisi power figure** (*nkisi, pl. minkisi*) — A container—figure, bundle, shell or gourd—charged by a healer-diviner with earths, relics and medicines behind a resin-sealed mirror belly-pack; the physical record of an oath or grievance.
+- **Mangaaka nail figure** (*mangaaka*) — Monumental nkisi of the Yombe and Vili, standing with fists on hips and jaw thrust forward, torsos driven with iron nails and blades.
+- **Nduda figure** (*nduda*) — A smaller nail-figure for pursuing wrongdoers.
+- **Mintadi stone figure** (*mintadi, sing. ntadi*) — Soapstone figures of chiefs seated in thinking postures, carved in the Mbanza-Ngungu region and set on graves.
+- **Ivory oliphant** — Spiral-carved ivory tusks produced by Kongo carvers and traded from the nineteenth-century Loango coast.
 
 ### Jewelry & body adornment
 
-Kongo adornment favoured brass and copper in the form of massive anklets, arm-rings and neck-rings, along with cowrie shells and Christian pendants.
+Chiefly ornament ran to leopard teeth and claws, brass and copper armlets, iron bracelets, and shells; Christian metalwork entered permanently as cast crucifixes and saint figurines.
 
-- **Twisted brass wire anklets** (*nlunga za malu*) — Massive enough to require the wearer to walk with a swaying gait, they marked the wealth of chiefly wives.
-- **Cowrie shells** (*nzimbu*) — Sewn onto caps, sashes and initiation belts, they also served as currency harvested off Luanda island.
-- **Scarification patterns** (*mfindu*) — Parallel keloid ridges on temples and abdomen among Yombe, dotted rosettes among Bembe, and vertical median forehead line among Woyo.
-- **Brass crucifixes and pendants** (*santu*) — Small figures worn on a fibre cord that doubled as protective amulets after Christianisation.
+- **Leopard-tooth necklace** — Leopard teeth and claws strung as chiefly ornament signalling power.
+- **Cast brass crucifix** (*nkangi kiditu*) — Christian metalwork worn and carried by chiefs, healers and judges as insignia, often with small orant figures flanking the corpus.
+- **Saint Anthony figurine** (*toni malau*) — A cast-brass figure worn and carried as insignia by chiefly and judicial officials.
+- **Body scarification** — Filed teeth and raised keloid dot registers across the abdomen, back and temples marked initiation and beauty.
+- **Camwood and kaolin pigment** (*nkula, mpemba*) — Red camwood powder and white kaolin applied to the body at initiation, mourning and divination; mpemba is the colour of the dead and water spirits.
 
 ## Music & performance
 
-Kongo music builds on layered polyrhythm and call-and-response vocals, centred on hand-held lamellophone and a variety of drums.
+Kongo musical life is built on drum ensembles, iron bells and the sounded voice of authority; song is antiphonal and organized by function.
 
-- **Lamellophone** (*sanza or likembe*) — A small hand-held instrument with tuned iron tongues over a wooden or gourd resonator, closely associated with Kongo migrant labour and urban popular music.
-- **Tall single-headed drum** (*ngoma*) — A percussion instrument used in Kongo music and dance.
-- **Double-headed drum** (*mpungi*) — A percussion instrument with two heads used in Kongo music.
-- **Friction drum** (*puita*) — Used at funerals and initiations in Kongo ritual music.
-- **Slit-log drum** (*nkonko*) — Hollowed from a single log and still employed for coded long-distance messaging in the lower Congo forests.
+- **Double iron bell** (*ngongi, dibu*) — Carries chiefly and announcement functions.
+- **Slit wooden gong** (*koko*) — A percussion instrument for chiefly announcement.
+- **Lamellophone** (*sanza, likembe*) — Raphia-and-gourd plucked instrument that spread through the Congo basin in the late nineteenth century.
+- **Ivory trumpet** (*mpungi*) — Side-blown ivory or antelope-horn trumpet sounded for the chief.
+- **Malele historical song** (*Malele*) — One of seventeen Kongo songs warning of the arrival of the Portuguese, still sung by the Massembo family of Guadeloupe after four centuries.
 
 ## Dance & theatre
 
-Kongo dance is inseparable from ritual and status display, with codified forms in men's and women's initiation enclosures and masked performances concentrated on the coast.
+Kongo dance is largely ritual and corporate; initiation societies staged masked performance; funeral dancing is the great public form.
 
-- **Men's initiation enclosure** (*kimpasi*) — A seclusion space where novices emerge in a public procession of masked figures whose low, driving hip-drop choreography recapitulates crossing between the world of the living and ancestors.
-- **Women's initiation enclosure** (*kumbi*) — A seclusion space paralleling the kimpasi where women undergo ritual initiation.
-- **Polychrome helmet mask** (*ndunga*) — A Woyo police society mask striped in red, black and white and worn with full raphia costume to enforce chiefly edicts.
-- **Funerary dances** (*matanga*) — Multi-night performances that include mimed re-enactment of the deceased's occupations.
+- **Ndunga masquerade** (*ndunga*) — Policing and judicial society of the Woyo whose masked dancers in white kaolin and red pigment appeared at funerals of notables and at enforcement of chiefly interdictions.
+- **Kimpasi initiation** (*kimpasi*) — A Kongo initiation association in which novices 'died' and were reborn, with dances marking the crossing of kalunga, the boundary between living and dead.
+- **Funeral circle dance** — Night-long drumming and circle dance at the wake of a notable, culminating in procession to the grave.
+- **Yuka and makuta dance** (*yuka, makuta*) — Caribbean dances derived directly from Kongo dance vocabulary emphasizing the pelvis and low, driving hip articulation.
 
 ## Festivals & rituals
 
-The Kongo ritual calendar centres on life-cycle events and periodic renewal of chiefly and nkisi authority rather than solar-agricultural cycles.
+The Kongo calendar is a four-day week rather than an annual cycle; life-cycle rite dominates the ritual year.
 
-- **Chiefly investiture** (*mfumu or nkuluntu*) — The most elaborate public ritual, involving seclusion, consumption of leopard and python meat, receipt of the mpu cap and mvwala staff, and circumambulation of the ancestor shrine.
-- **Twin-birth ceremonies** (*bansimba*) — A cycle of ceremonies triggered by the birth of twins in Kongo communities.
-- **Feast of Saint Anthony** (*Toni Malau*) — A Catholic observance honouring the patron of the seventeenth-century Antonian movement of the prophetess Beatriz Kimpa Vita.
-- **Kimbanguist pilgrimage to Nkamba** (*Nkamba-Jérusalem*) — Annual commemorations on 6 April and 25 May marking the birth and death of Simon Kimbangu for millions affiliated with the Église Kimbanguiste.
+- **Four-day week** (*Konzo, Nkenge, Nsona, Nkandu*) — Market days, prohibitions and burial days are set by it; the same four-part division maps onto the dikenga cosmogram.
+- **Child naming** — Follows birth seclusion of mother and child and places a child in a matrilineage (kanda).
+- **Twin observance** (*nsimba, nzuzi*) — Twins receive particular honour and their own shrine observances.
+- **Kimpasi initiation** (*kimpasi*) — Adolescents enter a bush enclosure where they are ritually killed and resurrected, whitened with mpemba kaolin, taught a secret language, and returned with new names.
+- **Chief investiture** (*lubuku*) — The taking of the mpu cap requires seclusion, the conferring of the cap and iron bracelet, and an oath before a nkisi.
 
 ## Foodways
 
-The Kongo diet is built on cassava introduced from Brazil in the sixteenth century, prepared in multiple forms and accompanied by leaf relishes, palm oil and palm wine.
+The Kongo were expert agriculturalists; the starch base is cassava, adopted in the sixteenth century; red palm oil is the defining fat.
 
-- **Fermented cassava paste** (*chikwangue or kwanga*) — Cassava steamed in leaves, the most common preparation of the dominant staple.
-- **Cassava leaf relish** (*saka-saka or mpondu*) — Pounded cassava leaves slow-cooked with palm oil, onion and dried fish, the signature national dish.
-- **Coarse cassava flour** (*fufu*) — Mixed with hot water into a stiff porridge, one form of cassava preparation.
-- **Palm wine** (*malafu ma mbila*) — Tapped from raphia or oil palm and drunk fresh within a day of fermentation, the ritual and social beverage.
-- **Peanut sauce** (*muamba wa nguba*) — Ground peanuts that thicken chicken or fish stews.
+- **Cassava preparations** (*fufu, luku, kwanga, chikwangue*) — Cassava is fermented and pounded or soaked, wrapped in leaves and steamed into the dense cylindrical travelling loaf.
+- **Saka-saka relish** (*saka-saka, mpondu*) — Cassava leaves pounded with palm oil, groundnut and dried fish or smoked meat; the everyday relish.
+- **Moambe stew** (*moambe, poulet à la moambe*) — Chicken stewed in palm-nut pulp with chilli.
+- **Liboke wrapped fish** (*liboke, maboke*) — Fish or meat seasoned and steamed in banana or marantaceae leaf packets over coals.
+- **Palm wine** (*maluvu*) — Tapped from raphia or oil palm, poured as libation to the ancestors before consumed, indispensable at bridewealth, investiture and funeral.
 
 ## Oral tradition & literature
 
-Kikongo oral literature is unusually well documented thanks to early literacy after 1491 conversion and twentieth-century missionary collections, distinguished into proverbs, historical narrative, praise recitation and song-poetry.
+Kongo oral art is organized around the proverb and the tale, performed in the evening with sung refrains; proverbs are materialized in art and speech.
 
-- **Proverbs and riddles** (*kingana*) — Dense with cosmological reference and formally deployed in judicial palaver where a chief's authority is measured by command of them.
-- **Historical narrative** (*nsamu*) — Preserves the founding myth of the kingdom and the epic of seventeenth-century wars culminating at the battle of Mbwila in 1665.
-- **Praise recitation** (*lusamunu*) — A form of oral literature honouring persons and deeds.
-- **Song-poetry** (*nkunga*) — Song-poems performed at initiations, funerals and nkisi consecrations, often in an archaic register understood only by specialists.
-- **Judicial palaver** (*mambu*) — A formal deliberation where proverbs are deployed and a chief's authority is measured by his command of them.
+- **Proverb** (*kingana, pl. bingana*) — Performed in the evening with sung refrains the audience answers; unusually materialized here in pot lids and sculpture.
+- **Proverb pot lid** (*taampha*) — Woyo pot lids carved in relief to state a domestic grievance silently at the table.
+- **Narrative tale** (*nsamu, nkingu*) — Tales turn on the trickster, the journey across water to the land of the dead, and the simbi spirits of pools and rapids.
+- **Kongo epistolary archive** — The manikongo Afonso I wrote to the king of Portugal in the 1510s–1520s protesting the seizure of his people, giving Kongo one of the earliest African epistolary archives.
+- **Laman Kikongo notebooks** — Roughly 400 notebooks written in the 1880s–1900s by Kongo catechists at the request of Swedish missionary Karl Laman; the richest indigenous ethnographic source for any Central African people.
 
 ## Language & religion
 
-Kikongo is a Bantu H10 language with several dialect clusters and a simplified vehicular form called Kituba, while Kongo religion layers indigenous cosmology, Catholicism and independent African churches.
+Kikongo is a Bantu macrolanguage written in Latin script since the sixteenth century; the Kongo are overwhelmingly Christian with indigenous nkisi practice running beneath.
 
-- **Kikongo language** (*Kikongo*) — A Bantu H10 language with dialect clusters including Kikongo-Kikwango, Kimanianga, Kiyombe, Kivili, Kiwoyo and Kisolongo, mutually intelligible with effort.
-- **Trade lingua franca** (*Kituba or Kikongo ya leta*) — A grammatically simplified and lexically enriched form spoken by over five million as a first or second language across the lower Congo basin.
-- **Cosmogram** (*dikenga*) — An indigenous cosmological symbol structuring Kongo religious thought and spatial orientation.
-- **Water-line separating living from ancestors** (*kalunga*) — A central element of Kongo cosmology marking the boundary between the living world and the world of bakulu ancestors.
-- **Independent African church** (*Église Kimbanguiste*) — Founded by Simon Kimbangu in 1921, now claiming several million adherents worldwide and inscribed in UNESCO intangible-heritage inventories.
+- **Kikongo language** — Comprises eight dialects (Beembe, Doondo, Koongo, Laari, Kongo-San-Salvador, Kunyi, Vili, Yombe); dialect distance is real.
+- **Kituba creole** (*Kikongo ya Leta*) — A Kikongo-based creole and regional lingua franca alongside Lingala, French and Portuguese.
+- **Catholicism** — Present since 1491; folded All Souls' Day, Christmas and saints' feasts into the indigenous ritual calendar.
+- **Kimbanguist church** — Founded in 1921 by Simon Kimbangu, a Kongo, it is a major independent Christian denomination.
+- **Nkisi practice** — Indigenous healing, divination, water spirits (simbi), ancestors (bakulu) and the dikenga cosmogram; transatlantic descendants include Palo Mayombe, Candomblé Bantu, Kumina, Haitian Vodou and Hoodoo.
 
 ## Glossary
 
-- *Kikongo* — Bantu H10 language of the Kongo people
-- *Kituba* — Simplified trade form of Kikongo, lingua franca of lower Congo
-- *dikenga dia Kongo* — Cross-in-circle cosmogram marking four cardinal points and life cycle
-- *minkisi* — Power figures containing empowering substances from the world of the dead
-- *nkisi* — Individual power figure, container for ritual empowering substances
-- *ntadi* — Seated or kneeling soapstone ancestor effigy placed on graves
-- *mbadi* — Raphia fibre stripped from young palm fronds
-- *mpu* — Close-fitting woven basketry cap marking chiefly status
-- *nlunga* — Ceremonial anklets or wristlets of raphia or twisted brass wire
-- *kalunga* — Water-line in Kongo cosmology separating the living from ancestors
-- *sanza* — Hand-held lamellophone with tuned iron tongues
-- *kimpasi* — Men's initiation enclosure with codified emergence dance
-- *kumbi* — Women's initiation enclosure parallel to the kimpasi
-- *mfumu* — A chief, especially one undergoing formal investiture
-- *chikwangue* — Fermented cassava paste steamed in leaves
-- *malafu ma mbila* — Palm wine tapped from raphia or oil palm, ritual beverage
+- *dikenga* — The Kongo cosmogram: a quartered circle or cross marking the four moments of the sun and the boundary between living and dead.
+- *kalunga* — The boundary between the land of the living and the land of the dead; crossed in initiation.
+- *kanda* — A matrilineage; kinship group into which a child is placed at naming.
+- *kimpasi* — An initiation association in which novices are ritually killed and reborn; marked by secret language and new names.
+- *kingana* — A proverb; plural bingana. Performed in the evening with sung refrains.
+- *mbadi* — Raphia cloth; woven on a single-heddle vertical loom from split palm leaflets.
+- *minkisi* — Plural of nkisi; power containers charged by healers with earths, relics and medicines.
+- *mintadi* — Soapstone figures of chiefs seated in thinking postures; set on graves in the Mbanza-Ngungu region.
+- *mpu* — A looped or knotted cap insignia of a chief or titled person; made from raphia or pineapple fibre.
+- *nkisi* — A power figure or container charged by a healer-diviner with medicines and relics; plural minkisi.
+- *nkula* — Red camwood powder applied to the body at initiation, mourning and divination; a ritual substance.
+- *mpemba* — White kaolin powder; the colour of the dead and of simbi water spirits, applied at initiation and mourning.
+- *simbi* — Water spirits of pools and rapids; invoked in divination and narrative.
+- *taampha* — Woyo carved wooden pot lids whose relief figures encode proverbs for silent domestic argument.
+- *bakulu* — Ancestors; honoured through libations and observances.
+- *nsamu* — A narrative tale or story; performed in the evening with sung refrains.
+- *maluvu* — Palm wine tapped from raphia or oil palm; poured as libation to ancestors before any is consumed.
+- *lubuku* — The taking of the mpu cap; the investiture of a chief requiring seclusion and oath before a nkisi.
 
 ## Sources & further reading
 
-- Wikipedia: "Kongo people", "Kingdom of Kongo", "Kikongo language", "Nkisi", "Nkondi", "Kimbanguism".
-- UNESCO Intangible Cultural Heritage lists (national inventories, DRC and Republic of Congo).
-- Wyatt MacGaffey, Religion and Society in Central Africa: The BaKongo of Lower Zaire (1986) and Kongo Political Culture (2000).
-- Robert Farris Thompson & Joseph Cornet, The Four Moments of the Sun: Kongo Art in Two Worlds (1981).
-- Karl Laman, The Kongo (four volumes, 1953–1968).
-- Hein Vanhee & Bambi Ceuppens (eds.), Congo Art Works: Popular Painting (2016) and the Royal Museum for Central Africa (Tervuren) online collections.
-- John K. Thornton, The Kingdom of Kongo: Civil War and Transition, 1641–1718 (1983) and A Cultural History of the Atlantic World, 1250–1820 (2012).
-- Alisa LaGamma (ed.), Kongo: Power and Majesty (Metropolitan Museum of Art, 2015).
+- Wyatt MacGaffey, *Religion and Society in Central Africa: The BaKongo of Lower Zaire* (University of Chicago Press, 1986)
+- Wyatt MacGaffey, *Kongo Political Culture: The Conceptual Challenge of the Particular* (Indiana University Press, 2000)
+- Robert Farris Thompson & Joseph Cornet, *The Four Moments of the Sun: Kongo Art in Two Worlds* (National Gallery of Art, 1981)
+- Alisa LaGamma (ed.), *Kongo: Power and Majesty* (Metropolitan Museum of Art / Yale University Press, 2015)
+- John K. Thornton, *The Kingdom of Kongo: Civil War and Transition, 1641–1718* (University of Wisconsin Press, 1983); and *A History of West Central Africa to 1850* (Cambridge University Press, 2020)
+- Karl Edvard Laman, *The Kongo*, 4 vols. (Studia Ethnographica Upsaliensia, 1953–1968)
+- Jan Vansina, *Paths in the Rainforests: Toward a History of Political Tradition in Equatorial Africa* (University of Wisconsin Press, 1990)
+- Zdenka Volavka, *Crown and Ritual: The Royal Insignia of Ngoyo* (University of Toronto Press, 1998)
 

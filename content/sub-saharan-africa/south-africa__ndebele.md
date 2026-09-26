@@ -8,152 +8,161 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Ndebele, a Nguni-speaking people of northeastern South Africa |
-| Where | Mpumalanga, eastern Gauteng, and Limpopo provinces, centered around KwaMhlanga and Siyabuswa |
-| How many | 1.1 to 1.5 million |
-| Language | IsiNdebele, one of South Africa's eleven official languages |
-| Religion | Ancestral veneration layered with Christianity, especially African Independent Churches |
-| Known for | Painted geometric homestead walls in bright colors · Beadwork on aprons, blankets and body adornment · Highly codified women's dress marking life stages · The wela male initiation ceremony · Esther Mahlangu's internationally recognized murals |
+| Who | The Southern Ndebele, a Bantu-speaking people distinct from the Northern Ndebele of Zimbabwe |
+| Where | Mpumalanga and Gauteng provinces of South Africa, in a belt from the Steelpoort and Olifants river valleys toward Pretoria |
+| How many | Roughly one million |
+| Language | IsiNdebele, a Nguni language closely related to Zulu and Swati |
+| Religion | Predominantly Christian with strong African Initiated Churches; ancestral practice coexists with church membership |
+| Known for | Geometric mural painting of homestead walls in bold black outlines and flat color fields · Beadwork on aprons, blankets and body adornment with hard-edged geometric patterns · Life-stage beaded regalia that reads a woman's age at a glance · Girls' initiation ceremonies ending in public coming-out dances · Brass and copper neck rings worn by married women of high standing |
 
 ## Overview
 
-The Ndebele are a Nguni people whose distinct visual culture crystallized after the traumatic 1883 war and farm indenture under Boer colonial rule. They are known worldwide for geometric house murals and extraordinary beadwork, with women's dress serving as a detailed record of life stages and social status. Their language is one of South Africa's official languages, and their practices blend ancestral veneration with widespread Christian faith. The group traces ancestry to chief Musi in the seventeenth century and later split into the senior Manala and dominant Ndzundza polities.
+The Southern Ndebele are a Bantu people of the South African highveld whose material culture — especially women's beadwork and house painting — became an internationally recognized African art tradition from the 1980s onward. Their visual language is architectural and geometric, built from hard-edged blocks, stepped bands and outlined rectangles rather than color-coded messages. Life is marked by initiation rites, marriage, and ancestral propitiation rather than annual festivals. Beaded garments and painted walls carry the same motif vocabulary, making Ndebele identity legible in every domestic space and on every woman's body.
 
 ## Material culture
 
-Ndebele material culture centers on applied decoration—beadwork and painting—transferred onto imported materials rather than woven textiles, creating a consistent vocabulary of geometric and modern motifs.
+Ndebele material culture centers on beadwork, house painting and body adornment, all organized around age-graded dress and the geometric motifs of blocks, steps and frets.
 
 ### Textile & pattern traditions
 
-Ndebele beadwork, worked in tiny glass seed beads on hide or cloth, maps architectural and modern motifs onto traditional blankets and body panels.
+Glass seed beads sewn onto goatskin or canvas in hard-edged geometric patterns are the core Ndebele medium, worked in white grounds with outlined rectangles and stepped bands.
 
-- **Ndebele beaded blanket** (*nguba*) — A commercial wool blanket transformed by horizontal bands of beadwork, brass buttons, and appliquéd braid, given by the groom's family and worn by married women.
-- **Ndebele beaded cape** — A shorter beaded shoulder-cape variant of the nguba blanket.
-- **Beaded train** (*linaga*) — A long beaded train worn down the back from the shoulders by married women.
-- **Beadwork panel** (*iintsimbi*) — Tiny glass seed beads loom-woven or sewn onto hide or cloth grounds in a palette that shifted from white with red and blue accents to full high-chroma spectrum.
+- **Beadwork** (*ubuhlalu*) — Glass seed beads sewn in rows onto tanned skin or canvas backing, worked in hard-edged geometric blocks and stepped bands that function as architectural statements rather than color-coded messages.
+- **Five-flapped apron** (*jocolo*) — The diagnostic Ndebele garment: a five-panelled beaded apron given to a woman at her wedding and worn at every important rite thereafter, its lower edge flaps referencing hides from slaughtered goats.
+- **Newly-married apron** (*mapoto*) — A stiff rectangular beaded apron, generally two-panelled and fully beaded, worn by the newly married woman over a linaga.
+- **Young woman's goatskin apron** (*linaga / isiphephetu*) — Goatskin apron forms worn by girls and young women; the isiphephetu is the beaded apron presented to an initiate at iqude, worn as proof of completed seclusion.
+- **Married woman's beaded blanket** (*nguba*) — A woollen blanket, originally striped grey or ochre trade cloth, then laid over with beaded horizontal bands and appliquéd wool stripes; worn as a full-body wrap, absorbing imported industrial textiles into indigenous grammar.
 
 ### Clothing & dress
 
-Women's dress is one of southern Africa's most codified age-grade systems, with each garment marking a specific life stage and communicating marital and maternal status.
+Women's dress is age-graded and reads life stage at a glance, from beaded string apron in childhood to the five-flap jocolo and nguba blanket of established wives.
 
-- **Small stiff beaded apron** (*lighabi*) — Worn by girls before puberty.
-- **Beaded apron at puberty** (*isiphephetu*) — Given by the mother at the coming-of-age seclusion (iqhude).
-- **Bride's five-panel apron** (*jocolo*) — A heavily beaded goatskin apron (now sometimes canvas) said to reference the five children a woman hopes to bear.
-- **Married woman's stiffened apron** (*mapoto*) — A two-panel front-and-back apron of stiffened canvas or hide, densely beaded in geometric fields.
-- **Beaded doughnut hoops** (*isigolwani*) — Thick hoops made of grass bundles bound in beadwork, worn in graduated stacks at neck, arms, waist, knees and ankles, replacing or supplementing brass rings.
+- **Grass or reed neck, arm and leg coils** (*isigolwani*) — Coils of grass or reed bound in beadwork, stacked on neck, arms, legs and waist by young women and initiates.
+- **Brass or copper neck rings** (*idzila*) — Neck, arm and ankle rings worn by married women of high standing, historically permanently fitted and understood as signs of the husband's standing and marital fidelity.
+- **Beaded headband** (*inyoga*) — A beaded band worn around the head, part of married women's regalia.
+- **Beaded shoulder train** (*linga koba*) — Twin beaded strips hanging from the head to signify a son's departure for and return from initiation, meaning 'long tears'.
+- **Men's animal-skin apron** (*isinyabe*) — Men's traditional dress, supplemented by beaded breastplate and blanket, with beadwork worn chiefly by initiates at wela.
 
 ### Architecture
 
-The Ndebele homestead is a walled compound of round or rectangular rooms arranged around a central cattle byre, defined by bold geometric wall painting in bright flat colour.
+The Ndzundza homestead is painted freehand by women without preliminary drawing, the entire enclosure — gateposts, steps, courtyard and entrance screen — treated as one continuous field of bold black outlines and flat color.
 
-- **Homestead compound** (*umuzi*) — Walled compound of daga (puddled clay, dung and anthill earth) rooms around a central cattle byre and swept forecourt.
-- **House painting tradition** (*ukugwala*) — Bold black-outlined geometric compositions in strong flat colour applied to exterior walls, interior courtyard walls and gateway, practised almost exclusively by women.
-- **Stepped-triangle motif** (*amasongo*) — A ubiquitous geometric pattern in mural composition, organized in horizontal registers and rigorously symmetrical panels.
+- **Homestead** (*umuzi*) — Rectangular mud-brick or wattle-and-daub houses with pitched thatched or corrugated-iron roofs, set behind a low front courtyard wall, the whole enclosure painted as one continuous field.
+- **Entrance screen** (*isiphephelo*) — A curved screen at the homestead entrance, painted as part of the overall mural composition.
+- **Mural painting technique** — Freehand painting using chicken-feather or finger-and-brush technique with bold black outlines defining flat fields of ochre, white lime, blue, green and pink.
 
 ### Ceramics, metalwork & everyday objects
 
-Ndebele ceramics follow the broader Nguni tradition of hand-coiled earthenware with restrained decoration, while distinctive character appears in beaded dolls and carved wooden vessels.
+Hand-built coiled earthenware for brewing and storing is burnished and low-fired; metalwork centers on drawn brass and copper rings fitted by specialist smiths.
 
-- **Beer and water pot** (*ukhamba*) — Hand-coiled unglazed earthenware, burnished with a smooth stone and fired in an open pit with post-firing reduction.
-- **Beaded fertility and initiation figure** (*umndwana*) — A conical or bottle-shaped doll built up in beadwork over a grass, cloth or clay core in stepped geometry, given to initiates and increasingly made for market.
-- **Grass sleeping mat** (*icansi*) — A traditional everyday object with clear Ndebele character.
+- **Beer pot** — Hand-built coiled earthenware decorated with incised bands or applied knobs, blackened by reduction, central to ancestral libation.
+- **Brass and copper rings** (*idzila*) — Rings for neck, arm and leg, worked by specialist smiths and fitted so as not to be removed.
+- **Wooden headrest** — Carved wooden objects including headrests, milk pails, meat platters and long-handled spoons used in daily life.
+- **Beer strainer** (*intluzo*) — Grass and palm-leaf coiled basketry used to strain sorghum beer, part of utilitarian but rarely beaded basket tradition.
 
 ### Jewelry & body adornment
 
-Ndebele adornment is inseparable from dress, with a woman's jewellery register reading her biography from pre-pubescence through motherhood and elderhood.
+Adornment is quantitative and public: brass, beads and coils visibly declare a household's cattle wealth and the husband's standing.
 
-- **Stacked brass neck ring** (*isiqolo*) — The pre-eminent traditional form, worn as part of the married woman's ensemble.
-- **Beaded headbands** (*isiyaya*) — Part of the head adornment completing the beaded ensemble.
-- **Long white beaded pendants** (*linga koba*) — Worn by mothers of initiates, hanging from a headdress on either side of the face.
-- **Male initiate beaded neckpiece** — Given by the mother to wela initiates as they emerge from seclusion.
+- **Neck, arm and ankle rings** (*idzila*) — Brass or copper rings worn by women to display household wealth and status.
+- **Beaded grass coils** (*isigolwani*) — Hoops of grass bound in beadwork worn stacked on neck, arms, legs and waist.
+- **Long beaded neck strip** (*ithulwana*) — Beaded strips worn long around the neck as part of women's regalia.
+- **Shoulder train** (*linga koba*) — Twin beaded strips hanging from the head signifying a son's initiation departure and return.
 
 ## Music & performance
 
-Ndebele music sits within the broader Nguni idiom and includes women's group song, praise-poetry, and instruments shared across the region.
+Ndebele music is Nguni in foundation: unaccompanied or lightly accompanied group song built on call-and-response, with hand-clapping and stamping carrying the pulse.
 
-- **Women's group song with hand-clapping and stamping** (*ukushaya izandla*) — Call-and-response singing accompanying house-painting, harvest, and life-cycle rituals.
-- **Mouth-resonated musical bow** (*isitweletwele*) — A traditional instrument of the wider region, also called ugubhu.
-- **Praise-song tradition** (*izibongo*) — Performed by a designated praiser (imbongi) at chiefly installation and senior funerals in high-register declamatory style.
+- **Girls' initiation songs** (*iqude*) — A restricted repertoire sung during girls' seclusion at first menstruation, not sung outside the initiation context.
+- **Boys' circumcision school songs** (*wela*) — A restricted repertoire sung during male initiation and instruction, each circumcision cohort taking a regimental name.
+- **Wedding song** (*ukuthomba*) — Songs accompanying the bride's procession and display of her beaded regalia, part of marriage negotiation repertoire.
+- **Mouth-bow** (*umrhubhe*) — An instrument played by scraping and voiced with overtone whistling.
+- **Animal-horn trumpet** (*iphalaphala*) — End-blown and side-blown horn instrument used in Ndebele music.
 
 ## Dance & theatre
 
-Ndebele dance is principally ritual and communal, centred on women's stamping dances and male initiate stick dances, with no indigenous masquerade theatre.
+Performance is sung dance tied to rite; there is no masked or puppet theatre tradition, and women's dance is upright and undemonstrative below the waist, constrained by beadwork weight and stiffness.
 
-- **Women's stamping dance** (*iindlamu*) — Performed at weddings and at the completion of a newly painted homestead, with dancers in full beaded regalia and isigolwani stacks providing percussion.
-- **Male initiate stick and shield dance** — A vigorous line dance performed by wela initiates returning from mountain seclusion, echoing the broader Nguni warrior-dance complex.
+- **Girls' coming-out dance** — A public coming-out performance at the end of girls' initiation in which each initiate appears in her new isiphephetu, walked through the homestead by her female kin.
+- **High-kicking stamping style** (*indlamu*) — A stamping and kicking style belonging to men and age-set display, performed in lines with shield or stick at initiation graduations and chief installations.
+- **Wedding procession** — Choreographed procession in which the bride is veiled and led, with her attendants dancing ahead.
 
 ## Festivals & rituals
 
-The ritual calendar is organised around the life cycle, centred on the female iqhude puberty seclusion and the male wela initiation held at multi-year intervals.
+The Ndebele calendar is built on life-cycle rite rather than annual festival: male initiation wela every four years, girls' initiation in two stages, marriage by lobola cattle transfer, and year-long ancestral propitiation.
 
-- **Female puberty seclusion** (*iqhude*) — Also called ukuthomba; a girl receives her first beaded apron and is instructed by senior women before emerging into betrothal.
-- **Male initiation ceremony** (*wela*) — Held at multi-year intervals at a mountain lodge, in which cohorts of boys are circumcised, secluded for several months, and returned as men with new names and marriage rights.
-- **Marriage ceremony sequence** (*umtjhado*) — A staged sequence of bridewealth negotiations (lobola), the bride's arrival in the jocolo, and the presentation of the nguba blanket.
-- **Ancestral veneration** (*ukuphahla*) — The pouring of beer and slaughter of a beast to address the amadlozi (ancestors), marking births, illnesses and misfortunes.
+- **Boys' circumcision school** (*wela / ingoma*) — Held roughly every four years in winter, gathering a whole regiment of boys into a bush lodge for circumcision and instruction; the cohort takes a regimental name and remains an age-set for life.
+- **Girls' first-menstruation seclusion** (*iqude / ukuthomba*) — A short seclusion at first menstruation followed by a longer seclusion of months in a painted room, ending in public presentation of the initiate in new beadwork.
+- **Girls' longer seclusion** (*iqhude / ukwemula*) — Extended seclusion in a painted room following iqude, ending with slaughter of goats whose hides are recalled in the jocolo's five flaps.
+- **Cattle transfer for marriage** (*lobola*) — Progressive installment of cattle from groom to bride's family, sometimes completed only after children are born, with bride's beaded trousseau assembled by her mother.
+- **Bringing back the dead as ancestor** (*ukubuyisa*) — A rite performed a year after funeral to formally install the deceased as an ancestor.
 
 ## Foodways
 
-Ndebele foodways center on maize porridge and sorghum beer, with relishes of wild greens, peanuts and occasional beef or goat on ceremonial occasions.
+The staple is maize porridge eaten with hand from a shared bowl, served with boiled greens and sour milk, with meat reserved for ritual occasions.
 
-- **Stiff maize porridge** (*iphalitjhi*) — Also called isitjhwala; the staple grain dish eaten with relish.
-- **Sorghum beer** (*umqombothi*) — A thick, low-alcohol sorghum-and-maize beer brewed by women in large clay pots over several days, essential to every ancestral offering, initiation and wedding.
-- **Sour milk curdled in calabash** (*amasi*) — Poured over crumbled porridge as a common household dish.
-- **Wild leaf relish** (*imbuya*) — Amaranth or pumpkin leaves cooked with peanuts as the characteristic relish for porridge.
+- **Stiff maize porridge** (*phuthu / isitjhwala*) — The daily base staple, eaten with the hand from a shared bowl, displacing sorghum and millet during the nineteenth and twentieth centuries.
+- **Boiled greens** (*imifino*) — Wild and cultivated greens including amaranth, pumpkin leaves and cowpea leaves, boiled and sometimes mashed into the porridge.
+- **Sour milk** (*amasi*) — Curdled milk stored in a calabash or hide bag, served with the daily porridge.
+- **Sorghum beer** (*umqombothi*) — Brewed by women from malted sorghum and maize meal, fermented in earthenware pots and strained through grass coils; the everyday sociable drink, medium of hospitality, and substance offered to ancestors.
 
 ## Oral tradition & literature
 
-The Ndebele oral corpus is dominated by genealogical praise-poetry (izibongo) preserving political history and by domestic folktales (iinganekwane) told by grandmothers.
+Oral genres follow the Nguni pattern: folktale cycles told by women, praise poetry for chiefs and royal lines, and proverbs used didactically.
 
-- **Genealogical praise-poetry** (*izibongo*) — Declamatory verse recited for chiefs and ancestors that preserves the history of the Musi succession, Ndzundza-Manala split, and the 1883 war.
-- **Domestic folktale genre** (*iinganekwane*) — Stories told by grandmothers to children, featuring the trickster hare, the ogre izimu, and animal-fable material shared with the wider Nguni tradition.
-- **Proverbs** (*iinkulumo ezisisekelo*) — Dense sayings heavily used in oratory and everyday speech.
+- **Folktale cycle** (*iinganekwane*) — Tales told by older women to children in the evening, frequently featuring the trickster hare and the ogre figure.
+- **Praise poetry** (*iimbongo*) — Declaimed by a praiser for chiefs and the Ndzundza royal line, reciting the succession of rulers and their regiments.
+- **Proverbs** (*iinlomani*) — Traditional sayings used didactically for teaching and wisdom.
+- **Clan praise-names** (*iimbongo zesibongo*) — Recited at ancestral offerings and at greeting, tied to clan identity.
 
 ## Language & religion
 
-IsiNdebele is a Nguni Bantu language and official South African language, coexisting with a religious life that layers ancestral veneration and Christian faith.
+IsiNdebele is a Nguni language with heavy borrowing from Northern Sotho; the religious landscape is predominantly Christian layered over unbroken ancestral practice.
 
-- **Ancestral spirit** (*amadlozi*) — Addressed through beer libations and animal sacrifice at the cattle byre, central to indigenous religious practice.
-- **Traditional diviner** (*inyanga*) — A practitioner working with bone-throwing and other divination methods to address spiritual concerns.
-- **Possession trance diviner** (*izangoma*) — A traditional spiritual mediator who works in trance state to communicate with ancestors.
-- **African Independent Church** — Zion Christian Church, Apostolic and Zionist congregations with white robes and drum-accompanied services, now the most numerous Christian expression.
+- **IsiNdebele language** — A Nguni language of the Bantu branch closely related to Zulu and Swati, written in Latin orthography and standardized on the Ndzundza variety.
+- **Sumayela Ndebele variety** — A separate and more Sotho-influenced variety spoken further north.
+- **Zion Christian Church** — An African Initiated Church with strong presence among Ndebele, whose Easter gathering at Moria draws Ndebele pilgrims.
+- **Ancestral propitiation** (*ukuphahla*) — Recurrent household ritual with sorghum beer and beast slaughter at the cattle byre, coexisting with church membership.
+- **Diviners and herbalists** (*izangoma / izinyanga*) — Consulted for illness, misfortune and the timing of rites.
 
 ## Glossary
 
-- *amadlozi* — Ancestral spirits addressed through ritual
-- *amasi* — Sour milk curdled in a calabash
-- *amasongo* — Stepped-triangle motif in mural and beadwork design
-- *icansi* — Grass sleeping mat
-- *iinganekwane* — Domestic folktales told by grandmothers
-- *iinkulumo ezisisekelo* — Proverbs used in oratory
-- *iintsimbi* — Tiny glass seed beads used in beadwork
-- *inyanga* — Traditional diviner working with bone-throwing
-- *iqhude* — Female puberty seclusion and initiation
-- *isiNdebele* — The Ndebele language, one of South Africa's official languages
-- *isigolwani* — Thick beaded doughnut-shaped hoops worn in stacks
-- *isiphephetu* — Beaded apron given at female coming-of-age seclusion
-- *isiqolo* — Rigid beaded or brass ring worn at the throat
-- *isitweletwele* — Mouth-resonated musical bow
-- *izangoma* — Diviner working in possession trance
-- *izibongo* — Genealogical praise-poetry recited for chiefs and ancestors
-- *izimu* — Ogre character in folktales
-- *jocolo* — Five-panel beaded goatskin apron worn by brides
-- *lighabi* — Small stiff beaded apron worn by girls before puberty
-- *linaga* — Long beaded train worn down the back from shoulders
-- *mapoto* — Two-panel stiffened apron worn by married women
-- *ukhamba* — Hand-coiled earthenware pot for beer or water
-- *ukugwala* — The house painting tradition, practised by women
-- *ukuphahla* — Ancestral veneration through beer libation and animal sacrifice
-- *umndwana* — Beaded fertility and initiation figure or doll
+- *ubuhlalu* — Beadwork, the core Ndebele medium
+- *jocolo* — Five-flapped beaded apron worn by married women
+- *mapoto* — Stiff rectangular beaded apron of the newly married woman
+- *linaga* — Goatskin apron form worn by girls and young women
+- *isiphephetu* — Beaded apron presented to an initiate at iqude
+- *nguba* — Married woman's woollen blanket laid with beaded bands
+- *isigolwani* — Grass or reed coils bound in beadwork worn stacked on body
+- *idzila* — Brass or copper neck, arm and ankle rings
+- *inyoga* — Beaded headband
+- *linga koba* — Shoulder train of twin beaded strips, meaning 'long tears'
+- *umuzi* — Homestead, the canvas for mural painting
+- *isiphephelo* — Curved entrance screen of a homestead
+- *intluzo* — Grass and palm-leaf coiled basket for straining beer
+- *umrhubhe* — Mouth-bow played by scraping with overtone whistling
+- *iphalaphala* — End-blown and side-blown animal-horn trumpet
+- *wela* — Boys' circumcision school and initiation rite
+- *ingoma* — Alternative term for wela, boys' circumcision school
+- *iqude* — Girls' first-menstruation seclusion rite
+- *ukuthomba* — Wedding song and girls' initiation repertoire
+- *iqhude* — Girls' extended seclusion following iqude
+- *ukwemula* — Alternative term for iqhude, girls' extended seclusion
+- *lobola* — Cattle transfer for marriage
+- *ukubuyisa* — Rite bringing the deceased back as an ancestor
+- *ukuphahla* — Ancestral propitiation with beer and beast slaughter
 
 ## Sources & further reading
 
-- Wikipedia, "Southern Ndebele people," "IsiNdebele," "Esther Mahlangu," "Ndzundza," "Manala."
-- Elizabeth Ann Schneider, *Paint, Pride and Politics: Aesthetic and Meaning in Transvaal Ndebele Wall Art* (Wits, doctoral thesis, 1986) and related articles.
-- Margaret Courtney-Clarke, *Ndebele: The Art of an African Tribe* (Rizzoli, 1986).
-- Peter Rich, *Ndebele Beadwork* and associated architectural studies.
-- Diane Levy, "Ndebele Beadwork," in *African Arts* (UCLA).
-- Aubrey Elliott, *The Ndebele: Art and Culture* (Struik, 1989).
-- South African Department of Arts and Culture, *isiNdebele National Language Body* publications.
-- UNESCO Intangible Cultural Heritage: no Ndebele-specific inscription to date; comparative reference to the regional *Isicathamiya* and *Southern African rock art* dossiers.
-- Esther Mahlangu monograph (Iziko South African National Gallery, 2024 retrospective catalogue).
+- Elizabeth Ann Schneider, Paint, Pride and Politics: Aesthetic and Meaning in Transvaal Ndebele Wall Art (doctoral thesis, University of the Witwatersrand, 1986)
+- Peter Rich & Margaret Courtney-Clarke, Ndebele: The Art of an African Tribe (Rizzoli, 1986)
+- Diana Fisher & Peter Magubane, Ndebele (Struik / New Holland, 1995)
+- Jean Morris & Eleanor Preston-Whyte, Speaking with Beads: Zulu Arts from Southern Africa (Thames & Hudson, 1994) — comparative Nguni beadwork context
+- Ivan Bargna & the Johannesburg Art Gallery collection catalogues on Ndzundza mural painting; Esther Mahlangu's documented commissions (BMW Art Car, 1991; British Airways, 1997)
+- https://en.wikipedia.org/wiki/Ndebele — disambiguation page; see also https://en.wikipedia.org/wiki/Southern_Ndebele_people and https://en.wikipedia.org/wiki/Southern_Ndebele_language
+- https://ich.unesco.org/en/state/south-africa-ZA — South Africa has no UNESCO Intangible Cultural Heritage inscriptions bearing on the Ndebele
+- https://folkways.si.edu/search?query=South+Africa+Ndebele
+- Victoria & Albert Museum collections: https://collections.vam.ac.uk/search/?q=Ndebele
+- The Metropolitan Museum of Art: https://www.metmuseum.org/art/collection/search?q=Ndebele
+- Rijksmuseum: https://www.rijksmuseum.nl/en/search?q=Ndebele
 

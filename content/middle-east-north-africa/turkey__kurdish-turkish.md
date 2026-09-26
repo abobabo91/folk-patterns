@@ -8,156 +8,168 @@ tags: [ethnography, middle-east-north-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Kurds, an Iranian-speaking people |
-| Where | Southeastern and eastern Turkey (Diyarbakır, Van, Mardin, Hakkari, Şırnak and adjoining provinces), with large diaspora populations in Istanbul, Ankara, İzmir and Adana |
-| How many | Roughly 15–20 million in Turkey, the largest single Kurdish national community worldwide |
-| Language | Kurmancî (Northern Kurdish) spoken by the great majority; Zazakî spoken in Tunceli and adjoining districts |
-| Religion | Majority Sunni Muslim (Shafi'i school); substantial Alevi minority in Dersim and other areas; Yezidi minority historically in Tur Abdin and borderlands |
-| Known for | Kilim flatweave textiles · Silver jewelry with turquoise and coral · Govend line dance · Dengbêj narrative singers · Epic poetry including Mem û Zîn |
+| Who | The Kurds of Turkey, the country's largest ethnic minority |
+| Where | Eastern and southeastern Turkey: the highlands around Lake Van, Mount Ararat, the Hakkari mountains, the Botan and Great Zab valleys, the Tigris plain at Diyarbakır, and the Dersim highlands |
+| How many | Between 12.6 and 25 million, roughly 15–25% of Turkey's population |
+| Language | Kurmanji (Northern Kurdish), a Northwest Iranian language; some speak Zazaki |
+| Religion | Mostly Sunni Muslim of the Shafi'i school; significant Alevi minority in Dersim; small Yezidi communities |
+| Known for | Flatweave kilims (Van, Hakkari, Botan, Serhat) with bold geometric patterns · Silver jewelry with granulation, filigree and turquoise · The dengbêj oral epic tradition and the national epic Mem û Zin · Govend line dancing at weddings and Newroz celebrations · Pastoral transhumance and felt-making in high mountain country |
 
 ## Overview
 
-Turkish Kurds are an Iranian-speaking mountain people of southeastern Anatolia with a long history stretching back through medieval tribal confederations and emirates. Their culture centres on pastoral and highland lifeways, expressed through distinctive flatweave textiles, silver jewelry, music and dance. They are majority Sunni Muslim with significant Alevi and Yezidi minorities, and speak Kurmancî or Zazakî in a Latin-based alphabet.
+The Kurds are Turkey's largest ethnic minority, concentrated in the volcanic highlands and plains of the east and southeast. A century of official denial — Kurds were called 'Mountain Turks' until 1991 — pushed cultural knowledge into song, textiles and oral storytelling rather than print. Pastoral life in difficult mountain country preserved ancient weaving and silverwork into modern times. Today they speak Kurmanji, follow Sunni Islam (mostly Shafi'i school), and maintain a rich tradition of dance, music and narrative.
 
 ## Material culture
 
-Kurdish material culture reflects highland-pastoral life and regional mountain craft traditions, from wool textiles and leather saddlebags to hand-forged metalwork and carved wooden objects.
+Kurdish material culture is dominated by textiles, metal and wood — flatweaves, felt, copper work and carved implements — rather than pottery or ceramics.
 
 ### Textile & pattern traditions
 
-Kilim flatweave is the signature Kurdish textile, with distinct regional schools known by place and distinctive motifs.
+Kurdish flatweaves from different regions — Van, Hakkari, Botan, Serhat — are distinguished by their ground colours, scale and motifs, all woven on horizontal looms.
 
-- **Van kilim** (*kilim*) — Deep madder-red ground with stepped hexagonal medallions and paired ram's-horn hooks, woven on horizontal ground looms.
-- **Hakkari kilim** (*kilim*) — Narrow weaves often in two seamed panels with dense small-scale diamond fields, from the high Zab valleys near the Iraqi border.
-- **Botan kilim** (*kilim*) — Bold vertical stripe compositions with hands-on-hips goddess figures and triangular amulet rows from the Cizre-Şırnak-Siirt triangle.
-- **Kurdish carpet** (*xalî*) — Pile-knotted rugs in the Turkish knot with multi-medallion and diamond-lattice designs from Van, Hakkari and Bitlis.
-- **Kurdish felt** (*kulav, lebbade*) — Hand-rolled sheep-wool felt used for shepherd's cloaks with exaggerated shoulders, prayer rugs, and yurt covers.
+- **Van kilim** (*kilim*) — Slitweave flatweaves from the Lake Van basin in madder red, indigo and undyed wool, with large hooked medallions and heavy latch-hook borders.
+- **Hakkari kilim** (*kilim*) — Dark-ground weaves from the highest Kurdish districts with dense small-scale geometry and cicim brocading, among the most saturated in colour of all Anatolian flatweaves.
+- **Kurdish saddlebag** (*heybe*) — Double-pouch bags for donkey or shoulder, woven in sumak or cicim with matched paired faces and distinctive woven loop closures.
+- **Kurdish felt** (*keçe*) — Beaten wool felt in coloured motifs, used for shepherds' capes, prayer mats and tent linings, with the design integral rather than applied.
+- **Supplementary-weft brocading** (*cicim*) — Motif worked over a plainweave ground so it stands proud of the surface, used for saddlebags and grain sacks.
 
 ### Clothing & dress
 
-Men wear matching wide-cut trousers and short jacket in handwoven twill with a long sash and fringed turban scarf; women wear full-length dresses with embroidered waistcoats and headscarves.
+Men wear baggy trousers and a short jacket with a long sash, wrapped in a fringed turban cloth; women wear layered long dresses with coins and embroidery on the headdress.
 
-- **Şal û şapik** — Men's suit of matching wide-cut trousers and short jacket in heavy handwoven mohair-and-wool twill, historically made around Şırnak and Siirt.
-- **Pêştemal sash** (*pêştemal, şûtik*) — Long narrow woven silk or cotton sash wound many times around the waist to carry a dagger, tobacco and tools.
-- **Cemedanî turban** (*cemedanî, keffiye*) — Fringed square scarf of black-and-white or red-and-white silk twisted into a turban, with specific twists identifying region and tribe.
-- **Kiras dress** (*kiras, fistan*) — Women's long-sleeved full-length dress often layered with light cotton under-dress and velvet over-dress, worn with embroidered waistcoat and wide sash.
-- **Taj bridal crown** (*taj*) — Domed crown hung with coin pendants and silver chains falling across the forehead and temples, worn under the headscarf.
+- **Men's tunic and trousers** (*şal û şapik*) — Baggy trousers gathered at the ankle and short matching jacket cut from handwoven wool, worn with a long wound sash.
+- **Turban cloth** (*kefî or cemedanî*) — A fringed cotton or silk cloth twisted around a stiff felt cap, with fringe left hanging at the temple.
+- **Women's dress** (*kiras*) — A long gathered dress worn over baggy trousers, layered with a sleeveless or open-fronted velvet or silk coat.
+- **Hand-stitched shoe** (*klash*) — Shoes with cotton-thread uppers and sole built from compressed cloth and hide, made for rocky mountain terrain.
+- **Headdress with coins** (*çarşev*) — A stack of scarves over a skullcap hung with coins, sequins and crocheted floral edging, multiplied in ceremonial dress with gold couching.
 
 ### Architecture
 
-Highland villages use local stone adapted to climate, from semi-subterranean basalt houses on volcanic plateaux to terraced stone-and-timber houses in mountain valleys.
+Highland villages use dry-laid fieldstone with flat earth roofs that serve as threshing floors and sleeping terraces; the Tigris plain has courtyard houses of alternating black basalt and pale limestone.
 
-- **Volcanic plateau house** — Semi-subterranean flat-roofed house of dry-laid basalt with heavy earth-covered roofs and central smoke-hole, on the plateaux of Muş, Ağrı and Kars.
-- **Diyarbakır urban house** — Built of alternating courses of black basalt and pale limestone with a colonnaded iwan opening onto an interior courtyard with fountain and pomegranate trees.
-- **Hakkari mountain house** — Stone-and-timber houses clustered in terraces up the mountainside, with one house's roof serving as the next house's courtyard.
-- **Goat-hair pastoral tent** (*reş mal*) — Black goat-hair tent pitched on wooden poles with reed-screen side walls, decorated with woven storage bags stacked at the rear.
+- **Highland village house** — Stone houses with flat earth roofs carried on poplar beams, stepped into slopes, combining a hearth room, stable wing and tandır bread pit.
+- **Summer pasture tent** (*kon*) — A black goat-hair tent used during the move to high summer pasture.
+- **Wind shelter** (*çît*) — A reed-screen windbreak used in summer pastures.
+- **Diyarbakır courtyard house** — Houses in alternating courses of black basalt and pale limestone with an open summer eyvan facing north and an arcaded hayat around a central courtyard.
+- **Hoşap Castle** — A fortress strengthened by the Mahmudi chief Sarı Süleyman Bey in 1643, a surviving monument of Kurdish tribal lordship near Van.
 
 ### Ceramics, metalwork & everyday objects
 
-Metalwork is the signature craft, while ceramics are minor; villages historically bought glazed ware at bazaars but made their own unglazed storage jars.
+Copper is the defining medium for cooking and serving vessels; woodwork in poplar and walnut is carved for household use; pottery is bought from other Anatolian centres.
 
-- **Cizre brass and bronze** — Chased and inlaid work from the Artuqid period, including the famous twelfth-century door-knockers and later engraved copper trays and long-spouted ewers.
-- **Silvan and Bitlis metalwork** — Silvan smiths worked engraved copper trays and coffee mortars; Bitlis produced chased silver belts and dagger fittings.
-- **Kurdish long knife** (*şûr, xencer*) — Curved single-edged blade with horn or bone hilt bound in silver wire, a standard male accoutrement into the twentieth century.
-- **Carved cradle** (*dergûş*) — Wooden cradle carved for everyday use alongside low round eating tables, tall butter churns and inlaid dowry chests.
+- **Tinned copper tray** (*sini*) — A hammered and chased copper tray with rosettes and inscription bands, made by Diyarbakır and Siirt coppersmiths.
+- **Copper cauldron** (*qazan*) — A large hammered copper pot for cooking, decorated with rosettes and bands of inscription.
+- **Bread tool** (*tandır*) — A deep copper tool used in tandır pit ovens, hammered and chased with ornament.
+- **Carved spindle** (*destar*) — A walnut or poplar spindle, decoratively carved, used in wool processing.
+- **Buttermilk churn** (*meşk*) — A goat-skin bag used for churning yoghurt and storing salted buttermilk.
 
 ### Jewelry & body adornment
 
-Kurdish jewelry is silver-dominant with cast, chased and granulated components set with turquoise, carnelian, coral and Ottoman gold coins.
+Kurdish silver work is the region's signature, featuring granulated filigree, niello and repoussé inlay, with turquoise, carnelian and coloured glass.
 
-- **Temple pendant** (*guşvare*) — Coin-hung temple pendants worn with the bridal ensemble, hanging from the temples across the face.
-- **Wide hinged bracelet** (*bazin, bazinek*) — Heavy silver bracelet worn as part of the everyday and bridal jewelry repertoire.
-- **Triangular amulet case** (*muska*) — Silver case containing a written prayer or verse, worn on a chain across the chest for protection.
-- **Silver filigree work** (*telkarî*) — Fine drawn silver wire soldered into openwork panels, the specialty of Midyat in Mardin province, still a living workshop tradition.
-- **Henna night** (*şeva hene*) — Henna is applied to the bride's hands and feet the eve of the wedding, an occasion for women's line-song and lament.
+- **Hinged cuff bracelet** (*bazin*) — A heavy silver bracelet with openwork and gemstone inlay, worn as dowry property by women.
+- **Amulet case** (*tumar*) — A cylindrical silver case worn on a cord to hold a written Qur'anic text for protection.
+- **Multi-strand coin necklace** — A display of silver coins strung together, worn as dowry jewellery and convertible wealth.
+- **Headdress ornaments** — Coin chains, temple pendants and forehead bands in silver, worn as individually owned dowry property.
+- **Henna application** (*hene*) — Henna applied to the bride's hands and feet and the groom's little finger the night before the wedding.
 
 ## Music & performance
 
-Kurdish music centers on the dengbêj solo singer performing long narrative and epic from memory, accompanied by pastoral flutes, lutes and drums.
+The long-necked lute is the core instrument; the dengbêj tradition of unaccompanied solo narrative singing carries epics and laments for hours in the guest room.
 
-- **Dengbêj** — Solo unaccompanied singer who performs long narrative kilam and stran, epic, lament and love complaint from memory, historically centred on Van and Muş.
-- **Pastoral flute** (*bilûr, şimşal*) — Long end-blown flute, the core instrument of pastoral Kurdistan, used to accompany shepherd's melody sung to the open pasture.
-- **Long-necked lute** (*tembûr*) — Sacred instrument in Alevi and Yaresan practice, used to accompany sacred hymns and mystical verse.
-- **Wedding and dance ensemble** (*zurna, dahol*) — Double-reed shawm paired with large double-headed drum, the standard ensemble for weddings and govend across all Kurdish regions.
+- **Long-necked lute** (*tembûr*) — The core instrument of Kurdish music, played by composer-vocalists like Şivan Perwer, founder of politically engaged Kurdish song.
+- **Shepherd's flute** (*bilûr*) — An end-blown flute played by shepherds.
+- **Unaccompanied narrative singing tradition** (*dengbêj*) — Highly ornamented solo singing of battles, feuds, elopements and laments, performed in the dîwan guest room for hours.
+- **Shawm and double-headed drum** (*zurna and dehol*) — Paired instruments used for outdoor dance music at weddings and celebrations.
+- **Women's funeral lament** (*şîn*) — A sung antiphonal lament performed by kinswomen at death and commemoration.
 
 ## Dance & theatre
 
-The govend line dance in open circle with linked hands, led by a figure-caller, is the signature Kurdish social form performed at all gatherings.
+The linked line or circle dance govend, led by a sergovend with a handkerchief, is the dominant form, danced at weddings, circumcisions and Newroz.
 
-- **Govend line dance** (*govend, halay, dîlan*) — Linked-hand or linked-little-finger open circle led by the sergovend with a coloured handkerchief signalling figure changes by wrist flick.
-- **Regional govend repertoires** (*delîlo, çepikî, govenda Botan*) — Named by step-count or home district, including the fast three-step govenda Botan, performed at weddings, Newroz and village gatherings.
-- **Sung dispute** (*berhevdan*) — Improvised sung dispute, an older performative genre alongside dengbêj recital and shadow-play.
+- **Line dance** (*govend*) — A linked line or open-circle dance with a driving stamped step, held hand-in-hand or hand-on-shoulder, led by a sergovend.
+- **Diyarbakır variant** (*Delîlo*) — A named regional variant of govend from the Diyarbakır–Bitlis belt.
+- **Fast variant** (*Geryan*) — A fast-paced named variant of the govend dance.
+- **Solo improvisation** (*dilan*) — A solo dance improvisation distinct from the linked line govend.
+- **Alevi devotional turning dance** (*semah*) — A slow turning dance of the Dersim highlands performed to saz accompaniment at the cem gathering, ritual rather than entertainment.
 
 ## Festivals & rituals
 
-Newroz at the spring equinox is the great annual festival with bonfires and mass gatherings; Islamic holidays and life-cycle rituals are widely observed.
+Newroz on 21 March is the pivotal event — new year, spring equinox, and the largest annual gathering of Kurdish identity marked by hilltop bonfires and mass picnics.
 
-- **Newroz spring festival** (*Newroz, Nawrûz*) — Iranian New Year on 21 March celebrated by lighting bonfires, leaping flames, wearing national dress and mass outdoor gatherings, inscribed on UNESCO Intangible Cultural Heritage list.
-- **Islamic holidays** (*Remezan, Cejna Remezanê, Cejna Qurbanê*) — Ramadan and two Eids observed in standard Sunni manner by the Muslim majority.
-- **Alevi ritual gathering** (*cem*) — Ritual gathering of Alevi Kurds under leadership of a dede, with twelve-day Muharrem fast and sacred semah dance.
-- **Yezidi pilgrimage** (*Cejna Cemaiyye, Çarşema Sor*) — Autumn pilgrimage to Lalish shrine complex and Red Wednesday in April marking the descent of Tawûsî Melek to earth.
-- **Circumcision feast** (*sunet*) — Multi-day celebration marking a boy's circumcision, one of several widely-observed life-cycle rituals including naming, wedding and forty-day post-partum seclusion.
+- **Spring new-year festival** (*Newroz*) — Celebrated on 21 March with hilltop bonfires leapt by young men, new clothes, mass picnics and explicit political charge as a gathering of Kurdish identity.
+- **Move to summer pasture** (*zozan*) — The spring movement to high pasture, marked by feasting and celebration.
+- **Ram release in autumn** (*beran berdan*) — The release of rams to the flock in autumn, marked by feasting.
+- **Circumcision celebration** (*sunet*) — A public feast with zurna music and govend dancing, marking a boy's circumcision.
+- **Marriage process** — A multi-stage process including xwazgînî (formal asking), nîşan (engagement), şîranî (sweets exchange), hene night (henna and women's song) and the bride's procession to her husband's house.
 
 ## Foodways
 
-Highland-pastoral cuisine centres on wheat, dairy, lamb and wild greens, with distinctive dishes built from bulgur, flatbread and salt-cured dairy products.
+Wheat flatbread baked in a tandır pit is the base; signature dishes use bulgur with spiced mutton; sheep and goat dominate over beef; dairy is the pastoral core.
 
-- **Bulgur pilaf** (*savar*) — Bulgur prepared as pilaf, as the outer shell of stuffed kibbeh dumplings, and pounded raw with lamb and pepper paste in the Botan region.
-- **Flatbread** (*nan-i sêl, nan-i tenûrê*) — Baked daily on a domed griddle or in a clay oven, the staple bread of the Kurdish diet.
-- **Herbed goatskin cheese** (*tulum*) — Herbed cheese cured in a goatskin, most famously as Van otlu peyniri studded with wild alliums and garlic-mustard.
-- **Slow-cooked sheep's head** (*serê pez*) — Signature dish of slow-cooked sheep's head, one of several distinctive meat preparations including wheat-and-mutton porridge and stuffed lamb intestine.
-- **Bitter coffee** (*mirra*) — Very bitter unfiltered coffee of the Botan region, a formal welcome drink among older men.
+- **Wheat flatbread** (*nan*) — Bread baked against the wall of a tandır pit, the base of daily diet.
+- **Bulgur shells stuffed with meat** (*kutilk*) — Bulgur shells filled with spiced mutton and onion, boiled or fried.
+- **Hot yoghurt soup** (*dowjik*) — Yoghurt soup thickened with rice or wheat and wild greens.
+- **Dried meat preserved in fat** (*qawirme*) — Preserved mutton or lamb kept in its own fat as winter provision.
+- **Herb-veined cheese** (*tîr*) — A sheep cheese with veined herbs, part of the pastoral dairy tradition.
 
 ## Oral tradition & literature
 
-The rich oral tradition forms the deep matrix for written literature, centred on epic narratives and lyric poetry performed by dengbêj and circulated in classical written forms.
+The national epic Mem û Zin, a tragic romance composed by Ahmad Khani in 1692, is read as an allegory of a divided Kurdish nation and still recited by dengbêj.
 
-- **Mem û Zîn** — The core epic of tragic love between Mem of the Alan and Zîn of the Botan, rendered into classical masnawî by Ehmedê Xanî but circulating for centuries in dengbêj recitation.
-- **Siyabend û Xecê** — Romeo-and-Juliet narrative cycle set on Mount Süphan, one of several great narrative cycles in oral circulation.
-- **Classical Kurdish poetry** (*dîwan*) — Poetry beginning with Elî Herîrî in the 11th century and maturing with Melayê Cizîrî's Dîwan, a masterpiece of mystical verse in the ghazal form.
-- **Alevi and Yezidi hymns** (*deyîş, nefes, qewl*) — Religious poetry performed in ritual contexts, forming parallel oral canons to the secular tradition.
-- **Lullabies** (*lorî*) — Tightly rhymed domestic lullabies, rounding out the family repertoire alongside proverbs and riddles.
+- **National epic** (*Mem û Zin*) — A tragic romance of two lovers of rival clans composed by Ahmad Khani in 1692, read as an allegory of a divided Kurdish nation.
+- **Mountain-hunt romance** (*Siyabend û Xecê*) — An epic of mountain hunting still recited in fragments by dengbêj.
+- **Fortress epic** (*Dimdim*) — An epic of fortress warfare in the oral tradition.
+- **Sixteenth-century history** (*Sharafname*) — Written by Sharafkhan Bidlisi, a history of the Kurdish principalities.
+- **Early Kurdish poet** (*Ali Hariri*) — From the Hakkari region (1425–1495), held by some sources to be the first well-known poet writing in Kurdish.
 
 ## Language & religion
 
-Turkish Kurds speak Kurmancî or Zazakî in the Bedirxan Latin alphabet; they are majority Sunni Muslim with significant Alevi and Yezidi minorities.
+Kurmanji is the mother tongue of the great majority, written in Latin alphabet; most Kurds are Sunni of the Shafi'i school, with significant Alevi and small Yezidi minorities.
 
-- **Kurmancî language** (*Kurmancî*) — Northern Kurdish, the language of the great majority, written in the Bedirxan Latin alphabet developed in the 1930s.
-- **Zazakî language** (*Zazakî, Dimilkî, Kirmanckî*) — Distinct northwestern Iranian language spoken in Tunceli and adjoining districts, not fully mutually intelligible with Kurmancî.
-- **Sunni Islam** (*Shafi'i*) — Majority religion, following the Shafi'i legal school and historically dominated by Naqshbandi and Qadiri Sufi orders with tekkes as piety and learning centers.
-- **Alevism** (*Alevi*) — Substantial minority concentrated in Dersim, Bingöl, Muş and Kars, with own cem ritual, dede clerical lineages and semah sacred dance.
-- **Yezidism** (*Êzidî*) — Syncretic religion centred on Tawûsî Melek and the shrine complex at Lalish, historically present in Tur Abdin but mostly emigrated to Germany in late twentieth century.
+- **Kurdish language** (*Kurmanji*) — A Northwest Iranian language spoken by roughly 92% of those identifying as Kurdish in eastern regions, written in the Hawar Latin orthography.
+- **Sufi orders** — Naqshbandi and Qadiri orders were historically powerful, including the Sheikh Said rebellion led by a Naqshbandi shaykh in 1925.
+- **Alevi minority tradition** (*Alevism*) — Concentrated in Dersim/Tunceli among Zazaki speakers, with its own cem assembly, dede clergy, semah dance and Xizir fast.
+- **Minority language** (*Zazaki*) — Spoken by a minority of Kurds, primarily in Alevi Dersim areas.
+- **Religious minority** (*Yezidi*) — Small communities with Sheikh Adi–centred faith and textile traditions, surviving in Batman and Şanlıurfa after emigration to Germany.
 
 ## Glossary
 
-- *kilim* — slit-tapestry flatweave textile woven on horizontal ground looms
-- *gol* — medallion or circular motif in textile design
-- *muska* — triangular amulet case containing prayer or verse
-- *dengbêj* — solo unaccompanied singer of narrative and epic
-- *kilam* — long narrative song performed by dengbêj
-- *govend* — line dance in open circle with linked hands
-- *sergovend* — leader of the govend line dance
-- *zurna* — double-reed shawm
-- *dahol* — large double-headed drum
-- *tembûr* — long-necked lute, sacred in Alevi practice
-- *bilûr* — long end-blown pastoral flute
-- *Newroz* — Iranian New Year celebrated at spring equinox
-- *cem* — Alevi ritual gathering under a dede
-- *dede* — Alevi spiritual leader with hereditary status
-- *Êzidî* — Yezidi, follower of syncretic religion centred on Tawûsî Melek
-- *Kurmancî* — Northern Kurdish language
-- *Zazakî* — distinct northwestern Iranian language spoken in Tunceli
+- *kilim* — Slitweave flatweave rug or tapestry
+- *cicim* — Supplementary-weft brocading that stands proud of the plainweave ground
+- *sumak* — Wrapped-weft weaving with dense embroidery-like face
+- *heybe* — Double-pouch saddlebag for donkey or shoulder
+- *keçe* — Beaten wool felt
+- *şal û şapik* — Baggy trousers and short jacket in handwoven wool
+- *kefî or cemedanî* — Fringed turban cloth wrapped over a stiff felt cap
+- *klash* — Hand-stitched shoes with cotton thread and compressed cloth sole
+- *kiras* — Long gathered dress
+- *tandır* — Underground bread oven or deep cooking tool
+- *kon* — Black goat-hair tent used in summer pastures
+- *dengbêj* — Tradition of unaccompanied solo narrative singing of epics and laments
+- *tembûr* — Long-necked lute, core instrument of Kurdish music
+- *govend* — Linked line or circle dance with stamped step, led by a sergovend
+- *semah* — Slow turning devotional dance of Alevi tradition
+- *Newroz* — Spring new-year festival on 21 March, celebrated with bonfires and gatherings
+- *cem* — Alevi religious gathering and ritual assembly
+- *hene* — Henna application, especially at weddings
+- *bazin* — Hinged cuff bracelet in silver, worn as dowry
+- *tumar* — Cylindrical amulet case worn on a cord for Qur'anic text
+- *meşk* — Goat-skin bag used for churning yoghurt
+- *zurna* — Double-reed shawm for outdoor dance music
+- *dehol* — Double-headed drum paired with zurna
 
 ## Sources & further reading
 
-- Wikipedia: *Kurds*, *Kurds in Turkey*, *Kurdish languages*, *Kurmanci*, *Zaza language*, *Kurdish literature*, *Mem and Zin*, *Dengbêj*, *Kurdish clothing*, *Kurdish carpets and kilims*, *Yazidis*, *Alevism*, *Newroz*.
-- UNESCO Representative List of the Intangible Cultural Heritage of Humanity: *Nowruz / Newroz* (multinational, inscribed 2009 / extended 2016).
-- UNESCO World Heritage: *Diyarbakır Fortress and Hevsel Gardens Cultural Landscape* (inscribed 2015).
-- Bruinessen, Martin van. *Agha, Shaikh and State: The Social and Political Structures of Kurdistan* (Zed, 1992).
-- Bruinessen, Martin van. *Mullas, Sufis and Heretics: The Role of Religion in Kurdish Society* (Isis, 2000).
-- Allison, Christine. *The Yezidi Oral Tradition in Iraqi Kurdistan* (Curzon, 2001).
-- Kreyenbroek, Philip G. & Sperl, Stefan (eds.). *The Kurds: A Contemporary Overview* (Routledge, 1992).
-- Eagleton, William. *An Introduction to Kurdish Rugs and Other Weavings* (Interlink, 1988).
-- Izady, Mehrdad. *The Kurds: A Concise Handbook* (Taylor & Francis, 1992).
-- Scalbert-Yücel, Clémence. *Engagement, langue et littérature: le champ littéraire kurde en Turquie* (Karthala, 2014).
+- Martin van Bruinessen, Agha, Shaikh and State: The Social and Political Structures of Kurdistan, Zed Books, 1992
+- David McDowall, A Modern History of the Kurds, I.B. Tauris, 3rd edn 2004
+- William Eagleton, An Introduction to Kurdish Rugs and Other Weavings, Interlink Books, 1988
+- Christine Allison, The Mountains Are Our Fathers: Yezidi Oral Tradition in Iraqi Kurdistan, Curzon Press, 2001
+- Amy de la Haye & Dinah Eastop et al. on Anatolian flatweave documentation; Josephine Powell's photographic archive of Anatolian nomadic weaving (Koç University, Istanbul); Dieter Christensen on Kurdish music of Hakkari; Ulrich Marzolph and Mehrdad Izady on Kurdish oral narrative
+- https://en.wikipedia.org/wiki/Kurds_in_Turkey
+- https://ich.unesco.org/en/lists
+- https://folkways.si.edu/search?query=Kurdish
+- https://collections.vam.ac.uk/search/?q=kurdish
+- https://www.metmuseum.org/art/collection/search?q=kurdish
+- https://www.britishmuseum.org/collection/search?keyword=kurdish
 

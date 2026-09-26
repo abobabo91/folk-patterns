@@ -8,162 +8,165 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Oromo, a Cushitic-speaking people of the Horn of Africa |
-| Where | Ethiopia and northern Kenya, from the Wollo escarpment in the north to the Somali frontier in the east |
-| How many | 40–45 million |
-| Language | Afaan Oromoo (Oromiffa), written in Qubee Latin-based alphabet since 1991 |
-| Religion | Traditional Waaqeffannaa (monotheistic sky-god worship), with significant Muslim, Christian Orthodox, and Protestant populations |
-| Known for | Gadaa: an eight-year age-grade democratic system inscribed by UNESCO as Intangible Cultural Heritage · Pastoral craftsmanship in leather, beadwork, and milk vessels · Horseman-warrior aesthetic with hide shields and silver ornaments · Irreecha thanksgiving festival at sacred lakes · Siiqqee: women's ritual staff embodying female authority |
+| Who | The Oromo, a Cushitic-speaking people |
+| Where | Ethiopian highlands and Rift Valley plains, with communities in Kenya |
+| How many | About 40 million in Ethiopia (35.8% of the population), plus 650,000 in Kenya |
+| Language | Afaan Oromoo, the fourth-most spoken language in Africa |
+| Religion | Half Sunni Muslim, one-third Ethiopian Orthodox, remainder Protestant or Waaqeffannaa |
+| Known for | Gadaa, the eight-year generational political system · Pastoral material culture of hide, horn and beadwork · Highland cotton weaving with colored tibeb borders · Irreecha thanksgiving festival at lakeshores · Geerarsa boasting-poetry and political protest song |
 
 ## Overview
 
-The Oromo are Africa's largest ethnic group in Ethiopia, numbering 40–45 million across highland and lowland regions. Historically pastoralist, they expanded northward from the sixteenth century through the gadaa age-grade system. Today they are divided into regional confederacies—Borana, Guji, Arsi, Macha, Tulama, and others—each with distinct dialects and material practices. Their material culture emphasizes pastoral craftsmanship, democratic ritual, and a rich warrior aesthetic.
+The Oromo are the third-largest ethnic group in Africa, numbering 40 million across the Ethiopian highlands and plains. Their culture is defined by Gadaa, an eight-year political and social system that orders ritual and craft patronage, and by a material world blending pastoral traditions of hide and beadwork with highland agricultural textiles. They speak Afaan Oromoo and practice a mix of Islam, Christianity, and the indigenous Waaqeffannaa faith.
 
 ## Material culture
 
-Oromo material culture reflects the highland-lowland split: restrained woven textiles in agricultural areas, but leather, beadwork, and smoked milk vessels dominating in the pastoral south.
+Oromo material culture divides between pastoral crafts of leather, horn and beadwork and highland woven textiles, unified by distinctive geometric patterns and the use of cowrie shells and colored stripes.
 
 ### Textile & pattern traditions
 
-Oromo weaving is restrained, focusing on plain handwoven cotton from horizontal ground looms, with coloured borders shared with neighboring highland peoples.
+Highland Oromo weavers produce heavy white cotton cloth distinguished by broad colored warp-stripe borders called tibeb.
 
-- **Cotton wrap** (*wayyaa*) — Everyday garment woven in narrow strips and joined selvedge to selvedge, sometimes with embroidered red, green and gold borders.
-- **Light shawl** (*shamma*) — Highland textile shared with Amhara and Gurage, worn across northern Wollo and Rayya Oromo.
-- **Fine double-layer shawl** (*netela*) — Finer highland wrap worn by northern Oromo.
-- **Heavy blanket wrap** (*kuta*) — Blanket-weight textile of the highland repertoire.
-- **Coloured border** (*tibeb*) — Woven or embroidered geometric border stripe on cotton wraps, typically in red, green and gold.
+- **Tibeb border** (*tibeb*) — Colored warp stripes woven into cloth, typically in broad bands of red, green and black.
+- **Thick highland mantle** (*bulluko*) — A thick double-layer cotton mantle worn by highland men in cold mountain regions.
+- **Everyday cotton wrap** (*gabi*) — A lighter plain-woven cotton garment, the everyday equivalent of the bulluko.
+- **Coiled grass baskets** (*basketry*) — Lidded conical baskets with geometric bands made by alternating dyed and undyed coil-wrapping, typically red and black.
+- **Sisal fiber baskets** (*sisal*) — Fiber baskets related to Harari and Somali coiled traditions but with a squatter profile.
 
 ### Clothing & dress
 
-Oromo dress varies sharply by region: highland warriors wear long cotton shirts with daggers and maned headdresses; southern pastoralists wear wrapped cloth and leather skirts densely covered in beads and cowries.
+Highland men wear cotton tunic and trousers under a bulluko or gabi, while pastoral women wear leather qolloo skirts densely beaded with cowries and glass beads.
 
-- **Leather skirt** (*qollo*) — Supple goatskin or cowhide apron, scraped, oiled with butter, and densely covered in cowrie shells and glass beads, worn by women in pastoral areas.
-- **Lion-mane headdress** (*gaaddisa*) — Warrior ornament worn on horseback by highland Oromo men as a mark of proven combat skill.
-- **Ritual staff** (*siiqqee*) — Slender wand of African olive wood carried by married women as emblem of the married estate and instrument of female ritual authority to sanction against male abuse.
-- **Tall turban cloth** (*surrii*) — Distinctive headwrap worn by southern Oromo gadaa office-holders.
-- **Ceremonial shawl** (*gabi*) — Shoulder-slung wrap worn by highland Oromo men.
+- **Leather skirt and cape** (*qolloo*) — A scraped and smoked goat or sheepskin garment covered in dense cowrie shells, glass beads and metal studs, worn by pastoral women.
+- **Female authority stick** (*siiqqee*) — A slender ritual stick of harooressa wood carried by married women as the token of female authority, never surrendered.
+- **Forehead frontlet** (*kalaacha*) — A phallic ivory or metal ornament strapped to the forehead, marking a man who has attained ritual seniority.
+- **Beaded ornament complex** (*callee*) — Strung glass beads, cowries and amber worn in collars and headbands, with configurations reserved for married women.
 
 ### Architecture
 
-Highland Oromo build permanent circular wattle-and-daub houses with conical thatched roofs; southern pastoralists inhabit portable dome-frame huts that dismantle and relocate with the camp.
+The Oromo dwelling is a round single-roomed house with mud-and-wattle walls and conical thatched roof, while pastoralists build portable dome structures of bent saplings.
 
-- **Circular highland house** (*mana citaa*) — Wattle-and-daub or dry-stone dwelling with conical thatched roof supported on a central post, arranged in family compounds.
-- **Portable pastoral hut** (*mana or dasse*) — Dome-frame structure built by women from bent saplings and covered with sisal mats, hides, or sacking, dismantled and moved by camel or donkey.
-- **Pastoral camp** (*olla*) — Ritually oriented settlement with gate facing east, senior man's hut opposite, and calf enclosure at centre.
-- **Sacred assembly ground** (*odaa*) — Ancient sycamore fig tree under which the gadaa gumii convenes for political-ritual business.
-- **Hand-cut well** (*ella*) — Borana rangelands feature 'singing wells' up to thirty metres deep, worked by human chains chanting cattle names while passing water hand-to-hand.
+- **Sycamore fig assembly ground** (*odaa*) — A great sycamore fig tree serving as the Gadaa council meeting place, with the ground cleared and ringed by seating stones.
+- **Deep hand-cut wells** (*tula*) — Nine clusters of singing wells in Borana territory descended by a human chain of men passing leather buckets while singing.
+- **Portable pastoralist house** (*dome*) — A lightweight structure of bent saplings covered with grass mats and hides, dismantled and loaded on camels when herds move.
 
 ### Ceramics, metalwork & everyday objects
 
-The defining Oromo everyday object is the smoked milk vessel; leatherwork and iron-smithing produce shields, daggers, and status markers.
+Pottery is a woman's hand-built coiled craft, while woodwork and metalwork are male crafts producing high-status objects like the bokkuu sceptre and carved headrests.
 
-- **Cylindrical milk vessel** (*gorfa*) — Tightly coiled root fibre vessel sewn densely to hold liquid, smoked over aromatic wood to sterilise, stoppered with woven grass cap.
-- **Gourd-shaped milk vessel** (*okolee*) — Household treasure marking wealth and honour in Borana tradition, smoked for characteristic milk tang.
-- **Low stool-headrest** (*borkocho*) — Four-legged wooden seat carved from a single block, doubling as pillow and status marker for southern pastoralists.
-- **Domed hide shield** (*gaachana*) — Historically made of buffalo, hippopotamus or rhinoceros hide, embossed with ribs and studded with silver or brass bosses, carried by mounted war leaders.
-- **Curved dagger** (*billaawaa*) — Iron blade forged by tumtuu smiths.
+- **Wooden sceptre** (*bokkuu*) — A ridged wooden or metal sceptre held by the Abbaa Gadaa and passed to his widow at his death.
+- **Carved headrest** (*boraatii*) — A small single-piece hardwood stool-headrest used by herders to sleep without disturbing a buttered hairstyle.
+- **Burnished coffee pots** (*pottery*) — Black hand-coiled pots for coffee and roasting, open-fired without a wheel.
+- **Milk and honey containers** (*okolee, gorfoo*) — Carved wood or woven fiber vessels sealed with butter, smoked with olive-wood, and bound with leather thongs and cowrie rings.
+- **Curved spear blade** (*billaawaa*) — A curved iron blade forged by smiths who formed an endogamous occupational group.
 
 ### Jewelry & body adornment
 
-Oromo jewellery centres on strings of coloured glass, amber and cowrie beads, silver pendants and amulets, and corporeal decoration with butter, ochre and tattooing.
+Women wear elaborate beaded collars and headbands called callee, while men wear ivory or brass kalaacha frontlets; butter and henna dressing completes the repertoire.
 
-- **Bead necklace** (*callee*) — Strings of coloured glass, amber and cowrie beads worn around neck, waist and forehead in dozens of layered strands, encoding marital status and ritual role.
-- **Silver forehead chain** (*maqarraabaa*) — Filigreed ornament falling from a central medallion, worn by women.
-- **Silver earring** (*qanafa*) — Filigreed ornament produced by Muslim smiths of eastern and northern Oromo areas.
-- **Small cross tattoo** — Cruciform or dot patterns on temples, neck and gums, common among northern Oromo women.
-- **Butter-dressed hair** — Elaborate coiffures of greased ringlets, gathered plaits, or shaved-and-tufted styles, serving as cosmetic and cooling agent.
+- **Beaded ornament sets** (*callee*) — Strung glass beads, cowries and amber worn in specific configurations to mark a woman's status and marital state.
+- **Heavy neck rings** (*silver and copper alloy*) — Neck rings, spiral armlets and ankle bangles worked from silver and copper alloy, worn by women.
+- **Crescent pendant** (*crescent*) — A silver crescent pendant worn in Wollo and Arsi.
+- **Amulet case** (*cylindrical case*) — A cylindrical case holding written Qur'anic texts, worn by Muslim Oromo women.
+- **Forehead ornament** (*kalaacha*) — An ivory or brass emblem strapped to the forehead, marking ritual rank.
 
 ## Music & performance
 
-Oromo music relies on call-and-response singing, hand-clapping, and distinctive instruments including the bowed lute and ritual drums that announce major assemblies.
+Oromo music uses a pentatonic system with distinctive instruments like the krar bowl lyre and masinqo spike fiddle, with song genres tied closely to function.
 
-- **Single-string bowed lute** (*masenqo*) — Shared with Amhara azmari tradition, provides core melodic sound.
-- **Ritual drum** (*dibbee*) — Beaten to announce gadaa power-transfers and major assemblies, carrying primary ritual weight.
-- **Warrior boast-song** (*geerarsa*) — Solo declamatory performance historically sung after successful raid or lion hunt, repurposed in twentieth century as vehicle of Oromo political protest.
-- **Dance song** (*shubbisa*) — Rhythmic shoulder-shaking song of the young.
-- **Mourning wail** (*sagalee booʼicha*) — Vocal genre performed at death rituals.
+- **Five-string bowl lyre** (*krar*) — A five- or six-string bowl lyre that accompanies sung poetry.
+- **Single-string spike fiddle** (*masinqo*) — A spike fiddle played with a bow, used to accompany sung poetry.
+- **End-blown wooden flute** (*washint*) — A herder's flute, the primary instrument for pastoral contexts.
+- **Boasting song** (*geerarsa*) — A defiant solo song originally for hunters and warriors, later the vehicle for twentieth-century political protest poetry.
+- **Sung verse** (*weedduu*) — A broad category of sung verse including work songs at the Borana singing wells.
 
 ## Dance & theatre
 
-Oromo dance is participatory rather than staged, centred on the rapid shoulder shudder called raqaasaa, performed at weddings and thanksgiving gatherings.
+Oromo dance is regionally differentiated without indigenous masked or puppet drama, ranging from the shoulder-based sirba of Wollo to the jumping-based circle dances of pastoral Borana and Guji.
 
-- **Shoulder-shudder dance** (*raqaasaa*) — Sharp rapid up-and-down and forward-and-back shoulder motion executed by both sexes with distinct male and female styles.
-- **Circle dance** (*shubbisa*) — Massed clapping and unison shouted refrains around central singer or drummer at weddings and irreecha gatherings.
-- **Mounted horse-dance** — Parade of caparisoned horses with mane-plumed riders in Arsi, Bale and Shewa Oromo weddings, choreographed to dibbee drum beat.
-- **Power-transfer ritual** (*butta*) — Multi-day gadaa ceremony involving scripted dialogue, mock combat, and symbolic actions.
+- **Shoulder dance** — A highland form in which the torso and shoulders move rapidly while feet remain still, performed in facing lines of men and women.
+- **Virtuosic shoulder variant** (*sirba*) — The Wollo variant of the shoulder dance where women whip butter-dressed braids in circular sweeps.
+- **Jumping circle dance** (*jumping dance*) — A Borana and Guji form where men leap vertically in turn within a tight circle while others clap and sing.
+- **Warriors' dance** — Dance performed with gaachana shield and spear reenacting raiding, staged at Gadaa power-transfer ceremonies.
+- **Women's processional rite** (*ateetee, shanan*) — Women's fertility and grievance rites involving processional dance with the siiqqee stick held aloft.
 
 ## Festivals & rituals
 
-Gadaa is the central ritual system: eight-year age-grades rotate political power through named grades, culminating in the butta transfer ceremony beneath an ancient fig tree.
+Irreecha, a thanksgiving at the end of the rainy season, and the eight-year Gadaa power transfer are the principal Oromo rituals, alongside the women's Ateetee fertility rite.
 
-- **Age-grade system** (*gadaa*) — UNESCO-inscribed democratic system in which every male generation moves through named grades (dabballee, foollee, qondaala, raaba, doorii, gadaa, yuba) with the ruling grade taking eight-year political-ritual power.
-- **Women's ritual staff** (*siiqqee*) — Institution parallel to gadaa through which married women collectively enforce claims against male misconduct.
-- **Thanksgiving festival** (*Irreecha*) — Massive pilgrimage held at end of rainy season when hundreds of thousands wade into sacred lakes carrying green grass and yellow adeyi flowers to offer thanks to Waaqa.
-- **Great assembly** (*gumii*) — Gathering of gadaa grades beneath ancient odaa fig tree to conduct political-ritual business.
-- **Ritual specialist** (*qaalluu*) — Mediator between community and Waaqa who enters possession-trance to deliver oracles at galma shrines.
+- **Thanksgiving festival** (*Irreecha*) — A thanksgiving held at lakeshores and river confluences in late September or early October, where participants in white dress carry fresh grass and yellow adey abeba flowers.
+- **Mountain thanksgiving** (*Irreecha Tulluu*) — A second Irreecha celebrated on mountain summits in spring.
+- **Eight-year power transfer** (*Gadaa power transfer*) — The great political ritual where the outgoing Abbaa Gadaa hands the bokkuu to his successor at the odaa assembly ground.
+- **General assembly** (*Gumii Gaayoo*) — The Borana general assembly meeting every eight years at Gaayoo to review and proclaim law.
+- **Women's fertility and legal rite** (*Ateetee*) — A women's rite in which women carrying the siiqqee assemble to sing against a man who has wronged a woman, a sanctioned mechanism of female legal authority.
 
 ## Foodways
 
-Highland Oromo eat sourdough teff bread with meat and vegetable stews; southern pastoralists centre life on fresh, soured and smoked milk from pastoral herds.
+Pastoral Oromo cuisine centers on dairy and meat, while highland regions emphasize grain dishes; coffee is indigenous to Oromo territory and central to hospitality.
 
-- **Teff flatbread** (*biddeena*) — Sourdough bread otherwise known as injera, eaten with meat and vegetable stews in highland areas.
-- **Spiced butter** (*qibee*) — Seasoning shared with surrounding highland cuisine and with Amharic niter kibbeh.
-- **Soured milk** (*aannan*) — Fresh, soured and smoked milk drunk from smoked gorfa vessels as basis of pastoral Borana diet.
-- **Roasted coffee ceremony** (*buna qalaa*) — Older Oromo form in which whole coffee beans are fried in butter and eaten rather than brewed, surviving alongside pan-Ethiopian brewed ritual.
-- **Honey wine** (*daadhii*) — Traditional alcoholic beverage.
+- **Soured milk curd** (*baduu*) — A curd left after milk is soured and strained, a staple of pastoral diet.
+- **Lamb stew** (*itto*) — A stew of lamb with tomato, potato, ginger and garlic.
+- **Ground beef stew** (*ukkaamssa (affaanyii)*) — Ground beef stewed with onion, garlic, green chilli and butter.
+- **Starchy tuber dish** (*anchotte*) — A starchy tuber served with spiced butter, a Wollega specialty.
+- **Roast-grind-brew coffee ceremony** (*buna*) — Coffee served in a formal ceremony, central to Oromo hospitality.
 
 ## Oral tradition & literature
 
-Oromo culture was overwhelmingly oral until the late twentieth century, with deep repertoires of genealogy, wisdom poetry, riddles and warrior boast-songs; written literature flourished after Qubee adoption in 1991.
+Oromo verbal art is unwritten and enormous, ranging from proverbs and riddles to genealogical recitations preserving the sequence of Gadaa office-holders across centuries.
 
-- **Genealogical recitation** (*hima abbootii*) — Oral performance recounting ancestral lines.
-- **Wisdom poetry** (*mammaaksa*) — Proverbs and philosophical verse of the oral tradition.
-- **Riddle** (*hibboo*) — Verbal puzzle genre of Oromo oral culture.
-- **Warrior boast-song** (*geerarsa*) — Epic poetry recounting clan migrations, cattle-raids, and deeds of famous abbaa gadaa leaders.
+- **Proverbs** (*mammaaksa*) — Proverbial sayings forming part of Oromo verbal art.
+- **Riddles** (*hibboo*) — Riddling as a form of verbal art.
+- **Folktales** (*durdurii*) — Folktales forming part of Oromo oral tradition.
+- **Boasting poetry** (*geerarsa*) — Historical and personal narrative carried through defiant boasting-poetry.
+- **Blessing formulae** (*eebba*) — Formulaic blessings delivered by elders to open every assembly and ritual.
 
 ## Language & religion
 
-Afaan Oromoo, the most widely spoken Cushitic language with 40 million speakers, has been written in Qubee Latin alphabet since 1991; traditional religion is Waaqeffannaa monotheism, now mixed with substantial Muslim and Christian populations.
+Afaan Oromoo belongs to the Cushitic language family and is now written in Qubee Latin script; religions include Sunni Islam, Ethiopian Orthodox Christianity, Protestantism, and the indigenous Waaqeffannaa monotheism.
 
-- **Oromo language** (*Afaan Oromoo*) — Cushitic language with roughly 40 million speakers, written in Qubee Latin-based alphabet since 1991.
-- **Sky-god** (*Waaqa*) — Central deity of traditional Waaqeffannaa monotheism, mediated by qaalluu specialists.
-- **Traditional religion** (*Waaqeffannaa*) — Monotheistic belief in Waaqa expressed most publicly at Irreecha festival.
-- **Ritual shrine** (*galma*) — Sacred site where qaalluu specialists mediate between community and Waaqa.
+- **Cushitic language** (*Afaan Oromoo*) — The fourth-most spoken language in Africa, with dialect clusters corresponding to major geographic regions.
+- **Latin orthography** (*Qubee*) — A Latin-based script adopted from 1991 for writing Oromo, now used in primary education and federal websites.
+- **Indigenous monotheism** (*Waaqeffannaa*) — An indigenous belief system centered on Waaqa the sky-god and ayyaana the spirit-quality, served by the hereditary Qaalluu priesthood.
+- **Ritual officiants** (*Qaalluu*) — Hereditary priests of Waaqeffannaa who are custodians of cosmological narratives and lead assemblies.
+- **Spirit quality** (*ayyaana*) — The spirit-quality that mediates between Waaqa and creation in Waaqeffannaa belief.
 
 ## Glossary
 
-- *gadaa* — eight-year age-grade system rotating political-ritual power through named male generations
-- *gumii* — great assembly of gadaa grades beneath ancient fig tree for political-ritual business
-- *Waaqa* — sky-god of traditional Oromo monotheism
-- *Waaqeffannaa* — traditional Oromo monotheistic religion centred on Waaqa
-- *qaalluu* — ritual specialist who mediates between community and Waaqa, entering possession-trance
-- *galma* — ritual shrine marked by ornamented posts where qaalluu conduct ceremonies
-- *siiqqee* — slender ritual staff of married women embodying female authority and married estate
-- *Irreecha* — thanksgiving pilgrimage to sacred lakes at end of rainy season
-- *butta* — gadaa power-transfer ceremony involving scripted dialogue and symbolic actions
-- *odaa* — ancient sycamore fig tree serving as gadaa assembly ground
-- *wayyaa* — everyday cotton wrap woven in narrow strips
-- *tibeb* — coloured woven or embroidered border stripe on cotton wraps
-- *qollo* — pastoral woman's leather skirt densely covered in beads and cowries
-- *gorfa* — cylindrical tightly-coiled milk vessel smoked over aromatic wood
-- *gaachana* — domed hide shield embossed with ribs and studded with silver or brass bosses
-- *callee* — layered strings of coloured glass, amber and cowrie beads worn by married women
-- *geerarsa* — solo warrior boast-song historically sung after successful raid or hunt
-- *raqaasaa* — rapid shoulder-shudder dance performed at weddings and gatherings
-- *dibbee* — ritual drum beaten to announce gadaa power-transfers and assemblies
-- *masenqo* — single-string bowed lute shared with Amhara tradition
-- *mana citaa* — circular highland house with conical thatched roof and central supporting post
-- *dasse* — portable dome-frame pastoral hut built from bent saplings and hides
-- *olla* — ritually oriented pastoral camp with gate facing east
-- *Afaan Oromoo* — Cushitic language spoken by 40 million people, written in Qubee Latin alphabet since 1991
+- *Gadaa* — Eight-year generational political and social system ordering politics, ritual and craft patronage
+- *tibeb* — Colored warp-stripe border woven into cloth, typically red, green and black
+- *bulluko* — Thick double-layer cotton mantle worn by highland men in cold regions
+- *gabi* — Lighter plain-woven cotton everyday garment
+- *qolloo* — Leather skirt and cape worn by pastoral women, covered in cowries and beads
+- *siiqqee* — Slender ritual stick of harooressa wood carried by married women as token of female authority
+- *callee* — Beaded ornament complex of glass beads, cowries and amber marking women's status
+- *kalaacha* — Phallic ivory or metal frontlet marking ritual seniority
+- *gaachana* — Round or oval shield of boiled buffalo or hippopotamus hide with bosses and ribs
+- *bokkuu* — Ridged wooden or metal sceptre held by the Abbaa Gadaa, passed to his widow
+- *odaa* — Sycamore fig tree serving as Gadaa council assembly ground
+- *tula* — Clusters of deep hand-cut wells in Borana territory descended by singing human chain
+- *krar* — Five- or six-string bowl lyre accompanying sung poetry
+- *masinqo* — Single-string spike fiddle played with a bow
+- *geerarsa* — Defiant solo boasting-song of men, vehicle for political protest poetry
+- *weedduu* — Broad category of sung verse including work songs
+- *Irreecha* — Thanksgiving festival held at lakeshores in late September or early October
+- *Ateetee* — Women's fertility and grievance rite where women sing against wrongdoing
+- *Abbaa Gadaa* — The holder of Gadaa office, leader during an eight-year cycle
+- *Waaqeffannaa* — Indigenous monotheism centered on Waaqa the sky-god and ayyaana spirit-quality
+- *Qaalluu* — Hereditary ritual officiants of Waaqeffannaa, custodians of cosmological narratives
+- *Afaan Oromoo* — Cushitic language, fourth-most spoken in Africa, now written in Qubee script
+- *Qubee* — Latin-based orthography for writing Oromo, adopted from 1991
 
 ## Sources & further reading
 
-- Wikipedia: "Oromo people", "Gadaa", "Afaan Oromoo", "Irreecha", "Borana Oromo", "Guji Oromo", "Arsi Oromo", "Siiqqee", "Waaqeffanna", "Qaalluu".
-- UNESCO Intangible Cultural Heritage: *Gada system, an indigenous democratic socio-political system of the Oromo* (inscribed 2016).
-- Asmarom Legesse, *Gada: Three Approaches to the Study of African Society* (1973) and *Oromo Democracy: An Indigenous African Political System* (2000).
-- Mohammed Hassen, *The Oromo of Ethiopia: A History 1570–1860* (1990) and *The Oromo and the Christian Kingdom of Ethiopia* (2015).
-- Paul T. W. Baxter, Jan Hultin & Alessandro Triulzi (eds.), *Being and Becoming Oromo: Historical and Anthropological Enquiries* (1996).
-- Aneesa Kassam & Gemetchu Megerssa, various papers on Borana cosmology and material culture.
-- Marco Bassi, *Decisions in the Shade: Political and Juridical Processes Among the Oromo-Borana* (2005).
+- Asmarom Legesse, Gada: Three Approaches to the Study of African Society, Free Press, 1973
+- Asmarom Legesse, Oromo Democracy: An Indigenous African Political System, Red Sea Press, 2000
+- Mohammed Hassen, The Oromo of Ethiopia: A History 1570–1860, Cambridge University Press, 1990
+- Claude Sumner, Oromo Wisdom Literature (3 vols.), Gudina Tumsa Foundation, 1995–1997
+- Bahrey, Zenahu la Galla ("History of the Galla"), 1593
+- Herbert S. Lewis and Gemetchu Megerssa on Oromo social organisation and the concept of Oromumma; Terje Østebø on Islam and Oromo ethno-nationalism
+- https://en.wikipedia.org/wiki/Oromo_people
+- https://folkways.si.edu/search?query=Ethiopia
+- https://www.metmuseum.org/art/collection/search?q=Oromo
+- https://collections.vam.ac.uk/search/?q=Ethiopia
+- https://www.rijksmuseum.nl/en/search?q=Ethiopia
 

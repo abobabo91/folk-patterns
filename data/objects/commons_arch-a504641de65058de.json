@@ -17,7 +17,7 @@
     "country": "Thailand",
     "ethnicity": "Thai",
     "tradition": "Paintings of Wat Pho",
-    "art_form": "architectural",
+    "art_form": "painting-mss",
     "pattern_density": 2,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
@@ -25,7 +25,8 @@
     "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional",
-    "art_form_vision": "architectural"
+    "art_form_vision": "painting-mss",
+    "art_form_recheck": "architectural->painting-mss: The image shows a mural/relief panel with floral borders and figures in traditional Thai crowned dress at Wat Pho temple, Bangkok — this is Thai temple mural art fitting the claimed ethnicity, though "
   },
   "physical": {
     "title": "112 On a Swing (9157539832).jpg",

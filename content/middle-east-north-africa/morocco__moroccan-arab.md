@@ -8,167 +8,170 @@ tags: [ethnography, middle-east-north-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Arabic-speaking majority population of Morocco, heirs of Arab-Islamic conquest, Andalusi migration, and Amazigh foundations |
-| Where | Imperial cities (Fez, Marrakech, Meknes, Rabat, Salé, Tétouan, Chefchaouen), Atlantic coast, fertile plains |
-| How many | Roughly 37 million, with diaspora in France, Spain, Belgium, Netherlands, Italy |
-| Language | Moroccan Arabic (Dārija), Modern Standard Arabic, French, Spanish in north, Tamazight |
-| Religion | Sunni Islam, Maliki school, with strong Sufi brotherhoods |
-| Known for | Fez zellīj mosaic tilework · Andalusi classical music traditions · Intricate textiles and embroidery · Tajine and couscous cuisine · Urban courtyard architecture |
+| Who | Arabic-speaking majority of Morocco |
+| Where | Atlantic plains, imperial cities (Fez, Meknes, Rabat, Marrakesh, Tetouan, Chefchaouen), river basins |
+| How many | 20–23 million |
+| Language | Darija (Moroccan Arabic) |
+| Religion | Sunni Islam, Maliki school |
+| Known for | intricate embroidery and zellige mosaic · Andalusi classical music and poetry · decorated caftans and jewelry · couscous and tagine · saint-day moussem festivals |
 
 ## Overview
 
-Moroccan Arabs form the cultural and demographic majority of Morocco, shaped by three streams: seventh-century Arab-Islamic conquest, Andalusi refugee migration (13th–17th centuries), and deep Amazigh roots. They inherit a sophisticated urban civilization centered in historic imperial cities, marked by elaborated crafts, music, architecture and foodways. The culture sits at a crossroads of Mediterranean, Arab, African and European influences, with a thriving diaspora extending their traditions abroad.
+Moroccan Arabs arrived in two waves: seventh-eighth century conquests and eleventh-thirteenth century bedouin migrations that settled the plains. They built the Maghreb's greatest urban craft centres in the imperial cities, refined by Andalusi refugees after 1492. Their culture blends Arab, Amazigh, Ottoman and Andalusi elements across textiles, metalwork, music, food and religious practice.
 
 ## Material culture
 
-Moroccan Arab material culture is built on skilled hand-crafts—from hand-cut tile mosaics and counted-thread embroidery to brocade weaving and brass work—organized around the courtyard house and urban guild workshops.
+Moroccan Arab craftsmanship centres on geometric pattern, symmetry and the maallem apprenticeship system that has kept guild knowledge alive for five centuries.
 
 ### Textile & pattern traditions
 
-Textiles blend Andalusi and Amazigh traditions in counted-thread embroidery, knotted carpets, and sequinned wraps, each city and region with its own signature style.
+Embroidery and carpet weaving follow strict geometric rules and city-specific styles, from Fez's reversible monochrome work to Tetouan's polychrome Ottoman vases.
 
-- **Fez embroidery** (*ṭarz Fāsī*) — Monochrome counted-thread work in dark blue, garnet red, or black silk on white linen, worked reversibly with geometric interlace and eight-pointed stars for trousseau linens.
-- **Tétouan and Chefchaouen embroidery** — Polychrome silk embroideries of Andalusi descent with floral vases and carnations in satin stitch on cushions and wall-hangings for the bride's alcove.
-- **Rabat carpet** (*zarbiyya Rbāṭiyya*) — Dense knotted-pile urban carpet with Turkish knot, central medallion and multiple borders on a madder-red ground, prized as elite floor covering.
-- **Handira** (*ḥandīra*) — Sequinned woollen cape woven by Amazigh women and adopted as bridal wrap; ivory-white wool studded with metal sequins deflects the evil eye.
-- **Meknes brocade and Fez silk fabric** (*sqallī*) — Silk and cotton with metallic gold or silver thread woven into ceremonial belts and high-status men's djellabas.
+- **Fez embroidery** (*terz el-Fassi*) — Dark blue or garnet red silk counted-thread work on white linen, reversible and symmetrical, used for bed valances and bridal chamber cloths.
+- **Tetouan embroidery** (*terz Tetouani*) — Polychrome silk with large-scale Ottoman vases, carnations and pomegranates on velvet or wool, worked from the front only.
+- **Rabat carpet** (*zarbiya Rbatiya*) — Knotted-pile urban carpet with central medallion and multiple border bands in madder red, ivory and indigo, Anatolian in layout.
+- **Wedding cape** (*handira / tahandirt*) — Hand-spun wool densely hung with flattened sequins and cotton fringe, worn shining side out in the bride's procession.
+- **Brocade** (*mensuj / briocade*) — Silk and metal-thread lampas woven on the drawloom for caftan bodies and cushion faces, with controlled gold-thread grounds and lozenge patterns.
 
 ### Clothing & dress
 
-Men wear the hooded djellāba in wool or cotton; women's formal dress centers on the ornate qafṭān, richly braided and belted, with bridal ensembles involving multiple costume changes staged by a professional dresser.
+Men wear the hooded djellaba and fez; women's formal dress is the brocade caftan under a sheer overgown, with Fez brides changing costumes through the wedding night.
 
-- **Djellāba** — Long hooded outer robe of wool for winter and cotton or linen for summer, worn over a long shirt and loose trousers.
-- **Qafṭān** — Unfitted, floor-length open robe of silk, brocade or velvet, richly braided with passementerie and buttoned with plaited silk knots.
-- **Takshīṭa** — Two-piece women's ensemble with the qafṭān layered under a sheer overdress fastened with a jewelled belt.
-- **Ḥāʾik** — Large rectangle of undyed wool or fine cotton drawn over the head and body as everyday outer wrap, still worn by older women.
-- **Babouche** (*balgha*) — Soft pointed leather slippers, canary yellow for men and embroidered polychrome for women, worn without socks and left at the threshold.
+- **Djellaba** — Hooded wool or cotton robe with pointed qob hood, worn over qamis shirt and serwal trousers, the everyday outer garment for men.
+- **Fez hat** (*tarbouch*) — Stiff crimson hat with black tassel, worn as formal male headgear.
+- **Caftan** — Full-length brocade or velvet woman's robe closed with knotted sfifa braid and silk aakad buttons.
+- **Wedding overdress** (*takchita*) — Caftan worn under a sheer dfina overgown, the standard bridal costume.
+- **Babouche slipper** (*babouche / belgha*) — Backless pointed slipper, saffron-yellow for men and embroidered for women, made from Fez's pit-tanned leather.
 
 ### Architecture
 
-The traditional urban house organizes inward around a central courtyard with a fountain, presenting blank walls to the street and interior surfaces rich with zellīj mosaic, carved stucco and painted cedar.
+Urban Arab houses are inward-facing courtyard dwellings blank to the street, decorated with zellige mosaics, carved stucco and painted cedar ceilings.
 
-- **Dār/Riyadh** (*dār*) — Two-storey masonry house organized inward around a rectangular open courtyard with orange and lemon trees and a marble or zellīj fountain.
-- **Zellīj** — Hand-cut glazed tile mosaic in cobalt, turquoise, green, ochre and white forming geometric patterns as waist-high dadoes on interior walls.
-- **Mucharabieh screen** (*mūshrabiyya*) — Carved wooden screen allowing light and air into rooms while screening interior life from the street.
-- **Tadelakt** — Lime plaster burnished with river stones and sealed with black soap to a waterproof marble-like sheen for bathing and reception rooms.
-- **Zwāq ceiling** (*zwāq*) — Coffered and polychromed cedar ceiling painted in the Fassi manner with geometric and floral designs.
+- **Courtyard house** (*dar / riad*) — Blank-walled house entered through bent-axis corridor, surrounding a paved court with fountain and sunken garden, two to three storeys high.
+- **Zellige mosaic** (*zellige*) — Hand-cut glazed terracotta tiles forming geometric patterns, covering the lower walls of rooms.
+- **Stucco work** (*gebs*) — Carved stucco bands of interlace and Kufic script running above the zellige dado.
+- **Polished plaster** (*tadelakt*) — Lime plaster polished with river stone and sealed with black olive soap, making waterproof surfaces for floors and hammams.
+- **Wood lattice screen** (*moucharabieh*) — Turned-wood lattice screening windows onto the street.
 
 ### Ceramics, metalwork & everyday objects
 
-Fez pottery in cobalt blue leads an elaborated ceramic tradition; brass and copper workshops produce engraved trays and teapots; leatherwork, carved cedar and zellīj round out the domestic crafts.
+Moroccan pottery ranges from Fez's cobalt-on-white benchmark to Safi's lustred polychrome wares, paired with pierced brass work and cedar chests.
 
-- **Fez pottery** (*azraq Fāsī*) — Tin-glazed earthenware on bright white ground hand-painted in characteristic cobalt blue, sometimes with black and yellow, in dense geometric and floral designs.
-- **Tajine vessel** (*tajine*) — Tall conical earthenware cooking vessel, Safi's signature form, used for slow-braised dishes.
-- **Zellīj tilework** (*zellīj*) — Hand-cut glazed tile mosaic assembled face-down by master craftsmen (*maʿallim*) using a sharp hammer to chip tesserae from monochrome squares.
-- **Brass and copper vessels** — Engraved trays (ṣīniyya), long-spouted teapots (barrād), ewers (ibrīq) and basins (ṭāsa) worked in chased and pierced patterns in Fez and Marrakech workshops.
-- **Moroccan leather** — Vegetable-tanned goatskin from Fez's Chouara tannery dyed with saffron, poppy and indigo, worked into slippers, poufs, book bindings and cushions.
+- **Fez pottery** (*jobbana / tass / ghorraf*) — Cobalt blue on tin-white glaze with shabka net patterns, on lidded jars, footed basins and water jars.
+- **Safi ware** (*Safi pottery*) — Polychrome pottery with turquoise, manganese and metallic-lustre reflet glaze.
+- **Brass tray** (*sniya*) — Engraved and pierced brass table or serving piece, often with calligraphy.
+- **Teapot** (*bradh*) — Tinned-copper vessel for serving tea, poured from height.
+- **Dagger** (*koumia*) — Curved dagger with silver-mounted, wire-inlaid sheath and squared pommel.
 
 ### Jewelry & body adornment
 
-Urban jewelry is gold with pearls and enamel; rural and southern jewelry is silver with protective motifs and semi-precious stones; bridal preparation involves intricate henna, kohl and cosmetic art.
+Urban goldsmithing produces filigree diadems and enamelled necklaces; rural silverwork favours enamel fibulae and coral beads, with henna applied in geometric interlace at weddings.
 
-- **Gold filigree jewelry** — Urban Fassi and Tétouani tradition of gold filigree brooches, articulated necklaces, pearl-fringed diadems and jewelled bridal belts.
-- **Silver anklets** (*khalkhāl*) — Heavy hollow anklets worn in rural and southern registers, often joined by chains.
-- **Fibula** (*tizerzai*) — Pectoral fibula pinning the woman's outer wrap at both shoulders and joined by chain.
-- **Khamsa hand-pendant** (*khamsa*) — Hand-of-Fatima pendant worn against the evil eye in coral, amber and silver.
-- **Henna night** (*laylat al-ḥenna*) — Bridal preparation ritual in which the ḥennāya draws fine geometric and floral henna patterns on the bride's palms, forearms and feet.
+- **Diadem** (*taj*) — Gold filigree crown worn by women.
+- **Ankle bracelet** (*khelkhal*) — Wide gold bracelet worn as formal jewelry.
+- **Necklace** (*lebba*) — Plaque-and-chain gold necklace set with emerald-green enamel and seed pearls.
+- **Henna application** (*laylat al-henna*) — Geometric interlace henna patterns applied by a neqqasha (henna artist) on a bride's hands and feet.
+- **Fibula brooch** (*tizerzai / fibulae*) — Enamelled or niello silver brooch with triangular khamsa shape, worn in rural dress.
 
 ## Music & performance
 
-The classical core is al-āla, the Andalusi suite tradition preserved in conservatoires; popular genres include malḥūn sung poetry, Sufi devotional music and Gnawa healing ceremonies.
+Moroccan Andalusi classical music in nubat suites is the prestige tradition; Sufi devotional music and the Gnawa lila ceremony are equally central to urban and rural life.
 
-- **Andalusi suite** (*al-āla*) — Classical Andalusi tradition with five rhythmic movements anchored in a mode (*ṭabʿ*), performed by chamber ensembles with lute, bowed fiddle, drums and verse.
-- **Malḥūn** — Sung poetic tradition in Moroccan Arabic dialect associated with artisan guilds of Meknes, Fez and Salé, inscribed on UNESCO Representative List in 2023.
-- **Gnawa ceremony** (*līla*) — All-night healing ceremony of African-descended brotherhoods featuring the three-string gimbrī and iron castanets, inscribed on UNESCO Representative List (2019).
-- **Sufi devotional song** (*samāʿ*) — Religious song of the zāwiya brotherhoods and pilgrimage centres.
-- **Chaabi** — Wedding-hall popular music of the cities.
+- **Andalusi classical suite** (*nubat*) — Suite-form of Moroccan classical music, a sequence of five rhythmic movements from slow basit to fast quddam, performed by oud, rebab, kamanja and drums with chorus.
+- **Colloquial poetry** (*malhun*) — Darija qasida poetry in recognised sub-genres, performed by a shikh with lute and drums.
+- **Plains poetry** (*aita*) — Sung poetry of the Chaouia and Doukkala plains, carrying oral history of tribal resistance.
+- **Gnawa spirit ceremony** (*lila*) — Sufi ritual where the maalem plays three-string hajhouj with iron qraqeb castanets to call mluk spirits through colour sequences.
+- **Sufi brotherhoods** (*Aissawa / Hmadcha*) — Devotional brotherhoods with loud ghaita shawms, nfar trumpets and tbel drums.
 
 ## Dance & theatre
 
-Urban culture has no elaborate classical dance-drama but movement is embedded in music; professional women singers perform hip-articulated dances at weddings; Sufi brotherhoods practice circular remembrance.
+Moroccan Arab performance is participatory rather than staged: shikhat dancers perform aita at weddings, brotherhoods enact trance processions, and the halqa circle is the street theatre.
 
-- **Shīkhāt** — Professional women singers and dancers performing hip-articulated line dances at weddings, repertoire drawn from rural ʿayṭa song tradition.
-- **Ḥaḍra** — Standing circular Sufi remembrance of brotherhoods with rhythmic swaying, head movements and trance at climax.
-- **Guedra** — Southern Sahrawi trance-dance knelt rather than standing, widely adopted onto the folkloric stage.
-- **Ḥalqa** — Storytelling and juggling circle of the Jemaa el-Fnaa square in Marrakech, proclaimed UNESCO Masterpiece (2001) and inscribed on Representative List.
-- **Bsāṭ** — Satirical processional theatre historically staged for the sultan in Fez.
+- **Plains dance** (*aita*) — Hip-driven, shoulder-shaking dance of professional shikhat women singers at weddings and moussem tents.
+- **Urban line dance** (*chaabi*) — Mixed or solo women's dance with scarf and belt play.
+- **Trance procession** (*Aissawa / Hmadcha*) — Circular brotherly procession with head-swinging and controlled collapse.
+- **Spirit possession dance** (*sabre / chouwafa*) — Named dances in the Gnawa lila tied to each mluk colour, including bowl-and-fire sequences.
+- **Street circle performance** (*halqa*) — Circle of storytellers, snake-charmers, acrobats and comic performers in Marrakesh's Jemaa el-Fnaa and weekly souqs.
 
 ## Festivals & rituals
 
-The ritual year follows the Islamic Hijri calendar with Ramadan, Eid celebrations and Mawlid processions; regional mawāsim pilgrimage-fairs mark the agricultural year; life-cycle rituals include naming, circumcision and multi-day weddings.
+The Islamic lunar calendar frames the year with Ramadan, Eids and Mawlid celebrations, layered with moussem saint-day pilgrimage fairs featuring synchronized cavalry charges.
 
-- **Ramadan fast-breaking** (*ifṭār*) — Nightly breaking of the fast with ḥarīra soup, dates and shebbākiyya sesame-and-honey pastry.
-- **Eid al-Aḍḥā** (*ʿĪd al-Aḍḥā*) — Major Islamic holiday marked with the household sacrifice of a ram.
-- **Mawlid processions** (*mawkib ash-shamūʿ*) — Candle processions celebrating the Prophet's birthday, celebrated grandly in Salé and Meknes.
-- **Moussem (pilgrimage-fair)** (*mūssem*) — Regional festivals at the tombs of local saints featuring markets, celebrations and the tbourida equestrian charge.
-- **Fantasia** (*tbourida*) — Equestrian charge with costumed riders discharging muzzle-loading muskets in volley at the gallop, inscribed on UNESCO Representative List (2021).
+- **Ramadan** — Month of fasting broken nightly with harira lentil soup and dates.
+- **Sacrifice feast** (*Eid al-Adha / Eid el-Kebir*) — Holiday with household sheep sacrifice and drying of khlii and qaddid meat.
+- **Candle procession** (*Dour al-Chamaa / Mawlid*) — Salé's festival of wax lantern processions celebrating the Prophet's birthday.
+- **Saint's-day fair** (*moussem*) — Pilgrimage fair at a saint's shrine, centred on tbourida cavalry charges firing flintlock muskets.
+- **Wedding ceremony** (*multi-night wedding*) — Life-cycle ritual with hammam purification, laylat al-henna, bride's palanquin arrival and successive costume displays.
 
 ## Foodways
 
-The Moroccan table rests on couscous, tajine and bread; slow-braised dishes, preserved lemons, spiced butter and argan oil define the pantry; mint tea is the axis of social life.
+Wheat is the base of the diet in couscous, bread and pastries; slow-cooked tagines with meat, preserved lemon and olives are everyday celebration dishes.
 
-- **Couscous** — Steamed semolina crowned with seven vegetables and meat, traditionally served Friday after prayer, inscribed on UNESCO Representative List (2020, multinational).
-- **Tajine** — Both the conical earthenware vessel and the slow-braise cooked in it: lamb with prunes and almonds, chicken with preserved lemon and olives.
-- **Bastilla** (*basṭīla*) — Fassi celebratory dish of pigeon or chicken layered with almonds and cinnamon in pastry dusted with icing sugar.
-- **Ḥarīra** — Tomato-lentil-chickpea soup thickened with flour tempering, breaks the Ramadan fast.
-- **Mint tea** (*atāy bi-n-naʿnaʿ*) — Ceremonial preparation of mint tea poured from height into small gilt-rimmed glasses, inscribed on UNESCO Representative List (2022, with Mauritania).
+- **Couscous** — Semolina steamed three times over broth in a keskes, eaten at Friday lunch with seven vegetables.
+- **Stew** (*tagine*) — Family of slow-cooked dishes: lamb with prunes and almonds, chicken with preserved lemon and violet olives, kefta with egg.
+- **Chicken pastry** (*pastilla*) — Fez celebration dish of layered warqa pastry with pigeon or chicken, almonds, cinnamon and sugar.
+- **Lentil soup** (*harira*) — Staple of Ramadan and winter mornings, tomato and lentil based.
+- **Mint tea** (*atay bi na'na'*) — Gunpowder green tea with spearmint and sugar, poured from height into glasses, served in three rounds.
 
 ## Oral tradition & literature
 
-Oral repertoire spans storytellers reciting epic cycles, malḥūn sung poetry of artisan guilds, and proverb literature; written tradition includes Fassi biography, Quranic illumination and modern Arabic and French-language novels.
+The core corpus is malhun, colloquial Arabic qasida composed from the fourteenth century onward by named artisan-poets and still sung rather than read.
 
-- **Ḥalqa storytellers** (*ḥlāyqiyya*) — Marrakech square storytellers whose recitations of the Sīrat ʿAntar and Sīrat Banī Hilāl have been performed for centuries.
-- **Malḥūn poetry** (*malḥūn*) — Sung poetry in Moroccan Arabic dialect with named authors from the sixteenth century onward surviving in living dialect canon.
-- **Proverb literature** (*mātāl*) — Vast collection of Moroccan proverbs gathered since the early twentieth century.
-- **Moroccan illuminated manuscript** (*maghribī*) — Distinctive style with rounded script descending below the line, set against gold-ground rosettes and knotted-interlace frontispieces.
-- **Modern Arabic novel** — Arabic-language fiction flourishing since independence in the work of Mohamed Choukri, Abdelkebir Khatibi and others; parallel French-language canon at diaspora interface.
+- **Colloquial qasida** (*malhun*) — Darija poetry in recognized sub-genres (harraz, saqi, chamaa), composed by named artisan-poets and sung aloud.
+- **Plains poetry** (*aita*) — Oral history sung in named modes (aita hasbaouia, marsaouia, haouzia), carrying tribal resistance narratives.
+- **Street storytelling** (*hlaiqi*) — Halqa storyteller performing Alf Layla wa-Layla episodes, Antar and Bani Hilal cycles, Juha trickster tales and saints' karamat.
+- **Animal tales** (*hjayat*) — Household narrative tales opened with fixed formula and closed with rhyme.
+- **Proverb speech** (*mtal*) — Dense traditional sayings and wisdom phrases.
 
 ## Language & religion
 
-Moroccan Arabic is the mother tongue of daily life; Modern Standard Arabic governs formal registers; French and Spanish persist; Islam is Sunni Maliki with pervasive Sufi brotherhoods and saint veneration; Jewish communities historically integral to craft economy.
+Darija, a Maghrebi Arabic dialect with heavy Amazigh, Andalusi and European vocabulary, is the spoken language; Islam is overwhelmingly Sunni Maliki with institutionalised Sufism and folk practice.
 
-- **Moroccan Arabic** (*ad-Dārija*) — Mother tongue of street, market and popular media, heavily influenced by Amazigh and borrowings from Andalusi, Ottoman-Turkish, Spanish and French.
-- **Modern Standard Arabic** (*al-Fuṣḥā*) — Language of formal writing, sermon and news.
-- **Maliki jurisprudence** — School of Islamic law predominant among Moroccan Muslims.
-- **Sufi brotherhoods** (*ṭuruq*) — Devotional organizations including Tijāniyya (headquartered at Fez), Qādiriyya-Būdshīshiyya, ʿĪsāwiyya, Ḥamādsha and Shādhiliyya with lodges and saint tombs.
-- **Sharifian genealogy** — Royal claim of descent from the Prophet through Mawlāy Idrīs I, constitutive of political legitimacy; king holds title Amīr al-Muʾminīn.
+- **Moroccan Arabic** (*Darija*) — Maghrebi dialect with vowel reduction, ka-/ta- imperfect prefix, and Amazigh, Romance, Spanish and French lexical layers.
+- **Manuscript tradition** (*Maghribi mabsut*) — Moroccan script hand with gold and lapis illumination on goatskin-bound Qur'ans.
+- **Islamic school** (*Maliki*) — Sunni Islamic legal school followed by the population.
+- **Sufi orders** (*Tijaniyya / Qadiriyya-Boutchichiya*) — Institutionalised Sufism sustaining saint veneration, zawaya lodges and baraka transmission.
+- **Spirit belief** (*jnun / Gnawa*) — Folk practice alongside formal Islam, including spirit possession and sub-Saharan Gnawa ritual.
 
 ## Glossary
 
-- *ad-Dārija* — Moroccan Arabic, mother tongue influenced by Amazigh and Iberian languages
-- *al-āla* — Andalusi classical music suite tradition of Morocco
-- *ʿayṭa* — Rural song tradition of the Atlantic plains
-- *ʿĪsāwiyya* — Sufi brotherhood of Meknes with trance practices
-- *azraq Fāsī* — Characteristic cobalt blue of Fez pottery
-- *barrād* — Long-spouted brass or silver teapot
-- *basṭīla* — Celebratory Fassi dish of meat in pastry
-- *bsāṭ* — Satirical processional theatre of Fez
-- *dār* — Traditional urban house organized around central courtyard
-- *djellāba* — Long hooded outer robe for men
-- *ḥalqa* — Storytelling and juggling circle, especially in Marrakech
-- *ḥāʾik* — Large rectangle of undyed fabric worn as outer wrap by women
-- *ḥarīra* — Tomato-lentil-chickpea soup that breaks Ramadan fast
-- *khalkhāl* — Heavy hollow silver anklet
-- *laylat al-ḥenna* — Henna night, bridal preparation ritual
-- *malḥūn* — Sung poetry tradition of artisan guilds in Moroccan Arabic
-- *mūssem* — Regional pilgrimage-fair at saint's tomb
-- *qafṭān* — Formal women's robe, richly braided and belted
-- *samāʿ* — Sufi devotional song
-- *shebbākiyya* — Sesame-and-honey pastry eaten during Ramadan
-- *shīkhāt* — Professional women singers and dancers
-- *tadelakt* — Waterproof lime plaster finished to marble-like sheen
-- *tbourida* — Equestrian charge with muzzle-loading musket volley
-- *ṭabʿ* — Modal anchor of al-āla classical music suite
-- *zellīj* — Hand-cut glazed tile mosaic in geometric patterns
+- *djellaba* — hooded outer robe worn by men
+- *caftan* — full-length formal robe worn by women
+- *takchita* — caftan worn under overgown as wedding dress
+- *zellige* — hand-cut glazed tile mosaic
+- *gebs* — carved stucco bands with interlace and inscription
+- *tadelakt* — polished lime plaster sealed with olive soap
+- *moucharabieh* — turned-wood lattice screen
+- *nubat* — suite-form of Andalusi classical music
+- *malhun* — colloquial Arabic qasida poetry
+- *aita* — sung plains poetry
+- *shikhat* — professional women singer-dancers
+- *halqa* — street performance circle
+- *moussem* — saint's-day pilgrimage fair
+- *tbourida* — synchronized cavalry charge with musket fire
+- *tagine* — slow-cooked stew
+- *couscous* — steamed semolina with broth and vegetables
+- *harira* — lentil and tomato soup
+- *Darija* — Moroccan Arabic dialect
+- *Maliki* — Sunni Islamic legal school
+- *zawaya* — Sufi lodge or brotherhood center
+- *baraka* — blessed spiritual transmission
+- *maallem* — master craftsman in guild system
+- *khamsa* — open hand symbol against evil eye
 
 ## Sources & further reading
 
-- Wikipedia, "Moroccan Arabs", "Culture of Morocco", "Moroccan Arabic", "Andalusi classical music", "Malhun", "Zellige", "Tadelakt", "Fez, Morocco", "Marrakech", "Moroccan cuisine", "Caftan (Moroccan)", "Djellaba", "Handira", "Tbourida".
-- UNESCO Representative List of the Intangible Cultural Heritage of Humanity: Cultural Space of Jemaa el-Fna Square (2001/2008); Cherry Festival of Sefrou (2012); Argan, practices and know-how (2014); Gnawa (2019); Couscous, knowledge, know-how and practices (2020, multinational); Tbourida (2021); Malhun (2023); Zellige included in the craft cluster inscriptions.
-- Prosper Ricard, Corpus des tapis marocains (1923–1934) — the foundational survey of Moroccan carpet traditions.
-- Jean Besancenot, Costumes du Maroc (1942, repr. 1988) — the illustrated ethnographic record of Moroccan dress on the eve of independence.
-- Titus Burckhardt, Fez, City of Islam (1960, Eng. trans. 1992).
-- James Jankowsky, Handmade in Morocco (2018) on contemporary craft ecosystems.
-- Philip Schuyler and Habib Yammine on al-āla and malḥūn; Deborah Kapchan, Gender on the Market (1996) and Traveling Spirit Masters (2007) on Gnawa.
-- Susan Miller, A History of Modern Morocco (2013) for political-historical framing.
+- Nadia Erzini and Stephen Vernoit, The Great Mosque of Tangier and Moroccan Urban Crafts, in Journal of the Royal Asiatic Society / and Vernoit's collected work on Moroccan decorative arts (Brill)
+- Ivan Ross and Meriem Chabani, Moroccan Interiors / Lisl and Landt Dennis, Living in Morocco — surveys of riad, zellige, gebs and tadelakt practice (Taschen; Thames & Hudson)
+- Philip D. Schuyler and Deborah Kapchan on Moroccan music and shikhat performance; Kapchan, Gender on the Market: Moroccan Women and the Revoicing of Tradition (University of Pennsylvania Press, 1996)
+- Vincent Cornell, Realm of the Saint: Power and Authority in Moroccan Sufism (University of Texas Press, 1998)
+- Paula Wolfert, Couscous and Other Good Food from Morocco (Harper & Row, 1973) — the standard ethnographic cookbook
+- Marie-France Vivier (ed.), Maroc: Les trésors du Royaume / Musée du quai Branly Moroccan collections catalogue
+- https://en.wikipedia.org/wiki/Arabs
+- https://en.wikipedia.org/wiki/Moroccan_Arabic
+- https://ich.unesco.org/en/state/morocco-MA
+- https://folkways.si.edu/search?query=Morocco
+- https://collections.vam.ac.uk/search/?q=Morocco
+- https://www.metmuseum.org/art/collection/search?q=Morocco
+- https://www.rijksmuseum.nl/en/search?q=Morocco
 

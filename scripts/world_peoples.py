@@ -261,7 +261,7 @@ def _people_text(r: dict) -> str:
     if r["source"] == "cleveland":
         if _NOT_PEOPLE.search(parts[-1]):   # Asian rows end in a period: "Japan, Edo period (1615–1868)"
             return ""
-        m = re.sub(r"(possibly|probably|unknown|workshop|-?style|maker|artist|people|peoples)", " ", parts[-1], flags=re.I)
+        m = re.sub(r"\b(possibly|probably|unknown|workshop|-?style|maker|artist|people|peoples)\b", " ", parts[-1], flags=re.I)
         return m if len(parts) > 1 and m.strip() else ""
     return ", ".join(x for x in parts if not _NOT_PEOPLE.search(x))
 

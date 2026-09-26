@@ -17,15 +17,16 @@
     "country": "Tajikistan",
     "ethnicity": "Tajik",
     "tradition": "Sarazm",
-    "art_form": "architectural",
+    "art_form": "photo",
     "pattern_density": 0,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
-    "art_form_vision": "architectural",
+    "art_form_vision": "photo",
     "vision_reason": "The image shows a modern walkway with signage and a shelter structure at the Sarazm archaeological site in Tajikistan, not the ancient remains themselves or any Tajik-made object/dress. It's a documentary snapshot of the site's visitor infrastructure, plausibly linked to the region but showing no ethnographic content itself.",
     "vision_confidence": "MEDIUM",
     "vision_image": "weak",
-    "vision_era": "archaeological"
+    "vision_era": "archaeological",
+    "art_form_recheck": "architectural->photo: This is a modern documentary photo of the Sarazm archaeological site in Tajikistan, showing the visitor pathway, information signboards, and protective shelter structures rather than the ancient site "
   },
   "physical": {
     "title": "046 - senasis Sarazmas.jpg",

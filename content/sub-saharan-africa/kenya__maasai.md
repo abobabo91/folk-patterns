@@ -8,155 +8,161 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Maasai are a Nilotic pastoralist people who speak Maa. |
-| Where | Kenya and Tanzania, across the East African Rift from the Laikipia Plateau to the Serengeti and Kilimanjaro region. |
-| How many | 1.2 to 2 million people, split between Kenya and Tanzania. |
-| Language | Maa, an Eastern Nilotic language. |
-| Religion | Monotheistic belief in Enkai (the high god); Christianity and Islam also present. |
-| Known for | Red checked shuka cloth and beaded jewelry · Tall ochre-braided warriors (ilmurran) with long-bladed spears · Cattle-centered pastoral culture and age-set system · Adumu jumping dance and vocal music without drums · Elaborate flat disc-collars worn by married women |
+| Who | An Eastern Nilotic herding people of the Great Rift Valley |
+| Where | Southern Kenya and northern Tanzania — Kajiado and Narok counties, the Loita and Ngong hills, the plains around Amboseli, the Mara, Loliondo and the Ngorongoro highlands |
+| How many | 1,189,522 in Kenya as of 2019 |
+| Language | Maa, an Eastern Nilotic language |
+| Religion | Traditional monotheistic religion centred on Enkai, with Christianity and Islam now widely professed |
+| Known for | beadwork that reads social information · the jumping dance of warriors · age-set ceremonies · herding culture based on cattle, milk and blood |
 
 ## Overview
 
-The Maasai are a semi-nomadic cattle-herding people of East Africa organized by clans and strict age-sets through which every male passes. Cattle form the center of their economy, ritual life, and cultural identity. Their material culture is recognized worldwide for red cloth wrapping, intricate beadwork, ochred warrior braids, and distinctive shields and spears. They are uniquely East African in having no drums or melodic instruments, relying instead on complex a-cappella vocal music.
+The Maasai are spread across the semi-arid rangelands of southern Kenya and northern Tanzania. They are subdivided into twenty-two territorial sections, each with its own dialect and dress conventions. Almost every object they make states the wearer's age-grade, marital condition and section. Their material culture, music, dance and rituals centre on cattle, age-sets and the passage from boyhood through warriorhood to elderhood.
 
 ## Material culture
 
-Maasai material culture reflects their pastoral lifestyle, emphasizing portability, leather, beadwork, and the repurposing of imported cloth and materials.
+Maasai material culture is overwhelmingly functional and body-worn: beadwork, hide-work, and cloth arranged to broadcast social status.
 
 ### Textile & pattern traditions
 
-The shuka, a red-checked cotton wrapper, and elaborate beadwork are the signature Maasai textiles.
+Cloth and hide form the substrate for beadwork, the community's principal pattern art.
 
-- **Shuka** — A rectangular cotton wrapper, most commonly bright red with black or dark-blue grid, draped as the main garment and understood to signal bravery and protect against lions.
-- **Beadwork** (*enkiraru*) — A lexicon of geometric patterns in Czech glass seed beads on hide or wire, worked exclusively by women, with colors that encode meaning: white for purity, red for bravery, blue for sky and God, green for pastures, and black for hardship.
+- **Shúkà** — A rectangular cloth wrapped and knotted at the shoulder, worn singly or in layers, usually red checked or striped with black, blue, purple or orange.
+- **Kanga** — A one-piece printed cotton garment borrowed from the Swahili coast, worn especially by women in pairs.
+- **Kikoi** — A sarong-like woven cloth in many colours and textures, worn by Maasai living near the Kenyan coast.
+- **Beadwork** (*Maasai beadwork*) — Glass seed beads threaded on wire or sinew into flat discs, bands and panels, made by women in collective sessions with a colour grammar fixed enough to be read across sections.
+- **Flat collar** (*enkarewa*) — A beaded disc collar with concentric rings reading outward as bands, worn by married women.
 
 ### Clothing & dress
 
-Warriors wear layered shukas with ochre and braids; women wear shukas and load themselves with beaded ornaments and flat disc-collars.
+Dress is a dated statement of age-grade, with colours, beadwork and hair length marking the wearer's life stage.
 
-- **Warrior ochre finish** (*enturoto*) — Red ochre mixed with animal fat, coating the hair and body of ilmurran warriors to produce the iconic polished russet warrior look.
-- **Lion-mane headdress** (*olawaru*) — Historically worn by a warrior who had killed a lion single-handed; now heavily restricted and reserved for the eunoto graduation ceremony.
-- **Ostrich-feather corona** (*enkuraru*) — A spectacular black-and-white plume halo built on a leather band, worn by warriors at the eunoto ceremony.
-- **Tyre sandals** (*enamuka*) — Open sandals traditionally cut from raw cowhide, now made from recycled tire rubber, and read as a Maasai signature across East Africa.
-- **Married woman's disc-collar** (*engonongoi*) — A great flat collar of concentric beaded rings, sometimes half a metre in diameter, that swings as the wearer dances.
+- **Warrior dress** (*moran*) — Warriors wear red shúkà, long hair braided into thin strands and dressed with red ochre and sheep fat, and beaded belts, armlets and headbands.
+- **Initiate dress** (*emorata*) — For several months after circumcision, new initiates wear black cloth and paint their faces with white chalk.
+- **Married woman's collar** (*enkarewa*) — A large flat beaded disc collar worn with stacked coiled-wire neck rings, beaded headbands and brass earrings.
+- **Headdresses** (*enkuraru*) — Lion-mane and ostrich-feather headdresses worn by warriors at ceremonies, the mane headdress being the trophy of a lion kill.
+- **Sandals** (*Maasai sandals*) — Flat sandals cut from truck tyre rubber, with beaded or leather straps.
 
 ### Architecture
 
-The compound, or enkang, is a circular thornbush stockade enclosing cattle and houses, designed for semi-nomadic pastoral life.
+Homesteads are temporary enclosures of dung-and-mud houses built entirely by women, designed for a semi-nomadic grazing cycle.
 
-- **Cattle compound** (*enkang*) — A roughly circular kraal with a dense outer thornbush stockade high enough to turn a lion, cattle penned in the center, and houses arranged around the inner perimeter.
-- **House** (*enkaji*) — A low loaf-shaped or rectangular structure built by women on a frame of bent saplings, plastered with cow dung, mud, ash, urine and grass, with a single low doorway, two sleeping alcoves, and a hearth.
-- **Warrior ceremonial encampment** (*manyatta*) — A larger settlement built by warrior mothers to house an entire age-set collectively during training years, without the usual cattle enclosure.
+- **Homestead** (*enkang*) — A ring of houses enclosed by a dense thorn-bush fence of Acacia branches, with cattle penned in the centre at night and gates assigned to each wife's household.
+- **House** (*enkaji*) — A low, loaf-shaped or rectangular-oval structure with a frame of pliable sticks lashed into a dome and plastered with cow dung, mud, ash, grass and cattle urine.
 
 ### Ceramics, metalwork & everyday objects
 
-The Maasai rely on traded pottery but excel in leatherwork, woodcarving, and smithing, centered on functional and ritual objects.
+Maasai use gourds rather than pottery, and weapons — spears, clubs and shields — are the principal worked metal objects.
 
-- **Calabash** (*enkukuri*) — A bottle-gourd hollowed, dried, and smoked over olive heartwood to sterilize it and impart aroma, used to store and ferment milk and blood.
-- **Long-bladed spear** (*empere*) — A leaf-shaped spear with socketed butt, forged by hereditary smiths (il-kunono) from traded iron, the warrior's primary weapon.
-- **Throwing club** (*orinka*) — A club turned from dense hardwood or wild olive root with a heavy knobbed head and tapered shaft, carried by elders as a badge of office and thrown by warriors with lethal accuracy.
-- **Shield** (*ol-onga'a*) — An oval shield cut from thick buffalo or ox hide on a wooden strut, painted in bold red, white and black radial patterns that identify the bearer's age-set and section.
-- **Short sword** (*ol-alem*) — A short forged blade carried in a red leather scabbard on the belt, made by the hereditary smith caste.
+- **Calabash** — A dried bottle gourd used for milk and blood-and-milk mixture, its interior smoked with charred olea or acacia sticks and its surface sheathed in hide and beaded straps.
+- **Throwing club** (*orinka*) — A throwing club cut from a single piece of hardwood root with a heavy knob, thrown accurately at up to seventy paces.
+- **Knobbed club** (*rungu*) — The knobbed club carried by elders as a badge of authority.
+- **Short sword** (*ol alem*) — A short sword in a red-dyed leather scabbard.
+- **Shield** (*ol kirket*) — A buffalo-hide shield painted in red, black and white with the heraldry of the bearer's section and age-set.
 
 ### Jewelry & body adornment
 
-Beadwork is the pre-eminent Maasai art form, worked exclusively by women and applied to collars, belts, bracelets, and ear ornaments.
+Beaded ornaments dominate, and women and men progressively stretch their earlobes using thorns and then larger objects.
 
-- **Married woman's collar** (*engonongoi*) — A broad flat disc of concentric beaded rings on wire, sometimes half a metre across, that bounces on the chest during dancing.
-- **Wedding necklace** (*nborro*) — A beaded necklace with long pendant strands given to brides.
-- **Ear piercing** — Earlobes are stretched and pierced from childhood and decorated with beaded pendants, wooden plugs, ivory, or film-canister lids.
-- **Body scarification** — Small keloidal cheek and belly marks were historically widespread and are now much less common.
+- **Disc collar** (*enkarewa*) — A flat beaded disc collar stacked with coiled-wire neck rings, worn by married women.
+- **Wire ornaments** (*beaded armlets and anklets*) — Coiled wire armlets and anklets worn by women, often layered.
+- **Ear adornment** (*stretched earlobes*) — Earlobes progressively stretched using thorns, twigs, bundled sticks, stones, ivory cross-sections or empty film canisters, worn with metal hoops and beaded studs.
+- **Body dressing** (*ochre*) — Red ochre mixed with fat, used to dress the hair and shoulders of warriors.
 
 ## Music & performance
 
-Maasai music is overwhelmingly vocal and a-cappella, with no drums or melodic instruments, relying on polyphonic call-and-response.
+Maasai music is overwhelmingly vocal, built on a song leader's melody, a chorus's rhythmic harmonies, and a throat-tightened drone polyphony.
 
-- **Call-and-response singing** — A song leader improvises the melodic line and narrative while the chorus of warriors answers with rhythmic guttural throat-pulses and sharp inhaled grunts.
-- **Kudu horn** (*olarinyani*) — The sole regularly-used traditional instrument, sounded to summon warriors and at the climax of the eunoto ceremony.
-- **Praise-songs for oxen** — Songs composed to celebrate particular oxen by their colour-names and other distinctive qualities.
-- **Warrior boast-songs** (*enkigúenà*) — Individual warriors improvise and declaim boasts of their deeds before their age-mates.
+- **Song leader** (*olaranyani*) — The singer who carries the melody while a chorus supplies rhythmic vocal harmonies and a sustained low vocal pedal beneath it.
+- **Women's harmony pattern** (*Namba*) — A call-and-response harmony pattern built on repeated and sometimes nonsensical refrain phrases, sung by women.
+- **Meat-eating camp** (*olpul*) — A camp in the bush where warriors slaughter and roast an ox away from the settlement, with singing, praise-chanting and storytelling.
 
 ## Dance & theatre
 
-The adumu jumping dance of warriors and the women's collar dance are the most recognized Maasai performances, performed at ceremonies.
+Performance is danced and sung ceremony, with movement grades that mark age and status.
 
-- **Jumping dance** (*adumu*) — A circle of ochred warriors takes turns leaping vertically from a standing start while surrounding warriors intone vocal ostinato and women dance on the periphery jerking their shoulders so beaded disc-collars bounce.
-- **Collar dance** — A distinct women's dance emphasizing neck-and-shoulder movement to make the beaded disc-collars bounce in counter-rhythm.
-- **Warrior boasting speech** (*enkigúenà*) — A performative speech delivered by a warrior before his peers with strong rhetorical conventions.
+- **Warrior jumping dance** (*Adumu*) — A competitive jumping dance where warriors form a circle, one or two step into the centre and leap vertically without heels touching down, while the chorus raises its vocal drone in step with the jump height.
+- **Women's shoulder dance** (*women's dances*) — A forward-and-back shoulder thrust that sets the beaded disc collar rocking and flashing, danced in lines facing the men.
+- **Formal march** (*march-past*) — A formal march-past performed by the Il-Oodokilani warriors at Eunoto.
 
 ## Festivals & rituals
 
-Age-set transitions and cattle-centered ceremonies structure Maasai ritual life, particularly male initiation and the eunoto graduation.
+The Maasai calendar is age-set time: great generational events marking passage through boyhood, warriorhood and elderhood.
 
-- **Male initiation** (*emuratare*) — At around fifteen, circumcision is performed publicly and in silence; the initiate enters seclusion wearing black robes and white face paint, hunts small birds for headdress decoration, and graduates into the ilmurran grade.
-- **Warrior graduation ceremony** (*eunoto*) — Held roughly every fifteen years, mothers build a manyatta and warriors gather for days of feasting, singing, and adumu; each warrior's mother shaves off his ochred braids at the climax.
-- **Elder promotion** (*olng'esherr*) — The later ceremony that promotes junior elders to full senior elderhood.
-- **Meat-feasting retreat** (*olpul*) — Warriors withdraw for days or weeks to a secluded bush camp to slaughter and roast an ox or goats, drink blood-broth, and gorge on meat in a ritualised bout of male commensality.
-- **Rain-making prayers** — Drought-breaking and rain-making prayers are directed to Enkai through the oloiboni ritual expert-diviner.
+- **Circumcision** (*Emorata*) — The boy's head is shaved two days before, elders cut with a sharpened knife, and he must endure it without sound or movement.
+- **Warrior promotion** (*Eunoto*) — A ceremony lasting ten or more days that promotes moran to junior elder, culminating in the shaving of the warriors' long plaited hair by their mothers.
+- **Passage to senior elderhood** (*Olng'esherr*) — The meat-eating ceremony that closes the passage to full senior elderhood.
+- **New age-set opening** (*Enkipaata*) — A ceremony that opens a new age-set.
+- **Female excision alternative** (*cutting with words*) — An alternative ceremony of singing and dancing, promoted as a replacement for the illegal practice of Emuatare.
 
 ## Foodways
 
-The traditional Maasai diet is narrow and unusually animal-based, centered on milk, cattle blood, and meat at ceremonies.
+The classical diet is milk, meat and blood from Zebu cattle, but modern Maasai diets now include substantial plant foods like maize ugali and vegetables.
 
-- **Milk** (*kule*) — Fresh or soured milk, drunk from smoked calabashes, is the dietary staple.
-- **Cattle blood** (*saroi*) — Drawn from a small arrow-wound in the jugular vein of a living ox and closed with mud, mixed with milk to produce a nutrient-dense beverage for the sick, women after childbirth, and warriors after circumcision.
-- **Meat** (*enkiri*) — Beef, mutton, and goat are eaten in quantity at ceremonial slaughters and olpul retreats but not as everyday food.
-- **Medicinal bark broth** (*motori*) — The bitter bark of Acacia nilotica and Warburgia ugandensis is boiled into meat soups drunk at olpul as digestive and tonic.
-- **Honey beer** (*enaisho*) — Brewed for elders' ceremonies.
+- **Fermented milk** (*buttermilk*) — Most milk is drunk fermented or as buttermilk left from churning, with consumption figures extremely high.
+- **Blood drink** (*blood-and-milk mixture*) — Blood tapped from the jugular of a living bullock with a blocked arrow and drunk fresh or mixed with milk, served particularly to the sick, women after childbirth, and newly circumcised initiates.
+- **Smoked milk storage** (*hide-cased gourd*) — Milk stored and soured in a hide-cased gourd, disinfected with charred acacia, which gives it a distinct smoky taste.
+- **Warrior roast meat** (*olpul*) — A bush camp where warriors eat roast meat in quantity, boiled with bitter bark infusions believed to give strength and courage.
+- **Spiced milky tea** (*chai*) — Sweet spiced milky tea, the near-universal item of hospitality.
 
 ## Oral tradition & literature
 
-Maasai oral literature includes praise-poems, boast-songs, genealogies, proverbs, and fables, with prophecy kept by the oloiboni diviners.
+Maa is traditionally unwritten; memory is carried in genealogies, praise-poetry, prophetic utterances and evening storytelling.
 
-- **Boast-songs** (*enkigúenà*) — Individual warriors declaim boasts of their deeds before their age-mates with formal performative conventions.
-- **Genealogies** (*enkiteng oo lmaasai*) — Formal genealogies of the Maasai people.
-- **Proverbs** (*inkinjejek*) — Maasai proverbs transmit wisdom and cultural values.
-- **Riddles** (*ilomon*) — Traditional riddles used for education and entertainment.
-- **Age-set naming system** — Each warrior age-set has a name (Ilterito, Ilnyangusi, Iseuri, etc.) that anchors a generation of events so that historical narrative is transmitted precisely: 'in the time of Iseuri' locates a story exactly.
+- **Warrior praise songs** (*praise songs*) — Warriors compose and perform songs naming their own deeds and their cattle.
+- **Prophet** (*laibon*) — A diviner-healer whose authority rests on personal reputation, through whom prophetic utterances are delivered, including the most celebrated, Mbatian, after whom the highest peak of Mount Kenya is named.
+- **Open assembly** (*enkiguena*) — An open assembly where elders' debate is conducted with an etiquette of turn-taking and metaphor.
+- **Folklore collection** (*The Masai: Their Language and Folklore*) — A. C. Hollis's 1905 publication remains the largest single published corpus of Maa tales and proverbs.
 
 ## Language & religion
 
-Maa is a tonal language with rich cattle-color vocabulary; traditional religion is monotheistic belief in the dual-aspected Enkai dwelling on Ol Doinyo Lengai.
+Maa is an Eastern Nilotic language; traditional religion is monotheistic, centred on Enkai, the deity of dual aspect, and two totemic moieties.
 
-- **Maa language** (*ɔl Maa*) — An Eastern Nilotic language with marked/unmarked gender system and noun prefixes ol-/ilo- (masculine) or en-/ena- (feminine), spoken in a dialect continuum from north to south.
-- **High god** (*Enkai*) — The single high god, also called Ngai, dual-aspected as Enkai Narok (the black benevolent god of rain) and Enkai Nanyokie (the red angry god of drought).
-- **Mountain of God** (*Ol Doinyo Lengai*) — An active volcano in northern Tanzania where Enkai is understood to dwell.
-- **Ritual diviner-prophet** (*oloiboni*) — A hereditary diviner of the Il-Aiser clan who mediates between the community and Enkai through divination with pebbles cast from a cow-horn and keeps prophecy and history.
-- **Divination horn** (*enkidong*) — A cow-horn from which the oloiboni casts pebbles for divination.
+- **Deity** (*Enkai*) — A single deity of dual aspect: Engai Narok, the Black God, benevolent and associated with rain-bearing cloud, and Engai Na-nyokie, the Red God, vengeful and associated with drought and lightning.
+- **Red Cow moiety** (*Oodo Mongi*) — One of two totemic moieties, the Red Cow, subdivided into five clans.
+- **Black Cow moiety** (*Orok Kiteng*) — One of two totemic moieties, the Black Cow, subdivided into five clans.
+- **Tribal totem** (*lion*) — The lion is the tribal totem animal.
+- **Mountain of God** (*Ol Doinyo Lengai*) — The active carbonatite volcano in northern Tanzania, regarded as the Mountain of God.
 
 ## Glossary
 
-- *ilmurran* — warrior age-grade
-- *enkaji* — Maasai house
-- *enkang* — cattle compound or kraal
-- *manyatta* — ceremonial warrior encampment
-- *enkiraru* — beadwork
-- *enkuraru* — ostrich-feather corona headdress
-- *engonongoi* — married woman's beaded disc-collar
-- *enturoto* — red ochre body paint
-- *shuka* — red-checked cotton wrapper cloth
-- *empere* — long-bladed leaf-shaped spear
-- *orinka* — throwing club (rungu in Swahili)
-- *ol-onga'a* — shield
-- *enkukuri* — bottle-gourd calabash
-- *adumu* — jumping dance of warriors
-- *emuratare* — male initiation ceremony
-- *eunoto* — warrior graduation ceremony
-- *olpul* — meat-feasting warrior retreat
-- *enkigúenà* — warrior boast-song
-- *Enkai* — the high god
-- *oloiboni* — ritual diviner-prophet
-- *saroi* — cattle blood
-- *kule* — milk
+- *shúkà* — rectangular cloth wrapped at the shoulder, red checked or striped
+- *kanga* — one-piece printed cotton garment from the Swahili coast
+- *kikoi* — sarong-like woven cloth worn near the coast
+- *enkarewa* — large flat beaded disc collar worn by married women
+- *enkaji* — low dung-and-mud house built by women
+- *enkang* — homestead with ring of houses enclosed by thorn fence
+- *calabash* — dried bottle gourd for storing milk and blood mixtures
+- *orinka* — throwing club cut from hardwood root
+- *rungu* — knobbed club carried by elders as badge of authority
+- *ol alem* — short sword in red-dyed leather scabbard
+- *ol kirket* — buffalo-hide shield painted with section and age-set heraldry
+- *moran* — warrior age-grade
+- *Adumu* — competitive jumping dance of warriors
+- *Emorata* — circumcision ceremony initiating boys into warriorhood
+- *Eunoto* — ceremony promoting warriors to junior elder over ten or more days
+- *Olng'esherr* — meat-eating ceremony closing passage to senior elderhood
+- *Enkipaata* — ceremony opening a new age-set
+- *olpul* — meat-eating camp where warriors roast and slaughter ox away from settlement
+- *olaranyani* — song leader who carries melody
+- *Namba* — women's call-and-response harmony pattern
+- *laibon* — diviner-healer whose authority rests on personal reputation
+- *enkiguena* — open assembly for elders' debate conducted with turn-taking etiquette
+- *Enkai* — single deity of dual aspect in traditional religion
+- *Oodo Mongi* — Red Cow moiety subdivided into five clans
+- *Orok Kiteng* — Black Cow moiety subdivided into five clans
 
 ## Sources & further reading
 
-- Wikipedia: "Maasai people", "Maa language", "Samburu people", "Il Chamus", "Maasai mythology", "Shuka (cloth)", "Rungu (weapon)"
-- UNESCO Intangible Cultural Heritage — the Maasai have no inscriptions in their own name as of the current lists, but see the related East African pastoralist entries and Kenya's national ICH inventory
-- Paul Spencer, The Maasai of Matapato: A Study of Rituals of Rebellion (1988) and Time, Space and the Unknown: Maasai Configurations of Power and Providence (2003)
-- Tepilit Ole Saitoti, The Worlds of a Maasai Warrior: An Autobiography (1986)
-- Thomas Spear and Richard Waller (eds.), Being Maasai: Ethnicity and Identity in East Africa (1993)
-- Naomi Kipury, Oral Literature of the Maasai (1983)
-- Donna Klumpp Pido, published work on Maasai beadwork and colour symbolism
-- John G. Galaty, articles on Maasai age-set organisation and pastoral land tenure
+- Amin, Mohamed; Willetts, Duncan; Eames, John. The Last of the Maasai. Camerapix Publishers International, 1987. ISBN 1-874041-32-6.
+- Hollis, A. C. The Masai: Their Language and Folklore. Clarendon Press, 1905.
+- Spencer, Paul. The Maasai of Matapato: A Study of Rituals of Rebellion. Manchester University Press / International African Institute, 1988.
+- Saitoti, Tepilit Ole, and Carol Beckwith. Maasai. Harry N. Abrams, 1980.
+- Klumpp, Donna, and Corinne Kratz — comparative research on Maasai and Okiek beadwork and the social reading of bead colour and form.
+- Wikipedia: https://en.wikipedia.org/wiki/Maasai_people
+- Smithsonian Folkways: https://folkways.si.edu/search?query=Maasai
+- The British Museum, Africa collections (Maasai shields, spears, beadwork): https://www.britishmuseum.org/collection
+- Victoria and Albert Museum: https://collections.vam.ac.uk/
+- The Metropolitan Museum of Art, Arts of Africa: https://www.metmuseum.org/art/collection
+- Indiana University Art Museum, Arts of Kenya online collection
 

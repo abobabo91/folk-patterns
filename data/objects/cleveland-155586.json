@@ -17,7 +17,7 @@
     "country": "Vietnam",
     "ethnicity": "Cham",
     "tradition": "Cham",
-    "art_form": "architectural",
+    "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
     "vision_by": "cloud-subagent:sonnet",
@@ -25,7 +25,7 @@
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "archaeological",
-    "art_form_vision": "architectural",
+    "art_form_vision": "sculpture",
     "reattribution": {
       "to": "southeast-asia__vietnam__cham",
       "people": "Cham",
@@ -34,7 +34,8 @@
       "image": "good",
       "era": "archaeological",
       "reason": "The image shows a sandstone architectural bracket carved as an apsara-like celestial figure with tiered crown, earrings, and necklace, consistent with Cham temple decoration from historic Champa (Vietnam)."
-    }
+    },
+    "art_form_recheck": "architectural->sculpture: The image shows a stone sculpted bust of a crowned celestial figure (apsara) with tiered crown and necklace, originally part of a Cham temple's architectural embellishment — consistent with Cham sacre"
   },
   "physical": {
     "title": "Apsara Bracket",

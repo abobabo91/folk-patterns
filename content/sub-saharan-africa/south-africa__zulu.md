@@ -8,156 +8,162 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | Zulu people, the largest ethnic group in South Africa |
-| Where | KwaZulu-Natal province between the Drakensberg escarpment and the Indian Ocean, with diaspora across Gauteng, Mpumalanga, and the Free State |
-| How many | 11–12 million |
-| Language | isiZulu, a Nguni Bantu language with click consonants |
-| Religion | Majority Christian today; traditional ancestor veneration coexists with Christian practice |
-| Known for | Beadwork semiotics and love letters · Black burnished beer pots and coiled grass baskets · Isicathamiya close-harmony a cappella singing · Praise poetry and oral tradition · Cattle-centered pastoralist culture |
+| Who | The Zulu, the largest ethnic group in South Africa |
+| Where | KwaZulu-Natal, a humid coastal region and thornveld between the Indian Ocean and the Drakensberg escarpment |
+| How many | Roughly eleven to twelve million people |
+| Language | IsiZulu, a Nguni Bantu language with click consonants, the most widely spoken language in South Africa |
+| Religion | Mostly Christian, especially African Initiated Churches like the Nazareth Baptist Church, alongside ancestor veneration |
+| Known for | Colour-coded glass beadwork that signals age, wealth and marital status · Burnished black pottery with raised bosses · Coiled ilala palm basketry · Isicathamiya male a cappella singing · High-kicking indlamu dance and stick fighting |
 
 ## Overview
 
-The Zulu are a Bantu people of southeastern Africa who emerged as a distinct kingdom under Shaka in the early 1800s. Their culture centers on cattle wealth, age-based military regiments, and dense traditions of beadwork, praise poetry, and ceremony. They are known for distinctive pottery, coiled grass work, and music forms like isicathamiya. Today most Zulu are Christian, though ancestral veneration remains central to family life.
+The Zulu are South Africa's largest ethnic group, living mainly in KwaZulu-Natal. They speak isiZulu, a Bantu language with click consonants. Their culture is known for beaded surface patterns, blackware pottery, and vocal music traditions. Life is organized around homesteads, cattle, and a rigid dress code that marks age and marital status.
 
 ## Material culture
 
-Zulu material culture emphasizes hand-crafted objects in clay, beads, grass, wood and hide, each carrying semantic meaning and tied to life rituals.
+Zulu material identity comes from beaded cloth and hide, coiled palm fibre, and carved wood rather than from woven textiles.
 
 ### Textile & pattern traditions
 
-Beadwork in geometric patterns and coiled grass work replace weaving as the signature pattern languages of Zulu culture.
+Zulu beadwork and basketry use colour and geometry to signal wealth, marriage, and clan affiliation.
 
-- **Zulu love letter** (*incwadi yothando*) — A small beaded rectangle exchanged between courting couples in which bead colors and arrangement encode a message legible to insiders.
-- **Beer-pot lid** (*imbenge*) — Tightly woven coiled grass or modern telephone-wire form patterned in stepped triangles and diamond lattices.
-- **Tall lidded basket** (*ukhamba*) — A coiled grass basket for storage patterned in stepped triangles, raised bosses, and diamond lattices.
-- **Woman's headdress** (*isicholo*) — A flared red ochre-dyed basketry crown worn by married women, historically stiffened with fat and ochre.
+- **Zulu beadwork** (*isigcebhezana, isicholo, ucu*) — Glass seed beads sewn onto cloth, hide or strung into panels, collars and belts in geometric triangle patterns with regional colour schemes that carry messages about the wearer.
+- **Love letter** (*ucu*) — A small beaded panel or necklace given as a courtship token, with the message encoded in colour and triangle orientation.
+- **Zulu basket** (*ukhamba, imbenge*) — Coiled basketry in ilala palm split and dyed to brown, ochre and black, with signature forms including a lidded beer basket and a shallow flared bowl-cover.
+- **Short ceremonial skirt** (*isigcebhezana*) — A beaded leather or hide skirt worn in ritual contexts, essential to coming-of-age and marking the wearer as ready for marriage.
+- **Pregnancy belt** (*isibamba*) — A thick belt coiled from dried grass and sheathed in glass beadwork, worn by pregnant women to support the abdomen.
 
 ### Clothing & dress
 
-Everyday dress historically used minimal worked cattle hide; ceremonial dress layers beadwork, feathers and leather with strict rules for marital and rank status.
+Dress strictly encodes life stage: unmarried girls wear short beaded skirts, engaged women add hairnets, and married women wear long hide skirts and the flared isicholo headdress.
 
-- **Front apron** (*isinene*) — Men's twisted fur-tail apron worn at the front of the body as everyday dress.
-- **Buttock cover** (*ibheshu*) — Men's rear softened cowhide covering worn as part of everyday dress.
-- **Girl's beaded skirt** (*isigege*) — A short beaded skirt worn by unmarried girls, who went bare-breasted with heavy bead collars.
-- **Married woman's skirt** (*isidwaba*) — A longer pleated leather skirt blackened with fat and charcoal, worn for life once married.
-- **Married man's headring** (*isicoco*) — A pillbox-shaped ring historically sewn into the hair with beeswax and sinew to mark married status.
+- **Married woman's headdress** (*isicholo*) — A flared disc-shaped headdress historically built onto the hair with ochre and fat, later made as a detachable red-ochred cap, often beaded at the rim.
+- **Long hide skirt** (*isidwaba*) — A pleated cowhide skirt worn by married women, falling past the knee and worn under a beaded cloth apron.
+- **Male ceremonial kilt** (*ibheshu*) — A soft calfskin rear flap worn by men with a leather front apron, accompanied by fur or hide armbands and white cow-tail switches for dancing.
+- **Male headring** (*isicoco*) — A ring of fibre and gum sewn into the hair and polished with beeswax, historically marking a married man.
 
 ### Architecture
 
-The traditional homestead is a ring of beehive huts arranged around a central cattle byre, with strict placement by seniority and rank.
+The homestead is a circular settlement of dwellings enclosing a cattle byre, with the classic dwelling a beehive-shaped grass-thatched dome.
 
-- **Homestead** (*umuzi*) — A ring of domed dwellings arranged around a central circular cattle byre built of heavy timber stakes.
-- **Beehive hut** (*indlu or iqhugwane*) — A hemispherical frame of bent saplings lashed with plaited grass and thatched with tambootie grass, with a polished cow-dung floor and central hearth.
-- **Head hut** (*indlunkulu*) — The homestead head's dwelling, placed at the top of the homestead arc opposite the gate.
-- **Grain granary** (*izilulu*) — Raised woven basket granaries on stilts above the cattle byre for storing grain.
+- **Homestead** (*umuzi*) — A ring of dwellings enclosing a central cattle byre, fenced with palisade, with the headman's mother's house at the apex opposite the gate.
+- **Beehive house** (*iQukwane*) — A hemispherical dome of saplings bent and lashed into a lattice, thatched in overlapping grass courses, with a low arched doorway and polished cow-dung-burnished floor.
+- **Cattle byre** (*isibaya*) — The central enclosure within the homestead where cattle are kept at night.
+- **Military barracks** (*ikhanda, amakhanda*) — Large regimental compounds built under Shaka, reproducing the homestead plan at vastly larger scale and maintained by resident regiments.
 
 ### Ceramics, metalwork & everyday objects
 
-Hand-built black burnished ceramics and carved wooden objects serve functional and ceremonial roles tied to beer, food, and ancestral contact.
+Pottery is hand-coiled, burnished and blackened; wooden objects are carved in relief with decorative bosses; weapons remain personal identity markers.
 
-- **Beer pot** (*ukhamba*) — A round-bellied, narrow-necked pot in which sorghum beer is brewed and communally drunk, often decorated with raised bosses or incised triangles.
-- **Long-handled spoon** (*izinkezo*) — A carved wooden spoon with a deep bowl and stylized finial, historically a young woman's first gift from a suitor.
-- **Meat platter** (*ugqoko*) — A round or oval hardwood platter on which roasted meat is served at ceremonies, with the largest examples being ceremonial property of the homestead head.
-- **Headrest** (*isigqiki*) — A carved wooden neck-pillow on two to four legs used to protect hairstyles during sleep and serve as a conduit to ancestors.
-- **Stabbing spear** (*iklwa*) — A short-shafted broad-bladed spear introduced under Shaka, named for the sucking sound of withdrawal from a body.
+- **Beer pot** (*ukhamba*) — A round-shouldered pot hand-built by coiling, burnished with a pebble, fired in a pit and blackened by smudging with green leaves, decorated with raised bosses in linear and lozenge fields.
+- **Headrest** (*isigqiki*) — Carved from a single block of wood with lug feet and relief decoration, doubling as a seat and a channel to the ancestors in dream.
+- **Meat platter** (*ugqoko*) — A long low oval wooden dish for serving.
+- **Short stabbing spear** (*iklwa*) — Shaka's reformed spear design, shorter than traditional throwing spears and used in close combat.
+- **Cowhide shield** (*isihlangu, umbumbuluzo*) — An oval shield whose hide colour once identified the regiment to which the bearer belonged.
 
 ### Jewelry & body adornment
 
-Beadwork dominates personal adornment; layered collars, beaded bands, and distinctive wooden earplugs mark social status and home district.
+Beaded ornaments dominate; the most distinctive Zulu form is the large wooden or plastic earplug set into a stretched earlobe.
 
-- **Throat collar** (*ithimba or umgexo*) — Layered beaded collars worn by married women across the throat and chest.
-- **Earplug** (*iziqhaza*) — Large circular plugs inserted through stretched lobes, historically wooden and later beaded or made of laminated plastic and mirror in geometric mosaics.
-- **Wire coil** (*ucingo*) — Copper or brass wire tightly coiled around wrists, ankles and neck by women in some inland communities.
-- **White clay paint** (*ifutha*) — Face and body paint marking initiates, diviners in training, and brides during specific wedding phases.
+- **Earplug** (*isiqhaza, iziqhaza*) — A large disc set into a stretched earlobe, historically carved from wood with inlaid pith or bone, now made as plastic mosaic discs in bright interlocking geometry.
+- **Beaded collar** (*ithemba*) — Neckbands, wristbands and anklets of beaded ornament worn by both men and women.
+- **Male headring** (*isicoco*) — A fibre and gum ring sewn into the hair and polished with beeswax, historically marking married status.
 
 ## Music & performance
 
-Zulu music is built on cyclic call-and-response choral harmony, with distinct genres for different social contexts.
+Zulu music is overwhelmingly vocal, built on call-and-response with overlapping entries, accompanied by bows, flutes, jaw harps and drums.
 
-- **Soft-shoe close harmony** (*isicathamiya*) — An a cappella genre developed in migrant hostels from the 1920s, with controlled tiptoe choreography letting voices dominate, brought to global audiences by Ladysmith Black Mambazo.
-- **Guitar tradition** (*maskandi*) — A solo or small-group form with steel-string guitar tuned to open chords accompanying narrative song and spoken praise-poem.
-- **Full-throated choral form** (*mbube*) — An older, louder choral form meaning 'lion', from which isicathamiya softened.
-- **Musical bow** (*umakhweyana*) — A mouth-resonated bow used as a traditional instrument.
-- **Praise-singer** (*imbongi*) — A specialized performer who declaims dense praise-poetry in rapid staccato register punctuated by audience ululation.
+- **Maskandi** (*maskanda*) — An itinerant guitarist's genre of picked, fast-strummed music opening with a flourish and carrying spoken self-praise, associated with migrant labourers.
+- **Male a cappella tradition** (*isicathamiya*) — Bass-heavy close harmony singing with choreographed tiptoe steps, born in Durban and Johannesburg hostels and performed competitively in all-night contests.
+- **Loud predecessor to isicathamiya** (*mbube*) — An earlier vocal style made famous by Solomon Linda's 1939 song Mbube.
+- **Gourd-resonated bow** (*ugubhu*) — Plucked while the player's mouth modulates overtones over the gourd's opening, a core Zulu instrument.
+- **Praise poetry** (*izibongo*) — Historical poems delivered by royal poets at speed with breath-group phrasing and no fixed melody.
 
 ## Dance & theatre
 
-Dance is codified by occasion and sex, with warrior high-kick dances for men and measured group stamping dances for women and girls.
+Zulu dance is grounded in high kicks, ground-stamping and martial display, with no indigenous masked or scripted theatre tradition.
 
-- **Warrior high-kick dance** (*indlamu*) — Men's dance in full regimental regalia in which the dancer raises one leg vertically and brings the flat foot down in percussive stamps.
-- **Group stamping dance** (*ingoma*) — An unaccompanied group dance subdivided into regional styles including the gumboot dance of the mines.
-- **Coming-of-age dance** (*umemulo*) — A young woman's ceremony marking her readiness for marriage, with tightly scripted choreography.
-- **Bride's arrival dance** (*umabo*) — A ritual dance performed when the bride arrives at the groom's homestead, part of a multi-stage wedding sequence.
+- **High-kick warrior dance** (*indlamu*) — Massed male dancers raising one leg above the head and bringing the foot down hard in unison, wearing ibheshu and cow-tail switches, holding shield and stick.
+- **Reed Dance** (*Umhlanga*) — An annual gathering held near Nongoma since 1984, putting thousands of young women in beaded isigcebhezana before the king.
+- **Stick fighting** (*ukungcweka*) — A sport and duel where boys age-matched opponents use sticks, beginning as young as five, with rules against striking a disarmed opponent.
+- **Boot dance** (*isicathulo, gumboot dance*) — An emergent form among mine and dock workers who slapped and stamped their Wellington boots in percussive interlock.
+- **Lines of dancers** (*isishameni, isizingili*) — Regional styles of unaccompanied or drum-driven dance performed by lines of men and by young women in umzansi style.
 
 ## Festivals & rituals
 
-The ritual calendar is anchored by two great royal ceremonies and dense life-cycle rituals involving cattle sacrifice, beer-brewing, and ancestral communication.
+The first-fruits ceremony and Reed Dance are annual celebrations; life passages are marked with animal sacrifice and bride-wealth negotiations.
 
-- **Reed Dance** (*Umkhosi Womhlanga*) — Held in September at the king's homestead, tens of thousands of unmarried young women cut reeds from the riverbank and present them to the king.
-- **First Fruits ceremony** (*Umkhosi Woselwa or Ukweshwama*) — Held around December solstice, ritually opens the new agricultural season with the king tasting the new harvest and historically bare-handed killing of a black bull by young warriors.
-- **Newborn naming** (*imbeleko*) — A goat is slaughtered to introduce the child to the ancestors.
-- **Bringing home the deceased** (*ukubuyisa*) — A ceremony a year after death in which the deceased is ritually brought from the grave to join the ancestors and take their place at the family shrine.
-- **Ancestral shrine** (*umsamo*) — A shrine inside the head hut where ancestors are contacted by the homestead head and family members.
+- **First-fruits ceremony** (*ukweshwama*) — The central annual rite of prayer to the creator and ancestors at the new harvest, where young warriors confront a bull bare-handed to inherit its strength.
+- **Reed Dance** (*Umhlanga*) — Held annually in September to promote pride in virginity and restraint; the king addresses the young people on political matters.
+- **Birth introduction** (*imbeleko*) — A goat sacrifice introducing a newborn to the ancestors.
+- **Coming-of-age ceremony** (*umemulo*) — A woman's twenty-first-year rite marking her readiness to marry, involving ox slaughter and wearing the isigcebhezana.
+- **Bride-wealth** (*ilobolo*) — Cattle payment from the groom's father to the bride's family, codified in 1869 at ten head for commoners and higher for chiefly families.
 
 ## Foodways
 
-The diet combines staple maize porridges with wild greens, soured milk, and festive meat, all shared and distributed by kinship rank.
+Beer and cattle are central to feasting and ritual, though the profile does not detail everyday cooking practices.
 
-- **Dry maize porridge** (*uphuthu*) — The staple eaten with sour milk curdled in a calabash or with leafy relish.
-- **Sour milk** (*amasi*) — Milk curdled in a calabash, eaten with porridge.
-- **Soft pumpkin porridge** (*isijingi*) — A soft pumpkin-and-maize porridge eaten as part of the traditional diet.
-- **Samp and beans** (*umngqusho*) — A dish shared across the wider Nguni region.
-- **Sorghum beer** (*utshwala or umqombothi*) — Thick and lightly sour beer brewed by women, served first to ancestors by pouring onto the head hut floor, then drunk communally from the ukhamba pot.
+- **Beer pot** (*ukhamba, uphiso*) — Large coiled and blackened pots used for brewing and carrying beer between homesteads, central to feasting and ceremony.
 
 ## Oral tradition & literature
 
-Praise-poetry and fireside folktales are the prestige oral genres, later developing into written isiZulu literature.
+Zulu narratives divide between evening folktales told by women and historical praise poems recited by royal poets.
 
-- **Praise-poem** (*izibongo*) — Dense, metaphor-driven verse composed for chiefs, kings, warriors, cattle, and modern figures, performed at speed in a distinctive high-pitched register.
-- **Fireside folktale** (*izinganekwane*) — Tales told by grandmothers featuring the trickster hare, the ogress Zim, and the cannibal, opening with 'Kwesukasukela' (Once upon a time).
-- **Proverb** (*izaga*) — Sayings woven into everyday speech.
-- **Riddle** (*izilibo*) — Word puzzles woven into everyday speech.
+- **Folktale** (*izinganekwane*) — Evening tales told by women and older girls, opened with a formula and interspersed with sung refrains the audience joins.
+- **Clever weasel-mongoose trickster** (*Chakijana*) — A folktale character who outwits the powerful through cunning.
+- **Precocious dwarf trickster** (*uHlakanyana*) — A folktale character born speaking who outwits the powerful.
+- **Praise poem** (*izibongo*) — Historical poems of kings and lineages delivered at speed, serving as historical record as much as poetry.
+- **Clan praise-name** (*izithakazelo*) — Names recited to greet and place a stranger by lineage.
 
 ## Language & religion
 
-IsiZulu is a Nguni Bantu language with click consonants; traditional religion centers on a distant creator and intercessory ancestors, now mostly coexisting with Christianity.
+IsiZulu is a Nguni Bantu language with click consonants; most Zulu are Christian, especially in African Initiated Churches, while maintaining ancestor veneration.
 
-- **Creator** (*uMvelinqangi or uNkulunkulu*) — A distant creator deity who is rarely addressed directly in traditional Zulu religion.
-- **Ancestors** (*amadlozi or abaphansi*) — Those below, the intercessory ancestors reached through the homestead head at the shrine and through diviners and herbalists.
-- **Diviner** (*isangoma*) — Usually a woman called to the vocation by ancestral dreams and initiation illness, who performs divination by throwing bones and trance dance.
-- **Herbalist** (*inyanga*) — A healer and specialist in traditional medicine.
-- **Nazareth Baptist Church** (*ibandla lamaNazaretha*) — Founded by Isaiah Shembe in 1910, fuses Zulu ritual, dress and dance with a distinctively Zulu reading of the Old Testament.
+- **Zulu language** (*isiZulu*) — A Nguni Bantu language with three click consonant series absorbed from Khoisan contact, a fifteen-noun-class system, and mutual intelligibility with Xhosa and Swati.
+- **Nazareth Baptist Church** — An African Initiated Church founded by Isaiah Shembe with hymns and processional dances set to Zulu rather than European idiom.
+- **Ancestral spirit** (*idlozi*) — A person's spirit after death, surviving if the person lived with ubuntu (human dignity).
+- **Diviner** (*sangoma*) — A practitioner who consults the ancestors for guidance.
+- **Herbalist** (*inyanga*) — A healer who compounds muthi (medicine), distinguishing between white muthi that heals and black muthi that harms.
 
 ## Glossary
 
-- *amadlozi* — Ancestors; the deceased who intercede for the living
-- *amasi* — Sour milk curdled in a calabash
-- *ibheshu* — Softened cowhide rear cover worn by men
-- *imbongi* — Praise-singer who performs praise-poetry
-- *imbenge* — Coiled grass or wire lid for beer pots
-- *iklwa* — Short-shafted stabbing spear introduced by Shaka
-- *isiZulu* — The Zulu language, a Nguni Bantu language with click consonants
-- *isicholo* — Red ochre-dyed headdress worn by married women
-- *isicoco* — Headring worn by senior married men
-- *isigege* — Short beaded skirt worn by unmarried girls
-- *isinene* — Twisted fur-tail front apron worn by men
-- *isicathamiya* — Soft-shoe close-harmony a cappella singing tradition
-- *izibongo* — Praise-poetry; dense metaphor-driven verse for chiefs and warriors
-- *izilulu* — Raised woven basket granaries on stilts
-- *maskandi* — Zulu guitar tradition with narrative song and praise-poem
-- *ukhamba* — Round-bellied beer pot for brewing and serving sorghum beer
-- *umsamo* — Ancestral shrine inside the head hut
-- *utshwala* — Sorghum beer brewed by women, drunk communally
+- *isiZulu* — The Zulu language, a Nguni Bantu language
+- *ucu* — A small beaded love letter given as a courtship token
+- *ilala* — A palm tree whose split fibre is used for coiled basketry
+- *ukhamba* — A lidded beer basket, or a round-shouldered beer pot
+- *imbenge* — A shallow flared bowl-cover, originally for capping beer pots
+- *isigcebhezana* — A short beaded leather skirt worn in ceremonial contexts
+- *isibamba* — A beaded grass belt worn by pregnant women to support the abdomen
+- *isicholo* — A flared disc-shaped married woman's headdress
+- *isidwaba* — A pleated cowhide skirt worn by married women
+- *ibheshu* — A soft calfskin rear flap worn by men
+- *isicoco* — A fibre and gum headring historically marking a married man
+- *umuzi* — A homestead, a ring of dwellings enclosing a cattle byre
+- *iQukwane* — A beehive-shaped grass-thatched dwelling, hemispherical dome on saplings
+- *isibaya* — A central cattle byre within the homestead
+- *ikhanda* — A military barracks compound built under Shaka
+- *isigqiki* — A carved wooden headrest doubling as a personal seat and channel to ancestors
+- *ugqoko* — A long low oval wooden meat platter
+- *iklwa* — The short stabbing spear of Shaka's military reform
+- *isihlangu* — An oval cowhide shield whose colour identified the regiment
+- *umbumbuluzo* — A shorter variant of the cowhide shield
+- *ithemba* — Beaded collars, neckbands, wristbands and anklets
+- *isiqhaza* — A large disc earplug set into a stretched earlobe
+- *ugubhu* — A gourd-resonated bow plucked to create overtones
+- *maskanda* — An itinerant guitarist's genre of picked, fast-strummed music
+- *izibongo* — Praise poems or self-praise declamation
 
 ## Sources & further reading
 
-- Wikipedia: "Zulu people", "Zulu Kingdom", "IsiZulu", "Isicathamiya", "Maskandi", "Umkhosi Womhlanga", "Nazareth Baptist Church".
-- UNESCO Representative List of the Intangible Cultural Heritage of Humanity: entries related to southern African oral and musical traditions (Zulu isicathamiya and izibongo practices have been documented in national ICH inventories under South Africa's DAC framework, though not yet inscribed at UNESCO level as of writing).
-- Eileen Jensen Krige, The Social System of the Zulus (1936, repr. Shuter & Shooter) — the classic ethnography.
-- Axel-Ivar Berglund, Zulu Thought-Patterns and Symbolism (1976) — the standard work on Zulu cosmology, ancestor ritual, and the semantics of colour and space.
-- Sandra Klopper, The Zulu Kingdom (in the "African Art" series) and her essays on beadwork semiotics.
-- Juliet Armstrong, The Zulu Pot — technical monograph on Msinga ukhamba traditions and the Nala potters.
-- Jabulani Maphalala and Mazisi Kunene on izibongo and Zulu oral literature.
-- Veit Erlmann, Nightsong: Performance, Power and Practice in South Africa (1996) — definitive study of isicathamiya.
-- Iziko South African Museum and the Campbell Collections, Durban — reference collections for Zulu material culture.
+- Alex Zaloumis, Zulu Tribal Art, AmaZulu Publishers, Cape Town, 2000
+- Donald R. Morris, The Washing of the Spears: A History of the Rise of the Zulu Nation under Shaka and Its Fall in the Zulu War of 1879, Simon & Schuster, 1965
+- Henry Callaway, The Religious System of the Amazulu: Izinyanga Zokubula, or, Divination, as Existing among the Amazulu, in Their Own Words, J. A. Blair, Springvale (Natal), 1870
+- Ian Knight, Zulu Rising: The Epic Story of Isandlwana and Rorke's Drift, Macmillan, 2010
+- Noverino Canonici, Tricksters and Trickery in Zulu Folktales, PhD dissertation, University of KwaZulu-Natal, 1995
+- Veit Erlmann on isicathamiya and mbube (Nightsong: Performance, Power, and Practice in South Africa) and David Rycroft on the ugubhu bow and Zulu vocal polyphony
+- https://en.wikipedia.org/wiki/Zulu_people
+- https://folkways.si.edu/search?query=Zulu
+- British Museum Africa collection (Zulu beadwork, earplugs, headrests): https://www.britishmuseum.org/collection
+- Met Museum, Arts of Africa: https://www.metmuseum.org/art/collection
+- V&A collections search: https://collections.vam.ac.uk
 

@@ -8,160 +8,159 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The Kikuyu, a Bantu-speaking people of central Kenya |
-| Where | The fertile volcanic highlands south and west of Mount Kenya, across Kiambu, Murang'a, Nyeri, Kirinyaga and Nyandarua districts |
-| How many | Eight to nine million, the largest ethnic group in Kenya |
-| Language | Gĩkũyũ, a tonal Bantu language closely related to Embu, Mbeere and Meru |
-| Religion | Overwhelmingly Christian (Catholic, Protestant, Pentecostal); traditional religion centred on Ngai, the high god of Mount Kenya |
-| Known for | Kiondo sisal basketry · Beaded leather skirts and bridal collars · Red ochre-dyed leather garments · Mau Mau independence movement · Ngũgĩ wa Thiong'o's Gĩkũyũ literature |
+| Who | The Kikuyu, a Bantu people of central Kenya |
+| Where | The volcanic highlands around Mount Kenya in Nyeri, Murang'a, Kiambu, Kirinyaga and Nyandarua counties |
+| How many | 8,148,668 in the 2019 census, about 17% of Kenya's population |
+| Language | Gĩkũyũ, a Northeastern Bantu language |
+| Religion | Traditionally animist with a supreme creator (Ngai); now predominantly Christian |
+| Known for | Ridge-top homestead farming and age-set social organization · Red ochre leather work and beaded ornaments · The kiondo twined basket · Antiphonal singing and the gĩcaandĩ riddle-contest · The initiation system (irua) that marked generations |
 
 ## Overview
 
-The Kikuyu are the largest ethnic group in Kenya, inhabiting the volcanic highlands around Mount Kenya. Traditionally organised through age-sets and clans rather than chieftainships, they were historically farmers growing millet, sorghum, yams and later maize and coffee. Their material culture is distinctive for leather and beadwork, pottery, ironwork and the hand-twined sisal baskets called kiondo that have become emblematic of Kenyan craft.
+The Kikuyu are Kenya's largest ethnic group, living in the central highlands as ridge-top farmers organized by nine matrilineal clans and generation-class systems called riika. Their material world—leather, beads, baskets, gourds—was built around the homestead and initiation passages rather than courts or markets. They developed distinctive practices in music, dance, and oral tradition that remain central to their identity.
 
 ## Material culture
 
-Kikuyu material culture traditionally centred on worked leather, dense beadwork in geometric patterns, blackened pottery, and fine ironwork and woodcarving, with little use of woven textiles before the twentieth century.
+Kikuyu material culture centers on dressed skin, beadwork, and twined fiber rather than woven cloth, with ornament and pattern organized around the homestead and age-set rituals.
 
 ### Textile & pattern traditions
 
-Before the twentieth century, Kikuyu textiles were primarily leather and hide, with pattern expressed through beadwork, ochre and appliqué rather than weaving.
+Kikuyu textiles are skin-based rather than woven, with pattern carried in hide, bead, and bast fiber.
 
-- **Kiondo basket** (*kiondo*) — A hand-twined sisal bag reinforced with leather rim and straps, worked in banded natural, ochre and indigo colours, now Kenya's best-known craft export.
-- **Women's leather skirt** (*mũthuru*) — A pleated hide skirt reaching mid-calf, reddened with ochre and fat, and heavily beaded around the hem in horizontal bands by married women.
-- **Winnowing tray** (*gĩtarũrũ*) — A related twined form used for winnowing grain, made with the same looped-twine structure as the kiondo.
-- **Beaded geometric motifs** (*mĩthia, ndirangi*) — Dense fields of glass seed beads in triangles, diamonds and zig-zag lines, each pattern carrying age-grade or clan meaning.
-- **Glass seed beads** (*ũthinjĩ*) — Imported beads worked in geometric bands of red, white, blue and black, the primary decoration on leather garments and accessories.
+- **Kikuyu leather** (*rũhiũ / nguo cia njũa*) — Goat and sheepskin scraped soft with fat and red ochre, incised or dotted, and seeded with beads sewn into the hide.
+- **Kikuyu beadwork** (*mũthanga wa thanju*) — Glass trade beads and iron chain laid in dense linear bands on leather for collars, aprons, belts and headbands.
+- **Kikuyu basketry** (*kiondo*) — A twined bag of bark-fiber string worked in diagonal twine, banded in ochre, black and natural color, carried from the forehead.
+- **String and cordage** (*mĩkwa*) — Twisted bark-fiber twisted string used for carrying straps, beehive rope and granary lashing.
 
 ### Clothing & dress
 
-Pre-colonial dress was constructed from tanned leather and decorated with ochre and beadwork; colonial and mission pressure gradually replaced it with cotton cloth from the 1920s onward.
+Everyday dress was ochre-rubbed skin; ceremony and age-grade marked status through specific garments and ornaments.
 
-- **Men's shoulder cape** (*rũhĩa*) — A tanned goatskin or calfskin cape knotted over one shoulder, worn by both men and women as a basic garment.
-- **Warrior apron** (*ngoro*) — A short apron of colobus monkey fur worn by young men of the warrior age-grade.
-- **Beaded frontal panel** (*mũgathe*) — A beaded panel worn by unmarried girls, often combined with a shorter beaded apron.
-- **Infant carrier** (*ngoi*) — A soft leather sling used to carry infants on the mother's back.
-- **Modern stage dress** — A printed cotton wrap over a white blouse, beaded collar and headband, and fringed sisal or leather skirt, worn especially for mũmbũro dance performances.
+- **Man's cloak** (*nguo ya njũa*) — A goatskin cloak knotted on one shoulder worn over a short skin apron, with an iron or bead belt.
+- **Woman's wrap-skirt** (*mũthuru*) — Soft dressed goatskin reaching below the knee, worn with an upper cloak and a beaded front apron by married women.
+- **Initiate skirt** (*mathangu*) — A leaf-and-skin skirt worn by boy initiates at dances with the small painted ndome shield.
+- **Warrior headdress** — Ostrich feathers worn by warriors of the anake grade, paired with the colobus-monkey cape and thigh-bells.
+- **Elder's staff** (*mũthĩgi*) — A carved staff that signified the power to lead, paired with the itimũ spear for calling to war.
 
 ### Architecture
 
-The classical homestead was a walled compound of round, thatched huts set on a ridge above cultivated slopes, oriented toward Mount Kenya and enclosed in a thorn stockade.
+Homesteads were ridge-top clusters of round mud-and-wattle houses inside thorn hedges, organized by gender and age.
 
-- **Round hut** (*nyũmba*) — A circular structure of vertical juniper or timber posts, wattled with split branches and daubed with mud-and-cow-dung plaster, topped with a steep conical thatch.
-- **Three-stone hearth** (*riiko*) — The cooking fireplace inside the wife's hut, around which family life centred.
-- **Men's hut** (*thingira*) — A separate hut at the entrance to the compound where adult men slept apart from their wives.
-- **Bachelors' hut** (*gũthĩĩ*) — A hut where post-initiation youths slept together as a group.
-- **Granary** (*ikũmbĩ*) — A raised storage structure on stone or timber supports used to protect grain stores from moisture and pests.
+- **Woman's house** (*nyũmba*) — The dwelling of each wife, containing hearth, sleeping platforms, goat pen and grain store.
+- **Man's hut** (*thingira*) — A smaller house set apart where men slept, ate food brought by wives, and received other men.
+- **Granary** (*ikũmbĩ*) — A raised structure on stones or stilts with a lifting thatch cap, built to protect grain from damp and rats.
+- **Sacred fig tree** (*mũgumo*) — A fig or sycamore tree standing outside the hedge where elders made sacrifice to Ngai.
 
 ### Ceramics, metalwork & everyday objects
 
-Kikuyu pottery is a women's craft of hand-built coiled vessels blackened by reduction; metalwork and woodwork were specialist crafts producing weapons, household tools and ritual objects.
+Pottery is simple hand-built and burnished; the elaborate crafts are in gourds, metalwork and carved stools.
 
-- **Cooking pot** (*nyũngũ*) — A round-bellied hand-built clay vessel burnished black and used for daily cooking.
-- **Water and beer jar** (*ndigithũ*) — A narrow-necked pottery vessel used for storing and serving water and fermented beer.
-- **Snuff container** (*gĩcũhĩ*) — A small gourd or horn stoppered with beaded leather and hung on a bead cord, used by elders for finely-ground tobacco and a formal part of council debates.
-- **Long spear** (*itimũ*) — A leaf-bladed iron spear forged by specialist smiths and carried by warriors in battle and display.
-- **Three-legged stool** (*mũtĩ wa gũikarĩra*) — A low stool carved from a single block of wood and used by elders as a seat of authority.
+- **Cooking pot** (*nyũngũ*) — A rounded hand-built ceramic vessel, open-fired and burnished, with minimal incised or combed ornament.
+- **Gourd for milk** (*kinya*) — A scraped and smoked gourd, often collared with beads and leather straps for storing milk and gruel.
+- **Fermenting vessel** (*kĩnandũ*) — A small-necked gourd scraped and smoked black inside, used for fermenting beverages.
+- **Snuff container** (*gĩcuhĩ*) — A small stoppered gourd or horn worn on a beaded thong at the elder's neck.
+- **Carved stool** (*gĩtĩ*) — A three-legged seat carved from one block with a shallow dished top, sometimes incised underneath.
 
 ### Jewelry & body adornment
 
-Kikuyu ornament was dense, layered and age-graded, with wire coils, beaded collars and elaborate ear ornament marking life-stages, gender and social status.
+Ornament is in coiled wire and layered beads; pierced and stretched earlobes are an elder's mark.
 
-- **Neck coils** (*mĩgathĩ*) — Stacked coils of thin iron or copper wire worn around the neck and added at each life-stage.
-- **Beaded collar** (*mũgathĩ wa ũthinjĩ*) — A broad collar of beaded leather worn by women, often as part of bridal regalia.
-- **Copper ear rings** (*hang'i*) — A cluster of small copper rings worn in perforations around the upper helix as a marker of full initiation.
-- **Iron ankle bells** (*njingiri*) — Ankle bells worn by warriors and dancers that rattle in unison during mũmbũro dance.
-- **Red ochre body paint** (*thĩrĩga*) — Ochre mixed with sheep fat and rubbed into the skin, hair and garments of newly initiated youths and brides.
+- **Coiled ear ornament** (*hang'i*) — Heavy brass or iron coils worn on the pierced and widened lobe by women, a sign of age and status.
+- **Marriage chain** (*mũgathi*) — A beaded chain worn by married women to identify their status.
+- **Beaded belt** — A band of glass or iron beads worn around the waist, especially by married women.
+- **Wire armlet** — Coiled brass and iron wire worn on arms and legs by both sexes.
 
 ## Music & performance
 
-Kikuyu music is overwhelmingly vocal and communal, tied to work, initiation and warfare, with sparse but distinctive melodic instruments accompanying hand-clapping and percussion.
+Music is voice-led and percussive, built for the open homestead ground, centered on the leg-rattle and antiphonal singing.
 
-- **One-string bowed fiddle** (*wandindi*) — A melodic instrument played by young men in courtship songs.
-- **Eight-string bowl lyre** (*kĩnũbi*) — A plucked lyre related to the wider East African lyre family, played in ensemble.
-- **Notched flute** (*mũturirũ*) — A wind instrument played for melodic accompaniment in song.
-- **Satirical song** (*mũthĩrĩgũ*) — Topical satirical songs performed by young men, banned by the colonial government in 1929.
-- **Couple-dance songs** (*mũgoiyo, mwomboko*) — Wedding-band songs that emerged in the 1930s–40s under Congolese rumba and accordion influence and remain the standard Kikuyu repertoire.
+- **Leg-rattle** (*kĩgamba*) — Iron bells or seed pods worn by dancers, clashing on the downbeat to set the timeline.
+- **One-string fiddle** (*wandĩndĩ*) — A bowed tube-fiddle played by herdboys and later by professional itinerant singers.
+- **Sung riddle-contest** (*gĩcaandĩ*) — Two competing poets improvise riddling verse to a gourd rattle in this virtuosic and mnemonic-sign system.
+- **Antiphonal song** — A soloist lines out the verse and the age-set answers in a short refrain with hand-clap and rattle.
+- **Train dance-song** (*mũgithi*) — A single-file dance-song to one guitar with Gĩkũyũ lyrics that became the dominant popular form in the twentieth century.
 
 ## Dance & theatre
 
-Kikuyu dance is performed in lines or circles with hand-clapping and ankle bells; warrior dances and couple dances are the main forms, with no institutional masked theatre tradition.
+Dance is age-graded and participatory, with no masks or staged performance, named for the generation that dances it.
 
-- **Warrior stamping dance** (*mũmbũro*) — A vigorous stamping dance performed by young men in ochred leather kilts and colobus-fur aprons, spears in hand.
-- **Male display dances** (*nguicho, kĩbaata*) — Related dances performed by men as a display of strength and prowess.
-- **Mixed couple dance** (*mwomboko*) — A syncretic ballroom-style dance in which men and women partner in a shuffling step to accordion and guitar, literally meaning 'the twist'.
-- **Female initiation processional** (*mambura*) — Slow processional dances performed by lines of newly initiated girls with beaded collars and shaved, ochred heads.
-- **Vernacular theatre** (*Ngaahika Ndeenda*) — Ngũgĩ wa Thiong'o's 1977 community play 'I Will Marry When I Want', staged in Limuru and suppressed by the state, a landmark of post-colonial African vernacular theatre.
+- **Initiation dances** (*mũmbũro / mũthuũ*) — Boys' dances of the initiation season performed with the small painted ndome shield and leg-bells.
+- **Warriors' dance** (*kĩbaata*) — A stamping spear-and-shield formation with ostrich plumes, pace set by rattles, performed in Nyeri.
+- **Beer-party dance** (*mũchũng'wa / gĩthũngũri*) — Dances of young unmarried people at beer-parties and markets, often with hand-clapping and shoulder shimmer.
+- **Elders' chant-dance** (*ndũmo*) — An old circle or line chant-dance of the elders with no fixed stage or audience separation.
 
 ## Festivals & rituals
 
-The ritual calendar was structured around the agricultural year and age-set system, with initiation (irua) and generation-set transitions (ituĩka) as central rites.
+The year turns on two harvests and two rains, each marked by sacrifice at the sacred fig; major rituals are initiation, marriage, and the generational handover.
 
-- **Age-set initiation** (*irua*) — A cyclical rite held every few years to initiate boys and girls into adulthood and organize an entire generation into a named corporate group.
-- **Generation-set transition** (*ituĩka*) — A ceremony held roughly every thirty to forty years marking the handover of political authority from one age-set to the next.
-- **Loyalty oath** (*muma*) — An oath sworn on soil, blood and stone that bound the swearer to truth on pain of ancestral affliction, later repurposed by the Mau Mau movement.
-- **Sacred fig tree** (*mũgumo*) — Named sacred Ficus thonningii trees where sacrifices to Ngai were laid at the base of the trunk.
-- **Ritual bride escort** (*ngũrarĩo*) — A ceremonial escort of the bride between compounds at marriage.
+- **Generational handover** (*Ituĩka*) — A great political ritual held roughly every 35 years to pass government from one ruling generation to the next.
+- **Initiation** (*irua*) — A rite creating the riika generation-class and its calendar; sets were named for the events of their year like smallpox or famine.
+- **Marriage** (*ũhiki*) — A union negotiated through bridewealth in goats and finalized by the ngurario ceremony.
+- **Birth announcement** (*gũciarwa*) — A naming ceremony where the child receives the name of a grandparent, announced by ululation that signals the child's sex.
+- **Black-bean harvest** (*magetha ma njahĩ*) — The July-to-October harvest of the black lablab bean, the prestige crop that named a season.
 
 ## Foodways
 
-The Kikuyu diet rests on pounded and mashed highland staples, with roasted goat as the ceremonial meat and fermented beer as the ritual beverage.
+The diet centers on highland crops—finger millet, sorghum, beans, peas, maize and greens—with the signature dish of mashed green peas and maize.
 
-- **Mashed vegetable staple** (*irio*) — Green maize, potatoes, beans and pumpkin leaves boiled together and mashed to a coarse paste, ceremonially served at weddings.
-- **Everyday maize and beans** (*gĩthiri*) — A one-pot dish of maize and beans, ancestor of the multi-ethnic Kenyan githeri.
-- **Fermented milk** (*iria ĩrĩ ngoco*) — Milk curdled inside a smoke-cured gourd whose charred interior imparts a distinctive smoky note.
-- **Traditional beer** (*mũratina*) — Beer brewed from sugar-cane juice and honey fermented with dried fruit of the sausage tree, poured at weddings and elders' councils.
-- **Ceremonial roasted goat** (*mbũri*) — Roasted goat meat slaughtered and portioned according to strict age- and kin-based custom, the meat of ceremony.
+- **Mixed mash** (*irio / mũkĩmo*) — Green peas, maize and beans boiled with potato and mashed with pumpkin or nettle leaves until green, served as a mound.
+- **Maize-and-bean stew** (*gĩtheri*) — Plain boiled maize and beans, the everyday meal of the Kikuyu household.
+- **Fermented gruel** (*ũcũrũ*) — Fermented millet or maize gruel drunk daily and given to nursing mothers.
+- **Ritual beer** (*njohi*) — Beer brewed from sugarcane or honey for bridewealth, elders' councils and sacrifice; no elder's business proceeded without it.
+- **Black lablab bean** (*njahĩ*) — The prestige crop whose harvest named a season, served mashed into banana as postpartum food.
 
 ## Oral tradition & literature
 
-Kikuyu oral tradition centres on the origin narrative of Gĩkũyũ and Mũmbi, transmitted through elders' instruction and formalised in initiation curriculum.
+The foundational myth tells of Gĩkũyũ and Mũmbi given the land by Ngai and their nine daughters from whom the clans descend.
 
-- **Etiological tale** (*rũgano*) — A traditional story explaining the origins of things and events.
-- **Proverb** (*thimo*) — A dense, allusive verbal form on which elders' rhetoric depended, extensively catalogued in Jomo Kenyatta's 1938 ethnography.
-- **Riddle** (*ndaĩ*) — A traditional word puzzle, part of the oral repertoire.
-- **Sung riddle-poem** (*gĩcandĩ*) — A competitive sung-riddle poem exchanged by two men each shaking a beaded calabash rattle, a virtuoso genre now nearly extinct.
-- **Modern Gĩkũyũ novels** — Ngũgĩ wa Thiong'o's twentieth-century literary corpus including Caitaani Mũtharaba-inĩ, Matigari and Mũrogi wa Kagogo, written as political choice after his 1977 imprisonment.
+- **Animal tale** (*ng'ano*) — Traditional stories featuring the hare as trickster and the man-eating ogre as recurring figures.
+- **Proverb** (*thimo*) — Dense idiomatic sayings quoted by elders in council to make argument, the language of deliberation.
+- **Riddle** (*ndaĩ*) — A riddle exchanged competitively in the evening, elaborated into the gĩcaandĩ sung contest.
+- **Clan origin** — Each of the nine clans—Anjirũ, Ambũi, Aacera and others—traces to a single daughter of Mũmbi.
 
 ## Language & religion
 
-Gĩkũyũ is a tonal Bantu language with three mutually intelligible dialect clusters; traditional religion centred on Ngai of Mount Kenya has been largely superseded by Christianity since the 1900s.
+Gĩkũyũ is a Northeastern Bantu language with four main dialects; the traditional religion centers on Ngai (the creator) and the ngoma ancestors, now largely Christian.
 
-- **Tonal Bantu language** (*Gĩkũyũ*) — A Central Kenya Bantu language with three main dialect clusters (Southern, Central, Northern) mutually intelligible with Embu, Mbeere and related languages.
-- **High sky god** (*Ngai*) — The single high god of traditional religion who resided on Mount Kenya and received sacrifices at sacred fig trees.
-- **Diviner-healer** (*mũndũ mũgo*) — A specialist who diagnosed afflictions through divination, presiding alongside elders at ritual sacrifices.
-- **Independent African churches** (*Akorino*) — A syncretic prayer movement dating to 1929, visible today in practitioners wearing white robes and turbans.
-- **Ancestral intermediaries** (*ngoma*) — The ancestors, an intermediary tier addressed through libation and beer-pouring in traditional religious practice.
+- **Gĩkũyũ language** — A Northeastern Bantu language closest to Embu and Mbeere, with dialects matching old districts and differing in tone and the th and r series.
+- **Creator god** (*Ngai / Mwene-Nyaga*) — A distant monotheistic deity who manifests in thunder, lightning, rainbows and great fig trees, approached through elder sacrifice.
+- **Ancestral spirit** (*ngoma*) — The spirit of the dead who may be reborn; ancestors serve as intermediaries to Ngai in the traditional religion.
+- **Sacred fig tree** (*mũgumo*) — A site of ritual sacrifice to Ngai; its unprompted fall is read as an omen even in Christian practice today.
 
 ## Glossary
 
-- *Gĩkũyũ* — The Kikuyu language and the primordial ancestor
-- *mũthuru* — Women's pleated leather skirt
-- *rũhĩa* — Shoulder cape or wrap worn by men and women
-- *kiondo* — Hand-twined sisal basket reinforced with leather
-- *ũthinjĩ* — Imported glass seed beads used in geometric patterns
-- *mũgumo* — Sacred fig tree where sacrifices to Ngai were made
-- *irua* — Initiation rite into adulthood
-- *ituĩka* — Ceremony marking generation-set transition and political handover
-- *muma* — Loyalty oath sworn on soil and stone
-- *mũmbũro* — Vigorous warrior stamping dance
-- *irio* — Mashed staple of maize, beans, potatoes and greens
-- *mũratina* — Traditional beer brewed from sugar-cane and honey
-- *Ngai* — The high sky god of traditional religion
-- *mũndũ mũgo* — Diviner-healer and ritual specialist
-- *thĩrĩga* — Red ochre used for dyeing leather and body paint
-- *gĩcandĩ* — Competitive sung-riddle poem
-- *njingiri* — Iron ankle bells worn by warriors and dancers
+- *riika* — Generation-class or age-set system; groups initiated together and named for events of their year
+- *nyũmba* — A woman's house within the homestead, containing hearth, sleeping spaces and grain store
+- *thingira* — A man's hut set apart from the nyũmba where he slept and received other men
+- *irua* — Initiation rite that created the riika and the calendar by generation name
+- *rũhiũ* — Dressed skin, especially ochre-rubbed goat or sheepskin worked for clothing
+- *mũthanga wa thanju* — Kikuyu beadwork; glass or iron beads laid in dense bands on leather
+- *kiondo* — The twined bark-fiber basket, banded in color, carried from the forehead
+- *kĩgamba* — A leg-rattle of iron bells or seed pods worn by dancers to set the timeline
+- *gĩcaandĩ* — A sung riddle-contest between two competing poets, performed to a gourd rattle
+- *Ituĩka* — The generational handover ritual held roughly every 35 years to pass government power
+- *mũgumo* — A sacred fig or sycamore tree where elders made sacrifice to Ngai
+- *ngoma* — An ancestral spirit of the dead; may be reborn and serves as intermediary to Ngai
+- *Ngai* — The supreme creator god, also called Mwene-Nyaga, who dwells on Mount Kenya
+- *irio* — The signature Kikuyu dish of green peas, maize and beans mashed with greens
+- *gĩtheri* — Plain boiled maize and beans, the everyday meal
+- *njohi* — Ritual beer brewed from sugarcane or honey for ceremonies and councils
+- *njahĩ* — The black lablab bean, the prestige crop whose harvest named a season
 
 ## Sources & further reading
 
-- Kenyatta, Jomo. Facing Mount Kenya: The Tribal Life of the Gikuyu. London: Secker & Warburg, 1938.
-- Leakey, L. S. B. The Southern Kikuyu Before 1903. 3 vols. London: Academic Press, 1977.
-- Routledge, W. S. and Katherine Routledge. With a Prehistoric People: The Akikuyu of British East Africa. London: Edward Arnold, 1910.
-- Middleton, John and Greet Kershaw. The Kikuyu and Kamba of Kenya. London: International African Institute, 1965.
-- Lonsdale, John. "The Moral Economy of Mau Mau," in Unhappy Valley, ed. Berman & Lonsdale. London: James Currey, 1992.
-- Ngũgĩ wa Thiong'o. Decolonising the Mind: The Politics of Language in African Literature. London: James Currey, 1986.
-- Wikipedia entries: "Kikuyu people," "Gikuyu language," "Mau Mau Uprising," "Kiondo," "Mũratina."
-- National Museums of Kenya, Ethnography Collection online catalogue (Kikuyu holdings).
-- Kenya Cultural Heritage Inventory, Department of Culture (for national ICH register; Kenya has ratified the UNESCO 2003 Convention but as of writing no Kikuyu-specific element is inscribed on the Representative List).
+- Jomo Kenyatta, *Facing Mount Kenya: The Tribal Life of the Gikuyu*. Secker & Warburg, 1938.
+- Godfrey Mũriũki, *A History of the Kikuyu, 1500–1900*. Oxford University Press, 1974.
+- L. S. B. Leakey, *The Southern Kikuyu before 1903*, 3 vols. Academic Press, 1977.
+- Greet Kershaw, *Mau Mau from Below*. James Currey / Ohio University Press, 1997.
+- John Middleton and Greet Kershaw, *The Kikuyu and Kamba of Kenya* (Ethnographic Survey of Africa). International African Institute, 1965.
+- H. E. Lambert, *Kikuyu Social and Political Institutions*. Oxford University Press for the International African Institute, 1956.
+- Gakaara wa Wanjaũ, *Mĩhĩrĩga ya Aagĩkũyũ* (on the clans) and *Mwandĩki wa Mau Mau Ithamĩrio-inĩ*.
+- Ngũgĩ wa Thiong'o, *Decolonising the Mind*. James Currey, 1986.
+- https://ich.unesco.org/en/state/kenya-KE
+- https://en.wikipedia.org/wiki/Kikuyu_people
+- https://folkways.si.edu/search?query=Kikuyu
+- https://www.britishmuseum.org/collection
+- https://www.prm.ox.ac.uk/collections
+- https://museums.or.ke
 

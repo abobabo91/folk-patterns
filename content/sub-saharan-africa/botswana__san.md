@@ -8,157 +8,163 @@ tags: [ethnography, sub-saharan-africa]
 ## At a glance
 | | |
 |---|---|
-| Who | The San, indigenous hunter-gatherers of southern Africa |
-| Where | Kalahari Basin across Botswana, Namibia, Angola, Zambia, Zimbabwe and South Africa; in Botswana concentrated in the Central Kalahari, Ghanzi district, Okavango panhandle, and Kgalagadi and Ngamiland fringes |
-| How many | 55,000–65,000 in Botswana; 100,000–130,000 across southern Africa |
-| Language | Three language families—Kx'a (including Juǀ'hoan), Tuu (including ǀXam and Nǁng), and Khoe-Kwadi (including Naro, Gǀui and Gǁana)—all featuring click consonants |
-| Religion | Monotheism with trickster: a distant creator-god, a shadow deity, and rich ancestor and animal spirits; the eland is the pre-eminent spirit animal |
-| Known for | The poisoned reed arrow and the hunt · The ǃGoin trance dance and healing ritual · Ostrich-eggshell beads and beadwork · Rock paintings at Tsodilo Hills and other shelters · Balanced foraging economy in an arid environment |
+| Who | The San, a hunter-gatherer people of the Kalahari basin |
+| Where | Botswana, Namibia, Angola, Zambia, Zimbabwe, Lesotho, and South Africa; largest population in Botswana's Ghanzi district and Central Kalahari Game Reserve |
+| How many | Roughly 63,500 in Botswana (2017); 71,201 in Namibia (2023) |
+| Language | Three unrelated language families — Khoe, Tuu, and Kxʼa — all using click consonants |
+| Religion | Belief in a great god and trickster god (ǀKaggen, Gǃara, Gaoxa), nǀom as potency, trance healing; Christianity now widespread in settled areas |
+| Known for | Longest continuous rock painting tradition on earth, centered at Tsodilo Hills · Ostrich eggshell beadwork and intricate hide work using minimal materials · Healing and trance dances with complex overlapping vocal polyphony · Arrow-based hunting technology and meat-distribution economy · Egalitarian band society with no central authority or priesthood |
 
 ## Overview
 
-The San are the world's most sophisticated foragers of arid environments, with roots stretching back at least 20,000 years in southern Africa. They speak unrelated languages marked by click consonants and live in small nomadic bands across the Kalahari. Their material culture—from poisoned arrows to beaded aprons to painted rock shelters—represents a deep adaptation to desert life. Today, most live in government villages, though they maintain their ritual life, healing dances, and oral traditions.
+The San are southern Africa's original hunter-gatherer peoples, living in small bands across the Kalahari basin for thousands of years. They speak languages with click consonants and organize themselves without chiefs or central authority, distributing meat and gifts through named partnership networks. Their material culture is built from minimal, portable resources — hide, bone, sinew, ostrich eggshell, and poison — and their spiritual life centers on trance healing and the figure of the Mantis trickster-creator. Today most live in fixed villages following twentieth-century settlement programs.
 
 ## Material culture
 
-San material culture is built from hide, bone, wood, plant fiber and ostrich eggshell rather than clay or metal, designed for portability and the demands of desert foraging.
+San material culture is built entirely from portable, biodegradable materials — hide, bone, sinew, ostrich eggshell, and plant fiber — with no pottery, weaving, or metalwork of their own.
 
 ### Textile & pattern traditions
 
-The San have no woven cloth but instead work hide and beaded networks, with ostrich-eggshell beads forming a major decorative and exchange medium.
+The San created no woven textiles but carried their pattern tradition on hide, shell, rock, and engraved objects.
 
-- **Ostrich-eggshell beads** (*ǁxaro*) — A defining San craft: shell fragments are chipped, pierced with a hand drill, threaded and ground to uniform size; a single apron may hold ten thousand beads representing months of work.
-- **Cured antelope skins** — Springbok, duiker, gemsbok and kudu are scraped, softened with brain and fat, and smoked to warm russet or dark brown, then decorated by incising, singeing and beading.
-- **Glass trade-bead aprons** — From the nineteenth century onward, San adopted white, blue, red and black glass beads arranged in horizontal banded patterns that became the visible marker of San dress at festivals.
-- **Beaded exchange partnership** (*ǁxaro*) — Among Ju|'hoan and !Kung groups, the ǁxaro bead medium itself forms a formal gift-exchange partnership network linking households across hundreds of kilometres.
+- **San rock painting** — Ochre, haematite, charcoal and white clay applied to rock shelters, with the Tsodilo Hills in northwestern Botswana holding the densest concentration; subjects are eland, hunters with bows, trance figures with streaming nasal blood, and processions of humans.
+- **Ostrich eggshell bead** — Discs cut from broken eggshell, drilled, strung on sinew and ground flush against stone; appear in headbands, aprons, necklaces and beaded panels, with color variation achieved by heating to warm tones.
+- **Kaross hide cloak** (*kaross*) — A cloak of gemsbok, duiker or springbok hide worn fur-in and tied at the shoulder, serving as garment, carrying sling, ground sheet and infant carrier all in one.
+- **San leather bag** — Small scraped antelope-hide collecting and quiver bags sewn with sinew, sometimes made whole from an animal's leg; decorated with incised line work and applied eggshell beads.
+- **Ostrich eggshell water flask** — A whole egg with drilled mouth, plugged with grass and engraved with hatched bands; used with a sip well and hollow grass stems to draw water from damp sand.
 
 ### Clothing & dress
 
-Traditional dress is minimal and hide-based, with men in loincloths and women in aprons and cloaks, all often decorated with beads.
+Daily dress is minimal and made entirely of hide, with the kaross serving as the single most important object.
 
-- **Men's loincloth** (*ǃgoara*) — A triangular front loincloth of soft springbok skin, sometimes with a rear flap, secured by a thong belt carrying a hunting knife, fire-lighting kit and skin bag.
-- **Women's front apron** (*ǃgabi*) — Worn by women as the main front covering, often decorated with rows of ostrich-eggshell beads or glass trade beads.
-- **Hide cloak** (*kaross or ǀnusi*) — The single most important piece of San dress, cut from a whole small-antelope hide, worn hair-side in for warmth or fur-side out for display, and functioning as an infant carrier and night blanket.
-- **Soft rawhide sandals** (*ǀgoro*) — Worn by both sexes and laced with thong, often paired with barefoot walking.
-- **Beaded headbands** — Leather bands beaded across the brow are common at dances, sometimes combined with hair dressed in fat and red ochre.
+- **Men's clothing** — A front apron or loincloth of soft skin with a hide belt holding knife, fire-sticks, tinder pouch and medicine bag; quiver and bow slung across the back.
+- **Women's clothing** — A rear apron and front apron beaded with ostrich eggshell in horizontal registers, worn with a kaross that carries firewood, melons, tubers and an infant.
+- **Hide sandals** — Thick hide sandals cut for tracking over hot sand and thorn.
+- **Eggshell headband** — Headbands of ostrich eggshell beads worn by both sexes, sometimes with a tortoise-shell scent container or small horn of powdered aromatic root hung at the forehead.
+- **Dance rattles** — Rattles of dry seed pods or cocoons bound to the calves, worn by healers during trance dances.
 
 ### Architecture
 
-Nomadic San have no permanent dwellings, building light temporary domes from branches and grass that are abandoned every few weeks.
+San building is a seasonal grammar of flexible structures that change with the foraging year.
 
-- **Dome shelter** (*tshu or ǂoèh*) — A light dome about 1.5–2 metres high built in hours by household women from flexible acacia or grewia branches bent inward and lashed at the crown, then thatched with grass.
-- **Band encampment** (*ǀgoashi (camp) or nǃore (home range)*) — Five to fifteen shelters typically arranged in a rough oval around a cleared dance ground, each with a central hearth just outside its door.
-- **Seasonal rock shelters** — Painted sites like Tsodilo, the Matobo and the Drakensberg served as seasonal residences, ritual sites and painting galleries but were never built structures.
-- **Government village houses** — Since the 1960s, most Botswanan San live in government-planned villages in rectangular mud-and-thatch or concrete-block houses, with the tshu now largely a demonstration form.
+- **Scherm or hut** (*scherm*) — A dome or hemispherical windbreak of flexible branches pushed into sand, bent and lashed, then thatched with grass; in hot season may be just a curved screen of branches against the wind.
+- **Dry-season band ring** — Multiple scherm shelters arranged in a formal ring with doorways facing a cleared central space for dancing, cooking fires and meat distribution; no fenced enclosure, no livestock kraal, no headman's house.
+- **Sip well** — A hole scraped to damp sand with a hollow grass stem inserted to draw water up by mouth and pass it into an ostrich eggshell flask.
 
 ### Ceramics, metalwork & everyday objects
 
-The San have few ceramics or indigenous metalwork, instead crafting distinctive objects from hide, bone, wood and ostrich eggshell.
+The San were not potters or smiths but created a complete toolkit from organic materials, each item portable by design.
 
-- **Poisoned reed arrow** — A light composite shaft of 60–70 cm with a hardwood foreshaft and small iron or bone point, smeared with poison from Diamphidia beetle pupae; a single hit brings down a giraffe over one to three days.
-- **Ostrich-eggshell canteen** — A whole ostrich egg with a drilled hole, filled with water and plugged with grass, sometimes engraved with fine geometric patterns; filled canteens are cached across the range for dry-season survival.
-- **Digging stick** (*ǁkai*) — A fire-hardened hardwood shaft weighted with a bored stone, used by women to prise up tubers, bulbs and truffles.
-- **Leather shoulder bag** (*ǂoà*) — A soft antelope-hide bag with drawstring closure, often fringed and beaded, used to carry gathered plant food, beads in the making and personal kit.
-- **Hunting bow** (*ǃau*) — A short bow of about 1 metre made of grewia wood and strung with twisted sinew.
+- **Digging stick** — A fire-hardened pointed tool used for tubers, bush onions and sip wells, and a woman's principal tool alongside the kaross.
+- **Fire-drill** — A pair of hardwood spindle and softer hearth board used to start fire.
+- **Tortoise-shell bowl** — Bowls and cosmetic containers made from tortoise shell.
+- **Springhare hook** — A probe made to pull game from burrows.
+- **Mongongo nut mortar** — A mortar for pounding mongongo nuts, the most important plant food.
 
 ### Jewelry & body adornment
 
-Body adornment is dominated by ostrich-eggshell and glass trade-bead work, with light scarification and ochre rubbing at ritual occasions.
+Ostrich eggshell beadwork is the medium of adornment and the primary means of gift exchange between individuals and bands.
 
-- **Beaded necklaces and cuffs** (*ǁxaro*) — Strung ostrich-eggshell beads worn in single or multiple loops as necklaces, browbands, wrist and ankle cuffs.
-- **Scent-filled pendants** — Small pendants of tortoise shell or duiker horn filled with sweet-smelling sâ powder, a mixture of dried aromatic plants, worn at the neck by women.
-- **Ritual scarification** (*ǃgwa*) — Short parallel cuts rubbed with plant ash or burnt animal ash are made to convey the qualities of the animal—eland fat cut into a young hunter's brow to give steadiness.
-- **Red ochre body coating** (*ǁhara*) — Mixed with fat and rubbed into hair and skin at dances and girls' initiation ceremonies.
+- **Eggshell beaded ornaments** — Strings, headbands, necklaces, bandoliers, waistbands and beaded apron panels circulate as named gifts through hxaro partnership networks.
+- **Hxaro gift partnership** (*hxaro*) — A named exchange network linking individuals across bands and hundreds of kilometers, in which ornaments and tools are given rather than traded.
+- **Scarification** — Small cuts on face, chest and arms; a hunter receives cuts rubbed with burnt medicine of an animal he has killed, transferring its qualities.
+- **Tortoise-shell scent container** — A container of powdered aromatic root worn at the neck.
+- **Body ornamentation** — Skin dressed with fat and red ochre; hair worn short, sometimes dusted with ochre; seed and nut pendants; sinew wrist and ankle bands.
 
 ## Music & performance
 
-The ǃGoin trance dance is the core of San musical life, combining polyphonic singing, clapping, rattles and ecstatic healing performed around a night fire.
+San music is built on voice, clap and rattle, with a small family of stringed and struck instruments.
 
-- **Trance healing dance** (*ǃGoin*) — Performed at night with women clapping polyrhythms and singing medicine songs while men circle stamping in rattles; healers enter a trance state called !kia to draw out sickness with shuddering cries.
-- **Cocoon rattle** (*ǂkhoisi*) — Dried moth-cocoons filled with ostrich-eggshell fragments and lashed around the calves of male dancers.
-- **Mouth-bow** (*ǃgwashi or dongo*) — A hunting bow braced against the mouth as a resonator and struck with a light stick to produce melodic tones.
-- **Multi-string pluriarc** (*ǃgwashi*) — A canoe-shaped body with four or five separately curved necks, played by the Juǀ'hoan as a sophisticated stringed instrument.
-- **Trance healer** (*nǀom kxaosi*) — An owner of nǀom energy who enters the !kia trance state and lays hands on people to draw out sickness, central to the healing dance performance.
+- **Gora mouth bow** (*gora*) — A mouth-resonated bow with a quill lashed between string and stave that the player sets vibrating by inhaling and exhaling; one of Africa's most distinctive instruments.
+- **ǀgwashi bowl lute** (*ǀgwashi*) — A plucked five-string bowl lute or pluriarc played solo and to accompany song.
+- **Healing dance** (*ǀgi*) — The defining genre in which women sit in a ring clapping and singing in yodelled, hocketed polyphony while men dance and stamping until nǀom rises and a healer enters kia to draw out sickness.
+- **Hocketed polyphony** — Short overlapping vocal cells sung by women, each singer contributing pitches that combine into a shifting whole; one of the most technically remarkable vocal practices documented.
+- **Named animal dance sets** — Song-sets named after animals — giraffe dance, eland dance, honey dance, gemsbok dance — each distinguished by melody and which healer owns it.
 
 ## Dance & theatre
 
-Beyond the healing dance, the San repertoire includes animal dances tied to initiation and hunting mimes that re-enact recent hunts for the camp.
+Dance is the central performance form; there is no theatre in the sense of scripted stage tradition, and the boundary between ritual and entertainment is deliberately thin.
 
-- **Eland Dance** (*tshoma*) — Performed at a girl's first menstruation, in which senior women mime the courtship of the eland bull while the initiate sits secluded.
-- **Hunting mime** (*ǂoma*) — Men re-enact a recent hunt for the entertainment and instruction of the camp, with one dancer taking the part of the animal wearing a horned headdress or skin.
-- **Giraffe and Gemsbok dances** — Animal dances associated with specific medicine songs, performed at girls' initiation and commemorative gatherings.
-- **Kuru Dance Festival** — An annual festival at D'Kar in Ghanzi running since 1997, bringing together bands from across Botswana, Namibia and beyond for contemporary San performance.
+- **Healing and trance dance** (*num tchai*) — The central ceremonial form held whenever sickness, tension or appetite for it arises, sometimes through the whole night; men dance with leg rattles while women clap and sing until a healer enters kia.
+- **Eland bull dance** — Marks a girl's first menstruation; senior women dance with horns held at the forehead in imitation of the bull's mating display while the initiate is secluded.
+- **Mimetic hunting dances** — Men act out the stalk, shot and death of a tracked animal, shading into pure entertainment performed for pleasure and laughter.
+- **Boys' first-kill rites** — Dance-based rites marking a boy's entry into the meat-distribution economy.
+- **Children's dances** — Children mimic adult dance forms without ritual weight.
 
 ## Festivals & rituals
 
-Ritual life follows the life cycle and the hunt rather than a fixed calendar, centred on coming-of-age rites and the healing dance.
+There is no calendar of dated festivals because the foraging year is structured by rainfall, not planting, and there is no priesthood or centralised authority.
 
-- **Girl's puberty seclusion** (*tshoma or ǃGoah kǁa*) — The initiate is kept in a small hut for the duration of her first menses, instructed by older women, and honoured on emergence by the Eland Dance.
-- **First-kill ceremony** — A young hunter is cut on the brow, chest and arms when he brings down his first large antelope, with the animal's fat and blood rubbed into the wounds to give him its qualities.
-- **Healing dance** (*ǃGoin*) — Held whenever illness or social tension calls for it and often simply on a bright night, functioning as the recurring communal ritual.
-- **Divining practice** (*ǁgom*) — Small marked pieces of leather, bone or horn are cast on the sand by specialists for reading and decision-making.
+- **Dry-season gatherings** — Intensified gatherings at dry-season waterholes when bands come together and the great dances happen.
+- **Eland bull dance initiation** — A girl's first menstruation brings seclusion and the eland bull dance; the eland's fat and potency are transferred to her.
+- **Boys' first-kill scarification** — A boy's first large kill brings scarification with the burnt medicine of the animal, marking entry into the meat-distribution economy.
+- **Naming ceremony** — A child is named after a grandparent or other relative, never a parent, from a pool of roughly 35 names per sex.
+- **Hxaro gift exchange** (*hxaro*) — A ritualised partnership in which named ornaments and tools travel between partners for decades, reproducing the gift economy.
 
 ## Foodways
 
-The classical San diet is roughly two-thirds gathered plant food and one-third hunted meat, a balanced foraging economy in an arid environment.
+The San diet is wild plants gathered by women and meat hunted by men, with plants supplying the bulk of calories in most seasons.
 
-- **Mongongo nut** (*ǁxa (Schinziophyton rautanenii)*) — A staple of the northern Kalahari, whose roasted and cracked kernels provide a remarkable proportion of daily calories.
-- **Tsamma melon** (*Citrullus lanatus*) — A critical dry-season water source, along with the gemsbok cucumber.
-- **Eland and large game** — Eland, gemsbok, kudu, springbok, hartebeest and warthog are taken with the poisoned arrow; meat is grilled on coals or dried into strips.
-- **Springhare** — Smaller game hunted with snares, throwing sticks and the springhare probe; valued as protein.
-- **Honey** — The greatest luxury when found, the object of specific songs and celebrations.
+- **Mongongo nut** (*mongongo*) — The single most important food of the Juǀʼhoansi — high in oil and protein, storable and gathered in enormous quantity.
+- **Tsama melon** — Kalahari cucurbits that supply both food and water.
+- **Gathered plants** — Tubers, bulbs, bush onions, berries, fruits, resins and gums collected by women.
+- **Insects** — Between 18 and 104 species consumed depending on location — grasshoppers, beetles, caterpillars, moths, butterflies and termites — supplying roughly 10% of animal protein.
+- **Meat distribution rule** — The owner of the killing arrow distributes the carcass, spreading it through the band regardless of who shot the animal.
 
 ## Oral tradition & literature
 
-San oral literature is one of Africa's great unwritten canons, centred on trickster-demiurge figures and recorded most fully in the ǀXam texts from the 1870s.
+The San have no single epic but a rich body of myth and cosmological narrative centered on the Mantis trickster-creator.
 
-- **The Mantis and his family** (*ǀKaggen*) — The trickster-demiurge central to ǀXam mythology whose adventures with his wife the Dassie and adopted family explain the origin of the moon, eland, death and stars.
-- **Ju|'hoan mythic cycles** (*ǂGaoǃna or Kaoxa*) — Parallel figure to ǀKaggen in Ju|'hoan oral tradition, centre of a parallel mythological canon.
-- **Night-fire storytelling** (*kukummi*) — A collective genre with listeners responding rhythmically, with songs embedded in the stories; praise for the eland and laments for the dead form parallel genres.
-- **Bleek-Lloyd corpus** — Some 12,000 pages of ǀXam dictation collected by Wilhelm Bleek and Lucy Lloyd in the 1870s from Cape prisoners, now held at the University of Cape Town and inscribed on the UNESCO Memory of the World Register.
+- **ǀKaggen the Mantis** (*ǀKaggen*) — The trickster-creator who makes the eland, dies and revives; whose stories explain the origin of the moon, fire and death.
+- **Early Race cycle** — Narrative cycles concerning the people of the first order who became animals.
+- **Bleek and Lloyd Collection** — Over 12,000 notebook pages of ǀXam text and English translation collected in the 1870s from Cape Town informants including ǁKabbo, Dia!kwain and ǀHanǂkassǀo; a UNESCO Memory of the World inscription.
+- **Storytelling tradition** — Told at the fire in the first person with quoted speech, song insertions and onomatopoeia; songs are named, owned by individuals and given as gifts.
+- **Kuru Art Project** — Founded 1990 at D'Kar in Ghanzi district; turned narrative and visual repertoire into contemporary printmaking and painting.
 
 ## Language & religion
 
-San languages fall into three unrelated families that share click consonants but are otherwise distinct; religion centres on a distant creator-god and rich spirit world.
+San languages fall into three unrelated families all characterised by large click inventories; religion centers on a great god, a trickster god, and nǀom as impersonal potency.
 
-- **Click consonants** (*ǀ (dental), ǃ (alveolar), ǂ (palatal), ǁ (lateral)*) — The acoustic signature of San languages, shared across three unrelated language families.
-- **Juǀ'hoan language** — A Kx'a language with more than eighty distinct consonants, retaining one of the largest living San speaker communities.
-- **ǃXóõ language** — A Tuu language spoken across the Botswana–Namibia border, credited with the largest consonant inventory of any documented language, over 130.
-- **Creator-god** (*ǂGaoǃna, Huwe or Thora*) — A distant monotheistic deity associated with the east and the rising sun, the name varying by group.
-- **Eland as spirit animal** — The pre-eminent spirit animal whose fat carries nǀom, the healing energy central to trance experience.
+- **Khoe language family** (*Khoe*) — Includes Kxoe/Khwe, ǁAni, Naro, Gǀui, Gǁana, Tshuwau; Naro and related varieties are healthy.
+- **Tuu language family** (*Tuu*) — Includes ǀXam (extinct), Nǁnǂe of the ǂKhomani, and ǂʼAmkoe relatives; ǀXam survives only in Bleek and Lloyd's orthography.
+- **Kxʼa language family** (*Kxʼa*) — Includes ǃKung/ǃXuun and Juǀʼhoansi; Juǀʼhoansi is among the healthiest San languages.
+- **Click consonants** — Large click inventories in all San languages, among the most phonemically complex sound systems in the world.
+- **Trance healing and rainmaking** (*kia*) — Shamans entered trance to heal sickness and capture the rain-animal; San rainmakers were sought out by neighbouring states.
 
 ## Glossary
 
-- *ǃGoin* — The healing or trance dance, the core ritual performance of San life
-- *ǁxaro* — Ostrich-eggshell beads; also a gift-exchange partnership network linking households
-- *kaross* — A hide cloak worn by women, functioning as dress, infant carrier and blanket
-- *tshu* — A light dome shelter built from branches and grass, the traditional San dwelling
-- *!kia* — The trance state entered by healers during the ǃGoin dance
-- *nǀom* — The healing energy said to boil up the spine of trancers, carried in eland fat
-- *ǃgabi* — A woman's front apron
-- *ǀnusi* — A woman's hide cloak or back apron
-- *ǂkhoisi* — Dried moth-cocoon rattles filled with eggshell fragments, worn by male dancers
-- *ǃgwashi* — A mouth-bow or multi-string pluriarc stringed instrument
-- *ǂoma* — Hunting mime, a re-enactment of a recent hunt for the camp
-- *tshoma* — The Eland Dance performed at a girl's first menstruation
-- *ǁgom* — Divining discs of leather, bone or horn cast on sand for reading
-- *ǁka* — A digging stick weighted with a stone, used to prise up tubers
-- *ǂoà* — A soft antelope-hide shoulder bag with drawstring closure
-- *ǁhara* — Red ochre mixed with fat, used to coat hair and skin at rituals
-- *sâ* — A mixture of dried aromatic plants used to fill scent pendants
-- *ǃgwa* — Short parallel ritual scars made to convey the qualities of an animal
-- *nǀom kxaosi* — Healer or owner of nǀom energy, someone who conducts the trance dance
+- *nǀom* — Impersonal potency concentrated in the eland, in healers and in rain
+- *ǀKaggen* — The Mantis trickster-creator figure in San mythology
+- *kaross* — A hide cloak worn as garment, carrying sling, ground sheet and infant carrier
+- *kia* — The trance state entered by a healer during healing dances
+- *ǀgi* — The healing or trance dance
+- *hxaro* — A named gift partnership linking individuals across bands for gift exchange
+- *scherm* — A dome-shaped shelter of flexible branches thatched with grass
+- *gora* — A mouth-resonated bow with quill, played by inhaling and exhaling
+- *ǀgwashi* — A plucked five-string bowl lute or pluriarc
+- *Juǀʼhoansi* — One of the named San nations of southern Africa
+- *ǃKung* — A major San nation across southern Africa
+- *mongongo* — A high-oil, high-protein nut storable and abundant in the Kalahari
+- *Khoe* — One of three unrelated San language families
+- *Tuu* — One of three unrelated San language families
+- *Kxʼa* — One of three unrelated San language families
+- *ǀXam* — A San nation whose language is now extinct; best documented through Bleek and Lloyd
+- *eland* — The antelope richest in nǀom; dominant subject in San rock art and symbolism
 
 ## Sources & further reading
 
-- Wikipedia: "San people", "Khoisan", "Juǀ'hoan language", "ǃXóõ language", "Tsodilo".
-- UNESCO World Heritage: Tsodilo (Botswana), inscribed 2001.
-- UNESCO Memory of the World: Bleek Collection (South Africa), inscribed 1997.
-- Richard B. Lee, *The !Kung San: Men, Women and Work in a Foraging Society* (Cambridge, 1979) and *The Dobe Ju/'hoansi* (multiple editions).
-- Lorna Marshall, *The !Kung of Nyae Nyae* (Harvard, 1976) and *Nyae Nyae !Kung Beliefs and Rites* (1999).
-- Megan Biesele, *Women Like Meat: The Folklore and Foraging Ideology of the Kalahari Ju/'hoan* (Wits, 1993).
-- Wilhelm Bleek and Lucy Lloyd, *Specimens of Bushman Folklore* (London, 1911); the digital Bleek-Lloyd archive at lloydbleekcollection.cs.uct.ac.za.
-- David Lewis-Williams, *Believing and Seeing: Symbolic Meanings in Southern San Rock Paintings* (Academic Press, 1981) and *A Cosmos in Stone* (2002).
-- Alan Barnard, *Hunters and Herders of Southern Africa* (Cambridge, 1992).
-- Kuru Family of Organisations, D'Kar, Botswana — community publications and the annual Kuru Dance Festival programme.
+- Richard B. Lee, *The !Kung San: Men, Women and Work in a Foraging Society*, Cambridge University Press, 1979
+- Lorna Marshall, *The !Kung of Nyae Nyae*, Harvard University Press, 1976
+- Wilhelm H. I. Bleek and Lucy C. Lloyd, *Specimens of Bushman Folklore*, George Allen, 1911
+- David Lewis-Williams, *A Cosmos in Stone: Interpreting Religion and Society through Rock Art*, AltaMira Press, 2002; and *Believing and Seeing: Symbolic Meanings in Southern San Rock Paintings*, Academic Press, 1981
+- Mathias Guenther, *Tricksters and Trancers: Bushman Religion and Society*, Indiana University Press, 1999
+- Mohamed Adhikari, *The Anatomy of a South African Genocide: The Extermination of the Cape San Peoples*, UCT Press, 2010
+- Pippa Skotnes (ed.), *Claim to the Country: The Archive of Wilhelm Bleek and Lucy Lloyd*, Jacana/Ohio University Press, 2007 — and the digital Bleek and Lloyd Collection, University of Cape Town: http://lloydbleekcollection.cs.uct.ac.za
+- Nicholas England and Marjorie Shostak on Juǀʼhoansi music and life history (*Nisa: The Life and Words of a !Kung Woman*, Harvard University Press, 1981)
+- https://en.wikipedia.org/wiki/San_peoples
+- Botswana has no UNESCO Intangible Cultural Heritage inscriptions; Botswana's state page: https://ich.unesco.org/en/state/botswana-BW
+- Smithsonian Folkways: https://folkways.si.edu/search?query=San+Bushmen+Botswana
+- British Museum, Africa collections (ethnic group "San"): https://www.britishmuseum.org/collection
+- Iziko South African Museum, Cape Town — rock art and San ethnography collections
+- Kuru Art Project, D'Kar, Ghanzi district, Botswana — contemporary San printmaking
 

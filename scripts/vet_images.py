@@ -580,6 +580,63 @@ def _recheck_rejected(workers: int, only: str | None) -> None:
         print(f"[recheck-commons] flipped {cflipped} back to accepted")
 
 
+def _recheck_art_form(af: str, workers: int, only: str | None, limit: int = 0,
+                      dry_run: bool = False) -> None:
+    """Re-judge every kept record now filed under `af` with the current
+    prompt, and change ONLY its category (art_form_vision). BELONGS, IMAGE and
+    ERA stay as first judged: those verdicts are final, and a category rule
+    change is no reason to reopen them. Used when a category's definition
+    changes (2026-09-26: architectural = buildings and parts of buildings;
+    models and carved figures are sculpture)."""
+    needle = (only or "").lower()
+    by_file: dict[Path, list[dict]] = {}
+    for meta_path, r in _iter_library_records():
+        cul = r.get("cultural") or {}
+        if needle and needle not in (cul.get("ethnicity") or "").lower():
+            continue
+        if cul.get("vision_vetted") is False:
+            continue
+        if (cul.get("art_form_vision") or cul.get("art_form")) == af:
+            by_file.setdefault(meta_path, []).append(r)
+    if limit:
+        keep = limit
+        for mp in list(by_file):
+            by_file[mp] = by_file[mp][:keep]
+            keep -= len(by_file[mp])
+            if not by_file[mp]:
+                del by_file[mp]
+    total = sum(len(v) for v in by_file.values())
+    print(f"[recheck-af] {total} records filed as {af}{' (DRY RUN)' if dry_run else ''}", flush=True)
+    loaded = {mp: json.loads(mp.read_text(encoding="utf-8")) for mp in by_file}
+    index = {mp: {r.get("id"): r for r in recs} for mp, recs in loaded.items()}
+    remaining = {mp: len(v) for mp, v in by_file.items()}
+    moved = Counter()
+    done = 0
+    with tempfile.TemporaryDirectory() as td, ThreadPoolExecutor(max_workers=workers) as ex:
+        futs = [ex.submit(_vet_library_record, mp, r, Path(td)) for mp, recs in by_file.items() for r in recs]
+        for f in as_completed(futs):
+            result, mp, rec_id = f.result()
+            done += 1
+            remaining[mp] -= 1
+            target = index[mp].get(rec_id)
+            new = result.get("art_form")
+            if target is not None and not result.get("skip") and new in VALID_ART_FORMS and new not in (af, "unclassified"):
+                cul = target["cultural"]
+                cul["art_form_vision"] = new
+                cul["art_form_recheck"] = f"{af}->{new}: {(result.get('reason') or '')[:200]}"
+                moved[new] += 1
+                title = (target.get("physical") or {}).get("title") or rec_id
+                print(f"  {af}->{new:13s} [{cul.get('ethnicity')}] {str(title)[:50]}  ({done}/{total})", flush=True)
+                print(f"      └─ {(result.get('reason') or '')[:150]}", flush=True)
+            _log_transcript({"id": rec_id, "recheck": af, "art_form_after": new,
+                             "skip": result.get("skip"), "reason": result.get("reason")})
+            if remaining[mp] == 0 and not dry_run:
+                mp.write_text(json.dumps(loaded[mp], indent=2, ensure_ascii=False), encoding="utf-8")
+            if done % 50 == 0:
+                print(f"  … {done}/{total}, moved so far {dict(moved)}", flush=True)
+    print(f"[recheck-af] moved {sum(moved.values())} of {total}: {dict(moved)}")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--target", choices=["library", "commons", "all"], default="all")
@@ -594,8 +651,13 @@ def main() -> None:
                     help="Print verdicts without writing anything to the library.")
     ap.add_argument("--recheck-rejected", action="store_true",
                     help="Second-pass over vetted=False items with the current (updated) prompt.")
+    ap.add_argument("--recheck-art-form", metavar="ART_FORM",
+                    help="Re-judge kept records filed under ART_FORM with the current prompt; change only their category.")
     args = ap.parse_args()
 
+    if args.recheck_art_form:
+        _recheck_art_form(args.recheck_art_form, args.workers, args.only, args.limit, args.dry_run)
+        return
     if args.recheck_rejected:
         _recheck_rejected(args.workers, args.only)
         return
