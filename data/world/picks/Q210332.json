@@ -2,24 +2,11 @@
  "key": "Q210332",
  "label": "Haida people",
  "name": "Haida",
- "judged": 0,
- "cached": 76,
- "cost_usd": 0,
- "picks": {
+ "judged": 110,
+ "cached": 0,
+ "cost_usd": 1.052,
+ "ranked": {
   "instruments": [
-   {
-    "source": "bm",
-    "id": "E_Am-5940",
-    "name": "whistle",
-    "kind": "whistle",
-    "title": "whistle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_14/6a6b9aa2_0bfb_480b_bee9_a3c200f54bb2/preview_00725423_001.jpg",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden whistle with root/spruce lashings and incised red designs, consistent with Northwest Coast (Haida) craft traditions and matching the museum's own description as a wooden whistle."
-   },
    {
     "source": "bm",
     "id": "E_Am1919-1216-2",
@@ -30,8 +17,10 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 5,
     "confidence": "HIGH",
-    "reason": "The image shows a carved wooden chief's rattle in the form of a bird with formline designs and an ivory head, consistent with Northwest Coast (Haida) ceremonial regalia and craftsmanship."
+    "reason": "This is a classic Northwest Coast chief's rattle carved in bird form with formline designs, ivory beak inlay, and a carved face on the back — a well-known Haida ceremonial regalia type used in chiefly dance and ritual.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -43,8 +32,70 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a carved wooden clapper with formline-style killer whale/hawk designs and a skin fringe, consistent with Northwest Coast (Haida) ceremonial instrument-making traditions."
+    "reason": "The image shows a carved wooden clapper with a killer whale motif in classic Northwest Coast formline style, consistent with Haida ceremonial regalia and instruments.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1911-0406-453",
+    "name": "smoking-pipe; aerophone",
+    "kind": "smoking-pipe",
+    "title": "smoking-pipe; aerophone",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/12_15/12f01be0_26c5_44ea_8bf9_a99600fbaf96/preview_am1911_0406_453__a_.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a carved argillite pipe/whistle combining a mouthpiece with a human-figure pipe-bowl, a well-documented Haida art form using the distinctive black argillite stone of the Queen Charlotte Islands. Carved argillite figural pipes are a hallmark Haida craft, so this clearly belongs to the claimed culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1976-03-30",
+    "name": "musical instrument",
+    "kind": "musical instrument",
+    "title": "musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/12_15/cb3ec2ee_b32a_4ff1_b4a3_a99600fd0dee/preview_am1976_03_30__a_.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an argillite (black slate) wind instrument carved with a deer-like figure and incised decoration, consistent with Haida argillite carving traditions from the Queen Charlotte Islands. This is a plausible traditional Haida-made object.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-9119",
+    "name": "flute; smoking-pipe",
+    "kind": "flute",
+    "title": "flute; smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/12_14/496e99d6_c3a7_4eeb_a7df_a99600f5877c/preview_am_9119__a_.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A carved argillite panel pipe/flute with eagle and frog figures, pewter-banded ends — argillite carving of this type is a distinctive Haida art form made for trade and ceremonial use. The object clearly belongs to Haida material culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-5940",
+    "name": "whistle",
+    "kind": "whistle",
+    "title": "whistle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_14/6a6b9aa2_0bfb_480b_bee9_a3c200f54bb2/preview_00725423_001.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden whistle bound with root/cord wrapping and painted red designs, consistent with Northwest Coast (Haida) carved wooden instruments used in ceremonial contexts. It is clearly photographed against a plain background with a scale bar.",
+    "featured": false
    },
    {
     "source": "met",
@@ -56,8 +107,10 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden pipe/flute-like instrument with wrapped bindings, consistent with a Haida-made reed pipe as described by the museum; it is a plausible traditional object for the claimed culture."
+    "reason": "The image shows a carved wooden/spruce root pipe with catalogue label, consistent with a Haida-made musical instrument as described by the holding museum.",
+    "featured": false
    },
    {
     "source": "met",
@@ -69,8 +122,25 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden wind instrument (whistle/pipe) with split bark bindings, consistent with Northwest Coast Haida craftsmanship and the described \"Half-Stopped Pipe.\""
+    "reason": "The image shows a wooden and bark wind instrument (a \"half-stopped pipe\"/whistle) bound with split bark lashings, consistent with Haida-made wood and bark craftwork from the Pacific Northwest Coast.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-5942",
+    "name": "whistle",
+    "kind": "whistle",
+    "title": "whistle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/804cb732_f3d0_46a0_812d_a3c40163e61b/preview_00904473_001.jpg",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden whistle bound with root/withe wrapping, consistent with Northwest Coast ceremonial wind instruments used by groups like the Haida for dance and ritual purposes.",
+    "featured": false
    }
   ],
   "architectural": [
@@ -84,8 +154,25 @@
     "art_form": "architectural",
     "image": "good",
     "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden totemic doorway/house-pole with an opening at the base and crest figures (eagle/thunderbird and raven-like beings) above, consistent with Haida house-frontal poles that incorporate a door at the base."
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden totemic doorway/houseposts with crest figures (owl-like eagle/thunderbird and raven) and an entrance cut at the base, a classic Northwest Coast Haida architectural feature.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B43-25",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_21/a8c78d94_16c0_45c6_aba3_a3c1015f7741/preview_00703418_001.jpg",
+    "art_form": "architectural",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved Haida totem pole with multiple crest figures standing before the timber frame of a traditional house at Kayang, a documented Haida village site—clear evidence of Haida monumental carving and architecture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -97,8 +184,10 @@
     "art_form": "architectural",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a model Haida mortuary box/tomb with a carved and painted formline bear crest between two painted pillars, a traditional Haida art form and structure type."
+    "reason": "This is a model of a Haida mortuary box/tomb on pillars, carved and painted with a classic Haida formline crest design (bear face with characteristic ovoid eyes and formline elements) — a recognized Haida architectural/funerary form.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -110,24 +199,58 @@
     "art_form": "architectural",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a carved and painted model of a Northwest Coast plank house with a totem pole depicting crest figures (bear, killer whale, raven, frog), a well-documented Haida art form representing traditional house architecture and pole carving."
+    "reason": "The image shows a carved and painted model of a traditional Haida-style plank house with a totem pole depicting crest figures (raven, bear, killer whale, frog), consistent with Northwest Coast Haida architectural and carving traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B44-25",
+    "name": "print",
+    "kind": "print",
+    "title": "print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_20/fd73992c_68b5_4a48_884a_a3c10153525c/preview_00698345_001.jpg",
+    "art_form": "architectural",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a print/photograph of a carved Haida-style totem pole standing before a wooden gabled longhouse model, both traditional Haida architectural and sculptural forms. This is documentary depiction of genuine Haida material culture, fitting the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B43-16",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_21/43e99bf8_5f7c_4219_84e4_a3c1015f81db/preview_00703378_001.jpg",
+    "art_form": "architectural",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The photograph shows a monumental wooden Haida tomb structure (a mortuary post/gateway with painted crest panel) at Masset, a documented Haida village, consistent with Haida mortuary architecture traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B44-2",
+    "name": "print",
+    "kind": "print",
+    "title": "print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/352baa2c_c983_446f_9368_a3c1014516e4/preview_00696093_001.jpg",
+    "art_form": "architectural",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image is a printed postcard-style reproduction showing a Haida totem pole and model gabled longhouse, with explanatory text about crest symbolism and house construction — a documentary depiction of genuine Haida material culture (architecture and totem carving).",
+    "featured": false
    }
   ],
   "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Am-6831",
-    "name": "lip-plug",
-    "kind": "lip plug",
-    "title": "lip-plug",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/8cf4a235_f2c1_4f77_9427_a3c401629a7c/preview_00903922_001.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden labret (lip-plug) with carved inlay grooves, a body adornment historically worn by Northwest Coast peoples including the Haida, consistent with the claimed culture."
-   },
    {
     "source": "bm",
     "id": "E_Am1976-03-55",
@@ -138,8 +261,10 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The bracelet shows classic Northwest Coast formline engraving with ovoids and abstract face elements, consistent with Haida silver jewelry traditions."
+    "reason": "The bracelet shows classic Northwest Coast formline engraving with ovoid shapes and U-forms characteristic of Haida silversmithing traditions, consistent with the claimed ethnicity.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -151,8 +276,10 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a carved argillite amulet in the form of a fish/marine creature with formline detailing and haliotis (abalone) shell inlays, with a small creature carved beneath—consistent with Haida argillite carving traditions and worn as personal adornment."
+    "reason": "The image shows a carved argillite amulet in the form of a stylized fish/marine creature with formline details and haliotis shell inlay, a well-documented Haida art form (argillite carving with abalone inlay is highly characteristic of Haida material culture).",
+    "featured": true
    },
    {
     "source": "bm",
@@ -164,91 +291,345 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The pendant is carved from argillite in the characteristic Northwest Coast formline style (ovoid eyes, U-forms, crosshatching) depicting a stylized creature, consistent with Haida argillite carving, a craft unique to the Haida people."
+    "reason": "The pendant shows a finely carved argillite piece with stylized formline elements (ovoids, U-forms) depicting a sea creature, consistent with Haida argillite carving tradition, worn as a pendant with a copper suspension loop.",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Am1898-1020-40",
-    "name": "armlet",
-    "kind": "armlet",
-    "title": "armlet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_1/3_14/b6cfde6d_0631_4fd6_926f_b0ec00f25b08/preview_am1898_1020_40__a_.jpg",
+    "id": "E_Am1984-04-26",
+    "name": "finger-ring",
+    "kind": "ring",
+    "title": "finger-ring",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_15/87bfe114_a223_4dd0_b544_a3c200f85eda/preview_00726884_001.jpg",
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
-    "confidence": "LOW",
-    "reason": "This is a twisted brass wire armlet/bracelet, a generic form of adornment plausible as a trade or personal ornament item; nothing in the image contradicts a Haida attribution, though nothing confirms it either (twisted metal armlets of this style are common across many cultures including Northwest Coast trade goods)."
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a silver finger ring engraved with a formline eagle/hawk design, consistent with Haida Northwest Coast silverwork traditions and signed with an artist's initials, supporting the claimed attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am2000-02-1",
+    "name": "brooch",
+    "kind": "brooch",
+    "title": "brooch",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_5/5f65466a_688c_4425_aef2_a3c1005f760d/preview_00605717_001.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A carved and engraved silver brooch in classic Northwest Coast formline style depicting Thunderbird catching a Whale — a design and technique consistent with Haida silverwork traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-6831",
+    "name": "lip-plug",
+    "kind": "lip plug",
+    "title": "lip-plug",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/8cf4a235_f2c1_4f77_9427_a3c401629a7c/preview_00903922_001.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden labret (lip-plug), a form of body adornment traditionally worn by high-status Haida and other Northwest Coast women; this matches the claimed ethnicity and jewelry category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1939-11-11",
+    "name": "crown",
+    "kind": "crown",
+    "title": "crown",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_13/d3ef09b3_e676_493d_9470_a3c200defee7/preview_00714962_001.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a headdress/crown made of hide with a row of bear claws attached, a type of regalia consistent with Northwest Coast (including Haida) ceremonial dress and status adornment.",
+    "featured": false
    }
   ],
   "household": [
    {
     "source": "bm",
-    "id": "E_Am1944-02-137-b",
-    "name": "toggle",
-    "kind": "toggle",
-    "title": "toggle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/fbfbb40d_a34c_4d45_9624_a3c40168d451/preview_00906290_001.jpg",
+    "id": "E_Am1986-18-3",
+    "name": "fish-hook",
+    "kind": "fish-hook",
+    "title": "fish-hook",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/91273eff_1956_4048_bcab_a3bb005f4f18/preview_00305467_001.jpg",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hide bag with a horn/bone toggle fastener on its strap — a plausible utilitarian object attributable to Northwest Coast/Haida material culture, though the metadata's \"jewelry\" category is a mismatch for what is actually a functional closure device."
+    "reason": "The image shows a bent spruce-root halibut fish hook with cordage, a traditional Northwest Coast fishing tool characteristic of Haida material culture and consistent with the claimed ethnicity.",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Am1898-1020-29",
-    "name": "adze",
-    "kind": "adze",
-    "title": "adze",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/db8ef6fa_86d7_49c4_ba72_a3c40167fea1/preview_00905933_001.jpg",
+    "id": "E_Am-VAN-151",
+    "name": "model; canoe",
+    "kind": "canoe",
+    "title": "model; canoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/4fe69ea8_cd9d_4fab_b69c_a3bb00584137/preview_00303537_001.jpg",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a stone (basaltic) adze blade, a traditional woodworking/carving tool plausible for Haida material culture on the Northwest Coast; it is a tool rather than a weapon, but that mismatch is a category error, not grounds for rejection."
+    "reason": "The image shows a carved wooden model canoe with painted black bands and a formline-style crest design at the bow, consistent with Haida canoe-making traditions of the Northwest Coast.",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Am1904-293",
-    "name": "celt",
-    "kind": "celt",
-    "title": "celt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/96c16b63_0bf9_4dbb_84e9_a3c401680033/preview_00905934_001.jpg",
+    "id": "E_Am1985-43-1-a",
+    "name": "dance-paddle",
+    "kind": "dance paddle",
+    "title": "dance-paddle (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_22/3c0ad7db_bfae_44b0_aae0_a3c4016d8c95/preview_00907959_001.jpg",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a ground stone celt/adze blade, a tool type plausible for Northwest Coast peoples including the Haida, used as a woodworking implement (and sometimes mounted as a weapon) rather than a distinctly non-Haida artifact."
+    "reason": "A carved cedar paddle painted with a formline design (red, black, and blue-green ovoids and shapes) in the distinctive Northwest Coast style consistent with Haida art traditions, likely used for dance or ceremonial display rather than actual paddling.",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Am1939-11-10",
-    "name": "adze",
-    "kind": "adze",
-    "title": "adze",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/b4c0af1a_9f0b_4eeb_95f7_a3c40165e88b/preview_00905230_001.jpg",
+    "id": "E_Am-8815",
+    "name": "smoking-pipe; whistle",
+    "kind": "smoking-pipe",
+    "title": "smoking-pipe; whistle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_20/449fbbd1_9116_4d7e_b61a_a3c4014eb056/preview_00897306_001.jpg",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a polished stone adze blade, a tool used for woodworking rather than a weapon; such adze blades are plausible for Haida or neighboring Northwest Coast peoples and are traditional craft tools, though the claimed \"arms\" category is incorrect."
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1961-04-2",
-    "name": "tobacco-pipe",
-    "kind": "pipe",
-    "title": "tobacco-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/c047c069_ca9b_4b04_9399_a3c4013a22e2/preview_00889704_001.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a carved black argillite pipe with a reclining human figure and a bird motif — a classic Haida carving medium and style, consistent with the claimed ethnicity and museum record."
+    "reason": "This is a carved argillite pipe with a metal-rimmed bowl, a human figure, and a bird (possibly a goose or eagle) — a classic Haida art form, argillite being a slate quarried and carved exclusively by the Haida of Haida Gwaii for trade and ceremonial/decorative use.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1954-05-1031",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_4/9_16/243d9838_e7d6_4bf6_8968_b2ba010eb00c/preview_am1954_05_1031__a_.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a wooden bear-form feast bowl with inlaid opercula shell eyes/teeth, a classic Northwest Coast carved form associated with Haida and neighbouring groups; the museum mislabels it \"ceramic\" but it is a genuine wood household object.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1979-22-27-b",
+    "name": "lid",
+    "kind": "lid",
+    "title": "lid",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/c1aad428_ebd8_459b_b6a8_a3c4015df494/preview_00902347_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a spruce root basket with lid, decorated with false embroidery in geometric patterns—a well-known Haida/Northwest Coast basketry technique and material, though it is basketry rather than ceramic as claimed.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1861-0312-59",
+    "name": "dish",
+    "kind": "dish",
+    "title": "dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_17/f7200310_c66e_4f62_a6f4_a3dd011f0a08/preview_01389265_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a carved argillite dish with characteristic Haida geometric and radial motifs (argillite carving being a distinctive Haida art form from Haida Gwaii); the object plausibly belongs to this people even though it is not ceramic but carved stone.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-4933",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/baa5052b_215e_4451_908a_a3c4015d57df/preview_00902245_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a plain twined spruce-root basket, a household item consistent with Haida and neighboring Northwest Coast peoples' basketry traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1898-1020-13",
+    "name": "ladle",
+    "kind": "ladle",
+    "title": "ladle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/90a956af_6ae0_4f49_ba31_a3c40165f09b/preview_00905186_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden ladle with a recurved handle and worn, greasy patina, consistent with Northwest Coast household implements such as those made by the Haida for feasting and daily use.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1896-1209",
+    "name": "box; dish",
+    "kind": "box",
+    "title": "box; dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_13/186202f6_9451_467f_9ce6_a3c200dffc97/preview_00715292_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "This is a kerfed bentwood box with opercula-shell inlay along the rim, a classic Northwest Coast (Haida) form of household container, even though it lacks formline decoration.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1981-12-11-a",
+    "name": "bag",
+    "kind": "bag",
+    "title": "bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_21/31f1b1b8_29aa_40be_be20_a3c3015aa4e1/preview_00836534_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a hide paint bag with a painted formline-style eye/joint design characteristic of Northwest Coast art, consistent with Haida material culture; museum tags and scale bar are also visible but do not detract from the object itself.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1898-1020-8-b",
+    "name": "cover",
+    "kind": "cover",
+    "title": "cover",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/51edf6cc_0290_4307_9063_a3c4015d673f/preview_00902254_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This shows a cylindrical basketry cover woven from cedar root, a technique well documented among Northwest Coast peoples including the Haida, who are known for fine root and spruce root basketry.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1962-04-1",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_11/21_16/c53433e8_0e95_46fb_b03a_ab0c010bcdd3/preview_am1962_04_1__a_.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a carved wooden feast bowl in Northwest Coast style, with a composite animal form (beaver/marmot-like) and an eagle/human face handle, inlaid with abalone shell — a classic Haida ceremonial food vessel, not a ceramic.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-NWC-25",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_6/974d9ca7_f432_4aee_b148_a3b70066a4fb/preview_00030869_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a wooden carved grease/feast bowl in a Northwest Coast figural style (human/animal-form vessel with formline-like carving), consistent with Haida material culture; the metadata confirms it is wood, not ceramic.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1944-02-138-a",
+    "name": "bag",
+    "kind": "bag",
+    "title": "bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/5262b8b8_ebb7_4071_b420_a3c40169010d/preview_00906314_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a hide bag with a carved bone/tooth-shaped toggle closure, used by the Haida to hold gambling sticks — a made and used object of this people, though the museum's \"textile\" category is a misnomer since it's a worked hide container, not woven cloth.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-4525",
+    "name": "dish; souvenir",
+    "kind": "dish",
+    "title": "dish; souvenir",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_13/5f8b94af_b77f_4bed_b87a_a3c200e12d9d/preview_00715804_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved and painted wooden feast dish in human form with Northwest Coast-style facial painting (ovoid/U-forms), a form and style consistent with Haida (or closely related Northwest Coast) carving traditions, though the museum's own text notes it as wood, not ceramic. The object clearly reflects something the Haida made and used, so it belongs despite the miscategorization.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1933-0315-36",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_8/9_11/a9f9f621_48ce_4992_bf46_ad7f00c589d2/preview_am1933_0315_36__a_.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden frog-effigy bowl with a deeply hollowed interior and grease patina, a form consistent with Northwest Coast (Haida) carved feast/grease bowls; wood carving with zoomorphic imagery is a hallmark craft of the Haida.",
+    "featured": false
    }
   ],
   "sculpture": [
+   {
+    "source": "bm",
+    "id": "E_Am1952-13-1",
+    "name": "model; totem-pole",
+    "kind": "totem",
+    "title": "model; totem-pole",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_7/2d594740_7be9_4737_a9b4_a3c5007b9133/preview_00921634_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved argillite (slate) model totem pole with stacked crest figures, attributed to Charles Edenshaw, a renowned Haida artist — argillite carving is a distinctive Haida tradition from Haida Gwaii.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Am-8816",
@@ -259,8 +640,25 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a carved argillite object with a stylized zoomorphic figure in classic Haida formline design, a material and carving style uniquely associated with Haida artists of Haida Gwaii. This is a sculptural carving rather than a piece of jewelry, but it clearly belongs to Haida material culture."
+    "reason": "This is a carved argillite figure in classic Haida formline style, depicting a stylized creature (likely a beaver or bear) — argillite carving is a hallmark Haida craft, though this piece reads more as a sculptural carving than a wearable ornament.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1961-04-2",
+    "name": "tobacco-pipe",
+    "kind": "pipe",
+    "title": "tobacco-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/c047c069_ca9b_4b04_9399_a3c4013a22e2/preview_00889704_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a Haida argillite carved pipe depicting a reclining human figure with a bird motif, a classic Haida art form carved for trade and domestic use; the piece is clearly Haida-made argillite work.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -272,21 +670,85 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The photo shows carved totem poles in Sitka National Historical Park, Alaska, a site featuring Tlingit and Haida-style totem poles; such carved poles are a documented traditional art form of Haida (and neighboring Tlingit) peoples, and the style is plausible for the region even if not exclusively Haida."
+    "reason": "The photograph shows carved totem poles in a park setting; Sitka National Historical Park displays totem poles from various Northwest Coast peoples including Haida, and the carving style shown is consistent with Haida/Tlingit tradition (the two cannot be reliably distinguished from a photo like this).",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "EA_Am-B44-30",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print (black and white)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_20/cd3e0363_7310_4da2_8428_a3c101533dfa/preview_00698335_001.jpg",
+    "id": "E_Am1979-22-31",
+    "name": "totem-pole; model",
+    "kind": "totem-pole",
+    "title": "totem-pole; model",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/8b59f12c_d626_4753_9a7f_a3c40145fbd1/preview_00893999_001.jpg",
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The photograph documents two carved argillite (slate) \"bear mother\" figures, a well-known Haida sculptural genre, one being an original and one a cast. This is a documentary photo of Haida-made carved objects, fitting the claimed ethnicity."
+    "reason": "The image shows a carved black argillite model totem pole with stacked crest figures (bird atop bear/human forms), a classic Haida art form; argillite carving is unique to the Haida of Haida Gwaii, and Rufus Moody was a known Haida carver.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1976-03-29",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/462b0cbd_8359_472e_a88b_a3c4013c57b8/preview_00890550_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved stone figure depicting a bear grasping a smaller humanoid/animal figure — a subject and stone-carving tradition consistent with Haida argillite sculpture, a well-documented art form of this people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1977-16-1",
+    "name": "sculpture",
+    "kind": "sculpture",
+    "title": "sculpture",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_1/4a8d14ae_e654_49ac_ba89_a3bb0011a8ce/preview_00282556_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a wood carving of three bears astride a log, painted black with red mouths/nostrils—a common Northwest Coast Native American carving subject and style consistent with Haida animal sculpture traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B44-1",
+    "name": "print",
+    "kind": "print",
+    "title": "print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/2bbb3bb2_2fb7_4644_a6bf_a3c101451965/preview_00696095_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a printed card with photographs of two carved totem poles, one explicitly labeled as a Haida heraldic pole from Skidegate depicting a raven, frog and mountain hawk crests — a documentary depiction of Haida-made ritual/heraldic carving.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-1571_1",
+    "name": "dish",
+    "kind": "dish",
+    "title": "dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_11/b1f4a29d_2529_457f_9d6b_a3bf00b8ba7c/preview_00506533_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a Haida argillite carved dish, a material and carving tradition unique to the Haida, made for the curio/trade market with an eagle motif and a mirror-image advertising inscription (patent medicine trade dish) carved by Haida artisans. Argillite carving is a distinctively Haida craft, so it belongs to this culture despite the odd commercial subject matter.",
+    "featured": false
    },
    {
     "source": "bm",
@@ -298,21 +760,85 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The photograph documents two carved argillite (slate) caskets with Haida-style zoomorphic relief carving, a well-known Haida art form, matching the claimed ethnicity."
+    "reason": "The photograph documents two carved slate Haida caskets/chests with characteristic Northwest Coast zoomorphic relief carving (bear, faces, formline-style figures), consistent with Haida argillite carving tradition.",
+    "featured": false
    },
    {
     "source": "bm",
-    "id": "E_Am-6845",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_1/3_14/2ed7bf7b_1dac_4a35_9877_b0ec00ef8024/preview_am_6845__a_.jpg",
+    "id": "E_Am1933-0315-34",
+    "name": "model; totem-pole",
+    "kind": "totem",
+    "title": "model; totem-pole",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_7/37c88687_e1b2_48d7_a5e1_a3c5007b8f48/preview_00921633_001.jpg",
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
-    "confidence": "LOW",
-    "reason": "This is a small walrus-ivory carving of a frog/toad figure, a form more typical of Alaskan/Arctic (Yupik/Inuit) ivory carving traditions than Haida, but such ivory animal figures are also plausible among Northwest Coast peoples and the object itself is a genuine carved artifact usable/made by Indigenous Pacific Northwest groups; without contrary evidence it can be accepted under the claimed group."
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This shows a carved black argillite model totem pole with stacked crest figures, a classic Haida art form using their distinctive local slate material.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am2003-12-2",
+    "name": "totem-pole; model",
+    "kind": "totem-pole",
+    "title": "totem-pole; model",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/e671e7ff_44d6_4b24_8772_a3c4015c67bf/preview_00901897_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved argillite (black slate) model totem pole fragment with a human figure and animal forms, a classic Haida art form using their distinctive local stone material.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1954-05-969",
+    "name": "totem-pole",
+    "kind": "totem pole",
+    "title": "totem-pole",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_10/acc9bbc6_7f83_4150_afdb_a3c600b0c591/preview_00998912_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved and painted wooden totem pole with stacked eagle, human, killer whale, and wolf/bear figures in the classic Northwest Coast formline style consistent with Haida carving traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1903-0314-1",
+    "name": "totem-pole",
+    "kind": "totem pole",
+    "title": "totem-pole",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/6a1aa24d_485c_4b1f_88cb_a3b8011f6bf9/preview_00317940_001.jpg",
+    "art_form": "sculpture",
+    "image": "weak",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows carved cedar totem poles displayed in the British Museum's Great Court, consistent with Haida (or closely related Northwest Coast) monumental crest sculpture; the museum setting doesn't disqualify the object itself.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1896-1206",
+    "name": "figure; religious/ritual equipment",
+    "kind": "figure",
+    "title": "figure; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_22/182fd700_9198_45f3_ae91_a3c4016d150f/preview_00907796_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden totemic figure with painted formline-style face (large ovoid eyes, painted brow shapes) mounted on a shaft, consistent with Northwest Coast/Haida-style carved figures used in ritual or crest contexts.",
+    "featured": false
    }
   ],
   "arms": [
@@ -326,21 +852,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved hardwood club with a sea-monster/wolf head rendered in formline design, a style consistent with Northwest Coast (Haida) carving traditions applied to fishing/fighting clubs."
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1898-1020-35",
-    "name": "harpoon",
-    "kind": "harpoon",
-    "title": "harpoon",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_21/5b493c8e_9780_4830_badb_a3c3015ad472/preview_00836508_001.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a bone harpoon-head with hide thong, a hunting weapon type historically used by Haida and other Northwest Coast peoples, consistent with the claimed ethnicity and tag \"NWC Haida\"."
+    "reason": "The image shows a wooden club carved with a stylized sea-monster/wolf figure in Northwest Coast formline design, consistent with Haida carved fish or war clubs. The style, material, and craftsmanship strongly support the claimed origin.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -352,8 +867,25 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "An iron-bladed knife with a wood handle carved in Northwest Coast formline style (stylized face/figure with characteristic eye and features) and hide wrapping, consistent with Haida craftsmanship."
+    "reason": "The knife has an iron blade with a wood handle carved in Northwest Coast style (formline-like carved face with abalone inlay eye), consistent with Haida-made trade knives.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1898-1020-35",
+    "name": "harpoon",
+    "kind": "harpoon",
+    "title": "harpoon",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_21/5b493c8e_9780_4830_badb_a3c3015ad472/preview_00836508_001.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a bone harpoon-head with barbs and attached hide thong, a hunting/fishing weapon type consistent with Northwest Coast Haida material culture, and the museum tag explicitly reads \"NWC Haida.\"",
+    "featured": true
    },
    {
     "source": "bm",
@@ -365,8 +897,25 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows an elongated club/baton carved with Northwest Coast formline designs (ovoids, U-forms, a stylized creature head) and a suspension hole at the handle end, consistent with Haida carved war clubs or ceremonial batons."
+    "reason": "The image shows an elongated club/baton carved with formline designs featuring stylized creature faces (ovoid eyes, U-forms) characteristic of Northwest Coast art, consistent with Haida workmanship in weapons/ceremonial clubs.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1898-1020-23",
+    "name": "club",
+    "kind": "club",
+    "title": "club",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/3_7/15a9bb12_a4ed_46b3_bd2c_a3d80077769e/preview_01104548_001.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden club carved in Northwest Coast formline style depicting a sea lion or seal with incised handle, consistent with Haida-style weapon/tool carving traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -378,8 +927,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "HIGH",
-    "reason": "The image shows a bone harpoon head with attached thong, labeled by the museum's own tag as \"Haida\" tribe from the N.W.C. (Northwest Coast) region—a plausible traditional hunting weapon for this culture."
+    "reason": "The image shows a bone harpoon head with barbs and thong attachment, labeled with a museum tag confirming Haida attribution; this is a traditional weapon/tool used by Northwest Coast peoples for hunting/fishing.",
+    "featured": false
    }
   ],
   "masks-ritual": [
@@ -393,21 +944,10 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "This is a carved and painted wooden crest helmet with a wolf or bear-like animal head, a classic Northwest Coast ceremonial regalia piece consistent with Haida craftsmanship; it functions as ceremonial headgear rather than a weapon, so the claimed category (arms) is wrong, but the ethnicity attribution is plausible."
-   },
-   {
-    "source": "bm",
-    "id": "E_Am-5337-a-b",
-    "name": "head-dress; figure",
-    "kind": "head-dress",
-    "title": "head-dress; figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_23/66c424eb_ec52_43f2_8037_a3c1017e302d/preview_00714593_001.jpg",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "This is a carved and painted wooden headdress/frontlet piece with formline design elements (ovoids, fish/bear creature, human figures) consistent with Northwest Coast Haida ceremonial regalia, though it functions as a ritual/dance object rather than a \"garment\" per se."
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a carved and painted wooden crest helmet in classic Haida animal-crest style (likely wolf or bear), used as a ceremonial headdress rather than combat armor, but it is clearly a Haida-made object worn in ceremony.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -419,8 +959,40 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a carved and painted wooden ceremonial headdress with wolf, hawk-faced human, killer whale, raven and tail elements, characteristic of Northwest Coast (Haida) ceremonial regalia rather than a simple garment; it belongs to Haida material culture despite the miscategorization.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-6437",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_4/d2e9d17a_de86_4c7d_9e2d_a3bb0046f5bb/preview_00298531_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
     "confidence": "MEDIUM",
-    "reason": "This is a carved wooden ceremonial headdress with wolf, hawk, raven and killer whale forms typical of Northwest Coast (Haida-style) transformation crest art, worn during ceremonial dances; it is a garment/regalia piece plausible for the Haida tradition."
+    "reason": "This is a carved and painted wooden transformation-style mask with a human/bird face, surrounding animal heads, and articulated arms—an iconic Northwest Coast ceremonial mask form consistent with Haida ritual practice.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-5337-a-b",
+    "name": "head-dress; figure",
+    "kind": "head-dress",
+    "title": "head-dress; figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_23/66c424eb_ec52_43f2_8037_a3c1017e302d/preview_00714593_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved and painted wooden headdress with formline designs, fish/bear form and attached human figures — a Northwest Coast ceremonial headdress consistent with Haida ritual regalia, not a woven garment as claimed.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -432,8 +1004,10 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The mask shows a carved wooden human face with mobile eyelids and mechanical elements consistent with Northwest Coast transformation/articulated masks, a known Haida ceremonial art form, and the leather facial hair and mechanism match the described museum record."
+    "reason": "The mask shows a wooden human-face mask with mobile eyelids operated by push-rods and a fine hanging goatee/moustache with beadwork — this is a well-documented Northwest Coast (Haida/Tlingit-type) transformation mask feature, consistent with Haida ritual carving traditions.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -445,50 +1019,103 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved and painted wooden Northwest Coast-style human-face mask with hide ties, consistent with Haida ceremonial regalia; style and construction match Pacific Northwest Coast ritual masks."
+    "reason": "The image shows a carved and painted wooden human-face mask with hide ties, consistent with Northwest Coast (Haida) chief's masks used in ceremonial contexts; the style, painted facial bands, and construction are plausible for the region.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1919-1216-9",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_11/21_15/ea5881a4_017d_449f_9ffe_ab0c01065d90/preview_am1919_1216_9__a_.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden animal mask with formline painted designs, protruding tongue, and hide ear flap — a classic Northwest Coast ceremonial mask consistent with Haida (or closely related Northwest Coast) carving traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1855-1220-195",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_21/25e22289_c6fd_4055_8ac9_a3b801605ecf/preview_00334810_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A wooden dance mask with a human face, painted with stylized eyebrows, facial lines, and an articulated protruding mouth with inset teeth—consistent with Northwest Coast (Haida or neighboring) ceremonial mask traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1947-06-1",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_23/00787337_35c4_45e8_8d32_a3c1017dde2b/preview_00714454_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden face mask with painted facial designs and abalone shell ear pendants, a form consistent with Northwest Coast Haida ceremonial masks.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1944-02-400",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_10/26_14/30d88979_0a3d_45dc_a209_a98500f09966/preview_am1944_02_400__a_.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The mask shows a carved wooden face with formline-style painted design (black, red, green) and an attached hair fringe, consistent with Northwest Coast (Haida or related) ceremonial mask-making traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1939-11-3",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_11/21_16/49a92eed_595d_469e_9936_ab0c010a19df/preview_am1939_11_3__a_.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved and painted wooden wolf mask with abalone-shell inlay in the ears and inset teeth, a form and material treatment consistent with Northwest Coast (Haida) ceremonial masks used in dance and ritual.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1944-02-133",
+    "name": "mask; head-dress",
+    "kind": "mask",
+    "title": "mask; head-dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_19/727ee438_8476_4b9d_98eb_a3b8013b14c7/preview_00324946_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden transformation-style mask/headdress with a hinged jaw and horsehair mane, depicting a mythical beast in the formline painting style characteristic of Northwest Coast peoples including the Haida; it fits the claimed culture and category well.",
+    "featured": false
    }
   ],
   "photo": [
-   {
-    "source": "bm",
-    "id": "EA_Am-B43-16",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print (black and white)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_21/43e99bf8_5f7c_4219_84e4_a3c1015f81db/preview_00703378_001.jpg",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "The photograph documents a tall wooden Haida mortuary structure with a painted horizontal panel at Masset, a Haida village on Haida Gwaii, with timber-framed houses visible behind it — a genuine documentary image of Haida material culture and daily/ritual life."
-   },
-   {
-    "source": "bm",
-    "id": "EA_Am-B43-25",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print (black and white)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_21/a8c78d94_16c0_45c6_aba3_a3c1015f7741/preview_00703418_001.jpg",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "The photograph shows a carved Haida totem pole with crest figures (sea-grizzly, shaman, whale) standing before the frame of a traditional timber house at Kayang (Kaigani Haida village), matching the claimed ethnicity and documentary photo context."
-   },
-   {
-    "source": "bm",
-    "id": "EA_Am-B59-34",
-    "name": "postcard; photographic print",
-    "kind": "photograph",
-    "title": "postcard (black &amp; white and halftone lithographic colour); photographic print (black and white)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_23/e7e84b4f_e186_4daf_aba5_a3c1017dd577/preview_00714449_001.jpg",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The postcard shows a carved Haida ceremonial canoe with mannequins in Haida-style dress, displayed among totem poles at the American Museum of Natural History; the canoe itself is a genuine Haida-made object even though photographed as a museum exhibit rather than in situ."
-   },
    {
     "source": "bm",
     "id": "EA_Am-B7-18",
@@ -499,8 +1126,25 @@
     "art_form": "photo",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "The photograph documents a carved argillite Haida bowl with zoomorphic figures, a traditional Haida art form photographed for documentary/museum purposes, consistent with the claimed ethnicity."
+    "reason": "The photograph documents a carved argillite Haida bowl with zoomorphic/crest faces carved in relief, a classic Haida art form; this is a documentary photo of an object made by the claimed people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B44-30",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_20/cd3e0363_7310_4da2_8428_a3c101533dfa/preview_00698335_001.jpg",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The photograph documents two carved slate \"bear mother\" figures (one an original, one a cast), a well-known Haida argillite carving subject, clearly photographed for museum documentation.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -512,23 +1156,10 @@
     "art_form": "photo",
     "image": "good",
     "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "The photograph documents a carved wooden Haida rattle in the form of a bear/animal face, a traditional Northwest Coast object form consistent with Haida material culture."
-   }
-  ],
-  "painting-mss": [
-   {
-    "source": "bm",
-    "id": "EA_Am-B44-25",
-    "name": "print",
-    "kind": "print",
-    "title": "print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_20/fd73992c_68b5_4a48_884a_a3c10153525c/preview_00698345_001.jpg",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The print depicts a carved Haida-style totem pole in front of a plank longhouse model, both traditional Haida forms (architecture and monumental carving), matching the claimed ethnicity."
+    "reason": "The photograph documents a carved wooden rattle in a bear/animal form with characteristic Northwest Coast formline carving, consistent with Haida ceremonial art; it is a documentary studio photo of the object rather than of people, but still depicts something the culture made.",
+    "featured": true
    }
   ],
   "textile": [
@@ -542,9 +1173,13 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a woven cedar bark mat with a plaid-like pattern, consistent with Northwest Coast basketry/matting traditions such as those made by the Haida for household use."
-   },
+    "reason": "The image shows a woven cedar bark mat with a plaid-like pattern, a traditional Northwest Coast craft form consistent with Haida material culture.",
+    "featured": true
+   }
+  ],
+  "garment": [
    {
     "source": "met",
     "id": "319099",
@@ -552,27 +1187,14 @@
     "kind": "blanket",
     "title": "Button Blanket",
     "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261799.jpg",
-    "art_form": "textile",
+    "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 5,
     "confidence": "HIGH",
-    "reason": "This is a classic Northwest Coast button blanket with a red-outlined crest figure (bear or similar) appliquéd in shell buttons on dark wool trade cloth, fully consistent with Haida ceremonial regalia."
+    "reason": "This is a classic Haida button blanket with a red-outlined crest figure (bear or frog-like creature) appliquéd in wool trade cloth and outlined with shell buttons, a garment made and worn by Haida and neighboring Northwest Coast peoples for ceremonial regalia.",
+    "featured": true
    },
-   {
-    "source": "bm",
-    "id": "E_Am1981-12-11-b-d",
-    "name": "bag",
-    "kind": "bag",
-    "title": "bag",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_21/31f1b1b8_29aa_40be_be20_a3c3015aa4e1/preview_00836534_001.jpg",
-    "art_form": "textile",
-    "image": "weak",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a painted hide or fabric legging/wrapping with a formline-style design (stylized eye and joint motifs) consistent with Northwest Coast (Haida) painted regalia, alongside a small plastic bag of powder and museum tags — the object itself is the painted textile/hide item, not the plastic bag described."
-   }
-  ],
-  "garment": [
    {
     "source": "bm",
     "id": "E_Am-1003",
@@ -583,8 +1205,10 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 5,
     "confidence": "HIGH",
-    "reason": "The image shows a woven spruce-root conical hat painted with formline designs (red/black faces, ovoid eyes) characteristic of Northwest Coast peoples including the Haida, matching the museum's description exactly."
+    "reason": "This is a woven spruce-root conical hat painted with formline designs (faces, ovoid eyes, black-red-black palette), a classic Northwest Coast style closely associated with Haida and neighboring peoples' traditional dress and ceremonial regalia.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -596,21 +1220,10 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a quillwork-decorated apron/bag with puffin beak fringe, a Northwest Coast type of regalia consistent with Haida or closely related coastal groups' ceremonial dress; the design and materials are plausible for the region."
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1981-Q-1923",
-    "name": "head-dress",
-    "kind": "headwear",
-    "title": "head-dress",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/32646e47_f3fc_4b6a_910a_a3e6013f52e0/preview_01605400_001.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a cedar bark headdress band and ring, consistent with Northwest Coast ceremonial regalia such as those made and worn by the Haida; cedar bark headgear is a plausible traditional garment for this culture."
+    "reason": "This is a quillwork-decorated apron/bag element with puffin-beak fringe, a form and technique associated with Northwest Coast Indigenous regalia (medicine man's dance apron), consistent with a Haida-attributed garment component even though this style of quillwork and puffin-beak ornamentation is common across several Northwest Coast peoples.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -622,21 +1235,10 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
-    "confidence": "HIGH",
-    "reason": "This is a woven spruce-root basketry hat painted with a stylized crest design (frog/animal form) in Northwest Coast formline style, consistent with Haida ceremonial headwear."
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1944-02-142",
-    "name": "cloak",
-    "kind": "cloak",
-    "title": "cloak",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/3a1e9295_3575_4dca_8647_a3c4015e53ea/preview_00902531_001.jpg",
-    "art_form": "garment",
-    "image": "weak",
-    "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows two puffin-beak tassels/ornaments (described as attached to a cotton cloak with hide strips and thimbles) rather than the cloak itself — these are a documented Northwest Coast dance regalia element consistent with Haida-type ceremonial dress ornamentation."
+    "reason": "This is a spruce-root basketry hat painted with formline-style crest imagery, a well-documented Haida/Northwest Coast tradition; the woven form and painted design are consistent with Haida-made dress items.",
+    "featured": true
    }
   ],
   "metalwork": [
@@ -650,8 +1252,57 @@
     "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 5,
+    "confidence": "MEDIUM",
+    "reason": "This is a classic Northwest Coast ceremonial copper shield, with the T-ridge form and painted/engraved crest face design (formline eyes and mouth) typical of Haida and neighboring groups' prestige objects. It fits the claimed metalwork category and Haida attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1949-22-113",
+    "name": "crooked knife",
+    "kind": "crooked knife",
+    "title": "crooked knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_13/d8b424fb_0ab0_4097_870b_a3c200e15d79/preview_00715734_001.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a crooked knife with a curved bone/antler handle and steel blade, a classic Northwest Coast carving tool used by Haida and neighbouring peoples for woodworking; the object type fits the claimed ethnicity even though the metal blade is a minor secondary component to the bone handle.",
+    "featured": true
+   }
+  ],
+  "ceramic": [
+   {
+    "source": "bm",
+    "id": "E_Am1976-03-27",
+    "name": "dish",
+    "kind": "dish",
+    "title": "dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/2_15/4489857c_6437_4e4f_b5ca_b2d101042483/preview_am1976_03_27__a_.jpg",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
     "confidence": "HIGH",
-    "reason": "This is a classic Northwest Coast ceremonial copper shield, featuring an engraved and painted crest-like face at the top divided by a ridge, exactly the kind of prestige metalwork object made and used by the Haida and neighboring Northwest Coast peoples."
+    "reason": "This is a finely carved argillite dish with incised spiral and cross-hatch designs and inlaid ivory/shell insets — argillite carving is a distinctive Haida art form, and this type of engraved, inlaid dish matches known Haida trade-ware production.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1949-22-120",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/05ff26d5_9796_4f91_9531_a3c40145c9f2/preview_00893968_001.jpg",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a black argillite bowl carved with totemic imagery (apparently a bear/animal form), a distinctive Haida craft material and style from the Queen Charlotte Islands, consistent with the claimed ethnicity and provenance noted on the museum label.",
+    "featured": true
    }
   ]
  }

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-NWC-25",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-NWC-25",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-NWC-25",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.NWC.25",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Haida",
+    "tradition": "Haida",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a wooden carved grease/feast bowl in a Northwest Coast figural style (human/animal-form vessel with formline-like carving), consistent with Haida material culture; the metadata confirms it is wood, not ceramic.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "bowl",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bowl",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A wood grease bowl, carved in form of a figure lying on its stomach.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/household/haida/images/bm_E_Am-NWC-25.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "04c6d06e4694e21f3decd11d1bc96dabb6f0b7816cc98c23b5deaa0dc32f3bf8",
+      "bytes": 21682,
+      "local_path": "library\\north-america\\canada\\haida\\household\\haida\\images\\bm_E_Am-NWC-25.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:27:00.839268+00:00"
+}

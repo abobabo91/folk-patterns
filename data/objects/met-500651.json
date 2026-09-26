@@ -1,0 +1,90 @@
+{
+  "id": "met-500651",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "500651",
+    "object_url": "https://www.metmuseum.org/art/collection/search/500651",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.90",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a \"kazo,\" a traditional Ainu mouth harp/musical bow-like instrument mounted on a bark or hide backing with cord attachments, consistent with Ainu craft traditions of Japan. This is a plausible traditional Ainu instrument made of wood and natural fibers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Kazo",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood",
+    "classification": "Membranophone-double-headed / frame drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Overall: 55.9 cm (22 in.)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Japan",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/instruments/ainu/images/met_500651.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3c539e9dc3701b45d1e5113b892c972359618fff2114905c7735687e43ddce98",
+      "bytes": 285420,
+      "local_path": "library\\east-asia\\japan\\ainu\\instruments\\ainu\\images\\met_500651.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:49.775248+00:00"
+}

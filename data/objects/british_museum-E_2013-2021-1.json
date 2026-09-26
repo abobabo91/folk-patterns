@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2013-2021-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2013-2021-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2013-2021-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2013.2021.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ghana",
+    "ethnicity": "Akan",
+    "tradition": "Akan",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a single hand-woven narrow strip cloth with complex warp/weft patterning, consistent with a kente-style Akan weaving strip meant to be sewn together with others into a larger cloth. This matches the claimed Akan textile tradition of narrow-strip weaving.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "textile",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "textile",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Single strip of cloth hand-woven from rayon (?) with a complicated pattern in white, yellow and purple both in warp and weft",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/akan/textile/akan/images/bm_E_2013-2021-1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0ec9e80a0c3339e7f98ff90def1799613e5cc4714c7b85a1f3f0781b1c8fbdd6",
+      "bytes": 722074,
+      "local_path": "library\\sub-saharan-africa\\ghana\\akan\\textile\\akan\\images\\bm_E_2013-2021-1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:26:11.174327+00:00"
+}

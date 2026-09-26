@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1968-02-16",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1968-02-16",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1968-02-16",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1968.02.16",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is an Ainu ceremonial headdress made of coiled wood-shaving (inau-style) material with a carved animal head at front and cloth attachments, a form used in Ainu ritual (e.g., bear ceremony) — a genuine Ainu-made object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "head-dress; inau",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-dress; inau",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Headress of coiled spiral wood shavings with carved animal&#039;s head attached at front; shavings tied at back to form a tail. Six small squares of cloth in yellow and dark green attached to the sides.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/masks-ritual/ainu/images/bm_A_As1968-02-16.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9948153eb1500b6c774ebc72b91fc2562e5e6cb6fe3ea8adf45e0dabc2e9a411",
+      "bytes": 78968,
+      "local_path": "library\\east-asia\\japan\\ainu\\masks-ritual\\ainu\\images\\bm_A_As1968-02-16.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:19.353551+00:00"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "met-309698",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "309698",
+    "object_url": "https://www.metmuseum.org/art/collection/search/309698",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, The Houghton Foundation Inc. Gift, 1970",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1970.45.65",
+    "accession_year": "1970"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada / Greenland",
+    "ethnicity": "Inuit",
+    "tradition": "Inuit",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved ivory labret, a form of body adornment/jewelry worn in the lip by Inuit and other Arctic peoples; this matches the claimed ethnicity and category well.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Ivory Labret",
+    "titles_alt": [],
+    "date_text": "ca. 1700",
+    "date_earliest": 1680,
+    "date_latest": 1730,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Ivory"
+    ],
+    "techniques": [],
+    "medium_raw": "Ivory",
+    "classification": "Bone/Ivory-Ornaments",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H x W x D: 1/2 x 7/8 x 1 5/16 in. (1.3 x 2.2 x 3.3 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Nunavut, Baffin Island, Canada",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/jewelry/inuit/images/met_309698.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6c246028720a0acf9be2cae0930ad838bf27aec79cda5c0f15c4346542a2680c",
+      "bytes": 428807,
+      "local_path": "library\\north-america\\canada-greenland\\inuit\\jewelry\\inuit\\images\\met_309698.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:29.347536+00:00"
+}

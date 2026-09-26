@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-3460",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-3460",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-3460",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.3460",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden paddle (hoe) with a carved figural butt and rauponga surface patterning, consistent with traditional Māori woodcarving conventions; this is a genuine Māori-made implement.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "paddle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "paddle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wooden paddle , hoe: plain blade; shaft with natural double curve; butt as squatting male figure carved in the round, rauponga on face, pakura and some rauponga on body and limbs.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/household/maori/images/bm_E_Oc-3460.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "48a5a75c191ebbeb67e03cf4f6cb518a509fb2e05cf8f0dc4ad4a30a444d7532",
+      "bytes": 23537,
+      "local_path": "library\\oceania\\new-zealand\\maori\\household\\maori\\images\\bm_E_Oc-3460.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:49.248555+00:00"
+}

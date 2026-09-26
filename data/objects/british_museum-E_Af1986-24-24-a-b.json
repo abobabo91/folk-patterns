@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1986-24-24-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1986-24-24-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1986-24-24-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1986.24.24.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Mambila",
+    "tradition": "Mambila",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The museum's own description identifies this as a wooden bowl with lid, pyro-engraved with circle/dot motifs, not a ceramic vessel; the image confirms a carved wood object with a pedestal base, consistent with Mambila woodwork/household use rather than pottery.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "bowl",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bowl",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A small, round wooden bowl and lid, with flat, circular base to the bowl and small handle in the centre of the lid. The handle, rim and base of the bowl are blackened with pyrometry, and the whole is pyro-engraved with circle/dot motifs.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/mambila/household/mambila/images/bm_E_Af1986-24-24-a-b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "426cf2160fa99af77602975ccf95fb5572172cd96f680add3fb05e0d3f5b0c10",
+      "bytes": 40140,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\mambila\\household\\mambila\\images\\bm_E_Af1986-24-24-a-b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:35.409142+00:00"
+}

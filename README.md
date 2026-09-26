@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a Claude-drafted encyclopedic writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** 4 regions — Central Asia, MENA, Southeast Asia, Sub-Saharan Africa — 34 countries, 71 ethnicities, 5,346 records in `library/`, each culture with a Claude-drafted writeup.
+**Status:** 9 regions — Central Asia, MENA, Southeast Asia, Sub-Saharan Africa, and since 2026-09-26 North America, East Asia, South Asia, Europe, Oceania with their first cultures — 88 ethnicities, 5,524 objects on the site, each culture with a Claude-drafted writeup. The 17 added on 2026-09-26 (Tiv, Akan, Ambundu, Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai, Naga, Sámi, Māori) came from the world list via `--from-picks` (below).
 
 **Every record is vetted** ([docs/vetting.md](docs/vetting.md)): 4,457 kept, 889 dropped, 79 drops re-filed under the culture they actually belong to. The site shows 4,380 objects after one-culture-per-object and picture dedup. Thinnest cultures, which the British Museum facet cannot fill: Qashqai 0, Sidama 4, Pamiri 5, Uzbek (Afghanistan) 5, Oromo 8, Yakan 8.
 
@@ -102,6 +102,22 @@ Individual scrapers still exist (`scrape_region.py`, `scrape_cleveland.py`,
 etc.) for targeted re-runs; `scrape_all.py` is the one-command wrapper.
 
 ## Adding a new culture (end-to-end, agentic)
+
+From the world list (`docs/world-peoples.md`), with vetted objects — the route new cultures take:
+
+```bash
+# judge up to 10 candidates per category (image + QUALITY 1-5), rank; BM needs Chrome on :9226
+BM_CDP_URL=http://127.0.0.1:9226 python scripts/world_peoples.py pick --only Q1235705 --shard 0/1
+# seed draft + picks into library/ + writeup + shorten + index (no probe, scrape or review)
+BM_CDP_URL=http://127.0.0.1:9226 python scripts/add_culture.py --name Tiv --country Nigeria     --region sub_saharan_africa --from-picks Q1235705 -y
+python scripts/upload_to_r2.py --commit -j 8     # then build_index.py again
+```
+
+Measured 2026-09-26 on 20 peoples: pick ~$0.40 of judge calls and 2-10 min per people (3 processes in
+parallel with `--shard i/3`); onboarding ~4 min per people, the shortened writeup $0.05. A NEW region
+needs `--region-display` and `--region-countries` on the first culture.
+
+By scraping:
 
 ```bash
 # existing region

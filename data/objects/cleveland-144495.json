@@ -1,0 +1,88 @@
+{
+  "id": "cleveland-144495",
+  "source": {
+    "museum": "cleveland",
+    "museum_name": "Cleveland Museum of Art",
+    "object_id": "144495",
+    "object_url": "https://clevelandart.org/art/1969.2",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Katherine C. White",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1969.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Burkina Faso",
+    "ethnicity": "Bwa",
+    "tradition": "Bwa",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a classic buffalo mask with large curved horns, geometric face painting, and raffia fiber ruff — a well-known type made and used by the Bwa and neighboring Bobo/Gurunsi peoples of Burkina Faso for masquerade rituals. It clearly matches the claimed ethnicity and category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Buffalo Mask",
+    "titles_alt": [],
+    "date_text": "early to mid-1900s",
+    "date_earliest": 1900,
+    "date_latest": 1970,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Wood, plant fibers, paint, and iron",
+    "classification": "Mask",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Among the Bwa people, masks with human, animal, and fantastic traits typically represent protective bush spirits. This mask’s horns and muzzle identify it as a bush buffalo. Masked dancers appear during the dry season for initiations, funerals of elders, market days, harvest celebrations, and annual renewal rituals to protect the well-being of the community.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Africa, West Africa, Burkina Faso, possibly Bwa-style maker",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Cleveland Museum of Art",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/burkina-faso/bwa/masks-ritual/bwa/images/cle_144495.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e328f9ba0b8d5f049a7c9272e2c2d245f4bbd0674438356e773e0f3e8f34e036",
+      "bytes": 107721,
+      "local_path": "library\\sub-saharan-africa\\burkina-faso\\bwa\\masks-ritual\\bwa\\images\\cle_144495.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:23.140781+00:00"
+}

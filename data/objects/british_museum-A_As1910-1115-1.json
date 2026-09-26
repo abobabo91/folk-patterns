@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1910-1115-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1910-1115-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-1115-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1910.1115.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Naga",
+    "tradition": "Naga",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a Naga headdress made of cane, pith, dyed fibers, and feathers, a well-documented type of ceremonial headwear worn by Naga peoples of northeast India — consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "head-dress",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-dress",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Head-dress made of pith, cane, thread, feathers.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/naga/garment/naga/images/bm_A_As1910-1115-1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "384eb0219e13c85a3b384b36de239d50a28e2a244c50aa0dfa9c62d81075bb65",
+      "bytes": 43934,
+      "local_path": "library\\south-asia\\india\\naga\\garment\\naga\\images\\bm_A_As1910-1115-1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:17.496847+00:00"
+}

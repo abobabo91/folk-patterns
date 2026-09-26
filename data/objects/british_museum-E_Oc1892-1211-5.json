@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1892-1211-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1892-1211-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1892-1211-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1892.1211.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden architectural board with a central tiki-like face flanked by koru and spiral motifs, typical of Māori meeting-house or storehouse (pataka) carving. This matches the claimed Māori ethnicity and architectural category, though the museum's \"epa\" term is more Melanesian—the style itself is clearly Māori whakairo.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "house-board",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "house-board",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Carved wooden board, epa, from a store house.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/architectural/maori/images/bm_E_Oc1892-1211-5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e852e1a7446826ae60aaa99c474a71ddae167c8011557dd5e951d01b8d151a2f",
+      "bytes": 45652,
+      "local_path": "library\\oceania\\new-zealand\\maori\\architectural\\maori\\images\\bm_E_Oc1892-1211-5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:31.395495+00:00"
+}

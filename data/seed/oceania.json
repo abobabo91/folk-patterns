@@ -1,0 +1,159 @@
+{
+  "region": "oceania",
+  "region_places": {
+    "place_to_country": {
+      "new zealand": "New Zealand",
+      "aotearoa": "New Zealand",
+      "wellington": "New Zealand",
+      "auckland": "New Zealand",
+      "christchurch": "New Zealand",
+      "dunedin": "New Zealand",
+      "rotorua": "New Zealand",
+      "gisborne": "New Zealand",
+      "napier": "New Zealand",
+      "hamilton": "New Zealand",
+      "whanganui": "New Zealand",
+      "nelson": "New Zealand",
+      "invercargill": "New Zealand",
+      "north island": "New Zealand",
+      "south island": "New Zealand",
+      "te ika-a-maui": "New Zealand",
+      "te waipounamu": "New Zealand",
+      "bay of plenty": "New Zealand",
+      "east cape": "New Zealand",
+      "hawke's bay": "New Zealand",
+      "taranaki": "New Zealand",
+      "northland": "New Zealand",
+      "waikato": "New Zealand",
+      "canterbury": "New Zealand",
+      "otago": "New Zealand",
+      "bay of islands": "New Zealand",
+      "chatham islands": "New Zealand",
+      "rekohu": "New Zealand",
+      "stewart island": "New Zealand",
+      "urewera": "New Zealand",
+      "wairarapa": "New Zealand",
+      "marlborough": "New Zealand",
+      "oceania": "_regional",
+      "polynesia": "_regional",
+      "south pacific": "_regional"
+    },
+    "reject_places": [
+      "australia",
+      "new south wales",
+      "queensland",
+      "tasmania",
+      "papua new guinea",
+      "new guinea",
+      "fiji",
+      "samoa",
+      "tonga",
+      "hawaii",
+      "tahiti",
+      "cook islands",
+      "new caledonia",
+      "vanuatu",
+      "solomon islands",
+      "indonesia",
+      "philippines",
+      "japan",
+      "china",
+      "england"
+    ],
+    "signature_traditions": {
+      "hei-tiki": "New Zealand",
+      "hei tiki": "New Zealand",
+      "patu": "New Zealand",
+      "mere pounamu": "New Zealand",
+      "taiaha": "New Zealand",
+      "korowai": "New Zealand",
+      "piupiu": "New Zealand",
+      "moko": "New Zealand",
+      "ta moko": "New Zealand",
+      "whakairo": "New Zealand",
+      "kowhaiwhai": "New Zealand",
+      "tukutuku": "New Zealand",
+      "wharenui": "New Zealand",
+      "waka huia": "New Zealand",
+      "pounamu": "New Zealand"
+    }
+  },
+  "countries": [
+    {
+      "country": "New Zealand",
+      "met_queries": [
+        "New Zealand",
+        "Aotearoa",
+        "Wellington",
+        "Auckland",
+        "North Island",
+        "Chatham Islands"
+      ],
+      "majority_ethnicity": "Māori",
+      "met_gate_tokens": [
+        "New Zealand",
+        "Aotearoa",
+        "Polynesia",
+        "Oceania",
+        "Pacific Islands"
+      ],
+      "ethnicities": [
+        {
+          "name": "Māori",
+          "homeland": {
+            "lat": -38.14,
+            "lon": 176.25
+          },
+          "homeland_place": "Rotorua",
+          "traditions": [
+            "whakairo rākau",
+            "kōwhaiwhai",
+            "tukutuku",
+            "raranga",
+            "whatu",
+            "kākahu",
+            "korowai",
+            "kahu huruhuru",
+            "piupiu",
+            "tāniko",
+            "pounamu hei tiki",
+            "tā moko",
+            "wharenui",
+            "pātaka",
+            "waka taua",
+            "poupou",
+            "amo",
+            "maihi",
+            "pare",
+            "koru motif",
+            "manaia motif",
+            "pākati",
+            "waka huia",
+            "mere pounamu",
+            "pūtōrino"
+          ],
+          "arch_commons_categories": [
+            "Marae in New Zealand",
+            "Wharenui",
+            "Te Papaiouru Marae",
+            "Waitangi Treaty Grounds",
+            "Ōhinemutu",
+            "Tamatekapua",
+            "Te Hau ki Turanga",
+            "Rangiatea Church",
+            "Waka taua"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Maori",
+              "Māori",
+              "New Zealand",
+              "Aotearoa",
+              "Polynesian"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

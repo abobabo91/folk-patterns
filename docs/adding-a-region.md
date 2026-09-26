@@ -2,6 +2,8 @@
 
 Every region is a `data/seed/<region_slug>.json` file plus a `scripts/scrape_region.py <region_slug>` run. The pipeline is region-agnostic.
 
+The usual route now is `add_culture.py --from-picks <key> --region <new_slug> --region-display "..." --region-countries "..."` (README → Adding a new culture): it drafts the region seed and writes vetted picks instead of scraping. The draft returns the region's display name and sometimes extra countries; `add_culture.py` resets `region` to the slug and keeps only the countries passed, because every seed keys on the slug. The steps below are the scrape route.
+
 ## 1. Draft the seed
 
 Copy `data/seed/central_asia.json` as a starting point. Fill in:

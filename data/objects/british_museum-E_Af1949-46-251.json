@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1949-46-251",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1949-46-251",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1949-46-251",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1949.46.251",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Tiv",
+    "tradition": "Tiv",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a wooden post/staff topped with a carved human head with a crested coiffure, a form consistent with Tiv figurative wood carving used as house-post or staff ornament rather than a genuine architectural fragment. It plausibly belongs to the claimed people, though the museum's own category (architectural) is questionable given it reads as a carved post/staff object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "post",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "post",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wooden post surmounted by a carved human head with a transverse crest.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/tiv/sculpture/tiv/images/bm_E_Af1949-46-251.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ba5497e7cabbab1f3a9fcbbd4b45ff066872da8d7b1a0ad25d4f76e5081481f6",
+      "bytes": 24561,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\tiv\\sculpture\\tiv\\images\\bm_E_Af1949-46-251.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:21:50.409366+00:00"
+}

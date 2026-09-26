@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-H_Eu1954-01-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "H_Eu1954-01-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1954-01-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "H,Eu1954.01.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "Norway / Sweden / Finland",
+    "ethnicity": "Sámi",
+    "tradition": "Sámi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved reindeer-antler harness fitting with incised geometric and rosette decoration, a type of object characteristic of Sámi reindeer-herding material culture; the item is bone/antler rather than metal, but the object itself plausibly belongs to this culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "reindeer-harness",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "reindeer-harness",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Part of reindeer harness (L-shaped), bone, carved from the broad palmated portion of a reindeer antler, with incised decoration on the concave side including diagonal double lines and a motif of concentric circles containing a six-petal flower surrounded by groups of five dots at each corner.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/norway-sweden-finland/sami/household/sami/images/bm_H_Eu1954-01-2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b9bcd7ced633a45502094d7f38c9193ad18a4ce886d7310cfe990c72ba31d217",
+      "bytes": 74827,
+      "local_path": "library\\europe\\norway-sweden-finland\\sami\\household\\sami\\images\\bm_H_Eu1954-01-2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:32:23.505492+00:00"
+}

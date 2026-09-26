@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1899-411",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1899-411",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1899-411",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1899.411",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden serving dish with a long handle, consistent with Ainu household serving vessels for rice and salmon roe; the museum label confirms Hokkaido/Ainu provenance. However, the metadata explicitly states it is wood, not ceramic, so the claimed category is wrong though the ethnicity attribution stands.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "dish",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dish",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Dish for serving rice and salmon roe. Made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/household/ainu/images/bm_A_As1899-411.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f2039ad9cd23efea215d09c62766f343eee9bf831d3fca803c0fe3148180e23c",
+      "bytes": 59152,
+      "local_path": "library\\east-asia\\japan\\ainu\\household\\ainu\\images\\bm_A_As1899-411.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:37.006022+00:00"
+}

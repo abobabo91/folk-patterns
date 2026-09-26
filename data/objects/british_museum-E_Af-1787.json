@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-1787",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-1787",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-1787",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.1787",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Egypt",
+    "ethnicity": "Nubian",
+    "tradition": "Nubian",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a leather-strip skirt with cowrie shells strung along the waistband, a garment type well documented among Nubian and wider Nile Valley/Sudanic peoples for dance or ceremonial wear; it plausibly belongs to the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "petticoat; skirt",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "petticoat; skirt",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Petticoat, skirt of leather, shells (cowrie).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/nubian/garment/nubian/images/bm_E_Af-1787.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6da145fb0bc997982dbf34a8057e32a628148cc665cde740e766b9a6877132ac",
+      "bytes": 99538,
+      "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\garment\\nubian\\images\\bm_E_Af-1787.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:32:02.910078+00:00"
+}

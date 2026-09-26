@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af2000-07-1_1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af2000-07-1_1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af2000-07-1_1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af2000.07.1_1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ghana",
+    "ethnicity": "Akan",
+    "tradition": "Akan",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a brass gold-dust spoon with a long, incised handle and small round bowl—a classic Akan implement used for measuring gold dust as currency, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "gold-dust-spoon",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "gold-dust-spoon",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Gold-dust spoon made of sheet brass.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/akan/metalwork/akan/images/bm_E_Af2000-07-1_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "58e48cc1ca852c1cbabad2ba683bf3f4da6d9975dfbb7b818cb8c29da213ff03",
+      "bytes": 32628,
+      "local_path": "library\\sub-saharan-africa\\ghana\\akan\\metalwork\\akan\\images\\bm_E_Af2000-07-1_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:25:59.046172+00:00"
+}

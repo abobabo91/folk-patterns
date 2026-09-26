@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1824-0410-9",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1824-0410-9",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1824-0410-9",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1824.0410.9",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada / Greenland",
+    "ethnicity": "Inuit",
+    "tradition": "Inuit",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a musk ox horn cup carved with a handle end and hollowed bowl, a plausible utilitarian object made and used by Inuit people from locally available materials. This is not a fired-clay ceramic despite the record's category label, but the object itself fits Inuit material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "cup",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cup",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Cup carved of musk ox horn. Horn carved on outside, end of horn carved to become handle with four incisions for fingers, carved out triangularly and slightly rounded. End round in cross-section, handle rectangular (slightly trapezoid) in cross-section.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/household/inuit/images/bm_E_Am1824-0410-9.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a35d49d7dedbb7f2d4ca1c871b5616b69e6d6738bd7ebe258dfbe21e201cee4e",
+      "bytes": 60274,
+      "local_path": "library\\north-america\\canada-greenland\\inuit\\household\\inuit\\images\\bm_E_Am1824-0410-9.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:11.257039+00:00"
+}

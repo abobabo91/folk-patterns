@@ -1,0 +1,92 @@
+{
+  "id": "met-501208",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "501208",
+    "object_url": "https://www.metmuseum.org/art/collection/search/501208",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.592",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada / Greenland",
+    "ethnicity": "Inuit",
+    "tradition": "Inuit",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a traditional Inuit frame drum (kelyaut) made of wood, walrus ivory handle, and stretched skin membrane — a well-documented Inuit instrument type used in drum-dancing and ceremonies.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Kelyaut (frame drum)",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "walrus ivory",
+      "seal or whale peritoneum"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, walrus ivory, seal or whale peritoneum",
+    "classification": "Membranophone-single-headed / frame drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Frame D.: 2.5 cm (1 in.); Max. Diam.: 31 cm (12-3/16 in.); Handle L.: 12.5 cm (4-15/16 in.)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Alaska, Norton Sound, United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/instruments/inuit/images/met_501208.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1dbb2f747cf723682a3cb0d79cc9c44f3b9a6d5671f2d76e5975ac152b5fbcb3",
+      "bytes": 216536,
+      "local_path": "library\\north-america\\canada-greenland\\inuit\\instruments\\inuit\\images\\met_501208.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:31.344277+00:00"
+}

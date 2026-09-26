@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2024-Q-372",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2024-Q-372",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2024-Q-372",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2024.Q.372",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a polished greenstone (pounamu) adze blade, a classic Māori toolform used for woodworking and carving; this matches the claimed culture well.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "adze; axe; blade",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "adze; axe; blade",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Blade made of green stone, tapered from one side to form an edge. Stone has visible striations in a lighter, white/green hue and is polished. Edge of the stone are rounded excluding the blade edge and an additional groove is carved into the long edge of one face of the stone.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/household/maori/images/bm_E_2024-Q-372.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ffd4a66b77ef3a23ad9da85e605bba8177f950d08e2dd39e623e71a88a6d5372",
+      "bytes": 58020,
+      "local_path": "library\\oceania\\new-zealand\\maori\\household\\maori\\images\\bm_E_2024-Q-372.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:45.391275+00:00"
+}

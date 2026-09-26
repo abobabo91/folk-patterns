@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Am-B44-25",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Am-B44-25",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B44-25",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Am.B44.25",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Haida",
+    "tradition": "Haida",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a print/photograph of a carved Haida-style totem pole standing before a wooden gabled longhouse model, both traditional Haida architectural and sculptural forms. This is documentary depiction of genuine Haida material culture, fitting the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Print; a carved wooden Haida long house model with a totem pole in front of a wooden gabled roofed house. \r\nPrinted",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/architectural/haida/images/bm_EA_Am-B44-25.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b9f20375e2c0154b075afe4792ed91aa24693892ccea690a74d0cbaa1e20a2fa",
+      "bytes": 45246,
+      "local_path": "library\\north-america\\canada\\haida\\architectural\\haida\\images\\bm_EA_Am-B44-25.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:26:48.367911+00:00"
+}

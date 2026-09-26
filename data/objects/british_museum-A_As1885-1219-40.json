@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1885-1219-40",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1885-1219-40",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1885-1219-40",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1885.1219.40",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a hand-carved wooden fish mortar/bowl with a hanging handle, a plausible traditional Ainu household implement used for food preparation; nothing contradicts the Ainu attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "mortar",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mortar",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Fish mortar made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/household/ainu/images/bm_A_As1885-1219-40.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c3aec4e86220dad7661e869faca4b1a047e4fcb27549cea9d842b647dfa8c5ab",
+      "bytes": 55998,
+      "local_path": "library\\east-asia\\japan\\ainu\\household\\ainu\\images\\bm_A_As1885-1219-40.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:30.862602+00:00"
+}

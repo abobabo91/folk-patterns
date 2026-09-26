@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1903-1015-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1903-1015-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1903-1015-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1903.1015.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden male figure with a wheku face, haliotis shell eyes, kowhaiwhai/pakura surface patterning, and spiral carving typical of Māori whakairo sculpture, matching the museum's detailed description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wooden standing male (emasculated?) figure on top of cut off pole. Head has mushroom-like projection, wheku face, mouth carved in openwork, pitau-series kowhaiwhai pattern on cheeks, haliotis shell eyes; plain spirals on shoulders, buttocks and knees, pakura on arms. Large hands: right naturalistic, left stylized. Dark brown stain, varnished.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/sculpture/maori/images/bm_E_Oc1903-1015-1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bf7c2f783341410efea040c75bf252bdbf4846590cbbefda12304825f0f8059d",
+      "bytes": 25954,
+      "local_path": "library\\oceania\\new-zealand\\maori\\sculpture\\maori\\images\\bm_E_Oc1903-1015-1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:42.549291+00:00"
+}

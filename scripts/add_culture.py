@@ -63,6 +63,8 @@ def _load_seed(region: str, region_display: str | None, countries_for_new: list[
         )
     print(f"[0/6] Region seed {p.name} not found — drafting via claude …")
     seed_obj = gen_region.draft(region, region_display, countries_for_new)
+    seed_obj["region"] = slugify(region)   # the draft returns the display name; every seed keys on the slug
+    seed_obj["countries"] = [c for c in seed_obj["countries"] if c["country"] in countries_for_new]
     print(json.dumps(seed_obj, indent=2, ensure_ascii=False)[:2000] + "\n… (truncated)")
     if not _confirm(f"Accept and save to {p}?", auto_yes):
         raise SystemExit("aborted")
@@ -116,6 +118,9 @@ def main() -> None:
     ap.add_argument("--skip-review", action="store_true", help="Skip post-scrape LLM sample review")
     ap.add_argument("--skip-writeup", action="store_true")
     ap.add_argument("--skip-index", action="store_true")
+    ap.add_argument("--from-picks", metavar="KEY",
+                    help="write data/world/picks/<KEY>.json (world_peoples.py pick) into the library instead of "
+                         "probing, scraping and reviewing: the picks are already vetted")
     ap.add_argument("--region-display", help="Display name for a NEW region, e.g. 'Latin America'")
     ap.add_argument("--region-countries", help="Comma-separated country list for a NEW region")
     args = ap.parse_args()
@@ -139,6 +144,17 @@ def main() -> None:
         _add_to_seed(seed_path, seed, country_entry, entry)
         print(f"  wrote {seed_path}")
 
+    if args.from_picks:
+        import _load_picks
+        print(f"\n[2-4/6] Writing vetted picks {args.from_picks} into the library (no probe, scrape or review) …")
+        _load_picks.load(args.from_picks, seed["region"], country_entry["country"], args.name)
+    elif not _probe_scrape_review(args):
+        return
+    _writeup_and_index(args)
+
+
+def _probe_scrape_review(args) -> bool:
+    """Steps 2-4. False when --skip-scrape stops the run here."""
     # 2. Ambiguity probe (with auto-commit of the suggested reject regex)
     print(f"\n[2/6] Ambiguity probe (bare-word Europeana search + LLM review) …")
     probe = probe_mod.probe(args.name, args.country, args.region, top_n=20)
@@ -157,7 +173,7 @@ def main() -> None:
 
     if args.skip_scrape:
         print("\n[skip] scrape phase skipped by flag")
-        return
+        return False
 
     # 3. Scrape
     rc = _run(
@@ -188,7 +204,10 @@ def main() -> None:
                     print(f"  ✓ europeana.py patched with post-scrape reject pattern")
             print(f"  suggested seed removals: {review.get('suggested_seed_removals')}")
             print(f"  summary: {review.get('summary')}")
+    return True
 
+
+def _writeup_and_index(args) -> None:
     # 5. Writeup
     if args.skip_writeup:
         print("[skip] writeup skipped by flag")
@@ -196,6 +215,10 @@ def main() -> None:
         _run(
             [sys.executable, str(ROOT / "scripts" / "generate_writeup.py"), args.name],
             f"[5/6] Generating writeup for {args.name}",
+        )
+        _run(
+            [sys.executable, str(ROOT / "scripts" / "restructure_writeups.py"), "--only", args.name],
+            f"[5/6] Shortening the writeup into the site format",
         )
 
     # 6. Index rebuild

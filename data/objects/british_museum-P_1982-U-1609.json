@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-P_1982-U-1609",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "P_1982-U-1609",
+    "object_url": "https://www.britishmuseum.org/collection/object/P_1982-U-1609",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "P,1982.U.1609",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada / Greenland",
+    "ethnicity": "Inuit",
+    "tradition": "Inuit",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The drawing depicts an Inuit woman's parka (amauti) from front and back with annotated details, documenting traditional Inuit dress construction, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "drawing",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "drawing",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Inuit costume and weapons; a woman&#039;s parka seen from behind and in front, a spear, a sealskin slipper, a pair of shorts and two spear heads, with identifying inscriptions\nWatercolour and pen and ink",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/painting-mss/inuit/images/bm_P_1982-U-1609.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f576b557501f74454c1f8f3b08aa863fd60f34d398fa41827a411a082b9cc9af",
+      "bytes": 31468,
+      "local_path": "library\\north-america\\canada-greenland\\inuit\\painting-mss\\inuit\\images\\bm_P_1982-U-1609.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:27:51.902422+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As-8101-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As-8101-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As-8101-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As.8101.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a pair of hide/fur winter boots with visible stitching, consistent with traditional Ainu salmon-skin or animal-hide footwear used in cold-climate daily life.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "boot",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "boot",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Winter boots (pair of) made of hide, fur.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/garment/ainu/images/bm_A_As-8101-a-b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "025cf4b9d87454ff1d4c9c52b0aec362b146f6e55b82fb3e46ef5e45e95d1a86",
+      "bytes": 45834,
+      "local_path": "library\\east-asia\\japan\\ainu\\garment\\ainu\\images\\bm_A_As-8101-a-b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:46.309042+00:00"
+}

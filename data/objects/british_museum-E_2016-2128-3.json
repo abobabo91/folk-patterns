@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2016-2128-3",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2016-2128-3",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2016-2128-3",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2016.2128.3",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The plate shows six photographic views of a carved Māori feather box (waka huia), a wooden ceremonial object used to store treasured feathers and ornaments, clearly a Māori-made object even though the sheet itself is a printed museum report page.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "print; bookplate",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "print; bookplate",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Six views of Maori feather box presented to Cambridge University Museum of Archaeology and Anthropology by A.A. Bevan. From CUMAA Annual Report 1909, Plate IX.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/sculpture/maori/images/bm_E_2016-2128-3.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6557944a1e2ab07425a7c6f784cb1f6b45fa9d4764176ad54cb4772aa7e3656e",
+      "bytes": 23224,
+      "local_path": "library\\oceania\\new-zealand\\maori\\sculpture\\maori\\images\\bm_E_2016-2128-3.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:43.073356+00:00"
+}

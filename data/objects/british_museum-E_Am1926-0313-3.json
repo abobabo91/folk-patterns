@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1926-0313-3",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1926-0313-3",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1926-0313-3",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1926.0313.3",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada / Greenland",
+    "ethnicity": "Inuit",
+    "tradition": "Inuit",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved ivory/bone marrow spoon with a drilled hole at one end, a household implement type well documented among Inuit groups for extracting marrow from bones.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "spoon",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spoon",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Marrow spoon made of ivory, one end flattened towards point, the other end at one side slightly broadening to yield a triangular form, and with small drilled hole near the point.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/household/inuit/images/bm_E_Am1926-0313-3.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ea058ebf931df5ff6f3c7e43fa59a7fa5823256b7e29f41515ac339a2a51854e",
+      "bytes": 138351,
+      "local_path": "library\\north-america\\canada-greenland\\inuit\\household\\inuit\\images\\bm_E_Am1926-0313-3.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:07.966405+00:00"
+}

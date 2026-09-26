@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_As-B3-10",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_As-B3-10",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_As-B3-10",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,As.B3.10",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo shows an elderly bearded Ainu man wearing a traditional decorated robe (attush-style) with embroidered patterns and a waistband, consistent with documented Ainu dress and appearance in 19th-century ethnographic photography.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "photographic print (black and white)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print (black and white)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Photograph (black and white); side view of a bearded Ainu man with his hair neatly combed back; wearing decorated clothing with waistband. \r\nalbumen print",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/photo/ainu/images/bm_EA_As-B3-10.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8185679c025e92a94f113a0c0f29aff71e89c1e8e0a4799150c40c3f62584bf3",
+      "bytes": 43381,
+      "local_path": "library\\east-asia\\japan\\ainu\\photo\\ainu\\images\\bm_EA_As-B3-10.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:54.497740+00:00"
+}

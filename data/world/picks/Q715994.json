@@ -2,10 +2,10 @@
  "key": "Q715994",
  "label": "Rukai people",
  "name": "Rukai",
- "judged": 0,
- "cached": 13,
- "cost_usd": 0,
- "picks": {
+ "judged": 16,
+ "cached": 0,
+ "cost_usd": 0.163,
+ "ranked": {
   "household": [
    {
     "source": "bm",
@@ -17,8 +17,10 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden double drinking cup with incised figures, a well-known Rukai/Paiwan ceremonial vessel type used for friendship or alliance drinking; this is a traditional made and used object plausible for the claimed group. The museum's \"ceramic\" category is wrong since it is carved wood, not clay."
+    "reason": "This is a carved wooden double drinking cup with incised figures, a traditional Rukai/Paiwan-style ceremonial vessel used for friendship or alliance drinking, consistent with known Rukai material culture. Though the museum labels it \"ceramic,\" the object is clearly wood, not clay.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -30,34 +32,10 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a wooden double drinking cup, a traditional vessel type used by Rukai and neighboring Paiwan peoples in Taiwan for ceremonial shared drinking; the object type is plausible for the claimed culture even though the museum mislabels it as \"ceramic\" when it is clearly carved wood."
-   },
-   {
-    "source": "bm",
-    "id": "A_As1965-01-2",
-    "name": "bowl",
-    "kind": "bowl",
-    "title": "bowl",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/b57f765f_2ffc_4e31_8b1f_a3b9007b4da6/preview_00349786_001.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The object is a carved wooden double drinking cup with incised decoration, a form associated with Taiwanese indigenous peoples such as the Rukai/Paiwan; it is a wooden vessel, not ceramic, but this belongs to the culture's material heritage."
-   },
-   {
-    "source": "bm",
-    "id": "A_As1965-01-3",
-    "name": "smoking-pipe",
-    "kind": "pipe",
-    "title": "smoking-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/4f0cbae7_9d1f_4015_9915_a3b9007b4f2f/preview_00349787_001.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a smoking pipe with an incised wooden stem and a metal bowl decorated with studs, a household/utensil object plausible for indigenous Taiwanese groups such as the Rukai."
+    "reason": "This is a wooden double-drinking cup, a well-known ceremonial object among the Rukai and neighboring Paiwan peoples of Taiwan used to seal alliances between chiefs; the carved and painted decoration mentioned is not visible in this view but the form is diagnostic.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -69,24 +47,73 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "A wooden comb carved with human heads is a plausible personal/household object of Taiwanese indigenous craft, consistent with Rukai material culture (human-figure motifs are common in Rukai carving)."
+    "reason": "A wooden comb topped with carved human head motifs is a plausible personal-adornment object for Rukai (or related Taiwanese indigenous) material culture; the carving style with stylized faces fits Austronesian Taiwanese woodwork traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1910-1207-36-43",
+    "name": "spoon",
+    "kind": "spoon",
+    "title": "spoon",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/b70c0ea5_3455_496d_b5bc_a3b9007af737/preview_00349691_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a single carved wooden spoon with a triangular geometric-incised handle and figural terminal decoration, consistent with Taiwanese Indigenous carved wooden utensils such as those made by the Rukai; it is a plausible household object for this culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1965-01-3",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/4f0cbae7_9d1f_4015_9915_a3b9007b4f2f/preview_00349787_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a smoking pipe with an incised wooden stem and a studded metal bowl, a traditional personal item consistent with Taiwanese indigenous craft such as the Rukai; nothing contradicts the claimed attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1965-01-2",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/b57f765f_2ffc_4e31_8b1f_a3b9007b4da6/preview_00349786_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The object is a wooden double drinking cup with incised lozenge-shaped bowls, a classic Paiwan/Rukai-type ceremonial vessel used for shared drinking rituals; it is a wooden household/ritual object, not ceramic, but the form is plausible for this Taiwanese indigenous culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1910-1207-35",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/c2a412a1_71fc_4008_a133_a3b9007af5bc/preview_00349690_001.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden-shaft smoking pipe with a carved metal bowl and tasseled cord, consistent with Rukai (or closely related Taiwanese indigenous) household/utensil objects showing figural carving typical of highland Formosan groups. This plausibly fits the claimed people as an everyday utensil object.",
+    "featured": false
    }
   ],
   "garment": [
-   {
-    "source": "bm",
-    "id": "A_As1910-1207-107",
-    "name": "skirt",
-    "kind": "skirt",
-    "title": "skirt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/dd35f85d_2649_4a81_bb0c_a3b9007ad8cc/preview_00349631_001.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a dark indigo pleated skirt with an embroidered green and gold waistband, consistent with traditional Taiwanese indigenous garment styles including Rukai dress; nothing contradicts the claimed ethnicity."
-   },
    {
     "source": "bm",
     "id": "A_As1910-1207-197",
@@ -97,21 +124,25 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a painted leather cap with red and dark geometric/dot motifs and stylized arc designs consistent with indigenous Taiwanese headwear traditions such as those of the Rukai; it is a wearable garment item plausible for the claimed group."
+    "reason": "The image shows a painted leather cap with dotted and arched motifs, a headwear type consistent with indigenous Taiwanese highland groups such as the Rukai, who are known for painted leather caps with similar geometric/curvilinear decoration.",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "A_As1910-1207-192",
+    "id": "A_As1910-1207-107",
     "name": "skirt",
     "kind": "skirt",
     "title": "skirt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/9b13f7f3_56d9_48f8_b96f_a3b9007b2f60/preview_00349672_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/dd35f85d_2649_4a81_bb0c_a3b9007ad8cc/preview_00349631_001.jpg",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a pleated women's skirt made from alternating panels of plain blue and printed cotton cloth, consistent with imported-fabric skirts documented among Taiwanese indigenous groups such as the Rukai; the panelled construction and embroidered waistband are plausible for this tradition."
+    "reason": "The image shows a man's indigo cotton skirt with an embroidered green waistband and small geometric motifs, a garment type consistent with Taiwanese indigenous dress traditions such as the Rukai. Nothing contradicts the claimed ethnicity, and the garment is plausible for the region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -123,8 +154,25 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A dark cotton women's jacket with embroidered collar, frog closures, and decorated cuffs, consistent with a Taiwanese indigenous women's upper garment; plausible as Rukai dress given the museum's own description of it as such."
+    "reason": "The image shows a dark women's cotton jacket/robe with embroidered decorative bands at the collar, front closure, and cuffs, consistent with traditional garments made and worn by Taiwanese indigenous groups such as the Rukai. The style and construction are plausible for the claimed culture and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1910-1207-192",
+    "name": "skirt",
+    "kind": "skirt",
+    "title": "skirt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/9b13f7f3_56d9_48f8_b96f_a3b9007b2f60/preview_00349672_001.jpg",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a woman's skirt made of alternating panels of blue and printed cotton cloth with a decorated waistband, consistent with Rukai women's traditional dress using imported trade cotton fabrics. It clearly shows a garment worn by the claimed people.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -136,8 +184,10 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a black cotton wrap skirt with blue bands edged in red and stitched with colored thread, consistent with a Taiwanese indigenous woman's garment; such plain-and-band skirts are plausible Rukai attire and cannot be distinguished from neighboring groups by this pattern alone."
+    "reason": "The image shows a black cotton wrap skirt with blue bands edged in red and stitched trim, consistent with indigenous Taiwanese women's garments such as those made by the Rukai; the plain construction and colour scheme are plausible for the region's textile traditions.",
+    "featured": true
    }
   ],
   "arms": [
@@ -151,8 +201,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a traditional single-edged knife with wooden hilt and sheath, a type consistent with Taiwanese indigenous (including Rukai) knife-making traditions used for daily and ceremonial purposes."
+    "reason": "A traditional single-edged iron knife with wooden handle and sheath, consistent with the type of blade knife used by Taiwanese indigenous peoples such as the Rukai for daily and ceremonial purposes.",
+    "featured": true
    }
   ],
   "jewelry": [
@@ -166,8 +218,10 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden ornament with a coiled serpent/snake motif and triangular incised patterning, consistent with Rukai/Paiwan carved wax-mold ornaments featuring the culturally significant hundred-pace snake motif. This is plausible traditional Rukai craft work."
+    "reason": "This is a carved wooden ornament with a coiled snake motif and triangular/geometric incised patterns, consistent with Rukai/Paiwan traditional carving where the hundred-pace viper (snake) is a significant clan/ancestral motif; such plaques are plausible ceremonial or personal ornaments from this region.",
+    "featured": true
    }
   ]
  }

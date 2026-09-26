@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-NZ-102",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-NZ-102",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-NZ-102",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.NZ.102",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden putorino (trumpet-flute) with a wheku face, haliotis shell eye, kiekie/flax bindings, and rauponga carving pattern — all classic Māori features consistent with the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "flute",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "flute",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Trumpet/flute, putorino. Wooden trumpet: kiekie and fine flax bindings. Wheku face with one haliotis shell eye at blowing end, rauponga around central hole, wheku face on opposite side at distal end; red ochre on faces.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/instruments/maori/images/bm_E_Oc-NZ-102.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "01c5b933faf4454fb54e456956dec6205ed9c8cedcfbf762ec1d36ad1520268c",
+      "bytes": 25965,
+      "local_path": "library\\oceania\\new-zealand\\maori\\instruments\\maori\\images\\bm_E_Oc-NZ-102.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:34:01.279081+00:00"
+}

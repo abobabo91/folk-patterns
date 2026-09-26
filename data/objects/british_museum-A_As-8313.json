@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As-8313",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As-8313",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As-8313",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As.8313",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Naga",
+    "tradition": "Naga",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a bamboo drinking cup with lacquered lower end and woven cane/wicker decorative banding, a type of vessel documented among Naga groups of northeast India who commonly use bamboo containers with woven rattan ornamentation. It is not ceramic despite the museum's category label, but the object itself plausibly belongs to Naga material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "drinking-cup",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "drinking-cup",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Drinking cup made from section of bamboo; lower end tapering off and ending in two points; coated in purple-brown varnish (?) or lacquer (?). Top section covered with wicker work in red and yellow.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/naga/household/naga/images/bm_A_As-8313.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2c6d803ca58598234f93f8dfd4e60a93e6940852b96ad8fdac0249177264a671",
+      "bytes": 46485,
+      "local_path": "library\\south-asia\\india\\naga\\household\\naga\\images\\bm_A_As-8313.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:15.463341+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1991-14-30",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1991-14-30",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1991-14-30",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1991.14.30",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Naga",
+    "tradition": "Naga",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden male figurine on a pedestal with hair-tassel ear ornaments and a carved cane, consistent with Naga wooden ancestor/guardian figures from Northeast India. Nothing contradicts the Naga attribution, and the form matches known Naga carving traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figurine",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figurine",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Figurine; carved of wood; in the form of human male; round pedestal with flat top; figure stands on pedestal, right hand on right hip, left hand holding cane which rests on pedestal; ear ornaments of orange-dyed hair; cane carved with lines and dots.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/naga/sculpture/naga/images/bm_A_As1991-14-30.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f847f31d4eab335eb4fba20543bc897497dae8fee2d0d723f9cec4715d0d1327",
+      "bytes": 28247,
+      "local_path": "library\\south-asia\\india\\naga\\sculpture\\naga\\images\\bm_A_As1991-14-30.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:29.379378+00:00"
+}

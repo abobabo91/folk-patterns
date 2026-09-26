@@ -1,0 +1,91 @@
+{
+  "id": "met-501188",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "501188",
+    "object_url": "https://www.metmuseum.org/art/collection/search/501188",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.572",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Haida",
+    "tradition": "Haida",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden/spruce root pipe with catalogue label, consistent with a Haida-made musical instrument as described by the holding museum.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Reed Pipe",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "spruce root",
+      "wood (red cedar or spruce)"
+    ],
+    "techniques": [],
+    "medium_raw": "spruce root, wood (red cedar or spruce)",
+    "classification": "Aerophone-Reed Vibrated-pipe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Diam. 1.9 x L. 22.2cm (3/4 x 8 3/4in.)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Masset, British Columbia, Canada",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/instruments/haida/images/met_501188.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e2a5e34aa8cddffd180ea33a5591bb4268ec69e996994a6325e087cdcf8fb821",
+      "bytes": 88110,
+      "local_path": "library\\north-america\\canada\\haida\\instruments\\haida\\images\\met_501188.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:36:24.658971+00:00"
+}

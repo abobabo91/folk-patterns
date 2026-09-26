@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1978-22-420",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1978-22-420",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1978-22-420",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1978.22.420",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Burkina Faso",
+    "ethnicity": "Bwa",
+    "tradition": "Bwa",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a curved sickle-sword (mambeli-type) with a wire-wrapped wooden handle and narrow curved metal blade, a weapon form well documented among Bwa and neighboring Gur-speaking peoples of Burkina Faso, consistent with the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sickle-sword",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sickle-sword",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sickle-sword (mambeli); narrow curved metal blade in the shape of a scimitar with additional width at tip with incised line, and arrow-shaped protrusion towards top of blade on one side. Wooden handle with flat and twisted coils of metal.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/burkina-faso/bwa/arms/bwa/images/bm_E_Af1978-22-420.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9b34d8103f94e2f22667cebd3b67e6737004b2a750e0e3c8b79989b382340bd5",
+      "bytes": 24764,
+      "local_path": "library\\sub-saharan-africa\\burkina-faso\\bwa\\arms\\bwa\\images\\bm_E_Af1978-22-420.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:17.302030+00:00"
+}

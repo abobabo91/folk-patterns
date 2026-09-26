@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1982-19-11",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1982-19-11",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1982-19-11",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1982.19.11",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Naga",
+    "tradition": "Naga",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A carved wooden standing human figure with simplified features, hands clasped at the torso, and a naturally aged patina—this matches the type of ancestor/guardian figures produced by Naga groups in Nagaland, and there is no positive evidence pointing to another named tradition.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Human figure made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/naga/sculpture/naga/images/bm_A_As1982-19-11.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "00779f65052d4baca90f46315797929de23fd95dec849c729b82a4488b190244",
+      "bytes": 43090,
+      "local_path": "library\\south-asia\\india\\naga\\sculpture\\naga\\images\\bm_A_As1982-19-11.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:30.958764+00:00"
+}

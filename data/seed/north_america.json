@@ -1,0 +1,236 @@
+{
+  "region": "north-america",
+  "region_places": {
+    "place_to_country": {
+      "canada": "Canada",
+      "ottawa": "Canada",
+      "toronto": "Canada",
+      "montreal": "Canada",
+      "quebec": "Canada",
+      "vancouver": "Canada",
+      "vancouver island": "Canada",
+      "british columbia": "Canada",
+      "alberta": "Canada",
+      "manitoba": "Canada",
+      "saskatchewan": "Canada",
+      "ontario": "Canada",
+      "nova scotia": "Canada",
+      "newfoundland": "Canada",
+      "labrador": "Canada",
+      "yukon": "Canada",
+      "northwest territories": "Canada",
+      "nunavut": "Canada",
+      "haida gwaii": "Canada",
+      "queen charlotte islands": "Canada",
+      "baffin island": "Canada",
+      "kinngait": "Canada",
+      "cape dorset": "Canada",
+      "iqaluit": "Canada",
+      "hudson bay": "Canada",
+      "new france": "Canada",
+      "acadia": "Canada",
+      "rupert's land": "Canada",
+      "greenland": "Canada / Greenland",
+      "kalaallit nunaat": "Canada / Greenland",
+      "nuuk": "Canada / Greenland",
+      "godthab": "Canada / Greenland",
+      "qaanaaq": "Canada / Greenland",
+      "ammassalik": "Canada / Greenland",
+      "ilulissat": "Canada / Greenland",
+      "disko bay": "Canada / Greenland",
+      "north america": "_regional"
+    },
+    "reject_places": [
+      "united states",
+      "alaska",
+      "new york",
+      "california",
+      "arizona",
+      "new mexico",
+      "mexico",
+      "guatemala",
+      "peru",
+      "brazil",
+      "siberia",
+      "russia",
+      "china",
+      "japan",
+      "iceland",
+      "norway",
+      "england",
+      "scotland",
+      "france"
+    ],
+    "signature_traditions": {
+      "argillite carving": "Canada",
+      "bentwood box": "Canada",
+      "button blanket": "Canada",
+      "totem pole": "Canada",
+      "birchbark biting": "Canada",
+      "moosehair tufting": "Canada",
+      "cape dorset print": "Canada",
+      "kinngait print": "Canada",
+      "amauti": "Canada",
+      "inuksuk": "Canada",
+      "tupilak": "Canada / Greenland",
+      "avittat": "Canada / Greenland",
+      "kalaallisuit": "Canada / Greenland",
+      "thule harpoon": "Canada / Greenland"
+    }
+  },
+  "countries": [
+    {
+      "country": "Canada",
+      "met_queries": [
+        "Canada",
+        "Canadian",
+        "British North America",
+        "New France",
+        "Quebec",
+        "Northwest Coast"
+      ],
+      "majority_ethnicity": "Haida",
+      "met_gate_tokens": [
+        "Northwest Coast",
+        "Eastern Woodlands",
+        "Subarctic",
+        "Plains",
+        "First Nations",
+        "Canadian Arctic"
+      ],
+      "ethnicities": [
+        {
+          "name": "Haida",
+          "homeland": {
+            "lat": 53.25,
+            "lon": -132.08
+          },
+          "homeland_place": "Skidegate",
+          "traditions": [
+            "formline",
+            "ovoid",
+            "u-form",
+            "argillite carving",
+            "bentwood box",
+            "Chilkat weaving",
+            "raven's tail weaving",
+            "spruce root basketry",
+            "naaxiin",
+            "gyaa'aang",
+            "totem pole",
+            "mortuary pole",
+            "house frontal pole",
+            "monumental cedar house",
+            "Chief's settee",
+            "button blanket",
+            "cedar bark hat",
+            "potlatch regalia",
+            "transformation mask",
+            "abalone inlay",
+            "copper shield",
+            "tlaajaang",
+            "labret",
+            "crest art",
+            "dugout canoe"
+          ],
+          "arch_commons_categories": [
+            "SGang Gwaay",
+            "Haida Gwaii",
+            "Haida Heritage Centre",
+            "Totem poles in Canada",
+            "Haida totem poles",
+            "Old Massett",
+            "Skidegate"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Haida",
+              "Haida Gwaii",
+              "Queen Charlotte Islands",
+              "Northwest Coast",
+              "British Columbia"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Canada / Greenland",
+      "met_queries": [
+        "Greenland",
+        "Kalaallit Nunaat",
+        "Arctic",
+        "Baffin Island",
+        "Nuuk",
+        "Thule"
+      ],
+      "majority_ethnicity": "Inuit",
+      "met_gate_tokens": [
+        "Thule culture",
+        "Dorset culture",
+        "Inuit",
+        "Eskimo",
+        "Circumpolar Arctic",
+        "Greenlandic"
+      ],
+      "ethnicities": [
+        {
+          "name": "Inuit",
+          "homeland": {
+            "lat": 63.75,
+            "lon": -68.52
+          },
+          "homeland_place": "Iqaluit",
+          "traditions": [
+            "amauti",
+            "atigi",
+            "qulittaq",
+            "kamik",
+            "mitsi",
+            "annuraaq",
+            "silapaaq",
+            "avittat",
+            "nuilarmiut",
+            "qilaut",
+            "ulu",
+            "qulliq",
+            "tupilak",
+            "inuksuk",
+            "iglu",
+            "qarmaq",
+            "qajaq",
+            "umiaq",
+            "kakiniit",
+            "tunniit",
+            "sakiak beadwork",
+            "delicate scrimshaw",
+            "Cape Dorset stonecut",
+            "sealskin mosaic",
+            "Greenlandic national costume"
+          ],
+          "arch_commons_categories": [
+            "Igloos",
+            "Inuksuit",
+            "Hans Egede Church",
+            "Church of Our Saviour, Nuuk",
+            "Nuuk Cathedral",
+            "Turf houses in Greenland",
+            "Thule culture"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Inuit",
+              "Eskimo",
+              "Inupiaq",
+              "Kalaallit",
+              "Greenland",
+              "Nunavut",
+              "Baffin Island",
+              "Thule"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

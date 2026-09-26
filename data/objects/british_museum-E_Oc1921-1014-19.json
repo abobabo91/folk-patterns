@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1921-1014-19",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1921-1014-19",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1921-1014-19",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1921.1014.19",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a plaited flax carrying strap (kawe), a traditional Māori woven cord used for carrying loads, made from Phormium fibre as described in the metadata.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "carrying-strap",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "carrying-strap",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Carrying strap, kawe, plaited from mountain flax (wharariki, Phormium colensoi) leaf, doubled strips with shiny surface exposed on both sides; fibre from Phormium tenax forms terminal twothirds of straps, three-stranded, narrowing towards ends and then changing to rolled cords for tips, except one.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/household/maori/images/bm_E_Oc1921-1014-19.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e78079fd635ef3da49509bc5995aad4cb9383a4d009a1a16b8f8b0bde49ea87c",
+      "bytes": 52233,
+      "local_path": "library\\oceania\\new-zealand\\maori\\household\\maori\\images\\bm_E_Oc1921-1014-19.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:48.224955+00:00"
+}

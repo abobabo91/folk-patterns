@@ -12,7 +12,8 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py cleanup      # Haiku: atlas match, duplicates, sub-groups
     python scripts/world_peoples.py report       # -> data/world/peoples.json + docs/world-peoples.md
     python scripts/world_peoples.py candidates   # -> data/world/candidates.jsonl: objects per category, one culture per object
-    python scripts/world_peoples.py pick --only Haida Tiv   # <= 5 vetted objects per category -> data/world/picks/ (needs BM_CDP_URL)
+    python scripts/world_peoples.py pick --only Haida Tiv   # vetted, ranked objects per category -> data/world/picks/ (needs BM_CDP_URL)
+    python scripts/world_peoples.py pick --only ... --shard 0/3   # + 1/3, 2/3 in two more processes
 
 The universe is Wikidata: every item that is an instance of "ethnic group"
 (Q41710) or "indigenous people" (Q103817), or of any of their ~2,600
@@ -620,11 +621,18 @@ def _pick_order(objs: list[dict]) -> list[dict]:
     return out
 
 
+class _Blocked(Exception):
+    """The British Museum answered 403: Cloudflare cookies expired."""
+
+
 def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
-    """{title, description, place, image_url} of one candidate, from its museum."""
+    """{title, description, place, image_url} of one candidate, from its museum.
+    Raises _Blocked on a BM 403, which fetch_detail alone would report as None."""
     if o["source"] == "bm":
-        from folk_patterns.museums.british_museum import fetch_detail
+        from folk_patterns.museums.british_museum import fetch_detail, DETAIL_URL
         d = fetch_detail(bm_client, o["id"])
+        if not d and bm_client.get(DETAIL_URL.format(uid=o["id"])).status_code == 403:
+            raise _Blocked(o["id"])
         return d and dict(d, place="")
     if o["source"] == "met":
         r = http.get(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{o['id']}")
@@ -672,7 +680,7 @@ def _choose(objs: list[dict]) -> list[dict]:
     return out
 
 
-def cmd_pick(only: list[str]) -> None:
+def cmd_pick(only: list[str], shard: str = "") -> None:
     """Up to PICK_MAX objects per category per people, fewer when fewer pass.
     Up to PICK_TRIES candidates per category, in _pick_order, are shown to the
     library's judge (scripts/vet_judge.py) with one line added: a QUALITY
@@ -707,11 +715,14 @@ def cmd_pick(only: list[str]) -> None:
     rows = [json.loads(l) for l in (OUT / "candidates.jsonl").read_text(encoding="utf-8").splitlines()]
     rows = [r for r in rows if not want or {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
                                              (r.get("atlas") or "").lower()} & want]
+    if shard:   # "i/n": this process takes every n-th people, with its own raw log
+        i, n = map(int, shard.split("/"))
+        rows = rows[i::n]
     print(f"{len(rows)} peoples: {', '.join(r['label'] for r in rows)}", flush=True)
     (OUT / "picks").mkdir(exist_ok=True)
-    raw = OUT / "picks" / "raw.jsonl"
+    raw = OUT / "picks" / (f"raw-{shard.split('/')[0]}.jsonl" if shard else "raw.jsonl")
     seen = {}
-    for l in (raw.read_text(encoding="utf-8").splitlines() if raw.exists() else []):
+    for l in (l for p in sorted((OUT / "picks").glob("raw*.jsonl")) for l in p.read_text(encoding="utf-8").splitlines()):
         x = json.loads(l)
         if "QUALITY:" in (x.get("reply") or ""):
             seen[(x["key"], x["source"], x["id"])] = x
@@ -739,9 +750,23 @@ def cmd_pick(only: list[str]) -> None:
                     d, reply, err = hit["detail"], hit["reply"], ""
                     cached += 1
                 else:
-                    try:
+                    def fetch():
                         d = _detail(o, bm_client, http)
                         img = d and (bm_client if o["source"] == "bm" else http).get(d["image_url"])
+                        if img is not None and o["source"] == "bm" and img.status_code == 403:
+                            raise _Blocked(o["id"])
+                        return d, img
+                    try:
+                        try:
+                            d, img = fetch()
+                        except _Blocked:   # cookies expired: fetch fresh ones from Chrome, once
+                            print("  British Museum 403 - refreshing cookies", flush=True)
+                            bm_client = _client()
+                            try:
+                                d, img = fetch()
+                            except _Blocked:
+                                sys.exit(f"British Museum still 403 after a cookie refresh; {name} not written. "
+                                         "Rerun: judged objects come from the cache.")
                     except Exception as e:   # one museum timing out must not end the run
                         print(f"  {cat:13s} {o['id']:22s} fetch failed: {type(e).__name__}", flush=True)
                         continue
@@ -917,6 +942,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick"])
     ap.add_argument("--only", nargs="*", default=[], help="pick: peoples by Wikidata key, label or atlas name")
+    ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
     ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
@@ -925,4 +951,4 @@ if __name__ == "__main__":
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local,
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

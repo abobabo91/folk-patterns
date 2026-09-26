@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1975-12-6",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1975-12-6",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1975-12-6",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1975.12.6",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Cameroon",
+    "ethnicity": "Chamba",
+    "tradition": "Chamba",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden humanoid figure with a conical/coiffed headdress, arms at sides, red glass beads around the neck, and a metal spike at the base — consistent with Chamba figural staffs/currency figures used in ritual contexts, a form well documented for this Cameroon-Nigeria borderland people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Figure; carved of wood; humanoid figure with conical headdress, arms resting at sides; pointed metal spike attached to base of figure; red glass beads stuck on with mud? around neck.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cameroon/chamba/sculpture/chamba/images/bm_E_Af1975-12-6.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8eb139f65a5195a9dd0b43d1d5137a3dba11ed1e34d0f039fb89d9d8e074d034",
+      "bytes": 4970,
+      "local_path": "library\\sub-saharan-africa\\cameroon\\chamba\\sculpture\\chamba\\images\\bm_E_Af1975-12-6.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:30:48.227430+00:00"
+}

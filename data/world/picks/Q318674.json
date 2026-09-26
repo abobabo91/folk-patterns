@@ -2,10 +2,10 @@
  "key": "Q318674",
  "label": "Oromo people",
  "name": "Oromo",
- "judged": 0,
- "cached": 21,
- "cost_usd": 0,
- "picks": {
+ "judged": 24,
+ "cached": 0,
+ "cost_usd": 0.221,
+ "ranked": {
   "household": [
    {
     "source": "bm",
@@ -17,8 +17,10 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a coiled palm-leaf basket with lid and painted geometric accents, a form of household basketry consistent with East African/Ethiopian craft traditions such as those made by the Oromo. Nothing contradicts the claimed attribution and the object type is plausible for the region."
+    "reason": "The image shows a coiled palm-leaf lidded basket with painted geometric accents, a household craft form consistent with Oromo basketry traditions in Ethiopia; nothing contradicts the claim.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -30,21 +32,10 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden spoon with an ovoid bowl, knobbed handle, and zigzag-carved decoration—a plausible domestic utensil consistent with Ethiopian/Horn of Africa household craft traditions, including Oromo material culture."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1914-0417-55",
-    "name": "muzzle",
-    "kind": "muzzle",
-    "title": "muzzle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/28fd3310_16c7_42b3_bd50_a3e60154b92a/preview_01609561_001.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven fibre muzzle (likely for livestock), a plausible everyday utilitarian object for pastoralist peoples like the Oromo; nothing contradicts the attribution."
+    "reason": "The image shows a carved wooden spoon with an ovoid bowl, knobbed handle end, and zigzag decoration at the neck — a traditional utensil form consistent with Ethiopian/Horn of Africa household craft, plausible for Oromo material culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -56,9 +47,28 @@
     "art_form": "household",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden hair comb with four carved prongs and an incised geometric handle, a traditional personal-grooming object consistent with East African/Oromo material culture; nothing contradicts the claimed ethnicity."
+    "reason": "The image shows a wooden comb with four carved prongs and geometric incised ornament on the handle, a plausible household/grooming object for Oromo material culture in Ethiopia; such combs are widely made across the Horn of Africa and cannot be distinguished as specifically Oromo versus neighboring peoples, but nothing contradicts the attribution.",
+    "featured": true
    },
+   {
+    "source": "bm",
+    "id": "E_Af1913-0616-40-a",
+    "name": "jar; basket",
+    "kind": "jar",
+    "title": "jar; basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/3_10/76e8bf00_a0bb_4128_8af1_a4ac00a900a5/preview_EAF39646.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a coiled palm-leaf basket with a lid, not a ceramic vessel; the metadata itself identifies it as a basket rather than a jar, and such coiled basketry with a footed, bulbous form and long neck is plausible East African craft consistent with Oromo material culture.",
+    "featured": true
+   }
+  ],
+  "textile": [
    {
     "source": "bm",
     "id": "E_Af1914-0417-56",
@@ -66,26 +76,30 @@
     "kind": "sack",
     "title": "sack; bag",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/576e8fbe_c29d_431b_8df6_a3e60154bcd2/preview_01609562_001.jpg",
-    "art_form": "household",
+    "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven vegetable-fibre sack/bag with banded geometric patterning, a plausible everyday utilitarian textile item for an Oromo household; nothing contradicts the claimed attribution."
+    "reason": "The image shows a woven fibre sack/bag with banded geometric patterning in black, brown and undyed fibre — a plausible handmade utility textile consistent with Oromo material culture in Ethiopia; no evidence contradicts the attribution.",
+    "featured": true
    }
   ],
   "arms": [
    {
     "source": "bm",
-    "id": "E_Af1905-202-a-b",
+    "id": "E_Af1905-203-a-b",
     "name": "knife; sheath",
     "kind": "knife",
     "title": "knife; sheath",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/27_11/573f0060_712c_4b2b_ac60_a46800c180c4/preview_EAF35510.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/27_11/45779393_c4eb_4663_a9d1_a46800c182de/preview_EAF35512.jpg",
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a knife with horn handle in a hide sheath, a traditional weapon type consistent with Oromo and other Ethiopian/Horn of Africa material culture; nothing contradicts the claimed attribution."
+    "reason": "The image shows a curved knife with an iron blade, horn handle, and a fitted hide sheath — a traditional weapon type consistent with Oromo and neighboring Horn of Africa peoples' arms.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -97,8 +111,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a long spear with a leaf-shaped socketed iron head, a raised median ridge, and a chisel-pointed butt on a smoothed wooden shaft, consistent with spears used by Oromo and other Ethiopian/East African peoples."
+    "reason": "The image shows a long spear with a leaf-shaped socketed iron head, raised median ridge, and a chisel-pointed iron butt on a smoothed wooden shaft — a weapon type consistent with those used by Oromo and neighboring Ethiopian/Horn of Africa peoples.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -110,8 +126,25 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden knobbed club with a polished surface, a weapon type consistent with those made and used by Oromo and other Horn of Africa peoples; nothing contradicts the claimed attribution."
+    "reason": "The image shows a simple wooden knobbed club with a polished surface, a weapon type consistent with those made and used across Ethiopian and East African peoples including the Oromo; nothing contradicts the attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1905-202-a-b",
+    "name": "knife; sheath",
+    "kind": "knife",
+    "title": "knife; sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/27_11/573f0060_712c_4b2b_ac60_a46800c180c4/preview_EAF35510.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a knife with a horn handle in a curved hide sheath, consistent with traditional Ethiopian/Horn of Africa knife types used by Oromo and neighboring peoples; a plausible regional weapon type.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -123,8 +156,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a knife with an iron blade and horn handle alongside a hide sheath, consistent with traditional Ethiopian/Horn of Africa knife forms plausibly used by Oromo people; no evidence contradicts the attribution."
+    "reason": "The image shows a knife with iron blade, horn handle, and metal bindings alongside a leather sheath — a type of edged weapon consistent with those used by Oromo and neighboring Ethiopian/Horn of Africa peoples for daily and ceremonial use.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -136,37 +171,43 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an iron spearhead with sinew binding on a wood shaft, a traditional weapon type consistent with Oromo and other East African pastoralist groups; no evidence contradicts the claimed ethnicity."
+    "reason": "The image shows an iron spearhead with sinew-wrapped wooden shaft, a weapon type plausible and consistent with Oromo material culture in Ethiopia; this general spear form cannot be distinguished from neighboring East African groups but fits the claimed category well.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1999-06-1",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/1fb4fe35_6926_4e72_8019_a3e6015a03dc/preview_01610533_001.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a long spear with a leaf-shaped socketed iron head, median ridge, wooden shaft, and pointed iron butt — a common weapon type used by Oromo and other Horn of Africa peoples for hunting and warfare, consistent with the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1905-205-a-b",
+    "name": "knife; sheath",
+    "kind": "knife",
+    "title": "knife; sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/27_11/803059d0_7369_4149_86cf_a46800c186b5/preview_EAF35516.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a knife with iron blade, horn/wood handle, and a stitched hide sheath — a type of dagger consistent with those made and used by Oromo and neighboring Ethiopian/Horn of Africa peoples for everyday and ceremonial use.",
+    "featured": false
    }
   ],
   "garment": [
-   {
-    "source": "bm",
-    "id": "E_Af1993-16-7-b",
-    "name": "trousers; costume",
-    "kind": "trousers",
-    "title": "trousers; costume",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_15/31457f1b_51ef_40f7_949e_a3c000fd0a36/preview_00570433_001.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a pair of white cotton baggy trousers with colorful woven stripes at the lower legs, a garment style consistent with traditional Ethiopian/Horn of Africa dress; such striped-hem trousers are plausible for Oromo or neighboring Ethiopian groups."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1913-0616-64",
-    "name": "cloak",
-    "kind": "cloak",
-    "title": "cloak",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_5/19_11/9449fef7_5be9_4737_864f_a49d00bd8fd7/preview_EAF39673.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows an animal-skin cloak with a stitched/embroidered border, a garment type plausible for Oromo traditional dress; nothing contradicts the claimed ethnicity."
-   },
    {
     "source": "bm",
     "id": "E_Af1993-18-1",
@@ -177,8 +218,10 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a girl's leather skirt/apron ornamented with cowrie shells and beadwork, a type of hide garment consistent with East African pastoralist dress traditions such as those of the Oromo; nothing contradicts the claimed attribution."
+    "reason": "This shows a girl's leather skirt/apron decorated with cowrie shells and beadwork, a form of dress consistent with pastoralist groups of the Horn of Africa such as the Oromo; the material and ornamentation style is plausible for the region even if neighboring groups produce similar garments.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -190,11 +233,58 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a white cotton tunic with red, green and yellow striped bands at the chest and neckline, consistent with traditional Ethiopian handwoven cotton garments worn by Oromo and neighboring peoples."
+    "reason": "The image shows a handwoven white cotton tunic with red, green, and yellow striped bands at the chest and neckline, a style of dress plausible for Ethiopian highland peoples including the Oromo; no evidence contradicts the claim.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1993-16-7-b",
+    "name": "trousers; costume",
+    "kind": "trousers",
+    "title": "trousers; costume",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_15/31457f1b_51ef_40f7_949e_a3c000fd0a36/preview_00570433_001.jpg",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a man's white cotton trousers with elasticated waist and colourful striped bands at the lower leg, consistent with traditional Ethiopian/Oromo men's dress trousers worn under or as part of festive costume.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1913-0616-64",
+    "name": "cloak",
+    "kind": "cloak",
+    "title": "cloak",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_5/19_11/9449fef7_5be9_4737_864f_a49d00bd8fd7/preview_EAF39673.jpg",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an animal-skin cloak with a stitched/embroidered border, consistent with traditional East African leather garments such as those worn by Oromo people; plausible for the claimed ethnicity even without diagnostic patterning.",
+    "featured": true
    }
   ],
   "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af1913-0616-9",
+    "name": "armlet; bracelet",
+    "kind": "armlet",
+    "title": "armlet; bracelet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/15_8/6d8edc15_b88d_4d1a_bd4e_a4b8008c3a0f/preview_EAF39622.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron armlet/bracelet with incised geometric ornament (crosshatching, diamonds, chevrons), a type of metal body adornment consistent with East African, including Oromo, jewelry traditions.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1913-0616-8",
@@ -205,8 +295,10 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a corrugated iron armlet with hooked, curled terminals, a personal adornment type consistent with East African/Oromo metalwork jewelry; it is plausible for the region and no contrary evidence is present."
+    "reason": "The image shows a corrugated iron armlet with interlocking hook terminals, a type of metal body ornament consistent with East African pastoralist jewelry traditions such as the Oromo. The object is clearly photographed and plausible for the claimed culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -218,21 +310,10 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved ivory armlet/bangle, a form of jewelry plausible for Oromo adornment traditions; nothing contradicts the claimed ethnicity."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1913-0616-9",
-    "name": "armlet; bracelet",
-    "kind": "armlet",
-    "title": "armlet; bracelet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/15_8/6d8edc15_b88d_4d1a_bd4e_a4b8008c3a0f/preview_EAF39622.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows an iron armlet/bracelet with incised geometric ornament, a type of personal adornment plausible for Oromo craft traditions in Ethiopia; nothing contradicts the claimed ethnicity."
+    "reason": "The image shows a plain, thick ivory armlet/bangle of a type worn across East Africa, plausible as Oromo adornment; no distinctive markings contradict the attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -244,11 +325,13 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a brass armlet with engraved geometric decoration, a plausible form of traditional East African adornment consistent with Oromo jewelry practices."
+    "reason": "The image shows a brass armlet with engraved geometric banding, a plausible type of personal adornment worn by Oromo and neighboring Ethiopian/Horn of Africa peoples; nothing contradicts the claimed ethnicity.",
+    "featured": true
    }
   ],
-  "sculpture": [
+  "masks-ritual": [
    {
     "source": "bm",
     "id": "E_Af1987-18-1",
@@ -256,11 +339,13 @@
     "kind": "figure",
     "title": "figure",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/3_11/9e21bd8c_6def_4646_8962_a4ac00b9f8d4/preview_EAF60004.jpg",
-    "art_form": "sculpture",
+    "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a mud/straw figure of a naked woman, broken into head, torso, arms and legs, consistent with a traditional figurine that plausibly could belong to Oromo material culture; nothing contradicts the claimed ethnicity."
+    "reason": "The image shows a mud-and-straw figure of a naked woman, now broken into separate head, torso, arms and legs, consistent with the described Oromo figure. Such figures are used in fertility/healing rites among Oromo and neighbouring Ethiopian peoples, so this plausibly belongs to the claimed group.",
+    "featured": true
    }
   ]
  }

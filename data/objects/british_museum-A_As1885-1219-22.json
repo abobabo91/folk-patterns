@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1885-1219-22",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1885-1219-22",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1885-1219-22",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1885.1219.22",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The picture shows a beaded necklace with glass and metal beads and a round metal repoussé-style pendant, consistent with Ainu women's tamasay-type necklaces which incorporate imported glass beads and metal ornaments. This matches the claimed category and culture plausibly.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "necklace",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "necklace",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Woman&#039;s necklace made of beads (glass), beads (metal), metal (white).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/jewelry/ainu/images/bm_A_As1885-1219-22.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4017d69be8668eb353cbbed521294d57666b87d02aafa9329f0a13651d46bb1c",
+      "bytes": 43583,
+      "local_path": "library\\east-asia\\japan\\ainu\\jewelry\\ainu\\images\\bm_A_As1885-1219-22.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:40.115875+00:00"
+}

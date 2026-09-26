@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1982-19-13",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1982-19-13",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1982-19-13",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1982.19.13",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Naga",
+    "tradition": "Naga",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A carved wooden human figure with red tasselled ear-ornaments, consistent with Naga ancestor/ritual figures from Northeast India, which often feature wool tassels as adornment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Human figure (with tasselled ear-ornaments) made of wood, wool.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/naga/sculpture/naga/images/bm_A_As1982-19-13.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a98bbea36775a7d333d0854b01595724e7bb6abec8013bde04b5781ba8ef0c21",
+      "bytes": 29355,
+      "local_path": "library\\south-asia\\india\\naga\\sculpture\\naga\\images\\bm_A_As1982-19-13.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:30.433532+00:00"
+}

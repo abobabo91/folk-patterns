@@ -2,10 +2,10 @@
  "key": "Q211720",
  "label": "Afar people",
  "name": "Afar",
- "judged": 0,
- "cached": 5,
- "cost_usd": 0,
- "picks": {
+ "judged": 6,
+ "cached": 0,
+ "cost_usd": 0.054,
+ "ranked": {
   "arms": [
    {
     "source": "bm",
@@ -17,34 +17,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a curved iron dagger with hourglass wooden handle and its leather sheath with strap, matching the description of a type of weapon consistent with the Horn of Africa region including Afar peoples."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1978-22-442",
-    "name": "knife",
-    "kind": "knife",
-    "title": "knife",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/3_14/f2a3d9ba_9620_448a_aeaf_a4ac00f32896/preview_EAF69645.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a curved-blade knife with a brass hilt and triangular pommel, consistent with the jile-type daggers traditionally worn by Afar and other Horn of Africa peoples, matching the museum's description."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1913-1211-39",
-    "name": "spear",
-    "kind": "spear",
-    "title": "spear",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_21/495a4d1c_bd8f_4f13_8b93_a3dc01676290/preview_01328579_001.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a complete spear with an iron leaf-shaped blade and long wooden shaft, a weapon type consistent with those used by Afar and neighboring Horn of Africa pastoralist groups."
+    "reason": "The image shows a curved iron dagger with an hourglass wooden handle and a leather sheath with metal fittings and carrying strap, matching the type of jile/dagger traditionally worn by Afar and neighboring Horn of Africa peoples. This form and construction is consistent with the claimed ethnicity's material culture.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -56,8 +32,40 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a circular hide shield with a central boss and concentric incised decoration, a form widely used by Afar and neighboring Horn of Africa peoples for combat; this is plausible material culture for the claimed group."
+    "reason": "This is a circular hide shield with a central boss and concentric incised decoration, a type widely used across the Horn of Africa including by Afar and neighboring pastoralist peoples; it plausibly matches the claimed culture and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1999-13-1",
+    "name": "knife; sheath",
+    "kind": "knife",
+    "title": "knife; sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_10/1cd918e4_973e_40a6_85b2_a3c600aed9d6/preview_00998484_001.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a curved knife with wooden hilt and metal knob, in a leather/hide sheath with strap and metal fittings—consistent with the jile/gile knife type used by Afar and neighboring Horn of Africa peoples. This matches the claimed arms category for the Afar.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1913-1211-39",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_21/495a4d1c_bd8f_4f13_8b93_a3dc01676290/preview_01328579_001.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a simple iron-tipped wooden spear, consistent with weapons used by Afar and other pastoralist peoples of the Horn of Africa; nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -69,8 +77,25 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a curved dagger with hourglass wooden handle and a leather sheath with metal fittings and carrying strap, consistent with jile-type daggers used by Afar and neighboring Horn of Africa peoples."
+    "reason": "This is a curved dagger with an hourglass-shaped wooden handle and a leather sheath with metal reinforcement and carrying straps, a form consistent with the jile daggers traditionally worn by Afar and neighboring Horn of Africa peoples. The object type and construction plausibly fit the claimed Afar attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1978-22-442",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/3_14/f2a3d9ba_9620_448a_aeaf_a4ac00f32896/preview_EAF69645.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a curved-blade knife with a brass hilt and triangular pommel, a type of dagger consistent with weapons used by Afar and neighboring Horn of Africa peoples (similar to the jile knife). Nothing contradicts the Afar attribution, and this form is plausible for the region.",
+    "featured": false
    }
   ]
  }

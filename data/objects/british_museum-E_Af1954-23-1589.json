@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-1589",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-1589",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1589",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.1589",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Songye",
+    "tradition": "Songye",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an iron knife blade with a face-like form in the tang/handle section and incised herringbone patterns, consistent with Songye and broader Congolese blacksmithing traditions for prestige/ceremonial knives.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Iron knife blade with incised ornamental herringbone patterns. Middle section of the blade is in the form of a human face.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/songye/arms/songye/images/bm_E_Af1954-23-1589.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "304d88bf662e926b2ebb7e68b7186ee45e0f0cf7008bc870723ff7e1cee9d6a7",
+      "bytes": 24008,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\songye\\arms\\songye\\images\\bm_E_Af1954-23-1589.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:27:55.676983+00:00"
+}

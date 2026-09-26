@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1979-01-212",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1979-01-212",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1979-01-212",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1979.01.212",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Djibouti / Eritrea",
+    "ethnicity": "Afar",
+    "tradition": "Afar",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a circular hide shield with a central boss and concentric incised decoration, a type widely used across the Horn of Africa including by Afar and neighboring pastoralist peoples; it plausibly matches the claimed culture and category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "shield",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shield",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1979\r\nHide shield (circular).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/djibouti-eritrea/afar/arms/afar/images/bm_E_Af1979-01-212.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "74edc22c5b6273081d658361d210e537473efa3c8514f507da15680a25ce59e3",
+      "bytes": 51850,
+      "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\arms\\afar\\images\\bm_E_Af1979-01-212.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:32:15.534055+00:00"
+}

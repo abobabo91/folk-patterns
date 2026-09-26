@@ -229,6 +229,63 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/central-asia/china-xinjiang/kazakh-xinjiang/textile/kazakh-xinjiang/images/eu_91608_SMVK_VKM_objekt_17072.jpg"
     },
     {
+      "key": "east-asia__japan__ainu",
+      "region": "east-asia",
+      "country": "Japan",
+      "ethnicity": "Ainu",
+      "homeland_place": "Kushiro",
+      "lat": 42.98,
+      "lon": 144.38,
+      "object_count": 78,
+      "seed_traditions": [
+        "attus",
+        "attush",
+        "ruunpe",
+        "chijiri",
+        "kaparamip",
+        "chikarkarpe"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/architectural/ainu/images/bm_A_As1910-1119-75.jpg"
+    },
+    {
+      "key": "east-asia__taiwan__rukai",
+      "region": "east-asia",
+      "country": "Taiwan",
+      "ethnicity": "Rukai",
+      "homeland_place": "Pingtung",
+      "lat": 22.75,
+      "lon": 120.72,
+      "object_count": 14,
+      "seed_traditions": [
+        "Kucapungane slate house",
+        "slate slab masonry",
+        "lily headdress",
+        "taraw lily insignia",
+        "hundred-pace snake motif",
+        "kamanungan snake pattern"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/taiwan/rukai/arms/rukai/images/bm_A_As1935-1102-1-a.jpg"
+    },
+    {
+      "key": "europe__norway-sweden-finland__sami",
+      "region": "europe",
+      "country": "Norway / Sweden / Finland",
+      "ethnicity": "Sámi",
+      "homeland_place": "Kautokeino",
+      "lat": 69.02,
+      "lon": 23.04,
+      "object_count": 46,
+      "seed_traditions": [
+        "gákti",
+        "luhkka",
+        "duodji",
+        "risku",
+        "koltakrage",
+        "komagbånd"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/norway-sweden-finland/sami/arms/sami/images/bm_H_Eu1951-01-1-a-b.jpg"
+    },
+    {
       "key": "middle-east-north-africa__iran__persian",
       "region": "middle-east-north-africa",
       "country": "Iran",
@@ -407,7 +464,7 @@
       "homeland_place": "Upper Nile / Sudan border",
       "lat": 23.973,
       "lon": 32.918,
-      "object_count": 38,
+      "object_count": 50,
       "seed_traditions": [
         "Nubian house painting",
         "Nubian jewelry",
@@ -455,6 +512,63 @@
         "Kurdish silver"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/turkey/kurdish-turkish/architectural/interior-of-ishak-pasa-palace/images/carch_9ca85ce171b2342d.jpg"
+    },
+    {
+      "key": "north-america__canada__haida",
+      "region": "north-america",
+      "country": "Canada",
+      "ethnicity": "Haida",
+      "homeland_place": "Skidegate",
+      "lat": 53.25,
+      "lon": -132.08,
+      "object_count": 85,
+      "seed_traditions": [
+        "formline",
+        "ovoid",
+        "u-form",
+        "argillite carving",
+        "bentwood box",
+        "Chilkat weaving"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/architectural/haida/images/bm_E_Am1958-02-1.jpg"
+    },
+    {
+      "key": "north-america__canada-greenland__inuit",
+      "region": "north-america",
+      "country": "Canada / Greenland",
+      "ethnicity": "Inuit",
+      "homeland_place": "Iqaluit",
+      "lat": 63.75,
+      "lon": -68.52,
+      "object_count": 73,
+      "seed_traditions": [
+        "amauti",
+        "atigi",
+        "qulittaq",
+        "kamik",
+        "mitsi",
+        "annuraaq"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/architectural/inuit/images/bm_E_Am1993-07-1-a-c.jpg"
+    },
+    {
+      "key": "oceania__new-zealand__maori",
+      "region": "oceania",
+      "country": "New Zealand",
+      "ethnicity": "Māori",
+      "homeland_place": "Rotorua",
+      "lat": -38.14,
+      "lon": 176.25,
+      "object_count": 84,
+      "seed_traditions": [
+        "whakairo rākau",
+        "kōwhaiwhai",
+        "tukutuku",
+        "raranga",
+        "whatu",
+        "kākahu"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/architectural/maori/images/bm_E_Oc-NZ-87.jpg"
     },
     {
       "key": "southeast-asia__indonesia__javanese",
@@ -837,6 +951,25 @@
       "top_image": null
     },
     {
+      "key": "south-asia__india__naga",
+      "region": "south-asia",
+      "country": "India",
+      "ethnicity": "Naga",
+      "homeland_place": "Kohima",
+      "lat": 25.67,
+      "lon": 94.11,
+      "object_count": 69,
+      "seed_traditions": [
+        "Angami loin loom",
+        "lohe shawl",
+        "tsungkotepsu",
+        "Ao warrior shawl",
+        "Sumi ahu",
+        "Lotha shawl"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/naga/arms/naga/images/bm_A_As1933-0315-50.jpg"
+    },
+    {
       "key": "sub-saharan-africa__senegal__wolof",
       "region": "sub-saharan-africa",
       "country": "Senegal",
@@ -913,6 +1046,63 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/igbo/textile/igbo/images/bm_E_Af1934-0307-109.jpg"
     },
     {
+      "key": "sub-saharan-africa__nigeria__tiv",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Tiv",
+      "homeland_place": "Makurdi",
+      "lat": 7.73,
+      "lon": 8.52,
+      "object_count": 59,
+      "seed_traditions": [
+        "a'nger",
+        "anger",
+        "gberyum",
+        "godo",
+        "lishi",
+        "tugudu"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/tiv/arms/tiv/images/bm_E_Af1954-23-1138_1.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__nigeria__gbagyi",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Gbagyi",
+      "homeland_place": "Minna",
+      "lat": 9.6139,
+      "lon": 6.5569,
+      "object_count": 40,
+      "seed_traditions": [
+        "Kwali pottery",
+        "Ushafa pottery",
+        "Dagiri pottery",
+        "roulette-impressed water jar",
+        "randa storage jar",
+        "tulu water pot"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/gbagyi/architectural/gbagyi/images/bm_EA_Af-A57-72.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__nigeria__mambila",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Mambila",
+      "homeland_place": "Gembu",
+      "lat": 6.87,
+      "lon": 11.28,
+      "object_count": 30,
+      "seed_traditions": [
+        "tadep",
+        "suaga",
+        "sua",
+        "kirdi",
+        "gbanga",
+        "mbamaga"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/mambila/arms/mambila/images/bm_E_Af1986-24-26.jpg"
+    },
+    {
       "key": "sub-saharan-africa__ghana__ashanti",
       "region": "sub-saharan-africa",
       "country": "Ghana",
@@ -930,6 +1120,25 @@
         "Asante"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/ashanti/textile/ashanti/images/bm_E_Af1980-17-1.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__ghana__akan",
+      "region": "sub-saharan-africa",
+      "country": "Ghana",
+      "ethnicity": "Akan",
+      "homeland_place": "Kumasi",
+      "lat": 6.69,
+      "lon": -1.62,
+      "object_count": 51,
+      "seed_traditions": [
+        "kente",
+        "adinkra",
+        "adweneasa",
+        "nwomu",
+        "asasia",
+        "kuntunkuni"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/akan/arms/akan/images/bm_E_Af1914-1013-1.jpg"
     },
     {
       "key": "sub-saharan-africa__ethiopia__amhara",
@@ -958,7 +1167,7 @@
       "homeland_place": "Oromia",
       "lat": 7.5,
       "lon": 39.0,
-      "object_count": 8,
+      "object_count": 30,
       "seed_traditions": [
         "Oromo jewelry",
         "Oromo shield",
@@ -1065,6 +1274,25 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/swahili/textile/swahili/images/bm_E_2017-2024-1.jpg"
     },
     {
+      "key": "sub-saharan-africa__tanzania__sukuma",
+      "region": "sub-saharan-africa",
+      "country": "Tanzania",
+      "ethnicity": "Sukuma",
+      "homeland_place": "Mwanza",
+      "lat": -2.85,
+      "lon": 32.93,
+      "object_count": 5,
+      "seed_traditions": [
+        "bugobogobo",
+        "bugalu",
+        "wigashe",
+        "bunuunguli",
+        "bagalu",
+        "bagika"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/sukuma/arms/sukuma/images/bm_E_Af1913-1211-17.jpg"
+    },
+    {
       "key": "sub-saharan-africa__democratic-republic-of-the-congo__kongo",
       "region": "sub-saharan-africa",
       "country": "Democratic Republic of the Congo",
@@ -1120,6 +1348,25 @@
         "Cokwe"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/chokwe/textile/chokwe/images/cle_149365.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__democratic-republic-of-the-congo__songye",
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Songye",
+      "homeland_place": "Kabinda",
+      "lat": -5.9,
+      "lon": 25.0,
+      "object_count": 57,
+      "seed_traditions": [
+        "nkisi figure",
+        "mankishi",
+        "kifwebe mask",
+        "bwadi bwa kifwebe",
+        "kalengula",
+        "bifwebe striation"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/songye/arms/songye/images/bm_E_Af1954-23-2790.jpg"
     },
     {
       "key": "sub-saharan-africa__gabon__fang",
@@ -1298,7 +1545,7 @@
       "homeland_place": "Afar Triangle",
       "lat": 12.0,
       "lon": 42.0,
-      "object_count": 10,
+      "object_count": 16,
       "seed_traditions": [
         "Afar dagger",
         "jile",
@@ -1308,6 +1555,82 @@
         "Afar jewelry"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/djibouti-eritrea/afar/garment/afar-ethiopia/images/eu_2048222_europeana_fashion_1638.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__angola__ambundu",
+      "region": "sub-saharan-africa",
+      "country": "Angola",
+      "ethnicity": "Ambundu",
+      "homeland_place": "Malanje",
+      "lat": -9.3,
+      "lon": 14.9,
+      "object_count": 48,
+      "seed_traditions": [
+        "mbanza",
+        "kimbo",
+        "lubolo raffia cloth",
+        "mutamba bark cloth",
+        "panu",
+        "mabela"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/angola/ambundu/arms/ambundu/images/bm_E_Af1901-0607-22.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__south-sudan__boya",
+      "region": "sub-saharan-africa",
+      "country": "South Sudan",
+      "ethnicity": "Boya",
+      "homeland_place": "Kapoeta",
+      "lat": 4.35,
+      "lon": 33.35,
+      "object_count": 35,
+      "seed_traditions": [
+        "lokwoto beaded corset",
+        "leketio leather belt",
+        "dolulu beaded skirt",
+        "ngaroto scarification",
+        "emuya body cicatrice",
+        "ekachil ivory bracelet"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/boya/arms/boya/images/bm_E_Af1979-06-174.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__cameroon__chamba",
+      "region": "sub-saharan-africa",
+      "country": "Cameroon",
+      "ethnicity": "Chamba",
+      "homeland_place": "Ganye",
+      "lat": 8.13,
+      "lon": 12.45,
+      "object_count": 16,
+      "seed_traditions": [
+        "vara mask",
+        "buffalo helmet mask",
+        "Chamba janus figure",
+        "wunu figure",
+        "Chamba iron currency",
+        "gbana staff"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cameroon/chamba/arms/chamba/images/bm_E_Af1932-1021-119.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__burkina-faso__bwa",
+      "region": "sub-saharan-africa",
+      "country": "Burkina Faso",
+      "ethnicity": "Bwa",
+      "homeland_place": "Dédougou",
+      "lat": 12.06,
+      "lon": -3.19,
+      "object_count": 15,
+      "seed_traditions": [
+        "bwa plank mask",
+        "nwantantay",
+        "do mask",
+        "leaf mask",
+        "bayiri",
+        "hawk mask"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/burkina-faso/bwa/arms/bwa/images/bm_E_Af1978-22-420.jpg"
     }
   ]
 }

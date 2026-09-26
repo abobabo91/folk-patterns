@@ -19,9 +19,9 @@ The library is fully vetted (5,346 records, 2026-09-24) and the site is built on
 
 Next, in order ([docs/vetting.md → Next steps](docs/vetting.md#next-steps)):
 
-- **Wire the vetter into `add_culture.py` / `scrape_all.py`.** Until then, run `python scripts/vet_images.py --target library` after every scrape — `build_index.py` keeps unjudged records.
+- **New cultures come from the world list, already vetted:** `world_peoples.py pick` judges up to 10 objects per category (with a QUALITY 1-5 score), then `add_culture.py --from-picks <wikidata key>` writes them into the library with their verdicts, drafts the seed, the writeup, and rebuilds the index. 20 peoples went in this way on 2026-09-26 (88 cultures, 9 regions). The scrape path of `add_culture.py` / `scrape_all.py` still has no vetter: after a scrape, run `python scripts/vet_images.py --target library` — `build_index.py` keeps unjudged records.
 - Thin cultures the BM facet cannot fill (Qashqai, Sidama, Pamiri, Oromo, Yakan, Karakalpak, Afar, Cham, Hazara): Cleveland, V&A and Met, the sources with 3–8% drops.
-- **Do NOT add new cultures** until the vetter is wired in. Armenian and Shan are the candidates with good objects already waiting in the drops.
+- **Do NOT add new cultures by scraping** until the vetter is wired into that path; add them with `--from-picks`. Armenian and Shan are candidates with good objects already waiting in the drops.
 
 ## The one command for everything
 

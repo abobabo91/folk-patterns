@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1900-1119-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1900-1119-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1900-1119-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1900.1119.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Egypt",
+    "ethnicity": "Nubian",
+    "tradition": "Nubian",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a beaded leather apron/girdle with shell (cowrie/olive shell) tassels, a type of adornment/garment consistent with Nile Valley/Nubian women's dress traditions; the geometric beadwork and shell fringing are plausible for the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "apron; girdle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "apron; girdle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Apron, girdle made of beads (glass), leather, shells (olive, [oliva]).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/egypt/nubian/garment/nubian/images/bm_E_Af1900-1119-2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f44777f196187dacdf9db1b98601a9e6def975c7936d34e56e4d83eeb0b000ab",
+      "bytes": 73796,
+      "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\garment\\nubian\\images\\bm_E_Af1900-1119-2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:32:03.427082+00:00"
+}

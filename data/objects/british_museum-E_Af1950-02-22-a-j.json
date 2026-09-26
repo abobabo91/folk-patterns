@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1950-02-22-a-j",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1950-02-22-a-j",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1950-02-22-a-j",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1950.02.22.a.j",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Gbagyi",
+    "tradition": "Gbagyi",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a composite reed/leather quiver with snakeskin bands and several barbed-iron arrows, a weapon type consistent with Nigerian hunting/warfare traditions such as the Gbagyi; the object is plausible for the claimed people though not diagnostic to them specifically.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "quiver; arrow",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "quiver; arrow",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Composite quiver (a); made of reed covered with leather around base and with leather and snakeskin bands at midway. Blue cotton cloth lanyard attached to leather bindings. \r\n\r\nSeven poisoned arrows (b-g, j) and two non-poisoned arrows (h-i); with nocked reed shafts and barbed iron heads bound with raffia.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/gbagyi/arms/gbagyi/images/bm_E_Af1950-02-22-a-j.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "563481bc085eeb23c26de8373677e9718e6689ef7dbcef709fd8a4fa2706a995",
+      "bytes": 28700,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\gbagyi\\arms\\gbagyi\\images\\bm_E_Af1950-02-22-a-j.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:58.226038+00:00"
+}

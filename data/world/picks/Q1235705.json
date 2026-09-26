@@ -2,11 +2,11 @@
  "key": "Q1235705",
  "label": "Tiv people",
  "name": "Tiv",
- "judged": 0,
- "cached": 54,
- "cost_usd": 0,
- "picks": {
-  "household": [
+ "judged": 74,
+ "cached": 0,
+ "cost_usd": 0.74,
+ "ranked": {
+  "metalwork": [
    {
     "source": "bm",
     "id": "E_Af1939-07-8",
@@ -14,66 +14,14 @@
     "kind": "pipe",
     "title": "tobacco-pipe",
     "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/11_11/a77a7c5d_5909_4d33_a6ad_a9f100b9cbcb/preview_EAF17908.jpg",
-    "art_form": "household",
+    "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a brass ceremonial tobacco pipe with cast figural decoration (horseman and standing woman), a form and metalworking style consistent with West African brass pipes; this is a plausible object type for the Tiv or related Benue-region peoples. Nothing in the image contradicts the claimed attribution."
+    "reason": "The image shows a brass ceremonial tobacco pipe with a conical bowl, figurative decoration (horseman and standing woman), and attached chain and pick — a plausible Tiv-associated metal pipe/household object used in daily and ceremonial life. Nothing contradicts the Tiv attribution, and such cast brass pipes are consistent with West African (Nigerian) traditions.",
+    "featured": true
    },
-   {
-    "source": "bm",
-    "id": "E_Af1954-23-1199",
-    "name": "stool",
-    "kind": "stool",
-    "title": "stool",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/9_12/135997c4_5485_4ca3_98f7_a9d000d2b1ea/preview_EAF22157.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden drum-shaped stool with a decorated circular seat and fenestrated base, a well-worn traditional furniture form consistent with Tiv household woodcarving."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1949-46-230",
-    "name": "comb",
-    "kind": "comb",
-    "title": "comb",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/11_11/8c938e22_ae6d_454f_8e8d_a9f100b9a78f/preview_EAF168305.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved ivory comb with decorative openwork and fine tines, a personal grooming/household object of a type used across Nigerian and Central African groups including the Tiv; nothing contradicts the claimed attribution."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1932-0516-20",
-    "name": "smoking-pipe; religious/ritual equipment",
-    "kind": "smoking-pipe",
-    "title": "smoking-pipe; religious/ritual equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/bda0fbe1_f9c6_4406_8bc9_a9d900b983b2/preview_EAF16884.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a clay pipe-bowl with leather binding, a plausible smoking pipe form for a Nigerian/West African group such as the Tiv, consistent with everyday material culture even though it also has ritual associations."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1927-1108-15-a",
-    "name": "basket",
-    "kind": "basket",
-    "title": "basket",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_16/a2ef2a5f_8575_4ee9_948a_a9cb0107c4eb/preview_EAF16505.jpg",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "LOW",
-    "reason": "A coiled cane basket with lid is a plausible household object for the Tiv or neighbouring Nigerian groups, and nothing contradicts the attribution."
-   }
-  ],
-  "metalwork": [
    {
     "source": "bm",
     "id": "E_Af1954-23-1114_1",
@@ -84,21 +32,10 @@
     "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a cast brass equestrian figure snuff-inhaler, a well-known object type from the Nigerian region; while brass casting of this style is more strongly associated with groups like the Igala/Idoma/Yoruba area, such objects circulated and were used across central Nigerian peoples including the Tiv, and no contrary evidence rules out this attribution."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1954-23-1308_1",
-    "name": "tongs",
-    "kind": "tongs",
-    "title": "tongs",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/7_11/c193ab00_7f32_4f2e_9ba2_aadf00b9c233/preview_EAF22271.jpg",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a pair of brass tongs with herringbone engraving and attached chain, a plausible household metal tool consistent with Tiv material culture of Nigeria."
+    "reason": "Cast brass equestrian snuff figure with bowl, a functional/ceremonial metal object plausible for Nigerian metalworking traditions; the specific attribution to Tiv versus neighboring Nigerian peoples cannot be visually distinguished, so it stands as a regionally plausible household object.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -110,8 +47,10 @@
     "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a long iron implement with a twisted shaft and splayed T-shaped handle, consistent with Tiv or related Nigerian blacksmith-made tools/ceremonial implements; plausible for the claimed culture and region."
+    "reason": "The image shows a long iron implement with a pointed end and a twisted, splayed handle, consistent with a Tiv-made blacksmith tool possibly used in ceremonial or smoking contexts. This is a plausible object type for the region and fits the claimed ethnicity, though its exact function is uncertain even to the museum.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -123,8 +62,10 @@
     "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a slender iron/brass staff with decorative knob and ridged sections, a type of ceremonial or prestige staff consistent with Tiv metalworking traditions; the category \"household\" is a poor fit as this is a personal/prestige implement rather than a domestic tool."
+    "reason": "The image shows a long iron/brass staff with decorative finials and a stylized head at the top, consistent with ceremonial or prestige staffs made by Tiv or neighboring Nigerian peoples; such objects are plausible regalia for the culture, though the category \"household\" is a mismatch for what is clearly a ceremonial staff.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -136,24 +77,135 @@
     "art_form": "metalwork",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This is a cast bronze anthropomorphic ingot with a stylized head/neck and elongated body, a form of currency/prestige object consistent with Tiv (and related Nigerian/Cameroon grassfields) manillas and figural ingots used as bridewealth or trade currency."
+    "reason": "The image shows an anthropomorphic bronze ingot, a form of traditional currency/prestige metal object consistent with Tiv bronze-casting and currency traditions in Nigeria; nothing contradicts the attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1915-1207-1",
+    "name": "ceremonial staff",
+    "kind": "staff",
+    "title": "ceremonial staff",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/10_8/35112ccc_611a_435b_8203_aa2b00881efc/preview_EAF15736.jpg",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron double-headed ceremonial spear/staff with tiered bell clusters, a type of prestige weapon/staff plausible for Tiv or neighboring Nigerian groups; it is metal ceremonial regalia rather than a mask, so the category label is wrong but the object itself fits the culture claim.",
+    "featured": false
+   }
+  ],
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1190_1",
+    "name": "seat; shooting-stick",
+    "kind": "seat",
+    "title": "seat; shooting-stick",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/11_10/6578687c_b64d_4694_9d6d_aae300a92da6/preview_EAF22149.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden shooting-stick seat with incised decoration, a form of portable prestige seat/stool consistent with Tiv and neighboring Nigerian carving traditions used in daily and ceremonial life. It plausibly represents an object made and used by the Tiv people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1199",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/9_12/135997c4_5485_4ca3_98f7_a9d000d2b1ea/preview_EAF22157.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden drum-shaped stool with a fenestrated base and incised radiating star pattern on the seat — a household seat/furniture type plausible for the Tiv or neighbouring Nigerian/Benue groups; no evidence contradicts the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1308_1",
+    "name": "tongs",
+    "kind": "tongs",
+    "title": "tongs",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/7_11/c193ab00_7f32_4f2e_9ba2_aadf00b9c233/preview_EAF22271.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a brass pair of tongs with engraved herringbone decoration and attached chain, a plausible domestic/fire implement type used in West African households, consistent with Tiv material culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-230",
+    "name": "comb",
+    "kind": "comb",
+    "title": "comb",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/11_11/8c938e22_ae6d_454f_8e8d_a9f100b9a78f/preview_EAF168305.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an ivory comb with a decorative pierced handle featuring two round openings and geometric edging, a plausible personal grooming/household object attributable to a Nigerian ethnic group such as the Tiv; combs of this general style are widely used across the region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1932-0516-20",
+    "name": "smoking-pipe; religious/ritual equipment",
+    "kind": "smoking-pipe",
+    "title": "smoking-pipe; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/bda0fbe1_f9c6_4406_8bc9_a9d900b983b2/preview_EAF16884.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a clay pipe-bowl with leather binding, a plausible utilitarian/ritual object type made across many West African groups including the Tiv; nothing contradicts the attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1927-1108-15-a",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_16/a2ef2a5f_8575_4ee9_948a_a9cb0107c4eb/preview_EAF16505.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a coiled cane basket with a lid and knob handle, a plausible household item for the Tiv or neighbouring Nigerian peoples; no positive evidence contradicts the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1911-154",
+    "name": "cup",
+    "kind": "cup",
+    "title": "cup",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_16/84d8beba_6137_46a1_8498_a9cb0107b4fa/preview_EAF15443.jpg",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "LOW",
+    "reason": "The image shows a carved ivory cup with banded ring and chevron decoration near the base—a plausible prestige/drinking vessel type made across Nigeria and Central Africa, including by Tiv carvers, though the object cannot be distinguished stylistically from neighboring groups' work.",
+    "featured": false
    }
   ],
   "arms": [
-   {
-    "source": "bm",
-    "id": "E_Af1984-19-270",
-    "name": "knife",
-    "kind": "knife",
-    "title": "knife",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/13_13/d13d6bda_9db5_4f3f_aa62_a9f300da97d1/preview_EAF26941.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows an iron knife with a distinctive looped ring handle, a form consistent with traditional Nigerian/West African blade types (including Tiv-associated knives), and matches the museum's own description of a \"knife with a loop handle.\""
-   },
    {
     "source": "bm",
     "id": "E_Af1954-23-1138_1",
@@ -164,8 +216,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a long iron ceremonial spear with a brass figural finial (kneeling woman and bird), consistent with West African ceremonial weaponry; such composite iron/brass spears are plausible for Tiv or neighbouring Nigerian groups."
+    "reason": "The image shows a ceremonial spear with an iron shaft/point and brass figures (a kneeling woman and bird) at the top, a form consistent with West African (Nigerian region) ceremonial/prestige weaponry; nothing contradicts a Tiv attribution, and such composite ceremonial spears are plausible for the region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -177,21 +231,10 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a ceremonial/prestige axe with a wide flared metal blade on a long carved wooden shaft with a spherical pommel and incised decorative bands, consistent with West African (Tiv/Benue region) ceremonial axes used as status or dance objects. This form is plausible for the claimed Tiv attribution."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1947-12-12",
-    "name": "dagger",
-    "kind": "dagger",
-    "title": "dagger",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/8_15/bdbf82f2_d0b3_4257_bea2_aae000fb8b88/preview_EAF18750.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a simple iron wrist-dagger with a leaf-shaped blade and scroll/loop terminal, consistent with weapons used by peoples of the Nigeria/Benue region including the Tiv; the form is plausible for the claimed culture and area."
+    "reason": "The image shows a ceremonial-style axe with a wide flared metal blade and a carved dark wood handle with incised bands and a knobbed pommel, consistent with prestige/ceremonial axes made and used by Tiv and neighbouring Nigerian groups. It plausibly belongs to the claimed ethnicity as a weapon/status object.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -203,11 +246,103 @@
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows an iron knife with a loop handle, a form consistent with Central/West African ceremonial or throwing knives such as those made by Tiv and neighboring Nigerian/Central African groups. It plausibly belongs to the claimed culture as arms."
+    "reason": "The image shows an iron knife with a loop/ring handle, incised decoration at the base of the blade, consistent with Central/West African ring-handled throwing or ceremonial knives used by groups including the Tiv of Nigeria. This matches the claimed ethnicity's known metalwork traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1947-12-12",
+    "name": "dagger",
+    "kind": "dagger",
+    "title": "dagger",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/8_15/bdbf82f2_d0b3_4257_bea2_aae000fb8b88/preview_EAF18750.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is an iron wrist-dagger with a leaf-shaped blade and scrolled ring handle, a well-documented weapon type made and worn by the Tiv and neighboring Nigerian/Benue peoples. It plausibly fits the claimed Tiv attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1276-a",
+    "name": "quiver",
+    "kind": "quiver",
+    "title": "quiver",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/7_14/2f27736b_83f4_43b0_9f44_aadf00eae95b/preview_EAF22242.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a cylindrical leather-covered quiver with arrows and an attached woven baldric strap, consistent with traditional Tiv hunting/weapons equipment as described in the museum metadata.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1924-1217-20",
+    "name": "ceremonial axe",
+    "kind": "axe",
+    "title": "ceremonial axe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_5/23_8/8458498e_6f72_4e70_9936_a8e9008435ae/preview_EAF16190.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a ceremonial axe with an iron shaft and brass fittings, including a brass head modeled as a human face with a comb-like headdress — consistent with Nigerian ceremonial arms/regalia traditions, including those of the Tiv and neighbouring groups.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-19-270",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/13_13/d13d6bda_9db5_4f3f_aa62_a9f300da97d1/preview_EAF26941.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron knife with a distinctive loop handle, a form consistent with knives made and used across the Benue River region including Tiv territory in central Nigeria. No conflicting evidence suggests this is misattributed.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-01-1102",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/29_10/98475ba4_ece2_4d22_887e_aa3e00a93c2d/preview_EAF25566.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a long wooden-shafted spear with a metal blade, a weapon type consistent with those made and used by the Tiv and neighbouring Nigerian/Benue-region peoples.",
+    "featured": false
    }
   ],
   "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Af1932-0516-6",
+    "name": "imborivungu",
+    "kind": "equipment",
+    "title": "imborivungu",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_13/deb3e475_ea10_4003_a9f9_a3c500e28ec2/preview_00944439_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows an imborivungu voice-disguiser made from a human leg bone with a pottery face, hair, and beaded decoration—an object well documented as a Tiv ritual/musical instrument used in ancestor cult practices. This matches the claimed Tiv ethnicity and the masks-ritual category well.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1932-0516-30",
@@ -218,34 +353,10 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a pottery head with round face, incised marks, and sculpted features consistent with Tiv ceramic ritual figures used in shrines/divination equipment from Nigeria; no evidence contradicts the claimed attribution."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1932-0516-24",
-    "name": "figure; religious/ritual equipment",
-    "kind": "figure",
-    "title": "figure; religious/ritual equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_16/d82160d4_5f3a_4cb0_9f94_a9cb0107fb53/preview_EAF315.jpg",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden head-and-neck figure on a cylindrical pedestal, consistent with Tiv or related Nigerian ritual/ancestor figures; no evidence contradicts the claimed ethnicity."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1954-23-1208",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/29_11/e6ea2cd2_812a_48df_a3bd_a94b00b88f2b/preview_EAF22164.jpg",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a composite cult figure with a leather-covered head on an elongated neck, mounted on a cowrie-strung conical base with cloth panels — consistent with Tiv ritual/cult objects (akin to akombo-related figures) used in ceremonial contexts. This is a ritual object rather than a freestanding figural sculpture in the classical sense, but it fits the broader masks-ritual category and plausibly belongs to the claimed culture."
+    "reason": "This is a pottery head with a rounded skull, incised facial marks, and a protruding jaw/mouth — consistent with Tiv ceremonial or ancestral pottery heads used in ritual contexts. Nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -257,21 +368,115 @@
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a woven cotton headdress/mask with a face and arm-like limb strips, consistent with Tiv masquerade dress traditions of narrow-strip cotton weaving; this is plausible material culture made and worn by the Tiv."
+    "reason": "The image shows a woven cotton head-dress/mask with strip-woven cloth, appliquéd facial features and a twisted cotton \"beard\" with limb-like extensions, consistent with Tiv ritual masking traditions using narrow-strip woven cotton textiles. This is a clear, whole example of a handmade garment/mask object plausible for the Tiv or neighboring Nigerian groups.",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Af1932-0516-6",
-    "name": "imborivungu",
-    "kind": "equipment",
-    "title": "imborivungu",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_13/deb3e475_ea10_4003_a9f9_a3c500e28ec2/preview_00944439_001.jpg",
+    "id": "E_Af1932-0516-37-a",
+    "name": "chain; religious/ritual equipment",
+    "kind": "chain",
+    "title": "chain; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/11_11/0f1c27d9_a9e4_4a9a_8a12_a9f100b9c04b/preview_EAF16904.jpg",
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron chain hung with leather disks, vertebrae and dangling elements, matching the described Tiv Mba Tsav divining chain, a ritual object used in Tiv divination practice. This is a plausible ritual/magical implement consistent with the claimed culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1932-0516-38",
+    "name": "girdle; chain; divination equipment; religious/ritual equipment",
+    "kind": "girdle",
+    "title": "girdle; chain; divination equipment (?); religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_16/6e6b2a2e_5811_440b_ad6d_a9cb0107d4b7/preview_EAF16900.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a girdle (Mba Tsav) with leather cord, wooden pendants, a twisted metal chain, and an iron hook — a Tiv ritual/divination belt worn on the body, consistent with the claimed ethnicity and clearly photographed against a plain background.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1924-1217-8",
+    "name": "ceremonial staff",
+    "kind": "staff",
+    "title": "ceremonial staff",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/29_10/7b8032b9_3e04_41c3_b270_aa3e00a90d78/preview_EAF16178.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a long wooden staff bound with metal wire and topped with a small double-faced brass head, consistent with a ceremonial/status staff of the type used by Tiv and neighboring Nigerian/Cross River groups; this is a plausible ritual/prestige object for the claimed culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1932-0516-36",
+    "name": "animal remains; religious/ritual equipment",
+    "kind": "ritual equipment",
+    "title": "animal remains; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_16/e4d55fbe_af67_492a_8466_a9cb0107d0fc/preview_EAF16898.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a monkey skull mounted on a twisted skin/hide shaft, identified as \"Mba Tsav\" — a term directly tied to Tiv witchcraft/sorcery belief systems and associated ritual paraphernalia. This is consistent with Tiv ritual objects used in relation to mystical power (tsav).",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1932-0516-1",
+    "name": "human remains; religious/ritual equipment",
+    "kind": "remains",
+    "title": "human remains; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_14/e1cf04b9_3d74_4156_bc09_a3c500f2ce3d/preview_00948335_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a human skull covered in dark material and ornamented with strings of blue and white beads, described as Mba Tsav ritual equipment — a documented Tiv ritual/power object used in indigenous religious practice, consistent with the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1932-0516-8",
+    "name": "imborivungu",
+    "kind": "equipment",
+    "title": "imborivungu",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_13/05d11ddc_81dd_411c_a505_a3c500e29990/preview_00944448_001.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
     "confidence": "HIGH",
-    "reason": "The image shows an imborivungu voice-disguiser made from human bone with a pottery face, hair, and beadwork, matching the described Tiv ritual object used to disguise voices during ceremonies. This is a well-documented Tiv ritual artifact."
+    "reason": "The image shows an imborivungu—a Tiv voice-disguiser/ritual object made from human leg bone, adorned with clay head, glass beads, bells, and cowrie shells—a well-documented ritual instrument specific to Tiv culture used in ancestral/secret society contexts.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1208",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/29_11/e6ea2cd2_812a_48df_a3bd_a94b00b88f2b/preview_EAF22164.jpg",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a composite cult figure with a leather-covered head on an elongated neck, mounted on a cowrie-shell and cloth-adorned conical base — this matches the museum's description of a Tiv ritual/cult object used in ceremonial contexts. Such akiga-type or akombo-related power objects are consistent with Tiv ritual practice in Nigeria.",
+    "featured": false
    }
   ],
   "sculpture": [
@@ -285,8 +490,25 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
-    "confidence": "LOW",
-    "reason": "This is a small bronze animal figure (possibly a horse or antelope) consistent with West African lost-wax bronze casting traditions; Tiv and related Nigerian groups are known for small cast animal figures used decoratively or in regalia, so this plausibly belongs to the claimed culture."
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a small bronze figure of a quadruped animal (possibly a horse or dog), a form consistent with small cast-metal figures made in Nigeria; Tiv brass/bronze casting of animal figures is plausible for the region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-251",
+    "name": "post",
+    "kind": "post",
+    "title": "post",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/1_13/bffbc3eb_6d78_4e9a_9624_a92f00e04041/preview_EAF19185.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a wooden post/staff topped with a carved human head with a crested coiffure, a form consistent with Tiv figurative wood carving used as house-post or staff ornament rather than a genuine architectural fragment. It plausibly belongs to the claimed people, though the museum's own category (architectural) is questionable given it reads as a carved post/staff object.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -298,8 +520,10 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden male figure with typical West African sculptural features (seated pose, hands resting on knees, coiffure/headdress), consistent with Tiv figurative wood carving traditions."
+    "reason": "The image shows a carved wooden seated male figure with characteristic scarification patterns on the torso and a raised coiffure, consistent with Tiv or related Nigerian/Cross River figurative sculpture traditions used in ritual or ancestral contexts.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -311,8 +535,10 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden standing female figure with a large rounded head, consistent with Tiv figurative sculpture traditions (used in ancestor/ritual contexts) from Nigeria; nothing contradicts the claimed attribution."
+    "reason": "The image shows a carved wooden female figure with a dark polished head and reddish-brown torso, a style consistent with Tiv figurative sculpture from Nigeria used in ritual or domestic contexts.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -324,8 +550,10 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "LOW",
-    "reason": "The image shows a stylized brass bird figure on a stand, a plausible cast-metal sculptural form consistent with Nigerian brass-casting traditions; while Tiv-specific attribution can't be confirmed from the object alone, it is consistent with regional metal figurative art and no evidence points to it belonging to another distant tradition."
+    "reason": "A brass bird figure on a stand, plausibly a Tiv cast-metal ritual or decorative sculpture; such brass figurative casting is consistent with Nigerian traditions including Tiv work, and nothing points to a different origin.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -337,63 +565,43 @@
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
+    "confidence": "LOW",
+    "reason": "This is a cast bronze equestrian figure (horse and rider) in a style associated with the Lower Niger Bronze tradition/Middle Belt Nigerian metalworking cultures; while Tiv sculpture is more commonly wood-carved, bronze equestrian figures of this general type are known from neighbouring central Nigerian peoples and cannot be securely distinguished from Tiv work on visual grounds alone.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1957-20-4",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/2e861b28_29cc_4ce3_82ef_a9d900b9a5bc/preview_EAF23235.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This bronze equestrian figure with elongated segmented neck and stylized horse is characteristic of the well-known Tiv-attributed brass equestrian figures from Nigeria, a form documented in this ethnic tradition. It fits plausibly as an object made by this culture."
+    "reason": "The image shows a composite terracotta head with cowrie shell eyes and beeswax residue for attaching seeds — a ritual/power-object type figure consistent with West African terracotta traditions; nothing contradicts the Tiv attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1957-20-1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/445c4b70_4f08_4360_a52c_a9d900b9a41c/preview_EAF23232.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a cast brass female figure with a crested headdress, ringed torso and skirt — a type of ancestor/spirit figure consistent with the brass-casting traditions of the Niger-Benue confluence region where the Tiv are located; nothing here is specific to another people's iconography.",
+    "featured": false
    }
   ],
   "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Af1922-1113-13-a-e",
-    "name": "bead",
-    "kind": "bead",
-    "title": "bead",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_14/527a10ee_cf65_40d5_9044_a9cf00f37d6e/preview_EAF27615.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows five cylindrical quartzite stone beads strung on cord, a plausible form of adornment/jewelry material for the Tiv region of Nigeria; no contrary evidence suggests otherwise."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1922-1113-18",
-    "name": "pendant",
-    "kind": "pendant",
-    "title": "pendant",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_14/b240a93c_a131_40d1_a4af_a9cf00f34511/preview_EAF16029.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a cylindrical blue glass bead/pendant, a type of adornment plausible for the Tiv or neighboring Nigerian groups who used trade beads for jewelry."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1922-1113-9-a-ad",
-    "name": "bead",
-    "kind": "bead",
-    "title": "bead",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_14/e92b3040_5264_4aac_94ef_a9cf00f33a7b/preview_EAF16022.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a strand of assorted onyx/stone beads forming a necklace, a plausible form of jewelry/adornment for a Nigerian ethnic group such as the Tiv; nothing distinguishes it from neighboring groups, but beadwork jewelry is consistent with the claim."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1922-1113-8-a-e",
-    "name": "bead",
-    "kind": "bead",
-    "title": "bead",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/15_14/354b1ae9_f4ca_4d4c_a257_aae700f35cca/preview_EAF16021.jpg",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows five assorted glass trade beads strung on a wire, a type of adornment plausible for Tiv jewelry (glass trade beads were widely used across Nigeria and West Africa for personal adornment)."
-   },
    {
     "source": "bm",
     "id": "E_Af1909-156",
@@ -404,8 +612,25 @@
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a string of glass trade beads (chevron/blue beads), consistent with beads used and traded among the Tiv and other Nigerian groups as adornment; such beads are plausible regional trade goods even if not locally manufactured."
+    "reason": "The image shows a string of glass trade beads (chevron/millefiori type and plain blue tubes), a widely traded adornment item plausible for use among the Tiv of Nigeria as personal jewelry. Nothing in the image contradicts the claimed ethnicity, though such beads were traded across many West African cultures.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1922-1113-12",
+    "name": "bead",
+    "kind": "bead",
+    "title": "bead",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_14/c55f2600_32a2_4cc5_9233_a9cf00f33e78/preview_EAF16024.jpg",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a strand of stone (quartzite) beads strung together, a plausible form of adornment worn by Tiv people or other groups in the region; nothing contradicts the claimed attribution.",
+    "featured": true
    }
   ],
   "garment": [
@@ -419,34 +644,25 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a triangular beaded pubic apron with cowrie shell edging and geometric bead patterning, a garment type consistent with women's/girls' dress worn by peoples in the Nigeria/Cameroon Benue region including the Tiv; nothing contradicts the claimed ethnicity."
+    "reason": "The image shows a beaded triangular pubic apron with cowrie shell edging, a type of women's garment consistent with those made and worn in Nigeria and neighboring regions; this matches the claimed use even though such beaded aprons are hard to attribute exclusively to Tiv versus neighboring groups.",
+    "featured": true
    },
    {
     "source": "bm",
-    "id": "E_2018-2036-143",
-    "name": "garment",
+    "id": "E_2011-2052-96",
+    "name": "garment; wrap",
     "kind": "garment",
-    "title": "garment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_6/22_11/1498e078_0fa1_4462_98aa_aebc00b5e280/preview_EAF33408___1___F__.jpg",
+    "title": "garment; wrap",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_17/8a3ae8a1_6a89_4b7f_968c_a3db0126e894/preview_01258685_001.jpg",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a hand-sewn strip-woven cotton cloth with indigo tie-dye resist patterning and fringed edges, consistent with Tiv \"anger\" cloth traditions of central Nigeria, worn as a wrapper garment."
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1932-0516-38",
-    "name": "girdle; chain; divination equipment; religious/ritual equipment",
-    "kind": "girdle",
-    "title": "girdle; chain; divination equipment (?); religious/ritual equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_16/6e6b2a2e_5811_440b_ad6d_a9cb0107d4b7/preview_EAF16900.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a leather girdle (Mba Tsav) with wood and iron pendants and a metal chain, matching Tiv ritual/divination equipment worn as a belt; this is a plausible traditional worn/ritual garment-accessory for the region."
+    "reason": "This is a hand-woven strip-cloth wrapper in black-and-white warp-striped cotton, consistent with Tiv men's woven cloth (like the well-known Tiv \"anger\" style striped wrapper) made from narrow hand-sewn strips. It clearly represents traditional Tiv textile production and dress.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -458,8 +674,10 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a triangular beaded pubic apron with lozenge patterns and cowrie shell edging, a garment type of adornment plausible for Nigerian/West African peoples such as the Tiv, consistent with the museum's description."
+    "reason": "The image shows a triangular beaded pubic apron with cowrie shell edging, a type of garment/adornment plausible for Nigerian and broader West/Central African groups including the Tiv; nothing contradicts the claimed attribution.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -471,23 +689,42 @@
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a triangular beaded pubic apron with cowrie shell edging, matching the museum's description of a garment worn by women/girls — a plausible traditional Tiv/Nigerian beadwork item."
+    "reason": "The image shows a triangular beaded pubic apron with cowrie shell trim, a documented traditional garment type worn by women in various Nigerian/West African groups including the Tiv; this is a genuine worn garment consistent with the claim.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af2000-05-8",
+    "name": "apron; pubic-cover",
+    "kind": "apron",
+    "title": "apron; pubic-cover",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/4_11/2cde5b1d_ea1a_41ba_8413_a9cb00c2701e/preview_EAF64104.jpg",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a triangular beaded pubic apron with cowrie-shell edging, a garment type worn by women in various Nigerian and Central African groups including the Tiv; the beadwork and construction are consistent with this attribution.",
+    "featured": true
    }
   ],
   "textile": [
    {
     "source": "bm",
-    "id": "E_2011-2052-96",
-    "name": "garment; wrap",
+    "id": "E_2018-2036-143",
+    "name": "garment",
     "kind": "garment",
-    "title": "garment; wrap",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_17/8a3ae8a1_6a89_4b7f_968c_a3db0126e894/preview_01258685_001.jpg",
+    "title": "garment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_6/22_11/1498e078_0fa1_4462_98aa_aebc00b5e280/preview_EAF33408___1___F__.jpg",
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven, warp-striped cotton wrapper made of narrow strip-woven panels sewn together, consistent with Tiv textile traditions (black and white striped cloth, \"ivav,\" is a well-known Tiv garment type). This matches the claimed ethnicity and category."
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a strip-woven cotton cloth with indigo tie-resist dyeing forming a large central roundel and corner motifs, consistent with Tiv \"ivav\" cloths of Nigeria, which are known for exactly this style of resist-dyed geometric patterning on hand-sewn cotton strips.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -499,8 +736,10 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hand-spun cotton strip-woven cloth with tie-dyed indigo resist patterning, matching a traditional Tiv waist-cloth/sash type consistent with Nigerian textile traditions."
+    "reason": "The image shows a hand-spun cotton open-mesh cloth with tie-dyed indigo resist patterning, consistent with Tiv textile traditions (notably the Tiv are known for exactly this type of indigo tie-dyed cotton cloth, sometimes called \"tugudu\" style weaves).",
+    "featured": true
    },
    {
     "source": "bm",
@@ -512,8 +751,10 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven, open-mesh cotton strip cloth with a tie-dyed indigo pattern, consistent with traditional handmade textiles of the region and plausible as a Tiv waist-cloth/sash."
+    "reason": "The image shows an open-mesh, hand-spun cotton strip-woven cloth with tie-dyed indigo resist patterning, consistent with a Tiv waist-cloth/sash of the type documented by the museum. This matches known Tiv textile traditions of strip-woven, tie-dyed cotton cloths.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -525,8 +766,10 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The image shows a hand-woven strip-cloth waist-cloth with resist-dyed indigo diamond motif on an open-mesh cotton ground, consistent with Tiv-style tie-dyed strip weaving traditions of central Nigeria."
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This shows a hand-woven strip-cloth waist-cloth with indigo tie-dye resist patterning, a well-documented Tiv textile tradition (the diamond/lozenge motif is characteristic of Tiv indigo-dyed cloths like the \"anger\" and related weaves).",
+    "featured": true
    },
    {
     "source": "bm",
@@ -538,37 +781,13 @@
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a woven cloth with broad red bands separated by narrow multicolor striped bands, consistent with a handwoven textile plausible for use by the Tiv or neighboring Nigerian groups."
+    "reason": "This is a woven cloth with broad red bands divided by narrow multicolor striped bands, matching the museum's description and consistent with Tiv woven textile traditions.",
+    "featured": true
    }
   ],
   "photo": [
-   {
-    "source": "bm",
-    "id": "EA_Af-B73-28",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/4b9294c1_ac2f_47ce_a186_a3b700cdcfd1/preview_00061033_001.jpg",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The photo documents a gathering of Munchi (an old colonial-era name for Tiv) chiefs at Katsina Ala in traditional robes and turbans, a genuine documentary image of Tiv dress and social life in their homeland."
-   },
-   {
-    "source": "bm",
-    "id": "EA_Af-B62-13",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/f52727c0_6b10_4881_8f6b_a3b700ca6741/preview_00059649_001.jpg",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "confidence": "MEDIUM",
-    "reason": "The photograph documents a leather figure with diamond and zig-zag appliqué patterns, consistent with Tiv leatherwork traditions and described as such in the museum record."
-   },
    {
     "source": "bm",
     "id": "EA_Af-B54-21",
@@ -579,8 +798,10 @@
     "art_form": "photo",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The photo shows a man with elaborate scarification marks on his face, neck, and chest, consistent with the documentary ethnographic photography of Tiv body art traditions in Nigeria."
+    "reason": "The photograph shows a man with elaborate scarification patterns on his face, neck and chest, consistent with Tiv body-marking traditions documented in ethnographic photography of the region.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -592,8 +813,40 @@
     "art_form": "photo",
     "image": "good",
     "era": "traditional",
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "This is a documentary studio photograph of an adult African woman in traditional dress, ornaments, headwear and belt, standing beside ritual/ceremonial objects (carved figure, flag, gun) — plausible ethnographic imagery consistent with a Nigerian people; nothing indicates it is a different culture or an outsider's depiction."
+    "reason": "The photograph shows a woman in cowrie-decorated dress, ornaments, headwrap and belt, standing beside a carved wooden figure, gun and flag-pole — a documentary studio portrait of African dress and material culture consistent with the claimed Tiv (Nigeria) context.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-B73-28",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/4b9294c1_ac2f_47ce_a186_a3b700cdcfd1/preview_00061033_001.jpg",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The photograph documents \"Munchi\" (an old colonial-era name for the Tiv people) chiefs from Katsina Ala assembled in traditional robes, turbans, and staffs, a documentary scene matching the claimed Tiv ethnicity and their homeland.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-B62-13",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/f52727c0_6b10_4881_8f6b_a3b700ca6741/preview_00059649_001.jpg",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The photograph documents a Tiv leatherwork figure with characteristic diamond and zig-zag appliqué patterning, a form of craft associated with the Tiv people of Nigeria, photographed against a plain backdrop for documentation purposes.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -605,8 +858,10 @@
     "art_form": "photo",
     "image": "weak",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The photo documents \"Munchi\" (an older colonial-era name for the Tiv people) chiefs seated in front with police standing behind under a tree, a documentary scene consistent with the claimed group's traditional dress and gathering."
+    "reason": "The photo documents \"Munchi\" (Tiv) chiefs seated before a colonial-era police guard, showing traditional dress and headgear of the group in a documentary setting, consistent with the claimed ethnicity.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -620,8 +875,10 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows an iron staff with rattle-like elements (leaf-shaped top finial and forked, jingling attachments), consistent with iron rattle-staffs used in ritual/musical contexts by peoples of the Nigeria-Cameroon region including the Tiv."
+    "reason": "The image shows an iron rattle-staff with decorative openwork elements and dangling metal pieces designed to jingle, consistent with Tiv ritual/musical iron staffs used in ceremonial contexts in Nigeria. No conflicting stylistic evidence is visible.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -633,8 +890,10 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden forked whistle with a swelling body and side apertures, consistent with a traditional Nigerian \"talking whistle\" plausible for the Tiv or neighboring groups; nothing contradicts the claimed ethnicity."
+    "reason": "A carved wooden forked \"talking whistle\" with a swelling body and side apertures, consistent with West African carved wind instruments; plausible as a Tiv-made object even though such items are not exclusive to one group.",
+    "featured": true
    },
    {
     "source": "bm",
@@ -646,8 +905,10 @@
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden hunting horn with a forked/pronged end and a fibre cord, consistent with hunting horns/signal instruments made by Tiv and neighbouring Nigerian groups; nothing contradicts the Tiv attribution."
+    "reason": "The image shows a carved wooden hunting horn with a forked, pronged end and fibre cord binding, a type of side-blown horn/whistle used by Tiv and neighboring Benue-region peoples in Nigeria for hunting and ceremonial signaling. This is a plausible traditional instrument for the claimed ethnicity, though such horns are shared across several groups in the region.",
+    "featured": true
    }
   ]
  }

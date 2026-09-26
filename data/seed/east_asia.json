@@ -1,0 +1,224 @@
+{
+  "region": "east-asia",
+  "region_places": {
+    "place_to_country": {
+      "japan": "Japan",
+      "tokyo": "Japan",
+      "edo": "Japan",
+      "kyoto": "Japan",
+      "osaka": "Japan",
+      "nara": "Japan",
+      "nagasaki": "Japan",
+      "kanazawa": "Japan",
+      "kagoshima": "Japan",
+      "satsuma": "Japan",
+      "hokkaido": "Japan",
+      "okinawa": "Japan",
+      "ryukyu": "Japan",
+      "honshu": "Japan",
+      "kyushu": "Japan",
+      "shikoku": "Japan",
+      "tohoku": "Japan",
+      "arita": "Japan",
+      "kutani": "Japan",
+      "mino": "Japan",
+      "seto": "Japan",
+      "taiwan": "Taiwan",
+      "taipei": "Taiwan",
+      "tainan": "Taiwan",
+      "kaohsiung": "Taiwan",
+      "taichung": "Taiwan",
+      "hualien": "Taiwan",
+      "taitung": "Taiwan",
+      "formosa": "Taiwan",
+      "pingtung": "Taiwan",
+      "lanyu": "Taiwan",
+      "orchid island": "Taiwan",
+      "penghu": "Taiwan",
+      "east asia": "_regional"
+    },
+    "reject_places": [
+      "china",
+      "beijing",
+      "korea",
+      "seoul",
+      "mongolia",
+      "vietnam",
+      "thailand",
+      "philippines",
+      "indonesia",
+      "india",
+      "nepal",
+      "tibet",
+      "russia",
+      "siberia",
+      "france",
+      "netherlands",
+      "britain",
+      "mexico",
+      "peru"
+    ],
+    "signature_traditions": {
+      "ukiyo-e": "Japan",
+      "kimono": "Japan",
+      "netsuke": "Japan",
+      "inro": "Japan",
+      "maki-e": "Japan",
+      "kasuri": "Japan",
+      "shibori": "Japan",
+      "sashiko": "Japan",
+      "bingata": "Japan",
+      "attus": "Japan",
+      "ainu robe": "Japan",
+      "imari": "Japan",
+      "raku": "Japan",
+      "paiwan beadwork": "Taiwan",
+      "atayal weaving": "Taiwan",
+      "yami boat": "Taiwan",
+      "tao boat": "Taiwan"
+    }
+  },
+  "countries": [
+    {
+      "country": "Japan",
+      "met_queries": [
+        "Japan",
+        "Japanese",
+        "Edo period",
+        "Meiji",
+        "Ryukyu Islands",
+        "Kyoto"
+      ],
+      "majority_ethnicity": "Ainu",
+      "met_gate_tokens": [
+        "Japan",
+        "Edo",
+        "Meiji",
+        "Ryukyu",
+        "Ainu",
+        "Okinawa"
+      ],
+      "ethnicities": [
+        {
+          "name": "Ainu",
+          "homeland": {
+            "lat": 42.98,
+            "lon": 144.38
+          },
+          "homeland_place": "Kushiro",
+          "traditions": [
+            "attus",
+            "attush",
+            "ruunpe",
+            "chijiri",
+            "kaparamip",
+            "chikarkarpe",
+            "morew",
+            "aiushi",
+            "sik",
+            "matanpushi",
+            "tamasay",
+            "ninkari",
+            "emush",
+            "emush-at",
+            "makiri",
+            "ikupasuy",
+            "inaw",
+            "sintoko",
+            "tonkori",
+            "mukkuri",
+            "chise",
+            "pu",
+            "nusasan",
+            "saranip"
+          ],
+          "arch_commons_categories": [
+            "Ainu architecture",
+            "Chise",
+            "Shiraoi Ainu Museum",
+            "Upopoy National Ainu Museum and Park",
+            "Nibutani Ainu Culture Museum"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Ainu",
+              "Aino",
+              "Ezo",
+              "Yezo",
+              "Hokkaido",
+              "Sakhalin",
+              "Kuril"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Taiwan",
+      "met_queries": [
+        "Taiwan",
+        "Formosa",
+        "Taipei",
+        "Taiwanese",
+        "Penghu"
+      ],
+      "majority_ethnicity": "Rukai",
+      "met_gate_tokens": [
+        "Taiwan",
+        "Formosa",
+        "Formosan",
+        "Austronesian",
+        "Penghu"
+      ],
+      "ethnicities": [
+        {
+          "name": "Rukai",
+          "homeland": {
+            "lat": 22.75,
+            "lon": 120.72
+          },
+          "homeland_place": "Pingtung",
+          "traditions": [
+            "Kucapungane slate house",
+            "slate slab masonry",
+            "lily headdress",
+            "taraw lily insignia",
+            "hundred-pace snake motif",
+            "kamanungan snake pattern",
+            "human-head ancestor motif",
+            "Rukai backstrap weaving",
+            "cross-stitch embroidery",
+            "beadwork bib",
+            "glass bead regalia",
+            "leopard fur cape",
+            "chieftain ancestral pillar",
+            "carved lintel relief",
+            "clouded leopard pelt vest",
+            "shell-disc ornament",
+            "Budai Rukai pottery jar",
+            "sacred pottery vessel",
+            "wooden spoon carving",
+            "Wutai slate plaza"
+          ],
+          "arch_commons_categories": [
+            "Rukai people",
+            "Kucapungan",
+            "Wutai, Pingtung",
+            "Budai, Pingtung",
+            "Taiwanese aborigines"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Rukai",
+              "Taiwan",
+              "Formosa",
+              "Formosan",
+              "Taiwanese aboriginal",
+              "Paiwan"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

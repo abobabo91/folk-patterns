@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1922-0310-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1922-0310-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1922-0310-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1922.0310.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Naga",
+    "tradition": "Naga",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a slender iron staff with a decoratively worked head, consistent with the iron-working tradition of Naga groups in northeast India who produce ceremonial and utilitarian metal rods and spear-like implements.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "staff",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "staff",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Staff made of iron.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/naga/metalwork/naga/images/bm_A_As1922-0310-5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4b151ef465239257acabc18645f0adb529e4263df5fefd0b4be0951ad169aa37",
+      "bytes": 15205,
+      "local_path": "library\\south-asia\\india\\naga\\metalwork\\naga\\images\\bm_A_As1922-0310-5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:31:36.226040+00:00"
+}

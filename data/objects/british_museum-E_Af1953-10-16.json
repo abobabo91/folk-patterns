@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1953-10-16",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1953-10-16",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1953-10-16",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1953.10.16",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Angola",
+    "ethnicity": "Ambundu",
+    "tradition": "Ambundu",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a finely woven reed basket with diaper twill patterning on a rectangular tray base, a plausible household basketry item for Central African peoples including the Ambundu of Angola. There is nothing in the image contradicting the claimed attribution, and such plaited basketry is consistent with regional craft traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "basket; tray",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "basket; tray",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1953:\r\nReed plaited oval basket on a rectangular &quot;tray&quot;; patterned in diaper pattern in black and natural twill.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/angola/ambundu/household/ambundu/images/bm_E_Af1953-10-16.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e976aa3f0eaf1dcaca020becfe394ae34fc26af93271e70b8f8d71318e44b23f",
+      "bytes": 89419,
+      "local_path": "library\\sub-saharan-africa\\angola\\ambundu\\household\\ambundu\\images\\bm_E_Af1953-10-16.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:26:43.866394+00:00"
+}

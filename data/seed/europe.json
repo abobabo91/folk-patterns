@@ -1,0 +1,150 @@
+{
+  "region": "europe",
+  "region_places": {
+    "place_to_country": {
+      "norway": "Norway",
+      "oslo": "Norway",
+      "christiania": "Norway",
+      "bergen": "Norway",
+      "trondheim": "Norway",
+      "tromso": "Norway",
+      "stavanger": "Norway",
+      "telemark": "Norway",
+      "hardanger": "Norway",
+      "setesdal": "Norway",
+      "finnmark": "Norway",
+      "sweden": "Sweden",
+      "stockholm": "Sweden",
+      "gothenburg": "Sweden",
+      "goteborg": "Sweden",
+      "uppsala": "Sweden",
+      "malmo": "Sweden",
+      "dalarna": "Sweden",
+      "skane": "Sweden",
+      "gotland": "Sweden",
+      "lapland": "Sweden",
+      "norrbotten": "Sweden",
+      "finland": "Finland",
+      "helsinki": "Finland",
+      "helsingfors": "Finland",
+      "turku": "Finland",
+      "abo": "Finland",
+      "tampere": "Finland",
+      "karelia": "Finland",
+      "ostrobothnia": "Finland",
+      "savonia": "Finland",
+      "aland": "Finland",
+      "scandinavia": "_regional",
+      "nordic": "_regional",
+      "fennoscandia": "_regional",
+      "sapmi": "_regional",
+      "europe": "_regional"
+    },
+    "reject_places": [
+      "denmark",
+      "copenhagen",
+      "iceland",
+      "russia",
+      "moscow",
+      "st petersburg",
+      "estonia",
+      "latvia",
+      "lithuania",
+      "poland",
+      "germany",
+      "netherlands",
+      "france",
+      "england",
+      "scotland",
+      "ireland",
+      "china",
+      "japan",
+      "india",
+      "turkey"
+    ],
+    "signature_traditions": {
+      "rosemaling": "Norway",
+      "hardanger embroidery": "Norway",
+      "bunad": "Norway",
+      "stave church": "Norway",
+      "telemark rose painting": "Norway",
+      "dalecarlian horse": "Sweden",
+      "dala horse": "Sweden",
+      "kurbits": "Sweden",
+      "allmoge": "Sweden",
+      "flamskvavnad": "Sweden",
+      "ryijy": "Finland",
+      "rya rug": "Finland",
+      "kantele": "Finland",
+      "takana": "Finland",
+      "gakti": "_regional"
+    }
+  },
+  "countries": [
+    {
+      "country": "Norway / Sweden / Finland",
+      "met_queries": [
+        "Norway / Sweden / Finland"
+      ],
+      "majority_ethnicity": "Sámi",
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Sámi",
+          "homeland": {
+            "lat": 69.02,
+            "lon": 23.04
+          },
+          "homeland_place": "Kautokeino",
+          "traditions": [
+            "gákti",
+            "luhkka",
+            "duodji",
+            "risku",
+            "koltakrage",
+            "komagbånd",
+            "vuoddagat",
+            "skaller",
+            "nállogoahti",
+            "sámi bracelet",
+            "tinntråd embroidery",
+            "guksi",
+            "nappe",
+            "beaska",
+            "ládjogahpir",
+            "goahti",
+            "njalla",
+            "lávvu",
+            "runebomme",
+            "kolt",
+            "grene weaving",
+            "belt band weaving",
+            "reindeer horn carving",
+            "pewter thread"
+          ],
+          "arch_commons_categories": [
+            "Goahti",
+            "Lávvu",
+            "Sámi architecture",
+            "Sámi Parliament of Norway building",
+            "Sámi churches",
+            "Njalla",
+            "Staburs"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Sami",
+              "Saami",
+              "Lapp",
+              "Lappish",
+              "Lapland",
+              "Sapmi",
+              "Norway",
+              "Finnmark"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

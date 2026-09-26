@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1855-1126-519",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1855-1126-519",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1855-1126-519",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1855.1126.519",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada / Greenland",
+    "ethnicity": "Inuit",
+    "tradition": "Inuit",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a complete arrow with a wooden shaft, a carved bone/horn arrowhead lashed with sinew, and feather fletching at the opposite end — a traditional hunting arrow type consistent with Inuit material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "arrow",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "arrow",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Arrow; carved of wood; arrow with wooden shaft, bone arrow-head attached to one end with sinew; feathers attached to opposite end with sinew.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/arms/inuit/images/bm_E_Am1855-1126-519.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e2cce2342f5903b098501262c36717b443bd747383069fa2df1a8f0ecaddedb3",
+      "bytes": 117057,
+      "local_path": "library\\north-america\\canada-greenland\\inuit\\arms\\inuit\\images\\bm_E_Am1855-1126-519.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:19.068110+00:00"
+}

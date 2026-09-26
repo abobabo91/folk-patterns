@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af2000-05-6",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af2000-05-6",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af2000-05-6",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af2000.05.6",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Tiv",
+    "tradition": "Tiv",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a triangular beaded pubic apron with cowrie shell trim, a documented traditional garment type worn by women in various Nigerian/West African groups including the Tiv; this is a genuine worn garment consistent with the claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "apron; pubic-cover",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "apron; pubic-cover",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Triangular pubic apron composed of cylindrical glass beads in red, yellow, white, mid blue and dark blue arranged in angled lines of interlocking lozenges. Cotton cord attached to top of apron to tie round body. Row of cowrie shells attached to top of apron. Other two sides of apron decorated with cowrie shells. Worn by women and girls.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/tiv/garment/tiv/images/bm_E_Af2000-05-6.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "83f865a40be7996c1ae366107f8aa76c0a115b89a4ce6e610ce5f3d15aa2ae6d",
+      "bytes": 71793,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\tiv\\garment\\tiv\\images\\bm_E_Af2000-05-6.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:21:56.820275+00:00"
+}

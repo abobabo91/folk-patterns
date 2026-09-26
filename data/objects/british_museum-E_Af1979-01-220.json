@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1979-01-220",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1979-01-220",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1979-01-220",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1979.01.220",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ethiopia",
+    "ethnicity": "Oromo",
+    "tradition": "Oromo",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden spoon with an ovoid bowl, knobbed handle end, and zigzag decoration at the neck — a traditional utensil form consistent with Ethiopian/Horn of Africa household craft, plausible for Oromo material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "spoon",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spoon",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Spoon; carved of wood; spoon with ovoid bowl, handle with knob carved at end; area of spoon between handle and bowl decorated with carved zigzag lines.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/oromo/household/oromo/images/bm_E_Af1979-01-220.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3d923593fd3f9c89ec5cb1856585d9163d86365ec16db64bd3535bb8b3ae095a",
+      "bytes": 45619,
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\oromo\\household\\oromo\\images\\bm_E_Af1979-01-220.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:10:20.695176+00:00"
+}

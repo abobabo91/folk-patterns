@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1907-189",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1907-189",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1907-189",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1907.189",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Gbagyi",
+    "tradition": "Gbagyi",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a large iron double-bell/gong with dangling metal fringe ornaments, a type of forged iron ritual/signal instrument found among Nigerian and Central African groups; nothing contradicts its attribution to the Gbagyi, though such gongs are shared across neighbouring peoples.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "gong",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "gong",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "War gong made of iron.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/gbagyi/instruments/gbagyi/images/bm_E_Af1907-189.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d8bac2b817b2f35999b6419b170d56be0a99b7c586282df3693a985ec1c04518",
+      "bytes": 35654,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\gbagyi\\instruments\\gbagyi\\images\\bm_E_Af1907-189.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:53.151838+00:00"
+}

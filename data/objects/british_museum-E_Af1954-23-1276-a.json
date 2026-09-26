@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-1276-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-1276-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1276-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.1276.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Tiv",
+    "tradition": "Tiv",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a cylindrical leather-covered quiver with arrows and an attached woven baldric strap, consistent with traditional Tiv hunting/weapons equipment as described in the museum metadata.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "quiver",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "quiver",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1954\r\nComposite quiver, carved wood/bamboo?, cylindrical, covered with natural coloured leather, loops for the attachment of the baldric which is of handwoven, indigo-dyed cloth.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/tiv/arms/tiv/images/bm_E_Af1954-23-1276-a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "eb1c657ff9c27f37900998cf242a28b906c18c49f6f93ec67df3a40db26ca0c5",
+      "bytes": 28146,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\tiv\\arms\\tiv\\images\\bm_E_Af1954-23-1276-a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:21:42.220798+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Am-B59-23",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Am-B59-23",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B59-23",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Am.B59.23",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Haida",
+    "tradition": "Haida",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photograph shows carved totem poles in a park setting; Sitka National Historical Park displays totem poles from various Northwest Coast peoples including Haida, and the carving style shown is consistent with Haida/Tlingit tradition (the two cannot be reliably distinguished from a photo like this).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print (black and white)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print (black and white)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Photograph (black and white); totem carvings in a clearing in a park; Sitka National Historical Park, Alaska, USA. \r\nGelatin silver print",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/sculpture/haida/images/bm_EA_Am-B59-23.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b64e455db9911b27dad16f81a43c6de7fa5d01c0fe88985e7d4489c78f099def",
+      "bytes": 66526,
+      "local_path": "library\\north-america\\canada\\haida\\sculpture\\haida\\images\\bm_EA_Am-B59-23.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:27:04.664268+00:00"
+}

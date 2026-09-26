@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2011-2052-55",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2011-2052-55",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2011-2052-55",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2011.2052.55",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Gbagyi",
+    "tradition": "Gbagyi",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a necklace of spherical pottery/clay beads with incised decoration, strung alternately in red-orange and black tones, matching the described object plausibly used as personal adornment in the claimed region; no evidence contradicts a Gbagyi (or broadly West African) attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "necklace",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "necklace",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Necklace made of spherical pottery beads strung on cotton thread. Beads of varying sizes; painted alternately red and black. Decorated with incised lines and dots.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/gbagyi/jewelry/gbagyi/images/bm_E_2011-2052-55.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "589cb9cdb5dd9fe8978c7779d0365bfe2beedc6a6550d47ec5d452537ad45530",
+      "bytes": 25870,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\gbagyi\\jewelry\\gbagyi\\images\\bm_E_2011-2052-55.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:04.699552+00:00"
+}

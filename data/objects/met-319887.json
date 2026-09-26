@@ -1,0 +1,97 @@
+{
+  "id": "met-319887",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "319887",
+    "object_url": "https://www.metmuseum.org/art/collection/search/319887",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, 2019 Benefit Fund, several members of The Chairman's Council Gifts, Philippe de Montebello and 2020 Benefit Funds, Andrea Bollt Bequest, in memory of Robert Bollt Sr. and Robert Bollt Jr., Mariana and Ray Herrmann and Gordon Sze MD Gifts, and funds from various donors, 2022",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2022.347",
+    "accession_year": "2022"
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved wooden storehouse panel (epa) with characteristic Māori figural and koru scroll carving, not a textile, but it is clearly a Māori-made object used on a pātaka storehouse.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Epa (carved panel for a storehouse)",
+    "titles_alt": [],
+    "date_text": "Mid-18th century or earlier",
+    "date_earliest": 1700,
+    "date_latest": 1760,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood",
+    "classification": "Wood",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 59 × W. 13 1/2 × D. 4 in. (149.9 × 34.3 × 10.2 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Aotearoa, New Zealand",
+    "made_in_place_alt": [],
+    "current_gallery": "352",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Māori artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/architectural/maori/images/met_319887.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fa660c4d2f099c3e3855ebe2bdc7aef53c2b527ae9c4f1408eb23f11e2a8a5aa",
+      "bytes": 1969374,
+      "local_path": "library\\oceania\\new-zealand\\maori\\architectural\\maori\\images\\met_319887.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:29.670313+00:00"
+}

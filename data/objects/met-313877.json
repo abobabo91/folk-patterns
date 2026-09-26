@@ -1,0 +1,98 @@
+{
+  "id": "met-313877",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "313877",
+    "object_url": "https://www.metmuseum.org/art/collection/search/313877",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1979.206.1658",
+    "accession_year": "1979"
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved wooden Māori architectural feature (likely a koruru or gable/ridge figure element) with typical spiral (koru) and rauponga surface carving and paua shell eye inlay — a form and style distinctly Māori, though it is architectural ornament rather than a ritual mask itself.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Architectural feature",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "shell (pāua)"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, shell (pāua)",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 3 1/2 × W. 2 7/8 × D.  9 3/4 in. (8.9 × 7.3 × 24.8 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Gisbourne, Aotearoa, New Zealand",
+    "made_in_place_alt": [],
+    "current_gallery": "352",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Māori artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/architectural/maori/images/met_313877.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "14c8c208ec3544936111af491fb372c83e13d6919af3cbffa61650ca0b2d73ea",
+      "bytes": 1968374,
+      "local_path": "library\\oceania\\new-zealand\\maori\\architectural\\maori\\images\\met_313877.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:32.353673+00:00"
+}

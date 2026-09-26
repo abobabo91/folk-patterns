@@ -1,0 +1,90 @@
+{
+  "id": "met-500691",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "500691",
+    "object_url": "https://www.metmuseum.org/art/collection/search/500691",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.133",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a tonkori, the traditional five-stringed plucked zither of the Ainu people, clearly photographed with its elongated wooden body and tuning pegs visible. This matches the claimed ethnicity and category perfectly.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Tonkari (トンコリ)",
+    "titles_alt": [],
+    "date_text": "late 19th century",
+    "date_earliest": 1880,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood",
+    "classification": "Chordophone-Lute-plucked-unfretted",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 30 × W. 3 in. (76.2 × 7.6 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Japan",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/instruments/ainu/images/met_500691.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ea311c154a5b5bac5b546ea0749951b212d95e49d2bc128c0b70f6429658c8a4",
+      "bytes": 46466,
+      "local_path": "library\\east-asia\\japan\\ainu\\instruments\\ainu\\images\\met_500691.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:48.594703+00:00"
+}

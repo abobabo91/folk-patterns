@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1986-24-27",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1986-24-27",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1986-24-27",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1986.24.27",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Mambila",
+    "tradition": "Mambila",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a rectangular wood-and-calfskin sheath with cane loops for a belt, matching a weapon accessory type consistent with the Mambila region of Nigeria/Cameroon.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sheath",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sheath",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A rectangular sheath of wood covered with calf skin which is stitched together with cotton thread. Two large loops of cane are attached to the top of the sheath, beneath the calf skin, through which a belt or baldrick may be passed.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/mambila/arms/mambila/images/bm_E_Af1986-24-27.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "020745df97f9a2bebac961cdacafcb821ebb262a3b2d8de6456cf97c725b71a4",
+      "bytes": 55005,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\mambila\\arms\\mambila\\images\\bm_E_Af1986-24-27.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:43.004867+00:00"
+}

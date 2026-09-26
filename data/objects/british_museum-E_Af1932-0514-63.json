@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1932-0514-63",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1932-0514-63",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1932-0514-63",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1932.0514.63",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Angola",
+    "ethnicity": "Ambundu",
+    "tradition": "Ambundu",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an antelope horn bound with fur at the base, described as a \"cursing-horn\" — a ritual/magical implement rather than a weapon, but such horn objects used for divination, cursing or protective magic are well documented among Central African peoples including the Ambundu of Angola.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "cursing-horn",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cursing-horn",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Antelope horn bound with a piece of fur.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/angola/ambundu/masks-ritual/ambundu/images/bm_E_Af1932-0514-63.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "103b69a213b0e78824cbc37494d4cf3d36e2005e081dc13de6468e8830c5320d",
+      "bytes": 85343,
+      "local_path": "library\\sub-saharan-africa\\angola\\ambundu\\masks-ritual\\ambundu\\images\\bm_E_Af1932-0514-63.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:26:56.854378+00:00"
+}

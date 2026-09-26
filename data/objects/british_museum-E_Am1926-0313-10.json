@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1926-0313-10",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1926-0313-10",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1926-0313-10",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1926.0313.10",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada / Greenland",
+    "ethnicity": "Inuit",
+    "tradition": "Inuit",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a bone/ivory toggle, a classic Inuit tool used to fasten harness lines, tent ropes or kayak rigging — clearly Inuit-made material culture, though it is a utilitarian fastener rather than \"jewelry.\"",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "toggle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "toggle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Toggle, said to be made of bone but probably of ivory. Trapeziform, with large oval hole (16x25 mm) near longer end and small hole (6x6 mm) near shorter end of trapezium. Incision from smaller hole to edge, rounded, on both sides. Eight drillings in a line on one of the long sides of trapezium.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-greenland/inuit/household/inuit/images/bm_E_Am1926-0313-10.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a511bd4ffa779dce0a1c39defb3274e535c6ad47fec39ef92a592de3cb334ccf",
+      "bytes": 26112,
+      "local_path": "library\\north-america\\canada-greenland\\inuit\\household\\inuit\\images\\bm_E_Am1926-0313-10.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:28:04.664721+00:00"
+}

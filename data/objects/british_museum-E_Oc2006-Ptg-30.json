@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc2006-Ptg-30",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc2006-Ptg-30",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc2006-Ptg-30",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc2006.Ptg.30",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The painting depicts a Māori woman performing in traditional dress (feather cloak, hei tiki, flax skirt) before a carved wharenui with a toi moko on a stake, clearly depicting Māori material culture, dress, and architecture. This is a documentary/genre-style painting of Māori life, fitting the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "painting",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "painting",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Painting on board; a woman outdoors, performing in front of a toi moko (tattooed preserved head) on a stake.  She wears a hei tiki (neck pendant), a kahu huruhuru (feather cloak), and a skirt (appears to be a korowai cloak type); she performs in front of a wharenui (meeting house), with carved amo (upright support) and maihi (sloping panel) visible; other people gathered around watching.  1900s.\r\nPaint on board.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/painting-mss/maori/images/bm_E_Oc2006-Ptg-30.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8c5c6794d458ec4601863072792c9c8ae139bfd344fecfc718038ae97d82f322",
+      "bytes": 67212,
+      "local_path": "library\\oceania\\new-zealand\\maori\\painting-mss\\maori\\images\\bm_E_Oc2006-Ptg-30.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:25.699206+00:00"
+}

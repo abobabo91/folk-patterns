@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-H_Eu1954-01-3-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "H_Eu1954-01-3-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1954-01-3-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "H,Eu1954.01.3.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "Norway / Sweden / Finland",
+    "ethnicity": "Sámi",
+    "tradition": "Sámi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden reindeer harness yoke with leather thong attachments and a leather strap fragment — a traditional Sámi reindeer-herding implement, though the metadata describes it as wood/leather rather than metalwork.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "reindeer-harness; yoke (harness)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "reindeer-harness; yoke (harness)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Yoke from a reindeer pack harness, carved wood, formed of two interlocking pieces of wood, with incised double lines on the exterior faces and leather attachment thongs at the front; with a separate band of leather.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/norway-sweden-finland/sami/household/sami/images/bm_H_Eu1954-01-3-a-b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "65c57c4a850f714b81411cb47a27662a6bab73b988e4e884b9732b8525fc9e03",
+      "bytes": 49025,
+      "local_path": "library\\europe\\norway-sweden-finland\\sami\\household\\sami\\images\\bm_H_Eu1954-01-3-a-b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:32:30.982657+00:00"
+}

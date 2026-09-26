@@ -1,0 +1,161 @@
+{
+  "region": "south-asia",
+  "region_places": {
+    "place_to_country": {
+      "india": "India",
+      "delhi": "India",
+      "new delhi": "India",
+      "mumbai": "India",
+      "bombay": "India",
+      "kolkata": "India",
+      "calcutta": "India",
+      "chennai": "India",
+      "madras": "India",
+      "bengaluru": "India",
+      "hyderabad": "India",
+      "ahmedabad": "India",
+      "jaipur": "India",
+      "varanasi": "India",
+      "benares": "India",
+      "lucknow": "India",
+      "agra": "India",
+      "amritsar": "India",
+      "srinagar": "India",
+      "kashmir": "India",
+      "punjab": "India",
+      "rajasthan": "India",
+      "gujarat": "India",
+      "bengal": "India",
+      "deccan": "India",
+      "tamil nadu": "India",
+      "kerala": "India",
+      "odisha": "India",
+      "orissa": "India",
+      "assam": "India",
+      "nagaland": "India",
+      "madhya pradesh": "India",
+      "maharashtra": "India",
+      "karnataka": "India",
+      "andhra pradesh": "India",
+      "goa": "India",
+      "mysore": "India",
+      "tanjore": "India",
+      "thanjavur": "India",
+      "south asia": "_regional"
+    },
+    "reject_places": [
+      "china",
+      "japan",
+      "korea",
+      "tibet",
+      "nepal",
+      "bhutan",
+      "pakistan",
+      "bangladesh",
+      "sri lanka",
+      "afghanistan",
+      "iran",
+      "burma",
+      "myanmar",
+      "thailand",
+      "indonesia",
+      "england",
+      "france",
+      "netherlands",
+      "portugal"
+    ],
+    "signature_traditions": {
+      "kalamkari": "India",
+      "bandhani": "India",
+      "patola": "India",
+      "kantha": "India",
+      "phulkari": "India",
+      "chikankari": "India",
+      "pashmina": "India",
+      "banarasi": "India",
+      "madhubani": "India",
+      "warli": "India",
+      "pattachitra": "India",
+      "bidri": "India",
+      "thanjavur painting": "India",
+      "kalighat": "India",
+      "ajrakh": "India"
+    }
+  },
+  "countries": [
+    {
+      "country": "India",
+      "met_queries": [
+        "India",
+        "Mughal",
+        "Deccan",
+        "Rajput",
+        "Chola",
+        "Gujarat"
+      ],
+      "majority_ethnicity": "Naga",
+      "met_gate_tokens": [
+        "Mughal",
+        "Rajput",
+        "Deccan",
+        "Chola",
+        "Vijayanagara",
+        "Gandhara"
+      ],
+      "ethnicities": [
+        {
+          "name": "Naga",
+          "homeland": {
+            "lat": 25.67,
+            "lon": 94.11
+          },
+          "homeland_place": "Kohima",
+          "traditions": [
+            "Angami loin loom",
+            "lohe shawl",
+            "tsungkotepsu",
+            "Ao warrior shawl",
+            "Sumi ahu",
+            "Lotha shawl",
+            "Konyak headhunter necklace",
+            "mithun horn motif",
+            "hornbill feather headdress",
+            "Chakhesang ceremonial mekhela",
+            "morung carving",
+            "Angami kilt",
+            "Zeliang bead apron",
+            "Naga brass hornbill",
+            "mithun skull frieze",
+            "human-head motif",
+            "Naga log drum",
+            "Phom red shawl",
+            "Rengma azhu",
+            "conch-shell armlet",
+            "cane-and-boar-tusk armlet",
+            "Naga carnelian bead necklace",
+            "Naga back-strap band"
+          ],
+          "arch_commons_categories": [
+            "Morung",
+            "Kisama Heritage Village",
+            "Naga architecture",
+            "Kohima"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Naga",
+              "Nagaland",
+              "Angami",
+              "Ao",
+              "Konyak",
+              "Sumi",
+              "Lotha",
+              "Assam",
+              "Naga Hills"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1901-508",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1901-508",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1901-508",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1901.508",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Japan",
+    "ethnicity": "Ainu",
+    "tradition": "Ainu",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a pair of black cotton leggings with embroidered curvilinear scroll motifs and cord ties — this style of embroidered legging with cord fastenings matches Ainu traditional dress accessories, though the specific scroll pattern is also seen among neighboring Amur/Nivkh groups and cannot be told apart with certainty.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "legging",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "legging",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Legging (pair with As1901,-.507), made of cotton, cord and silk thread.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/japan/ainu/garment/ainu/images/bm_A_As1901-508.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4cdb11c468dda147065b007cfa58e24722514ad20cffd4dbc91bb41a39743d87",
+      "bytes": 62650,
+      "local_path": "library\\east-asia\\japan\\ainu\\garment\\ainu\\images\\bm_A_As1901-508.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:29:44.640190+00:00"
+}

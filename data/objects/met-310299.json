@@ -1,0 +1,99 @@
+{
+  "id": "met-310299",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "310299",
+    "object_url": "https://www.metmuseum.org/art/collection/search/310299",
+    "iiif_manifest": null,
+    "credit_line": "Gift of William W. Brill, 1977",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1977.224.5a-d",
+    "accession_year": "1977"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ghana",
+    "ethnicity": "Akan",
+    "tradition": "Akan",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a brass gold-weighing scale with two pans suspended by strings, a well-documented Akan household/utilitarian object used for measuring gold dust in trade.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Scale for Gold Measurement",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1897,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Brass",
+      "string",
+      "pigment"
+    ],
+    "techniques": [],
+    "medium_raw": "Brass, string, pigment",
+    "classification": "Metal-Implements",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 4 7/8 x Diam. 2 1/4 in. (12.4 x 5.7 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Côte d'Ivoire or Ghana",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Akan artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/akan/household/akan/images/met_310299.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1ee39bab34061e43095e75140e34c043c4799ff6498a84c3251b7a2e6e932c57",
+      "bytes": 591683,
+      "local_path": "library\\sub-saharan-africa\\ghana\\akan\\household\\akan\\images\\met_310299.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:36:26.259998+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-H_Eu1948-02-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "H_Eu1948-02-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1948-02-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "H,Eu1948.02.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "Norway / Sweden / Finland",
+    "ethnicity": "Sámi",
+    "tradition": "Sámi",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A decorated moose/elk antler incised with reindeer and geometric motifs, a form of carved antler work characteristic of Sámi material culture in northern Norway. This fits the claimed ethnicity as a traditional handcrafted object using reindeer/moose antler with typical Sámi decorative motifs.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sculpture; animal remains",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sculpture; animal remains",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Decorated moose or elk antler, incised on the front with four reindeer and geometric motifs incorporating crosses, and on the back with lozenges. The base carved to slot into a fitting.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/norway-sweden-finland/sami/sculpture/sami/images/bm_H_Eu1948-02-2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3d8e6ac09cfe54ab5df9cf035b18b9e08c5c3fa0aa78d5fcf72a6d4e54f435fd",
+      "bytes": 57733,
+      "local_path": "library\\europe\\norway-sweden-finland\\sami\\sculpture\\sami\\images\\bm_H_Eu1948-02-2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:32:20.019081+00:00"
+}

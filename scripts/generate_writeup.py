@@ -43,16 +43,15 @@ def load_exemplar() -> str:
 def find_ethnicity(name: str) -> tuple[Path, dict, dict, dict] | None:
     """Return (seed_path, seed, country, ethnicity) matching name (fuzzy)."""
     n = name.lower().strip()
-    for p in SEED_DIR.glob("*.json"):
-        seed = json.loads(p.read_text(encoding="utf-8"))
-        for c in seed.get("countries", []):
-            for e in c.get("ethnicities", []):
-                if (
-                    e["name"].lower() == n
-                    or slugify(e["name"]) == slugify(name)
-                    or (n in e["name"].lower() and len(n) >= 4 and "(" not in e["name"])
-                ):
-                    return p, seed, c, e
+    rows = [(p, seed, c, e) for p in SEED_DIR.glob("*.json")
+            for seed in [json.loads(p.read_text(encoding="utf-8"))]
+            for c in seed.get("countries", []) for e in c.get("ethnicities", [])]
+    for row in rows:   # exact first: a substring pass alone matched "Akan" to "Yakan"
+        if row[3]["name"].lower() == n or slugify(row[3]["name"]) == slugify(name):
+            return row
+    for row in rows:
+        if n in row[3]["name"].lower() and len(n) >= 4 and "(" not in row[3]["name"]:
+            return row
     return None
 
 

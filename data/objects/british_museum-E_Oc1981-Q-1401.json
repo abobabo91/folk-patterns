@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1981-Q-1401",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1981-Q-1401",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1981-Q-1401",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1981.Q.1401",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a flax-fibre object in single-pair twining covered with white feathers, consistent with Māori feather-work techniques used for kete, cloaks or containers; the museum's own catalogue notes it as woven flax with feathers, matching Māori textile craft even though its exact function (bag/cosy) is uncertain.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "tea-cosy (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "tea-cosy (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Teapot cosy? Woven from flax in single-pair twining, with white feathers; lined with silky maroon machine-sewn quilting, which is shaped and does not reach bottom of bag. Small suspension loop of braided cord at top, no handles.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/textile/maori/images/bm_E_Oc1981-Q-1401.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b991f0a1b1d51b24fa54991b4ccf29b17f67404214635b5ff363469829d0ad8a",
+      "bytes": 40894,
+      "local_path": "library\\oceania\\new-zealand\\maori\\textile\\maori\\images\\bm_E_Oc1981-Q-1401.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:33:56.010533+00:00"
+}

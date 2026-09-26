@@ -1,0 +1,94 @@
+{
+  "id": "met-319096",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "319096",
+    "object_url": "https://www.metmuseum.org/art/collection/search/319096",
+    "iiif_manifest": null,
+    "credit_line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2011.154.56",
+    "accession_year": "2011"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Haida",
+    "tradition": "Haida",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved and painted wooden crest helmet in classic Haida animal-crest style (likely wolf or bear), used as a ceremonial headdress rather than combat armor, but it is clearly a Haida-made object worn in ceremony.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Crest Helmet",
+    "titles_alt": [],
+    "date_text": "ca. 1860",
+    "date_earliest": 1830,
+    "date_latest": 1880,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "pigment"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, pigment",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 14 x W. 14 1/2 x D. 17 1/2 in. (35.6 x 36.8 x 44.5 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "British Columbia, Canada",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300249525",
+      "http://vocab.getty.edu/page/aat/300036794"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/masks-ritual/haida/images/met_319096.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "191f9ee07cfbbd4dfdb511bdefa2a6310abed99529dc827d242a987a1023a875",
+      "bytes": 1757137,
+      "local_path": "library\\north-america\\canada\\haida\\masks-ritual\\haida\\images\\met_319096.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-26T21:36:25.492109+00:00"
+}
