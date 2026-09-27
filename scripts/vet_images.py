@@ -20,6 +20,7 @@ Idempotent — skips items already vetted unless --force.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import io
 import json
 import os
@@ -41,6 +42,7 @@ import requests
 from folk_patterns.util import LIBRARY_DIR
 
 MEDIA_DIR = Path(__file__).resolve().parents[1] / "content" / "media"
+COMMONS_REVIEW_DIR = Path(__file__).resolve().parents[1] / "work" / "commons-review"
 # Wikimedia answers 429 to a User-Agent without contact info and 200 with one
 # (measured 2026-09-24 on upload.wikimedia.org originals).
 UA = "folk-patterns/0.1 (https://github.com/abobabo91/folk-patterns; research atlas)"
@@ -441,17 +443,21 @@ def _vet_library(workers: int, force: bool, only: str | None,
 # -----------------------------------------------------------------------------
 
 def _vet_commons_photo(url: str, ethnicity: str, country: str, tmp: Path,
-                       title: str = "", desc: str = ""):
-    ext = ".jpg"
-    dst = tmp / f"vet_{abs(hash(url))}{ext}"
-    if not _download(url, dst):
-        return {"skip": "download-failed"}
+                       title: str = "", desc: str = "",
+                       review_dst: Path | None = None):
+    # Keep the downloaded source image for the independent image/caption
+    # review. The judge may downscale it. Hash the URL to separate changed URLs.
+    dst = review_dst or tmp / f"vet_{abs(hash(url))}.jpg"
+    cached = dst.exists() and dst.stat().st_size > 1000
+    if not cached:
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        if not _download(url, dst):
+            dst.unlink(missing_ok=True)
+            return {"skip": "download-failed"}
     authentic, art_form, reason, confidence, image, era = _ask_claude(
         dst, ethnicity, country, "photo", title=title, desc=desc)
-    try:
-        dst.unlink()
-    except Exception:
-        pass
+    if review_dst is None:
+        dst.unlink(missing_ok=True)
     return {"authentic": authentic, "art_form": art_form,
             "reason": reason, "confidence": confidence,
             "image": image, "era": era}
@@ -468,16 +474,21 @@ def _vet_commons(workers: int, force: bool, only: str | None) -> None:
             ethn = b.get("ethnicity") or ""
             country = b.get("country") or ""
             photos = (b.get("sources") or {}).get("commons") or []
-            targets = [cp for cp in photos if force or "vetted" not in cp]
+            targets = [(i, cp) for i, cp in enumerate(photos)
+                       if force or "vetted" not in cp]
             if not targets:
                 continue
             print(f"[commons] {p.stem}  targets={len(targets)}", flush=True)
             with ThreadPoolExecutor(max_workers=workers) as ex:
-                futs = {ex.submit(_vet_commons_photo,
-                                  cp.get("thumb_url") or cp.get("full_url"),
-                                  ethn, country, tmp,
-                                  cp.get("title") or "",
-                                  cp.get("description") or ""): cp for cp in targets}
+                futs = {}
+                for i, cp in targets:
+                    url = cp.get("thumb_url") or cp.get("full_url") or ""
+                    digest = hashlib.sha1(url.encode("utf-8")).hexdigest()[:10]
+                    review_dst = COMMONS_REVIEW_DIR / p.stem / f"{i:02}-{digest}.jpg"
+                    fut = ex.submit(_vet_commons_photo, url, ethn, country,
+                                    tmp, cp.get("title") or "",
+                                    cp.get("description") or "", review_dst)
+                    futs[fut] = cp
                 for f in as_completed(futs):
                     cp = futs[f]
                     result = f.result()

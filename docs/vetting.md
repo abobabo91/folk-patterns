@@ -315,11 +315,14 @@ library records judged, 6,553 accepted and 894 dropped. The site index has
 6,460 objects in 103 cultures. This is model-based visual review of all library
 images, not a separate editorial check of 7,447 images. Selected Armenian
 images were also checked against contact sheets and original catalogues.
+Among the 6,553 library keeps, the visual judge marked 6,423 images good,
+128 weak and two unusable; the index excludes the two unusable images. A weak
+image may still show a useful object, so it is not automatically rejected.
 
 Commons has two gates: the subscription CLI image judge sets `vetted`; a
 separate image-and-caption review sets `editorial_reviewed` on accepted photos.
-The index publishes only images passing both. The five test cultures (Navajo,
-Gbaya, Igorot, Toba and Guna) have had the second pass. It rejected 20
+The index publishes only images passing both. The five initial test cultures
+(Navajo, Gbaya, Igorot, Toba and Guna) have had the second pass. It rejected 20
 model-accepted but wrong Commons photos: celebrities, unrelated peoples or
 places, generic scenes, and colonial exhibition portraits. Twenty-five additional
 legacy positives were checked; seventeen were rejected, including photos from
@@ -327,9 +330,17 @@ the wrong country in the atlas's split cultures. `scripts/_vet_status.py`
 reports the changing Commons counts, including photos waiting for either gate.
 The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
+The same Codex CLI and visual review covered Ainu (12 judged, three published)
+and Konyak (three judged, three published). Ainu's model positives included
+two 1904 World's Fair exhibition portraits and an outsider painting; the
+second pass rejected them. Konyak's three source images were cached and
+inspected successfully, confirming the review cache workflow.
 The older approved Commons batch still needs second review; its images are
 hidden until then. Bulk Commons image fetching hit Wikimedia's 429 limit; the
 reviewer must use the project's identifying User-Agent and low concurrency.
+The Commons vetter now caches the source image for every model call in ignored
+`work/commons-review/<sidecar-stem>/`, with the URL hash in its filename; the
+second reviewer can inspect the same source image without another Wikimedia fetch.
 Missing image files remain unreviewed rather than being approved from text.
 
 Next: vet the remaining hidden Commons photos through the subscription CLI in

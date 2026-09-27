@@ -205,10 +205,12 @@ a fresh scrape. After media enrichment it also judges new Commons photos.
 and publishes Commons sidecar photos only when both `vetted` and
 `editorial_reviewed` are `true`. The second check compares the image with its
 caption and culture; broad Commons categories have supplied images of other
-peoples even after a positive model verdict. Run `python scripts/_vet_status.py`
+peoples even after a positive model verdict. `vet_images.py` caches the source
+Commons images it judges under ignored `work/commons-review/` for that check,
+so reviewers need not redownload them. Run `python scripts/_vet_status.py`
 for current library and Commons counts. All 7,447 library records have model
 verdicts, but they have not all had a separate editorial image review. Selected
-Armenian objects and Commons photos in five test cultures had that second pass.
+Armenian objects and Commons photos in seven cultures had that second pass.
 
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to
