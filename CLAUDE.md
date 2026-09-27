@@ -23,7 +23,7 @@ Next, in order ([docs/vetting.md → Next steps](docs/vetting.md#next-steps)):
 - **Codex subscription fallback:** Set `FOLK_LLM_BACKEND=codex` to run the seed, writeup, short rewrite and world pick judge through `codex exec` with `gpt-5.6-luna`, low reasoning effort, and no paid inference API. The original Claude cache is reused. Review Codex QUALITY 3 picks before onboarding: a three-image calibration matched BELONGS and IMAGE but gave two weak objects one extra quality point. Always set `BM_CDP_URL` when loading or picking British Museum records; `_load_picks.py` now refuses a partial load without it.
 - **Country fallback is explicit:** `majority_ethnicity` routes country-only museum records, so leave it null for a newly added minority culture. `add_culture.py` no longer sets it to the first culture automatically.
 - Thin cultures the BM facet cannot fill (Qashqai, Sidama, Pamiri, Oromo, Yakan, Karakalpak, Afar, Cham, Hazara): Cleveland, V&A and Met, the sources with 3–8% drops.
-- **Do NOT add new cultures by scraping** until the vetter is wired into that path; add them with `--from-picks`. Armenian remains a candidate with good objects waiting in the drops; Shan has been onboarded.
+- **Do NOT add new cultures by scraping** until the vetter is wired into that path; add them with `--from-picks`. Shan has been onboarded. The Armenian world pick has only nine credible items after catalogue review, mostly photos and two scarves; the 15 Armenian records in reattribution proposals are all photographs of Akdamar church, so seek more sources before onboarding.
 
 ## The one command for everything
 

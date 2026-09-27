@@ -280,4 +280,4 @@ The 34 images were uploaded to R2; the local index contains 6,387 objects and
 101 cultures. Subscription CLI inference cost was $0.00 in API charges.
 
 1. **Wire the vetter into `add_culture.py` / `scrape_all.py`** so new material arrives judged. Until then, after any scrape run `python scripts/vet_images.py --target library` — `build_index.py` keeps records that have no verdict yet.
-2. **Consider Armenian as a new culture** — Shan has been onboarded from a manually reviewed world-list pick.
+2. **Expand the Armenian source pool before onboarding.** The first world pick retained nine items after four catalogue exclusions: a belt listed as Yürük and Armenian, a bracelet listed as Bedouin and Armenian, stirrups listed as Syrian or Armenian, and a landscape photograph titled with Armenia but without Armenian subjects. Its two selected scarves and archival community photographs are useful, but thin for a full page. The 15 Armenian reattribution proposals are multiple photos of the same Akdamar church, not 15 distinct traditions.
