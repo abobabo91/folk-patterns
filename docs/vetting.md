@@ -249,6 +249,20 @@ and generic `wood carving` brought in unrelated work. Both categories are
 skipped for Pende. Country-level Smithsonian Folkways results are withheld
 unless their titles identify Pende; the current sidecar has no such result.
 
+For Hausa, Codex judged 123 world-list candidates and initially retained 104.
+Review of contact sheets and original catalogue descriptions excluded 39: plain
+or near-duplicate pieces, faint Qur'an boards, damaged toys, a Ghanaian
+goldweight described only as *derived from* a Hausa form, and two pottery
+photographs that the British Museum places in Kosti, Sudan without a Hausa
+attribution. The final pick and site shard contain 65 objects across 13
+categories. The generated writeup's population estimate and claim that no
+Nigerian UNESCO inscription existed were removed; both the long and short
+versions were rewritten from selected object records, Smithsonian catalogue
+entries and UNESCO's 2024 Durbar in Kano description. The media sidecar has
+nine reviewed Commons photos, one relevant UNESCO entry and no Folkways
+results: country-level Folkways hits and ambiguous Commons categories such as
+`hula` had supplied unrelated material.
+
 The full re-vet is done: on 2026-09-24 every one of the 4,625 records then in the library carried a verdict from the current prompt — 3,755 kept, 870 dropped (19%); IMAGE good 4,428 / weak 141 / unusable 56; ERA traditional 3,556 / modern 579 / archaeological 490. The run: [cloud-vetting.md](cloud-vetting.md#full-run--2026-09-24). `build_index.py` treats the verdict as final for every source, and drops that belong to another culture are re-filed (above).
 
 1. **Wire the vetter into `add_culture.py` / `scrape_all.py`** so new material arrives judged. Until then, after any scrape run `python scripts/vet_images.py --target library` — `build_index.py` keeps records that have no verdict yet.

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af2000-05-56-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af2000-05-56-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af2000-05-56-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af2000.05.56.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Hausa",
+    "tradition": "Hausa",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The picture shows a traditional wooden Hausa horizontal loom with heddles, pedals, beater, and warp-weight components. It is a weaving tool used by Hausa people and fits the claimed ethnicity, though the category should be household rather than instruments.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "loom",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "loom",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Man&#039;s horizontal loom (turkudi) made primarily of wood and comprising several elements including a breast beam (takala) and a beater made of strips of reed secured at top with two pieces of raffia palm fibre and covered at bottom with skin. A rocker bar (shuwaka) connects a pair of heddles. Curved wooden rods form the foot pedals (mataki). The warp threads are attached to a potsherd which acts as a drag weight (kunkuru).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/hausa/household/hausa/images/bm_E_Af2000_05_56_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b5468a115cffd6f3d4b2608a1f96b0079ddd53daf0a34e90b8605c5f9057d8a4",
+      "bytes": 36179,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\hausa\\household\\hausa\\images\\bm_E_Af2000_05_56_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T17:18:55.099866+00:00"
+}

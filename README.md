@@ -15,9 +15,9 @@ A record belongs when two things hold:
 
 What counts as in and out of scope in detail, and how the vetter enforces it: [docs/vetting.md](docs/vetting.md).
 
-Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a Claude-drafted encyclopedic writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
+Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The production site has 10 regions, 99 cultures and 6,288 objects. Edo, Bemba, Kamba, Aymara, Tibetan and Pende were added on 2026-09-27, each with a grounded short writeup. Their new images are on R2.
+**Status:** The production site has 10 regions, 100 cultures and 6,353 objects. Edo, Bemba, Kamba, Aymara, Tibetan, Pende and Hausa were added on 2026-09-27, each with a grounded short writeup. Their new images are on R2.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,

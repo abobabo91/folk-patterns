@@ -512,10 +512,18 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
     # pilgrimage-route photos unrelated to the Pende people.
     if ethnicity == "Pende":
         candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Pendes"]
+    if ethnicity == "Hausa":
+        # The country category contains Nigerian subjects from many peoples.
+        candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Culture of Nigeria"]
     for t in (extra_categories or []):
         # These broad categories swamp the Pende article photos with objects
         # from unrelated cultures (or general European wood carving).
         if ethnicity == "Pende" and t.lower() in {"wood carving", "ceramic vessels", "sanza"}:
+            continue
+        if ethnicity == "Hausa" and not (
+            re.search(r"\b(?:hausa|kano|katsina)\b", t, re.I)
+            or t in {"Gidan Makama", "Gidan Rumfa", "Gobarau Minaret"}
+        ):
             continue
         candidates.append((t, 4.0))
 
@@ -526,10 +534,21 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
     # Wikipedia editors, so far better default than raw category dumps.
     if wiki_title:
         for p in commons_from_wiki_article(wiki_title, limit=total_limit):
+            if ethnicity == "Hausa" and p["title"] in {
+                "Global Hausa Culture.jpg",
+                "Kyinkyinga (8640795804).jpg",
+                "The First Lady of Nigeria Her Excellency Aisha Buhari.jpg",
+            }:
+                continue
             if p["title"] in seen_titles:
                 continue
             seen_titles.add(p["title"])
             all_scored.append((100 + p.get("quality_tier", 0) * 10, p))
+    if ethnicity == "Hausa" and all_scored:
+        # The article supplies nine relevant culture/architecture images.
+        # Raw Hausa category results include generic city and health-campaign
+        # photographs, even after the ambiguous seed names are skipped.
+        return [p for _, p in all_scored[:total_limit]]
 
     for cat, bonus in candidates:
         if not commons_category_exists(cat):
@@ -563,6 +582,7 @@ SPARQL_URL = "https://query.wikidata.org/sparql"
 # Wikidata label doesn't literally name the ethnicity ("Meshrep" is Uyghur,
 # "Manas epic" is Kyrgyz, etc.).
 ETHNICITY_ICH_HINTS: dict[str, list[str]] = {
+    "Hausa": ["hausa", "kano", "durbar"],
     "Uyghur": ["uyghur", "xinjiang", "muqam", "meshrep", "dolan", "turkic"],
     "Kazakh (Xinjiang)": ["kazakh", "xinjiang", "dombra", "kuresi", "aitys"],
     "Kazakh": ["kazakh", "dombra", "kuresi", "aitys", "yurt"],
@@ -673,6 +693,10 @@ def _filter_ich_by_relevance(entries: list[dict], ethnicity: str, country: str =
 # Wikidata's country-of-origin property omits some UNESCO entries tied to
 # these communities. Keep them here so the sidecar does not depend on that field.
 ICH_SUPPLEMENTS: dict[str, list[dict]] = {
+    "Hausa": [
+        {"code": "RL/01895", "title": "Durbar in Kano",
+         "unesco_url": "https://ich.unesco.org/en/RL/durbar-in-kano-01895"},
+    ],
     "Aymara": [
         {"code": "BSP/00299",
          "title": "Safeguarding intangible cultural heritage of Aymara communities in Bolivia, Chile and Peru",
@@ -889,6 +913,10 @@ def fetch_bundle(country: str, ethnicity: str, seed_traditions: list[str] | None
             if ethnicity == "Pende":
                 folkways = [rec for rec in folkways if re.search(
                     r"\b(?:pende|bapende|phende)\b", rec.get("title", ""), re.I,
+                )]
+            if ethnicity == "Hausa":
+                folkways = [rec for rec in folkways if re.search(
+                    r"\b(?:hausa|hausawa|kano|zaria|katsina)\b", rec.get("title", ""), re.I,
                 )]
             bundle["sources"]["folkways"] = folkways
         except Exception as e:
