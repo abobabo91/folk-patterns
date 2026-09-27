@@ -1,0 +1,101 @@
+{
+  "id": "met-312231",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "312231",
+    "object_url": "https://www.metmuseum.org/art/collection/search/312231",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1979.206.255",
+    "accession_year": "1979"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Mali",
+    "ethnicity": "Dogon",
+    "tradition": "Dogon",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The image shows a carved wooden Dogon vessel with ancestral figures, consistent with the claimed culture, but it is not ceramic.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Aduno Koro (Ark of the World) vessel with ancestral figures",
+    "titles_alt": [],
+    "date_text": "16th–19th century",
+    "date_earliest": 1500,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood",
+    "classification": "Wood-Containers",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 21 × W. 20 × D. 93 in. (53.3 × 50.8 × 236.2 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Bandiagara Escarpment, Mali",
+    "made_in_place_alt": [],
+    "current_gallery": "341",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Dogon blacksmith",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q104413237",
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300404114",
+      "http://vocab.getty.edu/page/aat/300250148",
+      "http://vocab.getty.edu/page/aat/300312158"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/mali/dogon/masks-ritual/dogon/images/met_312231.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f439b73054eacbfd6311a1926c6ca1ccc3fbad0791bb4bde26cae009aa585d3b",
+      "bytes": 929424,
+      "local_path": "library\\sub-saharan-africa\\mali\\dogon\\masks-ritual\\dogon\\images\\met_312231.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T22:54:48.706674+00:00"
+}

@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The live and local index has 10 regions, 104 cultures and 6,476 objects through Lobi (2026-09-27). Lobi's 16 new object images are on R2; https://folk-patterns.vercel.app serves its 16 objects and eight editorially reviewed Commons photos.
+**Status:** The index has 10 regions, 105 cultures and 6,546 objects through Dogon (2026-09-27). Dogon adds 70 museum objects and eight independently reviewed Commons photos; its 70 object images are on R2. The site is https://folk-patterns.vercel.app.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,

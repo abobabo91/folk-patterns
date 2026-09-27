@@ -1,0 +1,99 @@
+{
+  "id": "met-310845",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "310845",
+    "object_url": "https://www.metmuseum.org/art/collection/search/310845",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1960",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1978.412.416",
+    "accession_year": "1978"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Mali",
+    "ethnicity": "Dogon",
+    "tradition": "Dogon",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The image shows a carved wooden Dogon staff topped with a female figure, a ritual or ceremonial object made by the claimed people. The arms category is incorrect, but the object fits Dogon material culture as sculpture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Staff: Female Figure",
+    "titles_alt": [],
+    "date_text": "16th–19th century",
+    "date_earliest": 1500,
+    "date_latest": 1897,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 32 1/8 x W. 3 3/4 x D. 15 15/16 in. (81.6 x 9.5 x 40.4 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Mali",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Dogon blacksmith",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025943"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/mali/dogon/sculpture/dogon/images/met_310845.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "69bf07e4ee5bff1c4fa56d04b1b134e9cbc0346679f07de037f504ab59c57259",
+      "bytes": 257120,
+      "local_path": "library\\sub-saharan-africa\\mali\\dogon\\sculpture\\dogon\\images\\met_310845.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T22:55:25.377649+00:00"
+}

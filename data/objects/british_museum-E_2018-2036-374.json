@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2018-2036-374",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2018-2036-374",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2018-2036-374",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2018.2036.374",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Mali",
+    "ethnicity": "Dogon",
+    "tradition": "Dogon",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The image shows a handwoven cotton blanket with indigo-and-white strip construction and a central checkerboard pattern, consistent with Dogon textile production in Mali. It fits the claimed ethnicity and textile category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "blanket",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "blanket",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Blanket; made of cotton. Woven in nine wide strips, hand sewn together. Indigo-dyed hand spun cotton warp. Alternating white and indigo-dyed cotton weft bands, arranged to form central checkerboard design. Loose warp thread fringes at both ends.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/mali/dogon/textile/dogon/images/bm_E_2018_2036_374.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "748747ae08f79779f89d5fa0ae131116897d4d990ab345909f2a51a44336be55",
+      "bytes": 75511,
+      "local_path": "library\\sub-saharan-africa\\mali\\dogon\\textile\\dogon\\images\\bm_E_2018_2036_374.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T22:55:08.240144+00:00"
+}

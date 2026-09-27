@@ -323,13 +323,26 @@ independent image-and-caption review and four were rejected as obscured or
 repetitive. Four general Ghana or Ashanti Smithsonian music links were also
 removed. All 16 library images are on R2.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,463/7,463
-library records judged, 6,569 accepted and 894 dropped. The site index has
-6,476 objects in 104 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,463 images. Selected Armenian and
-Lobi images were also checked against contact sheets and original catalogues.
-Among the 6,569 library keeps, the visual judge marked 6,439 images good,
-128 weak and two unusable; the index excludes the two unusable images. A weak
+For Dogon, the Codex subscription judged 88 world-list candidates and kept 83.
+All 83 images and museum records were inspected; 13 were excluded before loading,
+including a Met pendant attributed to Dogon **or Bozo**, a Cleveland ring marked
+only *Dogon-style*, a separate lock component, and weak or repetitive objects.
+The remaining 70 records were loaded with their verdicts. Two Europeana image
+endpoints served text; their cached thumbnails loaded successfully. The profile
+was rewritten against UNESCO, Met, Smithsonian, British Museum and linguistic
+sources; the seed no longer treats Tellem or bogolan as Dogon traditions. Of 12
+model-accepted Commons images, eight passed separate image-and-caption review.
+A Met sculpture actually attributed to a Soninke blacksmith and a Brooklyn
+Museum piece attributed to Dogon **or Tellem** were rejected, as were two
+photographs without a specific Dogon attribution. Both generated Folkways
+links were unrelated and removed. All 70 library images are on R2.
+
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,533/7,533
+library records judged, 6,639 accepted and 894 dropped. The site index has
+6,546 objects in 105 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,533 images. Selected Armenian,
+Lobi and Dogon images were also checked against contact sheets and catalogues.
+The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
 Commons has two gates: the subscription CLI image judge sets `vetted`; a
@@ -344,7 +357,8 @@ reports the changing Commons counts, including photos waiting for either gate.
 The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
 The same Codex CLI and visual review covered Ainu (12 judged, three published),
-Konyak (three judged, three published), and Lobi (12 judged, eight published).
+Konyak (three judged, three published), Lobi (12 judged, eight published), and
+Dogon (12 judged, eight published).
 Ainu's model positives included
 two 1904 World's Fair exhibition portraits and an outsider painting; the
 second pass rejected them. Konyak's three source images were cached and

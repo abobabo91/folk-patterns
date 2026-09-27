@@ -1,0 +1,102 @@
+{
+  "id": "met-310761",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "310761",
+    "object_url": "https://www.metmuseum.org/art/collection/search/310761",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1969",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1978.412.318",
+    "accession_year": "1978"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Mali",
+    "ethnicity": "Dogon",
+    "tradition": "Dogon",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The image shows a carved Dogon wooden door with an iron lock and rows of human figures, a distinctive architectural object made and used by Dogon peoples in Mali.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Door and Lock: Figures",
+    "titles_alt": [],
+    "date_text": "16th–19th century",
+    "date_earliest": 1500,
+    "date_latest": 1897,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "iron"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, iron",
+    "classification": "Wood-Architectural",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 36 7/16 x W. 23 1/2 x D. 2 3/8 in. (92.6 x 59.7 x 6.1 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Mali",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Dogon blacksmith",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300002803",
+      "http://vocab.getty.edu/page/aat/300025928",
+      "http://vocab.getty.edu/page/aat/300025943"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/mali/dogon/architectural/dogon/images/met_310761.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a4706dfeb0db28b027a9fe71ca000fe9f3915450b4f68ac3914e17f58c03722d",
+      "bytes": 898622,
+      "local_path": "library\\sub-saharan-africa\\mali\\dogon\\architectural\\dogon\\images\\met_310761.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T22:55:15.796296+00:00"
+}
