@@ -48,6 +48,8 @@ def _record(o: dict, cultural: dict, bm_client, http: RateLimitedClient) -> dict
 def load(key: str, region: str, country: str, ethnicity: str) -> int:
     from folk_patterns.museums.british_museum import _client, _in_library
     ranked = json.loads((PICKS / f"{key}.json").read_text(encoding="utf-8"))["ranked"]
+    if any(o["source"] == "bm" for objs in ranked.values() for o in objs) and not os.environ.get("BM_CDP_URL"):
+        raise RuntimeError("BM_CDP_URL is required to load these picks; refusing a partial culture")
     bm_client = _client() if os.environ.get("BM_CDP_URL") else None
     saved = 0
     with RateLimitedClient(min_interval_s=0.3) as http:
@@ -57,7 +59,7 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
                     continue
                 cultural = {"region": region, "country": country, "ethnicity": ethnicity, "tradition": ethnicity,
                             "art_form": af, "pattern_density": 0,
-                            "vision_vetted": True, "vision_by": JUDGE, "vision_reason": o.get("reason"),
+                            "vision_vetted": True, "vision_by": o.get("judge") or JUDGE, "vision_reason": o.get("reason"),
                             "vision_confidence": o.get("confidence"), "vision_image": o.get("image"),
                             "vision_era": o.get("era"), "art_form_vision": af,
                             "pick_quality": o.get("quality"), "pick_featured": o.get("featured")}

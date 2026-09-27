@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-AA_Ladakh-125",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "AA_Ladakh-125",
+    "object_url": "https://www.britishmuseum.org/collection/object/AA_Ladakh-125",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "AA,Ladakh.125",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo shows a seated Tibetan man in traditional dress and cap, with metal cooking vessels and a bundle of belongings nearby on open ground, consistent with Tibetan daily/nomadic life documented photographically.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "negative",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "negative",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Photograph (negative).  Seated Tibetan man at Migpal Yogma. (Roll 12. Neg 5).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/photo/tibetan/images/bm_AA_Ladakh_125.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "70bce7b8a4c2b908cf108fa20c722f934c29c7dda49146f873d2b90ad8cf8095",
+      "bytes": 88650,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\photo\\tibetan\\images\\bm_AA_Ladakh_125.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:56:45.597726+00:00"
+}

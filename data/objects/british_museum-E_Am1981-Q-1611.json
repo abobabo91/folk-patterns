@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1981-Q-1611",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1981-Q-1611",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1981-Q-1611",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1981.Q.1611",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Bolivia",
+    "ethnicity": "Aymara",
+    "tradition": "Aymara",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a reed boat model with bundled reed construction and coiled binding, a traditional Andean watercraft type associated with Aymara/Titicaca basin peoples (like the totora reed boats). This fits as a household/craft item rather than the labeled \"boat model\" category mismatch.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "model; boat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "model; boat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Model, boat made of reed.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/bolivia/aymara/household/aymara/images/bm_E_Am1981_Q_1611.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "461fc4d7c2fbd0a001104d618bd49f833c98c047f549284d12f1cb6b06b43b93",
+      "bytes": 52989,
+      "local_path": "library\\latin-america\\bolivia\\aymara\\household\\aymara\\images\\bm_E_Am1981_Q_1611.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:49:49.827809+00:00"
+}

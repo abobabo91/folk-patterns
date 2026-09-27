@@ -1,0 +1,91 @@
+{
+  "id": "met-24981",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "24981",
+    "object_url": "https://www.metmuseum.org/art/collection/search/24981",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, Arthur Ochs Sulzberger Gift, 2001",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2001.559",
+    "accession_year": "2001"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a lamellar leather-and-iron shoulder/knee armor piece attributed to Tibetan or Mongolian make, consistent with historic Tibetan armor traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Shoulder or Knee Defense",
+    "titles_alt": [],
+    "date_text": "probably 15th–17th century",
+    "date_earliest": 1375,
+    "date_latest": 1725,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Leather",
+      "iron"
+    ],
+    "techniques": [],
+    "medium_raw": "Leather, iron",
+    "classification": "Armor for Man",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 9 in. (22.9 cm); W. 5 1/2 in. (14 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Mongolia",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/arms/tibetan/images/met_24981.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fac74497248789db44593412107e241f238fbc2c992635c3917feb9bb7ee7543",
+      "bytes": 2276821,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\arms\\tibetan\\images\\met_24981.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:56:12.446282+00:00"
+}

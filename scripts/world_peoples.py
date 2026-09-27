@@ -866,6 +866,8 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
     from vet_judge import judge, build_record
     from vet_images import parse_reply
     from folk_patterns.museums.british_museum import _client, _in_library
+    from folk_patterns.codex_cli import MODEL as CODEX_MODEL
+    judge_name = f"pick:codex-{CODEX_MODEL}" if os.getenv("FOLK_LLM_BACKEND") == "codex" else "pick:claude-sonnet-5"
     want = {s.lower() for s in only}
     exclusions = {(x["key"], x["source"], x["id"])
                   for x in json.loads((OUT / "pick_exclusions.json").read_text(encoding="utf-8"))}
@@ -941,19 +943,21 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     reply, err = judge(build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
                                                     d.get("description") or "", d.get("place") or ""),
                                        img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}), extra=PICK_QUALITY)
-                    if err and "hit your limit" in err.lower():
-                        raise SystemExit(f"Claude subscription limit reached while picking {name}: {err}. "
+                    if err and any(word in err.lower() for word in ("hit your limit", "usage limit", "quota", "rate limit")):
+                        raise SystemExit(f"Subscription limit reached while picking {name}: {err}. "
                                          "Rerun after the reset; completed verdicts are cached.")
                     tried += 1
                     cost += ev.get("total_cost_usd") or 0
                     with open(raw, "a", encoding="utf-8") as f:
                         f.write(json.dumps({"key": r["key"], "category": cat, **o, "detail": d, "reply": reply, "error": err,
+                                            "judge": judge_name,
                                             "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
                 q = _quality(reply)
                 ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak") and q >= PICK_QUALITY_MIN
                 if belongs and era not in ("modern", "archaeological") and image in ("good", "weak"):
                     accepted.append({**o, "title": d.get("title"), "image_url": d["image_url"],
+                                     "judge": (hit.get("judge") if hit else judge_name) or "pick:claude-sonnet-5",
                                      "art_form": af if af and af != "unclassified" else cat,
                                      "image": image, "era": era, "quality": q, "confidence": conf, "reason": reason})
                 print(f"  {cat:13s} {o['id']:22s} {'KEEP' if ok else 'drop'} q{q} {af or '-':13s} {image:6s} {era:14s} "

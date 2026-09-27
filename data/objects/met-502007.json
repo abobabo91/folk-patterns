@@ -1,0 +1,88 @@
+{
+  "id": "met-502007",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "502007",
+    "object_url": "https://www.metmuseum.org/art/collection/search/502007",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.1441",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a sgra-snyan (Tibetan long-necked lute) with its characteristic carved scroll head, long fretless neck, and rounded skin-covered body — a traditional Tibetan stringed instrument, consistent with the claim.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Sgra-Snyan",
+    "titles_alt": [],
+    "date_text": "late 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "Chordophone-Lute-plucked-unfretted",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "83cm x 17cm x 10cm",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Tibet",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/instruments/tibetan/images/met_502007.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2c69a92650cb62739e741340831cad5ec2c53ea1e369ea795796fac196966625",
+      "bytes": 383347,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\instruments\\tibetan\\images\\met_502007.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:55:48.884785+00:00"
+}

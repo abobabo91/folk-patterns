@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1972-39-3-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1972-39-3-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-39-3-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1972.39.3.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Kamba",
+    "tradition": "Kamba",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows two wooden drums with skin membranes and hide suspension loops, consistent with traditional East African drum-making and plausible as Kamba instruments.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "drum",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "(Af1972,39.3.a-b) Two wooden drums, with membrane of snake or lizard skin, with suspension loops of cow hide.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kamba/instruments/kamba/images/bm_E_Af1972_39_3_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d4dd1013cd08cbbfcd6fb8c6c97aab31be9dcc2f641f2f1c42859476320c9447",
+      "bytes": 62762,
+      "local_path": "library\\sub-saharan-africa\\kenya\\kamba\\instruments\\kamba\\images\\bm_E_Af1972_39_3_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:39:48.933995+00:00"
+}

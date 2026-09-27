@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a Claude-drafted encyclopedic writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The production site has 10 regions, 93 cultures and 5,861 objects. Gbaya, Igorot, Navajo, Toba and Guna were added from the world list on 2026-09-26. The local index has 95 cultures and 5,994 objects after the next Africa picks, Edo and Bemba; those two are not deployed yet. Bemba's long grounded writeup is present, but the short-format pass hit the Claude subscription limit and must be rerun before deployment. Kamba has a completed pick; Aymara and Tibetan picks stopped partway through when the same limit appeared.
+**Status:** The production site has 10 regions, 98 cultures and 6,213 objects. Edo, Bemba, Kamba, Aymara and Tibetan were added on 2026-09-27, each with a grounded short writeup. The 219 new Kamba, Aymara and Tibetan images are on R2.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -129,15 +129,36 @@ reruns, and `candidates` uses the last row for each people. `pick` also consults
 `data/world/pick_exclusions.json` for museum-attribution errors found by hand.
 
 The next rollout is staged locally: Edo (91 library records, 91 site objects),
-Bemba (42 library records, 40 site objects) and Kamba (77 picked objects, not yet
-onboarded). The Aymara and Tibetan judge runs are incomplete. After the Claude
-subscription resets, run `python scripts/restructure_writeups.py --only Bemba`,
-then resume `world_peoples.py pick --only Q109402 Q187985` with `BM_CDP_URL`
-set. The judge cache retains completed verdicts and ignores the limit errors.
-The picker now exits on that explicit limit instead of continuing to request
-objects. Bemba's seed was corrected to remove Makishi and Mukanda, which
+Bemba (42 library records, 40 site objects), Kamba (77/77), Aymara (66/66),
+and Tibetan (76/76). The Aymara and Tibetan picks finished with the Codex CLI
+subscription. The judge cache retained completed Claude verdicts, and only
+missing objects were judged. Manual image review removed two weak Aymara
+objects, a dead Tibetan image link, and two Met records showing the same armor
+installation misclassified as a photograph and a sculpture. Set
+`BM_CDP_URL=http://127.0.0.1:9226` for British
+Museum images and `FOLK_LLM_BACKEND=codex` to use Codex instead of Claude.
+On PowerShell, set these with `$env:BM_CDP_URL='http://127.0.0.1:9226'` and
+`$env:FOLK_LLM_BACKEND='codex'` before running the scripts. The fallback uses
+`gpt-5.6-luna` at low reasoning effort, an isolated temporary directory, and
+the same judge prompt and image size. A three-image check found the same
+BELONGS and IMAGE answers as Claude, but Codex scored two weak objects one
+point higher; review its new QUALITY 3 objects before onboarding.
+
+Bemba's seed was corrected to remove Makishi and Mukanda, which
 [UNESCO attributes](https://ich.unesco.org/en/RL/makishi-masquerade-00140)
 to Luvale, Chokwe, Luchazi and Mbunda communities.
+The Kamba Wikipedia extract conflates the Kenyan Akamba with Paraguay's Kambá
+Kuá. The Paraguay claim was removed from both Kamba writeups; the raw source
+sidecar remains unchanged. [Paraguay's culture ministry](https://www.cultura.gov.py/wp-content/uploads/2011/08/Sitios_de_memoria_Kambakua_Telesca.pdf)
+describes Kambá Kuá as descendants of the Afro-Uruguayan group that accompanied
+Artigas into Paraguay.
+The Aymara and Tibetan writeups and sidecars were checked against the museums'
+records and UNESCO's pages. UNESCO's Aymara safeguarding programme and three
+Tibetan entries missing from Wikidata's country-of-origin query are added as
+curated ICH references (`src/folk_patterns/media.py`). The site labels these
+records as entries because the Aymara programme is on UNESCO's Register of
+Good Safeguarding Practices, rather than an inscription on the Representative
+List.
 `add_culture.py` now stops before rebuilding the index if grounding, writeup
 generation or short-format restructuring fails; the restructuring script
 reports a failure through its exit code.

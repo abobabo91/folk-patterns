@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1996-34-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1996-34-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1996-34-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1996.34.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A conical felted wool hat with wide brim and cotton trim is a plausible traditional headwear type from the Tibetan plateau region (worn by herders/nomads), consistent with the claimed garment category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "hat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "hat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A man&#039;s (?) hat; conical shaped.  Made from natural cream/brown felted wool with applied brown cordoroy cotton cloth at base of crown and at brim.  Lining of crown mostly missing; red twill woven cotton headband and blue tabby cotton cloth on underside of brim.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/garment/tibetan/images/bm_A_As1996_34_2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bbdb6d5983872e4c509faeef46160adf8eaa34809d05afbb5373ea209b1adabe",
+      "bytes": 61570,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\garment\\tibetan\\images\\bm_A_As1996_34_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:56:18.044721+00:00"
+}

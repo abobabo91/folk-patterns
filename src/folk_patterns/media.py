@@ -85,6 +85,9 @@ COUNTRY_QID: dict[str, str] = {
     "Tajikistan": "Q863",
     "Afghanistan": "Q889",
     "China (Xinjiang)": "Q148",
+    "China (Tibet)": "Q148",
+    # latin-america
+    "Bolivia": "Q750",
     # southeast-asia
     "Indonesia": "Q252",
     "Malaysia": "Q833",
@@ -659,6 +662,35 @@ def _filter_ich_by_relevance(entries: list[dict], ethnicity: str, country: str =
     return kept[:12]
 
 
+# Wikidata's country-of-origin property omits some UNESCO entries tied to
+# these communities. Keep them here so the sidecar does not depend on that field.
+ICH_SUPPLEMENTS: dict[str, list[dict]] = {
+    "Aymara": [
+        {"code": "BSP/00299",
+         "title": "Safeguarding intangible cultural heritage of Aymara communities in Bolivia, Chile and Peru",
+         "unesco_url": "https://ich.unesco.org/en/BSP/safeguarding-intangible-cultural-heritage-of-aymara-communities-in-bolivia-chile-and-peru-00299"},
+    ],
+    "Tibetan": [
+        {"code": "RL/00208", "title": "Tibetan opera",
+         "unesco_url": "https://ich.unesco.org/en/RL/tibetan-opera-00208"},
+        {"code": "RL/00204", "title": "Gesar epic tradition",
+         "unesco_url": "https://ich.unesco.org/en/RL/gesar-epic-tradition-00204"},
+        {"code": "RL/01386", "title": "Lum medicinal bathing of Sowa Rigpa",
+         "unesco_url": "https://ich.unesco.org/en/RL/lum-medicinal-bathing-of-sowa-rigpa-knowledge-and-practices-concerning-life-health-and-illness-prevention-and-treatment-among-the-tibetan-people-in-china-01386"},
+    ],
+}
+
+
+def _with_ich_supplements(entries: list[dict], ethnicity: str) -> list[dict]:
+    seen = {e["code"] for e in entries}
+    out = list(entries)
+    for entry in ICH_SUPPLEMENTS.get(ethnicity, []):
+        if entry["code"] not in seen:
+            out.append(entry)
+            seen.add(entry["code"])
+    return out
+
+
 def unesco_ich_for_country(country: str) -> list[dict]:
     """UNESCO Intangible Cultural Heritage inscriptions with country = X.
 
@@ -732,6 +764,7 @@ COUNTRY_ALIASES: dict[str, list[str]] = {
     "Indonesia": ["Indonesian"],
     "Malaysia": ["Malaysian"],
     "China (Xinjiang)": ["Xinjiang", "Chinese Turkestan"],
+    "China (Tibet)": ["Tibet"],
 }
 
 
@@ -833,9 +866,11 @@ def fetch_bundle(country: str, ethnicity: str, seed_traditions: list[str] | None
     # --- UNESCO ICH (filtered by relevance to this specific ethnicity)
     try:
         raw = unesco_ich_for_country(country)
-        bundle["sources"]["unesco_ich"] = _filter_ich_by_relevance(raw, ethnicity, country)
+        filtered = _filter_ich_by_relevance(raw, ethnicity, country)
     except Exception as e:
         bundle["sources"]["unesco_ich_error"] = str(e)
+        filtered = []
+    bundle["sources"]["unesco_ich"] = _with_ich_supplements(filtered, ethnicity)
 
     # --- Folkways (only if key provided)
     if folkways_api_key:

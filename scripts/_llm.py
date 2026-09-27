@@ -1,12 +1,19 @@
-"""Shared Claude CLI wrapper. Uses the subscription (per global user rules —
-never the paid API without asking). One tiny wrapper so every script that
-calls the LLM uses the same command, model, and error handling."""
+"""Shared subscription CLI wrapper. Claude is the default; set
+FOLK_LLM_BACKEND=codex to use the Codex CLI while Claude is limited.
+No paid inference API is used."""
 from __future__ import annotations
 import subprocess
 import json
+import os
+import sys
+from pathlib import Path
 
 
 def ask(prompt: str, model: str = "claude-opus-5", timeout: int = 600) -> str:
+    if os.getenv("FOLK_LLM_BACKEND") == "codex":
+        sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+        from folk_patterns.codex_cli import ask as codex_ask
+        return codex_ask(prompt, timeout=timeout)
     proc = subprocess.run(
         f"claude --print --model {model}",
         shell=True,

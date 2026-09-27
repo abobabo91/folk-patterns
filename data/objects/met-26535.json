@@ -1,0 +1,95 @@
+{
+  "id": "met-26535",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "26535",
+    "object_url": "https://www.metmuseum.org/art/collection/search/26535",
+    "iiif_manifest": null,
+    "credit_line": "Bequest of George C. Stone, 1935",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "36.25.1460",
+    "accession_year": "1936"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a straight-bladed sword with a wrapped grip and pommel, consistent with Eastern Tibetan sword-making traditions using iron, wood, and ray skin as described in the metadata.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Sword",
+    "titles_alt": [],
+    "date_text": "18th–19th century",
+    "date_earliest": 1701,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Iron",
+      "wood",
+      "silver",
+      "copper alloy",
+      "ray skin",
+      "leather"
+    ],
+    "techniques": [],
+    "medium_raw": "Iron, wood, silver, copper alloy, ray skin, leather",
+    "classification": "Swords",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 38 1/2 in. (97.5 cm); L. of blade 32 3/8 in. (82.2 cm); W. 3 in. (7.6 cm); D. 3 1/4 in. (8.3 cm); Wt. 2 lb. 6 oz. (1077.3 g)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Eastern Tibet, Tibet",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/arms/tibetan/images/met_26535.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "5367fecd97e93998a1c59800736fb750ac92a90b4eaa1554c9c38730bb20e5e9",
+      "bytes": 469871,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\arms\\tibetan\\images\\met_26535.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:55:58.075647+00:00"
+}

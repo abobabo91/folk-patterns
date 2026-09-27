@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-AA_Ladakh-75",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "AA_Ladakh-75",
+    "object_url": "https://www.britishmuseum.org/collection/object/AA_Ladakh-75",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "AA,Ladakh.75",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a Tibetan woman in traditional dress standing in a stark highland landscape near stone structures, consistent with documentary photography of Tibetan daily life in the Aksai Chin region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "negative",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "negative",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Photograph (negative).A Tibetan woman with raised arms in an unknown location, somewhere in the Aksai Chin (possibly Kugal).  (Roll 7. Neg 10).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/photo/tibetan/images/bm_AA_Ladakh_75.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7bd36cfac1fe316d2b63dd1170afd6ba4f0a4a83ffa7995a0007280a5d996a9e",
+      "bytes": 79117,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\photo\\tibetan\\images\\bm_AA_Ladakh_75.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:56:46.749901+00:00"
+}

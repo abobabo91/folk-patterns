@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1991-07-10-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1991-07-10-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1991-07-10-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1991.07.10.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Kamba",
+    "tradition": "Kamba",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The picture shows a hide milk/honey container seated in a woven basketry carrier, a plausible traditional Kamba (East African pastoralist) household vessel; though the museum notes it is hide, not fired clay, it is still a made and used container object for the claimed people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "milk-container; drinking-vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "milk-container; drinking-vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bulbous, tandu-ware milk- or honey-container (a) of brown hide, ornamented at neck with three bands of stitching. Seated in loose-woven basketry container of vegetable fibre with loop of rope incorporating strand of green and red textile. Separate stopper (b) of hide, hollow to form drinking vessel, with flat top incised with cross with flared ends.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kamba/household/kamba/images/bm_E_Af1991_07_10_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d25586b55a687d54e18c8fa4046472709382769c6eecc926f37718de3320b826",
+      "bytes": 62261,
+      "local_path": "library\\sub-saharan-africa\\kenya\\kamba\\household\\kamba\\images\\bm_E_Af1991_07_10_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:39:15.241408+00:00"
+}

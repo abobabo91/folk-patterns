@@ -1,0 +1,91 @@
+{
+  "id": "met-26625",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "26625",
+    "object_url": "https://www.metmuseum.org/art/collection/search/26625",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, Edward C. Dittus Gift, 1999",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1999.32",
+    "accession_year": "1999"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a gold-inlaid iron whistling arrowhead of a broad, leaf-shaped type historically made and used by Tibetans (and neighboring Chinese/Central Asian traditions), consistent with the claimed ethnicity and arms category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Whistling Arrowhead",
+    "titles_alt": [],
+    "date_text": "17th–18th century",
+    "date_earliest": 1601,
+    "date_latest": 1800,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Iron",
+      "gold"
+    ],
+    "techniques": [],
+    "medium_raw": "Iron, gold",
+    "classification": "Archery Equipment-Arrowheads",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 6 1/2 in. (16.5 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Tibet",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/arms/tibetan/images/met_26625.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c8a703718e89172d605ef30cc7819eacfbc257bb98a0ec4f910c00ddc51333fd",
+      "bytes": 1031447,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\arms\\tibetan\\images\\met_26625.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:55:56.941428+00:00"
+}

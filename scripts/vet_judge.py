@@ -1,7 +1,8 @@
 """The image judge: its prompt and the one CLI call. Standard library only, so
 the cloud batch helper (scripts/cloud_vet_batch.py) imports it with no setup;
 the local vetter (scripts/vet_images.py) imports it too, so both send
-byte-identical calls.
+byte-identical Claude calls. Set FOLK_LLM_BACKEND=codex for a subscription
+fallback with the same rules and reduced image.
 
 A call is one bare `claude --print`: no tools, no MCP servers, no user
 settings, run from a temporary directory so no CLAUDE.md is picked up. The
@@ -16,8 +17,10 @@ from __future__ import annotations
 import base64
 import io
 import json
+import os
 import shutil
 import subprocess
+import sys
 import tempfile
 import time
 from pathlib import Path
@@ -138,6 +141,22 @@ def judge(record_text: str, image: bytes, timeout: int = 180,
     prompt (world_peoples.py pick adds a QUALITY line); the library's own
     vetting passes nothing."""
     data = downscale(image)
+    if os.getenv("FOLK_LLM_BACKEND") == "codex":
+        # Keep the Claude/cloud implementation above and below untouched. The
+        # subscription CLI receives the same rules, record and resized image.
+        sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+        from folk_patterns.codex_cli import ask
+        t0 = time.time()
+        try:
+            reply = ask(SYSTEM_PROMPT + "\n" + extra + "\n" + record_text,
+                        image=data, timeout=timeout)
+            err = "" if "BELONGS:" in reply else "missing BELONGS verdict"
+        except Exception as exc:
+            reply, err = "", " ".join(str(exc).split())[:300]
+        if on_attempt:
+            on_attempt(0, round(time.time() - t0, 1),
+                       {"result": reply, "total_cost_usd": 0} if reply else None, err)
+        return (reply, "") if not err else ("", err)
     msg = json.dumps({"type": "user", "message": {"role": "user", "content": [
         {"type": "text", "text": record_text},
         {"type": "image", "source": {"type": "base64", "media_type": _media_type(data),

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_2005-0108-0-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_2005-0108-0-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_2005-0108-0-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,2005.0108.0.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a printed paper strip with Tibetan-script text, used as an insert for a prayer wheel—a devotional object made and used by Tibetans.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "document (insert for prayer wheel)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "document (insert for prayer wheel)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Text for a prayer wheel. A series ten of slips of paper (three glued end-on-end to form a continuous strip). Printed horizontally with six-lines of Sanskrit in Tibetan characters. Rolled.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/painting-mss/tibetan/images/bm_A_2005_0108_0_2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8f0f3f8c1927a962987c912a42bfdd06e7a464af866648523b333074fa1b1803",
+      "bytes": 191486,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\painting-mss\\tibetan\\images\\bm_A_2005_0108_0_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:56:39.736233+00:00"
+}

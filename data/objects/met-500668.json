@@ -1,0 +1,90 @@
+{
+  "id": "met-500668",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "500668",
+    "object_url": "https://www.metmuseum.org/art/collection/search/500668",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.108",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "These are copper rkangling (kangling) trumpets with elaborate makara/dragon-headed bells, a classic Tibetan Buddhist ritual instrument used in monastic ceremonies, matching the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Rkangling",
+    "titles_alt": [],
+    "date_text": "late 19th century",
+    "date_earliest": 1880,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Copper"
+    ],
+    "techniques": [],
+    "medium_raw": "Copper",
+    "classification": "Aerophone-Lip Vibrated-trumpet / trombone",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "16 1/4 × 2 3/4 × 3 3/8 in. (41.3 × 7 × 8.6 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Tibet",
+    "made_in_place_alt": [],
+    "current_gallery": "684",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q116412653",
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/instruments/tibetan/images/met_500668.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0db17f2585189d72ab33fb5ce99253ab8a3867538ef6b1deebebcaa72f265d93",
+      "bytes": 1366285,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\instruments\\tibetan\\images\\met_500668.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:55:46.328644+00:00"
+}

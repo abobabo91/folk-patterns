@@ -19,7 +19,8 @@ The library is fully vetted (5,346 records, 2026-09-24) and the site is built on
 
 Next, in order ([docs/vetting.md → Next steps](docs/vetting.md#next-steps)):
 
-- **New cultures come from the world list, already vetted:** `world_peoples.py pick` judges up to 10 objects per category (with a QUALITY 1-5 score), then `add_culture.py --from-picks <wikidata key>` writes them into the library with their verdicts, drafts the seed, the writeup, and rebuilds the index. The production site has 93 cultures in 10 regions after Gbaya, Igorot, Navajo, Toba and Guna; the local index also includes staged Edo and Bemba (95 cultures). Bemba still needs its short writeup after the Claude subscription reset. The scrape path of `add_culture.py` / `scrape_all.py` still has no vetter: after a scrape, run `python scripts/vet_images.py --target library` — `build_index.py` keeps unjudged records.
+- **New cultures come from the world list, already vetted:** `world_peoples.py pick` judges up to 10 objects per category (with a QUALITY 1-5 score), then `add_culture.py --from-picks <wikidata key>` writes them into the library with their verdicts, drafts the seed, the writeup, and rebuilds the index. The production site has 98 cultures in 10 regions and 6,213 objects after Edo, Bemba, Kamba, Aymara and Tibetan. The scrape path of `add_culture.py` / `scrape_all.py` still has no vetter: after a scrape, run `python scripts/vet_images.py --target library` — `build_index.py` keeps unjudged records.
+- **Codex subscription fallback:** Set `FOLK_LLM_BACKEND=codex` to run the seed, writeup, short rewrite and world pick judge through `codex exec` with `gpt-5.6-luna`, low reasoning effort, and no paid inference API. The original Claude cache is reused. Review Codex QUALITY 3 picks before onboarding: a three-image calibration matched BELONGS and IMAGE but gave two weak objects one extra quality point. Always set `BM_CDP_URL` when loading or picking British Museum records; `_load_picks.py` now refuses a partial load without it.
 - **Country fallback is explicit:** `majority_ethnicity` routes country-only museum records, so leave it null for a newly added minority culture. `add_culture.py` no longer sets it to the first culture automatically.
 - Thin cultures the BM facet cannot fill (Qashqai, Sidama, Pamiri, Oromo, Yakan, Karakalpak, Afar, Cham, Hazara): Cleveland, V&A and Met, the sources with 3–8% drops.
 - **Do NOT add new cultures by scraping** until the vetter is wired into that path; add them with `--from-picks`. Armenian and Shan are candidates with good objects already waiting in the drops.
@@ -67,8 +68,9 @@ drafts the region seed) before step 1 (the ethnicity seed).
 - **Do NOT create a new `scripts/scrape_*.py`** unless you're wiring a new
   museum. The 5 that exist cover Met, V&A, Rijks, Smithsonian, Cleveland,
   British Museum, Europeana, Wikimedia Commons.
-- **Do NOT use the paid Anthropic API.** All LLM calls go through
-  `claude --print` per the user's global rules. See `scripts/_llm.py`.
+- **Do NOT use paid inference APIs.** LLM calls go through the Claude CLI by
+  default, or the Codex CLI subscription with `FOLK_LLM_BACKEND=codex`.
+  See `scripts/_llm.py` and `src/folk_patterns/codex_cli.py`.
 
 ## Directory layout (only what matters)
 

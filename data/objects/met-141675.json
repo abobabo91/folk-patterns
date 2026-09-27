@@ -1,0 +1,95 @@
+{
+  "id": "met-141675",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "141675",
+    "object_url": "https://www.metmuseum.org/art/collection/search/141675",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Muriel Kallis Newman, 2008",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2008.190.230",
+    "accession_year": "2008"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a Tibetan-style necklace with dzi-patterned beads, coral, turquoise, and a silver gau-like triangular pendant with coral centerpiece — consistent with traditional Tibetan jewelry.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Necklace",
+    "titles_alt": [],
+    "date_text": "probably 19th century",
+    "date_earliest": 1775,
+    "date_latest": 1925,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "glass",
+      "turquoise",
+      "metal",
+      "coral",
+      "stone",
+      "cotton"
+    ],
+    "techniques": [],
+    "medium_raw": "glass, turquoise, metal, coral, stone, cotton",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "[{'elementName': 'Length', 'elementDescription': None, 'elementMeasurements': {'Height': 1.9050038, 'Length': 29.210058, 'Width': 7.620015}}]",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Tibetan",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/jewelry/tibetan/images/met_141675.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6ab837fc774f9457c40e64c7fca8f5caaee231726dcb088e745aa79fdc7370ab",
+      "bytes": 35056,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\jewelry\\tibetan\\images\\met_141675.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:55:43.330230+00:00"
+}

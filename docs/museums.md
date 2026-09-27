@@ -161,8 +161,8 @@ The five were onboarded after checking ambiguous attributions. Three Navajo
 records also named Hopi or other makers, a Toba pipe was attributed to Mataco
 or Toba, and a Guna calabash was labeled Chocó with multiple people tags. Those
 five IDs are in `data/world/pick_exclusions.json`, so rerunning the judge does
-not restore them from its cache. The live site has 93 culture points and 5,861
-objects after this addition.
+not restore them from its cache. After the subsequent Edo, Bemba, Kamba,
+Aymara and Tibetan rollout, the live site has 98 culture points and 6,213 objects.
 
 The next Africa pass found the same issue in the British Museum data: two
 photographs under Bemba were explicitly labeled Aushi, and a photographic

@@ -219,6 +219,61 @@
           }
         }
       ]
+    },
+    {
+      "country": "China (Tibet)",
+      "met_queries": [
+        "Tibet",
+        "Tibetan"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Tibetan",
+          "homeland": {
+            "lat": 29.65,
+            "lon": 91.13
+          },
+          "homeland_place": "Lhasa",
+          "traditions": [
+            "chuba",
+            "shamthab",
+            "pangden",
+            "perak",
+            "thangka",
+            "tsakli",
+            "khata",
+            "dzi bead",
+            "ga'u",
+            "turquoise inlay",
+            "coral jewelry",
+            "Tibetan carpet",
+            "Tibetan brocade",
+            "torma",
+            "butter sculpture",
+            "dranyen"
+          ],
+          "arch_commons_categories": [
+            "Tibetan architecture",
+            "Architecture of Tibet",
+            "Tibetan Buddhist monasteries",
+            "Monasteries in Tibet",
+            "Potala Palace",
+            "Jokhang Temple",
+            "Norbulingka",
+            "Tashilhunpo Monastery"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Tibetan",
+              "Tibet",
+              "Tibetan people",
+              "Xizang"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

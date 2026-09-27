@@ -65,6 +65,7 @@ def main() -> None:
 
     CONTENT_DIR.mkdir(exist_ok=True)
 
+    failures = []
     for region_slug in regions:
         seed = load_seed(region_slug)
         region = seed["region"]
@@ -87,10 +88,13 @@ def main() -> None:
                     md = generate_writeup(country, ethnicity, region, eth["traditions"], wiki=wiki, ich=ich)
                 except Exception as e:
                     print(f"  ! failed: {e}", flush=True)
+                    failures.append(f"{region} / {country} / {ethnicity}")
                     continue
                 out_path.parent.mkdir(parents=True, exist_ok=True)
                 out_path.write_text(md, encoding="utf-8")
                 print(f"  -> wrote {out_path.relative_to(REPO_ROOT)}  ({len(md)} chars)", flush=True)
+    if failures:
+        raise SystemExit(f"Writeup generation failed for {len(failures)} cultures: {', '.join(failures)}")
 
 
 if __name__ == "__main__":

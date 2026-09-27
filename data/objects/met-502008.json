@@ -1,0 +1,91 @@
+{
+  "id": "met-502008",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "502008",
+    "object_url": "https://www.metmuseum.org/art/collection/search/502008",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.1442",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a rgya-gling, a Tibetan Buddhist ritual shawm made of copper and inlaid turquoise, matching the claimed ethnicity and category exactly.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Rgya-Gling",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Copper",
+      "turquoise"
+    ],
+    "techniques": [],
+    "medium_raw": "Copper, turquoise",
+    "classification": "Aerophone-Reed Vibrated-double reed",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 24 × Diam. 3 3/16 in. (61 × 8.1 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Tibet",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/instruments/tibetan/images/met_502008.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "14a93914bb24039d5f05ebeccd6ee6da6aeb2a9aec92e5fd9823989588d21a6b",
+      "bytes": 885264,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\instruments\\tibetan\\images\\met_502008.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:55:47.731168+00:00"
+}

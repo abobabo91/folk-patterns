@@ -213,6 +213,32 @@ Most drops are not misfiles: 283 name no people at all, and of the rest the larg
 
 ## Next steps
 
+### Codex CLI subscription fallback (2026-09-27)
+
+When Claude is at its subscription limit, set `FOLK_LLM_BACKEND=codex` before
+`world_peoples.py pick`, `add_culture.py --from-picks`, or the writeup scripts.
+The Codex branch sends the same judge rules, record metadata and image reduced
+to 1024 pixels via `codex exec -i`, using `gpt-5.6-luna` at low reasoning effort.
+Each call runs in an empty temporary directory, without user MCP configuration,
+and no paid inference API. The raw pick cache is shared: existing Claude
+verdicts are reused, while new rows and library records identify the judge.
+The short writeup branch uses the same JSON shape and the existing audit.
+
+On three previously judged Europeana images, Codex matched Claude's BELONGS
+and IMAGE verdicts (3/3). It matched the basket's QUALITY 4, but rated plain
+recycled-tire sandals 3 instead of 2 and dye bark 2 instead of 1. Review new
+Codex QUALITY 3 records by eye before onboarding. This is a small calibration,
+so it does not establish equivalence over other categories or peoples. The
+responses are saved locally in ignored `work/codex-vet-calibration.jsonl`.
+
+On Aymara and Tibetan, 24 previously uncached candidates were judged through
+Codex. After visually checking the accepted new picks and the source records,
+five were excluded: a plain bowl and miniature bricks rated QUALITY 3, a
+Tibetan caravan photograph whose image URL returned 404, and two Met records
+with the same armor-installation image misclassified as a photograph and a
+sculpture. The exclusions are recorded in
+`data/world/pick_exclusions.json` so future pick runs retain the corrections.
+
 The full re-vet is done: on 2026-09-24 every one of the 4,625 records then in the library carried a verdict from the current prompt — 3,755 kept, 870 dropped (19%); IMAGE good 4,428 / weak 141 / unusable 56; ERA traditional 3,556 / modern 579 / archaeological 490. The run: [cloud-vetting.md](cloud-vetting.md#full-run--2026-09-24). `build_index.py` treats the verdict as final for every source, and drops that belong to another culture are re-filed (above).
 
 1. **Wire the vetter into `add_culture.py` / `scrape_all.py`** so new material arrives judged. Until then, after any scrape run `python scripts/vet_images.py --target library` — `build_index.py` keeps records that have no verdict yet.

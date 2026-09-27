@@ -1,0 +1,94 @@
+{
+  "id": "met-27746",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "27746",
+    "object_url": "https://www.metmuseum.org/art/collection/search/27746",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Steven Kossak, The Kronos Collections, 2005",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2005.41",
+    "accession_year": "2005"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a gilt-iron pommel plate from a Tibetan saddle, finely worked with dragon and mask motifs, a traditional equestrian fitting used by Tibetans. It clearly fits the claimed culture as a genuine made and used object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Pommel Plate from a Saddle",
+    "titles_alt": [],
+    "date_text": "17th–19th century",
+    "date_earliest": 1601,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Iron",
+      "gold"
+    ],
+    "techniques": [],
+    "medium_raw": "Iron, gold",
+    "classification": "Equestrian Equipment-Saddles",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 12 1/2 in. (31.8 cm); W. 14 3/8 in. (36.5 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Tibet",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300262834",
+      "http://vocab.getty.edu/page/aat/300375726"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/metalwork/tibetan/images/met_27746.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "54915af7c61c22cbc7b73799f59f1e3d0e3a66920b0c70e8005e1de8ab91a063",
+      "bytes": 2160712,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\metalwork\\tibetan\\images\\met_27746.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:56:24.206497+00:00"
+}

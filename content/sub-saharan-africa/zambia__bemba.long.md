@@ -1,0 +1,90 @@
+---
+title: "Bemba"
+subtitle: "Zambia"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Bemba (*AbaBemba*) are a Bantu-speaking people of northeastern Zambia, concentrated in Northern, Muchinga, Luapula and northern Central Provinces — the high, thin-soiled *miombo* woodland plateau between Lake Tanganyika, Lake Mweru, the Bangweulu swamps and the Muchinga Escarpment, drained by the Chambeshi and Luapula rivers. They crossed the Luapula from Kola before 1740, migrating out of the Luba orbit; Audrey Richards counted them at 250,000 in 1963, living in villages of 100–200 people, and today several million Zambians speak Ichibemba, which spread as a mine-compound lingua franca on the Copperbelt from the 1930s. They matter in folk-culture terms for two things above all: *chitemene*, the ash-mound shifting cultivation Richards made famous, and *imbusa* — the painted clay and modelled emblems of women's initiation, one of the most fully documented ritual art corpora in Central Africa.
+
+## Material culture
+
+### Textile & pattern traditions
+
+Bemba material culture is not loom-centred. The plateau had no cotton weaving tradition of its own; cloth was barkcloth, imported trade cloth, or — for pattern-bearing surfaces — clay, basketry, and the painted wall. The pattern traditions below are therefore where Bemba design actually lives.
+
+**Mbusa** — the modelled and painted emblems of the *chisungu* girls' initiation: unfired clay figurines, pots, moulded wall reliefs and arrangements of bark, beans and beads, each keyed to a song and a teaching. Richards recorded over forty distinct *mbusa* in a single 1931 rite. Unlike the durable masks of Luba or Chokwe neighbours, most *mbusa* are made for one rite and destroyed or left to dissolve — the design is carried in the women's memory, not the object.
+
+**Icimpampa** — barkcloth beaten from the inner bark of *mutaba* and related figs, softened with water and a grooved wooden mallet; worn as a loincloth and skirt before trade cotton displaced it, and retained in initiation contexts where the older material is ritually correct.
+
+**Icipe** — coiled and twilled basketry in split *milanda* cane and bark strip, made in graded sizes for winnowing millet, straining beer and storing relish; the twill step produces stepped chevron bands in natural and dark-dyed strand.
+
+**Chitenge** — the two-metre printed cotton wrapper, worn as skirt, back-sling for an infant, and headcloth. Bemba wearers read the prints as legible statements: factory designs carry Ichibemba proverb captions, and specific cloths are bought for funerals, church, and *banacimbusa* gatherings.
+
+**Ubulungu** — beadwork: waist strings given at initiation and worn under the wrapper, plus beaded belts and neck cords. Glass beads reached the plateau on the Indian Ocean–Upemba trade that also brought cowries; the older prestige counterpart is the *mpande*, a ground disc of *Conus* shell worn on the brow or chest as a chiefly insignia.
+
+**Motif vocabulary.** *Ing'wena* / *ing'andu* (crocodile — the Bena Ng'andu royal totem), *inchele* (chevron/zigzag, water and snake), concentric *mpande* spiral, *inkoko* (hen, and by extension the initiate's seclusion), *cifimbo* (the coiled python of the *chisungu* floor design), *insoke* (bee/honeycomb lozenge), *imbwa* (dog, hunting), stepped twill banding on *icipe*, cross-hatched incision on beer pots, and red–white–black tricolour keyed to *mukundu* ochre, kaolin and charcoal.
+
+### Clothing & dress
+
+Everyday women's dress is the *chitenge* wrapper — one at the waist, often a second over the shoulder and a third as headtie — over a blouse, with an infant carried in a back-slung cloth. Older women wear the *icitambala* headcloth tied so the crown is fully covered, a mark of married propriety; an unmarried girl going bareheaded is read differently. Men wear shirt and trousers, with the *chitenge* worn only at ceremonies. Ceremonial dress diverges sharply. A *chisungu* initiate is smeared with *mukundu* red ochre and secluded in barkcloth or a plain dark wrapper, then emerges whitened with kaolin, beaded, oiled and newly clothed — the change of cloth *is* the change of status. *Banacimbusa*, the senior women who teach *imbusa*, wear matched wrappers and headcloths as a visible cohort at weddings. Chiefly regalia under the Chitimukulu centres on the *mpande* shell disc, leopard or civet skin, beaded bandolier and a fly-whisk or ceremonial axe; the *babenye* relics kept at the Chitimukulu's palace — including four Christian statues obtained from Kongo-kingdom missionaries — are themselves the deepest layer of court paraphernalia.
+
+### Architecture
+
+The Bemba village (*umushi*) is a cluster of round houses around a swept plaza, resited every few years as *chitemene* gardens move. The dwelling is a *insanzu*-framed round hut: a ring of poles set in the ground, withy-laced, daubed with puddled anthill clay, and capped with a separately built conical grass roof lifted on and lashed down — *insaka* thatch tied in courses from the eave up. Interior and exterior walls are finished in ochre, white kaolin and charcoal washes, and during *chisungu* the seclusion hut's walls carry modelled clay *mbusa* reliefs. Two named structures define village life. The *insaka* is the open round shelter — roof on posts, no walls — that serves as men's forum, courtroom, workshop and guest lodging; Mukuka names *insaka* and *ifibwanse* as the Bemba institutions of boys' and girls' education that Western schools displaced. The *imiputu* granary stands on a raised plinth or short legs with a removable thatch cap, plastered against rodents, holding the finger millet on which the year depends. Chiefly capitals add a palisade, a spirit house for royal relics, and the *musumba*-style layout inherited from Luba precedent.
+
+### Ceramics, metalwork & everyday objects
+
+Pottery is women's work and hand-built by coil-and-pinch, scraped, burnished with a pebble, incised in cross-hatch and chevron bands below the rim, and open-fired in a grass bonfire. The functional core is the *ubwalwa* beer pot — wide-mouthed, for finger-millet beer — plus the narrow-necked water pot and the round relish-cooking pot. Ritual ceramics are separate: the *mbusa* pots of *chisungu* are modelled with lugs, faces and applied figures and are not for use. Woodwork is men's: the *icipuna* / *insakwa* low carved stool cut from a single block, mortars and pestles for pounding millet, grooved barkcloth mallets, and the *ubwato* dugout canoe adzed from a single trunk for the Luapula and Bangweulu waters. Ironworking is ancestral to the whole Upemba lineage — bloomery smelting in clay shaft furnaces, then smithing of hoes, axes, spears and the *ubuta* bow with iron-tipped arrows; the smith's craft carried ritual restriction and the hoe doubled as bridewealth currency.
+
+### Jewelry & body adornment
+
+The *mpande*, a disc ground from the base of a large *Conus* shell and polished to show its spiral, is the highest-status Bemba ornament — a chiefly and titled-elder emblem, traded inland over enormous distances and, before glass beads, the region's premium valuable. Below it: glass-bead necklaces, wrist and ankle strings, and the *ubulungu* waist beads given to an initiate and worn thereafter under clothing. Copper — the metal the plateau's economy was later rebuilt on — was drawn into wire bangles and anklets. Body treatment is ritual rather than permanent: *mukundu* red ochre mixed with oil rubbed on the initiate and the bride, kaolin whitening for emergence and for spirit-mediumship, and charcoal. Scarification in raised keloid dots and lines across belly, shoulders and cheeks was practised historically, and head-shaving marks both the start of seclusion and mourning.
+
+## Music & performance
+
+Bemba music is drum- and voice-led, with responsorial singing over a hand-drum battery. The core instruments are the single-headed laced or pegged drum (*ing'oma*) in graded sizes, the friction and cylindrical drums used at chiefly ceremonies, the *kalimba* / *insimbi* lamellophone — iron tongues on a wooden board or gourd resonator, the classic Zambian plateau instrument — plus struck axe-blade and iron bells, gourd rattles (*inseba*) and ankle rattles, hand-clapping and the notched scraper. Musical bows and one-string fiddles circulate from neighbouring Lungu and Mambwe practice.
+
+Genres are tied to occasion, not concert. *Imbusa* songs are the largest named repertoire: hundreds of short, cryptic verses sung by *banacimbusa* to the initiate, each attached to a modelled emblem, and Richards's 1956 *Chisungu* prints their texts. Hunters have their own praise and return songs; the *ubwalwa* beer party generates work and drinking songs; funerals and the end of mourning have fixed repertoires; and royal drumming at the Chitimukulu's court is played by designated drummers with a restricted repertoire. Richards singles out Bemba "great polish of speech" and formal courtesy — praise oratory at court is a performance genre in its own right. From the 1930s the Copperbelt mine compounds produced the urban dance-society repertoires that carried Bemba song into Zambian popular music, and Bemba remains the dominant language of Zambian *kalindula* and gospel recording.
+
+## Dance & theatre
+
+Bemba dance is participatory and occasion-specific rather than theatrical; there is no mask-drama or puppet tradition comparable to West or Central African neighbours. **Kalela** is the best-documented named form: the urban Copperbelt dance society studied by J. Clyde Mitchell in the 1950s, in which men of one ethnic origin danced in immaculate European dress — pressed trousers, jacket, shirt, shoes — singing commentary in Bemba on town life, wages and rival tribes; it is a dance about being a Bemba in a colonial mining town, and its "costume" is the point. **Chisungu dancing** is the closed counterpart: women's dances inside the initiation enclosure, including the mimed sequences performed over the painted floor design and the lying-down figures that enact sexual and domestic teaching, danced only before women who have themselves been initiated. Village occasions carry their own dances — hunting return, chiefly arrival and the *ukwingisha* bride-conducting sequence — and *ing'oma* drumming at a chief's installation has fixed step patterns performed by titled dancers.
+
+## Festivals & rituals
+
+The Bemba year follows the *chitemene* cycle rather than a fixed calendar: tree-lopping in the dry season (May–August), burning the stacked branches just before the rains, sowing finger millet and *kalundwe* cassava on the ash circle with the first rains (November), then the hungry months before harvest. Ritual punctuation comes from the chief: the Chitimukulu's *ukupyanika* succession rites, the tending of the *babenye* royal relics, and first-fruits observance that gates when new millet may be eaten. The major revived public festival is the Bemba royal ceremony held at the Chitimukulu's capital in Mungwi district, where subordinate chiefs pay homage with drumming and processional dance.
+
+Life-cycle rites carry the real weight. **Chisungu** is the girls' puberty seclusion — weeks inside a hut under the *banacimbusa*, working through the *mbusa* emblems, songs, floor designs and ordeals, ending in whitening, new cloth and public emergence as a marriageable woman. **Imbusa** proper is the months-long pre-marital instruction — emblems, songs, dances and pottery — through which a bride is prepared and which binds her into the cohort of initiated women. Marriage is uxorilocal in the older pattern: the groom performed bride-service in his wife's mother's village, matching a matrilineal system in which a woman could be *cibinda wa ng'anda*, householder and landholder, and inheritance ran through the sister's son. Funerals involve head-shaving, communal wailing, burial by lineage kin, and a later purification and mourning-release rite; a chief's death triggers a separate sequence of relic handling and succession.
+
+## Foodways
+
+The meal is *ubwali* — a stiff porridge of finger millet (*amale*) or, increasingly, maize meal, cooked to a firm mass, broken off by hand and dipped. Without *ubwali* there has been no meal, however much else is eaten; the accompaniment is *umunani*, relish, and the pairing structures every Bemba plate. Relishes: dried and fresh fish from the Bangweulu swamps and the Luapula (the Upemba dried-fish trade is ancestral to the whole lineage), *ifisashi* — pounded groundnuts cooked with greens, cassava, pumpkin or sweet-potato leaves — mushrooms gathered in enormous named variety from the *miombo* woodland, caterpillars (*ifinkubala*), termites taken at the swarming, goat and chicken for guests, and wild game where hunting persists. Salt was a trade good and is used sparingly; groundnut, palm oil and pounded pumpkin seed carry the fat. Cassava (*manioc*) shares staple status with millet, grated, soaked, dried and pounded into meal, its leaves used as greens.
+
+Drink is the ceremonial centre: *ubwalwa*, finger-millet beer, germinated and pounded, boiled, fermented a few days and drunk actively fermenting from a shared *ubwalwa* pot with gourd dippers. Beer is obligatory at weddings, funerals, work parties and tribute to a chief; brewing is women's work and a brewing calendar governs when a work party can be called. *Katata* / *munkoyo* — the sweet, lightly fermented root drink — is the non-alcoholic counterpart served to all ages.
+
+## Oral tradition & literature
+
+Bemba verbal art runs to *inshimi* (folktales, often animal-trickster cycles told at night by women and elders at the fire), *ishimi* praise recitation, *ifikute* / *ifilyashi* riddles posed in fixed exchange, and *amapinda* proverbs, which pattern ordinary speech to the degree Richards noted as "great polish of speech." The royal charter narrative is the Luba departure story — Mumbi Lyulu Mukasa of the Bena Ng'andu and her sons Nkole and Chiti, the flight from King Mukulumpe, the Luapula crossing, and the omen at the Milando River that fixed the first capital at Ng'wena — recited as dynastic history and written down by Bemba authors themselves in Tanguy's *Imilandu ya Babemba* (1948) and Mushindo's *A Short History of the Bemba* (1977).
+
+That self-documentation is the striking feature. Mukuka counts over twenty Bemba factual novels written as a response to colonial amalgamation, asking "who are we in Northern Rhodesia?" — the best-known author being Simon Mwansa Kapwepwe, whose *Shalapo Canicandala* is read as a statement of Bemba *ubuntu* ethics. The *imbusa* song corpus is oral literature in its own right, transmitted only through initiation, and the Chitimukulu Kanyanta-manga II's 2016 essay "The Illusive Role of the Chitimukulu" continues the tradition of Bemba writing about Bemba institutions from the inside.
+
+## Language & religion
+
+Ichibemba is a Bantu language (Niger-Congo, Zone M) closely related to Kaonde, Luba, Nsenga and Chewa, and to the Katanga dialect of Swahili; Lala, Bisa, Aushi, Ng'umbo and Chishinga speech forms are close enough that Bemba identity has expanded to absorb them, a process Katanekwa attributes to Bemba's role as a Sabi trade lingua franca. It is written in Latin script, standardised by mission orthography, and is one of Zambia's seven official regional languages. Most Bemba are Christian — the White Fathers' Catholic mission network in the Northern Province from the 1890s was exceptionally dense, alongside Free Church and later Pentecostal congregations. Older practice persists alongside it: *imipashi*, ancestral guardian spirits that are named into newborns and consulted through mediums, *ngulu* nature-spirit possession, *Lesa* as high god, and the chief's ritual custody of the *babenye* relics as the land's link to the ancestors. Accusations of *ubuloshi* (witchcraft) and the work of diviner-healers (*ing'anga*) remain live social facts.
+
+## Sources & further reading
+
+- Audrey I. Richards, *Chisungu: A Girl's Initiation Ceremony among the Bemba of Zambia*. London: Faber & Faber, 1956 (repr. Routledge, 1982) — the foundational record of *chisungu* and the *mbusa* emblems.
+- Audrey I. Richards, *Land, Labour and Diet in Northern Rhodesia: An Economic Study of the Bemba Tribe*. London: Oxford University Press, 1939 — *chitemene*, *ubwali*, the food year.
+- Andrew D. Roberts, *A History of the Bemba: Political Growth and Change in North-Eastern Zambia before 1900*. London: Longman, 1973.
+- Paul B. Mushindo, *A Short History of the Bemba (as Narrated by a Bemba)*. Lusaka: NECZAM for the Institute for African Studies, 1977; and François Tanguy, *Imilandu ya Babemba*. London: Oxford University Press, 1948.
+- J. Clyde Mitchell, *The Kalela Dance: Aspects of Social Relationships among Urban Africans in Northern Rhodesia*. Manchester: Manchester University Press (Rhodes-Livingstone Paper 27), 1956.
+- Nicholas M. Katanekwa, *The Prehistory of the 73+ Bantu Languages and Language Groups of Zambia, 3000 BC – 1600 AD*. Lusaka: Katanekwa, 2016.
+- Richard Mukuka, "Ubuntu in S. M. Kapwepwe's *Shalapo Canicandala*: Insights for Afrocentric Psychology," *Journal of Black Studies* 44(2), 2013, 137–157.
+- Wikipedia: https://en.wikipedia.org/wiki/Bemba_people
+- UNESCO Intangible Cultural Heritage — Zambia's Makishi inscription concerns Luvale, Chokwe, Luchazi and Mbunda, not Bemba; state page: https://ich.unesco.org/en/state/zambia-ZM
+- Smithsonian Folkways: https://folkways.si.edu/search?query=Zambia
+- Museum collections: British Museum Africa collection (Bemba/Northern Rhodesia material, incl. *mpande* discs and *mbusa*) https://www.britishmuseum.org/collection ; Livingstone Museum, Zambia; Pitt Rivers Museum, Oxford https://www.prm.ox.ac.uk/collections

@@ -61,7 +61,7 @@ def _load_seed(region: str, region_display: str | None, countries_for_new: list[
             f"and --region-countries to auto-create it, or run "
             f"scripts/_generate_region.py manually first."
         )
-    print(f"[0/6] Region seed {p.name} not found — drafting via claude …")
+    print(f"[0/6] Region seed {p.name} not found — drafting via configured LLM …")
     seed_obj = gen_region.draft(region, region_display, countries_for_new)
     seed_obj["region"] = slugify(region)   # the draft returns the display name; every seed keys on the slug
     seed_obj["countries"] = [c for c in seed_obj["countries"] if c["country"] in countries_for_new]
@@ -134,7 +134,7 @@ def main() -> None:
     if _already_in_seed(country_entry, args.name):
         print(f"[1/6] {args.name!r} already in seed — skipping draft")
     else:
-        print(f"[1/6] Drafting seed entry for {args.name} ({args.country}, {args.region}) via claude …")
+        print(f"[1/6] Drafting seed entry for {args.name} ({args.country}, {args.region}) via configured LLM …")
         entry = draft_mod.draft(args.name, args.country, args.region)
         print(json.dumps(entry, indent=2, ensure_ascii=False))
         if not _confirm("Accept this seed entry and add to seed file?", args.yes):

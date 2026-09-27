@@ -1,4 +1,4 @@
-"""Claude-CLI-based writeup generator for full-scope ethnographic profiles.
+"""Subscription-CLI writeup generator for full-scope ethnographic profiles.
 
 Produces a structured markdown per (country, ethnicity) covering both material
 culture (traditionally the museum-object focus of this project) and intangible
@@ -6,8 +6,8 @@ heritage (music, dance, festivals, foodways, oral tradition) — a proper
 néprajzi/ethnographic profile rather than a pattern-only writeup.
 
 Per CLAUDE.md rule (`Never use a paid LLM API without explicitly asking me first`),
-shell out to `claude --print`. Same subprocess pattern as
-`tinder-driver/pipelines/common.py`.
+shell out to `claude --print` by default. `FOLK_LLM_BACKEND=codex` uses the
+Codex CLI subscription while Claude is limited.
 
 The output is markdown with YAML frontmatter — plays well with Astro Content
 Collections but also renders as plain markdown anywhere.
@@ -15,6 +15,7 @@ Collections but also renders as plain markdown anywhere.
 from __future__ import annotations
 
 import json
+import os
 import re
 import subprocess
 
@@ -22,6 +23,9 @@ MODEL = "claude-opus-5"
 
 
 def run_claude(prompt: str, timeout: int = 900) -> str:
+    if os.getenv("FOLK_LLM_BACKEND") == "codex":
+        from folk_patterns.codex_cli import ask
+        return ask(prompt, timeout=timeout)
     result = subprocess.run(
         f"claude --print --dangerously-skip-permissions "
         f"--no-session-persistence --model {MODEL}",
@@ -369,6 +373,28 @@ def restructure_writeup(markdown: str, ethnicity: str, country: str, timeout: in
         prompt += ("\n\nA previous attempt was rejected because it used words or numbers the profile does "
                    "not contain. Every term and number must appear verbatim in the profile. Rejected:\n- "
                    + "\n- ".join(feedback))
+    if os.getenv("FOLK_LLM_BACKEND") == "codex":
+        from folk_patterns.codex_cli import ask
+        def obj(properties: dict) -> dict:
+            return {"type": "object", "properties": properties,
+                    "required": list(properties), "additionalProperties": False}
+        string = {"type": "string"}
+        array = lambda item: {"type": "array", "items": item}
+        section = obj({"lead": string, "items": array(obj({"name": string, "term": string, "text": string}))})
+        schema = obj({
+            "glance": obj({"who": string, "where": string, "how_many": string,
+                           "language": string, "religion": string, "known_for": array(string)}),
+            "overview": string, "material_lead": string,
+            "sections": obj({key: section for key in SECTIONS}),
+            "glossary": array(obj({"term": string, "meaning": string})),
+            "sources": array(string),
+        })
+        import time
+        started = time.monotonic()
+        data = json.loads(ask(prompt, schema=schema, timeout=timeout))
+        front = re.match(r"---.*?---", markdown, re.S)
+        return _render_restructured(front.group(0) if front else "", data), {
+            "total_cost_usd": 0, "duration_ms": int((time.monotonic() - started) * 1000)}
     res = subprocess.run(cmd, input=prompt, capture_output=True, text=True, encoding="utf-8",
                          timeout=timeout, cwd=d, env=env)
     ev = json.loads(res.stdout)

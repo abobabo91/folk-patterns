@@ -1,0 +1,92 @@
+{
+  "id": "met-26657",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "26657",
+    "object_url": "https://www.metmuseum.org/art/collection/search/26657",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, Rogers Fund and Bequest of Stephen V. Grancsay, by exchange, 1997",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1997.214.2a, b",
+    "accession_year": "1997"
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "China (Tibet)",
+    "ethnicity": "Tibetan",
+    "tradition": "Tibetan",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A pair of iron stirrups with gilt dragon/lion-head finials and inlaid silver geometric patterns on the treads — a classic Tibetan equestrian equipment type, consistent with the claimed culture and museum attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Pair of Stirrups",
+    "titles_alt": [],
+    "date_text": "16th–18th century",
+    "date_earliest": 1501,
+    "date_latest": 1800,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Iron",
+      "gold",
+      "silver"
+    ],
+    "techniques": [],
+    "medium_raw": "Iron, gold, silver",
+    "classification": "Equestrian Equipment-Stirrups",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Stirrup (a); H. 5 1/8 in. (13 cm); W. 4 3/4 in. (12.1 cm); D. 3 3/8 in. (8.6 cm); Wt. 15.1 oz. (428.1 g); stirrup (b); H. 5 1/8 in. (13 cm); W. 4 3/4 in. (12.1 cm); D. 3 3/8 in. (8.6 cm); Wt. 1 lb. 0.1 oz. (456.4 g)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Tibet",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/china-tibet/tibetan/metalwork/tibetan/images/met_26657.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "18236e327270c0768ae0abfd80c4d6b665043e9fd2e5ec7488b4e8142a27b27c",
+      "bytes": 1507629,
+      "local_path": "library\\east-asia\\china-tibet\\tibetan\\metalwork\\tibetan\\images\\met_26657.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T15:56:36.453150+00:00"
+}

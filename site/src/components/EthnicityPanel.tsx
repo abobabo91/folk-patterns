@@ -204,7 +204,7 @@ function MediaSection({ shard }: { shard: EthnicityShard }) {
       {ich.length > 0 && (
         <section>
           <h3 className="mb-3 font-serif text-lg font-medium">
-            UNESCO Intangible Cultural Heritage <span className="sub-mono font-mono text-[10px] uppercase tracking-widest">{ich.length} inscription{ich.length === 1 ? '' : 's'}</span>
+            UNESCO Intangible Cultural Heritage <span className="sub-mono font-mono text-[10px] uppercase tracking-widest">{ich.length} {ich.length === 1 ? 'entry' : 'entries'}</span>
           </h3>
           <ul className="space-y-2">
             {ich.map((e) => (
@@ -229,7 +229,7 @@ function MediaSection({ shard }: { shard: EthnicityShard }) {
             ))}
           </ul>
           <p className="sub-mono mt-2 text-[10px]">
-            Filtered by country of origin. Each links to the UNESCO ICH page (with the official documentary video).
+            Linked to this community. Each opens its official UNESCO record.
           </p>
         </section>
       )}
