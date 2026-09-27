@@ -237,9 +237,12 @@ def from_va(search_rec: dict, deep_rec: dict | None, cultural: dict) -> dict:
             "urls": [],
         })
     r["attribution"]["makers"] = makers
+    history = (deep_rec or {}).get("objectHistory") or []
+    if isinstance(history, str):
+        history = [history]
     r["attribution"]["acquisition_history"] = [
         oh.get("text") if isinstance(oh, dict) else str(oh)
-        for oh in ((deep_rec or {}).get("objectHistory") or [])
+        for oh in history
     ]
 
     # -- images: primary + additional

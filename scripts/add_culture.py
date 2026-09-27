@@ -15,9 +15,9 @@ Steps:
   6. Run scrape_all.py --only <name> to actually scrape.
   7. Sample review — LLM audits 12 random scraped records. If contamination
      found, print the suggested fix.
-  8. Generate writeup via existing generate_writeup.py.
-  9. Rebuild index via existing build_index.py.
- 10. Print completeness stats for the new ethnicity.
+  8. Vet each new library image through the configured subscription CLI.
+  9. Enrich media, vet Commons photos, and generate grounded writeups.
+ 10. Rebuild the index (which refuses unjudged library records) and print stats.
 
 Every step is idempotent-ish: re-running skips work already done.
 """
@@ -148,7 +148,27 @@ def main() -> None:
         _load_picks.load(args.from_picks, seed["region"], country_entry["country"], args.name)
     elif not _probe_scrape_review(args):
         return
+    _vet_and_check(args.name)
     _writeup_and_index(args)
+
+
+def _vet_and_check(name: str) -> None:
+    """Judge new library images and stop if any verdict could not be obtained."""
+    rc = _run([sys.executable, str(ROOT / "scripts" / "vet_images.py"),
+               "--target", "library", "--only", name],
+              f"Vetting new images for {name}")
+    if rc:
+        raise SystemExit(f"Image vetting failed for {name}; index not rebuilt")
+    records = [rec for path in (ROOT / "library").glob("*/*/*/*/*/metadata.json")
+               for rec in json.loads(path.read_text(encoding="utf-8"))
+               if ((rec.get("cultural") or {}).get("ethnicity") or "").lower() == name.lower()]
+    if not records:
+        raise SystemExit(f"No library records for {name}; index not rebuilt")
+    pending = [rec.get("id") for rec in records
+               if not isinstance((rec.get("cultural") or {}).get("vision_vetted"), bool)]
+    if pending:
+        raise SystemExit(f"{len(pending)} {name} records lack an image verdict; index not rebuilt")
+    print(f"  {len(records)} {name} library records have image verdicts")
 
 
 def _probe_scrape_review(args) -> bool:
@@ -218,6 +238,13 @@ def _writeup_and_index(args) -> None:
         )
         if rc:
             raise SystemExit(f"Media grounding failed for {args.name}; index not rebuilt")
+        rc = _run(
+            [sys.executable, str(ROOT / "scripts" / "vet_images.py"),
+             "--target", "commons", "--only", args.name],
+            f"[5/6] Visually vetting Commons photos for {args.name}",
+        )
+        if rc:
+            raise SystemExit(f"Commons vetting failed for {args.name}; index not rebuilt")
         rc = _run(
             [sys.executable, str(ROOT / "scripts" / "generate_writeups.py"), args.region, "--only", args.name],
             f"[5/6] Generating grounded writeup for {args.name}",

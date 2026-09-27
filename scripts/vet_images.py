@@ -1,7 +1,7 @@
 """Unified agentic vetter for every image in the library.
 
-For each museum object and each Commons documentary photo, ask Claude Sonnet
-(one bare `claude --print` call per image, scripts/vet_judge.py) two things at once:
+For each museum object and each Commons documentary photo, ask the
+configured subscription CLI visual judge (scripts/vet_judge.py):
 
   1. Does this image genuinely depict authentic material folk culture of the
      tagged ethnicity? YES / NO.
@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import io
 import json
+import os
 import shutil
 import sys
 import tempfile
@@ -46,7 +47,11 @@ UA = "folk-patterns/0.1 (https://github.com/abobabo91/folk-patterns; research at
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import vet_judge  # noqa: E402
 
-MODEL = vet_judge.MODEL
+if os.getenv("FOLK_LLM_BACKEND") == "codex":
+    from folk_patterns.codex_cli import MODEL as CODEX_MODEL
+    MODEL = f"codex-{CODEX_MODEL}"
+else:
+    MODEL = vet_judge.MODEL
 
 # Slugs are stable identifiers shared with classify.py, the library folder
 # layout and the site; display names live in the site. "jewelry" is shown as
@@ -476,8 +481,11 @@ def _vet_commons(workers: int, force: bool, only: str | None) -> None:
                 for f in as_completed(futs):
                     cp = futs[f]
                     result = f.result()
+                    if force:
+                        cp.pop("editorial_reviewed", None)
+                        cp.pop("editorial_reviewer", None)
                     if result.get("skip"):
-                        cp.pop("vetted", None)   # keep in gallery on failure
+                        cp.pop("vetted", None)   # an unjudged photo is hidden from public shards
                         cp["vetted_note"] = result["skip"]
                         mark = "?"
                     else:

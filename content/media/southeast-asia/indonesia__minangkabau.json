@@ -260,9 +260,10 @@
         "height": 1025,
         "quality_tier": 0,
         "source_category": "(Wikipedia article)",
-        "vetted": true,
-        "vetted_by": "claude-haiku-4-5",
-        "vetted_art_form": "photo"
+        "vetted": false,
+        "vetted_by": "editorial-after-claude",
+        "vetted_art_form": "photo",
+        "vetted_note": "Broad village panorama with little distinctive Minangkabau architecture visible."
       },
       {
         "title": "Minangkabaumosque.jpg",
@@ -278,7 +279,9 @@
         "source_category": "(Wikipedia article)",
         "vetted": true,
         "vetted_by": "claude-haiku-4-5",
-        "vetted_art_form": "architectural"
+        "vetted_art_form": "architectural",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-visual-2026-09-27"
       },
       {
         "title": "Anak Daro Ketek.jpg",

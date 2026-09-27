@@ -1,0 +1,105 @@
+{
+  "id": "va-O361404",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O361404",
+    "object_url": "https://collections.vam.ac.uk/item/O361404",
+    "iiif_manifest": null,
+    "credit_line": "Given by Sir Harold and Lady Satow",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "T.79-1967",
+    "accession_year": 1967
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Armenia",
+    "ethnicity": "Armenian",
+    "tradition": "Armenian",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna+manual-source-review",
+    "vision_reason": "The picture shows a traditional embroidered Armenian wool apron with geometric and floral bands, fitting the claimed ethnicity and museum description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Apron",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Embroidered wool with wool, silk and cotton threads",
+    "classification": "Apron",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Clothing",
+      "Embroidery"
+    ],
+    "physical_description": "Apron of dark blue woollen tabby cloth embroidered with wool, silk and cotton threads in red, maroon, yellow, off-white, blue, black and orange in cross, stem and feather stitches. A single panel, with a number of bands of varying widths containing geometrical and floral ornament, and with a double border round three sides.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "34.75",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "21.5",
+        "unit": "in",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Armenia",
+    "made_in_place_alt": [],
+    "current_gallery": "017",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/armenia/armenian/garment/armenian/images/va_O361404.jpg",
+      "iiif_id": "2019ME1632",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019ME1632/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "8f1b55c5454f8b54f361bf73089aa607ebf35dc3dbca7ef413020f07a4906d55",
+      "bytes": 327746,
+      "local_path": "library\\middle-east-north-africa\\armenia\\armenian\\garment\\armenian\\images\\va_O361404.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T19:19:31.920340+00:00"
+}

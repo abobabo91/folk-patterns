@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2021009__8ed80373_9105_44c9_ac49_966af9aa785b",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Finnish Heritage Agency",
+    "object_id": "2021009__8ed80373_9105_44c9_ac49_966af9aa785b",
+    "object_url": "https://www.europeana.eu/item/2021009/_8ed80373_9105_44c9_ac49_966af9aa785b?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "license_url": "http://creativecommons.org/licenses/by/4.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Armenia",
+    "ethnicity": "Armenian",
+    "tradition": "Armenian",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The photograph clearly shows a young Armenian girl in traditional striped clothing and carrying pottery vessels, documenting Armenian dress and daily life. It therefore fits the claimed ethnicity and photo category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Armenian girl",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Finnish Heritage Agency",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/armenia/armenian/photo/armenian/images/eu_2021009_8ed80373_9105_44c9_ac49_966af9aa785b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8eeed3868b5898b04d17bd7f252b7505a0d3c50d93aac44b5824bb950b0f092d",
+      "bytes": 34938,
+      "local_path": "library\\middle-east-north-africa\\armenia\\armenian\\photo\\armenian\\images\\eu_2021009_8ed80373_9105_44c9_ac49_966af9aa785b.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1364955%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T19:19:39.320123+00:00"
+}

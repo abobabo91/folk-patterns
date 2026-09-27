@@ -15,15 +15,16 @@ for continuity only.
 
 ## Current priority: fill the thin cultures, then new ones
 
-The library is fully vetted (5,346 records, 2026-09-24) and the site is built on it: vetter verdicts are final, misfiled drops are re-filed by `scripts/reattribute_drops.py`, galleries dedup by picture and accession ([docs/architecture.md](docs/architecture.md)). The British Museum is scraped through its "Ethnic group" facet and needs `BM_CDP_URL` for Cloudflare ([docs/museums.md](docs/museums.md#british-museum)).
+The library has visual verdicts on all 7,447 records as of 2026-09-27. Misfiled drops are re-filed by `scripts/reattribute_drops.py`, and galleries dedup by picture and accession ([docs/architecture.md](docs/architecture.md)). The British Museum is scraped through its "Ethnic group" facet and needs `BM_CDP_URL` for Cloudflare ([docs/museums.md](docs/museums.md#british-museum)).
 
 Next, in order ([docs/vetting.md → Next steps](docs/vetting.md#next-steps)):
 
-- **New cultures come from the world list, already vetted:** `world_peoples.py pick` judges up to 10 objects per category (with a QUALITY 1-5 score), then `add_culture.py --from-picks <wikidata key>` writes them into the library with their verdicts, drafts the seed, the writeup, and rebuilds the index. The local index has 102 cultures in 10 regions and 6,432 objects through Konyak. The scrape path of `add_culture.py` / `scrape_all.py` still has no vetter: after a scrape, run `python scripts/vet_images.py --target library` — `build_index.py` keeps unjudged records.
+- **New cultures:** `world_peoples.py pick` judges and ranks source images; `add_culture.py --from-picks <key>` loads the selection, then runs the library vetter. The scrape route also runs the vetter. Media enrichment runs the Commons vetter. `build_index.py` refuses any library record without a verdict and shows Commons photos only after both model acceptance and an independent editorial image/caption check (`editorial_reviewed: true`). The local index has 103 cultures and 6,460 objects through Armenian. Run `scripts/_vet_status.py` for current counts; unjudged or editorially unreviewed Commons photos stay hidden.
 - **Codex subscription fallback:** Set `FOLK_LLM_BACKEND=codex` to run the seed, writeup, short rewrite and world pick judge through `codex exec` with `gpt-5.6-luna`, low reasoning effort, and no paid inference API. The original Claude cache is reused. Review Codex QUALITY 3 picks before onboarding: a three-image calibration matched BELONGS and IMAGE but gave two weak objects one extra quality point. Always set `BM_CDP_URL` when loading or picking British Museum records; `_load_picks.py` now refuses a partial load without it.
 - **Country fallback is explicit:** `majority_ethnicity` routes country-only museum records, so leave it null for a newly added minority culture. `add_culture.py` no longer sets it to the first culture automatically.
 - Thin cultures the BM facet cannot fill (Qashqai, Sidama, Pamiri, Oromo, Yakan, Karakalpak, Afar, Cham, Hazara): Cleveland, V&A and Met, the sources with 3–8% drops.
-- **Do NOT add new cultures by scraping** until the vetter is wired into that path; add them with `--from-picks`. Shan and Konyak have been onboarded. The Armenian world pick has only nine credible items after catalogue review, mostly photos and two scarves; the 15 Armenian records in reattribution proposals are all photographs of Akdamar church, so seek more sources before onboarding.
+- **Armenian is live:** 28 selected records (19 V&A, 2 British Museum, 7 Europeana), source-reviewed long and short profiles and eight UNESCO references. The V&A additions are in `data/world/curated_picks/Q79797.json`, merged with the ordinary pick during load. All 28 images are on R2; the 103-culture site is deployed.
+
 
 ## The one command for everything
 

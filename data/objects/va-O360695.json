@@ -1,0 +1,111 @@
+{
+  "id": "va-O360695",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O360695",
+    "object_url": "https://collections.vam.ac.uk/item/O360695",
+    "iiif_manifest": null,
+    "credit_line": "Given by Mrs Muriel Thomson",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "T.262-1934",
+    "accession_year": 1934
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Armenia",
+    "ethnicity": "Armenian",
+    "tradition": "Armenian",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna+manual-source-review",
+    "vision_reason": "The picture shows a handmade embroidered textile cover with geometric and floral motifs, plausibly Armenian in origin and fitting the claimed ethnicity and textile category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Cover",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "silk (textile)",
+      "cotton (textile)"
+    ],
+    "techniques": [
+      "embroidering"
+    ],
+    "medium_raw": "silk embroidery on cotton",
+    "classification": "Cover",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Embroidery"
+    ],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "50.8",
+        "unit": "cm",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "50.8",
+        "unit": "cm",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Armenia",
+    "made_in_place_alt": [],
+    "current_gallery": "017",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [
+      "The registered file is 1934/5217."
+    ],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/armenia/armenian/textile/armenian/images/va_O360695.jpg",
+      "iiif_id": "2019ME2081",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019ME2081/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "e38da8130acff172f1eaaef5c896c0507a2d9740acc4369c0bbcab35067b4913",
+      "bytes": 200730,
+      "local_path": "library\\middle-east-north-africa\\armenia\\armenian\\textile\\armenian\\images\\va_O360695.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T19:20:06.504561+00:00"
+}

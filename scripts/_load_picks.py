@@ -21,6 +21,7 @@ sys.path.insert(0, str(ROOT / "src"))
 from folk_patterns.util import append_metadata, download_image, library_path, RateLimitedClient  # noqa: E402
 
 PICKS = ROOT / "data" / "world" / "picks"
+CURATED_PICKS = ROOT / "data" / "world" / "curated_picks"
 JUDGE = "pick:claude-sonnet-5"
 
 
@@ -33,6 +34,18 @@ def _record(o: dict, cultural: dict, bm_client, http: RateLimitedClient) -> dict
         from folk_patterns.schema import from_met
         obj = http.get_json(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{o['id']}")
         r = from_met(obj, cultural)
+        r["images"] = [i for i in r["images"] if i.get("role") == "primary"][:1]
+        return r
+    if o["source"] == "va":
+        from folk_patterns.schema import from_va
+        deep = http.get_json(f"https://api.vam.ac.uk/v2/museumobject/{o['id']}")
+        deep = deep.get("record") or deep
+        dates = deep.get("productionDates") or []
+        snippet = {"systemNumber": o["id"], "_primaryTitle": o.get("title"),
+                   "_primaryDate": (dates[0].get("date") or {}).get("text") if dates else None,
+                   "_primaryPlace": o.get("place"), "_primaryImageId": o.get("image_id") or (deep.get("images") or [None])[0],
+                   "objectType": deep.get("objectType")}
+        r = from_va(snippet, deep, cultural)
         r["images"] = [i for i in r["images"] if i.get("role") == "primary"][:1]
         return r
     if o["source"] == "europeana":
@@ -48,6 +61,10 @@ def _record(o: dict, cultural: dict, bm_client, http: RateLimitedClient) -> dict
 def load(key: str, region: str, country: str, ethnicity: str) -> int:
     from folk_patterns.museums.british_museum import _client, _in_library
     ranked = json.loads((PICKS / f"{key}.json").read_text(encoding="utf-8"))["ranked"]
+    curated = CURATED_PICKS / f"{key}.json"
+    if curated.exists():
+        for af, objs in json.loads(curated.read_text(encoding="utf-8"))["ranked"].items():
+            ranked.setdefault(af, []).extend(objs)
     if any(o["source"] == "bm" for objs in ranked.values() for o in objs) and not os.environ.get("BM_CDP_URL"):
         raise RuntimeError("BM_CDP_URL is required to load these picks; refusing a partial culture")
     bm_client = _client() if os.environ.get("BM_CDP_URL") else None
@@ -72,7 +89,7 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
                     print(f"  ! {o['source']} {o['id']}: no record or image", flush=True)
                     continue
                 dest = library_path(region, country, ethnicity, af, ethnicity)
-                prefix = {"bm": "bm", "met": "met", "cleveland": "cle", "europeana": "eu"}[o["source"]]
+                prefix = {"bm": "bm", "met": "met", "cleveland": "cle", "europeana": "eu", "va": "va"}[o["source"]]
                 dst = dest / "images" / f"{prefix}_{re.sub(r'[^A-Za-z0-9]+', '_', o['id']).strip('_')[-80:]}.jpg"
                 sha = None
                 for url in filter(None, [rec["images"][0]["url"], rec["images"][0].get("fallback_url")]):

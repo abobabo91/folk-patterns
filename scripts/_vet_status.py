@@ -20,6 +20,7 @@ if hasattr(sys.stdout, "buffer"):
 
 ROOT = Path(__file__).resolve().parents[1]
 LIB = ROOT / "library"
+MEDIA = ROOT / "content" / "media"
 
 
 def main() -> None:
@@ -88,7 +89,7 @@ def main() -> None:
     print()
     print(f"  art_form corrections      {af_changed:>6}")
     print()
-    print(f"  verdicts carrying REASONING {with_reason:>4}   <- current-prompt verdicts")
+    print(f"  verdicts carrying REASONING {with_reason:>4}")
     if with_reason < judged:
         print(f"  verdicts WITHOUT reasoning  {judged - with_reason:>4}   <- predate the current")
         print(f"{'':30}prompt, need a --force re-vet")
@@ -99,6 +100,27 @@ def main() -> None:
         n = sum(c.values())
         print(f"{src:<16}{n:>7}{c['kept']+c['dropped']:>8}{c['kept']:>7}"
               f"{c['dropped']:>9}{c['failed']+c['never']:>7}")
+
+    commons = Counter()
+    for path in MEDIA.rglob("*.json"):
+        try:
+            bundle = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        for photo in (bundle.get("sources") or {}).get("commons") or []:
+            if photo.get("vetted") is True:
+                bucket = "published" if photo.get("editorial_reviewed") is True else "awaiting_editorial"
+            elif photo.get("vetted") is False:
+                bucket = "rejected"
+            else:
+                bucket = "awaiting_model"
+            commons[bucket] += 1
+    print()
+    print("  Commons photos")
+    print(f"      published             {commons['published']:>6}")
+    print(f"      model-accepted, pending editorial review {commons['awaiting_editorial']:>6}")
+    print(f"      rejected              {commons['rejected']:>6}")
+    print(f"      awaiting model        {commons['awaiting_model']:>6}")
 
 
 if __name__ == "__main__":

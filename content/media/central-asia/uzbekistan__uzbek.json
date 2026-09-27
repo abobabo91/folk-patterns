@@ -206,7 +206,9 @@
         "source_category": "(Wikipedia article)",
         "vetted": true,
         "vetted_by": "claude-haiku-4-5",
-        "vetted_art_form": "photo"
+        "vetted_art_form": "photo",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-visual-2026-09-27"
       },
       {
         "title": "Muhammad Shaybani.jpg",
@@ -266,9 +268,10 @@
         "height": 980,
         "quality_tier": 0,
         "source_category": "(Wikipedia article)",
-        "vetted": true,
-        "vetted_by": "claude-haiku-4-5",
-        "vetted_art_form": "photo"
+        "vetted": false,
+        "vetted_by": "editorial-after-claude",
+        "vetted_art_form": "photo",
+        "vetted_note": "Generic food stall without distinctive Uzbek cultural subject."
       },
       {
         "title": "Khiva, Uzbekistan 74 (175).jpg",

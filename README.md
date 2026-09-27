@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The production site has 10 regions, 100 cultures and 6,353 objects. Edo, Bemba, Kamba, Aymara, Tibetan, Pende and Hausa were added on 2026-09-27, each with a grounded short writeup. Their new images are on R2.
+**Status:** The local index has 10 regions, 103 cultures and 6,460 objects through Armenian (2026-09-27). Armenian is live at https://folk-patterns.vercel.app; its 28 new images are on R2.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -88,7 +88,7 @@ python scripts/scrape_all.py central_asia
 # 3. vet every new record (Claude CLI) — build_index keeps unjudged records
 python scripts/vet_images.py --target library
 
-# 4. draft writeups (Claude CLI must be installed and signed in)
+# 4. draft writeups (Claude CLI or FOLK_LLM_BACKEND=codex subscription CLI)
 python scripts/generate_writeups.py central_asia
 python scripts/restructure_writeups.py --only Yoruba --preview   # -> work/writeup-preview/
 python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
@@ -130,7 +130,7 @@ reruns, and `candidates` uses the last row for each people. `pick` also consults
 For a kept object's corrected category, add an entry to
 `data/world/pick_overrides.json`; `pick` applies it before category ranking.
 
-The next rollout is staged locally: Edo (91 library records, 91 site objects),
+The 2026-09-26 rollout added Edo (91 library records, 91 site objects),
 Bemba (42 library records, 40 site objects), Kamba (77/77), Aymara (66/66),
 and Tibetan (76/76). The Aymara and Tibetan picks finished with the Codex CLI
 subscription. The judge cache retained completed Claude verdicts, and only
@@ -185,6 +185,30 @@ objects span eight categories. The long and short profiles were rewritten
 against museum and Nagaland government sources; generic India media results
 were removed. All 45 images are on R2; the index contains 102 cultures and
 6,432 objects.
+
+Armenian was added from nine previously selected British Museum and Europeana
+records plus nineteen V&A objects curated from 46 photographed Armenia-place
+results. Contact sheets, full museum descriptions and the Codex subscription
+judge were reviewed before loading. The 28 selected records include embroidery,
+dress, silverwork, a jug, church objects and documentary photographs. Four
+Europeana full-size URLs returned 401; their 400-pixel fallback images loaded.
+The long and short profiles were rewritten against V&A catalogues and UNESCO.
+Wikidata's country-of-origin query missed all eight Armenian UNESCO entries,
+so they are supplemented from UNESCO's [Armenia list](https://ich.unesco.org/en/state/armenia-AM?info=elements-on-the-lists).
+The generated Commons sidecar contained unrelated maps and Persian material;
+all twelve photos were removed. The local index has 103 cultures and 6,460
+objects. All 28 Armenian images were uploaded to R2 and the new site was deployed.
+
+`add_culture.py` now runs the library image judge after loading either picks or
+a fresh scrape. After media enrichment it also judges new Commons photos.
+`build_index.py` refuses any library record without a boolean visual verdict,
+and publishes Commons sidecar photos only when both `vetted` and
+`editorial_reviewed` are `true`. The second check compares the image with its
+caption and culture; broad Commons categories have supplied images of other
+peoples even after a positive model verdict. Run `python scripts/_vet_status.py`
+for current library and Commons counts. All 7,447 library records have model
+verdicts, but they have not all had a separate editorial image review. Selected
+Armenian objects and Commons photos in five test cultures had that second pass.
 
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to

@@ -154,6 +154,16 @@ def _ethnicity_key(region: str, country: str, ethnicity: str) -> str:
 
 def build() -> None:
     seeds = load_all_seeds()
+    # A new scrape must pass the image judge before any public shards are
+    # rewritten. A failed CLI call leaves vision_vetted=None for retry.
+    pending = []
+    for meta_path in LIBRARY_DIR.glob("*/*/*/*/*/metadata.json"):
+        for rec in json.loads(meta_path.read_text(encoding="utf-8")):
+            if not isinstance((rec.get("cultural") or {}).get("vision_vetted"), bool):
+                pending.append(rec.get("id") or str(meta_path))
+    if pending:
+        raise RuntimeError(f"{len(pending)} library records lack an image verdict; "
+                           "run python scripts/vet_images.py --target library before building the index")
 
     # Index of ethnicity meta from seeds (homeland, tradition list, country).
     eth_meta: dict[str, dict] = {}
@@ -429,10 +439,11 @@ def build() -> None:
         srcs = b.get("sources") or {}
         wiki = srcs.get("wikipedia") or {}
         raw_commons = srcs.get("commons") or []
-        # Drop photos that failed the vision-vetting pass (vetted == False).
-        # Photos not yet vetted (vetted missing) are kept — a not-yet-run pass
-        # shouldn't blank the gallery.
-        commons = [c for c in raw_commons if c.get("vetted") is not False]
+        # A model verdict alone is insufficient for Commons: the broad source
+        # categories can supply convincing images of a different people.
+        # Publish only images checked independently against their captions.
+        commons = [c for c in raw_commons
+                   if c.get("vetted") is True and c.get("editorial_reviewed") is True]
         ich = srcs.get("unesco_ich") or []
         folkways = srcs.get("folkways") or []
         return {

@@ -1,0 +1,105 @@
+{
+  "id": "va-O360692",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O360692",
+    "object_url": "https://collections.vam.ac.uk/item/O360692",
+    "iiif_manifest": null,
+    "credit_line": "Given by Sir Harold and Lady Satow",
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "T.82-1967",
+    "accession_year": 1967
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Armenia",
+    "ethnicity": "Armenian",
+    "tradition": "Armenian",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna+manual-source-review",
+    "vision_reason": "The picture shows a complete embroidered linen cover with Armenian-style geometric motifs, crosses, flowers, and buildings, consistent with the claimed Armenian origin.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Cover",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": "Embroidered linen with silks",
+    "classification": "Cover",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Interiors",
+      "Embroidery"
+    ],
+    "physical_description": "Cover of embroidered off-white linen, in an open tabby weave, with silks in red, blue, yellow, green, cream and pink in pulled fabric and drawn thread work. Nine rectangles contain eight-pointed stars with labyrinth patterns. Between the rectangles are flowers and crosses, and around the central rectangle are small buildings, some with crosses on the roof.",
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [
+      {
+        "dimension": "Length",
+        "value": "19.5",
+        "unit": "in",
+        "part": null
+      },
+      {
+        "dimension": "Width",
+        "value": "21",
+        "unit": "in",
+        "part": null
+      }
+    ],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Armenia",
+    "made_in_place_alt": [],
+    "current_gallery": "017",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/armenia/armenian/textile/armenian/images/va_O360692.jpg",
+      "iiif_id": "2019ME2089",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019ME2089/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "73f14a2959fa132c506730e35518e88f4a10f297e95d10ecbbdea47d8e510491",
+      "bytes": 229719,
+      "local_path": "library\\middle-east-north-africa\\armenia\\armenian\\textile\\armenian\\images\\va_O360692.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T19:20:00.644404+00:00"
+}

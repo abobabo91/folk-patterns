@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2021009__96f9b6ae_9be5_4a43_9201_d3395a56fd35",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Finnish Heritage Agency",
+    "object_id": "2021009__96f9b6ae_9be5_4a43_9201_d3395a56fd35",
+    "object_url": "https://www.europeana.eu/item/2021009/_96f9b6ae_9be5_4a43_9201_d3395a56fd35?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "license_url": "http://creativecommons.org/licenses/by/4.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Armenia",
+    "ethnicity": "Armenian",
+    "tradition": "Armenian",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The picture shows Armenian women preparing macaroni by hand, documenting traditional daily life and craft among the claimed people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Armenian women",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Finnish Heritage Agency",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/armenia/armenian/photo/armenian/images/eu_2021009_96f9b6ae_9be5_4a43_9201_d3395a56fd35.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "77873c54092c6c66590f64b5068e62603c87b14d653885b898b353c13333e15b",
+      "bytes": 25725,
+      "local_path": "library\\middle-east-north-africa\\armenia\\armenian\\photo\\armenian\\images\\eu_2021009_96f9b6ae_9be5_4a43_9201_d3395a56fd35.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1364933%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T19:19:45.060980+00:00"
+}

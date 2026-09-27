@@ -1,6 +1,6 @@
 # Vetting — the quality gate
 
-`scripts/vet_images.py` is how this atlas decides whether a record belongs. It shows every image to Claude Sonnet via the Claude Code CLI (one bare `claude --print` per image, the image inline, subscription-covered — never the paid API; the call and the prompt are `scripts/vet_judge.py`, shared with the [cloud path](cloud-vetting.md)) and asks for a verdict with its reasoning — BELONGS and ART_FORM below, plus IMAGE and ERA (see [Scope-aligned prompt](#scope-aligned-prompt--calibration-2026-09-24)). The two original questions:
+`scripts/vet_images.py` shows each library image and Commons sidecar photo to a visual judge through the Claude Code CLI, or through the Codex subscription CLI with `FOLK_LLM_BACKEND=codex` (no paid inference API). The shared call and prompt are in `scripts/vet_judge.py`; see also the [cloud path](cloud-vetting.md). It asks for BELONGS, ART_FORM, IMAGE and ERA, with reasoning and confidence. The two original questions:
 
 1. **BELONGS** — does this picture belong under the ethnicity it is filed under?
 2. **ART_FORM** — is the category right, and if not, what is?
@@ -73,7 +73,7 @@ Keep `--workers` at the default 3: Sonnet answers `Server is temporarily limitin
 
 **Failure mode to watch: quota exhaustion.** When the CLI starts failing, every call returns non-zero and the script records `vision_vetted: None` while the progress counter keeps climbing — a run can look healthy and produce nothing. On 2026-08-27 this happened after ~650 records and the remaining 3,338 were logged as errors. Watch the *verdicts*, not the counter. Resume is safe: records are skipped only on a real boolean verdict, so `None` records are retried automatically.
 
-`build_index.py` consumes the results — it drops records whose `vision_vetted` is `False` and prefers `art_form_vision` over the rule-based classifier. `None` behaves exactly like never-vetted, so a failed run is harmless to the index.
+`build_index.py` consumes the results — it drops records whose `vision_vetted` is `False` and prefers `art_form_vision` over the rule-based classifier. `build_index.py` now refuses to publish if any library record has a missing or non-boolean verdict. Commons sidecar photos appear only when `vetted` is `true`; download or CLI failures remain hidden until retried.
 
 ## Where this stands
 
@@ -298,5 +298,41 @@ against British Museum, Bowers Museum and Nagaland sources. Generic India
 Commons and Smithsonian Folkways results were removed. The local index now
 contains 6,432 objects and 102 cultures; all 45 Konyak images are on R2.
 
-1. **Wire the vetter into `add_culture.py` / `scrape_all.py`** so new material arrives judged. Until then, after any scrape run `python scripts/vet_images.py --target library` — `build_index.py` keeps records that have no verdict yet.
-2. **Expand the Armenian source pool before onboarding.** The first world pick retained nine items after four catalogue exclusions: a belt listed as Yürük and Armenian, a bracelet listed as Bedouin and Armenian, stirrups listed as Syrian or Armenian, and a landscape photograph titled with Armenia but without Armenian subjects. Its two selected scarves and archival community photographs are useful, but thin for a full page. The 15 Armenian reattribution proposals are multiple photos of the same Akdamar church, not 15 distinct traditions.
+For Armenian, contact sheets and V&A catalogue records were reviewed for 46
+photographed Armenia-place candidates. Nineteen varied objects were retained
+through a curated pick overlay, alongside nine earlier world picks. The Codex
+subscription judged all 19 selected V&A images; three additional judged-yes
+items were manually excluded as weak or visually obstructed. The generated
+Commons media set had twelve unrelated or generic images and was removed.
+UNESCO's official Armenia page lists eight entries that Wikidata's country
+query missed; all eight are supplied by the curated supplement. The generated
+profiles were replaced with source-grounded short and long versions. All 28
+Armenian library records have visual verdicts. Four Europeana photographs load
+at 400 pixels because their full-size endpoints returned 401.
+
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,447/7,447
+library records judged, 6,553 accepted and 894 dropped. The site index has
+6,460 objects in 103 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,447 images. Selected Armenian
+images were also checked against contact sheets and original catalogues.
+
+Commons has two gates: the subscription CLI image judge sets `vetted`; a
+separate image-and-caption review sets `editorial_reviewed` on accepted photos.
+The index publishes only images passing both. The five test cultures (Navajo,
+Gbaya, Igorot, Toba and Guna) have had the second pass. It rejected 20
+model-accepted but wrong Commons photos: celebrities, unrelated peoples or
+places, generic scenes, and colonial exhibition portraits. Twenty-five additional
+legacy positives were checked; seventeen were rejected, including photos from
+the wrong country in the atlas's split cultures. `scripts/_vet_status.py`
+reports the changing Commons counts, including photos waiting for either gate.
+The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
+constant had incorrectly labeled their verdicts as Claude Sonnet.
+The older approved Commons batch still needs second review; its images are
+hidden until then. Bulk Commons image fetching hit Wikimedia's 429 limit; the
+reviewer must use the project's identifying User-Agent and low concurrency.
+Missing image files remain unreviewed rather than being approved from text.
+
+Next: vet the remaining hidden Commons photos through the subscription CLI in
+batches, review accepted images and their captions, then rebuild the index. A direct
+`scrape_all.py` invocation still needs a follow-up `vet_images.py` run; the
+index gate prevents unjudged records from being published in the meantime.

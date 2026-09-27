@@ -1,0 +1,93 @@
+{
+  "id": "va-O360705",
+  "source": {
+    "museum": "va",
+    "museum_name": "Victoria and Albert Museum",
+    "object_id": "O360705",
+    "object_url": "https://collections.vam.ac.uk/item/O360705",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "unknown",
+    "license_url": null,
+    "accession_number": "T.23-1920",
+    "accession_year": 1920
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Armenia",
+    "ethnicity": "Armenian",
+    "tradition": "Armenian",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna+manual-source-review",
+    "vision_reason": "The picture shows a traditional handwoven, geometrically patterned textile cover made in Armenia. Its Caucasian design is plausible for Armenian textile production, and neighboring groups cannot be reliably distinguished from the image alone.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Cover",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [
+      "embroidering"
+    ],
+    "medium_raw": "",
+    "classification": "Cover",
+    "styles": [],
+    "categories": [
+      "Textiles",
+      "Embroidery"
+    ],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Armenia",
+    "made_in_place_alt": [],
+    "current_gallery": "018",
+    "current_museum": "Victoria and Albert Museum, London",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/armenia/armenian/textile/armenian/images/va_O360705.jpg",
+      "iiif_id": "2019ME1608",
+      "iiif_base": "https://framemark.vam.ac.uk/collections/2019ME1608/full/{size}/0/default.jpg",
+      "role": "primary",
+      "sha256": "0ef16290f8cf07c762d6739331b59ab167554628ac99bb92ba218053d9c58f1e",
+      "bytes": 252596,
+      "local_path": "library\\middle-east-north-africa\\armenia\\armenian\\textile\\armenian\\images\\va_O360705.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T19:20:03.261066+00:00"
+}

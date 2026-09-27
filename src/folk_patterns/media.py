@@ -494,8 +494,8 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
     score. Most-specific/most-cultural categories score highest.
 
     Priority order (with per-category bonuses):
-      1. `<Ethnicity> culture` / `Culture of <Country>` (+5) — usually the
-         richest source of festival / dance / craft photos.
+      1. `<Ethnicity> culture` (+5) — usually the richest source of
+         festival / dance / craft photos.
       2. `<Ethnicity>` / `<Ethnicity>s` (+3) — mixed; people + culture.
       3. seed traditions like 'Suzani', 'Longyi' (+4) — very targeted.
       4. `<Ethnicity> people` (+1) — often just headshots, deprioritize.
@@ -503,7 +503,6 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
     # (category, category-bonus)
     candidates: list[tuple[str, float]] = [
         (f"{ethnicity} culture", 5.0),
-        (f"Culture of {country}", 5.0),
         (ethnicity, 3.0),
         (f"{ethnicity}s", 3.0),
         (f"{ethnicity} people", 1.0),
@@ -512,14 +511,14 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
     # pilgrimage-route photos unrelated to the Pende people.
     if ethnicity == "Pende":
         candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Pendes"]
-    if ethnicity == "Hausa":
-        # The country category contains Nigerian subjects from many peoples.
-        candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Culture of Nigeria"]
-    if ethnicity == "Shan":
-        # The Myanmar category contains Burmese and Intha subjects with no
-        # documented Shan link.
-        candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Culture of Myanmar"]
+    # Country-wide Commons categories misfile minority cultures: "Culture of
+    # Panama" gave Guna an Emberá village and unrelated reforestation photos;
+    # "Culture of Argentina" gave Toba generic folk performances.
     for t in (extra_categories or []):
+        # Very short seed terms are often unrelated Commons categories:
+        # Gbaya "tara" pulled in Tibetan Tara and Burundi's Tara hill.
+        if len(t.strip()) < 6:
+            continue
         # These broad categories swamp the Pende article photos with objects
         # from unrelated cultures (or general European wood carving).
         if ethnicity == "Pende" and t.lower() in {"wood carving", "ceramic vessels", "sanza"}:
@@ -704,6 +703,24 @@ def _filter_ich_by_relevance(entries: list[dict], ethnicity: str, country: str =
 # Wikidata's country-of-origin property omits some UNESCO entries tied to
 # these communities. Keep them here so the sidecar does not depend on that field.
 ICH_SUPPLEMENTS: dict[str, list[dict]] = {
+    "Armenian": [
+        {"code": "RL/01967", "title": "Tradition of blacksmithing in Gyumri",
+         "unesco_url": "https://ich.unesco.org/en/RL/tradition-of-blacksmithing-in-gyumri-01967"},
+        {"code": "RL/01571", "title": "Pilgrimage to the St. Thaddeus Apostle Monastery",
+         "unesco_url": "https://ich.unesco.org/en/RL/pilgrimage-to-the-st-thaddeus-apostle-monastery-01571"},
+        {"code": "RL/01513", "title": "Armenian letter art and its cultural expressions",
+         "unesco_url": "https://ich.unesco.org/en/RL/armenian-letter-art-and-its-cultural-expressions-01513"},
+        {"code": "RL/01295", "title": "Kochari, traditional group dance",
+         "unesco_url": "https://ich.unesco.org/en/RL/kochari-traditional-group-dance-01295"},
+        {"code": "RL/00985", "title": "Lavash, the preparation, meaning and appearance of traditional bread as an expression of culture in Armenia",
+         "unesco_url": "https://ich.unesco.org/en/RL/lavash-the-preparation-meaning-and-appearance-of-traditional-bread-as-an-expression-of-culture-in-armenia-00985"},
+        {"code": "RL/00743", "title": "Performance of the Armenian epic of 'Daredevils of Sassoun' or 'David of Sassoun'",
+         "unesco_url": "https://ich.unesco.org/en/RL/performance-of-the-armenian-epic-of-daredevils-of-sassoun-or-david-of-sassoun-00743"},
+        {"code": "RL/00434", "title": "Armenian cross-stones art. Symbolism and craftsmanship of Khachkars",
+         "unesco_url": "https://ich.unesco.org/en/RL/armenian-cross-stones-art-symbolism-and-craftsmanship-of-khachkars-00434"},
+        {"code": "RL/00092", "title": "Duduk and its music",
+         "unesco_url": "https://ich.unesco.org/en/RL/duduk-and-its-music-00092"},
+    ],
     "Hausa": [
         {"code": "RL/01895", "title": "Durbar in Kano",
          "unesco_url": "https://ich.unesco.org/en/RL/durbar-in-kano-01895"},
