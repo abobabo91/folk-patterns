@@ -239,6 +239,16 @@ with the same armor-installation image misclassified as a photograph and a
 sculpture. The exclusions are recorded in
 `data/world/pick_exclusions.json` so future pick runs retain the corrections.
 
+For Pende, Codex judged 90 candidates and the first pick retained 87. Contact
+sheet review excluded 11 more: plain or worn pieces with little visible craft
+detail, plus a photographic print of a Pende mask that the judge mistook for
+the mask. The final pick has 76 records across nine categories; 75 appear in
+the deduplicated site index. The Pende media sidecar also needed source review:
+the Commons plural category `Pendes` returned photographs of a Spanish village,
+and generic `wood carving` brought in unrelated work. Both categories are
+skipped for Pende. Country-level Smithsonian Folkways results are withheld
+unless their titles identify Pende; the current sidecar has no such result.
+
 The full re-vet is done: on 2026-09-24 every one of the 4,625 records then in the library carried a verdict from the current prompt — 3,755 kept, 870 dropped (19%); IMAGE good 4,428 / weak 141 / unusable 56; ERA traditional 3,556 / modern 579 / archaeological 490. The run: [cloud-vetting.md](cloud-vetting.md#full-run--2026-09-24). `build_index.py` treats the verdict as final for every source, and drops that belong to another culture are re-filed (above).
 
 1. **Wire the vetter into `add_culture.py` / `scrape_all.py`** so new material arrives judged. Until then, after any scrape run `python scripts/vet_images.py --target library` — `build_index.py` keeps records that have no verdict yet.

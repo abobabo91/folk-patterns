@@ -508,7 +508,15 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
         (f"{ethnicity}s", 3.0),
         (f"{ethnicity} people", 1.0),
     ]
+    # "Pendes" is also a Spanish village; its Commons category returns
+    # pilgrimage-route photos unrelated to the Pende people.
+    if ethnicity == "Pende":
+        candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Pendes"]
     for t in (extra_categories or []):
+        # These broad categories swamp the Pende article photos with objects
+        # from unrelated cultures (or general European wood carving).
+        if ethnicity == "Pende" and t.lower() in {"wood carving", "ceramic vessels", "sanza"}:
+            continue
         candidates.append((t, 4.0))
 
     all_scored: list[tuple[float, dict]] = []
@@ -875,7 +883,14 @@ def fetch_bundle(country: str, ethnicity: str, seed_traditions: list[str] | None
     # --- Folkways (only if key provided)
     if folkways_api_key:
         try:
-            bundle["sources"]["folkways"] = folkways_search(country, ethnicity, folkways_api_key)
+            folkways = folkways_search(country, ethnicity, folkways_api_key)
+            # The country fallback currently fills the Pende slot with generic
+            # Congo/Kinshasa records that do not identify Pende performers.
+            if ethnicity == "Pende":
+                folkways = [rec for rec in folkways if re.search(
+                    r"\b(?:pende|bapende|phende)\b", rec.get("title", ""), re.I,
+                )]
+            bundle["sources"]["folkways"] = folkways
         except Exception as e:
             bundle["sources"]["folkways_error"] = str(e)
 
