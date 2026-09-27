@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The local index has 10 regions, 103 cultures and 6,460 objects through Armenian (2026-09-27). Armenian is live at https://folk-patterns.vercel.app; its 28 new images are on R2.
+**Status:** The live and local index has 10 regions, 104 cultures and 6,476 objects through Lobi (2026-09-27). Lobi's 16 new object images are on R2; https://folk-patterns.vercel.app serves its 16 objects and eight editorially reviewed Commons photos.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -199,6 +199,19 @@ The generated Commons sidecar contained unrelated maps and Persian material;
 all twelve photos were removed. The local index has 103 cultures and 6,460
 objects. All 28 Armenian images were uploaded to R2 and the new site was deployed.
 
+Lobi was added under Ghana from British Museum and Cleveland picks. Of 31
+Codex-judged candidates, 16 remain after contact-sheet review: weak or
+repetitive objects were excluded, and one figure was removed because the
+British Museum attributes it to Lo Willi and Dagari as well as Lobi. The
+short and long profiles were rewritten against museum, academic, and music
+archive sources. They distinguish Lobiri from Birifor and describe `bateba`
+as shrine figures associated with living guardian spirits, not ancestral
+portraits. Eight of twelve model-accepted Commons images passed a separate
+image-and-caption check; the other four are hidden. Four generic or unrelated
+Smithsonian music links were removed. The 16 object images are
+on R2, and the new site was deployed. The Ghana map pin is a regional anchor:
+many objects and communities are in Burkina Faso and Cote d'Ivoire.
+
 `add_culture.py` now runs the library image judge after loading either picks or
 a fresh scrape. After media enrichment it also judges new Commons photos.
 `build_index.py` refuses any library record without a boolean visual verdict,
@@ -208,9 +221,10 @@ caption and culture; broad Commons categories have supplied images of other
 peoples even after a positive model verdict. `vet_images.py` caches the source
 Commons images it judges under ignored `work/commons-review/` for that check,
 so reviewers need not redownload them. Run `python scripts/_vet_status.py`
-for current library and Commons counts. All 7,447 library records have model
+for current library and Commons counts. All 7,463 library records have model
 verdicts, but they have not all had a separate editorial image review. Selected
-Armenian objects and Commons photos in seven cultures had that second pass.
+Armenian and Lobi objects were checked against source images and catalogues;
+Commons photos in eight cultures had the independent second pass.
 
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to

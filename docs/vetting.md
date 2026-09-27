@@ -310,12 +310,25 @@ profiles were replaced with source-grounded short and long versions. All 28
 Armenian library records have visual verdicts. Four Europeana photographs load
 at 400 pixels because their full-size endpoints returned 401.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,447/7,447
-library records judged, 6,553 accepted and 894 dropped. The site index has
-6,460 objects in 103 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,447 images. Selected Armenian
-images were also checked against contact sheets and original catalogues.
-Among the 6,553 library keeps, the visual judge marked 6,423 images good,
+For Lobi, the Codex subscription judged 31 British Museum and Cleveland
+world-list candidates. Contact sheets and source records narrowed the set to
+16. Thirteen weak, duplicate, or part-only images were excluded; a further
+figure was removed because the British Museum also attributes it to Lo Willi
+and Dagari. The profile and seed were corrected for the cross-border
+distribution and for the linguistic difference between Lobiri and Birifor.
+The Palmer Museum identifies `bateba` as figures associated with living
+guardian spirits, so the generated claim that they portray ancestors was
+removed. Of 12 Commons photos accepted by the image judge, eight passed
+independent image-and-caption review and four were rejected as obscured or
+repetitive. Four general Ghana or Ashanti Smithsonian music links were also
+removed. All 16 library images are on R2.
+
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,463/7,463
+library records judged, 6,569 accepted and 894 dropped. The site index has
+6,476 objects in 104 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,463 images. Selected Armenian and
+Lobi images were also checked against contact sheets and original catalogues.
+Among the 6,569 library keeps, the visual judge marked 6,439 images good,
 128 weak and two unusable; the index excludes the two unusable images. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -330,8 +343,9 @@ the wrong country in the atlas's split cultures. `scripts/_vet_status.py`
 reports the changing Commons counts, including photos waiting for either gate.
 The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
-The same Codex CLI and visual review covered Ainu (12 judged, three published)
-and Konyak (three judged, three published). Ainu's model positives included
+The same Codex CLI and visual review covered Ainu (12 judged, three published),
+Konyak (three judged, three published), and Lobi (12 judged, eight published).
+Ainu's model positives included
 two 1904 World's Fair exhibition portraits and an outsider painting; the
 second pass rejected them. Konyak's three source images were cached and
 inspected successfully, confirming the review cache workflow.
