@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1944-04-12",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1944-04-12",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1944-04-12",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1944.04.12",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a brass helmet mask with a human face, scarification marks, and a tapering crest decorated with serpent and crocodile motifs, consistent with Edo (Benin) bronze/brass casting tradition and ritual regalia described in the museum's own metadata.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "helmet mask",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "helmet mask",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Odudua helmet mask; lost-wax cast in brass. In form of human head with tapering projection from top of head. Three vertical scarification marks above each eyebrow. Serpents and long-nosed crocodiles crawling down the projection and on cap. Serpents and crocodiles on chin. Under chin and on right and left sides of neck are crosses. Bottom of mask pierced with holes.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/masks-ritual/edo/images/bm_E_Af1944_04_12.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f9f0fd93bce10a12638a24aab09cfce1580f813a5ff730371fbe2875fb16ad68",
+      "bytes": 27307,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\masks-ritual\\edo\\images\\bm_E_Af1944_04_12.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:50:39.453956+00:00"
+}

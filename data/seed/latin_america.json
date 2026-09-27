@@ -1,0 +1,198 @@
+{
+  "region": "latin-america",
+  "region_places": {
+    "place_to_country": {
+      "argentina": "Argentina",
+      "buenos aires": "Argentina",
+      "cordoba": "Argentina",
+      "rosario": "Argentina",
+      "mendoza": "Argentina",
+      "salta": "Argentina",
+      "jujuy": "Argentina",
+      "tucuman": "Argentina",
+      "patagonia": "Argentina",
+      "tierra del fuego": "Argentina",
+      "pampas": "Argentina",
+      "gran chaco": "Argentina",
+      "rio de la plata": "Argentina",
+      "panama": "Panama",
+      "panama city": "Panama",
+      "colon": "Panama",
+      "darien": "Panama",
+      "chiriqui": "Panama",
+      "veraguas": "Panama",
+      "bocas del toro": "Panama",
+      "san blas": "Panama",
+      "guna yala": "Panama",
+      "kuna yala": "Panama",
+      "cocle": "Panama",
+      "azuero": "Panama",
+      "isthmus of panama": "Panama",
+      "latin america": "_regional",
+      "south america": "_regional",
+      "central america": "_regional"
+    },
+    "reject_places": [
+      "mexico",
+      "peru",
+      "bolivia",
+      "chile",
+      "brazil",
+      "colombia",
+      "ecuador",
+      "guatemala",
+      "costa rica",
+      "spain",
+      "portugal",
+      "united states",
+      "china",
+      "japan",
+      "india",
+      "nigeria",
+      "egypt",
+      "italy"
+    ],
+    "signature_traditions": {
+      "mola": "Panama",
+      "guna mola": "Panama",
+      "pollera": "Panama",
+      "cocle polychrome": "Panama",
+      "veraguas gold": "Panama",
+      "huaca gold pendant": "Panama",
+      "diablico mask": "Panama",
+      "gaucho": "Argentina",
+      "mate gourd": "Argentina",
+      "bombilla": "Argentina",
+      "facon": "Argentina",
+      "rastra belt": "Argentina",
+      "mapuche silver": "Argentina",
+      "trapelacucha": "Argentina",
+      "santa maria urn": "Argentina"
+    }
+  },
+  "countries": [
+    {
+      "country": "Argentina",
+      "met_queries": [
+        "Argentina",
+        "Buenos Aires",
+        "Rio de la Plata",
+        "Patagonia",
+        "Viceroyalty of the Rio de la Plata",
+        "Pampas"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [
+        "Argentina",
+        "Rio de la Plata",
+        "Patagonia",
+        "Southern Andes",
+        "Gran Chaco",
+        "Tierra del Fuego"
+      ],
+      "ethnicities": [
+        {
+          "name": "Toba",
+          "homeland": {
+            "lat": -26.79,
+            "lon": -60.44
+          },
+          "homeland_place": "Presidencia Roque Sáenz Peña",
+          "traditions": [
+            "chaguar",
+            "caraguatá fiber",
+            "llica",
+            "yica",
+            "chaguar netting",
+            "cestería de palma",
+            "palo santo carving",
+            "nviké",
+            "pim pim",
+            "alfarería qom",
+            "greda pottery",
+            "vincha de plumas",
+            "penacho",
+            "guaycurú motif",
+            "collar de semillas",
+            "chaguar faja",
+            "tejido en telar de cintura",
+            "pintura corporal qom"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Toba",
+              "Qom",
+              "Chaco",
+              "Gran Chaco",
+              "Guaycuru",
+              "Argentina"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Panama",
+      "met_queries": [
+        "Panama",
+        "Cocle",
+        "Veraguas",
+        "Chiriqui",
+        "Darien",
+        "Isthmus of Panama"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [
+        "Panama",
+        "Cocle",
+        "Veraguas",
+        "Chiriqui",
+        "Isthmian",
+        "Central America"
+      ],
+      "ethnicities": [
+        {
+          "name": "Guna",
+          "homeland": {
+            "lat": 9.55,
+            "lon": -78.95
+          },
+          "homeland_place": "El Porvenir",
+          "traditions": [
+            "mola",
+            "mola kantule",
+            "mola olo",
+            "saburet",
+            "muswe",
+            "winis",
+            "olasu",
+            "nuchu",
+            "picha",
+            "dule mor",
+            "morra",
+            "olagindi",
+            "olasa",
+            "wini mor",
+            "gaa burui",
+            "nudirbi",
+            "onmaked nega",
+            "inna nega"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Guna",
+              "Kuna",
+              "Cuna",
+              "Guna Yala",
+              "San Blas",
+              "Panama",
+              "mola"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

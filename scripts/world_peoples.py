@@ -309,8 +309,9 @@ def cmd_local() -> None:
 
 EU_LANGS = ["en", "sv", "nl", "de", "es", "fr", "cs", "da", "nb", "fi", "it", "pt", "pl", "hu"]
 EU_MAX = 500   # items fetched per people
+_EU_GEO_ONLY_NAMES = {"Q640090"}  # Kongo: 500 sampled hits name the country, not the people
 # the fields an object keeps: enough for the judge and for europeana._to_canonical
-_EU_FIELDS = ("id", "guid", "title", "dcCreator", "dcDescription", "year", "dataProvider", "rights", "edmPreview",
+_EU_FIELDS = ("id", "guid", "title", "dcCreator", "dcDescription", "dcSubject", "year", "dataProvider", "rights", "edmPreview",
               "edmIsShownBy", "edmPlaceLabel", "country", "edmType")
 
 
@@ -341,7 +342,9 @@ def _country_labels(rows: list[dict]) -> dict[str, set[str]]:
 
 def cmd_europeana_objects(only: list[str]) -> None:
     """Europeana objects at ethnographic providers (_EU_GOOD) whose text names
-    the people AND one of its countries, for every listed people.
+    the people in an identity field AND one of its countries, for every listed
+    people. Geography fields can support the country check but cannot establish
+    the people's identity: otherwise Kongo place labels admit other peoples.
     The name must appear as a whole word, case-sensitively when it has four
     letters or fewer: the short names are the ones that are common words
     elsewhere ("dan" is Dutch for "than", "mano" Spanish for "hand", "Fur" folds
@@ -359,7 +362,9 @@ def cmd_europeana_objects(only: list[str]) -> None:
     wrong, and 0-1 for Ha, Mano, Sara, Masa, Bara, Lega, Banda, Fur: Europeana
     adds little to the small African peoples. Much of what is kept is weak
     (medicinal plants, seeds, catalogue cards); the pick's QUALITY line drops it.
-    -> data/world/eu_objects.jsonl (gitignored), one line per key; resumes by key."""
+    Kongo is skipped after 500 sampled records supplied no reliable
+    people-specific hits: "Kongo" was only a geographic label.
+    -> data/world/eu_objects.jsonl (gitignored); the last line per key wins."""
     from folk_patterns.museums.europeana import _get_key
     key = _get_key()
     pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if r.get("listed")]
@@ -375,6 +380,11 @@ def cmd_europeana_objects(only: list[str]) -> None:
     base = {"wskey": key, "media": "true", "reusability": "open,permission", "qf": "TYPE:IMAGE"}
     with httpx.Client(timeout=60, headers=UA) as cl, open(p, "a", encoding="utf-8") as f:
         for i, r in enumerate(todo):
+            if r["key"] in _EU_GEO_ONLY_NAMES:
+                f.write(json.dumps({"key": r["key"], "label": r["label"], "objects": []}, ensure_ascii=False) + "\n")
+                f.flush()
+                print(f"  {i + 1}/{len(todo)} {r['label']}: 0 kept (geographic-name collision)", flush=True)
+                continue
             names = list(dict.fromkeys(v for x in [r["label"], r.get("atlas") or ""] if x for v in variants(x)))
             nrx = re.compile(r"(?<![\w-])(" + "|".join(re.escape(n) if len(n) <= 4 else "(?i:" + re.escape(n) + ")"
                                                         for n in names) + r")(?![\w-])")
@@ -407,10 +417,12 @@ def cmd_europeana_objects(only: list[str]) -> None:
                     items = j.get("items") or []
                     fetched += len(items)
                     for it in items:
-                        raw = " | ".join(str(v) for k in ("title", "dcCreator", "dcDescription", "dcSubject", "edmPlaceLabel", "dcCoverage", "dcSpatial")
-                                         for v in (it.get(k) or []))
-                        geo = re.sub(r"\b(new|nieuw|nya|neu|nouvelle|nueva|nuova|nova)[ -]guin\w*", "", _fold(raw))
-                        if it["id"] in objs or not nrx.search(raw) or not (crx and crx.search(geo)):
+                        identity = " | ".join(str(v) for k in ("title", "dcCreator", "dcDescription", "dcSubject")
+                                              for v in (it.get(k) or []))
+                        geography = " | ".join(str(v) for k in ("edmPlaceLabel", "dcCoverage", "dcSpatial")
+                                               for v in (it.get(k) or []))
+                        geo = re.sub(r"\b(new|nieuw|nya|neu|nouvelle|nueva|nuova|nova)[ -]guin\w*", "", _fold(identity + " | " + geography))
+                        if it["id"] in objs or not nrx.search(identity) or not (crx and crx.search(geo)):
                             continue
                         if not (it.get("edmIsShownBy") or it.get("edmPreview")):
                             continue
@@ -855,6 +867,8 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
     from vet_images import parse_reply
     from folk_patterns.museums.british_museum import _client, _in_library
     want = {s.lower() for s in only}
+    exclusions = {(x["key"], x["source"], x["id"])
+                  for x in json.loads((OUT / "pick_exclusions.json").read_text(encoding="utf-8"))}
     rows = [json.loads(l) for l in (OUT / "candidates.jsonl").read_text(encoding="utf-8").splitlines()]
     rows = [r for r in rows if not want or {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
                                              (r.get("atlas") or "").lower()} & want]
@@ -883,6 +897,8 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
             for o in _pick_order(objs):
                 if n >= PICK_TRIES:
                     break
+                if (r["key"], o["source"], o["id"]) in exclusions:
+                    continue
                 if any(a["source"] == o["source"] and a["id"] == o["id"] for a in accepted):
                     continue
                 if o["source"] == "bm" and (bm_client is None or _in_library(o["id"])):
@@ -925,6 +941,9 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     reply, err = judge(build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
                                                     d.get("description") or "", d.get("place") or ""),
                                        img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}), extra=PICK_QUALITY)
+                    if err and "hit your limit" in err.lower():
+                        raise SystemExit(f"Claude subscription limit reached while picking {name}: {err}. "
+                                         "Rerun after the reset; completed verdicts are cached.")
                     tried += 1
                     cost += ev.get("total_cost_usd") or 0
                     with open(raw, "a", encoding="utf-8") as f:

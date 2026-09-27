@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1972-14-312",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1972-14-312",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-14-312",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1972.14.312",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zambia",
+    "ethnicity": "Bemba",
+    "tradition": "Bemba",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a small clay tortoise figure used in Bemba girls' initiation (chisungu) ceremonies, painted with the typical white/red/black pigments associated with such ritual figures. It matches known Bemba ceremonial practice and material culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure; model",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure; model",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Tortoise figure (&lt;ceremonial&gt;, &lt;girl&#039;s initiation&gt;), model made of clay, pottery, chalk.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zambia/bemba/sculpture/bemba/images/bm_E_Af1972_14_312.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "67b2b9d78565cc76bec4406e045166215c4d9b98edce4e23ac46d3e7c532d579",
+      "bytes": 54519,
+      "local_path": "library\\sub-saharan-africa\\zambia\\bemba\\sculpture\\bemba\\images\\bm_E_Af1972_14_312.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:55:21.096391+00:00"
+}

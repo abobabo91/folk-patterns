@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1971-36-261",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1971-36-261",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-36-261",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1971.36.261",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a handmade unglazed red-ware dish with rouletted decoration, applied cordwork, and a scalloped rim with molded figures—consistent with traditional Edo/Benin-area pottery-making practices; nothing indicates it is a different tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "dish",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dish",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Hand-made, unglazed pottery dish, red ware. Shallow foot, deep bowl and upturned rim with internal applied decoration. Edge of rim is grooved. Outer surface decorated around middle with maize cob rouletting and applied elements. Black oxidation marks on inner and outer surfaces.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/ceramic/edo/images/bm_E_Af1971_36_261.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a410d753ebf1e61741de09ee793814510657a0c714731d6779389cf7b2527f60",
+      "bytes": 54224,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\ceramic\\edo\\images\\bm_E_Af1971_36_261.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:50:56.360204+00:00"
+}

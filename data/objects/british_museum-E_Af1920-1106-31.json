@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1920-1106-31",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1920-1106-31",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1920-1106-31",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1920.1106.31",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a hammered iron conical gong/rattle with a hole for a rattle insert — a form consistent with Edo/Benin-area ritual iron implements used in shrine or ceremonial contexts. This plausibly fits the claimed Edo instruments category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "rattle; gong; religious/ritual equipment",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "rattle; gong; religious/ritual equipment",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Rattle or gong; made of hammered iron. Tapering conical form with seam at back. Rattle inserted through hole at centre front.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/instruments/edo/images/bm_E_Af1920_1106_31.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3e1421a22f5fcfab4b68b2e9a70dfd4ddf30c1c47c20a7c7daaddc81a126c180",
+      "bytes": 24817,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\instruments\\edo\\images\\bm_E_Af1920_1106_31.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:51:07.422969+00:00"
+}

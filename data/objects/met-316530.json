@@ -1,0 +1,99 @@
+{
+  "id": "met-316530",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "316530",
+    "object_url": "https://www.metmuseum.org/art/collection/search/316530",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Mr. and Mrs. Klaus G. Perls, 1991",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1991.17.59",
+    "accession_year": "1991"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A brass leopard-form aquamanile with rosette engraving, a well-known Edo (Benin) court metalwork type used for ceremonial water pouring; the leopard is a royal Benin symbol, so this fits the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 5,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Leopard Aquamanile",
+    "titles_alt": [],
+    "date_text": "16th–19th century",
+    "date_earliest": 1500,
+    "date_latest": 1897,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Brass"
+    ],
+    "techniques": [],
+    "medium_raw": "Brass",
+    "classification": "Metal-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 5 1/2 in. (14 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Court of Benin, Nigeria",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Ìgùn Ẹ́rọ̀nwwọ̀n (brass-casting guild) artists",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300310390"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/metalwork/edo/images/met_316530.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d211fb18aa7a460554239faa40ff1be7e2cfef2c9d252e97387bb215c532f30b",
+      "bytes": 525431,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\metalwork\\edo\\images\\met_316530.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:50:51.838544+00:00"
+}

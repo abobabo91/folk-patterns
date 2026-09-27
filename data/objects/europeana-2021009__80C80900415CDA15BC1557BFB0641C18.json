@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2021009__80C80900415CDA15BC1557BFB0641C18",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Finnish Heritage Agency",
+    "object_id": "2021009__80C80900415CDA15BC1557BFB0641C18",
+    "object_url": "https://www.europeana.eu/item/2021009/_80C80900415CDA15BC1557BFB0641C18?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "license_url": "http://creativecommons.org/licenses/by/4.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Argentina",
+    "ethnicity": "Toba",
+    "tradition": "Toba",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photograph shows Toba people working outside a traditional dwelling in the Gran Chaco, documented during Rafael Karsten's 1912 fieldwork, matching the claimed ethnicity and daily life context.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Toba-intiaaneja työskentelemässä asuinrakennuksen ulkopuolella",
+    "titles_alt": [],
+    "date_text": "1912",
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Karsten, Rafael · Finland",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Finnish Heritage Agency",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/argentina/toba/photo/toba/images/eu_2021009_80C80900415CDA15BC1557BFB0641C18.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e821e6c9191e2c5a824b1db27f05cb5d0f98e9b55ab91a9d6bd34bd5ac752975",
+      "bytes": 18917,
+      "local_path": "library\\latin-america\\argentina\\toba\\photo\\toba\\images\\eu_2021009_80C80900415CDA15BC1557BFB0641C18.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D2539257%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T02:55:50.426351+00:00"
+}

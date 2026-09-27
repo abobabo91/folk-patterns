@@ -113,5 +113,8 @@ if __name__ == "__main__":
         files = [p for p in files if any(_meta(p.read_text(encoding="utf-8"))[0].lower() == o.lower() for o in a.only)]
     print(f"{len(files)} writeups")
     with ThreadPoolExecutor(a.workers) as ex:
-        for line in ex.map(lambda p: run(p, a.preview), files):
-            print(line)
+        results = list(ex.map(lambda p: run(p, a.preview), files))
+    for line in results:
+        print(line)
+    if any(": FAILED" in line for line in results):
+        raise SystemExit(1)

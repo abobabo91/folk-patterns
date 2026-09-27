@@ -1,0 +1,86 @@
+---
+title: "Igorot"
+subtitle: "Philippines"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Igorot — increasingly self-designated as the Cordilleran peoples — are the indigenous population of the Cordillera Central, the high mountain spine of northern Luzon in the Philippines, numbering roughly 1.8 million in the early twenty-first century across eleven main ethnolinguistic groups: Bontok, Ifugao, Kalinga, Kankanaey, Ibaloi, Isneg, Itneg (Tinguian), Balangao, Kalanguya, Iwak and Karao. They live along the Chico, Abulog, Apayao and Tineg river systems and on terraced slopes from Benguet up to Apayao, with Baguio as the region's urban centre. Their languages form the Northern Luzon branch of Austronesian; a 2014 genetic study found the Kankanaey descend almost entirely from the Austronesian expansion out of Taiwan around 3000–2000 BC, with nearly homogeneous ancestry shared with the Ami and Atayal. In folk-culture terms they matter as one of Southeast Asia's great uncolonised highland complexes: the Spanish never subdued them, and backstrap weaving, rice-terrace ritual, figural woodcarving, tattooing and gold-working survived into the ethnographic present intact.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Lufid / tapis** — The wrap-around woman's skirt, woven on a backstrap loom in narrow panels then seamed. *Lufid* is the Bontok term, *tapis* the widely borrowed Hispanised one; it is worn tight from waist to knee, and its panel arrangement (broad indigo grounds flanked by fine warp stripes) identifies the wearer's municipality far more precisely than any single motif does.
+
+**Bahag** — The men's loincloth, a long woven band passed between the legs and belted, worn shirtless in ceremonial contexts as a deliberate assertion of tribal precedent. Colour and stripe order are group markers: Kalinga and Bontok *bahag* are distinguished by their red-and-white or indigo-ground schemes.
+
+**Wanes** — The Bontok man's loincloth proper, the woven end-panels of which carry the dense warp-stripe language that Bontok weaving is known for; the number and spacing of stripes traced rank and *ato* (ward) affiliation.
+
+**Ginaspala / sinamaki** — Kankanaey and Benguet warp-striped cloth with supplementary-weft banding worked in across the stripes, producing the small blocky figures — human, lizard, star — that punctuate otherwise austere indigo-and-red grounds.
+
+**Pinilian** — Ilocano-associated but woven throughout the western Cordillera's contact zone: a supplementary-weft brocade in which the pattern is "picked" (*pinilian*) stick by stick, used for blankets and ceremonial panels rather than skirts.
+
+**Binakol** — Itneg and Ilocano optical weaving in interlocked concentric squares and whirlpool shapes, the zigzag *kusikos* pattern conceived as apotropaic: the dizzying field confuses malevolent spirits, which is why it is used for blankets that cover the vulnerable.
+
+**Ikat death blanket** — The Itneg *pinagpagan* and related Kalinga/Ifugao mortuary blankets in which warp threads are resist-bound before dyeing, producing blurred-edge anthropomorphic and lizard figures; these wrap the corpse during the seated wake.
+
+**Petay and teyay** — The Balangao counterparts: a woman's wrap of alternating indigo and red horizontal stripes (*petay*) and a vivid red men's loincloth crossed with yellow bands (*teyay*), morphologically distinct from the Bontok weaving next door.
+
+**Motif vocabulary.** *Matmata* ("eyes," the small lozenge or diamond eye-figure), *tiktiko* (zigzag), *kusikos* (whirlpool/spiral of binakol), *inalsem* (sour, i.e. the sharp serrated band), *tinaggu* (standing human figures, from *taggu*, person), *bituwon* (star), *banig* or lizard figures, *kulibangbang* (butterfly), *sopo* (mountain/triangle terrace form), and *sinan-kabayo* (horse figures, a late colonial addition).
+
+### Clothing & dress
+
+Daily dress before the twentieth century was minimal and regionally exact: men in the *bahag* or *wanes* worn shirtless, women in the *lufid* or *tapis* and often bare above the waist, with a short jacket added in colder Benguet and Mountain Province. Ceremonial dress multiplies the layers. Kalinga women add the *kain* over-wrap and a beaded upper garment; Ifugao *kadangyan* (aristocrats) wear blankets of rank and the *hape* or *ginuttu* belt of shell discs. Men's woven hip bags — the Bontok *pinagpagan*-class carrying cloth, the Ifugao *butong* — are worn slung, and the small lidded basket-hat serves double duty as tobacco and betel container. Headgear includes the *suklang* basketry cap, feathered and boar-tusk crests for men who have taken heads, and the *tabungaw*, the polished bottle-gourd helmet-hat of Abra and Ilocos with rattan chinstrap, lacquered orange and lined with cloth. Bark-cloth rain capes and *anito*-marked belts complete the older repertoire; footwear was absent — the Cordillera was walked barefoot.
+
+### Architecture
+
+The Ifugao *bale* (*fale*) is the reference form: a windowless one-room pyramidal-roofed house of pine and cogon thatch, raised on four stout posts capped with disc-shaped rat guards, the floor reached by a removable ladder and the whole structure joined without nails so it can be dismantled and moved. Kankanaey building is finely graded by cost and status — the two-storey *innagamang*, the larger *binangi*, the cheaper *tinokbob*, the elevated *tinabla* — with rice granaries (*agamang*) raised on rat-guarded posts. Kalinga houses (*furoy*, *buloy*, *phoyoy*) are single-roomed and post-elevated, some on posts twenty to thirty feet high, octagonal for the wealthy and square for everyone else, with separate granaries (*alang*) and field sheds (*sigay*). Isneg *balay* stand over an open undercroft (*linong*, *sidong*) which shelters the *abulor*, a four-post shed where jars of *basi* are half-buried in the earth. Communal architecture is as important as domestic: the Bontok *ato* ward house and stone council platform, the Ifugao *fawi* men's house, the Kankanaey *dap-ay* (men's dormitory and civic centre) and *ebgan* (girls' dormitory). Beneath all of it lies the greatest constructed artefact — the stone- and mud-walled pond-field terraces of Banaue, Hungduan, Mayoyao and Kiangan.
+
+### Ceramics, metalwork & everyday objects
+
+Cordilleran material identity runs through wood, bronze and imported stoneware rather than local fine pottery. The *bulul*, the seated or standing rice-granary guardian figure carved in *narra* or *ipil* and consecrated with blood and rice wine, is the signature object; the *hagabi*, a massive hardwood lounging bench with carved animal-head terminals, is commissioned only by *kadangyan* as the physical certificate of a prestige feast. *Punamhan* ritual boxes, *duyu* wooden plates, *kinahu* bowls, spoon handles carved as squatting ancestors, and coiled lime containers fill the domestic register. Bronze and brass were cast by lost-wax for *gangsa* flat gongs, betel boxes and pipe bowls; blacksmiths forged the *pinahig* and head-axe (*aliwa*, *gaman*) with its distinctive hooked poke. Chinese and Southeast Asian trade jars — kept for *basi*, *tapuy* and for burial — were wealth objects on a par with rice land, and *tabungaw* gourd-work and tight rattan-and-bamboo basketry (*kubi*, *takba* backpacks, winnowers) supply the rest.
+
+### Jewelry & body adornment
+
+Gold worked by the Ibaloi and Benguet smiths from Cordillera placer deposits is the oldest strand: the *lingling-o*, the double-lobed omega-shaped ear or neck pendant of jade, shell or gold, has an archaeological ancestry running back to the Iron Age and reappears as *gold ling-ling-o* in heirloom form. Kalinga beadwork is the most exuberant surviving practice — the *sipattal*, a broad chest ornament of massed mother-of-pearl plates, agate, carnelian and glass beads, worn with stacked brass and copper armlets, coiled ear ornaments and the *ginutu* shell-disc belt. Boar tusks and hornbill beaks mark men's ritual standing. Tattooing — *fa'tek* generally, *batek* in current Kalinga usage — was the strongest body art: the Bontok distinguish *chak-lag'*, the chest tattoo of a head-taker, *pong'o* on the arms of men and women, and *fa'tek* for all other work; women were tattooed on the arms only. Kalinga *batek*, hand-tapped with soot and a citrus-thorn needle, has been carried into the present by Whang-od Oggay of Buscalan.
+
+## Music & performance
+
+The defining sound is bronze on bronze. The *gangsa*, a flat handheld gong, is played in graded ensembles of six or more, one per player, in two mutually exclusive styles: *gangsa pattung*, struck with a wooden beater while dancing in file, and *gangsa toppaya*, palm-muted and played seated by Kankanaey and Ibaloi. The gong sets of Kalinga and Bontok are prestige property and are named individually. Bamboo instruments fill the intimate register: the *tongali* nose flute of the Kalinga, the *paldong* and *palendag* lip-valley flutes, the *diwdiw-as* bundled panpipe, the *saggeypo* stopped pipes played one per person, the *kulibaw* or *ab-afiw* bamboo jaw harp used in courtship, the *tongatong* stamping tubes struck on stone for healing rites, the *balingbing* buzzer, and the *patangguk* bamboo percussion of the Ifugao. Sung genres are tied to occasion rather than to a court tradition: the Ifugao *hudhud* epic chanting during rice harvest and wakes, the *liwliwa* sung debate, the Bontok *ay-yeng* and *chag-ay* victory and feast songs, the Kalinga *oggayam* and *dango* ballads of welcome and negotiation, the *salidummay* refrain-song that has become a pan-Cordilleran identity marker, and the *baya-o* dirge of the wake. Performance context is the *cañao* (*canao*, *kanyaw*) prestige feast, the wake, the peace-pact meeting and the field.
+
+## Dance & theatre
+
+Cordilleran dance is communal and gong-driven, without a masked or puppet theatre. The Kankanaey *tayaw* is the community wedding dance; *pat-tong* (*pattong*) is the file dance of Mountain Province with a distinct style per municipality, known in its modern form as *balangbang*; *takik* and *pinanyuan* are wedding dances and *bogi-bogi* a courtship dance, with *sakkuting* danced with sticks. The Ibaloi *bendian*, once a victory dance after a successful raid and now a celebratory mass dance of hundreds of men and women in a circular formation, is performed as *ad-adivay* entertainment at *cañao* feasts hosted by the *baknang* wealthy class. Kalinga and Bontok are known for bird-mimicry dances — the raised-arm *banga* and eagle-figure sequences — in which the dancers' gestures answer the gong pattern. The Balangao *torayan* stands apart: accelerated, high-energy, and danced in a rigid T-pose that deliberately contrasts with the fluid eagle dances of its neighbours. Women's *banga* balancing of stacked clay pots is a Kalinga display piece now central to festival repertoire.
+
+## Festivals & rituals
+
+The ritual year is keyed to the rice cycle rather than to a lunar calendar. Ifugao *tungo* rest-day observances punctuate the stages from *lukya* (field opening) through transplanting to the *ani* harvest, when the *hudhud* is chanted in the fields and the *bulul* are fed rice wine and blood. Prestige feasting is the central institution: the Ifugao *uyauy* and *hagabi* rites raise a family into the *kadangyan* class and require the carving and hauling of the bench; the Ibaloi *peshit* (*pedit*) runs for weeks and consumes dozens of sacrificed animals; the Isneg *say-am* follows a successful headhunt or other major occasion, lasts one to five days, and is hosted by the wealthy — the shaman (*anituwan*) prays to the spirit Gatan before the first dog is sacrificed at the sacred *ammadingan* tree, and on the final day a coconut is split in honour of the headhunter guardian Anglabbang. The *pildap* is the poor household's equivalent of the *say-am*. The Kalinga *bodong* peace pact, sealed with gong-playing, oratory and the exchange of blankets and gongs, remains the region's functioning inter-village law. Life-cycle rites include name-giving with chicken-bile augury, the *dap-ay* and *ebgan* dormitory passage into adulthood, negotiated bride-wealth of rice land and heirloom beads, and the seated wake (*sangadil*), in which the corpse is bound upright on a death chair in ikat blankets. Modern civic festivals — Baguio's **Panagbenga** (February) and the **Imbayah** of Banaue — now stage these older forms.
+
+## Foodways
+
+Wet-field *tinawon* heirloom rice from the terraces is the prestige staple, supplemented by swidden (*uwa*) rice, sweet potato (*camote*), taro (*pising*), millet, yam and maize; sweet potato was the everyday bulk food in Benguet while rice was ritual food. Cooking is by boiling in clay pots and by pit- and ash-roasting. The signature dish is *pinikpikan*, a chicken beaten before slaughter to bruise the flesh and draw blood to the skin, then singed, boiled with *etag* and ginger — the beating originated as an augury read from the bird's behaviour and bile, which is why it is inseparable from ritual. *Etag* (*kiniing*), pork salted heavily and smoke-cured or buried in jars for months, is the region's great preserve and the flavour base of everything else; *kinuday* is its air-dried variant. *Pinuneg* is the rice-and-blood sausage; *watwat*, the portioned share of boiled pork distributed to every household at a *cañao*, is a social obligation as much as a dish. Fermented drink is central: *tapuy* (*bayah*) rice wine brewed with *bubod* starter cakes and poured for the *bulul* and the ancestors, and Isneg *basi*, sugarcane wine aged in the half-buried jars of the *abulor*. Highland vegetables, *sayote* tops, and betel chewing with lime and *apog* round out daily consumption.
+
+## Oral tradition & literature
+
+The Ifugao *hudhud* is the region's monumental oral form: a long chanted narrative of some two hundred episodes performed by a lead soloist and choral responders during harvest, weeding and the wake, following culture-heroes such as Aliguyon and Bugan through courtship, journey and combat. The Kalinga *ullalim* is its epic counterpart, centred on the hero Banna. Ifugao ritual literature includes the *hudhud di kolot* for hair-cutting rites and the vast corpus of *baki* prayers — myth-recitations (*hudhud* and *alim*) through which a *mumbaki* priest names the ancestors and deities in order, a genre R. F. Barton recorded early in the twentieth century. Kankanaey and Ibaloi maintain the *salidummay* and *oggayam* as improvised sung verse, and the *liwliwa* as a sung debate between a man and a woman. The Cordillera Studies Center at the University of the Philippines Baguio and local school-of-living-tradition programmes now transcribe and teach these repertoires.
+
+## Language & religion
+
+The eleven Cordilleran languages belong to the Northern Luzon subgroup of Austronesian, split between Northern Cordilleran (Isneg), Central Cordilleran (Kalinga, Itneg, Ifugao, Balangao, Bontok, Kankanaey) and Southern Cordilleran (Ibaloi, Karao, Kalanguya, Ilongot). Ilocano serves as the regional lingua franca across dialect boundaries, alongside Tagalog and English; no indigenous script was used, and the languages are written in Latin orthography. Religion is layered: Anglican and Roman Catholic mission work from 1903 onward (Bishop Charles Brent's Bontoc mission, whose staff wrote the first Igorot grammars) converted much of the region, while animist practice persists in parallel — the Ifugao pantheon under *Kabunian*, the *anito* ancestor spirits, chicken- and pig-bile divination, and the *mumbaki* and *anituwan* priesthoods that still officiate at planting, illness and death.
+
+## Sources & further reading
+
+- Albert Ernest Jenks, *The Bontoc Igorot*, Bureau of Public Printing, Manila, 1905
+- Roy Franklin Barton, *The Religion of the Ifugaos*, American Anthropological Association, 1946; and *Ifugao Law*, University of California Press, 1919
+- Harold C. Conklin, *Ethnographic Atlas of Ifugao: A Study of Environment, Culture, and Society in Northern Luzon*, Yale University Press, 1980
+- Samuel E. Kane, *Thirty Years with the Philippine Head-Hunters*, Grosset & Dunlap, 1933
+- Lourdes R. Montinola, *Piña*, Amon Foundation, 1991; and Marian Pastor Roces on Philippine textile terminology
+- José Maceda's field recordings of Cordilleran gong and bamboo music (University of the Philippines Center for Ethnomusicology); Edward P. Dozier, *Mountain Arbiters: The Changing Life of a Philippine Hill People*, University of Arizona Press, 1966
+- https://en.wikipedia.org/wiki/Igorot_people
+- The Philippines has no UNESCO Intangible Cultural Heritage inscriptions covering this group; the Ifugao rice terraces are inscribed on the World Heritage List — https://whc.unesco.org/en/list/722
+- https://folkways.si.edu/search?query=Philippines+Igorot
+- Metropolitan Museum of Art, Philippine collection — https://www.metmuseum.org/art/collection/search?q=Ifugao
+- Rijksmuseum online collection — https://www.rijksmuseum.nl/en/search?q=Igorot

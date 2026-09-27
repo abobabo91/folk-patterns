@@ -84,7 +84,7 @@ def _country_entry(seed: dict, country: str) -> dict:
     new = {
         "country": country,
         "met_queries": [country],
-        "majority_ethnicity": None,   # set after first ethnicity is added
+        "majority_ethnicity": None,   # set manually only with a justified country fallback
         "met_gate_tokens": [],
         "ethnicities": [],
     }
@@ -97,8 +97,6 @@ def _already_in_seed(country_entry: dict, name: str) -> bool:
 
 
 def _add_to_seed(seed_path: Path, seed: dict, country_entry: dict, entry: dict) -> None:
-    if country_entry["majority_ethnicity"] is None:
-        country_entry["majority_ethnicity"] = entry["name"]
     country_entry["ethnicities"].append(entry)
     seed_path.write_text(json.dumps(seed, indent=2, ensure_ascii=False), encoding="utf-8")
 
@@ -214,18 +212,24 @@ def _writeup_and_index(args) -> None:
     else:
         # Grounded: Wikipedia + UNESCO ICH sidecar first, then the writeup from it.
         # generate_writeup.py (no grounding) got the Tiv population wrong (5-7 m vs 8 m+).
-        _run(
+        rc = _run(
             [sys.executable, str(ROOT / "scripts" / "enrich_media.py"), args.region, "--only", args.name],
             f"[5/6] Fetching Wikipedia / UNESCO grounding for {args.name}",
         )
-        _run(
+        if rc:
+            raise SystemExit(f"Media grounding failed for {args.name}; index not rebuilt")
+        rc = _run(
             [sys.executable, str(ROOT / "scripts" / "generate_writeups.py"), args.region, "--only", args.name],
             f"[5/6] Generating grounded writeup for {args.name}",
         )
-        _run(
+        if rc:
+            raise SystemExit(f"Writeup generation failed for {args.name}; index not rebuilt")
+        rc = _run(
             [sys.executable, str(ROOT / "scripts" / "restructure_writeups.py"), "--only", args.name],
             f"[5/6] Shortening the writeup into the site format",
         )
+        if rc:
+            raise SystemExit(f"Writeup restructure failed for {args.name}; index not rebuilt")
 
     # 6. Index rebuild
     if args.skip_index:

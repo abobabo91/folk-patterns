@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1944-04-52",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1944-04-52",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1944-04-52",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1944.04.52",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an iron barbed arrow/harpoon head with a socketed base, a weapon type plausible for the Edo region of Nigeria and consistent with the claimed arms category. Nothing contradicts the Edo attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "arrow-head; harpoon-dart (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "arrow-head; harpoon-dart (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Arrow-head, harpoon-head?; made of iron. Two pointed barbs, shank expanded at base for attachment to shaft.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/arms/edo/images/bm_E_Af1944_04_52.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "284a69a7d4a07cbdb448725d5062bc31369d72b6dcd812a19eb3eec1c1aee430",
+      "bytes": 23521,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\arms\\edo\\images\\bm_E_Af1944_04_52.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:51:16.600065+00:00"
+}

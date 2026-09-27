@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1944-04-7",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1944-04-7",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1944-04-7",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1944.04.7",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a classic Benin (Edo) brass lost-wax cast figure depicting a Portuguese soldier with matchlock rifle, a well-documented Benin court art subject made by Edo bronze casters to commemorate foreign contact; the maker's ethnicity, not the depicted figure's nationality, determines attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 5,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Figure of Portuguese soldier; lost-wax cast in brass. Holds matchlock rifle and carries flintlock pistol. Wears helmet with four-pointed brim, surcoat and breeches, and armguard. Has beard and striaght hair showing below helmet; barefooted. Stands on square pedestal base decorated with interlace and figurative images on the sides and weapons on the top surface. Loops at each bottom corner. Central square cavity.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/sculpture/edo/images/bm_E_Af1944_04_7.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f1b5175aa41d4f791e5b9d7d79e505d07985f47cd143379f107068f43b1ec1c7",
+      "bytes": 30306,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\sculpture\\edo\\images\\bm_E_Af1944_04_7.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:50:36.470990+00:00"
+}

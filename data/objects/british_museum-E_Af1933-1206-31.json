@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1933-1206-31",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1933-1206-31",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1933-1206-31",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1933.1206.31",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zambia",
+    "ethnicity": "Bemba",
+    "tradition": "Bemba",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden lamellophone (sansa/mbira) with iron keys and carved geometric ornament at the base, a traditional instrument type used across Central and Southern African peoples including the Bemba. The object and its craftsmanship are consistent with the claimed culture and region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sansa",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sansa",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "&#039;Piano&#039; (sansa) with iron keys and wooden board ornamented with carving; at the lower end an iron shaft decorated with some beads.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zambia/bemba/instruments/bemba/images/bm_E_Af1933_1206_31.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a3cb1ae1e514cac54fd7c7d2c4fdfd2b85ee5ca632f5dd91f5ac86a492c41467",
+      "bytes": 46040,
+      "local_path": "library\\sub-saharan-africa\\zambia\\bemba\\instruments\\bemba\\images\\bm_E_Af1933_1206_31.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:55:30.937709+00:00"
+}

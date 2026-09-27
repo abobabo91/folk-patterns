@@ -90,8 +90,9 @@ Rules for countries:
   polity names, capital city). NOT ethnonyms.
 - met_gate_tokens: 3-6 umbrella terms for accepting Met search hits
   (e.g. "Bactria", "Sogdian" for Uzbekistan).
-- majority_ethnicity: null for now — add_culture.py sets it when the first
-  ethnicity is added.
+- majority_ethnicity: null for now. Set it manually only when a country-level
+  fallback to a particular culture is justified; the first added culture may
+  be a minority and must not become the fallback automatically.
 - ethnicities: [] — populated later.
 
 Return ONLY the JSON object. No prose, no fences.

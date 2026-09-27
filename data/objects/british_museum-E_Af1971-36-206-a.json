@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1971-36-206-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1971-36-206-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-36-206-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1971.36.206.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a composite scraper-type musical instrument (a serrated stick through a seed pod, with a calabash resonator on a string), a plausible traditional instrument type for the Edo people of Nigeria; nothing contradicts the attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "stick; musical instrument",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "stick; musical instrument",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Composite musical instrument: a stick, serrated for about two thirds of its length, inserted through a seed pod (which shows signs of wear from being scraped along the stick), and with a piece of calabash on a string at the smooth end. [Af1971,36,206.a,b, and c]",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/instruments/edo/images/bm_E_Af1971_36_206_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "daf5321db10ce07de00d203a73a73c15207f59c0ec8ff7a81d482de8292011ae",
+      "bytes": 34353,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\instruments\\edo\\images\\bm_E_Af1971_36_206_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:51:08.478669+00:00"
+}

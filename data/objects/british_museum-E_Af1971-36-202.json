@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1971-36-202",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1971-36-202",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-36-202",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1971.36.202",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A handspun cotton textile with indigo-and-white striped bands, three strips sewn edge to edge — a construction and style consistent with Edo (Benin) woven cloth used for wrapper/shroud purposes. The plain striped pattern is generic to the region but plausible for Edo weaving traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "textile; shroud",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "textile; shroud",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Cotton textile, handspun yarn, three pieces sewn edge to edge by machine; indigo-dyed weft, white and indigo-dyed (in two shades) warp.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/textile/edo/images/bm_E_Af1971_36_202.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fbba8710201aa715661589b7af6ac3e372f0c97088119e00e1ea53f8d2f3ebfc",
+      "bytes": 104834,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\textile\\edo\\images\\bm_E_Af1971_36_202.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:51:14.453316+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1944-04-71",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1944-04-71",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1944-04-71",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1944.04.71",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved wooden mirror frame with a bird-form handle and interlace \"Aro knot\" motifs — plausible Igbo/Edo-region carving tradition (Aro knot patterns are especially linked to the Aro-Igbo, but wood carving of this type is shared across neighbouring Southern Nigerian groups, so it is acceptable for Edo). The claimed category \"metalwork\" is wrong since this is wood, not metal, but that alone does not disqualify the record.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "mirror-frame",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mirror-frame",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Mirror frame; carved from wood. Rectangular in form with central inset surrounded by frame secured with metal nails. Decorated with interlace patterns. Handle in form of bird with outspread wings and long tail. Back of frame has incised circular, semi-circular and &#039;Aro knot&#039; patterns. Sides of mirror frame have further interlace patterns.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/household/edo/images/bm_E_Af1944_04_71.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4499c630335c5a57bc3dc23d6b47002fd2349bb2baa303572f44c7f6aab8ae0f",
+      "bytes": 33264,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\household\\edo\\images\\bm_E_Af1944_04_71.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:50:55.316593+00:00"
+}

@@ -17,9 +17,13 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a Claude-drafted encyclopedic writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** 9 regions — Central Asia, MENA, Southeast Asia, Sub-Saharan Africa, and since 2026-09-26 North America, East Asia, South Asia, Europe, Oceania with their first cultures — 88 ethnicities, 5,524 objects on the site, each culture with a Claude-drafted writeup. The 17 added on 2026-09-26 (Tiv, Akan, Ambundu, Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai, Naga, Sámi, Māori) came from the world list via `--from-picks` (below).
+**Status:** The production site has 10 regions, 93 cultures and 5,861 objects. Gbaya, Igorot, Navajo, Toba and Guna were added from the world list on 2026-09-26. The local index has 95 cultures and 5,994 objects after the next Africa picks, Edo and Bemba; those two are not deployed yet. Bemba's long grounded writeup is present, but the short-format pass hit the Claude subscription limit and must be rerun before deployment. Kamba has a completed pick; Aymara and Tibetan picks stopped partway through when the same limit appeared.
 
-**Every record is vetted** ([docs/vetting.md](docs/vetting.md)): 4,457 kept, 889 dropped, 79 drops re-filed under the culture they actually belong to. The site shows 4,380 objects after one-culture-per-object and picture dedup. Thinnest cultures, which the British Museum facet cannot fill: Qashqai 0, Sidama 4, Pamiri 5, Uzbek (Afghanistan) 5, Oromo 8, Yakan 8.
+The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
+Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
+Naga, Sámi and Māori. They came through `--from-picks` (below).
+
+**Vetting baseline (2026-09-24)** ([docs/vetting.md](docs/vetting.md)): 4,457 kept, 889 dropped, 79 drops re-filed under the culture they actually belong to; 4,380 site objects after one-culture-per-object and picture dedup at that time. Subsequent world-list picks are judged before onboarding. Thin cultures the British Museum facet cannot fill include Qashqai, Sidama, Pamiri, Uzbek (Afghanistan), Oromo and Yakan.
 
 ## How it works
 
@@ -116,6 +120,32 @@ BM_CDP_URL=http://127.0.0.1:9226 python scripts/world_peoples.py pick --only Q12
 BM_CDP_URL=http://127.0.0.1:9226 python scripts/add_culture.py --name Tiv --country Nigeria     --region sub_saharan_africa --from-picks Q1235705 -y
 python scripts/upload_to_r2.py --commit -j 8     # then build_index.py again
 ```
+
+The full Europeana search ran for all 568 listed peoples on 2026-09-26. It
+yielded 13,944 candidate rows (13,049 distinct Europeana records); the combined
+BM, Met, Cleveland and Europeana pool has 84,134 distinct objects. These are
+search candidates, not approved site objects. `europeana-objects` appends on
+reruns, and `candidates` uses the last row for each people. `pick` also consults
+`data/world/pick_exclusions.json` for museum-attribution errors found by hand.
+
+The next rollout is staged locally: Edo (91 library records, 91 site objects),
+Bemba (42 library records, 40 site objects) and Kamba (77 picked objects, not yet
+onboarded). The Aymara and Tibetan judge runs are incomplete. After the Claude
+subscription resets, run `python scripts/restructure_writeups.py --only Bemba`,
+then resume `world_peoples.py pick --only Q109402 Q187985` with `BM_CDP_URL`
+set. The judge cache retains completed verdicts and ignores the limit errors.
+The picker now exits on that explicit limit instead of continuing to request
+objects. Bemba's seed was corrected to remove Makishi and Mukanda, which
+[UNESCO attributes](https://ich.unesco.org/en/RL/makishi-masquerade-00140)
+to Luvale, Chokwe, Luchazi and Mbunda communities.
+`add_culture.py` now stops before rebuilding the index if grounding, writeup
+generation or short-format restructuring fails; the restructuring script
+reports a failure through its exit code.
+
+When adding the first culture in a country, `majority_ethnicity` stays null.
+Set it by hand only when country-only museum records can safely be routed to
+that culture. Navajo, Toba, Guna and Bemba are minority peoples in their
+countries, so their new country entries have no automatic fallback.
 
 Measured 2026-09-26 on 20 peoples: pick ~$0.40 of judge calls and 2-10 min per people (3 processes in
 parallel with `--shard i/3`); onboarding ~4 min per people, the shortened writeup $0.05. A NEW region

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1897-1011-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1897-1011-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1897-1011-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1897.1011.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a Benin-style lost-wax cast brass altar-ring depicting vultures, severed heads and skulls — an object type well documented from Edo (Benin Kingdom) royal ritual/altar tradition. It plausibly belongs to the claimed culture as a ritual object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "altar-ring",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "altar-ring",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Altar-ring; lost-wax cast in brass with iron core. In form of open ring depicting vultures pecking at decapitated human bodies, severed human heads and a monkey skull.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/masks-ritual/edo/images/bm_E_Af1897_1011_5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "322563baf1f168d00efec53b08851f4dbafa17974837818cc311cad975ea8c03",
+      "bytes": 52624,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\masks-ritual\\edo\\images\\bm_E_Af1897_1011_5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:50:40.520344+00:00"
+}

@@ -142,10 +142,32 @@ your expectations there first, then adapt for the Met's fallback behaviour.
 
 - ethnographic providers only;
 - the people's name as a whole word, case-sensitive when it is four letters or fewer;
+- the name in an identity field (title, maker, description or subject), rather than only in a place label;
 - one of the people's countries, in the museum's own language, from Wikidata;
 - `dcCreator` read as well.
 
-Picked 2026-09-26 for Gbaya, Igorot, Navajo, Toba and Guna: 32–71 of the 66–72 kept objects per people came from Europeana (Toba and Guna almost entirely). The Europeana picks are Gothenburg's and Stockholm's collections: Hilberth's Gbaya, Rydén's Toba, Nordenskiöld's Guna, and Navajo textiles and silver.
+The full 568-people search on 2026-09-26 returned 13,944 candidate rows
+(13,049 distinct Europeana IDs). A Kongo sample showed why identity and place
+must be separate: 214 of 234 initial hits named Congo only as a location,
+including objects attributed to Bambuti, Balese and Babira. Even after the
+field split, the remaining 20 named Kongo in descriptive place text, so Kongo
+is excluded from this Europeana source after a 500-record sample supplied no
+credible people-specific matches. The image judge still decides whether the
+other candidates belong and are worth showing.
+
+Picked 2026-09-26 for Gbaya, Igorot, Navajo, Toba and Guna: after the attribution corrections, Europeana supplied 34/72, 38/72, 29/64, 70/70 and 59/65 kept objects respectively. The Europeana picks are Gothenburg's and Stockholm's collections: Hilberth's Gbaya, Rydén's Toba, Nordenskiöld's Guna, and Navajo textiles and silver.
+
+The five were onboarded after checking ambiguous attributions. Three Navajo
+records also named Hopi or other makers, a Toba pipe was attributed to Mataco
+or Toba, and a Guna calabash was labeled Chocó with multiple people tags. Those
+five IDs are in `data/world/pick_exclusions.json`, so rerunning the judge does
+not restore them from its cache. The live site has 93 culture points and 5,861
+objects after this addition.
+
+The next Africa pass found the same issue in the British Museum data: two
+photographs under Bemba were explicitly labeled Aushi, and a photographic
+print of an Edo plaque was ranked as metalwork. They are excluded before
+future pick reruns as well.
 
 The others were sampled for 13 peoples (Sukuma, Rukai, Tiv, Chamba, Haida, Ainu, Naga, Songye, Oromo, Bwa, Mambila, Akan, Gbagyi) and are not added:
 

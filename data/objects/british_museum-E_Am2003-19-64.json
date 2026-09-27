@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am2003-19-64",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am2003-19-64",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am2003-19-64",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am2003.19.64",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Navajo",
+    "tradition": "Navajo",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a miniature Navajo-style weaving loom with a partially woven diamond-patterned textile in the characteristic red, black, and yellow palette, consistent with Navajo weaving traditions and tools.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "loom; textile; model (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "loom; textile; model (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Miniature [model ?] Navajo loom made of wood, with incomplete wool textile.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/navajo/household/navajo/images/bm_E_Am2003_19_64.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1590390482ecfd9c51246b51e412fcc39e05021ad65bea62169698c9bcaa86b3",
+      "bytes": 45876,
+      "local_path": "library\\north-america\\united-states\\navajo\\household\\navajo\\images\\bm_E_Am2003_19_64.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T02:50:47.707727+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1949-46-161",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1949-46-161",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1949-46-161",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1949.46.161",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a lost-wax cast brass altar/stand with a figure at one corner, a form associated with Benin (Edo) court brasscasting used for royal altars; it is a ritual object made and used by the Edo, matching the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "altar; stand",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "altar; stand",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Altar, lost-wax cast in brass; with female figure at one corner.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/masks-ritual/edo/images/bm_E_Af1949_46_161.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "5caa630339430b90255af9ed5e946787cf0dbd38f617f1c7910f75ac2f368795",
+      "bytes": 39371,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\masks-ritual\\edo\\images\\bm_E_Af1949_46_161.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T03:50:46.274462+00:00"
+}

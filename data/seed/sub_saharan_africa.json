@@ -353,6 +353,53 @@
               "Cameroon Grassfields"
             ]
           }
+        },
+        {
+          "name": "Edo",
+          "homeland": {
+            "lat": 6.34,
+            "lon": 5.62
+          },
+          "homeland_place": "Benin City",
+          "traditions": [
+            "Benin bronze",
+            "cire perdue",
+            "igun eronmwon",
+            "ivbiotu",
+            "uhunmwun elao",
+            "ikegobo",
+            "ama",
+            "ododo cloth",
+            "ukpon-ivie",
+            "ivie coral regalia",
+            "ewu-ivie",
+            "ebe-ame",
+            "odigba",
+            "erhu ede",
+            "ukhurhe",
+            "iy'uzo pillar relief",
+            "ikpokpo",
+            "igbesanmwan ivory carving",
+            "ezuzu fan",
+            "ebo ame guilloche",
+            "oro bird staff",
+            "eben sword"
+          ],
+          "arch_commons_categories": [
+            "Royal Palace of Benin City",
+            "Walls of Benin",
+            "National Museum, Benin City",
+            "Benin City"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Edo",
+              "Benin",
+              "Benin Kingdom",
+              "Bini",
+              "Nigeria"
+            ]
+          }
         }
       ]
     },
@@ -1219,6 +1266,53 @@
             "Bambuti",
             "Ituri Pygmies"
           ]
+        },
+        {
+          "name": "Gbaya",
+          "homeland": {
+            "lat": 5.95,
+            "lon": 15.23
+          },
+          "homeland_place": "Bouar",
+          "traditions": [
+            "tara",
+            "dana",
+            "gbaya raffia skirt",
+            "kpo",
+            "bark cloth apron",
+            "sanza lamellophone",
+            "balafon",
+            "ndara harp",
+            "gbagba mask",
+            "labi initiation regalia",
+            "soo initiation figure",
+            "gbaya calabash pyrography",
+            "wan lance",
+            "throwing knife",
+            "iron anklet",
+            "brass wire coil bracelet",
+            "cicatrisation motif",
+            "cowrie belt",
+            "raffia mat weave",
+            "gourd rattle",
+            "tego megalith",
+            "banda granary"
+          ],
+          "arch_commons_categories": [
+            "Megaliths of Bouar"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Gbaya",
+              "Baya",
+              "Gbeya",
+              "Bgaya",
+              "Central African Republic",
+              "Oubangui-Chari",
+              "Bouar",
+              "Bertoua"
+            ]
+          }
         }
       ]
     },
@@ -1862,6 +1956,60 @@
               "Upper Volta",
               "Dedougou",
               "Boni"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Zambia",
+      "met_queries": [
+        "Zambia"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Bemba",
+          "homeland": {
+            "lat": -11.2,
+            "lon": 31.9
+          },
+          "homeland_place": "Kasama",
+          "traditions": [
+            "imbusa",
+            "chisungu",
+            "mbusa clay emblems",
+            "ubwato canoe carving",
+            "icipe basketry",
+            "mpande shell disc",
+            "ubuta bow",
+            "insakwa stool",
+            "chitenge",
+            "kalela dress",
+            "icimpampa bark cloth",
+            "imiputu granary",
+            "insaka shelter",
+            "chitemene mound",
+            "ubwalwa beer pot",
+            "icipuna carved stool",
+            "ubulungu beadwork",
+            "Bemba iron smelting"
+          ],
+          "arch_commons_categories": [
+            "Chishimba Falls",
+            "Kasama",
+            "Mpika",
+            "Northern Province, Zambia"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Bemba",
+              "Babemba",
+              "Awemba",
+              "Wemba",
+              "Northern Rhodesia",
+              "Zambia"
             ]
           }
         }

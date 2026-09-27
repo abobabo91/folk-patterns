@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Am-A9-66",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Am-A9-66",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-A9-66",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Am.A9.66",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Navajo",
+    "tradition": "Navajo",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a 19th-century studio carte-de-visite of two Native American women in traditional dress, blankets, necklaces and moccasins; the clothing style (blanket wraps, dress, moccasins) is plausible for a Southwest/Plains Native group but nothing distinguishes it specifically as Navajo rather than a neighboring people, so it can only be judged as generic Native American documentary photography.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "carte-de-visite (black and white)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "carte-de-visite (black and white)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Photograph, studio portrait of two Native American women sitting, they are wearing dresses, blankets, necklaces (except for the one on the right) and moccasins worn by the one on the right. \r\nAlbumen print; Carte-de-visite",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/navajo/photo/navajo/images/bm_EA_Am_A9_66.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "855341d733b1bfac12fda602ce37eae7083dea8a05ca3b04096380914d85fc66",
+      "bytes": 42147,
+      "local_path": "library\\north-america\\united-states\\navajo\\photo\\navajo\\images\\bm_EA_Am_A9_66.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T02:50:29.387185+00:00"
+}
