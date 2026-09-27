@@ -81,6 +81,20 @@
     @apply text-amber-400 hover:underline;
   }
   html:not(.dark) .prose-writeup a { color: #a56d18; }
+  /* "At a glance" fact table: label column + value, hairline rows */
+  .prose-writeup table {
+    @apply mb-4 w-full border-collapse font-serif;
+  }
+  .prose-writeup thead { display: none; }
+  .prose-writeup td {
+    @apply py-1.5 align-top text-[13px] leading-snug text-parchment/75 border-b border-dusk;
+  }
+  .prose-writeup tr:last-child td { border-bottom: 0; }
+  .prose-writeup td:first-child {
+    @apply w-[5.5rem] pr-3 pt-2 font-sans text-[10px] uppercase tracking-wider text-parchment/40;
+  }
+  html:not(.dark) .prose-writeup td { color: #3a3a3c; border-color: #e5e0d3; }
+  html:not(.dark) .prose-writeup td:first-child { color: #7a7a7c; }
 
   /* Header/footer helper classes — light-mode overrides */
   .header-sub { @apply text-parchment/50; }
