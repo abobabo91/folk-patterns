@@ -134,6 +134,22 @@ your expectations there first, then adapt for the Met's fallback behaviour.
 
 **NMNH Anthropology has no open-access images.** `"<name>" AND online_media_type:"Images"` with the natural-history units excluded returns mostly `unitCode NMNHANTHRO`, culture-tagged as a Library of Congress heading (`Malays (Asian people)`, `Dayak (Indonesian people)`) — but `online_media` is null on every one of them: 0 of 671 harvested 2026-09-25 carried a media block. The `Images` flag only means a picture exists on collections.si.edu; it is not released. So the ~10,000 culture-tagged Anthropology objects cannot be used. The images that do come through are Cooper Hewitt (`CHNDM`, all 33 we hold), NMAAHC, SAAM and a few NMAfA — a small share of the hits. The fielded query `culture:"Yoruba"` returns 0 although the field says Yoruba; filter on the field client-side.
 
+**No use for the world peoples either.** Measured 2026-09-26 in `unit_code:(NMNHANTHRO OR NMAI OR NMAFA OR FSG)`, keeping rows whose culture tag names the people and that carry a media block: 0 for Yoruba, Zulu, Haida, Inuit, Ainu, Tiv, Songye and Rukai. That held even though the culture tags alone matched 150–1,000 rows each, and even NMAI Haida had no media.
+
+## Candidate sources for the world peoples (sampled 2026-09-26)
+
+`world_peoples.py candidates` draws on the BM, the Met and Cleveland only. The others were sampled for 13 peoples (Sukuma, Rukai, Tiv, Chamba, Haida, Ainu, Naga, Songye, Oromo, Bwa, Mambila, Akan, Gbagyi) and are not added:
+
+| Source | Result |
+|---|---|
+| Smithsonian | No released images (above). |
+| V&A | No people field; text search hits namesakes. "Haida" returns Bohemian glass (Haida is a Czech glass town), "Chamba" Pahari paintings from Chamba, India. |
+| Rijksmuseum | 0–1 per people. |
+| Europeana, ethnographic providers only | Namesakes mix in: "Naga" returns the Hindu serpent at Angkor and on krises, and "Chamba" is all Chamba District, India. The atlas's country check (`_record_matches_target_country`) needs a region place map, which the world peoples lack. It also adds almost nothing where it would matter: Sukuma 1, Bwa 2, Mambila 4, Songye 6. |
+| Art Institute of Chicago (`api.artic.edu`, keyless) | Showpiece quality with the people named in `artist_title`, but 0–6 per people (Bwa 6, Akan 5, Songye 4, Ainu 3; Haida, Naga, Sukuma, Chamba 0), and apart from Ainu none were public domain. |
+
+The thin peoples are thin in every open collection, not only in the BM.
+
 ## Rijksmuseum
 
 New API (data.rijksmuseum.nl) is **keyless**. Returns Linked Art JSON.
