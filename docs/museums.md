@@ -169,6 +169,23 @@ photographs under Bemba were explicitly labeled Aushi, and a photographic
 print of an Edo plaque was ranked as metalwork. They are excluded before
 future pick reruns as well.
 
+Shan was a further check on Europeana identity matching. The final 34-object
+pick includes six Gothenburg records; the rest are British Museum records.
+Catalogues required another manual boundary: objects from Shan State sometimes
+name Kachin, Bulang, Taungyo or Taungthu makers, or say only that Shan people
+also used a neighboring group's object. Those were excluded even when an image
+judge accepted them. The maker field also needs care: the British Museum's
+Shan tattooing stamp had a Burmese owner in its collection history, which
+does not undo its explicit Shan maker attribution. The exclusions and reasons
+are in `data/world/pick_exclusions.json`.
+
+Europeana's search `country` names the holding institution's country, while
+`dcCreator` names a maker or group. The canonical importer had combined those
+as `made_in_place`. On 2026-09-27, that false production place was cleared
+from 1,177 existing Europeana library records and their site shards. Future
+imports use only an explicit `edmPlaceLabel`; when absent, the production
+place stays unknown.
+
 The others were sampled for 13 peoples (Sukuma, Rukai, Tiv, Chamba, Haida, Ainu, Naga, Songye, Oromo, Bwa, Mambila, Akan, Gbagyi) and are not added:
 
 | Source | Result |

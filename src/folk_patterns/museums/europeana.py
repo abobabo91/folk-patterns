@@ -325,15 +325,15 @@ def search(client: RateLimitedClient, query: str, rows: int = 40, cursor: str = 
 
 
 def _extract_place(item: dict) -> str | None:
-    """Combine city + country when present."""
-    parts: list[str] = []
-    place = _first(item.get("dcCreator")) or _first(item.get("edmPlaceLabel"))
+    """Use an explicit place label, never the maker or provider's country.
+
+    Europeana's search `country` is the holding institution's country. Its
+    `dcCreator` names a person or cultural group, not a production location.
+    """
+    place = _first(item.get("edmPlaceLabel"))
     if isinstance(place, str):
-        parts.append(place)
-    country = _first(item.get("country"))
-    if isinstance(country, str):
-        parts.append(country)
-    return " · ".join(parts) if parts else None
+        return place.strip() or None
+    return None
 
 
 def _to_canonical(item: dict, cultural: dict) -> dict:

@@ -265,5 +265,19 @@ results: country-level Folkways hits and ambiguous Commons categories such as
 
 The full re-vet is done: on 2026-09-24 every one of the 4,625 records then in the library carried a verdict from the current prompt — 3,755 kept, 870 dropped (19%); IMAGE good 4,428 / weak 141 / unusable 56; ERA traditional 3,556 / modern 579 / archaeological 490. The run: [cloud-vetting.md](cloud-vetting.md#full-run--2026-09-24). `build_index.py` treats the verdict as final for every source, and drops that belong to another culture are re-filed (above).
 
+For Shan, Codex judged the missing candidates through the subscription CLI.
+Two image and catalogue review rounds reduced the machine selection to 34
+objects across ten categories, with 82 Shan exclusions recorded for future
+pick runs. Rejected records include watercolor album leaves depicting several
+groups in Shan State without a Shan maker, objects attributed to Kachin or
+Bulang makers, and Taungyo/Taungthu pieces whose descriptions say only that
+Shan people also used them. The retained tattoo design stamp is explicitly
+attributed to a Shan maker; its Burmese owner is a separate catalogue fact.
+The long and short texts were rewritten from selected records and British
+Museum and Library of Congress sources. Broad Shan State and Myanmar Commons
+categories and generic Folkways results were removed from the media sidecar.
+The 34 images were uploaded to R2; the local index contains 6,387 objects and
+101 cultures. Subscription CLI inference cost was $0.00 in API charges.
+
 1. **Wire the vetter into `add_culture.py` / `scrape_all.py`** so new material arrives judged. Until then, after any scrape run `python scripts/vet_images.py --target library` — `build_index.py` keeps records that have no verdict yet.
-2. **Consider Armenian and Shan as new cultures** — they are the only peoples with 10+ good objects waiting in the drops.
+2. **Consider Armenian as a new culture** — Shan has been onboarded from a manually reviewed world-list pick.

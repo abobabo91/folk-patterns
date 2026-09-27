@@ -515,6 +515,10 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
     if ethnicity == "Hausa":
         # The country category contains Nigerian subjects from many peoples.
         candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Culture of Nigeria"]
+    if ethnicity == "Shan":
+        # The Myanmar category contains Burmese and Intha subjects with no
+        # documented Shan link.
+        candidates = [(cat, bonus) for cat, bonus in candidates if cat != "Culture of Myanmar"]
     for t in (extra_categories or []):
         # These broad categories swamp the Pende article photos with objects
         # from unrelated cultures (or general European wood carving).
@@ -542,12 +546,19 @@ def commons_gather(ethnicity: str, country: str, extra_categories: list[str] | N
                 continue
             if p["title"] in seen_titles:
                 continue
+            if ethnicity == "Shan" and p["title"] == "CVK-Nam Ngiao43.JPG":
+                # A school meal in Chiang Rai documents a dish, not Shan makers.
+                continue
             seen_titles.add(p["title"])
             all_scored.append((100 + p.get("quality_tier", 0) * 10, p))
     if ethnicity == "Hausa" and all_scored:
         # The article supplies nine relevant culture/architecture images.
         # Raw Hausa category results include generic city and health-campaign
         # photographs, even after the ambiguous seed names are skipped.
+        return [p for _, p in all_scored[:total_limit]]
+    if ethnicity == "Shan" and all_scored:
+        # The Shan article has four directly relevant images. Broad Shan
+        # State and Myanmar categories add unrelated regional photographs.
         return [p for _, p in all_scored[:total_limit]]
 
     for cat, bonus in candidates:
@@ -917,6 +928,10 @@ def fetch_bundle(country: str, ethnicity: str, seed_traditions: list[str] | None
             if ethnicity == "Hausa":
                 folkways = [rec for rec in folkways if re.search(
                     r"\b(?:hausa|hausawa|kano|zaria|katsina)\b", rec.get("title", ""), re.I,
+                )]
+            if ethnicity == "Shan":
+                folkways = [rec for rec in folkways if re.search(
+                    r"\b(?:shan|tai yai|tai long)\b", rec.get("title", ""), re.I,
                 )]
             bundle["sources"]["folkways"] = folkways
         except Exception as e:

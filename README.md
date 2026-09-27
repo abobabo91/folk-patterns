@@ -163,6 +163,18 @@ List.
 generation or short-format restructuring fails; the restructuring script
 reports a failure through its exit code.
 
+Shan was onboarded from the world list with the Codex CLI subscription. Manual
+review of images and original museum catalogues left 34 objects across ten
+categories from British Museum and Europeana records; 82 exclusions prevent
+the same misattributions and weak items from recurring. The generated long and
+short profiles were replaced with source-grounded text, and the media sidecar
+was narrowed to four directly relevant Commons images. The local index now
+contains 101 cultures and 6,387 objects. All 34 Shan object images are on R2.
+Europeana's provider `country` and `dcCreator` had also been imported as
+production places. The importer now uses only an explicit place label, and
+1,177 existing Europeana records with no such label had that false place
+cleared before the index was rebuilt.
+
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to
 that culture. Navajo, Toba, Guna and Bemba are minority peoples in their

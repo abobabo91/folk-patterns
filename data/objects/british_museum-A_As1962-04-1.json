@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1962-04-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1962-04-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1962-04-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1962.04.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Shan",
+    "tradition": "Shan",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The picture shows a cast bronze duck-shaped weight, a plausible traditional Shan household object. Its form is regionally plausible, though the image alone cannot strongly distinguish Shan manufacture from neighboring Myanmar traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "weight",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "weight",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Duck-shaped weight made of bronze. Cast.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/shan/metalwork/shan/images/bm_A_As1962_04_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "cb1b4b78d0c13c1855af27f0c0c14f507366231ee0c1e4c743a53a07507e1ccc",
+      "bytes": 32771,
+      "local_path": "library\\southeast-asia\\myanmar\\shan\\metalwork\\shan\\images\\bm_A_As1962_04_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T18:00:52.261463+00:00"
+}
