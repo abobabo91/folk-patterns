@@ -63,9 +63,12 @@ Set the same four env vars in the Vercel project's dashboard under
 Values from `tools/vault/vault.toml` under `[apis.cloudflare_r2]`. Scope
 to Production only.
 
-Astro's build produces the serverless function automatically because
-`astro.config.mjs` uses the `@astrojs/vercel/serverless` adapter with
-`output: 'hybrid'`.
+Astro's build produces the serverless function automatically: the site is
+Astro 5 with the `@astrojs/vercel` adapter and `output: 'static'`, and
+`src/pages/api/contribute.ts` opts out with `export const prerender = false`.
+`site/package.json` pins `engines.node` to `24.x`; the build emits a
+`nodejs22.x` function runtime. Vercel stops building Node 20 on 2026-10-01,
+and Astro 4 + `@astrojs/vercel` 7 cannot emit anything newer than Node 20.
 
 ## Reviewing pending submissions
 
