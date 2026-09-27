@@ -7,6 +7,7 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py bm --aliases # retry those under their aliases
     python scripts/world_peoples.py europeana    # hits at ethnographic providers per name
     python scripts/world_peoples.py local        # Met + Cleveland pool rows whose people field names it
+    python scripts/world_peoples.py europeana-objects [--only ...]  # ethnographic Europeana objects naming the people + its country
     python scripts/world_peoples.py classify     # Wikipedia summary + Haiku: a people? where?
     python scripts/world_peoples.py harvest      # BM object names per people (<= 500), for category breadth
     python scripts/world_peoples.py cleanup      # Haiku: atlas match, duplicates, sub-groups
@@ -306,6 +307,133 @@ def cmd_local() -> None:
     print(f"{len(rows)} Met + Cleveland rows with a people field; {hit} of {len(_names())} names match at least one")
 
 
+EU_LANGS = ["en", "sv", "nl", "de", "es", "fr", "cs", "da", "nb", "fi", "it", "pt", "pl", "hu"]
+EU_MAX = 500   # items fetched per people
+# the fields an object keeps: enough for the judge and for europeana._to_canonical
+_EU_FIELDS = ("id", "guid", "title", "dcCreator", "dcDescription", "year", "dataProvider", "rights", "edmPreview",
+              "edmIsShownBy", "edmPlaceLabel", "country", "edmType")
+
+
+def _country_labels(rows: list[dict]) -> dict[str, set[str]]:
+    """key -> the people's countries, folded, in EU_LANGS: every country Wikidata
+    links to the item (P17 country, P2341 indigenous to, P27, P495) plus the
+    peoples.json country. The ethnographic museums write the origin in their own
+    language: "Kamerun", "Centralafrikanska republiken", "Filippinerna"."""
+    langs = ", ".join(f'"{l}"' for l in EU_LANGS)
+    out: dict[str, set[str]] = {r["key"]: {_fold(r["country"])} if r.get("country") else set() for r in rows}
+    qids = [r["key"] for r in rows if r["key"].startswith("Q")]
+    for i in range(0, len(qids), 100):
+        vals = " ".join("wd:" + k for k in qids[i:i + 100])
+        for x in _sparql(f"""SELECT ?g ?lab WHERE {{ VALUES ?g {{ {vals} }} ?g wdt:P17|wdt:P2341|wdt:P27|wdt:P495 ?c .
+                              ?c rdfs:label ?lab FILTER(lang(?lab) IN ({langs})) }}"""):
+            out[x["g"].split("/")[-1]].add(_fold(x["lab"]))
+    en = sorted({r["country"] for r in rows if r.get("country")})
+    lab: dict[str, set[str]] = {}
+    for i in range(0, len(en), 100):
+        vals = " ".join('"%s"@en' % c.replace('"', "") for c in en[i:i + 100])
+        for x in _sparql(f"""SELECT ?en ?lab WHERE {{ VALUES ?en {{ {vals} }} ?c rdfs:label ?en ; wdt:P31 wd:Q6256 .
+                              ?c rdfs:label ?lab FILTER(lang(?lab) IN ({langs})) }}"""):
+            lab.setdefault(x["en"], set()).add(_fold(x["lab"]))
+    for r in rows:
+        out[r["key"]] |= lab.get(r.get("country"), set())
+    return out
+
+
+def cmd_europeana_objects(only: list[str]) -> None:
+    """Europeana objects at ethnographic providers (_EU_GOOD) whose text names
+    the people AND one of its countries, for every listed people.
+    The name must appear as a whole word, case-sensitively when it has four
+    letters or fewer: the short names are the ones that are common words
+    elsewhere ("dan" is Dutch for "than", "mano" Spanish for "hand", "Fur" folds
+    to German "für"), while Swedish museums write longer names lower-case (71 of
+    100 Inuit records say "inuit"). A provider whose name holds a double quote is
+    skipped: it breaks the query (it emptied Maya). Sámi stays thin: the records
+    say "samer", "samisk", "saame", and "Sami" is a Finnish first name.
+    dcCreator is read with the text: the Stockholm Museum of Ethnography files
+    the maker culture there ("Inuit"); without it Inuit kept 21 of 500.
+    The country check removes the namesakes: "Toba" is also Lake Toba (Batak
+    cloth), "Guinea" also New Guinea (dropped before matching).
+    Sampled 2026-09-26 on 19 peoples, reading the kept items: Gbaya 401 kept
+    (Gothenburg's Hilberth collection), Igorot 337, Guna 323, Aymara 310,
+    Tibetan 223, Navajo 140, Quechua 113 — all naming the right people; Dan 1
+    wrong, and 0-1 for Ha, Mano, Sara, Masa, Bara, Lega, Banda, Fur: Europeana
+    adds little to the small African peoples. Much of what is kept is weak
+    (medicinal plants, seeds, catalogue cards); the pick's QUALITY line drops it.
+    -> data/world/eu_objects.jsonl (gitignored), one line per key; resumes by key."""
+    from folk_patterns.museums.europeana import _get_key
+    key = _get_key()
+    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if r.get("listed")]
+    want = {s.lower() for s in only}
+    if want:
+        pe = [r for r in pe if {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
+                                (r.get("atlas") or "").lower()} & want]
+    p = OUT / "eu_objects.jsonl"
+    done = {json.loads(l)["key"] for l in p.read_text(encoding="utf-8").splitlines()} if p.exists() and not want else set()
+    todo = [r for r in pe if r["key"] not in done]
+    print(f"europeana-objects: {len(todo)} peoples ({len(done)} cached); country labels ...", flush=True)
+    countries = _country_labels(todo)
+    base = {"wskey": key, "media": "true", "reusability": "open,permission", "qf": "TYPE:IMAGE"}
+    with httpx.Client(timeout=60, headers=UA) as cl, open(p, "a", encoding="utf-8") as f:
+        for i, r in enumerate(todo):
+            names = list(dict.fromkeys(v for x in [r["label"], r.get("atlas") or ""] if x for v in variants(x)))
+            nrx = re.compile(r"(?<![\w-])(" + "|".join(re.escape(n) if len(n) <= 4 else "(?i:" + re.escape(n) + ")"
+                                                        for n in names) + r")(?![\w-])")
+            cs = countries.get(r["key"]) or set()
+            crx = re.compile(r"\b(" + "|".join(re.escape(c) for c in sorted(cs, key=len, reverse=True)) + r")\b") if cs else None
+            objs: dict[str, dict] = {}
+            fetched = 0
+            for n in names:
+                try:
+                    fj = cl.get("https://api.europeana.eu/record/v2/search.json", params={
+                        **base, "query": f'"{n}"', "rows": 0, "profile": "facets", "facet": "DATA_PROVIDER",
+                        "f.DATA_PROVIDER.facet.limit": 300}).json()
+                except (httpx.HTTPError, ValueError) as e:
+                    print(f"  ! {n}: {type(e).__name__}", flush=True)
+                    continue
+                provs = [x["label"] for fc in fj.get("facets", []) for x in fc["fields"]
+                         if any(g in x["label"].lower() for g in _EU_GOOD) and '"' not in x["label"]]
+                cursor = "*"
+                while provs and cursor and fetched < EU_MAX:
+                    q = f'"{n}" AND (' + " OR ".join(f'DATA_PROVIDER:"{pv}"' for pv in provs) + ")"
+                    try:
+                        j = cl.get("https://api.europeana.eu/record/v2/search.json",
+                                   params={**base, "query": q, "rows": 100, "cursor": cursor, "profile": "rich"}).json()
+                    except (httpx.HTTPError, ValueError) as e:
+                        print(f"  ! {n}: {type(e).__name__}", flush=True)
+                        break
+                    if not j.get("success", True):
+                        print(f"  ! {n}: {str(j.get('error'))[:120]}", flush=True)
+                        break
+                    items = j.get("items") or []
+                    fetched += len(items)
+                    for it in items:
+                        raw = " | ".join(str(v) for k in ("title", "dcCreator", "dcDescription", "dcSubject", "edmPlaceLabel", "dcCoverage", "dcSpatial")
+                                         for v in (it.get(k) or []))
+                        geo = re.sub(r"\b(new|nieuw|nya|neu|nouvelle|nueva|nuova|nova)[ -]guin\w*", "", _fold(raw))
+                        if it["id"] in objs or not nrx.search(raw) or not (crx and crx.search(geo)):
+                            continue
+                        if not (it.get("edmIsShownBy") or it.get("edmPreview")):
+                            continue
+                        slim = {k: it[k] for k in _EU_FIELDS if it.get(k)}
+                        if slim.get("dcDescription"):
+                            slim["dcDescription"] = [" ".join(slim["dcDescription"])[:600]]
+                        objs[it["id"]] = {"source": "europeana", "id": it["id"], "name": (it.get("title") or [""])[0][:120],
+                                          "item": slim}
+                    cursor = j.get("nextCursor") if items else None
+                    time.sleep(0.2)
+            f.write(json.dumps({"key": r["key"], "label": r["label"], "objects": list(objs.values())}, ensure_ascii=False) + "\n")
+            f.flush()
+            print(f"  {i + 1}/{len(todo)} {r['label']}: {len(objs)} kept of {fetched}", flush=True)
+
+
+@__import__("functools").lru_cache(maxsize=1)
+def _eu_index() -> dict[str, dict]:
+    p = OUT / "eu_objects.jsonl"
+    if not p.exists():
+        return {}
+    return {o["id"]: o["item"] for l in p.read_text(encoding="utf-8").splitlines() for o in json.loads(l)["objects"]}
+
+
 def _bm_name(k: str) -> str | None:
     """The spelling the BM answered to (first pass or alias pass)."""
     for d in (_counts("bm").get(k), _counts("bm_alias").get(k)):
@@ -577,7 +705,13 @@ def cmd_candidates() -> None:
         d = json.loads(l)
         bm[d["key"]] = d["objects"]   # the last line per key wins (harvest --refill)
     loc, kinds = _local(), _kinds()
-    pool = {r["key"]: [dict(o, source="bm") for o in bm.get(r["key"], [])] + loc.get(r["key"], []) for r in pe}
+    eu = {}
+    if (OUT / "eu_objects.jsonl").exists():
+        for l in (OUT / "eu_objects.jsonl").read_text(encoding="utf-8").splitlines():
+            d = json.loads(l)
+            eu[d["key"]] = d["objects"]   # the last line per key wins (--only reruns)
+    pool = {r["key"]: [dict(o, source="bm") for o in bm.get(r["key"], [])] + loc.get(r["key"], [])
+            + [{k: v for k, v in o.items() if k != "item"} for o in eu.get(r["key"], [])] for r in pe}
     size = {k: len(v) for k, v in pool.items()}
     owner: dict[tuple, str] = {}
     for k, objs in pool.items():
@@ -635,6 +769,14 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
         if not d and bm_client.get(DETAIL_URL.format(uid=o["id"])).status_code == 403:
             raise _Blocked(o["id"])
         return d and dict(d, place="")
+    if o["source"] == "europeana":
+        it = _eu_index().get(o["id"])
+        return it and {"title": (it.get("title") or [""])[0], "image_url": (it.get("edmIsShownBy") or it["edmPreview"])[0],
+                       "fallback_url": (it.get("edmPreview") or [None])[0],
+                       "description": " ".join(it.get("dcDescription") or []),
+                       # edmPlaceLabel is one {"def": name} per language: the first Latin-script one
+                       "place": next((p for p in ((x.get("def") if isinstance(x, dict) else x) for x in it.get("edmPlaceLabel") or [])
+                                      if p and p.isascii()), "")}
     if o["source"] == "met":
         r = http.get(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{o['id']}")
         j = r.json() if r.status_code == 200 else {}
@@ -754,6 +896,8 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     def fetch():
                         d = _detail(o, bm_client, http)
                         img = d and (bm_client if o["source"] == "bm" else http).get(d["image_url"])
+                        if img is not None and not img.headers.get("content-type", "").startswith("image/") and d.get("fallback_url"):
+                            img = http.get(d["fallback_url"])   # Europeana: the museum's URL can answer text; its thumbnail
                         if img is not None and o["source"] == "bm" and img.status_code == 403:
                             raise _Blocked(o["id"])
                         return d, img
@@ -774,7 +918,7 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     if not d:
                         print(f"  {cat:13s} {o['id']:22s} no image", flush=True)
                         continue
-                    if img.status_code != 200:
+                    if img.status_code != 200 or (o["source"] == "europeana" and not img.headers.get("content-type", "").startswith("image/")):
                         print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
                         continue
                     ev: dict = {}
@@ -941,8 +1085,8 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick"])
-    ap.add_argument("--only", nargs="*", default=[], help="pick: peoples by Wikidata key, label or atlas name")
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick"])
+    ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name")
     ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
     ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
@@ -951,5 +1095,5 @@ if __name__ == "__main__":
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
-    {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local,
+    {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local, "europeana-objects": lambda: cmd_europeana_objects(a.only),
      "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

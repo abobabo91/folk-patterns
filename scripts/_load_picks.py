@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -34,6 +35,12 @@ def _record(o: dict, cultural: dict, bm_client, http: RateLimitedClient) -> dict
         r = from_met(obj, cultural)
         r["images"] = [i for i in r["images"] if i.get("role") == "primary"][:1]
         return r
+    if o["source"] == "europeana":
+        from folk_patterns.museums.europeana import _to_canonical
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from world_peoples import _eu_index
+        it = _eu_index().get(o["id"])
+        return it and _to_canonical(it, cultural)
     from folk_patterns.museums.cleveland import _to_canonical
     return _to_canonical(http.get_json(f"https://openaccess-api.clevelandart.org/api/artworks/{o['id']}")["data"], cultural)
 
@@ -63,12 +70,16 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
                     print(f"  ! {o['source']} {o['id']}: no record or image", flush=True)
                     continue
                 dest = library_path(region, country, ethnicity, af, ethnicity)
-                prefix = {"bm": "bm", "met": "met", "cleveland": "cle"}[o["source"]]
-                dst = dest / "images" / f"{prefix}_{o['id'].replace(',', '_').replace('.', '_')}.jpg"
-                try:
-                    sha, size = download_image(bm_client if o["source"] == "bm" else http, rec["images"][0]["url"], dst)
-                except Exception as e:
-                    print(f"  ! {o['source']} {o['id']} image: {e}", flush=True)
+                prefix = {"bm": "bm", "met": "met", "cleveland": "cle", "europeana": "eu"}[o["source"]]
+                dst = dest / "images" / f"{prefix}_{re.sub(r'[^A-Za-z0-9]+', '_', o['id']).strip('_')[-80:]}.jpg"
+                sha = None
+                for url in filter(None, [rec["images"][0]["url"], rec["images"][0].get("fallback_url")]):
+                    try:   # Europeana: the museum's full image first, its cached thumbnail if that fails
+                        sha, size = download_image(bm_client if o["source"] == "bm" else http, url, dst)
+                        break
+                    except Exception as e:
+                        print(f"  ! {o['source']} {o['id']} image: {e}", flush=True)
+                if sha is None:
                     continue
                 rec["images"][0].update(sha256=sha, bytes=size, local_path=str(dst.relative_to(dest.parents[5])))
                 append_metadata(dest, rec)

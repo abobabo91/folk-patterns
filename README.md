@@ -106,6 +106,10 @@ etc.) for targeted re-runs; `scrape_all.py` is the one-command wrapper.
 From the world list (`docs/world-peoples.md`), with vetted objects — the route new cultures take:
 
 ```bash
+# candidates: BM + Met + Cleveland, plus Europeana's ethnographic museums (name + country check)
+python scripts/world_peoples.py europeana-objects --only Q1235705   # omit --only for every listed people
+python scripts/normalize_kinds.py --world                          # new object names -> kind + category
+python scripts/world_peoples.py candidates
 # judge up to 10 candidates per category (image + QUALITY 1-5), rank; BM needs Chrome on :9226
 BM_CDP_URL=http://127.0.0.1:9226 python scripts/world_peoples.py pick --only Q1235705 --shard 0/1
 # seed draft + picks into library/ + writeup + shorten + index (no probe, scrape or review)

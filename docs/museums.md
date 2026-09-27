@@ -138,14 +138,23 @@ your expectations there first, then adapt for the Met's fallback behaviour.
 
 ## Candidate sources for the world peoples (sampled 2026-09-26)
 
-`world_peoples.py candidates` draws on the BM, the Met and Cleveland only. The others were sampled for 13 peoples (Sukuma, Rukai, Tiv, Chamba, Haida, Ainu, Naga, Songye, Oromo, Bwa, Mambila, Akan, Gbagyi) and are not added:
+`world_peoples.py candidates` draws on the BM, the Met, Cleveland and Europeana (`world_peoples.py europeana-objects`). The rules that make Europeana usable are in that step's docstring:
+
+- ethnographic providers only;
+- the people's name as a whole word, case-sensitive when it is four letters or fewer;
+- one of the people's countries, in the museum's own language, from Wikidata;
+- `dcCreator` read as well.
+
+Picked 2026-09-26 for Gbaya, Igorot, Navajo, Toba and Guna: 32–71 of the 66–72 kept objects per people came from Europeana (Toba and Guna almost entirely). The Europeana picks are Gothenburg's and Stockholm's collections: Hilberth's Gbaya, Rydén's Toba, Nordenskiöld's Guna, and Navajo textiles and silver.
+
+The others were sampled for 13 peoples (Sukuma, Rukai, Tiv, Chamba, Haida, Ainu, Naga, Songye, Oromo, Bwa, Mambila, Akan, Gbagyi) and are not added:
 
 | Source | Result |
 |---|---|
 | Smithsonian | No released images (above). |
 | V&A | No people field; text search hits namesakes. "Haida" returns Bohemian glass (Haida is a Czech glass town), "Chamba" Pahari paintings from Chamba, India. |
 | Rijksmuseum | 0–1 per people. |
-| Europeana, ethnographic providers only | Namesakes mix in: "Naga" returns the Hindu serpent at Angkor and on krises, and "Chamba" is all Chamba District, India. The atlas's country check (`_record_matches_target_country`) needs a region place map, which the world peoples lack. It also adds almost nothing where it would matter: Sukuma 1, Bwa 2, Mambila 4, Songye 6. |
+| Europeana without the country check | Namesakes mix in: "Naga" returns the Hindu serpent at Angkor and on krises, "Chamba" is all Chamba District, India, and "Dan" is Dutch for "than". With the check it is used (above), but it still adds almost nothing to the small African peoples: Sukuma 0, Tiv 1, Mano 0, Lega 0, Songye 4. |
 | Art Institute of Chicago (`api.artic.edu`, keyless) | Showpiece quality with the people named in `artist_title`, but 0–6 per people (Bwa 6, Akan 5, Songye 4, Ainu 3; Haida, Naga, Sukuma, Chamba 0), and apart from Ainu none were public domain. |
 
 The thin peoples are thin in every open collection, not only in the BM.

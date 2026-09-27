@@ -6,7 +6,7 @@ all 114k pool rows.
 
     python scripts/normalize_kinds.py --sample 250    # one batch, printed, cached
     python scripts/normalize_kinds.py                 # every name not yet cached
-    python scripts/normalize_kinds.py --world         # names from world_peoples.py harvest
+    python scripts/normalize_kinds.py --world         # names from world_peoples.py harvest, local, europeana-objects
     python scripts/normalize_kinds.py --compare       # current MODEL vs the cached answers
 
 Cache: data/pool/kinds.json {name: {"kind": ..., "art_form": ...}}.
@@ -67,7 +67,9 @@ NAMES
 def _names(world: bool = False) -> collections.Counter:
     c = collections.Counter()
     if world:   # object names from world_peoples.py harvest + local
-        for fn in ("bm_objects.jsonl", "local_objects.jsonl"):
+        for fn in ("bm_objects.jsonl", "local_objects.jsonl", "eu_objects.jsonl"):
+          if not (DATA_DIR / "world" / fn).exists():
+              continue
           for l in (DATA_DIR / "world" / fn).read_text(encoding="utf-8").splitlines():
             for o in json.loads(l)["objects"]:
                 n = (o.get("name") or "").strip()[:120]
