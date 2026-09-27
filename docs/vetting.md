@@ -337,11 +337,24 @@ Museum piece attributed to Dogon **or Tellem** were rejected, as were two
 photographs without a specific Dogon attribution. Both generated Folkways
 links were unrelated and removed. All 70 library images are on R2.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,533/7,533
-library records judged, 6,639 accepted and 894 dropped. The site index has
-6,546 objects in 105 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,533 images. Selected Armenian,
-Lobi and Dogon images were also checked against contact sheets and catalogues.
+For Luba, the Codex subscription judged 75 world-list candidates. A contact
+sheet review of all 67 initial positives, followed by a full museum attribution
+audit, left 45 objects in eight categories. The second pass excluded ambiguous
+Luba/Songye and other multi-people records, Europeana's "probably Baluba or
+neighbors" records, a British Museum fake, eight British Museum records whose
+production ethnic group was explicitly marked `(?)`, and duplicates. A cup
+judged ceramic was described by the museum as wood and moved to household.
+The profile was rewritten from Met and Brooklyn Museum object accounts. Six
+Commons photos passed independent image-and-caption review; four unrelated sea
+photos and two Brooklyn objects lacking a specific Luba attribution were
+removed. All six generated Folkways links were unrelated and removed. The 45
+library images are on R2.
+
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,578/7,578
+library records judged, 6,684 accepted and 894 dropped. The site index has
+6,591 objects in 106 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,578 images. Selected Armenian,
+Lobi, Dogon and Luba images were also checked against contact sheets and catalogues.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -358,7 +371,7 @@ The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
 The same Codex CLI and visual review covered Ainu (12 judged, three published),
 Konyak (three judged, three published), Lobi (12 judged, eight published), and
-Dogon (12 judged, eight published).
+Dogon (12 judged, eight published), and Luba (12 judged, six published).
 Ainu's model positives included
 two 1904 World's Fair exhibition portraits and an outsider painting; the
 second pass rejected them. Konyak's three source images were cached and

@@ -783,9 +783,11 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
         return d and dict(d, place="")
     if o["source"] == "europeana":
         it = _eu_index().get(o["id"])
+        makers = list(dict.fromkeys(it.get("dcCreator") or [])) if it else []
         return it and {"title": (it.get("title") or [""])[0], "image_url": (it.get("edmIsShownBy") or it["edmPreview"])[0],
                        "fallback_url": (it.get("edmPreview") or [None])[0],
-                       "description": " ".join(it.get("dcDescription") or []),
+                       "description": ("Museum maker/creator: " + ", ".join(makers) + ". " if makers else "")
+                       + " ".join(it.get("dcDescription") or []),
                        # edmPlaceLabel is one {"def": name} per language: the first Latin-script one
                        "place": next((p for p in ((x.get("def") if isinstance(x, dict) else x) for x in it.get("edmPlaceLabel") or [])
                                       if p and p.isascii()), "")}
@@ -810,12 +812,30 @@ QUALITY — add one more line, QUALITY: <1-5>: how well this one picture would s
 3 a sound but ordinary object that many neighbouring peoples make the same way (a plain spear, a gourd, a comb)
 2 a fragment, a part, raw material, a toy, a plain tool or a dull repeat
 1 barely worth showing, or a catalogue card, drawing of an object, or a picture of something else
+
+ATTRIBUTION: This list assigns an object to a specific people. If the museum
+only says "X-style", "X or Y", or "X or X-influenced neighbours", BELONGS is NO
+unless the record provides independent evidence for a maker from X. A country
+or findspot alone is not enough. Read non-English museum notes for such caveats.
 """
 
 
 def _quality(reply: str) -> int:
     m = re.search(r"QUALITY:\s*([1-5])", reply or "", re.I)
     return int(m.group(1)) if m else 0
+
+
+def _source_exclusion(o: dict, d: dict) -> str:
+    """Source labels that cannot establish an authentic maker attribution."""
+    if o["source"] == "bm" and "(?)" in (d.get("production_ethnic_attribution") or ""):
+        return "museum marks production ethnic group uncertain"
+    if o["source"] == "bm" and len(set(d.get("production_ethnic_groups") or [])) > 1:
+        return "museum attributes production to multiple peoples"
+    if o["source"] == "cleveland" and re.search(r"\b[\w-]+-style maker\b", d.get("description") or "", re.I):
+        return "style-only maker attribution"
+    if o["source"] == "bm" and re.search(r"\b(?:fake|forgery)\b", d.get("title") or "", re.I):
+        return "museum labels object a fake or forgery"
+    return ""
 
 
 def _choose(objs: list[dict]) -> list[dict]:
@@ -912,13 +932,31 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                 hit = seen.get((r["key"], o["source"], o["id"]))
                 if hit:
                     d, reply, err = hit["detail"], hit["reply"], ""
+                    if o["source"] == "bm" and "production_ethnic_attribution" not in d:
+                        # Earlier cached judgments saw only the facet value and
+                        # missed qualifiers such as "Made by: Luba (?)".
+                        current = _detail(o, bm_client, http)
+                        if not current:
+                            print(f"  {cat:13s} {o['id']:22s} attribution unavailable", flush=True)
+                            continue
+                        d = {**d, **current}
                     cached += 1
                 else:
                     def fetch():
                         d = _detail(o, bm_client, http)
-                        img = d and (bm_client if o["source"] == "bm" else http).get(d["image_url"])
-                        if img is not None and not img.headers.get("content-type", "").startswith("image/") and d.get("fallback_url"):
-                            img = http.get(d["fallback_url"])   # Europeana: the museum's URL can answer text; its thumbnail
+                        if not d:
+                            return d, None
+                        if o["source"] == "europeana":
+                            try:
+                                img = http.get(d["image_url"], timeout=12)
+                            except httpx.RequestError:
+                                img = None
+                            if (img is None or img.status_code != 200 or
+                                    not img.headers.get("content-type", "").startswith("image/")) and d.get("fallback_url"):
+                                img = http.get(d["fallback_url"])
+                                d["image_url"] = d["fallback_url"]
+                        else:
+                            img = (bm_client if o["source"] == "bm" else http).get(d["image_url"])
                         if img is not None and o["source"] == "bm" and img.status_code == 403:
                             raise _Blocked(o["id"])
                         return d, img
@@ -939,12 +977,22 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     if not d:
                         print(f"  {cat:13s} {o['id']:22s} no image", flush=True)
                         continue
+                    if img is None:
+                        print(f"  {cat:13s} {o['id']:22s} image fetch failed", flush=True)
+                        continue
                     if img.status_code != 200 or (o["source"] == "europeana" and not img.headers.get("content-type", "").startswith("image/")):
                         print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
                         continue
+                    source_exclusion = _source_exclusion(o, d)
+                    if source_exclusion:
+                        print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
+                        continue
                     ev: dict = {}
+                    description = d.get("description") or ""
+                    if d.get("production_ethnic_attribution"):
+                        description += " Museum production ethnic group: " + d["production_ethnic_attribution"]
                     reply, err = judge(build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
-                                                    d.get("description") or "", d.get("place") or ""),
+                                                    description, d.get("place") or ""),
                                        img.content, on_attempt=lambda a, s, res, e: ev.update(res or {}), extra=PICK_QUALITY)
                     if err and any(word in err.lower() for word in ("hit your limit", "usage limit", "quota", "rate limit")):
                         raise SystemExit(f"Subscription limit reached while picking {name}: {err}. "
@@ -955,6 +1003,10 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                         f.write(json.dumps({"key": r["key"], "category": cat, **o, "detail": d, "reply": reply, "error": err,
                                             "judge": judge_name,
                                             "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
+                source_exclusion = _source_exclusion(o, d)
+                if source_exclusion:
+                    print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
+                    continue
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
                 q = _quality(reply)
                 ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak") and q >= PICK_QUALITY_MIN

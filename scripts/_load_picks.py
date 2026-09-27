@@ -53,7 +53,15 @@ def _record(o: dict, cultural: dict, bm_client, http: RateLimitedClient) -> dict
         sys.path.insert(0, str(ROOT / "scripts"))
         from world_peoples import _eu_index
         it = _eu_index().get(o["id"])
-        return it and _to_canonical(it, cultural)
+        rec = it and _to_canonical(it, cultural)
+        if rec and rec["images"] and o.get("image_url"):
+            # `pick` already fetched and judged this exact image. In particular,
+            # a museum's full-size URL may time out while Europeana's cached
+            # thumbnail works; retain the verified URL for the library too.
+            rec["images"][0]["url"] = o["image_url"]
+            if rec["images"][0].get("fallback_url") == o["image_url"]:
+                rec["images"][0].pop("fallback_url")
+        return rec
     from folk_patterns.museums.cleveland import _to_canonical
     return _to_canonical(http.get_json(f"https://openaccess-api.clevelandart.org/api/artworks/{o['id']}")["data"], cultural)
 

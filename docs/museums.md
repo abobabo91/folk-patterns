@@ -185,6 +185,19 @@ Shan tattooing stamp had a Burmese owner in its collection history, which
 does not undo its explicit Shan maker attribution. The exclusions and reasons
 are in `data/world/pick_exclusions.json`.
 
+The Luba pass (2026-09-27) added a second attribution check. A British Museum
+facet value may read `Luba` while the full production line reads `Made by:
+Luba (?)`; eight such records survived the earlier model pass. `fetch_detail`
+now returns the full line, and `world_peoples.py pick` excludes `(?)` and
+multiple production peoples for both fresh and cached judgments. It also excludes BM titles explicitly labeled
+fake/forgery and Cleveland `-style maker` records before the image judge.
+Europeana descriptions now present `dcCreator` to the judge. Its full-size
+image sometimes times out; the pick falls back to `edmPreview` after 12 seconds
+and the loader retains that verified URL. The Luba contact-sheet and catalogue
+pass reduced 67 initial model positives to 45 loaded objects; museum comments
+such as "likely Baluba or Luba-influenced neighbours" were not treated as a
+specific maker attribution.
+
 Europeana's search `country` names the holding institution's country, while
 `dcCreator` names a maker or group. The canonical importer had combined those
 as `made_in_place`. On 2026-09-27, that false production place was cleared

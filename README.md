@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The index has 10 regions, 105 cultures and 6,546 objects through Dogon (2026-09-27). Dogon adds 70 museum objects and eight independently reviewed Commons photos; its 70 object images are on R2. The site is https://folk-patterns.vercel.app.
+**Status:** The index has 10 regions, 106 cultures and 6,591 objects through Luba (2026-09-27). Luba adds 45 museum objects and six independently reviewed Commons photos; its 45 object images are on R2. The site is https://folk-patterns.vercel.app.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -214,6 +214,13 @@ many objects and communities are in Burkina Faso and Cote d'Ivoire.
 
 `add_culture.py` now runs the library image judge after loading either picks or
 a fresh scrape. After media enrichment it also judges new Commons photos.
+Luba followed that route: 75 candidate judgments and source records were
+reviewed against contact sheets, leaving 45 objects in eight categories.
+Ambiguous multi-people and question-marked British Museum attributions, a fake,
+and repetitive pieces were excluded. A misclassified wooden cup was moved out
+of ceramics. Six Commons photos passed a separate image-and-caption check;
+unrelated music links were removed. The profile was rewritten from museum
+sources, including the distinct Kiluba and Tshiluba language areas.
 `build_index.py` refuses any library record without a boolean visual verdict,
 and publishes Commons sidecar photos only when both `vetted` and
 `editorial_reviewed` are `true`. The second check compares the image with its
@@ -221,10 +228,10 @@ caption and culture; broad Commons categories have supplied images of other
 peoples even after a positive model verdict. `vet_images.py` caches the source
 Commons images it judges under ignored `work/commons-review/` for that check,
 so reviewers need not redownload them. Run `python scripts/_vet_status.py`
-for current library and Commons counts. All 7,463 library records have model
+for current library and Commons counts. All 7,578 library records have model
 verdicts, but they have not all had a separate editorial image review. Selected
-Armenian and Lobi objects were checked against source images and catalogues;
-Commons photos in eight cultures had the independent second pass.
+Armenian, Lobi, Dogon and Luba objects were checked against source images and catalogues;
+Commons photos in nine cultures had the independent second pass.
 
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to

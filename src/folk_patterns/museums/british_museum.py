@@ -29,6 +29,7 @@ from __future__ import annotations
 import json
 import re
 import time
+from html import unescape
 from pathlib import Path
 
 from ..util import LIBRARY_DIR, download_image, append_metadata, library_path, raw_path
@@ -53,6 +54,10 @@ _BM_ETHNONYM_REJECTS = {
     ),
 }
 _OG_IMAGE_RE = re.compile(r'<meta property="og:image" content="([^"]+)"')
+_ETHNIC_GROUP_RE = re.compile(
+    r'<dt[^>]*>\s*Production ethnic group\s*</dt>(.*?)</div>', re.I | re.S
+)
+_FACET_VALUE_RE = re.compile(r'<span class="vterm">(.*?)</span>', re.I | re.S)
 
 
 def _client():
@@ -108,7 +113,7 @@ def search_ids(client, query: str | None, page: int = 0,
 
 
 def fetch_detail(client, unique_id: str) -> dict | None:
-    """Return {title, description, image_url} or None if the page is 404/empty."""
+    """Return title, description, image, and the museum's maker attribution."""
     r = client.get(DETAIL_URL.format(uid=unique_id))
     if r.status_code != 200:
         return None
@@ -117,10 +122,22 @@ def fetch_detail(client, unique_id: str) -> dict | None:
     img_m = _OG_IMAGE_RE.search(r.text)
     if not (title_m and img_m):
         return None
+    ethnic_section = _ETHNIC_GROUP_RE.search(r.text)
+    ethnic_groups = (
+        [unescape(re.sub(r"<[^>]+>", "", value)).strip()
+         for value in _FACET_VALUE_RE.findall(ethnic_section.group(1))]
+        if ethnic_section else []
+    )
+    ethnic_attribution = (
+        " ".join(unescape(re.sub(r"<[^>]+>", " ", ethnic_section.group(1))).split())
+        if ethnic_section else ""
+    )
     return {
         "title": _clean_title(title_m.group(1)),
         "description": desc_m.group(1) if desc_m else "",
         "image_url": img_m.group(1).replace("http://", "https://"),
+        "production_ethnic_groups": ethnic_groups,
+        "production_ethnic_attribution": ethnic_attribution,
     }
 
 
