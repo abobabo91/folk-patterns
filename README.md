@@ -127,6 +127,8 @@ BM, Met, Cleveland and Europeana pool has 84,134 distinct objects. These are
 search candidates, not approved site objects. `europeana-objects` appends on
 reruns, and `candidates` uses the last row for each people. `pick` also consults
 `data/world/pick_exclusions.json` for museum-attribution errors found by hand.
+For a kept object's corrected category, add an entry to
+`data/world/pick_overrides.json`; `pick` applies it before category ranking.
 
 The next rollout is staged locally: Edo (91 library records, 91 site objects),
 Bemba (42 library records, 40 site objects), Kamba (77/77), Aymara (66/66),
@@ -174,6 +176,15 @@ Europeana's provider `country` and `dcCreator` had also been imported as
 production places. The importer now uses only an explicit place label, and
 1,177 existing Europeana records with no such label had that false place
 cleared before the index was rebuilt.
+
+Konyak was then onboarded from British Museum world-list picks. Image contact
+sheets and all selected museum catalogue pages were reviewed; ten weak,
+duplicate, part-only or uncertain-attribution picks were excluded and one
+roof-ornament model was moved from architecture to sculpture. The 45 selected
+objects span eight categories. The long and short profiles were rewritten
+against museum and Nagaland government sources; generic India media results
+were removed. All 45 images are on R2; the index contains 102 cultures and
+6,432 objects.
 
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to

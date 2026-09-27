@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1954-07-54",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1954-07-54",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1954-07-54",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1954.07.54",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Konyak",
+    "tradition": "Konyak",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The picture shows a traditional Konyak helmet made from bamboo, fibre and hair, associated with Konyak warrior attire and material culture. It fits the claimed ethnicity and arms category as protective headgear/armour.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "helmet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "helmet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Helmet made of bamboo, fibre (vegetable), hair.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/konyak/arms/konyak/images/bm_A_As1954_07_54.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8ee1b32d0685c1a5baff6eb3e4f25a9e812bbe44c575922507d9c5aad571e395",
+      "bytes": 32121,
+      "local_path": "library\\south-asia\\india\\konyak\\arms\\konyak\\images\\bm_A_As1954_07_54.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-27T18:44:55.166631+00:00"
+}

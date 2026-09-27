@@ -871,6 +871,9 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
     want = {s.lower() for s in only}
     exclusions = {(x["key"], x["source"], x["id"])
                   for x in json.loads((OUT / "pick_exclusions.json").read_text(encoding="utf-8"))}
+    override_path = OUT / "pick_overrides.json"
+    overrides = {(x["key"], x["source"], x["id"]): x
+                 for x in json.loads(override_path.read_text(encoding="utf-8"))} if override_path.exists() else {}
     rows = [json.loads(l) for l in (OUT / "candidates.jsonl").read_text(encoding="utf-8").splitlines()]
     rows = [r for r in rows if not want or {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
                                              (r.get("atlas") or "").lower()} & want]
@@ -964,6 +967,10 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                       f"{'(cached) ' if hit else ''}{reason[:80]}", flush=True)
         by: dict[str, list] = {}
         for a in accepted:
+            override = overrides.get((r["key"], a["source"], a["id"]))
+            if override and override.get("art_form"):
+                a["art_form"] = override["art_form"]
+                a["judge"] += "+manual-category"
             by.setdefault(a["art_form"], []).append(a)
         ranked = {c: v for c, v in ((c, _choose(v)) for c, v in by.items()) if v}
         for v in ranked.values():
