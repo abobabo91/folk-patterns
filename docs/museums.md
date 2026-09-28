@@ -285,3 +285,13 @@ normalized `Made by: Urhobo` field, but its original donation note says
 "probably Urhobo." The latter was marked rejected in the loaded library and
 excluded from the site; both exclusions are recorded in
 `data/world/pick_exclusions.json` for future pick runs.
+
+The Fon pass (2026-09-27) showed why the full British Museum register matters
+even when its normalized `Production ethnic group` says Fon. The stool
+`Af.5117` was originally registered Ashanti and later relabeled Dahomey; the
+cloth `Af1964,02.69` is described only as "most probably" Fon; and the doll
+`Af1951,12.181` is discussed with Fon and Yoruba forms without a firm
+individual attribution. All three were excluded from the site and recorded
+in `data/world/pick_exclusions.json`. The Fon banner `Af1982,23.1` is an
+early twentieth-century replica by the traditional Yémadjé makers, according
+to the curator, rather than the original banner from the battle it depicts.

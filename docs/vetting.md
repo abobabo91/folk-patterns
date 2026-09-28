@@ -381,11 +381,11 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,647/7,647
-library records judged, 6,752 accepted and 895 dropped. The site index has
-6,659 objects in 109 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,647 images. Selected Armenian,
-Lobi, Dogon, Luba, Fante, Idoma and Urhobo images were also checked against contact sheets and catalogues.
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,678/7,678
+library records judged, 6,780 accepted and 898 dropped. The site index has
+6,687 objects in 110 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,678 images. Selected Armenian,
+Lobi, Dogon, Luba, Fante, Idoma, Urhobo and Fon images were also checked against contact sheets and catalogues.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -402,7 +402,7 @@ The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
 The same Codex CLI and visual review covered Ainu (12 judged, three published),
 Konyak (three judged, three published), Lobi (12 judged, eight published),
-Dogon (12 judged, eight published), Luba (12 judged, six published), Fante (12 judged, four published), Idoma (11 judged, five published), and Urhobo (12 judged, five published).
+Dogon (12 judged, eight published), Luba (12 judged, six published), Fante (12 judged, four published), Idoma (11 judged, five published), Urhobo (12 judged, five published), and Fon (12 judged, four published).
 Ainu's model positives included
 two 1904 World's Fair exhibition portraits and an outsider painting; the
 second pass rejected them. Konyak's three source images were cached and
@@ -421,10 +421,11 @@ and visible dress, music, or festival practice passed. A shared Central Asian
 food photo and a Samarkand vessel labeled only as Uzbekistani did not. Five
 Karakalpak candidates were inspected and rejected: a race photographed in
 Karakalpakstan did not identify the participants as Karakalpak, while four
-objects photographed in Samarkand had only country-level attribution. Four
-additional Karakalpak candidates remain pending after Wikimedia returned 429;
-none was approved without seeing its image. The status command now separates
-editorial rejections from images still awaiting that review.
+objects photographed in Samarkand had only country-level attribution. Wikimedia
+initially returned 429 for the other four. On a later retry their images showed
+an unattributed cradle and Nowruz dancers described only as Uzbekistani; those
+four were rejected too. The status command now separates editorial rejections
+from images still awaiting that review.
 
 A second contact sheet covered 11 Central Asian photos. The Xinjiang Kazakh
 yurt scene, a specifically captioned Kazakh eagle-hunting festival in Mongolia,
@@ -434,6 +435,33 @@ photos categorized as Kyrgyzstani did not specifically identify the pictured
 people as Kyrgyz. Four Pamiri candidates were rejected: three had only regional
 or generic Tajikistani attribution, and the Cleveland Museum described the
 fourth, a wedding veil, as worn by Tajik Turkmen rather than Pamiri people.
+
+Nineteen T'boli and Yakan candidates were then checked against full contact
+sheets and Commons descriptions. Nine T'boli images passed, mostly distinct
+*t'nalak* textiles plus a museum object, brass belt, and clothing. A festival
+parade image had no specific T'boli identification and failed. Four Yakan
+images passed: one of two views of the same saddle panel, a sword, a textile
+display, and a museum knife. The other saddle-panel view was redundant. Two
+mixed-exhibition pictures were categorized as Yakan but did not identify their
+pictured textiles; a celebrity portrait and a photo explicitly describing
+Maranao people were also rejected.
+
+For Fon, the Codex subscription judged 53 of 82 world-list candidates. All 51
+initially selected images were viewed in contact sheets, and all 46 British
+Museum source records were checked. The final gallery has 28 objects. Three
+additional loaded records were marked rejected after older catalogue notes
+showed uncertain or mixed ethnic attribution; their exclusions are also stored
+for future pick runs. Four of six model-accepted Commons photos passed an
+independent image-and-caption review. The generic Abomey Vodun scene and an
+outsider printed picture of a Dahomean soldier were rejected. Unrelated
+Folkways material was removed, and both profiles were rewritten from object
+records. All 31 loaded images were uploaded to R2; only the 28 approved
+objects enter the index.
+
+The current Commons counts are 97 published, 110 model-accepted awaiting
+editorial review, 36 editorially rejected, 306 model-rejected, and 710 awaiting
+the model. The Philippine and Central Asian reviews account for some of the
+new editorial decisions; the remaining 110 positives are hidden until checked.
 
 Next: vet the remaining hidden Commons photos through the subscription CLI in
 batches, review accepted images and their captions, then rebuild the index. A direct

@@ -1,0 +1,101 @@
+{
+  "id": "met-312286",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "312286",
+    "object_url": "https://www.metmuseum.org/art/collection/search/312286",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1979.206.82",
+    "accession_year": "1979"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Benin",
+    "ethnicity": "Fon",
+    "tradition": "Fon",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The image shows a Fon brass asen, a commemorative ritual altar topped with a bird, explicitly attributed to Fon peoples. It fits the claimed ethnicity, though its best category is ritual object rather than arms.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Royal asen (commemorative altar) with bird",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1897,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Brass",
+      "copper",
+      "seed pod(?)"
+    ],
+    "techniques": [],
+    "medium_raw": "Brass, copper, seed pod(?)",
+    "classification": "Metal-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 35 × W. 4 × D. 6 in. (88.9 × 10.2 × 15.2 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Court of Abomey, Republic of Benin",
+    "made_in_place_alt": [],
+    "current_gallery": "341",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Hountondji guild artists",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300266506"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/benin/fon/masks-ritual/fon/images/met_312286.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "85a2db98d10d5db76daf733a14417d08633b0c538228c0178e06a12984f91cc7",
+      "bytes": 548892,
+      "local_path": "library\\sub-saharan-africa\\benin\\fon\\masks-ritual\\fon\\images\\met_312286.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T01:43:07.804766+00:00"
+}

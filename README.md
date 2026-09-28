@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The index has 10 regions, 109 cultures and 6,659 objects through Urhobo (2026-09-27). Urhobo adds 25 source-reviewed museum objects and five independently reviewed Commons photos; its object images are on R2. The site is https://folk-patterns.vercel.app.
+**Status:** The index has 10 regions, 110 cultures and 6,687 objects through Fon (2026-09-27). Fon adds 28 source-reviewed museum objects and four independently reviewed Commons photos; its object images are on R2. The site is https://folk-patterns.vercel.app.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -229,6 +229,7 @@ against the requested people. The profile was rewritten from museum sources;
 four Commons flags passed the separate image-and-caption check.
 Idoma followed with 22 Codex candidate judgments, 20 initial picks and 16 after an image-sheet and 21-record British Museum attribution review. Four repetitive or weak objects were excluded. Five Commons photos passed the separate image-and-caption check; ambiguous Idoma/Igbo and Igala/Idoma attributions, digital art and unrelated items did not. The short and long profiles were rewritten around object records and the Smithsonian's caution about uncertain mask use; six unrelated Folkways links were removed.
 Urhobo followed with 36 Codex candidate judgments. A 33-image contact sheet and 36 full British Museum records narrowed the selection to 25 objects. One apparent sculpture record was actually a coin reusing its parent figure image; another source note said only "probably Urhobo" despite a normalized Urhobo maker field. Five Commons photos passed the image-and-caption check. The profiles were rewritten from British Museum and Smithsonian records, and unrelated Folkways links were removed.
+Fon followed with 53 Codex candidate judgments. Contact sheets of all initially selected images and all 46 full British Museum records narrowed the gallery to 28 objects. Three records loaded before their older attribution notes were checked were marked rejected: a stool first registered as Ashanti, a cloth attributed only as probably Fon, and a doll grouped with Fon and Yoruba forms. Four Commons photos passed a separate visual and caption review. The short and long profiles were rewritten around Met and British Museum object records.
 `build_index.py` refuses any library record without a boolean visual verdict,
 and publishes Commons sidecar photos only when both `vetted` and
 `editorial_reviewed` are `true`. The second check compares the image with its
@@ -236,10 +237,9 @@ caption and culture; broad Commons categories have supplied images of other
 peoples even after a positive model verdict. `vet_images.py` caches the source
 Commons images it judges under ignored `work/commons-review/` for that check,
 so reviewers need not redownload them. Run `python scripts/_vet_status.py`
-for current library and Commons counts. All 7,647 library records have model
+for current library and Commons counts. All 7,678 library records have model
 verdicts, but they have not all had a separate editorial image review. Selected
-Armenian, Lobi, Dogon, Luba, Fante, Idoma and Urhobo objects were checked against source images and catalogues;
-Selected Commons photos had the independent second pass.
+Armenian, Lobi, Dogon, Luba, Fante, Idoma, Urhobo and Fon objects were checked against source images and catalogues. Selected Commons photos had the independent second pass.
 
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to
