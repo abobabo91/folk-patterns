@@ -28,6 +28,8 @@ import shutil
 import sys
 import tempfile
 import time
+
+from slugify import slugify
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -464,7 +466,7 @@ def _vet_commons(workers: int, force: bool, only: str | None) -> None:
     with tempfile.TemporaryDirectory() as td:
         tmp = Path(td)
         for p in sorted(MEDIA_DIR.rglob("*.json")):
-            if needle and needle not in p.name.lower():
+            if needle and slugify(needle) not in p.stem:   # sidecars are slug-named
                 continue
             b = json.loads(p.read_text(encoding="utf-8"))
             ethn = b.get("ethnicity") or ""
@@ -563,7 +565,7 @@ def _recheck_rejected(workers: int, only: str | None) -> None:
         # Commons photos with vetted=False.
         cflipped = 0
         for p in sorted(MEDIA_DIR.rglob("*.json")):
-            if needle and needle not in p.name.lower():
+            if needle and slugify(needle) not in p.stem:   # sidecars are slug-named
                 continue
             b = json.loads(p.read_text(encoding="utf-8"))
             ethn = b.get("ethnicity") or ""

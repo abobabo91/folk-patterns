@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1963-06-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1963-06-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1963-06-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1963.06.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Nupe",
+    "tradition": "Nupe",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The object is a beaten brass ewer with spout, handle and hinged lid, attributed to Nupe makers — a metal vessel, not ceramic, but the wrong category is not a reason for NO.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "ewer",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "ewer",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Ewer made of beaten brass with spout, handle and hinged lid; sparse decoration.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/nupe/metalwork/nupe/images/bm_E_Af1963_06_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6e637ff23139ec23ab11173201dfbf7a10d03a8032592fbf251569814c333089",
+      "bytes": 35108,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\nupe\\metalwork\\nupe\\images\\bm_E_Af1963_06_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:51:14.654173+00:00"
+}

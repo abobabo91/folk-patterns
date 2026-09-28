@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1964-02-31",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1964-02-31",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1964-02-31",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1964.02.31",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Nupe",
+    "tradition": "Nupe",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a calabash-and-skin lute with carved back and skin-covered resonator, a traditional Nupe-type instrument form; museum attributes it to Nupe (probably), consistent with the object shown.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "musical instrument",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "musical instrument",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "(Register 1964)\r\nComposite stringed instrument; half a calabash covered with skin forms the resonator from which projects a straight stick forming the neck; there are attachments for three strings of which only two are in place, formed of sinew. The back of the calabash resonator is richly carved with stylised animals and birds.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/nupe/instruments/nupe/images/bm_E_Af1964_02_31.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a9e55876ebaead40854a69249576f01531cc2b56452b0294989d8224afe07dbd",
+      "bytes": 25870,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\nupe\\instruments\\nupe\\images\\bm_E_Af1964_02_31.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:50:52.686881+00:00"
+}

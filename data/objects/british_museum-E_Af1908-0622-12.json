@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1908-0622-12",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1908-0622-12",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-0622-12",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1908.0622.12",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Tetela",
+    "tradition": "Tetela",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows four leopard's teeth strung on a cord as a necklace, matching the museum's attribution to the Tetela people as makers; this is a plausible personal adornment item.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "necklace",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "necklace",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Leopard&#039;s teeth strung on a string.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/tetela/jewelry/tetela/images/bm_E_Af1908_0622_12.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "50c4447fc5f8adaa06ceedf396279f33ad36d794d02769f2167169221d2406b8",
+      "bytes": 42277,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\tetela\\jewelry\\tetela\\images\\bm_E_Af1908_0622_12.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:43:35.415644+00:00"
+}

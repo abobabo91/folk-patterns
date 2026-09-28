@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-HAW-99",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-HAW-99",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-HAW-99",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.HAW.99",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "United States",
+    "ethnicity": "Native Hawaiians",
+    "tradition": "Native Hawaiians",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The object is a polished black lava-stone disc used as a traditional Hawaiian mirror (kilo pōhaku), a Hawaiian-made and used item; the museum's ethnicity attribution and description support this.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "mirror",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mirror",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Registration slip description by C H Read, written in 1895: \r\nMirror [Kilo pohaku] consisting of a thin flat smoothly ground disc of black lava, with straight edges.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/united-states/native-hawaiians/household/native-hawaiians/images/bm_E_Oc_HAW_99.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "222c38d4f521fbd76aa30a9af76eeb47aace35dd92f022bb47780dbb64d393ff",
+      "bytes": 86436,
+      "local_path": "library\\oceania\\united-states\\native-hawaiians\\household\\native-hawaiians\\images\\bm_E_Oc_HAW_99.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T16:05:31.338423+00:00"
+}

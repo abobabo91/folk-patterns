@@ -1,0 +1,91 @@
+{
+  "id": "met-501205",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "501205",
+    "object_url": "https://www.metmuseum.org/art/collection/search/501205",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.589",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Hopi",
+    "tradition": "Hopi",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A cylindrical hide-covered drum, a traditional musical instrument type made and used by Hopi and other Southwest Native peoples.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Drum",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Metal",
+      "skin"
+    ],
+    "techniques": [],
+    "medium_raw": "Metal, skin",
+    "classification": "Membranophone-double-headed / cylindrical drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Overall: 25.5 x 29cm (10 1/16 x 11 7/16in.)\r\nOther (heads): 24.5cm (9 5/8in.)\r\nOther (stick): 26cm (10 1/4in.)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Arizona, United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/hopi/instruments/hopi/images/met_501205.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "69449f285bdef691c7089e390f5ba71c13787f86553a9fd35a4d42ca657f1c0a",
+      "bytes": 227127,
+      "local_path": "library\\north-america\\united-states\\hopi\\instruments\\hopi\\images\\met_501205.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:11:51.643909+00:00"
+}

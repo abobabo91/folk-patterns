@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1982-12-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1982-12-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1982-12-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1982.12.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Hopi",
+    "tradition": "Hopi",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A polychrome burnished pottery jar with painted bird-head (parrot/eagle) and geometric motifs on cream slip, consistent with classic Hopi Sikyatki-revival pottery traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1982:\r\nPottery vessel dark brown and orange painted zoomorphic and geometric designs on a burnished cream/orange slip.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/hopi/ceramic/hopi/images/bm_E_Am1982_12_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2d266fca85188f4f04f34e1b344eadad2128f4163e03b25dbf810a950047113d",
+      "bytes": 82620,
+      "local_path": "library\\north-america\\united-states\\hopi\\ceramic\\hopi\\images\\bm_E_Am1982_12_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:11:34.245511+00:00"
+}

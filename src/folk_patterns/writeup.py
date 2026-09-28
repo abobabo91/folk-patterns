@@ -257,7 +257,8 @@ _AUDIT_STOP = {"and", "the", "with", "for", "from", "its", "our", "of", "or"}
 
 def _fold(s: str) -> str:
     import unicodedata
-    s = s.replace("’", "'").replace("ʼ", "'")
+    # the Hawaiian ʻokina is dropped: the sources write "kupee niho ilio" for kūpeʻe niho ʻīlio
+    s = s.replace("’", "'").replace("ʼ", "'").replace("ʻ", "")
     return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c)).lower()
 
 

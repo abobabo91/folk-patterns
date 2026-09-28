@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-LMS-223",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-LMS-223",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-LMS-223",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.LMS.223",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "United States",
+    "ethnicity": "Native Hawaiians",
+    "tradition": "Native Hawaiians",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden temple figure with a stylized crested headdress and aggressive posture, consistent with a Native Hawaiian ki'i akua (deity image), likely representing Kū-ka'ili-moku the war god as noted.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure; sculpture (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure; sculpture (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Temple image figure made of wood (metrosideros sp), probably represents Ku-ka’ili- moku the god of war.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/united-states/native-hawaiians/sculpture/native-hawaiians/images/bm_E_Oc_LMS_223.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "674f42d2ae4b97944e1ef518616fcc0e64706c7ef4a30419d87eefe94d4129e0",
+      "bytes": 33290,
+      "local_path": "library\\oceania\\united-states\\native-hawaiians\\sculpture\\native-hawaiians\\images\\bm_E_Oc_LMS_223.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T16:05:37.686140+00:00"
+}

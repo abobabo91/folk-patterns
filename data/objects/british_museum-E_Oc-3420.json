@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-3420",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-3420",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-3420",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.3420",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Australia",
+    "ethnicity": "Torres Strait Islanders",
+    "tradition": "Torres Strait Islanders",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a dhari, the distinctive feathered headdress made and worn by Torres Strait Islanders, with the characteristic arched shape, white feathers, and central black feather, matching the museum's attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "head-ornament",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-ornament",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Dhari, or head ornament, formed of a triangular piece of canvas, coloured white with red and black edges, surrounded by rattan in openwork; radiating from this are cut white feathers with one black one in the middle.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/australia/torres-strait-islanders/jewelry/torres-strait-islanders/images/bm_E_Oc_3420.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "028f6107538d22564fd8a123c189484a84620d6cf4eb7663d6554fee18c4be50",
+      "bytes": 40163,
+      "local_path": "library\\oceania\\australia\\torres-strait-islanders\\jewelry\\torres-strait-islanders\\images\\bm_E_Oc_3420.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:57:47.098260+00:00"
+}

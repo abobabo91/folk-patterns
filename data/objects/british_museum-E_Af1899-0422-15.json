@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1899-0422-15",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1899-0422-15",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1899-0422-15",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1899.0422.15",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zimbabwe",
+    "ethnicity": "Shona",
+    "tradition": "Shona",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a multi-strand glass beadwork girdle in red, black, pink and white, a type of personal adornment consistent with Shona beadwork traditions; the museum explicitly attributes it to the Shona.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "girdle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "girdle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Girdle made of seven strands of very small alternating red, black, pink and white glass beads.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zimbabwe/shona/jewelry/shona/images/bm_E_Af1899_0422_15.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fa625e48d166848feb3e95150ac97edd79ee940ea9f3b98a2959103e46afbb00",
+      "bytes": 97806,
+      "local_path": "library\\sub-saharan-africa\\zimbabwe\\shona\\jewelry\\shona\\images\\bm_E_Af1899_0422_15.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:23:31.854729+00:00"
+}

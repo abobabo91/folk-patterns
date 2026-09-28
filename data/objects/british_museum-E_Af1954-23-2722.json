@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-2722",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-2722",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-2722",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.2722",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Tetela",
+    "tradition": "Tetela",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a ceremonial axe with an incised, openwork iron blade featuring perforations and a copper inlay roundel, matching the museum's attribution to the Tetela as maker. Such prestige axes are characteristic weapons/regalia of Congolese peoples including the Tetela.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "axe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "axe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Axe with incised openwork iron blade, series of circular/diamond-shaped perforations and flared tip. Circular copper openwork section inserted in blade. Wooden handle with single circular incision on either side where shaft meets blade.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/tetela/arms/tetela/images/bm_E_Af1954_23_2722.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "28d47e6a085410c70a37378da06d09df7520b0ddf48c3171bd31ee831901cf0c",
+      "bytes": 31936,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\tetela\\arms\\tetela\\images\\bm_E_Af1954_23_2722.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:43:40.908505+00:00"
+}

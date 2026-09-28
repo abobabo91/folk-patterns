@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1892-0714-160",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1892-0714-160",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1892-0714-160",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1892.0714.160",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zimbabwe",
+    "ethnicity": "Shona",
+    "tradition": "Shona",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a rattle made of three rows of seed pods strung on cane with bark-strip ties, consistent with the museum's description and attributed to Shona makers as a traditional musical instrument.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "rattle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "rattle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Rattle made of three rows of seed pods, six in a row strung on a piece of cane, the three rows  connected by a crosspiece at the end and centre tied with strips of bark.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zimbabwe/shona/instruments/shona/images/bm_E_Af1892_0714_160.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7561530e776c1d01f316089ee0315d7e6ef2df69991fd51c75f044208777dee4",
+      "bytes": 90545,
+      "local_path": "library\\sub-saharan-africa\\zimbabwe\\shona\\instruments\\shona\\images\\bm_E_Af1892_0714_160.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:23:40.762318+00:00"
+}

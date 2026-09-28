@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-89-108",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-89-108",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-89-108",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.89.108",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Australia",
+    "ethnicity": "Torres Strait Islanders",
+    "tradition": "Torres Strait Islanders",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a bamboo cracking whip (lolo) with incised handle decoration and sinnet cord, matching the museum's attribution to a Torres Strait Islander maker; this is a made-and-used object consistent with the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "musical instrument",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "musical instrument",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bamboo cracking whip (lolo). A piece of flexible bamboo strip to one end of which is attached a length of thin sinnet cord with fine coconut root tied on end. The handle has fine incised decoration.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/australia/torres-strait-islanders/instruments/torres-strait-islanders/images/bm_E_Oc_89_108.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "71c50b2eaa21b31fd69d867b22ababb311b0a26814d4fd025c7a13cdd0eac1b3",
+      "bytes": 24768,
+      "local_path": "library\\oceania\\australia\\torres-strait-islanders\\instruments\\torres-strait-islanders\\images\\bm_E_Oc_89_108.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:58:10.992673+00:00"
+}

@@ -48,7 +48,9 @@
       "United States"
     ],
     "oceania": [
-      "New Zealand"
+      "New Zealand",
+      "Australia",
+      "United States"
     ],
     "southeast-asia": [
       "Indonesia",
@@ -84,7 +86,8 @@
       "Burkina Faso",
       "Zambia",
       "Mali",
-      "Benin"
+      "Benin",
+      "Zimbabwe"
     ]
   },
   "ethnicity_keys": [
@@ -123,9 +126,13 @@
     "middle-east-north-africa__turkey__turkish",
     "north-america__canada-greenland__inuit",
     "north-america__canada__haida",
+    "north-america__canada__nuu-chah-nulth",
+    "north-america__united-states__hopi",
     "north-america__united-states__navajo",
     "north-america__united-states__tlingit",
+    "oceania__australia__torres-strait-islanders",
     "oceania__new-zealand__maori",
+    "oceania__united-states__native-hawaiians",
     "south-asia__india__konyak",
     "south-asia__india__naga",
     "southeast-asia__cambodia__khmer",
@@ -165,6 +172,7 @@
     "sub-saharan-africa__democratic-republic-of-the-congo__luba",
     "sub-saharan-africa__democratic-republic-of-the-congo__pende",
     "sub-saharan-africa__democratic-republic-of-the-congo__songye",
+    "sub-saharan-africa__democratic-republic-of-the-congo__tetela",
     "sub-saharan-africa__djibouti-eritrea__afar",
     "sub-saharan-africa__ethiopia__amhara",
     "sub-saharan-africa__ethiopia__oromo",
@@ -183,9 +191,11 @@
     "sub-saharan-africa__nigeria__edo",
     "sub-saharan-africa__nigeria__gbagyi",
     "sub-saharan-africa__nigeria__hausa",
+    "sub-saharan-africa__nigeria__ibibio",
     "sub-saharan-africa__nigeria__idoma",
     "sub-saharan-africa__nigeria__igbo",
     "sub-saharan-africa__nigeria__mambila",
+    "sub-saharan-africa__nigeria__nupe",
     "sub-saharan-africa__nigeria__tiv",
     "sub-saharan-africa__nigeria__urhobo",
     "sub-saharan-africa__nigeria__yoruba",
@@ -199,33 +209,34 @@
     "sub-saharan-africa__south-sudan__boya",
     "sub-saharan-africa__tanzania__sukuma",
     "sub-saharan-africa__tanzania__swahili",
-    "sub-saharan-africa__zambia__bemba"
+    "sub-saharan-africa__zambia__bemba",
+    "sub-saharan-africa__zimbabwe__shona"
   ],
-  "all_objects_count": 6801,
+  "all_objects_count": 7322,
   "facets": {
     "art_form": {
-      "textile": 975,
-      "painting-mss": 326,
-      "architectural": 1016,
-      "photo": 510,
-      "sculpture": 501,
-      "metalwork": 224,
-      "ceramic": 230,
-      "jewelry": 484,
-      "arms": 466,
-      "garment": 705,
-      "household": 802,
-      "instruments": 232,
-      "masks-ritual": 329,
+      "textile": 999,
+      "painting-mss": 336,
+      "architectural": 1028,
+      "photo": 539,
+      "sculpture": 546,
+      "metalwork": 235,
+      "ceramic": 261,
+      "jewelry": 540,
+      "arms": 516,
+      "garment": 763,
+      "household": 893,
+      "instruments": 282,
+      "masks-ritual": 383,
       "unclassified": 1
     },
     "source": {
-      "british_museum": 3486,
+      "british_museum": 3961,
       "cleveland": 553,
       "va": 434,
-      "met": 146,
+      "met": 156,
       "commons_arch": 1172,
-      "europeana": 971,
+      "europeana": 1007,
       "smithsonian": 31,
       "rijks": 8
     },
@@ -239,7 +250,7 @@
       "Turkmenistan": 90,
       "Tajikistan": 45,
       "Malaysia": 131,
-      "Nigeria": 493,
+      "Nigeria": 648,
       "Cambodia": 143,
       "China (Tibet)": 76,
       "Japan": 80,
@@ -253,9 +264,10 @@
       "Turkey": 139,
       "Morocco": 127,
       "Tunisia": 56,
-      "Canada": 85,
+      "Canada": 126,
       "Canada / Greenland": 74,
-      "United States": 93,
+      "United States": 218,
+      "Australia": 80,
       "New Zealand": 84,
       "India": 114,
       "Vietnam": 160,
@@ -270,7 +282,7 @@
       "Burkina Faso": 15,
       "Cameroon": 16,
       "Central African Republic": 114,
-      "Democratic Republic of the Congo": 441,
+      "Democratic Republic of the Congo": 501,
       "Djibouti / Eritrea": 16,
       "Ethiopia": 123,
       "Gabon": 103,
@@ -283,7 +295,8 @@
       "South Africa": 360,
       "South Sudan": 35,
       "Tanzania": 94,
-      "Zambia": 42
+      "Zambia": 42,
+      "Zimbabwe": 60
     }
   }
 }

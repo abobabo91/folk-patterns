@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1982-12-8-c-d",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1982-12-8-c-d",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1982-12-8-c-d",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1982.12.8.c.d",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Australia",
+    "ethnicity": "Torres Strait Islanders",
+    "tradition": "Torres Strait Islanders",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a pair of wooden fire-sticks bound together with fibre cord, a traditional fire-making tool attributed by the museum to Torres Strait Islander manufacture. This is a plausible everyday utilitarian object consistent with the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "fire-stick",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "fire-stick",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Pair of fire-sticks, (c) made of wood, (d) of wood and gum.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/australia/torres-strait-islanders/household/torres-strait-islanders/images/bm_E_Oc1982_12_8_c_d.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d2f1a73b6248b9b876dc6fa1f6ec5669d3f412047be8559d5ad601def883470d",
+      "bytes": 133799,
+      "local_path": "library\\oceania\\australia\\torres-strait-islanders\\household\\torres-strait-islanders\\images\\bm_E_Oc1982_12_8_c_d.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:57:27.717163+00:00"
+}

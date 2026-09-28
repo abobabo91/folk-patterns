@@ -1,0 +1,97 @@
+{
+  "id": "met-812104",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "812104",
+    "object_url": "https://www.metmuseum.org/art/collection/search/812104",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Samuel and Gabrielle Lurie, in celebration of the Museum's 150th Anniversary, 2018",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2018.925.3",
+    "accession_year": "2018"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Ibibio",
+    "tradition": "Ibibio",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved wooden Ogbom dance crest figure used by the Ibibio (Eket subgroup) in ritual performance, not a garment; it fits the claimed ethnicity but the category should be corrected.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Ogbom dance crest fragment",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1897,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 17 1/4 in. (43.8 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "southeast Nigeria",
+    "made_in_place_alt": [],
+    "current_gallery": "343",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Southern Ibibio artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/ibibio/masks-ritual/ibibio/images/met_812104.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "38bf4a297b77607d98caffd3db8a94c0aa5ff4cfa128e641aedd448e33574f45",
+      "bytes": 1733430,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\ibibio\\masks-ritual\\ibibio\\images\\met_812104.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:37:02.415475+00:00"
+}

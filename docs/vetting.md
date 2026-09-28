@@ -317,6 +317,41 @@ none after the retry. The published Tlingit profile stays the hand-checked one.
 Substring matching had let *tifa* pass on "artifact", *hit* on "white" and
 *otsj* on "Otsjanep".
 
+The audit folds text before it splits words. A combining mark had split
+*nuučaan̓uł* in two, and "4,000" failed against a source reading "4000". The
+Hawaiian ʻokina is dropped, because the museum records write *kupee niho ilio*,
+*ahu'ula* and *ukeke*. Before that, five true Hawaiian terms were flagged and
+`--fix` stripped their italics from the short profile. The short rewrite can
+also italicise a word the long draft used plainly (Hopi *manta*), so
+`add_culture.py` runs `audit_profile.py --fix` after it.
+
+### Eight cultures from picks (2026-09-28)
+
+| Culture | Kept by pick | Published | Commons | Excluded by review |
+|---|---|---|---|---|
+| Hopi | 47 | 44 | 9 of 11 | Snake Dance photo and painting (editorial call, not in the sources) |
+| Shona | 62 | 60 | 3 of 3 | near-repeat divination tablets |
+| Nuu-chah-nulth | 41 | 41 | 2 of 2 | none |
+| Ibibio | 77 | 77 | 3 of 6 | Efik board, Igbo doors, modern Nsibidi scroll (Commons) |
+| Tetela | 60 | 60 | 1 of 1 | none |
+| Nupe | 78 | 78 | 6 of 10 | "Hausa oder Nupe" mask and unattributed photos (Commons) |
+| Torres Strait Islanders | 81 | 80 | 2 of 3 | second photo of one bottle |
+| Native Hawaiians | 83 | 81 | 6 of 11 | two royal portraits in Western dress; lauhala "German stars" (Commons) |
+
+Every seed's tradition chips were pruned to the ones the sources contain.
+Between 11 and 16 were dropped per culture, for example 16 Shona chips such as
+*hozi* and *chikuva*. The Shona load first wrote 0 records: every British Museum
+fetch got 403 while two picks shared the Chrome. `_load_picks.py` now re-reads
+the cookies when a British Museum record comes back empty.
+
+The Commons backlog review rejected, most often: monuments of ancient states
+filed under a living people (Persepolis, Narmer, Tiwanaku, Kerma); generic
+country photos repeated across cultures (the same Ethiopian headrests, coffee
+ceremony and gameboard under both Oromo and Sidama; "umembeso" under Ndebele,
+Sotho and Xhosa); festival and agricultural-show crowds with no attribution
+(Bemba, Bwa, Boya); and modern portraits of officials. Oromo lost 9 of 11 and
+Sidama 10 of 12 this way.
+
 For Hausa, Codex judged 123 world-list candidates and initially retained 104.
 Review of contact sheets and original catalogue descriptions excluded 39: plain
 or near-duplicate pieces, faint Qur'an boards, damaged toys, a Ghanaian
@@ -449,11 +484,15 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,797/7,797
-library records judged, 6,899 accepted and 898 dropped. The site index has
-6,801 objects in 112 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,797 images. Selected Armenian,
-Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat and Tlingit images were also checked against contact sheets and catalogues.
+**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 8,318/8,318
+library records judged, 7,420 accepted and 898 dropped. The site index has
+7,322 objects in 120 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 8,318 images. Selected Armenian,
+Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
+Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander and Native Hawaiian
+images were also checked against contact sheets and catalogues. Commons: 452
+published, 250 rejected by the editorial check, 666 rejected by the model, none
+waiting.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 

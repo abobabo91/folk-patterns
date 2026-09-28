@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-5099-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-5099-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-5099-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.5099.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Nupe",
+    "tradition": "Nupe",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a sword with a German-manufactured blade but a locally made leather sheath with characteristic red/green leather work and woven cord decoration, attributed by the museum to Nupe makers who commonly re-hilted and re-sheathed imported European blades. The sheath and mounting represent genuine Nupe craftsmanship even though the blade itself was imported.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sword",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sword",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sword with a double edged blade of German manufacture, with a sheath of red leather.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/nupe/arms/nupe/images/bm_E_Af_5099_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "99f7b2072949011e480a64c45d3ed481692298832bb49646302abcf3812a03b9",
+      "bytes": 31828,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\nupe\\arms\\nupe\\images\\bm_E_Af_5099_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:51:25.507037+00:00"
+}

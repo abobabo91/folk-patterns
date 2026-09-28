@@ -154,6 +154,101 @@
           }
         }
       ]
+    },
+    {
+      "country": "Australia",
+      "met_queries": [
+        "Australia"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Torres Strait Islanders",
+          "homeland": {
+            "lat": -10.58,
+            "lon": 142.22
+          },
+          "homeland_place": "Thursday Island",
+          "traditions": [
+            "dhoeri",
+            "dari headdress",
+            "krar",
+            "wap",
+            "turtleshell mask",
+            "le-op",
+            "sagai",
+            "Torres Strait Islander linocut"
+          ],
+          "arch_commons_categories": [
+            "Quetta Memorial Cathedral, Thursday Island",
+            "Green Hill Fort",
+            "Thursday Island"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Torres Strait",
+              "Torres Strait Islander",
+              "Torres Straits",
+              "Mer Island",
+              "Murray Island",
+              "Saibai",
+              "Mabuiag",
+              "Badu Island",
+              "Australia"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "United States",
+      "met_queries": [
+        "United States"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Native Hawaiians",
+          "homeland": {
+            "lat": 19.72,
+            "lon": -155.09
+          },
+          "homeland_place": "Hilo",
+          "traditions": [
+            "kapa",
+            "mahiole",
+            "lei niho palaoa",
+            "lei hulu",
+            "kahili",
+            "pahu",
+            "kou bowl",
+            "malo",
+            "heiau",
+            "lei palaoa",
+            "koa canoe"
+          ],
+          "arch_commons_categories": [
+            "Pu'uhonua o Honaunau National Historical Park",
+            "Mo'okini Heiau",
+            "Pu'ukohola Heiau",
+            "Ahu'ena Heiau",
+            "Ulupo Heiau",
+            "Kaneaki Heiau",
+            "Hikiau Heiau"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Hawaiian",
+              "Hawaii",
+              "Native Hawaiian",
+              "Sandwich Islands",
+              "Polynesian"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

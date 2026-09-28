@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1908-0622-119-a-c",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1908-0622-119-a-c",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-0622-119-a-c",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1908.0622.119.a.c",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Tetela",
+    "tradition": "Tetela",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a stick zither with wooden neck and fibre bindings alongside two gourd resonators, matching the museum's attribution to Tetela makers as a musical instrument.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "zither",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "zither",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Stick zither (a) made of wood and quill with fibre bindings; gourd resonator (b-c).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/tetela/instruments/tetela/images/bm_E_Af1908_0622_119_a_c.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6e6ccd2e55c10bb3bf99cae23c5dda10c33931b885f22f75a36a9b8b96dba536",
+      "bytes": 41621,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\tetela\\instruments\\tetela\\images\\bm_E_Af1908_0622_119_a_c.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:44:02.213211+00:00"
+}

@@ -495,6 +495,69 @@
               "Sobo"
             ]
           }
+        },
+        {
+          "name": "Ibibio",
+          "homeland": {
+            "lat": 5.04,
+            "lon": 7.93
+          },
+          "homeland_place": "Uyo",
+          "traditions": [
+            "ekpo",
+            "idiong",
+            "nsibidi",
+            "ekpo mask",
+            "mfon ekpo",
+            "ekong",
+            "ata ekpo",
+            "eka ekpo",
+            "afia ekpo",
+            "ikpa raffia cloth"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Ibibio",
+              "Anang",
+              "Annang",
+              "Eket",
+              "Oron",
+              "Ibeno",
+              "Efik",
+              "Nigeria"
+            ]
+          }
+        },
+        {
+          "name": "Nupe",
+          "homeland": {
+            "lat": 9.08,
+            "lon": 6.01
+          },
+          "homeland_place": "Bida",
+          "traditions": [
+            "Bida brasswork",
+            "Bida glass beads",
+            "engraved brass tray",
+            "Nupe carved door",
+            "Bida pottery",
+            "Nupe indigo cloth",
+            "Nupe gown embroidery",
+            "Nupe calabash carving"
+          ],
+          "arch_commons_categories": [
+            "Bida"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Nupe",
+              "Nupé",
+              "Tapa",
+              "Bida",
+              "Nigeria"
+            ]
+          }
         }
       ]
     },
@@ -1387,6 +1450,31 @@
           "source_queries": {
             "cleveland": [
               "Luba"
+            ]
+          }
+        },
+        {
+          "name": "Tetela",
+          "homeland": {
+            "lat": -5.9,
+            "lon": 24.2
+          },
+          "homeland_place": "Lusambo",
+          "traditions": [
+            "otetela raffia cloth",
+            "ngongo drum"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Tetela",
+              "Batetela",
+              "Otetela",
+              "Sungu",
+              "Hamba",
+              "Kasai",
+              "Sankuru",
+              "Congo (Democratic Republic)"
             ]
           }
         }
@@ -2344,6 +2432,54 @@
               "Dahomean",
               "Abomey",
               "Benin"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Zimbabwe",
+      "met_queries": [
+        "Zimbabwe"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Shona",
+          "homeland": {
+            "lat": -20.27,
+            "lon": 30.93
+          },
+          "homeland_place": "Masvingo",
+          "traditions": [
+            "mbira dzavadzimu",
+            "hosho",
+            "nyunga nyunga",
+            "ngoma",
+            "nyanga",
+            "hari pottery",
+            "springstone sculpture"
+          ],
+          "arch_commons_categories": [
+            "Great Zimbabwe",
+            "Khami Ruins",
+            "Ziwa Ruins",
+            "Naletale",
+            "Dhlo-Dhlo",
+            "Nalatale Ruins",
+            "Mutoko"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Shona",
+              "Zimbabwe",
+              "Mashona",
+              "Southern Rhodesia",
+              "Rhodesia",
+              "Karanga",
+              "Zezuru",
+              "Manyika"
             ]
           }
         }

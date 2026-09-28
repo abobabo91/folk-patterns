@@ -426,7 +426,7 @@
       "homeland_place": "Fars Province",
       "lat": 29.75,
       "lon": 52.64,
-      "object_count": 0,
+      "object_count": 3,
       "seed_traditions": [
         "Qashqai kilim",
         "Qashqai gabbeh",
@@ -628,6 +628,25 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/architectural/haida/images/bm_E_Am1958-02-1.jpg"
     },
     {
+      "key": "north-america__canada__nuu-chah-nulth",
+      "region": "north-america",
+      "country": "Canada",
+      "ethnicity": "Nuu-chah-nulth",
+      "homeland_place": "Tofino",
+      "lat": 49.15,
+      "lon": -125.91,
+      "object_count": 41,
+      "seed_traditions": [
+        "cedar bark cape",
+        "Nootka basketry",
+        "Makah-Nuu-chah-nulth wrapped twining",
+        "Wolf Ritual mask",
+        "formline",
+        "ovoid and U-form"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/nuu-chah-nulth/arms/nuu-chah-nulth/images/bm_E_Am_8766.jpg"
+    },
+    {
       "key": "north-america__canada-greenland__inuit",
       "region": "north-america",
       "country": "Canada / Greenland",
@@ -685,6 +704,24 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/tlingit/arms/tlingit/images/met_319084.jpg"
     },
     {
+      "key": "north-america__united-states__hopi",
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Hopi",
+      "homeland_place": "Flagstaff",
+      "lat": 35.86,
+      "lon": -110.55,
+      "object_count": 44,
+      "seed_traditions": [
+        "wicker plaque",
+        "yucca sifter basket",
+        "coiled plaque",
+        "kachina sash",
+        "pueblo kiva"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/hopi/ceramic/hopi/images/eu_91608_SMVK_VKM_objekt_14535.jpg"
+    },
+    {
       "key": "oceania__new-zealand__maori",
       "region": "oceania",
       "country": "New Zealand",
@@ -702,6 +739,44 @@
         "kākahu"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/architectural/maori/images/bm_E_Oc-NZ-87.jpg"
+    },
+    {
+      "key": "oceania__australia__torres-strait-islanders",
+      "region": "oceania",
+      "country": "Australia",
+      "ethnicity": "Torres Strait Islanders",
+      "homeland_place": "Thursday Island",
+      "lat": -10.58,
+      "lon": 142.22,
+      "object_count": 80,
+      "seed_traditions": [
+        "dhoeri",
+        "dari headdress",
+        "krar",
+        "wap",
+        "turtleshell mask",
+        "le-op"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/australia/torres-strait-islanders/architectural/torres-strait-islanders/images/bm_E_Oc_6817.jpg"
+    },
+    {
+      "key": "oceania__united-states__native-hawaiians",
+      "region": "oceania",
+      "country": "United States",
+      "ethnicity": "Native Hawaiians",
+      "homeland_place": "Hilo",
+      "lat": 19.72,
+      "lon": -155.09,
+      "object_count": 81,
+      "seed_traditions": [
+        "kapa",
+        "mahiole",
+        "lei niho palaoa",
+        "lei hulu",
+        "kahili",
+        "pahu"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/united-states/native-hawaiians/arms/native-hawaiians/images/bm_E_Oc1999_Q_151.jpg"
     },
     {
       "key": "southeast-asia__indonesia__javanese",
@@ -1388,6 +1463,44 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/urhobo/arms/urhobo/images/bm_E_Af1896_0817_17.jpg"
     },
     {
+      "key": "sub-saharan-africa__nigeria__ibibio",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Ibibio",
+      "homeland_place": "Uyo",
+      "lat": 5.04,
+      "lon": 7.93,
+      "object_count": 77,
+      "seed_traditions": [
+        "ekpo",
+        "idiong",
+        "nsibidi",
+        "ekpo mask",
+        "mfon ekpo",
+        "ekong"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/ibibio/architectural/ibibio/images/bm_E_Af1914_0616_18.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__nigeria__nupe",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Nupe",
+      "homeland_place": "Bida",
+      "lat": 9.08,
+      "lon": 6.01,
+      "object_count": 78,
+      "seed_traditions": [
+        "Bida brasswork",
+        "Bida glass beads",
+        "engraved brass tray",
+        "Nupe carved door",
+        "Bida pottery",
+        "Nupe indigo cloth"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/nupe/architectural/nupe/images/bm_E_Af1971_09_1_b.jpg"
+    },
+    {
       "key": "sub-saharan-africa__ghana__ashanti",
       "region": "sub-saharan-africa",
       "country": "Ghana",
@@ -1528,7 +1641,7 @@
       "homeland_place": "Sidama Region",
       "lat": 6.7,
       "lon": 38.5,
-      "object_count": 4,
+      "object_count": 3,
       "seed_traditions": [
         "Sidama basketry",
         "Sidama pottery",
@@ -1747,6 +1860,21 @@
         "carved wooden staff"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/luba/arms/luba/images/bm_E_Af1909_Ty_1005_a.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__democratic-republic-of-the-congo__tetela",
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Tetela",
+      "homeland_place": "Lusambo",
+      "lat": -5.9,
+      "lon": 24.2,
+      "object_count": 60,
+      "seed_traditions": [
+        "otetela raffia cloth",
+        "ngongo drum"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/tetela/arms/tetela/images/bm_E_Af1954_23_2722.jpg"
     },
     {
       "key": "sub-saharan-africa__gabon__fang",
@@ -2087,6 +2215,25 @@
         "Abomey appliqué banners"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/benin/fon/arms/fon/images/bm_E_Af1954_23_2692.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__zimbabwe__shona",
+      "region": "sub-saharan-africa",
+      "country": "Zimbabwe",
+      "ethnicity": "Shona",
+      "homeland_place": "Masvingo",
+      "lat": -20.27,
+      "lon": 30.93,
+      "object_count": 60,
+      "seed_traditions": [
+        "mbira dzavadzimu",
+        "hosho",
+        "nyunga nyunga",
+        "ngoma",
+        "nyanga",
+        "hari pottery"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zimbabwe/shona/arms/shona/images/bm_E_Af1892_0714_130_a.jpg"
     }
   ]
 }

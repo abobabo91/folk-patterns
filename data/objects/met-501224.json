@@ -1,0 +1,100 @@
+{
+  "id": "met-501224",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "501224",
+    "object_url": "https://www.metmuseum.org/art/collection/search/501224",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.608",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Hopi",
+    "tradition": "Hopi",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a pair of gourd rattles with wooden handles, matching the museum's description of a Hopi \"Ah-Yah\" rattle used in ceremonial contexts; gourd rattles are a well-documented Hopi/Puebloan instrument type.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Ah-Yah",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Gourd",
+      "wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Gourd, wood",
+    "classification": "Idiophone-Shaken-rattle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Overall: 15.2 x 29.2cm (6 x 11 1/2in.)\r\nOverall: 16.5 x 27.9cm (6 1/2 x 11in.)LC",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Hopi people",
+        "role": "Maker",
+        "dates": null,
+        "urls": [
+          "http://vocab.getty.edu/page/ulan/500203418"
+        ]
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/hopi/instruments/hopi/images/met_501224.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "66f9ed24e68a45e87c1ef026884d376aebd5c6c290a57befb37fe98b7c680cbd",
+      "bytes": 170698,
+      "local_path": "library\\north-america\\united-states\\hopi\\instruments\\hopi\\images\\met_501224.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:11:48.016012+00:00"
+}

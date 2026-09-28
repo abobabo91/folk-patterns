@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1898-46",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1898-46",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1898-46",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1898.46",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "United States",
+    "ethnicity": "Native Hawaiians",
+    "tradition": "Native Hawaiians",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a polished coconut-shell poi bowl, a traditional Hawaiian household vessel used for food preparation; it belongs to the culture, though it is not ceramic in material.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Poi vessel made of a coconut, cut lengthways, highly polished.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/united-states/native-hawaiians/household/native-hawaiians/images/bm_E_Oc1898_46.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f6f5fa7d6c9193125706978e112223d79f0bb2d2c1c15ab24e3197c991cdc9ec",
+      "bytes": 41766,
+      "local_path": "library\\oceania\\united-states\\native-hawaiians\\household\\native-hawaiians\\images\\bm_E_Oc1898_46.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T16:05:31.954325+00:00"
+}

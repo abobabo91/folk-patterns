@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1892-0714-130-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1892-0714-130-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1892-0714-130-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1892.0714.130.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zimbabwe",
+    "ethnicity": "Shona",
+    "tradition": "Shona",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image clearly shows an iron-bladed dagger with an incised wooden handle and its carved sheath, a type of weapon attributed to the Shona and consistent with their known metalwork and woodcarving traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "dagger",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dagger",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Dagger with iron blade, with incised line design on wooden handle.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zimbabwe/shona/arms/shona/images/bm_E_Af1892_0714_130_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "18d190e59cba9ff023502d8f6d49e79d0fd2b564c5fc19cae0278545ea55c3d4",
+      "bytes": 35027,
+      "local_path": "library\\sub-saharan-africa\\zimbabwe\\shona\\arms\\shona\\images\\bm_E_Af1892_0714_130_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:23:43.840879+00:00"
+}

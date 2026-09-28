@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1947-10-3",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1947-10-3",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1947-10-3",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1947.10.3",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Nupe",
+    "tradition": "Nupe",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a hammered brass dish with a central rosette and scrollwork, attributed by the museum to Nupe makers — Nupe brasswork of this kind is a well-documented craft, but the object is metal, not ceramic as the record claims.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "dish",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dish",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1947:\r\nBrass dish, hammered Zs in rings, centrtal rosette, trumpet-lobed scrolls in &quot;S&quot; pattern, four pairs of ridges on rim.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/nupe/metalwork/nupe/images/bm_E_Af1947_10_3.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "15a33843057a44907c56e49ef2dc6b6bd9ed4a7421cb580a6b89696b8929d911",
+      "bytes": 38356,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\nupe\\metalwork\\nupe\\images\\bm_E_Af1947_10_3.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:51:15.255081+00:00"
+}

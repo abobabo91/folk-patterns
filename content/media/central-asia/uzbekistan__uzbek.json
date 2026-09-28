@@ -238,7 +238,13 @@
         "height": 1772,
         "quality_tier": 0,
         "source_category": "(Wikipedia article)",
-        "vetted_by": "claude-haiku-4-5"
+        "vetted_by": "claude-sonnet-5",
+        "vetted": true,
+        "vetted_art_form": "painting-mss",
+        "vetted_image": "good",
+        "vetted_era": "traditional",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "claude-visual-2026-09-28"
       },
       {
         "title": "Kaunakes Bactria Louvre AO31917.jpg",
@@ -287,7 +293,9 @@
         "source_category": "(Wikipedia article)",
         "vetted": true,
         "vetted_by": "claude-haiku-4-5",
-        "vetted_art_form": "photo"
+        "vetted_art_form": "photo",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "claude-visual-2026-09-28"
       },
       {
         "title": "Turkish officers during a audience with king Varkhuman of Samarkand. 648-651 CE, Afrasiyab, Samarkand.jpg",
@@ -303,7 +311,9 @@
         "source_category": "(Wikipedia article)",
         "vetted": true,
         "vetted_by": "claude-haiku-4-5",
-        "vetted_art_form": "painting-mss"
+        "vetted_art_form": "painting-mss",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "claude-visual-2026-09-28"
       },
       {
         "title": "Types of Nationalities in the Turkestan Krai. Uzbeks. Mulla Dzhan Turdi Ali, Uncle of the Kokand Khan's Older Son WDL11107.png",
@@ -367,7 +377,9 @@
         "source_category": "Culture of Uzbekistan",
         "vetted": true,
         "vetted_by": "claude-haiku-4-5",
-        "vetted_art_form": "photo"
+        "vetted_art_form": "photo",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "claude-visual-2026-09-28"
       }
     ],
     "unesco_ich": [

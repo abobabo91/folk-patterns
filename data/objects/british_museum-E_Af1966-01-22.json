@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1966-01-22",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1966-01-22",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1966-01-22",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1966.01.22",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Nupe",
+    "tradition": "Nupe",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a hand-woven indigo strip-cloth tunic with guinea-fowl (saki/etu) pattern and red-edged neck opening, a garment type worn across the Nigeria/West Africa region including the Nupe; this is a plausible traditional garment for the claimed people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "shirt; tunic",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shirt; tunic",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Tunic or shirt tailored from 4 inch wide strips of cotton hand-spun and hand-sewn together. The strips are all of the same composition, using indigo-dyed thread through which lines of white thread have been run in both the warp and the weft. This creates the checkered ‘guinea-fowl’ pattern called ‘saki’ by the Hausa, and ‘etu’ by the Yoruba. The garment is slit down each side to provide openings for the arms, and the openings along the sides and the neck are edged with red cotton. The tunic has been partly lined on the inside with 2 inch strips of hand-spun cotton, which has turned to a shade of blue apparently through contact with the indigo on the front of the tunic. The bottom and sides of the tunic have been hemmed by hand.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/nupe/garment/nupe/images/bm_E_Af1966_01_22.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "29a907d91c9555d6be55343bd7ed023ed14d1f5bc386c9dac30edb7862239279",
+      "bytes": 63370,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\nupe\\garment\\nupe\\images\\bm_E_Af1966_01_22.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T15:50:59.760929+00:00"
+}
