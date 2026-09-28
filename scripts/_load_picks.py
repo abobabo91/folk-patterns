@@ -76,7 +76,7 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
     if any(o["source"] == "bm" for objs in ranked.values() for o in objs) and not os.environ.get("BM_CDP_URL"):
         raise RuntimeError("BM_CDP_URL is required to load these picks; refusing a partial culture")
     bm_client = _client() if os.environ.get("BM_CDP_URL") else None
-    saved = 0
+    saved = refreshes = 0
     with RateLimitedClient(min_interval_s=0.3) as http:
         for af, objs in ranked.items():
             for o in objs:
@@ -90,6 +90,13 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
                             "pick_quality": o.get("quality"), "pick_featured": o.get("featured")}
                 try:
                     rec = _record(o, cultural, bm_client, http)
+                    if not rec and o["source"] == "bm" and refreshes < 3:
+                        # cf_clearance expired mid-load (Shona 2026-09-28: every BM
+                        # record 403 while two picks shared the Chrome): fresh cookies, retry
+                        refreshes += 1
+                        print("  British Museum gave nothing - refreshing cookies from Chrome", flush=True)
+                        bm_client = _client()
+                        rec = _record(o, cultural, bm_client, http)
                 except Exception as e:
                     print(f"  ! {o['source']} {o['id']}: {type(e).__name__} {e}", flush=True)
                     continue

@@ -48,6 +48,7 @@ Then shorten them into the site's fixed format:
 
 ```bash
 python scripts/restructure_writeups.py --only <Ethnicity> ... --workers 4
+python scripts/audit_profile.py --region <region_slug> --only <Ethnicity> --fix   # per culture
 ```
 
 Haiku (`claude-haiku-4-5-20251001`) returns JSON and the code renders the markdown: an "At a glance" table, overview, one lead sentence and at most 5 bullets per section, a glossary of at most 25 terms, and the sources. It may only use facts already in the writeup. Every rewrite is audited against its original. The audit checks that every heading is present, that every word of every vernacular term (or the stem of an English word of 6+ letters) appears in the original, and that every number does. A failing rewrite is retried once, with the rejected terms and numbers added to the prompt. If it fails twice, the file is left untouched; rerun it. The original is kept as `<name>.long.md`, which `build_index.py` ignores, and later reruns start from it. Log: `data/writeup_restructure.jsonl`.

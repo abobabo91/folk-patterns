@@ -93,6 +93,7 @@ python scripts/vet_images.py --target library
 python scripts/generate_writeups.py central_asia
 python scripts/restructure_writeups.py --only Yoruba --preview   # -> work/writeup-preview/
 python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
+python scripts/audit_profile.py --region north_america --only Hopi --fix   # short profile vs sources; add_culture runs it
 
 # 5. images to R2, then the site index shards
 python scripts/upload_to_r2.py --commit -j 8

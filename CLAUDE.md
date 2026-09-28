@@ -77,6 +77,8 @@ drafts the region seed) before step 1 (the ethnicity seed).
   (never the judge's `vision_reason`), audits italic terms and numbers against them, retries once, logs
   leftovers to `data/writeup_audit.jsonl`, and prunes seed traditions (the panel chips) the sources lack.
   Read the leftovers before deploying. Before this, Asmat and Tlingit drafts each invented about ten terms.
+  The short rewrite can italicise a word the long draft used plainly (Hopi "manta"), so `add_culture.py`
+  then runs `audit_profile.py --fix`, which strips unsupported terms from the short `.md` only.
 
 ## Directory layout (only what matters)
 

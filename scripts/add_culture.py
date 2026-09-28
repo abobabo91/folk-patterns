@@ -16,7 +16,8 @@ Steps:
   7. Sample review — LLM audits 12 random scraped records. If contamination
      found, print the suggested fix.
   8. Vet each new library image through the configured subscription CLI.
-  9. Enrich media, vet Commons photos, and generate grounded writeups.
+  9. Enrich media, vet Commons photos, generate grounded writeups, and
+     audit the short profile against the sources (audit_profile.py --fix).
  10. Rebuild the index (which refuses unjudged library records) and print stats.
 
 Every step is idempotent-ish: re-running skips work already done.
@@ -257,6 +258,13 @@ def _writeup_and_index(args) -> None:
         )
         if rc:
             raise SystemExit(f"Writeup restructure failed for {args.name}; index not rebuilt")
+        rc = _run(
+            [sys.executable, str(ROOT / "scripts" / "audit_profile.py"), "--region", args.region,
+             "--only", args.name, "--fix"],
+            f"[5/6] Auditing the profiles against their sources",
+        )
+        if rc:
+            raise SystemExit(f"Profile audit failed for {args.name}; index not rebuilt")
 
     # 6. Index rebuild
     if args.skip_index:
