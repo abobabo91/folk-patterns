@@ -19,11 +19,13 @@ import os
 import re
 import subprocess
 
+from folk_patterns.backend import is_limit_error, mark_claude_limited, use_codex
+
 MODEL = "claude-opus-5"
 
 
 def run_claude(prompt: str, timeout: int = 900) -> str:
-    if os.getenv("FOLK_LLM_BACKEND") == "codex":
+    if use_codex():
         from folk_patterns.codex_cli import ask
         return ask(prompt, timeout=timeout)
     result = subprocess.run(
@@ -37,6 +39,9 @@ def run_claude(prompt: str, timeout: int = 900) -> str:
         shell=True,
     )
     if result.returncode != 0:
+        if is_limit_error((result.stdout or "") + (result.stderr or "")):
+            mark_claude_limited(result.stdout or result.stderr)
+            return run_claude(prompt, timeout)
         raise RuntimeError(f"claude --print exit {result.returncode}: {result.stderr[:500]}")
     return result.stdout.strip()
 
@@ -187,25 +192,31 @@ def make_prompt(country: str, ethnicity: str, region: str, seed_traditions: list
     )
 
 
-GROUNDING_PREAMBLE = """You will be given source material below. Use it as your primary grounding
-— prefer facts, terms, and traditions that appear in these sources over your
-own recollection. Your own knowledge is welcome IN ADDITION to (never
-contradicting) the sources. Cite the Wikipedia URL and any UNESCO ICH
-identifier(s) in the "Sources & further reading" list at the end.
+GROUNDING_PREAMBLE = """You will be given source material below: Wikipedia articles, UNESCO
+Intangible Cultural Heritage inscriptions, and the catalogue records of the
+museum objects this atlas shows for the people. Write ONLY what these sources
+say. Every vernacular term, personal or place name, number and date you write
+must appear in the sources; do not add any from your own recollection, even
+when you are confident of it. Where the sources say nothing about a section,
+write one sentence saying the sources used do not cover it, rather than
+filling it in. Paraphrase freely, but add no facts. Cite the Wikipedia URLs
+and any UNESCO ICH identifier(s) in the "Sources & further reading" list at
+the end.
 
-============ SOURCE 1: Wikipedia article "{wiki_title}" ============
-URL: {wiki_url}
-
-{wiki_text}
+============ SOURCE 1: Wikipedia ============
+{wiki_block}
 
 ============ SOURCE 2: UNESCO Intangible Cultural Heritage inscriptions ============
 The following ICH elements have {country} listed as a country of origin. Each
 has a canonical page at https://ich.unesco.org/en/{{code}}. Reference them by
-name in the relevant sections (Music, Dance, Foodways, Festivals, etc.) when
-they apply to this ethnic group specifically. In "Sources & further reading",
-include the code and URL for any you reference.
+name in the relevant sections (Music, Dance, Foodways, Festivals, etc.) only
+when the inscription itself concerns this ethnic group. In "Sources & further
+reading", include the code and URL for any you reference.
 
 {ich_block}
+
+============ SOURCE 3: museum catalogue records of the objects shown ============
+{museum_block}
 
 ============ END SOURCES ============
 
@@ -214,43 +225,133 @@ Now write the writeup according to the template below.
 """
 
 
+def museum_records_text(region: str, country: str, ethnicity: str, max_chars: int = 20_000) -> str:
+    """The museums' own catalogue text for a culture's library records: title,
+    date, medium and description. Never the image judge's `vision_reason`,
+    which is model-written (a pick judge called a Tlingit copper "tinneh")."""
+    from folk_patterns.util import library_path
+    lines = []
+    for f in sorted(library_path(region, country, ethnicity).glob("*/*/metadata.json")):
+        for r in json.loads(f.read_text(encoding="utf-8")):
+            ph, raw, src = r.get("physical") or {}, r.get("raw") or {}, r.get("source") or {}
+            desc = [ph.get(k) for k in ("summary", "physical_description", "historical_context")]
+            eu = raw.get("dcDescription")
+            if isinstance(eu, list):
+                desc += eu[:3]
+            elif isinstance(eu, str):
+                desc.append(eu)
+            parts = [ph.get("title"), ph.get("date_text"), ph.get("medium_raw")] + desc
+            text = " · ".join(" ".join(str(x).split()) for x in parts if x)
+            if text:
+                lines.append(f"- [{src.get('museum_name') or src.get('museum')}] {text[:600]}")
+    out = "\n".join(lines)
+    return out[:max_chars] if out else "(none)"
+
+
+# Related articles tried besides the people's main one; a missing page is skipped.
+EXTRA_ARTICLES = ["Culture of the {e}", "{e} culture", "{e} art", "{e} mythology", "{e} language",
+                  "{e} music", "{e} cuisine", "{e} religion"]
+
+_AUDIT_STOP = {"and", "the", "with", "for", "from", "its", "our", "of", "or"}
+
+
+def _fold(s: str) -> str:
+    import unicodedata
+    s = s.replace("’", "'").replace("ʼ", "'")
+    return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c)).lower()
+
+
+# A word, keeping inner dots and apostrophes (at.oow, koo.éex', s'áaxw).
+_WORD = re.compile(r"[^\W\d_]+(?:[.'’ʼ][^\W\d_]+)*'?")
+
+
+def _bases(w: str) -> set[str]:
+    """The word and each form of it with one English inflection removed."""
+    return {w} | {w[: -len(suf)] for suf in ("ings", "ing", "ers", "er", "es", "ed", "s")
+                  if w.endswith(suf) and len(w) - len(suf) >= 3}
+
+
+def unsupported(sources: str, md: str) -> list[str]:
+    """Italic terms and numbers in a writeup that the sources do not contain.
+    A term passes when each of its words is a whole word of the sources, or
+    differs from one only by an English inflection, so "Chilkat robe" passes on
+    "Chilkat" and "robes". Whole words, because substrings let "tifa" pass on
+    "artifact", "hit" on "white" and "otsj" on "Otsjanep" (2026-09-28)."""
+    body = md.split("## Sources")[0]
+    words = {w.rstrip("'") for w in _WORD.findall(_fold(sources))}
+    bases = set().union(*(_bases(w) for w in words)) if words else set()
+    def ok(w: str) -> bool:
+        f = _fold(w).rstrip("'")
+        return f in _AUDIT_STOP or bool(_bases(f) & bases)
+    probs = []
+    for t in sorted(set(re.findall(r"(?<![*\w])\*([^*\n]{2,60})\*(?!\*)", body))):
+        bad = [w for w in _WORD.findall(t) if not ok(w)]
+        if bad:
+            probs.append(f"term not in the sources: {t} ({', '.join(bad)})")
+    for n in sorted(set(re.findall(r"\b\d[\d,.]*\d\b|\b\d\b", body))):
+        if n.strip(",.") not in sources:
+            probs.append(f"number not in the sources: {n}")
+    return probs
+
+
 def make_grounded_prompt(country: str, ethnicity: str, region: str, seed_traditions: list[str],
-                         wiki: dict | None, ich: list[dict] | None) -> str:
-    """Prepend Wikipedia + UNESCO ICH grounding context to the base prompt.
+                         wiki: dict | None, ich: list[dict] | None,
+                         extra_wiki: list[dict] | None = None, museum: str = "(none)") -> str:
+    """Prepend the sources to the base prompt: Wikipedia (main + related
+    articles), UNESCO ICH, and the museum catalogue text.
 
     `wiki` shape: {title, url, intro, full_text, ...} (from media.wiki_fetch_article)
     `ich`  shape: [{code, title, unesco_url, description}] (from media.unesco_ich_for_country)"""
     base = make_prompt(country, ethnicity, region, seed_traditions)
-    if not wiki and not ich:
+    if not wiki and not ich and museum == "(none)":
         return base
-    wiki_text = ""
-    wiki_title = wiki_url = "(none)"
-    if wiki:
-        wiki_title = wiki.get("title") or "(none)"
-        wiki_url = wiki.get("url") or "(none)"
-        wiki_text = wiki.get("full_text") or wiki.get("intro") or ""
-    if ich:
-        ich_lines = [f'- {e["code"]}: "{e["title"]}"' + (f' — {e["description"]}' if e.get("description") else "")
-                     for e in ich]
-        ich_block = "\n".join(ich_lines) if ich_lines else "(none)"
-    else:
-        ich_block = "(none — this country has no UNESCO ICH inscriptions.)"
-    preamble = GROUNDING_PREAMBLE.format(
-        wiki_title=wiki_title, wiki_url=wiki_url, wiki_text=wiki_text,
-        country=country, ich_block=ich_block,
-    )
-    return preamble + base
+    # The template's counts and "you're confident about" invite invention; the
+    # seed list is itself LLM-drafted (it carried Asmat "wuramon", 2026-09-27).
+    base = (base.replace("Seed textile / pattern traditions we already index:",
+                         "Search terms we indexed (NOT a source; use one only if the sources name it):")
+                .replace("Add other well-documented textiles you're confident\nabout. 4–7 entries.",
+                         "Add others only from the sources. Up to 7 entries; fewer when the sources have fewer.")
+                .replace("5–10 named motifs.", "Only motifs the sources name; omit this paragraph if they name none."))
+    base += ("\n\nEvery count in this template (entries, motifs, words) is a maximum. The sources rule "
+             "above overrides any instruction here to be specific or to add what you know.\n")
+    return GROUNDING_PREAMBLE.format(
+        wiki_block=grounding_wiki_block(wiki, extra_wiki), country=country,
+        ich_block=_ich_block(ich), museum_block=museum) + base
+
+
+def grounding_wiki_block(wiki: dict | None, extra_wiki: list[dict] | None = None) -> str:
+    arts = [a for a in [wiki, *(extra_wiki or [])] if a and (a.get("full_text") or a.get("intro"))]
+    return "\n\n".join(f'--- "{a.get("title")}" ({a.get("url")}) ---\n{a.get("full_text") or a.get("intro")}'
+                       for a in arts) or "(none)"
+
+
+def _ich_block(ich: list[dict] | None) -> str:
+    if not ich:
+        return "(none — no UNESCO ICH inscriptions for this country.)"
+    return "\n".join(f'- {e["code"]}: "{e["title"]}"' + (f' — {e["description"]}' if e.get("description") else "")
+                     for e in ich)
+
+
+def grounding_sources_text(wiki, ich, extra_wiki=None, museum: str = "") -> str:
+    """Everything the writer was shown, as one string for `unsupported()`."""
+    return "\n".join([grounding_wiki_block(wiki, extra_wiki), _ich_block(ich), museum])
 
 
 def generate_writeup(country: str, ethnicity: str, region: str, seed_traditions: list[str],
-                     wiki: dict | None = None, ich: list[dict] | None = None) -> str:
-    """Generate the ethnographic writeup. If `wiki` or `ich` are provided, the
-    prompt is prepended with grounding source material; otherwise it falls
-    back to the ungrounded prompt (LLM-only, from-memory)."""
-    if wiki or ich:
-        prompt = make_grounded_prompt(country, ethnicity, region, seed_traditions, wiki, ich)
+                     wiki: dict | None = None, ich: list[dict] | None = None,
+                     extra_wiki: list[dict] | None = None, museum: str = "(none)",
+                     feedback: list[str] | None = None) -> str:
+    """Generate the ethnographic writeup from the sources (or, with none,
+    ungrounded from memory). `feedback` is a retry: the audit's objections to
+    the previous attempt."""
+    if wiki or ich or museum != "(none)":
+        prompt = make_grounded_prompt(country, ethnicity, region, seed_traditions, wiki, ich, extra_wiki, museum)
     else:
         prompt = make_prompt(country, ethnicity, region, seed_traditions)
+    if feedback:
+        prompt += ("\n\nA previous attempt was rejected because it used terms, names or numbers that appear "
+                   "in none of the sources. Leave every one of them out, or say the same thing in plain "
+                   "English without them. Rejected:\n- " + "\n- ".join(feedback))
     return run_claude(prompt)
 
 
@@ -373,7 +474,7 @@ def restructure_writeup(markdown: str, ethnicity: str, country: str, timeout: in
         prompt += ("\n\nA previous attempt was rejected because it used words or numbers the profile does "
                    "not contain. Every term and number must appear verbatim in the profile. Rejected:\n- "
                    + "\n- ".join(feedback))
-    if os.getenv("FOLK_LLM_BACKEND") == "codex":
+    if use_codex():
         from folk_patterns.codex_cli import ask
         def obj(properties: dict) -> dict:
             return {"type": "object", "properties": properties,
@@ -397,8 +498,14 @@ def restructure_writeup(markdown: str, ethnicity: str, country: str, timeout: in
             "total_cost_usd": 0, "duration_ms": int((time.monotonic() - started) * 1000)}
     res = subprocess.run(cmd, input=prompt, capture_output=True, text=True, encoding="utf-8",
                          timeout=timeout, cwd=d, env=env)
-    ev = json.loads(res.stdout)
+    try:
+        ev = json.loads(res.stdout)
+    except json.JSONDecodeError:
+        ev = {"result": res.stdout, "is_error": True}
     reply = ev.get("result") or ""
+    if ev.get("is_error") and is_limit_error(reply + (res.stderr or "")):
+        mark_claude_limited(reply or res.stderr)
+        return restructure_writeup(markdown, ethnicity, country, timeout, feedback=feedback)
     m = re.search(r"\{.*\}", reply, re.S)
     try:
         data = json.loads(m.group(0)) if m else None

@@ -889,11 +889,10 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
     import os
     sys.path.insert(0, str(REPO / "scripts"))
     sys.path.insert(0, str(REPO / "src"))
-    from vet_judge import judge, build_record
+    from vet_judge import judge, build_record, answered_by
     from vet_images import parse_reply
     from folk_patterns.museums.british_museum import _client, _in_library
-    from folk_patterns.codex_cli import MODEL as CODEX_MODEL
-    judge_name = f"pick:codex-{CODEX_MODEL}" if os.getenv("FOLK_LLM_BACKEND") == "codex" else "pick:claude-sonnet-5"
+    judge_name = "pick:claude-sonnet-5"   # replaced per call by the backend that answered
     want = {s.lower() for s in only}
     exclusions = {(x["key"], x["source"], x["id"])
                   for x in json.loads((OUT / "pick_exclusions.json").read_text(encoding="utf-8"))}
@@ -1006,6 +1005,7 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     if err and any(word in err.lower() for word in ("hit your limit", "usage limit", "quota", "rate limit")):
                         raise SystemExit(f"Subscription limit reached while picking {name}: {err}. "
                                          "Rerun after the reset; completed verdicts are cached.")
+                    judge_name = f"pick:{answered_by()}"
                     tried += 1
                     cost += ev.get("total_cost_usd") or 0
                     with open(raw, "a", encoding="utf-8") as f:

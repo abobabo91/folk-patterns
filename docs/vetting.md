@@ -1,6 +1,6 @@
 # Vetting — the quality gate
 
-`scripts/vet_images.py` shows each library image and Commons sidecar photo to a visual judge through the Claude Code CLI, or through the Codex subscription CLI with `FOLK_LLM_BACKEND=codex` (no paid inference API). The shared call and prompt are in `scripts/vet_judge.py`; see also the [cloud path](cloud-vetting.md). It asks for BELONGS, ART_FORM, IMAGE and ERA, with reasoning and confidence. The two original questions:
+`scripts/vet_images.py` shows each library image and Commons sidecar photo to a visual judge through the Claude Code CLI, or through the Codex subscription CLI once Claude nears its limit (`src/folk_patterns/backend.py`; no paid inference API). The shared call and prompt are in `scripts/vet_judge.py`; see also the [cloud path](cloud-vetting.md). It asks for BELONGS, ART_FORM, IMAGE and ERA, with reasoning and confidence. The two original questions:
 
 1. **BELONGS** — does this picture belong under the ethnicity it is filed under?
 2. **ART_FORM** — is the category right, and if not, what is?
@@ -215,8 +215,12 @@ Most drops are not misfiles: 283 name no people at all, and of the rest the larg
 
 ### Codex CLI subscription fallback (2026-09-27)
 
-When Claude is at its subscription limit, set `FOLK_LLM_BACKEND=codex` before
-`world_peoples.py pick`, `add_culture.py --from-picks`, or the writeup scripts.
+`src/folk_patterns/backend.py` switches to Codex by itself when Claude's
+subscription usage passes 90% (`FOLK_CLAUDE_MAX_PCT`) of the 5-hour or weekly
+limit, or a Claude reply says the limit is hit; the same record is then
+retried through Codex. Verified 2026-09-28: one Tlingit photo judged by Codex
+(12 s) with `FOLK_CLAUDE_MAX_PCT=1`, and by Claude (4 s) at the default, each
+labelled with its own model. `FOLK_LLM_BACKEND=codex` or `=claude` forces one.
 The Codex branch sends the same judge rules, record metadata and image reduced
 to 1024 pixels via `codex exec -i`, using `gpt-5.6-luna` at low reasoning effort.
 Each call runs in an empty temporary directory, without user MCP configuration,
@@ -303,6 +307,15 @@ The Commons pass published four of ten model positives. It rejected a Chilkat
 blanket whose caption names only Fort Rupert, a museum mural by Will S. Taylor,
 a drawing of "Tsimshian, Haida, and Tlingit" chiefs' costume, two unattributed
 report plates and a blanket captioned Tsimshian.
+
+`generate_writeups.py` now shows the writer only its sources (Wikipedia plus
+related articles, UNESCO ICH, museum catalogue text), audits italic terms and
+numbers against them as whole words, and retries once. Rerun on Tlingit with six
+articles and 30 museum records: one unsupported term in the first draft
+(*naaxein*, true but only in the Chilkat weaving article, which is not fetched),
+none after the retry. The published Tlingit profile stays the hand-checked one.
+Substring matching had let *tifa* pass on "artifact", *hit* on "white" and
+*otsj* on "Otsjanep".
 
 For Hausa, Codex judged 123 world-list candidates and initially retained 104.
 Review of contact sheets and original catalogue descriptions excluded 39: plain

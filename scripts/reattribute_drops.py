@@ -121,6 +121,12 @@ def _append(p: Path, row: dict) -> None:
 
 
 def _claude_text(prompt: str) -> tuple[str, dict]:
+    """Claude Code, or the Codex CLI once Claude nears its limit (folk_patterns.backend)."""
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+    from folk_patterns.backend import is_limit_error, mark_claude_limited, use_codex
+    if use_codex():
+        from folk_patterns.codex_cli import ask, MODEL as CODEX_MODEL
+        return ask(prompt, timeout=900), {"total_cost_usd": 0, "model": f"codex-{CODEX_MODEL}"}
     d = Path(tempfile.mkdtemp(prefix="reattr-"))
     (d / "empty_mcp.json").write_text('{"mcpServers":{}}', encoding="utf-8")
     cmd = [shutil.which("claude") or "claude", "--print", "--no-session-persistence",
@@ -132,7 +138,12 @@ def _claude_text(prompt: str) -> tuple[str, dict]:
     try:
         ev = json.loads(res.stdout)
     except json.JSONDecodeError:
-        return "", {"error": (res.stdout + res.stderr)[-500:]}
+        ev = {"result": "", "is_error": True, "error": (res.stdout + res.stderr)[-500:]}
+    if ev.get("is_error") and is_limit_error((ev.get("result") or "") + res.stdout + res.stderr):
+        mark_claude_limited(ev.get("result") or res.stderr)
+        return _claude_text(prompt)
+    if "error" in ev:
+        return "", {"error": ev["error"]}
     return ev.get("result") or "", ev
 
 

@@ -1,8 +1,9 @@
 """The image judge: its prompt and the one CLI call. Standard library only, so
 the cloud batch helper (scripts/cloud_vet_batch.py) imports it with no setup;
 the local vetter (scripts/vet_images.py) imports it too, so both send
-byte-identical Claude calls. Set FOLK_LLM_BACKEND=codex for a subscription
-fallback with the same rules and reduced image.
+byte-identical Claude calls. The Codex CLI fallback gets the same rules and
+reduced image; folk_patterns.backend decides which one answers (automatic by
+Claude usage, or FOLK_LLM_BACKEND=codex|claude).
 
 A call is one bare `claude --print`: no tools, no MCP servers, no user
 settings, run from a temporary directory so no CLAUDE.md is picked up. The
@@ -141,22 +142,54 @@ def judge(record_text: str, image: bytes, timeout: int = 180,
     prompt (world_peoples.py pick adds a QUALITY line); the library's own
     vetting passes nothing."""
     data = downscale(image)
-    if os.getenv("FOLK_LLM_BACKEND") == "codex":
-        # Keep the Claude/cloud implementation above and below untouched. The
-        # subscription CLI receives the same rules, record and resized image.
-        sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
-        from folk_patterns.codex_cli import ask
-        t0 = time.time()
-        try:
-            reply = ask(SYSTEM_PROMPT + "\n" + extra + "\n" + record_text,
-                        image=data, timeout=timeout)
-            err = "" if "BELONGS:" in reply else "missing BELONGS verdict"
-        except Exception as exc:
-            reply, err = "", " ".join(str(exc).split())[:300]
-        if on_attempt:
-            on_attempt(0, round(time.time() - t0, 1),
-                       {"result": reply, "total_cost_usd": 0} if reply else None, err)
-        return (reply, "") if not err else ("", err)
+    if _use_codex():
+        return _judge_codex(record_text, data, timeout, on_attempt, extra)
+    return _judge_claude(record_text, data, timeout, on_attempt, extra)
+
+
+LAST_MODEL = MODEL
+
+
+def _backend():
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+    from folk_patterns import backend
+    return backend
+
+
+def _use_codex() -> bool:
+    try:
+        return _backend().use_codex()
+    except ImportError:   # the stdlib-only cloud batch copy has no src/
+        return os.getenv("FOLK_LLM_BACKEND") == "codex"
+
+
+def answered_by() -> str:
+    """The model id behind the most recent judge() reply, for vetted_by labels."""
+    return LAST_MODEL
+
+
+def _judge_codex(record_text, data, timeout, on_attempt, extra):
+    # The subscription CLI receives the same rules, record and resized image.
+    global LAST_MODEL
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+    from folk_patterns.codex_cli import ask, MODEL as CODEX_MODEL
+    LAST_MODEL = f"codex-{CODEX_MODEL}"
+    t0 = time.time()
+    try:
+        reply = ask(SYSTEM_PROMPT + "\n" + extra + "\n" + record_text,
+                    image=data, timeout=timeout)
+        err = "" if "BELONGS:" in reply else "missing BELONGS verdict"
+    except Exception as exc:
+        reply, err = "", " ".join(str(exc).split())[:300]
+    if on_attempt:
+        on_attempt(0, round(time.time() - t0, 1),
+                   {"result": reply, "total_cost_usd": 0} if reply else None, err)
+    return (reply, "") if not err else ("", err)
+
+
+def _judge_claude(record_text, data, timeout, on_attempt, extra):
+    global LAST_MODEL
+    LAST_MODEL = MODEL
     msg = json.dumps({"type": "user", "message": {"role": "user", "content": [
         {"type": "text", "text": record_text},
         {"type": "image", "source": {"type": "base64", "media_type": _media_type(data),
@@ -193,6 +226,13 @@ def judge(record_text: str, image: bytes, timeout: int = 180,
             on_attempt(attempt, round(time.time() - t0, 1), result, err)
         if result and not result.get("is_error") and "BELONGS:" in text:
             return text, ""
+        try:
+            backend = _backend()
+        except ImportError:
+            backend = None
+        if backend and backend.is_limit_error(text + err):
+            backend.mark_claude_limited(text or err)
+            return _judge_codex(record_text, data, timeout, on_attempt, extra)
         if attempt < len(RATE_LIMIT_BACKOFF) and _is_rate_limited(text + err):
             time.sleep(RATE_LIMIT_BACKOFF[attempt])
             continue

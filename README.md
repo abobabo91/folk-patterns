@@ -88,7 +88,8 @@ python scripts/scrape_all.py central_asia
 # 3. vet every new record (Claude CLI) — build_index keeps unjudged records
 python scripts/vet_images.py --target library
 
-# 4. draft writeups (Claude CLI or FOLK_LLM_BACKEND=codex subscription CLI)
+# 4. draft writeups from Wikipedia (main + related articles), UNESCO ICH and the museum records only;
+#    terms/numbers found in no source are sent back once, leftovers logged to data/writeup_audit.jsonl
 python scripts/generate_writeups.py central_asia
 python scripts/restructure_writeups.py --only Yoruba --preview   # -> work/writeup-preview/
 python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
@@ -138,9 +139,8 @@ missing objects were judged. Manual image review removed two weak Aymara
 objects, a dead Tibetan image link, and two Met records showing the same armor
 installation misclassified as a photograph and a sculpture. Set
 `BM_CDP_URL=http://127.0.0.1:9226` for British
-Museum images and `FOLK_LLM_BACKEND=codex` to use Codex instead of Claude.
-On PowerShell, set these with `$env:BM_CDP_URL='http://127.0.0.1:9226'` and
-`$env:FOLK_LLM_BACKEND='codex'` before running the scripts. The fallback uses
+Museum images. Every model call picks its backend automatically (`src/folk_patterns/backend.py`): Claude until its subscription usage reaches 90% of the 5-hour or weekly limit (`FOLK_CLAUDE_MAX_PCT`), then the Codex CLI; a Claude "hit your limit" reply also switches, until the reset. `python src/folk_patterns/backend.py` prints the current usage and backend. `FOLK_LLM_BACKEND=codex` or `=claude` forces one.
+On PowerShell, set these with `$env:BM_CDP_URL='http://127.0.0.1:9226'` and `$env:FOLK_LLM_BACKEND='codex'`. The fallback uses
 `gpt-5.6-luna` at low reasoning effort, an isolated temporary directory, and
 the same judge prompt and image size. A three-image check found the same
 BELONGS and IMAGE answers as Claude, but Codex scored two weak objects one

@@ -49,11 +49,7 @@ UA = "folk-patterns/0.1 (https://github.com/abobabo91/folk-patterns; research at
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import vet_judge  # noqa: E402
 
-if os.getenv("FOLK_LLM_BACKEND") == "codex":
-    from folk_patterns.codex_cli import MODEL as CODEX_MODEL
-    MODEL = f"codex-{CODEX_MODEL}"
-else:
-    MODEL = vet_judge.MODEL
+MODEL = vet_judge.MODEL   # labels use vet_judge.answered_by(): Claude or the Codex fallback
 
 # Slugs are stable identifiers shared with classify.py, the library folder
 # layout and the site; display names live in the site. "jewelry" is shown as
@@ -396,7 +392,7 @@ def _vet_library(workers: int, force: bool, only: str | None,
                         cul["vision_note"] = result["skip"]
                         mark = "?"
                     else:
-                        apply_verdict(cul, result, MODEL)
+                        apply_verdict(cul, result, vet_judge.answered_by())
                         auth = result.get("authentic")
                         mark = "✓" if auth else ("✗" if auth is False else "?")
                     _src = (target.get("source") or {}).get("museum", "?")
@@ -510,7 +506,7 @@ def _vet_commons(workers: int, force: bool, only: str | None) -> None:
                             cp.pop("vetted", None)
                         if af and af in VALID_ART_FORMS:
                             cp["vetted_art_form"] = af
-                        cp["vetted_by"] = MODEL
+                        cp["vetted_by"] = vet_judge.answered_by()
                         cp["vetted_image"] = result.get("image") or ""
                         cp["vetted_era"] = result.get("era") or ""
                         mark = "✓" if auth else ("✗" if auth is False else "?")
