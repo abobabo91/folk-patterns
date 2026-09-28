@@ -360,11 +360,21 @@ and source checks; the food photo and duplicate flags did not. Four generic or
 unrelated Smithsonian links were removed. Both profiles were rewritten from
 museum sources and all 27 object images were uploaded to R2.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,605/7,605
-library records judged, 6,711 accepted and 894 dropped. The site index has
-6,618 objects in 107 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,578 images. Selected Armenian,
-Lobi, Dogon, Luba and Fante images were also checked against contact sheets and catalogues.
+For Idoma, 22 Codex candidate judgments yielded 20 initial picks. Contact sheets
+and 21 full British Museum records confirmed explicit Idoma maker attributions;
+four visually weak or repetitive items were removed. The final gallery has 16
+objects. Five of 11 Commons photos passed a separate image-and-caption review;
+items labeled Idoma or Igbo, Igala or Idoma, a digital illustration, and
+unrelated content were withheld. Six generic or unrelated music links were
+removed. Both writeups were replaced with claims grounded in museum object
+records and the Smithsonian's caution that mask uses can be uncertain.
+All 16 object images are on R2.
+
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,621/7,621
+library records judged, 6,727 accepted and 894 dropped. The site index has
+6,634 objects in 108 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,621 images. Selected Armenian,
+Lobi, Dogon, Luba, Fante and Idoma images were also checked against contact sheets and catalogues.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -380,8 +390,8 @@ reports the changing Commons counts, including photos waiting for either gate.
 The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
 The same Codex CLI and visual review covered Ainu (12 judged, three published),
-Konyak (three judged, three published), Lobi (12 judged, eight published), and
-Dogon (12 judged, eight published), Luba (12 judged, six published), and Fante (12 judged, four published).
+Konyak (three judged, three published), Lobi (12 judged, eight published),
+Dogon (12 judged, eight published), Luba (12 judged, six published), Fante (12 judged, four published), and Idoma (11 judged, five published).
 Ainu's model positives included
 two 1904 World's Fair exhibition portraits and an outsider painting; the
 second pass rejected them. Konyak's three source images were cached and

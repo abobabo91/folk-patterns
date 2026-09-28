@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The index has 10 regions, 107 cultures and 6,618 objects through Fante (2026-09-27). Fante adds 27 source-reviewed museum objects and four independently reviewed Commons photos; its 27 object images are on R2. The site is https://folk-patterns.vercel.app.
+**Status:** The index has 10 regions, 108 cultures and 6,634 objects through Idoma (2026-09-27). Idoma adds 16 source-reviewed museum objects and five independently reviewed Commons photos; its object images are on R2. The site is https://folk-patterns.vercel.app.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -227,6 +227,7 @@ item was actually attributed to Assin, and a Europeana drum said Fante or Asante
 both were excluded. The picker now checks the British Museum production group
 against the requested people. The profile was rewritten from museum sources;
 four Commons flags passed the separate image-and-caption check.
+Idoma followed with 22 Codex candidate judgments, 20 initial picks and 16 after an image-sheet and 21-record British Museum attribution review. Four repetitive or weak objects were excluded. Five Commons photos passed the separate image-and-caption check; ambiguous Idoma/Igbo and Igala/Idoma attributions, digital art and unrelated items did not. The short and long profiles were rewritten around object records and the Smithsonian's caution about uncertain mask use; six unrelated Folkways links were removed.
 `build_index.py` refuses any library record without a boolean visual verdict,
 and publishes Commons sidecar photos only when both `vetted` and
 `editorial_reviewed` are `true`. The second check compares the image with its
@@ -234,10 +235,10 @@ caption and culture; broad Commons categories have supplied images of other
 peoples even after a positive model verdict. `vet_images.py` caches the source
 Commons images it judges under ignored `work/commons-review/` for that check,
 so reviewers need not redownload them. Run `python scripts/_vet_status.py`
-for current library and Commons counts. All 7,605 library records have model
+for current library and Commons counts. All 7,621 library records have model
 verdicts, but they have not all had a separate editorial image review. Selected
-Armenian, Lobi, Dogon, Luba and Fante objects were checked against source images and catalogues;
-Commons photos in ten cultures had the independent second pass.
+Armenian, Lobi, Dogon, Luba, Fante and Idoma objects were checked against source images and catalogues;
+Selected Commons photos had the independent second pass.
 
 When adding the first culture in a country, `majority_ethnicity` stays null.
 Set it by hand only when country-only museum records can safely be routed to

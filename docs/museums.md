@@ -268,3 +268,11 @@ Neighbouring-group misfiles are a *different* class and just as common — the m
 - **British Museum's `title` is its classification**, not a description — 486 of 1,322 BM records (37%) are titled `print` / `drawing` / `album` / `photographic print` / `book-illustration`. That department is mostly out of scope (Ephesus ruin watercolours, named-sultan portraits, European book plates) but ~162 of them are genuine costume documentation (`"Folio 21 from an album showing Turkish costume … çengi dancer"`). Do NOT drop the department wholesale — it needs per-record judgement.
 - **V&A `title` is null on 94% of records** while `classification` carries the real name ("Kurta", "Ikat length"). Read classification as the fallback title.
 - **Museum date fields.** "mid 19th century" gets parsed to (1825, 1875) but some entries say "1800s" (whole century), "early Timurid" (400-year range), or just `null`. Always check `date_earliest` and `date_latest` before using them as filter bounds.
+
+The Idoma onboarding pass (2026-09-27) checked every one of 21 British Museum
+source records against its full `Production ethnic group` field and reviewed
+all 20 candidate images. Sixteen objects remained after visual deduplication
+and quality review. The mask records support specific materials and forms but
+usually do not establish one named ritual for each mask; the
+[Smithsonian Idoma mask record](https://africa.si.edu/collection/object/nmafa_2005-6-88)
+explicitly cautions that use and group boundaries can be uncertain.
