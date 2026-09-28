@@ -32,6 +32,21 @@ if hasattr(sys.stdout, "buffer"):
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 from folk_patterns.util import LIBRARY_DIR, DATA_DIR
 
+
+def _rmtree_retry(d: Path) -> None:
+    """rmtree that waits out a briefly held file. An editor's file watcher or
+    the virus scanner holding one shard crashed a build mid-wipe with
+    WinError 32 (Nupe, 2026-09-28)."""
+    import time
+    for attempt in range(10):
+        try:
+            shutil.rmtree(d)
+            return
+        except PermissionError:
+            if attempt == 9:
+                raise
+            time.sleep(2)
+
 REPO_ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = REPO_ROOT / "content"
 
@@ -419,8 +434,8 @@ def build() -> None:
     for sub in ("ethnicities", "objects"):
         d = out_root / sub
         if d.exists():
-            shutil.rmtree(d)
-        d.mkdir(parents=True)
+            _rmtree_retry(d)
+        d.mkdir(parents=True, exist_ok=True)
 
     # Load writeups if present so shard can embed them.
     def _load_writeup(region: str, country: str, ethnicity: str) -> str | None:
