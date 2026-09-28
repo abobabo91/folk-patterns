@@ -285,11 +285,15 @@ def unsupported(sources: str, md: str) -> list[str]:
         return f in _AUDIT_STOP or bool(_bases(f) & bases)
     probs = []
     for t in sorted(set(re.findall(r"(?<![*\w])\*([^*\n]{2,60})\*(?!\*)", body))):
-        bad = [w for w in _WORD.findall(t) if not ok(w)]
+        # fold first: a combining mark splits a word ("nuučaan̓uł", Nuu-chah-nulth 2026-09-28)
+        bad = [w for w in _WORD.findall(_fold(t)) if not ok(w)]
         if bad:
             probs.append(f"term not in the sources: {t} ({', '.join(bad)})")
+    def ungroup(x: str) -> str:   # "4,000" in a writeup, "4000" in the source (Nuu-chah-nulth)
+        return re.sub(r"(?<=\d),(?=\d{3}\b)", "", x)
+    plain = ungroup(sources)
     for n in sorted(set(re.findall(r"\b\d[\d,.]*\d\b|\b\d\b", body))):
-        if n.strip(",.") not in sources:
+        if n.strip(",.") not in sources and ungroup(n.strip(",.")) not in plain:
             probs.append(f"number not in the sources: {n}")
     return probs
 
