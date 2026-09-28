@@ -415,6 +415,26 @@ The Commons vetter now caches the source image for every model call in ignored
 second reviewer can inspect the same source image without another Wikimedia fetch.
 Missing image files remain unreviewed rather than being approved from text.
 
+In the first older-batch editorial pass, all seven model-accepted Bukharan Jewish
+photos were inspected on a contact sheet. Five with a specific community link
+and visible dress, music, or festival practice passed. A shared Central Asian
+food photo and a Samarkand vessel labeled only as Uzbekistani did not. Five
+Karakalpak candidates were inspected and rejected: a race photographed in
+Karakalpakstan did not identify the participants as Karakalpak, while four
+objects photographed in Samarkand had only country-level attribution. Four
+additional Karakalpak candidates remain pending after Wikimedia returned 429;
+none was approved without seeing its image. The status command now separates
+editorial rejections from images still awaiting that review.
+
+A second contact sheet covered 11 Central Asian photos. The Xinjiang Kazakh
+yurt scene, a specifically captioned Kazakh eagle-hunting festival in Mongolia,
+and specifically identified Kyrgyz women in traditional dress passed. A distant
+Kyrgyz yurt scene did not show the craft clearly enough. Three eagle-hunting
+photos categorized as Kyrgyzstani did not specifically identify the pictured
+people as Kyrgyz. Four Pamiri candidates were rejected: three had only regional
+or generic Tajikistani attribution, and the Cleveland Museum described the
+fourth, a wedding veil, as worn by Tajik Turkmen rather than Pamiri people.
+
 Next: vet the remaining hidden Commons photos through the subscription CLI in
 batches, review accepted images and their captions, then rebuild the index. A direct
 `scrape_all.py` invocation still needs a follow-up `vet_images.py` run; the

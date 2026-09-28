@@ -109,7 +109,12 @@ def main() -> None:
             continue
         for photo in (bundle.get("sources") or {}).get("commons") or []:
             if photo.get("vetted") is True:
-                bucket = "published" if photo.get("editorial_reviewed") is True else "awaiting_editorial"
+                if photo.get("editorial_reviewed") is True:
+                    bucket = "published"
+                elif photo.get("editorial_reviewed") is False:
+                    bucket = "editorial_rejected"
+                else:
+                    bucket = "awaiting_editorial"
             elif photo.get("vetted") is False:
                 bucket = "rejected"
             else:
@@ -119,7 +124,8 @@ def main() -> None:
     print("  Commons photos")
     print(f"      published             {commons['published']:>6}")
     print(f"      model-accepted, pending editorial review {commons['awaiting_editorial']:>6}")
-    print(f"      rejected              {commons['rejected']:>6}")
+    print(f"      rejected by editorial review      {commons['editorial_rejected']:>6}")
+    print(f"      rejected by model                 {commons['rejected']:>6}")
     print(f"      awaiting model        {commons['awaiting_model']:>6}")
 
 
