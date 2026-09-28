@@ -325,6 +325,32 @@ Hawaiian ʻokina is dropped, because the museum records write *kupee niho ilio*,
 also italicise a word the long draft used plainly (Hopi *manta*), so
 `add_culture.py` runs `audit_profile.py --fix` after it.
 
+### Thin cultures: Cleveland, V&A and Met do not fill them (2026-09-28)
+
+`data/pool/assigned.jsonl` holds thousands of Met, Cleveland and V&A rows for
+the thin cultures, but they are country matches (`status: candidate`), not
+attributions. A random 20 per culture (140 rows) named the people in none: V&A
+"Iran" bowls from 1180-1220, Bukhara tiles from 1358, 1725 Vietnamese export
+saucers, Bactrian coins filed under Hazara. The museums' own full-text search
+(V&A and Cleveland APIs) and the Met open-access CSV were then searched for each
+name:
+
+| Culture | Country-matched pool rows | Records naming the people |
+|---|---|---|
+| Qashqai | 5,990 | V&A 7 carpets (unopened); Met 0; Cleveland 0 |
+| Yakan | 205 | Cleveland seputangan headcloth; Met jungle knife 31158 |
+| Karakalpak | 200 | V&A 1 saddle bag |
+| Oromo | 130 | Met 2 headrests (not public domain); V&A 1 necklace |
+| Sidama | 130 | Met 3 headrests "Sidaama peoples (?)", not public domain |
+| Cham | 439 | only Champa-kingdom sculpture (Met 4, Cleveland 3) |
+| Hazara | 221 | V&A's 34 hits are Hazara district, Pakistan (phulkari) |
+| Afar, Pamiri | – | 0 |
+
+The Met search API (`/public/collection/v1/search?q=...&hasImages=true`)
+returned the same list (Book of the Dead of Imhotep, the Fieschi Morgan
+Staurotheke, ...) for every query tried, so its totals are not a count of
+matches; use `.cache/MetObjects.csv` instead.
+
 ### Eight cultures from picks (2026-09-28)
 
 | Culture | Kept by pick | Published | Commons | Excluded by review |
