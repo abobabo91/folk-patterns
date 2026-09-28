@@ -1,0 +1,93 @@
+{
+  "id": "met-319071",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "319071",
+    "object_url": "https://www.metmuseum.org/art/collection/search/319071",
+    "iiif_manifest": null,
+    "credit_line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2011.154.33",
+    "accession_year": "2011"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Tlingit",
+    "tradition": "Tlingit",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A painted wooden model canoe with Northwest Coast formline design (ovoid eyes, stylized creature forms) consistent with Tlingit maritime craft and artistic tradition.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Canoe Model",
+    "titles_alt": [],
+    "date_text": "1860–70",
+    "date_earliest": 1860,
+    "date_latest": 1870,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "pigment"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, pigment",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 3 x L. 26 in. (7.6 x 66 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Alaska, United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q116282430",
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300178749"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/tlingit/household/tlingit/images/met_319071.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c198d50c2e6ce003c249ed63965612a6a22b67ac209fd8dbb2543259cc696bb2",
+      "bytes": 1332742,
+      "local_path": "library\\north-america\\united-states\\tlingit\\household\\tlingit\\images\\met_319071.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:58:39.441253+00:00"
+}

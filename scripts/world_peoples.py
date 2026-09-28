@@ -991,7 +991,10 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                         continue
                     source_exclusion = _source_exclusion(o, d, r.get("bm_name") or name)
                     if source_exclusion:
+                        # No judge call, so no try used: Tlingit 2026-09-27 lost 64 of its
+                        # 95 tries to BM "multiple peoples" / "uncertain" flags.
                         print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
+                        n -= 1
                         continue
                     ev: dict = {}
                     description = d.get("description") or ""
@@ -1018,8 +1021,9 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                 # A museum photograph the judge files as a spear, bowl or mask is a
                 # picture of an object: the object record is the gallery item, and
                 # the print is not a documentary photo of people. Asmat 2026-09-27:
-                # 17 BM "photographic print" records (EA_Oc-B142-*) re-filed this way.
-                if re.match(r"photographic print|photograph\b", d.get("title") or "", re.I) and af not in (None, "photo"):
+                # 17 BM "photographic print" records (EA_Oc-B142-*) re-filed this way;
+                # Tlingit: BM postcards of totem poles (EA_Am-B59-*) filed as sculpture.
+                if re.match(r"photographic print|photograph\b|postcard", d.get("title") or "", re.I) and af not in (None, "photo"):
                     print(f"  {cat:13s} {o['id']:22s} drop: photograph of an object ({af})", flush=True)
                     continue
                 ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak") and q >= PICK_QUALITY_MIN

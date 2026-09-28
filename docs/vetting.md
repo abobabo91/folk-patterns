@@ -256,8 +256,9 @@ excluded 41 objects, leaving 89:
 - 17 British Museum photographic prints (`EA_Oc-B142-*`, `EA_Oc-B101-*`)
   showed an object. The judge re-filed each print as that object's category,
   the same mistake as the Pende mask. `pick` now drops any record titled
-  "photographic print" or "photograph" whose judged category is not `photo`.
-  Prints of people and ceremonies stay.
+  "photographic print", "photograph" or "postcard" whose judged category is
+  not `photo`. Postcards came in with Tlingit, whose BM totem-pole postcards
+  were filed as sculpture. Prints of people and ceremonies stay.
 - A figurative painted mat from the British Museum's 2009 Stanley accession
   was made in 2005, so it is contemporary art rather than a traditional object.
   So is a second mat from the same accession. Plaited bags from that
@@ -281,6 +282,27 @@ Of the 12 Asmat Commons photos, the model rejected one (a betel stall). The
 editorial pass published eight. It rejected a Jakarta parade captioned only as
 "friends of Asmat", a skull attributed to "Asmat-Mimika", and a cropped
 duplicate of the UBC shield photo.
+
+For Tlingit, the first pick kept 21 of 31 judged. The British Museum's own
+flags removed 64 records ("multiple peoples" or "uncertain"; Northwest Coast
+objects are often catalogued as "Tlingit or Haida"), and each used one of
+the category's ten tries without a judge call. Source-attribution drops no
+longer count as tries. The rerun reached 52 judged and kept 36, and review
+excluded seven: a near-repeat Met lute, a Met whistle attributed "Tlingit or
+Koluschan, probably", plain reed pipes, a Sitka National Monument tourist
+postcard, a curio-shop display, a plain spoon knife and a plain copper sheet.
+One replacement, a 1930s postcard of a Wrangell potlatch procession, was kept:
+30 objects, $0.60 in all. The generated profile again used Tlingit terms
+absent from every source (*shakee.át*, *kooteeyaa*, *gaaw*, *kéet*, *xóots*,
+*s'áaxw*, *tináa*, the Whale House), and called Chilkat and Ravenstail
+weaving unique to the Tlingit, whereas Wikipedia says they are shared with the
+Haida and Tsimshian and that Ravenstail began among the Tsimshian. Both profiles
+were rewritten from the Wikipedia articles (Tlingit, Culture of the Tlingit,
+Chilkat weaving, Ravenstail weaving, Formline art) and the museum records.
+The Commons pass published four of ten model positives. It rejected a Chilkat
+blanket whose caption names only Fort Rupert, a museum mural by Will S. Taylor,
+a drawing of "Tsimshian, Haida, and Tlingit" chiefs' costume, two unattributed
+report plates and a blanket captioned Tsimshian.
 
 For Hausa, Codex judged 123 world-list candidates and initially retained 104.
 Review of contact sheets and original catalogue descriptions excluded 39: plain
@@ -414,11 +436,11 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,767/7,767
-library records judged, 6,869 accepted and 898 dropped. The site index has
-6,771 objects in 111 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,767 images. Selected Armenian,
-Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon and Asmat images were also checked against contact sheets and catalogues.
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,797/7,797
+library records judged, 6,899 accepted and 898 dropped. The site index has
+6,801 objects in 112 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,797 images. Selected Armenian,
+Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat and Tlingit images were also checked against contact sheets and catalogues.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -508,8 +530,8 @@ showed a named Toraja ceremony, textile, house, tomb, or dress with a visible
 subject and a supporting caption. The Ma'nene image depicts a deceased person
 being dressed and is shown as ritual documentation.
 
-The current Commons counts are 129 published, 77 model-accepted awaiting
-editorial review, 48 editorially rejected, 307 model-rejected, and 710 awaiting
+The current Commons counts are 133 published, 77 model-accepted awaiting
+editorial review, 54 editorially rejected, 309 model-rejected, and 710 awaiting
 the model. The remaining 77 positives are hidden until checked.
 
 Next: vet the remaining hidden Commons photos through the subscription CLI in

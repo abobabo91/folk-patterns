@@ -1,0 +1,92 @@
+{
+  "id": "met-501183",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "501183",
+    "object_url": "https://www.metmuseum.org/art/collection/search/501183",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.567",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Tlingit",
+    "tradition": "Tlingit",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden lute-form instrument attributed to the Yakutat Tlingit, made of wood with sinew and paint, matching the claimed ethnicity and category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Lute",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "wood",
+      "sinew",
+      "paint"
+    ],
+    "techniques": [],
+    "medium_raw": "wood, sinew, paint",
+    "classification": "Chordophone-Lute",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Body: L. 52.1 x W. 12.9 x D. 9.9cm (20 1/2 x 5 1/16 x 3 7/8 in.)\r\nSee measurements diagram",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Alaska, United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/tlingit/instruments/tlingit/images/met_501183.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fcb66798d20790382f12d9ec9d3072955f09e727c07f8e1230dccdd67fb87f57",
+      "bytes": 70361,
+      "local_path": "library\\north-america\\united-states\\tlingit\\instruments\\tlingit\\images\\met_501183.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:58:43.376778+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "met-319084",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "319084",
+    "object_url": "https://www.metmuseum.org/art/collection/search/319084",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Ralph T. Coe, 2002",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2002.602.4",
+    "accession_year": "2002"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Tlingit",
+    "tradition": "Tlingit",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a Tlingit-style dagger with a carved wooden animal-head handle inlaid with abalone shell, wrapped grip, and metal blade — a well-known Northwest Coast Tlingit weapon form.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Knife",
+    "titles_alt": [],
+    "date_text": "1850–60",
+    "date_earliest": 1850,
+    "date_latest": 1860,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "metal",
+      "abalone shell",
+      "ivory",
+      "Native-tanned skin"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, metal, abalone shell, ivory, Native-tanned skin",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 18 1/4 x W. 3 1/8 in. (46.4 x 7.9 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Alaska, United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300249525"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/tlingit/arms/tlingit/images/met_319084.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7e03cdfe46de464bd15b5e472ecbda6a9f2352187e4b3a8089a93480aecb3cb1",
+      "bytes": 791159,
+      "local_path": "library\\north-america\\united-states\\tlingit\\arms\\tlingit\\images\\met_319084.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:58:52.750223+00:00"
+}

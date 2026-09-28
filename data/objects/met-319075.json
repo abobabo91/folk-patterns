@@ -1,0 +1,93 @@
+{
+  "id": "met-319075",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "319075",
+    "object_url": "https://www.metmuseum.org/art/collection/search/319075",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Ralph T. Coe, 2002",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2002.602.3",
+    "accession_year": "2002"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Tlingit",
+    "tradition": "Tlingit",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved wood Tlingit halibut hook with plant fiber lashings and bone/metal point, a traditional fishing tool made and used by the Tlingit — though it is wood and fiber, not metal, so \"metalwork\" is the wrong category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Halibut Hook",
+    "titles_alt": [],
+    "date_text": "early 19th century",
+    "date_earliest": 1775,
+    "date_latest": 1850,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "plant fiber",
+      "native-tanned skin ties",
+      "string"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, plant fiber, native-tanned skin ties, string",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 18 1/4 x L. 40 1/8 in. (46.4 x 101.9 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Alaska, United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/tlingit/household/tlingit/images/met_319075.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "be841709ee8b292a15398568c191b4e6bfc7c576d07941001e9267c42e760d8b",
+      "bytes": 1906906,
+      "local_path": "library\\north-america\\united-states\\tlingit\\household\\tlingit\\images\\met_319075.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:58:40.838980+00:00"
+}

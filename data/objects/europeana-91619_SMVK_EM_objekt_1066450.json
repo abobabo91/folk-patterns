@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91619_SMVK_EM_objekt_1066450",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of Ethnography",
+    "object_id": "91619_SMVK_EM_objekt_1066450",
+    "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1066450?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Tlingit",
+    "tradition": "Tlingit",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a classic Chilkat blanket/robe with the characteristic curvilinear formline totemic design, mountain-goat wool weave, and long twisted fringe, matching the described chief's garment; the museum notes that such robes were made by Chilkat Tlingit (and also Tsimshian), so attribution to Tlingit is well supported.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "dräkt, mantel, chilkatmantel, garb, costume, garment",
+    "titles_alt": [],
+    "date_text": "1800",
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of Ethnography",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/tlingit/garment/tlingit/images/eu_91619_SMVK_EM_objekt_1066450.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ffbb82eb5f84bef3f483e68f870420197df77780fd6eda07b3868fcddce5ec6a",
+      "bytes": 103554,
+      "local_path": "library\\north-america\\united-states\\tlingit\\garment\\tlingit\\images\\eu_91619_SMVK_EM_objekt_1066450.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1563867%2Fimage.jpg&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:58:53.941966+00:00"
+}

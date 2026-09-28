@@ -1,0 +1,94 @@
+{
+  "id": "met-501230",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "501230",
+    "object_url": "https://www.metmuseum.org/art/collection/search/501230",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.614",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Tlingit",
+    "tradition": "Tlingit",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved and painted wooden rattle with a double-headed bird form, containing pebbles, made and used by the Tlingit as a ceremonial/shamanic instrument.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Rattle",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "polychrome",
+      "pebbles"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, polychrome, pebbles",
+    "classification": "Idiophone-Shaken-rattle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 9 7/16 × W. 4 11/16 in. (24 × 11.9 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Sitka, Alaska, United States",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300266506"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/tlingit/instruments/tlingit/images/met_501230.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "00d020006a52b1af79fce3de1558e49471fb0eadbdb5889a174b0b2d5e5c20f6",
+      "bytes": 1006130,
+      "local_path": "library\\north-america\\united-states\\tlingit\\instruments\\tlingit\\images\\met_501230.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:58:42.293623+00:00"
+}
