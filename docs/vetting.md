@@ -458,10 +458,26 @@ Folkways material was removed, and both profiles were rewritten from object
 records. All 31 loaded images were uploaded to R2; only the 28 approved
 objects enter the index.
 
-The current Commons counts are 97 published, 110 model-accepted awaiting
-editorial review, 36 editorially rejected, 306 model-rejected, and 710 awaiting
-the model. The Philippine and Central Asian reviews account for some of the
-new editorial decisions; the remaining 110 positives are hidden until checked.
+Four more Southeast Asian Commons sidecars were checked against complete
+contact sheets and source captions. Lao: four of nine passed (a museum
+costume, salt gourd, and two specifically identified Lao houses); a second
+view of the costume was redundant, and generic Laos village and Thai
+bracelet photos lacked Lao ethnic attribution. Hmong: five of eight passed,
+including clearly identified Hmong people in Vietnam, Laos, and Thailand and
+silver earrings made by a Hmong refugee. The atlas currently has one Hmong
+entry, so a specifically Hmong image from another country is relevant;
+country-only or broad Miao labels are not enough. Iban: seven of eight
+passed, including museum textiles, a hornbill figure, specifically identified
+people in Sarawak and Indonesian Borneo, and a contemporary Iban object.
+An image of severed heads attributed to a different people failed the
+collection's object and image scope. All eight previously pending Toraja photos passed: each
+showed a named Toraja ceremony, textile, house, tomb, or dress with a visible
+subject and a supporting caption. The Ma'nene image depicts a deceased person
+being dressed and is shown as ritual documentation.
+
+The current Commons counts are 121 published, 77 model-accepted awaiting
+editorial review, 45 editorially rejected, 306 model-rejected, and 710 awaiting
+the model. The remaining 77 positives are hidden until checked.
 
 Next: vet the remaining hidden Commons photos through the subscription CLI in
 batches, review accepted images and their captions, then rebuild the index. A direct
