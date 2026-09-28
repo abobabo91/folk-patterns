@@ -350,11 +350,21 @@ photos and two Brooklyn objects lacking a specific Luba attribution were
 removed. All six generated Folkways links were unrelated and removed. The 45
 library images are on R2.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,578/7,578
-library records judged, 6,684 accepted and 894 dropped. The site index has
-6,591 objects in 106 cultures. This is model-based visual review of all library
+For Fante, the Codex subscription judged 51 world-list candidates and
+initially kept 35. A contact-sheet and full catalogue review narrowed this
+to 27 objects in seven categories. The British Museum attributed a kept
+*kuduo* to Assin, while a Europeana drum said Fante or Asante; both were
+excluded. Two portraits lacked a specific Fante identification, and weaker or
+repetitive objects were removed. Four Commons flags passed independent image
+and source checks; the food photo and duplicate flags did not. Four generic or
+unrelated Smithsonian links were removed. Both profiles were rewritten from
+museum sources and all 27 object images were uploaded to R2.
+
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,605/7,605
+library records judged, 6,711 accepted and 894 dropped. The site index has
+6,618 objects in 107 cultures. This is model-based visual review of all library
 images, not a separate editorial check of 7,578 images. Selected Armenian,
-Lobi, Dogon and Luba images were also checked against contact sheets and catalogues.
+Lobi, Dogon, Luba and Fante images were also checked against contact sheets and catalogues.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -371,7 +381,7 @@ The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
 The same Codex CLI and visual review covered Ainu (12 judged, three published),
 Konyak (three judged, three published), Lobi (12 judged, eight published), and
-Dogon (12 judged, eight published), and Luba (12 judged, six published).
+Dogon (12 judged, eight published), Luba (12 judged, six published), and Fante (12 judged, four published).
 Ainu's model positives included
 two 1904 World's Fair exhibition portraits and an outsider painting; the
 second pass rejected them. Konyak's three source images were cached and

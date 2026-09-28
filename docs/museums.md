@@ -198,6 +198,15 @@ pass reduced 67 initial model positives to 45 loaded objects; museum comments
 such as "likely Baluba or Luba-influenced neighbours" were not treated as a
 specific maker attribution.
 
+The Fante pass exposed a separate British Museum facet leak: a candidate
+returned under Fante was explicitly labeled `Made by: Assin` on its own record.
+`world_peoples.py pick` now compares a nonempty production group with the
+requested British Museum group, and rejects a mismatch for both fresh and
+cached judgments. The Fante Europeana drum was also excluded manually because
+its Swedish description said `Fante eller ashanti` (Fante or Asante); the
+image judge had missed that ambiguity. Such descriptions still need source
+review before onboarding.
+
 Europeana's search `country` names the holding institution's country, while
 `dcCreator` names a maker or group. The canonical importer had combined those
 as `made_in_place`. On 2026-09-27, that false production place was cleared

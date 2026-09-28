@@ -825,12 +825,18 @@ def _quality(reply: str) -> int:
     return int(m.group(1)) if m else 0
 
 
-def _source_exclusion(o: dict, d: dict) -> str:
+def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
     """Source labels that cannot establish an authentic maker attribution."""
     if o["source"] == "bm" and "(?)" in (d.get("production_ethnic_attribution") or ""):
         return "museum marks production ethnic group uncertain"
     if o["source"] == "bm" and len(set(d.get("production_ethnic_groups") or [])) > 1:
         return "museum attributes production to multiple peoples"
+    if o["source"] == "bm" and expected_bm_group and d.get("production_ethnic_groups"):
+        groups = {re.sub(r"\s+(?:people|peoples)$", "", g, flags=re.I).casefold()
+                  for g in d["production_ethnic_groups"]}
+        expected = re.sub(r"\s+(?:people|peoples)$", "", expected_bm_group, flags=re.I).casefold()
+        if expected not in groups:
+            return f"museum attributes production to {', '.join(sorted(groups))}, not {expected}"
     if o["source"] == "cleveland" and re.search(r"\b[\w-]+-style maker\b", d.get("description") or "", re.I):
         return "style-only maker attribution"
     if o["source"] == "bm" and re.search(r"\b(?:fake|forgery)\b", d.get("title") or "", re.I):
@@ -983,7 +989,7 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     if img.status_code != 200 or (o["source"] == "europeana" and not img.headers.get("content-type", "").startswith("image/")):
                         print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
                         continue
-                    source_exclusion = _source_exclusion(o, d)
+                    source_exclusion = _source_exclusion(o, d, r.get("bm_name") or name)
                     if source_exclusion:
                         print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
                         continue
@@ -1003,7 +1009,7 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                         f.write(json.dumps({"key": r["key"], "category": cat, **o, "detail": d, "reply": reply, "error": err,
                                             "judge": judge_name,
                                             "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
-                source_exclusion = _source_exclusion(o, d)
+                source_exclusion = _source_exclusion(o, d, r.get("bm_name") or name)
                 if source_exclusion:
                     print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
                     continue
