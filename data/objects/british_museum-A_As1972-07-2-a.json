@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1972-07-2-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1972-07-2-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1972-07-2-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1972.07.2.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "ethnicity": "Lanna",
+    "tradition": "Lanna",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a traditional wooden cotton gin, a household/textile-processing tool attributed to the Tai Yuan (Lanna) people, consistent with the claimed ethnicity and region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "cotton-gin",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cotton-gin",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Cotton-gin made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/lanna/household/lanna/images/bm_A_As1972_07_2_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1651cc9de2840c12fd219469f2865a3a3a775a8b309460d7121cbf5bd1f74ba5",
+      "bytes": 27458,
+      "local_path": "library\\southeast-asia\\thailand\\lanna\\household\\lanna\\images\\bm_A_As1972_07_2_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:36:24.798165+00:00"
+}

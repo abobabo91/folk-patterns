@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-A23-58",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-A23-58",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A23-58",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.A23.58",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Sudan",
+    "ethnicity": "Dinka",
+    "tradition": "Dinka",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo shows a traditional thatched-roof mud-walled dwelling with a raised outdoor bed, consistent with Dinka homestead architecture in South Sudan; this is a documentary photo of daily life and dwelling construction.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bed in front of rectangular [?] thatched shelter with mud walls. Bed has four poles coming out of the ground around it. Tin can beside entrance to shelter. Open thatched shelter in background, roof in disrepair.\nMedium: Gelatin silver print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/dinka/photo/dinka/images/bm_EA_Af_A23_58.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d2b6de81701c9d80a17e3ed7a8612dcd59376c4836e380ef4ee93c5058587fde",
+      "bytes": 27124,
+      "local_path": "library\\sub-saharan-africa\\south-sudan\\dinka\\photo\\dinka\\images\\bm_EA_Af_A23_58.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:16:48.246442+00:00"
+}

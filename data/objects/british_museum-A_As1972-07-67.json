@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1972-07-67",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1972-07-67",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1972-07-67",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1972.07.67",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "ethnicity": "Lanna",
+    "tradition": "Lanna",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a woven cotton shoulder bag attributed to the Tai Yuan, the ethnic group closely associated with the Lanna kingdom/culture of northern Thailand, so it matches the claimed ethnicity. The plain-woven red cloth with striped accents is a typical Tai Yuan textile item, though it is a bag rather than a garment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "shoulder-bag",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shoulder-bag",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Shoulder bag made of cloth (cotton?).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/lanna/household/lanna/images/bm_A_As1972_07_67.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "dcf9b0eeaa6ad67226fd1d89941e3379f45c29d62bc46d750cfcae4326a3ff3f",
+      "bytes": 57061,
+      "local_path": "library\\southeast-asia\\thailand\\lanna\\household\\lanna\\images\\bm_A_As1972_07_67.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:36:26.074121+00:00"
+}

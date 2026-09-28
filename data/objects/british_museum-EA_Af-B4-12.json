@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-B4-12",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-B4-12",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B4-12",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.B4.12",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Luo",
+    "tradition": "Luo",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo shows two men in feather headdresses, arm-rings and ornamental garb posed among granite rock outcrops with a dog, consistent with a documentary ethnographic portrait of traditional East African dress and adornment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Portrait of two adult males. Male in front squatting, male behind leaning on a rock. Wearing cloths, feather head-dresses with animal tusk decoration, arm-rings, wrist-ornaments. Dog at r..\nMedium: Gelatin silver print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/luo/photo/luo/images/bm_EA_Af_B4_12.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "362c8852f00e05d766d9d83943118db2fa23d218269ef055e228e29564e41713",
+      "bytes": 28755,
+      "local_path": "library\\sub-saharan-africa\\kenya\\luo\\photo\\luo\\images\\bm_EA_Af_B4_12.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:22:19.877828+00:00"
+}

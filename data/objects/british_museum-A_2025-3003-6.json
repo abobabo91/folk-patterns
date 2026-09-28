@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_2025-3003-6",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_2025-3003-6",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_2025-3003-6",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,2025.3003.6",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Nuaulu",
+    "tradition": "Nuaulu",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A warp-ikat cotton cloth with fringed ends, explicitly identified by the museum as \"kanomane\" among the Nuaulu people, matching a textile they wear/use — clear fit for the claimed group.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "textile; kain",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "textile; kain",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Textile known as Kain Timor by the Ambonese Malay or kanomane by the Nuaulu people. Cotton. Woven and ikat dyed. With fringes at both ends. Orange on one side and a yellow-ish colour on the other.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/nuaulu/textile/nuaulu/images/bm_A_2025_3003_6.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "46db83b6f6d5976f7efabedb8d310ba6de0d97f8685b2447f7f6fc2d9a8b1b30",
+      "bytes": 77692,
+      "local_path": "library\\southeast-asia\\indonesia\\nuaulu\\textile\\nuaulu\\images\\bm_A_2025_3003_6.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:54:33.873947+00:00"
+}

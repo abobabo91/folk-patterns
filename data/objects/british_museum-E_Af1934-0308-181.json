@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1934-0308-181",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1934-0308-181",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1934-0308-181",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1934.0308.181",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Sudan",
+    "ethnicity": "Bari",
+    "tradition": "Bari",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a spear with an iron leaf-shaped blade and long wooden shaft with two brass bands, matching the described object attributed to the Bari people, a type of weapon plausible for South Sudanese pastoralist groups.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "spear",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spear",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Spear with iron blade and wooden shaft with two brass bands.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/bari/arms/bari/images/bm_E_Af1934_0308_181.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "31353443b2dfbf65138fcd2e465b44c2ccbb8433342222cc4a029b71e1cce498",
+      "bytes": 19572,
+      "local_path": "library\\sub-saharan-africa\\south-sudan\\bari\\arms\\bari\\images\\bm_E_Af1934_0308_181.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:19:07.180355+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1896-1010-3",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1896-1010-3",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1896-1010-3",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1896.1010.3",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Algeria",
+    "ethnicity": "Kabyle",
+    "tradition": "Kabyle",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a buff-coloured handmade pottery jug with red-and-black geometric painted decoration, matching Kabyle pottery traditions of hand-built, painted earthenware attributed by the museum directly to Kabyle makers.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "jug",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "jug",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Slip catalogue:\r\nBuff coloured pottery jug with handle, ornamented with red bands edged with black, between which are combinations of triangles hatched in black paint on the buff ground. Just below the neck is a band of herringbone pattern painted in black.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/algeria/kabyle/ceramic/kabyle/images/bm_E_Af1896_1010_3.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "26437ca2975ccfcc2067d4a72aa654ca3b1f80c9d7bc29cc8dd96f05ada0e1ae",
+      "bytes": 47034,
+      "local_path": "library\\middle-east-north-africa\\algeria\\kabyle\\ceramic\\kabyle\\images\\bm_E_Af1896_1010_3.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:30:49.258335+00:00"
+}

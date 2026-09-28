@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2018-Q-199",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2018-Q-199",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2018-Q-199",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2018.Q.199",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Fiji",
+    "ethnicity": "Fijians",
+    "tradition": "Fijians",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden barbed spear with carved diamond-shaped barbs along its shaft, a type of weapon well documented among Fijian material culture, consistent with the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "spear (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spear (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Spear(?) made of wood. Thick wood with crudely cut barbs.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/arms/fijians/images/bm_E_2018_Q_199.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "cd327e37d95ffa38850a42c8089b8eb57e8e4bccc0fc40dd64f7a515502484d8",
+      "bytes": 22711,
+      "local_path": "library\\oceania\\fiji\\fijians\\arms\\fijians\\images\\bm_E_2018_Q_199.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:48:53.304158+00:00"
+}

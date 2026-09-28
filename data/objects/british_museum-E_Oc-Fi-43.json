@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-Fi-43",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-Fi-43",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-Fi-43",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.Fi.43",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Fiji",
+    "ethnicity": "Fijians",
+    "tradition": "Fijians",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a round-bodied, unglazed earthenware vessel with a corded/twisted rim decoration, consistent with traditional Fijian hand-built pottery (yaqona/water vessels), and the museum attributes it directly to Fijian production.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "vase; vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vase; vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Vase, vessel made of pottery.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/ceramic/fijians/images/bm_E_Oc_Fi_43.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "610e9e78cb887d4b3a6624368d5837099bd222125645516919d82d632c1fbccc",
+      "bytes": 40028,
+      "local_path": "library\\oceania\\fiji\\fijians\\ceramic\\fijians\\images\\bm_E_Oc_Fi_43.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:49:09.758850+00:00"
+}

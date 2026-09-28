@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1948-08-200",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1948-08-200",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1948-08-200",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1948.08.200",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Rwanda",
+    "ethnicity": "Hutu",
+    "tradition": "Hutu",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a composite knife with an iron blade and wooden haft, attributed by the museum to Hutu makers, consistent with traditional Rwandan edged tools/weapons.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1948\r\nComposite knife with iron blade and cracked wooden haft.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/hutu/arms/hutu/images/bm_E_Af1948_08_200.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "535213e16771a4794661e7aa450d73e2085f6243753407192acc202b06c8b965",
+      "bytes": 25264,
+      "local_path": "library\\sub-saharan-africa\\rwanda\\hutu\\arms\\hutu\\images\\bm_E_Af1948_08_200.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:24:26.522023+00:00"
+}

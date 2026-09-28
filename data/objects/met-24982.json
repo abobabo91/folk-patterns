@@ -1,0 +1,91 @@
+{
+  "id": "met-24982",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "24982",
+    "object_url": "https://www.metmuseum.org/art/collection/search/24982",
+    "iiif_manifest": null,
+    "credit_line": "Museum Accession",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "X.13a, b",
+    "accession_year": ""
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Algeria",
+    "ethnicity": "Kabyle",
+    "tradition": "Kabyle",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a flyssa dagger with its ornamented sheath, a weapon type historically made and carried by the Kabyle people of Algeria; the decorated hilt, curved blade, and matching chained scabbard are consistent with this attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Dagger (Flyssa) with Sheath",
+    "titles_alt": [],
+    "date_text": "18th–19th century",
+    "date_earliest": 1700,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Brass",
+      "glass"
+    ],
+    "techniques": [],
+    "medium_raw": "Brass, glass",
+    "classification": "Daggers",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. with sheath 16 3/16 in. (42.7 cm); H. without sheath 15 1/4 in. (38.7 cm); W. 1 5/16 in. (3.3 cm); Wt. 5.8 oz. (164.4 g); Wt. of sheath 5 oz. (141.7 g)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "North Africa",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/algeria/kabyle/arms/kabyle/images/met_24982.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "cb405e8f4f563596cf9328c64ca37b6c262d931abe273c00d86e33e9afbd41e6",
+      "bytes": 941168,
+      "local_path": "library\\middle-east-north-africa\\algeria\\kabyle\\arms\\kabyle\\images\\met_24982.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:30:57.504353+00:00"
+}

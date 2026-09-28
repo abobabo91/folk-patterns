@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1903-1005-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1903-1005-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1903-1005-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1903.1005.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Luhya",
+    "tradition": "Luhya",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an unfinished iron bangle with incised geometric ornamentation, attributed to Luyia (Luhya) manufacture, consistent with traditional metal jewelry production in this culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "bangle; bracelet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bangle; bracelet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Unfinished bangle, a curved iron bar ornamented along the surface",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/luhya/jewelry/luhya/images/bm_E_Af1903_1005_5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8ab14ecd5d52bd46edcd4161f4eb27d0506b2ca7f7d1007af89adf3070d92ea1",
+      "bytes": 56859,
+      "local_path": "library\\sub-saharan-africa\\kenya\\luhya\\jewelry\\luhya\\images\\bm_E_Af1903_1005_5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:05:32.597505+00:00"
+}

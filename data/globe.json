@@ -609,6 +609,18 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/armenia/armenian/ceramic/armenian/images/va_O72362.jpg"
     },
     {
+      "key": "middle-east-north-africa__algeria__kabyle",
+      "region": "middle-east-north-africa",
+      "country": "Algeria",
+      "ethnicity": "Kabyle",
+      "homeland_place": "Tizi Ouzou",
+      "lat": 36.71,
+      "lon": 4.05,
+      "object_count": 45,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/algeria/kabyle/arms/kabyle/images/bm_E_Af1991_22_1_a.jpg"
+    },
+    {
       "key": "north-america__canada__haida",
       "region": "north-america",
       "country": "Canada",
@@ -779,6 +791,25 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/united-states/native-hawaiians/arms/native-hawaiians/images/bm_E_Oc1999_Q_151.jpg"
     },
     {
+      "key": "oceania__fiji__fijians",
+      "region": "oceania",
+      "country": "Fiji",
+      "ethnicity": "Fijians",
+      "homeland_place": "Levuka",
+      "lat": -17.62,
+      "lon": 178.83,
+      "object_count": 67,
+      "seed_traditions": [
+        "masi",
+        "liku",
+        "tabua",
+        "davui",
+        "totokia",
+        "drua"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/architectural/fijians/images/bm_E_Oc1982_Q_185.jpg"
+    },
+    {
       "key": "southeast-asia__indonesia__javanese",
       "region": "southeast-asia",
       "country": "Indonesia",
@@ -929,6 +960,20 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/asmat/architectural/asmat/images/bm_E_Oc1981_17_1.jpg"
     },
     {
+      "key": "southeast-asia__indonesia__nuaulu",
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Nuaulu",
+      "homeland_place": "Masohi",
+      "lat": -3.13,
+      "lon": 129.5,
+      "object_count": 32,
+      "seed_traditions": [
+        "sokate betel basket"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/nuaulu/arms/nuaulu/images/bm_A_As1972_01_173.jpg"
+    },
+    {
       "key": "southeast-asia__malaysia__malay",
       "region": "southeast-asia",
       "country": "Malaysia",
@@ -978,6 +1023,35 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/semai/arms/semai/images/bm_A_As1888_0417_35_a.jpg"
     },
     {
+      "key": "southeast-asia__malaysia__melanau",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Melanau",
+      "homeland_place": "Mukah",
+      "lat": 2.29,
+      "lon": 111.83,
+      "object_count": 48,
+      "seed_traditions": [
+        "belum",
+        "kaul"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/melanau/arms/melanau/images/eu_91608_SMVK_VKM_objekt_44732.jpg"
+    },
+    {
+      "key": "southeast-asia__malaysia__kelabit",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Kelabit",
+      "homeland_place": "Bario",
+      "lat": 3.77,
+      "lon": 115.48,
+      "object_count": 41,
+      "seed_traditions": [
+        "sape"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/kelabit/arms/kelabit/images/bm_A_As1988_22_152.jpg"
+    },
+    {
       "key": "southeast-asia__thailand__thai",
       "region": "southeast-asia",
       "country": "Thailand",
@@ -1014,6 +1088,21 @@
         "khaen"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/lao-isan/architectural/ku-ka-sing/images/carch_ca355e1e7d61e705.jpg"
+    },
+    {
+      "key": "southeast-asia__thailand__lanna",
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Lanna",
+      "homeland_place": "Chiang Mai",
+      "lat": 18.79,
+      "lon": 98.98,
+      "object_count": 22,
+      "seed_traditions": [
+        "khoen lacquer",
+        "khoen betel box"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/lanna/architectural/lanna/images/bm_A_As_Bs_104.jpg"
     },
     {
       "key": "southeast-asia__vietnam__kinh",
@@ -1553,6 +1642,22 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/nupe/architectural/nupe/images/bm_E_Af1971_09_1_b.jpg"
     },
     {
+      "key": "sub-saharan-africa__nigeria__kalabari",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Kalabari",
+      "homeland_place": "Buguma",
+      "lat": 4.53,
+      "lon": 6.71,
+      "object_count": 54,
+      "seed_traditions": [
+        "pelete bite",
+        "injiri",
+        "agiri"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/kalabari/architectural/kalabari/images/bm_E_Af1950_45_236.jpg"
+    },
+    {
       "key": "sub-saharan-africa__ghana__ashanti",
       "region": "sub-saharan-africa",
       "country": "Ghana",
@@ -1762,6 +1867,32 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/kamba/arms/kamba/images/bm_E_Af1911_0510_25_a.jpg"
     },
     {
+      "key": "sub-saharan-africa__kenya__luo",
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Luo",
+      "homeland_place": "Kisumu",
+      "lat": -0.09,
+      "lon": 34.76,
+      "object_count": 53,
+      "seed_traditions": [
+        "ohangla drum"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/luo/arms/luo/images/bm_E_Af1934_0308_203_a.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__kenya__luhya",
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Luhya",
+      "homeland_place": "Kakamega",
+      "lat": 0.2827,
+      "lon": 34.7519,
+      "object_count": 44,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/luhya/arms/luhya/images/bm_E_Af1938_0608_198.jpg"
+    },
+    {
       "key": "sub-saharan-africa__tanzania__swahili",
       "region": "sub-saharan-africa",
       "country": "Tanzania",
@@ -1798,6 +1929,18 @@
         "bagika"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/sukuma/arms/sukuma/images/bm_E_Af1913-1211-17.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__tanzania__ngoni",
+      "region": "sub-saharan-africa",
+      "country": "Tanzania",
+      "ethnicity": "Ngoni",
+      "homeland_place": "Songea",
+      "lat": -10.68,
+      "lon": 35.65,
+      "object_count": 52,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/ngoni/arms/ngoni/images/bm_E_Af1909_132.jpg"
     },
     {
       "key": "sub-saharan-africa__democratic-republic-of-the-congo__kongo",
@@ -2174,6 +2317,35 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/boya/arms/boya/images/bm_E_Af1979-06-174.jpg"
     },
     {
+      "key": "sub-saharan-africa__south-sudan__dinka",
+      "region": "sub-saharan-africa",
+      "country": "South Sudan",
+      "ethnicity": "Dinka",
+      "homeland_place": "Rumbek",
+      "lat": 8.78,
+      "lon": 27.4,
+      "object_count": 41,
+      "seed_traditions": [
+        "malual",
+        "luak cattle byre",
+        "wut cattle camp",
+        "gɔ̈k ash-mound"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/dinka/arms/dinka/images/bm_E_Af2003_17_14_a.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__south-sudan__bari",
+      "region": "sub-saharan-africa",
+      "country": "South Sudan",
+      "ethnicity": "Bari",
+      "homeland_place": "Juba",
+      "lat": 4.85,
+      "lon": 31.6,
+      "object_count": 51,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/bari/arms/bari/images/bm_E_Af1934_0308_159.jpg"
+    },
+    {
       "key": "sub-saharan-africa__cameroon__chamba",
       "region": "sub-saharan-africa",
       "country": "Cameroon",
@@ -2191,6 +2363,24 @@
         "gbana staff"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cameroon/chamba/arms/chamba/images/bm_E_Af1932-1021-119.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__cameroon__bamileke",
+      "region": "sub-saharan-africa",
+      "country": "Cameroon",
+      "ethnicity": "Bamileke",
+      "homeland_place": "Bafoussam",
+      "lat": 5.48,
+      "lon": 10.42,
+      "object_count": 60,
+      "seed_traditions": [
+        "ndop",
+        "mbap mteng",
+        "ndop indigo resist",
+        "elephant mask beading",
+        "fon's throne"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cameroon/bamileke/arms/bamileke/images/bm_E_Af1937_0217_58.jpg"
     },
     {
       "key": "sub-saharan-africa__burkina-faso__bwa",
@@ -2286,6 +2476,30 @@
         "hari pottery"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zimbabwe/shona/arms/shona/images/bm_E_Af1892_0714_130_a.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__rwanda__hutu",
+      "region": "sub-saharan-africa",
+      "country": "Rwanda",
+      "ethnicity": "Hutu",
+      "homeland_place": "Gitarama",
+      "lat": -2.08,
+      "lon": 29.75,
+      "object_count": 39,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/hutu/architectural/hutu/images/bm_E_Af1948_08_361.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__rwanda__tutsi",
+      "region": "sub-saharan-africa",
+      "country": "Rwanda",
+      "ethnicity": "Tutsi",
+      "homeland_place": "Nyanza",
+      "lat": -1.7,
+      "lon": 29.87,
+      "object_count": 47,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/tutsi/arms/tutsi/images/bm_E_Af1940_16_16.jpg"
     }
   ]
 }

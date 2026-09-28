@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-1628-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-1628-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-1628-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.1628.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Algeria",
+    "ethnicity": "Kabyle",
+    "tradition": "Kabyle",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a sword with wooden hilt and a decorated sheath with metal bands and incised geometric ornament, consistent with Kabyle-made edged weapons from Algeria; the museum explicitly attributes it to Kabyle makers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "sword",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sword",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sword and sheath, similar to Af.1626.a",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/algeria/kabyle/arms/kabyle/images/bm_E_Af_1628_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "cfe18ea3882e83289a8bb478db27868b8996550f3ec7ae51a586bf9ea08f2182",
+      "bytes": 24842,
+      "local_path": "library\\middle-east-north-africa\\algeria\\kabyle\\arms\\kabyle\\images\\bm_E_Af_1628_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:31:03.367867+00:00"
+}

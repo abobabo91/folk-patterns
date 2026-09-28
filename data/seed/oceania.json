@@ -249,6 +249,48 @@
           }
         }
       ]
+    },
+    {
+      "country": "Fiji",
+      "met_queries": [
+        "Fiji"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Fijians",
+          "homeland": {
+            "lat": -17.62,
+            "lon": 178.83
+          },
+          "homeland_place": "Levuka",
+          "traditions": [
+            "masi",
+            "liku",
+            "tabua",
+            "davui",
+            "totokia",
+            "drua"
+          ],
+          "arch_commons_categories": [
+            "Buildings in Fiji",
+            "Levuka",
+            "Navala",
+            "Bure (Fiji)"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Fijian",
+              "Fiji",
+              "Viti Levu",
+              "Lau Islands",
+              "Bau",
+              "Melanesian"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

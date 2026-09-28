@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-3865",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-3865",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-3865",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.3865",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Ngoni",
+    "tradition": "Ngoni",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden tubular whistle wrapped in skin with cord bindings, matching the museum's description of a Ngoni-made instrument. This is a plausible traditional Ngoni musical object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "whistle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "whistle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Tubular whistle with slightly flaring end made of wood; covered from lower end to midway in skin, edges sewn together at back. Band of reptile skin around midway point beneath the outer skin covering. Simple angled mouth hole. Two bands of bark ? at top and bottom of whistle with protruding edges; lower band is pierced and has twisted cotton cord running through it.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/ngoni/instruments/ngoni/images/bm_E_Af1954_23_3865.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "90973a7279c190de5643ae042f0d519dc5cfbaf49e04124e7c0e38893e7b6455",
+      "bytes": 25638,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\ngoni\\instruments\\ngoni\\images\\bm_E_Af1954_23_3865.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:09:19.184033+00:00"
+}

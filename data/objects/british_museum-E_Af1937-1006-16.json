@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1937-1006-16",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1937-1006-16",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1937-1006-16",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1937.1006.16",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Rwanda",
+    "ethnicity": "Tutsi",
+    "tradition": "Tutsi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an adze with an iron blade and wooden haft, attributed to the Tutsi. This is a tool, not a weapon, but the object itself is plausibly made and used by Tutsi craftsmen in Rwanda, so it belongs to the claimed group despite the category mismatch.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "adze",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "adze",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Adze with iron blad and wooden haft",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/tutsi/household/tutsi/images/bm_E_Af1937_1006_16.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "52c92e714db3f7331276ba2109589e489d6da3671465b4c13b66378ea3018896",
+      "bytes": 29653,
+      "local_path": "library\\sub-saharan-africa\\rwanda\\tutsi\\household\\tutsi\\images\\bm_E_Af1937_1006_16.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:29:52.802545+00:00"
+}

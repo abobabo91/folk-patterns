@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1943-15-2-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1943-15-2-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1943-15-2-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1943.15.2.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Algeria",
+    "ethnicity": "Kabyle",
+    "tradition": "Kabyle",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden sword-sheath with metal bands and braided leather wrapping, decorated with incised geometric patterns typical of Kabyle craftsmanship, attributed by the museum to a Kabyle maker.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sword-sheath",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sword-sheath",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sword-sheath of carved wood, metal and braid (for Af1943,15.2.a)",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/algeria/kabyle/arms/kabyle/images/bm_E_Af1943_15_2_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "feadc218fb0f61730a9d271983dd7f4912fe5ef8de32068dda0b6ce449b5af04",
+      "bytes": 60747,
+      "local_path": "library\\middle-east-north-africa\\algeria\\kabyle\\arms\\kabyle\\images\\bm_E_Af1943_15_2_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:31:00.838557+00:00"
+}

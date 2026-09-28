@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1899-1208-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1899-1208-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1899-1208-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1899.1208.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Algeria",
+    "ethnicity": "Kabyle",
+    "tradition": "Kabyle",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a two-handled earthenware vessel with painted geometric bands (zigzags, triangles, chevrons) typical of Kabyle painted pottery traditions from Algeria, matching the museum's attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Vessel made of earthenware.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/algeria/kabyle/ceramic/kabyle/images/bm_E_Af1899_1208_5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d060dd0390a51f473cd2990e724f6544efc7099177bf6e027e1b74a0642d794a",
+      "bytes": 46068,
+      "local_path": "library\\middle-east-north-africa\\algeria\\kabyle\\ceramic\\kabyle\\images\\bm_E_Af1899_1208_5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:30:48.121368+00:00"
+}

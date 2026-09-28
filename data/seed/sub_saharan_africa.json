@@ -558,6 +558,32 @@
               "Nigeria"
             ]
           }
+        },
+        {
+          "name": "Kalabari",
+          "homeland": {
+            "lat": 4.53,
+            "lon": 6.71
+          },
+          "homeland_place": "Buguma",
+          "traditions": [
+            "pelete bite",
+            "injiri",
+            "agiri"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Kalabari",
+              "Kalabari Ijo",
+              "Kalabari Ijaw",
+              "Ijo",
+              "Ijaw",
+              "Niger Delta",
+              "Buguma",
+              "New Calabar"
+            ]
+          }
         }
       ]
     },
@@ -1085,6 +1111,53 @@
               "Kamba (African people)"
             ]
           }
+        },
+        {
+          "name": "Luo",
+          "homeland": {
+            "lat": -0.09,
+            "lon": 34.76
+          },
+          "homeland_place": "Kisumu",
+          "traditions": [
+            "ohangla drum"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Luo",
+              "Nilotic",
+              "Kavirondo",
+              "Kenya",
+              "Nyanza",
+              "Kisumu",
+              "Joluo"
+            ]
+          }
+        },
+        {
+          "name": "Luhya",
+          "homeland": {
+            "lat": 0.2827,
+            "lon": 34.7519
+          },
+          "homeland_place": "Kakamega",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Luhya",
+              "Luyia",
+              "Abaluhya",
+              "Abaluyia",
+              "Bantu Kavirondo",
+              "Wanga",
+              "Bukusu",
+              "Maragoli",
+              "Kakamega",
+              "Kenya"
+            ]
+          }
         }
       ]
     },
@@ -1192,6 +1265,28 @@
               "Tanzania",
               "Tanganyika",
               "Mwanza"
+            ]
+          }
+        },
+        {
+          "name": "Ngoni",
+          "homeland": {
+            "lat": -10.68,
+            "lon": 35.65
+          },
+          "homeland_place": "Songea",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Ngoni",
+              "Angoni",
+              "Wangoni",
+              "Nguni",
+              "Maseko Ngoni",
+              "Tanzania",
+              "Songea",
+              "Ruvuma"
             ]
           }
         }
@@ -2175,6 +2270,59 @@
               "Sudan"
             ]
           }
+        },
+        {
+          "name": "Dinka",
+          "homeland": {
+            "lat": 8.78,
+            "lon": 27.4
+          },
+          "homeland_place": "Rumbek",
+          "traditions": [
+            "malual",
+            "luak cattle byre",
+            "wut cattle camp",
+            "gɔ̈k ash-mound"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Dinka",
+              "Jieng",
+              "Jaang",
+              "Muonyjang",
+              "Dinka peoples",
+              "South Sudan",
+              "Sudan",
+              "Anglo-Egyptian Sudan",
+              "Bahr el Ghazal",
+              "Nilotic"
+            ]
+          }
+        },
+        {
+          "name": "Bari",
+          "homeland": {
+            "lat": 4.85,
+            "lon": 31.6
+          },
+          "homeland_place": "Juba",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Bari",
+              "Bari people",
+              "South Sudan",
+              "Sudan",
+              "Equatoria",
+              "Mondari",
+              "Kakwa",
+              "Pojulu",
+              "Kuku",
+              "Nilotic"
+            ]
+          }
         }
       ]
     },
@@ -2220,6 +2368,43 @@
               "Daka",
               "Cameroon Grassfields",
               "Adamawa"
+            ]
+          }
+        },
+        {
+          "name": "Bamileke",
+          "homeland": {
+            "lat": 5.48,
+            "lon": 10.42
+          },
+          "homeland_place": "Bafoussam",
+          "traditions": [
+            "ndop",
+            "mbap mteng",
+            "ndop indigo resist",
+            "elephant mask beading",
+            "fon's throne"
+          ],
+          "arch_commons_categories": [
+            "Bandjoun",
+            "Bafoussam",
+            "Foumban",
+            "Chefferie de Bandjoun",
+            "Bamileke architecture",
+            "Dschang",
+            "Bafut"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Bamileke",
+              "Bamiléké",
+              "Cameroon",
+              "Cameroon Grassfields",
+              "Grasslands",
+              "Bangwa",
+              "Bandjoun",
+              "Batcham",
+              "Bamum"
             ]
           }
         }
@@ -2480,6 +2665,67 @@
               "Karanga",
               "Zezuru",
               "Manyika"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Rwanda",
+      "met_queries": [
+        "Rwanda"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Hutu",
+          "homeland": {
+            "lat": -2.08,
+            "lon": 29.75
+          },
+          "homeland_place": "Gitarama",
+          "traditions": [],
+          "arch_commons_categories": [
+            "King's Palace Museum, Nyanza",
+            "Traditional houses in Rwanda",
+            "Rwesero Art Museum"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Hutu",
+              "Bahutu",
+              "Rwanda",
+              "Ruanda",
+              "Ruanda-Urundi",
+              "Rwandan"
+            ]
+          }
+        },
+        {
+          "name": "Tutsi",
+          "homeland": {
+            "lat": -1.7,
+            "lon": 29.87
+          },
+          "homeland_place": "Nyanza",
+          "traditions": [],
+          "arch_commons_categories": [
+            "Rukari",
+            "King's Palace Museum, Nyanza",
+            "Nyanza, Rwanda",
+            "Imigongo"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Tutsi",
+              "Watutsi",
+              "Batutsi",
+              "Tussi",
+              "Rwanda",
+              "Ruanda",
+              "Ruanda-Urundi",
+              "Banyarwanda"
             ]
           }
         }

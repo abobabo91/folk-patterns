@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2017-Q-163",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2017-Q-163",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2017-Q-163",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2017.Q.163",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Fiji",
+    "ethnicity": "Fijians",
+    "tradition": "Fijians",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden throwing club (iula drisia) with a bulbous carved head and a carved-grip handle, a well-documented traditional Fijian weapon type.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "throwing-club",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "throwing-club",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Throwing club (iula drisia) made of wood and root, with carved grip and bulbous head.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/arms/fijians/images/bm_E_2017_Q_163.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1728d356c0fc9e0197c214a09a76b19e72e6c95576182724e3108153eb4b054c",
+      "bytes": 60988,
+      "local_path": "library\\oceania\\fiji\\fijians\\arms\\fijians\\images\\bm_E_2017_Q_163.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:48:55.031487+00:00"
+}

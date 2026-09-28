@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As-Bs-104",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As-Bs-104",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As-Bs-104",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As.Bs.104",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Thailand",
+    "ethnicity": "Lanna",
+    "tradition": "Lanna",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden model of a Lanna-style temple building with tiered red-and-gold lacquered roofs, flame-end cresting, and gable ornamentation, made by the Tai Yuan people who constitute the Lanna ethnic group of northern Thailand. This is a clear match for the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "model building/structure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "model building/structure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Model of a temple building. The walls are made of wood and the roofs of woven rattan. The roofs have been lacquered in red and black with gilding (possibly gold). Each of the roof levels (of which there are three) has ornamental cresting with flame ends. The gables are ornamented in red and gold.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/thailand/lanna/architectural/lanna/images/bm_A_As_Bs_104.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "67a630cc16d978e5e718111c4a40ebabc0f64c69021a5dc10deb19c75fd232c8",
+      "bytes": 40323,
+      "local_path": "library\\southeast-asia\\thailand\\lanna\\architectural\\lanna\\images\\bm_A_As_Bs_104.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:36:36.598410+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1988-22-126",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1988-22-126",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-126",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1988.22.126",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Kelabit",
+    "tradition": "Kelabit",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a rounded earthenware cooking pot consistent with the museum's description of a Kelabit tuning, a traditional handmade vessel type used in Bornean longhouse communities.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "pot",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "pot",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Glazed earthenware cooking pot (tuning) with rounded bottom, made of clay and damar resin (natang).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/kelabit/ceramic/kelabit/images/bm_A_As1988_22_126.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "de5f4e28285adb982a8415a049673f0a903f1773dc11e46a843fd0b824c4c2f5",
+      "bytes": 41184,
+      "local_path": "library\\southeast-asia\\malaysia\\kelabit\\ceramic\\kelabit\\images\\bm_A_As1988_22_126.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:36:42.659675+00:00"
+}

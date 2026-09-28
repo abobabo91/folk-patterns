@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-867",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-867",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-867",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.867",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Rwanda",
+    "ethnicity": "Tutsi",
+    "tradition": "Tutsi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is an iron hoe blade attributed to the Tutsi of Rwanda, a genuine agricultural tool of the culture, though it is misfiled as \"arms\" rather than a household/farming implement.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "hoe; blade",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "hoe; blade",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Hoe blade; leaf-shaped made of iron.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/tutsi/household/tutsi/images/bm_E_Af1954_23_867.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c109ab4b51597f0c98fb93e89ef23b63c6b173ed2f86546af651d2be19278a94",
+      "bytes": 37109,
+      "local_path": "library\\sub-saharan-africa\\rwanda\\tutsi\\household\\tutsi\\images\\bm_E_Af1954_23_867.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:29:53.375466+00:00"
+}

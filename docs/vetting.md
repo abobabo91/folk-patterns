@@ -368,6 +368,21 @@ matches; use `.cache/MetObjects.csv` instead.
 | Gondi | 54 | 52 | 4 of 6 | naturalistic painted clay type-figure, a fourth iron god-symbol chain; Gond Mahal monument and a modern statue (Commons) |
 | Semai | 44 | 44 | 0 of 3 | an unattributed 1906 plate, a museum wax mannequin, a durian seller captioned only "Orang Asli" (Commons) |
 | Mangyan | 45 | 45 | 4 of 5 | a craft-shop display of modern bags (Commons) |
+| Ngoni | 52 | 52 | 7 of 12 | Commons captions only "possibly of the Ngoni people" (carriers, schoolchildren, baptism group); two duplicate lantern slides |
+| Dinka | 41 | 41 | 5 of 10 | two photos with the object upside down; four more street-cattle shots and a second photo of one headrest (Commons) |
+| Luo | 53 | 53 | 3 of 3 | five frames of one pottery-making sequence, a record reusing another object's photo |
+| Kabyle | 45 | 45 | 8 of 9 | a near-repeat Commons photo |
+| Lanna | 22 | 22 | 5 of 6 | a cremation crowd (Commons) |
+| Melanau | 48 | 48 | 5 of 9 | two objects photographed in plastic bags, three group photos in Western dress; family and personal snapshots, a food dish (Commons) |
+| Fijians | 67 | 67 | 6 of 9 | a colonial military parade, a drawing of an object; a modern snapshot, a repeat canoe photo, a landscape plate (Commons) |
+| Nuaulu | 32 | 32 | none found | none |
+| Kalabari | 54 | 54 | 8 of 8 | none |
+| Luhya | 44 | 44 | 3 of 8 | a studio portrait and repeats of one charity-run Isukuti troupe (Commons) |
+| Bamileke | 60 | 60 | 7 of 11 | funeral crowd shots (Commons) |
+| Bari | 51 | 51 | 1 of 1 | four frames of one pottery-making sequence |
+| Hutu | 39 | 39 | 0 of 10 | all ten Commons photos: Imigongo and agaseke are captioned as Rwandan, none as Hutu |
+| Tutsi | 47 | 47 | 6 of 12 | a repeated photographic print; generic Rwandan agaseke (Commons) |
+| Kelabit | 41 | 41 | 4 of 7 | a record reusing another object's photo; two repeat prints, a food festival (Commons) |
 
 Mangyan is the collective name of the Mindoro peoples, and the British Museum
 records its objects under the member groups: all 376 candidates were Hanunóo
@@ -379,6 +394,15 @@ was tried for Maya and made it worse: the British Museum's "Yucatec Maya"
 records are mostly raw fibre, a cotton boll and machine-embroidered
 pillowcases, and letting them in used the textile tries before the Guatemalan
 backstrap weavings were reached.
+
+Luyia is also an umbrella: the British Museum records many of its objects as
+Bukusu or Maragoli, often as "Luyia; Bukusu". The first Luhya pick dropped 51
+of them as "multiple peoples" and kept 23; with the Luyia member groups in
+`_BM_SUBGROUPS`, and a record naming only the umbrella and its own member
+group counted as one people, the rerun kept 44. Tiriki is left out of that set
+because it is queued as a people of its own. Mbunda is skipped in the queue:
+its British Museum facet returns the Babunda/Mbuun of the DRC, not the Mbunda
+of Angola and Zambia.
 
 Every seed's tradition chips were pruned to the ones the sources contain.
 Between 11 and 16 were dropped per culture, for example 16 Shona chips such as
@@ -526,15 +550,15 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 8,461/8,461
-library records judged, 7,561 accepted and 900 dropped. The site index has
-7,463 objects in 123 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 8,461 images. Selected Armenian,
+**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 9,157/9,157
+library records judged, 8,257 accepted and 900 dropped. The site index has
+8,159 objects in 138 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 9,157 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
-Gondi, Semai and Mangyan images were also checked against contact sheets and
-catalogues. Commons: 460 published, 256 rejected by the editorial check, 688
-rejected by the model, none waiting.
+and all later cultures from picks (see the table above) were also checked
+against contact sheets and catalogues. Commons: 528 published, 303 rejected by
+the editorial check, 729 rejected by the model, none waiting.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 

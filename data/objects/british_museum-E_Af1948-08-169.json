@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1948-08-169",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1948-08-169",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1948-08-169",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1948.08.169",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Rwanda",
+    "ethnicity": "Hutu",
+    "tradition": "Hutu",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a full-length composite spear with a slender metal head and long polished wooden shaft, consistent with traditional Hutu-made weaponry as attributed by the museum. The object is a plausible regional spear form used by Hutu people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "spear",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spear",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Composite spear, with wooden shaft, with small head and brown polished wooden shaft.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/hutu/arms/hutu/images/bm_E_Af1948_08_169.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8c2b0ee3c097eeec12e015de16236240d21262e103cbc7ee1abbad0945c695a2",
+      "bytes": 20385,
+      "local_path": "library\\sub-saharan-africa\\rwanda\\hutu\\arms\\hutu\\images\\bm_E_Af1948_08_169.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:24:24.801435+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1948-08-60",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1948-08-60",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1948-08-60",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1948.08.60",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Rwanda",
+    "ethnicity": "Hutu",
+    "tradition": "Hutu",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a plaited/twined fibre mat with a braided border, consistent with a handmade household textile attributed to the Hutu maker recorded by the museum.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "mat; bed-cover",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mat; bed-cover",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Fibre plaited mat, twined, with braided border on two sides, light brown.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/hutu/textile/hutu/images/bm_E_Af1948_08_60.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b3ce6ae264a66d18f216cc53488aa369a872ff58561e8057d39ed5b7431d9113",
+      "bytes": 62266,
+      "local_path": "library\\sub-saharan-africa\\rwanda\\hutu\\textile\\hutu\\images\\bm_E_Af1948_08_60.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:24:14.285993+00:00"
+}

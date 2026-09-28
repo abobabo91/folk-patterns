@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1988-22-38-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1988-22-38-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-38-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1988.22.38.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Kelabit",
+    "tradition": "Kelabit",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image clearly shows a bamboo tube zither (pagang) with strings cut from the bamboo body itself, a well-documented Kelabit instrument type from Sarawak, matching the museum's attribution and description.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "musical instrument",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "musical instrument",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Musical instrument (pagang) made of part of a section of telang bamboo (bulu&#039; telang). Two strings cut out from the bmboo itself are held away from the body of the instrument with small pieces of bamboo; a hole between these strings is covered with another piece of bamboo, attached to them.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/kelabit/instruments/kelabit/images/bm_A_As1988_22_38_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ec9fc6a4b75c09cdf17ab696f138dfb46e59daea737174d147e831f6f692ab7a",
+      "bytes": 55924,
+      "local_path": "library\\southeast-asia\\malaysia\\kelabit\\instruments\\kelabit\\images\\bm_A_As1988_22_38_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:36:43.823735+00:00"
+}

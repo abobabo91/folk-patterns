@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1900-688",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1900-688",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1900-688",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1900.688",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Melanau",
+    "tradition": "Melanau",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a woven dome-shaped food cover made from dyed palm/rattan strips in a chevron pattern, a household item consistent with Melanau craft traditions of Sarawak (attribution noted as \"possibly\" but plausible for the region). It is a household object, not a textile.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "food-cover",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "food-cover",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Food cover made of leaves (nipa palm leaves).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/melanau/household/melanau/images/bm_A_As1900_688.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "049371b52403a312faf875038ceb986b2942eba3dac88e4b4fdbd8fc4140910d",
+      "bytes": 72340,
+      "local_path": "library\\southeast-asia\\malaysia\\melanau\\household\\melanau\\images\\bm_A_As1900_688.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:41:46.932517+00:00"
+}

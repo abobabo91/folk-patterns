@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1949-46-772",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1949-46-772",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1949-46-772",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1949.46.772",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Luo",
+    "tradition": "Luo",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden club with a carved, fluted paddle-shaped head, attributed to Luo makers by the museum, consistent with traditional Luo weaponry.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "club",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "club",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Club carved from wood with a fluted head.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/luo/arms/luo/images/bm_E_Af1949_46_772.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e9f70652ebac69cf7a4521fe897b4c60e87c03270e8cb80d633db89a1c0fb6b1",
+      "bytes": 19521,
+      "local_path": "library\\sub-saharan-africa\\kenya\\luo\\arms\\luo\\images\\bm_E_Af1949_46_772.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:22:40.627785+00:00"
+}

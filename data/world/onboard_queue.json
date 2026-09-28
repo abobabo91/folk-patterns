@@ -260,13 +260,6 @@
 "objects": 208
 },
 {
-"key": "Q15077462",
-"name": "Mbunda",
-"continent": "Africa",
-"country": "Angola",
-"objects": 208
-},
-{
 "key": "Q193092",
 "name": "Tutsi",
 "continent": "Africa",
@@ -2906,6 +2899,14 @@
 "country": "Philippines",
 "objects": 12,
 "skip": "Igorot subgroup"
+},
+{
+"key": "Q15077462",
+"name": "Mbunda",
+"continent": "Africa",
+"country": "Angola",
+"objects": 208,
+"skip": "BM facet \"Mbunda\" returns the Babunda (Mbuun) of the DR Congo, Torday collections 1907-0528 and 1910-0420; the pick kept 15 of 71, all Babunda. The Angolan Mbunda have no usable records here; the Mbuun could be a culture of their own"
 }
 ]
 }

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1993-01-18",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1993-01-18",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1993-01-18",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1993.01.18",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Melanau",
+    "tradition": "Melanau",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a finely plaited conical bamboo hat (\"terindak\") with beaded floral decoration and woven geometric bands, matching the museum's attribution to Melanau makers, a headwear form this people is known for.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "hat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "hat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Hat (&quot;matu terindak&quot;); plaited of bamboo; conical hat with piece of bamboo lashed around rim for support; inside lined with pink cotton?: outside shows three bands of dark fibre weaving from tip to rim, with band of green fibre on either side; between vertical bands is flower sewn on in red, yellow and white glass beads; metallic thread knob at point of hat.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/melanau/garment/melanau/images/bm_A_As1993_01_18.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4ef35d5de357333c69dd0b8e2bde1704ec992e98c7a1214aea7692844c864b83",
+      "bytes": 81281,
+      "local_path": "library\\southeast-asia\\malaysia\\melanau\\garment\\melanau\\images\\bm_A_As1993_01_18.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:42:01.434553+00:00"
+}

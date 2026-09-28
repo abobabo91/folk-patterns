@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1893-1008-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1893-1008-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1893-1008-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1893.1008.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Fiji",
+    "ethnicity": "Fijians",
+    "tradition": "Fijians",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a smoked barkcloth headdress with fringed edges, a form of traditional Fijian garment made from masi (barkcloth), consistent with the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "head-dress",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-dress",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Thin brown smoked barkcloth, headdress(?), with fringed edges.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/garment/fijians/images/bm_E_Oc1893_1008_2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e0216c4a38d2aa9d3961c015ea11d6d38f9ffae3ca59ce59fcfdad3d5dd51721",
+      "bytes": 140848,
+      "local_path": "library\\oceania\\fiji\\fijians\\garment\\fijians\\images\\bm_E_Oc1893_1008_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:48:44.911838+00:00"
+}

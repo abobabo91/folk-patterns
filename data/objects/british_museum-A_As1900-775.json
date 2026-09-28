@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1900-775",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1900-775",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1900-775",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1900.775",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Melanau",
+    "tradition": "Melanau",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a small carved wooden figure of a crouching humanoid/spirit form, matching the Melanau tradition of carved wooden charms (blum) used for protective or medicinal purposes, consistent with the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "charm",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "charm",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Woman&#039;s charm made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/melanau/masks-ritual/melanau/images/bm_A_As1900_775.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0357dc6a62d6c61204214b8583aec5939809f2c5c1b572dca8b85bdf09d3a099",
+      "bytes": 33137,
+      "local_path": "library\\southeast-asia\\malaysia\\melanau\\masks-ritual\\melanau\\images\\bm_A_As1900_775.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:41:56.463280+00:00"
+}

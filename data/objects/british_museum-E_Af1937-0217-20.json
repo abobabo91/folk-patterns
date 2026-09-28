@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1937-0217-20",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1937-0217-20",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1937-0217-20",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1937.0217.20",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Cameroon",
+    "ethnicity": "Bamileke",
+    "tradition": "Bamileke",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a black pottery vase with a flared bell mouth, two lug handles, and incised decorative bands—consistent with traditional Bamileke ceramic vessels from Cameroon, as attributed by the museum.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "vase",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vase",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Vase of black pottery with a bell mouth and two lifting lugs.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cameroon/bamileke/ceramic/bamileke/images/bm_E_Af1937_0217_20.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9d0e5efb59b410eb6b57ac47f4a92f52c0794daeea1ff5308862a08a7c11513a",
+      "bytes": 40913,
+      "local_path": "library\\sub-saharan-africa\\cameroon\\bamileke\\ceramic\\bamileke\\images\\bm_E_Af1937_0217_20.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:13:58.757311+00:00"
+}

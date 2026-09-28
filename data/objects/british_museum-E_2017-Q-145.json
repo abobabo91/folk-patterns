@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2017-Q-145",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2017-Q-145",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2017-Q-145",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2017.Q.145",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Fiji",
+    "ethnicity": "Fijians",
+    "tradition": "Fijians",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A traditional Fijian handmade earthenware vessel with incised zig-zag decoration and a side spout, consistent with known Fijian pottery traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Vessel made of pottery. The top half heavily decorated with zig-zag lines. Small nozzle half way up the pot. The bottom half is plain, some black marks along the base.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/ceramic/fijians/images/bm_E_2017_Q_145.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "14127e330f340fa72dfde6781a881c96d0f2cdc71da77922212cc606d39a9a41",
+      "bytes": 49726,
+      "local_path": "library\\oceania\\fiji\\fijians\\ceramic\\fijians\\images\\bm_E_2017_Q_145.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:49:10.312080+00:00"
+}

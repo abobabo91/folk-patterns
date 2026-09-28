@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1937-0217-71",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1937-0217-71",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1937-0217-71",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1937.0217.71",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Cameroon",
+    "ethnicity": "Bamileke",
+    "tradition": "Bamileke",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved animal horn with incised geometric bands, a well-known Bamileke decorative art form used as a container/ornament or ceremonial horn, matching the museum's Bamileke attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "sculpture; ornament (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sculpture; ornament (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Animal horn decorated with incised designs, the tip pierced.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cameroon/bamileke/household/bamileke/images/bm_E_Af1937_0217_71.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0b8207e5e79864e704b3b1902af617bc78fe803cb69884ef593aff022a2c570d",
+      "bytes": 53452,
+      "local_path": "library\\sub-saharan-africa\\cameroon\\bamileke\\household\\bamileke\\images\\bm_E_Af1937_0217_71.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:13:56.315882+00:00"
+}

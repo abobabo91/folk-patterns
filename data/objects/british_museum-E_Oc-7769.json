@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc-7769",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc-7769",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc-7769",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc.7769",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Fiji",
+    "ethnicity": "Fijians",
+    "tradition": "Fijians",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a large woven vegetable-fibre mat with knotted fringe, consistent with traditional Fijian pandanus/fibre mats, a well-documented Fijian craft.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "mat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Mat, large, square, of vegetable fibre, closely interwoven; one end has a short cut fringe, the other a longer fringe tied into knots. A line of short dark-brown zigzags are introduced across one end.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/textile/fijians/images/bm_E_Oc_7769.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c3cb0549dd9bd44282d9c4ff051ac37e16d6fbe977fea9731967e723f6ba8a18",
+      "bytes": 70248,
+      "local_path": "library\\oceania\\fiji\\fijians\\textile\\fijians\\images\\bm_E_Oc_7769.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:49:06.787130+00:00"
+}

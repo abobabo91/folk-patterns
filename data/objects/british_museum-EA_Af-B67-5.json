@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-B67-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-B67-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B67-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.B67.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Luo",
+    "tradition": "Luo",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo documents a Luo woman hand-building a pot beside finished vessels, with other women and children in a shelter nearby — a clear ethnographic documentary photo of traditional craft and daily life matching the claimed people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Kenya, Luo adult female making pot on tournette [?]. Unfinished pots and pottery-equipment on ground. Females wearing cloths, sitting on ground in front of shelter. Small group of children sitting and standing inside shelter.\nMedium: Gelatin silver print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/luo/photo/luo/images/bm_EA_Af_B67_5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e18ecacd45f958312f1277bd3a823457d593ece5f453b73a528183f509ce2741",
+      "bytes": 45117,
+      "local_path": "library\\sub-saharan-africa\\kenya\\luo\\photo\\luo\\images\\bm_EA_Af_B67_5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:22:19.590112+00:00"
+}

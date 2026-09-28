@@ -1,0 +1,91 @@
+{
+  "id": "met-502422",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "502422",
+    "object_url": "https://www.metmuseum.org/art/collection/search/502422",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.1823",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Fiji",
+    "ethnicity": "Fijians",
+    "tradition": "Fijians",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a conch shell trumpet (davui) with a woven fiber cord attached, a well-documented traditional Fijian musical/signal instrument.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Conch Shell Trumpet (Davui)",
+    "titles_alt": [],
+    "date_text": "late 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Shell (Ranella lampas)",
+      "fiber"
+    ],
+    "techniques": [],
+    "medium_raw": "Shell (Ranella lampas), fiber",
+    "classification": "Aerophone-Lip Vibrated-trumpet / trombone",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L.10 × W. 6 1/2 in. (25.4 × 16.5 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Fiji",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/fiji/fijians/instruments/fijians/images/met_502422.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a31ff5944df1688d47fcac6a14f4de8886ff81bd1c7ca5d79007b58b0f8203d9",
+      "bytes": 1206130,
+      "local_path": "library\\oceania\\fiji\\fijians\\instruments\\fijians\\images\\met_502422.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:49:12.163397+00:00"
+}

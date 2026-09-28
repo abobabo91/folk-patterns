@@ -827,21 +827,31 @@ def _quality(reply: str) -> int:
 
 # Umbrella peoples whose BM facet returns records made by named member groups.
 # Mangyan 2026-09-28: all 376 candidates were Hanunóo or Buid, and the pick kept 0.
+# Luyia 2026-09-28: 12 of its first drops were "Bukusu" and 1 "Maragoli". Tiriki is
+# left out: it is queued as a people of its own.
 _BM_SUBGROUPS = {"mangyan": {"hanunóo", "hanunoo", "buid", "buhid", "iraya", "alangan",
-                             "tadyawan", "tau-buid", "bangon", "ratagnon"}}
+                             "tadyawan", "tau-buid", "bangon", "ratagnon"},
+                 "luyia": {"bukusu", "maragoli", "logoli", "idakho", "isukha", "kabras", "marama",
+                           "wanga", "nyala", "tachoni", "samia", "nyole", "banyore", "marachi",
+                           "kisa", "tsotso", "khayo"}}
+
+
+def _norm_group(g: str) -> str:
+    return re.sub(r"\s+(?:people|peoples)$", "", g, flags=re.I).casefold()
 
 
 def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
     """Source labels that cannot establish an authentic maker attribution."""
+    expected = _norm_group(expected_bm_group) if expected_bm_group else ""
+    allowed = {expected} | _BM_SUBGROUPS.get(expected, set())
+    groups = {_norm_group(g) for g in d.get("production_ethnic_groups") or []}
     if o["source"] == "bm" and "(?)" in (d.get("production_ethnic_attribution") or ""):
         return "museum marks production ethnic group uncertain"
-    if o["source"] == "bm" and len(set(d.get("production_ethnic_groups") or [])) > 1:
+    # an umbrella and its own member group ("Luyia; Bukusu") name one people
+    if o["source"] == "bm" and len(groups) > 1 and not groups <= allowed:
         return "museum attributes production to multiple peoples"
-    if o["source"] == "bm" and expected_bm_group and d.get("production_ethnic_groups"):
-        groups = {re.sub(r"\s+(?:people|peoples)$", "", g, flags=re.I).casefold()
-                  for g in d["production_ethnic_groups"]}
-        expected = re.sub(r"\s+(?:people|peoples)$", "", expected_bm_group, flags=re.I).casefold()
-        if not groups & ({expected} | _BM_SUBGROUPS.get(expected, set())):
+    if o["source"] == "bm" and expected and groups:
+        if not groups & allowed:
             return f"museum attributes production to {', '.join(sorted(groups))}, not {expected}"
     if o["source"] == "cleveland" and re.search(r"\b[\w-]+-style maker\b", d.get("description") or "", re.I):
         return "style-only maker attribution"

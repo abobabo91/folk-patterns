@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1988-22-45-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1988-22-45-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-45-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1988.22.45.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Kelabit",
+    "tradition": "Kelabit",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a bamboo slit-tube gong (tobong) attributed to the Kelabit, a traditional musical instrument made from local materials (betong bamboo, kilid bark, rattan), matching the claimed ethnicity and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "gong",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "gong",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Tubular gong (tobong) with wide slit cut in one side and a piece of rattan attached to slit. Made of betong bamboo (bulu&#039; betong), kilid tree bark (anit kayuh kilid), rattan, wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/kelabit/instruments/kelabit/images/bm_A_As1988_22_45_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9e4aec115ed212ae5912d04d15d2728d4cf84b82a8c90dce6e23dc981c65605e",
+      "bytes": 77255,
+      "local_path": "library\\southeast-asia\\malaysia\\kelabit\\instruments\\kelabit\\images\\bm_A_As1988_22_45_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:36:45.060873+00:00"
+}

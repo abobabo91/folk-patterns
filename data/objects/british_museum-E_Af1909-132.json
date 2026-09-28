@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1909-132",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1909-132",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-132",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1909.132",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Ngoni",
+    "tradition": "Ngoni",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a classic oval hide war shield with a central spine staff, consistent with Nguni/Ngoni-type shields used in southeastern Africa; museum attributes production to Ngoni.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "shield",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shield",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Shield made of hide with an oval convex face; two rows of lighter coloured hide are threaded through slits on each side of the central line; the staff passes through loops at the back.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/ngoni/arms/ngoni/images/bm_E_Af1909_132.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bc8a7840d8efa078efc41a10f36d263de7a7645cf23cdad92d51e5b99dbb67e8",
+      "bytes": 47184,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\ngoni\\arms\\ngoni\\images\\bm_E_Af1909_132.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:09:14.415177+00:00"
+}

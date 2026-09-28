@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1919-1211-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1919-1211-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1919-1211-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1919.1211.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Rwanda",
+    "ethnicity": "Tutsi",
+    "tradition": "Tutsi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a plaited fibre tobacco pouch with fur/skin attachment and long twisted fringe, matching the museum's attribution to Tutsi make; this is a plausible household/personal item for the culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "tobacco-pouch; bag",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "tobacco-pouch; bag",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Tobacco pouch, a bag made of plaited vegetable fibre with fringe, and with otter-skin attached as a carrying loop with a fringe of long &#039;tails&#039;.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/rwanda/tutsi/household/tutsi/images/bm_E_Af1919_1211_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9614397df678b5292ca5e6a4899e38e1dee844e8c22537d7075fdf43b46c6917",
+      "bytes": 31886,
+      "local_path": "library\\sub-saharan-africa\\rwanda\\tutsi\\household\\tutsi\\images\\bm_E_Af1919_1211_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:29:49.872997+00:00"
+}

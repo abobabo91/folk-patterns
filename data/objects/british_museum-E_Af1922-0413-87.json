@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1922-0413-87",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1922-0413-87",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1922-0413-87",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1922.0413.87",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Ngoni",
+    "tradition": "Ngoni",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a hide leglet with long white/blonde hair, a worn adornment matching the \"jewelry\" claim and attributed by the museum to the Ngoni (with only regional uncertainty, not ethnic doubt).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "leglet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "leglet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Leglet (a pair with Af1922,0413.86) made of hide with white hair, with tie-on strings.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/ngoni/jewelry/ngoni/images/bm_E_Af1922_0413_87.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1fc3e7bf883246bbbbdb478ea0a738b3944666e3f41fa5d444231f3d9b0b7645",
+      "bytes": 45132,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\ngoni\\jewelry\\ngoni\\images\\bm_E_Af1922_0413_87.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:09:13.249989+00:00"
+}

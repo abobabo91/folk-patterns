@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1969-36-7",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1969-36-7",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1969-36-7",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1969.36.7",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "middle-east-north-africa",
+    "country": "Algeria",
+    "ethnicity": "Kabyle",
+    "tradition": "Kabyle",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an iron wire-drawing plate with rows of graduated holes, a tool used by Kabyle silversmiths to draw metal wire for jewelry-making, consistent with the claimed ethnicity and museum attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "drawplate",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "drawplate",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Iron wire-drawing plate, rectangular and pierced with rows of small holes of varying sizes.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/middle-east-north-africa/algeria/kabyle/household/kabyle/images/bm_E_Af1969_36_7.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ca743b228585117b5d879e658484b710e51fd4c99432a9048243c4a32594d576",
+      "bytes": 148494,
+      "local_path": "library\\middle-east-north-africa\\algeria\\kabyle\\household\\kabyle\\images\\bm_E_Af1969_36_7.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T21:31:05.299153+00:00"
+}

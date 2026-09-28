@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1937-0217-67",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1937-0217-67",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1937-0217-67",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1937.0217.67",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Cameroon",
+    "ethnicity": "Bamileke",
+    "tradition": "Bamileke",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden equestrian figure (rider atop a horse/animal form), a well-attested Bamileke sculptural genre from the Cameroon Grassfields, matching the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Equestrian figure carved in wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cameroon/bamileke/sculpture/bamileke/images/bm_E_Af1937_0217_67.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f74da86fd9a360e8e749168d1001dd3d5000b8c126edb494f3053b8c8e43e719",
+      "bytes": 34238,
+      "local_path": "library\\sub-saharan-africa\\cameroon\\bamileke\\sculpture\\bamileke\\images\\bm_E_Af1937_0217_67.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T22:13:50.730497+00:00"
+}
