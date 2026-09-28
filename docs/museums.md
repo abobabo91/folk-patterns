@@ -244,6 +244,8 @@ Never let any filter treat that field as evidence of origin. Measured 2026-08-27
 
 Corollary for `dcDescription`: read several entries, not just the first. Europeana splits origin across list items (`"Sarazm"`, `"Malaysia"`, `"Iban"`), so `desc[0]` alone usually loses the provenance.
 
+**Most ethnographic images for the Americas and the Arctic are served by one host, `collections.smvk.se`** (the Swedish National Museums of World Culture). All 70 Apinajé picks, 450 of 461 Yaqui candidates and 194 of 338 Karamojong candidates point there. On 2026-09-28 the host resolved but every connection timed out for hours. When the museum's own image fails, `pick` judges Europeana's cached thumbnail (`api.europeana.eu/thumbnail/v2`, about 9 KB) and records that URL. `_load_picks.py` still tries the full image first and uses the thumbnail only as the fallback, so load a culture only while the host answers, or the thumbnail becomes its library image.
+
 ## Ethnonym word-match collisions found in the library
 
 Every one of these was sitting in the atlas as a real record. They pass the junk regexes because nothing about the title looks like junk — only looking at the image plus the museum's own description catches them. Verified 2026-08-28 by the vision vetter across 100 sampled records.

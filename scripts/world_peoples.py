@@ -1014,7 +1014,10 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                                             "cost_usd": ev.get("total_cost_usd")}, ensure_ascii=False) + "\n")
                 source_exclusion = _source_exclusion(o, d, r.get("bm_name") or name)
                 if source_exclusion:
+                    # uses no try, as on a fresh fetch above: Maya 2026-09-28 fell from
+                    # 26 kept to 16 on a cached rerun when these drops counted
                     print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
+                    n -= 1
                     continue
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
                 q = _quality(reply)

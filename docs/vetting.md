@@ -291,7 +291,9 @@ For Tlingit, the first pick kept 21 of 31 judged. The British Museum's own
 flags removed 64 records ("multiple peoples" or "uncertain"; Northwest Coast
 objects are often catalogued as "Tlingit or Haida"), and each used one of
 the category's ten tries without a judge call. Source-attribution drops no
-longer count as tries. The rerun reached 52 judged and kept 36, and review
+longer count as tries, whether the record is fetched fresh or read from the
+judge cache (Maya 2026-09-28: 26 kept on the first run, 16 on a cached rerun
+while the cached drops still counted, 25 after). The rerun reached 52 judged and kept 36, and review
 excluded seven: a near-repeat Met lute, a Met whistle attributed "Tlingit or
 Koluschan, probably", plain reed pipes, a Sitka National Monument tourist
 postcard, a curio-shop display, a plain spoon knife and a plain copper sheet.
