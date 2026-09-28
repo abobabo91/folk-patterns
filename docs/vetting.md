@@ -370,11 +370,22 @@ removed. Both writeups were replaced with claims grounded in museum object
 records and the Smithsonian's caution that mask uses can be uncertain.
 All 16 object images are on R2.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,621/7,621
-library records judged, 6,727 accepted and 894 dropped. The site index has
-6,634 objects in 108 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,621 images. Selected Armenian,
-Lobi, Dogon, Luba, Fante and Idoma images were also checked against contact sheets and catalogues.
+For Urhobo, the Codex subscription judged 36 world-list candidates and
+initially kept 33. A three-sheet visual pass and 36 full British Museum records
+left 25 published objects. The judge mistook a Liberian coin for its parent
+figure because the record reused the sculpture photograph. A shrine was
+rejected after loading because its donor note said only "probably Urhobo,"
+despite an unqualified normalized maker field; its library verdict records
+this correction. Five of 12 Commons photos passed an independent visual and
+caption check. Both profiles were rewritten from British Museum and Smithsonian
+object records, and generic music links were removed. All 26 loaded images
+were uploaded to R2; the rejected shrine is excluded from the index.
+
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,647/7,647
+library records judged, 6,752 accepted and 895 dropped. The site index has
+6,659 objects in 109 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,647 images. Selected Armenian,
+Lobi, Dogon, Luba, Fante, Idoma and Urhobo images were also checked against contact sheets and catalogues.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -391,7 +402,7 @@ The five Codex batches now record `vetted_by: codex-gpt-5.6-luna`; the old
 constant had incorrectly labeled their verdicts as Claude Sonnet.
 The same Codex CLI and visual review covered Ainu (12 judged, three published),
 Konyak (three judged, three published), Lobi (12 judged, eight published),
-Dogon (12 judged, eight published), Luba (12 judged, six published), Fante (12 judged, four published), and Idoma (11 judged, five published).
+Dogon (12 judged, eight published), Luba (12 judged, six published), Fante (12 judged, four published), Idoma (11 judged, five published), and Urhobo (12 judged, five published).
 Ainu's model positives included
 two 1904 World's Fair exhibition portraits and an outsider painting; the
 second pass rejected them. Konyak's three source images were cached and

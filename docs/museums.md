@@ -276,3 +276,12 @@ and quality review. The mask records support specific materials and forms but
 usually do not establish one named ritual for each mask; the
 [Smithsonian Idoma mask record](https://africa.si.edu/collection/object/nmafa_2005-6-88)
 explicitly cautions that use and group boundaries can be uncertain.
+
+The Urhobo pass (2026-09-27) found two further catalogue traps. British Museum
+`Af1954,23.424.c` is a Liberian coin attached to a carved figure; its object
+page reuses the full figure photograph, which made the image judge classify
+the coin as sculpture. A different shrine (`Af1973,10.3`) has an unqualified
+normalized `Made by: Urhobo` field, but its original donation note says
+"probably Urhobo." The latter was marked rejected in the loaded library and
+excluded from the site; both exclusions are recorded in
+`data/world/pick_exclusions.json` for future pick runs.
