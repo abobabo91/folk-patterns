@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1958-06-124",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1958-06-124",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1958-06-124",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1958.06.124",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "ethnicity": "Mangyan",
+    "tradition": "Mangyan",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A rolled woven buri palm sleeping mat, attributed to the Hanunóo, a Mangyan subgroup of Mindoro, so it matches the claimed ethnicity's material culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "sleeping-mat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sleeping-mat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sleeping mat made of fibre (buri palm).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/mangyan/household/mangyan/images/bm_A_As1958_06_124.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "13f8d5e08090748355904fca07c305b2aef58a2c914af0b8d63a34d8f56ebe23",
+      "bytes": 111296,
+      "local_path": "library\\southeast-asia\\philippines\\mangyan\\household\\mangyan\\images\\bm_A_As1958_06_124.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T20:39:34.000731+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1933-0715-184-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1933-0715-184-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1933-0715-184-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1933.0715.184.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Gondi",
+    "tradition": "Gondi",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an iron sword with a basket-style hilt and finger guard, attributed by the museum to the Gond as a \"god symbol\" weapon type known to this group; this matches the claimed ethnicity and category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sword; god symbol",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sword; god symbol",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sword (god symbol) made of iron with decoration along lower part of blade; slighly concave blade. Simple finger guard with rounded square top and blade passing all the way through before ending in rounded point.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/gondi/arms/gondi/images/bm_A_As1933_0715_184_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9ac6a46f4f818b870dc842ee89d175a8338ee496b3e545c742d5f0d2a6f34b25",
+      "bytes": 58384,
+      "local_path": "library\\south-asia\\india\\gondi\\arms\\gondi\\images\\bm_A_As1933_0715_184_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T20:26:03.665439+00:00"
+}

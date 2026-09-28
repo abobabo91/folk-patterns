@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1933-0715-142",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1933-0715-142",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1933-0715-142",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1933.0715.142",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Gondi",
+    "tradition": "Gondi",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a handmade leaf headdress with a fan-shaped crown and long woven leaf pendants, matching the museum's description and its recorded production by the Gond people, consistent with the claimed Gondi ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "head-dress",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-dress",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Head-dress made of leaves (wild date); leaves vertically attached to circular band and tied together at top; a second layer of leaves fan out at the very top and fan shape held in place with thin strips of interwoven leaf. From base of head-dress hang three pendants made of leaf hoops joined together; circular motif made of leaves at the end of each pendant.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/gondi/garment/gondi/images/bm_A_As1933_0715_142.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7ee8b7fc667f2bfe6c029a9e00cf485e21aa3ec3ea0b7dab893b2c72b0f61129",
+      "bytes": 55376,
+      "local_path": "library\\south-asia\\india\\gondi\\garment\\gondi\\images\\bm_A_As1933_0715_142.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T20:26:08.492849+00:00"
+}

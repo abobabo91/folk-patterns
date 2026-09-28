@@ -825,6 +825,12 @@ def _quality(reply: str) -> int:
     return int(m.group(1)) if m else 0
 
 
+# Umbrella peoples whose BM facet returns records made by named member groups.
+# Mangyan 2026-09-28: all 376 candidates were Hanunóo or Buid, and the pick kept 0.
+_BM_SUBGROUPS = {"mangyan": {"hanunóo", "hanunoo", "buid", "buhid", "iraya", "alangan",
+                             "tadyawan", "tau-buid", "bangon", "ratagnon"}}
+
+
 def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
     """Source labels that cannot establish an authentic maker attribution."""
     if o["source"] == "bm" and "(?)" in (d.get("production_ethnic_attribution") or ""):
@@ -835,7 +841,7 @@ def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
         groups = {re.sub(r"\s+(?:people|peoples)$", "", g, flags=re.I).casefold()
                   for g in d["production_ethnic_groups"]}
         expected = re.sub(r"\s+(?:people|peoples)$", "", expected_bm_group, flags=re.I).casefold()
-        if expected not in groups:
+        if not groups & ({expected} | _BM_SUBGROUPS.get(expected, set())):
             return f"museum attributes production to {', '.join(sorted(groups))}, not {expected}"
     if o["source"] == "cleveland" and re.search(r"\b[\w-]+-style maker\b", d.get("description") or "", re.I):
         return "style-only maker attribution"

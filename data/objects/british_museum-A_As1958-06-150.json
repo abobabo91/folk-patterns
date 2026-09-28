@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1958-06-150",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1958-06-150",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1958-06-150",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1958.06.150",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Philippines",
+    "ethnicity": "Mangyan",
+    "tradition": "Mangyan",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a bamboo flute with carved finger holes, attributed by the museum to the Hanunóo, who are a Mangyan subgroup native to Mindoro, Philippines — a plausible traditional instrument for this people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "flute",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "flute",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Flute made of bamboo.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/philippines/mangyan/instruments/mangyan/images/bm_A_As1958_06_150.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9a616e7b4c3c45c70f5e71fcb4f69423a48744cc917fa840bb2a6f3953bdd2ae",
+      "bytes": 147730,
+      "local_path": "library\\southeast-asia\\philippines\\mangyan\\instruments\\mangyan\\images\\bm_A_As1958_06_150.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T20:39:47.988691+00:00"
+}

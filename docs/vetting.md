@@ -353,7 +353,7 @@ returned the same list (Book of the Dead of Imhotep, the Fieschi Morgan
 Staurotheke, ...) for every query tried, so its totals are not a count of
 matches; use `.cache/MetObjects.csv` instead.
 
-### Eight cultures from picks (2026-09-28)
+### Cultures from picks (2026-09-28)
 
 | Culture | Kept by pick | Published | Commons | Excluded by review |
 |---|---|---|---|---|
@@ -365,6 +365,20 @@ matches; use `.cache/MetObjects.csv` instead.
 | Nupe | 78 | 78 | 6 of 10 | "Hausa oder Nupe" mask and unattributed photos (Commons) |
 | Torres Strait Islanders | 81 | 80 | 2 of 3 | second photo of one bottle |
 | Native Hawaiians | 83 | 81 | 6 of 11 | two royal portraits in Western dress; lauhala "German stars" (Commons) |
+| Gondi | 54 | 52 | 4 of 6 | naturalistic painted clay type-figure, a fourth iron god-symbol chain; Gond Mahal monument and a modern statue (Commons) |
+| Semai | 44 | 44 | 0 of 3 | an unattributed 1906 plate, a museum wax mannequin, a durian seller captioned only "Orang Asli" (Commons) |
+| Mangyan | 45 | 45 | 4 of 5 | a craft-shop display of modern bags (Commons) |
+
+Mangyan is the collective name of the Mindoro peoples, and the British Museum
+records its objects under the member groups: all 376 candidates were Hanunóo
+or Buid, so the first pick dropped every one as "not mangyan" and kept 0.
+`_BM_SUBGROUPS` in `world_peoples.py` lets the umbrella accept its named
+groups; the rerun kept 45, among them three Hanunóo bamboo tubes inscribed in
+the Mangyan script. Accepting any group that merely ends in the people's name
+was tried for Maya and made it worse: the British Museum's "Yucatec Maya"
+records are mostly raw fibre, a cotton boll and machine-embroidered
+pillowcases, and letting them in used the textile tries before the Guatemalan
+backstrap weavings were reached.
 
 Every seed's tradition chips were pruned to the ones the sources contain.
 Between 11 and 16 were dropped per culture, for example 16 Shona chips such as
@@ -512,15 +526,15 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 8,318/8,318
-library records judged, 7,420 accepted and 898 dropped. The site index has
-7,322 objects in 120 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 8,318 images. Selected Armenian,
+**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 8,461/8,461
+library records judged, 7,561 accepted and 900 dropped. The site index has
+7,463 objects in 123 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 8,461 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
-Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander and Native Hawaiian
-images were also checked against contact sheets and catalogues. Commons: 452
-published, 250 rejected by the editorial check, 666 rejected by the model, none
-waiting.
+Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
+Gondi, Semai and Mangyan images were also checked against contact sheets and
+catalogues. Commons: 460 published, 256 rejected by the editorial check, 688
+rejected by the model, none waiting.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
