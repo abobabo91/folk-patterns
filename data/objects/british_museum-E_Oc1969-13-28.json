@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1969-13-28",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1969-13-28",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1969-13-28",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1969.13.28",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Asmat",
+    "tradition": "Asmat",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a wooden hourglass-shaped drum with a carved openwork handle featuring hornbill-like bird figures and a human figure with plaited rattan binding for the membrane — a classic New Guinea/Asmat-style drum construction consistent with the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "drum",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wood drum made of membrane (broken) held by plaited rattan binding with relief carving on body. The handle includes a human figure.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/asmat/instruments/asmat/images/bm_E_Oc1969_13_28.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "882962be5013ad2d90f3b2b02a0472f82fe4d87ea9640b8cf78276151dfd8a79",
+      "bytes": 63725,
+      "local_path": "library\\southeast-asia\\indonesia\\asmat\\instruments\\asmat\\images\\bm_E_Oc1969_13_28.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:21:15.496871+00:00"
+}

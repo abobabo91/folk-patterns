@@ -66,18 +66,32 @@ def _client():
     s = _cc.Session(impersonate="chrome131", timeout=45, verify=False)
     cdp = os.environ.get("BM_CDP_URL")
     if cdp:
-        from playwright.sync_api import sync_playwright
-        with sync_playwright() as p:
-            ctx = p.chromium.connect_over_cdp(cdp).contexts[0]
-            pg = ctx.new_page()
-            pg.goto(SEARCH_URL + "?keyword=textile", wait_until="domcontentloaded", timeout=60000)
-            pg.wait_for_timeout(5000)
-            ua = pg.evaluate("navigator.userAgent")
-            pg.close()
-            for c in ctx.cookies():
-                if "britishmuseum" in c["domain"]:
-                    s.cookies.set(c["name"], c["value"], domain=c["domain"])
-        s.headers["User-Agent"] = ua
+        # Raw CDP on one tab we open ourselves, not Playwright's connect_over_cdp:
+        # that attaches to every tab in the browser and hung for 3 min
+        # (2026-09-27) on a Chrome holding other sessions' ChatGPT/Grok tabs.
+        import json as _json
+        import time as _time
+        import urllib.parse as _up
+        import urllib.request as _ur
+        import websocket
+        tab = _json.loads(_ur.urlopen(_ur.Request(
+            f"{cdp}/json/new?{_up.quote(SEARCH_URL + '?keyword=textile', safe='')}", method="PUT"), timeout=30).read())
+        try:
+            _time.sleep(8)   # let Cloudflare's check run and set cf_clearance
+            ws = websocket.create_connection(tab["webSocketDebuggerUrl"], timeout=30, suppress_origin=True)
+            ws.send(_json.dumps({"id": 1, "method": "Network.getCookies", "params": {"urls": ["https://www.britishmuseum.org/"]}}))
+            ws.send(_json.dumps({"id": 2, "method": "Runtime.evaluate", "params": {"expression": "navigator.userAgent", "returnByValue": True}}))
+            got: dict = {}
+            while len(got) < 2:
+                m = _json.loads(ws.recv())
+                if m.get("id") in (1, 2):
+                    got[m["id"]] = m.get("result") or {}
+            ws.close()
+        finally:
+            _ur.urlopen(f"{cdp}/json/close/{tab['id']}", timeout=30).read()
+        for c in got[1].get("cookies", []):
+            s.cookies.set(c["name"], c["value"], domain=c["domain"])
+        s.headers["User-Agent"] = got[2]["result"]["value"]
     r = s.get(SEARCH_URL, params={"keyword": "textile"})
     if r.status_code == 403:
         print("  ! British Museum answers 403 (Cloudflare) — set BM_CDP_URL", flush=True)

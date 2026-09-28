@@ -83,7 +83,7 @@ attribution before treating every facet hit as exclusive to one people.
 
 **Measured result**, 721 facet-scraped records over 13 cultures judged by the vetter on 2026-09-24: 702 kept, 19 dropped (2.6%) — San 59/1 where keyword-era San lost 93%, Chin 59/1 where it lost 86%, Maasai 58/2 where it lost 74%. Per-culture table: [vetting.md](vetting.md#where-this-stands).
 
-**Cloudflare.** Since 2026-09-24 every curl_cffi TLS impersonation (chrome124, chrome131, safari, firefox) gets 403 on search and detail pages. A real Chrome passes, and its `cf_clearance` cookie, sent with that Chrome's exact User-Agent, lets curl_cffi through (200). Set `BM_CDP_URL=http://127.0.0.1:<port>` to a Chrome with remote debugging and `_client()` opens one search page there and copies the cookie. Without it the scraper warns and gets nothing.
+**Cloudflare.** Since 2026-09-24 every curl_cffi TLS impersonation (chrome124, chrome131, safari, firefox) gets 403 on search and detail pages. A real Chrome passes, and its `cf_clearance` cookie, sent with that Chrome's exact User-Agent, lets curl_cffi through (200). Set `BM_CDP_URL=http://127.0.0.1:<port>` to a Chrome with remote debugging and `_client()` opens one search page there and copies the cookie. Without it the scraper warns and gets nothing. `_client()` does this over raw CDP (`/json/new`, then `Network.getCookies` on that tab, then `/json/close`), using `websocket-client`. Playwright's `connect_over_cdp` attaches to every tab in the browser: on 2026-09-27 it hung past its 3-minute timeout on a Chrome that also held other sessions' ChatGPT and Grok tabs.
 
 **Image host.** `media.britishmuseum.org` serves its leaf certificate without the intermediate; `scripts/certs/extra-intermediates.pem` carries it for the cloud vetter.
 

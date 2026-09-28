@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2009-2001-11",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2009-2001-11",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2009-2001-11",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2009.2001.11",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Asmat",
+    "tradition": "Asmat",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a woven fibre dance belt with plaited harness and tasselled ends, a type of ceremonial garment consistent with Asmat and neighbouring New Guinea groups' dance regalia; the object is plausible for the claimed culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "belt",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "belt",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Dance belt of bark, grass and plastic raffia.  Circular belt, made of light, undyed plaited fibre, with horizontal bands at upper and lower edges and centre, stitched with dark brown fibre and white plastic raffia.  Woven fibre harness extends from front to back of belt, with central section which separates into two parts of a narrower width.  At either end of this section, two further straps extend to sides of belt, supported by a diagonal strap which attaches to centre back and front.  There is a woven tassel with loose fibre ends at the centre front and sides of belt.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/asmat/garment/asmat/images/bm_E_2009_2001_11.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c6dbc01b7f4dde3bf9272ad645172e893a760bce19662fe4469e2f1cfa589383",
+      "bytes": 80778,
+      "local_path": "library\\southeast-asia\\indonesia\\asmat\\garment\\asmat\\images\\bm_E_2009_2001_11.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:21:27.890389+00:00"
+}

@@ -1015,6 +1015,13 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     continue
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
                 q = _quality(reply)
+                # A museum photograph the judge files as a spear, bowl or mask is a
+                # picture of an object: the object record is the gallery item, and
+                # the print is not a documentary photo of people. Asmat 2026-09-27:
+                # 17 BM "photographic print" records (EA_Oc-B142-*) re-filed this way.
+                if re.match(r"photographic print|photograph\b", d.get("title") or "", re.I) and af not in (None, "photo"):
+                    print(f"  {cat:13s} {o['id']:22s} drop: photograph of an object ({af})", flush=True)
+                    continue
                 ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak") and q >= PICK_QUALITY_MIN
                 if belongs and era not in ("modern", "archaeological") and image in ("good", "weak"):
                     accepted.append({**o, "title": d.get("title"), "image_url": d["image_url"],

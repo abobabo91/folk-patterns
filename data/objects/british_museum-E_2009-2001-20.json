@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2009-2001-20",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2009-2001-20",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2009-2001-20",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2009.2001.20",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Asmat",
+    "tradition": "Asmat",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a plaited vegetable-fibre mat with painted curvilinear designs, consistent with Asmat woven mats/textiles from Papua, Indonesia, and the museum explicitly attributes production to the Asmat.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "mat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Mat, made of vegetable fibre. Rectangular mat of plaited fibre, with woven curvilinear designs painted with red, black and white pigment.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/asmat/textile/asmat/images/bm_E_2009_2001_20.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ad54030319537e43b61a6675b5290b4d8a34cdd36738ed9581897cb0b68835bb",
+      "bytes": 117640,
+      "local_path": "library\\southeast-asia\\indonesia\\asmat\\textile\\asmat\\images\\bm_E_2009_2001_20.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:21:34.800854+00:00"
+}

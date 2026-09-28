@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2009-2001-24",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2009-2001-24",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2009-2001-24",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2009.2001.24",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Indonesia",
+    "ethnicity": "Asmat",
+    "tradition": "Asmat",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a woven plaited mat with lozenge patterning, painted pigment, and decorative seed edging held up by a person — consistent with the museum's attribution of an Asmat-made plaited mat.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "mat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Mat, made of vegetable fibre, coix seeds.  Rectangular, plaited mat, with woven lozenge design painted in red and white clay pigment.  Horizontal bands of light and dark fibre strips.  Perimeter decorated with coix seeds, attached with fibre thread.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/indonesia/asmat/textile/asmat/images/bm_E_2009_2001_24.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1d6a0d6db46526ad2be04759218ba77a5b52ce8467c3fd1f339f75fc677b7c60",
+      "bytes": 97393,
+      "local_path": "library\\southeast-asia\\indonesia\\asmat\\textile\\asmat\\images\\bm_E_2009_2001_24.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T03:21:35.344375+00:00"
+}

@@ -249,6 +249,39 @@ and generic `wood carving` brought in unrelated work. Both categories are
 skipped for Pende. Country-level Smithsonian Folkways results are withheld
 unless their titles identify Pende; the current sidecar has no such result.
 
+For Asmat, Claude judged 145 candidates across four pick runs (British Museum
+and Europeana). Review of every kept image and all catalogue descriptions
+excluded 41 objects, leaving 89:
+
+- 17 British Museum photographic prints (`EA_Oc-B142-*`, `EA_Oc-B101-*`)
+  showed an object. The judge re-filed each print as that object's category,
+  the same mistake as the Pende mask. `pick` now drops any record titled
+  "photographic print" or "photograph" whose judged category is not `photo`.
+  Prints of people and ceremonies stay.
+- A figurative painted mat from the British Museum's 2009 Stanley accession
+  was made in 2005, so it is contemporary art rather than a traditional object.
+  So is a second mat from the same accession. Plaited bags from that
+  accession, dated 2002, stay as handmade craft.
+- A Europeana carved crucifix is a mission-period Christian subject.
+- The rest were thin items that cannot be made out at gallery size, plain
+  pieces and near-repeats of bowls, drums, trumpets and skirts.
+
+The British Museum's own "uncertain" production-group flag removed three
+more.
+
+The generated Asmat profile invented vernacular terms that no source
+contains: *otsj* (shield), *wuramon* (soul ship), *bipane*, *ambirak*, *yew*,
+*em*/*tifa*, *fu*, *cus*, *tsjemen* and the culture hero *Fumeripits*. It also
+called the *jew* a men's house, although Wikipedia gives *jew* as the word for
+dwellings. Both profiles were rewritten from the Wikipedia articles (Asmat
+people, Bisj pole) and the museum records only. *Cemen* (the pole's openwork
+"wing"), *jipae*, *ci*, *wow-ipits* and *Safan* are sourced. The seed's
+tradition chips carried the same invented terms and were cut to sourced ones.
+Of the 12 Asmat Commons photos, the model rejected one (a betel stall). The
+editorial pass published eight. It rejected a Jakarta parade captioned only as
+"friends of Asmat", a skull attributed to "Asmat-Mimika", and a cropped
+duplicate of the UBC shield photo.
+
 For Hausa, Codex judged 123 world-list candidates and initially retained 104.
 Review of contact sheets and original catalogue descriptions excluded 39: plain
 or near-duplicate pieces, faint Qur'an boards, damaged toys, a Ghanaian
@@ -381,11 +414,11 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,678/7,678
-library records judged, 6,780 accepted and 898 dropped. The site index has
-6,687 objects in 110 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 7,678 images. Selected Armenian,
-Lobi, Dogon, Luba, Fante, Idoma, Urhobo and Fon images were also checked against contact sheets and catalogues.
+**Current coverage (2026-09-27):** `scripts/_vet_status.py` reports 7,767/7,767
+library records judged, 6,869 accepted and 898 dropped. The site index has
+6,771 objects in 111 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 7,767 images. Selected Armenian,
+Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon and Asmat images were also checked against contact sheets and catalogues.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 
@@ -475,8 +508,8 @@ showed a named Toraja ceremony, textile, house, tomb, or dress with a visible
 subject and a supporting caption. The Ma'nene image depicts a deceased person
 being dressed and is shown as ritual documentation.
 
-The current Commons counts are 121 published, 77 model-accepted awaiting
-editorial review, 45 editorially rejected, 306 model-rejected, and 710 awaiting
+The current Commons counts are 129 published, 77 model-accepted awaiting
+editorial review, 48 editorially rejected, 307 model-rejected, and 710 awaiting
 the model. The remaining 77 positives are hidden until checked.
 
 Next: vet the remaining hidden Commons photos through the subscription CLI in
