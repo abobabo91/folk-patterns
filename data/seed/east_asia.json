@@ -274,6 +274,41 @@
           }
         }
       ]
+    },
+    {
+      "country": "Russia",
+      "met_queries": [
+        "Russia"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Nivkh",
+          "homeland": {
+            "lat": 53.14,
+            "lon": 141.93
+          },
+          "homeland_place": "Nikolayevsk-on-Amur",
+          "traditions": [
+            "fish-skin robe",
+            "spiral scroll motif",
+            "bear festival wood carving",
+            "dugout amur boat"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Nivkh",
+              "Nivkhi",
+              "Gilyak",
+              "Giliak",
+              "Sakhalin",
+              "Amur"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1906-0615-9",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1906-0615-9",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1906-0615-9",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1906.0615.9",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Nkole",
+    "tradition": "Nkole",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a coiled basketwork plate with a geometric black-and-pale radial pattern, made by the Banyankole (Nkole) as noted in the museum description, though it is basketry rather than ceramic.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "plate",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "plate",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Coiled basketwork plate made of grass or leaf, conical with black and pale patterns.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/nkole/household/nkole/images/bm_E_Af1906_0615_9.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "206c6b58d86c4db5b15852104bfb9b0182b91ec521e3f778786bd398cebf8edc",
+      "bytes": 76709,
+      "local_path": "library\\sub-saharan-africa\\uganda\\nkole\\household\\nkole\\images\\bm_E_Af1906_0615_9.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T23:37:36.808789+00:00"
+}

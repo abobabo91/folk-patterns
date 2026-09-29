@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1896-567-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1896-567-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1896-567-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1896.567.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Russia",
+    "ethnicity": "Nivkh",
+    "tradition": "Nivkh",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a pair of hide/fur boots consistent with traditional Nivkh footwear made from fish skin or animal hide, matching the museum's attribution to Nivkh makers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "boot",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "boot",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Boots (pair of) made of hide, fur.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/nivkh/garment/nivkh/images/bm_A_As1896_567_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fff6764b01e44cab927e9164fcfb54293c4f4bee69998af7550c52416658192a",
+      "bytes": 40939,
+      "local_path": "library\\east-asia\\russia\\nivkh\\garment\\nivkh\\images\\bm_A_As1896_567_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:28:07.410190+00:00"
+}

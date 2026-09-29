@@ -975,6 +975,32 @@
               "Sidama beadwork"
             ]
           }
+        },
+        {
+          "name": "Konso",
+          "homeland": {
+            "lat": 5.25,
+            "lon": 37.48
+          },
+          "homeland_place": "Karat-Konso",
+          "traditions": [
+            "waga"
+          ],
+          "arch_commons_categories": [
+            "Konso Cultural Landscape",
+            "Konso people",
+            "Waka (Konso)"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Konso",
+              "Konzo",
+              "Conso",
+              "Ethiopia",
+              "Gato",
+              "Gamu-Gofa"
+            ]
+          }
         }
       ]
     },
@@ -1158,6 +1184,25 @@
               "Kenya"
             ]
           }
+        },
+        {
+          "name": "Embu",
+          "homeland": {
+            "lat": -0.5333,
+            "lon": 37.45
+          },
+          "homeland_place": "Embu",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Embu",
+              "Kiembu",
+              "Aembu",
+              "Kenya",
+              "Mount Kenya"
+            ]
+          }
         }
       ]
     },
@@ -1287,6 +1332,34 @@
               "Tanzania",
               "Songea",
               "Ruvuma"
+            ]
+          }
+        },
+        {
+          "name": "Hadza",
+          "homeland": {
+            "lat": -3.83,
+            "lon": 35.08
+          },
+          "homeland_place": "Mangola",
+          "traditions": [
+            "epeme dance",
+            "epeme meat rite",
+            "maitoko"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Hadza",
+              "Hadzabe",
+              "Hadzapi",
+              "Hatsa",
+              "Kindiga",
+              "Tindiga",
+              "Watindiga",
+              "Tanzania",
+              "Tanganyika",
+              "Lake Eyasi"
             ]
           }
         }
@@ -2323,6 +2396,30 @@
               "Nilotic"
             ]
           }
+        },
+        {
+          "name": "Bongo",
+          "homeland": {
+            "lat": 7.28,
+            "lon": 28.25
+          },
+          "homeland_place": "Wau",
+          "traditions": [
+            "Bongo grave post",
+            "Dor ancestor post",
+            "Bongo five-string harp",
+            "Bongo wooden stool"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Bongo",
+              "Dor",
+              "Bahr el Ghazal",
+              "South Sudan",
+              "Sudan"
+            ]
+          }
         }
       ]
     },
@@ -2726,6 +2823,39 @@
               "Ruanda",
               "Ruanda-Urundi",
               "Banyarwanda"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Uganda",
+      "met_queries": [
+        "Uganda"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Nkole",
+          "homeland": {
+            "lat": -0.6,
+            "lon": 30.65
+          },
+          "homeland_place": "Mbarara",
+          "traditions": [
+            "Ankole horn carving"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Nkole",
+              "Nkore",
+              "Banyankole",
+              "Banyankore",
+              "Ankole",
+              "Ankola",
+              "Uganda"
             ]
           }
         }

@@ -198,6 +198,39 @@
               "Australia"
             ]
           }
+        },
+        {
+          "name": "Tiwi",
+          "homeland": {
+            "lat": -11.76,
+            "lon": 130.63
+          },
+          "homeland_place": "Darwin",
+          "traditions": [
+            "pukumani",
+            "tunga",
+            "kulama",
+            "yoi",
+            "Tiwi bark basket"
+          ],
+          "arch_commons_categories": [
+            "Tiwi Islands",
+            "Bathurst Island (Northern Territory)",
+            "Melville Island (Northern Territory)",
+            "Wurrumiyanga",
+            "Pukumani"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Tiwi",
+              "Tiwi Islands",
+              "Bathurst Island",
+              "Melville Island",
+              "Australian Aboriginal",
+              "Aboriginal Australian",
+              "Arnhem Land"
+            ]
+          }
         }
       ]
     },
@@ -287,6 +320,46 @@
               "Lau Islands",
               "Bau",
               "Melanesian"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Palau",
+      "met_queries": [
+        "Palau"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Palauans",
+          "homeland": {
+            "lat": 7.36,
+            "lon": 134.54
+          },
+          "homeland_place": "Koror",
+          "traditions": [
+            "bai",
+            "storyboard"
+          ],
+          "arch_commons_categories": [
+            "Bai (Palau)",
+            "Badrulchau",
+            "Koror",
+            "Airai",
+            "Melekeok"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Palauan",
+              "Palau",
+              "Belau",
+              "Pelew",
+              "Caroline Islands",
+              "Koror",
+              "Micronesia"
             ]
           }
         }

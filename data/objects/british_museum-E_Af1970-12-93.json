@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1970-12-93",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1970-12-93",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1970-12-93",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1970.12.93",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Hadza",
+    "tradition": "Hadza",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a beaded arm-band made of multi-strand glass beads (white, red, blue, orange), attributed by the museum directly to a Hadza maker; the beadwork style is consistent with East African pastoralist/hunter-gatherer adornment traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "arm-band",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "arm-band",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Woman&#039;s arm-band made of beads.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/hadza/jewelry/hadza/images/bm_E_Af1970_12_93.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c4b94f17a6347d7d8f704d1aa5c1bac21ed210d76ac3c832907397be026a79d7",
+      "bytes": 87505,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\hadza\\jewelry\\hadza\\images\\bm_E_Af1970_12_93.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:00:16.679798+00:00"
+}

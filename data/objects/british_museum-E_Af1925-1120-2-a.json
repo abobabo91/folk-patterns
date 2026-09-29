@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1925-1120-2-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1925-1120-2-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1925-1120-2-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1925.1120.2.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Nkole",
+    "tradition": "Nkole",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a gourd bottle entirely covered in fine geometric beadwork with a coiled basketry stopper, explicitly attributed to the Banyankole (Nkole) people of Uganda — a classic Nkole beadwork container.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "bottle; vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bottle; vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Gourd bottle, entirely covered by a geometric design formed of drak blue, pink and white beads; the stopper is of coiled basketry.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/nkole/household/nkole/images/bm_E_Af1925_1120_2_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f1fb0712e82e4348ae4dd5624ef3cbe1203436fcea4c44d8a9517ce36d2ebc34",
+      "bytes": 67979,
+      "local_path": "library\\sub-saharan-africa\\uganda\\nkole\\household\\nkole\\images\\bm_E_Af1925_1120_2_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T23:37:27.520905+00:00"
+}

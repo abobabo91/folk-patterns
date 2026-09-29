@@ -1,0 +1,90 @@
+{
+  "id": "met-31523",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "31523",
+    "object_url": "https://www.metmuseum.org/art/collection/search/31523",
+    "iiif_manifest": null,
+    "credit_line": "Bequest of George C. Stone, 1935",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "36.25.931",
+    "accession_year": "1936"
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Bhil",
+    "tradition": "Bhil",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a horn dagger with a curved blade and H-shaped hilt with decorative rivets, consistent with the museum's attribution to the Bhil people of Central India who made such curved horn/blade daggers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Dagger",
+    "titles_alt": [],
+    "date_text": "18th–19th century",
+    "date_earliest": 1701,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Horn (buffalo)"
+    ],
+    "techniques": [],
+    "medium_raw": "Horn (buffalo)",
+    "classification": "Daggers",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 12 11/16 in. (32.2 cm); W. 2 1/2 in. (6.4 cm); Wt. 3.9 oz. (110.6 g)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Central India",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/bhil/arms/bhil/images/met_31523.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f628e07051c69ee9e6d1134b4c91f30a8266fe5916e2726a0782868ba8329417",
+      "bytes": 1011916,
+      "local_path": "library\\south-asia\\india\\bhil\\arms\\bhil\\images\\met_31523.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:16:59.457295+00:00"
+}

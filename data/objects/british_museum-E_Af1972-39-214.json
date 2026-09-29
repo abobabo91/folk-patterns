@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1972-39-214",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1972-39-214",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-39-214",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1972.39.214",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ethiopia",
+    "ethnicity": "Konso",
+    "tradition": "Konso",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a beaded pubic apron with a leather belt, described by the museum as made and used by Konso women for dances, consistent with East African adornment garments.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "apron",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "apron",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Pubic apron made of string of fibre decorated with glass beads, suspended from a leather belt; used by women in dances.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/konso/garment/konso/images/bm_E_Af1972_39_214.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c808df247f3d2782d0b95e5d8e0c86a5527047af2d40f8cf77cd7e5844f32207",
+      "bytes": 48427,
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\konso\\garment\\konso\\images\\bm_E_Af1972_39_214.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T23:44:55.564105+00:00"
+}

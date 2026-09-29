@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1906-0615-20-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1906-0615-20-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1906-0615-20-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1906.0615.20.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Nkole",
+    "tradition": "Nkole",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an iron-bladed dagger with a wooden handle and a decorated woven/beaded sheath, attributed by the museum to the Banyankole (Nkole), consistent with traditional East African arms.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "dagger",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dagger",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Dagger with an iron blade and a wooden handle (a); with sheath (b).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/nkole/arms/nkole/images/bm_E_Af1906_0615_20_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "afcad4c22b7774dc25aa3fad0a0e78f23b308c83c0213a292086c681e91d9882",
+      "bytes": 29513,
+      "local_path": "library\\sub-saharan-africa\\uganda\\nkole\\arms\\nkole\\images\\bm_E_Af1906_0615_20_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T23:37:40.578551+00:00"
+}

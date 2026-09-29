@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1985-15-58",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1985-15-58",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1985-15-58",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1985.15.58",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Bhil",
+    "tradition": "Bhil",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden mortar with a carved notch pattern at the lip, tall central section, and flared base, consistent with household grain-pounding equipment attributed to the Bhil by the museum.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "mortar",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mortar",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Mortar made of wood for pounding maize. Roughly carved with notch pattern at lip; tall central section and flared base.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/bhil/household/bhil/images/bm_A_As1985_15_58.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f88073367eb9e943e9b809e5c887595933dcd621b0016c8d7bcdf5eec2f39bb5",
+      "bytes": 35873,
+      "local_path": "library\\south-asia\\india\\bhil\\household\\bhil\\images\\bm_A_As1985_15_58.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:17:19.112458+00:00"
+}

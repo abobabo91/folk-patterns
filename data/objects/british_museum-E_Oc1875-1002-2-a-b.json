@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1875-1002-2-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1875-1002-2-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1875-1002-2-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1875.1002.2.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Palau",
+    "ethnicity": "Palauans",
+    "tradition": "Palauans",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden container with lid, inlaid with shell in geometric and turtle motifs, matching the museum's attribution to Palauan makers; this is a household object consistent with Palauan craft traditions.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "container; lid",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "container; lid",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Container (a) with lid (b) made of wood, inlaid with shell and a fibre cord suspension loop. A turtle motif on the top of the lid in inlaid shell.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/palau/palauans/household/palauans/images/bm_E_Oc1875_1002_2_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ce922ad16dad2ecbc9af1d2755d4250ea1cde04cfa071f7e759733d60697ca04",
+      "bytes": 63458,
+      "local_path": "library\\oceania\\palau\\palauans\\household\\palauans\\images\\bm_E_Oc1875_1002_2_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:40:38.391869+00:00"
+}

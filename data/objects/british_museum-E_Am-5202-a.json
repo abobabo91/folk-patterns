@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-5202-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-5202-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-5202-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.5202.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Pawnee",
+    "tradition": "Pawnee",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A painted rawhide war shield with a red disc, crescent/claw motifs, and feather attachment—consistent with Plains warfare regalia and museum-attributed to Pawnee manufacture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "shield",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shield",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Shield made of leather, the front painted green and bearing a large red disc on the upper part and other devices below.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/pawnee/arms/pawnee/images/bm_E_Am_5202_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7b4810413b634aa63579e0ce19db70f5b0a0bec7bcd6e326fcd205811d08c817",
+      "bytes": 17914,
+      "local_path": "library\\north-america\\united-states\\pawnee\\arms\\pawnee\\images\\bm_E_Am_5202_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:06:58.387757+00:00"
+}

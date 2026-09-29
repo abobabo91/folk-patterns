@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1896-605",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1896-605",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1896-605",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1896.605",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Russia",
+    "ethnicity": "Nivkh",
+    "tradition": "Nivkh",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a cylindrical birch-bark container with incised spiral scroll ornament typical of Amur-region peoples such as the Nivkh, made of bark, wood, fish skin and strings as described; this is a traditional household vessel, not ceramic.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Vessel made of bark (birch), wood, skin (fish), strings.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/nivkh/household/nivkh/images/bm_A_As1896_605.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9e9c83eed9b55b27299493797222b546ceaede88dc17a03b09cdede2bb9b061e",
+      "bytes": 34984,
+      "local_path": "library\\east-asia\\russia\\nivkh\\household\\nivkh\\images\\bm_A_As1896_605.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:27:32.670449+00:00"
+}

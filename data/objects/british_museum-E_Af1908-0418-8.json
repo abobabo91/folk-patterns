@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1908-0418-8",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1908-0418-8",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-0418-8",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1908.0418.8",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Embu",
+    "tradition": "Embu",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a club/knobkerrie with a stone head wrapped in hide and a long wooden shaft, consistent with a weapon type used by Embu and neighboring Kenyan peoples; the museum attributes it directly to Embu manufacture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "club; knobkerrie",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "club; knobkerrie",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Club or knobkerrie with a stone head covered with hide, and a wooden handle.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/embu/arms/embu/images/bm_E_Af1908_0418_8.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "97c660e9fb77f528fdf20d0b9be5da78cc43b6837ff9fc0de3a9496b9ceda155",
+      "bytes": 22942,
+      "local_path": "library\\sub-saharan-africa\\kenya\\embu\\arms\\embu\\images\\bm_E_Af1908_0418_8.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T23:32:55.210831+00:00"
+}

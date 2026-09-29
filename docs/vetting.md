@@ -383,6 +383,19 @@ matches; use `.cache/MetObjects.csv` instead.
 | Hutu | 39 | 39 | 0 of 10 | all ten Commons photos: Imigongo and agaseke are captioned as Rwandan, none as Hutu |
 | Tutsi | 47 | 47 | 6 of 12 | a repeated photographic print; generic Rwandan agaseke (Commons) |
 | Kelabit | 41 | 41 | 4 of 7 | a record reusing another object's photo; two repeat prints, a food festival (Commons) |
+| Embu | 33 | 33 | 0 of 3 | Nairobi dance and millet-grinding photos that do not name the Embu (Commons) |
+| Nkole | 30 | 30 | 9 of 10 | a food photo (Commons) |
+| Konso | 51 | 51 | 6 of 11 | a second part of one loom in the same photo, an ornament shown only as a black silhouette; children and repeated landscapes (Commons) |
+| Arawak | 15 | 15 | 1 of 4 | two parts of one quiver set in the same photo; three prints of one photo of Arawaks with Maroons (Commons) |
+| Bongo | 37 | 37 | none found | none |
+| Hadza | 35 | 35 | 8 of 10 | a belt record reusing the knife-sheath photo; a collage and a smoking photo (Commons) |
+| Pawnee | 14 | 14 | 1 of 4 | two portraits showing no folk material; an unidentified diorama, a prehistoric Iowa earthlodge, a Mandan lodge (Commons) |
+| Jarawa | 24 | 24 | 0 of 2 | naval-museum statues (Commons) |
+| Bhil | 54 | 54 | 6 of 10 | repeated festival portraits (Commons) |
+| Banjara | 36 | 36 | 6 of 10 | repeated performance photos (Commons) |
+| Nivkh | 47 | 47 | 5 of 6 | four more records reusing one belt-set photo, five other exact photo repeats; a food photo (Commons) |
+| Tiwi | 47 | 47 | 2 of 3 | a memorial service (Commons) |
+| Palauans | 43 | 43 | 2 of 3 | a lid record reusing the vessel photo; an unidentified photo (Commons) |
 
 Mangyan is the collective name of the Mindoro peoples, and the British Museum
 records its objects under the member groups: all 376 candidates were Hanunóo
@@ -403,6 +416,15 @@ group counted as one people, the rerun kept 44. Tiriki is left out of that set
 because it is queued as a people of its own. Mbunda is skipped in the queue:
 its British Museum facet returns the Babunda/Mbuun of the DRC, not the Mbunda
 of Angola and Zambia.
+
+Taíno is skipped in the queue: its pick kept 0 of 35, because its British
+Museum candidates are one archaeological collection of sherds, shell beads and
+stone celts. Arawak's British Museum records carry no production place, so the
+culture uses the queue's Wikidata country (Trinidad and Tobago). Nivkh is the
+atlas's first culture from Russia and sits in east_asia (Amur and Sakhalin).
+Several British Museum records reuse the photograph of another part of the same
+set. From this batch on, each contact sheet is also compared cell by cell for
+pixel-identical images before loading.
 
 Every seed's tradition chips were pruned to the ones the sources contain.
 Between 11 and 16 were dropped per culture, for example 16 Shona chips such as
@@ -550,15 +572,15 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 9,157/9,157
-library records judged, 8,257 accepted and 900 dropped. The site index has
-8,159 objects in 138 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 9,157 images. Selected Armenian,
+**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 9,623/9,623
+library records judged, 8,723 accepted and 900 dropped. The site index has
+8,625 objects in 151 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 9,623 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
 and all later cultures from picks (see the table above) were also checked
-against contact sheets and catalogues. Commons: 528 published, 303 rejected by
-the editorial check, 729 rejected by the model, none waiting.
+against contact sheets and catalogues. Commons: 574 published, 333 rejected by
+the editorial check, 776 rejected by the model, none waiting.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 

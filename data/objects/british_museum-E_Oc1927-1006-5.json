@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1927-1006-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1927-1006-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1927-1006-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1927.1006.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Australia",
+    "ethnicity": "Tiwi",
+    "tradition": "Tiwi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a bark bag/basket (tunga) decorated with painted geometric patterns, a well-documented Tiwi craft form, consistent with the museum's attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "basket",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "basket",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Basket (tunga) made of bark, decorated with natural pigments and tied together with vegetable fibre.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/australia/tiwi/household/tiwi/images/bm_E_Oc1927_1006_5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0438b369890c8edb8f838ad3a494a29da16ded5a88533e003590037d32d5183b",
+      "bytes": 62994,
+      "local_path": "library\\oceania\\australia\\tiwi\\household\\tiwi\\images\\bm_E_Oc1927_1006_5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:35:10.597890+00:00"
+}

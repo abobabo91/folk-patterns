@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1905-0313-66",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1905-0313-66",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1905-0313-66",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1905.0313.66",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Jarawa",
+    "tradition": "Jarawa",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a long arrow with an iron point bound with cord/bark, consistent with a pig arrow made and used by the Jarawa of the Andaman Islands, matching the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "arrow",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "arrow",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Pig arrow made of wax, cord (bark), iron, bark, cane, stem (orchid).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/jarawa/arms/jarawa/images/bm_A_As1905_0313_66.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8a3086066e9346c24cdd1068ae86c19d2d8089b50991cef6b5b02edf9132856a",
+      "bytes": 14276,
+      "local_path": "library\\south-asia\\india\\jarawa\\arms\\jarawa\\images\\bm_A_As1905_0313_66.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:12:37.970333+00:00"
+}

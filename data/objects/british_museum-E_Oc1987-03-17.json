@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1987-03-17",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1987-03-17",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1987-03-17",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1987.03.17",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Palau",
+    "ethnicity": "Palauans",
+    "tradition": "Palauans",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden dance-sword with painted geometric and wave motifs in black, yellow and red, consistent with the museum's attribution to Palauan manufacture and use as a ceremonial/dance weapon.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "dance-sword",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dance-sword",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Man&#039;s dance-sword made of wood; tapering to a pointed end. Both sides of the blade and the adjacent part of the short handle are painted in black, yellow and red commercial paint.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/palau/palauans/arms/palauans/images/bm_E_Oc1987_03_17.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bdc7697c8af1e18e4d1a2062e13bf3c20aa279c27cce17bb306e783c9a119c35",
+      "bytes": 136966,
+      "local_path": "library\\oceania\\palau\\palauans\\arms\\palauans\\images\\bm_E_Oc1987_03_17.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:40:56.267710+00:00"
+}

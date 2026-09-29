@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2022703_pages_Main_idt_4421_inventary_CE11901_table_FMUS_museum_MNA",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "National Museum of Anthropology",
+    "object_id": "2022703_pages_Main_idt_4421_inventary_CE11901_table_FMUS_museum_MNA",
+    "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_4421_inventary_CE11901_table_FMUS_museum_MNA?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ethiopia",
+    "ethnicity": "Konso",
+    "tradition": "Konso",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a carved wooden anthropomorphic funerary post (waga-type memorial figure) used by the Konso to mark graves of prestigious individuals, a well-known Konso practice; though not architectural itself, it is a genuine Konso-made object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Poste funerario",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "National Museum of Anthropology",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/konso/sculpture/konso/images/eu_2022703_pages_Main_idt_4421_inventary_CE11901_table_FMUS_museum_MNA.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e58b8f1d6022f117c7c6a7df1b300935250ad7757678aae74e57bee752bc84d7",
+      "bytes": 11963,
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\konso\\sculpture\\konso\\images\\eu_2022703_pages_Main_idt_4421_inventary_CE11901_table_FMUS_museum_MNA.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE11901_SEQ_002_P.JPG%26Ninv%3DCE11901&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T23:45:01.141782+00:00"
+}

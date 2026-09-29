@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1875-1002-8",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1875-1002-8",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1875-1002-8",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1875.1002.8",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Palau",
+    "ethnicity": "Palauans",
+    "tradition": "Palauans",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The dish is made of turtle-shell, not clay/ceramic, but it is a household vessel attributed to Palauan manufacture, showing traditional craft using local materials.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "dish",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dish",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Circular dish (with lug on underside) made of turtle-shell.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/palau/palauans/household/palauans/images/bm_E_Oc1875_1002_8.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "872c64edd9ae25284264e92f0ff0e6e3c86ff26b5a2d3c1356a83d8bdbe6f217",
+      "bytes": 48385,
+      "local_path": "library\\oceania\\palau\\palauans\\household\\palauans\\images\\bm_E_Oc1875_1002_8.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:40:47.534819+00:00"
+}

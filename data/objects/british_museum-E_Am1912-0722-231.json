@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1912-0722-231",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1912-0722-231",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1912-0722-231",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1912.0722.231",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Trinidad and Tobago",
+    "ethnicity": "Arawak",
+    "tradition": "Arawak",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a plaited palm-leaf bag, a traditional woven container attributed by the museum to the Arawak, matching the claimed ethnicity and consistent with a made/used object.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "bag",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bag",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bag made of plaited palm leaf.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/trinidad-and-tobago/arawak/household/arawak/images/bm_E_Am1912_0722_231.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "02278e0f4f307155d2ba2744728ccddf853ab395ebd1e188e9bb719d1f058ec2",
+      "bytes": 89569,
+      "local_path": "library\\latin-america\\trinidad-and-tobago\\arawak\\household\\arawak\\images\\bm_E_Am1912_0722_231.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-28T23:49:39.157010+00:00"
+}

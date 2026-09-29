@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1792-1201-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1792-1201-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1792-1201-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1792.1201.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Palau",
+    "ethnicity": "Palauans",
+    "tradition": "Palauans",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a traditional Palauan war canoe with a pointed hull form and pearlshell inlay decoration, consistent with documented Palauan canoe-making traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "canoe; paddle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "canoe; paddle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "War canoe made of wood and a separate paddle made of wood. The side of the canoe is inlaid with pearlshell, with the figure of man holding a dance-club or paddle (?) in each hand.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/palau/palauans/household/palauans/images/bm_E_Oc1792_1201_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b1ffbc3dd5402ccbdc514624f5f18ea4c8d006061677394270c0049fa15e05ff",
+      "bytes": 90047,
+      "local_path": "library\\oceania\\palau\\palauans\\household\\palauans\\images\\bm_E_Oc1792_1201_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:40:39.915149+00:00"
+}

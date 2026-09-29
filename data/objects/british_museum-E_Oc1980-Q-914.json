@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1980-Q-914",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1980-Q-914",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1980-Q-914",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1980.Q.914",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Palau",
+    "ethnicity": "Palauans",
+    "tradition": "Palauans",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image clearly shows a turtle-shell spoon, a utensil type well documented among Palauans, matching the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "spoon",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spoon",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Spoon made of turtle-shell.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/palau/palauans/household/palauans/images/bm_E_Oc1980_Q_914.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "84e5188e51efda623f1bdab9a472a494eef498e49e843a8ebf655e1695222f68",
+      "bytes": 56516,
+      "local_path": "library\\oceania\\palau\\palauans\\household\\palauans\\images\\bm_E_Oc1980_Q_914.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:40:42.293571+00:00"
+}

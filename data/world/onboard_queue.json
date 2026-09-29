@@ -428,13 +428,6 @@
 "objects": 156
 },
 {
-"key": "Q210623",
-"name": "Taíno",
-"continent": "Americas",
-"country": "Dominican Republic",
-"objects": 154
-},
-{
 "key": "Q902325",
 "name": "Tsonga",
 "continent": "Africa",
@@ -2907,6 +2900,14 @@
 "country": "Angola",
 "objects": 208,
 "skip": "BM facet \"Mbunda\" returns the Babunda (Mbuun) of the DR Congo, Torday collections 1907-0528 and 1910-0420; the pick kept 15 of 71, all Babunda. The Angolan Mbunda have no usable records here; the Mbuun could be a culture of their own"
+},
+{
+"key": "Q210623",
+"name": "Taíno",
+"continent": "Americas",
+"country": "Dominican Republic",
+"objects": 154,
+"skip": "pick kept 0 of 35: the BM candidates are one archaeological collection of sherds, shell beads and stone celts (2026-09-28)"
 }
 ]
 }

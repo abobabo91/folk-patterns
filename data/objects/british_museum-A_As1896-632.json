@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1896-632",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1896-632",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1896-632",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1896.632",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Russia",
+    "ethnicity": "Nivkh",
+    "tradition": "Nivkh",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a traditional birch-bark water bucket, a well-known type of household container made by Nivkh and other Amur/Sakhalin region peoples, consistent with the claimed attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "water-bucket",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "water-bucket",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Water bucket made of bark (birch), wood, bark, creeper (?).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/nivkh/household/nivkh/images/bm_A_As1896_632.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bd0f9e031865a70d3f4f37778b7df1d186500af1a04aadc20924eb2da93315d1",
+      "bytes": 50071,
+      "local_path": "library\\east-asia\\russia\\nivkh\\household\\nivkh\\images\\bm_A_As1896_632.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:27:28.577165+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2011-2014-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2011-2014-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2011-2014-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2011.2014.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Australia",
+    "ethnicity": "Tiwi",
+    "tradition": "Tiwi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a bark and fibre basket (tunga) painted with ochre pigments in a characteristic diagonal linear pattern, a well-documented Tiwi craft form and ceremonial object.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "basket",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "basket",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Basket (tunga) made of bark and vegetable fibre and painted in natural pigments of white, yellow, red, grey and brown ochres. Decoration consists of diagonal lines filled with repetitive smaller lines, and circles of colour around the edges.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/australia/tiwi/household/tiwi/images/bm_E_2011_2014_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ad58a6a5b4b8d6a28d6ccd4083e479d0277bcba75e000344c817023f7b797463",
+      "bytes": 96631,
+      "local_path": "library\\oceania\\australia\\tiwi\\household\\tiwi\\images\\bm_E_2011_2014_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T00:35:07.598969+00:00"
+}
