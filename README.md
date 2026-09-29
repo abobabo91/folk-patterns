@@ -132,6 +132,28 @@ reruns, and `candidates` uses the last row for each people. `pick` also consults
 For a kept object's corrected category, add an entry to
 `data/world/pick_overrides.json`; `pick` applies it before category ranking.
 
+**What the pick has looked at.** A candidate is loaded only if the judge kept
+it; anything else is never loaded. Every judge reply is cached in
+`data/world/picks/raw*.jsonl`, and every candidate that ends without a verdict
+goes to `data/world/picks/ledger*.jsonl` with why: `source_rule` (the museum
+names several peoples, or marks the attribution `(?)` — the reason names
+them), `no_image`, `fetch_failed`, `photo_of_object`, `in_library`, or
+`awaiting_judge` (fetched and ready, but the run made no judge call). Both are
+gitignored and live on the machine that ran the pick.
+
+```bash
+python scripts/world_peoples.py coverage [--only KEY ...]   # per people: kept / judged_drop / review_excluded / source_rule / ... / not_reached
+BM_CDP_URL=http://127.0.0.1:9226 python scripts/world_peoples.py pick --cached-only --only KEY ...   # record outcomes, no judge call, pick file unchanged
+```
+
+`coverage` without `--only` rewrites `data/world/pick_coverage.jsonl` (one line
+per candidate: key, category, source, id, status, reason), which is committed,
+so the record survives the gitignored logs. `not_reached` is a candidate the
+pick never tried: the 10-per-category cap, or a BM candidate in a run without
+`BM_CDP_URL`. A judged candidate is not judged again: reruns read the cache.
+The 2026-09-29 replay over the 155 picked peoples, and what it found about
+the "multiple peoples" rule, is in `docs/vetting.md` → "Pick coverage".
+
 The 2026-09-26 rollout added Edo (91 library records, 91 site objects),
 Bemba (42 library records, 40 site objects), Kamba (77/77), Aymara (66/66),
 and Tibetan (76/76). The Aymara and Tibetan picks finished with the Codex CLI

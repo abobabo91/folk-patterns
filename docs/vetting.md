@@ -508,9 +508,10 @@ Cleveland rows are Kota-school Rajasthani paintings. Cultures with fewer
 than 10 kept objects are loaded too (Masalit 2 to Mi'kmaw 9 in the table) and
 are the list to grow from other sources; Berta and Chorotí kept 0 and are not
 loaded. Mohawk is filed under Canada / United States: five of its seven objects
-are Kahnawake (Quebec) postcards. Yupik had only 6 candidates judged; why so
-few is not yet checked (its British Museum and Europeana alias forms are the
-first place to look).
+are Kahnawake (Quebec) postcards. Yupik had only 6 candidates judged: 38 of its
+45 were dropped before the judge by the British Museum attribution rules,
+28 of them as "multiple peoples" where the second name is an umbrella
+("Eskimo-Aleut; Yupik", "Arctic; Yupik") — see "Pick coverage" below.
 
 A network drop during this batch's load (www.britishmuseum.org failing to
 resolve, then the `claude` CLI failing) left Chaga with 7 of 32 records, Zinza 7 of 19 and
@@ -668,6 +669,31 @@ this correction. Five of 12 Commons photos passed an independent visual and
 caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
+
+## Pick coverage (2026-09-29)
+
+`world_peoples.py coverage` over the 155 peoples with a pick file, after a
+`pick --cached-only` replay recorded the outcomes the judge log did not
+(README → "What the pick has looked at"): 38,760 candidates; 5,718 kept, 1,944
+judged and dropped, 411 excluded by review, 2,921 dropped by a source rule
+before the judge, 2,808 fetched and awaiting a judge call, 23,468 never
+reached (the 10-per-category cap), 1,406 unclassified, 42 photographs of an
+object, 14 without an image. The per-candidate record is
+`data/world/pick_coverage.jsonl`.
+
+The source-rule drops are 1,549 "multiple peoples", 1,045 "uncertain (?)" and
+316 "another group named". The "multiple peoples" rule treats any second
+British Museum production group as a second people, and many second groups
+are not: a region or umbrella (Haida; Northwest Coast 131, Tlingit 51,
+Kwakwaka'wakw 36, Nuu-chah-nulth 20; Hopi; Southwest 34, plus Moqui and
+Puebloan variants 45; Eskimo-Aleut; Inuit 37, Yupik 19; Micmac; Northeast 17),
+a spelling of the same name (Chorote; Choroti 68 — all of Chorotí's
+candidates, which is why it kept 0; Iglulik; Iglulingmiut 21), or a member
+group (Ijo; Kalabari 83, Dinka; Tuich 63, Moru; Moru Miza 41, Inuit; Labrador
+Inuit 24). Others are real two-people attributions and stay dropped: Fur;
+Masalit 69, Lomwe; Makua 38, Ibibio; Obolo 26, Mende; Sherbro 25, Luo; Luyia
+25. Widening the rule (as `_BM_SUBGROUPS` does for Luyia and Mangyan) would
+send roughly 700 more candidates to the judge; it is not done yet.
 
 **Current coverage (2026-09-29):** `scripts/_vet_status.py` reports 10,942/10,942
 library records judged, 10,040 accepted and 902 dropped. The site index has

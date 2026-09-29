@@ -15,6 +15,7 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py candidates   # -> data/world/candidates.jsonl: objects per category, one culture per object
     python scripts/world_peoples.py pick --only Haida Tiv   # vetted, ranked objects per category -> data/world/picks/ (needs BM_CDP_URL)
     python scripts/world_peoples.py pick --only ... --shard 0/3   # + 1/3, 2/3 in two more processes
+    python scripts/world_peoples.py coverage [--only ...]   # per candidate: kept, judged, dropped by rule (why), never reached
 
 The universe is Wikidata: every item that is an instance of "ethnic group"
 (Q41710) or "indigenous people" (Q103817), or of any of their ~2,600
@@ -847,10 +848,10 @@ def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
     allowed = {expected} | _BM_SUBGROUPS.get(expected, set())
     groups = {_norm_group(g) for g in d.get("production_ethnic_groups") or []}
     if o["source"] == "bm" and "(?)" in (d.get("production_ethnic_attribution") or ""):
-        return "museum marks production ethnic group uncertain"
+        return f"museum marks production ethnic group uncertain ({d['production_ethnic_attribution']})"
     # an umbrella and its own member group ("Luyia; Bukusu") name one people
     if o["source"] == "bm" and len(groups) > 1 and not groups <= allowed:
-        return "museum attributes production to multiple peoples"
+        return f"museum attributes production to multiple peoples ({'; '.join(sorted(groups))})"
     if o["source"] == "bm" and expected and groups:
         if not groups & allowed:
             return f"museum attributes production to {', '.join(sorted(groups))}, not {expected}"
@@ -881,7 +882,7 @@ def _choose(objs: list[dict]) -> list[dict]:
     return out
 
 
-def cmd_pick(only: list[str], shard: str = "") -> None:
+def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> None:
     """Up to PICK_MAX objects per category per people, fewer when fewer pass.
     Up to PICK_TRIES candidates per category, in _pick_order, are shown to the
     library's judge (scripts/vet_judge.py) with one line added: a QUALITY
@@ -905,7 +906,11 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
     With the QUALITY line, same day, the 10 African peoples: 421 judged, 222
     picks, $3.80, ~5 min for the richest. Scores q1 17, q2 76, q3 165, q4 114,
     q5 7; the q1-q2 drops are what the earlier run wrongly kept (spinning
-    tops, drum pegs, sinew, catalogue cards, raw eggshell)."""
+    tops, drum pegs, sinew, catalogue cards, raw eggshell).
+    Every candidate that ends without a verdict goes to picks/ledger.jsonl with
+    why; `coverage` reports it. --cached-only makes no judge call and writes no
+    pick file: it replays the cached verdicts and records the other outcomes,
+    and a candidate that would need a new verdict is logged as awaiting_judge."""
     import os
     sys.path.insert(0, str(REPO / "scripts"))
     sys.path.insert(0, str(REPO / "src"))
@@ -928,6 +933,13 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
     print(f"{len(rows)} peoples: {', '.join(r['label'] for r in rows)}", flush=True)
     (OUT / "picks").mkdir(exist_ok=True)
     raw = OUT / "picks" / (f"raw-{shard.split('/')[0]}.jsonl" if shard else "raw.jsonl")
+    ledger = OUT / "picks" / (f"ledger-{shard.split('/')[0]}.jsonl" if shard else "ledger.jsonl")
+
+    def note(key: str, cat: str, o: dict, status: str, reason: str = "") -> None:
+        """Every candidate that ends without a judge verdict, with why (see `coverage`)."""
+        with open(ledger, "a", encoding="utf-8") as f:
+            f.write(json.dumps({"key": key, "category": cat, "source": o["source"], "id": o["id"], "status": status,
+                                "reason": reason, "at": time.strftime("%Y-%m-%d")}, ensure_ascii=False) + "\n")
     seen = {}
     for l in (l for p in sorted((OUT / "picks").glob("raw*.jsonl")) for l in p.read_text(encoding="utf-8").splitlines()):
         x = json.loads(l)
@@ -951,7 +963,10 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     continue
                 if any(a["source"] == o["source"] and a["id"] == o["id"] for a in accepted):
                     continue
-                if o["source"] == "bm" and (bm_client is None or _in_library(o["id"])):
+                if o["source"] == "bm" and bm_client is None:
+                    continue
+                if o["source"] == "bm" and _in_library(o["id"]):
+                    note(r["key"], cat, o, "in_library")
                     continue
                 n += 1
                 hit = seen.get((r["key"], o["source"], o["id"]))
@@ -963,6 +978,7 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                         current = _detail(o, bm_client, http)
                         if not current:
                             print(f"  {cat:13s} {o['id']:22s} attribution unavailable", flush=True)
+                            note(r["key"], cat, o, "fetch_failed", "attribution unavailable")
                             continue
                         d = {**d, **current}
                     cached += 1
@@ -998,22 +1014,30 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                                          "Rerun: judged objects come from the cache.")
                     except Exception as e:   # one museum timing out must not end the run
                         print(f"  {cat:13s} {o['id']:22s} fetch failed: {type(e).__name__}", flush=True)
+                        note(r["key"], cat, o, "fetch_failed", type(e).__name__)
                         continue
                     if not d:
                         print(f"  {cat:13s} {o['id']:22s} no image", flush=True)
+                        note(r["key"], cat, o, "no_image")
                         continue
                     if img is None:
                         print(f"  {cat:13s} {o['id']:22s} image fetch failed", flush=True)
+                        note(r["key"], cat, o, "fetch_failed", "image")
                         continue
                     if img.status_code != 200 or (o["source"] == "europeana" and not img.headers.get("content-type", "").startswith("image/")):
                         print(f"  {cat:13s} {o['id']:22s} image {img.status_code}", flush=True)
+                        note(r["key"], cat, o, "fetch_failed", f"image HTTP {img.status_code}")
                         continue
                     source_exclusion = _source_exclusion(o, d, r.get("bm_name") or name)
                     if source_exclusion:
                         # No judge call, so no try used: Tlingit 2026-09-27 lost 64 of its
                         # 95 tries to BM "multiple peoples" / "uncertain" flags.
                         print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
+                        note(r["key"], cat, o, "source_rule", source_exclusion)
                         n -= 1
+                        continue
+                    if cached_only:
+                        note(r["key"], cat, o, "awaiting_judge")
                         continue
                     ev: dict = {}
                     description = d.get("description") or ""
@@ -1037,6 +1061,7 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                     # uses no try, as on a fresh fetch above: Maya 2026-09-28 fell from
                     # 26 kept to 16 on a cached rerun when these drops counted
                     print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
+                    note(r["key"], cat, o, "source_rule", source_exclusion)
                     n -= 1
                     continue
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
@@ -1048,6 +1073,7 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
                 # Tlingit: BM postcards of totem poles (EA_Am-B59-*) filed as sculpture.
                 if re.match(r"photographic print|photograph\b|postcard", d.get("title") or "", re.I) and af not in (None, "photo"):
                     print(f"  {cat:13s} {o['id']:22s} drop: photograph of an object ({af})", flush=True)
+                    note(r["key"], cat, o, "photo_of_object", af)
                     continue
                 ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak") and q >= PICK_QUALITY_MIN
                 if belongs and era not in ("modern", "archaeological") and image in ("good", "weak"):
@@ -1069,11 +1095,83 @@ def cmd_pick(only: list[str], shard: str = "") -> None:
             for i, o in enumerate(v):
                 o["featured"] = i < PICK_MAX
         picks = {c: v[:PICK_MAX] for c, v in ranked.items()}
+        if cached_only:
+            print(f"{name}: outcomes recorded (cached-only, pick file unchanged)", flush=True)
+            continue
         (OUT / "picks" / f"{r['key']}.json").write_text(json.dumps(
             {"key": r["key"], "label": r["label"], "name": name, "judged": tried, "cached": cached, "cost_usd": round(cost, 3),
              "ranked": ranked}, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{name}: {sum(map(len, ranked.values()))} kept, {sum(map(len, picks.values()))} featured in {len(picks)} categories "
               f"({', '.join(f'{c} {len(v)}' for c, v in picks.items())}); {tried} judged, {cached} cached, ${cost:.2f}, {time.time() - t0:.0f}s", flush=True)
+
+
+def cmd_coverage(only: list[str]) -> None:
+    """What the pick has looked at, per candidate, for every people with a pick file.
+    Joins candidates.jsonl, the judge log (picks/raw*.jsonl), the outcome ledger
+    (picks/ledger*.jsonl, every candidate that ended without a verdict and why)
+    and pick_exclusions.json. Statuses: kept, judged-drop (with the failing
+    field), review-excluded, the ledger's no_image / fetch_failed / source_rule /
+    photo_of_object / in_library, and not_reached (never tried: the PICK_TRIES
+    cap, or a BM candidate in a run without BM_CDP_URL). raw and candidates are
+    gitignored and live on one machine, so the per-candidate result is written
+    to data/world/pick_coverage.jsonl, which is committed."""
+    sys.path.insert(0, str(REPO / "scripts"))
+    from vet_images import parse_reply
+    want = {s.lower() for s in only}
+    judged: dict = {}
+    for p in sorted((OUT / "picks").glob("raw*.jsonl")):
+        for l in p.read_text(encoding="utf-8").splitlines():
+            x = json.loads(l)
+            if "QUALITY:" in (x.get("reply") or ""):
+                judged[(x["key"], x["source"], x["id"])] = x["reply"]
+    ledger: dict = {}
+    for p in sorted((OUT / "picks").glob("ledger*.jsonl")):
+        for l in p.read_text(encoding="utf-8").splitlines():
+            x = json.loads(l)
+            ledger[(x["key"], x["source"], x["id"])] = x   # the latest outcome wins
+    excluded = {(x["key"], x["source"], x["id"]): x.get("reason", "")
+                for x in json.loads((OUT / "pick_exclusions.json").read_text(encoding="utf-8"))}
+    out, rows = [], []
+    for l in (OUT / "candidates.jsonl").read_text(encoding="utf-8").splitlines():
+        r = json.loads(l)
+        pf = OUT / "picks" / f"{r['key']}.json"
+        if not pf.exists() or (want and not {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
+                                             (r.get("atlas") or "").lower()} & want):
+            continue
+        kept = {(o["source"], o["id"]) for v in json.loads(pf.read_text(encoding="utf-8"))["ranked"].values() for o in v}
+        counts: dict[str, int] = {}
+        for cat, objs in r["objects"].items():
+            for o in objs:
+                k = (r["key"], o["source"], o["id"])
+                reason = ""
+                if (o["source"], o["id"]) in kept:
+                    status = "kept"
+                elif k in excluded:
+                    status, reason = "review_excluded", excluded[k]
+                elif k in ledger and (ledger[k]["status"] == "photo_of_object" or k not in judged):
+                    status, reason = ledger[k]["status"], ledger[k].get("reason", "")
+                elif k in judged:
+                    belongs, _, why, _, image, era = parse_reply(judged[k])
+                    status = "judged_drop"
+                    reason = ("not this people" if not belongs else f"era {era}" if era in ("modern", "archaeological")
+                              else f"image {image}" if image not in ("good", "weak") else f"quality {_quality(judged[k])}")
+                elif cat == "unclassified":
+                    status = "unclassified"
+                else:
+                    status = "not_reached"
+                counts[status] = counts.get(status, 0) + 1
+                out.append({"key": r["key"], "category": cat, "source": o["source"], "id": o["id"],
+                            "status": status, "reason": reason})
+        rows.append((r.get("atlas") or r["label"], sum(counts.values()), counts))
+    if not want:
+        (OUT / "pick_coverage.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in out), encoding="utf-8")
+    cols = ["kept", "judged_drop", "review_excluded", "source_rule", "photo_of_object", "no_image", "fetch_failed",
+            "in_library", "awaiting_judge", "not_reached", "unclassified"]
+    print(f"{'people':28s} {'cand':>5s} " + " ".join(f"{c[:9]:>9s}" for c in cols))
+    for name, total, c in sorted(rows, key=lambda x: x[0]):
+        print(f"{name[:28]:28s} {total:5d} " + " ".join(f"{c.get(k, 0):9d}" for k in cols))
+    tot = {k: sum(c.get(k, 0) for _, _, c in rows) for k in cols}
+    print(f"{'total (' + str(len(rows)) + ' peoples)':28s} {sum(t for _, t, _ in rows):5d} " + " ".join(f"{tot[k]:9d}" for k in cols))
 
 
 def _atlas_bm_names() -> set[str]:
@@ -1207,9 +1305,10 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick", "coverage"])
     ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name")
     ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
+    ap.add_argument("--cached-only", action="store_true", help="pick: no judge calls, no pick file written; record outcomes only")
     ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
@@ -1218,4 +1317,4 @@ if __name__ == "__main__":
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local, "europeana-objects": lambda: cmd_europeana_objects(a.only),
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only), "coverage": lambda: cmd_coverage(a.only)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
