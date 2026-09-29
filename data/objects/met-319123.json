@@ -1,0 +1,93 @@
+{
+  "id": "met-319123",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "319123",
+    "object_url": "https://www.metmuseum.org/art/collection/search/319123",
+    "iiif_manifest": null,
+    "credit_line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2011.154.8a, b",
+    "accession_year": "2011"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Mi'kmaw",
+    "tradition": "Mi'kmaw",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A birchbark box with dyed porcupine-quill decoration, a classic Mi'kmaw craft form using traditional geometric quillwork patterns, consistent with the claimed culture and date.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Lidded Trunk",
+    "titles_alt": [],
+    "date_text": "1840–50",
+    "date_earliest": 1840,
+    "date_latest": 1850,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Birchbark",
+      "wood",
+      "spruce root",
+      "quill"
+    ],
+    "techniques": [],
+    "medium_raw": "Birchbark, wood, spruce root, quill",
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 7 5/8 x W. 12 1/4 x D. 9 1/2 in. (19.4 x 31.1 x 24.1 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "New Brunswick or Nova Scotia, Canada",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/mi-kmaw/household/mi-kmaw/images/met_319123.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0343808d752034d0a873c7bb39877eb9a2fc799b49a67c6fd85de4c10c0f0db2",
+      "bytes": 2546530,
+      "local_path": "library\\north-america\\canada\\mi-kmaw\\household\\mi-kmaw\\images\\met_319123.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T13:57:19.113316+00:00"
+}

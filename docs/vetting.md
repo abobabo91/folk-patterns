@@ -447,6 +447,14 @@ matches; use `.cache/MetObjects.csv` instead.
 | Mopan | 32 | 31 | 0 of 3 | a tourist cloth embroidered "MAYAN CALENDAR"; huipils captioned only as Guatemalan (Commons) |
 | Ida'an | 36 | 32 | 0 of 9 | five records sharing another part's photo; all nine Commons photos show Lotud linangkit embroidery |
 | Apatani | 32 | 31 | 8 of 10 | a hat part record sharing the hat's photo; a wax diorama, bangles shared with the Nyishi (Commons) |
+| Masalit | 2 | 2 | 0 of 0 | – |
+| Obolo | 8 | 8 | 0 of 0 | – |
+| Sherbro | 6 | 6 | 9 of 11 | a mortar record sharing the pestle's photo; a second shot of the same nomoli group, a helmet mask captioned "Mende or Sherbro" (Commons) |
+| Taita | 8 | 8 | 4 of 7 | three book photos whose captions name the Taveta, not the Taita (Commons) |
+| Kono | 1 | 1 | 0 of 2 | both Commons photos show Kono (Koonu) troupes at a Southern Kaduna festival in Nigeria |
+| Yupik | 6 | 6 | 3 of 5 | two performance photos at military events (Commons) |
+| Mohawk | 7 | 7 | 3 of 6 | two group postcards with dress too small to read; a Wikimania hoop dancer, a stage portrait of Pauline Johnson, a plate of prehistoric stone tools (Commons) |
+| Mi'kmaw | 9 | 9 | 1 of 3 | a prehistoric slate gorget; a quill box captioned only "Leipzig 2012", a New York State Museum plate of Iroquois objects (Commons) |
 
 Mangyan is the collective name of the Mindoro peoples, and the British Museum
 records its objects under the member groups: all 376 candidates were Hanunóo
@@ -496,11 +504,13 @@ sub_saharan_africa; the Mopan records carry no place, so Mopan keeps the
 Wikidata country, Guatemala. Museum photos shown rotated or upside down are
 excluded, as are pieces a museum attributes to "X or Y". Kotas is skipped in
 the queue: the British Museum's "Kota" is the Gabonese Kota and the Met and
-Cleveland rows are Kota-school Rajasthani paintings. Picked but not loaded as
-under 10: Sherbro 7, Berta 0, Taita 8, Yupik 6, Kono 1, Mohawk 7 and Mi'kmaw 9
-(after a prehistoric slate gorget was excluded). Yupik had only 6 candidates
-judged; why so few is not yet checked (its British Museum and Europeana alias
-forms are the first place to look).
+Cleveland rows are Kota-school Rajasthani paintings. Cultures with fewer
+than 10 kept objects are loaded too (Masalit 2 to Mi'kmaw 9 in the table) and
+are the list to grow from other sources; Berta and Chorotí kept 0 and are not
+loaded. Mohawk is filed under Canada / United States: five of its seven objects
+are Kahnawake (Quebec) postcards. Yupik had only 6 candidates judged; why so
+few is not yet checked (its British Museum and Europeana alias forms are the
+first place to look).
 
 A network drop during this batch's load (www.britishmuseum.org failing to
 resolve, then the `claude` CLI failing) left Chaga with 7 of 32 records, Zinza 7 of 19 and
@@ -659,15 +669,15 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-29):** `scripts/_vet_status.py` reports 10,895/10,895
-library records judged, 9,993 accepted and 902 dropped. The site index has
-9,883 objects in 202 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 10,895 images. Selected Armenian,
+**Current coverage (2026-09-29):** `scripts/_vet_status.py` reports 10,942/10,942
+library records judged, 10,040 accepted and 902 dropped. The site index has
+9,930 objects in 210 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 10,942 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
 and all later cultures from picks (see the table above) were also checked
-against contact sheets and catalogues. Commons: 752 published, 479 rejected by
-the editorial check, 909 rejected by the model, none waiting.
+against contact sheets and catalogues. Commons: 772 published, 493 rejected by
+the editorial check, 943 rejected by the model, none waiting.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 

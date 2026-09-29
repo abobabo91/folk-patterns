@@ -251,6 +251,32 @@
               "Quebec"
             ]
           }
+        },
+        {
+          "name": "Mi'kmaw",
+          "homeland": {
+            "lat": 46.24,
+            "lon": -63.13
+          },
+          "homeland_place": "Charlottetown",
+          "traditions": [
+            "porcupine quill box",
+            "birchbark etching",
+            "black ash splint basket",
+            "sweetgrass basket"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Mi'kmaq",
+              "Micmac",
+              "Mikmaq",
+              "Mi'kmaw",
+              "Wabanaki",
+              "Nova Scotia",
+              "Eastern Woodlands"
+            ]
+          }
         }
       ]
     },
@@ -636,6 +662,82 @@
               "Osage Nation",
               "Oklahoma",
               "Osage County"
+            ]
+          }
+        },
+        {
+          "name": "Yupik",
+          "homeland": {
+            "lat": 60.79,
+            "lon": -161.76
+          },
+          "homeland_place": "Bethel",
+          "traditions": [
+            "qaspeq",
+            "kuspuk",
+            "qasgiq",
+            "ena",
+            "agayuliyararput mask",
+            "qayaq"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Yupik",
+              "Yup'ik",
+              "Yupiit",
+              "Central Yup'ik",
+              "Siberian Yupik",
+              "Cup'ik",
+              "Eskimo",
+              "Alaska",
+              "Alaskan Eskimo",
+              "Kuskokwim",
+              "Yukon-Kuskokwim",
+              "Nunivak",
+              "St. Lawrence Island"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Canada / United States",
+      "met_queries": [
+        "Canada / United States"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Mohawk",
+          "homeland": {
+            "lat": 45.01,
+            "lon": -74.6
+          },
+          "homeland_place": "Akwesasne",
+          "traditions": [
+            "Kanien'kehá:ka",
+            "splint ash basket",
+            "Kahnawake",
+            "Tyendinaga"
+          ],
+          "arch_commons_categories": [
+            "Iroquois longhouses",
+            "Saint Francis Xavier Church (Kahnawake)",
+            "Akwesasne",
+            "Kahnawake",
+            "Ganondagan State Historic Site",
+            "Six Nations of the Grand River"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Mohawk",
+              "Kanien'kehaka",
+              "Iroquois",
+              "Haudenosaunee",
+              "Six Nations",
+              "Eastern Woodlands"
             ]
           }
         }

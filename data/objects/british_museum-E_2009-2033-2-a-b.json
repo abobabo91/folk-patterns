@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2009-2033-2-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2009-2033-2-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2009-2033-2-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2009.2033.2.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Mi'kmaw",
+    "tradition": "Mi'kmaw",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a circular birchbark box with etched geometric star and zig-zag decoration, a classic Mi'kmaw craft form, matching the museum's attribution to Micmac makers.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "box",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "box",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A circular Micmac etched birchbark box and lid, with sides made from birchbark and a wooden (cedar?) lid and base. The seam is stitched with plant fibre (reed?) and reinforced with wooden pegs, which are also used to attach the base and lid top to the birch bark sides. These areas are also reinforced with metal nails, unevenly spaced around the circumference. The sides of the box have etched decoration with a series of repeating geometric designs resembling an eight pointed asterisk, while the lid is decorated with a vertical zig-zag pattern.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/mi-kmaw/household/mi-kmaw/images/bm_E_2009_2033_2_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2992e511209c88483ef7ade55962d66a87f7ac048c9aa256507516098ed88ab3",
+      "bytes": 66918,
+      "local_path": "library\\north-america\\canada\\mi-kmaw\\household\\mi-kmaw\\images\\bm_E_2009_2033_2_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T13:57:36.488986+00:00"
+}

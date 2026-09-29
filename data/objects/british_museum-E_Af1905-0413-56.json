@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1905-0413-56",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1905-0413-56",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1905-0413-56",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1905.0413.56",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Obolo",
+    "tradition": "Obolo",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a cast copper-alloy ceremonial spear with a leaf-shaped, chalk-painted blade and a coiled/twisted handle, plausible as a ceremonial weapon from the Niger Delta region including Obolo territory; no evidence contradicts the attribution.",
+    "vision_confidence": "LOW",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "spear",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spear",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Spear; cast in copper alloy with a leaf-shaped tip and coiled handle; engraved linear and geometric motifs along the length. Whilte chalky pigment painted in horizontal bands across teh leaf-shaped spearhead.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/obolo/arms/obolo/images/bm_E_Af1905_0413_56.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a0523b9b17e9d311df2a7772047e2d9789faf2e93bd6f59763de47a224af38e6",
+      "bytes": 56007,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\obolo\\arms\\obolo\\images\\bm_E_Af1905_0413_56.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T13:24:29.590937+00:00"
+}

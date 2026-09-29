@@ -2,9 +2,9 @@
  "key": "Q1004543",
  "label": "Sherbro people",
  "name": "Sherbro",
- "judged": 7,
- "cached": 0,
- "cost_usd": 0.063,
+ "judged": 0,
+ "cached": 6,
+ "cost_usd": 0,
  "ranked": {
   "textile": [
    {
@@ -73,22 +73,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a carved wooden snuff mortar and pestle, a household implement attributed by the museum to the Sherbro of Sierra Leone; this is a plausible everyday craft object for the region.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1901-0419-6-b",
-    "name": "snuff-mortar",
-    "kind": "mortar",
-    "title": "snuff-mortar",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/27_12/9cf55d5e_4d09_498a_992f_a3f000ccdf88/preview_00673844_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden snuff mortar with pestle, matching the museum's attribution to Sherbro makers, a plausible household/utility object for the region.",
     "featured": true
    }
   ],

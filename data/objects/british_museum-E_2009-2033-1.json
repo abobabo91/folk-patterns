@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2009-2033-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2009-2033-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2009-2033-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2009.2033.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Mi'kmaw",
+    "tradition": "Mi'kmaw",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a birchbark mocock container with etched linear designs and root-stitched seams, a classic Mi'kmaw (Mi'kmaq) household item used for storage such as maple syrup, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "box; pail",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "box; pail",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A Micmac birchbark container (mocock) with etched linear design, wide and rectangular at the base with a smaller, circular opening at the top. The sides are joined by inverted Y seams stitched with plant fibre cord (spruce root?), that is also wrapped around the rim of the opening. There was likely once a plant fibre strap, although now there are only fragments of such a strap at opposite sides of the top opening. There is extensive discolouring inside the box, indicating historic use (maple syrup?). The base of the box has a number of small cracks and one significant break running from front to back.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/mi-kmaw/household/mi-kmaw/images/bm_E_2009_2033_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "175345bd944eff8c0426d7763c10df30402748fd828ff8fa50ee6fada764b3f8",
+      "bytes": 52672,
+      "local_path": "library\\north-america\\canada\\mi-kmaw\\household\\mi-kmaw\\images\\bm_E_2009_2033_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T13:57:28.843251+00:00"
+}

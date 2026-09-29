@@ -844,6 +844,23 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/innu/garment/innu/images/bm_E_2012_2031_5_a_b.jpg"
     },
     {
+      "key": "north-america__canada__mi-kmaw",
+      "region": "north-america",
+      "country": "Canada",
+      "ethnicity": "Mi'kmaw",
+      "homeland_place": "Charlottetown",
+      "lat": 46.24,
+      "lon": -63.13,
+      "object_count": 9,
+      "seed_traditions": [
+        "porcupine quill box",
+        "birchbark etching",
+        "black ash splint basket",
+        "sweetgrass basket"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/mi-kmaw/garment/mi-kmaw/images/bm_E_Am1985_Q_22_a_b.jpg"
+    },
+    {
       "key": "north-america__canada-greenland__inuit",
       "region": "north-america",
       "country": "Canada / Greenland",
@@ -1021,6 +1038,42 @@
         "finger-woven garters"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/osage/garment/osage/images/bm_E_Am1953_09_5.jpg"
+    },
+    {
+      "key": "north-america__united-states__yupik",
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Yupik",
+      "homeland_place": "Bethel",
+      "lat": 60.79,
+      "lon": -161.76,
+      "object_count": 6,
+      "seed_traditions": [
+        "qaspeq",
+        "kuspuk",
+        "qasgiq",
+        "ena",
+        "agayuliyararput mask",
+        "qayaq"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/yupik/garment/yupik/images/bm_E_Am1931_0718_1.jpg"
+    },
+    {
+      "key": "north-america__canada-united-states__mohawk",
+      "region": "north-america",
+      "country": "Canada / United States",
+      "ethnicity": "Mohawk",
+      "homeland_place": "Akwesasne",
+      "lat": 45.01,
+      "lon": -74.6,
+      "object_count": 7,
+      "seed_traditions": [
+        "Kanien'kehá:ka",
+        "splint ash basket",
+        "Kahnawake",
+        "Tyendinaga"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada-united-states/mohawk/household/mohawk/images/met_319101.jpg"
     },
     {
       "key": "oceania__new-zealand__maori",
@@ -2149,6 +2202,20 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/margi/arms/margi/images/bm_E_Af1943_08_18_a_e.jpg"
     },
     {
+      "key": "sub-saharan-africa__nigeria__obolo",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Obolo",
+      "homeland_place": "Port Harcourt",
+      "lat": 4.52,
+      "lon": 7.55,
+      "object_count": 8,
+      "seed_traditions": [
+        "ikpa"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/obolo/arms/obolo/images/bm_E_Af1905_0413_57.jpg"
+    },
+    {
       "key": "sub-saharan-africa__ghana__ashanti",
       "region": "sub-saharan-africa",
       "country": "Ghana",
@@ -2446,6 +2513,20 @@
       "object_count": 33,
       "seed_traditions": [],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/embu/arms/embu/images/bm_E_Af1908_0418_8.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__kenya__taita",
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Taita",
+      "homeland_place": "Voi",
+      "lat": -3.4,
+      "lon": 38.35,
+      "object_count": 8,
+      "seed_traditions": [
+        "fighi"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/taita/arms/taita/images/bm_E_Af_5289.jpg"
     },
     {
       "key": "sub-saharan-africa__tanzania__swahili",
@@ -3440,6 +3521,46 @@
         "cowrie-beaded headdress"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/liberia/mano/arms/mano/images/bm_E_Af1954_14_21.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__chad__masalit",
+      "region": "sub-saharan-africa",
+      "country": "Chad",
+      "ethnicity": "Masalit",
+      "homeland_place": "Geneina",
+      "lat": 13.45,
+      "lon": 22.45,
+      "object_count": 2,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/chad/masalit/arms/masalit/images/bm_E_Af1980_22_9_a_b.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__sierra-leone__sherbro",
+      "region": "sub-saharan-africa",
+      "country": "Sierra Leone",
+      "ethnicity": "Sherbro",
+      "homeland_place": "Bonthe",
+      "lat": 7.53,
+      "lon": -12.55,
+      "object_count": 6,
+      "seed_traditions": [
+        "country cloth"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/sierra-leone/sherbro/garment/sherbro/images/bm_E_Af_9583.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__sierra-leone__kono",
+      "region": "sub-saharan-africa",
+      "country": "Sierra Leone",
+      "ethnicity": "Kono",
+      "homeland_place": "Koidu",
+      "lat": 8.65,
+      "lon": -10.97,
+      "object_count": 1,
+      "seed_traditions": [
+        "yomba"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/sierra-leone/kono/masks-ritual/kono/images/bm_E_Af1950_05_1.jpg"
     }
   ]
 }

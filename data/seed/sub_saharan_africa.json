@@ -659,6 +659,30 @@
               "Mandara Mountains"
             ]
           }
+        },
+        {
+          "name": "Obolo",
+          "homeland": {
+            "lat": 4.52,
+            "lon": 7.55
+          },
+          "homeland_place": "Port Harcourt",
+          "traditions": [
+            "ikpa"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Obolo",
+              "Andoni",
+              "Ibani",
+              "Ijaw",
+              "Ijo",
+              "Rivers State",
+              "Niger Delta",
+              "Eastern Ijo"
+            ]
+          }
         }
       ]
     },
@@ -1360,6 +1384,28 @@
               "Aembu",
               "Kenya",
               "Mount Kenya"
+            ]
+          }
+        },
+        {
+          "name": "Taita",
+          "homeland": {
+            "lat": -3.4,
+            "lon": 38.35
+          },
+          "homeland_place": "Voi",
+          "traditions": [
+            "fighi"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Taita",
+              "Teita",
+              "Taita-Taveta",
+              "Wataita",
+              "Dawida",
+              "Kenya"
             ]
           }
         }
@@ -3668,6 +3714,94 @@
               "Nimba County",
               "Dan",
               "Guinea Coast"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Chad",
+      "met_queries": [
+        "Chad"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Masalit",
+          "homeland": {
+            "lat": 13.45,
+            "lon": 22.45
+          },
+          "homeland_place": "Geneina",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Masalit",
+              "Massalit",
+              "Masalit people",
+              "Dar Masalit",
+              "Darfur",
+              "Wadai",
+              "Ouaddaï",
+              "Chad",
+              "Sudan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Sierra Leone",
+      "met_queries": [
+        "Sierra Leone"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Sherbro",
+          "homeland": {
+            "lat": 7.53,
+            "lon": -12.55
+          },
+          "homeland_place": "Bonthe",
+          "traditions": [
+            "country cloth"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Sherbro",
+              "Bullom",
+              "Sherbro Island",
+              "Sierra Leone",
+              "Bolom",
+              "Mampwa",
+              "Sapi",
+              "Sapi-Portuguese"
+            ]
+          }
+        },
+        {
+          "name": "Kono",
+          "homeland": {
+            "lat": 8.65,
+            "lon": -10.97
+          },
+          "homeland_place": "Koidu",
+          "traditions": [
+            "yomba"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Kono",
+              "Konno",
+              "Sierra Leone",
+              "Mende",
+              "Kono people"
             ]
           }
         }
