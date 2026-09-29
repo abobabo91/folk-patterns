@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2021009__DBF72C955D839C29EF04729CB766E39D",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Finnish Heritage Agency",
+    "object_id": "2021009__DBF72C955D839C29EF04729CB766E39D",
+    "object_url": "https://www.europeana.eu/item/2021009/_DBF72C955D839C29EF04729CB766E39D?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "license_url": "http://creativecommons.org/licenses/by/4.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Iñupiaq",
+    "tradition": "Iñupiaq",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The object is a carved stone labret (lip ornament) made of spotted syenite, a traditional Iñupiaq form of body adornment worn through a pierced lip, matching the museum's description exactly.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "koru",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Finnish Heritage Agency",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/inupiaq/jewelry/inupiaq/images/eu_2021009_DBF72C955D839C29EF04729CB766E39D.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3175bf0de482f00f46983d0946e6c240b4e2f46f16688883af8112a940ffc803",
+      "bytes": 20897,
+      "local_path": "library\\north-america\\united-states\\inupiaq\\jewelry\\inupiaq\\images\\eu_2021009_DBF72C955D839C29EF04729CB766E39D.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D696592%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:07:59.485567+00:00"
+}

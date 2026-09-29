@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-A49-54",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-A49-54",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A49-54",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.A49.54",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Côte d'Ivoire / Liberia",
+    "ethnicity": "Kru",
+    "tradition": "Kru",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo shows a documentary scene of stilt masquerade performers in elaborate costume with a crowd of spectators in traditional cloth, consistent with a West African coastal masquerade tradition such as the Kru region of Ivory Coast/Liberia. It plausibly depicts local dress, ritual masking, and daily communal life of the claimed people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Picture of three stilt masquerades sitting on a bamboo structure. Male adults and children watching at left and right. Males wearing cloths. Banana trees in background.\nAlbumen print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cote-d-ivoire-liberia/kru/photo/kru/images/bm_EA_Af_A49_54.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9c364a713186a27d61c4a9182573a2e84fd99696b18c06ea2351b571bfb3ffd4",
+      "bytes": 77820,
+      "local_path": "library\\sub-saharan-africa\\cote-d-ivoire-liberia\\kru\\photo\\kru\\images\\bm_EA_Af_A49_54.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T07:57:57.615098+00:00"
+}

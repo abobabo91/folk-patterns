@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1979-03-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1979-03-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1979-03-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1979.03.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Peru",
+    "ethnicity": "Asháninka",
+    "tradition": "Asháninka",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a woven cotton shoulder bag with striped body and a geometric-patterned blue strap with tassels, attributed by the museum to the Campa (Ashéninka/Asháninka self-denomination), consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "shoulder-bag",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shoulder-bag",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Shoulder bag made of woven cotton; vertical striped in beige and brown. Strap sewn down edges in medium and dark blue geometric designs with tassels at end.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/peru/ashaninka/household/ashaninka/images/bm_E_Am1979_03_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "79380476bfd1cb90822d64791e1ffb64ed3f5d29571abd24c7e7e54f83c3a41c",
+      "bytes": 47390,
+      "local_path": "library\\latin-america\\peru\\ashaninka\\household\\ashaninka\\images\\bm_E_Am1979_03_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:28:17.736935+00:00"
+}

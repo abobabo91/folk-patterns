@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1956-08-80",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1956-08-80",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1956-08-80",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1956.08.80",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Brazil",
+    "ethnicity": "Krahô",
+    "tradition": "Krahô",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a palm-leaf plaited pouch with carrying loops, attributed by the museum to the Krahô; this is a made object used by the people, fitting a household/basketry item rather than a woven textile.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "tobacco-pouch",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "tobacco-pouch",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1956:\r\nPalm-leaf and twill plaited tobacco-pouch, with two loops for sling or carrying handle.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/brazil/kraho/household/kraho/images/bm_E_Am1956_08_80.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "98dfb4cc9c88c130cd2eeab9bdcf1af3ff2bd541f6a50272c05c15532f320b8f",
+      "bytes": 80124,
+      "local_path": "library\\latin-america\\brazil\\kraho\\household\\kraho\\images\\bm_E_Am1956_08_80.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:39:16.380764+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1926-169",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1926-169",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1926-169",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1926.169",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Nyamwezi",
+    "tradition": "Nyamwezi",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a glass beadwork waist-band with plaited ties and fringe, a personal adornment/garment attributed to the Nyamwezi by the museum, consistent with East African beadwork traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "waist-band; ornament",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "waist-band; ornament",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "(description from register)\r\nGlass bead waist band with plaited tying strings and fringe. Coloured white, red and black on pale blue. Pattern of squares and rectangles.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/nyamwezi/garment/nyamwezi/images/bm_E_Af1926_169.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "aed7a4dd070a0034822662441e3cbf4ea6537a76cc1d370c375ff337d8553cbb",
+      "bytes": 150605,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\nyamwezi\\garment\\nyamwezi\\images\\bm_E_Af1926_169.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T08:08:28.264468+00:00"
+}

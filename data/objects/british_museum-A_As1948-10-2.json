@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1948-10-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1948-10-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1948-10-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1948.10.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Apatani",
+    "tradition": "Apatani",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A woven bamboo/plant-fibre rain-cape/carrying-shield with shoulder slings and back cords, explicitly documented as made by the Apatani for daily use — a plausible traditional household/carrying item for the region.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "rain-guard",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "rain-guard",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1948: Vegetable fibre rain-shield, with adjustable pouch and two shoulder pieces for carrying goods: bamboo framework, filled in with double open-work plait, the rain-proofing agent, head and shoulder slings; a bunch of plaited cords at the back to which loose objects may be tied.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/apatani/household/apatani/images/bm_A_As1948_10_2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6eb9bfeadced2ba1acb32812393d7be60491ea1978fb519befba3549995c5e93",
+      "bytes": 53389,
+      "local_path": "library\\south-asia\\india\\apatani\\household\\apatani\\images\\bm_A_As1948_10_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T10:02:10.701042+00:00"
+}

@@ -228,6 +228,29 @@
               "Vancouver Island"
             ]
           }
+        },
+        {
+          "name": "Innu",
+          "homeland": {
+            "lat": 50.22,
+            "lon": -66.38
+          },
+          "homeland_place": "Sept-Îles",
+          "traditions": [
+            "teueikan painted drum",
+            "Innu tea doll"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Innu",
+              "Naskapi",
+              "Montagnais",
+              "Montagnais-Naskapi",
+              "Labrador",
+              "Quebec"
+            ]
+          }
         }
       ]
     },
@@ -532,6 +555,87 @@
               "Barbareño",
               "Mission Indian",
               "California Indian"
+            ]
+          }
+        },
+        {
+          "name": "Iñupiaq",
+          "homeland": {
+            "lat": 71.29,
+            "lon": -156.79
+          },
+          "homeland_place": "Utqiagvik",
+          "traditions": [
+            "mukluk",
+            "qiviut",
+            "baleen basketry",
+            "umiaq",
+            "qargi",
+            "labret"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Inupiaq",
+              "Inupiat",
+              "Eskimo",
+              "Alaska",
+              "Alaskan Eskimo",
+              "Point Barrow",
+              "Bering Strait",
+              "Inuit"
+            ]
+          }
+        },
+        {
+          "name": "Ho-Chunk",
+          "homeland": {
+            "lat": 43.55,
+            "lon": -89.77
+          },
+          "homeland_place": "Wisconsin Dells",
+          "traditions": [
+            "waaruc",
+            "bandolier bag",
+            "trade-cloth leggings",
+            "effigy mound"
+          ],
+          "arch_commons_categories": [
+            "Effigy Mounds National Monument",
+            "Man Mound",
+            "Lizard Mound County Park"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Ho-Chunk",
+              "Hochunk",
+              "Winnebago",
+              "Hocak",
+              "Hochungra",
+              "Wisconsin Winnebago",
+              "Nebraska Winnebago",
+              "Woodlands"
+            ]
+          }
+        },
+        {
+          "name": "Osage",
+          "homeland": {
+            "lat": 36.6656,
+            "lon": -96.3361
+          },
+          "homeland_place": "Pawhuska",
+          "traditions": [
+            "finger-woven garters"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Osage",
+              "Wazhazhe",
+              "Osage Nation",
+              "Oklahoma",
+              "Osage County"
             ]
           }
         }

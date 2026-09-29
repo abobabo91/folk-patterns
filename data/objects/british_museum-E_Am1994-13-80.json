@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1994-13-80",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1994-13-80",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1994-13-80",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1994.13.80",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Guatemala",
+    "ethnicity": "Mopan",
+    "tradition": "Mopan",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a cloth doll dressed in traditional Maya-style blouse and skirt with embroidery, made by the Mopan themselves per the museum record, representing their handicraft and traditional dress.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "doll",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "doll",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Doll; sewn from cloth; woman made of yellow stuffed cloth; wears white cotton blouse with black embroidery at collar and cuffs, fuchsia skirt with horizontal pleats accented with yellow wavy lines; brown acrylic yarn sewn on for hair, braided down back and tied with multicoloured acrylic yarn; eyelashes, eyes and nose embroidered in black acrylic yarn, lips red, teeth white; wire earrings with green glass beads attached to sides of head.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/guatemala/mopan/sculpture/mopan/images/bm_E_Am1994_13_80.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6aab432a182632749884dc36a29f8d21963fa16629519e4d2c321c061fa9729a",
+      "bytes": 40368,
+      "local_path": "library\\latin-america\\guatemala\\mopan\\sculpture\\mopan\\images\\bm_E_Am1994_13_80.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:49:16.623075+00:00"
+}

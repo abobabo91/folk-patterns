@@ -1,0 +1,98 @@
+{
+  "id": "met-317616",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "317616",
+    "object_url": "https://www.metmuseum.org/art/collection/search/317616",
+    "iiif_manifest": null,
+    "credit_line": "From the Collection of Nina and Gordon Bunshaft, Bequest of Nina Bunshaft, 1994",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1995.64.15",
+    "accession_year": "1995"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Côte d'Ivoire / Liberia",
+    "ethnicity": "Kru",
+    "tradition": "Kru",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a brass currency/manilla-type object with terracotta core, attributed directly to the Kru peoples of Liberia/Ivory Coast, matching the claimed ethnicity and metalwork category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Currency",
+    "titles_alt": [],
+    "date_text": "probably 19th century",
+    "date_earliest": 1800,
+    "date_latest": 1897,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Brass",
+      "fired terracotta core"
+    ],
+    "techniques": [],
+    "medium_raw": "Brass, fired terracotta core",
+    "classification": "Metal-Implements",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Height 4 in.",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Sinoe County, Liberia",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Kru artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cote-d-ivoire-liberia/kru/metalwork/kru/images/met_317616.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "effb9574328b5d56533d69780eff41f3d1bc37d5cf8d61cb4be9388c958bef3c",
+      "bytes": 649252,
+      "local_path": "library\\sub-saharan-africa\\cote-d-ivoire-liberia\\kru\\metalwork\\kru\\images\\met_317616.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T07:58:03.855606+00:00"
+}

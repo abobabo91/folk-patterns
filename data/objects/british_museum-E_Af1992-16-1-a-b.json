@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1992-16-1-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1992-16-1-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1992-16-1-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1992.16.1.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Zafimaniry",
+    "tradition": "Zafimaniry",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a tall carved wooden house post with geometric and figurative motifs, consistent with Zafimaniry decorative woodcarving traditions used on house posts in Madagascar.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "house-post",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "house-post",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Central house post from Zafimaniry house in two sections. Made of wood carved with designs on front surface.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/zafimaniry/architectural/zafimaniry/images/bm_E_Af1992_16_1_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d230ae1b86fb4ddfc1f0d05cb613d3efa14db46e94a899e76a0d5a942b86aae7",
+      "bytes": 21682,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\zafimaniry\\architectural\\zafimaniry\\images\\bm_E_Af1992_16_1_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T10:07:16.874594+00:00"
+}

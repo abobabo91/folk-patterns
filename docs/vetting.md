@@ -417,6 +417,36 @@ matches; use `.cache/MetObjects.csv` instead.
 | Moru | 15 | 15 | 0 of 1 | a hospital photo (Commons) |
 | Lahu | 24 | 23 | 4 of 5 | an arrow record reusing the quiver photo; a fair-trade advert (Commons) |
 | Antemoro | 14 | 14 | 2 of 11 | valiha, concerts and repeats not captioned as Antemoro (Commons) |
+| Beja | 14 | 11 | 2 of 7 | three records the build-time junk filter drops (two photos, a shield); swords not captioned as Beja, a museum display (Commons) |
+| Antandroy | 33 | 33 | 3 of 8 | aloalo posts captioned Mahafaly or not captioned as Antandroy (Commons) |
+| Ha | 27 | 27 | none found | none |
+| Kru | 14 | 14 | 1 of 2 | a Blolequin photo where "Kru" names the language family (Commons) |
+| Toposa | 28 | 28 | 3 of 6 | a Turkana stool, photos that do not name the people (Commons) |
+| Nyamwezi | 21 | 21 | 5 of 9 | colonial auxiliary troops, a creamery, two repeat zither views (Commons) |
+| Mahafaly | 29 | 29 | 5 of 10 | Sakalava and uncaptioned aloalo posts (Commons) |
+| Zafimaniry | 31 | 31 | 1 of 6 | a blow-pipe photographed as a hairline; valiha and concerts not captioned as Zafimaniry (Commons) |
+| Chaga | 31 | 32 | 11 of 11 | two ear-ornament part records sharing the photo of the full pair |
+| Bena | 27 | 27 | 1 of 1 | none |
+| Nuer | 21 | 18 | 3 of 3 | four photos the museum shows rotated or upside down |
+| Tallensi | 29 | 29 | 2 of 3 | a photo captioned Nankanse/Tallensi (Commons) |
+| Konkomba | 23 | 23 | 4 of 5 | a photo captioned only "likely Konkomba" (Commons) |
+| Mano | 23 | 22 | 6 of 9 | a standing figure photographed on its side; a "Dan or Mano" mask, repeat views (Commons) |
+| Bezanozano | 17 | 17 | 1 of 9 | valiha and concert photos not captioned as Bezanozano (Commons) |
+| Teso | 16 | 13 | 6 of 9 | three photos the museum attributes to "Kumam or Teso"; party dress, a repeat homestead view (Commons) |
+| Zinza | 19 | 19 | none found | none |
+| Lega | 21 | 21 | 8 of 8 | none |
+| Margi | 14 | 14 | none found | none |
+| Iñupiaq | 24 | 19 | 0 of 3 | a 2025 gallery mask by an artist of two peoples; four drawings the build-time junk filter drops; qiviut sweaters (Commons) |
+| Innu | 11 | 10 | 4 of 7 | a bush-plane photo; a road sign, a festival stand, a modern march (Commons) |
+| Ho-Chunk | 12 | 12 | 2 of 4 | soldiers' portraits (Commons) |
+| Osage | 17 | 17 | 5 of 7 | three more prints of two kept portraits, a print captioned "Camanche Indian"; campus buildings (Commons) |
+| Asháninka | 22 | 22 | 7 of 12 | a knitted hat recorded only as possibly Campa; four repeat uploads, a snapshot (Commons) |
+| Xavante | 29 | 29 | 2 of 6 | a collage, a protest, a multi-people event, Xingu women (Commons) |
+| Krahô | 29 | 29 | 2 of 5 | a lid record sharing the basket photo; Senate hearings (Commons) |
+| Ye'kuana | 22 | 21 | 7 of 10 | three more versions of one portrait (Commons) |
+| Mopan | 32 | 31 | 0 of 3 | a tourist cloth embroidered "MAYAN CALENDAR"; huipils captioned only as Guatemalan (Commons) |
+| Ida'an | 36 | 32 | 0 of 9 | five records sharing another part's photo; all nine Commons photos show Lotud linangkit embroidery |
+| Apatani | 32 | 31 | 8 of 10 | a hat part record sharing the hat's photo; a wax diorama, bangles shared with the Nyishi (Commons) |
 
 Mangyan is the collective name of the Mindoro peoples, and the British Museum
 records its objects under the member groups: all 376 candidates were Hanunóo
@@ -458,6 +488,30 @@ one people. Catawba is skipped in the queue because its British Museum alias
 is wrong for the people: Kanak are filed under New Caledonia (not France) and
 Dan under Côte d'Ivoire / Liberia (not Guinea). Khanty sits with Nivkh under
 east_asia / Russia.
+
+The Beja to Apatani batch (2026-09-29) follows the same rules. Kru is filed with
+Dan under Côte d'Ivoire / Liberia and Mano under Liberia (Wikidata gives Ivory
+Coast and Guinea); Beja is the atlas's first Sudan culture and sits in
+sub_saharan_africa; the Mopan records carry no place, so Mopan keeps the
+Wikidata country, Guatemala. Museum photos shown rotated or upside down are
+excluded, as are pieces a museum attributes to "X or Y". Kotas is skipped in
+the queue: the British Museum's "Kota" is the Gabonese Kota and the Met and
+Cleveland rows are Kota-school Rajasthani paintings. Picked but not loaded as
+under 10: Sherbro 7, Berta 0, Taita 8, Yupik 6, Kono 1, Mohawk 7 and Mi'kmaw 9
+(after a prehistoric slate gorget was excluded). Yupik had only 6 candidates
+judged; why so few is not yet checked (its British Museum and Europeana alias
+forms are the first place to look).
+
+A network drop during this batch's load (www.britishmuseum.org failing to
+resolve, then the `claude` CLI failing) left Chaga with 7 of 32 records, Zinza 7 of 19 and
+Antandroy 21 of 33. `add_culture` still printed "added", because
+`_load_picks.py` logged each failed object and moved on. It now prints a
+WARNING with the failed count; rerunning `add_culture` fills the gap, since
+objects already in the library are skipped. After any load, compare the
+library record count with the pick's kept count. The build-time junk filter
+drops a few picked records the pick itself accepted: its landscape pattern
+catches British Museum photographs and drawings titled "(landscape)", and its
+numismatic pattern caught a Beja shield.
 
 Every seed's tradition chips were pruned to the ones the sources contain.
 Between 11 and 16 were dropped per culture, for example 16 Shona chips such as
@@ -605,15 +659,15 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 10,205/10,205
-library records judged, 9,303 accepted and 902 dropped. The site index has
-9,201 objects in 172 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 10,205 images. Selected Armenian,
+**Current coverage (2026-09-29):** `scripts/_vet_status.py` reports 10,895/10,895
+library records judged, 9,993 accepted and 902 dropped. The site index has
+9,883 objects in 202 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 10,895 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
 and all later cultures from picks (see the table above) were also checked
-against contact sheets and catalogues. Commons: 653 published, 396 rejected by
-the editorial check, 844 rejected by the model, none waiting.
+against contact sheets and catalogues. Commons: 752 published, 479 rejected by
+the editorial check, 909 rejected by the model, none waiting.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 

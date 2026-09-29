@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-8229",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-8229",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-8229",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.8229",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Iñupiaq",
+    "tradition": "Iñupiaq",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a root-digging pick made of antler bound with spruce root to a red-stained wooden handle, a traditional Iñupiat tool used for gathering roots/foraging — a plausible household/subsistence implement for this Arctic people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "pick; agricultural tool/implement (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "pick; agricultural tool/implement (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Root-digging implement, pick of antler or bone bound to handle of wood bound with spruceroot; wood stained red of alder bark.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/inupiaq/household/inupiaq/images/bm_E_Am_8229.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "baef9daceab9d80064343dc17ef69e7357bfe4633aa9b7c542118a867f3041d7",
+      "bytes": 91256,
+      "local_path": "library\\north-america\\united-states\\inupiaq\\household\\inupiaq\\images\\bm_E_Am_8229.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:07:45.543561+00:00"
+}

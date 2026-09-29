@@ -1387,13 +1387,6 @@
 "objects": 40
 },
 {
-"key": "Q156274",
-"name": "Kotas",
-"continent": "Asia",
-"country": "India",
-"objects": 40
-},
-{
 "key": "Q1496300",
 "name": "Mopan",
 "continent": "Americas",
@@ -2909,6 +2902,14 @@
 "country": "United States",
 "objects": 74,
 "skip": "BM alias 'Issa' is the Somali Issa, not the Catawba (2026-09-28)"
+},
+{
+"key": "Q156274",
+"name": "Kotas",
+"continent": "Asia",
+"country": "India",
+"objects": 40,
+"skip": "BM 'Kota' is the Gabonese Kota and the Met/Cleveland rows are Kota-school Rajasthani paintings, not the Nilgiri Kotas (2026-09-28)"
 }
 ]
 }

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-B76-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-B76-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B76-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.B76.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Côte d'Ivoire / Liberia",
+    "ethnicity": "Kru",
+    "tradition": "Kru",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The handwritten caption reads \"Kroomen of [ship] etc.\" — \"Kroomen\" was the historical term for Kru men from the Ivory Coast/Liberia coast who worked widely as sailors and laborers at West African trading posts, including Fernando Po; this is a documentary photo of Kru men in their characteristic loincloths and ornaments, so the ethnicity attribution is credible despite the distant location.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Photograph (black and white), view of thirteen adult men, eight of which stand in front of five men seated on the ground. They wear loincloths and personal-ornaments. The man in the centre is holding European hat, and a man on the far right is holding a wooden paddle.  The group are standing beneath a tree in front of building surrounded with barrels. Santa Isabel, Fernando Po.\r\nAlbumen print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cote-d-ivoire-liberia/kru/photo/kru/images/bm_EA_Af_B76_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "745a12119da8ff7971ad9f0a59a9205f8dca84db8a94327f48525f4248943c83",
+      "bytes": 73476,
+      "local_path": "library\\sub-saharan-africa\\cote-d-ivoire-liberia\\kru\\photo\\kru\\images\\bm_EA_Af_B76_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T07:58:00.235338+00:00"
+}

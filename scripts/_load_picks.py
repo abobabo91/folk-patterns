@@ -6,7 +6,8 @@ Every kept object (QUALITY >= 3) is written, not only the five featured ones;
 `cultural.pick_quality` and `cultural.pick_featured` carry the ranking. The
 pick's verdict is written as the record's vetting verdict (vision_* fields,
 the same ones vet_images.py writes), so build_index treats it as judged.
-Objects already in the library are skipped.
+Objects already in the library are skipped, so a rerun fills a partial load.
+Objects that fail to fetch or download are counted and reported as a WARNING.
 """
 from __future__ import annotations
 
@@ -79,7 +80,7 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
     if any(o["source"] == "bm" for objs in ranked.values() for o in objs) and not os.environ.get("BM_CDP_URL"):
         raise RuntimeError("BM_CDP_URL is required to load these picks; refusing a partial culture")
     bm_client = _client() if os.environ.get("BM_CDP_URL") else None
-    saved = refreshes = 0
+    saved = refreshes = failed = 0
     with RateLimitedClient(min_interval_s=0.3) as http:
         for af, objs in ranked.items():
             for o in objs:
@@ -102,9 +103,11 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
                         rec = _record(o, cultural, bm_client, http)
                 except Exception as e:
                     print(f"  ! {o['source']} {o['id']}: {type(e).__name__} {e}", flush=True)
+                    failed += 1
                     continue
                 if not rec or not rec["images"]:
                     print(f"  ! {o['source']} {o['id']}: no record or image", flush=True)
+                    failed += 1
                     continue
                 dest = library_path(region, country, ethnicity, af, ethnicity)
                 prefix = {"bm": "bm", "met": "met", "cleveland": "cle", "europeana": "eu", "va": "va"}[o["source"]]
@@ -117,9 +120,16 @@ def load(key: str, region: str, country: str, ethnicity: str) -> int:
                     except Exception as e:
                         print(f"  ! {o['source']} {o['id']} image: {e}", flush=True)
                 if sha is None:
+                    failed += 1
                     continue
                 rec["images"][0].update(sha256=sha, bytes=size, local_path=str(dst.relative_to(dest.parents[5])))
                 append_metadata(dest, rec)
                 saved += 1
     print(f"  {ethnicity}: {saved} records written from {key}", flush=True)
+    if failed:
+        # A network drop mid-load (2026-09-29: DNS gone for Antandroy..Lega) left
+        # Chaga with 7 of 32 and still printed "added". Rerunning add_culture
+        # fills the gap: objects already in the library are skipped.
+        print(f"  WARNING {ethnicity}: {failed} picked objects failed to load - "
+              f"the culture is partial; rerun add_culture to fill them", flush=True)
     return saved

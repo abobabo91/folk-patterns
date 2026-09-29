@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-A52-18",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-A52-18",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A52-18",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.A52.18",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Sudan",
+    "ethnicity": "Beja",
+    "tradition": "Beja",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A documentary photograph of men in traditional robes (one with a distinctive large hairstyle typical of Beja men) and a turban, standing before mat-and-pole shelters with a woven bed frame in front — consistent with Beja pastoralist life in the Sudan/Egypt border region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Egypt [?], small group of adult males [Beja?] standing in front of shelters covered made of poles, mats. Males wearing gowns, one wearing turban. Young child sitting on wooden platform [bed?] at front.\nMedium: Gelatin silver print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/sudan/beja/photo/beja/images/bm_EA_Af_A52_18.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c8f0fb5d9ffe4b91ed73434171b3afcdd4038e5bf509b1f64dbe54ac35826eaa",
+      "bytes": 54635,
+      "local_path": "library\\sub-saharan-africa\\sudan\\beja\\photo\\beja\\images\\bm_EA_Af_A52_18.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T10:27:55.451112+00:00"
+}

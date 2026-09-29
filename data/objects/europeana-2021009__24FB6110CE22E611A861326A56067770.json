@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2021009__24FB6110CE22E611A861326A56067770",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Finnish Heritage Agency",
+    "object_id": "2021009__24FB6110CE22E611A861326A56067770",
+    "object_url": "https://www.europeana.eu/item/2021009/_24FB6110CE22E611A861326A56067770?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "license_url": "http://creativecommons.org/licenses/by/4.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Iñupiaq",
+    "tradition": "Iñupiaq",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a slate labret, a lip ornament traditionally worn by Iñupiaq men, matching the museum's description and cultural attribution.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "koru",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Finnish Heritage Agency",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/inupiaq/jewelry/inupiaq/images/eu_2021009_24FB6110CE22E611A861326A56067770.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2f11b2b46d08acc3831cc415d67e03d4d90a1ccb5aa8941d919d7ebc6f110356",
+      "bytes": 16893,
+      "local_path": "library\\north-america\\united-states\\inupiaq\\jewelry\\inupiaq\\images\\eu_2021009_24FB6110CE22E611A861326A56067770.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D694679%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:07:56.988205+00:00"
+}

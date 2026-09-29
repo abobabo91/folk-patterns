@@ -308,6 +308,31 @@
               "Cobán"
             ]
           }
+        },
+        {
+          "name": "Mopan",
+          "homeland": {
+            "lat": 16.32,
+            "lon": -89.15
+          },
+          "homeland_place": "San Luis, Petén",
+          "traditions": [
+            "deer dance mask"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Mopan",
+              "Mopan Maya",
+              "Maya",
+              "Mayan",
+              "Guatemala",
+              "Petén",
+              "Belize",
+              "Kekchi",
+              "Q'eqchi'"
+            ]
+          }
         }
       ]
     },
@@ -345,6 +370,133 @@
               "Teenek",
               "Huastecan",
               "Mexico"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Peru",
+      "met_queries": [
+        "Peru"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Asháninka",
+          "homeland": {
+            "lat": -11.05,
+            "lon": -74.23
+          },
+          "homeland_place": "Satipo",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Asháninka",
+              "Ashaninka",
+              "Campa",
+              "Anti",
+              "Ande",
+              "Kampa",
+              "Peru",
+              "Amazon"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "met_queries": [
+        "Brazil"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Xavante",
+          "homeland": {
+            "lat": -14.05,
+            "lon": -52.35
+          },
+          "homeland_place": "Barra do Garças",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Xavante",
+              "Chavante",
+              "Shavante",
+              "Xavánte",
+              "A'uwe",
+              "Akwe",
+              "Akwen",
+              "Mato Grosso",
+              "Brazil"
+            ]
+          }
+        },
+        {
+          "name": "Krahô",
+          "homeland": {
+            "lat": -8.13,
+            "lon": -47.35
+          },
+          "homeland_place": "Itacajá",
+          "traditions": [
+            "gourd rattle"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Krahô",
+              "Kraho",
+              "Craho",
+              "Craô",
+              "Timbira",
+              "Eastern Timbira",
+              "Canela",
+              "Gê",
+              "Jê",
+              "Brazil"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Venezuela",
+      "met_queries": [
+        "Venezuela"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Ye'kuana",
+          "homeland": {
+            "lat": 4.15,
+            "lon": -64.87
+          },
+          "homeland_place": "La Esmeralda",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Ye'kuana",
+              "Yekuana",
+              "Ye'cuana",
+              "Yekwana",
+              "Makiritare",
+              "Maquiritare",
+              "De'kuana",
+              "Dekuana",
+              "So'to",
+              "Venezuela",
+              "Orinoco",
+              "Amazonas"
             ]
           }
         }

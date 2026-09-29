@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1973-05-12",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1973-05-12",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1973-05-12",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1973.05.12",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Venezuela",
+    "ethnicity": "Ye'kuana",
+    "tradition": "Ye'kuana",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a wooden fork-shaped implement with a carved shaman handle and woven cane decoration, attributed directly to the Ye'kuana by the museum, consistent with their known woodcarving and basketry traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "tool/implement",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "tool/implement",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Ceremonial fork shaped implement, made of wood and with a carved handle. The carving is of a shaman in a trance, sitting with the elbows on his knees and the chin in hand. Plaited in natural and black stained and split cane.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/venezuela/ye-kuana/household/ye-kuana/images/bm_E_Am1973_05_12.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4e064a498fcb0b5333708e84e2bf055efddec7a21dec6172825c63d2a8da43cd",
+      "bytes": 7640,
+      "local_path": "library\\latin-america\\venezuela\\ye-kuana\\household\\ye-kuana\\images\\bm_E_Am1973_05_12.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:43:33.549005+00:00"
+}

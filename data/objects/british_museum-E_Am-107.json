@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-107",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-107",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-107",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.107",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Brazil",
+    "ethnicity": "Krahô",
+    "tradition": "Krahô",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a small triangular stone lip-ornament, a type of adornment worn by the Krahô and related Gê-speaking peoples of central Brazil, consistent with the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "lip-ornament",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "lip-ornament",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Lip ornament made of yellowish stone.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/brazil/kraho/jewelry/kraho/images/bm_E_Am_107.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "54a7cf7d5272f4212c6bf4bd4038160aa832fa32af07320657d25b9d900a2660",
+      "bytes": 78617,
+      "local_path": "library\\latin-america\\brazil\\kraho\\jewelry\\kraho\\images\\bm_E_Am_107.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T09:38:34.616251+00:00"
+}

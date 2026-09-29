@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-14-9",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-14-9",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-14-9",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.14.9",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Liberia",
+    "ethnicity": "Mano",
+    "tradition": "Mano",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a small carved wooden mask with a band across the forehead, consistent with Mano miniature \"passport\" masks used ritually and carried as personal protective objects, matching the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "mask",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mask",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Carved wooden miniature mask with bands across the forehead.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/liberia/mano/masks-ritual/mano/images/bm_E_Af1954_14_9.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "654f7c89aedfbf949c894d46556a46ceec70c95763bed3b60171b50013cf2155",
+      "bytes": 33364,
+      "local_path": "library\\sub-saharan-africa\\liberia\\mano\\masks-ritual\\mano\\images\\bm_E_Af1954_14_9.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T08:38:17.164105+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1985-17-41",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1985-17-41",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1985-17-41",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1985.17.41",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Zafimaniry",
+    "tradition": "Zafimaniry",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A woven vegetable-fibre burial cloth with beige, green and burgundy stripes, attributed by the museum to Zafimaniry makers — a plausible traditional textile type for this Madagascar highland people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "cloth",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cloth",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Burial cloth; woven of vegetable fibre; two rectangles of woven fibre with beige, green and burgundy stripes sewn together lengthwise; fringe on each short end.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/zafimaniry/textile/zafimaniry/images/bm_E_Af1985_17_41.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "01326d7c1fb3ed65ca5fdff91f08996f97c98d463ce92a026566970d6415581e",
+      "bytes": 97865,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\zafimaniry\\textile\\zafimaniry\\images\\bm_E_Af1985_17_41.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T10:07:14.460388+00:00"
+}

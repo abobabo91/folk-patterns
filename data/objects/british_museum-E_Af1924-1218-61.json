@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1924-1218-61",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1924-1218-61",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1924-1218-61",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1924.1218.61",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Ha",
+    "tradition": "Ha",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a heavy brass wrist ornament/ring, matching the museum's attribution of Ha manufacture; such metal wrist rings are a documented form of adornment among Ha and neighbouring Tanzanian groups.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "wrist-ornament",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "wrist-ornament",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Brass ring, flattened on one side to a ridge.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/ha/jewelry/ha/images/bm_E_Af1924_1218_61.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bb2bc55f857561f9afbb572af2c706424b2bfd757c5fd549df0e08a4dbfc9c0d",
+      "bytes": 44834,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\ha\\jewelry\\ha\\images\\bm_E_Af1924_1218_61.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T07:49:37.412564+00:00"
+}

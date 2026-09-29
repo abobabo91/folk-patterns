@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1952-07-267",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1952-07-267",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1952-07-267",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1952.07.267",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Chaga",
+    "tradition": "Chaga",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a composite dagger with a wooden handle and a tanged iron blade, matching the museum's attribution of Chagga manufacture. This is a plausible weapon type for the region and fits the claimed ethnicity as arms.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "dagger",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dagger",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1952:\r\nComposite dagger with wooden handle and tanged iron blade with median thickening.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/chaga/arms/chaga/images/bm_E_Af1952_07_267.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "604d2d7720a11f0f6763b8365e60604eee4705723a21587f94c88f78d63c84e1",
+      "bytes": 22369,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\chaga\\arms\\chaga\\images\\bm_E_Af1952_07_267.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T08:16:52.258142+00:00"
+}
