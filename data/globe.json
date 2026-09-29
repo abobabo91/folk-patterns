@@ -303,6 +303,21 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/nivkh/arms/nivkh/images/bm_A_As1896_581_b.jpg"
     },
     {
+      "key": "east-asia__russia__khanty",
+      "region": "east-asia",
+      "country": "Russia",
+      "ethnicity": "Khanty",
+      "homeland_place": "Khanty-Mansiysk",
+      "lat": 61.0,
+      "lon": 69.0,
+      "object_count": 40,
+      "seed_traditions": [
+        "beadwork collar",
+        "birch-branch motif"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/khanty/architectural/khanty/images/bm_A_As1898_0702_90_n.jpg"
+    },
+    {
       "key": "europe__norway-sweden-finland__sami",
       "region": "europe",
       "country": "Norway / Sweden / Finland",
@@ -320,6 +335,20 @@
         "komagbånd"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/norway-sweden-finland/sami/arms/sami/images/bm_H_Eu1951-01-1-a-b.jpg"
+    },
+    {
+      "key": "europe__romania__csango",
+      "region": "europe",
+      "country": "Romania",
+      "ethnicity": "Csángó",
+      "homeland_place": "Bacău",
+      "lat": 46.57,
+      "lon": 26.91,
+      "object_count": 23,
+      "seed_traditions": [
+        "katrinca"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/romania/csango/garment/csango/images/bm_H_Eu2006_1103_56.jpg"
     },
     {
       "key": "latin-america__argentina__toba",
@@ -391,6 +420,33 @@
         "duho stool"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/trinidad-and-tobago/arawak/arms/arawak/images/bm_E_Am_2456_a.jpg"
+    },
+    {
+      "key": "latin-america__guatemala__q-eqchi",
+      "region": "latin-america",
+      "country": "Guatemala",
+      "ethnicity": "Q'eqchi'",
+      "homeland_place": "Cobán",
+      "lat": 15.47,
+      "lon": -90.37,
+      "object_count": 23,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/guatemala/q-eqchi/ceramic/q-eqchi/images/bm_E_2016_2007_1.jpg"
+    },
+    {
+      "key": "latin-america__mexico__huastec",
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Huastec",
+      "homeland_place": "Ciudad Valles",
+      "lat": 21.99,
+      "lon": 98.98,
+      "object_count": 30,
+      "seed_traditions": [
+        "Aquismon cross-stitch",
+        "Huastec shell gorget"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/huastec/arms/huastec/images/bm_E_Am1988_08_344_b.jpg"
     },
     {
       "key": "middle-east-north-africa__iran__persian",
@@ -690,6 +746,25 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/nuu-chah-nulth/arms/nuu-chah-nulth/images/bm_E_Am_8766.jpg"
     },
     {
+      "key": "north-america__canada__kwakwaka-wakw",
+      "region": "north-america",
+      "country": "Canada",
+      "ethnicity": "Kwakwaka'wakw",
+      "homeland_place": "Alert Bay",
+      "lat": 50.6,
+      "lon": -126.93,
+      "object_count": 17,
+      "seed_traditions": [
+        "Dzunuk'wa mask",
+        "transformation mask",
+        "Bakwas mask",
+        "Sisiutl motif",
+        "Thunderbird crest",
+        "Chilkat weaving"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/kwakwaka-wakw/arms/kwakwaka-wakw/images/bm_E_Am_NWC_85.jpg"
+    },
+    {
       "key": "north-america__canada-greenland__inuit",
       "region": "north-america",
       "country": "Canada / Greenland",
@@ -780,6 +855,43 @@
         "bear-claw necklace"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/pawnee/arms/pawnee/images/bm_E_Am_5202_a.jpg"
+    },
+    {
+      "key": "north-america__united-states__crow",
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Crow",
+      "homeland_place": "Billings",
+      "lat": 45.53,
+      "lon": -107.43,
+      "object_count": 27,
+      "seed_traditions": [
+        "Apsáalooke beadwork",
+        "elk tooth dress",
+        "parfleche",
+        "painted rawhide parfleche",
+        "beaded moccasins",
+        "Crow tipi liner"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/crow/arms/crow/images/bm_E_Am1944_02_216.jpg"
+    },
+    {
+      "key": "north-america__united-states__chumash",
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Chumash",
+      "homeland_place": "Santa Barbara",
+      "lat": 34.42,
+      "lon": -119.7,
+      "object_count": 19,
+      "seed_traditions": [
+        "tomol",
+        "sumac coiled basketry",
+        "deergrass coiled basketry",
+        "pelican stone",
+        "abalone pendant"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/chumash/arms/chumash/images/bm_E_Am1896_17.jpg"
     },
     {
       "key": "oceania__new-zealand__maori",
@@ -889,6 +1001,25 @@
         "storyboard"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/palau/palauans/arms/palauans/images/bm_E_Oc1972_Q_94.jpg"
+    },
+    {
+      "key": "oceania__new-caledonia__kanak",
+      "region": "oceania",
+      "country": "New Caledonia",
+      "ethnicity": "Kanak",
+      "homeland_place": "Koné",
+      "lat": -20.57,
+      "lon": 164.28,
+      "object_count": 43,
+      "seed_traditions": [
+        "grande case",
+        "flèche faîtière",
+        "casse-tête",
+        "tapa",
+        "bougna",
+        "jade de Ouvéa"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-caledonia/kanak/architectural/kanak/images/met_757089.jpg"
     },
     {
       "key": "southeast-asia__indonesia__javanese",
@@ -1133,6 +1264,20 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/kelabit/arms/kelabit/images/bm_A_As1988_22_152.jpg"
     },
     {
+      "key": "southeast-asia__malaysia__temiar",
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Temiar",
+      "homeland_place": "Gua Musang",
+      "lat": 4.85,
+      "lon": 101.62,
+      "object_count": 26,
+      "seed_traditions": [
+        "sewang"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/temiar/arms/temiar/images/bm_A_As1977_13_1.jpg"
+    },
+    {
       "key": "southeast-asia__thailand__thai",
       "region": "southeast-asia",
       "country": "Thailand",
@@ -1328,6 +1473,22 @@
         "Shan tattoo stamp"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/shan/arms/shan/images/bm_A_As1962_06_6_a.jpg"
+    },
+    {
+      "key": "southeast-asia__myanmar__lahu",
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Lahu",
+      "homeland_place": "Kengtung",
+      "lat": 20.49,
+      "lon": 99.88,
+      "object_count": 23,
+      "seed_traditions": [
+        "Lahu Na black jacket",
+        "Lahu Shi appliqué",
+        "shoulder bag"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/lahu/arms/lahu/images/bm_A_As_Bs_97_a.jpg"
     },
     {
       "key": "southeast-asia__philippines__filipino",
@@ -1611,7 +1772,7 @@
       "homeland_place": "Makurdi",
       "lat": 7.73,
       "lon": 8.52,
-      "object_count": 59,
+      "object_count": 58,
       "seed_traditions": [
         "a'nger",
         "anger",
@@ -1791,6 +1952,38 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/kalabari/architectural/kalabari/images/bm_E_Af1950_45_236.jpg"
     },
     {
+      "key": "sub-saharan-africa__nigeria__anga",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Anga",
+      "homeland_place": "Pankshin",
+      "lat": 9.33,
+      "lon": 9.43,
+      "object_count": 42,
+      "seed_traditions": [
+        "Pankshin coiled pottery"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/anga/arms/anga/images/bm_E_Af1924_0415_5.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__nigeria__berom",
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Berom",
+      "homeland_place": "Jos",
+      "lat": 9.72,
+      "lon": 8.82,
+      "object_count": 26,
+      "seed_traditions": [
+        "nzem berom",
+        "gyang",
+        "kwi",
+        "rwei",
+        "mado"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/berom/arms/berom/images/bm_E_Af1961_23_8_a.jpg"
+    },
+    {
       "key": "sub-saharan-africa__ghana__ashanti",
       "region": "sub-saharan-africa",
       "country": "Ghana",
@@ -1865,6 +2058,18 @@
         "carved drums"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/fante/ceramic/fante/images/bm_E_Af1933_1202_32.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__ghana__gurunsi",
+      "region": "sub-saharan-africa",
+      "country": "Ghana",
+      "ethnicity": "Gurunsi",
+      "homeland_place": "Navrongo",
+      "lat": 10.72,
+      "lon": -1.09,
+      "object_count": 25,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/gurunsi/arms/gurunsi/images/bm_E_Af1915_1021_59_a_q.jpg"
     },
     {
       "key": "sub-saharan-africa__ethiopia__amhara",
@@ -2538,6 +2743,34 @@
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/bongo/arms/bongo/images/bm_E_Af1953_16_1.jpg"
     },
     {
+      "key": "sub-saharan-africa__south-sudan__shilluk",
+      "region": "sub-saharan-africa",
+      "country": "South Sudan",
+      "ethnicity": "Shilluk",
+      "homeland_place": "Malakal",
+      "lat": 9.89,
+      "lon": 31.66,
+      "object_count": 33,
+      "seed_traditions": [
+        "giraffe hair ring"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/shilluk/arms/shilluk/images/bm_E_Af_4400_a_b.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__south-sudan__moru",
+      "region": "sub-saharan-africa",
+      "country": "South Sudan",
+      "ethnicity": "Moru",
+      "homeland_place": "Mundri",
+      "lat": 4.77,
+      "lon": 30.65,
+      "object_count": 15,
+      "seed_traditions": [
+        "kudi"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/moru/arms/moru/images/bm_E_Af1934_0308_214.jpg"
+    },
+    {
       "key": "sub-saharan-africa__cameroon__chamba",
       "region": "sub-saharan-africa",
       "country": "Cameroon",
@@ -2706,6 +2939,95 @@
         "Ankole horn carving"
       ],
       "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/nkole/arms/nkole/images/bm_E_Af1901_1113_80_a_g.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__uganda__acholi",
+      "region": "sub-saharan-africa",
+      "country": "Uganda",
+      "ethnicity": "Acholi",
+      "homeland_place": "Gulu",
+      "lat": 2.77,
+      "lon": 32.3,
+      "object_count": 38,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/acholi/arms/acholi/images/bm_E_Af1902_0714_70.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__cote-d-ivoire-liberia__dan",
+      "region": "sub-saharan-africa",
+      "country": "Côte d'Ivoire / Liberia",
+      "ethnicity": "Dan",
+      "homeland_place": "Man",
+      "lat": 7.41,
+      "lon": -7.55,
+      "object_count": 30,
+      "seed_traditions": [
+        "gle mask",
+        "wunkirle spoon",
+        "wakemia ladle",
+        "brass anklet",
+        "cire perdue brass casting"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cote-d-ivoire-liberia/dan/garment/dan/images/bm_E_Af1954_23_3288.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__madagascar__vezo",
+      "region": "sub-saharan-africa",
+      "country": "Madagascar",
+      "ethnicity": "Vezo",
+      "homeland_place": "Toliara",
+      "lat": -23.35,
+      "lon": 43.67,
+      "object_count": 20,
+      "seed_traditions": [
+        "lakana"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/vezo/architectural/vezo/images/bm_E_Af1984_14_461.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__madagascar__merina",
+      "region": "sub-saharan-africa",
+      "country": "Madagascar",
+      "ethnicity": "Merina",
+      "homeland_place": "Antananarivo",
+      "lat": -18.91,
+      "lon": 47.53,
+      "object_count": 35,
+      "seed_traditions": [
+        "lamba",
+        "lamba akotofahana",
+        "akotofahana brocade"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/merina/arms/merina/images/bm_E_Af1900_0524_51_a_b.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__madagascar__antemoro",
+      "region": "sub-saharan-africa",
+      "country": "Madagascar",
+      "ethnicity": "Antemoro",
+      "homeland_place": "Manakara",
+      "lat": -22.15,
+      "lon": 47.82,
+      "object_count": 14,
+      "seed_traditions": [
+        "antaimoro paper",
+        "sorabe",
+        "katibo",
+        "lamba"
+      ],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/antemoro/garment/antemoro/images/bm_E_Af1985_17_110.jpg"
+    },
+    {
+      "key": "sub-saharan-africa__malawi__lomwe",
+      "region": "sub-saharan-africa",
+      "country": "Malawi",
+      "ethnicity": "Lomwe",
+      "homeland_place": "Mulanje",
+      "lat": -15.65,
+      "lon": 35.55,
+      "object_count": 28,
+      "seed_traditions": [],
+      "top_image": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/malawi/lomwe/arms/lomwe/images/bm_E_Af_7290.jpg"
     }
   ]
 }

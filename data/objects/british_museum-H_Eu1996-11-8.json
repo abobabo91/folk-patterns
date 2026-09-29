@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-H_Eu1996-11-8",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "H_Eu1996-11-8",
+    "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1996-11-8",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "H,Eu1996.11.8",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "Romania",
+    "ethnicity": "Csángó",
+    "tradition": "Csángó",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a multi-strand glass bead necklace tied with twisted wool cords, matching the museum's attribution to Csángó makers—a traditional adornment type consistent with Csángó folk jewelry.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "necklace",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "necklace",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Necklace, formed of multiple strands of threaded glass beads, the beads in the form of two-colour cylinders of silver cased in clear glass. One strand broken. Tied with twisted wool in orange, green and purple.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/romania/csango/jewelry/csango/images/bm_H_Eu1996_11_8.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4f18c69fa7fad3bc3d391161dfb249b23eb5ca76840fbe1110920b96b61f4868",
+      "bytes": 40803,
+      "local_path": "library\\europe\\romania\\csango\\jewelry\\csango\\images\\bm_H_Eu1996_11_8.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:13:26.612225+00:00"
+}

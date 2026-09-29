@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1938-1021-516",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1938-1021-516",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1938-1021-516",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1938.1021.516",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Guatemala",
+    "ethnicity": "Q'eqchi'",
+    "tradition": "Q'eqchi'",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a red printed cotton skirt with an apron flap, consistent with a Q'eqchi' (Kekchi) dance costume as recorded by the museum. This is a garment made and worn by the claimed people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "skirt; costume (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "skirt; costume (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Skirt (part of dance costume?) made of cotton; red, with black and white floral design; apron flap at front and back; white cotton lining.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/guatemala/q-eqchi/garment/q-eqchi/images/bm_E_Am1938_1021_516.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c8ef9a46a1db84bf07a55a0257e57151ae97381685f934fe1554d799b7d2db08",
+      "bytes": 29919,
+      "local_path": "library\\latin-america\\guatemala\\q-eqchi\\garment\\q-eqchi\\images\\bm_E_Am1938_1021_516.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:32:19.887270+00:00"
+}

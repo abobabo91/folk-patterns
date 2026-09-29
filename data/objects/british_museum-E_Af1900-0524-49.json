@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1900-0524-49",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1900-0524-49",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1900-0524-49",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1900.0524.49",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Merina",
+    "tradition": "Merina",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a model loom with an unfinished woven textile, made and used by the Merina people of Madagascar to demonstrate traditional weaving technology; it clearly shows a craft object plausible for this culture. The category \"sculpture\" is a mismatch since this is a household/craft tool model, not a carved figure.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "loom; model",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "loom; model",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Loom (with unfinished textile), model; carved of wood; wooden loom with two thick side pieces, each with an upright piece attached in the middle, and three cross pieces; partially woven brown and blue striped textile mounted on loom; three round and one flat wooden stick inserted through weaving; small wooden bobbin with wool attached.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/merina/household/merina/images/bm_E_Af1900_0524_49.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f7f237ef9e3114bfab67ae8382e7d4bca6fe452be7ee5227fdb77e297d6e0248",
+      "bytes": 72328,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\merina\\household\\merina\\images\\bm_E_Af1900_0524_49.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:27:13.117754+00:00"
+}

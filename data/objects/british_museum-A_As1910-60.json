@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1910-60",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1910-60",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-60",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1910.60",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Lahu",
+    "tradition": "Lahu",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a woman's tube skirt (phasin) with horizontal polychrome banding in red, blue, orange and dark indigo sections, a textile style consistent with hill-tribe weaving traditions of the Lahu in Myanmar. The garment type and construction match plausible Lahu dress even though pattern alone cannot rule out neighbouring groups.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "skirt",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "skirt",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A woman&#039;s tube skirt, a phasin.  Made of three unequal sized pieces of tabby cotton cloth (paired warps) with polychrome bands (woven as stripes).  Top section [32 cms deep] has cream band (single warps), with evenly spaced polychrome bands on a red &#039;ground&#039; below; red weft.  Middle section [27.5 cms] has red band with three fine blue bands (upper), with thin polychrome bands below; red weft.  Lowest section [30 cms] is make of dark blue cloth, broken up with five groups of fine applied red bands and lines of white, pale blue or orange stitching at one edge; blue weft.  All joins hand stitched.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/lahu/garment/lahu/images/bm_A_As1910_60.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d2259297860a2283a9427e4d4a1d72a02752622377b45845c00326c72f7964cd",
+      "bytes": 50632,
+      "local_path": "library\\southeast-asia\\myanmar\\lahu\\garment\\lahu\\images\\bm_A_As1910_60.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T03:13:27.611458+00:00"
+}

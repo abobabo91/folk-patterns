@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1988-08-636",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1988-08-636",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1988-08-636",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1988.08.636",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Mexico",
+    "ethnicity": "Huastec",
+    "tradition": "Huastec",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a plain fired-clay pot with a flared neck and fire-stained surface, consistent with the museum's attribution to Huastec ceramic tradition; nothing contradicts the claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "pot",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "pot",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Pot; made of pottery; lightly fired and fire-stained; burnished; circular, tapered at neck then flared out for lip; splashed with brown dots, possibly maize gruel.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/huastec/ceramic/huastec/images/bm_E_Am1988_08_636.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "30f42e5927f5cd1ca0d06b633b1818525ed8d5c522e64db14302daaf5801c949",
+      "bytes": 60797,
+      "local_path": "library\\latin-america\\mexico\\huastec\\ceramic\\huastec\\images\\bm_E_Am1988_08_636.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:55:42.140349+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1902-0714-70",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1902-0714-70",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1902-0714-70",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1902.0714.70",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Acholi",
+    "tradition": "Acholi",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a curved iron wrist-knife with hide-wrapped edge and cord binding, matching the museum's description of an Acholi wrist-knife, a known weapon type from the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "wrist-knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "wrist-knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wrist-knife, a strip of iron of which the edges are protected by a narrow strip of hide.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/acholi/arms/acholi/images/bm_E_Af1902_0714_70.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "16fe4d68d8ef49c3f0660e4d8a06841d1e2e064bd0de47646e2ba69fe1dbbca5",
+      "bytes": 58317,
+      "local_path": "library\\sub-saharan-africa\\uganda\\acholi\\arms\\acholi\\images\\bm_E_Af1902_0714_70.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:27:11.784078+00:00"
+}

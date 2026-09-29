@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-4400-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-4400-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-4400-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.4400.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Sudan",
+    "ethnicity": "Shilluk",
+    "tradition": "Shilluk",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a classic Nilotic arm-dagger with iron blade, ribbed wooden hilt, and a leather/snakeskin sheath with an attachment loop, consistent with Shilluk-made arms.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "arm-dagger; sheath",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "arm-dagger; sheath",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Arm dagger, knife (a) with iron blade and wooden handle.  Sheath (b) made of  leather and snake skin with loop to attach to the arm.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/shilluk/arms/shilluk/images/bm_E_Af_4400_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "5d0f347e10d7bb5c8560a33ce0c3a0e97372e8ef26839d34acb1baf9d1e1537e",
+      "bytes": 33230,
+      "local_path": "library\\sub-saharan-africa\\south-sudan\\shilluk\\arms\\shilluk\\images\\bm_E_Af_4400_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:45:23.382941+00:00"
+}

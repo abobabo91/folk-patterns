@@ -273,6 +273,82 @@
           }
         }
       ]
+    },
+    {
+      "country": "Guatemala",
+      "met_queries": [
+        "Guatemala"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Q'eqchi'",
+          "homeland": {
+            "lat": 15.47,
+            "lon": -90.37
+          },
+          "homeland_place": "Cobán",
+          "traditions": [],
+          "arch_commons_categories": [
+            "Cathedral of Cobán",
+            "Cancuén",
+            "Templo El Calvario (Cobán)",
+            "Iglesia de San Pedro Carchá"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Q'eqchi'",
+              "Kekchi",
+              "Quekchi",
+              "Kekchí",
+              "Maya",
+              "Guatemala",
+              "Alta Verapaz",
+              "Cobán"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Mexico",
+      "met_queries": [
+        "Mexico"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Huastec",
+          "homeland": {
+            "lat": 21.99,
+            "lon": 98.98
+          },
+          "homeland_place": "Ciudad Valles",
+          "traditions": [
+            "Aquismon cross-stitch",
+            "Huastec shell gorget"
+          ],
+          "arch_commons_categories": [
+            "Tamtoc",
+            "Tamuín",
+            "El Consuelo",
+            "Huastec culture"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Huastec",
+              "Huaxtec",
+              "Huasteca",
+              "Tenek",
+              "Teenek",
+              "Huastecan",
+              "Mexico"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

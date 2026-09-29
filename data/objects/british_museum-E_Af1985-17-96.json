@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1985-17-96",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1985-17-96",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1985-17-96",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1985.17.96",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Antemoro",
+    "tradition": "Antemoro",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a red cotton wife's shirt with lace trim and plastic buttons, directly matching the museum's attribution to the Antaimoro (Antemoro), a documented garment type from this people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "shirt",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shirt",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wife&#039;s shirt; made of cotton; red cotton shirt with two darts sewn in each  bottom front of shirt; white lace sewn around cuffs, collar and in sqyare around  neck in front, V in back; six clear plastic buttons.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/antemoro/garment/antemoro/images/bm_E_Af1985_17_96.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0302ada268897612e9461749ff946cd685c9fba25cb7329494a359a7a174b06a",
+      "bytes": 54138,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\antemoro\\garment\\antemoro\\images\\bm_E_Af1985_17_96.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T03:18:13.581932+00:00"
+}

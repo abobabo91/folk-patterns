@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1948-17-9-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1948-17-9-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1948-17-9-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1948.17.9.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Crow",
+    "tradition": "Crow",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a pair of Plains-style men's leggings made of blue trade cloth with beaded strips, geometric beadwork panels, and hide/skin tassel fringes with metal bells — consistent with the museum's attribution to Crow manufacture and a well-documented Crow garment type.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "legging",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "legging",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Legging (pair); sewn of blue cotton; composite blue cloth and coloured glass beadwork man&#039;s leggings, decorated with skin tassels with metal bells.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/crow/garment/crow/images/bm_E_Am1948_17_9_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "53b80d057de75550d3e36b8fda9863506d68b0442661c9c00a019910b93e49a1",
+      "bytes": 50932,
+      "local_path": "library\\north-america\\united-states\\crow\\garment\\crow\\images\\bm_E_Am1948_17_9_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:49:27.575679+00:00"
+}

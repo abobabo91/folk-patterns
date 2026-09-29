@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-A8-62",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-A8-62",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A8-62",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.A8.62",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Merina",
+    "tradition": "Merina",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo documents a Malagasy zebu-cart driver wearing a lamba and hat, a traditional daily-life scene consistent with Merina (highland Madagascar) rural life.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "View of an adult male driving a cart pulled by two &quot;ombi&quot; or humped cattle along a road. Back view of an adult male walking along road. Males wearing head-gear, and &quot;lamba&quot; or shawls.\nMedium: Gelatin print.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/merina/photo/merina/images/bm_EA_Af_A8_62.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "10973343800c3ec32caf6d877de58a24a25f0f406c4e1f80c350445d4401d58c",
+      "bytes": 81493,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\merina\\photo\\merina\\images\\bm_EA_Af_A8_62.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:27:40.200800+00:00"
+}

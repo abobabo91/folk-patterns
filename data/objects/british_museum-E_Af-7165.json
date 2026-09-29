@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-7165",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-7165",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-7165",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.7165",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Malawi",
+    "ethnicity": "Lomwe",
+    "tradition": "Lomwe",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A brass bangle with a wavy hammered ornament, plausible adornment attributed to the Lomwe by the museum with a clear \"Made by: Lomwe\" note; jewelry made and worn by the claimed people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "bangle; bracelet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bangle; bracelet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Slip catalogue:\r\nBrass bangle with longitudinal ornament of a sequence of pairs of semi-circles (hollowed) separated by a vertical raised bar. The execution of this ornament has given the outline of the bracelet a wavy appearance.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/malawi/lomwe/jewelry/lomwe/images/bm_E_Af_7165.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2a86d231db2c11a6db40a6fb6018107a1e1e628a160915a0252bf883c9635155",
+      "bytes": 42221,
+      "local_path": "library\\sub-saharan-africa\\malawi\\lomwe\\jewelry\\lomwe\\images\\bm_E_Af_7165.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:39:51.147673+00:00"
+}

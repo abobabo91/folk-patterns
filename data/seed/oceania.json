@@ -364,6 +364,52 @@
           }
         }
       ]
+    },
+    {
+      "country": "New Caledonia",
+      "met_queries": [
+        "New Caledonia"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Kanak",
+          "homeland": {
+            "lat": -20.57,
+            "lon": 164.28
+          },
+          "homeland_place": "Koné",
+          "traditions": [
+            "grande case",
+            "flèche faîtière",
+            "casse-tête",
+            "tapa",
+            "bougna",
+            "jade de Ouvéa",
+            "pilou"
+          ],
+          "arch_commons_categories": [
+            "Centre culturel Tjibaou",
+            "Kanak architecture",
+            "Grandes cases of New Caledonia",
+            "Traditional houses in New Caledonia"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Kanak",
+              "Canaque",
+              "New Caledonia",
+              "Nouvelle-Calédonie",
+              "Melanesian",
+              "Loyalty Islands",
+              "Ouvéa",
+              "Lifou",
+              "Houaïlou"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

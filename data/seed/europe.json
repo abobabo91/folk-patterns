@@ -145,6 +145,47 @@
           }
         }
       ]
+    },
+    {
+      "country": "Romania",
+      "met_queries": [
+        "Romania"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Csángó",
+          "homeland": {
+            "lat": 46.57,
+            "lon": 26.91
+          },
+          "homeland_place": "Bacău",
+          "traditions": [
+            "katrinca"
+          ],
+          "arch_commons_categories": [
+            "Ghimeș-Făget",
+            "Roman Catholic churches in Bacău County",
+            "Lespezi, Bacău",
+            "Frumoasa, Harghita",
+            "Lunca de Jos"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Csángó",
+              "Csango",
+              "Ceangăi",
+              "Moldavian Hungarian",
+              "Hungarian",
+              "Székely",
+              "Moldavia",
+              "Romania",
+              "Transylvania"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

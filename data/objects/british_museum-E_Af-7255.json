@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-7255",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-7255",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-7255",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.7255",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Malawi",
+    "ethnicity": "Lomwe",
+    "tradition": "Lomwe",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a knife with an iron blade and a short wooden handle, consistent with the museum's attribution to Lomwe makers; a plain utilitarian blade like this is plausible for the region and fits the claimed arms category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Knife with iron blade and short wooden handlee.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/malawi/lomwe/arms/lomwe/images/bm_E_Af_7255.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e8ba388f24a5be46ffd9899293c4dc03cc1e3b016e7eefc97b184d414ee5bb70",
+      "bytes": 23840,
+      "local_path": "library\\sub-saharan-africa\\malawi\\lomwe\\arms\\lomwe\\images\\bm_E_Af_7255.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:39:59.364468+00:00"
+}

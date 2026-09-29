@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-8349",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-8349",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-8349",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.8349",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Acholi",
+    "tradition": "Acholi",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an iron wrist-knife (coiled bracelet-knife) with a plain bracelet, a well-known Acholi/Nilotic weapon-ornament type consistent with the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "wrist-knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "wrist-knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wrist knife made of iron, sharpened on the edge and with a leather sheath.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/acholi/arms/acholi/images/bm_E_Af_8349.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "61beb083bc2d968d6323a20c1b1a18541dcd43ad23b886cfcedc803da785f1b5",
+      "bytes": 70056,
+      "local_path": "library\\sub-saharan-africa\\uganda\\acholi\\arms\\acholi\\images\\bm_E_Af_8349.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:27:14.691915+00:00"
+}

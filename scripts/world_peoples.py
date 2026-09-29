@@ -841,7 +841,8 @@ def _norm_group(g: str) -> str:
 
 
 def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
-    """Source labels that cannot establish an authentic maker attribution."""
+    """Source labels that cannot establish an authentic maker attribution, or
+    that mark human remains, which the atlas does not show."""
     expected = _norm_group(expected_bm_group) if expected_bm_group else ""
     allowed = {expected} | _BM_SUBGROUPS.get(expected, set())
     groups = {_norm_group(g) for g in d.get("production_ethnic_groups") or []}
@@ -857,6 +858,9 @@ def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
         return "style-only maker attribution"
     if o["source"] == "bm" and re.search(r"\b(?:fake|forgery)\b", d.get("title") or "", re.I):
         return "museum labels object a fake or forgery"
+    # Tiv beaded skull and Anga preserved head, 2026-09-28: the pick kept both
+    if o["source"] == "bm" and re.search(r"\bhuman remains\b", d.get("title") or "", re.I):
+        return "museum classes object as human remains"
     return ""
 
 

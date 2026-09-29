@@ -897,13 +897,6 @@
 "objects": 76
 },
 {
-"key": "Q55290",
-"name": "Catawba",
-"continent": "Americas",
-"country": "United States",
-"objects": 74
-},
-{
 "key": "Q766258",
 "name": "Gurunsi",
 "continent": "Africa",
@@ -2908,6 +2901,14 @@
 "country": "Dominican Republic",
 "objects": 154,
 "skip": "pick kept 0 of 35: the BM candidates are one archaeological collection of sherds, shell beads and stone celts (2026-09-28)"
+},
+{
+"key": "Q55290",
+"name": "Catawba",
+"continent": "Americas",
+"country": "United States",
+"objects": 74,
+"skip": "BM alias 'Issa' is the Somali Issa, not the Catawba (2026-09-28)"
 }
 ]
 }

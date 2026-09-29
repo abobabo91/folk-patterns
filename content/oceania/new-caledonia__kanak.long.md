@@ -1,0 +1,75 @@
+---
+title: "Kanak"
+subtitle: "New Caledonia"
+region: "Oceania"
+tags: [ethnography, oceania]
+---
+
+## Overview
+
+The Kanak are the indigenous Melanesian people of New Caledonia, a French overseas collectivity roughly 1,200 kilometres off the northeast coast of Australia. Of the territory's some 500 islands, five main ones are inhabited, among them the large island of Grande Terre and the Loyalty Islands, including Ouvéa; the capital is Nouméa. The 2019 census puts the Kanak at 41.2% of the territory's population, about 112,000 people. They speak a set of mutually unintelligible Austronesian languages of the New Caledonian branch of Oceanic — Glottolog counts 33 of them — with *Drehu* the most widely spoken. In folk-culture terms the Kanak matter for a sculptural tradition centred on the chief's house and its carved spire, for engraved bamboo that records village life, for jade and nephrite working, and for a ceremonial life built around clans and ancestors.
+
+## Material culture
+
+### Textile & pattern traditions
+
+The sources describe few woven textiles but several fibre-worked and beaten-bark traditions that carry pattern and meaning.
+
+**Tapa** — a bark cloth, often made from banyan, worked into small pieces and used to wrap Kanak bead money. A wooden barkcloth-beater in the British Museum has a triangular head with three long flat faces and carved geometric designs encircling the handle where head meets grip, showing that the tool for making the cloth was itself decorated.
+
+**Fibre and fur garment work** — women's garments in the collections are built from vegetable fibre and vegetable-fibre cord, sometimes combined with flying-fox fur. One woman's skirt is made from a plaited cord of flying-fox fur from which hangs a row of smaller cords of twisted vegetable fibre; another petticoat and skirt is of flaxen material dyed light red in parts. Flying-fox fur also appears in cordage and netting, as in a netted bag of vegetable fibre and flying-fox fur that held sixteen sling stones and carries a plant-fibre tassel.
+
+**Printed imported dress fabric** — the long, sewn dresses introduced by missionaries were made up in imported cloth: printed voile cotton from Singapore, with a red and yellow design of carvings and hibiscus flowers, red lace in a square at the neck and in three bands on the skirt; and stencilled, dyed voile cotton from China in orange and pink with a printed leaf pattern, a pink yoke and a double-frilled skirt trim. One example survives with a matching scarf and hair tie in yellow fabric with a pink and grey flower and geometric design.
+
+**Motif vocabulary.** Geometric patterns and stylised human faces (on Lapita pottery); pinhole-incised designs made with tooth combs (pottery handles and glazes); figures, flying foxes, fish, trees and a canoe (engraved bamboo); hibiscus flowers and leaf patterns (imported printed dress cloth).
+
+### Clothing & dress
+
+Nineteenth-century photographs in the British Museum show men in headbands of plant material, armbands, and aprons of plant material worn over cloth wraps at the waist, carrying wooden spears or axes; in other images men wear feathers in their hair, belts and loin coverings, and some wear hats. One studio portrait shows a man in headgear of plant material and feathers, a studded strap across shoulder and waist, a girdle and a penis sheath. Women in the same photographs wear grass skirts and necklaces; one holds a gourd in a woven carrier. Everyday wear after contact included cloth wraps around the waist for both men and women. Women's garments held in museums are of vegetable fibre and cord, sometimes with flying-fox fur, and include a skirt of plaited fur cord hung with twisted fibre cords. The long sewn dresses of imported printed cotton described above belong to the missionary period and are cut with yokes, frills, lace trim and, in one case, two cross-over strips at the back. Dancers paint themselves colourfully to please the watching ancestors and wear wooden masks made of bark, feathers and leaves.
+
+### Architecture
+
+The great house, the chief's hut known as the *grande case*, is the defining Kanak building. Photographs show it as a conical structure standing in forest clearings. Its apex carries the *flèche faîtière*, a spear-like carved spire that represents ancestral spirits and marks the transition between the world of the dead and the world of the living. The carving has three parts: a flat crowned face standing for the ancestor; a rounded pole run through by mounted conch shells, representing the ancestor's voice; and a base to which the pole is fixed, symbolising the link between clan and chief. Wooden pieces with sharp points facing downwards flank the central element to keep bad spirits from enveloping the ancestor. The spire normally ends in a needle so that threaded shells can be inserted from bottom to top. When a chief dies the spire is removed and taken to his family's home; though it could be used again as a mark of respect, it is usually kept at the burial grounds of noted people or on the mounds of abandoned great houses. Doorways were framed with carved wooden door-posts — one British Museum slab for the side of a hut doorway carries a face above — and with carved door boards, two of which are in the Metropolitan Museum. Because the spire stood for the chiefs' power over their subjects, it was adopted as the Kanak flag by the organisation leading the independence movement. Other buildings photographed include thatch-roofed houses.
+
+### Ceramics, metalwork & everyday objects
+
+Lapita pottery, dating to about 1000 BC, was essentially a women's craft, made from clay deposits found in the islands and decorated with geometric patterns and stylised human faces, with variation between northern and southern New Caledonian wares; handles and glazes carry pinhole-incised designs made with tooth combs. Stone rather than metal supplies the cutting edge: the museum objects include adze blades of polished stone, axe-heads of dark green and marbled green stone, and stone ceremonial axes of jade or serpentinite, polished smooth like a disc, which stood for a clan's strength and were used in warfare and at ancestor celebrations called *pilou*, their handle-ends embellished with stones and shells. Soapstone carving is also practised. Weapons include clubs of heavy brown wood — one cut in solid with a mushroom-shaped head and a projecting grip, another with a half-ovoid knobbed head — clubs carved with a phallic head, a bird's-beak club, and spears, some of them pointed at both ends and some made from niaouli wood for burning enemy houses. Household equipment in the collections includes a rush basket or sieve with a fibre carrying cord and a turtle-shell fish-hook. Engraved bamboo, in metre lengths dated between 1850 and 1920, was carried into a village or used in dance ceremonies; the cane was fired to give the engraved parts a black patina, and the designs show scenes of the *pilou* dance, agricultural motifs, and village life such as fishing or the building of a great house. The canes were also stuffed with magic herbs to ward off evil spirits. Canoes were hollowed from tree trunks, and large double-hulled outriggers with triangular sails, called *pirogues*, were used for fishing.
+
+### Jewelry & body adornment
+
+Jade and nephrite beadwork is the most striking documented ornament. One British Museum necklace, *meciwe*, is strung from 155 drilled jade beads with tassels of plaited flying-fox fur; another carries 180 carved and polished jade beads drilled and strung on two-ply twisted vegetable fibre; a third has 96 nephrite beads threaded on fibre string. Shell was worked into armlets, including one cut from a cone shell. Bamboo combs survive with fifteen and twenty-one teeth, the teeth blackened and the upper part incised — in one case in vertical lines — and another comb has a convex, partially carved face. Photographs record bracelets and rings on women, headbands, feathers worn in the hair, armbands and studded straps on men. A mourning mask combines a human face carved in wood with human hair bound on with vegetable fibres, bamboo and fibre plaited into the hair, and feathers fixed at the sides and back.
+
+## Music & performance
+
+Conch shells are blown by an appointed person to announce a clan chief's arrival or to stand for the voice of an ancestor. The rhythm instruments named in the sources are the *bwanjep*, played by a group of men during ceremonies; the jew's harp, called *wadohnu* in the Nengone language where it originated, made from a dried piece of coconut palm leaf held between the teeth with an attached segment of soft nerve leaf; the coconut-leaf whizzer, a piece of leaf on a string that is twirled to produce a sound like a humming bee; an oboe made of hollow grass stems or bamboo; an end-blown flute made from a 50 cm hollowed pawpaw leaf stem; bamboo stamping tubes struck vertically against the ground at major events; percussion of hitting sticks and palm sheaths; and leg rattles made of coconut leaves, shells and certain fruits. Music, dance and singing accompany ceremonial occasions including initiation, courting and mourning. A modern genre, *kaneka*, is associated with the Kanak — a form of reggae with added flutes, percussion and harmonies, often with political lyrics, sung in Drehu, Paicî or other Melanesian languages, or in French. Kanak groups such as Bethela made the first cassette recordings around 1975 or 1976.
+
+## Dance & theatre
+
+Dances are performed at Kanak gatherings to cement relationships within the clan and with the ancestors, and are cast as a message or a legend, often tied to daily activities or to events such as birth, marriage, circumcision or the death of a chief. Dancers paint themselves in bright colours for the ancestors watching over them and wear wooden masks of bark, feathers and leaves that give a physical link to the invisible world. The *pilou-pilou* is the distinctive Kanak dance form, recounting the stories of the clans; the name was given by early French missionaries. It involved stomping with bamboo tubes and the beating of bark-clappers, with hundreds of dancers singing in duets punctuated by shrieks and whistles. Because of the trance-like state the dancers reached, the form was banned, and the last reported performance was in 1951; it is now almost extinct. Welcome dances performed by groups are popular today, and dancers are trained in traditional forms in special workshops.
+
+## Festivals & rituals
+
+Ancestor celebrations are called *pilou*, and ceremonial stone axes of jade or serpentinite were used at them. Kanak gatherings bring clans together and their dances are addressed both to the living clan and to the ancestors. Life-cycle events named in the sources as occasions for dance are birth, marriage, circumcision and the death of a chief; music, dance and singing also mark initiation, courting and mourning. Mourning has its own masks, one of which combines carved wood with human hair and feathers. On a chief's death the carved spire is taken down from his great house and carried to his family's home, afterwards usually kept at the burial grounds of noted people or on the mounds of abandoned great houses. The Festival des Arts du Pacifique, the Festival of Pacific Arts, is held every four years. Ancestor worship was formerly embodied in the sepulchre, in sacred stones and in devotional hearths where sacrifices were offered.
+
+## Foodways
+
+*Bougna* is the Kanak casserole that many Kanak treat as a national dish. It is made from sliced root vegetables, which may include taro, manioc and yams, with coconut milk; pork, chicken or seafood can be used in the filling. The whole is wrapped in poingo banana leaves and cooked over hot stones in an earthen oven. Other ingredients in Kanak cooking include flying foxes and local deer. Marine foods are staples: lagoon and coral-reef fish, among them dawa, along with crabs and lobsters. Paita beans are locally grown haricots, and custard-apple, lime and saffron are further local ingredients. Traditional belief holds the sea sacred because it gives fish for food, and the unwritten laws expressed in Kanak folk stories govern its use — fishing is closed when stocks decline, and fishing rights in particular areas are strictly observed for local people.
+
+## Oral tradition & literature
+
+Kanak knowledge comes from an oral tradition and was passed on through poems, legends and stories. Parents and other relatives give children their oral history, using tickling and onomatopoeic noise to hold a child's attention. Folk stories carry the belief that the sea is sacred and function as strictly followed unwritten laws, particularly on environmental protection and conservation. Jean-Marie Tjibaou, the leader of the independence movement, wrote *La Présence Kanak*, and Susanna Ounei-Small, from Ouvéa, is another Kanak author. Tjibaou also helped establish the *Écoles populaires kanak*, which taught spiritual and practical knowledge through local Kanak languages alongside French and English classes. The Agency for the Development of Kanak Culture, proposed by Tjibaou, and the Jean-Marie Tjibaou Cultural Centre in Nouméa, formally established in May 1998, support this work.
+
+## Language & religion
+
+Kanak languages belong to the New Caledonian subgroup of Oceanic within the Austronesian family; the one exception is Fagauvea, a Polynesian language spoken on Ouvéa in the Loyalty Islands. They diversified far enough to become mutually unintelligible. The northern group comprises twelve languages: Caac, Cemuhî, Fwâi, Jawe, Kumak, Nemi, Paicî, Pije, Pwaamei, Pwapwa, Yalayu and Yuaga. Five languages have developed lexical tones — Cèmuhî and Paicî in the north, and Drubea, Numèè and Kwenyii in the Far South. Most are used only in spoken form; about 60,000 residents speak at least one, and French is the official language and lingua franca. The Kanak Language Academy was a provision of the Nouméa Accord. Most Kanak are Christians: they make up nearly half of New Caledonia's Catholics and the majority of its Protestants, while some follow traditional beliefs.
+
+## Sources & further reading
+
+- Wikipedia, "Kanak people" — https://en.wikipedia.org/wiki/Kanak_people
+- Wikipedia, "Kanak cuisine" — https://en.wikipedia.org/wiki/Kanak_cuisine
+- Agency for the Development of Kanak Culture (ADCK) and the Jean-Marie Tjibaou Cultural Centre, Nouméa
+- Jean-Marie Tjibaou, *La Présence Kanak*
+- The British Museum online collection — https://www.britishmuseum.org/collection (New Caledonia: clubs, stone axes and adzes, engraved bamboo, jade and nephrite bead necklaces, bamboo combs, barkcloth-beater, mourning mask, dress, nineteenth-century photographs)
+- The Metropolitan Museum of Art online collection — https://www.metmuseum.org/art/collection (door boards, *jovo*; engraved bamboo container, *kare u ta*)
+- Smithsonian Folkways search — https://folkways.si.edu/search?query=New+Caledonia
+- No UNESCO Intangible Cultural Heritage elements are inscribed for New Caledonia.

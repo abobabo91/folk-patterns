@@ -396,6 +396,27 @@ matches; use `.cache/MetObjects.csv` instead.
 | Nivkh | 47 | 47 | 5 of 6 | four more records reusing one belt-set photo, five other exact photo repeats; a food photo (Commons) |
 | Tiwi | 47 | 47 | 2 of 3 | a memorial service (Commons) |
 | Palauans | 43 | 43 | 2 of 3 | a lid record reusing the vessel photo; an unidentified photo (Commons) |
+| Acholi | 38 | 38 | 4 of 12 | repeated harp close-ups and one maker at work, a stage event (Commons) |
+| Q'eqchi' | 28 | 23 | 0 of 5 | five more thin figure strips repeating one kept; huipils and a loom captioned only as Guatemalan or Tzotzil (Commons) |
+| Kwakwaka'wakw | 17 | 17 | 4 of 8 | Tsimshian and Chilkat pieces (Commons) |
+| Anga | 46 | 42 | none found | a preserved human head, an object in a plastic bag |
+| Crow | 27 | 27 | 7 of 8 | prisoners under guard (Commons) |
+| Huastec | 31 | 30 | 4 of 4 | a sheath record reusing the machete photo |
+| Khanty | 43 | 40 | 8 of 11 | three more records reusing one belt-set photo, a needle reusing the needle-case photo; a souvenir stall and mixed Mansi/Nenets displays (Commons) |
+| Dan | 32 | 30 | 5 of 12 | dances, cooking and repeated costume photos (Commons) |
+| Csángó | 23 | 23 | 2 of 2 | none |
+| Temiar | 26 | 26 | 3 of 4 | a sports race (Commons) |
+| Vezo | 21 | 20 | 2 of 6 | a factory-style knife; aloalo posts not captioned as Vezo, a generic Malagasy photo (Commons) |
+| Merina | 37 | 35 | 1 of 10 | a street scene, a repeated market scene, a portrait in Western clothes; valiha and concert photos not captioned as Merina, royal portraits (Commons) |
+| Chumash | 20 | 19 | 7 of 9 | a pair of ear-rings photographed twice; a museum replica, a fish-and-game report (Commons) |
+| Lomwe | 29 | 28 | none found | a cord record reusing the pan-pipes photo |
+| Shilluk | 33 | 33 | 5 of 7 | a repeated pipe, a town view (Commons) |
+| Kanak | 43 | 43 | 10 of 12 | a second print of one village photo, a portrait in a Western suit; cultural-centre interiors (Commons) |
+| Berom | 28 | 26 | 2 of 3 | a sheath record reusing the sword photo, a photo of two seated boys; a baptism (Commons) |
+| Gurunsi | 25 | 25 | 9 of 12 | a quiver in a plastic bag; repeats and an unattributed door (Commons) |
+| Moru | 15 | 15 | 0 of 1 | a hospital photo (Commons) |
+| Lahu | 24 | 23 | 4 of 5 | an arrow record reusing the quiver photo; a fair-trade advert (Commons) |
+| Antemoro | 14 | 14 | 2 of 11 | valiha, concerts and repeats not captioned as Antemoro (Commons) |
 
 Mangyan is the collective name of the Mindoro peoples, and the British Museum
 records its objects under the member groups: all 376 candidates were Hanunóo
@@ -425,6 +446,18 @@ atlas's first culture from Russia and sits in east_asia (Amur and Sakhalin).
 Several British Museum records reuse the photograph of another part of the same
 set. From this batch on, each contact sheet is also compared cell by cell for
 pixel-identical images before loading.
+
+The atlas does not show human remains. Anga's pick kept a preserved human head,
+and a Tiv beaded skull (British Museum E_Af1932-0516-1) had been published
+since the Tiv scrape; the skull is now marked `vision_vetted: false` and the
+head is excluded. The pick drops any British Museum record whose title says
+"human remains". Masalit (2 kept), Obolo (8) and Chorotí (0) were picked but
+not loaded: Chorotí's British Museum records are all attributed to more than
+one people. Catawba is skipped in the queue because its British Museum alias
+"Issa" is the Somali Issa. The queue's Wikidata country is replaced where it
+is wrong for the people: Kanak are filed under New Caledonia (not France) and
+Dan under Côte d'Ivoire / Liberia (not Guinea). Khanty sits with Nivkh under
+east_asia / Russia.
 
 Every seed's tradition chips were pruned to the ones the sources contain.
 Between 11 and 16 were dropped per culture, for example 16 Shona chips such as
@@ -572,15 +605,15 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 9,623/9,623
-library records judged, 8,723 accepted and 900 dropped. The site index has
-8,625 objects in 151 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 9,623 images. Selected Armenian,
+**Current coverage (2026-09-28):** `scripts/_vet_status.py` reports 10,205/10,205
+library records judged, 9,303 accepted and 902 dropped. The site index has
+9,201 objects in 172 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 10,205 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
 and all later cultures from picks (see the table above) were also checked
-against contact sheets and catalogues. Commons: 574 published, 333 rejected by
-the editorial check, 776 rejected by the model, none waiting.
+against contact sheets and catalogues. Commons: 653 published, 396 rejected by
+the editorial check, 844 rejected by the model, none waiting.
 The index excludes two images marked unusable. A weak
 image may still show a useful object, so it is not automatically rejected.
 

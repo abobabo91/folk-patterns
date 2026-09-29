@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-A57-112",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-A57-112",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A57-112",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.A57.112",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Anga",
+    "tradition": "Anga",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo shows a compound of mud-relief-walled, thatched granaries/houses with an adult and child in traditional dress, consistent with a documentary photo of Anga (Nigeria) daily life and vernacular architecture; nothing contradicts the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Nigeria, scene inside a compound. Group of circular, thatched-roof buildings, including granaries [?], some with mud relief patterns on walls. Male adult and child sitting in doorway at right. Adult wearing loin-cloth, holding animal [young goat?]. Child wearing neck-ornament, holding stick.\nMedium: Gelatin silver print.\nFormat: One of four prints mounted on album page.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/anga/photo/anga/images/bm_EA_Af_A57_112.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "52cb6554b39c7bc78634217d337a3f23a56db6519999a0bf7f2e66eedb68c01c",
+      "bytes": 62743,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\anga\\photo\\anga\\images\\bm_EA_Af_A57_112.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:42:35.698525+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1913-1115-369",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1913-1115-369",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1913-1115-369",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1913.1115.369",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Caledonia",
+    "ethnicity": "Kanak",
+    "tradition": "Kanak",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows an engraved bamboo cylinder with figural motifs (humans, animals), a classic Kanak engraved bamboo container/staff form from New Caledonia, matching the museum's own attribution to Kanak makers.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "container (?); staff",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "container (?); staff",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Engraved bamboo, cylindrical and open at one end and closed by a node at the bottom. Depictions include several figures, flying foxes, fish, trees, and a canoe.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-caledonia/kanak/household/kanak/images/bm_E_Oc1913_1115_369.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1914de0673ade9dd7427a579b776eb8978ef4ce1ee6f5a9aefc2490f084656fc",
+      "bytes": 36299,
+      "local_path": "library\\oceania\\new-caledonia\\kanak\\household\\kanak\\images\\bm_E_Oc1913_1115_369.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:49:59.575423+00:00"
+}

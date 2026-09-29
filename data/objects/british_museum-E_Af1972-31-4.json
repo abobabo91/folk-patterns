@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1972-31-4",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1972-31-4",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-31-4",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1972.31.4",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Côte d'Ivoire / Liberia",
+    "ethnicity": "Dan",
+    "tradition": "Dan",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a small wooden miniature mask carved in the classic smooth, oval Dan face style with narrow eye slits and a projecting mouth, consistent with Dan miniature \"passport\" masks used as personal amulets. It matches the claimed Dan attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "mask; model",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mask; model",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Miniature wooden mask in the form of a human face",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/cote-d-ivoire-liberia/dan/masks-ritual/dan/images/bm_E_Af1972_31_4.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f214e9171b85130f2c01506db0ff1554d080fde2637f3f7177ca50154f73590f",
+      "bytes": 42065,
+      "local_path": "library\\sub-saharan-africa\\cote-d-ivoire-liberia\\dan\\masks-ritual\\dan\\images\\bm_E_Af1972_31_4.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:06:53.144529+00:00"
+}

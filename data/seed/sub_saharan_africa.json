@@ -584,6 +584,56 @@
               "New Calabar"
             ]
           }
+        },
+        {
+          "name": "Anga",
+          "homeland": {
+            "lat": 9.33,
+            "lon": 9.43
+          },
+          "homeland_place": "Pankshin",
+          "traditions": [
+            "Pankshin coiled pottery"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Anga",
+              "Ngas",
+              "Angas",
+              "Karang",
+              "Jos Plateau",
+              "Pankshin",
+              "Nigeria"
+            ]
+          }
+        },
+        {
+          "name": "Berom",
+          "homeland": {
+            "lat": 9.72,
+            "lon": 8.82
+          },
+          "homeland_place": "Jos",
+          "traditions": [
+            "nzem berom",
+            "gyang",
+            "kwi",
+            "rwei",
+            "mado"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Berom",
+              "Birom",
+              "Birom people",
+              "Berom people",
+              "Jos Plateau",
+              "Plateau State",
+              "Nigeria"
+            ]
+          }
         }
       ]
     },
@@ -758,6 +808,39 @@
               "Fantse",
               "Mfantse",
               "Mfantsefo"
+            ]
+          }
+        },
+        {
+          "name": "Gurunsi",
+          "homeland": {
+            "lat": 10.72,
+            "lon": -1.09
+          },
+          "homeland_place": "Navrongo",
+          "traditions": [],
+          "arch_commons_categories": [
+            "Tiébélé",
+            "Kassena architecture",
+            "Sirigu",
+            "Navrongo",
+            "Navrongo Catholic Cathedral",
+            "Vernacular architecture of Burkina Faso"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Gurunsi",
+              "Grunshi",
+              "Gurensi",
+              "Kassena",
+              "Nankani",
+              "Nuna",
+              "Winiama",
+              "Lela",
+              "Frafra",
+              "Upper East Region",
+              "Ghana",
+              "Burkina Faso"
             ]
           }
         }
@@ -2420,6 +2503,55 @@
               "Sudan"
             ]
           }
+        },
+        {
+          "name": "Shilluk",
+          "homeland": {
+            "lat": 9.89,
+            "lon": 31.66
+          },
+          "homeland_place": "Malakal",
+          "traditions": [
+            "giraffe hair ring"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Shilluk",
+              "Chollo",
+              "Collo",
+              "Shilluk Kingdom",
+              "Fashoda",
+              "Malakal",
+              "Upper Nile",
+              "South Sudan",
+              "Sudan"
+            ]
+          }
+        },
+        {
+          "name": "Moru",
+          "homeland": {
+            "lat": 4.77,
+            "lon": 30.65
+          },
+          "homeland_place": "Mundri",
+          "traditions": [
+            "kudi"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Moru",
+              "Moru-Madi",
+              "Miza",
+              "Kediro",
+              "Kozi",
+              "Mundri",
+              "South Sudan",
+              "Sudan"
+            ]
+          }
         }
       ]
     },
@@ -2856,6 +2988,191 @@
               "Ankole",
               "Ankola",
               "Uganda"
+            ]
+          }
+        },
+        {
+          "name": "Acholi",
+          "homeland": {
+            "lat": 2.77,
+            "lon": 32.3
+          },
+          "homeland_place": "Gulu",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Acholi",
+              "Acoli",
+              "Atscholi",
+              "Shuli",
+              "Gang",
+              "Lango",
+              "Uganda",
+              "Nilotic"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Côte d'Ivoire / Liberia",
+      "met_queries": [
+        "Côte d'Ivoire / Liberia"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Dan",
+          "homeland": {
+            "lat": 7.41,
+            "lon": -7.55
+          },
+          "homeland_place": "Man",
+          "traditions": [
+            "gle mask",
+            "wunkirle spoon",
+            "wakemia ladle",
+            "brass anklet",
+            "cire perdue brass casting"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Dan",
+              "Dan peoples",
+              "Yacouba",
+              "Yakuba",
+              "Gio",
+              "Gyo",
+              "Ivory Coast",
+              "Côte d'Ivoire",
+              "Liberia"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Madagascar",
+      "met_queries": [
+        "Madagascar"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Vezo",
+          "homeland": {
+            "lat": -23.35,
+            "lon": 43.67
+          },
+          "homeland_place": "Toliara",
+          "traditions": [
+            "lakana"
+          ],
+          "arch_commons_categories": [
+            "Aloalo",
+            "Tombs in Madagascar",
+            "Toliara"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Vezo",
+              "Sakalava",
+              "Malagasy",
+              "Madagascar",
+              "Tulear",
+              "Toliara",
+              "Mahafaly"
+            ]
+          }
+        },
+        {
+          "name": "Merina",
+          "homeland": {
+            "lat": -18.91,
+            "lon": 47.53
+          },
+          "homeland_place": "Antananarivo",
+          "traditions": [
+            "lamba",
+            "lamba akotofahana",
+            "akotofahana brocade"
+          ],
+          "arch_commons_categories": [
+            "Rova of Antananarivo",
+            "Ambohimanga",
+            "Manjakamiadana",
+            "Andafiavaratra Palace",
+            "Tranovola",
+            "Ilafy"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Merina",
+              "Hova",
+              "Madagascar",
+              "Malagasy",
+              "Antananarivo",
+              "Imerina"
+            ]
+          }
+        },
+        {
+          "name": "Antemoro",
+          "homeland": {
+            "lat": -22.15,
+            "lon": 47.82
+          },
+          "homeland_place": "Manakara",
+          "traditions": [
+            "antaimoro paper",
+            "sorabe",
+            "katibo",
+            "lamba"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Antemoro",
+              "Antaimoro",
+              "Antaimorona",
+              "Anteimoro",
+              "Malagasy",
+              "Madagascar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Malawi",
+      "met_queries": [
+        "Malawi"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Lomwe",
+          "homeland": {
+            "lat": -15.65,
+            "lon": 35.55
+          },
+          "homeland_place": "Mulanje",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Lomwe",
+              "Alomwe",
+              "Nguru",
+              "Anguru",
+              "Malawi",
+              "Nyasaland",
+              "Mozambique"
             ]
           }
         }

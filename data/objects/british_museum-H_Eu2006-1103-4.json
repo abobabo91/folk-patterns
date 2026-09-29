@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-H_Eu2006-1103-4",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "H_Eu2006-1103-4",
+    "object_url": "https://www.britishmuseum.org/collection/object/H_Eu2006-1103-4",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "H,Eu2006.1103.4",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "Romania",
+    "ethnicity": "Csángó",
+    "tradition": "Csángó",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows handwoven cotton summer trousers with a drawstring waist, consistent with the museum's description and attributed to Southern Csángó donor information, a garment type traditionally worn by this Hungarian-speaking ethnic group in Romania.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "trousers",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "trousers",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A pair of man&#039;s summer trousers.  Made of tabby woven cotton cloth; hand woven.  Two full width panels form the legs [42 cm approx].  A large, roughly diamond-shaped piece of fabric folded in two forms the crutch.  The top of the trousers are formed into a tube, through which is threaded a white cotton cord.  Machine stitched.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/romania/csango/garment/csango/images/bm_H_Eu2006_1103_4.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "66795b0b57989c125eb4ccaa82e6d0f5593ba0f554fc9aa62c5fb5dd507bd163",
+      "bytes": 37850,
+      "local_path": "library\\europe\\romania\\csango\\garment\\csango\\images\\bm_H_Eu2006_1103_4.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:13:23.453335+00:00"
+}

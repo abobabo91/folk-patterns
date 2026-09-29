@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1984-14-461",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1984-14-461",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1984-14-461",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1984.14.461",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Vezo",
+    "tradition": "Vezo",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a wooden model of an ancestor's house with a corrugated metal roof, explicitly made by the Vezo people, representing traditional Malagasy vernacular architecture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "model building/structure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "model building/structure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Model of ancestor&#039;s house, made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/vezo/architectural/vezo/images/bm_E_Af1984_14_461.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fe854016ab303c9e1a5e33a65710bd455344805ac8982d639f273a1306fc7411",
+      "bytes": 53580,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\vezo\\architectural\\vezo\\images\\bm_E_Af1984_14_461.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:22:28.382867+00:00"
+}

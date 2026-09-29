@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-7216",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-7216",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-7216",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.7216",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Malawi",
+    "ethnicity": "Lomwe",
+    "tradition": "Lomwe",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a bamboo flute with three holes and incised zig-zag/herringbone decorative bands, matching the museum's description and attribution to Lomwe makers — a plausible traditional instrument type for the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "flute; musical instrument",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "flute; musical instrument",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Slip catalogue:\r\nFlute formed of a complete joint of bamboo closed at both ends. It has three holes, two near one end and the third near the other, ornamented by four compartments of diagonal zig-zag in the natural bark, the background (cut away) being brown. These compartments are separated by bands of the natural bark ornamented by incised herringbone and zig-zag pattern.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/malawi/lomwe/instruments/lomwe/images/bm_E_Af_7216.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "694c7a137c0c2b0b9b850aaf5fd9c83bfdbbdc1e957ac620f9c021ac7d3dfb28",
+      "bytes": 108255,
+      "local_path": "library\\sub-saharan-africa\\malawi\\lomwe\\instruments\\lomwe\\images\\bm_E_Af_7216.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:39:55.755419+00:00"
+}

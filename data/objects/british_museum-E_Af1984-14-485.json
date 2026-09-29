@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1984-14-485",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1984-14-485",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1984-14-485",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1984.14.485",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Vezo",
+    "tradition": "Vezo",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows two wooden model outrigger canoes with outrigger booms and a separate paddle/pole, matching the Vezo people's well-known fishing and seafaring canoe culture in Madagascar.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "model; canoe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "model; canoe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Model outrigger canoe made of wood, thread (nylon, rubber).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/vezo/household/vezo/images/bm_E_Af1984_14_485.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0af3b72bd7bc9b93a8da677c924f0b9a981084278251b41fd3d13163698e7efe",
+      "bytes": 49007,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\vezo\\household\\vezo\\images\\bm_E_Af1984_14_485.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:22:24.971093+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1902-0714-67-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1902-0714-67-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1902-0714-67-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1902.0714.67.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Acholi",
+    "tradition": "Acholi",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows three simple iron/metal wire bracelets, consistent with the type of jewelry made and worn by the Acholi people of Uganda; the museum attributes them directly to the Acholi.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "bracelet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bracelet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bracelet made of wire (iron).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/acholi/jewelry/acholi/images/bm_E_Af1902_0714_67_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "0cdf268f1edf0db3f819b65986be8c7495efa71f067a7721866a60bdcd317ab6",
+      "bytes": 60811,
+      "local_path": "library\\sub-saharan-africa\\uganda\\acholi\\jewelry\\acholi\\images\\bm_E_Af1902_0714_67_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:27:19.362970+00:00"
+}

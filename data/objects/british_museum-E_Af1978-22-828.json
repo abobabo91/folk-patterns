@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1978-22-828",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1978-22-828",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1978-22-828",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1978.22.828",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ghana",
+    "ethnicity": "Gurunsi",
+    "tradition": "Gurunsi",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a large carved wooden bull/buffalo mask with horns, mirror eyes, and painted face, a type of ritual mask consistent with Gurunsi (Grusi) masking traditions of Ghana/Burkina Faso; the museum explicitly attributes it to \"Grusi\" makers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "mask",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mask",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Large wooden carved ?bull mask; consisting of tall yellow painted horns, black face with red and white painted lines, open snout with white teeth. Mirror for eyes (right eye missing), mirrors bordered with metal plates at each side of jaw.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/gurunsi/masks-ritual/gurunsi/images/bm_E_Af1978_22_828.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e5603c1a7c95eda9c678dc8f6a858ff3636438ec1c7922b4c2de26308846dcaa",
+      "bytes": 59230,
+      "local_path": "library\\sub-saharan-africa\\ghana\\gurunsi\\masks-ritual\\gurunsi\\images\\bm_E_Af1978_22_828.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T03:03:37.112863+00:00"
+}

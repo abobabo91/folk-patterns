@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-H_Eu2006-1103-32",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "H_Eu2006-1103-32",
+    "object_url": "https://www.britishmuseum.org/collection/object/H_Eu2006-1103-32",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "H,Eu2006.1103.32",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "Romania",
+    "ethnicity": "Csángó",
+    "tradition": "Csángó",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a long woven striped belt (öv) with red, blue, yellow, and green bands and fringed ends, matching the museum's attribution to Southern Csángó donors and consistent with traditional Csángó men's dress.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "belt",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "belt",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A man&#039;s wide belt, an &#039;öv&#039;.  Comprising four red stripes and three groups of blue, yellow and green stripes.  (The stripes also include some cream, pink and grey.)  Twill woven, with a herringbone pattern, using a mixture of wool and cotton yarns.  There are three narrow bands towards each warp end.  The warp ends are unfinished.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/romania/csango/garment/csango/images/bm_H_Eu2006_1103_32.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "62f768590167817a6fae103e55ed20b0bffb302f6c032e875e5d47ef1f0a862d",
+      "bytes": 39287,
+      "local_path": "library\\europe\\romania\\csango\\garment\\csango\\images\\bm_H_Eu2006_1103_32.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:13:24.087293+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-H_Eu1996-11-14",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "H_Eu1996-11-14",
+    "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1996-11-14",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "H,Eu1996.11.14",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "Romania",
+    "ethnicity": "Csángó",
+    "tradition": "Csángó",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a long, brightly striped and diamond-patterned woven textile explicitly attributed to Csángó manufacture, consistent with domestic weaving traditions of this Hungarian-speaking minority in Romania. The claimed category (textile) matches what is shown.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "cloth",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "cloth",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "A long, rectangular cloth, for a domestic interior.  Very brightly patterned bands (twill woven), alternating with solid purple ones.  [Thin green wool (with synthetic) warp; weft yarns are knitting rather than weaving yarn, giving a very soft handle.] Coloured bands have large diamond patterning; repeated in sequence along the cloth, using white and tones of pink, yellow, green, blue and red and thin silver-coloured plastic (?) tinsel thread.  Simple knot at fell edge.  Unused.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/romania/csango/textile/csango/images/bm_H_Eu1996_11_14.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c981e7b321ea685f19ba661831e93a78648fbfa6e048b69592096c8d9d8774db",
+      "bytes": 62654,
+      "local_path": "library\\europe\\romania\\csango\\textile\\csango\\images\\bm_H_Eu1996_11_14.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:13:14.138115+00:00"
+}

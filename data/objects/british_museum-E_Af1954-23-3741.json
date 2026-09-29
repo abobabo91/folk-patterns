@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-3741",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-3741",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-3741",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.3741",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Acholi",
+    "tradition": "Acholi",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a traditional bow harp with an arched wooden neck, leather-covered triangular sound-box, and gut strings, matching the museum's attribution to Acholi makers. This is a well-documented instrument type associated with Acholi and neighboring Nilotic groups in Uganda.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "bow harp",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bow harp",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bow harp with an arched wood neck with six peg-holes and five remaining pegs. Roughly triangular sound-box is made of leather stretched around a wooden frame. Two circular sound-holes cut into upper and lower corners of sound-box. Four gut ? strings, one coloured red, attached to wood rod which is fixed under surface of sound-box. Fifth string is broken.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/acholi/instruments/acholi/images/bm_E_Af1954_23_3741.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6d6bbc0100db2f81e883b0e68cbaddc4299c547ac7f0babe456ec7e415ca700d",
+      "bytes": 48715,
+      "local_path": "library\\sub-saharan-africa\\uganda\\acholi\\instruments\\acholi\\images\\bm_E_Af1954_23_3741.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:27:27.796547+00:00"
+}

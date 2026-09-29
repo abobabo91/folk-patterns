@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-A57-19",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-A57-19",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A57-19",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.A57.19",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Berom",
+    "tradition": "Berom",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The photo shows a Birom (Berom) woman displaying traditional body ornamentation—nose ornament, neck ornaments, ear ornament, wrist bracelets, and shaved circular hairstyle—matching a documentary ethnographic photo of dress/adornment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Picture of a Birom woman. Wearing wrist-ornaments, neck-ornaments, ear-ornaments, nose-ornament. Hair shaved into circular style. Outdoor setting.\nMedium: Gelatin silver print.\nFormat: One of four prints mounted on album page.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/berom/photo/berom/images/bm_EA_Af_A57_19.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "99f9ec9c6484183c51eff7b52c56f0570f8cd3d113f9cd345d54b6295bc5076c",
+      "bytes": 14952,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\berom\\photo\\berom\\images\\bm_EA_Af_A57_19.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T02:57:42.696717+00:00"
+}

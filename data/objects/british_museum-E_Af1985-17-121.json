@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1985-17-121",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1985-17-121",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1985-17-121",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1985.17.121",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Antemoro",
+    "tradition": "Antemoro",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "A woven vegetable-fibre sleeping mat with dyed diamond/plaid patterning, a well-known Antaimoro/Antemoro craft product of Madagascar, matching the museum's attribution to the Antaimoro.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "mat",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "mat",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sleeping mat made of fibre (vegetable).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/antemoro/textile/antemoro/images/bm_E_Af1985_17_121.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ea870edfd77fc3170e52b0b49b29a000c598b7d1a2354381e3183a6489efd3bd",
+      "bytes": 81237,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\antemoro\\textile\\antemoro\\images\\bm_E_Af1985_17_121.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T03:18:14.811589+00:00"
+}

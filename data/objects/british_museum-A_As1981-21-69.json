@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1981-21-69",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1981-21-69",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1981-21-69",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1981.21.69",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Lahu",
+    "tradition": "Lahu",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a woven red cloth wall-hanging with cross-stitch style embroidered elephant motif, mounted on a bamboo rod with braided cord and tassels — a typical textile handicraft form attributed to the Lahu, consistent with the museum's stated production attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "wall-hanging",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "wall-hanging",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wall hanging made of cloth, bamboo.  Image of an elephant.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/lahu/textile/lahu/images/bm_A_As1981_21_69.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1ec2b8a0a80d87dec54e359dbafa344c1883417606cc02d88d34346d15e83888",
+      "bytes": 43665,
+      "local_path": "library\\southeast-asia\\myanmar\\lahu\\textile\\lahu\\images\\bm_A_As1981_21_69.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T03:13:19.137105+00:00"
+}

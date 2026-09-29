@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1988-08-258",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1988-08-258",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1988-08-258",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1988.08.258",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Mexico",
+    "ethnicity": "Huastec",
+    "tradition": "Huastec",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image clearly shows a coiled palm-fibre basket with lid and handle, consistent with Huastec basketry craft as attributed by the museum.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "basket",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "basket",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Basket; woven from palm fibre using coiling technique with binder to create open mesh; rectangular base; stiff vertical sides; rectangular lid attached with palm fibre hinges along long side; looped handle attached through open-knotting on top of lid.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/huastec/household/huastec/images/bm_E_Am1988_08_258.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6213a5e6193796bea4af91ceb5daa98f47fb806130dcbfd8c83d7ade4f11cc99",
+      "bytes": 87816,
+      "local_path": "library\\latin-america\\mexico\\huastec\\household\\huastec\\images\\bm_E_Am1988_08_258.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-29T01:55:32.499681+00:00"
+}
