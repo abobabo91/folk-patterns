@@ -98,6 +98,10 @@ No environment variables, secrets or setup script: `cloud_vet_batch.py` is stand
 
 `media.britishmuseum.org` serves its certificate without the intermediate (Corporation Service Company RSA OV SSL CA). Browsers and Windows fetch it through AIA; Python in the cloud sandbox does not, and `crt.sectigo.com` is not reachable from there, so every British Museum download failed `CERTIFICATE_VERIFY_FAILED` in the pilot's first fetch (30 of 117). The intermediate is committed at `scripts/certs/extra-intermediates.pem` and added to the default trust store by `fetch`; verified 2026-09-24 against certifi's roots alone (fails without the file, downloads with it). Another host with the same fault gets its intermediate appended to that file.
 
+## Starting a cloud session
+
+Two routes do not work (2026-09-29): `claude --cloud "<prompt>"` from a script or from Claude Code's shell exits with "--cloud requires an interactive terminal" (winpty from Git Bash fails too: "stdin is not a tty"); and an Agent-tool subagent with `isolation: remote` runs on the plan's usage, not on cloud credit — batch p001 in one ran into the 5-hour session limit during `fetch`, pushed nothing, and the credit stayed at $78.07 used. Start the session from claude.ai/code (or `claude --cloud` in a real terminal) with the prompt below.
+
 ## Procedure for the cloud session
 
 Start the session with the main model on the lowest effort — it only runs scripts. A new session can open in plan mode; the prompt says not to plan. The prompt is: *"Do not plan; execute directly. Follow docs/cloud-vetting.md, section 'Procedure for the cloud session', for batch `<batch>`."* The session then does:
