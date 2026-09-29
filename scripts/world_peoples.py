@@ -15,6 +15,8 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py candidates   # -> data/world/candidates.jsonl: objects per category, one culture per object
     python scripts/world_peoples.py pick --only Haida Tiv   # vetted, ranked objects per category -> data/world/picks/ (needs BM_CDP_URL)
     python scripts/world_peoples.py pick --only ... --shard 0/3   # + 1/3, 2/3 in two more processes
+    python scripts/world_peoples.py pick --cached-only --export-batch p001 --only ...   # cloud batch of what needs judging
+    python scripts/world_peoples.py pick-import --batch p001   # cloud verdicts -> pick cache; then pick --no-judge
     python scripts/world_peoples.py coverage [--only ...]   # per candidate: kept, judged, dropped by rule (why), never reached
 
 The universe is Wikidata: every item that is an instance of "ethnic group"
@@ -33,6 +35,7 @@ from __future__ import annotations
 
 import argparse
 import glob
+import hashlib
 import json
 import re
 import sys
@@ -834,7 +837,49 @@ _BM_SUBGROUPS = {"mangyan": {"hanunóo", "hanunoo", "buid", "buhid", "iraya", "a
                              "tadyawan", "tau-buid", "bangon", "ratagnon"},
                  "luyia": {"bukusu", "maragoli", "logoli", "idakho", "isukha", "kabras", "marama",
                            "wanga", "nyala", "tachoni", "samia", "nyole", "banyore", "marachi",
-                           "kisa", "tsotso", "khayo"}}
+                           "kisa", "tsotso", "khayo"},
+                 # 2026-09-29 coverage replay: "multiple peoples" drops whose second
+                 # BM group is a spelling, a subgroup or a parent of the same people
+                 # (docs/vetting.md -> "Pick coverage").
+                 "chorote": {"choroti"},
+                 "kalabari": {"ijo"},
+                 "mohawk": {"iroquois"},
+                 "konyak": {"naga"},
+                 "fante": {"akan"},
+                 "merina": {"malagasy"},
+                 "hopi": {"moqui", "moki"},
+                 "innu": {"montagnais"},
+                 "arhuaco": {"bintukua"},
+                 "nyamwezi": {"unyamwezi", "uniamezi"},
+                 "inuit": {"labrador inuit", "canadian inuit", "iglulik", "inglulik", "iglulingmiut", "itivimiut"},
+                 "tlingit": {"tlinkit", "chilkat", "sitka", "stikeen", "yakutat", "yuketat"},
+                 "nuu-chah-nulth": {"hesquiaht", "moachat", "ahousaht", "clayoquot", "toquaht", "tseshaht"},
+                 "kwakwaka'wakw": {"koskimo"},
+                 "dinka": {"tuich", "agar"},
+                 "moru": {"moru miza"},
+                 "lahu": {"lahu na", "lahu shi", "lahu nyi"},
+                 "shona": {"karanga", "korekore"},
+                 "banyankole": {"bahima"},
+                 "naga": {"angami", "ao", "chang", "zemi", "kalyo-kengyu"}}
+
+# BM production groups that name a region or a language family, not a people,
+# with the peoples each one covers: beside one of those it is ignored; beside
+# anyone else it stays a second group (Chukchi are not Eskimo-Aleut, Luo not
+# Bantu). A region alone names no maker.
+_NWC = {"haida", "tlingit", "kwakwaka'wakw", "nuu-chah-nulth", "tsimshian"}
+_BM_UMBRELLAS = {"northwest coast": _NWC, "northwest coast peoples": _NWC,
+                 "southwest": {"hopi", "navajo"}, "puebloan": {"hopi"},
+                 "northeast": {"micmac", "mohawk", "innu", "winnebago"},
+                 "plains": {"winnebago", "pawnee", "osage", "crow", "lakota", "cheyenne"},
+                 "arctic": {"inuit", "yupik", "inupiat", "chukchi"},
+                 "arctic peoples": {"inuit", "yupik", "inupiat", "chukchi"},
+                 "eskimo-aleut": {"inuit", "yupik", "inupiat", "cup'ig"},
+                 "algonquian": {"micmac", "innu"}, "cariban": {"akawaio"}, "chuncho": {"campa"},
+                 "east asian": {"shan"}, "aboriginal australian": {"tiwi"}, "dayak": {"kelabit"}}
+
+
+def _umbrella(g: str, expected: str) -> bool:
+    return expected in _BM_UMBRELLAS.get(re.sub(r"\s*\(.*$", "", g), set())
 
 
 def _norm_group(g: str) -> str:
@@ -846,7 +891,10 @@ def _source_exclusion(o: dict, d: dict, expected_bm_group: str = "") -> str:
     that mark human remains, which the atlas does not show."""
     expected = _norm_group(expected_bm_group) if expected_bm_group else ""
     allowed = {expected} | _BM_SUBGROUPS.get(expected, set())
-    groups = {_norm_group(g) for g in d.get("production_ethnic_groups") or []}
+    named = {_norm_group(g) for g in d.get("production_ethnic_groups") or []}
+    groups = {g for g in named if not _umbrella(g, expected)}
+    if o["source"] == "bm" and named and not groups:
+        return f"museum names only a region or language family ({'; '.join(sorted(named))})"
     if o["source"] == "bm" and "(?)" in (d.get("production_ethnic_attribution") or ""):
         return f"museum marks production ethnic group uncertain ({d['production_ethnic_attribution']})"
     # an umbrella and its own member group ("Luyia; Bukusu") name one people
@@ -882,7 +930,8 @@ def _choose(objs: list[dict]) -> list[dict]:
     return out
 
 
-def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> None:
+def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False, no_judge: bool = False,
+             export_batch: str = "") -> None:
     """Up to PICK_MAX objects per category per people, fewer when fewer pass.
     Up to PICK_TRIES candidates per category, in _pick_order, are shown to the
     library's judge (scripts/vet_judge.py) with one line added: a QUALITY
@@ -910,7 +959,12 @@ def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> Non
     Every candidate that ends without a verdict goes to picks/ledger.jsonl with
     why; `coverage` reports it. --cached-only makes no judge call and writes no
     pick file: it replays the cached verdicts and records the other outcomes,
-    and a candidate that would need a new verdict is logged as awaiting_judge."""
+    and a candidate that would need a new verdict is logged as awaiting_judge.
+    --no-judge does the same but writes the pick file: the way to rebuild picks
+    after verdicts came from elsewhere (the cloud, docs/cloud-vetting.md).
+    --export-batch NAME (with --cached-only) also writes every awaiting_judge
+    candidate to data/vet_batches/NAME.jsonl for cloud_vet_batch.py; its
+    verdicts come back through `pick-import NAME`."""
     import os
     sys.path.insert(0, str(REPO / "scripts"))
     sys.path.insert(0, str(REPO / "src"))
@@ -947,9 +1001,18 @@ def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> Non
             seen[(x["key"], x["source"], x["id"])] = x
     bm_client = _client() if os.environ.get("BM_CDP_URL") else None
     http = httpx.Client(timeout=45, follow_redirects=True, headers=UA)
+    batch = REPO / "data" / "vet_batches" / f"{export_batch}.jsonl" if export_batch else None
+    if batch:
+        batch.write_text("", encoding="utf-8")
     for r in rows:
         name = r.get("atlas") or re.sub(r"\s+(people|peoples)$", "", r["label"])
         accepted: list[dict] = []
+        # A rerun skips objects already in the library and may not reach the rest
+        # (new candidates take the tries first): earlier kept objects this run does
+        # not re-judge stay in the pick file, so it keeps listing everything kept.
+        pf = OUT / "picks" / f"{r['key']}.json"
+        previous = [o for v in json.loads(pf.read_text(encoding="utf-8"))["ranked"].values() for o in v] if pf.exists() else []
+        evaluated: set = set()
         tried = cached = cost = 0
         t0 = time.time()
         for cat, objs in r["objects"].items():
@@ -1034,10 +1097,24 @@ def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> Non
                         # 95 tries to BM "multiple peoples" / "uncertain" flags.
                         print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
                         note(r["key"], cat, o, "source_rule", source_exclusion)
+                        evaluated.add((o["source"], o["id"]))
                         n -= 1
                         continue
-                    if cached_only:
+                    if cached_only or no_judge:
                         note(r["key"], cat, o, "awaiting_judge")
+                        if batch:
+                            description = (d.get("description") or "") + (
+                                " Museum production ethnic group: " + d["production_ethnic_attribution"]
+                                if d.get("production_ethnic_attribution") else "")
+                            bkey = hashlib.sha1(f"{r['key']}|{o['source']}|{o['id']}".encode()).hexdigest()[:16]
+                            with open(batch, "a", encoding="utf-8") as f:
+                                f.write(json.dumps({
+                                    "id": f"{r['key']}|{o['source']}|{o['id']}", "key": bkey,
+                                    "prompt": build_record(name, r.get("country") or "", cat, d.get("title") or o.get("name") or "",
+                                                           description, d.get("place") or ""),
+                                    "extra": PICK_QUALITY, "urls": [d["image_url"]], "image_path": f"work/img/{bkey}.jpg",
+                                    "meta": {"key": r["key"], "category": cat, "object": o, "detail": d}},
+                                    ensure_ascii=False) + "\n")
                         continue
                     ev: dict = {}
                     description = d.get("description") or ""
@@ -1062,10 +1139,12 @@ def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> Non
                     # 26 kept to 16 on a cached rerun when these drops counted
                     print(f"  {cat:13s} {o['id']:22s} drop: {source_exclusion}", flush=True)
                     note(r["key"], cat, o, "source_rule", source_exclusion)
+                    evaluated.add((o["source"], o["id"]))
                     n -= 1
                     continue
                 belongs, af, reason, conf, image, era = parse_reply(reply) if reply else (None, None, err, "", "", "")
                 q = _quality(reply)
+                evaluated.add((o["source"], o["id"]))
                 # A museum photograph the judge files as a spear, bowl or mask is a
                 # picture of an object: the object record is the gallery item, and
                 # the print is not a documentary photo of people. Asmat 2026-09-27:
@@ -1083,6 +1162,10 @@ def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> Non
                                      "image": image, "era": era, "quality": q, "confidence": conf, "reason": reason})
                 print(f"  {cat:13s} {o['id']:22s} {'KEEP' if ok else 'drop'} q{q} {af or '-':13s} {image:6s} {era:14s} "
                       f"{'(cached) ' if hit else ''}{reason[:80]}", flush=True)
+        for o in previous:
+            if ((o["source"], o["id"]) not in evaluated and (r["key"], o["source"], o["id"]) not in exclusions
+                    and not any(a["source"] == o["source"] and a["id"] == o["id"] for a in accepted)):
+                accepted.append({k: v for k, v in o.items() if k != "featured"})
         by: dict[str, list] = {}
         for a in accepted:
             override = overrides.get((r["key"], a["source"], a["id"]))
@@ -1103,6 +1186,25 @@ def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False) -> Non
              "ranked": ranked}, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{name}: {sum(map(len, ranked.values()))} kept, {sum(map(len, picks.values()))} featured in {len(picks)} categories "
               f"({', '.join(f'{c} {len(v)}' for c, v in picks.items())}); {tried} judged, {cached} cached, ${cost:.2f}, {time.time() - t0:.0f}s", flush=True)
+
+
+def cmd_pick_import(name: str) -> None:
+    """Cloud verdicts for a pick batch (data/vet_verdicts/NAME.jsonl, from
+    cloud_vet_batch.py collect) -> picks/raw-cloud.jsonl, the pick's judge cache.
+    Then `pick --no-judge` rebuilds the pick files from the cache."""
+    rows = [json.loads(l) for l in (REPO / "data" / "vet_verdicts" / f"{name}.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()]
+    n = 0
+    with open(OUT / "picks" / "raw-cloud.jsonl", "a", encoding="utf-8") as f:
+        for v in rows:
+            if not v.get("reply") or "QUALITY:" not in v["reply"]:
+                continue
+            m = v["meta"]
+            f.write(json.dumps({"key": m["key"], "category": m["category"], **m["object"], "detail": m["detail"],
+                                "reply": v["reply"], "error": "", "judge": "pick:cloud-claude-sonnet-5",
+                                "batch": name}, ensure_ascii=False) + "\n")
+            n += 1
+    print(f"{name}: {n} of {len(rows)} verdicts added to the pick cache "
+          f"({len(rows) - n} without a QUALITY reply: download failures or unparsed)")
 
 
 def cmd_coverage(only: list[str]) -> None:
@@ -1305,10 +1407,13 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick", "coverage"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick", "coverage", "pick-import"])
     ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name")
     ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
     ap.add_argument("--cached-only", action="store_true", help="pick: no judge calls, no pick file written; record outcomes only")
+    ap.add_argument("--export-batch", default="", help="pick --cached-only: write awaiting_judge candidates as a cloud batch")
+    ap.add_argument("--batch", default="", help="pick-import: the batch name")
+    ap.add_argument("--no-judge", action="store_true", help="pick: no judge calls; write the pick file from cached verdicts")
     ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
@@ -1317,4 +1422,4 @@ if __name__ == "__main__":
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local, "europeana-objects": lambda: cmd_europeana_objects(a.only),
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only), "coverage": lambda: cmd_coverage(a.only)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
+     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only, a.no_judge, a.export_batch), "coverage": lambda: cmd_coverage(a.only), "pick-import": lambda: cmd_pick_import(a.batch)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

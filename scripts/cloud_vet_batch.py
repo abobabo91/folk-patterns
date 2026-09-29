@@ -109,6 +109,8 @@ def fetch(name: str) -> None:
     (WORK / "replies").mkdir(parents=True, exist_ok=True)
     for row in rows:
         (WORK / "prompts" / f"{row['key']}.txt").write_text(row["prompt"], encoding="utf-8")
+        if row.get("extra"):   # pick batches: the QUALITY line (world_peoples.py pick --export-batch)
+            (WORK / "prompts" / f"{row['key']}.extra.txt").write_text(row["extra"], encoding="utf-8")
     with ThreadPoolExecutor(6) as ex:
         results = dict(ex.map(_fetch_one, rows))
     report = WORK / f"fetch_{name}.json"
@@ -150,8 +152,9 @@ def _judge_one(key: str, name: str) -> str:
                                 "result": (result or {}).get("result") or "",
                                 "stderr": err[-500:]}, ensure_ascii=False) + "\n")
 
-    reply, error = vet_judge.judge(record, (WORK / "img" / f"{key}.jpg").read_bytes(),
-                                   on_attempt=log)
+    extra_file = WORK / "prompts" / f"{key}.extra.txt"
+    reply, error = vet_judge.judge(record, (WORK / "img" / f"{key}.jpg").read_bytes(), on_attempt=log,
+                                   extra=extra_file.read_text(encoding="utf-8") if extra_file.exists() else "")
     if reply:
         (WORK / "replies" / f"{key}.txt").write_text(reply, encoding="utf-8")
         return "ok"

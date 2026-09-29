@@ -57,6 +57,20 @@ python scripts/apply_vet_verdicts.py data/vet_verdicts/pilot.jsonl
 
 `judge` calls `vet_judge.judge` per record: `claude --print --setting-sources local --tools "" --strict-mcp-config` with an empty MCP config, `--system-prompt-file` holding the fixed rules, and a stream-json user message with the record text and the image as a base64 block. It runs 3 workers, backs off on Sonnet's "temporarily limiting requests" bursts (30 → 300 s), runs from a temporary directory so no project CLAUDE.md is discovered, and logs every raw attempt with `cost_usd` and `usage` to `work/judge_<batch>.jsonl`. A batch exported before the prompt split (its `prompt` starts "Read the image at path") is refused; re-export it. Measured locally on 117 records: 160 s, $1.28 reported, 0 failures.
 
+## Pick batches
+
+`world_peoples.py pick` judges candidates with the same `vet_judge.judge` plus one QUALITY line, so a pick can run its judge calls in the cloud too. The candidate details still come from this laptop (British Museum records need the Chrome on :9226); the images do not: `media.britishmuseum.org` serves them without cookies (checked 2026-09-29).
+
+```
+local:  world_peoples.py pick --cached-only --export-batch <batch> --only KEY ...   → data/vet_batches/<batch>.jsonl  (commit + push)
+cloud:  the same fetch / judge / collect as above                                  → data/vet_verdicts/<batch>.jsonl (push to claude/…)
+local:  git fetch + merge the branch
+local:  world_peoples.py pick-import --batch <batch>                                → data/world/picks/raw-cloud.jsonl (the pick cache)
+local:  BM_CDP_URL=… world_peoples.py pick --no-judge --only KEY ...               → pick files rebuilt, no judge call
+```
+
+A pick batch row carries `extra` (the QUALITY line), which `cloud_vet_batch.py` hands to the judge as the system-prompt addition, and `meta` (people key, category, candidate, museum detail), which `pick-import` writes back as a cached pick verdict. The export holds exactly the candidates a real pick would judge next (`awaiting_judge` in `coverage`), inside the 10-per-category cap.
+
 ## Cloud environment
 
 Network access **Custom**, allowed domains (every image host in the library, including redirect targets, probed 2026-09-24):
@@ -88,7 +102,7 @@ No environment variables, secrets or setup script: `cloud_vet_batch.py` is stand
 
 Start the session with the main model on the lowest effort — it only runs scripts. A new session can open in plan mode; the prompt says not to plan. The prompt is: *"Do not plan; execute directly. Follow docs/cloud-vetting.md, section 'Procedure for the cloud session', for batch `<batch>`."* The session then does:
 
-1. `pip install pillow` (so `fetch` downscales to 1024 px), then `python scripts/cloud_vet_batch.py fetch <batch>` — report the fetched count and any failures.
+1. `export FOLK_LLM_BACKEND=claude` (the judge's backend switch would otherwise read the plan usage and could pick Codex, which the cloud does not have), `pip install pillow` (so `fetch` downscales to 1024 px), then `python scripts/cloud_vet_batch.py fetch <batch>` — report the fetched count and any failures.
 2. `python scripts/cloud_vet_batch.py judge <batch> 150` — at most 150 records per run (~3 min at the measured rate), so one run stays inside a single command's time limit.
 3. `python scripts/cloud_vet_batch.py collect <batch>`, then `git add data/vet_verdicts/<batch>.jsonl`, commit and push to the session's `claude/` branch.
 4. Repeat 2–3 until `judge` reports 0 pending. Do not judge any record yourself and do not read the replies — every verdict comes from the script.
