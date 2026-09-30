@@ -3,7 +3,7 @@
  "label": "Nyamwezi people",
  "name": "Nyamwezi",
  "judged": 0,
- "cached": 14,
+ "cached": 3,
  "cost_usd": 0,
  "ranked": {
   "jewelry": [
@@ -57,6 +57,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1926-188",
+    "name": "necklace",
+    "kind": "necklace",
+    "title": "necklace",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/06de93fd_da8a_45de_88c0_a3e6014766be/preview_01607231_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A multi-strand glass bead necklace attributed to the Nyamwezi, a type of beadwork jewelry widely made in Tanzania; plausible for this group with no contrary evidence.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1926-186",
     "name": "necklace",
     "kind": "necklace",
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Glass bead bracelet with red, black and turquoise beads strung in sections, attributed by the museum to the Nyamwezi, a beadwork tradition consistent with East African peoples like the Nyamwezi.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

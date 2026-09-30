@@ -3,10 +3,42 @@
  "label": "Mohawk",
  "name": "Mohawk",
  "judged": 0,
- "cached": 37,
+ "cached": 25,
  "cost_usd": 0,
  "ranked": {
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-A40-21",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/df78a04a_3f69_4ed3_9b8b_a3c100dad495/preview_00650328_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Studio portrait of the Caughnawaga (Kahnawake) Mohawk lacrosse team, thirteen men in period dress holding their lacrosse sticks — a documentary photo of Mohawk people and their traditional sport/equipment.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A40-22",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/a105c71e_64ab_4076_a312_a3c100dad7cc/preview_00650329_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Studio portrait of a St Regis (Akwesasne) Mohawk lacrosse team, each man holding a lacrosse stick with lacrosse balls visible in the foreground—documentary photo of Mohawk daily/cultural life directly matching the claimed ethnicity.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-B56-136",
@@ -69,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The postcard shows a man in feathered headdress, beaded regalia, tunic and leggings posed outdoors in Quebec, captioned \"Type of Iroquois Indian of the Province of Quebec\" — a documentary studio-style photo consistent with Mohawk (Iroquois) regalia and dress, though the feather headdress style is a generic \"Plains-style\" showpiece often adopted for photographic purposes rather than distinctly Iroquois.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +117,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The photo shows a woman in Mohawk-style fringed dress, headband with feather, and necklace, posing at a shrine in Kahnawake (Caughnawaga), a Mohawk community in Quebec — documentary dress photo consistent with the claimed ethnicity.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -120,41 +152,23 @@
     "featured": false
    }
   ],
-  "garment": [
+  "household": [
    {
-    "source": "bm",
-    "id": "E_Am1981-Q-1949-a-b",
-    "name": "moccasin",
-    "kind": "moccasin",
-    "title": "moccasin",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_14/dee2b0f1_6520_4766_89b7_a3d600ec037e/preview_01062759_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
+    "source": "met",
+    "id": "319101",
+    "name": "Cradleboard",
+    "kind": "cradleboard",
+    "title": "Cradleboard",
+    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261800.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "A pair of beaded velvet-and-hide moccasins, a classic Haudenosaunee (Iroquois/Mohawk) craft form using floral beadwork typical of Northeast Woodlands peoples; the museum directly attributes it to Mohawk/Iroquois makers.",
+    "reason": "The image shows a painted wooden cradleboard with floral rosette designs typical of Mohawk/Haudenosaunee craft, consistent with the claimed ethnicity and category.",
     "featured": true
    },
-   {
-    "source": "bm",
-    "id": "E_Am1929-1216-17",
-    "name": "moccasin",
-    "kind": "moccasin",
-    "title": "moccasin",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_7/14_14/4163265f_f936_4734_be88_b03f00ec919d/preview_am1929_1216_17__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A beaded hide moccasin with floral beadwork design, attributed by the museum to Mohawk/Iroquois/Northeast Peoples makers—consistent with well-documented Haudenosaunee beadwork traditions.",
-    "featured": true
-   }
-  ],
-  "household": [
    {
     "source": "bm",
     "id": "E_Am1986-10-108-a",
@@ -185,22 +199,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a traditional wooden cradleboard/baby-carrier with carved and painted zoomorphic and floral designs, a well-documented Iroquois/Mohawk craft object attributed by the museum to the Mohawk maker.",
-    "featured": true
-   },
-   {
-    "source": "met",
-    "id": "319101",
-    "name": "Cradleboard",
-    "kind": "cradleboard",
-    "title": "Cradleboard",
-    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261800.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a painted wooden cradleboard with floral rosette designs typical of Mohawk/Haudenosaunee craft, consistent with the claimed ethnicity and category.",
     "featured": true
    },
    {
@@ -362,6 +360,58 @@
     "confidence": "HIGH",
     "reason": "This is a miniature beaded \"whimsy\" bag made of red felt with white/green floral glass beadwork and beaded fringe, a well-documented Iroquois (including Mohawk) souvenir craft form; category should be household/beadwork, not sculpture.",
     "featured": false
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "E_Am-Dc-17",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_19/7f892845_6b34_49de_aefc_a3c3013c5655/preview_00828062_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved grey stone pipe-bowl fragment with fluted decoration, attributed by the museum to Iroquois/Mohawk Northeast Peoples makers, consistent with Haudenosaunee stone pipe traditions.",
+    "featured": true
+   }
+  ],
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_Am1981-Q-1949-a-b",
+    "name": "moccasin",
+    "kind": "moccasin",
+    "title": "moccasin",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_14/dee2b0f1_6520_4766_89b7_a3d600ec037e/preview_01062759_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A pair of beaded velvet-and-hide moccasins, a classic Haudenosaunee (Iroquois/Mohawk) craft form using floral beadwork typical of Northeast Woodlands peoples; the museum directly attributes it to Mohawk/Iroquois makers.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1929-1216-17",
+    "name": "moccasin",
+    "kind": "moccasin",
+    "title": "moccasin",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_7/14_14/4163265f_f936_4734_be88_b03f00ec919d/preview_am1929_1216_17__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A beaded hide moccasin with floral beadwork design, attributed by the museum to Mohawk/Iroquois/Northeast Peoples makers—consistent with well-documented Haudenosaunee beadwork traditions.",
+    "featured": true
    }
   ],
   "arms": [

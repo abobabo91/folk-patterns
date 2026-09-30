@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1933-0715-310",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1933-0715-310",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1933-0715-310",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1933.0715.310",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Gondi",
+    "tradition": "Gondi",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A painted clay figure explicitly documented as a museum-made model depicting a Gond man in traditional dress (loincloth, headband, stick), created by Gond makers as ethnographic representation. This fits the claimed ethnicity directly.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Figure (model of a Gond man) made of clay and painted dark brown and on small square stand; wearing white loincloth and head band, with folded white cloth over figure&#039;s left shoulder. Figure carries long stick in left hand. Fire-lighting equipment (?) inserted in top of loincloth (to figure&#039;s right).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/gondi/sculpture/gondi/images/bm_A_As1933_0715_310.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8b1daa0137c9cdab6d36dc70263b0d6d0765f015b68e622edc186958adc25121",
+      "bytes": 32049,
+      "local_path": "library\\south-asia\\india\\gondi\\sculpture\\gondi\\images\\bm_A_As1933_0715_310.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:00:32.348402+00:00"
+}

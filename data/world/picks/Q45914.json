@@ -3,7 +3,7 @@
  "label": "Maya people",
  "name": "Maya",
  "judged": 0,
- "cached": 119,
+ "cached": 120,
  "cost_usd": 0,
  "ranked": {
   "photo": [
@@ -59,22 +59,6 @@
    },
    {
     "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_51695",
-    "name": "klubba, Mazo?",
-    "kind": "club",
-    "title": "klubba, Mazo?",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1845297/image.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A grooved stone bark-beater (bastklubba/mazo) from Tabi, Yucatan, collected by Seler — a household/craft tool type used by the Maya for processing bark cloth or fiber, consistent with the claimed ethnicity and region.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
     "id": "/91619/SMVK_EM_objekt_1173447",
     "name": "behållare, ämbar, spann",
     "kind": "container",
@@ -119,7 +103,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A handmade crocheted wool shoulder bag (morral) with quetzal bird motifs, from Nahualá, Sololá, a Maya (K'iche') town in Guatemala known for this male bag style — a genuine Maya-made everyday object.",
-    "featured": false
+    "featured": true
    },
    {
     "source": "europeana",
@@ -218,6 +202,22 @@
     "confidence": "HIGH",
     "reason": "This is a yellow wraparound skirt (corte) with woven plaid striping, matching the museum's description of Maya women's traditional wraparound skirts of ancient origin. It is a clear, whole example of Maya garment weaving.",
     "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_1246866",
+    "name": "blus, huipil",
+    "kind": "blouse",
+    "title": "blus, huipil",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247298/image.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a huipil blouse with woven red/pink stripes and an embroidered floral neckline, a classic Maya women's garment purchased at markets in Guatemala; general regional attribution to Maya is reasonable even without a specific local identification.",
+    "featured": false
    },
    {
     "source": "europeana",

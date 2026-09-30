@@ -1,0 +1,98 @@
+{
+  "id": "met-310343",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "310343",
+    "object_url": "https://www.metmuseum.org/art/collection/search/310343",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Lester Wunderman, 1977",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1977.394.33",
+    "accession_year": "1977"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Mali",
+    "ethnicity": "Dogon",
+    "tradition": "Dogon",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is the iconic Dogon \"Imina na\" mask type — an elongated wooden mask with a small carved face at the base and a tall painted plank rising above, used in Dogon Sigi/mask dances; the form and pigment are consistent with well-documented Dogon ritual masks.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Imina Na (Great Mask)",
+    "titles_alt": [],
+    "date_text": "18th–19th century",
+    "date_earliest": 1700,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "pigment"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, pigment",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 110 in. × W. 6 3/4 in. × D. 7 in. (279.4 × 17.1 × 17.8 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Bandiagara Escarpment, Mali",
+    "made_in_place_alt": [],
+    "current_gallery": "341",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Dogon blacksmith",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/mali/dogon/masks-ritual/dogon/images/met_310343.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "823b87cd7c92cfe90d2aaa913d8769804b1d8e27cbd61d99a111b20dbf9e08e2",
+      "bytes": 406913,
+      "local_path": "library\\sub-saharan-africa\\mali\\dogon\\masks-ritual\\dogon\\images\\met_310343.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:18:34.359413+00:00"
+}

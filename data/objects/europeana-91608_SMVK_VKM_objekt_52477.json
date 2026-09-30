@@ -27,7 +27,7 @@
     "vision_era": "traditional",
     "art_form_vision": "masks-ritual",
     "pick_quality": 4,
-    "pick_featured": false
+    "pick_featured": true
   },
   "physical": {
     "title": "skulptur, figur, fetisch, sculpture, fetish, figure",
@@ -76,7 +76,8 @@
       "role": "primary",
       "sha256": "0c3d257307053e08ea9aacc93efa6da60d3a613bdd8d48e1ab3eb6450abb757c",
       "bytes": 20235,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\luba\\masks-ritual\\luba\\images\\eu_91608_SMVK_VKM_objekt_52477.jpg"
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\luba\\masks-ritual\\luba\\images\\eu_91608_SMVK_VKM_objekt_52477.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1238301%2Fimage.jpg&type=IMAGE"
     }
   ],
   "map": {
@@ -84,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-09-27T23:38:54.118337+00:00"
+  "processed_at": "2026-09-30T08:50:17.470052+00:00"
 }

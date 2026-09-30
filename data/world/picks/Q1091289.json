@@ -3,7 +3,7 @@
  "label": "Vezo people",
  "name": "Vezo",
  "judged": 0,
- "cached": 43,
+ "cached": 30,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -21,6 +21,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a woven carrying basket with a geometric X-pattern in natural and dyed fiber, consistent with Malagasy basketry attributed to the Vezo people; the museum directly credits the Vezo as makers.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-469",
+    "name": "tray; winnowing-tray",
+    "kind": "tray",
+    "title": "tray; winnowing-tray",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/c334054f_8ff8_4929_a575_a3e000ceed2b/preview_01586319_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A handwoven basketry winnowing tray, a common household tool used in Madagascar for processing rice/grain, plausible for the Vezo as claimed.",
     "featured": true
    },
    {
@@ -85,6 +101,74 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden paddle, a household/tool item consistent with the Vezo people, who are traditionally fishing communities of coastal Madagascar known for their canoes and paddles.",
+    "featured": false
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-457",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/0f6707c3_02b9_44e1_87b8_a3e000c87a47/preview_01584035_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A carved zebu-horn heron figure, attributed by the museum to Vezo makers of Madagascar; carved horn objects fit plausible Vezo craft production.",
+    "featured": true
+   }
+  ],
+  "arms": [
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-487",
+    "name": "fish-spear; spear",
+    "kind": "spear",
+    "title": "fish-spear; spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/ae77cd80_af45_4420_8e4f_a3e000b0de26/preview_01578415_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a long wooden shaft with a forked metal tip, consistent with a Vezo fishing spear used by this seafaring fishing people of Madagascar's western coast.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-489",
+    "name": "fish-spear; spear",
+    "kind": "spear",
+    "title": "fish-spear; spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/74e004bc_8ff7_44a8_8093_a3e000b0e0b1/preview_01578417_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a long wooden-shafted fish spear with an iron point, matching the museum's attribution to the Vezo, a Malagasy fishing people for whom such spears are a characteristic tool.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-488",
+    "name": "fish-spear; spear",
+    "kind": "spear",
+    "title": "fish-spear; spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/5e4bed2b_ddfc_42c4_92e9_a3e000b0df77/preview_01578416_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A long wooden-shafted spear with an iron point, described as a fish spear used by the Vezo — a fishing people of coastal Madagascar known for spearfishing — matches the claimed ethnicity and use.",
     "featured": true
    }
   ],
@@ -119,24 +203,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a handmade earthenware pot with a wide everted rim and fire-clouded surface, consistent with traditional Malagasy hand-built pottery attributed to the Vezo.",
-    "featured": true
-   }
-  ],
-  "sculpture": [
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-457",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/0f6707c3_02b9_44e1_87b8_a3e000c87a47/preview_01584035_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A carved zebu-horn heron figure, attributed by the museum to Vezo makers of Madagascar; carved horn objects fit plausible Vezo craft production.",
     "featured": true
    }
   ],
@@ -254,56 +320,6 @@
     "confidence": "MEDIUM",
     "reason": "The image shows an aluminium bangle bracelet with decorative dotted end-plates, matching the museum's attribution to Vezo makers, a plausible item of personal adornment used in Madagascar.",
     "featured": false
-   }
-  ],
-  "arms": [
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-487",
-    "name": "fish-spear; spear",
-    "kind": "spear",
-    "title": "fish-spear; spear",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/ae77cd80_af45_4420_8e4f_a3e000b0de26/preview_01578415_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a long wooden shaft with a forked metal tip, consistent with a Vezo fishing spear used by this seafaring fishing people of Madagascar's western coast.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-489",
-    "name": "fish-spear; spear",
-    "kind": "spear",
-    "title": "fish-spear; spear",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/74e004bc_8ff7_44a8_8093_a3e000b0e0b1/preview_01578417_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "HIGH",
-    "reason": "The image shows a long wooden-shafted fish spear with an iron point, matching the museum's attribution to the Vezo, a Malagasy fishing people for whom such spears are a characteristic tool.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-488",
-    "name": "fish-spear; spear",
-    "kind": "spear",
-    "title": "fish-spear; spear",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/5e4bed2b_ddfc_42c4_92e9_a3e000b0df77/preview_01578416_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A long wooden-shafted spear with an iron point, described as a fish spear used by the Vezo — a fishing people of coastal Madagascar known for spearfishing — matches the claimed ethnicity and use.",
-    "featured": true
    }
   ],
   "garment": [

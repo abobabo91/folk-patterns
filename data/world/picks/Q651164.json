@@ -2,9 +2,9 @@
  "key": "Q651164",
  "label": "Jarawa people",
  "name": "Jarawa",
- "judged": 39,
- "cached": 0,
- "cost_usd": 0.341,
+ "judged": 0,
+ "cached": 40,
+ "cost_usd": 0,
  "ranked": {
   "arms": [
    {
@@ -25,6 +25,134 @@
    },
    {
     "source": "bm",
+    "id": "A_As1972-Q-2262",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/0c696be2_d879_4771_95f2_a3dd00ef8949/preview_01373514_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a simple iron knife with a fiber-wrapped handle and cord, consistent with a tool/weapon made and used by the Jarawa of the Andaman Islands, matching the museum's attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-36-b-c",
+    "name": "adze",
+    "kind": "adze",
+    "title": "adze",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/69f8b6ba_b3ba_4374_b560_a3dd00f168b2/preview_01374173_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows two metal adze blades, a tool/weapon plausible for the Jarawa of the Andaman Islands, who traditionally use metal salvaged from shipwrecks for such implements. The museum record attributes it directly to the Jarawa as makers.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1895-0715-14",
+    "name": "bow",
+    "kind": "bow",
+    "title": "bow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_16/2647b90d_0b02_4de8_8ab9_a3de010b21ae/preview_01447024_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple wooden bow with fiber string, consistent with Jarawa hunting weapons from the Andaman Islands; the museum directly attributes it to Jarawa makers.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-75",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/1d8b1b51_826b_4e30_a431_a3dd00efa141/preview_01373528_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron arrowhead, a weapon type plausible for the Jarawa of the Andaman Islands who are known for iron-tipped arrows obtained from salvage/trade and used in hunting.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-51",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/a4d69da9_842b_4b44_996c_a3dd00efcfd1/preview_01373556_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a simple flat iron blade, consistent with a knife used by the Jarawa of the Andaman Islands, who are known to fashion iron scavenged from shipwrecks/debris into blades and arrowheads. Museum metadata directly attributes it to the Jarawa as maker.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-56",
+    "name": "adze",
+    "kind": "adze",
+    "title": "adze",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/4395910c_e4f0_4efe_96a7_a3dd00efd4ae/preview_01373559_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An iron adze head, a tool/weapon plausible for use by an island tribal group like the Jarawa; simple iron blade with tang notch, matching typical Andaman adze forms.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1886-1129-124",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_17/db4fd8c9_bd15_46b0_b7c1_a3dd011f2714/01389239_001.JPG",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden arrow with a spiral-carved shaft, matching the museum's attribution to Jarawa production and a plausible weapon type for this Andaman Islander group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1886-1129-110-a",
+    "name": "bow",
+    "kind": "bow",
+    "title": "bow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_16/6793eb96_5e93_44cf_8725_a3de010a58d3/preview_01446674_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple long cane bow, consistent with Jarawa archery weapons used for hunting; museum metadata directly attributes it to Jarawa makers.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "A_As1905-0313-57-a",
     "name": "bow",
     "kind": "bow",
@@ -37,7 +165,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a long, plain wooden bow, consistent with the Jarawa people of the Andaman Islands, who are known for making and using wooden longbows for hunting. The object is straightforward archery equipment matching the \"arms\" category and museum attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -53,7 +181,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows an iron knife with a bark-wrapped handle, matching the museum's attribution to the Jarawa as its maker; this is a plausible traditional weapon/tool type for the group.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +197,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a long slender arrow with a metal point, wax/cord binding, and cane shaft, consistent with the museum's attribution as a Jarawa pig-hunting arrow.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +213,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A plain wooden bow attributed by the museum to the Jarawa, an Andaman Islander people for whom the bow is the characteristic weapon. Nothing contradicts this attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -139,6 +267,86 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1924-0415-4",
+    "name": "hoe",
+    "kind": "hoe",
+    "title": "hoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_15/62b91a82_a5f6_4dba_af9d_a9a000f7579d/preview_EAF16081.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a simple hand hoe with a wooden handle and tanged iron blade, a plausible everyday tool attributed to the Jarawa (Hill) group. It is a functional household/agricultural implement consistent with the claimed people's material culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1924-0415-20",
+    "name": "comb",
+    "kind": "comb",
+    "title": "comb",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_15/b97c3929_88d6_4350_af8d_a9a000f759ae/preview_EAF16101.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden multi-pronged comb bound with string, plausible everyday item attributed to the Jarawa of the Andaman Islands.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1886-1129-115-a",
+    "name": "container",
+    "kind": "container",
+    "title": "container",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_13/66cdb933_8b20_4248_a5f8_a3dd00e5a859/preview_01369699_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A handmade wood and rattan/bark container with a looped carrying handle, consistent with everyday household items used by the Jarawa of the Andaman Islands; museum credits it as Jarawa-made.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As-And-13",
+    "name": "mat",
+    "kind": "mat",
+    "title": "mat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_13/d72509c5_1704_4dc0_98ff_a3dd00df307d/preview_01367153_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven bamboo/fibre mat, attributed by the museum to the Jarawa of the Andaman Islands, a plausible household craft item for this group.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-7",
+    "name": "honey-pot; water-pot",
+    "kind": "pot",
+    "title": "honey-pot; water-pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_13/39e34f74_ed42_4564_9de4_a3dd00e56559/preview_01369712_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The picture shows a coiled wood/bark and cane vessel (honey/water pot) attributed to the Jarawa, a traditional container made and used by the people themselves — this fits the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "A_As1905-0313-52-53",
     "name": "adze",
     "kind": "adze",
@@ -151,7 +359,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows two iron-bladed adzes with wooden hafts bound by rattan, attributed by the museum to Jarawa manufacture; these are tools rather than weapons, but plausibly Jarawa-made items of daily use.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -167,7 +375,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a woven wood/cane/rattan bucket-basket, a household item consistent with Jarawa material culture as attributed by the museum.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -183,7 +391,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows several bundles of knotted vegetable-fibre netting, consistent with the described woman's fishing-net made and used by the Jarawa of the Andaman Islands.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -199,7 +407,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a woven leaf basket, matching the museum's description of a Jarawa woman's work basket made of leaf, consistent with Andaman Islander material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -215,6 +423,70 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a netted string bag made of vegetable fibre, consistent with the museum's attribution to the Jarawa, an indigenous group known for such woven carrying bags.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-2",
+    "name": "honey-pot; water-pot",
+    "kind": "pot",
+    "title": "honey-pot; water-pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_13/616b0905_5093_4ccb_abb9_a3dd00e378d2/preview_01368812_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden pot bound with cane and fitted with a cane carrying sling, made and used by the Jarawa for honey or water storage — a household object of their material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-4",
+    "name": "honey-pot; water-pot",
+    "kind": "pot",
+    "title": "honey-pot; water-pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/68f53193_6e19_4d93_bd50_a3dd00eeead8/preview_01373271_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The object is a handmade wooden container bound with cane, with a carrying sling — a water/honey pot attributed to the Jarawa, consistent with their traditional forest-based material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-8",
+    "name": "honey-pot; water-pot",
+    "kind": "pot",
+    "title": "honey-pot; water-pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_13/e606bdc7_3591_4c4c_8d63_a3dd00e38b1a/preview_01368825_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A bark/wood container bound with cane and split-cane hoops, used as a honey or water pot, attributed to the Jarawa — a plausible traditional utilitarian vessel type for this Andaman group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-5",
+    "name": "honey-pot; water-pot",
+    "kind": "pot",
+    "title": "honey-pot; water-pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_13/587ff67b_63f4_423d_8017_a3dd00e5b036/preview_01369704_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carrying container made of wood/bark with cane binding and a sling handle, attributed to the Jarawa; this is a household vessel used for honey or water gathering, plausible for the group and not categorized correctly as ceramic since it's wood/bark, not clay.",
     "featured": false
    },
    {
@@ -367,18 +639,18 @@
   "garment": [
    {
     "source": "bm",
-    "id": "A_As1895-0715-9",
+    "id": "A_As1895-0715-9-a",
     "name": "head-band",
     "kind": "head-band",
     "title": "head-band",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/61596946_143a_4d80_b936_a3dd00f21ff7/preview_01374520_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/71657f70_7682_4a14_a2b9_a3dd00ef9ad6/preview_01373525_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "This shows a woven bark/cane headband with feather ornaments, a traditional Jarawa-made worn item, consistent with the claimed ethnicity and category.",
+    "reason": "The image shows a handmade headband of bark twine fringe with feathers, matching the museum's own attribution to Jarawa manufacture and use as personal adornment/dress.",
     "featured": true
    },
    {
@@ -395,6 +667,88 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a coiled leaf (pandanus) belt, matching the museum's attribution to the Jarawa people of the Andaman Islands, who traditionally wear such woven leaf/bark belts as body adornment.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1895-0715-9",
+    "name": "head-band",
+    "kind": "head-band",
+    "title": "head-band",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/61596946_143a_4d80_b936_a3dd00f21ff7/preview_01374520_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This shows a woven bark/cane headband with feather ornaments, a traditional Jarawa-made worn item, consistent with the claimed ethnicity and category.",
+    "featured": true
+   }
+  ],
+  "ceramic": [
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-12-a",
+    "name": "cooking-bowl",
+    "kind": "bowl",
+    "title": "cooking-bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/d1245d7d_9c5b_48aa_a6e5_a3dd00f1a8ca/preview_01374305_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a handmade earthenware cooking bowl, consistent with the museum's attribution of Jarawa manufacture; the Jarawa of the Andaman Islands are known to produce simple undecorated clay cooking pots.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-13",
+    "name": "cooking-bowl",
+    "kind": "bowl",
+    "title": "cooking-bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/88e23376_15b4_4a32_9b1b_a3dd00f15d99/preview_01374167_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A handmade, unglazed pottery cooking bowl attributed to the Jarawa people of the Andaman Islands; plausible traditional hand-built ware, consistent with the museum's attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-11",
+    "name": "cooking-bowl",
+    "kind": "bowl",
+    "title": "cooking-bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_14/15c6d030_4db4_4217_a1a7_a3dd00f1a72e/preview_01374303_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple handmade earthenware cooking bowl, consistent with the museum's attribution to the Jarawa of the Andaman Islands, a group known for such basic unglazed pottery.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1905-0313-14-a-b",
+    "name": "bowl; cooking-pot",
+    "kind": "bowl",
+    "title": "bowl; cooking-pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_15/70e86edb_e264_4920_a237_a3dd00f7bf93/preview_01375162_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Two crude handmade clay bowls/cooking pots, one with a beeswax coating on the interior, consistent with simple utilitarian pottery attributed to the Jarawa of the Andaman Islands, who are documented as making basic hand-shaped pots.",
     "featured": true
    }
   ]

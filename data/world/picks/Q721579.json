@@ -2,9 +2,9 @@
  "key": "Q721579",
  "label": "Antemoro people",
  "name": "Antemoro",
- "judged": 31,
- "cached": 0,
- "cost_usd": 0.268,
+ "judged": 0,
+ "cached": 27,
+ "cost_usd": 0,
  "ranked": {
   "household": [
    {
@@ -21,6 +21,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a carved wooden cylindrical rice container with a lid, decorated with geometric triangle bands typical of Antaimoro/Antemoro carved woodwork; the museum attributes it to the Antaimoro/Antemoro people, matching the claimed ethnicity, though it is wood rather than the stated ceramic category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-155",
+    "name": "fan; fly-whisk",
+    "kind": "fan",
+    "title": "fan; fly-whisk",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/47a6858d_f0be_4be0_991a_a3e000b36039/preview_01579295_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven fiber fan/fly-whisk with a natural stick handle, a type of household object plausibly made and used by the Antaimoro (a subgroup name closely related to Antemoro) of Madagascar; museum attribution supports the claimed maker.",
     "featured": true
    },
    {
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a woven fibre basket/container with dyed geometric decoration, consistent with Antaimoro (Antemoro) raffia/vegetable-fibre basketry traditions of Madagascar.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -105,6 +121,22 @@
    }
   ],
   "garment": [
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-107",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/dbe06929_e819_4e28_ab84_a3e000b320dc/preview_01579258_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A woven raffia/grass hat with geometric patterning, attributed by the museum to the Antaimoro (a variant spelling of Antemoro), a Madagascar people known for fine raffia weaving and paper-making. This is a plausible, characteristic hat/garment for this group.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1985-17-110",
@@ -171,6 +203,70 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1985-17-101",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_11/b0a7b22d_974d_4fce_8390_a3b700bd837d/preview_00054224_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A tightly woven palm-fiber hat with a distinctive knotted/coiled peak, attributed by the museum to the Antaimoro (Antemoro) of Madagascar, a people known for fine raffia and palm-leaf weaving. This matches the claimed ethnicity and category well.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-105",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/eeadf034_bc3d_4da4_ba00_a3e000b3708c/preview_01579256_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A woven raffia/grass hat with red accent stitching, attributed by the museum to the Antaimoro (Antemoro) of Madagascar; this style of finely plaited hat is characteristic of the highland/east-coast Malagasy weaving traditions including the Antemoro.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-109",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/1db1c463_232e_4edf_ab76_a3e000b32476/preview_01579260_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven grass hat directly attributed to the Antaimoro (Antemoro) people, consistent with traditional Malagasy woven headwear.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-108",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/4de2cda7_26f7_4273_9c4e_a3e000b32261/preview_01579259_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven grass/straw wide-brimmed hat attributed by the museum to the Antaimoro of Madagascar; hat-weaving in raffia/grass is a well-documented Antaimoro/Malagasy craft, matching the claimed ethnicity and garment category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1985-17-111",
     "name": "jacket",
     "kind": "jacket",
@@ -183,7 +279,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a plaited grass jacket, a garment attributed by the museum to the Antaimoro (Antemoro) people of Madagascar, consistent with their known craft of grass/raffia plaiting.",
-    "featured": true
+    "featured": false
    }
   ],
   "textile": [

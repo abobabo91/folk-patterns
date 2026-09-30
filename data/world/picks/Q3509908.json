@@ -3,7 +3,7 @@
  "label": "Chorotí",
  "name": "Chorotí",
  "judged": 0,
- "cached": 41,
+ "cached": 18,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -25,6 +25,70 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1911-0613-44-a-b",
+    "name": "box; lid",
+    "kind": "box",
+    "title": "box; lid",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_12/16_12/4d89584b_a6b5_43bc_b6ce_ae0000c6c86f/preview_am1911_0613_44__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A gourd container with a fitted lid and fibre cord, incised with geometric line designs, directly attributed to the Chorote/Choroti maker in the museum's own production credit — a typical household object of Gran Chaco groups.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1911-0613-49-a-b",
+    "name": "tinder-box; stopper",
+    "kind": "tinder-box",
+    "title": "tinder-box; stopper",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_12/16_14/d816e3e7_a8ee_4427_9df5_ae0000f15d0c/preview_am1911_0613_49__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a horn tinder-box with gourd stopper and leather pull, a traditional utilitarian object attributed by the museum to the Chorote/Choroti people, matching the claimed ethnicity and household category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1911-0613-7",
+    "name": "feather-case",
+    "kind": "case",
+    "title": "feather-case",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_11/24_16/44d52e56_3f88_48e6_9584_adea010db2b9/preview_am1911_0613_7__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A bamboo tubular case with engraved decoration used to hold head-ornament feathers, explicitly attributed to the Chorote/Choroti people by the museum. This is a plausible traditional household/utility object for this group.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1911-0613-37",
+    "name": "mortar",
+    "kind": "mortar",
+    "title": "mortar",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_12/16_11/079aba54_6096_4632_b6c2_ae0000bbf9e0/preview_am1911_0613_37__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden mortar attributed to the Chorote/Choroti people, a plausible traditional household object for this Gran Chaco group. Simple wooden vessels of this type are common tools used similarly by neighboring Chaco groups.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Am1911-0613-46-b",
     "name": "fire-stick",
     "kind": "fire-stick",
@@ -37,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A wooden fire-stick (hand-drill fire-making tool) attributed to the Chorote/Chorotí, a traditional utilitarian implement plausible for this Gran Chaco people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -53,7 +117,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "A gourd spoon, a traditional household utensil directly attributed to the Chorote/Choroti people by the museum. Simple hand-carved gourd spoons are typical everyday Chorotí Gran Chaco craft.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +133,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A bone awl/tattooing instrument attributed directly to the Chorote/Choroti people, a plausible traditional tool for this Gran Chaco group.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +149,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a fish jawbone repurposed as a lice comb, a traditional household tool directly attributed to the Chorote/Choroti people by the museum.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -268,72 +332,6 @@
     "featured": true
    }
   ],
-  "garment": [
-   {
-    "source": "bm",
-    "id": "E_Am1911-0613-1",
-    "name": "cloak",
-    "kind": "cloak",
-    "title": "cloak",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_5/11_10/324b3e6c_4509_4c01_b1cd_ae9200a7cc6d/preview_am1911_0613_1__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A woven wool cloak of striped brown and beige panels, sewn together—consistent with Chorote/Choroti woven wool garments from the Gran Chaco, and the museum credits it directly to this people.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1911-0613-86",
-    "name": "tunic; shirt",
-    "kind": "tunic",
-    "title": "tunic; shirt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_11/14_10/c66526ce_e9fd_4bac_a892_af4d00abd8bd/preview_am1911_0613_86__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A striped fibre (chaguar) tunic/war shirt attributed to the Chorote/Choroti, a traditional handwoven garment type well documented for Gran Chaco groups including the Chorotí.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1911-0613-3",
-    "name": "belt",
-    "kind": "belt",
-    "title": "belt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_11/24_16/71a530d1_4442_4070_b6c0_adea0108a2db/preview_am1911_0613_3__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A fringed leather belt directly attributed by the museum to the Chorote/Choroti people, consistent with Chaco-region leatherwork worn as clothing accessory.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1911-0613-2",
-    "name": "cap",
-    "kind": "cap",
-    "title": "cap",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_11/10_15/14f4ec4f_24fc_4554_8fa8_addc01007c9f/preview_front.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A hand-woven fibre cap fragment in red, yellow-gold and brown, attributed by the museum to the Chorote/Choroti people of the Gran Chaco, consistent with their known crocheted/looped caraguatá fiber headwear.",
-    "featured": true
-   }
-  ],
   "jewelry": [
    {
     "source": "bm",
@@ -446,6 +444,72 @@
     "confidence": "MEDIUM",
     "reason": "A strand of dyed purple feathers forming a head ornament, matching the museum's attribution to the Chorote/Choroti people of the Gran Chaco, who traditionally make feather headdresses and ornaments.",
     "featured": false
+   }
+  ],
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_Am1911-0613-1",
+    "name": "cloak",
+    "kind": "cloak",
+    "title": "cloak",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_5/11_10/324b3e6c_4509_4c01_b1cd_ae9200a7cc6d/preview_am1911_0613_1__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A woven wool cloak of striped brown and beige panels, sewn together—consistent with Chorote/Choroti woven wool garments from the Gran Chaco, and the museum credits it directly to this people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1911-0613-86",
+    "name": "tunic; shirt",
+    "kind": "tunic",
+    "title": "tunic; shirt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_11/14_10/c66526ce_e9fd_4bac_a892_af4d00abd8bd/preview_am1911_0613_86__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A striped fibre (chaguar) tunic/war shirt attributed to the Chorote/Choroti, a traditional handwoven garment type well documented for Gran Chaco groups including the Chorotí.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1911-0613-3",
+    "name": "belt",
+    "kind": "belt",
+    "title": "belt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_11/24_16/71a530d1_4442_4070_b6c0_adea0108a2db/preview_am1911_0613_3__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A fringed leather belt directly attributed by the museum to the Chorote/Choroti people, consistent with Chaco-region leatherwork worn as clothing accessory.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1911-0613-2",
+    "name": "cap",
+    "kind": "cap",
+    "title": "cap",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_11/10_15/14f4ec4f_24fc_4554_8fa8_addc01007c9f/preview_front.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A hand-woven fibre cap fragment in red, yellow-gold and brown, attributed by the museum to the Chorote/Choroti people of the Gran Chaco, consistent with their known crocheted/looped caraguatá fiber headwear.",
+    "featured": true
    }
   ],
   "ceramic": [

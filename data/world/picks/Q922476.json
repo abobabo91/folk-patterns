@@ -72,6 +72,54 @@
     "featured": true
    },
    {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_30479",
+    "name": "Pilbåge., pilbåge",
+    "kind": "bow",
+    "title": "Pilbåge., pilbåge",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1115713/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden bow decorated with wrapped cotton thread bands, collected in the Ireng River area associated with Akawaio/Patamona people; this is a genuine weapon used by the group, though the museum record itself lists multiple related peoples (Akawaio, Patamona, Ingariko) rather than confirming a single maker, and the location is Guyana, not Brazil as claimed. The object type fits the claimed people well enough given regional attribution overlap typical for these neighboring groups.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1905-1117-39",
+    "name": "fish-arrow",
+    "kind": "arrow",
+    "title": "fish-arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_6/30_14/43a17838_3455_49a6_a24f_aec400ebb515/preview_am1905_1117_39__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A fish-arrow made of wood, cane, and feathers, explicitly attributed to the Akawaio (Cariban-speaking) people — a traditional hunting/fishing implement consistent with Guiana Highland material culture.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_30146",
+    "name": "koger + blåsrörspil mm",
+    "kind": "quiver with blowgun darts",
+    "title": "koger + blåsrörspil mm",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1010465/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a traditional quiver (koger) with a bundle of blowpipe darts and an attached cotton basket, collected among the Akawaio/Ackawaio people on the Ireng River, matching the claimed ethnicity and the arms category.",
+    "featured": false
+   },
+   {
     "source": "bm",
     "id": "E_Am1905-1117-36",
     "name": "fish-arrow",
@@ -85,22 +133,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a long wooden fish-arrow with feather fletching, a traditional weapon type used by the Akawaio (a Cariban-speaking people of the Guiana region), matching the museum's attribution.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_30473",
-    "name": "Pilbåge., pilbåge",
-    "kind": "bow",
-    "title": "Pilbåge., pilbåge",
-    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1115709%2Fzoom&type=IMAGE",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "arms",
-    "image": "weak",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden bow (pilbåge) collected in Waipa Village on the Ireng/Chimepir River near the Guyana-Brazil border, an area associated with Akawaio/Patamona peoples — a plausible traditional weapon for this group.",
     "featured": false
    },
    {
@@ -133,6 +165,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a game arrow with a long iron point, cotton bindings, reed shaft, and fletched tail — matching the museum's description of an Akawaio-made arrow. This is a weapon type consistent with the claimed people's traditional material culture.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_30473",
+    "name": "Pilbåge., pilbåge",
+    "kind": "bow",
+    "title": "Pilbåge., pilbåge",
+    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1115709%2Fzoom&type=IMAGE",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "arms",
+    "image": "weak",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden bow (pilbåge) collected in Waipa Village on the Ireng/Chimepir River near the Guyana-Brazil border, an area associated with Akawaio/Patamona peoples — a plausible traditional weapon for this group.",
     "featured": false
    }
   ],
@@ -250,22 +298,6 @@
     "featured": false
    },
    {
-    "source": "bm",
-    "id": "E_Am-1563_1",
-    "name": "model; canoe",
-    "kind": "canoe",
-    "title": "model; canoe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_6/17_12/c53ec20b_ffca_48d2_895a_ad4a00d3e40f/preview_am___1563__a_.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden model canoe (corial), a household/transport item attributed to the Akawaio, consistent with traditional dugout canoe forms used in Guiana Highlands communities.",
-    "featured": false
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_14619",
     "name": "fackla",
@@ -359,6 +391,22 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The image shows a calabash (gourd) bowl used to hold \"ulali\" (curare-type poison for blowpipe arrows), collected in 1912 at the Akawaio village of Kurikuparu on the Ireng River — a genuine utilitarian object made and used by the Akawaio (also noted as Patamona/Ingariko in the record).",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-1563_1",
+    "name": "model; canoe",
+    "kind": "canoe",
+    "title": "model; canoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_6/17_12/c53ec20b_ffca_48d2_895a_ad4a00d3e40f/preview_am___1563__a_.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden model canoe (corial), a household/transport item attributed to the Akawaio, consistent with traditional dugout canoe forms used in Guiana Highlands communities.",
     "featured": false
    },
    {
@@ -602,24 +650,22 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a necklace of tapir and peccary teeth strung on cotton cord, collected at Waipa village on the Chimepir/Ireng River near Mount Roraima — a documented Akawaio/Patamona region of British Guiana, consistent with items worn by this people (the \"Brazil\" location tag is an error, but the object and its documented origin support the claim).",
     "featured": false
-   }
-  ],
-  "masks-ritual": [
+   },
    {
-    "source": "bm",
-    "id": "E_Am1905-1117-52",
-    "name": "personal ornament; dance equipment",
-    "kind": "personal ornament",
-    "title": "personal ornament; dance equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/9_16/dcc2d324_5d7e_491f_826f_a882010e9b20/preview_am1905_1117_52.jpg",
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_29888",
+    "name": "armring / hängprydnad",
+    "kind": "armring",
+    "title": "armring / hängprydnad",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1010093/zoom",
     "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
+    "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This shows a taxidermied toucan-skin dance ornament with cordage and dried scrota rattles, explicitly attributed by the museum to the Akawaio (a Cariban-speaking Amazonian people); such feather/skin dance regalia is a well-documented Akawaio and neighboring Guiana craft item.",
-    "featured": true
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The object is a cotton-yarn armring with white bead trim and a feathered pendant, collected at Waipa village on the Chimepir River near Roraima on the Guyana-Brazil border, explicitly noted as Akawaio (Ackawoi/Ackawaio) work in the museum's own documentation.",
+    "featured": false
    }
   ],
   "garment": [
@@ -637,22 +683,6 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "This is a beaded women's apron (skört) with a fringed geometric pattern, collected at Marituaka on the Ireng River in the Guiana region among Akawaio/Patamona peoples — exactly the type of garment this group is known for making and wearing.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am-2496",
-    "name": "crown; head-dress",
-    "kind": "crown",
-    "title": "crown; head-dress",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_3/20_11/4e4fc8b8_e874_4556_a70e_b13900bf412c/preview_am_2496__a_.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a feather crown/headdress made of woven reed, cotton cord, and colorful feathers, explicitly attributed to the Akawaio as makers, consistent with Amazonian featherwork traditions. This is a wearable ceremonial headdress, so garment fits better than jewelry.",
     "featured": true
    },
    {
@@ -685,6 +715,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "This is a dance belt/sash (dansgördel) strung with fruit-shell rattles and fiber fringe, collected in situ at Kurikuparu village on the Ireng River during the 1912 Thulin/Liljewalch expedition to British Guiana — a documented traditional garment worn by the Akawaio/Patamona people of that region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-2496",
+    "name": "crown; head-dress",
+    "kind": "crown",
+    "title": "crown; head-dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_3/20_11/4e4fc8b8_e874_4556_a70e_b13900bf412c/preview_am_2496__a_.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a feather crown/headdress made of woven reed, cotton cord, and colorful feathers, explicitly attributed to the Akawaio as makers, consistent with Amazonian featherwork traditions. This is a wearable ceremonial headdress, so garment fits better than jewelry.",
     "featured": true
    },
    {
@@ -1063,6 +1109,24 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The photo shows a thatched hut in an Akawaio village (Kwipa/Arawai on the Vemau River) with figures at the doorway, documented by Otto Thulin's 1912 expedition — a documentary photo of traditional dwelling and daily life matching the claimed people.",
+    "featured": true
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Am1905-1117-52",
+    "name": "personal ornament; dance equipment",
+    "kind": "personal ornament",
+    "title": "personal ornament; dance equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/9_16/dcc2d324_5d7e_491f_826f_a882010e9b20/preview_am1905_1117_52.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This shows a taxidermied toucan-skin dance ornament with cordage and dried scrota rattles, explicitly attributed by the museum to the Akawaio (a Cariban-speaking Amazonian people); such feather/skin dance regalia is a well-documented Akawaio and neighboring Guiana craft item.",
     "featured": true
    }
   ]

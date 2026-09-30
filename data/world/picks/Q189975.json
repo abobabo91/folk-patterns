@@ -3,42 +3,9 @@
  "label": "Inuit",
  "name": "Inuit",
  "judged": 0,
- "cached": 91,
+ "cached": 89,
  "cost_usd": 0,
  "ranked": {
-  "painting-mss": [
-   {
-    "source": "bm",
-    "id": "P_1906-0509-1-29",
-    "name": "drawing",
-    "kind": "drawing",
-    "title": "drawing",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_9/93043e9f_9244_4570_9de4_a3e1009ab943/preview_00025919_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A watercolour and ink portrait drawing of Kalicho, a named Inuk from Frobisher Bay, shown wearing sealskin/skin clothing and boots and holding a bow — a documentary-style depiction of Inuit dress and material culture, though made by a European artist (16th century) rather than by the Inuit themselves; still it documents genuine Inuit dress and gear, satisfying \"documentary photos of dress\" analog for painting-mss of a real individual rather than a fantastical European rendering.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "P_1982-U-1609",
-    "name": "drawing",
-    "kind": "drawing",
-    "title": "drawing",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_0/7390d189_4848_4285_aae2_a3bb000f8a6b/preview_00281896_001.jpg",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "HIGH",
-    "reason": "The drawing depicts an Inuit woman's parka (amauti) from front and back with annotated details, documenting traditional Inuit dress construction, consistent with the claimed ethnicity.",
-    "featured": true
-   }
-  ],
   "garment": [
    {
     "source": "bm",
@@ -71,6 +38,54 @@
     "featured": true
    },
    {
+    "source": "europeana",
+    "id": "/2021009/_5C7BB6EA71EF90C2F514DBEDE0FAD06A",
+    "name": "takki",
+    "kind": "garment",
+    "title": "takki",
+    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D695225%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a caribou-skin parka (fur-lined hood, fringed hem) made and used by Caribou Inuit (Eskimo Point, Kanada), matching the claimed Inuit ethnicity and garment category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1994-06-3",
+    "name": "parka",
+    "kind": "parka",
+    "title": "parka",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_17/a78d24cc_dfc5_4f9b_975f_a3e1011e6a2a/preview_00117437_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a child's amautik-style parka with fox-fur trimmed hood and appliqué trim in Western Arctic Inuit style, matching the claimed ethnicity and garment category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1855-1126-263-b",
+    "name": "trousers",
+    "kind": "trousers",
+    "title": "trousers",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_5/30_15/4b36ffe7_de0f_49e4_a3cd_a7830105da99/preview_am1855_1126_263b__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Fur trousers with striped trim, attributed by the museum to Inuit (Inuinnait) makers—a classic Arctic garment consistent with Inuit clothing traditions.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Am1855-1126-266-g-h",
     "name": "shoe",
@@ -84,7 +99,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A pair of traditional sealskin/leather women's shoes with characteristic puckered-toe construction, museum-attributed to Inuit (Inuinnait) makers — a classic Arctic garment type.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -100,7 +115,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A man's dance cap made of skin, bird beak (loon), fur, and hide, explicitly attributed to Inuit (Inuinnait), a classic Arctic ceremonial headdress.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -116,22 +131,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A child's fur hood (nasaq) made of caribou skin with characteristic banded fur pattern, attributed to Iglulingmiut Inuit makers — a traditional Inuit garment type.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/2021009/_5C7BB6EA71EF90C2F514DBEDE0FAD06A",
-    "name": "takki",
-    "kind": "garment",
-    "title": "takki",
-    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D695225%26size%3Dextra_large%26org%3D43094&type=IMAGE",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a caribou-skin parka (fur-lined hood, fringed hem) made and used by Caribou Inuit (Eskimo Point, Kanada), matching the claimed Inuit ethnicity and garment category.",
     "featured": false
    },
    {
@@ -184,21 +183,6 @@
    },
    {
     "source": "bm",
-    "id": "E_Am1855-1126-265-a",
-    "name": "parka",
-    "kind": "parka",
-    "title": "parka",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_5/31_8/6031a2d5_f3e6_4102_8df0_a784008aa8f4/preview_am1855_1126_265a__a_.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a fur/hide parka with hood and fringed apron-style front, consistent with traditional Inuit skin clothing construction.",
-    "featured": false
-   },
-   {
-    "source": "bm",
     "id": "E_Am1992-16-24-a-b",
     "name": "mitten",
     "kind": "mitten",
@@ -210,21 +194,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a pair of duffle mittens with fur trim and embroidered wrist decoration, a well-known Inuit-made garment type. This matches the claimed ethnicity and category well.",
-    "featured": false
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1992-16-45",
-    "name": "trousers",
-    "kind": "trousers",
-    "title": "trousers",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_17/22f1340a_2649_44e9_b29b_a3b901243b45/preview_00213081_001.jpg",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows sealskin trousers with sinew stitching and braces, a classic Inuit garment type made from ringed seal skin for cold-weather wear, consistent with the claimed ethnicity.",
     "featured": false
    },
    {
@@ -302,9 +271,87 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a pair of fur gloves, consistent with traditional Inuit cold-weather clothing made from animal skins; nothing contradicts the claimed attribution, though fur gloves are also plausible for other circumpolar/northern peoples.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1969-06-2-a-b",
+    "name": "boot",
+    "kind": "boot",
+    "title": "boot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_17/42085db8_3f8d_4acf_944b_a3d9011b5283/preview_01177499_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A pair of sealskin waterproof boots (kamik), directly attributed to Labrador Inuit makers, a classic Inuit garment type.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1855-1126-265-a",
+    "name": "parka",
+    "kind": "parka",
+    "title": "parka",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_5/31_8/6031a2d5_f3e6_4102_8df0_a784008aa8f4/preview_am1855_1126_265a__a_.jpg",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a fur/hide parka with hood and fringed apron-style front, consistent with traditional Inuit skin clothing construction.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1992-16-45",
+    "name": "trousers",
+    "kind": "trousers",
+    "title": "trousers",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_17/22f1340a_2649_44e9_b29b_a3b901243b45/preview_00213081_001.jpg",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows sealskin trousers with sinew stitching and braces, a classic Inuit garment type made from ringed seal skin for cold-weather wear, consistent with the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1824-0410-3-a-b",
+    "name": "mitten",
+    "kind": "mitten",
+    "title": "mitten",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/19_16/7766b2de_ed2c_4988_9fdf_a425010afb5f/preview_1824_0410_3__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A pair of fur skin mittens attributed to Iglulik Inuit makers, consistent with traditional Inuit caribou-skin clothing.",
+    "featured": false
    }
   ],
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-A43-9",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_15/a1190eee_325c_4e12_a3fe_a3c000f9bd7d/preview_00569180_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Studio portrait of an Inuit woman named Ooktook wearing a beaded caribou-hide parka, brass headband, and rings, documenting traditional Inuit dress from Fullerton Harbour, Hudson Bay. This is a clear documentary photo of the culture's own dress, matching the claimed ethnicity.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-A46-169",
@@ -381,7 +428,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The photograph shows Inuit women in fur parkas seated in front of a timber building with hide stretched to dry above them, a documentary image of traditional dress and daily life consistent with the claimed ethnicity.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -460,6 +507,38 @@
    },
    {
     "source": "bm",
+    "id": "E_2012-2031-118",
+    "name": "digital photograph",
+    "kind": "photograph",
+    "title": "digital photograph (colour)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_16/0327c846_f57b_48aa_a47f_a3df0110ea55/preview_01523919_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The photo documents Inuit girls and a man in traditional-style dress (skin boots, parkas, headscarves) in Nain, Labrador, alongside a European visitor; it's a documentary photo of Inuit dress and daily life, which fits the claimed ethnicity despite the outsider also present.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A46-99",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_13/9bdf99e0_5717_4f0b_b26d_a3bf00da3ba0/preview_00515460_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A close-up documentary portrait of an Inuit man wearing traditional fur/skin clothing, consistent with the claimed ethnicity and a genuine ethnographic photograph.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "EA_Am-A49-160",
     "name": "photographic print",
     "kind": "photograph",
@@ -492,6 +571,22 @@
    },
    {
     "source": "bm",
+    "id": "EA_Am-A49-184",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_22/411837bb_7084_494c_8799_a3c10175caa6/preview_00711125_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "weak",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A documentary photograph of Inuit whalers with sledge dogs and whaling boats on snow/ice, a plausible traditional Arctic Canadian scene consistent with Inuit whaling activity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "EA_Am-B6-28",
     "name": "photographic print",
     "kind": "photograph",
@@ -520,6 +615,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "The image shows three ulu knives with curved metal blades and wooden handles, a classic Inuit women's tool used for skinning, cutting food, and other domestic tasks — matching both the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-St-756-a",
+    "name": "seam-smoother",
+    "kind": "smoother",
+    "title": "seam-smoother",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/3_12/cfa917c6_b0dc_4801_bfe5_a45000d45872/preview_St_756a__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A carved walrus-ivory seam smoother with an animal-head terminal and incised diamond band, a classic Inuit skin-sewing tool used to flatten and smooth seams on hide clothing/kayaks. This is a well-documented Inuit household/craft implement.",
     "featured": true
    },
    {
@@ -581,7 +692,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is an elongated soapstone vessel with worn, hand-carved walls — consistent with a traditional Inuit stone cooking pot or lamp (qulliq-type form), a well-attested Inuit material culture item.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -596,6 +707,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a bone/ivory toggle, a classic Inuit tool used to fasten harness lines, tent ropes or kayak rigging — clearly Inuit-made material culture, though it is a utilitarian fastener rather than \"jewelry.\"",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1903-0615-18",
+    "name": "thimble",
+    "kind": "thimble",
+    "title": "thimble",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_11/aa49e03d_a2b3_4afa_9004_a3e000b77e02/preview_01580933_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A worn conical caribou-bone thimble, a small hand tool used in Inuit sewing; museum attributes it to Inuit (Inuinnait), consistent with the claim.",
     "featured": false
    },
    {
@@ -1045,6 +1172,38 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1855-1126-294",
+    "name": "bolas",
+    "kind": "bolas",
+    "title": "bolas",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_19/777f3167_3b40_42f7_a907_a3be0143e08f/preview_00461245_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows ivory bird bolas weights on sinew cord, a hunting weapon type specifically made and used by Inuit/Eskimo-Aleut peoples for catching birds; matches the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1921-1004-12-a",
+    "name": "harpoon-line",
+    "kind": "line",
+    "title": "harpoon-line",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_19/ff701275_9a37_488d_94d8_a3df013c5f84/preview_01539936_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Sealskin harpoon float and coiled line with ivory components, a classic Inuit/Arctic hunting equipment assemblage attributed here to Itivimiut/Labrador Inuit; the harpoon head with rivetted iron point is the weapon element.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Am1985-Q-2",
     "name": "shaft",
     "kind": "shaft",
@@ -1089,7 +1248,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a coiled sealskin harpoon line with an iron bilaterally-barbed harpoon head attached, a hunting weapon type used by Inuit peoples (Itivimiut/Labrador Inuit per museum record) for seal hunting.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -1104,7 +1263,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A knife with a native copper leaf-shaped blade, antler/bone handle, and sinew wrapping matches the known style of Copper Inuit knives from Arctic Canada, consistent with the claimed Inuit ethnicity and arms category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -1149,6 +1308,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The object is a carved wooden atlatl (spear thrower) with ivory decoration and finger-hole grip, labeled \"Alaska, Norton Sound\" — a hunting tool characteristic of Inuit/Yup'ik Arctic peoples.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-St-743",
+    "name": "arm-guard",
+    "kind": "arm guard",
+    "title": "arm-guard",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_5/20_11/094fc555_4e69_47c2_ae4a_aa5300bcc14b/preview_am_st_743__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is an archer's arm-guard with carved ivory/bone plates and metal ornaments on a leather strap, a recognized Inuit archery accessory used in the Canadian Arctic. It matches the claimed ethnicity and category well.",
     "featured": false
    },
    {
@@ -1277,33 +1452,34 @@
    },
    {
     "source": "bm",
-    "id": "E_2012-2049-3",
-    "name": "sculpture",
-    "kind": "sculpture",
-    "title": "sculpture",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_18/01bf14e6_1b50_4e06_b7bc_a3db012e6a07/preview_01261215_001.jpg",
+    "id": "E_Am1994-08-1",
+    "name": "doll",
+    "kind": "doll",
+    "title": "doll",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_5/31_15/ef55e741_afa4_4c62_952b_b0130101f6a8/preview_am1994_08_1__a_.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The carving shows a seated figure in a fur parka holding a seal, with additional seal forms carved beside his head, in the characteristic dark stone typical of Canadian Inuit carving traditions — this is a classic Inuit soapstone/serpentine sculpture subject.",
+    "reason": "A carved wooden doll with a face, dressed in sealskin parka and trousers with a pointed hood—classic Inuit clothing and doll-making tradition, well documented as a genuine ethnographic type.",
     "featured": true
    },
    {
     "source": "bm",
-    "id": "E_2012-2031-12",
-    "name": "doll",
-    "kind": "doll",
-    "title": "doll",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/8_10/7c02ddf3_a578_46c2_8d47_a8f900aebbf0/preview_2012_2031_12__a_.jpg",
+    "id": "E_2012-2049-2",
+    "name": "sculpture",
+    "kind": "sculpture",
+    "title": "sculpture",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_5/29_15/cb2dcc7f_d7e1_40e7_a858_aa5c00fae66d/preview_2012_2049_2__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a carved wooden doll dressed in a traditional Labrador Inuit sealskin parka, mittens, and boots, matching the claimed ethnicity and its documented material culture.",
+    "reason": "A soapstone carving of a standing bear, a classic Inuit sculptural subject and medium, matches the claimed Canadian Inuit attribution well.",
     "featured": true
    },
    {
@@ -1335,6 +1511,69 @@
     "confidence": "MEDIUM",
     "reason": "A miniature walrus ivory model of a snow shovel with a thong-lashed handle, a classic Inuit-made tool form (often carved as models/toys), consistent with traditional Inuit material culture.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am2004-01-7",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_14/11d34ac8_fb5f_46c2_855a_a3c500ec9fff/preview_00946597_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A polished green serpentine carving of a bird (tern), a classic Inuit stone sculpture form well documented as made by Canadian Inuit carvers. This fits the claimed ethnicity directly.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_2009-2024-1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_13/9a352d97_0320_4bbb_96a9_a3c500e2ec99/preview_00944470_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a soapstone carving of a bear-and-hunter transformation figure, a classic subject and medium of Inuit sculpture traditions (e.g., Cape Dorset-style carving), matching the claimed ethnicity well.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_2012-2049-3",
+    "name": "sculpture",
+    "kind": "sculpture",
+    "title": "sculpture",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_18/01bf14e6_1b50_4e06_b7bc_a3db012e6a07/preview_01261215_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The carving shows a seated figure in a fur parka holding a seal, with additional seal forms carved beside his head, in the characteristic dark stone typical of Canadian Inuit carving traditions — this is a classic Inuit soapstone/serpentine sculpture subject.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_2012-2031-12",
+    "name": "doll",
+    "kind": "doll",
+    "title": "doll",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/8_10/7c02ddf3_a578_46c2_8d47_a8f900aebbf0/preview_2012_2031_12__a_.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden doll dressed in a traditional Labrador Inuit sealskin parka, mittens, and boots, matching the claimed ethnicity and its documented material culture.",
+    "featured": false
    },
    {
     "source": "bm",
@@ -1395,6 +1634,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A finely carved wooden caribou figure, consistent with Inuit/Arctic carving traditions depicting local fauna; well made and clearly photographed against a scale bar.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_2012-2031-13",
+    "name": "doll",
+    "kind": "doll",
+    "title": "doll",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/8_10/4b49eddb_7d64_4d00_9b77_a8f900afc727/preview_2012_2031_13__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A carved wooden doll dressed in traditional Labrador Inuit sealskin parka, boots, and decorated woollen accessories, matching the claimed maker attribution (Labrador Inuit) exactly. This is a clothed figure/toy representing Inuit dress craft, made and used by the culture claimed.",
     "featured": false
    },
    {
@@ -1603,6 +1858,39 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a round frame drum (kelyaut) with a taut skin membrane and wooden handle, consistent with traditional Inuit/Iñupiaq drum-making using local materials like driftwood frames and skin heads.",
+    "featured": true
+   }
+  ],
+  "painting-mss": [
+   {
+    "source": "bm",
+    "id": "P_1906-0509-1-29",
+    "name": "drawing",
+    "kind": "drawing",
+    "title": "drawing",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_9/93043e9f_9244_4570_9de4_a3e1009ab943/preview_00025919_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A watercolour and ink portrait drawing of Kalicho, a named Inuk from Frobisher Bay, shown wearing sealskin/skin clothing and boots and holding a bow — a documentary-style depiction of Inuit dress and material culture, though made by a European artist (16th century) rather than by the Inuit themselves; still it documents genuine Inuit dress and gear, satisfying \"documentary photos of dress\" analog for painting-mss of a real individual rather than a fantastical European rendering.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "P_1982-U-1609",
+    "name": "drawing",
+    "kind": "drawing",
+    "title": "drawing",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_0/7390d189_4848_4285_aae2_a3bb000f8a6b/preview_00281896_001.jpg",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The drawing depicts an Inuit woman's parka (amauti) from front and back with annotated details, documenting traditional Inuit dress construction, consistent with the claimed ethnicity.",
     "featured": true
    }
   ],

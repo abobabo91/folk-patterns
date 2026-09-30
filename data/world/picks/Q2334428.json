@@ -2,9 +2,9 @@
  "key": "Q2334428",
  "label": "Bezanozano",
  "name": "Bezanozano",
- "judged": 24,
- "cached": 0,
- "cost_usd": 0.201,
+ "judged": 0,
+ "cached": 13,
+ "cost_usd": 0,
  "ranked": {
   "household": [
    {
@@ -41,18 +41,50 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1984-14-360",
-    "name": "container",
-    "kind": "container",
-    "title": "container",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_20/e8d2b4c8_206d_4f77_a761_a3c501508c88/preview_00963347_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "id": "E_Af1984-14-379",
+    "name": "hoe",
+    "kind": "hoe",
+    "title": "hoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/83fa0f61_0711_4260_a896_a3e000a72815/preview_01574815_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a woven fibre basket/container with a handle, matching the museum's description of a spoon container made by the Bezanozano people of Madagascar.",
+    "reason": "The image shows a simple iron-bladed hand hoe with a wooden haft, a common Malagasy agricultural tool attributed by the museum to the Bezanozano people; nothing contradicts this.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-365",
+    "name": "press",
+    "kind": "press",
+    "title": "press",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_11/4cfa7588_7c00_4867_b47f_a3e000bcaae3/preview_01582760_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven basketry honey-comb press with a strainer/handle loop, a plausible household/craft tool for Madagascar and consistent with the museum's direct attribution to the Bezanozano.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-368",
+    "name": "container",
+    "kind": "container",
+    "title": "container",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_11/bb05612c_806f_46a8_81a6_a3e000bcacb3/preview_01582761_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A gourd container bound with a fibre net sling, a typical everyday carrying/storage vessel of Madagascar, attributed by the museum to the Bezanozano; plausible as household equipment of this people.",
     "featured": true
    },
    {
@@ -69,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a horn fire-lighting container with a plaited cord strap, attributed by the museum to the Bezanozano of Madagascar as maker/user of this everyday utility object.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +117,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a cattle horn drinking vessel, a plausible household object attributed to the Bezanozano people of Madagascar, consistent with the museum's attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -134,56 +166,38 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a woven plant-fiber sleeping mat with a diamond/herringbone pattern, a traditional Malagasy craft attributed to the Bezanozano; plausible as a household item made by this people.",
     "featured": false
-   }
-  ],
-  "ceramic": [
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-371",
-    "name": "mortar",
-    "kind": "mortar",
-    "title": "mortar",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/464533e1_6852_4a20_bfa0_a3e000c5fc48/preview_01583118_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a handmade pottery mortar/vessel, consistent with the museum's attribution to the Bezanozano people of Madagascar as a household object.",
-    "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Af1984-14-369",
-    "name": "pot",
-    "kind": "pot",
-    "title": "pot",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/6ca7cbbb_0df2_4796_960a_a3e000c5f5b3/preview_01583115_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "ceramic",
+    "id": "E_Af1984-14-331",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_11/4ce7649b_64e3_4c1b_a171_a3e000bb094a/preview_01582300_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A simple handmade unglazed clay bowl, consistent with traditional Malagasy pottery attributed to the Bezanozano; museum credits it directly to this group.",
-    "featured": true
+    "reason": "An unfinished woven basket in colorful plaited plastic/raffia strips, attributed by the museum directly to the Bezanozano people of Madagascar; basketry is a well-known craft of the region.",
+    "featured": false
    },
    {
     "source": "bm",
-    "id": "E_Af1984-14-370",
-    "name": "pot",
-    "kind": "pot",
-    "title": "pot",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/6dd81f38_58f5_48f4_86e1_a3e000c5f9e3/preview_01583117_001.jpg",
+    "id": "E_Af1984-14-360",
+    "name": "container",
+    "kind": "container",
+    "title": "container",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_20/e8d2b4c8_206d_4f77_a761_a3c501508c88/preview_00963347_001.jpg",
     "judge": "pick:claude-sonnet-5",
-    "art_form": "ceramic",
+    "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a traditional handmade earthenware pot with a globular body and flared neck, consistent with Malagasy pottery traditions, and the museum attributes it directly to the Bezanozano.",
-    "featured": true
+    "reason": "The image shows a woven fibre basket/container with a handle, matching the museum's description of a spoon container made by the Bezanozano people of Madagascar.",
+    "featured": false
    }
   ],
   "arms": [
@@ -233,6 +247,56 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a long wooden blow-pipe, a weapon/hunting tool, consistent with the museum's attribution to the Bezanozano people of Madagascar. It is a plausible traditional object type for the culture with no evidence against the claim.",
+    "featured": true
+   }
+  ],
+  "ceramic": [
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-371",
+    "name": "mortar",
+    "kind": "mortar",
+    "title": "mortar",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/464533e1_6852_4a20_bfa0_a3e000c5fc48/preview_01583118_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a handmade pottery mortar/vessel, consistent with the museum's attribution to the Bezanozano people of Madagascar as a household object.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-369",
+    "name": "pot",
+    "kind": "pot",
+    "title": "pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/6ca7cbbb_0df2_4796_960a_a3e000c5f5b3/preview_01583115_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple handmade unglazed clay bowl, consistent with traditional Malagasy pottery attributed to the Bezanozano; museum credits it directly to this group.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-370",
+    "name": "pot",
+    "kind": "pot",
+    "title": "pot",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/6dd81f38_58f5_48f4_86e1_a3e000c5f9e3/preview_01583117_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a traditional handmade earthenware pot with a globular body and flared neck, consistent with Malagasy pottery traditions, and the museum attributes it directly to the Bezanozano.",
     "featured": true
    }
   ],

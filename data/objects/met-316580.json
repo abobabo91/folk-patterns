@@ -1,0 +1,99 @@
+{
+  "id": "met-316580",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "316580",
+    "object_url": "https://www.metmuseum.org/art/collection/search/316580",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Mr. and Mrs. Klaus G. Perls, 1991",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1991.17.111",
+    "accession_year": "1991"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a Benin (Edo) brass altar tableau depicting a queen mother flanked by attendants, a classic Edo court art object made in brass, used in ancestral altars. It fits the Edo claim well, though it's a sculptural object rather than architectural per se.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Ùrhọ̀tọ̀ (altar tableau) with an iyọ́bà (queen mother) and attendants",
+    "titles_alt": [],
+    "date_text": "18th century",
+    "date_earliest": 1700,
+    "date_latest": 1800,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Brass"
+    ],
+    "techniques": [],
+    "medium_raw": "Brass",
+    "classification": "Metal-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H.13 1/2 x W. 10 5/16 x D. 11 1/4 in. (34.3 x 26.2 x 28.6 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Court of Benin, Nigeria",
+    "made_in_place_alt": [],
+    "current_gallery": "342",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Ìgùn Ẹ́rọ̀nwwọ̀n (brass-casting guild) artists",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025483"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/sculpture/edo/images/met_316580.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "885e15e21a8179a9417bb078b44127255ea9415258730ca36022b2699cd759b7",
+      "bytes": 1691944,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\sculpture\\edo\\images\\met_316580.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:03:33.522723+00:00"
+}

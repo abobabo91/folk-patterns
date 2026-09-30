@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1969-35-72",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1969-35-72",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1969-35-72",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1969.35.72",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Central African Republic",
+    "ethnicity": "Gbaya",
+    "tradition": "Gbaya",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A simple iron-headed spear with wooden shaft, a weapon type used by Gbaya and neighboring Central African groups; museum directly attributes it as Gbaya-made.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "spear",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spear",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Spear with iron head, and wooden shaft.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/central-african-republic/gbaya/arms/gbaya/images/bm_E_Af1969_35_72.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "6dc2c7b0a59870fa5b870aa2972b414e1eedb776edcfb105478c27b0d8eff427",
+      "bytes": 20777,
+      "local_path": "library\\sub-saharan-africa\\central-african-republic\\gbaya\\arms\\gbaya\\images\\bm_E_Af1969_35_72.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:07:14.100597+00:00"
+}

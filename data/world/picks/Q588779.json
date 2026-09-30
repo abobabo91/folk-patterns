@@ -2,9 +2,9 @@
  "key": "Q588779",
  "label": "Bongo people",
  "name": "Bongo",
- "judged": 47,
- "cached": 0,
- "cost_usd": 0.447,
+ "judged": 0,
+ "cached": 19,
+ "cost_usd": 0,
  "ranked": {
   "instruments": [
    {
@@ -187,6 +187,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af-2961",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/22_14/0ddb8aa6_a819_472e_83a5_a4bf00ed32af/preview_EAF29487.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A complete iron-tipped arrow with reed shaft and fibre binding, attributed by the museum to the Bongo people of South Sudan; this matches the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af-3011",
     "name": "quiver",
     "kind": "quiver",
@@ -219,6 +235,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af-2968",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_6/25_12/bcae426d_b872_420f_93ad_b30700d2740b/preview_EAF151736.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A single arrow with iron head, reed shaft and fibre binding, directly attributed to the Bongo people of South Sudan by the museum, consistent with known Bongo material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af-2944",
     "name": "arrow",
     "kind": "arrow",
@@ -231,7 +263,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The image shows a full reed-shafted arrow with an iron point and fibre binding, consistent with the museum's attribution to the Bongo people of South Sudan.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -335,18 +367,18 @@
   "household": [
    {
     "source": "bm",
-    "id": "E_Af1954-23-3172",
+    "id": "E_Af-2724",
     "name": "stool",
     "kind": "stool",
     "title": "stool",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/1931f70d_0fb5_4284_9cfc_a48700f330f9/preview_EAF52858.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/13_13/a1d54042_9247_4cc5_941e_a47900e2cf4e/preview_EAF29393.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a wooden headrest/stool with a curved seat and four carved legs, matching the museum's attribution to the Bongo people of South Sudan; it is a household/furniture item plausible for the region.",
+    "reason": "A carved wooden headrest/stool with an angled leg, attributed to the Bongo people of South Sudan; this form is a well-known Bongo carved headrest type, plausible for the culture despite the \"formerly recorded as Bonjac\" note being just an old spelling variant.",
     "featured": true
    },
    {
@@ -399,6 +431,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1954-23-3172",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/1931f70d_0fb5_4284_9cfc_a48700f330f9/preview_EAF52858.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden headrest/stool with a curved seat and four carved legs, matching the museum's attribution to the Bongo people of South Sudan; it is a household/furniture item plausible for the region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af-2723",
     "name": "stool; head-rest",
     "kind": "stool",
@@ -411,7 +459,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a carved wooden stool/headrest with a stylised animal-form neck, matching the museum's attribution to the Bongo people of Bahr-el-Ghazal.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -444,40 +492,6 @@
     "confidence": "HIGH",
     "reason": "The image shows a wooden headrest/stool with a curved seat, four legs, and a handle with loop — a classic Bongo-made carved wooden headrest/stool from South Sudan, consistent with the museum's attribution.",
     "featured": false
-   }
-  ],
-  "metalwork": [
-   {
-    "source": "bm",
-    "id": "E_Af-4811",
-    "name": "currency; blade",
-    "kind": "blade",
-    "title": "currency; blade",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_14/2c4e1c4c_c958_42bd_b4fd_a3be00f09d41/preview_00436310_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a wide, flat iron blade currency object, consistent with traditional Bongo (South Sudan) metalwork used as currency/bridewealth items, and the museum directly attributes it to the Bongo people.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af-8061",
-    "name": "currency; hoe",
-    "kind": "hoe",
-    "title": "currency; hoe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_14/dc2de09a_1678_4116_be0b_a3be00f0a159/preview_00436312_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows an iron hoe-blade currency, a well-known Central/East African form of traditional wealth object, attributed by the museum to Bongo makers.",
-    "featured": true
    }
   ],
   "jewelry": [
@@ -608,6 +622,40 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden lip-plug/ornament, a body adornment worn by Bongo women according to the museum record, which is consistent with the claimed ethnicity and category.",
     "featured": false
+   }
+  ],
+  "metalwork": [
+   {
+    "source": "bm",
+    "id": "E_Af-4811",
+    "name": "currency; blade",
+    "kind": "blade",
+    "title": "currency; blade",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_14/2c4e1c4c_c958_42bd_b4fd_a3be00f09d41/preview_00436310_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a wide, flat iron blade currency object, consistent with traditional Bongo (South Sudan) metalwork used as currency/bridewealth items, and the museum directly attributes it to the Bongo people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af-8061",
+    "name": "currency; hoe",
+    "kind": "hoe",
+    "title": "currency; hoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_14/dc2de09a_1678_4116_be0b_a3be00f0a159/preview_00436312_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron hoe-blade currency, a well-known Central/East African form of traditional wealth object, attributed by the museum to Bongo makers.",
+    "featured": true
    }
   ]
  }

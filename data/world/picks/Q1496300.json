@@ -2,11 +2,27 @@
  "key": "Q1496300",
  "label": "Mopan people",
  "name": "Mopan",
- "judged": 1,
- "cached": 35,
- "cost_usd": 0.006,
+ "judged": 0,
+ "cached": 7,
+ "cost_usd": 0,
  "ranked": {
   "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Am1994-13-58",
+    "name": "dance-mask",
+    "kind": "mask",
+    "title": "dance-mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/9442a04c_b950_4ad5_ba93_a3ba01204fbd/preview_00244857_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden jaguar dance-mask, painted with spots, holes for eyes, and string ties — a classic Maya ritual dance mask type used in Guatemalan (including Mopan) village fiesta dances. The museum explicitly records it as made by the Mopan.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Am1994-13-61",
@@ -41,6 +57,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1994-13-50",
+    "name": "dance-mask",
+    "kind": "mask",
+    "title": "dance-mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/c6e3c8c1_fba8_4c25_b6ed_a3ba012045e8/preview_00244920_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple carved wooden dance mask with painted pink face, black brows and cut eye/mouth holes—plausible ritual dance object made and used by a Guatemalan Maya group like the Mopan, and the museum explicitly attributes it as such.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Am1994-13-53",
     "name": "dance-mask",
     "kind": "mask",
@@ -69,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A carved wooden dance mask with painted black face and pink eye/mouth surrounds, consistent with Maya dance-mask traditions of Guatemala such as the Mopan; the museum credits it as Mopan-made.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +117,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a carved wooden dog/animal-head dance mask element attributed to Mopan makers, consistent with dance equipment used in Maya ceremonial dances of Guatemala.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -183,6 +215,40 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a backstrap-loom woven acrylic bag with striped patterning and fringe, a textile item attributed to the Mopan Maya, consistent with regional weaving traditions.",
+    "featured": true
+   }
+  ],
+  "ceramic": [
+   {
+    "source": "bm",
+    "id": "E_Am1994-13-30",
+    "name": "incense-burner",
+    "kind": "incense burner",
+    "title": "incense-burner",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/6fda238f_395a_49cd_8bea_a3ba0119d309/preview_00243743_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a fire-stained pottery incense burner with a semicircular bowl and three decorated strips forming a handle, matching the museum's attribution to Mopan makers and consistent with Maya ceramic traditions of the region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1994-13-43",
+    "name": "figurine",
+    "kind": "figurine",
+    "title": "figurine",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_18/cf92b4ec_d5d8_4018_82dd_a3b801316cbc/preview_00322608_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A lightly-fired red-ware pottery figurine of a toucan-like bird, with incised eye and wing marks, consistent with handmade Maya-area folk ceramics attributed to the Mopan people.",
     "featured": true
    }
   ],
@@ -314,40 +380,6 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a wicker-woven palm-fibre basket, matching the museum's attribution of Mopan manufacture from \"basket tie-tie\" fibre, a traditional household item consistent with Mopan Maya craft.",
     "featured": false
-   }
-  ],
-  "ceramic": [
-   {
-    "source": "bm",
-    "id": "E_Am1994-13-30",
-    "name": "incense-burner",
-    "kind": "incense burner",
-    "title": "incense-burner",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/6fda238f_395a_49cd_8bea_a3ba0119d309/preview_00243743_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a fire-stained pottery incense burner with a semicircular bowl and three decorated strips forming a handle, matching the museum's attribution to Mopan makers and consistent with Maya ceramic traditions of the region.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1994-13-43",
-    "name": "figurine",
-    "kind": "figurine",
-    "title": "figurine",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_18/cf92b4ec_d5d8_4018_82dd_a3b801316cbc/preview_00322608_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A lightly-fired red-ware pottery figurine of a toucan-like bird, with incised eye and wing marks, consistent with handmade Maya-area folk ceramics attributed to the Mopan people.",
-    "featured": true
    }
   ],
   "garment": [

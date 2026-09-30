@@ -2,8 +2,8 @@
  "key": "Q187985",
  "label": "Tibetan people",
  "name": "Tibetan",
- "judged": 11,
- "cached": 85,
+ "judged": 0,
+ "cached": 92,
  "cost_usd": 0,
  "ranked": {
   "jewelry": [
@@ -250,40 +250,6 @@
     "featured": false
    }
   ],
-  "masks-ritual": [
-   {
-    "source": "bm",
-    "id": "A_2003-0929-1",
-    "name": "shanmudra; bell",
-    "kind": "bell",
-    "title": "shanmudra; bell",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/14_13/f9d1c917_8d33_4aa5_965a_a95b00d66c9d/preview_RRI34041.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a bone apron (shanmudra) used in Tibetan/Himalayan tantric ritual dance (cham) with small bells attached at the hem, not a musical instrument itself but a ritual garment/ornament associated with Tibetan Buddhist practice. It clearly belongs to the claimed culture's ritual tradition, though the category \"instruments\" is a mismatch for what is shown.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_1944-0708-1",
-    "name": "dagger; purba",
-    "kind": "dagger",
-    "title": "dagger; purba",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/28_14/cfbd87e5_0c5f_4e9b_aeda_a9a600f0ab0f/preview_RRI8791_front.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a phurba (ceremonial ritual dagger) with a three-headed yidam figure atop, a Tibetan Buddhist ritual object used in tantric ceremonies, consistent with the claimed Tibetan attribution.",
-    "featured": true
-   }
-  ],
   "arms": [
    {
     "source": "met",
@@ -428,6 +394,22 @@
     "confidence": "MEDIUM",
     "reason": "This is a lamellar leather-and-iron shoulder/knee armor piece attributed to Tibetan or Mongolian make, consistent with historic Tibetan armor traditions.",
     "featured": false
+   },
+   {
+    "source": "met",
+    "id": "27797",
+    "name": "Armored belt",
+    "kind": "belt",
+    "title": "Armored Belt",
+    "image_url": "https://images.metmuseum.org/CRDImages/aa/web-large/DP114078.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a lamellar armored belt of iron plates riveted to leather, an armor component worn as protective gear — a type historically made and used in Tibet. It fits the claimed ethnicity and is a garment/armor item plausible for the region.",
+    "featured": false
    }
   ],
   "garment": [
@@ -512,19 +494,19 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "A_As1996-34-2",
-    "name": "hat",
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1007634",
+    "name": "hatt, huvudbonad, hat, Bangsji",
     "kind": "hat",
-    "title": "hat",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/b63f2b01_bc7f_49f3_a2af_a3bc00f99807/preview_00427395_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "title": "hatt, huvudbonad, hat, Bangsji",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1330408/1929.21.0062_alt2.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A conical felted wool hat with wide brim and cotton trim is a plausible traditional headwear type from the Tibetan plateau region (worn by herders/nomads), consistent with the claimed garment category.",
+    "reason": "This is a Gelugpa (\"yellow hat\" Tibetan Buddhist school) ceremonial lama's headdress with red edging and yellow fringe, a type of clerical garment used within Tibetan Buddhist monastic tradition; though held in a Mongolian collection, the Gelugpa order and its regalia originate with and are shared by Tibetan Buddhist clergy.",
     "featured": false
    },
    {
@@ -542,6 +524,88 @@
     "confidence": "MEDIUM",
     "reason": "A plain handspun cotton shirt with metal toggle fasteners and standing collar, consistent with traditional garments worn across the Tibetan/Himalayan region; nothing contradicts the Tibetan attribution.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1996-34-2",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/b63f2b01_bc7f_49f3_a2af_a3bc00f99807/preview_00427395_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A conical felted wool hat with wide brim and cotton trim is a plausible traditional headwear type from the Tibetan plateau region (worn by herders/nomads), consistent with the claimed garment category.",
+    "featured": false
+   }
+  ],
+  "textile": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1008402",
+    "name": "rug, Töiråluck",
+    "kind": "rug",
+    "title": "rug, Töiråluck",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1858543/image.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A white felt mat embroidered with camel-wool thread in geometric key-fret patterns and shou (longevity) roundels, edged with braided dark hair, described as a gift from a Tibetan gegen (lama) collected during Central Asian travels; consistent with Tibetan felt mat traditions.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1024678",
+    "name": "täcke, gravtäcke",
+    "kind": "burial cloth",
+    "title": "täcke, gravtäcke",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3277969/bild-1935.50.2838b.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a Tibetan Buddhist funerary cloth (grave cover / dharani shroud) with Sanskrit/Tibetan mantras, deity motifs, and cosmic symbols arranged around a stupa-like form marking body placement — consistent with Tibetan Buddhist funerary textile practice.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1362146",
+    "name": "dräkt, schal, garment, costume, garb",
+    "kind": "costume",
+    "title": "dräkt, schal, garment, costume, garb",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1514025/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven wool shawl/textile with a patterned border and scattered diamond motifs, with a tag noting \"Tibetan Handicrafts\" — consistent with Tibetan-made woven wool goods.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1355826",
+    "name": "sadeltäcke, sadelmatta",
+    "kind": "saddle cloth",
+    "title": "sadeltäcke, sadelmatta",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2551091/bild-1935.50.0060_b.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven saddle cover/mat with a red woollen Tibetan fabric section, consistent with the museum's own description and plausible for Tibetan textile production.",
+    "featured": true
    }
   ],
   "metalwork": [
@@ -818,24 +882,6 @@
     "featured": false
    }
   ],
-  "ceramic": [
-   {
-    "source": "bm",
-    "id": "A_As1910-0623-11",
-    "name": "bottle",
-    "kind": "bottle",
-    "title": "bottle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_15/89a799dd_835a_447b_8877_a3dd01040fd9/preview_01379631_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "This is a redware pilgrim/flask-shaped bottle with lug handles and stamped concentric medallion decoration, a form consistent with Tibetan traditional pottery vessels used for carrying liquids; it plausibly fits the claimed culture.",
-    "featured": true
-   }
-  ],
   "painting-mss": [
    {
     "source": "europeana",
@@ -964,59 +1010,41 @@
     "confidence": "HIGH",
     "reason": "A Tibetan thangka scroll painting depicting scenes from the life of Milarepa, mounted in traditional brocade silk, a classic Tibetan Buddhist art form.",
     "featured": false
-   }
-  ],
-  "textile": [
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1008402",
-    "name": "rug, Töiråluck",
-    "kind": "rug",
-    "title": "rug, Töiråluck",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1858543/image.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A white felt mat embroidered with camel-wool thread in geometric key-fret patterns and shou (longevity) roundels, edged with braided dark hair, described as a gift from a Tibetan gegen (lama) collected during Central Asian travels; consistent with Tibetan felt mat traditions.",
-    "featured": true
    },
    {
     "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1024678",
-    "name": "täcke, gravtäcke",
-    "kind": "burial cloth",
-    "title": "täcke, gravtäcke",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3277969/bild-1935.50.2838b.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "textile",
+    "id": "/91619/SMVK_EM_objekt_1241454",
+    "name": "bildrulle, thangka, thanka",
+    "kind": "scroll",
+    "title": "bildrulle, thangka, thanka",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1253680/1935.50.0826.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a Tibetan Buddhist funerary cloth (grave cover / dharani shroud) with Sanskrit/Tibetan mantras, deity motifs, and cosmic symbols arranged around a stupa-like form marking body placement — consistent with Tibetan Buddhist funerary textile practice.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1355826",
-    "name": "sadeltäcke, sadelmatta",
-    "kind": "saddle cloth",
-    "title": "sadeltäcke, sadelmatta",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2551091/bild-1935.50.0060_b.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a woven saddle cover/mat with a red woollen Tibetan fabric section, consistent with the museum's own description and plausible for Tibetan textile production.",
-    "featured": true
+    "confidence": "HIGH",
+    "reason": "A traditional Tibetan thangka depicting scenes from the life of the yogi-poet Milarepa, part of a documented 19-piece series painted in Tibetan Buddhist style and acquired in Peking; clearly a Tibetan religious painting tradition despite the China findspot.",
+    "featured": false
    }
   ],
   "photo": [
+   {
+    "source": "bm",
+    "id": "AA_Ladakh-95",
+    "name": "negative",
+    "kind": "photograph",
+    "title": "negative",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_14/2317ed7b_a991_4423_90a6_a3b600ef6f9f/preview_00014625_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Documentary photo of two Tibetan changpa (nomadic pastoralist) men with a laden sheep/goat by a lake, clearly depicting Tibetan dress and pastoral daily life, matching the claimed ethnicity.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "AA_Ladakh-63",
@@ -1095,7 +1123,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a Tibetan woman in traditional dress standing in a stark highland landscape near stone structures, consistent with documentary photography of Tibetan daily life in the Aksai Chin region.",
-    "featured": true
+    "featured": false
    }
   ],
   "architectural": [
@@ -1245,6 +1273,106 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "The image shows a brightly painted Tibetan multi-armed ritual deity sculpture, identifiable as Mahāpāñcarāja/Pe har, a traditional Tibetan religious object. It fits the claimed Tibetan ethnicity and sculpture category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1016799",
+    "name": "figur, skulptur, sculpture",
+    "kind": "figure",
+    "title": "figur, skulptur, sculpture",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1383584/1935.50.2487.A-B.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "A gilt bronze figure of Tsongkhapa, founder of the Gelug (\"Yellow Hat\") school, seated in dhyanasana with lotus stalks bearing sword and book, identifying him as a Manjushri incarnation — a classic Tibetan Buddhist devotional sculpture entirely consistent with Tibetan religious art.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1011043",
+    "name": "figur, skulptur, sculpture",
+    "kind": "figure",
+    "title": "figur, skulptur, sculpture",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1192609/1935.50.0595.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a gilt-bronze White Tara figure, a Tibetan Buddhist deity type produced across the Tibetan cultural sphere; the museum's own note labels the location \"Mongolei\" and the description conflates the two, but such Tara bronzes are equally characteristic Tibetan work and plausible for the region, so the ethnicity claim isn't contradicted by the image itself.",
+    "featured": false
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "A_2003-0929-1",
+    "name": "shanmudra; bell",
+    "kind": "bell",
+    "title": "shanmudra; bell",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/14_13/f9d1c917_8d33_4aa5_965a_a95b00d66c9d/preview_RRI34041.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a bone apron (shanmudra) used in Tibetan/Himalayan tantric ritual dance (cham) with small bells attached at the hem, not a musical instrument itself but a ritual garment/ornament associated with Tibetan Buddhist practice. It clearly belongs to the claimed culture's ritual tradition, though the category \"instruments\" is a mismatch for what is shown.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_1944-0708-1",
+    "name": "dagger; purba",
+    "kind": "dagger",
+    "title": "dagger; purba",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/28_14/cfbd87e5_0c5f_4e9b_aeda_a9a600f0ab0f/preview_RRI8791_front.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a phurba (ceremonial ritual dagger) with a three-headed yidam figure atop, a Tibetan Buddhist ritual object used in tantric ceremonies, consistent with the claimed Tibetan attribution.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1009032",
+    "name": "thread figure, figure, sculpture, wire cross, spire,",
+    "kind": "sculpture",
+    "title": "thread figure, figure, sculpture, wire cross, spire,",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1250395/1935.50.0022.A-C.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "These are thread-cross ritual objects (namkha/do, \"thread crosses\") used in Tibetan folk exorcism/protection rites, made of wood sticks wound with colored thread, matching Tibetan ritual practice and the cited Tibetological references (Grünwedel, Waddell, Ahmad Shah on Tibetan life).",
+    "featured": true
+   }
+  ],
+  "ceramic": [
+   {
+    "source": "bm",
+    "id": "A_As1910-0623-11",
+    "name": "bottle",
+    "kind": "bottle",
+    "title": "bottle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_15/89a799dd_835a_447b_8877_a3dd01040fd9/preview_01379631_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a redware pilgrim/flask-shaped bottle with lug handles and stamped concentric medallion decoration, a form consistent with Tibetan traditional pottery vessels used for carrying liquids; it plausibly fits the claimed culture.",
     "featured": true
    }
   ]

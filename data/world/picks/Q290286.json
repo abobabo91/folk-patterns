@@ -2,9 +2,9 @@
  "key": "Q290286",
  "label": "Zafimaniry",
  "name": "Zafimaniry",
- "judged": 1,
- "cached": 36,
- "cost_usd": 0.008,
+ "judged": 0,
+ "cached": 14,
+ "cost_usd": 0,
  "ranked": {
   "household": [
    {
@@ -73,6 +73,54 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1985-17-77",
+    "name": "chopper; cleaver",
+    "kind": "chopper",
+    "title": "chopper; cleaver",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/a45e2457_3b70_4b46_b77f_a3e000b35afa/preview_01579243_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden-handled iron chopper/cleaver, a plausible everyday household tool for the Zafimaniry, a Madagascar highland woodworking people; nothing contradicts the attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-44",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/2c1889f8_aef2_4637_a8dd_a3e000b21b0e/preview_01578831_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven fibre basket with a lid, matching the museum's attribution of a Zafimaniry-made basket; plausible household object for this Madagascar people known for fine woodwork and weaving.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-53",
+    "name": "ladder",
+    "kind": "ladder",
+    "title": "ladder",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/a332cc49_7c74_4720_bbee_a3e000a85ca2/preview_01575276_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden ladder with notched, decoratively shaped rungs, consistent with Zafimaniry woodworking traditions from Madagascar, who are noted for their carved wooden household items and architectural elements.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1985-17-45",
     "name": "winnowing-tray; tray",
     "kind": "winnowing tray",
@@ -85,7 +133,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A carved wooden winnowing tray, a plausible everyday household object attributed to the Zafimaniry, a Madagascar people known for woodcraft.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -230,6 +278,24 @@
     "confidence": "MEDIUM",
     "reason": "The object is a wooden honey pot with lid and cord handle, made by the Zafimaniry — a wooden vessel, not ceramic, but plausibly used by this woodworking people known for carved wooden objects.",
     "featured": false
+   }
+  ],
+  "metalwork": [
+   {
+    "source": "bm",
+    "id": "E_Af1985-17-70",
+    "name": "lamp",
+    "kind": "lamp",
+    "title": "lamp",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/cc6c553c_09a7_46cd_999d_a3e000b34f59/preview_01579236_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An iron-and-wood metal candle/lamp holder, credited by the museum as made by the Zafimaniry; iron lampstands of this kind are a known Zafimaniry craft item used in daily household life.",
+    "featured": true
    }
   ],
   "arms": [

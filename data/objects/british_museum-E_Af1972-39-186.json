@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1972-39-186",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1972-39-186",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-39-186",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1972.39.186",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ethiopia",
+    "ethnicity": "Konso",
+    "tradition": "Konso",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A hide shield with wooden strut and cowrie shell decoration, explicitly attributed to Konso makers by the museum; such hide shields are consistent with East African/Ethiopian pastoralist traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "shield",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "shield",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Shield made of hide with a wooden strut, decorated with cowrie shells.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ethiopia/konso/arms/konso/images/bm_E_Af1972_39_186.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a6fc11de0a52952d66a7515eade855e3cc77d46d7e3d33a88ea1ba2c706b4bce",
+      "bytes": 31176,
+      "local_path": "library\\sub-saharan-africa\\ethiopia\\konso\\arms\\konso\\images\\bm_E_Af1972_39_186.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:56:08.735088+00:00"
+}

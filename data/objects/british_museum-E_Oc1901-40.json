@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Oc1901-40",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Oc1901-40",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1901-40",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Oc1901.40",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "New Zealand",
+    "ethnicity": "Māori",
+    "tradition": "Māori",
+    "art_form": "architectural",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows carved wooden door-jamb figures (whakawae) with paua/haliotis shell inlay eyes, a classic Māori carving form used to frame doorways of whare (meeting houses). This matches the claimed Māori ethnicity and category well.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "architectural",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "door-jamb",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "door-jamb",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Carved door-jamb (whakawae) made of wood, the carving incorporates two figures with haliotis shell inlay.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/new-zealand/maori/architectural/maori/images/bm_E_Oc1901_40.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f13cf253b37751c5d69fadd1224bb1b576ed68029cca6a18951a29cca0cc02f8",
+      "bytes": 22533,
+      "local_path": "library\\oceania\\new-zealand\\maori\\architectural\\maori\\images\\bm_E_Oc1901_40.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:40:34.800867+00:00"
+}

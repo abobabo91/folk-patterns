@@ -3,10 +3,58 @@
  "label": "Ho-Chunk",
  "name": "Ho-Chunk",
  "judged": 0,
- "cached": 13,
+ "cached": 12,
  "cost_usd": 0,
  "ranked": {
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-A38-53",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/449bea56_ddc0_4998_99e7_a3c100dfec0d/preview_00652357_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Studio portrait of \"Young Prophet,\" identified as a Winnebago (Ho-Chunk) man, wearing traditional dress including tunic, leggings, moccasins, shell ornaments, peace medal, and turban with feather—documentary photo of dress fits the claimed ethnicity despite being taken in a New York studio.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B37-51",
+    "name": "photographic print; carte-de-visite",
+    "kind": "photograph",
+    "title": "photographic print (black and white); carte-de-visite",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/8cdb2ee6_f347_4823_9889_a3c10141c0ef/preview_00694811_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Studio portrait of Little Hill, a Winnebago (Ho-Chunk) chief, wearing traditional dress—headband, beaded necklace, blanket, leggings, moccasins—despite the painted backdrop; this is a documentary photo of Ho-Chunk dress even though staged in a studio.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A38-54",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/95c84f17_fe87_4815_8a5b_a3c100dfe4de/preview_00652354_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Studio portrait of a Ho-Chunk (Winnebago) man, White Prophet, in traditional dress with shell ornaments, peace medal, feather, blanket and pipe—documentary photo of dress consistent with the claimed people.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-B37-41",
@@ -53,7 +101,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Studio portrait of Little Hill, identified as a Winnebago (Ho-Chunk) chief, wearing traditional dress including a headband, beaded neck ornament, blanket, and moccasins — a documentary photo of the claimed people in their dress.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +117,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Hand-colored studio portrait of a named Winnebago (Ho-Chunk) chief wearing a red cloth headband, patterned shirt, and fur robe—documentary dress photo consistent with the claimed people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +133,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The photo shows a domed wigwam dwelling with three Ho-Chunk (Winnebago) people wrapped in blankets peering inside, a documentary image of their traditional dwelling and dress. This directly matches the claimed ethnicity.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -165,6 +213,54 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Studio carte-de-visite portrait of two Winnebago (Ho-Chunk) men in traditional dress—feathered headdress, beaded necklaces, leggings, moccasins, and a carved bow/blanket—documenting attire and material culture of the claimed people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B37-8",
+    "name": "photographic print; stereoscope photograph",
+    "kind": "photograph",
+    "title": "photographic print (black and white); stereoscope photograph",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_18/7701f6c3_8179_4c4f_a3b3_a3c1012fb283/preview_00686643_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Documentary studio/outdoor photo of two Winnebago (Ho-Chunk) girls in traditional dress with hair/ear ornaments in front of a woven mat and hide-covered dwelling, showing dress and daily life of the claimed people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A9-100",
+    "name": "carte-de-visite",
+    "kind": "photograph",
+    "title": "carte-de-visite (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_16/060f84ec_2c02_4eae_b2b2_a3e1011264a0/preview_00113974_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Studio carte-de-visite portrait of \"Gray Wolf,\" identified as a Winnebago (Ho-Chunk) man, wearing traditional shirt, ornaments, blanket, and moccasins and holding a rifle — a documentary photo of dress consistent with the claimed people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A9-97",
+    "name": "carte-de-visite",
+    "kind": "photograph",
+    "title": "carte-de-visite (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_16/d57c80dc_1b85_4726_ba05_a3e10112e4f5/preview_00114019_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A studio carte-de-visite portrait of two Winnebago (Ho-Chunk) men in traditional dress elements—feather, necklaces, moccasins, blanket—mixed with manufactured shirts and trousers, a documentary photo of the people's dress consistent with the claimed ethnicity.",
     "featured": false
    },
    {

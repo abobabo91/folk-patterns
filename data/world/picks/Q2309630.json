@@ -2,9 +2,9 @@
  "key": "Q2309630",
  "label": "Betsimisaraka people",
  "name": "Betsimisaraka",
- "judged": 66,
- "cached": 0,
- "cost_usd": 0.582,
+ "judged": 0,
+ "cached": 65,
+ "cost_usd": 0,
  "ranked": {
   "instruments": [
    {
@@ -139,22 +139,6 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1984-14-186",
-    "name": "toy; lorry",
-    "kind": "toy",
-    "title": "toy; lorry",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_11/1e538ba2_2efe_4eca_9599_a3e000b7fd77/preview_01581138_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a handmade toy lorry constructed from wood, raffia, rubber sandal fragments and found materials, matching the museum's attribution to Betsimisaraka makers; toy-making from recycled/local materials is a plausible craft for this Madagascar coastal people.",
-    "featured": true
-   },
-   {
-    "source": "bm",
     "id": "E_Af1984-14-208",
     "name": "scraper",
     "kind": "scraper",
@@ -167,7 +151,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden-handled manioc grater with a perforated tin surface, a household tool attributed to the Betsimisaraka by the museum, consistent with everyday Malagasy craft use.",
-    "featured": false
+    "featured": true
    },
    {
     "source": "bm",
@@ -199,6 +183,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a woven raffia/basketry handbag with striped patterning, consistent with Betsimisaraka basketry craft traditions from Madagascar.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-119",
+    "name": "fish-sieve",
+    "kind": "sieve",
+    "title": "fish-sieve",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_11/ec3e759d_fd50_45dd_b0ce_a3e000b5e20f/preview_01580363_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven raffia basket/sieve for fish, a household item plausibly made and used by the Betsimisaraka of Madagascar, matching the museum's attribution.",
     "featured": false
    },
    {
@@ -643,24 +643,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a metal earring with blue glass beads and a triangular silver pendant, matching the museum's attribution to Betsimisaraka production—metal jewelry with imported trade beads is consistent with Malagasy coastal adornment traditions.",
-    "featured": true
-   }
-  ],
-  "photo": [
-   {
-    "source": "europeana",
-    "id": "/91609/SMVK_VKM_fotografi_112274",
-    "name": "man, porträtt, fotografi, photograph",
-    "kind": "photograph",
-    "title": "man, porträtt, fotografi, photograph",
-    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1963408%2Fimage.jpg&type=IMAGE",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "HIGH",
-    "reason": "This is a documentary anthropometric-style portrait photograph of a Betsimisaraka man taken during Kaudern's Madagascar expedition, matching a known ethnographic survey (Linell & Kaudern, 1936).",
     "featured": true
    }
   ]

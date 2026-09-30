@@ -2,11 +2,27 @@
  "key": "Q218808",
  "label": "Mahafaly people",
  "name": "Mahafaly",
- "judged": 36,
- "cached": 0,
- "cost_usd": 0.332,
+ "judged": 0,
+ "cached": 14,
+ "cost_usd": 0,
  "ranked": {
   "garment": [
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-389",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/12e0a39b_110a_4c59_b9fc_a3e000c60f67/preview_01583130_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A finely woven pandanus/raffia-style leaf hat with geometric purple-and-natural diamond patterning, consistent with Malagasy woven headwear traditions attributed here to the Mahafaly.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1984-14-387",
@@ -85,24 +101,56 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A woven raffia/leaf-fiber hat with a tall crown and wide brim, matching the museum's attribution to the Mahafaly of Madagascar as maker; such woven headwear is a traditional garment type for this region.",
-    "featured": true
+    "featured": false
    }
   ],
   "household": [
    {
     "source": "bm",
-    "id": "E_Af1984-14-406",
-    "name": "basket",
-    "kind": "basket",
-    "title": "basket",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/abe92796_af5f_4adc_b0f9_a3e000c8123d/preview_01583992_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "id": "E_Af1984-14-421-a-b",
+    "name": "satchel; lid",
+    "kind": "satchel",
+    "title": "satchel; lid",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/661c8554_075e_493d_8c67_a3e000c82477/preview_01584003_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a finely woven sisal basket with geometric diamond patterning, a type of woven household container well documented among the Mahafaly and related southern Malagasy peoples.",
+    "reason": "A woven raffia/palm-leaf satchel with lid, decorated with a chevron pattern typical of Malagasy basketry; museum attributes it to the Mahafaly, consistent with known craft traditions of this people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-619",
+    "name": "tobacco-pipe",
+    "kind": "pipe",
+    "title": "tobacco-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/5f967cc1_4c1e_49c1_ac91_a3e000cfbd1e/preview_01586559_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden tobacco pipe with a distinctive arched handle, made of tamarind root and attributed to the Mahafaly people of Madagascar; this matches known Mahafaly pipe-carving craft.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-409-a",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/a052da42_53f1_4642_90f2_a3e000c81a77/preview_01583997_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A lidded woven basket with geometric diamond patterning in natural, dark brown, and blue-dyed fibers, attributed by the museum to Mahafaly makers; small woven baskets are a known Mahafaly/southern Malagasy craft.",
     "featured": true
    },
    {
@@ -151,7 +199,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a complete wooden loom with partially woven striped cotton textile, matching the museum's attribution to the Mahafaly, a household/craft tool used for textile production.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -167,7 +215,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A woven raffia/palm-leaf basket or covered container with a diagonal geometric pattern, a well-known Mahafaly/southern Malagasy basketry type used for household storage. The museum credits the piece directly to the Mahafaly.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -235,6 +283,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1984-14-406",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/abe92796_af5f_4adc_b0f9_a3e000c8123d/preview_01583992_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a finely woven sisal basket with geometric diamond patterning, a type of woven household container well documented among the Mahafaly and related southern Malagasy peoples.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1984-14-428",
     "name": "vase; vessel",
     "kind": "vase",
@@ -247,6 +311,38 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a carved wooden vessel with a geometric triangle motif and a ring of carved human heads at its base, attributed to the Mahafaly of Madagascar; though filed as \"ceramic,\" the material and carving style are consistent with known Mahafaly wood-carving traditions, so the wrong category alone is not disqualifying.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-412",
+    "name": "tray",
+    "kind": "tray",
+    "title": "tray",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/1840db0c_bcb4_4601_b33f_a3e000c81c21/preview_01583998_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven basketry tray with geometric dark-fiber patterning, consistent with Malagasy plant-fiber basketry traditions attributed to the Mahafaly of Madagascar.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-411-a",
+    "name": "box; money-box",
+    "kind": "box",
+    "title": "box; money-box",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_12/56410523_4c2f_46d4_aa1d_a3e000c816d4/preview_01583995_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven basketry money-box with geometric dark/light patterning, attributed to the Mahafaly people, matching known Malagasy plaited raffia/palm basketry work with lidded box forms.",
     "featured": false
    },
    {
@@ -280,6 +376,56 @@
     "confidence": "MEDIUM",
     "reason": "This is a carved wooden vessel with incised geometric decoration, attributed to the Mahafaly of Madagascar; though labeled \"ceramic,\" the material is clearly wood, which is a plausible traditional craft medium for this people.",
     "featured": false
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-432",
+    "name": "musical instrument",
+    "kind": "musical instrument",
+    "title": "musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/92d3740f_86a7_43aa_819e_a3e000a7eef2/preview_01575030_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden stringed instrument (a lute-type chordophone) with a box resonator and long neck, consistent with Malagasy string instruments attributed to the Mahafaly people, with incised geometric decoration.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-434",
+    "name": "musical instrument",
+    "kind": "musical instrument",
+    "title": "musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/a8d36366_d9b2_4082_9fa5_a3e000a7ed98/preview_01575029_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden tube zither (valiha-type instrument) with wire strings and tuning pegs, a traditional Malagasy stringed instrument consistent with the Mahafaly people's known instrument-making traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1984-14-431",
+    "name": "musical instrument",
+    "kind": "musical instrument",
+    "title": "musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/5f099ea0_f9de_4583_b16b_a3e000a7ec4b/preview_01575028_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden stringed instrument (a lute-type chordophone) with a carved, patterned peghead, attributed by the museum to the Mahafaly of Madagascar — consistent with traditional Malagasy stringed instruments.",
+    "featured": true
    }
   ],
   "textile": [
@@ -395,56 +541,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a hide knife sheath with metal nail/rivet reinforcements, consistent with Mahafaly-made arms accessories and directly attributed to them by the museum.",
-    "featured": true
-   }
-  ],
-  "instruments": [
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-432",
-    "name": "musical instrument",
-    "kind": "musical instrument",
-    "title": "musical instrument",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/92d3740f_86a7_43aa_819e_a3e000a7eef2/preview_01575030_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved wooden stringed instrument (a lute-type chordophone) with a box resonator and long neck, consistent with Malagasy string instruments attributed to the Mahafaly people, with incised geometric decoration.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-434",
-    "name": "musical instrument",
-    "kind": "musical instrument",
-    "title": "musical instrument",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/a8d36366_d9b2_4082_9fa5_a3e000a7ed98/preview_01575029_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden tube zither (valiha-type instrument) with wire strings and tuning pegs, a traditional Malagasy stringed instrument consistent with the Mahafaly people's known instrument-making traditions.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1984-14-431",
-    "name": "musical instrument",
-    "kind": "musical instrument",
-    "title": "musical instrument",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_10/5f099ea0_f9de_4583_b16b_a3e000a7ec4b/preview_01575028_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden stringed instrument (a lute-type chordophone) with a carved, patterned peghead, attributed by the museum to the Mahafaly of Madagascar — consistent with traditional Malagasy stringed instruments.",
     "featured": true
    }
   ],

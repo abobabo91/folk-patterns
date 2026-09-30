@@ -1,0 +1,91 @@
+{
+  "id": "met-501309",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "501309",
+    "object_url": "https://www.metmuseum.org/art/collection/search/501309",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.693",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Haida",
+    "tradition": "Haida",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A wooden tube instrument (reed pipe) made of red cedar/spruce with spruce root binding, consistent with Haida material culture and craftsmanship using local materials.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Reed Pipe",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1801,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "wood (red cedar or spruce)",
+      "spruce root"
+    ],
+    "techniques": [],
+    "medium_raw": "wood (red cedar or spruce), spruce root",
+    "classification": "Aerophone-Reed Vibrated-pipe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 45.5 × W. 5.1 cm (17 15/16 × 2 in.)\r\nOther (Old Catalogue): 4.4 × 44.5 cm (1 3/4 in. × 17 1/2 in.)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "British Columbia, Canada",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/haida/instruments/haida/images/met_501309.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "9d840ff754f5f7f89c0f73645f3524d41323f515f0a6b165d265b8ce0e111444",
+      "bytes": 124301,
+      "local_path": "library\\north-america\\canada\\haida\\instruments\\haida\\images\\met_501309.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:16:45.564537+00:00"
+}

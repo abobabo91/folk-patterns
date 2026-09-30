@@ -2,11 +2,27 @@
  "key": "Q1276078",
  "label": "Taita people",
  "name": "Taita",
- "judged": 22,
- "cached": 0,
- "cost_usd": 0.19,
+ "judged": 0,
+ "cached": 15,
+ "cost_usd": 0,
  "ranked": {
   "arms": [
+   {
+    "source": "bm",
+    "id": "E_Af-2226-a-f",
+    "name": "quiver; arrow",
+    "kind": "quiver",
+    "title": "quiver; arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_12/18_16/5c589678_4799_4757_8c69_a40501090ab7/preview_EAF31267.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a quiver and five arrows attributed to the Taita (Wa-teita) people of Kenya, a typical hunting/warfare weapon set made and used by this culture. This directly matches the claimed ethnicity and arms category.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af-5289",

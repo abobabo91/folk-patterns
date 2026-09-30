@@ -3,7 +3,7 @@
  "label": "Huastec people",
  "name": "Huastec",
  "judged": 0,
- "cached": 41,
+ "cached": 21,
  "cost_usd": 0,
  "ranked": {
   "textile": [
@@ -59,34 +59,34 @@
   "household": [
    {
     "source": "bm",
-    "id": "E_Am1988-08-284",
+    "id": "E_Am1988-08-285-c",
     "name": "morral",
     "kind": "bag",
     "title": "morral",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/d9ce2740_593a_4871_99e3_a3e100ecc8bb/preview_00104745_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/a4c80ac7_174f_46ba_bd75_a3e100eccfe5/preview_00104749_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a woven agave-fiber shoulder bag (morral) with stamped floral decoration and braided strap, a traditional Huastec-made item attributed directly by the museum.",
+    "reason": "A woven agave-fibre shoulder bag (morral) with dyed floral stamping, explicitly attributed to Huastec makers by the museum, a well-known Huastec/Mexican craft item.",
     "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Am1988-08-320-b",
+    "id": "E_Am1988-08-320-a",
     "name": "mat",
     "kind": "mat",
     "title": "mat",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/eaf30b0f_93e4_4c1a_92b8_a3e100ed6103/preview_00104878_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/9a3ecf84_fb26_45c8_9c02_a3e100ed5d02/preview_00104877_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a rolled palm-fiber mat (petate), a plaited household item the museum attributes directly to Huastec makers, consistent with a widespread Huastec craft tradition.",
+    "reason": "A plaited palm-fibre petate (mat) attributed by the museum to Huastec makers; plausible everyday craft object for this Mexican people.",
     "featured": true
    },
    {
@@ -136,6 +136,38 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a plaited palm-fibre fan with braided edge binding, a traditional Huastec household craft item as recorded by the museum.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1988-08-284",
+    "name": "morral",
+    "kind": "bag",
+    "title": "morral",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/d9ce2740_593a_4871_99e3_a3e100ecc8bb/preview_00104745_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a woven agave-fiber shoulder bag (morral) with stamped floral decoration and braided strap, a traditional Huastec-made item attributed directly by the museum.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1988-08-320-b",
+    "name": "mat",
+    "kind": "mat",
+    "title": "mat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/eaf30b0f_93e4_4c1a_92b8_a3e100ed6103/preview_00104878_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a rolled palm-fiber mat (petate), a plaited household item the museum attributes directly to Huastec makers, consistent with a widespread Huastec craft tradition.",
+    "featured": false
    },
    {
     "source": "bm",
@@ -237,6 +269,38 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1988-08-302",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/b4592821_6b8c_4b56_b3f0_a3e100eca63b/preview_00104782_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A palm-fibre braided sombrero-style hat, museum records it as made by the Huastec, a plausible traditional craft item for this Mexican people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1988-08-307",
+    "name": "hat",
+    "kind": "hat",
+    "title": "hat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/81f5bc2b_d01f_4216_90b6_a3e100ecae4b/preview_00104787_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A traditional palm-fibre plaited hat, museum-attributed to Huastec makers; this is a headwear garment plausible for the region and consistent with the claimed culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Am1988-08-312",
     "name": "hat; sample",
     "kind": "hat",
@@ -281,7 +345,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A man's woven palm-fiber hat with open mesh coiling, tall crown and wide brim, matching the museum's attribution to Huastec makers.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -297,7 +361,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a palm-fibre hat in the process of being plaited, a traditional Huastec craft item, matching the museum's attribution and category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

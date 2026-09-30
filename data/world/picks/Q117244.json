@@ -3,7 +3,7 @@
  "label": "Arahuacos (Arawak)",
  "name": "Arahuacos (Arawak)",
  "judged": 0,
- "cached": 31,
+ "cached": 22,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -25,34 +25,50 @@
    },
    {
     "source": "bm",
-    "id": "E_Am1912-0722-74-a-b",
-    "name": "box",
-    "kind": "box",
-    "title": "box",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_5/11_10/76dfe358_f8b2_4c19_987c_a8dd00ac664d/preview_74.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "id": "E_Am1912-0722-206",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/23_15/906bd53b_10d7_4ee5_9b06_a89000fd8d4d/preview_DSC_0206.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "The image shows a finely twilled cane basketry box with a geometric two-tone woven lid design, matching the museum's attribution to Arawak makers and typical of Guianas/Caribbean Arawak basketry craft.",
+    "reason": "The image shows a well-made conical plaited cane basket with a reinforced rim and fiber carrying strap, a traditional utilitarian item consistent with Arawak (Lokono) basketry of the Guiana/Caribbean region; the museum's own attribution supports this maker.",
     "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Am1912-0722-64-a-b",
-    "name": "basket; lid",
-    "kind": "basket",
-    "title": "basket; lid",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/23_13/a6b0bc1b_a216_4d96_98ee_a89000d95d7f/preview_DSC_0210.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "id": "E_Am1912-0722-112-a-b",
+    "name": "box",
+    "kind": "box",
+    "title": "box",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_5/11_10/d2eec37c_c478_492d_a2e7_a8dd00af0622/preview_112.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "A square plaited cane basket with a patterned lid, museum-attributed to the Arawak; a household item made and used by the people, matching the claim.",
+    "reason": "Two twilled cane baskets/boxes with reinforced rims, a traditional craft form well documented among Arawak (Lokono) communities of Trinidad, matching the museum's attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1912-0722-46",
+    "name": "fan",
+    "kind": "fan",
+    "title": "fan",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_3/22_12/e1b7665f_c111_4003_a2c4_ae6000ce427c/preview_DSC_2111.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A plaited palm-leaf fan, unfinished, attributed by the museum to the Arawak; a plausible household craft item for the claimed people.",
     "featured": true
    },
    {
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a plaited cane basket with woven geometric border pattern, a household object attributed to the Arawak makers, with a museum tag confirming provenance from the Pomeroon River, a historic Arawak area.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -121,6 +137,38 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1912-0722-74-a-b",
+    "name": "box",
+    "kind": "box",
+    "title": "box",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_5/11_10/76dfe358_f8b2_4c19_987c_a8dd00ac664d/preview_74.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a finely twilled cane basketry box with a geometric two-tone woven lid design, matching the museum's attribution to Arawak makers and typical of Guianas/Caribbean Arawak basketry craft.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1912-0722-64-a-b",
+    "name": "basket; lid",
+    "kind": "basket",
+    "title": "basket; lid",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/23_13/a6b0bc1b_a216_4d96_98ee_a89000d95d7f/preview_DSC_0210.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A square plaited cane basket with a patterned lid, museum-attributed to the Arawak; a household item made and used by the people, matching the claim.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Am1912-0722-68-a-b",
     "name": "box",
     "kind": "box",
@@ -134,6 +182,40 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a twilled cane basketry box with lid, a traditional woven container attributed to the Arawak, consistent with household basketry made and used by this people.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1912-0722-36",
+    "name": "fan",
+    "kind": "fan",
+    "title": "fan",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_3/15_15/b46140ab_f183_46c8_b156_ae5900fc1415/preview_DSC_2168.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven palm-leaf fan with a bound handle, museum-documented as made by the Arawak — a plausible everyday household object of woven plant fiber consistent with this culture's material tradition.",
+    "featured": false
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "bm",
+    "id": "E_Am1977-Q-2",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/6e2d1e70_a5df_4a4c_aa8d_a3bc0068fbc1/preview_00389316_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden bird-man spirit figure with shell inlay, attributed by the museum to the Arawak, consistent with Arawak (Taíno-related) ritual sculpture traditions of the Caribbean/South America.",
+    "featured": true
    }
   ],
   "ceramic": [
@@ -237,24 +319,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a plaited cane baby's rattle with dyed geometric patterning and featherwork on the handle, attributed by the museum to the Arawak — a plausible traditional craft object for this people.",
-    "featured": true
-   }
-  ],
-  "sculpture": [
-   {
-    "source": "bm",
-    "id": "E_Am1977-Q-2",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/6e2d1e70_a5df_4a4c_aa8d_a3bc0068fbc1/preview_00389316_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden bird-man spirit figure with shell inlay, attributed by the museum to the Arawak, consistent with Arawak (Taíno-related) ritual sculpture traditions of the Caribbean/South America.",
     "featured": true
    }
   ]

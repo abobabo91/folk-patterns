@@ -2,25 +2,25 @@
  "key": "Q822279",
  "label": "Nuer people",
  "name": "Nuer",
- "judged": 3,
- "cached": 21,
- "cost_usd": 0.021,
+ "judged": 0,
+ "cached": 11,
+ "cost_usd": 0,
  "ranked": {
   "jewelry": [
    {
     "source": "bm",
-    "id": "E_Af1931-0321-14",
+    "id": "E_Af1931-0321-15",
     "name": "armlet",
     "kind": "armlet",
     "title": "armlet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_10/3_10/b3c5e60f_f89f_4b22_8c96_a52600b43f4d/preview_EAF43559.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/26_14/2505656a_9ddd_49e5_9ce7_a46700ef477b/preview_EAF43560.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows an iron armlet with serrated edges, consistent with metal body ornaments made and worn by Nuer men in South Sudan; the museum attributes it directly to the Nuer.",
+    "confidence": "HIGH",
+    "reason": "A brass armlet with serrated/spiral-cut edges, a well-documented Nuer body ornament type made from brass and worn by both men and women in South Sudan; the museum attributes production to the Nuer.",
     "featured": true
    },
    {
@@ -41,6 +41,86 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1931-0321-14",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_10/3_10/b3c5e60f_f89f_4b22_8c96_a52600b43f4d/preview_EAF43559.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron armlet with serrated edges, consistent with metal body ornaments made and worn by Nuer men in South Sudan; the museum attributes it directly to the Nuer.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-321",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/29_11/b04a3b8b_d9e9_4ef0_9c00_a48900bd978d/preview_EAF51454.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A plain ivory armlet, an adornment type well documented among Nuer and other Nilotic peoples of South Sudan; museum attributes it directly to the Nuer with no hedging caveat.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1931-0321-11",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/26_14/48a8a563_0986_4cd7_afea_a46700ef454e/preview_EAF43557.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden disc-shaped armlet, consistent with Nuer ivory/wood arm rings worn as personal adornment; museum attributes it to the Nuer.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1931-0321-9",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/26_14/810507f2_0854_4278_8b01_a46700ef0987/preview_EAF144604.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A hide armlet, worn as jewelry/adornment by Nuer people—consistent with known Nuer material culture (hide and ivory armlets are documented items). Plausible and directly attributed to the Nuer in the museum record.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1931-0321-8",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/26_14/c2906568_8630_44a1_aeb6_a46700ef4347/preview_EAF43556.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A hide armlet attributed to the Nuer, a plausible body ornament type made and worn by this pastoralist group in South Sudan; the museum explicitly credits Nuer manufacture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1931-0321-16",
     "name": "armlet",
     "kind": "armlet",
@@ -53,7 +133,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a simple brass wire armlet with hooked ends, a form of personal adornment consistent with Nuer jewelry traditions in South Sudan, and the museum directly attributes it to the Nuer as makers.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +149,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows an iron wire ear pendant, attributed by the museum directly to Nuer production, consistent with known Nuer metal adornment practices.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +165,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a flat hide ring, consistent with a Nuer armlet/bracelet made from hide, a documented Nuer body adornment form.",
-    "featured": true
+    "featured": false
    }
   ],
   "household": [

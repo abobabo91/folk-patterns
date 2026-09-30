@@ -670,15 +670,19 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-## Pick coverage (2026-09-29)
+## Pick coverage (2026-09-29 and 30)
 
 `world_peoples.py coverage` over the 155 peoples with a pick file, after a
 `pick --cached-only` replay recorded the outcomes the judge log did not
-(README → "What the pick has looked at"): 38,760 candidates; 5,718 kept, 1,944
-judged and dropped, 411 excluded by review, 2,921 dropped by a source rule
-before the judge, 2,808 fetched and awaiting a judge call, 23,468 never
-reached (the 10-per-category cap), 1,406 unclassified, 42 photographs of an
-object, 14 without an image. The per-candidate record is
+(README → "What the pick has looked at"). On 2026-09-29, before batches p001
+and p002: 38,760 candidates; 5,718 kept, 1,944 judged and dropped, 411 excluded
+by review, 2,921 dropped by a source rule before the judge, 2,808 fetched and
+awaiting a judge call, 23,468 never reached (the 10-per-category cap), 1,406
+unclassified, 42 photographs of an object, 14 without an image. After both
+(2026-09-30): 8,585 kept, 2,552 judged and dropped, 457 excluded by review,
+2,231 dropped by a source rule, 113 awaiting a judge call, 23,309 never
+reached, 1,406 unclassified, 65 photographs of an object, 28 already in the
+library, 14 without an image. The per-candidate record is
 `data/world/pick_coverage.jsonl`.
 
 The source-rule drops are 1,549 "multiple peoples", 1,045 "uncertain (?)" and
@@ -706,11 +710,23 @@ Tseshaht / Toquaht) or a basket titled "vessel". 27 already-loaded cultures
 took 842 new records; the index went from 9,930 to 10,656 objects. Arhuaco (54,
 Colombia), Akawaio (65, Guyana) and Chorotí (29, Argentina) were then loaded as
 new cultures after a Codex contact-sheet pass (1 exclusion); index 10,804 objects in 213 cultures.
+Batch p002 was every `awaiting_judge` candidate left in the existing pick files
+(`pick --cached-only --export-batch p002` over all of them): 2,622 candidates,
+judged in cloud sessions for about $24 of cloud credit; `pick-import` took
+2,599 verdicts. `pick --no-judge` rebuilt the 131 affected pick files from
+5,915 to 8,018 kept objects, and 126 of them gained objects. The Codex
+contact-sheet pass over the new objects flagged 32; 26 were excluded
+(duplicates, "probably" or two-people attributions, scenes too small to read,
+a catalogue card, a military and a pageant photo). The other six were only
+title mismatches (a zither titled harp, a waka huia titled hair ornament) and
+stay. 124 loaded cultures took 2,625 new records; the index went from 10,804
+to 12,894 objects in 213 cultures. Maya and Betsimisaraka gained pick objects
+but are not loaded cultures, so they were left out.
 
-**Current coverage (2026-09-29):** `scripts/_vet_status.py` reports 10,942/10,942
-library records judged, 10,040 accepted and 902 dropped. The site index has
-10,804 objects in 213 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 10,942 images. Selected Armenian,
+**Current coverage (2026-09-30):** `scripts/_vet_status.py` reports 13,929/13,929
+library records judged, 13,027 accepted and 902 dropped. The site index has
+12,894 objects in 213 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 13,929 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
 and all later cultures from picks (see the table above) were also checked

@@ -3,10 +3,26 @@
  "label": "Mano people",
  "name": "Mano",
  "judged": 0,
- "cached": 29,
+ "cached": 8,
  "cost_usd": 0,
  "ranked": {
   "masks-ritual": [
+   {
+    "source": "cleveland",
+    "id": "130743",
+    "name": "Mask",
+    "kind": "mask",
+    "title": "Mask",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1953.457/1953.457_web.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A dark wood face mask with inset white eyes, teeth, bells and beaded fiber attachments — a classic Liberian/Guinea forest-region ritual mask type consistent with Mano carving traditions.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1954-14-2",
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A small carved wooden miniature mask with a smooth face, teeth band, and brow ridges, consistent with Mano/Dan-region passport masks used in ritual practice. The museum attributes it directly to the Mano.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -168,40 +184,6 @@
     "featured": false
    }
   ],
-  "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Af1954-14-35",
-    "name": "bracelet",
-    "kind": "bracelet",
-    "title": "bracelet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_2/12_11/148819c3_f9d8_4936_ab04_ab5f00be3690/preview_EAF6520.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a penannular brass bracelet made of twisted wire strands with knob terminals, consistent with the museum's attribution to Mano metalwork traditions of the region.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1954-14-36",
-    "name": "bracelet",
-    "kind": "bracelet",
-    "title": "bracelet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/acfa3215_6a21_46de_a5d4_a9a000f3f704/preview_EAF6521.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a string-wound bracelet with an attached cowrie shell, matching the museum's description and attribution to the Mano people of Guinea.",
-    "featured": true
-   }
-  ],
   "household": [
    {
     "source": "bm",
@@ -233,6 +215,58 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden comb with a carved anthropomorphic face at the top, consistent with Mano household/personal-use objects from Guinea/Liberia region, and the museum attributes it to the Mano.",
+    "featured": true
+   }
+  ],
+  "arms": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-14-21",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/d9ee33a2_2fa1_4621_9ba4_a9a000f3d633/preview_EAF6511.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows an iron spearhead with a socketed tang, matching the museum's attribution to Mano production; a plain spearhead of this type is plausible for the region.",
+    "featured": true
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-14-35",
+    "name": "bracelet",
+    "kind": "bracelet",
+    "title": "bracelet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_2/12_11/148819c3_f9d8_4936_ab04_ab5f00be3690/preview_EAF6520.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a penannular brass bracelet made of twisted wire strands with knob terminals, consistent with the museum's attribution to Mano metalwork traditions of the region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-14-36",
+    "name": "bracelet",
+    "kind": "bracelet",
+    "title": "bracelet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/acfa3215_6a21_46de_a5d4_a9a000f3f704/preview_EAF6521.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a string-wound bracelet with an attached cowrie shell, matching the museum's description and attribution to the Mano people of Guinea.",
     "featured": true
    }
   ],
@@ -333,24 +367,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A dark clay pottery vessel with an attached raphia fibre and indigo cotton fringe, documented by the museum as made by the Mano people of Guinea — a plausible traditional ceramic/ritual object for this culture.",
-    "featured": true
-   }
-  ],
-  "arms": [
-   {
-    "source": "bm",
-    "id": "E_Af1954-14-21",
-    "name": "spear",
-    "kind": "spear",
-    "title": "spear",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/d9ee33a2_2fa1_4621_9ba4_a9a000f3d633/preview_EAF6511.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows an iron spearhead with a socketed tang, matching the museum's attribution to Mano production; a plain spearhead of this type is plausible for the region.",
     "featured": true
    }
   ],

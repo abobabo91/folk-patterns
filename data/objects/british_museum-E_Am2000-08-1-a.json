@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am2000-08-1-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am2000-08-1-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am2000-08-1-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am2000.08.1.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Bolivia",
+    "ethnicity": "Aymara",
+    "tradition": "Aymara",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A wooden spindle (qapu) with wool (t'awra) wrapped on it, a traditional Aymara spinning tool used in textile production; category should be household (spinning tool) rather than textile itself, but it clearly belongs to Aymara material culture.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "spindle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "spindle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Spindle (qapu in Aymara); carved of wood; stick of wood slightly rounded at both ends, with bundle of black wool (t&#039;awra in Aymara) wrapped around it.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/bolivia/aymara/household/aymara/images/bm_E_Am2000_08_1_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f2afb979983d58c32a86d27949f02f4773d4b45da9ed42b5613ebb2667e539bb",
+      "bytes": 52646,
+      "local_path": "library\\latin-america\\bolivia\\aymara\\household\\aymara\\images\\bm_E_Am2000_08_1_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T07:52:27.343825+00:00"
+}

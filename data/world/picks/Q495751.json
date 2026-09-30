@@ -3,7 +3,7 @@
  "label": "Mi’kmaw",
  "name": "Mi’kmaw",
  "judged": 0,
- "cached": 21,
+ "cached": 15,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -41,6 +41,38 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1933-1110-21",
+    "name": "model; canoe",
+    "kind": "canoe",
+    "title": "model; canoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/27_15/67246c32_a42b_4a89_94d0_a90c01029df6/preview_am1933_1110_21__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a miniature birch bark canoe decorated with dyed porcupine quillwork in geometric chevron patterns, a classic Mi'kmaw (Micmac) craft form made for both use and trade/tourist art. It clearly matches the claimed ethnicity and museum attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1944-02-211",
+    "name": "tobacco-pipe",
+    "kind": "pipe",
+    "title": "tobacco-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_0/f306cf3e_ea54_4690_8487_a3de0007b58c/preview_01429146_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved stone tobacco pipe-bowl with incised diagonal decoration, attributed by the museum to Micmac (Mi'kmaw) makers, matching the claimed ethnicity; stone pipes with incised geometric decoration are a documented Mi'kmaw craft.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Am1949-22-141",
     "name": "panel",
     "kind": "panel",
@@ -57,22 +89,6 @@
    },
    {
     "source": "bm",
-    "id": "E_Am1933-1110-20",
-    "name": "model; canoe",
-    "kind": "canoe",
-    "title": "model; canoe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/27_15/9c2f381a_9738_4c7f_984b_a90c0101da72/preview_am1933_1110_20__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A birchbark model canoe decorated with dyed porcupine quillwork in a chevron pattern, explicitly attributed to Micmac (Mi'kmaw) makers of the Northeast — a well-known Mi'kmaw craft form.",
-    "featured": true
-   },
-   {
-    "source": "bm",
     "id": "E_Am1954-05-932",
     "name": "letter-rack",
     "kind": "letter rack",
@@ -85,7 +101,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A birchbark/wood letter rack decorated with dyed porcupine quillwork and beaded edging, a classic Mi'kmaw quillwork craft form used for household storage, matching the museum's Micmac/Northeast Peoples attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -165,6 +181,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A small wooden chair with a porcupine-quill decorated seat, a known Mi'kmaw craft item made for the tourist/souvenir trade using traditional quillwork techniques applied to European-style furniture forms; this fits documented Mi'kmaw material culture of the period.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1933-1110-20",
+    "name": "model; canoe",
+    "kind": "canoe",
+    "title": "model; canoe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/27_15/9c2f381a_9738_4c7f_984b_a90c0101da72/preview_am1933_1110_20__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A birchbark model canoe decorated with dyed porcupine quillwork in a chevron pattern, explicitly attributed to Micmac (Mi'kmaw) makers of the Northeast — a well-known Mi'kmaw craft form.",
     "featured": false
    },
    {

@@ -2,9 +2,9 @@
  "key": "Q1537493",
  "label": "Kru people",
  "name": "Kru",
- "judged": 21,
- "cached": 0,
- "cost_usd": 0.239,
+ "judged": 0,
+ "cached": 8,
+ "cost_usd": 0,
  "ranked": {
   "instruments": [
    {
@@ -57,6 +57,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af-5978",
+    "name": "lyre; harp",
+    "kind": "lyre",
+    "title": "lyre; harp",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_13/62fa10c4_00f8_472c_b108_a3c200e0c1dd/preview_00715490_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a gourd musical instrument with attached wooden sticks and a single fibre string, matching the museum's description of a Kru-made lyre/harp; this is a plausible traditional Kru instrument.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af-6201",
     "name": "bell; box",
     "kind": "bell",
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a gourd harp with wooden neck and stick, museum-attributed to Kru manufacture; this fits a musical instrument used by the Kru people.",
-    "featured": true
+    "featured": false
    }
   ],
   "photo": [
@@ -170,6 +186,24 @@
     "featured": true
    }
   ],
+  "metalwork": [
+   {
+    "source": "met",
+    "id": "317616",
+    "name": "Currency",
+    "kind": "currency",
+    "title": "Currency",
+    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/1995.64.15_a.JPG",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a brass currency/manilla-type object with terracotta core, attributed directly to the Kru peoples of Liberia/Ivory Coast, matching the claimed ethnicity and metalwork category.",
+    "featured": true
+   }
+  ],
   "arms": [
    {
     "source": "bm",
@@ -219,24 +253,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden canoe paddle with a black-painted blade and plain handle, consistent with Kru maritime/canoeing culture, attributed by the museum directly to the Kru.",
-    "featured": true
-   }
-  ],
-  "metalwork": [
-   {
-    "source": "met",
-    "id": "317616",
-    "name": "Currency",
-    "kind": "currency",
-    "title": "Currency",
-    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/1995.64.15_a.JPG",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a brass currency/manilla-type object with terracotta core, attributed directly to the Kru peoples of Liberia/Ivory Coast, matching the claimed ethnicity and metalwork category.",
     "featured": true
    }
   ]

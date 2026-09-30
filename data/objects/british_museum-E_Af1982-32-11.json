@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1982-32-11",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1982-32-11",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1982-32-11",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1982.32.11",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Luo",
+    "tradition": "Luo",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a wooden milk container with leather carrying strap and fiber stitching, a well-documented Luo pastoral household item; the museum credits it directly to the Luo, so it belongs, but it is wood not clay, so the claimed \"ceramic\" category is wrong.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "milk-vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "milk-vessel",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "An oval wooden milk jar with a small, circular aperture at the top and with a lug on each side, to one of which a leather carrying strap is attached. It is sewn with vegetable fibre stitching around the rim of the aperture and across the flat base.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/luo/household/luo/images/bm_E_Af1982_32_11.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d421f942992f978c4bb91dc6d5eada3df61022041b080562579e304cfc32def7",
+      "bytes": 37477,
+      "local_path": "library\\sub-saharan-africa\\kenya\\luo\\household\\luo\\images\\bm_E_Af1982_32_11.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:01:47.396080+00:00"
+}

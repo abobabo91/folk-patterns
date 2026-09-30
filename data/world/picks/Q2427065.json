@@ -2,9 +2,9 @@
  "key": "Q2427065",
  "label": "Lanna people",
  "name": "Lanna",
- "judged": 45,
- "cached": 0,
- "cost_usd": 0.473,
+ "judged": 0,
+ "cached": 38,
+ "cost_usd": 0,
  "ranked": {
   "household": [
    {
@@ -21,6 +21,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A carved wooden cat-shaped cotton-reeling stand, made by the Tai Yuan, who are the people also known as Lanna (northern Thailand) — this is a household tool used in traditional cotton spinning/weaving work.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1972-07-69",
+    "name": "shoulder-bag",
+    "kind": "bag",
+    "title": "shoulder-bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/4b7b82cb_a760_4e72_ab70_a3be01030897/preview_00441620_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a woven cotton shoulder bag attributed to the Tai Yuan, the core ethnic group of the historical Lanna kingdom, so the object matches the claimed culture.",
     "featured": true
    },
    {
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "This is a woven cotton shoulder bag attributed to the Tai Yuan, the ethnic group closely associated with the Lanna kingdom/culture of northern Thailand, so it matches the claimed ethnicity. The plain-woven red cloth with striped accents is a typical Tai Yuan textile item, though it is a bag rather than a garment.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -107,18 +123,34 @@
   "textile": [
    {
     "source": "bm",
-    "id": "A_As1972-07-54",
+    "id": "A_As1972-07-46",
     "name": "cloth; pillow",
     "kind": "pillow",
     "title": "cloth; pillow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/a2874a7e_92bd_4dda_8e4f_a3be01038c0d/preview_00441927_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/b9031947_3884_4e29_ab15_a3be0103d8d0/preview_00441912_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a handwoven cotton textile panel with a checkerboard of red-and-white and black-and-white geometric motifs, identified as a pillow-end design made by the Tai Yuan (Lanna) people of northern Thailand, matching the claimed ethnicity and category.",
+    "reason": "The image shows a woven cotton pillow-end cloth with geometric supplementary-weft patterning; the museum attributes it to the Tai Yuan, who are the people of the historic Lanna kingdom, so this is a good match for the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1972-07-57",
+    "name": "shoulder-cloth",
+    "kind": "cloth",
+    "title": "shoulder-cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/cb55660f_8099_43e0_b7f8_a3be01126a0b/preview_00446351_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The cotton shoulder cloth with khit supplementary-weft banding in red and black is a classic Tai Yuan textile; Tai Yuan is the ethnonym for the Lanna people of Northern Thailand, so maker and claimed ethnicity match.",
     "featured": true
    },
    {
@@ -155,18 +187,18 @@
    },
    {
     "source": "bm",
-    "id": "A_As1972-07-38",
-    "name": "cloth; bedsheet",
-    "kind": "cloth",
-    "title": "cloth; bedsheet (?)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/88d7ad63_39aa_4be3_9d8b_a3be01039101/preview_00441879_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "id": "A_As1972-07-68",
+    "name": "shoulder-bag",
+    "kind": "bag",
+    "title": "shoulder-bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/61141d40_7731_4d33_a4fa_a3be0102adb2/preview_00441576_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "textile",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a fringed cotton cloth end with woven geometric bands (Tai supplementary weft patterns), attributed by the museum to the Tai Yuan people, who are the Lanna Thai — this matches the claimed ethnicity well.",
+    "reason": "The bag is a woven cotton shoulder bag with striped pattern, attributed by the museum to Tai Yuan, the group also known as Lanna (the historic kingdom/people of northern Thailand), so the ethnicity attribution is consistent and not a mismatch. It is a plausible traditional handwoven textile accessory for this culture.",
     "featured": true
    },
    {
@@ -183,7 +215,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The image shows a handwoven ikat cotton cloth with a dark blue border and polychrome striped body, consistent with a Lanna/Tai Yuan skirt cloth; the museum's own attribution confirms Tai Yuan (Lanna) manufacture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -200,23 +232,89 @@
     "confidence": "MEDIUM",
     "reason": "A handwoven cream cotton blanket with red stripes and a supplementary-weft (khit) band of stylized motifs at one end, consistent with traditional Lanna (northern Thai) textile weaving techniques and blanket types.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1972-07-54",
+    "name": "cloth; pillow",
+    "kind": "pillow",
+    "title": "cloth; pillow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/a2874a7e_92bd_4dda_8e4f_a3be01038c0d/preview_00441927_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handwoven cotton textile panel with a checkerboard of red-and-white and black-and-white geometric motifs, identified as a pillow-end design made by the Tai Yuan (Lanna) people of northern Thailand, matching the claimed ethnicity and category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1972-07-40",
+    "name": "cloth; bedsheet",
+    "kind": "cloth",
+    "title": "cloth; bedsheet (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/be77f108_a662_4810_953f_a3be0103ded4/preview_00441870_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The museum credits this fringed cotton cloth to the Tai Yuan, who are the Lanna (Northern Thai) people themselves, so the attribution is consistent; the woven geometric bands in red/black are typical of Lanna supplementary-weft weaving.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1972-07-38",
+    "name": "cloth; bedsheet",
+    "kind": "cloth",
+    "title": "cloth; bedsheet (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/88d7ad63_39aa_4be3_9d8b_a3be01039101/preview_00441879_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a fringed cotton cloth end with woven geometric bands (Tai supplementary weft patterns), attributed by the museum to the Tai Yuan people, who are the Lanna Thai — this matches the claimed ethnicity well.",
+    "featured": false
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "A_As1972-07-88",
+    "name": "prayer-flag",
+    "kind": "flag",
+    "title": "prayer-flag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/29e8e272_8e0f_4af1_a6e2_a3be00fe7d98/preview_00440372_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a long cloth-and-bamboo prayer flag (tung) with cotton streamer and metallic-paper pennants, a type of ceremonial banner used in Northern Thai Buddhist temples; the museum attributes it to Tai Yuan, the ethnic group whose homeland is the historical Lanna kingdom, so the attribution matches the claimed Lanna ethnicity.",
+    "featured": true
    }
   ],
   "garment": [
    {
     "source": "bm",
-    "id": "A_As1972-07-56",
+    "id": "A_As1972-07-59",
     "name": "shoulder-cloth",
     "kind": "cloth",
     "title": "shoulder-cloth",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/e44f0b52_da8f_42d8_bb60_a3be00fd28bd/preview_00439998_001.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/eb8900fe_0c8c_4ca6_850b_a3be01143e23/preview_00446954_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a Tai Yuan (Lanna) shoulder cloth with characteristic khit supplementary-weft patterning in white/black on a red ground, matching the claimed ethnicity and museum attribution to Tai Yuan makers.",
+    "reason": "A dark cotton shoulder cloth with khit supplementary-weft banding in red, blue and purple at each end—this is a classic Tai Yuan/Lanna textile technique, and the museum's own production attribution (Tai Yuan) matches the claimed Lanna ethnicity.",
     "featured": true
    },
    {
@@ -269,6 +367,38 @@
    },
    {
     "source": "bm",
+    "id": "A_As1972-07-55",
+    "name": "shoulder-cloth",
+    "kind": "cloth",
+    "title": "shoulder-cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/b56ee4fd_1798_4684_a6d2_a3be01127594/preview_00446356_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A red cotton shoulder cloth with supplementary-weft (khit) bands of horse motifs and geometric patterning at each end, explicitly attributed by the museum to the Tai Yuan, the ethnic group of the historic Lanna kingdom — a good match for the claimed Lanna ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1972-07-56",
+    "name": "shoulder-cloth",
+    "kind": "cloth",
+    "title": "shoulder-cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/e44f0b52_da8f_42d8_bb60_a3be00fd28bd/preview_00439998_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a Tai Yuan (Lanna) shoulder cloth with characteristic khit supplementary-weft patterning in white/black on a red ground, matching the claimed ethnicity and museum attribution to Tai Yuan makers.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "A_As1972-07-58",
     "name": "shoulder-cloth",
     "kind": "cloth",
@@ -281,7 +411,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "This is a hand-woven cotton shoulder cloth with supplementary-weft \"khit\" banding and bird motifs, attributed by the museum to the Tai Yuan, the ethnic group historically identified with the Lanna kingdom of northern Thailand — a clear match for the claimed culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

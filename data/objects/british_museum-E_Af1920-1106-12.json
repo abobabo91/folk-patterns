@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1920-1106-12",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1920-1106-12",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1920-1106-12",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1920.1106.12",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Edo",
+    "tradition": "Edo",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a lost-wax cast brass arm-cuff with spiral and lattice motifs and crotal loops, a well-documented Edo (Benin) court metalwork type worn as jewelry/adornment on the arm; the museum explicitly attributes it to Edo makers.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "arm-cuff",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "arm-cuff",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Arm-cuff; lost-wax cast in brass. Alternating vertical panels of decoration: cross-hatched and four spirals. Small suspension loops for crotals (now missing) at upper and lower edges and around centre.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/edo/jewelry/edo/images/bm_E_Af1920_1106_12.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2d64009377b6d8def9f79abe79fc410e31bb943e63f7d1de1b2103adda224041",
+      "bytes": 57748,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\edo\\jewelry\\edo\\images\\bm_E_Af1920_1106_12.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:04:01.127245+00:00"
+}

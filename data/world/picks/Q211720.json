@@ -2,11 +2,43 @@
  "key": "Q211720",
  "label": "Afar people",
  "name": "Afar",
- "judged": 6,
- "cached": 0,
- "cost_usd": 0.054,
+ "judged": 0,
+ "cached": 3,
+ "cost_usd": 0,
  "ranked": {
   "arms": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1018681",
+    "name": "black arms",
+    "kind": "weapons",
+    "title": "black arms",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1126567/1907.42.0475.A-B.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A dagger with iron blade, wood handle with brass pommel, and leather sheath wrapped with a leather strap, attributed to the Afar people (Aseb region), matching the well-known \"jile\"-type Afar/Horn of Africa dagger form.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_43777",
+    "name": "kniv, skida, bälte, Kniv",
+    "kind": "knife",
+    "title": "kniv, skida, bälte, Kniv",
+    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703885%2Fzoom&type=IMAGE",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a curved iron knife (jile-type) with leather sheath and beaded/studded belt, collected explicitly from the Danakil/Afar region of Ethiopia near Awash Station — a characteristic Afar personal weapon/tool.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1979-01-217-a-b",
@@ -39,21 +71,6 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1999-13-1",
-    "name": "knife; sheath",
-    "kind": "knife",
-    "title": "knife; sheath",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_10/1cd918e4_973e_40a6_85b2_a3c600aed9d6/preview_00998484_001.jpg",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a curved knife with wooden hilt and metal knob, in a leather/hide sheath with strap and metal fittings—consistent with the jile/gile knife type used by Afar and neighboring Horn of Africa peoples. This matches the claimed arms category for the Afar.",
-    "featured": true
-   },
-   {
-    "source": "bm",
     "id": "E_Af1913-1211-39",
     "name": "spear",
     "kind": "spear",
@@ -69,6 +86,21 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1999-13-1",
+    "name": "knife; sheath",
+    "kind": "knife",
+    "title": "knife; sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_10/1cd918e4_973e_40a6_85b2_a3c600aed9d6/preview_00998484_001.jpg",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a curved knife with wooden hilt and metal knob, in a leather/hide sheath with strap and metal fittings—consistent with the jile/gile knife type used by Afar and neighboring Horn of Africa peoples. This matches the claimed arms category for the Afar.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1979-01-218-a-b",
     "name": "dagger; knife; sheath",
     "kind": "dagger",
@@ -80,7 +112,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a curved dagger with an hourglass-shaped wooden handle and a leather sheath with metal reinforcement and carrying straps, a form consistent with the jile daggers traditionally worn by Afar and neighboring Horn of Africa peoples. The object type and construction plausibly fit the claimed Afar attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -96,6 +128,24 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a curved-blade knife with a brass hilt and triangular pommel, a type of dagger consistent with weapons used by Afar and neighboring Horn of Africa peoples (similar to the jile knife). Nothing contradicts the Afar attribution, and this form is plausible for the region.",
     "featured": false
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_43772",
+    "name": "armring, bracelet",
+    "kind": "bracelet",
+    "title": "armring, bracelet",
+    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703842%2Fzoom&type=IMAGE",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a bracelet of twisted iron wires bound with white metal clamps, collected at the Dire Dawa market and explicitly attributed to the Afar (Danakil), matching a traditional armring type worn by this pastoralist people.",
+    "featured": true
    }
   ]
  }

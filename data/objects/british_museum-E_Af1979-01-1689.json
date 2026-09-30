@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1979-01-1689",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1979-01-1689",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1979-01-1689",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1979.01.1689",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Burkina Faso",
+    "ethnicity": "Bwa",
+    "tradition": "Bwa",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows a curved iron sickle-sword with a wire-wrapped wooden handle, a weapon type documented among Bwa and neighboring Burkina Faso/Sahelian groups; nothing contradicts the attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "sickle-sword",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sickle-sword",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sword in the shape of a sickle; with iron blade, wooden handle bound with brass wire. Upper part of blade has fibre cord cover.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/burkina-faso/bwa/arms/bwa/images/bm_E_Af1979_01_1689.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "dbc9741b343adf073caa3a250e8a7c8acd14fb7b9b9cff9e05cb213702d25223",
+      "bytes": 24292,
+      "local_path": "library\\sub-saharan-africa\\burkina-faso\\bwa\\arms\\bwa\\images\\bm_E_Af1979_01_1689.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:57:08.293520+00:00"
+}

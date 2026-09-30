@@ -2,11 +2,75 @@
  "key": "Q4894645",
  "label": "Berom people",
  "name": "Berom",
- "judged": 1,
- "cached": 32,
- "cost_usd": 0.011,
+ "judged": 0,
+ "cached": 22,
+ "cost_usd": 0,
  "ranked": {
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Af-A57-14",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_10/5a54f24d_d165_4e4c_bcb1_a3b700b0fc55/preview_00050095_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Documentary photograph of two Birom women in traditional ceremonial ornamentation (leg, waist, arm, neck, nose ornaments) as described, a genuine ethnographic record of dress/adornment matching the claimed people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-B57-18",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/35cd0ff2_9197_4faa_b8a4_a3b700c5d64b/preview_00057659_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Documentary photo of a Nigerian man in leopard-skin regalia with ornaments, surrounded by others in grass/raffia costume, consistent with Berom traditional dress and ceremonial attire.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-B57-5",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/a7135aa6_8fae_410b_a064_a3b700c609de/preview_00057685_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The photo documents a group of Berom men in traditional ceremonial attire with head, neck, and leg ornaments and fiber tassels, matching the museum's description of Birom adult males in costume outdoors — a documentary photo of dress/daily life for the claimed group.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-A57-15",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_10/efc94a8c_6a59_4959_8e83_a3b700b0fd86/preview_00050096_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Documentary photograph of two Birom women in traditional ceremonial ornamentation (leg, waist, arm, neck, nose and ear ornaments) holding staffs, consistent with the claimed ethnicity and museum description.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Af-A57-106",
@@ -37,7 +101,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The photo shows a Birom (Berom) woman displaying traditional body ornamentation—nose ornament, neck ornaments, ear ornament, wrist bracelets, and shaved circular hairstyle—matching a documentary ethnographic photo of dress/adornment.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -53,7 +117,23 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a documentary studio-style portrait of a young man wearing a fur cap, nose-ring, neck ornaments and facial scarification, consistent with traditional Berom dress and adornment from central Nigeria; nothing contradicts the attribution.",
-    "featured": true
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-A57-16",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_10/b786f493_0675_4512_94d6_a3b700b0fef7/preview_00050097_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Documentary portrait of an elderly Nigerian man in traditional dress (animal-hide wrap, cap, staff/sticks), consistent with Berom daily life photography; plausible for the region and no contrary evidence.",
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +149,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The photo documents Birom male youths and children from behind, wearing traditional waist- and buttock-ornaments and holding sticks/spears, a straightforward ethnographic documentary image of dress and adornment matching the claimed people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +165,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The photo shows a Birom young woman in traditional dress (waist ornament, neck ornament with beads/metal discs) in a rural outdoor setting, consistent with a documentary ethnographic portrait of the claimed people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -102,23 +182,55 @@
     "confidence": "MEDIUM",
     "reason": "A gelatin silver print portrait of an elderly Birom man wearing a wrapped cap, photographed outdoors in three-quarter profile — a documentary photo of dress and appearance consistent with the claimed ethnicity.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1906-1017-24",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/2_11/2e30966c_8fa6_40e3_bef5_a9c900bf83fe/preview_img001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "weak",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The photo shows two men in traditional dress (iron shin greaves, penis cap) with a third figure carrying a knife, a documentary ethnographic image of daily life/attire consistent with the claimed Berom (Nigeria) context; no positive evidence contradicts the attribution.",
+    "featured": false
    }
   ],
   "garment": [
    {
     "source": "bm",
-    "id": "E_Af1946-23-3",
+    "id": "E_Af1946-23-4",
     "name": "dress; buttock-ornament",
     "kind": "dress",
     "title": "dress; buttock-ornament",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/20_12/02c6119c_5259_44e1_b6c6_a9fa00ca2997/preview_EAF18700.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/20_12/11344d7b_d6a6_4f59_9fe0_a9fa00ca2b91/preview_EAF18701.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a fibre buttock-ornament/dress attributed to the Birom people of Nigeria, a traditional vegetable-fibre garment element consistent with the claimed ethnicity.",
+    "reason": "A circular vegetable-fibre buttock-ornament/dress element, museum-attributed to the Birom (Berom) people of Nigeria as a made-and-worn garment component; plausible traditional adornment for the region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1921-0105-8",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/11_10/b457e4f3_8190_4c56_968b_aae300a904ef/preview_EAF153874.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven leaf penis-sheath, a garment attributed to the Birom (Berom) people of Nigeria by the museum; this is a plausible traditional garment type for the region.",
     "featured": true
    },
    {
@@ -155,6 +267,134 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1921-0105-10",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_10/fc4e8982_90f8_45be_a4ea_a9d900a959fc/preview_EAF153876.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven leaf/fiber penis sheath attributed to the Birom (Berom) people of Nigeria, a traditional garment type documented for this group; the object is clear and consistent with the claim.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1921-0105-5",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_10/87a2796d_3acd_44f9_b862_a9d900a9575e/preview_EAF153871.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven leaf/fiber penis sheath, a garment type documented as made and worn by the Berom people of Nigeria; museum attribution confirms Birom origin.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1921-0105-6",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/27dc5ecb_a709_415f_a148_a93400d8a611/preview_EAF153872.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven leaf penis sheath attributed to the Birom (Berom) people of Nigeria, a traditional garment/covering used by several Plateau-region groups; plausible as claimed.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1946-23-9",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/20_12/abd698e9_c6b5_456d_a37f_a9fa00ca31bf/preview_EAF18706.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven fiber penis sheath, a garment attributed to the Birom (Berom) people of Nigeria per the museum's own attribution; this is a plausible traditional male garment for this culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1921-0105-7",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/11_10/9137f709_f041_4766_8419_aae300a901fe/preview_EAF153873.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven leaf penis-sheath attributed by the museum to the Birom people of Nigeria, a traditional garment type documented for this group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1921-0105-9",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/11_10/b1795016_40e6_4ff2_afe6_aae300a90791/preview_EAF153875.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven leaf penis sheath, a traditional garment attributed to the Birom (Berom) people of Nigeria per the museum's record; this fits a plausible traditional male garment type for the region.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1946-23-10",
+    "name": "penis-sheath",
+    "kind": "penis-sheath",
+    "title": "penis-sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/20_12/125b4bfa_90da_4b2d_b41b_a9fa00ca33af/preview_EAF18707.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A plaited grass/fiber penis sheath attributed to the Birom (Berom) people of Nigeria, a well-documented traditional item of male dress in the region; matches claimed ethnicity and category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1946-23-3",
+    "name": "dress; buttock-ornament",
+    "kind": "dress",
+    "title": "dress; buttock-ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/20_12/02c6119c_5259_44e1_b6c6_a9fa00ca2997/preview_EAF18700.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a fibre buttock-ornament/dress attributed to the Birom people of Nigeria, a traditional vegetable-fibre garment element consistent with the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1921-0105-11",
     "name": "penis-sheath",
     "kind": "penis-sheath",
@@ -167,7 +407,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a woven leaf penis-sheath, a traditional garment attributed to the Birom (Berom) people of Nigeria, matching the claimed ethnicity and category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -183,7 +423,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a fringed fiber \"buttock garment\" made of plant fiber strands tied at the top, matching the museum's description of a Birom (Berom) woman's traditional garment.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -248,6 +488,74 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a woven leaf penis sheath, a traditional garment attributed to the Birom (Berom) people of Nigeria, clearly photographed against a plain background.",
     "featured": false
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "E_Af1946-23-1",
+    "name": "zither",
+    "kind": "zither",
+    "title": "zither",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/20_12/a817be93_4364_4786_95cb_a9fa00ca274a/preview_EAF18698.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a raft/reed zither made of bundled cane strips bound together with woven cane bindings and fiber cord, matching the museum's description of a reed zither attributed to the Birom (Berom) people of Nigeria.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1924-0415-15",
+    "name": "whistle",
+    "kind": "whistle",
+    "title": "whistle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/9ec5b158_6639_4dc1_a2c6_a93400d8b311/preview_EAF16095.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden whistle with a leather loop, attributed to the Birom (Berom) people, consistent with a musical instrument used by this Nigerian ethnic group.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1993-02-127",
+    "name": "zither",
+    "kind": "zither",
+    "title": "zither",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/b5d4748b_c5a9_4ec3_b480_a93400d8ee05/preview_EAF28308.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a raft/idiochord zither made of laced cane strips forming a sounding board with plucking strings, a traditional instrument type found among Nigerian Plateau peoples including the Berom; the object is plausible for the claimed group.",
+    "featured": true
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af1926-0705-10",
+    "name": "ear-ring",
+    "kind": "earring",
+    "title": "ear-ring",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/cb3b7e4d_6e85_4500_8892_a93400d8c785/preview_EAF16408.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a brass ear-ring, a personal ornament attributed by the museum to the Birom (Berom) people, consistent with the claimed ethnicity and category.",
+    "featured": true
    }
   ],
   "arms": [
@@ -362,74 +670,6 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a full composite spear with a barbed iron head socketed onto a wooden shaft, matching the museum's attribution to the Birom (Berom) people and the claimed category of arms.",
     "featured": false
-   }
-  ],
-  "instruments": [
-   {
-    "source": "bm",
-    "id": "E_Af1946-23-1",
-    "name": "zither",
-    "kind": "zither",
-    "title": "zither",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/20_12/a817be93_4364_4786_95cb_a9fa00ca274a/preview_EAF18698.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a raft/reed zither made of bundled cane strips bound together with woven cane bindings and fiber cord, matching the museum's description of a reed zither attributed to the Birom (Berom) people of Nigeria.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1924-0415-15",
-    "name": "whistle",
-    "kind": "whistle",
-    "title": "whistle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/9ec5b158_6639_4dc1_a2c6_a93400d8b311/preview_EAF16095.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden whistle with a leather loop, attributed to the Birom (Berom) people, consistent with a musical instrument used by this Nigerian ethnic group.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1993-02-127",
-    "name": "zither",
-    "kind": "zither",
-    "title": "zither",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/b5d4748b_c5a9_4ec3_b480_a93400d8ee05/preview_EAF28308.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a raft/idiochord zither made of laced cane strips forming a sounding board with plucking strings, a traditional instrument type found among Nigerian Plateau peoples including the Berom; the object is plausible for the claimed group.",
-    "featured": true
-   }
-  ],
-  "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Af1926-0705-10",
-    "name": "ear-ring",
-    "kind": "earring",
-    "title": "ear-ring",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/cb3b7e4d_6e85_4500_8892_a93400d8c785/preview_EAF16408.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a brass ear-ring, a personal ornament attributed by the museum to the Birom (Berom) people, consistent with the claimed ethnicity and category.",
-    "featured": true
    }
   ]
  }

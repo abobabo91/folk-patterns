@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1995-01-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1995-01-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1995-01-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1995.01.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Banjara",
+    "tradition": "Banjara",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A plaited wool ornament with a caterpillar-like body, silver antennae, and colorful tassel head — a type of hair or amulet ornament attributed by the museum to Banjara makers, consistent with Banjara textile/beadwork craft traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "ornament",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "ornament",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Ornament; plaited of wool; vaguely shaped like caterpillar; body brown plaited wool; head red cotton with white stripes; two silver-coloured metal antennae; tail tassels of red, orange and fuchsia acrylic yarn.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/banjara/jewelry/banjara/images/bm_A_As1995_01_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b287cb4b50242d91cd8ed3a1744872747d37b4c4732bd9d18d3dd6a40cc815ca",
+      "bytes": 25414,
+      "local_path": "library\\south-asia\\india\\banjara\\jewelry\\banjara\\images\\bm_A_As1995_01_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T08:23:24.432899+00:00"
+}

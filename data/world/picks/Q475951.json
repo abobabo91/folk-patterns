@@ -3,10 +3,26 @@
  "label": "Kelabit people",
  "name": "Kelabit",
  "judged": 0,
- "cached": 39,
+ "cached": 33,
  "cost_usd": 0,
  "ranked": {
   "household": [
+   {
+    "source": "bm",
+    "id": "A_As1988-22-29-a",
+    "name": "mortar",
+    "kind": "mortar",
+    "title": "mortar",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_16/cf189a26_5c72_4f95_9a07_a3de01160307/preview_01450853_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden mortar (longing) with a handle, a traditional household implement of the type used by Kelabit and neighboring Bornean highland peoples for pounding food. It matches the claimed category and culture.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "A_As1904-0416-34",
@@ -73,6 +89,22 @@
    },
    {
     "source": "bm",
+    "id": "A_As1988-22-72-b",
+    "name": "mat",
+    "kind": "mat",
+    "title": "mat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_19/54daa3f5_b59c_43e7_b583_a3de013f4850/preview_01464645_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a tightly woven rolled grass/pandanus mat (liling), a household item made by the Kelabit, consistent with the museum's attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "A_As1988-22-85",
     "name": "sifter",
     "kind": "sifter",
@@ -85,7 +117,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The image shows a square woven bamboo/rattan rice sifter (agag bera), a household object attributed directly to the Kelabit and plausible for their traditional agrarian material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -101,22 +133,6 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The picture shows a wooden pottery-shaping paddle with incised crosshatched pattern and clay traces, explicitly attributed to Kelabit makers who use such paddles in traditional pottery production.",
-    "featured": false
-   },
-   {
-    "source": "bm",
-    "id": "A_As1988-22-69-b",
-    "name": "mat",
-    "kind": "mat",
-    "title": "mat",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_17/45b11c5f_2b1c_401b_b481_a3de01270a57/preview_01457658_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "Finely woven mat of split grass/leaf (berpah), a plaited household item used by the Kelabit; the museum records it as Kelabit-made, consistent with mat/basket-lining crafts of Borneo highland peoples.",
     "featured": false
    },
    {
@@ -181,6 +197,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a simple low wooden stool carved from a single piece of wood, consistent with the museum's attribution of a Kelabit-made \"laan\" from belaban wood; this is a plausible everyday household object for this Bornean group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1988-22-69-b",
+    "name": "mat",
+    "kind": "mat",
+    "title": "mat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_17/45b11c5f_2b1c_401b_b481_a3de01270a57/preview_01457658_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Finely woven mat of split grass/leaf (berpah), a plaited household item used by the Kelabit; the museum records it as Kelabit-made, consistent with mat/basket-lining crafts of Borneo highland peoples.",
     "featured": false
    },
    {
