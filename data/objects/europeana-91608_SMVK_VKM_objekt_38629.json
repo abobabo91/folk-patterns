@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91608_SMVK_VKM_objekt_38629",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of World Culture",
+    "object_id": "91608_SMVK_VKM_objekt_38629",
+    "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_38629?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Colombia",
+    "ethnicity": "Arhuaco",
+    "tradition": "Arhuaco",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "This is a woven bast fibre bag/carrying net (slunga/\"kang-tjóma\", described as used for carrying wood) collected among the Arhuaco/Ika people of Sierra Nevada de Santa Marta by Bolinder; it is a household carrying item, not a weapon, despite the \"arms\" category label.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "slunga (leksak), Slunga., spáti",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of World Culture",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/colombia/arhuaco/household/arhuaco/images/eu_91608_SMVK_VKM_objekt_38629.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ddf4ee18a901b8005610bfdf38b2e43fd8ee574e4517de00e871639b350477e0",
+      "bytes": 63881,
+      "local_path": "library\\latin-america\\colombia\\arhuaco\\household\\arhuaco\\images\\eu_91608_SMVK_VKM_objekt_38629.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1225158%2Fimage.jpg&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T03:05:35.418535+00:00"
+}

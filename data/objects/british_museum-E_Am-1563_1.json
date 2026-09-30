@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-1563_1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-1563_1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-1563_1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.1563_1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Guyana",
+    "ethnicity": "Akawaio",
+    "tradition": "Akawaio",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a carved wooden model canoe (corial), a household/transport item attributed to the Akawaio, consistent with traditional dugout canoe forms used in Guiana Highlands communities.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "model; canoe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "model; canoe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Model corrial, canoe made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/guyana/akawaio/household/akawaio/images/bm_E_Am_1563_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8b69c9a513679a170c2492a459767d94620bb6343a8c5582bd684df431473eca",
+      "bytes": 97874,
+      "local_path": "library\\latin-america\\guyana\\akawaio\\household\\akawaio\\images\\bm_E_Am_1563_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T03:12:18.555210+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91608_SMVK_VKM_objekt_37471",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of World Culture",
+    "object_id": "91608_SMVK_VKM_objekt_37471",
+    "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37471?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Colombia",
+    "ethnicity": "Arhuaco",
+    "tradition": "Arhuaco",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a long bow (\"kammäjj\") collected by Bolinder among the Ijca/Arhuaco of the Sierra Nevada de Santa Marta, a gift from an Arhuaco chief and mama — a weapon made and used by this people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "pilbåge, båge, bow, kammäjj",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of World Culture",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/colombia/arhuaco/arms/arhuaco/images/eu_91608_SMVK_VKM_objekt_37471.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2cb8dc94aa8ab435d722f867cb38d822f003dace78c2c1c5d253654f5af9b316",
+      "bytes": 9528,
+      "local_path": "library\\latin-america\\colombia\\arhuaco\\arms\\arhuaco\\images\\eu_91608_SMVK_VKM_objekt_37471.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1019941%2Fzoom&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T03:05:49.062581+00:00"
+}

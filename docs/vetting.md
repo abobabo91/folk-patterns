@@ -703,12 +703,13 @@ contact sheets by the Codex CLI (one `codex exec` per sheet with the index and
 the pixel-duplicate pairs); it flagged 21, 16 were excluded after checking —
 the other five were same-people labels it misread (Arhuaco / Bíntukua,
 Tseshaht / Toquaht) or a basket titled "vessel". 27 already-loaded cultures
-took 842 new records; the index went from 9,930 to 10,656 objects. Arhuaco,
-Akawaio and Chorotí were never loaded and still need a seed entry and profile.
+took 842 new records; the index went from 9,930 to 10,656 objects. Arhuaco (54,
+Colombia), Akawaio (65, Guyana) and Chorotí (29, Argentina) were then loaded as
+new cultures after a Codex contact-sheet pass (1 exclusion); index 10,804 objects in 213 cultures.
 
 **Current coverage (2026-09-29):** `scripts/_vet_status.py` reports 10,942/10,942
 library records judged, 10,040 accepted and 902 dropped. The site index has
-10,656 objects in 210 cultures. This is model-based visual review of all library
+10,804 objects in 213 cultures. This is model-based visual review of all library
 images, not a separate editorial check of 10,942 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,

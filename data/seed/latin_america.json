@@ -129,6 +129,34 @@
               "Argentina"
             ]
           }
+        },
+        {
+          "name": "Chorotí",
+          "homeland": {
+            "lat": -22.35,
+            "lon": -62.72
+          },
+          "homeland_place": "Tartagal",
+          "traditions": [
+            "chaguar"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Chorote",
+              "Choroti",
+              "Chorotí",
+              "Manjuy",
+              "Manjui",
+              "Yofuaha",
+              "Eklenjuy",
+              "Matacoan",
+              "Mataco-Mataguayo",
+              "Gran Chaco",
+              "Argentina",
+              "Paraguay"
+            ]
+          }
         }
       ]
     },
@@ -497,6 +525,80 @@
               "Venezuela",
               "Orinoco",
               "Amazonas"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Colombia",
+      "met_queries": [
+        "Colombia"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Arhuaco",
+          "homeland": {
+            "lat": 10.83,
+            "lon": -73.62
+          },
+          "homeland_place": "Valledupar",
+          "traditions": [
+            "mochila arhuaca",
+            "kankurwa",
+            "kunsamu"
+          ],
+          "arch_commons_categories": [
+            "Ciudad Perdida",
+            "Sierra Nevada de Santa Marta",
+            "Nabusímake"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Arhuaco",
+              "Ika",
+              "Ijka",
+              "Bintukua",
+              "Kogi",
+              "Tairona",
+              "Colombia",
+              "Sierra Nevada de Santa Marta"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Guyana",
+      "met_queries": [
+        "Guyana"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Akawaio",
+          "homeland": {
+            "lat": 5.63,
+            "lon": -60.28
+          },
+          "homeland_place": "Kamarang",
+          "traditions": [],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Akawaio",
+              "Acawaio",
+              "Akawaio Carib",
+              "Kapon",
+              "Waika",
+              "Guyana",
+              "British Guiana",
+              "Carib",
+              "Cariban",
+              "Upper Mazaruni"
             ]
           }
         }

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-2496",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-2496",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-2496",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.2496",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Guyana",
+    "ethnicity": "Akawaio",
+    "tradition": "Akawaio",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a feather crown/headdress made of woven reed, cotton cord, and colorful feathers, explicitly attributed to the Akawaio as makers, consistent with Amazonian featherwork traditions. This is a wearable ceremonial headdress, so garment fits better than jewelry.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "crown; head-dress",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "crown; head-dress",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Crown made of feathers, reed, cotton and cord.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/guyana/akawaio/garment/akawaio/images/bm_E_Am_2496.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "440b3c4d666f87a666fd2a0fd5fa4a167162604716dac614fc8fb3e8c5579479",
+      "bytes": 19670,
+      "local_path": "library\\latin-america\\guyana\\akawaio\\garment\\akawaio\\images\\bm_E_Am_2496.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T03:12:31.931087+00:00"
+}
