@@ -2,9 +2,9 @@
  "key": "Q3327332",
  "label": "Arhuaco people",
  "name": "Arhuaco",
- "judged": 63,
- "cached": 17,
- "cost_usd": 0.679,
+ "judged": 0,
+ "cached": 80,
+ "cost_usd": 0,
  "ranked": {
   "garment": [
    {
@@ -40,6 +40,22 @@
     "featured": true
    },
    {
+    "source": "bm",
+    "id": "E_Am1962-01-367",
+    "name": "trousers",
+    "kind": "trousers",
+    "title": "trousers",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/17_12/4aefe5f4_9d1c_4c23_b136_a9d800cfddc0/preview_Am1962_01_367___1_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Plain handwoven cotton/fique trousers, a traditional Arhuaco/Bíntukua male garment from the Sierra Nevada de Santa Marta; museum credits both closely related Arhuaco and Bíntukua peoples as makers, consistent with the claim.",
+    "featured": true
+   },
+   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_37284",
     "name": "barnbära, posa",
@@ -56,6 +72,22 @@
     "featured": true
    },
    {
+    "source": "bm",
+    "id": "E_Am1962-01-365",
+    "name": "poncho",
+    "kind": "poncho",
+    "title": "poncho",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_11/14_10/045b7b3d_17fd_40d6_9792_af4d00b322dc/preview_am1962_01_365__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A plain rectangular handwoven cotton/wool poncho with a head-slit, attributed by the museum to Arhuaco (or related Bíntukua) makers of the Sierra Nevada region — a typical undyed traditional garment of this people.",
+    "featured": true
+   },
+   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_38718",
     "name": "barnbära, Barnbära., si-sittjå",
@@ -69,7 +101,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "This is a woven bast-fiber baby carrier (\"barnbära\"/si-sittjå) collected by Bolinder among the Arhuaco (Ijca/Ika) in the Sierra Nevada de Santa Marta, Colombia — a traditional carrying garment made and used by this people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "europeana",
@@ -85,7 +117,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "This shows a handwoven cotton mantle (\"mákke\") collected by Bolinder among the Ijka/Arhuaco (Ika) people of the Sierra Nevada de Santa Marta, a plain woman's wrap garment consistent with Arhuaco material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "europeana",
@@ -315,6 +347,22 @@
    }
   ],
   "textile": [
+   {
+    "source": "bm",
+    "id": "E_Am1962-01-368",
+    "name": "bag",
+    "kind": "bag",
+    "title": "bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/12_14/736af775_6841_4694_9e9d_aa2d00e6b88a/preview_am1962_01_368__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A woven fibre shoulder bag (mochila-type) with brown geometric zigzag pattern, a classic textile made and used by the Arhuaco/Bintukua peoples of the Sierra Nevada de Santa Marta.",
+    "featured": true
+   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_37085",

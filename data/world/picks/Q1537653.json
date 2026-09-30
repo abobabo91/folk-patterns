@@ -2,11 +2,75 @@
  "key": "Q1537653",
  "label": "Ho-Chunk",
  "name": "Ho-Chunk",
- "judged": 13,
- "cached": 0,
- "cost_usd": 0.139,
+ "judged": 0,
+ "cached": 13,
+ "cost_usd": 0,
  "ranked": {
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-B37-41",
+    "name": "photographic print; carte-de-visite",
+    "kind": "photograph",
+    "title": "photographic print (black and white); carte-de-visite",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/d8e79f99_097a_4123_b0d3_a3c101419f51/preview_00694858_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Studio carte-de-visite portrait explicitly described as a \"Winnebago boy\" (the historical name for Ho-Chunk) wearing traditional dress — eagle feather, dentalium shell necklace, blanket, leggings, moccasins — a documentary photo of dress and appearance matching the claimed people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B56-106",
+    "name": "postcard; photographic print",
+    "kind": "photograph",
+    "title": "postcard (black &amp; white, and coloured); photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/f2d430a2_fb83_4cbf_b899_a3c600ec89a3/preview_01017377_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Tinted postcard photograph of Ho-Chunk (Winnebago) men in ceremonial regalia (feather bustles, roaches, a hand drum) posed at Stand Rock/Devil's Anvil near the Wisconsin Dells, a documented staged photo tradition for this community.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A9-98",
+    "name": "carte-de-visite",
+    "kind": "photograph",
+    "title": "carte-de-visite (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_16/d5759a6a_0ec3_4e41_b35a_a3e1011295f2/preview_00113981_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Studio portrait of Little Hill, identified as a Winnebago (Ho-Chunk) chief, wearing traditional dress including a headband, beaded neck ornament, blanket, and moccasins — a documentary photo of the claimed people in their dress.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A38-79",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/aea36920_f8be_44e6_ae7a_a3c100e1875d/preview_00652773_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Hand-colored studio portrait of a named Winnebago (Ho-Chunk) chief wearing a red cloth headband, patterned shirt, and fur robe—documentary dress photo consistent with the claimed people.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-B37-24",
@@ -37,7 +101,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a documentary 19th-century photograph of a Winnebago (Ho-Chunk) chief and community gathered before a tipi with decorative panels, clothing, and other people, matching the claimed ethnicity's daily/ceremonial life.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -53,7 +117,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Carte-de-visite photograph of Winneshiek, a Winnebago (Ho-Chunk) chief, in full regalia with bear-claw necklace, bow and arrows, and pipe, photographed at Fort Snelling — a documentary portrait of Ho-Chunk dress and material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +133,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Studio portrait of a Winnebago (Ho-Chunk) woman in traditional dress with shell jewelry, holding an infant in a decorated cradleboard—directly documenting the group's dress and material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +149,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Studio postcard portrait of Chief White Wing, a Ho-Chunk man from Wisconsin Dells, shown in full traditional regalia (feather headdress, bone breastplate, choker, beadwork) holding a pipe — a documentary photo of the people's dress and material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -101,6 +165,70 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Studio carte-de-visite portrait of two Winnebago (Ho-Chunk) men in traditional dress—feathered headdress, beaded necklaces, leggings, moccasins, and a carved bow/blanket—documenting attire and material culture of the claimed people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A9-94",
+    "name": "carte-de-visite",
+    "kind": "photograph",
+    "title": "carte-de-visite (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_16/e15b9cb6_4ada_4979_a5ff_a3e101120212/preview_00113925_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Studio portrait of \"White Wood,\" identified as a Winnebago (Ho-Chunk) Brave, wearing a feather bonnet, fringed skin shirt, trousers and moccasins — a documentary photo of traditional Ho-Chunk dress.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B37-10",
+    "name": "photographic print; stereoscope photograph",
+    "kind": "photograph",
+    "title": "photographic print (black and white); stereoscope photograph",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_18/04115b2b_9eb3_4a99_b207_a3c1013517b0/preview_00689909_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Documentary photograph of two Winnebago (Ho-Chunk) boys in traditional dress with gun, bow and arrow, and leggings, posed outdoors—clear evidence of dress and material culture of the claimed group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B56-103",
+    "name": "postcard; photographic print",
+    "kind": "photograph",
+    "title": "postcard (black &amp; white, hand coloured); photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/b6150a03_b6b8_49dd_8ac3_a3c600ecbb87/preview_01017354_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A hand-coloured postcard shows a group of Ho-Chunk (Winnebago) men, women and children in traditional dress with necklaces at Bethesda Park, Waukesha, Wisconsin, a documented early-20th-century tourist photo genre for this people; this matches the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A9-101",
+    "name": "carte-de-visite",
+    "kind": "photograph",
+    "title": "carte-de-visite (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_16/9354c831_b861_4481_8b5b_a3e10113e9c2/preview_00114413_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Studio carte-de-visite portrait of a Ho-Chunk (Winnebago) man in traditional dress—headband with feathers, necklaces, jacket, and holding a tomahawk/pipe—documenting his attire, which fits the claimed people.",
     "featured": false
    },
    {

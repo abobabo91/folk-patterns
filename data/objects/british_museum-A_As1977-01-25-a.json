@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1977-01-25-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1977-01-25-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1977-01-25-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1977.01.25.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Shan",
+    "tradition": "Shan",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The record explicitly identifies the maker as Shan, and this red silk brocade jacket with mandarin collar and detachable sleeves is a plausible Shan/Tai-style garment (Chinese silk trade goods commonly used and adapted by Shan tailors near the China border).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "jacket",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "jacket",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Jacket made of silk, with detachable sleeves 9(b-c).",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/shan/garment/shan/images/bm_A_As1977_01_25_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2481668f3c0dbb5a35b92445ce8f63e06ac45a7c3ee37fb8ae0db79291aa6da6",
+      "bytes": 45672,
+      "local_path": "library\\southeast-asia\\myanmar\\shan\\garment\\shan\\images\\bm_A_As1977_01_25_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-09-30T02:44:12.495243+00:00"
+}

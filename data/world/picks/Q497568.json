@@ -2,62 +2,10 @@
  "key": "Q497568",
  "label": "Innu people",
  "name": "Innu",
- "judged": 1,
- "cached": 18,
- "cost_usd": 0.008,
+ "judged": 0,
+ "cached": 13,
+ "cost_usd": 0,
  "ranked": {
-  "photo": [
-   {
-    "source": "bm",
-    "id": "E_2012-2031-45",
-    "name": "digital photograph",
-    "kind": "photograph",
-    "title": "digital photograph (colour)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_15/5f89929b_2bb5_4763_8a6f_a3df00fc47b7/preview_01516771_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The photograph shows Innu women and a child at a traditional canvas tent camp near Davis Inlet, Labrador, documenting everyday dress and dwelling of the Innu people.",
-    "featured": true
-   }
-  ],
-  "household": [
-   {
-    "source": "bm",
-    "id": "E_2012-2031-15",
-    "name": "smoking-pipe",
-    "kind": "pipe",
-    "title": "smoking-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_12/4721505a_f7f6_43c6_99b4_a3db00cbdb0f/preview_01237801_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image clearly shows a traditional smoking pipe with a soapstone bowl, wooden stem, and beaded decorative panel, matching the museum's attribution to Innu makers.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_2012-2031-14",
-    "name": "smoking-pipe",
-    "kind": "pipe",
-    "title": "smoking-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_12/f06893df_8504_47af_b806_a3db00cbebc0/preview_01237810_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a soapstone-bowled smoking pipe with wooden stem and a beadwork decoration, matching the museum's attribution to Innu makers and consistent with Innu material culture.",
-    "featured": true
-   }
-  ],
   "garment": [
    {
     "source": "bm",
@@ -141,6 +89,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1992-16-5-a-b",
+    "name": "moccasin",
+    "kind": "moccasin",
+    "title": "moccasin",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_17/abd9d368_068d_4e31_9510_a3b901244415/preview_00213086_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A pair of black leather moccasins with beaded vamps, attributed by the museum to Montagnais (Innu) makers—a classic Innu/Naskapi footwear form and beadwork style.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_2012-2031-1-a-b",
     "name": "moccasin",
     "kind": "moccasin",
@@ -154,6 +118,90 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a pair of tanned hide child's moccasins with a beaded bird's-foot vamp design, a traditional footwear form attributed to Innu makers by the museum.",
     "featured": false
+   }
+  ],
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Am1986-10-103",
+    "name": "dish",
+    "kind": "dish",
+    "title": "dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/3c835bc5_fbd7_468b_89ad_a3df01739278/preview_01557483_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A birch-bark dish with sewn rim and scraped floral decoration, made by Montagnais (Innu), matches known Innu birch-bark craft; wrong category claimed (household, not ceramic) but that alone isn't grounds for NO.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_2012-2031-15",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_12/4721505a_f7f6_43c6_99b4_a3db00cbdb0f/preview_01237801_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image clearly shows a traditional smoking pipe with a soapstone bowl, wooden stem, and beaded decorative panel, matching the museum's attribution to Innu makers.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1986-10-104",
+    "name": "dish",
+    "kind": "dish",
+    "title": "dish",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_6/8_14/373552fd_84e3_4a58_b14b_ad4100f1bb2d/preview_am1986_10_104__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A birch bark dish with scraped/etched floral decoration, a traditional Innu (Montagnais) craft form used for food preparation. This matches the claimed ethnicity and is a genuine ethnographic object, though it is birch bark rather than ceramic as the category suggests.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_2012-2031-14",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_12/f06893df_8504_47af_b806_a3db00cbebc0/preview_01237810_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a soapstone-bowled smoking pipe with wooden stem and a beadwork decoration, matching the museum's attribution to Innu makers and consistent with Innu material culture.",
+    "featured": true
+   }
+  ],
+  "photo": [
+   {
+    "source": "bm",
+    "id": "E_2012-2031-45",
+    "name": "digital photograph",
+    "kind": "photograph",
+    "title": "digital photograph (colour)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_15/5f89929b_2bb5_4763_8a6f_a3df00fc47b7/preview_01516771_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph shows Innu women and a child at a traditional canvas tent camp near Davis Inlet, Labrador, documenting everyday dress and dwelling of the Innu people.",
+    "featured": true
    }
   ],
   "sculpture": [

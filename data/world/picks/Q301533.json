@@ -3,24 +3,24 @@
  "label": "Fante people",
  "name": "Fante",
  "judged": 0,
- "cached": 51,
+ "cached": 38,
  "cost_usd": 0,
  "ranked": {
   "sculpture": [
    {
     "source": "bm",
-    "id": "E_Af1933-1202-28",
-    "name": "figure; funerary equipment",
+    "id": "E_Af1986-17-27",
+    "name": "figure",
     "kind": "figure",
-    "title": "figure; funerary equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_10/46670419_b9b3_484d_b119_a3c100b347ee/preview_00632252_001.jpg",
-    "judge": "pick:codex-gpt-5.6-luna",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_15/8924e76b_24aa_4491_9088_a9cf010396d1/preview_EAF12044.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The picture shows a handmade terracotta funerary head, and the museum explicitly identifies it as made by the Fante.",
+    "confidence": "MEDIUM",
+    "reason": "This is a classic Akan/Fante wooden \"akua'ba\"-type standing female figure with facial scarification, plaited hairstyle, and beaded necklace, consistent with Fante spirit/shrine figures used in ritual contexts, and the museum records it as Fante-made.",
     "featured": true
    },
    {
@@ -41,6 +41,70 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1981-20-2",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/24_8/642f240d_2080_47ec_9e96_a9650090ccf7/preview_EAF10200.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved wooden female figure with a crested coiffure, elongated neck and hands clasped at the belly, a standing shrine-figure type consistent with Akan/Fante wood carving traditions; the museum gives a direct (not style-only) attribution to Fante.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1971-16-1",
+    "name": "figure; funerary equipment",
+    "kind": "figure",
+    "title": "figure; funerary equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/7_11/110ec73c_df69_4f0f_b3df_a93500c1da35/preview_EAF8358.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a flat pottery head with rudimentary incised facial features, matching the known Fante (Akan) funerary terracotta head tradition placed at royal burial grounds; museum confirms Fante attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1933-1202-25",
+    "name": "figure; funerary equipment",
+    "kind": "figure",
+    "title": "figure; funerary equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_10/25bd8f0e_46b6_4aa6_950a_a3c100b32f78/preview_00632240_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A terracotta funerary head with elongated ringed neck and stylized facial features, a well-known Akan/Fante commemorative funerary sculpture type used to mark royal or important burials.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1933-1202-28",
+    "name": "figure; funerary equipment",
+    "kind": "figure",
+    "title": "figure; funerary equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_10/46670419_b9b3_484d_b119_a3c100b347ee/preview_00632252_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade terracotta funerary head, and the museum explicitly identifies it as made by the Fante.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1974-19-8",
     "name": "akua'ba; doll",
     "kind": "doll",
@@ -53,7 +117,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a wooden akua’ba fertility doll with a stylized head, ringed neck, carved body, pyro-engraved features, and bead adornment. The metadata identifies it as made by the Fante, so it fits the claimed ethnicity.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +133,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a handmade terracotta funerary head, a sculpture attributed by the museum as made by the Fante of Ghana. It fits the claimed ethnicity and category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +149,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a carved wooden akua’ba fertility doll with an oversized head, ringed neck, beads, and attached hair, a traditional Akan object attributed by the museum to the Fante. It fits the claimed ethnicity and category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -101,6 +165,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a handmade terracotta funerary head, and the museum explicitly identifies it as made by the Fante. It fits Fante sculpture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1935-1009-30",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_13/52629816_f113_4e89_8fac_a9cf00d68fb3/preview_EAF3915.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden carved fish figure, attributed to the Fante of Ghana; Fante carvers are known for figurative wood carvings including this kind of stylized fish form, plausible as used in ritual or decorative context.",
     "featured": false
    }
   ],
@@ -219,6 +299,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1978-22-722",
+    "name": "flag",
+    "kind": "flag",
+    "title": "flag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_20/ee10fc92_0303_4a70_8aa9_a3b901554055/preview_00226040_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is an Asafo flag (appliqué cotton banner with animal emblems and a Union Jack), a well-known Fante textile tradition used by Asafo militia companies; the museum records it as Fante-made.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1978-22-723",
     "name": "flag",
     "kind": "flag",
@@ -234,57 +330,55 @@
     "featured": false
    }
   ],
-  "masks-ritual": [
+  "household": [
    {
     "source": "bm",
-    "id": "E_Af1954-23-1299-a-b",
+    "id": "E_Af1954-23-3227",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_12/c0300e0b_da2e_4e6f_9c22_a3c500ccb4ba/preview_00939218_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A carved wooden stool with a crescent-shaped top supported by a leopard figure, a classic Akan/Fante prestige-stool form used as household furniture; matches the museum's Fante attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1294",
     "name": "staff",
     "kind": "staff",
     "title": "staff",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/7_11/409232af_b5c9_4a2f_85c0_aa0900b9933c/preview_EAF7089.jpg",
-    "judge": "pick:codex-gpt-5.6-luna",
-    "art_form": "masks-ritual",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/7_11/25e44c38_fe1e_4648_a23d_aa0900b98da9/preview_EAF7084.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a carved and decorated spokesman’s staff, explicitly identified as made by the Fante; it therefore fits the claimed ethnicity despite the household category being imprecise.",
+    "confidence": "MEDIUM",
+    "reason": "This is a wooden ceremonial linguist/spokesman's staff with a carved figural finial, a well-known Akan/Fante regalia form used by court spokesmen (okyeame) to convey proverbs and authority. It fits the claimed Fante ethnicity and category.",
     "featured": true
    },
    {
     "source": "bm",
-    "id": "E_Af-2911",
-    "name": "charm",
-    "kind": "charm",
-    "title": "charm",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_10/10_8/bcec0f8d_21ac_4f43_a127_a97500905bbd/preview_EAF374.jpg",
-    "judge": "pick:codex-gpt-5.6-luna",
-    "art_form": "masks-ritual",
+    "id": "E_Af1933-1202-4",
+    "name": "ladle",
+    "kind": "ladle",
+    "title": "ladle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_12/d246eba1_e4ab_4fab_848d_a3dd00d39991/preview_01363092_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
     "image": "good",
     "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a traditional neck charm made of twisted fibre strings with multiple grass tassels and bead or berry elements. The metadata explicitly identifies it as made by the Fante, so it fits the claimed ethnicity and ritual category.",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple handmade pottery ladle/spoon with a hollow bowl and handle, consistent with everyday Fante domestic pottery use; plausible household object for the region.",
     "featured": true
    },
-   {
-    "source": "bm",
-    "id": "E_Af1954-23-1296",
-    "name": "ceremonial paddle",
-    "kind": "paddle",
-    "title": "ceremonial paddle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/7_11/159a3529_5c54_48e1_818f_aa0900b98ef1/preview_EAF7086.jpg",
-    "judge": "pick:codex-gpt-5.6-luna",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The picture shows a carved and painted ceremonial paddle, a traditional object plausibly made and used by the Fante; its ceremonial function fits the claimed cultural attribution, though it is not an ordinary weapon.",
-    "featured": true
-   }
-  ],
-  "household": [
    {
     "source": "bm",
     "id": "E_Af1954-23-1297_1",
@@ -300,6 +394,54 @@
     "confidence": "HIGH",
     "reason": "The image shows a hand-carved wooden paddle, identified by the museum as made by the Fante; it is a plausible traditional Fante utilitarian object.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1948-25-2",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_12/196f1f69_50e3_421a_ab5c_a3c500cbdd35/preview_00938903_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden stool with a figure supporting a curved rectangular seat is a classic Akan-region (Fante) household/furniture form, consistent with the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1933-1202-13",
+    "name": "ladle",
+    "kind": "ladle",
+    "title": "ladle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_12/3d92ac19_cf87_4f37_a783_a3dd00d2f947/preview_01362857_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A small handmade pottery ladle with incised decoration, attributed by the museum to the Fante of Ghana, a plausible traditional household craft item for the region.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1933-1202-6",
+    "name": "ladle",
+    "kind": "ladle",
+    "title": "ladle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/8_15/6ad57b4b_b4e1_4488_bc79_a93600fd6537/preview_EAF3442.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple handmade pottery ladle with a knob handle, consistent with everyday Fante household ceramics from Ghana; nothing contradicts the attribution.",
+    "featured": false
    }
   ],
   "ceramic": [
@@ -333,6 +475,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a handmade burnished clay vase with impressed and punctate decoration, consistent with the metadata’s Fante attribution; it fits the claimed ethnicity and ceramic category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1933-1202-9",
+    "name": "cup",
+    "kind": "cup",
+    "title": "cup",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_12/64652519_8e5d_41a4_ba6a_a3dd00d369c3/preview_01363118_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A handmade burnished clay cup with simple channelled decoration, consistent with traditional Fante pottery; museum records it as made by the Fante.",
     "featured": true
    },
    {
@@ -381,7 +539,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The image shows a handmade burnished pottery pedestal vessel, consistent with the museum’s explicit attribution as made by the Fante people. It is a clear, whole ceramic object, though its plain form is not especially distinctive.",
-    "featured": true
+    "featured": false
    }
   ],
   "instruments": [
@@ -399,6 +557,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "The picture shows a carved, decorated double-breasted drum, a traditional musical instrument explicitly identified by the museum as made by the Fante of Ghana.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1981-24-2-a-b",
+    "name": "drum",
+    "kind": "drum",
+    "title": "drum",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/7_16/f86e9493_ce69_4eda_a08d_aa09010bd586/preview_EAF10203.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A carved wooden Fante Asafo drum with low-relief figures, alphabet lettering, and animal motifs—consistent with known Fante Asafo company drums attributed by the museum to Akan/Fante makers.",
     "featured": true
    },
    {
@@ -449,6 +623,56 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The picture shows a seated Fante woman in traditional formal dress and headwear, making it a documentary photograph of Fante clothing and adornment. It fits the claimed ethnicity and category.",
+    "featured": true
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1299-a-b",
+    "name": "staff",
+    "kind": "staff",
+    "title": "staff",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/7_11/409232af_b5c9_4a2f_85c0_aa0900b9933c/preview_EAF7089.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved and decorated spokesman’s staff, explicitly identified as made by the Fante; it therefore fits the claimed ethnicity despite the household category being imprecise.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af-2911",
+    "name": "charm",
+    "kind": "charm",
+    "title": "charm",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_10/10_8/bcec0f8d_21ac_4f43_a127_a97500905bbd/preview_EAF374.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a traditional neck charm made of twisted fibre strings with multiple grass tassels and bead or berry elements. The metadata explicitly identifies it as made by the Fante, so it fits the claimed ethnicity and ritual category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1296",
+    "name": "ceremonial paddle",
+    "kind": "paddle",
+    "title": "ceremonial paddle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/7_11/159a3529_5c54_48e1_818f_aa0900b98ef1/preview_EAF7086.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved and painted ceremonial paddle, a traditional object plausibly made and used by the Fante; its ceremonial function fits the claimed cultural attribution, though it is not an ordinary weapon.",
     "featured": true
    }
   ]

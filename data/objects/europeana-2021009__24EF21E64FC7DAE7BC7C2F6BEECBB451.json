@@ -76,7 +76,8 @@
       "role": "primary",
       "sha256": "8d69b2c5d87bce5c5671e17a459b7dbff6bca3e4047ee371614a785c8da70ce0",
       "bytes": 54402,
-      "local_path": "library\\north-america\\united-states\\hopi\\garment\\hopi\\images\\eu_2021009_24EF21E64FC7DAE7BC7C2F6BEECBB451.jpg"
+      "local_path": "library\\north-america\\united-states\\hopi\\garment\\hopi\\images\\eu_2021009_24EF21E64FC7DAE7BC7C2F6BEECBB451.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D599016%26size%3Dextra_large%26org%3D43094&type=IMAGE"
     }
   ],
   "map": {
@@ -84,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-09-28T15:11:52.138276+00:00"
+  "processed_at": "2026-09-30T02:32:26.038550+00:00"
 }

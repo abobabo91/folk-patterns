@@ -76,7 +76,8 @@
       "role": "primary",
       "sha256": "8ab23701b8efec83338076c7b59bfa3e5a7c91db5d4fd5d23a8d34fb33199f9b",
       "bytes": 39652,
-      "local_path": "library\\north-america\\united-states\\hopi\\photo\\hopi\\images\\eu_488_https_www_esbirky_cz_detail_198046.jpg"
+      "local_path": "library\\north-america\\united-states\\hopi\\photo\\hopi\\images\\eu_488_https_www_esbirky_cz_detail_198046.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D198048&type=IMAGE"
     }
   ],
   "map": {
@@ -84,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-09-28T15:11:26.528629+00:00"
+  "processed_at": "2026-09-30T02:31:55.450085+00:00"
 }

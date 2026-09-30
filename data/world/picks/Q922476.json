@@ -2,9 +2,9 @@
  "key": "Q922476",
  "label": "Akawaio people",
  "name": "Akawaio",
- "judged": 77,
- "cached": 0,
- "cost_usd": 1.0,
+ "judged": 0,
+ "cached": 77,
+ "cost_usd": 0,
  "ranked": {
   "arms": [
    {
@@ -73,18 +73,18 @@
    },
    {
     "source": "bm",
-    "id": "E_Am-1562_1",
-    "name": "arrow",
+    "id": "E_Am1905-1117-36",
+    "name": "fish-arrow",
     "kind": "arrow",
-    "title": "arrow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_11/28_15/d8c2b4d8_2cfe_49a2_9a10_a8390103c954/ESA5734.jpg",
-    "judge": "pick:claude-sonnet-5",
+    "title": "fish-arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_6/30_14/55ce11ba_8b2e_415e_8a6e_aec400ea0c94/preview_am1905_1117_36__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "The image shows a game arrow with a long iron point, cotton bindings, reed shaft, and fletched tail — matching the museum's description of an Akawaio-made arrow. This is a weapon type consistent with the claimed people's traditional material culture.",
+    "reason": "The image shows a long wooden fish-arrow with feather fletching, a traditional weapon type used by the Akawaio (a Cariban-speaking people of the Guiana region), matching the museum's attribution.",
     "featured": true
    },
    {
@@ -117,6 +117,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a carved wooden war club bound with cotton cording, a type of weapon made and used by Akawaio and related Guiana peoples; the museum record attributes it directly to Akawaio manufacture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-1562_1",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_11/28_15/d8c2b4d8_2cfe_49a2_9a10_a8390103c954/ESA5734.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a game arrow with a long iron point, cotton bindings, reed shaft, and fletched tail — matching the museum's description of an Akawaio-made arrow. This is a weapon type consistent with the claimed people's traditional material culture.",
     "featured": false
    }
   ],
@@ -586,6 +602,24 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a necklace of tapir and peccary teeth strung on cotton cord, collected at Waipa village on the Chimepir/Ireng River near Mount Roraima — a documented Akawaio/Patamona region of British Guiana, consistent with items worn by this people (the \"Brazil\" location tag is an error, but the object and its documented origin support the claim).",
     "featured": false
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Am1905-1117-52",
+    "name": "personal ornament; dance equipment",
+    "kind": "personal ornament",
+    "title": "personal ornament; dance equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/9_16/dcc2d324_5d7e_491f_826f_a882010e9b20/preview_am1905_1117_52.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This shows a taxidermied toucan-skin dance ornament with cordage and dried scrota rattles, explicitly attributed by the museum to the Akawaio (a Cariban-speaking Amazonian people); such feather/skin dance regalia is a well-documented Akawaio and neighboring Guiana craft item.",
+    "featured": true
    }
   ],
   "garment": [

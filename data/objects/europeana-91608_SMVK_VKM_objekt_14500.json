@@ -20,14 +20,14 @@
     "art_form": "sculpture",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "pick:claude-sonnet-5",
+    "vision_by": "pick:claude-sonnet-5+manual-category+manual-category",
     "vision_reason": "A small painted wooden kachina figure with feather tuft, matching the museum's description of a 7.6 cm miniature kachina of the type sold by Hopi carvers—this is a classic Hopi ritual/craft object.",
     "vision_confidence": "HIGH",
     "vision_image": "good",
     "vision_era": "traditional",
     "art_form_vision": "sculpture",
     "pick_quality": 3,
-    "pick_featured": true
+    "pick_featured": false
   },
   "physical": {
     "title": "figur: kachina, Kachina, figure, sculpture",
@@ -85,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-09-28T15:11:40.764665+00:00"
+  "processed_at": "2026-09-30T02:32:06.933969+00:00"
 }

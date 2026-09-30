@@ -693,11 +693,22 @@ group (Ijo; Kalabari 83, Dinka; Tuich 63, Moru; Moru Miza 41, Inuit; Labrador
 Inuit 24). Others are real two-people attributions and stay dropped: Fur;
 Masalit 69, Lomwe; Makua 38, Ibibio; Obolo 26, Mende; Sherbro 25, Luo; Luyia
 25. Widening the rule (as `_BM_SUBGROUPS` does for Luyia and Mangyan) would
-send roughly 700 more candidates to the judge; it is not done yet.
+send roughly 700 more candidates to the judge; it was done the same day: the widened rule (`_BM_SUBGROUPS`, `_BM_UMBRELLAS`
+in `world_peoples.py`) passes 1,005 of the recorded drops across 30 cultures.
+Batch p001 (947 candidates, exported with `pick --export-batch`) was judged in
+a cloud session for $9.16 of cloud credit; `pick --no-judge` rebuilt the 30
+pick files from 1,066 to 1,847 kept objects, none lost (Chorotí 0 → 29, Yupik
+6 → 27, Mohawk 7 → 23, Tlingit 30 → 91). The 781 new objects were reviewed on
+contact sheets by the Codex CLI (one `codex exec` per sheet with the index and
+the pixel-duplicate pairs); it flagged 21, 16 were excluded after checking —
+the other five were same-people labels it misread (Arhuaco / Bíntukua,
+Tseshaht / Toquaht) or a basket titled "vessel". 27 already-loaded cultures
+took 842 new records; the index went from 9,930 to 10,656 objects. Arhuaco,
+Akawaio and Chorotí were never loaded and still need a seed entry and profile.
 
 **Current coverage (2026-09-29):** `scripts/_vet_status.py` reports 10,942/10,942
 library records judged, 10,040 accepted and 902 dropped. The site index has
-9,930 objects in 210 cultures. This is model-based visual review of all library
+10,656 objects in 210 cultures. This is model-based visual review of all library
 images, not a separate editorial check of 10,942 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
