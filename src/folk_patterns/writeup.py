@@ -342,14 +342,14 @@ def grounding_sources_text(wiki, ich, extra_wiki=None, museum: str = "") -> str:
     return "\n".join([grounding_wiki_block(wiki, extra_wiki), _ich_block(ich), museum])
 
 
-def generate_writeup(country: str, ethnicity: str, region: str, seed_traditions: list[str],
-                     wiki: dict | None = None, ich: list[dict] | None = None,
-                     extra_wiki: list[dict] | None = None, museum: str = "(none)",
-                     feedback: list[str] | None = None) -> str:
-    """Generate the ethnographic writeup from the sources (or, with none,
-    ungrounded from memory). `feedback` is a retry: the audit's objections to
-    the previous attempt."""
-    if wiki or ich or museum != "(none)":
+def build_writeup_prompt(country: str, ethnicity: str, region: str, seed_traditions: list[str],
+                         wiki: dict | None = None, ich: list[dict] | None = None,
+                         extra_wiki: list[dict] | None = None, museum: str = "(none)",
+                         feedback: list[str] | None = None, initial_prompt: str | None = None) -> str:
+    """Build a first draft or retry prompt; cloud retries reuse the exported first prompt."""
+    if initial_prompt is not None:
+        prompt = initial_prompt
+    elif wiki or ich or museum != "(none)":
         prompt = make_grounded_prompt(country, ethnicity, region, seed_traditions, wiki, ich, extra_wiki, museum)
     else:
         prompt = make_prompt(country, ethnicity, region, seed_traditions)
@@ -357,7 +357,18 @@ def generate_writeup(country: str, ethnicity: str, region: str, seed_traditions:
         prompt += ("\n\nA previous attempt was rejected because it used terms, names or numbers that appear "
                    "in none of the sources. Leave every one of them out, or say the same thing in plain "
                    "English without them. Rejected:\n- " + "\n- ".join(feedback))
-    return run_claude(prompt)
+    return prompt
+
+
+def generate_writeup(country: str, ethnicity: str, region: str, seed_traditions: list[str],
+                     wiki: dict | None = None, ich: list[dict] | None = None,
+                     extra_wiki: list[dict] | None = None, museum: str = "(none)",
+                     feedback: list[str] | None = None) -> str:
+    """Generate the ethnographic writeup from the sources (or, with none,
+    ungrounded from memory). `feedback` is a retry: the audit's objections to
+    the previous attempt."""
+    return run_claude(build_writeup_prompt(country, ethnicity, region, seed_traditions,
+                                          wiki, ich, extra_wiki, museum, feedback))
 
 
 RESTRUCTURE_MODEL = "claude-haiku-4-5-20251001"

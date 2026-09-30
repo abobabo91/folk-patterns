@@ -91,6 +91,9 @@ python scripts/vet_images.py --target library
 # 4. draft writeups from Wikipedia (main + related articles), UNESCO ICH and the museum records only;
 #    terms/numbers found in no source are sent back once, leftovers logged to data/writeup_audit.jsonl
 python scripts/generate_writeups.py central_asia
+# For a Claude Code cloud session, export prompts locally and import the already-shortened results later:
+python scripts/generate_writeups.py east_asia --only Ainu --force --export-batch w001
+python scripts/generate_writeups.py --import-batch w001 --force  # after the cloud run; see docs/cloud-vetting.md
 python scripts/restructure_writeups.py --only Yoruba --preview   # -> work/writeup-preview/
 python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
 python scripts/audit_profile.py --region north_america --only Hopi --fix   # short profile vs sources; add_culture runs it

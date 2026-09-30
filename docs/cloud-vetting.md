@@ -71,6 +71,35 @@ local:  BM_CDP_URL=… world_peoples.py pick --no-judge --only KEY ...          
 
 A pick batch row carries `extra` (the QUALITY line), which `cloud_vet_batch.py` hands to the judge as the system-prompt addition, and `meta` (people key, category, candidate, museum detail), which `pick-import` writes back as a cached pick verdict. The export holds exactly the candidates a real pick would judge next (`awaiting_judge` in `coverage`), inside the 10-per-category cap.
 
+## Writeup batches
+
+Export locally, where the media sidecars and gitignored `library/` catalogue records are available. `--force` includes cultures with an existing writeup; omit it to follow the local generator's skip rule. The JSONL batch carries the exact long-writeup prompt and audit sources, so the cloud needs neither the library nor Codex.
+
+```bash
+python scripts/generate_writeups.py east_asia --only Ainu --force --export-batch w001
+git add data/writeup_batches/w001.jsonl
+git commit -m "Export writeup batch w001"
+git push
+```
+
+In a Claude Code cloud session, use a `claude/` branch and run the following. The default `LIMIT` is 20; start with `3` for long profiles so each command has room for audit retries within the cloud command's time limit, and lower it if needed. Each run resumes at the first ID without a result. Commit and push the result file **after every run**, then repeat until it prints `pending 0`.
+
+```bash
+export FOLK_LLM_BACKEND=claude
+python scripts/cloud_writeup_batch.py w001 3
+git add data/writeup_results/w001.jsonl
+git commit -m "Write writeup batch w001 results"
+git push
+```
+
+Back locally, fetch and merge the cloud branch, then import. Import writes the short `.md` and original `.long.md` when the short rewrite passed; if both rewrite attempts failed, it keeps the long `.md` alone. It appends the local audit logs and prunes unsupported seed traditions for grounded profiles. Existing target files are skipped unless `--force` is supplied.
+
+```bash
+git fetch origin
+git merge origin/<cloud-branch>
+python scripts/generate_writeups.py --import-batch w001 --force
+```
+
 ## Cloud environment
 
 Network access **Custom**, allowed domains (every image host in the library, including redirect targets, probed 2026-09-24):
