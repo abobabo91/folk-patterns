@@ -88,7 +88,7 @@ A pick batch row carries `extra` (the QUALITY line), which `cloud_vet_batch.py` 
 
 ## Writeup batches
 
-Export locally, where the media sidecars and gitignored `library/` catalogue records are available. `--force` includes cultures with an existing writeup; omit it to follow the local generator's skip rule. The JSONL batch carries the exact long-writeup prompt and audit sources, so the cloud needs neither the library nor Codex.
+Export locally, where the media sidecars and gitignored `library/` catalogue records are available. `--force` includes cultures with an existing writeup; omit it to follow the local generator's skip rule. The JSONL batch carries the exact long-writeup prompt and audit sources, so the cloud needs neither the library nor Codex. The export fetches related Wikipedia articles per culture (about 20 s each), and a rerun into the same batch resumes: IDs already in the file are skipped and a line cut off by a crash is dropped.
 
 ```bash
 python scripts/generate_writeups.py east_asia --only Ainu --force --export-batch w001

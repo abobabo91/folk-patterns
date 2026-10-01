@@ -178,6 +178,17 @@ def main() -> None:
     if args.export_batch:
         export_path = batch_path(BATCH_DIR, args.export_batch)
         export_path.parent.mkdir(parents=True, exist_ok=True)
+        # A rerun resumes: rows already exported are skipped, and a last line cut
+        # off by a crash (the laptop bugchecked mid-export, 2026-10-01) is dropped.
+        exported, kept_lines = set(), []
+        if export_path.exists():
+            for line in export_path.read_text(encoding="utf-8").splitlines():
+                try:
+                    exported.add(json.loads(line)["id"])
+                    kept_lines.append(line)
+                except (json.JSONDecodeError, KeyError):
+                    pass
+            export_path.write_text("".join(l + "\n" for l in kept_lines), encoding="utf-8")
     else:
         CONTENT_DIR.mkdir(exist_ok=True)
 
@@ -194,6 +205,8 @@ def main() -> None:
                 if needle and needle not in ethnicity.lower():
                     continue
                 out_path = writeup_path(region, country, ethnicity)
+                if args.export_batch and f"{region_slug}|{country}|{ethnicity}" in exported:
+                    continue
                 if out_path.exists() and not args.force:
                     print(f"[skip] {region} / {country} / {ethnicity} — already exists")
                     continue
