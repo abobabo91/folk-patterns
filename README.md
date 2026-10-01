@@ -263,7 +263,11 @@ and publishes Commons sidecar photos only when both `vetted` and
 caption and culture; broad Commons categories have supplied images of other
 peoples even after a positive model verdict. `vet_images.py` caches the source
 Commons images it judges under ignored `work/commons-review/` for that check,
-so reviewers need not redownload them. Run `python scripts/_vet_status.py`
+so reviewers need not redownload them.
+Cloud Commons batches use `python scripts/export_vet_batch.py --name commons001 --commons`
+and the fetch/judge/collect/apply route in [cloud-vetting.md](docs/cloud-vetting.md#commons-batches);
+that route does not cache images locally for editorial review.
+Run `python scripts/_vet_status.py`
 for current library and Commons counts. All 7,678 library records have model
 verdicts, but they have not all had a separate editorial image review. Selected
 Armenian, Lobi, Dogon, Luba, Fante, Idoma, Urhobo and Fon objects were checked against source images and catalogues. Selected Commons photos had the independent second pass.

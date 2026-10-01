@@ -2,7 +2,7 @@
 
 The full `--force` re-vet is ~4,600 Sonnet judgements (4,508 records without a current-prompt verdict on 2026-09-24), ~15 hours of wall time locally at the rate limit ([vetting.md](vetting.md)). This runs the heavy part — the judgements — in a Claude Code cloud session, so it spends cloud session credit instead of local subscription usage. Everything else stays local.
 
-The judge is the same as the local vetter's: both call `vet_judge.judge` (`scripts/vet_judge.py` — the prompt, the model and the CLI call), and verdicts go through the same parser (`vet_images.parse_reply`) and the same persistence (`vet_images.apply_verdict`). In the cloud, `scripts/cloud_vet_batch.py judge` runs that call once per record.
+The judge is the same as the local vetter's: both call `vet_judge.judge` (`scripts/vet_judge.py` — the prompt, the model and the CLI call), and verdicts go through the same parser (`vet_images.parse_reply`). Library verdicts use `vet_images.apply_verdict`; Commons verdicts write the local vetter's sidecar fields. In the cloud, `scripts/cloud_vet_batch.py judge` runs that call once per record.
 
 ## Why this shape
 
@@ -54,6 +54,21 @@ python scripts/apply_vet_verdicts.py data/vet_verdicts/pilot.jsonl
 ```
 
 `--todo` selects records without a current-prompt verdict (`vision_image` unset). `apply_vet_verdicts.py` records download failures as `vision_vetted: None` with a note, so they are retried like local failures.
+
+## Commons batches
+
+Export unvetted `sources.commons[]` photos from `content/media/**/*.json` sidecars. `--only` matches sidecar names as the local Commons vetter does; `--force` includes photos with an existing verdict. The usual cloud `fetch`, `judge`, and `collect` commands use the same batch rows.
+
+```bash
+python scripts/export_vet_batch.py --name commons001 --commons --only Ainu Lobi
+python scripts/cloud_vet_batch.py fetch commons001
+python scripts/cloud_vet_batch.py judge commons001 150
+python scripts/cloud_vet_batch.py collect commons001
+python scripts/apply_vet_verdicts.py data/vet_verdicts/commons001.jsonl --dry-run
+python scripts/apply_vet_verdicts.py data/vet_verdicts/commons001.jsonl
+```
+
+The photo ID includes its sidecar path, list index and URL hash. Apply skips and reports rows whose photo URL has changed. Download failures leave `vetted` absent with a `vetted_note`. A forced batch clears prior editorial approval on apply, as local `vet_images.py --target commons --force` does. Cloud downloads stay in cloud `work/img/`; apply does not populate local `work/commons-review/`. The independent local image and caption review must download its source images itself.
 
 `judge` calls `vet_judge.judge` per record: `claude --print --setting-sources local --tools "" --strict-mcp-config` with an empty MCP config, `--system-prompt-file` holding the fixed rules, and a stream-json user message with the record text and the image as a base64 block. It runs 3 workers, backs off on Sonnet's "temporarily limiting requests" bursts (30 → 300 s), runs from a temporary directory so no project CLAUDE.md is discovered, and logs every raw attempt with `cost_usd` and `usage` to `work/judge_<batch>.jsonl`. A batch exported before the prompt split (its `prompt` starts "Read the image at path") is refused; re-export it. Measured locally on 117 records: 160 s, $1.28 reported, 0 failures.
 

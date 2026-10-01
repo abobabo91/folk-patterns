@@ -195,6 +195,8 @@ def collect(name: str) -> None:
     with open(out, "w", encoding="utf-8") as f:
         for r in rows:
             base = {"id": r["id"], "key": r["key"], "meta": r["meta"]}
+            if r["id"].startswith("commons:"):
+                base["force"] = r.get("force", False)
             rp = WORK / "replies" / f"{r['key']}.txt"
             if rp.exists():
                 f.write(json.dumps({**base, "reply": rp.read_text(encoding="utf-8")},

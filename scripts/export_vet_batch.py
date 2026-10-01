@@ -1,9 +1,10 @@
-"""Export library records as a vetting batch for a cloud session.
+"""Export library records or Commons photos as a cloud vetting batch.
 
     python scripts/export_vet_batch.py --name pilot --ids-file ids.json
     python scripts/export_vet_batch.py --name b001 --todo --limit 500 --seed 1
+    python scripts/export_vet_batch.py --name commons001 --commons --only Ainu
 
-Writes data/vet_batches/<name>.jsonl — one line per record with the record
+Writes data/vet_batches/<name>.jsonl — one line per record or photo with the
 text the local vetter would send next to the image (vet_images.build_prompt;
 the fixed rules are the system prompt in scripts/vet_judge.py) and the image
 URLs to fetch it from. The cloud session
@@ -13,6 +14,8 @@ needs nothing else: not the library, not a key. See docs/cloud-vetting.md.
 `--ids-file` takes a JSON list of record ids. R2 is listed first when the
 object is already uploaded (same bytes as the local file), then the source
 museum's URL.
+`--commons` picks unvetted photos from content/media sidecars; `--force`
+includes photos with a verdict and resets their editorial approval on apply.
 """
 from __future__ import annotations
 
@@ -31,6 +34,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 import vet_images as v  # noqa: E402
 from folk_patterns.util import LIBRARY_DIR  # noqa: E402
+from slugify import slugify  # noqa: E402
 
 OUT_DIR = ROOT / "data" / "vet_batches"
 
@@ -40,6 +44,49 @@ def record_key(meta: str, rec_id: str) -> str:
     metadata file as well as the id: the same museum object can be filed
     under two ethnicities, and each copy gets its own verdict."""
     return hashlib.sha1(f"{meta}|{rec_id}".encode("utf-8")).hexdigest()[:16]
+
+
+def commons_id(meta: str, index: int, url: str) -> str:
+    """Identify a sidecar slot and the URL that was exported from it."""
+    digest = hashlib.sha1(url.encode("utf-8")).hexdigest()
+    return f"commons:{meta}:{index}:{digest}"
+
+
+def export_commons(name: str, only: list[str] | None = None, force: bool = False,
+                   limit: int = 0, seed: int = 0, exclude: set[str] | None = None) -> Path:
+    needles = [slugify(n.lower()) for n in (only or [])]
+    rows = []
+    for sidecar in sorted(v.MEDIA_DIR.rglob("*.json")):
+        if needles and not any(needle in sidecar.stem for needle in needles):
+            continue
+        data = json.loads(sidecar.read_text(encoding="utf-8"))
+        meta = sidecar.relative_to(ROOT).as_posix()
+        for index, photo in enumerate((data.get("sources") or {}).get("commons") or []):
+            if not force and "vetted" in photo:
+                continue
+            url = photo.get("thumb_url") or photo.get("full_url") or ""
+            rid = commons_id(meta, index, url)
+            key = hashlib.sha1(rid.encode("utf-8")).hexdigest()[:16]
+            if key in (exclude or set()):
+                continue
+            rows.append({
+                "id": rid, "key": key, "meta": meta,
+                "image_path": f"work/img/{key}.jpg", "urls": [url],
+                "prompt": v.build_prompt(data.get("ethnicity") or "", data.get("country") or "",
+                                         "photo", title=photo.get("title") or "",
+                                         desc=photo.get("description") or ""),
+                "force": force,
+            })
+    if limit and len(rows) > limit:
+        random.Random(seed).shuffle(rows)
+        rows = rows[:limit]
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = OUT_DIR / f"{name}.jsonl"
+    with out_path.open("w", encoding="utf-8") as out:
+        for row in rows:
+            out.write(json.dumps(row, ensure_ascii=False) + "\n")
+    print(f"wrote {out_path.relative_to(ROOT)}: {len(rows)} Commons photos")
+    return out_path
 
 
 def _r2_keys() -> tuple[set[str], str | None]:
@@ -69,13 +116,24 @@ def main() -> None:
     ap.add_argument("--ids-file", help="JSON list of record ids to export")
     ap.add_argument("--todo", action="store_true",
                     help="records without a current-prompt verdict (no vision_image)")
+    ap.add_argument("--commons", action="store_true",
+                    help="export unvetted Commons photos from content/media sidecars")
+    ap.add_argument("--only", nargs="+", metavar="NAME",
+                    help="with --commons, match one or more names in sidecar filenames")
+    ap.add_argument("--force", action="store_true",
+                    help="with --commons, include vetted photos and clear editorial approval on apply")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--exclude-batches", action="store_true",
                     help="skip records already present in any data/vet_batches/*.jsonl")
     args = ap.parse_args()
-    if not (args.ids_file or args.todo):
-        raise SystemExit("pass --ids-file or --todo")
+    if args.commons:
+        if args.ids_file or args.todo:
+            ap.error("--commons cannot be combined with --ids-file or --todo")
+    elif not (args.ids_file or args.todo):
+        ap.error("pass --ids-file, --todo, or --commons")
+    elif args.only or args.force:
+        ap.error("--only and --force require --commons")
 
     wanted = set(json.loads(Path(args.ids_file).read_text(encoding="utf-8"))) if args.ids_file else None
     exported: set[str] = set()
@@ -83,6 +141,10 @@ def main() -> None:
         for p in OUT_DIR.glob("*.jsonl"):
             for line in p.read_text(encoding="utf-8").splitlines():
                 exported.add(json.loads(line)["key"])
+
+    if args.commons:
+        export_commons(args.name, args.only, args.force, args.limit, args.seed, exported)
+        return
 
     rows = []
     seen: set[str] = set()

@@ -1,13 +1,13 @@
-"""Write cloud vetting verdicts into the library.
+"""Write cloud vetting verdicts into library metadata or Commons sidecars.
 
     python scripts/apply_vet_verdicts.py data/vet_verdicts/pilot.jsonl --dry-run
     python scripts/apply_vet_verdicts.py data/vet_verdicts/pilot.jsonl
 
 Each line carries the judge's raw reply (see scripts/cloud_vet_batch.py). It is
-parsed with vet_images.parse_reply and persisted with vet_images.apply_verdict —
-the same code the local vetter runs — and appended to data/vet_transcript.jsonl.
-Download failures are recorded as vision_vetted=None with a note, exactly like
-a local download failure, so the next run retries them.
+parsed with vet_images.parse_reply. Library rows use vet_images.apply_verdict
+and are appended to data/vet_transcript.jsonl; download failures set
+vision_vetted=None with a note. Commons rows follow the local sidecar field
+rules; changed photo URLs are skipped, and download failures leave vetted absent.
 """
 from __future__ import annotations
 
@@ -24,8 +24,74 @@ sys.path.insert(0, str(ROOT / "src"))
 sys.path.insert(0, str(ROOT / "scripts"))
 
 import vet_images as v  # noqa: E402
+from export_vet_batch import commons_id  # noqa: E402
 
 BY = "cloud-subagent:sonnet"
+
+
+def _commons_photo(data: dict, x: dict) -> dict | None:
+    """Return the photo only when its sidecar slot still has the exported URL."""
+    try:
+        prefix, index_text, digest = x["id"].rsplit(":", 2)
+        meta = prefix.removeprefix("commons:")
+        index = int(index_text)
+        photos = (data.get("sources") or {}).get("commons") or []
+        photo = photos[index] if index >= 0 else None
+        url = photo.get("thumb_url") or photo.get("full_url") or ""
+        if (prefix.startswith("commons:") and meta == x["meta"]
+                and len(digest) == 40 and commons_id(meta, index, url) == x["id"]):
+            return photo
+    except (KeyError, ValueError, IndexError, AttributeError, TypeError):
+        pass
+    return None
+
+
+def _apply_commons(items: list[dict], meta_path: Path, dry_run: bool,
+                   tally: Counter, unparsed: list[str]) -> None:
+    if not meta_path.is_file():
+        tally["sidecar-missing"] += len(items)
+        return
+    data = json.loads(meta_path.read_text(encoding="utf-8"))
+    changed = False
+    for x in items:
+        photo = _commons_photo(data, x)
+        if photo is None:
+            tally["url-mismatch-or-photo-missing"] += 1
+            print(f"  skipped changed Commons photo: {x['id']}")
+            continue
+        if "error" in x:
+            tally["download-failed"] += 1
+            if not dry_run:
+                if x.get("force"):
+                    photo.pop("editorial_reviewed", None)
+                    photo.pop("editorial_reviewer", None)
+                photo.pop("vetted", None)
+                photo["vetted_note"] = x["error"]
+                changed = True
+            continue
+        authentic, art_form, reason, confidence, image, era = v.parse_reply(x["reply"])
+        if authentic is None:
+            unparsed.append(x["id"])
+        tally[{True: "kept", False: "dropped", None: "unparsed"}[authentic]] += 1
+        if image == "":
+            tally["no-image-field"] += 1
+        if dry_run:
+            continue
+        if x.get("force"):
+            photo.pop("editorial_reviewed", None)
+            photo.pop("editorial_reviewer", None)
+        if authentic is None:
+            photo.pop("vetted", None)
+        else:
+            photo["vetted"] = authentic
+        if art_form and art_form in v.VALID_ART_FORMS:
+            photo["vetted_art_form"] = art_form
+        photo["vetted_by"] = BY
+        photo["vetted_image"] = image or ""
+        photo["vetted_era"] = era or ""
+        changed = True
+    if changed:
+        meta_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 def main() -> None:
@@ -43,6 +109,14 @@ def main() -> None:
     unparsed = []
     for meta_rel, items in by_meta.items():
         meta_path = ROOT / meta_rel
+        if any(x["id"].startswith("commons:") for x in items):
+            if not (meta_rel.startswith("content/media/") and meta_rel.endswith(".json")
+                    and ".." not in Path(meta_rel).parts
+                    and all(x["id"].startswith("commons:") for x in items)):
+                tally["invalid-commons-path"] += len(items)
+                continue
+            _apply_commons(items, meta_path, args.dry_run, tally, unparsed)
+            continue
         recs = json.loads(meta_path.read_text(encoding="utf-8"))
         index = {r.get("id"): r for r in recs}
         for x in items:
