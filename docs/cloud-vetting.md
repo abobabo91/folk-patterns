@@ -122,6 +122,7 @@ Network access **Custom**, allowed domains (every image host in the library, inc
 ```
 media.britishmuseum.org
 upload.wikimedia.org
+thumb.wikimedia.org
 api.europeana.eu
 openaccess-cdn.clevelandart.org
 framemark.vam.ac.uk
@@ -137,6 +138,8 @@ gallica.bnf.fr
 sgdap.girona.cat
 <the R2 public bucket host — public_base_url in the vault>
 ```
+
+`thumb.wikimedia.org` was added 2026-10-01 for Commons batches: the sidecars store thumbnail URLs (2,382 of the 2,459 photos in batch c001), and without it the proxy answers 403 to CONNECT and `fetch` retries each row four times (65 minutes for 8 images). `upload.wikimedia.org` answered 429 to the same files in that session, so it is no substitute.
 
 No environment variables, secrets or setup script: `cloud_vet_batch.py` is standard library only (Pillow, installed with pip in the session, adds downscaling) and every image URL is public. The "default list of common package managers" option is on, so `pip` works. `fetch` spaces requests to one host 1 s apart and backs off on 429. **Wikimedia answers 429 to a User-Agent without contact information** and 200 to the same request once the UA carries the repo URL (measured 2026-09-24 on `upload.wikimedia.org` originals, one request each); the UA in `cloud_vet_batch.py` and `vet_images.py` carries it. Before that fix, 2–4% of every cloud batch (8–17 of ~1,030) failed on Wikimedia 429 even after a second `fetch`; with it, a local retry of all 47 fetched 47 / 47.
 
