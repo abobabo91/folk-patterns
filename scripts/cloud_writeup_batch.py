@@ -39,8 +39,16 @@ def run(name: str, limit: int = 20) -> None:
             batch.read_text(encoding="utf-8").splitlines() if line.strip())}
     done = set()
     if results.exists():
-        done = {json.loads(line)["id"] for line in results.read_text(encoding="utf-8").splitlines()
-                if line.strip()}
+        # Drop a last line cut off by a crash (the laptop bugchecked during the
+        # local Codex run, 2026-10-01); that row is simply written again.
+        good = []
+        for line in results.read_text(encoding="utf-8").splitlines():
+            try:
+                done.add(json.loads(line)["id"])
+                good.append(line)
+            except (json.JSONDecodeError, KeyError):
+                pass
+        results.write_text("".join(l + "\n" for l in good), encoding="utf-8")
     pending = [r for key, r in rows.items() if key not in done]
     results.parent.mkdir(parents=True, exist_ok=True)
     with open(results, "a", encoding="utf-8") as f:
