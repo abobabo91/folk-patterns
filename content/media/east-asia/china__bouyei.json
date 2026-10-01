@@ -82,7 +82,12 @@
         "width": 3511,
         "height": 2484,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted": false,
+        "vetted_art_form": "unclassified",
+        "vetted_by": "cloud-subagent:sonnet",
+        "vetted_image": "good",
+        "vetted_era": "modern"
       },
       {
         "title": "Ethnie buyi 0274a.jpg",
@@ -95,7 +100,12 @@
         "width": 4752,
         "height": 3168,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted": true,
+        "vetted_art_form": "photo",
+        "vetted_by": "cloud-subagent:sonnet",
+        "vetted_image": "good",
+        "vetted_era": "traditional"
       },
       {
         "title": "WanFengLin-ShangNaHui2025-08.jpg",
@@ -108,7 +118,12 @@
         "width": 7591,
         "height": 5063,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted": false,
+        "vetted_art_form": "photo",
+        "vetted_by": "cloud-subagent:sonnet",
+        "vetted_image": "good",
+        "vetted_era": "modern"
       },
       {
         "title": "Shitoucun,Longtanzhen,Guizhou,China.jpg",
@@ -121,7 +136,8 @@
         "width": 800,
         "height": 600,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/c/c9/Shitoucun%2CLongtanzhen%2CGu"
       }
     ],
     "unesco_ich": [],

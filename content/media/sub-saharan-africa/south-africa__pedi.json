@@ -177,7 +177,12 @@
         "width": 3336,
         "height": 2884,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted": false,
+        "vetted_art_form": "unclassified",
+        "vetted_by": "cloud-subagent:sonnet",
+        "vetted_image": "good",
+        "vetted_era": "modern"
       },
       {
         "title": "Piccanins and their charges. Overgrazed Bapedi reserve near Pietersburg, Drakensberg (35016470844).jpg",
@@ -190,7 +195,12 @@
         "width": 1500,
         "height": 965,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted": true,
+        "vetted_art_form": "photo",
+        "vetted_by": "cloud-subagent:sonnet",
+        "vetted_image": "good",
+        "vetted_era": "traditional"
       },
       {
         "title": "Traditional Dancers Performing at a wedding.png",
@@ -203,7 +213,12 @@
         "width": 1334,
         "height": 750,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted": true,
+        "vetted_art_form": "photo",
+        "vetted_by": "cloud-subagent:sonnet",
+        "vetted_image": "good",
+        "vetted_era": "traditional"
       },
       {
         "title": "LL1882 pg008 SIKUKUNI.jpg",
@@ -216,7 +231,8 @@
         "width": 895,
         "height": 1003,
         "quality_tier": 0,
-        "source_category": "(Wikipedia article)"
+        "source_category": "(Wikipedia article)",
+        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/8/8f/LL1882_pg008_SIKUKUNI.jpg?ut"
       }
     ],
     "unesco_ich": [],
