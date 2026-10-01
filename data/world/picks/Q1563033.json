@@ -1,0 +1,44 @@
+{
+ "key": "Q1563033",
+ "label": "Wolastoqiyik",
+ "name": "Wolastoqiyik",
+ "judged": 0,
+ "cached": 2,
+ "cost_usd": 0,
+ "ranked": {
+  "household": [
+   {
+    "source": "met",
+    "id": "319021",
+    "name": "Canoe model",
+    "kind": "canoe model",
+    "title": "Canoe Model with Accoutrements",
+    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258526.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A miniature birchbark canoe with paddles, spear, and model fish, made by the Maliseet (Wolastoqiyik), a traditional craft form documenting their material culture and riverine lifeways.",
+    "featured": true
+   },
+   {
+    "source": "met",
+    "id": "319019",
+    "name": "Bible marker",
+    "kind": "bookmark",
+    "title": "Bible Marker",
+    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261982.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden heart-shaped Bible marker with incised decorative motifs (hearts, stars, geometric designs) and a silk ribbon, consistent with Wabanaki/Maliseet (Wolastoqiyik) decorative woodcraft of the 19th century.",
+    "featured": true
+   }
+  ]
+ }
+}

@@ -186,6 +186,112 @@
           }
         }
       ]
+    },
+    {
+      "country": "France",
+      "met_queries": [
+        "France"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Bretons",
+          "homeland": {
+            "lat": 47.996,
+            "lon": -4.102
+          },
+          "homeland_place": "Quimper",
+          "traditions": [
+            "coiffe bigoudène",
+            "coiffes bretonnes",
+            "chupenn",
+            "bragou",
+            "gilet brodé",
+            "broderie glazig",
+            "faïence de Quimper",
+            "cercle celtique",
+            "fest-noz",
+            "gavotte",
+            "an dro",
+            "hanter-dro",
+            "biniou-kozh",
+            "bombarde",
+            "pardons"
+          ],
+          "arch_commons_categories": [
+            "Churches in Bretagne",
+            "Religious buildings in Bretagne",
+            "Calvaries in Bretagne",
+            "Menhirs in Bretagne",
+            "Christianized menhirs in Bretagne",
+            "Cathedrals in Bretagne"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Breton",
+              "Bretons",
+              "Bretonne",
+              "Brittany",
+              "Bretagne",
+              "Armorican"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Greece",
+      "met_queries": [
+        "Greece"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Aromanians",
+          "homeland": {
+            "lat": 39.77,
+            "lon": 21.18
+          },
+          "homeland_place": "Metsovo",
+          "traditions": [
+            "sarică",
+            "dimie",
+            "postav",
+            "găitan",
+            "broumas",
+            "katofedaki",
+            "flokati",
+            "cerga",
+            "arafte",
+            "tãlãri",
+            "opinci",
+            "Metsovone",
+            "Aromanian pastoralism",
+            "Aromanian polyphonic singing"
+          ],
+          "arch_commons_categories": [
+            "Buildings in Metsovo",
+            "Houses in Metsovo",
+            "Architectural elements in Metsovo by municipality",
+            "Architectural elements in Metsovo"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Aromanians",
+              "Aromâni",
+              "Macedo-Romanians",
+              "Macedo-Rumans",
+              "Vlachs",
+              "Koutsovlachs",
+              "Tsintsars",
+              "Moscopolitans",
+              "Farsherots"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

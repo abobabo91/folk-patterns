@@ -1,0 +1,80 @@
+{
+ "key": "Q105405",
+ "label": "Cherokee",
+ "name": "Cherokee",
+ "judged": 0,
+ "cached": 17,
+ "cost_usd": 0,
+ "ranked": {
+  "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-A20-10",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_7/14deb259_889c_4701_9e51_a3c10073ae96/preview_00611732_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Studio portrait of a named Cherokee man (Major Boudinot, a documented Cherokee figure) in period dress; documentary photo of an individual identified with the claimed people fits the \"documentary photos of their dress/daily life\" criterion.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A20-19",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_7/1df224f3_485b_4960_b74c_a3c10075115a/preview_00612119_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Studio portrait of a named Cherokee man (Benge) in period dress, a documentary photo of an individual identified as Cherokee, which fits the claimed ethnicity.",
+    "featured": true
+   }
+  ],
+  "painting-mss": [
+   {
+    "source": "bm",
+    "id": "E_Am2006-Prt-63",
+    "name": "book-illustration; print",
+    "kind": "print",
+    "title": "book-illustration; print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/387790d0_091b_4734_bd10_a3b9007edbb5/preview_00351056_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This hand-colored lithograph, from McKenney & Hall's Indian Gallery portraits, depicts Sequoyah, the Cherokee inventor of the syllabary, wearing traditional Cherokee dress (turban, layered garments, medal) and displaying his alphabet table — a documentary-type portrait recording actual Cherokee attire and cultural achievement, not an outsider caricature or a different people's material.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_14168",
+    "name": "sked, spoon",
+    "kind": "spoon",
+    "title": "sked, spoon",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1071513/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A plain wooden long-handled spoon collected on the Qualla Reservation (Eastern Cherokee homeland) and documented as Cherokee-made for food preparation; this matches known Cherokee carved wooden utensils.",
+    "featured": true
+   }
+  ]
+ }
+}

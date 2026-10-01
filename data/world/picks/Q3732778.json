@@ -1,0 +1,64 @@
+{
+ "key": "Q3732778",
+ "label": "Esan people",
+ "name": "Esan",
+ "judged": 0,
+ "cached": 3,
+ "cost_usd": 0,
+ "ranked": {
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-04-1",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/30_12/635e5b7c_4755_4096_847f_a9e500ca2364/preview_EAF20900.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden face mask with hemp-cord hair, museum-attributed to \"Ishan (probably)\" — a plausible attribution for a Nigerian ritual mask of this type, consistent with Esan masking traditions.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-422_1",
+    "name": "seat",
+    "kind": "seat",
+    "title": "seat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_6/16_7/8952d9d4_5c9f_45da_93e9_a794007bfc1f/preview_EAF21356.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A wooden stool/seat with carved geometric designs and a human figure on the side panel, attributed by the museum to the Ishan (Esan) people of Nigeria — a household object consistent with Esan carving traditions.",
+    "featured": true
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-421_1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_6/15_8/b2b01752_e076_4e4f_859d_a793008412c8/preview_EAF21355.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wood kneeling female figure holding a vessel and carrying a child, attributed by the museum to \"Ishan (probably)\" — an alternate spelling of Esan — fitting the region's tradition of ancestral/maternity figures.",
+    "featured": true
+   }
+  ]
+ }
+}

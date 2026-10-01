@@ -1,0 +1,62 @@
+{
+ "key": "Q1258074",
+ "label": "Sindhis",
+ "name": "Sindhis",
+ "judged": 0,
+ "cached": 12,
+ "cost_usd": 0,
+ "ranked": {
+  "garment": [
+   {
+    "source": "bm",
+    "id": "A_As1966-01-476",
+    "name": "garment",
+    "kind": "garment",
+    "title": "garment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_18/2167d434_255a_4296_a1db_a3b90133446c/preview_00216914_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "A richly embroidered woman's garment with mirror-work, dense geometric embroidery, and a drop-front panel, explicitly attributed to Sindhi makers by the museum — consistent with traditional Sindhi dress.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1966-01-490",
+    "name": "dress",
+    "kind": "dress",
+    "title": "dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_11/9_15/f32562a4_460f_4a2a_a93f_af4800fa131b/preview_As1966_01_490__front.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A yellow cotton child's/woman's dress with mirror-work embroidery on brown panels at chest and sleeves, a style of garment well attested among Sindhi communities and directly attributed to Sindhi makers by the museum. The mirrorwork and embroidery style is consistent with regional Sindhi dress.",
+    "featured": true
+   }
+  ],
+  "painting-mss": [
+   {
+    "source": "bm",
+    "id": "A_As2006-Prt-296",
+    "name": "print",
+    "kind": "print",
+    "title": "print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_10/efed10ea_2660_4fe7_97e1_a3c100b39ff9/preview_00632396_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The lithograph depicts Mir Muhammad Nasir Khan Talpur, the historical ruler of Hyderabad (Sindh), seated with his two sons in traditional turban-style headwear and robes, a court portrait of a named Sindhi/Talpur ruling family with Persian/Urdu captioning — this documents traditional Sindhi court dress and is plausible evidence of the claimed culture.",
+    "featured": true
+   }
+  ]
+ }
+}

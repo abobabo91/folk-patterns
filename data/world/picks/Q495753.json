@@ -1,0 +1,60 @@
+{
+ "key": "Q495753",
+ "label": "Naskapi",
+ "name": "Naskapi",
+ "judged": 0,
+ "cached": 3,
+ "cost_usd": 0,
+ "ranked": {
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_Am-2613",
+    "name": "coat",
+    "kind": "coat",
+    "title": "coat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_13/962e9c65_279c_4070_99b7_a3b600d99157/preview_00009111_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a classic painted caribou-hide coat with quillwork/beadwork fringes, a style strongly associated with the Naskapi (Innu) of the Labrador peninsula, matching the museum's attribution.",
+    "featured": true
+   },
+   {
+    "source": "met",
+    "id": "319155",
+    "name": "Hat",
+    "kind": "hat",
+    "title": "Cap",
+    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT262532.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wool cloth cap with silk edging and decorative trim, consistent with Naskapi-made headwear produced for personal use and trade in the 19th century.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1986-10-97",
+    "name": "coat",
+    "kind": "coat",
+    "title": "coat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/28_15/0848155b_adb1_4bb7_beaa_a76300fec1b2/preview_am1986_10_97__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A skin coat with fringe and floral silk-embroidery decoration, consistent with Naskapi/Innu hide coats made for the fur trade, worn and used by the people themselves.",
+    "featured": true
+   }
+  ]
+ }
+}

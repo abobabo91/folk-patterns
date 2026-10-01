@@ -1,0 +1,80 @@
+{
+ "key": "Q1905026",
+ "label": "Madi people",
+ "name": "Madi",
+ "judged": 0,
+ "cached": 4,
+ "cost_usd": 0,
+ "ranked": {
+  "arms": [
+   {
+    "source": "bm",
+    "id": "E_Af-8434-a-m",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/22_16/26fe2c52_9aa8_475b_9e89_a4bf01086318/preview_EAF31194.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Thirteen wooden-shafted arrows with iron heads and fibre bindings, a weapon type made and used by the Madi people of South Sudan, matching the museum's attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-01-2650-a-b",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/23_11/ee5029db_f6e4_4a65_ab1a_a4c000c54256/preview_EAF56861.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows six iron-tipped arrows with cane/wood shafts, attributed by the museum to Madi makers, consistent with traditional Madi weaponry.",
+    "featured": true
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-2193",
+    "name": "buttock-ornament",
+    "kind": "ornament",
+    "title": "buttock-ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/15_11/0ff21452_57fc_4d32_9367_a42100c1eaeb/preview_EAF62163.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a fibre string buttock/tail ornament worn attached at the waist, a body adornment documented as made by the Madi. This fits the claimed ethnicity and category.",
+    "featured": true
+   }
+  ],
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3241",
+    "name": "head-dress",
+    "kind": "headwear",
+    "title": "head-dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_14/f3185419_5062_4441_ac20_a3de00f647aa/preview_01438483_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a leather headdress ring densely covered with cowrie shells, attributed by the museum directly to Madi manufacture; this is a plausible traditional worn ornament for the region.",
+    "featured": true
+   }
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "key": "Q241843",
+ "label": "Tikar people",
+ "name": "Tikar",
+ "judged": 0,
+ "cached": 4,
+ "cost_usd": 0,
+ "ranked": {
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1973-34-1",
+    "name": "tobacco-pipe",
+    "kind": "pipe",
+    "title": "tobacco-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_10/e3da2395_0dc4_4a5c_8d4b_a75f00b1590d/preview_EAF25004.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A carved clay pipe bowl in the form of a face with a carved wooden stem, a well-known Cameroon Grassfields form; museum attributes it to Tikar (\"perhaps\") with no contrary evidence.",
+    "featured": true
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "met",
+    "id": "309790",
+    "name": "Mask",
+    "kind": "mask",
+    "title": "Helmet crest from a Ngumba/Kwifon masquerade",
+    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-39204-001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a carved wooden helmet crest with radiating sunburst headdress, used in Kwifon masquerade — the museum attributes it to the Kom peoples, part of the Tikar group, consistent with the claim.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_54226",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1194765/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a cast brass mask with beard, prominent eyes, and headdress decoration — a Cameroon Grassfields cire-perdue brass mask, the type the cited literature explicitly attributes to the Tikar (\"Masque en cuivre. Tribu Tikar (Cameroun)... masque prophylactique\"), used as a protective object in wealthy households.",
+    "featured": true
+   }
+  ],
+  "photo": [
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_2683391",
+    "name": "trumslagare, trumma, män, huvudbonad, musikinstrument, fotografi, photograph",
+    "kind": "photograph",
+    "title": "trumslagare, trumma, män, huvudbonad, musikinstrument, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2683394/0219.0026.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Documentary photograph of two Tikar drummers in Cameroon playing fringed membrane drums, a clear image of their own musical practice.",
+    "featured": true
+   }
+  ]
+ }
+}

@@ -152,6 +152,40 @@
               "Polynesian"
             ]
           }
+        },
+        {
+          "name": "Moriori",
+          "homeland": {
+            "lat": -43.953,
+            "lon": -176.56
+          },
+          "homeland_place": "Waitangi",
+          "traditions": [
+            "Rēkohu",
+            "Tā Rē Moriori",
+            "hokotehi",
+            "Nunuku's Law",
+            "rākau momori",
+            "kōpi groves",
+            "karāpuna",
+            "kāretu",
+            "muka",
+            "kākahu",
+            "rapaki",
+            "maro",
+            "tāniko",
+            "albatross-feather adornment"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Moriori",
+              "Moriorian",
+              "Chatham Islanders",
+              "Chatham Island Māori",
+              "Rēkohu"
+            ]
+          }
         }
       ]
     },
@@ -229,6 +263,72 @@
               "Australian Aboriginal",
               "Aboriginal Australian",
               "Arnhem Land"
+            ]
+          }
+        },
+        {
+          "name": "Arrernte",
+          "homeland": {
+            "lat": -23.7,
+            "lon": 133.88
+          },
+          "homeland_place": "Alice Springs",
+          "traditions": [
+            "awelye",
+            "altyerre",
+            "inma",
+            "tjurunga",
+            "apmere",
+            "pmere",
+            "tnemey",
+            "aknganentye",
+            "Arrernte body painting",
+            "Arrernte sand drawing",
+            "Arrernte rock art",
+            "Arrernte bush medicine",
+            "Arrernte bush tucker",
+            "Arrernte songlines"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Arrernte",
+              "Aranda",
+              "Arunta",
+              "Arrarnta",
+              "Eastern Arrernte",
+              "Western Arrernte"
+            ]
+          }
+        },
+        {
+          "name": "Pintupi",
+          "homeland": {
+            "lat": -23.27,
+            "lon": 126.83
+          },
+          "homeland_place": "Alice Springs",
+          "traditions": [
+            "Papunya Tula",
+            "dot painting",
+            "Western Desert painting",
+            "tjuringa",
+            "wati",
+            "wanampi",
+            "tingari",
+            "Dreaming tracks",
+            "body painting",
+            "ground designs",
+            "sand drawing",
+            "spinifex craft"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Pintupi",
+              "Pintupi-Luritja",
+              "Western Desert Aboriginal",
+              "Australian Aboriginal"
             ]
           }
         }
@@ -406,6 +506,319 @@
               "Ouvéa",
               "Lifou",
               "Houaïlou"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Papua New Guinea",
+      "met_queries": [
+        "Papua New Guinea"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Abelam",
+          "homeland": {
+            "lat": -3.64,
+            "lon": 143.03
+          },
+          "homeland_place": "Maprik",
+          "traditions": [
+            "haus tambaran",
+            "ngwalndu",
+            "Nggwal",
+            "baba",
+            "babatagwa",
+            "yam masks",
+            "yam cult",
+            "giant yam cultivation",
+            "yam competitions",
+            "kwam",
+            "ancestral hook figures",
+            "painted gable panels",
+            "carved ancestor figures",
+            "spirit-house carving",
+            "earth-pigment painting",
+            "A-frame cult houses"
+          ],
+          "arch_commons_categories": [
+            "Haus Tambaran"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Abelam",
+              "Maprik",
+              "Wosera",
+              "Ambulas",
+              "Abelam people"
+            ]
+          }
+        },
+        {
+          "name": "Motu",
+          "homeland": {
+            "lat": -9.4438,
+            "lon": 147.1803
+          },
+          "homeland_place": "Port Moresby",
+          "traditions": [
+            "hiri",
+            "lagatoi",
+            "lakatoi",
+            "uro pottery",
+            "Motu pottery",
+            "sago exchange",
+            "kina shell ornaments",
+            "toea cowrie ornaments",
+            "titi grass skirt",
+            "Motu women's tattooing",
+            "Motu ceremonial dance",
+            "Motu song",
+            "canoe building",
+            "star navigation",
+            "Hiri Moale",
+            "Hanuabada stilt houses"
+          ],
+          "arch_commons_categories": [
+            "Stilt houses"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Motu",
+              "Motuan",
+              "Motuans",
+              "Motu-Koitabu",
+              "Motu Koita",
+              "Hiri Motu"
+            ]
+          }
+        },
+        {
+          "name": "Huli",
+          "homeland": {
+            "lat": -5.845,
+            "lon": 142.948
+          },
+          "homeland_place": "Tari",
+          "traditions": [
+            "manda",
+            "Huli wig",
+            "wig-making",
+            "bird-of-paradise feathers",
+            "cuscus fur",
+            "everlasting-daisy headdress",
+            "feather headdress",
+            "ochre body painting",
+            "facial paint",
+            "shell ornaments",
+            "pig tusk ornaments",
+            "grass skirt",
+            "bark-fiber apron",
+            "bilum",
+            "sing-sing",
+            "Huli ceremonial dance",
+            "haroli",
+            "Huli men's house",
+            "Tari Basin gardening",
+            "pig exchange"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Huli",
+              "Huli people",
+              "Huli Wigmen",
+              "Huli tribe",
+              "Huli of Papua New Guinea",
+              "Tari",
+              "Papuan"
+            ]
+          }
+        },
+        {
+          "name": "Tolai",
+          "homeland": {
+            "lat": -4.34,
+            "lon": 152.26
+          },
+          "homeland_place": "Kokopo",
+          "traditions": [
+            "tabu",
+            "diwarra",
+            "tutana",
+            "tubuan",
+            "tumbuan",
+            "dukduk",
+            "kinavai",
+            "minamai",
+            "nidok",
+            "buai",
+            "Tolai painted carving",
+            "bearded masks",
+            "conical dukduk masks",
+            "leaf girdles",
+            "shell necklaces",
+            "cane-and-basketry masks"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Tolai",
+              "Gunantuna",
+              "Gunantuna people",
+              "Toma",
+              "New Britain natives",
+              "Gazelle Peninsula people"
+            ]
+          }
+        },
+        {
+          "name": "Mundugumor",
+          "homeland": {
+            "lat": -4.41797,
+            "lon": 143.85976
+          },
+          "homeland_place": "Wewak",
+          "traditions": [
+            "Biwat",
+            "Mundukomo",
+            "Haiyang flute",
+            "wusear crocodile ornament",
+            "yena ancestral figure",
+            "mindja figure board",
+            "nogwi female figure",
+            "panggal painting",
+            "Biwat spike motif",
+            "serrated shield carving",
+            "crocodile paintings",
+            "yam-cult masks",
+            "basketry masks",
+            "slit gongs",
+            "ancestral wood figures",
+            "cowrie-shell ornaments",
+            "tusk nose ornaments",
+            "rough-plaited baby baskets"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Mundugumor",
+              "Biwat",
+              "Munduguma",
+              "Mundukomo",
+              "Mundokuma",
+              "Mundugamor",
+              "Yuat River"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "French Polynesia",
+      "met_queries": [
+        "French Polynesia"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Tahitians",
+          "homeland": {
+            "lat": -17.54,
+            "lon": -149.56
+          },
+          "homeland_place": "Papeete",
+          "traditions": [
+            "tapa",
+            "aute",
+            "pareu",
+            "maro",
+            "tiputa",
+            "hei",
+            "tīfaifai",
+            "tatau",
+            "marae",
+            "fare",
+            "pahu",
+            "to'ere",
+            "ʻōrero",
+            "himene",
+            "ʻupaʻupa",
+            "ʻaparima",
+            "ʻōteʻa",
+            "tiare Tahiti",
+            "pūrau dyeing"
+          ],
+          "arch_commons_categories": [
+            "Architecture of French Polynesia",
+            "Buildings in Tahiti",
+            "Marae",
+            "'Ārahurahu Marae"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Tahitian",
+              "Tahitians",
+              "Mā'ohi",
+              "Maohi",
+              "Tahitien",
+              "Otaheitan"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "country": "Chile",
+      "met_queries": [
+        "Chile"
+      ],
+      "majority_ethnicity": null,
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Rapa Nui",
+          "homeland": {
+            "lat": -27.1127,
+            "lon": -109.3497
+          },
+          "homeland_place": "Hanga Roa",
+          "traditions": [
+            "rongorongo",
+            "moai",
+            "ahu",
+            "pukao",
+            "hare paenga",
+            "tupa",
+            "tangata manu",
+            "paina",
+            "kai kai",
+            "takona",
+            "rei miro",
+            "ivi po'o",
+            "moko",
+            "tapa",
+            "umu ta'o"
+          ],
+          "arch_commons_categories": [
+            "Moai",
+            "Ahu Tongariki",
+            "Rano Raraku",
+            "Orongo",
+            "Anakena",
+            "Vaihu"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Rapa Nui",
+              "Easter Island",
+              "Easter Islanders",
+              "Pascuan",
+              "Pascuense"
             ]
           }
         }

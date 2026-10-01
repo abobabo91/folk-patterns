@@ -1,0 +1,44 @@
+{
+ "key": "Q253436",
+ "label": "Shawnee",
+ "name": "Shawnee",
+ "judged": 0,
+ "cached": 8,
+ "cost_usd": 0,
+ "ranked": {
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_Am-5197",
+    "name": "pouch",
+    "kind": "pouch",
+    "title": "pouch",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/25_13/b47893cf_ce80_43d1_aa31_a9ff00deb0aa/preview_am_5197__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A bison-hide shoulder pouch with porcupine quill embroidery and fringe, a classic Woodland/Plains-adjacent accessory type consistent with Shawnee material culture; attribution is specific to Shawnee, not just regional style.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1067644",
+    "name": "headgear, headgear, mo nä pälwáwwe [[Textil]]",
+    "kind": "headgear",
+    "title": "headgear, headgear, mo nä pälwáwwe [[Textil]]",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1323160/1910.11.0128.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a fringed headdress/roach-type ornament made from dyed deer hair (red and black) with cotton cord ties — a documented Shawnee-worn regalia item, collected directly from a named Shawnee source (Claud Tynes). This is plausible, traditional Shawnee attire despite a conflicting later museum classification tag reading \"kickapoo.\"",
+    "featured": true
+   }
+  ]
+ }
+}

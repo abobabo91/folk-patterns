@@ -1,0 +1,130 @@
+{
+ "key": "Q41477",
+ "label": "Bubi people",
+ "name": "Bubi",
+ "judged": 0,
+ "cached": 7,
+ "cost_usd": 0,
+ "ranked": {
+  "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af-158",
+    "name": "personal ornament",
+    "kind": "ornament",
+    "title": "personal ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/27_14/fc350993_7bb1_40f7_af67_a74300eb0de8/preview_EAF13813.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven armlet made of small white shell pieces strung together, matching the museum's description of a Bubi personal ornament; shell jewelry of this type is plausible traditional Bubi adornment from Bioko.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af-157",
+    "name": "head-ornament; necklace",
+    "kind": "necklace",
+    "title": "head-ornament; necklace",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_14/16d2873b_74a1_4d93_a6cf_a3bc00f0d4bc/preview_00424836_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A necklace/head-ornament of small pierced shell beads strung on twisted bast with attached feathers, explicitly attributed to the Bubi people of Bioko; a plausible traditional adornment for the culture.",
+    "featured": true
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Af1855-1220-140",
+    "name": "charm",
+    "kind": "charm",
+    "title": "charm",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_17/73ad3fec_0693_4103_aa4c_a3b7011c311d/preview_00089952_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a baby's protective charm—a wood boat-shaped amulet containing bones, attached to a plaited rattan armlet and a gourd container—a personal ritual/protective object of the kind the Bubi are documented to make and use. This fits the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af-6203_1",
+    "name": "charm",
+    "kind": "charm",
+    "title": "charm",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_11/3_13/dbc663b8_d2e9_4d96_8863_a82000da7483/preview_EAF13656.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden bell-shaped charm with a reptile-skin strip cord, attributed by the museum to Bubi maker; this matches the claimed ethnicity and ritual/charm use.",
+    "featured": true
+   }
+  ],
+  "ceramic": [
+   {
+    "source": "bm",
+    "id": "E_Af-5005",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/27_12/a23337ee_d9ac_4495_afbf_a74300c5c85f/preview_EAF13485.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A reddish earthenware bowl with a loop handle, incised line and hatch decoration, consistent with traditional Bubi pottery of Bioko Island; museum attributes it directly to Bubi makers.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_30785",
+    "name": "lock, korg, basket",
+    "kind": "basket",
+    "title": "lock, korg, basket",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2344102/0000.00.1358.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A round woven basket with lid, collected in Fernando Po (Bioko) and attributed to the Bubi people, made of plant fiber — a typical everyday storage container.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_30843",
+    "name": "korg, lock, basket",
+    "kind": "basket",
+    "title": "korg, lock, basket",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1122946/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A small round lidded coiled basket decorated with beads, collected at Fernando Po (Bioko) and attributed to the Bubi people, consistent with Bubi basketry/household craft.",
+    "featured": true
+   }
+  ]
+ }
+}
