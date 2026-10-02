@@ -728,7 +728,13 @@ file: `pick --cached-only --export-batch p003` exported 6,594 candidates, and a
 cloud session judged 6,445 of them for $60.34 (137 images failed to download
 there). `pick --no-judge` kept 5,021 objects; 237 peoples kept 5 or more and
 were onboarded as new cultures, and 33 kept 0–4 (Cherokee 4, Shuar 1, Kiga 0 …)
-and stay in the coverage file. The Codex contact-sheet pass over all 237 flagged
+and stay in the coverage file. Most of their candidates fell to source rules, not to the
+10-per-category cap (458 of 792 against 60 never reached), so BM subgroup
+rules were added for Kiga ("bachiga"), Jola ("flup"), Rizeigat ("rizayqat")
+and the "southeast" umbrella for Cherokee and Choctaw; a replay moved 44
+candidates back to awaiting a judge. Muisca ("chibcha", "quimbaya"), Naskapi
+("montagnais") and "(?)" attributions stay dropped on purpose. `pick --tries N`
+raises the per-category cap; earlier verdicts come from the cache. The Codex contact-sheet pass over all 237 flagged
 157; 130 were excluded: 53 pixel duplicates, 43 "probably" / "X or Y"
 attributions, 17 unreadable scenes, 6 catalogue cards, 2 modern/staged, and 9
 whose photo shows a different object type than its record (mostly SMVK: a

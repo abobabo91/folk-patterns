@@ -860,7 +860,11 @@ _BM_SUBGROUPS = {"mangyan": {"hanunóo", "hanunoo", "buid", "buhid", "iraya", "a
                  "lahu": {"lahu na", "lahu shi", "lahu nyi"},
                  "shona": {"karanga", "korekore"},
                  "banyankole": {"bahima"},
-                 "naga": {"angami", "ao", "chang", "zemi", "kalyo-kengyu"}}
+                 "naga": {"angami", "ao", "chang", "zemi", "kalyo-kengyu"},
+                 # 2026-10-02, the p003 peoples left under 5 objects
+                 "kiga": {"bachiga"},
+                 "jola": {"flup"},
+                 "rizeigat": {"rizayqat"}}
 
 # BM production groups that name a region or a language family, not a people,
 # with the peoples each one covers: beside one of those it is ignored; beside
@@ -871,6 +875,7 @@ _BM_UMBRELLAS = {"northwest coast": _NWC, "northwest coast peoples": _NWC,
                  "southwest": {"hopi", "navajo"}, "puebloan": {"hopi"},
                  "northeast": {"micmac", "mohawk", "innu", "winnebago"},
                  "plains": {"winnebago", "pawnee", "osage", "crow", "lakota", "cheyenne"},
+                 "southeast": {"cherokee", "choctaw"},
                  "arctic": {"inuit", "yupik", "inupiat", "chukchi"},
                  "arctic peoples": {"inuit", "yupik", "inupiat", "chukchi"},
                  "eskimo-aleut": {"inuit", "yupik", "inupiat", "cup'ig"},
@@ -1413,6 +1418,7 @@ if __name__ == "__main__":
     ap.add_argument("--cached-only", action="store_true", help="pick: no judge calls, no pick file written; record outcomes only")
     ap.add_argument("--export-batch", default="", help="pick --cached-only: write awaiting_judge candidates as a cloud batch")
     ap.add_argument("--batch", default="", help="pick-import: the batch name")
+    ap.add_argument("--tries", type=int, default=0, help="pick: candidates shown to the judge per category (default 10); earlier verdicts come from the cache")
     ap.add_argument("--no-judge", action="store_true", help="pick: no judge calls; write the pick file from cached verdicts")
     ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
@@ -1421,5 +1427,6 @@ if __name__ == "__main__":
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
     ap.add_argument("--threshold", type=int, default=30)
     a = ap.parse_args()
+    PICK_TRIES = a.tries or PICK_TRIES
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local, "europeana-objects": lambda: cmd_europeana_objects(a.only),
      "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only, a.no_judge, a.export_batch), "coverage": lambda: cmd_coverage(a.only), "pick-import": lambda: cmd_pick_import(a.batch)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
