@@ -264,6 +264,9 @@ caption and culture; broad Commons categories have supplied images of other
 peoples even after a positive model verdict. `vet_images.py` caches the source
 Commons images it judges under ignored `work/commons-review/` for that check,
 so reviewers need not redownload them.
+`python scripts/commons_editorial.py` runs that second check from cached images
+or Wikimedia thumbnails, using up to twelve photos per contact sheet and
+keeping each raw Codex reply in `work/commons-editorial/transcript.jsonl`.
 Cloud Commons batches use `python scripts/export_vet_batch.py --name commons001 --commons`
 and the fetch/judge/collect/apply route in [cloud-vetting.md](docs/cloud-vetting.md#commons-batches);
 that route does not cache images locally for editorial review.
