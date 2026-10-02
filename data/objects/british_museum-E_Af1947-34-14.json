@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1947-34-14",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1947-34-14",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1947-34-14",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1947.34.14",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Pokot",
+    "tradition": "Pokot",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The object is a wooden water bowl used and made by the Pokot, a household item consistent with their material culture; however it is wood, not clay, so the claimed category \"ceramic\" is wrong.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "water-bowl",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "water-bowl",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wooden elliptical bowl,  with a round bottom, repaired with wire, and blackened on inside base, with small plaited leather carrying loop on one side. Used for water.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/pokot/household/pokot/images/bm_E_Af1947_34_14.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "91ac60d78fae0b392478e85defff78dda32fa3b6836c4f1aa33e6534082cb638",
+      "bytes": 50524,
+      "local_path": "library\\sub-saharan-africa\\kenya\\pokot\\household\\pokot\\images\\bm_E_Af1947_34_14.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:35:21.391646+00:00"
+}

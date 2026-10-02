@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1905-17-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1905-17-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1905-17-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1905.17.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Malaysia",
+    "ethnicity": "Murut",
+    "tradition": "Murut",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows a bamboo quiver with rattan binding and a hooked wooden attachment, a type of weapon-accessory container used by the Murut of Borneo for blowpipe darts. This fits the claimed ethnicity and category well.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "quiver",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "quiver",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Quiver made of bamboo, rattan, wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/malaysia/murut/arms/murut/images/bm_A_As1905_17_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7945ff9cd5495b86fec2bd41663aa533ecd73bff0600b2e1b70c272788fb00dd",
+      "bytes": 28417,
+      "local_path": "library\\southeast-asia\\malaysia\\murut\\arms\\murut\\images\\bm_A_As1905_17_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:53:38.475047+00:00"
+}

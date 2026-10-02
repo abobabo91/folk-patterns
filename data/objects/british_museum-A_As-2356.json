@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As-2356",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As-2356",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As-2356",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As.2356",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Myanmar",
+    "ethnicity": "Akha",
+    "tradition": "Akha",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A brass band head ornament with a shell piece attached by fibre cord, explicitly attributed by the museum as made by the Akha, matching known Akha headdress components.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "head-ornament",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "head-ornament",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Head ornament comprising flat brass band ornamented with punched dots. At back, section of chank shell tied to brass band with twisted fibre cord.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/myanmar/akha/jewelry/akha/images/bm_A_As_2356.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "14de4db209605a2b56978dc845c265de5a5f9744eb41d2d2d3e098b60781de79",
+      "bytes": 35509,
+      "local_path": "library\\southeast-asia\\myanmar\\akha\\jewelry\\akha\\images\\bm_A_As_2356.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:47:38.467307+00:00"
+}

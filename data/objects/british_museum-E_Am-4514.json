@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-4514",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-4514",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-4514",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.4514",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "Canada",
+    "ethnicity": "Ojibwe",
+    "tradition": "Ojibwe",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A stone-bladed adze/axe with wooden handle and fiber lashing, a traditional tool type used by the Ojibwe; museum attributes it directly to Ojibwa makers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "adze; axe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "adze; axe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Adze/ axe with blade carved of stone, with a wooden handle, and twisted fibre cord holding the stone in place.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/canada/ojibwe/household/ojibwe/images/bm_E_Am_4514.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "193e07fecc0d527da6d1a82664d26eda1168295ceba1d53a0ff354a882f602a1",
+      "bytes": 26680,
+      "local_path": "library\\north-america\\canada\\ojibwe\\household\\ojibwe\\images\\bm_E_Am_4514.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:03:56.662101+00:00"
+}

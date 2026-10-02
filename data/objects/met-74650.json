@@ -1,0 +1,99 @@
+{
+  "id": "met-74650",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "74650",
+    "object_url": "https://www.metmuseum.org/art/collection/search/74650",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2008.359.5",
+    "accession_year": "2008"
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "Nepal",
+    "ethnicity": "Pahari",
+    "tradition": "Pahari",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a Pahari (Guler) ink drawing illustrating a Buddhist/Hindu narrative scene (Mara creating demons), a classic example of the Guler school of Pahari painting, consistent with the claimed ethnicity.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Mara Bringing the Demons to Life",
+    "titles_alt": [],
+    "date_text": "mid-18th century",
+    "date_earliest": 1736,
+    "date_latest": 1770,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Ink and wash on paper"
+    ],
+    "techniques": [],
+    "medium_raw": "Ink and wash on paper",
+    "classification": "Paintings",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Image (sight): 8 1/2 x 12 1/8 in. (21.6 x 30.8 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "India (Pahari Hills, Guler)",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Seu Family",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q78710699",
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300379730"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/nepal/pahari/painting-mss/pahari/images/met_74650.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2ec6aa8274cca529ad66df598c1ef41e8f932fcfbdd001c7c134cba23db6d81b",
+      "bytes": 1918996,
+      "local_path": "library\\south-asia\\nepal\\pahari\\painting-mss\\pahari\\images\\met_74650.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:36:35.199204+00:00"
+}

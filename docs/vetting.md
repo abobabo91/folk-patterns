@@ -670,7 +670,7 @@ caption check. Both profiles were rewritten from British Museum and Smithsonian
 object records, and generic music links were removed. All 26 loaded images
 were uploaded to R2; the rejected shrine is excluded from the index.
 
-## Pick coverage (2026-09-29 and 30)
+## Pick coverage (2026-09-29 to 10-02)
 
 `world_peoples.py coverage` over the 155 peoples with a pick file, after a
 `pick --cached-only` replay recorded the outcomes the judge log did not
@@ -723,10 +723,42 @@ stay. 124 loaded cultures took 2,625 new records; the index went from 10,804
 to 12,894 objects in 213 cultures. Maya and Betsimisaraka gained pick objects
 but are not loaded cultures, so they were left out.
 
-**Current coverage (2026-09-30):** `scripts/_vet_status.py` reports 13,929/13,929
-library records judged, 13,027 accepted and 902 dropped. The site index has
-12,894 objects in 213 cultures. This is model-based visual review of all library
-images, not a separate editorial check of 13,929 images. Selected Armenian,
+Batch p003 (2026-09-30 to 10-02) covered the 270 queue peoples that had no pick
+file: `pick --cached-only --export-batch p003` exported 6,594 candidates, and a
+cloud session judged 6,445 of them for $60.34 (137 images failed to download
+there). `pick --no-judge` kept 5,021 objects; 237 peoples kept 5 or more and
+were onboarded as new cultures, and 33 kept 0–4 (Cherokee 4, Shuar 1, Kiga 0 …)
+and stay in the coverage file. The Codex contact-sheet pass over all 237 flagged
+157; 130 were excluded: 53 pixel duplicates, 43 "probably" / "X or Y"
+attributions, 17 unreadable scenes, 6 catalogue cards, 2 modern/staged, and 9
+whose photo shows a different object type than its record (mostly SMVK: a
+Buddhist bronze titled manuscript, footwear titled vessel, baskets titled knit
+cap), read as a misattached image. Minor title mismatches (a throwing knife
+catalogued as a sword) stay. Seeds were drafted by Codex; Evenki's draft
+carried Yakut terms (olonkho, Yakut silverwork) and the source check at
+writeup import removed them.
+
+Commons photos of the 237 went through cloud batch c001 (2,459 photos,
+$29.92 including a first session that could not reach `thumb.wikimedia.org`):
+1,427 accepted, 986 rejected, 46 failed to download. `commons_editorial.py`
+then ran the editorial check with Codex on contact sheets with the captions:
+999 passed, 428 failed. Samples read by eye: the failures are captions naming
+only a country ("Afghan men praying"), political meetings, or a game whose
+caption does not name the people (Mapuche chueca); two near-identical Pashtun
+infobox collages both passed, so near-duplicates are not caught there.
+
+Profiles: 57 were written in the cloud (pilot w001, $3.05 for 5; w003, 52, about
+$0.85 each, which used up the credit), and the other 180 by local Codex through
+the same `cloud_writeup_batch.py` and audits. `audit_profile.py --fix` removed
+unsupported terms from 43 short profiles; four leftovers were read by hand
+(three plain English names the check cannot match, and one measurement in the
+Mongols profile that was removed). The index went from 12,894 objects in 213
+cultures to 17,684 in 450.
+
+**Current coverage (2026-10-02):** `scripts/_vet_status.py` reports 18,740/18,740
+library records judged, 17,838 accepted and 902 dropped. The site index has
+17,684 objects in 450 cultures. This is model-based visual review of all library
+images, not a separate editorial check of 18,740 images. Selected Armenian,
 Lobi, Dogon, Luba, Fante, Idoma, Urhobo, Fon, Asmat, Tlingit, Hopi, Shona,
 Nuu-chah-nulth, Ibibio, Tetela, Nupe, Torres Strait Islander, Native Hawaiian,
 and all later cultures from picks (see the table above) were also checked

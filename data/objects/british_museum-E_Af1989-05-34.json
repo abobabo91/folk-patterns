@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1989-05-34",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1989-05-34",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1989-05-34",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1989.05.34",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Guinea-Bissau",
+    "ethnicity": "Balanta",
+    "tradition": "Balanta",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A handmade earthenware water-pot with a ridged neck, attributed by the museum directly to Balanta makers of Guinea-Bissau; consistent with regional traditional pottery.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "water-pot",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "water-pot",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Water-pot (with decorated neck) made of earthenware.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/guinea-bissau/balanta/ceramic/balanta/images/bm_E_Af1989_05_34.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "24985e6561b0913c6e626af52198206a5d016ae4bc494118b6906951a5cb84c1",
+      "bytes": 41529,
+      "local_path": "library\\sub-saharan-africa\\guinea-bissau\\balanta\\ceramic\\balanta\\images\\bm_E_Af1989_05_34.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:25:11.918936+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1963-21-9-a-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1963-21-9-a-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1963-21-9-a-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1963.21.9.a.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Pedi",
+    "tradition": "Pedi",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "Two carved bone divination tablets with incised triangular patterns, a traditional ritual/divining object used by the Pedi; attribution is directly stated by the museum, not a style guess.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "divination-tablet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "divination-tablet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Two divining tablets made of bone.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/pedi/masks-ritual/pedi/images/bm_E_Af1963_21_9_a_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f9fe8d57188c9ed02225e5e66b6fa1ffa4b1f93d911c56de795989326f95df6e",
+      "bytes": 54321,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\pedi\\masks-ritual\\pedi\\images\\bm_E_Af1963_21_9_a_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:48:08.123558+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1990-04-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1990-04-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1990-04-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1990.04.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Mongolia",
+    "ethnicity": "Mongols",
+    "tradition": "Mongols",
+    "art_form": "textile",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A piled wool prayer-carpet with a red field, geometric key-pattern border, and central floral medallion — a well-known Mongolian/Tibetan-region rug type, attributed directly by the museum to a Mongol maker. Design and construction are consistent with the claim.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "textile",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "prayer-carpet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "prayer-carpet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Prayer-carpet; woven of piled wool; square of red wool (backed with off-white cotton) with blue and yellow geometric border, blue flower? at centre with white curvilinear designs; white fringe on two opposing sides.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/mongolia/mongols/textile/mongols/images/bm_A_As1990_04_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "48904e9a2f75edd701c829d6f0a64e807e0290620d9c7579e5e1181571c82177",
+      "bytes": 94795,
+      "local_path": "library\\east-asia\\mongolia\\mongols\\textile\\mongols\\images\\bm_A_As1990_04_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:36:10.857149+00:00"
+}

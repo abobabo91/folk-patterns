@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1982-20-15",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1982-20-15",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1982-20-15",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1982.20.15",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Peru",
+    "ethnicity": "Quechua",
+    "tradition": "Quechua",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A braided woollen horse hobble with tasseled figure-head ends, a traditional Andean pastoral tool used by Quechua herders for their livestock; this matches the claimed ethnicity and use.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "hobble",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "hobble",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Braided woollen horse hobble, brown and white stripes with red and white tassels.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/peru/quechua/household/quechua/images/bm_E_Am1982_20_15.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f6422091bbaa33dfe4dc61db8aa9443fca7c4126081462555f6ac5d2f4b95073",
+      "bytes": 36944,
+      "local_path": "library\\latin-america\\peru\\quechua\\household\\quechua\\images\\bm_E_Am1982_20_15.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T03:50:38.949736+00:00"
+}

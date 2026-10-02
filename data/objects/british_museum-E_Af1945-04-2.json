@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1945-04-2",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1945-04-2",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1945-04-2",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1945.04.2",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Venda",
+    "tradition": "Venda",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A composite axe with a crescentic wooden shaft and iron blade, attributed by the museum to the Venda as maker; this matches known Venda ceremonial/prestige axe forms. Fits claimed ethnicity as a weapon/tool type used and made by the Venda.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "axe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "axe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1945:\r\nComposite axe, wooden shaft crescentic at end holding the iron bar; iron bar beaten out to form sub-spherical cutting edge.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/venda/arms/venda/images/bm_E_Af1945_04_2.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "7ce17d47740b46111ab3ecb4419066bef5981445d5c95a8c81a317ae574d1dcd",
+      "bytes": 24405,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\arms\\venda\\images\\bm_E_Af1945_04_2.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:14:12.475046+00:00"
+}

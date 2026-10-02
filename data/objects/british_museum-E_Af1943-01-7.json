@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1943-01-7",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1943-01-7",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1943-01-7",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1943.01.7",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Tanzania",
+    "ethnicity": "Haya",
+    "tradition": "Haya",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A vegetable-fibre skirt/dress made by the Haya, matching the museum's attribution; fibre skirts of this type are worn garments documenting traditional dress.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "dress",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dress",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1943:\r\nVegetable fibre dress.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/tanzania/haya/garment/haya/images/bm_E_Af1943_01_7.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a16ba1cb338f637d1a322ab938fdb91ae9204fe7e9775e343d064fcf0d743d52",
+      "bytes": 44770,
+      "local_path": "library\\sub-saharan-africa\\tanzania\\haya\\garment\\haya\\images\\bm_E_Af1943_01_7.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:14:13.861102+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1975-08-18",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1975-08-18",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1975-08-18",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1975.08.18",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Munda",
+    "tradition": "Munda",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A bamboo-shafted arrow with feather fletching and a tarred/leather-bound bolt, consistent with traditional Munda hunting arrows, directly attributed by the museum to Munda makers.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "arrow",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "arrow",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Arrow with bamboo shaft, two feather flights inserted into the shaft (there are no bindings) and broad, outwardly tapering bamboo bolt at the top. The bolt is tied into place with leather or fibre (vegetable?) and it appears as though it is covered in tar or perhaps glossy black paint.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/munda/arms/munda/images/bm_A_As1975_08_18.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c0e764f7d562b3ad244b413f201f5052164e7385f2b5475a61e1b44fbd664385",
+      "bytes": 63915,
+      "local_path": "library\\south-asia\\india\\munda\\arms\\munda\\images\\bm_A_As1975_08_18.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:40:16.916311+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1962-03-8",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1962-03-8",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1962-03-8",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1962.03.8",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Mexico",
+    "ethnicity": "Mixtec",
+    "tradition": "Mixtec",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a genealogical/historical screenfold codex painted on hide in the Mixtec pictorial tradition, showing a seated noble figure with calendrical day-signs and glyphic notation, consistent with the claimed Mixtec origin and painting-mss category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "codex",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "codex",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Codex; history of a Mixtec noble family; consists of a genealogy comprising twenty-six generations with a few subsidiary genealogies. Written commentary in a native Mexican language; written on long screen folded leather comprising of sixteen double sided pages.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/mixtec/painting-mss/mixtec/images/bm_E_Am1962_03_8.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "bfcff2ecb48b269ee17181b8ebe9a8232fbb2d4580c3ebcec7351d2ad5335ae8",
+      "bytes": 86120,
+      "local_path": "library\\latin-america\\mexico\\mixtec\\painting-mss\\mixtec\\images\\bm_E_Am1962_03_8.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:04:01.919873+00:00"
+}

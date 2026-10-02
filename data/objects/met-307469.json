@@ -1,0 +1,92 @@
+{
+  "id": "met-307469",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "307469",
+    "object_url": "https://www.metmuseum.org/art/collection/search/307469",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Henry G. Marquand, 1882",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "82.1.25",
+    "accession_year": "1882"
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Peru",
+    "ethnicity": "Quechua",
+    "tradition": "Quechua",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a bronze tumi-style ceremonial knife with a semicircular blade and a standing figure/animal-topped handle — a classic Andean ritual/ceremonial knife form from Peru, plausible for Quechua make and use even though the museum flags the attribution with a question mark.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Knife, Figures",
+    "titles_alt": [],
+    "date_text": "16th–18th century",
+    "date_earliest": 1500,
+    "date_latest": 1800,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Bronze"
+    ],
+    "techniques": [],
+    "medium_raw": "Bronze",
+    "classification": "Metal-Implements",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "W. 4 1/2 × D. 7 7/8 in. (11.4 × 20 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Peru",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300404114"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/peru/quechua/arms/quechua/images/met_307469.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "13d4c82778a0f69c7a00fed709a4348e473c7b9f86fb360cf4d0263749258db4",
+      "bytes": 519317,
+      "local_path": "library\\latin-america\\peru\\quechua\\arms\\quechua\\images\\met_307469.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T03:51:06.759644+00:00"
+}

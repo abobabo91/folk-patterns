@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1978-15-34",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1978-15-34",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1978-15-34",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1978.15.34",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Mexico",
+    "ethnicity": "Otomi",
+    "tradition": "Otomi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a backstrap loom with a partially woven red-and-black wool textile with bird motifs, a type of weaving equipment used by Otomi and related Mexican highland peoples; it is household/craft equipment, not a musical instrument, so the claimed category \"instruments\" is wrong but the object itself fits the culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "loom",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "loom",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Backstrap loom for double-weaving; made of wood; with a section of red and black wool textile with bird motifs already woven. Basic construction: 1) dowel at top wrapped with warp threads; 2) reed twined through warp threads; 3) reed twined through warp threads; 4) flat piece of wood with tapered ends; 5) reed twined through warp threads; 6) reed twined through warp threads; 7) reed twined through warp threads; 8) flat piece of wood with tapered ends; 9) small flat piece of wood with tapered ends; 10) reed bobbin with red wool wrapped around it; 11) reed bobbin with black wool wrapped around it; 12) extra dowel to roll up finished textile; 13) dowel with warp threads wrapped around it; 14) weaver&#039;s strap (mecapal in Spanish) plaited from vegetable fibre for strapping around weaver&#039;s waist.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/otomi/household/otomi/images/bm_E_Am1978_15_34.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "44efb2eebe352515763f41fc8a0882068ad5abb3be2aa35510512b3d6945a623",
+      "bytes": 86464,
+      "local_path": "library\\latin-america\\mexico\\otomi\\household\\otomi\\images\\bm_E_Am1978_15_34.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:07:32.126226+00:00"
+}

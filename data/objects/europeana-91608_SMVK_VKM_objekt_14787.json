@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91608_SMVK_VKM_objekt_14787",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of World Culture",
+    "object_id": "91608_SMVK_VKM_objekt_14787",
+    "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14787?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Seneca",
+    "tradition": "Seneca",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A wooden burl-style bowl with two small lug handles, a form consistent with Iroquois (Seneca) wood carving traditions; the museum record labels it Seneca/Iroquois League material. Though claimed as \"ceramic,\" the object is clearly carved wood.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Träskål, kärl, skål, vessel",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of World Culture",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/seneca/household/seneca/images/eu_91608_SMVK_VKM_objekt_14787.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f99cdab1a758481aa4a942ac88f0cf3131a946ffcb199d18e3b558ea93397534",
+      "bytes": 39351,
+      "local_path": "library\\north-america\\united-states\\seneca\\household\\seneca\\images\\eu_91608_SMVK_VKM_objekt_14787.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1095157%2Fzoom&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:43:46.461312+00:00"
+}

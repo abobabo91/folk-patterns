@@ -85,7 +85,10 @@
         "vetted_art_form": "photo",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "traditional"
+        "vetted_era": "traditional",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "Caption explicitly identifies Bannock people, and the image shows Bannock individuals in traditional dress and adornment."
       },
       {
         "title": "Bestickter Trachtengürtel, Quill embroidery.jpg",
@@ -157,7 +160,10 @@
         "vetted_art_form": "household",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "traditional"
+        "vetted_era": "traditional",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "The caption identifies only a museum exhibit and generic quillwork; it does not specifically attribute the cradleboard to the Bannock."
       },
       {
         "title": "Damenschuhe zur Tracht.jpg",
@@ -265,7 +271,10 @@
         "vetted_art_form": "household",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "traditional"
+        "vetted_era": "traditional",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "The caption identifies only a porcupine quill box and Leipzig; it provides no specific Bannock attribution."
       }
     ],
     "unesco_ich": [],

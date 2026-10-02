@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91619_SMVK_EM_objekt_2202309",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of Ethnography",
+    "object_id": "91619_SMVK_EM_objekt_2202309",
+    "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_2202309?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Meru",
+    "tradition": "Meru",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows an East African earring/ear ornament—a coiled metal ring supporting a beaded, ochre-clay-coated pendant—collected in Kenya and attributed to the Meru, close neighbours of the Akikuyu whose ornament style this resembles; such ornaments are plausible Meru wear.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "smycke, örhänge, jewellery",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of Ethnography",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/meru/jewelry/meru/images/eu_91619_SMVK_EM_objekt_2202309.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ca622f7d66f301e8ccd70d1e113ad31473ffa8dea0d238d3e9b1d9156cbd119b",
+      "bytes": 134209,
+      "local_path": "library\\sub-saharan-africa\\kenya\\meru\\jewelry\\meru\\images\\eu_91619_SMVK_EM_objekt_2202309.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3160630%2F1930.11.0005_alt.jpg&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:01:45.643395+00:00"
+}

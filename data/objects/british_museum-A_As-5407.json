@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As-5407",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As-5407",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As-5407",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As.5407",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Russia",
+    "ethnicity": "Evenki",
+    "tradition": "Evenki",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A finely carved mammoth-ivory comb with an openwork panel is explicitly attributed by the museum to Evenki makers; ivory-carving is a known Siberian craft tradition, so this is plausible even though the heraldic eagle/lion/unicorn motif reflects Russian imperial imagery (likely a trade or commissioned piece).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "comb",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "comb",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Comb with openwork relief panel containing double-headed eagle between a lion and unicorn, made of mammoth ivory.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/evenki/household/evenki/images/bm_A_As_5407.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "672b03a4791f2e8bbef4df15a528deb748d7bd408e541247d7948e9b6ff3e88c",
+      "bytes": 138187,
+      "local_path": "library\\east-asia\\russia\\evenki\\household\\evenki\\images\\bm_A_As_5407.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:23:40.171917+00:00"
+}

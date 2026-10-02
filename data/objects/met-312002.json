@@ -1,0 +1,97 @@
+{
+  "id": "met-312002",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "312002",
+    "object_url": "https://www.metmuseum.org/art/collection/search/312002",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Gift of Mrs.Gertrud A. Mellon, 1972",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1978.412.1571",
+    "accession_year": "1978"
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Chile",
+    "ethnicity": "Rapa Nui",
+    "tradition": "Rapa Nui",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This shows a wooden rapa (dance paddle) with a carved anthropomorphic head at the top, a classic Rapa Nui ceremonial dance implement used in traditional performance.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Rapa (dance paddle)",
+    "titles_alt": [],
+    "date_text": "early 19th century",
+    "date_earliest": 1800,
+    "date_latest": 1850,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 28 1/4 × W. 6 1/4 × D. 5/8 in. (71.8 × 15.9 × 1.6 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Rapa Nui (Easter Island), Chile",
+    "made_in_place_alt": [],
+    "current_gallery": "352",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Rapa Nui artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q97384306",
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/chile/rapa-nui/household/rapa-nui/images/met_312002.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ed8bbe3a5192f2de434a2905090d52ed188cb733f16cd50b5da2c7b968955867",
+      "bytes": 1019256,
+      "local_path": "library\\oceania\\chile\\rapa-nui\\household\\rapa-nui\\images\\met_312002.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:48:51.349417+00:00"
+}

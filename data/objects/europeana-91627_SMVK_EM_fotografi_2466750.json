@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91627_SMVK_EM_fotografi_2466750",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of Ethnography",
+    "object_id": "91627_SMVK_EM_fotografi_2466750",
+    "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2466750?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Kenya",
+    "ethnicity": "Turkana",
+    "tradition": "Turkana",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A documentary photograph of a Turkana man in profile wearing traditional fur/hide cape, headdress with feather, clay-and-ochre hair decoration, and earrings, taken by Eric von Otter in East Africa in the 1920s — this is exactly the kind of documentary ethnographic photo of dress and appearance the claim requires.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "man, fjäder, porträtt, hårdekoration, dräkt, fotografi, photograph",
+    "titles_alt": [],
+    "date_text": "1920",
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of Ethnography",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/kenya/turkana/photo/turkana/images/eu_91627_SMVK_EM_fotografi_2466750.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "74e9cc895d99b859a428d80b4f510edb3cddbe3b387961cc038a921929053d4e",
+      "bytes": 72876,
+      "local_path": "library\\sub-saharan-africa\\kenya\\turkana\\photo\\turkana\\images\\eu_91627_SMVK_EM_fotografi_2466750.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2466753%2F0175.0002.jpg&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:08:56.514087+00:00"
+}

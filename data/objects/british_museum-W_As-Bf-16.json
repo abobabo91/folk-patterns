@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-W_As-Bf-16",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "W_As-Bf-16",
+    "object_url": "https://www.britishmuseum.org/collection/object/W_As-Bf-16",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "W,As.Bf.16",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Russia",
+    "ethnicity": "Evenki",
+    "tradition": "Evenki",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A long iron smoking pipe with a bowl, metal shaft and mouthpiece, attributed by the museum as made by the Evenki (\"Tungoosk\" pipe) — a plausible everyday/household object for this Siberian hunting culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "smoking-pipe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "smoking-pipe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "&#039;Tungoosk&#039; smoking pipe made of iron.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/evenki/household/evenki/images/bm_W_As_Bf_16.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "803742cbbf283cc5a6b5e2b0640f2ac9536c5b241157c3a900676cfb1c05c3a1",
+      "bytes": 66189,
+      "local_path": "library\\east-asia\\russia\\evenki\\household\\evenki\\images\\bm_W_As_Bf_16.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:23:42.485162+00:00"
+}

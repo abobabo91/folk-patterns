@@ -1,0 +1,92 @@
+{
+  "id": "met-125613",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "125613",
+    "object_url": "https://www.metmuseum.org/art/collection/search/125613",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, 1906",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "06.933.3",
+    "accession_year": "1906"
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "France",
+    "ethnicity": "Bretons",
+    "tradition": "Bretons",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a black wool jacket with elaborate colorful embroidered/beaded trim on the collar, front plastron, and cuffs, consistent with traditional Breton regional dress (e.g., Pont-l'Abbé/Bigouden style decorated bodices and jackets). Material and style fit plausible Breton folk costume.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Jacket",
+    "titles_alt": [],
+    "date_text": "late 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "wool",
+      "glass beads",
+      "metal pailettes"
+    ],
+    "techniques": [],
+    "medium_raw": "wool, glass beads, metal pailettes",
+    "classification": "Main dress-Menswear",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Length: 22 in. (55.9 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/france/bretons/garment/bretons/images/met_125613.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "d8820f3518cdf954b4a636b2d6c6d63b82987af28dc7eb2fcc5f06cc5308c09e",
+      "bytes": 384058,
+      "local_path": "library\\europe\\france\\bretons\\garment\\bretons\\images\\met_125613.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:54:23.909422+00:00"
+}

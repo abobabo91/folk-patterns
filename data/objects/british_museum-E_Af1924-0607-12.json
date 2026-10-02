@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1924-0607-12",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1924-0607-12",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1924-0607-12",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1924.0607.12",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Mali",
+    "ethnicity": "Bambara",
+    "tradition": "Bambara",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A traditional skin-covered stringed lute (bowed/plucked spike lute) with a reptile-skin resonator, consistent with Bamana/Bambara string instruments; museum attributes production to Bamana.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "guitar; violin (?); violin-bow (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "guitar; violin (?); violin-bow (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wooden guitar with six strings, the resonator covered with reptile skin pegged down; with a curved metal rattle at the end of the stave.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/mali/bambara/instruments/bambara/images/bm_E_Af1924_0607_12.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "b60877ae570aa8e5af725d9399017db55476bac4be86d8b3bc93154906c67b84",
+      "bytes": 67577,
+      "local_path": "library\\sub-saharan-africa\\mali\\bambara\\instruments\\bambara\\images\\bm_E_Af1924_0607_12.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:33:25.582363+00:00"
+}

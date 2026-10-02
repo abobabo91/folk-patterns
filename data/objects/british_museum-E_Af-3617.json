@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af-3617",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af-3617",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af-3617",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af.3617",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zambia",
+    "ethnicity": "Kololo tribe",
+    "tradition": "Kololo tribe",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "An axe with iron blade and brass-wire-bound wooden handle, explicitly attributed by the museum to the Kololo, consistent with Zambian metalwork traditions.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "axe",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "axe",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Axe with iron blade; handle with knob head entirely covered with brass binding.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zambia/kololo-tribe/arms/kololo-tribe/images/bm_E_Af_3617.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "5a1d5d0d1a589fbb8015dfda4ca1eeb7ee0330dce1db2a66eaeea8161f0904d9",
+      "bytes": 53087,
+      "local_path": "library\\sub-saharan-africa\\zambia\\kololo-tribe\\arms\\kololo-tribe\\images\\bm_E_Af_3617.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:51:49.224519+00:00"
+}

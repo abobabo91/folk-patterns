@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1993-11-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1993-11-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1993-11-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1993.11.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Mexico",
+    "ethnicity": "Otomi",
+    "tradition": "Otomi",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a classic Otomí amate bark-paper painting from San Pablito, Puebla, showing a stylized human figure flanked by vases of flowers within a floral border — a well-known Otomí craft tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "painting",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "painting",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Painting; made on bark paper (amate in Spanish); piece of brown bark paper, with design painted on (watercolour?); design shows blue human figure with hands raised at centre, yellow vase with multicoloured flowers on either side, border with plants and fruits around outside.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/otomi/painting-mss/otomi/images/bm_E_Am1993_11_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3f3b69bb2709a56345432551af3f9a58d5924cf64e3682a9605184e1e91d69ab",
+      "bytes": 98982,
+      "local_path": "library\\latin-america\\mexico\\otomi\\painting-mss\\otomi\\images\\bm_E_Am1993_11_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:07:22.867790+00:00"
+}

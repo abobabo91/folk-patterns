@@ -124,7 +124,6 @@ Evenki is the largest northern Tungusic language, highly agglutinating with 13 c
 - *taiga* — boreal forest region of Siberia where Evenki live
 - *reindeer saddle* — Evenki-specific saddle set on animal's shoulders
 - *pike* — large knife on a long handle, used as axe or spear
-- *composite bow* — hunting bow of wood, whalebone, and ivory
 - *Abagaldi* — bear spirit in shamanic tradition
 - *animistic belief* — belief in animation and personification of natural phenomena
 - *upper, middle and lower world* — three-level cosmology in Evenki worldview

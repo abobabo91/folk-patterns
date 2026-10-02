@@ -62,7 +62,10 @@
         "vetted_art_form": "architectural",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "traditional"
+        "vetted_era": "traditional",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "Caption identifies Venda huts, and the image visibly shows traditional Venda-style huts and village architecture."
       },
       {
         "title": "Charlottenburg Kurfürstendamm 214 Vorbau Maredo.jpg",
@@ -260,7 +263,10 @@
         "vetted_art_form": "photo",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "weak",
-        "vetted_era": "modern"
+        "vetted_era": "modern",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "Although the source category is Venda, the image is primarily a mountain and road landscape with no visible Venda cultural element."
       }
     ],
     "unesco_ich": [],

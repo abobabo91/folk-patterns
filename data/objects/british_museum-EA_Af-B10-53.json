@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-EA_Af-B10-53",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "EA_Af-B10-53",
+    "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B10-53",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "EA,Af.B10.53",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Sudan",
+    "ethnicity": "Nuba",
+    "tradition": "Nuba",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The photo documents a traditional Nuba homestead with round clay shelters and conical thatched roofs set among granite boulders, a well-known Nuba Mountains dwelling style, matching the claimed ethnicity and locale.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "photographic print",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "photographic print",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Sudan, Nuba homestead. Group of small round clay shelters with conical thatched roofs, set on rock.\nMedium: Black and white. Gelatin silver print (?).\nFormat: Print mounted on card with two other photographs.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/sudan/nuba/photo/nuba/images/bm_EA_Af_B10_53.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8c0257f4426e3e4aa999eb7236048b717dd18fba9663fafc4385fc658d8fea44",
+      "bytes": 87827,
+      "local_path": "library\\sub-saharan-africa\\sudan\\nuba\\photo\\nuba\\images\\bm_EA_Af_B10_53.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:28:32.628749+00:00"
+}

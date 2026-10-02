@@ -1,0 +1,101 @@
+{
+  "id": "met-74649",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "74649",
+    "object_url": "https://www.metmuseum.org/art/collection/search/74649",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2008.359.4",
+    "accession_year": "2008"
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "Nepal",
+    "ethnicity": "Pahari",
+    "tradition": "Pahari",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A Pahari-style drawing from Guler depicting Vishnu riding Garuda slaying a demon, consistent with the hill-painting tradition attributed to the Pahari region of the Himalayan foothills.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Vishnu on Garuda Slaying a Demon",
+    "titles_alt": [],
+    "date_text": "mid-18th century",
+    "date_earliest": 1736,
+    "date_latest": 1770,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Ink and wash on paper"
+    ],
+    "techniques": [],
+    "medium_raw": "Ink and wash on paper",
+    "classification": "Paintings",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Image (sight): 8 1/2 x 12 3/8 in. (21.6 x 31.4 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "India (Pahari Hills, Guler)",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Seu Family",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q78710773",
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300379730",
+      "http://vocab.getty.edu/page/ia/901000395",
+      "http://vocab.getty.edu/page/aat/300073727"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/nepal/pahari/painting-mss/pahari/images/met_74649.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "cc15906582513db4e50c47518050294e1f84e784685d6107db018fbb3621d8bc",
+      "bytes": 1944716,
+      "local_path": "library\\south-asia\\nepal\\pahari\\painting-mss\\pahari\\images\\met_74649.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:36:42.289592+00:00"
+}

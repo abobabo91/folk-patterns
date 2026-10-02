@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-A_As1910-1207-100",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "A_As1910-1207-100",
+    "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-1207-100",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "A,As1910.1207.100",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Taiwan",
+    "ethnicity": "Atayal",
+    "tradition": "Atayal",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A striped woven ramie cape/apron with tie cords, consistent with Atayal traditional striped weaving using back-strap loom techniques; plausible as an Atayal-made garment.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "apron",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "apron",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Woven cape made of ramie.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/taiwan/atayal/garment/atayal/images/bm_A_As1910_1207_100.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e456137aa4b456b03838b92effb544992fb1a5a1ff58e3d4ec5cee982ea13014",
+      "bytes": 20392,
+      "local_path": "library\\east-asia\\taiwan\\atayal\\garment\\atayal\\images\\bm_A_As1910_1207_100.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:30:23.104830+00:00"
+}

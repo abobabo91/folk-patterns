@@ -1,0 +1,94 @@
+{
+  "id": "met-316843",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "316843",
+    "object_url": "https://www.metmuseum.org/art/collection/search/316843",
+    "iiif_manifest": null,
+    "credit_line": "Bequest of Arthur M. Bullowa, 1993",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1994.35.15",
+    "accession_year": "1994"
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Peru",
+    "ethnicity": "Quechua",
+    "tradition": "Quechua",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a wooden kero (ceremonial drinking cup) with painted/resin-inlay decoration of figures and geometric bands, a classic Inca/Quechua ceremonial vessel type — fits the claimed culture even though it is wood, not clay.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 5,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Kero",
+    "titles_alt": [],
+    "date_text": "16th–17th century",
+    "date_earliest": 1500,
+    "date_latest": 1700,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "pigmented resin inlay"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, pigmented resin inlay",
+    "classification": "Wood-Containers",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 7 in. (17.8 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Peru",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025928",
+      "http://vocab.getty.edu/page/aat/300025943"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/peru/quechua/household/quechua/images/met_316843.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "19b619d57cc955128439a47a4ab86d551846a148c3c79a82b8046a8e66ee03e8",
+      "bytes": 107417,
+      "local_path": "library\\latin-america\\peru\\quechua\\household\\quechua\\images\\met_316843.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T03:50:39.314760+00:00"
+}

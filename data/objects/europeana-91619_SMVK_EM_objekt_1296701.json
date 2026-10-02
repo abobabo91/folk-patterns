@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91619_SMVK_EM_objekt_1296701",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of Ethnography",
+    "object_id": "91619_SMVK_EM_objekt_1296701",
+    "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1296701?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "India",
+    "ethnicity": "Santal",
+    "tradition": "Santal",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The drawing depicts a banam, a traditional single-stringed bowed lute used by the Santal people of eastern India, matching the museum's catalog identification. It is a documented example of Santal material culture (musical instrument).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "musical instruments, stringed instruments, violin, instrument, banam",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of Ethnography",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/india/santal/instruments/santal/images/eu_91619_SMVK_EM_objekt_1296701.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c9fe0228e86f4952863be1326b3134443df830efd9ddcd21db52a55531d4b21b",
+      "bytes": 139582,
+      "local_path": "library\\south-asia\\india\\santal\\instruments\\santal\\images\\eu_91619_SMVK_EM_objekt_1296701.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2770632%2F1900.32.0421_teckn.jpg&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:44:29.422561+00:00"
+}

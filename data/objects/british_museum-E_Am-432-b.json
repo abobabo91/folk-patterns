@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-432-b",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-432-b",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-432-b",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.432.b",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Brazil",
+    "ethnicity": "Macushi",
+    "tradition": "Macushi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows a woven basketry/fiber wrapping used to case blowpipe arrows, a Macushi-made item per the museum record; though basketry rather than woven cloth, it is a genuine made object used by this people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "wrapping",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "wrapping",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wrapping (for blowpipe arrows) made of cotton.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/brazil/macushi/household/macushi/images/bm_E_Am_432_b.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "e3d5982af3dbcb96a02c460d8a5baf08eab007a49d79ebe0e96cab989ec36006",
+      "bytes": 20409,
+      "local_path": "library\\latin-america\\brazil\\macushi\\household\\macushi\\images\\bm_E_Am_432_b.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:04:46.893766+00:00"
+}

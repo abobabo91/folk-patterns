@@ -1,0 +1,102 @@
+{
+  "id": "met-318361",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "318361",
+    "object_url": "https://www.metmuseum.org/art/collection/search/318361",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Charles and Valerie Diker, 1999",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1999.484.18",
+    "accession_year": "1999"
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Arapaho",
+    "tradition": "Arapaho",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "Classic Plains ledger drawing of two warriors on horseback in feathered war bonnets/trailers with weapons, a well-known Arapaho ledger-art genre depicting war exploits; this matches the claimed Arapaho attribution and category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Off to War (Henderson Ledger Artist B)",
+    "titles_alt": [],
+    "date_text": "ca. 1882",
+    "date_earliest": 1862,
+    "date_latest": 1902,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Pencil",
+      "colored pencil",
+      "and  ink on paper"
+    ],
+    "techniques": [],
+    "medium_raw": "Pencil, colored pencil, and  ink on paper",
+    "classification": "Paper-Drawings",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 5 3/8 × W. 11 7/8 in. (13.7 × 30.2 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "United States",
+    "made_in_place_alt": [],
+    "current_gallery": "746",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Frank Henderson",
+        "role": "Artist",
+        "dates": "1862 – 1885",
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025943",
+      "http://vocab.getty.edu/page/aat/300250148"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/arapaho/painting-mss/arapaho/images/met_318361.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "25d4dc05f51232e8ff1d54fe2625654b0c02c7bbe972f322c80100b4b9180707",
+      "bytes": 2373237,
+      "local_path": "library\\north-america\\united-states\\arapaho\\painting-mss\\arapaho\\images\\met_318361.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:27:29.999292+00:00"
+}

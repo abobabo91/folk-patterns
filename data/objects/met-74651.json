@@ -1,0 +1,100 @@
+{
+  "id": "met-74651",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "74651",
+    "object_url": "https://www.metmuseum.org/art/collection/search/74651",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2008.359.6",
+    "accession_year": "2008"
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "Nepal",
+    "ethnicity": "Pahari",
+    "tradition": "Pahari",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a Pahari Hills (Guler) ink-and-wash drawing depicting monkeys building the bridge to Lanka, a Ramayana scene — a classic subject and style of the Pahari painting schools, matching the claimed ethnicity.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "weak",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Building the Bridge to Lanka",
+    "titles_alt": [],
+    "date_text": "mid-18th century",
+    "date_earliest": 1736,
+    "date_latest": 1770,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Ink and wash on paper"
+    ],
+    "techniques": [],
+    "medium_raw": "Ink and wash on paper",
+    "classification": "Paintings",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Image (sight): 8 3/4 x 13 in. (22.2 x 33 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "India (Pahari Hills, Guler)",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Seu Family",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q78710627",
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300386855",
+      "http://vocab.getty.edu/page/aat/300250028"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/nepal/pahari/painting-mss/pahari/images/met_74651.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "df55a4a03eacc9577d6b606354665a32f0ac2e4fa0856fd613557bb9ba2e270e",
+      "bytes": 1919843,
+      "local_path": "library\\south-asia\\nepal\\pahari\\painting-mss\\pahari\\images\\met_74651.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:36:45.564424+00:00"
+}

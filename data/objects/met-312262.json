@@ -1,0 +1,99 @@
+{
+  "id": "met-312262",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "312262",
+    "object_url": "https://www.metmuseum.org/art/collection/search/312262",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1979.206.57",
+    "accession_year": "1979"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Ghana",
+    "ethnicity": "Brong",
+    "tradition": "Brong",
+    "art_form": "metalwork",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a classic Akan brass gold weight in the form of a human head/mask, a type made by Akan-related peoples including the Brong (Abron); the miniature face with incised scarification patterns matches known gold-weight production of this region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "metalwork",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Mask gold weight",
+    "titles_alt": [],
+    "date_text": "17th–18th century (?)",
+    "date_earliest": 1600,
+    "date_latest": 1800,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Brass"
+    ],
+    "techniques": [],
+    "medium_raw": "Brass",
+    "classification": "Metal-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 7 1/2 x W. 3 7/8 x D. 2 5/8 in. (19.1 x 9.9 x 6.7 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Ghana",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Abron artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300262834"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/ghana/brong/metalwork/brong/images/met_312262.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a25c272ecfd5e8a74a2a8f2fc97c42c5cfc24cdbba6b2f6731e31f16e5f83a2a",
+      "bytes": 626424,
+      "local_path": "library\\sub-saharan-africa\\ghana\\brong\\metalwork\\brong\\images\\met_312262.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:07:51.661178+00:00"
+}

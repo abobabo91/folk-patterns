@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1938-1012-1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1938-1012-1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1938-1012-1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1938.1012.1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Sudan",
+    "ethnicity": "Burun",
+    "tradition": "Burun",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "An iron throwing knife with multiple curved blades and a wrapped wooden handle, a weapon type well documented among Nilotic peoples of South Sudan including the Burun, consistent with the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "throwing-knife",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "throwing-knife",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Iron throwing knife of eccentric shape.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-sudan/burun/arms/burun/images/bm_E_Af1938_1012_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4eb6b82268623ee5dbaeb9bae10c00cfcffc7bc1166541d7f4be2bad95e8c0ee",
+      "bytes": 17961,
+      "local_path": "library\\sub-saharan-africa\\south-sudan\\burun\\arms\\burun\\images\\bm_E_Af1938_1012_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T07:09:55.739797+00:00"
+}

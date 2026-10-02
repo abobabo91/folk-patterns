@@ -1,0 +1,95 @@
+{
+  "id": "met-74668",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "74668",
+    "object_url": "https://www.metmuseum.org/art/collection/search/74668",
+    "iiif_manifest": null,
+    "credit_line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2008.359.16",
+    "accession_year": "2008"
+  },
+  "cultural": {
+    "region": "south-asia",
+    "country": "Nepal",
+    "ethnicity": "Pahari",
+    "tradition": "Pahari",
+    "art_form": "painting-mss",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A Pahari-style ink drawing of Shiva and Parvati with their mount animals, a classic subject and style of the Pahari Hills painting tradition (Himalayan foothills of India/Nepal border region), consistent with the claimed Pahari attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "painting-mss",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Shiva and Parvati",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Ink and translucent watercolor on paper"
+    ],
+    "techniques": [],
+    "medium_raw": "Ink and translucent watercolor on paper",
+    "classification": "Paintings",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Image (sight): 5 1/8 x 4 3/4 in. (13 x 12.1 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "India (Pahari Hills)",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q78709901",
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300250117",
+      "http://vocab.getty.edu/page/aat/300250870",
+      "http://vocab.getty.edu/page/ia/901001899",
+      "http://vocab.getty.edu/page/ia/901000021"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/south-asia/nepal/pahari/painting-mss/pahari/images/met_74668.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c4e630ebd63bc9110e6c93cf80dd9128e28c29c69a480ea85d0fd7e149589e3d",
+      "bytes": 1596542,
+      "local_path": "library\\south-asia\\nepal\\pahari\\painting-mss\\pahari\\images\\met_74668.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:36:44.519764+00:00"
+}

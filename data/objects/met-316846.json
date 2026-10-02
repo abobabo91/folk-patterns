@@ -1,0 +1,100 @@
+{
+  "id": "met-316846",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "316846",
+    "object_url": "https://www.metmuseum.org/art/collection/search/316846",
+    "iiif_manifest": null,
+    "credit_line": "Bequest of Arthur M. Bullowa, 1993",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1994.35.18",
+    "accession_year": "1994"
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Peru",
+    "ethnicity": "Quechua",
+    "tradition": "Quechua",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a classic Quechua kero, a wooden ceremonial drinking beaker with incised geometric pigment-inlaid decoration, a known Andean colonial-era Quechua tradition.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Kero (beaker)",
+    "titles_alt": [],
+    "date_text": "Early 17th century",
+    "date_earliest": 1600,
+    "date_latest": 1650,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "tin",
+      "pigment",
+      "resin"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, tin, pigment, resin",
+    "classification": "Wood-Containers",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 8 1/2 × W. 7 1/4 × D. 7 1/4 in. (21.6 × 18.4 × 18.4 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Peru",
+    "made_in_place_alt": [],
+    "current_gallery": "361",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Peruvian artist(s)",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/peru/quechua/household/quechua/images/met_316846.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "3544b64cde1600fccd29dc19953273e675aeb2c22a1755dc0b9d713207689dd3",
+      "bytes": 3045807,
+      "local_path": "library\\latin-america\\peru\\quechua\\household\\quechua\\images\\met_316846.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T03:50:44.440623+00:00"
+}

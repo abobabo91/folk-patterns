@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1933-0109-16",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1933-0109-16",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1933-0109-16",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1933.0109.16",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "South Africa",
+    "ethnicity": "Pedi",
+    "tradition": "Pedi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A coiled grass-and-cane conical dish cover, a traditional household item documented as made by the Pedi people of South Africa; plausible material and form for the region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "dish-cover",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "dish-cover",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Dish cover made of coiled grass and cane.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/south-africa/pedi/household/pedi/images/bm_E_Af1933_0109_16.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "a0932d045686a8d03696fc97c6cf6b5da273b0944c8c36a1576de3afbc7ebe61",
+      "bytes": 80346,
+      "local_path": "library\\sub-saharan-africa\\south-africa\\pedi\\household\\pedi\\images\\bm_E_Af1933_0109_16.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:48:06.340700+00:00"
+}

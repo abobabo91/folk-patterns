@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_2017-Q-232",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_2017-Q-232",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_2017-Q-232",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,2017.Q.232",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Ecuador",
+    "ethnicity": "Saraguros",
+    "tradition": "Saraguros",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A plain black wool poncho with central red seam, consistent with Saraguro traditional dress, matches the museum's attribution to the Saraguro people.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "poncho",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "poncho",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Poncho (part of costume); woven of wool; two rectangles of black wool, sewn together along long sides with red thread, with hole left at centre for head.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/ecuador/saraguros/garment/saraguros/images/bm_E_2017_Q_232.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "062b56b514d55d98411098892722cb08463550d6fe7a0bd58ace3d8e2dc72416",
+      "bytes": 29224,
+      "local_path": "library\\latin-america\\ecuador\\saraguros\\garment\\saraguros\\images\\bm_E_2017_Q_232.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T07:12:42.628432+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91609_SMVK_VKM_fotografi_1965656",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of World Culture",
+    "object_id": "91609_SMVK_VKM_fotografi_1965656",
+    "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1965656?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Brazil",
+    "ethnicity": "Tucano",
+    "tradition": "Tucano",
+    "art_form": "photo",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is an anthropometric-style documentary photograph of a Tucano man (front and profile views) taken by Koch-Grünberg on the Rio Tiquié in 1903-05, with the tribal attribution given directly in the museum record — a documentary photo of dress/daily life of the claimed people.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "photo",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "porträtt, man, fotografi, photograph",
+    "titles_alt": [],
+    "date_text": "1904",
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of World Culture",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/brazil/tucano/photo/tucano/images/eu_91609_SMVK_VKM_fotografi_1965656.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "965bf51a2f36621768b6e7687f5a69f375ddd8be43b37cc1e7b9355ff17f2de7",
+      "bytes": 86510,
+      "local_path": "library\\latin-america\\brazil\\tucano\\photo\\tucano\\images\\eu_91609_SMVK_VKM_fotografi_1965656.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1966792%2Fimage.jpg&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:01:14.779523+00:00"
+}

@@ -282,7 +282,10 @@
         "vetted_art_form": "sculpture",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "modern"
+        "vetted_era": "modern",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "Sculpture of a named historical individual; it does not visibly show broader Kalenjin cultural practices or objects."
       },
       {
         "title": "Bomas of Kenya, Nairobi (54078773523).jpg",
@@ -300,7 +303,10 @@
         "vetted_art_form": "photo",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "modern"
+        "vetted_era": "modern",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "The description explicitly mentions Kalenjin warrior dances, and the image shows performers in coordinated traditional attire."
       },
       {
         "title": "Kipsigis Gourd.jpg",
@@ -318,7 +324,10 @@
         "vetted_art_form": "household",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "traditional"
+        "vetted_era": "traditional",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "The title identifies it as Kipsigis, a Kalenjin subgroup, and the image shows a traditional gourd used for mursik."
       },
       {
         "title": "NixonKiplimoChepseba.jpg",
@@ -444,7 +453,10 @@
         "vetted_art_form": "jewelry",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "archaeological"
+        "vetted_era": "archaeological",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "The caption attributes the pendant to the Elmenteitan culture, not specifically to the Kalenjin."
       },
       {
         "title": "EVM Chelele.jpg",
@@ -462,7 +474,10 @@
         "vetted_art_form": "photo",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "traditional"
+        "vetted_era": "traditional",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "The source category is Kalenjin people, and the image visibly shows people in traditional dress and ceremonial adornment."
       },
       {
         "title": "Kalenjin village 01.jpg",
@@ -480,7 +495,10 @@
         "vetted_art_form": "architectural",
         "vetted_by": "cloud-subagent:sonnet",
         "vetted_image": "good",
-        "vetted_era": "traditional"
+        "vetted_era": "traditional",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-editorial-2026-10-02",
+        "editorial_reason": "The caption explicitly identifies a Kalenjin village and wife’s hut, while the image shows its traditional architecture."
       }
     ],
     "unesco_ich": [],

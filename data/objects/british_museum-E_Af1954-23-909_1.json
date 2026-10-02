@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-909_1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-909_1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-909_1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.909_1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Nigeria",
+    "ethnicity": "Ekoi",
+    "tradition": "Ekoi",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a carved wooden anthropomorphic head from a slit-drum, made by the Ekoi people of Nigeria — a known Ekoi carving tradition (skin-covered or carved figurative heads on drums). It fits the claimed ethnicity and matches the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure; slit-drum",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure; slit-drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1954\r\nCarved wood, anthropomorphic head, with prognathous features, issuing horizontally from the neck which has been cut with a saw.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/nigeria/ekoi/instruments/ekoi/images/bm_E_Af1954_23_909_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "4122e74a66be08a1c06236b7524f9c3971223b3eb98d918b707fb4ad9c740c5d",
+      "bytes": 42356,
+      "local_path": "library\\sub-saharan-africa\\nigeria\\ekoi\\instruments\\ekoi\\images\\bm_E_Af1954_23_909_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:17:42.860236+00:00"
+}

@@ -15,17 +15,19 @@
   "cultural": {
     "region": "sub-saharan-africa",
     "country": "Democratic Republic of the Congo",
-    "ethnicity": "Kongo",
-    "tradition": "Kongo Congo",
+    "ethnicity": "Bembe",
+    "tradition": "Bembe",
     "art_form": "masks-ritual",
     "pattern_density": 0,
     "vision_vetted": true,
-    "vision_by": "cloud-subagent:sonnet",
-    "vision_reason": "The figure is a classic nkisi (power figure) with a medicine bundle on the abdomen, from the Kongo/Bembe region of DR Congo — the museum's own notes even debate Kongo vs. Bembe attribution, both Central African groups whose figures are hard to distinguish stylistically, so it fits the broader claimed ethnicity.",
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The figure is a power figure (nkisi) with medicine bundle on the torso and a crested hairstyle; the museum's own notes cite comparanda suggesting this coiffure type is characteristic of Bembe (not Bakongo as originally labeled), giving positive supporting evidence for the Bembe attribution.",
     "vision_confidence": "MEDIUM",
     "vision_image": "good",
     "vision_era": "traditional",
-    "art_form_vision": "masks-ritual"
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": true
   },
   "physical": {
     "title": "skulptur, fetisch, sculpture, nkisi",
@@ -68,13 +70,14 @@
   },
   "images": [
     {
-      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/kongo/sculpture/kongo-congo/images/eu_91619_SMVK_EM_objekt_1006758.jpg",
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/bembe/masks-ritual/bembe/images/eu_91619_SMVK_EM_objekt_1006758.jpg",
       "iiif_id": null,
       "iiif_base": null,
       "role": "primary",
-      "sha256": "385aefb7c723df39efb8c5ae131b007f0f8654ee271329868de15e2b45c4ec2c",
-      "bytes": 101391,
-      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\sculpture\\kongo-congo\\images\\eu_91619_SMVK_EM_objekt_1006758.jpg"
+      "sha256": "023d5750823e7826248d34cd68d343141ddb3543700608a9d859148375cd015a",
+      "bytes": 130166,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\masks-ritual\\bembe\\images\\eu_91619_SMVK_EM_objekt_1006758.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3020381%2Fbild-1994.11.0103.jpg&type=IMAGE"
     }
   ],
   "map": {
@@ -82,5 +85,5 @@
     "lon": null,
     "geocoded_from": null
   },
-  "processed_at": "2026-07-28T18:46:41.280618+00:00"
+  "processed_at": "2026-10-01T04:21:27.768242+00:00"
 }

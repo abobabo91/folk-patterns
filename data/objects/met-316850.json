@@ -1,0 +1,92 @@
+{
+  "id": "met-316850",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "316850",
+    "object_url": "https://www.metmuseum.org/art/collection/search/316850",
+    "iiif_manifest": null,
+    "credit_line": "Bequest of Arthur M. Bullowa, 1993",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1994.35.22",
+    "accession_year": "1994"
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Peru",
+    "ethnicity": "Quechua",
+    "tradition": "Quechua",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a classic Inca/Quechua kero (ceremonial wooden drinking cup) with carved and resin-inlaid decoration, a hallmark Andean form continued into the colonial period — squarely a Quechua-made object despite the wrong \"ceramic\" label (it's wood).",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 5,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Kero",
+    "titles_alt": [],
+    "date_text": "17th–18th century",
+    "date_earliest": 1600,
+    "date_latest": 1800,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "tin studs",
+      "and pigmented resin inlays"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, tin studs, and pigmented resin inlays",
+    "classification": "Wood-Containers",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H.  9 5/8 in. (24.4 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Peru",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/peru/quechua/household/quechua/images/met_316850.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "5b0815edb4b8833fa624dcb8904a7211e9f32ebf802bef1733eb16f417db03b9",
+      "bytes": 118660,
+      "local_path": "library\\latin-america\\peru\\quechua\\household\\quechua\\images\\met_316850.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T03:50:42.133660+00:00"
+}

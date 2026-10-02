@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1900-48",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1900-48",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1900-48",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1900.48",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Namibia",
+    "ethnicity": "Herero",
+    "tradition": "Herero",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows leather loop legwear/anklets threaded with iron ring coils, consistent with traditional Herero women's leglets made of leather and metal rings. This matches the claimed ethnicity and jewelry category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "leglet",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "leglet",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Woman&#039;s leglet made of seven leather loops threaded with rings of iron and connected by a thong.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/namibia/herero/jewelry/herero/images/bm_E_Af1900_48.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "65a1ce3bd57fed9cc893f05713e33987544eea9e0b3e93eba81184539c595788",
+      "bytes": 74486,
+      "local_path": "library\\sub-saharan-africa\\namibia\\herero\\jewelry\\herero\\images\\bm_E_Af1900_48.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:13:05.730906+00:00"
+}

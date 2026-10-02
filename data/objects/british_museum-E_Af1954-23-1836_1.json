@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1954-23-1836_1",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1954-23-1836_1",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1836_1",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1954.23.1836_1",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Democratic Republic of the Congo",
+    "ethnicity": "Yaka",
+    "tradition": "Yaka",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The object is a carved wooden slit drum/gong with an anthropomorphic figural top (head with horns/ears), a form well documented among the Yaka of DRC, matching the museum's stated maker attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "slit-drum",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "slit-drum",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Register 1954\r\nWood slit gong, incomplete: with bark still adhering to uncarved areas.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/democratic-republic-of-the-congo/yaka/instruments/yaka/images/bm_E_Af1954_23_1836_1.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "746e9c0cd3f85c63f9b94de84c8d99c85bddc8e232b15f3e3bd4216c2a5a66f3",
+      "bytes": 27989,
+      "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\yaka\\instruments\\yaka\\images\\bm_E_Af1954_23_1836_1.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T03:54:45.201348+00:00"
+}

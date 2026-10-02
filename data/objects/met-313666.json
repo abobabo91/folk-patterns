@@ -1,0 +1,101 @@
+{
+  "id": "met-313666",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "313666",
+    "object_url": "https://www.metmuseum.org/art/collection/search/313666",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1979.206.1478",
+    "accession_year": "1979"
+  },
+  "cultural": {
+    "region": "oceania",
+    "country": "Chile",
+    "ethnicity": "Rapa Nui",
+    "tradition": "Rapa Nui",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a classic moai papa (wooden female figure) with carved ribs, incised details, and obsidian/bone inlaid eyes, a well-documented Rapa Nui sculptural type carved in wood for ceremonial purposes.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Moai papa (female figure)",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "obsidian",
+      "paint"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, obsidian, paint",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 23 1/2 × W. 5 3/4 × D. 3 1/2 in. (59.7 × 14.6 × 8.9 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Rapa Nui (Easter Island), Chile",
+    "made_in_place_alt": [],
+    "current_gallery": "352",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Rapa Nui artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025943"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/oceania/chile/rapa-nui/sculpture/rapa-nui/images/met_313666.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "1c0fe63cd2b860d4dd664122dfe28d29100788971e19205d8b93a5da55bbcf0f",
+      "bytes": 736475,
+      "local_path": "library\\oceania\\chile\\rapa-nui\\sculpture\\rapa-nui\\images\\met_313666.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:48:50.469842+00:00"
+}

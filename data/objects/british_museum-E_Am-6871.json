@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am-6871",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am-6871",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am-6871",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am.6871",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Brazil",
+    "ethnicity": "Macushi",
+    "tradition": "Macushi",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows a calabash (gourd) bowl with blackened, decorated interior, a traditional container form used by the Macushi and other Guiana peoples; this is a household object made and used by them, not a ceramic vessel despite the catalogued category.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "bowl",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bowl",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bowl made of calabash; interior blackened.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/brazil/macushi/household/macushi/images/bm_E_Am_6871.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ae8e0e848eb9f95a0651aef9bacafb27621d60a95dc43c68032c6170c21a5516",
+      "bytes": 80876,
+      "local_path": "library\\latin-america\\brazil\\macushi\\household\\macushi\\images\\bm_E_Am_6871.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:04:47.582160+00:00"
+}

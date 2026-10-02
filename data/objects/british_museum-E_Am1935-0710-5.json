@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1935-0710-5",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1935-0710-5",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1935-0710-5",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1935.0710.5",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "east-asia",
+    "country": "Russia",
+    "ethnicity": "Evenki",
+    "tradition": "Evenki",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A reindeer-hide apron decorated with dyed panels, glass beadwork, and horsehair fringe, consistent with Evenki hide clothing traditions and explicitly attributed to Evenki makers by the museum.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "garment; apron (?)",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "garment; apron (?)",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Garment, apron; sewn of reindeer hide died reddish (alder bark) and blackish (soot); apron with panel of green cotton cloth bordered with white and black glass beads at centre, surrounded by concentric bands of hide; bottom decorated with tufts of horsehair.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/east-asia/russia/evenki/garment/evenki/images/bm_E_Am1935_0710_5.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "07b2e40a16cab7cbff5f979418e115af517290623347afa96a28d747c8a4db59",
+      "bytes": 29772,
+      "local_path": "library\\east-asia\\russia\\evenki\\garment\\evenki\\images\\bm_E_Am1935_0710_5.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:23:36.515499+00:00"
+}

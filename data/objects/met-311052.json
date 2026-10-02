@@ -1,0 +1,101 @@
+{
+  "id": "met-311052",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "311052",
+    "object_url": "https://www.metmuseum.org/art/collection/search/311052",
+    "iiif_manifest": null,
+    "credit_line": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1969",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "1978.412.591",
+    "accession_year": "1978"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zambia",
+    "ethnicity": "Tabwa",
+    "tradition": "Tabwa",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "A classic Tabwa carved wooden ancestor figure with characteristic raised scarification patterns, coiffure, and beaded ornaments, fully intact and clearly photographed — a well-known Tabwa sculptural type.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Mukisi Mupasi (ancestor figure)",
+    "titles_alt": [],
+    "date_text": "mid-19th century",
+    "date_earliest": 1830,
+    "date_latest": 1870,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "glass beads",
+      "cord"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, glass beads, cord",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 18 3/16 x W. 4 3/4 x D. 3 3/4 in. (46.3 x 12.1 x 9.5 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Lake Tanganyika region, Democratic Republic of the Congo",
+    "made_in_place_alt": [],
+    "current_gallery": "344",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Tabwa artist",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [
+      "http://vocab.getty.edu/page/aat/300025943"
+    ],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zambia/tabwa/sculpture/tabwa/images/met_311052.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c1c009c94f76e9a90597531fcfa24ca3f46c0e01b839b0ec62a0b33f7ea4bd57",
+      "bytes": 356328,
+      "local_path": "library\\sub-saharan-africa\\zambia\\tabwa\\sculpture\\tabwa\\images\\met_311052.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:19:21.993955+00:00"
+}

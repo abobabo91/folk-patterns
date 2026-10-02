@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1995-11-10",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1995-11-10",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1995-11-10",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1995.11.10",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Mexico",
+    "ethnicity": "Otomi",
+    "tradition": "Otomi",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is an Otomí bark-paper cut-out (amate/papel picado style) depicting a spirit figure with plant motifs, a well-documented traditional Otomí ritual craft used for crop/spirit ceremonies. It clearly matches the claimed ethnicity and object type.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "papercut",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "papercut",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Papercut; made of bark paper (amate in Spanish); spirit figure with hands raised, plants coming out of head, arms and legs cut out of cream-coloured bark paper; represents chile plant.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/otomi/masks-ritual/otomi/images/bm_E_Am1995_11_10.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "cec40d25a8b78470ef5c58ab8bba39c4054cd1a87afe902a16729e27e75ef4d5",
+      "bytes": 49752,
+      "local_path": "library\\latin-america\\mexico\\otomi\\masks-ritual\\otomi\\images\\bm_E_Am1995_11_10.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:07:20.049820+00:00"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "met-105154",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "105154",
+    "object_url": "https://www.metmuseum.org/art/collection/search/105154",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, 1906 (through Sir Purdon Clark)",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "06.935.6",
+    "accession_year": "1906"
+  },
+  "cultural": {
+    "region": "europe",
+    "country": "France",
+    "ethnicity": "Bretons",
+    "tradition": "Bretons",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a black wool skirt with elaborate metallic-thread embroidery, velvet band, and beaded floral trim in the gala style characteristic of Breton festive costume (e.g. Pont-Aven/Bigouden region); such heavily embroidered skirts are a well-documented element of traditional Breton women's dress.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Skirt",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "wool",
+      "wool thread",
+      "metal thread",
+      "glass beads"
+    ],
+    "techniques": [],
+    "medium_raw": "wool, wool thread, metal thread, glass beads",
+    "classification": "Main dress-Womenswear",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "Length: 37 in. (94 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/europe/france/bretons/garment/bretons/images/met_105154.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "51915922828f45479ccf91f58bee689766fb09f48a4e956a748a29f5196c5c2a",
+      "bytes": 295803,
+      "local_path": "library\\europe\\france\\bretons\\garment\\bretons\\images\\met_105154.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T06:54:22.079686+00:00"
+}

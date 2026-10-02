@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1991-07-8",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1991-07-8",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1991-07-8",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1991.07.8",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Uganda",
+    "ethnicity": "Baganda",
+    "tradition": "Baganda",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows a wooden lamellophone (thumb piano/sansa) with iron keys, a resonating triangular soundhole, and a decorative attachment—an instrument type well documented among the Baganda, matching the museum's attribution.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "sansa",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "sansa",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Wood &quot;thumb piano&quot;, sansa. Closed, box-like sounding board, pierced with triangular hole, curved at one end. At other end, two curves meeting at a point beneath iron keys. Small, apparently bovine skull attached with copper wire between keys. Top of board filled with greenish resin.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/uganda/baganda/instruments/baganda/images/bm_E_Af1991_07_8.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "c9aa0c7657a37851a934940384f6f4599c45d6c6ad49de560e11effbdfb7aec5",
+      "bytes": 40302,
+      "local_path": "library\\sub-saharan-africa\\uganda\\baganda\\instruments\\baganda\\images\\bm_E_Af1991_07_8.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:15:21.675856+00:00"
+}

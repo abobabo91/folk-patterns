@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1910-431-a",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1910-431-a",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1910-431-a",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1910.431.a",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Zambia",
+    "ethnicity": "Lozi",
+    "tradition": "Lozi",
+    "art_form": "ceramic",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a large ceramic storage vessel with a lid, raised bands, and rectangular bosses — a traditional Lozi ceramic pot form despite the museum's text calling it \"wood\"; it plausibly belongs to the claimed people and region.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "ceramic",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "bowl",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bowl",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bowl or pot carved of wood with rounded bottom, nearly vertical sides; raised band carved about 1/3 way down from rim, with rectangles carved above and below band.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/zambia/lozi/ceramic/lozi/images/bm_E_Af1910_431_a.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "8672118dd1b6487cda669c9ee1a73109b0a4fe1529b33c9ed6552367cf411996",
+      "bytes": 79257,
+      "local_path": "library\\sub-saharan-africa\\zambia\\lozi\\ceramic\\lozi\\images\\bm_E_Af1910_431_a.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T03:56:46.642986+00:00"
+}

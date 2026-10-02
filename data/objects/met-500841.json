@@ -1,0 +1,92 @@
+{
+  "id": "met-500841",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "500841",
+    "object_url": "https://www.metmuseum.org/art/collection/search/500841",
+    "iiif_manifest": null,
+    "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "89.4.289",
+    "accession_year": "1889"
+  },
+  "cultural": {
+    "region": "southeast-asia",
+    "country": "Vietnam",
+    "ethnicity": "Thái",
+    "tradition": "Thái",
+    "art_form": "instruments",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "The image shows a phin phia, a long-necked plucked lute with a coconut-shell resonator, a traditional instrument of Thai/Tai peoples including Thai groups of Vietnam and Thailand; it is a plausible object for this culture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "instruments",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Phin phia",
+    "titles_alt": [],
+    "date_text": "late 19th century",
+    "date_earliest": 1850,
+    "date_latest": 1900,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "coconut shell",
+      "metal"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, coconut shell, metal",
+    "classification": "Chordophone-Zither-plucked-harpsichord",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "L. 91.4 cm (36 in.)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "Thailand",
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": false
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/southeast-asia/vietnam/thai/instruments/thai/images/met_500841.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "fc5d7fc9233bcdd93ece8d526356ceab83ef966dcd5e52ee786e41e6b2b1c5e0",
+      "bytes": 43418,
+      "local_path": "library\\southeast-asia\\vietnam\\thai\\instruments\\thai\\images\\met_500841.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T05:42:16.271682+00:00"
+}

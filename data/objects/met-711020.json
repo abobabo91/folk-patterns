@@ -1,0 +1,98 @@
+{
+  "id": "met-711020",
+  "source": {
+    "museum": "met",
+    "museum_name": "Metropolitan Museum of Art",
+    "object_id": "711020",
+    "object_url": "https://www.metmuseum.org/art/collection/search/711020",
+    "iiif_manifest": null,
+    "credit_line": "Purchase, Andrea Bollt Bequest, in memory of Robert Bollt Sr. and Robert Bollt Jr., 2016",
+    "rights": "public-domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": "2016.574",
+    "accession_year": "2016"
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Mali",
+    "ethnicity": "Bambara",
+    "tradition": "Bambara",
+    "art_form": "masks-ritual",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a wooden Ci wara antelope headdress used in Bamana (Bambara) agricultural rituals in Mali, a classic ceremonial headpiece of this people, though it is worn on the head as a dance headdress rather than a garment per se.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "masks-ritual",
+    "pick_quality": 5,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Ci wara headdress",
+    "titles_alt": [],
+    "date_text": "19th century",
+    "date_earliest": 1800,
+    "date_latest": 1899,
+    "period": null,
+    "dynasty": null,
+    "materials": [
+      "Wood",
+      "metal"
+    ],
+    "techniques": [],
+    "medium_raw": "Wood, metal",
+    "classification": "Wood-Sculpture",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": "H. 30 × W. 4 1/4 × D. 5 3/4 in. (76.2 × 10.8 × 14.6 cm)",
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": "South-central Mali",
+    "made_in_place_alt": [],
+    "current_gallery": "341",
+    "current_museum": "Metropolitan Museum of Art, New York, NY",
+    "on_display": true
+  },
+  "attribution": {
+    "makers": [
+      {
+        "name": "Bamana numu (blacksmith)",
+        "role": "Artist",
+        "dates": null,
+        "urls": []
+      }
+    ],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": "https://www.wikidata.org/wiki/Q116444611",
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/mali/bambara/masks-ritual/bambara/images/met_711020.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f31819b00bb6a73705fd6b28db649a161c3aa73e23e5a64fd1ef7fbb2783ab07",
+      "bytes": 1144010,
+      "local_path": "library\\sub-saharan-africa\\mali\\bambara\\masks-ritual\\bambara\\images\\met_711020.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:33:05.903342+00:00"
+}

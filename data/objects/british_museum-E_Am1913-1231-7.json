@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Am1913-1231-7",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Am1913-1231-7",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Am1913-1231-7",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Am1913.1231.7",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Mexico",
+    "ethnicity": "Zapotec",
+    "tradition": "Zapotec",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a huipil (traditional women's garment) explicitly attributed by the museum to Zapotec makers, with characteristic green brocade panel and lace trim; this style of festive huipil with lace flounce is documented among Zapotec communities (e.g. San Antonino).",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "huipil",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "huipil",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Huipil; made of organza and brocade; body rectangle of organza with green brocade; round hole cut at top for neck opening, with lace collar sewn on; lace sleeves trimmed with red ribbon at shoulder; lace sewn around bottom of huipil, trimmed with red ribbon.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/mexico/zapotec/garment/zapotec/images/bm_E_Am1913_1231_7.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "22b03d8e963f602c9c82f664a8918057af4249006a8dbea790aec3abae50a70b",
+      "bytes": 82377,
+      "local_path": "library\\latin-america\\mexico\\zapotec\\garment\\zapotec\\images\\bm_E_Am1913_1231_7.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:54:38.901688+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2021009__2B4869308EBF80B91EB22040118EFE6B",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Finnish Heritage Agency",
+    "object_id": "2021009__2B4869308EBF80B91EB22040118EFE6B",
+    "object_url": "https://www.europeana.eu/item/2021009/_2B4869308EBF80B91EB22040118EFE6B?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "license_url": "http://creativecommons.org/licenses/by/4.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "north-america",
+    "country": "United States",
+    "ethnicity": "Lakota",
+    "tradition": "Lakota",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:cloud-claude-sonnet-5",
+    "vision_reason": "This is a hairpipe breastplate made of bone tube beads strung in rows with glass beads and claw ornaments — a classic Plains-style body armor/ornament of the type made and worn by Lakota and other Plains peoples for regalia and defense. It fits both the claimed ethnicity and category as arms/armor.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "rintapanssari",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Finnish Heritage Agency",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/north-america/united-states/lakota/arms/lakota/images/eu_2021009_2B4869308EBF80B91EB22040118EFE6B.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "2e318d223d21fb1f2111c71b2dc0825d69f0f1511c4f3ba5c99932fbba9b1735",
+      "bytes": 76834,
+      "local_path": "library\\north-america\\united-states\\lakota\\arms\\lakota\\images\\eu_2021009_2B4869308EBF80B91EB22040118EFE6B.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D606960%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-01T04:25:46.753509+00:00"
+}
