@@ -44,7 +44,7 @@ ART_FORM — the best fit for what the picture shows: textile (cloth, carpet, fe
 
 IMAGE — good: the subject is clear · weak: small in the frame, obscured, dark or a fragment · unusable: nothing can be made out (blank, placeholder, tiny thumbnail).
 
-ERA — traditional: handmade or traditional life, any date · modern: industrial or mass-produced (machine-printed cloth such as a kanga, factory-woven blankets), modern building, contemporary studio art · archaeological: excavated, or made centuries ago in a tradition no longer practised (Neolithic pottery, an Angkor-era or 10th-century temple bronze or ritual bell now in a museum) — even when it is well made and court or temple art. A painting or manuscript of a living tradition (a Shahnama folio, a Mughal album page) is traditional, however old; one recovered from a tomb (a Book of the Dead) is archaeological.
+ERA — traditional: handmade or traditional life, any date · modern: industrial or mass-produced (machine-printed cloth such as a kanga, factory-woven blankets), modern building, contemporary studio art · archaeological: excavated, or made centuries ago in a tradition no longer practised (Neolithic pottery, an Angkor-era or 10th-century temple bronze or ritual bell now in a museum) — even when it is well made and court or temple art. A painting or manuscript of a living tradition (a Shahnama folio, a Mughal album page) is traditional, however old; one recovered from a tomb (a Book of the Dead) is archaeological. Court art of a tradition still practised today (Benin brass casting, whose guild still works in Benin City) is traditional, however old.
 
 Reply in exactly this format:
 REASON: <one or two sentences: what the picture shows, and why it does or does not fit the claimed ethnicity>

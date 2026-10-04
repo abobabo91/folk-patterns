@@ -788,6 +788,14 @@ peoples. Kept objects already in the library do not count toward the 10 tries,
 so after each load a rerun reaches the next candidates; a `pick` rerun is not a
 leftover-only operation.
 
+Benin court art (2026-10-04): the judge files 16th-century Benin brass plaques as
+"archaeological" (q5, "good" images dropped). Benin brass casting is a living
+tradition (the casters' guild still works in Benin City), so `_LIVING_COURT` in
+`scripts/world_peoples.py` reads "archaeological" as traditional for the Edo
+people, and the judge prompt in `scripts/vet_judge.py` now says so for new
+judgments. The cached Edo verdicts gained 3 objects; most plaques were
+unclassified and have not been judged yet.
+
 **Current coverage (2026-10-02):** `scripts/_vet_status.py` reports 18,740/18,740
 library records judged, 17,838 accepted and 902 dropped. The site index has
 17,684 objects in 450 cultures. This is model-based visual review of all library

@@ -707,6 +707,13 @@ _KIND_FIX = [
 ]
 
 
+# Peoples whose old court art the judge files as "archaeological" although the
+# tradition is still practised. Edo: the Benin brass-casters' guild (Igun
+# Street, Benin City) still works, so the 16th-century plaques are kept
+# (decided 2026-10-04).
+_LIVING_COURT = {"Q1287326"}
+
+
 def _kinds() -> dict:
     p = REPO / "data" / "pool" / "kinds.json"
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
@@ -1172,6 +1179,8 @@ def cmd_pick(only: list[str], shard: str = "", cached_only: bool = False, no_jud
                     print(f"  {cat:13s} {o['id']:22s} drop: photograph of an object ({af})", flush=True)
                     note(r["key"], cat, o, "photo_of_object", af)
                     continue
+                if era == "archaeological" and r["key"] in _LIVING_COURT:
+                    era = "traditional"
                 ok = belongs and era not in ("modern", "archaeological") and image in ("good", "weak") and q >= PICK_QUALITY_MIN
                 if belongs and era not in ("modern", "archaeological") and image in ("good", "weak"):
                     accepted.append({**o, "title": d.get("title"), "image_url": d["image_url"],
