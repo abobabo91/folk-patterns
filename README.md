@@ -144,6 +144,27 @@ cultures receive quiet globe markers and text-matched museum candidates, but
 no vetted objects, writeup, or facets. `unvetted.py build` creates a quiet stub
 shard when no existing atlas ethnicity matches; country-matched stubs are
 placed at a deterministic jitter around the country's polygon centroid.
+A stub is written only when at least one candidate resolves to an image; a
+people with nothing to show stays off the map. Matching reads only vetted
+shards: `build_index.py` writes the stubs into `data/ethnicities/` too, and a
+people matched against its own stub would drop out of `stubs.json` on the next
+build. Country names that differ from `world-countries.geojson` (United States,
+Tanzania, North Macedonia, Côte d'Ivoire, Serbia) are aliased in
+`unvetted.py`; Samoa and Tonga, absent from the 1:110m polygons, have fixed
+points.
+
+State on 2026-10-04 (`report --threshold 6`): 1,049 peoples with evidence,
+570 listed, 479 unreviewed-only. After harvest and resolve, 294 of them have
+at least one resolvable image and appear as stub cultures; the site carries
+38,762 unreviewed objects in all. `docs/gaps.md` shows Europe (214 living
+peoples, 25 on the site) and South Asia (116, 32) as the thinnest regions:
+BM files their objects by place, not by people, so a people-name search
+misses them.
+
+The Astro dev server dies with EMFILE once `data/` is synced (about 19,000
+files). Check the site with `npx astro build` and
+`python -m http.server 4400 --directory site/.vercel/output/static` instead.
+Serve from outside the output folder, or the next build cannot clear it.
 
 ## Adding a new culture (end-to-end, agentic)
 

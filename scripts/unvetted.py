@@ -255,6 +255,30 @@ def _candidate_name(candidate: dict, pick_name: str = "") -> str:
     return re.sub(r"\s+peoples?$", "", str(candidate.get("label", "")), flags=re.I)
 
 
+_SHARDS: list[tuple[dict, set[str]]] | None = None
+
+
+def _vetted_shards() -> list[tuple[dict, set[str]]]:
+    """Vetted ethnicity shards with their name variants, read once per run.
+
+    Stub shards (``unvetted_only``) are left out: build_index writes them into
+    data/ethnicities/ too, and matching a people against its own stub would turn
+    it into a "matched" culture and drop it from stubs.json on the next build."""
+    global _SHARDS
+    if _SHARDS is None:
+        _SHARDS = []
+        for path in sorted(ETHNICITIES_DIR.glob("*.json")):
+            try:
+                shard = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                continue
+            if shard.get("unvetted_only"):
+                continue
+            shard.setdefault("_ethkey", path.stem)
+            _SHARDS.append((shard, _name_variants(str(shard.get("ethnicity", "")))))
+    return _SHARDS
+
+
 def _ethnicity_shards(candidate: dict) -> list[dict]:
     pick_path = WORLD_DIR / "picks" / f"{candidate.get('key')}.json"
     pick_name = ""
@@ -264,15 +288,7 @@ def _ethnicity_shards(candidate: dict) -> list[dict]:
         except json.JSONDecodeError:
             pass
     name_variants = _name_variants(_candidate_name(candidate, pick_name))
-    matches = []
-    for path in sorted(ETHNICITIES_DIR.glob("*.json")):
-        try:
-            shard = json.loads(path.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
-            continue
-        if _name_variants(str(shard.get("ethnicity", ""))) & name_variants:
-            shard.setdefault("_ethkey", path.stem)
-            matches.append(shard)
+    matches = [dict(shard) for shard, variants in _vetted_shards() if variants & name_variants]
     if len(matches) > 1:
         country = _norm(str(candidate.get("country", "")))
         same_country = [m for m in matches if _norm(str(m.get("country", ""))) == country]
@@ -325,15 +341,34 @@ def _ring_centroid(ring: list) -> tuple[float, float, float]:
     return abs(twice_area) / 2, lat_sum / (3 * twice_area), lon_sum / (3 * twice_area)
 
 
+_GEOJSON: dict[str, dict] = {}
+# Wikidata country label -> name in world-countries.geojson.
+_COUNTRY_ALIASES = {
+    "United States": "United States of America",
+    "Tanzania": "United Republic of Tanzania",
+    "North Macedonia": "Macedonia",
+    "Côte d'Ivoire": "Ivory Coast",
+    "Serbia": "Republic of Serbia",
+}
+# Island states too small for the 1:110m country polygons.
+_COUNTRY_POINTS = {"Samoa": (-13.76, -172.1), "Tonga": (-21.18, -175.2)}
+
+
 def _country_centroid(country: str, geojson_path: Path | None = None) -> tuple[float, float] | None:
     path = geojson_path or (REPO / "site" / "public" / "data" / "world-countries.geojson")
-    if not path.exists():
-        return None
-    try:
-        data = json.loads(path.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return None
-    wanted = _norm(country.split("(", 1)[0].strip())
+    data = _GEOJSON.get(str(path))
+    if data is None:
+        if not path.exists():
+            return None
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            return None
+        _GEOJSON[str(path)] = data
+    plain = country.split("(", 1)[0].strip()
+    if plain in _COUNTRY_POINTS:
+        return _COUNTRY_POINTS[plain]
+    wanted = _norm(_COUNTRY_ALIASES.get(plain, plain))
     for feature in data.get("features", []):
         name = str((feature.get("properties") or {}).get("name") or "")
         if _norm(name) != wanted:
@@ -445,6 +480,8 @@ def _object_url(source: str, oid: str) -> str:
 
 
 def cmd_build(only: list[str]) -> None:
+    global _SHARDS
+    _SHARDS = None
     wanted = {x.casefold() for x in only}
     candidates = [r for r in _jsonl(WORLD_DIR / "candidates.jsonl") if _only(r, wanted)]
     coverage = _coverage()
@@ -515,6 +552,10 @@ def cmd_build(only: list[str]) -> None:
                 else:
                     buckets.setdefault(category, []).append(item)
         count = sum(len(items) for items in buckets.values()) + len(other)
+        if stub and not count:
+            # A culture with nothing to show is not put on the map.
+            stubs.pop(str(candidate.get("key", "")), None)
+            continue
         shard = {
             "ethnicity_key": ethkey, "people_key": candidate["key"], "count": count,
             "buckets": buckets, "other": other,

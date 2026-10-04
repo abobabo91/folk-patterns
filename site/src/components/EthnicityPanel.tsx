@@ -346,7 +346,7 @@ function UnvettedSection({ ethKey, count, openByDefault = false }: { ethKey: str
       <summary className="cursor-pointer font-serif text-lg font-medium text-parchment/80">
         Unreviewed museum objects ({count})
       </summary>
-      <p className="mt-3 border border-amber-400/25 bg-amber-400/5 p-3 text-xs leading-relaxed text-parchment/65">
+      <p className="mt-3 border border-amber-400/25 bg-amber-400/5 p-3 text-xs leading-relaxed text-parchment/70">
         These objects come from museum records matched to this culture by text only. We have not reviewed them, so some may be wrongly attributed, modern, or poor images. Images load from the museum&apos;s own server.
       </p>
       {loading && <p className="sub-mono mt-4 text-sm">Loading…</p>}
@@ -366,7 +366,7 @@ function UnvettedSection({ ethKey, count, openByDefault = false }: { ethKey: str
             <summary className="cursor-pointer font-serif text-lg font-medium text-parchment/75">
               Other, uncategorised ({data.other.length})
             </summary>
-            <p className="mt-2 text-xs text-parchment/55">Not reviewed and not sorted into a category.</p>
+            <p className="mt-2 text-xs text-parchment/60">Not reviewed and not sorted into a category.</p>
             <div className="mt-4"><UnvettedGrid items={data.other} /></div>
           </details>
         </div>
@@ -522,7 +522,7 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
               <h2 className="mt-1 font-serif text-4xl font-medium leading-tight">{point.ethnicity}</h2>
               {unvettedOnly ? (
                 <>
-                  <p className="mt-2 text-sm text-amber-300/80">Not yet reviewed — museum objects matched by text only</p>
+                  <p className="mt-2 text-sm text-amber-400">Not yet reviewed — museum objects matched by text only</p>
                   <p className="sub-meta mt-2 text-sm">{shard?.unvetted_count ?? 0} unreviewed objects</p>
                 </>
               ) : (

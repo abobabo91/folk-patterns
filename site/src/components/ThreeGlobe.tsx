@@ -322,7 +322,7 @@ function Markers({
                     fontSize: 10, opacity: 0.6, textTransform: 'uppercase',
                     letterSpacing: '0.1em',
                   }}>
-                    {it.object_count} obj
+                    {it.unvetted_only ? 'unreviewed' : `${it.object_count} obj`}
                   </span>
                 </div>
               </Html>

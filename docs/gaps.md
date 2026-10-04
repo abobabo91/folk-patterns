@@ -8,210 +8,774 @@ Living peoples are classified Wikidata items with `people: true`. Source evidenc
 
 | site region | living peoples | with source evidence | vetted cultures | unreviewed-only cultures |
 |---|---:|---:|---:|---:|
-| central-asia | 9 | 7 | 14 | 0 |
-| east-asia | 27 | 26 | 16 | 0 |
-| europe | 54 | 52 | 4 | 0 |
-| latin-america | 152 | 148 | 46 | 0 |
-| middle-east-north-africa | 12 | 12 | 15 | 0 |
-| north-america | 81 | 75 | 70 | 0 |
-| oceania | 34 | 31 | 17 | 0 |
-| south-asia | 53 | 49 | 16 | 0 |
-| southeast-asia | 95 | 95 | 50 | 0 |
-| sub-saharan-africa | 320 | 304 | 212 | 0 |
+| central-asia | 40 | 9 | 14 | 1 |
+| east-asia | 304 | 92 | 16 | 27 |
+| europe | 214 | 85 | 4 | 21 |
+| latin-america | 517 | 235 | 46 | 93 |
+| middle-east-north-africa | 21 | 13 | 15 | 1 |
+| north-america | 105 | 77 | 70 | 45 |
+| oceania | 64 | 37 | 17 | 7 |
+| south-asia | 116 | 62 | 16 | 16 |
+| southeast-asia | 200 | 125 | 50 | 39 |
+| sub-saharan-africa | 445 | 314 | 212 | 44 |
 
 ## By country
 
 | site region | country | living peoples | with source evidence | vetted cultures | unreviewed-only cultures |
 |---|---|---:|---:|---:|---:|
-| central-asia | Afghanistan | 0 | 0 | 4 | 0 |
-| central-asia | China | 2 | 2 | 0 | 0 |
+| central-asia | Afghanistan | 5 | 1 | 4 | 1 |
+| central-asia | China | 6 | 2 | 0 | 0 |
 | central-asia | China (Xinjiang) | 0 | 0 | 2 | 0 |
-| central-asia | Kazakhstan | 1 | 1 | 1 | 0 |
-| central-asia | Kyrgyzstan | 1 | 1 | 1 | 0 |
-| central-asia | Tajikistan | 1 | 1 | 2 | 0 |
-| central-asia | Turkmenistan | 3 | 1 | 1 | 0 |
-| central-asia | Uzbekistan | 1 | 1 | 3 | 0 |
-| east-asia | China | 12 | 12 | 4 | 0 |
+| central-asia | India | 1 | 0 | 0 | 0 |
+| central-asia | Kazakhstan | 3 | 1 | 1 | 0 |
+| central-asia | Kyrgyzstan | 2 | 1 | 1 | 0 |
+| central-asia | Mongolia | 7 | 1 | 0 | 0 |
+| central-asia | Pakistan | 1 | 0 | 0 | 0 |
+| central-asia | Russia | 3 | 0 | 0 | 0 |
+| central-asia | Tajikistan | 5 | 1 | 2 | 0 |
+| central-asia | Turkmenistan | 4 | 1 | 1 | 0 |
+| central-asia | Uzbekistan | 3 | 1 | 3 | 0 |
+| east-asia | Afghanistan | 1 | 0 | 0 | 0 |
+| east-asia | Armenia | 1 | 1 | 0 | 0 |
+| east-asia | Azerbaijan | 12 | 2 | 0 | 0 |
+| east-asia | Bahrain | 1 | 0 | 0 | 0 |
+| east-asia | Bangladesh | 1 | 0 | 0 | 0 |
+| east-asia | Bhutan | 2 | 0 | 0 | 0 |
+| east-asia | China | 47 | 20 | 4 | 8 |
 | east-asia | China (Tibet) | 0 | 0 | 1 | 0 |
-| east-asia | Japan | 2 | 2 | 1 | 0 |
-| east-asia | Mongolia | 1 | 1 | 1 | 0 |
-| east-asia | Russia | 3 | 3 | 6 | 0 |
+| east-asia | Cyprus | 1 | 0 | 0 | 0 |
+| east-asia | Egypt | 1 | 0 | 0 | 0 |
+| east-asia | Georgia | 11 | 2 | 0 | 2 |
+| east-asia | India | 27 | 6 | 0 | 0 |
+| east-asia | Indonesia | 13 | 5 | 0 | 0 |
+| east-asia | Iran | 20 | 3 | 0 | 0 |
+| east-asia | Iraq | 6 | 4 | 0 | 1 |
+| east-asia | Israel | 3 | 0 | 0 | 0 |
+| east-asia | Japan | 4 | 2 | 1 | 0 |
+| east-asia | Laos | 1 | 0 | 0 | 0 |
+| east-asia | Lebanon | 2 | 1 | 0 | 1 |
+| east-asia | Malaysia | 1 | 0 | 0 | 0 |
+| east-asia | Mongolia | 6 | 2 | 1 | 1 |
+| east-asia | Myanmar | 1 | 0 | 0 | 0 |
+| east-asia | Nepal | 6 | 3 | 0 | 0 |
+| east-asia | Oman | 1 | 0 | 0 | 0 |
+| east-asia | Pakistan | 2 | 0 | 0 | 0 |
+| east-asia | Palestine | 1 | 1 | 0 | 0 |
+| east-asia | Philippines | 5 | 2 | 0 | 0 |
+| east-asia | Russia | 75 | 26 | 6 | 12 |
+| east-asia | Saudi Arabia | 2 | 0 | 0 | 0 |
 | east-asia | South Korea | 1 | 1 | 0 | 0 |
-| east-asia | Taiwan | 8 | 7 | 3 | 0 |
-| europe | Albania | 1 | 1 | 0 | 0 |
-| europe | Austria | 1 | 1 | 0 | 0 |
-| europe | Belgium | 1 | 1 | 0 | 0 |
-| europe | Bulgaria | 2 | 2 | 0 | 0 |
+| east-asia | Sri Lanka | 1 | 0 | 0 | 0 |
+| east-asia | Syria | 2 | 0 | 0 | 0 |
+| east-asia | Taiwan | 25 | 8 | 3 | 2 |
+| east-asia | Thailand | 1 | 1 | 0 | 0 |
+| east-asia | Turkey | 11 | 2 | 0 | 0 |
+| east-asia | Vietnam | 5 | 0 | 0 | 0 |
+| east-asia | Yemen | 4 | 0 | 0 | 0 |
+| europe | Albania | 7 | 2 | 0 | 0 |
+| europe | Austria | 3 | 1 | 0 | 0 |
+| europe | Azerbaijan | 1 | 0 | 0 | 0 |
+| europe | Belarus | 1 | 1 | 0 | 0 |
+| europe | Belgium | 2 | 1 | 0 | 0 |
+| europe | Bosnia and Herzegovina | 1 | 1 | 0 | 0 |
+| europe | Bulgaria | 4 | 3 | 0 | 0 |
+| europe | Croatia | 5 | 1 | 0 | 0 |
 | europe | Cyprus | 1 | 1 | 0 | 0 |
-| europe | Czech Republic | 1 | 1 | 0 | 0 |
-| europe | Estonia | 2 | 2 | 0 | 0 |
-| europe | Finland | 4 | 4 | 0 | 0 |
-| europe | France | 2 | 2 | 1 | 0 |
+| europe | Czech Republic | 3 | 2 | 0 | 1 |
+| europe | Estonia | 5 | 3 | 0 | 2 |
+| europe | Finland | 6 | 4 | 0 | 3 |
+| europe | France | 5 | 4 | 1 | 0 |
 | europe | Georgia | 1 | 1 | 0 | 0 |
-| europe | Germany | 2 | 2 | 0 | 0 |
-| europe | Greece | 3 | 2 | 1 | 0 |
-| europe | Hungary | 1 | 1 | 0 | 0 |
-| europe | Ireland | 1 | 1 | 0 | 0 |
-| europe | Italy | 1 | 1 | 0 | 0 |
-| europe | Latvia | 1 | 1 | 0 | 0 |
+| europe | Germany | 8 | 3 | 0 | 1 |
+| europe | Greece | 9 | 2 | 1 | 0 |
+| europe | Hungary | 9 | 1 | 0 | 0 |
+| europe | Iceland | 1 | 1 | 0 | 0 |
+| europe | Ireland | 5 | 1 | 0 | 0 |
+| europe | Isle of Man | 1 | 0 | 0 | 0 |
+| europe | Italy | 7 | 3 | 0 | 1 |
+| europe | Kosovo | 4 | 0 | 0 | 0 |
+| europe | Latvia | 5 | 1 | 0 | 1 |
+| europe | Lithuania | 4 | 0 | 0 | 0 |
+| europe | Luxembourg | 1 | 1 | 0 | 1 |
 | europe | Malta | 1 | 1 | 0 | 0 |
-| europe | Moldova | 1 | 1 | 0 | 0 |
-| europe | Netherlands | 1 | 1 | 0 | 0 |
-| europe | North Macedonia | 1 | 1 | 0 | 0 |
-| europe | Norway | 3 | 3 | 0 | 0 |
+| europe | Moldova | 3 | 1 | 0 | 0 |
+| europe | Montenegro | 4 | 0 | 0 | 0 |
+| europe | Netherlands | 2 | 2 | 0 | 0 |
+| europe | North Macedonia | 5 | 2 | 0 | 0 |
+| europe | Norway | 4 | 3 | 0 | 0 |
 | europe | Norway / Sweden / Finland | 0 | 0 | 1 | 0 |
-| europe | Poland | 1 | 1 | 0 | 0 |
+| europe | Poland | 12 | 2 | 0 | 0 |
 | europe | Portugal | 1 | 1 | 0 | 0 |
-| europe | Romania | 5 | 4 | 1 | 0 |
-| europe | Russia | 9 | 9 | 0 | 0 |
-| europe | Slovakia | 1 | 1 | 0 | 0 |
-| europe | Spain | 2 | 2 | 0 | 0 |
-| europe | Sweden | 1 | 1 | 0 | 0 |
-| europe | United Kingdom | 2 | 2 | 0 | 0 |
-| latin-america | Argentina | 7 | 7 | 4 | 0 |
-| latin-america | Bolivia | 10 | 10 | 1 | 0 |
-| latin-america | Brazil | 27 | 27 | 8 | 0 |
-| latin-america | Canada | 12 | 12 | 0 | 0 |
-| latin-america | Chile | 4 | 4 | 2 | 0 |
-| latin-america | Colombia | 10 | 10 | 2 | 0 |
-| latin-america | Dominican Republic | 1 | 1 | 0 | 0 |
-| latin-america | Ecuador | 3 | 3 | 3 | 0 |
-| latin-america | El Salvador | 1 | 1 | 0 | 0 |
+| europe | Romania | 10 | 5 | 1 | 1 |
+| europe | Russia | 38 | 16 | 0 | 0 |
+| europe | Serbia | 3 | 1 | 0 | 1 |
+| europe | Slovakia | 2 | 1 | 0 | 0 |
+| europe | Slovenia | 2 | 1 | 0 | 0 |
+| europe | Spain | 7 | 6 | 0 | 5 |
+| europe | Sweden | 3 | 1 | 0 | 1 |
+| europe | Switzerland | 2 | 0 | 0 | 0 |
+| europe | Turkey | 1 | 0 | 0 | 0 |
+| europe | Ukraine | 10 | 2 | 0 | 2 |
+| europe | United Kingdom | 5 | 2 | 0 | 1 |
+| latin-america | Argentina | 11 | 7 | 4 | 1 |
+| latin-america | Bolivia | 19 | 16 | 1 | 14 |
+| latin-america | Brazil | 103 | 45 | 8 | 26 |
+| latin-america | Canada | 31 | 16 | 0 | 0 |
+| latin-america | Chile | 9 | 5 | 2 | 3 |
+| latin-america | Colombia | 28 | 12 | 2 | 8 |
+| latin-america | Costa Rica | 2 | 0 | 0 | 0 |
+| latin-america | Cuba | 1 | 0 | 0 | 0 |
+| latin-america | Dominican Republic | 1 | 1 | 0 | 1 |
+| latin-america | Ecuador | 14 | 7 | 3 | 4 |
+| latin-america | El Salvador | 1 | 1 | 0 | 1 |
 | latin-america | France | 1 | 1 | 0 | 0 |
-| latin-america | Guatemala | 9 | 9 | 4 | 0 |
-| latin-america | Guyana | 3 | 2 | 1 | 0 |
-| latin-america | Honduras | 1 | 1 | 0 | 0 |
-| latin-america | Mexico | 11 | 11 | 10 | 0 |
-| latin-america | Nicaragua | 2 | 2 | 0 | 0 |
-| latin-america | Panama | 3 | 3 | 1 | 0 |
-| latin-america | Paraguay | 4 | 4 | 1 | 0 |
-| latin-america | Peru | 9 | 9 | 5 | 0 |
-| latin-america | Trinidad and Tobago | 1 | 1 | 1 | 0 |
-| latin-america | United States | 27 | 24 | 0 | 0 |
-| latin-america | Venezuela | 6 | 6 | 3 | 0 |
-| middle-east-north-africa | Algeria | 1 | 1 | 1 | 0 |
+| latin-america | French Guiana | 1 | 0 | 0 | 0 |
+| latin-america | Guatemala | 19 | 11 | 4 | 4 |
+| latin-america | Guyana | 3 | 2 | 1 | 2 |
+| latin-america | Honduras | 3 | 2 | 0 | 1 |
+| latin-america | Mexico | 35 | 19 | 10 | 10 |
+| latin-america | Nicaragua | 3 | 3 | 0 | 1 |
+| latin-america | Panama | 6 | 5 | 1 | 4 |
+| latin-america | Paraguay | 10 | 7 | 1 | 4 |
+| latin-america | Peru | 22 | 10 | 5 | 4 |
+| latin-america | Suriname | 3 | 0 | 0 | 0 |
+| latin-america | Trinidad and Tobago | 1 | 1 | 1 | 1 |
+| latin-america | United States | 177 | 55 | 0 | 0 |
+| latin-america | Uruguay | 1 | 1 | 0 | 0 |
+| latin-america | Venezuela | 12 | 8 | 3 | 4 |
+| middle-east-north-africa | Algeria | 3 | 1 | 1 | 0 |
 | middle-east-north-africa | Armenia | 0 | 0 | 1 | 0 |
 | middle-east-north-africa | Chad | 1 | 1 | 0 | 0 |
-| middle-east-north-africa | Egypt | 3 | 3 | 2 | 0 |
+| middle-east-north-africa | Egypt | 5 | 4 | 2 | 0 |
 | middle-east-north-africa | Greece | 1 | 1 | 0 | 0 |
-| middle-east-north-africa | Iran | 1 | 1 | 5 | 0 |
-| middle-east-north-africa | Morocco | 1 | 1 | 2 | 0 |
+| middle-east-north-africa | Iran | 2 | 1 | 5 | 0 |
+| middle-east-north-africa | Morocco | 5 | 1 | 2 | 0 |
 | middle-east-north-africa | Palestine | 0 | 0 | 1 | 0 |
 | middle-east-north-africa | Saudi Arabia | 1 | 1 | 0 | 0 |
 | middle-east-north-africa | Sudan | 2 | 2 | 0 | 0 |
-| middle-east-north-africa | Tunisia | 1 | 1 | 1 | 0 |
+| middle-east-north-africa | Tunisia | 1 | 1 | 1 | 1 |
 | middle-east-north-africa | Turkey | 0 | 0 | 2 | 0 |
-| north-america | Canada | 18 | 17 | 16 | 0 |
+| north-america | Canada | 26 | 19 | 16 | 7 |
 | north-america | Canada / Greenland | 0 | 0 | 1 | 0 |
 | north-america | Canada / United States | 0 | 0 | 1 | 0 |
 | north-america | Denmark | 1 | 1 | 0 | 0 |
+| north-america | Greenland | 2 | 0 | 0 | 0 |
 | north-america | Mexico | 4 | 4 | 0 | 0 |
-| north-america | United States | 58 | 53 | 52 | 0 |
-| oceania | Australia | 7 | 7 | 4 | 0 |
+| north-america | United States | 72 | 53 | 52 | 38 |
+| oceania | Australia | 15 | 8 | 4 | 1 |
 | oceania | Chile | 1 | 1 | 1 | 0 |
-| oceania | Fiji | 1 | 1 | 1 | 0 |
+| oceania | Cook Islands | 1 | 0 | 0 | 0 |
+| oceania | Federated States of Micronesia | 2 | 0 | 0 | 0 |
+| oceania | Fiji | 2 | 1 | 1 | 0 |
 | oceania | France | 1 | 1 | 0 | 0 |
 | oceania | French Polynesia | 1 | 1 | 1 | 0 |
-| oceania | Indonesia | 6 | 6 | 0 | 0 |
+| oceania | Indonesia | 17 | 8 | 0 | 0 |
+| oceania | Japan | 1 | 0 | 0 | 0 |
 | oceania | New Caledonia | 0 | 0 | 1 | 0 |
-| oceania | New Zealand | 5 | 2 | 2 | 0 |
+| oceania | New Zealand | 6 | 2 | 2 | 0 |
+| oceania | Northern Mariana Islands | 1 | 0 | 0 | 0 |
 | oceania | Palau | 1 | 1 | 1 | 0 |
-| oceania | Papua New Guinea | 7 | 7 | 5 | 0 |
-| oceania | Samoa | 1 | 1 | 0 | 0 |
-| oceania | Tonga | 1 | 1 | 0 | 0 |
+| oceania | Papua New Guinea | 11 | 10 | 5 | 4 |
+| oceania | Samoa | 1 | 1 | 0 | 1 |
+| oceania | Tonga | 1 | 1 | 0 | 1 |
 | oceania | United States | 2 | 2 | 1 | 0 |
-| south-asia | Afghanistan | 4 | 3 | 0 | 0 |
-| south-asia | Bangladesh | 1 | 1 | 0 | 0 |
+| south-asia | Afghanistan | 5 | 3 | 0 | 0 |
+| south-asia | Bangladesh | 6 | 4 | 0 | 1 |
 | south-asia | Georgia | 1 | 1 | 0 | 0 |
-| south-asia | India | 35 | 32 | 14 | 0 |
-| south-asia | Nepal | 5 | 5 | 1 | 0 |
-| south-asia | Pakistan | 6 | 6 | 0 | 0 |
-| south-asia | Sri Lanka | 1 | 1 | 1 | 0 |
-| southeast-asia | Brunei | 1 | 1 | 1 | 0 |
-| southeast-asia | Cambodia | 1 | 1 | 1 | 0 |
-| southeast-asia | China | 4 | 4 | 0 | 0 |
-| southeast-asia | India | 2 | 2 | 0 | 0 |
-| southeast-asia | Indonesia | 30 | 30 | 16 | 0 |
-| southeast-asia | Laos | 4 | 4 | 1 | 0 |
-| southeast-asia | Malaysia | 15 | 15 | 12 | 0 |
-| southeast-asia | Myanmar | 16 | 16 | 7 | 0 |
-| southeast-asia | Philippines | 7 | 7 | 5 | 0 |
-| southeast-asia | Thailand | 6 | 6 | 3 | 0 |
-| southeast-asia | Vietnam | 9 | 9 | 4 | 0 |
-| sub-saharan-africa | Angola | 5 | 5 | 1 | 0 |
-| sub-saharan-africa | Armenia | 1 | 1 | 0 | 0 |
-| sub-saharan-africa | Azerbaijan | 1 | 1 | 0 | 0 |
-| sub-saharan-africa | Benin | 2 | 2 | 1 | 0 |
-| sub-saharan-africa | Botswana | 1 | 1 | 2 | 0 |
-| sub-saharan-africa | Burkina Faso | 5 | 5 | 2 | 0 |
-| sub-saharan-africa | Cameroon | 11 | 10 | 7 | 0 |
-| sub-saharan-africa | Central African Republic | 4 | 4 | 4 | 0 |
-| sub-saharan-africa | Chad | 8 | 8 | 6 | 0 |
-| sub-saharan-africa | Côte d'Ivoire | 1 | 1 | 1 | 0 |
+| south-asia | India | 79 | 39 | 14 | 11 |
+| south-asia | Indonesia | 1 | 1 | 0 | 0 |
+| south-asia | Maldives | 1 | 0 | 0 | 0 |
+| south-asia | Myanmar | 1 | 0 | 0 | 0 |
+| south-asia | Nepal | 10 | 5 | 1 | 2 |
+| south-asia | Pakistan | 9 | 8 | 0 | 2 |
+| south-asia | Sri Lanka | 3 | 1 | 1 | 0 |
+| southeast-asia | Brunei | 2 | 1 | 1 | 0 |
+| southeast-asia | Cambodia | 3 | 2 | 1 | 0 |
+| southeast-asia | China | 6 | 6 | 0 | 0 |
+| southeast-asia | East Timor | 1 | 0 | 0 | 0 |
+| southeast-asia | India | 3 | 2 | 0 | 0 |
+| southeast-asia | Indonesia | 59 | 43 | 16 | 21 |
+| southeast-asia | Laos | 9 | 6 | 1 | 0 |
+| southeast-asia | Malaysia | 25 | 16 | 12 | 2 |
+| southeast-asia | Myanmar | 26 | 17 | 7 | 4 |
+| southeast-asia | Philippines | 27 | 13 | 5 | 7 |
+| southeast-asia | Thailand | 9 | 6 | 3 | 2 |
+| southeast-asia | Timor-Leste | 2 | 0 | 0 | 0 |
+| southeast-asia | Vietnam | 28 | 13 | 4 | 3 |
+| sub-saharan-africa | Algeria | 1 | 0 | 0 | 0 |
+| sub-saharan-africa | Angola | 6 | 5 | 1 | 2 |
+| sub-saharan-africa | Benin | 5 | 3 | 1 | 1 |
+| sub-saharan-africa | Botswana | 5 | 2 | 2 | 1 |
+| sub-saharan-africa | Burkina Faso | 5 | 5 | 2 | 1 |
+| sub-saharan-africa | Cameroon | 14 | 10 | 7 | 1 |
+| sub-saharan-africa | Central African Republic | 6 | 4 | 4 | 1 |
+| sub-saharan-africa | Chad | 11 | 8 | 6 | 1 |
+| sub-saharan-africa | Côte d'Ivoire | 3 | 1 | 1 | 0 |
 | sub-saharan-africa | Côte d'Ivoire / Liberia | 0 | 0 | 2 | 0 |
-| sub-saharan-africa | Democratic Republic of the Congo | 23 | 20 | 17 | 0 |
+| sub-saharan-africa | Democratic Republic of the Congo | 27 | 22 | 17 | 3 |
 | sub-saharan-africa | Djibouti / Eritrea | 0 | 0 | 1 | 0 |
-| sub-saharan-africa | Egypt | 1 | 1 | 0 | 0 |
+| sub-saharan-africa | Egypt | 3 | 1 | 0 | 0 |
 | sub-saharan-africa | Equatorial Guinea | 3 | 3 | 1 | 0 |
-| sub-saharan-africa | Eritrea | 5 | 5 | 1 | 0 |
+| sub-saharan-africa | Eritrea | 7 | 5 | 1 | 2 |
 | sub-saharan-africa | Eswatini | 1 | 1 | 1 | 0 |
-| sub-saharan-africa | Ethiopia | 7 | 7 | 5 | 0 |
-| sub-saharan-africa | Gabon | 3 | 1 | 2 | 0 |
-| sub-saharan-africa | Georgia | 2 | 2 | 0 | 0 |
-| sub-saharan-africa | Ghana | 13 | 12 | 11 | 0 |
-| sub-saharan-africa | Guinea | 6 | 6 | 4 | 0 |
-| sub-saharan-africa | Guinea-Bissau | 2 | 2 | 2 | 0 |
-| sub-saharan-africa | India | 1 | 1 | 0 | 0 |
-| sub-saharan-africa | Iran | 2 | 2 | 0 | 0 |
-| sub-saharan-africa | Iraq | 2 | 2 | 0 | 0 |
-| sub-saharan-africa | Ivory Coast | 2 | 2 | 0 | 0 |
-| sub-saharan-africa | Kenya | 22 | 21 | 15 | 0 |
-| sub-saharan-africa | Liberia | 4 | 4 | 3 | 0 |
-| sub-saharan-africa | Madagascar | 14 | 14 | 11 | 0 |
-| sub-saharan-africa | Malawi | 3 | 3 | 1 | 0 |
-| sub-saharan-africa | Mali | 7 | 7 | 5 | 0 |
-| sub-saharan-africa | Mozambique | 3 | 3 | 2 | 0 |
-| sub-saharan-africa | Namibia | 4 | 4 | 4 | 0 |
-| sub-saharan-africa | Niger | 4 | 4 | 1 | 0 |
-| sub-saharan-africa | Nigeria | 34 | 31 | 27 | 0 |
-| sub-saharan-africa | Palestine | 1 | 1 | 0 | 0 |
-| sub-saharan-africa | Republic of the Congo | 4 | 3 | 2 | 0 |
-| sub-saharan-africa | Russia | 9 | 9 | 0 | 0 |
+| sub-saharan-africa | Ethiopia | 26 | 11 | 5 | 2 |
+| sub-saharan-africa | Gabon | 4 | 1 | 2 | 0 |
+| sub-saharan-africa | Ghana | 32 | 16 | 11 | 1 |
+| sub-saharan-africa | Guinea | 10 | 8 | 4 | 2 |
+| sub-saharan-africa | Guinea-Bissau | 5 | 2 | 2 | 0 |
+| sub-saharan-africa | Ivory Coast | 4 | 2 | 0 | 0 |
+| sub-saharan-africa | Kenya | 26 | 22 | 15 | 2 |
+| sub-saharan-africa | Liberia | 8 | 6 | 3 | 3 |
+| sub-saharan-africa | Libya | 1 | 0 | 0 | 0 |
+| sub-saharan-africa | Madagascar | 19 | 14 | 11 | 0 |
+| sub-saharan-africa | Malawi | 4 | 4 | 1 | 3 |
+| sub-saharan-africa | Mali | 11 | 9 | 5 | 3 |
+| sub-saharan-africa | Mauritania | 1 | 0 | 0 | 0 |
+| sub-saharan-africa | Mozambique | 4 | 4 | 2 | 2 |
+| sub-saharan-africa | Namibia | 7 | 7 | 4 | 1 |
+| sub-saharan-africa | Niger | 7 | 5 | 1 | 1 |
+| sub-saharan-africa | Nigeria | 38 | 32 | 27 | 4 |
+| sub-saharan-africa | Republic of the Congo | 5 | 3 | 2 | 0 |
 | sub-saharan-africa | Rwanda | 3 | 3 | 2 | 0 |
-| sub-saharan-africa | Senegal | 7 | 7 | 4 | 0 |
-| sub-saharan-africa | Sierra Leone | 5 | 5 | 4 | 0 |
-| sub-saharan-africa | Somalia | 1 | 1 | 1 | 0 |
-| sub-saharan-africa | South Africa | 13 | 9 | 7 | 0 |
-| sub-saharan-africa | South Sudan | 12 | 12 | 10 | 0 |
-| sub-saharan-africa | Sudan | 4 | 4 | 4 | 0 |
-| sub-saharan-africa | Tanzania | 31 | 31 | 24 | 0 |
-| sub-saharan-africa | Togo | 2 | 2 | 0 | 0 |
-| sub-saharan-africa | Turkey | 2 | 2 | 0 | 0 |
-| sub-saharan-africa | Uganda | 10 | 10 | 7 | 0 |
-| sub-saharan-africa | Zambia | 5 | 5 | 5 | 0 |
-| sub-saharan-africa | Zimbabwe | 4 | 4 | 2 | 0 |
+| sub-saharan-africa | Senegal | 10 | 7 | 4 | 1 |
+| sub-saharan-africa | Sierra Leone | 6 | 5 | 4 | 1 |
+| sub-saharan-africa | Somalia | 2 | 1 | 1 | 0 |
+| sub-saharan-africa | South Africa | 16 | 9 | 7 | 0 |
+| sub-saharan-africa | South Sudan | 17 | 12 | 10 | 0 |
+| sub-saharan-africa | Sudan | 6 | 5 | 4 | 1 |
+| sub-saharan-africa | Tanzania | 44 | 33 | 24 | 2 |
+| sub-saharan-africa | Togo | 4 | 2 | 0 | 0 |
+| sub-saharan-africa | Uganda | 15 | 12 | 7 | 2 |
+| sub-saharan-africa | Western Sahara | 1 | 0 | 0 | 0 |
+| sub-saharan-africa | Zambia | 6 | 5 | 5 | 0 |
+| sub-saharan-africa | Zimbabwe | 6 | 4 | 2 | 0 |
 
 ## Visible gaps
 
 Peoples below have at least 20 Wikipedia sitelinks, are classified as people, and have no evidence in the current museum-source report.
 
+### Afghanistan (central-asia)
+
+- Wakhi people (Q2604583, 31 sitelinks)
+
+### China (central-asia)
+
+- Chinese Tatars (Q1339276, 26 sitelinks)
+- Torghut (Q2330821, 21 sitelinks)
+
+### Mongolia (central-asia)
+
+- Oirats (Q689831, 45 sitelinks)
+- Dzungar people (Q369870, 24 sitelinks)
+
+### Pakistan (central-asia)
+
+- Burusho people (Q367765, 46 sitelinks)
+
+### Russia (central-asia)
+
+- Nogais (Q192616, 70 sitelinks)
+- Telengits (Q1377301, 22 sitelinks)
+
+### Tajikistan (central-asia)
+
+- Pamiri people (Q2995857, 37 sitelinks)
+- Yaghnobi people (Q1093151, 30 sitelinks)
+
+### Uzbekistan (central-asia)
+
+- Karakalpaks (Q276315, 56 sitelinks)
+
+### Azerbaijan (east-asia)
+
+- Azerbaijanis (Q482942, 123 sitelinks)
+- Talysh people (Q10290517, 53 sitelinks)
+- Udi people (Q501099, 44 sitelinks)
+- Karapapakhs (Q10985965, 35 sitelinks)
+- Ingiloy people (Q2385630, 21 sitelinks)
+
+### Bahrain (east-asia)
+
+- Bahrani people (Q2879337, 21 sitelinks)
+
+### Bhutan (east-asia)
+
+- Lhotshampa (Q1549801, 23 sitelinks)
+
+### China (east-asia)
+
+- Zhuang people (Q36692, 93 sitelinks)
+- Hakka people (Q660947, 46 sitelinks)
+- Hlai people (Q309381, 44 sitelinks)
+- Tujia people (Q588574, 44 sitelinks)
+- Xibe people (Q1044876, 44 sitelinks)
+- Daur people (Q217464, 43 sitelinks)
+- Qiang (Q841325, 42 sitelinks)
+- Dongxiang people (Q750472, 41 sitelinks)
+- Yugurs (Q34283, 39 sitelinks)
+- Monguor people (Q852205, 35 sitelinks)
+- Oroqen people (Q1059053, 35 sitelinks)
+- Achang people (Q849739, 34 sitelinks)
+- Bonan people (Q816691, 34 sitelinks)
+- Mulao people (Q868044, 30 sitelinks)
+- Hoklo people (Q703914, 29 sitelinks)
+- Maonan people (Q868035, 29 sitelinks)
+- Derung people (Q617614, 28 sitelinks)
+- Pumi (Q877377, 28 sitelinks)
+- Jino people (Q1054249, 26 sitelinks)
+
+### Cyprus (east-asia)
+
+- Turkish Cypriots (Q245807, 41 sitelinks)
+
+### Georgia (east-asia)
+
+- Ossetians (Q106974, 76 sitelinks)
+- Abkhazians (Q171795, 71 sitelinks)
+- Meskhetian Turks (Q1055319, 44 sitelinks)
+- Mingrelians (Q747580, 42 sitelinks)
+- Adjarians (Q26291, 39 sitelinks)
+- Khevsurians (Q202547, 20 sitelinks)
+
+### India (east-asia)
+
+- Malayali (Q1267987, 43 sitelinks)
+- Meitei people (Q930821, 33 sitelinks)
+- Ahom people (Q402392, 26 sitelinks)
+- Irulas (Q2511301, 23 sitelinks)
+- Kannada people (Q118281, 23 sitelinks)
+- Mizo people (Q1275861, 22 sitelinks)
+- Kalbelia (Q6351763, 21 sitelinks)
+
+### Iran (east-asia)
+
+- Qashqai people (Q249893, 51 sitelinks)
+- Lurs (Q508194, 48 sitelinks)
+- Achomi people (Q12210943, 37 sitelinks)
+- Bakhtiari people (Q798284, 37 sitelinks)
+- Mazanderani people (Q46531, 37 sitelinks)
+- Gilaki people (Q1346254, 35 sitelinks)
+- Basseri (Q6418904, 29 sitelinks)
+- Daylamites (Q1157592, 26 sitelinks)
+- Iranian Azerbaijanis (Q2426677, 26 sitelinks)
+- Iranian Arabs (Q2859361, 23 sitelinks)
+
+### Iraq (east-asia)
+
+- Iraqi Turkmen (Q1165171, 40 sitelinks)
+- Shabak people (Q1515909, 28 sitelinks)
+
+### Israel (east-asia)
+
+- Samaritan (Q182651, 70 sitelinks)
+- Arab citizens of Israel (Q204333, 43 sitelinks)
+
+### Japan (east-asia)
+
+- Ryukyuans (Q1208167, 39 sitelinks)
+- Yamato people (Q640605, 33 sitelinks)
+
+### Lebanon (east-asia)
+
+- Maronites (Q4988656, 37 sitelinks)
+
+### Nepal (east-asia)
+
+- Tamang people (Q1144444, 26 sitelinks)
+
+### Pakistan (east-asia)
+
+- Saraiki people (Q46713, 21 sitelinks)
+
+### Russia (east-asia)
+
+- Chechens (Q31230, 91 sitelinks)
+- Rutulians (Q933163, 86 sitelinks)
+- Avars (Q172717, 73 sitelinks)
+- Ingush people (Q485010, 73 sitelinks)
+- Balkars (Q192604, 68 sitelinks)
+- Lezgins (Q1129737, 67 sitelinks)
+- Kumyk people (Q211018, 66 sitelinks)
+- Karachays (Q243274, 61 sitelinks)
+- Dargins (Q274356, 60 sitelinks)
+- Abazins (Q213040, 58 sitelinks)
+- Khakass people (Q240293, 56 sitelinks)
+- Kabarday (Q244028, 53 sitelinks)
+- Tabasaran people (Q623813, 49 sitelinks)
+- Tofalar (Q655404, 39 sitelinks)
+- Yukaghir people (Q720386, 39 sitelinks)
+- Itelmens (Q1147405, 36 sitelinks)
+- Chulyms (Q979326, 35 sitelinks)
+- Ulch people (Q1465429, 32 sitelinks)
+- Udege people (Q1420414, 30 sitelinks)
+- Enets (Q1141752, 29 sitelinks)
+- Oroks (Q8426825, 29 sitelinks)
+- Kumandins (Q1556876, 27 sitelinks)
+- Negidals (Q1361998, 27 sitelinks)
+- Shapsugs (Q1473943, 25 sitelinks)
+- Teleuts (Q1123129, 25 sitelinks)
+- Ubykh people (Q969667, 25 sitelinks)
+- Archi people (Q4320, 24 sitelinks)
+- Soyot (Q1185225, 24 sitelinks)
+- Tubalar (Q1313979, 22 sitelinks)
+- Chelkans (Q2632800, 21 sitelinks)
+- Chuvans (Q1945649, 21 sitelinks)
+- Kereks (Q1190792, 21 sitelinks)
+- Tsez people (Q2476783, 21 sitelinks)
+
+### Syria (east-asia)
+
+- Syrian Turkmen (Q1290529, 31 sitelinks)
+
+### Taiwan (east-asia)
+
+- Tsou people (Q619481, 26 sitelinks)
+- Bunun (Q701704, 24 sitelinks)
+- Sakizaya (Q710817, 22 sitelinks)
+
+### Turkey (east-asia)
+
+- Zaza people (Q142897, 80 sitelinks)
+- Pontic Greeks (Q679524, 44 sitelinks)
+- Yörüks (Q170056, 39 sitelinks)
+- Hemshin peoples (Q1133458, 31 sitelinks)
+- Karamanlides (Q252692, 28 sitelinks)
+
+### Yemen (east-asia)
+
+- Qahtanites (Q2575646, 23 sitelinks)
+
+### Albania (europe)
+
+- Cham Albanians (Q7641172, 23 sitelinks)
+
+### Azerbaijan (europe)
+
+- Tsakhur people (Q139760, 37 sitelinks)
+
+### Belgium (europe)
+
+- Walloon people (Q381151, 50 sitelinks)
+
+### Croatia (europe)
+
+- Šokci (Q178419, 23 sitelinks)
+- Istro-Romanians (Q1295763, 22 sitelinks)
+
+### Czech Republic (europe)
+
+- Sudeten Germans (Q663389, 31 sitelinks)
+
+### Estonia (europe)
+
+- Baltic Germans (Q157139, 47 sitelinks)
+
+### France (europe)
+
+- Occitans (Q3573554, 28 sitelinks)
+
+### Germany (europe)
+
+- Yenish people (Q371762, 34 sitelinks)
+- Bavarians (Q13048507, 21 sitelinks)
+
 ### Greece (europe)
 
+- Arvanites (Q716937, 32 sitelinks)
+- Sarakatsani (Q841744, 31 sitelinks)
+- Megleno-Romanians (Q1287652, 22 sitelinks)
 - Macedonians (Q1401272, 21 sitelinks)
+
+### Hungary (europe)
+
+- Danube Swabians (Q699958, 28 sitelinks)
+- Jassic people (Q167395, 26 sitelinks)
+
+### Ireland (europe)
+
+- Irish Travellers (Q875651, 34 sitelinks)
+- Ulster Scots (Q3120476, 21 sitelinks)
+- Anglo-Irish people (Q2849692, 20 sitelinks)
+
+### Isle of Man (europe)
+
+- Manx people (Q125564, 28 sitelinks)
+
+### Italy (europe)
+
+- Arbëreshë (Q56975, 45 sitelinks)
+- Friulians (Q605843, 22 sitelinks)
+
+### Kosovo (europe)
+
+- Ashkali and Balkan Egyptians (Q282427, 33 sitelinks)
+
+### Latvia (europe)
+
+- Livonians (Q690126, 49 sitelinks)
+
+### Lithuania (europe)
+
+- Lithuanians (Q186192, 75 sitelinks)
+- Samogitians (Q393779, 24 sitelinks)
+
+### Moldova (europe)
+
+- Gagauz (Q180361, 73 sitelinks)
+
+### Montenegro (europe)
+
+- Montenegrins (Q19109, 61 sitelinks)
+
+### North Macedonia (europe)
+
+- Torbeši (Q1262476, 35 sitelinks)
+
+### Norway (europe)
+
+- Kven people (Q610315, 33 sitelinks)
+
+### Poland (europe)
+
+- Kashubians (Q147239, 58 sitelinks)
+- Lipka Tatars (Q836076, 38 sitelinks)
+- Silesians (Q140472, 38 sitelinks)
+- Gorals (Q498700, 27 sitelinks)
 
 ### Romania (europe)
 
 - Vlachs (Q475021, 46 sitelinks)
+- Banat Bulgarians (Q2076582, 21 sitelinks)
+
+### Russia (europe)
+
+- Chuvash people (Q253410, 88 sitelinks)
+- Izhorians (Q653956, 42 sitelinks)
+- Don Cossacks (Q1057292, 37 sitelinks)
+- Erzyas (Q47246, 36 sitelinks)
+- Mokshas (Q1943269, 33 sitelinks)
+- Volga Tatars (Q1484689, 30 sitelinks)
+- Doukhobors (Q1144579, 28 sitelinks)
+- Nağaybäk (Q1480718, 28 sitelinks)
+- Kuban Cossacks (Q861646, 27 sitelinks)
+- Besermyan (Q830176, 24 sitelinks)
+- Kryashens (Q2509263, 24 sitelinks)
+- Komi-Permyaks (Q1879910, 23 sitelinks)
+- Mishar Tatars (Q2643116, 20 sitelinks)
+
+### Serbia (europe)
+
+- Bunjevci (Q591964, 23 sitelinks)
+
+### Slovakia (europe)
+
+- Carpathian Germans (Q698855, 24 sitelinks)
+
+### Spain (europe)
+
+- Galicians (Q752526, 36 sitelinks)
+
+### Sweden (europe)
+
+- Varangians (Q48343, 60 sitelinks)
+
+### Switzerland (europe)
+
+- Romansh people (Q689533, 27 sitelinks)
+- Walser (Q616803, 21 sitelinks)
+
+### Ukraine (europe)
+
+- Rusyns (Q140420, 62 sitelinks)
+- Hutsuls (Q828398, 36 sitelinks)
+- Krymchaks (Q1140111, 36 sitelinks)
+- Lemkos (Q837881, 36 sitelinks)
+- Crimean Goths (Q1341201, 26 sitelinks)
+- Urums (Q2502272, 25 sitelinks)
+- Boykos (Q891187, 24 sitelinks)
+
+### United Kingdom (europe)
+
+- Welsh people (Q188353, 67 sitelinks)
+- Cornish people (Q222175, 37 sitelinks)
+
+### Argentina (latin-america)
+
+- Abipón (Q480290, 20 sitelinks)
+
+### Bolivia (latin-america)
+
+- Ayoreo people (Q793196, 20 sitelinks)
+
+### Brazil (latin-america)
+
+- Yanomamis (Q34188, 42 sitelinks)
+- Pirahã (Q11443101, 23 sitelinks)
+- Zo'é people (Q153639, 21 sitelinks)
+
+### Canada (latin-america)
+
+- Atikamekw people (Q491706, 26 sitelinks)
+
+### Cuba (latin-america)
+
+- Ciboney people (Q726722, 21 sitelinks)
+
+### Ecuador (latin-america)
+
+- Waorani people (Q1572622, 24 sitelinks)
+- Cañari (Q1122582, 20 sitelinks)
+
+### Panama (latin-america)
+
+- Naso people (Q1143554, 21 sitelinks)
+
+### Peru (latin-america)
+
+- Huanca people (Q746915, 20 sitelinks)
+
+### United States (latin-america)
+
+- Wyandot people (Q213396, 50 sitelinks)
+- Cajun (Q686949, 42 sitelinks)
+- Mahican (Q776280, 42 sitelinks)
+- Wampanoag people (Q1047264, 33 sitelinks)
+- Powhatan (Q49291, 32 sitelinks)
+- Kewa Pueblo (Q1550492, 30 sitelinks)
+- Jemez Pueblo (Q1686773, 29 sitelinks)
+- Pueblo de Cochiti (Q1105155, 29 sitelinks)
+- Mohegan (Q201024, 27 sitelinks)
+- Natchez people (Q56389, 27 sitelinks)
+- Gros Ventre people (Q510032, 26 sitelinks)
+- Narragansett people (Q609726, 24 sitelinks)
+- Picuris Pueblo (Q2092506, 24 sitelinks)
+- Apalachee people (Q49306, 22 sitelinks)
+- Quapaw (Q1268882, 22 sitelinks)
+- Tongva people (Q1479279, 22 sitelinks)
+- Wiyot people (Q2329815, 21 sitelinks)
+- Erie people (Q258571, 20 sitelinks)
+
+### Morocco (middle-east-north-africa)
+
+- Schleuh people (Q1267932, 23 sitelinks)
+- Gnawa (Q1533184, 22 sitelinks)
+- Riffian people (Q1541828, 22 sitelinks)
+
+### Canada (north-america)
+
+- Abenaki people (Q318806, 42 sitelinks)
+- Gwich'in people (Q1144501, 23 sitelinks)
 
 ### United States (north-america)
 
 - Sioux (Q107434, 63 sitelinks)
 - Jicarilla Apache (Q659307, 24 sitelinks)
+- Passamaquoddy Tribe (Q1649265, 20 sitelinks)
+- Susquehannock (Q1279673, 20 sitelinks)
+
+### Indonesia (oceania)
+
+- Korowai people (Q1579864, 35 sitelinks)
+- Atoni (Q757538, 21 sitelinks)
+
+### Afghanistan (south-asia)
+
+- Nuristani people (Q737671, 37 sitelinks)
+
+### Bangladesh (south-asia)
+
+- Chakma people (Q1059355, 30 sitelinks)
 
 ### India (south-asia)
 
+- Sentinelese people (Q917695, 63 sitelinks)
+- Marathi people (Q1265028, 50 sitelinks)
+- Gurjar (Q1274487, 37 sitelinks)
 - Toda people (Q140663, 27 sitelinks)
+- Assamese (Q1287940, 25 sitelinks)
+- Dogra (Q1287427, 20 sitelinks)
+- Shompen people (Q274386, 20 sitelinks)
+
+### Maldives (south-asia)
+
+- Maldivians (Q1562783, 21 sitelinks)
+
+### Myanmar (south-asia)
+
+- Rohingya (Q464529, 87 sitelinks)
+
+### Nepal (south-asia)
+
+- Newar people (Q524007, 36 sitelinks)
+
+### Pakistan (south-asia)
+
+- Brahui people (Q1258854, 38 sitelinks)
+
+### Sri Lanka (south-asia)
+
+- Vedda people (Q369883, 33 sitelinks)
+- Sri Lankan Tamils (Q1815623, 26 sitelinks)
+
+### Indonesia (southeast-asia)
+
+- Baduy (Q2357073, 29 sitelinks)
+- Banjar (Q2350149, 26 sitelinks)
+- Betawi people (Q2900057, 23 sitelinks)
+
+### Malaysia (southeast-asia)
+
+- Orang Asli (Q254387, 29 sitelinks)
+
+### Myanmar (southeast-asia)
+
+- Rakhine (Q625438, 37 sitelinks)
+- Jingpo people (Q857542, 32 sitelinks)
+- Palaung people (Q878275, 32 sitelinks)
+- Moken people (Q1550714, 29 sitelinks)
+
+### Philippines (southeast-asia)
+
+- Tausug people (Q1655283, 26 sitelinks)
+
+### Vietnam (southeast-asia)
+
+- Khmer Krom (Q1370078, 22 sitelinks)
+
+### Benin (sub-saharan-africa)
+
+- Bargu people (Q808185, 24 sitelinks)
+
+### Egypt (sub-saharan-africa)
+
+- Magyarab people (Q1096071, 21 sitelinks)
+
+### Eritrea (sub-saharan-africa)
+
+- Saho people (Q264993, 24 sitelinks)
+
+### Ethiopia (sub-saharan-africa)
+
+- Mursi people (Q1276229, 32 sitelinks)
+- Gurage people (Q844307, 24 sitelinks)
+
+### Ghana (sub-saharan-africa)
+
+- Dagbamba (Q592821, 25 sitelinks)
+- Gurma people (Q1294392, 21 sitelinks)
+
+### Liberia (sub-saharan-africa)
+
+- Americo-Liberian (Q3267945, 23 sitelinks)
+
+### Senegal (sub-saharan-africa)
+
+- Serer people (Q739970, 41 sitelinks)
 
 ### South Africa (sub-saharan-africa)
 
 - Boer (Q188201, 65 sitelinks)
+
+### Zimbabwe (sub-saharan-africa)
+
+- Northern Ndebele people (Q1211360, 33 sitelinks)

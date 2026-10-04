@@ -147,7 +147,7 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         const pr = f.properties as any;
         hover
           .setLngLat((f.geometry as any).coordinates)
-          .setHTML(`<strong>${pr.ethnicity}</strong> <span>${pr.country} · ${pr.count} objects</span>`)
+          .setHTML(`<strong>${pr.ethnicity}</strong> <span>${pr.country} · ${pr.unvetted ? 'unreviewed' : `${pr.count} objects`}</span>`)
           .addTo(map);
       });
       map.on('mouseleave', 'eth-dot', () => {
