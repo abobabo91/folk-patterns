@@ -45,6 +45,7 @@ export function GlobeSwitcher({ points }: Props) {
     () => points.find((p) => p.key === activeKey) || null,
     [points, activeKey],
   );
+  const vettedPoints = useMemo(() => points.filter((p) => !p.unvetted_only), [points]);
 
   useEffect(() => {
     if (!activeKey) {
@@ -133,7 +134,7 @@ export function GlobeSwitcher({ points }: Props) {
       {/* Sits clear of the map's corner controls (compact attribution at
           bottom-left, zoom at bottom-right); the key hint is desktop-only. */}
       <div className="footer-legend pointer-events-none absolute bottom-0 left-12 right-14 z-20 flex items-center justify-between gap-4 py-4 sm:py-6 text-[10px] font-mono uppercase tracking-widest">
-        <span>{points.length} cultures · {points.reduce((s, p) => s + p.object_count, 0)} objects</span>
+        <span>{vettedPoints.length} cultures · {vettedPoints.reduce((s, p) => s + p.object_count, 0)} objects · {points.length - vettedPoints.length} unreviewed cultures</span>
         <span className="hidden sm:inline">
           press <kbd className="rounded border border-current px-1 py-0.5">/</kbd> or <kbd className="rounded border border-current px-1 py-0.5">⌘K</kbd> to search · click a marker · <a href="/contribute" className="pointer-events-auto hover:text-amber-400 transition">contribute</a>
         </span>

@@ -256,7 +256,7 @@ function Markers({
       // 0.008 + 0.0018·sqrt(n) the 200-object halos were ~4° wide and merged
       // into blobs over Ethiopia and Southeast Asia. Now 0.0065 (n=1) to
       // 0.016 (n=270), halo 1.7x.
-      const coreRadius = 0.006 + 0.0006 * Math.sqrt(count);
+      const coreRadius = (0.006 + 0.0006 * Math.sqrt(count)) * (p.unvetted_only ? 0.65 : 1);
       return { ...p, pos, coreRadius };
     });
   }, [points]);
@@ -284,12 +284,16 @@ function Markers({
               }}
             >
               <sphereGeometry args={[it.coreRadius, 16, 16]} />
-              <meshBasicMaterial color={active ? '#f4efe6' : '#e0a94a'} />
+              <meshBasicMaterial
+                color={active ? '#f4efe6' : '#e0a94a'}
+                transparent={it.unvetted_only}
+                opacity={it.unvetted_only ? 0.4 : 1}
+              />
             </mesh>
             {/* Soft halo — 1.7x core radius, small opacity, doesn't overwhelm */}
             <mesh>
               <sphereGeometry args={[it.coreRadius * 1.7, 16, 16]} />
-              <meshBasicMaterial color="#e0a94a" transparent opacity={0.22} depthWrite={false} />
+              <meshBasicMaterial color="#e0a94a" transparent opacity={it.unvetted_only ? 0.06 : 0.22} depthWrite={false} />
             </mesh>
             {(hovered || active) && (
               <Html

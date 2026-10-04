@@ -5,14 +5,18 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py bm           # BM "Ethnic group" hits per name (needs BM_CDP_URL)
     python scripts/world_peoples.py aliases      # Wikidata English aliases of the names BM found 0 for
     python scripts/world_peoples.py bm --aliases # retry those under their aliases
+    python scripts/world_peoples.py labels       # Wikidata labels + aliases in 19 languages
     python scripts/world_peoples.py europeana    # hits at ethnographic providers per name
+    python scripts/world_peoples.py europeana --multilingual  # sum cached multilingual names
     python scripts/world_peoples.py local        # Met + Cleveland pool rows whose people field names it
     python scripts/world_peoples.py europeana-objects [--only ...]  # ethnographic Europeana objects naming the people + its country
     python scripts/world_peoples.py classify     # Wikipedia summary + Haiku: a people? where?
+    python scripts/world_peoples.py classify --backend codex --all-min-sitelinks 20
     python scripts/world_peoples.py harvest      # BM object names per people (<= 500), for category breadth
     python scripts/world_peoples.py cleanup      # Haiku: atlas match, duplicates, sub-groups
     python scripts/world_peoples.py report       # -> data/world/peoples.json + docs/world-peoples.md
     python scripts/world_peoples.py candidates   # -> data/world/candidates.jsonl: objects per category, one culture per object
+    python scripts/world_peoples.py gaps          # -> docs/gaps.md: source and site coverage gaps
     python scripts/world_peoples.py pick --only Haida Tiv   # vetted, ranked objects per category -> data/world/picks/ (needs BM_CDP_URL)
     python scripts/world_peoples.py pick --only ... --shard 0/3   # + 1/3, 2/3 in two more processes
     python scripts/world_peoples.py pick --cached-only --export-batch p001 --only ...   # cloud batch of what needs judging
@@ -63,12 +67,15 @@ _DIASPORA = re.compile(
 
 
 def _sparql(q: str) -> list[dict]:
-    for _ in range(3):
+    for attempt in range(3):
         r = httpx.post("https://query.wikidata.org/sparql", data={"query": q, "format": "json"}, headers=UA, timeout=300)
         if r.status_code == 200:
             return [{k: v["value"] for k, v in b.items()} for b in r.json()["results"]["bindings"]]
-        print(f"  wikidata {r.status_code}, retrying", flush=True)
-        time.sleep(15)
+        if r.status_code == 429 or 500 <= r.status_code < 600:
+            print(f"  wikidata {r.status_code}, retrying", flush=True)
+            time.sleep(5 * (2 ** attempt))
+            continue
+        raise SystemExit(f"wikidata query failed: HTTP {r.status_code}")
     raise SystemExit("wikidata query failed 3 times")
 
 
@@ -136,6 +143,74 @@ def variants(label: str) -> list[str]:
     if l.endswith("s") and not l.endswith("ss") and len(l) > 4:
         v.append(l[:-1])
     return list(dict.fromkeys(v))
+
+
+LABEL_LANGS = ["en", "de", "fr", "sv", "fi", "et", "hu", "ru", "pl", "nl", "es", "it", "cs", "da", "nb", "pt", "ro", "uk", "tr"]
+
+
+def _labels_path() -> Path:
+    return OUT / "labels.json"
+
+
+def _ml_variants(qid: str, label: str) -> list[str]:
+    """English variants followed by cached Wikidata labels and aliases.
+
+    The source strings are deliberately kept in their original scripts. In
+    particular, Russian Cyrillic labels are useful to Europeana and do not
+    need a guessed Latin transliteration.
+    """
+    try:
+        cached = json.loads(_labels_path().read_text(encoding="utf-8")) if _labels_path().exists() else {}
+    except (OSError, json.JSONDecodeError):
+        cached = {}
+    out: list[str] = []
+    seen: set[str] = set()
+
+    def add(value: str) -> None:
+        value = str(value or "").strip()
+        if len(value) < 4 or value.casefold() in seen:
+            return
+        seen.add(value.casefold())
+        out.append(value)
+
+    for value in variants(label):
+        add(value)
+    for lang_values in (cached.get(qid) or {}).values():
+        for value in lang_values or []:
+            for v in variants(str(value)):
+                add(v)
+    return out
+
+
+def cmd_labels() -> None:
+    """Cache multilingual Wikidata labels and aliases in 200-item batches."""
+    try:
+        cache = json.loads(_labels_path().read_text(encoding="utf-8")) if _labels_path().exists() else {}
+    except (OSError, json.JSONDecodeError):
+        cache = {}
+    rows = json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))
+    qids = [r["qid"] for r in rows]
+    todo = [qid for qid in qids if qid not in cache]
+    print(f"labels: {len(todo)} qids to fetch ({len(qids) - len(todo)} cached)", flush=True)
+    langs = ", ".join(f'"{lang}"' for lang in LABEL_LANGS)
+    for i in range(0, len(todo), 200):
+        batch = todo[i:i + 200]
+        vals = " ".join("wd:" + qid for qid in batch)
+        result = _sparql(f'''SELECT ?g ?lang ?value WHERE {{
+            VALUES ?g {{ {vals} }}
+            {{ ?g rdfs:label ?value }} UNION {{ ?g skos:altLabel ?value }}
+            FILTER(lang(?value) IN ({langs}))
+            BIND(lang(?value) AS ?lang)
+        }}''')
+        for qid in batch:
+            cache[qid] = {lang: [] for lang in LABEL_LANGS}
+        for row in result:
+            qid, lang, value = row.get("g", "").split("/")[-1], row.get("lang", ""), row.get("value", "")
+            if qid in cache and lang in LABEL_LANGS and value not in cache[qid][lang]:
+                cache[qid][lang].append(value)
+        _labels_path().parent.mkdir(parents=True, exist_ok=True)
+        _labels_path().write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
+        print(f"  {min(i + 200, len(todo))}/{len(todo)} qids cached", flush=True)
 
 
 def _done(src: str) -> set[str]:
@@ -207,16 +282,22 @@ _EU_GOOD = ("world culture", "wereldculturen", "world cultures", "ethnograph", "
             "etnolog", "ethnolog", "folk", "rahva", "etnografisk", "open air museum", "skansen", "mucem")
 
 
-def cmd_europeana() -> None:
+def cmd_europeana(multilingual: bool = False) -> None:
     from folk_patterns.museums.europeana import _get_key
     key = _get_key()
-    done = _done("europeana")
-    todo = [(k, l) for k, l in _names() if k not in done]
-    print(f"europeana: {len(todo)} names to count ({len(done)} cached)", flush=True)
-    with httpx.Client(timeout=60) as cl, open(OUT / "counts_europeana.jsonl", "a", encoding="utf-8") as f:
+    source = "europeana_ml" if multilingual else "europeana"
+    done = _done(source)
+    english = _counts("europeana") if multilingual else {}
+    todo = [(k, l) for k, l in _names()
+            if k not in done and (not multilingual or max((english.get(k) or {}).get("hits", {}).values() or [0]) < 30)]
+    label = "europeana multilingual" if multilingual else "europeana"
+    print(f"{label}: {len(todo)} names to count ({len(done)} cached)", flush=True)
+    out_path = OUT / f"counts_{source}.jsonl"
+    with httpx.Client(timeout=60) as cl, open(out_path, "a", encoding="utf-8") as f:
         for i, (k, l) in enumerate(todo):
             hits, provs = {}, {}
-            for v in variants(l):
+            names = _ml_variants(k, l) if multilingual else variants(l)
+            for v in names:
                 try:
                     j = cl.get("https://api.europeana.eu/record/v2/search.json", params={
                         "wskey": key, "query": f'"{v}"', "rows": 0, "media": "true", "reusability": "open,permission",
@@ -232,7 +313,7 @@ def cmd_europeana() -> None:
                 hits[v] = sum(good.values())
                 provs[v] = sorted(good.items(), key=lambda x: -x[1])[:5]
                 time.sleep(0.2)
-                if hits[v]:
+                if hits[v] and not multilingual:
                     break
             f.write(json.dumps({"key": k, "label": l, "hits": hits, "providers": provs}, ensure_ascii=False) + "\n")
             f.flush()
@@ -368,10 +449,12 @@ def cmd_europeana_objects(only: list[str]) -> None:
     (medicinal plants, seeds, catalogue cards); the pick's QUALITY line drops it.
     Kongo is skipped after 500 sampled records supplied no reliable
     people-specific hits: "Kongo" was only a geographic label.
-    -> data/world/eu_objects.jsonl (gitignored); the last line per key wins."""
+    -> data/world/eu_objects.jsonl (gitignored); the last line per key wins.
+    Listed and unreviewed-only peoples are both searched."""
     from folk_patterns.museums.europeana import _get_key
     key = _get_key()
-    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if r.get("listed")]
+    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8"))
+          if r.get("listed") or r.get("unvetted_only")]
     want = {s.lower() for s in only}
     if want:
         pe = [r for r in pe if {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
@@ -389,7 +472,11 @@ def cmd_europeana_objects(only: list[str]) -> None:
                 f.flush()
                 print(f"  {i + 1}/{len(todo)} {r['label']}: 0 kept (geographic-name collision)", flush=True)
                 continue
-            names = list(dict.fromkeys(v for x in [r["label"], r.get("atlas") or ""] if x for v in variants(x)))
+            names = list(dict.fromkeys(v for x in [r["label"], r.get("atlas") or ""] if x for v in _ml_variants(r["key"], x)))
+            if not names:
+                f.write(json.dumps({"key": r["key"], "label": r["label"], "objects": []}, ensure_ascii=False) + "\n")
+                f.flush()
+                continue
             nrx = re.compile(r"(?<![\w-])(" + "|".join(re.escape(n) if len(n) <= 4 else "(?i:" + re.escape(n) + ")"
                                                         for n in names) + r")(?![\w-])")
             cs = countries.get(r["key"]) or set()
@@ -598,6 +685,22 @@ Entries:
 {entries}
 """
 
+CLASSIFY_SCHEMA = {
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": ["key", "people", "continent", "region", "country"],
+        "properties": {
+            "key": {"type": "string"},
+            "people": {"type": "boolean"},
+            "continent": {"type": "string"},
+            "region": {"type": "string"},
+            "country": {"type": "string"},
+        },
+        "additionalProperties": False,
+    },
+}
+
 
 def _summary(cl: httpx.Client, article: str) -> str:
     title = article.rsplit("/", 1)[-1]
@@ -612,40 +715,65 @@ def _summary(cl: httpx.Client, article: str) -> str:
     return ""
 
 
-def cmd_classify(threshold: int) -> None:
-    """Wikipedia summary + Haiku for every name that passes the threshold:
-    is it a people, and where. Cached in data/world/classified.json."""
+def _reply_array(text: str) -> list[dict]:
+    try:
+        value = json.loads(text or "")
+        return value if isinstance(value, list) else []
+    except (TypeError, ValueError):
+        m = re.search(r"\[.*\]", text or "", re.S)
+        try:
+            value = json.loads(m.group(0)) if m else []
+            return value if isinstance(value, list) else []
+        except (TypeError, ValueError):
+            return []
+
+
+def cmd_classify(threshold: int, backend: str = "claude", all_min_sitelinks: int = 0) -> None:
+    """Wikipedia summary + Claude/Codex for names that need classification.
+    ``--all-min-sitelinks`` includes every sufficiently linked Wikidata item,
+    even when it has no museum evidence, for the gap report."""
     import subprocess, tempfile
     cache_p = OUT / "classified.json"
     cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
     wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
-    rows = [r for r in _rows() if (_museums(r) >= threshold or r["europeana"] >= 30) and r["key"] not in cache]
-    print(f"classify: {len(rows)} names ({len(cache)} cached)", flush=True)
+    if all_min_sitelinks:
+        rows = [dict(r, key=r["qid"]) for r in sorted(wd.values(), key=lambda x: -x.get("sitelinks", 0))
+                if r.get("sitelinks", 0) >= all_min_sitelinks and r["qid"] not in cache]
+    else:
+        rows = [r for r in _rows() if (_museums(r) >= threshold or r["europeana"] >= 30) and r["key"] not in cache]
+    print(f"classify: {len(rows)} names ({len(cache)} cached), backend={backend}", flush=True)
     with httpx.Client(timeout=30, headers=UA, follow_redirects=True) as cl:
         sums = [_summary(cl, r["article"]) if r.get("article") else "" for r in rows]
     print(f"  {sum(1 for x in sums if not x)} of {len(sums)} without article text", flush=True)
-    mcp = Path(tempfile.gettempdir()) / "empty_mcp.json"
-    mcp.write_text('{"mcpServers":{}}', encoding="utf-8")
-    raw = open(OUT / "classify_raw.jsonl", "a", encoding="utf-8")
-    for i in range(0, len(rows), 60):
-        batch = [(r, s) for r, s in zip(rows[i:i + 60], sums[i:i + 60])]
-        entries = "\n".join(f'- key: {r["key"]} | name: {r["label"]} | wikidata country: {r.get("country") or "-"} | '
-                            f'text: {s or "(no article text)"}' for r, s in batch)
-        res = subprocess.run([__import__("shutil").which("claude") or "claude", "--print", "--model", CLASSIFY_MODEL, "--output-format", "json", "--tools", "",
-                              "--mcp-config", str(mcp), "--strict-mcp-config"],
-                             input=CLASSIFY_PROMPT.format(entries=entries), capture_output=True, text=True,
-                             encoding="utf-8", timeout=600, env={**__import__("os").environ, "MAX_THINKING_TOKENS": "0"})
-        ev = json.loads(res.stdout)
-        raw.write(json.dumps({"batch": i, "cost_usd": ev.get("total_cost_usd"), "result": ev.get("result")},
-                             ensure_ascii=False) + "\n")
-        raw.flush()
-        m = re.search(r"\[.*\]", ev.get("result") or "", re.S)
-        got = json.loads(m.group(0)) if m else []
-        for d in got:
-            if d.get("key") in {r["key"] for r, _ in batch}:
-                cache[d["key"]] = d
-        cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
-        print(f"  batch {i}: {len(got)}/{len(batch)} classified, ${ev.get('total_cost_usd') or 0:.3f}", flush=True)
+    with open(OUT / "classify_raw.jsonl", "a", encoding="utf-8") as raw:
+        for i in range(0, len(rows), 60):
+            batch = [(r, s) for r, s in zip(rows[i:i + 60], sums[i:i + 60])]
+            entries = "\n".join(f'- key: {r["key"]} | name: {r["label"]} | wikidata country: {r.get("country") or "-"} | '
+                                f'text: {s or "(no article text)"}' for r, s in batch)
+            prompt = CLASSIFY_PROMPT.format(entries=entries)
+            if backend == "codex":
+                from folk_patterns.codex_cli import ask
+                reply = ask(prompt, schema=CLASSIFY_SCHEMA, timeout=600)
+                result = reply if isinstance(reply, str) else json.dumps(reply, ensure_ascii=False)
+                ev = {"batch": i, "backend": backend, "cost_usd": 0, "total_cost_usd": 0, "result": result}
+            else:
+                mcp = Path(tempfile.gettempdir()) / "empty_mcp.json"
+                mcp.write_text('{"mcpServers":{}}', encoding="utf-8")
+                res = subprocess.run([__import__("shutil").which("claude") or "claude", "--print", "--model", CLASSIFY_MODEL, "--output-format", "json", "--tools", "",
+                                      "--mcp-config", str(mcp), "--strict-mcp-config"],
+                                     input=prompt, capture_output=True, text=True,
+                                     encoding="utf-8", timeout=600, env={**__import__("os").environ, "MAX_THINKING_TOKENS": "0"})
+                ev = json.loads(res.stdout)
+                ev = {"batch": i, "backend": backend, "cost_usd": ev.get("total_cost_usd"),
+                      "total_cost_usd": ev.get("total_cost_usd"), "result": ev.get("result")}
+            raw.write(json.dumps(ev, ensure_ascii=False) + "\n")
+            raw.flush()
+            got = _reply_array(ev.get("result"))
+            for d in got:
+                if d.get("key") in {r["key"] for r, _ in batch}:
+                    cache[d["key"]] = d
+            cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
+            print(f"  batch {i}: {len(got)}/{len(batch)} classified, ${ev.get('cost_usd') or 0:.3f}", flush=True)
 
 
 def _local() -> dict[str, list[dict]]:
@@ -660,20 +788,81 @@ def _museums(r: dict) -> int:
     return r["bm"] + r.get("local", 0)
 
 
+def _europeana_count(key: str, english: dict[str, dict], multilingual: dict[str, dict]) -> int:
+    en = max((english.get(key) or {}).get("hits", {}).values() or [0])
+    ml = sum((multilingual.get(key) or {}).get("hits", {}).values())
+    return max(en, ml)
+
+
 def _rows() -> list[dict]:
     wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
-    bm, bma, eu = _counts("bm"), _counts("bm_alias"), _counts("europeana")
+    bm, bma, eu, eu_ml = _counts("bm"), _counts("bm_alias"), _counts("europeana"), _counts("europeana_ml")
     loc = _local()
     atlas = set(_atlas_names())
     rows = []
     for k, l in _names():
         b = max(list((bm.get(k) or {}).get("hits", {0: 0}).values()) + list((bma.get(k) or {}).get("hits", {0: 0}).values()))
-        e = max((eu.get(k) or {}).get("hits", {0: 0}).values() or [0])
+        e = _europeana_count(k, eu, eu_ml)
         w = wd.get(k, {})
         rows.append({"key": k, "label": l, "country": w.get("country"), "sitelinks": w.get("sitelinks"),
                      "article": w.get("article"), "bm": b, "local": len(loc.get(k, [])), "europeana": e,
                      "in_atlas": k.startswith("atlas:") or any(v in atlas for v in variants(l))})
     return rows
+
+
+def _queue_skips() -> dict[str, str]:
+    path = OUT / "onboard_queue.json"
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return {str(r.get("key")): str(r.get("skip")) for r in data.get("skipped", []) if r.get("key") and r.get("skip")}
+
+
+def _evidence(r: dict) -> int:
+    return int(r.get("bm") or 0) + int(r.get("local") or 0) + int(r.get("europeana") or 0)
+
+
+def _unvetted_only(r: dict, queue_skips: dict[str, str] | None = None) -> bool:
+    """Whether a classified, source-backed people can be shown text-only."""
+    skip = (queue_skips or {}).get(str(r.get("key")), "")
+    return (not r.get("listed")) and r.get("people") is True and _evidence(r) >= 6 and (not skip or skip == "nation")
+
+
+def _site_region(continent: str, region: str) -> str:
+    """Map the classifier's free-text geography to one of the ten site regions."""
+    text = f"{continent} {region}".casefold()
+    if any(x in text for x in ("middle east", "north africa", "mena")):
+        return "middle-east-north-africa"
+    if "europe" in text:
+        return "europe"
+    if "central asia" in text:
+        return "central-asia"
+    if "south asia" in text:
+        return "south-asia"
+    if "south east asia" in text or "southeast asia" in text:
+        return "southeast-asia"
+    if "east asia" in text:
+        return "east-asia"
+    if "north america" in text or "arctic" in text:
+        return "north-america"
+    if "america" in text or "andes" in text or "caribbean" in text:
+        return "latin-america"
+    if "oceania" in text or "melanesia" in text or "micronesia" in text or "polynesia" in text:
+        return "oceania"
+    if "africa" in text:
+        return "sub-saharan-africa"
+    continent = continent.casefold()
+    return {
+        "europe": "europe",
+        "asia": "east-asia",
+        "americas": "latin-america",
+        "north america": "north-america",
+        "oceania": "oceania",
+        "africa": "sub-saharan-africa",
+    }.get(continent, "sub-saharan-africa")
 
 
 # photo counts: the vetting keeps documentary photographs of dress, craft and daily life
@@ -735,7 +924,8 @@ def cmd_candidates() -> None:
     tags with several peoples (Nguni + Zulu, Akan + Asante) goes to the most
     specific one, the people with the fewest objects; the umbrella keeps the
     rest. -> data/world/candidates.jsonl (gitignored)."""
-    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if r.get("listed")]
+    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8"))
+          if r.get("listed") or r.get("unvetted_only")]
     bm = {}
     for l in (OUT / "bm_objects.jsonl").read_text(encoding="utf-8").splitlines():
         d = json.loads(l)
@@ -768,6 +958,7 @@ def cmd_candidates() -> None:
                      "kind": (kinds.get((o.get("name") or "").strip()[:120]) or {}).get("kind")})
             f.write(json.dumps({"key": r["key"], "label": r["label"], "continent": r.get("continent"),
                                 "region": r.get("region"), "country": r.get("country"), "in_atlas": r["in_atlas"],
+                                "unvetted_only": bool(r.get("unvetted_only")),
                                 "atlas": r.get("atlas"), "bm_name": r.get("bm_name"),
                                 "counts": {c: len(v) for c, v in sorted(cats.items(), key=lambda x: -len(x[1]))},
                                 "objects": cats}, ensure_ascii=False) + "\n")
@@ -1318,7 +1509,8 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
     objs = {d["key"]: d for d in (json.loads(l) for l in objs_p.read_text(encoding="utf-8").splitlines())} if objs_p.exists() else {}
     atlas_bm = _atlas_bm_names()
     loc = _local()
-    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and (_museums(r) >= threshold or r["europeana"] >= 30)]
+    queue_skips = _queue_skips()
+    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and _evidence(r) >= 6]
     for r in rows:
         r.update({k: v for k, v in (cls.get(r["key"]) or {}).items() if k != "key"})
         o = objs.get(r["key"])
@@ -1374,6 +1566,8 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
     keep = [r for r in keep if not r.get("merged_into")]
     for r in keep:
         r["listed"] = r["tier"] == "bm" and (r.get("cats3") or 0) >= min_cats
+        r["evidence"] = _evidence(r)
+        r["unvetted_only"] = _unvetted_only(r, queue_skips)
     keep.sort(key=lambda r: (r.get("continent") or "?", not r["listed"], -(r.get("breadth") or 0), -(r.get("cats3") or 0),
                              -(r.get("sampled") or 0)))
     (OUT / "peoples.json").write_text(json.dumps(keep, ensure_ascii=False, indent=0), encoding="utf-8")
@@ -1386,11 +1580,96 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
           f"({sum(r['in_atlas'] for r in keep)} already in the atlas)")
     lst = [r for r in keep if r["listed"]]
     print(f"LIST ({min_cats}+ categories with 3+ objects): {len(lst)}, new {sum(not r['in_atlas'] for r in lst)}, "
-          f"in atlas {sum(r['in_atlas'] for r in lst)} ({len({r.get('atlas') for r in lst if r.get('atlas')})} distinct atlas cultures)")
+             f"in atlas {sum(r['in_atlas'] for r in lst)} ({len({r.get('atlas') for r in lst if r.get('atlas')})} distinct atlas cultures)")
+    print(f"UNREVIEWED-ONLY (people, evidence >= 6): {sum(r['unvetted_only'] for r in keep)}", flush=True)
     for c, rs in sorted(by.items()):
         l = [r for r in rs if r["listed"]]
         print(f"  {c:9s} listed {len(l):3d} (new {sum(not r['in_atlas'] for r in l):3d}, breadth>=6 {sum((r.get('breadth') or 0) >= 6 for r in l):3d})"
-              f"   not listed {sum(r['tier'] == 'bm' and not r['listed'] for r in rs):3d}   Europeana-only {sum(r['tier'] != 'bm' for r in rs)}")
+              f"   not listed {sum(not r['listed'] for r in rs):3d}   unreviewed-only {sum(r['unvetted_only'] for r in rs):3d}")
+
+
+def cmd_gaps() -> None:
+    """Write source/site coverage gaps from the classified world list."""
+    classified = json.loads((OUT / "classified.json").read_text(encoding="utf-8")) if (OUT / "classified.json").exists() else {}
+    wikidata = json.loads((OUT / "wikidata.json").read_text(encoding="utf-8")) if (OUT / "wikidata.json").exists() else []
+    evidence_rows = json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if (OUT / "peoples.json").exists() else []
+    evidence = {str(r.get("key")): int(r.get("evidence") or _evidence(r)) for r in evidence_rows}
+    wd = {r["qid"]: r for r in wikidata}
+    from collections import Counter, defaultdict
+
+    groups: dict[tuple[str, str], list[dict]] = defaultdict(list)
+    for key, result in classified.items():
+        if result.get("people") is not True or key not in wd:
+            continue
+        continent = str(result.get("continent") or "")
+        region = _site_region(continent, str(result.get("region") or ""))
+        country = str(result.get("country") or wd[key].get("country") or "Unknown")
+        groups[(region, country)].append({"key": key, "label": wd[key].get("label") or key,
+                                          "sitelinks": int(wd[key].get("sitelinks") or 0),
+                                          "evidence": evidence.get(key, 0)})
+
+    site_vetted: Counter[tuple[str, str]] = Counter()
+    site_unvetted: Counter[tuple[str, str]] = Counter()
+    for path in (REPO / "data" / "ethnicities").glob("*.json"):
+        try:
+            shard = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        pair = (str(shard.get("region") or ""), str(shard.get("country") or "Unknown"))
+        if shard.get("unvetted_only"):
+            site_unvetted[pair] += 1
+        else:
+            site_vetted[pair] += 1
+
+    def row_counts(items: list[dict], pair: tuple[str, str]) -> tuple[int, int, int, int]:
+        return (len(items), sum(bool(x["evidence"]) for x in items), site_vetted[pair], site_unvetted[pair])
+
+    pairs = sorted(set(groups) | set(site_vetted) | set(site_unvetted))
+    region_rows: dict[str, list[dict]] = defaultdict(list)
+    for pair in pairs:
+        region_rows[pair[0]].extend(groups.get(pair, []))
+    lines = ["# World peoples coverage gaps", "",
+             "Generated by `python scripts/world_peoples.py gaps` — do not edit by hand.", "",
+             "Living peoples are classified Wikidata items with `people: true`. Source evidence is any row in "
+             "`peoples.json` with a positive BM, Met/Cleveland, or multilingual Europeana count. Site counts "
+             "come from the current ethnicity shards; unreviewed-only shards are separated from vetted cultures.", "",
+             "## By region", "", "| site region | living peoples | with source evidence | vetted cultures | unreviewed-only cultures |",
+             "|---|---:|---:|---:|---:|"]
+    for region in sorted(region_rows):
+        items = region_rows[region]
+        region_pairs = [pair for pair in pairs if pair[0] == region]
+        lines.append(f"| {region} | {len(items)} | {sum(bool(x['evidence']) for x in items)} | "
+                     f"{sum(site_vetted[p] for p in region_pairs)} | {sum(site_unvetted[p] for p in region_pairs)} |")
+
+    lines += ["", "## By country", "", "| site region | country | living peoples | with source evidence | vetted cultures | unreviewed-only cultures |",
+              "|---|---|---:|---:|---:|---:|"]
+    for pair in pairs:
+        counts = row_counts(groups.get(pair, []), pair)
+        lines.append(f"| {pair[0]} | {pair[1]} | {counts[0]} | {counts[1]} | {counts[2]} | {counts[3]} |")
+
+    lines += ["", "## Visible gaps", "",
+              "Peoples below have at least 20 Wikipedia sitelinks, are classified as people, and have no "
+              "evidence in the current museum-source report.", ""]
+    gaps = []
+    for pair in sorted(groups):
+        missing = sorted((x for x in groups[pair] if x["sitelinks"] >= 20 and not x["evidence"]),
+                         key=lambda x: (-x["sitelinks"], x["label"]))
+        if not missing:
+            continue
+        lines += [f"### {pair[1]} ({pair[0]})", ""]
+        for item in missing:
+            lines.append(f"- {item['label']} ({item['key']}, {item['sitelinks']} sitelinks)")
+            gaps.append(item)
+        lines.append("")
+    if not gaps:
+        lines.append("None found.")
+    docs = REPO / "docs" / "gaps.md"
+    docs.parent.mkdir(parents=True, exist_ok=True)
+    docs.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    print(f"gaps: {sum(len(v) for v in groups.values())} living peoples, "
+          f"{sum(bool(x['evidence']) for v in groups.values() for x in v)} with evidence, "
+          f"{sum(site_vetted.values())} vetted cultures, {sum(site_unvetted.values())} unreviewed-only cultures, "
+          f"{len(gaps)} visible gaps", flush=True)
 
 
 def _write_doc(keep: list[dict], threshold: int) -> None:
@@ -1407,13 +1686,16 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
              "objects plus every Met/Cleveland match. Categories come from each object's "
              "BM name via `normalize_kinds.py` (Haiku). **BM** is capped at 500 by the sample. **Eur.** counts "
              "records at ethnographic providers in Europeana that mention the name. It is a text match, so it "
-             "is only a hint. Peoples only Europeana finds are listed separately, because most of those are "
+             "is only a hint. The **evidence** total is BM + Met/Cleveland + the multilingual Europeana maximum. "
+             "A classified people with at least six evidence records but no listed pick is **unreviewed-only**: "
+             "its text-matched museum candidates are shown separately and never counted as vetted objects. Peoples "
+             "only Europeana finds are listed separately, because most of those are "
              "word collisions (\"Iron\" for Ossetians, \"Bali\", \"Dan\"). Clans, iwi and bands are merged into their "
              "people (\"incl.\") by the curated `data/world/merges.json`. Its note lists the model suggestions that were "
              "rejected: Sonnet folded distinct peoples into umbrella groups (Hopi into Puebloan, Vezo into Merina).", ""]
     for cont in sorted({r.get("continent") or "?" for r in keep}):
         rs = [r for r in keep if (r.get("continent") or "?") == cont and r["listed"]]
-        below = [r for r in keep if (r.get("continent") or "?") == cont and r["tier"] == "bm" and not r["listed"]]
+        below = [r for r in keep if (r.get("continent") or "?") == cont and not r["listed"]]
         lines += [f"## {cont} — {len(rs)}", "", "| people | country | region | in atlas | BM | Met+Cle | breadth | cat. 3+ | photo | top categories | Eur. |",
                   "|---|---|---|:-:|--:|--:|--:|--:|--:|---|--:|"]
         for r in rs:
@@ -1434,7 +1716,7 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "pick", "coverage", "pick-import"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "labels", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "gaps", "pick", "coverage", "pick-import"])
     ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name")
     ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
     ap.add_argument("--cached-only", action="store_true", help="pick: no judge calls, no pick file written; record outcomes only")
@@ -1448,7 +1730,16 @@ if __name__ == "__main__":
     ap.add_argument("--refill", action="store_true", help="harvest: re-fetch in full the peoples that hit the page cap")
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
     ap.add_argument("--threshold", type=int, default=30)
+    ap.add_argument("--multilingual", action="store_true", help="europeana: query cached Wikidata names in 19 languages")
+    ap.add_argument("--backend", choices=["claude", "codex"], default="claude", help="classify: local subscription backend")
+    ap.add_argument("--all-min-sitelinks", type=int, default=0, help="classify: include every Wikidata item at this sitelink threshold")
     a = ap.parse_args()
     PICK_TRIES = a.tries or PICK_TRIES
-    {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "europeana": cmd_europeana, "local": cmd_local, "europeana-objects": lambda: cmd_europeana_objects(a.only),
-     "classify": lambda: cmd_classify(a.threshold), "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit), "candidates": cmd_candidates, "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only, a.no_judge, a.export_batch), "coverage": lambda: cmd_coverage(a.only), "pick-import": lambda: cmd_pick_import(a.batch)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()
+    {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "labels": cmd_labels,
+     "europeana": lambda: cmd_europeana(a.multilingual), "local": cmd_local,
+     "europeana-objects": lambda: cmd_europeana_objects(a.only),
+     "classify": lambda: cmd_classify(a.threshold, a.backend, a.all_min_sitelinks),
+     "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit),
+     "candidates": cmd_candidates, "gaps": cmd_gaps,
+     "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only, a.no_judge, a.export_batch),
+     "coverage": lambda: cmd_coverage(a.only), "pick-import": lambda: cmd_pick_import(a.batch)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

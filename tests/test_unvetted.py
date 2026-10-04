@@ -49,6 +49,8 @@ class UnvettedTests(unittest.TestCase):
             (world / "pick_exclusions.json").write_text(
                 json.dumps([{"key": "Q1", "source": "bm", "id": "excluded"}]), encoding="utf-8"
             )
+            (world / "picks").mkdir()
+            (world / "picks" / "Q1.json").write_text(json.dumps({"name": "Test"}), encoding="utf-8")
             (world / "unvetted_details.jsonl").write_text(
                 '{"source":"bm","id":"cached","ok":true}\n{"source":"bm",', encoding="utf-8"
             )
@@ -116,6 +118,13 @@ class UnvettedTests(unittest.TestCase):
             self.assertEqual([x["id"] for x in shard["other"]], ["/x/2"])
             self.assertEqual(json.loads((unvetted_dir / "index.json").read_text(encoding="utf-8")), {"region__canada__example": 2})
             self.assertFalse((unvetted_dir / "stale.json").exists())
+
+    def test_no_pick_candidates_are_unvetted(self):
+        with tempfile.TemporaryDirectory() as td:
+            world = Path(td) / "world"
+            world.mkdir()
+            with patch.object(unvetted, "WORLD_DIR", world):
+                self.assertEqual(unvetted._candidate_status("Q-no-pick", ("Q-no-pick", "met", "1"), {}), "no_pick")
 
 
 if __name__ == "__main__":

@@ -110,6 +110,41 @@ cd site && npm run prepare-data && vercel --prod --archive=tgz
 Individual scrapers still exist (`scrape_region.py`, `scrape_cleveland.py`,
 etc.) for targeted re-runs; `scrape_all.py` is the one-command wrapper.
 
+## World-peoples census and unreviewed-only cultures
+
+The resumable `world_peoples.py` census keeps multilingual Wikidata labels,
+museum counts, classification, source evidence, and visible gaps in
+`data/world/`. Run the steps in this order when refreshing the census:
+
+```bash
+python scripts/world_peoples.py wikidata
+python scripts/world_peoples.py labels
+python scripts/world_peoples.py bm
+python scripts/world_peoples.py aliases
+python scripts/world_peoples.py europeana
+python scripts/world_peoples.py europeana --multilingual
+python scripts/world_peoples.py local
+python scripts/world_peoples.py classify --backend codex --all-min-sitelinks 20
+python scripts/world_peoples.py harvest
+python scripts/world_peoples.py report
+python scripts/world_peoples.py europeana-objects
+python scripts/normalize_kinds.py --world
+python scripts/world_peoples.py candidates
+python scripts/unvetted.py resolve
+python scripts/unvetted.py build
+python scripts/build_index.py
+python scripts/world_peoples.py gaps
+```
+
+`report` lists a people for visual picking only after the normal category
+rule. A classified people with at least six BM, Met/Cleveland, or multilingual
+Europeana evidence records can instead be marked `unvetted_only`, unless
+`data/world/onboard_queue.json` marks it as an umbrella or duplicate. Those
+cultures receive quiet globe markers and text-matched museum candidates, but
+no vetted objects, writeup, or facets. `unvetted.py build` creates a quiet stub
+shard when no existing atlas ethnicity matches; country-matched stubs are
+placed at a deterministic jitter around the country's polygon centroid.
+
 ## Adding a new culture (end-to-end, agentic)
 
 From the world list (`docs/world-peoples.md`), with vetted objects — the route new cultures take:
@@ -155,8 +190,10 @@ so the record survives the gitignored logs. `not_reached` is a candidate the
 pick never tried: the 10-per-category cap, or a BM candidate in a run without
 `BM_CDP_URL`. A judged candidate is not judged again: reruns read the cache.
 
-**Unreviewed objects.** Culture pages can show a separate, collapsed set of
-museum candidates matched to a people by text only. Resolve and build it with
+**Unreviewed objects.** Culture pages can show a separate set of museum
+candidates matched to a people by text only. For a picked culture, the section
+remains collapsed; for an `unvetted_only` culture it is the only content and
+opens by default. Resolve and build it with
 `python scripts/unvetted.py resolve --only KEY` and
 `python scripts/unvetted.py build`; images are hotlinked from the museums and
 these candidates are not counted in the vetted object totals.

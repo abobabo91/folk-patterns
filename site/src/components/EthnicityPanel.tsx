@@ -314,7 +314,7 @@ function UnvettedGrid({ items }: { items: UnvettedItem[] }) {
   );
 }
 
-function UnvettedSection({ ethKey, count }: { ethKey: string; count: number }) {
+function UnvettedSection({ ethKey, count, openByDefault = false }: { ethKey: string; count: number; openByDefault?: boolean }) {
   const [requested, setRequested] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -340,7 +340,7 @@ function UnvettedSection({ ethKey, count }: { ethKey: string; count: number }) {
   ] : [];
 
   return (
-    <details className="mt-8 border-t border-dusk/60 pt-5" onToggle={(event) => {
+    <details open={openByDefault} className="mt-8 border-t border-dusk/60 pt-5" onToggle={(event) => {
       if ((event.currentTarget as HTMLDetailsElement).open) load();
     }}>
       <summary className="cursor-pointer font-serif text-lg font-medium text-parchment/80">
@@ -504,6 +504,7 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
 
 export function EthnicityPanel({ point, shard, onClose }: Props) {
   const isOpen = !!point;
+  const unvettedOnly = !!(point?.unvetted_only || shard?.unvetted_only);
   return (
     <aside
       className={
@@ -519,9 +520,16 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
                 {point.country} · {point.homeland_place ?? point.region}
               </div>
               <h2 className="mt-1 font-serif text-4xl font-medium leading-tight">{point.ethnicity}</h2>
-              <p className="sub-meta mt-2 text-sm">
-                {point.object_count} object{point.object_count === 1 ? '' : 's'}
-              </p>
+              {unvettedOnly ? (
+                <>
+                  <p className="mt-2 text-sm text-amber-300/80">Not yet reviewed — museum objects matched by text only</p>
+                  <p className="sub-meta mt-2 text-sm">{shard?.unvetted_count ?? 0} unreviewed objects</p>
+                </>
+              ) : (
+                <p className="sub-meta mt-2 text-sm">
+                  {point.object_count} object{point.object_count === 1 ? '' : 's'}
+                </p>
+              )}
             </div>
             <button
               onClick={onClose}
@@ -533,7 +541,7 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
           </div>
 
           {/* Seed traditions */}
-          {point.seed_traditions.length > 0 && (
+          {!unvettedOnly && point.seed_traditions.length > 0 && (
             <div className="mt-6 flex flex-wrap gap-1.5">
               {point.seed_traditions.map((t) => (
                 <span key={t} className="tag">{t}</span>
@@ -548,9 +556,9 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
               When there's no writeup yet (new region, or ethnicity we
               haven't written up), fall back to rendering all art_form
               buckets in order so tiles still appear on the page. */}
-          {shard?.writeup_markdown ? (
+          {!unvettedOnly && shard?.writeup_markdown ? (
             <WriteupSection markdown={shard.writeup_markdown} shard={shard} />
-          ) : shard ? (
+          ) : !unvettedOnly && shard ? (
             <div className="mt-8 border-t border-dusk pt-6 space-y-8">
               {AF_ORDER.filter((af) => shard.art_form_buckets[af]?.length).map((af) => (
                 <ArtFormBucket key={af} af={af} label={AF_LABEL[af] ?? af}
@@ -560,19 +568,23 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
           ) : null}
 
           {/* Media: Commons photos + UNESCO ICH + Folkways audio */}
-          {shard && (shard.commons_photos?.length || shard.unesco_ich?.length || shard.folkways?.length) ? (
+          {!unvettedOnly && shard && (shard.commons_photos?.length || shard.unesco_ich?.length || shard.folkways?.length) ? (
             <MediaSection shard={shard} />
           ) : null}
 
-          {/* Unreviewed candidates always come last, below everything reviewed. */}
-          {shard && point && (shard.unvetted_count ?? 0) > 0 && (
+          {/* An unreviewed-only culture has no other content; its candidates
+              are the page. Existing vetted cultures keep this section last. */}
+          {shard && point && unvettedOnly && (
+            <UnvettedSection ethKey={point.key} count={shard.unvetted_count ?? 0} openByDefault />
+          )}
+          {shard && point && !unvettedOnly && (shard.unvetted_count ?? 0) > 0 && (
             <UnvettedSection ethKey={point.key} count={shard.unvetted_count ?? 0} />
           )}
 
           {!shard && (
             <div className="sub-mono mt-8 text-sm">Loading…</div>
           )}
-          {shard && shard.object_count === 0 && !shard.writeup_markdown && (
+          {shard && !unvettedOnly && shard.object_count === 0 && !shard.writeup_markdown && (
             <p className="sub-meta text-sm italic">
               No objects indexed yet for this ethnicity. Try running the scraper
               with a broader seed, or add local museum sources.

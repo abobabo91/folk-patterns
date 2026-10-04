@@ -7,6 +7,7 @@ export interface GlobePoint {
   lat: number;
   lon: number;
   object_count: number;
+  unvetted_only?: boolean;
   seed_traditions: string[];
   top_image: string | null;
 }
@@ -74,6 +75,7 @@ export interface EthnicityShard {
   seed_traditions: string[];
   object_count: number;
   unvetted_count?: number;
+  unvetted_only?: boolean;
   writeup_markdown: string | null;
   art_form_buckets: Record<string, SlimObject[]>;
   // media enrichment (optional — sidecars may be missing)

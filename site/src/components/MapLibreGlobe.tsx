@@ -56,6 +56,7 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
             ethnicity: p.ethnicity,
             country: p.country,
             count: Math.max(1, p.object_count),
+            unvetted: !!p.unvetted_only,
           },
         })),
       } as any;
@@ -78,11 +79,13 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         source: 'ethnicities',
         paint: {
           'circle-radius': [
-            'interpolate', ['linear'], ['get', 'count'],
+            'case', ['get', 'unvetted'], 3,
+            ['interpolate', ['linear'], ['get', 'count'],
             0, 10, 5, 12, 15, 18, 30, 24, 60, 32, 120, 40,
+            ],
           ],
           'circle-color': '#e0a94a',
-          'circle-opacity': 0.18,
+          'circle-opacity': ['case', ['get', 'unvetted'], 0.08, 0.18],
           'circle-blur': 0.6,
         },
       });
@@ -93,10 +96,13 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         source: 'ethnicities',
         paint: {
           'circle-radius': [
-            'interpolate', ['linear'], ['get', 'count'],
+            'case', ['get', 'unvetted'], 2.5,
+            ['interpolate', ['linear'], ['get', 'count'],
             0, 3.5, 5, 4, 15, 5.5, 30, 7, 60, 9, 120, 11,
+            ],
           ],
           'circle-color': '#e0a94a',
+          'circle-opacity': ['case', ['get', 'unvetted'], 0.4, 1],
           'circle-stroke-color': '#0a0a0c',
           'circle-stroke-width': 1.2,
         },

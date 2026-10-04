@@ -26,7 +26,7 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
-if hasattr(sys.stdout, "buffer"):
+if __name__ == "__main__" and hasattr(sys.stdout, "buffer"):
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace", line_buffering=True)
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
@@ -201,6 +201,30 @@ def build() -> None:
                 }
                 for t in eth["traditions"]:
                     tradition_owners[t.strip().lower()].append((region, c["country"], eth["name"]))
+
+    # Text-only world-list peoples that do not have a vetted seed get a quiet
+    # marker and an empty ethnicity shard. They never enter objects_by_eth, so
+    # they cannot affect vetted objects or facets.
+    stubs_path = DATA_DIR / "unvetted" / "stubs.json"
+    try:
+        stubs = json.loads(stubs_path.read_text(encoding="utf-8")) if stubs_path.exists() else []
+    except (OSError, json.JSONDecodeError):
+        stubs = []
+    for stub in stubs:
+        key = str(stub.get("ethnicity_key") or "")
+        if not key or key in eth_meta:
+            continue
+        eth_meta[key] = {
+            "key": key,
+            "region": stub["region"],
+            "country": stub["country"],
+            "ethnicity": stub["ethnicity"],
+            "homeland": {"lat": stub["lat"], "lon": stub["lon"]},
+            "homeland_place": None,
+            "seed_traditions": [],
+            "unvetted_only": True,
+            "stub": True,
+        }
 
     # Majority ethnicity per country — used as the fallback bucket for records
     # that were tagged with country=ethnicity or _regional and don't have a
@@ -425,6 +449,7 @@ def build() -> None:
             "object_count": len(objs),
             "seed_traditions": meta["seed_traditions"][:6],
             "top_image": top_image,
+            **({"unvetted_only": True} if meta.get("unvetted_only") else {}),
         })
 
     # Write shards. Wipe first so records that were dropped by junk /
@@ -604,8 +629,8 @@ def build() -> None:
                     if by_trad[t]:
                         interleaved.append(by_trad[t].pop(0))
             return [{k: v for k, v in it.items() if not k.startswith("_")} for it in interleaved]
-        writeup_md = _load_writeup(meta["region"], meta["country"], meta["ethnicity"])
-        media = _load_media(meta["region"], meta["country"], meta["ethnicity"])
+        writeup_md = None if meta.get("stub") else _load_writeup(meta["region"], meta["country"], meta["ethnicity"])
+        media = {} if meta.get("stub") else _load_media(meta["region"], meta["country"], meta["ethnicity"])
 
         # Fallback: if the museum-object gallery is empty or very thin, promote
         # a few curated Wikipedia-Commons photos into a "photo" gallery bucket.
@@ -617,7 +642,7 @@ def build() -> None:
             for af, recs in by_af.items()
         }
         real_object_count = len(objs)
-        if real_object_count < 5:
+        if not meta.get("stub") and real_object_count < 5:
             promo = []
             for i, cp in enumerate((media.get("commons_photos") or [])[:8]):
                 if not cp.get("thumb_url"):
@@ -655,8 +680,9 @@ def build() -> None:
             "unesco_ich": media.get("unesco_ich", []),
             "folkways": media.get("folkways", []),
         }
-        if unvetted_counts is not None:
-            shard["unvetted_count"] = int(unvetted_counts.get(key, 0) or 0)
+        if meta.get("unvetted_only"):
+            shard["unvetted_only"] = True
+        shard["unvetted_count"] = int((unvetted_counts or {}).get(key, 0) or 0)
         (out_root / "ethnicities" / f"{key}.json").write_text(
             json.dumps(shard, indent=2, ensure_ascii=False), encoding="utf-8"
         )
@@ -687,14 +713,21 @@ def build() -> None:
             )
 
     # Top-level index
+    countries_by_region = {
+        region: [c["country"] for c in seed["countries"]]
+        for region, seed in seeds.items()
+    }
+    for meta in eth_meta.values():
+        if meta.get("stub"):
+            countries_by_region.setdefault(meta["region"], [])
+            if meta["country"] not in countries_by_region[meta["region"]]:
+                countries_by_region[meta["region"]].append(meta["country"])
     index = {
-        "regions": sorted(seeds.keys()),
-        "countries_by_region": {
-            region: [c["country"] for c in seed["countries"]]
-            for region, seed in seeds.items()
-        },
+        "regions": sorted(countries_by_region.keys()),
+        "countries_by_region": countries_by_region,
         "ethnicity_keys": sorted(eth_meta.keys()),
         "all_objects_count": all_objects_count,
+        "unvetted_cultures_count": sum(bool(meta.get("unvetted_only")) for meta in eth_meta.values()),
         "facets": {
             "art_form": dict(global_facets["art_form"]),
             "source": dict(global_facets["source"]),

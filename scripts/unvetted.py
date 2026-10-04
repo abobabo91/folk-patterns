@@ -20,6 +20,7 @@ helper.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -44,7 +45,7 @@ ETHNICITIES_DIR = DATA_DIR / "ethnicities"
 OBJECTS_DIR = DATA_DIR / "objects"
 UNVETTED_DIR = DATA_DIR / "unvetted"
 
-UNVETTED_STATUSES = {"not_reached", "awaiting_judge", "fetch_failed", "unclassified"}
+UNVETTED_STATUSES = {"not_reached", "awaiting_judge", "fetch_failed", "unclassified", "no_pick"}
 HUMAN_REMAINS_RE = re.compile(
     r"cranium|kranium|skull|skalle|\btooth\b|\bteeth\b|\btand\b|human remains|mummy|bone|\bben\b",
     re.I,
@@ -103,6 +104,15 @@ def _coverage() -> dict[tuple[str, str, str], str]:
     }
 
 
+def _has_pick(key: str) -> bool:
+    return (WORLD_DIR / "picks" / f"{key}.json").exists()
+
+
+def _candidate_status(key: str, triple: tuple[str, str, str], coverage: dict[tuple[str, str, str], str]) -> str:
+    """A no-pick people has no judge gate: every candidate is text-only."""
+    return coverage.get(triple, "") if _has_pick(key) else "no_pick"
+
+
 def _object_stems() -> set[str]:
     if not OBJECTS_DIR.exists():
         return set()
@@ -157,7 +167,7 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
     resolved = 0
     bm_refreshed = False
 
-    def record(key: str, obj: dict, detail: dict | None, error: str = "") -> None:
+    def record(key: str, obj: dict, detail: dict | None, error: str = "", status: str = "") -> None:
         nonlocal resolved
         title = (detail or {}).get("title") or obj.get("name") or ""
         image_url = (detail or {}).get("image_url") or ""
@@ -165,7 +175,7 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
         ok = bool(detail and image_url and not remains)
         row = {
             "key": key, "source": obj["source"], "id": obj["id"],
-            "title": title, "image_url": image_url, "ok": ok,
+            "title": title, "image_url": image_url, "ok": ok, "status": status,
             "at": date.today().isoformat(),
         }
         if error or not ok:
@@ -184,7 +194,8 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
                         return
                     source, oid = str(obj.get("source", "")), str(obj.get("id", ""))
                     triple = (key, source, oid)
-                    if coverage.get(triple) not in UNVETTED_STATUSES:
+                    status = _candidate_status(key, triple, coverage)
+                    if _has_pick(key) and status not in UNVETTED_STATUSES:
                         continue
                     if triple in exclusions or HUMAN_REMAINS_RE.search(str(obj.get("name", ""))):
                         continue
@@ -214,7 +225,7 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
                         error = type(exc).__name__
                     if detail and HUMAN_REMAINS_RE.search(str(detail.get("title") or "")):
                         error = "human remains"
-                    record(key, obj, detail, error)
+                    record(key, obj, detail, error, status)
                     if processed % 25 == 0:
                         print(f"resolved {processed} candidates ({resolved} cache lines added)", flush=True)
     finally:
@@ -270,6 +281,157 @@ def _ethnicity_shards(candidate: dict) -> list[dict]:
     return matches
 
 
+def _stub_name(candidate: dict) -> str:
+    pick_path = WORLD_DIR / "picks" / f"{candidate.get('key')}.json"
+    name = ""
+    if pick_path.exists():
+        try:
+            name = str(json.loads(pick_path.read_text(encoding="utf-8")).get("name") or "")
+        except (OSError, json.JSONDecodeError):
+            pass
+    name = name or str(candidate.get("label") or "")
+    return re.sub(r"\s+peoples?$", "", name, flags=re.I).strip()
+
+
+def _stub_key(region: str, country: str, ethnicity: str) -> str:
+    from slugify import slugify
+    return "__".join(slugify(x) for x in (region, country, ethnicity))
+
+
+def _geo_points(value) -> Iterable[tuple[float, float]]:
+    if isinstance(value, list) and len(value) >= 2 and all(isinstance(x, (int, float)) for x in value[:2]):
+        yield float(value[0]), float(value[1])
+    elif isinstance(value, list):
+        for child in value:
+            yield from _geo_points(child)
+
+
+def _ring_centroid(ring: list) -> tuple[float, float, float]:
+    """Return (area, latitude, longitude) for a GeoJSON outer ring."""
+    points = [(float(p[0]), float(p[1])) for p in ring if isinstance(p, list) and len(p) >= 2]
+    if len(points) < 3:
+        if not points:
+            return 0.0, 0.0, 0.0
+        return 0.0, sum(p[1] for p in points) / len(points), sum(p[0] for p in points) / len(points)
+    twice_area = 0.0
+    lon_sum = lat_sum = 0.0
+    for (x1, y1), (x2, y2) in zip(points, points[1:] + points[:1]):
+        cross = x1 * y2 - x2 * y1
+        twice_area += cross
+        lon_sum += (x1 + x2) * cross
+        lat_sum += (y1 + y2) * cross
+    if abs(twice_area) < 1e-12:
+        return 0.0, sum(p[1] for p in points) / len(points), sum(p[0] for p in points) / len(points)
+    return abs(twice_area) / 2, lat_sum / (3 * twice_area), lon_sum / (3 * twice_area)
+
+
+def _country_centroid(country: str, geojson_path: Path | None = None) -> tuple[float, float] | None:
+    path = geojson_path or (REPO / "site" / "public" / "data" / "world-countries.geojson")
+    if not path.exists():
+        return None
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    wanted = _norm(country.split("(", 1)[0].strip())
+    for feature in data.get("features", []):
+        name = str((feature.get("properties") or {}).get("name") or "")
+        if _norm(name) != wanted:
+            continue
+        geometry = feature.get("geometry") or {}
+        coordinates = geometry.get("coordinates")
+        rings = []
+        if geometry.get("type") == "Polygon":
+            rings = [coordinates[0]] if coordinates else []
+        elif geometry.get("type") == "MultiPolygon":
+            rings = [polygon[0] for polygon in (coordinates or []) if polygon]
+        centroids = [_ring_centroid(ring) for ring in rings]
+        weighted = [(area, lat, lon) for area, lat, lon in centroids if area]
+        if weighted:
+            total = sum(area for area, _, _ in weighted)
+            return (sum(area * lat for area, lat, _ in weighted) / total,
+                    sum(area * lon for area, _, lon in weighted) / total)
+        points = list(_geo_points(coordinates))
+        if not points:
+            return None
+        return (sum(lat for _, lat in points) / len(points), sum(lon for lon, _ in points) / len(points))
+    return None
+
+
+def _stub_jitter(people_key: str) -> tuple[float, float]:
+    digest = hashlib.sha256(people_key.encode("utf-8")).digest()
+    return ((digest[0] / 255) * 3 - 1.5, (digest[1] / 255) * 3 - 1.5)
+
+
+def _site_region(continent: str, region: str) -> str:
+    text = f"{continent} {region}".casefold()
+    if any(x in text for x in ("middle east", "north africa", "mena")):
+        return "middle-east-north-africa"
+    if "europe" in text:
+        return "europe"
+    if "central asia" in text:
+        return "central-asia"
+    if "south asia" in text:
+        return "south-asia"
+    if "south east asia" in text or "southeast asia" in text:
+        return "southeast-asia"
+    if "east asia" in text:
+        return "east-asia"
+    if "north america" in text or "arctic" in text:
+        return "north-america"
+    if "america" in text or "andes" in text or "caribbean" in text:
+        return "latin-america"
+    if "oceania" in text or "melanesia" in text or "micronesia" in text or "polynesia" in text:
+        return "oceania"
+    if "africa" in text:
+        return "sub-saharan-africa"
+    continent = continent.casefold()
+    return {
+        "europe": "europe",
+        "asia": "east-asia",
+        "americas": "latin-america",
+        "north america": "north-america",
+        "oceania": "oceania",
+        "africa": "sub-saharan-africa",
+    }.get(continent, "sub-saharan-africa")
+
+
+def _existing_country_regions() -> dict[str, str]:
+    counts: dict[str, dict[str, int]] = {}
+    for path in sorted(ETHNICITIES_DIR.glob("*.json")):
+        try:
+            shard = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        country = _norm(str(shard.get("country") or ""))
+        region = str(shard.get("region") or "")
+        if country and region:
+            counts.setdefault(country, {})[region] = counts.setdefault(country, {}).get(region, 0) + 1
+    return {country: sorted(regions.items(), key=lambda x: (-x[1], x[0]))[0][0]
+            for country, regions in counts.items()}
+
+
+def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dict | None:
+    country = str(candidate.get("country") or "").strip()
+    centroid = _country_centroid(country)
+    if centroid is None:
+        print(f"  country polygon miss: {candidate.get('key')} {country}", flush=True)
+        return None
+    region = country_regions.get(_norm(country)) or _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
+    name = _stub_name(candidate)
+    lat, lon = centroid
+    dlat, dlon = _stub_jitter(str(candidate.get("key") or name))
+    return {
+        "ethnicity_key": _stub_key(region, country, name),
+        "people_key": str(candidate.get("key") or ""),
+        "region": region,
+        "country": country,
+        "ethnicity": name,
+        "lat": max(-90, min(90, round(lat + dlat, 5))),
+        "lon": round(lon + dlon, 5),
+    }
+
+
 def _object_url(source: str, oid: str) -> str:
     if source == "bm":
         return f"https://www.britishmuseum.org/collection/object/{oid}"
@@ -298,21 +460,45 @@ def cmd_build(only: list[str]) -> None:
 
     written: dict[str, int] = {}
     unmatched: list[str] = []
+    country_regions = _existing_country_regions()
+    stubs_path = UNVETTED_DIR / "stubs.json"
+    try:
+        old_stubs = json.loads(stubs_path.read_text(encoding="utf-8")) if stubs_path.exists() else []
+    except (OSError, json.JSONDecodeError):
+        old_stubs = []
+    stubs = {str(x.get("people_key")): x for x in old_stubs if isinstance(x, dict) and x.get("people_key")}
+    targeted_keys = {str(candidate.get("key", "")) for candidate in candidates}
+    if only:
+        for key in targeted_keys:
+            old_stub = stubs.pop(key, None)
+            if old_stub:
+                old_index.pop(str(old_stub.get("ethnicity_key") or ""), None)
+    else:
+        stubs = {}
     for candidate in candidates:
         matches = _ethnicity_shards(candidate)
-        if not matches:
-            unmatched.append(str(candidate.get("key", "")))
-            continue
-        meta = matches[0]
-        ethkey = str(meta.get("key") or meta.get("_ethkey") or "")
+        stub = False
+        if matches:
+            meta = matches[0]
+            ethkey = str(meta.get("key") or meta.get("_ethkey") or "")
+        else:
+            meta = _stub_for_candidate(candidate, country_regions)
+            if not meta:
+                unmatched.append(str(candidate.get("key", "")))
+                continue
+            ethkey = meta["ethnicity_key"]
+            stubs[str(candidate.get("key", ""))] = meta
+            stub = True
         buckets: dict[str, list[dict]] = {}
         other: list[dict] = []
         for category, objects in (candidate.get("objects") or {}).items():
             for obj in objects or []:
                 source, oid = str(obj.get("source", "")), str(obj.get("id", ""))
-                if coverage.get((str(candidate.get("key", "")), source, oid)) not in UNVETTED_STATUSES:
+                triple = (str(candidate.get("key", "")), source, oid)
+                status = _candidate_status(str(candidate.get("key", "")), triple, coverage)
+                if _has_pick(str(candidate.get("key", ""))) and status not in UNVETTED_STATUSES:
                     continue
-                if (str(candidate.get("key", "")), source, oid) in exclusions:
+                if triple in exclusions:
                     continue
                 cached = details.get((source, oid))
                 if not cached or not cached.get("ok") or not cached.get("image_url"):
@@ -336,7 +522,7 @@ def cmd_build(only: list[str]) -> None:
         UNVETTED_DIR.mkdir(parents=True, exist_ok=True)
         (UNVETTED_DIR / f"{ethkey}.json").write_text(json.dumps(shard, indent=2, ensure_ascii=False), encoding="utf-8")
         written[ethkey] = count
-        print(f"{candidate.get('label', candidate.get('key'))}: {count}", flush=True)
+        print(f"{candidate.get('label', candidate.get('key'))}: {count}{' (stub)' if stub else ''}", flush=True)
 
     if unmatched:
         print("Unmatched keys: " + ", ".join(unmatched), flush=True)
@@ -357,6 +543,7 @@ def cmd_build(only: list[str]) -> None:
             if path.name != "index.json" and path.stem not in written:
                 path.unlink()
     index_path.write_text(json.dumps(final_index, indent=2, ensure_ascii=False), encoding="utf-8")
+    stubs_path.write_text(json.dumps(sorted(stubs.values(), key=lambda x: x["ethnicity_key"]), indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Total: {sum(final_index.values())}", flush=True)
 
 
