@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1980-22-80",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1980-22-80",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1980-22-80",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1980.22.80",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Sudan",
+    "ethnicity": "Rizeigat",
+    "tradition": "Rizeigat",
+    "art_form": "household",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The picture shows a decorated glass bottle wrapped in leather with long fiber tassels, explicitly recorded as made by the Rizeigat. It fits the claimed ethnicity, but it is household work rather than ceramic.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "household",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "bottle",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "bottle",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Bottle made of glass, leather.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/sudan/rizeigat/household/rizeigat/images/bm_E_Af1980_22_80.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "47098339fccc99086052f133579ddb45698003819a2a2c8631e03a3ffd258123",
+      "bytes": 36174,
+      "local_path": "library\\sub-saharan-africa\\sudan\\rizeigat\\household\\rizeigat\\images\\bm_E_Af1980_22_80.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-04T14:27:08.390229+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2022703_pages_Main_idt_19251_inventary_CE596_table_FMUS_museum_MNA",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "National Museum of Anthropology",
+    "object_id": "2022703_pages_Main_idt_19251_inventary_CE596_table_FMUS_museum_MNA",
+    "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_19251_inventary_CE596_table_FMUS_museum_MNA?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Ecuador",
+    "ethnicity": "Shuar",
+    "tradition": "Shuar",
+    "art_form": "arms",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The image shows a round, decorated wooden shield, an object consistent with Shuar weaponry and material culture. It fits the claimed ethnicity and arms category.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "arms",
+    "pick_quality": 4,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "Escudo",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "National Museum of Anthropology",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/ecuador/shuar/arms/shuar/images/eu_2022703_pages_Main_idt_19251_inventary_CE596_table_FMUS_museum_MNA.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "384fb2b309bef07010c7bbf941336c994666da5ddeec4c933168d80d79887ee1",
+      "bytes": 37815,
+      "local_path": "library\\latin-america\\ecuador\\shuar\\arms\\shuar\\images\\eu_2022703_pages_Main_idt_19251_inventary_CE596_table_FMUS_museum_MNA.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE596_P.JPG%26Ninv%3DCE596&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-04T14:14:55.542254+00:00"
+}

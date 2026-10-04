@@ -1,0 +1,89 @@
+{
+  "id": "europeana-91608_SMVK_VKM_objekt_1246866",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "Museum of World Culture",
+    "object_id": "91608_SMVK_VKM_objekt_1246866",
+    "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_1246866?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "public-domain",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Guatemala",
+    "ethnicity": "Maya",
+    "tradition": "Maya",
+    "art_form": "garment",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a huipil blouse with woven red/pink stripes and an embroidered floral neckline, a classic Maya women's garment purchased at markets in Guatemala; general regional attribution to Maya is reasonable even without a specific local identification.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "garment",
+    "pick_quality": 3,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "blus, huipil",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "Museum of World Culture",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/guatemala/maya/garment/maya/images/eu_91608_SMVK_VKM_objekt_1246866.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "ef69b7d7007c77cc3a036e4ea10402684b5db101447b8c5f46277334fb9289be",
+      "bytes": 76848,
+      "local_path": "library\\latin-america\\guatemala\\maya\\garment\\maya\\images\\eu_91608_SMVK_VKM_objekt_1246866.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247298%2Fimage.jpg&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-02T18:41:21.589506+00:00"
+}

@@ -761,6 +761,13 @@ unsupported terms from 43 short profiles; four leftovers were read by hand
 Mongols profile that was removed). The index went from 12,894 objects in 213
 cultures to 17,684 in 450.
 
+On 2026-10-04, with the cloud credit used up, local Codex judged the rescued
+candidates of the 33 thin peoples at `--tries 50`; 8 reached 5 or more and were
+onboarded with Maya and Betsimisaraka (their picks were already judged). A
+`--tries 20` sample on Yaka, Zapotec, Yurok, Zuni and Yaqui judged 148 more
+candidates at about 8–10 s each and raised them from 58/44/32/24/22 to
+95/85/47/40/28 kept. The index went to 17,871 objects in 460 cultures.
+
 **Current coverage (2026-10-02):** `scripts/_vet_status.py` reports 18,740/18,740
 library records judged, 17,838 accepted and 902 dropped. The site index has
 17,684 objects in 450 cultures. This is model-based visual review of all library

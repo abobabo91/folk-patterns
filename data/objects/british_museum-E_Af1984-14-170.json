@@ -1,0 +1,88 @@
+{
+  "id": "british_museum-E_Af1984-14-170",
+  "source": {
+    "museum": "british_museum",
+    "museum_name": "British Museum",
+    "object_id": "E_Af1984-14-170",
+    "object_url": "https://www.britishmuseum.org/collection/object/E_Af1984-14-170",
+    "iiif_manifest": null,
+    "credit_line": "© The Trustees of the British Museum",
+    "rights": "CC BY-NC-SA 4.0",
+    "license_url": null,
+    "accession_number": "E,Af1984.14.170",
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "sub-saharan-africa",
+    "country": "Madagascar",
+    "ethnicity": "Betsimisaraka",
+    "tradition": "Betsimisaraka",
+    "art_form": "sculpture",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:claude-sonnet-5",
+    "vision_reason": "The image shows a painted wooden carved figure of a seated/standing human figure, attributed by the museum to Betsimisaraka production, consistent with their tradition of memorial and figural wood sculpture.",
+    "vision_confidence": "MEDIUM",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "sculpture",
+    "pick_quality": 3,
+    "pick_featured": true
+  },
+  "physical": {
+    "title": "figure",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": "figure",
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": "Human figure (seated) made of wood.",
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "British Museum",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/sub-saharan-africa/madagascar/betsimisaraka/sculpture/betsimisaraka/images/bm_E_Af1984_14_170.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "61cdbf76f45de5b3952939534e8d078c98a7edb8f897b7d1bfe84effc7dc7b54",
+      "bytes": 32965,
+      "local_path": "library\\sub-saharan-africa\\madagascar\\betsimisaraka\\sculpture\\betsimisaraka\\images\\bm_E_Af1984_14_170.jpg"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-02T18:47:47.690238+00:00"
+}

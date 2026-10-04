@@ -1,0 +1,89 @@
+{
+  "id": "europeana-2022703_pages_Main_idt_8892_inventary_CE566_table_FMUS_museum_MNA",
+  "source": {
+    "museum": "europeana",
+    "museum_name": "National Museum of Anthropology",
+    "object_id": "2022703_pages_Main_idt_8892_inventary_CE566_table_FMUS_museum_MNA",
+    "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_8892_inventary_CE566_table_FMUS_museum_MNA?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+    "iiif_manifest": null,
+    "credit_line": null,
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+    "accession_number": null,
+    "accession_year": null
+  },
+  "cultural": {
+    "region": "latin-america",
+    "country": "Ecuador",
+    "ethnicity": "Shuar",
+    "tradition": "Shuar",
+    "art_form": "jewelry",
+    "pattern_density": 0,
+    "vision_vetted": true,
+    "vision_by": "pick:codex-gpt-5.6-luna",
+    "vision_reason": "The picture shows a traditional Shuar-style necklace or collar made of glass beads and suspended nacre plaques, a form of bodily adornment consistent with the metadata’s Shuar attribution. It fits the claimed people, but the correct category is jewelry rather than garment.",
+    "vision_confidence": "HIGH",
+    "vision_image": "good",
+    "vision_era": "traditional",
+    "art_form_vision": "jewelry",
+    "pick_quality": 4,
+    "pick_featured": false
+  },
+  "physical": {
+    "title": "Collar",
+    "titles_alt": [],
+    "date_text": null,
+    "date_earliest": null,
+    "date_latest": null,
+    "period": null,
+    "dynasty": null,
+    "materials": [],
+    "techniques": [],
+    "medium_raw": null,
+    "classification": null,
+    "styles": [],
+    "categories": [],
+    "physical_description": null,
+    "summary": null,
+    "historical_context": null,
+    "dimensions": [],
+    "dimensions_note": null,
+    "marks_inscriptions": null
+  },
+  "location": {
+    "made_in_place": null,
+    "made_in_place_alt": [],
+    "current_gallery": null,
+    "current_museum": "National Museum of Anthropology",
+    "on_display": null
+  },
+  "attribution": {
+    "makers": [],
+    "acquisition_history": [],
+    "excavation": null
+  },
+  "linked_data": {
+    "wikidata_url": null,
+    "aat_urls": [],
+    "wikipedia": null,
+    "other_urls": []
+  },
+  "images": [
+    {
+      "url": "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev/latin-america/ecuador/shuar/jewelry/shuar/images/eu_2022703_pages_Main_idt_8892_inventary_CE566_table_FMUS_museum_MNA.jpg",
+      "iiif_id": null,
+      "iiif_base": null,
+      "role": "primary",
+      "sha256": "f0e7a30aee93c49fdbfc2763807a859e4ab876e2c758db8c746c2b0b42d7ed9f",
+      "bytes": 16275,
+      "local_path": "library\\latin-america\\ecuador\\shuar\\jewelry\\shuar\\images\\eu_2022703_pages_Main_idt_8892_inventary_CE566_table_FMUS_museum_MNA.jpg",
+      "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE566_SEQ_001_P.JPG%26Ninv%3DCE566&type=IMAGE"
+    }
+  ],
+  "map": {
+    "lat": null,
+    "lon": null,
+    "geocoded_from": null
+  },
+  "processed_at": "2026-10-04T14:15:08.492749+00:00"
+}
