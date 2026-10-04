@@ -2,11 +2,27 @@
  "key": "Q231317",
  "label": "Zuni people",
  "name": "Zuni",
- "judged": 0,
- "cached": 35,
+ "judged": 38,
+ "cached": 23,
  "cost_usd": 0,
  "ranked": {
   "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Am1998-06-42",
+    "name": "necklace",
+    "kind": "necklace",
+    "title": "necklace",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/c5ead5a2_1756_467f_b688_a3b801201a8b/preview_00318034_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows an elaborate turquoise, coral, shell, and mother-of-pearl necklace, explicitly identified by the museum as made by Zuni artisans; it fits Zuni jewelry.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Am2001-16-8-a-b",
@@ -41,6 +57,102 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1997-12-10",
+    "name": "finger-ring",
+    "kind": "ring",
+    "title": "finger-ring",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_15/70cdcb34_e587_45a0_9eca_a3bb00f93f75/preview_00317323_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a silver finger-ring with distinctive inlay mosaic work, and the metadata explicitly identifies it as made by Zuni artisans, fitting Zuni jewelry.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1998-06-51-a",
+    "name": "bolo tie; jewellery-making equipment",
+    "kind": "bolo tie",
+    "title": "bolo tie; jewellery-making equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/ec718339_f008_408a_a5ec_a3b801202449/preview_00318073_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows handmade silver jewelry-making pieces, including a distinctive Zuni “sunface” bolo-tie bezel with silver beads and wire. The museum explicitly attributes it to Zuni makers, so it fits the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1998-07-7",
+    "name": "brooch",
+    "kind": "brooch",
+    "title": "brooch",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/d2cbeaeb_39ce_4773_9a1d_a3b80156c15e/preview_00332067_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a collection of silver jewelry, including a butterfly brooch with turquoise and other stone inlay, explicitly identified as made by Zuni artisans. It fits the claimed Zuni ethnicity and jewelry category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1998-06-18-a-b",
+    "name": "ear-ring",
+    "kind": "earring",
+    "title": "ear-ring",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/9a64590d_ecff_4587_bc70_a3b8012039e0/preview_00317988_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a pair of Zuni-made silver earrings with deer imagery and shell/stone inlay, fitting the claimed Zuni jewelry category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1998-06-17",
+    "name": "bolo tie",
+    "kind": "bolo tie",
+    "title": "bolo tie",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/4c35060a_ba53_4de7_8de7_a3b8012032ba/preview_00317985_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handmade bolo tie with a silver inlaid centerpiece, leather cord, and metal tips, identified by the museum as made by Zuni artisans. It fits Zuni jewelry and adornment.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_100127",
+    "name": "armband, Silverarmband., armlet, bracelet",
+    "kind": "bracelet",
+    "title": "armband, Silverarmband., armlet, bracelet",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1204725/zoom",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade silver Zuni armband decorated with turquoise and red coral; the museum metadata independently identifies the maker as Zuni, so it fits the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Am1998-06-4",
     "name": "finger-ring",
     "kind": "ring",
@@ -53,7 +165,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A silver ring with turquoise and coral leaf-shaped bezels, classic Zuni/Southwest silversmithing style, museum attributes it to a Zuni maker; consistent with Zuni jewelry tradition.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +181,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A silver and turquoise brooch with a cluster/dangle needlepoint-style setting, signed \"R. Gchacha ZUNI\" on back — a well-documented Zuni silversmithing style and maker attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,22 +197,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A silver necklace with cloud-form pendants and reversible turquoise/coral/mother-of-pearl/spiny oyster/serpentine teardrop settings, a well-documented Zuni silverwork style, matching the museum's attribution.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1998-06-51-c",
-    "name": "bolo tie; trial-piece; jewellery-making equipment",
-    "kind": "bolo tie",
-    "title": "bolo tie; trial-piece; jewellery-making equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/ec718339_f008_408a_a5ec_a3b801202449/preview_00318073_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a silver concha/sunface pendant plus raw materials (shell, jet, coral, turquoise) and partially assembled inlay pieces used in Zuni jewelry-making, consistent with the claimed Zuni maker/tradition.",
     "featured": false
    },
    {
@@ -117,6 +213,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a silver and turquoise squash-blossom necklace surrounded by several cluster-style turquoise bracelets, a classic Southwest silverwork ensemble consistent with Zuni jewelry-making traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1998-06-51-c",
+    "name": "bolo tie; trial-piece; jewellery-making equipment",
+    "kind": "bolo tie",
+    "title": "bolo tie; trial-piece; jewellery-making equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/ec718339_f008_408a_a5ec_a3b801202449/preview_00318073_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a silver concha/sunface pendant plus raw materials (shell, jet, coral, turquoise) and partially assembled inlay pieces used in Zuni jewelry-making, consistent with the claimed Zuni maker/tradition.",
     "featured": false
    }
   ],
@@ -139,6 +251,38 @@
    }
   ],
   "ceramic": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1314084",
+    "name": "kärl, kruka, vessel",
+    "kind": "vessel",
+    "title": "kärl, kruka, vessel",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1331442/1904.19.0518_alt.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a distinctive decorated Zuni Pueblo ceramic vessel, with geometric and organic painted designs consistent with the metadata’s “Old Zuni” attribution. It fits the claimed ethnicity and ceramic category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1267456",
+    "name": "kärl, skål, kruka, bowl, vessel",
+    "kind": "bowl",
+    "title": "kärl, skål, kruka, bowl, vessel",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1267458/1922.10.0007_alt3.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows a whole, elaborately painted Zuni ceramic vessel with animal and geometric designs, matching the museum’s explicit Zuni attribution and Arizona context.",
+    "featured": true
+   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_17189",
@@ -173,22 +317,6 @@
    },
    {
     "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1261015",
-    "name": "kärl, skål, kruka, vessel, bowl",
-    "kind": "vessel",
-    "title": "kärl, skål, kruka, vessel, bowl",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1331415/1904.19.0520.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a polychrome painted ceramic bowl labeled \"New Zuni, New Mexico Zuni\" with typical Zuni-style geometric and scroll designs in white, brown, and orange slip — consistent with Zuni pottery traditions.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
     "id": "/91619/SMVK_EM_objekt_1267894",
     "name": "pot, vessel,",
     "kind": "pot",
@@ -205,6 +333,22 @@
    },
    {
     "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1261015",
+    "name": "kärl, skål, kruka, vessel, bowl",
+    "kind": "vessel",
+    "title": "kärl, skål, kruka, vessel, bowl",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1331415/1904.19.0520.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a polychrome painted ceramic bowl labeled \"New Zuni, New Mexico Zuni\" with typical Zuni-style geometric and scroll designs in white, brown, and orange slip — consistent with Zuni pottery traditions.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
     "id": "/91619/SMVK_EM_objekt_1606149",
     "name": "pot, vessel,",
     "kind": "pot",
@@ -217,7 +361,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A hand-built, painted ceramic olla with black geometric interlocking-scroll designs on a light slip, labeled \"Old Zuni\" from a New Mexico collecting trip — consistent with traditional Zuni pottery.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "europeana",
@@ -250,6 +394,104 @@
     "confidence": "MEDIUM",
     "reason": "A polychrome ceramic bowl with painted geometric/cross motif in red and black, attributed to Zuni, Arizona — a classic Puebloan pottery form and consistent with Zuni ceramic tradition.",
     "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_17186",
+    "name": "skål, kärl",
+    "kind": "bowl",
+    "title": "skål, kärl",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155706/zoom",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a hand-decorated Zuni pottery bowl with geometric and animal motifs on a white ground, fitting the claimed Zuni ethnicity and ceramic category.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_17191",
+    "name": "kärl, skål",
+    "kind": "bowl",
+    "title": "kärl, skål",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155714/zoom",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade Zuni Pueblo pottery bowl with a wavy rim and stylized bird decoration, fitting the claimed Zuni ethnicity and ceramic category.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_17193",
+    "name": "kärl, skål",
+    "kind": "bowl",
+    "title": "kärl, skål",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155718/zoom",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a hand-painted Zuni clay bowl with bird motifs and a scalloped rim, fitting the claimed Zuni ceramic tradition.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_17195",
+    "name": "kärl, Lerskål",
+    "kind": "bowl",
+    "title": "kärl, Lerskål",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155722/zoom",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a painted Zuni clay bowl with geometric red, black, and white decoration, consistent with the museum’s attribution to Zuni pottery from New Mexico. It is a complete, clearly visible vessel, though the photograph is somewhat aged.",
+    "featured": false
+   }
+  ],
+  "garment": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_15830",
+    "name": "bälte, Läderbälte",
+    "kind": "belt",
+    "title": "bälte, Läderbälte",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611634/zoom",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a black leather belt with a silver buckle and multiple silver ornaments, a wearable adornment attributed to the Zuni. It fits the claimed ethnicity and garment category, though the object could also reflect broader Southwestern Indigenous silversmithing.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_33005_inventary_CE20227_table_FMUS_museum_MNA",
+    "name": "Corbata",
+    "kind": "necktie",
+    "title": "Corbata",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE20227_P.JPG&Ninv=CE20227",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The picture shows a handmade black leather bolo tie with silver tips and a silver, turquoise-and-shell inlaid bird clasp, a type of adornment plausibly made and worn by Zuni people.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -303,6 +545,22 @@
    }
   ],
   "photo": [
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_1498943",
+    "name": "silver, kvinna, smycke, smed, hantverk, fotografi, photograph",
+    "kind": "photograph",
+    "title": "silver, kvinna, smycke, smed, hantverk, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1498994/image.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph shows a Zuni woman making silver jewelry in New Mexico, documenting Zuni craft practice and material culture. It therefore fits the claimed Zuni ethnicity and photo category.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-B31-17",
@@ -381,7 +639,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The photo documents Zuni agricultural garden plots walled and fenced with adobe and brush, part of the Zuni Pueblo landscape and traditional farming practice — a documentary view of their daily-life infrastructure.",
-    "featured": true
+    "featured": false
    }
   ],
   "masks-ritual": [

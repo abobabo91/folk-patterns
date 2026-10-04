@@ -437,6 +437,49 @@
               "Garifuna people"
             ]
           }
+        },
+        {
+          "name": "Maya",
+          "homeland": {
+            "lat": 14.943,
+            "lon": -91.111
+          },
+          "homeland_place": "Chichicastenango",
+          "traditions": [
+            "huipil",
+            "corte",
+            "faja",
+            "tzute",
+            "morrales",
+            "K'iche' weaving",
+            "Kaqchikel weaving",
+            "Maya glyphs",
+            "stela carving"
+          ],
+          "arch_commons_categories": [
+            "Tikal",
+            "Quiriguá",
+            "Yaxha",
+            "Uaxactun",
+            "El Mirador",
+            "Iximché",
+            "Kaminaljuyu"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Maya",
+              "Mayan",
+              "Guatemalan Maya",
+              "K'iche'",
+              "Quiché",
+              "Kaqchikel",
+              "Cakchiquel",
+              "Tz'utujil",
+              "Mam",
+              "Q'eqchi'",
+              "Kekchi"
+            ]
+          }
         }
       ]
     },
@@ -1421,6 +1464,35 @@
               "Quichua",
               "Saraguro Indians",
               "Indians of Loja"
+            ]
+          }
+        },
+        {
+          "name": "Shuar",
+          "homeland": {
+            "lat": -2.31,
+            "lon": -78.12
+          },
+          "homeland_place": "Macas",
+          "traditions": [
+            "tsantsa",
+            "itip",
+            "tarach",
+            "natem",
+            "ayahuasca",
+            "uwishin",
+            "arutam",
+            "Shuar feather headdress"
+          ],
+          "arch_commons_categories": [],
+          "source_queries": {
+            "cleveland": [
+              "Shuar",
+              "Jivaro",
+              "Jívaro",
+              "Jibaro",
+              "Givaro",
+              "Xivaro"
             ]
           }
         }

@@ -3,7 +3,90 @@
  "label": "Rizeigat tribe",
  "name": "Rizeigat tribe",
  "judged": 0,
- "cached": 0,
+ "cached": 5,
  "cost_usd": 0,
- "ranked": {}
+ "ranked": {
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1980-22-78",
+    "name": "basket; marriage equipment",
+    "kind": "marriage basket",
+    "title": "basket; marriage equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_21/dcfbd835_809c_4f15_8745_a3e1016a51ac/preview_00135726_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handmade lidded woven-fibre basket with carrying straps, consistent with the metadata identifying it as Rizeigat wedding equipment. It plausibly represents a household object made and used by the claimed Rizeigat people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1980-22-82-a-b",
+    "name": "basket; lid",
+    "kind": "basket",
+    "title": "basket; lid",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_8/21a5a4b6_8361_4ddf_9d75_a48700840f15/preview_EAF60402.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a complete handwoven fibre basket with a lid, leather details, and carrying strap, explicitly attributed to the Rizeigat of Sudan. It is a household object plausibly made and used by the claimed people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1980-22-80",
+    "name": "bottle",
+    "kind": "bottle",
+    "title": "bottle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/24_15/d70c79c5_5b23_4afa_a208_a48400f76c16/preview_EAF60400.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a decorated glass bottle wrapped in leather with long fiber tassels, explicitly recorded as made by the Rizeigat. It fits the claimed ethnicity, but it is household work rather than ceramic.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1980-22-81",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_8/42c79178_c622_4126_9e4b_a48700840cbe/preview_EAF60401.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a distinctive handwoven fibre basket with leather decoration, matching the metadata identifying it as made by the Rizeigat people of Sudan. It is a traditional household object and fits the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1980-22-79-a-b",
+    "name": "basket; lid",
+    "kind": "basket",
+    "title": "basket; lid",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_8/fc15a243_2fa3_4934_87ea_a48700840a21/preview_EAF60398.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade vegetable-fibre basket with a lid, leather decoration, and tassels, explicitly attributed by the museum to the Rizeigat/Rizayqat. It fits the claimed ethnicity and household category.",
+    "featured": true
+   }
+  ]
+ }
 }

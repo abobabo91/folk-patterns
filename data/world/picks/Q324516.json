@@ -3,7 +3,7 @@
  "label": "Choctaw",
  "name": "Choctaw",
  "judged": 0,
- "cached": 13,
+ "cached": 14,
  "cost_usd": 0,
  "ranked": {
   "photo": [
@@ -69,6 +69,40 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "Studio portrait of Basil LeFlore, former governor of the Choctaw Nation, documenting a named Choctaw individual's dress and life — fits the claimed ethnicity as a documentary photo.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A16-3",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_6/0bba0e2f_c38e_48f9_861f_a3c10072c924/preview_00611459_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image is a historical studio portrait of Sampsom Folsom, identified as a Choctaw delegate; it documents a Choctaw person, though his Western-style clothing is not culturally distinctive.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Am1994-02-4",
+    "name": "carrying-basket",
+    "kind": "basket",
+    "title": "carrying-basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_8/28_11/366ccf55_2f55_4b73_8dbc_aab700c112a5/preview_am1994_02_4__a_.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handwoven river-cane carrying basket with a handle, matching the metadata’s description and a Choctaw household object. Its form and materials are consistent with Southeastern Indigenous basketry, and the record explicitly attributes it to the Choctaw.",
     "featured": true
    }
   ]

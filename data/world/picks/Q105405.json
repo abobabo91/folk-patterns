@@ -3,7 +3,7 @@
  "label": "Cherokee",
  "name": "Cherokee",
  "judged": 0,
- "cached": 17,
+ "cached": 22,
  "cost_usd": 0,
  "ranked": {
   "photo": [
@@ -38,6 +38,38 @@
     "confidence": "MEDIUM",
     "reason": "Studio portrait of a named Cherokee man (Benge) in period dress, a documentary photo of an individual identified as Cherokee, which fits the claimed ethnicity.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A20-13",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_7/65c7b8a0_eb9f_4594_baa6_a3c10074d1eb/preview_00612135_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a Cherokee man in a historical studio portrait wearing a three-piece suit and holding a hat. It is documentary evidence of a Cherokee person, though it does not show distinctive Cherokee material culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A20-14",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_7/f3cd1fa3_33c0_432d_9cd6_a3c10074cb98/preview_00612132_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture is a clear studio portrait of J. Borum Davis, identified as Cherokee, documenting a Cherokee man’s clothing and appearance. It fits the claimed ethnicity as a documentary photograph, although the Western suit is not distinctive Cherokee material culture.",
+    "featured": true
    }
   ],
   "painting-mss": [
@@ -58,7 +90,41 @@
     "featured": true
    }
   ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Am1980-16-3",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/31_13/d6f762e7_8935_4456_a3ac_a9c700dd7f5c/preview_am1980_16_3__a_.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden human-face mask with a snake ornament, attributed by the museum to Cherokee/Southeast Peoples makers. It fits the claimed ethnicity and is a ritual mask.",
+    "featured": true
+   }
+  ],
   "household": [
+   {
+    "source": "bm",
+    "id": "E_Am-SLMisc-1218-a-b",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_13/8189cd3b_c08d_4c78_8b8b_a3bc00dfbbcd/preview_00419779_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a lidded, hand-plaited cane basket with geometric decoration, a plausible Cherokee/Southeastern Indigenous basketry form. The metadata independently attributes it to Cherokee, though also broadly to Southeast Peoples.",
+    "featured": true
+   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_14168",
@@ -73,6 +139,74 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A plain wooden long-handled spoon collected on the Qualla Reservation (Eastern Cherokee homeland) and documented as Cherokee-made for food preparation; this matches known Cherokee carved wooden utensils.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1949-22-154",
+    "name": "tobacco-pipe",
+    "kind": "pipe",
+    "title": "tobacco-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_16/f11c69fa_7036_4108_b807_a3b9010eeaeb/preview_00207686_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a black tobacco pipe, a household object attributed by the museum as made by Cherokee people. Its form is plausible for a traditional Cherokee-made pipe, with no evidence of a different culture.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "E_Am1977-28-3-a-b",
+    "name": "dance-rattle",
+    "kind": "rattle",
+    "title": "dance-rattle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_21/eb754b48_8a19_42b4_a9e4_a3b8015caf7b/preview_00333688_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows terrapin-shell dance rattles tied to boots, a traditional musical instrument attributed by the museum to Cherokee makers. It fits the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1977-28-5",
+    "name": "rattle",
+    "kind": "rattle",
+    "title": "rattle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_21/2ee2a13b_db12_4d97_a40e_a3b8015cac84/preview_00333687_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade terrapin-shell rattle with a hide-wrapped shaft, a plausible Cherokee/Southeastern Indigenous ritual or musical object. The metadata explicitly attributes it to Cherokee makers, so it fits the claimed ethnicity.",
+    "featured": true
+   }
+  ],
+  "arms": [
+   {
+    "source": "europeana",
+    "id": "/91609/SMVK_VKM_fotografi_1992008",
+    "name": "blower pipe, basket, arrow, photograph, ph",
+    "kind": "photograph",
+    "title": "blower pipe, basket, arrow, photograph, ph",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1992126/image.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The photograph shows a woven Cherokee blowgun or blower pipe with darts, an object attributed to Cherokee use in North Carolina before 1860. It fits the claimed ethnicity as a traditional weapon, though the object is somewhat unusual and partly obscured by its display arrangement.",
     "featured": true
    }
   ]
