@@ -3,9 +3,95 @@
  "label": "Kiowa people",
  "name": "Kiowa",
  "judged": 0,
- "cached": 28,
+ "cached": 10,
  "cost_usd": 0,
  "ranked": {
+  "textile": [
+   {
+    "source": "bm",
+    "id": "E_Am2003-09-10",
+    "name": "blanket; robe",
+    "kind": "blanket",
+    "title": "blanket; robe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/1_11/be5e130c_c390_49c5_a36c_aa2200bb675f/preview_am2003_09_10__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a full woven striped blanket or robe with a central diamond motif and fringed ends, consistent with the metadata’s attribution to Kiowa textile production. It is clearly visible and fits the claimed ethnicity and textile category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_2010-2001-1",
+    "name": "blanket",
+    "kind": "blanket",
+    "title": "blanket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/1_10/16cfecdf_3644_4022_9b7e_aa2200ab1c1f/preview_2010_2001_1__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A red trade-cloth blanket with fringing and appliquéd geometric diamond designs, a style of textile made and used by Kiowa and other Southern Plains peoples; museum attributes it directly to the Kiowa.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_14817",
+    "name": "skallra",
+    "kind": "rattle",
+    "title": "skallra",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2778814/14817_0309.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A gourd rattle with beaded handle and hide binding, used as a peyote ritual instrument — this type of beaded gourd rattle is characteristic of Kiowa and other Plains peyote religion practice, consistent with the cited Peyote Religion source.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_14819",
+    "name": "fläkt, fan",
+    "kind": "fan",
+    "title": "fläkt, fan",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1185865/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A feather fan with beaded quillwork-wrapped handle and hide fringe, a type of item made and used by Plains peoples including the Kiowa; the references (Kiowa, Mayhall, Peyote Religion) support this attribution, likely a peyote fan used in ceremonial contexts.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_14810",
+    "name": "Påse, påse/ nålhus, bag",
+    "kind": "bag",
+    "title": "Påse, påse/ nålhus, bag",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1095141/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "Beaded strike-a-light/awl bag with needlecase and quilled/beaded thongs, a type of personal accessory case made and used by Plains peoples including the Kiowa; the geometric beadwork and construction are consistent with Kiowa/Southern Plains work.",
+    "featured": true
+   }
+  ],
   "garment": [
    {
     "source": "bm",
@@ -150,24 +236,6 @@
     "confidence": "HIGH",
     "reason": "A beaded leather belt with geometric red/yellow/black beadwork, part of a replica Kiowa Black Leggings Society ceremonial regalia — a garment/accessory made and worn by the Kiowa.",
     "featured": false
-   }
-  ],
-  "textile": [
-   {
-    "source": "bm",
-    "id": "E_2010-2001-1",
-    "name": "blanket",
-    "kind": "blanket",
-    "title": "blanket",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/1_10/16cfecdf_3644_4022_9b7e_aa2200ab1c1f/preview_2010_2001_1__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A red trade-cloth blanket with fringing and appliquéd geometric diamond designs, a style of textile made and used by Kiowa and other Southern Plains peoples; museum attributes it directly to the Kiowa.",
-    "featured": true
    }
   ],
   "photo": [
@@ -315,58 +383,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden bow with sinew string and arrows bundled alongside it, a traditional Plains weapon type consistent with Kiowa material culture as stated by the museum.",
-    "featured": true
-   }
-  ],
-  "instruments": [
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_14817",
-    "name": "skallra",
-    "kind": "rattle",
-    "title": "skallra",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2778814/14817_0309.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A gourd rattle with beaded handle and hide binding, used as a peyote ritual instrument — this type of beaded gourd rattle is characteristic of Kiowa and other Plains peyote religion practice, consistent with the cited Peyote Religion source.",
-    "featured": true
-   }
-  ],
-  "household": [
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_14819",
-    "name": "fläkt, fan",
-    "kind": "fan",
-    "title": "fläkt, fan",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1185865/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A feather fan with beaded quillwork-wrapped handle and hide fringe, a type of item made and used by Plains peoples including the Kiowa; the references (Kiowa, Mayhall, Peyote Religion) support this attribution, likely a peyote fan used in ceremonial contexts.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_14810",
-    "name": "Påse, påse/ nålhus, bag",
-    "kind": "bag",
-    "title": "Påse, påse/ nålhus, bag",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1095141/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "Beaded strike-a-light/awl bag with needlecase and quilled/beaded thongs, a type of personal accessory case made and used by Plains peoples including the Kiowa; the geometric beadwork and construction are consistent with Kiowa/Southern Plains work.",
     "featured": true
    }
   ]

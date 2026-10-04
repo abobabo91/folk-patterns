@@ -3,7 +3,7 @@
  "label": "Tsonga people",
  "name": "Tsonga",
  "judged": 0,
- "cached": 46,
+ "cached": 12,
  "cost_usd": 0,
  "ranked": {
   "jewelry": [
@@ -25,18 +25,18 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1991-09-85",
+    "id": "E_Af1991-09-80",
     "name": "bangle",
     "kind": "bangle",
     "title": "bangle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_8/6acfbc18_f579_4a4a_927c_a3dc008f70ba/preview_01280297_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/20_9/a4dfb9c2_6988_48ff_b8f7_a4450099a756/preview_EAF61424.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
     "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "Three metal bangles with incised linear decoration, consistent with Tsonga metal jewelry; museum attributes production to the Tsonga.",
+    "confidence": "HIGH",
+    "reason": "The picture shows an incised metal bangle, and the metadata explicitly identifies it as made by Tsonga artisans, fitting Tsonga jewelry.",
     "featured": true
    },
    {
@@ -53,6 +53,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A woven fibre bangle bracelet with small glass beads, a plausible personal adornment type consistent with Tsonga craft traditions in southern Africa.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1991-09-85",
+    "name": "bangle",
+    "kind": "bangle",
+    "title": "bangle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_8/6acfbc18_f579_4a4a_927c_a3dc008f70ba/preview_01280297_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Three metal bangles with incised linear decoration, consistent with Tsonga metal jewelry; museum attributes production to the Tsonga.",
     "featured": true
    },
    {
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a metal bangle with incised linear decoration, attributed by the museum to Tsonga production, a plausible form of jewelry worn by this people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -118,56 +134,6 @@
     "confidence": "MEDIUM",
     "reason": "A woven fibre bracelet with small glass beads, consistent with Tsonga beadwork jewellery traditions of southern Mozambique/South Africa; plausible for the claimed people and attributed as such by the museum.",
     "featured": false
-   }
-  ],
-  "garment": [
-   {
-    "source": "bm",
-    "id": "E_Af1963-13-54",
-    "name": "skirt",
-    "kind": "skirt",
-    "title": "skirt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/405c8494_4394_4a8c_a06a_a3e0007b0328/preview_01567842_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a traditional fibre-cord skirt, a well-known garment type worn by Tsonga girls in southern Mozambique/South Africa, consistent with the museum's attribution.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1963-13-53",
-    "name": "skirt",
-    "kind": "skirt",
-    "title": "skirt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/a48af9a2_5a42_4816_8b37_a3e0007b00ac/preview_01567841_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "This is a traditional fibre-cord skirt with beadwork ornament and a leather thong closure, a documented Tsonga women's garment type; the museum credits it directly to Tsonga makers.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1963-13-55",
-    "name": "skirt",
-    "kind": "skirt",
-    "title": "skirt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/b2d57235_9521_4240_b1a0_a3e0007b0584/preview_01567843_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A grass/palm-fibre skirt attributed to Tsonga makers, consistent with traditional southern African grass skirts worn by Tsonga women/girls; a plausible, characteristic garment for the group.",
-    "featured": true
    }
   ],
   "household": [
@@ -414,6 +380,108 @@
     "featured": true
    }
   ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Af1963-21-6",
+    "name": "divination-tablet",
+    "kind": "divination tablet",
+    "title": "divination-tablet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/3dfd054e_fc50_4050_abde_a3e0007b07b1/preview_01567844_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A bone divination tablet with incised geometric patterns and red/black pigment, a well-documented Tsonga diviner's tool used in bone-throwing (ditaola) sets. This fits the claimed ethnicity and functions as a ritual/divination object.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_27698",
+    "name": "marimba med trumpinnar, Marimba, Sumbe eller sumba",
+    "kind": "marimba",
+    "title": "marimba med trumpinnar, Marimba, Sumbe eller sumba",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1001082/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A wooden-frame gourd-resonator marimba with mallets, collected in Inhambane, Mozambique — a traditional xylophone type used by Tsonga and neighboring peoples in that region, consistent with the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1922-0413-105",
+    "name": "zither",
+    "kind": "zither",
+    "title": "zither",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_23/0557e744_4faf_4209_a42c_a3df018170b4/preview_01561932_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A wooden trough zither with vegetable-fibre strings and metal wire ornament, a well-documented instrument type made and used by the Tsonga people of southern Mozambique/South Africa.",
+    "featured": true
+   }
+  ],
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_Af1963-13-54",
+    "name": "skirt",
+    "kind": "skirt",
+    "title": "skirt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/405c8494_4394_4a8c_a06a_a3e0007b0328/preview_01567842_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a traditional fibre-cord skirt, a well-known garment type worn by Tsonga girls in southern Mozambique/South Africa, consistent with the museum's attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1963-13-53",
+    "name": "skirt",
+    "kind": "skirt",
+    "title": "skirt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/a48af9a2_5a42_4816_8b37_a3e0007b00ac/preview_01567841_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a traditional fibre-cord skirt with beadwork ornament and a leather thong closure, a documented Tsonga women's garment type; the museum credits it directly to Tsonga makers.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1963-13-55",
+    "name": "skirt",
+    "kind": "skirt",
+    "title": "skirt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/b2d57235_9521_4240_b1a0_a3e0007b0584/preview_01567843_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A grass/palm-fibre skirt attributed to Tsonga makers, consistent with traditional southern African grass skirts worn by Tsonga women/girls; a plausible, characteristic garment for the group.",
+    "featured": true
+   }
+  ],
   "arms": [
    {
     "source": "bm",
@@ -546,24 +614,6 @@
     "featured": true
    }
   ],
-  "masks-ritual": [
-   {
-    "source": "bm",
-    "id": "E_Af1963-21-6",
-    "name": "divination-tablet",
-    "kind": "divination tablet",
-    "title": "divination-tablet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/3dfd054e_fc50_4050_abde_a3e0007b07b1/preview_01567844_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A bone divination tablet with incised geometric patterns and red/black pigment, a well-documented Tsonga diviner's tool used in bone-throwing (ditaola) sets. This fits the claimed ethnicity and functions as a ritual/divination object.",
-    "featured": true
-   }
-  ],
   "photo": [
    {
     "source": "bm",
@@ -579,40 +629,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A profile portrait photograph of a man, described in the museum's own notes as \"Tonga\" — an old alternate spelling for Thonga/Tsonga used in colonial-era ethnography (e.g. Junod's \"Thonga\"), so this is a documentary photo of the claimed people rather than a different group.",
-    "featured": true
-   }
-  ],
-  "instruments": [
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_27698",
-    "name": "marimba med trumpinnar, Marimba, Sumbe eller sumba",
-    "kind": "marimba",
-    "title": "marimba med trumpinnar, Marimba, Sumbe eller sumba",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1001082/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A wooden-frame gourd-resonator marimba with mallets, collected in Inhambane, Mozambique — a traditional xylophone type used by Tsonga and neighboring peoples in that region, consistent with the claimed ethnicity.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1922-0413-105",
-    "name": "zither",
-    "kind": "zither",
-    "title": "zither",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_23/0557e744_4faf_4209_a42c_a3df018170b4/preview_01561932_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A wooden trough zither with vegetable-fibre strings and metal wire ornament, a well-documented instrument type made and used by the Tsonga people of southern Mozambique/South Africa.",
     "featured": true
    }
   ]

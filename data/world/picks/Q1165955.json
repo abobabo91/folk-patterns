@@ -3,7 +3,7 @@
  "label": "Mossi people",
  "name": "Mossi",
  "judged": 0,
- "cached": 24,
+ "cached": 8,
  "cost_usd": 0,
  "ranked": {
   "sculpture": [
@@ -21,22 +21,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A wooden figure (known as a Mossi \"biiga\" fertility doll) with a distinctive flat, disc-and-crest head and red bead necklace, a classic Mossi child-carrying doll type attributed by the museum to the Mossi.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1936-1022-2",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/7_11/12c4d649_b02f_4209_846c_a9af00b96d98/preview_EAF4036.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a small bronze dancing figure with an elaborate headdress and fan, a type of cast metal figure recorded by the museum as made by the Mossi; bronze/brass figural casting for ceremonial or courtly use is plausible for Burkina Faso peoples, and the attribution is direct rather than a vague \"style\" label.",
     "featured": true
    },
    {
@@ -69,6 +53,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A wooden standing figure with characteristic Mossi carving traits (elongated neck, small head with cap-like coiffure, blocky base), collected in Ouahigouya, a Mossi region of Burkina Faso — consistent with Mossi figural sculpture used in shrine/ritual contexts.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1936-1022-2",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/7_11/12c4d649_b02f_4209_846c_a9af00b96d98/preview_EAF4036.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a small bronze dancing figure with an elaborate headdress and fan, a type of cast metal figure recorded by the museum as made by the Mossi; bronze/brass figural casting for ceremonial or courtly use is plausible for Burkina Faso peoples, and the attribution is direct rather than a vague \"style\" label.",
     "featured": true
    },
    {
@@ -184,60 +184,6 @@
     "featured": false
    }
   ],
-  "arms": [
-   {
-    "source": "bm",
-    "id": "E_Af1922-1109-7",
-    "name": "club",
-    "kind": "club",
-    "title": "club",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/17_14/ec1648b6_6eb7_4fc7_bbd3_a95e00eb008f/preview_EAF2642.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "An iron-headed hammer-club with a long wooden shaft, a type of weapon/status object well documented among the Mossi of Burkina Faso; the museum credits Mossi manufacture.",
-    "featured": true
-   }
-  ],
-  "architectural": [
-   {
-    "source": "bm",
-    "id": "E_Af1971-24-2",
-    "name": "house-post",
-    "kind": "post",
-    "title": "house-post",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/23_11/bf2fc311_d0c3_4892_9d0b_aa3800c1df7e/preview_EAF8363.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden house-post with a zigzag/faceted shaft terminating in a stylized animal head (likely a ram or hornbill), consistent with Mossi architectural carving used on granaries or house structures. This is an object type plausibly made and used by the Mossi.",
-    "featured": true
-   }
-  ],
-  "garment": [
-   {
-    "source": "bm",
-    "id": "E_2018-2036-390",
-    "name": "garment; shawl",
-    "kind": "shawl",
-    "title": "garment; shawl (?)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/22_12/e373adb9_49c6_4c40_a6c5_aef900cbc55f/preview_2018_2036_390_F.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A hand-woven indigo cotton strip-woven cloth with twisted fringe, attributed by the museum to Mossi production as a man's prestige garment/shawl — this matches well-known Mossi strip-weaving textile traditions.",
-    "featured": true
-   }
-  ],
   "household": [
    {
     "source": "bm",
@@ -271,6 +217,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "The wooden mask shows a classic Mossi \"antelope/danse funéraire\" form with triangular eyes, vertical ridged nose, antelope horns, and a superstructure figure with scarification — a well-documented Mossi chief's funerary mask type used in dances after a chief's death, consistent with the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "cleveland",
+    "id": "171268",
+    "name": "Mask",
+    "kind": "mask",
+    "title": "Mask (wan-balinga)",
+    "image_url": "https://openaccess-cdn.clevelandart.org/2014.1/2014.1_web.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The mask shows classic Mossi wan-balinga (antelope/buffalo mask) features—white kaolin face with geometric red/black patterning, plank-like superstructure—consistent with Mossi plank mask traditions used in funerary and anti-witchcraft rites. Though labeled \"Mossi-style,\" the form and iconography are distinctively Mossi.",
     "featured": true
    },
    {
@@ -322,22 +284,6 @@
     "featured": true
    },
    {
-    "source": "cleveland",
-    "id": "171268",
-    "name": "Mask",
-    "kind": "mask",
-    "title": "Mask (wan-balinga)",
-    "image_url": "https://openaccess-cdn.clevelandart.org/2014.1/2014.1_web.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The mask shows classic Mossi wan-balinga (antelope/buffalo mask) features—white kaolin face with geometric red/black patterning, plank-like superstructure—consistent with Mossi plank mask traditions used in funerary and anti-witchcraft rites. Though labeled \"Mossi-style,\" the form and iconography are distinctively Mossi.",
-    "featured": true
-   },
-   {
     "source": "bm",
     "id": "E_Af1973-27-3",
     "name": "mask",
@@ -369,6 +315,60 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a hand-tied and indigo-dyed cotton cloth in progress of resist-dyeing, explicitly noted as made by a Mossi woman at the collector's request in Ouagadougou. This is a clear, documented example of Mossi textile craft.",
+    "featured": true
+   }
+  ],
+  "arms": [
+   {
+    "source": "bm",
+    "id": "E_Af1922-1109-7",
+    "name": "club",
+    "kind": "club",
+    "title": "club",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/17_14/ec1648b6_6eb7_4fc7_bbd3_a95e00eb008f/preview_EAF2642.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An iron-headed hammer-club with a long wooden shaft, a type of weapon/status object well documented among the Mossi of Burkina Faso; the museum credits Mossi manufacture.",
+    "featured": true
+   }
+  ],
+  "architectural": [
+   {
+    "source": "bm",
+    "id": "E_Af1971-24-2",
+    "name": "house-post",
+    "kind": "post",
+    "title": "house-post",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/23_11/bf2fc311_d0c3_4892_9d0b_aa3800c1df7e/preview_EAF8363.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "architectural",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden house-post with a zigzag/faceted shaft terminating in a stylized animal head (likely a ram or hornbill), consistent with Mossi architectural carving used on granaries or house structures. This is an object type plausibly made and used by the Mossi.",
+    "featured": true
+   }
+  ],
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_2018-2036-390",
+    "name": "garment; shawl",
+    "kind": "shawl",
+    "title": "garment; shawl (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/22_12/e373adb9_49c6_4c40_a6c5_aef900cbc55f/preview_2018_2036_390_F.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A hand-woven indigo cotton strip-woven cloth with twisted fringe, attributed by the museum to Mossi production as a man's prestige garment/shawl — this matches well-known Mossi strip-weaving textile traditions.",
     "featured": true
    }
   ]

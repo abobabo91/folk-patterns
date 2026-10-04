@@ -3,7 +3,7 @@
  "label": "Navajo",
  "name": "Navajo",
  "judged": 0,
- "cached": 74,
+ "cached": 60,
  "cost_usd": 0,
  "ranked": {
   "metalwork": [
@@ -386,6 +386,22 @@
     "featured": false
    },
    {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_15810",
+    "name": "smycke",
+    "kind": "ornament",
+    "title": "smycke",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611577/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A silver necklace with a bar-and-bead chain and a stamped/cutout circular pendant with a stylized figure, purchased from Gallup Indian Trading Co. in New Mexico and attributed to Navajo silversmiths — consistent with well-known Navajo silverwork traditions.",
+    "featured": false
+   },
+   {
     "source": "bm",
     "id": "E_Am1998-06-48",
     "name": "finger-ring",
@@ -415,22 +431,6 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The image shows a turquoise-and-coral bead necklace, a classic Southwest jewelry form directly attributed to Navajo makers by the museum. This clearly belongs to the claimed ethnicity.",
-    "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_15810",
-    "name": "smycke",
-    "kind": "ornament",
-    "title": "smycke",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611577/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A silver necklace with a bar-and-bead chain and a stamped/cutout circular pendant with a stylized figure, purchased from Gallup Indian Trading Co. in New Mexico and attributed to Navajo silversmiths — consistent with well-known Navajo silverwork traditions.",
     "featured": false
    },
    {
@@ -1230,6 +1230,22 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "This is a woven wool saddle cinch/girth with a classic Navajo diamond and zigzag pattern in red, blue, orange and yellow, a well-known Navajo textile product used with horse tack; it is not a worn garment but a woven textile object.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/2021009/_A286FAF933EFA28CA9619E3F19AA2D43",
+    "name": "viitta",
+    "kind": "shawl",
+    "title": "viitta",
+    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D602487%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handwoven Navajo wool serape or blanket with characteristic geometric designs, fitting the claimed Navajo attribution. It is a textile rather than a garment.",
     "featured": false
    },
    {

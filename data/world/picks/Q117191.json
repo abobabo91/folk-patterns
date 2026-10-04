@@ -3,43 +3,9 @@
  "label": "Cree",
  "name": "Cree",
  "judged": 0,
- "cached": 35,
+ "cached": 17,
  "cost_usd": 0,
  "ranked": {
-  "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Am1993-03-8",
-    "name": "pouch",
-    "kind": "pouch",
-    "title": "pouch",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_3/30_12/7b3f0dbf_0a9b_488d_878d_ae6800c6c45b/preview_am1993_03_8__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A hide pouch with characteristic Cree-style floral beadwork in bright glass beads, matching known Cree/Métis beadwork traditions of the Canadian Subarctic.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_14270",
-    "name": "ornament",
-    "kind": "ornament",
-    "title": "ornament",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164353/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A moosehide strip densely decorated with floral glass-bead embroidery, described as Cree work from Island Hake/Manitoba — a classic Subarctic Cree beadwork ornament (likely a garment trim or cuff).",
-    "featured": true
-   }
-  ],
   "garment": [
    {
     "source": "met",
@@ -55,6 +21,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "The image shows a beaded and embroidered wool hood with a characteristic floral beadwork pattern, fringe, and quillwork/beadwork style consistent with James Bay Cree craft traditions, matching the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "met",
+    "id": "319133",
+    "name": "Legging strips",
+    "kind": "leggings",
+    "title": "Legging Panels",
+    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/TR.165.70.2011.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Beaded wool legging panels with floral motifs, consistent with Eastern Cree beadwork tradition; matches claimed ethnicity and garment category.",
     "featured": true
    },
    {
@@ -106,22 +88,6 @@
     "featured": true
    },
    {
-    "source": "met",
-    "id": "319133",
-    "name": "Legging strips",
-    "kind": "leggings",
-    "title": "Legging Panels",
-    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/TR.165.70.2011.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Beaded wool legging panels with floral motifs, consistent with Eastern Cree beadwork tradition; matches claimed ethnicity and garment category.",
-    "featured": true
-   },
-   {
     "source": "bm",
     "id": "E_Am1986-10-88",
     "name": "pouch",
@@ -155,6 +121,22 @@
    }
   ],
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-B34-12",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_18/64ab4ba6_a073_4f33_94e4_a3c101354293/preview_00690057_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph clearly shows a nest of Cree birch-bark baskets with quillwork decoration, an object made and used by Cree people; the claimed ethnicity is directly supported by the museum description.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-B56-124",
@@ -233,7 +215,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Documentary photograph of six Cree men in regalia (feather headdresses, fringed garments, one on horseback) following a Sun Dance ceremony at Battleford, 1895 — clear ethnographic depiction of Cree dress and custom.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -286,22 +268,6 @@
   ],
   "household": [
    {
-    "source": "bm",
-    "id": "E_Am1986-10-92",
-    "name": "purse",
-    "kind": "purse",
-    "title": "purse",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/38c14953_41f8_48c1_9718_a3df0174c8e7/preview_01557803_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A moosehide purse with floral beadwork and a shoulder strap, a classic Cree craft item made of traditional materials with beaded decoration.",
-    "featured": true
-   },
-   {
     "source": "met",
     "id": "319156",
     "name": "Bag",
@@ -315,6 +281,38 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The bag is a quilled and beaded hide panel bag attributed to Cree-Métis makers (ca. 1840), a classic Subarctic/Métis floral and geometric beadwork style, matching the claimed Cree ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_22432_inventary_CE13189_table_FMUS_museum_MNA",
+    "name": "Caja",
+    "kind": "box",
+    "title": "Caja",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE13189_P.JPG&Ninv=CE13189",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade trapezoidal birchbark box with a fitted lid and sewn construction, a household object consistent with Cree craft traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1986-10-92",
+    "name": "purse",
+    "kind": "purse",
+    "title": "purse",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/38c14953_41f8_48c1_9718_a3df0174c8e7/preview_01557803_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A moosehide purse with floral beadwork and a shoulder strap, a classic Cree craft item made of traditional materials with beaded decoration.",
     "featured": true
    },
    {
@@ -363,7 +361,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a classic Northern Plains/Subarctic beaded \"firebag\" (fire-steel/tobacco pouch) with quillwork-style floral beadwork and wool/silk trade cloth, a type made and used by Cree and neighboring Ojibwa groups; the museum's own attribution names Cree as a possibility, so it belongs.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -380,6 +378,40 @@
     "confidence": "MEDIUM",
     "reason": "A denim rifle-case sewn with moose-skin closure, ric-rac trim, and floral beadwork/embroidery bands typical of Cree craftwork, documented as made by Cree. Fits the claimed ethnicity and category as a used/made household item.",
     "featured": false
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_14270",
+    "name": "ornament",
+    "kind": "ornament",
+    "title": "ornament",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164353/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A moosehide strip densely decorated with floral glass-bead embroidery, described as Cree work from Island Hake/Manitoba — a classic Subarctic Cree beadwork ornament (likely a garment trim or cuff).",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1993-03-8",
+    "name": "pouch",
+    "kind": "pouch",
+    "title": "pouch",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_3/30_12/7b3f0dbf_0a9b_488d_878d_ae6800c6c45b/preview_am1993_03_8__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A hide pouch with characteristic Cree-style floral beadwork in bright glass beads, matching known Cree/Métis beadwork traditions of the Canadian Subarctic.",
+    "featured": true
    }
   ],
   "textile": [

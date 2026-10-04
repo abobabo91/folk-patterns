@@ -3,10 +3,26 @@
  "label": "Dinka people",
  "name": "Dinka",
  "judged": 0,
- "cached": 55,
+ "cached": 41,
  "cost_usd": 0,
  "ranked": {
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Af-B8-21",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/ff6597bc_d7d7_4265_991a_a3c20127cc95/preview_00746408_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture is a documentary portrait of a Dinka woman and child, clearly showing traditional Dinka dress, ornaments, head-ring and basket use. It fits the claimed ethnicity and photo category.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Af-A37-73",
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A documentary photo of a Dinka infant sleeping in a woven basket cradle, covered with an animal skin adorned with buttons, wearing a bracelet — a genuine ethnographic scene of daily/material life among the Dinka.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -187,6 +203,38 @@
   "household": [
    {
     "source": "bm",
+    "id": "E_Af1934-0308-114",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/15_11/d9dd4550_b448_4804_92d2_a47b00b57447/preview_EAF44519.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden four-legged stool, a traditional household object explicitly attributed to the Dinka. It fits the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-74",
+    "name": "tray; winnowing-tray",
+    "kind": "tray",
+    "title": "tray; winnowing-tray",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_13/620378be_060c_4682_8aba_a48700dea27a/preview_EAF57655.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handwoven cane/raffia winnowing tray, a household object explicitly attributed by the museum to the Dinka Tuich community. It fits the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1979-06-46",
     "name": "bowl",
     "kind": "bowl",
@@ -219,22 +267,6 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1934-0308-104",
-    "name": "stool",
-    "kind": "stool",
-    "title": "stool",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_10/372733dd_ffde_4617_aed0_a46b00a4fe34/preview_EAF44506.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a wooden four-legged headrest/stool with a curved crescent seat, a classic East African Dinka-type wooden stool/headrest form, matching the museum's attribution.",
-    "featured": true
-   },
-   {
-    "source": "bm",
     "id": "E_Af1979-06-106",
     "name": "crutch",
     "kind": "crutch",
@@ -263,7 +295,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A traditional bird trap with clay weights on hair nooses attached to a bent stick frame, matching the museum's attribution as a Dinka-made tool used in daily subsistence life.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -295,22 +327,6 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "A horn spoon with a carved handle, made and used by the Dinka for eating/serving — a typical household utensil consistent with the claimed ethnicity.",
-    "featured": false
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1979-06-72",
-    "name": "tray; cover",
-    "kind": "tray",
-    "title": "tray; cover",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_13/268bb187_16e3_4ca1_af12_a48700de9cfe/preview_EAF57653.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A round woven cane tray/cover, a plausible everyday household object attributed by the museum to the Dinka (maker \"Dinka\"/\"Tuich\"). No contrary evidence.",
     "featured": false
    },
    {
@@ -459,6 +475,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1934-0308-104",
+    "name": "stool",
+    "kind": "stool",
+    "title": "stool",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_10/372733dd_ffde_4617_aed0_a46b00a4fe34/preview_EAF44506.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a wooden four-legged headrest/stool with a curved crescent seat, a classic East African Dinka-type wooden stool/headrest form, matching the museum's attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1979-06-48",
     "name": "bowl",
     "kind": "bowl",
@@ -471,6 +503,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a decorated gourd vessel used for household purposes, explicitly attributed to the Dinka (Tuich subgroup) by the museum; gourd bowls are a well-documented Dinka craft item.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-72",
+    "name": "tray; cover",
+    "kind": "tray",
+    "title": "tray; cover",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_13/268bb187_16e3_4ca1_af12_a48700de9cfe/preview_EAF57653.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A round woven cane tray/cover, a plausible everyday household object attributed by the museum to the Dinka (maker \"Dinka\"/\"Tuich\"). No contrary evidence.",
     "featured": false
    },
    {
@@ -637,6 +685,22 @@
   "arms": [
    {
     "source": "bm",
+    "id": "E_Af1923-0710-2",
+    "name": "parry-shield",
+    "kind": "shield",
+    "title": "parry-shield",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_10/c20e3014_5378_4108_b968_a46b00a90009/preview_EAF144500.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a traditional ambatch-wood parrying shield with a carved hand grip, explicitly made by the Dinka, so it fits the claimed ethnicity and arms category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1979-06-116",
     "name": "helmet",
     "kind": "helmet",
@@ -701,34 +765,18 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1982-32-43",
-    "name": "shield",
-    "kind": "shield",
-    "title": "shield",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/25_12/833226a3_0b20_4591_888e_a46600ce5b32/preview_EAF63837.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a narrow wooden parrying shield with a central hand-grip boss and tapering pointed ends, a form well documented among the Dinka and neighboring Nilotic peoples of South Sudan, matching the museum's attribution.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1979-01-108",
+    "id": "E_Af1916-4-a-e",
     "name": "arrow",
     "kind": "arrow",
     "title": "arrow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/23_8/8eb32b4c_e216_480a_98b6_a4c00084c15a/preview_EAF55357.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/12_13/66e44c50_87b3_4582_8af2_a4b500e2b09a/preview_EAF40245.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
     "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A cane arrow with a barbed metal head, consistent with Dinka/Agar weaponry from South Sudan; the museum attributes production to Agar/Dinka makers, matching the claimed ethnicity.",
+    "confidence": "HIGH",
+    "reason": "The picture shows a bundle of traditional iron-tipped arrows with cane shafts, an armament plausibly made and used by the Dinka as claimed.",
     "featured": false
    },
    {
@@ -777,6 +825,54 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden staff/club with a pointed metal-capped tip and hide-wrapped handle, consistent with Dinka fighting sticks/clubs used in South Sudan.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1923-0710-1",
+    "name": "parry-shield",
+    "kind": "shield",
+    "title": "parry-shield",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_10/b014ab7d_b8ba_4ea5_8107_a46b00a915c1/preview_EAF41001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a complete elongated ambatch-wood parrying shield with an integrated grip, explicitly attributed by the museum as Dinka-made. It fits the claimed Dinka arms category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1982-32-43",
+    "name": "shield",
+    "kind": "shield",
+    "title": "shield",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/25_12/833226a3_0b20_4591_888e_a46600ce5b32/preview_EAF63837.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a narrow wooden parrying shield with a central hand-grip boss and tapering pointed ends, a form well documented among the Dinka and neighboring Nilotic peoples of South Sudan, matching the museum's attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-01-108",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/23_8/8eb32b4c_e216_480a_98b6_a4c00084c15a/preview_EAF55357.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A cane arrow with a barbed metal head, consistent with Dinka/Agar weaponry from South Sudan; the museum attributes production to Agar/Dinka makers, matching the claimed ethnicity.",
     "featured": false
    },
    {
@@ -1018,6 +1114,22 @@
     "confidence": "MEDIUM",
     "reason": "A wooden parrying shield/club with a bulbed central grip and tapering flattened ends, consistent with Dinka-style parrying shields used in stick-fighting, as attributed by the museum.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-121",
+    "name": "spear",
+    "kind": "spear",
+    "title": "spear",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/28_14/d4dcc160_c5f8_48c4_bdbb_a48800e6d639/preview_EAF60293.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "weak",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a long wooden-and-iron spear, an arm plausibly made and used by the Dinka; the metadata explicitly attributes it to Dinka maker Tuich.",
+    "featured": false
    }
   ],
   "jewelry": [
@@ -1039,18 +1151,18 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1934-0308-115",
+    "id": "E_Af1934-0308-118",
     "name": "armlet",
     "kind": "armlet",
     "title": "armlet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_12/488acfe7_e943_400e_9d95_a46b00c6b4f3/preview_EAF44520.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_12/07ef3770_3ccc_44df_8091_a46b00c6b977/preview_EAF44523.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "An ivory armlet made of two joined pieces, attributed by the museum to the Dinka, who are known for wearing ivory and bone arm rings as status ornaments. The object is plausible personal adornment for this group.",
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade ivory armlet made from two joined pieces, matching the museum’s explicit attribution to the Dinka. It is a clear example of Dinka adornment.",
     "featured": true
    },
    {
@@ -1179,6 +1291,38 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a multi-strand waist belt of white ostrich eggshell beads, a form of beaded adornment consistent with Dinka personal ornament traditions, clearly photographed against a plain background.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1934-0308-130",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_14/8cf97688_b68e_4b8c_bbdb_a46b00eaeeeb/preview_EAF44535.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved ivory armlet with two ridges, a wearable ornament attributed by the museum as made by the Dinka. It fits the claimed ethnicity and jewelry category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1934-0308-115",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_3/30_12/488acfe7_e943_400e_9d95_a46b00c6b4f3/preview_EAF44520.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "An ivory armlet made of two joined pieces, attributed by the museum to the Dinka, who are known for wearing ivory and bone arm rings as status ornaments. The object is plausible personal adornment for this group.",
     "featured": false
    },
    {
@@ -1422,6 +1566,24 @@
     "featured": false
    }
   ],
+  "architectural": [
+   {
+    "source": "bm",
+    "id": "E_Af1979-06-78-a-b",
+    "name": "door",
+    "kind": "door",
+    "title": "door",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/17_8/549d94db_dbab_4500_b03a_a47d008c58aa/preview_EAF57659.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "architectural",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "These are a pair of woven reed door panels attributed to the Dinka (with Tuich as sub-group), a plausible everyday architectural element used to close a hut entrance. The striped fibre weave is consistent with South Sudanese reed craft.",
+    "featured": true
+   }
+  ],
   "ceramic": [
    {
     "source": "bm",
@@ -1485,24 +1647,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A plain handmade round-bodied clay pot with simple rim, consistent with Dinka domestic pottery traditions in South Sudan; the museum credits Dinka makers directly.",
-    "featured": true
-   }
-  ],
-  "architectural": [
-   {
-    "source": "bm",
-    "id": "E_Af1979-06-78-a-b",
-    "name": "door",
-    "kind": "door",
-    "title": "door",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/17_8/549d94db_dbab_4500_b03a_a47d008c58aa/preview_EAF57659.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "architectural",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "These are a pair of woven reed door panels attributed to the Dinka (with Tuich as sub-group), a plausible everyday architectural element used to close a hut entrance. The striped fibre weave is consistent with South Sudanese reed craft.",
     "featured": true
    }
   ],

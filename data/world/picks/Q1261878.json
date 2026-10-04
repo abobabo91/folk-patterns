@@ -3,26 +3,10 @@
  "label": "Samburu people",
  "name": "Samburu",
  "judged": 0,
- "cached": 41,
+ "cached": 22,
  "cost_usd": 0,
  "ranked": {
   "household": [
-   {
-    "source": "bm",
-    "id": "E_2013-2004-1",
-    "name": "container",
-    "kind": "container",
-    "title": "container",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_19/c48c5a44_c718_4315_a947_a3dc0147219e/preview_01319496_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A wooden milk container with leather sling, cowrie shells, and glass-bead decoration — a classic East African pastoralist milk vessel type well documented among Samburu and related Nilotic groups. It plausibly belongs to Samburu material culture.",
-    "featured": true
-   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_42320",
@@ -37,6 +21,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A gourd milk vessel covered in woven fiber with a cowrie-shell band and leather carrying strap, described as a Samburu milk container — a classic pastoralist milk gourd form used by Samburu households.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_2013-2004-1",
+    "name": "container",
+    "kind": "container",
+    "title": "container",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_19/c48c5a44_c718_4315_a947_a3dc0147219e/preview_01319496_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A wooden milk container with leather sling, cowrie shells, and glass-bead decoration — a classic East African pastoralist milk vessel type well documented among Samburu and related Nilotic groups. It plausibly belongs to Samburu material culture.",
     "featured": true
    },
    {
@@ -106,6 +106,22 @@
   ],
   "jewelry": [
    {
+    "source": "europeana",
+    "id": "/2048221/europeana_fashion_155829",
+    "name": "Halssieraad, onderdeel van een vierdelige sieradenset",
+    "kind": "necklace",
+    "title": "Halssieraad, onderdeel van een vierdelige sieradenset",
+    "image_url": "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-5104-1a.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a large, traditional multicolored beaded collar with a central clasp, identified as a women’s Samburu adornment. Although the metadata notes it resembles jewelry more commonly associated with the neighboring Maasai, it is explicitly attributed to the Samburu.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Af1987-09-24",
     "name": "ear-ring",
@@ -119,22 +135,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A coiled brass earring with fibre string, a classic form of East African pastoralist jewellery consistent with Samburu adornment traditions.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1989-06-20",
-    "name": "necklace; charm",
-    "kind": "necklace",
-    "title": "necklace; charm",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/16_10/74e3c269_527c_4def_b357_a42200b148e9/preview_EAF60467.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a woman's multi-strand fertility necklace made of wire/fiber, leather-wrapped rim, and red beads — a jewelry type characteristic of Samburu and related northern Kenyan pastoralist women.",
     "featured": true
    },
    {
@@ -171,6 +171,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1989-06-20",
+    "name": "necklace; charm",
+    "kind": "necklace",
+    "title": "necklace; charm",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/16_10/74e3c269_527c_4def_b357_a42200b148e9/preview_EAF60467.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a woman's multi-strand fertility necklace made of wire/fiber, leather-wrapped rim, and red beads — a jewelry type characteristic of Samburu and related northern Kenyan pastoralist women.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1987-09-25",
     "name": "ear-ring",
     "kind": "earring",
@@ -183,7 +199,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Two coiled brass earrings with fiber suspension strings, a classic form of East African pastoralist jewelry consistent with Samburu adornment traditions. The museum directly attributes them to the Samburu.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -218,24 +234,6 @@
     "featured": false
    }
   ],
-  "sculpture": [
-   {
-    "source": "bm",
-    "id": "E_Af1989-06-19",
-    "name": "doll",
-    "kind": "doll",
-    "title": "doll",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/16_10/009e1036_4a9f_481f_ba2b_a42200b1473b/preview_EAF60466.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden female figure (doll) with beaded necklaces, hide skirt, and copper wire decoration, consistent with Samburu beadwork and figural carving traditions. This is a traditional handmade object attributed by the museum to Samburu makers.",
-    "featured": true
-   }
-  ],
   "arms": [
    {
     "source": "bm",
@@ -267,6 +265,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a disassembled spear with a leaf-shaped iron head, a wooden shaft, and a separate haired-tip implement (likely a spear butt/sheath component), consistent with Samburu spear-making traditions of East Africa; museum credits Samburu manufacture.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_48747",
+    "name": "slida, svärd",
+    "kind": "scabbard",
+    "title": "slida, svärd",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1203849/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A leather-sheathed sword with wrapped belt loop, collected in Laisamis, Kenya and purchased directly from a Samburu person; the collector notes the same type occurs among Maasai too, but this specimen has independent evidence (direct purchase from a Samburu) tying it to the claimed people.",
     "featured": true
    },
    {
@@ -315,22 +329,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a decorative spear-sheath/cover made of hide binding and ostrich-feather tuft, a type of accessory used with Samburu/Maasai-area spears; this fits a pastoralist Samburu weapon accessory.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_48747",
-    "name": "slida, svärd",
-    "kind": "scabbard",
-    "title": "slida, svärd",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1203849/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A leather-sheathed sword with wrapped belt loop, collected in Laisamis, Kenya and purchased directly from a Samburu person; the collector notes the same type occurs among Maasai too, but this specimen has independent evidence (direct purchase from a Samburu) tying it to the claimed people.",
     "featured": false
    },
    {
@@ -348,6 +346,24 @@
     "confidence": "MEDIUM",
     "reason": "A simple knife with wooden handle and iron blade, attributed by the museum to the Samburu; a plausible traditional utility/weapon object for this pastoralist people.",
     "featured": false
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "bm",
+    "id": "E_Af1989-06-19",
+    "name": "doll",
+    "kind": "doll",
+    "title": "doll",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/16_10/009e1036_4a9f_481f_ba2b_a42200b1473b/preview_EAF60466.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden female figure (doll) with beaded necklaces, hide skirt, and copper wire decoration, consistent with Samburu beadwork and figural carving traditions. This is a traditional handmade object attributed by the museum to Samburu makers.",
+    "featured": true
    }
   ],
   "garment": [

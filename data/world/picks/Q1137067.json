@@ -3,7 +3,7 @@
  "label": "Ovambo people",
  "name": "Ovambo",
  "judged": 0,
- "cached": 31,
+ "cached": 15,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -173,6 +173,22 @@
   "arms": [
    {
     "source": "bm",
+    "id": "E_Af-9605-a-c",
+    "name": "knife; sheath",
+    "kind": "knife",
+    "title": "knife; sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2026_3/18_14/f6b4ff9c_fc59_4bba_acb3_b41100eafeb5/preview_EAF30692_group.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows two traditional iron-bladed knives with carved wooden handles and a double sheath, identified by the museum as made by the Ambo/Ovambo. They fit the claimed ethnicity and arms category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1934-1011-29-b-f",
     "name": "arrow",
     "kind": "arrow",
@@ -185,22 +201,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A set of iron-tipped arrows with a leather quiver, attributed by the museum to the Ambo (Ovambo) people — a typical hunting/fighting weapon set consistent with the claimed ethnicity.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1934-1011-1-a",
-    "name": "knife",
-    "kind": "knife",
-    "title": "knife",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_19/6992fcb9_2bb0_4127_a24f_a3df013d36ff/preview_01540137_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A traditional iron knife with wooden handle and matching wooden sheath, attributed to the Ambo (Ovambo) people—a plausible traditional weapon/tool for this group.",
     "featured": true
    },
    {
@@ -237,6 +237,38 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1934-1011-2-a-b",
+    "name": "knife; sheath",
+    "kind": "knife",
+    "title": "knife; sheath",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2026_3/18_14/6e406ce2_f575_4956_8476_b41100eb1af5/preview_EAF45141_front.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a complete traditional knife and sheath, plausibly made and used by the Ovambo (Ambo) people as stated in the museum metadata.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1934-1011-1-a",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_19/6992fcb9_2bb0_4127_a24f_a3df013d36ff/preview_01540137_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A traditional iron knife with wooden handle and matching wooden sheath, attributed to the Ambo (Ovambo) people—a plausible traditional weapon/tool for this group.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1934-1011-28",
     "name": "arrow",
     "kind": "arrow",
@@ -249,7 +281,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A feathered arrow with iron head and wood shaft, attributed by the museum to the Ambo (Ovambo) people — a plausible traditional hunting/war weapon for this Namibian group.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -318,38 +350,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "EA_Af-B84-8",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/1d633d68_c49c_403f_b3b4_a3b700d1afd5/preview_00062678_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "Documentary photograph of a group of Africans in traditional wrapped lower-body cloths and ornaments in a rural setting; Ovambo territory straddles southern Angola and northern Namibia, so an \"Angola\" findspot is plausible for this claimed group and the scene shows their dress and daily life.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "EA_Af-B84-7",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/ef5eacaf_e71a_4fc5_8fd4_a3b700d1ae71/preview_00062677_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The photo shows a family group with traditional cloth wraps, personal ornaments, and headgear loading a cart, consistent with Ovambo daily life documentation (the museum note situates it in Angola, near the Namibia-Angola border where Ovambo communities live on both sides).",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91627/SMVK_EM_fotografi_2687817",
     "name": "man, strand, träd, kanot, flod, fotografi, photograph",
@@ -379,7 +379,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Documentary photo of two men with dugout canoes on the Okavango river, attributed to Ovambo people using their traditional watercraft — a plausible daily-life scene for this group.",
-    "featured": false
+    "featured": true
    },
    {
     "source": "europeana",
@@ -395,6 +395,38 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Two men use a dugout canoe on the Okavango River, documented as Ovambo people in their traditional watercraft/daily life context.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-B84-8",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/1d633d68_c49c_403f_b3b4_a3b700d1afd5/preview_00062678_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Documentary photograph of a group of Africans in traditional wrapped lower-body cloths and ornaments in a rural setting; Ovambo territory straddles southern Angola and northern Namibia, so an \"Angola\" findspot is plausible for this claimed group and the scene shows their dress and daily life.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-B84-7",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/ef5eacaf_e71a_4fc5_8fd4_a3b700d1ae71/preview_00062677_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The photo shows a family group with traditional cloth wraps, personal ornaments, and headgear loading a cart, consistent with Ovambo daily life documentation (the museum note situates it in Angola, near the Namibia-Angola border where Ovambo communities live on both sides).",
     "featured": false
    }
   ],

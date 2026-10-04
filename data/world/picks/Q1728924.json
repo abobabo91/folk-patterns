@@ -3,7 +3,7 @@
  "label": "Karajá",
  "name": "Karajá",
  "judged": 0,
- "cached": 77,
+ "cached": 49,
  "cost_usd": 0,
  "ranked": {
   "arms": [
@@ -186,6 +186,38 @@
     "featured": true
    },
    {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_42149",
+    "name": "kärl, skål",
+    "kind": "bowl",
+    "title": "kärl, skål",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1323122/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a calabash (gourd) dish with incised crosshatch decoration, collected from the mouth of the Rio Tapirapé at the Rio Araguaya, made and used by the Karajá (per collector Borys Malkin's field data) — a gourd vessel, not ceramic, but plausible material culture of this people.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91609/SMVK_VKM_fotografi_1979276",
+    "name": "pipe material, fruit, image, beep, photography, ph",
+    "kind": "photograph",
+    "title": "pipe material, fruit, image, beep, photography, ph",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1979401/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows several traditional smoking pipes and pipe materials, with the metadata specifically identifying objects 46–47 as Karajá. These are plausible Karajá cultural objects, though the image also includes Tapirapé items.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Am1932-1111-5",
     "name": "smoking-pipe",
@@ -215,7 +247,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "This is a woven raffia mat/board used in Karajá ritual dance (bykyrè ritxorè), a documented Karajá craft object made of feathers, raffia, and wood.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -231,22 +263,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A small wood scarificator embedded with bone/spine points, a documented Karajá body-modification tool used for ritual scarification; fits claimed ethnicity and use.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_42149",
-    "name": "kärl, skål",
-    "kind": "bowl",
-    "title": "kärl, skål",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1323122/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "This is a calabash (gourd) dish with incised crosshatch decoration, collected from the mouth of the Rio Tapirapé at the Rio Araguaya, made and used by the Karajá (per collector Borys Malkin's field data) — a gourd vessel, not ceramic, but plausible material culture of this people.",
     "featured": false
    },
    {
@@ -284,22 +300,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "E_Am1957-05-3",
-    "name": "staff",
-    "kind": "staff",
-    "title": "staff (obi)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/16_15/623ccf61_d7b2_4ed2_aa8a_a73800ffd14d/preview_ESA22510_1_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A feather-and-down shaman's staff attributed to the Karajá (Iny), a ritual object consistent with their material culture and craft tradition.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_42687",
     "name": "mask",
@@ -313,6 +313,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "This is an Aruanã mask of straw/grass fiber and feathers with attached grass skirt pieces, collected at Barra do Tapirapé, Mato Grosso — a classic ceremonial mask type made and used by the Karajá for the Aruanã ritual complex.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1957-05-3",
+    "name": "staff",
+    "kind": "staff",
+    "title": "staff (obi)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/16_15/623ccf61_d7b2_4ed2_aa8a_a73800ffd14d/preview_ESA22510_1_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A feather-and-down shaman's staff attributed to the Karajá (Iny), a ritual object consistent with their material culture and craft tradition.",
     "featured": true
    }
   ],
@@ -448,6 +464,22 @@
   ],
   "garment": [
    {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_19830",
+    "name": "Fjäderdiadem, huvudprydnad, head-dress",
+    "kind": "headgear",
+    "title": "Fjäderdiadem, huvudprydnad, head-dress",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/404386/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a feather headdress made by men of the Karajá, collected at the mouth of the Rio Tapirapé on the Rio Araguaya, matching the claimed ethnicity and collection region.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Am1987-17-32",
     "name": "belt",
@@ -481,18 +513,34 @@
    },
    {
     "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_19830",
-    "name": "Fjäderdiadem, huvudprydnad, head-dress",
+    "id": "/91608/SMVK_VKM_objekt_19784",
+    "name": "huvudprydnad, Huvuddiadem, head-dress",
     "kind": "headgear",
-    "title": "Fjäderdiadem, huvudprydnad, head-dress",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/404386/zoom",
+    "title": "huvudprydnad, Huvuddiadem, head-dress",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611089/zoom",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "The image shows a feather headdress made by men of the Karajá, collected at the mouth of the Rio Tapirapé on the Rio Araguaya, matching the claimed ethnicity and collection region.",
+    "reason": "A feather-and-fiber headdress with a woven thread-cross diamond, documented as collected from a Karajá man at Santa Isabel, Ilha do Bananal — a classic Karajá ceremonial headdress made and worn by the people themselves.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_19828",
+    "name": "Huvuddiadem, huvudprydnad, head-dress",
+    "kind": "headgear",
+    "title": "Huvuddiadem, huvudprydnad, head-dress",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611093/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A feather head-dress with blue macaw tail feathers and red/yellow feather trim on a woven ring, collected at the mouth of the Rio Tapirapé/Araguaya and documented as made and worn by Karajá men — a plausible, well-documented item of Karajá ceremonial dress.",
     "featured": true
    },
    {
@@ -509,7 +557,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a woven belt with feather danglers, attributed to the Karajá (Iny) people as a \"wetakana\" belt — a traditional feather-and-fiber garment accessory consistent with Karajá material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -525,22 +573,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A feather headdress (lori-lori) on a fibre net, documented as made by the Karajá (Iny) people, matches a known type of Karajá ceremonial feather adornment.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_19784",
-    "name": "huvudprydnad, Huvuddiadem, head-dress",
-    "kind": "headgear",
-    "title": "huvudprydnad, Huvuddiadem, head-dress",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611089/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A feather-and-fiber headdress with a woven thread-cross diamond, documented as collected from a Karajá man at Santa Isabel, Ilha do Bananal — a classic Karajá ceremonial headdress made and worn by the people themselves.",
     "featured": false
    },
    {
@@ -558,41 +590,9 @@
     "confidence": "HIGH",
     "reason": "A woven belt (wetakana) with feather ornamentation, attributed directly to the Karajá (Iny) by the museum; this is a characteristic worn accessory of the group.",
     "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_19828",
-    "name": "Huvuddiadem, huvudprydnad, head-dress",
-    "kind": "headgear",
-    "title": "Huvuddiadem, huvudprydnad, head-dress",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611093/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A feather head-dress with blue macaw tail feathers and red/yellow feather trim on a woven ring, collected at the mouth of the Rio Tapirapé/Araguaya and documented as made and worn by Karajá men — a plausible, well-documented item of Karajá ceremonial dress.",
-    "featured": false
    }
   ],
   "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Am1984-22-1",
-    "name": "necklace",
-    "kind": "necklace",
-    "title": "necklace (nõhõ)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/8_12/15007e29_da20_42a3_b9d6_b2d700ca4bc2/preview_Am1984_22_1__3_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A wooden pendant with incised geometric decoration and feather tassels, attached by fiber cord — a type of ornament (nõhõ) consistent with Karajá material culture. The object matches typical Karajá painted wood and feather adornment.",
-    "featured": true
-   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_42601",
@@ -627,6 +627,54 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1984-22-1",
+    "name": "necklace",
+    "kind": "necklace",
+    "title": "necklace (nõhõ)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/8_12/15007e29_da20_42a3_b9d6_b2d700ca4bc2/preview_Am1984_22_1__3_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A wooden pendant with incised geometric decoration and feather tassels, attached by fiber cord — a type of ornament (nõhõ) consistent with Karajá material culture. The object matches typical Karajá painted wood and feather adornment.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_41656",
+    "name": "Öronstavar., öronstav",
+    "kind": "ear stick",
+    "title": "Öronstavar., öronstav",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1315125/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a pair of carved wooden/bamboo ear ornament rods (öronstavar) inscribed with Karajá and Krause collection data from the Rio Araguaia region, consistent with Karajá ear ornaments for young men.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_41665",
+    "name": "läppstav, Läppstav.",
+    "kind": "lip stick",
+    "title": "läppstav, Läppstav.",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1315129/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A \"läppstav\" (lip-pin/comb-like object) woven with fiber and wooden pins, labeled Karajá, Araguaya region, Brazil — a traditional Karajá-made object used as body adornment.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Am1986-11-4-a",
     "name": "head-dress",
     "kind": "headwear",
@@ -639,7 +687,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A woven raffia disc ornament, part of a headdress, with a dyed cross pattern — a traditional adornment item consistent with Karajá craft production.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -655,7 +703,7 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "Two wooden rod ear-ornaments with incised geometric designs, labeled as Karajá (nõhõtisana), a documented type of ear adornment for this group.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -687,38 +735,6 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "A woven textile armlet (dexi) attributed to the Karajá, a personal adornment worn by men; consistent with the claimed ethnicity and category.",
-    "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_41656",
-    "name": "Öronstavar., öronstav",
-    "kind": "ear stick",
-    "title": "Öronstavar., öronstav",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1315125/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "HIGH",
-    "reason": "The image shows a pair of carved wooden/bamboo ear ornament rods (öronstavar) inscribed with Karajá and Krause collection data from the Rio Araguaia region, consistent with Karajá ear ornaments for young men.",
-    "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_41665",
-    "name": "läppstav, Läppstav.",
-    "kind": "lip stick",
-    "title": "läppstav, Läppstav.",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1315129/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A \"läppstav\" (lip-pin/comb-like object) woven with fiber and wooden pins, labeled Karajá, Araguaya region, Brazil — a traditional Karajá-made object used as body adornment.",
     "featured": false
    }
   ],
@@ -838,19 +854,19 @@
   ],
   "instruments": [
    {
-    "source": "bm",
-    "id": "E_Am1932-1111-3",
-    "name": "rattle; leg-ornament",
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_19833",
+    "name": "skallra",
     "kind": "rattle",
-    "title": "rattle (weru); leg-ornament",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/16_16/c386329b_a766_44d0_a7ec_a7380108e1e3/preview_ESA17220_2_.jpg",
+    "title": "skallra",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/404438/zoom",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A tortoise-shell rattle with feather decoration, attributed by the museum to Karajá (Iny-Karajá) makers and used as a leg ornament/rattle — a plausible traditional Karajá craft object.",
+    "confidence": "HIGH",
+    "reason": "A gourd rattle with feather tuft and pyrography decoration on a wooden handle, collected among the Karajá on the Rio Tapirapé/Araguaya — a typical musical instrument made and used by this people.",
     "featured": true
    },
    {
@@ -871,22 +887,6 @@
    },
    {
     "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_19833",
-    "name": "skallra",
-    "kind": "rattle",
-    "title": "skallra",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/404438/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A gourd rattle with feather tuft and pyrography decoration on a wooden handle, collected among the Karajá on the Rio Tapirapé/Araguaya — a typical musical instrument made and used by this people.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_19835",
     "name": "Kalebasskallra., skallra",
     "kind": "rattle",
@@ -899,6 +899,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A calabash rattle (chocalho) with a painted line pattern, wrapped handle with beadwork, and feather decoration, collected at the Tapirapé/Araguaia confluence in Mato Grosso and attributed to the Karajá — a plausible traditional rattle-instrument for this Araguaia-river people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1932-1111-3",
+    "name": "rattle; leg-ornament",
+    "kind": "rattle",
+    "title": "rattle (weru); leg-ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/16_16/c386329b_a766_44d0_a7ec_a7380108e1e3/preview_ESA17220_2_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A tortoise-shell rattle with feather decoration, attributed by the museum to Karajá (Iny-Karajá) makers and used as a leg ornament/rattle — a plausible traditional Karajá craft object.",
     "featured": true
    }
   ],

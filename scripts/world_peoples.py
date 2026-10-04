@@ -691,6 +691,19 @@ _KIND_FIX = [
     (re.compile(r"model building|model house|miniature", re.I), "sculpture"),   # a model is not a building
     (re.compile(r"house-post", re.I), "architectural"),
     (re.compile(r"mancala|doll|toy|walking-stick|game", re.I), "household"),
+    # 2026-10-04, from the object names the mapping still left unclassified.
+    # Names that say nothing ("artefact", empty, "Föremål") stay unclassified.
+    (re.compile(r"\bmodell?\b|pappersfigur|paper figure", re.I), "sculpture"),   # before canoe/gun: a model canoe is a model
+    (re.compile(r"plaque|tusk", re.I), "sculpture"),
+    (re.compile(r"\bbaton\b|\bwand\b|\bstaff\b|soul-catcher|ceremonial object|offering|\bcross\b|processionskors|mask-mould", re.I), "masks-ritual"),
+    (re.compile(r"\bgun\b|\barco\b|sashimono", re.I), "arms"),
+    (re.compile(r"forowa", re.I), "metalwork"),
+    (re.compile(r"ahuayo|sl[äa]nd|weaving equipment", re.I), "textile"),
+    (re.compile(r"snow-shoe|\bplume\b|\broach\b|bandolera", re.I), "garment"),
+    (re.compile(r"rattle|mungiga", re.I), "instruments"),
+    (re.compile(r"tablet; document|bildskriftsh|kalender", re.I), "painting-mss"),
+    (re.compile(r"canoe|\bboat\b|kayak|\bdice\b|gaming-piece|maika-piece|puzzle|playing-card|cat's cradle|quoit|football|\bboll\b|"
+                r"swagger-stick|decorated egg|betel|snuff-container|pounder|karott|decoy|maniokpress|horse-bridle|furnishing", re.I), "household"),
 ]
 
 

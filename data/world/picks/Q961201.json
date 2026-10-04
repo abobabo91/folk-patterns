@@ -3,7 +3,7 @@
  "label": "Lobi people",
  "name": "Lobi",
  "judged": 0,
- "cached": 5,
+ "cached": 10,
  "cost_usd": 0,
  "ranked": {
   "sculpture": [
@@ -24,6 +24,86 @@
     "featured": true
    },
    {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_23863_inventary_CE2000_2_19_table_FMUS_museum_MNA",
+    "name": "Figura",
+    "kind": "figure",
+    "title": "Figura",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE2000_2_19_SEQ_001_P.JPG&Ninv=CE2000/2/19",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved Lobi bateba ritual figure, consistent with the metadata describing Lobi spirit sculptures used on altars. It fits the claimed Lobi ethnicity and sculpture category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_23869_inventary_CE4054_table_FMUS_museum_MNA",
+    "name": "Figura",
+    "kind": "figure",
+    "title": "Figura",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE4054_P.JPG&Ninv=CE4054",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved female figure with scarification marks and a distinctive headdress, consistent with a Lobi bateba ritual sculpture. It fits the claimed Lobi ethnicity and sculpture category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_23921_inventary_CE2000_2_16_table_FMUS_museum_MNA",
+    "name": "Figura",
+    "kind": "figure",
+    "title": "Figura",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE2000_2_16_SEQ_001_P.JPG&Ninv=CE2000/2/16",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden standing human figure, consistent with a Lobi bateba ritual sculpture described in the metadata and plausibly made for Lobi religious use.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_23922_inventary_CE2000_2_18_table_FMUS_museum_MNA",
+    "name": "Figura",
+    "kind": "figure",
+    "title": "Figura",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE2000_2_18_SEQ_001_P.JPG&Ninv=CE2000/2/18",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden Lobi bateba ritual figure, consistent with the metadata describing Lobi religious sculptures used on altars. It directly fits the claimed ethnicity and sculpture category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_23984_inventary_CE2000_2_17_table_FMUS_museum_MNA",
+    "name": "Figura",
+    "kind": "figure",
+    "title": "Figura",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE2000_2_17_SEQ_001_P.JPG&Ninv=CE2000/2/17",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved anthropomorphic wooden figure, consistent with the Lobi bateba ritual sculptures described in the metadata. It fits the claimed Lobi ethnicity and sculpture category.",
+    "featured": false
+   },
+   {
     "source": "bm",
     "id": "E_Af1932-1018-4",
     "name": "figure",
@@ -37,7 +117,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The picture shows a carved wooden male ancestor figure, a type of sculpture plausibly made and used by the Lobi of Ghana. It fits the claimed ethnicity and category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -53,7 +133,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a carved wooden double human figure, consistent with the claimed Lobi sculptural tradition. It is a traditional ethnographic object rather than an outsider depiction or unrelated subject.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +149,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a carved wooden human figure, a type of sculpture associated with Lobi artistic traditions. It plausibly fits the claimed Lobi ethnicity and is clearly presented.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +165,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a carved wooden female ancestor figure, a type of sculpture associated with Lobi cultural traditions in Ghana. It plausibly fits the claimed ethnicity and category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -102,6 +182,40 @@
     "confidence": "MEDIUM",
     "reason": "A carved wooden standing female figure, typical of Lobi ancestor/spirit figures (bateba) from Ghana/Burkina Faso, matching the claimed ethnicity and category.",
     "featured": false
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_23866_inventary_CE4052_table_FMUS_museum_MNA",
+    "name": "Figura",
+    "kind": "figure",
+    "title": "Figura",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE4052_SEQ_004_P.JPG&Ninv=CE4052",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved seated female figure with scarification marks and an elaborate headdress, consistent with a Lobi bateba ritual sculpture. It fits the claimed Lobi ethnicity and sculpture category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1970-06-1",
+    "name": "head-dress",
+    "kind": "headwear",
+    "title": "head-dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/14_15/9aacd630_f7ec_402d_ae6e_a9d500f744ee/preview_EAF8322.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden horned-animal headdress, a ritual object plausibly made and used by the Lobi; the garment category is incorrect.",
+    "featured": true
    }
   ],
   "household": [
@@ -267,24 +381,6 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The picture shows a handmade cowrie-shell waist-band, a form of personal adornment plausibly made and worn by Lobi women in Ghana.",
-    "featured": true
-   }
-  ],
-  "masks-ritual": [
-   {
-    "source": "bm",
-    "id": "E_Af1970-06-1",
-    "name": "head-dress",
-    "kind": "headwear",
-    "title": "head-dress",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/14_15/9aacd630_f7ec_402d_ae6e_a9d500f744ee/preview_EAF8322.jpg",
-    "judge": "pick:codex-gpt-5.6-luna",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The picture shows a carved wooden horned-animal headdress, a ritual object plausibly made and used by the Lobi; the garment category is incorrect.",
     "featured": true
    }
   ]

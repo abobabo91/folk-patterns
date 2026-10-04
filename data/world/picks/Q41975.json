@@ -3,7 +3,7 @@
  "label": "Mongols",
  "name": "Mongols",
  "judged": 0,
- "cached": 71,
+ "cached": 69,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -256,6 +256,22 @@
   ],
   "textile": [
    {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1170925",
+    "name": "matta, rug, carpet",
+    "kind": "rug",
+    "title": "matta, rug, carpet",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1170927/1939.13.0001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A knotted wool-and-cotton square rug with floral medallion and key-fret border, used as a temple or tent mat and acquired in a region bordering Mongolia; such rugs are a well-known Mongol furnishing textile, though the museum notes it was likely made in a North China border town, plausibly by or for Mongols.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "A_As1990-04-1",
     "name": "prayer-carpet",
@@ -285,22 +301,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Woven wool horse-blanket with diamond pattern and dark border/fringe, a type of equipment used by Mongol herders for their horses, consistent with the museum's attribution.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1170925",
-    "name": "matta, rug, carpet",
-    "kind": "rug",
-    "title": "matta, rug, carpet",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1170927/1939.13.0001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A knotted wool-and-cotton square rug with floral medallion and key-fret border, used as a temple or tent mat and acquired in a region bordering Mongolia; such rugs are a well-known Mongol furnishing textile, though the museum notes it was likely made in a North China border town, plausibly by or for Mongols.",
     "featured": true
    },
    {

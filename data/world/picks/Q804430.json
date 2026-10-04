@@ -3,7 +3,7 @@
  "label": "Kiga people",
  "name": "Kiga",
  "judged": 0,
- "cached": 24,
+ "cached": 4,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -123,6 +123,22 @@
   "metalwork": [
    {
     "source": "bm",
+    "id": "E_Af1948-08-381",
+    "name": "bill-hook",
+    "kind": "bill-hook",
+    "title": "bill-hook",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/30_12/1870fb94_1d72_4242_a3fa_a43000ce57a9/preview_EAF49186.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade metal bill-hook with a wooden handle, a plausible agricultural tool made and used by the Kiga (Bachiga) people. It fits the claimed ethnicity and is better classified as a tool/metalwork object than household furniture or utensils.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1948-08-368",
     "name": "hammer",
     "kind": "hammer",
@@ -199,6 +215,24 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "The picture shows a small, traditional iron hammer, explicitly recorded as made by the Kiga (Bachiga), so it fits the claimed ethnicity.",
+    "featured": false
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af1948-08-390",
+    "name": "bracelet",
+    "kind": "bracelet",
+    "title": "bracelet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/30_12/8a01e150_1ec2_42ed_8ec2_a43000ce1fd4/preview_EAF49196.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade bracelet made from twisted goat hair bound with copper wire, explicitly recorded as made by the Kiga (Bachiga). It fits the claimed Kiga jewelry category.",
     "featured": true
    }
   ],
@@ -346,24 +380,6 @@
     "confidence": "HIGH",
     "reason": "The image shows a complete slender spear with a metal blade and wooden shaft. The metadata explicitly attributes it to the Bachiga/Kiga, so it fits the claimed ethnicity and arms category.",
     "featured": false
-   }
-  ],
-  "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Af1948-08-390",
-    "name": "bracelet",
-    "kind": "bracelet",
-    "title": "bracelet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/30_12/8a01e150_1ec2_42ed_8ec2_a43000ce1fd4/preview_EAF49196.jpg",
-    "judge": "pick:codex-gpt-5.6-luna",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The picture shows a handmade bracelet made from twisted goat hair bound with copper wire, explicitly recorded as made by the Kiga (Bachiga). It fits the claimed Kiga jewelry category.",
-    "featured": true
    }
   ]
  }

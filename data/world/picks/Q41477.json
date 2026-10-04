@@ -6,41 +6,23 @@
  "cached": 7,
  "cost_usd": 0,
  "ranked": {
-  "jewelry": [
+  "masks-ritual": [
    {
-    "source": "bm",
-    "id": "E_Af-158",
-    "name": "personal ornament",
-    "kind": "ornament",
-    "title": "personal ornament",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/27_14/fc350993_7bb1_40f7_af67_a74300eb0de8/preview_EAF13813.jpg",
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_1822_inventary_CE1184_table_FMUS_museum_MNA",
+    "name": "Amuleto",
+    "kind": "amulet",
+    "title": "Amuleto",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE1184_SEQ_001_P.JPG&Ninv=CE1184",
     "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
+    "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a woven armlet made of small white shell pieces strung together, matching the museum's description of a Bubi personal ornament; shell jewelry of this type is plausible traditional Bubi adornment from Bioko.",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved amulet combining a fist and bird beak joined by rings, consistent with the Bubi amulets described in the metadata. It is a ritual protective object rather than ordinary jewelry.",
     "featured": true
    },
-   {
-    "source": "bm",
-    "id": "E_Af-157",
-    "name": "head-ornament; necklace",
-    "kind": "necklace",
-    "title": "head-ornament; necklace",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_14/16d2873b_74a1_4d93_a6cf_a3bc00f0d4bc/preview_00424836_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A necklace/head-ornament of small pierced shell beads strung on twisted bast with attached feathers, explicitly attributed to the Bubi people of Bioko; a plausible traditional adornment for the culture.",
-    "featured": true
-   }
-  ],
-  "masks-ritual": [
    {
     "source": "bm",
     "id": "E_Af1855-1220-140",
@@ -71,24 +53,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A carved wooden bell-shaped charm with a reptile-skin strip cord, attributed by the museum to Bubi maker; this matches the claimed ethnicity and ritual/charm use.",
-    "featured": true
-   }
-  ],
-  "ceramic": [
-   {
-    "source": "bm",
-    "id": "E_Af-5005",
-    "name": "bowl",
-    "kind": "bowl",
-    "title": "bowl",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/27_12/a23337ee_d9ac_4495_afbf_a74300c5c85f/preview_EAF13485.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "ceramic",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A reddish earthenware bowl with a loop handle, incised line and hatch decoration, consistent with traditional Bubi pottery of Bioko Island; museum attributes it directly to Bubi makers.",
     "featured": true
    }
   ],
@@ -123,6 +87,126 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A small round lidded coiled basket decorated with beads, collected at Fernando Po (Bioko) and attributed to the Bubi people, consistent with Bubi basketry/household craft.",
+    "featured": true
+   }
+  ],
+  "garment": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_2022_inventary_CE4183_table_FMUS_museum_MNA",
+    "name": "Peluca",
+    "kind": "wig",
+    "title": "Peluca",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE4183_SEQ_004_P.JPG&Ninv=CE4183",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a traditional vegetal-fiber wig and beard attributed to the Bubi culture of Bioko, reportedly used by King Bulambu. It fits the claimed ethnicity and is best classified as headwear/clothing.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_3135_inventary_CE4273_table_FMUS_museum_MNA",
+    "name": "Campana",
+    "kind": "bell",
+    "title": "Campana",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE4273_SEQ_002_P.JPG&Ninv=CE4273",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden ritual bell with two raised handles, identified as a bi-leebo used by the Bubi in ceremonies. The museum metadata explicitly attributes its use and symbolic decoration to the Bubi of Fernando Poo.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_3175_inventary_CE6816_table_FMUS_museum_MNA",
+    "name": "Campana",
+    "kind": "bell",
+    "title": "Campana",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE6816_SEQ_004_P.JPG&Ninv=CE6816",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a decorated metal ritual bell with a fiber fringe, identified as a Bubi bi-leebo used by ritual specialists in Fernando Poo. It fits the claimed Bubi ethnicity and instrument category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_4332_inventary_CE11812_table_FMUS_museum_MNA",
+    "name": "Campana",
+    "kind": "bell",
+    "title": "Campana",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE11812_SEQ_004_P.JPG&Ninv=CE11812",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a decorated handbell, identified as a bi-leebo used by Bubi ritual specialists. It fits the claimed Bubi ethnicity and instrument category.",
+    "featured": true
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af-158",
+    "name": "personal ornament",
+    "kind": "ornament",
+    "title": "personal ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/27_14/fc350993_7bb1_40f7_af67_a74300eb0de8/preview_EAF13813.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a woven armlet made of small white shell pieces strung together, matching the museum's description of a Bubi personal ornament; shell jewelry of this type is plausible traditional Bubi adornment from Bioko.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af-157",
+    "name": "head-ornament; necklace",
+    "kind": "necklace",
+    "title": "head-ornament; necklace",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_14/16d2873b_74a1_4d93_a6cf_a3bc00f0d4bc/preview_00424836_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A necklace/head-ornament of small pierced shell beads strung on twisted bast with attached feathers, explicitly attributed to the Bubi people of Bioko; a plausible traditional adornment for the culture.",
+    "featured": true
+   }
+  ],
+  "ceramic": [
+   {
+    "source": "bm",
+    "id": "E_Af-5005",
+    "name": "bowl",
+    "kind": "bowl",
+    "title": "bowl",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_3/27_12/a23337ee_d9ac_4495_afbf_a74300c5c85f/preview_EAF13485.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "ceramic",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A reddish earthenware bowl with a loop handle, incised line and hatch decoration, consistent with traditional Bubi pottery of Bioko Island; museum attributes it directly to Bubi makers.",
     "featured": true
    }
   ]

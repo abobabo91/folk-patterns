@@ -3,7 +3,7 @@
  "label": "Zaghawa people",
  "name": "Zaghawa",
  "judged": 0,
- "cached": 8,
+ "cached": 4,
  "cost_usd": 0,
  "ranked": {
   "photo": [
@@ -57,6 +57,38 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1980-21-328",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_8/15_13/e3ffbce9_a41e_4000_b22a_b1cd00ded5b8/preview_EAF53090.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The photograph shows a group of people gathered in a traditional compound, possibly for a wedding ceremony, documenting Zaghawa dress and daily ritual life in Darfur. It fits the claimed ethnicity as a documentary photo of their community, though no distinctive object is shown.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1980-21-253",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_2/28_10/5dc9388b_9c77_45d0_9e51_b12400ad4645/preview_EAF50371.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The photograph documents a woman and child with handmade vessels and a drum in daily life; nothing positively contradicts the claimed Zaghawa attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1980-21-250",
     "name": "photographic print",
     "kind": "photograph",
@@ -69,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A documentary market scene in Kebkebiya, North Darfur, showing women with a large array of ceramic vessels for sale; Kebkebiya is a Zaghawa-area town, and pottery selling/use is plausible daily-life activity for this people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +117,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The photo documents a man in traditional white robes with a saddled camel at Kireyka in Darfur, Sudan — a documentary image of daily life/dress in the Zaghawa homeland region of Darfur.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

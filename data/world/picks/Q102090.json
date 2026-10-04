@@ -3,9 +3,75 @@
  "label": "Apache",
  "name": "Apache",
  "judged": 0,
- "cached": 31,
+ "cached": 26,
  "cost_usd": 0,
  "ranked": {
+  "garment": [
+   {
+    "source": "europeana",
+    "id": "/2048221/europeana_fashion_652970",
+    "name": "Knee ligaments",
+    "kind": "ligament",
+    "title": "Knee ligaments",
+    "image_url": "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/RV/RV-361-12.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows a traditional woven Apache woman’s sash or belt, used to secure women’s dress, matching the claimed Apache attribution.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_3845629",
+    "name": "huvudbonad, huvudprydnad, bonnet",
+    "kind": "bonnet",
+    "title": "huvudbonad, huvudprydnad, bonnet",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3845696/1986.10.0001_1.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a beaded leather cap with upright eagle feathers, a type of headdress the museum explicitly identifies as characteristic Apache Southwest dress; beadwork and construction are consistent with Southwest Apache work.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1273119",
+    "name": "Shirt",
+    "kind": "shirt",
+    "title": "Shirt",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1273124/1883.09.0002.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A fringed buckskin shirt with painted/pigmented strips, a style plausible for Apache or neighboring Southern Plains/Southwest groups; fits as traditional Native American dress, no evidence contradicting Apache attribution.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2048221/europeana_fashion_652971",
+    "name": "Knee ligament",
+    "kind": "ligament",
+    "title": "Knee ligament",
+    "image_url": "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/RV/RV-361-13.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a pair of handwoven red-and-green Apache knee garters used to secure hide leggings, fitting the claimed ethnicity despite the household category.",
+    "featured": true
+   }
+  ],
   "household": [
    {
     "source": "europeana",
@@ -171,6 +237,22 @@
    },
    {
     "source": "bm",
+    "id": "EA_Am-A24-3",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_7/3525d489_6cf6_4598_a404_a3c1007bce7b/preview_00614551_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph shows a Jicarilla Apache woman wearing traditional dress, jewelry, braids, and a blanket while holding a baby. It is a documentary image of Apache dress and daily life, so it fits the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "EA_Am-B32-32",
     "name": "photographic print; cabinet card",
     "kind": "photograph",
@@ -231,7 +313,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Studio portrait of a Jicarilla Apache woman in traditional dress with a shell choker, blanket, and holding a baby, documenting Apache dress and daily life; fits the claimed ethnicity.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -363,40 +445,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A wooden end-blown flute with sinew binding and painted decoration, a documented Apache musical instrument form (the \"Apache fiddle\" and flute traditions are well known). The object type and materials are consistent with Apache craft.",
-    "featured": true
-   }
-  ],
-  "garment": [
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_3845629",
-    "name": "huvudbonad, huvudprydnad, bonnet",
-    "kind": "bonnet",
-    "title": "huvudbonad, huvudprydnad, bonnet",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3845696/1986.10.0001_1.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a beaded leather cap with upright eagle feathers, a type of headdress the museum explicitly identifies as characteristic Apache Southwest dress; beadwork and construction are consistent with Southwest Apache work.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1273119",
-    "name": "Shirt",
-    "kind": "shirt",
-    "title": "Shirt",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1273124/1883.09.0002.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A fringed buckskin shirt with painted/pigmented strips, a style plausible for Apache or neighboring Southern Plains/Southwest groups; fits as traditional Native American dress, no evidence contradicting Apache attribution.",
     "featured": true
    }
   ],

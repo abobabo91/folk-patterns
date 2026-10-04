@@ -3,59 +3,9 @@
  "label": "Lakota people",
  "name": "Lakota",
  "judged": 0,
- "cached": 24,
+ "cached": 16,
  "cost_usd": 0,
  "ranked": {
-  "painting-mss": [
-   {
-    "source": "bm",
-    "id": "E_Am2006-Ptg-14",
-    "name": "oil painting",
-    "kind": "painting",
-    "title": "oil painting",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_22/7cfbb221_6260_4c65_a1b6_a3b801730f7d/preview_00340291_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The painting depicts a named Oglala (Lakota) chief, \"War Eagle,\" wearing genuine Plains regalia — an eagle-feather war bonnet, ear ornament, beaded/fringed scalp shirt, and hide robe — consistent with Lakota material culture and dress, so it belongs to the claimed people despite being painted rather than photographed from life.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am2006-Ptg-15",
-    "name": "oil painting",
-    "kind": "painting",
-    "title": "oil painting",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/3c9b1b7a_bee1_4608_981c_a3b900741789/preview_00347739_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A painted portrait of Red Cloud (Makhpiya-Luta), Oglala Lakota chief, shown in traditional fringed shirt, beaded/quilled pouch, blanket, and beaded strip — an authentic depiction of Lakota dress and regalia made and worn by the culture itself.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am2006-Ptg-4",
-    "name": "oil painting",
-    "kind": "painting",
-    "title": "oil painting",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/7090d78c_3df6_42d7_b78e_a3b90072ac53/preview_00347480_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The painting depicts a Brulé Lakota woman (wife of Spotted Tail) wearing traditional dress, earrings, decorated shawl, and jewelry — a portrait documenting Lakota attire, made by an outsider artist but depicting genuine Lakota material culture.",
-    "featured": true
-   }
-  ],
   "photo": [
    {
     "source": "bm",
@@ -87,6 +37,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "Studio portrait of an Oohenonpa (Two Kettle Lakota/Teton Sioux) chief in traditional dress—feathered hat, shell ear ornaments, fringed jacket, fur blanket, embroidered leggings, moccasins, and tomahawk—directly documenting Lakota dress and regalia.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-A1-6",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_5/b5746820_4aa7_4014_b6a5_a3c10059b10e/preview_00604391_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows an Oglala Lakota chief wearing traditional Lakota clothing and ornaments, including a fur hat, gorget, and ear adornments. It is a documentary portrait of Lakota dress and therefore fits the claimed ethnicity.",
     "featured": true
    },
    {
@@ -135,7 +101,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Studio portrait of Yellow Eagle, an Oglala Sioux (Lakota) man, wearing traditional dentalium/abalone ear ornaments, shell choker, hide tunic, and a quillwork-decorated blanket — a documentary photo of Lakota dress, matching the claimed ethnicity.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -205,6 +171,22 @@
   "garment": [
    {
     "source": "europeana",
+    "id": "/2022703/pages_Main_idt_29468_inventary_CE19171_table_FMUS_museum_MNA",
+    "name": "Vestido",
+    "kind": "dress",
+    "title": "Vestido",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19171_SEQ_005_P.JPG&Ninv=CE19171",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows a Lakota women’s hide dress with fringes and distinctive geometric seed-bead decoration, including tipi motifs. It directly fits the claimed Lakota ethnicity and garment category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_16799",
     "name": "skjorta, tunic, shirt",
     "kind": "shirt",
@@ -233,22 +215,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A pair of beaded hide moccasins with typical Lakota/Sioux-style geometric beadwork in lazy-stitch, collected as part of the 1893 Retzius expedition to North America and catalogued as Lakota/Sioux — consistent with Plains Lakota footwear.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_2009-2004-10",
-    "name": "pouch",
-    "kind": "pouch",
-    "title": "pouch",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/25ff3de4_5960_4f4f_ba4a_a3c00189722a/preview_00575941_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A quilled and beaded pouch with galloping-horse motif, fringed tassels with metal cones, matches Plains Lakota beadwork/quillwork craft traditions.",
     "featured": true
    },
    {
@@ -282,6 +248,70 @@
     "confidence": "MEDIUM",
     "reason": "An eagle-feather war bonnet with a beaded browband, a classic Plains/Lakota-type headdress, plausible for the claimed Lakota (Sioux) attribution and well within the known material culture of the region.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_2009-2004-10",
+    "name": "pouch",
+    "kind": "pouch",
+    "title": "pouch",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/25ff3de4_5960_4f4f_ba4a_a3c00189722a/preview_00575941_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A quilled and beaded pouch with galloping-horse motif, fringed tassels with metal cones, matches Plains Lakota beadwork/quillwork craft traditions.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_29469_inventary_CE19172_table_FMUS_museum_MNA",
+    "name": "Mocasín",
+    "kind": "moccasin",
+    "title": "Mocasín",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19172_P.JPG&Ninv=CE19172",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a traditionally made, extensively glass-beaded leather moccasin, a garment consistent with Lakota footwear and craft traditions. Nothing indicates an outsider-made depiction or a different ethnic attribution.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_30973_inventary_CE19486_table_FMUS_museum_MNA",
+    "name": "Vestido",
+    "kind": "dress",
+    "title": "Vestido",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19486_SEQ_003_P.JPG&Ninv=CE19486",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a traditional decorated Native American child’s dress with dentalium shells, ribbons, sequins, and bells, consistent with Lakota or neighboring Plains peoples’ clothing. Nothing in the image contradicts the claimed Lakota attribution.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_29470_inventary_CE19173_table_FMUS_museum_MNA",
+    "name": "Mocasín",
+    "kind": "moccasin",
+    "title": "Mocasín",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19173_P.JPG&Ninv=CE19173",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a beaded hide moccasin with geometric and animal motifs, a traditional garment associated with Lakota craft. It fits the claimed ethnicity and category.",
+    "featured": false
    }
   ],
   "household": [
@@ -333,6 +363,56 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a hairpipe breastplate made of bone tube beads strung in rows with glass beads and claw ornaments — a classic Plains-style body armor/ornament of the type made and worn by Lakota and other Plains peoples for regalia and defense. It fits both the claimed ethnicity and category as arms/armor.",
+    "featured": true
+   }
+  ],
+  "painting-mss": [
+   {
+    "source": "bm",
+    "id": "E_Am2006-Ptg-14",
+    "name": "oil painting",
+    "kind": "painting",
+    "title": "oil painting",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_22/7cfbb221_6260_4c65_a1b6_a3b801730f7d/preview_00340291_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The painting depicts a named Oglala (Lakota) chief, \"War Eagle,\" wearing genuine Plains regalia — an eagle-feather war bonnet, ear ornament, beaded/fringed scalp shirt, and hide robe — consistent with Lakota material culture and dress, so it belongs to the claimed people despite being painted rather than photographed from life.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am2006-Ptg-15",
+    "name": "oil painting",
+    "kind": "painting",
+    "title": "oil painting",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/3c9b1b7a_bee1_4608_981c_a3b900741789/preview_00347739_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A painted portrait of Red Cloud (Makhpiya-Luta), Oglala Lakota chief, shown in traditional fringed shirt, beaded/quilled pouch, blanket, and beaded strip — an authentic depiction of Lakota dress and regalia made and worn by the culture itself.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am2006-Ptg-4",
+    "name": "oil painting",
+    "kind": "painting",
+    "title": "oil painting",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/7090d78c_3df6_42d7_b78e_a3b90072ac53/preview_00347480_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The painting depicts a Brulé Lakota woman (wife of Spotted Tail) wearing traditional dress, earrings, decorated shawl, and jewelry — a portrait documenting Lakota attire, made by an outsider artist but depicting genuine Lakota material culture.",
     "featured": true
    }
   ]

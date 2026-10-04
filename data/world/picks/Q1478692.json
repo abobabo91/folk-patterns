@@ -3,7 +3,7 @@
  "label": "Tabwa people",
  "name": "Tabwa",
  "judged": 0,
- "cached": 17,
+ "cached": 3,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -122,6 +122,22 @@
   ],
   "sculpture": [
    {
+    "source": "met",
+    "id": "311052",
+    "name": "Female figure",
+    "kind": "figure",
+    "title": "Mukisi Mupasi (ancestor figure)",
+    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.591_a.JPG",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "A classic Tabwa carved wooden ancestor figure with characteristic raised scarification patterns, coiffure, and beaded ornaments, fully intact and clearly photographed — a well-known Tabwa sculptural type.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Af1954-23-3539",
     "name": "figure",
@@ -139,18 +155,18 @@
    },
    {
     "source": "met",
-    "id": "311052",
-    "name": "Female figure",
+    "id": "311053",
+    "name": "Male figure",
     "kind": "figure",
     "title": "Mukisi Mupasi (ancestor figure)",
-    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.591_a.JPG",
+    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.592_a.JPG",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
-    "quality": 5,
+    "quality": 4,
     "confidence": "HIGH",
-    "reason": "A classic Tabwa carved wooden ancestor figure with characteristic raised scarification patterns, coiffure, and beaded ornaments, fully intact and clearly photographed — a well-known Tabwa sculptural type.",
+    "reason": "The image shows a carved wooden ancestor figure with bead and cord adornment, consistent with the Tabwa attribution in the museum metadata. It fits the claimed ethnicity and sculpture category.",
     "featured": true
    },
    {
@@ -199,7 +215,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A dark wood standing figure with scarification marks, beaded bracelet, and a carved pedestal base — a classic Tabwa ancestor/power figure type, consistent with Tabwa carving traditions of the Congo/Zambia region.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

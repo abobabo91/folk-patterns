@@ -3,7 +3,7 @@
  "label": "Nez Perce",
  "name": "Nez Perce",
  "judged": 0,
- "cached": 21,
+ "cached": 5,
  "cost_usd": 0,
  "ranked": {
   "photo": [
@@ -121,6 +121,22 @@
    },
    {
     "source": "bm",
+    "id": "EA_Am-A29-4",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_7/8ec43997_3a30_4128_b9db_a3c100819d76/preview_00616408_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The photograph shows Timothy (Tomoson), a Nez Perce chief, in a historical studio portrait. It is documentary evidence of a Nez Perce person, though his Western suit is not distinctive Nez Perce material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "EA_Am-A29-1",
     "name": "photographic print; album",
     "kind": "photograph",
@@ -138,22 +154,6 @@
   ],
   "household": [
    {
-    "source": "bm",
-    "id": "E_Am1948-17-52",
-    "name": "bag",
-    "kind": "bag",
-    "title": "bag",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_17/87784102_bcc7_4d45_a597_a3d9011f14e5/preview_01178815_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "A cornhusk twined bag with classic diamond/zigzag geometric pattern, a well-documented Plateau craft made by the Nez Perce; museum confirms maker attribution.",
-    "featured": true
-   },
-   {
     "source": "met",
     "id": "318357",
     "name": "Bowcase-quiver",
@@ -170,19 +170,19 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "E_Am1930-56",
-    "name": "baby-carrier",
-    "kind": "baby-carrier",
-    "title": "baby-carrier",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_12/d48d094e_4078_49d5_ab4a_a3c500d00bd0/preview_00940234_001.jpg",
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1059041",
+    "name": "bag, cornhusk bag, bag",
+    "kind": "bag",
+    "title": "bag, cornhusk bag, bag",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1347966/1987.04.0021_alt.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a traditional deerskin cradleboard/baby-carrier with a beaded panel in geometric cross motifs, a classic Plateau-style (Nez Perce) infant carrier construction.",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "A classic cornhusk (corn husk/hemp) twined bag with geometric X-motif designs, documented as a gift from a named Nez Perce woman in Kamiah, Idaho — a well-known Plateau Nez Perce craft form.",
     "featured": true
    },
    {
@@ -203,6 +203,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1930-56",
+    "name": "baby-carrier",
+    "kind": "baby-carrier",
+    "title": "baby-carrier",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_12/d48d094e_4078_49d5_ab4a_a3c500d00bd0/preview_00940234_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a traditional deerskin cradleboard/baby-carrier with a beaded panel in geometric cross motifs, a classic Plateau-style (Nez Perce) infant carrier construction.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Am1989-09-4",
     "name": "purse; wallet",
     "kind": "purse",
@@ -219,6 +235,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Am1948-17-52",
+    "name": "bag",
+    "kind": "bag",
+    "title": "bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_17/87784102_bcc7_4d45_a597_a3d9011f14e5/preview_01178815_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "A cornhusk twined bag with classic diamond/zigzag geometric pattern, a well-documented Plateau craft made by the Nez Perce; museum confirms maker attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Am1965-07-2",
     "name": "bag; wallet",
     "kind": "bag",
@@ -231,22 +263,6 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "A twined cornhusk wallet bag with geometric wool overlay designs, a classic Plateau-region (Nez Perce) utilitarian container made from corn husk, hemp twine, wool yarn and deerskin trim. This matches well-documented Nez Perce material culture.",
-    "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1059041",
-    "name": "bag, cornhusk bag, bag",
-    "kind": "bag",
-    "title": "bag, cornhusk bag, bag",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1347966/1987.04.0021_alt.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "A classic cornhusk (corn husk/hemp) twined bag with geometric X-motif designs, documented as a gift from a named Nez Perce woman in Kamiah, Idaho — a well-known Plateau Nez Perce craft form.",
     "featured": false
    },
    {

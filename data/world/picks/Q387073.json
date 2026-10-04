@@ -3,10 +3,42 @@
  "label": "Tzotzil people",
  "name": "Tzotzil",
  "judged": 0,
- "cached": 34,
+ "cached": 14,
  "cost_usd": 0,
  "ranked": {
   "garment": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1022531",
+    "name": "duk",
+    "kind": "cloth",
+    "title": "duk",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1143912/1946.12.0036.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A square black/white striped cotton \"duk\" neck-and-shoulder cloth with red wool tassels, from Zinacantán, Chiapas — a garment type well documented among Tzotzil men.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_3670",
+    "name": "väv, band, Bälte, fabric, tira, Faja",
+    "kind": "band",
+    "title": "väv, band, Bälte, fabric, tira, Faja",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611249/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a hand-woven red and green striped wool belt/sash (faja) collected in Zinacantán, Chiapas, a documented Tzotzil Maya community, consistent with traditional Tzotzil women's dress.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Am1978-15-126",
@@ -69,7 +101,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A white cotton baby's bonnet with vivid geometric embroidery and a fringed border, consistent with Tzotzil textile traditions of Chiapas; museum explicitly credits Tzotzil makers.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,38 +117,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a woven wool woman's cloak with blue geometric ground and fuchsia/orange/turquoise striped borders and tasseled ties, matching the Tzotzil huipil/cloak weaving tradition of Chiapas, and the museum records it as made by the Tzotzil.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1022531",
-    "name": "duk",
-    "kind": "cloth",
-    "title": "duk",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1143912/1946.12.0036.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A square black/white striped cotton \"duk\" neck-and-shoulder cloth with red wool tassels, from Zinacantán, Chiapas — a garment type well documented among Tzotzil men.",
     "featured": false
    },
    {
     "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_3670",
-    "name": "väv, band, Bälte, fabric, tira, Faja",
-    "kind": "band",
-    "title": "väv, band, Bälte, fabric, tira, Faja",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611249/zoom",
+    "id": "/91608/SMVK_VKM_objekt_26879",
+    "name": "dräkt, dress, Vestido",
+    "kind": "dress",
+    "title": "dräkt, dress, Vestido",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1190377/zoom",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
-    "quality": 4,
+    "quality": 3,
     "confidence": "HIGH",
-    "reason": "The image shows a hand-woven red and green striped wool belt/sash (faja) collected in Zinacantán, Chiapas, a documented Tzotzil Maya community, consistent with traditional Tzotzil women's dress.",
+    "reason": "This is a woven red-and-black striped sash/belt with braided, tasseled ends, part (b/c) of a Tzotzil woman's costume from San Andrés Larráinzar, Chiapas, collected on site in 1958 — a classic Maya textile accessory.",
     "featured": false
    },
    {
@@ -168,22 +184,6 @@
     "featured": false
    },
    {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_26879",
-    "name": "dräkt, dress, Vestido",
-    "kind": "dress",
-    "title": "dräkt, dress, Vestido",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1190377/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "HIGH",
-    "reason": "This is a woven red-and-black striped sash/belt with braided, tasseled ends, part (b/c) of a Tzotzil woman's costume from San Andrés Larráinzar, Chiapas, collected on site in 1958 — a classic Maya textile accessory.",
-    "featured": false
-   },
-   {
     "source": "bm",
     "id": "E_Am1978-15-627",
     "name": "costume; toy",
@@ -218,19 +218,19 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "E_Am1978-15-1128-b",
-    "name": "shoulder-bag",
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_26886",
+    "name": "påse, Påse., bag, Bolsa",
     "kind": "bag",
-    "title": "shoulder-bag",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/7fec71dc_5a9a_4b65_bbbb_a3b60082935f/preview_00179248_001.jpg",
+    "title": "påse, Påse., bag, Bolsa",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1324192/image.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a netted maguey-fibre shoulder bag with a leather strap and colored fiber band, attributed by the museum directly to Tzotzil makers — a plausible, well-documented craft item for this Maya group.",
+    "confidence": "HIGH",
+    "reason": "A small handwoven cotton money bag with embroidered geometric diamond motifs in red, green, and orange, from Larrainzar, Chiapas — a Tzotzil Maya town — used to carry money, matching the claimed ethnicity and use.",
     "featured": true
    },
    {
@@ -282,26 +282,26 @@
     "featured": true
    },
    {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_26886",
-    "name": "påse, Påse., bag, Bolsa",
+    "source": "bm",
+    "id": "E_Am1978-15-1128-b",
+    "name": "shoulder-bag",
     "kind": "bag",
-    "title": "påse, Påse., bag, Bolsa",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1324192/image.jpg",
+    "title": "shoulder-bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/7fec71dc_5a9a_4b65_bbbb_a3b60082935f/preview_00179248_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 3,
-    "confidence": "HIGH",
-    "reason": "A small handwoven cotton money bag with embroidered geometric diamond motifs in red, green, and orange, from Larrainzar, Chiapas — a Tzotzil Maya town — used to carry money, matching the claimed ethnicity and use.",
+    "confidence": "MEDIUM",
+    "reason": "The image shows a netted maguey-fibre shoulder bag with a leather strap and colored fiber band, attributed by the museum directly to Tzotzil makers — a plausible, well-documented craft item for this Maya group.",
     "featured": false
    }
   ],
   "sculpture": [
    {
     "source": "bm",
-    "id": "E_Am1986-06-440-h",
+    "id": "E_Am1986-06-440-c",
     "name": "figurine; model group",
     "kind": "figurine",
     "title": "figurine; model group",
@@ -312,7 +312,7 @@
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "This is a handmade nativity scene model (nacimiento) with a thatched-roof stable and small figures made of maize leaves, wool hair, and painted faces, explicitly attributed to Tzotzil makers, a craft form well documented among Chiapas Maya groups.",
+    "reason": "The picture shows a handmade maize-leaf nativity model group, including a baby Jesus figurine and shelter, which fits the museum’s attribution to Tzotzil makers.",
     "featured": true
    },
    {
@@ -329,6 +329,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A handmade wood and cloth doll dressed as a \"Zapatista\" figure, explicitly attributed by the museum to Tzotzil makers — a well-known Chiapas craft tradition of costumed dolls sold to tourists and collectors.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1986-06-440-h",
+    "name": "figurine; model group",
+    "kind": "figurine",
+    "title": "figurine; model group",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_11/41cab27b_0a85_4b9c_a3cf_a3e100c30a09/preview_00101527_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a handmade nativity scene model (nacimiento) with a thatched-roof stable and small figures made of maize leaves, wool hair, and painted faces, explicitly attributed to Tzotzil makers, a craft form well documented among Chiapas Maya groups.",
     "featured": true
    },
    {
@@ -379,6 +395,40 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a handwoven/embroidered cotton shoulder bag with dense geometric diamond-pattern bands in red, turquoise, orange, purple, green, violet and yellow — a classic Maya textile craft consistent with Tzotzil embroidery work, and the museum records Tzotzil as the maker.",
+    "featured": true
+   }
+  ],
+  "photo": [
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_2545098",
+    "name": "gård, huvudbonad, hatt, folk, fotografi, photograph",
+    "kind": "photograph",
+    "title": "gård, huvudbonad, hatt, folk, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2545101/0491.0069.a.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The photo documents Indigenous Maya people (identified as Tzotzil, from Santa Catarina Pantelhó, Chiapas) in traditional striped tunics, straw hats, and rebozo-wrapped dress, gathered outdoors near a tiled-roof house — documentary evidence of dress and daily life matching the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_2545103",
+    "name": "män, gård, hatt, pojke, fotografi, photograph",
+    "kind": "photograph",
+    "title": "män, gård, hatt, pojke, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2545106/0491.0069.b.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The photo shows Indigenous men and a boy in traditional white cotton garments and woven straw hats near San Cristóbal de las Casas, with the museum's own notes identifying them as \"Chamula-indianer\" — Chamula being a Tzotzil-speaking community, matching the claimed ethnicity despite the odd \"Huixtecos\" caption.",
     "featured": true
    }
   ],
@@ -447,40 +497,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A handmade wooden guitar-type instrument attributed by the museum to Tzotzil makers, consistent with Maya highland string-instrument traditions in Chiapas.",
-    "featured": true
-   }
-  ],
-  "photo": [
-   {
-    "source": "europeana",
-    "id": "/91627/SMVK_EM_fotografi_2545098",
-    "name": "gård, huvudbonad, hatt, folk, fotografi, photograph",
-    "kind": "photograph",
-    "title": "gård, huvudbonad, hatt, folk, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2545101/0491.0069.a.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The photo documents Indigenous Maya people (identified as Tzotzil, from Santa Catarina Pantelhó, Chiapas) in traditional striped tunics, straw hats, and rebozo-wrapped dress, gathered outdoors near a tiled-roof house — documentary evidence of dress and daily life matching the claimed ethnicity.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91627/SMVK_EM_fotografi_2545103",
-    "name": "män, gård, hatt, pojke, fotografi, photograph",
-    "kind": "photograph",
-    "title": "män, gård, hatt, pojke, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2545106/0491.0069.b.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The photo shows Indigenous men and a boy in traditional white cotton garments and woven straw hats near San Cristóbal de las Casas, with the museum's own notes identifying them as \"Chamula-indianer\" — Chamula being a Tzotzil-speaking community, matching the claimed ethnicity despite the odd \"Huixtecos\" caption.",
     "featured": true
    }
   ]

@@ -3,9 +3,109 @@
  "label": "Tahitians",
  "name": "Tahitians",
  "judged": 0,
- "cached": 41,
+ "cached": 21,
  "cost_usd": 0,
  "ranked": {
+  "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Oc-B60-12",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_7/b69a49fb_1b57_470a_baab_a3bf0077e810/preview_00485141_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The photograph documents a Tahitian mourner's dress (heva tupapaʻu) made of barkcloth, feathers, pearl shell, wood and coconut shell — a well-documented traditional Tahitian ritual costume, photographed as a studio record of the actual garment.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Oc-B60-18",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_7/03bf0777_7c12_4a6a_9b4f_a3bf00790e9c/preview_00485631_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph shows several traditional Tahitian wooden anthropomorphic idol figures, including conjoined figures and a decorative plinth. The museum metadata explicitly identifies them as Tahitian, fitting the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Oc-A60-96",
+    "name": "photographic print; album; postcard",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album; postcard",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_11/27714b44_26e9_4c0e_b824_a3c000bcd346/preview_00549031_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A hand-coloured postcard photograph of a Tahitian family group in traditional dress returning from a vanilla plantation near Papeete, documenting local daily life and attire, consistent with the claimed Tahitian ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Oc-lge-27",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_2/6679f210_8341_4923_beb3_a3c1002154a1/preview_00587061_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The photograph shows Tahitian children in a village setting, documenting their daily life and built environment. It therefore fits the claimed Tahitian ethnicity as an ethnographic scene, although the clothing is western-style and not especially distinctive.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Oc-A60-95",
+    "name": "photographic print; album; postcard",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album; postcard",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_11/762b2bc8_6366_4a08_b76f_a3c000bcd06c/preview_00549029_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "A studio/outdoor portrait postcard of a young Tahitian woman adorned with flower garlands in her hair and around her chest, captioned \"Papeete — Jeune Indigène, Tahiti,\" a documentary-style photograph of local dress and adornment practice.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "met",
+    "id": "311336",
+    "name": "Fly whisk handle",
+    "kind": "handle",
+    "title": "Tahiri (handle for a fly whisk)",
+    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP140046.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is the carved ivory handle of a tahiri (fly whisk), a traditional Tahitian/Mā'ohi prestige object made of whale ivory and coconut fiber, directly matching the claimed ethnicity.",
+    "featured": true
+   }
+  ],
   "garment": [
    {
     "source": "bm",
@@ -184,56 +284,6 @@
     "featured": false
    }
   ],
-  "photo": [
-   {
-    "source": "bm",
-    "id": "EA_Oc-B60-12",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print (black and white)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_7/b69a49fb_1b57_470a_baab_a3bf0077e810/preview_00485141_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "The photograph documents a Tahitian mourner's dress (heva tupapaʻu) made of barkcloth, feathers, pearl shell, wood and coconut shell — a well-documented traditional Tahitian ritual costume, photographed as a studio record of the actual garment.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "EA_Oc-A60-96",
-    "name": "photographic print; album; postcard",
-    "kind": "photograph",
-    "title": "photographic print (black and white); album; postcard",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_11/27714b44_26e9_4c0e_b824_a3c000bcd346/preview_00549031_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A hand-coloured postcard photograph of a Tahitian family group in traditional dress returning from a vanilla plantation near Papeete, documenting local daily life and attire, consistent with the claimed Tahitian ethnicity.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "EA_Oc-A60-95",
-    "name": "photographic print; album; postcard",
-    "kind": "photograph",
-    "title": "photographic print (black and white); album; postcard",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_11/762b2bc8_6366_4a08_b76f_a3c000bcd06c/preview_00549029_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "HIGH",
-    "reason": "A studio/outdoor portrait postcard of a young Tahitian woman adorned with flower garlands in her hair and around her chest, captioned \"Papeete — Jeune Indigène, Tahiti,\" a documentary-style photograph of local dress and adornment practice.",
-    "featured": true
-   }
-  ],
   "textile": [
    {
     "source": "bm",
@@ -313,24 +363,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a piece of dyed/decorated barkcloth (tapa) with leaf-pressed red/purple designs, consistent with traditional Tahitian barkcloth production.",
-    "featured": true
-   }
-  ],
-  "household": [
-   {
-    "source": "met",
-    "id": "311336",
-    "name": "Fly whisk handle",
-    "kind": "handle",
-    "title": "Tahiri (handle for a fly whisk)",
-    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP140046.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "This is the carved ivory handle of a tahiri (fly whisk), a traditional Tahitian/Mā'ohi prestige object made of whale ivory and coconut fiber, directly matching the claimed ethnicity.",
     "featured": true
    }
   ],

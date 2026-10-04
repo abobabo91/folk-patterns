@@ -3,24 +3,24 @@
  "label": "Semang",
  "name": "Semang",
  "judged": 0,
- "cached": 62,
+ "cached": 32,
  "cost_usd": 0,
  "ranked": {
   "household": [
    {
     "source": "bm",
-    "id": "A_As1903-1019-3",
+    "id": "A_As1906-1020-3",
     "name": "comb",
     "kind": "comb",
     "title": "comb",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/e46133da_9342_4266_a84d_a3dd0187ec8b/preview_01424971_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_1/6003971a_1cea_4f04_901a_a3de00112511/preview_01433059_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A bamboo hair comb with fine incised geometric decoration, explicitly attributed by the museum to the Semang, a plausible traditional craft item for this forest-dwelling people of Malaysia.",
+    "confidence": "HIGH",
+    "reason": "The image shows a handmade bamboo woman’s comb with long teeth, plausibly a Semang household object as explicitly attributed by the museum.",
     "featured": true
    },
    {
@@ -117,6 +117,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A woven leaf bag used to hold a \"thunder stone,\" attributed by the museum to the Semang, a basketry item consistent with Semang material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1903-1019-3",
+    "name": "comb",
+    "kind": "comb",
+    "title": "comb",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/e46133da_9342_4266_a84d_a3dd0187ec8b/preview_01424971_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A bamboo hair comb with fine incised geometric decoration, explicitly attributed by the museum to the Semang, a plausible traditional craft item for this forest-dwelling people of Malaysia.",
     "featured": false
    },
    {
@@ -317,18 +333,18 @@
   "garment": [
    {
     "source": "bm",
-    "id": "A_As1906-1020-45",
+    "id": "A_As1906-1020-46",
     "name": "girdle",
     "kind": "girdle",
     "title": "girdle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/c27f61d2_d87d_4464_b34d_a3dd018925f5/preview_01425483_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/9555fd9e_d034_4762_8aca_a3dd0189ac3b/preview_01425753_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A woman's girdle made of twisted rhizomorph/root fibre, made by the Semang according to the museum record — a plausible traditional garment/accessory material for this forest-dwelling group.",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handmade girdle or waist ornament made from twisted root or rhizomorphic fibers, matching the museum’s attribution to Semang makers. It is a traditional garment accessory and clearly visible.",
     "featured": true
    },
    {
@@ -377,6 +393,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Woven head-band/dance crown made of plaited pandanus leaf and dark rhizomorph fibre, a traditional Semang (Orang Asli) craft worn as dance regalia; matches claimed culture and category well.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1906-1020-45",
+    "name": "girdle",
+    "kind": "girdle",
+    "title": "girdle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/c27f61d2_d87d_4464_b34d_a3dd018925f5/preview_01425483_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woman's girdle made of twisted rhizomorph/root fibre, made by the Semang according to the museum record — a plausible traditional garment/accessory material for this forest-dwelling group.",
     "featured": true
    }
   ],
@@ -508,40 +540,6 @@
     "confidence": "MEDIUM",
     "reason": "A multi-strand seed-bead necklace, consistent with Semang (Orang Asli) traditional seed/bead ornament-making; museum directly attributes it to Semang makers.",
     "featured": false
-   }
-  ],
-  "instruments": [
-   {
-    "source": "bm",
-    "id": "A_As1903-1019-17",
-    "name": "musical instrument",
-    "kind": "musical instrument",
-    "title": "musical instrument",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/9c195b68_38a1_4bf2_aaa3_a3dd0182e67e/preview_01423421_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a bamboo tube zither (likely a kungkuk/pagang-type instrument) with rattan strings cut from the bamboo surface itself, a known instrument type among Orang Asli groups including the Semang of Malaysia; it matches the claimed ethnicity and category.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1903-1019-16",
-    "name": "flute",
-    "kind": "flute",
-    "title": "flute",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/a4629f02_4df1_430d_8ecd_a3dd0183acfe/preview_01423769_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A simple bamboo/cane nose or mouth flute with carved finger holes, consistent with Semang (Orang Asli) musical instruments; the museum directly attributes manufacture to the Semang.",
-    "featured": true
    }
   ],
   "photo": [
@@ -688,6 +686,40 @@
     "confidence": "MEDIUM",
     "reason": "The photo shows a forest encampment of thatched lean-to shelters with people among them, documented as a Semang camp in Malaya (published in Schebesta's ethnographic study of the Semang/\"Urwaldzwerge\"), matching the claimed people's daily life and dwellings.",
     "featured": false
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "A_As1903-1019-17",
+    "name": "musical instrument",
+    "kind": "musical instrument",
+    "title": "musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/9c195b68_38a1_4bf2_aaa3_a3dd0182e67e/preview_01423421_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a bamboo tube zither (likely a kungkuk/pagang-type instrument) with rattan strings cut from the bamboo surface itself, a known instrument type among Orang Asli groups including the Semang of Malaysia; it matches the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1903-1019-16",
+    "name": "flute",
+    "kind": "flute",
+    "title": "flute",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/a4629f02_4df1_430d_8ecd_a3dd0183acfe/preview_01423769_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A simple bamboo/cane nose or mouth flute with carved finger holes, consistent with Semang (Orang Asli) musical instruments; the museum directly attributes manufacture to the Semang.",
+    "featured": true
    }
   ]
  }

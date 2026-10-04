@@ -3,7 +3,7 @@
  "label": "Maya people",
  "name": "Maya",
  "judged": 0,
- "cached": 116,
+ "cached": 119,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -266,24 +266,6 @@
     "featured": false
    }
   ],
-  "sculpture": [
-   {
-    "source": "bm",
-    "id": "E_Am1990-08-201",
-    "name": "figurine",
-    "kind": "figurine",
-    "title": "figurine",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_18/a41ff4f4_4402_4680_91f3_a3e10131d846/preview_00121783_001.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A pottery figurine of a crocodile with textured, bumpy skin, attributed by the museum to Maya makers; crocodile/caiman effigy figures are a well-known part of Mesoamerican Maya ceramic traditions.",
-    "featured": true
-   }
-  ],
   "textile": [
    {
     "source": "europeana",
@@ -397,6 +379,24 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A carved wooden demon/animal mask with fangs and horn-like ears, collected in Cobán, Alta Verapaz, Guatemala — a Maya (Q'eqchi') region known for ritual dance masks used in traditional fiestas. This is a plausible traditional Maya ritual object.",
+    "featured": true
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "bm",
+    "id": "E_Am1990-08-201",
+    "name": "figurine",
+    "kind": "figurine",
+    "title": "figurine",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_18/a41ff4f4_4402_4680_91f3_a3e10131d846/preview_00121783_001.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A pottery figurine of a crocodile with textured, bumpy skin, attributed by the museum to Maya makers; crocodile/caiman effigy figures are a well-known part of Mesoamerican Maya ceramic traditions.",
     "featured": true
    }
   ]

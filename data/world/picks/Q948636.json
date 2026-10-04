@@ -3,27 +3,9 @@
  "label": "Yagua people",
  "name": "Yagua",
  "judged": 0,
- "cached": 16,
+ "cached": 17,
  "cost_usd": 0,
  "ranked": {
-  "instruments": [
-   {
-    "source": "bm",
-    "id": "E_Am1905-0216-115-c-d",
-    "name": "bag",
-    "kind": "bag",
-    "title": "bag",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_11/11_14/c786562e_0a0b_4bce_935a_ac7000efaa6c/preview_am1905_0216_115.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "LOW",
-    "reason": "The photo shows several fiber/seed-pod objects — two palm-leaf wrapped bundles, a fiber-wound stick, and two nutshell/seed rattles on cords — not the \"string and cotton bag\" the record describes, but such woven-fiber and seed rattles are plausible Amazonian lowland material culture consistent with Yagua craft.",
-    "featured": true
-   }
-  ],
   "textile": [
    {
     "source": "europeana",
@@ -44,22 +26,6 @@
   ],
   "arms": [
    {
-    "source": "bm",
-    "id": "E_Am1934-1108-3-b",
-    "name": "dart",
-    "kind": "dart",
-    "title": "dart",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_2/28_15/aca7aeec_de6a_41c2_a20a_ae4a00fec7a7/preview_am1934_1108_3_a_b__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a bundle of blowgun darts wrapped in a palm-leaf quiver/sheath with a fiber cord, a hunting weapon type characteristic of Yagua and other Amazonian peoples, consistent with the claimed ethnicity and category.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_103612",
     "name": "koger",
@@ -74,9 +40,41 @@
     "confidence": "HIGH",
     "reason": "The image shows a palm-leaf blowgun dart quiver bound with fiber cord, with a small woven fiber pouch (for curare poison/kapok) attached, matching Fejos's documented Yagua quiver type from northeastern Peru. This is a weapon accessory made and used by the Yagua people.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1934-1108-3-b",
+    "name": "dart",
+    "kind": "dart",
+    "title": "dart",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_2/28_15/aca7aeec_de6a_41c2_a20a_ae4a00fec7a7/preview_am1934_1108_3_a_b__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a bundle of blowgun darts wrapped in a palm-leaf quiver/sheath with a fiber cord, a hunting weapon type characteristic of Yagua and other Amazonian peoples, consistent with the claimed ethnicity and category.",
+    "featured": true
    }
   ],
   "jewelry": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_19480_inventary_CE4065_table_FMUS_museum_MNA",
+    "name": "Collar",
+    "kind": "collar",
+    "title": "Collar",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE4065_P.JPG&Ninv=CE4065",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a set of seed necklaces made from perforated brown seeds strung on plant-fiber cords, plausibly a Yagua adornment. It fits the claimed ethnicity as traditional body jewelry.",
+    "featured": true
+   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_96791",
@@ -255,6 +253,24 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Documentary photograph of six carved balsa-wood ancestor figures (three male, three female) with raffia skirts/beards made by the Yagua (Wuisana group), photographed by Fejos during the 1941 Wenner-Gren expedition at Rio Ampiyacu — clearly a Yagua-made ritual object set, matching the claimed ethnicity.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "E_Am1905-0216-115-c-d",
+    "name": "bag",
+    "kind": "bag",
+    "title": "bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_11/11_14/c786562e_0a0b_4bce_935a_ac7000efaa6c/preview_am1905_0216_115.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "LOW",
+    "reason": "The photo shows several fiber/seed-pod objects — two palm-leaf wrapped bundles, a fiber-wound stick, and two nutshell/seed rattles on cords — not the \"string and cotton bag\" the record describes, but such woven-fiber and seed rattles are plausible Amazonian lowland material culture consistent with Yagua craft.",
     "featured": true
    }
   ]

@@ -3,10 +3,26 @@
  "label": "Crow Nation",
  "name": "Crow Nation",
  "judged": 0,
- "cached": 11,
+ "cached": 10,
  "cost_usd": 0,
  "ranked": {
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-A38-28",
+    "name": "photographic print; album",
+    "kind": "photograph",
+    "title": "photographic print (black and white); album",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/4897183f_e501_432c_be27_a3c100de5b12/preview_00651852_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph shows Crow men and a boy wearing blankets, leggings, moccasins, and shirts, with horses and a rifle. It is a documentary image of Crow dress and daily life, fitting the claimed ethnicity and photo category.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-A14-4",
@@ -85,7 +101,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Albumen print showing Crow people seated by an open hide tipi on the Yellowstone River in Montana, a documentary photo of traditional dwelling and daily life consistent with the claimed people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

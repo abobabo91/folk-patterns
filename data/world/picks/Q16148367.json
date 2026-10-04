@@ -3,9 +3,199 @@
  "label": "Dakota people",
  "name": "Dakota",
  "judged": 0,
- "cached": 35,
+ "cached": 22,
  "cost_usd": 0,
  "ranked": {
+  "painting-mss": [
+   {
+    "source": "europeana",
+    "id": "/91609/SMVK_VKM_fotografi_114531",
+    "name": "Wintercount, fotografi, photograph",
+    "kind": "winter count",
+    "title": "Wintercount, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/508138/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "A painted buffalo-hide winter count, a pictographic record-keeping tradition practiced by the Lakota/Dakota (Oceti Sakowin) people, shown with its symbolic annual markers. This is a genuine Dakota/Sioux cultural artifact.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am2006-Ptg-12",
+    "name": "oil painting",
+    "kind": "painting",
+    "title": "oil painting",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/462adc25_be90_4b1e_b585_a3b90069d04c/preview_00344752_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Portrait of Yellow Hawk, a Dakota (Sans Arc Lakota) chief, in full regalia with feather headdress, ornaments, decorated shirt, and pipe-tomahawk — painted by an outsider artist but depicting documented Dakota dress and material culture.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1019661",
+    "name": "knivslida, fodral, knife sheath [[Etno]], case [[Etno]], étui de couteau",
+    "kind": "knife sheath",
+    "title": "knivslida, fodral, knife sheath [[Etno]], case [[Etno]], étui de couteau",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1332137/1854.02.0024.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A hide knife sheath with quilled geometric decoration (porcupine-quill mosaic), attributed to Dakota in the museum's catalogue notes; this matches known Plains/Dakota quillwork traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1981-Q-1984",
+    "name": "scraper",
+    "kind": "scraper",
+    "title": "scraper",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/17_16/58b5ce58_8aa3_4e85_89ed_a9b90114da06/preview_am1981_q_1984__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a bone scraper/tool with a worked handle and toothed edge, a traditional household implement attributed to the Dakota; this is a plausible utilitarian object type for the culture.",
+    "featured": true
+   }
+  ],
+  "arms": [
+   {
+    "source": "europeana",
+    "id": "/91609/SMVK_VKM_fotografi_114527",
+    "name": "Piptomahawk, photography, Piph",
+    "kind": "pipe tomahawk",
+    "title": "Piptomahawk, photography, Piph",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/508126/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Two pipe-tomahawks with metal blades and long wooden handles, a classic Plains Sioux (Dakota/Oceti Sakowin) form combining weapon and pipe, matching the museum's Sioux attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1954-05-2189",
+    "name": "spear-head",
+    "kind": "spear head",
+    "title": "spear-head",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/15_11/11c5087b_593c_4a47_9eca_a4b800b67bb1/preview_1954_am_5_2189__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A flaked stone spear-point, a projectile weapon type plausible for Dakota material culture, consistent with the museum's attribution.",
+    "featured": true
+   }
+  ],
+  "garment": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1067556",
+    "name": "huvudbonad, fjäderskrud, headgear",
+    "kind": "headgear",
+    "title": "huvudbonad, fjäderskrud, headgear",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1573083/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a feather headdress (\"roach\"/warbonnet-style) with beaded diadem band and trailing ribbons, described explicitly as being like Dakota chiefs' feather regalia — a classic Plains Sioux/Dakota garment form, with characteristic geometric beadwork (stars, boxes) typical of Plains beadwork traditions.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1954-05-941",
+    "name": "cap",
+    "kind": "cap",
+    "title": "cap",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_17/4a78f9f7_aed5_412a_b79e_a3bf0120bbaf/preview_00532491_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A fully beaded cloth cap in military-cap shape with Northern Plains-style lazy-stitch beadwork, geometric stars, and US flag motifs — a well-documented Dakota/Lakota beadwork form (patriotic militia-style caps) attributed here to Dakota makers.",
+    "featured": true
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_16604",
+    "name": "amulett, Skinnpung., amulet",
+    "kind": "amulet",
+    "title": "amulett, Skinnpung., amulet",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2030598/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a beadwork lizard/turtle-form amulet, a well-documented Sioux (Oceti Sakowin/Lakota-Dakota) type used to hold an infant's umbilical cord, matching a known comparative example from the Teton Sioux cited in the museum's own correspondence.",
+    "featured": true
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1019662",
+    "name": "halsband, halsprydnad, krage, necklace, collier",
+    "kind": "necklace",
+    "title": "halsband, halsprydnad, krage, necklace, collier",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1332116/1854.02.0025_bak.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a bear-claw necklace made of otter fur strip with bear claws, red cloth, and blue beads — a classic type of Plains chief's ornament, consistent with Dakota (Plains Sioux) material culture.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "met",
+    "id": "501176",
+    "name": "Frame Drum",
+    "kind": "frame drum",
+    "title": "Frame Drum",
+    "image_url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP158909a.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A hide-covered frame drum with a painted bison and beater, attributed to the Teton Dakota (Lakota); such hand drums with animal motifs are typical of Plains peoples like the Dakota/Lakota.",
+    "featured": true
+   }
+  ],
   "photo": [
    {
     "source": "bm",
@@ -150,196 +340,6 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a newspaper clipping photograph of Chief Yellow Thunder, identified as Yankton-Yanktonai, a Dakota/Sioux subgroup, wearing a feathered warbonnet and decorated shirt — this documents traditional Dakota dress and regalia.",
     "featured": false
-   }
-  ],
-  "painting-mss": [
-   {
-    "source": "europeana",
-    "id": "/91609/SMVK_VKM_fotografi_114531",
-    "name": "Wintercount, fotografi, photograph",
-    "kind": "winter count",
-    "title": "Wintercount, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/508138/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "A painted buffalo-hide winter count, a pictographic record-keeping tradition practiced by the Lakota/Dakota (Oceti Sakowin) people, shown with its symbolic annual markers. This is a genuine Dakota/Sioux cultural artifact.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am2006-Ptg-12",
-    "name": "oil painting",
-    "kind": "painting",
-    "title": "oil painting",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/462adc25_be90_4b1e_b585_a3b90069d04c/preview_00344752_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Portrait of Yellow Hawk, a Dakota (Sans Arc Lakota) chief, in full regalia with feather headdress, ornaments, decorated shirt, and pipe-tomahawk — painted by an outsider artist but depicting documented Dakota dress and material culture.",
-    "featured": true
-   }
-  ],
-  "household": [
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1019661",
-    "name": "knivslida, fodral, knife sheath [[Etno]], case [[Etno]], étui de couteau",
-    "kind": "knife sheath",
-    "title": "knivslida, fodral, knife sheath [[Etno]], case [[Etno]], étui de couteau",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1332137/1854.02.0024.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A hide knife sheath with quilled geometric decoration (porcupine-quill mosaic), attributed to Dakota in the museum's catalogue notes; this matches known Plains/Dakota quillwork traditions.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1981-Q-1984",
-    "name": "scraper",
-    "kind": "scraper",
-    "title": "scraper",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/17_16/58b5ce58_8aa3_4e85_89ed_a9b90114da06/preview_am1981_q_1984__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a bone scraper/tool with a worked handle and toothed edge, a traditional household implement attributed to the Dakota; this is a plausible utilitarian object type for the culture.",
-    "featured": true
-   }
-  ],
-  "arms": [
-   {
-    "source": "europeana",
-    "id": "/91609/SMVK_VKM_fotografi_114527",
-    "name": "Piptomahawk, photography, Piph",
-    "kind": "pipe tomahawk",
-    "title": "Piptomahawk, photography, Piph",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/508126/zoom",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Two pipe-tomahawks with metal blades and long wooden handles, a classic Plains Sioux (Dakota/Oceti Sakowin) form combining weapon and pipe, matching the museum's Sioux attribution.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1954-05-2189",
-    "name": "spear-head",
-    "kind": "spear head",
-    "title": "spear-head",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/15_11/11c5087b_593c_4a47_9eca_a4b800b67bb1/preview_1954_am_5_2189__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A flaked stone spear-point, a projectile weapon type plausible for Dakota material culture, consistent with the museum's attribution.",
-    "featured": true
-   }
-  ],
-  "garment": [
-   {
-    "source": "bm",
-    "id": "E_Am1954-05-941",
-    "name": "cap",
-    "kind": "cap",
-    "title": "cap",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_17/4a78f9f7_aed5_412a_b79e_a3bf0120bbaf/preview_00532491_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A fully beaded cloth cap in military-cap shape with Northern Plains-style lazy-stitch beadwork, geometric stars, and US flag motifs — a well-documented Dakota/Lakota beadwork form (patriotic militia-style caps) attributed here to Dakota makers.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1067556",
-    "name": "huvudbonad, fjäderskrud, headgear",
-    "kind": "headgear",
-    "title": "huvudbonad, fjäderskrud, headgear",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1573083/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a feather headdress (\"roach\"/warbonnet-style) with beaded diadem band and trailing ribbons, described explicitly as being like Dakota chiefs' feather regalia — a classic Plains Sioux/Dakota garment form, with characteristic geometric beadwork (stars, boxes) typical of Plains beadwork traditions.",
-    "featured": true
-   }
-  ],
-  "masks-ritual": [
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_16604",
-    "name": "amulett, Skinnpung., amulet",
-    "kind": "amulet",
-    "title": "amulett, Skinnpung., amulet",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2030598/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a beadwork lizard/turtle-form amulet, a well-documented Sioux (Oceti Sakowin/Lakota-Dakota) type used to hold an infant's umbilical cord, matching a known comparative example from the Teton Sioux cited in the museum's own correspondence.",
-    "featured": true
-   }
-  ],
-  "jewelry": [
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1019662",
-    "name": "halsband, halsprydnad, krage, necklace, collier",
-    "kind": "necklace",
-    "title": "halsband, halsprydnad, krage, necklace, collier",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1332116/1854.02.0025_bak.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a bear-claw necklace made of otter fur strip with bear claws, red cloth, and blue beads — a classic type of Plains chief's ornament, consistent with Dakota (Plains Sioux) material culture.",
-    "featured": true
-   }
-  ],
-  "instruments": [
-   {
-    "source": "met",
-    "id": "501176",
-    "name": "Frame Drum",
-    "kind": "frame drum",
-    "title": "Frame Drum",
-    "image_url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP158909a.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A hide-covered frame drum with a painted bison and beater, attributed to the Teton Dakota (Lakota); such hand drums with animal motifs are typical of Plains peoples like the Dakota/Lakota.",
-    "featured": true
    }
   ]
  }

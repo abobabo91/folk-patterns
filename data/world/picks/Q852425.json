@@ -3,9 +3,109 @@
  "label": "Tehuelche",
  "name": "Tehuelche",
  "judged": 0,
- "cached": 17,
+ "cached": 13,
  "cost_usd": 0,
  "ranked": {
+  "arms": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_25594_inventary_CE8037_table_FMUS_museum_MNA",
+    "name": "Boleadora",
+    "kind": "boleadora",
+    "title": "Boleadora",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE8037_SEQ_001_P.JPG&Ninv=CE8037",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a traditional three-ball boleadora, a hunting weapon associated with Indigenous peoples of Patagonia, including the Tehuelche. It fits the claimed ethnicity and arms category.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_2245509",
+    "name": "Boleador",
+    "kind": "boleador",
+    "title": "Boleador",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2262659/2013.04.0221.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a traditional three-ball bola (boleadora) made from stone/hide weights and braided hide cords, used by the Tehuelche for hunting rhea (\"struts\" = ostrich/rhea), a classic Tehuelche hunting weapon.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1610756",
+    "name": "kniv, tehuelche-indiankniv [ocr], knife",
+    "kind": "knife",
+    "title": "kniv, tehuelche-indiankniv [ocr], knife",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2175743/bild-1910.06.0001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A flaked flint knife/projectile point collected from Santa Cruz, Argentina, attributed to Tehuelche — a plausible stone tool of this Patagonian hunting culture.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_25639_inventary_CE514_table_FMUS_museum_MNA",
+    "name": "Boleadora",
+    "kind": "boleadora",
+    "title": "Boleadora",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE514_SEQ_006_P.JPG&Ninv=CE514",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a two-ball boleadora, a traditional throwing weapon attributed to the Tehuelche. Its form and the museum’s specific attribution fit the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_27648_inventary_CE8002_table_FMUS_museum_MNA",
+    "name": "Boleadora",
+    "kind": "boleadora",
+    "title": "Boleadora",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE8002_SEQ_005_P.JPG&Ninv=CE8002",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a traditional three-ball boleadora, a stone-and-hide projectile weapon associated with the Tehuelche. The object is clearly an ethnographic weapon and fits the claimed ethnicity.",
+    "featured": true
+   }
+  ],
+  "painting-mss": [
+   {
+    "source": "europeana",
+    "id": "/91609/SMVK_VKM_fotografi_1975789",
+    "name": "teckning, övergång, flod, häst, indian, Teckning, drawing",
+    "kind": "drawing",
+    "title": "teckning, övergång, flod, häst, indian, Teckning, drawing",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1975961/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "painting-mss",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The engraving, published in Musters' 1873 book on Patagonia, depicts Tehuelche people on horseback crossing the Río Limay, a documentary-style illustration of the people's dress and horse-culture daily life. It is an outsider's engraving but depicts the ethnic group's own dress, riding gear and lifeways, so it qualifies as documentary imagery.",
+    "featured": true
+   }
+  ],
   "photo": [
    {
     "source": "bm",
@@ -134,58 +234,6 @@
     "confidence": "MEDIUM",
     "reason": "A faded albumen cabinet-card photo of a Tehuelche man and woman in guanaco-skin and woven cloaks, Patagonia — documentary dress photo matching the claimed people.",
     "featured": false
-   }
-  ],
-  "arms": [
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_2245509",
-    "name": "Boleador",
-    "kind": "boleador",
-    "title": "Boleador",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2262659/2013.04.0221.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a traditional three-ball bola (boleadora) made from stone/hide weights and braided hide cords, used by the Tehuelche for hunting rhea (\"struts\" = ostrich/rhea), a classic Tehuelche hunting weapon.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1610756",
-    "name": "kniv, tehuelche-indiankniv [ocr], knife",
-    "kind": "knife",
-    "title": "kniv, tehuelche-indiankniv [ocr], knife",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2175743/bild-1910.06.0001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A flaked flint knife/projectile point collected from Santa Cruz, Argentina, attributed to Tehuelche — a plausible stone tool of this Patagonian hunting culture.",
-    "featured": true
-   }
-  ],
-  "painting-mss": [
-   {
-    "source": "europeana",
-    "id": "/91609/SMVK_VKM_fotografi_1975789",
-    "name": "teckning, övergång, flod, häst, indian, Teckning, drawing",
-    "kind": "drawing",
-    "title": "teckning, övergång, flod, häst, indian, Teckning, drawing",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1975961/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "painting-mss",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The engraving, published in Musters' 1873 book on Patagonia, depicts Tehuelche people on horseback crossing the Río Limay, a documentary-style illustration of the people's dress and horse-culture daily life. It is an outsider's engraving but depicts the ethnic group's own dress, riding gear and lifeways, so it qualifies as documentary imagery.",
-    "featured": true
    }
   ]
  }

@@ -3,7 +3,7 @@
  "label": "Oromo people",
  "name": "Oromo",
  "judged": 0,
- "cached": 2,
+ "cached": 4,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -101,6 +101,22 @@
     "featured": true
    },
    {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_31412_inventary_CE19630_table_FMUS_museum_MNA",
+    "name": "Collar",
+    "kind": "collar",
+    "title": "Collar",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19630_P.JPG&Ninv=CE19630",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade collar or neck adornment made from hollow brown seeds and colorful fabric ribbons, explicitly described as used by Oromo people in Ethiopia. It fits the claimed ethnicity, though it is better classified as jewelry than a garment.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Af1913-0616-8",
     "name": "armlet",
@@ -143,7 +159,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a brass armlet with engraved geometric banding, a plausible type of personal adornment worn by Oromo and neighboring Ethiopian/Horn of Africa peoples; nothing contradicts the claimed ethnicity.",
-    "featured": true
+    "featured": false
    }
   ],
   "textile": [

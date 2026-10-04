@@ -3,26 +3,76 @@
  "label": "Bamun people",
  "name": "Bamun",
  "judged": 0,
- "cached": 24,
+ "cached": 4,
  "cost_usd": 0,
  "ranked": {
-  "household": [
+  "masks-ritual": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_26617_inventary_CE1994_1_5_table_FMUS_museum_MNA",
+    "name": "Recipiente",
+    "kind": "container",
+    "title": "Recipiente",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE1994_1_5_SEQ_001_P.JPG&Ninv=CE1994/1/5",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows an elaborate decorated gourd vessel with wooden carvings, horns, and a fiber handle, described as a Bamun-associated ritual object. It fits the claimed Bamun ethnicity despite the household category being imprecise.",
+    "featured": true
+   },
    {
     "source": "bm",
-    "id": "E_Af1954-23-1917",
-    "name": "smoking-pipe",
-    "kind": "pipe",
-    "title": "smoking-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_11/d36957f9_aaa5_4e62_8c29_a74d00b99539/preview_EAF22769.jpg",
+    "id": "E_Af1979-01-4741",
+    "name": "pendant-mask",
+    "kind": "mask",
+    "title": "pendant-mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_1/16_14/3cdbfb94_30d4_4d40_a20d_af8c00e904e6/preview_Af1979_01_4741_F.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a cast brass hip mask (worn at the waist) with a beard of mudfish forms, a classic Bamum/Bamileke Grassfields royal regalia type; museum attributes it to Bamum production, consistent with the claimed ethnicity.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1956-27-235",
+    "name": "dance-mask",
+    "kind": "mask",
+    "title": "dance-mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_14/be1d1734_1393_44a9_9c2a_a74d00ef4460/preview_EAF23188.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "A brass and wood smoking pipe with an elephant-head bowl, coiled wire decoration on the stem, and attached rings — elephant imagery and metalwork of this kind is characteristic Bamum royal/court craft, consistent with the museum's attribution.",
+    "reason": "A carved wooden face mask with an elaborate openwork superstructure, attributed by the museum directly to the Bamum. This matches known Bamum carving traditions of wooden masks with tall crest-like tops.",
     "featured": true
    },
+   {
+    "source": "bm",
+    "id": "E_Af1947-22-2",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_14/a042c6af_3df9_4a88_9b79_a74d00ef3cd7/preview_EAF18892.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "Wooden carved mask with a human face, museum records it as made by the Bamum (Bamun) people, consistent with their known tradition of wooden ritual/ceremonial masks.",
+    "featured": true
+   }
+  ],
+  "household": [
    {
     "source": "europeana",
     "id": "/91627/SMVK_EM_fotografi_2342339",
@@ -37,6 +87,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a palm wine flask entirely covered in beadwork mosaic (Pärlmosaik), a well-documented Bamun (Bamoum) royal/court craft from Cameroon, photographed as a museum object.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1917",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_11/d36957f9_aaa5_4e62_8c29_a74d00b99539/preview_EAF22769.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A brass and wood smoking pipe with an elephant-head bowl, coiled wire decoration on the stem, and attached rings — elephant imagery and metalwork of this kind is characteristic Bamum royal/court craft, consistent with the museum's attribution.",
     "featured": true
    },
    {
@@ -102,6 +168,24 @@
     "confidence": "MEDIUM",
     "reason": "Carved wooden pipe with a stylized human/animal face at the base and decorative banding, attributed to Bamum makers — a classic Cameroon Grassfields smoking pipe form used daily by the people.",
     "featured": false
+   }
+  ],
+  "photo": [
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_2683336",
+    "name": "män, häst, dräkt, fotografi, photograph",
+    "kind": "photograph",
+    "title": "män, häst, dräkt, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2683339/0219.0015.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Documentary photograph of Bamum men in traditional robes with horses and horsemen bearing spears, in front of thatched compound walls in Fumban — consistent with the claimed Bamun/Bamum ethnicity and locale.",
+    "featured": true
    }
   ],
   "metalwork": [
@@ -300,56 +384,6 @@
     "featured": false
    }
   ],
-  "masks-ritual": [
-   {
-    "source": "bm",
-    "id": "E_Af1979-01-4741",
-    "name": "pendant-mask",
-    "kind": "mask",
-    "title": "pendant-mask",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_1/16_14/3cdbfb94_30d4_4d40_a20d_af8c00e904e6/preview_Af1979_01_4741_F.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "This is a cast brass hip mask (worn at the waist) with a beard of mudfish forms, a classic Bamum/Bamileke Grassfields royal regalia type; museum attributes it to Bamum production, consistent with the claimed ethnicity.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1956-27-235",
-    "name": "dance-mask",
-    "kind": "mask",
-    "title": "dance-mask",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_14/be1d1734_1393_44a9_9c2a_a74d00ef4460/preview_EAF23188.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden face mask with an elaborate openwork superstructure, attributed by the museum directly to the Bamum. This matches known Bamum carving traditions of wooden masks with tall crest-like tops.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1947-22-2",
-    "name": "mask",
-    "kind": "mask",
-    "title": "mask",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_14/a042c6af_3df9_4a88_9b79_a74d00ef3cd7/preview_EAF18892.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "Wooden carved mask with a human face, museum records it as made by the Bamum (Bamun) people, consistent with their known tradition of wooden ritual/ceremonial masks.",
-    "featured": true
-   }
-  ],
   "arms": [
    {
     "source": "bm",
@@ -365,24 +399,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A knife/dagger with leather sheath explicitly attributed to the Bamum, a traditional edged weapon and accessory typical of Cameroon Grassfields peoples.",
-    "featured": true
-   }
-  ],
-  "photo": [
-   {
-    "source": "europeana",
-    "id": "/91627/SMVK_EM_fotografi_2683336",
-    "name": "män, häst, dräkt, fotografi, photograph",
-    "kind": "photograph",
-    "title": "män, häst, dräkt, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2683339/0219.0015.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Documentary photograph of Bamum men in traditional robes with horses and horsemen bearing spears, in front of thatched compound walls in Fumban — consistent with the claimed Bamun/Bamum ethnicity and locale.",
     "featured": true
    }
   ]

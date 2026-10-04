@@ -3,10 +3,42 @@
  "label": "Ho-Chunk",
  "name": "Ho-Chunk",
  "judged": 0,
- "cached": 12,
+ "cached": 8,
  "cost_usd": 0,
  "ranked": {
   "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Am-B37-63",
+    "name": "photographic print; carte-de-visite",
+    "kind": "photograph",
+    "title": "photographic print (black and white); carte-de-visite",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/a69aaf75_4226_4ad2_8349_a3c101424a69/preview_00695131_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows Little Hill, a Ho-Chunk (Winnebago) chief wearing traditional clothing, moccasins, blanket, headband and beadwork in a documentary studio portrait. It fits the claimed ethnicity as a photograph documenting Ho-Chunk dress and adornment.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B56-67",
+    "name": "postcard; photographic print",
+    "kind": "photograph",
+    "title": "postcard; photographic print (black and white)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_18/314aa8c9_2901_41d1_960a_a3c10134af23/preview_00689688_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph clearly shows a Ho-Chunk woman in beaded and fringed dress, headband, jewelry, moccasins, and a feather-decorated staff, documenting Ho-Chunk attire and cultural presentation. It fits the claimed ethnicity and photo category.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "EA_Am-A38-53",
@@ -69,7 +101,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Studio carte-de-visite portrait explicitly described as a \"Winnebago boy\" (the historical name for Ho-Chunk) wearing traditional dress — eagle feather, dentalium shell necklace, blanket, leggings, moccasins — a documentary photo of dress and appearance matching the claimed people.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +117,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "Tinted postcard photograph of Ho-Chunk (Winnebago) men in ceremonial regalia (feather bustles, roaches, a hand drum) posed at Stand Rock/Devil's Anvil near the Wisconsin Dells, a documented staged photo tradition for this community.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

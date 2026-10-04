@@ -3,7 +3,7 @@
  "label": "Tlingit",
  "name": "Tlingit",
  "judged": 0,
- "cached": 46,
+ "cached": 41,
  "cost_usd": 0,
  "ranked": {
   "photo": [
@@ -414,22 +414,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "E_Am1936-0319-52",
-    "name": "tray",
-    "kind": "tray",
-    "title": "tray",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_14/bd8bc1ad_bb1c_4880_85ca_a3df00ead619/preview_01511308_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a tightly woven circular grass tray, a classic Northwest Coast basketry object; Tlingit weavers are well known for such coiled/twined grass and spruce-root basketry trays and mats.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91619/SMVK_EM_objekt_1068188",
     "name": "krok, hook",
@@ -443,22 +427,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a wooden halibut hook with bone barb, lashed with root/withe wrapping and cordage — a fishing tool type made and used by Northwest Coast peoples including the Tlingit; the museum's own record attributes it to Tlingit (Vancouver Island area, though geographically that's Kwakwaka'wakw/Nuu-chah-nulth territory, the object type and attribution stand as recorded).",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1976-03-43",
-    "name": "paddle",
-    "kind": "paddle",
-    "title": "paddle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/c2b6938d_a45b_4dda_bd65_a3c4015ca228/preview_00901968_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A wooden paddle blade painted with formline-style animal design in black, red/orange, and green, attributed to Tlingit/Northwest Coast Peoples—consistent with Tlingit-made items and the claimed culture.",
     "featured": true
    },
    {
@@ -491,6 +459,38 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A painted wooden model canoe with Northwest Coast formline design (ovoid eyes, stylized creature forms) consistent with Tlingit maritime craft and artistic tradition.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1936-0319-52",
+    "name": "tray",
+    "kind": "tray",
+    "title": "tray",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_14/bd8bc1ad_bb1c_4880_85ca_a3df00ead619/preview_01511308_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a tightly woven circular grass tray, a classic Northwest Coast basketry object; Tlingit weavers are well known for such coiled/twined grass and spruce-root basketry trays and mats.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1976-03-43",
+    "name": "paddle",
+    "kind": "paddle",
+    "title": "paddle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/c2b6938d_a45b_4dda_bd65_a3c4015ca228/preview_00901968_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A wooden paddle blade painted with formline-style animal design in black, red/orange, and green, attributed to Tlingit/Northwest Coast Peoples—consistent with Tlingit-made items and the claimed culture.",
     "featured": false
    },
    {
@@ -638,22 +638,6 @@
     "featured": false
    },
    {
-    "source": "bm",
-    "id": "E_Am1954-05-1002",
-    "name": "fish-hook",
-    "kind": "fish-hook",
-    "title": "fish-hook",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/01cb048d_7f8c_48eb_a347_a3c4015f6174/preview_00902858_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows two carved wooden composite fish-hooks with wrapped fiber lashings and bone/iron barbs, a classic Northwest Coast (Tlingit) halibut-hook form, matching the museum's attribution.",
-    "featured": false
-   },
-   {
     "source": "met",
     "id": "319075",
     "name": "Hook",
@@ -667,6 +651,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "This is a carved wood Tlingit halibut hook with plant fiber lashings and bone/metal point, a traditional fishing tool made and used by the Tlingit — though it is wood and fiber, not metal, so \"metalwork\" is the wrong category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1954-05-1002",
+    "name": "fish-hook",
+    "kind": "fish-hook",
+    "title": "fish-hook",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/01cb048d_7f8c_48eb_a347_a3c4015f6174/preview_00902858_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows two carved wooden composite fish-hooks with wrapped fiber lashings and bone/iron barbs, a classic Northwest Coast (Tlingit) halibut-hook form, matching the museum's attribution.",
     "featured": false
    },
    {

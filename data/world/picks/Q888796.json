@@ -3,10 +3,26 @@
  "label": "Bobo people",
  "name": "Bobo",
  "judged": 0,
- "cached": 31,
+ "cached": 30,
  "cost_usd": 0,
  "ranked": {
   "household": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_33349_inventary_CE20015_table_FMUS_museum_MNA",
+    "name": "Asiento",
+    "kind": "seat",
+    "title": "Asiento",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE20015_SEQ_003_P.JPG&Ninv=CE20015",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden stool with two longitudinal legs and a sculpted animal-like handle, matching the metadata’s description of a Bobo asiento and fitting Bobo household furniture.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1970-25-3",
@@ -21,6 +37,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Wooden stool with a figural handle carved as a human head and incised geometric patterns on the seat, a typical form of household furniture attributed to the Bobo of Mali; the museum notes \"probably\" as attribution but no conflicting evidence is given.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_33352_inventary_CE20018_table_FMUS_museum_MNA",
+    "name": "Asiento",
+    "kind": "seat",
+    "title": "Asiento",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE20018_P.JPG&Ninv=CE20018",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden Bobo stool with two longitudinal legs and a decorated seat, matching the museum’s description of a traditional Bobo asiento from Burkina Faso. It fits the claimed ethnicity and household category.",
     "featured": true
    },
    {
@@ -69,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A single-piece carved wooden yoke/shoulder pall (\"bärs hakad över ena axeln\" - worn hooked over one shoulder), collected in Bomborokuy, Cercle de Nouna, Burkina Faso, in a family's possession for three generations—consistent with Bobo material culture of the region.",
-    "featured": true
+    "featured": false
    }
   ],
   "masks-ritual": [

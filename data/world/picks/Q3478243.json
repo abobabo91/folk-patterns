@@ -3,7 +3,7 @@
  "label": "Semai people",
  "name": "Semai",
  "judged": 0,
- "cached": 48,
+ "cached": 23,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -1071,6 +1071,38 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a bamboo flute with incised decorative patterns and finger holes, consistent with musical instruments made by the Semai people of Malaysia. The museum record directly attributes it to Semai makers.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1906-1020-73",
+    "name": "flute",
+    "kind": "flute",
+    "title": "flute",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/cacd9273_70e2_4f9d_a355_a3dd018654df/preview_01424518_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows two handmade bamboo flutes with finger holes, explicitly attributed to the Semai; they fit the claimed ethnicity and instrument category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1906-1020-72",
+    "name": "flute",
+    "kind": "flute",
+    "title": "flute",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/8734dc90_cc62_4b68_9723_a3dd0186537b/preview_01424517_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade bamboo flute, explicitly attributed by the museum as made by the Semai, so it fits the claimed ethnicity and instrument category.",
     "featured": false
    },
    {

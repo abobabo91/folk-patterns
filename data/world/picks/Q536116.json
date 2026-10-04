@@ -3,28 +3,26 @@
  "label": "Odawa",
  "name": "Odawa",
  "judged": 0,
- "cached": 20,
+ "cached": 5,
  "cost_usd": 0,
  "ranked": {
-  "textile": [
+  "household": [
    {
     "source": "bm",
-    "id": "E_Am-583_1",
-    "name": "mat",
-    "kind": "mat",
-    "title": "mat",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_4/26_10/4aedef3a_50d0_471c_b712_b15e00a61e41/preview_am_583__a_.jpg",
+    "id": "E_Am2003-19-49",
+    "name": "basket; souvenir",
+    "kind": "basket",
+    "title": "basket; souvenir",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/cffaeadb_878d_49d3_805b_a3e100f414b0/preview_00106758_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
+    "art_form": "household",
     "image": "good",
     "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A woven rush mat with banded geometric patterning, a traditional Odawa (Great Lakes Anishinaabe) craft item made and used by this people. Fits the claimed ethnicity as a utilitarian/decorative textile.",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade birchbark and coiled-sweetgrass basket decorated with quillwork, explicitly identified as made by the Odawa. It fits the claimed household category and ethnicity.",
     "featured": true
-   }
-  ],
-  "household": [
+   },
    {
     "source": "bm",
     "id": "E_Am2003-19-58",
@@ -71,22 +69,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A birch-bark model canoe with wooden ribs and gum-sealed seams, a well-documented Odawa/Great Lakes craft form, matching the museum's attribution to Odawa makers.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am2003-19-51",
-    "name": "basket; souvenir",
-    "kind": "basket",
-    "title": "basket; souvenir",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_12/7a5c2f4c_8c43_4b35_921c_a3c600cd7fee/preview_01007375_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A coiled sweetgrass and birchbark basket with quillwork floral decoration, a well-documented Odawa/Great Lakes craft tradition; museum records Odawa as maker.",
     "featured": true
    },
    {
@@ -171,6 +153,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Am2003-19-51",
+    "name": "basket; souvenir",
+    "kind": "basket",
+    "title": "basket; souvenir",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_12/7a5c2f4c_8c43_4b35_921c_a3c600cd7fee/preview_01007375_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A coiled sweetgrass and birchbark basket with quillwork floral decoration, a well-documented Odawa/Great Lakes craft tradition; museum records Odawa as maker.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Am2003-19-52",
     "name": "basket; souvenir",
     "kind": "basket",
@@ -184,40 +182,6 @@
     "confidence": "HIGH",
     "reason": "The image shows a coiled sweetgrass and birchbark souvenir basket with quillwork floral decoration, a well-documented Odawa/Great Lakes craft form, matching the museum's attribution.",
     "featured": false
-   }
-  ],
-  "garment": [
-   {
-    "source": "bm",
-    "id": "E_Am1982-15-16",
-    "name": "pouch",
-    "kind": "pouch",
-    "title": "pouch",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_4/26_12/7328ca03_d5ed_4536_a760_b15e00c74e98/preview_am1982_15_16__a_.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A deerskin pouch with fringe and glass floral beadwork, an accessory type well documented among Odawa/Great Lakes Anishinaabe beadworkers; consistent with the claimed maker.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am-1133",
-    "name": "pouch",
-    "kind": "pouch",
-    "title": "pouch",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/0d99fa64_5892_4e8b_b1c0_a3bb0065cf87/preview_00307710_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A whole beaver-skin chief's pouch with beaded tail flap, attributed by the museum as made by the Odawa (worn/used by an Anishinaabe-region chief); a plausible garment/accessory for this people.",
-    "featured": true
    }
   ],
   "photo": [
@@ -267,6 +231,58 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Documentary studio/outdoor photo of a couple identified as Ottawa (Odawa) in traditional-style dress with a tipi and baskets at Harbor Springs, Michigan, a known Odawa community; though some regalia is pan-Plains style typical of tourist photography, this is a documentary photo of Odawa people.",
+    "featured": true
+   }
+  ],
+  "textile": [
+   {
+    "source": "bm",
+    "id": "E_Am-583_1",
+    "name": "mat",
+    "kind": "mat",
+    "title": "mat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_4/26_10/4aedef3a_50d0_471c_b712_b15e00a61e41/preview_am_583__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven rush mat with banded geometric patterning, a traditional Odawa (Great Lakes Anishinaabe) craft item made and used by this people. Fits the claimed ethnicity as a utilitarian/decorative textile.",
+    "featured": true
+   }
+  ],
+  "garment": [
+   {
+    "source": "bm",
+    "id": "E_Am1982-15-16",
+    "name": "pouch",
+    "kind": "pouch",
+    "title": "pouch",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_4/26_12/7328ca03_d5ed_4536_a760_b15e00c74e98/preview_am1982_15_16__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A deerskin pouch with fringe and glass floral beadwork, an accessory type well documented among Odawa/Great Lakes Anishinaabe beadworkers; consistent with the claimed maker.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-1133",
+    "name": "pouch",
+    "kind": "pouch",
+    "title": "pouch",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/0d99fa64_5892_4e8b_b1c0_a3bb0065cf87/preview_00307710_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A whole beaver-skin chief's pouch with beaded tail flap, attributed by the museum as made by the Odawa (worn/used by an Anishinaabe-region chief); a plausible garment/accessory for this people.",
     "featured": true
    }
   ]

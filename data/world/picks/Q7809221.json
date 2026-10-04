@@ -3,7 +3,7 @@
  "label": "Tiriki tribe",
  "name": "Tiriki tribe",
  "judged": 0,
- "cached": 61,
+ "cached": 16,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -396,6 +396,22 @@
     "featured": true
    },
    {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1617956",
+    "name": "smycke, armring, armband, jewellery, bangle",
+    "kind": "jewelry",
+    "title": "smycke, armring, armband, jewellery, bangle",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3228588/1927.02.0144.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An iron bangle with incised cross-hatched decoration, collected in the Kisumu area of Kenya and explicitly attributed to the Tiriki; this is a plausible, well-documented item of personal adornment for the region.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Af1938-0608-120",
     "name": "necklace",
@@ -409,7 +425,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A metal wire neck ring with attached rings holding beads and a bell, explicitly attributed to the Tiriki by the museum's production record; this is a typical East African form of personal adornment.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -425,22 +441,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a handmade twisted-iron neck ring with pendant strips, attributed by the museum to the Tiriki; this is a plausible traditional metal ornament for the group.",
-    "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1617956",
-    "name": "smycke, armring, armband, jewellery, bangle",
-    "kind": "jewelry",
-    "title": "smycke, armring, armband, jewellery, bangle",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3228588/1927.02.0144.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "An iron bangle with incised cross-hatched decoration, collected in the Kisumu area of Kenya and explicitly attributed to the Tiriki; this is a plausible, well-documented item of personal adornment for the region.",
     "featured": false
    },
    {
@@ -540,6 +540,22 @@
     "confidence": "HIGH",
     "reason": "The photo shows a named Tiriki man, Liuwa, kneeling and using an adze to carve a wooden drum from a log, a documentary image of a traditional craft process among the Tiriki. This clearly fits the claimed ethnicity as evidence of their material culture and daily life.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-A43-78_1",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_2/20_8/3b4d7e53_7668_42c2_8b4d_ab67008e76c2/preview_EPF5765.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The picture shows a documentary scene of traditional thatched-roof buildings and people in Kenya. This is compatible with Tiriki material culture and daily life, and no evidence identifies a different people.",
+    "featured": false
    },
    {
     "source": "bm",

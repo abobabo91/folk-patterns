@@ -3,26 +3,10 @@
  "label": "Bambara",
  "name": "Bambara",
  "judged": 0,
- "cached": 68,
+ "cached": 26,
  "cost_usd": 0,
  "ranked": {
   "textile": [
-   {
-    "source": "bm",
-    "id": "E_Af1987-07-4",
-    "name": "cloth; circumcision equipment; ceremonial equipment; bogolanfini",
-    "kind": "cloth",
-    "title": "cloth; circumcision equipment; ceremonial equipment; bogolanfini",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_20/f145ac3e_6088_4ae6_afef_a3c2014a5c7d/preview_00758552_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "This is a classic bogolanfini (mud-cloth) strip-woven cotton textile with geometric resist-dyed patterns, explicitly attributed to the Bamana (Bambara) people, who are well known for producing this exact type of cloth.",
-    "featured": true
-   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_46432",
@@ -37,6 +21,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "Classic bogolanfini (mud cloth) with strip-woven cotton and geometric brown-black on white patterning, directly matching the well-documented Bambara mud cloth tradition of Mali.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1987-07-4",
+    "name": "cloth; circumcision equipment; ceremonial equipment; bogolanfini",
+    "kind": "cloth",
+    "title": "cloth; circumcision equipment; ceremonial equipment; bogolanfini",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_20/f145ac3e_6088_4ae6_afef_a3c2014a5c7d/preview_00758552_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a classic bogolanfini (mud-cloth) strip-woven cotton textile with geometric resist-dyed patterns, explicitly attributed to the Bamana (Bambara) people, who are well known for producing this exact type of cloth.",
     "featured": true
    },
    {
@@ -170,35 +170,19 @@
   ],
   "masks-ritual": [
    {
-    "source": "bm",
-    "id": "E_Af1964-10-1",
-    "name": "mask; head-dress",
+    "source": "cleveland",
+    "id": "141744",
+    "name": "Mask",
     "kind": "mask",
-    "title": "mask; head-dress",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_23/e811f1cd_a665_435b_aa6b_a3dc01825084/preview_01336383_001.jpg",
+    "title": "Headdress (chi wara)",
+    "image_url": "https://openaccess-cdn.clevelandart.org/1965.325/1965.325_web.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
     "quality": 5,
     "confidence": "HIGH",
-    "reason": "This is a classic Komo society mask/headdress made of clay-encrusted wood with antelope horns, warthog tusks, and porcupine quills, a well-documented Bamana (Bambara) power-association object used in initiation and divination.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1956-27-7",
-    "name": "dance-head-dress",
-    "kind": "headwear",
-    "title": "dance-head-dress",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/2f3e4820_71c0_44cc_b8d1_a3be01052f5a/preview_00442280_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "This is a classic Bamana (Bambara) chi wara antelope headdress, worn atop a basketry cap during agricultural dance ceremonies — a well-documented Bamana tradition, though carved masks/headdresses fit \"masks-ritual\" rather than the claimed \"garment\" category.",
+    "reason": "This is a classic ci wara (chi wara) antelope headdress with elongated horns and zigzag mane carving, carved by Bamana (Bambara) blacksmith-carvers for the agricultural ci wara society dance — a well-documented Bamana tradition.",
     "featured": true
    },
    {
@@ -215,6 +199,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "This is a wooden Ci wara antelope headdress used in Bamana (Bambara) agricultural rituals in Mali, a classic ceremonial headpiece of this people, though it is worn on the head as a dance headdress rather than a garment per se.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_24376_inventary_CE12505_table_FMUS_museum_MNA",
+    "name": "Cimera",
+    "kind": "crest",
+    "title": "Cimera",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE12505_P.JPG&Ninv=CE12505",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved antelope headdress/ritual object associated with the Bambara/Bamana Ci Wara agricultural initiation society, so it fits the claimed ethnicity. It is miscategorized as a garment; the best fit is a ritual mask/object.",
     "featured": true
    },
    {
@@ -250,6 +250,22 @@
     "featured": true
    },
    {
+    "source": "bm",
+    "id": "E_Af1956-27-7",
+    "name": "dance-head-dress",
+    "kind": "headwear",
+    "title": "dance-head-dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_15/2f3e4820_71c0_44cc_b8d1_a3be01052f5a/preview_00442280_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a classic Bamana (Bambara) chi wara antelope headdress, worn atop a basketry cap during agricultural dance ceremonies — a well-documented Bamana tradition, though carved masks/headdresses fit \"masks-ritual\" rather than the claimed \"garment\" category.",
+    "featured": false
+   },
+   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_37863",
     "name": "Trumma, mask",
@@ -263,38 +279,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "This is a wooden mask with metal (aluminum) inlay, cross motifs, and vertical spike-like projections on top — a well-known Bamana/Bambara mask style (similar to Komo/Sogoni Kun types), not an instrument as claimed. It fits the Bambara ethnicity as a ritual object even though the category label is wrong.",
-    "featured": false
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1956-27-5",
-    "name": "mask",
-    "kind": "mask",
-    "title": "mask",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_14/83e28cd1_18ca_437b_8adb_a3ba00f37402/preview_00238111_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "This is a classic N'tomo society initiation mask with antelope horns and comb-like projections, a well-documented Bamana (Bambara) form used in male initiation rites; the museum record confirms \"Made by: Bamana.\"",
-    "featured": false
-   },
-   {
-    "source": "cleveland",
-    "id": "141744",
-    "name": "Mask",
-    "kind": "mask",
-    "title": "Headdress (chi wara)",
-    "image_url": "https://openaccess-cdn.clevelandart.org/1965.325/1965.325_web.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "This is a classic ci wara (chi wara) antelope headdress with elongated horns and zigzag mane carving, carved by Bamana (Bambara) blacksmith-carvers for the agricultural ci wara society dance — a well-documented Bamana tradition.",
     "featured": false
    },
    {
@@ -315,6 +299,38 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1964-10-1",
+    "name": "mask; head-dress",
+    "kind": "mask",
+    "title": "mask; head-dress",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_23/e811f1cd_a665_435b_aa6b_a3dc01825084/preview_01336383_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a classic Komo society mask/headdress made of clay-encrusted wood with antelope horns, warthog tusks, and porcupine quills, a well-documented Bamana (Bambara) power-association object used in initiation and divination.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1956-27-5",
+    "name": "mask",
+    "kind": "mask",
+    "title": "mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_14/83e28cd1_18ca_437b_8adb_a3ba00f37402/preview_00238111_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a classic N'tomo society initiation mask with antelope horns and comb-like projections, a well-documented Bamana (Bambara) form used in male initiation rites; the museum record confirms \"Made by: Bamana.\"",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1974-17-4",
     "name": "dance-head-dress",
     "kind": "headwear",
@@ -327,6 +343,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "This is a carved Chi Wara antelope headdress on a woven basketry base, a classic Bamana (Bambara) initiation-society dance object, not a garment but clearly a masks-ritual piece used and made by the Bamana.",
+    "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_1511360",
+    "name": "utställning, huvudbonad, fotografi, photograph",
+    "kind": "photograph",
+    "title": "utställning, huvudbonad, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1511403/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows two carved wooden antelope-head headdresses (Chiwara-type crest masks associated with Bambara/Bamana culture, used in agricultural rituals), photographed as museum objects rather than a documentary \"photo\" of a person/scene — but this mismatch in category is not grounds for NO. The Bambara are well known for exactly this form of antelope-headdress carving, so the object fits the claimed ethnicity.",
     "featured": false
    },
    {
@@ -394,22 +426,6 @@
     "featured": false
    },
    {
-    "source": "europeana",
-    "id": "/91627/SMVK_EM_fotografi_1511360",
-    "name": "utställning, huvudbonad, fotografi, photograph",
-    "kind": "photograph",
-    "title": "utställning, huvudbonad, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1511403/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows two carved wooden antelope-head headdresses (Chiwara-type crest masks associated with Bambara/Bamana culture, used in agricultural rituals), photographed as museum objects rather than a documentary \"photo\" of a person/scene — but this mismatch in category is not grounds for NO. The Bambara are well known for exactly this form of antelope-headdress carving, so the object fits the claimed ethnicity.",
-    "featured": false
-   },
-   {
     "source": "bm",
     "id": "E_Af1956-27-6",
     "name": "dance-mask",
@@ -424,56 +440,6 @@
     "confidence": "MEDIUM",
     "reason": "A dark wooden mask with triangular horn-like projections and incised geometric patterning, consistent with Bamana carving traditions; the museum attributes it directly to \"Bamana,\" supporting the claim.",
     "featured": false
-   }
-  ],
-  "arms": [
-   {
-    "source": "bm",
-    "id": "E_Af1954-23-1060_1",
-    "name": "arrow",
-    "kind": "arrow",
-    "title": "arrow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/3_13/d789bbd0_a0be_4e3c_acfb_a9ab00d679c0/EAF7066.JPG",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a cane-shafted arrow with a triangular iron head, explicitly attributed to the Bamana (Bambara) by the museum. This is a plausible traditional weapon type for this Malian people.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1954-23-1062_1",
-    "name": "arrow",
-    "kind": "arrow",
-    "title": "arrow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/3_13/d82012e9_c6b7_4947_beef_a9ab00d65aba/preview_EAF141806.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A barbed iron arrowhead on a cane shaft, attributed to the Bamana (Bambara) people of Mali — a plausible traditional weapon type for the region.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Af1954-23-1061_1",
-    "name": "arrow",
-    "kind": "arrow",
-    "title": "arrow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/3_13/1cfa2d8e_97e2_4a0d_bf69_a9ab00d657f7/preview_EAF141805.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "HIGH",
-    "reason": "An iron arrowhead on a cane shaft, directly attributed by the museum to the Bamana (Bambara), a weapon type consistent with their traditional hunting/war arsenal.",
-    "featured": true
    }
   ],
   "garment": [
@@ -592,6 +558,22 @@
     "featured": true
    },
    {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_37852",
+    "name": "Trätrumpet, trumpet",
+    "kind": "trumpet",
+    "title": "Trätrumpet, trumpet",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2398690/1971.17.0003.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden trumpet/signal horn with a stylized human head finial, described as a Bambara instrument used to summon people to dance in Mali — plausible Bambara material culture and typical of the region's carved wood aesthetic.",
+    "featured": true
+   },
+   {
     "source": "bm",
     "id": "E_Af1972-44-1",
     "name": "whistle; flute",
@@ -621,22 +603,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A traditional skin-covered stringed lute (bowed/plucked spike lute) with a reptile-skin resonator, consistent with Bamana/Bambara string instruments; museum attributes production to Bamana.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_37852",
-    "name": "Trätrumpet, trumpet",
-    "kind": "trumpet",
-    "title": "Trätrumpet, trumpet",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2398690/1971.17.0003.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden trumpet/signal horn with a stylized human head finial, described as a Bambara instrument used to summon people to dance in Mali — plausible Bambara material culture and typical of the region's carved wood aesthetic.",
     "featured": true
    }
   ],
@@ -674,22 +640,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "E_Af1990-05-1",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/6f356c5b_3639_40d6_aa1f_a9d900bd9386/preview_EAF10982.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Standing wooden female figure with brass eyes, ear-rings, nose-ornament and metal band decoration, a classic Bamana (Bambara) wood sculpture type, matching the museum's stated production group.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_37899",
     "name": "staty",
@@ -703,6 +653,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The wooden female figure with the distinctive coiffure, metal teeth insert, and marked scarification matches Bambara (Bamana) figurative sculpture conventions, and the museum note explicitly describes Bambara ethnicity with these traits noted.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1990-05-1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/6f356c5b_3639_40d6_aa1f_a9d900bd9386/preview_EAF10982.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Standing wooden female figure with brass eyes, ear-rings, nose-ornament and metal band decoration, a classic Bamana (Bambara) wood sculpture type, matching the museum's stated production group.",
     "featured": true
    },
    {
@@ -754,22 +720,6 @@
     "featured": false
    },
    {
-    "source": "bm",
-    "id": "E_Af1979-19-7",
-    "name": "doll",
-    "kind": "doll",
-    "title": "doll",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/5_9/2381a2bd_0aeb_40bb_8b0d_aa0700945a6e/preview_EAF10144.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "This is a carved wooden Bamana (Bambara) fertility/puppet-style doll figure, with the characteristic elongated coiffure and conical body typical of Bamana figural carving, consistent with the claimed ethnicity.",
-    "featured": false
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_37869",
     "name": "Träskulptur., skulptur, sculpture",
@@ -783,6 +733,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "This is a wooden Bambara-style headdress/crest sculpture depicting a bird or quadruped figure with a long curved crest, typical of Bamana (Bambara) chi-wara or related carved ritual crests from Mali. The form and findspot (Koutiala, Mali) support the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1979-19-7",
+    "name": "doll",
+    "kind": "doll",
+    "title": "doll",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/5_9/2381a2bd_0aeb_40bb_8b0d_aa0700945a6e/preview_EAF10144.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden Bamana (Bambara) fertility/puppet-style doll figure, with the characteristic elongated coiffure and conical body typical of Bamana figural carving, consistent with the claimed ethnicity.",
     "featured": false
    }
   ],
@@ -936,38 +902,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "EA_Af-CB31-5",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_14/7b85230a_a931_40e0_868b_a3b700e8d816/preview_00071707_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image is a studio photograph of a carved wooden seated female figure that the museum explicitly attributes to Bambara style; the carving (coiffure, scarification, stool) is consistent with Bamana figural sculpture, so it documents a Bambara-made object even though findspot is given as Burkina Faso.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "EA_Af-A18-79",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_3/8_12/a7b2d915_5b7c_47d0_825a_b12d00d289b5/preview_Af_A18_079.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A documentary market scene showing West African women and men in traditional tunics/robes and head-wrap, consistent with Bambara dress and daily life in Mali; plausible for the claimed region.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91627/SMVK_EM_fotografi_3665605",
     "name": "porträtt, fotografi, photograph",
@@ -997,7 +931,89 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Documentary photograph of a man identified in the museum record as Bambara from Sikasso, photographed in Bamako, French Sudan in 1953-54; a portrait of a named ethnic group individual in traditional dress qualifies as evidence of daily life/dress.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-CB31-5",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_14/7b85230a_a931_40e0_868b_a3b700e8d816/preview_00071707_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image is a studio photograph of a carved wooden seated female figure that the museum explicitly attributes to Bambara style; the carving (coiffure, scarification, stool) is consistent with Bamana figural sculpture, so it documents a Bambara-made object even though findspot is given as Burkina Faso.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-A18-79",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_3/8_12/a7b2d915_5b7c_47d0_825a_b12d00d289b5/preview_Af_A18_079.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A documentary market scene showing West African women and men in traditional tunics/robes and head-wrap, consistent with Bambara dress and daily life in Mali; plausible for the claimed region.",
     "featured": false
+   }
+  ],
+  "arms": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1060_1",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/3_13/d789bbd0_a0be_4e3c_acfb_a9ab00d679c0/EAF7066.JPG",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a cane-shafted arrow with a triangular iron head, explicitly attributed to the Bamana (Bambara) by the museum. This is a plausible traditional weapon type for this Malian people.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1062_1",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/3_13/d82012e9_c6b7_4947_beef_a9ab00d65aba/preview_EAF141806.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A barbed iron arrowhead on a cane shaft, attributed to the Bamana (Bambara) people of Mali — a plausible traditional weapon type for the region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-1061_1",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/3_13/1cfa2d8e_97e2_4a0d_bf69_a9ab00d657f7/preview_EAF141805.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "An iron arrowhead on a cane shaft, directly attributed by the museum to the Bamana (Bambara), a weapon type consistent with their traditional hunting/war arsenal.",
+    "featured": true
    }
   ]
  }

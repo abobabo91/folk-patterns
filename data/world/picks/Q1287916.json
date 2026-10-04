@@ -3,9 +3,75 @@
  "label": "Munda people",
  "name": "Munda",
  "judged": 0,
- "cached": 20,
+ "cached": 3,
  "cost_usd": 0,
  "ranked": {
+  "metalwork": [
+   {
+    "source": "bm",
+    "id": "A_As1975-08-10",
+    "name": "bowl; salt-cellar",
+    "kind": "bowl",
+    "title": "bowl; salt-cellar",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/4eb6d455_3899_4ba8_a53a_a3da01150abe/preview_01217425_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a handmade beaten-metal bowl or salt cellar, consistent with the metadata identifying it as Munda-made silver alloy work. It fits the claimed ethnicity, but the plain form is not highly distinctive.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1975-08-9",
+    "name": "bowl; salt-cellar",
+    "kind": "bowl",
+    "title": "bowl; salt-cellar",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/081a2f9b_2262_4039_8540_a3da01150896/preview_01217424_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a plain silver-alloy bowl/salt-cellar, beaten from rupee coins, matching the museum's attribution to Munda makers; a simple hammered metal vessel is plausible for this group's metalwork.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1975-08-12",
+    "name": "bowl; salt-cellar",
+    "kind": "bowl",
+    "title": "bowl; salt-cellar",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/ff8a2ea6_fbf7_4be0_862d_a3da01150d98/preview_01217427_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A beaten silver bowl/salt-cellar made from rupee coins, attributed by the museum to Munda makers of India — a plausible metal vessel of this tradition.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1975-08-11",
+    "name": "bowl; salt-cellar",
+    "kind": "bowl",
+    "title": "bowl; salt-cellar",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/e3e8f8c7_ddcb_4b9a_8f22_a3da01150c34/preview_01217426_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A beaten silver bowl/salt-cellar made from rupee coins, attributed by the museum to Munda makers of India; small silver vessels like this are a known Munda metalworking craft. Though labeled \"ceramic\" in the category field, it is actually a metal object.",
+    "featured": true
+   }
+  ],
   "garment": [
    {
     "source": "bm",
@@ -168,56 +234,6 @@
     "confidence": "MEDIUM",
     "reason": "A carved bone spoon with an elephant figure on the handle, a household utensil attributed to the Munda; the form and material are plausible for the region and the museum directly attributes it to Munda makers.",
     "featured": false
-   }
-  ],
-  "metalwork": [
-   {
-    "source": "bm",
-    "id": "A_As1975-08-9",
-    "name": "bowl; salt-cellar",
-    "kind": "bowl",
-    "title": "bowl; salt-cellar",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/081a2f9b_2262_4039_8540_a3da01150896/preview_01217424_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a plain silver-alloy bowl/salt-cellar, beaten from rupee coins, matching the museum's attribution to Munda makers; a simple hammered metal vessel is plausible for this group's metalwork.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1975-08-12",
-    "name": "bowl; salt-cellar",
-    "kind": "bowl",
-    "title": "bowl; salt-cellar",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/ff8a2ea6_fbf7_4be0_862d_a3da01150d98/preview_01217427_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A beaten silver bowl/salt-cellar made from rupee coins, attributed by the museum to Munda makers of India — a plausible metal vessel of this tradition.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1975-08-11",
-    "name": "bowl; salt-cellar",
-    "kind": "bowl",
-    "title": "bowl; salt-cellar",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/e3e8f8c7_ddcb_4b9a_8f22_a3da01150c34/preview_01217426_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "metalwork",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A beaten silver bowl/salt-cellar made from rupee coins, attributed by the museum to Munda makers of India; small silver vessels like this are a known Munda metalworking craft. Though labeled \"ceramic\" in the category field, it is actually a metal object.",
-    "featured": true
    }
   ],
   "arms": [

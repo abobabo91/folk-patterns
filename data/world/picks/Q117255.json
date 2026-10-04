@@ -3,7 +3,7 @@
  "label": "Hopi people",
  "name": "Hopi",
  "judged": 0,
- "cached": 74,
+ "cached": 64,
  "cost_usd": 0,
  "ranked": {
   "photo": [
@@ -57,6 +57,22 @@
    },
    {
     "source": "bm",
+    "id": "EA_Am-B73-1",
+    "name": "postcard; photographic print",
+    "kind": "photograph",
+    "title": "postcard (black &amp; white with colour); photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_15/a9a84db5_7537_4ce2_b9a7_a3c600fdc4c7/preview_01022301_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture is a documentary postcard photograph of a Hopi woman making or using a basket beside an adobe dwelling and hanging peppers, fitting Hopi material culture and daily life.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "EA_Am-B31-27",
     "name": "photographic print",
     "kind": "photograph",
@@ -85,7 +101,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The photograph shows a Hopi woman with the traditional butterfly hair whorl hairstyle (worn by unmarried Hopi women), wrapped in a plaid shawl, standing before an adobe wall on the Hopi Reservation — a documentary studio/postcard photo of Hopi dress and custom.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",

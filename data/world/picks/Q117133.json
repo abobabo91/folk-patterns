@@ -3,9 +3,61 @@
  "label": "Comanche",
  "name": "Comanche",
  "judged": 0,
- "cached": 11,
+ "cached": 4,
  "cost_usd": 0,
  "ranked": {
+  "garment": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_30981_inventary_CE19494_table_FMUS_museum_MNA",
+    "name": "Mocasín",
+    "kind": "moccasin",
+    "title": "Mocasín",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19494_SEQ_002_P.JPG&Ninv=CE19494",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a decorated high leather moccasin with beadwork, a traditional garment associated with Comanche material culture. The museum metadata explicitly identifies it as a Comanche women’s moccasin.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_30982_inventary_CE19495_table_FMUS_museum_MNA",
+    "name": "Mocasín",
+    "kind": "moccasin",
+    "title": "Mocasín",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19495_SEQ_002_P.JPG&Ninv=CE19495",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a tall, beaded leather moccasin, a traditional garment/footwear item attributed to the Comanche. Its construction and decoration fit an Indigenous North American moccasin tradition, and no conflicting attribution is given.",
+    "featured": true
+   }
+  ],
+  "arms": [
+   {
+    "source": "europeana",
+    "id": "/2022703/pages_Main_idt_30990_inventary_CE19503_table_FMUS_museum_MNA",
+    "name": "Maza",
+    "kind": "club",
+    "title": "Maza",
+    "image_url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE19503_SEQ_002_P.JPG&Ninv=CE19503",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a decorated stone-headed club or mace, with beadwork, hide wrapping, and a red-dyed horsehair tassel. It is a plausible Comanche weapon and fits the claimed ethnicity.",
+    "featured": true
+   }
+  ],
   "photo": [
    {
     "source": "bm",

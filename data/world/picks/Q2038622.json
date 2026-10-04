@@ -3,7 +3,7 @@
  "label": "Tallensi",
  "name": "Tallensi",
  "judged": 0,
- "cached": 9,
+ "cached": 1,
  "cost_usd": 0,
  "ranked": {
   "arms": [
@@ -41,18 +41,18 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1922-1109-17",
+    "id": "E_Af1922-1109-27",
     "name": "arrow",
     "kind": "arrow",
     "title": "arrow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_15/c8e0502d_30ee_4d3f_b06e_a9cf0103a7d1/preview_EAF2655.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_15/56c0ecc7_9e20_4ff3_a2be_a9cf0103b43b/preview_EAF2665.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
     "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "An iron arrowhead attributed to the Tallensi (Talensi) of Ghana, a plausible traditional weapon component for this group; simple pointed iron arrowheads are common regional forms.",
+    "confidence": "HIGH",
+    "reason": "The picture shows a traditional iron arrowhead/arrow attributed by the museum as made by the Tallensi, fitting their claimed arms category.",
     "featured": true
    },
    {
@@ -86,6 +86,22 @@
     "confidence": "MEDIUM",
     "reason": "The image shows an L-shaped wooden throwing club with carved serrated notches, a traditional weapon type consistent with the museum's attribution to the Tallensi people of Ghana.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1922-1109-17",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_15/c8e0502d_30ee_4d3f_b06e_a9cf0103a7d1/preview_EAF2655.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An iron arrowhead attributed to the Tallensi (Talensi) of Ghana, a plausible traditional weapon component for this group; simple pointed iron arrowheads are common regional forms.",
+    "featured": false
    },
    {
     "source": "bm",

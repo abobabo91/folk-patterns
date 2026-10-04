@@ -3,10 +3,26 @@
  "label": "Marind people",
  "name": "Marind",
  "judged": 0,
- "cached": 14,
+ "cached": 4,
  "cost_usd": 0,
  "ranked": {
   "arms": [
+   {
+    "source": "bm",
+    "id": "E_Oc-MCG-40",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_7/6_13/87e123af_0614_497b_b9fb_b03700d66beb/preview_EOC35154.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a decorated wooden arrow with a pointed foreshaft, matching the museum’s attribution to Marind manufacture and use.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Oc-MCG-47",
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a traditional arrow with bone point and cane shaft, decorated with red and black pigment bands — a typical hunting/war arrow attributed to the Marind people of southern New Guinea, consistent with documented Marind arrow-making traditions.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -118,6 +134,24 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a complete arrow with a claw-tipped foreshaft, fibre binding, and incised butt decoration, attributed by the museum to the Marind people of New Guinea — a plausible and characteristic weapon type for this culture.",
     "featured": false
+   }
+  ],
+  "photo": [
+   {
+    "source": "europeana",
+    "id": "/91609/SMVK_VKM_fotografi_1302760",
+    "name": "halssmycke, benringar, porträtt, armringar, utstyrsel, flicka, palmblad, fotografi, photograph",
+    "kind": "photograph",
+    "title": "halssmycke, benringar, porträtt, armringar, utstyrsel, flicka, palmblad, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1304372/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Documentary photograph (by Paul Wirz, 1922 publication) of a young Marind-Anim girl in Southern Dutch New Guinea, shown with woven leg/arm bands, necklace, and palm-leaf backdrop — a clear ethnographic record of dress and adornment of the claimed people.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -185,24 +219,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a woven fibre mourner's hood with plaited geometric designs and a thick bark-fibre fringe, explicitly attributed to the Marind people of Indonesia (New Guinea) and consistent with their known mourning regalia.",
-    "featured": true
-   }
-  ],
-  "photo": [
-   {
-    "source": "europeana",
-    "id": "/91609/SMVK_VKM_fotografi_1302760",
-    "name": "halssmycke, benringar, porträtt, armringar, utstyrsel, flicka, palmblad, fotografi, photograph",
-    "kind": "photograph",
-    "title": "halssmycke, benringar, porträtt, armringar, utstyrsel, flicka, palmblad, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1304372/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Documentary photograph (by Paul Wirz, 1922 publication) of a young Marind-Anim girl in Southern Dutch New Guinea, shown with woven leg/arm bands, necklace, and palm-leaf backdrop — a clear ethnographic record of dress and adornment of the claimed people.",
     "featured": true
    }
   ]

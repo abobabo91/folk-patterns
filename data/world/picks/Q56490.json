@@ -3,7 +3,7 @@
  "label": "Tsimshian people",
  "name": "Tsimshian",
  "judged": 0,
- "cached": 49,
+ "cached": 31,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -21,6 +21,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Two carved and painted cedar panels forming the walls of a mortuary/burial box, decorated in classic Northwest Coast formline style with crest imagery (eyes, ovoids, faces); such painted grave boxes are documented Tsimshian mortuary art collected on the Retzius 1893 North America expedition.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1066413",
+    "name": "bowl, vessel, trough, bowl",
+    "kind": "bowl",
+    "title": "bowl, vessel, trough, bowl",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1246971/1904.19.0233_alt.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden grease/oil dish inlaid with opercula shells along the rim, a classic Northwest Coast vessel type used by Tsimshian and neighboring peoples for serving oolichan or other oils, consistent with the claimed ethnicity.",
     "featured": true
    },
    {
@@ -53,22 +69,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A carved stone maul head with a zoomorphic (salmon/whale) crest and grooves for hafting—this is a characteristic Northwest Coast stone hammer/maul tool type, consistent with Tsimshian material culture.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1066413",
-    "name": "bowl, vessel, trough, bowl",
-    "kind": "bowl",
-    "title": "bowl, vessel, trough, bowl",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1246971/1904.19.0233_alt.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a carved wooden grease/oil dish inlaid with opercula shells along the rim, a classic Northwest Coast vessel type used by Tsimshian and neighboring peoples for serving oolichan or other oils, consistent with the claimed ethnicity.",
     "featured": true
    },
    {
@@ -154,22 +154,6 @@
   ],
   "arms": [
    {
-    "source": "bm",
-    "id": "E_Am1949-22-90",
-    "name": "club",
-    "kind": "club",
-    "title": "club",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_23/7c5ffd68_5f4f_4a29_920c_a3d701844a16/preview_01102237_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "An elkhorn war club with a bird-head pommel inlaid with haliotis shell, a classic Northwest Coast weapon type attributed to the Tsimshian by the museum.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91619/SMVK_EM_objekt_1009409",
     "name": "klubba, club",
@@ -199,6 +183,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A stone club head carved with an animal face (eyes, lips, teeth) is a classic Northwest Coast stone weapon type, provenanced to British Columbia; consistent with Tsimshian or neighboring Northwest Coast peoples, who cannot be reliably distinguished by style alone.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1949-22-90",
+    "name": "club",
+    "kind": "club",
+    "title": "club",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_23/7c5ffd68_5f4f_4a29_920c_a3d701844a16/preview_01102237_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "An elkhorn war club with a bird-head pommel inlaid with haliotis shell, a classic Northwest Coast weapon type attributed to the Tsimshian by the museum.",
     "featured": true
    },
    {
@@ -248,6 +248,74 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a stone club/maul head carved with a salmon-head motif, a well-documented Northwest Coast Indian weapon type found with British Columbia provenance — the exact form associated with Tsimshian and neighboring coastal groups, and plausible for this culture.",
     "featured": false
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "met",
+    "id": "319090",
+    "name": "Frontlet",
+    "kind": "frontlet",
+    "title": "Headdress Frontlet",
+    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258523.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a carved wooden frontlet with abalone shell inlay depicting an ancestral/crest figure, worn on Northwest Coast headdresses — a well-documented Tsimshian regalia form. It was mis-filed as jewelry but clearly belongs to the culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Am-B44-6",
+    "name": "print",
+    "kind": "print",
+    "title": "print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/24750d59_9c5e_411a_b57c_a3c1014507fd/preview_00696085_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image is a printed photograph of a carved cedar Tsimshian storage chest with a conventionalized sea lion design, an object made and used by the Tsimshian. It's a documentary reproduction (print of a photo) rather than an original artwork, so architectural-style/sculpture classification aside, it depicts a genuine Tsimshian carved object.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_3848980",
+    "name": "totempåle, fotografi, photograph",
+    "kind": "photograph",
+    "title": "totempåle, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3848983/1119.0226_P1000300.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows carved Northwest Coast totem poles (with crest figures like a beaver/bear holding a figure) photographed on display at the Smithsonian; the museum's own caption identifies it as a Tsimshian totem pole, consistent with Tsimshian carving traditions.",
+    "featured": true
+   }
+  ],
+  "photo": [
+   {
+    "source": "europeana",
+    "id": "/91627/SMVK_EM_fotografi_1946508",
+    "name": "trumma, hövding, mask, fotografi, photograph",
+    "kind": "photograph",
+    "title": "trumma, hövding, mask, fotografi, photograph",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1946515/image.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "MEDIUM",
+    "reason": "The photograph shows a group of chiefs and family members in ceremonial regalia (frontlets, Chilkat-style robes, fur mantles) surrounded by masks and a crest-painted chest and panel, identified by the museum as Coast Tsimshian, photographed at Gitladamix among Nisga'a/Tsimshian wolf-clan chiefs — this is documentary photography of Tsimshian ceremonial dress and material culture.",
+    "featured": true
    }
   ],
   "masks-ritual": [
@@ -332,6 +400,88 @@
     "featured": true
    }
   ],
+  "instruments": [
+   {
+    "source": "met",
+    "id": "501227",
+    "name": "Raven rattle",
+    "kind": "rattle",
+    "title": "Raven rattle",
+    "image_url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP168365.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "A carved and painted wooden Raven rattle with classic Northwest Coast formline design, a canonical Tsimshian chief's ceremonial instrument used in dance.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1949-22-68",
+    "name": "clapper",
+    "kind": "clapper",
+    "title": "clapper",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_14/1b1944b9_e62b_44fb_b7e5_a3c200f56166/preview_00725483_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A wooden whale-shaped ceremonial clapper with formline black and red painted designs, a traditional Northwest Coast Tsimshian ritual musical instrument, clearly matching known Tsimshian craft.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1066953",
+    "name": "trumpet, aerophone",
+    "kind": "trumpet",
+    "title": "trumpet, aerophone",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1333170/1904.19.0057.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden trumpet/aerophone with incised decoration, a type used by Tsimshian (and neighboring Kwakiutl, Haida) groups in secret society performances; museum notes explicitly attribute this instrument type to Tsimshian use.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-7838",
+    "name": "flute; clapper",
+    "kind": "flute",
+    "title": "flute (?); clapper (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/ecf14a5f_36ed_4340_a0e4_a3d70101561b/01090777_001.JPG",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A wooden hollowed instrument (flute or clapper), a plausible traditional wind/percussion instrument type for Northwest Coast peoples like the Tsimshian.",
+    "featured": true
+   },
+   {
+    "source": "met",
+    "id": "310549",
+    "name": "Rattle",
+    "kind": "rattle",
+    "title": "Face Rattle",
+    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1978_412_97.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden face rattle with articulated jaw, characteristic of Northwest Coast ceremonial regalia including Tsimshian shamanic and dance rattles, matching the claimed ethnicity, category, and mid-19th-century date.",
+    "featured": true
+   }
+  ],
   "garment": [
    {
     "source": "met",
@@ -363,74 +513,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A twined cedar bark wide-brimmed hat, a classic Northwest Coast woven garment attributed to Tsimshian makers, matching the museum's production credit.",
-    "featured": true
-   }
-  ],
-  "sculpture": [
-   {
-    "source": "met",
-    "id": "319090",
-    "name": "Frontlet",
-    "kind": "frontlet",
-    "title": "Headdress Frontlet",
-    "image_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DT258523.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "This is a carved wooden frontlet with abalone shell inlay depicting an ancestral/crest figure, worn on Northwest Coast headdresses — a well-documented Tsimshian regalia form. It was mis-filed as jewelry but clearly belongs to the culture.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "EA_Am-B44-6",
-    "name": "print",
-    "kind": "print",
-    "title": "print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/24750d59_9c5e_411a_b57c_a3c1014507fd/preview_00696085_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image is a printed photograph of a carved cedar Tsimshian storage chest with a conventionalized sea lion design, an object made and used by the Tsimshian. It's a documentary reproduction (print of a photo) rather than an original artwork, so architectural-style/sculpture classification aside, it depicts a genuine Tsimshian carved object.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91627/SMVK_EM_fotografi_3848980",
-    "name": "totempåle, fotografi, photograph",
-    "kind": "photograph",
-    "title": "totempåle, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3848983/1119.0226_P1000300.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows carved Northwest Coast totem poles (with crest figures like a beaver/bear holding a figure) photographed on display at the Smithsonian; the museum's own caption identifies it as a Tsimshian totem pole, consistent with Tsimshian carving traditions.",
-    "featured": true
-   }
-  ],
-  "photo": [
-   {
-    "source": "europeana",
-    "id": "/91627/SMVK_EM_fotografi_1946508",
-    "name": "trumma, hövding, mask, fotografi, photograph",
-    "kind": "photograph",
-    "title": "trumma, hövding, mask, fotografi, photograph",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1946515/image.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "MEDIUM",
-    "reason": "The photograph shows a group of chiefs and family members in ceremonial regalia (frontlets, Chilkat-style robes, fur mantles) surrounded by masks and a crest-painted chest and panel, identified by the museum as Coast Tsimshian, photographed at Gitladamix among Nisga'a/Tsimshian wolf-clan chiefs — this is documentary photography of Tsimshian ceremonial dress and material culture.",
     "featured": true
    }
   ],
@@ -497,88 +579,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A silver cuff bracelet engraved with a formline frog design, signed by a Northwest Coast artist and attributed by the museum to Tsimshian make — a classic Northwest Coast jewelry form.",
-    "featured": true
-   }
-  ],
-  "instruments": [
-   {
-    "source": "met",
-    "id": "501227",
-    "name": "Raven rattle",
-    "kind": "rattle",
-    "title": "Raven rattle",
-    "image_url": "https://images.metmuseum.org/CRDImages/mi/web-large/DP168365.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 5,
-    "confidence": "HIGH",
-    "reason": "A carved and painted wooden Raven rattle with classic Northwest Coast formline design, a canonical Tsimshian chief's ceremonial instrument used in dance.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1949-22-68",
-    "name": "clapper",
-    "kind": "clapper",
-    "title": "clapper",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_14/1b1944b9_e62b_44fb_b7e5_a3c200f56166/preview_00725483_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A wooden whale-shaped ceremonial clapper with formline black and red painted designs, a traditional Northwest Coast Tsimshian ritual musical instrument, clearly matching known Tsimshian craft.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am-7838",
-    "name": "flute; clapper",
-    "kind": "flute",
-    "title": "flute (?); clapper (?)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/ecf14a5f_36ed_4340_a0e4_a3d70101561b/01090777_001.JPG",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A wooden hollowed instrument (flute or clapper), a plausible traditional wind/percussion instrument type for Northwest Coast peoples like the Tsimshian.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1066953",
-    "name": "trumpet, aerophone",
-    "kind": "trumpet",
-    "title": "trumpet, aerophone",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1333170/1904.19.0057.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden trumpet/aerophone with incised decoration, a type used by Tsimshian (and neighboring Kwakiutl, Haida) groups in secret society performances; museum notes explicitly attribute this instrument type to Tsimshian use.",
-    "featured": true
-   },
-   {
-    "source": "met",
-    "id": "310549",
-    "name": "Rattle",
-    "kind": "rattle",
-    "title": "Face Rattle",
-    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1978_412_97.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden face rattle with articulated jaw, characteristic of Northwest Coast ceremonial regalia including Tsimshian shamanic and dance rattles, matching the claimed ethnicity, category, and mid-19th-century date.",
     "featured": true
    }
   ]

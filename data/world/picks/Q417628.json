@@ -3,7 +3,7 @@
  "label": "Akha",
  "name": "Akha",
  "judged": 0,
- "cached": 45,
+ "cached": 21,
  "cost_usd": 0,
  "ranked": {
   "garment": [
@@ -40,22 +40,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "A_As1993-28-7",
-    "name": "apron",
-    "kind": "apron",
-    "title": "apron",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_18/c7b723ea_9afc_4830_bce2_a3be0130f0ca/preview_00455498_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a dark indigo cloth apron with a woven, shell-decorated waistband and appliquéd red/white panels, a characteristic Akha-type women's costume element; the museum notes \"Akha (probably)\" as the maker, supporting the attribution.",
-    "featured": true
-   },
-   {
     "source": "met",
     "id": "95811",
     "name": "Ensemble",
@@ -73,35 +57,19 @@
    },
    {
     "source": "bm",
-    "id": "A_As1950-03-9",
-    "name": "coat",
-    "kind": "coat",
-    "title": "coat",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/8503e47e_5483_41e1_b09e_a3be01153285/preview_00447156_001.jpg",
+    "id": "A_As1993-28-7",
+    "name": "apron",
+    "kind": "apron",
+    "title": "apron",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_18/c7b723ea_9afc_4830_bce2_a3be0130f0ca/preview_00455498_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "garment",
     "image": "good",
     "era": "traditional",
-    "quality": 3,
+    "quality": 4,
     "confidence": "MEDIUM",
-    "reason": "A plain black cotton woman's coat with red stitched trim, consistent with Akha everyday dress from the Myanmar/Southeast Asia highlands; museum directly attributes it to Akha makers.",
+    "reason": "The image shows a dark indigo cloth apron with a woven, shell-decorated waistband and appliquéd red/white panels, a characteristic Akha-type women's costume element; the museum notes \"Akha (probably)\" as the maker, supporting the attribution.",
     "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1991-18-75",
-    "name": "skirt",
-    "kind": "skirt",
-    "title": "skirt",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/1051e23e_4919_46b8_b7bf_a3bc0106d1bc/preview_00429631_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A pleated black cotton drawstring skirt, a garment type characteristic of Akha women's dress in Myanmar/SE Asia, matching the museum's attribution to the Akha.",
-    "featured": false
    },
    {
     "source": "europeana",
@@ -117,6 +85,38 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "Indigo-dyed plain-weave pleated skirt, part of Akha women's dress from northern Thailand, matching the claimed ethnicity and category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1950-03-9",
+    "name": "coat",
+    "kind": "coat",
+    "title": "coat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/8503e47e_5483_41e1_b09e_a3be01153285/preview_00447156_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A plain black cotton woman's coat with red stitched trim, consistent with Akha everyday dress from the Myanmar/Southeast Asia highlands; museum directly attributes it to Akha makers.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "A_As1991-18-75",
+    "name": "skirt",
+    "kind": "skirt",
+    "title": "skirt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/1051e23e_4919_46b8_b7bf_a3bc0106d1bc/preview_00429631_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A pleated black cotton drawstring skirt, a garment type characteristic of Akha women's dress in Myanmar/SE Asia, matching the museum's attribution to the Akha.",
     "featured": false
    },
    {
@@ -154,22 +154,6 @@
   ],
   "textile": [
    {
-    "source": "bm",
-    "id": "A_As1991-18-76",
-    "name": "bag",
-    "kind": "bag",
-    "title": "bag",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/470f3c2a_1612_4d13_a0fb_a3bc0106c046/preview_00429623_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a shoulder bag of indigo cotton with dense multicoloured embroidery, appliqué stripes, and colourful pompoms — a classic Akha-style carrying bag, consistent with the museum's attribution to the Akha.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_16635",
     "name": "Textil, väska, bag, bolsa",
@@ -184,23 +168,39 @@
     "confidence": "HIGH",
     "reason": "The image shows two woven shoulder bags with appliqué, embroidery, silver studs, tassels, and bead/feather trim — a well-documented Akha women's costume accessory from northern Thailand, matching the museum's description.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1991-18-76",
+    "name": "bag",
+    "kind": "bag",
+    "title": "bag",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/470f3c2a_1612_4d13_a0fb_a3bc0106c046/preview_00429623_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a shoulder bag of indigo cotton with dense multicoloured embroidery, appliqué stripes, and colourful pompoms — a classic Akha-style carrying bag, consistent with the museum's attribution to the Akha.",
+    "featured": true
    }
   ],
   "household": [
    {
-    "source": "bm",
-    "id": "A_As1981-21-112",
-    "name": "basket",
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1620046",
+    "name": "korg, basket",
     "kind": "basket",
-    "title": "basket",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_15/f38b55d2_60f9_41b9_8d95_a3dd00fb498a/preview_01376477_001.jpg",
+    "title": "korg, basket",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2376653/bild-1938.16.0183.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A woven cane/bamboo rice basket, a traditional household item plausible for Akha material culture in Myanmar's hill regions, and the museum directly attributes it as Akha-made.",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handwoven, double-layered basket used as a food bowl, explicitly attributed to the Puli Akha. It fits Akha household material culture.",
     "featured": true
    },
    {
@@ -237,6 +237,22 @@
    },
    {
     "source": "bm",
+    "id": "A_As1981-21-112",
+    "name": "basket",
+    "kind": "basket",
+    "title": "basket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_15/f38b55d2_60f9_41b9_8d95_a3dd00fb498a/preview_01376477_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A woven cane/bamboo rice basket, a traditional household item plausible for Akha material culture in Myanmar's hill regions, and the museum directly attributes it as Akha-made.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "A_As1981-21-113",
     "name": "basket",
     "kind": "basket",
@@ -265,24 +281,24 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A handwoven cane basket with a drawstring cord, a type of woven carrying basket used in daily life by Akha and neighboring highland groups in Myanmar; the museum attributes it specifically to Akha production.",
-    "featured": true
+    "featured": false
    }
   ],
   "jewelry": [
    {
-    "source": "bm",
-    "id": "A_As1971-06-28",
-    "name": "bracelet",
+    "source": "europeana",
+    "id": "/2048221/europeana_fashion_157009",
+    "name": "Zilveren armband met drakenkoppen",
     "kind": "bracelet",
-    "title": "bracelet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/db2ef330_11f1_42d2_9772_a3dd0111a688/preview_01384505_001.jpg",
+    "title": "Zilveren armband met drakenkoppen",
+    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-5122-50.jpg&type=IMAGE",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
     "quality": 4,
     "confidence": "HIGH",
-    "reason": "A coiled silver bracelet with incised geometric patterning, explicitly attributed by the museum to Akha makers — a well-documented Akha silver jewelry form.",
+    "reason": "A silver open-ended bracelet with dragon-head terminals, explicitly described as worn by Akha men with a rattling \"heart\" bead of religious significance — a well-documented Akha jewelry form.",
     "featured": true
    },
    {
@@ -351,6 +367,22 @@
    },
    {
     "source": "bm",
+    "id": "A_As1971-06-28",
+    "name": "bracelet",
+    "kind": "bracelet",
+    "title": "bracelet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/db2ef330_11f1_42d2_9772_a3dd0111a688/preview_01384505_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A coiled silver bracelet with incised geometric patterning, explicitly attributed by the museum to Akha makers — a well-documented Akha silver jewelry form.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "A_As1971-06-27",
     "name": "bracelet",
     "kind": "bracelet",
@@ -363,22 +395,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A coiled silver bracelet with incised geometric and feather-leaf patterns, a form of jewelry consistent with Akha silverwork from Myanmar; museum explicitly attributes it to Akha makers.",
-    "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/2048221/europeana_fashion_157009",
-    "name": "Zilveren armband met drakenkoppen",
-    "kind": "bracelet",
-    "title": "Zilveren armband met drakenkoppen",
-    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-5122-50.jpg&type=IMAGE",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A silver open-ended bracelet with dragon-head terminals, explicitly described as worn by Akha men with a rattling \"heart\" bead of religious significance — a well-documented Akha jewelry form.",
     "featured": false
    },
    {
@@ -414,25 +430,23 @@
     "featured": false
    }
   ],
-  "instruments": [
+  "arms": [
    {
-    "source": "bm",
-    "id": "A_As1981-21-111-a",
-    "name": "Jew's harp",
-    "kind": "harp",
-    "title": "Jew&#039;s harp",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_15/b1bda8f1_60a4_49e9_b119_a3dd00fb7b0c/preview_01376501_001.jpg",
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1620066",
+    "name": "Arrow",
+    "kind": "arrow",
+    "title": "Arrow",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2376753/bild-1938.16.0207.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
+    "art_form": "arms",
     "image": "good",
     "era": "traditional",
-    "quality": 4,
+    "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A bamboo/wood Jew's harp with a wrapped cord binding, a traditional instrument type made and used by the Akha people of Myanmar, consistent with the museum's attribution.",
+    "reason": "A simple bamboo arrow with a bamboo-blade point, explicitly recorded as used by the Akha (arrow poison practice \"hos Akha\") in French Indochina/Laos; plausible everyday weapon for this hill-tribe people.",
     "featured": true
-   }
-  ],
-  "arms": [
+   },
    {
     "source": "bm",
     "id": "A_As1894-38",
@@ -479,22 +493,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A bamboo arrow with a bound point, consistent with Akha-made hunting arrows used in highland Myanmar; plausible craft object for this group.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1620066",
-    "name": "Arrow",
-    "kind": "arrow",
-    "title": "Arrow",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2376753/bild-1938.16.0207.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A simple bamboo arrow with a bamboo-blade point, explicitly recorded as used by the Akha (arrow poison practice \"hos Akha\") in French Indochina/Laos; plausible everyday weapon for this hill-tribe people.",
     "featured": true
    }
   ],
@@ -579,6 +577,24 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "A plain wooden male figure, armless, matching the documented Akha custom of carving male/female guardian figures placed at the spirit gates of villages — a well-attested Akha ritual object.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "A_As1981-21-111-a",
+    "name": "Jew's harp",
+    "kind": "harp",
+    "title": "Jew&#039;s harp",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_15/b1bda8f1_60a4_49e9_b119_a3dd00fb7b0c/preview_01376501_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A bamboo/wood Jew's harp with a wrapped cord binding, a traditional instrument type made and used by the Akha people of Myanmar, consistent with the museum's attribution.",
     "featured": true
    }
   ]

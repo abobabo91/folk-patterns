@@ -3,10 +3,26 @@
  "label": "Buginese people",
  "name": "Buginese",
  "judged": 0,
- "cached": 18,
+ "cached": 10,
  "cost_usd": 0,
  "ranked": {
   "arms": [
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_45062",
+    "name": "Kniv, dolk, kris, dagger, keris",
+    "kind": "dagger",
+    "title": "Kniv, dolk, kris, dagger, keris",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1080613/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows an ornate Buginese kris dagger with a pierced ivory hilt and decorated metal fittings. The metadata explicitly identifies it as a high-status Buginese kris, even though the straight blade may have been imported from Java.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "A_As1972-Q-982-a",
@@ -21,6 +37,22 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "A kris dagger with carved ivory hilt and finely damascened blade, explicitly attributed by the museum to Bugis makers — a classic Bugis/South Sulawesi weapon.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1309583",
+    "name": "kniv, dolk, knife, dagger",
+    "kind": "knife",
+    "title": "kniv, dolk, knife, dagger",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3486469/1901.21.1193_alt.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a silver-mounted thrusting dagger with scabbard, identified by the museum as a Buginese piece found in South Sulawesi (Makassar), consistent with known Bugis silverwork arms.",
     "featured": true
    },
    {
@@ -56,22 +88,6 @@
     "featured": true
    },
    {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1309583",
-    "name": "kniv, dolk, knife, dagger",
-    "kind": "knife",
-    "title": "kniv, dolk, knife, dagger",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3486469/1901.21.1193_alt.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a silver-mounted thrusting dagger with scabbard, identified by the museum as a Buginese piece found in South Sulawesi (Makassar), consistent with known Bugis silverwork arms.",
-    "featured": true
-   },
-   {
     "source": "bm",
     "id": "A_As-3501-a",
     "name": "kris",
@@ -85,7 +101,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A kris with a wavy pamor-patterned iron blade, brass collar, and wooden hilt, explicitly attributed by the museum to the Bugis people, a classic weapon type made and used across Bugis communities in South Sulawesi.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -152,40 +168,6 @@
     "featured": false
    }
   ],
-  "instruments": [
-   {
-    "source": "bm",
-    "id": "A_As1954-07-168",
-    "name": "musical instrument",
-    "kind": "musical instrument",
-    "title": "musical instrument",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_17/0058df3e_ef92_485a_a739_a3de011cb27c/preview_01453588_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a carved wooden kacapi-like zither (resembling a xylophone-shaped boat zither) with elaborate pierced floral and bird openwork carving, a form associated with the Bugis/South Sulawesi area; the museum attributes it to Bugis makers.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1954-07-167",
-    "name": "musical instrument",
-    "kind": "musical instrument",
-    "title": "musical instrument",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_17/3997acf1_8b71_46ac_89b8_a3de011cb155/preview_01453587_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A long bamboo tube instrument (likely a flute or struck tube zither) with incised and painted decorative bands, attributed by the museum to the Bugis of Indonesia — plausible regional craftsmanship.",
-    "featured": true
-   }
-  ],
   "garment": [
    {
     "source": "bm",
@@ -204,22 +186,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "A_As1891-0815-103",
-    "name": "cap",
-    "kind": "cap",
-    "title": "cap",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_8/cf4d6d3e_1173_4f5f_a561_a3df0086044c/preview_01495889_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A finely woven interlaced-fibre man's hat (peci/fez-derived form), attributed by the museum to Bugis makers — a plausible Bugis garment/headwear object.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_45567",
     "name": "sarong",
@@ -233,6 +199,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A plain black-and-white plaid/checked cotton sarong cloth collected in Boni, South Celebes, documented as worn by Buginese people (or as a girl's headcloth); this is a plausible, well-attested Buginese garment.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1891-0815-103",
+    "name": "cap",
+    "kind": "cap",
+    "title": "cap",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_8/cf4d6d3e_1173_4f5f_a561_a3df0086044c/preview_01495889_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A finely woven interlaced-fibre man's hat (peci/fez-derived form), attributed by the museum to Bugis makers — a plausible Bugis garment/headwear object.",
     "featured": true
    }
   ],
@@ -301,6 +283,40 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Photograph of traditional sailing ships (perahu) moored at a harbor in South Sulawesi, documented as part of a 1925/1926 ethnographic article on Makassar/Buginese customs; watercraft of this type are characteristic Buginese-made vessels.",
+    "featured": true
+   }
+  ],
+  "instruments": [
+   {
+    "source": "bm",
+    "id": "A_As1954-07-168",
+    "name": "musical instrument",
+    "kind": "musical instrument",
+    "title": "musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_17/0058df3e_ef92_485a_a739_a3de011cb27c/preview_01453588_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden kacapi-like zither (resembling a xylophone-shaped boat zither) with elaborate pierced floral and bird openwork carving, a form associated with the Bugis/South Sulawesi area; the museum attributes it to Bugis makers.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1954-07-167",
+    "name": "musical instrument",
+    "kind": "musical instrument",
+    "title": "musical instrument",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_17/3997acf1_8b71_46ac_89b8_a3de011cb155/preview_01453587_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A long bamboo tube instrument (likely a flute or struck tube zither) with incised and painted decorative bands, attributed by the museum to the Bugis of Indonesia — plausible regional craftsmanship.",
     "featured": true
    }
   ]

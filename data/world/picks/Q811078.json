@@ -3,7 +3,7 @@
  "label": "Teke people",
  "name": "Teke",
  "judged": 0,
- "cached": 44,
+ "cached": 39,
  "cost_usd": 0,
  "ranked": {
   "jewelry": [
@@ -75,6 +75,22 @@
   "garment": [
    {
     "source": "bm",
+    "id": "W_As1975-04-14",
+    "name": "coat",
+    "kind": "coat",
+    "title": "coat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_8/311ddda4_b4bb_431a_a5d5_a3b90084fda6/preview_00352680_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image clearly shows a complete red striped, braided-front coat, a garment plausibly made and worn by the Teke; the metadata independently attributes it to Teke manufacture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "W_As2003-03-2",
     "name": "bib",
     "kind": "bib",
@@ -103,22 +119,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a finely embroidered brimless child's cap with geometric bands and beaded top, matching the museum's attribution to Teke makers; this is a plausible, well-documented garment type for the region.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "W_As1975-04-12",
-    "name": "coat",
-    "kind": "coat",
-    "title": "coat",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_8/edba290f_2504_4a71_bf60_a3b90084e7db/preview_00352669_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A striped cotton coat/robe attributed by the museum to Teke production in Congo; this is a plausible traditional garment type for the region and the record gives a direct maker attribution, not just a style or country label.",
     "featured": true
    },
    {
@@ -152,6 +152,22 @@
     "confidence": "MEDIUM",
     "reason": "A woman's head-cloth of red silk with woven patterned borders, directly attributed by the museum to Teke manufacture and use — a plausible garment type for the region.",
     "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "W_As1975-04-12",
+    "name": "coat",
+    "kind": "coat",
+    "title": "coat",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_8/edba290f_2504_4a71_bf60_a3b90084e7db/preview_00352669_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A striped cotton coat/robe attributed by the museum to Teke production in Congo; this is a plausible traditional garment type for the region and the record gives a direct maker attribution, not just a style or country label.",
+    "featured": false
    }
   ],
   "household": [

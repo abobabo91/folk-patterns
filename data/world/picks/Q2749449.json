@@ -3,24 +3,24 @@
  "label": "Embu people",
  "name": "Embu",
  "judged": 0,
- "cached": 26,
+ "cached": 16,
  "cost_usd": 0,
  "ranked": {
   "arms": [
    {
     "source": "bm",
-    "id": "E_Af1913-1015-45",
+    "id": "E_Af1913-1015-55",
     "name": "arrow",
     "kind": "arrow",
     "title": "arrow",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/8b57b882_250f_48fe_bbf0_a3e60157dbee/preview_01610230_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/07d13d55_916f_4096_8390_a3e60157f1f6/preview_01610241_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "arms",
     "image": "good",
     "era": "traditional",
     "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden game arrow with feather fletching and reed/fibre binding, attributed by the museum to Embu makers, consistent with hunting equipment used by this Kenyan people.",
+    "confidence": "HIGH",
+    "reason": "The image shows a complete handmade arrow made of wood, reed, fibre and feather, explicitly attributed by the museum to the Embu. It fits the claimed ethnic group and arms category.",
     "featured": true
    },
    {
@@ -101,6 +101,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows an oval bark shield with red-brown pigment and stitched edge binding, consistent with East African shields such as those made by the Embu people of Kenya.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1913-1015-45",
+    "name": "arrow",
+    "kind": "arrow",
+    "title": "arrow",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/8b57b882_250f_48fe_bbf0_a3e60157dbee/preview_01610230_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden game arrow with feather fletching and reed/fibre binding, attributed by the museum to Embu makers, consistent with hunting equipment used by this Kenyan people.",
     "featured": false
    },
    {

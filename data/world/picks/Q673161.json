@@ -3,10 +3,26 @@
  "label": "Bouyei people",
  "name": "Bouyei",
  "judged": 0,
- "cached": 19,
+ "cached": 6,
  "cost_usd": 0,
  "ranked": {
   "garment": [
+   {
+    "source": "bm",
+    "id": "A_As1982-24-20",
+    "name": "shirt",
+    "kind": "shirt",
+    "title": "shirt",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_1/13_13/4ef0a2ef_48f2_4630_9265_ae1c00d8e3fc/preview_AS1982_24_20front.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a black cotton woman’s shirt with blue embroidered decoration around the neckline, consistent with a Bouyei garment. It is a complete, clearly presented traditional garment.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "A_As1984-06-9",
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A pair of straw sandals attributed to the Bouyei people, a plausible traditional footwear item for this group's rural material culture.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -134,6 +150,56 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a black embroidered woman's apron with decorative trim at the neckline, attributed by the museum to the Bouyei ethnic group, a documented garment type among this people.",
     "featured": false
+   }
+  ],
+  "textile": [
+   {
+    "source": "bm",
+    "id": "A_As1982-24-31-d",
+    "name": "ribbon; ornament",
+    "kind": "ribbon",
+    "title": "ribbon; ornament (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_4/8_15/a890fb51_45a5_4ced_83ed_ae7101070604/preview_As1982_24_31d.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An embroidered decorative ribbon trim with a geometric floral band pattern, meant to be sewn onto clothing; the museum attributes production to the Bouyei people, consistent with such embroidered trim being used on traditional dress in this region.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1982-24-31-c",
+    "name": "ribbon; ornament",
+    "kind": "ribbon",
+    "title": "ribbon; ornament (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_4/8_15/da69d80a_f5ca_4ca4_bf98_ae7101061d64/preview_As1982_24_31cdetail.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An embroidered black cotton ribbon with a floral motif, explicitly attributed by the museum to Bouyei makers and intended for sewing onto clothing — consistent with known Bouyei decorative embroidery trim.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "A_As1982-24-31-b",
+    "name": "ribbon; ornament",
+    "kind": "ribbon",
+    "title": "ribbon; ornament (?)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_4/8_15/1d2c2b97_ef58_45c7_9334_ae7101053949/preview_As1982_24_31b.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "An embroidered black ribbon trim with floral and butterfly motifs, explicitly attributed to Bouyei makers and consistent with this people's known embroidered decorative bands for clothing.",
+    "featured": true
    }
   ],
   "household": [
@@ -185,56 +251,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Three silver finger-rings with repoussé floral/bird motifs, attributed by the museum to Bouyei women's jewelry traditions; plausible handmade silver adornment for this group.",
-    "featured": true
-   }
-  ],
-  "textile": [
-   {
-    "source": "bm",
-    "id": "A_As1982-24-31-d",
-    "name": "ribbon; ornament",
-    "kind": "ribbon",
-    "title": "ribbon; ornament (?)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_4/8_15/a890fb51_45a5_4ced_83ed_ae7101070604/preview_As1982_24_31d.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "An embroidered decorative ribbon trim with a geometric floral band pattern, meant to be sewn onto clothing; the museum attributes production to the Bouyei people, consistent with such embroidered trim being used on traditional dress in this region.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1982-24-31-c",
-    "name": "ribbon; ornament",
-    "kind": "ribbon",
-    "title": "ribbon; ornament (?)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_4/8_15/da69d80a_f5ca_4ca4_bf98_ae7101061d64/preview_As1982_24_31cdetail.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "An embroidered black cotton ribbon with a floral motif, explicitly attributed by the museum to Bouyei makers and intended for sewing onto clothing — consistent with known Bouyei decorative embroidery trim.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "A_As1982-24-31-b",
-    "name": "ribbon; ornament",
-    "kind": "ribbon",
-    "title": "ribbon; ornament (?)",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_4/8_15/1d2c2b97_ef58_45c7_9334_ae7101053949/preview_As1982_24_31b.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "textile",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "An embroidered black ribbon trim with floral and butterfly motifs, explicitly attributed to Bouyei makers and consistent with this people's known embroidered decorative bands for clothing.",
     "featured": true
    }
   ]

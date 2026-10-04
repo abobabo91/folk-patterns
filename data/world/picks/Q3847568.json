@@ -3,7 +3,7 @@
  "label": "Tongwe people",
  "name": "Tongwe",
  "judged": 0,
- "cached": 11,
+ "cached": 7,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -21,6 +21,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A wooden ladle with an incised, geometric-patterned handle and burn-blackened decoration, attributed by the museum directly to the Tongwe of Tanzania — a plausible everyday household utensil for this culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1924-1218-154",
+    "name": "cover",
+    "kind": "cover",
+    "title": "cover",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/8c9dce9f_b61b_414c_8949_a3e60144da31/preview_01606670_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade wooden cover or vessel for a milk pot, attributed by the museum as made by the Tongwe. It fits the claimed ethnicity, but not the textile category.",
     "featured": true
    },
    {
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A wooden carved ladle with incised zigzag decoration on the handle, a plausible household utensil attributed to the Tongwe people of Tanzania.",
-    "featured": true
+    "featured": false
    }
   ]
  }

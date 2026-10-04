@@ -3,7 +3,7 @@
  "label": "Lunda people",
  "name": "Lunda",
  "judged": 0,
- "cached": 43,
+ "cached": 41,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -90,22 +90,6 @@
   ],
   "arms": [
    {
-    "source": "bm",
-    "id": "E_Af1949-46-324-a",
-    "name": "club",
-    "kind": "club",
-    "title": "club",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_7/c06c2317_e8db_4a73_92d9_a75f007bde59/preview_EAF49559.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A wooden club with a carved human-head pommel and incised geometric decoration on the shaft, a weapon type made and used by the Lunda of the DRC. The museum credits Lunda manufacture directly.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_56240",
     "name": "yxa",
@@ -135,6 +119,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A wooden bow with twisted hide string and decorated grip/tips, explicitly attributed to Lunda-Chokwe makers in Sandoa, DR Congo, used both in tribal warfare and hunting — a plausible weapon type for this culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-324-a",
+    "name": "club",
+    "kind": "club",
+    "title": "club",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/24_7/c06c2317_e8db_4a73_92d9_a75f007bde59/preview_EAF49559.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A wooden club with a carved human-head pommel and incised geometric decoration on the shaft, a weapon type made and used by the Lunda of the DRC. The museum credits Lunda manufacture directly.",
     "featured": true
    },
    {
@@ -186,41 +186,7 @@
     "featured": false
    }
   ],
-  "photo": [
-   {
-    "source": "bm",
-    "id": "EA_Af-B76-26",
-    "name": "photographic print",
-    "kind": "photograph",
-    "title": "photographic print",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_7/b33c5c57_83ae_427c_9b36_a3c6007dd38e/preview_00984004_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "photo",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A documentary group photograph of Lunda men and women in traditional cloth wraps, beaded ornaments, and headgear, gathered around a seated leader — a clear ethnographic portrait of dress and social life consistent with the claimed people.",
-    "featured": true
-   }
-  ],
   "instruments": [
-   {
-    "source": "bm",
-    "id": "E_Af1902-0513-13-a",
-    "name": "sansa; rattle",
-    "kind": "sansa",
-    "title": "sansa; rattle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/f4443e3f_079c_4871_a6ba_a3e0007a2a6f/preview_01567474_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "instruments",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden lamellophone (sansa/mbira) with metal tines and a feather rattle, matching the museum's attribution of a Lunda-made instrument. This is a plausible traditional Central African instrument consistent with the claimed ethnicity.",
-    "featured": true
-   },
    {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_56237",
@@ -235,6 +201,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a wooden box-resonator sansa (lamellophone/thumb piano) with metal keys and carved decorative panel, collected in the Lunda-Kasai region of Angola and attributed to the Lunda people, a documented maker and user of this instrument type.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_56238",
+    "name": "Musikinstrument, sansa",
+    "kind": "sansa",
+    "title": "Musikinstrument, sansa",
+    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F702013%2Fzoom&type=IMAGE",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "instruments",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden sansa (lamellophone/thumb piano) with metal keys and incised geometric decoration, collected in the Lunda-Kasai region of Angola and documented as used by Lunda men — a characteristic instrument of this people.",
     "featured": true
    },
    {
@@ -302,19 +284,19 @@
     "featured": false
    },
    {
-    "source": "europeana",
-    "id": "/91608/SMVK_VKM_objekt_56238",
-    "name": "Musikinstrument, sansa",
+    "source": "bm",
+    "id": "E_Af1902-0513-13-a",
+    "name": "sansa; rattle",
     "kind": "sansa",
-    "title": "Musikinstrument, sansa",
-    "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F702013%2Fzoom&type=IMAGE",
+    "title": "sansa; rattle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/f4443e3f_079c_4871_a6ba_a3e0007a2a6f/preview_01567474_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "instruments",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "HIGH",
-    "reason": "The image shows a carved wooden sansa (lamellophone/thumb piano) with metal keys and incised geometric decoration, collected in the Lunda-Kasai region of Angola and documented as used by Lunda men — a characteristic instrument of this people.",
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden lamellophone (sansa/mbira) with metal tines and a feather rattle, matching the museum's attribution of a Lunda-made instrument. This is a plausible traditional Central African instrument consistent with the claimed ethnicity.",
     "featured": false
    },
    {
@@ -397,24 +379,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A resin/organic-material medicine mask with cowrie-like eyes, feather tufts, and pigment used at circumcision ceremonies, explicitly attributed in the museum notes to the Lunda people of Kongo-Kasai. This is a plausible ritual object matching the claimed ethnicity.",
-    "featured": true
-   }
-  ],
-  "sculpture": [
-   {
-    "source": "bm",
-    "id": "E_Af1947-24-4",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_8/18_11/c3252c5d_7398_4938_a85b_b33d00b9dddc/preview_EAF48722.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A carved wooden standing figure with elongated neck/collar detail, arms emerging from the collar, and large feet — consistent with Lunda ancestor/power figure sculpture carving traditions of the region.",
     "featured": true
    }
   ],
@@ -519,6 +483,42 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a handmade black burnished lidded clay vessel (\"mulondo\") with spout and handle, collected in Elisabethville, Congo, and attributed to the Lunda(-Lwena) region — a traditional ceramic form plausible for this people.",
+    "featured": true
+   }
+  ],
+  "photo": [
+   {
+    "source": "bm",
+    "id": "EA_Af-B76-26",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_7/b33c5c57_83ae_427c_9b36_a3c6007dd38e/preview_00984004_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A documentary group photograph of Lunda men and women in traditional cloth wraps, beaded ornaments, and headgear, gathered around a seated leader — a clear ethnographic portrait of dress and social life consistent with the claimed people.",
+    "featured": true
+   }
+  ],
+  "sculpture": [
+   {
+    "source": "bm",
+    "id": "E_Af1947-24-4",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_8/18_11/c3252c5d_7398_4938_a85b_b33d00b9dddc/preview_EAF48722.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A carved wooden standing figure with elongated neck/collar detail, arms emerging from the collar, and large feet — consistent with Lunda ancestor/power figure sculpture carving traditions of the region.",
     "featured": true
    }
   ]

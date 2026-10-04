@@ -768,6 +768,26 @@ onboarded with Maya and Betsimisaraka (their picks were already judged). A
 candidates at about 8–10 s each and raised them from 58/44/32/24/22 to
 95/85/47/40/28 kept. The index went to 17,871 objects in 460 cultures.
 
+Unclassified candidates (2026-10-04): 2,381 world-list candidates had an object
+name the kind mapping left without a category. `_KIND_FIX` in
+`scripts/world_peoples.py` now maps 722 of them from the name alone (plaque 214,
+altar-tusk and models to sculpture; baton, wand, cross to masks-ritual; canoe,
+dice, gaming pieces to household; ahuayo and spindles to textile; snowshoes and
+plumes to garment). The other 1,659 stay out: samples, plant and animal remains,
+money, medicine and food are not material culture to show, and about 150 names
+("artefact", empty, "Föremål", "visual representation") say nothing about the object.
+
+Leftover batch lo1 (2026-10-04): 268 candidates had stayed unjudged inside the
+10-per-category window, 92 of them because ceres.mcu.es (Museo Nacional de
+Antropología, Madrid) failed to download: 403 in the cloud and, locally, Python
+did not trust its Spanish state root. `AC RAIZ FNMT-RCM`, exported from the
+Windows root store, is now in `scripts/certs/extra-intermediates.pem`. Local
+Codex judged 187 of the 194 still in the window (162 kept, 25 dropped; 7 Met and
+culturalia.ro images failed to download), adding 155 kept objects across 72
+peoples. Kept objects already in the library do not count toward the 10 tries,
+so after each load a rerun reaches the next candidates; a `pick` rerun is not a
+leftover-only operation.
+
 **Current coverage (2026-10-02):** `scripts/_vet_status.py` reports 18,740/18,740
 library records judged, 17,838 accepted and 902 dropped. The site index has
 17,684 objects in 450 cultures. This is model-based visual review of all library

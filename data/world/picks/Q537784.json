@@ -3,7 +3,7 @@
  "label": "Nuu-chah-nulth people",
  "name": "Nuu-chah-nulth",
  "judged": 0,
- "cached": 59,
+ "cached": 47,
  "cost_usd": 0,
  "ranked": {
   "garment": [
@@ -184,6 +184,22 @@
     "featured": false
    },
    {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1066933",
+    "name": "hatt",
+    "kind": "hat",
+    "title": "hatt",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1242470/1904.19.0186.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "garment",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a finely woven spruce-root hat with a bold painted totemic design; although the museum notes the woven form follows a northern (Haida/Tlingit) style, it states the painting is typical of Nuu-chah-nulth work and that the hat was likely painted and used by the Nuu-chah-nulth, providing specific attribution beyond mere country of origin.",
+    "featured": false
+   },
+   {
     "source": "bm",
     "id": "E_Am1976-03-75",
     "name": "hat",
@@ -229,22 +245,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A classic twined conical hat with painted crest design in the whale-hunting hat style typical of Nuu-chah-nulth/Nootkan basketry hats, matching the record's attribution.",
-    "featured": false
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1066933",
-    "name": "hatt",
-    "kind": "hat",
-    "title": "hatt",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1242470/1904.19.0186.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "garment",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a finely woven spruce-root hat with a bold painted totemic design; although the museum notes the woven form follows a northern (Haida/Tlingit) style, it states the painting is typical of Nuu-chah-nulth work and that the hat was likely painted and used by the Nuu-chah-nulth, providing specific attribution beyond mere country of origin.",
     "featured": false
    },
    {
@@ -603,6 +603,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Am-NWC-48",
+    "name": "barkcloth-beater",
+    "kind": "beater",
+    "title": "barkcloth-beater",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_8/9_15/347f5b41_d59b_48c6_b177_ad7f00f760e8/preview_am_nwc_48__a_.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a traditional barkcloth beater made from whalebone, identified as made by the Nuu-chah-nulth and used to process cedar bark, so it fits the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Am1954-05-1040-a-b",
     "name": "sinker; fish-hook",
     "kind": "sinker",
@@ -615,22 +631,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a fishing line/leader with a lead sinker and a composite lure/hook made of gut, feathers and beads, attributed to Nuu-chah-nulth make — a plausible fishing tool for this coastal fishing people.",
-    "featured": false
-   },
-   {
-    "source": "bm",
-    "id": "E_Am-NWC-47",
-    "name": "barkcloth-beater",
-    "kind": "beater",
-    "title": "barkcloth-beater",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_3/21_16/561c13a3_1368_4ca7_93cb_afcc0116f320/preview_am_nwc_47.jpg",
-    "judge": "pick:claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a carved whalebone barkcloth beater with a ridged handle and carved head at one end, matching the museum's attribution to the Nuu-chah-nulth, a Pacific Northwest Coast people who made and used such tools.",
     "featured": false
    },
    {
@@ -727,6 +727,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A circular basketry mat with concentric dyed geometric patterns, a well-documented Nuu-chah-nulth craft using twined grass with colored designs. Though catalogued as \"textile,\" it is basketry, matching the museum's attribution to Nuu-chah-nulth makers.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-NWC-47",
+    "name": "barkcloth-beater",
+    "kind": "beater",
+    "title": "barkcloth-beater",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_3/21_16/561c13a3_1368_4ca7_93cb_afcc0116f320/preview_am_nwc_47.jpg",
+    "judge": "pick:claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a carved whalebone barkcloth beater with a ridged handle and carved head at one end, matching the museum's attribution to the Nuu-chah-nulth, a Pacific Northwest Coast people who made and used such tools.",
     "featured": false
    },
    {
@@ -953,6 +969,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a slat-and-cord wooden cuirass, a documented form of body armour made by Nuu-chah-nulth and neighbouring Northwest Coast peoples, matching the claimed ethnicity and category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-NWC-89",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_16/bdbea950_4b0d_4de5_a1c6_a3b901140a29/preview_00209242_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows three traditional knives with iron blades and wrapped wooden or hide handles, consistent with the museum’s attribution as Nuu-chah-nulth-made arms. The objects are clearly visible and fit the claimed ethnicity.",
     "featured": false
    },
    {
@@ -1440,6 +1472,72 @@
     "featured": false
    }
   ],
+  "jewelry": [
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1008269",
+    "name": "necklace",
+    "kind": "necklace",
+    "title": "necklace",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1246101/1898.08.0013.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A dentalium shell necklace with red and purple flannel spacers, collected in 1898 on the Northwest Coast (Nootka/Nuu-chah-nulth per catalogue provenance to British Columbia); dentalium shell ornaments are characteristic Northwest Coast adornment used for necklaces and nose piercings, consistent with the claimed people.",
+    "featured": true
+   },
+   {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1008763",
+    "name": "prydnad, ornament",
+    "kind": "ornament",
+    "title": "prydnad, ornament",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1246893/1904.19.0164.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The ornament is made of dentalium shells strung with glass trade beads, a classic Northwest Coast personal adornment used for necklaces, earrings, and nose ornaments; dentalium was especially valued among Nuu-chah-nulth and neighbouring Northwest Coast peoples, consistent with the museum's provenance note.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1979-22-13-a-b",
+    "name": "ear-ring",
+    "kind": "earring",
+    "title": "ear-ring",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_21/c46164ef_e7e3_42df_9f38_a3d70162aec3/preview_01094275_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Pair of woven miniature hat-shaped earrings in twined grass/raffia with whale and boat motifs, directly attributed to Nuu-chah-nulth makers by the museum, consistent with known Nuu-chah-nulth woven hat-earring craft.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1981-25-94",
+    "name": "ornament",
+    "kind": "ornament",
+    "title": "ornament",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/d7fa3279_323e_47f2_9b06_a3be01196eb5/preview_00448372_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a pair of finely beaded miniature bottle-form ornaments made of woven grass with beadwork, attributed by the museum to the Tseshaht (a Nuu-chah-nulth group), matching the claimed ethnicity well.",
+    "featured": true
+   }
+  ],
   "photo": [
    {
     "source": "bm",
@@ -1519,72 +1617,6 @@
     "quality": 3,
     "confidence": "HIGH",
     "reason": "Documentary photo of three elderly Kyuquot (a Nuu-chah-nulth group) people in traditional dress with blanket, seated at Kyuquot Sound, Vancouver Island — a genuine ethnographic portrait fitting the claimed people.",
-    "featured": true
-   }
-  ],
-  "jewelry": [
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1008269",
-    "name": "necklace",
-    "kind": "necklace",
-    "title": "necklace",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1246101/1898.08.0013.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A dentalium shell necklace with red and purple flannel spacers, collected in 1898 on the Northwest Coast (Nootka/Nuu-chah-nulth per catalogue provenance to British Columbia); dentalium shell ornaments are characteristic Northwest Coast adornment used for necklaces and nose piercings, consistent with the claimed people.",
-    "featured": true
-   },
-   {
-    "source": "europeana",
-    "id": "/91619/SMVK_EM_objekt_1008763",
-    "name": "prydnad, ornament",
-    "kind": "ornament",
-    "title": "prydnad, ornament",
-    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1246893/1904.19.0164.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "The ornament is made of dentalium shells strung with glass trade beads, a classic Northwest Coast personal adornment used for necklaces, earrings, and nose ornaments; dentalium was especially valued among Nuu-chah-nulth and neighbouring Northwest Coast peoples, consistent with the museum's provenance note.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1979-22-13-a-b",
-    "name": "ear-ring",
-    "kind": "earring",
-    "title": "ear-ring",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_21/c46164ef_e7e3_42df_9f38_a3d70162aec3/preview_01094275_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Pair of woven miniature hat-shaped earrings in twined grass/raffia with whale and boat motifs, directly attributed to Nuu-chah-nulth makers by the museum, consistent with known Nuu-chah-nulth woven hat-earring craft.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1981-25-94",
-    "name": "ornament",
-    "kind": "ornament",
-    "title": "ornament",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/d7fa3279_323e_47f2_9b06_a3be01196eb5/preview_00448372_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "This is a pair of finely beaded miniature bottle-form ornaments made of woven grass with beadwork, attributed by the museum to the Tseshaht (a Nuu-chah-nulth group), matching the claimed ethnicity well.",
     "featured": true
    }
   ],

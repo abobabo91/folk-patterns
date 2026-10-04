@@ -3,7 +3,7 @@
  "label": "Arrernte",
  "name": "Arrernte",
  "judged": 0,
- "cached": 27,
+ "cached": 14,
  "cost_usd": 0,
  "ranked": {
   "household": [
@@ -72,41 +72,23 @@
     "featured": true
    }
   ],
-  "masks-ritual": [
+  "arms": [
    {
     "source": "bm",
-    "id": "E_Oc1960-10-6",
-    "name": "tool/implement; religious/ritual equipment",
-    "kind": "tool",
-    "title": "tool/implement; religious/ritual equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_4/53749bc7_6166_4870_bc91_a3d6004e52e7/preview_01056596_001.jpg",
+    "id": "E_Oc1903-0404-65",
+    "name": "shield",
+    "kind": "shield",
+    "title": "shield",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_10/5_14/c54fff7b_5300_44cb_8e1b_ac4b00f33dab/preview_EOC10535.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
+    "art_form": "arms",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A bone pointing implement (ritual object used in sorcery/punishment rites) attributed to the Aranda (Arrernte), consistent with known Central Australian Aboriginal ritual objects. This is a traditional ritual/religious tool, matching the claimed culture.",
+    "confidence": "HIGH",
+    "reason": "The image shows a solid, oval wooden shield with a carved handle, red-ochre coating, and longitudinal grooves. The metadata explicitly identifies it as made by Aranda (Arrernte), so it fits the claimed ethnicity; the correct category is arms.",
     "featured": true
    },
-   {
-    "source": "bm",
-    "id": "E_Oc1960-10-5",
-    "name": "tool/implement; religious/ritual equipment",
-    "kind": "tool",
-    "title": "tool/implement; religious/ritual equipment",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_4/645652af_7fa4_4ee1_9b8a_a3d6004e5184/preview_01056595_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "masks-ritual",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a carved wooden pointing/ritual implement with incised decoration, attributed to the Aranda (Arrernte) people — a well-known ritual object type (like a bullroarer or pointing stick) used in Central Australian Aboriginal ceremonial life.",
-    "featured": true
-   }
-  ],
-  "arms": [
    {
     "source": "bm",
     "id": "E_Oc1903-0404-77",
@@ -121,22 +103,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a wooden boomerang, a traditional weapon/tool made and used by Central Australian Aboriginal groups including the Arrernte (Aranda), consistent with the museum's attribution.",
-    "featured": true
-   },
-   {
-    "source": "bm",
-    "id": "E_Oc1903-0404-66",
-    "name": "shield",
-    "kind": "shield",
-    "title": "shield",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_10/5_14/ca3140a6_3693_4648_884f_ac4b00f346aa/preview_EOC108866.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "arms",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "Oval wooden shield coated in red ochre with a carved handle, a classic Central Australian Aboriginal shield type consistent with Arrernte (Aranda) manufacture as stated in the museum record.",
     "featured": true
    },
    {
@@ -173,6 +139,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Oc1903-0404-66",
+    "name": "shield",
+    "kind": "shield",
+    "title": "shield",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_10/5_14/ca3140a6_3693_4648_884f_ac4b00f346aa/preview_EOC108866.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "Oval wooden shield coated in red ochre with a carved handle, a classic Central Australian Aboriginal shield type consistent with Arrernte (Aranda) manufacture as stated in the museum record.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Oc1903-0404-74",
     "name": "boomerang",
     "kind": "boomerang",
@@ -185,7 +167,23 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A wooden boomerang, plano-convex in section with ochre decoration, a classic weapon of Central Australian Aboriginal groups including the Aranda/Arrernte, matching the museum's attribution.",
-    "featured": true
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Oc1933-1012-7",
+    "name": "knife",
+    "kind": "knife",
+    "title": "knife",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_4/42f23fcb_f75f_4a41_af43_a3d6004d2a33/preview_01056155_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade stone-bladed knife with a wooden handle, a plausible Arrernte (Aranda) Aboriginal weapon or tool. The object fits the claimed ethnic attribution and arms category.",
+    "featured": false
    }
   ],
   "garment": [
@@ -235,6 +233,40 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a coiled hair-string girdle, a traditional men's garment type well documented among the Arrernte (Aranda) of Central Australia; the museum record confirms Aranda manufacture.",
+    "featured": true
+   }
+  ],
+  "masks-ritual": [
+   {
+    "source": "bm",
+    "id": "E_Oc1960-10-6",
+    "name": "tool/implement; religious/ritual equipment",
+    "kind": "tool",
+    "title": "tool/implement; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_4/53749bc7_6166_4870_bc91_a3d6004e52e7/preview_01056596_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A bone pointing implement (ritual object used in sorcery/punishment rites) attributed to the Aranda (Arrernte), consistent with known Central Australian Aboriginal ritual objects. This is a traditional ritual/religious tool, matching the claimed culture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Oc1960-10-5",
+    "name": "tool/implement; religious/ritual equipment",
+    "kind": "tool",
+    "title": "tool/implement; religious/ritual equipment",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_4/645652af_7fa4_4ee1_9b8a_a3d6004e5184/preview_01056595_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved wooden pointing/ritual implement with incised decoration, attributed to the Aranda (Arrernte) people — a well-known ritual object type (like a bullroarer or pointing stick) used in Central Australian Aboriginal ceremonial life.",
     "featured": true
    }
   ],

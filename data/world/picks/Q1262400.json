@@ -3,24 +3,56 @@
  "label": "Mende people",
  "name": "Mende",
  "judged": 0,
- "cached": 75,
+ "cached": 57,
  "cost_usd": 0,
  "ranked": {
   "masks-ritual": [
    {
     "source": "bm",
-    "id": "E_Af1954-23-3496",
+    "id": "E_Af1979-01-5085",
     "name": "helmet mask",
     "kind": "mask",
     "title": "helmet mask",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/6fe45915_0396_4cdd_b6b1_a3c40168261e/preview_00905907_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/6_16/93f04a90_4cf3_48b8_a346_a3db0114deb5/preview_01255155_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
     "art_form": "masks-ritual",
     "image": "good",
     "era": "traditional",
     "quality": 5,
     "confidence": "HIGH",
-    "reason": "This is a classic Sowei/Bundu helmet mask with the layered neck rolls, small facial features, and coiffure crest characteristic of Mende women's society masquerades, matching the museum's attribution to the Mende.",
+    "reason": "The picture shows a carved wooden Sowei helmet mask with an elaborate coiffure, a distinctive ritual object made and used by Mende communities. It directly fits the claimed Mende ethnicity and masks-ritual category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1931-1120-10",
+    "name": "container",
+    "kind": "container",
+    "title": "container",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_11/75fa5320_a26d_4b5c_bca2_a3c000b855bb/preview_00547522_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a decorated Mende clay container used for medicine and associated with Leopard society, so it fits the claimed people. Its ritual use makes masks-ritual the best category rather than household.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1917-0412-3",
+    "name": "bag; medicine (protection)",
+    "kind": "bag",
+    "title": "bag; medicine (protection)",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_18/4b1a9001_f309_4807_85a2_a3bf013443e6/preview_00537421_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture clearly shows a handmade calfskin medicine/protection bag with braided leather ties and metal rings, explicitly attributed by the museum to the Mende. It fits Mende material culture, though it is a ritual object rather than ordinary household equipment.",
     "featured": true
    },
    {
@@ -41,6 +73,118 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1954-23-3488",
+    "name": "helmet mask",
+    "kind": "mask",
+    "title": "helmet mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_20/b225b8e6_6933_4515_a6d1_a3c20150f133/preview_00760212_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden Sowei/Bundu helmet mask, a distinctive ritual object made and used by Mende women’s societies in Sierra Leone. It fits the claimed Mende ethnicity and ritual-mask category.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3491",
+    "name": "helmet mask",
+    "kind": "mask",
+    "title": "helmet mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_15/6cb2cbb0_0f4e_4c03_b156_a3c40102666c/preview_00871850_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden Sowei helmet mask with attached fibre, a ritual object made by the Mende. It directly fits the claimed ethnicity and category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3497",
+    "name": "helmet mask",
+    "kind": "mask",
+    "title": "helmet mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/0d8fa274_2c2f_4c5c_9bae_a3c4016834ab/preview_00905912_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden Sowei helmet mask, a distinctive Mende ritual object with the characteristic polished face and elaborate coiffure. The metadata independently identifies it as made by the Mende, so it fits the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1938-1004-12",
+    "name": "helmet mask",
+    "kind": "mask",
+    "title": "helmet mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_13/4311be33_5be2_4939_8b81_a3dc00dcfd74/preview_01296411_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden Sowei helmet mask, a distinctive ritual object made by Mende artists and used in women’s initiation societies. It clearly fits the claimed Mende ethnicity and masks-ritual category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3494",
+    "name": "helmet mask",
+    "kind": "mask",
+    "title": "helmet mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_15/b8a914e4_7199_4ac9_aa5c_a3c401028a53/preview_00871864_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden Sowei helmet mask, a distinctive Mende ritual object with the characteristic polished face and elaborate coiffure. The metadata independently identifies it as made by the Mende, so it fits the claimed ethnicity.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3487",
+    "name": "helmet mask",
+    "kind": "mask",
+    "title": "helmet mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_20/995f6779_53ca_401e_846e_a3c20150be8a/preview_00760190_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden helmet mask with an elaborate ridged hairstyle, characteristic of Mende Sowei masks used in Sande initiation rituals. It fits the claimed Mende ethnicity and ritual-mask category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3496",
+    "name": "helmet mask",
+    "kind": "mask",
+    "title": "helmet mask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/6fe45915_0396_4cdd_b6b1_a3c40168261e/preview_00905907_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "masks-ritual",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "This is a classic Sowei/Bundu helmet mask with the layered neck rolls, small facial features, and coiffure crest characteristic of Mende women's society masquerades, matching the museum's attribution to the Mende.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1954-23-3652",
     "name": "helmet mask",
     "kind": "mask",
@@ -53,7 +197,7 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "This is a classic Sowei/Bundu society helmet mask with glossy black finish, small pursed features, neck rings, and elaborate coiffure — a well-documented Mende women's society mask type, matching the museum's attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -69,7 +213,7 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "Classic Sowei/Bundu society helmet mask with high crested coiffure, ringed neck, small facial features and cowrie-shell detailing — the well-documented Mende women's masquerade form. Matches the claimed Mende ethnicity and ritual category.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -85,7 +229,7 @@
     "quality": 5,
     "confidence": "HIGH",
     "reason": "This is a classic Sowei/Bundu society helmet mask with glossy black surface, coffered neck rings, and elaborate coiffure - a well-documented Mende women's society ritual object, and the museum explicitly attributes it to the Mende.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -123,6 +267,38 @@
   "photo": [
    {
     "source": "bm",
+    "id": "EA_Af-A69-9",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_10/e6192ecd_5642_42c4_a4e0_a3c500ae921c/preview_00929002_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph documents Mende girls wearing traditional wrappers, skirts, waist beads, adornments, and hojo body decoration, fitting the claimed Mende ethnographic subject.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-A69-17",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_9/4eaef463_3de5_4dde_9099_a3b7009f831d/preview_00044083_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The photograph documents Mende people in traditional clothing and adornment, including fibre garments and ceremonial white clay cosmetic, so it fits the claimed ethnicity as an ethnographic image.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "EA_Af-A69-5",
     "name": "photographic print",
     "kind": "photograph",
@@ -135,6 +311,22 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "Documentary photograph of a Sierra Leonean village group in traditional dress (draped cloth, wrapped headdresses, tunics) outside a thatched mud-walled house, consistent with Mende daily life and dress.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "EA_Af-A69-19",
+    "name": "photographic print",
+    "kind": "photograph",
+    "title": "photographic print",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/8eeb6f71_d8d1_45a0_80f3_a3c2011c009c/preview_00741179_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "photo",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The picture is a documentary portrait of two girls, one wearing a traditional patterned wrapper and beaded necklace, plausibly showing Mende dress and adornment; it fits the claimed ethnicity as an ethnographic photograph.",
     "featured": true
    },
    {
@@ -167,7 +359,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Documentary photograph of a thatched mud-brick house in Sierra Leone with local children and a European man, consistent with Mende vernacular architecture and daily life.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -183,10 +375,26 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "Documentary photograph of a village with circular thatched huts and figures in traditional dress at the entrance path, consistent with Sierra Leone/Mende daily life and settlement architecture.",
-    "featured": true
+    "featured": false
    }
   ],
   "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-852",
+    "name": "spoon",
+    "kind": "spoon",
+    "title": "spoon",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_6/ed213152_c0d1_49a0_a330_a3c50064ca6a/preview_00913287_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden spoon with a twisted handle ending in a hand, attributed by the museum to the Mende. It is a plausible Mende household object and fits the claimed ethnicity.",
+    "featured": true
+   },
    {
     "source": "bm",
     "id": "E_Af1956-10-4",
@@ -253,6 +461,54 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1931-1120-6",
+    "name": "hammer",
+    "kind": "hammer",
+    "title": "hammer",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/b8eede44_3ba4_4312_b605_a3c0018b1f77/preview_00576482_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a handmade metal hammer with a carved wooden handle, identified by the museum as a Mende Leopard Society object; it plausibly fits Mende material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-646",
+    "name": "stopper",
+    "kind": "stopper",
+    "title": "stopper",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_15/50a2d2b8_c91c_4267_82e6_a3c40103cc8d/preview_00872118_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female-head stopper with geometric hair patterns, attributed by the museum as Mende-made. It is a plausible traditional Mende household object, though not especially distinctive.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0607-4-b",
+    "name": "loom; spool; thread",
+    "kind": "loom",
+    "title": "loom; spool; thread",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_16/8494c505_58ff_432c_84c4_a3c20112bf3c/preview_00737993_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows a handmade wooden weaving shuttle wound with blue cotton thread, explicitly attributed by the museum to the Mende. It fits Mende household craft equipment.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1949-46-8",
     "name": "staff",
     "kind": "staff",
@@ -265,7 +521,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A wooden staff with a carved head at the top finial, attributed to Mende production; such carved staffs are a known Mende form used by officials and Sande/Poro society members. The object is plausible as Mende-made household/regalia item.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -301,22 +557,6 @@
    },
    {
     "source": "bm",
-    "id": "E_Af1937-0607-3-a",
-    "name": "loom; shuttle",
-    "kind": "loom",
-    "title": "loom; shuttle",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_16/f34c638d_6e68_4b13_bf0e_a3c20112b95d/preview_00737990_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "The image shows a wooden boat-shaped shuttle with carved decoration and part of a loom with wound thread, a weaving tool attributed to Mende makers, consistent with Mende textile production.",
-    "featured": false
-   },
-   {
-    "source": "bm",
     "id": "E_Af1959-07-2",
     "name": "wine-vessel",
     "kind": "wine vessel",
@@ -329,6 +569,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "This is a calabash palm-wine vessel with a wooden neck lashed on with cordage, a utilitarian household container documented as made by the Mende. Though calabash is a gourd rather than fired clay, it is the actual object attributed and shown clearly.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0607-3-a",
+    "name": "loom; shuttle",
+    "kind": "loom",
+    "title": "loom; shuttle",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_16/f34c638d_6e68_4b13_bf0e_a3c20112b95d/preview_00737990_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a wooden boat-shaped shuttle with carved decoration and part of a loom with wound thread, a weaving tool attributed to Mende makers, consistent with Mende textile production.",
     "featured": false
    },
    {
@@ -362,6 +618,24 @@
     "confidence": "MEDIUM",
     "reason": "A traditional wooden strip-weaving loom with partially woven cotton cloth, attributed by the museum to Mende makers in Sierra Leone — a tool used in the culture's textile production, fitting the claimed ethnicity.",
     "featured": false
+   }
+  ],
+  "metalwork": [
+   {
+    "source": "bm",
+    "id": "E_Af1931-1120-5",
+    "name": "pincers",
+    "kind": "pincers",
+    "title": "pincers",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/f8e77523_b91e_4893_b272_a3c0018b1b43/preview_00576480_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "metalwork",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The picture shows handmade iron pincers associated with the Mende Leopard Society, plausibly made and used by Mende people. The object is clearly visible, though visually plain and not highly distinctive.",
+    "featured": true
    }
   ],
   "textile": [
@@ -415,6 +689,102 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1952-10-3",
+    "name": "cloth",
+    "kind": "cloth",
+    "title": "cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/d65c1090_368b_4171_a95f_a3bf014566ec/preview_00543600_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handwoven, multistrip cotton cloth with colorful supplementary-weft patterns and fringed warp ends, matching the metadata’s attribution to Mende textile production.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1987-10-1",
+    "name": "cloth",
+    "kind": "cloth",
+    "title": "cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/9dab6929_82a1_4d09_a455_a3bf01458ec2/preview_00543623_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The image shows a handwoven, hand-sewn cotton display cloth with blue-and-white checkerboard panels and striped patterned bands. It is a plausible traditional textile made or used by Mende people, with no evidence of misattribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-11",
+    "name": "cloth",
+    "kind": "cloth",
+    "title": "cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/f98c879f_2fa6_4c39_99dd_a3bf01456061/preview_00543596_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a long, hand-woven, indigo-and-white striped cotton cloth assembled from sewn strips, matching the metadata’s attribution to Mende textile production. It is clearly visible and fits the claimed ethnicity and category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af2002-02-6",
+    "name": "cloth; blanket",
+    "kind": "cloth",
+    "title": "cloth; blanket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_14/ce46905c_5bbd_40e6_b188_a3bc00f23798/preview_00425399_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The picture shows a handwoven, multicolored striped cotton blanket with supplementary-weft geometric motifs, a textile plausibly made and used in Sierra Leone. Nothing in the image contradicts the claimed Mende attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af2002-02-4",
+    "name": "cloth; blanket",
+    "kind": "cloth",
+    "title": "cloth; blanket",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_14/186e970a_a997_4dff_b364_a3be00f3b1da/preview_00437119_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "The picture shows a hand-woven, multi-strip cotton blanket with geometric supplementary-weave decoration, a plausible traditional textile made and used by Mende people of Sierra Leone.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1937-0607-21",
+    "name": "cloth",
+    "kind": "cloth",
+    "title": "cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_14/869688c5_526a_4a73_a0e9_a3c500f29f95/preview_00948315_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a handwoven indigo-striped cloth with a fringed end, consistent with the metadata’s attribution to Mende textile production. It clearly fits the claimed ethnicity and textile category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af2002-02-5",
     "name": "cloth; blanket",
     "kind": "cloth",
@@ -427,7 +797,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A handwoven strip-cloth blanket with narrow stripes and supplementary-weave diamond motifs in a central panel, composed of narrow strips machine-sewn selvedge to selvedge — a classic West African strip-weaving construction consistent with Mende textile tradition in Sierra Leone.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -443,7 +813,7 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "The image shows a hand-woven, hand-spun cotton strip-woven hammock (kpoikpoi) with striped and patterned panels, mounted on carved wooden poles — a classic Mende textile/craft object.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -460,23 +830,39 @@
     "confidence": "HIGH",
     "reason": "A hand-woven narrow-strip cotton hammock with banded decoration and tasselled ends, a classic Mende/Sierra Leone textile craft object made and used by the people.",
     "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-12",
+    "name": "cloth",
+    "kind": "cloth",
+    "title": "cloth",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_19/b8ca6b1a_32df_4613_8fca_a3bf014563f6/preview_00543598_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "textile",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a long, hand-woven striped cotton cloth assembled from narrow strips, matching the metadata’s attribution to the Mende of Sierra Leone. It fits the claimed ethnicity and textile category.",
+    "featured": false
    }
   ],
   "sculpture": [
    {
     "source": "bm",
-    "id": "E_Af1901-0722-1",
+    "id": "E_Af1954-23-3657",
     "name": "figure",
     "kind": "figure",
     "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/f84711f9_d5ee_41cf_b3c1_a3b80125be81/preview_00319534_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_19/74f9714c_06a1_4b7c_bb29_a3c30140988e/preview_00829182_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
     "art_form": "sculpture",
     "image": "good",
     "era": "traditional",
     "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "A blackened wooden female figure with elongated neck, ringed torso, and stylized features, consistent with Mende figurative sculpture traditions of Sierra Leone; museum attributes it directly to the Mende.",
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female figure with a patterned body, head-dress, beads, and earrings; the museum identifies it as made by the Mende, so it fits the claimed ethnicity.",
     "featured": true
    },
    {
@@ -513,6 +899,150 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1948-22-1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_8/2c2a0052_2a80_4831_bb81_a3c300841dc7/preview_00783465_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden female figure associated with the Mende Bundu society, and the museum explicitly identifies it as made by Mende artists. It therefore fits the claimed ethnicity as a traditional Mende sculpture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1952-07-14",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_15/cc3d4f6e_985d_4857_a645_a3c000fc7ef6/preview_00570248_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female figure wearing a skirt and carrying a child on her back, matching the metadata’s explicit attribution to Mende makers. It fits Mende sculpture.",
+    "featured": true
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1972-01-1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/8c404150_bbf4_4133_800a_a3c101435b7f/preview_00695492_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female figure with an elaborate hairstyle, necklace, scarification, and base. The museum identifies it as made by the Mende, and it plausibly represents Mende carving traditions.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1963-13-34",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/6b923abe_34c8_4b3b_8166_a3c1013b9f79/preview_00692943_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female figure with scarification and traditional adornments, consistent with the metadata identifying it as made by the Mende. It directly fits Mende sculpture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1972-01-2",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/a75c75c2_fd1a_4f23_939c_a3c10143b4b5/preview_00695526_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female figure with a rounded headdress and scarification, consistent with Mende sculpture and explicitly attributed by the museum as made by Mende people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3656",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_19/152b696b_4d77_44d9_873f_a3c301408cac/preview_00829174_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The picture shows a carved wooden female figure with multiple neck-rings, attributed by the museum as made by the Mende; it plausibly fits Mende sculpture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3659",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_19/24464824_8e9f_4ff3_b3f3_a3c30140c02b/preview_00829202_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female figure with distinctive Mende-style features, and the museum explicitly identifies it as made by Mende artists.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1954-23-3658",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_19/f27d8056_bbd1_4f40_b579_a3c30140aabe/preview_00829191_001.jpg",
+    "judge": "pick:codex-gpt-5.6-luna",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved wooden female figure with neck rings, horns or headdress, and cloth around the pelvis, matching the museum’s attribution as Mende-made sculpture. It is a traditional object associated with Mende material culture.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Af1901-0722-1",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_17/f84711f9_d5ee_41cf_b3c1_a3b80125be81/preview_00319534_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "A blackened wooden female figure with elongated neck, ringed torso, and stylized features, consistent with Mende figurative sculpture traditions of Sierra Leone; museum attributes it directly to the Mende.",
+    "featured": false
+   },
+   {
+    "source": "bm",
     "id": "E_Af1901-0722-3",
     "name": "figure",
     "kind": "figure",
@@ -525,7 +1055,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The image shows a wooden seated female figure holding a bowl on her head, blackened surface, with geometric carved hair patterns — a classic Mende-style figure type used in carved objects/vessel-bearing figures, matching the museum's attribution to Mende makers.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -541,7 +1071,7 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "A carved wooden standing female figure with beadwork, scarification, and ritual regalia, attributed by the museum to Mende makers of Sierra Leone — consistent with known Mende figural carving traditions (related to Sande society sculpture).",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
@@ -622,6 +1152,24 @@
     "confidence": "MEDIUM",
     "reason": "A carved wooden standing female figure with scarification marks, hands on stomach, consistent with Mende sculptural traditions; museum attributes it directly to the Mende.",
     "featured": false
+   }
+  ],
+  "jewelry": [
+   {
+    "source": "bm",
+    "id": "E_Af1949-46-9-a-b",
+    "name": "armlet",
+    "kind": "armlet",
+    "title": "armlet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_18/194455d8_019c_4d51_b965_a3bf0133e35f/preview_00537442_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A solid worn ring-shaped armlet, made of hide inlaid with wire, matching the museum's attribution to a Mende chief's regalia; this fits documented Mende chiefly adornment.",
+    "featured": true
    }
   ],
   "instruments": [
@@ -801,24 +1349,6 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A curved iron sword with a wood grip and metal knob finial, attributed by the museum to Mende makers of Sierra Leone — a plausible traditional weapon type for the region.",
-    "featured": true
-   }
-  ],
-  "jewelry": [
-   {
-    "source": "bm",
-    "id": "E_Af1949-46-9-a-b",
-    "name": "armlet",
-    "kind": "armlet",
-    "title": "armlet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_18/194455d8_019c_4d51_b965_a3bf0133e35f/preview_00537442_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "jewelry",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A solid worn ring-shaped armlet, made of hide inlaid with wire, matching the museum's attribution to a Mende chief's regalia; this fits documented Mende chiefly adornment.",
     "featured": true
    }
   ],

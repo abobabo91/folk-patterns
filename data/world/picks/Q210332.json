@@ -3,7 +3,7 @@
  "label": "Haida people",
  "name": "Haida",
  "judged": 0,
- "cached": 79,
+ "cached": 67,
  "cost_usd": 0,
  "ranked": {
   "instruments": [
@@ -570,6 +570,22 @@
     "featured": false
    },
    {
+    "source": "met",
+    "id": "310362",
+    "name": "Bowl",
+    "kind": "bowl",
+    "title": "Raven Bowl",
+    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.138_b.JPG",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a wooden carved bowl in raven form with formline-style carving, characteristic Haida Northwest Coast style; museum labels it wood/paint, not ceramic. It belongs to Haida material culture but the claimed category \"ceramic\" is wrong.",
+    "featured": false
+   },
+   {
     "source": "bm",
     "id": "E_Am1898-1020-3",
     "name": "dish",
@@ -631,22 +647,6 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "A wooden chief's food bowl carved as a swimming seal, a classic Northwest Coast Haida form used for feasting; the material is wood, not ceramic, but the object itself clearly belongs to Haida material culture.",
-    "featured": false
-   },
-   {
-    "source": "met",
-    "id": "310362",
-    "name": "Bowl",
-    "kind": "bowl",
-    "title": "Raven Bowl",
-    "image_url": "https://images.metmuseum.org/CRDImages/ao/web-large/1978.412.138_b.JPG",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "This is a wooden carved bowl in raven form with formline-style carving, characteristic Haida Northwest Coast style; museum labels it wood/paint, not ceramic. It belongs to Haida material culture but the claimed category \"ceramic\" is wrong.",
     "featured": false
    },
    {
@@ -837,18 +837,18 @@
   "jewelry": [
    {
     "source": "bm",
-    "id": "E_Am1985-23-1-b",
+    "id": "E_Am1985-23-1-a",
     "name": "bracelet",
     "kind": "bracelet",
     "title": "bracelet",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_6/aee45f7a_ce6a_49b8_9a26_a3c5006bf924/preview_00915974_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_16/cb757d55_0144_4633_a9e2_a3d9011288c8/preview_01174513_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "jewelry",
     "image": "good",
     "era": "traditional",
     "quality": 5,
     "confidence": "HIGH",
-    "reason": "Silver bracelet engraved with a frog crest design in classic Northwest Coast style, explicitly attributed to Haida makers by the museum. This is a well-documented Haida art form.",
+    "reason": "The image shows a silver bracelet bearing a Haida frog crest, a form of adornment made by and associated with Haida artists. It fits the claimed ethnicity and jewelry category.",
     "featured": true
    },
    {
@@ -945,6 +945,22 @@
     "featured": false
    },
    {
+    "source": "europeana",
+    "id": "/91619/SMVK_EM_objekt_1008530",
+    "name": "prydnad, ornament",
+    "kind": "ornament",
+    "title": "prydnad, ornament",
+    "image_url": "https://collections.smvk.se/carlotta-em/web/image/zoom/4467164/1904.19.0144_1.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "The picture shows a carved and polished walrus-tusk nose ornament, an adornment associated with Haida use. It fits the claimed ethnicity and is a traditional jewelry object.",
+    "featured": false
+   },
+   {
     "source": "bm",
     "id": "E_Am1949-22-44",
     "name": "lip-plug",
@@ -973,6 +989,22 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a headdress/crown made of hide with a row of bear claws attached, a type of regalia consistent with Northwest Coast (including Haida) ceremonial dress and status adornment.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1985-23-1-b",
+    "name": "bracelet",
+    "kind": "bracelet",
+    "title": "bracelet",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_6/aee45f7a_ce6a_49b8_9a26_a3c5006bf924/preview_00915974_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "jewelry",
+    "image": "good",
+    "era": "traditional",
+    "quality": 5,
+    "confidence": "HIGH",
+    "reason": "Silver bracelet engraved with a frog crest design in classic Northwest Coast style, explicitly attributed to Haida makers by the museum. This is a well-documented Haida art form.",
     "featured": false
    },
    {
@@ -1318,22 +1350,6 @@
     "featured": true
    },
    {
-    "source": "bm",
-    "id": "E_Am-De-2",
-    "name": "smoking-pipe",
-    "kind": "pipe",
-    "title": "smoking-pipe",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_7/00b672b1_d5ed_4cf4_9162_a3c5007b7836/preview_00921677_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "This is a carved argillite pipe covered in figures, a classic Haida art form using the black slate found only near Skidegate; carving style and material are highly characteristic of Haida work.",
-    "featured": true
-   },
-   {
     "source": "europeana",
     "id": "/91619/SMVK_EM_objekt_1066446",
     "name": "skulptur, människofigur, sculpture",
@@ -1366,6 +1382,22 @@
     "featured": true
    },
    {
+    "source": "bm",
+    "id": "E_Am1954-05-1000",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_6/a8745db7_f477_4239_b887_a3c5006d02ce/preview_00916102_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved argillite figure group depicting a European man and woman, explicitly identified as made by Haida artists; it therefore fits the claimed ethnicity despite its European subject matter.",
+    "featured": true
+   },
+   {
     "source": "europeana",
     "id": "/91619/SMVK_EM_objekt_1008383",
     "name": "totembag",
@@ -1379,6 +1411,22 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "This is a miniature argillite totem pole carved by the Haida, a well-known Haida art form made for trade and collectors; it is a carved sculpture, not a textile despite the catalog category.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am-De-2",
+    "name": "smoking-pipe",
+    "kind": "pipe",
+    "title": "smoking-pipe",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_7/00b672b1_d5ed_4cf4_9162_a3c5007b7836/preview_00921677_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "This is a carved argillite pipe covered in figures, a classic Haida art form using the black slate found only near Skidegate; carving style and material are highly characteristic of Haida work.",
     "featured": false
    },
    {
@@ -1441,21 +1489,6 @@
     "quality": 4,
     "confidence": "MEDIUM",
     "reason": "The photograph shows carved totem poles in a park setting; Sitka National Historical Park displays totem poles from various Northwest Coast peoples including Haida, and the carving style shown is consistent with Haida/Tlingit tradition (the two cannot be reliably distinguished from a photo like this).",
-    "featured": false
-   },
-   {
-    "source": "bm",
-    "id": "E_Am1976-03-29",
-    "name": "figure",
-    "kind": "figure",
-    "title": "figure",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/462b0cbd_8359_472e_a88b_a3c4013c57b8/preview_00890550_001.jpg",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "MEDIUM",
-    "reason": "This is a carved stone figure depicting a bear grasping a smaller humanoid/animal figure — a subject and stone-carving tradition consistent with Haida argillite sculpture, a well-documented art form of this people.",
     "featured": false
    },
    {
@@ -1536,22 +1569,6 @@
     "featured": false
    },
    {
-    "source": "bm",
-    "id": "E_Am1914-303",
-    "name": "model; totem-pole",
-    "kind": "totem",
-    "title": "model; totem-pole",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/330f6e43_ea1e_424b_91e2_a3c401460102/preview_00894003_001.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "sculpture",
-    "image": "good",
-    "era": "traditional",
-    "quality": 4,
-    "confidence": "HIGH",
-    "reason": "A carved argillite miniature totem pole with stacked crest figures, a classic Haida art form made specifically for this purpose, directly attributed to the Haida by the museum.",
-    "featured": false
-   },
-   {
     "source": "europeana",
     "id": "/91608/SMVK_VKM_objekt_14381",
     "name": "totempåle",
@@ -1565,6 +1582,53 @@
     "quality": 4,
     "confidence": "HIGH",
     "reason": "This is a carved wooden totem pole with stacked crest figures (bird/eagle, bear-like figure with human face, and a figure with claws/legs) from the Queen Charlotte Islands, the Haida homeland, consistent with traditional Haida monumental carving.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am2003-12-1-a-b",
+    "name": "totem-pole; model",
+    "kind": "totem-pole",
+    "title": "totem-pole; model",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_21/6832ad50_7abc_41d9_b48e_a3c4015c7588/preview_00901906_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "The image shows a carved Haida argillite model totem pole with bird and bear figures, a sculpture made by the claimed people. Its broken condition does not affect the attribution.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1976-03-29",
+    "name": "figure",
+    "kind": "figure",
+    "title": "figure",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/462b0cbd_8359_472e_a88b_a3c4013c57b8/preview_00890550_001.jpg",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "MEDIUM",
+    "reason": "This is a carved stone figure depicting a bear grasping a smaller humanoid/animal figure — a subject and stone-carving tradition consistent with Haida argillite sculpture, a well-documented art form of this people.",
+    "featured": false
+   },
+   {
+    "source": "bm",
+    "id": "E_Am1914-303",
+    "name": "model; totem-pole",
+    "kind": "totem",
+    "title": "model; totem-pole",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_19/330f6e43_ea1e_424b_91e2_a3c401460102/preview_00894003_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "sculpture",
+    "image": "good",
+    "era": "traditional",
+    "quality": 4,
+    "confidence": "HIGH",
+    "reason": "A carved argillite miniature totem pole with stacked crest figures, a classic Haida art form made specifically for this purpose, directly attributed to the Haida by the museum.",
     "featured": false
    },
    {

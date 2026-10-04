@@ -3,7 +3,7 @@
  "label": "Kalenjin people",
  "name": "Kalenjin",
  "judged": 0,
- "cached": 16,
+ "cached": 15,
  "cost_usd": 0,
  "ranked": {
   "arms": [
@@ -150,6 +150,22 @@
     "confidence": "MEDIUM",
     "reason": "The image shows a spear (pil) with an iron blade and wooden shaft, collected among the West Pokot/Suk people, who are classified within the Kalenjin cluster — a plausible weapon for this group.",
     "featured": false
+   },
+   {
+    "source": "europeana",
+    "id": "/91608/SMVK_VKM_objekt_23695",
+    "name": "pil",
+    "kind": "arrow",
+    "title": "pil",
+    "image_url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1188205/zoom",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "arms",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "HIGH",
+    "reason": "The image shows a spear (pil) with a wooden shaft and iron point, collected from the West Suk (Pokot) at Amudat during the 1953 Karamoja expedition; the Pokot are a Kalenjin-speaking people, so this is a plausible Kalenjin weapon.",
+    "featured": false
    }
   ],
   "garment": [
@@ -186,24 +202,6 @@
     "featured": true
    }
   ],
-  "household": [
-   {
-    "source": "bm",
-    "id": "E_Af1928-0712-15",
-    "name": "snuff-flask",
-    "kind": "flask",
-    "title": "snuff-flask",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_12/12_12/7d4b066e_5fab_4b4c_a524_a3ff00c9c3fc/preview_EAF42384.jpg",
-    "judge": "pick:cloud-claude-sonnet-5",
-    "art_form": "household",
-    "image": "good",
-    "era": "traditional",
-    "quality": 3,
-    "confidence": "MEDIUM",
-    "reason": "A horn snuff-flask with beaded/wire chain, a personal container of a type widely made and used by East African pastoralist groups including the Kalenjin; plausible for the claimed culture.",
-    "featured": true
-   }
-  ],
   "photo": [
    {
     "source": "bm",
@@ -219,6 +217,24 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "The image shows a documentary photo of men in traditional dance dress (leaf headdresses, body paint, beaded belts) performing in a row in front of a thatched-roof house, consistent with Kalenjin community life in Kenya.",
+    "featured": true
+   }
+  ],
+  "household": [
+   {
+    "source": "bm",
+    "id": "E_Af1928-0712-15",
+    "name": "snuff-flask",
+    "kind": "flask",
+    "title": "snuff-flask",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_12/12_12/7d4b066e_5fab_4b4c_a524_a3ff00c9c3fc/preview_EAF42384.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A horn snuff-flask with beaded/wire chain, a personal container of a type widely made and used by East African pastoralist groups including the Kalenjin; plausible for the claimed culture.",
     "featured": true
    }
   ]

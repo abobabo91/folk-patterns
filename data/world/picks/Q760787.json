@@ -3,24 +3,24 @@
  "label": "Ndau people",
  "name": "Ndau",
  "judged": 0,
- "cached": 16,
+ "cached": 5,
  "cost_usd": 0,
  "ranked": {
   "household": [
    {
     "source": "bm",
-    "id": "E_Af1931-0313-18-b",
+    "id": "E_Af1931-0313-13-b",
     "name": "stopper",
     "kind": "stopper",
     "title": "stopper",
-    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/fdeacf1e_6c33_4f3d_8501_a3df01720c29/preview_01556807_001.jpg",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/7a841ae8_f7c7_4883_8679_a3df0171f372/preview_01556794_001.jpg",
     "judge": "pick:cloud-claude-sonnet-5",
     "art_form": "household",
     "image": "good",
     "era": "traditional",
     "quality": 3,
     "confidence": "MEDIUM",
-    "reason": "A gourd stopper/container, repaired with fiber binding — a typical household object plausible for the Ndau region of Zimbabwe; no evidence contradicting the attribution.",
+    "reason": "The image shows a handmade wooden stopper or lid, a household object attributed by the museum to the Ndau. It plausibly fits Ndau material culture and no contrary evidence is visible.",
     "featured": true
    },
    {
@@ -73,6 +73,22 @@
    },
    {
     "source": "bm",
+    "id": "E_Af1931-0313-18-b",
+    "name": "stopper",
+    "kind": "stopper",
+    "title": "stopper",
+    "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/fdeacf1e_6c33_4f3d_8501_a3df01720c29/preview_01556807_001.jpg",
+    "judge": "pick:cloud-claude-sonnet-5",
+    "art_form": "household",
+    "image": "good",
+    "era": "traditional",
+    "quality": 3,
+    "confidence": "MEDIUM",
+    "reason": "A gourd stopper/container, repaired with fiber binding — a typical household object plausible for the Ndau region of Zimbabwe; no evidence contradicting the attribution.",
+    "featured": true
+   },
+   {
+    "source": "bm",
     "id": "E_Af1931-0313-11-a",
     "name": "container; divination equipment",
     "kind": "divination container",
@@ -85,7 +101,7 @@
     "quality": 3,
     "confidence": "MEDIUM",
     "reason": "A gourd container wrapped in fur/hide with metal-wire and cord binding, used as part of divination equipment — a plausible everyday/ritual household-type object from the Ndau region, matching the museum's attribution.",
-    "featured": true
+    "featured": false
    },
    {
     "source": "bm",
