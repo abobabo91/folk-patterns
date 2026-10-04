@@ -175,11 +175,41 @@ def _ml_variants(qid: str, label: str) -> list[str]:
 
     for value in variants(label):
         add(value)
+    # Wikidata aliases include common words and other peoples' names ("Santa"
+    # for Dongxiang, "Congo" for Americo-Liberian, "Wind" for Kaw, "Lera" for
+    # Hutu; sampled 2026-10-04, they inflated counts to 4,000-14,000). A foreign
+    # name is kept only when the consonant skeleton of the English name appears
+    # in it, so tjuvasjer, tšuvassit, csuvasok and чуваши stay for Chuvash.
+    roots = {_skeleton(v)[:3] for v in variants(label)}
+    names = {_fold(v) for v in variants(label)}
     for lang_values in (cached.get(qid) or {}).values():
         for value in lang_values or []:
             for v in variants(str(value)):
-                add(v)
+                sk = _skeleton(v)
+                # A root under 2 consonants ("Hutu" -> "t") matches almost
+                # anything; then the folded English name itself must appear.
+                if any((len(r) >= 2 and r in sk) or (len(r) < 2 and any(n in _fold(v) for n in names)) for r in roots):
+                    add(v)
     return out
+
+
+_CYR = dict(zip("абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
+                ["a", "b", "v", "g", "d", "e", "e", "zh", "z", "i", "i", "k", "l", "m", "n", "o", "p", "r", "s", "t",
+                 "u", "f", "kh", "ts", "ch", "sh", "shch", "", "y", "", "e", "yu", "ya"]))
+_SKEL_SUBS = [("tsch", "c"), ("tch", "c"), ("tsh", "c"), ("tj", "c"), ("ts", "c"), ("cs", "c"), ("ch", "c"), ("cz", "c"),
+              ("sch", "s"), ("sh", "s"), ("sj", "s"), ("sz", "s"), ("zh", "s"), ("kh", "k"), ("ph", "f"), ("th", "t"),
+              ("w", "v"), ("q", "k"), ("x", "k"), ("d", "t"), ("b", "p"), ("g", "k"), ("z", "s"), ("j", ""), ("y", ""), ("h", "")]
+
+
+def _skeleton(s: str) -> str:
+    """Consonants of a name, with common transliteration spellings merged."""
+    t = _fold(s)
+    t = "".join(_CYR.get(c, c) for c in t)
+    t = re.sub(r"[^a-z]", "", t)
+    for a_, b_ in _SKEL_SUBS:
+        t = t.replace(a_, b_)
+    t = re.sub(r"[aeiou]", "", t)
+    return re.sub(r"(.)+", r"", t)
 
 
 def cmd_labels() -> None:
@@ -288,19 +318,30 @@ def cmd_europeana(multilingual: bool = False) -> None:
     source = "europeana_ml" if multilingual else "europeana"
     done = _done(source)
     english = _counts("europeana") if multilingual else {}
+    # Multilingual names cost ~20 queries each: only for items the classifier
+    # called a living people (religions, ancient tribes and institutions skipped).
+    living = ({k for k, d in json.loads((OUT / "classified.json").read_text(encoding="utf-8")).items() if d.get("people")}
+              if multilingual and (OUT / "classified.json").exists() else None)
     todo = [(k, l) for k, l in _names()
-            if k not in done and (not multilingual or max((english.get(k) or {}).get("hits", {}).values() or [0]) < 30)]
+            if k not in done and (living is None or k in living)
+            and (not multilingual or max((english.get(k) or {}).get("hits", {}).values() or [0]) < 30)]
     label = "europeana multilingual" if multilingual else "europeana"
     print(f"{label}: {len(todo)} names to count ({len(done)} cached)", flush=True)
     out_path = OUT / f"counts_{source}.jsonl"
     with httpx.Client(timeout=60) as cl, open(out_path, "a", encoding="utf-8") as f:
         for i, (k, l) in enumerate(todo):
             hits, provs = {}, {}
-            names = _ml_variants(k, l) if multilingual else variants(l)
+            if multilingual:
+                # One OR query per 12 names: one request instead of ~20 per people,
+                # and an object named twice is counted once.
+                vs = [v.replace('"', "") for v in _ml_variants(k, l)]
+                names = [" OR ".join(f'"{v}"' for v in vs[n:n + 12]) for n in range(0, len(vs), 12)]
+            else:
+                names = [f'"{v}"' for v in variants(l)]
             for v in names:
                 try:
                     j = cl.get("https://api.europeana.eu/record/v2/search.json", params={
-                        "wskey": key, "query": f'"{v}"', "rows": 0, "media": "true", "reusability": "open,permission",
+                        "wskey": key, "query": v, "rows": 0, "media": "true", "reusability": "open,permission",
                         "qf": "TYPE:IMAGE", "profile": "facets", "facet": "DATA_PROVIDER",
                         "f.DATA_PROVIDER.facet.limit": 100}).json()
                 except (httpx.HTTPError, ValueError) as e:
@@ -685,7 +726,12 @@ Entries:
 {entries}
 """
 
+# Codex structured output needs an object at the top level, not an array.
 CLASSIFY_SCHEMA = {
+    "type": "object",
+    "required": ["entries"],
+    "additionalProperties": False,
+    "properties": {"entries": {
     "type": "array",
     "items": {
         "type": "object",
@@ -699,6 +745,7 @@ CLASSIFY_SCHEMA = {
         },
         "additionalProperties": False,
     },
+    }},
 }
 
 
@@ -754,7 +801,10 @@ def cmd_classify(threshold: int, backend: str = "claude", all_min_sitelinks: int
             if backend == "codex":
                 from folk_patterns.codex_cli import ask
                 reply = ask(prompt, schema=CLASSIFY_SCHEMA, timeout=600)
-                result = reply if isinstance(reply, str) else json.dumps(reply, ensure_ascii=False)
+                parsed = json.loads(reply) if isinstance(reply, str) else reply
+                if isinstance(parsed, dict):
+                    parsed = parsed.get("entries", [])
+                result = json.dumps(parsed, ensure_ascii=False)
                 ev = {"batch": i, "backend": backend, "cost_usd": 0, "total_cost_usd": 0, "result": result}
             else:
                 mcp = Path(tempfile.gettempdir()) / "empty_mcp.json"
@@ -1729,7 +1779,7 @@ if __name__ == "__main__":
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
     ap.add_argument("--refill", action="store_true", help="harvest: re-fetch in full the peoples that hit the page cap")
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
-    ap.add_argument("--threshold", type=int, default=30)
+    ap.add_argument("--threshold", type=int, default=6)  # 6: the museum-evidence floor the list was built with; 30 drops 239 listed peoples
     ap.add_argument("--multilingual", action="store_true", help="europeana: query cached Wikidata names in 19 languages")
     ap.add_argument("--backend", choices=["claude", "codex"], default="claude", help="classify: local subscription backend")
     ap.add_argument("--all-min-sitelinks", type=int, default=0, help="classify: include every Wikidata item at this sitelink threshold")
