@@ -11,13 +11,17 @@ import { existsSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join, resolve } from 'node:path';
 
+// The public mirror includes ethnicity/object shards and the optional
+// unvetted/ shards; scrape caches and vetting transcripts remain private.
+
 const here = dirname(fileURLToPath(import.meta.url));
 const siteRoot = resolve(here, '..');
 const src = resolve(siteRoot, '..', 'data');
 const dst = join(siteRoot, 'public', 'data');
 const FILES = ['index.json', 'globe.json'];
 const DIRS = ['ethnicities', 'objects'];
-const KEEP = new Set([...FILES, ...DIRS, 'world-countries.geojson']);
+const OPTIONAL_DIRS = ['unvetted'];
+const KEEP = new Set([...FILES, ...DIRS, ...OPTIONAL_DIRS, 'world-countries.geojson']);
 
 if (!existsSync(src)) {
   console.log(`skip: ${src} does not exist, using public/data as uploaded`);
@@ -32,4 +36,8 @@ for (const d of DIRS) {
   await rm(join(dst, d), { recursive: true, force: true });
   await cp(join(src, d), join(dst, d), { recursive: true });
 }
-console.log(`synced ${FILES.length} files and ${DIRS.join(', ')} from ${src}`);
+for (const d of OPTIONAL_DIRS) {
+  await rm(join(dst, d), { recursive: true, force: true });
+  if (existsSync(join(src, d))) await cp(join(src, d), join(dst, d), { recursive: true });
+}
+console.log(`synced ${FILES.length} files and ${[...DIRS, ...OPTIONAL_DIRS].join(', ')} from ${src}`);

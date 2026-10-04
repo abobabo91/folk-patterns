@@ -48,6 +48,22 @@ export interface FolkwaysEntry {
   record_url: string | null;
 }
 
+export interface UnvettedItem {
+  id: string;
+  source: string;
+  title: string;
+  image: string;
+  object_url: string;
+}
+
+export interface UnvettedShard {
+  ethnicity_key: string;
+  people_key: string;
+  count: number;
+  buckets: Record<string, UnvettedItem[]>;
+  other: UnvettedItem[];
+}
+
 export interface EthnicityShard {
   key: string;
   region: string;
@@ -57,6 +73,7 @@ export interface EthnicityShard {
   homeland_place: string | null;
   seed_traditions: string[];
   object_count: number;
+  unvetted_count?: number;
   writeup_markdown: string | null;
   art_form_buckets: Record<string, SlimObject[]>;
   // media enrichment (optional — sidecars may be missing)

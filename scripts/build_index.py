@@ -498,6 +498,14 @@ def build() -> None:
 
     # Per-ethnicity shard
     shown_count: dict[str, int] = {}
+    unvetted_counts: dict[str, int] | None = None
+    _unvetted_index = DATA_DIR / "unvetted" / "index.json"
+    if _unvetted_index.exists():
+        try:
+            loaded_unvetted = json.loads(_unvetted_index.read_text(encoding="utf-8"))
+            unvetted_counts = loaded_unvetted if isinstance(loaded_unvetted, dict) else {}
+        except (OSError, json.JSONDecodeError):
+            unvetted_counts = {}
     for key, meta in eth_meta.items():
         objs = objects_by_eth.get(key) or []
         # bucket by art_form
@@ -647,6 +655,8 @@ def build() -> None:
             "unesco_ich": media.get("unesco_ich", []),
             "folkways": media.get("folkways", []),
         }
+        if unvetted_counts is not None:
+            shard["unvetted_count"] = int(unvetted_counts.get(key, 0) or 0)
         (out_root / "ethnicities" / f"{key}.json").write_text(
             json.dumps(shard, indent=2, ensure_ascii=False), encoding="utf-8"
         )

@@ -154,6 +154,13 @@ per candidate: key, category, source, id, status, reason), which is committed,
 so the record survives the gitignored logs. `not_reached` is a candidate the
 pick never tried: the 10-per-category cap, or a BM candidate in a run without
 `BM_CDP_URL`. A judged candidate is not judged again: reruns read the cache.
+
+**Unreviewed objects.** Culture pages can show a separate, collapsed set of
+museum candidates matched to a people by text only. Resolve and build it with
+`python scripts/unvetted.py resolve --only KEY` and
+`python scripts/unvetted.py build`; images are hotlinked from the museums and
+these candidates are not counted in the vetted object totals.
+
 The 2026-09-29 replay over the 155 picked peoples, and what it found about
 the "multiple peoples" rule, is in `docs/vetting.md` → "Pick coverage".
 
