@@ -1,14 +1,40 @@
 {
   "ethnicity_key": "east-asia__taiwan__yami",
   "people_key": "Q706528",
-  "count": 1,
-  "buckets": {},
+  "count": 4,
+  "buckets": {
+    "sculpture": [
+      {
+        "id": "A_As1926-0215-1",
+        "source": "bm",
+        "title": "figure",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_11/7454d57e_eb8d_4f38_bbbb_a3c100b83236/preview_00634268_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1926-0215-1"
+      },
+      {
+        "id": "A_As1926-0215-2_1",
+        "source": "bm",
+        "title": "figure",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_11/ebdaa7d7_a8a4_417b_b4e2_a3c100b82a34/preview_00634262_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1926-0215-2_1"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "A_As1910-1207-10",
+        "source": "bm",
+        "title": "necklace",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/9a27b4db_5a15_4be3_ba5b_a3b9007ae872/preview_00349638_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-1207-10"
+      }
+    ]
+  },
   "other": [
     {
       "id": "/91609/SMVK_VKM_fotografi_112709",
       "source": "europeana",
       "title": "Yami, festhattar, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/500202/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F500202%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112709"
     }
   ]

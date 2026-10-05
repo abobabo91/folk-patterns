@@ -1,15 +1,61 @@
 {
   "ethnicity_key": "north-america__united-states__hidatsa",
   "people_key": "Q503333",
-  "count": 2,
+  "count": 8,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Am-B40-33",
+        "source": "bm",
+        "title": "stereoscope photograph (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/b5143de9_df55_49fa_a774_a3c10140f814/preview_00694682_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B40-33"
+      },
+      {
+        "id": "EA_Am-A38-43",
+        "source": "bm",
+        "title": "photographic print (black and white); album",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_13/5395d5bf_0acb_4907_8fc4_a3c100dff071/preview_00652308_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-A38-43"
+      },
+      {
+        "id": "EA_Am-B47-1",
+        "source": "bm",
+        "title": "photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_21/cd4db511_9aa7_4346_a2a7_a3c1015b652b/preview_00702109_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B47-1"
+      }
+    ],
+    "arms": [
+      {
+        "id": "E_Am-5204",
+        "source": "bm",
+        "title": "bow",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/13_14/ba6858b8_da80_496c_937f_a9b500f06411/preview_am_5204__a_.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am-5204"
+      }
+    ],
     "garment": [
       {
         "id": "/91608/SMVK_VKM_objekt_14330",
         "source": "europeana",
         "title": "mockasin, Mockasiner",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1071477/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1071477%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14330"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_30979_inventary_CE19492_table_FMUS_museum_MNA",
+        "source": "europeana",
+        "title": "Mocasín",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE19492_SEQ_002_P.JPG%26Ninv%3DCE19492&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_30979_inventary_CE19492_table_FMUS_museum_MNA"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_30980_inventary_CE19493_table_FMUS_museum_MNA",
+        "source": "europeana",
+        "title": "Mocasín",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE19493_SEQ_002_P.JPG%26Ninv%3DCE19493&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_30980_inventary_CE19493_table_FMUS_museum_MNA"
       }
     ]
   },
@@ -18,7 +64,7 @@
       "id": "/91608/SMVK_VKM_objekt_14331",
       "source": "europeana",
       "title": "Mocaksiner, mockasin",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1071481/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1071481%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14331"
     }
   ]

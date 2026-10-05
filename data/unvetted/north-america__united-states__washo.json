@@ -1,24 +1,55 @@
 {
   "ethnicity_key": "north-america__united-states__washo",
   "people_key": "Q1456583",
-  "count": 2,
+  "count": 6,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Am-B73-161",
+        "source": "bm",
+        "title": "postcard (black &amp; white); photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/9008de1d_4f98_4c00_b020_a3c700a507e0/preview_01030836_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B73-161"
+      },
+      {
+        "id": "EA_Am-B73-167",
+        "source": "bm",
+        "title": "postcard (black &amp; white); photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/88fe5992_d511_4cd0_9278_a3c700a537ca/preview_01030906_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B73-167"
+      }
+    ],
     "household": [
+      {
+        "id": "E_Am1949-02-23",
+        "source": "bm",
+        "title": "basket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/3a87190f_468f_4da9_a76b_a3bc006f9301/preview_00391308_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1949-02-23"
+      },
       {
         "id": "/91608/SMVK_VKM_objekt_16995",
         "source": "europeana",
         "title": "sil",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155233/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155233%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16995"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_16999",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155229/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155229%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16999"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "E_Am2003-01-1",
+      "source": "bm",
+      "title": "bowl; decorated gourd",
+      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_10/fbb35b08_89ad_4bfd_bc48_a3b600abc9f1/preview_00193414_001.jpg",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am2003-01-1"
+    }
+  ]
 }

@@ -1,21 +1,30 @@
 {
   "ethnicity_key": "latin-america__paraguay__sanapana",
   "people_key": "Q3436520",
-  "count": 5,
+  "count": 6,
   "buckets": {
+    "textile": [
+      {
+        "id": "E_Am1896-498",
+        "source": "bm",
+        "title": "bag",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2016_2/5_10/acefb69c_cada_475a_80e9_a5a300afd695/preview_1896_498__a_.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1896-498"
+      }
+    ],
     "garment": [
       {
         "id": "/91608/SMVK_VKM_objekt_101739",
         "source": "europeana",
         "title": "mantel, mantle, manto",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2237387/1926.20.0013.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2237387%2F1926.20.0013.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_101739"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_31440",
         "source": "europeana",
         "title": "mantel, mantle, manto",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2250712/1926.20.0012.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2250712%2F1926.20.0012.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31440"
       }
     ]
@@ -25,21 +34,21 @@
       "id": "/91608/SMVK_VKM_objekt_101738",
       "source": "europeana",
       "title": "Sanapana, bälte",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1041165/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1041165%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_101738"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_3590",
       "source": "europeana",
       "title": "Sanapana, bälte",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/604285/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F604285%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_3590"
     },
     {
       "id": "/91627/SMVK_EM_fotografi_2467287",
       "source": "europeana",
       "title": "väska, porträtt, fåglar, mantel, man, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2467290/0176.0009.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2467290%2F0176.0009.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2467287"
     }
   ]

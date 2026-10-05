@@ -1,8 +1,31 @@
 {
   "ethnicity_key": "north-america__united-states__arikara",
   "people_key": "Q1256681",
-  "count": 5,
+  "count": 7,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Am-G-N-2313",
+        "source": "bm",
+        "title": "photographic print (black and white); glass negative",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_22/1ae3e316_1362_48fd_a71a_a3c10174affc/preview_00710821_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-G-N-2313"
+      },
+      {
+        "id": "EA_Am-B40-32",
+        "source": "bm",
+        "title": "stereoscope photograph (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/32ccad82_32ae_4162_8000_a3c10140f973/preview_00694683_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B40-32"
+      },
+      {
+        "id": "EA_Am-G-N-2257",
+        "source": "bm",
+        "title": "photographic print (black and white); glass negative",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_20/1640ed13_7c54_46d1_a02d_a3c101556d6c/preview_00698993_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-G-N-2257"
+      }
+    ],
     "garment": [
       {
         "id": "319150",
@@ -17,17 +40,8 @@
         "id": "/91608/SMVK_VKM_objekt_15148",
         "source": "europeana",
         "title": "Bull boat, båt: bull-boat",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2409708/1938.08.0001.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2409708%2F1938.08.0001.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15148"
-      }
-    ],
-    "arms": [
-      {
-        "id": "/2048221/europeana_fashion_667562",
-        "source": "europeana",
-        "title": "Kruittas en kruithoorn",
-        "image": "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/RV/RV-710-7.jpg",
-        "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_667562"
       }
     ]
   },
@@ -36,14 +50,14 @@
       "id": "/91608/SMVK_VKM_objekt_14152",
       "source": "europeana",
       "title": "klubba, Stridsklubb",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2806548/1930.21.0001_4.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2806548%2F1930.21.0001_4.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14152"
     },
     {
       "id": "/91609/SMVK_VKM_fotografi_114462",
       "source": "europeana",
       "title": "målning, reproduktion, Konstverk, art",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/507846/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F507846%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_114462"
     }
   ]

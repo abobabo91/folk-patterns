@@ -1,14 +1,41 @@
 {
   "ethnicity_key": "latin-america__mexico__huave",
   "people_key": "Q611921",
-  "count": 2,
+  "count": 5,
   "buckets": {
+    "masks-ritual": [
+      {
+        "id": "E_Am1978-15-265",
+        "source": "bm",
+        "title": "mask",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_17/193987fb_22cf_4a60_8bc6_a3b5011925b6/preview_00147301_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1978-15-265"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "E_Am1986-06-341-a-b",
+        "source": "bm",
+        "title": "drum",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_11/8d6c189f_3f16_49c3_be5c_a3e100c2e035/preview_00101503_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1986-06-341-a-b"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "E_Am1978-15-60",
+        "source": "bm",
+        "title": "necklace",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_17/f71b9620_8e2d_40ed_a203_a3b50126bf87/preview_00150834_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1978-15-60"
+      }
+    ],
     "textile": [
       {
         "id": "/91608/SMVK_VKM_objekt_28679",
         "source": "europeana",
         "title": "textil, cloth",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2328282/1962.60.0001.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2328282%2F1962.60.0001.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_28679"
       }
     ]
@@ -18,7 +45,7 @@
       "id": "/91608/SMVK_VKM_objekt_18596",
       "source": "europeana",
       "title": "bältesvävstol, vävstol, fabric, Telar",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1117445/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1117445%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_18596"
     }
   ]

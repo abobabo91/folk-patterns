@@ -1,8 +1,17 @@
 {
   "ethnicity_key": "oceania__papua-new-guinea__iatmul",
   "people_key": "Q3147375",
-  "count": 5,
+  "count": 8,
   "buckets": {
+    "architectural": [
+      {
+        "id": "E_Oc1964-06-1",
+        "source": "bm",
+        "title": "house-post",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/a1c69dd2_f98e_4639_969e_a3c600f48abf/preview_01019744_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1964-06-1"
+      }
+    ],
     "instruments": [
       {
         "id": "311262",
@@ -10,14 +19,28 @@
         "title": "Sacred Slit Gong (Waken)",
         "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20791-001.jpg",
         "object_url": "https://www.metmuseum.org/art/collection/search/311262"
+      },
+      {
+        "id": "311263",
+        "source": "met",
+        "title": "Sacred Slit Gong (Waken)",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-20792-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/311263"
       }
     ],
     "household": [
       {
+        "id": "311978",
+        "source": "met",
+        "title": "Debating Stool (Kawa Rigit)",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP145505.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/311978"
+      },
+      {
         "id": "/91608/SMVK_VKM_objekt_11380",
         "source": "europeana",
         "title": "paddel, Paddel., paddle",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2190321/image.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2190321%2Fimage.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11380"
       }
     ],
@@ -26,7 +49,7 @@
         "id": "/91619/SMVK_EM_objekt_1235150",
         "source": "europeana",
         "title": "sculpture",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2172692/1915.02.0554_alt5.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2172692%2F1915.02.0554_alt5.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1235150"
       }
     ]
@@ -36,14 +59,14 @@
       "id": "/91619/SMVK_EM_objekt_1229206",
       "source": "europeana",
       "title": "mask, gavelmask, gable mask",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1328394/1915.02.0537.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1328394%2F1915.02.0537.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1229206"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1234869",
       "source": "europeana",
       "title": "Wooden Pressure",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1255761/1915.02.1313.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1255761%2F1915.02.1313.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1234869"
     }
   ]

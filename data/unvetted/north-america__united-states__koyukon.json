@@ -1,14 +1,56 @@
 {
   "ethnicity_key": "north-america__united-states__koyukon",
   "people_key": "Q1389123",
-  "count": 1,
-  "buckets": {},
+  "count": 6,
+  "buckets": {
+    "household": [
+      {
+        "id": "E_Am-4933_1",
+        "source": "bm",
+        "title": "tobacco-pipe",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_14/ee4ebcb6_db0b_414a_ae02_a3da00e913f7/preview_01209058_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am-4933_1"
+      },
+      {
+        "id": "E_Am-4932_1",
+        "source": "bm",
+        "title": "tobacco-pipe",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_14/9abb1fbb_3aae_4d2b_a8c6_a3da00e910db/preview_01209056_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am-4932_1"
+      }
+    ],
+    "garment": [
+      {
+        "id": "E_Am-4935_1",
+        "source": "bm",
+        "title": "snow-spectacles",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_13/c27a3e84_ccb9_42e5_bdfc_a3da00e51a9d/preview_01207072_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am-4935_1"
+      }
+    ],
+    "arms": [
+      {
+        "id": "E_Am-4931-b",
+        "source": "bm",
+        "title": "sheath",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_22/a0e79cde_3c0d_4c87_b9c2_a3d7016dd241/preview_01096439_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am-4931-b"
+      }
+    ]
+  },
   "other": [
+    {
+      "id": "E_Am-4934_1",
+      "source": "bm",
+      "title": "snow-goggles; snow-spectacles",
+      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_9/46e55d84_dcec_4a4a_96f4_a3c6009db9f0/preview_00993367_001.jpg",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am-4934_1"
+    },
     {
       "id": "/2021009/_B0F2C3D3066B1F8ED91CF36482DA2532",
       "source": "europeana",
       "title": "käpy",
-      "image": "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=697097&size=extra_large&org=43094",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D697097%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/2021009/_B0F2C3D3066B1F8ED91CF36482DA2532"
     }
   ]

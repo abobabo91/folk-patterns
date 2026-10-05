@@ -1,24 +1,54 @@
 {
   "ethnicity_key": "sub-saharan-africa__liberia__gola",
   "people_key": "Q1534501",
-  "count": 4,
+  "count": 8,
   "buckets": {
+    "masks-ritual": [
+      {
+        "id": "E_Af1973-24-1",
+        "source": "bm",
+        "title": "helmet mask",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_22/9af99a86_ea32_426e_b7fd_a3c10177fef4/preview_00711921_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1973-24-1"
+      },
+      {
+        "id": "E_Af1954-23-3495",
+        "source": "bm",
+        "title": "head-dress; mask (?); gbetu (?)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/14_15/cca99be9_6104_400a_abe7_aa1000fbe26b/preview_EAF7329.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-3495"
+      },
+      {
+        "id": "E_Af1953-25-2",
+        "source": "bm",
+        "title": "helmet mask",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_16/b5887146_6e57_4a9f_a45c_a3bf010e89d7/preview_00527946_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1953-25-2"
+      }
+    ],
+    "household": [
+      {
+        "id": "E_Af1908-355-a",
+        "source": "bm",
+        "title": "fire-steel",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/1_13/6c04e176_0ed5_4a8b_ada6_aa0300d655a3/preview_EAF1723.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-355-a"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_43462",
+        "source": "europeana",
+        "title": "Träkam, kam",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1194449%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43462"
+      }
+    ],
     "jewelry": [
       {
         "id": "/91608/SMVK_VKM_objekt_43471",
         "source": "europeana",
         "title": "Bronsring, ring",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2406922/1971.31.0002.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2406922%2F1971.31.0002.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43471"
-      }
-    ],
-    "household": [
-      {
-        "id": "/91608/SMVK_VKM_objekt_43462",
-        "source": "europeana",
-        "title": "Träkam, kam",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1194449/zoom",
-        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43462"
       }
     ]
   },
@@ -27,14 +57,14 @@
       "id": "/91608/SMVK_VKM_objekt_43477",
       "source": "europeana",
       "title": "ring, Bronsring",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2406952/1971.31.0003.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2406952%2F1971.31.0003.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43477"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_43434",
       "source": "europeana",
       "title": "figur, Träskulptur, sculpture, figurine",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1194445/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1194445%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43434"
     }
   ]

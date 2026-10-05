@@ -1,21 +1,58 @@
 {
   "ethnicity_key": "sub-saharan-africa__guinea__kuranko",
   "people_key": "Q924230",
-  "count": 2,
+  "count": 7,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Af-B44-4",
+        "source": "bm",
+        "title": "photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/5ba1ae03_d014_483a_9eb0_a3b700cc3d27/preview_00060414_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B44-4"
+      },
+      {
+        "id": "EA_Af-B44-2",
+        "source": "bm",
+        "title": "photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/310607e7_cced_4dad_9511_a3b700cbedd5/preview_00060211_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B44-2"
+      },
+      {
+        "id": "EA_Af-B44-3",
+        "source": "bm",
+        "title": "photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/f1ea2eec_2250_438c_804f_a3b700cbf80d/preview_00060219_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B44-3"
+      },
+      {
+        "id": "EA_Af-B44-1",
+        "source": "bm",
+        "title": "photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/9cc8fa21_444c_42fc_a483_a3b700cc2c43/preview_00060187_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B44-1"
+      }
+    ],
     "garment": [
+      {
+        "id": "E_Af1971-03-1",
+        "source": "bm",
+        "title": "head-dress",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_11/53ef3be4_27f7_4736_9c20_a3c500c540fc/preview_00936361_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-03-1"
+      },
       {
         "id": "/91608/SMVK_VKM_objekt_53958",
         "source": "europeana",
         "title": "huvudbonad, head gear",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2372100/1957.07.0025.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2372100%2F1957.07.0025.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_53958"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_53988",
         "source": "europeana",
         "title": "huvudbonad, head gear",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1104089/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1104089%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_53988"
       }
     ]

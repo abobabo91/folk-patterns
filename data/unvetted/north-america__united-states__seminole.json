@@ -1,24 +1,47 @@
 {
   "ethnicity_key": "north-america__united-states__seminole",
   "people_key": "Q474202",
-  "count": 7,
+  "count": 10,
   "buckets": {
-    "textile": [
-      {
-        "id": "/2048221/europeana_fashion_662090",
-        "source": "europeana",
-        "title": "Bandelier bag",
-        "image": "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/RV/RV-524-5.jpg",
-        "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_662090"
-      }
-    ],
     "household": [
+      {
+        "id": "E_Am1980-32-1",
+        "source": "bm",
+        "title": "ladle",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_6/4d06f565_e924_4eb9_a0e8_a3b70066ea0c/preview_00030851_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1980-32-1"
+      },
       {
         "id": "/91608/SMVK_VKM_objekt_16784",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1110474/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1110474%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16784"
+      }
+    ],
+    "garment": [
+      {
+        "id": "E_Am1977-28-9",
+        "source": "bm",
+        "title": "skirt",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_17/955c1e2f_bd3e_4fd9_8959_a3e1011e780e/preview_00117445_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1977-28-9"
+      },
+      {
+        "id": "E_Am1977-28-10",
+        "source": "bm",
+        "title": "jacket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_21/70772ebf_7f73_43da_b499_a3b8015c9806/preview_00333681_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1977-28-10"
+      }
+    ],
+    "photo": [
+      {
+        "id": "EA_Am-A30-39",
+        "source": "bm",
+        "title": "photographic print (black and white); album",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_8/fb519b65_be01_4467_8f1e_a3c1008bd882/preview_00621040_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-A30-39"
       }
     ]
   },
@@ -27,35 +50,35 @@
       "id": "/91619/SMVK_EM_objekt_1611192",
       "source": "europeana",
       "title": "benskallra",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/4569993/1910.11.0099_1.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F4569993%2F1910.11.0099_1.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1611192"
     },
     {
       "id": "/91619/SMVK_EM_objekt_2037854",
       "source": "europeana",
       "title": "reproduktion, tavla, painting, Osceola",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2109106/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2109106%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_2037854"
     },
     {
       "id": "/91627/SMVK_EM_fotografi_2876152",
       "source": "europeana",
       "title": "dräkt, familj, indian, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2876155/0321.d.0024.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2876155%2F0321.d.0024.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2876152"
     },
     {
       "id": "/91627/SMVK_EM_fotografi_2876162",
       "source": "europeana",
       "title": "dräkt, man, indian, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2876165/0321.d.0026.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2876165%2F0321.d.0026.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2876162"
     },
     {
       "id": "/91627/SMVK_EM_fotografi_2876157",
       "source": "europeana",
       "title": "man, indian, kvinna, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2876160/0321.d.0025.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2876160%2F0321.d.0025.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2876157"
     }
   ]

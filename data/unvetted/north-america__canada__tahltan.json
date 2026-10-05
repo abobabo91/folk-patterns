@@ -1,8 +1,40 @@
 {
   "ethnicity_key": "north-america__canada__tahltan",
   "people_key": "Q36550",
-  "count": 2,
+  "count": 6,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Am-B56-100",
+        "source": "bm",
+        "title": "postcard; photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/a4d8acf5_e70f_4bac_8cbc_a3c600ecb25a/preview_01017348_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B56-100"
+      },
+      {
+        "id": "EA_Am-B56-101",
+        "source": "bm",
+        "title": "postcard; photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/77ae5825_d98d_4d00_90fe_a3c600ecb790/preview_01017351_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B56-101"
+      },
+      {
+        "id": "EA_Am-B56-99",
+        "source": "bm",
+        "title": "postcard; photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/b93a041a_c427_46be_a787_a3c600eca3a7/preview_01017339_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B56-99"
+      }
+    ],
+    "textile": [
+      {
+        "id": "E_Am1980-11-2",
+        "source": "bm",
+        "title": "bag",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2016_7/19_14/6038f219_d090_4f10_b662_a64800f586d2/preview_1980_am_11_2__a_.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1980-11-2"
+      }
+    ],
     "metalwork": [
       {
         "id": "319235",
@@ -15,7 +47,7 @@
         "id": "/91608/SMVK_VKM_objekt_12730",
         "source": "europeana",
         "title": "Kniv, gehäng",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1001409/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1001409%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_12730"
       }
     ]

@@ -1,8 +1,84 @@
 {
   "ethnicity_key": "north-america__united-states__cayuga",
   "people_key": "Q210334",
-  "count": 12,
+  "count": 17,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Am-B44-21",
+        "source": "bm",
+        "title": "photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/758af090_a9b8_4101_802f_a3c101470722/preview_00696776_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B44-21"
+      },
+      {
+        "id": "EA_Am-B56-151",
+        "source": "bm",
+        "title": "postcard (black &amp; white with colour); photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/ef8ff32e_8908_420d_9c6e_a3c600ef3f60/preview_01018122_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B56-151"
+      },
+      {
+        "id": "EA_Am-B44-22",
+        "source": "bm",
+        "title": "postcard; photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_20/9a6f59fe_b9a5_4232_b556_a3c101535d1c/preview_00698351_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B44-22"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "E_Am1896-15",
+        "source": "bm",
+        "title": "ornament",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2024_10/8_9/41e77a25_e31d_4b6b_b949_b20300a485f1/preview_am1896___15.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1896-15"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1314633",
+        "source": "europeana",
+        "title": "brosch, brooch",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3165492%2F1911.04.0052_alt4.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314633"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1314647",
+        "source": "europeana",
+        "title": "brosch, brooch",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3165472%2F1911.04.0049_alt4.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314647"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1314648",
+        "source": "europeana",
+        "title": "brosch, brooch",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3165482%2F1911.04.0050_alt4.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314648"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1314650",
+        "source": "europeana",
+        "title": "brosch, brooch",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1331851%2F1911.04.0051_alt.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314650"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1314686",
+        "source": "europeana",
+        "title": "Brooch",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3165392%2F1910.11.0050_alt4.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314686"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "E_Am1976-03-128",
+        "source": "bm",
+        "title": "model; mask",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_21/86496378_cff5_4a35_9b63_a3df0165a90b/preview_01552776_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1976-03-128"
+      }
+    ],
     "household": [
       {
         "id": "29584",
@@ -12,49 +88,12 @@
         "object_url": "https://www.metmuseum.org/art/collection/search/29584"
       }
     ],
-    "jewelry": [
-      {
-        "id": "/91619/SMVK_EM_objekt_1314633",
-        "source": "europeana",
-        "title": "brosch, brooch",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3165492/1911.04.0052_alt4.jpg",
-        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314633"
-      },
-      {
-        "id": "/91619/SMVK_EM_objekt_1314647",
-        "source": "europeana",
-        "title": "brosch, brooch",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3165472/1911.04.0049_alt4.jpg",
-        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314647"
-      },
-      {
-        "id": "/91619/SMVK_EM_objekt_1314648",
-        "source": "europeana",
-        "title": "brosch, brooch",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3165482/1911.04.0050_alt4.jpg",
-        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314648"
-      },
-      {
-        "id": "/91619/SMVK_EM_objekt_1314650",
-        "source": "europeana",
-        "title": "brosch, brooch",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1331851/1911.04.0051_alt.jpg",
-        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314650"
-      },
-      {
-        "id": "/91619/SMVK_EM_objekt_1314686",
-        "source": "europeana",
-        "title": "Brooch",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3165392/1910.11.0050_alt4.jpg",
-        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314686"
-      }
-    ],
     "ceramic": [
       {
         "id": "/91619/SMVK_EM_objekt_1169966",
         "source": "europeana",
         "title": "kärl, vessel",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1169968/1910.11.0036.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1169968%2F1910.11.0036.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1169966"
       }
     ]
@@ -64,35 +103,35 @@
       "id": "/91619/SMVK_EM_objekt_1611158",
       "source": "europeana",
       "title": "sharp",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/4569965/1910.11.0026_1.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F4569965%2F1910.11.0026_1.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1611158"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1314631",
       "source": "europeana",
       "title": "Brooch, Brooch, an ya",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1331860/1911.04.0047_alt.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1331860%2F1911.04.0047_alt.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314631"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1314632",
       "source": "europeana",
       "title": "Brooch, Brooch, an ya",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3165462/1911.04.0048_alt4.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3165462%2F1911.04.0048_alt4.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314632"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1314651",
       "source": "europeana",
       "title": "Brooch, Brooch, Anýaska",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3165402/1910.11.0051_alt4.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3165402%2F1910.11.0051_alt4.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314651"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1314690",
       "source": "europeana",
       "title": "brosch, brooch, anyáskalist",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3165422/1910.11.0054_alt4.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3165422%2F1910.11.0054_alt4.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314690"
     }
   ]

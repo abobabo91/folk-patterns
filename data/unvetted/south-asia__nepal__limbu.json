@@ -1,14 +1,24 @@
 {
   "ethnicity_key": "south-asia__nepal__limbu",
   "people_key": "Q2668355",
-  "count": 1,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "household": [
+      {
+        "id": "A_As1992-18-2",
+        "source": "bm",
+        "title": "cradle",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_0/8af04f1b_f4b1_4162_983f_a3bb0004b911/preview_00278399_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1992-18-2"
+      }
+    ]
+  },
   "other": [
     {
       "id": "/2021009/_0228A58D0E5A79DA2BAA703EB0518B07",
       "source": "europeana",
       "title": "dhaka",
-      "image": "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=621307&size=extra_large&org=43094",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D621307%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/2021009/_0228A58D0E5A79DA2BAA703EB0518B07"
     }
   ]

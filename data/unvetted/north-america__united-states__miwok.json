@@ -1,14 +1,46 @@
 {
   "ethnicity_key": "north-america__united-states__miwok",
   "people_key": "Q1940863",
-  "count": 1,
+  "count": 5,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Am-B73-160",
+        "source": "bm",
+        "title": "postcard (black &amp; white); photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/7bff835c_12c7_45af_a375_a3c700a49ed5/preview_01030782_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B73-160"
+      },
+      {
+        "id": "EA_Am-B73-163",
+        "source": "bm",
+        "title": "postcard (black &amp; white); photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/185f8e96_88a5_4882_986c_a3c700a4fe9b/preview_01030881_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B73-163"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "E_Am-VAN-199",
+        "source": "bm",
+        "title": "ornament; head-band",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/21_15/9dde723d_9c37_4a6e_b23e_a943010741b6/preview_am_VAN_199__a_.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am-VAN-199"
+      }
+    ],
     "household": [
+      {
+        "id": "E_Am-VAN-189",
+        "source": "bm",
+        "title": "basket; bowl",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/b837fee3_797a_4ade_b6ff_a3be011b897e/preview_00449083_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am-VAN-189"
+      },
       {
         "id": "/91608/SMVK_VKM_objekt_15204",
         "source": "europeana",
         "title": "vagga, crib, cot, cradle",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155265/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155265%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15204"
       }
     ]

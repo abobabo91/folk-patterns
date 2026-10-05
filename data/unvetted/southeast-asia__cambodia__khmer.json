@@ -1,21 +1,54 @@
 {
   "ethnicity_key": "southeast-asia__cambodia__khmer",
   "people_key": "Q201028",
-  "count": 2,
-  "buckets": {},
+  "count": 6,
+  "buckets": {
+    "garment": [
+      {
+        "id": "A_As1962-02-1",
+        "source": "bm",
+        "title": "skirt",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_18/60c9f1dc_d56b_4682_9114_a3b90131d949/preview_00216536_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1962-02-1"
+      },
+      {
+        "id": "A_As1962-02-2-a",
+        "source": "bm",
+        "title": "skirt",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_21/f81c037a_ea9e_46d6_9028_a3b8016a25e1/preview_00337630_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1962-02-2-a"
+      },
+      {
+        "id": "A_As1962-02-2-b",
+        "source": "bm",
+        "title": "skirt",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_21/614cc160_87aa_4183_b285_a3b8016a1af7/preview_00337624_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1962-02-2-b"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "A_Franks-3103",
+        "source": "bm",
+        "title": "pot (with lid)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2024_4/16_12/fa4756a7_7342_4dc5_b257_b15400d439c1/preview_DSC_0080.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_Franks-3103"
+      }
+    ]
+  },
   "other": [
     {
       "id": "/91627/SMVK_EM_fotografi_2286708",
       "source": "europeana",
       "title": "vykort, bygata, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2286711/0623.0001.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2286711%2F0623.0001.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2286708"
     },
     {
       "id": "/91609/SMVK_VKM_fotografi_1316729",
       "source": "europeana",
       "title": "föremål, statyett, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1317379/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1317379%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1316729"
     }
   ]

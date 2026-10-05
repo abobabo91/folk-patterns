@@ -1,24 +1,52 @@
 {
   "ethnicity_key": "north-america__united-states__mono",
   "people_key": "Q2983801",
-  "count": 2,
+  "count": 6,
   "buckets": {
+    "household": [
+      {
+        "id": "E_Am1976-04-1",
+        "source": "bm",
+        "title": "baby-carrier",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_15/93512df7_e3d8_4bdc_b1bb_a3e00102d1c9/preview_01602841_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1976-04-1"
+      },
+      {
+        "id": "E_Am1976-01-1",
+        "source": "bm",
+        "title": "sifter",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/558a4ae8_7db8_43dc_baf7_a3bc006f8edf/preview_00391306_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1976-01-1"
+      },
+      {
+        "id": "E_Am1976-01-6",
+        "source": "bm",
+        "title": "stirrer",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2021_8/25_13/719c6181_567c_4925_9161_ad8f00db797b/preview_am1976_01_6__a_.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1976-01-6"
+      },
+      {
+        "id": "E_Am1900-131",
+        "source": "bm",
+        "title": "basket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2024_10/3_13/f427e814_80bd_4b74_a5db_b1fe00e4ed18/preview_am1900___131__a_.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1900-131"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_15268",
+        "source": "europeana",
+        "title": "pipa, Tobakspipa",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1066345%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15268"
+      }
+    ],
     "ceramic": [
       {
         "id": "/91608/SMVK_VKM_objekt_15269",
         "source": "europeana",
         "title": "Lerkärl, kärl",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1156609/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1156609%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15269"
-      }
-    ],
-    "household": [
-      {
-        "id": "/91608/SMVK_VKM_objekt_15268",
-        "source": "europeana",
-        "title": "pipa, Tobakspipa",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1066345/zoom",
-        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15268"
       }
     ]
   },

@@ -25,10 +25,12 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
 from datetime import date
 from pathlib import Path
 from typing import Iterable
+from urllib.parse import urlencode
 
 import httpx
 
@@ -166,6 +168,7 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
     processed = 0
     resolved = 0
     bm_refreshed = False
+    met_failures = 0
 
     def record(key: str, obj: dict, detail: dict | None, error: str = "", status: str = "") -> None:
         nonlocal resolved
@@ -225,6 +228,23 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
                         error = type(exc).__name__
                     if detail and HUMAN_REMAINS_RE.search(str(detail.get("title") or "")):
                         error = "human remains"
+                    if source == "met":
+                        # Unthrottled, the Met API failed every request after ~2,000
+                        # in a row (2026-10-04) and answered again minutes later. An
+                        # error status (raised by _detail) is left uncached so a rerun
+                        # retries it; an object without an open image is cached as such.
+                        time.sleep(0.25)
+                        if error:
+                            met_failures += 1
+                            if met_failures % 10 == 0:
+                                # The Met sits behind Imperva, which blocks the session
+                                # cookie; a fresh client answered at once (2026-10-05).
+                                print(f"Met: {met_failures} errors in a row ({error}), new client after 30 s", flush=True)
+                                http.close()
+                                time.sleep(30)
+                                http = httpx.Client(timeout=45, follow_redirects=True, headers=UA)
+                            continue
+                        met_failures = 0
                     record(key, obj, detail, error, status)
                     if processed % 25 == 0:
                         print(f"resolved {processed} candidates ({resolved} cache lines added)", flush=True)
@@ -351,7 +371,9 @@ _COUNTRY_ALIASES = {
     "Serbia": "Republic of Serbia",
 }
 # Island states too small for the 1:110m country polygons.
-_COUNTRY_POINTS = {"Samoa": (-13.76, -172.1), "Tonga": (-21.18, -175.2)}
+_EUROPEAN_RUSSIA = (59.0, 42.0)
+_NORTH_CAUCASUS = (43.2, 45.0)
+_COUNTRY_POINTS = {"Samoa": (-13.76, -172.1), "Tonga": (-21.18, -175.2), "Maldives": (3.2, 73.22)}
 
 
 def _country_centroid(country: str, geojson_path: Path | None = None) -> tuple[float, float] | None:
@@ -453,6 +475,12 @@ def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dic
         print(f"  country polygon miss: {candidate.get('key')} {country}", flush=True)
         return None
     region = country_regions.get(_norm(country)) or _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
+    # Russia's atlas cultures are Siberian, so its majority region and its
+    # centroid put Komi, Udmurts and Vepsians in Siberia and the Avars there too.
+    if country == "Russia" and "caucasus" in str(candidate.get("region") or "").casefold():
+        centroid = _NORTH_CAUCASUS
+    elif country == "Russia" and str(candidate.get("continent") or "") == "Europe":
+        region, centroid = "europe", _EUROPEAN_RUSSIA
     name = _stub_name(candidate)
     lat, lon = centroid
     dlat, dlon = _stub_jitter(str(candidate.get("key") or name))
@@ -465,6 +493,15 @@ def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dic
         "lat": max(-90, min(90, round(lat + dlat, 5))),
         "lon": round(lon + dlon, 5),
     }
+
+
+def _tile_image(source: str, image_url: str) -> str:
+    """Europeana objects show through Europeana's own thumbnail service: some
+    providers' originals need a login (every Finnish Heritage Agency image
+    answered 401 on 2026-10-05) while the thumbnail of the same URL loads."""
+    if source != "europeana" or image_url.startswith("https://api.europeana.eu/thumbnail/"):
+        return image_url
+    return "https://api.europeana.eu/thumbnail/v2/url.json?" + urlencode({"uri": image_url, "type": "IMAGE", "size": "w400"})
 
 
 def _object_url(source: str, oid: str) -> str:
@@ -545,7 +582,7 @@ def cmd_build(only: list[str]) -> None:
                 item = {
                     "id": oid, "source": source,
                     "title": cached.get("title") or obj.get("name") or "",
-                    "image": cached["image_url"], "object_url": _object_url(source, oid),
+                    "image": _tile_image(source, cached["image_url"]), "object_url": _object_url(source, oid),
                 }
                 if category == "unclassified":
                     other.append(item)

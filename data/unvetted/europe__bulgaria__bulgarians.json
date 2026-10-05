@@ -1,7 +1,64 @@
 {
   "ethnicity_key": "europe__bulgaria__bulgarians",
   "people_key": "Q133255",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 7,
+  "buckets": {
+    "metalwork": [
+      {
+        "id": "H_Eu1995-04-12-a-b",
+        "source": "bm",
+        "title": "clasp",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_16/241cf904_b196_463d_b444_a3c301177b32/preview_00817060_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1995-04-12-a-b"
+      }
+    ],
+    "garment": [
+      {
+        "id": "158993",
+        "source": "met",
+        "title": "Shirt",
+        "image": "https://images.metmuseum.org/CRDImages/is/web-large/21.185_front_CP4.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/158993"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "501036",
+        "source": "met",
+        "title": "Kemenche",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.418front.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/501036"
+      },
+      {
+        "id": "501049",
+        "source": "met",
+        "title": "Kaval",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/201770.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/501049"
+      },
+      {
+        "id": "501107",
+        "source": "met",
+        "title": "Gusle",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS68A.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/501107"
+      },
+      {
+        "id": "501537",
+        "source": "met",
+        "title": "Kaval",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/201824.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/501537"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "H_Eu1997-09-1",
+      "source": "bm",
+      "title": "token",
+      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/9a347cbd_9245_431b_8425_a3c4012e07fe/preview_00885633_001.jpg",
+      "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1997-09-1"
+    }
+  ]
 }

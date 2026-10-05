@@ -1,7 +1,54 @@
 {
   "ethnicity_key": "europe__bulgaria__pomaks",
   "people_key": "Q38915",
-  "count": 0,
-  "buckets": {},
+  "count": 6,
+  "buckets": {
+    "garment": [
+      {
+        "id": "H_Eu1998-02-12",
+        "source": "bm",
+        "title": "coat",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_18/e00ac6e9_69e9_40db_96b8_a3b9012c568a/preview_00215237_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1998-02-12"
+      },
+      {
+        "id": "H_Eu1995-03-29",
+        "source": "bm",
+        "title": "apron",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_18/f1c763fc_08fe_4f65_be6a_a3b9012cee17/preview_00215346_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1995-03-29"
+      },
+      {
+        "id": "H_Eu2004-01-1-a-b",
+        "source": "bm",
+        "title": "sock (a pair)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_3/531a659a_aa29_41ab_a015_a3bb003ce1cf/preview_00295891_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/H_Eu2004-01-1-a-b"
+      },
+      {
+        "id": "H_Eu1995-03-31",
+        "source": "bm",
+        "title": "apron",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_1/4ad8230a_d831_41a5_aecb_a3bb001b8d16/preview_00285931_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1995-03-31"
+      },
+      {
+        "id": "H_Eu1997-01-13",
+        "source": "bm",
+        "title": "sock",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_18/977d4ab8_3542_4475_b5db_a3b9012c304b/preview_00215166_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1997-01-13"
+      }
+    ],
+    "textile": [
+      {
+        "id": "H_Eu1995-03-57",
+        "source": "bm",
+        "title": "towel",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_19/1ce6cbdc_99ca_4e4b_9965_a3b901442659/preview_00221306_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/H_Eu1995-03-57"
+      }
+    ]
+  },
   "other": []
 }

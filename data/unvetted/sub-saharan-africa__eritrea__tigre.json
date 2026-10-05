@@ -1,36 +1,62 @@
 {
   "ethnicity_key": "sub-saharan-africa__eritrea__tigre",
   "people_key": "Q1075894",
-  "count": 4,
-  "buckets": {},
+  "count": 7,
+  "buckets": {
+    "sculpture": [
+      {
+        "id": "/2022703/pages_Main_idt_195784_inventary_CE114210_table_FMUS_museum_MT",
+        "source": "europeana",
+        "title": "Figura",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMT%26img%3D%2FMT%2Ffondos_pre%2FMTFCE114210_P.JPG%26Ninv%3DCE114210&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_195784_inventary_CE114210_table_FMUS_museum_MT"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "/91666/SMVK_EM_arkiv_25426307",
+        "source": "europeana",
+        "title": "karta",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25426311%2Ftext-Karta-Amazonas.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91666/SMVK_EM_arkiv_25426307"
+      }
+    ]
+  },
   "other": [
     {
       "id": "/91619/SMVK_EM_objekt_1295391",
       "source": "europeana",
       "title": "kaffepanna",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/3740800/1921.02.007_alt02.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3740800%2F1921.02.007_alt02.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1295391"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1017881",
       "source": "europeana",
       "title": "materialprov, sample",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1125659/1906.32.0285.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1125659%2F1906.32.0285.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1017881"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1017882",
       "source": "europeana",
       "title": "material samples,",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1125614/1906.32.0286.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1125614%2F1906.32.0286.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1017882"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1304095",
       "source": "europeana",
       "title": "skrivbräda, writing board",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1967354/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1967354%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1304095"
+    },
+    {
+      "id": "/91609/SMVK_VKM_fotografi_112549",
+      "source": "europeana",
+      "title": "Hat, Object image, drawing, drawing, drawing",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2144837%2Fimage.jpg&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112549"
     }
   ]
 }

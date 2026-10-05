@@ -1,14 +1,23 @@
 {
   "ethnicity_key": "latin-america__bolivia__tacana",
   "people_key": "Q3513576",
-  "count": 1,
+  "count": 2,
   "buckets": {
+    "jewelry": [
+      {
+        "id": "E_Am1931-0715-15",
+        "source": "bm",
+        "title": "necklace",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/16_16/21f1c30f_ce15_4d1c_bc93_a71c0107ce69/preview_ESA16657_1_.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1931-0715-15"
+      }
+    ],
     "sculpture": [
       {
         "id": "/91609/SMVK_VKM_fotografi_1976050",
         "source": "europeana",
         "title": "folding chair, role model, photograph, ph",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1976285/image.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1976285%2Fimage.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1976050"
       }
     ]

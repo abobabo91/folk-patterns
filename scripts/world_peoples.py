@@ -188,9 +188,17 @@ def _ml_variants(qid: str, label: str) -> list[str]:
                 sk = _skeleton(v)
                 # A root under 2 consonants ("Hutu" -> "t") matches almost
                 # anything; then the folded English name itself must appear.
+                if v.casefold() in _ML_COMMON_WORDS:
+                    continue
                 if any((len(r) >= 2 and r in sk) or (len(r) < 2 and any(n in _fold(v) for n in names)) for r in roots):
                     add(v)
     return out
+
+
+# Aliases that pass the skeleton test but are common words in the museums'
+# languages. "Sandal" (an alias of the Santal) kept 406 Indian sandals at
+# the Stockholm and Gothenburg museums on 2026-10-04.
+_ML_COMMON_WORDS = {"sandal"}
 
 
 _CYR = dict(zip("абвгдеёжзийклмнопрстуфхцчшщъыьэюя",
@@ -309,7 +317,8 @@ def cmd_bm(use_aliases: bool = False) -> None:
 _EU_GOOD = ("world culture", "wereldculturen", "world cultures", "ethnograph", "etnograf", "néprajz", "neprajz",
             "náprstek", "naprstek", "anthropolog", "weltmuseum", "rautenstrauch", "quai branly", "volkenkunde",
             "tropenmuseum", "asia and pacific", "finnish heritage", "volkskunde", "národopis", "narodopis",
-            "etnolog", "ethnolog", "folk", "rahva", "etnografisk", "open air museum", "skansen", "mucem")
+            "etnolog", "ethnolog", "folk", "rahva", "etnografisk", "open air museum", "skansen", "mucem",
+            "village museum", "astra national museum")
 
 
 def cmd_europeana(multilingual: bool = False) -> None:
@@ -393,10 +402,58 @@ def _people_text(r: dict) -> str:
     return ", ".join(x for x in parts if not _NOT_PEOPLE.search(x))
 
 
+# South Asian peoples named after a region: the Met and Cleveland file their
+# objects by place ("Western India, Gujarat, Kachchh"), never by people, so the
+# name match finds none. Ordered most specific first; an object goes to the first
+# people whose place it names, so Kachchh embroidery is Kutchi, not Gujarati, and
+# "Punjab Hills" painting is Pahari, not Punjabi, and "Assam, Naga Hills"
+# swords are Naga, not Assamese.
+_PLACE_PEOPLES = [
+    ("Q3303599", ["Kachchh", "Kutch"]), ("Q1130145", ["Naga Hills", "Naga"]),
+    ("Q1530167", ["Punjab Hills", "Kangra", "Chamba", "Guler", "Basohli", "Mandi"]),
+    ("Q1282294", ["Gujarat"]), ("Q854323", ["Punjab"]), ("Q402913", ["Bengal"]),
+    ("Q1196649", ["Kashmir"]), ("Q1258074", ["Sindh"]), ("Q4387218", ["Rajasthan"]),
+    ("Q1983634", ["Orissa", "Odisha"]), ("Q1287940", ["Assam"]), ("Q1265028", ["Maharashtra"]),
+    ("Q1267987", ["Kerala"]), ("Q418708", ["Andhra"]), ("Q118281", ["Karnataka", "Mysore"]),
+    ("Q173491", ["Tamil Nadu"]), ("Q201501", ["Baluchistan", "Balochistan"]), ("Q21652255", ["Ladakh"]),
+]
+# Place matches also hold court and temple art (Jain manuscripts of 1475,
+# 4th-century Kashmir sculpture, Rajput album folios; sampled 2026-10-04), so
+# they keep only objects from 1750 on that are not folios or sculpture.
+_PLACE_DROP = re.compile(r"folio|sculpture|manuscript|page from|leaf from", re.I)
+
+
+def _year(date: str) -> int | None:
+    d = str(date or "")
+    if m := re.search(r"\b(\d{4})", d):
+        return int(m.group(1))
+    if m := re.search(r"\b(\d{1,2})(?:st|nd|rd|th)\b", d):
+        return (int(m.group(1)) - 1) * 100
+    return None
+
+
+def _place_matches(rows: list[dict]) -> dict[str, list[int]]:
+    """key -> pool row positions whose people/place text names one of its places."""
+    out: dict[str, list[int]] = {k: [] for k, _ in _PLACE_PEOPLES}
+    pats = [(k, re.compile(r"\b(" + "|".join(re.escape(p) for p in ps) + r")\b")) for k, ps in _PLACE_PEOPLES]
+    for i, r in enumerate(rows):
+        text = f"{r.get('people') or ''} | {r.get('place') or ''}"
+        y = _year(r.get("date"))
+        if y is None or y < 1750 or _PLACE_DROP.search(f"{r.get('object_name') or ''} {r.get('title') or ''}"):
+            continue
+        for k, rx in pats:
+            if rx.search(text):
+                out[k].append(i)
+                break
+    return out
+
+
 def cmd_local() -> None:
     """Met and Cleveland rows already in data/pool (harvest_pool.py) whose
     people / culture field names the people, as a whole word or phrase:
     "Asmat people", "Africa, West Africa, Burkina Faso, Bwa". Free, no requests.
+    South Asian peoples named after a region also take the rows that name their
+    place (_PLACE_PEOPLES), from 1750 on and without folios or sculpture.
     -> data/world/local_objects.jsonl, one line per key with the matched objects."""
     pool = REPO / "data" / "pool"
     rows = []
@@ -406,17 +463,18 @@ def cmd_local() -> None:
                 r = json.loads(l)
             except ValueError:
                 continue
-            if r.get("people") and _people_text(r):
+            if r.get("people") or r.get("place"):
                 rows.append(r)
     # index word n-grams (1-3) of the folded people text -> row positions
     index: dict[str, set[int]] = {}
     for i, r in enumerate(rows):
-        w = re.findall(r"[^\W_]+(?:['’][^\W_]+)?", _fold(_people_text(r)).replace("-", " "))
+        w = re.findall(r"[^\W_]+(?:['’][^\W_]+)?", _fold(_people_text(r) if r.get("people") else "").replace("-", " "))
         for n in (1, 2, 3):
             for j in range(len(w) - n + 1):
                 index.setdefault(" ".join(w[j:j + n]), set()).add(i)
     al_p = OUT / "aliases.json"
     al = json.loads(al_p.read_text(encoding="utf-8")) if al_p.exists() else {}
+    by_place = _place_matches(rows)
     with open(OUT / "local_objects.jsonl", "w", encoding="utf-8") as f:
         hit = 0
         for k, l in _names():
@@ -426,6 +484,7 @@ def cmd_local() -> None:
                 key = " ".join(re.findall(r"[^\W_]+(?:['’][^\W_]+)?", _fold(v).replace("-", " ")))
                 if len(key) >= 3:
                     found |= index.get(key, set())
+            found |= set(by_place.get(k, []))
             objs = [{"source": rows[i]["source"], "id": rows[i]["id"], "name": rows[i].get("object_name") or rows[i].get("title"),
                      "people": rows[i]["people"]} for i in sorted(found)]
             f.write(json.dumps({"key": k, "label": l, "objects": objs}, ensure_ascii=False) + "\n")
@@ -435,7 +494,10 @@ def cmd_local() -> None:
 
 EU_LANGS = ["en", "sv", "nl", "de", "es", "fr", "cs", "da", "nb", "fi", "it", "pt", "pl", "hu"]
 EU_MAX = 500   # items fetched per people
-_EU_GEO_ONLY_NAMES = {"Q640090"}  # Kongo: 500 sampled hits name the country, not the people
+# Names whose Europeana hits are something else. Kongo: 500 sampled hits name the
+# country, not the people. Known but kept (2026-10-04): the 91 Tanka objects are
+# Tibetan thangkas, which Stockholm also spells "tanka".
+_EU_GEO_ONLY_NAMES = {"Q640090"}
 # the fields an object keeps: enough for the judge and for europeana._to_canonical
 _EU_FIELDS = ("id", "guid", "title", "dcCreator", "dcDescription", "dcSubject", "year", "dataProvider", "rights", "edmPreview",
               "edmIsShownBy", "edmPlaceLabel", "country", "edmType")
@@ -475,9 +537,18 @@ def cmd_europeana_objects(only: list[str]) -> None:
     letters or fewer: the short names are the ones that are common words
     elsewhere ("dan" is Dutch for "than", "mano" Spanish for "hand", "Fur" folds
     to German "für"), while Swedish museums write longer names lower-case (71 of
-    100 Inuit records say "inuit"). A provider whose name holds a double quote is
-    skipped: it breaks the query (it emptied Maya). Sámi stays thin: the records
-    say "samer", "samisk", "saame", and "Sami" is a Finnish first name.
+    100 Inuit records say "inuit"). A provider whose name holds a double quote
+    ("Dimitrie Gusti" National Village Museum) is escaped in the query; unescaped
+    it broke the query and emptied Maya. Sámi stays thin: the records say
+    "samer", "samisk", "saame", and "Sami" is a Finnish first name.
+    A museum subject tag (dcSubject, also read from dcSubjectLangAware, where
+    the Finnish Heritage Agency keeps "vepsäläiset") that names the people in
+    the variant's own case admits an object without the country check; the
+    case rule keeps out "votes" and Finnish "friisit" (friezes). Europeana's
+    automatic concepts (edmConceptLabel) count as identity but keep the country
+    check. Measured 2026-10-04: Vepsians 0 -> 76, Transylvanian Saxons 0 -> 500
+    (ASTRA, named only in concepts), Nenets 0 -> 11; Votes 37 -> 1 and Frisians
+    16 -> 1 once the case rule was added.
     dcCreator is read with the text: the Stockholm Museum of Ethnography files
     the maker culture there ("Inuit"); without it Inuit kept 21 of 500.
     The country check removes the namesakes: "Toba" is also Lake Toba (Batak
@@ -520,6 +591,10 @@ def cmd_europeana_objects(only: list[str]) -> None:
                 continue
             nrx = re.compile(r"(?<![\w-])(" + "|".join(re.escape(n) if len(n) <= 4 else "(?i:" + re.escape(n) + ")"
                                                         for n in names) + r")(?![\w-])")
+            # Tags are matched in each variant's own case: subject vocabularies write
+            # peoples as the language does ("Vepsians", "vepsäläiset") and common
+            # nouns lower-case ("votes", Finnish "friisit" = friezes).
+            trx = re.compile(r"(?<![\w-])(" + "|".join(re.escape(n) for n in names if len(n) > 4) + r")(?![\w-])")                 if any(len(n) > 4 for n in names) else None
             cs = countries.get(r["key"]) or set()
             crx = re.compile(r"\b(" + "|".join(re.escape(c) for c in sorted(cs, key=len, reverse=True)) + r")\b") if cs else None
             objs: dict[str, dict] = {}
@@ -533,10 +608,10 @@ def cmd_europeana_objects(only: list[str]) -> None:
                     print(f"  ! {n}: {type(e).__name__}", flush=True)
                     continue
                 provs = [x["label"] for fc in fj.get("facets", []) for x in fc["fields"]
-                         if any(g in x["label"].lower() for g in _EU_GOOD) and '"' not in x["label"]]
+                         if any(g in x["label"].lower() for g in _EU_GOOD)]
                 cursor = "*"
                 while provs and cursor and fetched < EU_MAX:
-                    q = f'"{n}" AND (' + " OR ".join(f'DATA_PROVIDER:"{pv}"' for pv in provs) + ")"
+                    q = f'"{n}" AND (' + " OR ".join('DATA_PROVIDER:"' + pv.replace('"', '\\"') + '"' for pv in provs) + ")"
                     try:
                         j = cl.get("https://api.europeana.eu/record/v2/search.json",
                                    params={**base, "query": q, "rows": 100, "cursor": cursor, "profile": "rich"}).json()
@@ -549,12 +624,23 @@ def cmd_europeana_objects(only: list[str]) -> None:
                     items = j.get("items") or []
                     fetched += len(items)
                     for it in items:
-                        identity = " | ".join(str(v) for k in ("title", "dcCreator", "dcDescription", "dcSubject")
+                        identity = " | ".join(str(v) for k in ("title", "dcCreator", "dcDescription", "dcSubject", "edmConceptLabel")
                                               for v in (it.get(k) or []))
                         geography = " | ".join(str(v) for k in ("edmPlaceLabel", "dcCoverage", "dcSpatial")
                                                for v in (it.get(k) or []))
                         geo = re.sub(r"\b(new|nieuw|nya|neu|nouvelle|nueva|nuova|nova)[ -]guin\w*", "", _fold(identity + " | " + geography))
-                        if it["id"] in objs or not nrx.search(identity) or not (crx and crx.search(geo)):
+                        # A museum subject tag naming the people is its own attribution, so
+                        # it needs no country: the Finnish Heritage Agency tags Vepsian cloth
+                        # "vepsäläiset" with no place. Europeana's automatic concepts
+                        # (edmConceptLabel) only count as identity and keep the country
+                        # check: they name the Transylvanian Saxons at ASTRA, but also tag
+                        # every sandal "Sandal", a Wikidata alias of the Santal.
+                        tags = " | ".join([str(v) for v in (it.get("dcSubject") or [])]
+                                         + [v for vs in (it.get("dcSubjectLangAware") or {}).values() for v in vs])
+                        tagged = bool(trx and trx.search(tags))
+                        if it["id"] in objs or not (nrx.search(identity) or tagged):
+                            continue
+                        if not tagged and not (crx and crx.search(geo)):
                             continue
                         if not (it.get("edmIsShownBy") or it.get("edmPreview")):
                             continue
@@ -875,10 +961,17 @@ def _evidence(r: dict) -> int:
     return int(r.get("bm") or 0) + int(r.get("local") or 0) + int(r.get("europeana") or 0)
 
 
+# One record is enough to show a people unreviewed: the site gets a stub only
+# when a candidate also survives europeana-objects' name and country checks and
+# resolves to an image. At 6 the floor left out 24 European and 17 South Asian
+# living peoples with 1-5 records (counted 2026-10-04).
+UNVETTED_MIN_EVIDENCE = 1
+
+
 def _unvetted_only(r: dict, queue_skips: dict[str, str] | None = None) -> bool:
     """Whether a classified, source-backed people can be shown text-only."""
     skip = (queue_skips or {}).get(str(r.get("key")), "")
-    return (not r.get("listed")) and r.get("people") is True and _evidence(r) >= 6 and (not skip or skip == "nation")
+    return (not r.get("listed")) and r.get("people") is True and _evidence(r) >= UNVETTED_MIN_EVIDENCE and (not skip or skip == "nation")
 
 
 def _site_region(continent: str, region: str) -> str:
@@ -1058,6 +1151,8 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
                                       if p and p.isascii()), "")}
     if o["source"] == "met":
         r = http.get(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{o['id']}")
+        if r.status_code not in (200, 404):   # a block, not a missing object: let the caller retry
+            raise httpx.HTTPStatusError(f"Met {r.status_code}", request=r.request, response=r)
         j = r.json() if r.status_code == 200 else {}
         return j.get("primaryImageSmall") and {"title": j.get("title") or j.get("objectName"), "image_url": j["primaryImageSmall"],
                                                "description": " · ".join(filter(None, [j.get("culture"), j.get("medium"), j.get("objectDate")])),
@@ -1560,7 +1655,7 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
     atlas_bm = _atlas_bm_names()
     loc = _local()
     queue_skips = _queue_skips()
-    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and _evidence(r) >= 6]
+    rows = [r for r in _rows() if not r["key"].startswith("atlas:") and _evidence(r) >= UNVETTED_MIN_EVIDENCE]
     for r in rows:
         r.update({k: v for k, v in (cls.get(r["key"]) or {}).items() if k != "key"})
         o = objs.get(r["key"])
@@ -1631,7 +1726,7 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
     lst = [r for r in keep if r["listed"]]
     print(f"LIST ({min_cats}+ categories with 3+ objects): {len(lst)}, new {sum(not r['in_atlas'] for r in lst)}, "
              f"in atlas {sum(r['in_atlas'] for r in lst)} ({len({r.get('atlas') for r in lst if r.get('atlas')})} distinct atlas cultures)")
-    print(f"UNREVIEWED-ONLY (people, evidence >= 6): {sum(r['unvetted_only'] for r in keep)}", flush=True)
+    print(f"UNREVIEWED-ONLY (people, evidence >= {UNVETTED_MIN_EVIDENCE}): {sum(r['unvetted_only'] for r in keep)}", flush=True)
     for c, rs in sorted(by.items()):
         l = [r for r in rs if r["listed"]]
         print(f"  {c:9s} listed {len(l):3d} (new {sum(not r['in_atlas'] for r in l):3d}, breadth>=6 {sum((r.get('breadth') or 0) >= 6 for r in l):3d})"
@@ -1737,7 +1832,7 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
              "BM name via `normalize_kinds.py` (Haiku). **BM** is capped at 500 by the sample. **Eur.** counts "
              "records at ethnographic providers in Europeana that mention the name. It is a text match, so it "
              "is only a hint. The **evidence** total is BM + Met/Cleveland + the multilingual Europeana maximum. "
-             "A classified people with at least six evidence records but no listed pick is **unreviewed-only**: "
+             "A classified people with at least one evidence record but no listed pick is **unreviewed-only**: "
              "its text-matched museum candidates are shown separately and never counted as vetted objects. Peoples "
              "only Europeana finds are listed separately, because most of those are "
              "word collisions (\"Iron\" for Ossetians, \"Bali\", \"Dan\"). Clans, iwi and bands are merged into their "

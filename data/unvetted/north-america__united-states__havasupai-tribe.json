@@ -1,15 +1,31 @@
 {
   "ethnicity_key": "north-america__united-states__havasupai-tribe",
   "people_key": "Q1500686",
-  "count": 2,
+  "count": 4,
   "buckets": {
     "household": [
+      {
+        "id": "E_Am1996-04-1",
+        "source": "bm",
+        "title": "basket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/8b59fed8_8041_4416_9605_a3bb00683d46/preview_00308293_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1996-04-1"
+      },
       {
         "id": "/91608/SMVK_VKM_objekt_14404",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1996778/image.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1996778%2Fimage.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14404"
+      }
+    ],
+    "photo": [
+      {
+        "id": "EA_Am-B73-17",
+        "source": "bm",
+        "title": "postcard (black &amp; white with colour); photographic print",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_15/dcd4e26f_c9ed_4c9e_902c_a3c601001c54/preview_01022969_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B73-17"
       }
     ],
     "ceramic": [
@@ -17,7 +33,7 @@
         "id": "/91608/SMVK_VKM_objekt_14421",
         "source": "europeana",
         "title": "fat, plate",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2817280/1937.06.0005_ekalt01.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2817280%2F1937.06.0005_ekalt01.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14421"
       }
     ]

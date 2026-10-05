@@ -61,7 +61,7 @@ class WorldPeoplesTests(unittest.TestCase):
         self.assertTrue(world_peoples._unvetted_only(row, {"Q1": "nation"}))
         self.assertFalse(world_peoples._unvetted_only(row, {"Q1": "umbrella"}))
         self.assertFalse(world_peoples._unvetted_only({**row, "people": False}, {}))
-        self.assertFalse(world_peoples._unvetted_only({**row, "bm": 2}, {}))
+        self.assertFalse(world_peoples._unvetted_only({**row, "bm": 0, "local": 0, "europeana": 0}, {}))
 
     def test_stub_region_centroid_and_jitter_are_deterministic(self):
         with tempfile.TemporaryDirectory() as td:

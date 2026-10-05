@@ -1,15 +1,24 @@
 {
   "ethnicity_key": "southeast-asia__philippines__bataq",
   "people_key": "Q810707",
-  "count": 2,
+  "count": 3,
   "buckets": {
     "photo": [
       {
         "id": "/91609/SMVK_VKM_fotografi_112990",
         "source": "europeana",
         "title": "spjut, batakmän, batakkvinnor, grupporträtt, blåsrör, fotografi, photograph",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/501450/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F501450%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112990"
+      }
+    ],
+    "household": [
+      {
+        "id": "/2022703/pages_Main_idt_20447_inventary_CE1997_2_6_table_FMUS_museum_MNA",
+        "source": "europeana",
+        "title": "Cesta",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE1997_2_6_SEQ_001_P.JPG%26Ninv%3DCE1997%2F2%2F6&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_20447_inventary_CE1997_2_6_table_FMUS_museum_MNA"
       }
     ]
   },
@@ -18,7 +27,7 @@
       "id": "/91609/SMVK_VKM_fotografi_112991",
       "source": "europeana",
       "title": "Batak, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/501454/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F501454%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112991"
     }
   ]

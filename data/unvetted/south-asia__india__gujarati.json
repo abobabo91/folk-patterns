@@ -1,21 +1,83 @@
 {
   "ethnicity_key": "south-asia__india__gujarati",
   "people_key": "Q1282294",
-  "count": 12,
+  "count": 20,
   "buckets": {
+    "textile": [
+      {
+        "id": "308007",
+        "source": "met",
+        "title": "Indian Trade Cloth (Patola)",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/vs30.88.4a.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/308007"
+      },
+      {
+        "id": "119782",
+        "source": "cleveland",
+        "title": "Silk Patolu Sari",
+        "image": "https://openaccess-cdn.clevelandart.org/1940.607/1940.607_web.jpg",
+        "object_url": "https://clevelandart.org/art/119782"
+      },
+      {
+        "id": "155653",
+        "source": "cleveland",
+        "title": "Patolu",
+        "image": "https://openaccess-cdn.clevelandart.org/1990.92/1990.92_web.jpg",
+        "object_url": "https://clevelandart.org/art/155653"
+      },
+      {
+        "id": "107869",
+        "source": "cleveland",
+        "title": "Fragment of Striped Panel",
+        "image": "https://openaccess-cdn.clevelandart.org/1925.498/1925.498_web.jpg",
+        "object_url": "https://clevelandart.org/art/107869"
+      },
+      {
+        "id": "95468",
+        "source": "cleveland",
+        "title": "Sari",
+        "image": "https://openaccess-cdn.clevelandart.org/1916.1206/1916.1206_web.jpg",
+        "object_url": "https://clevelandart.org/art/95468"
+      },
+      {
+        "id": "108606",
+        "source": "cleveland",
+        "title": "Fragment",
+        "image": "https://openaccess-cdn.clevelandart.org/1926.30/1926.30_web.jpg",
+        "object_url": "https://clevelandart.org/art/108606"
+      }
+    ],
+    "arms": [
+      {
+        "id": "702016",
+        "source": "met",
+        "title": "Shield (<i>Dhál</i>)",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP701277.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/702016"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "826439",
+        "source": "met",
+        "title": "Hanuman in His Tantric Five-Headed Pancha Mukha Form",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22859-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/826439"
+      }
+    ],
     "sculpture": [
       {
         "id": "/91608/SMVK_VKM_objekt_8470",
         "source": "europeana",
         "title": "Modell av mindre fiskebåt., modell av fiskebåt",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2315190/1960.46.0019.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2315190%2F1960.46.0019.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8470"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_8468",
         "source": "europeana",
         "title": "figur, sculpture, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1106229/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1106229%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8468"
       }
     ],
@@ -24,7 +86,7 @@
         "id": "/91608/SMVK_VKM_objekt_8464",
         "source": "europeana",
         "title": "ring",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1106206/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1106206%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8464"
       }
     ]
@@ -34,63 +96,63 @@
       "id": "/91608/SMVK_VKM_objekt_8452",
       "source": "europeana",
       "title": "blockstämpel (3 st)",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1908478/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1908478%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8452"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8454",
       "source": "europeana",
       "title": "vävnader, halvfabrikat, fabric",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2328237/1960.46.0020.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2328237%2F1960.46.0020.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8454"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8462",
       "source": "europeana",
       "title": "sko, Ett par mansskor.",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2347097/1960.46.0012a-b_alt.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2347097%2F1960.46.0012a-b_alt.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8462"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8466",
       "source": "europeana",
       "title": "dräkt i olika delar",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1106221/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1106221%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8466"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8467",
       "source": "europeana",
       "title": "dräkt, dress",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1106225/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1106225%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8467"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8458",
       "source": "europeana",
       "title": "Spegelbroderi, bröststycke",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247210/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247210%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8458"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8459",
       "source": "europeana",
       "title": "Spegelbroderi, bröststycke",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247214/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247214%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8459"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8460",
       "source": "europeana",
       "title": "Spegelbroderi, bröststycke",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247218/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247218%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8460"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8465",
       "source": "europeana",
       "title": "Silverringar., ring",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1106214/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1106214%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8465"
     }
   ]

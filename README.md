@@ -125,7 +125,7 @@ python scripts/world_peoples.py europeana
 python scripts/world_peoples.py europeana --multilingual
 python scripts/world_peoples.py local
 python scripts/world_peoples.py classify --backend codex --all-min-sitelinks 20
-python scripts/world_peoples.py harvest
+python scripts/world_peoples.py harvest --threshold 1
 python scripts/world_peoples.py report
 python scripts/world_peoples.py europeana-objects
 python scripts/normalize_kinds.py --world
@@ -137,8 +137,8 @@ python scripts/world_peoples.py gaps
 ```
 
 `report` lists a people for visual picking only after the normal category
-rule. A classified people with at least six BM, Met/Cleveland, or multilingual
-Europeana evidence records can instead be marked `unvetted_only`, unless
+rule. A classified people with at least one BM, Met/Cleveland, or multilingual
+Europeana evidence record (`UNVETTED_MIN_EVIDENCE`) can instead be marked `unvetted_only`, unless
 `data/world/onboard_queue.json` marks it as an umbrella or duplicate. Those
 cultures receive quiet globe markers and text-matched museum candidates, but
 no vetted objects, writeup, or facets. `unvetted.py build` creates a quiet stub
@@ -153,18 +153,38 @@ Tanzania, North Macedonia, Côte d'Ivoire, Serbia) are aliased in
 `unvetted.py`; Samoa and Tonga, absent from the 1:110m polygons, have fixed
 points.
 
-State on 2026-10-04 (`report --threshold 6`): 1,049 peoples with evidence,
-570 listed, 479 unreviewed-only. After harvest and resolve, 294 of them have
-at least one resolvable image and appear as stub cultures; the site carries
-38,762 unreviewed objects in all. `docs/gaps.md` shows Europe (214 living
-peoples, 25 on the site) and South Asia (116, 32) as the thinnest regions:
-BM files their objects by place, not by people, so a people-name search
-misses them.
+State on 2026-10-05 (`report --threshold 6`): 1,335 peoples with evidence,
+580 listed, 755 unreviewed-only. 615 of those have at least one resolvable
+image and appear as stub cultures; the site carries 70,032 unreviewed
+objects, 10,513 of them in "Other, uncategorised". `docs/gaps.md` shows Europe
+at 214 living peoples, 113 with evidence, 73 on the site, and South Asia at
+116, 80, 62. The rest have no
+record under any of their names in the current sources.
+
+Stub placement: Russia's atlas cultures are Siberian, so a Russian people the
+classifier puts in Europe is filed under `europe` at a European Russia point,
+and a North Caucasus people at a Caucasus point, instead of the country
+centroid in Siberia. Europeana tiles load through Europeana's thumbnail
+service: Finnish Heritage Agency originals answer 401. The Met sits behind
+Imperva, which blocked a long `resolve` run after ~2,000 requests; `resolve`
+throttles Met calls, leaves blocked ones uncached and starts a fresh client.
 
 The Astro dev server dies with EMFILE once `data/` is synced (about 19,000
 files). Check the site with `npx astro build` and
 `python -m http.server 4400 --directory site/.vercel/output/static` instead.
 Serve from outside the output folder, or the next build cannot clear it.
+
+Two source routes searched on 2026-10-04 and their limits:
+
+- `harvest --threshold 1` fetches BM objects for every people with one BM
+  record, not only those with 30+: 208 more peoples, 507 objects.
+- BM search by production place does not work by name. `place=India` and
+  `place=Punjab (India)` answer, but `place=Gujarat`, `Gujarat (state)`,
+  `Bengal (region)`, `Kashmir (region)`, `Sindh (province)` and
+  `Rajasthan (state)` return nothing, unknown parameters (`place_name`,
+  `production_place`) are ignored and return the unfiltered first page, and
+  the result teasers carry no production place. South Asian places come from
+  the Met and Cleveland culture field instead (`_PLACE_PEOPLES`).
 
 ## Adding a new culture (end-to-end, agentic)
 

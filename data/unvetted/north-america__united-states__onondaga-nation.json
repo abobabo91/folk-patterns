@@ -1,8 +1,17 @@
 {
   "ethnicity_key": "north-america__united-states__onondaga-nation",
   "people_key": "Q21056",
-  "count": 4,
+  "count": 5,
   "buckets": {
+    "photo": [
+      {
+        "id": "EA_Am-B46-8",
+        "source": "bm",
+        "title": "photographic print (black and white)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_20/b028c181_a4e6_453f_9857_a3c1015a10c5/preview_00701466_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B46-8"
+      }
+    ],
     "household": [
       {
         "id": "319011",
@@ -18,21 +27,21 @@
       "id": "/91619/SMVK_EM_objekt_1020158",
       "source": "europeana",
       "title": "packrem, rem",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1140523/1910.11.0034.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1140523%2F1910.11.0034.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1020158"
     },
     {
       "id": "/91619/SMVK_EM_objekt_2026478",
       "source": "europeana",
       "title": "klistermärke, sticker, stickers",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2100312/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2100312%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_2026478"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_2506394",
       "source": "europeana",
       "title": "flagga, flag",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2506414/9000.12.0001.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2506414%2F9000.12.0001.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_2506394"
     }
   ]

@@ -1,8 +1,33 @@
 {
   "ethnicity_key": "sub-saharan-africa__nigeria__ijaw",
   "people_key": "Q528981",
-  "count": 3,
+  "count": 6,
   "buckets": {
+    "household": [
+      {
+        "id": "E_Af-Cb-85",
+        "source": "bm",
+        "title": "smoking-pipe",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2017_11/8_8/106dd8a0_8139_4545_94f5_a825009077b6/preview_EAF167746.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af-Cb-85"
+      },
+      {
+        "id": "E_Af-Cb-84",
+        "source": "bm",
+        "title": "smoking-pipe",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2017_11/8_8/0ecbd183_de48_4a63_8059_a82500906dc9/preview_EAF14049.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af-Cb-84"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "E_Af1946-21-37",
+        "source": "bm",
+        "title": "bracelet",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/5b51dc0a_5a1e_41bd_aa94_a3be01251088/preview_00451643_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1946-21-37"
+      }
+    ],
     "architectural": [
       {
         "id": "310065",
@@ -26,7 +51,7 @@
         "id": "/91627/SMVK_EM_fotografi_2391059",
         "source": "europeana",
         "title": "pålbyggnad, fotografi, photograph",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/2391062/0221.f.0002_bearb.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2391062%2F0221.f.0002_bearb.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2391059"
       }
     ]

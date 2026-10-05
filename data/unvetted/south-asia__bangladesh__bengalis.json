@@ -1,295 +1,1171 @@
 {
   "ethnicity_key": "south-asia__bangladesh__bengalis",
   "people_key": "Q402913",
-  "count": 283,
+  "count": 422,
   "buckets": {
+    "arms": [
+      {
+        "id": "24316",
+        "source": "met",
+        "title": "Sacrificial Sword (Rāmdāo)",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1284_018AA2015.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/24316"
+      },
+      {
+        "id": "24317",
+        "source": "met",
+        "title": "Sacrificial Sword (Kartrī or Churī)",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1285_002AA2016.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/24317"
+      },
+      {
+        "id": "24318",
+        "source": "met",
+        "title": "Sacrificial Knife",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1286_002AA2016.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/24318"
+      },
+      {
+        "id": "31822",
+        "source": "met",
+        "title": "Shield (Dhàl)",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/DP153628.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/31822"
+      },
+      {
+        "id": "678610",
+        "source": "met",
+        "title": "Set of Sacrificial Weapons",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/36.25.1284_018AA2015.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/678610"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "55034",
+        "source": "met",
+        "title": "Shiva Carries the Corpse of Sati",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-43062-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/55034"
+      },
+      {
+        "id": "688473",
+        "source": "met",
+        "title": "Narasimha Kills the Demon-King Hiranyakashipu",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-37144-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/688473"
+      },
+      {
+        "id": "786756",
+        "source": "met",
+        "title": "Diptych of Kali / Tara, wrathful protectors",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-16219-018.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/786756"
+      },
+      {
+        "id": "786759",
+        "source": "met",
+        "title": "Sri Sri Durga",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-16219-012.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/786759"
+      },
+      {
+        "id": "786761",
+        "source": "met",
+        "title": "Radha as king (Sri Sri Rai Raja)",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-16219-013.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/786761"
+      },
+      {
+        "id": "786762",
+        "source": "met",
+        "title": "Krishna as the Lord of the World (Shri Shri Jagannatha)",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-16219-014.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/786762"
+      },
+      {
+        "id": "786763",
+        "source": "met",
+        "title": "Shri Shri Durga",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-16219-015.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/786763"
+      },
+      {
+        "id": "838322",
+        "source": "met",
+        "title": "Jagat Mata Go-Laxmi (World Mother Cow of Good Fortune)",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/BarBoi_06.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/838322"
+      },
+      {
+        "id": "838323",
+        "source": "met",
+        "title": "Savitri",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/LC-TR_409_7_2019_sr1-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/838323"
+      },
+      {
+        "id": "843752",
+        "source": "met",
+        "title": "Layla Visiting Majnun in the Desert",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22726-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/843752"
+      },
+      {
+        "id": "849485",
+        "source": "met",
+        "title": "Krishna and Balarama depart Vrindavan",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22728-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/849485"
+      },
+      {
+        "id": "849486",
+        "source": "met",
+        "title": "Krishna and Radha",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22729-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/849486"
+      },
+      {
+        "id": "849488",
+        "source": "met",
+        "title": "Goddess Jagadhatri",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22731-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/849488"
+      },
+      {
+        "id": "849489",
+        "source": "met",
+        "title": "Kali, the wrathful protector (Shri Shri Kali)  (recto); Kali (verso)",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22732-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/849489"
+      },
+      {
+        "id": "849490",
+        "source": "met",
+        "title": "Matangi, an esoteric form of Parvati",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22733-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/849490"
+      },
+      {
+        "id": "849491",
+        "source": "met",
+        "title": "Goddess Bagala",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22734-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/849491"
+      },
+      {
+        "id": "849528",
+        "source": "met",
+        "title": "Celebrating the birth of Krishna (Janmashtami)",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22784-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/849528"
+      },
+      {
+        "id": "170893",
+        "source": "cleveland",
+        "title": "Radha and Krishna meet in the forest during a storm",
+        "image": "https://openaccess-cdn.clevelandart.org/2013.352/2013.352_web.jpg",
+        "object_url": "https://clevelandart.org/art/170893"
+      },
+      {
+        "id": "162450",
+        "source": "cleveland",
+        "title": "Krishna quells the serpent Kaliya (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.113.b/2003.113.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162450"
+      },
+      {
+        "id": "162460",
+        "source": "cleveland",
+        "title": "Hanuman with Rama and Lakshmana on his shoulders, from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.120/2003.120_web.jpg",
+        "object_url": "https://clevelandart.org/art/162460"
+      },
+      {
+        "id": "162438",
+        "source": "cleveland",
+        "title": "Jatayu hinders Ravana’s chariot, trying to prevent the abduction of Sita (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.109.a/2003.109.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162438"
+      },
+      {
+        "id": "162480",
+        "source": "cleveland",
+        "title": "Rama and Sita enthroned (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.134.a/2003.134.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162480"
+      },
+      {
+        "id": "162510",
+        "source": "cleveland",
+        "title": "Rama and Sita enthroned with Lakshmana and Hanuman attending, from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.152/2003.152_web.jpg",
+        "object_url": "https://clevelandart.org/art/162510"
+      },
+      {
+        "id": "162445",
+        "source": "cleveland",
+        "title": "Jatayu hinders Ravana’s chariot trying to prevent Sita’s abduction (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.111.a/2003.111.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162445"
+      },
+      {
+        "id": "162453",
+        "source": "cleveland",
+        "title": "Das Avataras, Ten Incarnations of Vishnu (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.114.b/2003.114.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162453"
+      },
+      {
+        "id": "162469",
+        "source": "cleveland",
+        "title": "Krishna Ferrying Radha Across the Yamuna River (recto); Parivati Placing a Wedding Garland on Shiva (verso)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.129/2003.129_web.jpg",
+        "object_url": "https://clevelandart.org/art/162469"
+      },
+      {
+        "id": "162498",
+        "source": "cleveland",
+        "title": "Brahma",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.148/2003.148_web.jpg",
+        "object_url": "https://clevelandart.org/art/162498"
+      },
+      {
+        "id": "162511",
+        "source": "cleveland",
+        "title": "A Serpent Protects Vasudeva Taking His Infant Son Krishna to Safety",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.153/2003.153_web.jpg",
+        "object_url": "https://clevelandart.org/art/162511"
+      },
+      {
+        "id": "162515",
+        "source": "cleveland",
+        "title": "Rama and Sita in the royal palace (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.156.a/2003.156.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162515"
+      },
+      {
+        "id": "162529",
+        "source": "cleveland",
+        "title": "Ganesha",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.166/2003.166_web.jpg",
+        "object_url": "https://clevelandart.org/art/162529"
+      },
+      {
+        "id": "163103",
+        "source": "cleveland",
+        "title": "Ganesh",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.98/2003.98_web.jpg",
+        "object_url": "https://clevelandart.org/art/163103"
+      },
+      {
+        "id": "162427",
+        "source": "cleveland",
+        "title": "Durga Killing the Demon Mahisha",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.103/2003.103_web.jpg",
+        "object_url": "https://clevelandart.org/art/162427"
+      },
+      {
+        "id": "162429",
+        "source": "cleveland",
+        "title": "Jailer Receiving the Mahant of Tarakeshwar in Prison",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.105/2003.105_web.jpg",
+        "object_url": "https://clevelandart.org/art/162429"
+      },
+      {
+        "id": "170864",
+        "source": "cleveland",
+        "title": "Todi Ragini, from a Ragamala Series",
+        "image": "https://openaccess-cdn.clevelandart.org/2013.340/2013.340_web.jpg",
+        "object_url": "https://clevelandart.org/art/170864"
+      },
+      {
+        "id": "162442",
+        "source": "cleveland",
+        "title": "The Goddess Kali (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.110.a/2003.110.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162442"
+      },
+      {
+        "id": "162443",
+        "source": "cleveland",
+        "title": "Kali Standing on Shiva (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.110.b/2003.110.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162443"
+      },
+      {
+        "id": "162495",
+        "source": "cleveland",
+        "title": "English Babu (Native Indian Clerk) Holding a Hookah",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.145/2003.145_web.jpg",
+        "object_url": "https://clevelandart.org/art/162495"
+      },
+      {
+        "id": "162509",
+        "source": "cleveland",
+        "title": "Kartikeya, from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.151/2003.151_web.jpg",
+        "object_url": "https://clevelandart.org/art/162509"
+      },
+      {
+        "id": "162425",
+        "source": "cleveland",
+        "title": "Vaishnava Devotee with Two Women",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.101/2003.101_web.jpg",
+        "object_url": "https://clevelandart.org/art/162425"
+      },
+      {
+        "id": "162428",
+        "source": "cleveland",
+        "title": "Mahant of Tarakeshwar Rides on an Elephant",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.104/2003.104_web.jpg",
+        "object_url": "https://clevelandart.org/art/162428"
+      },
+      {
+        "id": "162432",
+        "source": "cleveland",
+        "title": "Maid bringing a hookah to a lady (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.107.a/2003.107.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162432"
+      },
+      {
+        "id": "162439",
+        "source": "cleveland",
+        "title": "Dushyanta watching his son Bharat playing with the tiger at the end of the Abhijnanashakuntalam (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.109.b/2003.109.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162439"
+      },
+      {
+        "id": "162449",
+        "source": "cleveland",
+        "title": "Krishna as Kali worshipped by Radha (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.113.a/2003.113.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162449"
+      },
+      {
+        "id": "162452",
+        "source": "cleveland",
+        "title": "Krishna Steals the Clothes of the Cowgirls (Gopis) (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.114.a/2003.114.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162452"
+      },
+      {
+        "id": "162456",
+        "source": "cleveland",
+        "title": "Barber Cleaning a Woman’s Ear",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.117/2003.117_web.jpg",
+        "object_url": "https://clevelandart.org/art/162456"
+      },
+      {
+        "id": "162457",
+        "source": "cleveland",
+        "title": "A Barber Cleaning the Ear of a Courtesan",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.118/2003.118_web.jpg",
+        "object_url": "https://clevelandart.org/art/162457"
+      },
+      {
+        "id": "162470",
+        "source": "cleveland",
+        "title": "Krishna Ferrying Radha Across the Yamuna River (recto)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.129.a/2003.129.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162470"
+      },
+      {
+        "id": "162473",
+        "source": "cleveland",
+        "title": "Krishna Ferrying Radha Across the Yamuna River",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.130/2003.130_web.jpg",
+        "object_url": "https://clevelandart.org/art/162473"
+      },
+      {
+        "id": "162474",
+        "source": "cleveland",
+        "title": "Shiva Bearing Aloft the Body of His Sati",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.131/2003.131_web.jpg",
+        "object_url": "https://clevelandart.org/art/162474"
+      },
+      {
+        "id": "162475",
+        "source": "cleveland",
+        "title": "Vishnu and Lakshmi",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.132/2003.132_web.jpg",
+        "object_url": "https://clevelandart.org/art/162475"
+      },
+      {
+        "id": "162478",
+        "source": "cleveland",
+        "title": "Krishna Stroking Radha's Feet (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.133.b/2003.133.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162478"
+      },
+      {
+        "id": "162481",
+        "source": "cleveland",
+        "title": "Garuda Carrying Balarama and Krishna (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.134.b/2003.134.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162481"
+      },
+      {
+        "id": "162494",
+        "source": "cleveland",
+        "title": "Seven Heroes or Warriors Killing Abhimanya, Son of Arjuna",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.144/2003.144_web.jpg",
+        "object_url": "https://clevelandart.org/art/162494"
+      },
+      {
+        "id": "162496",
+        "source": "cleveland",
+        "title": "The Mutiny of the Heroine Rani Lakshmi Bai of Jhansi",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.146/2003.146_web.jpg",
+        "object_url": "https://clevelandart.org/art/162496"
+      },
+      {
+        "id": "162497",
+        "source": "cleveland",
+        "title": "Diana or Artemis, Goddess of the Hunt",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.147/2003.147_web.jpg",
+        "object_url": "https://clevelandart.org/art/162497"
+      },
+      {
+        "id": "162499",
+        "source": "cleveland",
+        "title": "Gajalakshmi: Lakshmi with Elephants",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.149/2003.149_web.jpg",
+        "object_url": "https://clevelandart.org/art/162499"
+      },
+      {
+        "id": "162508",
+        "source": "cleveland",
+        "title": "Goddesses Lakshmi and Sarasvati (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.150.b/2003.150.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162508"
+      },
+      {
+        "id": "162512",
+        "source": "cleveland",
+        "title": "Nitai and Gaur",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.154/2003.154_web.jpg",
+        "object_url": "https://clevelandart.org/art/162512"
+      },
+      {
+        "id": "162516",
+        "source": "cleveland",
+        "title": "Radha and Krishna (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.156.b/2003.156.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162516"
+      },
+      {
+        "id": "162518",
+        "source": "cleveland",
+        "title": "Sheetaladevi: The Smallpox Goddess (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.157.a/2003.157.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162518"
+      },
+      {
+        "id": "162525",
+        "source": "cleveland",
+        "title": "Annapurna and Shiva",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.162/2003.162_web.jpg",
+        "object_url": "https://clevelandart.org/art/162525"
+      },
+      {
+        "id": "162531",
+        "source": "cleveland",
+        "title": "Balarama and Krishna",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.168/2003.168_web.jpg",
+        "object_url": "https://clevelandart.org/art/162531"
+      },
+      {
+        "id": "162532",
+        "source": "cleveland",
+        "title": "Ganesha-Janani (Mother of Ganesh)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.169/2003.169_web.jpg",
+        "object_url": "https://clevelandart.org/art/162532"
+      },
+      {
+        "id": "162435",
+        "source": "cleveland",
+        "title": "Parvati Placing a Wedding Garland on Shiva (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.108.a/2003.108.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162435"
+      },
+      {
+        "id": "162436",
+        "source": "cleveland",
+        "title": "Yasoda Churning Butter (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.108.b/2003.108.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162436"
+      },
+      {
+        "id": "149995",
+        "source": "cleveland",
+        "title": "Kali Dancing on Shiva (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/1980.216.a/1980.216.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/149995"
+      },
+      {
+        "id": "149997",
+        "source": "cleveland",
+        "title": "Hanuman",
+        "image": "https://openaccess-cdn.clevelandart.org/1980.217/1980.217_web.jpg",
+        "object_url": "https://clevelandart.org/art/149997"
+      },
+      {
+        "id": "151939",
+        "source": "cleveland",
+        "title": "Man Seated in a European Chair Smoking a Margila Pipe, from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/1984.221/1984.221_web.jpg",
+        "object_url": "https://clevelandart.org/art/151939"
+      },
+      {
+        "id": "162420",
+        "source": "cleveland",
+        "title": "Hari-Hara (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.100.a/2003.100.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162420"
+      },
+      {
+        "id": "162421",
+        "source": "cleveland",
+        "title": "Vasudeva (Krishna's Father) Fleeing with Krishna Encounters a Cobra and a Jackal (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.100.b/2003.100.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162421"
+      },
+      {
+        "id": "162468",
+        "source": "cleveland",
+        "title": "Worship of the Infant Krishna, from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.128/2003.128_web.jpg",
+        "object_url": "https://clevelandart.org/art/162468"
+      },
+      {
+        "id": "162471",
+        "source": "cleveland",
+        "title": "Parivati Placing a Wedding Garland on Shiva (verso)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.129.b/2003.129.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162471"
+      },
+      {
+        "id": "162477",
+        "source": "cleveland",
+        "title": "Woman Playing Music (recto), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.133.a/2003.133.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162477"
+      },
+      {
+        "id": "162482",
+        "source": "cleveland",
+        "title": "Winged Apsara with a Horn (recto); Jagannatha Trio (verso)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.135/2003.135_web.jpg",
+        "object_url": "https://clevelandart.org/art/162482"
+      },
+      {
+        "id": "162483",
+        "source": "cleveland",
+        "title": "Winged Apsara with a Horn (recto)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.135.a/2003.135.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162483"
+      },
+      {
+        "id": "162484",
+        "source": "cleveland",
+        "title": "Jagannatha Trio (verso)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.135.b/2003.135.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162484"
+      },
+      {
+        "id": "162507",
+        "source": "cleveland",
+        "title": "Hanuman attacks Indrajit holding an apparition of Sita by the hair",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.150.a/2003.150.a_web.jpg",
+        "object_url": "https://clevelandart.org/art/162507"
+      },
+      {
+        "id": "162519",
+        "source": "cleveland",
+        "title": "Durga (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.157.b/2003.157.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162519"
+      },
+      {
+        "id": "149996",
+        "source": "cleveland",
+        "title": "Kali Enshrined (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/1980.216.b/1980.216.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/149996"
+      },
+      {
+        "id": "162530",
+        "source": "cleveland",
+        "title": "Radha and Krishna",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.167/2003.167_web.jpg",
+        "object_url": "https://clevelandart.org/art/162530"
+      },
+      {
+        "id": "162458",
+        "source": "cleveland",
+        "title": "Megha-Nada (Indrajit, Son of Radha)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.119/2003.119_web.jpg",
+        "object_url": "https://clevelandart.org/art/162458"
+      },
+      {
+        "id": "162465",
+        "source": "cleveland",
+        "title": "Yasoda Holding Krishna and Radha",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.125/2003.125_web.jpg",
+        "object_url": "https://clevelandart.org/art/162465"
+      },
+      {
+        "id": "163104",
+        "source": "cleveland",
+        "title": "Hari-Hara",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.99/2003.99_web.jpg",
+        "object_url": "https://clevelandart.org/art/163104"
+      },
+      {
+        "id": "162426",
+        "source": "cleveland",
+        "title": "Matsya, Fish Avatara of Vishnu",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.102/2003.102_web.jpg",
+        "object_url": "https://clevelandart.org/art/162426"
+      },
+      {
+        "id": "162430",
+        "source": "cleveland",
+        "title": "Manasa, The Snake Goddess",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.106/2003.106_web.jpg",
+        "object_url": "https://clevelandart.org/art/162430"
+      },
+      {
+        "id": "162433",
+        "source": "cleveland",
+        "title": "Krishna weighed against precious objects(?) (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.107.b/2003.107.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162433"
+      },
+      {
+        "id": "162446",
+        "source": "cleveland",
+        "title": "Battle Scene at Kurukshetra from the Mahabharata War (verso), from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.111.b/2003.111.b_web.jpg",
+        "object_url": "https://clevelandart.org/art/162446"
+      },
+      {
+        "id": "162461",
+        "source": "cleveland",
+        "title": "Lakshmi and Sarasvati",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.121/2003.121_web.jpg",
+        "object_url": "https://clevelandart.org/art/162461"
+      },
+      {
+        "id": "162462",
+        "source": "cleveland",
+        "title": "Vishnu in Female Form of Mohini Carrying Amrita for the Gods",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.122/2003.122_web.jpg",
+        "object_url": "https://clevelandart.org/art/162462"
+      },
+      {
+        "id": "162463",
+        "source": "cleveland",
+        "title": "Rai Raja, from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.123/2003.123_web.jpg",
+        "object_url": "https://clevelandart.org/art/162463"
+      },
+      {
+        "id": "162464",
+        "source": "cleveland",
+        "title": "Kalighat Painting",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.124/2003.124_web.jpg",
+        "object_url": "https://clevelandart.org/art/162464"
+      },
+      {
+        "id": "162466",
+        "source": "cleveland",
+        "title": "Yasoda Taking the Infant Krishna for a Walk",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.126/2003.126_web.jpg",
+        "object_url": "https://clevelandart.org/art/162466"
+      },
+      {
+        "id": "162467",
+        "source": "cleveland",
+        "title": "The Goddess Ganga, from a Kalighat album",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.127/2003.127_web.jpg",
+        "object_url": "https://clevelandart.org/art/162467"
+      },
+      {
+        "id": "162487",
+        "source": "cleveland",
+        "title": "Krishna Stroking Radha's Feet",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.138/2003.138_web.jpg",
+        "object_url": "https://clevelandart.org/art/162487"
+      },
+      {
+        "id": "162488",
+        "source": "cleveland",
+        "title": "Kalighat Painting",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.139/2003.139_web.jpg",
+        "object_url": "https://clevelandart.org/art/162488"
+      },
+      {
+        "id": "162490",
+        "source": "cleveland",
+        "title": "Anantasayan (Vishnu Reclining on Serpent Ananta)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.140/2003.140_web.jpg",
+        "object_url": "https://clevelandart.org/art/162490"
+      },
+      {
+        "id": "162491",
+        "source": "cleveland",
+        "title": "Dusmanta Garlanding Shakumtala",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.141/2003.141_web.jpg",
+        "object_url": "https://clevelandart.org/art/162491"
+      },
+      {
+        "id": "162493",
+        "source": "cleveland",
+        "title": "Kalaketu Receiving a Boon from the Goddess Chandi",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.143/2003.143_web.jpg",
+        "object_url": "https://clevelandart.org/art/162493"
+      },
+      {
+        "id": "162513",
+        "source": "cleveland",
+        "title": "Krishna Standing by Radha who is Seated on a Chair",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.155/2003.155_web.jpg",
+        "object_url": "https://clevelandart.org/art/162513"
+      },
+      {
+        "id": "162520",
+        "source": "cleveland",
+        "title": "The Goddess Ganga",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.158/2003.158_web.jpg",
+        "object_url": "https://clevelandart.org/art/162520"
+      },
+      {
+        "id": "162524",
+        "source": "cleveland",
+        "title": "Raja Riding a Horse",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.161/2003.161_web.jpg",
+        "object_url": "https://clevelandart.org/art/162524"
+      },
+      {
+        "id": "162527",
+        "source": "cleveland",
+        "title": "Kali",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.164/2003.164_web.jpg",
+        "object_url": "https://clevelandart.org/art/162527"
+      },
+      {
+        "id": "162528",
+        "source": "cleveland",
+        "title": "Trivikramapada (Three Steps of Vishnu)",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.165/2003.165_web.jpg",
+        "object_url": "https://clevelandart.org/art/162528"
+      },
+      {
+        "id": "162485",
+        "source": "cleveland",
+        "title": "Krishna Stroking Radha's Feet",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.136/2003.136_web.jpg",
+        "object_url": "https://clevelandart.org/art/162485"
+      },
+      {
+        "id": "162486",
+        "source": "cleveland",
+        "title": "Radha Stroking Krishna's Feet",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.137/2003.137_web.jpg",
+        "object_url": "https://clevelandart.org/art/162486"
+      },
+      {
+        "id": "162492",
+        "source": "cleveland",
+        "title": "Pravira Kneeling at the Feet of Jana",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.142/2003.142_web.jpg",
+        "object_url": "https://clevelandart.org/art/162492"
+      },
+      {
+        "id": "162521",
+        "source": "cleveland",
+        "title": "Yasoda and Krishna",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.159/2003.159_web.jpg",
+        "object_url": "https://clevelandart.org/art/162521"
+      },
+      {
+        "id": "162526",
+        "source": "cleveland",
+        "title": "Kali",
+        "image": "https://openaccess-cdn.clevelandart.org/2003.163/2003.163_web.jpg",
+        "object_url": "https://clevelandart.org/art/162526"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "500751",
+        "source": "met",
+        "title": "Ānandalaharī",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.181.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/500751"
+      },
+      {
+        "id": "500756",
+        "source": "met",
+        "title": "Ānandalaharī",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/MUS649A3.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/500756"
+      },
+      {
+        "id": "503635",
+        "source": "met",
+        "title": "Drum",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/MIDP89.4.186.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/503635"
+      },
+      {
+        "id": "98646",
+        "source": "cleveland",
+        "title": "Sitar",
+        "image": "https://openaccess-cdn.clevelandart.org/1918.346/1918.346_web.jpg",
+        "object_url": "https://clevelandart.org/art/98646"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_7269",
+        "source": "europeana",
+        "title": "klocka, bell",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601730%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7269"
+      }
+    ],
     "jewelry": [
+      {
+        "id": "95309",
+        "source": "cleveland",
+        "title": "Ear Plug",
+        "image": "https://openaccess-cdn.clevelandart.org/1916.108/1916.108_web.jpg",
+        "object_url": "https://clevelandart.org/art/95309"
+      },
+      {
+        "id": "95298",
+        "source": "cleveland",
+        "title": "Pendant",
+        "image": "https://openaccess-cdn.clevelandart.org/1916.107/1916.107_web.jpg",
+        "object_url": "https://clevelandart.org/art/95298"
+      },
       {
         "id": "/91608/SMVK_VKM_objekt_11139",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612313/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612313%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11139"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_11141",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612321/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612321%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11141"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_11438",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612541/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612541%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11438"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_11440",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612613/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612613%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11440"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_11441",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612621/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612621%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11441"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_11442",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2653237/1998.04.0192b_001.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2653237%2F1998.04.0192b_001.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11442"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7262",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612309/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612309%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7262"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7263",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612317/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612317%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7263"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7271",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612341/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612341%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7271"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7303",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612373/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612373%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7303"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7304",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612377/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612377%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7304"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7305",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601766/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601766%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7305"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7361",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612529/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612529%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7361"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7362",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612533/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612533%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7362"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7363",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612537/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612537%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7363"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7364",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612545/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612545%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7364"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7365",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612549/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612549%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7365"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7366",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612553/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612553%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7366"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7367",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612557/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612557%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7367"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7368",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612561/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612561%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7368"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7369",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612565/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612565%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7369"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7370",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612569/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612569%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7370"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7371",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612573/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612573%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7371"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7373",
         "source": "europeana",
         "title": "fotring",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612581/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612581%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7373"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7374",
         "source": "europeana",
         "title": "fotring",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612585/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612585%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7374"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7377",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612597/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612597%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7377"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7378",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612601/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612601%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7378"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7379",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612605/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612605%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7379"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7380",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612609/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612609%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7380"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7381",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612617/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612617%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7381"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7382",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612625/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612625%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7382"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7383",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612629/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612629%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7383"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7384",
         "source": "europeana",
         "title": "halsband, necklace",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612633/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612633%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7384"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7385",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612637/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612637%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7385"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7386",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612641/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612641%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7386"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7387",
         "source": "europeana",
         "title": "örhänge",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2653217/1998.04.0192a_001.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2653217%2F1998.04.0192a_001.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7387"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7395",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612733/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612733%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7395"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7396",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612737/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612737%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7396"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7989",
         "source": "europeana",
         "title": "armring, bracelet",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601770/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601770%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7989"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7292",
         "source": "europeana",
         "title": "fingerring",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601894/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601894%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7292"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7293",
         "source": "europeana",
         "title": "fingerring",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601898/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601898%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7293"
+      }
+    ],
+    "textile": [
+      {
+        "id": "136407",
+        "source": "cleveland",
+        "title": "Kantha (Ceremonial Quilt)",
+        "image": "https://openaccess-cdn.clevelandart.org/1960.274/1960.274_web.jpg",
+        "object_url": "https://clevelandart.org/art/136407"
+      },
+      {
+        "id": "159636",
+        "source": "cleveland",
+        "title": "Kantha",
+        "image": "https://openaccess-cdn.clevelandart.org/1996.350/1996.350_web.jpg",
+        "object_url": "https://clevelandart.org/art/159636"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_7299",
+        "source": "europeana",
+        "title": "garn",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612717%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7299"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_7359",
+        "source": "europeana",
+        "title": "väska, bag, bolsa",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612521%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7359"
       }
     ],
     "sculpture": [
@@ -297,259 +1173,259 @@
         "id": "/91608/SMVK_VKM_objekt_11432",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612429/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612429%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11432"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7189",
         "source": "europeana",
         "title": "figur, figure, sculpture",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612077/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612077%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7189"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7238",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612225/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612225%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7238"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7270",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612337/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612337%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7270"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7335",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612421/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612421%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7335"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7336",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612425/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612425%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7336"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7337",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612433/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612433%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7337"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7338",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612437/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612437%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7338"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7339",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612441/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612441%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7339"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7340",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612445/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612445%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7340"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7342",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612453/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612453%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7342"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7345",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612465/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612465%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7345"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7397",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612673/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612673%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7397"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7399",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2319026/1998.04.0200.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2319026%2F1998.04.0200.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7399"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7508",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612481/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612481%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7508"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_8063",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2258967/1926.22.0004.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2258967%2F1926.22.0004.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8063"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_11081",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612117/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612117%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11081"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_11082",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612125/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612125%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11082"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7188",
         "source": "europeana",
         "title": "figur, figure, sculpture",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612073/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612073%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7188"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7198",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612113/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612113%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7198"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7200",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612121/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612121%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7200"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7211",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612157/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612157%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7211"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7212",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612149/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612149%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7212"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7213",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612153/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612153%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7213"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7214",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601646/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601646%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7214"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7215",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601650/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601650%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7215"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7216",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601654/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601654%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7216"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7225",
         "source": "europeana",
         "title": "figur, sculpture, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601666/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601666%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7225"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7226",
         "source": "europeana",
         "title": "figur, sculpture, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601670/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601670%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7226"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7334",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612417/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612417%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7334"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7341",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612449/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612449%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7341"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7344",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612461/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612461%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7344"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7347",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612473/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612473%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7347"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7348",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612477/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612477%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7348"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7349",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612485/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612485%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7349"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7398",
         "source": "europeana",
         "title": "docka, doll",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612677/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612677%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7398"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7343",
         "source": "europeana",
         "title": "statyett, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612458/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612458%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7343"
       }
     ],
@@ -558,140 +1434,140 @@
         "id": "/91608/SMVK_VKM_objekt_7264",
         "source": "europeana",
         "title": "sked, spoon",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612325/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612325%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7264"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7265",
         "source": "europeana",
         "title": "sked, spoon",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612329/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612329%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7265"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7286",
         "source": "europeana",
         "title": "snäckskal",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612361/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612361%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7286"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7302",
         "source": "europeana",
         "title": "snäckskal",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612369/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612369%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7302"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7355",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612505/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612505%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7355"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7372",
         "source": "europeana",
         "title": "huvudprydnad, head-dress",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612577/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612577%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7372"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7390",
         "source": "europeana",
         "title": "behållare, container",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612661/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612661%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7390"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7394",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612729/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612729%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7394"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7251",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612262/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612262%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7251"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7284",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612358/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612358%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7284"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7285",
         "source": "europeana",
         "title": "solfjäder",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601758/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601758%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7285"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7298",
         "source": "europeana",
         "title": "garnvinda",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612713/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612713%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7298"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7300",
         "source": "europeana",
         "title": "snäckskal",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601906/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601906%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7300"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7351",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612490/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612490%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7351"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7352",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612494/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612494%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7352"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7353",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612498/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612498%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7353"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7354",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612502/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612502%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7354"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7356",
         "source": "europeana",
         "title": "korg, basket",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612509/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612509%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7356"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7376",
         "source": "europeana",
         "title": "behållare, container",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612593/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612593%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7376"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7294",
         "source": "europeana",
         "title": "behållare, container",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601902/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601902%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7294"
       }
     ],
@@ -700,45 +1576,29 @@
         "id": "/91608/SMVK_VKM_objekt_7283",
         "source": "europeana",
         "title": "skål, kärl",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612353/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612353%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7283"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7248",
         "source": "europeana",
         "title": "fat, plate",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601698/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601698%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7248"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7249",
         "source": "europeana",
         "title": "kärl, skål",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601702/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601702%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7249"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7267",
         "source": "europeana",
         "title": "fat, plate",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601726/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601726%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7267"
-      }
-    ],
-    "textile": [
-      {
-        "id": "/91608/SMVK_VKM_objekt_7299",
-        "source": "europeana",
-        "title": "garn",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612717/zoom",
-        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7299"
-      },
-      {
-        "id": "/91608/SMVK_VKM_objekt_7359",
-        "source": "europeana",
-        "title": "väska, bag, bolsa",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612521/zoom",
-        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7359"
       }
     ],
     "masks-ritual": [
@@ -746,24 +1606,15 @@
         "id": "/91608/SMVK_VKM_objekt_7346",
         "source": "europeana",
         "title": "mask",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612469/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612469%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7346"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_7360",
         "source": "europeana",
         "title": "mask",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612525/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612525%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7360"
-      }
-    ],
-    "instruments": [
-      {
-        "id": "/91608/SMVK_VKM_objekt_7269",
-        "source": "europeana",
-        "title": "klocka, bell",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601730/zoom",
-        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7269"
       }
     ],
     "architectural": [
@@ -771,1235 +1622,1361 @@
         "id": "/2022703/pages_Main_idt_5195_inventary_CE3189_table_FMUS_museum_MNA",
         "source": "europeana",
         "title": "Altar",
-        "image": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE3189_SEQ_005_P.JPG&Ninv=CE3189",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE3189_SEQ_005_P.JPG%26Ninv%3DCE3189&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_5195_inventary_CE3189_table_FMUS_museum_MNA"
       }
     ]
   },
   "other": [
     {
+      "id": "454429",
+      "source": "met",
+      "title": "View of a Mosque and Gateway at Motijhil",
+      "image": "https://images.metmuseum.org/CRDImages/is/web-large/DP231334.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/454429"
+    },
+    {
+      "id": "849484",
+      "source": "met",
+      "title": "Kali and Jagaddhatri",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22727-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849484"
+    },
+    {
+      "id": "849487",
+      "source": "met",
+      "title": "Goddess Bhairavi",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22730-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849487"
+    },
+    {
+      "id": "849492",
+      "source": "met",
+      "title": "Dhumavati",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22735-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849492"
+    },
+    {
+      "id": "849493",
+      "source": "met",
+      "title": "Goddess Jagadhatri",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22736-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849493"
+    },
+    {
+      "id": "849494",
+      "source": "met",
+      "title": "Goddess Kamalatmika",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22737-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849494"
+    },
+    {
+      "id": "849495",
+      "source": "met",
+      "title": "Goddess Kali",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22738-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849495"
+    },
+    {
+      "id": "849496",
+      "source": "met",
+      "title": "Goddess Tara",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22739-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849496"
+    },
+    {
+      "id": "849497",
+      "source": "met",
+      "title": "Bhuvaneshvari",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22740-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849497"
+    },
+    {
+      "id": "849498",
+      "source": "met",
+      "title": "Goddess Dhumavati",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22741-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849498"
+    },
+    {
+      "id": "849499",
+      "source": "met",
+      "title": "Goddess Matangi",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22742-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849499"
+    },
+    {
+      "id": "849500",
+      "source": "met",
+      "title": "Kali, the wrathful protector",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22743-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849500"
+    },
+    {
+      "id": "849501",
+      "source": "met",
+      "title": "Jagadhatri, a benign form of Durga-Kali",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22744-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849501"
+    },
+    {
+      "id": "849502",
+      "source": "met",
+      "title": "Lakshmi",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22765-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849502"
+    },
+    {
+      "id": "849503",
+      "source": "met",
+      "title": "Goddess Sarasvati",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22766-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849503"
+    },
+    {
+      "id": "849515",
+      "source": "met",
+      "title": "Goddesses Bhuvanesvari and Bagala",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22777-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849515"
+    },
+    {
+      "id": "849518",
+      "source": "met",
+      "title": "Krishna subduing Kaliya",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22778-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849518"
+    },
+    {
+      "id": "849519",
+      "source": "met",
+      "title": "Shri Sheshanarayana",
+      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22779-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/849519"
+    },
+    {
       "id": "/488/https___www_esbirky_cz_detail_310220",
       "source": "europeana",
       "title": "Zámek visací se třemi klíči. Nápis v bengálském písmu: Sri Nabin Karigarh",
-      "image": "https://www.esbirky.cz/img.php?id=17549213",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17549213&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_310220"
     },
     {
       "id": "/91627/SMVK_EM_fotografi_1503590",
       "source": "europeana",
       "title": "Vanadisexpeditionen, stad, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1503606/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1503606%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_1503590"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7297",
       "source": "europeana",
       "title": "handduk",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612709/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612709%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7297"
     },
     {
       "id": "/91619/SMVK_EM_objekt_1174446",
       "source": "europeana",
       "title": "sharpness",
-      "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1271560/1871.01.0065.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1271560%2F1871.01.0065.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1174446"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10178",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611981/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F611981%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10178"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10179",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611985/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F611985%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10179"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10180",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611989/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F611989%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10180"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10181",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611993/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F611993%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10181"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10182",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/611997/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F611997%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10182"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10183",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612001/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612001%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10183"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10184",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612001/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612001%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10184"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10185",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612005/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612005%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10185"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10186",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612009/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612009%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10186"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_10187",
       "source": "europeana",
       "title": "spelkort",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612013/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612013%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_10187"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11133",
       "source": "europeana",
       "title": "spatel (?)",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612285/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612285%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11133"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11412",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612365/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612365%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11412"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11431",
       "source": "europeana",
       "title": "bröllopskrona",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612389/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612389%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11431"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_41248",
       "source": "europeana",
       "title": "sari, sari: kamdani tamdani-typ",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1907691/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1907691%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_41248"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_41346",
       "source": "europeana",
       "title": "klädesplagg: sari, Sari, sari",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1908339/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1908339%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_41346"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7190",
       "source": "europeana",
       "title": "figur, sculpture, figure",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612081/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612081%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7190"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7193",
       "source": "europeana",
       "title": "figur: djur: sköldpadda, sculpture, figure",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612093/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612093%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7193"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7221",
       "source": "europeana",
       "title": "kruka med lock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612181/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612181%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7221"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7222",
       "source": "europeana",
       "title": "kruka med lock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612185/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612185%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7222"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7223",
       "source": "europeana",
       "title": "kruka med lock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612189/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612189%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7223"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7224",
       "source": "europeana",
       "title": "kruka med lock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612193/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612193%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7224"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7229",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612201/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612201%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7229"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7230",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2346197/1998.04.0051.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2346197%2F1998.04.0051.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7230"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7235",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2406982/1998.04.0209.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2406982%2F1998.04.0209.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7235"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7239",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612229/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612229%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7239"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7240",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612233/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612233%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7240"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7241",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612237/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612237%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7241"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7242",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601694/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601694%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7242"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7243",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612241/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612241%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7243"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7244",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612245/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612245%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7244"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7245",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612249/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612249%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7245"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7246",
       "source": "europeana",
       "title": "bakform",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612253/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612253%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7246"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7247",
       "source": "europeana",
       "title": "båt i form av påfågel",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2320146/1998.04.0067.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2320146%2F1998.04.0067.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7247"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7252",
       "source": "europeana",
       "title": "brödkavel",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612265/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612265%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7252"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7253",
       "source": "europeana",
       "title": "kavelplatta",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612269/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612269%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7253"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7255",
       "source": "europeana",
       "title": "skärare (?)",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612277/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612277%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7255"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7256",
       "source": "europeana",
       "title": "eldtång",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612281/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612281%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7256"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7257",
       "source": "europeana",
       "title": "ugn i tre delar",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612289/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612289%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7257"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7259",
       "source": "europeana",
       "title": "kokosnöt",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612297/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612297%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7259"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7260",
       "source": "europeana",
       "title": "mangoblad",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612301/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612301%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7260"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7261",
       "source": "europeana",
       "title": "bel-blad",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612305/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612305%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7261"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7268",
       "source": "europeana",
       "title": "snäckskalhållare",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612333/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612333%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7268"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7273",
       "source": "europeana",
       "title": "oljelamphållare",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1118546/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1118546%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7273"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7274",
       "source": "europeana",
       "title": "oljelamphållare",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206265/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206265%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7274"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7280",
       "source": "europeana",
       "title": "eldstad",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612345/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612345%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7280"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7281",
       "source": "europeana",
       "title": "sandelträ",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206273/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206273%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7281"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7282",
       "source": "europeana",
       "title": "sandelträ",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612349/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612349%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7282"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7289",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612689/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612689%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7289"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7290",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612693/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612693%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7290"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7291",
       "source": "europeana",
       "title": "blåsinstrument",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612697/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612697%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7291"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7295",
       "source": "europeana",
       "title": "metallblad",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612701/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612701%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7295"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7301",
       "source": "europeana",
       "title": "bomullstuss",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612721/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612721%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7301"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7308",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601830/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601830%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7308"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7310",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612381/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612381%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7310"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7312",
       "source": "europeana",
       "title": "båt i form av påfågel",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2371328/1998.04.0120.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2371328%2F1998.04.0120.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7312"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7313",
       "source": "europeana",
       "title": "väggdraperi, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2252341/1998.04.0121_alt.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2252341%2F1998.04.0121_alt.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7313"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7316",
       "source": "europeana",
       "title": "Textil, sari, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2377891/1998.04.0124.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2377891%2F1998.04.0124.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7316"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7321",
       "source": "europeana",
       "title": "tryckblock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612393/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612393%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7321"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7322",
       "source": "europeana",
       "title": "tryckblock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612397/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612397%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7322"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7323",
       "source": "europeana",
       "title": "tryckblock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612401/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612401%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7323"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7324",
       "source": "europeana",
       "title": "tryckblock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612405/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612405%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7324"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7325",
       "source": "europeana",
       "title": "tryckblock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612409/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612409%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7325"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7326",
       "source": "europeana",
       "title": "tryckblock",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612413/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612413%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7326"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7328",
       "source": "europeana",
       "title": "täcke, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206293/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206293%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7328"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7330",
       "source": "europeana",
       "title": "sari, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2252366/1998.04.0134_alt.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2252366%2F1998.04.0134_alt.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7330"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7332",
       "source": "europeana",
       "title": "blus, Klädesplagg",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206309/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206309%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7332"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7389",
       "source": "europeana",
       "title": "redskap för framställning av sotsvärta",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612657/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612657%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7389"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7391",
       "source": "europeana",
       "title": "miniatyrsandal",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612665/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612665%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7391"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7392",
       "source": "europeana",
       "title": "miniatyrsandal",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612669/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612669%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7392"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8435",
       "source": "europeana",
       "title": "väv, textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2253657/1956.04.0014_alt.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2253657%2F1956.04.0014_alt.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8435"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8477",
       "source": "europeana",
       "title": "sari",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2767977/8477_1407.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2767977%2F8477_1407.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8477"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_8478",
       "source": "europeana",
       "title": "bomullsvävnad",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2250967/1962.24.0013.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2250967%2F1962.24.0013.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8478"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11087",
       "source": "europeana",
       "title": "figurin, figure, sculpture",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612169/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612169%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11087"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11091",
       "source": "europeana",
       "title": "figurin, figure, sculpture",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612173/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612173%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11091"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11092",
       "source": "europeana",
       "title": "figurin, sculpture, figure",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612177/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612177%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11092"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11093",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601678/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601678%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11093"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11095",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601686/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601686%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11095"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11135",
       "source": "europeana",
       "title": "ugn i tre delar",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601706/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601706%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11135"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11136",
       "source": "europeana",
       "title": "ugn i tre delar",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601710/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601710%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11136"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11137",
       "source": "europeana",
       "title": "fiskeredskap",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601714/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601714%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11137"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11138",
       "source": "europeana",
       "title": "fiskeredskap",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601718/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601718%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11138"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11426",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601834/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601834%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11426"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11436",
       "source": "europeana",
       "title": "sädesmått",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601878/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601878%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11436"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7184",
       "source": "europeana",
       "title": "handmålat lock av lera",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612057/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612057%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7184"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7185",
       "source": "europeana",
       "title": "handmålat lock av lera",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612061/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612061%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7185"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7186",
       "source": "europeana",
       "title": "handmålat lock av lera",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612065/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612065%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7186"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7187",
       "source": "europeana",
       "title": "handmålat lock av lera",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612069/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612069%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7187"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7191",
       "source": "europeana",
       "title": "figur, sculpture, figure",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612085/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612085%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7191"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7192",
       "source": "europeana",
       "title": "figur, sculpture, figure",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612089/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612089%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7192"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7194",
       "source": "europeana",
       "title": "kvinnlig docka",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612097/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612097%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7194"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7195",
       "source": "europeana",
       "title": "kvinnlig docka",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612101/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612101%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7195"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7196",
       "source": "europeana",
       "title": "kvinnlig docka",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612105/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612105%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7196"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7197",
       "source": "europeana",
       "title": "kvinnlig docka",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612109/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612109%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7197"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7199",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612129/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612129%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7199"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7201",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612133/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612133%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7201"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7202",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612137/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612137%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7202"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7203",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612141/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612141%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7203"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7204",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612145/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612145%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7204"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7205",
       "source": "europeana",
       "title": "figur: djur: häst, figure, sculpture",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601622/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601622%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7205"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7206",
       "source": "europeana",
       "title": "figur: djur: häst, figure, sculpture",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601626/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601626%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7206"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7207",
       "source": "europeana",
       "title": "figur: djur: häst, figure, sculpture",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601630/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601630%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7207"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7208",
       "source": "europeana",
       "title": "leksak",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601634/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601634%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7208"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7209",
       "source": "europeana",
       "title": "leksak",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601638/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601638%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7209"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7210",
       "source": "europeana",
       "title": "leksak",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601642/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601642%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7210"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7218",
       "source": "europeana",
       "title": "leksak",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612161/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612161%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7218"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7219",
       "source": "europeana",
       "title": "figurin, figure, sculpture",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612165/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612165%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7219"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7220",
       "source": "europeana",
       "title": "kruka, vessel, pot",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601662/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601662%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7220"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7227",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612197/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612197%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7227"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7228",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601674/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601674%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7228"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7231",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601682/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601682%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7231"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7232",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612209/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612209%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7232"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7233",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612213/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612213%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7233"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7234",
       "source": "europeana",
       "title": "gudastatyett",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601690/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601690%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7234"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7236",
       "source": "europeana",
       "title": "krus, jar, vessel",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612217/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612217%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7236"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7237",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612221/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612221%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7237"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7254",
       "source": "europeana",
       "title": "visp",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612273/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612273%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7254"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7258",
       "source": "europeana",
       "title": "fiskeredskap",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612294/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612294%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7258"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7266",
       "source": "europeana",
       "title": "tillbringare",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601722/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601722%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7266"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7272",
       "source": "europeana",
       "title": "oljelamphållare",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601734/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601734%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7272"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7275",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601738/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601738%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7275"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7277",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601746/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601746%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7277"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7279",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601754/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601754%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7279"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7287",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601762/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601762%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7287"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7288",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1118590/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1118590%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7288"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7296",
       "source": "europeana",
       "title": "offerkläder för statyetter",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612705/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612705%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7296"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7306",
       "source": "europeana",
       "title": "påfågel",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601774/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601774%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7306"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7307",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601782/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601782%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7307"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7309",
       "source": "europeana",
       "title": "imitationer av blommor",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601838/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601838%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7309"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7311",
       "source": "europeana",
       "title": "bröllopskrona",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612385/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612385%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7311"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7314",
       "source": "europeana",
       "title": "halsduk, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1118649/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1118649%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7314"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7315",
       "source": "europeana",
       "title": "sari, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206281/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206281%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7315"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7317",
       "source": "europeana",
       "title": "Textil, sari, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206353/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206353%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7317"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7318",
       "source": "europeana",
       "title": "Textil, sari, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206357/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206357%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7318"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7319",
       "source": "europeana",
       "title": "sari, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206361/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206361%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7319"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7320",
       "source": "europeana",
       "title": "sari, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206365/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206365%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7320"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7327",
       "source": "europeana",
       "title": "täcke, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206289/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206289%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7327"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7329",
       "source": "europeana",
       "title": "Textil, täcke, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206297/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206297%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7329"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7331",
       "source": "europeana",
       "title": "trasmatta, Textil, cloth",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206305/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206305%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7331"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7333",
       "source": "europeana",
       "title": "Klädesplagg, underkjol",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1206313/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206313%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7333"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7357",
       "source": "europeana",
       "title": "underlägg",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612513/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612513%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7357"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7358",
       "source": "europeana",
       "title": "underlägg",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612518/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612518%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7358"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7375",
       "source": "europeana",
       "title": "nyckelring",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612589/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612589%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7375"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7388",
       "source": "europeana",
       "title": "nötknäppare",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612653/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612653%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7388"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7393",
       "source": "europeana",
       "title": "vanna",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612725/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612725%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7393"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7400",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601882/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601882%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7400"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7401",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601886/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601886%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7401"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7990",
       "source": "europeana",
       "title": "vanna",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612685/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612685%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7990"
     },
     {
       "id": "/91609/SMVK_VKM_fotografi_2513393",
       "source": "europeana",
       "title": "musikinstrument, fotografi, photograph",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1907967/image.jpg",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1907967%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_2513393"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11413",
       "source": "europeana",
       "title": "påfågel",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601778/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601778%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11413"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11414",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601786/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601786%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11414"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11415",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601790/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601790%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11415"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11416",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601794/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601794%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11416"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11417",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601798/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601798%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11417"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11418",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601802/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601802%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11418"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11419",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601806/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601806%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11419"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11420",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601810/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601810%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11420"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11421",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601814/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601814%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11421"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11422",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601818/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601818%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11422"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11423",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601818/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601818%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11423"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11424",
       "source": "europeana",
       "title": "dekoration",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601826/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601826%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11424"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11427",
       "source": "europeana",
       "title": "imitationer av blommor",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601842/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601842%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11427"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11428",
       "source": "europeana",
       "title": "imitationer av blommor",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601846/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601846%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11428"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11429",
       "source": "europeana",
       "title": "imitationer av blommor",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601850/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601850%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11429"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11430",
       "source": "europeana",
       "title": "imitationer av blommor",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601854/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601854%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11430"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11433",
       "source": "europeana",
       "title": "sädesmått",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601866/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601866%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11433"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11434",
       "source": "europeana",
       "title": "sädesmått",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601870/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601870%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11434"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_11435",
       "source": "europeana",
       "title": "sädesmått",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601874/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601874%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_11435"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7217",
       "source": "europeana",
       "title": "leksak",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601658/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601658%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7217"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7276",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601742/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601742%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7276"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7278",
       "source": "europeana",
       "title": "oljelampa",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601750/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601750%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7278"
     },
     {
       "id": "/91608/SMVK_VKM_objekt_7350",
       "source": "europeana",
       "title": "sädesmått",
-      "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/601862/zoom",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601862%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_7350"
     }
   ]

@@ -1,22 +1,68 @@
 {
   "ethnicity_key": "sub-saharan-africa__liberia__krahn",
   "people_key": "Q265962",
-  "count": 4,
+  "count": 9,
   "buckets": {
     "sculpture": [
+      {
+        "id": "E_Af1971-34-6",
+        "source": "bm",
+        "title": "figure",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/1_13/fdc03f1d_ce6e_4026_a8b1_aa0300d6746c/preview_EAF8427.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-34-6"
+      },
       {
         "id": "/91608/SMVK_VKM_objekt_43642",
         "source": "europeana",
         "title": "Träskulptur, figur, sculpture, figurine",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1185781/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1185781%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43642"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_54287",
         "source": "europeana",
         "title": "figur, figurine, sculpture",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1936746/image.jpg",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1936746%2Fimage.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_54287"
+      }
+    ],
+    "arms": [
+      {
+        "id": "E_Af1929-18-a-t",
+        "source": "bm",
+        "title": "arrow",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/1_16/359e5392_508a_40aa_87c0_aa030107f8f4/preview_EAF3118.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1929-18-a-t"
+      },
+      {
+        "id": "E_Af1929-17",
+        "source": "bm",
+        "title": "arrow",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/1_16/c80a5532_b03f_4ad8_a0a6_aa030107f69d/preview_EAF3117.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1929-17"
+      },
+      {
+        "id": "E_Af1971-34-7",
+        "source": "bm",
+        "title": "ceremonial axe; religious/ritual equipment",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2020_2/12_15/51e8b3ae_b146_4eab_9793_ab5f0103c22e/preview_EAF8428.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-34-7"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "E_Af1971-34-8",
+        "source": "bm",
+        "title": "anklet",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/1_13/59934790_e159_4d84_aea2_aa0300d6774f/preview_EAF8429.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-34-8"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1284127",
+        "source": "europeana",
+        "title": "ring",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1847836%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1284127"
       }
     ],
     "masks-ritual": [
@@ -24,17 +70,8 @@
         "id": "/91608/SMVK_VKM_objekt_54291",
         "source": "europeana",
         "title": "mask",
-        "image": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1201805/zoom",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1201805%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_54291"
-      }
-    ],
-    "jewelry": [
-      {
-        "id": "/91619/SMVK_EM_objekt_1284127",
-        "source": "europeana",
-        "title": "ring",
-        "image": "https://collections.smvk.se/carlotta-em/web/image/zoom/1847836/image.jpg",
-        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1284127"
       }
     ]
   },
