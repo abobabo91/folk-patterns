@@ -345,27 +345,69 @@ def cmd_build() -> None:
     OUT_DIR.mkdir(exist_ok=True)
     for old in OUT_DIR.glob("*.json"):
         old.unlink()
+    stub_people = {s["ethnicity_key"]: s["people_key"]
+                   for s in json.loads((DATA_DIR / "unvetted" / "stubs.json").read_text(encoding="utf-8"))}
+    places_path = WORK / "stub_places.json"
+    places = json.loads(places_path.read_text(encoding="utf-8"))
     kinds = {"polygon": 0, "ellipse": 0}
     total = 0
     for c in _cultures():
         v = verdicts.get(c["key"])
         if not v:
             continue
+        marker = (c["lat"], c["lon"])
+        ellipse = _ellipse(v["ellipse"])
         picked = [shapes[i] for i in v["picks"] if i < len(shapes)]
+        geom = None
         if picked:
             geom = unary_union([s["geom"] for s in picked])
+            if _off(geom, marker) > MAX_OFF_KM:
+                if _off(ellipse, marker) <= MAX_OFF_KM:
+                    # the polygon is a part elsewhere (Dayak -> Malayic Dayak only)
+                    print(f"  {c['ethnicity']}: polygon {_off(geom, marker):.0f} km off, ellipse used", flush=True)
+                    geom = None
+                elif c["key"] in stub_people:
+                    # polygon and ellipse agree, the marker is the odd one out
+                    # (a Codex homeland point: Tapirapé 4 degrees too far north)
+                    pt = geom.representative_point()
+                    places[stub_people[c["key"]]] = {"lat": round(pt.y, 3), "lon": round(pt.x, 3), "source": "territory"}
+                    print(f"  {c['ethnicity']}: marker {_off(geom, marker):.0f} km off, moved to its polygon", flush=True)
+                else:
+                    print(f"  {c['ethnicity']}: vetted marker {_off(geom, marker):.0f} km off its polygon, check the seed", flush=True)
+        if geom is not None:
             minx, miny, maxx, maxy = geom.bounds
             geom = geom.simplify(max(0.01, min(0.1, max(maxx - minx, maxy - miny) / 200)), preserve_topology=True)
             kind, sources = "polygon", sorted({CREDITS[s["source"]] for s in picked})
         else:
-            geom, kind, sources = _ellipse(v["ellipse"]), "ellipse", ["approximate area estimated by Codex"]
+            if _off(ellipse, marker) > MAX_OFF_KM:
+                print(f"  {c['ethnicity']}: ellipse {_off(ellipse, marker):.0f} km off, centred on the marker", flush=True)
+                ellipse = _ellipse({**v["ellipse"], "lat": marker[0], "lon": marker[1]})
+            geom, kind, sources = ellipse, "ellipse", ["approximate area estimated by Codex"]
         kinds[kind] += 1
         feat = {"type": "Feature", "properties": {"kind": kind, "sources": sources}, "geometry": mapping(geom)}
         text = json.dumps(feat, separators=(",", ":"))
         text = re.sub(r"(\d+\.\d{3})\d+", r"\1", text)
         (OUT_DIR / f"{c['key']}.json").write_text(text, encoding="utf-8")
         total += len(text)
+    places_path.write_text(json.dumps(places, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"{kinds['polygon']} polygons, {kinds['ellipse']} ellipses, {total / 1e6:.1f} MB in {OUT_DIR}", flush=True)
+    print("moved markers take effect after unvetted.py build, build_index.py and another territories.py build", flush=True)
+
+
+# An area must sit around its marker: farther than this from the marker, a
+# polygon gives way to the ellipse, or the marker moves (see cmd_build).
+MAX_OFF_KM = 150
+
+
+def _off(geom, marker: tuple[float, float]) -> float:
+    """km from the marker to the area; 0 inside."""
+    from shapely.geometry import Point
+    from shapely.ops import nearest_points
+    pt = Point(marker[1], marker[0])
+    if geom.contains(pt):
+        return 0.0
+    q = nearest_points(geom, pt)[0]
+    return _km(marker, (q.y, q.x))
 
 
 def main() -> None:

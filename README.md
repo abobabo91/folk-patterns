@@ -187,7 +187,9 @@ throttles Met calls, leaves blocked ones uncached and starts a fresh client.
 
 Home areas: hovering a marker shades the culture's approximate area faintly,
 selecting it shades it stronger (`data/territories/<key>.json`, one GeoJSON
-Feature each, fetched on first use; MapLibre view only, the 3D globe has none).
+Feature each, fetched on first use). The 3D globe draws the same area as an
+outline (drei `Line`, 2 px over a dark underlay: a 1 px line disappeared under
+the marker halos around the Yoruba).
 `scripts/territories.py` builds them from three free sources: Asher & Moseley
 2007 speaker areas via Glottography (CC BY 4.0, glottocodes), Native Land
 Digital (CC0, the Americas and Oceania; the full GeoJSON downloaded without an
@@ -202,6 +204,18 @@ ellipse; 2.2 MB in all (Russians the largest file, 251 KB). Two samples of 20
 and 25 were read before the full run and the picks held up (Dogon and Miwok
 dialect areas merged, contact languages rejected). A naive name match alone
 reached 684 of 1,075.
+
+Every area must sit around its marker (`MAX_OFF_KM` = 150). In `build`, a
+polygon farther away gives way to the ellipse when the ellipse is near the
+marker (19 on 2026-10-05: Dayak got only Malayic Dayak, Malay only
+Kedah-Perak); when polygon and ellipse agree and the stub marker is the odd
+one out, the marker moves to the polygon via `stub_places.json` (source
+`territory`; Tapirapé, Xerente, Aweer and three more), and an ellipse far off
+is centred on the marker. Two vetted seed homelands had a dropped minus sign
+(Huastec in Myanmar, Gogo in Ethiopia) and were corrected; a check of all 460
+seed homelands against their country polygons found no other. After this all
+1,075 areas are within 150 km of the marker, 821 contain it. Nzema stays odd:
+its evidence is a BM "Zimba" record and its country Guinea-Bissau.
 
 The Astro dev server dies with EMFILE once `data/` is synced (about 19,000
 files). Check the site with `npx astro build` and

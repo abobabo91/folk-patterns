@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import maplibregl from 'maplibre-gl';
 import type { GlobePoint } from '../lib/types';
+import { loadTerritory } from '../lib/territories';
 import 'maplibre-gl/dist/maplibre-gl.css';
 
 interface Props {
@@ -16,16 +17,7 @@ const STYLE_URL_DARK =
 const STYLE_URL_LIGHT =
   'https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json';
 
-// A culture's approximate home area (scripts/territories.py): a source polygon
-// or a Codex ellipse, one small GeoJSON per culture, fetched on first use.
-const territories = new Map<string, Promise<any | null>>();
 const EMPTY = { type: 'FeatureCollection', features: [] } as any;
-function loadTerritory(key: string): Promise<any | null> {
-  if (!territories.has(key)) {
-    territories.set(key, fetch(`/data/territories/${key}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null));
-  }
-  return territories.get(key)!;
-}
 
 export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);

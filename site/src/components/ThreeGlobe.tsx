@@ -1,8 +1,9 @@
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react';
 import { Canvas, useFrame, useLoader } from '@react-three/fiber';
-import { Html, OrbitControls, Stars } from '@react-three/drei';
+import { Html, Line, OrbitControls, Stars } from '@react-three/drei';
 import * as THREE from 'three';
 import type { GlobePoint } from '../lib/types';
+import { loadTerritory, territoryRings } from '../lib/territories';
 
 export type EarthMode = 'satellite' | 'outlines';
 
@@ -81,6 +82,47 @@ function ringToSegments(ring: number[][], radius: number, out: number[]) {
     const b = latLonToVec3(ring[i + 1][1], ring[i + 1][0], radius);
     out.push(a.x, a.y, a.z, b.x, b.y, b.z);
   }
+}
+
+// The culture's home area as an outline on the sphere. Edges longer than a degree are
+// split so a large area's outline follows the curve instead of cutting
+// under the surface.
+function TerritoryOutline({ cultureKey, opacity }: { cultureKey: string | null; opacity: number }) {
+  const [feature, setFeature] = useState<{ key: string; f: any } | null>(null);
+  useEffect(() => {
+    if (!cultureKey) return;
+    let live = true;
+    loadTerritory(cultureKey).then((f) => live && setFeature({ key: cultureKey, f }));
+    return () => { live = false; };
+  }, [cultureKey]);
+  const segments = useMemo(() => {
+    if (!feature?.f) return null;
+    const positions: number[] = [];
+    for (const ring of territoryRings(feature.f)) {
+      const dense: number[][] = [];
+      for (let i = 0; i < ring.length - 1; i++) {
+        const [x1, y1] = ring[i], [x2, y2] = ring[i + 1];
+        const n = Math.max(1, Math.ceil(Math.hypot(x2 - x1, y2 - y1)));
+        for (let k = 0; k < n; k++) dense.push([x1 + ((x2 - x1) * k) / n, y1 + ((y2 - y1) * k) / n]);
+      }
+      dense.push(ring[ring.length - 1]);
+      ringToSegments(dense, GLOBE_RADIUS * 1.004, positions);
+    }
+    const pts: [number, number, number][] = [];
+    for (let i = 0; i < positions.length; i += 3) pts.push([positions[i], positions[i + 1], positions[i + 2]]);
+    return pts.length ? pts : null;
+  }, [feature]);
+  if (!cultureKey || !segments || feature?.key !== cultureKey) return null;
+  // A 1 px WebGL line vanished under the marker halos (checked on Yoruba), so
+  // a wide line over a dark underlay that keeps it readable on the satellite map.
+  return (
+    <>
+      <Line points={segments} segments lineWidth={4.5} color="#0a0a0c" transparent opacity={0.45 * opacity}
+        depthWrite={false} renderOrder={2} />
+      <Line points={segments} segments lineWidth={2} color="#ffd27a" transparent opacity={opacity}
+        depthWrite={false} renderOrder={3} />
+    </>
+  );
 }
 
 function CountryBorders({ theme, earthMode }: { theme: 'dark' | 'light'; earthMode: EarthMode }) {
@@ -263,6 +305,8 @@ function Markers({
 
   return (
     <>
+      <TerritoryOutline cultureKey={activeKey} opacity={1} />
+      <TerritoryOutline cultureKey={hoveredKey !== activeKey ? hoveredKey : null} opacity={0.55} />
       {items.map((it) => {
         const active = it.key === activeKey;
         const hovered = it.key === hoveredKey;
