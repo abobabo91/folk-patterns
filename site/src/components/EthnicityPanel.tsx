@@ -119,7 +119,7 @@ function ArtFormBucket({ af, label, items }: { af: string; label: string; items:
                 fetchpriority={i === 0 ? 'high' : (eager ? 'auto' : 'low')}
                 decoding="async"
                 onLoad={(e) => { (e.currentTarget.parentElement as HTMLElement).classList.remove('animate-pulse-slow'); }}
-                className="h-full w-full object-cover transition group-hover:scale-105"
+                className="h-full w-full object-contain p-1 transition group-hover:scale-105"
               />
             )}
             <span className="tile-tag absolute bottom-1 left-1 rounded-sm bg-ink/70 px-1.5 py-0.5 text-[9px] uppercase tracking-widest">
@@ -292,7 +292,7 @@ function UnvettedGrid({ items }: { items: UnvettedItem[] }) {
                 loading="lazy"
                 decoding="async"
                 onError={() => setFailed((current) => new Set(current).add(key))}
-                className="h-full w-full object-cover transition group-hover:scale-105"
+                className="h-full w-full object-contain p-1 transition group-hover:scale-105"
               />
               <span className="tile-tag absolute bottom-1 left-1 rounded-sm bg-ink/70 px-1.5 py-0.5 text-[9px]">
                 {item.title}
