@@ -12,7 +12,8 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join, resolve } from 'node:path';
 
 // The public mirror includes ethnicity/object shards and the optional
-// unvetted/ shards; scrape caches and vetting transcripts remain private.
+// unvetted/ and territories/ shards; scrape caches and vetting transcripts
+// remain private.
 
 const here = dirname(fileURLToPath(import.meta.url));
 const siteRoot = resolve(here, '..');
@@ -20,7 +21,7 @@ const src = resolve(siteRoot, '..', 'data');
 const dst = join(siteRoot, 'public', 'data');
 const FILES = ['index.json', 'globe.json'];
 const DIRS = ['ethnicities', 'objects'];
-const OPTIONAL_DIRS = ['unvetted'];
+const OPTIONAL_DIRS = ['unvetted', 'territories'];
 const KEEP = new Set([...FILES, ...DIRS, ...OPTIONAL_DIRS, 'world-countries.geojson']);
 
 if (!existsSync(src)) {

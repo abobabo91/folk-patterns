@@ -16,9 +16,32 @@ const STYLE_URL_DARK =
 const STYLE_URL_LIGHT =
   'https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json';
 
+// A culture's approximate home area (scripts/territories.py): a source polygon
+// or a Codex ellipse, one small GeoJSON per culture, fetched on first use.
+const territories = new Map<string, Promise<any | null>>();
+const EMPTY = { type: 'FeatureCollection', features: [] } as any;
+function loadTerritory(key: string): Promise<any | null> {
+  if (!territories.has(key)) {
+    territories.set(key, fetch(`/data/territories/${key}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null));
+  }
+  return territories.get(key)!;
+}
+
 export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
+  // Which culture each territory layer should show; a slow fetch for a culture
+  // the pointer has already left is dropped.
+  const shown = useRef<Record<string, string | null>>({ 'terr-active': null, 'terr-hover': null });
+  const showTerritory = (layer: 'terr-active' | 'terr-hover', key: string | null) => {
+    shown.current[layer] = key;
+    const src = mapRef.current?.getSource(layer) as maplibregl.GeoJSONSource | undefined;
+    if (!src) return;
+    if (!key) return src.setData(EMPTY);
+    loadTerritory(key).then((f) => {
+      if (shown.current[layer] === key) src.setData(f ?? EMPTY);
+    });
+  };
 
   useEffect(() => {
     if (!containerRef.current) return;
@@ -37,7 +60,10 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
     // The CARTO style carries its own "© CARTO, © OpenStreetMap" credit.
     // Compact = an (i) button; MapLibre opens it expanded, so it is closed
     // on load below, where it would otherwise cover the footer.
-    map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-left');
+    map.addControl(new maplibregl.AttributionControl({
+      compact: true,
+      customAttribution: 'Areas: Asher &amp; Moseley 2007 via Glottography (CC BY 4.0), Native Land Digital, GREG; others approximate',
+    }), 'bottom-left');
     mapRef.current = map;
     if (typeof window !== 'undefined') (window as any).__map = map;
 
@@ -70,6 +96,16 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
           duration: 0,
         });
       }
+
+      // Home areas sit under the markers: faint for the hovered culture,
+      // stronger for the selected one.
+      for (const [id, fill, line] of [['terr-hover', 0.1, 0.35], ['terr-active', 0.2, 0.75]] as const) {
+        map.addSource(id, { type: 'geojson', data: EMPTY });
+        map.addLayer({ id: `${id}-fill`, type: 'fill', source: id, paint: { 'fill-color': '#e0a94a', 'fill-opacity': fill } });
+        map.addLayer({ id: `${id}-line`, type: 'line', source: id,
+          paint: { 'line-color': '#e0a94a', 'line-opacity': line, 'line-width': 1 } });
+      }
+      showTerritory('terr-active', shown.current['terr-active']);
 
       // Glow halo — sqrt-ish stops so small collections stay visible while
       // large ones grow noticeably (Kinh 24 obj should look bigger than Chin 10).
@@ -158,6 +194,7 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         if (hovered) map.setFeatureState({ source: 'ethnicities', id: hovered }, { hover: false });
         hovered = key;
         if (key) map.setFeatureState({ source: 'ethnicities', id: key }, { hover: true });
+        showTerritory('terr-hover', key);
       };
       map.on('mousemove', 'eth-hit', (e) => {
         map.getCanvas().style.cursor = 'pointer';
@@ -184,10 +221,10 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [theme]);
 
-  // Reflect activeKey change by highlighting the selected feature.
+  // The selected culture's home area; before the map has loaded this only
+  // records the key, and the load handler draws it.
   useEffect(() => {
-    if (!mapRef.current || !mapRef.current.isStyleLoaded()) return;
-    // (Cheap version) — we already fly to on click. Nothing else needed for MVP.
+    showTerritory('terr-active', activeKey);
   }, [activeKey]);
 
   return <div ref={containerRef} style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }} />;

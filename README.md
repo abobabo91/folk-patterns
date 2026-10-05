@@ -135,6 +135,7 @@ python scripts/unvetted.py places
 python scripts/unvetted.py build
 python scripts/build_index.py
 python scripts/world_peoples.py gaps
+FOLK_LLM_BACKEND=codex python scripts/territories.py fetch|ids|match|judge|build
 ```
 
 `report` lists a people for visual picking only after the normal category
@@ -183,6 +184,24 @@ On the map a hovered marker grows 1.8x and turns opaque, and an invisible
 service: Finnish Heritage Agency originals answer 401. The Met sits behind
 Imperva, which blocked a long `resolve` run after ~2,000 requests; `resolve`
 throttles Met calls, leaves blocked ones uncached and starts a fresh client.
+
+Home areas: hovering a marker shades the culture's approximate area faintly,
+selecting it shades it stronger (`data/territories/<key>.json`, one GeoJSON
+Feature each, fetched on first use; MapLibre view only, the 3D globe has none).
+`scripts/territories.py` builds them from three free sources: Asher & Moseley
+2007 speaker areas via Glottography (CC BY 4.0, glottocodes), Native Land
+Digital (CC0, the Americas and Oceania; the full GeoJSON downloaded without an
+API key on 2026-10-05, the search endpoint needs one) and GREG (Atlas Narodov
+Mira 1964). Candidates come from name matches and from the glottocodes of the
+languages Wikidata lists for the people (P103, P2936); those include contact
+and national languages (Votes -> Estonian, Russian; Swazi -> Afrikaans), so
+local Codex picks the polygons that are the people's own and also draws an
+ellipse, used when nothing fits. On 2026-10-05: 1,052 of 1,075 cultures had a
+Q-id, 391 a glottocode; 794 had candidates; 732 got source polygons, 343 an
+ellipse; 2.2 MB in all (Russians the largest file, 251 KB). Two samples of 20
+and 25 were read before the full run and the picks held up (Dogon and Miwok
+dialect areas merged, contact languages rejected). A naive name match alone
+reached 684 of 1,075.
 
 The Astro dev server dies with EMFILE once `data/` is synced (about 19,000
 files). Check the site with `npx astro build` and
