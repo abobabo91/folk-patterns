@@ -362,13 +362,15 @@ function UnvettedSection({ ethKey, count, openByDefault = false }: { ethKey: str
               <UnvettedGrid items={data.buckets[af]} />
             </section>
           ))}
-          <details className="border-t border-dusk/50 pt-4">
-            <summary className="cursor-pointer font-serif text-lg font-medium text-parchment/75">
-              Other, uncategorised ({data.other.length})
-            </summary>
-            <p className="mt-2 text-xs text-parchment/60">Not reviewed and not sorted into a category.</p>
-            <div className="mt-4"><UnvettedGrid items={data.other} /></div>
-          </details>
+          {data.other.length > 0 && (
+            <details className="border-t border-dusk/50 pt-4">
+              <summary className="cursor-pointer font-serif text-lg font-medium text-parchment/75">
+                Other, uncategorised ({data.other.length})
+              </summary>
+              <p className="mt-2 text-xs text-parchment/60">Not reviewed and not sorted into a category.</p>
+              <div className="mt-4"><UnvettedGrid items={data.other} /></div>
+            </details>
+          )}
         </div>
       )}
     </details>
