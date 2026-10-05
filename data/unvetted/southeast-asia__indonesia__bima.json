@@ -110,6 +110,13 @@
         "title": "wayangfigur, skuggspelsdocka, wayang kulit",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3422349%2Fdia-1938.30.0547.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1026331"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_68789",
+        "source": "europeana",
+        "title": "mask, Wajang-mask",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1030001%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_68789"
       }
     ],
     "arms": [
@@ -156,37 +163,31 @@
         "title": "handskrift",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3592944%2F1972.08.0187_alt10.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91607/SMVK_EM_delobjekt_3584573"
+      },
+      {
+        "id": "/91607/SMVK_EM_delobjekt_3584571",
+        "source": "europeana",
+        "title": "handwriting",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3593009%2F1972.08.0187_alt8.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91607/SMVK_EM_delobjekt_3584571"
+      },
+      {
+        "id": "/91607/SMVK_EM_delobjekt_3584572",
+        "source": "europeana",
+        "title": "handwriting",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3593014%2F1972.08.0187_alt9.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91607/SMVK_EM_delobjekt_3584572"
+      }
+    ],
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1268636",
+        "source": "europeana",
+        "title": "konst, målning, bomulltyg, hantverk, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1269419%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1268636"
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_68789",
-      "source": "europeana",
-      "title": "mask, Wajang-mask",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1030001%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_68789"
-    },
-    {
-      "id": "/91607/SMVK_EM_delobjekt_3584571",
-      "source": "europeana",
-      "title": "handwriting",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3593009%2F1972.08.0187_alt8.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91607/SMVK_EM_delobjekt_3584571"
-    },
-    {
-      "id": "/91607/SMVK_EM_delobjekt_3584572",
-      "source": "europeana",
-      "title": "handwriting",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3593014%2F1972.08.0187_alt9.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91607/SMVK_EM_delobjekt_3584572"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1268636",
-      "source": "europeana",
-      "title": "konst, målning, bomulltyg, hantverk, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1269419%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1268636"
-    }
-  ]
+  "other": []
 }

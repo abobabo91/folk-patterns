@@ -30,6 +30,13 @@
     ],
     "photo": [
       {
+        "id": "/91609/SMVK_VKM_fotografi_112909",
+        "source": "europeana",
+        "title": "Tagalog man, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F501090%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112909"
+      },
+      {
         "id": "/91627/SMVK_EM_fotografi_2868833",
         "source": "europeana",
         "title": "gruppbild, fotografi, photograph",
@@ -89,22 +96,16 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE2411_SEQ_001_P.JPG%26Ninv%3DCE2411&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_9619_inventary_CE2411_table_FMUS_museum_MNA"
       }
+    ],
+    "garment": [
+      {
+        "id": "/2022703/pages_Main_idt_9943_inventary_CE4738_table_FMUS_museum_MNA",
+        "source": "europeana",
+        "title": "Camisa",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE4738_SEQ_004_P.JPG%26Ninv%3DCE4738&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_9943_inventary_CE4738_table_FMUS_museum_MNA"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "/91609/SMVK_VKM_fotografi_112909",
-      "source": "europeana",
-      "title": "Tagalog man, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F501090%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112909"
-    },
-    {
-      "id": "/2022703/pages_Main_idt_9943_inventary_CE4738_table_FMUS_museum_MNA",
-      "source": "europeana",
-      "title": "Camisa",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE4738_SEQ_004_P.JPG%26Ninv%3DCE4738&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_9943_inventary_CE4738_table_FMUS_museum_MNA"
-    }
-  ]
+  "other": []
 }

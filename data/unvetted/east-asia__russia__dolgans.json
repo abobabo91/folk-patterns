@@ -19,6 +19,22 @@
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1913-1114-58"
       }
     ],
+    "metalwork": [
+      {
+        "id": "A_As1972-Q-33",
+        "source": "bm",
+        "title": "buckle; ornament",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_3/8ca4a24b_b05d_4294_aa3c_a3d60034207b/preview_01049101_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1972-Q-33"
+      },
+      {
+        "id": "A_As1913-1114-53-a",
+        "source": "bm",
+        "title": "reindeer-harness",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/c07c171f_7b24_4253_bc5f_a3b8015612f7/preview_00331912_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1913-1114-53-a"
+      }
+    ],
     "arms": [
       {
         "id": "A_As1913-1114-76",
@@ -28,37 +44,24 @@
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1913-1114-76"
       }
     ],
-    "metalwork": [
+    "jewelry": [
       {
-        "id": "A_As1913-1114-53-a",
-        "source": "bm",
-        "title": "reindeer-harness",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/c07c171f_7b24_4253_bc5f_a3b8015612f7/preview_00331912_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/A_As1913-1114-53-a"
+        "id": "/2021009/_5426105207C47407B0E6194F9D271D55",
+        "source": "europeana",
+        "title": "saapaskoristeet",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D560009%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_5426105207C47407B0E6194F9D271D55"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "/2021009/_9BF7F848055DA94BDD3C56B67FDABD55",
+        "source": "europeana",
+        "title": "nukke",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D561793%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_9BF7F848055DA94BDD3C56B67FDABD55"
       }
     ]
   },
-  "other": [
-    {
-      "id": "A_As1972-Q-33",
-      "source": "bm",
-      "title": "buckle; ornament",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_3/8ca4a24b_b05d_4294_aa3c_a3d60034207b/preview_01049101_001.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/A_As1972-Q-33"
-    },
-    {
-      "id": "/2021009/_5426105207C47407B0E6194F9D271D55",
-      "source": "europeana",
-      "title": "saapaskoristeet",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D560009%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2021009/_5426105207C47407B0E6194F9D271D55"
-    },
-    {
-      "id": "/2021009/_9BF7F848055DA94BDD3C56B67FDABD55",
-      "source": "europeana",
-      "title": "nukke",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D561793%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2021009/_9BF7F848055DA94BDD3C56B67FDABD55"
-    }
-  ]
+  "other": []
 }

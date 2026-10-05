@@ -293,22 +293,25 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2479859%2F1939.53.0282.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17301"
       }
+    ],
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1978166",
+        "source": "europeana",
+        "title": "clay vessels, photography, ph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1978260%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1978166"
+      }
+    ],
+    "textile": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1351113",
+        "source": "europeana",
+        "title": "korg, basket, kol be sái i mali pe ke sa",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1365976%2F1910.11.0093_alt2.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1351113"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1978166",
-      "source": "europeana",
-      "title": "clay vessels, photography, ph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1978260%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1978166"
-    },
-    {
-      "id": "/91619/SMVK_EM_objekt_1351113",
-      "source": "europeana",
-      "title": "korg, basket, kol be sái i mali pe ke sa",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1365976%2F1910.11.0093_alt2.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1351113"
-    }
-  ]
+  "other": []
 }

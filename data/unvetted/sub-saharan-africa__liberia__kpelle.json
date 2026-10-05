@@ -14,6 +14,13 @@
     ],
     "jewelry": [
       {
+        "id": "E_Af1972-01-5",
+        "source": "bm",
+        "title": "ring; medicine (?)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/90653df6_4292_4241_8c45_a9a000eb28bd/preview_EAF8440.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-01-5"
+      },
+      {
         "id": "E_Af1972-01-4",
         "source": "bm",
         "title": "amulet",
@@ -26,6 +33,13 @@
         "title": "amulet",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/bc2d181b_896b_4ecd_b931_a9a000eb22c3/preview_EAF8438.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-01-3"
+      },
+      {
+        "id": "E_Af1971-34-11",
+        "source": "bm",
+        "title": "neck-band; medicine",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/1_13/db7e234c_706b_40a2_8569_aa0300d679c2/preview_EAF8432.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-34-11"
       }
     ],
     "masks-ritual": [
@@ -43,29 +57,16 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1215913%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_54178"
       }
+    ],
+    "household": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_51895",
+        "source": "europeana",
+        "title": "spelbräde",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1105629%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_51895"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "E_Af1972-01-5",
-      "source": "bm",
-      "title": "ring; medicine (?)",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/90653df6_4292_4241_8c45_a9a000eb28bd/preview_EAF8440.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1972-01-5"
-    },
-    {
-      "id": "E_Af1971-34-11",
-      "source": "bm",
-      "title": "neck-band; medicine",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/1_13/db7e234c_706b_40a2_8569_aa0300d679c2/preview_EAF8432.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-34-11"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_51895",
-      "source": "europeana",
-      "title": "spelbräde",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1105629%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_51895"
-    }
-  ]
+  "other": []
 }

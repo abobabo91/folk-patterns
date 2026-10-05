@@ -40,9 +40,37 @@
         "title": "Shoulder Cloth (Selendang)",
         "image": "https://images.metmuseum.org/CRDImages/ao/web-large/191352.jpg",
         "object_url": "https://www.metmuseum.org/art/collection/search/309544"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_72870",
+        "source": "europeana",
+        "title": "väv, Bälte, belt",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1171357%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_72870"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_48773",
+        "source": "europeana",
+        "title": "plangi",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206673%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48773"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_72842",
+        "source": "europeana",
+        "title": "Metallbroderi, ristäcke",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1077621%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_72842"
       }
     ],
     "arms": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1297282",
+        "source": "europeana",
+        "title": "sabel, svärd, sword",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3483902%2F1957.02.0016_alt.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1297282"
+      },
       {
         "id": "/91619/SMVK_EM_objekt_1309618",
         "source": "europeana",
@@ -72,6 +100,22 @@
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1957428"
       }
     ],
+    "metalwork": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_73558",
+        "source": "europeana",
+        "title": "skål, kärl, Silverskål, vessel",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1103873%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_73558"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_2606446",
+        "source": "europeana",
+        "title": "silver bowl, object image, crafts, silversmide, photography,",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249419%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_2606446"
+      }
+    ],
     "ceramic": [
       {
         "id": "/91608/SMVK_VKM_objekt_73572",
@@ -79,79 +123,38 @@
         "title": "kärl, skål, vessel",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2599115%2F1956.18.0001_001.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_73572"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_92410",
+        "source": "europeana",
+        "title": "kärl, preoek dalong",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1078197%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_92410"
+      }
+    ],
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1248348",
+        "source": "europeana",
+        "title": "föremålsbild, silverskål, silversmide, hantverk, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249415%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1248348"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1248349",
+        "source": "europeana",
+        "title": "silverskål, föremålsbild, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249407%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1248349"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_2606447",
+        "source": "europeana",
+        "title": "silverskål, föremålsbild, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249411%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_2606447"
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1297282",
-      "source": "europeana",
-      "title": "sabel, svärd, sword",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3483902%2F1957.02.0016_alt.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1297282"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_72870",
-      "source": "europeana",
-      "title": "väv, Bälte, belt",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1171357%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_72870"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_73558",
-      "source": "europeana",
-      "title": "skål, kärl, Silverskål, vessel",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1103873%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_73558"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1248348",
-      "source": "europeana",
-      "title": "föremålsbild, silverskål, silversmide, hantverk, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249415%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1248348"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1248349",
-      "source": "europeana",
-      "title": "silverskål, föremålsbild, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249407%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1248349"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_2606446",
-      "source": "europeana",
-      "title": "silver bowl, object image, crafts, silversmide, photography,",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249419%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_2606446"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_2606447",
-      "source": "europeana",
-      "title": "silverskål, föremålsbild, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249411%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_2606447"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_48773",
-      "source": "europeana",
-      "title": "plangi",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1206673%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48773"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_72842",
-      "source": "europeana",
-      "title": "Metallbroderi, ristäcke",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1077621%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_72842"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_92410",
-      "source": "europeana",
-      "title": "kärl, preoek dalong",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1078197%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_92410"
-    }
-  ]
+  "other": []
 }

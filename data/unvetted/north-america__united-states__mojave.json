@@ -30,6 +30,15 @@
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15266"
       }
     ],
+    "photo": [
+      {
+        "id": "/91627/SMVK_EM_fotografi_1461034",
+        "source": "europeana",
+        "title": "hustyper, Foto, photo",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1464530%2F0095.03.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_1461034"
+      }
+    ],
     "arms": [
       {
         "id": "/91619/SMVK_EM_objekt_1618805",
@@ -40,13 +49,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91627/SMVK_EM_fotografi_1461034",
-      "source": "europeana",
-      "title": "hustyper, Foto, photo",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1464530%2F0095.03.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_1461034"
-    }
-  ]
+  "other": []
 }

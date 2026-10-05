@@ -2,21 +2,25 @@
   "ethnicity_key": "north-america__united-states__kumeyaay",
   "people_key": "Q2143064",
   "count": 2,
-  "buckets": {},
-  "other": [
-    {
-      "id": "E_Am1949-02-35",
-      "source": "bm",
-      "title": "basket; olla",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/aa3a57df_5ca2_4bd0_b68d_a3bc006f973e/preview_00391310_001.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1949-02-35"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1972875",
-      "source": "europeana",
-      "title": "behållare, ekollon, förråd, gömställe, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1973458%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1972875"
-    }
-  ]
+  "buckets": {
+    "household": [
+      {
+        "id": "E_Am1949-02-35",
+        "source": "bm",
+        "title": "basket; olla",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/aa3a57df_5ca2_4bd0_b68d_a3bc006f973e/preview_00391310_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1949-02-35"
+      }
+    ],
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1972875",
+        "source": "europeana",
+        "title": "behållare, ekollon, förråd, gömställe, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1973458%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1972875"
+      }
+    ]
+  },
+  "other": []
 }

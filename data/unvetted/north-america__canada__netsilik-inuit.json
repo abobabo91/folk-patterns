@@ -3,6 +3,15 @@
   "people_key": "Q646152",
   "count": 16,
   "buckets": {
+    "household": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_32695",
+        "source": "europeana",
+        "title": "Spatel, märgskrapa",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2645848%2F1928.07.0050_001.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_32695"
+      }
+    ],
     "sculpture": [
       {
         "id": "/2022703/pages_Main_idt_25569_inventary_CE12478_table_FMUS_museum_MNA",
@@ -111,13 +120,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_32695",
-      "source": "europeana",
-      "title": "Spatel, märgskrapa",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2645848%2F1928.07.0050_001.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_32695"
-    }
-  ]
+  "other": []
 }

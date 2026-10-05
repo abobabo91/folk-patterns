@@ -2,14 +2,16 @@
   "ethnicity_key": "south-asia__india__nyishi",
   "people_key": "Q2418647",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/2021009/_FA160125C063C684902DD6A3A43DAF78",
-      "source": "europeana",
-      "title": "SOK:n toimitusjohtaja Osmo Nissi",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1052166%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2021009/_FA160125C063C684902DD6A3A43DAF78"
-    }
-  ]
+  "buckets": {
+    "photo": [
+      {
+        "id": "/2021009/_FA160125C063C684902DD6A3A43DAF78",
+        "source": "europeana",
+        "title": "SOK:n toimitusjohtaja Osmo Nissi",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1052166%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_FA160125C063C684902DD6A3A43DAF78"
+      }
+    ]
+  },
+  "other": []
 }

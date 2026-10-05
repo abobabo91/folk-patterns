@@ -2,28 +2,32 @@
   "ethnicity_key": "europe__luxembourg__luxembourgers",
   "people_key": "Q1092641",
   "count": 3,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/192/item_HHZSRJRQFCBRXMVBFN2NXABANGF7MIIA",
-      "source": "europeana",
-      "title": "Apfelbaum Sorte: Triumph aus Luxemburg - Baum 104",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Frlp.museum-digital.de%2Fdata%2Frlp%2Fimages%2F55%2F70866-baum_104%2Fapfelbaum_sorte_triumph_a%2Fapfelbaum-sorte-triumph-aus-luxemburg--baum-104-70866-11.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/192/item_HHZSRJRQFCBRXMVBFN2NXABANGF7MIIA"
-    },
-    {
-      "id": "/192/item_3OMAWFNYJBIGLAZB5TU6D2N2CLPHYSYE",
-      "source": "europeana",
-      "title": "AllInOne Traubenzerkleinerer und Kelter",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Frlp.museum-digital.de%2Fdata%2Frlp%2Fimages%2F55%2F142907-hr_3902%2Fxxxl_traubenzerkleinerer%2Fxxxl-traubenzerkleinerer-142907-232135.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/192/item_3OMAWFNYJBIGLAZB5TU6D2N2CLPHYSYE"
-    },
-    {
-      "id": "/192/item_ZNSOY6NFQBIKRCZVLHEPZP4D4R6IEC6S",
-      "source": "europeana",
-      "title": "Registrierkasse \"National\"",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Frlp.museum-digital.de%2Fdata%2Frlp%2Fimages%2F55%2F131131-hr_1002%2Fregistrierkasse_national%2Fregistrierkasse-national-131131-178827.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/192/item_ZNSOY6NFQBIKRCZVLHEPZP4D4R6IEC6S"
-    }
-  ]
+  "buckets": {
+    "photo": [
+      {
+        "id": "/192/item_HHZSRJRQFCBRXMVBFN2NXABANGF7MIIA",
+        "source": "europeana",
+        "title": "Apfelbaum Sorte: Triumph aus Luxemburg - Baum 104",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Frlp.museum-digital.de%2Fdata%2Frlp%2Fimages%2F55%2F70866-baum_104%2Fapfelbaum_sorte_triumph_a%2Fapfelbaum-sorte-triumph-aus-luxemburg--baum-104-70866-11.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/192/item_HHZSRJRQFCBRXMVBFN2NXABANGF7MIIA"
+      }
+    ],
+    "household": [
+      {
+        "id": "/192/item_3OMAWFNYJBIGLAZB5TU6D2N2CLPHYSYE",
+        "source": "europeana",
+        "title": "AllInOne Traubenzerkleinerer und Kelter",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Frlp.museum-digital.de%2Fdata%2Frlp%2Fimages%2F55%2F142907-hr_3902%2Fxxxl_traubenzerkleinerer%2Fxxxl-traubenzerkleinerer-142907-232135.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/192/item_3OMAWFNYJBIGLAZB5TU6D2N2CLPHYSYE"
+      },
+      {
+        "id": "/192/item_ZNSOY6NFQBIKRCZVLHEPZP4D4R6IEC6S",
+        "source": "europeana",
+        "title": "Registrierkasse \"National\"",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Frlp.museum-digital.de%2Fdata%2Frlp%2Fimages%2F55%2F131131-hr_1002%2Fregistrierkasse_national%2Fregistrierkasse-national-131131-178827.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/192/item_ZNSOY6NFQBIKRCZVLHEPZP4D4R6IEC6S"
+      }
+    ]
+  },
+  "other": []
 }

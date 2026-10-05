@@ -3,6 +3,15 @@
   "people_key": "Q966714",
   "count": 3,
   "buckets": {
+    "household": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_50716",
+        "source": "europeana",
+        "title": "fisknät, Fisknät., fishing-net, vachova",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2425639%2F1967.21.0017.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_50716"
+      }
+    ],
     "jewelry": [
       {
         "id": "/91607/SMVK_EM_delobjekt_2341603",
@@ -20,13 +29,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_50716",
-      "source": "europeana",
-      "title": "fisknät, Fisknät., fishing-net, vachova",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2425639%2F1967.21.0017.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_50716"
-    }
-  ]
+  "other": []
 }

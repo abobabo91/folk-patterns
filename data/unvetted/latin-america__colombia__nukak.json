@@ -2,14 +2,16 @@
   "ethnicity_key": "latin-america__colombia__nukak",
   "people_key": "Q512665",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/2022703/pages_Main_idt_26224_inventary_CE7610_table_FMUS_museum_MNA",
-      "source": "europeana",
-      "title": "Portacigarro",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE7610_SEQ_004_P.JPG%26Ninv%3DCE7610&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_26224_inventary_CE7610_table_FMUS_museum_MNA"
-    }
-  ]
+  "buckets": {
+    "household": [
+      {
+        "id": "/2022703/pages_Main_idt_26224_inventary_CE7610_table_FMUS_museum_MNA",
+        "source": "europeana",
+        "title": "Portacigarro",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE7610_SEQ_004_P.JPG%26Ninv%3DCE7610&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_26224_inventary_CE7610_table_FMUS_museum_MNA"
+      }
+    ]
+  },
+  "other": []
 }

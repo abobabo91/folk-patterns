@@ -2,21 +2,25 @@
   "ethnicity_key": "east-asia__china__ordos-mongols",
   "people_key": "Q4336104",
   "count": 2,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1191337",
-      "source": "europeana",
-      "title": "headgear, cap, cap, headgear, hat, beanie",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1191339%2F1982.10.0007_under.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1191337"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_113710",
-      "source": "europeana",
-      "title": "Miniatyr-baba, sten-babas, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F504638%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_113710"
-    }
-  ]
+  "buckets": {
+    "garment": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1191337",
+        "source": "europeana",
+        "title": "headgear, cap, cap, headgear, hat, beanie",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1191339%2F1982.10.0007_under.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1191337"
+      }
+    ],
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_113710",
+        "source": "europeana",
+        "title": "Miniatyr-baba, sten-babas, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F504638%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_113710"
+      }
+    ]
+  },
+  "other": []
 }

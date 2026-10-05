@@ -2,21 +2,25 @@
   "ethnicity_key": "east-asia__china__bai",
   "people_key": "Q275453",
   "count": 2,
-  "buckets": {},
-  "other": [
-    {
-      "id": "A_As1988-09-1",
-      "source": "bm",
-      "title": "strap; head-band (?)",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/6b92a1c9_5622_42e0_b055_a3dd0114ecd2/preview_01385554_001.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-09-1"
-    },
-    {
-      "id": "/91619/SMVK_EM_objekt_1014228",
-      "source": "europeana",
-      "title": "fälla, gonu-tempa",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1194099%2F1935.50.4177.A-B.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1014228"
-    }
-  ]
+  "buckets": {
+    "garment": [
+      {
+        "id": "A_As1988-09-1",
+        "source": "bm",
+        "title": "strap; head-band (?)",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/6b92a1c9_5622_42e0_b055_a3dd0114ecd2/preview_01385554_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-09-1"
+      }
+    ],
+    "household": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1014228",
+        "source": "europeana",
+        "title": "fälla, gonu-tempa",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1194099%2F1935.50.4177.A-B.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1014228"
+      }
+    ]
+  },
+  "other": []
 }

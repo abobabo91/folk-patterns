@@ -35,6 +35,15 @@
         "object_url": "https://www.metmuseum.org/art/collection/search/319150"
       }
     ],
+    "arms": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_14152",
+        "source": "europeana",
+        "title": "klubba, Stridsklubb",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2806548%2F1930.21.0001_4.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14152"
+      }
+    ],
     "household": [
       {
         "id": "/91608/SMVK_VKM_objekt_15148",
@@ -43,22 +52,16 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2409708%2F1938.08.0001.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15148"
       }
+    ],
+    "painting-mss": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_114462",
+        "source": "europeana",
+        "title": "målning, reproduktion, Konstverk, art",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F507846%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_114462"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_14152",
-      "source": "europeana",
-      "title": "klubba, Stridsklubb",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2806548%2F1930.21.0001_4.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14152"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_114462",
-      "source": "europeana",
-      "title": "målning, reproduktion, Konstverk, art",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F507846%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_114462"
-    }
-  ]
+  "other": []
 }

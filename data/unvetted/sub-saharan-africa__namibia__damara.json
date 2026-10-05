@@ -26,6 +26,15 @@
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_50917"
       }
     ],
+    "instruments": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1597080",
+        "source": "europeana",
+        "title": "luta, musikinstrument, stränginstrument, bågluta, musical instrument, string instrument",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25328683%2Fdia-1875.01.0157.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1597080"
+      }
+    ],
     "household": [
       {
         "id": "/91608/SMVK_VKM_objekt_29771",
@@ -34,22 +43,16 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1119714%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29771"
       }
+    ],
+    "garment": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1315995",
+        "source": "europeana",
+        "title": "dräkt, costume, garb, garment, dress",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1315997%2F1905.18.0419_alt.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1315995"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1597080",
-      "source": "europeana",
-      "title": "luta, musikinstrument, stränginstrument, bågluta, musical instrument, string instrument",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25328683%2Fdia-1875.01.0157.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1597080"
-    },
-    {
-      "id": "/91619/SMVK_EM_objekt_1315995",
-      "source": "europeana",
-      "title": "dräkt, costume, garb, garment, dress",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1315997%2F1905.18.0419_alt.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1315995"
-    }
-  ]
+  "other": []
 }

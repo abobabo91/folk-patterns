@@ -2,14 +2,16 @@
   "ethnicity_key": "sub-saharan-africa__tanzania__shirazi",
   "people_key": "Q603267",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "E_Af1936-0502-4",
-      "source": "bm",
-      "title": "figure; tombstone",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/4c9ab21c_d058_4d35_b961_a3e6014857d1/preview_01607396_001.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1936-0502-4"
-    }
-  ]
+  "buckets": {
+    "sculpture": [
+      {
+        "id": "E_Af1936-0502-4",
+        "source": "bm",
+        "title": "figure; tombstone",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/4c9ab21c_d058_4d35_b961_a3e6014857d1/preview_01607396_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1936-0502-4"
+      }
+    ]
+  },
+  "other": []
 }

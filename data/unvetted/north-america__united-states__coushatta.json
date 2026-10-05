@@ -2,28 +2,30 @@
   "ethnicity_key": "north-america__united-states__coushatta",
   "people_key": "Q494699",
   "count": 3,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/2021009/_1856C58B7433E459D7127ADB6855DC6F",
-      "source": "europeana",
-      "title": "Jukka Tolonen Band (JTB) yhtye esiintymässä Helsingin kesäviikoilla",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D944506%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2021009/_1856C58B7433E459D7127ADB6855DC6F"
-    },
-    {
-      "id": "/2021009/_68037BEFD405E240D13C9E134A712B24",
-      "source": "europeana",
-      "title": "Jukka Tolonen Band (JTB) yhtye esiintymässä Helsingin kesäviikoilla",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D945363%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2021009/_68037BEFD405E240D13C9E134A712B24"
-    },
-    {
-      "id": "/2022703/pages_Main_idt_162526_inventary_CE107579_table_FMUS_museum_MT",
-      "source": "europeana",
-      "title": "Cámara fotográfica",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMT%26img%3D%2FMT%2Ffondos_pre%2FMTFCE107579_P.JPG%26Ninv%3DCE107579&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_162526_inventary_CE107579_table_FMUS_museum_MT"
-    }
-  ]
+  "buckets": {
+    "photo": [
+      {
+        "id": "/2021009/_1856C58B7433E459D7127ADB6855DC6F",
+        "source": "europeana",
+        "title": "Jukka Tolonen Band (JTB) yhtye esiintymässä Helsingin kesäviikoilla",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D944506%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_1856C58B7433E459D7127ADB6855DC6F"
+      },
+      {
+        "id": "/2021009/_68037BEFD405E240D13C9E134A712B24",
+        "source": "europeana",
+        "title": "Jukka Tolonen Band (JTB) yhtye esiintymässä Helsingin kesäviikoilla",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D945363%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_68037BEFD405E240D13C9E134A712B24"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_162526_inventary_CE107579_table_FMUS_museum_MT",
+        "source": "europeana",
+        "title": "Cámara fotográfica",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMT%26img%3D%2FMT%2Ffondos_pre%2FMTFCE107579_P.JPG%26Ninv%3DCE107579&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_162526_inventary_CE107579_table_FMUS_museum_MT"
+      }
+    ]
+  },
+  "other": []
 }

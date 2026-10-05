@@ -2,14 +2,16 @@
   "ethnicity_key": "east-asia__russia__iron",
   "people_key": "Q4203419",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/951/Culturalia_124922d7_1773_4df5_9929_a418611a8598",
-      "source": "europeana",
-      "title": "Unealtă compusă dintr-o lamă metalică curbată la care este atașat un mâner din lemn strunjit, decorat cu linii incizate, circulare. Tăișul este dispus pe partea concavă a lamei, care este ușor subțiată spre vârf. Cromatică: metal – negru metalic; lemn – brun deschis.",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fresource.culturalia.ro%2Fpublic%2F2000%2F01%2F01%2F_SB-CNMA-validat_2020_07%2520Iulie%25202020_necatalogate_Muzeul%2520ASTRA_necatalogate_Muzeul%2520ASTRA_necatalogate_iulie_2020%2FImagini%2F3D6C673DFDDB42C0A31A2134CCD0F3D5.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/951/Culturalia_124922d7_1773_4df5_9929_a418611a8598"
-    }
-  ]
+  "buckets": {
+    "metalwork": [
+      {
+        "id": "/951/Culturalia_124922d7_1773_4df5_9929_a418611a8598",
+        "source": "europeana",
+        "title": "Unealtă compusă dintr-o lamă metalică curbată la care este atașat un mâner din lemn strunjit, decorat cu linii incizate, circulare. Tăișul este dispus pe partea concavă a lamei, care este ușor subțiată spre vârf. Cromatică: metal – negru metalic; lemn – brun deschis.",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fresource.culturalia.ro%2Fpublic%2F2000%2F01%2F01%2F_SB-CNMA-validat_2020_07%2520Iulie%25202020_necatalogate_Muzeul%2520ASTRA_necatalogate_Muzeul%2520ASTRA_necatalogate_iulie_2020%2FImagini%2F3D6C673DFDDB42C0A31A2134CCD0F3D5.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/951/Culturalia_124922d7_1773_4df5_9929_a418611a8598"
+      }
+    ]
+  },
+  "other": []
 }

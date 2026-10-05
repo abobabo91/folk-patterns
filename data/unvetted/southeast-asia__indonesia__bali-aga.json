@@ -2,14 +2,16 @@
   "ethnicity_key": "southeast-asia__indonesia__bali-aga",
   "people_key": "Q4850828",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_48816",
-      "source": "europeana",
-      "title": "vävnad (fragment), fabric, Geringsing cemplong",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1231788%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48816"
-    }
-  ]
+  "buckets": {
+    "textile": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_48816",
+        "source": "europeana",
+        "title": "vävnad (fragment), fabric, Geringsing cemplong",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1231788%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48816"
+      }
+    ]
+  },
+  "other": []
 }

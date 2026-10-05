@@ -12,6 +12,13 @@
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1297273"
       },
       {
+        "id": "/91619/SMVK_EM_objekt_1306774",
+        "source": "europeana",
+        "title": "dolk, keris, dagger",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3481914%2F1889.04.4137_alt.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1306774"
+      },
+      {
         "id": "/91619/SMVK_EM_objekt_1306775",
         "source": "europeana",
         "title": "dagger",
@@ -96,11 +103,57 @@
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_69137"
       },
       {
+        "id": "/91608/SMVK_VKM_objekt_69163",
+        "source": "europeana",
+        "title": "svärd, kniv, knife, sword, golok, keris, kris",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1171297%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_69163"
+      },
+      {
         "id": "/91608/SMVK_VKM_objekt_72836",
         "source": "europeana",
         "title": "dolk, dagger, keris, kris",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1077573%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_72836"
+      }
+    ],
+    "textile": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_105104",
+        "source": "europeana",
+        "title": "Batik, Ragam hias Mega",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2272165%2F2000.01.0004.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_105104"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_105105",
+        "source": "europeana",
+        "title": "Batik, Ragam hias Mega",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2272180%2F2000.01.0005.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_105105"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_105106",
+        "source": "europeana",
+        "title": "Batik, Kain panjang",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2272195%2F2000.01.0006.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_105106"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_71995",
+        "source": "europeana",
+        "title": "batik, textil, Kain-pandjang, cloth, selendan",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2253958%2F1977.09.0078_alt.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71995"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_2640796",
+        "source": "europeana",
+        "title": "teckning, drawing, tekening",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2654253%2F2017.04.0027_002.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_2640796"
       }
     ],
     "instruments": [
@@ -122,55 +175,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1306774",
-      "source": "europeana",
-      "title": "dolk, keris, dagger",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3481914%2F1889.04.4137_alt.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1306774"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_105104",
-      "source": "europeana",
-      "title": "Batik, Ragam hias Mega",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2272165%2F2000.01.0004.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_105104"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_105105",
-      "source": "europeana",
-      "title": "Batik, Ragam hias Mega",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2272180%2F2000.01.0005.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_105105"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_105106",
-      "source": "europeana",
-      "title": "Batik, Kain panjang",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2272195%2F2000.01.0006.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_105106"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_2640796",
-      "source": "europeana",
-      "title": "teckning, drawing, tekening",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2654253%2F2017.04.0027_002.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_2640796"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_71995",
-      "source": "europeana",
-      "title": "batik, textil, Kain-pandjang, cloth, selendan",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2253958%2F1977.09.0078_alt.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71995"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_69163",
-      "source": "europeana",
-      "title": "svärd, kniv, knife, sword, golok, keris, kris",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1171297%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_69163"
-    }
-  ]
+  "other": []
 }

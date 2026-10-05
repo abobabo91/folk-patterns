@@ -2,14 +2,16 @@
   "ethnicity_key": "europe__russia__savakot",
   "people_key": "Q11892657",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/2021009/_186267c6_8f29_40f9_a80b_adb0a448b394",
-      "source": "europeana",
-      "title": "savakkotyttöjä",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D3439432%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2021009/_186267c6_8f29_40f9_a80b_adb0a448b394"
-    }
-  ]
+  "buckets": {
+    "photo": [
+      {
+        "id": "/2021009/_186267c6_8f29_40f9_a80b_adb0a448b394",
+        "source": "europeana",
+        "title": "savakkotyttöjä",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D3439432%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_186267c6_8f29_40f9_a80b_adb0a448b394"
+      }
+    ]
+  },
+  "other": []
 }

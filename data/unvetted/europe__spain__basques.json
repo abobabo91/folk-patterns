@@ -2,35 +2,42 @@
   "ethnicity_key": "europe__spain__basques",
   "people_key": "Q126756",
   "count": 4,
-  "buckets": {},
+  "buckets": {
+    "arms": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1161960",
+        "source": "europeana",
+        "title": "skjutvapen, gevär, vapen, rifle",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1161962%2F2003.05.0001.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1161960"
+      }
+    ],
+    "garment": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_37515",
+        "source": "europeana",
+        "title": "Sandaler, sandal, abarka  (på euskera)",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1234080%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37515"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_37520",
+        "source": "europeana",
+        "title": "flöjt, flute, txistu (på euskera)",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2148145%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37520"
+      }
+    ]
+  },
   "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1161960",
-      "source": "europeana",
-      "title": "skjutvapen, gevär, vapen, rifle",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1161962%2F2003.05.0001.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1161960"
-    },
     {
       "id": "/2022703/pages_Main_idt_50813_inventary_CE049860_table_FMUS_museum_MT",
       "source": "europeana",
       "title": "Etiqueta de hotel",
       "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMT%26img%3D%2FMT%2Ffondos_pre%2FMTFCE049860_P.JPG%26Ninv%3DCE049860&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_50813_inventary_CE049860_table_FMUS_museum_MT"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_37515",
-      "source": "europeana",
-      "title": "Sandaler, sandal, abarka  (på euskera)",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1234080%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37515"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_37520",
-      "source": "europeana",
-      "title": "flöjt, flute, txistu (på euskera)",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2148145%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37520"
     }
   ]
 }

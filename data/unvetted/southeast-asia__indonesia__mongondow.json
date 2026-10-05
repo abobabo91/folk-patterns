@@ -2,42 +2,44 @@
   "ethnicity_key": "southeast-asia__indonesia__mongondow",
   "people_key": "Q3320681",
   "count": 5,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1319170",
-      "source": "europeana",
-      "title": "kvinna, utsmyckning, huvudprydnad, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319631%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319170"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1319172",
-      "source": "europeana",
-      "title": "kvinna, utsmyckning, huvudprydnad, flicka, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319639%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319172"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1319173",
-      "source": "europeana",
-      "title": "flicka, utsmyckning, kvinna, huvudprydnad, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319643%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319173"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1319174",
-      "source": "europeana",
-      "title": "kvinna, huvudprydnad, utsmyckning, smycke, flicka, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319647%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319174"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1319202",
-      "source": "europeana",
-      "title": "embellishment, headgear, woman, girl, photography, ph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319679%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319202"
-    }
-  ]
+  "buckets": {
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1319170",
+        "source": "europeana",
+        "title": "kvinna, utsmyckning, huvudprydnad, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319631%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319170"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1319172",
+        "source": "europeana",
+        "title": "kvinna, utsmyckning, huvudprydnad, flicka, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319639%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319172"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1319173",
+        "source": "europeana",
+        "title": "flicka, utsmyckning, kvinna, huvudprydnad, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319643%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319173"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1319174",
+        "source": "europeana",
+        "title": "kvinna, huvudprydnad, utsmyckning, smycke, flicka, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319647%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319174"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1319202",
+        "source": "europeana",
+        "title": "embellishment, headgear, woman, girl, photography, ph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1319679%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1319202"
+      }
+    ]
+  },
+  "other": []
 }

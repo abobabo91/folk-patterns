@@ -196,6 +196,13 @@
         "object_url": "https://www.metmuseum.org/art/collection/search/74670"
       },
       {
+        "id": "74672",
+        "source": "met",
+        "title": "Design for a Hookah Base",
+        "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP166087.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/74672"
+      },
+      {
         "id": "74680",
         "source": "met",
         "title": "Woman with a Turban Dressed as Radha",
@@ -679,13 +686,50 @@
         "object_url": "https://clevelandart.org/art/114208"
       }
     ],
+    "ceramic": [
+      {
+        "id": "445003",
+        "source": "met",
+        "title": "Mold for Jewelry",
+        "image": "https://images.metmuseum.org/CRDImages/is/web-large/sf07-207-1ba.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/445003"
+      },
+      {
+        "id": "154775",
+        "source": "cleveland",
+        "title": "Plate with Nandi in Center",
+        "image": "https://openaccess-cdn.clevelandart.org/1989.352/1989.352_web.jpg",
+        "object_url": "https://clevelandart.org/art/154775"
+      }
+    ],
     "jewelry": [
+      {
+        "id": "445004",
+        "source": "met",
+        "title": "Anklet",
+        "image": "https://images.metmuseum.org/CRDImages/is/web-large/sf10-207-2a.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/445004"
+      },
       {
         "id": "445005",
         "source": "met",
         "title": "Bracelet",
         "image": "https://images.metmuseum.org/CRDImages/is/web-large/LC-07_207_3.jpg",
         "object_url": "https://www.metmuseum.org/art/collection/search/445005"
+      },
+      {
+        "id": "446706",
+        "source": "met",
+        "title": "Anklet, One of a Pair",
+        "image": "https://images.metmuseum.org/CRDImages/is/web-large/LC-15_95_3.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/446706"
+      },
+      {
+        "id": "446707",
+        "source": "met",
+        "title": "Anklet, One of a Pair",
+        "image": "https://images.metmuseum.org/CRDImages/is/web-large/LC-15_95_4-view2.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/446707"
       },
       {
         "id": "446726",
@@ -812,48 +856,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "74672",
-      "source": "met",
-      "title": "Design for a Hookah Base",
-      "image": "https://images.metmuseum.org/CRDImages/as/web-large/DP166087.jpg",
-      "object_url": "https://www.metmuseum.org/art/collection/search/74672"
-    },
-    {
-      "id": "445003",
-      "source": "met",
-      "title": "Mold for Jewelry",
-      "image": "https://images.metmuseum.org/CRDImages/is/web-large/sf07-207-1ba.jpg",
-      "object_url": "https://www.metmuseum.org/art/collection/search/445003"
-    },
-    {
-      "id": "445004",
-      "source": "met",
-      "title": "Anklet",
-      "image": "https://images.metmuseum.org/CRDImages/is/web-large/sf10-207-2a.jpg",
-      "object_url": "https://www.metmuseum.org/art/collection/search/445004"
-    },
-    {
-      "id": "446706",
-      "source": "met",
-      "title": "Anklet, One of a Pair",
-      "image": "https://images.metmuseum.org/CRDImages/is/web-large/LC-15_95_3.jpg",
-      "object_url": "https://www.metmuseum.org/art/collection/search/446706"
-    },
-    {
-      "id": "446707",
-      "source": "met",
-      "title": "Anklet, One of a Pair",
-      "image": "https://images.metmuseum.org/CRDImages/is/web-large/LC-15_95_4-view2.jpg",
-      "object_url": "https://www.metmuseum.org/art/collection/search/446707"
-    },
-    {
-      "id": "154775",
-      "source": "cleveland",
-      "title": "Plate with Nandi in Center",
-      "image": "https://openaccess-cdn.clevelandart.org/1989.352/1989.352_web.jpg",
-      "object_url": "https://clevelandart.org/art/154775"
-    }
-  ]
+  "other": []
 }

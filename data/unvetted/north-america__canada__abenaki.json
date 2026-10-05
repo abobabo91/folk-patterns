@@ -12,6 +12,13 @@
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1996-11-1"
       },
       {
+        "id": "E_Am1995-08-1-a-f",
+        "source": "bm",
+        "title": "canoe; model group; doll",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_16/f5185156_eb1a_42b2_a850_a3c5010b6487/preview_00955061_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1995-08-1-a-f"
+      },
+      {
         "id": "E_Am1984-28-2",
         "source": "bm",
         "title": "canoe; model",
@@ -19,23 +26,15 @@
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1984-28-2"
       }
     ],
-    "household": [
+    "garment": [
       {
-        "id": "E_Am1995-08-1-a-f",
-        "source": "bm",
-        "title": "canoe; model group; doll",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_16/f5185156_eb1a_42b2_a850_a3c5010b6487/preview_00955061_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1995-08-1-a-f"
+        "id": "/91608/SMVK_VKM_objekt_16908",
+        "source": "europeana",
+        "title": "sko (snö), Snörskor",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F507670%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16908"
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_16908",
-      "source": "europeana",
-      "title": "sko (snö), Snörskor",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F507670%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16908"
-    }
-  ]
+  "other": []
 }

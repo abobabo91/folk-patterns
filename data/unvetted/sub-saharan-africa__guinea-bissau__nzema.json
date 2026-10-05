@@ -12,13 +12,20 @@
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1138"
       }
     ],
-    "instruments": [
+    "masks-ritual": [
       {
-        "id": "E_Af1954-23-662",
+        "id": "E_Af1898-0615-1-b",
         "source": "bm",
-        "title": "drum",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/18_15/15ad4e54_2ccc_4f38_8d5a_a6a300f74a92/preview_EAF51580.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-662"
+        "title": "oracle-set; vessel",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_8/e883a844_af8b_471b_b71e_a3b6008ab4a3/preview_00182432_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1898-0615-1-b"
+      },
+      {
+        "id": "E_Af1898-0615-1-c",
+        "source": "bm",
+        "title": "artefact; oracle-set",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_8/e883a844_af8b_471b_b71e_a3b6008ab4a3/preview_00182432_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1898-0615-1-c"
       },
       {
         "id": "E_Af1898-0615-1-a",
@@ -27,22 +34,16 @@
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/dff85a3a_04ff_4173_9244_a3df0176ff9f/preview_01558442_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1898-0615-1-a"
       }
+    ],
+    "instruments": [
+      {
+        "id": "E_Af1954-23-662",
+        "source": "bm",
+        "title": "drum",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/18_15/15ad4e54_2ccc_4f38_8d5a_a6a300f74a92/preview_EAF51580.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-662"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "E_Af1898-0615-1-b",
-      "source": "bm",
-      "title": "oracle-set; vessel",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_8/e883a844_af8b_471b_b71e_a3b6008ab4a3/preview_00182432_001.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1898-0615-1-b"
-    },
-    {
-      "id": "E_Af1898-0615-1-c",
-      "source": "bm",
-      "title": "artefact; oracle-set",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_8/e883a844_af8b_471b_b71e_a3b6008ab4a3/preview_00182432_001.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1898-0615-1-c"
-    }
-  ]
+  "other": []
 }

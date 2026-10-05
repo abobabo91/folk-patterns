@@ -11,22 +11,25 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1860299%2Fimage.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1018219"
       }
+    ],
+    "metalwork": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1018220",
+        "source": "europeana",
+        "title": "idiofon, klocka, bell",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1848248%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1018220"
+      }
+    ],
+    "household": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1018232",
+        "source": "europeana",
+        "title": "lampa, lamp",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1149820%2F1938.30.0114.A-D.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1018232"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1018220",
-      "source": "europeana",
-      "title": "idiofon, klocka, bell",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1848248%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1018220"
-    },
-    {
-      "id": "/91619/SMVK_EM_objekt_1018232",
-      "source": "europeana",
-      "title": "lampa, lamp",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1149820%2F1938.30.0114.A-D.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1018232"
-    }
-  ]
+  "other": []
 }

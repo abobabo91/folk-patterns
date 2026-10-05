@@ -2,14 +2,16 @@
   "ethnicity_key": "sub-saharan-africa__south-africa__ndwandwe",
   "people_key": "Q3337519",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1533086",
-      "source": "europeana",
-      "title": "korg, basket, Imbenge",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1535451%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1533086"
-    }
-  ]
+  "buckets": {
+    "household": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1533086",
+        "source": "europeana",
+        "title": "korg, basket, Imbenge",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1535451%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1533086"
+      }
+    ]
+  },
+  "other": []
 }

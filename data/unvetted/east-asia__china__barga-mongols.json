@@ -3,6 +3,15 @@
   "people_key": "Q2721972",
   "count": 2,
   "buckets": {
+    "instruments": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1016409",
+        "source": "europeana",
+        "title": "Lur, aerophone, oräwun",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1194087%2F1935.50.4186.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1016409"
+      }
+    ],
     "sculpture": [
       {
         "id": "/91608/SMVK_VKM_objekt_61379",
@@ -13,13 +22,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1016409",
-      "source": "europeana",
-      "title": "Lur, aerophone, oräwun",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1194087%2F1935.50.4186.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1016409"
-    }
-  ]
+  "other": []
 }

@@ -54,6 +54,22 @@
         "title": "kärl, Lerkärl",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1111981%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_12757"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_12747",
+        "source": "europeana",
+        "title": "Matskål, kärl, skål",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1111977%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_12747"
+      }
+    ],
+    "household": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_41316",
+        "source": "europeana",
+        "title": "kam, vävt band, fabric",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1112038%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_41316"
       }
     ],
     "jewelry": [
@@ -98,20 +114,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_12747",
-      "source": "europeana",
-      "title": "Matskål, kärl, skål",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1111977%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_12747"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_41316",
-      "source": "europeana",
-      "title": "kam, vävt band, fabric",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1112038%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_41316"
-    }
-  ]
+  "other": []
 }

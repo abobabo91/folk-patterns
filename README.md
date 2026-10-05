@@ -156,7 +156,9 @@ points.
 State on 2026-10-05 (`report --threshold 6`): 1,335 peoples with evidence,
 580 listed, 755 unreviewed-only. 615 of those have at least one resolvable
 image and appear as stub cultures; the site carries 70,032 unreviewed
-objects, 10,513 of them in "Other, uncategorised". `docs/gaps.md` shows Europe
+objects, 2,269 of them in "Other, uncategorised" after the object names were
+mapped to kinds by local Codex (`FOLK_LLM_BACKEND=codex python scripts/normalize_kinds.py --world`,
+5,682 names on 2026-10-05; before it 10,513 were uncategorised). `docs/gaps.md` shows Europe
 at 214 living peoples, 113 with evidence, 73 on the site, and South Asia at
 116, 80, 62. The rest have no
 record under any of their names in the current sources.

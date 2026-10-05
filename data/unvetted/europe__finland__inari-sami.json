@@ -2,14 +2,16 @@
   "ethnicity_key": "europe__finland__inari-sami",
   "people_key": "Q1411194",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/2021009/_74D5791D14E0FDD78A797A3B555273D7",
-      "source": "europeana",
-      "title": "inarinsaamelainen poroineen",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D953136%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2021009/_74D5791D14E0FDD78A797A3B555273D7"
-    }
-  ]
+  "buckets": {
+    "photo": [
+      {
+        "id": "/2021009/_74D5791D14E0FDD78A797A3B555273D7",
+        "source": "europeana",
+        "title": "inarinsaamelainen poroineen",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D953136%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_74D5791D14E0FDD78A797A3B555273D7"
+      }
+    ]
+  },
+  "other": []
 }

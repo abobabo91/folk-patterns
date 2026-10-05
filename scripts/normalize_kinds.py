@@ -16,6 +16,9 @@ Model: claude-haiku-4-5-20251001, ~$0.04 per 250 names. Measured 2026-09-25 with
 The 15 differences are mostly borderline (bag: textile vs household, axe: tool vs
 arms), plus a few Haiku errors (rattle -> household). Sonnet cost $0.43 for that
 batch because it ignores MAX_THINKING_TOKENS=0.
+With FOLK_LLM_BACKEND=codex the batches go to local Codex instead: the 5,682
+Romanian, Finnish, Swedish and Dutch world names of 2026-10-05 were mapped that
+way (a 100-name sample read first: cahlă -> tile, pirtanauha -> woven band).
 """
 from __future__ import annotations
 

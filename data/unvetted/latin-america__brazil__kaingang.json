@@ -5,11 +5,41 @@
   "buckets": {
     "sculpture": [
       {
+        "id": "/91608/SMVK_VKM_objekt_41562",
+        "source": "europeana",
+        "title": "Träskulptur, figur: djur: häst, sculpture, figure",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2319871%2F1957.04.0001_alt3.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_41562"
+      },
+      {
         "id": "/91608/SMVK_VKM_objekt_41567",
         "source": "europeana",
         "title": "figur, Träskulptur, figurine, sculpture",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F517150%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_41567"
+      }
+    ],
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_116672",
+        "source": "europeana",
+        "title": "Wooden horse, photograph, ph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F517142%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_116672"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_116673",
+        "source": "europeana",
+        "title": "Trähäst, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F517146%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_116673"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_116674",
+        "source": "europeana",
+        "title": "Ryttarfigurer, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F517150%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_116674"
       }
     ],
     "arms": [
@@ -22,34 +52,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_41562",
-      "source": "europeana",
-      "title": "Träskulptur, figur: djur: häst, sculpture, figure",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2319871%2F1957.04.0001_alt3.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_41562"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_116672",
-      "source": "europeana",
-      "title": "Wooden horse, photograph, ph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F517142%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_116672"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_116673",
-      "source": "europeana",
-      "title": "Trähäst, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F517146%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_116673"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_116674",
-      "source": "europeana",
-      "title": "Ryttarfigurer, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F517150%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_116674"
-    }
-  ]
+  "other": []
 }

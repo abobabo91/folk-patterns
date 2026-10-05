@@ -2,21 +2,25 @@
   "ethnicity_key": "latin-america__peru__urarina",
   "people_key": "Q2726954",
   "count": 2,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1976622",
-      "source": "europeana",
-      "title": "indiankvinna, malsten, majs, malning, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1976663%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1976622"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_36271",
-      "source": "europeana",
-      "title": "koger m.m.",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1110981%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36271"
-    }
-  ]
+  "buckets": {
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1976622",
+        "source": "europeana",
+        "title": "indiankvinna, malsten, majs, malning, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1976663%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1976622"
+      }
+    ],
+    "arms": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_36271",
+        "source": "europeana",
+        "title": "koger m.m.",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1110981%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36271"
+      }
+    ]
+  },
+  "other": []
 }

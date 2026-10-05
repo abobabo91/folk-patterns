@@ -2,28 +2,32 @@
   "ethnicity_key": "latin-america__honduras__lenca",
   "people_key": "Q1257826",
   "count": 3,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_33354",
-      "source": "europeana",
-      "title": "offersten",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1176153%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_33354"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_33356",
-      "source": "europeana",
-      "title": "figurkärl, kärl, sculpture, figure, vessel",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1084729%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_33356"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_33362",
-      "source": "europeana",
-      "title": "Lerkärl., kärl, skål",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1084734%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_33362"
-    }
-  ]
+  "buckets": {
+    "masks-ritual": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_33354",
+        "source": "europeana",
+        "title": "offersten",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1176153%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_33354"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_33356",
+        "source": "europeana",
+        "title": "figurkärl, kärl, sculpture, figure, vessel",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1084729%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_33356"
+      },
+      {
+        "id": "/91608/SMVK_VKM_objekt_33362",
+        "source": "europeana",
+        "title": "Lerkärl., kärl, skål",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1084734%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_33362"
+      }
+    ]
+  },
+  "other": []
 }

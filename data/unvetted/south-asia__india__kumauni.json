@@ -2,21 +2,23 @@
   "ethnicity_key": "south-asia__india__kumauni",
   "people_key": "Q3630074",
   "count": 2,
-  "buckets": {},
-  "other": [
-    {
-      "id": "A_As1910-1018-2",
-      "source": "bm",
-      "title": "chatelaine; fire-steel; bell; tweezers; ear-pick; spoon; animal remains",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/16_17/4e90d11d_1bde_446a_9885_b2df011d69e7/preview_As1910_1018_2.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-1018-2"
-    },
-    {
-      "id": "A_As1910-1018-3",
-      "source": "bm",
-      "title": "chatelaine; pin",
-      "image": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/16_16/ddf4091d_29a2_4b1a_9693_b2df0117f1ba/preview_As1910_1018_3.jpg",
-      "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-1018-3"
-    }
-  ]
+  "buckets": {
+    "metalwork": [
+      {
+        "id": "A_As1910-1018-2",
+        "source": "bm",
+        "title": "chatelaine; fire-steel; bell; tweezers; ear-pick; spoon; animal remains",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/16_17/4e90d11d_1bde_446a_9885_b2df011d69e7/preview_As1910_1018_2.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-1018-2"
+      },
+      {
+        "id": "A_As1910-1018-3",
+        "source": "bm",
+        "title": "chatelaine; pin",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2025_5/16_16/ddf4091d_29a2_4b1a_9693_b2df0117f1ba/preview_As1910_1018_3.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-1018-3"
+      }
+    ]
+  },
+  "other": []
 }

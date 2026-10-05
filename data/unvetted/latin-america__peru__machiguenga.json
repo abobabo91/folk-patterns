@@ -2,14 +2,16 @@
   "ethnicity_key": "latin-america__peru__machiguenga",
   "people_key": "Q1511518",
   "count": 1,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_53007",
-      "source": "europeana",
-      "title": "snusrör, Snusrör.",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2247513%2F1971.16.0001.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_53007"
-    }
-  ]
+  "buckets": {
+    "household": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_53007",
+        "source": "europeana",
+        "title": "snusrör, Snusrör.",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2247513%2F1971.16.0001.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_53007"
+      }
+    ]
+  },
+  "other": []
 }

@@ -3,6 +3,31 @@
   "people_key": "Q2882312",
   "count": 4,
   "buckets": {
+    "photo": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_114159",
+        "source": "europeana",
+        "title": "vävning, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F506538%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_114159"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_114156",
+        "source": "europeana",
+        "title": "varpning, fotografi, photograph",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F506526%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_114156"
+      }
+    ],
+    "arms": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_97780",
+        "source": "europeana",
+        "title": "pil: elefantpil, Elefantpil",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1194489%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_97780"
+      }
+    ],
     "household": [
       {
         "id": "/91608/SMVK_VKM_objekt_97783",
@@ -11,31 +36,7 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1108993%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_97783"
       }
-    ],
-    "photo": [
-      {
-        "id": "/91609/SMVK_VKM_fotografi_114156",
-        "source": "europeana",
-        "title": "varpning, fotografi, photograph",
-        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F506526%2Fzoom&type=IMAGE&size=w400",
-        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_114156"
-      }
     ]
   },
-  "other": [
-    {
-      "id": "/91609/SMVK_VKM_fotografi_114159",
-      "source": "europeana",
-      "title": "vävning, fotografi, photograph",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F506538%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_114159"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_97780",
-      "source": "europeana",
-      "title": "pil: elefantpil, Elefantpil",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1194489%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_97780"
-    }
-  ]
+  "other": []
 }

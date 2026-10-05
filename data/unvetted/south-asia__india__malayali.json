@@ -11,22 +11,25 @@
         "image": "https://images.metmuseum.org/CRDImages/as/web-large/1994_28_2.jpg",
         "object_url": "https://www.metmuseum.org/art/collection/search/39431"
       }
+    ],
+    "household": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_8397",
+        "source": "europeana",
+        "title": "flöte",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2284363%2F1953.14.0001b.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8397"
+      }
+    ],
+    "textile": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_8398",
+        "source": "europeana",
+        "title": "spets",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2284367%2F1953.14.0001c.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8398"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_8397",
-      "source": "europeana",
-      "title": "flöte",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2284363%2F1953.14.0001b.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8397"
-    },
-    {
-      "id": "/91608/SMVK_VKM_objekt_8398",
-      "source": "europeana",
-      "title": "spets",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2284367%2F1953.14.0001c.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_8398"
-    }
-  ]
+  "other": []
 }

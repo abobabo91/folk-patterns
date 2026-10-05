@@ -156,6 +156,15 @@
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_46637"
       }
     ],
+    "instruments": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_73480",
+        "source": "europeana",
+        "title": "tvåfälls-trumma, Tvåfällstrumma, odap",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1100970%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_73480"
+      }
+    ],
     "photo": [
       {
         "id": "/91609/SMVK_VKM_fotografi_1268620",
@@ -166,13 +175,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_73480",
-      "source": "europeana",
-      "title": "tvåfälls-trumma, Tvåfällstrumma, odap",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1100970%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_73480"
-    }
-  ]
+  "other": []
 }

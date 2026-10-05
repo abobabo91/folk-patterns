@@ -2,28 +2,30 @@
   "ethnicity_key": "latin-america__brazil__apiaca",
   "people_key": "Q2415009",
   "count": 3,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1300582",
-      "source": "europeana",
-      "title": "Native Americans, drawing, drawing, drawing",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1301396%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1300582"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1300583",
-      "source": "europeana",
-      "title": "Man, drawing, Indian, portrait, drawing, drawing",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1301400%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1300583"
-    },
-    {
-      "id": "/91609/SMVK_VKM_fotografi_1300636",
-      "source": "europeana",
-      "title": "Indian, portrait, face painting, drawing, young, earring, man, reproduction, drawing, drawing",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1301772%2Fimage.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1300636"
-    }
-  ]
+  "buckets": {
+    "painting-mss": [
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1300582",
+        "source": "europeana",
+        "title": "Native Americans, drawing, drawing, drawing",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1301396%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1300582"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1300583",
+        "source": "europeana",
+        "title": "Man, drawing, Indian, portrait, drawing, drawing",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1301400%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1300583"
+      },
+      {
+        "id": "/91609/SMVK_VKM_fotografi_1300636",
+        "source": "europeana",
+        "title": "Indian, portrait, face painting, drawing, young, earring, man, reproduction, drawing, drawing",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1301772%2Fimage.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1300636"
+      }
+    ]
+  },
+  "other": []
 }

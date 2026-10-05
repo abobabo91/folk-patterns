@@ -33,6 +33,15 @@
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_1570335"
       }
     ],
+    "household": [
+      {
+        "id": "/91608/SMVK_VKM_objekt_16842",
+        "source": "europeana",
+        "title": "askfat",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1116134%2Fzoom&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16842"
+      }
+    ],
     "arms": [
       {
         "id": "/91619/SMVK_EM_objekt_1066978",
@@ -43,13 +52,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/91608/SMVK_VKM_objekt_16842",
-      "source": "europeana",
-      "title": "askfat",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1116134%2Fzoom&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16842"
-    }
-  ]
+  "other": []
 }

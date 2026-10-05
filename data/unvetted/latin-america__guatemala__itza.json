@@ -2,21 +2,23 @@
   "ethnicity_key": "latin-america__guatemala__itza",
   "people_key": "Q606377",
   "count": 2,
-  "buckets": {},
-  "other": [
-    {
-      "id": "/750/item_GPYAAJFPSCEJTL3SRLYNZG2P4AWWUTQN",
-      "source": "europeana",
-      "title": "Unknown Provenance, Vessel (PNK: MFA 1988.1184)",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fclassicmayan.kor.de.dariah.eu%2Fmedia%2Fdownload%2Foriginal%2F000%2F009%2F720%2Fimage.jpg%3F1574951117&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/750/item_GPYAAJFPSCEJTL3SRLYNZG2P4AWWUTQN"
-    },
-    {
-      "id": "/750/item_E3DRZLOV42DY36BBOLG7MZN6BP3OO4C5",
-      "source": "europeana",
-      "title": "Unknown Provenance, Vessel (PNK: EMB IV Ca 49845)",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fclassicmayan.kor.de.dariah.eu%2Fmedia%2Fdownload%2Foriginal%2F000%2F011%2F708%2Fimage.jpg%3F1580394723&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/750/item_E3DRZLOV42DY36BBOLG7MZN6BP3OO4C5"
-    }
-  ]
+  "buckets": {
+    "ceramic": [
+      {
+        "id": "/750/item_GPYAAJFPSCEJTL3SRLYNZG2P4AWWUTQN",
+        "source": "europeana",
+        "title": "Unknown Provenance, Vessel (PNK: MFA 1988.1184)",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fclassicmayan.kor.de.dariah.eu%2Fmedia%2Fdownload%2Foriginal%2F000%2F009%2F720%2Fimage.jpg%3F1574951117&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/750/item_GPYAAJFPSCEJTL3SRLYNZG2P4AWWUTQN"
+      },
+      {
+        "id": "/750/item_E3DRZLOV42DY36BBOLG7MZN6BP3OO4C5",
+        "source": "europeana",
+        "title": "Unknown Provenance, Vessel (PNK: EMB IV Ca 49845)",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fclassicmayan.kor.de.dariah.eu%2Fmedia%2Fdownload%2Foriginal%2F000%2F011%2F708%2Fimage.jpg%3F1580394723&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/750/item_E3DRZLOV42DY36BBOLG7MZN6BP3OO4C5"
+      }
+    ]
+  },
+  "other": []
 }

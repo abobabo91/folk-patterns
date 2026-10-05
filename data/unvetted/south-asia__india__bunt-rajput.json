@@ -3,6 +3,15 @@
   "people_key": "Q3521909",
   "count": 2,
   "buckets": {
+    "garment": [
+      {
+        "id": "/2048221/europeana_fashion_57842",
+        "source": "europeana",
+        "title": "Staatsiejas van de Sultan Hamengku Buwono VI en VII van Yogyakarta",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-1595-2.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_57842"
+      }
+    ],
     "household": [
       {
         "id": "/91619/SMVK_EM_objekt_1361004",
@@ -13,13 +22,5 @@
       }
     ]
   },
-  "other": [
-    {
-      "id": "/2048221/europeana_fashion_57842",
-      "source": "europeana",
-      "title": "Staatsiejas van de Sultan Hamengku Buwono VI en VII van Yogyakarta",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-1595-2.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_57842"
-    }
-  ]
+  "other": []
 }
