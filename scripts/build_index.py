@@ -666,7 +666,7 @@ def build() -> None:
                     if by_trad[t]:
                         interleaved.append(by_trad[t].pop(0))
             return [{k: v for k, v in it.items() if not k.startswith("_")} for it in interleaved]
-        writeup_md = None if meta.get("stub") else _load_writeup(meta["region"], meta["country"], meta["ethnicity"])
+        writeup_md = _load_writeup(meta["region"], meta["country"], meta["ethnicity"])
         media = {} if meta.get("stub") else _load_media(meta["region"], meta["country"], meta["ethnicity"])
 
         # Fallback: if the museum-object gallery is empty or very thin, promote

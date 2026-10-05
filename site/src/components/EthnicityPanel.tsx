@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { marked } from 'marked';
 import type { EthnicityShard, GlobePoint, SlimObject, CommonsPhoto, UnescoIchEntry, FolkwaysEntry, UnvettedItem, UnvettedShard } from '../lib/types';
 
@@ -104,10 +104,14 @@ function ArtFormBucket({ af, label, items }: { af: string; label: string; items:
           // the browser doesn't queue it behind lazy-loaded siblings.
           // Tiles 7-9 in the initial view + all Show-More tiles stay lazy.
           const eager = !expanded && i < 6;
+          // Commons photos have no object page (build_index writes none for
+          // them); they open their Commons file page instead.
+          const external = obj.source === 'commons' && !!obj.object_url;
           return (
           <a
             key={obj.id}
-            href={`/object/${obj.id}`}
+            href={external ? obj.object_url : `/object/${obj.id}`}
+            {...(external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
             className="card group relative aspect-square block bg-gradient-to-br from-dusk/40 to-dusk/10 animate-pulse-slow overflow-hidden"
             title={obj.title || obj.tradition || ''}
           >
@@ -507,6 +511,17 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
 export function EthnicityPanel({ point, shard, onClose }: Props) {
   const isOpen = !!point;
   const unvettedOnly = !!(point?.unvetted_only || shard?.unvetted_only);
+  // Escape closes the panel, except while typing (the search box takes it).
+  useEffect(() => {
+    if (!isOpen) return;
+    const onKey = (e: KeyboardEvent) => {
+      const t = e.target as HTMLElement | null;
+      if (e.key !== 'Escape' || e.defaultPrevented || t?.closest('input, textarea, [contenteditable]')) return;
+      onClose();
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [isOpen, onClose]);
   return (
     <aside
       className={
@@ -515,8 +530,22 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
       }
     >
       {point && (
+        // Zero-height sticky row: the close button stays in the corner while
+        // the panel scrolls, without pushing the content down.
+        <div className="sticky top-0 z-20 flex h-0 justify-end">
+          <button
+            onClick={onClose}
+            className="close-btn mr-6 mt-6 rounded-full border border-dusk bg-night px-2 py-1 text-[11px] shadow-sm"
+            aria-label="Close (Esc)"
+            title="Close (Esc)"
+          >
+            ✕
+          </button>
+        </div>
+      )}
+      {point && (
         <div className="p-8">
-          <div className="flex items-start justify-between">
+          <div className="flex items-start justify-between pr-10">
             <div>
               <div className="sub-mono font-mono text-[10px] uppercase tracking-widest">
                 {point.country} · {point.homeland_place ?? point.region}
@@ -533,13 +562,6 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
                 </p>
               )}
             </div>
-            <button
-              onClick={onClose}
-              className="close-btn rounded-full border border-dusk px-2 py-1 text-[11px]"
-              aria-label="Close"
-            >
-              ✕
-            </button>
           </div>
 
           {/* Seed traditions */}
@@ -558,7 +580,7 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
               When there's no writeup yet (new region, or ethnicity we
               haven't written up), fall back to rendering all art_form
               buckets in order so tiles still appear on the page. */}
-          {!unvettedOnly && shard?.writeup_markdown ? (
+          {shard?.writeup_markdown && shard.art_form_buckets ? (
             <WriteupSection markdown={shard.writeup_markdown} shard={shard} />
           ) : !unvettedOnly && shard ? (
             <div className="mt-8 border-t border-dusk pt-6 space-y-8">
@@ -574,8 +596,8 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
             <MediaSection shard={shard} />
           ) : null}
 
-          {/* An unreviewed-only culture has no other content; its candidates
-              are the page. Existing vetted cultures keep this section last. */}
+          {/* An unreviewed-only culture has at most a Wikipedia-based writeup
+              above; its candidates are the rest of the page. Existing vetted cultures keep this section last. */}
           {shard && point && unvettedOnly && (
             <UnvettedSection key={point.key} ethKey={point.key} count={shard.unvetted_count ?? 0} openByDefault />
           )}

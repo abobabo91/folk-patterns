@@ -19,6 +19,7 @@ Usage:
     python scripts/generate_writeups.py central_asia --only "Uzbek"
     python scripts/generate_writeups.py east_asia --only Ainu --force --export-batch w001
     python scripts/generate_writeups.py --import-batch w001
+    python scripts/generate_writeups.py --stubs --only Vepsians   # unreviewed stub cultures, Wikipedia only
 """
 from __future__ import annotations
 
@@ -156,8 +157,123 @@ def writeup_path(region: str, country: str, ethnicity: str) -> Path:
     return CONTENT_DIR / slugify(region) / f"{slugify(country)}__{slugify(ethnicity)}.md"
 
 
+STUB_TITLES = DATA_DIR / "world" / "stub_wiki_titles.json"
+# A thin article leaves most sections saying only "The sources used do not
+# document Savakot textile ..." (savakot, 2026-10-05: 11 of 14 sections). A
+# trailing "but they do not name Y" clause is cut; a sentence that is only such
+# a source-gap remark is dropped.
+_GAP = r"(?:do|does|did) not (?:describe|mention|specify|say|give|record|document|identify|name|provide|detail|discuss|cover|indicate|explain|list|state)"
+_GAP_CLAUSE = re.compile(r",? (?:but|although|yet|though)(?: the [a-z ]{0,25}sources?(?: used)?| they| it| this)?(?: also)? " + _GAP + r"[^.]*\.")
+_NOT_COVERED = re.compile(r"(?:^|(?<=[.!?*”’])[ \t]+)[^.\n]*\b(?:[Ss]ources?(?: used)?|[Tt]hey|[Ii]t)(?: also| therefore)? " + _GAP + r"[^.\n]*\.", re.M)
+
+
+def _drop_uncovered(md: str) -> str:
+    """Remove "the sources do not cover X" sentences, then every section left
+    empty, then a "## Material culture" with no subsection left."""
+    md = _GAP_CLAUSE.sub(".", md)
+    md = _NOT_COVERED.sub("", md)
+    # List items and bold lead-ins ("**Motifs.**") the removal left empty.
+    md = re.sub(r"(?m)^[ \t]*(?:[-*•]|\d+\.)[ \t]*(?:\*\*[^*\n]*\*\*)?[ \t]*$\n?", "", md)
+    md = re.sub(r"(?m)^[ \t]*\*\*[^*\n]*\*\*[ \t]*$\n?", "", md)
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    parts = re.split(r"(?m)^(?=#{2,3} )", md)
+    head, sections = parts[0], parts[1:]
+    kept = [s for s in sections if s.split("\n", 1)[1:] and s.split("\n", 1)[1].strip()
+            or s.startswith("## Material culture")]
+    out = []
+    for i, s in enumerate(kept):
+        nxt = kept[i + 1] if i + 1 < len(kept) else ""
+        if s.startswith("## Material culture") and not s.split("\n", 1)[1].strip() and not nxt.startswith("### "):
+            continue
+        out.append(s.rstrip() + "\n\n")
+    return (head + "".join(out)).rstrip() + "\n"
+
+
+def _stub_titles(stubs: list[dict]) -> dict[str, str | None]:
+    """English Wikipedia title per stub people (Q-id), from Wikidata sitelinks; cached."""
+    import httpx
+    cache = json.loads(STUB_TITLES.read_text(encoding="utf-8")) if STUB_TITLES.exists() else {}
+    todo = sorted({s["people_key"] for s in stubs} - set(cache))
+    for n in range(0, len(todo), 50):
+        part = todo[n:n + 50]
+        r = httpx.get("https://www.wikidata.org/w/api.php", timeout=60,
+                      headers={"User-Agent": "folk-patterns/0.1 (https://folk-patterns.vercel.app)"},
+                      params={"action": "wbgetentities", "ids": "|".join(part), "props": "sitelinks",
+                              "sitefilter": "enwiki", "format": "json"}).json()
+        for q in part:
+            cache[q] = (((r.get("entities") or {}).get(q) or {}).get("sitelinks") or {}).get("enwiki", {}).get("title")
+    STUB_TITLES.write_text(json.dumps(cache, indent=1, ensure_ascii=False), encoding="utf-8")
+    return cache
+
+
+def run_stubs(only: str, limit: int, force: bool, workers: int = 3) -> None:
+    """Writeups for the unreviewed stub cultures (data/unvetted/stubs.json),
+    grounded only in Wikipedia: the people's own article (Wikidata sitelink)
+    plus the related ones. Their museum objects are text-matched and
+    unreviewed, so they are not a source. No article, no writeup: nothing is
+    written from memory."""
+    stubs = json.loads((DATA_DIR / "unvetted" / "stubs.json").read_text(encoding="utf-8"))
+    titles = _stub_titles(stubs)
+    needle = (only or "").lower()
+    todo = [s for s in stubs if (not needle or needle in s["ethnicity"].lower())
+            and (force or not writeup_path(s["region"], s["country"], s["ethnicity"]).exists())]
+    if limit:
+        todo = todo[:limit]
+    print(f"stubs: {len(todo)} to write", flush=True)
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(workers) as ex:
+        list(ex.map(lambda s: _stub_writeup(s, titles), todo))
+
+
+def _stub_writeup(s: dict, titles: dict) -> None:
+    region, country, ethnicity = s["region"], s["country"], s["ethnicity"]
+    out_path = writeup_path(region, country, ethnicity)
+    title = titles.get(s["people_key"])
+    wiki = None
+    if title:
+        try:
+            wiki = wiki_fetch_article(title)
+        except Exception as e:
+            print(f"[skip] {ethnicity}: Wikipedia fetch failed ({e})", flush=True)
+            return
+    extra = _extra_articles(ethnicity, (wiki or {}).get("title"))
+    if not (wiki and wiki.get("full_text")) and not extra:
+        print(f"[skip] {country} / {ethnicity}: no Wikipedia article", flush=True)
+        with open(AUDIT_LOG, "a", encoding="utf-8") as f:
+            f.write(json.dumps({"ethnicity": ethnicity, "country": country, "region": region,
+                                "stub": True, "skipped": "no Wikipedia article"}, ensure_ascii=False) + "\n")
+        return
+    print(f"[gen ] {country} / {ethnicity} (stub; {1 if wiki else 0}+{len(extra)} Wikipedia articles, "
+          f"{len((wiki or {}).get('full_text') or '')} chars main) ...", flush=True)
+    sources = grounding_sources_text(wiki, None, extra, "(none)")
+    try:
+        md = generate_writeup(country, ethnicity, region, [], wiki=wiki, ich=None, extra_wiki=extra)
+        probs = unsupported(sources, md)
+        if probs:
+            print(f"  audit: {len(probs)} unsupported, retrying: {'; '.join(probs[:8])}", flush=True)
+            md = generate_writeup(country, ethnicity, region, [], wiki=wiki, ich=None, extra_wiki=extra,
+                                  feedback=probs)
+            probs = unsupported(sources, md)
+    except Exception as e:
+        print(f"  ! failed: {e}", flush=True)
+        return
+    with open(AUDIT_LOG, "a", encoding="utf-8") as f:
+        f.write(json.dumps({"ethnicity": ethnicity, "country": country, "region": region, "stub": True,
+                            "articles": [a.get("title") for a in [wiki, *extra] if a],
+                            "unsupported": probs}, ensure_ascii=False) + "\n")
+    if probs:
+        print(f"  ! still unsupported after retry (review by hand): {'; '.join(probs)}", flush=True)
+    md = _drop_uncovered(md)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(md, encoding="utf-8")
+    out_path.with_suffix(".long.md").unlink(missing_ok=True)
+    print(f"  -> wrote {out_path.relative_to(REPO_ROOT)}  ({len(md)} chars)", flush=True)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--stubs", action="store_true", help="Unreviewed stub cultures instead of the seeds (Wikipedia only)")
+    ap.add_argument("--limit", type=int, default=0, help="With --stubs: stop after this many writeups")
     ap.add_argument("region", nargs="?", help="Region slug (defaults: all under data/seed/)")
     ap.add_argument("--force", action="store_true", help="Overwrite existing writeups")
     ap.add_argument("--only", help="Only generate for this ethnicity (case-insensitive substring)")
@@ -168,6 +284,9 @@ def main() -> None:
 
     if args.import_batch:
         import_batch(args.import_batch, args.force)
+        return
+    if args.stubs:
+        run_stubs(args.only, args.limit, args.force)
         return
 
     if args.region:
