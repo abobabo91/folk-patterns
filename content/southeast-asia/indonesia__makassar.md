@@ -1,0 +1,64 @@
+---
+title: "Makassar"
+subtitle: "Indonesia"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Makassar are an Austronesian people native to the southern peninsular regions of Sulawesi, concentrated around Makassar in Indonesia. Their communities are also found in parts of the Nusa Tenggara islands, the Pangkajene islands, Sangkarang and Kangean archipelagoes, the Selayar Islands, Madura, Kalimantan, and elsewhere in Indonesia; diasporic communities occur in Insular Southeast Asia, Australia, Mozambique, and South Africa. Makassarese belongs to the South Sulawesi group of the Malayo-Polynesian branch of the Austronesian language family. In 2000, approximately 2.1 million people spoke Makassarese as their native language. Makassar culture is documented through rice farming, fishing, maritime trade, trepanging, cuisine, clothing, language, and the boat-building tradition known as *Phinisi*.
+
+## Material culture
+
+### Clothing & dress
+
+The principal garment documented in the sources is *baju bodo*, a traditional upper garment worn by Makassarese women. It has a rectangular shape and is usually short-sleeved, with the sleeves ending above the elbow. According to Makassar custom, its color indicates the age or dignity of the wearer. It is associated with ceremonies including weddings and has also been used at dance competitions and guest-welcome receptions.
+
+### Architecture
+
+ They state only that Makassar people commonly help their neighbors with building houses.
+
+### Ceramics, metalwork & everyday objects
+
+ The *Phinisi* is identified as a Southern Sulawesi boat-building tradition for sailing boats, jointly associated with Bugis-Makassar people.
+
+### Jewelry & body adornment
+
+ They mention Makassar oil, a herbal oil extracted from Makassar ebony and mixed with other herbal ingredients, which was used as a haircare treatment among Western Europeans.
+
+## Music & performance
+
+ They do document *baju bodo* being used at dance competitions and guest-welcome receptions, but no music associated with those events is described. The sources also identify the Makassar language’s traditional writing systems—Lontara, Makasar, and Serang—but these are writing traditions rather than musical traditions. The absence of documented instruments and genres in the supplied sources prevents a fuller account of Makassar music.
+
+## Dance & theatre
+
+ They mention dance competitions as one contemporary setting in which *baju bodo* is used.
+
+## Festivals & rituals
+
+ They state that *baju bodo* is worn at wedding ceremonies and that *Pallu butung* and *Pisang ijo* are often consumed as iftar during Ramadhan. The sources describe arranged marriage as still widely practiced in rural areas and state that polygamy is accepted, although separate houses must be provided for each wife and it is practiced only among wealthy people. Makassar society is described as traditionally Muslim, with strict separation of gendered labor: men are associated with farming and fishing, while women are usually responsible for household duties.
+
+## Foodways
+
+Makassar foodways combine agrarian and maritime ingredients. Rice and bananas are abundant in agricultural areas, and many traditional *kues* and desserts are made primarily from them. Coastal ponds produce *bolu* or milkfish, *sunu* or grouper, shrimps, and crabs, while tunas are commonly caught in coastal and high-seas fishing. People living in coastal cities with extensive maritime resources predominantly eat fish.
+
+Named dishes include *coto*, a stew made from nuts, spices, and selected offal that may include beef brain, tongue, and intestine; *pallubasa*, a similar dish with coconut; *konro*, a rib dish; *burasa* or *ketupat*, a glutinous rice cake; *ayam goreng sulawesi*, chicken marinated in traditional soy sauce; *mie kering*, dried noodles served with thick gravy and sliced chicken, shrimp, mushrooms, liver, and squid; and *ikan bolu bakar*, grilled milkfish. Other documented dishes are *ikan bakar parape*, *ayam paleko*, *Songkolo Bagadang*, *sop saudara*, *kapurung*, *jalangkote*, and *gogos*.
+
+Documented sweets include *barongko*, made from banana, egg, coconut milk, sugar, and salt and steamed in a banana leaf; *Kue Sikaporo*; *Pallu butung*; *Pisang epe*; and *Pisang ijo*. *Pallu butung* and *Pisang ijo* are also associated with breaking the fast during Ramadhan.
+
+## Oral tradition & literature
+
+ They do mention the *Gowa Chronicles* and the *Makassar Annals*, including chronicles of the Gowa and Tallo' kingdoms. Parts of the Makassar Annals were written in the Serang script.
+
+## Language & religion
+
+Makassarese, also called *Basa Mangkasara*, is an Austronesian language in the South Sulawesi branch of the Malayo-Polynesian family and specifically the Makassaric group. It is closely related to Buginese, Mandar, Toraja-Saʼdan, Highland and Coastal Konjo, and Selayar. Documented varieties include the Gowa or Lakiung dialect, the Jeneponto or Turatea dialect, and the Bantaeng dialect. Makassarese has traditionally been written in Lontara and Makasar scripts, and also in the Serang script, a variant of the Arabic-derived Jawi script. Makasar script was used for official purposes in Makasar kingdoms during the 17th century and ceased to be used by the 19th century, when Lontara replaced it.
+
+Most Makassar kingdoms had converted to Islam by 1611, and the Makassar are presently almost all Muslim, although traditional pre-Islamic beliefs remain influential in remote areas. The sources describe conversion in South Sulawesi as connected with Malay Muslim traders, Portuguese visitors, and three Minangkabau ulama: Dato Ri Bandang, Dato Ri Tiro, and Dato Ri Patimang. *Siri*—respect and honor—is described as a central social code.
+
+## Sources & further reading
+
+- [“Makassar people,” Wikipedia](https://en.wikipedia.org/wiki/Makassar_people)
+- [“Makassar language,” Wikipedia](https://en.wikipedia.org/wiki/Makassar_language)
+- [“Makassar cuisine,” Wikipedia](https://en.wikipedia.org/wiki/Makassar_cuisine)

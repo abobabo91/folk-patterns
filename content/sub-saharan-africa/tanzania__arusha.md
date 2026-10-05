@@ -1,0 +1,40 @@
+---
+title: "Arusha"
+subtitle: "Tanzania"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Arusha, also called Waarusha in Swahili, are a Bantu ethnic and indigenous group based on the western slopes of Mount Meru in Arusha District of Arusha Region, Tanzania. They are distinct from, but related to, the Maasai, and are regarded by the Maasai as related because they were once part of immigrant Maasai communities that arrived in Arusha from Kenya in the late 18th century. The Arusha are mostly agriculturalists and speak the Maasai language. They should not be confused with the residents of Arusha, who include people of different ethnic backgrounds. The city of Arusha and the Arusha Region were named after the Waarusha people.
+
+## Material culture
+
+### Architecture
+
+The sources document a German fort, or *boma*, built in the heart of Waarusha territory. Kurt Johannes ordered the Arusha people to build it three years after 1895; construction was completed in 1901, marking the end of the Waarusha kingdom. The fort was built where the clock tower now stands in the heart of the City of Arusha.
+
+### Ceramics, metalwork & everyday objects
+
+ They state that German forces confiscated the people’s weapons and cattle during the occupation of Tanganyika.
+
+## Festivals & rituals
+
+The sources describe *Jando*, an initiation rite of the Waarusha. The rite is said to resemble the Maasai initiation rite, but the sources distinguish the two traditions. The Waarusha do not accept Maasai participation in initiation-rite education. This education involves tricks intended to win against a Maasai in ordinary life and methods for identifying the presence of Maasai among the Waarusha group.
+
+The sources also document major historical events affecting the Arusha. In the 1880s, bovine pleuropneumonia and rinderpest killed much of their livestock, while famines and droughts in 1883–6, 1891–2, and 1897–1900 severely weakened the people. Kurt Johannes declared war on the Arusha in 1895 during the German occupation of Tanganyika. On October 19, 1896, the Arusha retaliated and attacked Johannes; two German missionaries were killed. On October 31, 1886, Johannes defeated Arusha warriors with the help of Mangi Rindi of the Chagga kingdom.
+
+## Foodways
+
+ They state that Kurt Johannes ordered the burning of Arusha homes and food reserves during the German campaign.
+
+## Language & religion
+
+The Arusha are described as a Bantu ethnic group, but the sources state that they speak the Maasai language. The Arusha language is also described as Rusa, Rusha, or Arusha-Chini. It is identified as one of the Bantu languages of Tanzania spoken by the Chaga people, in the Chaga area of the Kilimanjaro region, where it forms a dialect continuum with other Chaga languages. The sources describe Maasai authority over the Arusha in the Selian area and identify the Arusha as distinct from, but related to, the Maasai.
+
+## Sources & further reading
+
+- [“Arusha people,” Wikipedia](https://en.wikipedia.org/wiki/Arusha_people)
+- [“Arusha language,” Wikipedia](https://en.wikipedia.org/wiki/Arusha_language)
+- No UNESCO Intangible Cultural Heritage inscription was provided for this group.

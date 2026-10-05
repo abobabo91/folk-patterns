@@ -1,0 +1,33 @@
+---
+title: "Moldovans"
+subtitle: "Moldova"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Moldovans, sometimes called Moldavians, are an ethnic group native to Moldova. They mostly speak Romanian, which is also locally called Moldovan, and form significant communities in Romania, Italy, Ukraine and Russia. Moldova’s 2024 census recorded 77.18% declaring Moldovan ethnicity and 7.9% Romanian ethnicity; 49.2% declared Moldovan as their mother language and 31.3% Romanian. The relationship between Moldovan and Romanian identity remains contested. The term “Moldavian” can also describe inhabitants of the historical Principality of Moldavia, whose territory is now divided among Romania, Moldova and Ukraine. Moldovan identity has been shaped by the history of Moldavia, Bessarabia, Russian rule, Romania, the Soviet Union and the Republic of Moldova.
+
+## Music & performance
+
+ The sources mention *Deşteaptă-te, române* (“Awaken thee, Romanian!”), which was the first anthem adopted by the independent Republic of Moldova, but provide no ethnographic account of its performance.
+
+## Festivals & rituals
+
+ The sources do record that Bessarabia joined the Kingdom of Romania in March 1918 following a vote of Sfatul Țării.
+
+## Oral tradition & literature
+
+The sources mention Miron Costin, a prominent chronicler from 17th-century Moldavia, and several Moldovan or Bessarabian writers and poets. Alexei Mateevici authored the Moldovan national anthem *Limba noastră*. Grigore Vieru was a prominent Moldovan poet and supporter of Pan-Romanianism. Mihai Eminescu, described as the national poet of Moldova and Romania, considered himself Romanian.
+
+## Language & religion
+
+Moldovans mostly speak Romanian, also referred to locally as Moldovan. The sources describe historical use of Romanian Cyrillic and the later Moldovan Cyrillic alphabet, based on Russian Cyrillic. After 1924, Soviet authorities supported Moldovan language standards in an effort to demonstrate that Moldovans formed a separate ethnic group. The official Soviet policy treated Romanian and Moldovan as different languages. The Constitution of Moldova of 1994 called the official language Moldovan, while the Declaration of Independence of 1991 called it Romanian; on 5 December 2013, the Constitutional Court ruled that Romanian was the official language. Eastern Orthodox Christianity is the major denomination in Moldova. The Moldovan Orthodox Church is a branch of the Russian Orthodox Church, while the Metropolis of Bessarabia is a branch of the Romanian Orthodox Church.
+
+## Sources & further reading
+
+- Matthew H. Ciscel, *The Language of the Moldovans: Romania, Russia, and Identity in an Ex-Soviet Republic*, 2007.
+- Charles King, *The Moldovans: Romania, Russia and the Politics of Culture*, Hoover Institution Press, 2000.
+- Wim van Meurs, *The Bessarabian Question in Communist Historiography: Nationalist and Communist Politics and History-Writing*, Columbia University Press, 1994.
+- Wikipedia, [Moldovans](https://en.wikipedia.org/wiki/Moldovans)

@@ -1,0 +1,55 @@
+---
+title: "Bateq"
+subtitle: "Malaysia"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Bateq, also called Batek, are an indigenous Orang Asli people belonging to the Semang group. They live in the rainforest of peninsular Malaysia and now primarily inhabit Taman Negara National Park and the surrounding region. Their settlements change within the general area they inhabit because they are nomadic hunters and gatherers. The population was 530 in 1960 and 1,519 in 2000. The Batek language belongs to the Eastern Jahaic sub-branch of the Aslian languages, within the wider Mon–Khmer language family. Their folk-cultural significance in the sources lies especially in their nomadic forest life, sharing economy, egalitarian social organisation, oral language, and knowledge of hunting and foraging.
+
+## Material culture
+
+### Clothing & dress
+
+ One Batek described wanting only “four or five sarongs” and said that trousers were unnecessary while living in the forest. No named head coverings, belts, footwear, or ceremonial garments are documented in the sources used.
+
+### Architecture
+
+Batek families normally live in tents and lean-tos. About 10 families generally form an encampment, and the dwellings are open enough that food cannot easily be hoarded without others knowing. Encampments move when usable wild plant resources have been depleted from a location, and they remain within the group’s wider habitat.
+
+### Ceramics, metalwork & everyday objects
+
+ They do identify several everyday objects: a man’s blowgun, women’s hair combs, radios, tobacco, cooking pots, digging sticks, bush-knives, lighters, salt, and fishing poles. The blowgun is used mainly for hunting, while the other objects are discussed as personal possessions or practical equipment.
+
+## Music & performance
+
+ They describe Batek as speakers of a mostly oral language with few written records.
+
+## Festivals & rituals
+
+ The sources do describe ritualised food distribution after hunting and butchering meat: in the example given, the hunting party first eats the offal and tail, after which the cooked meat is divided into about 13 portions for the families in the camp, adjusted according to family size. Sharing food is presented as a moral obligation rooted in the belief that food belongs to the forest. The sources also state that the Batek would lose their nomadic lifestyle and their religion if required to settle permanently in Pos Lebir.
+
+## Foodways
+
+Batek foodways are based on hunting, gathering, fishing, and sharing. Food found by foraging is treated as personal property in some respects but is socially expected to be shared with the immediate family, extended family, and then the rest of the camp. When hunting brings a large amount of meat into the encampment, distribution follows a more formal and ritualistic order. In the example of a monkey, the hunting party eats the offal and tail because they cook fastest; the remaining cooked meat is divided into about 13 portions, with each family receiving a share.
+
+The sources mention wild plant resources, tubers, meat, and fish. They state that food rots quickly in the hot, damp rainforest if it is not used frequently. Refusing a request for food is believed capable of causing supernatural harm to the person refused and angering the wider community.
+
+## Oral tradition & literature
+
+ They state that Batek is mostly an oral language with few written records. The Batek were first documented by Europeans in 1878, when the explorer-naturalist Nicholai Miklukho-Maklai of Russia wrote about them. The sources also identify the RWAAI repository and workspace for Austroasiatic Intangible Heritage and a Batek digital archive.
+
+## Language & religion
+
+Batek belongs to the Eastern Jahaic sub-branch of Aslian languages, which forms part of the wider Mon–Khmer language family. Its closest linguistic relative is Jahai, and it is distantly related to other Aslian languages. The sources name the dialects Teq, Iga, Deq, and Nong; the latter two are described as possibly distinct enough to be separate languages. Batek is mostly oral and is usually written in a modified Latin alphabet.
+
+The Batek refer to themselves as *Batek Teh*, meaning “forest people.” The sources state that the Batek have a religion. They also state that the Batek believe all food belongs to the forest and that refusing a request can cause supernatural harm.
+
+## Sources & further reading
+
+- Kirk M. Endicott and Karen L. Endicott, *The Headman Was a Woman: The Gender Egalitarian Batek of Malaysia*, Waveland, 2008.
+- RWAAI, Repository and Workspace for Austroasiatic Intangible Heritage: http://projekt.ht.lu.se/rwaai
+- Batek in the RWAAI Digital Archive: http://hdl.handle.net/10050/00-0000-0000-0003-66FE-9@view
+- “Batek people,” Wikipedia: https://en.wikipedia.org/wiki/Batek_people

@@ -1,0 +1,64 @@
+---
+title: "Manchu"
+subtitle: "China"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Manchus are a Tungusic East Asian ethnic group native to Manchuria in Northeast Asia and an officially recognized ethnic minority in China. They are distributed throughout China and inhabit 31 Chinese provincial regions. Liaoning has the largest population, while Hebei, Heilongjiang, Jilin, Inner Mongolia, and Beijing each have over 100,000 Manchu residents; about half of the population lives in Liaoning and one-fifth in Hebei. The Manchus are descended from the Jurchen people, who established the Jin dynasty, and their rulers established the Later Jin and Qing dynasties. Their language is a critically endangered Tungusic language with a vertically written script taken from the Mongolian script. Their folk-cultural significance in these sources lies especially in agriculture, hunting, foodways, historical language, and the preservation of Manchu identity.
+
+## Material culture
+
+### Clothing & dress
+
+The sources describe clothing in relation to earlier Jurchen and Manchu lifeways. Jurchens and Manchus wore pelts, and Jurchen people used pig and dog skins for coats. Nurhaci contrasted Manchu and Mongol clothing and way of life with that of Chinese and Koreans, saying that the clothing and way of life of the latter groups were alike, while also distinguishing the agricultural life of his people from Mongol livestock raising.
+
+### Architecture
+
+Jurchens living in the northeast’s harsh cold climate sometimes built houses half-sunk in the ground, using brick or timber. They surrounded fortified villages with stone foundations and constructed wattle-and-mud wall fortifications. Jurchens lived in villages, forts, and walled towns, and village clusters were ruled by hereditary leaders called *beile*. The sources also mention Beijing as the Qing political, economic, and cultural center and record Manchu and Chinese writing on architecture inside the Forbidden City.
+
+### Ceramics, metalwork & everyday objects
+
+ They do record agricultural and hunting equipment indirectly: Jurchens practiced crop farming, animal husbandry, hunting, archery on horseback, and horsemanship. The Eight Banners organized Jurchen soldiers into groups of Bannermen, and Nurhaci ordered the creation of a new Jurchen script. No specific object catalogue records were supplied.
+
+## Music & performance
+
+ They do state that Manchu was used in creative works such as poems, songs, and stories. The Manchu language was also used for voice commands in the Qing army, attested as late as 1878.
+
+## Dance & theatre
+
+ They mention dances as part of Jurchen and Manchu social life, alongside wrestling and drinking strong liquor, but provide no name, choreography, ceremonial function, or performance setting.
+
+## Festivals & rituals
+
+ They mention shamanic traditions as part of Jurchen culture and state that Manchu revival efforts have been connected with rituals and communication with ancestors. They also record that the Manchu palace’s fourth-grade food was served to the imperial family during the Chinese New Year and other festivals, while the first three grades were prepared for deceased imperial ancestors.
+
+## Foodways
+
+Manchu cuisine is associated with Manchuria and Outer Manchuria and uses millet, soybean, peas, corn, and broomcorn as staple foods. It relies heavily on preserved foods, often pickled, because of the harsh winters and scorching summers of Northeast China. It is known for grilling, wild meat, strong flavours, and the wide use of soy sauce, and is more wheat-based than Han Chinese cuisines.
+
+The Manchu Han Imperial Feast (*Mǎnhàn quán xí*) combined cuisine from the Manchus, Han Chinese, Mongols, Hui people, and Tibetans. It included 108 dishes, divided equally into 54 northern and 54 southern dishes, eaten over three days. Palace banquets were divided into six grades.
+
+Named dishes include Manchurian hot pot, made with pickled Chinese cabbage, pork, and mutton; *bairou xuechang*, a soup with pork, blood sausage, and pickled Chinese cabbage; *suziyie doubao*, a steamed bun filled with sweetened mashed beans and wrapped in perilla leaves; and *sachima*, a candied fritter. Other dishes are *suancai cuan bairou*, *suan tangzi*, *di san xian*, Manchu sausage, *lüdagun*, and *niushe bing*.
+
+## Oral tradition & literature
+
+The sources state that Manchu was used for poems, songs, and stories and that Manchu-language texts preserve information unavailable in Chinese. Manchu literary and archival materials were important to Qing-era historical study, and many Manchu documents remain in archives. Chinese classics, fiction, and other works were translated into Manchu, while Bannermen also wrote fiction in Chinese.
+
+The sources mention the *Jiu Manzhou Dang*, an archive of early 17th-century documents, and the *Manzhou Shilu Tu*. Since the 1980s, language-revival efforts have sought to reconstruct Manchu ethnic identity, support ritual communication with ancestors, and make Qing archival documents accessible.
+
+## Language & religion
+
+Manchu is a critically endangered southern Tungusic language native to the historical region of Manchuria in Northeast China. It was the national language of the Qing dynasty, but today the vast majority of Manchus speak only Mandarin Chinese. Several thousand people can speak Manchu as a second language through primary education or free adult classes, while very few native speakers remain. A 1990 census report recorded 9,821,180 Manchus in China and fewer than 100 native Manchu speakers.
+
+The language is agglutinative, has limited vowel harmony, and derives mainly from Jurchen, with loan words from Mongolian and Chinese. Its script is written vertically and was taken from the Mongolian script. The Jurchens adopted Confucian values and shamanic traditions. The sources describe current language-revival movements and shamanic ritual concerns.
+
+## Sources & further reading
+
+- [Manchu people](https://en.wikipedia.org/wiki/Manchu_people)
+
+- [Manchu language](https://en.wikipedia.org/wiki/Manchu_language)
+
+- [Manchu cuisine](https://en.wikipedia.org/wiki/Manchu_cuisine)

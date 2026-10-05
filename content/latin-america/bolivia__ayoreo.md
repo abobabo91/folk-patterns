@@ -1,0 +1,66 @@
+---
+title: "Ayoreo"
+subtitle: "Bolivia"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Ayoreo, also called Ayoreode, Ayoréo, and Ayoréode, are an Indigenous people of the Gran Chaco, living in an area surrounded by the Paraguay, Pilcomayo, Parapetí, and Grande Rivers across Bolivia and Paraguay. Their total population is approximately 5,600, including around 3,000 people in Bolivia and 2,600 in Paraguay. Traditionally nomadic hunter-gatherers, most Ayoreo were sedentarized by missionaries during the twentieth century. They speak Ayoreo, a Zamucoan language also spoken in both countries. The Ayoreo are notable in folk-culture terms for their relationship with Eami, their collective territory; their organization into clans and autonomous local groups; their songs, shamanism, hunting, gathering, and seasonal cultivation; and the continued presence of Ayoreo groups living in voluntary isolation.
+
+## Material culture
+
+### Clothing & dress
+
+The sources state that missionaries forced Ayoreo people living at mission stations to give up aspects of their culture, including their appearance.
+
+### Architecture
+
+The sources mention houses made of mud and cane in settlements such as the Degüi Community in Santa Cruz.
+
+### Ceramics, metalwork & everyday objects
+
+ They do state that Ayoreo people collect honey from the Quebecois tree and that signs such as holes cut in trees are used to monitor the presence of groups living in isolation.
+
+## Music & performance
+
+Music is described as an integral part of Ayoreo culture, and songs are passed down over time. They also state that missionaries required Ayoreo people at mission stations to give up their music, together with their religion, appearance, and diet. No UNESCO Intangible Cultural Heritage inscription concerns the Ayoreo.
+
+The sources record a performance-related episode involving the Areguede’urasade, a group of seventeen Ayoreo-Totobiegosode people who made contact in 2004 after extensive deforestation in their territory. While living in the forest, they sometimes communicated by whistles so that outsiders would not hear them. A recorded account by a member of the group describes fleeing from strangers, hiding beneath a water tank, and seeing blood in the water.
+
+## Festivals & rituals
+
+ They do describe seasonal subsistence practices: during the rainy season, Ayoreo people plant small amounts of corn, beans, and squash.
+
+The sources describe several spiritual and social practices. The Ayoreo have a form of shamanism, and shamans can be either gender; shamans are known as disdain. Chiefs, called asutes, are exclusively men and are chosen for killing the most people or animals. The Ayoreo traditionally tend to be monogamous. There are records of infanticide in which babies were buried alive for various reasons, including when a baby was born to a woman who was not in an established relationship.
+
+Missionary contact brought major ritual and religious change. Christian missionaries, including Catholic, Mennonite, and Evangelical groups and the New Tribes Mission, used force and manipulation to remove Ayoreo people from their land to mission stations in the late 1950s. At the missions, people had to adopt a sedentary lifestyle, give up their religion, and convert to Christianity. Protestant missionary expeditions from 1979 to 1986 sought the Totobiegosode, and a violent encounter in December 1986 resulted in five deaths.
+
+## Foodways
+
+The sources describe a subsistence system based on hunting, gathering, and limited seasonal cultivation. During the rainy season, Ayoreo people plant small amounts of corn, beans, and squash. In the forest they hunt anteaters, pigs, tortoises, and monkeys, and they collect honey from the Quebecois tree. They state that missionaries at mission stations forced Ayoreo people to give up their traditional diet. Food and territory are also central to the names of several local groups: the Totobiegosode are described as “people from the place where collared peccaries ate their gardens,” while the Tacheigosode are “the people from the region of abundant agouti.”
+
+## Oral tradition & literature
+
+The sources state that Ayoreo songs are passed down over time. One recorded account from a member of the Areguede’urasade describes experiences before contact, including fleeing from outsiders, communicating by whistles, and hiding around cattle pastures. Lucas Bessire recorded this account.
+
+The sources also preserve several explanations of local-group names. The Totobiegosode are “people from the place where collared peccaries ate their gardens”; the Garaigosode are “those who live in the lowlands”; the Tacheigosode are “the people from the region of abundant agouti”; the Direquedéjnaigosode are “the people who arrived the other day”; the Guidaigosode are “those who live in villages”; the Ducodegosode are “People of the Graves”; and the Tiegosode are “People of the River.”
+
+Documentation and advocacy efforts include the work of Iniciativa Amotocodie, the Unión Nativa Ayoreo del Paraguay, and publications by Mateo Sobode Chiquenoi and Yacamái Chiquenoi, who have written in defense of Ayoreo people living in isolation and shared personal stories.
+
+## Language & religion
+
+Ayoreo is a Zamucoan language, classified together with Chamacoco. It is spoken in Bolivia and Paraguay, with approximately 3,100 speakers: 1,700 in Paraguay and 1,400 in Bolivia. In Paraguay it is spoken in the Chaco Department and the northern parts of the Alto Paraguay Department; in Bolivia it is spoken in the Cordillera Province, in the Santa Cruz Department. The language is also known as Morotoco, Moro, Ayoweo, Ayoré, and Pyeta Yovai. Ayoreo is more common as a name in Bolivia, while Morotoco is more common in Paraguay. Tsiracua is a dialect of Ayoreo.
+
+Ayoreo means “true people” in the Ayoreo language, while Ayoreode means “human beings.” The language is described as having a grammar and dictionary, and 20% of the Ayoreo are literate. Traditional religious practice includes shamanism, while Catholic, Mennonite, and Evangelical missionaries sought to convert Ayoreo people to Christianity.
+
+## Sources & further reading
+
+- Lucas B. Bessire, *Behold the Black Caiman: A Chronicle of Ayoreo Life*, University of Chicago Press, 2014.
+- Pier Marco Bertinetto, “Ayoreo (Zamuco). A grammatical sketch,” *Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore di Pisa*, 2009.
+- Alice Higham, Maxine Morarie, and Greta Paul, *Ayoré-English Dictionary*, Volumes 1–3, New Tribes Mission, 2000.
+- Branislava J. Sušnik, *La lengua de los Ayoweos - Moros*, *Boletín de la Sociedad Científica del Paraguay y del Museo Etnográfico*, 1963.
+- Iniciativa Amotocodie, “The Ethnic Group of the Ayoreo,” 2005–2007.
+- Wikipedia, [Ayoreo](https://en.wikipedia.org/wiki/Ayoreo).
+- Wikipedia, [Ayoreo language](https://en.wikipedia.org/wiki/Ayoreo_language).

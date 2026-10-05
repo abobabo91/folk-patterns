@@ -1,0 +1,77 @@
+---
+title: "Pipil"
+subtitle: "El Salvador"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Pipil, also called Náhuat, are an indigenous Mesoamerican group inhabiting western and central El Salvador, with related populations historically recorded in Nicaragua, Guatemala, Honduras and Costa Rica. At the time of the Spanish conquest, they were concentrated in Cuzcatlan, and their confederacy included at least two centralized city-states. Their language, Nawat, belongs to the Nahuan branch of the Uto-Aztecan family and is closely related to, but distinct from, the Nahuatl of Central Mexico. Nawat is now endangered in El Salvador and extinct elsewhere in Central America. Pipil history is important to folk-cultural study because it combines Nahua migration traditions, cacao cultivation, cotton textiles, pottery, indigenous ceremonies, oral historical memory and contemporary language-revitalization efforts.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Cotton textiles** — The Pipil were competent workers in cotton textiles and traded woven goods across a wide-ranging network.
+
+**Indigo production** — Cotton and indigo were produced near the coast. The sources identify these materials as part of Pipil production.
+
+**Woven goods** — Woven goods formed part of the Pipil trade network, alongside agricultural products.
+
+### Clothing & dress
+
+The sources state that many indigenous Salvadorans stopped wearing traditional indigenous clothing after the 1932 massacre because of fear of government repression. They also state that there is a renewed willingness among indigenous Salvadoran communities to wear traditional indigenous clothing without fear of repression. No garment names, distinctions between men's and women's dress, head coverings, belts, footwear or ceremonial clothing are described in the sources used.
+
+### Architecture
+
+The Pipil organized the confederacy of Kūskatan, whose settlements had symmetric relationships rather than one dominant city. Their cities were forced during Spanish colonization to adopt grid-plan urban layouts according to Spanish custom. Ciudad Vieja contained many Pipil as well as Spaniards, and the dense grid-plan settlement was ruled by the Spanish while many Pipil residents maintained contact with indigenous customs.
+
+### Ceramics, metalwork & everyday objects
+
+Pipil pottery and obsidian artifacts were found at Ciudad Vieja, together with metalwork of clearly Spanish origin. Archaeological research indicates that Pipil pottery during Spanish colonization retained traditional indigenous decoration while the forms of many pieces were influenced by European trends.
+
+## Music & performance
+
+ They do state that a video documentation project has focused on aspects of Pipil culture including natural medicines, traditions, traditional games, agricultural practices and childhood songs.
+
+## Festivals & rituals
+
+Diego García de Palacio, writing in the late sixteenth century, stated that the Pipil worshipped Quetzalcoatl and Itzcueye, an earth-mother goddess originating from the Gulf Coast of Mexico. He also mentioned worship of the sun and a god of hunting and fishing, possibly Mixcoatl. Archaeology points to Tlaloc, Mictlantecuhtli and Xipe Totec as other important deities among the Salvadoran Pipil, with Xipe described as a symbol of the warrior elite.
+
+The Pipil calendar resembled that of the Aztecs, although some day names differed. These included Pipil quiyahuitl, “rain,” for Aztec atl, “water”; P. teyolocuani, “sorcerer,” for A. ocelotl, “jaguar”; P. tecolotl, “owl,” for A. cozcacuauhtli, “vulture”; P. tecpilanahuatl for A. olin, “movement/earthquake”; and P. ayotl, “turtle,” for A. quiyahuitl, “rain.”
+
+The sources state that indigenous Salvadoran communities have shown renewed interest in preserving traditional customs and performing ceremonies in public.
+
+## Foodways
+
+Pipil cultivation of cacao was centered in the Izalco area and depended on a vast and sophisticated irrigation system. Cacao production was especially lucrative, and Pipil trade reached as far north as Teotihuacan and south to Costa Rica. Near the coast, cotton and indigo were also produced. During Spanish colonization, indigenous populations were incorporated into an economic system in which the Spaniards collected and sold locally produced crops, especially cacao. Pipil populations under Spanish rule were forced to stop cultivating native crops and to farm cacao, while a tax was imposed on cacao collected from family heads.
+
+The sources describe traditional Pipil cuisine as using distinctive flavor combinations and natural ingredients including corn, green tomatoes and chilis. They specifically name pupusas and atol de elote as foods associated with traditional Pipil cuisine. No further cooking methods, ceremonial foods, beverages, dietary rules or meal customs are documented in the sources used.
+
+## Oral tradition & literature
+
+Indigenous accounts recorded by Spanish chronicler Gonzalo Francisco de Oviedo describe a Pipil migration from present-day Mexico beginning around the 8th century A.D. The account traces movement through central Mexico, the Gulf coast and the Isthmus of Tehuantepec to the Balsam Coast of El Salvador, where the migrants founded Kūskatan. A related group moved farther south into the Gran Nicoya region of Nicaragua and Costa Rica and became known as the Nicaraos.
+
+According to legend, the Nahua cacique Atlácatl and Atonal led Pipil forces during first contact with the Spanish. The Battle of Acajutla is described as having been led by Atonal. The Annals of the Cakchiquels mentions “Pan Atacat,” translated in the source as “water men,” in reference to coastal Nahua.
+
+The sources also mention national oral histories of El Salvador, in which a large portion of the population claims ancestry from the Pipil and other groups. Contemporary preservation efforts include language documentation, teaching materials, online courses and projects recording traditions, natural medicines, agricultural practices, traditional games and childhood songs.
+
+## Language & religion
+
+Nawat, also known as Náhuat and academically referred to as Pipil, is a Nahuan language and the southernmost extant member of the Uto-Aztecan family. It was formerly spoken in parts of El Salvador, Nicaragua, Guatemala, Honduras and Costa Rica. In El Salvador it was associated with the Nonualcos, Cuscatlecos and Izalcos. The towns of Cuisnahuat and Santo Domingo de Guzmán have the highest concentration of speakers, while Nawat is also spoken mostly by a few elderly speakers in Sonsonate, San Salvador and Ahuachapán.
+
+Named dialects include Izalco, Nahuizalco, Panchimalco, Cuisnahuat, Santo Domingo de Guzmán, Santa Catarina Mazagua, Teotepeque, Tacuba, Ataco, Jicalapa, Comazagua and Chiltiupan. Campbell’s 1985 estimate, based on fieldwork conducted from 1970–1976, was 200 speakers; Gordon reported only 20 speakers in 1987, while official Mexican reports recorded as many as 2,000. By 2009, 3,000 people were participating in Nawat language-learning programs. In 2010, Santo Domingo de Guzmán had a language nest called “Xuchikisa nawat,” translated in the source as “the house where Nawat blooms.”
+
+The sources describe religious traditions involving Quetzalcoatl, Itzcueye, the sun, a god of hunting and fishing, Tlaloc, Mictlantecuhtli and Xipe Totec.
+
+## Sources & further reading
+
+- Lyle Campbell, *The Pipil Language of El Salvador*, Mouton Publishers, 1985.
+- William R. Fowler, *The Pipil-Nicarao of Central America*, unpublished PhD dissertation, Department of Archaeology, University of Calgary, 1981.
+- Alan R. King, *Gramática elemental del náhuat*, El Salvador: IRIN, 2004.
+- Pedro Geoffroy Rivas, *El nawat de Cuscatlán: Apuntes para una gramática*, Ministerio de Educación, 1969.
+- Wikipedia, “[Pipil people](https://en.wikipedia.org/wiki/Pipil_people).”
+- Wikipedia, “[Pipil language](https://en.wikipedia.org/wiki/Pipil_language).”
+- The sources supplied contain no UNESCO Intangible Cultural Heritage inscription for El Salvador concerning the Pipil.
+- The sources supplied contain no museum catalogue records or relevant museum collection URLs.

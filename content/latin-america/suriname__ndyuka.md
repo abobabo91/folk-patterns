@@ -1,0 +1,67 @@
+---
+title: "Ndyuka"
+subtitle: "Suriname"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Ndyuka, also called Djuka or Aukan, are one of six Maroon peoples of the Republic of Suriname and are also present in French Guiana. They live particularly along the Tapanahony River in southeastern Suriname, in the Marowijne District, and in communities around Paramaribo, the country’s capital. The group is divided into the Opu, upstream of the Tapanahony River, and the Bilo, downstream of it. Important places include Moengo and Diitabiki, the residence of the granman since 1950. As of 2014, the estimated Ndyuka population was 90,000, including people living in tribal lands, Paramaribo, French Guiana, and the Netherlands. Their language is Ndyuka, also called Aukan or Eastern Maroon Creole. Their folk culture includes woodcarving, calabash carving, textile arts, river-based settlement, Maroon political institutions, and Winti religious traditions.
+
+## Material culture
+
+### Textile & pattern traditions
+
+*Textile arts* are made primarily by women and have historically been produced as exchange gifts for a husband or lover. The sources describe elaborate embroidery, appliqué, and patchwork, with designs changing as access to trade cotton from the coast increased. Women borrow from one another while adapting designs for their own work.
+
+*Clothing, capes, and breech clothes* appear in the account of gifts exchanged within relationships. Men possess large collections of garments received from wives and past lovers, while women’s textile production is described as part of a wider system of affection, exchange, and social connection.
+
+### Clothing & dress
+
+The sources describe clothing, capes, and breech clothes as objects exchanged between partners. Women’s textile arts historically included embroidery, appliqué, and patchwork, and these garments could form large personal collections. The account emphasizes that such objects were created as gifts and were connected to love, affection, and social relationships. It does not distinguish a complete everyday and ceremonial dress system, nor does it identify specific head coverings, belts, footwear, or named ceremonial garments.
+
+### Architecture
+
+ They state that Ndyuka communities were established along rivers in southeastern Suriname and that, from 1761, many people built camps on the Tapanahony River. The sources also mention villages, tribal areas, and the settlement of Diitabiki.
+
+### Ceramics, metalwork & everyday objects
+
+ They do describe wooden and calabash household objects. Women made wooden food stirrers, stools, trays, and peanut grinding plates, while calabash carving produced spoons and dishes with intricate designs for everyday use. Woodcarving, calabash carving, and textile arts were practiced within ordinary activities and were connected to the exchange of gifts.
+
+## Music & performance
+
+ They identify Ndyuka as a Maroon people and discuss artistic work, religious practice, and oral political traditions.
+
+## Festivals & rituals
+
+The sources identify Day of the Maroons as a national holiday in Suriname, observed on 10 October since 2010. This date commemorates the treaty signed by the Ndyuka and Dutch colonial authorities on 10 October 1760, which recognized Ndyuka territorial autonomy.
+
+Ndyuka political and communal life includes meetings of the stam lanti, consisting of kabitens and basiyas who meet at least once a year under the authority of the granman. At village level, the lo lanti acts as the local government, and important decisions involve the whole village and are taken on the basis of consensus.
+
+The sources describe extensive traditional funerary rites. Winti remains a major religion, although the majority of Ndyuka are Christians.
+
+## Foodways
+
+ They mention household objects used in food preparation and consumption, including food stirrers, trays, peanut grinding plates, spoons, and dishes.
+
+## Oral tradition & literature
+
+ They identify the Ndyuka language and include an example of Ndyuka text describing travel along the Commewijne River toward Mama Ndyuka, but do not interpret it as a literary genre.
+
+The sources mention André Pakosie as a writer and activist and list his 1990 article “Arrogantie versus traditie.”
+
+## Language & religion
+
+Ndyuka, also called Aukan, Okanisi, Ndyukatongo, Eastern Maroon Creole, Nenge, or Aukaans, is a creole language of Suriname and French Guiana. It is spoken by the Ndyuka people and is based on English vocabulary, with influence from African languages in its grammar and sounds. The sources state that 46% of its words came from English, 16% from Dutch, 35% from Portuguese, and 3% from African languages. Ndyuka has three dialects: proper Ndyuka, Aluku, and Paramaccan. Kwinti is described as distinct enough to be considered a separate language, although it is sometimes included under the name Ndyuka.
+
+Modern orthography differs from an older Dutch-based orthography. The syllabic Afaka script was devised for Ndyuka in 1908. The traditional religion was Winti, a synthesis of African religious traditions. Catholic and Moravian churches and schools were established first in Albina and later in Maroon villages. The Moravian Church sent Johannes King to the granman in 1864. Traditional funerary rites continue to be practiced, and Winti remains a major religion alongside Christianity.
+
+## Sources & further reading
+
+- A.J.F. Köbben, “Continuity in change – Cottica Djuka society as a changing system,” 1968.
+- Inter-American Court of Human Rights, “Moiwana Community v. Suriname, Case Summary,” 2005.
+- André Pakosie, “Arrogantie versus traditie,” De Gids Jaargang 153, 1990.
+- Ben Scholtens, *Bosneger en overheid in Suriname*, Radboud University Nijmegen, 1994.
+- Wikipedia, “Ndyuka people”: https://en.wikipedia.org/wiki/Ndyuka_people
+- Wikipedia, “Ndyuka language”: https://en.wikipedia.org/wiki/Ndyuka_language

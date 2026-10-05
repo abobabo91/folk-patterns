@@ -1,0 +1,32 @@
+---
+title: "Austrians"
+subtitle: "Austria"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Austrians (German: Österreicher) are an ethnic group and nation native to Austria. Austria lies in Central Europe, and the historical term Austria originally referred to the March of Austria, corresponding roughly to the Vienna Basin in what is today Lower Austria. Today, the vast majority of Austrians do not identify as German. The sole official language at the federal level is German, while local dialects belong to the Austro-Bavarian and Allemannic families. Austrians matter in folk-culture terms through these regional dialects, their association with Vienna and classical music, and cultural elements connected with the Habsburg legacy and Austrian national identity.
+
+## Music & performance
+
+Vienna, the capital city of Austria, has long been an important center of musical innovation. Composers of the 18th and 19th centuries were drawn to the city by the patronage of the Habsburgs, making Vienna the European capital of classical music. Wolfgang Amadeus Mozart, Franz Schubert, and Johann Strauss, Jr., among others, were associated with the city. During the Baroque period, Slavic and Hungarian folk forms influenced Austrian music.
+
+## Festivals & rituals
+
+ They do record political and historical events, including the founding of the First Austrian Republic in 1919, the Declaration of Independence on 27 April 1945, and the end of Allied occupation in 1955, but these are not described as folk festivals or rituals.
+
+## Oral tradition & literature
+
+ The sources mention Austrian literature as a cultural field but provide no further information suitable for this section.
+
+## Language & religion
+
+Austrians have historically spoken the German language. German is the sole official language at the federal level, and the standard used is called Austrian German because German is considered a pluricentric language. Austrian German is defined by the Austrian Dictionary (German: Österreichisches Wörterbuch), published under the authority of the Austrian Federal Ministry of Education, Arts and Culture. Local dialects belong to the Austro-Bavarian and Allemannic families, with Allemannic spoken in Vorarlberg and the Tiroler Außerfern. Slovene, Croatian, and Hungarian are minority languages spoken and officially recognized by some states of Austria.
+
+## Sources & further reading
+
+- Wikipedia, “[Austrians](https://en.wikipedia.org/wiki/Austrians)”
+- No UNESCO Intangible Cultural Heritage inscription was supplied for Austria.
+- No museum catalogue records were supplied.

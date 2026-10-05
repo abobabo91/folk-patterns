@@ -1,0 +1,73 @@
+---
+title: "Han Chinese"
+subtitle: "China"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Han Chinese, also called Han people or Chinese people, are an East Asian ethnic group native to Greater China. Their ancestry and culture are traced to the Huaxia, agricultural tribes associated with the middle and lower reaches of the Yellow River in the north central plains of China. With a global population of over 1.4 billion, they are the world’s largest ethnic group, representing 91.11% of China’s population and 97% of Taiwan’s. More than 1.2 billion live in the People’s Republic of China, while large overseas communities are found in Southeast Asia and elsewhere. Their languages belong to the Sinitic branch of the Sino-Tibetan language family. Han culture developed through migration, agricultural settlement, urban life, dynastic institutions, writing, and the absorption of non-Han groups.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The supplied sources name no textile motifs.
+
+### Clothing & dress
+
+ They do mention the historical expression “garments and headdresses moving south” (*衣冠南渡*, *yì guān nán dù*), a name for the southward migration of Han Chinese associated with aristocratic leadership during periods of political upheaval.
+
+### Architecture
+
+ They state that the first urban conurbations in Lingnan, including Panyu, were created by Han settlers and that Han Chinese culture developed in cities and fertile lowland areas, but provide no architectural catalogue.
+
+### Ceramics, metalwork & everyday objects
+
+ They mention Chinese writing on oracle bones, bronze artifacts, and other historical objects only in connection with the history of the Chinese language and early writing.
+
+## Music & performance
+
+ They do state that Chinese writing was used for literature, administration, and scholarship, and that Chinese Buddhism spread over East Asia between the 2nd and 5th centuries CE with the study of scriptures and Literary Chinese.
+
+The sources identify several language varieties associated with Han Chinese subgroups. These include Wu, Hui, Gan, Xiang, Min, Hakka, Yue, Pinghua, Tuhua, Jin, Mandarin, Northeastern, Beijing, Jilu, Jiaoliao, Central Plains, Lanyin, Southwestern, and Jianghuai. The language article separately groups Chinese varieties as Mandarin, Wu, Gan, Xiang, Min, Hakka, and Yue, with Jin, Huizhou, and Pinghua treated as additional groups in the classification of Li Rong.
+
+The sources also state that all varieties of spoken Chinese use tones, and that Chinese languages are largely analytic. Standard Chinese is used in government, media, education, and formal situations in China and Taiwan, and is one of the official languages of Singapore and the United Nations. No performance repertoire or instrument is described.
+
+## Dance & theatre
+
+ No UNESCO Intangible Cultural Heritage inscription is supplied for this group.
+
+## Festivals & rituals
+
+ They mention the Warring States period, dynastic histories, migration movements, religious groups such as the Celestial Masters, and the spread of Chinese Buddhism.
+
+The sources do describe political and demographic events that shaped Han identity. The name “Han people” first appeared during the Northern and Southern period and was inspired by the Han dynasty. The later Tang dynasty, dated 618–907, was associated with another period regarded as a golden age, and the term *Tangren* became a Southern Han self-identification among varieties such as Cantonese, Hakka, and Minnan.
+
+## Foodways
+
+ They mention that Bai Yue communities practised swidden agriculture and rice farming, and that Han Chinese agricultural colonies were established in Lingnan, but they do not present these practices as a documented Han Chinese foodways system.
+
+The sources do state that Han settlement contributed to agricultural development in Southern China. Large migrations and the establishment of agricultural colonies altered the demographic and economic balance of the south. The Mongol conquest of China during the thirteenth century prompted Northern Han Chinese refugees to move south and develop the Pearl River Delta, contributing to agricultural advancements and economic prosperity. No named dish or beverage is included in the supplied material.
+
+## Oral tradition & literature
+
+ They do describe a long written tradition. The earliest attested written Chinese consists of oracle-bone inscriptions from the Shang dynasty, dated to approximately 1250 BCE. Bronze inscriptions from the Western Zhou period, dated 1046–771 BCE, are also identified.
+
+Literature written in Classical or Literary Chinese began to emerge during the Spring and Autumn period, and its use remained nearly universal until the late 19th century. Written vernacular Chinese was widely adopted with the May Fourth Movement beginning in 1919. The sources name the Classic of Poetry, the Book of Documents, the I Ching, and Sima Qian’s *Records of the Grand Historian*. They also identify the Qieyun rhyme dictionary, recorded in 601, and the 1324 *Zhongyuan Yinyun*, which codified rhyming conventions for a new verse form.
+
+## Language & religion
+
+Chinese varieties are part of the Sino-Tibetan language family and are spoken by Han Chinese, some ethnic minorities in Greater China, and overseas Chinese communities. Approximately 1.39 billion people speak a variety of Chinese as their first language. The principal regional groups named in the sources are Mandarin, Wu, Gan, Xiang, Min, Hakka, and Yue. Mandarin includes Standard Chinese and the Beijing dialect; Min includes Fuzhounese, Hainanese, Hokkien, and Teochew; Yue includes Cantonese and Taishanese.
+
+Chinese is written with logographic characters. Literary Chinese was historically used throughout China, while modern written vernacular Chinese is now widespread. Simplified Chinese characters have been promoted in the People’s Republic of China since the 1950s, and Singapore officially adopted them in 1976. Traditional characters remain in use in Taiwan, Hong Kong, Macau, and some overseas Chinese communities.
+
+The sources mention Confucianism through Confucius’s contemporaries, the Celestial Masters as a religious group involved in a southward migration, and the spread of Chinese Buddhism between the 2nd and 5th centuries CE.
+
+## Sources & further reading
+
+- “Han Chinese,” *Wikipedia*: https://en.wikipedia.org/wiki/Han_Chinese
+- “Han Chinese culture,” *Wikipedia*: https://en.wikipedia.org/wiki/Han_Chinese_culture
+- “Han Chinese language,” *Wikipedia*: https://en.wikipedia.org/wiki/Han_Chinese_language
+- The supplied sources include no books, scholar references, museum catalogue records, or UNESCO Intangible Cultural Heritage inscriptions for this profile.

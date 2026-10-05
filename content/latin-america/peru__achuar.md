@@ -1,0 +1,74 @@
+---
+title: "Achuar"
+subtitle: "Peru"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Achuar are an Indigenous people of the Americas whose territory lies along the Pastaza River, Huasaga River, and other rivers in Peru and Ecuador. The Achuar language is associated with the Jivaroan language family and with the Shuar, Shiwiar, Awajun, and Wampis. Achuar communities also reside in the regions of the Bobonaza, Morona, Macusari, Tigre, and Corrientes rivers. The name “Achuar” derives from *Achu*, large palm trees identified as Mauritia flexuosa that are abundant in the swamps of their territory. Achuar life is organized around domestic households, gardens, hunting, fishing, manioc beer, ritual knowledge, and relationships with animals, plants, and guardian spirits. Their history has also been shaped by oil development, pollution, disease, territorial displacement, and conflict.
+
+## Material culture
+
+### Clothing & dress
+
+ They state that the Achuar use tools associated with hunting, including blowguns and traps.
+
+### Architecture
+
+The standard Achuar home is built near a river or lake, though at some distance from major waterways because of mosquitoes and the danger of raids by canoe. It has a large oval form and is commonly built without outer walls, allowing ventilation. Its roof is high and has straight sides; palm-tree fronds are commonly used for roofing, while two types of palm are used for beams. Temporary walls made from large palms can be added when danger is close. A large yard and gardens surround the house.
+
+The domestic household usually consists of a nuclear family and may include close relatives. Although household autonomy is an ideal, groups of approximately ten to fifteen relatively close households commonly work together while remaining dispersed across the area. When tensions increase, the Achuar take refuge in large protected houses that can hold six to seven families. The size of a house is also associated with the status of its male head: a larger house that accommodates multiple wives and children is more likely to be associated with a *juunt*, or “great man.”
+
+### Ceramics, metalwork & everyday objects
+
+ They describe hunting tools including blowguns and traps, wooden handiwork, and canoes or canoe-like forms. A deceased person is traditionally placed in a hollowed-out log resembling a canoe. The sources also mention baskets and lines used for fishing, palm materials used in house construction, and manioc beer consumed in domestic and social settings.
+
+### Jewelry & body adornment
+
+ They do state that saliva is publicly exposed while other bodily expressions are controlled, and that mouths are covered when speaking in certain social situations. Female saliva is associated with the fermentation of manioc beer, while male saliva is socially incorporated into conversation.
+
+## Music & performance
+
+Achuar women sing *anents*, magical songs used to communicate with their plants, Nunkui, and other particular objects. These songs are highly personal and are sung secretly, either internally or on an instrument. Each *anent* follows basically the same melodic structure while having different lyrics. The songs form part of the relationship between women, gardens, cultivated plants, and the spirit of gardens. They describe woodwork as one form of handiwork and state that married men drink manioc beer and talk among themselves during leisure time. The sources also describe dreams, ritual speech, signs, and communication with nonhuman people, but do not classify these practices as formal performance genres.
+
+## Festivals & rituals
+
+The Achuar follow a lunar calendar of seasonal resources, including a fish season divided into days, moons, and year.
+
+Ritual life includes shamanism, witchcraft, dreams, soul journeys, and the consumption of ayahuasca as a ritual sacrament. Soul journeys known as *arutam* encounters represent an extreme state of self-awareness and are induced by a hallucinogenic drink. Before warfare, hunting, or some forms of fishing, men often insist on having a dream. Dreams are understood as revealing and sometimes foretelling.
+
+Hunting is governed by relationships with animals and their guardian spirits, known as *kuntiniu nukuri*, literally “game mothers.” Hunters are expected to take animals with moderation and show respect to animals they kill. These rules are expressed in cautionary myths. Gardens are watched over by Nunkui, and manioc is believed to possess dangerous traits associated with vampirism. Children are therefore not allowed to enter a garden without supervision.
+
+The traditional burial practice places the deceased in a hollowed-out log resembling a canoe. When the deceased is a head of household, the canoe is buried in the middle of the house to preserve the continuing presence of the dead person. Remaining body parts are understood to acquire lives of their own and to assume the bodies of certain animals.
+
+## Foodways
+
+Achuar foodways are connected to gardens, hunting, fishing, and manioc. Women maintain the gardens, which contain a large quantity and variety of plant species. Gardens are sources of food, but they also provide women with places of privacy where they can express grief and suffering. Women give birth in the gardens, demonstrating their importance in Achuar life.
+
+Women gather and carry game, sometimes with their children, and prepare meals. They can also fish with baskets or lines. Men work in the forest and hunt, and they make hunting tools such as blowguns and traps. Men also clear forest for the expansion of their spouses’ gardens.
+
+Manioc beer is an important domestic and social drink. Married men drink it and converse during leisure time. Female saliva is believed to contribute to the fermentation of manioc beer.
+
+## Oral tradition & literature
+
+The sources describe cautionary myths connected with hunting. These myths codify the rules that hunters should take animals with moderation and respect the animals they kill. They also describe beliefs that animals and plants possess human-like souls and that nonhuman people can communicate through language and signs.
+
+Dreams are central to Achuar knowledge and religious life. They can reveal or foretell events, and men often seek a dream before warfare, hunting, or some forms of fishing. Communication with plants is expressed through the secret songs called *anents*, whose lyrics differ while their melodic structure remains basically the same. They identify Nase Lino as an Ecuadorian filmmaker and communicator of Achuar ethnicity whose documentary work promotes and preserves Amazonian culture. He directed *Taking Ayahuasca (Natémamu) - Achuar*, a documentary about an ancestral ritual within the Achuar nation.
+
+## Language & religion
+
+Achuar is an Indigenous language and dialect of Shiwiar spoken by the Achuar community. It is associated with the Jivaroan languages and with Achuar-Shiwiar, Shuar Chicham, and related language varieties. The sources describe four vowels—*a, e, i, u*—and an alphabet of twenty-one letters: *a, aa, ch, e, ee, i, ii, j, k, m, n, p, r, s, sh, t, ts, u, uu, w, y*. Approximately fifty percent of Achuar language speakers are literate, while one percent of those who speak Achuar as a second language are literate; many prefer Spanish.
+
+Achuar religious life includes shamanism, occasional witchcraft, ayahuasca, soul journeys, dreams, guardian spirits, and Amazonian perspectivism. Animals and plants may possess human-like souls, while the spirit of gardens is Nunkui. Self-control, moderation, respect for animals, and control of public expression are important beliefs and practices.
+
+## Sources & further reading
+
+- Philippe Descola, *In the Society of Nature: A Native Ecology in Amazonia*, translated by Nora Scott, Cambridge University Press, 1994.
+- Philippe Descola, *The Spears of Twilight: Life and Death in the Amazon Jungle*, translated by Janet Lloyd, Harper Collins Publishers, 1996.
+- Ann Christine Taylor, “The Soul’s Body and Its States: An Amazonian Perspective on the Nature of Being Human,” *The Journal of the Royal Anthropological Institute*, 1996.
+- G. Fast Mowitz, *Sistema fonológico del idioma achual*, Instituto Lingüístico de Verano, 1975.
+- Michael Lev, Tammy Stark, and Will Chang, “Phonological inventory of Achuar-Shiwiar,” *The South American Phonological Inventory Database*, version 1.1.3, University of California.
+- [Achuar](https://en.wikipedia.org/wiki/Achuar)
+- [Achuar language](https://en.wikipedia.org/wiki/Achuar_language)

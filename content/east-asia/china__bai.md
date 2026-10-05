@@ -1,0 +1,84 @@
+---
+title: "Bai"
+subtitle: "China"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Bai or Pai are an East Asian ethnic group native chiefly to Dali Bai Autonomous Prefecture in Yunnan Province, with communities also in Guizhou, Hunan, and Hubei. They numbered 2,091,543 in 2020. The Bai live around Lake Erhai and in cities and counties including Dali, Lijiang, Kunming, Baoshan, Lincang, Zhaotong, and Nujiang. Their language, Bai, is classified within the Sino-Tibetan family, although its relationship to Chinese, Loloish, and other languages remains debated. Bai culture combines agricultural life, distinctive clothing and architecture, tie-dye, tea ceremony, festivals, horse-racing, Buddhism, and the worship of local gods and ancestors through Benzhuism.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Bai tie-dye** — *Bai tie-dye* (Chinese: 白族扎染) is used in Bai apparel, everyday objects, traditional folklore, religious ceremonies, and national celebrations. Its principal stages are flower tying and dyeing, using twisting and tying techniques, dyeing jars, dyeing sticks, sun racks, and stone mills.
+
+**Zhoucheng tie-dye** — Zhoucheng, Dali, produces tie-dye objects with more than 1,000 distinct patterns. The patterns have varied themes and profound meanings.
+
+**Embroidered clothing** — Embroidery appears on women’s belts, shoes, and other clothing. The sources describe embroidered belts and embroidered shoes of white cloth.
+
+**Motif vocabulary.** Snow, moon, flower, and wind—the four Bai symbols reflected in headwear and costume; animals and flowers—decorative subjects in Bai architectural carvings and tile designs.
+
+### Clothing & dress
+
+Bai women generally wear white dresses, sleeveless jackets in red, blue, or black, embroidered belts, loose trousers, embroidered shoes of white cloth, and gold or silver jewelry. Women in Dali traditionally wear a white coat with a black or purple collar, loose blue trousers, embroidered shoes, silver bracelets, and earrings. Unmarried women wear a single pigtail on the top of the head, while married women roll their hair. Many Bai women also wear a long braid wrapped in a headcloth, a style called “the phoenix bows its head.” Men wear white jackets, black-collared coats, and dark loose shorts. Bai clothing favors white, and men’s headwear and costume reflect the symbols of the snow, moon, flower, and wind.
+
+### Architecture
+
+Bai architecture is stylistically distinctive and strongly shaped by religious beliefs, including ancestral and nature worship. Buildings often contain complex carvings and tile designs depicting animals and flowers. Animal totems, including tigers, dragons, and chickens, were added to ward off evil spirits or natural disasters. Houses were arranged according to feng shui concepts governing the layout, structure, and placement of halls and doors. Buildings could have their backs toward the mountains and entrances facing water, with doors oriented north-east. During the Nanzhao period, courtyards and terraces from Han culture were adapted to Bai customs. Named layouts include “four houses with five patios,” “three houses and a shade wall,” and “three workshops and a shining wall.” Roofs have curved surfaces, upward-curving ends, and “flying eaves.”
+
+### Ceramics, metalwork & everyday objects
+
+The sources mention dyeing jars, dyeing sticks, sun racks, and stone mills as instruments used in Bai tie-dyeing. They also describe clay pots used to bake tea leaves during the Bai tea ceremony and china cups used for the third tea course.
+
+### Jewelry & body adornment
+
+Women’s adornment includes gold or silver jewelry, silver bracelets, and earrings. Embroidered belts and embroidered shoes are also part of the described dress. Hair practices distinguish unmarried and married women: unmarried women wear a single pigtail on the top of the head, while married women roll their hair. Many women wear a long braid wrapped in a headcloth, a style called “the phoenix bows its head.”
+
+## Music & performance
+
+The sources describe the **Shibaoshan Song Festival** as one of the three major Bai festivals. Traditional sports and dance performances are included in the Third Month Fair.
+
+The Bai tea ceremony, *San Dao Cha* 三道茶, is a cultural ceremony and a method of honoring a guest. It is common at festivals and marriages and follows the sequence “first is bitter, second is sweet, third brings reflection.” The three courses use baked tea leaves, walnut kernel, roasted *rushan* 乳扇, brown sugar, honey, Sichuan pepper, ginger, cassia, and hot Cangshan Xue green tea. The ceremony is governed by 18 procedures and principles of etiquette, honesty, and beauty. The first course was formerly called *Lei Xiang Cha* 雷响茶, or “Sound of Thunder Tea,” because of the sound made when hot water enters the clay pot. The third course was called *Hui Wei Cha* 回味茶, or “Reflection Tea,” because of its aftertaste.
+
+## Dance & theatre
+
+The Bai have a traditional form of theatre called *Chuichuiqiang*. The supplied source describes it as a local tradition that is endangered. Dance performances occur at the Third Month Fair.
+
+## Festivals & rituals
+
+The three major Bai festivals are collectively called *Raosanlin*, translated in the source as “Walking Around Three Souls.” The most important is the **Third Month Fair**, held annually at the foot of Mount Cang in Dali between the fifteenth and twentieth days of the third lunar month. It began as a religious activity for rallying and paying homage and developed into a fair with traditional sports, dance, and trade in merchandise from different regions.
+
+The second major festival is the **Shibaoshan Song Festival**. The third is the **Torch Festival**, held on the 25th day of the sixth lunar month to wish for health and a good harvest. On that evening, villagers decorate the countryside with banners bearing auspicious words, light torches before their gates, and walk around the fields holding torches to catch pests.
+
+Horse-racing is held during the Third Month Fair and at the Mule-and-Horse Meeting in Jianchuan in July, the Fish Pone Meeting in Eryuan and Dengchuan in August, and in several villages. The sources date Bai horse-racing back over a millennium to the Tang Dynasty. The Guanyin Temple Fair at the base of Cang Mountain in March of the lunar calendar progressively became the Third Month Fair and its commercial activities.
+
+## Foodways
+
+Most Bai are agriculturalists who cultivate rice, wheat, rapeseed, sugar, millet, cotton, cane, corn, and tobacco. Rice was a subsistence staple, while wheat, vegetables, and fruits were also cultivated. Bai people ate cheese made from cow or goat milk, and the leftover whey was fed to pigs. Those living around Erhai Lake fished, and Bai fishermen trained cormorants to fish from the 9th century. The practice has recently fallen into disuse in some places because of lower water quality and the high cost of training cormorants, although local fishers still use it for tourists.
+
+Bai cuisine favors sour, cold, and spicy flavors. Named foods include cured gammon, bowfish (*Zacco taliensis*), river snails sauce, fried termite mushrooms (*Termitomyces*), pork liver, “raw meat” or “raw skin,” white wines made from glutinous rice, “snow plums” made from stewed plums and sugar from Cang Mountain, Dengchuan’s “milk fan,” and “milk cake.” “Raw meat” or “raw skin” consists of pork roasted to medium doneness, sliced or shredded, and served with ginger, green onions, vinegar, and chilli peppers for guests. The sources also describe the three-course Bai tea ceremony and its use of dried cheese, brown sugar, honey, Sichuan pepper, ginger, cassia, and green tea.
+
+## Oral tradition & literature
+
+The sources mention local gods and ancestors called *ngel zex* 本主, or *Benzhu*, and state that an *ngel zex* could be a historical hero, a prince of the Nanzhao regime, a folklore hero, or a tiger. The Bai also have the traditional theatre form *Chuichuiqiang* and the Shibaoshan Song Festival.
+
+The Bai language has a small amount of traditional literature written with Chinese characters. The Bowen script, also called Square Bai Script, Hanzi Bai Script, Hanzi-style Bai Script, or Ancient Bai Script, was adapted from Hanzi and used from the Nanzhao period to the beginning of the Ming dynasty. The Shanhua tablet from Dali Town in Yunnan contains a Ming dynasty poem written in Bowen by the Bai poet Yang Fu. No book in the Bai language had been published as of 2005, according to the supplied source.
+
+## Language & religion
+
+Bai is a Sino-Tibetan language spoken primarily in Yunnan Province by the Bai people. It has over a million speakers, three or four main dialects, open syllables, a rich vowel system, and eight tones divided between modal and non-modal phonation. Named varieties include Jianchuan, Dali, and Bijiang, while later classifications describe western and eastern dialects including Gongxing, Enqi, Jinman, Tuoluo, Ega, Mazhelong, Jinxing, Dashi, and Zhoucheng. The source describes debates over whether Bai is an early offshoot or sister language of Chinese, a separate Sino-Tibetan branch, or more closely related to Loloish.
+
+Most Bai people adhere to Azhaliism, a form of Buddhism whose history reaches back to the Nanzhao Kingdom. Buddhism came to the Bai as early as the 8th century. Bai religious life is also influenced by Taoism and Confucianism, and many practice Benzhuism, the worship of local gods and ancestors. A few Bai individuals are Christian, and some Bai-speaking Muslims are officially classified as Hui.
+
+## Sources & further reading
+
+- Wang, Feng. “Language policy for Bai.” In *Language Policy in the People’s Republic of China: Theory and Practice Since 1949*, edited by Zhou Minglang. Kluwer Academic Publishers, 2004.
+- West, Barbara A. *Encyclopedia of the Peoples of Asia and Oceania*. 2009.
+- Xu, Lin and Zhao Yansun. *Báiyǔ Jiǎnzhì* 白语简志. Mínzú Chūbǎnshè, 1984.
+- Allen, Bryan and Zhang Xia. *Bai Dialect Survey*. Yunnan Nationalities Publishing House, 2004.
+- Wang Feng, Xu Lin, Zhao Yansun, and other scholars cited in the supplied discussions of Bai language, dialects, and writing.
+- [Bai people](https://en.wikipedia.org/wiki/Bai_people)
+- [Bai language](https://en.wikipedia.org/wiki/Bai_language)

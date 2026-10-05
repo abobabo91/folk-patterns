@@ -1,0 +1,24 @@
+---
+title: "Mangwato"
+subtitle: "Botswana"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Mangwato, also called the Bamangwato, BagammaNgwato, BaNgwato, or Ngwato, are one of the eight principal Tswana chieftaincies of Botswana. The modern Bamangwato formed in Central Serowe, Palapye, and Mahalapye District, with Serowe becoming its main town and capital after 1902. Its paramount chief holds a hereditary position and occupies one of the fifteen places in Ntlo ya Dikgosi, the national House of Chiefs. The core population is an eighteenth-century offshoot of the Bakwena, although the Bamangwato kingdom incorporated people from many sources. The group is also associated with Sengwato, a language that attracted linguistic attention because of its unique f-s sound.
+
+## Material culture
+
+### Architecture
+
+ They state that the chiefs of the Bamangwato built several prior capitals, including Shoshong and Phalatswe, also known as Old Palapye, and that tribal towns could move when the local environment degraded before colonial administration and fixed infrastructure.
+
+## Language & religion
+
+Sengwato is associated with the Bamangwato and became notable in linguistic circles in 1998, when scholars recognized that it contained a unique f-s sound.
+
+## Sources & further reading
+
+- “Ngwato tribe,” Wikipedia: https://en.wikipedia.org/wiki/Ngwato_tribe

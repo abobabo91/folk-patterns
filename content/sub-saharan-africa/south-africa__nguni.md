@@ -1,0 +1,40 @@
+---
+title: "Nguni"
+subtitle: "South Africa"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Nguni are an ethnolinguistic group of Bantu ethnic groups native to Southern Africa, where they form the single largest ethnolinguistic community. They live mainly in South Africa, Zimbabwe and Eswatini, with Ngoni communities also recorded in Malawi, Zambia, Mozambique and Tanzania. In South Africa, the historical territories of the Ndebele, Swazi, Xhosa and Zulu Kingdoms correspond to the present-day provinces of the Eastern Cape, Gauteng, KwaZulu-Natal, Limpopo and Mpumalanga. The group includes the abaMbo, AmaLala, AmaNtungwa, AmaHlubi, Xhosa, AmaThonga, Ngoni, Swati and Ndebele. Their related languages and shared historical origins form an important basis for understanding Nguni cultural relationships.
+
+## Music & performance
+
+ The linguistic sources do note that Nguni languages developed click consonants, and that Ngoni is an ethnonym and language name for a geographically distant descendant of South African Nguni.
+
+## Festivals & rituals
+
+ They do describe social and political organization: the clan, based on male ancestry, was the highest social unit, and each clan was led by a chieftain. The kingdom of Eswatini formed in the early nineteenth century when different Nguni groups allied with the Dlamini clan against external attack. The sources also state that many tribes and clans in KwaZulu-Natal were forcibly united under Shaka Zulu, whose political organization used age regiments to integrate conquered tribes.
+
+## Foodways
+
+ They state that partially nomadic ancestors of the modern Nguni peoples brought sheep, cattle, goats and horticultural crops into South Africa, where many of these had not previously been used at that time.
+
+## Oral tradition & literature
+
+Much of what is believed about ancient Nguni history comes from oral history and legends. Traditionally, partial ancestors of the Nguni are said to have migrated to Africa’s Great Lakes region from the north. Historical accounts of the Mfecane describe conflict, migration, political upheaval and the formation or displacement of groups, while also recording that the interpretation of the mfecane or difaqane has been disputed by some scholars, notably Julian Cobbing.
+
+## Language & religion
+
+Nguni languages are Bantu languages spoken mainly in South Africa, Zimbabwe and Eswatini. They include Xhosa, Ndebele, Swati and Zulu, and are traditionally divided into the Zunda Nguni and Tekela Nguni subgroups. The languages are closely related and often mutually intelligible, although they belong to distinct tribes with separate histories, lands and clans. The division is based principally on a phonological distinction between corresponding coronal consonants: Zunda /z/ and Tekela /t/. Typical features include a five-vowel system, tonal distinctions, breathy-voiced and aspirated consonants, and click consonants. Ngunis may be Christians, practitioners of African traditional religions, members of forms of Christianity modified with traditional African values, or followers of a mixture of these religious forms and African spirituality.
+
+## Sources & further reading
+
+- Clement Martyn Doke, *The Southern Bantu Languages*, Handbook of African Languages, Oxford University Press, 1954.
+- Simon Donnelly, *Aspects of Tone and Voice in Phuthi*, Doctoral dissertation, University of Illinois, 2009.
+- Archibald C. Jordan, *Some features of the phonetic and grammatical structure of Baca*, Masters dissertation, University of Cape Town, 1942.
+- Caroline P. Ownby, *Early Nguni History: The Linguistic Evidence and Its Correlation with Archeology and Oral Tradition*, Doctoral dissertation, University of California, Los Angeles, 1985.
+- [Nguni peoples](https://en.wikipedia.org/wiki/Nguni_peoples)
+- [Nguni culture](https://en.wikipedia.org/wiki/Nguni_culture)
+- [Nguni language](https://en.wikipedia.org/wiki/Nguni_language)

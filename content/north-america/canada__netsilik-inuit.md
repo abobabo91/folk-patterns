@@ -1,0 +1,53 @@
+---
+title: "Netsilik Inuit"
+subtitle: "Canada"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Netsilik, also called Netsilingmiut, are Inuit who live predominantly in Kugaaruk and Gjoa Haven, and to a lesser extent in Taloyoak, in the Kitikmeot Region of Nunavut, Canada, with a smaller presence in the north Qikiqtaaluk Region. Their spoken language is Natsilingmiutut, a dialect of Inuvialuktun. The Netsilik were among the last northern indigenous peoples to encounter missionaries from the south in the early 20th century. Their folk-culture significance in the available sources lies chiefly in Arctic hunting, fishing, clothing materials, tools, lamps, igloos, migration, and the later preservation of artifacts such as kayaks and stone tools.
+
+## Material culture
+
+### Clothing & dress
+
+Caribou hides were the materials most commonly used for clothing, while polar bear skins were also used when caribou skin was unavailable. They state that caribou provided both food and hides, linking clothing materials directly to summer hunting on the tundra.
+
+### Architecture
+
+The Netsilik used igloos, which were lit and heated by *qulliq*, soapstone lamps fueled by seal fat. They also state that, during the process of acculturation in the 1960s, more Netsilik moved into permanent settlements built from imported materials.
+
+### Ceramics, metalwork & everyday objects
+
+Caribou antlers were important materials for Netsilik implements, including the breathing hole probe used in seal hunting. Netsilik tools included arrowheads, harpoons, needles, knives, and other implements; by 1923, iron and steel had begun to replace flint and bone for these objects. The sources also mention *kakivak*, used to impale Arctic char through a hole in the ice, and traditional kayaks, stone tools, and trinkets made by some elders for museums and for sale.
+
+## Music & performance
+
+ They do mention a later orchestral work with narration, *Tales of the Netilik*, created by Canadian / American composer Raymond Luedeke from excerpts of Knud Rasmussen’s *Journals of the Fifth Thule Expedition*. The work was commissioned by six Canadian orchestras and played throughout Canada in 1988. The available material does not identify a Netsilik musical tradition represented in the work, nor does it describe Netsilik participation in its performance.
+
+## Dance & theatre
+
+ They mention the educational project *Man: A Course of Study*, which made the Netsilik its subject in the 1970s and attracted criticism from American conservative groups, but they do not characterize it as Netsilik theatre or performance.
+
+## Festivals & rituals
+
+ They describe seasonal movements associated with subsistence: in summer, Netsilik hunters pursued caribou on the tundra; in winter, they moved onto the sea ice to fish and hunt seal. The sources also report that senicide was still practiced among the Netsilik of King William’s Land according to reports by Knud Rasmussen in the 1920s and Gontran de Poncins in the 1930s. Female infanticide is described as a historical practice in Netsilik culture, with explanations discussed in terms of food scarcity, population control, cultural values, mortality patterns, endogamy, and wife stealing.
+
+## Foodways
+
+The Netsilik relied mainly on hunting because their harsh Arctic environment yielded little plant life. In summer, caribou supplied food, while in winter seals and fish were important resources. Netsilik hunters fished for Arctic char using a *kakivak*, impaling fish through a hole in the ice. Excess fish were stored in ice blocks for times when fishing and hunting were unrewarding. Seal hunting supplied food as well as fat for *qulliq*, the soapstone lamp used to light and heat igloos.
+
+## Oral tradition & literature
+
+ They mention Knud Rasmussen’s *Journals of the Fifth Thule Expedition*, excerpts of which were later used in *Tales of the Netilik*, an orchestral work with narration created by Raymond Luedeke. The sources also identify the Netsilik as the subject of the 1970s U.S. educational project *Man: A Course of Study*.
+
+## Language & religion
+
+The Netsilik speak Natsilingmiutut, described as a dialect of Inuvialuktun and the only one written in syllabics. Missionaries introduced Inuktitut syllabics, also called *Qaniujaaqpait*, in the 1920s. Eastern Canadian Inuit, including the Netsilik, were the only Inuit to adopt a syllabic writing system. The Utkuhiksalingmiut, a Kivallirmiut group, speak a variant called *Utkuhiksalik*. From the 1930s to the 1960s, Christian missionaries and the Canadian government became more involved in Netsilik life; during the 1960s, more Netsilik converted to Christianity, moved into permanent settlements, took up wage labour, and used government services.
+
+## Sources & further reading
+
+- Wikipedia, “Netsilik”: https://en.wikipedia.org/wiki/Netsilik
+- UNESCO Intangible Cultural Heritage inscriptions: no relevant inscription was provided in the sources.

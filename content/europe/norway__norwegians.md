@@ -1,0 +1,58 @@
+---
+title: "Norwegians"
+subtitle: "Norway"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Norwegians (*Nordmenn*, meaning “Northmen”) are an ethnic group and nation native to Norway, where they form the vast majority of the population. They share a common culture and speak Norwegian, a North Germanic language with approximately 5 million speakers. Norwegians descend from the Norse of the Early Middle Ages, who formed a unified Kingdom of Norway in the 9th century. During the Viking Age, Norwegian and other Norse peoples conquered, settled, and ruled parts of the British Isles, the Faroe Islands, Iceland, and Greenland. Norwegian communities and descendants are also found in the United States, Canada, Australia, New Zealand, South Africa, and the United Kingdom. Norwegian folk culture is closely connected with the country’s history, geography, seafaring, farming, language, literature, art, music, food, and seasonal celebrations.
+
+## Material culture
+
+### Textile & pattern traditions
+
+*Bunad* — Bunad is identified in the source as a traditional costume worn by many Norwegians on the national day, 17 May.
+
+### Clothing & dress
+
+The source names *bunad* as a traditional Norwegian costume. Many people wear it on 17 May, the national day dedicated to the Constitution of Norway. The source does not distinguish men’s and women’s forms, nor does it describe particular garments, head coverings, belts, footwear, materials, construction methods, or regional variations.
+
+## Music & performance
+
+Norwegian music includes classical, modern, jazz, black metal, and folk music. The source identifies Edvard Grieg as a romantic composer and Arne Nordheim as a modern musician. It names Leif Ove Andsnes as a prominent pianist and Truls Mørk as a cellist. Norwegian black metal is described as an export article.
+
+Norway’s jazz scene includes Jan Garbarek, Mari Boine, Arild Andersen, and Bugge Wesseltoft, who are described as internationally recognised. Paal Nilssen-Love, Supersilent, Jaga Jazzist, and Wibutee are named as younger-generation artists becoming world-class.
+
+Norway also has a strong folk music tradition that remains popular. Among its prominent musicians are the Hardanger fiddlers Andrea Een, Olav Jørgen Hegge, Vidar Lande, and Annbjørg Lien; the violinist Susanne Lundeng; and the vocalists Agnes Buen Garnås, Kirsten Bråten Berg, and Odd Nordstoga.
+
+## Festivals & rituals
+
+Norwegians celebrate their national day on 17 May, dedicated to the Constitution of Norway. Many people wear *bunad*, and most participate in or watch the Norwegian Constitution Day parade through cities and towns. The parade consists mostly of children. The national romanticist author Henrik Wergeland is identified as its founder.
+
+Common Christian holidays include Christmas and Easter. Christmas is called *Jul* in Norway, a name connected in the source with the pagan and early Viking winter solstice. *Nissen*, the Norwegian Santa, comes on Christmas Eve, 24 December, with presents, usually late in the evening after Christmas dinner.
+
+*Jonsok*, also called *St. Hans*, is observed on 24 June. The source identifies it as St. John’s Passing or St. John’s Day and describes it as a commonly revered holiday marking midsummer and the beginning of summer vacation. It is often celebrated by lighting bonfires on the preceding evening. In northern areas of Norway, the day has 24 hours of light, while southern areas have 17.5 hours.
+
+## Foodways
+
+Norwegian culinary traditions reflect long seafaring and farming traditions. Seafood includes salmon, both fresh and cured; herring, pickled or marinated; trout; codfish; and other seafood. These foods are balanced by cheeses, dairy products, and breads, which are described as predominantly dark or darker.
+
+*Lefse* is a common Norwegian potato flatbread, especially associated with Christmas. The source also names *lutefisk*, *smalahove*, *pinnekjøtt*, *Krotekake*, and *fårikål* as renowned Norwegian dishes. No further descriptions of their ingredients, preparation, serving contexts, or ceremonial meanings are provided.
+
+## Oral tradition & literature
+
+ They identify Henrik Wergeland as a national romanticist author and as the founder of the 17 May parade, but provide no further account of his literary work.
+
+## Language & religion
+
+Norwegian is a North Germanic language with approximately 5 million speakers, most of whom are located in Norway. It has two official standard forms, Bokmål and Nynorsk, and belongs to the larger Scandinavian dialect continuum of generally mutually intelligible languages in Scandinavia. Speakers are also found in Denmark, Sweden, Germany, Britain, Spain, Canada, and the United States. In the United States, the source records 55,311 Norwegian speakers as of 2000. In Canada, it records 7,710 Norwegian speakers as of 2006.
+
+Norwegians were traditionally Lutheran after the Reformation in Denmark–Norway and Holstein, when Lutheranism became the only legal religion in the country. The conversion from Norse paganism to Christianity began in 1000; Christianity was well established by the middle of the 11th century and dominant by the middle of the 12th century. The Norwegians were Catholics until Christian III of Denmark forced conversion to Lutheranism and established a state-governed church.
+
+The Church of Norway became an independent legal entity on 1 January 2017. In 2018, 70% of the population were members of the Lutheran Church, while 47.1% answered “Yes” when asked whether they believed in God. The source also states that substantial portions of the population are non-practicing, atheist, or agnostic.
+
+## Sources & further reading
+
+- Wikipedia, “Norwegians”: https://en.wikipedia.org/wiki/Norwegians

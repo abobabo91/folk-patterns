@@ -1,0 +1,78 @@
+---
+title: "Vedda"
+subtitle: "Sri Lanka"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Vedda, also called Wanniyalaeto, are an indigenous minority group in Sri Lanka. The sources describe Coast Veddas, Anuradhapura Veddas and Bintenne Veddas as related sub-communities. Vedda populations are associated with the Ratnapura District, Bintenne in Uva Province, Anuradhapura District in the North Central Province, and coastal areas of the Eastern Province between Batticaloa and Trincomalee. Their original language is endangered and is used primarily by interior Veddas of Dambana; many Veddas now speak Sinhala, while East Coast Veddas have adopted Tamil. The group is significant in folk-culture studies because its hunting, gathering, ritual, language, foodways and changing relationship with Sinhala and Tamil communities are documented as distinctive elements of Sri Lankan cultural history.
+
+## Material culture
+
+### Textile & pattern traditions
+
+ They mention bark, cloth and garments.
+
+### Clothing & dress
+
+The sources describe earlier Vedda clothing as limited. Men wore a loincloth suspended by a string at the waist, while women wore a piece of cloth extending from the navel to the knees. In more recent descriptions, men wear a short sarong extending from the waist to the knees. Women wear a garment similar to the Sinhala *diya-redda*, extending from the breast line to the knees.
+
+### Architecture
+
+The Veddas formerly lived in caves and rock shelters. Today, the sources state that they live in huts made from wattle, daub and thatch. No named house type, roof form beyond thatching, decorative programme or urban architectural tradition is documented in the supplied sources.
+
+### Ceramics, metalwork & everyday objects
+
+ They mention bows and arrows, harpoons, a betel pouch, coconuts, bundles of wood and the wooden trunks of the *gadumba* tree. Bows and arrows were used for hunting, while harpoons and toxic plants were used for fishing. Personal possessions, including the bow and arrow and betel pouch, could be buried with the dead.
+
+## Music & performance
+
+The sources preserve the text of a Vedda song beginning “Bori Bori Sellam-Sellam Bedo Wannita.” Its subject is honey gathering: bees from the hills of Palle Talawa and Kade take nectar from flowers and make honeycombs, and the singer questions why they should be hurt when there is no honey to be obtained by cutting the honeycomb. The source names no musical instruments, formal song genre or performance setting.
+
+Religious festivals are associated with mixed language and spirit possession. During such occasions, people who enter a trance or spirit possession sometimes use a mixed language containing Vedda words. The sources also state that Coast Veddas and Anuradhapura Veddas use Vedda words during hunting and for religious chants. No further information is supplied about melodies, instruments, dance accompaniment, professional performers or musical institutions.
+
+## Dance & theatre
+
+ They mention spirit possession during religious festivals.
+
+## Festivals & rituals
+
+Vedda marriage is described as a simple ceremony in which the bride ties a bark rope around the groom’s waist. The rope, called *Diya lanuva*, is twisted by the bride and symbolizes her acceptance of the man as her mate and life partner. Endogamous marriage between cross-cousins was formerly the norm, but the sources state that this changed significantly, with Vedda women also marrying Sinhalese and Moor neighbours.
+
+Death is described as a simple affair without ostentatious funeral ceremonies, and the corpse was promptly buried. After the opening of colonization schemes, graves were dug 1.2–1.5 m deep; the body was wrapped in cloth and covered with leaves and earth. It could be placed between the scooped-out trunks of the *gadumba* tree. Three open coconuts and a small bundle of wood were placed at the head of the grave, while an opened coconut and an untouched coconut were placed at its foot. Certain cactus species, including *pathok*, *Opuntia dillenii* and *O. stricta*, were planted at the head, middle and foot. The sources state that this practice varied by community.
+
+The sources also describe the *kirikohraha ceremony*, held by many Vedda groups in earlier ethnological studies to present an offering to the newly dead within a week or two of death. The deceased were understood through ancestral and kindred spirits, including *nae yaku* or *nehya yakoon*, who were associated with the welfare of surviving relatives.
+
+## Foodways
+
+The Veddas were originally hunter-gatherers. They hunted game with bows and arrows, gathered wild plants, yams, honey, fruit and nuts, and caught fish with harpoons and plant poisons. The sources name the fish poisons *pus-vel* (*Entada scandens*) and *daluk-kiri* (cactus milk). East Coast Veddas also practise sea fishing.
+
+Venison and the flesh of rabbit, turtle, tortoise, monitor lizard, wild boar and the common brown monkey are described as foods. The sources state that Veddas kill only for food and do not harm young or pregnant animals, while game is commonly shared by family and clan. *Gona perume* is a sausage-like preparation containing alternating layers of meat and fat. *Goya-tel-perume* consists of the tail of the monitor lizard, called *talagoya*, stuffed with fat obtained from its sides and roasted in embers. Another preparation is dried meat preserved by soaking it in honey and storing it in the hollow of a tree enclosed with clay.
+
+The early part of the year, January–February, is described as the season of yams, while June–July is the season of fruit and honey. Hunting continues throughout the year. *Kurakkan* is cultivated, along with maize, yams, gourds and melons. Many Veddas also practise slash-and-burn or swidden cultivation, called *Hena* in Sri Lanka.
+
+## Oral tradition & literature
+
+ They mention the *Mahawamsa* in connection with the *Yaka-bendi-ela* canal and record a Vedda song about bees, flowers and honey. The sources also describe historical accounts by Ryklof Van Goens, Robert Knox, Fernão de Queiroz, Robert Percival and John Davies.
+
+The Vedda language has been studied in detail. Hugh Neville founded *The Taprobanian*, a quarterly journal devoted to the study of Ceylonese subjects. Manniku W. Sugathapala De Silva conducted a comprehensive study in 1959 and published it as a book. The sources state that the language is on the verge of extinction as younger generations increasingly use Sinhala or Tamil.
+
+## Language & religion
+
+Vedda is an endangered language used by the indigenous Vedda people of Sri Lanka. Its classification is debated: Ethnologue describes it as an Indo-European language belonging to the Indo-Aryan branch, while some linguists consider it a language isolate unrelated to Dravidian or Indo-European. Other studies describe the language spoken by contemporary Veddas as a creole that developed through contact with Sinhala and Tamil. Vedda has distinctive phonological, morphological and lexical features, including special suffixes and gender distinctions in animate nouns.
+
+A systematic field study in 1959 found the language confined to the older generation of Veddas from Dambana. In the 1990s, self-identifying Veddas generally knew only a few words and phrases, although some individuals knew the language comprehensively. Veddas who have adopted Sinhala are found particularly around Bintenne and in Anuradhapura District, while East Coast Veddas have adopted Tamil.
+
+The original Vedda religion is described as polytheistic. Sinhalized interior Veddahs follow a mixture of traditional beliefs and nominal Buddhism, while Tamilized East Coast Veddahs follow a mixture of traditional belief and nominal Hinduism with folk influences. Ancestor spirits called *nae yaku* are invoked for game and yams. The sources also name *Kande Yakka* as a deity distinctive to Veddas. Veddas, Buddhists, Hindus and Muslims venerate the temple complex at Kataragama, illustrating religious syncretism.
+
+## Sources & further reading
+
+- Brow, James, *Vedda Villages of Anuradhapura*, University of Washington Press, 1978.
+- Van Driem, George, *Languages of the Himalayas: An Ethnolinguistic Handbook of the Greater Himalayan Region*, Brill Academic Publishers, 2002.
+- Seligmann, Charles, and Brenda Seligmann, *The Veddas*, Cambridge University Press, 1911.
+- Dharmadasa, K. N. O., “The Creolization of an Aboriginal Language: The Case of Vedda in Sri Lanka (Ceylon),” *Anthropological Linguistics*, 1974.
+- Manniku W. Sugathapala De Silva’s comprehensive study of Vedda, published as a book after fieldwork in 1959.
+- [Vedda](https://en.wikipedia.org/wiki/Vedda)
+- [Vedda language](https://en.wikipedia.org/wiki/Vedda_language)

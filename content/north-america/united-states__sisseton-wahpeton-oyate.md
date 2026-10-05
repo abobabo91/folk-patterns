@@ -1,0 +1,60 @@
+---
+title: "Sisseton Wahpeton Oyate"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Sisseton Wahpeton Oyate of the Lake Traverse Reservation, formerly known as the Sisseton-Wahpeton Sioux Tribe and Dakota Nation, is a federally recognized tribe comprising two bands and two subdivisions of the Isanti or Santee Dakota people. They live on the Lake Traverse Reservation in northeast South Dakota, whose boundaries were established by the Lake Traverse Treaty of 1867. The tribe has approximately 12,000 enrolled members distributed among seven districts, with 9,894 people living on the reservation circa 2004. The name Sisseton Wahpeton Oyate was adopted in 2002; *Oyate* is a Dakota word meaning “people or nation.” The sources identify Dakota as the relevant language. They document the community’s political history, education, historical experience, and named Dakota-language place names.
+
+## Material culture
+
+### Architecture
+
+ They do state that the tribal government was based at Agency Village after the reorganization of 1946 and that the reservation contains seven districts: Agency Village, Lake Traverse, Buffalo Lake, Veblen, Big Coulee, Long Hollow, and Enemy Swim.
+
+### Ceramics, metalwork & everyday objects
+
+ The historical account mentions food and supplies distributed through an Indian agency in 1862.
+
+## Music & performance
+
+The sources identify Bryan Akipa as a Native American flute-player and Floyd Red Crow Westerman as a Sisseton Dakota singer and actor from the Lake Traverse Reservation.
+
+The documented historical record does describe public and political forms of collective action. From 1884 until 1913, the tribal government was based upon the concept of the Soldier’s Lodge. External pressure from federal Indian agents and religious missionaries, together with internal turmoil, led to the creation of an advisory committee in 1913. That committee remained the basis of government until 1946.
+
+## Dance & theatre
+
+ They identify Floyd Red Crow Westerman as a singer and actor, but provide no description of his performance traditions or of a specifically Sisseton Wahpeton theatre practice.
+
+## Festivals & rituals
+
+They do document several historical and political events. The Lake Traverse Treaty was established in 1867. The Treaty of Traverse des Sioux was formed on July 23, 1851, between the United States government and the Dakota Sioux of the Minnesota Territory. In August 1862, unrest among eastern Santee bands developed into open combat known as the Dakota War of 1862, the Dakota Conflict, or the Sioux Uprising. The Sisseton and Wahpeton bands obtained food and supplies from the Indian agency on August 4, 1862, while the Mdewakanton and Wahpekute bands were denied supplies on August 17.
+
+Large-scale combat ended on September 26, 1862, at the Battle of Wood Lake, and Dakota forces surrendered at Camp Release three days later. The sources state that small-scale skirmishes continued in the following weeks. In the aftermath, 303 men were convicted by a United States military court and sentenced to death; 38 were hanged the day after Christmas in Mankato, Minnesota. These events are presented as historical experiences rather than as recurring community rituals.
+
+## Foodways
+
+ They mention that the Treaty of Traverse des Sioux involved lands valued for agriculture and that the Upper Sioux territory was familiar in terms of hunting and fishing. They also state that Sisseton and Wahpeton people had adopted subsistence farming by 1862.
+
+The historical account records disputes over food and supplies during the Dakota War of 1862. On August 4, the Sisseton and Wahpeton bands obtained food and supplies from the Indian agency. On August 17, the Mdewakanton and Wahpekute bands were denied supplies because the United States Indian Agent and Minnesota State Senator Thomas J. Galbraith refused to distribute them without payment from the Sioux.
+
+## Oral tradition & literature
+
+ They identify Paul War Cloud as an author and artist, Isabella Star LaBlanc as an actress, and Floyd Red Crow Westerman as a singer and actor.
+
+The sources do document efforts to preserve and teach Dakota language and studies. Sisseton Wahpeton College established Dakota Studies in 1992 and a Dakota language program in 2005. The college was founded in 1979 on the Lake Traverse Reservation and now offers associate degrees in academic studies as well as arrangements enabling students to transfer to four-year colleges.
+
+## Language & religion
+
+The Sisseton Wahpeton Oyate are identified as two bands and two subdivisions of the Isanti or Santee Dakota people. The source gives the Dakota-language name *Skiskiṭuŋwaŋ Waȟpéthuŋwaŋ Oyáte* and states that *Oyate* means “people or nation” in Dakota. It also records Dakota names for the tribe’s seven districts: Agency Village, or *Atéyapi Ṭípi*; Lake Traverse, or *Bde Hdakíƞyaƞ*; Buffalo Lake, or *C̣aƞówanasápi*; Veblen, or *Ḣéip̣a*; Big Coulee, or *Iyákaptapi*; Long Hollow, or *Kaksíza Háƞska*; and Enemy Swim, or *Ṭóka Nuwáƞ*.
+
+The sources state that many Sisseton and Wahpeton people had adopted Christianity by 1862 and that religious missionaries exerted external pressure on the tribal community. Sisseton Wahpeton College established Dakota Studies in 1992 and a Dakota language program in 2005, while the Circle of Nations Wahpeton School serves students in grades 4–8.
+
+## Sources & further reading
+
+- “Sisseton Wahpeton Oyate.” Wikipedia. https://en.wikipedia.org/wiki/Sisseton_Wahpeton_Oyate
+- No UNESCO Intangible Cultural Heritage inscription was supplied for this group.
+- No museum catalogue records were supplied for the objects shown.

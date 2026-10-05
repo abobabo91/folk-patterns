@@ -1,0 +1,84 @@
+---
+title: "Bargu"
+subtitle: "Benin"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The people identified in the sources as Bariba call themselves *Baatonu* in the singular and *Baatombu* in the plural. They are concentrated in northeastern Benin, especially around Nikki, regarded as their traditional capital, and are also present in Nigeria, particularly in Baruten local government area of Kwara State. The sources describe perhaps a million Bariba, approximately 70% of them in Benin, where they comprise about 9.2% of the national population. Their historical center is Borgou, and they are associated with the former Borgu kingdom. Their language, Baatonum, also called Bariba, is primarily spoken in Benin and neighboring parts of Nigeria. The sources place it among the Savanna languages, although some classifications treat it as a Gur language. Horse culture, royal ceremony, music, dress, dance and foodways are central to the description.
+
+## Material culture
+
+### Clothing & dress
+
+Men’s clothing includes the *Turu*, a large ankle-length tunic generally without sleeves, made from thick ecru cotton hessian. The knee-length *Dansigi* shirt can be worn underneath it. The *Sokoto* consists of large-waisted, tapered trousers with a matching fabric belt. The *demberu*, described as bermuda-style clothing, is made from fabric for the Wasangari and from animal skin for hunters and farmers. On important occasions, men wear the more elegant *tako*, whose colors are carefully chosen. A *Tako-gonna*, colored like a guinea fowl, can be worth as much as three oxen.
+
+Men’s headwear is socially meaningful. The white *Furogomba* and black-and-white *Furogona* are associated with princes and dignitaries. Chiefs and Muslims wear *Dawani* caps wrapped in long white or red turbans. Ordinary citizens wear *Furobakuro* hats, while village chiefs and horsemen may wear brimmed, bowl-shaped or cone-shaped *Keseru* hats. The way a hat is folded or positioned communicates status or attitude.
+
+Women’s clothing is described as a loincloth, skirt and headscarf. Young girls wear long loincloths or short skirts; married women wear two loincloths and a headscarf.
+
+### Ceramics, metalwork & everyday objects
+
+ They do describe several important wooden and hide-covered instruments. The sacred drums *Barabakaru* and *Barapiibu* are made of baobab wood and beef hide and stand between 125 and 127 centimetres high. The *Bara Kaaru* is kept in a small temple on the Baro Kpira farm in the Banikuara region. The sources also mention rifles loaded with black powder in the fantasia, and cylindrical sticks used in the *Teke* dance. No further tools, vessels or household objects are documented.
+
+### Jewelry & body adornment
+
+Women’s adornment includes earrings, silver bracelets, necklaces with carved porcelain or glass pendants and mirrors. The sources connect these forms of jewelry with the development of caravan trade and describe them as enhancing women’s style and seductiveness.
+
+## Music & performance
+
+Singing is described as extremely important to the Baatonu, with repertoires covering daily life in the former empire. *Wuru* songs recount the lives of hunters and daily scenes, sometimes including erotic subjects. *Teke* songs express values through oppositions such as generosity and rapacity, bravery and cowardice, and fidelity and infidelity. Some songs encourage responsible sexual behavior among young people, especially girls, while others emphasize courage and persistence when facing an enemy.
+
+Royal instruments are associated with political power and historical continuity. The sacred drums *Barabakaru* and *Barapiibu* are played by initiates at the Emperor’s entrance and during the Gaani, as well as at enthronements and Friday prayers. The *Bara Kaaru* is played by the *Bara Yogo*, a member of an ancient family of griots. Sacred trumpets belong to the king, and their manufacture and use are restricted to initiated members of the royal court. The *Kankangi* trumpet consists of two parts that fit together. Male trumpets average 171 centimetres, while female trumpets average 158 centimetres. They accompany the Emperor’s travels, announce Friday and sound during major ceremonies, including the Gaani and the Shaving of princes.
+
+The fantasia is a traditional equestrian performance in which horsemen simulate a cavalry charge and fire their rifles simultaneously. The Baatonu perform it at the Gaani and at weddings, births and religious festivals.
+
+## Dance & theatre
+
+The *Wuru* is a prestigious ritual dance that was formerly performed at funeral ceremonies for native Baatonu families and is also performed at popular celebrations. Dancers wear animal skins and native fabrics decorated with cowrie shells and amulets. Their rapid movements are accompanied by a gravel-filled gourd in one hand and a piece of animal skin in the other.
+
+The popular *Teke* has no sacred function. Mature men perform it with 40-centimetre cylindrical sticks, while rival groups or villages compete in pairs. Six to eight couples generally face one another, with different rhythms corresponding to different steps.
+
+The *Sinsennu* is performed by young men. Its name refers to chains of balls made from Palmyra palm leaves and decorated with small stones, which are wrapped around the calves and produce a sound like castanets. A flute, a talking tom-tom and a drum accompany the dance.
+
+The *Gbangba*, performed by young Wasangari between 18 and 25, has a solemn and mournful rhythm. It formerly announced a king’s death and accompanied preparations for burial ceremonies; it also functions as a war dance announcing the beginning of conflict. The sources also mention the Fulbe dances *Sinna* and *Gesegesere*.
+
+## Festivals & rituals
+
+The annual Gaani festival is presided over by the Emperor of Nikki or, in his absence, by the chiefs of the Bouay, Kika and Sandiro provinces. Provincial chiefs and their populations gather to renew allegiance to the Emperor and receive his blessing. More than 150,000 people are said to converge on Nikki. Participants bring presents, and the ceremony celebrates Baatonu culture while reinforcing links among dynasties and ideals of welcome, sharing, solidarity and fraternity.
+
+The Gaani is the second festival in the Baatonu calendar, after the fire festival or *Donkonru*, which takes place at the New Year. It is associated with *nasara*, described through joy, victory and freedom, and has been incorporated into the Muslim calendar. It coincides with the Mawlid, which commemorates the birth of the Prophet. The festival follows the lunar calendar and is held on a Tuesday, Thursday, Saturday or Sunday.
+
+Horse riding and equestrian display are prominent parts of the Gaani. The fantasia brings horsemen in richly prepared harnesses and colorful costumes together for demonstrations of dexterity, audacity and strength. The horse is a central symbol of the Baatonu tradition and of the former empire. Sacred drums and trumpets accompany royal appearances and major ceremonies.
+
+The sources also mention weddings, births, religious festivals, enthronements, Friday prayers, the Shaving of princes and funeral ceremonies.
+
+## Foodways
+
+Yams are described as the principal crop in Baatonu gastronomy. The traditional dish *Sokuru* is made from yams and served with sauces based on aubergine, bissap, Guinea sorrel, climbing leaves, beef, mutton or chicken. Yams are also eaten as *Pereku*, a purée, or as *Yennu*, in ground and dried form.
+
+Millet paste is a traditional food, although it is sometimes replaced by corn paste mixed with manioc. Manioc is also used to make gari. Corn and bean-based dishes are part of daily life. The sources state that the Baatonu generally sell *Waakye*, a mixture of rice and beans, rather than describing it as a ceremonial food.
+
+Agriculture is the dominant occupation. Crops include corn, sorghum, rice, cotton, cassava, yams, beans, palm oil, peanuts and soya beans, alongside poultry and livestock. The Fulbe contribute livestock and milk to the Gaani economy, and Bariba pastoral exchange with Fulbe includes meat and milk. The sources describe the Bariba as primarily Islamic.
+
+## Oral tradition & literature
+
+The sources preserve historical traditions concerning the origins of the Wasangari and the dynasties of Nikki. In one version, the Wasangari settled in the Nikki-Wenu region around 1480, after the area had been occupied from 1350 by Baatonu natives. The account names Kisra, a legendary Wasangari horseman from Persia, and describes the movement from Bussa to Nikki-Wenu. Mansa Doro appointed Sero as chief, after which the population of Nikki-Wenu established him as *Sounon Sero*, King of Nikki.
+
+Sabi Sime, the youngest son of Sounon Sero, became Sime Dobidia. Through marriages with Baatonu, Boko and Hausa clans, he founded the dynasties of the Empire of Nikki. The sources name Sero Baguiri, Kpe Gounon Kaba Wouko, Sero Kpera I, Kpe Lafia Gamabrou and Sero Kora Bakarou as founders of royal dynasties.
+
+Songs, griots and the myths associated with royal drums and trumpets carry historical memory.
+
+## Language & religion
+
+Baatonum, also called Bariba, is the language of the Bariba people and was the language of the state of Borgu. One speaker is called *Baatɔnu*, while two or more speakers are called *Baatɔmbu*. The language is primarily spoken in Benin and is also found in parts of Nigeria, Togo, Burkina Faso and Niger. It is usually classified as an independent member of the Savanna languages, although some classifications place it among the Gur languages. The sources describe it as tonal and state that it has seven noun classes and seven primary verb aspects.
+
+Bariba are primarily Muslim, although some communities retain indigenous beliefs. The Gaani began as an animistic tribal ceremony and was later incorporated into the Muslim calendar, coinciding with the Mawlid. Sacred drums and trumpets belong to royal authority, and their use is restricted to initiates or privileged members of the royal court.
+
+## Sources & further reading
+
+- [Bariba people](https://en.wikipedia.org/wiki/Bariba_people)
+- [Bargu language](https://en.wikipedia.org/wiki/Bargu_language)
+- The sources state that Benin has no UNESCO Intangible Cultural Heritage inscriptions concerning this ethnic group.

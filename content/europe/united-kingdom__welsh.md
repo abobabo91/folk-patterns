@@ -1,0 +1,85 @@
+---
+title: "Welsh"
+subtitle: "United Kingdom"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+The Welsh are an ethnic group and nation native to Wales, one of the four countries of the United Kingdom. They share ancestry, history and culture, while the majority of people living in Wales are British citizens. Welsh speakers are concentrated principally in the north and west, including Gwynedd, Conwy County Borough, Denbighshire, Anglesey, Carmarthenshire, north Pembrokeshire, Ceredigion, parts of Glamorgan, and north-west and extreme south-west Powys. In the 2021 census, 538,300 usual residents in Wales aged three or over were able to speak Welsh. Welsh is an Insular Celtic language of the Brittonic subgroup. Welsh culture is particularly associated with bilingual language use, the Eisteddfod tradition, poetry, folk music, male choirs, distinctive seasonal customs, symbolic foods, and the visual emblem of the red dragon.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name no textile motifs.
+
+### Clothing & dress
+
+The sources describe a traditional Welsh costume and Welsh hat that were well known during the 19th and early 20th centuries. Princess Alexandrina Victoria, later Queen Victoria, had a hat made for her when she visited Wales in 1832. The hat was popularised by Sydney Curnow Vosper’s 1908 painting *Salem*, although its use had already declined. Leeks and daffodils are worn as symbols by Welsh people on Saint David’s Day, 1 March, but these are national emblems rather than a documented costume system.
+
+### Architecture
+
+Welsh built heritage includes military architecture, castles, town walls, churches, country houses, pottery works, and industrial settlements. The most striking medieval architecture is described as military and was often built by the Normans and English. The “Castles and Town Walls of King Edward in Gwynedd” and Beaumaris Castle in Anglesey are recognised as UNESCO World Heritage Sites; Caerphilly Castle and castles associated with Llywelyn the Great include Criccieth Castle and Dolbadarn Castle. Conwy retains medieval walls and a notable 13th-century stone town-house. Plas Mawr in Conwy is a grand Elizabethan town-house built by Robert Wynn and restored to reflect its appearance in the second half of the 16th century. The sources also describe the village of Portmeirion, begun by Clough Williams-Ellis in 1925, as a composition of buildings incorporating Classical details, salvaged fragments, and vernacular elements.
+
+### Ceramics, metalwork & everyday objects
+
+Welsh pottery was made in Swansea and Llanelli between 1764 and 1922, while porcelain was made at Swansea and Nantgarw between 1813 and 1826. Buckley and Ewenny became leading areas of pottery production during the 17th and 18th centuries. The Cambrian Pottery operated from 1764 to 1870 and was also known as “Swansea pottery.” Nantgarw Pottery, near Cardiff, made fine porcelain from 1813 to 1823. Llanelly Pottery was the last surviving major pottery works in South Wales when it closed in 1922. Welsh lovespoons are traditionally crafted wooden spoons given by a suitor to a beloved; their intricate designs demonstrated both affection and crafting ability. The earliest known dated lovespoon from Wales is believed to have been crafted in 1667.
+
+### Jewelry & body adornment
+
+ They mention early medieval penannular brooches and other pieces of jewellery found at Dinas Powys, and similar brooches discovered near Abergele at Penycorddyn-mawr, dating to the 8th century.
+
+## Music & performance
+
+Music, particularly singing, is a significant part of Welsh national identity, and Wales is traditionally called “the land of song.” The annual National Eisteddfod is the principal Welsh festival of music and poetry, while the Llangollen International Eisteddfod provides an opportunity for singers and musicians from around the world to perform. Welsh bards and musicians have participated in musical and poetic contests called *eisteddfodau* since at least the 12th century.
+
+Male voice choirs emerged in the 19th century from the tenor and bass sections of chapel choirs. Historic Welsh choirs sing mixtures of traditional and popular songs, and choral singing is associated with religious life, sporting events, and national identity. Named choirs include the Morriston Orpheus Choir, Cardiff Arms Park Male Choir, and Treorchy Male Voice Choir. In 1905, Wales’s *Hen Wlad Fy Nhadau* was sung as a national anthem at the start of an international sporting encounter.
+
+Traditional instruments include *telyn deires*, the triple harp, as well as fiddle, *crwth*, and *pibgorn*. The *penillion* is a traditional form of Welsh singing poetry accompanied by the harp, in which singer and harpist follow different melodies. The Robert ap Huw manuscript contains Welsh music from the 14th and 15th centuries and documents 30 ancient harp pieces. The *crwth* was played in Wales from the Middle Ages and was eventually superseded by the fiddle. Folk music is heard at a *twmpath*, *gŵyl werin*, or *noson lawen*. The Cerdd Dant Society promotes its singing art through an annual one-day festival.
+
+## Dance & theatre
+
+Welsh dance is documented in connection with folk festivals, traditional parties, seasonal customs, and musical performance. The *twmpath* is described as a folk dance session, while a *noson lawen* is a traditional party similar to the Gaelic “Céilidh.” Traditional music and dance were historically associated with seasonal and ceremonial occasions, although the sources also state that the rise of the Puritans and Methodism contributed to declines in Welsh theatre and that the church frowned on traditional music and dance.
+
+Theatrical performances are thought to have begun after the Roman invasion of Britain. A Roman amphitheatre remains at Caerleon, serving the nearby fortress of Isca Augusta. Between Roman and modern times, theatre was limited to travelling players, sometimes performing in temporary structures. The Savoy Theatre in Monmouth, built during the 19th century, is the oldest theatre still in operation in Wales. Cardiff’s Theatre Royal opened in 1827, and the New Theatre, Cardiff, opened on 10 December 1906.
+
+## Festivals & rituals
+
+Saint David is the patron saint of Wales, and Saint David’s Day, *Dydd Gŵyl Dewi*, is celebrated on 1 March. Leeks and daffodils are worn as symbols on that day. The traditional seasonal festivals listed in the sources include *Calan Gaeaf*, a Hallowe’en- or Samhain-type festival on the first day of winter; *Gŵyl Fair y Canhwyllau*, the Festival of the Candles or Candlemas, coinciding with Imbolc; *Calan Mai*, May Day, similar to Beltane; and *Calan Awst*, held on 1 August and equivalent to Lammas and Lughnasa. *Gŵyl Mabsant* is celebrated by each parish in commemoration of its native saint and is often marked by a fair. *Dydd Santes Dwynwen* is a Welsh equivalent to Saint Valentine’s Day, while *Calennig* is a Welsh New Year celebration.
+
+The Mari Lwyd is a traditional custom associated with a horse’s skull, and a 1874 report described an officiant walking in front of a coffin with one. The sources also describe *Hunting the Wren*, whose ceremony contains processional songs. New Year’s Day *Calennig*, Candlemas, Shrove Tuesday pancake songs, and summer carols connected with *Calan Mai* are associated with song, processions, dancing, feasting, or seasonal observance.
+
+## Foodways
+
+Welsh cuisine developed from the lives of working people, limited local ingredients, and historical isolation from outside culinary influences. Sheep farming is extensive, and lamb and mutton are the meats most traditionally associated with Wales. Beef and dairy cattle are also widely raised, while fishing and seafood are important in coastal areas. Historically, vegetables beyond cabbages and leeks were rare. Food was often cooked in a single cauldron over an open fire and reheated or topped up with fresh ingredients over several days. Oats, barley, and rye were important cereals; oats were used in stews and in *bara ceirch*, a thin oatcake or pancake.
+
+Dishes regarded as symbols of Welsh food include *cawl*, Welsh rarebit, laverbread, Welsh cakes, *bara brith*, and Glamorgan sausage. *Cawl* developed from a simple broth of meat and vegetables and could be cooked gradually over several days. Welsh rarebit is seasoned melted cheese poured over bread and toasted. Laverbread, or *Bara Lawr*, is made by slowly cooking *porphyra* seaweed until it becomes a puree; it may be served with bacon and cockles, or mixed with oats and fried as small patties. Glamorgan sausage is vegetarian, made with cheese, generally Caerphilly, and leek or spring onion. Welsh cakes, or *pice ar y maen*, are spiced cakes cooked on a bakestone. *Bara brith* is a fruit loaf whose name translates as “speckled bread.”
+
+Beer is described as the national drink of Wales. Tea gained popularity in England while home-made beer and wine remained important to Welsh socialising. Welsh whisky production began at Penderyn in 2000, and Penderyn single malt whisky went on sale in 2004.
+
+## Oral tradition & literature
+
+Welsh mythology, also known as *Y Chwedlau*, consists of folk traditions developed in Wales and traditions developed by Celtic Britons elsewhere before the end of the first millennium. Celtic mythology and history were recorded orally by specialists such as druids, while much surviving material was later preserved in medieval Welsh manuscripts. These include the Red Book of Hergest, the White Book of Rhydderch, the Book of Aneirin, and the Book of Taliesin.
+
+The Four Branches of the Mabinogi are mythological stories contained in the *Mabinogion*. They include the stories of Pwyll, Prince of Dyfed; *Branwen ferch Llŷr*; *Manawydan fab Llŷr*; and *Math fab Mathonwy*. Other named narratives include *The Dream of Macsen Wledig*, *Lludd and Llefelys*, *Hanes Taliesin*, *Culhwch and Olwen*, *Owain, or The Lady of the Fountain*, *Peredur son of Efrawg*, and *Geraint son of Erbin*. The sources also describe *Preiddeu Annwfn*, an early medieval poem of 60 lines found in the Book of Taliesin, and *Cad Goddeu*, the Battle of the Trees.
+
+Welsh folk songs and poetry have been preserved through manuscripts, song collections, the Eisteddfod tradition, and organisations such as the Welsh Folk Song Society.
+
+## Language & religion
+
+Welsh is a Celtic language of the Brittonic subgroup and developed from Common Brittonic. Its historical periods are described as Primitive Welsh, Old Welsh, Middle Welsh, and Modern Welsh. The traditional classification of Welsh dialects includes Gwyndodeg, Powyseg, Dyfedeg, and Gwenhwyseg; Patagonian Welsh developed after the beginning of *Y Wladfa* in Argentina in 1865. Modern Welsh includes Colloquial Welsh, *Cymraeg llafar*, and Literary Welsh, *Cymraeg llenyddol*. The Welsh Language (Wales) Measure 2011 gave Welsh official status in Wales, where Welsh and English are de jure official languages of the Senedd.
+
+Christianity has dominated religious life in what is now Wales for more than 1,400 years. Major affiliations include the Church in Wales, the Presbyterian Church of Wales, Methodism, and Catholicism. Other Welsh people are affiliated with Buddhism, Hinduism, Judaism, Islam, or Sikhism, while approximately one third of the population professes no religious faith. Earlier traditions included pagan religion led by druids, and reconstructed Druidism is described among the “other religions” recorded in the 2001 census.
+
+## Sources & further reading
+
+- [Welsh people](https://en.wikipedia.org/wiki/Welsh_people)
+- [Welsh culture](https://en.wikipedia.org/wiki/Welsh_culture)
+- [Welsh art](https://en.wikipedia.org/wiki/Welsh_art)
+- [Welsh mythology](https://en.wikipedia.org/wiki/Welsh_mythology)
+- [Welsh language](https://en.wikipedia.org/wiki/Welsh_language)
+- [Welsh music](https://en.wikipedia.org/wiki/Welsh_music)
+- [Welsh cuisine](https://en.wikipedia.org/wiki/Welsh_cuisine)
+- No UNESCO Intangible Cultural Heritage inscription or museum catalogue record was supplied among the sources used.

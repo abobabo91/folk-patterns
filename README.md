@@ -91,6 +91,7 @@ python scripts/vet_images.py --target library
 # 4. draft writeups from Wikipedia (main + related articles), UNESCO ICH and the museum records only;
 #    terms/numbers found in no source are sent back once, leftovers logged to data/writeup_audit.jsonl
 python scripts/generate_writeups.py central_asia
+FOLK_LLM_BACKEND=codex python scripts/generate_writeups.py --stubs [--limit 5]   # Wikipedia-only, unreviewed-only cultures
 # For a Claude Code cloud session, export prompts locally and import the already-shortened results later:
 python scripts/generate_writeups.py east_asia --only Ainu --force --export-batch w001
 python scripts/generate_writeups.py --import-batch w001 --force  # after the cloud run; see docs/cloud-vetting.md
@@ -143,7 +144,8 @@ rule. A classified people with at least one BM, Met/Cleveland, or multilingual
 Europeana evidence record (`UNVETTED_MIN_EVIDENCE`) can instead be marked `unvetted_only`, unless
 `data/world/onboard_queue.json` marks it as an umbrella or duplicate. Those
 cultures receive quiet globe markers and text-matched museum candidates, but
-no vetted objects, writeup, or facets. `unvetted.py build` creates a quiet stub
+no vetted objects or facets; their writeup comes from Wikipedia alone (Stub
+writeups below). `unvetted.py build` creates a quiet stub
 shard when no existing atlas ethnicity matches, placed as described under
 Stub placement below.
 A stub is written only when at least one candidate resolves to an image; a
@@ -164,6 +166,25 @@ mapped to kinds by local Codex (`FOLK_LLM_BACKEND=codex python scripts/normalize
 at 214 living peoples, 113 with evidence, 73 on the site, and South Asia at
 116, 80, 62. The rest have no
 record under any of their names in the current sources.
+
+Stub writeups: `generate_writeups.py --stubs` writes one per stub culture from
+its English Wikipedia article plus related articles (sitelinks of its Wikidata
+item, titles cached in `data/world/stub_wiki_titles.json`); a stub without an
+article is skipped and logged. The same term-and-number audit as the vetted
+writeups runs with one retry (`data/writeup_audit.jsonl`, `"stub": true`).
+Thin articles make the model fill sections with "the sources do not describe
+X"; `_drop_uncovered` cuts such sentences and trailing "but they do not name
+Y" clauses, then drops sections left empty. A clause starting with "and" is
+left alone: cutting it removed real content ("do not offer pork" in Hui).
+Run of 2026-10-05 on local Codex, 3 workers: 610 written in 3 h 14 min (15:38-18:52), none
+skipped, 7 audit objections all fixed by the retry, 0 unsupported terms left;
+the filter changed 527 files (3.62 M to 3.47 M characters) and 53 mixed
+sentences mentioning a gap remain. The panel shows the writeup above the
+unreviewed candidates. These writeups are long-form and are not run through
+`restructure_writeups.py`: tried on Bai, Khevsurians and Amis (Codex,
+`--preview`), its fixed section list puts back "The profile does not describe
+Khevsurian architecture" for every section the article does not cover, and
+Khevsurians grew from 2,489 to 4,169 characters.
 
 Stub placement: `unvetted.py places` asks local Codex for each stub's homeland
 point and caches it in `data/world/stub_places.json`. Against the stubs with a

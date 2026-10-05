@@ -1,0 +1,63 @@
+---
+title: "Mono"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Mono are a Native American people traditionally associated with the central Sierra Nevada, the Eastern Sierra south of Bridgeport, the Mono Basin, and adjacent areas of the Great Basin. Their communities and descendants live especially in North Fork in Madera County, as well as in the Owens River Valley, the San Joaquin Valley and foothills, Fresno County, and the San Francisco Bay Area. The Mono are divided into Eastern Mono and Western Mono regional and dialect groups. Eastern Mono communities historically occupied the Owens Valley along the Owens River from Long Valley to Owens Lake, while Western Mono groups lived in the southern Sierra Nevada foothills and the San Joaquin, Kings, and Kaweah River areas. Today there are approximately 2,300 enrolled Mono people. Their language belongs to the Western Numic branch of the Uto-Aztecan language family, and their cultural practices include fishing, hunting, acorn gathering, cooking, healing, basket making, games, and ceremonies.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name the golden eagle and the coyote as clan representations of the North Fork Mono Tribe.
+
+### Clothing & dress
+
+ They do state that the Mono maintained practices including fishing, hunting, acorn gathering, cooking, healing, basket making, and games, but provide no detailed account of dress associated with these activities.
+
+### Architecture
+
+Eastern Mono communities were predominantly sedentary and lived in fixed settlements along rivers, springs, or artificial canals. Their more intensive arable farming through partly artificial irrigation allowed them to build food reserves and support larger groups. Western Mono families descended into river valleys during winter and built fixed settlements together; most of these settlements were used for several years.
+
+### Ceramics, metalwork & everyday objects
+
+ They mention artificial canals in connection with Eastern Mono irrigation, and identify basket making as a continuing tradition, but give no further information about basket forms, materials, techniques, or designs.
+
+## Music & performance
+
+ They state that ceremonies are performed at the Sierra Mono Museum in North Fork, California. The sources also mention an annual Indian Fair Days festival, held on the first weekend of August, whose purpose is to revive traditions and rituals for tribal kin and tourists. No specific musical repertoire or performance context is provided.
+
+## Dance & theatre
+
+ They mention ceremonies at the Sierra Mono Museum in North Fork, California.
+
+## Festivals & rituals
+
+The North Fork Mono Tribe has two clans represented by the golden eagle and the coyote. Mono traditions still practiced today include fishing, hunting, acorn gathering, cooking, healing, basket making, and games. Ceremonies are performed at the Sierra Mono Museum in North Fork, California. An annual Indian Fair Days festival takes place on the first weekend of August and is intended to revive traditions and rituals for tribal kin and tourists. The Owens Valley Paiute fought the Americans in the Owens Valley Indian War from 1862 to 1863, with allied Shoshone, Kawaiisu, and Tübatulabal, but the sources present this as a historical conflict rather than a ritual tradition.
+
+## Foodways
+
+Eastern Mono communities used partly artificial irrigation for arable farming, enabling them to build food reserves and support larger settled groups. Western Mono lifeways combined fishing, hunting, gathering, and agriculture. The Mono traditions listed as continuing today include acorn gathering and cooking. The historical label “Mono” is explained in the source through a Yokuts designation associated with “fly people,” because fly larvae were described as a chief food staple and trading article for the Kucadikadi Northern Paiute Band. The Kucadikadi autonym Kutsavidökadö/Kutzadika'a is glossed as “eaters of the brine fly pupae.”
+
+## Oral tradition & literature
+
+ They mention Mono traditional narratives as a related subject. The sources do identify forms of self-designation and place terminology in Mono/Bannock dialects. The Eastern Mono called themselves Numa, Numu, or Nüümü, meaning “People,” and the Western Mono used Nyyhmy, Nimi, Nim, or Nium, also meaning “People.” The language greeting “Mun a hoo e boso. Mun a hoo e num. Mun a hoo to e hun noh pa teh” is translated as “Hello to my friends. Hello to the Mono people. Hello to the people from all over.”
+
+## Language & religion
+
+The Eastern Mono speak a Mono/Bannock dialect belonging, with Northern Paiute, to the Western Numic branch of the Uto-Aztecan language family. The geographical separation of Eastern and Western communities, together with contact with neighboring peoples and the incorporation of loanwords or bilingualism, contributed to the development of two very different dialects that are difficult for each other to understand. The native language of the Mono people is referred to as “Nim.”
+
+The Western Mono were bilingual in some areas and interacted closely with Foothill Yokuts communities. Several Western Mono bands were identified under Yokuts names, and the classification of some groups remains controversial in the ethnological literature. The Mono language is critically endangered. Among about 1,300 Western Mono people, the source reports about 20 active speakers and 100 half speakers of Western Mono or the Monachi/Monache dialect. Of about 1,000 Owens Valley Paiute people, it reports 30 active speakers of the Eastern Mono or Owens Valley Northern Paiute dialect. They do mention healing, ceremonies, clan representations, and traditions that remain in practice.
+
+## Sources & further reading
+
+- Sherburne F. Cook, *The Conflict between the California Indian and White Civilization*, University of California Press, Berkeley, 1976.
+- A. L. Kroeber, *Handbook of the Indians of California*, Bureau of American Ethnology, Bulletin No. 78, Washington, DC, 1925.
+- Sven Liljeblad and Catherine S. Fowler, “Owens Valley Paiute,” in Warren d’Azevedo, ed., *Great Basin*, *Handbook of North American Indians*, Vol. 11, Smithsonian Institution, Washington, D.C., 1986.
+- Barry M. Pritzker, *A Native American Encyclopedia: History, Culture, and Peoples*, Oxford University Press, 2000.
+- [Mono people](https://en.wikipedia.org/wiki/Mono_people)
+- [Mono language](https://en.wikipedia.org/wiki/Mono_language)

@@ -1,0 +1,68 @@
+---
+title: "Sumbawa"
+subtitle: "Indonesia"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Sumbawa people, also called *Tau Samawa*, *Orang Sumbawa*, or Sumbawan, are native to the western and central region of Sumbawa Island, including West Sumbawa Regency and Sumbawa Regency in West Nusa Tenggara, Indonesia. They also inhabit about another 38 smaller islands. Their language is Sumbawa, an Austronesian, Malayo-Polynesian language closely related to the languages of Lombok and Bali. The Sumbawa people established the Kingdom of Sumbawa, or Sumbawa Sultanate, which lasted until 1931. Their cultural life includes agriculture, animal husbandry, folklore, dance, musical performance, Sakeco music, traditional settlements, preserved rituals, and a history of exchange involving rice, horses, honey, fragrant wood, coffee, and other products.
+
+## Material culture
+
+### Architecture
+
+Sumbawa villages are characterized by scattered houses, with settlements made up of separate estates. People live in both permanent and temporary settlements. Large villages are divided into smaller *rukun warga*, each with its own administration, while villagers also form a community for dealing collectively with land use and irrigation.
+
+Traditional framed houses are built on stilts and have high roofing. They are divided into several rooms, generally four to six. These houses have no ceiling; instead, an attic is made over the female part of the house. Temporary building shelters occur in mountainous areas free from jungle areas, and temporary settlements are also located in the fields, where women, old people, and children reside.
+
+### Ceramics, metalwork & everyday objects
+
+ They state that agriculture uses slash-and-burn cultivation, while plows and irrigation methods are very rarely used.
+
+## Music & performance
+
+Sumbawa folklore includes fairy tales, legends, historical tales, nursery rhymes, dance, and musical performance. *Sakeco* music has a special role in Sumbawa custom.
+
+The sources describe music and performance generally. The Sumbawa people’s history includes the Sumbawa Sultanate.
+
+## Dance & theatre
+
+The sources state that Sumbawa folklore includes dance and musical performance.
+
+## Festivals & rituals
+
+Most Sumbawa people practice Sunni Islam, although ancient cults, traditional beliefs, and rituals are still preserved among them.
+
+The sources state that meat is consumed during festivals and other celebrations, while the Sumbawa diet is otherwise mostly plant based. Sumbawa shamans have social influence and act as counselors and witch doctors. The Sumbawa people continue to believe in many spirits and witchcraft.
+
+Traditional wedding elements include a long series of ceremonies and an engagement, bride price, a joint bathing ceremony of the bride and groom, and a common dining table. The bride must receive the blessing of her parents. In the past, newlyweds without parental blessings were regarded as insulting their relatives and became refugees from mandatory persecution.
+
+## Foodways
+
+Sumbawa people eat mostly plant-based foods. Meat is eaten during festivals and other celebrations. Rice is the main agricultural product and is predominantly used in their diet. Traditionally, Sumbawa people also grow corn, beans, peppers, vegetables, onions, garlic, tobacco, coffee, and fruit trees. These products are cultivated both for consumption and, in several cases, for trade.
+
+The sources describe slash-and-burn cultivation as the usual agricultural method. Plow and irrigation methods are very rarely used. Aquaculture is carried out in flooded fields and artificial ponds.
+
+Coffee began to be grown by local people through the influence of Dutch traders in Sumbawa Island and became the main export produce. Other products associated with exchange include fragrant wood, honey, rice, and horses. In forestry, wild nuts, beeswax, and frankincense are gathered.
+
+## Oral tradition & literature
+
+Sumbawa folklore consists of many fairy tales, legends, historical tales, and nursery rhymes.
+
+The Sumbawa language is written in the native script commonly known in its homeland as *Satera Jontal*, and it is also written in the Latin script. The sources further state that neither the Bimanese nor the Sumbawa people have alphabets of their own and that they use the alphabets of the Bugis and Malay language indifferently.
+
+## Language & religion
+
+Sumbawa, also called *Basa Samawa* or Sumbawan, is a Malayo-Polynesian language of the western half of Sumbawa Island, where it is spoken alongside Bima. It is an Austronesian language and is closely related to the languages of Lombok and Bali. Sumbawa is described as the easternmost Austronesian language in the south of Indonesia that is not part of the Central Malayo-Polynesian Sprachbund.
+
+The language has several regional dialects or variations, including the Samawa dialect, Baturotok or Batulanteh, Labangka, Lawen, the dialects of the south of Lunyuk, Taliwang, Jereweh, and Tongo. The Samawa dialect, also called the Sumbawa Besar dialect, developed from the Seran dialect and became a standard dialect and bridge of communication after the reign of the Muslim kings of the Sumbawa Sultanate. It serves as a unifying language among the ethnic groups of the former Sumbawa Sultanate and as a medium for regional culture.
+
+Samawa has received loan words from Javanese, Madurese, Balinese, Sasak, Bima, Bugis, Makassar, Mandar, Padang, Palembang, Banjarmasin, Tolkin, Tartar, and Arabic. During the colonial period it also absorbed vocabulary from Portuguese, Dutch, and Japanese. Most Sumbawa people practice Sunni Islam, while ancient cults, traditional beliefs, rituals, belief in spirits, and witchcraft remain present.
+
+## Sources & further reading
+
+- Wikipedia, “Sumbawa people”: https://en.wikipedia.org/wiki/Sumbawa_people
+- Wikipedia, “Sumbawa language”: https://en.wikipedia.org/wiki/Sumbawa_language
+- No UNESCO Intangible Cultural Heritage inscription for this group is identified in the supplied sources.

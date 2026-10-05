@@ -1,0 +1,46 @@
+---
+title: "Yuracaré"
+subtitle: "Bolivia"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Yuracaré, also called Yurujare and Yurucare, are an Indigenous people of Bolivia living along the Chapare River watershed in Cochabamba Department and Beni Department, in the Bolivian Lowlands of the Amazon Basin. They live among forests and plains near the Andes, not far from Santa Cruz de la Sierra and Cochabamba, and along the Chapare, Ichilo, Isiboro, and Sécure Rivers. The Yuracaré are associated with the Yuracaré Native Community Land, the Yuqui TCO, Isiboro-Sécure National Park and Indigenous Territory, the Chiman Indigenous Territory, and Multiethnic Indigenous Territory I. Their language is a language isolate. The sources give estimates ranging from 500 to 3,000 speakers and describe an endangered language whose youngest generation no longer learns it.
+
+## Material culture
+
+### Ceramics, metalwork & everyday objects
+
+ The sources do state that the Yuracaré traditionally bury their dead with their bow and arrows, because they believe the dead go to a place underground where game is plentiful.
+
+## Music & performance
+
+ The Yuracaré language has been documented through audio recordings of narrative texts in the Yurakaré DoReCo corpus, with transcriptions time-aligned at the phone level and translations.
+
+## Festivals & rituals
+
+ They state that the Yuracaré traditionally bury their dead with their bow and arrows, reflecting a belief that the dead go to a place underground where game is plentiful.
+
+## Foodways
+
+ They state that the Yuracaré maintain the forest because certain trees bear fruit necessary for attracting the game that they hunt and live off.
+
+## Oral tradition & literature
+
+ They do document narrative texts in the Yurakaré DoReCo corpus, which contains audio recordings with transcriptions and translations. A Yuracaré–Spanish / Spanish–Yuracaré dictionary project received a Foundation for Endangered Languages grant in 2005. In 2025, the first Yuracare-Spanish dictionary and grammar was published as an attempt at preserving the language.
+
+## Language & religion
+
+Yuracaré is an endangered language isolate of central Bolivia. Speakers refer to their own language as *Yurújare*. The sources give the names Yuracaré, Yurakaré, Yurakar, Yuracare, Yurucare, Yuracar, Yurakare, Yurujuré, Yurújare, and state that the language is spoken in Cochabamba and Beni departments. Two dialects now described as extinct are Western, including Mansiño and Oromo, and Eastern, including Mage and Soloto; Coni, Cuchi, and Enete are possible dialects. Yuracaré grammar is described as verb-initial and agglutinating, with prefixes, suffixes, and reduplication. The sources state that Yuracaré traditions have developed under Catholic influences, including the Jesuits of Paraguayan Reductions, and Spanish influences.
+
+## Sources & further reading
+
+- Lucien Adam, *Principes et dictionnaire de la langue Yuracaré ou Yurujuré composés par le R. P. de la Cueva et publiés conformément au manuscrit de A. d'Orbigny*, Bibliothèque linguistique américaine, No. 16, Maisonneuve, 1893.
+- Willem F. H. Adelaar and Pieter C. Muysken, *The Languages of the Andes*, Cambridge Language Surveys, Cambridge University Press, 2004.
+- Rik van Gijn, *A Grammar of Yurakaré*, Ph.D. dissertation, Radboud University Nijmegen, 2006.
+- J. Ribera, W. Rivero, and A. Rocha, *Vocabulario yuracaré-castellano, castellano-yuracaré*, MISEREOR, 1991.
+- Yurakaré DoReCo corpus, compiled by Sonja Gipper and Jeremías Ballivián Torrico.
+- [Yuracaré people](https://en.wikipedia.org/wiki/Yuracar%C3%A9_people)
+- [Yuracaré language](https://en.wikipedia.org/wiki/Yuracar%C3%A9_language)

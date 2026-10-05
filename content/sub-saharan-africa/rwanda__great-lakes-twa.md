@@ -1,0 +1,54 @@
+---
+title: "Great Lakes Twa"
+subtitle: "Rwanda"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Great Lakes Twa, also known as Batwa, Abatwa or Ge-Sera, are a Bantu-speaking indigenous pygmy people of the African Great Lakes region, on the border of Central Africa and East Africa. Current populations live in Rwanda, Burundi, Uganda and the eastern portion of the Democratic Republic of the Congo. In 2000, they numbered approximately 80,000 people; the largest population was in Burundi, estimated in 2008 at 78,071. Traditionally, the Twa were semi-nomadic mountain forest hunter-gatherers associated with agricultural villages. Their folk-culture significance in the sources lies especially in pottery, former forest-based livelihoods, and the social importance of clay work after displacement from ancestral lands.
+
+## Material culture
+
+### Clothing & dress
+
+ The sources state that sheep skin was used by Hutus and Tutsis to carry babies on women’s backs.
+
+### Architecture
+
+ They state that, after returning to Kahuzi-Biega National Park in 2019, Batwa built new villages on their former land.
+
+### Ceramics, metalwork & everyday objects
+
+Pottery is a distinctive material practice in the sources. Unlike pygmy peoples who generally trade meat for agricultural products, iron and pottery, the Twa are themselves potters. After losing access to ancestral lands and traditional economic activities, Batwa pottery became an expression of identity and retained cultural and social significance even though industrialised pottery made it no longer profitable.
+
+The process of digging clay and carrying it to settlements provides opportunities for socialisation and a sense of community among Batwa potters. The marshes where clay is harvested under an informal communal tenure system have been increasingly converted into collectivised rice-growing plantations following a 2005 land policy change.
+
+## Music & performance
+
+ They identify Colin Turnbull, Simha Arom and Jean-Pierre Hallet as researchers who studied pygmy culture and music, but provide no account of particular Great Lakes Twa musical traditions.
+
+The sources mention that, at times, Twa served in the government of the Tutsi king and that some obtained privileged positions in the royal court as entertainers or executioners.
+
+## Festivals & rituals
+
+ They do describe beliefs and social practices involving Twa women in Rwanda: there was a belief that sleeping with a Twa woman could cure an acute backache, and children born from such encounters were called “Abasyete” and were said to have a “different morphology.” Most Abasyete were found in the Nyanza District, and many were killed during the Rwandan Genocide.
+
+The sources also state that sheep were taboo to both Tutsi and Hutus because sheep skin was used to carry babies on women’s backs and sheep were believed to keep herds of cattle calm. They identify the Rwandan genocide of 1994 as a period in which about 30% of Rwanda’s Twa population died.
+
+## Foodways
+
+The sources provide only limited information about Great Lakes Twa foodways. Traditionally, the Twa were mountain forest hunter-gatherers living in association with agricultural villages. Unlike other pygmy peoples who generally traded meat for agricultural products, iron and pottery, the Twa were themselves potters.
+
+The sources state that the Twa were viewed unfavourably in part because they ate sheep. Sheep were taboo to both Tutsi and Hutus, who associated sheep skin with carrying babies and sheep with keeping cattle herds calm.
+
+## Language & religion
+
+The Great Lakes Twa are described as a Bantu-speaking group. They speak distinct dialects of the Rundi, Kiga and Tembo languages.
+
+They do record beliefs associated with Twa women, including the belief in Rwanda that sleeping with a Twa woman could cure an acute backache.
+
+## Sources & further reading
+
+- Wikipedia, “Great Lakes Twa”: https://en.wikipedia.org/wiki/Great_Lakes_Twa

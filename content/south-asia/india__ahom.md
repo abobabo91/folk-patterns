@@ -1,0 +1,75 @@
+---
+title: "Ahom"
+subtitle: "India"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Ahom, also called Tai Ahom, are an ethnic group primarily found in Assam and Arunachal Pradesh, especially in the Brahmaputra Valley. They live mainly in Upper Assam, including Golaghat, Jorhat, Sivasagar, Charaideo, Dibrugarh, Tinsukia, Lakhimpur, Sonitpur, Biswanath, Dhemaji and parts of Nagaon. Their society formed through the admixture of Tai migrants and indigenous populations incorporated through Ahomisation. Traditional accounts connect their arrival with Sukaphaa and the foundation of the Ahom kingdom, while recent scholarship places the polity’s establishment in the fourteenth century. The Ahom language belongs to the Tai branch of the Kra–Dai languages. Ahom culture combines Tai and local Tibeto-Burman traditions in agriculture, dress, foodways, ritual, manuscripts and ancestor worship.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Muga, paat, gomseng and mejankari** — These silk varieties were used in royal and aristocratic garments during the later Ahom period. Muga and paat silk were introduced at the royal court, where muga rearers and weavers manufactured garments.
+
+**Mekhela, riha and chadar** — Women’s clothing developed around these garments, including the mekhela, riha and upper wrapper or chadar.
+
+**Churia or dhoti** — Men’s dress included forms of churia or dhoti, together with shirts, coats, cheleng wrappers, waistbands and headgear.
+
+### Clothing & dress
+
+Early Ahoms traditionally wore black clothing, later adopting white clothing. During the later Ahom period, clothing became closely associated with rank. Royal and aristocratic garments were made from fine varieties of silk, including muga, paat, gomseng and mejankari, while particular garments, fabrics and forms of ornamentation were restricted according to social status. Men’s clothing included churia or dhoti, shirts and coats, cheleng wrappers, waistbands and various kinds of headgear. Women’s dress developed around the mekhela, riha and upper wrapper or chadar. Court dress continued to absorb new styles during the seventeenth and eighteenth centuries, including different shirts, robes, turbans, footwear, fabrics and designs adopted from neighboring courts.
+
+### Architecture
+
+Rural Ahom houses are made of wood and bamboo and typically have two thatched roofs. They are built in a scattered fashion within bamboo groves, with orchards and ploughed fields near the house. The houses stand on stilts called *Rwan Huan*, about two meters above ground level.
+
+### Ceramics, metalwork & everyday objects
+
+ They mention earthen lamps called *ban-phai-s* in the Cho Klong marriage ritual and describe the royal insignia Chum Pha Rueng Sheng Mueang.
+
+### Jewelry & body adornment
+
+ They mention forms of ornamentation in connection with rank-specific court dress, without identifying particular objects or materials.
+
+## Music & performance
+
+ They do describe ritualistic chants in the Ahom language, which survive in written manuscripts, and religious use of the language in chants and the reading of literature. The Ahom script was used for manuscripts concerning history, society, astrology and rituals, collectively known as *Buranji*. Religious manuscripts also concern divination, prognostication, khwan calling, incantation and Phralung. The priestly clans Mo’sam, Mo’hung and Mo’Plong are described as custodians and users of these texts.
+
+## Festivals & rituals
+
+**Me-Dam-Me-Phi** is a public ancestor-worship ceremony and a major Ahom religious ritual. It is held annually on 31 January. The ceremony propitiates the spirits of the dead and includes a temporary octagonal structure of bamboo and thatch called *ho phi*. Raised platters are placed for divinities including Jashing Pha, Jan Chai Hung, Lengdon, Chit Lam Cham, Mut-Kum Tai-Kum, Chao Phi Dam, Khao Kham, Ai Leng Din, Ra Khin and Ba Khin.
+
+**Poi cheng ken** is a traditional spring festival celebrated during the Ahom month of Duin-Ha in the Sexagenary cycle. It includes washing household cattle, honoring ancestors and worshipping the insignia Chum Pha Rueng Sheng Mueang. Its customs are recorded in the manuscript *Khyek Lai Bet*.
+
+**Cho Klong** is the main marriage ritual among the twenty marriage rituals of the Tai Ahom people. Its name is explained through the Tai Ahom words Cho, “to combine,” and klong, “ritual.” The ceremony is described in *Lai Lit nang Hoon Pha*. One hundred and one *ban-phai-s*, or earthen lamps, are lit, and the bride offers the groom a *heng-dan*, or sword. Other named wedding rituals include Juron, Rik-Khwan, Aap-Tang, Chow Ban and Jon-ming.
+
+Ahom ancestor worship includes household Dam-Phi rituals and communal Me-Dam-Me-Phi. Dam are understood as spirits of the dead; after the fourteenth generation, a Dam becomes a Phi and is worshipped by the whole community. The sources also describe Dam-Phi observances at births, marriages, annual death ceremonies, the three Bihus, the Na Khua ceremony and the female puberty ceremony called *nuai tuloni biya*.
+
+## Foodways
+
+Rice is a staple food, and most Ahoms, particularly in rural areas, are non-vegetarian. The sources name pork, chicken, duck, beef, frogs, many kinds of fish, eggs of red ants and insects among Ahom foods. *Hukoti maas* is a dry preserved fish mixture, while *Muga leta* consists of cocoon seeds of endi and muga worms. Traditional drinks include *Luk-Lao* or *Nam-Lao*, rice beer in undiluted or diluted form.
+
+Ahom cooking favors boiled food with little spice and directly burnt fish, meat and vegetables. Named foods include *Thu–dam*, black lentil; *Khao–Moon*, rice frumenty; *Xandohguri*, powder made from dry roasted rice; *ChewaKhao*, steamed rice; *Chunga Chaul*, sticky rice cooked in tender bamboo tubes; *Til pitha*, sesame rice rolls made from sticky rice powder; and *Khao-tyek*, rice flakes. *Khao* is unboiled soft rice prepared from a special variety of sticky rice, while *Tupula Khao* is rice cooked and packed with *tora pat* and preserved bamboo sauce. Other foods include *Khar*, an alkaline liquid extracted from the ashes of burned banana peels or bark, and *Betgaaj*, tender cane shoots. Hindu and Vaishnavite dietary practices affected the consumption of beef, pork, meat and drinks.
+
+## Oral tradition & literature
+
+Ahom literature survives principally in manuscripts written in the Ahom script. The *Buranji* corpus covers history, society, astrology and rituals, while the priestly classes preserve manuscripts concerning religious practices. The *Lak-Ni Tao-Si-Nga*, a lunar calendar from China, was used to count events in the *Buranji*. The first month is called Duin-Shing, and the new year festival is known as Pi-Mau Tai.
+
+The Ahom language ceased to be used as a vernacular, but written manuscripts and ritualistic chants survive. The exhaustive 1795 Ahom-Assamese lexicon called the *Bar Amra* preserves lexical forms from the end of the Ahom kingdom. Revival efforts include language teaching, reconstructed texts, the study of old manuscripts and an online dictionary based especially on the *Bar Amra*. The sources also describe disagreement over whether the revived language represents the historical language, noting the term “pseudo-Ahom” for forms based on dictionary reconstruction and Assamese grammatical patterns.
+
+## Language & religion
+
+Ahom is a Southwestern Tai language in the Kra–Dai family. It was the state and court language of the Ahom kingdom and was used for state histories called *Buranjis*. Assamese replaced it in court during the seventeenth century and later became the language of secular use. Everyday use ceased by the early nineteenth century, although the language is undergoing revival for religious and educational purposes. The Ahom script survives in manuscripts, but its tone system is lost because the script does not mark tone.
+
+Ahom religion, also called Phuralung religion, is based on ritual-oriented ancestor worship and the concept of *khwan*. *Ban-Phi* rituals involve animal sacrifice, while *Phuralung* forbids it. The supreme deity is Pha Tu Ching. Other named deities include Lengdon, Khao Kham, Ai Leng Din, Jan Chai Hung, Jasing Pha, Chit Lam Cham, Mut-Kum Tai Kum, Ra-Khin, Ba-Khin and Chao Phi Dam. Most Ahoms are Hindus, while revival organisations seek to restore Ahom religious practices.
+
+## Sources & further reading
+
+- [Ahom people — Wikipedia](https://en.wikipedia.org/wiki/Ahom_people)
+- [Ahom language — Wikipedia](https://en.wikipedia.org/wiki/Ahom_language)
+- [Ahom religion — Wikipedia](https://en.wikipedia.org/wiki/Ahom_religion)
+- No UNESCO Intangible Cultural Heritage inscriptions or museum catalogue records were supplied in the sources used for this profile.

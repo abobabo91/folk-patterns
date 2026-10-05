@@ -1,0 +1,80 @@
+---
+title: "Chitimacha"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Chitimacha are an Indigenous people of the Southeastern Woodlands in Louisiana and a federally recognized tribe, the Chitimacha Tribe of Louisiana. Their reservation lies in St. Mary Parish near Charenton on Bayou Teche, in the Atchafalaya Basin, which the sources describe as one of the richest inland estuaries on the continent. In 2011 they numbered about 1100 people, while the tribe reported more than 900 enrolled members in the early 21st century. The Chitimacha historically spoke Chitimacha, a language isolate; the language became extinct after the last fluent speakers died in the 1930s or, according to the language article, in 1940. Their folk-culture significance is especially documented through rivercane basketry, language revitalization, oral accounts, and the preservation of traditional land-based practices.
+
+## Material culture
+
+### Textile & pattern traditions
+
+*Rivercane basketry* is the principal documented Chitimacha pattern-bearing craft. Chitimacha women weave highly refined baskets from rivercane, using three colors: yellow, red, and black. The sources identify the double-weave technique and describe basketry as an important part of the Chitimacha economy, with baskets woven for sale throughout the centuries to today. Ada Thomas was recognized for her skill in double weaving and was honored as a National Heritage Fellow by the National Endowment for the Arts in 1983.
+
+Sarah Sense has researched Chitimacha basket designs and incorporates them into two-dimensional woven photoworks and three-dimensional woven basket works. The tribe has also promoted river cane regrowth on tribal lands to support the continuation of traditional basket weaving.
+
+**Motif vocabulary.** The sources name Chitimacha basket designs.
+
+### Clothing & dress
+
+The sources state that, because of the hot and humid climate, Chitimacha men generally wore only a breechcloth and women wore a short skirt. They also describe adult men as typically wearing their hair long and loose.
+
+### Architecture
+
+The Chitimacha established villages in the swamps, bayous, and rivers of the Atchafalaya Basin. Their location provided natural defense against enemy attack, so the villages were not fortified. Villages were rather large, with an average of about 500 inhabitants. Dwellings were made from available resources: walls were built from a framework of poles and plastered with mud or palmetto leaves, while roofs were thatched.
+
+### Ceramics, metalwork & everyday objects
+
+ They do describe dugout canoes made by carving cypress logs; the largest could hold as many as 50 people. The Chitimacha traded crops for stone used to make arrowheads and tools, developed blow guns and cane darts, and adapted fish bones for use as arrowheads. Grain crops were stored in an elevated winter granary.
+
+### Jewelry & body adornment
+
+The Chitimacha were skilled practitioners of tattooing, often covering the face, body, arms, and legs with tattooed designs.
+
+## Music & performance
+
+ They do record that Morris Swadesh worked with Benjamin Paul and Delphine Ducloux from 1930 to document the Chitimacha language and stories. His notes and recordings, together with the work of John R. Swanton, form an important part of the surviving documentation of Chitimacha speech and traditional accounts.
+
+The Chitimacha language was historically spoken by the people of Louisiana and is classified in the sources as a language isolate. Swadesh wrote a grammar and dictionary and collected numerous texts from the last two speakers, although the language article states that these materials were not published. The tribe later partnered with Rosetta Stone in 2008 to develop software documenting the language and providing teaching materials.
+
+## Dance & theatre
+
+ They mention the documentary *Native Waters: A Chitimacha Recollection*, directed and produced by Laudun for Louisiana Public Broadcasting in 2011, which won a 2012 Telly Award.
+
+## Festivals & rituals
+
+ They do document several social and cultural practices. The Chitimacha had a matrilineal kinship system in which property and descent passed through female lines; children belonged to their mother’s family and clan and took their status from her. Hereditary male chiefs came from maternal lines and were approved by female elders until the early 20th century.
+
+The sources also describe the historical flattening of male infants’ foreheads by binding them as infants to shape their skulls. The Chitimacha were divided into nobles and commoners, and the two classes spoke different dialects; intermarriage between the classes was forbidden.
+
+## Foodways
+
+Agriculture provided the mainstay of the Chitimacha diet. The women tended cultivation and raised numerous distinct varieties of corn, beans, and squash. Corn was the main crop, supplemented by beans, squash, and melons. Women also gathered wild foods and nuts, while men hunted deer, turkey, and alligator and caught fish. Grain crops were stored in an elevated winter granary to supplement hunting and fishing. They state that the people traded crops for stone with tribes to the north and that agricultural production formed part of their material and economic life. No further foodways are covered by the sources used.
+
+## Oral tradition & literature
+
+The Chitimacha have oral history stating that their territory was marked by four prominent trees. Morris Swadesh recorded Chitimacha language and stories while working with Benjamin Paul and Delphine Ducloux around 1930. The sources describe his extensive notes as an effort to preserve the language and its traditional accounts, and state that he collected numerous texts from the last two speakers.
+
+The American Philosophical Society Library later reported that it held Swadesh’s papers, including extensive notes on the Chitimacha language, a draft grammar manual, and a dictionary. A team used these materials in language revitalization and began preparing teaching materials, including a storybook.
+
+## Language & religion
+
+Chitimacha is a language isolate historically spoken by the Chitimacha people of Louisiana, United States. It became extinct after the death of the last fluent speakers; the two sources give the 1930s and 1940 as the relevant period. Most contemporary Chitimacha speak Cajun French and English. The language has been documented in notes, recordings, a grammar, a dictionary, and collected texts associated particularly with Morris Swadesh and John R. Swanton.
+
+The language has been represented in French, Spanish, and Americanist orthographies. Chitimacha tribal members developed a practical orthography using the Latin alphabet without diacritics or special characters. The sources describe language immersion classes for children and adults, a Chitimacha dictionary in preparation as of 2015, and Rosetta Stone learning software distributed to tribal households in 2008.
+
+Some Chitimacha converted to Catholicism through interaction and marriage with Acadians.
+
+## Sources & further reading
+
+- Betty J. Duggan, “Revisiting Peabody Museum Collections and Chitimacha Basketry Revival,” *Symbols*, Spring 2000.
+- Hiram F. Gregory and Clarence H. Webb, “Chitimacha Basketry,” *Louisiana Archaeology* 2, 1975.
+- Hiram F. Gregory, “Asá: la Koasati Cane Basketry,” in *The Work of Tribal Hands: Southeastern Split Cane Basketry*, Northwestern State University Press, 2006.
+- Daniel H. Usner, *Weaving Alliances with Other Women: Chitimacha Indian Work in the New South*, University of Georgia Press, 2015.
+- Morris Swadesh’s Chitimacha language documentation, including notes, recordings, a draft grammar manual, dictionary materials, and collected stories.
+- [Chitimacha](https://en.wikipedia.org/wiki/Chitimacha)
+- [Chitimacha language](https://en.wikipedia.org/wiki/Chitimacha_language)

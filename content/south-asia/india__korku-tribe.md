@@ -1,0 +1,42 @@
+---
+title: "Korku tribe"
+subtitle: "India"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Korku are a Munda ethnic group predominantly found in the Khandwa, Burhanpur, Betul and Chhindwara districts of Madhya Pradesh, as well as adjoining areas near the Melghat Tiger Reserve of Maharashtra. They initially lived as a hunter-gatherer community in the forests of the Satpura Range on both sides of the Tapti River. Today, Korkus are primarily cultivators, with 97% living in rural areas. They speak Korku, a Munda language written using Devanagari, and are classified as a Scheduled Tribe by the Indian government. Their folk-cultural life includes seasonal farming, traditional village institutions, festivals, clan systems, and distinctive household arrangements.
+
+## Material culture
+
+### Architecture
+
+Korku households live in small groups of huts made of grass and wood. Each household has an elevated, stage-like structure at the front of the house, used for storing farm produce such as cattle feed.
+
+## Festivals & rituals
+
+The Korku celebrate the traditional festivals of Hari and Jitori with a month-long planting campaign. Their seasonal farming cycle follows the dry and monsoon seasons: during the dry season they cultivate gram, jowar, pulses, millet, and wheat, and during the monsoon season they switch to rice, maize, and soybeans. The traditional representative body of Korku society is the Korku Panchayat, found in many villages. It is headed by a Patel and includes a Padihar, a Kotwar, and ten to twelve older male members known as Panch. The Panchayat plays a decisive role during festivals, marriages, and the resolution of intra- and inter-village conflicts.
+
+## Foodways
+
+Korku agriculture includes gram, jowar, pulses, millet, wheat, rice, maize, soybeans, potato, and coffee. Cultivation changes with the seasons, with dry-season crops replaced by rice, maize, and soybeans during the monsoon. The sources describe the Korkus as primarily cultivators and note that agriculture is the principal livelihood for most community members.
+
+Korku households prepare liquor from the flowers of the Mahua tree, and this drink is prepared in almost all houses. The sources state that the Goyara subsect is looked down upon by other subsects for eating beef, which the others do not do.
+
+## Oral tradition & literature
+
+Korku clan origins are explained through a tradition in which Shiva took the form of a lion and frightened the original Korkus into a forest. Shiva then declared that the object under which a Korku hid would become his or her clan name, and ordered the Korkus to marry outside the gotra. The sources also document named clan associations: Bethe with the bilwa tree, Jambhu with the jamun tree, Bhusum with grass, Kasda with soil, Mawasi with water, Dhikar and Selu with trees, Chilhati with a creeper, Korilua with a tree, Sakom with a leaf, Tota with maize, Chathwa with a wooden ladle, and Mara with the peacock.
+
+## Language & religion
+
+Korku is a member of the Munda languages and is written using Devanagari. The Korkus are a Munda tribe living near the Dravidian-speaking Gonds. The name “Korku” is explained as a combination of “Koro,” meaning person, and “Ku,” meaning alive; together, the terms are defined as “the alive member.”
+
+The sources document a clan tradition involving Shiva, who is said to have taken the form of a lion and established the rules of clan naming and marriage outside the gotra.
+
+## Sources & further reading
+
+- “Korku people,” Wikipedia: https://en.wikipedia.org/wiki/Korku_people
+- No UNESCO Intangible Cultural Heritage inscription for this ethnic group was included among the sources used.
+- No museum catalogue records were included among the sources used.

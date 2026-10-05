@@ -1,0 +1,33 @@
+---
+title: "Latvians"
+subtitle: "Latvia"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Latvians (*latvieši*) are a Baltic ethnic group and nation native to Latvia and the immediate geographical region, the Baltics. They share a common Latvian language, culture, history, and ancestry. They are occasionally called Letts, particularly in older bibliography. Latvians and Lithuanians are the only surviving members of the Baltic branch of the Indo-European family. Their culture includes traditions, holidays, customs, and arts, and has been influenced by Germanic, Scandinavian, and Russian traditions. Archaeological evidence places Latvian culture as far back as 3000 BC, while the first indications of human inhabitants in the lands of modern Latvia date to c. 9000 BC.
+
+## Music & performance
+
+The sources used identify Latvian arts as part of the group’s culture.
+
+## Festivals & rituals
+
+Latvians continue to celebrate traditional feasts, including *Jāņi*. Baltic ethnic religion was followed in Latvia before the Christian Teutonic Order invaded the region. *Dievturība* is a modern revival of the ethnic religion of the Latvians before Christianization in the 13th century CE.
+
+## Oral tradition & literature
+
+The sources used mention Latvian literary culture only in connection with the Herrnhutist movement, which played a significant part in its development before being absorbed into the mainstream Lutheran denomination in the late 18th century.
+
+## Language & religion
+
+Latvians’ ancestral language, Latvian, has been recorded since at least the 16th century and developed into a distinct language by the 9th century. It belongs to the Baltic branch of the Indo-European languages. Livonian, a nearly extinct language of the Baltic-Finnic sub-branch of the Uralic language family, enjoys protection by law, while Latgalian, a dialect of Latvian, is also protected by Latvian law as a historical variation of Latvian.
+
+Before Christianization, Baltic ethnic religion was followed in Latvia. Most Christian Latvians claim to belong to the Evangelical Lutheran Church. Roman Catholicism is predominant in Latgale and Alsunga Municipality, while a small minority belong to the Latvian Orthodox Church and other religious congregations. Germanic, Scandinavian, and Russian traditions have influenced Latvian culture and religious traditions.
+
+## Sources & further reading
+
+- “Latvians,” Wikipedia: https://en.wikipedia.org/wiki/Latvians
+- UNESCO Intangible Cultural Heritage inscriptions: none listed in the supplied sources.

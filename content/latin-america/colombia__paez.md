@@ -1,0 +1,50 @@
+---
+title: "Paez"
+subtitle: "Colombia"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Páez people, also known as the Nasa, are an Indigenous people of the southwestern highlands of Colombia, especially Cauca Department, with communities also in the Caquetá Department lowlands and Tierradentro. The Páez language, also called Paez, Paes, or Nasa Yuwe, is spoken by the Páez people and is generally considered a language isolate, or the only surviving member of its family. Crevels estimates 60,000 speakers within an ethnic population of 140,000. The Páez are the second-largest Colombian Indigenous community and have also moved to Huila, Tolima, and Valle del Cauca. Their documented folk-culture profile includes wool production, textile making, agriculture, Indigenous religious practice, and a syncretic form of Roman Catholicism.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Wool clothing and blankets** — Páez women raise and shear sheep, clean the wool, spin it into yarn, dye it, and knit clothes and blankets for their families.
+
+### Clothing & dress
+
+The sources state that Páez women knit clothes and blankets from wool processed by their families.
+
+### Architecture
+
+Because the Páez live in the cold climate of the Andes, they build their homes using brick, metal, cement, and wood.
+
+## Festivals & rituals
+
+The sources describe Páez religious change and punishment practices. In the early 1900s, Lazarists built missions among the Páez and began efforts to convert them to Christianity; Jesuits had earlier attempted conversion but failed. The Páez developed a syncretic form of Roman Catholicism that absorbed their Indigenous religion. The sources state that the Páez have shamans and that many have also become Roman Catholic priests. Punishment for wrongs is described as strict: in June 2000, local governor Ermes Taqninaf and his mistress Rubiela Yetacue received 17 strokes with a knotted leather whip in Santander de Quilichao, while Senator Jesús Pinacue was stripped of his clothing and dunked in a cold mountain lake in 1998 after supporting a political candidate in a presidential vote.
+
+## Foodways
+
+Many Páez are agriculturists. Crops named in the sources include potatoes, coffee, cassava, plantains, coca, and hemp.
+
+## Oral tradition & literature
+
+ The references include a study titled “History, myth, the dynamics of territorial maintenance in Tierradentro, Colombia,” but the supplied material does not summarize its contents.
+
+## Language & religion
+
+Páez, also called Paez, Paes, or Nasa Yuwe, is a language of Colombia spoken by the Páez people. It is generally considered a language isolate, or the only surviving member of its family. The language is spoken in the north of Cauca Department, and Páez communities have also moved to Huila, Tolima, and Valle del Cauca. The sources list the varieties Paez / Paisa, Nasayuwä, Okoshkokyéwa, Paniquita, Panzaleo / Latacunga / Quito, and Alausí, including unattested varieties. They also state that lexical similarities with the Chibcha, Barbakoa, Choko, Tukano, Andaki, and Kofan language families result from contact. Today, many Misak live in primarily Nasa settlements, producing language contact and, in some cases, bilingualism. Religiously, Páez Indigenous practice has combined with Roman Catholicism; shamans remain part of the described religious landscape, while some Páez have become Roman Catholic priests.
+
+## Sources & further reading
+
+- Willem F. H. Adelaar and Pieter C. Muysken, *The Languages of the Andes*, Cambridge University Press, 2004.
+- Ruth M. Brend, ed., *From Phonology to Discourse: Studies in Six Colombian Languages*, Summer Institute of Linguistics, 1985.
+- Florence L. Gerdel, *Paez*, in *Aspectos de la cultura material de grupos étnicos de Colombia 2*, Ministerio de Gobierno and Instituto Lingüístico de Verano, 1979.
+- Marianna C. Slocum and Florence L. Gerdel, *Diccionario: páez-español / español-páez*, Editorial Townsend, 1983.
+- Joanna Rappaport, “History, myth, the dynamics of territorial maintenance in Tierradentro, Colombia,” *American Ethnologist*, 1985.
+- [Paez people](https://en.wikipedia.org/wiki/Paez_people)
+- [Paez language](https://en.wikipedia.org/wiki/Paez_language)

@@ -532,7 +532,7 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
       {point && (
         // Zero-height sticky row: the close button stays in the corner while
         // the panel scrolls, without pushing the content down.
-        <div className="sticky top-0 z-20 flex h-0 justify-end">
+        <div className="sticky top-0 z-20 flex h-0 items-start justify-end">
           <button
             onClick={onClose}
             className="close-btn mr-6 mt-6 rounded-full border border-dusk bg-night px-2 py-1 text-[11px] shadow-sm"

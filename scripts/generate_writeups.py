@@ -162,9 +162,10 @@ STUB_TITLES = DATA_DIR / "world" / "stub_wiki_titles.json"
 # document Savakot textile ..." (savakot, 2026-10-05: 11 of 14 sections). A
 # trailing "but they do not name Y" clause is cut; a sentence that is only such
 # a source-gap remark is dropped.
-_GAP = r"(?:do|does|did) not (?:describe|mention|specify|say|give|record|document|identify|name|provide|detail|discuss|cover|indicate|explain|list|state)"
-_GAP_CLAUSE = re.compile(r",? (?:but|although|yet|though)(?: the [a-z ]{0,25}sources?(?: used)?| they| it| this)?(?: also)? " + _GAP + r"[^.]*\.")
-_NOT_COVERED = re.compile(r"(?:^|(?<=[.!?*”’])[ \t]+)[^.\n]*\b(?:[Ss]ources?(?: used)?|[Tt]hey|[Ii]t)(?: also| therefore)? " + _GAP + r"[^.\n]*\.", re.M)
+_GAP = r"(?:do|does|did) not (?:otherwise |further |directly )?(?:describe|mention|specify|say|give|record|document|identify|name|provide|detail|discuss|cover|indicate|explain|list|state|include|connect|contain|supply|establish)"
+_SRC = r"(?:[Ss]ources?(?: [a-z]+){0,2}?|[Tt]hey|[Ii]t)(?: also| therefore| otherwise)?"
+_GAP_CLAUSE = re.compile(r",? (?:but|although|yet|though)(?: the [a-z ]{0,25}sources?(?: [a-z]+){0,2}?| they| it| this)?(?: also)? " + _GAP + r"[^.]*\.")
+_NOT_COVERED = re.compile(r"(?:^|(?<=[.!?*”’])[ \t]+)[^.\n]*\b" + _SRC + " " + _GAP + r"[^.\n]*\.", re.M)
 
 
 def _drop_uncovered(md: str) -> str:

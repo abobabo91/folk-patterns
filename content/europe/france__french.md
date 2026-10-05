@@ -1,0 +1,87 @@
+---
+title: "French"
+subtitle: "France"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+The French are people identified with France or, more broadly, a global sociolinguistic group connected through the French language, culture, and history originating in Western Europe. They are primarily descended from Gallo-Romans and Germanic peoples including the Franks, Visigoths, Suebi, and Burgundians, alongside later migrations. Regional communities include Bretons, Occitans, Basques, Catalans, Germans in Alsace, Corsicans, and Flemings. French is a Romance language of the Indo-European family, descended primarily from Vulgar Latin and influenced by Celtic languages and Germanic Frankish. In 2025, the population of France was estimated at about 68.6 million. French people and people of French descent also live in overseas departments and territories and in countries including the United States, Canada, Argentina, Brazil, Mexico, Chile, and Uruguay.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name acanthus-leaf motifs, grotesque figures, beasts, geometric patterns, over-and-under interlacing, and scenes of courtly love in connection with French art, architecture, manuscripts, and ivory objects, but do not present them as a distinct French folk-textile vocabulary.
+
+### Clothing & dress
+
+ They do mention fashion as one of the cultural fields shaped by France and identify royal-court clothing and etiquette as models of noble culture during the reign of Louis XIV.
+
+### Architecture
+
+French architecture includes prehistoric megalithic monuments, Gallo-Roman buildings, medieval churches, royal palaces, and urban structures. In the Neolithic period, dolmens and menhirs appeared in France, with the largest concentration of megalithic monuments in Brittany. The Cairn of Gavrinis has a 14-meter inner corridor decorated with ornamental carvings, while the broken menhir of Er-Grah was originally more than 20 meters high.
+
+Roman remains include the amphitheater in Orange, the Maison Carrée at Nîmes, the temple of Augustus and Livia at Vienne, the Pont du Gard aqueduct, the Roman cities of Glanum and Vaison-la-Romaine, and arenas in Nîmes and Arles. Gothic architecture began in Île-de-France in the middle of the twelfth century, with the abbey at St. Denis and later buildings including Chartres Cathedral, Bourges Cathedral, Notre-Dame in Paris, Reims Cathedral, Amiens Cathedral, and the Sainte-Chapelle. Renaissance architecture included the Châteaux of the Loire Valley, such as Azay-le-Rideau, Chambord, and Chenonceau.
+
+### Ceramics, metalwork & everyday objects
+
+The sources describe finely decorated Ancient Roman pottery produced around the modern Franco-German border and exported to Italy and elsewhere. French art also includes woodwork, textiles, ceramics, metalwork, illuminated manuscripts, small-scale sculpture, mosaics, frescoes, stained glass, chalices, reliquaries, and bronze doors, baptismal fonts, and candle holders.
+
+During the Renaissance, Limoges became a leading center for enamel production. Workshops produced plates, plaques, and ewers decorated with sophisticated Mannerist figure scenes. Medieval Paris was a major center for luxury artifacts, including ivory sculptures, ivory caskets, jewellery, and precious reliquaries.
+
+### Jewelry & body adornment
+
+ They do mention medieval Parisian jewellery and precious reliquaries, including the Holy Thorn Reliquary made for Jean, duke of Berry, and the Goldenes Rössl of Altötting, made for Charles VI, king of France.
+
+## Music & performance
+
+The supplied sources name several categories of French music: French classical music, French opera, French folk music, French popular music, French pop music, French jazz, French electronic music, French house music, French rock, chanson, Nouvelle Chanson, bal-musette, cabaret, and yéyé.
+
+French culture has also been connected with cinema, fashion, literature, and the arts. Paris is described as a center of high culture from the late Middle Ages and again from the seventeenth century, and as a worldwide center of art and culture during the nineteenth and early twentieth centuries.
+
+## Dance & theatre
+
+ They mention theatre as part of the Roman remains at Lugdunum and describe cinema, opera, cabaret, and the performing arts generally.
+
+## Festivals & rituals
+
+French religious and civic life has been shaped by Catholicism, Protestantism, Judaism, Islam, Buddhism, and the secular principle of *laïcité*. The Catholic Church historically played a significant role in French culture and life, while the 1905 law established the separation of church and state. The French Revolution introduced a Republican Calendar in 1793 with a 10-day week, but the system was quickly abandoned after the reformers were overthrown or executed.
+
+The sources describe religious ceremonies in Brittany known as *Pardons*. These are penitential ceremonies held in an individual parish on the feast day of its saint. Parishioners process together to a church or shrine to ask forgiveness for sins, and the event ends with a large meal shared by the penitents. The sources also identify the Seven Founding Saints of Brittany: St Paol Aoreliann, St Tudwal, St Brieg, St Maloù, St Samsun of Dol, St Padarn, and St Kaourintin.
+
+## Foodways
+
+French cuisine consists of the cooking traditions and practices of France. Cheese and wine have major regional and national importance, and many foods are associated with regulated appellation d'origine contrôlée laws. In November 2010, French gastronomy was added by UNESCO to its lists of intangible cultural heritage.
+
+A meal often consists of three courses: *hors d'œuvre* or *entrée*, *plat principal*, and *fromage* or dessert, sometimes preceded by salad. Regional cuisines are described as extremely diverse. Champagne is associated with sparkling wine; Lorraine with quiche Lorraine; Alsace with choucroute and beers; Brittany with galettes made from buckwheat; Normandy with apples, cider, and Calvados; Burgundy with Dijon mustard, wines, snails, and coq au vin jaune; and Franche-Comté with Comté, Morbier, Mont d'Or, croûte aux morilles, and Poulet à la Comtoise.
+
+Other named foods include gratin dauphinois, made from potatoes, salt, pepper, milk, and garlic; raviole du Dauphiné; gâteau de ménage; Beaufort, Abondance, Reblochon, Tomme, and Vacherin cheeses; and dishes influenced by immigrant communities, including couscous, falafel, pho, and banh mi. The sources also describe medieval banquets, pies, aged cheese, spiced wine, salted and smoked meats, fish ponds, game, herbs, spices, and food preservation with salt, honey, and other preservatives.
+
+## Oral tradition & literature
+
+French literature includes Old French works focusing on saints, wars, and royal courts, including the *Chanson de Roland*, the Matter of Britain, and a cycle focused on William of Orange. In Brittany, *lais* were short poems popular in the High Middle Ages that discussed chivalry, love, and the place of the mythical in ordinary life. The lais of Marie de France were influential in preserving and presenting Breton folkloric beliefs.
+
+Breton mythology includes the Ankou, a grim-reaper figure who travels across Brittany in a cart and collects the souls of peasants; the Nain, a gargoyle-like creature associated with dolmens; and the Youdic, connected with bogs believed to be portals to infernal regions and Hell known as the Yeun. Werewolves appear in Breton lais, including Marie de France’s *Bisclavret*.
+
+French mythology also includes traditions associated with the Gauls, Franks, Normans, Bretons, and other peoples living in France. Gallo-Roman mythology combined Celtic and Roman beliefs, while Frankish mythology drew on pre-Christian Germanic paganism.
+
+## Language & religion
+
+French is a Romance language of the Indo-European family. It descended from the Vulgar Latin of the Roman Empire, was influenced by the Celtic languages of Northern Roman Gaul and by Germanic Frankish, and developed through Gallo-Romance dialects. Regional languages include Breton, Alsatian, Occitan, Basque, Corsican, Catalan, Norman, French Flemish, Picard, Lorraine Franconian, and Arpitan. The sources state that most French people speak French as their mother tongue, while other languages remain spoken in particular regions.
+
+France is a secular country whose public order is based on *laïcité*, freedom of conscience, and the separation of private religious life from the public sphere. Christianity has historically been the largest religious group, with Catholicism playing a major role in French history and culture. Islam, Judaism, Buddhism, Protestantism, atheism, agnosticism, and people without religious affiliation are also described.
+
+## Sources & further reading
+
+- [French people](https://en.wikipedia.org/wiki/French_people)
+- [French culture](https://en.wikipedia.org/wiki/French_culture)
+- [French art](https://en.wikipedia.org/wiki/French_art)
+- [French mythology](https://en.wikipedia.org/wiki/French_mythology)
+- [French language](https://en.wikipedia.org/wiki/French_language)
+- [French music](https://en.wikipedia.org/wiki/French_music)
+- [French cuisine](https://en.wikipedia.org/wiki/French_cuisine)
+- [French religion](https://en.wikipedia.org/wiki/French_religion)
+- No UNESCO Intangible Cultural Heritage inscription identifiers were supplied among the sources used.
+- No museum catalogue records were supplied among the sources used.

@@ -1,0 +1,75 @@
+---
+title: "Mongo"
+subtitle: "Democratic Republic of the Congo"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Mongo people are an ethnic group living in the equatorial forest of Central Africa and are the largest ethnic group in the Democratic Republic of the Congo. They occupy 14 provinces, particularly Équateur, Tshopo, Tshuapa, Mongala, Kwilu, Maï Ndombe, Kongo-Centrale, Kasai, Sankuru, Maniema, North Kivu, South Kivu, Tanganiyka (Katanga), and Ituri. Their highest presence is in Équateur and the northern parts of Bandundu Province (Maï Ndombe). Mongo society includes diverse sub-ethnic groups collectively referred to as AnaMongo. They share similarities in language and social organization while retaining differences among groups. Their artistic achievements, songs, musical instruments, carvings, oral traditions, proverbs, and fables are identified in the sources as important aspects of Mongo culture.
+
+## Material culture
+
+### Architecture
+
+Mongo society is traditionally based on a joint family household called *Etuka*, consisting of twenty to forty members and derived from an ancestor lineage. The male elder of the Etuka is called *Tata*, meaning father. A cluster of Etuka forms a Mongo village.
+
+### Ceramics, metalwork & everyday objects
+
+ They do state that Mongo artistic achievements include carvings and musical instruments, but provide no further catalogue of forms, materials, or techniques.
+
+## Music & performance
+
+Mongo artistic achievements include songs and musical instruments, which the source describes as showing richness and high sophistication.
+
+The musician Jupiter Bokondji is of Mongo descent. No further information about his music or performance practice is provided in the sources.
+
+The Mongo language is tonal. Oral and musical expression is also connected with Mongo-language literature: Edward Algernon Ruskin published *Mongo Proverbs and Fables* in 1921, containing Mongo texts with English translations. The book includes 405 Mongo proverbs and 21 Mongo fables. Frederick Starr published a collection of 150 Nkundo (Mongo) proverbs with English translations in 1909.
+
+No UNESCO Intangible Cultural Heritage inscription concerning the Mongo people is identified in the supplied sources.
+
+## Festivals & rituals
+
+Traditional Mongo religion is described as involving ancestor worship, belief in nature spirits, fertility rites, and shamanic practices including magic, sorcery, and witchcraft.
+
+Mongo society is patrilineal and traditionally organized through Etuka households derived from an ancestor lineage. Disputes and covenants between lineages were typically resolved through goods or inter-marriages. Some sub-ethnic groups in the southern parts of the Congo had a chief, known as *Bokulaka*, rather than a structure consisting only of lineages.
+
+Polygamy formed part of Mongo culture into the modern age, although missionaries attempted to curb it after conversion to Christianity.
+
+## Foodways
+
+Mongo communities traditionally cultivate cassava, yam, and banana as staple foods. Food production is supplemented by gathering wild plants and edible insects, collecting seasonal vegetables and beans, fishing, and hunting.
+
+The historical sources state that farming of staples such as yam and banana was likely established by about 1000 CE.
+
+The sources also describe ecological and economic changes during the colonial period, including the introduction of cocoa, coffee, and rubber plantations. These crops are mentioned in connection with colonial economic change rather than as documented elements of Mongo cuisine.
+
+## Oral tradition & literature
+
+Mongo people have used oral tradition, including Mongo proverbs and fables, to preserve and transmit knowledge. In the early 1970s, Mabel Ross, a Christian missionary, collected 95 traditional stories from Nkundo storytellers in what was then Zaire. The stories were published in English translation in 1979 in *On Another Day: Tales Told among the Nkundo of Zaire*.
+
+Edward Algernon Ruskin, a Christian missionary at Bongandanga from 1891 until 1935, published *Mongo Proverbs and Fables* in 1921. It contains 405 Mongo proverbs and 21 Mongo fables, including a story about Ulu, the trickster Tortoise.
+
+Ruskin had earlier published *Proverbs, Fables, Similes and Sayings of the Bamongo* in 1897. Frederick Starr published 150 Nkundo (Mongo) proverbs with English translations in 1909. A. J. de Rop’s *La littérature orale mongo* was published in 1974, and Hulstaert’s *Proverbes mongo* appeared in 1958, containing over 2500 Mongo proverbs with accompanying French translations.
+
+## Language & religion
+
+Mongo, also called Nkundo or Mongo-Nkundu, with the forms Lomongo and Lonkundu, is a Bantu language spoken by several Mongo peoples in the Democratic Republic of the Congo. Speakers reside in the north-west of the country over a large area inside the curve of the Congo River. Mongo is tonal and has about 200 dialects, which are clustered regionally and among Mongo sub-ethnic groups.
+
+The sources list dialects or related varieties including Kutu, Bokote, Booli, Bosaka, Konda, Ekota, Emoma, Ikongo, Iyembe, Lionje, Nsongo, Ntomba, Yamongo, Mbole, Nkole, South Mongo, Yailima, and Ngombe-Lomela. Lingala often replaces Mongo in urban centers.
+
+The traditional religion of the Mongo people includes ancestor worship, nature spirits, fertility rites, magic, sorcery, and witchcraft. Belgian colonial rule affected Mongo traditions, culture, and religious beliefs, and the Mongo people predominantly converted to one of the numerous denominations of Christianity found in Congo. Islamic missionary activity from northern Africa became a source of resentment for Christian Mongo people and contributed to conflicts with some Muslim ethnic groups in the neighboring northeastern regions of Congo.
+
+## Sources & further reading
+
+- Mabel Ross, *On Another Day: Tales Told among the Nkundo of Zaire*, English translation published in 1979.
+- Edward Algernon Ruskin, *Mongo Proverbs and Fables*, 1921.
+- Edward Algernon Ruskin, *Proverbs, Fables, Similes and Sayings of the Bamongo*, 1897.
+- Frederick Starr, *Proverbs of Upper Congo*, 1909.
+- A. J. de Rop, *La littérature orale mongo*, 1974.
+- Hulstaert, *Proverbes mongo*, 1958.
+- [Mongo people](https://en.wikipedia.org/wiki/Mongo_people)
+- [Mongo language](https://en.wikipedia.org/wiki/Mongo_language)
+- No UNESCO Intangible Cultural Heritage inscription for the Mongo people is identified in the supplied sources.
+- No museum catalogue records were supplied for the objects shown.

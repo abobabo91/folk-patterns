@@ -1,0 +1,54 @@
+---
+title: "Ghanaians"
+subtitle: "Ghana"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+Ghanaians are people originating from the Ghanaian Gold Coast and predominantly inhabit the Republic of Ghana. They numbered 34 million people in 2024, comprising 85% of the population, while an estimated 4 million people of Ghanaian descent live worldwide. The word “Ghana” means “warrior king.” Ghanaian society includes more than 100 ethnic groups and nine language-family groups. The largest listed ethnic groups are the Akan, Mole-Dagbon, Ewe, Ga-Dangme, Gurma and Guan. Native West Africans make up 98% of the population. Ghanian culture is expressed through cuisine, arts, literature, heritage, music, dance, clothing and sports. More than 90% of citizens live in urban areas.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Kente** — *Kente* is a Ghanaian ceremonial cloth traditionally used as the national costume. It is hand-woven on a horizontal treadle loom in strips measuring about 4 inches wide, which are sewn together into larger pieces of cloth. Kente cloths come in different colours, sizes and designs, and these have different meanings. The cloth is worn on important social occasions.
+
+**Adinkra printing** — Ghanaians developed their unique art of adinkra printing during the 13th century.
+
+**Motif vocabulary.** The sources name no individual kente or adinkra motifs.
+
+### Clothing & dress
+
+Kente is described as Ghanaian ceremonial cloth and as a national costume. It is hand-woven in narrow strips and assembled into larger pieces of cloth, whose colours, sizes and designs have different meanings.
+
+## Music & performance
+
+Ghanaian music includes several distinct types of instruments, including talking drums, the *atenteben*, the *koloko* lute, the *atumpan* and log xylophones used in *asonko* music. The best-known genre identified in the sources is highlife, which originated in the late 19th century and early 20th century. In the 1990s, hiplife developed through the combination of highlife, Afro-reggae, dancehall and hip hop. Hiplife is described as the most popular Ghanaian music, followed by highlife.
+
+Music accompanies Ghanaian dance and is used for entertainment, festivals and other occasions.
+
+## Dance & theatre
+
+Ghanaian dance is described as globally well known and performed worldwide. The dances vary and may involve complex, coordinated movements of the arms, torso, hips, feet and head, performed to different Ghanaian music forms. Named dances include *Adowa* and *Azonto*, as well as the traditional dances *Kpanlogo*, *Klama* and *Bamaya*.
+
+## Festivals & rituals
+
+A festival called Chale Wote is held annually in the capital region, Greater Accra, at the James Town township. It is celebrated along with the Homowo festival and has attracted people seeking to experience Ghanaian culture and festival life. The sources also state that Ghanaian dances are performed at festivals and on other occasions. They likewise do not explain the ritual meanings of Homowo or Chale Wote beyond their association with the annual festival held in Greater Accra.
+
+## Foodways
+
+The sources state that Ghana’s cultural diversity is evident in cuisine.
+
+## Oral tradition & literature
+
+Notable Ghanaian authors named in the source are the novelists Ayi Kwei Armah, author of *The Beautyful Ones Are Not Yet Born*, and Ama Ata Aidoo, author of *Our Sister Killjoy: or Reflections from a Black-eyed Squint*. J. E. Casely Hayford is identified as the author of *Osiris Rising*. In addition to novels, theatre and poetry are described as well developed at a national level.
+
+## Language & religion
+
+Ghana has more than 100 ethnic groups, each with its own distinct language, although languages belonging to the same ethnic group are usually mutually intelligible. The sources identify nine language-family groups and name languages officially sponsored by the government: Akuapem Twi, Asante Twi, Ewe, Fante, Ga, Dangme, Dagbani, Nzema, Ahanta language, Dagaare, Gonja and Kasena. Two thirds, or 67%, of Ghanaians speak English.
+
+## Sources & further reading
+
+- Wikipedia, “Ghanaians”: https://en.wikipedia.org/wiki/Ghanaians

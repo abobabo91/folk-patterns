@@ -1,0 +1,71 @@
+---
+title: "Sambal"
+subtitle: "Philippines"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Sambal are a Filipino ethnolinguistic group living primarily in the province of Zambales and in the Pangasinense municipalities of Bolinao, Anda, and Infanta. The name can also refer to the general inhabitants of Zambales, and during the Spanish colonial era they were referred to as the Zambales, singular Zambal. Sambal communities also live in Panitian, Quezon, Palawan, and in Mandaragat and New Buncag in Puerto Princesa. The Sambal are the original Austronesian inhabitants of Zambales and speak varieties of Sambal belonging to the Sambalic family, within the larger Central Luzon language family. Their history includes village warfare, headhunting traditions, migration, timber trading, Christianization, and the displacement and assimilation associated with Spanish rule and later settlement by Tagalog and Ilocano migrants.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name no textile motifs.
+
+### Clothing & dress
+
+The sources describe bodily ornaments connected with headhunting and mourning. A warrior’s status was associated with the number of enemies killed, and collections of heads or skulls indicating this status were represented by ornaments worn on the body. When a person died by violent or natural means, immediate male relatives wore a strip of black cloth as a sign of mourning. They were forbidden from singing, dancing, or participating in festivities until they killed an enemy.
+
+### Architecture
+
+ They state that early Spanish descriptions portrayed the Zambales region as sparsely populated, with small numbers of Sambal villages separated by huge distances. Each village had about ten to thirty families and was often at war with other villages.
+
+### Ceramics, metalwork & everyday objects
+
+ They do identify weapons and shields associated with earlier Sambal warfare: short spears, a short blade or dagger, and large rectangular *kalasag* shields. European writers described the Sambal as excellent archers who used poison arrows. The Boxer Codex states that people killed in warfare were beheaded with a *bararao* dagger. During the colonial period, Sambals primarily sold valuable timber and shipped it to Manila by indigenous boats.
+
+### Jewelry & body adornment
+
+Sambal body adornment is documented chiefly in relation to warfare and mourning. Warriors wore ornaments representing collections of heads or skulls, which indicated the number of enemies they had killed and contributed to their status. Immediate male relatives wore a strip of black cloth after a death, whether violent or natural.
+
+## Music & performance
+
+ They do describe restrictions on performance during mourning: after a person’s death, immediate male relatives wearing a strip of black cloth were forbidden from singing, dancing, or participating in festivities until they had killed an enemy. The Sambal indigenous religion included ritual performance led by shamans. The highest-ranking shaman was called a *bayoc*. The *bayoc* consecrated other shamans and led rituals to spirits, while only the *bayoc* could lead rituals and offer sacrifices to Malayari or Malyari, described as the supreme being and creator deity of the Sambals. Other benevolent spirits were worshiped for various functions, mostly agricultural.
+
+## Dance & theatre
+
+ They mention dancing only as an activity prohibited to immediate male relatives during mourning until they killed an enemy.
+
+## Festivals & rituals
+
+The Sambal indigenous religion existed before Spanish colonization and included a hierarchy of shamans, spirit rituals, and sacrifice. The *bayoc* was the highest-ranking shaman, consecrated other shamans, and led rituals to spirits. Only the *bayoc* could lead rituals and offer sacrifices to Malayari or Malyari, the supreme being and creator deity of the Sambals. Other benevolent spirits were worshiped for functions that were mostly agricultural.
+
+The sources also mention a *manganito* ritual in the Boxer Codex, but explicitly state that the veracity of the surrounding claims is questionable. The same account says that only the first and second sons inherited their father’s property while others were enslaved or sacrificed in a *manganito* ritual. After the establishment of Fort Paynauen, also called Paynaven, in what is now Botolan, Spanish missionaries gradually Christianized the Sambals.
+
+## Foodways
+
+ The Boxer Codex mentions claims that Sambals ate carabao intestines raw, but the source describes the veracity of these customs as questionable. No further foodways are provided.
+
+## Oral tradition & literature
+
+ They do record a Philippine national proverb translated into Sambal:
+
+*Hay kay tanda mamanomtom ha pinangibatan, kay maka-lato ha ampako-taw-an.*
+
+The Tagalog version given alongside it is: “Ang hindi marunong lumingon sa pinanggalingan ay hindi makararating sa paroroonan.” The Sambal language article also includes examples of translated sentences, including “John saw Mary,” “My house,” and “The man arrived,”. Historical written references include the Boxer Codex and the dictionary *English-Tina Sambal-Pilipino dictionary*.
+
+## Language & religion
+
+Sambal languages belong to the Sambalic family, within the larger Central Luzon language family. Three Sambalic languages are spoken by the Sambal: Sambali, Bolinao, and Botolan. Based on 2007 population statistics from the National Statistical Coordination Board, the sources give approximately 200,000 Sambali speakers, 105,000 Bolinao speakers, and 72,000 Botolan speakers. Sambal is spoken primarily in Santa Cruz, Candelaria, Masinloc, Palauig, and Iba in Zambales; Infanta in Pangasinan; areas of Pampanga bordering Zambales; Panitian in Quezon, Palawan; and Mandaragat or Buncag in Puerto Princesa.
+
+Sambal speakers also speak Kapampangan, Tagalog, Ilocano, and Pangasinense. In Palawan, Sambals may also learn Cuyonon, Palawano, and Tagbanwa. Sambali has 19 phonemes: 16 consonants and three vowels. Stress is phonemic, and the language has five main diphthongs. Sambal’s indigenous religion included the *bayoc*, spirit rituals, sacrifice, and worship of Malayari or Malyari. Spanish missionaries later Christianized the population.
+
+## Sources & further reading
+
+- Sotera B. Elgincolin and Priscilla R. Elgincolin, with Hella Goschnick, *English-Tina Sambal-Pilipino dictionary*, Summer Institute of Linguistics, 1988.
+- Hella E. Goschnick, *The poetic conventions of Tina Sambal*, Linguistic Society of the Philippines, Special Monograph Issue 27, Manila, 1989.
+- *Sambal people*, Wikipedia: https://en.wikipedia.org/wiki/Sambal_people
+- *Sambal language*, Wikipedia: https://en.wikipedia.org/wiki/Sambal_language

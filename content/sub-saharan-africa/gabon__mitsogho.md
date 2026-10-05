@@ -1,0 +1,60 @@
+---
+title: "Mitsogho"
+subtitle: "Gabon"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Mitsogho, also called Mitsogho or Tsogo, are an ethno-cultural group from the highlands of Gabon. They live mainly in Ngounié Province, in southern-central Gabon to the north and east of Mouila, in a region associated with the Ngounié River, a tributary of the Ogooué River. The area is sometimes called “Mitsogho country” or Mitsogho. The group numbers approximately 13,000 to 15,000 people and speaks the Tsogo language. Mitsogho communities are mobile and relatively small, practicing slash-and-burn agriculture, hunting, and fishing. Their folk-cultural importance in the supplied sources is especially connected with Bwiti initiation, carved ritual objects, musical instruments, oral history, and iboga use.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name no textile motifs.
+
+### Architecture
+
+The principal named structure in the sources is the *ebanza*, a ritual hut used in Bwiti practice. Before a Bwiti ritual, people called movenga decorate the ebanza with carved objects representing the ancestral father, Nzambe-Kana, the ancestral mother, Disumba, and different parts of the human body.
+
+### Ceramics, metalwork & everyday objects
+
+ They state that Mitsogho people became known for iron and cloth manufacturing, and that the ebanza contains musical instruments, furnishings, and implements used in ritual.
+
+## Music & performance
+
+Music is part of the Bwiti ritual setting. The ebanza contains instruments, furnishings, and implements used for the ceremony. Among the instruments named in the sources are gongs and harps with human-head embellishments. The harps represent Disumba, the ancestral mother.
+
+The sources also connect performance with the organization of Mitsogho society. The people are organized into six distinct matrilineal organizations that assist with the initiation of new members. Men and women are separated within these initiation societies, and each undertakes different forms of training or ritual preparation. The societies are associated with different levels of knowledge and control how knowledge is shared and distributed among initiates. Bwiti is described as the most widely known and revered of these societies.
+
+The supplied material does not document secular music, dance music, wedding performance, funeral performance, court music, or a broader catalogue of Mitsogho instruments beyond the gongs and harps used in the ceremony.
+
+## Festivals & rituals
+
+The main ritual tradition described in the sources is Bwiti. Mitsogho initiation societies prepare new members for induction into society through separate forms of training and ritual. Men and women are separated in these organizations, and the societies regulate different levels of knowledge and its distribution among initiates. Bwiti is identified as the most widely known and revered of the six matrilineal organizations.
+
+Preparation for a Bwiti ritual takes place in the ebanza, a ritual hut decorated by movenga. Its carved objects represent Nzambe-Kana, the ancestral father, Disumba, the ancestral mother, and parts of the human body. Musical instruments, furnishings, and ritual implements are kept inside.
+
+Initiates may consume a sizeable dose of powder made by grinding the root bark of the iboga tree. The powder is said to evoke visions that bridge the physical world and the spiritual realm from which the iboga tree originated. In Mitsogho culture, the iboga tree is said to have created itself and to be the food of the gods; consuming it brings a person spiritually closer to ancestral spirits.
+
+## Foodways
+
+ They state only that members of the community practice slash-and-burn agriculture, hunting, and fishing, and that iboga is regarded in Mitsogho culture as the food of the gods and is consumed by initiates in Bwiti practice.
+
+## Oral tradition & literature
+
+Mitsogho history has been passed down orally for centuries. According to the supplied source, this oral transmission created connections with surrounding communities and with historians. The source reports a tradition that the Mitsogho migrated from the eastern side of the Congo to valleys connected to the Ogowe River during the Stone Age. It also describes language-based information as supporting a relationship with dialects spoken by the Myene people and a separation from a larger social group that led to a standard cultural way of life around 4000 BP to 3200 BP.
+
+## Language & religion
+
+The Mitsogho speak the Tsogo language. The supplied source mentions connections between Tsogo and dialects spoken by the Myene people.
+
+Bwiti is the central spiritual and ritual tradition described. It is organized through initiation societies and involves ritual huts, carved representations of Nzambe-Kana and Disumba, gongs, harps, and iboga. Iboga is associated with visions that connect the physical world and the spiritual realm, and with spiritual closeness to ancestral spirits. The sources also state that Mitsogho people came fully under French control after a military outpost and Roman Catholic mission were established in the region in 1899.
+
+## Sources & further reading
+
+- Wikipedia, “Mitsogo people”: https://en.wikipedia.org/wiki/Mitsogo_people
+- No UNESCO Intangible Cultural Heritage inscription for Gabon was supplied.
+- No Smithsonian Folkways or museum collection record was supplied.

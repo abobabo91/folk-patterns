@@ -1,0 +1,91 @@
+---
+title: "Scottish"
+subtitle: "United Kingdom"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+The Scottish, or Scots—*Scots fowk* in Scots and *Albannaich* in Scottish Gaelic—are an ethnic group and nation native to Scotland. Historically, they emerged from the Picts and Gaels, with Cumbrians of Strathclyde and Angles of Northumbria later becoming part of Scotland; Norse-Gaels of the Western Isles and Norse of the Northern Isles were also incorporated. Today, people of Scottish descent live in Scotland and throughout the United Kingdom, North and South America, Australia, New Zealand, and elsewhere. Scotland has 5,490,100 people, while around 40 million people worldwide claim Scottish ancestry. Scottish culture includes Scots, Scottish Gaelic, and Scottish English, distinctive legal and religious traditions, music, literature, art, foodways, folklore, and sports.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Tartan** — The sources identify Tartan Day celebrations and tartanry as features associated with Scottish culture, and describe David Wilkie’s painting of George IV in Highland dress as helping to establish an international fashion for the kilt.
+
+**Highland dress** — Highland dress is named in connection with the kilt and with Scottish visual representation.
+
+**Motif vocabulary.** The sources name cup and ring marks, carved spirals, Pictish images and patterns, Celtic revival, Art and Crafts, Art Nouveau, and Scottish landscapes; they do not present these as a systematic textile-motif vocabulary.
+
+### Clothing & dress
+
+The sources specifically name the kilt and Highland dress. David Wilkie’s painting of King George IV in Highland dress commemorated the royal visit to Scotland in 1823 and helped establish an international fashion for the kilt. The sources also mention tartanry in connection with popular images of Scottishness in music-hall and variety entertainment.
+
+### Architecture
+
+ They do name Scottish palaces, Stirling Castle, Holyrood, Pinkie House, Rosslyn Chapel, and the Wallace Monument, and mention elaborate church interiors, carved royal-palace stonework, painted ceilings and walls, and Scottish landscape traditions, but these references do not constitute a full architectural ethnography.
+
+### Ceramics, metalwork & everyday objects
+
+Scottish material culture in the sources is represented especially by carved stone, metalwork, jewellery, and musical instruments. Neolithic carved stone balls, also called petrospheres, are described as a uniquely Scottish phenomenon, with over 425 known examples. Pictish stones, Pictish silver, the Whitecleuch Chain, the silver plaques from Norrie’s Law, the Hunterston brooch, the Monymusk Reliquary, the St Ninian’s Isle Treasure, the Bute mazer, and the Savernake Horn are named objects or object groups. The sources also mention patterned Iron Age objects, gold work, seals, whalebone, and carved wood.
+
+### Jewelry & body adornment
+
+The sources name elaborate jewellery as part of Insular art, including penannular brooches using semi-precious stones, the Hunterston brooch, and the Whitecleuch Chain. They also mention the Monymusk Reliquary, Pictish silver, gold torcs, and Jacob Kroger’s work as a jeweller at the court of Anne of Denmark. The Stirling torcs, found in 2009, are described as four gold torcs in different styles dating from 300 BC and 100 BC.
+
+## Music & performance
+
+Scotland is internationally known for traditional music, including ballads, reels, jigs, and airs. The bagpipes are closely associated with this tradition; the sources identify them as an integral and iconic Scottish instrument and date their history in Scotland to the 15th century. Other named instruments include the tin whistle, accordion, fiddle, harp, lute, viols, organ, trumpets, drums, fifes, and tabors. The Great Highland Bagpipe and *pìob mhór* are specifically named.
+
+Bards traditionally acted as musicians, poets, storytellers, historians, genealogists, and lawyers, relying on oral tradition. The bagpipe tradition included battle tunes, marches, gatherings, salutes, and laments. Piping families named in the sources include the MacCrimmonds, MacArthurs, MacGregors, and Mackays of Gairloch. The fiddle was also used in the Highlands; Martin Martin recorded 18 players in Lewis in 1703.
+
+Scottish music has been performed and celebrated at the Royal Edinburgh Military Tattoo, the Edinburgh Fringe Festival, Celtic Connections, the Skye Live Festival, the Eden Festival, and other festivals. Ceilidhs and festivals helped sustain traditional music, while the Scots Trad Music Awards, Scottish Music Awards, Scottish Album of the Year Award, and Scottish Alternative Music Awards recognize musical activity. The sources also describe the revival of traditional music after World War II and the later international success of Runrig and Capercaillie.
+
+## Dance & theatre
+
+The sources mention Scottish dancing in connection with the Kirk’s attempts after the Reformation to suppress dancing and events such as penny weddings. They also identify ceilidhs, Caledonian Games, Highland Games, and dance-band circuits as contexts for Scottish social and musical performance. The Caledonian Games were organized in New Zealand from the 1860s and brought Scottish settlers and the wider public together through sports and cultural integration. They do mention the play *The Thrie Estaitis*, works of Scottish drama, and the Edinburgh Festival.
+
+## Festivals & rituals
+
+Halloween, on the night of 31 October, is described as a traditional and much celebrated Scottish holiday. Its name is identified as a Scottish shortening of All-Hallows-Eve. The sources connect it with the Gaelic festival of Samhain and with the belief that the boundary between this world and the otherworld became thin. Scottish customs include guising, in which children in costume go from door to door demanding food or coins; hollowing and carving turnips into lanterns; and parties with games such as apple bobbing. Robert Burns’s 1785 poem *Halloween* is recited by Scots at Halloween.
+
+Beltane and Samhain appear in Scottish mythology as seasonal points in a cycle associated with Brighid and Beira, the Queen of Winter. The sources also describe an offering to Seonaidh on Lewis: residents brewed ale from malt collected from each family, offered a cup of ale at sea, and later celebrated by drinking ale.
+
+The sources describe Highland Games and Caledonian Games as recurring public events.
+
+## Foodways
+
+Scottish cuisine uses vegetables, fruit, oats, fish and other seafood, dairy products, and game. The sources emphasize simplicity and describe oats as an important staple. Medieval meals could include a pottage of herbs and roots, seafood or stock, bread, eggs, cheese, and kelp. Oatmeal could be made into porridge or oatcakes using a girdle, or griddle.
+
+Named Scottish dishes include haggis, fish and chips, the Arbroath smokie, salmon, venison, cranachan, bannock, stovies, Scotch broth, tattie scone, and shortbread. Haggis is described as involving offal or low-quality meat carried in a sheep or pig’s stomach. The sources also name Scotch whisky, Scottish beer, Irn-Bru, Red Kola, Sugarelly, and breakfast tea. Irn-Bru is a bright orange carbonated soft drink; Red Kola is a bright red carbonated soft drink.
+
+French cuisine influenced Scottish cooking through cultural exchanges associated with the Auld Alliance. Terms introduced or associated with this history include *Ashet*, *Cannel*, *Collop*, *Gigot*, *Howtowdie*, and *Syboe*. Later immigration influenced Scots cooking, including the invention of haggis pakora. Fast food traditions include chippies, battered and fried haggis suppers, pizzas, kebabs, pakoras, munchy boxes, and other convenience foods.
+
+## Oral tradition & literature
+
+Scottish mythology includes nature myths, origin legends, heroic cycles, water spirits, fairies, and local legends. Beira, the Queen of Winter, is associated with storms, snow, rivers, lochs, and mountains. Kelpies are fabled water-spirits that can assume different shapes, commonly that of a horse. Selkies are said to live as seals in the sea and become human on land after shedding their skins. The Blue men of the Minch are described as storm kelpies associated with sailors and boats.
+
+The Ulster Cycle includes stories of Conchobar mac Nessa, Cúchulainn, and their companions and enemies. Scottish Gaelic adaptations appear in the Glenmasan manuscript. The Finn and Fianna stories are associated with Gaelic Ireland and Scotland and include *Tóraigheacht Dhiarmada agus Ghráinne* and *Oisin in Tír na nÓg*. The Acallam na Senórach is identified as an important source for the Fenian Cycle.
+
+Scottish literature includes Gaelic, Latin, Old English, French, Norse, Scots, and English works. Named authors and works include John Barbour’s *Brus*, James Macpherson’s *Ossian Cycle*, Robert Burns, Walter Scott’s *Waverley Novels*, and the Scottish Renaissance associated with Hugh MacDiarmid. The sources also describe later revivals involving Edwin Morgan, James Kelman, Irvine Welsh, and other writers.
+
+## Language & religion
+
+Scottish language traditions include Scots, Scottish Gaelic, and Scottish English. Scots is a Germanic language spoken in Lowland Scotland and Ulster, while Scottish Gaelic, or *Gàidhlig*, is a Celtic language native to the Scottish Highlands. Gaelic spread through much of Scotland by the 9th century and reached a peak in the 11th to 13th centuries. The sources also name Scottish Cant and the Gaelic-based *Beurla Reagaird*. Today, almost every adult throughout Scotland is fluent in English.
+
+Christianity has shaped religious life for more than 1,400 years. The Church of Scotland, also called the Kirk, is a Presbyterian national church. The sources describe the Protestant Reformation of the 16th century, the adoption of a confession of faith in 1560, and the establishment of a strongly Presbyterian system. Roman Catholicism, Episcopalianism, other Protestant denominations, Islam, Judaism, Sikhism, Hinduism, Buddhism, Bahá’í belief, Modern Paganism, and irreligion are also represented. In the 2022 census, “No religion” was the largest category, at 51.1%; Christianity accounted for 38.8%.
+
+## Sources & further reading
+
+- [Scottish people](https://en.wikipedia.org/wiki/Scottish_people)
+- [Scottish culture](https://en.wikipedia.org/wiki/Scottish_culture)
+- [Scottish art](https://en.wikipedia.org/wiki/Scottish_art)
+- [Scottish mythology](https://en.wikipedia.org/wiki/Scottish_mythology)
+- [Scottish language](https://en.wikipedia.org/wiki/Scottish_language)
+- [Scottish music](https://en.wikipedia.org/wiki/Scottish_music)
+- [Scottish cuisine](https://en.wikipedia.org/wiki/Scottish_cuisine)
+- [Scottish religion](https://en.wikipedia.org/wiki/Scottish_religion)
+- No UNESCO Intangible Cultural Heritage inscription was supplied for this country.
+- No museum catalogue records or relevant museum collection URLs were supplied.

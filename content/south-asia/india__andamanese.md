@@ -1,0 +1,72 @@
+---
+title: "Andamanese"
+subtitle: "India"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Andamanese are indigenous peoples of the Andaman Islands, part of India’s Andaman and Nicobar Islands in the Bay of Bengal. The principal groups are the Great Andamanese and Jarawas of the Great Andaman archipelago, the Onge of Little Andaman, and the Sentinelese of North Sentinel Island. Today, only roughly over 500 Andamanese remain; the Jangil are extinct. The Jarawa and Sentinelese maintain independence and refuse most outside contact. Andamanese languages comprise two unrelated families, Great Andamanese and Ongan, while Sentinelese and Jangil are unattested languages. The groups are important to folk-culture studies because their traditions include hunter-gatherer subsistence, distinctive clothing made from plant materials, oral religious traditions, medicinal knowledge, and languages preserved in prolonged isolation.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Hibiscus-fiber girdles** — Men wore girdles made of hibiscus fiber. These carried useful tools and weapons when the men went hunting.
+
+**Leaf clothing** — Women wore a tribal dress containing leaves held by a belt.
+
+**Leaf mats** — Andamanese people usually slept on leaves or mats.
+
+**Body painting** — A majority of Andamanese people had painted bodies.
+
+**Motif vocabulary.** The sources name no Andamanese textile motifs or pattern vocabulary.
+
+### Clothing & dress
+
+Men wore girdles made of hibiscus fiber, which carried useful tools and weapons for hunting. Women wore a tribal dress containing leaves held by a belt. A majority of the people had painted bodies.
+
+### Architecture
+
+The sources state that Andamanese people had permanent or temporary habitations and that all habitations were human-made.
+
+### Ceramics, metalwork & everyday objects
+
+The sources describe the bow, adzes, and wooden harpoons as the Andamanese people’s only weapons before contact. They also state that the Andamanese knew no method for making fire in the nineteenth century and preserved embers in hollowed-out trees from fires caused by lightning strikes.
+
+### Jewelry & body adornment
+
+The sources document body painting and women’s leaf clothing.
+
+## Music & performance
+
+ They record that the Andamanese languages are divided into Great Andamanese and Ongan, with Sentinelese and Jangil treated as unattested languages.
+
+## Dance & theatre
+
+ They mention religious beliefs, ancestor worship, mythology, and body painting.
+
+## Festivals & rituals
+
+The native Andamanese religion and belief system is described as a form of animism, with ancestor worship as an important element. Andamanese mythology held that humans emerged from split bamboo and that women were fashioned from clay. One version of the myth states that the first man died and went to heaven, but that this pleasurable world ended after a food taboo was broken by eating forbidden vegetables in Puluga’s garden. A Great Flood followed, leaving four survivors who lost their fire.
+
+## Foodways
+
+Until contact, the Andamanese were strict hunter-gatherers. They did not practice cultivation and lived by hunting indigenous pigs, fishing, and gathering. They state that Andamanese people knew no method for making fire in the nineteenth century and instead preserved embers in hollowed-out trees from fires caused by lightning strikes. The sources also mention that one religious myth concerned a food taboo involving forbidden vegetables in Puluga’s garden. The supplied material on Indian cuisine describes regional Indian foodways generally.
+
+## Oral tradition & literature
+
+The sources record Andamanese mythology concerning the origins of humans, the first man’s death, Puluga’s garden, a food taboo, and a Great Flood. They also preserve a quotation attributed to Marco Polo, who wrote about the Andamanese in 1294 in *The Travels of Marco Polo*. They state that the languages and traditions of the islands were preserved from outside influences for thousands of years and that contact was often sporadic and hostile.
+
+## Language & religion
+
+Andamanese languages are spoken by the indigenous peoples of the Andaman Islands. The attested languages belong to two genetically unrelated families: Great Andamanese and Ongan. Great Andamanese is a moribund language family, and the first language of most Great Andamanese people is now Hindi. Ongan consists of Jarawa and Onge. Sentinelese and Jangil are unattested languages; the Sentinelese language remains entirely unknown to outsiders because the Sentinelese refuse contact. Jangil was extinct by the 1920s. The Andamanese religious system is described as animistic, with ancestor worship as an important element. Some traditional knowledge practitioners were called *oko-pai-ad*, meaning “dreamer,” and were believed to influence members of the tribe and bring misfortune to those who rejected their abilities. Herbal medicine and medicinal plants formed part of traditional healthcare.
+
+## Sources & further reading
+
+- *Andamanese peoples*, Wikipedia: https://en.wikipedia.org/wiki/Andamanese_peoples
+- *Andamanese language*, Wikipedia: https://en.wikipedia.org/wiki/Andamanese_language
+- *Andamanese cuisine*, Wikipedia: https://en.wikipedia.org/wiki/Andamanese_cuisine
+- No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.
+- No museum catalogue records or collection URLs were supplied.

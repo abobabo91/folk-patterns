@@ -1,0 +1,67 @@
+---
+title: "Siberian Yupik"
+subtitle: "Russia"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+Siberian Yupiks, also known as Yuits, are a Yupik people living along the coast of the Chukchi Peninsula in the far northeast of the Russian Federation and on St. Lawrence Island in Alaska. They speak Central Siberian Yupik, also known as Yuit, a language of the Eskimo–Aleut family. Their self-designation is *Yupiget*, meaning “true people.” Central Siberian Yupik communities maintain their language as a symbol of cultural identity, and the language is documented in a 2008 St. Lawrence Island/Siberian Yupik Eskimo Dictionary. Their history includes long-distance trade across the Bering Strait, village relocation, maritime hunting, carving, tattooing, shamanism, and storytelling traditions.
+
+## Material culture
+
+### Clothing & dress
+
+The sources name gut parkas in connection with a St. Lawrence Island house interior and a photograph of Nita Tokoyu of Gambell sewing a gut parka.
+
+### Architecture
+
+The winter building of the Chaplino Eskimos, or Ungazighmiit, was a round, dome-shaped building called *yaranga* in the literature. In the language of Chaplino Eskimos, it was called */məŋtˈtəʁaq/*. A smaller cabin inside, at the back of the building, was called */aːɣra/* and was used for sleeping and living. It was separated from the outer, cooler parts of the yaranga by haired reindeer skins and grass supported by a cage-like framework. Household work and the storage of many utensils took place in the front room, which was also used by dogs during winter storms and at night; this room was called */naˈtək/*. Other Chaplino building types included */aːwχtaq/*, a modernized type, and */pəˈɬʲuk/*, used for summer.
+
+### Ceramics, metalwork & everyday objects
+
+ They describe mattocks made from whole walrus tusks for harvesting edible roots, with female walrus tusks often selected because they were smaller and more slender. Berries and leafy plants were gathered by hand and stored in processed skin bags, cleaned walrus stomachs, or sealskin floats. A *nakrutka* was a weighted stick with a crossbar used to collect kelp, while a *zakidushka* was a weighted line thrown from shore to retrieve plants.
+
+### Jewelry & body adornment
+
+Traditional tattooing was practiced among Siberian Yupik women and marked important life stages, cultural identity, and social roles within a community or clan. The practice declined during the late nineteenth and early twentieth centuries because of religious practices and has recently been returning as part of Indigenous cultural revitalization.
+
+## Music & performance
+
+ They state that moving sculptures made from walrus ivory and whale bone could animate scenes such as walrus hunting or traditional dances through complicated pulleys. In the whale-hunting tradition described by the sources, drum music and good foods formed part of the entertainment provided to a killed whale, which was treated as a guest.
+
+## Dance & theatre
+
+The sources mention traditional dances as scenes represented by moving sculptures made from walrus ivory and whale bone.
+
+## Festivals & rituals
+
+ They describe several ritual and life-cycle practices. Traditional tattooing marked important life stages, cultural identity, and social roles among women. Name-giving involved the belief that a deceased person was reborn in a newborn baby. Dreams, events, and the infant’s physical traits were examined to identify the returning person, and additional names could be given during illness.
+
+Whale hunting involved an extended ritual relationship. Only those selected by the spirit of the sea were thought able to kill a whale. The killed whale was treated as a guest, entertained with drum music and good foods, and not left alone. During the next whale migration, in spring to the north and in autumn back, the whale was sent off to sea in a farewell ritual. If it had been pleased during its stay, future whale hunts were expected to succeed.
+
+## Foodways
+
+ They describe the gathering of at least twenty-nine species of edible plants in northeastern Chukotka. Roots were harvested with walrus-tusk mattocks, berries and leafy plants were gathered by hand, and seaweed was collected with specialized tools. In autumn, harvesters could use “trampling” to locate winter root supplies stored in underground burrows of voles or mice.
+
+The sources also describe foods offered to a killed whale during its treatment as a guest, referring to “good foods” without naming particular dishes or ingredients.
+
+## Oral tradition & literature
+
+The sources mention tales involving revered animals and describe a motif in which a spider saves a girl from danger with its cobweb and lifts her toward the sky. They also state that similar spider figures occur in tales of Sireniki Eskimos. In Siberian Yupik beliefs and tales, the wolf and orca are identical: an orca can become a wolf and a wolf can become an orca. In winter they appear as a wolf and in summer as an orca. They identify a 2008 St. Lawrence Island/Siberian Yupik Eskimo Dictionary as an educational resource for younger generations and as a record of traditional spiritual terms, technology vocabulary, and healthcare vocabulary.
+
+## Language & religion
+
+Central Siberian Yupik, also known as Akuzipik, Yupigestun, and St. Lawrence Island Yupik, belongs to the Eskimo–Aleut language family. It has two dialects: Chaplino Yupik, or Uŋazigmit, and St. Lawrence Island Yupik, or Sivuqaghmiistun. The language is described as endangered. In the United States, the Alaska Native Language Center identified about 400–750 Yupigestun speakers; in Russia in 2021, 172 people indicated that they spoke the language, while 92 used it in everyday life.
+
+Siberian Yupik religious practices included shamanism, amulets, beliefs concerning animal beings, and name-giving connected with rebirth. Shamans maintained relationships with sea animals, and Ungazighmiit shamans called */aˈliɣnalʁi/* received presents for shamanizing and healing. Such payment could be called */aˈkiliːɕaq/*. Religious practices began changing during the early Soviet period, especially during the 1920s and 1930s.
+
+## Sources & further reading
+
+- Igor Krupnik and Nikolay Vakhtin, “Indigenous Knowledge in Modern Culture: Siberian Yupik Ecological Legacy in Transition,” *Arctic Anthropology*, 1997.
+- Waldemar Bogoraz, *The Eskimo of Siberia*, Memoirs of the American Museum of Natural History, 1913.
+- Nikolai Vakhtin, *Endangered Languages in Northeast Siberia: Siberian Yupik and other Languages of Chukotka*.
+- Igor Krupnik and Mikhail Chlenov, “The end of ‘Eskimo land’: Yupik relocation in Chukotka, 1958–1959,” *Études/Inuit/Studies*, 2007.
+- [Siberian Yupik](https://en.wikipedia.org/wiki/Siberian_Yupik)
+- [Siberian Yupik language](https://en.wikipedia.org/wiki/Siberian_Yupik_language)

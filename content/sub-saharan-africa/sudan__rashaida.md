@@ -1,0 +1,82 @@
+---
+title: "Rashaida"
+subtitle: "Sudan"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Rashaida, also known as Bani Rasheed, are a Bedouin ethnic group living along the coastal plain of the Red Sea between Port Sudan and Massawa, and in eastern Sudan around Kassala. They are descendants of Arabic-speaking Bedouins from the Hejaz and Najd who crossed the Red Sea and settled in the Suakin and Massawa governorates. The Rashaida remain mostly nomadic and practice Sunni Islam. Their livelihoods centre on camel breeding, pastoral migration, camel milk, agriculture, camel meat and camel racing. In Sudan, many have become more settled in the Lower Atbara area, where they live in tents, huts or adobe houses. Their clothing, veils, jewellery, weddings, hospitality practices and seasonal pastoral movements are the principal cultural subjects covered by the sources.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Women’s black-and-red dresses** — Rashaida women are especially associated with elaborate long skirts and brightly coloured clothing, particularly black-and-red geometrically patterned dresses. The garments continue Arabian influences through bold appliqué patterns.
+
+**Red ankle-length skirts** — When the Rashaida first migrated to Eritrea, women were described as wearing traditional red ankle-length skirts decorated with bright yellow and green patterns.
+
+**Embroidered veils** — Women’s veils cover the whole face apart from the eyes and are finely embroidered with metallic silver thread, beads and sometimes seed pearls.
+
+**Wedding burqa** — On the seventh day of the wedding festivities, the bride wears a specific *burqa*, given by her mother and decorated with metallic thread and pendants gifted by her husband. She continues to wear it for a year after the wedding.
+
+**Mangheb** — During the first six days of the wedding, the bride wears the *mangheb*, described as the young girl’s veil.
+
+**Embroidered waistcoat** — During wedding festivities, men wear a cotton tunic with an embroidered waistcoat and a turban.
+
+### Clothing & dress
+
+The most important part of women’s dress is the veil, which they begin wearing around the age of five. The veil covers the face except for the eyes, although part of the hair may remain uncovered. Women’s veils are embroidered with metallic silver thread, beads and sometimes seed pearls. Women also wear silver jewellery, long skirts and brightly coloured clothing, particularly black-and-red geometrically patterned dresses. The sources describe earlier red ankle-length skirts decorated with bright yellow and green patterns.
+
+Men traditionally wear a *thawb* and a white turban, although colourful turbans are also worn. During weddings, men wear a cotton tunic, embroidered waistcoat and turban. The groom’s ceremonial sword is an important wedding object; he uses it during festive dances and receives it from his parents. The bride’s wedding dress includes the *mangheb* during the first six days and the decorated *burqa* on the seventh day.
+
+### Architecture
+
+Rashaida tents used for residence and hospitality are mostly made from goatskin or animal hair from camel herds, although sheep or goat hair can also be used. Hospitality tents are designated spaces for significant ritual events such as childbirth and marriage. In Sudan, especially in the Lower Atbara area, Rashaida people live in tents, newly constructed huts or adobe houses.
+
+### Ceramics, metalwork & everyday objects
+
+ They do mention the groom’s ceremonial sword, used during wedding dances and gifted by his parents, as well as knives used in hospitality: when an animal is killed for a meal, the knife is presented to the guests.
+
+### Jewelry & body adornment
+
+Rashaida women are described as typically wearing silver jewellery that they craft themselves and often sell at local markets. The sources also describe metallic silver thread, beads and sometimes seed pearls in women’s veils. The bride’s wedding *burqa* is decorated with metallic thread and pendants gifted by her husband.
+
+## Music & performance
+
+Music and performance are most clearly documented in the Rashaida wedding. The traditional wedding lasts seven days and includes drumming, dancing and camel racing. The first six days are conducted with strict restrictions on the bride’s visibility: during daylight she may see only her mother, sisters and her father’s other wives. On the seventh day, she joins her husband in daylight for the festivities and begins public life as his wife.
+
+The groom’s ceremonial sword is used during festive dances and forms an important part of the wedding display. The sources also describe drumming and dancing as wedding festivities.
+
+Rashaida hospitality also follows a formal sequence. Guests are greeted and served water, tea and coffee in that order. An animal is then killed for the meal, its knife is presented to the guests, broth and meat are served, cooked grain follows, and words of gratitude are given before the guests depart.
+
+## Dance & theatre
+
+The sources name dancing as part of the seven-day traditional Rashaida wedding and describe the groom’s ceremonial sword as an object used during festive dances.
+
+## Festivals & rituals
+
+ They do describe a seven-day wedding as a major life-cycle ritual. During the first six days, the bride is concealed and cannot see anyone during daylight except her mother, sisters and her father’s other wives. She wears the *mangheb*, the young girl’s veil. On the seventh day, she joins her husband in daylight for the festivities and begins public life as his wife.
+
+The bride wears a specific *burqa* on the seventh day. It is given to her by her mother and decorated with metallic thread and pendants gifted by her husband. She continues wearing this wedding burqa for a year. She may uncover herself outside the presence of her family on the seventh night, after she is married to her husband; this is when he sees her uncovered for the first time.
+
+Childbirth and marriage are identified as significant ritual events for which designated hospitality tents are used.
+
+## Foodways
+
+Camel milk is extremely important to the Rashaida and is described as a fundamental source of vitamins and proteins. Camel breeding is a primary source of work, and camels are also produced for meat to sell to Egyptians and for racing to sell to the Gulf states. In Sudan, arid conditions contributed to the raising of camels rather than cattle.
+
+Hospitality meals follow an established order. Guests are first served water, then tea and then coffee. An animal is killed for the meal, and the knife is presented to the guests. A broth is cooked from the animal and served, followed by the meat itself and then cooked grain. Words of gratitude are given before the guests depart.
+
+Pastoral life follows seasonal movements. From mid-July, Rashaida move with their camel herds to follow rain showers. From the beginning of August to the end of September, movement decreases while camels graze near campsites and attention turns to livestock and agriculture. During *Ad Darat*, the search for pasture becomes more important, milk supplies decline and grain crops must be harvested. In the dry season, migration stops and camps are established near reliable water sources.
+
+## Language & religion
+
+The Rashaida are described as descendants of Arabic-speaking Bedouins from the Hejaz and Najd, and they practice Sunni Islam. Women explain their observance of the veil in terms of beauty rather than Islamic religion.
+
+## Sources & further reading
+
+- [“Rashaida people,” Wikipedia](https://en.wikipedia.org/wiki/Rashaida_people)
+- The supplied UNESCO Intangible Cultural Heritage sources list no inscriptions for Sudan concerning the Rashaida.
+- The supplied museum catalogue records contain no objects for the Rashaida.

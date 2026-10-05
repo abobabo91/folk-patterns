@@ -1,0 +1,92 @@
+---
+title: "Amuzgo"
+subtitle: "Mexico"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Amuzgos are an Indigenous people of Mexico whose territory lies mainly along the Guerrero/Oaxaca border, particularly around Xochistlahuaca, Tlacoachistlahuaca and Ometepec in Guerrero, and San Pedro Amuzgos in Oaxaca. Their region occupies approximately 3,000 square kilometers in the Yacuyagua mountains, near the coast, at elevations between 500 and 900 meters above sea level. The Ometepec, Arena, Pulla, San Pedro and Santa Catarina rivers cross the area and empty into the Pacific. The population may be as high as 50,000, while 43,761 Amuzgo speakers were recorded in 2005. Amuzgo belongs to the Oto-Manguean family and Mixtec subfamily. Amuzgo textiles, backstrap-loom weaving and two-dimensional graphic designs are particularly important elements of the group’s material culture.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Backstrap-loom weaving** — Amuzgo women weave cotton textiles on backstrap looms. The distinguishing feature is the incorporation of intricate two-dimensional designs into the cloth, especially textiles made for women’s tunics. These designs are described as a “graphic language” used to express thought or aid memory.
+
+**Huipil weaving** — The *huipil*, called *chuey* in Amuzgo, is a long tunic garment for women. It may contain woven and sometimes embroidered designs, and the most complicated patterns are generally known only to the oldest weavers.
+
+**Coyuche cotton textiles** — *Coyuche*, also called “coyote” because of its brown color, is the most traditional cotton used in Amuzgo weaving. The Amuzgo region is identified as the only place in the world using this cotton, although white cotton has replaced it in many works.
+
+**Xochistlahuaca textile production** — Xochistlahuaca is particularly associated with traditional Amuzgo weaving and with the preservation of old and complicated designs. The community has worked with the Universidad Autónoma Metropolitana on research, cultural diffusion and networking connected with these textiles.
+
+**Liaa' Ljaa' weaving organization** — *Liaa' Ljaa'* is an Amuzgo organization consisting of 59 weavers from Xochistlahuaca. The organization is headed by Juana Santa Ana Guerrero.
+
+**Spinning and apprenticeship** — Girls begin learning textile work at about six or seven years old, initially preparing cotton for spinning. By the time they are eleven or twelve, many know the basics of weaving on the backstrap loom and continue with stitching and embroidery; those with talent may apprentice to a master outside the home.
+
+**Textile production for sale** — Many woven works are produced for sale, and weaving has become economically important as farming income has become insufficient for subsistence.
+
+**Motif vocabulary.** The sources describe woven “two-dimensional designs” and a “graphic language,”.
+
+### Clothing & dress
+
+Amuzgo clothing is not described in detail for both genders, but the sources identify women’s *huipils*, called *chuey* in Amuzgo, as an important textile garment. These long tunics may contain woven and embroidered two-dimensional designs. Amuzgos maintain much of their traditional dress, and the most elaborate designs are especially associated with weavers in Xochistlahuaca.
+
+### Architecture
+
+Amuzgo houses vary according to location and family income. In towns such as San Pedro Amuzgos, houses are increasingly built with cement and other non-traditional materials, although adobe remains common and thatched roofs continue to be used. Most houses have one or two rooms and a patio, where much weaving takes place because of the hot climate. Farm and ranch houses are more traditional, often circular and made of grass matted with mud, with thatched roofs. Sleeping areas contain beds or *petates*, while kitchens have a fireplace, table, chairs and storage for dishes and cooking utensils. Houses may also contain an altar with Catholic images, a backyard for domestic animals and ornamental plants, and candles for lighting where electricity is unavailable.
+
+### Ceramics, metalwork & everyday objects
+
+Amuzgo craft production includes pottery such as pots, *comals* and jars, as well as hammocks, *ixtle* bags and baskets. In Xochistlahuaca, machetes are made with etchings connected to the culture of the region. Other household and agricultural objects include *petates*, cooking utensils, tables, chairs and fireplaces.
+
+## Music & performance
+
+Music appears in Amuzgo weddings and in the performance of religious and community events. Weddings are described as elaborate events involving food, alcohol and music. Traditional dances developed during the period of evangelization and colonization, and music also forms part of Catholic festivals and processions dedicated to patron saints, Carnival, Holy Week and All Saints’ Day.
+
+Amuzgo-language broadcasting includes programming from the CDI radio station XEJAM, based in Santiago Jamiltepec, Oaxaca, and from the community radio station Radio Ñomndaa in Xochistlahuaca-Suljaa'. Cultural programs are broadcast in Amuzgo and Spanish from Putla de Guerrero, Tlaxiaco and some locations in the city of Oaxaca.
+
+## Dance & theatre
+
+The sources name a group of traditional dances associated with evangelization and colonialization: **El Diablo**, **Los Chareos**, **Los Tlamaques**, **Los Apaches**, **Danza del Tigre**, **El Toro**, **La Tortuga**, **Los Gachupines**, **Los Moros**, **La Conquista**, **Los Doce Pares de Francis** and **Los Tecuanes**.
+
+## Festivals & rituals
+
+Catholic festivals and processions remain important in Amuzgo communities. The sources mention celebrations dedicated to patron saints, Carnival, Holy Week and All Saints’ Day. Indigenous beliefs and practices continue within many Catholic festivals and other rites.
+
+The feast of Saint Mark takes place on 25 April and marks the beginning of the rainy season. It is also known as the “petition for thunder,” because the rains are expected to benefit the crops. On this date, chickens are sacrificed over a set of rocks said to represent thunder and lightning. The feast of the Archangel Michael on 29 September marks the end of the rainy season and the harvest.
+
+Water is prominent in Amuzgo folklore and non-Catholic rites because it is essential for survival in the mountains. There is also belief in spirits associated with the mountains, earth, corn, animals and other elements of nature. Health is understood as largely spiritual, and illness is often attributed to disharmonious actions. Traditional healers are consulted, while illnesses considered spiritual are treated by *tzan tí*, described as wise men, or *tzan kalwa*, described as shamans or witches.
+
+Weddings may be arranged between families in the most traditional communities. The proposing family sets the date, and the groom is expected to provide corn, beans, chili peppers, firewood, chocolate and money for the bride’s *huipil*. If the bride is a virgin, the consummation is celebrated with fireworks.
+
+## Foodways
+
+Amuzgo cuisine is based heavily on corn and locally grown products including cacao and *piloncillo*. Cacao is commonly consumed as hot chocolate during special occasions. Corn is prepared as tamales with different fillings and flavors, including sweet corn, chicken and freshwater shrimp.
+
+A traditional dish called *cabeza de viejo*, or “old man’s head,” consists of meat with herbs that is steamed. Other foods include barbacoa made from beef or goat. Amuzgos prepare a tortilla sweetened with *piloncillo* called *ticasos*, as well as candies made from a type of yam and from squash.
+
+Important crops include corn, beans, sesame seed, hibiscus, squash, chili peppers, tomatoes, cotton and cacao. Other products include oranges, mamey, sugar cane and jicama. Some communities raise cattle, goats, pigs and domestic fowl, while cheese and *piloncillo* are sold to surrounding municipalities.
+
+## Oral tradition & literature
+
+The sources state that Amuzgo folklore tells of an origin on islands in the Pacific. Water also occupies an important place in folklore and in non-Catholic rites.
+
+Amuzgo textile designs are described as a “graphic language” that expresses thought or aids memory. The community of Xochistlahuaca has worked with the Universidad Autónoma Metropolitana to preserve especially old and complicated designs. The Museo Comunitario Amuzgo, established in 1990 in Xochistlahuaca, has one hall devoted to archaeological pieces and another to regional handcrafts. The sources also mention efforts involving research, cultural diffusion and networking to preserve and promote Amuzgo culture.
+
+## Language & religion
+
+Amuzgo is an Oto-Manguean language in the Mixtec subfamily. It is related to Triqui, Cuicatec, Chocho-popoloca, Mazatec, Ixcatec and Mixtec. Four officially recognized varieties are Northern Amuzgo, Southern Amuzgo, Upper Eastern Amuzgo and Lower Eastern Amuzgo. The western varieties are Northern and Southern Amuzgo, while the eastern varieties are Upper Eastern and Lower Eastern Amuzgo. The varieties are similar, although recorded text testing in the 1970s found a significant difference between the western and eastern groups.
+
+Amuzgo is tonal, with three basic tones: high, mid and low, as well as combinations of tones. Most Amuzgos are Catholic, with a significant Protestant population. Protestant activity began in the 1940s with missionaries from the Instituto Lingüístico de Verano. Catholic practice incorporates Indigenous beliefs concerning water, natural forces and spirits. Traditional authorities include a Council of Elders, *topils* with police functions, and officials connected with religious responsibilities and collective work called *tequios*.
+
+## Sources & further reading
+
+- Amy Bauernschmidt, “Amuzgo syllable dynamics,” *Language*, 1965.
+- Cloyd Stewart and Ruth D. Stewart, editors, *Diccionario Amuzgo de San Pedro Amuzgos Oaxaca*, Instituto Lingüístico de Verano, 2000.
+- Fermín Tapia García, *Diccionario amuzgo-español: El amuzgo de San Pedro Amuzgos, Oaxaca*, Plaza y Valdés Editores, 1999.
+- Thomas C. Smith and Fermin Tapia, “Amuzgo como lengua activa,” in *Del Cora al Maya Yucateco: estudios lingüisticos sobre algunas lenguas indigenas mexicanas*, UNAM, 2002.
+- Wikipedia, [Amuzgos](https://en.wikipedia.org/wiki/Amuzgos).
+- Wikipedia, [Amuzgo language](https://en.wikipedia.org/wiki/Amuzgo_language).
+- No UNESCO Intangible Cultural Heritage inscription is identified in the supplied sources.

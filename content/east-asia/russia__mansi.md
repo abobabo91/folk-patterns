@@ -1,0 +1,68 @@
+---
+title: "Mansi"
+subtitle: "Russia"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Mansi are an Ob-Ugric indigenous people living in Khanty–Mansia, an autonomous okrug within Tyumen Oblast in Russia. Their historical territories included areas west of the Urals and Western Siberia, while Mansi settlements have also been documented along the Ob River and its tributaries. According to the 2021 census, there were 12,228 Mansi in Russia. The Mansi language belongs to the Ugric branch of the Uralic language family and is closely related to Khanty and Hungarian. Mansi culture includes semi-nomadic hunting and fishing, reindeer raising, bear ceremonies, biographical fate songs, mythical and heroic narratives, and ornamented leather and birch bark objects.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Leather and birch bark mosaics** — Ob-Ugric material culture includes ornamenting leather clothing and birch bark objects with mosaics.
+
+**Motif vocabulary.** The sources name mosaics.
+
+### Clothing & dress
+
+The sources state that Mansi material culture included leather clothing ornamented with mosaics.
+
+### Architecture
+
+During the winter, the Mansi lived in stationary huts made from earth and branches at permanent villages. In spring they moved toward hunting and fishing grounds and constructed temporary rectangular shelters from birch bark and poles.
+
+### Ceramics, metalwork & everyday objects
+
+The sources mention birch bark objects ornamented with mosaics, as well as hunting weapons including longbows, arrows, and spears. Mansi weapons also included iron helmets and chain mail.
+
+## Music & performance
+
+Mansi folk culture includes songs connected with the bear celebration held after a bear hunt. The celebration lasts for several days and involves songs, dances, and plays. Mansi folklore also includes fate songs, described as biographical poems, together with mythical and heroic stories.
+
+## Dance & theatre
+
+The bear celebration includes dances and plays and is held in connection with the bear hunt.
+
+## Festivals & rituals
+
+A notable element of traditional Mansi religion is the bear cult. A bear celebration is held in connection with the bear hunt and lasts for several days, incorporating songs, dances, and plays. The source compares this practice with the Finnish *peijaiset*. No annual festival calendar, fixed festival dates, seasonal observances, or detailed life-cycle rites are described in the sources.
+
+The sources also record attempts to Christianize the Mansi during the period when Kondia was a powerful principality. The first Mansi book was a translation of the Gospel of Matthew into Konda Mansi, published in London in 1868.
+
+## Foodways
+
+The Mansi were semi-nomadic hunters and fishermen. Some also raised reindeer, while a few engaged in agriculture by cultivating barley and raised cattle and horses. These activities indicate the economic basis of food provision described in the sources, but no dishes, recipes, preservation methods, cooking vessels, ceremonial foods, beverages, or dietary rules are named.
+
+## Oral tradition & literature
+
+Mansi folklore includes mythical and heroic stories and fate songs, which are biographical poems. A collection titled *Мифы, сказки, предания манси (вогулов)* is listed in the further-reading material of the Mansi article; its title identifies myths, fairy tales, and legends from the Mansi or Vogul. The sources also state that hunters used rudiments of picture writing before the development of a literary standard, allowing them to describe the size of prey and the circumstances of the hunt.
+
+A literary standard based on Northern Mansi was first designed and promoted among the Mansi themselves in the 1930s.
+
+## Language & religion
+
+The Mansi languages, also known as the Vogul languages, are spoken in Siberia along the Ob River and its tributaries, in the Khanty–Mansi Autonomous Okrug, and in Sverdlovsk Oblast. They form a branch of the Ugric languages within the Uralic family. Mansi is divided into Northern, Eastern, Western, and Southern varieties. Eastern Mansi became extinct in 2018 when its last speaker, Maksim Šivtorov, died; Western Mansi was considered certainly extinct by the end of the 20th century, and Southern Mansi has also become extinct. In the 2020–2021 census, 2229 people claimed to speak Mansi natively, and all current speakers used Northern Mansi.
+
+The oldest records of individual Mansi words in Russian documents date from the 16th–17th centuries. Written materials used Cyrillic and Latin alphabets. The first grammar of Western Mansi was published in 1864, and a literary standard based on Northern Mansi was developed in the 1930s. Traditional religion includes the bear cult. The sources also describe Christianization efforts and the publication of Mansi translations of the Gospel of Matthew.
+
+## Sources & further reading
+
+- *Мифы, сказки, предания манси (вогулов): в записях 1889, 1952, 1958-1960, 1968, 1978, 1992, 2002 годов*. Ин-т филологии СО РАН и др.; Москва; Новосибирск: Наука, 2005.
+- Grinevich, Anna. “Using Phylogenetic Analysis for Tale Type Identification (Ob Ugric Narratives).” *Cultural and Historical Heritage: Preservation, Presentation, Digitalization*, 10 (2), 2024.
+- Virtanen, Susanna; Csilla Horváth; Jorma Luutonen. “Mansi.” In *The Uralic Languages*. Routledge Language Family Series, 2nd ed., Taylor & Francis, 2023.
+- [Mansi people](https://en.wikipedia.org/wiki/Mansi_people)
+- [Mansi language](https://en.wikipedia.org/wiki/Mansi_language)

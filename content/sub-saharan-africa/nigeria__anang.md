@@ -1,0 +1,75 @@
+---
+title: "Anang"
+subtitle: "Nigeria"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Anaang, also spelled Annang and Ànnang and also known as Oku Ibom, are an ethnic group in Southern Nigeria. Their homeland is primarily within Abak, Essien Udim, Etim Ekpo, Ika, Ikot Ekpene, Obot Akara, Oruk Anam, and Ukanafun Local Government Areas of Akwa Ibom State. They are the second largest ethnic group after the Ibibios in Akwa Ibom State. The Anaang are related to the Ibibio and Efik communities and speak the Annang language, which is mutually intelligible with Ibibio, Efik, Oron, and Eket. Their cultural life is organized through lineages, compounds, extended families, villages, clans, men’s and women’s associations, ancestral masquerades, oral tradition, and foodways including Afang Soup, Alitan Soup, and Ekpang Nkwukwor.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name no textile motifs.
+
+### Clothing & dress
+
+ They do describe the fattening room, traditionally used for virgin adolescent girls before marriage. A girl in the fattening room was called a *mbobo*. She spent her time in the room naked so that her fattening could be observed and slept on a bamboo bed thought to fatten her. The practice was connected with preparation for marriage, instruction on how to be a wife, and the possibility of conceiving easily. Fattening rooms were also used at times for infertile wives and as a prerequisite for entrance into secret societies.
+
+### Architecture
+
+Anaang social organization is reflected in named domestic and settlement units. Brothers and sisters from the same *Ilip*, literally “womb,” trace their origin to the same mother or father. People who trace their ancestry to the same parents form a *Ufok*, literally a house or compound. Several ufoks form *Ekpuks*, or extended families; several Ekpuks form an *Ilung*, meaning village; and several villages form the *abie*, or clan. They state that the political capital of the Anaang people is Ikot Ekpene Local Government Area.
+
+### Ceramics, metalwork & everyday objects
+
+ They mention bamboo beds in the fattening room and describe masks carved by the Anaang, but give no further account of woodworking techniques, tools, materials, or object forms.
+
+### Jewelry & body adornment
+
+ They state that Anaang women served as female chief priestesses called *Abia Iyong* in the Iyong society and as healers in the healing society.
+
+## Music & performance
+
+ They do describe speech and oral performance as highly valued. Anaangs value the ability to speak well, and the use of proverbs in oratory is especially desirable among leaders. An individual with the gift of eloquent speech may be complimented as *Akwo Anaang*, meaning the “Man of Anaang.” The sources also state that the name “Anaang” has been explained within the group as meaning “they who speak well.”
+
+Masquerade is an important performance form. The Anaang perform a masquerade after the yam harvest to mark the visit of ancestral spirits, or *ekpo*. The word *ekpo* also names a men’s association that once had great influence among Ibibio groups. Anaang masks with grotesque features are called *iliok*. These masks are considered dangerous and may only be viewed by members of the ekpo. Other masks embody the beautiful spirit, or *mfon*.
+
+## Dance & theatre
+
+ They document masquerade performance after the yam harvest, when ancestral spirits, or *ekpo*, are visited. The sources distinguish *iliok* masks, which have grotesque features and are considered dangerous, from masks embodying the beautiful spirit, or *mfon*.
+
+## Festivals & rituals
+
+ They describe the masquerade performed after the yam harvest as a ritual marking the visit of ancestral spirits, or *ekpo*. They also document several life-cycle and social practices. The fattening room was traditionally used for virgin adolescent girls in preparation for marriage. The girl, known as a *mbobo*, was instructed on how to be a wife, and the occasion formed part of a major village celebration. The practice was also used at times for infertile wives and as a prerequisite for entrance into secret societies.
+
+Anaang traditional religious practice included *Idiong*, which was banned under British colonial rule; its priests were arrested, and articles and worship materials were publicly burnt. Those who did not convert to Christianity automatically became suspects. Anaang women’s organizations, including *abi-de*, *Nyaama*, and *Isong Iban*, gave women voice and status in society.
+
+## Foodways
+
+The sources name several Anaang delicacies: *Afang Soup*, *Alitan Soup*, *Okro Soup*, also called *Afere nkolo*, *Abak Atama*, *White Soup*, also called *Affia Efere*, *Asa Iwa*, and *Ekpang Nkwukwor*. They state that the Annang people have different delicacies that can be enjoyed during vacation.
+
+Yam is important in the ritual calendar because the Anaang perform a masquerade after the yam harvest.
+
+## Oral tradition & literature
+
+Anaang oral tradition recounts the arrival of the Abiakpo from Eka Abiakpo to the northern range of Anaang. They were followed by the Ukana clan, the Utu, Ekpu, Ebom, and Nyama, whom the British grouped together under the name Otoro, as well as other Anaang clans. Oral history also connects the Anaang and other people of Akwa Ibom and Cross River states with long residence in coastal Southeastern Nigeria.
+
+The sources state that the Anaang are believed to have originated from Egypt, lived among the Akan of Ghana, and later moved eastward into present-day Cameroon before reaching coastal Southeastern Nigeria. In Ghana, the name Anaang is said to mean “fourth son.” Lineages were recognized and groups organized into clans based on old family origins known as *Iman*. They emphasize proverbs and eloquent speech, especially in leadership, and state that an Annang orthography has been produced to make written materials possible.
+
+## Language & religion
+
+The Anaang speak the Annang language. It is mutually intelligible with Ibibio, Efik, Oron, and Eket, also known as Ekid, of the Akwa Akpa, or Old Calabar Kingdom. The Anaang speech pattern was not written down historically, but linguists produced an orthography that made it possible to create written materials in the language.
+
+Anaang traditional religion included *Idiong*, whose priests were arrested during British colonial rule and whose worship materials were publicly burnt. The Anaang also performed masquerades connected with ancestral spirits, or *ekpo*. The sources state that many people converted to Christianity under colonial pressure.
+
+## Sources & further reading
+
+- Brink, P. J. “The Fattening Room among the Annang of Nigeria.” *Medical Anthropology* 12 (1), 1989, p. 131–143.
+- Ekanem, J. B. *Clashing Cultures: Annang Not(with)standing Christianity: An Ethnography*. Peter Lang Publishing, 2002.
+- Udo, E. U. *The History of the Annang People*. Apcon Press Ltd., 1983.
+- Udondata, J. & Idem-Agozino, U. *Annang Orthography*. Scholars Press, 2001.
+- Ekanem, J. B., *Clashing Cultures: Annang Not(with)standing Christianity: An Ethnography*; Enang, K., “Some Key Religious concepts of the Annang”; Brink, P. J., “The Fattening Room among the Annang of Nigeria.”
+- [Anaang people](https://en.wikipedia.org/wiki/Anaang_people)

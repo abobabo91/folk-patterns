@@ -1,0 +1,35 @@
+---
+title: "Kpelle"
+subtitle: "Liberia"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Kpelle are the largest ethnic group in Liberia. They live primarily in central Liberia and extend into Guinea; they are also located in Mali and southern Guinea, where they are known as Guerze, and in north western Ivory Coast. In Liberia, most Kpelle inhabit Bong County, Bomi County, Gbarpolu County, and Lofa County. They speak Kpelle, a language of the Mande family. The Kpelle language is also spoken in Liberia, Guinea, and Ivory Coast. The Kpelle are associated with rice farming, household-based agricultural work, paramount chiefs, town chiefs, mediation, and the preservation of traditional and cultural heritage. They are also referred to as Gberese, Gbese, Gbeze, Gerse, Gerze, Kpelli, Kpese, Kpwele, Ngere, and Nguere.
+
+## Music & performance
+
+The sources identify DenG and Knero Lapaé as Liberian singers.
+
+## Festivals & rituals
+
+ They state that Kpelle are Christian or animist, and that they have maintained traditional and cultural heritage despite migration. The sources also record three days of ethno-religious fighting in Nzerekore in July 2013 between ethnic Kpelle and ethnic Konianke; this is an historical event rather than a Kpelle festival or ritual.
+
+## Foodways
+
+Rice is the Kpelle staple crop and main crop, and the Kpelle survive mostly on rice despite yearly heavy rainfalls and rough land. Rice is supplemented by cassava, vegetables, and fruits. Cash crops include rice, peanuts, sugarcane, and nuts. The sources also mention fufu and soup. Soup may be eaten as an appetizer or together with the main dish, and it is sometimes spicy depending on how it is prepared.
+
+## Oral tradition & literature
+
+ The Kpelle language source provides the Lord’s Prayer in Kpelle as a sample text, beginning “Kunâŋ gáa ŋele sui,”.
+
+## Language & religion
+
+Kpelle, with the endonym Kpɛlɛɛ, belongs to the Mande language family and is spoken by the Kpelle people of Liberia, Guinea, and Ivory Coast. Guinean Kpelle, also known as Guerze in French, is concentrated primarily in the southeastern forest regions of Guinea bordering Liberia, Ivory Coast, and Sierra Leone. Liberian Kpelle is taught in Liberian schools. Kpelle is tonal, with high, mid, and low level tones. Its nouns are divided into alienable and inalienable categories; most nouns use one form for singular and plural, with number usually indicated by context. The sources describe ethnic Kpelle as Christian or animist.
+
+## Sources & further reading
+
+- “Kpelle people,” Wikipedia: https://en.wikipedia.org/wiki/Kpelle_people
+- “Kpelle language,” Wikipedia: https://en.wikipedia.org/wiki/Kpelle_language

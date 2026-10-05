@@ -1,0 +1,69 @@
+---
+title: "Kamayurá"
+subtitle: "Brazil"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Kamayurá are an Indigenous tribe in the Amazonian Basin of Brazil. They live in the Upper Xingu region, in villages situated around Lake Ipavu, six kilometres from the Kuluene River, alongside Kiabi, Yudja and Suya tribes. The Kamayurá language belongs to the Tupi–Guarani family. The Kamayurá people numbered about 600 individuals in 2014; another account gives about 544 in 2010, compared with an estimated 355 in 2002 and an all-time low of 94 in 1954. Their village organisation, specialised production, ceremonies, rituals, diet and language documentation are among the subjects covered by the sources used here.
+
+## Material culture
+
+### Clothing & dress
+
+ They state that snail-shell belts are traded with other tribes. The sources also state that teenage girls in seclusion learn to weave mats. Boys are taught to create a basket, while girls learn to weave mats as part of their preparation for later family responsibilities.
+
+### Architecture
+
+A Kamayurá village comprises a round roof decorated with sape grass (*Imperata brasiliensis*). The ‘house of the flutes’, called *Tapuwi*, contains important flute instruments that can only be played by men. In front of this house is a meeting area where men discuss fishing trips and plan festivals. The house is generally dark and is where women and children dwell. Rainforest surrounds the entire village, and private gardens can also be found.
+
+### Ceramics, metalwork & everyday objects
+
+Ceramic pots are traded with other tribes. Fish nets, canoes, flutes and hammocks are made as specialised goods, while bows and arrows are made with high quality materials. They also state that boys learn to create a basket.
+
+### Jewelry & body adornment
+
+The sources mention snail-shell belts as trade goods. They also state that, after several years of seclusion, girls are given a new name and have their ears pierced. No further information is provided about jewelry, ornaments, tattooing, hair practices or the ritual meaning of body adornment.
+
+## Music & performance
+
+The Kamayurá village includes the ‘house of the flutes’, *Tapuwi*, where important flute instruments called *jakui* are kept. These instruments can only be played by men.
+
+The sources describe the meeting area in front of the flute house as a place where men discuss fishing trips and plan festivals. Flutes are also listed among the specialised goods produced by the Kamayurá.
+
+## Dance & theatre
+
+ They state that teenage girls learn how to dance during their seclusion, but provide no name, choreography, occasion or distinction between ceremonial and entertainment performance.
+
+## Festivals & rituals
+
+The Kamayurá have many ceremonies and rituals. The sources specifically name the feast of the dead and the celebration feast of the warriors. These rituals aim to bring together the various ethnic groups of the Upper Xingu area to celebrate the life of the deceased.
+
+Men discuss and plan festivals in the meeting area in front of the ‘house of the flutes’. Social practices connected with puberty are described: genders are separated shortly after puberty; boys undergo training in hunting, hard labour, basket making, wrestling, combat and leadership; and teenage girls undergo seclusion while learning to weave mats, dance and perform household duties.
+
+## Foodways
+
+The traditional Kamayura diet generally consists of fish, beiju, porridge, pepper and bananas. Fish is the main source of protein. Birds are hunted in the rain forest, while wild berries are gathered as the main food supplement. Eagles can supplement fish, and honey is collected. Most fur-bearing animals are considered taboo.
+
+Manioc is harvested and processed into beiju and a sweet soup called *mohete*.
+
+## Oral tradition & literature
+
+ The Kamayurá language article includes a sample text taken from Seki (2000), described as a small excerpt of a folk tale about the hero *Arawitará*. In the tale, Arawitará is summoned by his deceased friend to help the souls of the dead in their eternal war against the birds. The excerpt describes his return to the world of the living and his journey to the friend’s old mother.
+
+The language sources also document work by Lucy Seki, who completed a book detailing Kamayurá grammar and published other works on the language. The Kamayurá people do not have their own specific schools and rely on teaching each other the language; since 2000, a couple of youths have participated in the Teacher Training Course, which strives to keep Kamayurá alive and also teaches Portuguese.
+
+## Language & religion
+
+Kamayurá, also spelled Kamaiurá in Portuguese, is an Indigenous language of Brazil and a member of the Tupi–Guarani family. It is spoken by the Kamayurá people of Brazil, who live in the Mato Grosso region, specifically in the Upper Xingu area. The sources describe its phonology, morphology, pronouns, case and agreement, quantification and syntax. They state that the language has two mechanisms for causation, uses affixes, clitics, postpositions, derivational processes and particles, and has basic constituent orders described as “AOV” in transitive sentences and “SV” in intransitive sentences. They describe ceremonies and rituals concerned with the deceased and warriors, including the feast of the dead and the celebration feast of the warriors.
+
+## Sources & further reading
+
+- Lucy Seki, *Gramática do Kamaiurá, Língua Tupi–Guarani do Alto Xingu*, Editora UNICAMP and São Paulo State Official Press, 2000.
+- Lucy Seki, “Kamaiurá (Tupi–Guarani) as an active–stative language,” in Doris L. Payne (ed.), *Amazonian linguistics: Studies in Lowland South American languages*, University of Texas Press, 1990.
+- Meinke Saelzer, *Fonologia provisória da língua kamayurá*, Série Lingüística, 1976.
+- Kamayurá, Wikipedia: https://en.wikipedia.org/wiki/Kamayur%C3%A1
+- Kamayurá language, Wikipedia: https://en.wikipedia.org/wiki/Kamayur%C3%A1_language
+- No UNESCO Intangible Cultural Heritage inscription or museum catalogue record was provided among the sources used.

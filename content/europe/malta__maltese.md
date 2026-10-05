@@ -1,0 +1,84 @@
+---
+title: "Maltese"
+subtitle: "Malta"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+The Maltese are an ethnic group native to Malta, an island country and archipelago in the central Mediterranean Sea. The archipelago includes Malta, Gozo and Comino; people of Gozo, called Gozitans (*Għawdxin*), are considered a subgroup of the Maltese. Maltese is a Central Semitic language descended from Siculo-Arabic and strongly influenced by Sicilian, Italian and English. Latin Catholicism remains the state religion. Contemporary Maltese identity developed through successive contacts with Sicilian, Southern European, Arab, North African, French and British societies. Maltese culture is expressed through parish festas, processions, music, foodways, folklore, vernacular language and village traditions. The sources describe Malta as having an estimated 371,900 speakers of Maltese in Malta, while another source reports 530,000 Maltese speakers worldwide.
+
+## Material culture
+
+### Textile & pattern traditions
+
+*Faldetta* — The traditional Maltese costume is described as possibly being a local variation of the Spanish mantilla.
+
+*Għonnella* — The *għonnella* was a traditional item of Maltese women’s clothing. New wives wore it in traditional accounts, but it is no longer worn in modern Malta.
+
+### Clothing & dress
+
+The sources identify the *faldetta* as a traditional Maltese costume and suggest that it may be a local variation of the Spanish mantilla. The *għonnella* was a traditional item worn by new wives, but the sources state that it is no longer worn in modern Malta. Traditional weddings also involved the bride wearing a wedding gown and veil when attending Mnarja, although this custom has disappeared.
+
+### Architecture
+
+Maltese architecture reflects successive Phoenician, Roman, Byzantine, Arab, Norman, Aragonese, Knights of St. John, French and British periods. The surviving monuments of prehistoric Malta and Gozo include megalithic temples, whose complex trefoil designs date from 4000 to 2500 BC. The Ġgantija temples on Gozo are described as some of the world’s oldest existing free-standing structures; Ħaġar Qim and Mnajdra are other early temples. The sources also mention Siculo-Norman architecture in Mdina and Vittoriosa, including the Palaces of the Santa Sofia, Gatto Murina, Inguanez and Falzon families. Traditional Maltese homes may feature enclosed wooden balconies called *gallerija*. Parish churches are the architectural and geographic focal points of Maltese towns and villages, while Valletta developed as a fortified city during the rule of the Knights.
+
+### Ceramics, metalwork & everyday objects
+
+The sources mention pottery from the Għar Dalam phase, which is similar to examples found in Agrigento, Sicily. They also describe prehistoric dolmens, Roman mosaic floors, local Roman coinage and the marble gravestone of Majmuna, a Saracen girl found in the Xewkija area of Gozo. The *ċuqlajta*, a traditional instrument made from wooden clappers and ratchets, is another documented everyday object.
+
+## Music & performance
+
+The traditional folk music of Malta is *għana*. One form, *spirtu pront*, is an improvised rhyming song-duel performed by either four or six *għannejja*, or singers, accompanied by guitars. Mnarja is one of the occasions when traditional *għana* may be heard. The sources describe the *ċuqlajta* as a traditional instrument composed of different types of wooden clappers and ratchets. One type of clapper dates to Roman times and remains visible in folk bands, particularly in Gozo.
+
+Maltese parish bands are associated with village festas. They usually contain woodwind and brass instruments together with percussion, and accompany the statue of a parish’s titular saint. Their music is described as similar to that of Sicilian and Southern Italian counterparts. Drums and flutes were used in religious processions as early as the 16th century, while modern band clubs developed around the 19th century under British influence. The Banda di San Filippo was set up by Filippo Galea in 1851, and the L-Isle Adam Band of Rabat was founded in 1860. Malta has also organised the Malta Song Festival yearly since 1960.
+
+## Dance & theatre
+
+The sources mention dancing as part of the reception following a traditional Maltese wedding, where folklore music, including *għana*, was performed. They also describe dancing and marching bands as elements of Carnival and village festas.
+
+## Festivals & rituals
+
+Maltese folklore includes annual festivals and traditions connected with weddings, birth, childhood, Catholic observance and village patron saints. Traditional Maltese weddings involved a procession beneath an ornate canopy from the bride’s family home to the parish church, accompanied by singers. This custom was called *il-ġilwa*. A traditional wedding re-enactment is held in the Village of Żurrieq around May, and the sources describe the Qala International Folk Festival in Gozo, including the 3rd Edition in September 2008.
+
+Maltese Carnival, *il-karnival ta’ Malta*, was introduced by Grand Master Piero de Ponte in 1535. It takes place during the week before Ash Wednesday and includes masked balls, fancy dress, grotesque mask competitions, late-night parties, allegorical floats, marching bands and costumed revellers. Holy Week, *il-Ġimgħa Mqaddsa*, runs from Palm Sunday to Easter Sunday and includes inherited religious traditions.
+
+Mnarja, or *l-Imnarja*, is a national festival dedicated to Saints Peter and Paul. Its roots are linked in the sources to the Roman feast of Luminaria, and the festival is associated with food, religion and music. It is held on the early summer night of June 29; modern celebrations take place in and around the woodlands of Buskett. Local parish festas mark the feast day of a patron saint with High Mass, sermons, processions, marching bands, fireworks and late-night parties.
+
+Traditional birth customs included prompt baptism. On a child’s first birthday, parents organized *il-quċċija*, placing symbolic objects around the child; the chosen object was believed to reveal the child’s future path. Traditional baptismal foods included *biskuttini tal-magħmudija*, *it-torta tal-marmorata* and *rożolin*.
+
+## Foodways
+
+Maltese cuisine reflects strong Italian, especially Sicilian, influences, alongside Spanish, French, Provençal, Mediterranean, Middle Eastern, Arab and later British influences. The traditional stewed rabbit, *stuffat tal-fenek*, is often identified as the national dish. The sources connect its popularity with the lifting of hunting restrictions in the late 18th century and the domestication of rabbits. Pork is prominent in Maltese cuisine, including grilled pork cuts, stuffed flank, Maltese sausages, *kawlata* and *ross il-forn*.
+
+Important dishes and foods include *aljotta*, a fish broth with garlic, herbs and tomatoes; *aljoli*, a sauce based on herbs, olives, anchovies and olive oil; and *taġen*, which in Maltese refers to a metal frying pan. Gozitan foodways include the cheeselet *ġbejna t’Għawdex* and *ftira Għawdxija*, a flatbread topped or filled with potatoes or *ġbejniet*, eggs, grated cheese, tomatoes, anchovies, olives, ricotta and Maltese sausage. Gozitan cheeselets may also fill ravioli instead of ricotta.
+
+Seasonal sweets include *prinjolata*, *kwareżimal*, *karamelli tal-ħarrub*, *ftira tar-Randan*, *figolla* and *qagħaq tal-għasel*. During Lent, foods include lampuki, whitebait, salted cod, stewed snails called *bebbux*, stuffed artichokes called *qaqoċċ mimli*, *sfineġ* of *ġbejna* and vegetables. *Qagħqa tal-appostli* is baked during Holy Week, while *għadam tal-mejtin* is prepared during November.
+
+## Oral tradition & literature
+
+Maltese folklore consists of folk traditions, legends, proverbs, folktales and beliefs developed over the centuries. Traditional Maltese proverbs include “iż-żwieġ mingħajr tarbija ma fihx tgawdija,” concerning childbearing and fertility. A local folktale closing formula is “u għammru u tgħammru, u spiċċat.”
+
+In the early 20th century, the Jesuit scholar Manwel Magri collected Maltese folktales and published them in *Kotba tal-Mogħdija taż-Żmien* and *Ħrejjef Missirijietna*. The tales include giants, witches, dragons and imaginary Maltese beings such as the *kawkaw* or *gawgaw*, a grey creature said to roam the streets at night, and *Il-Belliegħa*, a monster associated with wells. In 2014, Stephan D. Mifsud published *The Maltese Bestiary*, an illustrated guide to mythical flora and fauna in Maltese folktales. The sources also mention comic books published by Klabb Kotba Maltin in 1984.
+
+## Language & religion
+
+Maltese is a Central Semitic language descended from late medieval Siculo-Arabic. It is written exclusively in the Latin script and is the only Semitic language officially written in that script. Its vocabulary includes Arabic or Siculo-Arabic, Sicilian, Italian, French and English elements. The sources describe Maltese as having substantial Romance influence, with the historical source of modern vocabulary given as 52% Italian or Sicilian, 32% Arabic or Siculo-Arabic, 10% French and 6% English. Maltese became an official language of Malta in 1934, alongside English.
+
+Maltese dialects include urban and rural varieties; rural speech preserves features described as archaic and is less distant from Siculo-Arabic than Standard Maltese. Latin Catholicism is the state religion, although the Constitution of Malta provides freedom of religion. The 2021 religious figures in the sources list Roman Catholics, other Christians, atheists, Muslims, others and unspecified respondents. Parish churches, patron-saint festas, processions, Holy Week observances and pilgrimage traditions form important links between Catholic religion and folk culture.
+
+## Sources & further reading
+
+- Bonanno, A. *Malta: Phoenician, Punic and Roman*. Midsea Books, Valletta, 2005.
+- Cassar Pullicino, Ġ. “Folklore.” In H. Frendo and O. Friggieri, eds., *Malta: Culture and Identity*. Malta: Ministry for Youth and the Arts, 1994.
+- Mifsud-Chircop, George. *Type-Index of the Maltese Folktale within the Mediterranean Tradition Area*. University of Malta, 1978.
+- Mifsud, Stephan D. *The Maltese Bestiary: An Illustrated Guide to the Mythical Flora and Fauna of the Maltese Islands*. 2014.
+- [Maltese people](https://en.wikipedia.org/wiki/Maltese_people)
+- [Maltese culture](https://en.wikipedia.org/wiki/Maltese_culture)
+- [Maltese art](https://en.wikipedia.org/wiki/Maltese_art)
+- [Maltese mythology](https://en.wikipedia.org/wiki/Maltese_mythology)
+- [Maltese language](https://en.wikipedia.org/wiki/Maltese_language)
+- [Maltese music](https://en.wikipedia.org/wiki/Maltese_music)
+- [Maltese cuisine](https://en.wikipedia.org/wiki/Maltese_cuisine)

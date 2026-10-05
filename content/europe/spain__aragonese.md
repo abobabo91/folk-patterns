@@ -1,0 +1,71 @@
+---
+title: "Aragonese"
+subtitle: "Spain"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+The Aragonese are a Romance people who self-identify with the historical region of Aragon in inland northeastern Spain. Their language, Aragonese, developed in portions of the Ebro basin and is spoken in several dialects in the Pyrenees valleys of Aragon, especially in the comarcas of Somontano de Barbastro, Jacetania, Alto Gállego, Sobrarbe, and Ribagorza/Ribagorça. The language is seriously endangered: sources give approximately 12,000 speakers as of 2011, about 25,500 speakers including those outside the native area, and an estimate of 10,000 to 12,000 active speakers in 2017. Most Aragonese speak Spanish, while Catalan varieties are spoken in La Franja. Aragonese folk culture is documented here chiefly through language, music, cuisine, literature, and regional customs.
+
+## Material culture
+
+### Architecture
+
+ They locate Aragonese language use in the Pyrenees valleys, mountain ranges, rural areas, and towns including Huesca, Graus, Monzón, Barbastro, Bielsa, Chistén, Fonz, Echo, Estadilla, Benasque, Campo, Sabiñánigo, Jaca, Plan, Ansó, Ayerbe, Broto, and El Grado, but provide no architectural descriptions.
+
+### Ceramics, metalwork & everyday objects
+
+The museum catalogue records supplied contain no objects.
+
+## Music & performance
+
+The music of Aragon is described as having absorbed Roman, Celtic, Moorish, and French influences. Traditional instruments named by the source include bagpipes, drums, flutes, tambourines, rattles, the guitarro, and the bandurria.
+
+**Jota** is identified as the best-known style of music from Aragon. It is played instrumentally, danced, and sung, and is regionally emblematic to Aragon. The source distinguishes it from flamenco by noting that the Jota is also danced in most regions of Spain, whereas flamenco was until recently uniquely regional to Andalucia and some neighbouring areas.
+
+Other genres of traditional Aragonese music named in the source are **albadas** and **rondas**. The sources also mention Spanish cupletistas born in Aragon during the first decades of the 20th century, including Raquel Meller, Preciosilla, Paquita Escribano, Matilde Aragón, Mercedes Serós, Ofelia de Aragón, and Elvira de Amaya. Recent artists with folk influences include José Antonio Labordeta, La Bullonera, and Joaquín Carbonell. In Pop and Rock music, the source names Héroes del silencio and Amaral.
+
+## Dance & theatre
+
+The Jota is both a musical style and a dance. The source states that it is danced in Aragon and in most regions of Spain. No further choreography, ceremonial distinction, theatrical form, masked performance, or dramatic tradition is described in the sources used.
+
+## Festivals & rituals
+
+The sources do mention a 1650 literary contest in Huesca at which Aragonese poems were submitted by Matías Pradas, Isabel de Rodas, and “Fileno, montañés,” but this is presented as a literary event rather than a festival or ritual.
+
+## Foodways
+
+Aragonese cuisine is described as the local cuisine of Aragon, a community in Spain. One of its characteristic traditional dishes is roast lamb, prepared especially with ewes, known as *ternasco*. Salted cod imported from other parts of Spain was traditionally used in dishes such as *albóndigas de bacalao*.
+
+Named ingredients include ham, or *jamón*, from Teruel; olive oil from Empeltre and Arbequina olives; sweet varieties of onion; and local varieties of chard, borage, and cardoon.
+
+Sweet specialities include *trenza de Almudevar*, *tortas de alma*, *guirlache*, *adoquines*, *frutas de Aragón*, and *Españoletas*. *Guirlache* is described as a type of nougat, *frutas de Aragón* as fruit covered in chocolate, and *Españoletas* as a kind of local cookie.
+
+The bread list includes *Pan de cinta*, *Pan de pintera*, *pintadera* or *estrella*, *Pan de cañada*, *Pan de San Jorge*, *Regañao*, *Trenza*, *Culeca*, *Torta de cañamones*, *Chusco*, and *Pan dormido*. *Pan de cañada* is bread with olive oil; *Pan de San Jorge* is Saint George bread; *Regañao* is pizza-like bread; and *Trenza* is braided sweetbread.
+
+The best-known wines named are those from Cariñena, Somontano in Huesca, Calatayud, and Campo de Borja.
+
+## Oral tradition & literature
+
+The sources describe a substantial written history of Aragonese. Aragonese was not written until the 12th and 13th centuries. Works from that period include *Liber Regum*, *Razón feita d'amor*, *Libre dels tres reys d'orient*, and *Vida de Santa María Egipcíaca*. An Aragonese version of the *Chronicle of the Morea* also exists, in a late-14th-century form called *Libro de los fechos et conquistas del principado de la Morea*.
+
+Johan Ferrandez d'Heredia, Grand Master of the Knights Hospitaller in Rhodes at the end of the 14th century, is identified as the best-known proponent of Aragonese. He wrote an extensive catalogue of works in Aragonese and translated works from Greek into Aragonese.
+
+Modern literature includes Braulio Foz’s *Vida de Pedro Saputo*, published in 1844 in the Almudévar dialect, and the works of Domingo Miral, Veremundo Méndez Coarasa, Cleto Torrodellas, Tonón de Baldomera, Arnal Cavero, and Juana Coscujuela. Since 1992, Gara d'Edizions has published Aragonese authors and world literature translated into Aragonese.
+
+## Language & religion
+
+Aragonese is a Romance language and the only modern language that survived from medieval Navarro-Aragonese in a form distinct from Spanish. Historically, people referred to it as *fabla*, meaning “talk” or “speech.” Native speakers also use names associated with local dialects, including *cheso*, from Valle de Hecho, and *patués*, from the Benasque Valley.
+
+The source identifies Western, Central, Eastern, and Southern dialect groupings. Aragonese developed in portions of the Ebro basin, spread through the Pyrenees, and expanded southward with the Kingdom of Aragon during the Reconquista. The union that formed the 12th-century Crown of Aragon did not merge Catalan and Navarro-Aragonese. During the 16th century, Aragonese Moriscos wrote *aljamiado* texts, meaning Romance texts in Arabic script.
+
+In 2009, the Languages Act of Aragon recognized Aragonese as the “native language, original and historic” of Aragon and granted linguistic rights including use in public administration. Some legislation was repealed by a new law in 2013.
+
+## Sources & further reading
+
+- [Aragonese people](https://en.wikipedia.org/wiki/Aragonese_people)
+- [Aragonese language](https://en.wikipedia.org/wiki/Aragonese_language)
+- [Aragonese music](https://en.wikipedia.org/wiki/Aragonese_music)
+- [Aragonese cuisine](https://en.wikipedia.org/wiki/Aragonese_cuisine)

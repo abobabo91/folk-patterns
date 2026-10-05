@@ -1,0 +1,77 @@
+---
+title: "Rai"
+subtitle: "Nepal"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Rai are an Indigenous ethnolinguistic group belonging to the Kirat family and primarily speaking Tibeto-Burman languages. They mainly inhabit eastern Nepal, especially the area between the Dudh Koshi and Tamur River, and are also found in Sikkim, Darjeeling, Kalimpong, Kurseong, Mirik, and Dooars of West Bengal, Bhutan, Assam, and other northeastern states of India. Their population was about 750,000 according to one account, while the 2011 Nepal census recorded 620,004 Rai, or 2.3% of Nepal’s population. Linguists have identified up to 28 Rai languages. Rai folk culture is organized through distinctive subgroups, clans, ritual identities, oral traditions, shamanic practices, sacred hearth stones, life-cycle ceremonies, and seasonal gatherings such as Sakela.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Homespun nettle, cotton, wool, and khadi cloth** — Rai women used to weave homespun cloth from khadi, cotton, wool, and the allo nettle plant.
+
+**Stinging-nettle fiber clothing** — Men’s sleeveless coats could be made from stinging nettle plant fiber. The sources identify the material and garment terms.
+
+### Clothing & dress
+
+Rai women used to weave homespun cloth from khadi, cotton, wool, and allo nettle plant. The sources give more detailed information about men’s dress. Rai men wear *Wachinari Mala*, identified as a Dzi bead, and a *Potlung*, or *Puwalo Mala*, garland, as well as animal tooth necklaces. Men’s clothing includes the headgear terms *feta*, *pagari*, and *sayabung*; the shirt terms *Betebung*, *dawm*, and *lockchham*; and the trouser terms *suruwal* and *langs up*. A sleeveless coat made of stinging nettle plant fiber is called *chhakchha* or *fenga*. The waistband is called *narimokty*, while *patuki* and *chakchhinma* are also named in the description of male dress. The sources mention a large knife called *khukuri* or *dabhay*.
+
+### Architecture
+
+ They state that *Teen Chula*, also called *Suptulung*, is present in every Rai house and is buried on one side of the inner corner. The hearth consists of three stones and is described as central to rituals from birth to death. In the Bantawa Rai dialect it is also called *Samkhalung*: *Samkha* means ancestors and *Lung* means stones.
+
+### Ceramics, metalwork & everyday objects
+
+ They name the *khukuri* or *dabhay*, described as a large knife in men’s dress, and mention the bamboo knife used in a death ritual involving a pregnant woman. No further information is supplied about manufacture, decoration, ownership, or use of these objects.
+
+### Jewelry & body adornment
+
+Rai men wear *Wachinari Mala*, identified as a Dzi bead, *Potlung* or *Puwalo Mala* garlands, and animal tooth necklaces. No Rai tattooing, henna, hair practice, or women’s jewelry tradition is documented in the supplied sources.
+
+## Music & performance
+
+ They state that Sakela is a gathering of Rai people for the celebration of Udhauli and Ubhauli, and that it is a dance performed while Rai people gather together. The sources associate Sakela particularly with the Chamling group of the Kirati Rai community.
+
+The sources list several names used among different linguistic groups: *Sakenwa*, *Sakela*, *Tosh* or *Toshi*, *Bhume*, *Sakel*, *Wass*, *Segro*, *Sakewa*, *Dhuulu*, *Phagulak*, *Gelang*, and *Gayapuja*. These names are presented as names for the event or its associated practice rather than as separately described musical genres. No instruments are named in the Rai material.
+
+## Dance & theatre
+
+*Sakela* is described as a dance associated with Udhauli and Ubhauli. It is affiliated particularly with Chamling people of the Kirati Rai community, although many Rai have adopted Sakela as a main festival as the identities of different Rai groups have declined. The sources state that the event is performed for 15–15 days in a year as *ubhauli*, also called *Dhirinam*, on the full moon day of *Baisakh*, and as *udhauli*, also called *Chhirinam*, on the full moon day of *Mangsir* in Kirati Rai villages.
+
+## Festivals & rituals
+
+The principal named seasonal gathering is *Sakela*, associated with *Udhauli* and *Ubhauli*. In the supplied description, *ubhauli* or *Dhirinam* takes place on the full moon day of *Baisakh*, while *udhauli* or *Chhirinam* takes place on the full moon day of *Mangsir*. Each event is said to be performed for 15–15 days in a year in Kirati Rai villages. Its major philosophy is nature worship, with importance placed on paying tribute to ancestors.
+
+The Rai sources describe a life-cycle ritual system extending from birth to death. Marriage is treated as a social phenomenon requiring recognition by society. Named marriage forms include *Chori Biha*, or theft marriage; *Zari Biha*, marriage by paying a penalty; *Senzi Zari Biha*, widow marriage; and *Magi Biha*, arranged marriage. In *Magi Biha*, the consent of the forthcoming bride is required. The sources state that both monogamy and polygamy have existed, although polygamy has greatly declined.
+
+Natural death may be followed by burial or cremation according to the wish of the dead person, while unnatural death requires burial. A salt-eating and oil-drinking ceremony is performed three days after death. On the ninth and tenth days, a *Mangpa*, or shaman, performs a merit-making ceremony for the deceased. The sources also describe pollution and purification rites and separate burial sites for a pregnant woman and her child in the case of unnatural death.
+
+## Foodways
+
+ They mention a salt-eating and oil-drinking ceremony performed three days after death, but provide no further description of the foods, their preparation, or their symbolic meanings.
+
+## Oral tradition & literature
+
+The *Mundum* is described as an oral tradition among the Rai and as a long-standing ritual practice. It is also called *Ridum*, *Muddum*, or *Pelam*. The sources explain that the term has different variants among Rai subgroups. *Mundhum* is associated with Chintang, Bantawa, and Belhare; *Muddum* or *Mudum* with Mewahang, Bantawa, and Sampang; *Mindum* or *Pe-lam* with Yamphu; *Ridum* with Kulung; *Mundum* with Chamling; and *Pe-lam* with Lohorung.
+
+The sources state that the *Mundum* recounts the deeds of Paruhang and Sumnima, as well as Raichhakule and Tayama Khiyama, preserving Rai worldview and ancestral heritage. In origin traditions, sacred landscapes including Barahakshetra, Khuwalung, Salpa, and Tuwachung are connected with migration narratives and ritual life. No Rai written epic, literary genre, proverb collection, riddle tradition, or contemporary literary revival is documented in the supplied material.
+
+## Language & religion
+
+Rai languages belong to the Sino-Tibetan family, specifically the Kiranti group of the Tibeto-Burman branch. Linguists have identified up to 28 Rai languages, most of them mutually unintelligible. Named languages include Bantawa, Chamling, Thulung, Bahing, Khaling, and Kulung. The 2011 Nepal National Census recorded roughly 800,000 respondents declaring a Kiranti language as their mother tongue, while the Census of India in 2001 reported 50,000 speakers of Limbu and Rai in India, most in Sikkim.
+
+The Rai have followed the Kirat religion since ancient times. It is based on animistic nature and ancestor worship, without belief in heaven or hell and without a religious hierarchy. Religious specialists include *Nakchong*, *Mangpa*, *Bijuwa*, and *Nakso*. Rai traditions have also borrowed elements from Lamaist Buddhism and Nepalese Hinduism. According to the Nepali Census of 2011 AD, or 2068 BS, 30% followed Hinduism, 65% followed Kirat Mundhum Dharma, and 5% were Christians.
+
+## Sources & further reading
+
+- [Rai people](https://en.wikipedia.org/wiki/Rai_people)
+- [Rai mythology](https://en.wikipedia.org/wiki/Rai_mythology)
+- [Rai language](https://en.wikipedia.org/wiki/Rai_language)
+- [Rai music](https://en.wikipedia.org/wiki/Rai_music)
+- UNESCO Intangible Cultural Heritage inscriptions: no entries for this country were supplied.
+- Museum catalogue records: none supplied.

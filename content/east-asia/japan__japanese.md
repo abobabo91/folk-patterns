@@ -1,0 +1,104 @@
+---
+title: "Japanese"
+subtitle: "Japan"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+Japanese people are associated with the Japanese archipelago, where approximately 119.9 million Japanese people reside, constituting 97.1% of Japan’s population; about five million members of the diaspora are known as *Nikkeijin*. In some contexts, “Japanese people” refers specifically to the Yamato people, primarily from Honshu, Kyushu and Shikoku, while Ryukyuan people and Ainu people are often regarded as distinct groups native to the archipelago. Japanese is the principal language of the Japonic family, which also includes the Ryukyuan languages and the variously classified Hachijō language. Japanese culture combines Jōmon, Yayoi, Kofun, Chinese, Korean, Buddhist, Shinto and Western influences, expressed through foodways, religious practice, architecture, visual arts, music, theatre, literature and popular culture.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name floral patterns, abstract patterns, and the overlapping, V-shaped collar associated with the development of the kimono.
+
+### Clothing & dress
+
+The *kimono* is described as Japan’s national garment. It developed from Chinese court clothing during the Nara period, and the earliest versions were strongly influenced by clothing now known as *hanfu*, or *kanfuku* in Japanese. Kimono-like garments were formerly called *kosode*, meaning “short sleeve,” while longer-sleeved garments were known as *furisode*, meaning “swinging sleeve.” Traditional Japanese clothing is collectively called *wafuku*, in contrast to Western-style *yōfuku*.
+
+Kimono vary in color, style and size. Men mainly wear darker or more muted colors, while women tend to wear brighter colors and pastels, often with abstract or floral patterns. The *happi* is a straight-sleeved coat commonly decorated with a family crest or *kanji* along the collar. Earlier firefighter coats called *hikeshi sashiko banten* or *hikeshi banten* were made from several layers of heavy cotton and soaked in water for protection from fire.
+
+Traditional footwear includes *tabi*, ankle-length split-toed socks worn with kimono and shoes such as *geta* and *zōri*. Geta are thonged sandals mounted on wooden blocks, while zōri are flat-based or sloping sandals considered more formal.
+
+### Architecture
+
+Traditional Japanese architecture was initially heavily influenced by Chinese architecture and later developed distinctive indigenous features. Named examples include temples, Shinto shrines and castles in Kyoto and Nara. Traditional gardens are influenced by Zen ideas, and garden architecture is treated as an art form whose design is connected to monochrome ink landscape painting known as *sumi-e* or *suibokuga*.
+
+Wood has traditionally been the chief building material. Traditional Buddhist architecture includes the Hōryū-ji and Yakushi-ji temples, while the Tōdai-ji in Nara became an important artistic and religious center. The Hōryū-ji complex includes the *Kondō*, or Golden Hall, and *Gojū-no-tō*, a Five-story Pagoda. The Kondō is a two-story post-and-beam structure with an *irimoya*, or hipped-gabled, ceramic-tile roof.
+
+The sources also describe the Amida hall, which combines religious function with the appearance of aristocratic residences. The Hō-ō-dō, or Phoenix Hall, at Byōdō-in in Uji consists of a central structure, wing corridors and a tail corridor beside an artificial pond.
+
+### Ceramics, metalwork & everyday objects
+
+Japanese material culture includes Jōmon pottery, Yayoi mirrors, spears and ceremonial bronze bells called *dōtaku*, Kofun clay figures called *haniwa*, Buddhist sculpture, lacquerware, ceramics, woodblock prints and paper objects. Jōmon pottery is characterized by elaborate ornamentation, while Jōmon people also made clay figurines called *dogū* and crystal jewels. Yayoi artisans produced wheel-thrown, kiln-fired ceramics and bronze bells.
+
+Japanese pottery is described as among the finest in the world, and Japanese export porcelain became a major industry at different periods. Japanese lacquerware, including works decorated with *maki-e*, was exported to Europe and China. Metal engraving or sculpting, called *choukin* or *chōkin*, is thought to have begun in the Nara period.
+
+### Jewelry & body adornment
+
+The sources mention crystal jewels made during the Jōmon period and the use of lacquer, gilding and bright paint on wooden sculpture. They also describe *dogū*, small clay humanoid and animal figurines, usually 10 to 30 centimetres high, many with large eyes, small waists and wide hips.
+
+## Music & performance
+
+Japanese music includes traditional and modern forms. The word for music is *ongaku*, written with the characters for “sound” and “enjoyment.” Traditional music is described as based on the intervals of human breathing rather than mathematical timing, with frequent sliding between notes. Important aesthetic concepts include *jo-ha-kyū*, roughly “beginning, break, rapid,” and *ma*, a space or interval in rhythm.
+
+The oldest named forms include *shōmyō*, Buddhist chanting, and *gagaku*, orchestral court music, associated with the Nara period (710–794) and Heian period (794–1185). Gagaku has been performed at the Imperial court since the Heian period and includes *kangen*, instrumental music, and *bugaku*, dance accompanied by gagaku. Indigenous repertories include *Kagura-uta*, *Azuma-asobi* and *Yamato-uta*.
+
+The *biwa*, a short-necked lute, was played by itinerant performers called *biwa hōshi*. Blind women known as *goze* travelled while singing and playing a lap drum, and from the seventeenth century often played the *koto* or *shamisen*. The *shakuhachi* is an end-blown bamboo flute, while the shamisen is a three-stringed lute used in theatrical contexts including *bunraku* puppet drama and *kabuki*.
+
+*Wadaiko*, or Japanese drum, is used in folk and festival music and in large percussion ensembles called *kumi-daiko*. Traditional folk songs, or *min’yō*, include fishermen’s and farmers’ work songs, lullabies, religious songs, wedding and funeral songs, festival songs and children’s songs. Typical accompanying instruments include shamisen, taiko, shakuhachi, *shinobue*, *kane*, *tsuzumi* and koto.
+
+## Dance & theatre
+
+The sources describe *bugaku* as dance accompanied by gagaku and identify music and dance as connected in early Japanese court traditions. Folk and festival performance includes music for gatherings, weddings, funerals and festivals, as well as the *bon dance*. Okinawan traditions include *shima uta*, dance songs, and *kachāshī*, lively celebratory music.
+
+*Noh* is a traditional, restrained dramatic form that developed alongside *kyōgen* farce. *Kabuki* is described as an “explosion of color” using stage devices for dramatic effect. Its stories can include sensational events such as suicides. The same or related works were also performed in *bunraku* puppet theatre.
+
+The sources also identify *ukiyo-e* as a major form of woodblock art and describe *e-maki*, illustrated narrative handscrolls. The *Genji Monogatari Emaki* and *Ban Dainagon Ekotoba* are named examples of narrative painting, while the Heiji Monogatari handscroll records historical events and battles.
+
+## Festivals & rituals
+
+Shinto and Buddhism are commonly practiced together, in combinations known as *shinbutsu-shūgō*. Shinto rituals include visits to public shrines devoted to *kami*, harvest festivals, war memorial observances and local community events. Religious practice is also connected with life-cycle ceremonies. A new baby may be taken to a shrine or temple at about one month, while the third, fifth and seventh birthdays are marked by *Shichi-Go-San*. The formal beginning of adulthood is associated with *Seijin shiki* at age twenty.
+
+Most Japanese weddings are described as Christian-style, although Shinto and secular weddings also occur. Buddhist priests usually perform funerals, and Buddhist rites are common on anniversaries of death; 91% of Japanese funerals are described as following Buddhist traditions.
+
+Annual events include *matsuri*, largely of Shinto origin, and *nenjyū gyōji*, annual feasts largely of Chinese or Buddhist origin. *New Year’s Day* and *Obon* are especially significant. The New Year holiday, January 1–3, involves shrine or temple visits, special foods, kimono, decorations, noodles on New Year’s Eve and a poetry card game. During Obon, *bon* spirit altars are arranged before Buddhist family altars, ancestral graves are cleaned, relatives return home, and people participate in folk dancing, prayers and family rituals.
+
+## Foodways
+
+Japanese cuisine, or *washoku*, is based on rice, miso soup and seasonal ingredients. Common side dishes include fish, pickled vegetables, *tamagoyaki* and vegetables cooked in broth. Seafood may be grilled or served raw as *sashimi* or *sushi*, and it may be deep-fried in batter as *tempura*. Other named foods include *soba*, *udon*, *oden*, *sukiyaki*, *nikujaga*, *ramen*, *gyōza*, *tonkatsu* and *yakiniku*.
+
+Rice is the staple food, while wheat and soybeans are also important. Japanese cuisine traditionally uses little red meat, oil, fat and dairy products. Historically, Buddhist practice contributed to restrictions on meat, while fish served as a major source of protein. In 1872, during the Meiji Restoration, Emperor Meiji lifted the ban on red meat, and meat-based dishes became increasingly common.
+
+A typical meal combines steamed white rice, or *gohan*, with one or more *okazu*, accompanied by soup and *tsukemono*. The formula *ichijū-sansai* means “one soup, three sides.” Seasonality, or *shun*, is emphasized, with food chosen according to the four seasons or calendar months. Traditional seasonings include *dashi*, soy sauce, sake, *mirin*, vinegar, sugar and salt. Named condiments include *wasabi*, Japanese mustard and *shichimi*.
+
+Traditional sweets are called *wagashi* and include red bean paste and *mochi*. Drinks include green tea, *matcha* and barley tea. The sources state that “Washoku, traditional dietary cultures of the Japanese, notably for the celebration of New Year” was added to UNESCO’s Intangible Cultural Heritage in 2013, but the supplied UNESCO source list provides no identifier.
+
+## Oral tradition & literature
+
+Japanese mythology consists of traditional stories, folktales and beliefs connected with the Japanese archipelago, Shinto traditions, Chinese myths and Buddhist and Hindu mythology. The *Kojiki*, or “Record of Ancient Matters,” and the *Nihon Shoki* are described as the oldest and most important written sources for Japanese mythology. Completed in A.D. 712 and A.D. 720, respectively, they relate the creation of the archipelago, its people and the imperial family.
+
+Named mythological figures and narratives include Izanagi and Izanami, the creation of the Japanese islands, Amaterasu, Susanoo, Tsukuyomi, Emperor Jimmu, *Momotarō*, *Shita-kiri Suzume*, Ototachibana and Yamato Takeru. Local myths are associated with particular mountains, lakes and geographic features. The sources also mention *Jorōgumo*, a spider figure in *Yōkai* mythology.
+
+Japanese literary forms include *haiku*, *tanka* and the *I Novel*. Named works include Murasaki Shikibu’s *The Tale of Genji*, Miyamoto Musashi’s *The Book of Five Rings*, Matsuo Bashō’s *Oku no Hosomichi* and Okakura Kakuzō’s *The Book of Tea*. The *Genji Monogatari Emaki* adapts The Tale of Genji into an illustrated handscroll tradition.
+
+## Language & religion
+
+Japanese is a Japonic language spoken principally in Japan and among the Japanese diaspora. The writing system combines Chinese characters, or *kanji*, with the syllabaries *hiragana* and *katakana*. *Rōmaji*, or Latin script, is also used in limited contexts. Japanese has a complex system of honorifics, subject–object–verb word order, particles marking grammatical function and a lexically significant pitch accent. Dialects differ in pitch accent, morphology, vocabulary and particle use. Ryukyuan languages are related but are distinct enough to be treated as a separate branch by linguists.
+
+Shinto is Japan’s indigenous religion and centers on rituals and relationships with *kami*, understood as spirits, essences or gods associated with rocks, trees, rivers, animals, places and people. Buddhism arrived in the sixth century and developed into traditions including Shingon, Tendai, Zen, Pure Land and Nichiren Buddhism. Japanese religion commonly combines Shinto and Buddhism, while Christianity, Islam, Judaism, Hinduism, Sikhism, Jainism, Taoism, Confucianism, Ryukyuan religion and Ainu religion are also described in the sources.
+
+## Sources & further reading
+
+- [Japanese people](https://en.wikipedia.org/wiki/Japanese_people)
+- [Japanese culture](https://en.wikipedia.org/wiki/Japanese_culture)
+- [Japanese art](https://en.wikipedia.org/wiki/Japanese_art)
+- [Japanese mythology](https://en.wikipedia.org/wiki/Japanese_mythology)
+- [Japanese language](https://en.wikipedia.org/wiki/Japanese_language)
+- [Japanese music](https://en.wikipedia.org/wiki/Japanese_music)
+- [Japanese cuisine](https://en.wikipedia.org/wiki/Japanese_cuisine)
+- [Japanese religion](https://en.wikipedia.org/wiki/Japanese_religion)
+- The supplied sources include no museum catalogue records and no UNESCO Intangible Cultural Heritage identifiers.

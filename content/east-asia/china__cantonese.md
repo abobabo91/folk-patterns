@@ -1,0 +1,86 @@
+---
+title: "Cantonese"
+subtitle: "China"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Cantonese people, also called Yue people, are a Han Chinese sub-ethnic group originating from Guangzhou and surrounding cities and towns, including Hong Kong and Macau. Their cultural region centers on Guangdong, eastern Guangxi, Hong Kong and Macau, particularly around the Pearl River Delta. Cantonese is a Sinitic language within the Sino-Tibetan language family and is the prestige variety of Yue Chinese. Standard Cantonese had about 80 million total speakers as of 2023. Cantonese communities also live throughout Southeast Asia, the Pacific Islands, the Americas, the Caribbean and Western Europe. Cantonese culture is significant in folk culture through its language, opera, music, architecture, porcelain, embroidery, carving, gardens, cuisine, storytelling and popular arts.
+
+## Material culture
+
+### Textile & pattern traditions
+
+* **Cantonese embroidery** is an embroidery style associated with Lingnan. It was documented by the Tang Empire as early as the 9th century, reached its current form around the 15th century, and is known for bright colors and multiple images arranged without appearing chaotic. It was sold to Western European people and became popular in European aristocratic collections of oriental crafts.
+
+* **Xiangyunsha silk** has origins in Cantonese culture in Guangdong province.
+
+### Architecture
+
+Lingnan architecture is associated with Cantonese people and responds to the hot and humid subtropical climate of Lingnan. Classical examples favor pale colors such as green and white, avoid circular or cylindrical structures, and use open features including balconies, skylights and verandas. Buildings may include relief carvings and sculptures and use materials resistant to moulds and moisture. Roof ridges tend to be straight rather than curved, and buildings may have narrow structures called “cold alleys” to increase windspeed, cooling and ventilation.
+
+The Chan Clan Temple in Guangzhou is a representative example. Built in the late 19th century as an academy for Chan families in 72 counties of Guangdong province, it contains stone, wood and brick carvings; ceramic, clay and colorful sculptures; and cast iron. The sources call these the “three carvings,” “three sculptures” and “one cast.” Tong lau is another Lingnan architectural form, prevalent from the 19th century in Guangzhou, Hong Kong and Macau, combining Southern Chinese architectural styles with Western European ones.
+
+### Ceramics, metalwork & everyday objects
+
+Canton porcelain originated in the 16th century. Cantonese artisans in Guangzhou imported white porcelain from Jingdezhen, painted it with various colors and fixed the colors through low heat of less than 800 degree Celsius. The resulting objects are known for bright colors and detailed drawings. The practice later spread through Lingnan; Hong Kong began producing Canton porcelain in the 1930s.
+
+Cantonese crafts also include sculptures, paper cutting, kites and furniture. Cantonese furniture uses native timbers from Lingnan and incorporates elements from the Tang Empire, the Song Empire and Western Europe. It is associated with large pieces of wood, curves influenced by Baroque and Rococo styles, Teochew woodcarving, shells and marbles. Sekwan ware and Cochin ware are pottery types with Cantonese origins.
+
+### Jewelry & body adornment
+
+Canton jade carving is the Cantonese style of jade carving and has a history of more than two thousand years. Archaeologists have found jade carvings among the remains of the kingdom of Nanyue. After sinicization, Lingnan artisans learned from jade wares of the Tang Empire and developed *lau sik* (留色), described as retaining the colors of the original material. Canton jade carvings are used in Cantonese jewelry and decorations.
+
+Canton ivory woodcarving traditionally used ivory to make delicate and detailed sculptures and is associated with a history of 2000 years. The Cantonese also produced the Ivory ball. After international ivory trade was banned in the 1980s, artisans sought substitute materials.
+
+## Music & performance
+
+Cantonese people have several types of traditional music, and performing arts are primarily sung or expressed in Cantonese. Guangdong music is traditional Chinese instrumental music from Guangzhou and nearby areas. Its compositions are based especially on melodies from Cantonese opera and Cantonese folk songs. It is described as loud, lively and upbeat, and some pieces incorporate syncopation, triple time, saxophone and violin.
+
+The *gaohu* is identified as the most representative distinctly Cantonese instrument. Other instruments associated with Cantonese music include the *qinqin* and *erxian*. Cantonese opera uses instruments also found in other forms of Chinese opera, including the *guzheng*, and adopted European instruments such as the violin from the 19th century.
+
+Cantonese folk songs include “Saltwater songs,” popular around the Pearl River Delta; “Rooster-selling rhythms,” associated with rooster-worshiping rituals; “Kerria songs,” often sung at weddings; North Canton folk songs, popular in northern Guangdong; and Cantonese rhymes, which include the *nam yum* tradition. Canto-pop, also called HK-pop, is Cantonese music made primarily in Hong Kong, with influences from jazz, rock and roll, R&B, electronic music and dance music.
+
+## Dance & theatre
+
+Cantonese opera is the most prominent Cantonese performing art. It originated in the late 13th century and combines acrobatics, singing, martial arts and acting. The form is associated with the Cantonese language and is listed as an intangible cultural heritage of the world. Actors use makeup and headdresses to represent character personalities; totally white makeup often represents a villain.
+
+The sources also mention Tea-picking opera and Han opera as forms in which Cantonese people participate. *Gonggu* is a popular folk art involving rhythmic storytelling in Cantonese. Artists narrate Chinese classics or Cantonese folklore while borrowing techniques from Cantonese opera. It originated in the 16th century, when Cantonese imported it from Jiangsu, and was performed in stalls, Cantonese teahouses, parks and radio programs.
+
+## Festivals & rituals
+
+ They do mention “Rooster-selling rhythms,” which are traditionally sung in rooster-worshiping rituals, and “Kerria songs,” which are often sung at weddings.
+
+The sources also describe tea houses as important public meeting places in Guangzhou. During the Qing dynasty, political movements could develop there, while dim sum was consumed as the principal attraction. Cantonese opera, folk songs and storytelling are documented as performance traditions, but the supplied material does not establish a complete ritual calendar or specify dates for festivals.
+
+## Foodways
+
+Cantonese cuisine, also called Guangdong cuisine or Yue cuisine, is associated with Guangdong, especially Guangzhou, and the surrounding Pearl River Delta including Hong Kong and Macau. It is one of the Eight Great Traditions of Chinese cuisine. Its prominence outside China is connected to Cantonese emigration, and until the late 20th century many Chinese restaurants in the West served largely Cantonese dishes.
+
+Fresh ingredients, especially seafood, are important. Steaming and stir-frying are favored, while shallow frying, double steaming, braising and deep frying are also used. Traditional flavors are generally balanced and not greasy, with spices used modestly. The cooking technique *wok hay* emphasizes the energy of the cooking vessel and the combination of flavors.
+
+Dim sum consists of small and light dishes, including *har gow* (steamed shrimp dumplings), *siu mai* (steamed pork dumplings) and *cha siu bao* (barbecued pork buns). Other named foods include *siu mei*, Chinese rotisserie-style meat; *lou mei*, dishes made from internal organs and other animal parts; clay pot rice; noodles served in broth or fried; seafood; and *tong sui*, a sweet soup served after evening meals. *Old fire soup*, or *lou fo tong*, is prepared by simmering meat and other ingredients over low heat for several hours. Cantonese cuisine also uses preserved ingredients, plain white rice, soy sauce, rice wine, sesame oil, ginger, chili peppers and other seasonings.
+
+## Oral tradition & literature
+
+Cantonese folk songs are associated with the ancient Nanyue people and continue to be sung and broadcast in Lingnan. Cantonese oral art also includes *Gonggu*, in which artists tell stories from Chinese classics or Cantonese folklore in rhythmic Cantonese performances. Its development produced a considerable body of Cantonese folktales.
+
+The Cantonese language has a 1000-year-long history of poetry and literature. People in Lingnan had composed poems since the 7th century, and the region produced a “Lingnan school of poetry,” known for preserving pronunciations from Middle Chinese and using imagery associated with Lingnan. Since the 19th century, poets also composed poems in grammatically vernacular Cantonese. The compilation “All Cantonese Poems” began in the early 21st century, spans 30 volumes and is not yet finished.
+
+## Language & religion
+
+Cantonese is a Sinitic language belonging to the Sino-Tibetan language family. It originated in Guangzhou and the surrounding Pearl River Delta and is the traditional prestige variety of Yue Chinese. Cantonese is widely used in Guangdong and Guangxi, and is the dominant spoken Chinese variety in Hong Kong and Macau. It is also spoken among overseas Chinese communities in Southeast Asia and the Western world.
+
+The language has retained features associated with Middle Chinese and the ancient Nanyue language. Cantonese traditionally relied on classical Chinese in writing, but a complete Cantonese writing system using standard Chinese characters and native characters developed in Hong Kong and Macau from the early 20th century. The sources mention rooster-worshiping rituals.
+
+## Sources & further reading
+
+- [Cantonese people](https://en.wikipedia.org/wiki/Cantonese_people)
+- [Cantonese culture](https://en.wikipedia.org/wiki/Cantonese_culture)
+- [Cantonese language](https://en.wikipedia.org/wiki/Cantonese_language)
+- [Cantonese music](https://en.wikipedia.org/wiki/Cantonese_music)
+- [Cantonese cuisine](https://en.wikipedia.org/wiki/Cantonese_cuisine)
+
+The supplied sources contain no UNESCO Intangible Cultural Heritage inscriptions for this country and no museum catalogue records for the objects shown.

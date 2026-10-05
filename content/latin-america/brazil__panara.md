@@ -1,0 +1,57 @@
+---
+title: "Panará"
+subtitle: "Brazil"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Panará are an Indigenous people of Mato Grosso in the Brazilian Amazon who farm and are hunter-gatherers. They speak Panará, a Goyaz Jê language belonging to the Jê language family, also known as Macro-Jê. The Panará are described as the last descendants of the Southern Kayapó, a large ethnic group that inhabited a vast area of Central Brazil in the 18th century. Their traditional territory lies along the Iriri River, on the border of Mato Grosso and Pará states. After their population was severely reduced following contact and the construction of the Cuiabá-Santarém road BR-163, surviving members returned to their traditional land. The population was estimated at around 500–600 in 2018.
+
+## Material culture
+
+### Clothing & dress
+
+ They do state that the name Krã jàkàràre refers to a traditional hairstyle that identifies the Panará.
+
+### Architecture
+
+Panará villages have a circular structure around the *inkâ*, meaning “men’s house.” Houses are arranged into four quarters corresponding to the four clans, and the entrances of the surrounding structures face inward toward the *inkâ*. Meetings and discussions about the community take place there, and unmarried adult men traditionally sleep in the men’s house.
+
+### Jewelry & body adornment
+
+ They mention only the traditional hairstyle associated with the name Krã jàkàràre.
+
+## Music & performance
+
+The sources describe traditional songs and dances in connection with the Panará’s October 2022 return to their traditional land. The two-day ceremony featured many traditional songs and dances, as well as other customs including the *tora* race. Paul McCartney’s 1970 album *McCartney* contains a closing track called “Kreen-Akrore,” and Alcatrazz’s 1983 album *No Parole from Rock 'n' Roll* contains a song called “Kree Nakoorie”; these are references to Panará names in popular culture rather than descriptions of Panará musical traditions.
+
+## Dance & theatre
+
+The October 2022 ceremony marking the Panará return to their traditional land featured traditional songs and dances, together with other customs including the *tora* race.
+
+## Festivals & rituals
+
+The sources describe a two-day ceremony in October 2022 connected with the Panará reclaiming their traditional land after a two-decade legal and political battle. It included traditional songs and dances, the *tora* race, and other customs. The sources also describe the organization of village life through four clans and a matrilineal structure. Households follow matrilineal lines, men move into the household of the woman when they marry, and a man becomes a member of his wife’s clan especially after the first child is born. Marriage within the same clan, or romance between clan members, is described as “unthinkable.”
+
+## Foodways
+
+The Panará farm and are hunter-gatherers. During the 1970 expedition that sought contact with them, intended gifts were left at one of their banana and maize plantations. The sources also state that, after their return to their original land, “food sovereignty remains a concern.”
+
+## Oral tradition & literature
+
+ They do describe code-switching puns as a culturally important form of language play. These puns arise from the interplay between Panará and Portuguese, including deliberate mispronunciation and deformation of words. The practice was adopted as a form of cultural humour and is described as a way of maintaining Panará identity and agency in the context of inter-tribal tensions and colonization. Documentation of verbal play and pragmatic language is presented as important for understanding and documenting Indigenous cultures and supporting language and cultural revitalization.
+
+## Language & religion
+
+Panará is a Jê language spoken by the Panará people of Mato Grosso, Brazil. It is classified as a Goyaz Jê language within the Jê language family, or Macro-Jê, and is written in the Latin script. Panará is described as a direct descendant of Southern Kayapó. Earlier scholarship classified it as a Northern Jê language, while another analysis describes it as a sister language to Northern Jê rather than a member of that group. Two dialects have been identified from scarce documentation: the variety spoken in São José de Mossâmedes and the variety spoken in Santana do Paranaíba and the Triângulo Mineiro region.
+
+## Sources & further reading
+
+- “Panará people,” *Wikipedia*: https://en.wikipedia.org/wiki/Panar%C3%A1_people
+- “Panará language,” *Wikipedia*: https://en.wikipedia.org/wiki/Panar%C3%A1_language
+- Bernat Bardagil Mas, “A Digital Documentation of Panará,” ELAR collection, as listed in the Panará language article.
+- Myriam Lapierre, *Panära Field Materials*, Survey of California and Other Indian Languages, 2017, doi:10.7297/X20R9MWN.
+- “The Panará: A Story of Hope,” listed as an external resource in the Panará people article.
+- “The Tribe That Hides From Man,” 1970 documentary listed as an external resource in the Panará people article.

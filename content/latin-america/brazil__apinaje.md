@@ -1,0 +1,61 @@
+---
+title: "Apinajé"
+subtitle: "Brazil"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Apinajé, also known as Apinayé and by several other names including Afotigé, Aogé, Apinagé, Otogé, Oupinagee, Pinagé, Pinaré, Uhitische, Utinsche, and Western Timbira, are an Indigenous people of Brazil. They live in the state of Tocantins, in Eastern Central Brazil, and speak Apinayé, a Northern Jê language within the Jê family and the Macro-Jê stock. The Apinayé language is spoken in thirteen villages, including São José and Mariazinha, and had 2277 speakers according to the SIASI/SESAI census taken in 2014. Apinajé communities maintain subsistence gardens, cattle raising, hunting, fishing, Indigenous schools, and the use of Apinayé in early education. Their history also includes contact with Jesuits, military expeditions, Portuguese settlers, highways, and struggles over land recognized by the Brazilian state.
+
+## Material culture
+
+### Architecture
+
+ They state that the Apinajé formerly lived in three main groups—the Rõrkojoire, the Cocojoire, and the Krĩjobreire—each with its own land and political division. Currently, the three groups live together; São José is controlled by the Krĩjobreire, while Mariazinha has Cocojoire leadership.
+
+### Ceramics, metalwork & everyday objects
+
+ They do state that Apinajé women farm subsistence gardens, while men fell trees and plant rice. Families raise cattle, pigs, and chickens, and hunting and fishing supplement domestic foods.
+
+## Music & performance
+
+ The historical sources do mention military bands among the groups that had contact with the Apinajé.
+
+The sources describe oral and linguistic material only in limited ways. Apinayé is a subject–object–verb language, and its grammar includes nouns, verbs, postpositions, inflection, clitics, reduplication, and realis and irrealis modes. The realis marker is *na*, while irrealis clauses are indicated by *kɔt*. These are grammatical forms rather than documented music or performance traditions.
+
+## Festivals & rituals
+
+ They state that Da Matta’s work from 1982 explores Apinayé customs and traditions.
+
+The sources do describe several historical collective actions. In 1823, the Apinajé participated in the War for Independence after sending “250 warriors to join the troops of José Dias de Mattos.” During construction of the Trans-Amazon highway in 1985, Apinajé, Krahô, Xerente, Xavante, and Kayapó warriors supported the recognition of Apinajé lands by the Brazilian state, and the highway route was altered to avoid passing through the Indigenous territory.
+
+## Foodways
+
+Apinajé subsistence includes gardens, cultivation, animal raising, hunting, fishing, and the former sale of babaçu nuts for cash. Crops named in the sources include bananas, beans, broad beans, papayas, peanuts, pumpkins, sweet potatoes, watermelons, and yams. Apinajé women farm subsistence gardens, while men fell trees and plant rice. Apinajé families raise cattle, pigs, and chickens, and hunting and fishing supplement domestic foods.
+
+During the first quarter of the nineteenth century, extensive cattle farming and the extraction of babaù palm oil contributed to economic growth and increased migration.
+
+## Oral tradition & literature
+
+The sources mention *Uaica*, a hunter in Apinajé legend, but provide no account of the legend itself.
+
+Several ethnographic and linguistic works are identified. Curt Nimuendajú’s *The Apinayé*, published in 1939, is described as a study based on the social structure of the Indigenous group, with minimal information about the linguistic formation of Apinayé. Da Matta’s work from 1982 explores Apinayé customs and traditions. Oliveira’s dissertation from 2005 is described as a prominent ethnography of the Apinayé language and people. A 2017 ethnographic study by Sousa and others analyzes the education system.
+
+## Language & religion
+
+Apinayé, also called Apinajé, is a Northern Jê language belonging to the Jê family within the Macro-Jê stock. It is spoken in thirteen villages in Tocantins, Eastern Central Brazil. The largest and oldest villages named in the sources are São José and Mariazinha; other villages are Cocalinho, Patizal, Buriti Comprido, Palmeiras, Prata, Cocal Grande, Serrinha, Botica, Riachinho, Bonito, and Brejão. Apinayé had 2277 speakers according to the SIASI/SESAI census taken in 2014.
+
+The language has been described as “developing” by Ethnologue, with a rating of 5 on the Expanded Graded Intergenerational Disruption Scale. In Apinajé schools, children begin learning in their native language up to the 4th grade, when Portuguese is introduced.
+
+## Sources & further reading
+
+- Curt Nimuendajú, *The Apinayé* (1939).
+- Da Matta, work on Apinayé customs and traditions (1982).
+- Christiane Cunha de Oliveira, *The Language of the Apinajé People of Central Brazil* (2005).
+- Sousa et al., “Apinajé Intercultural Bilingual School: For an Education Beyond the Ethnic Frontier” and a 2017 study of the Apinajé education system.
+- [Apinajé people](https://en.wikipedia.org/wiki/Apinaj%C3%A9_people)
+- [Apinajé language](https://en.wikipedia.org/wiki/Apinaj%C3%A9_language)
+- No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
+- No museum catalogue records or relevant museum-collection URLs are included in the supplied sources.

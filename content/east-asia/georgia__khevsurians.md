@@ -1,0 +1,40 @@
+---
+title: "Khevsurians"
+subtitle: "Georgia"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+Khevsurians (Georgian: *ხევსურები*, romanized: *khevsurebi*) are an ethnographic group of Georgians who mainly live in Khevsureti, on both sides of the Caucasus Mountain Chain, in the watersheds of the rivers Aragvi and Argun. Khevsurian communities are also found in Khevi, Ertso-Tianeti, Kakheti (Shiraki), and Kvemo Kartli (Gardabani). They speak the Georgian language in the Khevsurian dialect. Their traditional culture includes clothing, weapons, and polyphonic music. Khevsurians are first mentioned in 10th-century manuscripts, and in 1745 Vakhushti Bagrationi described them in *Description of the Kingdom of Georgia*. Their culture has been affected by forced resettlement and the resulting danger of losing traditional dress and religious practices.
+
+## Material culture
+
+### Clothing & dress
+
+The sources identify traditional dress as an important part of Khevsurian culture. They state that traditional dress is among the cultural elements endangered by the resettlement of many Khevsurs from their traditional mountain homeland between 1951 and 1953.
+
+### Ceramics, metalwork & everyday objects
+
+The sources mention Khevsurian weapons as part of their maintained traditional culture.
+
+## Music & performance
+
+The sources state that Khevsurians have maintained polyphonic music as part of their traditional culture.
+
+## Festivals & rituals
+
+The sources mention Khevsurian religious practices only in general terms, stating that they are among the cultural elements in danger of being lost after the resettlements of 1951–1953.
+
+## Oral tradition & literature
+
+The old Georgian chronicle refers to Khevsureti and Pshavi together as “Pkhovi,” while Pshavians and Khevsurians were called “Pkhoveli.” Vakhushti Bagrationi cited the earlier designation in his description of the north-eastern part of Heret-Kakheti, writing that they were called Pshav Khevsur and had previously been called Pkhoelni. The Kists bordering Khevsureti still call Khevsureti “Pkhia” or “Pkhye,” terms stated to mean the same as “Pkhoeli.”
+
+## Language & religion
+
+Khevsurians speak the Georgian language in the Khevsurian dialect. They state only that religious practices are among the elements of Khevsurian culture endangered by the loss of traditional culture following resettlement.
+
+## Sources & further reading
+
+- *Khevsurians*, Wikipedia: https://en.wikipedia.org/wiki/Khevsurians

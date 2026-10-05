@@ -1,0 +1,67 @@
+---
+title: "Zarma"
+subtitle: "Niger"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Zarma are an ethnic group predominantly found in westernmost Niger, especially along the Niger River valley and near Niamey. They also live in adjacent areas of Nigeria and Benin, with smaller populations in Burkina Faso, Ivory Coast, Ghana, Togo, and Sudan. Population estimates from 2013 generally place their total number above three million. Zarma is a southern Songhai language and belongs to the Nilo-Saharan language family. The Zarma are predominantly Muslims of the Maliki-Sunni school. Their folk-cultural profile includes walled family compounds, circular mud-and-thatch houses, hereditary social strata, agriculture, herding, fishing, oral traditions, group dance, singing, and musical instruments including *gumbe*, *dondon*, *molo*, *kuntigui*, and *goge*.
+
+## Material culture
+
+### Architecture
+
+Zarma villages traditionally consist of walled compounds called *windi*, where a family group lives. Each compound has a male head and may contain several separate huts for the head male’s different wives. These huts are traditionally roundhouses: circular structures made from mud walls and covered by conical thatched-straw roofs.
+
+### Ceramics, metalwork & everyday objects
+
+ The sources do mention a magical millet silo bottom in an oral account of the migration led by Mali Bero.
+
+### Jewelry & body adornment
+
+ They do describe female genital mutilation, called *Haabize* in Zarma culture, as two rituals: cutting away the hymen of newborn girls and clitoridectomy between the ages of 9 and 15. The operation was traditionally performed by barbers called *wanzam*. The sources state that prevalence in the Zarma ethnic group was 9% in 2006.
+
+## Music & performance
+
+The Zarma have a historical musical tradition involving music, group dance, and singing. Their group dance is called *Bitti Harey*. Instruments accompanying these arts include *gumbe*, described as a big drum; *dondon*, or talking drums; *molo* or *kuntigui*, which are string instruments; and *goge*, a violin-like instrument. Some of this music also accompanies *folley*, or rituals related to spirit possession. They do, however, connect music with the wider social history of Zarma communities, in which hereditary strata included artists, musicians, griots, hunters, fishermen, leather workers, hairdressers, scribes, weavers, kings, and warriors. Links to recordings of Djerma music are mentioned in the Wikipedia article, but the supplied material does not provide details about the recordings.
+
+## Dance & theatre
+
+The named Zarma performance tradition documented by the sources is *Bitti Harey*, a group dance associated with music and singing. The sources also connect some music to *folley*, spirit possession-related rituals.
+
+## Festivals & rituals
+
+ They do state that the Zarma are predominantly Muslims of the Maliki-Sunni school, but provide no description of Ramadan, Islamic feast days, or other religious observances.
+
+The sources describe *Haabize* as a ritual practice involving female circumcision. One ritual consists of cutting away the hymen of newborn girls; the second is clitoridectomy between the ages of 9 and 15. They also mention a system of ritualistic acceptance between co-wives within the Islamic system of polygynous marriages. No detailed birth, coming-of-age, wedding, funeral, or initiation ceremonies are described.
+
+## Foodways
+
+The Zarma traditionally cultivate maize, millet, sorghum, rice, tobacco, cotton, and peanuts during the rainy season, which the source gives as June to November. They also grow guavas, mangoes, bananas, and citrus fruits. Communities living along the Niger River rely in part on fishing, while the river provides irrigation, forage for cattle herds, and drinking water.
+
+The sources describe herding as an important livelihood. Zarma people have traditionally owned cattle, sheep, goats, and dromedaries, renting them to Fulani or Tuareg people for tending. Herds may later be sold for meat. Some Zarma also own horses, associated historically with the warrior class and cavalry service in Islamic armies.
+
+No named dishes, cooking methods, ceremonial foods, tea or coffee traditions, or detailed dietary rules are documented. The sources identify the Zarma as predominantly Muslim, specifically of the Maliki-Sunni school.
+
+## Oral tradition & literature
+
+Zarma oral traditions place the group’s origins in the Niger Bend region of Mali. Some traditions describe the Zarma as originally Mande or Soninke, while other historical interpretations place them within the broader Songhai ethnic umbrella. A migration legend says that Mali Bero led the Zarma south-eastward after a conflict with a neighboring Tuareg village, flying on a magical millet silo bottom.
+
+The sources also preserve traditions concerning the history of Gao, the Songhai Empire, the Zarmaganda, the Dallol Bosso valley, and Dosso. Zarma folktales are represented in Amanda Cushman’s *Zarma Folktales of Niger*. The Zarma language article includes a proverb whose meaning is that one needs to hear both sides of the story.
+
+## Language & religion
+
+Zarma, also called *Zarma Ciine* or *Sanni*, is a Songhay language and the leading indigenous language of south-western Niger, where the Niger River flows and Niamey is located. It is one of the southern Songhai languages, within the Nilo-Saharan language family. Zarma is also spoken in parts of Mali, Burkina Faso, Nigeria, Benin, Ghana, Ivory Coast, Togo, Cameroon, and Sudan. Cities named as Zarma-speaking include Tillaberi, Dosso, Niamey, Tahoua, and Agadez.
+
+The language is written in either the Latin alphabet or the Arabic alphabet, called *Ajami*. Arabic writing in the Sahel is associated with the arrival of Islam through Trans-Saharan trade as early as the 12th century. Latin writing came into use in the beginning of the 19th century with European Christian missionaries and colonial administrators. The Zarma are predominantly Muslims of the Maliki-Sunni school. The sources also describe *Zima*, or priests, and Islamic clerics as a socially distinct group requiring initiation rather than automatic hereditary succession.
+
+## Sources & further reading
+
+- Dierk Lange, “From Mande to Songhay: Towards a political and ethnic history of medieval Gao,” *Journal of African History*, 1994.
+- Bruce S. Hall, *A History of Race in Muslim West Africa, 1600–1960*, Cambridge University Press, 2011.
+- Ralph A. Austen, *In Search of Sunjata: The Mande Oral Epic as History, Literature and Performance*, Indiana University Press, 1999.
+- Amanda Cushman, *Zarma Folktales of Niger*, Quale, 2010.
+- [Zarma people](https://en.wikipedia.org/wiki/Zarma_people)
+- [Zarma language](https://en.wikipedia.org/wiki/Zarma_language)

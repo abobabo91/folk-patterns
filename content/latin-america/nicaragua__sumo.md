@@ -1,0 +1,47 @@
+---
+title: "Sumo"
+subtitle: "Nicaragua"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Sumo are an Indigenous people more commonly called the Mayangna, who live on the eastern coasts of Nicaragua and Honduras, in the region known as the Mosquito Coast. “Sumo” or “Sumu” is a derogatory name historically used by the Miskito people. The Mayangna are divided into the Panamahka, Tawahka and Ulwa ethno-linguistic subgroups. Their communities are concentrated along the Coco, Waspuk, Pispis and Bocay rivers in north-eastern Nicaragua, along the Patuca in Honduras, and far to the south along the Río Grande de Matagalpa. The Ulwa community is concentrated in Karawala, within the Río Grande basin. Their languages belong to the Misumalpan language family.
+
+## Material culture
+
+### Architecture
+
+ They state that Mayangna communities historically lived in dispersed family groupings and later were brought together in compact settlements centred around a church.
+
+### Ceramics, metalwork & everyday objects
+
+ They do state that Mayangna communities controlled the production and sale of canoes made from high-quality tropical hardwoods, which were also used by the Miskito in slaving expeditions.
+
+## Music & performance
+
+ They mention the *sukias*, or traditional healers, as figures who formerly held authority in Mayangna life, but provide no description of their performance practices.
+
+## Festivals & rituals
+
+ They describe a major religious transformation beginning with the arrival of missionaries from the Moravian Church in 1847 and the spread of Christianity among Mayangna communities after the departure of the British. During the “Great Awakening” of the 1880s, much of the Miskito population converted, after which Moravian missionaries increasingly directed their attention to the Mayangna. The new religion became a key part of Mayangna identity, and the Moravian Church replaced the former authority of chieftains and *sukias*.
+
+## Foodways
+
+ They state that Mayangna communities traditionally depended on hunting, fishing and shifting agriculture, and that pollution from the mine at Rosita damaged the river ecosystems on which communities depended for their food supply.
+
+## Oral tradition & literature
+
+ They state that the Sandinista-led Literacy Crusade eventually included teaching in local native languages, that 1,449 Mayangna learned to read and write according to a government report, and that Mayangna emerged as a written language.
+
+## Language & religion
+
+The Mayangna languages belong to the Misumalpan language family, which also includes Miskito and the extinct Matagalpan and Cacaopera tongues. The language called Mayangna around Rosita and Bonanza consists of two closely related dialects, Twahka and Panamahka. The Ulwa people of Karawala speak a closely related sister-language called Ulwa. The name “ulwa” was mentioned for the first time in 1586, with several spellings recorded in the source. Most people speak Mayangna at home, while Miskito is also used for interaction with surrounding communities; the Ulwa language is described as increasingly threatened by this shift. In Mayangna, “autonomy” translates as “alas yalahnin lani,” meaning “to live our system of life.” Christianity, particularly through the Moravian Church, became a key part of Mayangna identity.
+
+## Sources & further reading
+
+- [Mayangna people](https://en.wikipedia.org/wiki/Mayangna_people)
+- [Sumo language](https://en.wikipedia.org/wiki/Sumo_language)
+- No UNESCO Intangible Cultural Heritage inscription was supplied for this group or country.
+- No museum catalogue records or relevant museum collection URLs were supplied.

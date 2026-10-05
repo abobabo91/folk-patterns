@@ -1,0 +1,89 @@
+---
+title: "Kalash"
+subtitle: "Pakistan"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Kalash, or Kalasha, are a small Indo-Aryan indigenous people native to the Chitral region of Khyber-Pakhtunkhwa province in Pakistan. They live in three isolated mountainous valleys: Bumburet, also called *Mumuret*; Rumbur, or *Rukmu*; and Birir, or *Biriu*. The valleys open toward the Chitral River, about 20 km south of Chitral town. Kalash villages stand at approximately 1,900–2,200 m. Kalasha is a Dardic Indo-Aryan language, closely related to Khowar, with an estimated 7,466 speakers according to the 2023 Census of Pakistan. The Kalash are significant in folk-culture studies because their religious practices, festivals, music, clothing, marriage customs, foodways and language differ in notable ways from those of the surrounding Muslim communities.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Cowrie-shell embroidery** — Kalasha women’s long black robes are often embroidered with cowrie shells. The sources identify this clothing as distinctive enough that women wearing it are known in Chitral as “the Black Kafirs.”
+
+**Horned headdress** — In Urtsun Valley, women wore a famous horned headdress associated with the Bashgul Valley. The source describes it as worn at times of ritual and dance.
+
+**P’acek** — The women of Urtsun wore their own *P’acek*, a headdress used at casual times, rather than the *Kup’as* headdress worn by women in other Kalash valleys.
+
+### Clothing & dress
+
+Kalasha women usually wear long black robes, often decorated with cowrie shells. This clothing has led to the name “the Black Kafirs” in Chitral. Men have adopted the Pakistani *shalwar kameez*, while children wear small versions of adult clothing after the age of four. The sources distinguish the women’s clothing of Urtsun Valley from that of the other Kalash valleys: Urtsun women did not wear the *Kup’as* headdress, but used the *P’acek* at casual times and a horned headdress during ritual and dance.
+
+### Architecture
+
+ They do describe the *bashaleni*, a village menstrual building where menstruating girls and women live until they regain their “purity,” and the *Jēṣṭak-hān*, a shrine or temple to the lineal or familial goddess Jēṣṭak.
+
+### Ceramics, metalwork & everyday objects
+
+ They do describe wooden and stone ritual objects: Mahandeo shrines are wooden boards with four carved horse heads, while Sajigor’s altars are made of stone and stand beneath old juniper, oak and cedar trees. The sources also mention grinding mills powered by the rivers of the valleys and irrigation channels used to water agricultural fields.
+
+### Jewelry & body adornment
+
+The sources document cowrie-shell embroidery on women’s long black robes.
+
+## Music & performance
+
+Kalasha traditional music consists mainly of flute-like instruments, usually high in pitch, together with singing, poetry, clapping and rhythmic drumming. Two named drums are *wãc* and *dãu*. The *wãc* is a small hourglass-shaped drum made from *chizhin*, or pine wood; *kuherik*, or pine nut wood; or *az’a’i*, or apricot-tree wood. It is played with the larger *dãu* during Kalasha dances. The *dãu* is a large drum whose sound is accompanied by the lighter counterpart of the *wãc*.
+
+The sources describe music in relation to Kalasha dances and ritual life. Singing and poetry form part of the musical practice, alongside clapping and the two drums. A traditional dance performance was presented during the visit of the Duke and Duchess of Cambridge to the Kalash people in November 2019.
+
+## Dance & theatre
+
+The sources refer to Kalasha dances and to traditional dance performances. Dance is associated with ritual occasions, and the Urtsun Valley horned headdress was worn at times of ritual and dance.
+
+## Festivals & rituals
+
+The Kalash religious calendar includes the winter festival *Chaumos*, which the culture hero Balumain taught the Kalash to celebrate. The sources also name *ucaw*, the harvest festival, and *zhoshi*, the spring festival. *Doa*, a cake of cheese made from the total milk received in one or two days, is prepared during *ucaw* and *zhoshi*. It is regarded as ritually pure and is eaten only by men.
+
+Kalash religious practice includes sacrifices and festivals giving thanks for the resources of the three valleys. Shrines and altars throughout the valleys receive goat sacrifices, while horses, goats and sheep are also sacrificed. Wine is described as a sacred drink of Indr. Kalash ritual may involve fire, sacred wood, three circumambulations and the *hotṛ*. The former institution of Kalash priests, called *ištikavan*, has disappeared, but shamans, or *dehar*, remain prominent in the description given by the source.
+
+Life-cycle customs include childbirth rituals and a restoration of “purity” after childbirth. Women give birth in the *bashaleni*, and the ritual that permits a woman to return to her husband requires the husband’s active participation. Girls are initiated into womanhood at an early age of four or five and are married at fourteen or fifteen. Marriage by elopement is frequent, and wife-elopement is counted among the “great customs,” or *ghōna dastūr*. Funeral custom is represented by the procession held for Mukadar, the last Kalash person in Jinjeret Kuh, who died in the early 1940s; people from Birir valley fired guns and beat drums while moving up the valley.
+
+## Foodways
+
+Agriculture in the Kalash valleys produces wheat, maize, grapes, apples, apricots and walnuts, with surplus fodder for livestock. The cuisine also includes apricots, grapes, mulberries, walnuts and wheat, alongside local Pakistani influences. Grapes are generally used for wine, which also has a sacred role in the worship of Indr.
+
+Named breads include *Bilili*, walnut bread made from batter mixed with nut meats and fried on a pan; *Jã’u*, a thick walnut bread sometimes containing cheese and baked beside a fire; *Kurau*, made from flour, wine and walnut meats; and *Capoti*, a thick bread made from dough set aside to season. *Pes’ sali au* is a large wheat or corn bread eaten with *gaz’agaz’i*, thick walnut butter, and given to men working in the fields. Other breads include *Tewreshak*, *Tasil’i*, *T’iki*, *Mos au*, *Mand’awarwac’*, *Shurukut’ulak* and *T’at’ori*.
+
+Cheese foods include *Gulak*, *Amishtyonu*, *Kuind’a*, *Kil’a’*, *Katak c’as’a*, *Sacõ’*, *Tsikir*, *Pandir* and *Doa*. Other foods include *Rhuta jã’*, coated walnuts; *Sonabanci*, a mixture of ground walnuts and mulberries; *Jã’gai*, walnut butter; and *Sat’uk*, an apple sauce made from ground, dried apples.
+
+## Oral tradition & literature
+
+Kalash oral tradition includes folk songs and epics. A tradition places the ancestral homeland at a location called “Tsiyam,” said to be near Jalalabad and Lughman according to Morgenstierne. Another tradition claims descent from the armies of Alexander, although the source states that no evidence exists that Alexander passed through the area. Kalash mythology and folklore contain elements closely related to Vedic mythology, and religious narratives include Indra, Yama Rājan, Imra, Balumain and other deities.
+
+The sources mention poetry as part of Kalasha traditional music. The development of practical literacy materials has been associated with the Kalasha linguist Taj Khan Kalash. The sources also mention the work of Gottlieb Wilhelm Leitner, Georg Morgenstierne and Elena Bashir on the language.
+
+## Language & religion
+
+Kalasha, also called Kalasha-mun and locally *Kal’as’amondr*, is a Dardic Indo-Aryan language spoken in the Chitral District of Khyber-Pakhtunkhwa province. Its closest relative is Khowar. Kalasha was formerly spoken across a larger area of southern Chitral but is now mostly confined to the western-side valleys, having lost ground to Khowar. The Southern Kalash, or Urtsun Kalash, shifted in the 20th century to a Khowar-influenced dialect called *Urtsuniwar*. The language retains archaic features including distinctions among plain, long, nasal and retroflex vowels and several older consonant clusters.
+
+Kalash religion is described as a form of animism and ancestor worship containing Indo-Iranian and pre-Vedic elements. The Kalasha people believe in one God, *Dezao*, while revering minor “gods,” or *Maloths*, also described as celestial beings. Important deities include Mahandeo, Imra, Indr, Sajigor, Balumain, Munjem Malék, Jestak, Dezalik, Krumai, Suchi, Varōti and Jach. Rituals take place at shrines and altars and involve sacrifices, sacred trees, wine, fire and sacred wood. Some Kalasha have converted to Islam, particularly through marriages with Muslims, while others maintain their own cultural and religious traditions.
+
+## Sources & further reading
+
+- Georg Morgenstierne, documentation cited in the Wikipedia articles on the Kalash people and Kalash religion.
+- Gottlieb Wilhelm Leitner, early linguistic work on Kalasha, as cited in the Wikipedia article on the Kalash language.
+- Elena Bashir, linguistic research on Kalasha, as cited in the Wikipedia article on the Kalash language.
+- Taj Khan Kalash, associated with the development of practical Kalasha literacy materials.
+
+- [Kalash people](https://en.wikipedia.org/wiki/Kalash_people)
+- [Kalash language](https://en.wikipedia.org/wiki/Kalash_language)
+- [Kalash cuisine](https://en.wikipedia.org/wiki/Kalash_cuisine)
+- [Kalash religion](https://en.wikipedia.org/wiki/Kalash_religion)
+
+- No UNESCO Intangible Cultural Heritage inscription was supplied for this group.
+- No museum catalogue records were supplied.

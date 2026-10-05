@@ -5,7 +5,12 @@ const cache = new Map<string, Promise<any | null>>();
 
 export function loadTerritory(key: string): Promise<any | null> {
   if (!cache.has(key)) {
-    cache.set(key, fetch(`/data/territories/${key}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null));
+    // A failed fetch is not cached, so the next hover retries it (a 404 while
+    // the site is being redeployed would otherwise hide the area until reload).
+    const p = fetch(`/data/territories/${key}.json`)
+      .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
+      .catch(() => { cache.delete(key); return null; });
+    cache.set(key, p);
   }
   return cache.get(key)!;
 }

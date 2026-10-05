@@ -1,0 +1,57 @@
+---
+title: "Toba Batak"
+subtitle: "Indonesia"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Toba, also known as Toba Batak, are one of the sub-ethnic groups of the Batak people, found mainly in North Sumatra, Indonesia. They are centered on Lake Toba and Samosir Island and are found in Toba Regency, Humbang Hasundutan Regency, Samosir Regency, North Tapanuli Regency, Central Tapanuli Regency, Sibolga and its surrounding regions, and part of Dairi Regency. Approximately 1,610,000 people speak Toba Batak, an Austronesian language spoken around Lake Toba and in North Sumatra province. The Toba Batak are associated with distinctive adat, the social principle *Dalihan Na Tolu*, traditional architecture, the *rumah bolon* house, the *solu* boat, Christian ceremonies, and performances such as Sigale Gale.
+
+## Material culture
+
+### Architecture
+
+The traditional house of the Toba people is called *rumah bolon*. It is a rectangular building that can house up to five or six families. Entry is through a staircase in the middle of the house, with an odd number of steps interpreted as indicating the offspring of a slave and an even number as indicating the offspring of a king. A person entering the house must bow to avoid striking the transverse beam at the entrance; this expresses the guest’s respect for the owner.
+
+Toba Batak people frequently build in traditional Batak architectural styles, which are common in Samosir.
+
+### Ceramics, metalwork & everyday objects
+
+The traditional boat of the Toba Batak people is the *solu*. It is a dugout canoe with boards added along the sides and bound with iron tacks. The boat is propelled by seated rowers who sit in pairs on cross seats.
+
+## Music & performance
+
+The Toba Batak are known throughout Indonesia as capable musicians.
+
+Music and Christianity are both connected with Toba Batak social and ceremonial life. Church hymns, psalms, and prayers are often involved in traditional ethnic Toba Batak ceremonies. Adat traditions are present in Christian ceremonies including baptism, confirmation, marriage, and burial. The Batak Christian Protestant Church, known in Indonesian as Huria Kristen Batak Protestan, is described as the largest Protestant church with Lutheranism in Indonesia and as the traditional church of the Toba Batak people. Protestant churches in Indonesia commonly provide services in the Toba Batak language.
+
+## Dance & theatre
+
+The sources mention Sigale Gale in connection with cultural demonstrations, performances, and festivities often held for tourists.
+
+No other named Toba Batak dance or dramatic tradition is documented in the sources used.
+
+## Festivals & rituals
+
+The Toba Batak practice adat, the customary system called *Dalihan Na Tolu*, or “The Three Legged Stove.” Toba Batak adat traditions are incorporated into Christian ceremonies such as baptism, confirmation, marriage, and burial. Church hymns, psalms, and prayers are also used in traditional ethnic Toba Batak ceremonies.
+
+The sources state that Christianity became influential in Toba Batak life after conversion during the 19th century. The first Bataks were baptized in 1861, and Ludwig Ingwer Nommensen reached the Batak region in 1864, founding a village called “Huta Dame,” meaning “village of peace,” in the district of Tapanuli in Tarutung, North Sumatra. They mention that Sigale Gale performances and festivities are often held for tourists, but give no date or ritual explanation.
+
+## Oral tradition & literature
+
+According to Batak folklore, the first ancestor of the Batak people was Si Raja Batak, meaning “King Batak” or “the King of Batak.” His origin is believed to be a Toba village known as Sianjur Mula village, situated on the slopes of Mount Pusuk Buhit, about 45 minutes’ drive from Pangururan, the capital of Samosir Regency today.
+
+The sources also describe the Toba Batak relationship to origin villages and ancestry. A person’s original village, or *Bius*, is called *Bona Pasogit*. Toba people commonly identify their origin through their *Bona Pasogit* in *Tano Batak*, or “The Batak Land,” rather than through their birthplace.
+
+## Language & religion
+
+Toba Batak is an Austronesian language spoken in North Sumatra province in Indonesia. It belongs to the Batak group of languages and is spoken to the east, west, and south of Lake Toba. Historically, it was written using the Batak script, while the Latin script is now used for most writing. In their own language, the Toba Batak refer to it as *Hata Batak*. The language has verb-initial VOS word order, while SVO word order is also very common.
+
+Most Toba people adhere to Protestantism, with Lutheranism as the largest denomination; Catholicism is the second largest religious belief among them. A minority adhere to Sunni Islam. Before conversion to Christianity, Toba Batak belief combined Animism and Hinduism with significant Islamic influence. *Ugamo Malim* developed from pre-Christian Toba Batak beliefs, customs, and practices, and its adherents are called Parmalim. Parmalims worship Debata Mula Jadi Nabolon, meaning “The Great Almighty God.”
+
+## Sources & further reading
+
+- [Toba Batak people — Wikipedia](https://en.wikipedia.org/wiki/Toba_Batak_people)
+- [Toba Batak language — Wikipedia](https://en.wikipedia.org/wiki/Toba_Batak_language)

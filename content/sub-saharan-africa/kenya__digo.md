@@ -1,0 +1,76 @@
+---
+title: "Digo"
+subtitle: "Kenya"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Digo, or Wadigo in Swahili, are a Bantu ethnic and linguistic group living along the Indian Ocean coast between Mombasa in southern Kenya and northern Tanga in Tanzania. In 1994 their population was estimated at 305,000, including 217,000 ethnic Digo in Kenya and 88,000 in Tanzania according to a 1987 estimate. Another estimate placed the ethnic Digo population at around 360,000 in 2004. The Digo speak Digo, also called Chidigo, a Bantu language closely connected with Swahili and the other Mijikenda languages. They are nearly all Muslims and are distinguished within the Mijikenda by the importance of matrilineal kinship, fuko clans, clan land, and the historical transformation of social authority through Islam and colonization.
+
+## Material culture
+
+### Textile & pattern traditions
+
+*Lesso* — a pair of cloth wraps, one worn as an outer skirt and the other as a head scarf or veil. The source describes the ability to afford new lesso twice a month as a marker of fashion and prestige, but gives no account of weaving, dyeing, or named patterns.
+
+No other documented textile or pattern-bearing tradition is covered by the sources used.
+
+### Clothing & dress
+
+The sources identify the *lesso* as two cloth wraps: one worn as an outer skirt and the other as a head scarf or veil. They particularly associate lesso with Digo women’s status, fashion, and economic dependence on spouses. Being able to buy new lesso twice a month as fashion changed was considered important because being in style was prestigious. They state that conversion to Islam altered how people dressed, ate, and conducted funerals, and that Muslim weddings came to confer high prestige on women.
+
+### Architecture
+
+The Digo historically lived in *kaya* towns and villages, later dispersing into sub-kaya and individual homesteads in the coastal plains. Kayas continued to function as places for final dispute resolution and as religious and ceremonial sites, although their importance to Digo society diminished after settlement patterns changed.
+
+### Ceramics, metalwork & everyday objects
+
+ They describe land, coconut trees, farms, and agricultural activity.
+
+### Jewelry & body adornment
+
+ They mention the lesso as clothing and a head scarf or veil, but provide no further description of adornment.
+
+## Music & performance
+
+ They mention religious ceremonies, sacrifices, weddings, funerals, and communal practices.
+
+## Dance & theatre
+
+ They state only that kayas served as religious and ceremonial sites and that Digo society included communal religious practices.
+
+## Festivals & rituals
+
+ They describe religious ceremonies and sacrifices connected with kayas, fields, the Spirits, and God. In accounts of agricultural movement, men went to the kaya, offered sacrifices to the Spirits, informed them of the decision, and asked God for favorable signs and blessings for the fields.
+
+The sources also discuss weddings and funerals as important social obligations. Digo society recognizes three types of marriage: the “Digo wedding,” the “Cattle Wedding,” and the “Swahili or Muslim Wedding.” The majority of women are now married in Muslim weddings, which came to be associated with high prestige. Attending weddings and funerals, regardless of distance or time required, is described as an important aspect of status.
+
+## Foodways
+
+ They state that the Digo economy was based mainly on agriculture and that annual crops were planted in particular locations before land was left fallow and later cultivated again. Coconut trees were important and remained the exclusive property of particular people or clans.
+
+The sources mention seafood in connection with nearby Swahili villages with nautical populations. They also state that game and pig were among the most important food options in conflicts over changing dietary rules after conversion to Islam. Islamic conversion altered how people ate, and the Digo are described as nearly all Muslim.
+
+## Oral tradition & literature
+
+The sources document one hundred Digo proverbs collected and published by Margaret Wambere Ireri, with translations into Swahili, English, and French. They also describe the production of a Digo-English-Swahili Dictionary and a linguistic description titled *A Grammar of Digo*. The Digo New Testament was finished in 2007, and basic literacy materials were produced through the Digo Language and Literacy Project of Bible Translation and Literacy in East Africa.
+
+Digo social knowledge is also expressed through oral accounts of land, kinship, inheritance, and social continuity. The sources record oral sources concerning the transmission of land and describe the question “whose people are you?” as a frequent first question between Digo people, answered by reference to the *mbari* or *fuko*.
+
+## Language & religion
+
+Digo, also called Chidigo, is a Bantu language spoken primarily along the East African coast between Mombasa and Tanga. It is classified as a dialect of Mijikenda, one of the constituent languages of the Sabaki group of Northeast Coast Bantu, and belongs to the southern Mijikenda subgroup. It is closely related to Duruma and Rabai. Named varieties include Chinondo, Ungu or Lungu, Ts’imba, and Tsw’aka or Chw’aka. Digo is normally written with an alphabet based on the Latin alphabet used for Swahili, with additional letter combinations for distinctive sounds. All adult Digo speakers are bilingual in Swahili.
+
+The Digo are Muslim, unlike the other Mijikenda peoples, and Digo began converting to Islam in the early nineteenth century. The majority were Muslim by the 1940s, although other passages describe most conversion as occurring in the 1920s. Islam spread through economic contacts with coastal Muslim traders and through Muslim healers who also acted as religious teachers. Digo religious and social life remained connected with matrilineal kinship, *fuko* clans, *mbari* families, kayas, communal practices, and sacrifices.
+
+## Sources & further reading
+
+- Hinnebusch, T.J. (1973). *Prefixes, Sound Change, and Sub grouping in the Coastal Kenyan Bantu Languages*. UCLA.
+- Mwalonya, J.; Nicolle, A.; Nicolle, S.; Zimbu, J. (2004). *Mgombato: Digo-English-Swahili Dictionary*. Nairobi: BTL.
+- Nicolle, Steve (2013). *A Grammar of Digo: A Bantu language of Kenya and Tanzania*. Dallas, TX: SIL International.
+- Nurse, D.; Hinnebusch, T.J. (1993). *Swahili and Sabaki: A Linguistic History*. University of California Publications in Linguistics, Vol. 121. University of California Press.
+- Digo Language and Literacy Project of Bible Translation and Literacy (East Africa).
+- [Digo people](https://en.wikipedia.org/wiki/Digo_people)
+- [Digo language](https://en.wikipedia.org/wiki/Digo_language)

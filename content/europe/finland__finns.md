@@ -1,0 +1,45 @@
+---
+title: "Finns"
+subtitle: "Finland"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Finns, also called Finnish people, are a Baltic Finnic ethnic group native to Finland. Finnish communities and related regional groups also extend into Sweden, Russia, and Norway, including Tornedalians, Forest Finns, Kvens, and Ingrian Finns. Approximately 6–7 million ethnic Finns and their descendants live worldwide, with most in Finland and surrounding countries; Finnish diaspora communities are also established in Australia, Canada, New Zealand, Brazil, and the United States. Finnish belongs to the Balto-Finnic subgroup of the Uralic language family and is closely related to Estonian and Karelian. Finnish folk culture has developed through regional dialect and *heimo* identities, agriculture, fishing, hunting, forest livelihoods, Christianity, and material traditions whose origins are sometimes unclear.
+
+## Material culture
+
+### Ceramics, metalwork & everyday objects
+
+Finnish material culture is described only in broad historical terms. Finnish material culture became independent of the wider Baltic Finnic culture in the 6th and 7th centuries, and by the turn of the 8th century the culture of metal objects prevailing in Finland had developed in its own way.
+
+## Music & performance
+
+The sources name the *kantele*, an instrument of the zither family, but state that its origins have remained rather obscure. No Finnish song genres, performance contexts, musical ensembles, or other instruments are described.
+
+## Festivals & rituals
+
+Christianity spread to Finland from the Medieval times onward, and original native traditions of Finnish paganism became extinct. Finnish paganism combined Finnic, Norse, Germanic, and Baltic elements. Finnic Jumala was described as a sky-god shared with Estonia, while Ukko or Perkele was associated with thunder. Ahti was connected with waterways, Tapio with forests, and local animistic deities called *haltija* received offerings. Bear worship is also mentioned. Finnish neopaganism, or *suomenusko*, attempts to revive these traditions.
+
+## Foodways
+
+The sources describe agriculture, fishing, and hunting as traditional Finnish livelihoods. Slash-and-burn agriculture was practiced in the forest-covered east by Eastern Finns until the 19th century. No staple foods, cooking methods, named dishes, ceremonial foods, beverages, or dietary rules are identified.
+
+## Oral tradition & literature
+
+The sources state that the Finnish language reached a written form only in the 16th century and that little primary data remains about early Finnish life. They mention the *Eddas* and Norse sagas as written sources using words such as *finnr* and *Finnas*, though these works are not presented as Finnish literature. Two rune stones are discussed in connection with early written references to western Finland: the lost stone at Söderby-Karls church in Norrtälje Municipality, Sweden, with the inscription *finlont* (U 582), and the memorial stone at Rute church on Gotland (G 319).
+
+## Language & religion
+
+Finnish is a Balto-Finnic language within the larger Uralic family, alongside languages such as Estonian and Karelian. Regional dialect identities have traditionally been expressed through *heimo*, meaning “tribe,” although these divisions have become less important because of internal migration. Western and Eastern Finnish divisions are associated with dialect and local culture, including Finns proper, Tavastians, Ostrobothnians, Lapland Finns, Finnish Karelians, Savonians, and Kainuu Finns. Finnish, like other Baltic Finnic languages, retained Finno-Ugric roots while changing during migration and settlement. It acquired a written form in the 16th century.
+
+Christianity was introduced from both the west and the east. Swedish kings conquered western parts of Finland in the late 13th century and imposed Roman Catholicism. During the Reformation in Sweden, bishop Mikael Agricola introduced written Finnish. When Finland became independent, it was overwhelmingly Lutheran Protestant, while Eastern Orthodox Finns also formed a minority. In 2017, 70.9% of Finland’s population belonged to the Evangelical Lutheran Church of Finland, 1.1% to the Finnish Orthodox Church, 1.6% to other religious groups, and 26.3% had no religious affiliation.
+
+## Sources & further reading
+
+- Wikipedia, [“Finns”](https://en.wikipedia.org/wiki/Finns)
+- Wikipedia, [“Finnish language”](https://en.wikipedia.org/wiki/Finnish_language)
+- Wikipedia, [“Finland”](https://en.wikipedia.org/wiki/Finland)
+- No UNESCO Intangible Cultural Heritage inscription was supplied for this group or country.
