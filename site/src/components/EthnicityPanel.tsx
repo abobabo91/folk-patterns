@@ -575,10 +575,10 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
           {/* An unreviewed-only culture has no other content; its candidates
               are the page. Existing vetted cultures keep this section last. */}
           {shard && point && unvettedOnly && (
-            <UnvettedSection ethKey={point.key} count={shard.unvetted_count ?? 0} openByDefault />
+            <UnvettedSection key={point.key} ethKey={point.key} count={shard.unvetted_count ?? 0} openByDefault />
           )}
           {shard && point && !unvettedOnly && (shard.unvetted_count ?? 0) > 0 && (
-            <UnvettedSection ethKey={point.key} count={shard.unvetted_count ?? 0} />
+            <UnvettedSection key={point.key} ethKey={point.key} count={shard.unvetted_count ?? 0} />
           )}
 
           {!shard && (

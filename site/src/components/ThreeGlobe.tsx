@@ -283,11 +283,12 @@ function Markers({
                 setHoveredKey((k) => (k === it.key ? null : k));
               }}
             >
-              <sphereGeometry args={[it.coreRadius, 16, 16]} />
+              {/* A hovered marker grows and turns opaque, so it is the one a click picks. */}
+              <sphereGeometry args={[it.coreRadius * (hovered ? 1.8 : 1), 16, 16]} />
               <meshBasicMaterial
                 color={active ? '#f4efe6' : '#e0a94a'}
-                transparent={it.unvetted_only}
-                opacity={it.unvetted_only ? 0.4 : 1}
+                transparent={it.unvetted_only && !hovered}
+                opacity={it.unvetted_only && !hovered ? 0.4 : 1}
               />
             </mesh>
             {/* Soft halo — 1.7x core radius, small opacity, doesn't overwhelm */}

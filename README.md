@@ -131,6 +131,7 @@ python scripts/world_peoples.py europeana-objects
 python scripts/normalize_kinds.py --world
 python scripts/world_peoples.py candidates
 python scripts/unvetted.py resolve
+python scripts/unvetted.py places
 python scripts/unvetted.py build
 python scripts/build_index.py
 python scripts/world_peoples.py gaps
@@ -142,8 +143,8 @@ Europeana evidence record (`UNVETTED_MIN_EVIDENCE`) can instead be marked `unvet
 `data/world/onboard_queue.json` marks it as an umbrella or duplicate. Those
 cultures receive quiet globe markers and text-matched museum candidates, but
 no vetted objects, writeup, or facets. `unvetted.py build` creates a quiet stub
-shard when no existing atlas ethnicity matches; country-matched stubs are
-placed at a deterministic jitter around the country's polygon centroid.
+shard when no existing atlas ethnicity matches, placed as described under
+Stub placement below.
 A stub is written only when at least one candidate resolves to an image; a
 people with nothing to show stays off the map. Matching reads only vetted
 shards: `build_index.py` writes the stubs into `data/ethnicities/` too, and a
@@ -163,10 +164,22 @@ at 214 living peoples, 113 with evidence, 73 on the site, and South Asia at
 116, 80, 62. The rest have no
 record under any of their names in the current sources.
 
-Stub placement: Russia's atlas cultures are Siberian, so a Russian people the
-classifier puts in Europe is filed under `europe` at a European Russia point,
-and a North Caucasus people at a Caucasus point, instead of the country
-centroid in Siberia. Europeana tiles load through Europeana's thumbnail
+Stub placement: `unvetted.py places` asks local Codex for each stub's homeland
+point and caches it in `data/world/stub_places.json`. Against the stubs with a
+Wikidata coordinate it was a median 113 km off (62 checked) where the country
+centroid was 325 km. A point is used when it lies inside the country's polygon
+or within 500 km of it (1,500 km for India, whose polygon lacks the Andaman and
+Nicobar Islands), or the country is in `_OVERSEAS`; a point that only fits
+with its latitude negated is flipped (Codex returned Angola's Ovimbundu at
+12.8 N). On 2026-10-05 608 of 615 points were used. A distance to the centroid
+is no test: Russia's lies in Siberia, 3,000+ km from the Kalmyks. Without a
+point, a European Russian people goes to a European Russia point, a North
+Caucasus people to a Caucasus point, anything else to the jittered centroid.
+`build_index.py` then pushes apart markers that would still cover each other
+(golden-angle spiral, 0.6 degrees between stubs, 0.15 between vetted cultures,
+vetted placed first); on 2026-10-05 that moved 125 stubs, at most 142 km.
+On the map a hovered marker grows 1.8x and turns opaque, and an invisible
+9 px hit layer takes clicks, since unreviewed dots are only 2.5 px. Europeana tiles load through Europeana's thumbnail
 service: Finnish Heritage Agency originals answer 401. The Met sits behind
 Imperva, which blocked a long `resolve` run after ~2,000 requests; `resolve`
 throttles Met calls, leaves blocked ones uncached and starts a fresh client.

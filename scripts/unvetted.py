@@ -276,6 +276,7 @@ def _candidate_name(candidate: dict, pick_name: str = "") -> str:
 
 
 _SHARDS: list[tuple[dict, set[str]]] | None = None
+_PLACES: dict[str, dict] = {}
 
 
 def _vetted_shards() -> list[tuple[dict, set[str]]]:
@@ -374,6 +375,43 @@ _COUNTRY_ALIASES = {
 _EUROPEAN_RUSSIA = (59.0, 42.0)
 _NORTH_CAUCASUS = (43.2, 45.0)
 _COUNTRY_POINTS = {"Samoa": (-13.76, -172.1), "Tonga": (-21.18, -175.2), "Maldives": (3.2, 73.22)}
+
+
+def _country_rings(country: str) -> list[list]:
+    """Outer rings ([lon, lat] pairs) of the country's polygons; [] when unknown."""
+    if _country_centroid(country) is None:
+        return []
+    plain = country.split("(", 1)[0].strip()
+    wanted = _norm(_COUNTRY_ALIASES.get(plain, plain))
+    for data in _GEOJSON.values():
+        for feature in data.get("features", []):
+            if _norm(str((feature.get("properties") or {}).get("name") or "")) != wanted:
+                continue
+            geometry = feature.get("geometry") or {}
+            coordinates = geometry.get("coordinates") or []
+            if geometry.get("type") == "Polygon":
+                return [coordinates[0]] if coordinates else []
+            if geometry.get("type") == "MultiPolygon":
+                return [polygon[0] for polygon in coordinates if polygon]
+    return []
+
+
+def _near_country(country: str, point: tuple[float, float], km: float = 500) -> bool | None:
+    """Inside the country's polygon or within `km` of its border; None when the
+    country has no polygon. A distance to the centroid cannot stand in: Russia's
+    centroid is in Siberia, 3,000+ km from the Kalmyks and the Vepsians."""
+    rings = _country_rings(country)
+    if not rings:
+        return None
+    lat, lon = point
+    for ring in rings:
+        inside = False
+        for (x1, y1), (x2, y2) in zip(ring, ring[1:] + ring[:1]):
+            if (y1 > lat) != (y2 > lat) and lon < x1 + (lat - y1) * (x2 - x1) / (y2 - y1):
+                inside = not inside
+        if inside:
+            return True
+    return any(_km(point, (y, x)) <= km for ring in rings for x, y in ring)
 
 
 def _country_centroid(country: str, geojson_path: Path | None = None) -> tuple[float, float] | None:
@@ -477,13 +515,30 @@ def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dic
     region = country_regions.get(_norm(country)) or _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
     # Russia's atlas cultures are Siberian, so its majority region and its
     # centroid put Komi, Udmurts and Vepsians in Siberia and the Avars there too.
-    if country == "Russia" and "caucasus" in str(candidate.get("region") or "").casefold():
+    place = _PLACES.get(str(candidate.get("key") or ""))
+    if place and country not in _OVERSEAS:
+        km = _OFFSHORE_KM.get(country, 500)
+        near = _near_country(country, (place["lat"], place["lon"]), km)
+        if near is False and _near_country(country, (-place["lat"], place["lon"]), km):
+            # Codex drops the minus sign now and then: Ovimbundu came back as 12.8 N.
+            place = {**place, "lat": -place["lat"]}
+        elif near is False or (near is None and _km((place["lat"], place["lon"]), centroid) > 3000):
+            place = None   # implausibly far from the country
+    if place:
+        # A homeland point replaces the centroid; the Russian overrides below
+        # only stand in for a missing one.
+        centroid = (place["lat"], place["lon"])
+        if country == "Russia":
+            region = _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
+    elif country == "Russia" and "caucasus" in str(candidate.get("region") or "").casefold():
         centroid = _NORTH_CAUCASUS
     elif country == "Russia" and str(candidate.get("continent") or "") == "Europe":
         region, centroid = "europe", _EUROPEAN_RUSSIA
     name = _stub_name(candidate)
     lat, lon = centroid
     dlat, dlon = _stub_jitter(str(candidate.get("key") or name))
+    if place:   # small jitter only; build_index spreads markers that still overlap
+        dlat, dlon = dlat / 6, dlon / 6
     return {
         "ethnicity_key": _stub_key(region, country, name),
         "people_key": str(candidate.get("key") or ""),
@@ -517,8 +572,9 @@ def _object_url(source: str, oid: str) -> str:
 
 
 def cmd_build(only: list[str]) -> None:
-    global _SHARDS
+    global _SHARDS, _PLACES
     _SHARDS = None
+    _PLACES = _places()
     wanted = {x.casefold() for x in only}
     candidates = [r for r in _jsonl(WORLD_DIR / "candidates.jsonl") if _only(r, wanted)]
     coverage = _coverage()
@@ -625,8 +681,77 @@ def cmd_build(only: list[str]) -> None:
     print(f"Total: {sum(final_index.values())}", flush=True)
 
 
+PLACES_PATH = WORLD_DIR / "stub_places.json"
+PLACES_RAW = WORLD_DIR / "stub_places_raw.jsonl"
+PLACES_PROMPT = """For each people below, give the latitude and longitude of the centre of its main
+traditional homeland (where most of its communities live), as decimal degrees.
+One entry per line number.
+
+{lines}"""
+PLACES_SCHEMA = {"type": "object", "additionalProperties": False, "required": ["entries"], "properties": {
+    "entries": {"type": "array", "items": {"type": "object", "additionalProperties": False,
+                                           "required": ["i", "lat", "lon"],
+                                           "properties": {"i": {"type": "integer"}, "lat": {"type": "number"},
+                                                          "lon": {"type": "number"}}}}}}
+# Countries whose peoples live far from the mainland polygon (Guam, Greenland,
+# Réunion, Easter Island): their homelands skip the distance check.
+_OVERSEAS = {"United States", "France", "United Kingdom", "Netherlands", "Denmark", "Chile", "New Zealand",
+             "Australia", "Spain", "Portugal", "Ecuador", "Norway"}
+# The country polygons leave out some island groups: India's has no Andaman
+# and Nicobar Islands, so Onge and Shompen sit ~1,000 km off its border.
+_OFFSHORE_KM = {"India": 1500}
+
+
+def _places() -> dict[str, dict]:
+    try:
+        return json.loads(PLACES_PATH.read_text(encoding="utf-8")) if PLACES_PATH.exists() else {}
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def cmd_places(batch: int = 60) -> None:
+    """Homeland points for stub cultures from local Codex, cached in
+    data/world/stub_places.json. Checked 2026-10-05 against the 25 stubs with a
+    Wikidata coordinate (P625 or P2341): median 143 km off, against 325 km for
+    the jittered country centroid (113 km against 325 km on 62).
+    Wikidata itself is noisy there (Slovaks put
+    8,457 km away), so it is not used as the truth for placement."""
+    from folk_patterns.codex_cli import ask
+    stubs = json.loads((UNVETTED_DIR / "stubs.json").read_text(encoding="utf-8"))
+    cache = _places()
+    todo = [s for s in stubs if s["people_key"] not in cache]
+    print(f"places: {len(todo)} stubs to place ({len(cache)} cached)", flush=True)
+    for n in range(0, len(todo), batch):
+        part = todo[n:n + batch]
+        lines = "\n".join(f"{i}. {s['ethnicity']} ({s['country']}) [{s['people_key']}]" for i, s in enumerate(part))
+        try:
+            text = ask(PLACES_PROMPT.format(lines=lines), schema=PLACES_SCHEMA, timeout=900)
+        except Exception as exc:  # one failed batch must not stop the run
+            print(f"  batch {n}: {type(exc).__name__}", flush=True)
+            continue
+        with PLACES_RAW.open("a", encoding="utf-8") as f:
+            f.write(json.dumps({"batch": [s["people_key"] for s in part], "reply": text}, ensure_ascii=False) + "\n")
+        try:
+            entries = json.loads(text).get("entries") or []
+        except json.JSONDecodeError:
+            print(f"  batch {n}: unparsable reply", flush=True)
+            continue
+        for e in entries:
+            if isinstance(e.get("i"), int) and 0 <= e["i"] < len(part):
+                cache[part[e["i"]]["people_key"]] = {"lat": float(e["lat"]), "lon": float(e["lon"]), "source": "codex"}
+        PLACES_PATH.write_text(json.dumps(cache, indent=1, ensure_ascii=False), encoding="utf-8")
+        print(f"  {min(n + batch, len(todo))}/{len(todo)} placed", flush=True)
+
+
+def _km(a: tuple[float, float], b: tuple[float, float]) -> float:
+    import math
+    la1, lo1, la2, lo2 = map(math.radians, [a[0], a[1], b[0], b[1]])
+    h = math.sin((la2 - la1) / 2) ** 2 + math.cos(la1) * math.cos(la2) * math.sin((lo2 - lo1) / 2) ** 2
+    return 6371 * 2 * math.asin(math.sqrt(h))
+
+
 def main() -> None:
-    sys.stdout.reconfigure(line_buffering=True)
+    sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="command", required=True)
     resolve = sub.add_parser("resolve", help="cache details for unvetted candidates")
@@ -634,9 +759,12 @@ def main() -> None:
     resolve.add_argument("--limit", type=int, default=0)
     build = sub.add_parser("build", help="write site-facing unvetted shards")
     build.add_argument("--only", nargs="*", default=[])
+    sub.add_parser("places", help="homeland points for stub cultures (local Codex, cached)")
     args = ap.parse_args()
     if args.command == "resolve":
         cmd_resolve(args.only, args.limit)
+    elif args.command == "places":
+        cmd_places()
     else:
         cmd_build(args.only)
 

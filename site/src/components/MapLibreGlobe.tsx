@@ -60,7 +60,7 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
           },
         })),
       } as any;
-      map.addSource('ethnicities', { type: 'geojson', data: geojson });
+      map.addSource('ethnicities', { type: 'geojson', data: geojson, promoteId: 'key' });
       const bounds = new maplibregl.LngLatBounds();
       points.forEach((p) => bounds.extend([p.lon, p.lat]));
       if (!bounds.isEmpty()) {
@@ -95,17 +95,29 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         type: 'circle',
         source: 'ethnicities',
         paint: {
-          'circle-radius': [
-            'case', ['get', 'unvetted'], 2.5,
-            ['interpolate', ['linear'], ['get', 'count'],
-            0, 3.5, 5, 4, 15, 5.5, 30, 7, 60, 9, 120, 11,
+          // A hovered marker grows and turns opaque, so the one under the
+          // pointer is the one a click selects.
+          'circle-radius': ['*',
+            ['case', ['boolean', ['feature-state', 'hover'], false], 1.8, 1],
+            ['case', ['get', 'unvetted'], 2.5,
+              ['interpolate', ['linear'], ['get', 'count'],
+              0, 3.5, 5, 4, 15, 5.5, 30, 7, 60, 9, 120, 11,
+              ],
             ],
           ],
           'circle-color': '#e0a94a',
-          'circle-opacity': ['case', ['get', 'unvetted'], 0.4, 1],
+          'circle-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 1,
+            ['get', 'unvetted'], 0.4, 1],
           'circle-stroke-color': '#0a0a0c',
           'circle-stroke-width': 1.2,
         },
+      });
+      // Invisible hit area: unreviewed dots are 2.5 px, too small to aim at.
+      map.addLayer({
+        id: 'eth-hit',
+        type: 'circle',
+        source: 'ethnicities',
+        paint: { 'circle-radius': 9, 'circle-opacity': 0 },
       });
       map.addLayer({
         id: 'eth-label',
@@ -132,7 +144,7 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         },
       });
 
-      map.on('click', 'eth-dot', (e) => {
+      map.on('click', 'eth-hit', (e) => {
         const f = e.features?.[0];
         if (!f) return;
         onSelect((f.properties as any).key);
@@ -140,18 +152,28 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         map.flyTo({ center: coords, zoom: 5, speed: 0.8 });
       });
       const hover = new maplibregl.Popup({ closeButton: false, closeOnClick: false, offset: 10, className: 'eth-hover' });
-      map.on('mouseenter', 'eth-dot', (e) => {
+      let hovered: string | null = null;
+      const setHover = (key: string | null) => {
+        if (hovered === key) return;
+        if (hovered) map.setFeatureState({ source: 'ethnicities', id: hovered }, { hover: false });
+        hovered = key;
+        if (key) map.setFeatureState({ source: 'ethnicities', id: key }, { hover: true });
+      };
+      map.on('mousemove', 'eth-hit', (e) => {
         map.getCanvas().style.cursor = 'pointer';
         const f = e.features?.[0];
         if (!f) return;
         const pr = f.properties as any;
+        if (hovered === pr.key) return;
+        setHover(pr.key);
         hover
           .setLngLat((f.geometry as any).coordinates)
           .setHTML(`<strong>${pr.ethnicity}</strong> <span>${pr.country} · ${pr.unvetted ? 'unreviewed' : `${pr.count} objects`}</span>`)
           .addTo(map);
       });
-      map.on('mouseleave', 'eth-dot', () => {
+      map.on('mouseleave', 'eth-hit', () => {
         map.getCanvas().style.cursor = '';
+        setHover(null);
         hover.remove();
       });
     });

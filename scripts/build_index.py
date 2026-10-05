@@ -167,6 +167,42 @@ def _ethnicity_key(region: str, country: str, ethnicity: str) -> str:
     return f"{slugify(region)}__{slugify(country)}__{slugify(ethnicity)}"
 
 
+# Markers closer than this (degrees) cover each other and cannot be clicked.
+# A stub keeps this distance from every marker; vetted cultures, whose
+# homelands are curated, only move when they sit almost exactly on another.
+_STUB_SEP = 0.6
+_VETTED_SEP = 0.15
+
+
+def _spread_markers(eth_meta: dict[str, dict]) -> None:
+    """Move markers off one another along a deterministic spiral."""
+    import math
+
+    placed: list[tuple[float, float]] = []
+
+    def too_close(lat: float, lon: float, sep: float) -> bool:
+        k = math.cos(math.radians(lat))
+        return any((lat - a) ** 2 + ((lon - b) * k) ** 2 < sep * sep for a, b in placed)
+
+    def place(meta: dict, sep: float) -> None:
+        h = meta.get("homeland") or {}
+        if h.get("lat") is None or h.get("lon") is None:
+            return
+        lat, lon = float(h["lat"]), float(h["lon"])
+        step = 0
+        while too_close(lat, lon, sep) and step < 400:
+            step += 1
+            angle, radius = step * 2.39996, sep * math.sqrt(step) * 0.8   # golden-angle spiral
+            lat = float(h["lat"]) + radius * math.sin(angle)
+            lon = float(h["lon"]) + radius * math.cos(angle) / max(0.2, math.cos(math.radians(float(h["lat"]))))
+        meta["homeland"] = {**h, "lat": round(max(-89.0, min(89.0, lat)), 4), "lon": round(lon, 4)}
+        placed.append((meta["homeland"]["lat"], meta["homeland"]["lon"]))
+
+    metas = sorted(eth_meta.values(), key=lambda m: (bool(m.get("stub")), m["key"]))
+    for meta in metas:
+        place(meta, _STUB_SEP if meta.get("stub") else _VETTED_SEP)
+
+
 def build() -> None:
     seeds = load_all_seeds()
     # A new scrape must pass the image judge before any public shards are
@@ -225,6 +261,7 @@ def build() -> None:
             "unvetted_only": True,
             "stub": True,
         }
+    _spread_markers(eth_meta)
 
     # Majority ethnicity per country — used as the fallback bucket for records
     # that were tagged with country=ethnicity or _regional and don't have a
