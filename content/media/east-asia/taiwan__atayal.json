@@ -267,7 +267,15 @@
         "height": 824,
         "quality_tier": 0,
         "source_category": "(Wikipedia article)",
-        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/f/ff/Rattan_Hat.png?utm_source=co"
+        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/f/ff/Rattan_Hat.png?utm_source=co",
+        "vetted": true,
+        "vetted_art_form": "garment",
+        "vetted_by": "codex-gpt-5.6-luna",
+        "vetted_image": "good",
+        "vetted_era": "traditional",
+        "editorial_reviewed": false,
+        "editorial_reviewer": "codex-editorial-2026-10-05",
+        "editorial_reason": "FAIL: The image shows a rattan hat, but the title and source category provide no specific link to the Atayal people."
       },
       {
         "title": "1AForestforaMoonDazzler 12.jpg",

@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The index has 10 regions, 460 cultures and 17,871 objects (2026-10-04). Maya, Betsimisaraka and 8 peoples rescued by new source rules and a higher per-category limit (Shuar, Kiga, Diola, Wichita, Cherokee, Choctaw, Rizeigat, Ambonese) were added on 2026-10-04, written and reviewed by local Codex. The 237 before them came from pick batch p003 (`docs/vetting.md` → "Pick coverage"), each with at least 5 vetted objects; their profiles were written from sources only (57 in a cloud session, 180 by local Codex) and pass the term-and-number audit. 25 queue peoples still keep fewer than 5 objects and stay in `data/world/pick_coverage.jsonl` for a later round. The onboarding queue is `data/world/onboard_queue.json` (nations such as Japanese or French and umbrella names that duplicate atlas cultures are skipped, with the reason). The site publishes 1,795 editorially reviewed Commons photos; 46 photos failed to download and await a model verdict. Object images are on R2. The site is https://folk-patterns.vercel.app.
+**Status:** The index has 10 regions, 460 cultures and 17,871 objects (2026-10-04). Maya, Betsimisaraka and 8 peoples rescued by new source rules and a higher per-category limit (Shuar, Kiga, Diola, Wichita, Cherokee, Choctaw, Rizeigat, Ambonese) were added on 2026-10-04, written and reviewed by local Codex. The 237 before them came from pick batch p003 (`docs/vetting.md` → "Pick coverage"), each with at least 5 vetted objects; their profiles were written from sources only (57 in a cloud session, 180 by local Codex) and pass the term-and-number audit. 25 queue peoples still keep fewer than 5 objects and stay in `data/world/pick_coverage.jsonl` for a later round. The onboarding queue is `data/world/onboard_queue.json` (nations such as Japanese or French and umbrella names that duplicate atlas cultures are skipped, with the reason). The site publishes 1,820 editorially reviewed Commons photos (the last 46 that had failed to download were judged by local Codex on 2026-10-05: 28 accepted, 25 of them passed the editorial check). Object images are on R2. The site is https://folk-patterns.vercel.app.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -158,8 +158,11 @@ Tanzania, North Macedonia, Côte d'Ivoire, Serbia) are aliased in
 points.
 
 State on 2026-10-05 (`report --threshold 6`): 1,335 peoples with evidence,
-580 listed, 755 unreviewed-only. 615 of those have at least one resolvable
-image and appear as stub cultures; the site carries 70,032 unreviewed
+580 listed, 755 unreviewed-only. 614 of those have at least one resolvable
+image and appear as stub cultures (Nzema left on 2026-10-05: its 5 British Museum
+objects came from the Wikidata alias "Zimba", a different people, and its
+country was misclassified as Guinea-Bissau; both are corrected in
+`data/world/`); the site carries 70,032 unreviewed
 objects, 2,269 of them in "Other, uncategorised" after the object names were
 mapped to kinds by local Codex (`FOLK_LLM_BACKEND=codex python scripts/normalize_kinds.py --world`,
 5,682 names on 2026-10-05; before it 10,513 were uncategorised). `docs/gaps.md` shows Europe

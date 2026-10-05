@@ -136,7 +136,15 @@
         "height": 791,
         "quality_tier": 0,
         "source_category": "(Wikipedia article)",
-        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/2/23/Belle_femme_senoufo.jpg?utm_"
+        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/2/23/Belle_femme_senoufo.jpg?utm_",
+        "vetted": true,
+        "vetted_art_form": "photo",
+        "vetted_by": "codex-gpt-5.6-luna",
+        "vetted_image": "good",
+        "vetted_era": "traditional",
+        "editorial_reviewed": true,
+        "editorial_reviewer": "codex-editorial-2026-10-05",
+        "editorial_reason": "The title identifies the woman as Senufo, and the image visibly shows Senufo cultural fashion and adornment."
       },
       {
         "title": "Senufo languages.png",
@@ -150,7 +158,12 @@
         "height": 906,
         "quality_tier": 0,
         "source_category": "(Wikipedia article)",
-        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/9/94/Senufo_languages.png?utm_sou"
+        "vetted_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/9/94/Senufo_languages.png?utm_sou",
+        "vetted": false,
+        "vetted_art_form": "painting-mss",
+        "vetted_by": "codex-gpt-5.6-luna",
+        "vetted_image": "good",
+        "vetted_era": "modern"
       },
       {
         "title": "Figure, Senufo, used for deceased elder males of the Poro Society - Glenbow Museum - DSC00212.JPG",
