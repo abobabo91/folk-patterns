@@ -164,7 +164,7 @@ const AF_LABEL: Record<string, string> = {
   photo: 'Photographs',
 };
 
-function MediaSection({ shard }: { shard: EthnicityShard }) {
+function MediaSection({ shard, unreviewed = false }: { shard: EthnicityShard; unreviewed?: boolean }) {
   const photos = shard.commons_photos ?? [];
   const ich = shard.unesco_ich ?? [];
   const folkways = shard.folkways ?? [];
@@ -172,7 +172,9 @@ function MediaSection({ shard }: { shard: EthnicityShard }) {
     <div className="mt-10 border-t border-dusk pt-6 space-y-8">
       {photos.length > 0 && (
         <section>
-          <h3 className="mb-3 font-serif text-lg font-medium">Photographs (Wikimedia Commons)</h3>
+          <h3 className="mb-3 font-serif text-lg font-medium">
+            Photographs (Wikimedia Commons{unreviewed ? ', unreviewed' : ''})
+          </h3>
           <div className="grid grid-cols-3 gap-1.5">
             {photos.map((p) => (
               <a
@@ -200,7 +202,9 @@ function MediaSection({ shard }: { shard: EthnicityShard }) {
             ))}
           </div>
           <p className="sub-mono mt-2 text-[10px]">
-            Sourced from the Wikipedia article for this group + curated Commons categories.
+            {unreviewed
+              ? "Picked automatically from this people's Commons categories and Wikipedia article; not checked by a person."
+              : 'Sourced from the Wikipedia article for this group + curated Commons categories.'}
           </p>
         </section>
       )}
@@ -559,7 +563,10 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
                       <p className="sub-meta mt-2 text-sm">{shard?.unvetted_count} unreviewed objects</p>
                     </>
                   ) : (
-                    <p className="mt-2 text-sm text-amber-400">No museum objects found yet</p>
+                    <p className="mt-2 text-sm text-amber-400">
+                      No museum objects found yet
+                      {shard?.commons_photos?.length ? ` · ${shard.commons_photos.length} unreviewed photos` : ''}
+                    </p>
                   )}
                 </>
               ) : (
@@ -601,6 +608,7 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
           {!unvettedOnly && shard && (shard.commons_photos?.length || shard.unesco_ich?.length || shard.folkways?.length) ? (
             <MediaSection shard={shard} />
           ) : null}
+          {unvettedOnly && shard?.commons_photos?.length ? <MediaSection shard={shard} unreviewed /> : null}
 
           {/* An unreviewed-only culture has at most a Wikipedia-based writeup
               above; its candidates, if any, are the rest of the page. Existing vetted cultures keep this section last. */}

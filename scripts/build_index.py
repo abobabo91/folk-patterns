@@ -675,7 +675,9 @@ def build() -> None:
                         interleaved.append(by_trad[t].pop(0))
             return [{k: v for k, v in it.items() if not k.startswith("_")} for it in interleaved]
         writeup_md = _load_writeup(meta["region"], meta["country"], meta["ethnicity"])
-        media = {} if meta.get("stub") else _load_media(meta["region"], meta["country"], meta["ethnicity"])
+        # Stubs have a sidecar only from stub_commons.py: Commons photos that
+        # passed its one contact-sheet check, shown as unreviewed material.
+        media = _load_media(meta["region"], meta["country"], meta["ethnicity"])
 
         # Fallback: if the museum-object gallery is empty or very thin, promote
         # a few curated Wikipedia-Commons photos into a "photo" gallery bucket.
