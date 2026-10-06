@@ -7,6 +7,7 @@ export interface GlobePoint {
   lat: number;
   lon: number;
   object_count: number;
+  unvetted_count?: number;
   unvetted_only?: boolean;
   seed_traditions: string[];
   top_image: string | null;

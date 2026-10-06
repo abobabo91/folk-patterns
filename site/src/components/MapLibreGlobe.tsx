@@ -73,8 +73,7 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
             key: p.key,
             ethnicity: p.ethnicity,
             country: p.country,
-            count: Math.max(1, p.object_count),
-            unvetted: !!p.unvetted_only,
+            count: p.object_count + (p.unvetted_count ?? 0),
           },
         })),
       } as any;
@@ -107,13 +106,11 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         source: 'ethnicities',
         paint: {
           'circle-radius': [
-            'case', ['get', 'unvetted'], 3,
-            ['interpolate', ['linear'], ['get', 'count'],
+            'interpolate', ['linear'], ['get', 'count'],
             0, 10, 5, 12, 15, 18, 30, 24, 60, 32, 120, 40,
-            ],
           ],
           'circle-color': '#e0a94a',
-          'circle-opacity': ['case', ['get', 'unvetted'], 0.08, 0.18],
+          'circle-opacity': 0.18,
           'circle-blur': 0.6,
         },
       });
@@ -127,20 +124,17 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
           // pointer is the one a click selects.
           'circle-radius': ['*',
             ['case', ['boolean', ['feature-state', 'hover'], false], 1.8, 1],
-            ['case', ['get', 'unvetted'], 2.5,
-              ['interpolate', ['linear'], ['get', 'count'],
+            ['interpolate', ['linear'], ['get', 'count'],
               0, 3.5, 5, 4, 15, 5.5, 30, 7, 60, 9, 120, 11,
-              ],
             ],
           ],
           'circle-color': '#e0a94a',
-          'circle-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 1,
-            ['get', 'unvetted'], 0.4, 1],
+          'circle-opacity': 1,
           'circle-stroke-color': '#0a0a0c',
           'circle-stroke-width': 1.2,
         },
       });
-      // Invisible hit area: unreviewed dots are 2.5 px, too small to aim at.
+      // Invisible hit area: the smallest dots are 3.5 px, too small to aim at.
       map.addLayer({
         id: 'eth-hit',
         type: 'circle',
@@ -197,7 +191,7 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
         setHover(pr.key);
         hover
           .setLngLat((f.geometry as any).coordinates)
-          .setHTML(`<strong>${pr.ethnicity}</strong> <span>${pr.country} · ${pr.unvetted ? 'unreviewed' : `${pr.count} objects`}</span>`)
+          .setHTML(`<strong>${pr.ethnicity}</strong> <span>${pr.country} · ${pr.count} objects</span>`)
           .addTo(map);
       });
       map.on('mouseleave', 'eth-hit', () => {

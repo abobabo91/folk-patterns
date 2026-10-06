@@ -51,19 +51,19 @@ export function SearchOverlay({ points, onSelect }: Props) {
       if (p.ethnicity.toLowerCase().includes(needle)) {
         out.push({
           key: p.key, ethnicity: p.ethnicity, country: p.country,
-          hit_type: 'ethnicity', matched: p.ethnicity, count: p.object_count, unvetted: !!p.unvetted_only,
+          hit_type: 'ethnicity', matched: p.ethnicity, count: p.object_count + (p.unvetted_count ?? 0), unvetted: !!p.unvetted_only,
         });
       } else if (p.country.toLowerCase().includes(needle)) {
         out.push({
           key: p.key, ethnicity: p.ethnicity, country: p.country,
-          hit_type: 'country', matched: p.country, count: p.object_count, unvetted: !!p.unvetted_only,
+          hit_type: 'country', matched: p.country, count: p.object_count + (p.unvetted_count ?? 0), unvetted: !!p.unvetted_only,
         });
       } else {
         const trad = (p.seed_traditions || []).find((t) => t.toLowerCase().includes(needle));
         if (trad) {
           out.push({
             key: p.key, ethnicity: p.ethnicity, country: p.country,
-            hit_type: 'tradition', matched: trad, count: p.object_count, unvetted: !!p.unvetted_only,
+            hit_type: 'tradition', matched: trad, count: p.object_count + (p.unvetted_count ?? 0), unvetted: !!p.unvetted_only,
           });
         }
       }
@@ -121,7 +121,7 @@ export function SearchOverlay({ points, onSelect }: Props) {
                 </div>
               </div>
               <div className="sub-mono text-[10px] uppercase tracking-widest">
-                {h.unvetted ? 'unreviewed' : `${h.count} obj`}
+                {`${h.count} obj`}
               </div>
             </button>
           ))}

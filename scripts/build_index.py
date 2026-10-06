@@ -787,6 +787,11 @@ def build() -> None:
     # Markers carry the same count as the panel: objects left after dedup.
     for gp in globe_points:
         gp["object_count"] = shown_count.get(gp["key"], gp["object_count"])
+        # Unreviewed objects size the marker too: the map draws no line
+        # between reviewed and unreviewed, only the panel does.
+        n_unv = int((unvetted_counts or {}).get(gp["key"], 0) or 0)
+        if n_unv:
+            gp["unvetted_count"] = n_unv
     (out_root / "globe.json").write_text(
         json.dumps({"points": globe_points}, indent=2, ensure_ascii=False), encoding="utf-8"
     )
