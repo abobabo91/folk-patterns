@@ -70,7 +70,7 @@ NAMES
 def _names(world: bool = False) -> collections.Counter:
     c = collections.Counter()
     if world:   # object names from world_peoples.py harvest + local
-        for fn in ("bm_objects.jsonl", "local_objects.jsonl", "eu_objects.jsonl"):
+        for fn in ("bm_objects.jsonl", "local_objects.jsonl", "eu_objects.jsonl", "ethno_objects.jsonl"):
           if not (DATA_DIR / "world" / fn).exists():
               continue
           for l in (DATA_DIR / "world" / fn).read_text(encoding="utf-8").splitlines():

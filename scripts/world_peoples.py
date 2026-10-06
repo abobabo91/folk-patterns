@@ -10,6 +10,7 @@ add, per continent, before anything is scraped.
     python scripts/world_peoples.py europeana --multilingual  # sum cached multilingual names
     python scripts/world_peoples.py local        # Met + Cleveland pool rows whose people field names it
     python scripts/world_peoples.py europeana-objects [--only ...]  # ethnographic Europeana objects naming the people + its country
+    python scripts/world_peoples.py ethno-objects [--only ...]      # REM, Kunstkamera, Berlin: objects whose ethnic field names the people
     python scripts/world_peoples.py classify     # Wikipedia summary + Haiku: a people? where?
     python scripts/world_peoples.py classify --backend codex --all-min-sitelinks 20
     python scripts/world_peoples.py harvest      # BM object names per people (<= 500), for category breadth
@@ -318,7 +319,10 @@ _EU_GOOD = ("world culture", "wereldculturen", "world cultures", "ethnograph", "
             "náprstek", "naprstek", "anthropolog", "weltmuseum", "rautenstrauch", "quai branly", "volkenkunde",
             "tropenmuseum", "asia and pacific", "finnish heritage", "volkskunde", "národopis", "narodopis",
             "etnolog", "ethnolog", "folk", "rahva", "etnografisk", "open air museum", "skansen", "mucem",
-            "village museum", "astra national museum")
+            "village museum", "astra national museum",
+            # English labels Europeana gives these providers; checked 2026-10-06:
+            # Museo de América held 245 of 388 Shipibo records, Museon 136 Toraja.
+            "museum of america", "museo de am", "museon", "world museum vienna")
 
 
 def cmd_europeana(multilingual: bool = False) -> None:
@@ -567,6 +571,11 @@ def cmd_europeana_objects(only: list[str]) -> None:
     key = _get_key()
     pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8"))
           if r.get("listed") or r.get("unvetted_only")]
+    # The screen step's stubs too (they were never in peoples.json): the 857
+    # weakest cultures had no Europeana search until 2026-10-06.
+    screened = json.loads((OUT / "screened.json").read_text(encoding="utf-8")) if (OUT / "screened.json").exists() else {}
+    seen = {r["key"] for r in pe}
+    pe += [{"key": k, "label": v.get("label") or k} for k, v in screened.items() if v.get("verdict") == "keep" and k not in seen]
     want = {s.lower() for s in only}
     if want:
         pe = [r for r in pe if {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
@@ -662,6 +671,232 @@ def _eu_index() -> dict[str, dict]:
     if not p.exists():
         return {}
     return {o["id"]: o["item"] for l in p.read_text(encoding="utf-8").splitlines() for o in json.loads(l)["objects"]}
+
+
+ETHNO_CAP, ETHNO_PHOTO_CAP = 300, 60   # objects / field photographs kept per people per museum
+# Sound and film carriers: their picture is a label or a box. Shellac records
+# (269) and cassettes (39) were in the first 250 peoples' harvest, 2026-10-06.
+_SMB_SKIP_TYPE = re.compile(r"tonband|schallplatte|schellack|platte|kassette|walze|tonträger|film|video|audio", re.I)
+
+
+def _ethno_match(title: str, names: list[str]) -> bool:
+    """A museum's people term is this people: the name itself, or the name
+    plus a subgroup ("марийцы горные", "Mapuche-Huilliche")."""
+    t = _fold(title).strip()
+    if "?" in t:   # the museum's own doubt ("литовцы (?)")
+        return False
+    return any(t == n or t.startswith(n + " ") or t.startswith(n + "-") or t.startswith(n + " (") for n in names)
+
+
+def _kamis_people(cl: httpx.Client, site: str, names: list[str]) -> list[dict]:
+    from folk_patterns.museums import kamis
+    folded = [_fold(n) for n in names]
+    ids: dict[str, str] = {}
+    for n in names:
+        for e in kamis.facets(cl, site, n).get("ethnos", []):
+            if _ethno_match(e["title"], folded):
+                ids[e["value"]] = e["title"]
+        time.sleep(0.2)
+    if not ids:
+        return []
+    funds = kamis.facets(cl, site, "", {"ethnos": list(ids)}).get("fund", [])
+    photo = [f["value"] for f in funds if "фото" in f["title"].casefold()]
+    other = [f["value"] for f in funds if f["value"] not in photo]
+    out = []
+    for fund_ids, cap, is_photo in ((other, ETHNO_CAP, False), (photo, ETHNO_PHOTO_CAP, True)):
+        if not fund_ids:
+            continue
+        for d in kamis.records(cl, site, {"ethnos": list(ids), "fund": fund_ids}, cap):
+            title = d.get("title") or ""
+            out.append({"source": site, "id": str(d["id"]),
+                        "name": "фотография" if is_photo else kamis.object_name(title),
+                        "item": {"title": title, "image_url": kamis.image_url(site, d["image"]),
+                                 "ethnos": sorted(set(ids.values()))}})
+    return out
+
+
+def _smb_people(cl: httpx.Client, names: list[str]) -> list[dict]:
+    from folk_patterns.museums import smb
+    folded = [_fold(n) for n in names]
+    hits: dict[str, dict] = {}
+    for n in names:
+        start = 0
+        while start < 600:
+            j = smb.search(cl, f'"{n}"', start)
+            arts = j.get("artworks") or []
+            for a in arts:
+                if a.get("sammlung") in smb.ETHNO_COLLECTIONS and not _SMB_SKIP_TYPE.search(a.get("objekttyp") or ""):
+                    hits.setdefault(a["id"], a)
+            start += len(arts)
+            if not arts or start >= j.get("total", 0):
+                break
+            time.sleep(0.2)
+    out = []
+    for oid, a in hits.items():
+        if len(out) >= ETHNO_CAP:
+            break
+        try:
+            d = smb.detail(cl, oid)
+        except httpx.HTTPError:
+            continue
+        peoples = smb.ethnie(d)
+        img = smb.image_url(d)
+        if not img or not any(_ethno_match(p, folded) for p in peoples):
+            continue
+        out.append({"source": "smb", "id": oid, "name": (a.get("objekttyp") or "")[:120],
+                    "item": {"title": str(d.get("title") or a.get("titel") or "").strip('"') or a.get("objekttyp") or "", "image_url": img,
+                             "ethnos": peoples}})
+        time.sleep(0.1)
+    return out
+
+
+def _prm_people(cl: httpx.Client, names: list[str]) -> list[dict]:
+    from folk_patterns.museums import prm
+    folded = [_fold(n) for n in names]
+    groups = list(dict.fromkeys(g for n in names for g in prm.groups(cl, n) if _ethno_match(g, folded)))
+    out: list[dict] = []
+    for g in groups:
+        for it in prm.records(cl, g, ETHNO_CAP + ETHNO_PHOTO_CAP - len(out)):
+            photo = it.get("collection") == "Photograph"
+            if photo and sum(o["name"] == "photograph" for o in out) >= ETHNO_PHOTO_CAP:
+                continue
+            out.append({"source": "prm", "id": it["id"],
+                        "name": "photograph" if photo else (it.get("recordSubtitle") or "")[:120],
+                        "item": {"title": it.get("recordSubtitle") or "", "image_url": prm.image_url(it), "ethnos": [g]}})
+    return out
+
+
+def _maa_people(cl: httpx.Client, names: list[str]) -> list[dict]:
+    from folk_patterns.museums import maa
+    folded = [_fold(n) for n in names]
+    ids = list(dict.fromkeys(i for n in names for i in maa.search(cl, n)))
+    out: list[dict] = []
+    for oid in ids:
+        if len(out) >= ETHNO_CAP:
+            break
+        try:
+            d = maa.detail(cl, oid)
+        except httpx.HTTPError:
+            continue
+        parts = [x.strip() for x in re.split(r"[;,]", d["culture"]) if x.strip()]
+        if d["image_url"] and any(_ethno_match(x, folded) for x in parts):
+            out.append({"source": "maa", "id": oid, "name": d["title"][:120],
+                        "item": {"title": d["title"], "image_url": d["image_url"], "ethnos": parts}})
+        time.sleep(1.0)   # MAA answered 503 to every other request at ~3/s (2026-10-06)
+    return out
+
+
+def _qb_people(cl: httpx.Client, names: list[str]) -> list[dict]:
+    from folk_patterns.museums import quaibranly as qb
+    folded = [_fold(n) for n in names]
+    out: list[dict] = []
+    seen: set[str] = set()
+    for photos, cap in ((False, ETHNO_CAP), (True, ETHNO_PHOTO_CAP)):
+        kept = 0
+        for n in names:
+            if kept >= cap:
+                break
+            for rec in qb.records(cl, n, cap - kept, photos=photos):
+                num, img = qb.number(rec), qb.image_url(rec)
+                if num in seen or not img or not any(_ethno_match(p, folded) for p in qb.populations(rec)):
+                    continue
+                seen.add(num)
+                kept += 1
+                out.append({"source": "quaibranly", "id": num,
+                            "name": "photographie" if photos else (qb.title(rec) or str(rec.get("Classification") or ""))[:120],
+                            "item": {"title": qb.title(rec), "image_url": img, "ethnos": qb.populations(rec)}})
+    return out
+
+
+ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly")
+
+
+def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...] = ("kamis", "smb")) -> None:
+    """Objects from three ethnographic museums whose records name the people in
+    a controlled ethnic field: the Russian Museum of Ethnography and the
+    Kunstkamera (KAMIS `ethnos`, matched with the people's Cyrillic Wikidata
+    names) and the Berlin Ethnological Museum (SMB `Ethnie`, matched with its
+    English and German names). Assignment is by that text field alone, no
+    picture is judged. Up to ETHNO_CAP objects and ETHNO_PHOTO_CAP field
+    photographs per people per museum.
+    -> data/world/ethno_objects.jsonl (gitignored); the last line per key wins."""
+    from concurrent.futures import ThreadPoolExecutor
+    import threading
+    import urllib3
+    from folk_patterns.museums import kamis, maa, prm, smb
+    from folk_patterns.museums import quaibranly as qb
+    urllib3.disable_warnings()
+    labels = json.loads(_labels_path().read_text(encoding="utf-8")) if _labels_path().exists() else {}
+    pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if r.get("listed") or r.get("unvetted_only")]
+    screened = json.loads((OUT / "screened.json").read_text(encoding="utf-8")) if (OUT / "screened.json").exists() else {}
+    seen = {r["key"] for r in pe}
+    pe += [{"key": k, "label": v.get("label") or k} for k, v in screened.items() if v.get("verdict") == "keep" and k not in seen]
+    want = {s.lower() for s in only}
+    if want:
+        pe = [r for r in pe if {r["key"].lower(), r["label"].lower()} & want]
+    p = OUT / "ethno_objects.jsonl"
+    # A line covers the museums in its "sources"; a run for other museums
+    # adds lines beside it instead of replacing it.
+    done = {json.loads(l)["key"] for l in p.read_text(encoding="utf-8").splitlines()
+            if tuple(json.loads(l).get("sources") or ("kamis", "smb")) == tuple(sources)} if p.exists() and not want else set()
+    todo = [r for r in pe if r["key"] not in done]
+    print(f"ethno-objects {'+'.join(sources)}: {len(todo)} peoples ({len(done)} cached)", flush=True)
+    lock = threading.Lock()
+    n_done = [0]
+
+    def one(r: dict) -> None:
+        # Every Russian and German Wikidata name, without _ml_variants' skeleton
+        # test (it drops "литовцы" for Lithuanians): a name only counts when it
+        # equals a museum's own people term, so a loose alias finds nothing.
+        lab = labels.get(r["key"]) or {}
+        cyr = list(dict.fromkeys(v.strip() for v in lab.get("ru") or [] if len(v.strip()) >= 4 and "(" not in v))
+        lat = list(dict.fromkeys([*variants(r["label"]), *(v.strip() for v in lab.get("de") or [] if len(v.strip()) >= 4 and "(" not in v)]))
+        objs: list[dict] = []
+        errs = []
+        jobs = []
+        if "kamis" in sources and cyr:
+            jobs += [(site, kamis.client, lambda c, site=site: _kamis_people(c, site, cyr)) for site in kamis.SITES]
+        if "smb" in sources and lat:
+            jobs.append(("smb", smb.client, lambda c: _smb_people(c, lat)))
+        if "prm" in sources:
+            jobs.append(("prm", prm.client, lambda c: _prm_people(c, lat)))
+        if "maa" in sources:
+            jobs.append(("maa", maa.client, lambda c: _maa_people(c, lat)))
+        if "quaibranly" in sources:
+            # its thesaurus is French and singular ("Kurde"); variants() adds the singular
+            fr = list(dict.fromkeys([*variants(r["label"]), *(x for v in lab.get("fr") or [] if len(v.strip()) >= 4 and "(" not in v
+                                                              for x in variants(v.strip()))]))
+            jobs.append(("quaibranly", qb.client, lambda c: _qb_people(c, fr)))
+        for name, mk, fn in jobs:
+            try:
+                with mk() as c:
+                    objs += fn(c)
+            except Exception as e:   # one museum's bad answer must not stop the run; left uncached
+                errs.append(f"{name} {type(e).__name__} {str(e)[:80]}")
+        with lock:
+            n_done[0] += 1
+            if errs:   # left uncached so a rerun retries it
+                print(f"  {n_done[0]}/{len(todo)} {r['label']}: ! {', '.join(errs)}", flush=True)
+                return
+            with open(p, "a", encoding="utf-8") as f:
+                f.write(json.dumps({"key": r["key"], "label": r["label"], "sources": list(sources), "names": cyr + lat,
+                                    "objects": objs},
+                                   ensure_ascii=False) + "\n")
+            by = {}
+            for o in objs:
+                by[o["source"]] = by.get(o["source"], 0) + 1
+            print(f"  {n_done[0]}/{len(todo)} {r['label']}: {len(objs)} {by or ''}  names={cyr + lat}", flush=True)
+
+    with ThreadPoolExecutor(workers) as ex:
+        list(ex.map(one, todo))
+
+
+@__import__("functools").lru_cache(maxsize=1)
+def _ethno_index() -> dict[tuple[str, str], dict]:
+    p = OUT / "ethno_objects.jsonl"
+    if not p.exists():
+        return {}
+    return {(o["source"], o["id"]): o["item"] for l in p.read_text(encoding="utf-8").splitlines() for o in json.loads(l)["objects"]}
 
 
 def _bm_name(k: str) -> str | None:
@@ -1133,6 +1368,15 @@ def cmd_candidates() -> None:
         for l in (OUT / "eu_objects.jsonl").read_text(encoding="utf-8").splitlines():
             d = json.loads(l)
             eu[d["key"]] = d["objects"]   # the last line per key wins (--only reruns)
+    ethno = {}
+    if (OUT / "ethno_objects.jsonl").exists():
+        for l in (OUT / "ethno_objects.jsonl").read_text(encoding="utf-8").splitlines():
+            d = json.loads(l)
+            # the last line per key and museum set wins
+            ethno.setdefault(d["key"], {})[tuple(d.get("sources") or ("kamis", "smb"))] = d["objects"]
+    ethno = {k: list({(o["source"], o["id"]): o for objs in v.values() for o in objs   # runs may overlap
+                      if not (o["source"] == "smb" and _SMB_SKIP_TYPE.search(o.get("name") or ""))}.values())
+             for k, v in ethno.items()}
     # Met/Cleveland culture texts local-audit judged to name a place or another
     # people for this one ("India (Rajasthan, Kota)" for the Kotas).
     lv_p = OUT / "local_verdicts.json"
@@ -1149,7 +1393,7 @@ def cmd_candidates() -> None:
         return not any(p in people.casefold() for p in own.get(k, []))
     loc = {k: [o for o in objs if not dropped(k, str(o.get("people")))] for k, objs in loc.items()}
     pool = {r["key"]: [dict(o, source="bm") for o in bm.get(r["key"], []) if _bm_dept_ok(o["id"], r)] + loc.get(r["key"], [])
-            + [{k: v for k, v in o.items() if k != "item"} for o in eu.get(r["key"], [])] for r in pe}
+            + [{k: v for k, v in o.items() if k != "item"} for o in eu.get(r["key"], []) + ethno.get(r["key"], [])] for r in pe}
     size = {k: len(v) for k, v in pool.items()}
     owner: dict[tuple, str] = {}
     for k, objs in pool.items():
@@ -1218,6 +1462,10 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
                        # edmPlaceLabel is one {"def": name} per language: the first Latin-script one
                        "place": next((p for p in ((x.get("def") if isinstance(x, dict) else x) for x in it.get("edmPlaceLabel") or [])
                                       if p and p.isascii()), "")}
+    if o["source"] in ("rem", "kunstkamera", "smb", "prm", "maa", "quaibranly"):
+        it = _ethno_index().get((o["source"], o["id"]))
+        return it and {"title": it.get("title") or o.get("name") or "", "image_url": it["image_url"],
+                       "description": "Museum's people term: " + ", ".join(it.get("ethnos") or []), "place": ""}
     if o["source"] == "met":
         r = http.get(f"https://collectionapi.metmuseum.org/public/collection/v1/objects/{o['id']}")
         if r.status_code not in (200, 404):   # a block, not a missing object: let the caller retry
@@ -2130,7 +2378,7 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "labels", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "gaps", "pick", "coverage", "pick-import", "screen", "local-audit"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "labels", "europeana", "europeana-objects", "ethno-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "gaps", "pick", "coverage", "pick-import", "screen", "local-audit"])
     ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name; screen: Wikidata keys")
     ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
     ap.add_argument("--cached-only", action="store_true", help="pick: no judge calls, no pick file written; record outcomes only")
@@ -2139,12 +2387,14 @@ if __name__ == "__main__":
     ap.add_argument("--tries", type=int, default=0, help="pick: candidates shown to the judge per category (default 10); earlier verdicts come from the cache")
     ap.add_argument("--no-judge", action="store_true", help="pick: no judge calls; write the pick file from cached verdicts")
     ap.add_argument("--limit", type=int, default=0, help="cleanup/screen: only the first N (a test batch)")
+    ap.add_argument("--workers", type=int, default=0, help="ethno-objects: peoples fetched in parallel (default 6)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
     ap.add_argument("--refill", action="store_true", help="harvest: re-fetch in full the peoples that hit the page cap")
     ap.add_argument("--aliases", action="store_true", help="bm: second pass over aliases.json")
     ap.add_argument("--threshold", type=int, default=6)  # 6: the museum-evidence floor the list was built with; 30 drops 239 listed peoples
     ap.add_argument("--multilingual", action="store_true", help="europeana: query cached Wikidata names in 19 languages")
+    ap.add_argument("--museums", default="kamis,smb", help="ethno-objects: comma list of " + ",".join(ETHNO_SOURCES))
     ap.add_argument("--backend", choices=["claude", "codex"], default="claude", help="classify: local subscription backend")
     ap.add_argument("--all-min-sitelinks", type=int, default=0, help="classify: include every Wikidata item at this sitelink threshold")
     a = ap.parse_args()
@@ -2152,6 +2402,7 @@ if __name__ == "__main__":
     {"wikidata": cmd_wikidata, "bm": lambda: cmd_bm(a.aliases), "aliases": cmd_aliases, "labels": cmd_labels,
      "europeana": lambda: cmd_europeana(a.multilingual), "local": cmd_local,
      "europeana-objects": lambda: cmd_europeana_objects(a.only),
+     "ethno-objects": lambda: cmd_ethno_objects(a.only, a.workers or 6, tuple(a.museums.split(","))),
      "classify": lambda: cmd_classify(a.threshold, a.backend, a.all_min_sitelinks),
      "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit),
      "candidates": cmd_candidates, "gaps": cmd_gaps, "screen": lambda: cmd_screen(a.only, a.limit), "local-audit": lambda: cmd_local_audit(a.limit),

@@ -1,8 +1,8 @@
-"""Wikimedia Commons photos for stub cultures that have no museum objects.
+"""Wikimedia Commons photos for stub cultures with few or no museum objects.
 
 Stub cultures (text-only world-list peoples) never went through the Commons
-pipeline the vetted cultures did. This fills the ones with zero unreviewed
-museum objects in two steps:
+pipeline the vetted cultures did. This fills the ones with fewer than 20
+unreviewed museum objects in two steps:
 
     python scripts/stub_commons.py gather              # free: Wikidata + Commons API
     python scripts/stub_commons.py review --limit 10   # Codex, one contact sheet per culture
@@ -61,17 +61,19 @@ KEEP_SUBCAT = re.compile(
 EXTRA_CRITERIA = """Also FAIL: slaughter, carcasses, blood or other graphic scenes, even
 when they are part of a ritual; and snapshots of people in ordinary modern
 clothing with no visible traditional dress, craft or performance."""
+# A stub with a handful of objects is as thin as one with none.
+PHOTO_BELOW = 20
 DROP_SUBCAT = re.compile(r"language|map|by country|people from|politic|sport|footbal|wrestl", re.I)
 
 
 def _targets() -> list[dict]:
-    """Stubs whose unreviewed-object file is missing or empty."""
+    """Stubs with fewer than PHOTO_BELOW unreviewed museum objects."""
     stubs = json.loads((ROOT / "data" / "unvetted" / "stubs.json").read_text(encoding="utf-8"))
     out = []
     for s in stubs:
         p = ROOT / "data" / "unvetted" / f"{s['ethnicity_key']}.json"
         d = json.loads(p.read_text(encoding="utf-8")) if p.exists() else []
-        if not (d if isinstance(d, list) else d.get("count")):
+        if (len(d) if isinstance(d, list) else d.get("count") or 0) < PHOTO_BELOW:
             out.append(s)
     return out
 

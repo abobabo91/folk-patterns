@@ -611,6 +611,21 @@ def _object_url(source: str, oid: str) -> str:
         return f"https://www.metmuseum.org/art/collection/search/{oid}"
     if source == "cleveland":
         return f"https://clevelandart.org/art/{oid}"
+    if source in ("rem", "kunstkamera"):
+        from folk_patterns.museums import kamis
+        return kamis.object_url(source, oid)
+    if source == "smb":
+        from folk_patterns.museums import smb
+        return smb.object_url(oid)
+    if source == "prm":
+        from folk_patterns.museums import prm
+        return prm.object_url(oid)
+    if source == "maa":
+        from folk_patterns.museums import maa
+        return maa.object_url(oid)
+    if source == "quaibranly":
+        from folk_patterns.museums import quaibranly
+        return quaibranly.object_url(oid)
     return ""
 
 

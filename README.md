@@ -130,6 +130,7 @@ python scripts/world_peoples.py classify --backend codex --all-min-sitelinks 20
 python scripts/world_peoples.py harvest --threshold 1
 python scripts/world_peoples.py report
 python scripts/world_peoples.py europeana-objects
+python scripts/world_peoples.py ethno-objects [--museums kamis,smb,prm,maa,quaibranly]
 python scripts/normalize_kinds.py --world
 python scripts/world_peoples.py candidates
 FOLK_LLM_BACKEND=codex python scripts/world_peoples.py local-audit   # then candidates again
@@ -273,12 +274,64 @@ subcategory was tried and dropped: for Avars it returned 13 of 20 images of
 politicians. Run of 2026-10-05/06: 857 cultures gathered (128 rate-limited
 on 4 workers, done again on 1), 705 with candidates, 4,593 images; 2,796
 kept by the sheet check, 70 near-duplicates dropped; 589 stubs now show 2,726
-photos.
+photos. A stub counts as a target while it has fewer than 20 unreviewed
+objects (`PHOTO_BELOW`): a handful of objects is as thin as none, and Basques,
+Croats and Welsh had 1-4 objects and no photos. Second run, 2026-10-06: 457
+gathered, 406 reviewed, 2,254 of 3,488 kept, 67 near-duplicates dropped.
 
 ```bash
 python scripts/stub_commons.py gather
 FOLK_LLM_BACKEND=codex python scripts/stub_commons.py review
 python scripts/stub_commons.py dedupe
+```
+
+Ethnographic museums with an ethnic field: `world_peoples.py ethno-objects`
+takes objects from museums whose records name the people in a controlled field
+of their own, so an object is assigned by that text alone and no picture is
+judged. A museum term counts when it equals one of the people's names or is
+that name plus a subgroup ("марийцы горные", "Seneca-Tuscarora"); a term the
+museum marks as doubtful ("литовцы (?)") does not.
+
+| `--museums` | Museum | People field, matched with | Strong for |
+|---|---|---|---|
+| `kamis` | Russian Museum of Ethnography; Kunstkamera (same KAMIS API) | `ethnos` filter id; Russian Wikidata names | Russia, Caucasus, Baltics, Belarus, Siberia, Alaska |
+| `smb` | Berlin Ethnological Museum (`search.smb.museum`) | `geography` role `Ethnie`; English + German names | Africa, Americas, Asia (CC BY-NC-SA images) |
+| `prm` | Pitt Rivers Museum, Oxford | `culturalGroups.culturalGroup`; English + German names | Africa, South and Southeast Asia (Naga, Iban, Kayan, Karen) |
+| `maa` | Museum of Archaeology and Anthropology, Cambridge | "Cultural Affiliation" on the record page; English + German names | South and Southeast Asia, Oceania |
+| `quaibranly` | Musée du quai Branly, Paris | `Ethnonyme` (objects), `IThesTerm` Populations (photographs); English + French singular names | Latin America (Wayana, Bororo, Yanomami, Huichol, Mapuche) |
+
+Up to 300 objects and 60 field photographs per people per museum. Berlin sound
+carriers (shellac records, cassettes) are skipped: their picture is a label.
+All Russian and German names are used, not `_ml_variants`' skeleton-filtered
+ones (it drops "литовцы" for Lithuanians): an alias only matters when it is a
+museum's own term. Each line of `data/world/ethno_objects.jsonl` (gitignored)
+covers the museums in its `sources`; `candidates` merges them with the other
+pools and drops duplicates. MAA reads one record page per object and slows
+down under load (503s), so it runs as its own job with 2 workers.
+
+Read by hand on 2026-10-06: the first 247 peoples with Russian/Berlin objects,
+20 records from 10 peoples, all attributed right (Duala canoe prows, Klamath
+baskets, Witoto fish traps, Ijaw vessels, Nubian and Danish portraits); the
+defect was Berlin's shellac records, now skipped. Tested coverage: Mari 432,
+Lithuanians 332, Belarusians 327, Chechens 160, Kurds 157 + 309 at quai
+Branly, Mapuche 146 + 358, Iban 458, Bhil 120, Wayuu 334, Hmong 360.
+
+Checked and not used: Wikidata items with P2596/P172 (606 items across all
+stubs); Finna, Penn Museum and the Field Museum (Cloudflare or a bot check);
+Goskatalog (not reachable from here); DigitaltMuseum (hits are surnames:
+"Kven"); the Smithsonian anthropology search (ExtJS form, restrictive image
+policy); SURDOC Chile (no search URL). Museo de América and Museon reach us
+through Europeana: their English provider labels ("Museum of America",
+"Museon") were added to `_EU_GOOD`, and `europeana-objects` now also searches
+the screened stubs, which it had never searched.
+
+```bash
+python scripts/world_peoples.py ethno-objects                       # kamis,smb
+python scripts/world_peoples.py ethno-objects --museums prm --workers 4
+python scripts/world_peoples.py ethno-objects --museums maa --workers 2
+python scripts/world_peoples.py ethno-objects --museums quaibranly --workers 4
+FOLK_LLM_BACKEND=codex python scripts/normalize_kinds.py --world    # categories for the new object names
+python scripts/world_peoples.py candidates
 ```
 
 Stub placement: `unvetted.py places` asks local Codex for each stub's homeland
