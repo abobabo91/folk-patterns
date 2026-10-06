@@ -1064,6 +1064,42 @@ def _art_form(kinds: dict, name: str | None) -> str:
     return af
 
 
+# A BM object id starts with its department: E_Af (Africa), E_Am (Americas),
+# E_As (Asia, the Middle East included), E_Oc (Oceania), E_Eu. The BM's
+# ethnic_name term is one spelling for several peoples, so the department is
+# the cheap check that the object is of this people's continent. Counted
+# 2026-10-06 over the candidates: Lodha (India) had 234 Lozi (Zambia) objects,
+# Kotas (India) 25 Kota (Gabon) reliquary figures, Teke (Congo) 45 Turkmen
+# Teke ones, Catawba 74 and Nara (Eritrea) 35 from other continents, and
+# French, Spaniards and Dutch colonial-era pieces. Indonesia, the Philippines
+# and Malaysia sit across As and Oc (Nuaulu: 303 in As), North Africa and the
+# Middle East across Af and As (Bedouin), and Russia, Turkey and the Caucasus
+# across As and Eu (Nenets, Kalmyks), so those keep both.
+_BM_DEPT = {"Africa": {"Af"}, "Americas": {"Am"}, "Asia": {"As"}, "Oceania": {"Oc"}, "Europe": {"Eu"}}
+_BM_DEPT_BOTH = {
+    **{c: {"As", "Oc"} for c in ("Indonesia", "Philippines", "Malaysia", "East Timor", "Timor-Leste", "Brunei", "Papua New Guinea")},
+    **{c: {"Af", "As"} for c in ("Egypt", "Libya", "Tunisia", "Algeria", "Morocco", "Sudan", "Western Sahara", "Mauritania")},
+    **{c: {"As", "Eu"} for c in ("Russia", "Turkey", "Georgia", "Armenia", "Azerbaijan", "Kazakhstan", "Cyprus")},
+}
+
+
+# BM spellings from the alias pass that name another people, checked by hand
+# (2026-10-06). The cached harvest keeps the objects when an alias is later
+# removed from aliases.json (Nzema came back with 5 Zimba objects), so they are
+# refused here. Sihasapa are the "Blackfoot Sioux", a Lakota band; the BM's
+# Blackfoot are the Blackfoot Confederacy. "Lozi" is "Lozi (Indic people)"
+# with its qualifier stripped; the BM's Lozi are the Zambian people.
+_BM_NAME_WRONG = {("Q1722812", "Zimba"), ("Q1680351", "Blackfoot"), ("Q6666357", "Lozi")}
+
+
+def _bm_dept_ok(obj_id: str, people: dict) -> bool:
+    m = re.match(r"[A-Z]+_(Af|Am|As|Oc|Eu)(?=\d|-|_|[A-Z])", str(obj_id))
+    if not m:
+        return True   # registration numbers without a department prefix are not judged
+    allowed = _BM_DEPT_BOTH.get(str(people.get("country") or "")) or _BM_DEPT.get(str(people.get("continent") or ""))
+    return not allowed or m.group(1) in allowed
+
+
 def cmd_candidates() -> None:
     """Every listed people's objects, grouped by category — the pool the
     5-per-category pick works from. One culture per object: an object the BM
@@ -1072,17 +1108,32 @@ def cmd_candidates() -> None:
     rest. -> data/world/candidates.jsonl (gitignored)."""
     pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8"))
           if r.get("listed") or r.get("unvetted_only")]
+    # Peoples the screen step kept are on the map as stubs but were never in
+    # peoples.json; without this their harvested BM objects (Kota: 25) never
+    # became candidates and 857 stubs showed none.
+    screened = json.loads((OUT / "screened.json").read_text(encoding="utf-8")) if (OUT / "screened.json").exists() else {}
+    cls = json.loads((OUT / "classified.json").read_text(encoding="utf-8"))
+    seen = {r["key"] for r in pe}
+    # classified.json is corrected by hand (Nzema: Guinea-Bissau -> Ghana);
+    # peoples.json keeps the country of the report run that wrote it.
+    pe = [dict(r, country=(cls.get(r["key"]) or {}).get("country") or r.get("country")) for r in pe]
+    for k, v in screened.items():
+        if v.get("verdict") == "keep" and k not in seen and (cls.get(k) or {}).get("people"):
+            c = cls[k]
+            pe.append({"key": k, "label": v.get("label") or k, "continent": c.get("continent"),
+                       "region": c.get("region"), "country": c.get("country") or v.get("country"),
+                       "in_atlas": False, "unvetted_only": True, "bm_name": _bm_name(k)})
     bm = {}
     for l in (OUT / "bm_objects.jsonl").read_text(encoding="utf-8").splitlines():
         d = json.loads(l)
-        bm[d["key"]] = d["objects"]   # the last line per key wins (harvest --refill)
+        bm[d["key"]] = [] if (d["key"], d.get("bm_name")) in _BM_NAME_WRONG else d["objects"]   # the last line per key wins (harvest --refill)
     loc, kinds = _local(), _kinds()
     eu = {}
     if (OUT / "eu_objects.jsonl").exists():
         for l in (OUT / "eu_objects.jsonl").read_text(encoding="utf-8").splitlines():
             d = json.loads(l)
             eu[d["key"]] = d["objects"]   # the last line per key wins (--only reruns)
-    pool = {r["key"]: [dict(o, source="bm") for o in bm.get(r["key"], [])] + loc.get(r["key"], [])
+    pool = {r["key"]: [dict(o, source="bm") for o in bm.get(r["key"], []) if _bm_dept_ok(o["id"], r)] + loc.get(r["key"], [])
             + [{k: v for k, v in o.items() if k != "item"} for o in eu.get(r["key"], [])] for r in pe}
     size = {k: len(v) for k, v in pool.items()}
     owner: dict[tuple, str] = {}

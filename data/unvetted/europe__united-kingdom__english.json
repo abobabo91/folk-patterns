@@ -1,23 +1,41 @@
 {
   "ethnicity_key": "europe__united-kingdom__english",
   "people_key": "Q42406",
-  "count": 31,
+  "count": 28,
   "buckets": {
+    "metalwork": [
+      {
+        "id": "29156",
+        "source": "met",
+        "title": "Bit Boss",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-42_50_210-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/29156"
+      },
+      {
+        "id": "32894",
+        "source": "met",
+        "title": "Rowel Spur (Right)",
+        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-23_192_20-002.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/32894"
+      }
+    ],
+    "household": [
+      {
+        "id": "504465",
+        "source": "met",
+        "title": "Ratchet",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/midp1986.467.92.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/504465"
+      },
+      {
+        "id": "504466",
+        "source": "met",
+        "title": "Ratchet",
+        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/midp1986.467.93.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/504466"
+      }
+    ],
     "photo": [
-      {
-        "id": "EA_Af-A66-28",
-        "source": "bm",
-        "title": "photographic print (black and white)",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_15/e83ec181_d9eb_4398_bb0e_a3b700fc8ac5/preview_00079171_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A66-28"
-      },
-      {
-        "id": "EA_Oc-B2-6",
-        "source": "bm",
-        "title": "photographic print (black and white); postcard",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/8e45a934_f58f_465d_a709_a3b80152609e/preview_00330973_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/EA_Oc-B2-6"
-      },
       {
         "id": "/2021009/_176cd6ff_b5da_450a_acc4_61e93df5d0a8",
         "source": "europeana",
@@ -185,47 +203,6 @@
         "title": "Making of the film \"Billion Dollar Brain\"",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D3636187%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2021009/_06d45cb6_4fa4_4d82_a026_7f53c3da102a"
-      }
-    ],
-    "garment": [
-      {
-        "id": "E_Af1954-23-1759-a-b",
-        "source": "bm",
-        "title": "sash (?); belt (?)",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_12/19_9/f4b29fa4_e426_4661_9110_a406009c9867/preview_EAF119550.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1759-a-b"
-      }
-    ],
-    "metalwork": [
-      {
-        "id": "29156",
-        "source": "met",
-        "title": "Bit Boss",
-        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-42_50_210-001.jpg",
-        "object_url": "https://www.metmuseum.org/art/collection/search/29156"
-      },
-      {
-        "id": "32894",
-        "source": "met",
-        "title": "Rowel Spur (Right)",
-        "image": "https://images.metmuseum.org/CRDImages/aa/web-large/LC-23_192_20-002.jpg",
-        "object_url": "https://www.metmuseum.org/art/collection/search/32894"
-      }
-    ],
-    "household": [
-      {
-        "id": "504465",
-        "source": "met",
-        "title": "Ratchet",
-        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/midp1986.467.92.jpg",
-        "object_url": "https://www.metmuseum.org/art/collection/search/504465"
-      },
-      {
-        "id": "504466",
-        "source": "met",
-        "title": "Ratchet",
-        "image": "https://images.metmuseum.org/CRDImages/mi/web-large/midp1986.467.93.jpg",
-        "object_url": "https://www.metmuseum.org/art/collection/search/504466"
       }
     ]
   },

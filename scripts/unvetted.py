@@ -640,6 +640,7 @@ def cmd_build(only: list[str]) -> None:
     except (OSError, json.JSONDecodeError):
         old_stubs = []
     stubs = {str(x.get("people_key")): x for x in old_stubs if isinstance(x, dict) and x.get("people_key")}
+    on_map = set(stubs)   # a stub once shown stays, with its writeup, even when its objects go
     targeted_keys = {str(candidate.get("key", "")) for candidate in candidates}
     if only:
         for key in targeted_keys:
@@ -696,10 +697,12 @@ def cmd_build(only: list[str]) -> None:
                 else:
                     buckets.setdefault(category, []).append(item)
         count = sum(len(items) for items in buckets.values()) + len(other)
-        if stub and not count and str(candidate.get("key", "")) not in kept:
+        if stub and not count and str(candidate.get("key", "")) not in kept | on_map:
             # A culture with nothing to show is put on the map only when the
-            # screen kept it (world_peoples.py screen); it then shows its
-            # writeup and home area without objects.
+            # screen kept it (world_peoples.py screen) or it was already there
+            # (Catawba, Kam, Hani and Temuan lost their only objects to the BM
+            # department check on 2026-10-06); it then shows its writeup and
+            # home area without objects.
             stubs.pop(str(candidate.get("key", "")), None)
             continue
         shard = {

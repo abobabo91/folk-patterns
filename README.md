@@ -157,7 +157,24 @@ candidates of that country as context, as keep / extinct / duplicate /
 not_people (`data/world/screened.json`, raw replies in `screen_raw.jsonl`).
 On 2026-10-05 it judged 967: 865 keep, 50 extinct, 38 duplicate, 14 not a
 people. A kept people with no resolvable image becomes a zero-object stub
-("No museum objects found yet"); 857 of the 1,471 stubs are such. Matching reads only vetted
+("No museum objects found yet"); 857 of the 1,471 stubs were such. `candidates`
+adds the screened peoples to the `peoples.json` rows (they were never in it, so
+their harvested BM objects never became candidates: Kota had 25) and takes the
+country from `classified.json`, which is corrected by hand. A stub once on the
+map stays there when its objects go (`unvetted.py build`). Two BM checks run in
+`candidates`: an object whose department (the id prefix: `E_Af`, `E_Am`,
+`E_As`, `E_Oc`, `E_Eu`) is on another continent than the people is dropped,
+with Indonesia/Philippines/Malaysia, North Africa and Russia/Turkey/the
+Caucasus allowed both neighbouring departments; and `_BM_NAME_WRONG` refuses
+alias-pass spellings checked by hand to be another people (Nzema "Zimba",
+Sihasapa "Blackfoot", Lodha "Lozi"). Run of 2026-10-06: 20 stubs gained
+objects (Pondo 451, mostly photographs; Yomut 107; Ngāpuhi 93; Sicangu 55;
+Kota 25 reliquary figures), the subgroup taking them from its umbrella (Pondo
+from Nguni 463 -> 39); wrong objects left Lodha (234 Lozi), Kotas (25 Kota
+of Gabon), Teke (Congo, Turkmen Teke), Catawba, Nara, Toubou and the
+colonial-era French, Spanish and Dutch rows. The Kotas still show 15 Met
+paintings of the Kota school of Rajput painting, named after the city.
+Matching reads only vetted
 shards: `build_index.py` writes the stubs into `data/ethnicities/` too, and a
 people matched against its own stub would drop out of `stubs.json` on the next
 build. Country names that differ from `world-countries.geojson` (United States,
@@ -213,6 +230,13 @@ written, 32 Wikipedia fetches rate-limited on the first pass and written on a
 rerun; all 1,471 stubs have a writeup. `_drop_uncovered` was then re-applied to
 every stub writeup, including the reading-list form of the remark ("- Museum
 catalogue records: no object records were provided in the sources used").
+
+The vetted writeups went through the same filter on 2026-10-06 with
+`_drop_uncovered(keep_mixed=True)`: a sentence that also carries content ("do
+not document X, but they describe Y") stays whole, and a following "They ..."
+left without its subject becomes "The sources ...". Without `keep_mixed` the
+dry run cut "but they describe diamond-shaped scarification marks" (Punu).
+559 of 924 vetted writeup files changed, 9.70 M to 9.32 M characters.
 
 Stub photos: `stub_commons.py` gives the zero-object stubs Wikimedia Commons
 photos. `gather` (no LLM) takes the people's Commons category from Wikidata
