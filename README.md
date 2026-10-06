@@ -349,7 +349,7 @@ this, every museum added later was invisible for those peoples (Mapuche showed
 101 of ~840 candidates). Measured 2026-10-06 after all sources but the
 unfinished MAA run: 260,542 objects on the map (87,601 before),
 peoples with no object 462 (857), under 20 objects 930 (1,448); Mapuche
-168 -> 806, Hopi 185 -> 565, Navajo 486 -> 922, Wayuu 38 -> 375, Basques 4 -> 45. Accents are
+168 -> 806, Hopi 185 -> 919, Navajo 486 -> 1,245, Wayuu 38 -> 375, Basques 4 -> 46. Accents are
 folded on both sides: quai Branly writes capitals bare ("Epingle", "Etui").
 
 Checked and not used: Wikidata items with P2596/P172 (606 items across all
