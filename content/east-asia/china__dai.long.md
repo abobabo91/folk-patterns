@@ -29,7 +29,7 @@ The sources document the Dai mainly through woven and embroidered cloth. Wikiped
 
 ### Clothing & dress
 
-Dai garments in the collections are women's tube skirts and a jacket. The skirts occur in three material combinations — plain cotton, cotton with silk, and silk alone — which suggests a graded wardrobe from workaday to best, though the catalogue entries do not say so outright; the jacket is cotton. Dress is completed by an embroidered belt made in two parts, of cotton and silk together, the most decorated single garment element recorded. The sources do not describe Dai head coverings, footwear, men's dress or any ceremonial costume distinct from daily wear, and give no vernacular garment names. One point of comparison is recorded: the small Muslim minority known as *Dai Paxi* or *Dai Hui*, descended from Hui merchants from Dali and elsewhere in Yunnan who settled in Xishuangbanna in the early nineteenth century and intermarried locally, wear dress similar to that of their Buddhist neighbours and share their language, customs, rituals and diet — their material culture is described as identical.
+Dai garments in the collections are women's tube skirts and a jacket. The skirts occur in three material combinations — plain cotton, cotton with silk, and silk alone — which suggests a graded wardrobe from workaday to best, though the catalogue entries do not say so outright; the jacket is cotton. Dress is completed by an embroidered belt made in two parts, of cotton and silk together, the most decorated single garment element recorded. One point of comparison is recorded: the small Muslim minority known as *Dai Paxi* or *Dai Hui*, descended from Hui merchants from Dali and elsewhere in Yunnan who settled in Xishuangbanna in the early nineteenth century and intermarried locally, wear dress similar to that of their Buddhist neighbours and share their language, customs, rituals and diet — their material culture is described as identical.
 
 ### Architecture
 
@@ -38,14 +38,6 @@ Dai villages stand on bamboo plains near rivers or streams. Houses are usually r
 ### Ceramics, metalwork & everyday objects
 
 The sources name no Dai ceramic or metalworking tradition. What they do document is plant-fibre craft: bamboo work listed among the developed Dai handicrafts, a lidded box plaited from dyed leaf strips, and a model flag of woven and dyed vegetable fibre catalogued as religious or ritual equipment. Bamboo is also a cooking vessel — the fragrant bamboo tube in which glutinous rice is baked. Oil-pressing and winemaking round out the handicraft economy, which since the 1980s has sat alongside tourism revenue in Xishuangbanna following the opening of airports at Jinghong and Mangshi.
-
-### Jewelry & body adornment
-
-The sources used do not cover Dai jewelry, tattooing or hair practices.
-
-## Music & performance
-
-The sources used — the Wikipedia articles and the museum catalogue records of the objects shown here — contain no account of Dai instruments, song genres or performance occasions.
 
 ## Dance & theatre
 

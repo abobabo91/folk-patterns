@@ -31,11 +31,7 @@ The Karen, also known as the Kayin, are an ethnolinguistic group indigenous to s
 
 ### Clothing & dress
 
-The museum records describe a range of Karen-associated cotton clothing. They include a blouse identified by the donor as belonging to an unmarried girl, a man’s robe, embroidered man’s breeches, a jacket cloth, a cotton tunic with red borders and red horizontal stripes, a plain cotton coat with supplementary-weft decoration, and a blackish coarse-cotton *lon-gyi* or sarong with yellow, green, and red stripes. A women’s turban is recorded as black cotton, with ends ornamented by red, yellow, purple, and green bands and tassels. The catalogue also includes a blanket or hood made from striped cloth folded and sewn down one side. A long narrow cotton loincloth from the Karen tribes of North Thailand has a blue ground, ikat stripes, and twisted fringes. The sources do not describe footwear, belts, ceremonial dress, or distinctions between everyday and ceremonial clothing beyond these records.
-
-### Architecture
-
-The sources used do not describe Karen houses, villages, roofs, architectural decoration, named building types, or urban building traditions.
+The museum records describe a range of Karen-associated cotton clothing. They include a blouse identified by the donor as belonging to an unmarried girl, a man’s robe, embroidered man’s breeches, a jacket cloth, a cotton tunic with red borders and red horizontal stripes, a plain cotton coat with supplementary-weft decoration, and a blackish coarse-cotton *lon-gyi* or sarong with yellow, green, and red stripes. A women’s turban is recorded as black cotton, with ends ornamented by red, yellow, purple, and green bands and tassels. The catalogue also includes a blanket or hood made from striped cloth folded and sewn down one side. A long narrow cotton loincloth from the Karen tribes of North Thailand has a blue ground, ikat stripes, and twisted fringes.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,29 +39,25 @@ Museum records include a clay bowl from Kaung maing in the Pekkong district, ide
 
 ### Jewelry & body adornment
 
-A pair of partly finished silver ear ornaments is recorded from Quilon in the Pekkong district and identified with Red Karen. The British Museum records a women’s turban with coloured bands and tassels. The sources do not describe tattoos, henna, hair practices, ritual functions of jewelry, or named Karen adornment types beyond these records.
+A pair of partly finished silver ear ornaments is recorded from Quilon in the Pekkong district and identified with Red Karen. The British Museum records a women’s turban with coloured bands and tassels.
 
 ## Music & performance
 
 The museum records document several instruments associated with Karen communities in the Chomthong district of Thailand. A six-metal-string harp is called *teiná*. Its sound box is covered with sheet metal on the upper side, and the catalogue records its height as 80 centimetres. A four-string mandolin is called *su*. A side-blown instrument with a beating reed is called *kwai*; it consists of two joined wooden halves and is described as horn-like. A side-blown buffalo horn with a beating reed is also recorded. Other sound-producing objects include a buffalo bell called *kauklo*, made from a larger bamboo piece with two smaller pieces at the sides, each containing a wooden clapper, and an ox bell from Mekane associated with Skaw Karen. A partly finished hunting horn is also recorded from Mekane.
 
-The British Museum collections include bronze drums, one of which has elephants and snails along its side and four single frogs on top. Another catalogue record simply identifies a cast-bronze drum. The sources do not describe musical genres, song forms, performance settings, dances accompanied by these instruments, or the social contexts in which they are played.
-
-## Dance & theatre
-
-The sources used do not describe Karen dances, theatre, shadow puppetry, mask performance, dramatic traditions, or distinctions between ceremonial and entertainment performance.
+The British Museum collections include bronze drums, one of which has elephants and snails along its side and four single frogs on top. Another catalogue record simply identifies a cast-bronze drum.
 
 ## Festivals & rituals
 
-Karen New Year was recognised as a public holiday by the British colonial administration in 1938. The sources describe religious and communal practices but do not provide an annual festival calendar. Buddhist monasteries are centres of community life in many Karen villages, and merit-making activities such as alms giving are central to Karen Buddhist life. The Leke sect is described as holding Saturday services, practising vegetarianism, and constructing distinct pagodas. The sources do not describe Karen birth, coming-of-age, wedding, or funeral rites.
+Karen New Year was recognised as a public holiday by the British colonial administration in 1938. The sources describe religious and communal practices. Buddhist monasteries are centres of community life in many Karen villages, and merit-making activities such as alms giving are central to Karen Buddhist life. The Leke sect is described as holding Saturday services, practising vegetarianism, and constructing distinct pagodas.
 
 ## Foodways
 
-The sources state that the Karen likely learned wet-rice cultivation from older Mon-Khmer populations and that they irrigated the Kyaukse and Minbu districts with Palaung, Mon, and Wa populations before Burmese arrival. A Karen legend describes ancestors taking a long time to cook shellfish at a “river of flowing sand” until the Chinese taught them to open the shells to obtain the meat. Museum records identify clay bowls used for curry and tea and record that these vessels were also used by Red Karen and Zarein (-Latha). The Leke sect is described as practising vegetarianism. The sources do not name Karen dishes, staple preparations beyond these references, ceremonial foods, tea customs, or dietary rules for the Karen population as a whole.
+The sources state that the Karen likely learned wet-rice cultivation from older Mon-Khmer populations and that they irrigated the Kyaukse and Minbu districts with Palaung, Mon, and Wa populations before Burmese arrival. A Karen legend describes ancestors taking a long time to cook shellfish at a “river of flowing sand” until the Chinese taught them to open the shells to obtain the meat. Museum records identify clay bowls used for curry and tea and record that these vessels were also used by Red Karen and Zarein (-Latha). The Leke sect is described as practising vegetarianism.
 
 ## Oral tradition & literature
 
-Karen legends refer to a “river of running sand” crossed by the ancestors. Many Karen identify this with the Gobi Desert, while the source describes another interpretation as “rivers of water flowing with sand,” possibly referring to the sediment-laden Yellow River of China. Another legend recounts the cooking of shellfish and the teaching of shell-opening by the Chinese. A popular Karen legend concerns a lost book that would be returned by a “white brother”; the story is associated with the arrival of the Bible through American Baptist missionaries and is described as probably of nineteenth-century origin. Karen Buddhist literature developed around the Yedagon Monastery atop Mount Zwegabin. The sources do not describe a named Karen epic, proverb tradition, riddle tradition, or contemporary literary revival.
+Karen legends refer to a “river of running sand” crossed by the ancestors. Many Karen identify this with the Gobi Desert, while the source describes another interpretation as “rivers of water flowing with sand,” possibly referring to the sediment-laden Yellow River of China. Another legend recounts the cooking of shellfish and the teaching of shell-opening by the Chinese. A popular Karen legend concerns a lost book that would be returned by a “white brother”; the story is associated with the arrival of the Bible through American Baptist missionaries and is described as probably of nineteenth-century origin. Karen Buddhist literature developed around the Yedagon Monastery atop Mount Zwegabin.
 
 ## Language & religion
 
@@ -75,7 +67,6 @@ The majority of Karen are Theravada Buddhists who also practise animism, while a
 
 ## Sources & further reading
 
-- The sources supplied do not provide bibliographic details for books or named documentation projects.
 - [Karen peoples](https://en.wikipedia.org/wiki/Karen_peoples)
 - [Karen language](https://en.wikipedia.org/wiki/Karen_language)
 - [Karen cuisine](https://en.wikipedia.org/wiki/Karen_cuisine)

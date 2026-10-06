@@ -42,10 +42,6 @@ Documented clothing includes women’s indigo skirts and shawls and a man’s em
 - **Indigo cotton shawl** — Women’s shawls are made from sewn cotton strips with indigo patterns and fringes.
 - **Head covering** — Photographs show women wearing head coverings, sometimes with gold rings attached.
 
-### Architecture
-
-The sources do not describe Soninke architecture or building traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 The sources give little information about everyday objects but mention pottery workers and gold ornaments.
@@ -72,10 +68,6 @@ Music appears in circumcision rites and in hereditary roles such as griots and b
 - **Circumcision scarves** (*disa sing*) — The boys are surrounded by scarves called disa sing.
 - **Bard** (*fune*) — The fune is a hereditary social role described as a bard.
 - **Griot and singer** (*gesere; jeli*) — The gesere or jeli are described as griots and singers.
-
-## Dance & theatre
-
-The sources do not document named dances or theatre traditions.
 
 ## Festivals & rituals
 
@@ -155,4 +147,3 @@ Soninke is a widely spoken Mande language, and most Soninke follow Sunni Islam i
 - [Soninke people](https://en.wikipedia.org/wiki/Soninke_people)
 - [Soninke language](https://en.wikipedia.org/wiki/Soninke_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
-

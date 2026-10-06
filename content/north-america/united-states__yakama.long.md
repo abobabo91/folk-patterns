@@ -13,7 +13,7 @@ The Yakama are a Native American tribe with nearly 10,851 members, based primari
 
 ### Textile & pattern traditions
 
-The sources used document beaded clothing accessories and bags, but do not cover the seed traditions of wa'paas basketry, tule mat weaving, tule basketry, cedar-bark weaving, willow-bark weaving, sagebrush-fiber clothing, twined basketry, coiled basketry, or basket hats.
+The sources used document beaded clothing accessories and bags.
 
 ***Beaded skin gauntlets*** — British Museum records describe light brown skin gauntlets with fringed strips and glass beadwork. One pair has a geometric pattern in blue, red, black, and white, with a floral design below; another has a red rose with green leaves, a multicoloured peacock, and a pink flower.
 
@@ -27,43 +27,39 @@ The sources used document beaded clothing accessories and bags, but do not cover
 
 ### Clothing & dress
 
-The sources used do not provide a general account of everyday Yakama clothing, footwear, belts, head coverings, or gender-specific dress. Museum records do document skin gauntlets, including one made of skin and another described as smoked skin, with skin fringe and glass beadwork. The catalogue also records photographs of Yakama men gathered in a longhouse “in regalia,” a studio portrait of five sons of a Yakama chief in regalia, and a Yakama husband and wife with child posing along the river. The sources do not identify the garments, ceremonial distinctions, or vernacular names of the clothing shown.
+Museum records do document skin gauntlets, including one made of skin and another described as smoked skin, with skin fringe and glass beadwork. The catalogue also records photographs of Yakama men gathered in a longhouse “in regalia,” a studio portrait of five sons of a Yakama chief in regalia, and a Yakama husband and wife with child posing along the river.
 
 ### Architecture
 
-The sources used mention a longhouse in photographic catalogue records, where Yakama men are shown gathered in regalia at Toppenish, Washington, USA. They do not describe the longhouse’s construction, materials, roof, interior arrangement, decoration, or wider Yakama architectural traditions.
+The sources used mention a longhouse in photographic catalogue records, where Yakama men are shown gathered in regalia at Toppenish, Washington, USA.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not document Yakama ceramics, wooden objects, tools, or household goods in general. The museum catalogue records metal clasps and metal snap closures on two textile objects, together with cotton, wool, velvet, felted wool, leather, skin, glass beads, and braided or sewn skin straps.
+The museum catalogue records metal clasps and metal snap closures on two textile objects, together with cotton, wool, velvet, felted wool, leather, skin, glass beads, and braided or sewn skin straps.
 
 ### Jewelry & body adornment
 
-The sources used do not document Yakama jewelry, tattooing, hair practices, or ritual body adornment. The museum objects include decorative glass beadwork, leather tassels, and fringed skin elements attached to gauntlets and bags.
+The museum objects include decorative glass beadwork, leather tassels, and fringed skin elements attached to gauntlets and bags.
 
 ## Music & performance
 
-The sources used do not identify Yakama musical instruments, named song genres, or performance forms. They do document the Washane, described as the “Dreamer Religion,” associated with the Wanapum dreamer-prophet Smohalla, whose name is glossed as “Dreamer” or “Preacher.” Other prophets named in the source are Chief Homli of the Walla Walla, Kotiakan of the Pa'kiut'-ħlama local group of Lower Yakama, and Lishwailait and Ashnithlai, both identified as Klickitat. The source says that adherents included Chief Joseph and his Nez Percé followers, as well as Native people from other tribes in the region. No musical context, instrument, dance accompaniment, or performance setting is described.
-
-## Dance & theatre
-
-The sources used do not cover Yakama dances, theatre, dramatic traditions, or named entertainment forms.
+The sources document the Washane, described as the “Dreamer Religion,” associated with the Wanapum dreamer-prophet Smohalla, whose name is glossed as “Dreamer” or “Preacher.” Other prophets named in the source are Chief Homli of the Walla Walla, Kotiakan of the Pa'kiut'-ħlama local group of Lower Yakama, and Lishwailait and Ashnithlai, both identified as Klickitat. The source says that adherents included Chief Joseph and his Nez Percé followers, as well as Native people from other tribes in the region. No musical context, instrument, dance accompaniment, or performance setting is described.
 
 ## Festivals & rituals
 
-The sources used do not provide an annual festival calendar or descriptions of Yakama birth, coming-of-age, wedding, or funeral rites. They describe seasonal movement and fishing sites in historical Yakama territories: the area originally known as “Mool-mool” was a campsite for the summer and early fall seasons, and Priest Rapids was an important Wanapum settlement and fishing ground. The sources also state that Yakama people were hunters and gatherers known for trading salmon harvested from annual runs in the Columbia River. In the late 20th century, treaty-protected fishing rights were reaffirmed in United States v. Washington, known as the Boldt Decision, 1974, and United States v. Oregon, Sohappy v. Smith, 1969.
+The sources describe seasonal movement and fishing sites in historical Yakama territories: the area originally known as “Mool-mool” was a campsite for the summer and early fall seasons, and Priest Rapids was an important Wanapum settlement and fishing ground. The sources also state that Yakama people were hunters and gatherers known for trading salmon harvested from annual runs in the Columbia River. In the late 20th century, treaty-protected fishing rights were reaffirmed in United States v. Washington, known as the Boldt Decision, 1974, and United States v. Oregon, Sohappy v. Smith, 1969.
 
 ## Foodways
 
-The sources used identify salmon as the principal foodway. The Yakama were hunters and gatherers known for trading salmon harvested from annual runs in the Columbia River. Historical Yakama territories included numerous important fisheries, including Prosser Falls, the Cowlitz Falls of Cowlitz River, and the Wanapum fishing grounds at Priest Rapids. The source explains that the Yakima River name Tapteal means “rapids,” referring to the waterfalls at Prosser, Washington. It also records place names associated with fish and fishing: Kachess Lake is glossed as “more fish,” Keechelus Lake as “few fish,” and Teanaway River as a “[salmon] drying place.” The sources do not describe recipes, cooking methods, named dishes, ceremonial foods, beverages, or dietary rules.
+The sources used identify salmon as the principal foodway. The Yakama were hunters and gatherers known for trading salmon harvested from annual runs in the Columbia River. Historical Yakama territories included numerous important fisheries, including Prosser Falls, the Cowlitz Falls of Cowlitz River, and the Wanapum fishing grounds at Priest Rapids. The source explains that the Yakima River name Tapteal means “rapids,” referring to the waterfalls at Prosser, Washington. It also records place names associated with fish and fishing: Kachess Lake is glossed as “more fish,” Keechelus Lake as “few fish,” and Teanaway River as a “[salmon] drying place.”
 
 ## Oral tradition & literature
 
-The sources used do not identify Yakama folktales, epic poetry, proverbs, riddles, or named literary cycles. They record the traditional language name *Ichishkíin Sɨ́nwit*, meaning “this language,” and state that the Yakama Nation tribal Cultural Resources program has promoted its use instead of the name Sahaptin. The sources also identify the Washane, or “Dreamer Religion,” and name Smohalla as its most prominent leader. Donald M. Hines’s *Ghost Voices: Yakima Indian myths, legend, humor, and hunting stories* is listed among the further-reading works in the Yakama article, but the supplied sources do not summarize its contents.
+The sources record the traditional language name *Ichishkíin Sɨ́nwit*, meaning “this language,” and state that the Yakama Nation tribal Cultural Resources program has promoted its use instead of the name Sahaptin. The sources also identify the Washane, or “Dreamer Religion,” and name Smohalla as its most prominent leader. Donald M. Hines’s *Ghost Voices: Yakima Indian myths, legend, humor, and hunting stories* is listed among the further-reading works in the Yakama article, but the supplied sources do not summarize its contents.
 
 ## Language & religion
 
-Yakama is a northwestern dialect of Sahaptin, a Sahaptian language of the Plateau Penutian family. Sahaptin is spoken in parts of southern Washington, northern Oregon, and southwestern Idaho, and among the Yakama, Warm Springs, and Umatilla. In the Yakama dialect, the language is called *Ichishkíin Sɨ́nwit*, also spelled *Ichishkíin*, *Íchishkin*, *Íchishkink*, or *Chishkíin*. The source says that *Ichishkínk* and *Chishkín* mean literally “in this way/manner.” Sahaptin has a split ergative syntax, direct-inverse voicing, and applicative constructions. The sources document the Washane, or “Dreamer Religion,” led most prominently by Smohalla, but do not provide a broader account of current Yakama religious life.
+Yakama is a northwestern dialect of Sahaptin, a Sahaptian language of the Plateau Penutian family. Sahaptin is spoken in parts of southern Washington, northern Oregon, and southwestern Idaho, and among the Yakama, Warm Springs, and Umatilla. In the Yakama dialect, the language is called *Ichishkíin Sɨ́nwit*, also spelled *Ichishkíin*, *Íchishkin*, *Íchishkink*, or *Chishkíin*. The source says that *Ichishkínk* and *Chishkín* mean literally “in this way/manner.” Sahaptin has a split ergative syntax, direct-inverse voicing, and applicative constructions. The sources document the Washane, or “Dreamer Religion,” led most prominently by Smohalla.
 
 ## Sources & further reading
 

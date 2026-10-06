@@ -19,7 +19,7 @@ The sources used here name no Kru weaving, dyeing or patterned-cloth tradition. 
 
 ### Clothing & dress
 
-Nineteenth-century photographs of Kru men show a working coastal dress of loincloths worn with personal ornaments, and — among the Kroo communities settled abroad — a deliberate mixture of European and local garments: a group photographed in Southern Nigeria stands in European jackets and wrapped cloths together, one man seated on a European-style chair, another holding a European hat. Ceremonial and civic dress is documented at one remove, in a photograph of Kroo boys processing along the Marina for the Diamond Jubilee wearing uniforms with caps, shirts, a cloth around the lower body and a sash, and carrying large flags. Among the elders of the older Kru commonwealths, the insignia of office were not garments but iron rings worn on the legs. The sources do not describe women's dress, footwear or headwear separately.
+Nineteenth-century photographs of Kru men show a working coastal dress of loincloths worn with personal ornaments, and — among the Kroo communities settled abroad — a deliberate mixture of European and local garments: a group photographed in Southern Nigeria stands in European jackets and wrapped cloths together, one man seated on a European-style chair, another holding a European hat. Ceremonial and civic dress is documented at one remove, in a photograph of Kroo boys processing along the Marina for the Diamond Jubilee wearing uniforms with caps, shirts, a cloth around the lower body and a sash, and carrying large flags. Among the elders of the older Kru commonwealths, the insignia of office were not garments but iron rings worn on the legs.
 
 ### Architecture
 
@@ -31,7 +31,7 @@ The canoe paddle is the defining Kru object, and the collections hold it in a co
 
 ### Jewelry & body adornment
 
-The best-documented Kru body marking is political rather than decorative. Kru oral tradition holds firmly that the Kru were never enslaved, and to secure their standing as freemen they took up tattooing the forehead and the bridge of the nose with indigo dye, a mark that distinguished them at sight from people held as slaves. Rank carried its own metalwork: in the small Kru commonwealths described in the late nineteenth century, power lay with the elders, whose insignia were iron rings worn on the legs. Photographs of Kru men on the coast show them wearing personal ornaments, but the sources do not name or describe the types.
+The best-documented Kru body marking is political rather than decorative. Kru oral tradition holds firmly that the Kru were never enslaved, and to secure their standing as freemen they took up tattooing the forehead and the bridge of the nose with indigo dye, a mark that distinguished them at sight from people held as slaves. Rank carried its own metalwork: in the small Kru commonwealths described in the late nineteenth century, power lay with the elders, whose insignia were iron rings worn on the legs. Photographs of Kru men on the coast show them wearing personal ornaments.
 
 ## Music & performance
 

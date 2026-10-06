@@ -13,15 +13,11 @@ The Irigwe, also called *Nneirigwe* in Rigwe, *Á̱nietza̱fan* in Tyap, and *Mi
 
 ### Textile & pattern traditions
 
-The sources do not document named Irigwe textile or pattern traditions.
-
 **Fringed cloth** — A photographic catalogue record describes an Irigwe adult female wearing fringed cloth tied around the waist.
 
 **Waist-ornament or cloth** — Catalogue records describe women wearing a waist-ornament or cloth with tassels, or with bunches of leaves at the back and front.
 
 **Hand-made cloth** — A carved wooden standing male figure has a piece of hand-made cloth around the waist.
-
-**Motif vocabulary.** The sources do not name motifs.
 
 ### Clothing & dress
 
@@ -29,35 +25,23 @@ The museum records describe several forms of Irigwe dress without supplying vern
 
 ### Architecture
 
-The catalogue records describe low, circular, thatched-roof buildings with small entrances or exits. Several are identified as small “granaries,” and one appears behind a group of women and children. Another building stands as a shrine in front of which an adult woman is portrayed. This shrine is a low, circular, thatched-roof building with depictions of animals in relief on its walls. The sources do not provide vernacular building names, construction details, settlement layouts, or information about roof-making beyond these descriptions.
+The catalogue records describe low, circular, thatched-roof buildings with small entrances or exits. Several are identified as small “granaries,” and one appears behind a group of women and children. Another building stands as a shrine in front of which an adult woman is portrayed. This shrine is a low, circular, thatched-roof building with depictions of animals in relief on its walls.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum catalogue records two iron daggers or knives: an iron dagger with a loop handle and incised ornament, and an iron knife with a wooden handle and stamped leather sheath terminating in a tassel. Other recorded objects include a long, ornate pipe, a spindle, and a carved wooden standing male figure. The sources do not document ceramics or pottery.
+The museum catalogue records two iron daggers or knives: an iron dagger with a loop handle and incised ornament, and an iron knife with a wooden handle and stamped leather sheath terminating in a tassel. Other recorded objects include a long, ornate pipe, a spindle, and a carved wooden standing male figure.
 
 ### Jewelry & body adornment
 
-The catalogue records neck-ornaments, wrist-ornaments, head-cloths, head-bands, animal-hide shoulder straps, and waist-ornaments or cloth. Several photographic records describe scarification on the arms, chest, and shoulders. The carved wooden male figure has hair dressed in a crest, holes representing the eyes and nostrils, and another hole in the centre of the forehead; fibre twine is around the neck. The sources do not identify the materials, vernacular names, ritual functions, or hair practices associated with these forms of adornment.
-
-## Music & performance
-
-The sources do not document Irigwe musical instruments, song genres, musical styles, or performance contexts specifically concerned with music.
+The catalogue records neck-ornaments, wrist-ornaments, head-cloths, head-bands, animal-hide shoulder straps, and waist-ornaments or cloth. Several photographic records describe scarification on the arms, chest, and shoulders. The carved wooden male figure has hair dressed in a crest, holes representing the eyes and nostrils, and another hole in the centre of the forehead; fibre twine is around the neck.
 
 ## Dance & theatre
 
-Young Irigwe farmers usually leap to encourage the growth of crops at festivals related to the agricultural cycle. Other occupational guilds and professional organizations, including blacksmiths, hunters, and wood-carvers, possess their own expressive dances. Hunters may mime animal movements as a ritual means of controlling wild beasts and allaying their fears. The sources do not provide names for these dances, describe theatrical traditions, or identify accompanying instruments or songs.
+Young Irigwe farmers usually leap to encourage the growth of crops at festivals related to the agricultural cycle. Other occupational guilds and professional organizations, including blacksmiths, hunters, and wood-carvers, possess their own expressive dances. Hunters may mime animal movements as a ritual means of controlling wild beasts and allaying their fears.
 
 ## Festivals & rituals
 
-The sources refer to festivals related to the agricultural cycle, during which young Irigwe farmers leap in order to encourage the growth of crops. They also describe an “all-important” ritual held for the well-being of the entire group or tribe. This ritual is traditionally under the authority of priestly elders from several tribal subdivisions. Spirit possession cults involve nearly all the mature women of the tribe and provide emotional catharsis and avenues for social integration in relation to the repeated separations produced by the marriage system. The sources do not provide festival names, dates, seasonal details, or descriptions of birth, initiation, funeral, or other life-cycle rites.
-
-## Foodways
-
-The sources do not document Irigwe staple foods, dishes, cooking methods, dietary rules, or food-related ceremonies.
-
-## Oral tradition & literature
-
-The sources do not document Irigwe folktales, epic poetry, proverbs, riddles, storytelling practices, or literary preservation efforts.
+The sources refer to festivals related to the agricultural cycle, during which young Irigwe farmers leap in order to encourage the growth of crops. They also describe an “all-important” ritual held for the well-being of the entire group or tribe. This ritual is traditionally under the authority of priestly elders from several tribal subdivisions. Spirit possession cults involve nearly all the mature women of the tribe and provide emotional catharsis and avenues for social integration in relation to the repeated separations produced by the marriage system.
 
 ## Language & religion
 

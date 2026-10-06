@@ -39,10 +39,6 @@ Personal ornament is shell, quill and turtleshell rather than metal. A bracelet 
 
 Three instruments are documented, all of them collected objects rather than described performances: a Jew's harp of wood and vegetable fibre, a drum with a body of wood and bamboo and a head of deer skin, and a whistle of bamboo with coconut-leaf fibre. The sources say nothing about song genres, repertoire, ensemble practice or the occasions on which any of these are played.
 
-## Dance & theatre
-
-The sources used here do not cover Nuaulu dance or theatre.
-
 ## Festivals & rituals
 
 Nuaulu religion holds that the ancestors control everyday life, and that if the traditions they handed down are not followed correctly the living are punished with sickness, death and lack of prosperity. It names an original creator, *Upu Kuanahatana*, and recognises powerful magic that people can use for good or for bad purposes. The *Baileo* is built for spiritual purposes. The clearest ritual complex in the material record is male initiation: a barkcloth garment with shell attachments and a plaited mat of vegetable fibre are both catalogued as used in the initiation ceremony, and the men's armbands and legbands are recorded as for ritual occasions. A carved charm called *wate*, in the figure of a dog-like creature, is made from a sago leafstalk with red cloth attachments, a detachable tail, a small white stone for one eye and a second white stone set in the anus. The Nuaulu retained a custom of headhunting until the 1940s; the last incident was in 2005, when seven Nuaulu were involved in the killing of two residents of Rutah village near the Rutah River, and the perpetrators were sentenced to death by the court.
@@ -53,7 +49,7 @@ Sago is the staple. The Nuaulu are subsistence farmers using shifting cultivatio
 
 ## Oral tradition & literature
 
-The sources used here do not cover Nuaulu folktales, epic narrative or storytelling practice. What they do record is a linguistic practice adjacent to it: Florey and Bolton's study of personal names, lexical replacement and language shift in eastern Indonesia draws on Nuaulu material.
+What the sources do record is a linguistic practice adjacent to it: Florey and Bolton's study of personal names, lexical replacement and language shift in eastern Indonesia draws on Nuaulu material.
 
 ## Language & religion
 

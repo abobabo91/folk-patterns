@@ -47,7 +47,7 @@ Tahitian clothing ranged from simple barkcloth and fibre garments to an elaborat
 The sources give little information about Tahitian architecture.
 
 - **Cultivated volcanic land** — The original Tahitians cleared fertile volcanic soils for cultivation.
-- **Fishing canoe** — The original Tahitians built fishing canoes, but the sources do not describe their construction.
+- **Fishing canoe** — The original Tahitians built fishing canoes.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -67,7 +67,7 @@ Tahitian adornment used shells, coconut shells, flowers, and garlands.
 
 ## Music & performance
 
-The sources name Tahitian poets and anticolonial writing but do not describe music or instruments.
+The sources name Tahitian poets and anticolonial writing.
 
 - **Anticolonial poetry and writing** — Henri Hiro, Charles Manutahi, Vaitiare, and Turo Raapoto led anticolonial writing in Tahiti in the late 1960s and early 1970s.
 - **God of Culture** — Henri Hiro’s God of Culture invokes Oihanu, the Tahitian god of culture and husbandry.
@@ -88,8 +88,6 @@ The sources do not describe an annual festival calendar or named life-cycle cere
 - **Tiurai** — Tiurai was described as the most famous Tahitian healer and died at age 83 during the 1918 influenza outbreak on Tahiti.
 
 ## Foodways
-
-The sources do not describe Tahitian foods, cooking, or cuisine.
 
 - **Cultivation** — The original Tahitians cleared fertile volcanic soils for cultivation.
 - **Fishing canoes** — The original Tahitians built fishing canoes, but the sources give no further account of fishing practices.
@@ -134,4 +132,3 @@ Tahitian identity is expressed through the names Māʼohi and Tahitiens, while P
 - UNESCO Intangible Cultural Heritage: no inscription for French Polynesia is included among the supplied sources.
 - British Museum online collection records for Tahitian costumes, barkcloth, quilts, necklaces, photographs, and related objects.
 - Metropolitan Museum of Art catalogue record for *Tahiri* (handle for a fly whisk), 18th century.
-

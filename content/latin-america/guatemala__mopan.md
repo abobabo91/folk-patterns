@@ -61,10 +61,6 @@ Necklaces combine pottery beads and seeds in fixed patterns with modelled pendan
 - **Glass beadwork bracelet** — A rectangular bracelet of flat beadwork showing an orange and fuchsia diamond pattern on a green ground, fastened with a metal hook and eye.
 - **Wire earrings with glass beads** — Wire hoop earrings hung with green glass beads, worn on the sides of the head.
 
-## Music & performance
-
-No Mopan instruments, song genres or musical occasions are documented in the available sources.
-
 ## Dance & theatre
 
 Masked dance is the best-documented performance tradition, using carved wooden human masks and animal-head equipment for dancers.
@@ -139,4 +135,3 @@ Mopan belongs to the Yucatecan branch of Mayan languages with three to four thou
 - https://en.wikipedia.org/wiki/Mopan_people
 - https://en.wikipedia.org/wiki/Mopan_language
 - British Museum online collection: https://www.britishmuseum.org/collection
-

@@ -7,7 +7,7 @@ tags: [ethnography, south-asia]
 
 ## Overview
 
-The Apatani are an ethnic group of the Ziro valley, in the Lower Subansiri region of Arunachal Pradesh in northeast India. They are one of the major ethnic groups of the eastern Himalayas, and their language, *Apatani* — also called Apa Tani or *Tanw* — belongs to the Tani branch of the Sino-Tibetan family; Ethnologue records it as spoken in seven Ziro villages: Hong, Hari, Biilla, Dutta, Hija, Mudang-Tage and Bamin Michi. What distinguishes the Apatani in folk-culture terms is the integration of their material life with their land: a wet rice cultivation system worked without farm animals or machinery, a sustainable social forestry system, and village councils called *bulyañ*. UNESCO has proposed the Apatani valley for World Heritage listing for its "extremely high productivity" and its "unique" way of preserving the ecology. The sources used here do not give a population figure.
+The Apatani are an ethnic group of the Ziro valley, in the Lower Subansiri region of Arunachal Pradesh in northeast India. They are one of the major ethnic groups of the eastern Himalayas, and their language, *Apatani* — also called Apa Tani or *Tanw* — belongs to the Tani branch of the Sino-Tibetan family; Ethnologue records it as spoken in seven Ziro villages: Hong, Hari, Biilla, Dutta, Hija, Mudang-Tage and Bamin Michi. What distinguishes the Apatani in folk-culture terms is the integration of their material life with their land: a wet rice cultivation system worked without farm animals or machinery, a sustainable social forestry system, and village councils called *bulyañ*. UNESCO has proposed the Apatani valley for World Heritage listing for its "extremely high productivity" and its "unique" way of preserving the ecology.
 
 ## Material culture
 
@@ -41,7 +41,7 @@ Unfired clay modelling is the group's one recorded ceramic practice: light grey 
 
 ### Jewelry & body adornment
 
-Apatani ornament is largely plaited cane and fibre rather than metal. Waist-rings come in two constructions: rings made from three pieces of cane plaited to form a pattern, and double rings of cane covered with black and buff vegetable fibre plaited to form a pattern — collected in quantity, seventeen in a single register entry. Men wore knee rings of plaited vegetable fibre in its natural colour. Ear-rings appear in both idioms: plaited vegetable fibre ear-rings, and coiled yellow metal ones, eleven in one lot. Women's cylindrical nose-plugs of wood, charred, are the collection's one item of facial ornament and the one piece marked explicitly as women's. The sources do not describe tattooing, hair practices or any ritual meaning attached to these ornaments.
+Apatani ornament is largely plaited cane and fibre rather than metal. Waist-rings come in two constructions: rings made from three pieces of cane plaited to form a pattern, and double rings of cane covered with black and buff vegetable fibre plaited to form a pattern — collected in quantity, seventeen in a single register entry. Men wore knee rings of plaited vegetable fibre in its natural colour. Ear-rings appear in both idioms: plaited vegetable fibre ear-rings, and coiled yellow metal ones, eleven in one lot. Women's cylindrical nose-plugs of wood, charred, are the collection's one item of facial ornament and the one piece marked explicitly as women's.
 
 ## Music & performance
 
@@ -49,7 +49,7 @@ The sources name no Apatani instruments, song genres or musical performance cont
 
 ## Dance & theatre
 
-The one named Apatani dance in the sources is the *Piree* dance, performed as part of the cultural programme of the agricultural festival Dree, alongside Paku-Itu and Daminda. The sources give no description of its movement, costume or performers, and say nothing about Apatani masked, dramatic or puppet traditions.
+The one named Apatani dance in the sources is the *Piree* dance, performed as part of the cultural programme of the agricultural festival Dree, alongside Paku-Itu and Daminda.
 
 ## Festivals & rituals
 
@@ -59,11 +59,11 @@ The Apatani have two major festivals, *Dree* and *Myoko*.
 
 **Myoko** commemorates the inter-village friendship handed down by the forefathers through the generations to the present, a bond each generation of members carries forward. The main celebration falls in mid-March, but the festival's rituals begin much earlier, in the preceding month, and end in April. Through this period the host village serves and distributes a large quantity of food and drink — the hosting village bearing the cost of the bond being renewed.
 
-The sources describe Apatani spiritual belief systems as one of the forces, with traditional customs, that has nurtured the interdependence of people and environment in the Ziro valley, but they do not detail birth, coming-of-age, marriage or funeral rites. The catalogue's priest's jacket, priest's cloth and cloak and priest's head-dress indicate a ritual office with its own dress, and the unfired clay models of mithan and of a human figure sit within the same collected material, but the records do not state their use.
+The sources describe Apatani spiritual belief systems as one of the forces, with traditional customs, that has nurtured the interdependence of people and environment in the Ziro valley. The catalogue's priest's jacket, priest's cloth and cloak and priest's head-dress indicate a ritual office with its own dress, and the unfired clay models of mithan and of a human figure sit within the same collected material, but the records do not state their use.
 
 ## Foodways
 
-The sources do not describe Apatani dishes, cooking methods or dietary rules. What they establish is the agricultural base: a wet rice cultivation system of extensive scale worked without farm animals or machines, which UNESCO has singled out for its extremely high productivity, supported by traditional ecological knowledge of natural resource management built up over centuries through informal experimentation. The one recorded consumption practice outside farming is tobacco, evidenced by a bamboo pipe-bowl containing charred tobacco. During the Myoko festival period a huge amount of food and drink is served and distributed by the host village.
+What the sources establish is the agricultural base: a wet rice cultivation system of extensive scale worked without farm animals or machines, which UNESCO has singled out for its extremely high productivity, supported by traditional ecological knowledge of natural resource management built up over centuries through informal experimentation. The one recorded consumption practice outside farming is tobacco, evidenced by a bamboo pipe-bowl containing charred tobacco. During the Myoko festival period a huge amount of food and drink is served and distributed by the host village.
 
 ## Oral tradition & literature
 

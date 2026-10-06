@@ -33,10 +33,6 @@ No ceramics appear in the collection, and the only metal is introduced: an iron 
 
 Necklaces are the one ornament type documented, and all of them are strung from materials taken from animals rather than traded in. Four are of bone: one of small bone pieces, one of bone pieces threaded on sinew, and one of lengths of bird bone. Two are of shell, and for one of these the shells were identified for the museum by Dr Nils Odhner of Stockholm as *Photinula violacae* King. Body painting is documented photographically rather than verbally: a Gusinde photograph in the collection is catalogued for body painting and masks together, from his plates of the men's ceremonies. The sources used say nothing about tattooing, hair practices or the occasions on which the necklaces were worn.
 
-## Music & performance
-
-The sources used do not cover Selkʼnam instruments, song genres or musical occasions.
-
 ## Dance & theatre
 
 The one performance tradition the sources document is the masked impersonation of spirits by men. The mythology recorded by Gusinde and Anne Chapman holds that *Xalpen*, the goddess of the underworld, and her subordinate *soorts* were inhabitants of the underworld who were represented by men in the *Hain* ceremony. The collection holds a leather mask and a Gusinde photograph, published in the plate atlas of his *Die Feuerland-Indianer* (1931), captioned as the representation of demons at the secret Selkʼnam manhood ceremonies, with body painting noted as part of the same image. The sources name no dances and no secular or entertainment theatre.

@@ -35,7 +35,7 @@ The sources describe decorated clothing and beadwork but name no textile traditi
 
 ### Clothing & dress
 
-The records show varied clothing and adornment but do not describe a complete everyday or ceremonial dress system.
+The records show varied clothing and adornment.
 
 - **Big Spring’s outfit** — Big Spring wore a feather headdress, necklaces, a decorated hide shirt and leggings, a loin covering, and moccasins.
 - **Woman’s cloth dress** — Big Spring’s wife wore a brimmed felt hat, a cloth scarf, and a decorated cloth dress with beadwork and horizontal cloth strips.
@@ -44,8 +44,6 @@ The records show varied clothing and adornment but do not describe a complete ev
 - **Horseback costumes** (*Many Mixtures; Jim Little Leaf; Joe Calf Child*) — Three photographed people wore assorted feathered headdresses and costumes while on horseback.
 
 ### Architecture
-
-The sources do not describe Piegan Blackfeet buildings or settlement layouts.
 
 - **Tepees** — Tepees appear in the background of one group photograph, but the record gives no details about their construction or use.
 
@@ -75,10 +73,6 @@ The sources name no instruments or song traditions, but describe women who could
 - **Manly-hearted women** — Some Blackfeet women took on many social roles of men.
 - **Solo singing** — These women were willing to sing alone, which was usually considered immodest.
 - **Men’s singing style** — These women could use a men’s singing style.
-
-## Dance & theatre
-
-The sources do not document named dances, theatre, or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -141,4 +135,3 @@ The Piegan speak Blackfoot, an Algonquian language, and describe a sacred force 
 - Bryan R. Johnson, *The Blackfeet: An Annotated Bibliography*, Garland Publishing, 1988.
 - Wikipedia: [Piegan Blackfeet](https://en.wikipedia.org/wiki/Piegan_Blackfeet)
 - British Museum catalogue records for photographic prints, glass negatives, and a postcard depicting Piegan and South Piegan people.
-

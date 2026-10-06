@@ -13,7 +13,7 @@ The Luhya — also written Luyia or Abaluhya — are a Bantu-speaking people of 
 
 ### Textile & pattern traditions
 
-The sources used here do not describe any woven or dyed cloth tradition for the Luhya. What they do document is worked hide and plant fibre, which carry the same load that cloth does elsewhere.
+What the sources do document is worked hide and plant fibre, which carry the same load that cloth does elsewhere.
 
 **Segmented antelope-skin cloak** — A man's cloak in the British Museum is made of six separate pieces of antelope-skin leather sewn together, so the garment's surface is articulated by its seams rather than by pattern applied to a single hide. Photographs from the same collection show Maragoli men wearing animal hides in the fields.
 
@@ -33,7 +33,7 @@ Muslim dress appears at the Wanga court. A full-length portrait identifies Bakai
 
 ### Architecture
 
-The one direct record is a photograph of two Kitosh men constructing the frame of a dwelling out of branches and sticks — a framed, not walled-up-first, building sequence, photographed in a rural setting. A thatched roof appears in the background of the portrait of the Wanga elder Bakairi. Beyond the homestead, one built form is agricultural rather than residential: a Maragoli **quail pole**, photographed as a tall pole standing above the bush with baskets hanging from it. Grain is processed in the open air — sorghum heads are spread in a circle on the ground to dry, and girls winnow millet by pouring it from their hands into a basket. The sources do not otherwise describe house plan, wall construction or ornament, and say nothing about how homesteads were laid out.
+The one direct record is a photograph of two Kitosh men constructing the frame of a dwelling out of branches and sticks — a framed, not walled-up-first, building sequence, photographed in a rural setting. A thatched roof appears in the background of the portrait of the Wanga elder Bakairi. Beyond the homestead, one built form is agricultural rather than residential: a Maragoli **quail pole**, photographed as a tall pole standing above the bush with baskets hanging from it. Grain is processed in the open air — sorghum heads are spread in a circle on the ground to dry, and girls winnow millet by pouring it from their hands into a basket.
 
 ### Ceramics, metalwork & everyday objects
 

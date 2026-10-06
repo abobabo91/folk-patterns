@@ -17,10 +17,6 @@ The sources used — the Wikipedia articles on the Kokama people and the Cocama 
 
 **Motif vocabulary.** *Kene* — the design named in the catalogue entry for a polychrome vessel; otherwise the records specify only geometric decoration in black, red and orange on cream, and thin and thick dark red-brown lines.
 
-### Clothing & dress
-
-The sources used do not describe Kokama clothing or ceremonial dress.
-
 ### Architecture
 
 The sources used say nothing about Kokama house forms, building materials or settlement layout beyond the riverbank locations of Kokama communities on the Ucayali, Marañón and Huallaga.
@@ -29,25 +25,9 @@ The sources used say nothing about Kokama house forms, building materials or set
 
 Pottery is the one craft the museum records document in quantity. The British Museum objects attributed to the Kokama are predominantly vessels: plain **pottery bowls**, a **water jar**, a **jug with a looped handle** painted white and red, and two larger **jars** whose circular mouths are glazed red while the body is painted cream and carries red and black geometric designs — on the two-handled example as on the single-mouthed one. The most fully described piece is a **polychrome vessel** decorated with *kene* design: its interior slipped in dark red and burnished, the rim inturned and chipped, the body walls round and concave and tapering towards the base into a second concave section, the exterior slipped in cream and worked in thin and thick dark red-brown lines with an orange geometric pattern. Alongside the ceramics the collection holds two **fish harpoon-heads** of iron with twined grass rope still attached — the only metal and fibre work among the objects shown.
 
-### Jewelry & body adornment
-
-The sources used do not document Kokama jewelry, body painting or hair practices.
-
 ## Music & performance
 
 The sources name no Kokama instruments or song genres. What they do record is song used as a vehicle for the language: in 2013 residents of Nauta, in Peru's Loreto Province, made a children's rap video in the Kukama-Kukamiria dialect with the local station Radio Ucamara, and the school the station runs, Ikuar, teaches the language through songs as well as storytelling.
-
-## Dance & theatre
-
-The sources used do not cover Kokama dance or dramatic traditions.
-
-## Festivals & rituals
-
-The sources used contain no account of a Kokama festival calendar or of birth, initiation, marriage or funeral rites.
-
-## Foodways
-
-The sources used do not describe Kokama staples, dishes, drinks or food-related rules.
 
 ## Oral tradition & literature
 

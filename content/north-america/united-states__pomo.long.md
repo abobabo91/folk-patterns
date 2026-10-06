@@ -33,15 +33,15 @@ Materials included swamp canes, rye grass, black ash, willow shoots, sedge roots
 
 ### Clothing & dress
 
-The sources do not provide a systematic account of everyday clothing, footwear, belts, or women’s and men’s ordinary dress. They do document ceremonial costume. The Kuksu or Guksu impersonators painted their bodies black, or striped red, white, and black, and wore bulky, feathery headdresses or a large feather tuft with a yellow headband. The nose of the impersonation was made with feathers and painted red. A Calnis dancer was painted entirely black, carried a black staff without feathers, and wore a feather cape over the face. Museum records describe head-dresses, feather headdresses, dance regalia, and a rattle decorated with dark and dyed bird feathers. A 1906 postcard records men painted, costumed, and prepared for ceremonies associated with an Upper Lake roundhouse performance.
+The sources document ceremonial costume. The Kuksu or Guksu impersonators painted their bodies black, or striped red, white, and black, and wore bulky, feathery headdresses or a large feather tuft with a yellow headband. The nose of the impersonation was made with feathers and painted red. A Calnis dancer was painted entirely black, carried a black staff without feathers, and wore a feather cape over the face. Museum records describe head-dresses, feather headdresses, dance regalia, and a rattle decorated with dark and dyed bird feathers. A 1906 postcard records men painted, costumed, and prepared for ceremonies associated with an Upper Lake roundhouse performance.
 
 ### Architecture
 
-Pomo communities lived in villages and small groups, but the sources do not provide a complete account of ordinary house construction, roof forms, or settlement plans. Religious ceremonies took place in subterranean dance rooms, sweat houses, dance-houses, and an Upper Lake roundhouse. The six supernatural beings in Pomo ceremony and tradition were imagined to live in sweat houses or dance-houses at the ends of the world. The sources also mention a ghost town identified as Amacha, built for 100 people and later burned after its inhabitants were taken to government lands.
+Pomo communities lived in villages and small groups. Religious ceremonies took place in subterranean dance rooms, sweat houses, dance-houses, and an Upper Lake roundhouse. The six supernatural beings in Pomo ceremony and tradition were imagined to live in sweat houses or dance-houses at the ends of the world. The sources also mention a ghost town identified as Amacha, built for 100 people and later burned after its inhabitants were taken to government lands.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not document a Pomo ceramic tradition or metalworking tradition. They do describe wooden smoking-pipes, staffs used by ceremonial impersonators, double bone whistles, rattles made from cocoons attached to a wooden stave, millstones, handstones, bowls, mortars, pestles, shell beads, pendants, and soapstone objects. Museum records include basket bowls, a basket plate, a basket vessel without a bottom, game sticks with burned ornamentation, a horn dagger, and a wooden smoking-pipe.
+The sources describe wooden smoking-pipes, staffs used by ceremonial impersonators, double bone whistles, rattles made from cocoons attached to a wooden stave, millstones, handstones, bowls, mortars, pestles, shell beads, pendants, and soapstone objects. Museum records include basket bowls, a basket plate, a basket vessel without a bottom, game sticks with burned ornamentation, a horn dagger, and a wooden smoking-pipe.
 
 ### Jewelry & body adornment
 
@@ -49,7 +49,7 @@ Pomo jewelry was made from abalone and clamshells and was worn during celebratio
 
 ## Music & performance
 
-The sources do not identify a named Pomo musical genre or provide a general account of song traditions. They do document ceremonial performance and instruments. The Guksu impersonator carried a staff 6 to 8 inches long with a feather tuft and used a double bone whistle; he whistled but did not speak. Museum records describe a rattle made from moth cocoons arranged around a wooden stave and decorated with dark and dyed bird feathers. The rattle formed part of dance equipment.
+The sources document ceremonial performance and instruments. The Guksu impersonator carried a staff 6 to 8 inches long with a feather tuft and used a double bone whistle; he whistled but did not speak. Museum records describe a rattle made from moth cocoons arranged around a wooden stave and decorated with dark and dyed bird feathers. The rattle formed part of dance equipment.
 
 The Kuksu religion included elaborate acting and dancing ceremonies in traditional costume, an annual mourning ceremony, puberty rites of passage, shamanic intervention with the spirit world, and an all-male society that met in subterranean dance rooms. The person who played Guksu was often considered the medicine man and could dress as Guksu when treating the sick. A 1906 postcard records five men prepared for an Upper Lake roundhouse performance described as religious in nature; the record identifies Jim Rickabaugh, Johnny Bull, Dick Green, “Snap” Bucknell, and Charles Rickabaugh.
 
@@ -57,19 +57,19 @@ The Kuksu religion included elaborate acting and dancing ceremonies in tradition
 
 Pomo ceremonial performance included the Guksu ceremony, Kuksu ceremonies, acting, dancing, costuming, impersonation, and physical and mental tests. The Guksu ceremony lasted 6 days, with the dancers appearing once a day. One part, called “The Scarifying Ceremony,” initiated children ages 5 to 10 through tests administered by the dressed-up dancers.
 
-Guksu impersonators represented a healing spirit from the south. Calnis dancers were associated with Guksu and pursued people and “tripped them up.” Museum records describe Pomo men in dance regalia and an Upper Lake roundhouse performance. The sources do not describe a separate secular theatre tradition.
+Guksu impersonators represented a healing spirit from the south. Calnis dancers were associated with Guksu and pursued people and “tripped them up.” Museum records describe Pomo men in dance regalia and an Upper Lake roundhouse performance.
 
 ## Festivals & rituals
 
 The sources document an annual mourning ceremony, puberty rites of passage, shamanic intervention, the Guksu ceremony, and the “Scarifying Ceremony.” The Guksu ceremony lasted 6 days, and its dancers appeared once a day. During the Scarifying Ceremony, children ages 5 to 10 underwent physical and mental tests administered by dancers in ceremonial dress.
 
-Pomo religious practice included an all-male society that met in subterranean dance rooms. The Pomo believed in Kuksu or Guksu, a supernatural being who lived in the south and came during ceremonies to heal illness, as well as spirits from six cardinal directions and Coyote as ancestor and creator god. The sources do not provide a complete annual calendar of festivals, or detailed wedding, birth, and funeral customs beyond the annual mourning ceremony and puberty rites.
+Pomo religious practice included an all-male society that met in subterranean dance rooms. The Pomo believed in Kuksu or Guksu, a supernatural being who lived in the south and came during ceremonies to heal illness, as well as spirits from six cardinal directions and Coyote as ancestor and creator god.
 
 ## Foodways
 
 Fishing, hunting, and gathering supplied daily food. The sources name salmon, wild greens, gnats, mushrooms, berries, grasshoppers, rabbits, rats, and squirrels. Acorns were the most important staple. Women generally gathered and prepared plant foods, while men hunted and fished.
 
-Acorns were processed with mortars and pestles and were harvested in large conical burden baskets. Archaeological sites contained bowls, mortars, pestles, millstones, and handstones for grinding seeds and nuts. Basketry was used to store, cook, and serve food, including in some watertight forms. The sources do not name a Pomo dish, beverage, dietary rule, or ceremonial food beyond these ingredients and preparations.
+Acorns were processed with mortars and pestles and were harvested in large conical burden baskets. Archaeological sites contained bowls, mortars, pestles, millstones, and handstones for grinding seeds and nuts. Basketry was used to store, cook, and serve food, including in some watertight forms.
 
 ## Oral tradition & literature
 
@@ -91,4 +91,3 @@ Pomo religious traditions included shamanism and the Kuksu religion. Guksu or Ku
 - Wikipedia, “Pomo religion”: https://en.wikipedia.org/wiki/Pomo_religion
 - The supplied museum catalogue records from the British Museum, Museum of World Culture, and Museum of Ethnography.
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
-- The supplied sources do not provide books, named documentation projects, or museum collection URLs.

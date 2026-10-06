@@ -7,7 +7,7 @@ tags: [ethnography, sub-saharan-africa]
 
 ## Overview
 
-The Obolo, also called the Andoni or Doni, are an Ijaw subgroup of the Niger Delta in southern Nigeria, living across Rivers State and Akwa Ibom State. Their territory runs from Eastern Obolo in Akwa Ibom State westward to the Bight of Bonny in Rivers State — estuarine, creek-cut country whose oil and gas fields supply part of Nigeria's petroleum revenue. The word *Obolo* names the people, their language and their land alike. They speak Obolo, the most divergent member of the Lower Cross subgroup of Cross River, itself a branch of Benue-Congo. The sources do not give a population figure. In folk-culture terms the Obolo matter for two things the sources document directly: the cast copper-alloy weaponry, bells and figures taken from their shrines by the British in 1904 and now in the British Museum, and a century-long literary movement that carried the language from its first printed almanacs to a complete Bible and a Wikipedia edition.
+The Obolo, also called the Andoni or Doni, are an Ijaw subgroup of the Niger Delta in southern Nigeria, living across Rivers State and Akwa Ibom State. Their territory runs from Eastern Obolo in Akwa Ibom State westward to the Bight of Bonny in Rivers State — estuarine, creek-cut country whose oil and gas fields supply part of Nigeria's petroleum revenue. The word *Obolo* names the people, their language and their land alike. They speak Obolo, the most divergent member of the Lower Cross subgroup of Cross River, itself a branch of Benue-Congo. In folk-culture terms the Obolo matter for two things the sources document directly: the cast copper-alloy weaponry, bells and figures taken from their shrines by the British in 1904 and now in the British Museum, and a century-long literary movement that carried the language from its first printed almanacs to a complete Bible and a Wikipedia edition.
 
 ## Material culture
 
@@ -29,11 +29,11 @@ The patterned surfaces the sources do attest are metal rather than cloth, and th
 
 ### Clothing & dress
 
-The sources say almost nothing about Obolo dress. The single item of evidence is the cast copper-alloy figure in the British Museum: a male figure seated on a low stool, wearing a triangular hat held on by a cane harness support, a necklace with a long linear pendant, and bracelets at both wrists and both ankles, with a bow in his right hand. What the figure records is therefore a specific costume of rank or ritual office rather than everyday clothing — headgear substantial enough to need a harness, and matched metal ornament at all four limbs. Nothing in the sources distinguishes men's from women's dress, names any garment in Obolo, or describes head coverings, belts or footwear beyond this one hat. One further clothing-adjacent fact appears: John Barbot, visiting Dony Town in 1699, recorded that the king there spoke Portuguese and had accepted Christianity, with priests sent to him from São Tomé and Brazil — but the sources do not say what that contact did or did not change about how people dressed.
+The sources say almost nothing about Obolo dress. The single item of evidence is the cast copper-alloy figure in the British Museum: a male figure seated on a low stool, wearing a triangular hat held on by a cane harness support, a necklace with a long linear pendant, and bracelets at both wrists and both ankles, with a bow in his right hand. What the figure records is therefore a specific costume of rank or ritual office rather than everyday clothing — headgear substantial enough to need a harness, and matched metal ornament at all four limbs. Nothing in the sources distinguishes men's from women's dress, names any garment in Obolo, or describes head coverings, belts or footwear beyond this one hat. One further clothing-adjacent fact appears: John Barbot, visiting Dony Town in 1699, recorded that the king there spoke Portuguese and had accepted Christianity, with priests sent to him from São Tomé and Brazil —.
 
 ### Architecture
 
-The sources used do not describe Obolo house form, building materials, roofing or architectural decoration. Two built structures are named, both destroyed: the **House of Skulls** and the **Shrine of Yok-Obolo**, which the British expedition of 1904 demolished. Their form is not described, but the shrine's contents are partly known from the museum records — the ivory horn now in London was part of the contents of a shrine, and came with four human crania joined together by braided vegetable fibre and a fifth separate cranium, which indicates what kind of interior these buildings held.
+Two built structures are named, both destroyed: the **House of Skulls** and the **Shrine of Yok-Obolo**, which the British expedition of 1904 demolished. Their form is not described, but the shrine's contents are partly known from the museum records — the ivory horn now in London was part of the contents of a shrine, and came with four human crania joined together by braided vegetable fibre and a fifth separate cranium, which indicates what kind of interior these buildings held.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -49,21 +49,17 @@ Only one Obolo instrument is documented in the sources, and it comes from a ritu
 
 Beyond these two objects the sources record no Obolo song genres, no ensembles, no named performance occasions and no singers. They do document one modern medium for the language: Obolo is used in radio and television programmes and taught at primary and junior secondary level. The hymn and prayer books printed by churches in the area after the first almanacs of the early 1940s are the only song texts the sources mention.
 
-## Dance & theatre
-
-The sources used do not describe any Obolo dance or dramatic tradition — no masquerade, no named dance, no theatrical form, whether ceremonial or for entertainment.
-
 ## Festivals & rituals
 
 One annual festival is named. **Ijok-Irin**, a fishing festival, is celebrated every 5 July and is unique to the people of Unyeada Kingdom — one of the Obolo communities whose dialect, Unyeada, is spoken in Andoni Local Government Area of Rivers State. The sources give no other date in the Obolo year and describe no life-cycle rites: nothing on birth, initiation, marriage or funerals.
 
 Religious practice before the colonial period centred on **Yok-Obolo**, whose shrine, together with the House of Skulls, the British destroyed in 1904. Yok-Obolo was feared among neighbouring peoples, who spread word of Obolo ferocity in battle as far as the British. The political consequence of that expedition is documented precisely: having levelled the shrine, the British split Andoni into six parts and attached each to one of the six Native Courts of the Niger Delta, intending to break the Obolo as a political body. Some of the bronze work collected during the expedition is on display in the British Museum, and the objects shown in this atlas are from that group.
 
-Christianity long predates the expedition. When John Barbot visited Dony Town in 1699 he found that the king had accepted Christianity, that priests were sent to him regularly from São Tomé and from Brazil to serve as ministers, and that the king spoke Portuguese. The sources do not say how the two observances — Yok-Obolo and the church — stood in relation to each other.
+Christianity long predates the expedition. When John Barbot visited Dony Town in 1699 he found that the king had accepted Christianity, that priests were sent to him regularly from São Tomé and from Brazil to serve as ministers, and that the king spoke Portuguese.
 
 ## Foodways
 
-The sources used do not describe Obolo cooking, staple foods, dishes or dietary practice. The only indication of what the food economy rests on is indirect: the annual Ijok-Irin festival at Unyeada is a fishing festival, and Obolo territory runs from Eastern Obolo to the Bight of Bonny.
+The only indication of what the food economy rests on is indirect: the annual Ijok-Irin festival at Unyeada is a fishing festival, and Obolo territory runs from Eastern Obolo to the Bight of Bonny.
 
 ## Oral tradition & literature
 

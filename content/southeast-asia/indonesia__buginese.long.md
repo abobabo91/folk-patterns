@@ -25,11 +25,7 @@ The sources name no further Buginese textile traditions or motif vocabulary.
 
 ### Clothing & dress
 
-The catalogue records a Buginese sarong made of cotton and patterned in black and white. It was sewn into a short-ended garment and could also be worn by girls as a head covering. A British Museum catalogue records a man’s hat made of dyed and interlaced vegetable fibre. Its shape derives from the Middle Eastern fez, and it is described as an early form of the black velvet hat called “peci,” which became established men’s headgear following Indonesia’s independence in 1945. A man’s ceremonial sword belt was tablet-woven from cotton yarn, padded, ornamented with floral patterning, and furnished with fringes and a loop. The sources do not describe everyday footwear, women’s separate dress, or other named Buginese garments.
-
-### Architecture
-
-The sources used do not describe Buginese houses, roof forms, building materials, named building types, urban traditions, or architectural decoration.
+The catalogue records a Buginese sarong made of cotton and patterned in black and white. It was sewn into a short-ended garment and could also be worn by girls as a head covering. A British Museum catalogue records a man’s hat made of dyed and interlaced vegetable fibre. Its shape derives from the Middle Eastern fez, and it is described as an early form of the black velvet hat called “peci,” which became established men’s headgear following Indonesia’s independence in 1945. A man’s ceremonial sword belt was tablet-woven from cotton yarn, padded, ornamented with floral patterning, and furnished with fringes and a loop.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,35 +33,23 @@ The museum records focus on edged weapons and related objects. A Buginese kris f
 
 ### Jewelry & body adornment
 
-A Dutch catalogue records a set of two bracelets called *ponto lola* in Buginese or *ponto sipapa* in Makassarese. They are hollow, somewhat triangular rings made of gilded sheet silver. Each bracelet consists of two halves joined by a pin. Leaf and flower ornaments in filigree decorate the bracelets, and blue and green gemstones are set into them. The set includes a small bag decorated with round green beads and a border of transparent beads. The sources do not document tattoos, henna, hair practices, or ritual functions for these ornaments.
+A Dutch catalogue records a set of two bracelets called *ponto lola* in Buginese or *ponto sipapa* in Makassarese. They are hollow, somewhat triangular rings made of gilded sheet silver. Each bracelet consists of two halves joined by a pin. Leaf and flower ornaments in filigree decorate the bracelets, and blue and green gemstones are set into them. The set includes a small bag decorated with round green beads and a border of transparent beads.
 
 ## Music & performance
 
-The sources record two British Museum objects described only as musical instruments made of bamboo. They do not provide their names, construction details beyond the material, musical systems, song genres, performance contexts, or ceremonial uses. The sources therefore do not cover Buginese music beyond the existence of these bamboo instruments.
-
-## Dance & theatre
-
-The sources used do not describe Buginese dances, theatre, masked performance, shadow puppetry, court performance, or other dramatic traditions.
-
-## Festivals & rituals
-
-The sources used do not describe an annual festival calendar, seasonal celebrations, harvest rites, birth ceremonies, coming-of-age practices, weddings, funerals, or other life-cycle rituals. They also do not identify named Buginese festivals or ritual foods.
-
-## Foodways
-
-The sources used do not describe Buginese staple foods, dishes, cooking methods, drinks, dietary rules, or ceremonial foodways.
+The sources record two British Museum objects described only as musical instruments made of bamboo.
 
 ## Oral tradition & literature
 
 The earliest written record of Buginese is identified as *Sureq Galigo*, the epic creation myth of the Bugis people. Another important written source is *Lontara*, a term referring both to the traditional script and to a historical record. The earliest historical record of Lontara dates to around the 17th century. Historians of Indonesia have described these records as “sober” and “factual” in comparison with records from other regions of Maritime Southeast Asia. They are generally written in a matter-of-fact tone, contain few mythical elements, and commonly include disclaimers before statements that the writers could not verify.
 
-The sources also mention a Buginese poem painted on a wall near the Royal Netherlands Institute of Southeast Asian and Caribbean Studies in Leiden, Netherlands. They do not describe the poem’s contents or provide further information about Buginese folktales, proverbs, riddles, storytelling occasions, or contemporary literary preservation.
+The sources also mention a Buginese poem painted on a wall near the Royal Netherlands Institute of Southeast Asian and Caribbean Studies in Leiden, Netherlands.
 
 ## Language & religion
 
 Buginese, or Bugis, is an Austronesian language of the South Sulawesi subgroup. It is most closely related within that subgroup to Campalagian and the Tamanic outlier in West Kalimantan. In Buginese it is called *Basa Ugi*, while the Bugis people are called *To Ugi*. According to a Buginese myth, *Ugi* derives from La Sattumpugi, described as the first king of Cina, an ancient Bugis kingdom; *To Ugi* therefore means “the followers of La Sattumpugi.”
 
-Buginese was traditionally written in the Lontara script, a member of the Brahmic family also used for Makassar and Mandar. The name Lontara derives from the Malay word for the palmyra palm, whose leaves were traditional manuscript material. The Buginese lontara is locally known as *Aksara Ugi*. Buginese is now often written in the Latin script. The sources do not describe the current religious landscape, religious affiliation, syncretism, or spiritual practices of the Buginese.
+Buginese was traditionally written in the Lontara script, a member of the Brahmic family also used for Makassar and Mandar. The name Lontara derives from the Malay word for the palmyra palm, whose leaves were traditional manuscript material. The Buginese lontara is locally known as *Aksara Ugi*. Buginese is now often written in the Latin script.
 
 ## Sources & further reading
 
@@ -77,4 +61,3 @@ Buginese was traditionally written in the Lontara script, a member of the Brahmi
 - [Buginese](https://en.wikipedia.org/wiki/Buginese)
 - [Buginese language](https://en.wikipedia.org/wiki/Buginese_language)
 - No UNESCO Intangible Cultural Heritage inscription is supplied in the sources for this group.
-- The sources used do not provide Smithsonian Folkways, V&A, Metropolitan Museum of Art, Rijksmuseum, or other museum collection URLs.

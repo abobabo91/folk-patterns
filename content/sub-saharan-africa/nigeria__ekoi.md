@@ -10,7 +10,7 @@ tags: [ethnography, sub-saharan-africa]
 |---|---|
 | Who | The Ekoi, also called Ejagham, are an ethnic group. |
 | Where | Southeastern Nigeria and the southwest region of Cameroon. |
-| How many | The sources do not provide a population figure. |
+ |
 | Language | Ejagham, also called Ekoi, is an Ekoid language. |
 | Religion | Traditional religion names Obassi Osaw and Obassi Nsi as gods who created everything. |
 | Known for | Nsibidi symbols · Ekpe headdresses · Skin-covered masks · Body-painting · Ceremonial societies |
@@ -45,10 +45,8 @@ Ceremonial clothing included painted bodies, calabash and shell dresses, feather
 
 ### Architecture
 
-The sources do not describe Ekoi houses or settlement architecture.
-
 - **Creation-story hut** — A creation story says that the first man and woman lived in a hut.
-- **Sanctuaries** — The sources mention sanctuaries in connection with mural paintings but do not describe their construction.
+- **Sanctuaries** — The sources mention sanctuaries in connection with mural paintings.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -160,4 +158,3 @@ Ejagham is an Ekoid language, and Ekoi religion centers on creator gods, ancesto
 - Wikipedia, “[Ekoi language](https://en.wikipedia.org/wiki/Ekoi_language)”
 - Wikipedia, “[Ekoi religion](https://en.wikipedia.org/wiki/Ekoi_religion)”
 - British Museum and Museum of World Culture catalogue records supplied for the objects shown.
-

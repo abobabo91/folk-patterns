@@ -23,10 +23,6 @@ The Banda traditionally lived in dispersed home groups led by a headman. They hu
 
 Banda material culture is especially known for carved wooden objects, animal-shaped slit drums, iron tools, and throwing knives.
 
-### Textile & pattern traditions
-
-The sources do not document Banda textile or pattern traditions.
-
 ### Clothing & dress
 
 The sources do not describe Banda clothing, but bridewealth traditionally included iron implements.
@@ -49,20 +45,12 @@ Banda craftsmanship is especially known for carved wooden objects, slit drums, i
 - **Three-bladed throwing knife** — One steel throwing knife has three blades.
 - **Circumcision knives and staffs** — Museum records include iron circumcision knives and wooden staffs, including one with a carved human head and geometric incisions.
 
-### Jewelry & body adornment
-
-The sources do not document Banda jewelry or other forms of body adornment.
-
 ## Music & performance
 
 Banda music uses animal-shaped slit drums and, among the Banda-Linda, wooden pipes.
 
 - **Animal-shaped slit drums** (*Banda-Yangere*) — These drums served musical and communicative functions in celebrations and message sending.
 - **Wooden pipes** (*Banda-Linda Horns*) — The Banda-Linda are known for music using wooden pipes called Banda-Linda Horns.
-
-## Dance & theatre
-
-The sources do not describe named Banda dances, theatre, or mask performances.
 
 ## Festivals & rituals
 
@@ -82,10 +70,6 @@ The Banda traditionally sustain themselves through hunting, fishing, gathering w
 - **Gathering wild foods** — The Banda traditionally gathered wild foods.
 - **Crop farming** — The Banda grow crops and are settled farmers in the savannas.
 - **Cotton and cassava farming** — French colonial officials promoted cotton and cassava farming among the Banda.
-
-## Oral tradition & literature
-
-The sources do not document Banda folktales, epics, proverbs, riddles, or written literature.
 
 ## Language & religion
 
@@ -119,5 +103,3 @@ The Banda speak Banda or Ubangian languages and combine Christianity with contin
 - “Banda music,” Wikipedia: https://en.wikipedia.org/wiki/Banda_music
 - British Museum catalogue records for Banda throwing knives, circumcision knives, and staffs, as summarized in the supplied object records.
 - The supplied UNESCO Intangible Cultural Heritage list identifies no inscriptions for the Central African Republic.
-- The supplied sources do not provide books, named documentation projects, or collection URLs for further reading.
-

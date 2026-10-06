@@ -60,24 +60,12 @@ The only named personal appearance item is a head band.
 
 - **Head band** — Timmy Payungka Tjapangati wore a head band in one museum photograph.
 
-## Music & performance
-
-The sources do not document Pintupi music, instruments or named performance traditions.
-
-## Dance & theatre
-
-The sources do not document Pintupi dance, theatre or ceremonial entertainment.
-
 ## Festivals & rituals
 
 The sources do not describe festivals or named rites, but they explain how place stories are linked to skin names.
 
 - **Place and dreaming stories** (*Dreamtime*) — Pintupi refer to places and their attached dreaming stories by the skin names of their owners or ancestral heroes.
 - **Ancestral heroes** — Stories about ancestral heroes help preserve the complex Pintupi kinship structure.
-
-## Foodways
-
-The sources do not document Pintupi foods, cooking methods or food traditions.
 
 ## Oral tradition & literature
 
@@ -115,10 +103,8 @@ Pintupi is a Wati language in the Pama–Nyungan family, while most Pintupi peop
 
 ## Sources & further reading
 
-- The supplied sources do not provide books with author, title, publisher and year.
 - K. C. and L. E. Hansen, whose fieldwork in Papunya, Northern Territory, in 1967–1968 is cited in the language source.
 - [Pintupi](https://en.wikipedia.org/wiki/Pintupi)
 - [Pintupi language](https://en.wikipedia.org/wiki/Pintupi_language)
 - No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied material.
 - [British Museum Collection](https://www.britishmuseum.org/collection)
-

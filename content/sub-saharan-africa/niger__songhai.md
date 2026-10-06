@@ -33,14 +33,6 @@ Songhai textile traditions include hand-woven marriage screens, wall-hangings an
 - **Blanket** — This cotton blanket is woven in nine wide strips with coloured bands, short tufts and two-tone tassels.
 - **Straw tray** — This straw tray was recorded among Songhai objects from Timbuktu and was also used as a lid for earthenware vessels.
 
-### Clothing & dress
-
-The sources do not describe Songhai everyday or ceremonial clothing.
-
-### Architecture
-
-The sources do not describe Songhai houses, compounds or architectural decoration.
-
 ### Ceramics, metalwork & everyday objects
 
 Songhai everyday objects in the records include basket trays and bowls made from plant parts and used with earthenware vessels.
@@ -49,19 +41,9 @@ Songhai everyday objects in the records include basket trays and bowls made from
 - **Basket bowl** (*Korgskål*) — This basket bowl was made of plant parts and measured 24 cm in diameter.
 - **Straw tray** — This tray had a diameter of 17,5 cm and was used as a lid for cooking vessels.
 
-### Jewelry & body adornment
-
-The sources do not describe Songhai jewelry or body adornment.
-
 ## Music & performance
 
-The sources do not identify Songhai instruments, song genres or performance settings.
-
 - **Artists, musicians and griots** (*griots*) — Artists, musicians and griots were included among the servile strata of Songhai-Zarma society.
-
-## Dance & theatre
-
-The sources do not describe Songhai dance, theatre, masks or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -123,10 +105,7 @@ Songhay is a group of related languages centered on the middle Niger River, and 
 
 ## Sources & further reading
 
-- The sources used do not provide book references with authors, titles, publishers and years.
-- The sources used do not identify a separate documentation project or named music scholar.
 - [Songhai people](https://en.wikipedia.org/wiki/Songhai_people)
 - [Songhai language](https://en.wikipedia.org/wiki/Songhai_language)
 - No UNESCO Intangible Cultural Heritage inscription is supplied for this group or country.
 - The museum catalogue records supplied identify objects held by the Museum of World Culture, the Museum of Ethnography and the British Museum; the sources do not provide collection URLs.
-

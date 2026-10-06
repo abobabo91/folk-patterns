@@ -7,7 +7,7 @@ tags: [ethnography, oceania]
 
 ## Overview
 
-The Tahitians, called *Māʼohi* in Tahitian and *Tahitiens* in French, are Indigenous Polynesian people of Tahiti and thirteen other Society Islands in French Polynesia. The population figures in the sources concern different historical periods: Tahiti probably had around 110,000 people, or perhaps 180,000, at first European contact in 1767; by 1830 its population had fallen to 15,300, and the 1881 census recorded about 5,960 Indigenous Tahitians. The sources describe Tahitian society, historical change, clothing, adornment, barkcloth, featherwork, shellwork, quilts, healing, poetry, painting, and political identification. They do not provide the language family or a current population figure.
+The Tahitians, called *Māʼohi* in Tahitian and *Tahitiens* in French, are Indigenous Polynesian people of Tahiti and thirteen other Society Islands in French Polynesia. The population figures in the sources concern different historical periods: Tahiti probably had around 110,000 people, or perhaps 180,000, at first European contact in 1767; by 1830 its population had fallen to 15,300, and the 1881 census recorded about 5,960 Indigenous Tahitians. The sources describe Tahitian society, historical change, clothing, adornment, barkcloth, featherwork, shellwork, quilts, healing, poetry, painting, and political identification.
 
 ## Material culture
 
@@ -27,15 +27,15 @@ The Tahitians, called *Māʼohi* in Tahitian and *Tahitiens* in French, are Indi
 
 ### Clothing & dress
 
-The sources document both everyday garments and ceremonial clothing, but they do not distinguish men’s and women’s daily dress in detail. Recorded garments include a barkcloth apron, a striped *tiputa*, a belt and sash of barkcloth, a fibre-matting cap, a dress of matting, and a garment probably worn as a dress. The Tahitian Mourner’s costume was more elaborate: its cloak was made of feathers bound to a fibre netted base, its mask combined pearlshell and tropic bird feathers, and its breast-plate combined wood, pearlshell, feather tassels, and an apron of thinly carved pearlshell sections. A head-dress consisted of plaited fibre with bunches of black and white feathers. No footwear is described in the sources. A photograph records a woman in Papeete wearing flowers in her hair and a garland around her chest.
+The sources document both everyday garments and ceremonial clothing, but they do not distinguish men’s and women’s daily dress in detail. Recorded garments include a barkcloth apron, a striped *tiputa*, a belt and sash of barkcloth, a fibre-matting cap, a dress of matting, and a garment probably worn as a dress. The Tahitian Mourner’s costume was more elaborate: its cloak was made of feathers bound to a fibre netted base, its mask combined pearlshell and tropic bird feathers, and its breast-plate combined wood, pearlshell, feather tassels, and an apron of thinly carved pearlshell sections. A head-dress consisted of plaited fibre with bunches of black and white feathers. A photograph records a woman in Papeete wearing flowers in her hair and a garland around her chest.
 
 ### Architecture
 
-The sources state that the original Tahitians cleared land for cultivation on fertile volcanic soils and built fishing canoes. They do not describe Tahitian houses, roofs, named buildings, settlement forms, architectural decoration, or urban construction.
+The sources state that the original Tahitians cleared land for cultivation on fertile volcanic soils and built fishing canoes.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not describe Tahitian ceramics, metalwork, pottery, or household vessels. They state that the tools of the Tahitians when first discovered were made of stone, bone, shell, or wood. A *Tahiri*, described as a handle for a fly whisk, is recorded from the 18th century and is made of whale ivory and coconut fiber. Fishing canoes are mentioned, but their construction is not described.
+The sources state that the tools of the Tahitians when first discovered were made of stone, bone, shell, or wood. A *Tahiri*, described as a handle for a fly whisk, is recorded from the 18th century and is made of whale ivory and coconut fiber. Fishing canoes are mentioned, but their construction is not described.
 
 ### Jewelry & body adornment
 
@@ -43,27 +43,27 @@ Recorded adornment includes a shell necklace made on a base of young coconut lea
 
 ## Music & performance
 
-The sources do not describe Tahitian instruments, song genres, musical forms, or performance contexts. They mention Tahitian poets Henri Hiro, Charles Manutahi, Vaitiare, and Turo Raapoto, who in the late 1960s and early 1970s spearheaded anticolonial writing in Tahiti. Hiro’s *God of Culture* invokes Oihanu, described as the Tahitian god of culture and husbandry. No UNESCO Intangible Cultural Heritage inscription is supplied for French Polynesia.
+The sources mention Tahitian poets Henri Hiro, Charles Manutahi, Vaitiare, and Turo Raapoto, who in the late 1960s and early 1970s spearheaded anticolonial writing in Tahiti. Hiro’s *God of Culture* invokes Oihanu, described as the Tahitian god of culture and husbandry. No UNESCO Intangible Cultural Heritage inscription is supplied for French Polynesia.
 
 ## Dance & theatre
 
-The sources provide little information on dance or theatre. A dance bra made of two coconut shells is recorded in the museum catalogue. The sources do not name a Tahitian dance, dramatic tradition, mask performance, or theatrical genre.
+The sources provide little information on dance or theatre. A dance bra made of two coconut shells is recorded in the museum catalogue.
 
 ## Festivals & rituals
 
-The sources do not provide an annual festival calendar or describe named seasonal festivals, weddings, coming-of-age ceremonies, funerals, or other life-cycle rites. They do record the Tahitian Mourner’s costume, whose components include feather, barkcloth, fibre, wood, coconut-shell, pearlshell, and tropic-bird-feather elements. The sources also mention a concept of irrational fear called *mehameha* and healers called *taʼata rāʼau* or *taʼata rapaʼau*. Tiurai, described as the most famous Tahitian healer, died at age 83 during the influenza outbreak on Tahiti in 1918.
+The sources record the Tahitian Mourner’s costume, whose components include feather, barkcloth, fibre, wood, coconut-shell, pearlshell, and tropic-bird-feather elements. The sources also mention a concept of irrational fear called *mehameha* and healers called *taʼata rāʼau* or *taʼata rapaʼau*. Tiurai, described as the most famous Tahitian healer, died at age 83 during the influenza outbreak on Tahiti in 1918.
 
 ## Foodways
 
-The sources do not describe Tahitian staple foods, dishes, cooking methods, food restrictions, feasting, or beverage traditions. They state that the original Tahitians cleared land for cultivation on fertile volcanic soils and built fishing canoes, but provide no further account of agriculture, fishing practices, or cuisine.
+The sources state that the original Tahitians cleared land for cultivation on fertile volcanic soils and built fishing canoes, but provide no further account of agriculture, fishing practices, or cuisine.
 
 ## Oral tradition & literature
 
-The sources describe a modern anticolonial literary movement rather than a corpus of folktales or epic poetry. In the late 1960s and early 1970s, Henri Hiro, Charles Manutahi, Vaitiare, and Turo Raapoto spearheaded anticolonial writing in Tahiti. Hiro’s *God of Culture* calls on Oihanu, the Tahitian god of culture and husbandry, to empower the “new generation.” Michou Chaze, Chantal Spitz, and Vaitiare explored problems of Tahitian identification in contemporary French Polynesia. The sources do not describe named folktales, proverbs, riddles, epics, or storytelling settings.
+The sources describe a modern anticolonial literary movement rather than a corpus of folktales or epic poetry. In the late 1960s and early 1970s, Henri Hiro, Charles Manutahi, Vaitiare, and Turo Raapoto spearheaded anticolonial writing in Tahiti. Hiro’s *God of Culture* calls on Oihanu, the Tahitian god of culture and husbandry, to empower the “new generation.” Michou Chaze, Chantal Spitz, and Vaitiare explored problems of Tahitian identification in contemporary French Polynesia.
 
 ## Language & religion
 
-The sources identify *Māʼohi* as the Tahitian name for the people and *Tahitiens* as the French term. They do not specify the language family, dialects, historical scripts, or writing system. In the 1820s Protestantism became the main religion on Tahiti. The sources also mention Oihanu, the Tahitian god of culture and husbandry, and state that healers used herbal remedies; in the 19th century Tahitians added European medicine to their practice. Tahitians are French citizens and participate in French elections.
+The sources identify *Māʼohi* as the Tahitian name for the people and *Tahitiens* as the French term. In the 1820s Protestantism became the main religion on Tahiti. The sources also mention Oihanu, the Tahitian god of culture and husbandry, and state that healers used herbal remedies; in the 19th century Tahitians added European medicine to their practice. Tahitians are French citizens and participate in French elections.
 
 ## Sources & further reading
 

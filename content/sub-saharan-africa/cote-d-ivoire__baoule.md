@@ -149,11 +149,9 @@ Baoulé is a tonal Akan language whose religious system connects God, earthly li
 
 ## Sources & further reading
 
-- The sources used do not provide the requested books, publishers, or publication years.
 - The sources mention Alain-Michel Boyer in connection with the meaning of *bo usu*, but provide no full bibliographic record.
 - [Baoulé people](https://en.wikipedia.org/wiki/Baoul%C3%A9_people)
 - [Baoulé language](https://en.wikipedia.org/wiki/Baoul%C3%A9_language)
 - [Baoulé cuisine](https://en.wikipedia.org/wiki/Baoul%C3%A9_cuisine)
 - No UNESCO Intangible Cultural Heritage inscription for this country was supplied among the sources.
 - Museum catalogue records supplied for the objects shown include the British Museum, the Metropolitan Museum of Art, the Cleveland Museum of Art, and the Museum of World Culture.
-

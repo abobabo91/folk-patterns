@@ -21,19 +21,15 @@ The sources used here name no Yi weaving, embroidery, felting or dyeing traditio
 
 ### Clothing & dress
 
-The sources used do not describe Yi everyday or ceremonial dress, garment types, headgear, belts or footwear. Two points bearing on dress and appearance do appear in them: black is a revered colour in Yi culture, and the autonym Ni — the element behind Nuosu, Nasu, Nesu and Nisu — is sometimes translated as black for that reason. The museum objects shown alongside this profile are carried and worn accessories rather than garments: cotton shoulder bags and a baby carrier from the Stone Forest in Yunnan.
+Two points bearing on dress and appearance do appear in them: black is a revered colour in Yi culture, and the autonym Ni — the element behind Nuosu, Nasu, Nesu and Nisu — is sometimes translated as black for that reason. The museum objects shown alongside this profile are carried and worn accessories rather than garments: cotton shoulder bags and a baby carrier from the Stone Forest in Yunnan.
 
 ### Architecture
 
-The sources used do not cover Yi house form, building materials, roof construction or architectural ornament. They record only the settlement pattern and one monumental practice: Yi villages lie on mountain slopes, the aristocratic and commoner castes historically lived in separate villages, and Old Yi stone tablets and steles stand in the Yi area, carrying texts in the pre-standardized script.
+The sources record only the settlement pattern and one monumental practice: Yi villages lie on mountain slopes, the aristocratic and commoner castes historically lived in separate villages, and Old Yi stone tablets and steles stand in the Yi area, carrying texts in the pre-standardized script.
 
 ### Ceramics, metalwork & everyday objects
 
 The sources name no Yi ceramic or metalworking tradition. One ritual object is catalogued in detail: a **family tablet** in the British Museum, classed at once as tablet, sculpture and religious or ritual equipment, and made of straw, wood, cotton cloth, bamboo and paper — a composite of perishable household materials rather than of carved stone or cast metal. The remaining documented everyday objects are the Stone Forest shoulder bags and baby carrier acquired in 1949. Two further material traditions are attested in the sources without being described as objects: the written transmission of Yi medical knowledge, which exists in records as well as in oral form, and the Old Yi stone tablets and steles.
-
-### Jewelry & body adornment
-
-The sources used do not cover Yi jewelry, silverwork, tattooing or hair practice.
 
 ## Music & performance
 
@@ -51,7 +47,7 @@ Life-cycle practice in the sources is dominated by descent, caste and death. Des
 
 ## Foodways
 
-The sources used do not cover Yi staples, dishes, cooking methods, ceremonial food or drink traditions. They note only that Yi women drank and smoked noticeably more than Han Chinese women, and that farming was done by the White Yi and by slaves rather than by the Black Yi aristocracy.
+The sources note only that Yi women drank and smoked noticeably more than Han Chinese women, and that farming was done by the White Yi and by slaves rather than by the Black Yi aristocracy.
 
 ## Oral tradition & literature
 

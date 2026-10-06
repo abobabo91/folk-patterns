@@ -29,11 +29,11 @@ The sources here document plaited cane rather than loom weaving, and it is the p
 
 ### Clothing & dress
 
-The catalogue records reach the body mainly through ornament rather than garments, and the Wikipedia source is linguistic, so everyday and ceremonial dress as such is not described in the sources used here. What they do show is the ornamental layer: men wear paired brown cotton armbands with red drawstrings, and separate feather ornaments are made to be mounted on an armband — small bundles of toucan feathers in black and red, black and yellow, or black, yellow and red, attached with fibre cord. Headdresses are the most elaborate items recorded. One is a band of split cane mounted with trimmed macaw tail-feathers in blues, greens, reds and yellows, with two tall red feathers rising from it, the band itself decorated in black and blue. The language has a word for clothing, *womü*, from which a verb meaning "undress someone" is derived, but the sources do not describe the garments themselves.
+The catalogue records reach the body mainly through ornament rather than garments, and the Wikipedia source is linguistic, so everyday and ceremonial dress as such is not described in the sources used here. What they do show is the ornamental layer: men wear paired brown cotton armbands with red drawstrings, and separate feather ornaments are made to be mounted on an armband — small bundles of toucan feathers in black and red, black and yellow, or black, yellow and red, attached with fibre cord. Headdresses are the most elaborate items recorded. One is a band of split cane mounted with trimmed macaw tail-feathers in blues, greens, reds and yellows, with two tall red feathers rising from it, the band itself decorated in black and blue. The language has a word for clothing, *womü*, from which a verb meaning "undress someone" is derived.
 
 ### Architecture
 
-The sources used here do not describe Ye'kuana house forms, settlement layout or building materials. The only architectural note they carry is indirect: the ethnographic literature of the 1960s and 1970s summarised in the language article took up village formation alongside mythology and political structure, which indicates that settlement organisation has been studied, but no description of it appears in these sources.
+The only architectural note they carry is indirect: the ethnographic literature of the 1960s and 1970s summarised in the language article took up village formation alongside mythology and political structure, which indicates that settlement organisation has been studied, but no description of it appears in these sources.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -45,11 +45,11 @@ Adornment is made from birds and animals taken in the forest. Necklaces are comp
 
 ## Music & performance
 
-A single instrument is documented: a **bamboo flute** with a long slit and two holes pierced near the top, its lower end carved with zigzag designs. The sources used here do not describe Ye'kuana song genres, ensembles or performance occasions. They do record that oral material in the language was published by Guss in 1986 within a study of oral tradition, which is the nearest thing to a performance record among them. No UNESCO Intangible Cultural Heritage element is inscribed for Venezuela, so there is no inscription text to draw on for music. What the object record suggests indirectly is that musical and ceremonial life used the same materials as everything else — bamboo, cane, feather — and that decoration was applied to the flute as it was to the basket, with the carved zigzag placed at the end away from the player's mouth.
+A single instrument is documented: a **bamboo flute** with a long slit and two holes pierced near the top, its lower end carved with zigzag designs. The sources record that oral material in the language was published by Guss in 1986 within a study of oral tradition, which is the nearest thing to a performance record among them. No UNESCO Intangible Cultural Heritage element is inscribed for Venezuela, so there is no inscription text to draw on for music. What the object record suggests indirectly is that musical and ceremonial life used the same materials as everything else — bamboo, cane, feather — and that decoration was applied to the flute as it was to the basket, with the carved zigzag placed at the end away from the player's mouth.
 
 ## Dance & theatre
 
-The sources used here do not describe Ye'kuana dance or dramatic performance. The feather headdresses in the collection — the macaw-feather band said to possibly represent the sun, and the headdress of eleven birds carrying a central carved emblem of a bat with folded wings — were made for wearing on the body in some public context, but the catalogue does not say what that context was.
+The feather headdresses in the collection — the macaw-feather band said to possibly represent the sun, and the headdress of eleven birds carrying a central carved emblem of a bat with folded wings — were made for wearing on the body in some public context, but the catalogue does not say what that context was.
 
 ## Festivals & rituals
 
@@ -57,7 +57,7 @@ The annual calendar and the life-cycle rites are not covered by the sources used
 
 ## Foodways
 
-Cassava is the staple the objects are built around. The split cane food tray recorded here is specifically a serving tray for cassava, plaited in brown and black with its geometric design picked out on the interior — the surface the food rests on. The calabash dipper, blackened inside with *cadimani* and hung by a fibre cord, serves liquids. Protein comes from hunting with the blow-gun: the quiver, called *madana*, holds nineteen split cane darts tipped with cotton wadding, and peccary teeth survive from the kill as necklace material. The language itself preserves a distinction relevant to diet — the verb *önöö* means specifically "eat (meat)", and its agentive nominalisation *t-önöö-nei* means "eater of meat" — and in one dialect certain nouns denoting fruit refuse the plural marker that other nouns accept. Beyond this the sources used here do not describe Ye'kuana cooking methods, named dishes, ceremonial food or drink.
+Cassava is the staple the objects are built around. The split cane food tray recorded here is specifically a serving tray for cassava, plaited in brown and black with its geometric design picked out on the interior — the surface the food rests on. The calabash dipper, blackened inside with *cadimani* and hung by a fibre cord, serves liquids. Protein comes from hunting with the blow-gun: the quiver, called *madana*, holds nineteen split cane darts tipped with cotton wadding, and peccary teeth survive from the kill as necklace material. The language itself preserves a distinction relevant to diet — the verb *önöö* means specifically "eat (meat)", and its agentive nominalisation *t-önöö-nei* means "eater of meat" — and in one dialect certain nouns denoting fruit refuse the plural marker that other nouns accept.
 
 ## Oral tradition & literature
 

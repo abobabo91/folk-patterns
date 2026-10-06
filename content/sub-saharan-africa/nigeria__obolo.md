@@ -72,10 +72,6 @@ Only one Obolo instrument is documented, an ivory side-blown horn from a shrine;
 - **Radio and television programmes** — Obolo is used in radio and television programmes and taught at primary and junior secondary level.
 - **Church hymn and prayer books** — The only song texts documented are hymn and prayer books printed by churches after the first almanacs of the early 1940s.
 
-## Dance & theatre
-
-No Obolo dance, masquerade, named dance form or theatrical tradition is documented in the sources.
-
 ## Festivals & rituals
 
 One named festival is documented; pre-colonial religious practice centred on Yok-Obolo before the British destroyed its shrine in 1904.
@@ -142,4 +138,3 @@ Obolo is an agglutinative, SVO, tonal Cross River language with five tones and s
 - British Museum online collection — the Obolo copper-alloy and gun-metal objects collected during the 1904 expedition: https://www.britishmuseum.org/collection
 - Smithsonian Folkways search — https://folkways.si.edu/search?query=Nigeria
 - No UNESCO Intangible Cultural Heritage element for Nigeria concerns the Obolo; the country list is at https://ich.unesco.org/en/state/nigeria
-

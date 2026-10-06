@@ -51,10 +51,6 @@ Working equipment for the trapping economy is represented by carved wood tools a
 - **Lynx pelt-stretcher** — A single-piece tool of tapered wood for dressing fur, the commodity at the centre of Tłı̨chǫ trade.
 - **Tumpline** (*head-band or tumpline*) — An elliptical pad of cotton with rope at both ends, used to carry loads by pressure across the head.
 
-### Jewelry & body adornment
-
-No jewelry, tattooing or hair practices are documented in the sources.
-
 ## Music & performance
 
 No instruments or musical performance is documented, but language revitalization includes a radio station and weekly Elder Evening Story Telling.
@@ -116,4 +112,3 @@ Tłı̨chǫ Yatıì is a Northern Athabaskan language, endangered but now one of
 - https://en.wikipedia.org/wiki/T%C5%82%C4%B1%CC%A8ch%C7%AB_language
 - British Museum online collection (source of the moccasins, slippers, parka, pelt-stretcher and tumpline shown here): https://www.britishmuseum.org/collection
 - No UNESCO Intangible Cultural Heritage element for Canada concerns this group.
-

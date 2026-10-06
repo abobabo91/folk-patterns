@@ -7,61 +7,47 @@ tags: [ethnography, southeast-asia]
 
 ## Overview
 
-The Kedayan, also known as Kadayan, Kadaian or Kadyan, are an ethnic group living in Brunei, the Federal Territory of Labuan, southwest Sabah and north Sarawak on Borneo. In Sabah they mainly live in the southern districts of Sipitang and Beaufort, while in Sarawak they mostly reside in Lawas, Limbang and Miri, especially the Subis area. The Kedayan language is spoken by about 30,000 people in Brunei; further speakers have been claimed in Sabah and Sarawak. The sources describe the Kedayan as one of the indigenous peoples of Borneo. They associate Kedayan life with agriculture, Islam, Malay culture, medicinal plants, traditional medicines and spiritual healing. The sources do not identify a language family or provide a more precise population total.
+The Kedayan, also known as Kadayan, Kadaian or Kadyan, are an ethnic group living in Brunei, the Federal Territory of Labuan, southwest Sabah and north Sarawak on Borneo. In Sabah they mainly live in the southern districts of Sipitang and Beaufort, while in Sarawak they mostly reside in Lawas, Limbang and Miri, especially the Subis area. The Kedayan language is spoken by about 30,000 people in Brunei; further speakers have been claimed in Sabah and Sarawak. The sources describe the Kedayan as one of the indigenous peoples of Borneo. They associate Kedayan life with agriculture, Islam, Malay culture, medicinal plants, traditional medicines and spiritual healing.
 
 ## Material culture
 
 ### Textile & pattern traditions
 
-The sources used do not document a Kedayan textile or pattern tradition. They record individual objects made from cloth, cotton, string and beads, but do not name a textile technique, pattern system or pattern-bearing vernacular tradition.
+The sources record individual objects made from cloth, cotton, string and beads.
 
 ### Clothing & dress
 
-The sources used do not describe everyday or ceremonial clothing, distinctions between men’s and women’s dress, head coverings, belts or footwear. A museum record identifies a woman’s hair ornament made of bronze, cotton cloth, string and beads, and another records a woman’s necklace made of glass beads and possibly nuts and seeds.
-
-### Architecture
-
-The sources used do not describe Kedayan houses, settlement forms, roofs, structural materials, decoration or named building types.
+A museum record identifies a woman’s hair ornament made of bronze, cotton cloth, string and beads, and another records a woman’s necklace made of glass beads and possibly nuts and seeds.
 
 ### Ceramics, metalwork & everyday objects
 
 The museum records document household and hunting objects. A dish cover is made of palm leaf, and a rice basket is made of rattan. A quiver, *selongan*, for blow-pipe darts is made from a section of telang bamboo, with kusah rattan binding, nato wood and bark string from the kilid tree. It is decorated with metal beads, a monkey or dog tooth and a carved hook; its lid is another bamboo section bound with woven rattan and attached by a short metal chain.
 
-A pocket made of squirrel skin contains blowpipe darts, *langan*, with flights, *ra’o*, made of sago pith, *kenangan*. Some darts are made of bamboo and some of palm; the records state that they are tipped with poison, *parir*. The sources do not describe Kedayan ceramics or a broader metalworking tradition.
+A pocket made of squirrel skin contains blowpipe darts, *langan*, with flights, *ra’o*, made of sago pith, *kenangan*. Some darts are made of bamboo and some of palm; the records state that they are tipped with poison, *parir*.
 
 ### Jewelry & body adornment
 
 The museum records include a woman’s hair ornament made of bronze, cloth, string and beads; a woman’s necklace made of glass beads and possibly nuts and seeds; and a woman’s charm associated with childbirth and the ankle, made of beads. Two bracelets are described as one of a pair: each is made of dark cane wound spirally with a thin silver band and covered for about 2 inches with a thin punched silver plate bearing floral ornament.
 
-The sources do not document tattoos, henna, hair practices beyond the recorded hair ornament, or other ritual body adornment.
-
-## Music & performance
-
-The sources used do not describe Kedayan musical instruments, song genres, musical performances or performance contexts. They name no Kedayan music tradition and provide no information about music at weddings, funerals, festivals, courts or other gatherings.
-
-## Dance & theatre
-
-The sources used do not document Kedayan dances, theatre, dramatic traditions, masks, puppetry or ceremonial performances.
-
 ## Festivals & rituals
 
-The sources used do not provide an annual Kedayan festival calendar or describe named festivals, seasonal observances, weddings, funerals, coming-of-age rites or other life-cycle ceremonies. The museum catalogue identifies one woman’s charm as associated with childbirth and the ankle, but gives no further account of childbirth practices.
+The museum catalogue identifies one woman’s charm as associated with childbirth and the ankle, but gives no further account of childbirth practices.
 
-The Wikipedia material states that most Kedayans have adopted Islam since the Islamic era of the Sultanate of Brunei and that they have also adopted Malay culture. It also states that the Kedayans are experts in traditional medicines and various spiritual healings, and are known for cultivating medicinal plants used to treat a wide range of ailments and make tonics. The sources do not describe the rituals or calendar connected with these practices.
+The Wikipedia material states that most Kedayans have adopted Islam since the Islamic era of the Sultanate of Brunei and that they have also adopted Malay culture. It also states that the Kedayans are experts in traditional medicines and various spiritual healings, and are known for cultivating medicinal plants used to treat a wide range of ailments and make tonics.
 
 ## Foodways
 
-The sources used do not describe Kedayan dishes, cooking methods, beverages, dietary rules or ceremonial food. The catalogue records a rice basket, but do not explain rice cultivation, preparation or consumption. The sources therefore do not cover Kedayan foodways in sufficient detail for a fuller account.
+The catalogue records a rice basket.
 
 ## Oral tradition & literature
 
-The sources used do not document Kedayan folktales, epics, proverbs, riddles, oral performance or storytelling contexts. The Wikipedia article identifies Muslim Burut as a Bruneian writer and Omar Musa as a Malaysian-Australian author, poet, rapper and visual artist, but it does not connect their work to a specifically Kedayan literary tradition. No contemporary Kedayan literary revival or preservation project is described.
+The Wikipedia article identifies Muslim Burut as a Bruneian writer and Omar Musa as a Malaysian-Australian author, poet, rapper and visual artist. No contemporary Kedayan literary revival or preservation project is described.
 
 ## Language & religion
 
 The Kedayan language is similar to Brunei Malay. The sources state that as many as 94% of the words in the two languages have a cognate relationship. Kedayan has initial /h/, while Brunei Malay does not: Kedayan *hutan* means “forest,” whereas Brunei Malay has *utan*. Kedayan does not have /r/, so Malay *rumah* becomes *umah* in Kedayan.
 
-The sources also state that the language of the Banjar people in Kutai, East Kalimantan, Indonesia, shares more than 90% of its vocabulary with Kedayan. Brunei Malay, Kedayan and Kampong Ayer are described as dialects of Malay in the cited material. Most Kedayans have adopted Islam since the Islamic era of the Sultanate of Brunei and have also adopted Malay culture. The sources do not identify historical scripts, Islamic sects or a more detailed religious landscape.
+The sources also state that the language of the Banjar people in Kutai, East Kalimantan, Indonesia, shares more than 90% of its vocabulary with Kedayan. Brunei Malay, Kedayan and Kampong Ayer are described as dialects of Malay in the cited material. Most Kedayans have adopted Islam since the Islamic era of the Sultanate of Brunei and have also adopted Malay culture.
 
 ## Sources & further reading
 

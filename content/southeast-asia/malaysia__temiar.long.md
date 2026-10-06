@@ -31,7 +31,7 @@ The sources describe no loom weaving or cloth production. What they do document 
 
 ### Clothing & dress
 
-The sources record one item of dress: a headband plaited from bamboo fibres, part undyed and part dyed pale green, the undyed fibres set so that they form a repeating diamond. A frill of white polythene is sewn along one edge — the same reach for new industrial materials that appears elsewhere in the collection, where plastic buttons, felt-tip pen and plastic tassels finish plaited bags. Beyond this the sources used do not describe Temiar everyday or ceremonial clothing, and say nothing about differences between men's and women's dress, footwear or belts.
+The sources record one item of dress: a headband plaited from bamboo fibres, part undyed and part dyed pale green, the undyed fibres set so that they form a repeating diamond. A frill of white polythene is sewn along one edge — the same reach for new industrial materials that appears elsewhere in the collection, where plastic buttons, felt-tip pen and plastic tassels finish plaited bags.
 
 ### Architecture
 
@@ -47,11 +47,11 @@ The sources record no jewelry, tattooing or hair practice. The nearest thing to 
 
 ## Music & performance
 
-Two instruments survive in the collection, both made from wide bamboo cylinders. The first is a bamboo-tube zither: the cylinder has split along one side, and two thin cane strings run the length of the tube across a bridge made from a small wooden bar, the strings coiled and looped around the circumference at the far end. The second is a sealed bamboo tube with a D-shaped opening at one end, set below a tongue-shaped projection on the top edge. The ceremonial *Sewang* dance is performed as part of Temiar folk belief. Beyond these, the sources used do not describe Temiar song genres or performance occasions. Marina Roseman's book-length study of Temiar music and medicine, listed below, is the standing scholarly reference.
+Two instruments survive in the collection, both made from wide bamboo cylinders. The first is a bamboo-tube zither: the cylinder has split along one side, and two thin cane strings run the length of the tube across a bridge made from a small wooden bar, the strings coiled and looped around the circumference at the far end. The second is a sealed bamboo tube with a D-shaped opening at one end, set below a tongue-shaped projection on the top edge. The ceremonial *Sewang* dance is performed as part of Temiar folk belief. Marina Roseman's book-length study of Temiar music and medicine, listed below, is the standing scholarly reference.
 
 ## Dance & theatre
 
-The sources name one dance: the ceremonial *Sewang*, performed by the Temiar as part of their folk beliefs. They give no account of its choreography, its performers or its occasions, and describe no theatrical tradition. Sue Jennings has written on Temiar dance and its relation to social order, and on Temiar ritual and transformation.
+The sources name one dance: the ceremonial *Sewang*, performed by the Temiar as part of their folk beliefs. Sue Jennings has written on Temiar dance and its relation to social order, and on Temiar ritual and transformation.
 
 ## Festivals & rituals
 
@@ -63,7 +63,7 @@ Three dishes are named. *Nasi serempad* is rice cooked inside bamboo. *Umbut bay
 
 ## Oral tradition & literature
 
-The sources used do not record Temiar folktales, epics, proverbs or storytelling occasions. They do point to the documentation effort: Temiar materials are archived in RWAAI, the Repository and Workspace for Austroasiatic Intangible Heritage, and Geoffrey Benjamin has published on Temiar personal names and on aesthetic elements in the grammar itself.
+The sources point to the documentation effort: Temiar materials are archived in RWAAI, the Repository and Workspace for Austroasiatic Intangible Heritage, and Geoffrey Benjamin has published on Temiar personal names and on aesthetic elements in the grammar itself.
 
 ## Language & religion
 

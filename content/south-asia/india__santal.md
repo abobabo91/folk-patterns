@@ -23,10 +23,6 @@ The Santal are the largest tribal community in Jharkhand and West Bengal. They s
 
 Santal material culture includes carved houses, palanquins, drums, agricultural tools, metal ornaments, ritual objects, puppets, and painted scrolls.
 
-### Textile & pattern traditions
-
-The sources do not document named Santal textile traditions.
-
 ### Clothing & dress
 
 The sources give little information about everyday or ceremonial clothing.
@@ -46,7 +42,7 @@ Santal homes and village spaces combine carved decoration with sacred places for
 
 ### Ceramics, metalwork & everyday objects
 
-The sources describe a few tools, weapons, and ritual objects but do not give a broad account of Santal craftwork.
+The sources describe a few tools, weapons, and ritual objects.
 
 - **Battle-axe** — A museum catalogue records a battle-axe with a dark wood handle and an iron head.
 - **Arrow** — A museum catalogue records an arrow with a pale wood head and bamboo shaft.
@@ -94,7 +90,7 @@ Sohrai is the principal Santal festival, and festivals take place around sacred 
 
 ## Foodways
 
-The sources mention rice-beer in marriage customs but do not describe wider Santal foodways.
+The sources mention rice-beer in marriage customs.
 
 - **Rice-beer** (*handi*) — Handi is rice-beer given to guests during kesimek’ marriage negotiations.
 - **Shared rice-beer** (*pera hor handi*) — Pera hor handi is shared when the bride returns to her natal village.
@@ -159,4 +155,3 @@ Santali is a Munda language, and Santal religious life centers on spirits that c
 - No UNESCO Intangible Cultural Heritage inscription applies to the Santal in the supplied sources.
 - [British Museum collections](https://www.britishmuseum.org/collection)
 - [Museum of Ethnography collections](https://collections.smvk.se/)
-

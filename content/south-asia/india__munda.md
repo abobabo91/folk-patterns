@@ -23,10 +23,6 @@ The Munda live mainly in eastern India, with communities elsewhere in South Asia
 
 Recorded material culture includes cotton clothing, bamboo weapons, carved bone and stone objects, metal containers, and silver-alloy bowls made from rupee coins.
 
-### Textile & pattern traditions
-
-The sources do not document named Munda textile traditions or motifs.
-
 ### Clothing & dress
 
 The catalogue records a few cotton garments, including an apron, a shirt, and a loin-cloth.
@@ -34,10 +30,6 @@ The catalogue records a few cotton garments, including an apron, a shirt, and a 
 - **Girl’s fringed apron** — This cotton apron has fringes and two plaited ties.
 - **Boy’s short-sleeved shirt** — This is a short-sleeved cotton shirt.
 - **Boy’s tasselled loin-cloth** — This cotton loin-cloth has tassels.
-
-### Architecture
-
-The sources do not describe Munda houses, roofs, village architecture, or named building types.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -48,10 +40,6 @@ Recorded objects include bamboo weapons, carved utensils, metal containers, a st
 - **Bird-topped comb** — This metal comb is topped with a bird.
 - **Elephant-handled spoon** — One bone spoon has a handle ending in an elephant.
 - **Stone oil lamp** — This local sandstone lamp has an oil basin, a pointed spout, a geometric section, and notched edges.
-
-### Jewelry & body adornment
-
-The sources do not document Munda jewelry or other body adornment.
 
 ## Music & performance
 
@@ -79,10 +67,6 @@ Munda ritual life centers on seasonal festivals, life ceremonies, marriage rules
 - **Spring festival** (*Baha parab*) — Baha parab is a seasonal agricultural festival.
 - **Stone erection** (*Patthalgari*) — Patthalgari is the tradition of erecting stones at graves or village entrances.
 - **Marriage beginning** (*Sagai*) — A Munda marriage ceremony begins with Sagai.
-
-## Foodways
-
-The sources do not document Munda foods, cooking methods, beverages, or dietary rules.
 
 ## Oral tradition & literature
 
@@ -128,4 +112,3 @@ Mundari is the Munda native language, and Singbonga is the Munda deity.
 - R. Parkin, *The Munda of central India: an account of their social organisation*, Oxford University Press, 1992.
 - [Munda people](https://en.wikipedia.org/wiki/Munda_people)
 - [Munda language](https://en.wikipedia.org/wiki/Munda_language)
-

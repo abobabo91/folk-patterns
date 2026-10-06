@@ -35,16 +35,12 @@ The sources show fibre, bead and textile objects, but no named Tsonga textile tr
 
 ### Clothing & dress
 
-The sources record a few skirts and a waist-cloth but do not describe everyday Tsonga dress.
+The sources record a few skirts and a waist-cloth.
 
 - **Girl’s fibre skirt** — A girl’s skirt is made of fibre cords.
 - **Beaded fibre skirt** — One skirt has blue and white beads below the girdle and a leather thong at one end.
 - **Grass or palm-leaf skirt** — Another skirt is made of grass or palm leaf strung on a fibre cord.
 - **Cotton waist-cloth** — A male wooden figure is accompanied by cotton textile used as a waist-cloth.
-
-### Architecture
-
-The sources do not describe Tsonga houses, settlements or building styles.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -78,7 +74,7 @@ Tsonga music ranges from traditional dance music to disco, ndzhumbha and Shangaa
 
 ## Dance & theatre
 
-The sources name four traditional Tsonga dances but do not describe a Tsonga theatre tradition.
+The sources name four traditional Tsonga dances.
 
 - **Makhwaya** — Makhwaya is named as a traditional Tsonga dance.
 - **Xighubu** — Xighubu is named as a traditional Tsonga dance.
@@ -158,4 +154,3 @@ XiTsonga is a standardized Bantu language, and Tsonga religious practice centers
 - Wikipedia, [“Tsonga language”](https://en.wikipedia.org/wiki/Tsonga_language).
 - No UNESCO Intangible Cultural Heritage inscription for Mozambique is identified in the supplied sources.
 - Relevant museum records supplied for this atlas include British Museum objects, Museum of World Culture objects and a Cleveland Museum of Art staff; the sources do not provide collection URLs.
-

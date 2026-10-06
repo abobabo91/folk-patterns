@@ -13,29 +13,23 @@ The Punu, also called Bapunu, Pungwe, Pungu, Uréwé, Sira, or Ban Sira, are a B
 
 ### Textile & pattern traditions
 
-The sources used do not document a Punu textile or pattern tradition in sufficient detail for this section.
-
 **Motif vocabulary.** The sources describe diamond-shaped scarification marks on the forehead and temples of a Punu girl and small punctures surrounding the eyes of one museum mask.
 
 ### Clothing & dress
 
-The sources used do not provide a general account of everyday or ceremonial Punu dress. One museum record describes a black-pigmented male figure wearing a woven fibre skirt held by a belt of printed cotton, together with a necklace of glass beads and an animal claw threaded onto fibre cord. Another figure is represented with a colonial pith style helmet and jacket with a pocket, carrying a gun and another gun strapped diagonally across its back; the figure is naked below the waist and has an extended navel. The museum records do not establish whether these objects represent ordinary clothing, ceremonial dress, or a specific social role.
-
-### Architecture
-
-The sources used do not cover Punu house forms, settlement plans, roofing, architectural materials, or architectural decoration.
+One museum record describes a black-pigmented male figure wearing a woven fibre skirt held by a belt of printed cotton, together with a necklace of glass beads and an animal claw threaded onto fibre cord. Another figure is represented with a colonial pith style helmet and jacket with a pocket, carrying a gun and another gun strapped diagonally across its back; the figure is naked below the waist and has an extended navel. The museum records do not establish whether these objects represent ordinary clothing, ceremonial dress, or a specific social role.
 
 ### Ceramics, metalwork & everyday objects
 
-The catalogue records document carved wooden bellows, masks, and figures. One bellows takes the form of a female human figure with a wide flat torso and two round breast cavities covered with skin; its face is painted white. The figures are carved from wood, sometimes identified in the records as *Ricinodendron africanum?*, and may have integral circular bases. Their surfaces are described as white with kaolin, black, red, or reddish-brown pigment. One figure has a woven fibre skirt, a belt, a necklace, and an animal claw. The sources do not document Punu ceramics, metalworking, or named household forms.
+The catalogue records document carved wooden bellows, masks, and figures. One bellows takes the form of a female human figure with a wide flat torso and two round breast cavities covered with skin; its face is painted white. The figures are carved from wood, sometimes identified in the records as *Ricinodendron africanum?*, and may have integral circular bases. Their surfaces are described as white with kaolin, black, red, or reddish-brown pigment. One figure has a woven fibre skirt, a belt, a necklace, and an animal claw.
 
 ### Jewelry & body adornment
 
-The sources document scarification and coiffure more clearly than jewelry. A young female Punu community member living in East London in the early 1700s was described as having intricate scarification marks resembling diamonds on her forehead and temples; these marks are associated in the source with *Mukudj*, female ancestor masks. Museum figures and masks show elaborate hairstyles, crests, braids, and coiffures. One figure wears a necklace of glass beads and an animal claw on fibre cord. The sources do not describe tattooing, hair rituals, or named jewelry types beyond these records.
+The sources document scarification and coiffure more clearly than jewelry. A young female Punu community member living in East London in the early 1700s was described as having intricate scarification marks resembling diamonds on her forehead and temples; these marks are associated in the source with *Mukudj*, female ancestor masks. Museum figures and masks show elaborate hairstyles, crests, braids, and coiffures. One figure wears a necklace of glass beads and an animal claw on fibre cord.
 
 ## Music & performance
 
-The sources used do not identify Punu musical instruments, song genres, or named musical performances. The Yipunu lexicon records terms connected with sound and performance, including *Mungongu*, glossed as “musical bow,” *Ngomfi*, glossed as “harp,” and *Wimbile*, glossed as “to sing.” It also records *Dilambe*, “dance,” *Ikambi*, “performer,” and *Ndele*, a song signifying an exchange between the living and the ancestors. These lexical entries do not provide enough information to reconstruct the instruments’ construction, the songs’ musical forms, or their performance settings. The sources do state that white masks are worn by dancers during major community events, including a dance performed for a secret society.
+The Yipunu lexicon records terms connected with sound and performance, including *Mungongu*, glossed as “musical bow,” *Ngomfi*, glossed as “harp,” and *Wimbile*, glossed as “to sing.” It also records *Dilambe*, “dance,” *Ikambi*, “performer,” and *Ndele*, a song signifying an exchange between the living and the ancestors. These lexical entries do not provide enough information to reconstruct the instruments’ construction, the songs’ musical forms, or their performance settings. The sources do state that white masks are worn by dancers during major community events, including a dance performed for a secret society.
 
 ## Dance & theatre
 
@@ -43,19 +37,19 @@ Masked dancing is the best-documented Punu performance tradition in the sources.
 
 ## Festivals & rituals
 
-The sources do not name an annual Punu festival calendar. They do describe major community events involving masked dancers and a dance performed for a secret society. White masks are associated with these events, while black masks have a preparatory and announcing role. The sources also record ritual practices concerning illness and death. The Punu believe in the god *Nyambye* and fear evil spirits. They formerly carried out surgical operations after someone’s death to discover the cause of death; if the cause could not be found, a family-circle wizard, called *mulosi*, was held responsible. Illness was understood as the work of an evil spirit, and healing required a special ritual intended to drive away that spirit’s work. The sources do not describe birth, initiation, marriage, or funeral ceremonies in detail.
+The sources describe major community events involving masked dancers and a dance performed for a secret society. White masks are associated with these events, while black masks have a preparatory and announcing role. The sources also record ritual practices concerning illness and death. The Punu believe in the god *Nyambye* and fear evil spirits. They formerly carried out surgical operations after someone’s death to discover the cause of death; if the cause could not be found, a family-circle wizard, called *mulosi*, was held responsible. Illness was understood as the work of an evil spirit, and healing required a special ritual intended to drive away that spirit’s work.
 
 ## Foodways
 
-The sources used do not document Punu staple foods, named dishes, cooking methods, dietary rules, or ceremonial meals. The Yipunu lexicon includes words glossed as “food,” “palm wine,” “water,” “honey,” “meat,” and “sugar cane,” but it does not explain their culinary roles or establish a food tradition. It also records *Ikuku*, “cooking,” and *Dingibe*, “palm wine,” without describing preparation or occasions of consumption.
+The Yipunu lexicon includes words glossed as “food,” “palm wine,” “water,” “honey,” “meat,” and “sugar cane,”. It also records *Ikuku*, “cooking,” and *Dingibe*, “palm wine,” without describing preparation or occasions of consumption.
 
 ## Oral tradition & literature
 
-The sources do not provide Punu epics, folktales, riddles, or a documented literary corpus. The Yipunu lexicon includes *Dusavu*, “tale, fable,” *Nongu*, “proverb, parable,” *Ilombi*, “short story,” and *Musamu*, also glossed as “short story.” It records *Wale*, “to extend,” and *Walule*, “tell a dream,” as well as words for speech, discussion, praise to ancestors, and a song signifying an exchange between the living and the ancestors. These entries show relevant vocabulary but do not describe particular narratives, performers, or preservation projects.
+The Yipunu lexicon includes *Dusavu*, “tale, fable,” *Nongu*, “proverb, parable,” *Ilombi*, “short story,” and *Musamu*, also glossed as “short story.” It records *Wale*, “to extend,” and *Walule*, “tell a dream,” as well as words for speech, discussion, praise to ancestors, and a song signifying an exchange between the living and the ancestors. These entries show relevant vocabulary.
 
 ## Language & religion
 
-Yipunu, also known as Yisira, is a Bantu language spoken in the Republic of Gabon and the Republic of Congo. It has about 120 thousand native speakers, mainly in the southern Region, including 8 thousand speakers in southern French Congo, and is classified as B.43 in the Guthrie classification. The source lists phonological variation in several consonants and vowels but does not describe a writing system or dialect history. In religious life, the Punu believe in *Nyambye*, their god, and fear evil spirits. The sources associate illness with the action of an evil spirit and describe ritual healing. They also mention the *mulosi*, a wizard held responsible when the cause of a death could not be determined, and jealousy as a force believed capable of causing harm or death.
+Yipunu, also known as Yisira, is a Bantu language spoken in the Republic of Gabon and the Republic of Congo. It has about 120 thousand native speakers, mainly in the southern Region, including 8 thousand speakers in southern French Congo, and is classified as B.43 in the Guthrie classification. The source lists phonological variation in several consonants and vowels. In religious life, the Punu believe in *Nyambye*, their god, and fear evil spirits. The sources associate illness with the action of an evil spirit and describe ritual healing. They also mention the *mulosi*, a wizard held responsible when the cause of a death could not be determined, and jealousy as a force believed capable of causing harm or death.
 
 ## Sources & further reading
 

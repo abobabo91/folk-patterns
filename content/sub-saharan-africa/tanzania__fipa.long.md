@@ -25,11 +25,11 @@ No other documented Fipa pattern-bearing textile traditions are covered by the s
 
 ### Clothing & dress
 
-The Fipa wore durable cotton cloth of black and white stripes. Locally grown cotton was spun and woven by men, producing a strong, heavy, open cloth with a black-striped border. The cloth measured approximately five by six feet or six by five feet in the descriptions and served as toga-like dress for both men and women. The sources do not name separate everyday and ceremonial garments, head coverings, footwear, or distinctive jewelry. They state that men and women wore this cloth and that reed mats were used on beds and for filtering beer.
+The Fipa wore durable cotton cloth of black and white stripes. Locally grown cotton was spun and woven by men, producing a strong, heavy, open cloth with a black-striped border. The cloth measured approximately five by six feet or six by five feet in the descriptions and served as toga-like dress for both men and women. The sources state that men and women wore this cloth and that reed mats were used on beds and for filtering beer.
 
 ### Architecture
 
-The Wafipa lived in concentrated, widely spaced settlements of twenty to thirty round huts. The huts stood no more than a few yards apart, housed three to five people each, and had two surrounding corridor walls for small livestock. An inner room was used for eating and sleeping. Men made beds from a single cow hide, or cow-hide strips, stretched over a wooden frame, with a reed mat placed on top before sleeping. Villages normally contained 100 people; settlements of 300–400 people were large and uncommon. During the harvest, people working distant fields built round huts for sleeping and shelter. The sources do not describe roof forms, architectural decoration, or named urban building types.
+The Wafipa lived in concentrated, widely spaced settlements of twenty to thirty round huts. The huts stood no more than a few yards apart, housed three to five people each, and had two surrounding corridor walls for small livestock. An inner room was used for eating and sleeping. Men made beds from a single cow hide, or cow-hide strips, stretched over a wooden frame, with a reed mat placed on top before sleeping. Villages normally contained 100 people; settlements of 300–400 people were large and uncommon. During the harvest, people working distant fields built round huts for sleeping and shelter.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,19 +37,19 @@ Ironworking was a hereditary specialization. Iron smelting and forging were clos
 
 ### Jewelry & body adornment
 
-The sources do not document Fipa jewelry traditions, tattoos, henna, hair ornaments, or named forms of bodily adornment. They state that unmarried girls traditionally extended their labia minora by constant manipulation, which was thought to enhance sexual attractiveness and favor giving birth.
+The sources state that unmarried girls traditionally extended their labia minora by constant manipulation, which was thought to enhance sexual attractiveness and favor giving birth.
 
 ## Music & performance
 
-The sources do not name Fipa musical instruments, song genres, or formal musical ensembles. They do describe vocal and ritual performance in several contexts. During the death of a woman in childbirth, women wept and chanted inside the hut containing the corpse while men sat quietly outside. Dances were forbidden during an epidemic, children stopped playing noisy games, and water-pots were covered. The Fipa language bibliography includes a work titled *There was a certain man: Spoken art of the Fipa*, indicating a documented spoken-art tradition, but the sources used here do not describe its genres or performance structure. The museum catalogue includes a whistle made of reed, wax, leaf, and rattan, but does not identify its cultural or musical use.
+The sources describe vocal and ritual performance in several contexts. During the death of a woman in childbirth, women wept and chanted inside the hut containing the corpse while men sat quietly outside. Dances were forbidden during an epidemic, children stopped playing noisy games, and water-pots were covered. The Fipa language bibliography includes a work titled *There was a certain man: Spoken art of the Fipa*, indicating a documented spoken-art tradition. The museum catalogue includes a whistle made of reed, wax, leaf, and rattan.
 
 ## Dance & theatre
 
-The sources do not name a Fipa dance, theatre form, dramatic tradition, mask performance, or puppet tradition. They state that dances were forbidden during an epidemic and that children ceased playing noisy games. No further information about dance occasions, choreography, performers, or entertainment contexts is provided.
+The sources state that dances were forbidden during an epidemic and that children ceased playing noisy games. No further information about dance occasions, choreography, performers, or entertainment contexts is provided.
 
 ## Festivals & rituals
 
-The sources do not describe an annual Fipa festival calendar or provide dates for seasonal festivals. They do document life-cycle practices and ritual responses to illness, death, and unusual birth circumstances. The Fipa had no initiation ceremony for either sex apart from the extraction of two or four lower incisors before or after puberty. At the birth of a girl, her father brought firewood on his head; when a boy was born, he carried a bow and arrow in his right hand. If childbirth was difficult, midwives asked the name of the unborn child’s father because unconfessed adultery was thought capable of causing death in childbirth.
+The sources document life-cycle practices and ritual responses to illness, death, and unusual birth circumstances. The Fipa had no initiation ceremony for either sex apart from the extraction of two or four lower incisors before or after puberty. At the birth of a girl, her father brought firewood on his head; when a boy was born, he carried a bow and arrow in his right hand. If childbirth was difficult, midwives asked the name of the unborn child’s father because unconfessed adultery was thought capable of causing death in childbirth.
 
 After death, a meeting of kin decided inheritance, and a widow was assigned to the heir if she was willing. If a woman died in childbirth, the unborn child was cut from the belly and placed on the dead mother’s back inside the grave. The women wept and chanted inside the hut, while men sat outside; after burial, the hut was totally destroyed.
 
@@ -59,11 +59,11 @@ Twins were considered divinities with special powers over rain and crops. They c
 
 Millet was the main crop. It was made into dry porridge and usually eaten with the fingers together with beans. The Fipa planted their principal crops on earth-covered compost piles of vegetation, often roughly a mile or more from a settlement. During harvest, people working in the fields built round huts for shelter and sleeping. Women drew water, cooked, winnowed and pounded grain, while men made and spread compost piles and threshed millet. Threshing was often carried out cooperatively by groups of kinsmen and neighbors.
 
-The sources mention beer indirectly through the use of reed mats for filtering it, but do not name a beer, give a recipe, or describe brewing. Fishing was considered important around Lake Rukwa, Lake Tanganyika, and the surrounding rivers, although the sources do not provide named fish dishes or cooking methods. The sources do not describe dietary rules, tea or coffee traditions, ceremonial meals, or named dishes beyond millet porridge and beans.
+The sources mention beer indirectly through the use of reed mats for filtering it. Fishing was considered important around Lake Rukwa, Lake Tanganyika, and the surrounding rivers.
 
 ## Oral tradition & literature
 
-The Fipa language bibliography records *There was a certain man: Spoken art of the Fipa*, published by Roy G. Willis in 1978. The sources do not provide the text, names of particular tales, genres, proverbs, riddles, epics, or performance contexts. Oral historical material is also represented in accounts of chiefs, dynasties, and prophets. Prophet Kaswa was said to have prophesied the coming of Europeans, warning that terrible strangers would bring war and that the people would lose their country. The historical account also preserves statements attributed to Paul Reichard and H. H. Johnston, but it does not identify a broader Fipa literary canon or contemporary preservation program.
+The Fipa language bibliography records *There was a certain man: Spoken art of the Fipa*, published by Roy G. Willis in 1978. Oral historical material is also represented in accounts of chiefs, dynasties, and prophets. Prophet Kaswa was said to have prophesied the coming of Europeans, warning that terrible strangers would bring war and that the people would lose their country. The historical account also preserves statements attributed to Paul Reichard and H. H. Johnston.
 
 ## Language & religion
 

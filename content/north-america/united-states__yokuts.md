@@ -33,14 +33,6 @@ Yokuts basketmakers used coil techniques, woven feathers, and dark geometric des
 - **Grass basket** — A much-used grass basket may have served as a bowl for food.
 - **Basket tray** (*Dice Tray*) — A tall basketry tray had black and dark-brown patterns and was linked with the Yokut and Tulare Indians.
 
-### Clothing & dress
-
-The sources do not describe Yokuts clothing or named garments.
-
-### Architecture
-
-The sources do not describe Yokuts houses or other architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 The sources describe baskets, hunting and fishing tools, and marine shells used as money.
@@ -135,4 +127,3 @@ Yokuts is an endangered language group with several named languages and dialects
 - [Wikipedia: Yokuts](https://en.wikipedia.org/wiki/Yokuts)
 - [Wikipedia: Yokuts language](https://en.wikipedia.org/wiki/Yokuts_language)
 - Museum catalogue records supplied for the British Museum, Museum of World Culture, and Museum of Ethnography objects shown.
-

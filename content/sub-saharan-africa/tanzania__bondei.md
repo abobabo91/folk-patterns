@@ -31,14 +31,6 @@ Bondei matmaking uses grass, fibre, and palm leaf to create striped and geometri
 - **Grass-plaited mats** — These mats are made from narrow grass strips sewn or woven together, often with black-and-white geometric designs.
 - **Moa mat pattern samples** (*Moa*) — The museum holds brown, red, and green grass-weaving samples, as well as black-and-white samples, made for Moa mats.
 
-### Clothing & dress
-
-The profile gives no information about Bondei clothing or dress.
-
-### Architecture
-
-The profile gives no information about Bondei buildings or settlements.
-
 ### Ceramics, metalwork & everyday objects
 
 Recorded Bondei objects include pottery smoking pipes and simple wooden utensils.
@@ -48,19 +40,11 @@ Recorded Bondei objects include pottery smoking pipes and simple wooden utensils
 - **Incised wooden cup** — A wooden cup is decorated with incised geometric designs.
 - **Lute-like instrument** — This wooden instrument has a skin membrane and four strings tuned with pegs.
 
-### Jewelry & body adornment
-
-The profile gives no information about Bondei jewelry or body decoration.
-
 ## Music & performance
 
 The only recorded Bondei musical object is a four-stringed instrument similar to a lute.
 
 - **Lute-like stringed instrument** — It is made of wood, has a skin membrane, and has four strings tuned by pegs.
-
-## Dance & theatre
-
-The profile gives no information about Bondei dance or theatre.
 
 ## Festivals & rituals
 
@@ -115,4 +99,3 @@ Bondei identity is tied to Kibondei and to cultural links with nearby peoples.
 - [“Bondei people,” Wikipedia](https://en.wikipedia.org/wiki/Bondei_people)
 - [“Bondei language,” Wikipedia](https://en.wikipedia.org/wiki/Bondei_language)
 - British Museum catalogue records for Bondei smoking pipes, mats, spoons, cup, lute, and grass-weaving samples.
-

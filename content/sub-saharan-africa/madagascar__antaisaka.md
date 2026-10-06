@@ -23,10 +23,6 @@ The Antaisaka are a Malagasy people whose traditional homeland is on Madagascar�
 
 Antaisaka material culture uses local plant materials for houses, baskets, traps, trays, and some clothing items.
 
-### Textile & pattern traditions
-
-The sources do not document named Antaisaka textile traditions or motifs.
-
 ### Clothing & dress
 
 The sources describe no named everyday or ceremonial clothing, but record one woven woman’s belt.
@@ -50,10 +46,6 @@ Recorded Antaisaka objects include plant-fibre containers, wooden tools, a trap,
 - **Carrying radio basket** — A carrying radio basket made of raffia is recorded in the museum catalogue.
 - **Crab trap** — A wooden and fibre crab trap is among the documented objects.
 - **Bark winnowing tray** — A bark winnowing tray is recorded as an everyday object.
-
-### Jewelry & body adornment
-
-The sources do not document Antaisaka jewelry or body-adornment traditions.
 
 ## Music & performance
 
@@ -134,4 +126,3 @@ Antesaka speak Malagasy and follow a ritual framework involving taboos, sacred f
 - British Museum catalogue records for the shield, belt and wallet, baskets, crab trap, winnowing tray, and bill-hook shown in the atlas.
 - Wikipedia, “[Antaisaka people](https://en.wikipedia.org/wiki/Antaisaka_people)”.
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the sources used.
-

@@ -23,10 +23,6 @@ The Seneca were the westernmost nation of the Haudenosaunee and were called the 
 
 Seneca material culture includes longhouses, moccasins, headgear, wooden bowls, clubs, masks, rattles, brooches, bows, and arrows.
 
-### Textile & pattern traditions
-
-The sources do not document named Seneca textile or pattern traditions in enough detail.
-
 ### Clothing & dress
 
 Seneca clothing included moccasins, leggings, coats, headgear, and ear ornaments.
@@ -150,4 +146,3 @@ Seneca is an Iroquoian language with about one hundred native speakers, and revi
 - [Smithsonian Folkways search](https://folkways.si.edu/search?query=Seneca)
 - [Metropolitan Museum of Art collections](https://www.metmuseum.org/art/collection)
 - [British Museum collection](https://www.britishmuseum.org/collection)
-

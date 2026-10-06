@@ -42,10 +42,6 @@ Documented Bambara dress includes cotton wrappers, skirts, blankets, carrying cl
 - **Masquerade costume** — This cotton costume is made from 22 narrow strips and has a drawstring neckline, sleeves and two lower sleeves for the legs.
 - **Cotton garment from Ségou** — This garment measures 185 by 90 centimetres and has dark-brown discharge-dyed patterns.
 
-### Architecture
-
-The sources do not describe Bambara houses, building materials, roofs, granaries or urban architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Bamana everyday and artistic objects include locks, loom tools, musical instruments, calabashes and poisoned arrows.
@@ -97,8 +93,6 @@ The sources describe initiation, farming and masquerade rituals but give no annu
 
 ## Foodways
 
-The sources do not identify Bambara foods, dishes, cooking methods, drinks or dietary rules.
-
 - **Pounding and sifting meal** — One photograph shows women pounding an unidentified meal, sifting it into a calabash and carrying a child.
 
 ## Oral tradition & literature
@@ -149,4 +143,3 @@ Bambara is Mali’s main Manding lingua franca, and most Bamana combine Islam wi
 - Bambara art: https://en.wikipedia.org/wiki/Bambara_art
 - Bambara language: https://en.wikipedia.org/wiki/Bambara_language
 - Museum catalogue records cited above: British Museum, Museum of World Culture, Museum of Ethnography, Metropolitan Museum of Art and Cleveland Museum of Art.
-

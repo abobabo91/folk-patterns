@@ -40,10 +40,6 @@ Chorotí dress combines chaguar fiber, wool, leather, cloth and shell into tunic
 - **Leather belt with fringe** — A belt accessory made of leather and carrying a fringe.
 - **Shell-and-cloth cap** — A cap combining cloth with shell material.
 
-### Architecture
-
-No information on Chorotí architecture is documented in the available sources.
-
 ### Ceramics, metalwork & everyday objects
 
 Pottery water vessels and gourd containers serve everyday needs, while bone and wood tools handle work and household tasks.
@@ -122,4 +118,3 @@ Chorote is a Matacoan language with two recognized varieties, spoken in northwes
 - Gordon, Raymond G., Jr. (ed.), Ethnologue: Languages of the World, 15th edition, SIL International, 2005
 - The British Museum online collection, which holds the Chorotí objects shown in this atlas (pottery water vessels, chaguar netting and tunic, gourd rattles and whistles, feather and shell ornaments): https://www.britishmuseum.org/collection
 - UNESCO Intangible Cultural Heritage, Argentina: State page: https://ich.unesco.org/en/state/argentina
-

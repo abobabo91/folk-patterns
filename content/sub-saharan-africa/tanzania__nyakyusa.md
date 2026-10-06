@@ -32,14 +32,10 @@ The documented textile tradition uses barkcloth for women’s garments, includin
 
 ### Clothing & dress
 
-The sources record two women’s barkcloth garments but do not describe men’s clothing or ceremonial dress.
+The sources record two women’s barkcloth garments.
 
 - **Woman’s loin-cloth** (*Riabi or lyabi*) — The riabi or lyabi is a woman’s loin-cloth made from Riabi tree bark.
 - **Woman’s waist-band** (*Lufwalilo*) — The lufwalilo is a woman’s barkcloth waist-band with a black geometric pattern.
-
-### Architecture
-
-The sources do not describe Nyakyusa architecture or named building traditions.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -50,27 +46,11 @@ The documented objects include weapons, a shield, a bark-cloth-beater, and a dec
 - **Composite bark-cloth-beater** — This tool includes a cross-hatched section of cow’s horn and a short wooden handle.
 - **Decorated wooden staff** — This wooden staff is carved and decorated with metal studs.
 
-### Jewelry & body adornment
-
-The sources do not cover Nyakyusa jewelry or body adornment.
-
-## Music & performance
-
-The sources do not document Nyakyusa instruments, songs, or musical performances.
-
-## Dance & theatre
-
-The sources do not describe Nyakyusa dances, theatre, masked performances, or dramatic forms.
-
 ## Festivals & rituals
 
 The sources do not describe Nyakyusa festivals or rituals, but they name the traditional god Kyala.
 
 - **Traditional god** (*Kyala*) — Kyala is the traditional god of the Nyakyusa.
-
-## Foodways
-
-The sources do not cover Nyakyusa foods, cooking, meals, drinks, or dietary rules.
 
 ## Oral tradition & literature
 
@@ -120,4 +100,3 @@ Nyakyusa is a Bantu language with several dialect names in Tanzania and Malawi, 
 - [Nyakyusa people](https://en.wikipedia.org/wiki/Nyakyusa_people)
 - [Nyakyusa language](https://en.wikipedia.org/wiki/Nyakyusa_language)
 - [British Museum collections](https://www.britishmuseum.org/collection)
-

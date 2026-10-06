@@ -29,7 +29,7 @@ The sources for this atlas record no vernacular Otavalo names for the weaves bel
 
 ### Clothing & dress
 
-The local dress of the Otavalo is itself an attraction for visitors to the area, and the museum records treat garments as parts of a named ensemble, "the Otavalo costume," rather than as isolated pieces. Documented women's wear comprises a white embroidered wool shawl, fastened at the breast with a long pin made for that purpose; a white felt hat, specified in the catalogue as a woman's hat; woven waist-bands of cotton, one face pink and the other red, or bright pink banded with yellow and white and finished with tassels at one end; multiple strands of glass-bead necklaces; and a pair of slippers made of cloth with a stiffening inside. For girls there is a white dress with pale blue floral embroidery at the neck and shoulders and lace at the neck and sleeve openings. The sources used here do not describe men's dress, and they do not distinguish ceremonial from everyday clothing.
+The local dress of the Otavalo is itself an attraction for visitors to the area, and the museum records treat garments as parts of a named ensemble, "the Otavalo costume," rather than as isolated pieces. Documented women's wear comprises a white embroidered wool shawl, fastened at the breast with a long pin made for that purpose; a white felt hat, specified in the catalogue as a woman's hat; woven waist-bands of cotton, one face pink and the other red, or bright pink banded with yellow and white and finished with tassels at one end; multiple strands of glass-bead necklaces; and a pair of slippers made of cloth with a stiffening inside. For girls there is a white dress with pale blue floral embroidery at the neck and shoulders and lace at the neck and sleeve openings.
 
 ### Architecture
 
@@ -41,7 +41,7 @@ The household objects documented here are modest and mostly items of costume and
 
 ### Jewelry & body adornment
 
-Beadwork is the best-documented adornment. One necklace consists of small gold-coloured glass beads threaded on fourteen separate cords; another is built of four cords strung with large gold-coloured glass beads; a third is a single cord of red glass beads, long enough to be wound. All three were bought in the market at Otavalo. The shawl pin, though functional, is worn at the front of the costume. The sources used here do not mention tattooing, body painting or hair practices.
+Beadwork is the best-documented adornment. One necklace consists of small gold-coloured glass beads threaded on fourteen separate cords; another is built of four cords strung with large gold-coloured glass beads; a third is a single cord of red glass beads, long enough to be wound. All three were bought in the market at Otavalo. The shawl pin, though functional, is worn at the front of the costume.
 
 ## Music & performance
 

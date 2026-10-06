@@ -12,7 +12,7 @@ tags: [ethnography, north-america]
 | Where | Southern Oregon and Northern California, especially around Upper Klamath Lake and nearby rivers. |
 | How many | The profile gives no population figure. |
 | Language | Klamath–Modoc, with the Klamath northern dialect. |
-| Religion | The profile gives no information about Klamath religion. |
+ |
 | Known for | Fish, roots, and seeds · Basketry · Earth-lodge winter settlements · Dentalium shell adornment · The Klamath–Modoc language |
 
 ## Overview
@@ -49,7 +49,7 @@ Klamath winter settlements used earth-lodges in permanent places that families r
 
 ### Ceramics, metalwork & everyday objects
 
-The sources record several basketry and everyday objects but do not explain their exact uses.
+The sources record several basketry and everyday objects.
 
 - **Basketry tray** — A basketry tray is listed in a museum catalogue.
 - **Winnowing basket** — A winnowing basket is listed among the recorded objects.
@@ -76,7 +76,7 @@ The sources give little detail about Klamath music but record a brush dance and 
 
 ## Dance & theatre
 
-The sources name one dance but do not describe its movements, meaning, or occasion.
+The sources name one dance.
 
 - **Brush dance** — A postcard depicts Klamath men and women in regalia performing a brush dance.
 
@@ -104,8 +104,6 @@ The sources do not provide named Klamath stories or literary traditions, but lan
 - **Klamath language revitalization** — Revitalization efforts aimed to create new speakers of the Klamath language.
 
 ## Language & religion
-
-Klamath–Modoc is a Plateau Penutian language, and the profile gives no information about Klamath religion.
 
 - **Klamath–Modoc language** (*Klamath–Modoc*) — Klamath–Modoc was spoken around Klamath Lake in southern Oregon and northern California.
 - **Lutuamian** — Klamath–Modoc was historically also called Lutuamian.
@@ -137,4 +135,3 @@ Klamath–Modoc is a Plateau Penutian language, and the profile gives no informa
 - [Klamath language](https://en.wikipedia.org/wiki/Klamath_language)
 - UNESCO Intangible Cultural Heritage: no United States inscriptions were supplied in the sources.
 - Museum catalogue records supplied for the Museum of World Culture, British Museum, and Museum of Ethnography objects.
-

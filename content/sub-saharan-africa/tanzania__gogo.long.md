@@ -13,17 +13,15 @@ The Gogo, also known as Gongwe or Wagogo, are a Bantu ethnic group based in the 
 
 ### Textile & pattern traditions
 
-The sources used do not document named Gogo textile or pattern traditions.
-
 **Motif vocabulary.** The sources name no Gogo textile motifs.
 
 ### Clothing & dress
 
-The sources used do not describe everyday clothing, footwear, or complete ceremonial dress. They do document several forms of beadwork and leather adornment: a man’s beadwork belt on a hide base; a leather belt covered with red, white, and black beads; another man’s beadwork belt on a hide base; beadwork and leather armlets; and a necklet made of black, blue, red, and white beads with a frontal leather pendant. A composite warrior’s headdress is described as an oval of hide from which part of an animal’s tail projects. The catalogue records do not identify the occasions on which these items were worn.
+The sources document several forms of beadwork and leather adornment: a man’s beadwork belt on a hide base; a leather belt covered with red, white, and black beads; another man’s beadwork belt on a hide base; beadwork and leather armlets; and a necklet made of black, blue, red, and white beads with a frontal leather pendant. A composite warrior’s headdress is described as an oval of hide from which part of an animal’s tail projects. The catalogue records do not identify the occasions on which these items were worn.
 
 ### Architecture
 
-The sources used do not describe Gogo houses, building materials, roofs, settlement plans, or named architectural forms. They state that the homestead group was fundamental to Gogo society and that a strange traveller could be accompanied many miles by the young men of a homestead. They also record that people who died in unusual circumstances were sometimes thrown into the bush or the trunk of a baobab tree because such a person was believed to lack a homestead and could become an “evil spirit” associated with sorcerers or witches.
+The sources state that the homestead group was fundamental to Gogo society and that a strange traveller could be accompanied many miles by the young men of a homestead. They also record that people who died in unusual circumstances were sometimes thrown into the bush or the trunk of a baobab tree because such a person was believed to lack a homestead and could become an “evil spirit” associated with sorcerers or witches.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -31,39 +29,35 @@ The museum records include a dark-coloured, sub-globular pottery bowl and a coni
 
 ### Jewelry & body adornment
 
-Documented body adornment includes beadwork and leather armlets, beadwork belts on hide bases, a leather belt covered with red, white, and black beads, and a necklet made from black, blue, red, and white beads with a leather frontal pendant. Other catalogue records describe copper-wire ear ornaments twisted into a hairpin shape with biconical bead tips, wooden ear-plugs, ear ornaments made of wood and brass, and a wooden stick carrying coiled and plaited wire pendants. Women’s girdles are recorded in two forms: coiled copper wire and white metal wire coiled around a central core. The sources do not explain the social, ritual, or life-cycle functions of these adornments.
+Documented body adornment includes beadwork and leather armlets, beadwork belts on hide bases, a leather belt covered with red, white, and black beads, and a necklet made from black, blue, red, and white beads with a leather frontal pendant. Other catalogue records describe copper-wire ear ornaments twisted into a hairpin shape with biconical bead tips, wooden ear-plugs, ear ornaments made of wood and brass, and a wooden stick carrying coiled and plaited wire pendants. Women’s girdles are recorded in two forms: coiled copper wire and white metal wire coiled around a central core.
 
 ## Music & performance
 
-The sources used do not describe a named Gogo musical genre, song form, dance accompaniment, performance structure, or musical instrument vocabulary. They do record a wooden drum with a skin membrane among the museum objects. Gogo musicians named in the biographical material include Hukwe Zawose, Mzee Mchoya Malogo, John Mtangoo, Patrick Balisidya, and Benard Michael Paul Mnyang'anga, also known as Ben Pol. Mzee Mchoya Malogo is described as a musician and leader of the Nyati group from Nzali.
+The sources record a wooden drum with a skin membrane among the museum objects. Gogo musicians named in the biographical material include Hukwe Zawose, Mzee Mchoya Malogo, John Mtangoo, Patrick Balisidya, and Benard Michael Paul Mnyang'anga, also known as Ben Pol. Mzee Mchoya Malogo is described as a musician and leader of the Nyati group from Nzali.
 
-The sources also identify Gogo as a major language of the Anglican Church of Tanzania and state that the language is spoken by both Christians and Muslims. They do not connect particular songs, instruments, musical forms, or performance contexts to weddings, funerals, initiation, rainmaking, courts, or other ceremonies. The separate article titled “Gogo music” concerns go-go, a funk subgenre originating among African-American musicians in Washington, D.C., and does not describe Gogo people.
-
-## Dance & theatre
-
-The sources used do not document named Gogo dances, theatrical traditions, dramatic genres, mask performances, or shadow-puppet traditions. They also do not describe dance contexts or distinguish ceremonial from entertainment performance.
+The sources also identify Gogo as a major language of the Anglican Church of Tanzania and state that the language is spoken by both Christians and Muslims. The separate article titled “Gogo music” concerns go-go, a funk subgenre originating among African-American musicians in Washington, D.C., and does not describe Gogo people.
 
 ## Festivals & rituals
 
-The sources do not provide an annual festival calendar or name Gogo festivals. They do document ritual leaders as central figures in traditional society. These leaders controlled rainmaking and fertility, provided medicines against natural disasters or hazards, prevented overuse of certain resources, presided over circumcision and initiation ceremonies, provided supernatural protection for undertakings, and acted as arbitrators in homicide, witchcraft accusations, and serious assault. They were not to leave their “country” and were expected to be rich in cattle.
+The sources document ritual leaders as central figures in traditional society. These leaders controlled rainmaking and fertility, provided medicines against natural disasters or hazards, prevented overuse of certain resources, presided over circumcision and initiation ceremonies, provided supernatural protection for undertakings, and acted as arbitrators in homicide, witchcraft accusations, and serious assault. They were not to leave their “country” and were expected to be rich in cattle.
 
-Defence against the Kisongo, Maasai, and Wahehe was organized through age groups of warriors. This organization was mainly used for local defence but could also be used for cattle raids. When an alarm sounded, able-bodied men were expected to take up arms and run towards the call. The sources do not describe the associated ceremonies, clothing, songs, dances, or ritual calendar.
+Defence against the Kisongo, Maasai, and Wahehe was organized through age groups of warriors. This organization was mainly used for local defence but could also be used for cattle raids. When an alarm sounded, able-bodied men were expected to take up arms and run towards the call.
 
 Marriage involved an agreement concerning the number of livestock included in bridewealth. Bridewealth was conventionally given entirely in livestock, and the payment or return of brideprice formed a high proportion of court cases. Most marriages took place within a day’s walking distance. While most Wagogo had only one wife at a time, polygyny was not uncommon among older, well-established men, and a reasonably wealthy man could have two or three wives.
 
 ## Foodways
 
-The sources describe the Gogo as having become agriculturalists with cattle by 1890, following an earlier tradition of hunting and gathering. They do not name staple grains, dishes, cooking methods, beverages, dietary rules, or ceremonial foods. They state that unreliable rainfall and drought repeatedly caused famine in Ugogo. Recorded famine years include 1881, 1885, 1888–89, 1894–95, and 1913–14.
+The sources describe the Gogo as having become agriculturalists with cattle by 1890, following an earlier tradition of hunting and gathering. The sources state that unreliable rainfall and drought repeatedly caused famine in Ugogo. Recorded famine years include 1881, 1885, 1888–89, 1894–95, and 1913–14.
 
 During the First World War, requisitioning, drought, military demands, and the destruction or removal of food and livestock intensified hunger. When the rains stopped in November 1917, the central region experienced three years of *mutunya*, described as a “scramble for food” and the worst famine in recorded Gogo history. One estimate placed deaths in Dodoma district at 30,000, nearly one in every five people. In the Dodoma market, starving calves were offered for one shilling each, and many people fled the region.
 
-Ugogo and Uzigua later experienced food shortages in 1919–21, 1925–6, 1928–30, 1932–5, 1937, and 1939. The sources state that the government encouraged the cultivation of drought-prone maize rather than drought-resistant millet and promoted the export of food and animals for military use. They do not describe named Gogo dishes or food preparation.
+Ugogo and Uzigua later experienced food shortages in 1919–21, 1925–6, 1928–30, 1932–5, 1937, and 1939. The sources state that the government encouraged the cultivation of drought-prone maize rather than drought-resistant millet and promoted the export of food and animals for military use.
 
 ## Oral tradition & literature
 
-The sources used do not document Gogo folktales, epic poetry, proverbs, riddles, praise poetry, or named oral-literary cycles. They do record historical accounts by European writers, including Edward Hore, Henry M. Stanley, and Emin Pasha, and preserve a long quotation from Stanley’s *In Darkest Africa* concerning travel through Ugogo.
+The sources record historical accounts by European writers, including Edward Hore, Henry M. Stanley, and Emin Pasha, and preserve a long quotation from Stanley’s *In Darkest Africa* concerning travel through Ugogo.
 
-The sources describe the movement of Wagogo clans and the development of new family and clan names, affiliations, customs, cultural practices, and ritual functions. They do not explain how these histories were transmitted or performed. No contemporary literary revival or preservation project is identified.
+The sources describe the movement of Wagogo clans and the development of new family and clan names, affiliations, customs, cultural practices, and ritual functions. No contemporary literary revival or preservation project is identified.
 
 ## Language & religion
 

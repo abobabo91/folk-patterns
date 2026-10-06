@@ -41,10 +41,6 @@ Huli clothing includes plant-fibre skirts, bark loin cloths, aprons, belts, wigs
 - **Plant-fibre skirts and loin cloths** — Photographs show Huli men wearing plant-fibre skirts and bark loin cloths.
 - **Ceremonial costumes** — Ceremonial costumes include black plant-fibre wigs, feather headdresses, skirts or loin cloths, arm ornaments, necklaces, and decorated poles or weapons.
 
-### Architecture
-
-The sources do not cover Huli houses, settlements, roofs, or named buildings.
-
 ### Ceramics, metalwork & everyday objects
 
 Huli tools and weapons are mainly made from wood, cane, fibre, claws, pigment, and polished stone.
@@ -64,10 +60,6 @@ Huli adornment combines shells, pig tusks, feathers, fibre, fur, paint, and othe
 - **Hornbill-beak neck ornament** — A neck ornament is made with a hornbill beak and red pigment.
 - **Pig-tusk necklaces** — Photographs and ceremonial costumes show necklaces made with pig tusks.
 - **Composite wigs** — Wigs combine vegetable fibre, human hair, feathers, leaves, snake skin, cuscus fur, and other materials.
-
-## Music & performance
-
-The sources do not document Huli musical instruments, song genres, performance settings, or named music traditions.
 
 ## Dance & theatre
 
@@ -119,5 +111,3 @@ Huli is a Tari language with a special pandanus vocabulary used during bush acti
 - “Huli people,” Wikipedia: https://en.wikipedia.org/wiki/Huli_people
 - “Huli language,” Wikipedia: https://en.wikipedia.org/wiki/Huli_language
 - British Museum catalogue records for Huli objects and photographs, as supplied in the source material
-- UNESCO Intangible Cultural Heritage: no Papua New Guinea inscription is supplied in the sources used.
-

@@ -42,10 +42,6 @@ Everyday and ceremonial dress focuses on bark, palm fibre, and featherwork rathe
 - **Dance cape** — Made of palm fibre hung by a suspension loop, with a stout plaited bundle wrapped with stripes and a deep fringe.
 - **Dance mask** — A bundle of long grass strands bound at the top with white native cotton and decorated with urucu.
 
-### Architecture
-
-The sources do not describe Xavante house forms or village layout beyond noting a population distributed across about 170 villages.
-
 ### Ceramics, metalwork & everyday objects
 
 Xavante everyday and weapon forms are made of wood and bamboo; no metalwork is recorded.
@@ -136,4 +132,3 @@ Xavante is a Jê language with nine vowel qualities and only ten consonants, fea
 - https://en.wikipedia.org/wiki/Xavante_language
 - https://folkways.si.edu/search?query=Xavante
 - British Museum online collection (the 1959-registered Xavante material shown here): https://www.britishmuseum.org/collection
-

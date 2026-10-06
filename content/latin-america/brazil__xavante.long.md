@@ -13,7 +13,7 @@ The Xavante — also written Shavante or Chavante, and known by the self-designa
 
 ### Textile & pattern traditions
 
-The sources used here do not describe named weaving or loom traditions for the Xavante. What they do document is plaiting in vegetable fibre and the spinning of native cotton, recorded object by object in the British Museum catalogue rather than under tradition names.
+What the sources do document is plaiting in vegetable fibre and the spinning of native cotton, recorded object by object in the British Museum catalogue rather than under tradition names.
 
 **Plaited vegetable-fibre basketry** — Open carrying baskets with twisted handles, some with the handle itself plaited from vegetable fibre, others with a twisted handle of native cotton thread; lidded storage baskets whose cotton-thread handle passes through a separate plaited lid and is attached to the end of the basket; and baskets made of plaited palm fronds. One carrying basket entered the museum holding eleven unbaked pottery sherds.
 
@@ -28,10 +28,6 @@ The sources used here do not describe named weaving or loom traditions for the X
 ### Clothing & dress
 
 Everyday and ceremonial dress in the catalogued material centres on bark, palm fibre and feather work rather than woven cloth. A **penis sheath** is made from the inner bark of the *palmito* palm. Paired white bands worn round the ankles and wrists are cut from the inner bark of a tree. A **headband** catalogued as religious or ritual equipment is a strip of bark decorated with *urucu*. For dance there is a **cape of palm fibre**, hung by a suspension loop at the top, from which a stout bundle of plaited fibres wrapped with stripes descends, with a deep fringe at the bottom; and a **dance mask** made from a bundle of long grass strands bound at the top with white native cotton and decorated with *urucu*. Combs are composite, their teeth — thirty-three in one example, fifteen in another — set between two slivers of bamboo bound with native cotton. Wikipedia records one further element of male dress: small wooden sticks inserted into the earlobes at the age of fourteen, the adornments being enlarged over the course of a man's life.
-
-### Architecture
-
-The sources used here do not describe Xavante house forms, building materials or village layout, beyond the statement that the population was distributed across about 170 villages as of 2014.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -57,7 +53,7 @@ The ritual life the sources do describe turns on the dual organisation of the so
 
 ## Foodways
 
-The sources used here do not describe Xavante staple crops, cooking methods or dishes. They record only the surrounding conditions: disease and famine during the twentieth-century relocations, forest burned to pasture and wasteland by land-grabbers and squatters on lands the Xavante later recovered, and monocultures such as entire fields of rice planted on land transferred to settlers.
+The sources record only the surrounding conditions: disease and famine during the twentieth-century relocations, forest burned to pasture and wasteland by land-grabbers and squatters on lands the Xavante later recovered, and monocultures such as entire fields of rice planted on land transferred to settlers.
 
 ## Oral tradition & literature
 

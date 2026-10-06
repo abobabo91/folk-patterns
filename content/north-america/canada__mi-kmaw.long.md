@@ -29,10 +29,6 @@ The catalogue records document no woven or embroidered textile tradition. Cloth 
 
 The records name one garment: a pair of moccasins of leather, velvet, cotton and glass beadwork, the beaded designs including crowns. Beyond this, the only dress evidence is photographic — the postcard shows two men, a woman and three children all wearing western-style clothes. The sources describe no head covering, belt, ceremonial outfit, or distinction between men's and women's dress.
 
-### Architecture
-
-The sources used do not cover Mi'kmaw house form, building materials or built decoration.
-
 ### Ceramics, metalwork & everyday objects
 
 No ceramics and no metalwork appear as Mi'kmaw products in these records; metal occurs only as repair or reinforcement, in the nails spaced unevenly around the circumference of a birchbark box. The containers are the substance of this group. The *mocock* is a birchbark box whose sides are joined by inverted Y seams stitched with plant fibre cord, possibly spruce root, the same cord wrapped around the rim of the opening; fragments at opposite sides of the top opening indicate a lost plant fibre carrying strap, and extensive interior discolouring records historic use, the cataloguer suggesting maple syrup. The circular etched box combines birchbark sides with a wooden lid and base fixed by wooden pegs. Alongside the containers stand furniture and models: a lidded trunk, a chair seat, a dollhouse chair, and a canoe model accompanied by dolls of silk, cotton, wool, glass and resin.
@@ -41,29 +37,13 @@ No ceramics and no metalwork appear as Mi'kmaw products in these records; metal 
 
 The sources used do not cover jewelry, tattooing or hair practice; the only adornment they record is the glass beadwork applied to the moccasins.
 
-## Music & performance
-
-The sources used do not cover Mi'kmaw instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Mi'kmaw dance or dramatic traditions.
-
-## Festivals & rituals
-
-The sources used do not cover the Mi'kmaw festival calendar or life-cycle rites.
-
 ## Foodways
 
 The sources used carry one indirect trace of foodways: the heavy interior staining of the birchbark *mocock*, which the British Museum cataloguer attributes tentatively to maple syrup. No dish, staple, cooking method or ceremonial food is named.
 
-## Oral tradition & literature
-
-The sources used do not cover Mi'kmaw storytelling, folktales or written literature.
-
 ## Language & religion
 
-The sources used do not cover the Mi'kmaw language or religious life. The only linguistic evidence they contain is a single object term, *mocock*, used by the British Museum for a birchbark container, and the older catalogue ethnonym "Micmac" applied across several records.
+The only linguistic evidence they contain is a single object term, *mocock*, used by the British Museum for a birchbark container, and the older catalogue ethnonym "Micmac" applied across several records.
 
 ## Sources & further reading
 

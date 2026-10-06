@@ -25,11 +25,11 @@ The sources used here name no weaving, dyeing or printed-cloth tradition for the
 
 ### Clothing & dress
 
-The catalogue records document dress mainly in its warrior and ceremonial register. A man going armed wore the skin-strip skirt described above, or a belt of skin carrying a large feather bustle; at the head, a head-dress of brown hide sewn thickly with cock's feathers, with a tuft of cow's hair hanging at the front, or a head-band of feathers, cotton cloth and string worn together with a separate plume of iron wire, feather, wood, glass beads and thread. Ornaments were distributed over the whole body: an armlet of haired animal skin and cloth, a knee-band of cotton cloth, iron and haired hide hung with bells, a waist girdle of glass beads, haired skin, hide and fibre, leglets of white-haired hide with tie-on strings, and an anklet of hide, feathers and string. A girdle of fibre wound with copper wire and a penis-sheath made from a gourd with burnt ornament are also recorded. The sources do not describe women's dress or everyday clothing apart from the beadwork apron shown on the carved figures below.
+The catalogue records document dress mainly in its warrior and ceremonial register. A man going armed wore the skin-strip skirt described above, or a belt of skin carrying a large feather bustle; at the head, a head-dress of brown hide sewn thickly with cock's feathers, with a tuft of cow's hair hanging at the front, or a head-band of feathers, cotton cloth and string worn together with a separate plume of iron wire, feather, wood, glass beads and thread. Ornaments were distributed over the whole body: an armlet of haired animal skin and cloth, a knee-band of cotton cloth, iron and haired hide hung with bells, a waist girdle of glass beads, haired skin, hide and fibre, leglets of white-haired hide with tie-on strings, and an anklet of hide, feathers and string. A girdle of fibre wound with copper wire and a penis-sheath made from a gourd with burnt ornament are also recorded.
 
 ### Architecture
 
-The sources used here do not describe Ngoni house form, building materials, roofing or architectural decoration. They record only that Zwangendaba, having led his followers north, established a state in the region of the Viphya Plateau, in what is now Chipata District in Zambia and Mzimba and Ntcheu in Malawi.
+The sources record only that Zwangendaba, having led his followers north, established a state in the region of the Viphya Plateau, in what is now Chipata District in Zambia and Mzimba and Ntcheu in Malawi.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,7 +37,7 @@ The household objects in the collection are wood, gourd, basketry, bone and iron
 
 ### Jewelry & body adornment
 
-Glass beads are the dominant ornamental material. A bracelet is made of white glass beads worked on a four-ply thread loosely twined around a string core; a pendant, apparently a quill, is encased in beadwork spiralling in white and green; the warrior's waist girdle and the plume worn with the head-band both incorporate glass beads. Beadwork aprons appear on both carved figures in the collection. A lip ornament made of stone (spar) is recorded, indicating lip piercing. Copper wire is wound around a fibre girdle, and iron wire enters the construction of head plumes. The sources do not describe tattooing, scarification, hair treatment or the ritual meaning attached to any of these ornaments.
+Glass beads are the dominant ornamental material. A bracelet is made of white glass beads worked on a four-ply thread loosely twined around a string core; a pendant, apparently a quill, is encased in beadwork spiralling in white and green; the warrior's waist girdle and the plume worn with the head-band both incorporate glass beads. Beadwork aprons appear on both carved figures in the collection. A lip ornament made of stone (spar) is recorded, indicating lip piercing. Copper wire is wound around a fibre girdle, and iron wire enters the construction of head plumes.
 
 ## Music & performance
 
@@ -45,11 +45,11 @@ The instruments held for the Ngoni are a musical bow of wood and fibre with a se
 
 ## Dance & theatre
 
-The sources used here name no Ngoni dance or dramatic tradition. The regalia in the collection — the bell-hung knee-band, the feather bustle belt, the plume and head-band worn as a pair — belong to the warrior's costume as the catalogue describes it, and the sources do not connect them to any named dance.
+The sources used here name no Ngoni dance or dramatic tradition.
 
 ## Festivals & rituals
 
-One festival is documented: **Nc'wala**, a celebration of first fruits held in late February at Mutenguleni, about 25 km from Chipata, by the Ngoni of Zambia. Ritual practice is otherwise visible through a single divination kit in the collection, the contents of one bag, which gives an unusually concrete picture of a diviner's equipment: two gourds ornamented with strips of cat and monkey skin, one of them beaded round the neck and each containing further objects; a bush buck horn holding powdered red wood, with a wooden spindle attached; a horn stopped with fibre; and the gourd rattle with a stick handle noted above. Two carved wooden figures — a standing woman carrying a pot on her head and a standing man wearing a headring, both in glass beadwork aprons — are the only figurative sculpture recorded, and the catalogue assigns them no ritual role. The sources do not describe Ngoni birth, initiation, marriage or funeral rites. They do record that the Ngoni dialect of Zulu is now reserved for ritual praise poems and songs, so the ritual register is where the ancestral language survives.
+One festival is documented: **Nc'wala**, a celebration of first fruits held in late February at Mutenguleni, about 25 km from Chipata, by the Ngoni of Zambia. Ritual practice is otherwise visible through a single divination kit in the collection, the contents of one bag, which gives an unusually concrete picture of a diviner's equipment: two gourds ornamented with strips of cat and monkey skin, one of them beaded round the neck and each containing further objects; a bush buck horn holding powdered red wood, with a wooden spindle attached; a horn stopped with fibre; and the gourd rattle with a stick handle noted above. Two carved wooden figures — a standing woman carrying a pot on her head and a standing man wearing a headring, both in glass beadwork aprons — are the only figurative sculpture recorded, and the catalogue assigns them no ritual role. The sources record that the Ngoni dialect of Zulu is now reserved for ritual praise poems and songs, so the ritual register is where the ancestral language survives.
 
 ## Foodways
 

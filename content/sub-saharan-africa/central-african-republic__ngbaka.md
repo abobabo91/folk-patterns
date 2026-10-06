@@ -12,7 +12,7 @@ tags: [ethnography, sub-saharan-africa]
 | Where | The profile does not establish a specific settlement area and only links them broadly to the Central African Republic. |
 | How many | Just over a million people speak the Ngbaka language. |
 | Language | Ngbaka, also called Ngbàkà, is a Gbaya language. |
-| Religion | The sources do not document Ngbaka religious beliefs or practices. |
+ |
 | Known for | Ngbaka language · Iron and copper weapons · Throwing-knives · Swords · Harps |
 
 ## Overview
@@ -22,18 +22,6 @@ The Ngbaka are associated with the Ngbaka language, also called Ngbàkà. The la
 ## Material culture
 
 The documented material culture centers on iron and copper weapons and two detailed harp forms.
-
-### Textile & pattern traditions
-
-The sources do not document Ngbaka textile or pattern traditions.
-
-### Clothing & dress
-
-The sources do not document Ngbaka clothing or dress.
-
-### Architecture
-
-The sources do not document Ngbaka houses, buildings, or settlement forms.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -45,32 +33,12 @@ Museum records document iron and copper weapons with carved, engraved, wrapped, 
 - **Sickle-pointed sword** — Some swords have double-headed iron blades with sickle-shaped points, geometric decoration, wooden handles, and bindings of iron, brass, or other material.
 - **Copper-bladed sword** — One sword has a double-headed copper blade with slanting cuts and circular or half-circular motifs.
 
-### Jewelry & body adornment
-
-The sources do not document Ngbaka jewelry or body adornment.
-
 ## Music & performance
 
-Museum records include two harps, but the sources do not describe their music or performance settings.
+Museum records include two harps.
 
 - **Rectangular-faced harp** — One wooden harp has a rectangular-faced sound box, a skin membrane, two circular sound holes, a carved head, a curved neck, brass-tack decoration, five peg holes, four remaining pegs, and cane strings.
 - **Bow-shaped harp** — Another harp is bow-shaped, with a resonator topped by a carved human head, stylised legs, a skin-covered top, and three broken twisted cotton strings.
-
-## Dance & theatre
-
-The sources do not document Ngbaka dances, theatre, masks, or entertainment contexts.
-
-## Festivals & rituals
-
-The sources do not document Ngbaka festivals, ceremonies, or other ritual practices.
-
-## Foodways
-
-The sources do not document Ngbaka foods, cooking methods, drinks, or dietary rules.
-
-## Oral tradition & literature
-
-The sources do not document Ngbaka oral traditions or literature.
 
 ## Language & religion
 
@@ -95,4 +63,3 @@ Ngbaka is a Gbaya language with several names and a writing system that marks na
 - “Ngbaka language,” Wikipedia: https://en.wikipedia.org/wiki/Ngbaka_language
 - British Museum catalogue records for Ngbaka-associated throwing-knives, swords, harps, and a carved wooden figure.
 - No UNESCO Intangible Cultural Heritage inscription for this group is identified in the supplied sources.
-

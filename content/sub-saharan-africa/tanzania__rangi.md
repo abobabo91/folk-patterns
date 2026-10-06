@@ -23,18 +23,6 @@ The Rangi live in central Tanzania and speak a Bantu language. Their culture ref
 
 The documented material culture includes wooden and iron weapons, a milking pail, and a horn bugle, while many other areas are not described.
 
-### Textile & pattern traditions
-
-The sources do not document Rangi textiles or pattern traditions.
-
-### Clothing & dress
-
-The sources do not document Rangi everyday or ceremonial clothing.
-
-### Architecture
-
-The sources do not provide details about Rangi houses or named building types.
-
 ### Ceramics, metalwork & everyday objects
 
 Museum records describe Rangi weapons, a milking pail, and a horn bugle.
@@ -45,34 +33,16 @@ Museum records describe Rangi weapons, a milking pail, and a horn bugle.
 - **Iron bill-hook** — The catalogue records an iron bill-hook with a wooden handle.
 - **Horn bugle** — The catalogue records a bugle made from a horn.
 
-### Jewelry & body adornment
-
-The sources do not document Rangi jewelry or body adornment.
-
 ## Music & performance
-
-The sources do not document Rangi music or performance contexts.
 
 - **Horn bugle** — A museum catalogue records a bugle made from a horn, but gives no information about its musical use.
 
-## Dance & theatre
-
-The sources do not document Rangi dance, theatre, or staged entertainment.
-
 ## Festivals & rituals
 
-The sources name two ceremonies but do not describe how they are performed or what they mean.
+The sources name two ceremonies.
 
 - **Blessing the Year** — This is a Wasi/Rangi ceremony, but the profile gives no details about its date, participants, or meaning.
 - **Blessing a New Grove** — This is a Rangi circumcision ceremony, but the profile gives no details about its proceedings or ritual meaning.
-
-## Foodways
-
-The sources do not document Rangi foods, cooking, drinks, or dietary rules.
-
-## Oral tradition & literature
-
-The sources do not document Rangi folktales, proverbs, riddles, or storytelling practices.
 
 ## Language & religion
 
@@ -113,4 +83,3 @@ Rangi is a Bantu language with two mutually intelligible varieties, while Rangi 
 - J. Kesby, *Rangi natural history: The taxonomic procedures of an African people*, HRAF: Yale, 1986.
 - [Rangi people](https://en.wikipedia.org/wiki/Rangi_people)
 - [Rangi language](https://en.wikipedia.org/wiki/Rangi_language)
-

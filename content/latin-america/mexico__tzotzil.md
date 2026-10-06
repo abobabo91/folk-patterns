@@ -56,10 +56,6 @@ The most distinctive Tzotzil pottery form is the incensario, a ritual incense bu
 - **Wooden spindle with pottery whorl** — A double-pointed wooden spindle used with a pottery whorl for spinning thread.
 - **Maize-leaf dolls** — Figurative works made from maize leaves with cloth heads and braided corn-silk hair tied with colored yarn.
 
-### Jewelry & body adornment
-
-The sources do not describe Tzotzil jewelry or body adornment in detail.
-
 ## Music & performance
 
 Tzotzil musical traditions include guitar-playing in procession and the language preserves a word for flute; recordings document humorous narratives, songs and prayers.
@@ -139,4 +135,3 @@ Tzotzil is a Mayan language with verb–object–subject word order and ergative
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Tzotzil
 - British Museum collection online: https://www.britishmuseum.org/collection (source of the *huipil*, wrap skirt, cloak, cape, sashes, hats, *incensarios*, backstrap loom, guitar and maize-leaf figures shown here)
 - Världskulturmuseerna, Sweden: https://www.varldskulturmuseerna.se (Museum of World Culture, Gothenburg, and Museum of Ethnography, Stockholm — the Zinacantán, Huixtán and San Andrés Larráinzar belts, skirt, spindle, bag and photographs)
-

@@ -40,10 +40,6 @@ Recorded Buginese dress includes a black-and-white sarong, a distinctive fiber h
 - **Early peci-style hat** (*peci*) — This dyed and interlaced vegetable-fiber hat had a shape based on the Middle Eastern fez and was an early form of the black velvet peci.
 - **Ceremonial sword belt** — This padded cotton belt had floral patterns, fringes, and a loop.
 
-### Architecture
-
-The profile gives no information about Buginese architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 The recorded Buginese objects are mainly kris, thrusting daggers, and knives.
@@ -67,17 +63,9 @@ The sources record only the existence of two Buginese musical instruments made o
 
 - **Bamboo musical instrument** — Two British Museum objects are described as Buginese musical instruments made of bamboo, but their names and uses are not given.
 
-## Dance & theatre
-
-The profile gives no information about Buginese dance or theatre.
-
 ## Festivals & rituals
 
 The profile does not describe Buginese festivals, rites, or life-cycle ceremonies.
-
-## Foodways
-
-The profile gives no information about Buginese foods, cooking, drinks, or food customs.
 
 ## Oral tradition & literature
 
@@ -121,5 +109,3 @@ Buginese is an Austronesian language traditionally written in the Lontara script
 - [Buginese](https://en.wikipedia.org/wiki/Buginese)
 - [Buginese language](https://en.wikipedia.org/wiki/Buginese_language)
 - No UNESCO Intangible Cultural Heritage inscription is supplied in the sources for this group.
-- The sources used do not provide Smithsonian Folkways, V&A, Metropolitan Museum of Art, Rijksmuseum, or other museum collection URLs.
-

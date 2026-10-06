@@ -176,12 +176,28 @@ _NO_ACCOUNT = re.compile(
     r"|No [^.\n]* (?:is|are) (?:documented|described|recorded|mentioned|named) in the [a-z ]*sources?[^.\n]*)\.", re.M)
 
 
-def _drop_uncovered(md: str) -> str:
+_MIXED = re.compile(r",? (?:but|although|though|yet|however|while)\b|;")
+
+
+def _drop_uncovered(md: str, keep_mixed: bool = False) -> str:
     """Remove "the sources do not cover X" sentences, then every section left
-    empty, then a "## Material culture" with no subsection left."""
+    empty, then a "## Material culture" with no subsection left.
+
+    `keep_mixed` (the vetted writeups): a sentence that also carries content
+    ("The sources do not document X, but they describe Y") is kept whole, and a
+    following sentence that began with "They" now says "The sources"."""
     md = _GAP_CLAUSE.sub(".", md)
-    md = _NOT_COVERED.sub("", md)
-    md = _NO_ACCOUNT.sub("", md)
+    if keep_mixed:
+        def cut(m: re.Match) -> str:
+            return m.group(0) if _MIXED.search(m.group(0)) else "\x00"
+        md = _NOT_COVERED.sub(cut, md)
+        md = _NO_ACCOUNT.sub(cut, md)
+        md = re.sub(r"\x00(\s*)They (?:do |also )?", r"\1The sources ", md)
+        md = re.sub(r"\x00(\s*)([A-Z][a-z]* )they\b", r"\1\2the sources", md)   # "What they do document"
+        md = md.replace("\x00", "")
+    else:
+        md = _NOT_COVERED.sub("", md)
+        md = _NO_ACCOUNT.sub("", md)
     # The same remark as a reading-list entry: "- Museum catalogue records: no
     # object records were provided in the sources used."
     md = re.sub(r"(?m)^[ \t]*[-*•](?=[^\n]*\bsources? used\b)(?=[^\n]*\b(?:no|not)\b)[^\n]*$\n?", "", md)

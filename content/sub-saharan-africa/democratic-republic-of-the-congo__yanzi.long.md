@@ -13,8 +13,6 @@ The Bayanzi, also called Yan, Yanzi, Yansi, Batende, Bayansi, Mbiem, Nkaan, Wach
 
 ### Textile & pattern traditions
 
-The sources used do not document named Yanzi textile or pattern traditions.
-
 **Raffia currency cloths** — The British Museum catalogue records six cloths woven from raffia with fringes on all sides and identifies them as currency cloths.
 
 **Embroidered palm cloth girdle** — A British Museum record describes a man's girdle embroidered and made of palm cloth.
@@ -25,11 +23,11 @@ The sources used do not document named Yanzi textile or pattern traditions.
 
 ### Clothing & dress
 
-The sources provide only limited information about Yanzi clothing and dress. A British Museum catalogue records a man's embroidered girdle made of palm cloth and women's girdle ornaments made from gourd, wood, animal tooth, vegetable-fibre string and cloth string. Another woman's girdle ornament is made of wood and has a loop. The catalogue also records a widower's cap made of fibre and feathers, and a male mourner's head ornament in the form of a fibre circlet. These records distinguish men's and women's adornment and identify mourning-related objects, but they do not describe everyday clothing, footwear, hairstyles, complete ceremonial dress or named garments in vernacular terms.
+The sources provide only limited information about Yanzi clothing and dress. A British Museum catalogue records a man's embroidered girdle made of palm cloth and women's girdle ornaments made from gourd, wood, animal tooth, vegetable-fibre string and cloth string. Another woman's girdle ornament is made of wood and has a loop. The catalogue also records a widower's cap made of fibre and feathers, and a male mourner's head ornament in the form of a fibre circlet. These records distinguish men's and women's adornment and identify mourning-related objects.
 
 ### Architecture
 
-The sources used do not cover Yanzi house forms, roofing, settlement architecture, named building types or architectural decoration. They mention village organization, including an upstream district for elders and a downstream district for young families, but do not describe the buildings themselves.
+The sources mention village organization, including an upstream district for elders and a downstream district for young families.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,42 +35,41 @@ Yanzi material culture in the catalogue is represented particularly by iron tool
 
 ### Jewelry & body adornment
 
-The sources document body adornment through girdles, ornaments and a brass halsring. Women's girdle ornaments include gourd, wood, animal tooth, vegetable-fibre string and cloth string; another is made of wood and has a loop. A brass halsring is recorded by the Museum of World Culture, with a diameter of 23 cm. The British Museum also records a widower's cap made of fibre and feathers and a male mourner's fibre circlet. The sources do not document tattoos, scarification, hair practices, cosmetics or named ritual jewelry beyond these catalogue descriptions.
+The sources document body adornment through girdles, ornaments and a brass halsring. Women's girdle ornaments include gourd, wood, animal tooth, vegetable-fibre string and cloth string; another is made of wood and has a loop. A brass halsring is recorded by the Museum of World Culture, with a diameter of 23 cm. The British Museum also records a widower's cap made of fibre and feathers and a male mourner's fibre circlet.
 
 ## Music & performance
 
-The sources document several musical and signalling objects but do not name Yanzi musical genres or performance traditions. British Museum records include a side-blown trumpet made of antelope horn, pan-pipes made of cane, hide and fibre, and a side-blown horn made of wood. The latter is identified as a war, hunting and funerals instrument. A hunting whistle is made of wood, snake skin and vegetable-fibre string.
+The sources document several musical and signalling objects. British Museum records include a side-blown trumpet made of antelope horn, pan-pipes made of cane, hide and fibre, and a side-blown horn made of wood. The latter is identified as a war, hunting and funerals instrument. A hunting whistle is made of wood, snake skin and vegetable-fibre string.
 
-A historical account describes Bayanzi river travel and trading by canoe. In March 1888, a convoy of Bayanzi pirogues was described carrying goods beneath brightly coloured umbrellas. The rowers, numbering fifteen to twenty and including both sexes, paddled to the rhythm of a monotonous song led by a team leader standing at the back of the canoe with a rooster between his feet. The same account describes the canoes as sometimes over fifteen meters long and between eighty and ninety centimeters wide. The sources do not provide names for the song, musical forms, dances, performance specialists or occasions apart from war, hunting and funerals associated with one horn.
+A historical account describes Bayanzi river travel and trading by canoe. In March 1888, a convoy of Bayanzi pirogues was described carrying goods beneath brightly coloured umbrellas. The rowers, numbering fifteen to twenty and including both sexes, paddled to the rhythm of a monotonous song led by a team leader standing at the back of the canoe with a rooster between his feet. The same account describes the canoes as sometimes over fifteen meters long and between eighty and ninety centimeters wide.
 
 ## Dance & theatre
 
-The sources used do not document named Yanzi dances, theatrical traditions, masked performances, dramatic genres or dance occasions. The account of Bayanzi canoe travel mentions paddling to the rhythm of a monotonous song, but it does not describe a dance or theatre tradition.
+The account of Bayanzi canoe travel mentions paddling to the rhythm of a monotonous song.
 
 ## Festivals & rituals
 
-The sources used do not describe an annual Yanzi festival calendar, seasonal festivals, initiation ceremonies, wedding rites, birth ceremonies or funeral rituals in detail. They record a wooden side-blown horn associated with war, hunting and funerals, and a male mourner's fibre head ornament. The social structure described in the sources includes dormitories in which adolescents of each sex lived, but no rites connected with residence in those dormitories are given.
+The sources record a wooden side-blown horn associated with war, hunting and funerals, and a male mourner's fibre head ornament. The social structure described in the sources includes dormitories in which adolescents of each sex lived, but no rites connected with residence in those dormitories are given.
 
 The sources describe Yanzi social organization through kingship, chieftainship, villages and clans. The chieftainship had defined borders; male clans were aristocrats and produced chiefs, while female clans were free individuals who provided wives to the aristocrats. The Bayanzi were matrilineal: a child belonged to the mother's clan, and the father was responsible for finding wives from outside the clan for his children. Grandparents were thought to be reincarnated in their grandchildren, whether dead or still living.
 
 ## Foodways
 
-The sources used do not document Yanzi staple foods, cooking methods, named dishes, drinks, dietary rules or ceremonial food. The historical material mentions palm-oil plantations and forced labour under Huileries du Congo Belge, but it does not describe Yanzi foodways. The catalogue records a gourd purse and other containers, but does not identify their culinary uses.
+The historical material mentions palm-oil plantations and forced labour under Huileries du Congo Belge. The catalogue records a gourd purse and other containers.
 
 ## Oral tradition & literature
 
-The sources used do not document Yanzi folktales, epics, proverbs, riddles, written literature or contemporary literary preservation efforts. The Wikipedia material reports local traditions recorded by Jesuits concerning origins, migrations, a region called “Kimput,” a great river, and the land of Kong Mukoko. It also records a tradition that Bayanzi ancestors or grandparents were reincarnated in their grandchildren. These accounts are presented as traditions, but the sources do not provide their narrative texts, performance contexts or names of storytellers.
+The Wikipedia material reports local traditions recorded by Jesuits concerning origins, migrations, a region called “Kimput,” a great river, and the land of Kong Mukoko. It also records a tradition that Bayanzi ancestors or grandparents were reincarnated in their grandchildren. These accounts are presented as traditions.
 
 ## Language & religion
 
 Yans, or Yanzi, is a Bantu language spoken in the Democratic Republic of the Congo by the Bayanzi. Guthrie classified six language varieties as Bantu B.85: B.85A Mbiem, West Yansi; B.85B East Yans; B.85C Yeei; B.85D Tsong, also called Itsong, Nsong, Ntsuo or “Songo”; B.85E Mpur, also called Mput; and B.85F Tsambaan. According to Nurse, most belong to the Yaka languages, while one or two belong to the Boma–Dzing languages. Maho notes that Tsong is the then-unclassified “Songo” language and is the variety that does not belong with the rest; Glottolog likewise classifies Nsong-Mpiin separately from Yansi.
 
-The sources state that Attilio Pécile described the Bayanzi, Bakales and Fans in 1887 as pagans, but they do not provide a current religious landscape, denominations, conversion history or detailed spiritual practices.
+The sources state that Attilio Pécile described the Bayanzi, Bakales and Fans in 1887 as pagans.
 
 ## Sources & further reading
 
-- The sources used do not provide bibliographic details for books, scholars or documentation projects.
 - [Wikipedia: Yanzi people](https://en.wikipedia.org/wiki/Yanzi_people)
 - [Wikipedia: Yanzi language](https://en.wikipedia.org/wiki/Yanzi_language)
-- The supplied museum catalogue records identify the British Museum and Museum of World Culture, but do not provide collection URLs.
+- The supplied museum catalogue records identify the British Museum and Museum of World Culture.
 - No UNESCO Intangible Cultural Heritage inscription for the Democratic Republic of the Congo was supplied or referenced.

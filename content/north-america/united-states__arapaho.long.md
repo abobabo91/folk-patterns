@@ -13,8 +13,6 @@ The Arapaho (*Hinono'eino* or *Inun-ina*, “our people” or “people of our o
 
 ### Textile & pattern traditions
 
-The supplied sources do not document named Arapaho textile or pattern traditions such as buckskin dresses, porcupine-quill embroidery, Arapaho beadwork, painted buffalo robes, parfleche, sinew sewing, rawhide containers, or tipi furnishings.
-
 **Arapaho ceremonial regalia** — The museum records document clothing and adornment visible in portraits of Arapaho chiefs, including eagle-feather headdresses, embroidered moccasins, cloth shirts, vests, wool blankets, necklaces, hoop earrings, and decorated bags.
 
 **Buffalo robes** — A museum record describes four Arapaho men, including Chief Friday, wearing buffalo robes, cloth shirts, and moccasins while seated before a covered wagon.
@@ -25,15 +23,13 @@ The supplied sources do not document named Arapaho textile or pattern traditions
 
 **Decorated bag** — A portrait record describes Heap of Bears holding a decorated bag.
 
-The sources do not name Arapaho motifs or provide a motif vocabulary.
-
 ### Clothing & dress
 
-The museum records describe Arapaho men wearing cloth shirts, vests, jackets, wool blankets, buffalo robes, necklaces, hoop earrings, and moccasins. One record identifies Yellow Calf, an Arapaho chief aged 67, wearing an eagle-feather headdress with bead embroidery, a white tunic with tassels, and a necklace. Other portraits show braided or cloth-wrapped hair, sometimes arranged in two bunches. Left Hand is described wearing a cloth scarf, cloth shirt, vest, and wool blanket, and holding a tomahawk with fur tails on the handle. Bird Chief appears in several records wearing hoop earrings, a cloth shirt or vest, and a wool blanket. The sources do not describe women’s everyday clothing, named Arapaho garment terms, belts, hip-length leggings, or a separate women’s ceremonial dress.
+The museum records describe Arapaho men wearing cloth shirts, vests, jackets, wool blankets, buffalo robes, necklaces, hoop earrings, and moccasins. One record identifies Yellow Calf, an Arapaho chief aged 67, wearing an eagle-feather headdress with bead embroidery, a white tunic with tassels, and a necklace. Other portraits show braided or cloth-wrapped hair, sometimes arranged in two bunches. Left Hand is described wearing a cloth scarf, cloth shirt, vest, and wool blanket, and holding a tomahawk with fur tails on the handle. Bird Chief appears in several records wearing hoop earrings, a cloth shirt or vest, and a wool blanket.
 
 ### Architecture
 
-The sources do not provide a detailed description of Arapaho houses, tipis, roof forms, building materials, settlement layouts, or named architectural traditions. They state that the Beesowuunenno’ used temporary brush shelters similar to the dome-shaped shade or sweat lodge of the Great Lakes Algonquian peoples. The sources also mention that Arapaho war parties organized themselves before campaigns, but do not describe their camps architecturally.
+The sources state that the Beesowuunenno’ used temporary brush shelters similar to the dome-shaped shade or sweat lodge of the Great Lakes Algonquian peoples. The sources also mention that Arapaho war parties organized themselves before campaigns.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -41,7 +37,7 @@ The museum catalogue records a *sadelväska*, or saddlebag, identified as an Ara
 
 ### Jewelry & body adornment
 
-The sources describe Arapaho men wearing hoop earrings, necklaces, pocket-watch chains, ear ornaments, and decorated clothing. The museum records describe braided hair wrapped in cloth, hair worn in two bunches wrapped in cloth, and eagle-feather headdresses. Yellow Calf’s headdress is described as having bead embroidery. The Arapaho article states that Arapaho people traditionally tattooed small circles on their bodies. The source material does not explain the ritual function of the tattoos or name specific jewelry forms.
+The sources describe Arapaho men wearing hoop earrings, necklaces, pocket-watch chains, ear ornaments, and decorated clothing. The museum records describe braided hair wrapped in cloth, hair worn in two bunches wrapped in cloth, and eagle-feather headdresses. Yellow Calf’s headdress is described as having bead embroidery. The Arapaho article states that Arapaho people traditionally tattooed small circles on their bodies.
 
 ## Music & performance
 
@@ -51,11 +47,11 @@ The Arapaho Sun Dance is performed in summer, when Arapaho bands come together. 
 
 Secular songs include round dances in triple meter, the snake dance, the rabbit dance, and the turtle dance, as well as lullabies, children’s songs, war songs, historical songs, and courtship songs. The rabbit dance is described as a partner dance introduced after European contact.
 
-The Ghost Dance was introduced among the Arapaho from tribes farther west in the 1880s. Music was integral to the movement, and folk songs continued to be retained after it ended. Peyote songs accompany peyote ceremonies. They are characterized by rapid rhythm, two note values, vocables, and cadential and closing formulas. The sources do not name Arapaho musical instruments.
+The Ghost Dance was introduced among the Arapaho from tribes farther west in the 1880s. Music was integral to the movement, and folk songs continued to be retained after it ended. Peyote songs accompany peyote ceremonies. They are characterized by rapid rhythm, two note values, vocables, and cadential and closing formulas.
 
 ## Dance & theatre
 
-The sources name several Arapaho dance forms: round dances, the snake dance, the rabbit dance, and the turtle dance. Round dances are described as secular songs and dances in triple meter. The rabbit dance is a partner dance introduced after European contact. The sources also connect music and performance with the Sun Dance, the Ghost Dance, and peyote ceremonies. They do not describe Arapaho theatre, mask traditions, shadow puppetry, or dramatic genres.
+The sources name several Arapaho dance forms: round dances, the snake dance, the rabbit dance, and the turtle dance. Round dances are described as secular songs and dances in triple meter. The rabbit dance is a partner dance introduced after European contact. The sources also connect music and performance with the Sun Dance, the Ghost Dance, and peyote ceremonies.
 
 ## Festivals & rituals
 
@@ -63,19 +59,15 @@ The Arapaho Sun Dance takes place in summer, when Arapaho bands come together. I
 
 The Ghost Dance reached the Arapaho in the 1880s through tribes farther west. In 1891, the United States outlawed the religion, which led to rebellion among adherents and culminated in the Wounded Knee Massacre. The sources state that music was an integral part of the Ghost Dance.
 
-Peyote ceremonies are accompanied by peyote songs. The sources state that peyote is a cactus native to Mexico and that its buttons, when chewed, act as a hallucinogen. They do not provide a calendar date for Arapaho peyote ceremonies.
-
-The supplied sources do not cover Arapaho birth rites, coming-of-age ceremonies, weddings, funerals, or an annual festival calendar beyond the seasonal timing of the Sun Dance.
+Peyote ceremonies are accompanied by peyote songs. The sources state that peyote is a cactus native to Mexico and that its buttons, when chewed, act as a hallucinogen.
 
 ## Foodways
 
 The sources describe the Arapaho as agricultural people in the western Great Lakes region, where they grew crops including maize. After moving onto the Great Plains and acquiring horses, they became nomadic and relied extensively on hunting. Their trade with the Arikara, Mandan, and Hidatsa involved exchanging meat and hides for corn, squash, and beans. The sources identify bison hides and beaver furs as important trade goods and state that Arapaho hunters pursued bison.
 
-The sources do not name Arapaho dishes, cooking methods, food taboos, tea or coffee traditions, or ceremonial foods. They also do not document a named food associated with the Sun Dance, Ghost Dance, or peyote ceremonies.
-
 ## Oral tradition & literature
 
-The sources do not provide a named Arapaho epic, folktale cycle, proverb tradition, riddle tradition, or literary genre. They do mention Arapaho historical traditions in the title of the work *Arapaho Historical Traditions: Hinono'einoo3itoono*. The Arapaho language article also identifies “The Arapaho Project” as an effort by Arapaho people to promote and restore their traditional language and culture.
+The sources mention Arapaho historical traditions in the title of the work *Arapaho Historical Traditions: Hinono'einoo3itoono*. The Arapaho language article also identifies “The Arapaho Project” as an effort by Arapaho people to promote and restore their traditional language and culture.
 
 The sources describe songs as including historical, war, courtship, children’s, lullaby, sacred, and secular forms. The Arapaho language article contains an Arapaho translation of Article 1 of the Universal Declaration of Human Rights and states that portions of the Bible were translated into Arapaho in 1903.
 
@@ -85,7 +77,7 @@ Arapaho, whose endonym is *Hinónoʼeitíít*, is an Algonquian language of the 
 
 The number of speakers is described in the sources as uncertain. One account estimates between 250 and 1,000 active users; another states that slightly over 250 fluent speakers were estimated in 2008. Northern Arapaho language preservation includes the Language and Culture Commission, language instruction, language camps, bilingual education efforts, and the Arapaho Language Lodge. A 1995 immersion preschool program was established by Dr. S. N. Greymorning.
 
-The sources document the Sun Dance, guardian spirits, the Ghost Dance, and peyote ceremonies. They do not describe a general Arapaho religious system, denomination, historical script, or contemporary religious landscape beyond these practices.
+The sources document the Sun Dance, guardian spirits, the Ghost Dance, and peyote ceremonies.
 
 ## Sources & further reading
 

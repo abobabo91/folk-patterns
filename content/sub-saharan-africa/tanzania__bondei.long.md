@@ -21,37 +21,17 @@ The Bondei, also known as *Wabondei*, are a Bantu ethnic group based in Muheza D
 
 **Motif vocabulary.** The sources name lozenges, zigzags, stripes, bands, geometric designs, and interwoven patterns.
 
-### Clothing & dress
-
-The sources used do not cover Bondei everyday clothing, ceremonial dress, head coverings, belts, footwear, or gender-specific dress.
-
-### Architecture
-
-The sources used do not cover Bondei houses, roofs, settlements, building materials, architectural decoration, or named building types.
-
 ### Ceramics, metalwork & everyday objects
 
-The museum catalogue records smoking pipes with pipe-bowls made of black pottery. One smoking pipe has a wooden stem. The collection also includes wooden spoons, including one with an oval bowl, and a wooden cup with incised geometric decoration. A stringed musical instrument similar to a lute is made of wood and has a skin membrane and four strings tuned by pegs. The sources do not describe Bondei metalwork, tools, cooking vessels, gourd containers, or other household goods.
-
-### Jewelry & body adornment
-
-The sources used do not cover Bondei jewelry, body adornment, tattoos, henna, hairstyles, ritual ornaments, or forms of bodily decoration.
+The museum catalogue records smoking pipes with pipe-bowls made of black pottery. One smoking pipe has a wooden stem. The collection also includes wooden spoons, including one with an oval bowl, and a wooden cup with incised geometric decoration. A stringed musical instrument similar to a lute is made of wood and has a skin membrane and four strings tuned by pegs.
 
 ## Music & performance
 
-The museum catalogue records a stringed musical instrument similar to a lute. It is made of wood, has a skin membrane, and has four strings tuned by pegs. The sources do not give a vernacular name for the instrument, describe its musical scale, or identify its repertoire.
-
-The sources used do not document Bondei song genres, instrumental ensembles, performance contexts, dance accompaniment, court music, religious music, wedding music, funeral music, or public entertainment. They also do not describe how the recorded instrument was played or who played it.
+The museum catalogue records a stringed musical instrument similar to a lute. It is made of wood, has a skin membrane, and has four strings tuned by pegs.
 
 The historical material does, however, identify named political movements and events involving Bondei people. The Kiva insurrection of 1869 was described as the fourth and most significant popular movement in the breakdown of the Shambaa state. This is historical evidence concerning Bondei resistance, not a description of a musical performance tradition.
 
-## Dance & theatre
-
-The sources used do not cover Bondei dances, theatrical traditions, masquerades, shadow puppetry, dramatic genres, ceremonial movement, or entertainment performances.
-
 ## Festivals & rituals
-
-The sources used do not describe an annual Bondei festival calendar, seasonal festivals, harvest ceremonies, initiation rites, weddings, funerals, birth rituals, religious observances, or other life-cycle ceremonies.
 
 The historical sources do describe political and social institutions. Under Shambaa rule, subjects were required to pay tribute in food and livestock to local chiefs, who forwarded part of it to the king. In 1853, missionary explorer Erhardt observed that Kilindi chiefs could not protect their Bondei subjects from Zigula attacks. In the following year, chiefs governing Bondei territories were reported to be selling Bondei individuals into slavery along the coast.
 
@@ -59,21 +39,15 @@ The Kiva insurrection of 1869 enabled the Bondei to reclaim their freedom and wa
 
 ## Foodways
 
-The sources used do not document Bondei staple foods, named dishes, cooking methods, food taboos, beverages, ceremonial meals, or dietary rules.
-
 The sources do state that most Bondei people reside in Pangani District, where they engage in different activities, especially small-scale agriculture. The history of Shambaa rule also records tribute in the form of food and livestock. No particular crops, recipes, preparation techniques, or food terms are supplied.
 
 ## Oral tradition & literature
 
-The sources used do not record Bondei folktales, epics, proverbs, riddles, praise poetry, storytelling genres, or literary works.
-
-The historical material does preserve political statements connected with Bondei identity. Geldart Mhina disputed that he was the last surviving member of Bonde’s old kings, while his followers said that they were reminded of the Kilindi carnage during Kiva “every time we see a Kilindi on the throne.” The sources also report that Bondei developed the skill of presenting political assertions in terms of the past. These statements concern historical memory and political identity, but the sources do not describe a wider oral-literary tradition.
+The historical material does preserve political statements connected with Bondei identity. Geldart Mhina disputed that he was the last surviving member of Bonde’s old kings, while his followers said that they were reminded of the Kilindi carnage during Kiva “every time we see a Kilindi on the throne.” The sources also report that Bondei developed the skill of presenting political assertions in terms of the past. These statements concern historical memory and political identity.
 
 ## Language & religion
 
 Bondei speak Kibondei, a Bantu language. Bondei is described as a Northeast Coast Bantu language of Tanzania, closely related to Shambala. The people are culturally related to the Shambaa and Zigua. The name *Wabondei* is given as the Swahili form for Bondei.
-
-The sources used do not cover Bondei religious affiliation, spiritual practices, ritual specialists, conversion history, sacred places, historical scripts, dialects, or religious coexistence. They also do not document the relationship between religion and Bondei material culture.
 
 ## Sources & further reading
 

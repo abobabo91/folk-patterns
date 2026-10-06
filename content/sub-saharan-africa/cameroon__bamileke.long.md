@@ -39,15 +39,11 @@ Iron work runs to weapons and tools — a ceremonial sword whose hilt is surmoun
 
 Wood and plant fibre carry the household and court objects: a chief's throne whose back represents a human figure and whose seat is supported by six figures, a stool with carved heads, a pedestal bowl supported by two figures, a cylindrical box on flaring tripod feet with a looped lid handle and bands of pyro-decoration, wooden bowls, gourd vessels with rattan bases and binding or with incised patterns and a leather suspension strap, a waisted coiled-cane basketry dish, and a square shield frame of palm and cane built on a criss-cross frame.
 
-### Jewelry & body adornment
-
-The sources used do not describe Bamileke jewelry, tattooing, henna or hair practices, beyond the cowrie shells and feathers adorning a fibre head-cape and the bead strings — clear plastic and red glass — wrapped around the metal rod of a *sansa*.
-
 ## Music & performance
 
 The instruments held for the Bamileke are mostly idiophones, aerophones and drums. Two *sansa* (lamellophones) survive in contrasting builds: one a rectangular wooden box with fifteen cane tongues, the outer layer of cane stripped away at the playing ends to reveal a smooth surface and three tongues stripped along their whole length, the tongues held by a single cane-bound metal rod and supported by two bridges — cane at the lower end, a wood quadrant at the playing end; the other two pieces of bamboo bound with fibre, with nine teeth over a bridge. Two bamboo flutes each have two stops. A stringed instrument is made of wood. Two iron gongs are joined by a handle covered with reed, and a slit drum is carved in human form. One wooden trumpet is catalogued as funerary equipment, tying wind instruments directly to burial.
 
-The Bamiléké developed their own musical style, **Tsamassi**, popularised by André-Marie Tala. Beyond these, the sources used do not describe song genres or performance settings.
+The Bamiléké developed their own musical style, **Tsamassi**, popularised by André-Marie Tala.
 
 ## Dance & theatre
 
@@ -61,7 +57,7 @@ Ancestral veneration is the dominant form of worship. Because the ancestor's spi
 
 ## Foodways
 
-Staple crops are cocoyams, groundnuts and maize. Men typically clear the fields and women largely work them, using tools such as machetes and hoes. Beyond this, the sources used do not describe Bamileke dishes, cooking methods, ceremonial food or drink traditions. Palm wine and other drink customs would need a source that treats them; libation is documented as a funerary ritual act rather than as a described foodway.
+Staple crops are cocoyams, groundnuts and maize. Men typically clear the fields and women largely work them, using tools such as machetes and hoes. Palm wine and other drink customs would need a source that treats them; libation is documented as a funerary ritual act rather than as a described foodway.
 
 ## Oral tradition & literature
 

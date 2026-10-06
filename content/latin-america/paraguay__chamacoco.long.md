@@ -13,7 +13,7 @@ The Chamacoco, whose autonym is *Ishír* (also written *Ɨshɨr*, *Yshyr*, *Ishi
 
 ### Textile & pattern traditions
 
-The sources used here do not describe Chamacoco weaving techniques, fibers, or named textile traditions. What they do document is a plaited and corded craft economy and a feather-based ceremonial art. The museum records of the objects shown in this atlas, chiefly the collections Guido Boggiani made in the Chaco and the material now at the Museum of World Culture and the British Museum, list bags, pouches, belts and fly-whisks alongside feather ornaments, all built from *string*, *twine* and *fibre* cordage.
+What the sources do document is a plaited and corded craft economy and a feather-based ceremonial art. The museum records of the objects shown in this atlas, chiefly the collections Guido Boggiani made in the Chaco and the material now at the Museum of World Culture and the British Museum, list bags, pouches, belts and fly-whisks alongside feather ornaments, all built from *string*, *twine* and *fibre* cordage.
 
 **Bags and pouches** (*väska*, *bolsa*; *påse*) — The most repeated object type in the Boggiani material, with four bags and one sack catalogued from the Chaco in 1917. The records give no fiber identification or ornament description.
 
@@ -31,7 +31,7 @@ The sources carry no description of everyday Chamacoco clothing. Ceremonial dres
 
 ### Architecture
 
-The sources used do not describe Chamacoco house forms, building materials, or settlement layout. They record only the circumstances of settlement and displacement: the Ebytoso long established along the Paraguay River, the Tomáraho inland in the Gran Chaco until the 1970s, the Tomáraho's confinement to the San Carlos logging camp, their move from San Carlos to Potrerito in 1986 and later to land at María Elena, and the resettlement by the Instituto Nacional del Indígena (INDI) of the Tomáraho alongside the Ebytoso in the community of Puerto Esperanza during the 1980s. As of 2009 three Ebytoso communities held legal status and owned land, while the Tomáraho community held legal status and allocated land without legal title, totalling 25,828 hectares.
+The sources record only the circumstances of settlement and displacement: the Ebytoso long established along the Paraguay River, the Tomáraho inland in the Gran Chaco until the 1970s, the Tomáraho's confinement to the San Carlos logging camp, their move from San Carlos to Potrerito in 1986 and later to land at María Elena, and the resettlement by the Instituto Nacional del Indígena (INDI) of the Tomáraho alongside the Ebytoso in the community of Puerto Esperanza during the 1980s. As of 2009 three Ebytoso communities held legal status and owned land, while the Tomáraho community held legal status and allocated land without legal title, totalling 25,828 hectares.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,7 +43,7 @@ Chamacoco personal ornament as it survives in collections is feather work, and t
 
 ## Music & performance
 
-The sources used do not describe Chamacoco instruments, song genres, or musical performance contexts. The only evidence of performance in the record is indirect and material: several of the British Museum objects are catalogued explicitly as dancing regalia — a man's dancing cloak, two men's dancing tassels or pendants — which places feather ornament at the centre of a documented dance practice whose music the sources leave unrecorded.
+The only evidence of performance in the record is indirect and material: several of the British Museum objects are catalogued explicitly as dancing regalia — a man's dancing cloak, two men's dancing tassels or pendants — which places feather ornament at the centre of a documented dance practice whose music the sources leave unrecorded.
 
 ## Dance & theatre
 
@@ -55,7 +55,7 @@ Paraguay has no UNESCO Intangible Cultural Heritage inscriptions, so no inscribe
 
 ## Foodways
 
-The sources used do not describe Chamacoco dishes, staples, or cooking methods. They document subsistence rather than cuisine: the Chamacoco were traditionally hunter-gatherers and now farm and raise sheep, goats, pigs, cows, horses and poultry, working as ranch hands, day labourers and domestic servants. Dissident *yshyr* groups known as *yacareceros* survive by alligator poaching, a prohibited activity — contingents of fifteen to twenty men go upriver by canoe into the marshlands of the Río Negro and hunt for a month, sleeping in their boats and exposed to Brazilian rangers who shoot before asking.
+The sources document subsistence rather than cuisine: the Chamacoco were traditionally hunter-gatherers and now farm and raise sheep, goats, pigs, cows, horses and poultry, working as ranch hands, day labourers and domestic servants. Dissident *yshyr* groups known as *yacareceros* survive by alligator poaching, a prohibited activity — contingents of fifteen to twenty men go upriver by canoe into the marshlands of the Río Negro and hunt for a month, sleeping in their boats and exposed to Brazilian rangers who shoot before asking.
 
 ## Oral tradition & literature
 

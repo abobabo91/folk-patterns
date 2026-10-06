@@ -29,19 +29,19 @@ The Lakota, also known as the Teton Sioux, are one of the three prominent subcul
 
 ### Clothing & dress
 
-Museum records document Lakota and Sioux clothing made from deer skin, hide, cloth, beads, porcupine quills, metal ornaments, and feathers. Recorded garments include a warrior’s shirt, a man’s tunic-like shirt, leggings, moccasins, blankets, and decorated shirts. A British Museum portrait records an Oglala man wearing a war bonnet, a decorated scalp shirt, leggings, and moccasins. Other records describe eagle-feather headdresses, bone breast plates, shell chokers, ear ornaments, dentalium and abalone ornaments, ribbons, and waistcoats. A photograph of an Oohenonpa chief records leggings with embroidered flaps and moccasins. The museum records also show women’s decorated clothing, including a shawl, necklace, bangles, and finger rings. The sources do not provide a systematic account of everyday dress, belts, or distinctions between ordinary and ceremonial clothing.
+Museum records document Lakota and Sioux clothing made from deer skin, hide, cloth, beads, porcupine quills, metal ornaments, and feathers. Recorded garments include a warrior’s shirt, a man’s tunic-like shirt, leggings, moccasins, blankets, and decorated shirts. A British Museum portrait records an Oglala man wearing a war bonnet, a decorated scalp shirt, leggings, and moccasins. Other records describe eagle-feather headdresses, bone breast plates, shell chokers, ear ornaments, dentalium and abalone ornaments, ribbons, and waistcoats. A photograph of an Oohenonpa chief records leggings with embroidered flaps and moccasins. The museum records also show women’s decorated clothing, including a shawl, necklace, bangles, and finger rings.
 
 ### Architecture
 
-The sources describe winter camps, tipis, and tipi circles. Lakota seasonal life included sheltered winter camps, dispersed band life during spring and autumn, and a great summer gathering for ceremony and communal hunting. The sacred hoop, or *cʽągléška wakʽą*, was historically conceived as a ring of tipis. The sources do not describe construction materials, roof forms, interior arrangements, or architectural decoration in greater detail.
+The sources describe winter camps, tipis, and tipi circles. Lakota seasonal life included sheltered winter camps, dispersed band life during spring and autumn, and a great summer gathering for ceremony and communal hunting. The sacred hoop, or *cʽągléška wakʽą*, was historically conceived as a ring of tipis.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not provide a general account of Lakota ceramics or household pottery. Museum records document breast plates made from bone tube beads, glass and metal beads, brass beads, leather, eagle claws, and old United States one-cent copper coins. Other records mention weapons, pipes, tobacco pouches, herbal medicines, and war bundles. Lakota religion also describes stones regarded as animate and capable of possessing a *šicų* spirit; such stones could be kept in a *wašícų tʻųká* bundle.
+Museum records document breast plates made from bone tube beads, glass and metal beads, brass beads, leather, eagle claws, and old United States one-cent copper coins. Other records mention weapons, pipes, tobacco pouches, herbal medicines, and war bundles. Lakota religion also describes stones regarded as animate and capable of possessing a *šicų* spirit; such stones could be kept in a *wašícų tʻųká* bundle.
 
 ### Jewelry & body adornment
 
-Museum records describe dentalium and abalone shell ear ornaments, shell chokers, necklaces, bangles, finger rings, metal hair-plate ornaments, and feathers worn in the hair. A British Museum portrait records a person wearing an eagle feather in the hair, with ribbon, dentalium, and abalone ear ornaments. Lakota religion states that some afterlife traditions involve an old woman who admits only those with proper tattoos to the Sky-Road. The sources do not provide further details about tattoo designs or ordinary hair practices.
+Museum records describe dentalium and abalone shell ear ornaments, shell chokers, necklaces, bangles, finger rings, metal hair-plate ornaments, and feathers worn in the hair. A British Museum portrait records a person wearing an eagle feather in the hair, with ribbon, dentalium, and abalone ear ornaments. Lakota religion states that some afterlife traditions involve an old woman who admits only those with proper tattoos to the Sky-Road.
 
 ## Music & performance
 
@@ -53,23 +53,23 @@ The Lakota Flag Song begins special events such as powwows and is not accompanie
 
 ## Dance & theatre
 
-The sources describe the Ghost Dance movement, which spread rapidly across the reservations in 1890 and promised the resurrection of the old world and the disappearance of white settlers. Lakota religion also identifies the sun dance, vision quest, sweat lodge purification ceremony, and Yuwipi as important ritual traditions. The sources do not describe named theatrical forms, mask dances, or secular entertainment dances in detail.
+The sources describe the Ghost Dance movement, which spread rapidly across the reservations in 1890 and promised the resurrection of the old world and the disappearance of white settlers. Lakota religion also identifies the sun dance, vision quest, sweat lodge purification ceremony, and Yuwipi as important ritual traditions.
 
 ## Festivals & rituals
 
 Lakota religious traditions include seven ceremonies said to have been given by White Buffalo Calf Woman. The sources specifically name the sweat lodge purification ceremony, the vision quest, and the sun dance. Prayers may be facilitated by smoking a sacred pipe or making offerings, usually cotton flags or tobacco. A ritual specialist is commonly called a *wičháša wakhá*, while a *yuwípi wičháša* performs the Yuwipi ritual, which typically invokes spirits for healing.
 
-The Lakota seasonal cycle included spring and autumn dispersal, winter camps, and a great summer gathering for ceremony and communal hunting. The Ghost Dance movement spread during the drought and starvation conditions of 1890. The Lakota Flag Song begins powwows and other special events. The sources do not provide a complete annual festival calendar or detailed accounts of birth, wedding, coming-of-age, or funeral rites.
+The Lakota seasonal cycle included spring and autumn dispersal, winter camps, and a great summer gathering for ceremony and communal hunting. The Ghost Dance movement spread during the drought and starvation conditions of 1890. The Lakota Flag Song begins powwows and other special events.
 
 ## Foodways
 
-The sources associate Lakota life with buffalo hunting and describe buffalo as a source of meat, hide, clothing, and shelter. Hunting and butchery traditionally had ceremonial elements. Lakota horse-mounted buffalo hunting developed after horses were obtained through trade with the Cheyenne along the Missouri River in the early 18th century. The sources also mention tobacco as an offering and as an element of smoking rituals. They do not provide named dishes, recipes, staple grains, cooking methods, tea or coffee traditions, or dietary rules.
+The sources associate Lakota life with buffalo hunting and describe buffalo as a source of meat, hide, clothing, and shelter. Hunting and butchery traditionally had ceremonial elements. Lakota horse-mounted buffalo hunting developed after horses were obtained through trade with the Cheyenne along the Missouri River in the early 18th century. The sources also mention tobacco as an offering and as an element of smoking rituals.
 
 ## Oral tradition & literature
 
 Lakota history was recorded in winter counts, or *waníyetu wówapi*, pictorial calendars painted on hides or later recorded on paper. The Battiste Good winter count records Lakota history to 900 CE and associates that time with White Buffalo Calf Woman giving the Lakota the White Buffalo Calf Pipe. Lakota religious and mythological traditions include stories of Inyan, Maka, Skan, Anpo, Wi, Iktomi, Unhcegila, Wakinyan, and White Buffalo Calf Woman.
 
-Lakota mythology describes Iktomi as a trickster spider god, Unhcegila as a serpent monster, and Wakinyan as the Thunderbird. Creation traditions state that the Lakota emerged from Wind Cave in the Black Hills, while another account describes Inyan, the Rock, creating Maka, the Earth. The sources do not name a Lakota epic poem. Lakota language teachers, immersion programs, written materials, and recordings are part of contemporary preservation efforts.
+Lakota mythology describes Iktomi as a trickster spider god, Unhcegila as a serpent monster, and Wakinyan as the Thunderbird. Creation traditions state that the Lakota emerged from Wind Cave in the Black Hills, while another account describes Inyan, the Rock, creating Maka, the Earth. Lakota language teachers, immersion programs, written materials, and recordings are part of contemporary preservation efforts.
 
 ## Language & religion
 
@@ -79,7 +79,6 @@ Lakota religion has no formal leadership or centralized organizational structure
 
 ## Sources & further reading
 
-- The supplied sources do not provide book-length bibliographic references with authors, publishers, and years.
 - The supplied sources name Ella Cara Deloria, Franz Boas, Edward Sapir, Albert White Hat Sr., and David C. Posthumus in connection with Lakota language, documentation, and religion.
 - [Lakota people](https://en.wikipedia.org/wiki/Lakota_people)
 - [Lakota mythology](https://en.wikipedia.org/wiki/Lakota_mythology)

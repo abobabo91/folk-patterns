@@ -25,23 +25,11 @@ The sources say only that clothing came from the hunt. Hunting and trapping of d
 
 ### Architecture
 
-The sources do not describe Dakelh house forms, materials or built decoration. What they record of the settled landscape is administrative and territorial rather than architectural: *keyoh* denotes at once a territory, a village and a trapline, held under a hereditary chief known as a *keyoh* holder or *keyoh-whudachun*, and band names are formed by suffixing *-xwoten*, "people of", or *-t'en*, "people", to a village or place name — *Tl'azt'en*, *Wet'suwet'en*. Archaeology gives the only sense of settlement density: in 1951 Charles Edward Borden of the University of British Columbia and his student Wilson Duff located over 130 sites of importance to Cheslatta T'en history in the Nechako Canyon, ahead of the flooding of a large part of Dakelh hunting territory in Tweedsmuir Park by the Kemano reservoir.
+What the sources record of the settled landscape is administrative and territorial rather than architectural: *keyoh* denotes at once a territory, a village and a trapline, held under a hereditary chief known as a *keyoh* holder or *keyoh-whudachun*, and band names are formed by suffixing *-xwoten*, "people of", or *-t'en*, "people", to a village or place name — *Tl'azt'en*, *Wet'suwet'en*. Archaeology gives the only sense of settlement density: in 1951 Charles Edward Borden of the University of British Columbia and his student Wilson Duff located over 130 sites of importance to Cheslatta T'en history in the Nechako Canyon, ahead of the flooding of a large part of Dakelh hunting territory in Tweedsmuir Park by the Kemano reservoir.
 
 ### Ceramics, metalwork & everyday objects
 
 The objects shown here are stone, bone, wood and bark — a tool kit for fishing, butchering and woodworking. Flaked and ground stone includes a triangular arrow-head, a leaf-shaped arrow-head with square feet, an ovate knife blade of black stone flaked on both faces, and an adze blade carved of stone, grooved, with longitudinal lateral ridges. Fishing gear includes a hollow bone cylinder plugged at both ends with wood and ringed with concentric circles, and a wooden netting-needle for making nets. Bark and root give the berry basket. Nothing in the sources indicates Dakelh ceramics or metalworking; the arrival of metal shows instead in the vocabulary, where *tɬʼuɬ* widened from "rope" to "wire", *kʼa* shifted from "arrow" to "cartridge", and *ʔəɬtih* from "bow" to "rifle".
-
-### Jewelry & body adornment
-
-The sources used do not describe Dakelh jewelry, tattooing, hair practice or other body adornment.
-
-## Music & performance
-
-The sources used do not cover Dakelh instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Dakelh dance or dramatic traditions.
 
 ## Festivals & rituals
 

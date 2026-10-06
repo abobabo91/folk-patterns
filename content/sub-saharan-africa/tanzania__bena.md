@@ -69,8 +69,6 @@ No Bena dances or theatrical traditions are documented in available sources.
 
 ## Festivals & rituals
 
-No Bena festival calendar, birth rites, initiations, weddings or funerals are described in the sources.
-
 - **Wooden calendar** — A string of wooden pendants used to track time, showing that time was marked on a portable object, though its ritual use is unknown.
 
 ## Foodways
@@ -118,4 +116,3 @@ Bena is a Bantu language with dialect differences in how consonants sound, while
 - British Museum online collection — the source of every object and photograph described above: https://www.britishmuseum.org/collection
 - Smithsonian Folkways, Tanzania recordings — https://folkways.si.edu/search?query=Tanzania
 - UNESCO Intangible Cultural Heritage, Tanzania — https://ich.unesco.org/en/state/united-republic-of-tanzania-TZ (no elements are inscribed for Tanzania, so nothing in this profile draws on it)
-

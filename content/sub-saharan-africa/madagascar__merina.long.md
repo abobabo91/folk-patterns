@@ -37,7 +37,7 @@ Elite dress is materially distinguished rather than differently cut: a noble's a
 
 The sources describe the Merina built environment only glancingly. The plateau landscape itself was engineered: early settlers built vast irrigation works that drained the marshes of the highlands, watered arable land and allowed two rice harvests a year, and by the eighteenth century this infrastructure underwrote the Imerina kingdom's wealth. Their capital — Antananarivo — remains the capital of Madagascar, and the Andriana nobility were buried within the sacred hills of Imerina.
 
-Of buildings, the photographs record a raised open thatched structure reached by steps, with a low brick wall at one side and rectangular thatched shelters beside it; brick buildings behind a family portrait; and a palace building in the capital. A market takes place in the open, sellers sitting on the ground around their baskets under large white umbrellas. Family tombs are the architecturally significant form the texts name: they stand in the ancestral village of origin and hold the lineage dead. The sources used do not describe Merina house form, construction or ornament in any further detail.
+Of buildings, the photographs record a raised open thatched structure reached by steps, with a low brick wall at one side and rectangular thatched shelters beside it; brick buildings behind a family portrait; and a palace building in the capital. A market takes place in the open, sellers sitting on the ground around their baskets under large white umbrellas. Family tombs are the architecturally significant form the texts name: they stand in the ancestral village of origin and hold the lineage dead.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -51,15 +51,11 @@ Woodwork is represented by a model **loom** with two thick side pieces, uprights
 
 Merina ornament in this collection is silver, gilt metal and beadwork, and much of it is protective. A gilt-metal **waist-ornament** takes the form of a rectangular box-amulet studded with red, blue, green and yellow glass, hung with five gilded ornaments shaped as crocodile teeth; its lid carries five gilded cupolas, and it suspends from a brown silk brocade waistband with cream details. A silver **amulet** or charm is modelled as a zebu — a humped bull with shortened legs and long tapering horns — pierced through the shoulder for suspension, tying personal adornment to the cattle that dominate Merina ritual and diet.
 
-A silver **head-ornament** is a chain of ring and cable links from which shorter vertical chains hang, each ending in a silver coin. A silver **hat-ornament** is made in the form of animal claws. Two **bangles** are cotton cloth covered with multicoloured glass beads. The sources used do not describe tattooing, scarification or hairdressing.
+A silver **head-ornament** is a chain of ring and cable links from which shorter vertical chains hang, each ending in a silver coin. A silver **hat-ornament** is made in the form of animal claws. Two **bangles** are cotton cloth covered with multicoloured glass beads.
 
 ## Music & performance
 
 The sources used — the Wikipedia article on the Merina people and the catalogue records of the objects shown — do not describe Merina instruments, song genres or performance occasions, and there are no UNESCO Intangible Cultural Heritage inscriptions for Madagascar to draw on.
-
-## Dance & theatre
-
-The sources used do not cover Merina dance or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -73,7 +69,7 @@ Marriage was governed by caste. The Andriana were subdivided into six sub-strata
 
 Rice governs the Merina table so completely that the ordinary term for eating a meal is simply "to eat rice." Rice is *masina* — holy — and a common Merina belief holds that eating it is the key to moral behaviour; the French who occupied Merina lands were looked down on for eating bread instead. The double harvest that supports this was made possible by the irrigation works the early settlers built on the plateau, which drained marshes and watered arable land well enough to grow rice twice a year. Rice, cassava and potatoes are the staple crops, with onions and other supplements grown alongside.
 
-Beef is the other pillar. Merina oral history credits a servant of King Ralambo with the discovery that cattle were edible; he passed the knowledge to the king, who told the rest of the kingdom. Cattle are ritually killed with unusual violence, and the beef is cooked and eaten ceremoniously. Cattle, pigs and animal husbandry are significant occupations, and humped cattle — *ombi* — appear in the photographs drawing carts on the road, while a silver charm in the collection is cast as a zebu. Markets are where this food economy is visible: sellers sit on the ground among flat baskets, or set up stalls under large white umbrellas, buyers in *lamba* and head-gear moving between them. The sources used do not describe named dishes, tea or coffee customs, or dietary prohibitions.
+Beef is the other pillar. Merina oral history credits a servant of King Ralambo with the discovery that cattle were edible; he passed the knowledge to the king, who told the rest of the kingdom. Cattle are ritually killed with unusual violence, and the beef is cooked and eaten ceremoniously. Cattle, pigs and animal husbandry are significant occupations, and humped cattle — *ombi* — appear in the photographs drawing carts on the road, while a silver charm in the collection is cast as a zebu. Markets are where this food economy is visible: sellers sit on the ground among flat baskets, or set up stalls under large white umbrellas, buyers in *lamba* and head-gear moving between them.
 
 ## Oral tradition & literature
 

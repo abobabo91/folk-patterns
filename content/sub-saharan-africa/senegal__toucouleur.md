@@ -29,30 +29,6 @@ The sources do not name Toucouleur textile traditions, but one museum record des
 
 - **Strip-woven blue, white and green cloth** — The cloth has 29 narrow strips with blue and white squares, a blue stripe, two blue threads and a green thread.
 
-### Clothing & dress
-
-The sources do not describe Toucouleur everyday or ceremonial clothing.
-
-### Architecture
-
-The sources do not describe a Toucouleur house form or building tradition.
-
-### Ceramics, metalwork & everyday objects
-
-The sources do not document Toucouleur ceramics, metalwork, tools or household goods.
-
-### Jewelry & body adornment
-
-The sources do not document Toucouleur jewelry or body-adornment practices.
-
-## Music & performance
-
-The sources do not identify Toucouleur instruments, song genres or musical settings.
-
-## Dance & theatre
-
-The sources do not document named Toucouleur dances or theatre traditions.
-
 ## Festivals & rituals
 
 Islam shapes Toucouleur heritage, and the sources describe marriage and childbirth naming practices.
@@ -114,4 +90,3 @@ Pulaar is the Toucouleur language, and Islam has shaped their history and vocabu
 - UNESCO Intangible Cultural Heritage inscriptions: no Senegal inscription supplied in the sources concerns the Toucouleur.
 - Museum of Ethnography catalogue records supplied for the atlas, including photographs catalogued as Toucouleur in Bandiagara and Ségou.
 - British Museum catalogue record supplied for the cloth textile.
-

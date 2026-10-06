@@ -43,10 +43,6 @@ Paiute clothing records show cloth garments, blankets, leggings, moccasins, frin
 - **Moccasins** — Photographic records show Paiute men, women, and children wearing moccasins or other recorded clothing.
 - **Children’s cloth clothing** — Children are shown wearing cloth tops, jackets, necklaces, and blankets.
 
-### Architecture
-
-The sources do not describe Paiute houses, buildings, materials, roofs, decoration, or towns.
-
 ### Ceramics, metalwork & everyday objects
 
 The records describe containers, baskets, a cradle or cot, and a bear basket, but give little detail about other everyday objects.
@@ -67,24 +63,12 @@ Adornment records emphasize ear and hair ornaments, necklaces, beads, embroidere
 - **Cloth-wrapped hair plait** — One man has part of his hair in a plait wrapped in cloth.
 - **Cloth headband** — Young Antelope is shown wearing a cloth headband.
 
-## Music & performance
-
-The sources do not document Paiute instruments, songs, musical performances, or performance settings.
-
-## Dance & theatre
-
-The sources do not document Paiute dances, theatre, dramatic traditions, or ceremonial performances.
-
 ## Festivals & rituals
 
 The sources do not describe a festival calendar or named rites, but one Pyramid Lake legend teaches respect for the water.
 
 - **Pyramid Lake water-respect tradition** — A record says lake spirits provide water and that people must show the water proper respect.
 - **Crying children of Pyramid Lake** — The sound of crying children is said to tempt people into the lake, where strong underwater currents cause them to drown.
-
-## Foodways
-
-The sources do not document Paiute foods, cooking, dishes, drinks, ceremonial meals, or dietary rules.
 
 ## Oral tradition & literature
 
@@ -130,4 +114,3 @@ Paiute languages belong to the Numic group of Uto-Aztecan languages, while the s
 - British Museum catalogue records for Paiute water-bottle, basket, and photographic prints.
 - Museum of World Culture catalogue records for Paiute baskets, bottle, cradle, and bear basket.
 - No UNESCO Intangible Cultural Heritage inscription for this group was provided in the sources.
-

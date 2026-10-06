@@ -77,10 +77,6 @@ Mangyan instruments are portable and often made of bamboo, while vocal performan
 - **Seven-syllable poetic form** (*ambahan*) — A rhythmic poetic expression practiced by the Hanunó'o, presented through recitation and chanting or inscribed on bamboo.
 - **Riddles** — Mind games and comical entertainment told in the evening as part of oral tradition.
 
-## Dance & theatre
-
-No Mangyan dance or dramatic traditions are documented in the sources.
-
 ## Festivals & rituals
 
 Ritual life centers on rice cultivation, with specific rites at each phase to appease rice spirits.
@@ -154,4 +150,3 @@ Mangyan languages are Austronesian and mutually unintelligible, with a pre-Hispa
 - British Museum online collection — the Mangyan objects shown here, including the inscribed bamboo verse tubes and the 1948-registered incised bamboo sliver: https://www.britishmuseum.org/collection
 - UNESCO Intangible Cultural Heritage, Philippines — https://ich.unesco.org/en/state/philippines (no inscription concerns the Mangyan)
 - Smithsonian Folkways search, Philippines — https://folkways.si.edu/search?query=Philippines
-

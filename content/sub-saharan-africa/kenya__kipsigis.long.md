@@ -13,8 +13,6 @@ The Kipsigis, also called Kipsigiis or Kipsikiis, are the largest tribe of the K
 
 ### Textile & pattern traditions
 
-The sources used do not document Kipsigis textile traditions, named woven patterns, thatch roofing, mud-walled houses, calf-skin cloaks, or ceremonial body painting.
-
 **Leather and bead decoration** — Museum records describe leather objects and containers decorated with glass beads, including a composite snuff-box with a leather cap, white bead decoration, an iron-chain fringe, and red and white beads around a basal boss.
 
 **Animal-hide shield** — A photographic print records a Lumbwa male child holding a “toy” spear and a shield made of animal-hide.
@@ -25,27 +23,27 @@ The sources used do not document Kipsigis textile traditions, named woven patter
 
 ### Clothing & dress
 
-The sources do not provide a general account of everyday or ceremonial clothing. They record an old man’s cap made of monkey skin with a leather strap, and a photographic print of a Lumbwa male child wearing neck-ornaments. The Wikipedia article states that the Lumbwa were known for braided hairstyles. Museum records also describe leather and bead elements on ear ornaments, snuff-containers, and other personal objects. The sources do not identify Kipsigis garment names, footwear, belts, women’s clothing, or a distinct ceremonial dress.
+The sources record an old man’s cap made of monkey skin with a leather strap, and a photographic print of a Lumbwa male child wearing neck-ornaments. The Wikipedia article states that the Lumbwa were known for braided hairstyles. Museum records also describe leather and bead elements on ear ornaments, snuff-containers, and other personal objects.
 
 ### Architecture
 
-The sources used do not document Kipsigis house forms, roofing, settlement architecture, workshops, or named building types. They state that the Kipsigis organize themselves into geographic and political units, including *emet*, *kokwet*, and *kok*. A *kokwet* is described as a geographic cluster of settlement similar in concept to a village, while the *kok* is its village council and local authority for arbitration and conflict resolution.
+The sources state that the Kipsigis organize themselves into geographic and political units, including *emet*, *kokwet*, and *kok*. A *kokwet* is described as a geographic cluster of settlement similar in concept to a village, while the *kok* is its village council and local authority for arbitration and conflict resolution.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum catalogue records several objects made from iron, wood, horn, gourd, leather, vegetable fibre, and glass beads. These include iron-and-wood spears, one of Masai type and another with a counter-poise; a spear-head sheath made of untanned leather and covered at the top with black feathers; horn bottles ornamented with iron chains and glass beads; and composite snuff-boxes made from gourd, horn, iron wire, leather, and chains. One wooden snuff-box has a lid, chain, and tweezers. The sources do not document Kipsigis ceramics, cooking vessels, grinding stones, or named household forms.
+The museum catalogue records several objects made from iron, wood, horn, gourd, leather, vegetable fibre, and glass beads. These include iron-and-wood spears, one of Masai type and another with a counter-poise; a spear-head sheath made of untanned leather and covered at the top with black feathers; horn bottles ornamented with iron chains and glass beads; and composite snuff-boxes made from gourd, horn, iron wire, leather, and chains. One wooden snuff-box has a lid, chain, and tweezers.
 
 ### Jewelry & body adornment
 
-Museum records document an ear ornament made of leather, iron chain, and glass beads, described as semi-cylindrical. A Lumbwa male child in a photographic print wears neck-ornaments. Several snuff-containers and horn vessels also carry glass-bead decoration, including white beads and arrangements of red and white beads. The Wikipedia article records braided hairstyles among the Lumbwa. The sources do not describe tattoos, henna, ritual body painting, named jewelry types, or the functions of these adornments.
+Museum records document an ear ornament made of leather, iron chain, and glass beads, described as semi-cylindrical. A Lumbwa male child in a photographic print wears neck-ornaments. Several snuff-containers and horn vessels also carry glass-bead decoration, including white beads and arrangements of red and white beads. The Wikipedia article records braided hairstyles among the Lumbwa.
 
 ## Music & performance
 
-The Kipsigis oral tradition is described as having a rich background in songs. The sources do not name specific song genres, instruments, dances, or performance ensembles. They identify *Chemosi* as a creature appearing in many oral traditions and describe it as a monstrous ape-like creature with basic intelligence. A western adventurer’s account states that the Lumbwa and the Wadoko spoke of a water creature called *Dingonek* in the Maggori River; the account describes an armadillo-like, leopard-patterned, hippo-sized back and a leopard’s head with two large protruding fangs. The sources state that this is the only account of such a creature. No UNESCO ICH inscription concerns this ethnic group, and the sources do not document named musical instruments or performance contexts such as weddings, funerals, courts, or tea houses.
+The Kipsigis oral tradition is described as having a rich background in songs. The sources identify *Chemosi* as a creature appearing in many oral traditions and describe it as a monstrous ape-like creature with basic intelligence. A western adventurer’s account states that the Lumbwa and the Wadoko spoke of a water creature called *Dingonek* in the Maggori River; the account describes an armadillo-like, leopard-patterned, hippo-sized back and a leopard’s head with two large protruding fangs. The sources state that this is the only account of such a creature.
 
 ## Dance & theatre
 
-The sources used do not document Kipsigis dances, theatre, masked performances, shadow puppetry, or named dramatic traditions. They mention oral songs and ceremonial, religious, military, and initiation contexts, but do not describe performance movements, choreographies, dramatic characters, or entertainment forms.
+The sources mention oral songs and ceremonial, religious, military, and initiation contexts.
 
 ## Festivals & rituals
 
@@ -57,13 +55,13 @@ The Kipsigis yearly calendar is organized around months, seasons, and ceremonial
 
 Kipsigis meals mainly consist of a cooked, thick paste made from elusine flour, vegetables, or meat. Other recorded foods and drinks include a blend of milk and cow blood, milk, and fermented milk known as *Mursiik*. Milk is fermented in gourds with powdered popcorn flower tree cinders. The sources state that the Kipsigis also brewed Nubian gin, which was reserved for men and women in and past middle age.
 
-The Kipsigis are known to gather *Termitomyces tylerianus*, *Termitomyces umkowaan*, and *Termitomyces microcarpus*, the last of which is also called *puunereek*. The sources do not describe recipes, cooking vessels, food taboos, coffee or tea practices, or foods associated with particular ceremonies beyond the harvest celebrations.
+The Kipsigis are known to gather *Termitomyces tylerianus*, *Termitomyces umkowaan*, and *Termitomyces microcarpus*, the last of which is also called *puunereek*.
 
 ## Oral tradition & literature
 
 Kipsigis oral tradition includes songs, accounts of migration, clan histories, religious beliefs, military history, and stories of extraordinary beings. The *Pharaoh’s army* oral tradition is mentioned alongside standard Nilotic migration theories. It describes ancestors who became concerned with the Pharaoh’s military inconsistencies, separated, and migrated southward into East Africa over several millennia.
 
-The *Chemosi* tradition concerns a monstrous ape-like creature also known in western texts and culture as the Nandi bear. The *Dingonek* account concerns a water creature associated with the Maggori River. Oral traditions also recall the Lumbwa and the Agumba, with the Agumba generally remembered as hunters who lived in association with the Lumbwa. The sources do not document named epics, proverbs, riddles, written literature, or contemporary literary preservation projects.
+The *Chemosi* tradition concerns a monstrous ape-like creature also known in western texts and culture as the Nandi bear. The *Dingonek* account concerns a water creature associated with the Maggori River. Oral traditions also recall the Lumbwa and the Agumba, with the Agumba generally remembered as hunters who lived in association with the Lumbwa.
 
 ## Language & religion
 

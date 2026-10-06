@@ -39,7 +39,7 @@ The *silaung*, *siraung* or *sirung* is a head covering used mainly by Murut sub
 
 ### Architecture
 
-The Muruts formerly lived in communal longhouses, usually near rivers. Rivers served as transportation networks and were central to the settlement environment. The sources do not provide further details about longhouse plans, roofs, structural divisions or architectural decoration.
+The Muruts formerly lived in communal longhouses, usually near rivers. Rivers served as transportation networks and were central to the settlement environment.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -51,7 +51,7 @@ Murut baskets include the *buyong*, used formerly to gather forest produce, with
 
 Murut body adornment includes beadwork, coin belts, necklaces, wrist jewellery, dangling headdresses and waist decorations. The Tahol dress components include *rarangkol* necklace, *holong* wrist jewellery, *pipirot linggit* belt of coins, *sinikot* headdress and *bungkas* waist decoration. The lalandau may be decorated with Argus pheasant feathers.
 
-British Museum catalogue records also describe bracelets made of rattan and hair-pins made of deer bone, iron, buffalo horn, lead and tinfoil. The sources do not document tattoos, henna practices or other hair practices.
+British Museum catalogue records also describe bracelets made of rattan and hair-pins made of deer bone, iron, buffalo horn, lead and tinfoil.
 
 ## Music & performance
 
@@ -59,7 +59,7 @@ Murut musical heritage includes several types of *agung* ensembles. These consis
 
 Bamboo was used to make musical instruments and compose songs. The *tangkung* is made from wood and resembles a guitar, although it has only two strings; it was usually played during leisure time. *Sompoton* is another Murut instrument, also owned by Dusuns and Kadazans. *Kulundi* is associated with the Tangara Muruts of Inarad in Upper Kinabatangan, especially in religious or cultural ceremonies. The source also refers to gong music as part of Murut cultural expression.
 
-Music is connected in the sources with cultural activities, religious or cultural ceremonies, leisure time, festivals and dance. The sources do not name Murut song genres or provide descriptions of musical scales, performance ensembles beyond agung, or particular funeral and wedding repertoires.
+Music is connected in the sources with cultural activities, religious or cultural ceremonies, leisure time, festivals and dance.
 
 ## Dance & theatre
 
@@ -67,7 +67,7 @@ The principal traditional dance among Muruts in Keningau, Nabawan and Tenom is *
 
 Other named dances include the Tahol Murut dances *sasayau* and *alang ra illau*; the Bookan Murut *mangalai*; the Kolor Murut *magalai* and their Murut version of *sumazau*; the Nabaai Murut *mansayau*; the Okolod Murut *alang sirung* and *alang kolod*; the Paluan Murut *ansayau*; and the Tangala Murut dances *tinggung agalai* and *sayau agumbak*.
 
-The *Lansaran* is both a traditional game and a dance heritage. Its name comes from *lumasar*, meaning “to soar” or “swing.” Men and women in traditional attire form a circle and jump on a trampoline-like bamboo floor to reach the suspended kinkilat. It was formerly held to welcome Murut warriors returning victorious from *ngayau*. The sources do not describe a Murut theatre tradition.
+The *Lansaran* is both a traditional game and a dance heritage. Its name comes from *lumasar*, meaning “to soar” or “swing.” Men and women in traditional attire form a circle and jump on a trampoline-like bamboo floor to reach the suspended kinkilat. It was formerly held to welcome Murut warriors returning victorious from *ngayau*.
 
 ## Festivals & rituals
 
@@ -75,17 +75,17 @@ The Murut harvest festival takes place annually in March. During it, Muruts hold
 
 The Kalimaran festival is connected in Murut folklore with an origin said to be identical to that of Kadazan-Dusun Huminodun. In the account given by the source, Ralaa represents a young Murut woman who was sacrificed and who produced Murut handicrafts such as mats, silaung and woven Sampoi cloth during her lifetime.
 
-Murut wedding and funeral feasts can last several days. Ancient Chinese jars, or tajau, have a prominent place in these customs and are described as places of spirits; larger jars were formerly used as coffins. In the past, a Murut man could marry only after presenting at least one enemy head to the family of the woman he wished to marry. The sources do not describe birth rites or a separate coming-of-age ceremony.
+Murut wedding and funeral feasts can last several days. Ancient Chinese jars, or tajau, have a prominent place in these customs and are described as places of spirits; larger jars were formerly used as coffins. In the past, a Murut man could marry only after presenting at least one enemy head to the family of the woman he wished to marry.
 
 ## Foodways
 
-The sources state that the Muruts practised shifting cultivation of hill paddy and tapioca, supplementing their diet through hunting and river fishing. They do not name specific dishes, recipes, cooking methods, beverages or dietary rules.
+The sources state that the Muruts practised shifting cultivation of hill paddy and tapioca, supplementing their diet through hunting and river fishing.
 
 ## Oral tradition & literature
 
 The sources describe Murut folklore connected with the Kalimaran festival, including the story of Ralaa, a young woman whose sacrifice is associated with the production of handicrafts. They also record traditions concerning ancestral spirits, including the belief among spiritual leaders during the 1915 drought that food shortages were caused by ancestral spirits angered by the taxation system.
 
-The sources do not provide named epics, folktale collections, proverbs, riddles or a documented literary tradition. They mention George Cathcart Woolley’s documentation of Murut basketwork, including motifs and symbolic themes gathered through interviews with Murut communities, and preservation initiatives that teach younger generations handicraft and embroidery-making skills.
+The sources mention George Cathcart Woolley’s documentation of Murut basketwork, including motifs and symbolic themes gathered through interviews with Murut communities, and preservation initiatives that teach younger generations handicraft and embroidery-making skills.
 
 ## Language & religion
 
@@ -95,9 +95,8 @@ The Muruts were originally pagan-animist. A majority have converted to Protestan
 
 ## Sources & further reading
 
-- The supplied sources do not provide bibliographic details for three or four books.
 - George Cathcart Woolley’s documentation of Murut basketwork is mentioned in the supplied Wikipedia material; no separate publication details are provided.
 - [Murut people](https://en.wikipedia.org/wiki/Murut_people)
 - [Murut music](https://en.wikipedia.org/wiki/Murut_music)
 - The supplied UNESCO list states that there are no UNESCO Intangible Cultural Heritage inscriptions for this country concerning this ethnic group.
-- The supplied museum records identify British Museum objects, but do not provide collection URLs.
+- The supplied museum records identify British Museum objects.

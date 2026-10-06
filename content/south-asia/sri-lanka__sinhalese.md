@@ -72,7 +72,7 @@ The sources give little information about Sinhalese personal adornment and mainl
 
 Sinhalese music includes festival music, work songs and modern popular styles.
 
-- **Festival music** — Buddhist festivals use distinctive music played on traditional Sinhalese instruments, though the sources do not name them.
+- **Festival music** — Buddhist festivals use distinctive music played on traditional Sinhalese instruments.
 - **Work poems** — Folk poems about particular jobs were four-line communal songs sung during tasks such as harvesting and sowing.
 - **Reflective popular song style** (*Sarala gee*) — Ananda Samarakoon developed the reflective and poignant Sarala gee style in the late 1930s and early 1940s.
 
@@ -162,4 +162,3 @@ Sinhala is Sri Lanka’s main Sinhalese language, while Theravada Buddhism is jo
 - [Sinhalese cuisine](https://en.wikipedia.org/wiki/Sinhalese_cuisine)
 - UNESCO Intangible Cultural Heritage: the supplied sources identify no inscriptions for Sri Lanka.
 - Museum catalogue records supplied for the British Museum, Museum of Ethnography, National Museum of World Cultures Foundation and Náprstek Museum of Asian, African and American Cultures.
-

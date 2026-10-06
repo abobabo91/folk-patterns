@@ -41,7 +41,7 @@ Household and hunting equipment in the collections is of bark, skin, wood and le
 
 ### Jewelry & body adornment
 
-Adornment appears in the sources as part of garment construction rather than as separate ornament. The British Museum collar carries cream, light blue and dark blue glass beads of different sizes threaded in a diamond pattern along the hem, and below the beadwork a row of suspended pendants made of semi-precious stones and pearl-like beads. Shamanic regalia adds conical metal pendants hung from a leather belt and inset fragments of Chinese mirror. One funerary body marking is documented: in preparing the rite for a dead infant it was common to mark the body with coal, for instance by drawing a bracelet around the wrist, so that a later child born with similar markings could be recognised as the same soul returned. The sources do not cover tattooing or hairdressing beyond the Qing-imposed shaving of the forehead.
+Adornment appears in the sources as part of garment construction rather than as separate ornament. The British Museum collar carries cream, light blue and dark blue glass beads of different sizes threaded in a diamond pattern along the hem, and below the beadwork a row of suspended pendants made of semi-precious stones and pearl-like beads. Shamanic regalia adds conical metal pendants hung from a leather belt and inset fragments of Chinese mirror. One funerary body marking is documented: in preparing the rite for a dead infant it was common to mark the body with coal, for instance by drawing a bracelet around the wrist, so that a later child born with similar markings could be recognised as the same soul returned.
 
 ## Music & performance
 

@@ -23,18 +23,6 @@ The Sara live mainly in southern Chad and nearby border areas. They form about 3
 
 The documented material culture includes iron weapons, cane shields, hoe-blade currency, and wooden lip plugs.
 
-### Textile & pattern traditions
-
-The sources do not document Sara textile or pattern traditions.
-
-### Clothing & dress
-
-The sources do not describe Sara clothing or garments.
-
-### Architecture
-
-The sources do not describe Sara houses, settlements, or architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Sara material culture includes iron throwing-knives, cane shields, hoe-blade currency, and wooden lip plugs.
@@ -47,17 +35,9 @@ Sara material culture includes iron throwing-knives, cane shields, hoe-blade cur
 
 ### Jewelry & body adornment
 
-The sources record wooden lip plugs but do not describe other body adornment.
+The sources record wooden lip plugs.
 
 - **Wooden lip plugs** — Wooden lip plugs were recorded, including pairs with an engraved smaller plug.
-
-## Music & performance
-
-The sources do not document Sara instruments, songs, or performance settings.
-
-## Dance & theatre
-
-The sources do not document Sara dances, theatre, masks, or dramatic forms.
 
 ## Festivals & rituals
 
@@ -72,10 +52,6 @@ Sara subsistence centers on hoe farming, with root crops as main staples and sev
 - **Hoe farming** — Sara subsistence is primarily based on hoe farming.
 - **Root-crop staples** — Taro, yams, and sweet potatoes are the main staples.
 - **Livestock raising** — Sara people raise cattle, sheep, goats, chickens, and small horses.
-
-## Oral tradition & literature
-
-The sources do not document Sara folktales, literature, proverbs, or storytelling.
 
 ## Language & religion
 
@@ -105,4 +81,3 @@ The Sara speak related Sara languages and are mainly Christian and animist, with
 - Wikipedia, “[Sara people](https://en.wikipedia.org/wiki/Sara_people).”
 - Wikipedia, “[Sara language](https://en.wikipedia.org/wiki/Sara_language).”
 - British Museum catalogue records for throwing-knives, sheathes, shields, hoe-blade currency, and lip plugs.
-

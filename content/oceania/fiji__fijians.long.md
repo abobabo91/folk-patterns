@@ -27,7 +27,7 @@ Women's dress is represented by the *liku*, a skirt of vegetable fibre whose str
 
 ### Architecture
 
-The sources describe Fijian building only obliquely. A miniature spirit house in the British Museum is made of coconut-fibre cord worked over a foundation of probable reeds, with cane — a model of a religious structure rather than a dwelling, and the clearest indication in this collection of how a sacred building was framed and bound rather than nailed. A photograph taken at Nagarawai shows a full-size building with a thatched roof rising from stone walls at its base. Beyond this, the sources used do not describe house forms, plans or ornament.
+The sources describe Fijian building only obliquely. A miniature spirit house in the British Museum is made of coconut-fibre cord worked over a foundation of probable reeds, with cane — a model of a religious structure rather than a dwelling, and the clearest indication in this collection of how a sacred building was framed and bound rather than nailed. A photograph taken at Nagarawai shows a full-size building with a thatched roof rising from stone walls at its base.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,7 +39,7 @@ Whale ivory is the prestige material. The *tabua* is a revered whale's tooth use
 
 ## Music & performance
 
-Two wind instruments are documented. The *davui*, a conch-shell trumpet made from the shell of *Ranella lampas* with fibre, is in the Metropolitan Museum and dated to the late nineteenth century, as is a reed pipe of bamboo, shell and wood. Percussion is represented by a slit instrument hollowed from a solid log of heavy brown wood into a trough of semi-elliptical section whose floor rises towards each end, and by a related wooden gong or drum with a square hole cut into the top. The sources do not name Fijian song genres or describe performance occasions beyond what the photographs show.
+Two wind instruments are documented. The *davui*, a conch-shell trumpet made from the shell of *Ranella lampas* with fibre, is in the Metropolitan Museum and dated to the late nineteenth century, as is a reed pipe of bamboo, shell and wood. Percussion is represented by a slit instrument hollowed from a solid log of heavy brown wood into a trough of semi-elliptical section whose floor rises towards each end, and by a related wooden gong or drum with a square hole cut into the top.
 
 ## Dance & theatre
 
@@ -47,11 +47,11 @@ One photograph records a dance in progress: women in rows wearing ceremonial lay
 
 ## Festivals & rituals
 
-The sources centre Fijian ceremonial life on two things. The first is *yaqona*, also known as kava, an infusion prepared from the root of *Piper methysticum*, a pepper plant; in the era of the older religion it was prepared and drunk ceremonially by chiefs and priests alone. Today it belongs to daily life in villages and towns and across all classes — used to welcome and bond with visitors, to frame storytelling sessions, or simply to pass time, and colloquially called "having a grog". The collection's kava bowls, coconut-shell cups with fibre mouth-wipers, and ivory-handled ladle are the material side of that institution. The second is the *tabua*, the sacred whale's tooth presented on both public and private occasions. Fijian traditions generally are described as centred on ceremonies and events that bond the community. Above the level of the village stood the *Bose Levu Vakaturaga*, the Great Council of Chiefs, which met yearly to discuss indigenous Fijian concerns and was composed of 55 chiefs drawn from the fourteen provinces, with three appointees from Rotuma and six named by the Minister of Fijian Affairs; it was disbanded by the military after the 2006 coup. The sources do not describe an annual festival calendar or life-cycle rites.
+The sources centre Fijian ceremonial life on two things. The first is *yaqona*, also known as kava, an infusion prepared from the root of *Piper methysticum*, a pepper plant; in the era of the older religion it was prepared and drunk ceremonially by chiefs and priests alone. Today it belongs to daily life in villages and towns and across all classes — used to welcome and bond with visitors, to frame storytelling sessions, or simply to pass time, and colloquially called "having a grog". The collection's kava bowls, coconut-shell cups with fibre mouth-wipers, and ivory-handled ladle are the material side of that institution. The second is the *tabua*, the sacred whale's tooth presented on both public and private occasions. Fijian traditions generally are described as centred on ceremonies and events that bond the community. Above the level of the village stood the *Bose Levu Vakaturaga*, the Great Council of Chiefs, which met yearly to discuss indigenous Fijian concerns and was composed of 55 chiefs drawn from the fourteen provinces, with three appointees from Rotuma and six named by the Minister of Fijian Affairs; it was disbanded by the military after the 2006 coup.
 
 ## Foodways
 
-Roughly 70 percent of indigenous Fijians farm, many at subsistence level, growing sugar cane, cassava, rice, sweet potatoes and bananas. The one prepared consumable the sources treat at length is *yaqona*, infused from the pounded root of the pepper plant and drunk from coconut-shell cups; the wooden bowls in the collection carry a patina from long use with it. Beyond the crop list and kava, the sources used do not describe Fijian dishes, cooking methods or ceremonial food.
+Roughly 70 percent of indigenous Fijians farm, many at subsistence level, growing sugar cane, cassava, rice, sweet potatoes and bananas. The one prepared consumable the sources treat at length is *yaqona*, infused from the pounded root of the pepper plant and drunk from coconut-shell cups; the wooden bowls in the collection carry a patina from long use with it.
 
 ## Oral tradition & literature
 

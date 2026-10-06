@@ -38,10 +38,6 @@ The sources say almost nothing about Nkole dress.
 
 - **Head-dress mat** — A composite grass mat catalogued as both mat and head-dress, red and yellow with bands of cane embroidered decoration in dark grey and three fibre cords for attachment.
 
-### Architecture
-
-No Nkole house forms, building materials, roofing or architectural decoration are described in the sources.
-
 ### Ceramics, metalwork & everyday objects
 
 Ironworking and woodworking dominate Nkole material culture, centered on weapons, tools and milk vessels.
@@ -58,7 +54,7 @@ Glass beads and cowrie shells are the main adornment materials, appearing on obj
 
 - **Beaded fly-whisk** — A fibre and hair fly-whisk with a handle covered in bands of turquoise-blue, red, pink, white and black glass beads, cowries at the top, and cowries, a metal bell and wooden charms at the base.
 - **Beaded gourd bottle** — A gourd bottle entirely covered in a geometric design of dark blue, pink and white beads.
-- **Horn amulet** — An amulet made of horn, possibly for ritual use though the sources do not specify.
+- **Horn amulet** — An amulet made of horn, possibly for ritual use.
 
 ## Music & performance
 
@@ -75,7 +71,7 @@ The sources document no Nkole dances or dramatic traditions.
 
 The sources describe no annual festivals or birth, initiation, marriage or funeral rites.
 
-- **Ritual fly-whisk** — A fly-whisk whose handle carries cowries, a metal bell and two wooden charms, associated with ritual use though the sources do not specify how.
+- **Ritual fly-whisk** — A fly-whisk whose handle carries cowries, a metal bell and two wooden charms, associated with ritual use.
 
 ## Foodways
 
@@ -127,4 +123,3 @@ Nkore is a Bantu language with high mutual intelligibility with Kiga; the Banyan
 - https://en.wikipedia.org/wiki/Nkole_language
 - British Museum online collection: https://www.britishmuseum.org/collection
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Uganda
-

@@ -27,7 +27,7 @@ The photographic record for the Assiniboine is unusually dense in the second hal
 
 ### Architecture
 
-The Assiniboine were semi-nomadic, following the plains bison herds through the warmer months, and their dwelling was the tipi — *Wiʼį́kceya tíbi* or *įkcéwąga*. The smallest social unit, the *Tiwáhe* or nuclear family, normally occupied one tipi or two neighbouring ones; several *Tiʼóšpaye* (local groups) of one or more extended families made up a band, and the *Nakoda Oyadebi* (Assiniboine Nation) was divided into as many as 40 such bands. Two of the British Museum photographs document the camp as a built environment: a group portrait with tipis and a horse behind the sitters, and a stereoscope view at Fort Union of two wooden buildings and two tipis standing together in a clearing with people and horses beyond — the trading post and the camp in one frame. A third shows Irene Rock standing beside a wigwam with a saddled horse tied to its side. The sources do not describe tipi construction, covering or painted decoration in any further detail.
+The Assiniboine were semi-nomadic, following the plains bison herds through the warmer months, and their dwelling was the tipi — *Wiʼį́kceya tíbi* or *įkcéwąga*. The smallest social unit, the *Tiwáhe* or nuclear family, normally occupied one tipi or two neighbouring ones; several *Tiʼóšpaye* (local groups) of one or more extended families made up a band, and the *Nakoda Oyadebi* (Assiniboine Nation) was divided into as many as 40 such bands. Two of the British Museum photographs document the camp as a built environment: a group portrait with tipis and a horse behind the sitters, and a stereoscope view at Fort Union of two wooden buildings and two tipis standing together in a clearing with people and horses beyond — the trading post and the camp in one frame. A third shows Irene Rock standing beside a wigwam with a saddled horse tied to its side.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -35,11 +35,11 @@ No ceramics appear in these sources. Cooking was done by stone-boiling: hot ston
 
 ### Jewelry & body adornment
 
-Adornment in the record is worn at the neck and in the hair. Neck-ornaments are listed for Black Raven, Big Elk and the men in the group portrait, where they appear alongside varied head-gear; Irene Rock wears a beaded chest ornament. Hair itself is catalogued as part of a sitter's appearance — "wearing hair and neck-ornament" — and Rattlesnake wears two feathers in his. Feathers also finish the Met's club. The sources used do not cover tattooing, face or body painting, or metal jewellery.
+Adornment in the record is worn at the neck and in the hair. Neck-ornaments are listed for Black Raven, Big Elk and the men in the group portrait, where they appear alongside varied head-gear; Irene Rock wears a beaded chest ornament. Hair itself is catalogued as part of a sitter's appearance — "wearing hair and neck-ornament" — and Rattlesnake wears two feathers in his. Feathers also finish the Met's club.
 
 ## Music & performance
 
-The sources used do not describe Assiniboine instruments, song genres or performance occasions. The only musical or performative trace in them is indirect: one band was called *Wiciyabina* or *Wichiyabina*, 'Ones That Go to the Dance', shortened to *Wįcį́jana*, 'Girl Band'.
+The only musical or performative trace in them is indirect: one band was called *Wiciyabina* or *Wichiyabina*, 'Ones That Go to the Dance', shortened to *Wįcį́jana*, 'Girl Band'.
 
 ## Dance & theatre
 

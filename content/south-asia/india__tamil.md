@@ -160,7 +160,6 @@ Tamil is an ancient Dravidian language, and Tamil religious life combines Hindu 
 
 ## Sources & further reading
 
-- The sources used do not provide bibliographic details for books or specialist documentation projects.
 - [Tamils](https://en.wikipedia.org/wiki/Tamils)
 - [Tamil culture](https://en.wikipedia.org/wiki/Tamil_culture)
 - [Tamil art](https://en.wikipedia.org/wiki/Tamil_art)
@@ -170,4 +169,3 @@ Tamil is an ancient Dravidian language, and Tamil religious life combines Hindu 
 - [Tamil cuisine](https://en.wikipedia.org/wiki/Tamil_cuisine)
 - The UNESCO Intangible Cultural Heritage source supplied for this profile lists no inscriptions for this country.
 - The museum catalogue records supplied for this profile do not provide collection URLs.
-

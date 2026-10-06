@@ -22,7 +22,7 @@ The British Museum holds several nineteenth-century wooden head-dresses with two
 
 Sculpture is a second strength of the gallery. The British Museum describes an *ivwri* figure with a gaping mouth and multiple human and animal forms as associated with protection and aggressive power. The Smithsonian distinguishes Urhobo figures representing spirits from those representing ancestors, while warning that the difference can be hard to establish without the original context. The selected figures have different postures, clothing, and attachments; a top hat on one figure records contact and change rather than a timeless dress code.
 
-Drums, cane-and-gourd rattles, and an iron gong document musical forms. A carved wooden ladle with a bird at the end of its handle and an iron knife broaden the material picture. Contemporary photographs specifically caption Urhobo dances and a wedding, but they do not establish how the older museum objects were used.
+Drums, cane-and-gourd rattles, and an iron gong document musical forms. A carved wooden ladle with a bird at the end of its handle and an iron knife broaden the material picture. Contemporary photographs specifically caption Urhobo dances and a wedding.
 
 ## Sources & further reading
 

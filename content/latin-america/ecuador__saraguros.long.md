@@ -51,17 +51,13 @@ Three forms are documented. The *tupu* is a silver pin set with a coloured pearl
 
 The sources name no Saraguro instrument or song genre; what they document is a contemporary scene. Young, cosmopolitan Saraguro musicians in Ecuador's southern highlands are working to reconstitute a Saraguro Kichwa identity through a creative and selective process in which they discard, amplify and reinvent what they take to be authentic Saraguro musical culture — a break from tradition that signals both their aspiration to lives other than those tradition and stereotype assign them, and their actual opportunity to lead such lives. Greater participation in formal education, occupational diversity and mobility underpin this. The sources also record ways of self-expression that are compatible with Indigenous self-identification without depending on ties to an Inkaic past: a large number of Saraguro youth, primarily male, affiliate with a heavy metal subculture, listening to national and international metal bands, playing in local bands and organising local concerts. Musicians are among the occupations contemporary Saraguros hold.
 
-## Dance & theatre
-
-The sources used do not cover Saraguro dance or theatrical traditions, beyond noting that Curiquingue symbolism is carried on costumes at the Kapak Raymi celebrations.
-
 ## Festivals & rituals
 
 The one festival named in the sources is **Kapak Raymi**, the Great Celebration, held in Saraguro, at which costumes continue to carry the symbols of the *Curiquingue*, the black-and-white carunculated caracara that inhabits the Saraguro parish and páramos and was a bird of Inca royalty. Twentieth-century Saraguros celebrate their Inca heritage more broadly: schools have been named after Inca emperors and Inca customs recreated. Floral offerings are treated as a living form of Saraguro spiritual culture and resistance, and are the subject of Sisa Pacari Bacacela Gualan's *Cultura espiritual: Una resistencia de los Saraguros en la actualidad: Las Ofrendas Florales*. Indigenous justice is exercised, in Carmen Lozano's account of her own work, to harmonize the balance of life within the community. The sources record no life-cycle rites, except that the *tupu* passes from mother to daughter as an inheritance.
 
 ## Foodways
 
-The sources used do not describe Saraguro dishes, staples or cooking. They record that Saraguros are traditionally farmers and livestock herders, that sheep's wool supplies their cloth, that many continue agro-pastoralist activities alongside professional careers, and that Saraguro activists and intellectuals campaign for food sovereignty.
+The sources record that Saraguros are traditionally farmers and livestock herders, that sheep's wool supplies their cloth, that many continue agro-pastoralist activities alongside professional careers, and that Saraguro activists and intellectuals campaign for food sovereignty.
 
 ## Oral tradition & literature
 

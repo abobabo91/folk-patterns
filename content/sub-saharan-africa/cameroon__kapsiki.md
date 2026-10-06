@@ -35,17 +35,9 @@ Kapsiki beadwork includes multicoloured pubic aprons with rows, pairs, lozenges,
 
 ### Clothing & dress
 
-The sources document pubic-cover aprons but do not describe wider everyday or ceremonial dress.
+The sources document pubic-cover aprons.
 
 - **Pubic-cover apron** — The recorded aprons have cotton-thread waistbands and ties and use beads, cowrie shells, and possible seeds or nut shells.
-
-### Architecture
-
-The sources give no details about Kapsiki houses or building traditions.
-
-### Ceramics, metalwork & everyday objects
-
-The sources do not describe Kapsiki pottery, metalwork, tools, or household goods.
 
 ### Jewelry & body adornment
 
@@ -54,13 +46,7 @@ The sources document beadwork and suspended ornaments on pubic-cover aprons, but
 - **Cowrie-shell apron ornaments** — Some apron edges end in cowrie shells.
 - **Large white glass beads** — Some aprons include large white glass beads.
 
-## Music & performance
-
-The sources do not identify Kapsiki instruments, songs, or musical performances.
-
 ## Dance & theatre
-
-The sources give no details about Kapsiki dance or theatre traditions.
 
 - **The dancing dead** — This is the title of a work about ritual and religion among the Kapsiki/Higi, but the supplied sources give no details of the dancing.
 
@@ -73,17 +59,15 @@ The sources provide no festival calendar or detailed descriptions of Kapsiki rit
 
 ## Foodways
 
-The sources mention livestock farming and agriculture but do not describe foods or cooking.
+The sources mention livestock farming and agriculture.
 
 - **Livestock farming** — Kapsiki communities subsist partly on livestock farming.
 - **Agriculture** — Kapsiki communities also subsist partly on agriculture.
 
 ## Oral tradition & literature
 
-The sources do not identify Kapsiki folktales, epics, proverbs, or storytelling traditions.
-
 - **Ghena ta Shala** — This translation of the Bible into Psikyɛ was published in 1988.
-- **Malima Project documentary** — The Malima Project is linked to an educational documentary and events, but the sources do not describe their oral or literary content.
+- **Malima Project documentary** — The Malima Project is linked to an educational documentary and events.
 
 ## Language & religion
 
@@ -116,4 +100,3 @@ Kapsiki languages have many names and dialects, and the people are described in 
 - [Kapsiki people](https://en.wikipedia.org/wiki/Kapsiki_people)
 - [Kapsiki language](https://en.wikipedia.org/wiki/Kapsiki_language)
 - British Museum catalogue records for the recorded Kapsiki pubic-cover aprons.
-

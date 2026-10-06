@@ -23,18 +23,6 @@ The Makua are the largest ethnic group in Mozambique. Most live north of the Zam
 
 Makua material culture uses iron, wood, bamboo, pottery, fibre, gourds, and seed pods.
 
-### Textile & pattern traditions
-
-The sources do not document Makua textiles or named textile patterns.
-
-### Clothing & dress
-
-The sources do not describe Makua clothing traditions.
-
-### Architecture
-
-The sources do not describe Makua houses or named building forms.
-
 ### Ceramics, metalwork & everyday objects
 
 Makua metalworkers made tools and many everyday objects from iron, wood, bamboo, pottery, fibre, gourds, and seed pods.
@@ -51,7 +39,7 @@ Makua adornment records include wooden ear ornaments, tooth charms, and metal ri
 
 - **Wooden ear ornaments** — Seven small circular wooden ear ornaments have incised linear patterns.
 - **Tooth charms** (*ngiri*) — Some charms use ngiri teeth suspended on cords or cotton cloth.
-- **Metal rings** — Makua metalworkers made rings, but the sources do not explain their use or meaning.
+- **Metal rings** — Makua metalworkers made rings.
 
 ## Music & performance
 
@@ -60,20 +48,14 @@ Museum records include a bamboo flute and a seed-pod rattle, but give no perform
 - **Bamboo flute** — The flute has one open end, one closed end, three side holes, and simple incised decoration.
 - **Seed-pod rattle** — The rattle has thirteen seed pods threaded onto fibre string and fixed to a wooden stick.
 
-## Dance & theatre
-
-The sources do not document named Makua dances, theatre, or masquerades.
-
 ## Festivals & rituals
-
-The sources do not give a festival calendar or describe life-cycle ceremonies.
 
 - **Creation legend** (*Muluku*) — Muluku created the first man and woman from two holes in the ground and gave them tools.
 - **Evil spirit** (*Minepa*) — Minepa is an evil spirit in traditional Makua religion.
 
 ## Foodways
 
-Makua people have traditionally practiced agriculture and hunting, but the sources do not name dishes or cooking rules.
+Makua people have traditionally practiced agriculture and hunting.
 
 - **Corn grinding** — A carved ebony figure shows a kneeling woman grinding corn in front of a basin.
 - **Food trade** — Before the 18th century, Makua people exchanged food, ivory tusks, and metal products for textiles, salt, and other goods.
@@ -122,4 +104,3 @@ Makhuwa is the most widely spoken indigenous language of Mozambique, while Makua
 - “Makua language,” Wikipedia: https://en.wikipedia.org/wiki/Makua_language
 - Eugene de Froberville, ethnography of the Makua people, published in 1847, as described in the Wikipedia source.
 - British Museum catalogue records for the axe, boxes, snuff-box, head-rest, smoking-pipes, calendar, rattle, flute, ear-ornaments, charms, and carved ebony figure supplied in the source material.
-

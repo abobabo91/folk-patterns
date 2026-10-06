@@ -13,7 +13,7 @@ The Melanau — *Orang Melanau* in Malay, *Tenawan Melanau* in their own speech,
 
 ### Textile & pattern traditions
 
-The sources used here do not describe Melanau weaving or cloth-making. What they do document is pattern carried on plaited and carved objects rather than on loom-woven textiles, and the named ornament below comes from that material.
+What the sources do document is pattern carried on plaited and carved objects rather than on loom-woven textiles, and the named ornament below comes from that material.
 
 **Plaited hats (*terindak*)** — Conical hats plaited from nipah palm leaf, rattan and bamboo, one type recorded as *matu terindak*: a piece of bamboo is lashed around the rim for support, the inside lined with cotton, and the outside worked in three bands of dark fibre with a band of green fibre on either side. Between the vertical bands a flower is sewn in red, yellow and white glass beads, with a metallic-thread knob at the point. Other hats in the collection are circular, made of palm leaf and cane with painted decoration, or of wood, or built from strips of palm leaf over a wooden centre piece with a rattan rim and radiating plaited strips in brown and black.
 
@@ -29,7 +29,7 @@ One body practice is documented directly. An instrument for flattening babies' h
 
 ### Architecture
 
-The Melanau formerly lived in tall stilt houses and longhouses; today they live in Malaysian *kampung*-style houses, individual and separate. The most distinctive built form the sources name is funerary rather than domestic: the burial pole known as *kelidieng*, *jerunei* or *lejeng*, a hanging-coffin and burial-pole tradition the Melanau share with several Orang Ulu peoples — the Punan Bah, Kejaman and Sekapan among them — and which is taken as evidence of a common ancient origin. The tradition is found in Melanau districts such as Mukah and Dalat, in Punan areas including Tatau and Belaga, and as far away as East and South Kalimantan. An ancient Melanau burial site is known to archaeologists at Niah, Sekaloh. Melanau graves in the Rajang District were photographed on a glass negative now in the British Museum. Another glass negative records a mission school at Oya with students and teachers on its verandah. The sources do not describe roof types, house decoration or urban building traditions.
+The Melanau formerly lived in tall stilt houses and longhouses; today they live in Malaysian *kampung*-style houses, individual and separate. The most distinctive built form the sources name is funerary rather than domestic: the burial pole known as *kelidieng*, *jerunei* or *lejeng*, a hanging-coffin and burial-pole tradition the Melanau share with several Orang Ulu peoples — the Punan Bah, Kejaman and Sekapan among them — and which is taken as evidence of a common ancient origin. The tradition is found in Melanau districts such as Mukah and Dalat, in Punan areas including Tatau and Belaga, and as far away as East and South Kalimantan. An ancient Melanau burial site is known to archaeologists at Niah, Sekaloh. Melanau graves in the Rajang District were photographed on a glass negative now in the British Museum. Another glass negative records a mission school at Oya with students and teachers on its verandah.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -45,7 +45,7 @@ The sources record a single musical object — part of a flute in the British Mu
 
 ## Dance & theatre
 
-The sources do not describe Melanau dance or theatre. They do record one modern dramatic treatment of Melanau material: *Sumpahan Jerunei* ("Curse of the Jerunei"), a Malaysian horror film released in 2023, built around the burial ritual of Melanau nobility in the 13th century and filmed in Mukah, Siburan and Santubong among other Sarawak locations.
+The sources record one modern dramatic treatment of Melanau material: *Sumpahan Jerunei* ("Curse of the Jerunei"), a Malaysian horror film released in 2023, built around the burial ritual of Melanau nobility in the 13th century and filmed in Mukah, Siburan and Santubong among other Sarawak locations.
 
 ## Festivals & rituals
 

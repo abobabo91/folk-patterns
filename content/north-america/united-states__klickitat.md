@@ -12,7 +12,7 @@ tags: [ethnography, north-america]
 | Where | Their ancestral lands lay north of the Columbia River in present-day Klickitat and Skamania Counties. |
 | How many | Most are enrolled in the Confederated Tribes and Bands of the Yakama Nation; some belong to the Confederated Tribes of the Grand Ronde Community of Oregon. |
 | Language | They were a Shahaptian tribe, connected with the Sahaptin language. |
-| Religion | The profile gives no information about Klickitat religion. |
+ |
 | Known for | Trading between coastal tribes and communities east of the Cascade Mountains · Trading salmon, roots, and berries · Basketry · Parfleche objects with painted designs · Their name remaining attached to places and objects |
 
 ## Overview
@@ -63,7 +63,7 @@ Recorded everyday objects include stone arrowheads, a smoking pipe, and several 
 
 The only recorded adornment is a deer-toe necklace linked in the catalogue with a woman and with dance.
 
-- **Woman’s dance necklace** — The necklace was made of deer toes, but the sources do not explain its meaning or use.
+- **Woman’s dance necklace** — The necklace was made of deer toes.
 
 ## Music & performance
 
@@ -91,7 +91,7 @@ The Klickitat traded salmon, roots, and berries, and used recorded baskets conne
 - **Salmon trade** — The Klickitat traded salmon.
 - **Roots trade** — The Klickitat traded roots.
 - **Berries trade** — The Klickitat traded berries.
-- **Cooking basket** — A woven osier-stem cooking basket had leather straps, but the sources do not say what it held.
+- **Cooking basket** — A woven osier-stem cooking basket had leather straps.
 - **Water basket** — A water basket made of osier is recorded without details about its use.
 
 ## Oral tradition & literature
@@ -142,4 +142,3 @@ The Klickitat were a Shahaptian people connected with Sahaptin, while the source
 - Selma M. Neils and Greg Holly, *The Klickitat Indians*. Portland: Binford and Mort, 1985.
 - [Klickitat people](https://en.wikipedia.org/wiki/Klickitat_people)
 - [Klickitat language](https://en.wikipedia.org/wiki/Klickitat_language)
-

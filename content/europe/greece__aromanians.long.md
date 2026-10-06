@@ -49,10 +49,6 @@ The sources note only that the shape of a jewel, like the cut of a garment or th
 
 Polyphonic music is common among the Aromanians and follows a common set of rules. The sources name no instruments, song genres or performance occasions, and note that the Aromanian language is almost totally absent from television and that there are no exclusively Aromanian newspapers; the largest Aromanian cultural gatherings in the world are the festivals held at Metsovo, which regularly draw over 40,000 participants.
 
-## Dance & theatre
-
-The sources used do not cover Aromanian dance or dramatic traditions.
-
 ## Festivals & rituals
 
 The Aromanians are predominantly Orthodox Christians and follow the Eastern Orthodox liturgical calendar; the sources describe no life-cycle rites, though the museum records repeatedly distinguish "festive attire" and "festive costume" from everyday dress, implying a calendar of occasions at which the beaded plastron, metal-threaded aprons and heavy panelled coats were worn. The one dated observance is national rather than agrarian. The Ottoman Empire recognised the Aromanians as a distinct millet, the Ullah millet, on 22 May 1905, with freedoms of worship and education in their own language; the date of the announcement of the irade, 23 May 1905, has in recent times been adopted as **Aromanian National Day** (*Dzua Natsionalã a Armãnjilor*) by Aromanians in Albania, Australia, Bulgaria and North Macedonia — but notably not in Greece or among Aromanians in the Greek diaspora. In Romania the same event is marked on 10 May as Balkan Romanianness Day, an observance extended to the Megleno-Romanians and Istro-Romanians as well. Greek Aromanians took part instead in the Greek Struggle for Independence and are commemorated through that national history; the Metsovo festivals are the principal recurring Aromanian cultural event the sources record.
@@ -77,6 +73,5 @@ Aromanian is an Eastern Romance language, very similar to Romanian, with many sl
 - Tom Winnifrith — on Vlach origins, population figures and Aromanian-language schooling in Albania.
 - Bosch et al. (2006) — genetic study concluding the Aromanians are genetically indistinguishable from other Balkan populations.
 - Wikipedia, "Aromanians": https://en.wikipedia.org/wiki/Aromanians
-- UNESCO Intangible Cultural Heritage: no inscription for this group was among the sources used.
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Aromanian
 - British Museum online collection (holder of the costume and household weavings shown here): https://www.britishmuseum.org/collection

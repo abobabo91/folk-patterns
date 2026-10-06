@@ -23,20 +23,12 @@ The Kuria live in Tanzania’s Mara Region and southern Kenya. They farm, keep c
 
 The documented material culture centers on leather, metal, glass beads, cowrie shells, silver chains, soapstone, and iron objects.
 
-### Textile & pattern traditions
-
-The sources do not document Kuria textile or pattern traditions.
-
 ### Clothing & dress
 
-Museum records show decorated belts, cloths, and body ornaments, but they do not describe everyday or ceremonial dress.
+Museum records show decorated belts, cloths, and body ornaments.
 
 - **Man’s chained and beaded leather belt** — A museum record describes a man’s leather belt decorated with chains and glass beads.
 - **Cloths and body ornaments** — A photograph shows two adult males wearing cloths, neck-ornaments, arm-rings, and ear-ornaments.
-
-### Architecture
-
-The sources do not describe Kuria houses, settlements, building materials, roofs, or architectural decoration.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -59,10 +51,6 @@ Kuria adornment in the museum records uses metal, glass beads, leather, cowrie s
 A photograph shows two adult males playing drums, but the drums, songs, and performance setting are not named.
 
 - **Drum playing** — A photographic print shows one man sitting and another squatting while playing drums.
-
-## Dance & theatre
-
-The sources do not document Kuria dances, theatre, or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -123,4 +111,3 @@ Kuria is a Bantu language spoken mainly in Northern Tanzania and also in Kenya; 
 - [Kuria people](https://en.wikipedia.org/wiki/Kuria_people)
 - [Kuria language](https://en.wikipedia.org/wiki/Kuria_language)
 - British Museum catalogue records for the finger-knives, belt, ear-ornaments, necklaces, armlet, woman’s ornament and photographic print described above.
-

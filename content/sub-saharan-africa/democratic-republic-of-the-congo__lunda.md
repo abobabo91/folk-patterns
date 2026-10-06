@@ -39,10 +39,6 @@ Ceremonial dress centered on a medicine-man costume, while men also wore body cl
 - **Men’s body cloths and head-gear** — A British Museum record shows Lunda men wearing cloths around their lower bodies, personal ornaments, head-gear and vests or shirts.
 - **Beaded head-dress** — A Lunda head-dress had eight glass-bead parts, with some worn only on special occasions and others worn continually.
 
-### Architecture
-
-The supplied sources do not describe Lunda architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Lunda household and working objects included vessels, tools, weapons and containers.
@@ -95,10 +91,6 @@ Lunda foodways combined farming, fishing, palm wine and foods taken from Ndongo.
 - **Palm wine** — Lunda people drank palm wine.
 - **Cattle and pork** — After defeating Ndongo, the Lunda based part of their diet on cows and pigs taken from that kingdom.
 
-## Oral tradition & literature
-
-The sources do not record Lunda folktales, epics, proverbs, riddles or named storytelling genres.
-
 ## Language & religion
 
 Lunda is a Bantu language, and Lunda religion centers on Nzambi and ancestral spirits.
@@ -139,4 +131,3 @@ Lunda is a Bantu language, and Lunda religion centers on Nzambi and ancestral sp
 - Wikipedia, “Lunda culture”: https://en.wikipedia.org/wiki/Lunda_culture
 - Wikipedia, “Lunda language”: https://en.wikipedia.org/wiki/Lunda_language
 - No UNESCO Intangible Cultural Heritage inscription for the Democratic Republic of the Congo was supplied in the sources.
-

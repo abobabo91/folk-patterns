@@ -19,15 +19,13 @@ The Swazi, or Swati, are a Bantu ethnic group native to Southern Africa. They li
 
 **Basketry** — Swazis make baskets and other objects from special grasses. A museum catalogue records a beer-pot cover made of basketry, decorated with glass beads and a necklace of seeds and porcupine quills.
 
-The sources used do not document the search terms *emaһiya*, *sidvwaba*, *umgaco*, *imvunulo*, *lusekwane* reedwork or *lutindzi* grass weaving.
-
 **Motif vocabulary.** The sources name no specific textile motifs.
 
 ### Clothing & dress
 
 Swazi clothing and adornment include beadwork and fibre garments. The sources identify *ligcebesha* as a colourful necklace and *indlamu* as a colourful skirt for girls. A British Museum catalogue records a girl’s dress made of fibre with a band of red cotton fabric, as well as a belt made of beads and fibre. Another object is a love-letter made of cotton cloth, glass beads and mother-of-pearl buttons.
 
-Ceremonial presentation of the bride is described in the *umtsimba*, the traditional Swazi marriage. On Sunday morning, the bride and her female relatives take part in a cattle-kraal ritual, after which the bride is smeared with red ochre. The bride also presents gifts to her husband and his relatives. The sources do not document specific everyday male garments, footwear, head coverings or a distinct named male ceremonial costume.
+Ceremonial presentation of the bride is described in the *umtsimba*, the traditional Swazi marriage. On Sunday morning, the bride and her female relatives take part in a cattle-kraal ritual, after which the bride is smeared with red ochre. The bride also presents gifts to her husband and his relatives.
 
 ### Architecture
 
@@ -41,13 +39,13 @@ A group of homes forms a community, and the homes and land together form a chief
 
 Historical Swazi pottery includes clay pots used for carrying water, cooking beer and decoration. These vessels are called *tინდziwo* in the source spelling. Wooden objects included the *umcwembe*, a utensil used for serving meat. Wooden sculptures were also popular.
 
-Museum records document a head-rest cum stool carved in wood with four legs and decorated in alternating light and dark wood, and another wooden head-rest with four legs coloured in dark and light bands. A stone tobacco pipe carved from steatite is also recorded. The sources do not provide a fuller account of Swazi metalworking.
+Museum records document a head-rest cum stool carved in wood with four legs and decorated in alternating light and dark wood, and another wooden head-rest with four legs coloured in dark and light bands. A stone tobacco pipe carved from steatite is also recorded.
 
 ### Jewelry & body adornment
 
 Swazi jewellery has historically been made from beads, seeds, porcupine quills, wood and horn. The sources name *ligcebesha*, a colourful necklace. Museum records include a necklace made of seeds and porcupine quills, a necklet made of wood beads with two horn pendants, and a hair-pin made of horn terminating in a snuff container.
 
-A museum catalogue also records a belt made of beads and fibre and a beer-pot cover decorated with glass beads and a necklace of seeds and porcupine quills. In the *umtsimba* marriage ceremony, the bride is smeared with red ochre after the cattle-kraal ritual. The sources do not document tattoos, henna or named hair practices.
+A museum catalogue also records a belt made of beads and fibre and a beer-pot cover decorated with glass beads and a necklace of seeds and porcupine quills. In the *umtsimba* marriage ceremony, the bride is smeared with red ochre after the cattle-kraal ritual.
 
 ## Music & performance
 
@@ -55,15 +53,11 @@ Singing and dancing are prominent in Swazi culture, including praise-singing. Th
 
 A museum catalogue records a sansa instrument associated with Swaziland, South Africa and Swazi people. The object has nine metal lamellae, a bridge made of upright iron sheet and pyro-decoration. The catalogue states that it lacks a resonator and that the tone gains volume through the choice of wood in the corpus. It also records two iron rings attached to a hoop as rattles and states that the instrument was used on journeys rather than for dancing.
 
-The sources do not document named song genres, praise-poetry forms beyond praise-singing, musical ensembles, court performances or specific musical uses at funerals and weddings.
-
 ## Dance & theatre
 
 Dancing is prominent in Swazi culture and appears in marriage ceremonies, royal events and communal gatherings. In the *umtsimba* marriage, the bridal party eats meat offered by the groom’s family and dances at the groom’s homestead. The bride later takes part in the cattle-kraal ceremony.
 
 The annual *Umhlanga* Reed Dance is an eight-day ceremony. Girls cut reeds, present them to the Queen Mother and dance. Only childless, unmarried girls can take part. The royal family appoints a commoner maiden as *induna*, or captain, of the girls; she announces the dates and is described as an expert dancer knowledgeable about royal protocol. One of the King’s daughters serves as her counterpart.
-
-The sources do not document Swazi theatre, masks, puppetry or dramatic performance traditions.
 
 ## Festivals & rituals
 
@@ -79,13 +73,11 @@ Birth, death and marriage are associated with family-level spiritual rituals. Fu
 
 The sources describe goat or cow meat as food served during the traditional marriage ceremony *umtsimba*. On Saturday morning, the bridal party sits by a nearby river and eats meat offered by the groom’s family. The sources also describe the cooking of beer in clay pots called *tინდziwo* and mention brewing beer as one of the activities carried out in a homestead.
 
-The new harvest is central to *Incwala*, whose English translation is sometimes given as “First Fruits” ceremony. The King’s tasting of the new harvest is one part of the wider Kingship Ceremony. The traditional homestead contains sealed grain pits, indicating the storage of grain, but the sources do not name the grain or describe particular dishes.
-
-The sources do not cover staple grains in detail, named dishes, tea or coffee traditions, dietary rules, or a broader account of everyday cooking.
+The new harvest is central to *Incwala*, whose English translation is sometimes given as “First Fruits” ceremony. The King’s tasting of the new harvest is one part of the wider Kingship Ceremony. The traditional homestead contains sealed grain pits, indicating the storage of grain.
 
 ## Oral tradition & literature
 
-Praise-singing is identified as a prominent part of Swazi culture. The sources do not provide the names or contents of particular praise poems, folktales, epics, proverbs or riddles. They also do not describe storytelling contexts, written literary traditions or contemporary literary preservation efforts.
+Praise-singing is identified as a prominent part of Swazi culture.
 
 ## Language & religion
 
@@ -97,7 +89,6 @@ Traditional Swazi religion recognizes a supreme creator known as *Mvelincanti*, 
 
 ## Sources & further reading
 
-- The sources supplied do not provide books, named scholars or documentation projects.
 - [Swazi people](https://en.wikipedia.org/wiki/Swazi_people)
 - [Swazi culture](https://en.wikipedia.org/wiki/Swazi_culture)
 - [Swazi language](https://en.wikipedia.org/wiki/Swazi_language)

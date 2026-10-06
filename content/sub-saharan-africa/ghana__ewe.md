@@ -42,10 +42,6 @@ Ewe men and women wear woven wrappers and wrap-around cloths, sometimes sewn int
 - **Sleeveless tunic** — One man’s cloth was folded and sewn at the sides, leaving openings for the head and arms.
 - **Wrist ornament** — A photograph shows an adult man wearing a wrist ornament with a cloth, shirt, and staff.
 
-### Architecture
-
-The supplied sources do not describe Ewe buildings or named architectural traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 The sources give little information about Ewe household objects, but they mention wooden and metal parts of musical instruments.
@@ -54,8 +50,6 @@ The sources give little information about Ewe household objects, but they mentio
 - **Bell** — Bells are played with sticks and can provide rhythmic patterns.
 
 ### Jewelry & body adornment
-
-The sources do not describe Ewe adornment systems beyond one wrist ornament.
 
 - **Wrist ornament** — A museum photograph shows an adult male wearing a wrist ornament, but gives no details about its material or purpose.
 
@@ -91,7 +85,7 @@ Ewe ritual life includes shrine music, ancestor communication, funerals, naming 
 
 ## Foodways
 
-The sources mention farming and trade in rice, cotton, palm oil, and copra but do not describe Ewe dishes or cooking practices.
+The sources mention farming and trade in rice, cotton, palm oil, and copra.
 
 - **Rice farming** — Rice farming was historically important to the Ewe.
 - **Palm oil** — Palm oil was a documented Ewe economic product.
@@ -156,4 +150,3 @@ Ewe is a tonal Gbe language, while Vodun remains the traditional religion alongs
 - [Ewe religion](https://en.wikipedia.org/wiki/Ewe_religion)
 - No UNESCO Intangible Cultural Heritage inscription is identified in the supplied sources.
 - [British Museum collection search](https://www.britishmuseum.org/collection)
-

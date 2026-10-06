@@ -29,11 +29,11 @@ The sources describe Kabyle weaving in two registers: Wikipedia names tapestry, 
 
 ### Clothing & dress
 
-The sources used do not describe Kabyle dress. The only garment among the objects shown is a woman's garment woven from wool, catalogued without description of its cut, how it was worn, or its ceremonial status; nothing in the written sources covers headwear, belts, footwear, or the distinction between everyday and ceremonial clothing.
+The only garment among the objects shown is a woman's garment woven from wool, catalogued without description of its cut, how it was worn, or its ceremonial status; nothing in the written sources covers headwear, belts, footwear, or the distinction between everyday and ceremonial clothing.
 
 ### Architecture
 
-The sources used do not describe Kabyle house form, materials or building decoration. What they do record is the social unit built around it: Kabyles live in villages (*taddart*), and under French colonial indirect rule the village assembly, the *djemaa*, remained the central self-governing institution, resolving disputes among inhabitants and issuing the rules of customary law. The assembly was revived during the Black Spring of 2001 as the *Arouch*, described as a traditional Kabyle form of democratic organisation. One object among those shown is architectural in miniature rather than in fact: a pottery house-ornament, a decorative stand whose three slender columns separate a narrow flat base from a top platform, surmounted by two birds flanking a domed form, slipped in white, painted with geometric patterns in red and black, and coated with a plant resin that has yellowed the white slip.
+What the sources do record is the social unit built around it: Kabyles live in villages (*taddart*), and under French colonial indirect rule the village assembly, the *djemaa*, remained the central self-governing institution, resolving disputes among inhabitants and issuing the rules of customary law. The assembly was revived during the Black Spring of 2001 as the *Arouch*, described as a traditional Kabyle form of democratic organisation. One object among those shown is architectural in miniature rather than in fact: a pottery house-ornament, a decorative stand whose three slender columns separate a narrow flat base from a top platform, surmounted by two birds flanking a domed form, slipped in white, painted with geometric patterns in red and black, and coated with a plant resin that has yellowed the white slip.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,7 +43,7 @@ The signature metalwork is the *flissa*, a long single-edged sabre or knife whos
 
 ### Jewelry & body adornment
 
-Kabyle silver in these collections is enamelled and set with coral. Disc brooches are enamelled and studded with red coral, one hung with seven pendants; a *fibula* is made of silver, enamel and imitation coral. Triangular pendants, possibly from a necklace or diadem, are sheet silver with cloisonné enamel in green, yellow and blue, a coral bead in a circular mount at the centre, six small silver balls soldered at even intervals around the edge, and assorted smaller pendants hung along the lower edge. A composite necklace strings coral, glass beads, amber and silver coins with two square enamelled amulet boxes, a spherical filigree bead and an engraved silver pendant onto blue cotton cord. Also present: a penannular brooch engraved with a spiral, a silver bracelet set with coral, silver filigree earrings, a neck ornament with pendants, a filigree-and-enamel box, and a silver casket set with blue and red stones. The sources used do not cover tattooing, henna or hair practice.
+Kabyle silver in these collections is enamelled and set with coral. Disc brooches are enamelled and studded with red coral, one hung with seven pendants; a *fibula* is made of silver, enamel and imitation coral. Triangular pendants, possibly from a necklace or diadem, are sheet silver with cloisonné enamel in green, yellow and blue, a coral bead in a circular mount at the centre, six small silver balls soldered at even intervals around the edge, and assorted smaller pendants hung along the lower edge. A composite necklace strings coral, glass beads, amber and silver coins with two square enamelled amulet boxes, a spherical filigree bead and an engraved silver pendant onto blue cotton cord. Also present: a penannular brooch engraved with a spiral, a silver bracelet set with coral, silver filigree earrings, a neck ornament with pendants, a filigree-and-enamel box, and a silver casket set with blue and red stones.
 
 ## Music & performance
 
@@ -51,19 +51,13 @@ The only instrument among the objects shown is a bamboo duct flute: five finger 
 
 Kabyle song is documented in the sources chiefly through its performers. Among the Kabyle musicians named are **Idir**, **Lounis Aït Menguellet**, **Slimane Azem**, **Chérifa**, **Malika Domrane**, **Souad Massi**, **Takfarinas**, **Kamel Messaoudi**, **Mohamed Iguerbouchène** and **El Hadj M'Hamed El Anka**. Music has been inseparable from Kabyle political life: the assassination of the singer **Matoub Lounès** in 1998, together with a law requiring the use of Arabic in all fields, set off protests across Kabylia that turned violent. Because private television ownership is illegal in Algeria, Kabyles launched their own channel, Berbère Télévision, broadcasting from France.
 
-The sources used do not describe song genres, performance occasions or ensemble practice.
-
-## Dance & theatre
-
-The sources used do not cover Kabyle dance or dramatic traditions.
-
 ## Festivals & rituals
 
-The sources used do not describe an annual festival calendar or life-cycle rites. Algeria has no UNESCO Intangible Cultural Heritage inscriptions in the material consulted. What the sources do record are commemorated political dates that function as collective markers: the **Berber Spring** of 1980, months of demonstrations in Kabylia demanding official recognition of Berber; the 1994–95 school boycott, known as the "strike of the school bag"; and the **Black Spring** of April 2001, the riots that followed the killing of the young Kabyle Masinissa Guermah by gendarmes and that produced the *Arouch* councils. Tamazight was recognised as a national language in the 2002 constitutional amendment and made official alongside Arabic on 6 January 2016.
+Algeria has no UNESCO Intangible Cultural Heritage inscriptions in the material consulted. What the sources do record are commemorated political dates that function as collective markers: the **Berber Spring** of 1980, months of demonstrations in Kabylia demanding official recognition of Berber; the 1994–95 school boycott, known as the "strike of the school bag"; and the **Black Spring** of April 2001, the riots that followed the killing of the young Kabyle Masinissa Guermah by gendarmes and that produced the *Arouch* councils. Tamazight was recognised as a national language in the 2002 constitutional amendment and made official alongside Arabic on 6 January 2016.
 
 ## Foodways
 
-The sources used do not describe Kabyle dishes, cooking methods or hospitality customs. They record only the agricultural base: an economy built on arboriculture — orchards and olive trees — with mountain and hill farming giving way from the mid-twentieth century to local textile and agro-alimentary industry, funded in part by the diaspora, making Kabylia the second most important industrial region in Algeria after Algiers. Two food-adjacent words surface in the linguistic sources: *aman*, water, and *aksum*, meat; and the Arabic *al-māl*, "property", entered Kabyle as *lmal*, meaning domestic animals.
+The sources record only the agricultural base: an economy built on arboriculture — orchards and olive trees — with mountain and hill farming giving way from the mid-twentieth century to local textile and agro-alimentary industry, funded in part by the diaspora, making Kabylia the second most important industrial region in Algeria after Algiers. Two food-adjacent words surface in the linguistic sources: *aman*, water, and *aksum*, meat; and the Arabic *al-māl*, "property", entered Kabyle as *lmal*, meaning domestic animals.
 
 ## Oral tradition & literature
 

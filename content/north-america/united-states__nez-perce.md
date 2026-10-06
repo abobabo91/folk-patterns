@@ -12,7 +12,7 @@ tags: [ethnography, north-america]
 | Where | The southeastern Columbia River Plateau of the Pacific Northwest, including parts of Washington, Oregon, Montana, and Idaho. |
 | How many | More than 3,500 members in 2021. |
 | Language | Nez Perce, also called nimipuutímt, a highly endangered Sahaptian language. |
-| Religion | The sources describe spirit-singing but do not give a general account of Nez Perce religion. |
+| Religion | The sources describe spirit-singing. |
 | Known for | Seasonal hunting, fishing, and gathering · Salmon fishing · Horse breeding · Woven bags and baskets · Beadwork |
 
 ## Overview
@@ -44,7 +44,7 @@ Portraits show decorated hide clothing, moccasins, chokers, headdresses, headban
 
 ### Architecture
 
-The sources show a clapboard structure but do not describe Nez Perce house forms or named buildings.
+The sources show a clapboard structure.
 
 - **Clapboard structure** — A Nez Perce woman was photographed posing before a clapboard structure described in the catalogue as “house?”.
 
@@ -76,10 +76,6 @@ Nez Perce sources describe spirit-singing and the idea of singing one’s spirit
 - **Spirit-singing** — Nez Perce spirit-singing is described as a subject of performance and metaphor.
 - **Nez Perce Stories** (*Titwáatit*) — Titwáatit: (Nez Perce Stories) is listed among Nez Perce language-learning materials.
 
-## Dance & theatre
-
-The sources do not document named Nez Perce dances, theatre, masks, or other staged performances.
-
 ## Festivals & rituals
 
 The sources describe seasonal movement and relationships with fishing, hunting, and gathering places but give no annual festival calendar or named life-cycle rites.
@@ -110,7 +106,7 @@ Nez Perce is a highly endangered Sahaptian language with complex grammar, while 
 
 - **Nez Perce language** (*nimipuutímt*) — Nez Perce, also called nimipuutímt, belongs to the Sahaptian branch of the Plateau Penutian family.
 - **People’s name** (*nimíipuu*) — The Nez Perce call themselves nimíipuu, meaning “we, the people.”
-- **Spirit-singing** (*wéeyekweʔnipse*) — The sources describe spirit-singing but do not provide a broader account of spiritual practices.
+- **Spirit-singing** (*wéeyekweʔnipse*) — The sources describe spirit-singing.
 
 ## Glossary
 
@@ -133,5 +129,3 @@ Nez Perce is a highly endangered Sahaptian language with complex grammar, while 
 - Wikipedia: [Nez Perce](https://en.wikipedia.org/wiki/Nez_Perce)
 - Wikipedia: [Nez Perce language](https://en.wikipedia.org/wiki/Nez_Perce_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is listed in the supplied sources.
-- The supplied sources do not provide museum collection URLs.
-

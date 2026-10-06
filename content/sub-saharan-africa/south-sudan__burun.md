@@ -23,18 +23,6 @@ The Burun are a Luo Nilotic group from South Sudan. They live around the Upper N
 
 The documented material culture consists mainly of weapons, a bow, arrows, a club, and head-rests.
 
-### Textile & pattern traditions
-
-The supplied sources do not describe Burun textile or pattern traditions.
-
-### Clothing & dress
-
-The supplied sources do not describe Burun clothing or named garments.
-
-### Architecture
-
-The supplied sources do not describe Burun houses or building traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 Museum records document Burun-associated weapons, a bow, arrows, a club, and head-rests.
@@ -45,33 +33,9 @@ Museum records document Burun-associated weapons, a bow, arrows, a club, and hea
 - **Wooden club** — A wooden club has a flat head and a handle.
 - **Bamboo bow and arrows** — A bamboo bow has a string, and the arrows have bamboo shafts with fire-hardened tapering wood heads.
 
-### Jewelry & body adornment
-
-The supplied sources do not describe Burun jewelry or body adornment.
-
-## Music & performance
-
-The supplied sources do not describe Burun instruments, songs, or music-making.
-
-## Dance & theatre
-
-The supplied sources do not describe Burun dance or theatre.
-
-## Festivals & rituals
-
-The supplied sources do not describe Burun festivals or ritual practices.
-
-## Foodways
-
-The supplied sources do not describe Burun foods, cooking, drinks, or dietary rules.
-
-## Oral tradition & literature
-
-The supplied sources do not describe Burun oral traditions or literature.
-
 ## Language & religion
 
-Burun is a Luo Nilotic language, but the supplied sources do not document Burun religion or writing systems.
+Burun is a Luo Nilotic language.
 
 - **Burun language** (*Burun*) — Burun is a Luo Nilotic language spoken by the Burun.
 - **Northern Burun** — Northern Burun is described as a Nilotic language of Sudan.
@@ -89,4 +53,3 @@ Burun is a Luo Nilotic language, but the supplied sources do not document Burun 
 - “Burun language,” Wikipedia: https://en.wikipedia.org/wiki/Burun_language
 - No UNESCO Intangible Cultural Heritage inscription for this group is identified in the supplied sources.
 - British Museum catalogue records for the throwing-knife, spears, arrows, club, bow, and head-rest objects described above.
-

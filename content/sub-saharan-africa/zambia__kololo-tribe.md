@@ -31,7 +31,7 @@ No Kololo textile, weaving, matting, beadwork, leatherwork, or motif tradition i
 
 No Kololo clothing or body-dress tradition is documented.
 
-- **Unexplained catalogue terms** (*marote, rotse, barotsi, malozi, kololo, roz, silozi, lozi*) — A museum record lists these terms, but it does not explain whether they relate to clothing.
+- **Unexplained catalogue terms** (*marote, rotse, barotsi, malozi, kololo, roz, silozi, lozi*) — A museum record lists these terms.
 
 ### Architecture
 
@@ -73,9 +73,7 @@ No Kololo epic, folktale, proverb, riddle, praise poem, or storytelling traditio
 
 ## Language & religion
 
-The sources do not identify the Kololo language family or religion, and they do not explain the relationship among several catalogue terms.
-
-- **Silozi** — The museum catalogue lists “silozi” beside “kololo” and “lozi,” but does not explain the relationship.
+- **Silozi** — The museum catalogue lists “silozi” beside “kololo” and “lozi,”.
 - **Lozi** — The museum catalogue lists “lozi” beside “kololo” and “silozi,” without explaining its linguistic or ethnic meaning.
 - **Kololo** — The record uses “kololo,” but the supplied sources do not define its political, linguistic, or cultural meaning.
 
@@ -99,4 +97,3 @@ The sources do not identify the Kololo language family or religion, and they do 
 - Green, Jeffrey P. *Black Edwardians: Black People in Britain, 1901-1914*. Oxon; New York: Psychology Press, 1998.
 - Macmillan, Hugh. “Lewanika (c.1842–1916).” *Oxford Dictionary of National Biography*, Oxford University Press, 2007.
 - Prins, Gwyn. “The Battle for Control of the Camera in Late-nineteenth-century Western Zambia.” *African Affairs*, 89:354, 97–105.
-

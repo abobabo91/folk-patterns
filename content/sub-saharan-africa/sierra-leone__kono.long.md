@@ -15,10 +15,6 @@ The Kono (pronounced *koh noh*) are a Mande-speaking people of eastern Sierra Le
 
 The sources used for this profile name no Kono textile or weaving tradition, and no motif vocabulary, so nothing is listed here rather than filling the section with material the catalogue and articles do not support.
 
-### Clothing & dress
-
-The sources used here do not describe Kono everyday or ceremonial dress, head coverings, belts or footwear.
-
 ### Architecture
 
 The sources used here say nothing about Kono house form, building materials, roofing or village layout.
@@ -37,7 +33,7 @@ The sources used for this profile name no Kono instrument, song genre or perform
 
 ## Dance & theatre
 
-No dance or masquerade performance is described in the sources used here. The collection's single object is a helmet mask — carved in wood, stained black, with small facial features, elaborately carved ears and a short pierced pedestal base — and the catalogue records its form without recording how, when or by whom it was worn.
+The collection's single object is a helmet mask — carved in wood, stained black, with small facial features, elaborately carved ears and a short pierced pedestal base — and the catalogue records its form without recording how, when or by whom it was worn.
 
 ## Festivals & rituals
 

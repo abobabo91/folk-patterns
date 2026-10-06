@@ -37,7 +37,7 @@ Women's dress in the documented examples combines a wrapped skirt, a sash and a 
 
 ### Architecture
 
-The sources are thin here. In the Mezquital Valley the *maguey* plant was depended on to the point that huts were built from its leaves, and dwellings were dispersed and built so low and so concealed that densely settled country could be mistaken for empty land. The village best documented in the collection is San Pablito, on the side of the Guajalote Mountain in the Sierra Norte de Puebla, in the Pahuatlán municipality of Puebla: photographs taken in 1935 record its houses and walls with women and children before them. Beyond this the sources used do not describe house form, roofing or architectural ornament.
+The sources are thin here. In the Mezquital Valley the *maguey* plant was depended on to the point that huts were built from its leaves, and dwellings were dispersed and built so low and so concealed that densely settled country could be mistaken for empty land. The village best documented in the collection is San Pablito, on the side of the Guajalote Mountain in the Sierra Norte de Puebla, in the Pahuatlán municipality of Puebla: photographs taken in 1935 record its houses and walls with women and children before them.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -45,19 +45,11 @@ One pottery vessel stands for Otomi ceramics: a lightly fired, fire-stained jug 
 
 ### Jewelry & body adornment
 
-The only adornment the sources describe is on a paper votive figure of the earth deity: pink glass earrings, and a black-and-white braided string hanging down the back. Otherwise the sources used do not cover Otomi jewellery, body marking or hair practice.
-
-## Music & performance
-
-The sources used do not describe Otomi instruments, song genres or performance occasions, beyond the note that prayer songs in Otomi are still heard in parts of Guanajuato and Hidalgo.
-
-## Dance & theatre
-
-**Volador** — The collection holds a model of a *volador* pole, acquired in Mexico from the Swedish ethnographic expedition of 1934–35. The catalogue record documents it only by its literature, which includes Helga Larsen's "Notes on the volador and its associated ceremonies and superstitions" (*Ethnos*, 1937) and Gösta Montell's chapter "Såsom fåglar genom luften" ("like birds through the air"); the record itself gives no account of how the performance was danced, and the sources used describe no other Otomi dance or dramatic tradition.
+The only adornment the sources describe is on a paper votive figure of the earth deity: pink glass earrings, and a black-and-white braided string hanging down the back.
 
 ## Festivals & rituals
 
-Prehispanic Otomi religion was polytheist and closely related to that of the Nahua peoples, with Otomi counterparts for most of the major Nahua deities — Ehecatl-Quetzalcoatl as *Edähï*/*Ek'ënmaxi*, Tlaloc as *Hmü'ye*, Tlazolteotl as *Nopot'ejä*, Tlaltecuhtli as *Hmühai*, Mictecacihuatl as *Nohmüdü*. The most important were the fire-death god Otontecuhtli, also called Cuecuex and patronised by the Tepanec; the moon goddess *Zäna*, patronised at Xaltocan, Metztitlán and San Bartolo Tutotepec; and Yocippa. Two further deities are named: *Bizamofo*, "Harvest", and *Ojädäpo*, "Lord of the Mountain". The Otomi calendar closely resembled the Aztec one, most of the names being semantically equivalent, and many Otomi populations continue to practise shamanism and hold pre-Hispanic beliefs such as Nagualism. The ritual objects shown belong to this living practice. From San Pablito come cut-paper spirit figures with hands raised and plants growing from head, arms and legs, identified in the records as the spirits of particular crops — long beans (*frijol largo*), the chile plant — along with a batch of twelve female figures cut from dark bark paper, with eyes and mouth pierced, spikes on the head and a wide skirt. Paper dolls (*muñeca de papel*) in white tissue paper and a white paper napkin (*servilleta*) are catalogued as used for sorcery, and one silhouette was identified by its collector as *Señor de Noche*, companion of the "Señor de Montezuma". Dressed paper votive figures represent *La Madre Tierra*, Mother Earth, and her male consort. The sources used do not cover birth, marriage or funeral rites.
+Prehispanic Otomi religion was polytheist and closely related to that of the Nahua peoples, with Otomi counterparts for most of the major Nahua deities — Ehecatl-Quetzalcoatl as *Edähï*/*Ek'ënmaxi*, Tlaloc as *Hmü'ye*, Tlazolteotl as *Nopot'ejä*, Tlaltecuhtli as *Hmühai*, Mictecacihuatl as *Nohmüdü*. The most important were the fire-death god Otontecuhtli, also called Cuecuex and patronised by the Tepanec; the moon goddess *Zäna*, patronised at Xaltocan, Metztitlán and San Bartolo Tutotepec; and Yocippa. Two further deities are named: *Bizamofo*, "Harvest", and *Ojädäpo*, "Lord of the Mountain". The Otomi calendar closely resembled the Aztec one, most of the names being semantically equivalent, and many Otomi populations continue to practise shamanism and hold pre-Hispanic beliefs such as Nagualism. The ritual objects shown belong to this living practice. From San Pablito come cut-paper spirit figures with hands raised and plants growing from head, arms and legs, identified in the records as the spirits of particular crops — long beans (*frijol largo*), the chile plant — along with a batch of twelve female figures cut from dark bark paper, with eyes and mouth pierced, spikes on the head and a wide skirt. Paper dolls (*muñeca de papel*) in white tissue paper and a white paper napkin (*servilleta*) are catalogued as used for sorcery, and one silhouette was identified by its collector as *Señor de Noche*, companion of the "Señor de Montezuma". Dressed paper votive figures represent *La Madre Tierra*, Mother Earth, and her male consort.
 
 ## Foodways
 

@@ -61,8 +61,6 @@ Wood and horn dominate the documented object repertoire, with no ceramics among 
 
 ### Jewelry & body adornment
 
-The sources do not cover Cowichan jewelry, tattooing or hair practices.
-
 - **Abalone shell** — An adornment material used as an accent on a horn rattle.
 
 ## Music & performance
@@ -136,4 +134,3 @@ Cowichan speak Halkomelem, a Central Salish language near extinction with fewer 
 - https://en.wikipedia.org/wiki/Cowichan_language
 - British Museum online collection (https://www.britishmuseum.org/collection) — holds the Cowichan and Quamichan spindle whorls, horn rattles, horn spoon, *xwe-xwe* comb, cedar-bark bailer, fish-lure, smoking pipe and photographs described here.
 - No UNESCO Intangible Cultural Heritage elements are inscribed for Canada, so no ICH identifier is cited.
-

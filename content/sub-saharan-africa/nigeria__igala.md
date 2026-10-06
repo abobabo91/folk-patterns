@@ -43,7 +43,7 @@ The profile gives little information about everyday clothing but describes cerem
 
 ### Architecture
 
-The sources mention Igala cultural architecture but do not describe houses, settlements, or building types.
+The sources mention Igala cultural architecture.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -96,7 +96,7 @@ Igala ritual life honors the earth, ancestors, agriculture, hunting, and the dea
 
 ## Foodways
 
-Igala foodways center on farming, hunting, and trade, but the sources do not describe dishes or cooking methods.
+Igala foodways center on farming, hunting, and trade.
 
 - **Yam farming** — Yam is a major rainfed crop, and the first yam is planted during the earth festival.
 - **Rainfed crops** — Other rainfed crops include cocoyam, maize, pumpkin, and cassava.
@@ -144,4 +144,3 @@ Igala is a tonal Yoruboid language, and Igala religion centers on Ọjọ, ances
 - [Igala people](https://en.wikipedia.org/wiki/Igala_people)
 - [Igala language](https://en.wikipedia.org/wiki/Igala_language)
 - British Museum catalogue records for mirror-frame, stool, throne, loom, bell, bracelets, hair-pins, mask, figures, and *ikenga* objects cited in the supplied source material.
-

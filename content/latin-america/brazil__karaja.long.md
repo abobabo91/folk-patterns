@@ -47,11 +47,11 @@ Karajá adornment is of feather, bone, shell, wood, quartz, cotton and paint. Me
 
 ## Music & performance
 
-The instruments recorded are a gourd-and-bamboo trumpet, *jurona*, catalogued as a decoy, and rattles: gourd rattles on wooden handles, one with a feather tuft and fields of burnt line, another with patterned basket plaiting at the join, and the tortoise-shell *weru* tied to a man's upper leg so that the dancer sounds his own step. Song has its own vocabulary and its own genderlect: 'song' spoken by a man is *wi* in Northern Karajá and *wiu* in the South, and the Karajá word *wii* 'song, chant' was borrowed into Mẽbêngôkre as *wiwi*. Performance belongs to the dry season, when the villages host festivals. Beyond this the sources used do not describe song genres, ensembles or singing occasions in detail.
+The instruments recorded are a gourd-and-bamboo trumpet, *jurona*, catalogued as a decoy, and rattles: gourd rattles on wooden handles, one with a feather tuft and fields of burnt line, another with patterned basket plaiting at the join, and the tortoise-shell *weru* tied to a man's upper leg so that the dancer sounds his own step. Song has its own vocabulary and its own genderlect: 'song' spoken by a man is *wi* in Northern Karajá and *wiu* in the South, and the Karajá word *wii* 'song, chant' was borrowed into Mẽbêngôkre as *wiwi*. Performance belongs to the dry season, when the villages host festivals.
 
 ## Dance & theatre
 
-The named tradition is the **aruanã** masquerade. A mask collected at Barra do Tapirapé in December 1962 is a tall hood of basketwork and feathers with two accompanying grass skirts, catalogued for ceremonial use. Masking is attested further by loanword evidence: Karajá took *txakohi*, the Txakohi ceremonial mask, from Apyãwa, and gave Apyãwa *irãwore*, the Irabure ceremonial mask. The feathered mat board *bykyrè ritxore* is recorded as bearing dance figures. The sources used do not describe the choreography, the dancers' roles, or any theatrical repertoire beyond these masks.
+The named tradition is the **aruanã** masquerade. A mask collected at Barra do Tapirapé in December 1962 is a tall hood of basketwork and feathers with two accompanying grass skirts, catalogued for ceremonial use. Masking is attested further by loanword evidence: Karajá took *txakohi*, the Txakohi ceremonial mask, from Apyãwa, and gave Apyãwa *irãwore*, the Irabure ceremonial mask. The feathered mat board *bykyrè ritxore* is recorded as bearing dance figures.
 
 ## Festivals & rituals
 

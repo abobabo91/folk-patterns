@@ -31,27 +31,27 @@ The Sinhalese people, also known as the Sinhalese or Sinhala people, are an Indo
 
 ### Clothing & dress
 
-During recreation, Sinhalese men traditionally wear a *sarong*, called *sarama* in Sinhala, sometimes with a long-sleeved shirt. Women’s clothing varies by region. Low-country women wear a white long-sleeved jacket with a tight wraparound skirt, while up-country women wear a puffed-up shoulder jacket and a frilled skirt top. High-caste Kandyan women traditionally wear the Kandyan sari, or *Osariya*. For formal and ceremonial occasions, women wear the Kandyan style, consisting of a full blouse that covers the midriff and is partly tucked in at the front. In more populated areas, men also wear Western-style clothing, including suits, while women wear skirts and blouses. The sources do not document head coverings, belts or footwear.
+During recreation, Sinhalese men traditionally wear a *sarong*, called *sarama* in Sinhala, sometimes with a long-sleeved shirt. Women’s clothing varies by region. Low-country women wear a white long-sleeved jacket with a tight wraparound skirt, while up-country women wear a puffed-up shoulder jacket and a frilled skirt top. High-caste Kandyan women traditionally wear the Kandyan sari, or *Osariya*. For formal and ceremonial occasions, women wear the Kandyan style, consisting of a full blouse that covers the midriff and is partly tucked in at the front. In more populated areas, men also wear Western-style clothing, including suits, while women wear skirts and blouses.
 
 ### Architecture
 
-Sinhalese architectural history includes the ancient cities of Anuradhapura and Polonnaruwa. The sources name Ruwanwelisaya, Jetavanaramaya and Abayagiriya as architectural examples, and describe Jetavanaramaya as the second tallest brick building in the ancient world after the Great Pyramid of Giza and Abayagiriya as the third tallest. Sigiriya is described as a combination of natural and human-made fortress, with frescoes and many architectural aspects. Sinhalese hydraulic technology included ancient tanks, systematic ponds with fountains, moats and irrigation reservoirs, including Parakrama Samudra, Kaudulla and Kandalama. The sources do not describe vernacular house forms, roof types or ordinary domestic construction in detail.
+Sinhalese architectural history includes the ancient cities of Anuradhapura and Polonnaruwa. The sources name Ruwanwelisaya, Jetavanaramaya and Abayagiriya as architectural examples, and describe Jetavanaramaya as the second tallest brick building in the ancient world after the Great Pyramid of Giza and Abayagiriya as the third tallest. Sigiriya is described as a combination of natural and human-made fortress, with frescoes and many architectural aspects. Sinhalese hydraulic technology included ancient tanks, systematic ponds with fountains, moats and irrigation reservoirs, including Parakrama Samudra, Kaudulla and Kandalama.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources mention traditional wooden handicrafts and clay pottery in the hill country. Museum catalogue records include a wooden and metal knife identified as a *pihiya*, a bell called *sinuva* or *ghantaraya* in Sinhala, and an ivory comb decorated with two kinnaras holding vinas. The bell is recorded as being used by Sinhalese and Hindus in Buddhist or Hindu temples throughout Sri Lanka. Other records include ivory figures of a disave or Kandyan provincial governor and of a female in court dress. The sources do not provide a fuller account of household ceramics or metalworking techniques.
+The sources mention traditional wooden handicrafts and clay pottery in the hill country. Museum catalogue records include a wooden and metal knife identified as a *pihiya*, a bell called *sinuva* or *ghantaraya* in Sinhala, and an ivory comb decorated with two kinnaras holding vinas. The bell is recorded as being used by Sinhalese and Hindus in Buddhist or Hindu temples throughout Sri Lanka. Other records include ivory figures of a disave or Kandyan provincial governor and of a female in court dress.
 
 ### Jewelry & body adornment
 
-The sources do not provide a general account of Sinhalese jewelry, tattooing, henna, hair practices or other forms of body adornment. Museum records mention earrings and elongated earlobes in the description of a Kolam mask representing a possible vädda princess, but this is a description of a mask character rather than documentation of Sinhalese personal adornment.
+Museum records mention earrings and elongated earlobes in the description of a Kolam mask representing a possible vädda princess, but this is a description of a mask character rather than documentation of Sinhalese personal adornment.
 
 ## Music & performance
 
-Buddhist festivals use distinctive music played on traditional Sinhalese instruments, although the supplied sources do not name the instruments. Folk poems relating to particular jobs were communal songs with a rhythm, sung during everyday tasks such as harvesting and sowing. These poems were traditionally composed in four lines, with attention to rhyme.
+Buddhist festivals use distinctive music played on traditional Sinhalese instruments. Folk poems relating to particular jobs were communal songs with a rhythm, sung during everyday tasks such as harvesting and sowing. These poems were traditionally composed in four lines, with attention to rhyme.
 
 In popular music, Ananda Samarakoon developed the reflective and poignant *Sarala gee* style in the late 1930s and early 1940s. The sources also name Sunil Shantha, W. D. Amaradeva, Premasiri Khemadasa, Nanda Malini, Victor Ratnayake, Austin Munasinghe, T. M. Jayaratne, Sanath Nandasiri, Sunil Edirisinghe, Neela Wickremasinghe, Gunadasa Kapuge, Malini Bulathsinghala and Edward Jayakody as artists of repute.
 
-The supplied museum records document bells used in Buddhist and Hindu temples and costume elements used in demon ceremonies. They do not describe named musical instruments, song structures beyond the folk poems, or performance settings such as weddings, funerals or court music.
+The supplied museum records document bells used in Buddhist and Hindu temples and costume elements used in demon ceremonies.
 
 ## Dance & theatre
 
@@ -66,8 +66,6 @@ Tovil is a demon-exorcism performance tradition. The museum records include cott
 The sources state that Buddhist festivals are marked by distinctive music and that more ancient rituals such as *tovils*, or devil exorcisms, continue to be performed. These rituals praise and invoke the powers of the Buddha and the gods to exorcise demons. Pahatharata dance is likewise connected with healing and spiritual clarification.
 
 The Sinhalese New Year is an important seasonal performance context. Folk music and dances are widely performed during this period. *Kiribath*, or milk rice, is prepared for special occasions including birthdays, New Years’ and religious festivals. During *Aluth Avurudu/Puthandu*, identified in the cuisine source as the Sinhalese/Tamil New Year, kiribath is served with sweets including *kavum*, *kokis*, *mung kavum* and *od iba*.
-
-The sources do not describe birth ceremonies, coming-of-age rites, weddings or funerals. They also do not provide a complete annual festival calendar or specific festival dates.
 
 ## Foodways
 

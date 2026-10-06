@@ -11,17 +11,9 @@ The Mishmi are an ethnic group of Tibet and Arunachal Pradesh, India, in the are
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Mishmi textile or pattern traditions.
-
 ### Clothing & dress
 
-The sources used document clothing objects but do not describe everyday or ceremonial dress in detail. A British Museum catalogue records a coat made of skin and a hat made from the skin of *Ailurus fulgens* [red panda], bound at the ends with a thin strip of leather. It also records a basketry hat filled possibly with palm leaves. The sources do not name garments, belts, footwear or gender-specific dress traditions.
-
-### Architecture
-
-The sources used do not describe Mishmi houses, roofs, settlement forms, building materials or architectural decoration.
+The sources used document clothing objects. A British Museum catalogue records a coat made of skin and a hat made from the skin of *Ailurus fulgens* [red panda], bound at the ends with a thin strip of leather. It also records a basketry hat filled possibly with palm leaves.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -29,23 +21,15 @@ The museum catalogue records objects made from iron, wood, rattan, silver, bambo
 
 ### Jewelry & body adornment
 
-The sources used do not document Mishmi jewelry, tattoos, henna, hair practices or ritual body adornment. The catalogue records a silver knife sheath with a Chinese seal attached by a cord, but does not describe it as personal adornment.
-
-## Music & performance
-
-The sources used do not document Mishmi musical instruments, song genres, musical performance contexts or named music traditions.
-
-## Dance & theatre
-
-The sources used do not document Mishmi dances, theatre, dramatic traditions or performance distinctions.
+The catalogue records a silver knife sheath with a Chinese seal attached by a cord.
 
 ## Festivals & rituals
 
-The sources used do not document an annual festival calendar, seasonal celebrations or life-cycle rites. They record a creation account in which, long ago, the world was a vast flood; Deraogao created the earth, and the gold-people Ajiani married the eagle. The Deng people are described as the offspring of this union, and Ajiani is identified as their ancestor in Deng folklore.
+The sources record a creation account in which, long ago, the world was a vast flood; Deraogao created the earth, and the gold-people Ajiani married the eagle. The Deng people are described as the offspring of this union, and Ajiani is identified as their ancestor in Deng folklore.
 
 ## Foodways
 
-The sources used do not document Mishmi staple foods, dishes, cooking methods, ceremonial foods, beverages or dietary rules. The Wikipedia source states that governmental representatives carried tea and cigarettes as “political presents” during British efforts to win over local native people, but it does not describe Mishmi foodways.
+The Wikipedia source states that governmental representatives carried tea and cigarettes as “political presents” during British efforts to win over local native people.
 
 ## Oral tradition & literature
 
@@ -53,7 +37,7 @@ The sources document a Deng creation myth. In the account, Deraogao created the 
 
 ## Language & religion
 
-Mishmi languages are described as several Sino-Tibetan languages spoken by the Mishmi people of Tibet, China and Arunachal Pradesh, India. They are not a single branch or genetic grouping, but a cultural grouping of various Sino-Tibetan languages that are not closely related to each other. The sources name Idu Lhoba, Yidu Lhoba, Taraon, Darang Deng, Kaman Deng, Geman Deng, Taraung, Tayin and Tain in connection with Mishmi groups and languages. The sources used do not provide a script, a detailed religious system or a description of current religious practice.
+Mishmi languages are described as several Sino-Tibetan languages spoken by the Mishmi people of Tibet, China and Arunachal Pradesh, India. They are not a single branch or genetic grouping, but a cultural grouping of various Sino-Tibetan languages that are not closely related to each other. The sources name Idu Lhoba, Yidu Lhoba, Taraon, Darang Deng, Kaman Deng, Geman Deng, Taraung, Tayin and Tain in connection with Mishmi groups and languages.
 
 ## Sources & further reading
 

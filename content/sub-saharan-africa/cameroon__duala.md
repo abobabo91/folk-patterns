@@ -25,19 +25,11 @@ The supplied records show carved wood as the main form of Duala material culture
 
 ### Textile & pattern traditions
 
-The sources do not document a distinctive Duala textile tradition.
-
 - **Carved wooden stools** — Stools have crescent-shaped seats, open-work bases, backrests, and carved figures, animals, or patterns.
 - **Leopard motif** — Leopards appear on some stools, along with circles of burnt decoration.
 - **Serpent motif** — One stool has two S-shaped serpents supporting its open-work base.
 
-### Clothing & dress
-
-The sources do not describe Duala everyday or ceremonial clothing.
-
 ### Architecture
-
-The sources do not describe a named Duala house or building style.
 
 - **Douala property** — Many Duala live in and around Douala, and some own city property that provides rent and development income.
 
@@ -50,10 +42,6 @@ The supplied records mainly show carved wooden objects and one small instrument 
 - **Inscribed stool** — One stool has a bird, two leopards, and the inscription “KAMEFUN.”
 - **Pigmented stool** — A pale carved wooden stool has pigment and letters on its seat.
 
-### Jewelry & body adornment
-
-The sources do not document Duala jewelry or named body-adornment practices.
-
 ## Music & performance
 
 Duala performance traditions include coded drum messages, a small keyed instrument, and musical pirogue racing.
@@ -64,10 +52,8 @@ Duala performance traditions include coded drum messages, a small keyed instrume
 
 ## Dance & theatre
 
-The sources do not document a named Duala dance or theatre form.
-
 - **Annual festivals** — Traditional annual festivals are described as visible expressions of pre-Christian beliefs.
-- **Secret societies** (*Ekongolo, Jengu, Losango, Munji*) — The sources mention these secret societies but do not describe their performances.
+- **Secret societies** (*Ekongolo, Jengu, Losango, Munji*) — The sources mention these secret societies.
 
 ## Festivals & rituals
 
@@ -81,7 +67,7 @@ Duala religious life combines Christianity with ancestor worship and belief in s
 
 ## Foodways
 
-Fishing is the main rural trade, but the sources do not name Duala foods or cooking methods.
+Fishing is the main rural trade.
 
 - **Fishing** — Rural Duala mainly work as fishermen and farmers, usually at subsistence level.
 - **Successful fishing** — A museum photograph shows people from Duala after a successful fishing trip.
@@ -133,4 +119,3 @@ Duala is a tonal Bantu language shaped by trade, missionary work, and changing c
 - [Duala people](https://en.wikipedia.org/wiki/Duala_people)
 - [Duala language](https://en.wikipedia.org/wiki/Duala_language)
 - British Museum, Metropolitan Museum of Art, Museum of Ethnography, and Museum of World Culture catalogue records supplied for the objects illustrated in this atlas.
-

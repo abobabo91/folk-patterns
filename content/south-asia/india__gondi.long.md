@@ -41,7 +41,7 @@ Earthenware appears as a tobacco pipe and as the body of a friction drum. Brass 
 
 ### Jewelry & body adornment
 
-Cast metal dominates. A hinged brass bracelet made in two parts is pegged shut with wood and tied with twisted fibre, its central ring throwing off ovals and stemmed flowers. Anklets come as pairs of many separate interlocking grey-metal plates, each pierced twice, threaded on twisted fibre and fastened at one side with a stick; each plate is patterned with dots of different sizes and the band widens from top to bottom. Women's ear-ornaments are cast in white metal as ten-petalled flowers with a thick white-metal wire through the centre. A white-metal neck-ring carries coiled wire decoration and fastens with a hook and two rings. Iron ornaments serve as god symbols: the men's figure-of-eight snake necklace, closed chains of interlocking iron links representing a snake, and penannular iron bands, one of square section with a spiral twist, another twisted with each end curled back. The sources do not describe tattooing or hair practice.
+Cast metal dominates. A hinged brass bracelet made in two parts is pegged shut with wood and tied with twisted fibre, its central ring throwing off ovals and stemmed flowers. Anklets come as pairs of many separate interlocking grey-metal plates, each pierced twice, threaded on twisted fibre and fastened at one side with a stick; each plate is patterned with dots of different sizes and the band widens from top to bottom. Women's ear-ornaments are cast in white metal as ten-petalled flowers with a thick white-metal wire through the centre. A white-metal neck-ring carries coiled wire decoration and fastens with a hook and two rings. Iron ornaments serve as god symbols: the men's figure-of-eight snake necklace, closed chains of interlocking iron links representing a snake, and penannular iron bands, one of square section with a spiral twist, another twisted with each end curled back.
 
 ## Music & performance
 
@@ -49,7 +49,7 @@ The collected instruments cover most of a village ensemble. A kettledrum is turn
 
 ## Dance & theatre
 
-Two named dances appear in the sources. In Chhattisgarh, women perform the *sua* dance, named after the word for parrot, after Diwali, in honour of Shiva and Parvati; it carries the belief that the parrot will carry their sadness to their lovers. In Adilabad, Diwali is celebrated with the *Gussadi* dance, whose performers wear peacock-feathered turbans and saffron attire and move in festive groups. The museum set includes the women's dance equipment: wooden castanets, each with a plain pierced lug for a handle — one rounded, one squared. A rattle of bamboo, pierced by two twisted iron handles strung with iron rings, belongs to hunting rather than to dance. No dramatic or puppet tradition is described in the sources.
+Two named dances appear in the sources. In Chhattisgarh, women perform the *sua* dance, named after the word for parrot, after Diwali, in honour of Shiva and Parvati; it carries the belief that the parrot will carry their sadness to their lovers. In Adilabad, Diwali is celebrated with the *Gussadi* dance, whose performers wear peacock-feathered turbans and saffron attire and move in festive groups. The museum set includes the women's dance equipment: wooden castanets, each with a plain pierced lug for a handle — one rounded, one squared. A rattle of bamboo, pierced by two twisted iron handles strung with iron rings, belongs to hunting rather than to dance.
 
 ## Festivals & rituals
 

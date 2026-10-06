@@ -11,51 +11,29 @@ The Sara, sometimes referred to as the Kaba, are a Central Sudanic ethnic group 
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Sara textile or pattern traditions.
-
-**Motif vocabulary.** The sources used do not name Sara motifs.
-
-### Clothing & dress
-
-The sources used do not describe everyday or ceremonial clothing, gendered dress, head coverings, belts, footwear, or other Sara garments.
-
-### Architecture
-
-The sources used do not describe Sara houses, granaries, roofs, settlement forms, architectural decoration, or urban traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 The museum catalogue records include several iron throwing-knives, including examples with leather-bound handles, punched decoration, and a handle wrapped in reptile skin. One record describes five iron throwing knives with an associated hide sheath; another describes four iron throwing knives in a composite leather sheath reinforced with bark, with ornamental stitching and triangular holes. A cane shield has a wooden framework covered with painted cane slats, a leather-wrapped outside edge, and a hide handle tied on the back. The catalogue also records an iron crescent moon-shaped hoe-blade currency called *sakania*, wooden lip plugs, and a smaller lip plug with engraved decoration.
 
 ### Jewelry & body adornment
 
-The sources used record wooden lip plugs, including pairs in which the smaller plug has engraved decoration. They do not describe jewelry, tattoos, henna, hair practices, or ritual functions of body adornment.
+The sources used record wooden lip plugs, including pairs in which the smaller plug has engraved decoration.
 
 ## Music & performance
 
-The sources used do not document Sara musical instruments, song genres, musical performances, dance accompaniment, weddings, funerals, courts, or other performance contexts. No UNESCO Intangible Cultural Heritage inscription for Chad is supplied in the sources.
-
-## Dance & theatre
-
-The sources used do not document Sara dances, theatrical traditions, mask performances, dramatic forms, or distinctions between ceremonial and entertainment performance.
+No UNESCO Intangible Cultural Heritage inscription for Chad is supplied in the sources.
 
 ## Festivals & rituals
 
-The Sara social order was formerly united into a single polity with a national language, national identity, and national religion. Many Sara people have retained their ethnic religion, described in the source as animism, while others have converted to Christianity and Islam. The sources used do not describe an annual festival calendar, seasonal ceremonies, initiation rites, weddings, funerals, or other life-cycle rituals.
+The Sara social order was formerly united into a single polity with a national language, national identity, and national religion. Many Sara people have retained their ethnic religion, described in the source as animism, while others have converted to Christianity and Islam.
 
 ## Foodways
 
-Sara subsistence is primarily through hoe farming. Taro, yams, and sweet potatoes are identified as the main staples. Cattle, sheep, goats, chickens, and small horses are also raised. The sources used do not name Sara dishes, cooking methods, ceremonial foods, beverages, dietary rules, or food-related festivals.
-
-## Oral tradition & literature
-
-The sources used do not document Sara folktales, epics, proverbs, riddles, storytelling contexts, literary works, or preservation projects.
+Sara subsistence is primarily through hoe farming. Taro, yams, and sweet potatoes are identified as the main staples. Cattle, sheep, goats, chickens, and small horses are also raised.
 
 ## Language & religion
 
-The Sara people natively speak the Sara languages. These are described as part of the Central Sudanic language family and also as belonging to the Central Sudanic languages of the Nilo-Saharan language family. The source lists several related language names: Sara languages, Sar language, Sara Gula language, Sara Kaba language, Sara Laka language, Sara Mbay language, and Sara Ngam language. The Sara are described as mainly Christian and animist, with a minority of Muslims; the source also refers to animism as their ethnic religion. The sources used do not describe scripts, dialect structure, religious specialists, or specific spiritual practices.
+The Sara people natively speak the Sara languages. These are described as part of the Central Sudanic language family and also as belonging to the Central Sudanic languages of the Nilo-Saharan language family. The source lists several related language names: Sara languages, Sar language, Sara Gula language, Sara Kaba language, Sara Laka language, Sara Mbay language, and Sara Ngam language. The Sara are described as mainly Christian and animist, with a minority of Muslims; the source also refers to animism as their ethnic religion.
 
 ## Sources & further reading
 

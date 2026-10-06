@@ -43,10 +43,6 @@ Known Masa clothing records include fibre-string dress, hide clothing, armour, h
 - **Reed shield** — Recorded shields are made of reed, or of reed, wood, and hide.
 - **Greave** — A recorded greave is made in basketry from cane and leaf.
 
-### Architecture
-
-The sources give no information about Masa houses, settlements, or named buildings.
-
 ### Ceramics, metalwork & everyday objects
 
 Recorded everyday objects include baskets, fishing gear, rattles, metal objects, and a harp.
@@ -68,7 +64,7 @@ The documented Masa adornments are metal anklets, collars, bracelets, and tin li
 
 ## Music & performance
 
-Museum records show several instruments, but the sources do not give their Masa names or performance settings.
+Museum records show several instruments.
 
 - **Harp** — A harp is made of wood with wire strings.
 - **Rattles** — A pair of rattles is made of wicker, gourd, leather, and beads.
@@ -143,9 +139,7 @@ Massa is a Chadic language with several dialects, and the sources describe large
 
 ## Sources & further reading
 
-- The supplied sources do not provide books, publishers, publication years, or named documentation projects.
 - [Masa people — Wikipedia](https://en.wikipedia.org/wiki/Masa_people)
 - [Masa language — Wikipedia](https://en.wikipedia.org/wiki/Masa_language)
 - UNESCO Intangible Cultural Heritage: the supplied sources identify no inscription for this ethnic group.
 - British Museum catalogue records supplied for the objects shown.
-

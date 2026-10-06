@@ -13,8 +13,6 @@ The Pedi, also called Bapedi, are a Sotho-Tswana ethnic group native to South Af
 
 ### Textile & pattern traditions
 
-The sources used do not identify named Pedi textile traditions or provide a catalogue of specific vernacular pattern traditions.
-
 **Beaded animal-fur apron** — British Museum records describe an apron made of animal fur, with a wide central band, narrow side strips and ties. Its exterior is decorated with predominantly white glass beads, together with red, black, dark blue and orange beads, including beaded discs and a central diamond-shaped decoration.
 
 **Beaded fur apron with waistband** — Another apron has a doubled-over fur waistband, twisted cotton strings coated with red earth, alternating white and dark blue triangular bead arrangements, and additional fur decorated with white, mid-blue and red glass beads.
@@ -27,7 +25,7 @@ Important documented crafts included beadwork, pottery, house building and paint
 
 ### Clothing & dress
 
-The sources provide limited information about everyday and ceremonial dress. Museum records document aprons made of animal fur, including one with a wide central band, narrow side strips and ties, and another with a fur waistband, twisted cotton strings, red earth coating and glass-bead decoration. The records also identify a grass belt on a fibre string. They do not describe footwear, head coverings, ordinary male clothing or a complete ceremonial costume system. The sources do, however, describe women’s traditional dance, in which women dance on their knees and perform vigorous movement of the upper torso; they do not specify a separate dress associated with this performance.
+The sources provide limited information about everyday and ceremonial dress. Museum records document aprons made of animal fur, including one with a wide central band, narrow side strips and ties, and another with a fur waistband, twisted cotton strings, red earth coating and glass-bead decoration. The records also identify a grass belt on a fibre string. The sources do, however, describe women’s traditional dance, in which women dance on their knees and perform vigorous movement of the upper torso; they do not specify a separate dress associated with this performance.
 
 ### Architecture
 
@@ -39,7 +37,7 @@ Pedi crafts included pottery, metalsmithing, woodworking and drum making. The Br
 
 ### Jewelry & body adornment
 
-The sources do not describe named Pedi jewelry types, tattooing, hair practices or other body-adornment systems. They do document extensive glass-bead decoration on animal-fur aprons, including white, red, black, dark blue, orange and mid-blue beads arranged in borders, discs, triangular patterns and a central diamond-shaped design.
+The sources document extensive glass-bead decoration on animal-fur aprons, including white, red, black, dark blue, orange and mid-blue beads arranged in borders, discs, triangular patterns and a central diamond-shaped design.
 
 ## Music & performance
 
@@ -51,11 +49,11 @@ The sources list several types of cultural music: *Mpepetlwane*, played by young
 
 ## Dance & theatre
 
-Traditional women’s dance is performed on the knees and is accompanied by drums, backing vocals and a lead singer. The women’s *koša ya dikhuru* repertoire is associated with kneeling dance and vigorous shaking movements of the upper torso. The sources describe these dances as occurring at drinking parties and celebrations such as weddings. They also describe **Dinaka/Kiba** as a combined musical and dance tradition, but do not provide further named theatrical forms, masked performances or dramatic traditions.
+Traditional women’s dance is performed on the knees and is accompanied by drums, backing vocals and a lead singer. The women’s *koša ya dikhuru* repertoire is associated with kneeling dance and vigorous shaking movements of the upper torso. The sources describe these dances as occurring at drinking parties and celebrations such as weddings. They also describe **Dinaka/Kiba** as a combined musical and dance tradition.
 
 ## Festivals & rituals
 
-The sources do not identify an annual Pedi festival calendar or provide names and dates for seasonal festivals. They do describe life-cycle and social rituals. Both girls and boys underwent initiation. Boys, called *bašemane* and later *mašoboro*, spent their youth looking after cattle at remote outposts with peers and older youths. Circumcision and initiation at *koma*, an initiation school, were held about once every five years. Initiates entered cohorts or regiments called *mephato*, whose members maintained lifelong loyalty and often traveled together for work.
+The sources describe life-cycle and social rituals. Both girls and boys underwent initiation. Boys, called *bašemane* and later *mašoboro*, spent their youth looking after cattle at remote outposts with peers and older youths. Circumcision and initiation at *koma*, an initiation school, were held about once every five years. Initiates entered cohorts or regiments called *mephato*, whose members maintained lifelong loyalty and often traveled together for work.
 
 Girls attended their own *koma* and entered their own regiments, called *ditswa-bothuku*, usually two years after the boys. Initiation continues to provide income to chiefs who license it and to private entrepreneurs who establish schools outside chiefly jurisdiction.
 
@@ -65,11 +63,11 @@ Marriage was patrilocal. Polygamy was practiced especially by people of higher o
 
 The pre-conquest economy combined cattle-keeping with hoe cultivation. Principal crops were sorghum, pumpkins and legumes, grown by women on fields allocated to them when they married. Women ground grain, cooked, brewed and collected water and wood. Men herded cattle, hunted and worked in wood and metal. Major tasks were often completed communally by *matsema*, or work parties.
 
-The sources do not name specific prepared dishes, food taboos, tea or coffee traditions, or a ceremonial cuisine. Museum records document household food-related objects, including woven food baskets, carved wooden meat trays and dishes, wooden spoons, and dish covers made of coiled grass and cane. One record describes a triple circular meat tray with four short legs and a stub handle; another describes a double meat tray or bowl with a short footed base.
+Museum records document household food-related objects, including woven food baskets, carved wooden meat trays and dishes, wooden spoons, and dish covers made of coiled grass and cane. One record describes a triple circular meat tray with four short legs and a stub handle; another describes a double meat tray or bowl with a short footed base.
 
 ## Oral tradition & literature
 
-The sources do not provide named Pedi folktales, epic poems, proverbs, riddles or a documented storytelling cycle. They do mention songs performed during work and a song about killing a lion to become a man. Pedi music is also discussed as a field in which scholars emphasize studying indigenous African music from the perspective and language of practitioners.
+The sources mention songs performed during work and a song about killing a lion to become a man. Pedi music is also discussed as a field in which scholars emphasize studying indigenous African music from the perspective and language of practitioners.
 
 ## Language & religion
 

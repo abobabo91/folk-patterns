@@ -87,10 +87,6 @@ Mossi ceremonies connect royal power, ancestor duties, public festivals, and fun
 - **Funeral and memorial rites** — Funerals and later memorial services help guide the spirit of a dead elder, while an improper funeral is believed to bring trouble to descendants.
 - **Doll wedding rite** — After a girl’s excision ceremony, her doll is placed in a hut and given to her younger sister on the sister’s wedding night.
 
-## Foodways
-
-The profile gives no information about Mossi food or cooking.
-
 ## Oral tradition & literature
 
 Mossi history is preserved mainly through oral tradition and tells of the founding family of the Mossi.
@@ -135,4 +131,3 @@ Mooré is the main Mossi language, while spiritual life centers on ancestors, la
 - [Mossi language](https://en.wikipedia.org/wiki/Mossi_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group was included in the sources.
 - British Museum, Museum of World Culture, and Cleveland Museum of Art catalogue records supplied for the objects shown.
-

@@ -13,9 +13,9 @@ The Rapa Nui are Indigenous Polynesian peoples of Easter Island and represent th
 
 ### Textile & pattern traditions
 
-*Feather headdresses* were historically made by the Rapa Nui, but the supplied sources do not describe their construction or patterns.
+*Feather headdresses* were historically made by the Rapa Nui.
 
-*Bark cloth* is named among historical Rapa Nui arts, although the sources do not provide further information about its materials, techniques, or designs.
+*Bark cloth* is named among historical Rapa Nui arts.
 
 *Flätad påse* — a plait bag recorded by the Museum of World Culture was made from *Scirpus ripar var. paschalis*. The catalogue identifies its locality as Easter Island.
 
@@ -27,33 +27,33 @@ The Rapa Nui are Indigenous Polynesian peoples of Easter Island and represent th
 
 ### Clothing & dress
 
-The supplied sources do not describe everyday or ceremonial Rapa Nui clothing, distinctions between men’s and women’s dress, belts, footwear, or named garments. They do document feather headdresses and tattooing as aspects of Rapa Nui culture. Priests, warriors, and chiefs historically had more tattoos than the rest of the population, while both men and women were tattooed to represent social class. The tattooing process used bone needles and combs called *Uhi*, made from bird or fish bones. Ink was produced from natural materials, primarily through burning *Ti* leaves and sugar cane. The sources do not identify particular garments, head coverings, or footwear.
+The sources document feather headdresses and tattooing as aspects of Rapa Nui culture. Priests, warriors, and chiefs historically had more tattoos than the rest of the population, while both men and women were tattooed to represent social class. The tattooing process used bone needles and combs called *Uhi*, made from bird or fish bones. Ink was produced from natural materials, primarily through burning *Ti* leaves and sugar cane.
 
 ### Architecture
 
-The supplied museum records identify houses of stone on Easter Island, but do not describe their plan, roof form, construction method, or decoration. The Rapa Nui culture section records large stone platforms called *ahu*, on which moai rested. The most famous named examples are Ahu Tongariki, described as the largest ahu, and Ahu Vinapu. Most settlements in the mythology source were located on the coast, and moai were erected along the coastline, facing their descendants in the settlements. The sources do not provide a fuller account of domestic architecture or urban organization.
+The supplied museum records identify houses of stone on Easter Island. The Rapa Nui culture section records large stone platforms called *ahu*, on which moai rested. The most famous named examples are Ahu Tongariki, described as the largest ahu, and Ahu Vinapu. Most settlements in the mythology source were located on the coast, and moai were erected along the coastline, facing their descendants in the settlements.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not describe Rapa Nui ceramics or metalwork. They do document stone tools, including adzes described as blunt round stones, which were used in the completion of stone images and wood carvings. Museum records include dance paddles called *Rapa*, a plait bag, wooden *rei miro* gorgets, wooden figures, and figures made from wood, obsidian, bone, and, in one case, paint. The Rapa Nui language source also records *toki*, meaning axe, as a Mapuche/Rapa Nui cognate.
+The sources document stone tools, including adzes described as blunt round stones, which were used in the completion of stone images and wood carvings. Museum records include dance paddles called *Rapa*, a plait bag, wooden *rei miro* gorgets, wooden figures, and figures made from wood, obsidian, bone, and, in one case, paint. The Rapa Nui language source also records *toki*, meaning axe, as a Mapuche/Rapa Nui cognate.
 
 ### Jewelry & body adornment
 
-The sources describe tattoos and body painting as having a fundamentally spiritual connotation. Tattoos could be regarded as a receptor for divine strength or *mana* and were manifestations of Rapa Nui culture. Priests, warriors, and chiefs had more tattoos as a sign of hierarchy, while men and women were tattooed to represent social class. Tattoo designs combined anthropomorphic and zoomorphic imagery. Young people are described as bringing back Rapa Nui tattoos, with local artists basing their work on traditional motifs. The museum catalogue also records *rei miro*, a wooden gorget, but does not explain its use or social meaning.
+The sources describe tattoos and body painting as having a fundamentally spiritual connotation. Tattoos could be regarded as a receptor for divine strength or *mana* and were manifestations of Rapa Nui culture. Priests, warriors, and chiefs had more tattoos as a sign of hierarchy, while men and women were tattooed to represent social class. Tattoo designs combined anthropomorphic and zoomorphic imagery. Young people are described as bringing back Rapa Nui tattoos, with local artists basing their work on traditional motifs. The museum catalogue also records *rei miro*, a wooden gorget.
 
 ## Music & performance
 
 Rapa Nui traditional music consists of choral singing and chanting. The sources name conch shell trumpets, percussive dancers, accordions, and *kauaha*, a percussion instrument made from the jaw bone of a horse. Modern Rapanui music has produced new genres, including a Rapa Nui style of tango. *Matato'a* is identified as one of the most famous musical groups on the island and as a promoter of traditional styles of dance and music.
 
-The sources do not describe a detailed calendar of musical performances, wedding or funeral contexts, or named song genres beyond these forms. They do, however, connect music with dance and identify traditional dance and music as central subjects of contemporary cultural promotion.
+The sources do, however, connect music with dance and identify traditional dance and music as central subjects of contemporary cultural promotion.
 
 ## Dance & theatre
 
-The sources mention Rapa Nui dance in connection with traditional music and identify *Matato'a* as a group promoting traditional styles of dance and music. A Metropolitan Museum of Art catalogue records the *Rapa*, or dance paddle, a wooden object from the early 19th century. Another museum catalogue records clubs, staffs, and paddles from Easter Island, although the catalogue marks their identification as uncertain. The supplied sources do not describe named dances, theatrical genres, mask traditions, or distinctions between ceremonial and entertainment performances.
+The sources mention Rapa Nui dance in connection with traditional music and identify *Matato'a* as a group promoting traditional styles of dance and music. A Metropolitan Museum of Art catalogue records the *Rapa*, or dance paddle, a wooden object from the early 19th century. Another museum catalogue records clubs, staffs, and paddles from Easter Island, although the catalogue marks their identification as uncertain.
 
 ## Festivals & rituals
 
-The supplied sources do not provide an annual Rapa Nui festival calendar or descriptions of weddings, funerals, birth rites, or coming-of-age ceremonies. They do describe the *Tangata manu*, or bird-man cult, which followed the Moai era after warfare and the cessation of statue construction. The competition involved eggs and selected the birdman who would remain sacred for five months. The cult’s chief deity was Make-make.
+The sources describe the *Tangata manu*, or bird-man cult, which followed the Moai era after warfare and the cessation of statue construction. The competition involved eggs and selected the birdman who would remain sacred for five months. The cult’s chief deity was Make-make.
 
 The mythology source states that the cult declined after the island population adopted Catholicism, although the birdman remained present in the decoration of the island’s church. Rapa Nui mythology also describes a former relationship between the living and the dead: deified ancestors were believed to provide health, fertility of land and animals, and fortune, while the living offered support intended to improve the dead’s place in the spirit world.
 
@@ -63,13 +63,13 @@ Rapa Nui or Pascuense cuisine combines Indigenous Rapa Nui and American influenc
 
 *Po'e* is a pudding made from mashed bananas, pumpkin, and flour and baked in the *umu pae*. Other named dishes include *tunu ahi*, fish grilled on hot stones, ceviche, and pork or mutton ribs. The Easter Island cuisine section also records *Po`e* as a banana or cassava cake and *Umu Rapa Nui* as the Easter Island version of curanto.
 
-Easter Island cuisine includes dishes of both Chilean and Polynesian extraction, a wider array of fish than mainland cuisine, and fruits and tubers unavailable in continental Chile. Ceviche may be made with soy or coconut milk and with *mata huira*, *toremo*, or *kana-kana*. The sources do not describe dietary rules, tea or coffee customs, or ceremonial food beyond the named cooking practices.
+Easter Island cuisine includes dishes of both Chilean and Polynesian extraction, a wider array of fish than mainland cuisine, and fruits and tubers unavailable in continental Chile. Ceviche may be made with soy or coconut milk and with *mata huira*, *toremo*, or *kana-kana*.
 
 ## Oral tradition & literature
 
 Rapa Nui mythology includes stories of *Hotu Matu'a*, regarded as the legendary first settler and *ariki mau*, or supreme chief, and the *Tangata manu*. The mythology source describes Hotu Matu'a and his colonising party as Polynesians who landed at Anakena beach, after which his people spread across the island and divided it between clans claiming descent from his sons.
 
-Other named figures and beings include Make-make, creator of humanity; Uoke, a tectonic deity; Aku-Aku, spirits of the dead; Manana Take; Haua; Hina-Oio; and the *Hanau epe*. The Rapa Nui people source also mentions the epic battle between the Hanau Epe and the Hanau Momoko. The source does not describe a formal epic-poetry tradition, proverbs, riddles, or storytelling occasions.
+Other named figures and beings include Make-make, creator of humanity; Uoke, a tectonic deity; Aku-Aku, spirits of the dead; Manana Take; Haua; Hina-Oio; and the *Hanau epe*. The Rapa Nui people source also mentions the epic battle between the Hanau Epe and the Hanau Momoko.
 
 Rongorongo is described as a system of glyphs discovered in the 1800s and as a possible older form of the Rapa Nui language. Its decipherment remains incomplete, and it is not clear whether it is writing or another form of cultural expression.
 

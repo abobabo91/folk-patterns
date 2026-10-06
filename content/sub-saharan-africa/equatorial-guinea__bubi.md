@@ -23,10 +23,6 @@ The Bubi are a Bantu people indigenous to Bioko Island in Equatorial Guinea. The
 
 The documented material culture consists mainly of shell adornments, feathered ornaments, lidded baskets and one earthenware bowl.
 
-### Textile & pattern traditions
-
-The sources do not document Bubi textiles, patterns or motifs.
-
 ### Clothing & dress
 
 The sources do not describe everyday or ceremonial Bubi clothing, but they record shell and feather ornaments.
@@ -34,10 +30,6 @@ The sources do not describe everyday or ceremonial Bubi clothing, but they recor
 - **Plaited shell armlet** — This armlet is made from plaited strings of small white-shell pieces.
 - **Shell and feather head ornament** — This head ornament uses small white-shell pieces twisted around strong bast, with two feathers attached.
 - **Shell and feather necklace** — This necklace uses small white-shell pieces twisted around strong bast, with two feathers attached.
-
-### Architecture
-
-The sources do not describe Bubi houses, villages, roofs, building materials or architecture.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -54,14 +46,6 @@ Bubi-associated adornment includes plaited shell armlets and shell ornaments wit
 - **Shell armlet** — An armlet is made from a plait of strings of small pierced white-shell pieces.
 - **Shell and feather head ornament** — A head ornament consists of pierced white-shell pieces twisted around strong bast, with two feathers attached.
 - **Shell and feather necklace** — A necklace consists of pierced white-shell pieces twisted around strong bast, with two feathers attached.
-
-## Music & performance
-
-The sources do not document Bubi instruments, songs, vocal forms or musical traditions.
-
-## Dance & theatre
-
-The sources do not document named Bubi dances, theatre, masked performances or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -119,4 +103,3 @@ Bube is a tonal Bantu language with regional dialects, and Bubi spirituality com
 - [Bubi language](https://en.wikipedia.org/wiki/Bubi_language)
 - [British Museum collection](https://www.britishmuseum.org/collection)
 - [Museum of World Culture](https://www.varldskulturmuseet.se/en/)
-

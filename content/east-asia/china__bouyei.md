@@ -42,10 +42,6 @@ Women's dress combines a cotton jacket decorated with batik, embroidery and appl
 - **Head cover** — Length of striped, patterned and embroidered cotton worn instead of a shaped hat.
 - **Straw sandals** — Footwear made of straw.
 
-### Architecture
-
-The sources do not cover Bouyei house form, building materials or architectural decoration.
-
 ### Ceramics, metalwork & everyday objects
 
 The Bouyei are primarily documented as farmers and merchants; the only catalogued everyday objects are straw sandals and an embroidered baby-carrier.
@@ -58,10 +54,6 @@ Silver is the documented material for Bouyei personal ornament.
 
 - **Silver bracelet** — Woman's silver bracelet catalogued by form and metal.
 - **Silver finger-ring** — Woman's silver finger-ring catalogued by form and metal.
-
-## Music & performance
-
-The sources do not cover Bouyei instruments, song genres or performance occasions.
 
 ## Dance & theatre
 
@@ -125,4 +117,3 @@ Bouyei is a Northern Tai language with over 2.5 million native speakers, and rel
 - Ethnologue entry for Bouyei, and the ABVD Bouyei (Wangmo) word list
 - British Museum online collection (the jacket, aprons, apron-ties, belts, head cover, trousers, sandals, baby-carrier, ribbons and silver ornaments shown here): https://www.britishmuseum.org/collection
 - No UNESCO Intangible Cultural Heritage element in the sources concerns the Bouyei.
-

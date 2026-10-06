@@ -12,7 +12,7 @@ tags: [ethnography, sub-saharan-africa]
 | Where | West Pokot and Baringo Counties in Kenya, and the Pokot District of eastern Karamoja in Uganda. |
 | How many | 778,408 in Kenya in 2019, plus more than 140,000 estimated in Uganda. |
 | Language | Pökoot, a northern Kalenjin language. |
-| Religion | The supplied sources do not describe a religious system, named deities, or specific spiritual practices. |
+ |
 | Known for | Pastoral and agricultural life · Age-based social groups · Cattle raiding · Proverbs, riddles, and tales · Distinctive clothing and beadwork |
 
 ## Overview
@@ -43,10 +43,6 @@ Pokot clothing and dress accessories use leather, skin, beads, hair, feathers, a
 - **War head-dress** — A tightly fitting head-dress of woven human hair has a crest of black and white ostrich plumes.
 - **Hair helmet** — A wig-like helmet of matted human hair has side-flaps, a gourd pendant, and ostrich feathers in cane settings.
 
-### Architecture
-
-The supplied sources do not cover Pokot houses, roofs, settlements, or built decoration.
-
 ### Ceramics, metalwork & everyday objects
 
 Pokot everyday objects include pottery, gourds, wooden vessels, baskets, knives, bells, and a war-horn.
@@ -76,10 +72,6 @@ The sources give little information about music, but they record a side-blown wa
 - **Lökoi** — Lökoi is speech about news from other places.
 - **Chiran** — Chiran is speech about events in the neighborhood.
 - **Kokwö** — Kokwö is serious, business-like conversation.
-
-## Dance & theatre
-
-The supplied sources do not cover named Pokot dances, theatre, masked performance, shadow puppetry, or other dramatic traditions.
 
 ## Festivals & rituals
 
@@ -145,4 +137,3 @@ Pökoot is a northern Kalenjin language spoken in western Kenya and eastern Ugan
 - [Pokot people](https://en.wikipedia.org/wiki/Pokot_people)
 - [Pokot language](https://en.wikipedia.org/wiki/Pokot_language)
 - British Museum and Museum of World Culture catalogue records for Pokot and Suk shields, knives, clothing, adornment, containers, tools, and musical objects.
-

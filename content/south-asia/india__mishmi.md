@@ -23,20 +23,12 @@ The Mishmi live in the Mishmi Hills of Tibet and Arunachal Pradesh. They include
 
 Mishmi material culture is known in the sources mainly through museum objects made from wood, bamboo, cane, rattan, basketry, iron, silver, steel, bone and animal materials.
 
-### Textile & pattern traditions
-
-The supplied sources do not document Mishmi textiles or patterns.
-
 ### Clothing & dress
 
-The sources record skin clothing and hats but do not describe dress traditions in detail.
+The sources record skin clothing and hats.
 
 - **Red panda skin coat and hat** — A British Museum catalogue records a coat made of skin and a hat made from red panda skin, bound with thin leather.
 - **Basketry hat** — The catalogue records a basketry hat possibly filled with palm leaves.
-
-### Architecture
-
-The supplied sources do not describe Mishmi houses or architecture.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -48,28 +40,12 @@ Mishmi museum objects include edged weapons, hunting gear and containers made fr
 - **Bow and crossbow** — A bow has cane bindings and a cane string, while a crossbow has a bone trigger and animal-hair string.
 - **Bamboo arrow set** — Three bamboo arrows have metal heads.
 
-### Jewelry & body adornment
-
-The sources do not document Mishmi jewelry or body adornment.
-
-## Music & performance
-
-The supplied sources do not document Mishmi music or musical instruments.
-
-## Dance & theatre
-
-The supplied sources do not document Mishmi dance or theatre.
-
 ## Festivals & rituals
 
 The sources record a Deng creation account but no festival calendar or life-cycle rites.
 
 - **Deng creation account** (*Deraogao*) — In Deng folklore, Deraogao created the earth after the world was a vast flood.
 - **Ajiani and the eagle** (*Ajiani*) — Ajiani, one of the gold-people, married the eagle, and their descendants became the Deng people.
-
-## Foodways
-
-The supplied sources do not describe Mishmi foodways.
 
 ## Oral tradition & literature
 
@@ -112,4 +88,3 @@ Mishmi languages form a cultural grouping of several unrelated Sino-Tibetan lang
 - [Mishmi people](https://en.wikipedia.org/wiki/Mishmi_people)
 - [Mishmi language](https://en.wikipedia.org/wiki/Mishmi_language)
 - No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.
-

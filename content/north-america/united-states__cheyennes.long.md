@@ -35,31 +35,31 @@ The sources describe shirts decorated with quillwork, embroidery, beadwork, tass
 
 ### Architecture
 
-Cheyenne settlements formerly included earth lodges, but the sources state that these were replaced by portable tipis when the people adopted nomadic Plains horse culture. The sources do not describe the construction, roof form, interior organization, decoration, or settlement arrangement of either earth lodges or tipis in further detail.
+Cheyenne settlements formerly included earth lodges, but the sources state that these were replaced by portable tipis when the people adopted nomadic Plains horse culture.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum records describe storage bags, pipe bags, smoking pipes, a medicine rattle, saddles with stirrups, and horse equipment. Materials include untanned buffalo hide, leather, cloth, glass beads, pigments, feathers, animal tails, and metal fittings. The sources do not document Cheyenne ceramics, distinctive metalworking traditions, wooden household objects, or named tool forms.
+The museum records describe storage bags, pipe bags, smoking pipes, a medicine rattle, saddles with stirrups, and horse equipment. Materials include untanned buffalo hide, leather, cloth, glass beads, pigments, feathers, animal tails, and metal fittings.
 
 ### Jewelry & body adornment
 
-The catalogue records mention dentalium shell necklaces and chokers, abalone shell ear ornaments, metal ear ornaments, gorgets, peace medals, and feather ornaments. Hair was sometimes arranged in two sections or bunches wrapped in cloth, fabric, or fur; other records describe several braids. The sources do not document tattoos, henna, or named Cheyenne jewelry forms.
+The catalogue records mention dentalium shell necklaces and chokers, abalone shell ear ornaments, metal ear ornaments, gorgets, peace medals, and feather ornaments. Hair was sometimes arranged in two sections or bunches wrapped in cloth, fabric, or fur; other records describe several braids.
 
 ## Music & performance
 
-The sources describe sacred objects and ceremonies but do not identify musical instruments, song genres, musical forms, or performance contexts in sufficient detail. They state that the Sacred Arrows and Sacred Buffalo Hat formed the two great covenants of the Cheyenne Nation and that the prophet Tomȯsévėséhe, “Erect Horns,” gave the people ceremonies and the Sun Dance. The sources also mention a ceremonial pipe associated with the Sacred Hat Bundle. No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
+The sources describe sacred objects and ceremonies. They state that the Sacred Arrows and Sacred Buffalo Hat formed the two great covenants of the Cheyenne Nation and that the prophet Tomȯsévėséhe, “Erect Horns,” gave the people ceremonies and the Sun Dance. The sources also mention a ceremonial pipe associated with the Sacred Hat Bundle. No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
 
 ## Dance & theatre
 
-The sources name the Sun Dance as a ceremony associated with Tomȯsévėséhe and the Ésevone, or Sacred Buffalo Hat. They do not describe the dance’s movements, musical accompaniment, participants, chronology, or relationship to entertainment, and they do not document a Cheyenne theatre or dramatic tradition.
+The sources name the Sun Dance as a ceremony associated with Tomȯsévėséhe and the Ésevone, or Sacred Buffalo Hat.
 
 ## Festivals & rituals
 
-The sources describe the Sacred Arrows and the Sacred Buffalo Hat as the two great covenants of the Cheyenne Nation. The Maahótse, or Sacred Arrows, were received by the prophet Motsé'eóeve at Nóávóse, identified in the source as Bear Butte, and were kept in the maahéome, or Arrow Lodge or Arrow Tepee. The Ésevone, also called Hóhkėha'e, was received by Tomȯsévėséhe at Tȯhóonévose and kept in the vonȧhéome or hóhkėha'éome, the Sacred Hat Lodge or Sacred Hat Tepee. The Tséá'enōvȧhtse was the Sacred Buffalo Hat Keeper and had to belong to the Só'taeo'o. The Sacred Arrows symbolized male power, while the Sacred Buffalo Hat symbolized female power. The sources mention the Sun Dance and ceremonies connected with the Sacred Hat, but do not provide an annual festival calendar or descriptions of birth, marriage, coming-of-age, or funeral rites.
+The sources describe the Sacred Arrows and the Sacred Buffalo Hat as the two great covenants of the Cheyenne Nation. The Maahótse, or Sacred Arrows, were received by the prophet Motsé'eóeve at Nóávóse, identified in the source as Bear Butte, and were kept in the maahéome, or Arrow Lodge or Arrow Tepee. The Ésevone, also called Hóhkėha'e, was received by Tomȯsévėséhe at Tȯhóonévose and kept in the vonȧhéome or hóhkėha'éome, the Sacred Hat Lodge or Sacred Hat Tepee. The Tséá'enōvȧhtse was the Sacred Buffalo Hat Keeper and had to belong to the Só'taeo'o. The Sacred Arrows symbolized male power, while the Sacred Buffalo Hat symbolized female power. The sources mention the Sun Dance and ceremonies connected with the Sacred Hat.
 
 ## Foodways
 
-The sources state that the Cheyenne formerly collected wild rice and hunted bison while living between the Mississippi River and Mille Lacs Lake. After adopting nomadic Plains horse culture, they replaced a diet of fish and agricultural produce with mainly bison and wild fruits and vegetables. Museum records describe buffalo-hide bags used for storing dried meat. The sources do not name specific dishes, cooking methods, beverages, dietary rules, or ceremonial foods.
+The sources state that the Cheyenne formerly collected wild rice and hunted bison while living between the Mississippi River and Mille Lacs Lake. After adopting nomadic Plains horse culture, they replaced a diet of fish and agricultural produce with mainly bison and wild fruits and vegetables. Museum records describe buffalo-hide bags used for storing dried meat.
 
 ## Oral tradition & literature
 
@@ -67,7 +67,7 @@ The Cheyenne oral history describes two related tribal peoples represented by tw
 
 ## Language & religion
 
-The Cheyenne language, Tsėhésenėstsestȯtse, belongs to the Algonquian language family. It is spoken in Montana and Oklahoma, with approximately 800 speakers in Oklahoma, and the two locations have only a handful of vocabulary differences. The alphabet contains 14 letters. The former Só'taeo'o or Suhtai bands spoke Só'taéka'ėškóne or Só'taenėstsestȯtse, described as a language so close to Cheyenne that it is sometimes called a Cheyenne dialect. Cheyenne spiritual life in the sources centers on Ma'heo'o, the Sacred Arrows, the Sacred Buffalo Hat, their keepers, sacred lodges, prophets, and the Sun Dance. The sources do not describe a current religious affiliation or formal religious landscape.
+The Cheyenne language, Tsėhésenėstsestȯtse, belongs to the Algonquian language family. It is spoken in Montana and Oklahoma, with approximately 800 speakers in Oklahoma, and the two locations have only a handful of vocabulary differences. The alphabet contains 14 letters. The former Só'taeo'o or Suhtai bands spoke Só'taéka'ėškóne or Só'taenėstsestȯtse, described as a language so close to Cheyenne that it is sometimes called a Cheyenne dialect. Cheyenne spiritual life in the sources centers on Ma'heo'o, the Sacred Arrows, the Sacred Buffalo Hat, their keepers, sacred lodges, prophets, and the Sun Dance.
 
 ## Sources & further reading
 

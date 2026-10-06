@@ -13,7 +13,7 @@ The Kanuri are an African ethnic group living largely in the lands of the former
 
 ### Textile & pattern traditions
 
-The sources do not document named Kanuri textile or pattern traditions. Museum records nevertheless describe several textile and leather objects:
+Museum records nevertheless describe several textile and leather objects:
 
 **Quilted coat** — A white cotton-cloth coat is quilted in concentric circles, edged with dyed red cotton cloth, and fitted with a wide turned-down collar, leather buttons, and plaited leather loops. Its outer cloth is machine made, while the lining is handwoven.
 
@@ -29,11 +29,7 @@ The sources do not document named Kanuri textile or pattern traditions. Museum r
 
 ### Clothing & dress
 
-The sources do not provide a general account of everyday or ceremonial Kanuri dress. The museum records show a quilted white cotton-cloth coat with dyed red edging, a deep split up the back, a wide turned-down collar, leather buttons, and plaited leather loops. They also record a quilted cap made of coloured cloth with tassels and a leatherwork belt with 12 pouches. A photographic print identifies a Kanuri adult female wearing a shirt, a neck-ornament with a disc at the front, and a curly hairstyle with a plait over the forehead. Other photographs show hair plaited against the scalp, neck-ornaments, ear-ornaments, and facial scarification. The sources do not distinguish ordinary from ceremonial clothing or describe footwear.
-
-### Architecture
-
-The sources used do not cover Kanuri house forms, settlement architecture, building materials, roof types, decoration, courtyards, or urban construction traditions.
+The museum records show a quilted white cotton-cloth coat with dyed red edging, a deep split up the back, a wide turned-down collar, leather buttons, and plaited leather loops. They also record a quilted cap made of coloured cloth with tassels and a leatherwork belt with 12 pouches. A photographic print identifies a Kanuri adult female wearing a shirt, a neck-ornament with a disc at the front, and a curly hairstyle with a plait over the forehead. Other photographs show hair plaited against the scalp, neck-ornaments, ear-ornaments, and facial scarification. The sources do not distinguish ordinary from ceremonial clothing or describe footwear.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -41,23 +37,15 @@ Museum records include a dagger made of iron, a knife made of iron, and an arm d
 
 ### Jewelry & body adornment
 
-The museum records identify women’s hair ornaments made of cornelian and agate. Photographs show women wearing neck-ornaments, circular ear-ornaments, and other ear-ornaments; one portrait records holes in the ears for ear-ornaments. The photographs also show curly hair, hair plaited against the scalp, and a plait over the forehead. Facial scarification is visible in one portrait. The sources do not describe the meanings or ritual functions of these forms of adornment.
-
-## Music & performance
-
-The sources used do not document named Kanuri musical instruments, song genres, musical performances, court music, or other performance contexts.
-
-## Dance & theatre
-
-The sources used do not document named Kanuri dances, dramatic traditions, theatre, masked performance, or ceremonial entertainment.
+The museum records identify women’s hair ornaments made of cornelian and agate. Photographs show women wearing neck-ornaments, circular ear-ornaments, and other ear-ornaments; one portrait records holes in the ears for ear-ornaments. The photographs also show curly hair, hair plaited against the scalp, and a plait over the forehead. Facial scarification is visible in one portrait.
 
 ## Festivals & rituals
 
-The sources do not provide a Kanuri festival calendar or descriptions of annual festivals, seasonal rites, weddings, funerals, birth ceremonies, or coming-of-age ceremonies. They state that the Kanuri are predominantly Sunni Muslim and that the Kanuri became Muslims in the 11th century. The sources also describe the use of proverbs in Islam to explain social happenings and teach meanings.
+The sources state that the Kanuri are predominantly Sunni Muslim and that the Kanuri became Muslims in the 11th century. The sources also describe the use of proverbs in Islam to explain social happenings and teach meanings.
 
 ## Foodways
 
-The sources do not name Kanuri dishes, staple grains, cooking methods, beverages, ceremonial foods, or dietary rules. They state that Kanuri groups have traditionally engaged in farming, fishing in the Chad Basin, trade, and salt processing. The Bilma subgroup is described as the dominant ethnic group in the salt evaporation and trade industry of Bilma.
+The sources state that Kanuri groups have traditionally engaged in farming, fishing in the Chad Basin, trade, and salt processing. The Bilma subgroup is described as the dominant ethnic group in the salt evaporation and trade industry of Bilma.
 
 ## Oral tradition & literature
 

@@ -12,7 +12,7 @@ tags: [ethnography, north-america]
 | Where | Wyoming, Idaho, California, Nevada, and Utah. |
 | How many | 17,918 people in the USA were identified as Shoshone in 2020. |
 | Language | Shoshoni, a threatened Numic language in the Uto-Aztecan family. |
-| Religion | The sources mention holy land connected with the Bear River Massacre but do not describe a full religious system. |
+| Religion | The sources mention holy land connected with the Bear River Massacre. |
 | Known for | Shoshoni language · Horn bows · Salmon-skin bags · Grass houses made from sosoni · Regional food-source band names |
 
 ## Overview
@@ -65,11 +65,7 @@ Photographs show Shoshone people wearing neck ornaments, ear-rings, and decorate
 
 The sources do not document Shoshone music traditions, but they list one frame drum.
 
-- **Frame drum** — A 19th-century wooden and sheepskin frame drum is listed, but the sources do not connect it to a specific Shoshone performance tradition.
-
-## Dance & theatre
-
-The sources do not document named Shoshone dances, theatre, or other performance traditions.
+- **Frame drum** — A 19th-century wooden and sheepskin frame drum is listed.
 
 ## Festivals & rituals
 
@@ -135,4 +131,3 @@ Shoshoni is a threatened Numic language with several regional dialects and two m
 - Metropolitan Museum of Art catalogue record: *Frame Drum*, 19th century.
 - British Museum catalogue records: photographs of Chief Washakie, Shoshone men, Shoshone women and child, and a Shoshone woman with a baby.
 - No UNESCO Intangible Cultural Heritage inscription for this group is identified in the supplied sources.
-

@@ -148,7 +148,6 @@ Kalenjin languages form a Southern Nilotic dialect cluster, while religion cente
 
 ## Sources & further reading
 
-- The supplied sources do not provide book-length bibliographic references, publishers, or publication years for further reading.
 - The supplied sources refer to Yale University’s eHRAF World Cultures as an ethnographic documentation resource.
 - [Kalenjin people](https://en.wikipedia.org/wiki/Kalenjin_people)
 - [Kalenjin culture](https://en.wikipedia.org/wiki/Kalenjin_culture)
@@ -156,4 +155,3 @@ Kalenjin languages form a Southern Nilotic dialect cluster, while religion cente
 - [Kalenjin language](https://en.wikipedia.org/wiki/Kalenjin_language)
 - UNESCO Intangible Cultural Heritage: the supplied sources state that no UNESCO ICH inscriptions concern this group or country.
 - The supplied museum catalogue records are from the Museum of World Culture and the British Museum; the supplied sources do not provide collection URLs.
-

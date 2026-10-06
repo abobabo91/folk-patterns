@@ -15,15 +15,13 @@ The Modoc are an Indigenous American people whose historical homeland lies in no
 
 **Korgflätning** — The museum records identify Modoc caps, women’s caps, headgear, baskets, and a basket plate as made of basketry. The objects include an open, basket-like head covering, a basket used in games, and an unfinished basket.
 
-**Wokas plants** — The Modoc built winter lodges near lake shores with reliable sources of seeds from aquatic wokas plants. The sources do not describe a named textile or pattern tradition associated with these plants.
+**Wokas plants** — The Modoc built winter lodges near lake shores with reliable sources of seeds from aquatic wokas plants.
 
-**Earthen dugout lodges** — Winter dwellings were shaped like beehives, covered with sticks, and plastered with mud. The sources do not give a Modoc vernacular name for this house form.
-
-The sources used do not document additional Modoc textile traditions, named patterns, moccasins, tule mats, burden baskets, or other pattern-bearing textile forms.
+**Earthen dugout lodges** — Winter dwellings were shaped like beehives, covered with sticks, and plastered with mud.
 
 ### Clothing & dress
 
-The museum records identify a Modoc open, basket-like headgear, a basketry cap, and a basketry women’s cap. One catalogue record describes a cap as belonging to Captain Jack and as made of basketry. Other records concern necklaces made of glass beads and mussel shells or fruits. The British Museum photographs show Bogus Charley wearing a hat, a shirt, a cloth tied around his neck, trousers, and boots; Burgess Charley wearing a hat and a three-piece suit; Scar Faced Charley wearing a three-piece suit and bow tie; and Boston Charley wearing a shirt and jacket. Another photograph shows three Modoc men, including Donald McKay, wearing shirts and trousers. The sources do not describe ordinary or ceremonial dress systematically, nor do they provide Modoc vernacular names for garments, belts, footwear, or head coverings.
+The museum records identify a Modoc open, basket-like headgear, a basketry cap, and a basketry women’s cap. One catalogue record describes a cap as belonging to Captain Jack and as made of basketry. Other records concern necklaces made of glass beads and mussel shells or fruits. The British Museum photographs show Bogus Charley wearing a hat, a shirt, a cloth tied around his neck, trousers, and boots; Burgess Charley wearing a hat and a three-piece suit; Scar Faced Charley wearing a three-piece suit and bow tie; and Boston Charley wearing a shirt and jacket. Another photograph shows three Modoc men, including Donald McKay, wearing shirts and trousers.
 
 ### Architecture
 
@@ -31,27 +29,27 @@ Until the 19th century, the Modoc built earthen dugout lodges for winter use. Th
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not document Modoc ceramics, metalwork, wooden objects, tools, or household goods beyond basketry objects. Museum records identify a basket, an unfinished basket, a basketry plate used in games, a basketry headgear, and basketry caps. The records do not describe their manufacture in detail or provide additional Modoc names for these forms.
+Museum records identify a basket, an unfinished basket, a basketry plate used in games, a basketry headgear, and basketry caps. The records do not describe their manufacture in detail or provide additional Modoc names for these forms.
 
 ### Jewelry & body adornment
 
-Museum records identify a necklace made of glass beads and mussel shells that belonged to Hi-ne-ma Riaala, described as a heroine in the war of 1873, and another necklace made of fruits. The sources do not describe tattoos, hair practices, ritual functions, or a Modoc vernacular terminology for jewelry and body adornment.
+Museum records identify a necklace made of glass beads and mussel shells that belonged to Hi-ne-ma Riaala, described as a heroine in the war of 1873, and another necklace made of fruits.
 
 ## Music & performance
 
-The sources do not document Modoc musical instruments, song genres, musical scales, performance ensembles, or musical occasions. They do record the *Shuyuhalsh*, a five-night dance rite of passage for adolescent girls. The number five figured heavily in Modoc ritual. The sources do not identify instruments used in the rite or describe its choreography, songs, or performers. A sweat lodge was used for purification and mourning ceremonies, but the sources do not state whether music formed part of those ceremonies. No UNESCO Intangible Cultural Heritage inscription concerns the Modoc or the United States in the supplied material.
+The sources record the *Shuyuhalsh*, a five-night dance rite of passage for adolescent girls. The number five figured heavily in Modoc ritual. A sweat lodge was used for purification and mourning ceremonies. No UNESCO Intangible Cultural Heritage inscription concerns the Modoc or the United States in the supplied material.
 
 ## Dance & theatre
 
-The Modoc *Shuyuhalsh* was a five-night dance rite of passage for adolescent girls. The sources identify it as a ritual but do not describe its movements, music, costumes, location, or participants beyond adolescent girls. They do not document Modoc theatre, masked performance, shadow puppetry, named entertainment dances, or dramatic traditions.
+The Modoc *Shuyuhalsh* was a five-night dance rite of passage for adolescent girls. The sources identify it as a ritual.
 
 ## Festivals & rituals
 
-The sources do not describe an annual Modoc festival calendar or festivals associated with fixed dates. They identify several ritual practices. The number five figured heavily in ritual, including the *Shuyuhalsh*, a five-night dance rite of passage for adolescent girls. A sweat lodge was used for purification and mourning ceremonies. The sources also describe the Modoc War, during which Kintpuash and his band resisted removal from their traditional homelands; Kintpuash was captured on June 4, 1873, and was executed with three warriors in October 1873. These events are historical rather than identified in the sources as annual commemorations. The sources do not describe birth, marriage, funeral, or other life-cycle ceremonies apart from the adolescent girls’ rite of passage and mourning ceremonies.
+The sources identify several ritual practices. The number five figured heavily in ritual, including the *Shuyuhalsh*, a five-night dance rite of passage for adolescent girls. A sweat lodge was used for purification and mourning ceremonies. The sources also describe the Modoc War, during which Kintpuash and his band resisted removal from their traditional homelands; Kintpuash was captured on June 4, 1873, and was executed with three warriors in October 1873. These events are historical rather than identified in the sources as annual commemorations.
 
 ## Foodways
 
-Before the 19th century, the Modoc caught salmon during salmon runs and migrated seasonally to hunt and gather other food. Their winter lodges were built near lake shores with reliable sources of seeds from aquatic wokas plants and fishing. The sources do not provide names of dishes, cooking methods, food restrictions, beverages, or ceremonial foods. They also do not document root digging, acorn processing, camas gathering, tule boats, or a Modoc food vocabulary beyond the reference to wokas plants and salmon.
+Before the 19th century, the Modoc caught salmon during salmon runs and migrated seasonally to hunt and gather other food. Their winter lodges were built near lake shores with reliable sources of seeds from aquatic wokas plants and fishing.
 
 ## Oral tradition & literature
 

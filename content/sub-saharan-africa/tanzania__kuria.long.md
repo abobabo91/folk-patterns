@@ -11,49 +11,37 @@ The Kuria, also known as the AbaKuria, are a Bantu community in Tanzania’s Mar
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Kuria textile or pattern traditions.
-
 ### Clothing & dress
 
-The museum records include a man’s leather belt ornamented with chains and glass beads. A photographic print shows two adult males wearing neck-ornaments, cloths, arm-rings and ear-ornaments. The sources used do not describe everyday clothing, ceremonial dress, head coverings, footwear, or named Kuria garment types.
-
-### Architecture
-
-The sources used do not describe Kuria houses, settlements, building materials, roof forms, or architectural decoration.
+The museum records include a man’s leather belt ornamented with chains and glass beads. A photographic print shows two adult males wearing neck-ornaments, cloths, arm-rings and ear-ornaments.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum catalogue records four finger-knives made of iron. The sources do not identify their use, manufacture, regional style, or relationship to Kuria daily life. The sources used do not document Kuria ceramics, wooden objects, household goods, or named craft forms.
+The museum catalogue records four finger-knives made of iron.
 
 ### Jewelry & body adornment
 
-The museum records describe a man’s metal ear ornament with glass beads suspended on leather thongs; a man’s ear ornament made of coiled metal, metal chains and white glass beads with two small hide thongs; a woman’s ornament; a necklace of glass beads with a leather pendant, cowrie shells and silver chains; a necklace with pendants and chains made of glass and silver beads, including a leather pendant covered with silver chains, beads and a cowrie shell; and a man’s soapstone armlet. A photographic print shows adults wearing neck-ornaments, arm-rings and ear-ornaments. The sources do not explain the ornaments’ social or ritual functions.
+The museum records describe a man’s metal ear ornament with glass beads suspended on leather thongs; a man’s ear ornament made of coiled metal, metal chains and white glass beads with two small hide thongs; a woman’s ornament; a necklace of glass beads with a leather pendant, cowrie shells and silver chains; a necklace with pendants and chains made of glass and silver beads, including a leather pendant covered with silver chains, beads and a cowrie shell; and a man’s soapstone armlet. A photographic print shows adults wearing neck-ornaments, arm-rings and ear-ornaments.
 
 ## Music & performance
 
-The museum catalogue contains a photographic print of two adult males playing drums, one sitting and one squatting. The sources do not name the drums, songs, musical genres, performance contexts, or other Kuria instruments.
-
-## Dance & theatre
-
-The sources used do not document Kuria dances, theatre, dramatic traditions, or performance distinctions.
+The museum catalogue contains a photographic print of two adult males playing drums, one sitting and one squatting.
 
 ## Festivals & rituals
 
-The Kuria practice circumcision for both males and females until today, while the source notes the existence of modern practices. The sources used do not describe an annual festival calendar, wedding rites, funerals, birth ceremonies, or other life-cycle rituals.
+The Kuria practice circumcision for both males and females until today, while the source notes the existence of modern practices.
 
 ## Foodways
 
-The Kuria grow maize, beans and cassava as food crops. Coffee and sweet potatoes are described as cash crops, and the sources also list maize and yams among cash crops. The sources used do not document named dishes, cooking methods, ceremonial foods, beverages, or dietary rules.
+The Kuria grow maize, beans and cassava as food crops. Coffee and sweet potatoes are described as cash crops, and the sources also list maize and yams among cash crops.
 
 ## Oral tradition & literature
 
-Major Kuria clan traditions state that the ancestor of the Kuria was Mokurya and that his descendants migrated from Misiri (Egypt), eventually reaching Bukurya after wandering along Lake Victoria. These traditions divide the Kuria into the Abasai, descended from Mokurya’s elder wife, and the Abachuma, descended from his younger wife. The sources used do not document Kuria folktales, epics, proverbs, riddles, written literature, or preservation projects.
+Major Kuria clan traditions state that the ancestor of the Kuria was Mokurya and that his descendants migrated from Misiri (Egypt), eventually reaching Bukurya after wandering along Lake Victoria. These traditions divide the Kuria into the Abasai, descended from Mokurya’s elder wife, and the Abachuma, descended from his younger wife.
 
 ## Language & religion
 
-Kuria is a Bantu language spoken by the Kuria people of Northern Tanzania, with some speakers in Kenya. Maho (2009) treats the Simbiti, Hacha, Surwa and Sweta varieties as distinct languages. The sources used do not describe a Kuria writing system, religious landscape, sectarian affiliations, or spiritual practices.
+Kuria is a Bantu language spoken by the Kuria people of Northern Tanzania, with some speakers in Kenya. Maho (2009) treats the Simbiti, Hacha, Surwa and Sweta varieties as distinct languages.
 
 ## Sources & further reading
 

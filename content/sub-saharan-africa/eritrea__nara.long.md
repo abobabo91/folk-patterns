@@ -13,8 +13,6 @@ The Nara are an ethnic group inhabiting southwestern Eritrea, primarily along th
 
 ### Textile & pattern traditions
 
-The supplied sources do not document named Nara textile traditions or vernacular pattern systems.
-
 **Cane belt** — A British Museum belt consists of numerous finely plaited lengths of dark brown cane cord secured at each end with barkcloth. Further plaited cane, wrapped in barkcloth on one side, and lightly beaten bark ribbons form ties at either side.
 
 **Plant-fibre netbag** — A rounded rectangular bilum made from unstained plant fibre has a single handle. Its front carries alternating red and black horizontal bands intersected by vertical bands of repeated short diagonal lines, with repeated rectangles and darker circular patches near the base.
@@ -31,11 +29,11 @@ The supplied sources do not document named Nara textile traditions or vernacular
 
 ### Clothing & dress
 
-The supplied sources do not describe everyday or ceremonial Nara clothing, distinctions between men’s and women’s dress, head coverings, footwear or named garments. They document one belt made from finely plaited dark brown cane cord, barkcloth and lightly beaten bark ribbons. Its construction indicates a wearable object, but the catalogue record does not state who wore it, when it was worn or whether it had ceremonial significance.
+The sources document one belt made from finely plaited dark brown cane cord, barkcloth and lightly beaten bark ribbons. Its construction indicates a wearable object, but the catalogue record does not state who wore it, when it was worn or whether it had ceremonial significance.
 
 ### Architecture
 
-The supplied sources do not document Nara houses, villages, hamlets, roofs, building materials, architectural decoration or named building types. The Nara are described as living in villages and hamlets, but no further architectural information is supplied.
+The Nara are described as living in villages and hamlets, but no further architectural information is supplied.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,27 +41,23 @@ The supplied catalogue records do not document Nara ceramics or metalwork. They 
 
 ### Jewelry & body adornment
 
-The supplied sources do not document Nara jewelry, body adornment, tattoos, henna, hair practices or named amulets. They do record a charm carved from whole dwarf coconut, open at one end and suspended by twisted plant-fibre cord. The catalogue describes its incised geometric panels and traces of red pigment, but does not state its wearer or ritual function.
+The sources record a charm carved from whole dwarf coconut, open at one end and suspended by twisted plant-fibre cord. The catalogue describes its incised geometric panels and traces of red pigment.
 
 ## Music & performance
 
-The supplied sources do not document Nara musical instruments, song genres, musical performance contexts or named musical traditions. One British Museum object is a model bullroarer consisting of a flattish wooden board with incised diamond decoration and a twisted fibre cord. The record identifies the object as a model but does not describe its sound, use or performance context.
-
-## Dance & theatre
-
-The supplied sources do not document Nara dances, theatrical forms, masked performances, dramatic traditions or entertainment contexts.
+One British Museum object is a model bullroarer consisting of a flattish wooden board with incised diamond decoration and a twisted fibre cord. The record identifies the object as a model.
 
 ## Festivals & rituals
 
-The supplied sources do not document an annual Nara festival calendar, seasonal celebrations, harvest rites, life-cycle ceremonies, wedding practices, funerals or named rituals. They state that the Nara traditionally adhered to animist beliefs and that they were introduced to Islam by the 15th century; after the Egyptian occupation in the 19th century, most Nara adopted Islam. No ritual descriptions are provided.
+The sources state that the Nara traditionally adhered to animist beliefs and that they were introduced to Islam by the 15th century; after the Egyptian occupation in the 19th century, most Nara adopted Islam. No ritual descriptions are provided.
 
 ## Foodways
 
-The supplied sources describe the Nara as mostly subsistence farmers and as typically agrarian, but they do not identify staple grains, dishes, cooking methods, beverages, ceremonial foods or dietary rules. The catalogue records mention lime powder in some pyroincised gourd containers and tobacco-pipes, but do not explain the associated practices.
+The supplied sources describe the Nara as mostly subsistence farmers and as typically agrarian. The catalogue records mention lime powder in some pyroincised gourd containers and tobacco-pipes.
 
 ## Oral tradition & literature
 
-The supplied sources do not document Nara folktales, epics, proverbs, riddles or storytelling contexts. They state that the Nara traditionally had no writing system and that the few existing pieces of literature in Nara were transcribed using either the Tigre or Arabic writing system. The Nara language was also called Nara-Bana, meaning “Nara-Talk.” The Nara participate in cultural and linguistic preservation efforts through Eritrea’s Ministry of Information.
+The sources state that the Nara traditionally had no writing system and that the few existing pieces of literature in Nara were transcribed using either the Tigre or Arabic writing system. The Nara language was also called Nara-Bana, meaning “Nara-Talk.” The Nara participate in cultural and linguistic preservation efforts through Eritrea’s Ministry of Information.
 
 ## Language & religion
 

@@ -29,45 +29,41 @@ The Karuk people, also called *káruk vaʼáraaras* or Karok, are an Indigenous 
 
 ### Clothing & dress
 
-The sources used do not describe everyday or ceremonial clothing in detail. They identify a woman’s basketry hat and several ceremonial caps or basket hats, but do not provide documented information about garments, belts, footwear, or distinctions between men’s and women’s dress beyond the woman’s hat record.
-
-### Architecture
-
-The sources used do not describe Karuk houses, village architecture, roof forms, building materials, or named building types.
+The sources identify a woman’s basketry hat and several ceremonial caps or basket hats.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not document Karuk ceramics or metalwork. They do record wooden trays and baskets used or described as storage, cooking, seed, trinket, and tobacco containers, as well as basketry caps and hats made with plant materials and, in some cases, animal material.
+The sources record wooden trays and baskets used or described as storage, cooking, seed, trinket, and tobacco containers, as well as basketry caps and hats made with plant materials and, in some cases, animal material.
 
 ### Jewelry & body adornment
 
-The sources used do not describe Karuk jewelry, tattoos, hair practices, or other forms of body adornment. Porcupine quill appears in several museum catalogue descriptions as a material used in basketry objects.
+Porcupine quill appears in several museum catalogue descriptions as a material used in basketry objects.
 
 ## Music & performance
 
-The sources describe ceremonial performances but do not identify musical instruments or provide detailed information about song genres. The Brush Dance, Jump Dance, and Pikyavish ceremonies last for several days. They are practiced to heal and “fix the world,” to pray for plentiful acorns, deer, and salmon, and to restore social goodwill and individual good luck. The film *Pikyáv (to fix it)*, produced in 2008 for the Truly California series, documents this subject.
+The sources describe ceremonial performances. The Brush Dance, Jump Dance, and Pikyavish ceremonies last for several days. They are practiced to heal and “fix the world,” to pray for plentiful acorns, deer, and salmon, and to restore social goodwill and individual good luck. The film *Pikyáv (to fix it)*, produced in 2008 for the Truly California series, documents this subject.
 
-Karuk language documentation includes recorded everyday conversations, songs, stories, and poetry. William Bright and Susan Gehr worked on a Karuk dictionary, published in 2005, while language documentation efforts also sought to preserve the cultural context of fluent speakers’ language use. The sources do not name instruments, specific song forms, or performance settings such as weddings, funerals, courts, or tea houses.
+Karuk language documentation includes recorded everyday conversations, songs, stories, and poetry. William Bright and Susan Gehr worked on a Karuk dictionary, published in 2005, while language documentation efforts also sought to preserve the cultural context of fluent speakers’ language use.
 
 ## Dance & theatre
 
-The sources name the Brush Dance, Jump Dance, and Pikyavish ceremonies. These are ceremonial dances practiced over several days for healing, repairing the world, praying for plentiful acorns, deer, and salmon, and restoring social goodwill and individual good luck. The sources do not describe theatrical traditions, masks, dramatic genres, or distinctions between ceremonial and entertainment dance beyond this information.
+The sources name the Brush Dance, Jump Dance, and Pikyavish ceremonies. These are ceremonial dances practiced over several days for healing, repairing the world, praying for plentiful acorns, deer, and salmon, and restoring social goodwill and individual good luck.
 
 ## Festivals & rituals
 
-The sources do not provide an annual festival calendar or dates for Karuk ritual events. They describe the Brush Dance, Jump Dance, and Pikyavish ceremonies as lasting several days and as serving purposes of healing, repairing the world, prayer for plentiful acorns, deer, and salmon, restoration of social goodwill, and individual good luck.
+The sources describe the Brush Dance, Jump Dance, and Pikyavish ceremonies as lasting several days and as serving purposes of healing, repairing the world, prayer for plentiful acorns, deer, and salmon, restoration of social goodwill, and individual good luck.
 
-Karuk people traditionally cultivated a form of tobacco and were one among several California tribes to sow and harvest tobacco plants. The sources also describe continuing cultural practices of hunting, gathering, fishing, basketmaking, and ceremonial dancing. They do not cover birth rites, coming-of-age ceremonies, weddings, funerals, or other life-cycle rituals.
+Karuk people traditionally cultivated a form of tobacco and were one among several California tribes to sow and harvest tobacco plants. The sources also describe continuing cultural practices of hunting, gathering, fishing, basketmaking, and ceremonial dancing.
 
 ## Foodways
 
 Karuk subsistence included hunting, gathering, and fishing along the Klamath River. The sources specifically connect ceremony with prayers for plentiful acorns, deer, and salmon. Karuk people developed detailed uses of plants and animals for food, tools, clothing, and pharmaceuticals.
 
-The Karuk cultivated a form of tobacco. They also used fronds of the Coastal woodfern as anti-microbial agents while preparing eels for food consumption. The sources mention food harvesting from nature and the use of plant and animal materials, but they do not name dishes, grains, cooking methods, beverages, dietary rules, or ceremonial recipes.
+The Karuk cultivated a form of tobacco. They also used fronds of the Coastal woodfern as anti-microbial agents while preparing eels for food consumption. The sources mention food harvesting from nature and the use of plant and animal materials.
 
 ## Oral tradition & literature
 
-The sources used do not describe a specific Karuk epic, folktale cycle, proverb tradition, riddle tradition, or named traditional narrative. They do document language preservation through the recording of conversations, songs, stories, and poetry spoken by fluent Karuk speakers.
+The sources document language preservation through the recording of conversations, songs, stories, and poetry spoken by fluent Karuk speakers.
 
 William Bright documented the Karuk language beginning in 1949 and later worked with Susan Gehr on a dictionary published in 2005. The Karuk Language Restoration Committee, established in 1990, created a plan involving the recording and writing of fluent speakers, training new speakers, raising awareness of the language’s cultural importance, receiving community feedback, and facilitating participation in programs where people practice and speak Karuk.
 
@@ -75,11 +71,11 @@ William Bright documented the Karuk language beginning in 1949 and later worked 
 
 Karuk, also called Karok, is the traditional language of the Karuk people around the Klamath River in Northwestern California. It is classified as a language isolate and has sometimes been grouped with the proposed Hokan family. The language has three tones—high, low, and falling—and is polysynthetic. Karuk has been written using several conventions, and a standardized writing system was adopted in the 1980s.
 
-The sources describe ceremonial practices concerned with healing, repairing the world, prayer, social goodwill, and good luck, but they do not identify a formal religion, denomination, religious doctrine, or contemporary religious landscape. Karuk language revitalization includes the Karuk Language Restoration Committee, bilingual education, and a master–apprentice immersion program begun in 1992.
+The sources describe ceremonial practices concerned with healing, repairing the world, prayer, social goodwill, and good luck. Karuk language revitalization includes the Karuk Language Restoration Committee, bilingual education, and a master–apprentice immersion program begun in 1992.
 
 ## Sources & further reading
 
-- William Bright, *The Karok Language*; the source identifies this work but does not provide its publisher or year of publication.
+- William Bright, *The Karok Language*; the source identifies this work.
 - William Bright, *Karuk Dictionary*, Los Angeles, CA, 2005.
 - Susan Gehr and William Bright, documentation and recording of Karuk conversations, songs, stories, and poetry, as described in the Karuk language article.
 - Karuk Language Restoration Committee, language revitalization work described in the Karuk language article.

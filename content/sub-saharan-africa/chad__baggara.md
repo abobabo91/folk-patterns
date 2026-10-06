@@ -76,10 +76,6 @@ Photographs show men and boys gathered around skin-covered drums and a woman spe
 - **Drum gathering** — Groups of men and boys gather around the drums.
 - **Vocal performance** — A woman is shown speaking or singing with her eyes closed while wearing a patterned tob.
 
-## Dance & theatre
-
-The sources do not describe Baggara dance or theatre traditions.
-
 ## Festivals & rituals
 
 The profile records seasonal migration and historical movements, but no ritual festivals.
@@ -138,4 +134,3 @@ The Baggara mostly speak Chadian Arabic, while the profile gives no information 
 - Yusuf Fadl Hassan, *The Arabs and the Sudan: from the seventh to the early sixteenth century*, Edinburgh University Press, 1967.
 - Baggara Arabs, Wikipedia: https://en.wikipedia.org/wiki/Baggara_Arabs
 - No UNESCO Intangible Cultural Heritage inscription for this group is identified in the supplied sources.
-

@@ -11,14 +11,6 @@ The Kinga are an ethnic and linguistic group native to Mbeya Region and Makete D
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Kinga textile traditions or a pattern vocabulary.
-
-### Clothing & dress
-
-The sources used do not document everyday or ceremonial Kinga clothing, garments, head coverings, belts, footwear or other forms of dress.
-
 ### Architecture
 
 Kinga structures were built surrounding a common space used for public meetings. The sources also describe Kinga homesteads as containing cylindrical and conical-shaped huts, surrounded by hedges of thorn. No further information about building materials, roofs, named building types or architectural decoration is provided.
@@ -29,29 +21,13 @@ Kinga ironworking was regarded by the Nyakyusa as requiring secret skills. Kinga
 
 The museum catalogue records an iron axe with a wooden handle and a wooden carved staff bound with iron at one end. It also records grass-plaited baskets used for beer, including close-weave baskets with orange or red decorative bands, openwork lattice-patterned baskets, and a natural-colour basket. A grass basketry bottle is closely plaited and patterned in red. A bamboo mug or cup has pokerwork in bands of triangles and possibly contained a maize-cob.
 
-### Jewelry & body adornment
-
-The sources used do not document Kinga jewelry, body adornment, tattoos, henna, hair practices or ritual ornaments.
-
-## Music & performance
-
-The sources used do not document Kinga musical instruments, song genres, musical performances or performance contexts.
-
-## Dance & theatre
-
-The sources used do not document Kinga dances, theatrical traditions, dramatic performances or named entertainment forms.
-
 ## Festivals & rituals
 
-Kinga priests claimed an ancient heritage older than their chiefs. The priests also seemed to interpret subterranean water movement. The Nyakyusa watched with fear and dismay as pilgrims descended the mountain paths each year toward “Lwenbe’s” shrine. Beyond this account, the sources used do not document an annual festival calendar, seasonal celebrations, life-cycle rites, weddings or funerals.
+Kinga priests claimed an ancient heritage older than their chiefs. The priests also seemed to interpret subterranean water movement. The Nyakyusa watched with fear and dismay as pilgrims descended the mountain paths each year toward “Lwenbe’s” shrine.
 
 ## Foodways
 
-The Kinga cultivate millet, beans, bananas, wheat and potatoes. They cultivate bamboo for a strong beer, and the sources describe a very pleasing beer made from bamboo. Museum catalogue records identify several grass-plaited baskets as used for beer. One catalogue record describes a bamboo mug or cup with pokerwork in bands of triangles, possibly containing a maize-cob. The sources used do not provide a named dish, cooking method, dietary rule, ceremonial food tradition or tea and coffee practice.
-
-## Oral tradition & literature
-
-The sources used do not document Kinga folktales, epic poetry, proverbs, riddles, literary works, storytelling contexts or contemporary literary preservation efforts.
+The Kinga cultivate millet, beans, bananas, wheat and potatoes. They cultivate bamboo for a strong beer, and the sources describe a very pleasing beer made from bamboo. Museum catalogue records identify several grass-plaited baskets as used for beer. One catalogue record describes a bamboo mug or cup with pokerwork in bands of triangles, possibly containing a maize-cob.
 
 ## Language & religion
 
@@ -74,4 +50,3 @@ Kinga is a Bantu language spoken by the Kinga tribe in Tanzania. It is closely r
 - Schadeberg, Thilo C., “Die Sippen-Tabus der Kinga.”
 - Wikipedia, “Kinga people”: https://en.wikipedia.org/wiki/Kinga_people
 - Wikipedia, “Kinga language”: https://en.wikipedia.org/wiki/Kinga_language
-- The sources used identify no UNESCO Intangible Cultural Heritage inscription for this group.

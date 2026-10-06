@@ -64,7 +64,7 @@ The sources name necklaces made from glass beads, mussel shells, and fruits.
 
 ## Music & performance
 
-The sources record a five-night dance rite but do not describe Modoc instruments or songs.
+The sources record a five-night dance rite.
 
 - **Shuyuhalsh** — The Shuyuhalsh was a five-night dance rite of passage for adolescent girls.
 - **Sweat-lodge ceremony** — A sweat lodge was used for purification and mourning ceremonies.
@@ -135,4 +135,3 @@ The Modoc traditionally spoke Klamath–Modoc, and their recorded religious trad
 - [British Museum collection search](https://www.britishmuseum.org/collection)
 - [Museum of World Culture](https://www.varldskulturmuseet.se/en/)
 - [Museum of Ethnography](https://www.etnografiska.se/en/)
-

@@ -152,10 +152,8 @@ Murutic languages form a closely linked family, while Murut religion includes Ch
 
 ## Sources & further reading
 
-- The supplied sources do not provide bibliographic details for three or four books.
 - George Cathcart Woolley’s documentation of Murut basketwork is mentioned in the supplied Wikipedia material; no separate publication details are provided.
 - [Murut people](https://en.wikipedia.org/wiki/Murut_people)
 - [Murut music](https://en.wikipedia.org/wiki/Murut_music)
 - The supplied UNESCO list states that there are no UNESCO Intangible Cultural Heritage inscriptions for this country concerning this ethnic group.
-- The supplied museum records identify British Museum objects, but do not provide collection URLs.
-
+- The supplied museum records identify British Museum objects.

@@ -19,57 +19,55 @@ The Temne, also called Atemne, Témené, Temné, Téminè, Temeni, Thaimne, Them
 
 **Woven textile equipment** — Museum records from Sinkunia describe a wooden boat-shaped shuttle through which the weft thread passes, and a weaving comb used to beat the weft into the woven section. The comb consists of narrow sticks fixed into a frame and held together with braided basket bands.
 
-The supplied sources do not document the indexed terms *kpokpo*, *Temne country cloth*, *ronko*, *hu ronko*, *gara*, *tika*, *kakunutu*, *Ojei*, *Gbandbani*, *kola-dyed cloth*, or *Temne twin figures* as Temne textile traditions.
-
 **Motif vocabulary.** The documented textile and object descriptions name alternating triangles, geometric patterns, two women playing drums, and a dancing woman.
 
 ### Clothing & dress
 
-The sources give limited information about everyday and ceremonial clothing. A Museum of Ethnography catalogue records a *hatt*, or hat, from Sierra Leone. It is top-shaped and made of natural-coloured bast, with the outside completely covered in yellow and black bast. The catalogue states that such hats are worn more rarely by Mendi and more often by Temne. A British Museum apron is made of glass beads and fastened with a twisted fibre cord. The sources do not identify separate men’s and women’s clothing systems, footwear, belts, or a complete ceremonial dress ensemble.
+The sources give limited information about everyday and ceremonial clothing. A Museum of Ethnography catalogue records a *hatt*, or hat, from Sierra Leone. It is top-shaped and made of natural-coloured bast, with the outside completely covered in yellow and black bast. The catalogue states that such hats are worn more rarely by Mendi and more often by Temne. A British Museum apron is made of glass beads and fastened with a twisted fibre cord.
 
-Historical records describe chief’s regalia and taboos associated with the chief’s role. The chief and the Sanko, the masquerader representing the chiefdom spirit, appeared publicly together and carried the same regalia. The sources do not specify the garments or ornaments composing that regalia.
+Historical records describe chief’s regalia and taboos associated with the chief’s role. The chief and the Sanko, the masquerader representing the chiefdom spirit, appeared publicly together and carried the same regalia.
 
 ### Architecture
 
-The sources do not provide a general description of Temne house forms, roofing, settlement plans, or decorative architecture. They do record historical villages, courts of justice, and the burial of the dead within the house with gold ornaments. Freetown, a city founded in 1792 as a settlement for freed slaves, is described as having houses with stone foundations and wooden superstructures by 1798, but the supplied sources do not identify this as a specifically Temne architectural tradition.
+The sources record historical villages, courts of justice, and the burial of the dead within the house with gold ornaments. Freetown, a city founded in 1792 as a settlement for freed slaves, is described as having houses with stone foundations and wooden superstructures by 1798.
 
 ### Ceramics, metalwork & everyday objects
 
 The museum records document wooden figures, masks, a wooden shuttle, a weaving comb, and medical or ritual objects. A bowl used as a medicine man’s equipment is made from a round calabash shell, with cowrie shells attached around the edge, cotton lining, metal bells, glass bottles, and string-wrapped charms. A cane switch associated with medicine man’s equipment consists of cane sticks wrapped with cotton and decorated with rows of cowrie shells.
 
-Other records describe a buffalo or bush cow mask carved from wood, painted with blue pigment, fitted with a wire framework, and decorated with raffia. A Sowei mask is carved of wood, stained black, shaped as a human face with a helmet, and pierced for attaching a grass fringe. The sources do not describe Temne ceramics or a broader metalworking tradition.
+Other records describe a buffalo or bush cow mask carved from wood, painted with blue pigment, fitted with a wire framework, and decorated with raffia. A Sowei mask is carved of wood, stained black, shaped as a human face with a helmet, and pierced for attaching a grass fringe.
 
 ### Jewelry & body adornment
 
 The museum records document adornment through cowrie shells, beads, cotton, raffia, and metal. One wooden female figure has red and orange glass beads attached to each earlobe with green thread. Another has metal nails inserted for eyes, while a further figure has a string wrapped in metal around the waist. A separate female figure has six carved rings around the neck and a blue-striped cotton rectangle tied around the waist.
 
-The sources do not document Temne tattooing, henna, hair practices, or named jewelry types. Gold ornaments are mentioned in a historical description of funerary burial, but no specific form is identified.
+Gold ornaments are mentioned in a historical description of funerary burial, but no specific form is identified.
 
 ## Music & performance
 
-The sources do not provide a named Temne musical instrument repertoire or named song genres. A museum catalogue records a batik depicting two women playing drums and a dancing woman, while a historical description mentions marriage dances. The sources also describe secret societies and initiation ceremonies, but do not provide their musical forms.
+A museum catalogue records a batik depicting two women playing drums and a dancing woman, while a historical description mentions marriage dances. The sources also describe secret societies and initiation ceremonies.
 
-Temne oral literature includes stories and proverbs in the Temne language. Many recorded stories concern *panis*, the trickster spider, a character also found in the storytelling traditions of the Vai, Mende, and Limba of Sierra Leone. The sources do not explain whether these stories were accompanied by instruments, song, or dance.
+Temne oral literature includes stories and proverbs in the Temne language. Many recorded stories concern *panis*, the trickster spider, a character also found in the storytelling traditions of the Vai, Mende, and Limba of Sierra Leone.
 
 ## Dance & theatre
 
 The sources mention marriage dances and a museum-recorded batik image of two women playing drums beside a dancing woman. They also document masks and masquerading. The chiefdom spirit, or *kärfi*, is represented by a distinct mask, and an individual called the Sanko performs as its masquerader. The Sanko and the chief appear publicly together, carrying the same regalia and observing the same role-specific taboos.
 
-Secret societies include the men’s Poro and the women’s Bondo, as well as Ragbenle or Ramena. Their practices include secret initiation ceremonies as rites of passage for young boys and girls. The sources do not describe choreographies, theatre plots, named dances, or the performance contexts of the masks in further detail.
+Secret societies include the men’s Poro and the women’s Bondo, as well as Ragbenle or Ramena. Their practices include secret initiation ceremonies as rites of passage for young boys and girls.
 
 ## Festivals & rituals
 
-The sources do not describe an annual Temne festival calendar or named seasonal festivals. They do document initiation ceremonies connected with secret societies. Chiefdoms participate in the men’s Poro, Ragbenle or Ramena, and the women’s Bondo. These societies conduct secret initiation ceremonies understood as rites of passage for young boys and girls.
+The sources document initiation ceremonies connected with secret societies. Chiefdoms participate in the men’s Poro, Ragbenle or Ramena, and the women’s Bondo. These societies conduct secret initiation ceremonies understood as rites of passage for young boys and girls.
 
 Temne traditional religion includes sacrifices to patrilineal ancestral spirits and to other spirits, some regarded as good and others as mischievous or vicious. The chief possesses a sacred force distinguishing the office from ordinary community membership, and the chiefdom spirit is represented through a mask and masquerader.
 
-Historical descriptions mention rituals of chief succession involving goat blood and rice flour, marriage dances, and funerary burial within the house with gold ornaments. The supplied sources do not establish a standard calendar date or season for these ceremonies.
+Historical descriptions mention rituals of chief succession involving goat blood and rice flour, marriage dances, and funerary burial within the house with gold ornaments.
 
 ## Foodways
 
-The Temne are traditionally farmers who grow rice, cassava, millet, and kola nut. Cash crops include peanuts, tobacco, cotton, palm, and kola nuts. Some Temne are fishermen, artisans, and traders. The supplied sources do not name a Temne dish, recipe, cooking method, beverage tradition, or dietary rule.
+The Temne are traditionally farmers who grow rice, cassava, millet, and kola nut. Cash crops include peanuts, tobacco, cotton, palm, and kola nuts. Some Temne are fishermen, artisans, and traders.
 
-Rice flour appears in a historical description of chief succession rituals involving goat blood and rice flour. Portuguese records from the early sixteenth century mention a Temne word for rice, “nack maloo,” borrowed from Mandinka. The sources also describe trade in agricultural products and other goods, including groundnuts, palm kernels, palm oil, rubber, timber, gold, ivory, wood, pepper, and slaves, but they do not identify these as prepared foods or ceremonial dishes.
+Rice flour appears in a historical description of chief succession rituals involving goat blood and rice flour. Portuguese records from the early sixteenth century mention a Temne word for rice, “nack maloo,” borrowed from Mandinka. The sources also describe trade in agricultural products and other goods, including groundnuts, palm kernels, palm oil, rubber, timber, gold, ivory, wood, pepper, and slaves.
 
 The museum record for the batik states that kola was used to dye the cloth brown. This is evidence of kola in a material process, not a documented food preparation.
 
@@ -79,7 +77,7 @@ Temne oral literature is documented through collections of fables, proverbs, sto
 
 In 1916, Northcote Thomas published an anthropological report whose second part contained a Temne-English dictionary and whose third part contained a grammar and 27 stories told in Temne with interlinear English translation. Many stories feature *panis*, the trickster spider. Thomas’s work also compared Temne vocabulary with Kissi and other related languages.
 
-The sources list Temne names and proverbs, stories and songs from Sierra Leone, and Temne stories as later publications. They do not describe an epic cycle, contemporary literary movement, or formal preservation project beyond these written collections.
+The sources list Temne names and proverbs, stories and songs from Sierra Leone, and Temne stories as later publications.
 
 ## Language & religion
 

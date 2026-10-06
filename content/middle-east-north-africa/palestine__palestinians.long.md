@@ -29,35 +29,23 @@ Palestinians (Arabic: الفلسطينيون, *al-Filasṭīniyyūn*) are an Ara
 
 ### Clothing & dress
 
-Women's dress is layered: the handwoven linen underdress with its *ikat* collar beneath the embroidered *thob*, and for weddings the fully embroidered *jellaya* with embroidered *sirwal* trousers. Colour and ground fabric vary by garment — white cotton, indigo-dyed cotton, black or indigo linen — while the embroidered zones stay in the same named positions (*qabbeh*, *sawa'id*, *mawaris*, *banayeq*). Men's documented outerwear is the square cape *abayeh* (also *abay*), here in green-and-white striped silk twill with the seams trimmed in braided cotton wrapped in metal foil. The sources used do not describe Palestinian head coverings, belts or footwear, nor regional dress styles beyond the village examples above and the Beit Dajan bridal trousseau.
+Women's dress is layered: the handwoven linen underdress with its *ikat* collar beneath the embroidered *thob*, and for weddings the fully embroidered *jellaya* with embroidered *sirwal* trousers. Colour and ground fabric vary by garment — white cotton, indigo-dyed cotton, black or indigo linen — while the embroidered zones stay in the same named positions (*qabbeh*, *sawa'id*, *mawaris*, *banayeq*). Men's documented outerwear is the square cape *abayeh* (also *abay*), here in green-and-white striped silk twill with the seams trimmed in braided cotton wrapped in metal foil.
 
 ### Architecture
 
-The sources used do not describe Palestinian vernacular house forms, materials or ornament. The single architectural subject documented is monumental and religious: Al-Aqsa Mosque (*al-Masjid al-ʾAqṣā*, "the Farthest Mosque") in the Old City of Jerusalem, built on the Temple Mount, known in Islam as the al-Aqsa Compound or *Haram esh-Sharif*. Muslims hold that Muhammad was transported there from the Great Mosque of Mecca during the Night Journey, and Islamic tradition holds that he led prayers towards the site until the sixteenth or seventeenth month after his migration from Mecca to Medina, when he was directed to turn towards the Kaaba. The wider built record of Palestine named in the sources is a sequence of periods rather than described forms — Biblical, Roman, Byzantine, Umayyad, Abbasid, Fatimid, Crusader, Ayyubid, Mamluk and Ottoman — strata that Palestinians have come to understand as part of their own identity over the last century.
+The single architectural subject documented is monumental and religious: Al-Aqsa Mosque (*al-Masjid al-ʾAqṣā*, "the Farthest Mosque") in the Old City of Jerusalem, built on the Temple Mount, known in Islam as the al-Aqsa Compound or *Haram esh-Sharif*. Muslims hold that Muhammad was transported there from the Great Mosque of Mecca during the Night Journey, and Islamic tradition holds that he led prayers towards the site until the sixteenth or seventeenth month after his migration from Mecca to Medina, when he was directed to turn towards the Kaaba. The wider built record of Palestine named in the sources is a sequence of periods rather than described forms — Biblical, Roman, Byzantine, Umayyad, Abbasid, Fatimid, Crusader, Ayyubid, Mamluk and Ottoman — strata that Palestinians have come to understand as part of their own identity over the last century.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not cover Palestinian ceramics, metalwork or wooden household objects. The only metal in the documented objects is decorative trim: the braided cotton wrapped in metal foil edging the seams of the man's *abayeh*. Of everyday furnishing, only the embroidered cushion covers are represented.
-
-### Jewelry & body adornment
-
-The sources used do not cover Palestinian jewellery, tattooing, henna or hair practices.
+The only metal in the documented objects is decorative trim: the braided cotton wrapped in metal foil edging the seams of the man's *abayeh*. Of everyday furnishing, only the embroidered cushion covers are represented.
 
 ## Music & performance
 
-The sources used do not cover Palestinian instruments, song genres or musical performance contexts. No UNESCO Intangible Cultural Heritage elements are listed for the country in the material consulted.
-
-## Dance & theatre
-
-The sources used do not cover Palestinian dance or dramatic traditions.
+No UNESCO Intangible Cultural Heritage elements are listed for the country in the material consulted.
 
 ## Festivals & rituals
 
 The annual festival calendar is not covered by the sources used. Of life-cycle rites, only marriage is documented, and only through dress. In Beit Dajan and its surrounding villages a bride's trousseau comprised many dresses, of which the embroidered *jellaya* was the most costly; it was worn with embroidered *sirwal* trousers at weddings and other celebrations, and specifically at the moment the bride first appeared in public. The sources say nothing of birth, coming-of-age or funerary observance, and nothing of the ritual calendars of the religious communities they name. Two secular commemorations are recorded: the United Nations has observed an annual International Day of Solidarity with the Palestinian People since 1978, and the sources note the 1948 establishment of Israel, the 1948 Palestinian expulsion and the 1967 Palestinian exodus as the events around which a shared Palestinian future came to be articulated.
-
-## Foodways
-
-The sources used do not cover Palestinian staples, dishes, ceremonial food or coffee and tea customs.
 
 ## Oral tradition & literature
 

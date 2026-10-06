@@ -13,8 +13,6 @@ The Piegan, also known as the Pikuni, Piikuni, Piikani, and Piikáni, are an Alg
 
 ### Textile & pattern traditions
 
-The sources do not document named Piegan Blackfeet textile traditions or pattern systems beyond descriptions of decorated clothing in museum catalogue records.
-
 **Decorated hide clothing** — A museum record describes South Piegan Chief Big Spring wearing a decorated hide shirt and leggings, a loin covering, and moccasins. The same record describes his wife wearing a decorated cloth dress with beadwork and horizontal strips of cloth.
 
 **Beadwork** — The catalogue records describe beadwork on a woman’s cloth dress, on Big Spring’s hide shirt, and on a man’s bracelets and choker.
@@ -25,7 +23,7 @@ The sources do not document named Piegan Blackfeet textile traditions or pattern
 
 **Hide shirt** — Two catalogue records describe hide shirts: Big Spring’s decorated hide shirt and Two Bears’s hide shirt with bead decoration.
 
-**Moccasins** — Big Spring is recorded wearing moccasins, but the sources do not provide a vernacular name, construction method, or pattern description.
+**Moccasins** — Big Spring is recorded wearing moccasins.
 
 **Motif vocabulary.** The sources name no specific textile motifs.
 
@@ -35,39 +33,35 @@ The museum records provide examples of clothing and adornment but do not disting
 
 ### Architecture
 
-The sources do not document Piegan Blackfeet house forms, building materials, roof types, settlement layouts, or architectural decoration. One museum record places tepees in the background of a group photograph, but it provides no description of their construction or use.
+One museum record places tepees in the background of a group photograph, but it provides no description of their construction or use.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not document Piegan Blackfeet ceramics, metalwork, wooden objects, household goods, or named tools. Museum records mention rifles, a long lance, a horse, and an attached transporter in a photographic scene, but do not describe their manufacture or cultural significance.
+Museum records mention rifles, a long lance, a horse, and an attached transporter in a photographic scene.
 
 ### Jewelry & body adornment
 
-The catalogue records document several forms of personal adornment. Big Spring wears necklaces, while his wife wears a cloth scarf. Acustie (Many Diving) wears a fur and shell neck ornament, a bead and feather choker, beaded bracelets, and a horned ermine trimmed headdress. Big Spring and other photographed people wear feathered headdresses, and Two Bears wears an eagle feather headdress tipped with horse hair. The sources do not document tattooing, henna, hair practices, or ritual functions for these objects.
+The catalogue records document several forms of personal adornment. Big Spring wears necklaces, while his wife wears a cloth scarf. Acustie (Many Diving) wears a fur and shell neck ornament, a bead and feather choker, beaded bracelets, and a horned ermine trimmed headdress. Big Spring and other photographed people wear feathered headdresses, and Two Bears wears an eagle feather headdress tipped with horse hair.
 
 ## Music & performance
 
-The sources do not name Piegan Blackfeet musical instruments, song genres, musical repertories, or performance contexts. They state that the Blackfeet have “manly-hearted women,” recorded as acting in many social roles of men. This includes a willingness to sing alone, which was usually considered “immodest,” and to use a men’s singing style. The sources do not describe the songs, their occasions, their melodies, or their instruments.
-
-## Dance & theatre
-
-The sources do not document named Piegan Blackfeet dances, dramatic traditions, theatrical forms, or dance occasions.
+The sources state that the Blackfeet have “manly-hearted women,” recorded as acting in many social roles of men. This includes a willingness to sing alone, which was usually considered “immodest,” and to use a men’s singing style.
 
 ## Festivals & rituals
 
-The sources do not provide an annual festival calendar or descriptions of Piegan Blackfeet birth, coming-of-age, wedding, or funeral rites. They state that the Blackfeet hold belief “in a sacred force that permeates all things, represented symbolically by the sun whose light sustains all things.” Tribal oral histories place humans near the Rocky Mountain Front for thousands of years before European contact, and the Blackfoot creation story is set near Glacier National Park in an area now known as the Badger-Two Medicine. The sources do not give dates for festivals or describe ritual procedures.
+The sources state that the Blackfeet hold belief “in a sacred force that permeates all things, represented symbolically by the sun whose light sustains all things.” Tribal oral histories place humans near the Rocky Mountain Front for thousands of years before European contact, and the Blackfoot creation story is set near Glacier National Park in an area now known as the Badger-Two Medicine.
 
 ## Foodways
 
-The sources do not document named Piegan Blackfeet dishes, staple foods, cooking methods, dietary rules, or ceremonial foodways. They state that the people practiced some agriculture and were partly nomadic, and that they moved westward after adopting horses and guns, which gave them a larger range for bison hunting. The sources also report that disruption of food supplies and war caused starvation, and that the last buffalo hunt failed in 1882, which became known as the starvation year.
+The sources state that the people practiced some agriculture and were partly nomadic, and that they moved westward after adopting horses and guns, which gave them a larger range for bison hunting. The sources also report that disruption of food supplies and war caused starvation, and that the last buffalo hunt failed in 1882, which became known as the starvation year.
 
 ## Oral tradition & literature
 
-The Blackfoot creation story is set near Glacier National Park in an area now known as the Badger-Two Medicine. Tribal oral histories state that humans lived near the Rocky Mountain Front for thousands of years before European contact. The sources do not provide the text of these traditions, named folktales, proverbs, riddles, or epic poems. James Welch wrote *Killing Custer: The Battle of Little Bighorn and the Fate of the Plains Indians*, a non-fiction historical account, and his award-winning novel *Fools Crow* is based on the Blackfeet tribe and its culture. Stephen Graham Jones’s *The Buffalo Hunter Hunter* centers on a Piegan Blackfeet man who becomes a vampire and seeks revenge for crimes committed by the United States government against his people and their land.
+The Blackfoot creation story is set near Glacier National Park in an area now known as the Badger-Two Medicine. Tribal oral histories state that humans lived near the Rocky Mountain Front for thousands of years before European contact. James Welch wrote *Killing Custer: The Battle of Little Bighorn and the Fate of the Plains Indians*, a non-fiction historical account, and his award-winning novel *Fools Crow* is based on the Blackfeet tribe and its culture. Stephen Graham Jones’s *The Buffalo Hunter Hunter* centers on a Piegan Blackfeet man who becomes a vampire and seeks revenge for crimes committed by the United States government against his people and their land.
 
 ## Language & religion
 
-The Piegan are an Algonquian-speaking people, and Blackfoot is described as an agglutinative language within the Algonquian-language family. The sources give the names Piegan, Pikuni, Piikuni, Piikani, and Piikáni, as well as the Blackfeet terms ᑯᖿᖹ / Piikáni / ṗiik̇ǔni and ᓱᖽᐧᖿ Siksiká, derived from ᓱᖽᐧᖼᖾᖳᐡ Siksikáíkoan. The sources do not document historical scripts, dialect divisions, or a current religious landscape. They state that the Blackfeet hold belief in a sacred force permeating all things, symbolically represented by the sun whose light sustains all things.
+The Piegan are an Algonquian-speaking people, and Blackfoot is described as an agglutinative language within the Algonquian-language family. The sources give the names Piegan, Pikuni, Piikuni, Piikani, and Piikáni, as well as the Blackfeet terms ᑯᖿᖹ / Piikáni / ṗiik̇ǔni and ᓱᖽᐧᖿ Siksiká, derived from ᓱᖽᐧᖼᖾᖳᐡ Siksikáíkoan. The sources state that the Blackfeet hold belief in a sacred force permeating all things, symbolically represented by the sun whose light sustains all things.
 
 ## Sources & further reading
 

@@ -13,7 +13,7 @@ The Qʼeqchiʼ are a Mayan people of northern Guatemala whose language belongs t
 
 ### Textile & pattern traditions
 
-The sources do not describe Qʼeqchiʼ weaving techniques, looms or named textile traditions. What they do document is a set of finished cloth objects held by the British Museum, all of them cotton or synthetic, and most of them belonging to dance costume rather than daily wear.
+What the sources do document is a set of finished cloth objects held by the British Museum, all of them cotton or synthetic, and most of them belonging to dance costume rather than daily wear.
 
 **Embroidered blouse** — a short-sleeved blouse of lemon-coloured synthetic fabric, gathered with elastic at the cuffs, with an embroidered yoke and a scalloped-edged neck. The yoke carries a blue-and-white border and, at its centre, a blue dove edged in pink, with flowers in pinks and reds.
 
@@ -33,7 +33,7 @@ The collected garments divide into two groups. The embroidered blouse — synthe
 
 ### Architecture
 
-The sources used do not cover Qʼeqchiʼ house form, building materials or vernacular architecture. What they do note about the built landscape is indirect: the difficult mountainous terrain of the Qʼeqchiʼ homeland is identified as one of the factors that allowed the language to survive where neighbouring Itzaʼ, Mopan and Chʼoltiʼ became moribund or extinct.
+What the sources do note about the built landscape is indirect: the difficult mountainous terrain of the Qʼeqchiʼ homeland is identified as one of the factors that allowed the language to survive where neighbouring Itzaʼ, Mopan and Chʼoltiʼ became moribund or extinct.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -41,15 +41,13 @@ Two object classes stand out in the collection. The first is the *incensario*, a
 
 ### Jewelry & body adornment
 
-The sources used do not cover Qʼeqchiʼ jewelry, tattooing or hair practice. The only adornment they document is worn as part of masked costume: the bells hung from masks, the tin and leather ears nailed to their temples, and the wool hair-bundles of the dance head-dress.
+The only adornment they document is worn as part of masked costume: the bells hung from masks, the tin and leather ears nailed to their temples, and the wool hair-bundles of the dance head-dress.
 
 ## Music & performance
 
 Music enters the sources through two objects and one text. A gourd instrument is recorded as an oblong gourd with ridges carved along the top, two holes cut on each side and one at the end, a length of curved wood inserted into the open end, and a painted surface of red and green stripes. Alongside it is a devil-dance rattle of tin, wood and cloth — an instrument tied explicitly to masked performance rather than to independent music-making, which suggests that in the material recorded here sound and dance are not separable categories.
 
 Sung repertoire appears in the written record instead. The Catholic songbook *Qanimaaq Xloqʼal li Qaawaʼ*, "We praise the Lord", is described as very popular among Qʼeqchiʼ Catholics, in print for many years and regularly updated with new songs — the sources' clearest indication of an active, expanding vocal tradition, and a religious rather than secular one. The Roman Catholic Church has been one of the primary proponents of written Qʼeqchiʼ over the past two decades, and this hymnal is part of that effort.
-
-Beyond these, the sources name no instruments, no song genres and no performance occasions, and they do not describe marimba practice among the Qʼeqchiʼ.
 
 ## Dance & theatre
 

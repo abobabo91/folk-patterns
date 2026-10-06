@@ -85,7 +85,7 @@ The British Museum records several instruments without consistently naming perfo
 
 ## Dance & theatre
 
-UNESCO describes the Durbar in Kano as four processions of riders and people on foot, with different timings and costumes. Its participants come from several ethnic communities. The sources here do not establish a separate named Hausa dance or theatre form.
+UNESCO describes the Durbar in Kano as four processions of riders and people on foot, with different timings and costumes. Its participants come from several ethnic communities.
 
 ## Festivals & rituals
 

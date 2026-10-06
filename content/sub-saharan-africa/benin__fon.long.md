@@ -21,7 +21,7 @@ A *récade* is a staff or axe-shaped sign of royal authority. The selected Briti
 
 The British Museum's appliqué banner illustrates a Dahomean military victory during the reign of King Glélé. Its curator says this example was made in the early twentieth century by the Yémadjé family, traditional makers in the Abomey palace, as a replica for presentation or sale. The cloth therefore documents a continuing court craft and historical imagery, not the physical banner used in the nineteenth-century event it depicts.
 
-Several metal figures show bowls, human figures, birds, and small animals assembled into complex forms. Their individual catalogue descriptions support what is visible, but do not assign every figure a named rite. The collection also includes bead-and-shell necklaces or anklets, a drum with woven construction, two different iron gongs, and a carved rattle staff. The British Museum register specifically says its paired gongs were used in ceremonies and dances. It does not name a particular dance for them.
+Several metal figures show bowls, human figures, birds, and small animals assembled into complex forms. Their individual catalogue descriptions support what is visible, but do not assign every figure a named rite. The collection also includes bead-and-shell necklaces or anklets, a drum with woven construction, two different iron gongs, and a carved rattle staff. The British Museum register specifically says its paired gongs were used in ceremonies and dances.
 
 ## What the source review withheld
 

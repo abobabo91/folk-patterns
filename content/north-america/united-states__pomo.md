@@ -149,5 +149,3 @@ Pomo includes seven distinct languages, while Pomo religion centers on Kuksu or 
 - Wikipedia, “Pomo religion”: https://en.wikipedia.org/wiki/Pomo_religion
 - The supplied museum catalogue records from the British Museum, Museum of World Culture, and Museum of Ethnography.
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
-- The supplied sources do not provide books, named documentation projects, or museum collection URLs.
-

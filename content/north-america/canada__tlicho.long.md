@@ -29,10 +29,6 @@ The catalogue records behind this atlas name no vernacular Tłı̨chǫ terms for
 
 The dress documented here is cold-country tailored work in skin and cloth. Footwear comes in two forms: moccasins of smoked moose skin with beaver-fur trim, cloth insets and floral glass beadwork, and slippers of moose skin with porcupine quillwork and beaver-fur trim. Outerwear is represented by a parka — in this instance not of skin but of green cotton, with leather and fur trim placed at the shoulders, wrists and bottom hem, bead-embroidered, and fastened with a metal zipper, showing the incorporation of manufactured cloth and findings into a northern garment form. A padded cotton head-band or tumpline, with rope at each end for hauling loads against the forehead, belongs to the same body-worn kit, though its purpose is transport rather than dress. The sources used do not distinguish men's from women's clothing, describe no head coverings or belts, and name no ceremonial dress distinct from daily wear.
 
-### Architecture
-
-The sources used do not cover Tłı̨chǫ house forms, building materials or vernacular architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Two documented objects belong to the working equipment of a trapping and hauling economy. A **pelt-stretcher** for lynx is carved from a length of wood tapered to a point at one end — a single-piece tool for dressing fur, the commodity at the centre of Tłı̨chǫ trade at Old Fort Rae (*Nıhshı̀ Kʼe*, *Ninhsin Kon*) and Fort Norman (*Tiłihtʼa*). A **head-band or tumpline**, an elliptical pad of cotton with rope tied at both ends, carries loads by pressure across the wearer's head. The sources used describe no Tłı̨chǫ ceramics and no metalwork; the only metal they name is the zipper on a beaded cotton parka, and the only glass is the beadwork on parka and moccasins.
@@ -43,15 +39,11 @@ The sources used name no Tłı̨chǫ jewelry, tattooing, or hair practices; glas
 
 ## Music & performance
 
-The sources used do not describe Tłı̨chǫ instruments, song genres or musical performance contexts. The one broadcast and spoken-word institution they name is a radio station set up as part of the Tłı̨chǫ Government's language work, alongside a weekly Elder Evening Story Telling.
-
-## Dance & theatre
-
-The sources used do not cover Tłı̨chǫ dance or dramatic traditions.
+The one broadcast and spoken-word institution they name is a radio station set up as part of the Tłı̨chǫ Government's language work, alongside a weekly Elder Evening Story Telling.
 
 ## Festivals & rituals
 
-The sources used do not describe an annual festival calendar or life-cycle rites. What they do record are the political ceremonies that structure recent Tłı̨chǫ public life: the signing of Treaty 8 in 1900 at Fort Resolution (*Įndàà*, *Deninoo Kue*), where Drygeese signed as spokesman for the Tłı̨chǫ and Yellowknives with the headmen Benaiyah and Sek'eglinan; the signing of Treaty 11 in the summer of 1921 by the trading chief Monfwi (*EwaroʼA*, "Small Mouth", 1866–1936), who had been appointed by the Tłı̨chǫ leadership to represent all Tłı̨chǫ groups; and an earlier peace treaty at Mesa Lake in 1825 (or 1829) between the great Tłı̨chǫ *dǫnekʼàawi* ("people's trader", i.e. trading chief) Chief Edzo and the Yellowknife trading chief Akaitcho, which ended a long period of hostility and warfare between the two peoples. The Tłı̨chǫ Agreement, signed on 25 August 2003 and in full effect from 4 August 2005, was marked as "the first official day of the Tlicho Government and the Tlicho community governments."
+What the sources do record are the political ceremonies that structure recent Tłı̨chǫ public life: the signing of Treaty 8 in 1900 at Fort Resolution (*Įndàà*, *Deninoo Kue*), where Drygeese signed as spokesman for the Tłı̨chǫ and Yellowknives with the headmen Benaiyah and Sek'eglinan; the signing of Treaty 11 in the summer of 1921 by the trading chief Monfwi (*EwaroʼA*, "Small Mouth", 1866–1936), who had been appointed by the Tłı̨chǫ leadership to represent all Tłı̨chǫ groups; and an earlier peace treaty at Mesa Lake in 1825 (or 1829) between the great Tłı̨chǫ *dǫnekʼàawi* ("people's trader", i.e. trading chief) Chief Edzo and the Yellowknife trading chief Akaitcho, which ended a long period of hostility and warfare between the two peoples. The Tłı̨chǫ Agreement, signed on 25 August 2003 and in full effect from 4 August 2005, was marked as "the first official day of the Tlicho Government and the Tlicho community governments."
 
 ## Foodways
 

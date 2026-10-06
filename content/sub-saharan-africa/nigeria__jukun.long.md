@@ -27,11 +27,7 @@ The Jukun, also called Njikum, are an ethno-linguistic group in West Africa. The
 
 ### Clothing & dress
 
-The museum records include wrappers identified as *kyadze* cloth, including examples composed of nine or ten narrow strips. Their surfaces may carry reversible supplementary weft patterns, multicoloured decoration, embroidery, additional border strips and short fringes. The sources do not describe everyday clothing, distinctions between men’s and women’s dress, head coverings, belts, footwear or other forms of ceremonial dress.
-
-### Architecture
-
-The sources used do not cover Jukun houses, settlements, roofs, building materials, named building types or architectural decoration.
+The museum records include wrappers identified as *kyadze* cloth, including examples composed of nine or ten narrow strips. Their surfaces may carry reversible supplementary weft patterns, multicoloured decoration, embroidery, additional border strips and short fringes.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,37 +35,33 @@ The museum records include ceremonial axes made of metal. One composite ceremoni
 
 The museum also records masks carved from wood, with eye holes and two horns, and standing wooden figures. One figure has a helmet-like head-dress, a tapering body, arms joined to the abdomen, a scarified face and eyes apparently made of aluminium. Another has a conical head-dress and one remaining eye apparently made of aluminium coated with resin. A further object is a standing figure of a man carved in wood.
 
-### Jewelry & body adornment
-
-The sources used do not cover Jukun jewelry, ornaments, tattoos, henna, hair practices or other forms of body adornment.
-
 ## Music & performance
 
-The sources used do not identify Jukun musical instruments, song genres, vocal traditions or performance settings. One museum record concerns a dance rattle worn on the ankle, made of palm leaf and fibre, but the catalogue does not name the dance or describe its musical role.
+One museum record concerns a dance rattle worn on the ankle, made of palm leaf and fibre, but the catalogue does not name the dance or describe its musical role.
 
 ## Dance & theatre
 
-The museum catalogue records a dance rattle worn on the ankle and made of palm leaf and fibre. It also records a wooden mask with eye holes and two horns, but does not identify a mask-dance tradition, dramatic genre or performance context. The sources used do not describe named Jukun dances, theatre, ceremonial choreography or entertainment traditions.
+The museum catalogue records a dance rattle worn on the ankle and made of palm leaf and fibre. It also records a wooden mask with eye holes and two horns.
 
 ## Festivals & rituals
 
-The sources used do not describe an annual Jukun festival calendar, harvest rite, fishing festival, life-cycle ceremony or funeral practice. They state that, before the coming of Christianity and Islam, the Jukun followed their own traditional religions. The catalogue’s description of a ceremonial axe does not explain the ceremony in which it was used.
+The sources state that, before the coming of Christianity and Islam, the Jukun followed their own traditional religions. The catalogue’s description of a ceremonial axe does not explain the ceremony in which it was used.
 
 ## Foodways
 
-The sources used do not describe Jukun staple foods, cooking methods, dishes, fishing cuisine, ceremonial foods, beverages or dietary rules. The sources mention that Jukun Wanu are fishermen living along the banks of the Benue and Niger, but give no further account of foodways.
+The sources mention that Jukun Wanu are fishermen living along the banks of the Benue and Niger, but give no further account of foodways.
 
 ## Oral tradition & literature
 
 Jukun oral traditions describe a migration from the east, possibly from Yemen, led by a leader named Agadu. The traditions recount travel through Kordofan, Fitri, Mandara and the Gongola area before reaching the Benue region. Another tradition recorded by C. K. Meek places the Jukun migration alongside the Kanuri people, through Wadai to Ngazargamu, and describes an earlier settlement in the Lake Chad region.
 
-The Jukun established a state centred on the Benue River, with its capital named Kororofa, and governed by a “Divine King” known as the Aku. The sources also discuss the Kano Chronicle, Katsina documents, Bornu traditions and the Hausa Bayajidda legend in relation to Kwararafa. The sources do not describe Jukun folktales, proverbs, riddles, epic poetry or contemporary literary preservation.
+The Jukun established a state centred on the Benue River, with its capital named Kororofa, and governed by a “Divine King” known as the Aku. The sources also discuss the Kano Chronicle, Katsina documents, Bornu traditions and the Hausa Bayajidda legend in relation to Kwararafa.
 
 ## Language & religion
 
 Jukun is a generic term for Jukun-speaking peoples. The sources name six dialect groupings: Wukari, Donga, Kona, Gwana and Pindiga, Jibu, and Wase Tofa. They also identify Jukun Takum, Jukun Wapan or Wukari, Jukun Wurkum or Jiba, and Djugun as languages or language names associated with the term “Jukun”; the sources do not provide a language-family classification.
 
-The Jukun of Wukari, Ibi, Dampar and Wase use Wapa for themselves, while the Jukun of Kona call themselves Jiba. The Hausa call them Kwararafa, Kororafa or Kororofa. Before Christianity and Islam, the Jukun followed their own traditional religions. The sources do not describe current denominations, sacred practices or religious ceremonies in detail.
+The Jukun of Wukari, Ibi, Dampar and Wase use Wapa for themselves, while the Jukun of Kona call themselves Jiba. The Hausa call them Kwararafa, Kororafa or Kororofa. Before Christianity and Islam, the Jukun followed their own traditional religions.
 
 ## Sources & further reading
 

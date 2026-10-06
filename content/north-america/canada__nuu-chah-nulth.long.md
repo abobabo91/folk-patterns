@@ -47,7 +47,7 @@ The sources record ornament on objects rather than on the body. Dentalium shells
 
 ## Music & performance
 
-Whaling is carried in song as well as in story: it is reflected in stories, songs, names, family lines and place names throughout Nuu-chah-nulth territories. Two bird-shaped rattles survive in these collections — one formed in two halves of painted alder secured with skin ties, the other of wood painted white with a design in black. A D-adze handle is carved with a squatting singing figure. Beyond this the sources used here do not describe instruments, song genres or performance occasions.
+Whaling is carried in song as well as in story: it is reflected in stories, songs, names, family lines and place names throughout Nuu-chah-nulth territories. Two bird-shaped rattles survive in these collections — one formed in two halves of painted alder secured with skin ties, the other of wood painted white with a design in black. A D-adze handle is carved with a squatting singing figure.
 
 ## Dance & theatre
 

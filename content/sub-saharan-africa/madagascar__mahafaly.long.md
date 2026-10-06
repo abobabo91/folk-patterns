@@ -19,7 +19,7 @@ The sources used give only a thin account of Mahafaly textile work, and name no 
 
 **Spun silk cloth** — locally spun silk was also used for clothing, though less frequently than cotton.
 
-**Mahafaly mats and baskets** — mat and basket weaving is one of the livelihood activities practised alongside herding, honey gathering, charcoal selling, woodworking and kitchen gardening. The sources do not describe the fibres, techniques or patterns used.
+**Mahafaly mats and baskets** — mat and basket weaving is one of the livelihood activities practised alongside herding, honey gathering, charcoal selling, woodworking and kitchen gardening.
 
 ### Clothing & dress
 
@@ -39,15 +39,7 @@ The one carved form the sources describe in detail is the ***aloalo***: a tall w
 
 ### Jewelry & body adornment
 
-The sources used do not cover Mahafaly jewellery, tattooing or other body adornment. One hair practice is recorded, and it is mortuary rather than decorative: at the death of a king, all his followers were required to cut their hair at the start of the mourning period, and anyone who did not comply was expelled from the community.
-
-## Music & performance
-
-The sources used do not cover Mahafaly instruments, song genres or musical performance contexts.
-
-## Dance & theatre
-
-The sources used do not cover Mahafaly dance or dramatic traditions.
+One hair practice is recorded, and it is mortuary rather than decorative: at the death of a king, all his followers were required to cut their hair at the start of the mourning period, and anyone who did not comply was expelled from the community.
 
 ## Festivals & rituals
 

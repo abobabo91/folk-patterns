@@ -23,17 +23,13 @@ The Kalabari are a sub-group of the Ijaw people of the eastern Niger Delta in Ni
 
 The sources describe Kalabari dress chiefly through two nineteenth- or early twentieth-century photographs and through the masquerade head-dresses. In a portrait of Chief Amachree with five other men, three elderly men are seated and three younger men stand behind; the seated men wear tunics, wrappers and hats and carry walking sticks, one wearing shoes and one wearing neck ornaments and wrist ornaments, while the standing men wear shirts, jackets and wrappers. A second portrait shows Chief Wilbraid seated in an admiral's uniform with his feet raised on a platform, flanked by two elderly men in tunics and wrappers, hats and neck ornaments and holding walking sticks; behind them stand soldiers in wrappers, waistcoats, shirts and head-dresses, carrying breech-guns and shields. Ceremonial head-dress is treated below under dance. The sources used do not otherwise distinguish men's from women's daily dress, nor name garment types.
 
-### Architecture
-
-The sources used do not describe Kalabari house form, building materials or settlement layout, beyond the fact that settlements were sited close to a river and that the kingdom comprised about thirty-five towns, villages and fishing settlements — among them Abonnema, Buguma, Bakana, Kula, Ke, Soku, Ido, Ifoko, Obonoma, Sangama, Tombia and Usokun.
-
 ### Ceramics, metalwork & everyday objects
 
 Kalabari pottery in the British Museum includes a globular vessel with a narrow neck and everted rim carrying a snake in relief on the upper body; a water vase of earthenware with incised decoration around rim and neck; and an earthenware cooking pot and bowl. Woodwork covers cylindrical openwork vessels with lids, and carved stools: one cylindrical stool has four panels of looped decoration and a human face in low relief; another carries a stylised bearded human face at the front with sub-cylindrical projections at the sides and a handle at the back; a third has a stylised head of a horned animal at the front with openwork angular loops at the sides and traces of yellowish pigment; a fourth a stylised standing man at the front with dentate ornaments at the sides. Several are recorded as heavily damaged by white ants.
 
 ### Jewelry & body adornment
 
-The sources used do not describe Kalabari jewelry, tattooing, hair practice or other body adornment as traditions. The only adornment they record is worn in the two photographic portraits, where seated elders wear neck ornaments and wrist ornaments with their tunics and wrappers, and one masquerade head-dress is set with glass mirrors and another with plastic buttons and a mirror at the front.
+The only adornment they record is worn in the two photographic portraits, where seated elders wear neck ornaments and wrist ornaments with their tunics and wrappers, and one masquerade head-dress is set with glass mirrors and another with plastic buttons and a mirror at the front.
 
 ## Music & performance
 
@@ -49,11 +45,11 @@ Ritual objects dominate the Kalabari holdings. **Chi shrines** take the form of 
 
 ## Foodways
 
-Three dishes are named as the popular traditional foods of the Kalabari. *Onunu* is pounded yam with ripe plantain and palm oil. *Tominafulo* is made with fresh fish, prawns, periwinkle and oyster alongside other local ingredients. *Odo'fulo*, also called Native Soup, is made with fresh seafood and other local ingredients. The predominance of fish, prawn, periwinkle and oyster matches a people who were fishermen before European contact and whose settlements stand on the water. The sources used do not describe cooking methods, ceremonial food, drink traditions or dietary rules.
+Three dishes are named as the popular traditional foods of the Kalabari. *Onunu* is pounded yam with ripe plantain and palm oil. *Tominafulo* is made with fresh fish, prawns, periwinkle and oyster alongside other local ingredients. *Odo'fulo*, also called Native Soup, is made with fresh seafood and other local ingredients. The predominance of fish, prawn, periwinkle and oyster matches a people who were fishermen before European contact and whose settlements stand on the water.
 
 ## Oral tradition & literature
 
-The sources used do not record Kalabari folktales, epic poetry, proverbs or storytelling occasions. What they do record is lexicographic and documentary work on the language: a Kalabari–English dictionary, a *Kalabari Children's Dictionary* by Pastor Daiwari Braide, and published orthographies for the Ibani and Okrika dialects prepared by Isaac Eyi Ngulube. Scholarly writing on Kalabari-area masquerade includes Anna Hlaváčová's studies of Ijo masquerade in the Niger Delta.
+What the sources do record is lexicographic and documentary work on the language: a Kalabari–English dictionary, a *Kalabari Children's Dictionary* by Pastor Daiwari Braide, and published orthographies for the Ibani and Okrika dialects prepared by Isaac Eyi Ngulube. Scholarly writing on Kalabari-area masquerade includes Anna Hlaváčová's studies of Ijo masquerade in the Niger Delta.
 
 ## Language & religion
 

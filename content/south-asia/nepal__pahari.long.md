@@ -15,7 +15,7 @@ The Pahadi people, also called Pahari, Parbatiya, or Parbate, are an Indo-Aryan 
 
 **Kullu shawls** — Woolen shawls are commonly produced in the Pahari region. Kullu shawls are known for their patterns and use of natural dyes.
 
-**Chamba rumals** — These handkerchiefs are identified as a Pahari textile tradition. The sources name their use but do not describe their materials or technique beyond describing them as handkerchiefs.
+**Chamba rumals** — These handkerchiefs are identified as a Pahari textile tradition. The sources name their use.
 
 **Woolen carpets and blankets** — Handloom weaving produces woolen carpets and blankets in the Pahari region. Most Paharis spin wool, while members of lower castes weave fabrics.
 
@@ -31,29 +31,29 @@ The Pahadi people, also called Pahari, Parbatiya, or Parbate, are an Indo-Aryan 
 
 ### Clothing & dress
 
-The sources describe Pahari clothing as adapted to the cold mountain climate. Woolen garments are common. Men wear *chogas*, described as long cloaks, while women drape shawls or pashmina scarves. Himachali caps, distinguished by visible colours and geometric patterns, are identified as a regional feature of Pahari attire. In Kashmir, the *pheran* is a traditional loose gown worn by both men and women during winter. The sources do not document Pahari footwear, belts, ceremonial dress, or a distinct Nepalese dress system beyond these garments and accessories.
+The sources describe Pahari clothing as adapted to the cold mountain climate. Woolen garments are common. Men wear *chogas*, described as long cloaks, while women drape shawls or pashmina scarves. Himachali caps, distinguished by visible colours and geometric patterns, are identified as a regional feature of Pahari attire. In Kashmir, the *pheran* is a traditional loose gown worn by both men and women during winter.
 
 ### Architecture
 
-The sources do not provide a general description of Pahari vernacular houses, settlement forms, roofs, or domestic architecture. In Pahari painting, however, Basohli compositions are distinguished by double-storey building structures in square-format backgrounds and elaborate shikharas. The sources also mention temples and fortresses decorated with mural paintings under the Dogras, including the temples of Krimchi and Babbor and the fort at Bahu.
+In Pahari painting, however, Basohli compositions are distinguished by double-storey building structures in square-format backgrounds and elaborate shikharas. The sources also mention temples and fortresses decorated with mural paintings under the Dogras, including the temples of Krimchi and Babbor and the fort at Bahu.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources mention pottery, wood carving, and woodwork as Pahari crafts, but they do not identify named ceramic forms, metalworking traditions, tools, or household objects. Pahari farmers raise water buffalo, sheep, goats, and cattle, and lower-caste Paharis are associated with goldsmithing, leather working, tailoring, music, drumming, and sweeping.
+The sources mention pottery, wood carving, and woodwork as Pahari crafts. Pahari farmers raise water buffalo, sheep, goats, and cattle, and lower-caste Paharis are associated with goldsmithing, leather working, tailoring, music, drumming, and sweeping.
 
 ### Jewelry & body adornment
 
-The sources do not document named Pahari jewelry types, body adornment, tattoos, henna, hair practices, or ritual ornamentation. Pahari paintings are described as including jewellery rendered with fine brushstrokes, particularly in Kangra compositions, but the sources do not identify the jewellery forms or materials.
+Pahari paintings are described as including jewellery rendered with fine brushstrokes, particularly in Kangra compositions.
 
 ## Music & performance
 
 Music has a central role in Pahari cultural life, especially during celebrations, festivals, and rituals. Folk music commonly addresses nature, love, separation, and devotion. The sources identify the *dhol*, a double-sided drum; the *nagara*, a kettledrum; the flute; and the *chimta*, a percussion instrument with jingling discs. These instruments are commonly used for folk songs.
 
-Among Nepalese Paharis, most higher-caste people are described as military men, farmers, and civil servants, while lower-caste people may work in music and drumming. The sources do not name specific Nepalese Pahari song genres or provide detailed descriptions of musical performance contexts such as weddings, funerals, courts, or marketplaces. Pahari painting and culture are associated with oral traditions, and the decline of Pahari dialects has also endangered ballads and folk tales transmitted through oral methods.
+Among Nepalese Paharis, most higher-caste people are described as military men, farmers, and civil servants, while lower-caste people may work in music and drumming. Pahari painting and culture are associated with oral traditions, and the decline of Pahari dialects has also endangered ballads and folk tales transmitted through oral methods.
 
 ## Dance & theatre
 
-*Nati*, originating from Himachal Pradesh, is a Pahari dance known for slow, rhythmic movements. It is performed during festivals and celebrations, often by long lines of dancers moving in unison to traditional music. The sources do not document a Nepalese Pahari theatre tradition, masked performance, shadow-puppet tradition, or named dramatic genre.
+*Nati*, originating from Himachal Pradesh, is a Pahari dance known for slow, rhythmic movements. It is performed during festivals and celebrations, often by long lines of dancers moving in unison to traditional music.
 
 ## Festivals & rituals
 
@@ -75,7 +75,7 @@ The sources also name Chamba Chukh, fried fish from the Chamba region, Kullu tro
 
 Pahari dialects, ballads, and folk tales have traditionally been transmitted orally. The sources state that this transmission has been disrupted by modern lifestyle changes, migration, and the diminishing use of local dialects. Pahari literary works and traditions are described as being at risk of loss.
 
-Pahari painting draws on literary and religious subjects including the *Ramayana*, *Gita Govinda*, *Rasa-Manjari*, and *Ragamala*. The central theme of Pahari painting is the eternal love of the Hindu deities Radha and Krishna. The sources do not provide a distinct Nepalese Pahari epic, named proverb tradition, riddle tradition, or contemporary literary movement.
+Pahari painting draws on literary and religious subjects including the *Ramayana*, *Gita Govinda*, *Rasa-Manjari*, and *Ragamala*. The central theme of Pahari painting is the eternal love of the Hindu deities Radha and Krishna.
 
 ## Language & religion
 

@@ -29,7 +29,7 @@ The sources used do not describe Mano everyday or ceremonial dress directly; wha
 
 ### Architecture
 
-The sources used do not cover Mano house form, building materials, roofing or architectural decoration. The only built environment they name is institutional and recent: the Ganta United Mission, founded by the American missionary Dr. George Way Harley after he settled at Ganta, which grew into high schools, a hospital and colleges, and whose mission station now houses the Winifred J. Harley School of Nursing, named for his wife. Harley spent over thirty-five years at Ganta, died on 7 November 1966, and his ashes were flown back to be buried near the station. The towns the Mano occupy — Ganta, Yekepa, Sanniquellie, Scalepea — are described in the sources as trading and commercial centres, busy in commerce alongside their Dan neighbours, but not architecturally.
+The only built environment they name is institutional and recent: the Ganta United Mission, founded by the American missionary Dr. George Way Harley after he settled at Ganta, which grew into high schools, a hospital and colleges, and whose mission station now houses the Winifred J. Harley School of Nursing, named for his wife. Harley spent over thirty-five years at Ganta, died on 7 November 1966, and his ashes were flown back to be buried near the station. The towns the Mano occupy — Ganta, Yekepa, Sanniquellie, Scalepea — are described in the sources as trading and commercial centres, busy in commerce alongside their Dan neighbours, but not architecturally.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,13 +43,9 @@ Two bracelets in the collection stand for Mano adornment in these records. One i
 
 The sources state that the Mano are skilled musicians and gifted in arts and crafts, but they name no instrument, no song genre and no performance occasion, so nothing more specific can be written here. What the collection contributes is the mask corpus that such performance would have used: a long series of miniature masks, most of them carved with bands across the forehead, one with incisions on both forehead and cheeks, two with a forward-sloping forehead, one of those with closed eyes and two bone teeth — and, at full scale, a single composite mask with metal studs on the forehead and a fur, feather, raphia and cloth headdress. Masks were being bought out of Mano hands in quantity by the middle of the twentieth century: Dr. George Way Harley purchased many from local people and established a museum in Cleveland, in the United States, with them, and the objects in this gallery were registered in 1954.
 
-## Dance & theatre
-
-The sources used do not name any Mano dance or dramatic tradition.
-
 ## Festivals & rituals
 
-Two institutions are named: the *poro* for men and the *sande* for women, described as the Mano's two traditional schools. The sources give no account of their curriculum, their season or their rites. Older religious practice centred on *Wala* — also given as *Ya'ala* and *Nyamba* — the creator god, worshipped up the mountain now called Mount Nimba, which is why the Mano name for it, *Niemba* / *Nyamba Tun*, carries the god's name; the gloss recorded for the name is "hills on which young maidens will slip and fall". As Christianity spread through northern Liberia during the nineteenth century, many Mano abandoned these practices for Methodist and Catholic congregations. The sources describe no annual festival calendar and no birth, initiation, marriage or funeral rite in detail.
+Two institutions are named: the *poro* for men and the *sande* for women, described as the Mano's two traditional schools. Older religious practice centred on *Wala* — also given as *Ya'ala* and *Nyamba* — the creator god, worshipped up the mountain now called Mount Nimba, which is why the Mano name for it, *Niemba* / *Nyamba Tun*, carries the god's name; the gloss recorded for the name is "hills on which young maidens will slip and fall". As Christianity spread through northern Liberia during the nineteenth century, many Mano abandoned these practices for Methodist and Catholic congregations. The sources describe no annual festival calendar and no birth, initiation, marriage or funeral rite in detail.
 
 ## Foodways
 

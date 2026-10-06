@@ -31,7 +31,7 @@ Cotton is the one fibre that runs through nearly every textile and composite obj
 
 ### Clothing & dress
 
-The garments in the collection are cotton. A shirt is catalogued simply as a garment of textile, probably cotton; a tube skirt and a belt are of cotton fibre. Body ornaments worn with dress include chest-straps — one made of seeds and tin, another of seeds and animal teeth — and a pair of leg-bands of cotton and snail shell. Ceremonial dress is represented by head-dresses of two distinct constructions. One is a length of bamboo folded into a circle, its ends tied together with yellow wool thread, with the outer face painted in pink and black geometric designs. The others are feather head-dresses built on a cane ring: small red, yellow and blue feathers are attached to the ring, which is bound with a strip of wool (white and black on one, white, purple and red on another, white and blue on a third), and a second, larger ring of long feathers stands behind the small one — blue on one example, white on another, and alternating bands of white and blue on a third. One of these carries two tassels of green feathers and of brown and white feathers tied at the bottom. The sources do not describe footwear.
+The garments in the collection are cotton. A shirt is catalogued simply as a garment of textile, probably cotton; a tube skirt and a belt are of cotton fibre. Body ornaments worn with dress include chest-straps — one made of seeds and tin, another of seeds and animal teeth — and a pair of leg-bands of cotton and snail shell. Ceremonial dress is represented by head-dresses of two distinct constructions. One is a length of bamboo folded into a circle, its ends tied together with yellow wool thread, with the outer face painted in pink and black geometric designs. The others are feather head-dresses built on a cane ring: small red, yellow and blue feathers are attached to the ring, which is bound with a strip of wool (white and black on one, white, purple and red on another, white and blue on a third), and a second, larger ring of long feathers stands behind the small one — blue on one example, white on another, and alternating bands of white and blue on a third. One of these carries two tassels of green feathers and of brown and white feathers tied at the bottom.
 
 ### Architecture
 
@@ -43,11 +43,11 @@ Three pottery vessels are recorded, all rounded bowls: one with three knobs spac
 
 ### Jewelry & body adornment
 
-Adornment in the collection is made from gathered animal and plant material rather than metal or stone: chest-straps strung from seeds with tin, and from seeds with animal teeth; leg-bands of cotton and snail shell; and the feather and bamboo head-dresses described above, whose makers used harpy eagle plumage for the back-racks and small red, yellow and blue feathers for the ring head-dresses. The sources do not document tattooing, body painting, hair practices or the ritual occasions on which any of these ornaments were worn.
+Adornment in the collection is made from gathered animal and plant material rather than metal or stone: chest-straps strung from seeds with tin, and from seeds with animal teeth; leg-bands of cotton and snail shell; and the feather and bamboo head-dresses described above, whose makers used harpy eagle plumage for the back-racks and small red, yellow and blue feathers for the ring head-dresses.
 
 ## Music & performance
 
-The sources used do not cover Kaxinawá instruments, song genres or performance occasions. The one adjacent body of recorded material they name is the Cashinahua DoReCo corpus of narrative audio compiled by Sabine Reiter, which carries transcriptions time-aligned at the phone level, translations and, for some texts, time-aligned morphological annotations — a linguistic rather than a musical record.
+The one adjacent body of recorded material they name is the Cashinahua DoReCo corpus of narrative audio compiled by Sabine Reiter, which carries transcriptions time-aligned at the phone level, translations and, for some texts, time-aligned morphological annotations — a linguistic rather than a musical record.
 
 ## Dance & theatre
 
@@ -59,7 +59,7 @@ The sources used give no festival calendar and no account of birth, marriage or 
 
 ## Foodways
 
-The sources used do not describe Kaxinawá staples, dishes or cooking. Two objects in the collection bear on food production and preparation: a fishing net of wood and cotton, and a carved wooden stirrer with protrusions flanking the handle at both the blade end and the grip end.
+Two objects in the collection bear on food production and preparation: a fishing net of wood and cotton, and a carved wooden stirrer with protrusions flanking the handle at both the blade end and the grip end.
 
 ## Oral tradition & literature
 
@@ -67,7 +67,7 @@ The sources used contain no folktales, epics or proverbs, but they point to wher
 
 ## Language & religion
 
-*Hãtxa Kuĩ* is a Panoan language of western South America, spoken by about 1,600 Kaxinawá in Peru on the Curanja and Purus Rivers and by 400 in the Brazilian state of Acre. Three named dialects survive or are recorded: Brazilian Kashinawa, Peruvian Kashinawa, and the extinct Juruá Kapanawa — the Capanahua of the Juruá River — together with Paranawa, also extinct. Between five and ten percent of speakers have some proficiency in Spanish; forty percent are literate, and twenty to thirty percent are literate in Spanish as a second language. Kenneth M. Kensinger's 1963 study of the phonological hierarchy of Cashinahua is among the earliest descriptive work. The sources used do not describe the religious landscape of the people.
+*Hãtxa Kuĩ* is a Panoan language of western South America, spoken by about 1,600 Kaxinawá in Peru on the Curanja and Purus Rivers and by 400 in the Brazilian state of Acre. Three named dialects survive or are recorded: Brazilian Kashinawa, Peruvian Kashinawa, and the extinct Juruá Kapanawa — the Capanahua of the Juruá River — together with Paranawa, also extinct. Between five and ten percent of speakers have some proficiency in Spanish; forty percent are literate, and twenty to thirty percent are literate in Spanish as a second language. Kenneth M. Kensinger's 1963 study of the phonological hierarchy of Cashinahua is among the earliest descriptive work.
 
 ## Sources & further reading
 

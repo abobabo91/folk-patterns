@@ -13,13 +13,11 @@ The Nuba are indigenous inhabitants of southern Sudan, comprising 50 various ind
 
 ### Textile & pattern traditions
 
-The sources do not document named Nuba textile or pattern traditions in sufficient detail for separate entries.
-
 **Motif vocabulary.** The sources name complex body-painting patterns and decorations, but provide no individual motif names.
 
 ### Clothing & dress
 
-Muslim men wear a sarong and occasionally a skull cap. Older Muslim men wear skull caps and grow beards. Older women and young women wear beads and wrap a sarong over their legs; they sometimes wear a cloak tied on the shoulder. Women and girls braid their hair in strands and string it with beads. Both sexes practice scarification. The museum catalogue records several forms of ceremonial and initiation dress: an initiation skirt made of grass; an initiation girdle made of a bull’s tail, with rope and fibre; a leather-fringe girdle with glass beadwork, cowrie shells, and snailshells; and belts worn by young men while wrestling or on ceremonial occasions. These belts use root, reptile skin, snake skin, brass rings, the carapace of a tortoise, and a projecting piece of gum arabic covered with monitor-lizard skin. A head-dress is made of two cow horns joined by cow skin. The sources do not document Nuba footwear.
+Muslim men wear a sarong and occasionally a skull cap. Older Muslim men wear skull caps and grow beards. Older women and young women wear beads and wrap a sarong over their legs; they sometimes wear a cloak tied on the shoulder. Women and girls braid their hair in strands and string it with beads. Both sexes practice scarification. The museum catalogue records several forms of ceremonial and initiation dress: an initiation skirt made of grass; an initiation girdle made of a bull’s tail, with rope and fibre; a leather-fringe girdle with glass beadwork, cowrie shells, and snailshells; and belts worn by young men while wrestling or on ceremonial occasions. These belts use root, reptile skin, snake skin, brass rings, the carapace of a tortoise, and a projecting piece of gum arabic covered with monitor-lizard skin. A head-dress is made of two cow horns joined by cow skin.
 
 ### Architecture
 
@@ -35,7 +33,7 @@ The museum objects include bowls made of earth and gum, decorated with ochre, gy
 
 Women wear beads, and the museum catalogue records glass beadwork in green, blue, saffron, and white, together with cowrie shells and snailshells. Initiation and ceremonial objects include bracelets made from a cow’s tail, a girdle made from a bull’s tail with rope and fibre, and belts ornamented with brass rings and the carapace of a tortoise. The catalogue also records a bracelet classified as religious or ritual equipment.
 
-Both sexes practice scarification. Young men spend hours painting their bodies with complex patterns and decorations; the source connects this practice with Nuba ideas about the power and importance of strength and beauty. Women and girls braid their hair in strands and string it with beads. The sources do not name particular scarification designs, jewelry forms, or body-painting motifs.
+Both sexes practice scarification. Young men spend hours painting their bodies with complex patterns and decorations; the source connects this practice with Nuba ideas about the power and importance of strength and beauty. Women and girls braid their hair in strands and string it with beads.
 
 ## Music & performance
 
@@ -43,29 +41,27 @@ The museum catalogue records several instruments. A lyre is made of wood, with a
 
 Initiation performance is represented by a pair of leg rattles made from palm-leaf rattles attached to a two-ply twisted palm-fibre string. The catalogue also records an initiation whip made of fibre with a wooden handle, initiation bracelets, and other initiation objects. A pair of cow bells made from baobab nuts has wooden clappers attached by string.
 
-The Wikipedia source describes family storytelling around the fire in the *shal*, where stories and oral traditions are told. It does not provide names for songs, genres, musical ensembles, or performance repertories. No UNESCO inscription concerns Nuba music.
+The Wikipedia source describes family storytelling around the fire in the *shal*, where stories and oral traditions are told. No UNESCO inscription concerns Nuba music.
 
 ## Dance & theatre
 
-The sources do not document named Nuba dances or dramatic traditions. They describe athletic competition, especially traditional wrestling, as a distinctive cultural practice. Strong young men compete with athletes from other villages to promote personal and village pride and strength; in some villages older men take part in club- or spear-fighting contests. The museum catalogue includes wrestler’s belts, belts worn by young men while wrestling, and ceremonial belts, but does not describe choreography, dance steps, or theatrical forms.
+The sources describe athletic competition, especially traditional wrestling, as a distinctive cultural practice. Strong young men compete with athletes from other villages to promote personal and village pride and strength; in some villages older men take part in club- or spear-fighting contests. The museum catalogue includes wrestler’s belts, belts worn by young men while wrestling, and ceremonial belts.
 
 ## Festivals & rituals
 
-The sources do not provide an annual Nuba festival calendar or named festivals. They describe initiation-related objects, including an initiation skirt, initiation girdle, initiation whip, initiation horn, initiation bracelets, and initiation leg rattles. The catalogue also records belts worn on ceremonial occasions, especially wrestling.
+The sources describe initiation-related objects, including an initiation skirt, initiation girdle, initiation whip, initiation horn, initiation bracelets, and initiation leg rattles. The catalogue also records belts worn on ceremonial occasions, especially wrestling.
 
 Traditional ritual specialists and priests are described in areas of the Nuba Mountains where Islam has not deeply penetrated. They hold authority alongside clan elders and are responsible for rain control, keeping the peace, and rituals intended to ensure successful crops. Some guard shrines containing objects used to secure positive ritual outcomes, including rain stones associated with rain magic, and some undergo what they recognize as spiritual possession.
 
-The sources also describe scarification and circumcision for boys and female genital mutilation for girls. They do not provide detailed accounts of weddings, funerals, birth ceremonies, or named coming-of-age rites.
+The sources also describe scarification and circumcision for boys and female genital mutilation for girls.
 
 ## Foodways
 
 The Nuba are primarily farmers and also herders who keep cattle, chickens, and other domestic animals. They maintain gardens near their homes for vegetables requiring constant attention, such as onions, peppers, and beans. Fields farther up the hills are used for quickly growing crops such as red millet without irrigation, while more distant farms produce white millet and other crops. In household compounds, maize and vegetables such as pumpkin, beans, and peanuts are grown behind the main enclosure.
 
-The sources do not name prepared dishes, cooking methods, beverages, food-preservation techniques, ceremonial foods, or dietary rules. They also do not document a distinctive Nuba cuisine beyond the crops and domestic animals described above.
-
 ## Oral tradition & literature
 
-Families tell stories and oral traditions around the fire in the *shal*. The sources do not record the names of Nuba folktales, epics, proverbs, riddles, or poems. They also do not identify a Nuba literary script or a contemporary literary revival.
+Families tell stories and oral traditions around the fire in the *shal*.
 
 The article describes several documentary and photographic representations of Nuba life. These include *Nuba Conversations* (2000), a documentary and ethnographic film directed by Arthur Howes; Leni Riefenstahl’s photographic collections *The Last of the Nuba* (1973) and *The People of Kau* (1976); and Roopa Gogineni’s documentation of Bisha TV, a satirical muppet show popular throughout the Nuba lands. The sources describe Bisha TV as an example of comedy used to deal with authoritarian rule.
 

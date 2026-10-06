@@ -15,13 +15,7 @@ tags: [ethnography, latin-america]
 | Religion | not stated |
 | Known for |  |
 
-## Overview
-
-
-
 ## Material culture
-
-
 
 ### Textile & pattern traditions
 
@@ -66,10 +60,3 @@ Little is recorded.
 ## Language & religion
 
 Little is recorded.
-
-## Glossary
-
-
-## Sources & further reading
-
-

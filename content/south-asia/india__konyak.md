@@ -66,7 +66,7 @@ The [Aoleang account](https://ipr.nagaland.gov.in/konyak) mentions rice beer, me
 
 ## Oral tradition & literature
 
-The sources describe festival songs and the morung's historical role in village discussion. They do not identify a particular Konyak epic or story cycle. The Konyak Literature Board published a descriptive grammar in 2025.
+The sources describe festival songs and the morung's historical role in village discussion. The Konyak Literature Board published a descriptive grammar in 2025.
 
 ## Language & religion
 

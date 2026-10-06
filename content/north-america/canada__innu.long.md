@@ -31,7 +31,7 @@ Men wore caribou pants and boots with a buckskin long shirt, all of it made by w
 
 ### Architecture
 
-The Innu traditionally lived in wigwams, covered with birchbark in the forested south and with caribou hide in the north; the seasonal hunting migrations were supported by portable tents of animal skins. In modern houses a metal stove in the centre of the room has replaced the hearth. The Davis Inlet photograph records a later variant of the same form: a tent of white sheets stretched over a frame of rough pine logs, pitched with a pile of brushwood and hanging canvas beside it, on a bay backed by pine-forested hills. The sources do not describe decoration of the built structures themselves, nor any named permanent building type.
+The Innu traditionally lived in wigwams, covered with birchbark in the forested south and with caribou hide in the north; the seasonal hunting migrations were supported by portable tents of animal skins. In modern houses a metal stove in the centre of the room has replaced the hearth. The Davis Inlet photograph records a later variant of the same form: a tent of white sheets stretched over a frame of rough pine logs, pitched with a pile of brushwood and hanging canvas beside it, on a bay backed by pine-forested hills.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,7 +39,7 @@ Buckskin, not clay or metal, was the principal material of Innu household equipm
 
 ### Jewelry & body adornment
 
-Necklaces of bone and bead were worn by both women and men. A bear-claw necklace was made and worn by a man who had killed a bear, marking both joy and his initiation into adulthood. Hair itself carried the clearest gender distinction: women wore it long or in two coils, men long. Seed beads in blue, red and white are used for the hair ties of a tea doll, the doll reproducing in miniature what women wore. The sources do not describe tattooing, body painting or any other form of permanent adornment.
+Necklaces of bone and bead were worn by both women and men. A bear-claw necklace was made and worn by a man who had killed a bear, marking both joy and his initiation into adulthood. Hair itself carried the clearest gender distinction: women wore it long or in two coils, men long. Seed beads in blue, red and white are used for the hair ties of a tea doll, the doll reproducing in miniature what women wore.
 
 ## Music & performance
 

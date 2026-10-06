@@ -35,17 +35,13 @@ Fibre work includes patterned net bags, braided masks, and ornaments used in cer
 
 ### Clothing & dress
 
-The sources show adornments and carrying equipment but do not describe everyday clothing.
+The sources show adornments and carrying equipment.
 
 - **Headband bag** — A Wosera net bag has a carrying band that serves as a headband.
 - **Feather hair ornament** — A Malmba hair ornament is a long, narrow light-wood plate with feathers inserted into it.
 - **Feathered comb** — A Niamingum comb has five pointed wooden pins, plaiting, and feathers.
 - **Shell necklace** — A Malmba necklace has kauri shells strung on a cord.
 - **Karawut dance ornament** (*karawut*) — The karawut can be worn on the back or carried in the mouth when dancing.
-
-### Architecture
-
-The sources do not describe Abelam houses, ceremonial buildings, or settlement forms.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -105,10 +101,6 @@ Abelam food comes from crops, rainforest gathering, domestic animals, and huntin
 - **Sweet potatoes** — Sweet potatoes are one of the main Abelam crops.
 - **Hunted animals** — People hunt small marsupials and cassowaries and raise pigs and chickens.
 
-## Oral tradition & literature
-
-The sources do not describe Abelam stories, songs, proverbs, riddles, or written literature.
-
 ## Language & religion
 
 Ambulas is a Sepik language with several named dialects, while the sources give only limited information about religion.
@@ -142,4 +134,3 @@ Ambulas is a Sepik language with several named dialects, while the sources give 
 - [Abelam language — Wikipedia](https://en.wikipedia.org/wiki/Abelam_language)
 - [British Museum collections](https://www.britishmuseum.org/collection)
 - [Museum of World Culture collections](https://collections.smvk.se/)
-

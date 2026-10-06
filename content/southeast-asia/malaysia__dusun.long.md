@@ -13,43 +13,41 @@ The Dusun people, or Dusuns, are an Austronesian ethnic group indigenous to Saba
 
 ### Textile & pattern traditions
 
-The sources do not document named Dusun textile traditions or pattern-bearing textile techniques in sufficient detail for this section.
-
 **Lotus motif** — A museum catalogue describes a war and head-hunting sword from the Dusun people of North Borneo. Its sheath has a square carved panel on the upper part combined with the lotus, identified in the catalogue as a headhunting motif.
 
 **Aso** — The same sword has an antler hilt with *aso* dragon-dog jaws. The catalogue does not describe this as a textile motif.
 
-**Barkcloth tunic** — A British Museum catalogue records a tunic made of barkcloth. The source does not provide a vernacular name, pattern description or account of its use.
+**Barkcloth tunic** — A British Museum catalogue records a tunic made of barkcloth.
 
-**Velvety garments** — A Náprstek Museum catalogue records two Dusun girls in velvety garments decorated with metal sewing. The record identifies the people and clothing but does not name the garment or technique.
+**Velvety garments** — A Náprstek Museum catalogue records two Dusun girls in velvety garments decorated with metal sewing. The record identifies the people and clothing.
 
 **Motif vocabulary.** lotus, a headhunting motif on a sword sheath; *aso*, dragon dog.
 
 ### Clothing & dress
 
-The museum records document several forms of Dusun dress and adornment. British Museum objects include a tunic made of barkcloth, hats made of rattan and bamboo, a woman’s girdle made of rattan and brass, and *Siwot*, a woman’s head ornament made of feathers, cloth and bamboo. The sources do not identify separate everyday and ceremonial clothing systems for men and women, although the Náprstek Museum records two Dusun girls in velvety garments decorated with metal sewing. Another record describes Dusun priests in ceremonial garments with high head ornaments. The Museum of Ethnography catalogue mentions a beaded carrying belt associated with a sword. The sources do not document footwear, named men’s garments, named women’s garments beyond *Siwot* and the girdle, or specific head-covering traditions beyond the listed hats and head ornaments.
+The museum records document several forms of Dusun dress and adornment. British Museum objects include a tunic made of barkcloth, hats made of rattan and bamboo, a woman’s girdle made of rattan and brass, and *Siwot*, a woman’s head ornament made of feathers, cloth and bamboo. The sources do not identify separate everyday and ceremonial clothing systems for men and women, although the Náprstek Museum records two Dusun girls in velvety garments decorated with metal sewing. Another record describes Dusun priests in ceremonial garments with high head ornaments. The Museum of Ethnography catalogue mentions a beaded carrying belt associated with a sword.
 
 ### Architecture
 
-The Dusun sources describe long communal houses in a historical comparison with houses on the Burmese border. They also state that a Dusun house is often situated within or surrounded by fruit trees, including bambangan, breadfruit, cempedak, jackfruit, mango and tarap, as well as calamansi and bird’s eye chilli. The sources connect the house environment with agriculture and nature but do not specify a named house type, construction system, roof form or architectural decoration. They also do not describe urban architecture, workshops or settlement layouts in sufficient detail.
+The Dusun sources describe long communal houses in a historical comparison with houses on the Burmese border. They also state that a Dusun house is often situated within or surrounded by fruit trees, including bambangan, breadfruit, cempedak, jackfruit, mango and tarap, as well as calamansi and bird’s eye chilli. The sources connect the house environment with agriculture and nature.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum catalogues record a range of Dusun-associated household and working objects. These include baskets made of rattan or of rattan, bark and cord; a wooden harrow; a buffalo-horn holder for wax; and a bamboo fish trap. British Museum records also list iron-and-wood knives and several stoneware and porcelain jars, including an oil jar, purple-brown glazed stoneware, glazed stoneware with medallions, a Martaban jar with lugs and animal masks, and a covered jar decorated with flowers and bound with rattan. The sources do not explain how these objects were made locally or distinguish Dusun forms from neighbouring traditions.
+The museum catalogues record a range of Dusun-associated household and working objects. These include baskets made of rattan or of rattan, bark and cord; a wooden harrow; a buffalo-horn holder for wax; and a bamboo fish trap. British Museum records also list iron-and-wood knives and several stoneware and porcelain jars, including an oil jar, purple-brown glazed stoneware, glazed stoneware with medallions, a Martaban jar with lugs and animal masks, and a covered jar decorated with flowers and bound with rattan.
 
 ### Jewelry & body adornment
 
-The catalogues document bracelets made of bamboo or rattan, a necklace made of shell beads, and a bracelet or possible chest ornament made of beads and vegetable fibre. The woman’s girdle made of rattan and brass is another recorded adornment. *Siwot* is a woman’s head ornament made of feathers, cloth and bamboo. The sword catalogue also mentions a beaded carrying belt and tufts of hair. The sources do not describe tattoos, henna, hair practices, ritual functions of jewelry or named adornment systems beyond these catalogue descriptions.
+The catalogues document bracelets made of bamboo or rattan, a necklace made of shell beads, and a bracelet or possible chest ornament made of beads and vegetable fibre. The woman’s girdle made of rattan and brass is another recorded adornment. *Siwot* is a woman’s head ornament made of feathers, cloth and bamboo. The sword catalogue also mentions a beaded carrying belt and tufts of hair.
 
 ## Music & performance
 
-The Dusun musical instruments recorded in the sources include *Sumpotan*, described as musical pipes or a mouth-organ made of wood with cane binding and a resonator made of gourd; a two-stringed lute called a *Sundatang*, made of wood with brass wire strings; a nose flute made of bamboo; a musical instrument resembling a guitar, made of wood and vegetable-fibre string; and a mouth organ made of bamboo and gourd. The sources do not provide musical scales, repertories, performance techniques or named song genres.
+The Dusun musical instruments recorded in the sources include *Sumpotan*, described as musical pipes or a mouth-organ made of wood with cane binding and a resonator made of gourd; a two-stringed lute called a *Sundatang*, made of wood with brass wire strings; a nose flute made of bamboo; a musical instrument resembling a guitar, made of wood and vegetable-fibre string; and a mouth organ made of bamboo and gourd.
 
-Music also appears in the description of the Gana Dusun. Their former name, Talinting Dusun, was associated with the practice of hammering the *canang* instrument in times of emergency; *talinting* is explained as an “emergency signal” sound produced by the canangs. This is the only performance context described in the supplied sources. They do not discuss music at weddings, funerals, harvest celebrations, courts or other social settings. The sources also do not connect the listed instruments to a particular festival or ritual.
+Music also appears in the description of the Gana Dusun. Their former name, Talinting Dusun, was associated with the practice of hammering the *canang* instrument in times of emergency; *talinting* is explained as an “emergency signal” sound produced by the canangs. This is the only performance context described in the supplied sources.
 
 ## Dance & theatre
 
-The sources do not document named Dusun dances, theatre forms, masked performances or dramatic traditions. They mention the *runsai* oral tradition among the Labuk Dusun and describe musical instruments, but they do not identify these as dances or theatrical performances.
+The sources mention the *runsai* oral tradition among the Labuk Dusun and describe musical instruments.
 
 ## Festivals & rituals
 
@@ -57,7 +55,7 @@ The Dusun oral history connects the people’s origin with Nunuk Ragang, describ
 
 The sources also describe traditional customs and beliefs among the Tindal Dusun. These are maintained by custom practitioners and village heads and are connected with human life, the environment and cosmology. Village heads continue practices including wedding ceremonies and the laws of *sogit*, described as tribal punishment. Among the Tobilung Dusun, the spirit of *mitatabang*, or mutual cooperation, is practised when clearing fields, preparing weddings, building houses and responding to a family loss. The associated activities include *rumilik*, *mangasok*, *gumamas*, *mongomot*, *mongogik* and *mirangkat*.
 
-The Tatana Dusun celebrate Lunar New Year as their main festival and also celebrate Kaamatan as a statewide public-holiday festival. The sources do not provide festival dates, detailed rites of passage, funeral ceremonies or a complete annual ritual calendar.
+The Tatana Dusun celebrate Lunar New Year as their main festival and also celebrate Kaamatan as a statewide public-holiday festival.
 
 ## Foodways
 
@@ -65,13 +63,11 @@ Agriculture is central to the descriptions supplied. The Dusuns are described as
 
 Dusuns historically traded agricultural and forest products, including rice and amber *damar*, for salt, salted fish and other products. This market activity is called *mongimbadi*. Fishing includes the use of juice called *tuba*, derived from the roots of the *surinit* plant, to momentarily stun fish in rivers. Among the Tobilung Dusun, rice cultivation involves the cooperative activities *rumilik*, *mangasok*, *gumamas*, *mongomot*, *mongogik* and *mirangkat*.
 
-The sources do not name prepared dishes, cooking vessels in culinary use, ceremonial foods, beverages, tea or coffee traditions, or dietary rules. They also do not describe a complete food calendar or feast system.
-
 ## Oral tradition & literature
 
 Dusun oral history preserves the account of Nunuk Ragang, the giant red banyan tree associated with the first settlement of the ancestors in northern Borneo. The Momolianist origin narrative names Kinoingan, Suminundu and Huminodun and links Huminodun with the origins of Kaamatan. The Labuk Dusun are described as maintaining oral traditions including *kurilang*, *mansuak*, *mogindong*, *runsai* and *tangon*.
 
-The sources also preserve local explanations of group names. The name Gana is connected with *gana-gana*, a flat land area, while Kujau derives from *Kuyou*, explained as “withered” and associated with a drought around 1879. The Tindal Dusun name is connected with *talinting*, the emergency signal produced by *canang* instruments. The sources do not identify an epic, proverb collection, riddle tradition, written literary canon or contemporary literary revival.
+The sources also preserve local explanations of group names. The name Gana is connected with *gana-gana*, a flat land area, while Kujau derives from *Kuyou*, explained as “withered” and associated with a drought around 1879. The Tindal Dusun name is connected with *talinting*, the emergency signal produced by *canang* instruments.
 
 ## Language & religion
 

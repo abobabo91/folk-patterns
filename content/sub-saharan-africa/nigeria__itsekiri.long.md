@@ -11,41 +11,31 @@ The Itsekiri, also known as Iwere, are an ethnic group native to the western Nig
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The supplied sources do not document a distinctive Itsekiri textile or pattern tradition.
-
-**Motif vocabulary.** The sources do not name Itsekiri textile motifs.
-
 ### Clothing & dress
 
-The supplied sources do not describe everyday or ceremonial Itsekiri clothing, garment types, head coverings, belts or footwear. A museum catalogue records a black-and-white photograph from an album showing a young girl wearing head-gear, a necklace, finger rings and bracelets, with scarification on her arms. The catalogue identifies the image as a Delta State albumen print but does not describe the items as distinctively Itsekiri or provide vernacular names for them.
+A museum catalogue records a black-and-white photograph from an album showing a young girl wearing head-gear, a necklace, finger rings and bracelets, with scarification on her arms. The catalogue identifies the image as a Delta State albumen print.
 
 ### Architecture
 
-The sources describe a riverine settlement environment rather than a specific Itsekiri house form. Itsekiri communities are distributed along rivers and creeks, and the region includes mangrove swamps, inland areas of firmer ground, and settlements connected by waterways. Ode-Itsekiri was the historical royal capital, while Warri City became the principal urban centre within the Itsekiri homeland. The sources do not document house construction, roof types, workshops, courtyards or architectural decoration.
+The sources describe a riverine settlement environment rather than a specific Itsekiri house form. Itsekiri communities are distributed along rivers and creeks, and the region includes mangrove swamps, inland areas of firmer ground, and settlements connected by waterways. Ode-Itsekiri was the historical royal capital, while Warri City became the principal urban centre within the Itsekiri homeland.
 
 ### Ceramics, metalwork & everyday objects
 
 The catalogue records include several wooden paddles and ceremonial paddles. These include a crocodile-shaped ceremonial paddle, carved paddles with fenestrated or openwork decoration, paddles with pointed shaft terminals, a paddle with a leaf-shaped blade, and a ritual paddle whose end is in the form of a saurian. One wooden carved paddle has an openwork blade showing a crocodile in the centre, flanking lizards and a “chain-link” handle. Another record describes two carved wood paddle blades joined to a third carved object by wooden links.
 
-A British Museum record also lists an earthenware pot described as roughly ovoid-shaped with a small circular rim. The sources do not establish the ethnic attribution or use of these objects beyond the catalogue descriptions.
+A British Museum record also lists an earthenware pot described as roughly ovoid-shaped with a small circular rim.
 
 ### Jewelry & body adornment
 
-The supplied sources do not document named Itsekiri jewelry types, ritual adornment, hair practices or body-decoration traditions. The museum photograph records a young girl wearing a necklace, finger rings and bracelets, and having scarification on her arms, but the catalogue supplies no further cultural interpretation.
+The museum photograph records a young girl wearing a necklace, finger rings and bracelets, and having scarification on her arms, but the catalogue supplies no further cultural interpretation.
 
 ## Music & performance
 
-The supplied sources do not document Itsekiri musical instruments, song genres, dance music, performance repertories or musical occasions. No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
-
-## Dance & theatre
-
-The supplied sources do not describe named Itsekiri dances, dramatic traditions, masquerades, theatre forms or performance distinctions between ceremonial and entertainment contexts.
+No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
 
 ## Festivals & rituals
 
-The sources mention religious and other ceremonies shared across Itsekiriland as one factor that helped preserve Itsekiri identity during the interregnum, but they do not name these ceremonies or provide a ritual calendar. The sources also describe royal traditions connected with the Olu of Warri and royal burials at Ijala, a settlement founded by Ginuwa, who died and was buried there. They do not document annual festivals, life-cycle rites, initiation ceremonies, wedding customs or funeral procedures in sufficient detail.
+The sources mention religious and other ceremonies shared across Itsekiriland as one factor that helped preserve Itsekiri identity during the interregnum. The sources also describe royal traditions connected with the Olu of Warri and royal burials at Ijala, a settlement founded by Ginuwa, who died and was buried there.
 
 The monarchy was restored under Ginuwa II in 1936. Before the interregnum, the monarch was known as the Olu, or king, of Warri. In 1936, the colonial administration recognised Ginuwa II as the “Olu of Itsekiri”; in 1952, the historical title “Olu of Warri” was restored to official use.
 
@@ -53,7 +43,7 @@ The monarchy was restored under Ginuwa II in 1936. Before the interregnum, the m
 
 The sources document historical exchange in which Itsekiri communities traded fish, crayfish, mangrove salt and pottery for yams, plantains, pepper and other agricultural produce from Urhobo and other hinterland communities. Palm oil became the principal export as the overseas trade in enslaved people declined. The sources also describe trade goods and commodities, including cotton cloth, ivory, pepper, palm oil, textiles, brass and copper goods, coral and glass beads, tobacco and firearms.
 
-These records concern production and commerce rather than domestic cuisine. The supplied sources do not name Itsekiri dishes, staple preparation methods, ceremonial foods, beverages or dietary rules.
+These records concern production and commerce rather than domestic cuisine.
 
 ## Oral tradition & literature
 
@@ -61,7 +51,7 @@ The history of the Itsekiri before the Warri monarchy is known largely through o
 
 The principal dynastic tradition traces the monarchy to Ginuwa, a son of Oba Olua of the Kingdom of Benin. After Ginuwa’s death, his son Ijijen succeeded him and moved the group to Okotomu. There, according to the dynastic account, they encountered a figure named Itsekiri, who accepted the new ruler and provided land near his settlement for the royal capital at Ode-Itsekiri.
 
-The sources do not document named Itsekiri epics, folktale cycles, proverbs, riddles or a contemporary literary revival. Itsekiri printed material dates to at least the beginning of the twentieth century; a translation of portions of the Book of Common Prayer was published in London in 1909, and a complete Itsekiri translation of the Bible was finished in 2002.
+Itsekiri printed material dates to at least the beginning of the twentieth century; a translation of portions of the Book of Common Prayer was published in London in 1909, and a complete Itsekiri translation of the Bible was finished in 2002.
 
 ## Language & religion
 
@@ -69,7 +59,7 @@ Itsekiri, also written Isekiri, is a Yoruboid language spoken principally in the
 
 Itsekiri has seven oral vowels and five phonemic nasal vowels, and contrasts high, mid and low tones. It is written in a Latin-based orthography. Tone marks distinguish lexical contrasts in careful writing, while mid tone is normally unmarked. The supplied sources describe historical contact with Edoid, Ijaw, Urhobo, Portuguese and English.
 
-The sources document Portuguese missionary activity from the sixteenth century. An Augustinian mission from São Tomé established itself at Ode-Itsekiri, and a royal prince was baptised Sebastian and had become Olu by 1597. Later rulers requested clergy and commercial contact from São Tomé, Portugal and Rome. The sources do not provide a complete account of present-day religious practice.
+The sources document Portuguese missionary activity from the sixteenth century. An Augustinian mission from São Tomé established itself at Ode-Itsekiri, and a royal prince was baptised Sebastian and had become Olu by 1597. Later rulers requested clergy and commercial contact from São Tomé, Portugal and Rome.
 
 ## Sources & further reading
 

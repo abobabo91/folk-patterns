@@ -35,10 +35,6 @@ The profile only identifies blue, black, and white striped traditional clothes.
 
 - **Traditional striped clothing** (*Igede*) — Igede traditional clothes are blue, black, and white striped.
 
-### Architecture
-
-The sources do not describe Igede architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Igede objects include pottery vessels, poisoned arrows, a pottery drum, and wooden figures.
@@ -48,10 +44,6 @@ Igede objects include pottery vessels, poisoned arrows, a pottery drum, and wood
 - **Three-spouted water- or beer-pot** — This two-handled pottery vessel has three spouts, grooved decoration, and vegetable varnish.
 - **Poisoned arrows** — These arrows have iron heads and reed shafts.
 - **Musical pottery pot** — This globular pottery pot has vegetable varnish and one side hole, and it was used as a drum.
-
-### Jewelry & body adornment
-
-The sources do not describe Igede jewelry or body adornment.
 
 ## Music & performance
 
@@ -112,9 +104,7 @@ Igede is spoken in Lower Benue State and Cross River State and belongs to the Be
 
 ## Sources & further reading
 
-- The sources used do not provide books, publishers, publication years, or named scholarly documentation projects.
 - Wikipedia, “Igede people”: https://en.wikipedia.org/wiki/Igede_people
 - Wikipedia, “Igede language”: https://en.wikipedia.org/wiki/Igede_language
 - No UNESCO Intangible Cultural Heritage inscription for this group was provided.
 - The museum catalogue records used do not provide online-collection URLs.
-

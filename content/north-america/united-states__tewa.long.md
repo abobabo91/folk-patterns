@@ -13,13 +13,13 @@ The Tewa are a linguistic group of Pueblo Native Americans who speak the Tewa la
 
 ### Textile & pattern traditions
 
-**Woven goods** — The sources identify woven goods as an alternative form of income and describe woven garments as part of the modern-day economy. They do not specify named textile patterns, weaving techniques, or distinctions from neighboring cultures.
+**Woven goods** — The sources identify woven goods as an alternative form of income and describe woven garments as part of the modern-day economy.
 
-**Cotton garments** — Cotton was made into clothing and shoes. The sources do not provide a vernacular name, named pattern, or detailed construction method.
+**Cotton garments** — Cotton was made into clothing and shoes.
 
-**Hide clothing** — Hides from hunted animals, including deer and rabbits, were made into clothing and shoes. The sources do not describe named garments or decorative schemes.
+**Hide clothing** — Hides from hunted animals, including deer and rabbits, were made into clothing and shoes.
 
-The museum records include a beaded belt, beaded bandolier, beaded choker, beaded armbands, goat-hide leggings, hide moccasins, and feathered arm ornaments, but they do not identify these objects as Tewa.
+The museum records include a beaded belt, beaded bandolier, beaded choker, beaded armbands, goat-hide leggings, hide moccasins, and feathered arm ornaments.
 
 ### Clothing & dress
 
@@ -27,7 +27,7 @@ The sources state that cotton and animal hides were made into clothing and shoes
 
 ### Architecture
 
-The sources do not provide sufficient information about Tewa house forms, building materials, roof construction, named building types, or architectural decoration. They mention homes, pueblos, villages, kivas, and agricultural settlements, but do not describe their construction.
+The sources mention homes, pueblos, villages, kivas, and agricultural settlements.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -35,29 +35,25 @@ Pottery was the most influential art form described in the sources. The Tewa use
 
 ### Jewelry & body adornment
 
-The sources identify jewelry as an alternative source of income before Spanish colonization and state that jewelry contributes to the modern-day economy. They do not name particular jewelry forms, materials, body-adornment practices, tattoos, hair practices, or ritual functions. The British Museum records describe beadwork in white, blue, yellow, orange, maroon, red, and other colours on regalia components, but do not identify the objects as Tewa.
+The sources identify jewelry as an alternative source of income before Spanish colonization and state that jewelry contributes to the modern-day economy. The British Museum records describe beadwork in white, blue, yellow, orange, maroon, red, and other colours on regalia components.
 
 ## Music & performance
 
-The sources used do not cover Tewa musical instruments, named song genres, musical performances, or performance contexts. They describe religion as encompassing mythology, cosmology, philosophy, and a worldview, and mention religious sodality leaders, but do not provide musical details.
-
-## Dance & theatre
-
-The sources used do not cover named Tewa dances, dramatic traditions, theatre, dance regalia, or distinctions between ceremonial and entertainment performances.
+The sources describe religion as encompassing mythology, cosmology, philosophy, and a worldview, and mention religious sodality leaders.
 
 ## Festivals & rituals
 
-The sources describe marriage, childhood, religion, and Catholic ceremonies but do not provide an annual festival calendar. Marriage was primarily arranged through negotiation between families and was usually accompanied by an exchange of gifts. The ceremony could include a native ritual and might also include a nonnative ritual. Marriage within the community was monogamous, with sexual fidelity expected, although divorce and infidelity were observed. After marriage, the couple stayed in the husband’s mother’s home; after the first year, they established a permanent home in the community.
+The sources describe marriage, childhood, religion, and Catholic ceremonies. Marriage was primarily arranged through negotiation between families and was usually accompanied by an exchange of gifts. The ceremony could include a native ritual and might also include a nonnative ritual. Marriage within the community was monogamous, with sexual fidelity expected, although divorce and infidelity were observed. After marriage, the couple stayed in the husband’s mother’s home; after the first year, they established a permanent home in the community.
 
 Children were tribal members from birth and were raised tolerantly. At the age of ten, boys and girls were divided into two groups to learn community roles. Children from primarily Catholic families also attended First Communion. The sources state that religious life includes respect and reverence for the Earth, the mountains, hills, water, and certain animals, birds, and plants. They also describe Catholicism as applied to the tribe alongside polytheist beliefs concerning supernatural spiritual forces and entities.
 
 ## Foodways
 
-The sources describe the Tewa primarily as cultivators who used irrigation to grow maize, beans, and squash. They also hunted deer, bison, and elk, gathered berries and nuts, and processed plants and other natural flora into herbal teas and sometimes “potions.” During Spanish colonization, cows, pigs, and chickens were introduced, as were wheat, tomatoes, apples, pears, peaches, and chili. Pottery was used for cooking, eating, and storage. The sources do not name particular dishes, ceremonial foods, dietary rules, or tea and coffee customs.
+The sources describe the Tewa primarily as cultivators who used irrigation to grow maize, beans, and squash. They also hunted deer, bison, and elk, gathered berries and nuts, and processed plants and other natural flora into herbal teas and sometimes “potions.” During Spanish colonization, cows, pigs, and chickens were introduced, as were wheat, tomatoes, apples, pears, peaches, and chili. Pottery was used for cooking, eating, and storage.
 
 ## Oral tradition & literature
 
-The sources state that some Pueblo elders believe Tewa should be preserved through oral traditions alone, while many Tewa speakers consider literacy important for passing the language to children. Ohkay Owingeh published a Tewa dictionary, and Tewa-language programs have been established in most Tewa-speaking pueblos. TewaTalk was designed by students and professors at Worcester Polytechnic Institute to support language learning; it includes recorded speech and learning games. Children’s stories in Tewa have been digitized by the University of New Mexico. The sources do not provide named folktales, epic poetry, proverbs, riddles, or a documented storytelling cycle.
+The sources state that some Pueblo elders believe Tewa should be preserved through oral traditions alone, while many Tewa speakers consider literacy important for passing the language to children. Ohkay Owingeh published a Tewa dictionary, and Tewa-language programs have been established in most Tewa-speaking pueblos. TewaTalk was designed by students and professors at Worcester Polytechnic Institute to support language learning; it includes recorded speech and learning games. Children’s stories in Tewa have been digitized by the University of New Mexico.
 
 ## Language & religion
 

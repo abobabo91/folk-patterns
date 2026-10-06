@@ -37,10 +37,6 @@ The sources do not give a general account of Punu dress, but museum records show
 - **Woven fibre skirt** — A black-pigmented male figure wears a woven fibre skirt held by a belt of printed cotton.
 - **Pith style helmet and jacket** — Another figure wears a colonial pith style helmet and jacket with a pocket, and carries guns.
 
-### Architecture
-
-The sources do not cover Punu houses, settlements, roofs, or architectural decoration.
-
 ### Ceramics, metalwork & everyday objects
 
 The catalogue records document carved wooden bellows, masks, and figures, but not Punu ceramics or metalworking.
@@ -143,4 +139,3 @@ Yipunu is a Bantu language, and Punu religious life centers on Nyambye, evil spi
 - “Punu people,” Wikipedia: https://en.wikipedia.org/wiki/Punu_people
 - “Punu language,” Wikipedia: https://en.wikipedia.org/wiki/Punu_language
 - British Museum catalogue records for Punu bells, masks, figures, and dance-mask objects, as supplied in the object catalogue for this atlas.
-

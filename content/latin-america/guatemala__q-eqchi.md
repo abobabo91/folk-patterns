@@ -40,10 +40,6 @@ Q'eqchi' documented dress divides into everyday wear and elaborate masked dance 
 - **Embroidered blouse** — The only everyday garment recorded, made of synthetic fabric with elasticated cuffs and machine-friendly construction for ordinary women's use.
 - **Devil dancer's cloth** — A piece of fabric catalogued as part of devil dancer's costume but not further described.
 
-### Architecture
-
-The sources do not describe Q'eqchi' house form or building materials.
-
 ### Ceramics, metalwork & everyday objects
 
 Q'eqchi' craftspeople made pottery censers and woven carrying bags for practical use and ritual purposes.
@@ -82,10 +78,6 @@ Q'eqchiʼ ritual life is documented through incense use, masked dance, and the M
 - **Copal incense burning** (*copal*) — Burned copal incense used in pottery censers for ceremonial purposes, with residue preserved in museum objects.
 - **Devil dance ritual** (*devil dance*) — A masked performance with ritual or calendrical occasion, accompanied by carved serpent figures and elaborate costume.
 - **Mayan calendar display** — The Mayan calendar itself treated as subject for textile art, embroidered on cloth with symbols and names.
-
-## Foodways
-
-The sources do not describe Q'eqchi' foodways or cooking practices.
 
 ## Oral tradition & literature
 
@@ -132,4 +124,3 @@ Q'eqchiʼ is an ergative-absolutive Mayan language with 29 consonants and 10 vow
 - Qʼeqchiʼ Vocabulary List, World Loanword Database
 - https://en.wikipedia.org/wiki/Q%27eqchi%27_language
 - British Museum online collection — https://www.britishmuseum.org/collection (the incensario, devil-dance masks, costume and calendar cloth described above)
-

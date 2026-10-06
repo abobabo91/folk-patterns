@@ -58,10 +58,6 @@ Yupik made everyday objects from ivory, bone, wood and gut rather than clay or m
 - **Seal-oil lamp** (*naniq*) — An important piece of household furniture that fueled light in the home.
 - **Kayak** (*qayaq*) — A traditional boat built by men during winter months in the qasgiq.
 
-### Jewelry & body adornment
-
-The sources used do not describe Yupik jewelry, tattooing or hair practices.
-
 ## Music & performance
 
 Yupik music was built on frame drums, featured recitative-like singing with small melodic range and complex rhythm, and was used in spiritual ceremonies and hunting magic.
@@ -143,4 +139,3 @@ Five Yupik languages are still widely spoken; Yupʼik is the most spoken Native 
 - https://en.wikipedia.org/wiki/Yupik_music
 - https://folkways.si.edu/search?query=Yupik
 - British Museum online collection: https://www.britishmuseum.org/collection
-

@@ -13,7 +13,7 @@ The Witoto — also written Huitoto or Uitoto — are an Indigenous people of th
 
 ### Textile & pattern traditions
 
-The sources used here do not describe Witoto weaving, cloth or named textile traditions. What they do document in pattern-bearing, fibre-based craft is basketry and fibre cordage:
+What the sources do document in pattern-bearing, fibre-based craft is basketry and fibre cordage:
 
 **Bark baskets** — Several British Museum baskets are made of bark, one of them fitted with a sling for carrying. They are built from the sheet material of the forest rather than from spun or woven thread.
 
@@ -27,7 +27,7 @@ The sources carry one direct description of Witoto dress. A photograph taken on 
 
 ### Architecture
 
-Witoto families live in a communal house known as the *joforomo* or *maloca*, shared by several families. Each family holds an independent sector of the interior where its members can hang their hammocks, so that the single roof encloses a set of distinct household spaces rather than one undivided room. The maloca is also a social and ritual interior, not only a dwelling: within it men have a specific place where they consume the green coca powder *mambe*, and it is there that the *maguaré* drums are played. The sources used do not describe the maloca's construction materials, roof form or any applied ornament.
+Witoto families live in a communal house known as the *joforomo* or *maloca*, shared by several families. Each family holds an independent sector of the interior where its members can hang their hammocks, so that the single roof encloses a set of distinct household spaces rather than one undivided room. The maloca is also a social and ritual interior, not only a dwelling: within it men have a specific place where they consume the green coca powder *mambe*, and it is there that the *maguaré* drums are played.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -47,19 +47,19 @@ Nothing in the sources used names Witoto song genres, melodic forms, flutes or s
 
 ## Dance & theatre
 
-The sources name no individual Witoto dances and no dramatic or masked tradition. What they establish is that dance was equipped: the British Museum records describe a dance stick of mahogany with cane, feather and a rattle, a wooden staff with rattle "used in dance", and a set of four dance ornaments of seeds, string and glass beads, together with head-rings and feather bundles worn as ornament. Taken with the maguaré drums played in the maloca, this indicates performance in which sounded staffs, seed ornaments and feather headwear were all part of one costume. The sources used do not describe the occasions, choreography or names of these dances.
+The sources name no individual Witoto dances and no dramatic or masked tradition. What they establish is that dance was equipped: the British Museum records describe a dance stick of mahogany with cane, feather and a rattle, a wooden staff with rattle "used in dance", and a set of four dance ornaments of seeds, string and glass beads, together with head-rings and feather bundles worn as ornament. Taken with the maguaré drums played in the maloca, this indicates performance in which sounded staffs, seed ornaments and feather headwear were all part of one costume.
 
 ## Festivals & rituals
 
-The sources used do not describe a Witoto annual festival calendar, and there are no UNESCO Intangible Cultural Heritage inscriptions for Colombia bearing on this group. The ritual practice they do document is the taking of *mambe*, also called *jiibie*: an ancestral green powder made from coca leaves and the ashes of *yarumo*, consumed by men in a specific designated place inside the maloca, and accompanied by the playing of the maguaré drums whose sound reaches neighbouring peoples. This is a routine of the house interior, gendered and spatially fixed, rather than a seasonal feast.
+The ritual practice they do document is the taking of *mambe*, also called *jiibie*: an ancestral green powder made from coca leaves and the ashes of *yarumo*, consumed by men in a specific designated place inside the maloca, and accompanied by the playing of the maguaré drums whose sound reaches neighbouring peoples. This is a routine of the house interior, gendered and spatially fixed, rather than a seasonal feast.
 
-On social organisation, the Witoto traditionally lived according to patrilineal lineage; the practice is less common today, though some elders continue it. The people were traditionally divided into named groups — the Murui at the western end of the historical territory, the Muinane to their east (historically large, but gradually absorbed into the Murui), the Meneca of the Putumayo and Ampiyacu riversheds, and a number of significantly smaller groups. The combined grouping is referred to as Muina Murui or Murui Muina, and in Colombia it is organised politically as ASCAINCA, the Association of Murui Muina Town Councils of the Upper Caquetá river basin. The sources used do not cover birth, coming-of-age, marriage or funeral rites.
+On social organisation, the Witoto traditionally lived according to patrilineal lineage; the practice is less common today, though some elders continue it. The people were traditionally divided into named groups — the Murui at the western end of the historical territory, the Muinane to their east (historically large, but gradually absorbed into the Murui), the Meneca of the Putumayo and Ampiyacu riversheds, and a number of significantly smaller groups. The combined grouping is referred to as Muina Murui or Murui Muina, and in Colombia it is organised politically as ASCAINCA, the Association of Murui Muina Town Councils of the Upper Caquetá river basin.
 
 ## Foodways
 
 Witoto subsistence rests on swidden (slash-and-burn) agriculture, with fields relocated every few yields to keep the soil from being exhausted — a practice efficient and sustainable enough to have drawn the attention of ethnobotanists. The major crops are cacao, coca, maize, bitter and sweet manioc, bananas, mangoes, palms, pineapples, plantains, sugar cane, sweet potatoes and yams; tobacco and peanuts are grown in small quantities. Men hunt with blowguns and shotguns, and fishing supplies the rest of the protein.
 
-The everyday diet consists mainly of *casabe* and *arepas* made from yuca brava flour, with protein from hunting and fishing. Cassava is important enough to shape the equipment: the plant-fibre basket with its bark carrying-strap is catalogued as serving to transport cassava, hunted animals or coca leaves. Coca is processed rather than chewed loose — the leaves are burned down with the ashes of yarumo into the green powder *mambe* or *jiibie*, taken by men in their own part of the maloca. Tobacco has its own vessel in the gourd holder carved with a human figure. The sources used do not describe ceremonial dishes, beverages or dietary prohibitions.
+The everyday diet consists mainly of *casabe* and *arepas* made from yuca brava flour, with protein from hunting and fishing. Cassava is important enough to shape the equipment: the plant-fibre basket with its bark carrying-strap is catalogued as serving to transport cassava, hunted animals or coca leaves. Coca is processed rather than chewed loose — the leaves are burned down with the ashes of yarumo into the green powder *mambe* or *jiibie*, taken by men in their own part of the maloca. Tobacco has its own vessel in the gourd holder carved with a human figure.
 
 ## Oral tradition & literature
 

@@ -33,11 +33,7 @@ The Herero, or *Ovaherero*, are a Bantu ethnic group living primarily in Namibia
 
 Herero women’s dress is characterized by the floor-length *ohorokova*, a high neck, a voluminous gathered skirt, multiple petticoats and long sleeves with sculptural volume. Sleeves may be puffed from the shoulders or frilled at the wrists, and coordinating neckerchiefs are knotted around the neck. Married and older women wear the dresses daily, while younger and unmarried women mainly use them for special occasions. Everyday garments may be assembled from smaller pieces of fabric, whereas single-material dresses are reserved for special occasions.
 
-The most distinctive head covering is the horizontal horned *otjikaiva*, which pays homage to cows that historically sustained the Herero. Decorative brooches and pins may be attached to its centre front. Men’s ceremonial clothing includes peaked caps, berets, epaulettes, aiguillettes and gaiters in a military style. The sources describe women’s neckerchiefs and men’s ceremonial garments, but do not describe Herero footwear or a named everyday belt.
-
-### Architecture
-
-The sources used do not cover Herero house forms, building materials, roof types, named building traditions or architectural decoration.
+The most distinctive head covering is the horizontal horned *otjikaiva*, which pays homage to cows that historically sustained the Herero. Decorative brooches and pins may be attached to its centre front. Men’s ceremonial clothing includes peaked caps, berets, epaulettes, aiguillettes and gaiters in a military style. The sources describe women’s neckerchiefs and men’s ceremonial garments.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -55,11 +51,7 @@ Museum records also describe girdles made of ostrich eggshell or leather, a neck
 
 ## Music & performance
 
-The sources used do not identify Herero musical instruments, named song genres, praise-poetry forms, performance settings or specific musical traditions. They mention that Father Peter Heinrich Brincker translated theological works and songs into Herero, but do not provide the titles, forms or performance contexts of those songs.
-
-## Dance & theatre
-
-The sources used do not cover named Herero dances, dramatic traditions, theatrical forms or distinctions between ceremonial and entertainment performance.
+The sources mention that Father Peter Heinrich Brincker translated theological works and songs into Herero.
 
 ## Festivals & rituals
 
@@ -67,7 +59,7 @@ The Herero religious tradition includes the holy fire *Okuruuo*, also called *Ot
 
 On Herero Day in 2011, a group associated with Paramount Chief Kuaima Riruako claimed that the fire had faced eastwards for the previous 88 years, although it should face towards the sunset. They removed it and placed it at an undisclosed location, causing controversy within the Ovaherero community.
 
-Cattle are involved in social and religious practices. In celebrations such as marriages, cattle are normally eaten, while religious or ancestral-veneration ceremonies involve the sacrifice of cows or other animals. The sources do not provide a complete annual festival calendar or detailed descriptions of birth, coming-of-age or funeral rites.
+Cattle are involved in social and religious practices. In celebrations such as marriages, cattle are normally eaten, while religious or ancestral-veneration ceremonies involve the sacrifice of cows or other animals.
 
 ## Foodways
 
@@ -75,11 +67,11 @@ Cattle are the most valued domestic animals in Herero culture, and cattle herdin
 
 The sour milk *Omaere* was prepared by women in pre-colonial times. The sources state that the worth of an *OmuHerero* woman was measured by milk. Cattle are normally eaten at marriages, while cows or other animals may be sacrificed in religious or ancestral-veneration ceremonies.
 
-Goats and sheep are kept for meat. Goatskin is made into child carriers and household ornaments, and goat dung is considered medicinal and is normally used to treat chickenpox. Horses and donkeys are common means of transport, and some Herero people are believed to consume donkey meat. Dogs are used by men for hunting and herding. Chickens are kept for meat and eggs. The sources do not describe staple grains, named cereal dishes, cooking methods, tea or coffee traditions, or dietary rules.
+Goats and sheep are kept for meat. Goatskin is made into child carriers and household ornaments, and goat dung is considered medicinal and is normally used to treat chickenpox. Horses and donkeys are common means of transport, and some Herero people are believed to consume donkey meat. Dogs are used by men for hunting and herding. Chickens are kept for meat and eggs.
 
 ## Oral tradition & literature
 
-The sources used do not describe Herero folktales, epics, proverbs, riddles or named storytelling traditions. They do record the importance of historical memory in ceremonial clothing: Herero men’s military-style dress is worn to honour fallen ancestors and keep memories alive.
+The sources record the importance of historical memory in ceremonial clothing: Herero men’s military-style dress is worn to honour fallen ancestors and keep memories alive.
 
 The Herero genocide appears in several works of fiction listed by the source, including Uwe Timm’s *Morenga*, Thomas Pynchon’s *Gravity’s Rainbow* and *V.*, Mari Serebrov’s *Mama Namibia*, Guy Saville’s *The Afrika Reich*, Jackie Sibblies Drury’s 2012 play *We Are Proud to Present a Presentation About the Herero of Namibia, Formerly Known as Southwest Africa, From the German Sudwestafrika, Between the Years 1884–1915*, and Anthony Scholefield’s *The Eagles of Malice*, published in 1968. These are literary representations rather than descriptions of Herero oral literature.
 

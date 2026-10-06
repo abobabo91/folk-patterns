@@ -25,7 +25,7 @@ The Turkana are a Nilotic people native to Turkana County in northwest Kenya, a 
 
 **Leather and hide containers** — Museum records include vessels with stretched hide bases, leather suspension thongs and containers used for fat or ghee. Other vessels are made from wood or gourd and combined with leather carrying cradles, plaited cords or bead decoration.
 
-**Museum-documented Turkana objects** — Museum catalogues identify these textile and fibre objects with Turkana, Ng’aturkwana or Ng’aturkana records. The sources do not describe a named Turkana pattern system or a documented distinction from neighbouring textile traditions.
+**Museum-documented Turkana objects** — Museum catalogues identify these textile and fibre objects with Turkana, Ng’aturkwana or Ng’aturkana records.
 
 **Motif vocabulary.** zigzags and lines, circular ostrich shell beads, cowrie shells, groups of large coloured beads.
 
@@ -37,7 +37,7 @@ Women wear two pieces of cloth, one wrapped around the waist and the other cover
 
 ### Architecture
 
-Turkana houses are constructed over a wooden framework of domed saplings. Fronds of the doum palm, hides or skins are thatched and lashed onto the framework. The house is large enough to accommodate a family of six. During the wet season, houses are usually elongated and covered with cow dung. Animals are kept in a brushwood pen. The sources do not describe named house types, architectural decoration beyond these materials, or urban building traditions.
+Turkana houses are constructed over a wooden framework of domed saplings. Fronds of the doum palm, hides or skins are thatched and lashed onto the framework. The house is large enough to accommodate a family of six. During the wet season, houses are usually elongated and covered with cow dung. Animals are kept in a brushwood pen.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -63,15 +63,11 @@ Museum records also include a dance-stick made from wood with a leather thong se
 
 The sources document Turkana dance through museum photographs and objects. A 1922 catalogue record identifies a photograph of Turkana dance and describes it as *Turkana-ngoma*. The record places the photograph at Muruessi in 1922. Other museum objects associated with dance include a dance whisk worn on the forearm, a horn used during dances, and a dance-stick decorated with animal hair and leather thongs.
 
-The sources do not describe choreography, named dance sequences, theatrical traditions, masks, puppetry or distinctions between ceremonial and entertainment dance.
-
 ## Festivals & rituals
 
 The sources identify several Turkana life-cycle and community rituals. Birth rituals are called *aikido*. Male and female initiation rituals are called *aspen* and *akinyonyo*; the source specifically states that these do not include circumcision. Marriage rituals are called *Akuuta*. Annual blessing sacrifices are called *Apiaret an awi*, and death rituals are called *Akinuuk*.
 
 These rituals are overseen by clan elders, both men and women. Elders also oversee community-wide wedding rituals, while an *emuron* normally takes part in blessing a marriage. The *ngimurok* are religious specialists who help identify the source of evil, sickness or other problems and determine the cure or sacrifice needed to restore abundant life. They may communicate with ancestors, identify an animal sacrifice, bring rain, seek a remedy for a child’s illness or bless families at weddings.
-
-The sources do not provide a calendar of named annual festivals with dates. They mention the Tobong’u Lore annual festival only in the “See also” section and provide no description of it.
 
 ## Foodways
 
@@ -86,8 +82,6 @@ The Turkana trade with the Pokot for maize, beans and vegetables and with the Ma
 Turkana oral traditions describe the people as the “people of the grey bull,” referring to the zebu. The cultivation of zebu cattle and the rise of diviners, *ngimurok*, are presented in tradition as important to the accumulation of Turkana wealth and power.
 
 The sources describe *ngimurok* as religious specialists who receive revelations, interpret problems and communicate with ancestors. The most respected “true diviners,” also called “diviners of God,” are said to receive revelations directly from Akuj, normally through dreams. The sources name Lokerio and Lokorijem as famous Turkana *ngimurok*. They also describe specialists who read tea leaves, tobacco, intestines, shoes, stones and string.
-
-The sources do not provide Turkana folktales, epic poems, proverbs, riddles, written literature or contemporary literary preservation projects.
 
 ## Language & religion
 

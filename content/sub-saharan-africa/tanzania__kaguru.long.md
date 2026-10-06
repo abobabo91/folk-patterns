@@ -27,31 +27,31 @@ The Kaguru, also known as Kagulu, Megi, Wetumba, Solwa and Mangaheri, are a Bant
 
 ### Clothing & dress
 
-Kaguru clothing and adornment are mentioned in the description of missionary condemnation of local customs, but the sources do not provide a full account of everyday garments, footwear or named ceremonial dress. They state that women wore skirts all the time, while men wore a toga-like garment even when showering, taking care not to appear naked. The museum records show glass bead aprons, bead girdles, waist bands, head dresses, head bands and arm bands. One head dress included a bead streamer ending in cowrie shells, while another ended in large red beads. The sources do not identify vernacular names for these garments or distinguish their use by age, status or ceremony.
+Kaguru clothing and adornment are mentioned in the description of missionary condemnation of local customs. They state that women wore skirts all the time, while men wore a toga-like garment even when showering, taking care not to appear naked. The museum records show glass bead aprons, bead girdles, waist bands, head dresses, head bands and arm bands. One head dress included a bead streamer ending in cowrie shells, while another ended in large red beads.
 
 ### Architecture
 
-Ukagura had big, fortified settlements in the highland during Captain Bauer’s era. The steep terrain contained valleys that were useful to people escaping raids, and the highland settlements provided defensive positions. A British Museum record shows a wooden model of a native hut with mud plaster on the roof. The sources do not explain the complete house plan, the construction of settlement compounds, or the decoration of buildings.
+Ukagura had big, fortified settlements in the highland during Captain Bauer’s era. The steep terrain contained valleys that were useful to people escaping raids, and the highland settlements provided defensive positions. A British Museum record shows a wooden model of a native hut with mud plaster on the roof.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources mention iron smelting in Ukagura and the intense need for charcoal that accompanied the industry. The British Museum catalogue records winnowing trays made of basketry or plaited vegetable fibre, with cane or wooden rims, as well as a wooden spoon with burnt and incised ornamentation. It also records a wooden stick with a head carved to represent an antelope. No ceramics, metal objects or named Kaguru forms are described in the supplied sources.
+The sources mention iron smelting in Ukagura and the intense need for charcoal that accompanied the industry. The British Museum catalogue records winnowing trays made of basketry or plaited vegetable fibre, with cane or wooden rims, as well as a wooden spoon with burnt and incised ornamentation. It also records a wooden stick with a head carved to represent an antelope.
 
 ### Jewelry & body adornment
 
-Beads are prominent in the museum records. They appear in aprons, girdles, waist bands, head dresses, head bands and arm bands, using glass beads in combinations of black, white, red, green, pink and blue. Head-dress streamers are recorded with cowrie shells or large red beads. The Wikipedia source also mentions native jewelry, red ocher used for beauty products, haircuts and ear-piercing among practices condemned by Christian missionaries. It does not give names for jewelry forms or describe tattoos, henna or particular hairstyles.
+Beads are prominent in the museum records. They appear in aprons, girdles, waist bands, head dresses, head bands and arm bands, using glass beads in combinations of black, white, red, green, pink and blue. Head-dress streamers are recorded with cowrie shells or large red beads. The Wikipedia source also mentions native jewelry, red ocher used for beauty products, haircuts and ear-piercing among practices condemned by Christian missionaries.
 
 ## Music & performance
 
-The Wikipedia source names Kaguru songs and music among the customs condemned by Christian missionaries. It also describes singing and dancing during female initiation. Women inside the initiation house sang obscene songs, laughed loudly at jokes and danced; after a night of singing and dancing, the initiate was taken into the nearby bush. A British Museum catalogue record identifies a musical instrument comprising a flat wood board, a bowed wood stick and a split cane striker or beater. The sources do not provide a Kaguru name for this instrument, explain its musical technique, or identify song genres, performance ensembles or occasions such as weddings and funerals.
+The Wikipedia source names Kaguru songs and music among the customs condemned by Christian missionaries. It also describes singing and dancing during female initiation. Women inside the initiation house sang obscene songs, laughed loudly at jokes and danced; after a night of singing and dancing, the initiate was taken into the nearby bush. A British Museum catalogue record identifies a musical instrument comprising a flat wood board, a bowed wood stick and a split cane striker or beater.
 
 ## Dance & theatre
 
-Dancing is described in connection with female initiation. Women in the initiation house danced after singing and joking, and the sources present this as part of the seclusion and preparation of a girl for suitors and marriage. Dancing is also listed among the Kaguru customs opposed by Christian missionaries. The sources do not name a Kaguru dance, theatrical form, masked performance or dramatic tradition.
+Dancing is described in connection with female initiation. Women in the initiation house danced after singing and joking, and the sources present this as part of the seclusion and preparation of a girl for suitors and marriage. Dancing is also listed among the Kaguru customs opposed by Christian missionaries.
 
 ## Festivals & rituals
 
-The sources do not describe an annual festival calendar or named seasonal festivals. They do describe rituals connected with matrilineal clans, land and life-cycle transitions. Kaguru society consisted of about one hundred matrilineal clans, each associated with one or more pieces of land. Each year, a clan organized rituals intended to revitalize its land.
+The sources describe rituals connected with matrilineal clans, land and life-cycle transitions. Kaguru society consisted of about one hundred matrilineal clans, each associated with one or more pieces of land. Each year, a clan organized rituals intended to revitalize its land.
 
 Male initiation was performed at puberty by men in a bush camp outside the settlement. The initiate remained there until he recovered, and the rite was understood as the death of childhood and rebirth as an adult. Female initiation took place in the seclusion of a house when a girl was around 14 years of age. Seclusion could last weeks to months, and the girl was expected to become beautiful, fat and pale. The sources also describe marriage, bridewealth, brideservice, divorce, birth and death. Most marriages were not considered complete until children were born. Following death, the spirit was believed to enter an alternative dimension called “ghostland,” where ghosts lived in villages. The graves of prominent ancestral ghosts received wheat flour and the blood of sacrificial animals.
 
@@ -59,11 +59,11 @@ Male initiation was performed at puberty by men in a bush camp outside the settl
 
 The sources associate Kaguru subsistence with small-scale agriculture, livestock and relations of mutual support. In the cool, rainy highlands, people regularly produced vegetables, some rice, millet and plantains, while the source specifically states that the highlands contained no maize. The plateau had less rain, more warmth, scrubland and forest, and the largest livestock holdings were generally kept there. The lowlands had the least dependable agricultural conditions and were vulnerable to cattle diseases.
 
-Food could also be borrowed or shared through social relationships. During lean times, people might share harvests, borrow livestock or receive permission to resettle. The sources do not name prepared dishes, cooking methods, beverages, dietary rules or ceremonial foods. They mention brewing as a possible source of income for an older childless woman, but do not describe the beverage.
+Food could also be borrowed or shared through social relationships. During lean times, people might share harvests, borrow livestock or receive permission to resettle. The sources mention brewing as a possible source of income for an older childless woman.
 
 ## Oral tradition & literature
 
-The sources do not describe Kaguru folktales, epic poetry, proverbs, riddles or a named literary tradition. They do mention Kaguru songs and music, as well as obscene songs sung during female initiation. The sources also state that ancestral ghosts wished to be remembered, hear their names called out and receive sacrifices. No contemporary literary revival or preservation project is identified.
+The sources mention Kaguru songs and music, as well as obscene songs sung during female initiation. The sources also state that ancestral ghosts wished to be remembered, hear their names called out and receive sacrifices. No contemporary literary revival or preservation project is identified.
 
 ## Language & religion
 

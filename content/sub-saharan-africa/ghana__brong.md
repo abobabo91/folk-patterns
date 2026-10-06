@@ -23,18 +23,6 @@ The Brong are an ethnic group associated with Ghana and Sub-Saharan Africa. The 
 
 The documented material culture includes several pottery vessels, bronze objects, and a brass mask gold weight.
 
-### Textile & pattern traditions
-
-The supplied sources do not document Brong textile or pattern traditions.
-
-### Clothing & dress
-
-The supplied sources do not describe Brong clothing or other forms of bodily dress.
-
-### Architecture
-
-The supplied sources do not describe Brong buildings or architectural traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 Museum records document distinctive pottery vessels and bronze objects.
@@ -47,40 +35,12 @@ Museum records document distinctive pottery vessels and bronze objects.
 
 ### Jewelry & body adornment
 
-The sources identify one brass mask gold weight but do not describe broader body adornment.
+The sources identify one brass mask gold weight.
 
 - **Mask gold weight** — This brass mask gold weight is dated to the 17th–18th century (?).
-
-## Music & performance
-
-The supplied sources do not document Brong music or musical performance.
-
-## Dance & theatre
-
-The supplied sources do not document Brong dance or theatre traditions.
-
-## Festivals & rituals
-
-The supplied sources do not document Brong festivals or rituals.
-
-## Foodways
-
-The supplied sources do not document Brong foods, cooking, drinks, or dietary rules.
-
-## Oral tradition & literature
-
-The supplied sources do not document Brong oral traditions or literature.
-
-## Language & religion
-
-The supplied sources do not document the Brong language or religious practices.
-
-## Glossary
-
 
 ## Sources & further reading
 
 - British Museum catalogue records for pottery vessels, a pottery pot, bronze mask, bronze pedestal vase, bronze lamps, and bronze tripod vessel.
 - Metropolitan Museum of Art catalogue record for a brass “Mask gold weight,” dated 17th–18th century (?).
 - No Wikipedia article or UNESCO Intangible Cultural Heritage inscription was supplied in the source material.
-

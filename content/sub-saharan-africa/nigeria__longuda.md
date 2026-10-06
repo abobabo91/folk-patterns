@@ -23,19 +23,11 @@ The Longuda live mainly around the volcanic Lunguda Plateau and in parts of Adam
 
 The recorded material culture includes a hide-reinforced sling and many distinctive pottery vessels, while clothing, buildings, adornment, and textiles are mostly undocumented.
 
-### Textile & pattern traditions
-
-The sources do not document Longuda textile or pattern traditions.
-
 ### Clothing & dress
-
-The sources do not describe everyday or ceremonial dress.
 
 - **Bride’s clothing** — In a contemporary marriage rite, the bride takes her clothing from her parents’ house as a sign that she agrees to marry.
 
 ### Architecture
-
-The sources do not document Longuda houses or settlement design.
 
 - **Traditional ruler’s seat** — The seat of the traditional ruler is in Guyuk, Adamawa State.
 
@@ -49,19 +41,9 @@ British Museum records describe a sling and many forms of pottery vessels.
 - **Face-neck vessel** — One pottery vessel has a face on its neck.
 - **Handled vessel** — One pottery vessel has a neck and a handle.
 
-### Jewelry & body adornment
-
-The sources do not document Longuda jewelry or body adornment.
-
 ## Music & performance
 
-The sources do not document Longuda instruments, song genres, or musical settings.
-
-- **Folk tales** (*Longuda folk tales*) — The listed publications include studies of Longuda folk tales, but they do not describe music performed with them.
-
-## Dance & theatre
-
-The sources do not document Longuda dance, theatre, or named entertainment traditions.
+- **Folk tales** (*Longuda folk tales*) — The listed publications include studies of Longuda folk tales.
 
 ## Festivals & rituals
 
@@ -127,4 +109,3 @@ Lunguda has several named dialects and strong word diversity linked partly to wo
 - [Longuda people](https://en.wikipedia.org/wiki/Longuda_people)
 - [Longuda language](https://en.wikipedia.org/wiki/Longuda_language)
 - British Museum catalogue records of the sling and pottery vessels described above.
-

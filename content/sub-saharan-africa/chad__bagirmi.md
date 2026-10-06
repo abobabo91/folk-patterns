@@ -23,20 +23,12 @@ The Bagirmi are one of Chad’s major ethnic groups. They live mainly in the Cha
 
 The recorded material culture includes hunting weapons, pottery, musical instruments, dancing skirts, and small brass figures.
 
-### Textile & pattern traditions
-
-The sources do not document Bagirmi textile or pattern traditions.
-
 ### Clothing & dress
 
 The catalogue records two dancing skirts, but gives no details about everyday dress.
 
 - **Hide dancing skirt** — This skirt is made of hide and decorated with cowrie shells.
 - **Reed-string dancing skirt** — This skirt is made from strings of reed.
-
-### Architecture
-
-The sources do not document Bagirmi buildings or architectural traditions.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -48,10 +40,6 @@ Bagirmi objects include pottery, hunting weapons, ceremonial weapons, leather sh
 - **Throwing weapons** — The catalogue records throwing-knives, throwing-clubs, a ceremonial throwing-knife, a leather and leopard-skin sheath, and a curved wooden throwing-stick.
 - **Brass animal figures** — Small brass figures show a horseman, a giraffe, and an ostrich.
 
-### Jewelry & body adornment
-
-The sources do not document Bagirmi jewelry or body adornment.
-
 ## Music & performance
 
 The catalogue records a drum, a flute or clarinet, and a harp, but gives no performance details.
@@ -62,7 +50,7 @@ The catalogue records a drum, a flute or clarinet, and a harp, but gives no perf
 
 ## Dance & theatre
 
-The catalogue records two dancing skirts but does not name Bagirmi dances or theatre forms.
+The catalogue records two dancing skirts.
 
 - **Hide dancing skirt** — This dance garment is made of hide and decorated with cowrie shells.
 - **Reed-string dancing skirt** — This dance garment is made from strings of reed.
@@ -127,4 +115,3 @@ Bagirmi is a Central Sudanic language with the autonym tàrà ɓármà, and most
 - Anthony Kimball’s 2003 Bagirmi font and Keyman input method, as described in the Bagirmi language article.
 - [Bagirmi people](https://en.wikipedia.org/wiki/Bagirmi_people)
 - [Bagirmi language](https://en.wikipedia.org/wiki/Bagirmi_language)
-

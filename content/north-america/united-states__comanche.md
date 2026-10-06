@@ -25,7 +25,7 @@ The profile records clothing, weapons, personal objects, and bison-hide campaign
 
 ### Textile & pattern traditions
 
-The sources name woven and manufactured clothing but do not explain Comanche textile methods or pattern systems.
+The sources name woven and manufactured clothing.
 
 - **Woven cape** — A woven cape appears in museum portrait records.
 - **Woven wrap** — A woven wrap appears in museum portrait records.
@@ -51,7 +51,7 @@ The sources only state that Comanche campaign tents were made from bison hide.
 
 ### Ceramics, metalwork & everyday objects
 
-Portrait records show weapons, clothing accessories, and personal objects but do not explain their manufacture.
+Portrait records show weapons, clothing accessories, and personal objects.
 
 - **Bow and quiver of arrows** — Milky Way is shown holding a bow and a quiver of arrows.
 - **Cane** — Timber Bluff is shown holding a cane.
@@ -80,7 +80,7 @@ Comanche gatherings include annual dances, and the language was used by Comanche
 
 ## Dance & theatre
 
-The sources name several annual dances but do not describe choreography or theatre traditions.
+The sources name several annual dances.
 
 - **Comanche Homecoming Annual Dance** — This annual dance is held in mid-July in Walters, Oklahoma.
 - **Comanche Homecoming powwow** — The annual homecoming powwow takes place each July in Walters.
@@ -108,7 +108,7 @@ The profile connects Comanche foodways with hunting, named food groups, horse tr
 
 ## Oral tradition & literature
 
-The sources preserve group-name explanations and language-learning work but do not give named tales or literary cycles.
+The sources preserve group-name explanations and language-learning work.
 
 - **The people** (*Nʉmʉnʉʉ*) — This Comanche autonym means “the people” or “the human beings.”
 - **Movers, Returners** (*Nokoninʉʉ*) — This name is recorded as meaning “Movers, Returners.”
@@ -141,10 +141,8 @@ Comanche is a Numic language with its own name, writing system, and ongoing pres
 
 ## Sources & further reading
 
-- The sources supplied do not provide bibliographic records for books or named scholarly monographs.
 - Comanche language preservation materials are associated in the supplied sources with the Comanche Language and Cultural Preservation Committee, the Comanche Nation Language Department, and the former Comanche Nation College.
 - [Comanche](https://en.wikipedia.org/wiki/Comanche)
 - [Comanche language](https://en.wikipedia.org/wiki/Comanche_language)
 - The supplied UNESCO Intangible Cultural Heritage sources list no United States inscription concerning the Comanche.
 - The museum objects described are British Museum photographic prints and carte-de-visite records; the supplied catalogue extracts do not include collection URLs.
-

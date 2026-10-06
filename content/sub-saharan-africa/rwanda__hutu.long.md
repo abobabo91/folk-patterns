@@ -27,11 +27,11 @@ The sources name no vernacular textile terms for the Hutu, and none of the searc
 
 ### Clothing & dress
 
-The catalogue records dress in skin rather than cloth. Two skin skirts survive, both made with the hair left on: one black, with brown "legs" and a fringe, the other white speckled with black, with a single brown "leg" and a fringe. The "legs" are the animal's own limbs left attached to the pelt, so the skirt keeps the outline of the hide it was cut from. A composite baby's neckband is made of plaited skin with two tassels of brown, black and white hair, hung with a string of wooden sticks. Beyond these, the sources used do not describe Hutu everyday or ceremonial dress, head coverings, belts or footwear, and name no vernacular garment terms.
+The catalogue records dress in skin rather than cloth. Two skin skirts survive, both made with the hair left on: one black, with brown "legs" and a fringe, the other white speckled with black, with a single brown "leg" and a fringe. The "legs" are the animal's own limbs left attached to the pelt, so the skirt keeps the outline of the hide it was cut from. A composite baby's neckband is made of plaited skin with two tassels of brown, black and white hair, hung with a string of wooden sticks.
 
 ### Architecture
 
-The only architectural evidence in the sources is a fragment: a portion of a hut screen, a curved section made of fibre, its fine twined black-dyed and natural-coloured work laid over a coarser woven base. The curve indicates a rounded interior or enclosure. A composite rain-guard — an inner layer of grass stems and an outer layer of leaves, knotted together with twisted leaf rope — belongs to the same family of plant-fibre shelter, though it is portable rather than built. The sources used give no account of Hutu house form, roof construction, compound layout or named building types.
+The only architectural evidence in the sources is a fragment: a portion of a hut screen, a curved section made of fibre, its fine twined black-dyed and natural-coloured work laid over a coarser woven base. The curve indicates a rounded interior or enclosure. A composite rain-guard — an inner layer of grass stems and an outer layer of leaves, knotted together with twisted leaf rope — belongs to the same family of plant-fibre shelter, though it is portable rather than built.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,15 +39,11 @@ Pottery in the collection is unglazed and plainly worked: a load of three small 
 
 ### Jewelry & body adornment
 
-Adornment in the collection runs to four types. A bangle is a plain section of elephant tusk, dirty white. A bracelet is coiled brass. An anklet is plaited grass, a dull light brown. The baby's neckband of plaited skin, with two tassels of brown, black and white hair and a string of wooden sticks, is the one piece tied to a stage of life. Ivory is also worked figuratively rather than as ornament: carved human heads, a carved woman with a bag on her back, a carved bird, and a hippopotamus tusk carved into the shape of a crocodile. The sources used do not describe tattooing, hairdressing or body painting.
+Adornment in the collection runs to four types. A bangle is a plain section of elephant tusk, dirty white. A bracelet is coiled brass. An anklet is plaited grass, a dull light brown. The baby's neckband of plaited skin, with two tassels of brown, black and white hair and a string of wooden sticks, is the one piece tied to a stage of life. Ivory is also worked figuratively rather than as ornament: carved human heads, a carved woman with a bag on her back, a carved bird, and a hippopotamus tusk carved into the shape of a crocodile.
 
 ## Music & performance
 
 Three classes of instrument are documented. A **sansa** — a lamellophone — is made of wood with pokerwork decoration and carries ten keys with small rattles attached, the rattles of iron; the pokerwork, burnt into the body, is the same decorative technique used on the zither. A **trough zither** of wood, also with pokerwork decoration and a split repaired with wire, carries seven strings. Two **rattles** survive: one a seed mounted on a stick handle, the other a gourd filled with gravel and stopped with a stick that doubles as the handle, with further seeds preserved in an envelope attached to the object. The pairing of a plucked lamellophone and a strung trough zither with shaken idiophones suggests accompaniment for voice, but the sources record nothing about song genres, performance occasions or who played these instruments, and Rwanda has no UNESCO Intangible Cultural Heritage inscriptions.
-
-## Dance & theatre
-
-The sources used do not cover Hutu dance or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -59,7 +55,7 @@ Food appears in the sources only through vessels and implements. Three small pot
 
 ## Oral tradition & literature
 
-The sources used do not cover Hutu folktales, proverbs, riddles or storytelling. One question of oral and scholarly transmission they do record is the etymology of the name itself: Ernest Viaene argued in 1910 that *Hutu* derived from a word meaning slave, which René Bourgeois contradicted, holding that it originally meant "lords" in relation to the Twa. Bourgeois pointed to the Mongo people of the DRC, among whom Bantu rulers of local Twa were called *Bahoto* or *Bawoto* — terms cognate with *Bahutu* — and meaning lords, not serfs, because they governed over the Pygmies.
+One question of oral and scholarly transmission they do record is the etymology of the name itself: Ernest Viaene argued in 1910 that *Hutu* derived from a word meaning slave, which René Bourgeois contradicted, holding that it originally meant "lords" in relation to the Twa. Bourgeois pointed to the Mongo people of the DRC, among whom Bantu rulers of local Twa were called *Bahoto* or *Bawoto* — terms cognate with *Bahutu* — and meaning lords, not serfs, because they governed over the Pygmies.
 
 ## Language & religion
 

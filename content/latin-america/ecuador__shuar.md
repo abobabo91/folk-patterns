@@ -75,10 +75,6 @@ The sources do not describe Shuar instruments, song genres, or musical performan
 
 - **Radio schools** — Radio schools were established in the late 1960s for communication and education in Spanish and Shuar, then closed in 2001.
 
-## Dance & theatre
-
-The sources do not identify Shuar dance, theatre, masked performance, or shadow-puppet traditions.
-
 ## Festivals & rituals
 
 A former warrior ritual sent boys to waterfalls to seek visions and gain spiritual strength.
@@ -147,4 +143,3 @@ Shuar is a Chicham language, and spiritual life centers on ancestral spirits, sh
 - Shuar: https://en.wikipedia.org/wiki/Shuar
 - Shuar language: https://en.wikipedia.org/wiki/Shuar_language
 - UNESCO Intangible Cultural Heritage: no inscription for this ethnic group is listed in the supplied sources.
-

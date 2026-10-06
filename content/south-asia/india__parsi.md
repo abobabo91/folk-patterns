@@ -56,19 +56,11 @@ The recorded objects include an expanding lantern and religious implements.
 - **Expanding lantern** — This lantern was made of calico with a copper top and base and a cast brass carrying handle.
 - **Religious implements** (*alat*) — Religious implements called alat are mentioned in an account of a group arriving from Greater Khorasan.
 
-### Jewelry & body adornment
-
-The sources do not document Parsi jewelry or named body-adornment traditions.
-
 ## Music & performance
 
 The sources do not document Parsi instruments, songs or performances, but they mention a Parsi epic.
 
-- **Parsi epic** (*Qissa-i Sanjan*) — The Qissa-i Sanjan is mentioned, but the sources do not say whether it was sung, recited or performed.
-
-## Dance & theatre
-
-The sources do not document Parsi dances, theatre or other entertainment traditions.
+- **Parsi epic** (*Qissa-i Sanjan*) — The Qissa-i Sanjan is mentioned.
 
 ## Festivals & rituals
 
@@ -134,7 +126,5 @@ Parsis speak Gujarati and follow Zoroastrianism, with religious traditions linke
 - Wikipedia, “Parsi language”: https://en.wikipedia.org/wiki/Parsi_language
 - Wikipedia, “Parsi cuisine”: https://en.wikipedia.org/wiki/Parsi_cuisine
 - Wikipedia, “Parsi religion”: https://en.wikipedia.org/wiki/Parsi_religion
-- UNESCO Intangible Cultural Heritage inscriptions: the sources used state that there are no UNESCO inscriptions for this country concerning this ethnic group.
 - British Museum catalogue records for the blouse, cap, tunic, shawl and lantern.
 - Museum of Ethnography catalogue record for “Parser-kvinna. D. Macropolo & Co., Calcutta. 0321.m.0028 A parsi lady.”
-

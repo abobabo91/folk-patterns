@@ -68,10 +68,6 @@ No information is available about Konkomba instruments, song genres or performan
 
 Some cowrie-covered calabash head-dresses are catalogued as masks as well as head-dresses, suggesting a ceremonial or performative context.
 
-## Festivals & rituals
-
-No festival calendar or life-cycle rites are documented in the sources.
-
 ## Foodways
 
 The Konkomba are primarily subsistence farmers, but no specific cuisine, staple grains or ceremonial foods are named in the sources.
@@ -113,4 +109,3 @@ Konkomba is a Gur language with several dialects, and the Bible has been fully t
 - GILLBT's *Likpakpaani Dictionary*, and the Konkomba Bible translation begun by Mary Steele in 1962 under Wycliffe Bible Translators, continued through GILLBT, GIL and RILADEP (formerly KOLADEP).
 - British Museum online collection — https://www.britishmuseum.org/collection — holds the Konkomba iron knives, loop dagger, finger-ring fighting claw, barbed arrow, cowrie-covered gourd helmets and hats, plaited-fibre head-bands and armlets, and leather ring armlets and leglets shown in this atlas.
 - Smithsonian Folkways search — https://folkways.si.edu/search?query=Ghana
-

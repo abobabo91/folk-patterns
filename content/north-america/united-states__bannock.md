@@ -11,7 +11,7 @@ tags: [ethnography, north-america]
 | Who | The Bannock are a Native American people originally linked to the Northern Paiute and culturally close to the Northern Shoshone. |
 | Where | Their traditional lands included northern Nevada, southeastern Oregon, southern Idaho, and western Wyoming. Today most live on the Fort Hall Indian Reservation in southeastern Idaho. |
 | How many | In 2010, 89 people reported Bannock ancestry, including 38 full-blooded people. The Shoshone-Bannock Tribes enrolled 5,315 people. |
-| Language | The sources do not identify a language family. Northern Paiute terms for the Bannock include panaki and kutsutɨkaˀa. |
+Northern Paiute terms for the Bannock include panaki and kutsutɨkaˀa. |
 | Religion | Religious life included worship, appeals to spirits, healing by medicine men, and belief in a soul journey after death. |
 | Known for | Geometric beadwork · Tipis and summer brush dwellings · Salmon fishing and buffalo hunting · Scalp Dance, Grass Dance, Circle Dance, Bear Dance, and Sun Dance · Rawhide cradles and salmon-skin carrying bags |
 
@@ -35,7 +35,7 @@ Bannock makers used geometric designs on beadwork and bags, along with leather, 
 
 ### Clothing & dress
 
-Records show cloth tunics, blankets, moccasins, and baby carriers, but they do not give a full account of Bannock dress.
+Records show cloth tunics, blankets, moccasins, and baby carriers.
 
 - **Cloth tunic** — Museum portraits show Bannock people wearing cloth tunics.
 - **Moccasin** — A Bannock moccasin from Fort Hall was given to the Museum of Ethnography in 1958.
@@ -70,7 +70,7 @@ The sources do not document Bannock jewelry or named body-adornment practices, b
 
 ## Music & performance
 
-The sources name several dances and ceremonies but do not describe Bannock instruments, songs, or the music used in them.
+The sources name several dances and ceremonies.
 
 - **Scalp Dance** — The Scalp Dance was one of the named Bannock ceremonies.
 - **Grass Dance** — The Grass Dance was one of the named Bannock ceremonies.
@@ -153,4 +153,3 @@ The Bannock were originally Northern Paiute, culturally close to the Northern Sh
 - “Bannock people,” Wikipedia: https://en.wikipedia.org/wiki/Bannock_people
 - UNESCO Intangible Cultural Heritage: no United States inscription supplied in the sources.
 - Museum catalogue records supplied for the Museum of Ethnography and British Museum objects shown in this atlas.
-

@@ -37,7 +37,7 @@ Temne textile work includes batik, beadwork, and tools for weaving.
 The sources describe a Temne hat, a beaded apron, and chief’s regalia, but give little detail about full dress.
 
 - **Bast hat** (*hatt*) — This top-shaped hat is made from natural-coloured bast covered in yellow and black bast, and is worn more often by Temne than by Mendi.
-- **Chief’s regalia** — The chief and the Sanko appeared together and carried the same regalia, though the sources do not describe its parts.
+- **Chief’s regalia** — The chief and the Sanko appeared together and carried the same regalia.
 
 ### Architecture
 
@@ -66,7 +66,7 @@ Adornment in the records uses beads, cowries, cotton, raffia, and metal.
 
 ## Music & performance
 
-The sources mention drums, marriage dances, secret societies, and Temne stories, but do not give a named music system.
+The sources mention drums, marriage dances, secret societies, and Temne stories.
 
 - **Drumming scene** — A batik shows two women playing drums beside a dancing woman.
 - **Marriage dances** — Historical descriptions mention dances connected with marriage.
@@ -148,4 +148,3 @@ Temne is a tonal Mel language, and Temne religion includes Islam alongside older
 - [Temne language — Wikipedia](https://en.wikipedia.org/wiki/Temne_language)
 - The supplied UNESCO Intangible Cultural Heritage sources list no inscriptions for Sierra Leone.
 - British Museum and Museum of World Culture catalogue records supplied for the objects shown.
-

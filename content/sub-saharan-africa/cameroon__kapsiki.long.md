@@ -27,39 +27,39 @@ The Kapsiki, also called Ka-Tsepkye, are a people living on both sides of the bo
 
 ### Clothing & dress
 
-The supplied sources document pubic-cover aprons but do not describe everyday clothing, ceremonial dress, men’s garments, head coverings, belts, footwear, or gender-specific dress beyond the recorded apron objects. The catalogue records identify cotton-thread waistbands and ties, glass and plastic beads, cowrie shells, and possible seeds or nut shells as components of these aprons.
+The supplied sources document pubic-cover aprons. The catalogue records identify cotton-thread waistbands and ties, glass and plastic beads, cowrie shells, and possible seeds or nut shells as components of these aprons.
 
 ### Architecture
 
-The sources used do not cover Kapsiki house forms, building materials, roofs, decoration, named building types, or urban architectural traditions. They state only that Kapsiki communities include villages of 2000–6000 people and that the Kapsiki live on a plateau in the Mandara Mountains, while the Kamwe live on mountain slopes and the western plain.
+The sources state only that Kapsiki communities include villages of 2000–6000 people and that the Kapsiki live on a plateau in the Mandara Mountains, while the Kamwe live on mountain slopes and the western plain.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not cover Kapsiki pottery, blacksmithing, ironwork, brasswork, funerary iron objects, wood carving, basketry, tools, or household goods. The museum records concern pubic-cover aprons made with glass beads, plastic beads, cotton string, cotton thread, cowrie shells, and possible seeds or nut shells.
+The museum records concern pubic-cover aprons made with glass beads, plastic beads, cotton string, cotton thread, cowrie shells, and possible seeds or nut shells.
 
 ### Jewelry & body adornment
 
-The sources used do not describe Kapsiki jewelry, tattoos, henna, hair practices, or ritual body adornment. The catalogue records document beadwork and suspended ornaments on pubic-cover aprons, including cowrie shells, large white glass beads, and possible seeds or nut shells.
+The catalogue records document beadwork and suspended ornaments on pubic-cover aprons, including cowrie shells, large white glass beads, and possible seeds or nut shells.
 
 ## Music & performance
 
-The sources used do not identify Kapsiki musical instruments, song genres, musical repertories, or performance contexts. The supplied material mentions a documentary and events organized by the Malima Project to promote educational activities in the area, but it does not describe their musical content.
+The supplied material mentions a documentary and events organized by the Malima Project to promote educational activities in the area.
 
 ## Dance & theatre
 
-The sources used do not describe Kapsiki dances, theatre, dramatic traditions, masks, or performance distinctions. A supplied bibliographic note gives the title *The dancing dead: ritual and religion among the Kapsiki/Higi of north Cameroon and northeastern Nigeria*, but the supplied sources do not provide details of the dancing or ritual practices discussed in that work.
+A supplied bibliographic note gives the title *The dancing dead: ritual and religion among the Kapsiki/Higi of north Cameroon and northeastern Nigeria*.
 
 ## Festivals & rituals
 
-The sources used do not provide an annual Kapsiki festival calendar or descriptions of birth, coming-of-age, wedding, funeral, seasonal, or harvest rites. They state that the Kapsiki resisted Islamisation during the Fulani jihad of Modibo Adama and Hama Yaji. The supplied material also gives the title *The dancing dead: ritual and religion among the Kapsiki/Higi of north Cameroon and northeastern Nigeria*, but contains no further account of ritual practice.
+The sources state that the Kapsiki resisted Islamisation during the Fulani jihad of Modibo Adama and Hama Yaji. The supplied material also gives the title *The dancing dead: ritual and religion among the Kapsiki/Higi of north Cameroon and northeastern Nigeria*, but contains no further account of ritual practice.
 
 ## Foodways
 
-The sources used do not describe Kapsiki staple grains, dishes, cooking methods, brewing, dietary rules, ceremonial foods, or tea and coffee traditions. They state only that Kapsiki communities subsist on livestock farming and agriculture.
+The sources state only that Kapsiki communities subsist on livestock farming and agriculture.
 
 ## Oral tradition & literature
 
-The sources used do not identify Kapsiki folktales, epics, proverbs, riddles, storytelling contexts, or literary traditions. The Kapsiki language article records that a translation of the Bible into Psikyɛ, *Ghena ta Shala*, was published in 1988. The supplied sources also mention the Malima Project’s educational documentary and events, without describing their oral or literary content.
+The Kapsiki language article records that a translation of the Bible into Psikyɛ, *Ghena ta Shala*, was published in 1988. The supplied sources also mention the Malima Project’s educational documentary and events, without describing their oral or literary content.
 
 ## Language & religion
 

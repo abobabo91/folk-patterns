@@ -23,19 +23,11 @@ The Diola are linked with the Casamance region of southern Senegal and neighbori
 
 The documented material culture centers on practical objects made from wood, palm fibre, bamboo, iron, vegetable fibre, cane, metal, cotton, plastic, hide, clay, and palm leaf.
 
-### Textile & pattern traditions
-
-The supplied sources do not document Diola textiles, patterns, or motifs.
-
 ### Clothing & dress
 
 The sources do not describe Diola clothing, but they record a palm-fibre belt used for climbing palm trees.
 
 - **Palm-tree climbing belt** — This belt is made of palm fibre and is used for climbing palm trees.
-
-### Architecture
-
-The supplied sources do not describe Diola houses, villages, or building traditions.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -47,33 +39,17 @@ The records list practical objects for hunting, fishing, cooking, storage, and d
 - **Winnowing basket** — This basket is used for winnowing.
 - **Clay tobacco-pipe bowl** — The tobacco-pipe bowl is made of clay.
 
-### Jewelry & body adornment
-
-The supplied sources do not describe Diola jewelry or body adornment.
-
 ## Music & performance
 
 The sources do not describe Diola music, but a hide-and-wood drum appears in a museum catalogue.
 
 - **Drum** — The drum is made of hide and wood, but its name and musical use are not given.
 
-## Dance & theatre
-
-The supplied sources do not document Diola dances, theatre, masks, or dramatic performances.
-
-## Festivals & rituals
-
-The supplied sources do not describe Diola festivals, rites, ceremonies, or other rituals.
-
 ## Foodways
 
 Thiebou Diola is a traditional rice-based dish associated with the Diola of Casamance.
 
 - **Diola rice dish** (*Thiebou Diola*) — Thiebou Diola, also called Ceebu Diola or “C'est Bon,” is a lesser-known variant of Thieboudienne with Diola-specific ingredients and flavours.
-
-## Oral tradition & literature
-
-The supplied sources do not describe Diola stories, proverbs, riddles, or literary traditions.
 
 ## Language & religion
 
@@ -113,4 +89,3 @@ Jola is spoken in Casamance and nearby countries, with an official Senegalese wr
 - Wikipedia, “Diola language”: https://en.wikipedia.org/wiki/Diola_language
 - The supplied museum catalogue records include objects from the British Museum and the Museum of Ethnography.
 - No UNESCO Intangible Cultural Heritage inscription was supplied for this group.
-

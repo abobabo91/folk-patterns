@@ -12,7 +12,7 @@ tags: [ethnography, sub-saharan-africa]
 | Where | The western Niger Delta of southern Nigeria, mainly in Delta State. |
 | How many | The homeland covers more than 1,500 square miles (3,900 square kilometers). |
 | Language | Itsekiri, also written Isekiri, is a Yoruboid language. |
-| Religion | The profile records Portuguese missionary activity but does not give a complete account of present-day religion. |
+| Religion | The profile records Portuguese missionary activity. |
 | Known for | Fishing and trade · Royal traditions · River settlements · Carved objects · European contact |
 
 ## Overview
@@ -23,19 +23,13 @@ The Itsekiri live around rivers, creeks, mangrove swamps and the Atlantic coast 
 
 The documented material culture includes carved wooden paddles, an earthenware pot and a photograph showing personal adornment, but many everyday traditions are not recorded.
 
-### Textile & pattern traditions
-
-The sources do not document a distinctive Itsekiri textile or pattern tradition.
-
 ### Clothing & dress
-
-The sources do not describe distinctive everyday or ceremonial Itsekiri clothing.
 
 - **Head-gear, necklace, rings and bracelets** — A museum photograph shows a young girl wearing head-gear, a necklace, finger rings and bracelets, but the catalogue does not identify them as distinctively Itsekiri.
 
 ### Architecture
 
-The sources describe river settlements and royal centres but do not record a specific Itsekiri house form.
+The sources describe river settlements and royal centres.
 
 - **Historic royal capital** (*Ode-Itsekiri*) — Ode-Itsekiri, also called Ale Iwere, was the historical royal capital.
 - **Main urban centre** (*Warri*) — Warri City is the principal urban centre within the Itsekiri homeland.
@@ -52,21 +46,11 @@ The clearest documented objects are carved wooden paddles and one earthenware po
 
 ### Jewelry & body adornment
 
-The sources do not document named Itsekiri jewelry or body-adornment traditions.
-
 - **Scarification** — A museum photograph shows a young girl with scarification on her arms, but the catalogue gives no further cultural interpretation.
-
-## Music & performance
-
-The sources do not document Itsekiri instruments, song genres or performance repertories.
-
-## Dance & theatre
-
-The sources do not describe named Itsekiri dances, masquerades, theatre forms or dramatic traditions.
 
 ## Festivals & rituals
 
-The sources mention ceremonies and royal burials but do not provide a named festival calendar.
+The sources mention ceremonies and royal burials.
 
 - **Royal burials** (*Ijala*) — Royal burials are connected with Ijala, where Ginuwa was founded and later died and was buried.
 - **Olu kingship** (*Olu*) — Before the interregnum, the monarch was known as the Olu, or king, of Warri.
@@ -130,4 +114,3 @@ Itsekiri is a Yoruboid language with its own writing system, and the sources rec
 - [Itsekiri language — Wikipedia](https://en.wikipedia.org/wiki/Itsekiri_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group was supplied.
 - The supplied museum catalogue records include objects held by the British Museum and the Museum of Ethnography.
-

@@ -13,7 +13,7 @@ The Baoulé, also called Baule, are an Akan people and one of the largest ethnic
 
 ### Textile & pattern traditions
 
-**Pagne** — The sources identify traditional *pagne* as also known as Kente cloth, but do not describe its specific structure or patterns.
+**Pagne** — The sources identify traditional *pagne* as also known as Kente cloth.
 
 **Hand-woven textiles** — The Baoulé are described as well known for unique hand-woven textiles. The village of Sakiaré is described as having 95% skilled hand-weavers.
 
@@ -31,15 +31,15 @@ The Baoulé, also called Baule, are an Akan people and one of the largest ethnic
 
 ### Clothing & dress
 
-The sources describe women’s wrappers or shawls made from sewn strips of cotton decorated with ikat, supplementary weft float patterns, twined threads, tassels, and fringes. A museum record describes a hunter’s cap made of coarse dark brown cotton with a light brown cotton edge, rounded top, triangular flaps, geometric chain-stitch decoration, twisted leather thong decoration, and appliqué. The cap carries 41 pairs of leopard (?) claw charms and five sealed leather pouches described as charms. Museum records also describe a masquerade costume consisting of a polychrome wooden mask, raffia [?] skirt, wrist and ankle bands, and rattles around the ankles. The sources do not describe ordinary footwear, belts, or a separate everyday-versus-ceremonial clothing system.
+The sources describe women’s wrappers or shawls made from sewn strips of cotton decorated with ikat, supplementary weft float patterns, twined threads, tassels, and fringes. A museum record describes a hunter’s cap made of coarse dark brown cotton with a light brown cotton edge, rounded top, triangular flaps, geometric chain-stitch decoration, twisted leather thong decoration, and appliqué. The cap carries 41 pairs of leopard (?) claw charms and five sealed leather pouches described as charms. Museum records also describe a masquerade costume consisting of a polychrome wooden mask, raffia [?] skirt, wrist and ankle bands, and rattles around the ankles.
 
 ### Architecture
 
-The sources do not cover Baoulé house forms, village architecture, roofing, building materials, courtyards, or named architectural traditions. They mention a carved wooden door with two panels, the upper panel showing a lizard and the lower panel a tortoise, but provide no architectural context for it.
+The sources mention a carved wooden door with two panels, the upper panel showing a lizard and the lower panel a tortoise, but provide no architectural context for it.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not describe Baoulé ceramics. Wooden everyday and status objects in the museum records include carved doors, stools, cosmetic boxes, fly-whisks, heddle-pulleys, drums, bells, musical instruments, masks, figures, and a hunter’s cap. A stool is carved from one block of wood, with a rectangular curved seat, rectangular base, four circles, and a central pillar. Gold objects include a lost-wax cast pendant and beads; bronze objects include women’s anklets. The sources also mention the machete, used for clearing vegetation and making paddles or canoes from logs, and the snail shell, used for grounding and pounding tobacco and making snuffs.
+Wooden everyday and status objects in the museum records include carved doors, stools, cosmetic boxes, fly-whisks, heddle-pulleys, drums, bells, musical instruments, masks, figures, and a hunter’s cap. A stool is carved from one block of wood, with a rectangular curved seat, rectangular base, four circles, and a central pillar. Gold objects include a lost-wax cast pendant and beads; bronze objects include women’s anklets. The sources also mention the machete, used for clearing vegetation and making paddles or canoes from logs, and the snail shell, used for grounding and pounding tobacco and making snuffs.
 
 ### Jewelry & body adornment
 
@@ -49,7 +49,7 @@ Museum records describe gold beads, a gold-plated hair-pin, gold-plated spectacl
 
 The sources identify drums, a bell, and wooden musical instruments among Baoulé museum objects. One bell is an iron instrument with a separate striker linked by string and a wooden end carved as an antelope’s head. Another wooden musical instrument is shaped as a woman’s head with an elongated neck. A Museum of World Culture record identifies a drum from Toumodi, Côte d’Ivoire, associated with the Baoulé; the record gives a diameter of 21 centimetres and a height of 42 centimetres.
 
-The sources do not provide names for Baoulé song genres, instrumental repertoires, or musical scales. They connect masks with dance types including *goli glin*, *kple kple*, *gbagba* or *mblo*, and *bo nu amuin*. The *gbagba* or *mblo* mask is used in entertainment-based performances consisting of a dance sequence. The *bo nun amuin* mask is danced in times of trouble to protect the village and at important men’s funerals.
+The sources connect masks with dance types including *goli glin*, *kple kple*, *gbagba* or *mblo*, and *bo nu amuin*. The *gbagba* or *mblo* mask is used in entertainment-based performances consisting of a dance sequence. The *bo nun amuin* mask is danced in times of trouble to protect the village and at important men’s funerals.
 
 ## Dance & theatre
 
@@ -61,7 +61,7 @@ The men’s sacred *bo nun amuin* mask is a boxy helmet mask representing a mena
 
 ## Festivals & rituals
 
-The sources do not provide an annual Baoulé festival calendar or named seasonal festivals. They describe several ritual contexts. The *bo nun amuin* mask is danced in times of trouble to protect the village and at important men’s funerals. Its dance assists the recent passing of the dead in becoming spirits capable of protecting following generations.
+The sources describe several ritual contexts. The *bo nun amuin* mask is danced in times of trouble to protect the village and at important men’s funerals. Its dance assists the recent passing of the dead in becoming spirits capable of protecting following generations.
 
 Baoulé religious belief is described through three realities: the Domain of God, *Niamien*; the earthly world of human beings, animals, plants, and supernatural beings living in mountains, rocks, rivers, and forests; and the beyond, *blolo*, where ancestral spirits reside. *Blolo bla*, meaning blolo woman, and *blolo bian*, also called *blolo yasua*, meaning blolo man, are private sculptures representing an individual’s spirit spouse. People make offerings of food and money to these figures because the spirit spouse can influence earthly relationships and personal endeavours.
 
@@ -71,11 +71,11 @@ The sources also describe naming practices. Names can reflect the day of the wee
 
 The staple food of the Ivorian diet is yam. It is boiled, cooled, and mashed. Cassava is also integral to Baoulé cuisine. Yams and maize are stored until needed. Other foods are obtained from local markets, where fish is described as especially important and is wrapped in palm leaves.
 
-The sources state that Ivorians typically eat goat meat, sheep meat, lamb, and chicken, shared by the entire community. Goats are milked and chickens provide eggs. Firewood and yams are transported to local markets, where they are sold with other goods. The sources do not give names for particular Baoulé dishes, cooking vessels, ceremonial foods, tea or coffee traditions, or dietary rules.
+The sources state that Ivorians typically eat goat meat, sheep meat, lamb, and chicken, shared by the entire community. Goats are milked and chickens provide eggs. Firewood and yams are transported to local markets, where they are sold with other goods.
 
 ## Oral tradition & literature
 
-The sources do not describe Baoulé folktales, epic poetry, proverbs, riddles, named storytellers, or contemporary literary preservation projects. They do record the transmission of religious concepts through sculpture, dance, naming, and the interpretation of spiritual beings.
+The sources record the transmission of religious concepts through sculpture, dance, naming, and the interpretation of spiritual beings.
 
 The Baoulé language article records that portions of the Bible translated into Baoulé were first published in 1946, that the full New Testament followed in 1953, and that the complete Bible was first published in 1998 by the Bible Society in Abidjan.
 
@@ -87,7 +87,6 @@ In school, Baoulé children speak French, while at home they speak Baoulé; Fren
 
 ## Sources & further reading
 
-- The sources used do not provide the requested books, publishers, or publication years.
 - The sources mention Alain-Michel Boyer in connection with the meaning of *bo usu*, but provide no full bibliographic record.
 - [Baoulé people](https://en.wikipedia.org/wiki/Baoul%C3%A9_people)
 - [Baoulé language](https://en.wikipedia.org/wiki/Baoul%C3%A9_language)

@@ -17,11 +17,11 @@ The sources used here — Wikipedia's articles on the Teso people and the Ateso 
 
 ### Clothing & dress
 
-The sources do not describe Iteso everyday or ceremonial clothing, and name no garment, belt or footwear types. What they do document is worn on the head and the arms, and is treated under Jewelry & body adornment below.
+What the sources do document is worn on the head and the arms, and is treated under Jewelry & body adornment below.
 
 ### Architecture
 
-The sources used do not cover Iteso house form, building materials, roofing or architectural decoration. The only built structure they mention is a modern one: the war memorial raised near Soroti, the Iteso capital, after the 1992 settlement that ended the Teso insurgency.
+The only built structure they mention is a modern one: the war memorial raised near Soroti, the Iteso capital, after the 1992 settlement that ended the Teso insurgency.
 
 ### Ceramics, metalwork & everyday objects
 

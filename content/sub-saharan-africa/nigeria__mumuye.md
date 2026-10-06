@@ -10,7 +10,7 @@ tags: [ethnography, sub-saharan-africa]
 |---|---|
 | Who | The Mumuye are a people of Nigeria. |
 | Where | Taraba State and parts of Adamawa State, around the Benue River Valley. |
-| How many | The sources do not provide a population number. |
+ |
 | Language | Mumuye, a Leko–Nimbari Savanna language with many dialects. |
 | Religion | Spiritual life centers on the Vabong secret society, divination, rainmaking and attachment to the land. |
 | Known for | Figurative sculpture · Masquerades · Scarification · Rainmaking · Divination |
@@ -31,7 +31,7 @@ The named textile tradition is a handspun cotton cloth called langtang.
 
 ### Clothing & dress
 
-The sources name hide aprons and a handspun cotton textile but do not describe complete everyday or ceremonial dress.
+The sources name hide aprons and a handspun cotton textile.
 
 - **Hide apron** — Men’s aprons were made of hide, including aprons with fringe.
 - **Crested hat and bead necklace** — A wooden male figure is shown wearing a crested hat and a necklace of beads.
@@ -90,14 +90,6 @@ Mumuye ritual life includes scarification, secret-society initiation, divination
 - **Rainmaking rods** — Z-shaped rods are linked with lightning, snakes, fertility of the land and fertility of the people.
 - **Divination figure** (*Iagalagana*) — The Iagalagana is used for divination, good luck, protection from evil and rainmaking.
 
-## Foodways
-
-The sources do not document Mumuye foods, cooking methods, dishes, drinks or dietary rules.
-
-## Oral tradition & literature
-
-The sources do not document Mumuye folktales, poetry, proverbs, riddles, literature or storytelling settings.
-
 ## Language & religion
 
 Mumuye spiritual and social life centers on the Vabong society, village leadership, the land and Iagalagana figures.
@@ -125,4 +117,3 @@ Mumuye spiritual and social life centers on the Vabong society, village leadersh
 - [Mumuye language — Wikipedia](https://en.wikipedia.org/wiki/Mumuye_language)
 - UNESCO Intangible Cultural Heritage: no Nigeria inscription concerning the Mumuye was provided in the sources.
 - British Museum catalogue records supplied for the objects shown: clubs, hide aprons, *langtang* textile, rattle, ornaments and wooden figures.
-

@@ -23,19 +23,9 @@ The Zaghawa live across Libya, Chad, and Sudan. Their culture centres on pastora
 
 Zaghawa material culture includes pottery, baskets, clay-working tools, livestock-based pastoral life, and inherited artisan occupations.
 
-### Textile & pattern traditions
-
-The supplied sources do not document named Zaghawa textile or pattern traditions.
-
-### Clothing & dress
-
-The supplied sources do not describe Zaghawa clothing or named garments.
-
 ### Architecture
 
-The sources do not describe named Zaghawa buildings or construction traditions.
-
-- **Grass enclosure** — Museum photographs from Kebkebiya show a grass enclosure, but the sources do not explain its construction.
+- **Grass enclosure** — Museum photographs from Kebkebiya show a grass enclosure.
 - **Dry river bank** — Museum photographs also show the bank of a dry river in North Darfur.
 
 ### Ceramics, metalwork & everyday objects
@@ -48,19 +38,11 @@ Pottery and other craft work are linked to inherited artisan occupations, especi
 - **Reika basket** (*reika*) — The records show a vegetable-fibre basket called reika.
 - **Ironwork** — Ironwork was an inherited artisan occupation traditionally viewed as dirty and low-status.
 
-### Jewelry & body adornment
-
-The supplied sources do not document Zaghawa jewelry or body adornment.
-
 ## Music & performance
 
 Music was an inherited artisan occupation, and Zaghawa musicians included drummers.
 
 - **Drumming** — Drummers were among the musicians of the Zaghawa artisan castes.
-
-## Dance & theatre
-
-The supplied sources do not document named Zaghawa dances or theatre forms.
 
 ## Festivals & rituals
 
@@ -82,7 +64,7 @@ Zaghawa foodways are tied to pastoralism, wild grains, and later farming.
 
 ## Oral tradition & literature
 
-The sources name published Zaghawa tales and memoirs about Darfur, but do not describe older oral genres.
+The sources name published Zaghawa tales and memoirs about Darfur.
 
 - **Zaghawa Tales of Chad** (*Contes Zaghawa du Tchad*) — This collection contains thirty-seven tales and two legends.
 - **The Translator** — Daoud Hari wrote this memoir about Darfur.
@@ -129,4 +111,3 @@ Beria is the Zaghawa language, with several named clan or dialect groupings and 
 - [Wikipedia: Zaghawa language](https://en.wikipedia.org/wiki/Zaghawa_language)
 - No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.
 - British Museum photographic-print catalogue records for pottery work in Kebkebiya and camel scenes in Kireyka, Darfur, Sudan.
-

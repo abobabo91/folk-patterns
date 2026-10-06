@@ -64,10 +64,6 @@ Polyphonic music is common among Aromanians, and the Metsovo festivals are the p
 
 - **Metsovo festivals** (*festival*) — The largest Aromanian cultural gatherings in the world, held at Metsovo and regularly drawing over 40,000 participants.
 
-## Dance & theatre
-
-The sources do not cover Aromanian dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Aromanians follow the Eastern Orthodox liturgical calendar and observe Aromanian National Day, though Greek Aromanians commemorate the Greek Struggle for Independence instead.
@@ -118,7 +114,5 @@ Aromanian is an Eastern Romance language with many Greek, Slavic and Turkish loa
 - Tom Winnifrith — on Vlach origins, population figures and Aromanian-language schooling in Albania.
 - Bosch et al. (2006) — genetic study concluding the Aromanians are genetically indistinguishable from other Balkan populations.
 - Wikipedia, "Aromanians": https://en.wikipedia.org/wiki/Aromanians
-- UNESCO Intangible Cultural Heritage: no inscription for this group was among the sources used.
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Aromanian
 - British Museum online collection (holder of the costume and household weavings shown here): https://www.britishmuseum.org/collection
-

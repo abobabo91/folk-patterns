@@ -62,8 +62,6 @@ Zafimaniry domestic life is met almost entirely in carved wood; no ceramics are 
 
 ### Jewelry & body adornment
 
-The sources do not document Zafimaniry jewelry, tattooing, or hair practice.
-
 - **Wooden comb** — The only personal adornment object recorded.
 
 ## Music & performance
@@ -139,4 +137,3 @@ The Zafimaniry speak a Malagasy dialect nearly identical to Betsileo; their orig
 - https://en.wikipedia.org/wiki/Zafimaniry
 - British Museum online collection
 - https://folkways.si.edu/search?query=Madagascar
-

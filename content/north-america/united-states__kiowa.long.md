@@ -13,7 +13,7 @@ The Kiowa, also called *Ǥáuigú*, are a Native American tribe and Indigenous p
 
 ### Textile & pattern traditions
 
-**Parfleche** — Kiowa women painted geometric designs on parfleche. The sources identify parfleche as rawhide containing camping goods, but do not describe particular construction methods or named designs.
+**Parfleche** — Kiowa women painted geometric designs on parfleche. The sources identify parfleche as rawhide containing camping goods.
 
 **Hide painting** — Hide paintings adorned the outside and inside of tipis, with special meanings attached to certain designs. Kiowa women also painted geometric designs on hides.
 
@@ -43,13 +43,13 @@ The tipi was designed to remain warm during cold winter months and cool during w
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not describe Kiowa ceramics. They document wooden bows, lodge poles, long lances, bows and arrows, tomahawks, knives, war clubs, rifles, shotguns, revolvers, and cavalry swords. Shields were made from tough bison hide stretched over a wooden frame or from bison skulls. Weapons and shields could be decorated with feathers, furs, and animal parts such as eagle claws for ceremonial purposes.
+The sources document wooden bows, lodge poles, long lances, bows and arrows, tomahawks, knives, war clubs, rifles, shotguns, revolvers, and cavalry swords. Shields were made from tough bison hide stretched over a wooden frame or from bison skulls. Weapons and shields could be decorated with feathers, furs, and animal parts such as eagle claws for ceremonial purposes.
 
-Museum records include a dark-wood bow with a thin sinew cord and two lines of green paint on the shaft. They also record a commercially tanned leather belt decorated with connected pressed chromed-steel medallions bearing engraved and repoussé floral and geometric designs. A woman’s *skärppåse med nålhus* is listed in the Museum of World Culture catalogue, but the sources do not explain its use beyond identifying it as a woman’s belt bag with needle case.
+Museum records include a dark-wood bow with a thin sinew cord and two lines of green paint on the shaft. They also record a commercially tanned leather belt decorated with connected pressed chromed-steel medallions bearing engraved and repoussé floral and geometric designs. A woman’s *skärppåse med nålhus* is listed in the Museum of World Culture catalogue.
 
 ### Jewelry & body adornment
 
-The sources do not document named Kiowa jewelry types, tattoos, or henna traditions. They do record hair and bodily adornment. The ancient Kiowa hairstyle was cut horizontally from the lower outside edge of the eyes to the back of the ears; the corresponding sign for Kiowa in Plains Indian Sign Language refers to this hairstyle. The cut helped prevent hair from becoming tangled while shooting an arrow from a bowstring.
+The sources record hair and bodily adornment. The ancient Kiowa hairstyle was cut horizontally from the lower outside edge of the eyes to the back of the ears; the corresponding sign for Kiowa in Plains Indian Sign Language refers to this hairstyle. The cut helped prevent hair from becoming tangled while shooting an arrow from a bowstring.
 
 Museum photographs show Kiowa chiefs and women wearing ear ornaments, bracelets, rings, pocket watches suspended from chains, peace medals, scarves, cloth ties, and woven shawls. Kiowa horses were decorated with body paint applied by a medicine man for ritual and spiritual purposes, including good fortune and protection during battle.
 
@@ -65,9 +65,9 @@ The Smithsonian Institution made recordings during the 1930s, 1940s, and 1950s. 
 
 ## Dance & theatre
 
-The sources describe dances and ceremonial performance but do not document a Kiowa theatrical tradition. The gourd dance is a major named performance tradition, and the four-day *k'aw-tow* included dancing, ceremonial preparation, ritual body painting, prayers, speeches, eagle-whistle blowing, visions, and feasting. Modern Brush Dance songs and Buffalo Dance songs commemorate the Kiowa Sun Dance, which the source describes as outlawed.
+The sources describe dances and ceremonial performance. The gourd dance is a major named performance tradition, and the four-day *k'aw-tow* included dancing, ceremonial preparation, ritual body painting, prayers, speeches, eagle-whistle blowing, visions, and feasting. Modern Brush Dance songs and Buffalo Dance songs commemorate the Kiowa Sun Dance, which the source describes as outlawed.
 
-During the annual Sun Dance, bands had distinct responsibilities. The Kogui conducted war ceremonies; the Kaigwu guarded the Sacred or Medicine bundle and the holy lance; the Kinep or Khe-ate performed police duties and ensured security; and the Kâtá supplied bison meat and other foods. The Semat participated equally but had no specific duties. The sources do not describe masks, dramatic characters, or staged theatre.
+During the annual Sun Dance, bands had distinct responsibilities. The Kogui conducted war ceremonies; the Kaigwu guarded the Sacred or Medicine bundle and the holy lance; the Kinep or Khe-ate performed police duties and ensured security; and the Kâtá supplied bison meat and other foods. The Semat participated equally but had no specific duties.
 
 ## Festivals & rituals
 
@@ -75,7 +75,7 @@ The Kiowa held a yearly Sun Dance gathering. The Kiowa name given for the Sun Da
 
 The sources also describe funeral practices. Death was associated with dark spirits and negative forces, and spirits were believed to remain around corpses, burial places, former living spaces, and possessions. Families demonstrated grief through wailing, ripping off clothes, shaving the head, and, in some accounts, body lacerations and cutting finger joints. Women and the widowed spouse were expected to express mourning more openly.
 
-Before burial, the body was washed; historically, a woman combed the hair and painted the face. Burial occurred promptly, preferably on the same day, or the following morning if death occurred at night. After burial, most belongings were burned with the tipi. If the tipi or house was shared, surviving relatives moved into a new house. The sources do not provide information about Kiowa birth, marriage, or coming-of-age rites.
+Before burial, the body was washed; historically, a woman combed the hair and painted the face. Burial occurred promptly, preferably on the same day, or the following morning if death occurred at night. After burial, most belongings were burned with the tipi. If the tipi or house was shared, surviving relatives moved into a new house.
 
 ## Foodways
 
@@ -91,13 +91,13 @@ One Kiowa origin story says that the people came into the world through a hollow
 
 Kiowa calendars recorded two events each year, creating twice as many entries for a given period as the systems of other Plains tribes that kept pictorial “winter counts.” Little Bluff, or Tohausan, was identified as the first Kiowa calendar keeper; Settan, or Little Bear, and Ankopaaingyadete, commonly called Anko, were later calendar keepers. Silver Horn, or Haungooah, kept a calendar and was a respected religious leader.
 
-The sources do not describe a Kiowa epic, proverb, riddle tradition, or contemporary literary revival. Kiowa language preservation includes teaching grammars, children’s stories, language classes, and a Kiowa Language Department.
+Kiowa language preservation includes teaching grammars, children’s stories, language classes, and a Kiowa Language Department.
 
 ## Language & religion
 
 Kiowa is a member of the Kiowa-Tanoan, or Tanoan, language family. The language is spoken primarily in Caddo, Kiowa, and Comanche counties, Oklahoma, and the Kiowa tribal center is located in Carnegie. UNESCO classifies Kiowa as severely endangered; the source states that it had 20 mother-tongue speakers and 80 second-language speakers in 2007. As of 2024, the Kiowa Tribe had a Kiowa Language Department.
 
-Kiowa has been written in several Latin-alphabet systems. Parker McKenzie developed one Kiowa alphabet and worked with John P. Harrington and other linguists. The current alphabet uses barred letters including B̶, D̶, G̶, and n̶, although Unicode support has been problematic. The sources describe Kiowa spiritual beliefs concerning dark spirits, ghosts, the afterlife, the Sacred or Medicine bundle, medicine men, ritual horse painting, Sun Dance practices, Peyote songs, and hymns. They do not identify a formal religious denomination or sect.
+Kiowa has been written in several Latin-alphabet systems. Parker McKenzie developed one Kiowa alphabet and worked with John P. Harrington and other linguists. The current alphabet uses barred letters including B̶, D̶, G̶, and n̶, although Unicode support has been problematic. The sources describe Kiowa spiritual beliefs concerning dark spirits, ghosts, the afterlife, the Sacred or Medicine bundle, medicine men, ritual horse painting, Sun Dance practices, Peyote songs, and hymns.
 
 ## Sources & further reading
 

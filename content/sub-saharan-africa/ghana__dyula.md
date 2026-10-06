@@ -60,13 +60,9 @@ Named objects include a carved wooden stool, brass bridles and wooden masks.
 - **Cow-head mask** — The museum records include wooden masks shaped like cow heads.
 - **Human-face mask** — The museum records include wooden masks shaped as human faces with carved or painted decoration.
 
-### Jewelry & body adornment
-
-The sources do not describe Dyula jewelry or other body adornment.
-
 ## Music & performance
 
-The sources mention dance and storytelling but do not name Dyula instruments, songs or musical occasions.
+The sources mention dance and storytelling.
 
 - **Quranic instruction** — Dyula religious scholars taught the Quran and its commentary, hadith and the life of Muhammad.
 - **Karamogo clerical study** (*karamogo*) — A karamogo studied under one sheikh for five to thirty years before possibly becoming an imam or qadi.
@@ -77,7 +73,7 @@ The sources mention dance and storytelling but do not name Dyula instruments, so
 Dance and storytelling are part of Dyula oral tradition, but the sources name no specific dances or theatre forms.
 
 - **Dance and storytelling** — Dyula cultural history and devotion are expressed through oral traditions of dance and storytelling.
-- **Mask traditions** — The records document horned, cow-head and human-face masks, but do not explain how they were used.
+- **Mask traditions** — The records document horned, cow-head and human-face masks.
 
 ## Festivals & rituals
 
@@ -142,4 +138,3 @@ Dyula is a Mande trade language, and Dyula people have been predominantly Muslim
 - Dyula people: https://en.wikipedia.org/wiki/Dyula_people
 - Dyula language: https://en.wikipedia.org/wiki/Dyula_language
 - UNESCO Intangible Cultural Heritage: no relevant inscription was provided in the sources.
-

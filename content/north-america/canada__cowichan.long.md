@@ -23,7 +23,7 @@ The Cowichan — *Quwʼutsun* in Halkomelem — are a group of Coast Salish peop
 
 ### Clothing & dress
 
-The sources document dress chiefly through three photographs. Two nearly identical carte-de-visite albumen prints show a seated studio portrait of a Cowichan woman on Vancouver Island wearing a woven brimmed Haida hat, a Hudson's Bay and Co. blanket over her shoulders, and a cloth shirt and skirt — an assemblage combining an imported trade blanket, a hat made by a neighbouring people, and settler-made cloth garments. A black-and-white postcard printed at Duncan shows three Quamichan men dancing in a clearing as part of a potlatch, dressed in ceremonial costume, with other Quamichan people gathered around watching; the caption does not itemise the costume, so its elements cannot be named from this source. Knitted garments — the Cowichan sweater above all — are the one dress form the sources attribute distinctively to the Cowichan. Beyond these, the sources used do not cover everyday or ceremonial dress, head coverings, belts or footwear.
+The sources document dress chiefly through three photographs. Two nearly identical carte-de-visite albumen prints show a seated studio portrait of a Cowichan woman on Vancouver Island wearing a woven brimmed Haida hat, a Hudson's Bay and Co. blanket over her shoulders, and a cloth shirt and skirt — an assemblage combining an imported trade blanket, a hat made by a neighbouring people, and settler-made cloth garments. A black-and-white postcard printed at Duncan shows three Quamichan men dancing in a clearing as part of a potlatch, dressed in ceremonial costume, with other Quamichan people gathered around watching; the caption does not itemise the costume, so its elements cannot be named from this source. Knitted garments — the Cowichan sweater above all — are the one dress form the sources attribute distinctively to the Cowichan.
 
 ### Architecture
 
@@ -43,7 +43,7 @@ The sound-producing instruments in the collection are two horn rattles, both of 
 
 ## Dance & theatre
 
-Two items touch on dance. The potlatch postcard records three Quamichan men dancing in a clearing in ceremonial costume as part of the potlatch, watched by a gathered crowd — the only dance event described. A wooden comb carries a figure of a *xwe-xwe* mask; the catalogue names the mask type but does not say how or when the mask itself was worn or danced, and the sources used offer no further account of masked or dramatic performance.
+Two items touch on dance. The potlatch postcard records three Quamichan men dancing in a clearing in ceremonial costume as part of the potlatch, watched by a gathered crowd — the only dance event described. A wooden comb carries a figure of a *xwe-xwe* mask; the catalogue names the mask type.
 
 ## Festivals & rituals
 
@@ -51,7 +51,7 @@ The potlatch is the one named ceremonial occasion in the sources, documented in 
 
 ## Foodways
 
-The sources do not name a single Cowichan dish, cooking method or ceremonial food, but they establish that the food economy turned on salmon. Island Halkomelem speakers crossed the Strait of Georgia each summer to camp along the Fraser River for the salmon runs; among the objects shown is a salmon fish-lure of wood, together with a cedar-bark canoe bailer for keeping a working canoe dry and a mountain goat horn spoon for eating or serving. The continuing legal weight of the fishery is recorded in the Cowichan Tribes v. Canada ruling of August 2025, in which the Supreme Court of British Columbia granted the Cowichan Tribes Aboriginal title over a portion of Lulu Island in Richmond, adjacent to the Fraser River, and fishing rights over a portion of the river itself. Beyond salmon fishing and the two utensils, the sources used do not cover staples, preparation or food ritual.
+The sources do not name a single Cowichan dish, cooking method or ceremonial food, but they establish that the food economy turned on salmon. Island Halkomelem speakers crossed the Strait of Georgia each summer to camp along the Fraser River for the salmon runs; among the objects shown is a salmon fish-lure of wood, together with a cedar-bark canoe bailer for keeping a working canoe dry and a mountain goat horn spoon for eating or serving. The continuing legal weight of the fishery is recorded in the Cowichan Tribes v. Canada ruling of August 2025, in which the Supreme Court of British Columbia granted the Cowichan Tribes Aboriginal title over a portion of Lulu Island in Richmond, adjacent to the Fraser River, and fishing rights over a portion of the river itself.
 
 ## Oral tradition & literature
 
@@ -59,7 +59,7 @@ The sources used contain no Cowichan folktales, epics, proverbs or riddles, and 
 
 ## Language & religion
 
-Cowichan speak Halkomelem, a member of the Central Salish branch of the Salishan family; the other branches are Tsamosan, Interior Salish, Bella Coola and Tillamook, and speakers of Central and Tsamosan languages are usually identified in ethnographic literature as Coast Salish. The Island dialect, *Hulʼqumiʼnumʼ*, is also called "Cowichan" and is shared with the Snuneymuxw, Snaw-naw-as, Stzʼuminus, Lake Cowichan, Halalt, Lyackson, Penelakut and Lamalchi; tense, sharply articulated glottalized resonants are a key feature of Island speech. The Cowichan write the language in a cased Latin alphabet with modifier apostrophes and doubled letters for vowel length, using *ou* for the long [u] of French loanwords, *u* for schwa, and including the tetragraph *tthʼ*. The language is near extinction: fewer than twenty-five fluent speakers were estimated in 2000 and 263 reported in 2014, with 21 Head Start programs including a language-nest immersion preschool, and a language program at Cowichan First Nation. The sources used do not describe Cowichan religion, beyond noting that missionary influence helped suppress inter-tribal warfare and slavery in the mid-19th century.
+Cowichan speak Halkomelem, a member of the Central Salish branch of the Salishan family; the other branches are Tsamosan, Interior Salish, Bella Coola and Tillamook, and speakers of Central and Tsamosan languages are usually identified in ethnographic literature as Coast Salish. The Island dialect, *Hulʼqumiʼnumʼ*, is also called "Cowichan" and is shared with the Snuneymuxw, Snaw-naw-as, Stzʼuminus, Lake Cowichan, Halalt, Lyackson, Penelakut and Lamalchi; tense, sharply articulated glottalized resonants are a key feature of Island speech. The Cowichan write the language in a cased Latin alphabet with modifier apostrophes and doubled letters for vowel length, using *ou* for the long [u] of French loanwords, *u* for schwa, and including the tetragraph *tthʼ*. The language is near extinction: fewer than twenty-five fluent speakers were estimated in 2000 and 263 reported in 2014, with 21 Head Start programs including a language-nest immersion preschool, and a language program at Cowichan First Nation.
 
 ## Sources & further reading
 

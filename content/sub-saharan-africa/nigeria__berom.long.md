@@ -27,7 +27,7 @@ The sources name no motif vocabulary for Berom cloth or basketry.
 
 ### Clothing & dress
 
-Everyday and ceremonial dress in the sources divides along lines of sex and occasion. Women's dress is represented by the buttock garment, of vegetable fibre or of grass gathered and tied with string; photographs of Berom women show waist-ornaments with a bunch of leaves at the front. Men's and boys' dress includes penis sheaths of leaves or of plaited grass, the plaited examples specified as ceremonial. Cloth garments in the green-and-maroon Berom colours are worn with the powder *tee* rubbed on the forehead. A photograph of a group of male elders at a meeting shows them in cloths and hats with arm- and leg-ornaments, some carrying sticks; other portraits show an elderly man in a cap and a young man in a fur cap. Head coverings run from the basket-work hat to the *bong* dance hat; dance costume also includes dance skirts and the fly-whisk, *gadus* or *gawat*. The sources do not describe Berom footwear or belts.
+Everyday and ceremonial dress in the sources divides along lines of sex and occasion. Women's dress is represented by the buttock garment, of vegetable fibre or of grass gathered and tied with string; photographs of Berom women show waist-ornaments with a bunch of leaves at the front. Men's and boys' dress includes penis sheaths of leaves or of plaited grass, the plaited examples specified as ceremonial. Cloth garments in the green-and-maroon Berom colours are worn with the powder *tee* rubbed on the forehead. A photograph of a group of male elders at a meeting shows them in cloths and hats with arm- and leg-ornaments, some carrying sticks; other portraits show an elderly man in a cap and a young man in a fur cap. Head coverings run from the basket-work hat to the *bong* dance hat; dance costume also includes dance skirts and the fly-whisk, *gadus* or *gawat*.
 
 ### Architecture
 
@@ -35,7 +35,7 @@ The sources say almost nothing about Berom building. Only one detail appears: a 
 
 ### Ceramics, metalwork & everyday objects
 
-Berom metalwork in the museum record is weaponry and it is composite in construction. **Swords** are forged iron with wooden bosses on hilts wrapped in snake skin, or with leather-wrapped hilts carrying two pairs of horn-like processes, the lower pair turning downward, and a single line of decoration along the blade. Their **sheaths** are rawhide, one ornamented on a single face with four brass discs. A **knife** has a leather-bound hilt and a triangular pommel and sits in a wooden, leather-bound sheath. **Spears** socket an iron head — plain or barbed — into a wooden or cane shaft; one shaft carries pokerwork ornament bound with a metal strip. A **shield** combines hide, wood and animal hair. The sources do not describe Berom pottery.
+Berom metalwork in the museum record is weaponry and it is composite in construction. **Swords** are forged iron with wooden bosses on hilts wrapped in snake skin, or with leather-wrapped hilts carrying two pairs of horn-like processes, the lower pair turning downward, and a single line of decoration along the blade. Their **sheaths** are rawhide, one ornamented on a single face with four brass discs. A **knife** has a leather-bound hilt and a triangular pommel and sits in a wooden, leather-bound sheath. **Spears** socket an iron head — plain or barbed — into a wooden or cane shaft; one shaft carries pokerwork ornament bound with a metal strip. A **shield** combines hide, wood and animal hair.
 
 ### Jewelry & body adornment
 
@@ -47,7 +47,7 @@ The Berom instrumentarium is the best-documented part of their material culture,
 
 ## Dance & theatre
 
-The sources name no individual Berom dances, but they identify dance as the core display of the festival calendar and they inventory what dancers wear and carry. The week of **Nzem Berom** is when cultural displays from across Berom land are exhibited, especially in music, dance, arts and culture. Dance equipment consists of the fibre buttock ornament *shang*, the fly-whisk *gadus* or *gawat*, the dance hat *bong*, and dance skirts; the museum holds vegetable-fibre dance dresses described as buttock ornaments for ceremonial dances, and plaited grass penis sheaths likewise marked ceremonial. The conical drum *rwey biŋ* is restricted to royal use, which separates court performance from village celebration. No dramatic or masked theatre tradition is described in the sources used here.
+The sources name no individual Berom dances, but they identify dance as the core display of the festival calendar and they inventory what dancers wear and carry. The week of **Nzem Berom** is when cultural displays from across Berom land are exhibited, especially in music, dance, arts and culture. Dance equipment consists of the fibre buttock ornament *shang*, the fly-whisk *gadus* or *gawat*, the dance hat *bong*, and dance skirts; the museum holds vegetable-fibre dance dresses described as buttock ornaments for ceremonial dances, and plaited grass penis sheaths likewise marked ceremonial. The conical drum *rwey biŋ* is restricted to royal use, which separates court performance from village celebration.
 
 ## Festivals & rituals
 
@@ -55,7 +55,7 @@ Berom festivals are organised around agriculture and hunting, the two activities
 
 **Mandyeng** ushers in the rainy season and was, with the closely similar **Nshok**, regarded as the festival that secured a good farming and hunting season. Not every Berom community holds them: those that perform Mandyeng claim roots at Riyom, among them Vwang, Kuru, Za'ang, Gyel, Rim, Bachit, Bangai, Lwa, Sop, Jol, Wereng Kwi, Gwo, Kakuruk, Kuzeng, Kurak, Kuchin, Rahos and Tahoss. Nshok differs in tying hunting to rainy-season farming and falls in April/May.
 
-As Christianity and western education reshaped Berom life, the older ceremonies — Mandyeng, Nshok, Worom Chun, Vwana — were gathered into a single umbrella festival, **Nzem Berom**, first celebrated in 1980 or 1981 and held in the first week of April to coincide with the older Mandyeng, Nshok and Badu season. A Christian festival, **Wusal Berom**, was first celebrated in November 1992. The sources do not describe Berom birth, marriage or funeral rites.
+As Christianity and western education reshaped Berom life, the older ceremonies — Mandyeng, Nshok, Worom Chun, Vwana — were gathered into a single umbrella festival, **Nzem Berom**, first celebrated in 1980 or 1981 and held in the first week of April to coincide with the older Mandyeng, Nshok and Badu season. A Christian festival, **Wusal Berom**, was first celebrated in November 1992.
 
 ## Foodways
 

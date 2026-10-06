@@ -23,14 +23,6 @@ The Kinga live in Tanzania’s Kipengere Range. They farm millet, beans, bananas
 
 Kinga material culture includes thorn-hedged homesteads, iron tools and weapons, and grass, bamboo and wood objects.
 
-### Textile & pattern traditions
-
-The sources do not document Kinga textile traditions or pattern words.
-
-### Clothing & dress
-
-The sources do not document Kinga clothing or other dress.
-
 ### Architecture
 
 Kinga homesteads had cylindrical and conical huts around shared public spaces.
@@ -50,18 +42,6 @@ Kinga smiths made demanding iron tools and weapons, while basket makers produced
 - **Iron axe** — A museum catalogue records an iron axe with a wooden handle.
 - **Beer basket** — Grass-plaited baskets were used for beer, including close-weave, openwork and natural-colour forms.
 
-### Jewelry & body adornment
-
-The sources do not document Kinga jewelry or body adornment.
-
-## Music & performance
-
-The sources do not document Kinga music or musical performance.
-
-## Dance & theatre
-
-The sources do not document Kinga dance or theatre.
-
 ## Festivals & rituals
 
 Kinga religious life in the sources centers on priests, sacred water and yearly pilgrimages to Lwenbe’s shrine.
@@ -79,10 +59,6 @@ Kinga farming and bamboo beer are central foodways described in the sources.
 - **Bamboo beer** — The Kinga cultivate bamboo for a strong and pleasing beer.
 - **Bananas** — The Kinga cultivate bananas.
 - **Potatoes** — The Kinga cultivate potatoes.
-
-## Oral tradition & literature
-
-The sources do not document Kinga oral literature or storytelling.
 
 ## Language & religion
 
@@ -116,5 +92,3 @@ Kinga is a Bantu language used mainly at home, and Kinga religious accounts incl
 - Schadeberg, Thilo C., “Die Sippen-Tabus der Kinga.”
 - Wikipedia, “Kinga people”: https://en.wikipedia.org/wiki/Kinga_people
 - Wikipedia, “Kinga language”: https://en.wikipedia.org/wiki/Kinga_language
-- The sources used identify no UNESCO Intangible Cultural Heritage inscription for this group.
-

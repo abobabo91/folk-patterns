@@ -23,14 +23,6 @@ The Rizeigat are a Muslim Arab tribe in Darfur and Chad. They are part of the Ba
 
 The profile records temporary settlements and several baskets, leather-covered objects, and wedding-house equipment, but gives little wider material detail.
 
-### Textile & pattern traditions
-
-The sources do not document Rizeigat textiles or pattern traditions.
-
-### Clothing & dress
-
-The sources do not document Rizeigat clothing or named garments.
-
 ### Architecture
 
 Northern Rizeigat use temporary settlements called Damra rather than a tribal homeland called Dar in Darfur.
@@ -47,33 +39,13 @@ The museum records baskets and leather-covered objects linked to the profile’s
 - **Leather-covered glass bottle** — The catalogue records a glass bottle covered with leather.
 - **Decorated basket-and-lid set** — One basket-and-lid set has leather tassels on each side and red triangular leather decoration around the rim.
 
-### Jewelry & body adornment
-
-The sources do not document Rizeigat jewelry or body adornment.
-
-## Music & performance
-
-The sources do not document Rizeigat music, instruments, songs, or performance traditions.
-
-## Dance & theatre
-
-The sources do not document Rizeigat dances, theatre, or dramatic traditions.
-
 ## Festivals & rituals
-
-The sources do not describe Rizeigat festivals or life-cycle rituals in detail.
 
 - **Wedding-house equipment** — A museum record identifies a basket as marriage equipment for a wedding house, but gives no further details about marriage practices.
 
-## Foodways
-
-The sources do not document Rizeigat foods, cooking, meals, or diet.
-
 ## Oral tradition & literature
 
-The sources do not document Rizeigat oral traditions or literature.
-
-- **Historical political and military accounts** — The sources mention Madibbo Ali, Slatin Pasha, Musa Hilal, and Mohamed Hamdan Dagalo, but do not describe these accounts as Rizeigat oral traditions or literature.
+- **Historical political and military accounts** — The sources mention Madibbo Ali, Slatin Pasha, Musa Hilal, and Mohamed Hamdan Dagalo.
 
 ## Language & religion
 
@@ -105,5 +77,3 @@ The Rizeigat are Muslim Arabs who speak Sudanese and Chadian Arabic.
 - Wikipedia, [“Rizeigat tribe”](https://en.wikipedia.org/wiki/Rizeigat_tribe).
 - British Museum catalogue records supplied for this profile: basket with lid for a wedding house; basket and lid; glass bottle with leather; basket with lid; and basket and lid with leather tassels and red triangular leather decoration.
 - No UNESCO Intangible Cultural Heritage inscription for Sudan was supplied among the sources used.
-- The sources used do not provide books, named scholars, documentation projects, or additional museum collection URLs.
-

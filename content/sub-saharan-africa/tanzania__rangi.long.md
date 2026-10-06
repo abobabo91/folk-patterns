@@ -11,49 +11,29 @@ The Rangi, also called *Valangi* in their own language and *Warangi* in Swahili,
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Rangi textile or pattern traditions.
-
-### Clothing & dress
-
-The sources used do not document everyday or ceremonial clothing, head coverings, belts, footwear, or other forms of Rangi dress.
-
 ### Architecture
 
-The sources used do not describe Rangi house forms, roofs, decoration, or named building types. The source list includes “Notes on Irangi Houses” by R.F. Gray, but provides no architectural details from that work.
+The source list includes “Notes on Irangi Houses” by R.F. Gray, but provides no architectural details from that work.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum catalogue records several objects associated with the Rangi. These include wooden spears with iron points, arrows made of wood and iron, poisoned arrows made of wood, sinew, and feathers, a poisoned arrow with a wooden point and feathers, and a bill-hook made of iron with a wooden handle. The catalogue also records a milking pail with a handle carved from one piece of wood, and a bugle made from a horn. The sources do not describe ceramics or the cultural uses of these objects.
-
-### Jewelry & body adornment
-
-The sources used do not document Rangi jewelry, body adornment, tattoos, henna, hair practices, or ritual ornaments.
+The museum catalogue records several objects associated with the Rangi. These include wooden spears with iron points, arrows made of wood and iron, poisoned arrows made of wood, sinew, and feathers, a poisoned arrow with a wooden point and feathers, and a bill-hook made of iron with a wooden handle. The catalogue also records a milking pail with a handle carved from one piece of wood, and a bugle made from a horn.
 
 ## Music & performance
 
-The sources used do not document Rangi musical genres, named instruments, songs, or performance contexts. The museum catalogue records a bugle made from a horn, but gives no information about its musical use or significance.
-
-## Dance & theatre
-
-The sources used do not document Rangi dances, theatre, dramatic traditions, mask performances, or other forms of staged entertainment.
+The museum catalogue records a bugle made from a horn, but gives no information about its musical use or significance.
 
 ## Festivals & rituals
 
-The sources mention a Rangi circumcision ceremony titled “Blessing a New Grove” and a Wasi/Rangi ceremony titled “Blessing the Year,” but provide no descriptions of their proceedings, dates, seasons, participants, or ritual meanings. The sources do not document an annual festival calendar, weddings, funerals, birth rites, or other life-cycle ceremonies.
-
-## Foodways
-
-The sources used do not document Rangi staple foods, cooking methods, named dishes, ceremonial foods, beverages, or dietary rules.
+The sources mention a Rangi circumcision ceremony titled “Blessing a New Grove” and a Wasi/Rangi ceremony titled “Blessing the Year,” but provide no descriptions of their proceedings, dates, seasons, participants, or ritual meanings.
 
 ## Oral tradition & literature
 
-The sources used do not document Rangi folktales, epics, proverbs, riddles, storytelling practices, or literary preservation efforts. The references include studies of Rangi culture, progress, natural history, social processes, and ecology, but the supplied material does not summarize their oral-literary content.
+The references include studies of Rangi culture, progress, natural history, social processes, and ecology, but the supplied material does not summarize their oral-literary content.
 
 ## Language & religion
 
-Rangi or Langi is a Bantu language spoken by the Rangi people of Kondoa District in the Dodoma Region of central Tanzania. Its native name is *Kɨlaangi*, while *Kirangi* is the dominant Swahili form and *Kilaangi* is used as a self-referent term. Estimates of the number of Rangi-speakers range from 270,000 to 410,000. Two main varieties are identified: the Rangi Highlands variety, known in Swahili as *Irangi ya Juu*, and the Lowlands variety, *Irangi ya Chini*. They are mutually intelligible. Rangi has 19 noun classes and is written in the Latin alphabet with the letters ɨ and ʉ, alongside ch, ng', ny, and sh. The sources used do not document Rangi religious beliefs or practices.
+Rangi or Langi is a Bantu language spoken by the Rangi people of Kondoa District in the Dodoma Region of central Tanzania. Its native name is *Kɨlaangi*, while *Kirangi* is the dominant Swahili form and *Kilaangi* is used as a self-referent term. Estimates of the number of Rangi-speakers range from 270,000 to 410,000. Two main varieties are identified: the Rangi Highlands variety, known in Swahili as *Irangi ya Juu*, and the Lowlands variety, *Irangi ya Chini*. They are mutually intelligible. Rangi has 19 noun classes and is written in the Latin alphabet with the letters ɨ and ʉ, alongside ch, ng', ny, and sh.
 
 ## Sources & further reading
 

@@ -68,14 +68,6 @@ Bead making is embedded in the Chumash people's own name, with shell beads servi
 - **Ear-rings** — Ear-rings alternate shell discs with blue-green glass beads.
 - **Abalone ornaments and fishhooks** — Red abalone shell was used for beads and ornaments as well as fishhooks.
 
-## Music & performance
-
-The available sources do not describe Chumash instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The available sources do not describe Chumash dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Chumash cosmology centers on a multilayered universe where all things are alive, intelligent, dangerous and sacred, with shamans and astronomers tracking celestial movements.
@@ -145,4 +137,3 @@ Six Chumashan languages are attested, known for consonant and low-vowel harmony,
 - https://en.wikipedia.org/wiki/Chumash_cuisine
 - https://folkways.si.edu/search?query=Chumash
 - https://www.britishmuseum.org/collection
-

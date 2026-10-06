@@ -27,39 +27,39 @@ The Choctaw, whose autonym is *Chahta*, are Indigenous people of the Southeaster
 
 ### Clothing & dress
 
-Choctaw dresses are handmade and based on ancestral designs that adapted nineteenth-century European-American styles to local needs. They are often decorated with full-diamond, half-diamond, circular, and cross motifs representing stickball sticks. Traditional clothing is now most commonly worn for special occasions, although many Choctaw elders, particularly women, continue to wear traditional garments in daily life. The museum records include a studio portrait of a Choctaw woman wearing a cloth shirt and skirt. The sources do not document specific Choctaw vernacular names for garments, head coverings, belts, footwear, or ceremonial dress beyond these descriptions.
+Choctaw dresses are handmade and based on ancestral designs that adapted nineteenth-century European-American styles to local needs. They are often decorated with full-diamond, half-diamond, circular, and cross motifs representing stickball sticks. Traditional clothing is now most commonly worn for special occasions, although many Choctaw elders, particularly women, continue to wear traditional garments in daily life. The museum records include a studio portrait of a Choctaw woman wearing a cloth shirt and skirt.
 
 ### Architecture
 
-Both the Chickasaw and the Choctaw traditionally constructed three types of buildings for each family. The summer house was built in an oblong-square form, as was the corn house. The winter house was circular and commonly known as the “hot house.” The sources do not provide further information about roofing, wall materials, architectural decoration, workshops, or urban forms.
+Both the Chickasaw and the Choctaw traditionally constructed three types of buildings for each family. The summer house was built in an oblong-square form, as was the corn house. The winter house was circular and commonly known as the “hot house.”
 
 ### Ceramics, metalwork & everyday objects
 
-The sources identify pottery as a continuing Choctaw tradition but do not name particular ceramic forms, clay types, vessels, firing methods, or decorative techniques. They document basketry, including a river-cane carrying-basket with a square base, circular top, circular handle, and diagonal weave. Traditional arts also include textiles made from bison fur and plant fibers, beadwork, and cooking. The sources do not cover Choctaw metalwork, named wooden tools, or other specifically named household objects.
+The sources identify pottery as a continuing Choctaw tradition. They document basketry, including a river-cane carrying-basket with a square base, circular top, circular handle, and diagonal weave. Traditional arts also include textiles made from bison fur and plant fibers, beadwork, and cooking.
 
 ### Jewelry & body adornment
 
-The sources discuss Choctaw beadwork and beaded sashes but do not document named jewelry types, body ornaments, tattoos, henna, hair practices, or ritual functions for adornment.
+The sources discuss Choctaw beadwork and beaded sashes.
 
 ## Music & performance
 
-Choctaw culture includes rich traditions of song and music. The sources do not name specific instruments or song genres. Choctaw prophets were described as addressing the sun in ritual contexts, and song is associated with prayer and pilgrimage at Nanih Waiya, the “Mother Mound.” Choctaw community events include dancing, entertainment, traditional cooking, and stickball.
+Choctaw culture includes rich traditions of song and music. Choctaw prophets were described as addressing the sun in ritual contexts, and song is associated with prayer and pilgrimage at Nanih Waiya, the “Mother Mound.” Choctaw community events include dancing, entertainment, traditional cooking, and stickball.
 
 The mid-summer Choctaw Indian Fair, hosted by the Mississippi Band of Choctaw Indians, brings together Choctaw people from around the world. The fair features hospitality, traditional cooking, entertainment, dancing, and stickball. The sources also mention the Choctaw Indian Fair near Philadelphia, Mississippi, and the Choctaw Labor Day festival in Tuskahoma, Oklahoma, where stickball can be played on a modern-day football field. No source supplied here documents named musical ensembles, instruments, performance scales, or song forms.
 
 ## Dance & theatre
 
-Dance is part of Choctaw culture and appears in community events, including the mid-summer Choctaw Indian Fair. Nanih Waiya remains a place of female pilgrimage for prayer, song, and dance. In the accounts of Choctaw warfare, women danced with war trophies until tired, after which the trophies were exposed on the tops of hot houses. The sources do not document named dances, theatrical traditions, masks, puppetry, or a distinction between ceremonial and entertainment dance beyond these contexts.
+Dance is part of Choctaw culture and appears in community events, including the mid-summer Choctaw Indian Fair. Nanih Waiya remains a place of female pilgrimage for prayer, song, and dance. In the accounts of Choctaw warfare, women danced with war trophies until tired, after which the trophies were exposed on the tops of hot houses.
 
 ## Festivals & rituals
 
 The mid-summer Choctaw Indian Fair is hosted by the Mississippi Band of Choctaw Indians. It brings together Choctaw people from around the world and includes hospitality, traditional cooking, entertainment, dancing, and stickball. The Choctaw Indian Fair near Philadelphia, Mississippi, and the Choctaw Labor Day festival in Tuskahoma, Oklahoma, are also associated with stickball.
 
-Nanih Waiya, a sacred mound known as the “Mother Mound,” remains a place of female pilgrimage for prayer, song, and dance. Choctaw diplomats traditionally spoke only on sunny days because the sun was regarded as ensuring honesty in diplomacy; cloudy or rainy meetings were postponed until the sun returned. The sources do not describe birth, coming-of-age, wedding, or funeral rites, nor do they provide a complete annual ritual calendar.
+Nanih Waiya, a sacred mound known as the “Mother Mound,” remains a place of female pilgrimage for prayer, song, and dance. Choctaw diplomats traditionally spoke only on sunny days because the sun was regarded as ensuring honesty in diplomacy; cloudy or rainy meetings were postponed until the sun returned.
 
 ## Foodways
 
-Early Choctaw communities practiced communal labor and shared their harvests. Choctaw culture includes traditional cooking, and the Choctaws are described as cuisine specialists. The sources do not name staple grains, signature dishes, cooking vessels, tea or coffee traditions, dietary rules, or ceremonial foods. One ethnobotanical record states that *Pseudognaphalium obtusifolium* ssp. *obtusifolium* was made into a decoction of leaves and blossoms and taken for lung pain and colds.
+Early Choctaw communities practiced communal labor and shared their harvests. Choctaw culture includes traditional cooking, and the Choctaws are described as cuisine specialists. One ethnobotanical record states that *Pseudognaphalium obtusifolium* ssp. *obtusifolium* was made into a decoction of leaves and blossoms and taken for lung pain and colds.
 
 ## Oral tradition & literature
 

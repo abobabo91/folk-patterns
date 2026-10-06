@@ -27,41 +27,25 @@ The Songhai people, who collectively identify themselves as *Ayneha*, are an eth
 
 **Motif vocabulary.** Coloured bands, transverse weft-faced arrangement, lozenge-shaped motifs, supplementary weft work, tassels.
 
-### Clothing & dress
-
-The sources used do not cover Songhai everyday or ceremonial clothing, men's or women's dress, head coverings, belts, footwear, or other dress practices.
-
-### Architecture
-
-The sources used do not cover Songhai house forms, compounds, roofs, building materials, mud plasterwork, or architectural decoration.
-
 ### Ceramics, metalwork & everyday objects
 
-The museum records identify several Songhai basketry objects from Timbuktu at the Niger, including *Korgbricka* basket trays and a *Korgskål* basket bowl. The trays were used as lids for earthenware vessels. The bowl was made of plant parts and measured 24 cm in diameter. One tray record gives a diameter of 17,5 cm and describes it as a straw tray used as a lid for cooking vessels. The catalogue also records two photographs of Songhai women in Bamako and the French Sudan, dated 1953 and 1958-01. The sources do not describe Songhai metalwork or wooden tools.
-
-### Jewelry & body adornment
-
-The sources used do not cover Songhai jewelry, body adornment, tattoos, henna, hair practices, or ritual ornament.
+The museum records identify several Songhai basketry objects from Timbuktu at the Niger, including *Korgbricka* basket trays and a *Korgskål* basket bowl. The trays were used as lids for earthenware vessels. The bowl was made of plant parts and measured 24 cm in diameter. One tray record gives a diameter of 17,5 cm and describes it as a straw tray used as a lid for cooking vessels. The catalogue also records two photographs of Songhai women in Bamako and the French Sudan, dated 1953 and 1958-01.
 
 ## Music & performance
 
-The sources used do not describe Songhai musical instruments, song genres, musical performances, or performance contexts. The Wikipedia material states that the servile strata of Songhai-Zarma society included artists, musicians and griots, but it does not identify instruments or repertories.
-
-## Dance & theatre
-
-The sources used do not cover Songhai dances, dramatic traditions, theatre, masks, or ceremonial and entertainment performances.
+The Wikipedia material states that the servile strata of Songhai-Zarma society included artists, musicians and griots.
 
 ## Festivals & rituals
 
-The sources used do not describe an annual Songhai festival calendar or named festivals. They state that the Songhai are predominantly adherents of Islam and describe the conversion of Za Kusoy, the 15th ruler of the Zuwa dynasty, to Islam in 1009–1010 A.D. The social-stratification account describes Islamic clerics, guardian spirits associated with castes, polygynous marriages and preferred cross-cousin partners. The sources do not otherwise cover birth, coming-of-age, wedding or funeral rites.
+The sources state that the Songhai are predominantly adherents of Islam and describe the conversion of Za Kusoy, the 15th ruler of the Zuwa dynasty, to Islam in 1009–1010 A.D. The social-stratification account describes Islamic clerics, guardian spirits associated with castes, polygynous marriages and preferred cross-cousin partners.
 
 ## Foodways
 
-Songhai populations cultivate cereals, raise small herds of cattle and fish in the Niger Bend area. Agriculture is adapted to arid and semi-arid conditions, with a three-month rainy season and a dry period of eight to nine months. Historical descriptions of Gao mention rice, milk, chickens, fish and cucumber. The sources also state that Songhai people were fishermen and traders and were associated with caravan trade. Historical accounts describe buying and selling with cowries. The Songhai are predominantly Muslim, but the sources do not specify dietary rules, named dishes, cooking methods, tea or coffee practices, or ceremonial foods.
+Songhai populations cultivate cereals, raise small herds of cattle and fish in the Niger Bend area. Agriculture is adapted to arid and semi-arid conditions, with a three-month rainy season and a dry period of eight to nine months. Historical descriptions of Gao mention rice, milk, chickens, fish and cucumber. The sources also state that Songhai people were fishermen and traders and were associated with caravan trade. Historical accounts describe buying and selling with cowries. The Songhai are predominantly Muslim.
 
 ## Oral tradition & literature
 
-The early history of the Songhai is partly preserved through oral tradition. Al-Sadi’s *Tarikh al-Sudan* reports traditions concerning the Za dynasty and its legendary founder, Za Alayaman, also called Dialliaman. The *Tarikh al-Sudan* and the *Tarikh al-fattash* provide information on Gao and the Songhai Empire, although their earlier accounts are described as less reliable and sometimes conflicting. A few precolonial poems and letters composed in Songhay and written in the Arabic script exist in Timbuktu. The sources do not identify a named Songhai epic, folktale cycle, proverb tradition or contemporary literary preservation project.
+The early history of the Songhai is partly preserved through oral tradition. Al-Sadi’s *Tarikh al-Sudan* reports traditions concerning the Za dynasty and its legendary founder, Za Alayaman, also called Dialliaman. The *Tarikh al-Sudan* and the *Tarikh al-fattash* provide information on Gao and the Songhai Empire, although their earlier accounts are described as less reliable and sometimes conflicting. A few precolonial poems and letters composed in Songhay and written in the Arabic script exist in Timbuktu.
 
 ## Language & religion
 
@@ -69,8 +53,6 @@ Songhay, Songhai or Ayneha languages form a group of closely related languages a
 
 ## Sources & further reading
 
-- The sources used do not provide book references with authors, titles, publishers and years.
-- The sources used do not identify a separate documentation project or named music scholar.
 - [Songhai people](https://en.wikipedia.org/wiki/Songhai_people)
 - [Songhai language](https://en.wikipedia.org/wiki/Songhai_language)
 - No UNESCO Intangible Cultural Heritage inscription is supplied for this group or country.

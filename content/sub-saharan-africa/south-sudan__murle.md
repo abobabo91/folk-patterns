@@ -23,20 +23,12 @@ The Murle live mainly in Greater Pibor Administrative Area in South Sudan and in
 
 The documented material culture includes hide ornaments, cowrie-shell belts, wooden weapons, tobacco pouches, and lower-lip ornaments.
 
-### Textile & pattern traditions
-
-The supplied sources do not document named Murle textile or pattern traditions.
-
 ### Clothing & dress
 
-The sources record a woman’s hide apron ornament and a hide belt with cowrie shells, but do not describe general Murle dress.
+The sources record a woman’s hide apron ornament and a hide belt with cowrie shells.
 
 - **Seed and shell apron ornament** — A woman’s hide apron ornament is decorated with short strings of black seeds, brown berries, and small white shells.
 - **Cowrie-shell waist belt** — A waist belt is made from a strip of hide with white cowrie shells sewn on one side.
-
-### Architecture
-
-The supplied sources do not describe Murle houses, shelters, building materials, or settlement plans.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -60,10 +52,6 @@ Murle songs preserve creation stories and memories of Jen, the ancestors, cattle
 
 - **Jen creation song** — One song recalls the creation of Murle humanity at Jen.
 - **Murimaan origin song** — Another song connects the first union between spirit and woman with the birth of Murimaan.
-
-## Dance & theatre
-
-The supplied sources do not describe named Murle dances, theatre, masks, or entertainment genres.
 
 ## Festivals & rituals
 
@@ -125,4 +113,3 @@ Murle is a Surmic language with complex noun number marking, distinctive vowel l
 - [Murle people — Wikipedia](https://en.wikipedia.org/wiki/Murle_people)
 - [Murle language — Wikipedia](https://en.wikipedia.org/wiki/Murle_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is listed in the supplied sources.
-

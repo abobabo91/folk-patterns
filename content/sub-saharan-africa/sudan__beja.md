@@ -74,10 +74,6 @@ The sources describe only the religious frame for rituals: the Beja were Christi
 
 - **Jebel Uweinat** — A sacred place revered by the Qamhat Bisharin, the group now largely resident in the Kharga Oasis.
 
-## Foodways
-
-The sources do not cover Beja foodways, cooking methods, staple foods or ceremonial food practices.
-
 ## Oral tradition & literature
 
 Beja has an extensive oral tradition with multiple poetic genres, where poetry and formal speech are load-bearing in claims over land.
@@ -118,4 +114,3 @@ Beja is the sole member of the Northern Cushitic branch of Afroasiatic, with aro
 - https://en.wikipedia.org/wiki/Beja_language
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Sudan
 - British Museum online collection (the daggers, shields, pack-saddles, leather cushion-cover, plaited ornaments and photographic prints shown here): https://www.britishmuseum.org/collection
-

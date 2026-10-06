@@ -54,7 +54,7 @@ Mende villages usually contain 70 to 250 people and have circular or single-stor
 
 ### Ceramics, metalwork & everyday objects
 
-Mende objects include wooden tools, weapons, weaving equipment, game boards, vessels, and ritual items, but the sources do not document ceramics.
+Mende objects include wooden tools, weapons, weaving equipment, game boards, vessels, and ritual items.
 
 - **Leopard society axe** — This wooden axe has a flat metal blade and curved spikes.
 - **Iron spear** — The spear has a central geometric design.
@@ -157,6 +157,4 @@ Mende is a tonal Mande language, while Sande and Poro organize spiritual, moral,
 - M. Mary Senior, “Some Mεnde Proverbs” (1947).
 - [Mende people](https://en.wikipedia.org/wiki/Mende_people)
 - [Mende language](https://en.wikipedia.org/wiki/Mende_language)
-- UNESCO Intangible Cultural Heritage: the sources used contain no UNESCO inscriptions for Sierra Leone.
 - British Museum catalogue records for the objects described in the source material.
-

@@ -55,18 +55,6 @@ The blowpipe and forest knives are central recorded Penan tools.
 - **Parang** — A parang is made from metal, wood, rattan and gum.
 - **Knife with bone handle** — One recorded knife has a metal blade set into a long bone handle.
 
-### Jewelry & body adornment
-
-The supplied sources do not describe Penan jewelry or personal body adornment.
-
-## Music & performance
-
-The supplied sources do not describe Penan music or musical performance.
-
-## Dance & theatre
-
-The supplied sources do not describe Penan dance or theatre.
-
 ## Festivals & rituals
 
 The sources describe sacred plants and animals, destroyed burial sites and major religious change.
@@ -121,10 +109,8 @@ Penan is a Kenyah-related language, while Penan religious life includes animism,
 
 ## Sources & further reading
 
-- The supplied sources do not provide books with author, publisher and year.
 - The supplied sources mention Bruno Manser and the Bruno Manser Fonds, a non-profit organisation dedicated to the plight of the Penan.
 - [Penan people](https://en.wikipedia.org/wiki/Penan_people)
 - [Penan language](https://en.wikipedia.org/wiki/Penan_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
 - The supplied museum records are from the British Museum and the Museum of World Culture; the sources do not provide collection URLs.
-

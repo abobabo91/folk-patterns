@@ -82,7 +82,7 @@ Lakota music centers on the human voice with drumming, repeated phrases, vocable
 
 ## Dance & theatre
 
-The sources describe the Ghost Dance and ritual dances but do not name theatrical forms or detailed secular dances.
+The sources describe the Ghost Dance and ritual dances.
 
 - **Ghost Dance** — The Ghost Dance spread across reservations in 1890 and promised the return of the old world and the disappearance of white settlers.
 - **Sun dance** — The sun dance is an important Lakota ritual tradition.
@@ -149,7 +149,6 @@ Lakȟótiyapi is a Siouan language, while Lakota religion centers on sacred powe
 
 ## Sources & further reading
 
-- The supplied sources do not provide book-length bibliographic references with authors, publishers, and years.
 - The supplied sources name Ella Cara Deloria, Franz Boas, Edward Sapir, Albert White Hat Sr., and David C. Posthumus in connection with Lakota language, documentation, and religion.
 - [Lakota people](https://en.wikipedia.org/wiki/Lakota_people)
 - [Lakota mythology](https://en.wikipedia.org/wiki/Lakota_mythology)
@@ -158,4 +157,3 @@ Lakȟótiyapi is a Siouan language, while Lakota religion centers on sacred powe
 - [Lakota religion](https://en.wikipedia.org/wiki/Lakota_religion)
 - UNESCO Intangible Cultural Heritage: the supplied sources state that there are no United States inscriptions concerning this ethnic group.
 - The supplied museum records do not provide collection URLs.
-

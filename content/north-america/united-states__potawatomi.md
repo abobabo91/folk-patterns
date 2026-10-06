@@ -37,10 +37,6 @@ Museum records show Potawatomi people in both traditional-looking clothing and E
 - **Formal suit** (*Wa-wa-suk*) — The Flash Of A Sturgeon In Turning wears a three-piece suit and neck tie.
 - **Hiawatha play clothing** — A man dressed for a Hiawatha play wears a porcupine hair roach, eagle feather, shell gorget, fringed shirt, beaded bandolier bag, quill-work armbands, beaded ling covering, and fringed trousers.
 
-### Architecture
-
-The sources do not describe Potawatomi buildings, houses, settlements, or building methods.
-
 ### Ceramics, metalwork & everyday objects
 
 The profile names a few museum objects but gives little detail about their everyday use.
@@ -59,13 +55,9 @@ Museum records show shell, bead, feather, hair, and quill-work adornment.
 - **Porcupine hair roach** — A man wears a porcupine hair roach with an eagle feather.
 - **Quill-work armbands** — A man wears armbands decorated with quill-work.
 
-## Music & performance
-
-The sources do not describe Potawatomi music, songs, instruments, or musical settings.
-
 ## Dance & theatre
 
-The sources show Potawatomi people dressed for a Hiawatha play but do not describe a theatre tradition or performance sequence.
+The sources show Potawatomi people dressed for a Hiawatha play.
 
 - **Hiawatha play** — Two studio portraits show a Potawatomi man and woman dressed for a Hiawatha play.
 
@@ -128,4 +120,3 @@ Potawatomi is a declining Central Algonquian language, and its traditional relig
 - Metropolitan Museum of Art catalogue records for “Staff” and “Prescription Stick”
 - British Museum catalogue records for photographic prints and postcards depicting Potawatomi people
 - No UNESCO Intangible Cultural Heritage inscription is listed in the supplied sources for the United States.
-

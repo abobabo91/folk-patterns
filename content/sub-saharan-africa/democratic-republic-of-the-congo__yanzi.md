@@ -41,8 +41,6 @@ The sources give only a few examples of dress and mourning adornment.
 
 ### Architecture
 
-The sources do not describe Yanzi buildings or house forms.
-
 - **Elders' upstream district** — Village organization included an upstream district for elders.
 - **Young families' downstream district** — Village organization included a downstream district for young families.
 
@@ -75,10 +73,6 @@ Music and signalling used horns, pan-pipes, whistles and rowing songs.
 - **Hunting whistle** — A hunting whistle was made of wood, snake skin and vegetable-fibre string.
 - **Canoe rowing song** — Rowers paddled to a monotonous song led by a team leader standing at the back of the canoe.
 
-## Dance & theatre
-
-The sources do not document named Yanzi dances or theatre traditions.
-
 ## Festivals & rituals
 
 The sources do not describe a festival calendar or detailed rites, but they connect a horn and mourning ornament with ritual occasions.
@@ -90,9 +84,7 @@ The sources do not describe a festival calendar or detailed rites, but they conn
 
 ## Foodways
 
-The sources do not document Yanzi foods, cooking methods or named dishes.
-
-- **Palm-oil plantations** — Historical material mentions palm-oil plantations and forced labour, but does not describe foodways.
+- **Palm-oil plantations** — Historical material mentions palm-oil plantations and forced labour.
 - **Gourd purse** — A gourd purse was recorded, but its culinary use was not identified.
 
 ## Oral tradition & literature
@@ -135,9 +127,7 @@ Yanzi is a Bantu language with several recorded varieties, while the sources giv
 
 ## Sources & further reading
 
-- The sources used do not provide bibliographic details for books, scholars or documentation projects.
 - [Wikipedia: Yanzi people](https://en.wikipedia.org/wiki/Yanzi_people)
 - [Wikipedia: Yanzi language](https://en.wikipedia.org/wiki/Yanzi_language)
-- The supplied museum catalogue records identify the British Museum and Museum of World Culture, but do not provide collection URLs.
+- The supplied museum catalogue records identify the British Museum and Museum of World Culture.
 - No UNESCO Intangible Cultural Heritage inscription for the Democratic Republic of the Congo was supplied or referenced.
-

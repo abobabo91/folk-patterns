@@ -83,7 +83,7 @@ The sources name few musical traditions but record instruments, bells, horns, fl
 
 ## Dance & theatre
 
-Turkana dance is documented through photographs and objects, but the sources do not describe its movements or theatre traditions.
+Turkana dance is documented through photographs and objects.
 
 - **Turkana dance** (*Turkana-ngoma*) — A 1922 catalogue identifies a photograph of Turkana dance as Turkana-ngoma.
 - **Dance whisk** — A dance whisk is worn tightly around the forearm between the wrist and elbow.
@@ -158,4 +158,3 @@ Turkana is an Eastern Nilotic language, and traditional religion centres on Akuj
 - [Turkana people](https://en.wikipedia.org/wiki/Turkana_people)
 - [Turkana language](https://en.wikipedia.org/wiki/Turkana_language)
 - British Museum, Museum of World Culture and Museum of Ethnography catalogue records cited in the object list supplied with this atlas.
-

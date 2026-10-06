@@ -47,7 +47,7 @@ Ibibio instruments in the collections are percussion, idiophones and horns. A co
 
 ## Dance & theatre
 
-Masking is the Ibibio performance tradition the sources document. *Ekpo* masks were used to elicit fear and execute social control; to put on one is to surrender earthly identity and assume an ancestral one, and masks may be those owned by deceased ancestors, made to resemble ancestors, or made to resemble village heroes. Many are carved from a lightweight wood called *ukot*, the palm wine tree, which makes them easier to wear and move in; a horizontal wooden bar may be inserted for the wearer to bite. New raffia is added each season. Male and female masks are contrasted by colour: feminine masks use light colours such as white with delicate features, masculine ones dark colours representing the mystic forces of the forest, with large features deliberately made ugly through bulging eyes or misplaced mouths, and deformities drawn from human disease — gangosa, a form of yaws, is often depicted, along with baldness and walking sticks as symbols of karma and old age. An articulated lower jaw appears frequently. The collections also hold an *Ogbom* dance crest fragment and a wooden dance headdress. Puppets with articulated jaws — one male figure with glass eyes and a left hand moved by a rod passing through the body, clothed in a cotton jacket and loincloth — indicate a figure-performance tradition the sources do not further describe.
+Masking is the Ibibio performance tradition the sources document. *Ekpo* masks were used to elicit fear and execute social control; to put on one is to surrender earthly identity and assume an ancestral one, and masks may be those owned by deceased ancestors, made to resemble ancestors, or made to resemble village heroes. Many are carved from a lightweight wood called *ukot*, the palm wine tree, which makes them easier to wear and move in; a horizontal wooden bar may be inserted for the wearer to bite. New raffia is added each season. Male and female masks are contrasted by colour: feminine masks use light colours such as white with delicate features, masculine ones dark colours representing the mystic forces of the forest, with large features deliberately made ugly through bulging eyes or misplaced mouths, and deformities drawn from human disease — gangosa, a form of yaws, is often depicted, along with baldness and walking sticks as symbols of karma and old age. An articulated lower jaw appears frequently. The collections also hold an *Ogbom* dance crest fragment and a wooden dance headdress.
 
 ## Festivals & rituals
 
@@ -55,7 +55,7 @@ There is no annual festival calendar in the sources, but the *Ekpo* season struc
 
 ## Foodways
 
-The sources name forest foods gathered from the *akai* — fruits such as *mkpook*, vegetables such as *afang* and *odusa*, and snails — and record a child's soup bowl among the pottery, but they do not describe Ibibio staples, cooking methods, dishes or ceremonial food.
+The sources name forest foods gathered from the *akai* — fruits such as *mkpook*, vegetables such as *afang* and *odusa*, and snails — and record a child's soup bowl among the pottery.
 
 ## Oral tradition & literature
 

@@ -42,10 +42,6 @@ The documented clothing is linked mainly to Bundu or Bandu societies, ceremonies
 - **Hunter’s tunic** — A hunter’s or warrior’s tunic was made from hand-spun and hand-woven cotton strips, with cotton-wrapped amulets and small horns sewn to the back of the neck.
 - **Girl’s head covering** (*Fujó*) — After a Bundu ceremony, an older woman braided the Fujó into a girl’s hair, and it was later removed.
 
-### Architecture
-
-The sources do not describe Kissi buildings or settlements.
-
 ### Ceramics, metalwork & everyday objects
 
 Kissi smiths made iron tools and weapons, while households used pottery, baskets and farm objects.
@@ -99,10 +95,6 @@ The documented food-related objects concern rice fields, palm oil and palm fruit
 - **Palm-oil sieve** — A sieve was used for producing palm oil.
 - **Palm-fruit knife** (*Kissi penny*) — A knife made from a Kissi penny was chiefly used for harvesting palm fruits.
 
-## Oral tradition & literature
-
-The sources do not describe Kissi stories, proverbs, performers or literary traditions.
-
 ## Language & religion
 
 Kissi is a tonal Mel language, and traditional religion centers on ancestors and deceased relatives.
@@ -144,4 +136,3 @@ Kissi is a tonal Mel language, and traditional religion centers on ancestors and
 - [Kissi language — Wikipedia](https://en.wikipedia.org/wiki/Kissi_language)
 - Museum of World Culture and Museum of Ethnography catalogue records cited in the object catalogue supplied for this atlas.
 - British Museum catalogue records cited in the object catalogue supplied for this atlas.
-

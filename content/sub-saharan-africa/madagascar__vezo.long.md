@@ -13,11 +13,11 @@ The Vezo are the semi-nomadic coastal people of southwestern Madagascar who defi
 
 ### Textile & pattern traditions
 
-The sources used do not describe Vezo weaving or patterned textile traditions. What they do record of worked fibre is utilitarian and tied to the sea and the household: a **hat** of raffia, a **carrying basket** of basketry, and a canoe **sail** assembled from rope, cotton cloth, raffia and polythene — the last a plain illustration of new materials entering an old form.
+What the sources do record of worked fibre is utilitarian and tied to the sea and the household: a **hat** of raffia, a **carrying basket** of basketry, and a canoe **sail** assembled from rope, cotton cloth, raffia and polythene — the last a plain illustration of new materials entering an old form.
 
 ### Clothing & dress
 
-The sources used do not cover Vezo dress in any detail. The only garments and body-worn items they record are museum pieces: a raffia hat, and a sandal made from zebu hide and goat skin fastened with nails.
+The only garments and body-worn items they record are museum pieces: a raffia hat, and a sandal made from zebu hide and goat skin fastened with nails.
 
 ### Architecture
 
@@ -33,11 +33,7 @@ Ornament as recorded is chiefly metal and worn on the arm: five **bracelets**, t
 
 ## Music & performance
 
-The sources used do not document Vezo instruments, song genres or musical performance contexts. What they record of collective performance falls under ceremony: the Vezo hold official cultural ceremonies called *Fomba*, comprising **Bilo**, **Tromba**, **Savatse**, **Takasy** and **Soro**, all of which except Takasy are also practised, with variations, by the neighbouring inland Masikoro. The sources name these ceremonies without describing their music.
-
-## Dance & theatre
-
-The sources used contain no account of Vezo dance or dramatic traditions.
+What the sources record of collective performance falls under ceremony: the Vezo hold official cultural ceremonies called *Fomba*, comprising **Bilo**, **Tromba**, **Savatse**, **Takasy** and **Soro**, all of which except Takasy are also practised, with variations, by the neighbouring inland Masikoro. The sources name these ceremonies without describing their music.
 
 ## Festivals & rituals
 

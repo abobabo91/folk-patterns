@@ -46,7 +46,7 @@ The Royal Museum for Central Africa documents a 1962 recording identified as Lob
 
 ## Dance & theatre
 
-The same recording describes xylophone music providing a rhythm for dancing. The sources used here do not establish a separate named Lobi theatre form.
+The same recording describes xylophone music providing a rhythm for dancing.
 
 ## Festivals & rituals
 
@@ -54,7 +54,7 @@ Divination, shrine care, and offerings form part of documented Lobi religious pr
 
 ## Foodways
 
-The sources used for this page document household pottery and compounds, but do not establish a distinct named Lobi dish. Shrine vessels and offerings should be understood in their ritual context, not presented as ordinary food preparation.
+The sources used for this page document household pottery and compounds. Shrine vessels and offerings should be understood in their ritual context, not presented as ordinary food preparation.
 
 ## Oral tradition & literature
 

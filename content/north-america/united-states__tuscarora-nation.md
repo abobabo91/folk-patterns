@@ -11,7 +11,7 @@ tags: [ethnography, north-america]
 | Who | The Tuscarora Nation is a federally recognized tribe of Tuscarora people. |
 | Where | Its headquarters is on the Tuscarora Reservation in Lewiston, New York. |
 | How many | The profile does not state the population. |
-| Language | The profile gives the nation’s Tuscarora name as Skarù·ręʔ Kayedá·kreh but does not state the language family. |
+| Language | The profile gives the nation’s Tuscarora name as Skarù·ręʔ Kayedá·kreh. |
 | Religion | The profile does not describe Tuscarora religion. |
 | Known for | Migration from the Carolinas to Haudenosaunee territory · The Tuscarora Reservation in Lewiston, New York · Baby carriers with beaded floral decoration · The Tuscarora War |
 
@@ -39,10 +39,6 @@ The catalogue records cloth dresses, head coverings, hats, necklaces, boots, and
 - **Cloth head covering** — One catalogue record describes a Tuscarora woman wearing a cloth head covering.
 - **Hat and boots** — A girl is recorded wearing a hat and boots.
 
-### Architecture
-
-The sources do not describe Tuscarora buildings or architectural traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 The sources record baby carriers but no ceramics, metalwork, tools, or household goods.
@@ -51,7 +47,7 @@ The sources record baby carriers but no ceramics, metalwork, tools, or household
 
 ### Jewelry & body adornment
 
-The sources record one girl wearing a necklace but do not describe a wider adornment tradition.
+The sources record one girl wearing a necklace.
 
 - **Necklace** — One catalogue record states that a girl wore a necklace.
 
@@ -61,19 +57,9 @@ The sources do not document a musical tradition, but one wartime account mention
 
 - **Horns and war whoops** — During the attack on Lewiston in 1813, one Tuscarora party blew horns while another attacked with war whoops to make the group seem larger.
 
-## Dance & theatre
-
-The sources do not document Tuscarora dances, theatre, mask performances, or dramatic traditions.
-
 ## Festivals & rituals
 
-The sources do not document Tuscarora festivals or rituals.
-
 - **Tuscarora War** — The profile describes the Tuscarora War and the later migration north, but does not present them as festivals or rituals.
-
-## Foodways
-
-The sources do not document Tuscarora foods, cooking, dishes, drinks, or dietary rules.
 
 ## Oral tradition & literature
 
@@ -84,7 +70,7 @@ The sources do not describe Tuscarora oral literature, but they name two people 
 
 ## Language & religion
 
-The profile gives the Tuscarora name for the nation but does not describe its language family or religion.
+The profile gives the Tuscarora name for the nation.
 
 - **Tuscarora Nation** (*Skarù·ręʔ Kayedá·kreh*) — Skarù·ręʔ Kayedá·kreh is given as the Tuscarora name for the Tuscarora Nation.
 
@@ -94,8 +80,6 @@ The profile gives the Tuscarora name for the nation but does not describe its la
 
 ## Sources & further reading
 
-- The sources used do not provide books, publishers, publication years, or documentation projects.
 - Wikipedia, “[Tuscarora Nation](https://en.wikipedia.org/wiki/Tuscarora_Nation)”.
 - The UNESCO Intangible Cultural Heritage sources supplied for this profile list no relevant inscription for this group.
 - British Museum catalogue records for stereoscope photographs depicting Tuscarora women, girls, babies, baby carriers, cloth clothing, a cloth head covering, a hat, a necklace, boots, and beaded floral motif decoration.
-

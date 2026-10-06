@@ -43,10 +43,6 @@ Herero women are known for full, floor-length dresses and horn-shaped headdresse
 - **Women’s neckerchief** — Coordinating neckerchiefs are knotted around the neck.
 - **Decorative dress pins** — Brooches and pins may be attached to the centre front of the otjikaiva.
 
-### Architecture
-
-The supplied sources do not describe Herero architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Herero-associated museum objects include weapons, wooden tools, a smoking pipe and a small meat container.
@@ -72,10 +68,6 @@ Herero ornaments use iron, copper, steel, leather, fibre, ostrich eggshell and t
 The supplied sources do not identify named Herero musical traditions, but missionaries translated songs into Herero.
 
 - **Translated Herero songs** — Father Peter Heinrich Brincker translated songs into Herero, but the sources give no titles or performance details.
-
-## Dance & theatre
-
-The supplied sources do not describe named Herero dances, theatre or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -141,4 +133,3 @@ Otjiherero is widely used in education and broadcasting, while Herero religion c
 - Wikipedia, “Herero people”: https://en.wikipedia.org/wiki/Herero_people
 - Wikipedia, “Herero language”: https://en.wikipedia.org/wiki/Herero_language
 - UNESCO Intangible Cultural Heritage: no inscription for this ethnic group is identified in the supplied sources.
-

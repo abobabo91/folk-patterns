@@ -23,10 +23,6 @@ The Venḓa are a Bantu people of Southern Africa, centered in northern Limpopo.
 
 Venda material culture includes decorated pottery and gourds, copper and iron objects, wooden tools, drums, xylophones, beadwork and household vessels.
 
-### Textile & pattern traditions
-
-The sources do not document named Venda textile traditions or motifs.
-
 ### Clothing & dress
 
 Museum photographs show girls wearing aprons and a girl wearing a striped wrapper.
@@ -139,4 +135,3 @@ Venḓa is an official Bantu language of South Africa and Zimbabwe, but the prof
 - Wikipedia, [Venda people](https://en.wikipedia.org/wiki/Venda_people).
 - Wikipedia, [Venda language](https://en.wikipedia.org/wiki/Venda_language).
 - British Museum collection records for the axes, spears, bowls, divination objects, musical instruments, adornment and photographs described above.
-

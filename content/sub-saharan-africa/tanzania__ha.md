@@ -70,10 +70,6 @@ The Ha trough zither is a single-string seven-course instrument carved from one 
 - **Wooden whistle** — A tube with crescent mouth, two side ears and expanded end, holding a feather inside.
 - **Ivory hunters' whistles** — Two signalling instruments of ivory used in hunting.
 
-## Dance & theatre
-
-No Ha dance or dramatic tradition is documented in the sources.
-
 ## Festivals & rituals
 
 Ha ritual life centers on animist reverence for ancestors and nature spirits, with livestock playing a central role in marriage and bride-wealth.
@@ -133,4 +129,3 @@ Ha is a Bantu language closely related to Kirundi and Kinyarwanda, with phonetic
 - Ethnologue entry for Ha; official Tanzanian government report on the Kigoma Region, which contains information on the Ha.
 - Smithsonian Folkways search for Tanzania — https://folkways.si.edu/search?query=Tanzania
 - British Museum online collection — https://www.britishmuseum.org/collection
-

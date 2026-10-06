@@ -19,19 +19,13 @@ The Lunda, also known as Balunda, Luunda and Ruund, are a Bantu ethnic group who
 
 *Mitunda* — The catalogue records describe “mitunda” as a type of necklace made by local people, who were reluctant to sell it because it possessed considerable prestige value. The object was associated with Lunda material culture but the record also places this necklace type among several Central and southern African communities.
 
-The sources do not name Lunda textile patterns or provide documented pattern vocabularies.
-
 ### Clothing & dress
 
 The sources describe a ceremonial Lunda dance costume used by medicine men at circumcision festivals. Its components included a mask, a shirt, leg clothing, cords, a rectangular piece of crocheted bast cord and a set of ten fingers threaded onto two strings, with five fingers on each string. The catalogue does not identify all components or specify the material of every part. The dance costume was worn when the medicine man led the dance.
 
-A British Museum photographic record shows a group of standing Lunda adult males wearing cloths around their lower bodies, personal ornaments, head-gear, vests or shirts; one man held a rifle. The seated adult male, identified in the record as a possible leader or ruler, also wore head-ornaments and had a beard. The sources do not describe ordinary women’s clothing, footwear, belts or daily dress.
+A British Museum photographic record shows a group of standing Lunda adult males wearing cloths around their lower bodies, personal ornaments, head-gear, vests or shirts; one man held a rifle. The seated adult male, identified in the record as a possible leader or ruler, also wore head-ornaments and had a beard.
 
 A Lunda head-dress from Belgian Congo consisted of eight parts made from glass beads. Some ornaments were worn above the forehead and beside the ears, while others formed arches across the head. The record states that some parts were worn only on special occasions and others were worn continually.
-
-### Architecture
-
-The sources used here do not describe Lunda houses, villages, royal buildings, construction materials, roof forms or architectural decoration.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -41,9 +35,9 @@ Lunda-associated tools include a straight-edged, socketed axe used for cutting w
 
 ### Jewelry & body adornment
 
-The sources document head ornaments, necklaces and personal ornaments but do not provide a complete Lunda jewelry vocabulary. A Lunda head-dress from Belgian Congo was made of glass beads and consisted of eight parts: a cylindrical ornament above the forehead, ornaments beside the ears, and arched ornaments worn across the head. Some elements were reserved for special occasions, while others were always worn.
+The sources document head ornaments, necklaces and personal ornaments. A Lunda head-dress from Belgian Congo was made of glass beads and consisted of eight parts: a cylindrical ornament above the forehead, ornaments beside the ears, and arched ornaments worn across the head. Some elements were reserved for special occasions, while others were always worn.
 
-The catalogue record for a Lunda knife also describes a necklace type called *mitunda*. It states that these necklaces had substantial prestige value and that people who called them *mitunda* were unwilling to part with them. The source does not describe tattooing, scarification, hair practices or other forms of body modification.
+The catalogue record for a Lunda knife also describes a necklace type called *mitunda*. It states that these necklaces had substantial prestige value and that people who called them *mitunda* were unwilling to part with them.
 
 ## Music & performance
 
@@ -51,9 +45,7 @@ The sources document several Lunda musical instruments. The *sansa* is identifie
 
 The British Museum records a wooden and iron sansa with a rattle. Other catalogue records identify a carved wooden smoking pipe and several rattles. Museum of Ethnography records describe foot rattles made from rows of calabashes threaded onto sticks, with strings for binding them around the legs or ankles. The records include examples with three rows, four rows or two groups of calabashes.
 
-A drum record from Angola describes a large wooden drum with a sound opening, wooden handles and straps. The catalogue material includes general information about musical instruments among the Shokwe, including tall, narrow, hollow drums covered with stretched skin and decorated with incisions or reliefs. The supplied sources do not establish that this general description is specifically Lunda.
-
-The sources do not name Lunda song genres, musical scales, dances performed for entertainment, funeral music or court ensembles.
+A drum record from Angola describes a large wooden drum with a sound opening, wooden handles and straps. The catalogue material includes general information about musical instruments among the Shokwe, including tall, narrow, hollow drums covered with stretched skin and decorated with incisions or reliefs.
 
 ## Dance & theatre
 
@@ -61,33 +53,29 @@ The sources document a Lunda medicine man’s dance costume used during circumci
 
 Two Museum of World Culture records identify medicine-man masks used at circumcision festivals. The masks were made by particular people, according to the catalogue descriptions. One record states that the mask’s upper section had cracks and that its surface was deteriorating; another describes loose material and a fragile, cracked substance.
 
-The sources do not name a Lunda dance, theatrical genre, dramatic cycle or performance text. They also do not describe shadow puppetry, court dance or secular stage performance.
-
 ## Festivals & rituals
 
 The sources mention circumcision festivals as a ceremonial setting for Lunda medicine men, masks and dance. A medicine man led the dance while wearing a specific costume, and medicine-man masks were used during the festival. The catalogue records do not provide the festival’s vernacular name, date, season or duration.
 
 The Lunda religion described in the Wikipedia sources centred on Nzambi or Nzamb Katang as the Supreme Creator. Religious practice did not address Nzambi directly but proceeded through the spirits of ancestors. The sources also state that Lunda kings had twenty to thirty wives.
 
-The sources do not describe an annual festival calendar, harvest festival, wedding ceremony, funeral rite, birth ceremony or other life-cycle ritual apart from the circumcision-festival material. They do not give dates for Lunda festivals.
-
 ## Foodways
 
 The Lunda heartland contained rivers, lakes, forests and savannah. The sources describe Lunda people as fishermen and farmers who grew maize, millet, yams, sorghum, squash, beans, sweet potatoes, oil palms and tobacco. They drank palm wine.
 
-The supplied material does not name a Lunda dish, provide recipes or describe particular cooking methods. The sources do not specify how the listed crops were prepared, nor do they describe ceremonial food, tea or coffee traditions.
+The supplied material does not name a Lunda dish, provide recipes or describe particular cooking methods.
 
-After the defeat of Ndongo, the Lunda are described as basing part of their diet on cows and pigs taken from the kingdom of Ndongo. The same historical account states that their income included the sale of Mbundu prisoners to Portuguese merchants. The sources do not describe dietary rules or restrictions.
+After the defeat of Ndongo, the Lunda are described as basing part of their diet on cows and pigs taken from the kingdom of Ndongo. The same historical account states that their income included the sale of Mbundu prisoners to Portuguese merchants.
 
 ## Oral tradition & literature
 
-The sources used here do not record Lunda folktales, epic poems, proverbs, riddles, named storytelling genres or literary preservation projects. They mention that the Lunda religion involved the spirits of ancestors, but they do not provide the narratives, prayers or oral forms associated with those beliefs.
+The sources mention that the Lunda religion involved the spirits of ancestors.
 
 ## Language & religion
 
 Lunda, also known as Chilunda, is a Bantu language spoken in Zambia, Angola and, to a lesser extent, the Democratic Republic of the Congo. It is used mainly in the north-western province of Zambia. The Lunda language and its dialects were spoken and understood by perhaps 8.6% of Zambians according to a 1986 estimate. Most Lunda speak Lunda or Chilunda, except for the Kazembe-Lunda, who adopted Bemba from neighbouring communities. A small number of Lunda dialects are represented in Namibia.
 
-The language description states that vowel length is contrastive and that /w/ may also be heard as a bilabial glide. The Lunda Kingdom’s religious tradition identified Nzambi or Nzamb Katang as the Supreme Creator and approached this creator through ancestral spirits. The sources do not describe a historical script or a current religious affiliation.
+The language description states that vowel length is contrastive and that /w/ may also be heard as a bilabial glide. The Lunda Kingdom’s religious tradition identified Nzambi or Nzamb Katang as the Supreme Creator and approached this creator through ancestral spirits.
 
 ## Sources & further reading
 

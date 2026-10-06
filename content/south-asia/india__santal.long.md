@@ -13,13 +13,11 @@ The Santal, also called Santhal, are an Austroasiatic-speaking Munda ethnic grou
 
 ### Textile & pattern traditions
 
-The sources used do not document named Santal textile traditions or pattern-bearing textiles.
-
-**Motif vocabulary.** The sources name animal, hunting, dancing, and geometric designs on house walls, but do not identify textile motifs.
+**Motif vocabulary.** The sources name animal, hunting, dancing, and geometric designs on house walls.
 
 ### Clothing & dress
 
-The sources provide little information about everyday or ceremonial clothing. They state that Santal society includes *phul*, a ritual friendship with members of other ethnic groups, and mention *poeta*, people who wear a thread on the chest in worship. The catalogue records include a woman’s white-metal anklet, bronze anklets and armlets, bronze and metal necklets, and a palm-leaf ear-plug decorated with foil and red seeds. These records document objects associated with the catalogue’s Santal or “Sonthals” identifications, but do not describe a complete clothing system, head coverings, belts, footwear, or distinctions between men’s and women’s daily dress.
+The sources provide little information about everyday or ceremonial clothing. They state that Santal society includes *phul*, a ritual friendship with members of other ethnic groups, and mention *poeta*, people who wear a thread on the chest in worship. The catalogue records include a woman’s white-metal anklet, bronze anklets and armlets, bronze and metal necklets, and a palm-leaf ear-plug decorated with foil and red seeds. These records document objects associated with the catalogue’s Santal or “Sonthals” identifications.
 
 ### Architecture
 
@@ -27,11 +25,11 @@ Traditional Santal homes have walls ornamented with carved designs of animals, h
 
 ### Ceramics, metalwork & everyday objects
 
-The sources describe Santal agricultural tools and household objects only in limited contexts. During the British period, Santals took loans to buy iron tools, seed grain, and oxen. The British Museum catalogue includes a battle-axe with a dark wood handle and iron head, an arrow with a pale wood head and bamboo shaft, and a model wooden oil-press made from horizontal and vertical wooden pieces. The catalogue also records a painted *pata* scroll on paper showing a tiger’s god, a shrine, dancers, warriors, and musicians. The sources do not provide a broader account of Santal ceramics, cooking vessels, workshops, or regional craft specialization.
+The sources describe Santal agricultural tools and household objects only in limited contexts. During the British period, Santals took loans to buy iron tools, seed grain, and oxen. The British Museum catalogue includes a battle-axe with a dark wood handle and iron head, an arrow with a pale wood head and bamboo shaft, and a model wooden oil-press made from horizontal and vertical wooden pieces. The catalogue also records a painted *pata* scroll on paper showing a tiger’s god, a shrine, dancers, warriors, and musicians.
 
 ### Jewelry & body adornment
 
-Museum catalogue records document several forms of Santal-associated body adornment. These include a woman’s anklet made of white metal, bronze anklets with interlocking sections and incised geometric or floral patterns, and a pair of bronze armlets with ridges, punched patterns, and square rosettes. The records also describe a white-metal or zinc necklet with incised floral and banded decoration, a broad bronze necklet with geometric patterns, and a palm-leaf ear-plug rolled into a cylinder and covered with gold and green foil and small red seeds. The sources do not document tattoos, henna, hair practices, or the ritual functions of these ornaments.
+Museum catalogue records document several forms of Santal-associated body adornment. These include a woman’s anklet made of white metal, bronze anklets with interlocking sections and incised geometric or floral patterns, and a pair of bronze armlets with ridges, punched patterns, and square rosettes. The records also describe a white-metal or zinc necklet with incised floral and banded decoration, a broad bronze necklet with geometric patterns, and a palm-leaf ear-plug rolled into a cylinder and covered with gold and green foil and small red seeds.
 
 ## Music & performance
 
@@ -43,9 +41,9 @@ Traditional tunes are heard especially during Santal festivals. Most songs and t
 
 ## Dance & theatre
 
-Santal dances are traditionally accompanied by the *Tamak’* and *Tumdak’*. The sources state that many tunes are directly connected with festival dances, so their meters and rhythms reflect the movements and structures of those dances. They do not provide names for particular Santal dances.
+Santal dances are traditionally accompanied by the *Tamak’* and *Tumdak’*. The sources state that many tunes are directly connected with festival dances, so their meters and rhythms reflect the movements and structures of those dances.
 
-*Chadar Badar*, also known as Santal puppetry, is a folk show involving wooden puppets placed in a small cage that functions as the stage. The museum catalogue records also include *pata* scroll paintings showing dancers and musicians, including a devotional scene with a “tiger’s god,” a shrine, and dancers, and another scene with worshippers, warriors fighting, and musicians. The sources do not explain the performance sequence, repertory, performers, or distinction between ritual and entertainment theatre.
+*Chadar Badar*, also known as Santal puppetry, is a folk show involving wooden puppets placed in a small cage that functions as the stage. The museum catalogue records also include *pata* scroll paintings showing dancers and musicians, including a devotional scene with a “tiger’s god,” a shrine, and dancers, and another scene with worshippers, warriors fighting, and musicians.
 
 ## Festivals & rituals
 
@@ -57,13 +55,13 @@ Marriage is treated as important for the entire village as well as for the coupl
 
 ## Foodways
 
-The sources do not provide a general account of Santal foodways, staple grains, named dishes, cooking methods, or dietary rules. They state that *handi* is rice-beer and that it is given to guests during the *kesimek’* marriage negotiations. Guests also share *pera hor handi* when the bride returns to her natal village. The historical account says that Santal settlements were turned into paddy fields, but does not describe rice preparation or everyday meals.
+The sources state that *handi* is rice-beer and that it is given to guests during the *kesimek’* marriage negotiations. Guests also share *pera hor handi* when the bride returns to her natal village. The historical account says that Santal settlements were turned into paddy fields.
 
 ## Oral tradition & literature
 
 Santal folklore claims that the people came from *Hihiri*, which scholars have identified as *Ahuri* in Hazaribagh district. The tradition recounts movement to the Chhota Nagpur Plateau, then to *Jhalda*, *Patkum*, and finally *Saont*. Santal religious tradition includes a creation story in which *Marang Buru*, *Malan Budhi*, *Pilchu Haram*, and *Pilchu Budhi* appear, and the children of seven couples become the progenitors of Santal clans.
 
-The sources also identify published collections and studies of Santal oral literature, including P. O. Bodding’s *Santal Folk Tales* and *Santal Riddles and Witchcraft among the Santals*, Cecil Henry Bompas and P. O. Bodding’s *Folklore of the Santal Parganas*, and Indu Roy Chaudhury’s *Folk Tales of the Santals*. W. G. Archer collected and analysed hundreds of Santal songs in the mid-twentieth century. The sources do not describe a named Santal epic, proverb tradition, or contemporary literary revival.
+The sources also identify published collections and studies of Santal oral literature, including P. O. Bodding’s *Santal Folk Tales* and *Santal Riddles and Witchcraft among the Santals*, Cecil Henry Bompas and P. O. Bodding’s *Folklore of the Santal Parganas*, and Indu Roy Chaudhury’s *Folk Tales of the Santals*. W. G. Archer collected and analysed hundreds of Santal songs in the mid-twentieth century.
 
 ## Language & religion
 

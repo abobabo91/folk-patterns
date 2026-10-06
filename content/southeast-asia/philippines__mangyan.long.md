@@ -25,7 +25,7 @@ Dress differs by gender. Men wear the *bahag*, a loincloth covering the lower bo
 
 ### Architecture
 
-The sources used do not describe Mangyan house forms, materials, roofing or architectural ornament. They note only that Mangyan communities live in relative seclusion along rivers in the highlands of Mindoro, and that Mangyan ancestral lands amount to a claim over 40,000 hectares of forest, of which titled portions include 3,270.78 hectares in Sabang in Pinamalayan town and Buong Lupa in Gloria town.
+The sources note only that Mangyan communities live in relative seclusion along rivers in the highlands of Mindoro, and that Mangyan ancestral lands amount to a claim over 40,000 hectares of forest, of which titled portions include 3,270.78 hectares in Sabang in Pinamalayan town and Buong Lupa in Gloria town.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -40,10 +40,6 @@ The ornaments recorded here are of beads, plant fibre and leaf rather than metal
 The instruments collected from the Mangyan are a small, portable set, several of them made of bamboo and two of them strung with human hair. A **jew's harp** of wood and resin is documented, and one such harp was kept inside an incised bamboo lime container — the instrument travelling with the betel kit. There is a bamboo **flute**. A **violin** is made of wood and human hair, played with a bow of bamboo and human hair. A **guitar** of wood is also recorded. One further bamboo object is catalogued ambiguously as a "dibble clapper", uncertain between digging implement and percussion.
 
 Vocal performance is documented through poetry rather than song collections. The Hanunó'o practise *ambahan*, a rhythmic poetic expression with a meter of seven syllables, presented through recitation and chanting or inscribed on bamboo — so that the same composition exists as sound and as incised text. The broader Mangyan repertoire includes song poems that carry taboos, beliefs and customs, and that account for the origins of those customs and the importance of keeping them. Riddles were told in the evening as mind games and comical entertainment. The sources place storytelling after sunset, since telling folk tales in daylight was believed to rot the teeth.
-
-## Dance & theatre
-
-The sources used do not describe Mangyan dance or dramatic traditions.
 
 ## Festivals & rituals
 

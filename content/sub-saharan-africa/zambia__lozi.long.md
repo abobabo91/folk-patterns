@@ -13,17 +13,11 @@ The Lozi, also known as Balozi, are a Bantu-speaking ethnic group native to Zamb
 
 ### Textile & pattern traditions
 
-The sources used do not document a distinct Lozi textile tradition in sufficient detail for this section.
-
 **Motif vocabulary.** The sources name geometric decoration, zigzag decoration, geometric incisions, bands of raised geometric carving, rectangles, cross lines, cross rows, dots, rings, checkered-patterned squares, vertical bands and stripes.
 
 ### Clothing & dress
 
-Lozi traditional dress distinguishes men’s and women’s clothing. The *siziba* is worn by men and consists of a shirt and a knee-length skirt. It is sometimes paired with a sleeveless jacket and *mashushu*, described as a red beret. Women wear the *musisi*, a garment possibly influenced by crinolines worn by wives of nineteenth-century missionaries. The supplied sources do not document Lozi footwear, belts, everyday clothing, hair practices or a separate catalogue of ceremonial dress beyond these garments and the *mashushu*. Museum records associated with Lozi *Makishi* describe round hats made of bark, willow and grass. One hat is recorded as 25.5cm high and another as 25cm high; both have traces of white and red on the outside and were used at *Makishi* dances.
-
-### Architecture
-
-The sources used do not describe Lozi houses, settlements, roofs, building materials, workshops or other vernacular architecture.
+Lozi traditional dress distinguishes men’s and women’s clothing. The *siziba* is worn by men and consists of a shirt and a knee-length skirt. It is sometimes paired with a sleeveless jacket and *mashushu*, described as a red beret. Women wear the *musisi*, a garment possibly influenced by crinolines worn by wives of nineteenth-century missionaries. Museum records associated with Lozi *Makishi* describe round hats made of bark, willow and grass. One hat is recorded as 25.5cm high and another as 25cm high; both have traces of white and red on the outside and were used at *Makishi* dances.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -31,13 +25,13 @@ The museum records document a broad range of Lozi-associated household objects a
 
 ### Jewelry & body adornment
 
-The sources document a composite neck ornament made from six lengths of coiled wire with a calabash pendant attached by string. An armlet consists of glass, ostrich eggshell and wooden beads on a vegetal-fibre cord. The museum records also describe charms made from materials including bone, wood, gum, *abrus* seeds, fibre, hair, antelope or duiker horn, feathers, calabash and glass. The sources used do not describe tattoos, henna, hair practices or the ritual functions of these ornaments and charms.
+The sources document a composite neck ornament made from six lengths of coiled wire with a calabash pendant attached by string. An armlet consists of glass, ostrich eggshell and wooden beads on a vegetal-fibre cord. The museum records also describe charms made from materials including bone, wood, gum, *abrus* seeds, fibre, hair, antelope or duiker horn, feathers, calabash and glass.
 
 ## Music & performance
 
 The museum records identify numerous Lozi-associated musical instruments. These include a wooden xylophone called *sirimba*, with twelve keys, carved geometric decoration, fibre strings, iron screws and twelve calabash resonators. A pair of wooden beaters accompanies it. Other instruments include composite drums with wooden bodies, hide membranes and cords; a drum with a reptile-skin drumhead fixed with metal tacks; an antelope-horn hunting horn or trumpet; an ivory horn war-trumpet; an antelope-horn trumpet; a wooden-board *sansa* with metal keys and a gourd resonator; and an iron double gong. The catalogue also records a possible musical-instrument striker formed from a carved wooden rod with geometric incised decoration and brass-wire binding.
 
-The sources do not identify named song genres, instrumental repertories or performance settings for these instruments. They do state that several Lozi dances were accompanied by singing and often by drums. *Liwale* and *Ngomalume* were ceremonial dances performed at royal events, while *Liimba*, *Lishemba* and *Sipelu* were performed in the evening. *Siyemboka* was performed at beer parties, festivals, ceremonies and girls’ initiations.
+The sources state that several Lozi dances were accompanied by singing and often by drums. *Liwale* and *Ngomalume* were ceremonial dances performed at royal events, while *Liimba*, *Lishemba* and *Sipelu* were performed in the evening. *Siyemboka* was performed at beer parties, festivals, ceremonies and girls’ initiations.
 
 ## Dance & theatre
 
@@ -53,13 +47,9 @@ Lozi culture is strongly influenced by the flood cycle of the Zambezi River. At 
 
 The sources also connect performance traditions with royal events, festivals, ceremonies, beer parties and girls’ initiations. *Ngomalume* and *Liwale* were performed at royal events, while *Siyemboka* was performed at beer parties, festivals, ceremonies and girls’ initiations. The museum records identify *Makishi* masks and hats as objects used in *Makishi* dances and state that the hats were for initiands or initiators.
 
-The sources used do not describe Lozi birth, wedding, funeral or other life-cycle rites in detail. They also do not provide a full annual festival calendar beyond *Kuomboka* and the listed performance contexts.
-
 ## Foodways
 
 The supplied sources mention food and drink only in limited contexts. A museum catalogue records a pottery jar used for water or beer, while the Lozi mythology describes Kamunu killing animals and cooking their meat for food. Museum objects include a wooden milk pot and a wooden dipper or ladle. A carved wooden lid is identified as a lid for a food vessel.
-
-The sources do not identify staple grains, named dishes, cooking methods, tea or coffee traditions, dietary rules or a wider ceremonial food system. They also do not document the preparation of beer or milk beyond the names and uses of the associated vessels.
 
 ## Oral tradition & literature
 
@@ -71,7 +61,7 @@ Other versions describe Nyambe and Nasilele’s daughter Mwambwa as the first Lu
 
 Lozi, also known as *Silozi* and *Rozi*, is a Bantu language of the Niger–Congo language family within the Sotho–Tswana branch of Zone S, identified as S.30. It is spoken primarily in southwestern Zambia and in Namibia. The language is closely related to Northern Sotho, Tswana, Kgalagari and Sotho. *Silozi* is the endonym used by native speakers, and Lozi is sometimes written as Rotse.
 
-The origins of Silozi are traced to a mixture of Luyana and Kololo. The Luyana settled on the upper Zambezi floodplains, where they established a kingdom called Barotseland or Bulozi. In the 1830s, the Kololo conquered the Luyana and imposed their rule and language. By 1864, the indigenous population had overthrown the Kololo, but the original Luyana language had largely been replaced by the hybrid language Silozi. The sources describe Nyambe as creator god in Lozi mythology and record several accounts of creation, death and the origin of Lozi sovereignty. They do not describe the current religious landscape.
+The origins of Silozi are traced to a mixture of Luyana and Kololo. The Luyana settled on the upper Zambezi floodplains, where they established a kingdom called Barotseland or Bulozi. In the 1830s, the Kololo conquered the Luyana and imposed their rule and language. By 1864, the indigenous population had overthrown the Kololo, but the original Luyana language had largely been replaced by the hybrid language Silozi. The sources describe Nyambe as creator god in Lozi mythology and record several accounts of creation, death and the origin of Lozi sovereignty.
 
 ## Sources & further reading
 

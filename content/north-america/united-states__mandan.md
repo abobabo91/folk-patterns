@@ -58,7 +58,7 @@ The sources name storage pits, canoes, paddles, rattles, long sticks, and the Ar
 
 ### Jewelry & body adornment
 
-The sources mention tattooing but do not describe Mandan jewelry or other adornment.
+The sources mention tattooing.
 
 - **Those who tattooed themselves** (*Is’tope*) — The Is’tope was a band glossed as “those who tattooed themselves.”
 
@@ -134,7 +134,6 @@ Mandan is a Siouan language with named dialects, and its documented religious pr
 
 ## Sources & further reading
 
-- The supplied sources do not provide enough bibliographic information for books or additional scholarly publications.
 - MHA Language Project, language-learning materials for Mandan, as described in the supplied *Mandan language* article.
 - Wikipedia, “[Mandan](https://en.wikipedia.org/wiki/Mandan).”
 - Wikipedia, “[Mandan language](https://en.wikipedia.org/wiki/Mandan_language).”
@@ -142,4 +141,3 @@ Mandan is a Siouan language with named dialects, and its documented religious pr
 - British Museum catalogue records for drawings depicting the Buffalo Dance and Mandan religious ceremony.
 - Museum of Ethnography catalogue records for a shoe associated with the Mandan.
 - Museum of World Culture catalogue record for a paddle from Fort Berthold Indian Agency, Elbowoods, North Dakota.
-

@@ -11,10 +11,6 @@ The Bongo are a people of South Sudan, living in sparsely populated areas of Bah
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not cover Bongo weaving, netting, bark cloth or any other textile tradition, and name no motif vocabulary.
-
 ### Clothing & dress
 
 The sources used describe no Bongo garments, head coverings, belts or footwear, and draw no distinction between everyday and ceremonial dress. What they do record is worn ornament rather than clothing: wooden lip ornaments for women, ivory armlets, necklaces, and a head ornament — a circle of skin with a ridge of sandy-coloured hair around it — which the museum record also identifies as a load-carrier, that is, a pad worn on the head for carrying. These are treated below under jewelry and body adornment.
@@ -37,13 +33,9 @@ Women's lip ornaments are carved in wood and painted black; a further wooden lip
 
 Four kinds of instrument are documented. A drum, recorded as a tom-tom, is made from a hollowed wooden log open at both ends, with skin heads held by thongs of skin. A **harp**, catalogued also as a lyre, has a semi-circular sounding chamber with truncated ends; its back is wood covered with skin parchment, and its neck consists of two sticks joined by a transverse bar to which gut strings are attached. Ivory supplies both a trumpet and a series of side-blown hunting horns: one plain, one fitted with a loop of leather, one whose wide end is covered with coloured skin recorded as cow, and a short horn made from the pointed end of an elephant's tusk with incised lines and pricked dots. A further hunting horn is carved from wood, and one horn of uncertain function is recorded as bone or ivory. The sources used name no song genres, no ensemble types and no performance occasions, so nothing can be said here about the contexts — funerary, festive or otherwise — in which these instruments sounded.
 
-## Dance & theatre
-
-The sources used do not cover Bongo dance or dramatic performance.
-
 ## Festivals & rituals
 
-No annual festival calendar and no birth, initiation or marriage rites appear in the sources used. Funerary commemoration, however, is the best-attested ritual domain in the object record. The Metropolitan Museum of Art holds a *ngya*, a commemorative post carved in mahogany and dated to the late nineteenth century. The British Museum holds a standing grave figure of a woman, carved in wood and nearly life-size, along with a figure of a man carved in red wood. Together these are the material trace of a practice of erecting carved human figures in connection with the dead — a tradition the sources name but do not further describe. The necklace of conjuring beads noted above is the only other object whose catalogue description implies a ritual role.
+No annual festival calendar and no birth, initiation or marriage rites appear in the sources used. Funerary commemoration, however, is the best-attested ritual domain in the object record. The Metropolitan Museum of Art holds a *ngya*, a commemorative post carved in mahogany and dated to the late nineteenth century. The British Museum holds a standing grave figure of a woman, carved in wood and nearly life-size, along with a figure of a man carved in red wood. Together these are the material trace of a practice of erecting carved human figures in connection with the dead — a tradition the sources name. The necklace of conjuring beads noted above is the only other object whose catalogue description implies a ritual role.
 
 ## Foodways
 

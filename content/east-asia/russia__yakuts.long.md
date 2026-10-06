@@ -23,11 +23,11 @@ A separate body of description concerns the **Tumat**, an earlier Vilyuy people 
 
 ### Clothing & dress
 
-Beyond the pieced and appliquéd reindeer-fur coat described above — a child's garment, hooded, lined with fur including the hood, and slightly flared — the sources used do not describe Yakut everyday or ceremonial dress, and name no garment types, head coverings, belts or footwear in Yakut. Nothing in them distinguishes men's from women's dress.
+Nothing in them distinguishes men's from women's dress.
 
 ### Architecture
 
-The sources used do not describe Yakut house forms, materials or ornament, and the seed terms for them cannot be verified from this material. Two things bear on the built environment indirectly. First, the British Museum holds a model of a summer encampment of the Yakuts, with figures carved from ivory and mounted on a wooden board; the record describes the model, not the structures. Second, in the account of the Tumat of the Vilyuy — remembered in Yakut tradition as a numerous and powerful society in constant conflict with the Yakuts — households are described as semi-subterranean with sod roofing, comparable to traditional Samoyed dwellings. Toponymic evidence from Yakutia is likewise read as showing former Paleoasian and Samoyed habitation in the region. Nothing in the sources extends either description to Yakut dwellings themselves.
+Two things bear on the built environment indirectly. First, the British Museum holds a model of a summer encampment of the Yakuts, with figures carved from ivory and mounted on a wooden board; the record describes the model, not the structures. Second, in the account of the Tumat of the Vilyuy — remembered in Yakut tradition as a numerous and powerful society in constant conflict with the Yakuts — households are described as semi-subterranean with sod roofing, comparable to traditional Samoyed dwellings. Toponymic evidence from Yakutia is likewise read as showing former Paleoasian and Samoyed habitation in the region. Nothing in the sources extends either description to Yakut dwellings themselves.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,7 +43,7 @@ The sources used record a single item of adornment: a mammoth-ivory ornament cat
 
 ## Music & performance
 
-The sources used do not describe Yakut instruments, song genres or performance settings, so no instrument or genre is named here. What they do record is that music is a recognised field of Yakut achievement and scholarship: Eduard Yefimovich Alekseyev is listed as a Yakut ethnomusicologist, the mezzo-soprano Sarantuya and Kjuregej — described as painter, actor and musician — as Yakut musicians, and "Music in the Sakha Republic" appears as a related subject in its own right. Beyond these names the sources carry no description of repertoire, tuning, ensemble or occasion. Two of the objects shown here touch on performance only obliquely: the *choron* vessels belong to the serving of *kumis*, and the ivory game-pieces — cock figures and animal heads — to play rather than to music.
+What the sources do record is that music is a recognised field of Yakut achievement and scholarship: Eduard Yefimovich Alekseyev is listed as a Yakut ethnomusicologist, the mezzo-soprano Sarantuya and Kjuregej — described as painter, actor and musician — as Yakut musicians, and "Music in the Sakha Republic" appears as a related subject in its own right. Beyond these names the sources carry no description of repertoire, tuning, ensemble or occasion. Two of the objects shown here touch on performance only obliquely: the *choron* vessels belong to the serving of *kumis*, and the ivory game-pieces — cock figures and animal heads — to play rather than to music.
 
 ## Dance & theatre
 
@@ -51,7 +51,7 @@ The sources used do not cover Yakut dance or dramatic traditions; they name no d
 
 ## Festivals & rituals
 
-The sources used do not give a Yakut festival calendar or describe life-cycle rites, and name no annual festival. They do record several ritual attachments. Certain rock formations named *Kigilyakh*, and places such as Ynnakh Mountain, are held in high esteem by Yakuts. By the 1820s almost all Yakuts claimed to have converted to the Russian Orthodox church, but they retained — and still retain — a number of tengri practices. Among the Khoro (Khorin, Khorolors, Khori) Sakha, whose progenitor is held to be Uluu Khoro rather than Omogoy or Ellei, religious devotion focused on the Raven, noted in the mid-18th century by Lindenau as being addressed as "Our ancestor", "Our deity" and "Our grandfather"; the reverence is traced to the Raven's gift of a flint and tinder box to a struggling human, either the first Khoro man or his mother. The sources place this within a wider circum-Bering pattern of Raven reverence shared with the Haida, Tlingit and Tshisham of the North American Pacific Northwest Coast and with the Chukchi, Itelmen and Koryaks of the Siberian coast. The mythic mother goddess Aisyt (Ajysyt/Ajyhyt) is named as a related subject, as is Yakut shamanism, without further description.
+The sources record several ritual attachments. Certain rock formations named *Kigilyakh*, and places such as Ynnakh Mountain, are held in high esteem by Yakuts. By the 1820s almost all Yakuts claimed to have converted to the Russian Orthodox church, but they retained — and still retain — a number of tengri practices. Among the Khoro (Khorin, Khorolors, Khori) Sakha, whose progenitor is held to be Uluu Khoro rather than Omogoy or Ellei, religious devotion focused on the Raven, noted in the mid-18th century by Lindenau as being addressed as "Our ancestor", "Our deity" and "Our grandfather"; the reverence is traced to the Raven's gift of a flint and tinder box to a struggling human, either the first Khoro man or his mother. The sources place this within a wider circum-Bering pattern of Raven reverence shared with the Haida, Tlingit and Tshisham of the North American Pacific Northwest Coast and with the Chukchi, Itelmen and Koryaks of the Siberian coast. The mythic mother goddess Aisyt (Ajysyt/Ajyhyt) is named as a related subject, as is Yakut shamanism, without further description.
 
 ## Foodways
 

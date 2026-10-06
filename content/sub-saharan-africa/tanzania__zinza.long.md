@@ -13,7 +13,7 @@ The Zinza — *Wazinza* in Swahili — are a Bantu ethnolinguistic group of nort
 
 ### Textile & pattern traditions
 
-The sources contain no record of Zinza weaving, dyeing or bark-cloth production. What they do document is a plaited-grass tradition, and its patterning is the group's clearest surviving design vocabulary in this collection.
+What the sources do document is a plaited-grass tradition, and its patterning is the group's clearest surviving design vocabulary in this collection.
 
 **Black-and-white plaited grass basketry** — Baskets plaited from grass and patterned in black and white, together with a matching plaited lid, registered at the British Museum in 1950. The colour scheme is carried in the plaiting itself rather than applied afterwards.
 
@@ -29,7 +29,7 @@ The sources used here — the Wikipedia articles on the Zinza people and the Zin
 
 ### Architecture
 
-The sources do not describe Zinza houses, building materials, roof forms or settlement layout. They locate the group geographically — on the southwestern islands of Lake Victoria and on the shores of Chato and Geita Districts in Geita Region, and in Mwanza Region — but say nothing of the built environment there. One of the language studies is a lexical-change case study of Kome Island in Sengerema District, which confirms an island settlement as a Zinza-speaking place; it is cited for language rather than architecture.
+The sources locate the group geographically — on the southwestern islands of Lake Victoria and on the shores of Chato and Geita Districts in Geita Region, and in Mwanza Region — but say nothing of the built environment there. One of the language studies is a lexical-change case study of Kome Island in Sengerema District, which confirms an island settlement as a Zinza-speaking place; it is cited for language rather than architecture.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -47,11 +47,11 @@ The museum objects shown for the Zinza are containers, a headload cushion and sm
 
 ### Jewelry & body adornment
 
-No jewelry, beadwork, tattooing, scarification or hairdressing practice is described in the sources. The only personal-use objects recorded are the tobacco pipe and the snuff bottle listed above, and the head-ring, which is a carrying pad rather than an ornament.
+The only personal-use objects recorded are the tobacco pipe and the snuff bottle listed above, and the head-ring, which is a carrying pad rather than an ornament.
 
 ## Music & performance
 
-The sources used for this profile contain no information on Zinza instruments, song genres or performance occasions, and Tanzania has no UNESCO Intangible Cultural Heritage inscriptions that could be consulted here. The linguistic literature does touch on one sound-related subject, though not a musical one: David Odden's study of the phrasal tonology of Zinza, published in the *Journal of African Languages and Linguistics* in 2000, analyses the tone system of the spoken language.
+The linguistic literature does touch on one sound-related subject, though not a musical one: David Odden's study of the phrasal tonology of Zinza, published in the *Journal of African Languages and Linguistics* in 2000, analyses the tone system of the spoken language.
 
 ## Dance & theatre
 

@@ -43,7 +43,7 @@ Motu dress includes fibre skirts, waist coverings, ornaments, headwear, flowers,
 
 ### Architecture
 
-The profile identifies Hanuabada as the largest Motu village but does not describe Motu buildings.
+The profile identifies Hanuabada as the largest Motu village.
 
 - **Hanuabada** — Hanuabada is the largest Motu village and lies northwest of Port Moresby.
 
@@ -125,4 +125,3 @@ Motu is a vowel-based language, and Hiri Motu developed as a regional trade lang
 - Wikipedia, “[Motu language](https://en.wikipedia.org/wiki/Motu_language)”.
 - No UNESCO Intangible Cultural Heritage inscription for this country is included in the supplied sources.
 - British Museum online collection records for the Motu water vessel, skirt, tobacco pipe, fishing-net, ornaments, and photographic prints.
-

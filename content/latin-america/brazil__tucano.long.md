@@ -65,7 +65,7 @@ The outstanding document is a series of twelve watercolours by the painter Felic
 
 ## Language & religion
 
-Tucano (also Tukano or Tucana), whose own name for itself is *yeʼpâ-masa yee uúku͂sehé*, is a Tucanoan language of Amazonas in Brazil and of Colombia; many speakers of the endangered Tariana language are shifting to it. Its phonology turns the voiced stops into nasals between nasal vowels and prenasalises them after one. Because descent groups marry outside their own language, most Tucano speak two, three or more Tucanoan languages, and a longhouse commonly hosts several. The named descent groups include **Bara Tukano**, **Barasana**, **Cubeo** (who do not practise exogamy), **Desana**, **Macuna**, **Wanano** and Tucano proper; catalogue records add the group name Dasea, also written Dachsea or Daxsea. The sources do not describe the religious landscape beyond the healing and magical power ascribed to *carayarú* paint.
+Tucano (also Tukano or Tucana), whose own name for itself is *yeʼpâ-masa yee uúku͂sehé*, is a Tucanoan language of Amazonas in Brazil and of Colombia; many speakers of the endangered Tariana language are shifting to it. Its phonology turns the voiced stops into nasals between nasal vowels and prenasalises them after one. Because descent groups marry outside their own language, most Tucano speak two, three or more Tucanoan languages, and a longhouse commonly hosts several. The named descent groups include **Bara Tukano**, **Barasana**, **Cubeo** (who do not practise exogamy), **Desana**, **Macuna**, **Wanano** and Tucano proper; catalogue records add the group name Dasea, also written Dachsea or Daxsea.
 
 ## Sources & further reading
 

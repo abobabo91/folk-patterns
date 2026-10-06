@@ -25,11 +25,11 @@ The Anga — more accurately the *Ngas*, also recorded as *Agas* and *Angas* —
 
 ### Clothing & dress
 
-The one garment in the collection is a dress of tanned skin, probably goat, whose central area has been peeled and dyed black in a pattern that follows the natural outline of the hide — the shape of the animal, not an imposed grid, sets the design. Photographs of Hill and Plain Anga show men in loin-cloths, with caps, head-cloths, and a cloth worn across one shoulder. Women are photographed wearing a waist ornament with bunches of string or leaves hanging at front and back, arm and neck ornaments, ear-plugs and a narrow head-band, and carrying infants in slings of cloth or animal hide on the back; one woman carries a calabash and balances a rolled reed rain cape on her head while walking with a stick. Dress marking rank is recorded in a single portrait, of a man identified as the chief of Garram: a tunic and cap, an ivory bracelet, a spotted cat hide across one shoulder, a whip in his hand and a long pipe in his mouth. The sources do not describe a distinct costume for weddings or funerals.
+The one garment in the collection is a dress of tanned skin, probably goat, whose central area has been peeled and dyed black in a pattern that follows the natural outline of the hide — the shape of the animal, not an imposed grid, sets the design. Photographs of Hill and Plain Anga show men in loin-cloths, with caps, head-cloths, and a cloth worn across one shoulder. Women are photographed wearing a waist ornament with bunches of string or leaves hanging at front and back, arm and neck ornaments, ear-plugs and a narrow head-band, and carrying infants in slings of cloth or animal hide on the back; one woman carries a calabash and balances a rolled reed rain cape on her head while walking with a stick. Dress marking rank is recorded in a single portrait, of a man identified as the chief of Garram: a tunic and cap, an ivory bracelet, a spotted cat hide across one shoulder, a whip in his hand and a long pipe in his mouth.
 
 ### Architecture
 
-Ngas building answers directly to the plateau. On the plains of Amper the soil is strewn with granite, farmers work terraced fields, and the boulders themselves are used as foundations and as walling for houses. Photographs of compounds show clusters of circular buildings with thatched roofs, set close together and including structures that read as granaries; in one village the thatch has plants growing over it. The decorative element the photographs single out is relief patterning worked into the mud of exterior walls, on dwellings and on the granary-like structures alike, so that a compound presents several patterned surfaces at once. Doorways serve as sitting places: one image shows a man and a child seated in one, the man holding a young goat. The sources do not name Ngas house types in the vernacular or describe their interiors.
+Ngas building answers directly to the plateau. On the plains of Amper the soil is strewn with granite, farmers work terraced fields, and the boulders themselves are used as foundations and as walling for houses. Photographs of compounds show clusters of circular buildings with thatched roofs, set close together and including structures that read as granaries; in one village the thatch has plants growing over it. The decorative element the photographs single out is relief patterning worked into the mud of exterior walls, on dwellings and on the granary-like structures alike, so that a compound presents several patterned surfaces at once. Doorways serve as sitting places: one image shows a man and a child seated in one, the man holding a young goat.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,7 +37,7 @@ Ngas pottery in the collection runs from plain vases and a black burnished bowl 
 
 ### Jewelry & body adornment
 
-Ornament is documented photographically rather than by collected pieces. Women wear bead necklaces, other neck ornaments, arm ornaments and head-bands, with ear-plugs in both cylindrical and disc form and disc-shaped lip-plugs. Hair is dressed into a bowl-shaped style, and one photograph catches the work itself: two women dressing the hair of two others with small pointed tools, while a fifth holds a child. Men in the images wear arm and wrist ornaments; the chief of Garram is recorded wearing an ivory bracelet. The sources do not mention tattooing or scarification.
+Ornament is documented photographically rather than by collected pieces. Women wear bead necklaces, other neck ornaments, arm ornaments and head-bands, with ear-plugs in both cylindrical and disc form and disc-shaped lip-plugs. Hair is dressed into a bowl-shaped style, and one photograph catches the work itself: two women dressing the hair of two others with small pointed tools, while a fifth holds a child. Men in the images wear arm and wrist ornaments; the chief of Garram is recorded wearing an ivory bracelet.
 
 ## Music & performance
 
@@ -45,11 +45,11 @@ Two instrument types are securely Ngas in the collection. The first is a reed **
 
 ## Dance & theatre
 
-Dance is attested by its equipment rather than described. The iron leg rattle is catalogued explicitly as a dance rattle, and a masquerade helmet mask made of fibre and abrus seed shows masked performance among the Ngas. The sources do not name any dance, describe the masquerade's occasion or actors, or record a theatrical tradition.
+Dance is attested by its equipment rather than described. The iron leg rattle is catalogued explicitly as a dance rattle, and a masquerade helmet mask made of fibre and abrus seed shows masked performance among the Ngas.
 
 ## Festivals & rituals
 
-The Ngas keep one major festival, **Tsafi Tar**, also called **Mos Tar**, held at harvest time. Within it comes a brief rite called **Shooting the Moon**, which marks the close of one season and the opening of the next — the festival is a hinge in the agricultural year rather than a fixed calendar date. The ritual apparatus in the collection fits a festival economy of communal drinking and eating: the four-tubed pottery beer vessel is catalogued as ritual equipment, and the decorated skin dress is recorded as ceremonial. The masquerade helmet mask belongs to the same ceremonial register. A ritual belief rather than a rite is the best-documented piece of Ngas religious practice: *tuput*, "to die and come out", holds that a person who observed certain ritual practices in life may, after death, have their soul return to the body within two days and carry on living as though the death had not happened. The sources do not describe Ngas birth, initiation, marriage or funeral ceremonies.
+The Ngas keep one major festival, **Tsafi Tar**, also called **Mos Tar**, held at harvest time. Within it comes a brief rite called **Shooting the Moon**, which marks the close of one season and the opening of the next — the festival is a hinge in the agricultural year rather than a fixed calendar date. The ritual apparatus in the collection fits a festival economy of communal drinking and eating: the four-tubed pottery beer vessel is catalogued as ritual equipment, and the decorated skin dress is recorded as ceremonial. The masquerade helmet mask belongs to the same ceremonial register. A ritual belief rather than a rite is the best-documented piece of Ngas religious practice: *tuput*, "to die and come out", holds that a person who observed certain ritual practices in life may, after death, have their soul return to the body within two days and carry on living as though the death had not happened.
 
 ## Foodways
 
@@ -61,7 +61,7 @@ Ngas origins are carried in local folklore rather than in a written chronicle. T
 
 ## Language & religion
 
-Ngas is an Afro-Asiatic language, and the sources note no dialect divisions or writing tradition for it, though the collection's own distinction between Hill Anga and Plain Anga communities suggests a geographic split in usage. Many Ngas practise a syncretic form of Christianity in which pre-Christian belief has not been displaced but absorbed: the clearest instance is the survival of *tuput*, the conviction that the properly observant dead may return to the body within two days and resume life. Ritual objects — the beer vessel, the fibre-and-seed helmet mask, the ceremonial skin dress — indicate a body of practice the sources used here do not otherwise describe.
+Ngas is an Afro-Asiatic language, and the sources note no dialect divisions or writing tradition for it, though the collection's own distinction between Hill Anga and Plain Anga communities suggests a geographic split in usage. Many Ngas practise a syncretic form of Christianity in which pre-Christian belief has not been displaced but absorbed: the clearest instance is the survival of *tuput*, the conviction that the properly observant dead may return to the body within two days and resume life.
 
 ## Sources & further reading
 

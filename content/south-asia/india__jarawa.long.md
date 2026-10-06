@@ -21,31 +21,23 @@ The sources used here document no woven or patterned textile tradition. What the
 
 ### Clothing & dress
 
-The sources say little about garments. A belt of *pandanus* leaf is held in the British Museum collection, and a chest guard called *kekad* is worn when the Jarawa go hunting or on raids. Head-bands are documented in some variety: one of cane bark and bark twine set with king crow feathers, another of twine and feather, and a tiara or head-band of string with the feathers of the racket-tailed drongo — a second, incomplete example of the same form substitutes orchid stem for the feathers. Beyond these the sources used do not describe everyday or ceremonial dress, nor do they distinguish men's from women's clothing.
+The sources say little about garments. A belt of *pandanus* leaf is held in the British Museum collection, and a chest guard called *kekad* is worn when the Jarawa go hunting or on raids. Head-bands are documented in some variety: one of cane bark and bark twine set with king crow feathers, another of twine and feather, and a tiara or head-band of string with the feathers of the racket-tailed drongo — a second, incomplete example of the same form substitutes orchid stem for the feathers.
 
 ### Architecture
 
-The sources used do not describe Jarawa house forms, building materials or settlement layout. What they record of the built environment is indirect and external: settlements on the fringes of the Jarawa Reserve where several groups are now in regular contact with outsiders, the jetties, marketplaces and hospitals near the Great Andaman Trunk Road, and the resort established 3 km from the reserve in 2006 by the Indian travel company Barefoot.
+What the sources record of the built environment is indirect and external: settlements on the fringes of the Jarawa Reserve where several groups are now in regular contact with outsiders, the jetties, marketplaces and hospitals near the Great Andaman Trunk Road, and the resort established 3 km from the reserve in 2006 by the Indian travel company Barefoot.
 
 ### Ceramics, metalwork & everyday objects
 
-The documented object repertoire is a hunting and gathering kit. The bow, made of *chuiood* (Sageraea elliptica), is called *aao*; the arrow is *patho*, its wooden head made of Areca wood. The iron-headed arrow, *aetaho*, combines iron with Areca wood or bamboo. The British Museum's "pig arrows" are composites of wax, bark cord, iron, bark and cane, one of them also using orchid stem — the wax and cord being the means by which an iron head is bound to a cane shaft. Two adzes pair an iron blade with a wooden handle, one lashed with rattan and one with bark; a knife is of iron and bark. Wooden, cane and rattan buckets, leaf and cane baskets, string bags and a woman's string fishing-net complete the household inventory. Iron in these objects is worked, not smelted: the sources do not say where it came from.
+The documented object repertoire is a hunting and gathering kit. The bow, made of *chuiood* (Sageraea elliptica), is called *aao*; the arrow is *patho*, its wooden head made of Areca wood. The iron-headed arrow, *aetaho*, combines iron with Areca wood or bamboo. The British Museum's "pig arrows" are composites of wax, bark cord, iron, bark and cane, one of them also using orchid stem — the wax and cord being the means by which an iron head is bound to a cane shaft. Two adzes pair an iron blade with a wooden handle, one lashed with rattan and one with bark; a knife is of iron and bark. Wooden, cane and rattan buckets, leaf and cane baskets, string bags and a woman's string fishing-net complete the household inventory.
 
 ### Jewelry & body adornment
 
-Ornament in the collection is made of cord, twine, string and feathers rather than metal or stone. An arm ornament is of cord; a head ornament of twine and feather; a garter or neck ornament of string; and one piece is catalogued uncertainly as either a necklace or a waist-band, made of cord. The feather head-dresses — king crow on one head-band, racket-tailed drongo on a string tiara — are the most elaborated pieces. The sources used do not document tattooing, body painting, scarification or hair practices.
-
-## Music & performance
-
-The sources used do not describe Jarawa instruments, song genres or musical occasions.
+Ornament in the collection is made of cord, twine, string and feathers rather than metal or stone. An arm ornament is of cord; a head ornament of twine and feather; a garter or neck ornament of string; and one piece is catalogued uncertainly as either a necklace or a waist-band, made of cord. The feather head-dresses — king crow on one head-band, racket-tailed drongo on a string tiara — are the most elaborated pieces.
 
 ## Dance & theatre
 
 The sources record dance only through an incident of coercion rather than as a tradition: in 2012 a video shot by a tourist showed Jarawa women being encouraged to dance by an off-camera policeman. This belongs to the history of tourist intrusion into the reserve, not to any documented performance form; the sources used describe no named dance or dramatic tradition.
-
-## Festivals & rituals
-
-The sources used do not document a festival calendar or life-cycle rites for the Jarawa.
 
 ## Foodways
 
@@ -53,11 +45,11 @@ The Jarawa are hunter-forager-fishermen, and a nomadic tribe. They hunt endemic 
 
 ## Oral tradition & literature
 
-The sources used do not record Jarawa folktales, epic poetry, proverbs or storytelling contexts. They do note one thread of tribal memory: the Jarawa regarded the now-extinct Jangil as a parent tribe from which they split centuries or millennia ago, even though the Jarawa outnumbered and eventually out-survived them. The Jangil, also called the Rutland Island Aka Bea, were presumed extinct by 1931.
+The sources note one thread of tribal memory: the Jarawa regarded the now-extinct Jangil as a parent tribe from which they split centuries or millennia ago, even though the Jarawa outnumbered and eventually out-survived them. The Jangil, also called the Rutland Island Aka Bea, were presumed extinct by 1931.
 
 ## Language & religion
 
-The Jarawa language belongs to the Ongan (Andamanese) family; Ongan, also called Jarawa-Onge, is a subfamily within the Andamanese group. The Jarawa are linguistically as well as culturally distinguished from the Greater Andamanese, who today number 59 individuals living on Strait Island, and the relationship between the two clades is typological rather than cognatic. From the 1970s, as the Great Andaman Trunk Road opened their western homeland, the Jarawa became accessible to some Indian linguists; from 1997 they began initiating contact themselves, and in the process learned other languages. The name Jarawa is shared with unrelated languages — an entirely separate Jarawa language is a Bantu language of Nigeria. The sources used do not describe Jarawa religion or spiritual practice.
+The Jarawa language belongs to the Ongan (Andamanese) family; Ongan, also called Jarawa-Onge, is a subfamily within the Andamanese group. The Jarawa are linguistically as well as culturally distinguished from the Greater Andamanese, who today number 59 individuals living on Strait Island, and the relationship between the two clades is typological rather than cognatic. From the 1970s, as the Great Andaman Trunk Road opened their western homeland, the Jarawa became accessible to some Indian linguists; from 1997 they began initiating contact themselves, and in the process learned other languages. The name Jarawa is shared with unrelated languages — an entirely separate Jarawa language is a Bantu language of Nigeria.
 
 ## Sources & further reading
 

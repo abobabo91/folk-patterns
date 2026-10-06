@@ -29,45 +29,41 @@ The sources name no further Dyula textile traditions or motif vocabulary beyond 
 
 ### Clothing & dress
 
-The museum records document women’s wrappers and a smock. The wrappers are sewn from narrow cotton strips and use indigo, white, red, yellow and green yarns, with ikat, stripes, checks, supplementary weft patterns, fringes and machine-sewn or hand-sewn hems. One wrapper is specifically called *Suruku kawa*. The smock is made from a single cloth folded in two, with a head opening and stitched sides below the armpits; its seven strips use white, blue and red thread, including blue ikat and checked patterns. The sources do not describe everyday and ceremonial distinctions, head coverings, belts, footwear or other forms of dress.
+The museum records document women’s wrappers and a smock. The wrappers are sewn from narrow cotton strips and use indigo, white, red, yellow and green yarns, with ikat, stripes, checks, supplementary weft patterns, fringes and machine-sewn or hand-sewn hems. One wrapper is specifically called *Suruku kawa*. The smock is made from a single cloth folded in two, with a head opening and stitched sides below the armpits; its seven strips use white, blue and red thread, including blue ikat and checked patterns.
 
 ### Architecture
 
-Dyula men and women traditionally reside in separate houses made of mud or cement. Men occupy roundhouses and women rectangular houses. The city of Kong was rebuilt in a traditional Sudano-Sahelian architectural style and features the seventeenth-century Kong Friday Mosque and a Qur’anic school. The sources do not describe roof types, courtyards, domestic decoration or further named Dyula building forms.
+Dyula men and women traditionally reside in separate houses made of mud or cement. Men occupy roundhouses and women rectangular houses. The city of Kong was rebuilt in a traditional Sudano-Sahelian architectural style and features the seventeenth-century Kong Friday Mosque and a Qur’anic school.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum records include a wooden stool with four legs and a human head projecting from the end of the seat as a handle. They also list two brass bridles with leather straps. The records document wooden masks, including horned masks, cow-head masks, and masks shaped as human faces with carved or painted decoration. The sources do not describe Dyula ceramics, cooking vessels, agricultural tools or other household goods.
-
-### Jewelry & body adornment
-
-The sources used do not cover Dyula jewelry, personal ornaments, tattoos, henna, hair practices or other forms of body adornment.
+The museum records include a wooden stool with four legs and a human head projecting from the end of the seat as a handle. They also list two brass bridles with leather straps. The records document wooden masks, including horned masks, cow-head masks, and masks shaped as human faces with carved or painted decoration.
 
 ## Music & performance
 
-The sources describe cultural history expressed through oral traditions of dance and storytelling, but they do not name musical instruments, song genres, performance ensembles or specific musical occasions. They also do not provide information about weddings, funerals, court music or other performance contexts.
+The sources describe cultural history expressed through oral traditions of dance and storytelling.
 
-Dyula religious and scholarly life included instruction in the Quran and commentary (*tafsir*), hadith and the life of Muhammad. The karamogo clerical tradition involved study under a single sheikh for a period varying from five to thirty years. After completing studies, a karamogo could receive a turban and an isnad, or teaching license, and could become an imam or qadi. The sources do not identify musical forms associated with these institutions.
+Dyula religious and scholarly life included instruction in the Quran and commentary (*tafsir*), hadith and the life of Muhammad. The karamogo clerical tradition involved study under a single sheikh for a period varying from five to thirty years. After completing studies, a karamogo could receive a turban and an isnad, or teaching license, and could become an imam or qadi.
 
 ## Dance & theatre
 
-Dyula cultural history and devotion are expressed through oral traditions of dance and storytelling. The sources do not name particular dances, mask-dance traditions, dramatic genres, theatres or performance occasions. The museum records document wooden masks, including horned masks, cow masks and human-face masks, but do not state how these objects were used.
+Dyula cultural history and devotion are expressed through oral traditions of dance and storytelling. The museum records document wooden masks, including horned masks, cow masks and human-face masks.
 
 ## Festivals & rituals
 
-The sources do not provide an annual Dyula festival calendar, named seasonal festivals or dates for communal celebrations. They describe Islamic practice, pilgrimage and religious education, including the hajj to Mecca undertaken by several rulers and by Sheikh Al-Hajj Salim Suwari. The Suwarian tradition emphasized peaceful coexistence with unbelievers, Muslim learning and piety, acceptance of non-Muslim jurisdiction when religious practice was protected, and opposition to military jihad unless the faithful were threatened.
+The sources describe Islamic practice, pilgrimage and religious education, including the hajj to Mecca undertaken by several rulers and by Sheikh Al-Hajj Salim Suwari. The Suwarian tradition emphasized peaceful coexistence with unbelievers, Muslim learning and piety, acceptance of non-Muslim jurisdiction when religious practice was protected, and opposition to military jihad unless the faithful were threatened.
 
-Dyula society is patrilineal and patriarchal. The father heads the family and inheritances pass from fathers to sons. Young people are often encouraged to marry within their own clan, and polygamy continues despite being illegal. The sources do not describe birth ceremonies, coming-of-age rites, wedding procedures or funerals.
+Dyula society is patrilineal and patriarchal. The father heads the family and inheritances pass from fathers to sons. Young people are often encouraged to marry within their own clan, and polygamy continues despite being illegal.
 
 ## Foodways
 
-The sources name gold, millet, slaves and kola nuts among important trade goods, with kola nuts coming from the south. They also describe salt, cloth, gold and kola nuts as goods exchanged through Kong, together with slaves and northern desert products. The sources do not describe Dyula cooking methods, staple meals, named dishes, ceremonial foods, tea or coffee traditions, or dietary rules.
+The sources name gold, millet, slaves and kola nuts among important trade goods, with kola nuts coming from the south. They also describe salt, cloth, gold and kola nuts as goods exchanged through Kong, together with slaves and northern desert products.
 
 ## Oral tradition & literature
 
 Dyula clan affiliation remains an important part of collective and individual identity, and people express cultural history and devotion through oral traditions of dance and storytelling. The sources also identify a substantial written Islamic literary tradition. Dyula scholars produced and circulated Quranic commentary, hadith and historical writings, while Arabic manuscripts associated with Dyula-Wangara Muslims were collected in Ghana.
 
-The *Isnad al-shuyukh wa’l-ulama*, also called *Kitab Ghunja*, was compiled by al-Hajj ‘Umar ibn Abi Bakr ibn ‘Uthman al-Kabbawi al-Kanawi al-Salaghawi of Kete-Krachi. The sources also mention al-Hajj Osmanu Eshaka Boyo of Kintampo and describe his work bringing together Arabic manuscripts from Ghana. The sources do not name a Dyula epic, proverb collection or riddle tradition. A further reading title is *Nsiirin! Nsiirin! Jula folktales from West Africa*.
+The *Isnad al-shuyukh wa’l-ulama*, also called *Kitab Ghunja*, was compiled by al-Hajj ‘Umar ibn Abi Bakr ibn ‘Uthman al-Kabbawi al-Kanawi al-Salaghawi of Kete-Krachi. The sources also mention al-Hajj Osmanu Eshaka Boyo of Kintampo and describe his work bringing together Arabic manuscripts from Ghana. A further reading title is *Nsiirin! Nsiirin! Jula folktales from West Africa*.
 
 ## Language & religion
 

@@ -43,10 +43,6 @@ Karen clothing records show cotton blouses, robes, breeches, tunics, sarongs, tu
 - **Striped blanket or hood** — A blanket or hood is made from striped cloth folded and sewn down one side.
 - **Loincloth** — A long narrow North Thai cotton loincloth has a blue ground, ikat stripes, and twisted fringes.
 
-### Architecture
-
-The supplied sources do not describe Karen buildings or village architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Karen everyday objects include clay bowls, lacquer and cane boxes, baskets, hunting tools, bells, and knives.
@@ -73,10 +69,6 @@ Karen musical objects include string instruments, reed instruments, bells, horns
 - **Horn-like reed instrument** (*kwai*) — The side-blown kwai has a beating reed and two joined wooden halves.
 - **Buffalo bell** (*kauklo*) — The buffalo bell called kauklo is made from bamboo pieces with wooden clappers.
 - **Bronze drum** — One bronze drum has elephants and snails along its side and four single frogs on top.
-
-## Dance & theatre
-
-The supplied sources do not describe Karen dances, theatre, puppetry, masks, or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -134,10 +126,8 @@ Karenic languages use a modified Mon–Burmese script, while Karen religion comb
 
 ## Sources & further reading
 
-- The sources supplied do not provide bibliographic details for books or named documentation projects.
 - [Karen peoples](https://en.wikipedia.org/wiki/Karen_peoples)
 - [Karen language](https://en.wikipedia.org/wiki/Karen_language)
 - [Karen cuisine](https://en.wikipedia.org/wiki/Karen_cuisine)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group was supplied; the supplied UNESCO list states that there are no inscriptions for Myanmar.
 - The supplied museum catalogue records are from the Museum of World Culture, the British Museum, and the Finnish Heritage Agency.
-

@@ -33,7 +33,7 @@ The sources used describe only one item of Wapishana dress: a woman's apron made
 
 ### Architecture
 
-Early Wapishana settlements were temporary clusters of homes; since the twentieth century villages have been permanent and usually arranged around a church, with schools, meeting houses and shops added by government. Villagers gather at the church or school to discuss local affairs, and men often play soccer in open ground nearby afterwards; the dwelling itself appears in the sources only through its roof, from which the manioc press is hung. In some places people have preferred to live in open country at a distance from their fields, putting up separate structures at the farms for food processing; a few families live on their farms, though others in the community look on this poorly. Land is not held as private property, and house and garden space is assigned flexibly, with newcomers required to obtain permission from villagers before settling. Brazilian villages average about 150 inhabitants and Guyanese ones about 500. The sources do not describe house form, materials, roof construction or architectural decoration.
+Early Wapishana settlements were temporary clusters of homes; since the twentieth century villages have been permanent and usually arranged around a church, with schools, meeting houses and shops added by government. Villagers gather at the church or school to discuss local affairs, and men often play soccer in open ground nearby afterwards; the dwelling itself appears in the sources only through its roof, from which the manioc press is hung. In some places people have preferred to live in open country at a distance from their fields, putting up separate structures at the farms for food processing; a few families live on their farms, though others in the community look on this poorly. Land is not held as private property, and house and garden space is assigned flexibly, with newcomers required to obtain permission from villagers before settling. Brazilian villages average about 150 inhabitants and Guyanese ones about 500.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -41,15 +41,7 @@ Women make clay cooking pots. The storage jar in the Museum of Ethnography is bu
 
 ### Jewelry & body adornment
 
-The collection holds one ornament: a child's bead necklace with a tapir hoof and toucan beaks hung from it, collected by Walter Roth in British Guiana. Feather decoration otherwise appears on objects rather than persons — red, blue and black feathers finish the corners and rims of sifters, squeezers, backpacks and children's baskets. The sources used do not describe tattooing, body painting, hair practices or other adornment.
-
-## Music & performance
-
-The sources used do not cover Wapishana instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Wapishana dance or dramatic traditions.
+The collection holds one ornament: a child's bead necklace with a tapir hoof and toucan beaks hung from it, collected by Walter Roth in British Guiana. Feather decoration otherwise appears on objects rather than persons — red, blue and black feathers finish the corners and rims of sifters, squeezers, backpacks and children's baskets.
 
 ## Festivals & rituals
 
@@ -57,7 +49,7 @@ Healing and death furnish what the sources record of ritual life. Certain men on
 
 ## Foodways
 
-Cassava is the crop at the centre of Wapishana life, and has a bewildering variety of names in the language. Women grate it, express its juice, sieve it and toast it on iron griddles into flour and thick flat breads, locally called *beiju*; the poisonous juice is driven out beforehand in the plaited press, *nirsh*. Cassava beer was stored in coil-built clay jars. Other crops include sweet potatoes and further roots, squashes, tomatoes, greens, onions, dozens of kinds of hot pepper and many more. Men hunt deer, agouti, wild turkeys and birds; the whole family fishes. Cattle, swine, chickens, ducks and other animals introduced over the past two centuries are now part of the ordinary diet. Exchange of produce, animals and homemade food brings in the small sums of cash used to buy store food and household goods. Peddlers occasionally try to trade, but these transactions are exploitative and avoided by all but the most isolated. The sources do not describe ceremonial dishes, beverages beyond cassava beer, or dietary rules.
+Cassava is the crop at the centre of Wapishana life, and has a bewildering variety of names in the language. Women grate it, express its juice, sieve it and toast it on iron griddles into flour and thick flat breads, locally called *beiju*; the poisonous juice is driven out beforehand in the plaited press, *nirsh*. Cassava beer was stored in coil-built clay jars. Other crops include sweet potatoes and further roots, squashes, tomatoes, greens, onions, dozens of kinds of hot pepper and many more. Men hunt deer, agouti, wild turkeys and birds; the whole family fishes. Cattle, swine, chickens, ducks and other animals introduced over the past two centuries are now part of the ordinary diet. Exchange of produce, animals and homemade food brings in the small sums of cash used to buy store food and household goods. Peddlers occasionally try to trade, but these transactions are exploitative and avoided by all but the most isolated.
 
 ## Oral tradition & literature
 

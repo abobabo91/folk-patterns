@@ -151,12 +151,9 @@ Yaka religious life centers on ancestors, divination, healing, protective power,
 
 ## Sources & further reading
 
-- The supplied sources do not include books or named scholarly monographs.
-- The supplied sources do not identify a separate documentation project or named scholar for Yaka culture.
 - Wikipedia, “Yaka people”: https://en.wikipedia.org/wiki/Yaka_people
 - Wikipedia, “Yaka language”: https://en.wikipedia.org/wiki/Yaka_language
 - The supplied UNESCO Intangible Cultural Heritage source lists no inscriptions for the Democratic Republic of the Congo.
 - British Museum catalogue records supplied for Yaka swords, adzes, spears, bows, arrows, hats, cups, baskets, slit drums, whistles, masks and figures.
 - Cleveland Museum of Art catalogue records supplied for Figure (kiteki) and Mask (ndeemba).
 - Museum of World Culture catalogue record supplied for a Yaka mask.
-

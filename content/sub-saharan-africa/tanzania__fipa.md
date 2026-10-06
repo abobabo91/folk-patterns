@@ -59,8 +59,6 @@ Hereditary ironworkers made tools and weapons, while women made coil-built potte
 
 ### Jewelry & body adornment
 
-The sources do not describe jewelry, tattoos, or named decorative body arts.
-
 - **Labial extension** — Unmarried girls traditionally extended their labia minora by constant manipulation, which was thought to increase sexual attractiveness and help with childbirth.
 
 ## Music & performance
@@ -69,11 +67,9 @@ Fipa vocal and ritual performance included chanting, while the sources do not na
 
 - **Women’s death chant** — When a woman died in childbirth, women wept and chanted inside the hut while men sat outside.
 - **Spoken art** — A 1978 work titled There was a certain man: Spoken art of the Fipa records a spoken-art tradition.
-- **Reed whistle** — The sources list a reed, wax, leaf, and rattan whistle but do not explain its use.
+- **Reed whistle** — The sources list a reed, wax, leaf, and rattan whistle.
 
 ## Dance & theatre
-
-The sources do not name Fipa dance or theatre forms.
 
 - **Epidemic dance ban** — Dances were forbidden during an epidemic, and children stopped playing noisy games.
 
@@ -136,4 +132,3 @@ Fipa religious life joined a supreme creator with local spirits, ancestors, sacr
 - *Fipa language*, Wikipedia: https://en.wikipedia.org/wiki/Fipa_language
 - British Museum catalogue records for the bow, arrows, arrow-heads, leather pouch, loom parts, and whistle shown with this atlas. 
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is identified in the sources used.
-

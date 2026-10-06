@@ -29,7 +29,7 @@ Men's dress in the collection centres on woven cotton shorts, cut from two folde
 
 ### Architecture
 
-The sources describe the shaped landscape rather than the house. Konso agriculture works by irrigation and by terracing mountain slopes, and the people typically live in large towns, each with its own council of elders — a settlement pattern that sets them apart from dispersed homestead farming in the region. The sources used do not describe Konso house form, building materials, roofing or architectural ornament.
+The sources describe the shaped landscape rather than the house. Konso agriculture works by irrigation and by terracing mountain slopes, and the people typically live in large towns, each with its own council of elders — a settlement pattern that sets them apart from dispersed homestead farming in the region.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -41,11 +41,11 @@ Adornment draws on metal, animal materials and imported beads. Aluminium is work
 
 ## Music & performance
 
-The instruments held for the Konso are wind, struck and rattling. *Pan-pipes* are made from eight stalks of millet bound with vegetable fibre. A flute is carved from wood with four fingering holes, and a whistle is made from a seed pod. A wooden horn or trumpet with a leather suspension loop has a civic rather than musical use: it is sounded for calling assemblies, which fits a society governed town by town through councils of elders. Percussion is worn as much as played — a rattle strung with antelope leg bones decorated with glass beads, and an iron bell with an iron clapper hung from a leather loop. Two ornaments in the collection are explicitly dance equipment: the men's corslet of seeds strung on fibre and the chestlet of beetle wing cases threaded on *Ensete* string and worn diagonally across the chest by men when dancing. Together with the beaded fibre apron used by women in dances, they indicate that Konso performance was carried on the body, with sound produced by the dancer's own movement. The sources used do not name Konso song genres, ensembles or musical repertoire.
+The instruments held for the Konso are wind, struck and rattling. *Pan-pipes* are made from eight stalks of millet bound with vegetable fibre. A flute is carved from wood with four fingering holes, and a whistle is made from a seed pod. A wooden horn or trumpet with a leather suspension loop has a civic rather than musical use: it is sounded for calling assemblies, which fits a society governed town by town through councils of elders. Percussion is worn as much as played — a rattle strung with antelope leg bones decorated with glass beads, and an iron bell with an iron clapper hung from a leather loop. Two ornaments in the collection are explicitly dance equipment: the men's corslet of seeds strung on fibre and the chestlet of beetle wing cases threaded on *Ensete* string and worn diagonally across the chest by men when dancing. Together with the beaded fibre apron used by women in dances, they indicate that Konso performance was carried on the body, with sound produced by the dancer's own movement.
 
 ## Dance & theatre
 
-Dance is attested in the sources only through the objects made for it: the man's seed corslet, the beetle-wing-case chestlet worn diagonally across the chest by men when dancing, and the beaded pubic apron of fibre string on a leather belt used by women in dances. The sources used do not name individual Konso dances or any dramatic or masking tradition.
+Dance is attested in the sources only through the objects made for it: the man's seed corslet, the beetle-wing-case chestlet worn diagonally across the chest by men when dancing, and the beaded pubic apron of fibre string on a leather belt used by women in dances.
 
 ## Festivals & rituals
 
@@ -53,11 +53,11 @@ Konso ritual life in the sources is organised around generation, office and the 
 
 ## Foodways
 
-Konso farming is largely agricultural and depends on irrigating and terracing mountain slopes. The staple crops are sorghum and corn; cotton and coffee are grown as cash crops. Cattle, sheep and goats are raised for food and milk. The kitchen objects in the collection give the rest: an earthenware pot with two ring handles used for boiling water, a wooden bowl or platter used for eating, and a wooden coffee cup. Tobacco is consumed in two forms — smoked in a water-pipe whose pottery bowl still held traces of tobacco, and taken as snuff from a bone snuff-box with hide ends. *Ensete* is present as a fibre source for ornament string. The sources used do not name Konso dishes, preparation methods, ceremonial food or dietary rules.
+Konso farming is largely agricultural and depends on irrigating and terracing mountain slopes. The staple crops are sorghum and corn; cotton and coffee are grown as cash crops. Cattle, sheep and goats are raised for food and milk. The kitchen objects in the collection give the rest: an earthenware pot with two ring handles used for boiling water, a wooden bowl or platter used for eating, and a wooden coffee cup. Tobacco is consumed in two forms — smoked in a water-pipe whose pottery bowl still held traces of tobacco, and taken as snuff from a bone snuff-box with hide ends. *Ensete* is present as a fibre source for ornament string.
 
 ## Oral tradition & literature
 
-The sources report Konso family traditions as a body of historical narrative: they hold that the Konso are a composite people, physically and culturally, whose members originally came from all the surrounding areas. Written Konso is recent. An alphabet was developed by the SNNPR education bureau together with SIL Ethiopia, with financial support from Wycliffe Norway; it is used in a Konso dictionary and has been adopted by the Konso for general use, alongside transcription in the Ethiopic script. The New Testament appeared in Konso in 2002. Scholarly documentation of the language began with Hellenthal's 2004 morphosyntactic study and was extended by Ongaye Oda Orkaydo's 2013 grammar. Kansite Gellebo's 2018 article *Waakka: Contemporary contexts of memorial emblems for Konso heroes* addresses the memorial figures. The sources used do not record Konso folktales, epics, proverbs or riddles individually.
+The sources report Konso family traditions as a body of historical narrative: they hold that the Konso are a composite people, physically and culturally, whose members originally came from all the surrounding areas. Written Konso is recent. An alphabet was developed by the SNNPR education bureau together with SIL Ethiopia, with financial support from Wycliffe Norway; it is used in a Konso dictionary and has been adopted by the Konso for general use, alongside transcription in the Ethiopic script. The New Testament appeared in Konso in 2002. Scholarly documentation of the language began with Hellenthal's 2004 morphosyntactic study and was extended by Ongaye Oda Orkaydo's 2013 grammar. Kansite Gellebo's 2018 article *Waakka: Contemporary contexts of memorial emblems for Konso heroes* addresses the memorial figures.
 
 ## Language & religion
 

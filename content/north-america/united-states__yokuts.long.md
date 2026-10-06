@@ -27,41 +27,33 @@ Yokuts basketry styles are also discussed in connection with prehistoric central
 
 **Motif vocabulary.** Black geometrical ornament, black bands, double zigzag ornament, patterns in black and dark brown.
 
-### Clothing & dress
-
-The sources used do not cover everyday or ceremonial clothing, named garments, head coverings, belts, footwear, or distinctions between men’s and women’s dress.
-
-### Architecture
-
-The sources used do not describe Yokuts houses, roofs, building materials, named architectural forms, or architectural decoration.
-
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not describe Yokuts ceramics or metalwork. They do document baskets used as food-serving bowls, dice trays, and containers for gifts and ceremonial objects. Yokuts used spears, basket traps, and other tools for fishing and hunting. They also used marine shells as a form of money, indicating a functional monetary system.
+The sources document baskets used as food-serving bowls, dice trays, and containers for gifts and ceremonial objects. Yokuts used spears, basket traps, and other tools for fishing and hunting. They also used marine shells as a form of money, indicating a functional monetary system.
 
 ### Jewelry & body adornment
 
-The sources state that tattoos and piercings were forms of bodily artistic expression among the Yokuts. They do not provide names for particular adornments, describe jewelry types, or explain ritual functions for tattoos, piercings, hair practices, or other forms of body decoration.
+The sources state that tattoos and piercings were forms of bodily artistic expression among the Yokuts.
 
 ## Music & performance
 
-The sources identify music and singing as forms of Yokuts artistic expression. They do not name particular instruments or song genres. Two important religious ceremonies were the annual mourning rite and the first fruit rite. Shamans were believed to have supernatural powers, helped conduct ceremonies, and treated the sick. The sources do not describe the musical structures, instruments, dances, or performance settings associated with these ceremonies.
+The sources identify music and singing as forms of Yokuts artistic expression. Two important religious ceremonies were the annual mourning rite and the first fruit rite. Shamans were believed to have supernatural powers, helped conduct ceremonies, and treated the sick.
 
 ## Dance & theatre
 
-The sources used do not name Yokuts dances, dramatic traditions, theatre forms, or mask performances. They state only that the crow and the eagle continued to be symbolic figures in Yokuts religious ceremonies.
+The sources state only that the crow and the eagle continued to be symbolic figures in Yokuts religious ceremonies.
 
 ## Festivals & rituals
 
-Yokuts religious life included the annual mourning rite and the first fruit rite. The sources do not provide dates or detailed calendars for these ceremonies. Many stories explain how the Yokuts and their land came to be. In a common form of the creation story, the world was covered in water until an eagle and a crow encountered a duck; the duck brought mud from the water, and this mud became the land of the Yokuts, specifically the Sierra Nevada and the Coast Mountains.
+Yokuts religious life included the annual mourning rite and the first fruit rite. Many stories explain how the Yokuts and their land came to be. In a common form of the creation story, the world was covered in water until an eagle and a crow encountered a duck; the duck brought mud from the water, and this mud became the land of the Yokuts, specifically the Sierra Nevada and the Coast Mountains.
 
-Shamans held an important ceremonial role. They were believed to possess supernatural powers and could treat illness, but the sources state that they could use their power for good or evil and could be executed depending on how they used it. The sources do not describe birth, coming-of-age, wedding, or funeral rites beyond the annual mourning rite.
+Shamans held an important ceremonial role. They were believed to possess supernatural powers and could treat illness, but the sources state that they could use their power for good or evil and could be executed depending on how they used it.
 
 ## Foodways
 
 Acorn mash was the Yokuts staple food. They also made flour from tule roots and wild iris bulbs. Their diet included game birds, waterfowl, rabbits, turtles, fish, and mussels. Deer, elk, and pronghorn were hunted less frequently. Wasp grubs were harvested as a seasonal delicacy and source of protein.
 
-Yokuts collected salt from salt grass and foraged manzanita berries, pine nuts, and other seeds. They gardened tobacco rather than food. Fishing and hunting used spears, basket traps, and other tools. The sources do not name additional dishes, cooking vessels, beverages, dietary rules, or ceremonial foods.
+Yokuts collected salt from salt grass and foraged manzanita berries, pine nuts, and other seeds. They gardened tobacco rather than food. Fishing and hunting used spears, basket traps, and other tools.
 
 ## Oral tradition & literature
 

@@ -23,48 +23,12 @@ The Tongwe live in western Tanzania, along the eastern shore of Lake Tanganyika.
 
 The documented material culture includes carved wooden ladles with burned black stains and iron adzes with wooden handles.
 
-### Textile & pattern traditions
-
-The supplied sources do not document Tongwe textile or pattern traditions.
-
-### Clothing & dress
-
-The supplied sources do not document Tongwe clothing or dress.
-
-### Architecture
-
-The supplied sources do not document Tongwe houses, buildings, or settlement forms.
-
 ### Ceramics, metalwork & everyday objects
 
 Museum records describe carved wooden ladles and iron adzes.
 
 - **Carved wooden ladle** — The ladles have incised carving on their handles, with black stains in some parts made by burning.
 - **Iron adze** — The adze has an iron blade and a wooden handle.
-
-### Jewelry & body adornment
-
-The supplied sources do not document Tongwe jewelry or body adornment.
-
-## Music & performance
-
-The supplied sources do not document Tongwe music or performance traditions.
-
-## Dance & theatre
-
-The supplied sources do not document Tongwe dance or theatre traditions.
-
-## Festivals & rituals
-
-The supplied sources do not document Tongwe festivals or rituals.
-
-## Foodways
-
-The supplied sources do not document Tongwe foods, cooking, or dietary rules.
-
-## Oral tradition & literature
-
-The supplied sources do not document Tongwe folktales, proverbs, riddles, or literature.
 
 ## Language & religion
 
@@ -84,4 +48,3 @@ Tongwe and Bende are related Bantu languages classified in Zone F.10, while Tong
 - “Tongwe language,” Wikipedia: https://en.wikipedia.org/wiki/Tongwe_language
 - Nurse & Philippson (2003), cited in the Wikipedia article “Tongwe language.”
 - British Museum catalogue records for wooden ladles with incised carving and black staining produced by burning, and an iron adze with a wooden handle.
-

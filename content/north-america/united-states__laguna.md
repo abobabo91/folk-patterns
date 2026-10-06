@@ -32,10 +32,6 @@ The sources do not document a distinct Laguna textile tradition, but they descri
 - **Cloud designs** (*cloud motifs*) — Cloud motifs appeared on Laguna vessels.
 - **Animal designs** (*animal motifs*) — Animal motifs appeared on Laguna vessels.
 
-### Clothing & dress
-
-The sources do not describe Laguna everyday or ceremonial clothing.
-
 ### Architecture
 
 Mission San José de la Laguna is the best-documented Laguna building and combines Spanish Catholic and Pueblo features.
@@ -63,14 +59,6 @@ The sources document a steel necklace with squash blossoms and a steel bracelet 
 - **Squash-blossom necklace** (*steel necklace*) — The necklace has a flexible band, hooks at both ends, and 19 steel squash-blossom forms.
 - **Mountain-line bracelet** (*steel bracelet*) — The bracelet has two silver bands on the front divided by a zig-zag mountain line.
 
-## Music & performance
-
-The sources do not document Laguna instruments, songs, or musical performance practices.
-
-## Dance & theatre
-
-The sources do not document Laguna dances, theatre, masked performances, or named dramatic traditions.
-
 ## Festivals & rituals
 
 Laguna residents return for sacred ceremonies and Feast Days, and some communities celebrate Grab Day.
@@ -82,7 +70,7 @@ Laguna residents return for sacred ceremonies and Feast Days, and some communiti
 
 ## Foodways
 
-The sources mention farming, waterfowl, and community gardens but do not describe Laguna foods or cooking.
+The sources mention farming, waterfowl, and community gardens.
 
 - **Rio San José farming** (*farming*) — Laguna people historically farmed along the Rio San José.
 - **Waterfowl resources** (*waterfowl*) — The historic lake supported ducks, geese, and swans.
@@ -137,4 +125,3 @@ Laguna traditionally speaks Western Keresan, and its religious life combines Ker
 - Laguna Pueblo, [Wikipedia](https://en.wikipedia.org/wiki/Laguna_Pueblo).
 - Laguna language, [Wikipedia](https://en.wikipedia.org/wiki/Laguna_language).
 - The sources supplied identify no UNESCO Intangible Cultural Heritage inscription for this group.
-

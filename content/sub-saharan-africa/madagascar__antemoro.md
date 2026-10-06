@@ -64,14 +64,6 @@ Antemoro wear amulets inscribed with Qur'anic verses in sorabe script, made and 
 
 - **Qur'anic amulet** — Charm inscribed with verses of the Qur'an in sorabe script, worn for protection and spiritual power.
 
-## Music & performance
-
-Sources do not cover Antemoro musical instruments, song genres, or performance occasions.
-
-## Dance & theatre
-
-Sources do not cover Antemoro dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Antemoro ritual life centers on animal sacrifice for ancestors, divination, clan endogamy, and fady taboos that structure both social life and politics.
@@ -137,4 +129,3 @@ Antemoro speak a Malagasy dialect traditionally written in sorabe script and pra
 - Wikipedia: https://en.wikipedia.org/wiki/Antemoro_people
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Madagascar
 - British Museum online collection: https://www.britishmuseum.org/collection
-

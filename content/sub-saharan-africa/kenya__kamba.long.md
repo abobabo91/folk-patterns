@@ -25,13 +25,13 @@ The Kamba, or Akamba, are a Bantu-speaking people of southeastern Kenya, concent
 
 **Kamba ironworking and blacksmithing** — Iron tools and weapons formed part of the material world of Kamba farming, hunting, pastoralism, and trade. Metal objects included tools, weapons, and ornaments; the source material does not preserve a securely documented Kamba vernacular typology for individual forged forms.
 
-**Kamba pottery** — Pottery is identified as a continuing Kamba craft tradition, alongside basketry and carving, although the available source does not specify a named vessel taxonomy or distinctive painted pattern system.
+**Kamba pottery** — Pottery is identified as a continuing Kamba craft tradition, alongside basketry and carving.
 
 **Motif vocabulary.** No securely documented, standardized Kamba motif vocabulary is established in the supplied sources. Animal imagery, bead arrangements, and carved figures are important visual categories, but individual motif names should not be assigned without object-level documentation.
 
 ### Clothing & dress
 
-Modern Kamba clothing is predominantly contemporary Kenyan and European in form: men commonly wear trousers and shirts, while women wear dresses, skirts, trousers, jeans, and other commercially available garments. Historically, men wore short leather kilts made from animal skins or tree bark, with substantial copper and brass jewellery. Women wore knee-length leather or bark skirts decorated with beadwork, bead necklaces, and heavily ornamented headbands; women traditionally shaved their heads. Leather sandals were worn when travelling to markets or visiting, while people commonly went barefoot at home or in the fields. Dance groups used coordinated bead colours and patterns to distinguish themselves. Schoolchildren traditionally shaved their heads as an expression of uniformity and equality. The supplied source does not identify a separate named ceremonial garment equivalent to a royal robe or specialized headdress.
+Modern Kamba clothing is predominantly contemporary Kenyan and European in form: men commonly wear trousers and shirts, while women wear dresses, skirts, trousers, jeans, and other commercially available garments. Historically, men wore short leather kilts made from animal skins or tree bark, with substantial copper and brass jewellery. Women wore knee-length leather or bark skirts decorated with beadwork, bead necklaces, and heavily ornamented headbands; women traditionally shaved their heads. Leather sandals were worn when travelling to markets or visiting, while people commonly went barefoot at home or in the fields. Dance groups used coordinated bead colours and patterns to distinguish themselves. Schoolchildren traditionally shaved their heads as an expression of uniformity and equality.
 
 ### Architecture
 
@@ -43,7 +43,7 @@ Kamba everyday objects include decorated calabashes, three-legged wooden stools,
 
 ### Jewelry & body adornment
 
-Traditional Kamba adornment used copper, brass, and beads. Men wore neck chains, bracelets, and anklets; women wore bead necklaces, bead-decorated headbands, and other beadwork. Beads were linked to coastal exchange with Swahili and Arab traders and also carried group identity in dance performances. Women traditionally shaved their heads, while schoolchildren of both sexes shaved their heads to express equality and uniformity. The supplied sources do not document Kamba tattooing, henna traditions, or named amulets in sufficient detail to support a separate typology.
+Traditional Kamba adornment used copper, brass, and beads. Men wore neck chains, bracelets, and anklets; women wore bead necklaces, bead-decorated headbands, and other beadwork. Beads were linked to coastal exchange with Swahili and Arab traders and also carried group identity in dance performances. Women traditionally shaved their heads, while schoolchildren of both sexes shaved their heads to express equality and uniformity.
 
 ## Music & performance
 
@@ -55,7 +55,7 @@ Marriage, birth, and nationally important occasions generate songs composed for 
 
 Kamba dance combines singing, agility, athletic movement, and acrobatics. *Kilumi* is the most significant ritual dance in the supplied sources: it is a healing and rain-making rite intended to restore environmental balance through movement, spiritual blessing, offerings, and prayer. Its symbolic movements are understood as active forces in the ceremony rather than as entertainment alone.
 
-*Ngoma* is another religious dance category associated with healing and rain-making. *Mwilu* is a circumcision dance, while *Mbalya*, also called *Ngutha*, is a youth dance performed after the day’s work. *Kamandiko* is a modern disco-style gathering often held after a wedding party. *Mwali* combines dance with songs of social commentary. The source does not document a distinct Kamba mask theatre, shadow-puppet tradition, or formal dramatic genre.
+*Ngoma* is another religious dance category associated with healing and rain-making. *Mwilu* is a circumcision dance, while *Mbalya*, also called *Ngutha*, is a youth dance performed after the day’s work. *Kamandiko* is a modern disco-style gathering often held after a wedding party. *Mwali* combines dance with songs of social commentary.
 
 ## Festivals & rituals
 
@@ -69,19 +69,19 @@ Traditional Kamba religion recognizes departed family members, the *Aimu* or *Ma
 
 Kamba subsistence historically combined farming, pastoralism, hunting, gathering, and long-distance trade. Women’s cultivated plots produced maize, millet, sweet potatoes, pumpkins, beans, pigeon peas, greens, arrowroot, and yams, especially in cooler areas such as Kangundo, Kilungu, and Mbooni. Cattle, trade goods, and drought-resistant cultivation helped households respond to the periodic shortages characteristic of the southeastern Kenyan environment.
 
-The supplied source names *kaluvu*, a locally fermented brew, and records medicinal preparations called *miti*, made from parts of medicinal plants. One documented herbal practitioner combined herbs with *kaluvu* in a preparation associated locally with treating cancerous boils; this belongs to traditional medicinal knowledge rather than an ordinary dish. Kamba trade historically included sugar-cane wine, millet, cattle, and other foods exchanged with Kikuyu, Maasai, Meru, Embu, Mijikenda, Swahili, and Arab communities. The available sources do not establish a sufficiently secure catalogue of named Kamba dishes, ceremonial menus, or tea and coffee customs.
+The supplied source names *kaluvu*, a locally fermented brew, and records medicinal preparations called *miti*, made from parts of medicinal plants. One documented herbal practitioner combined herbs with *kaluvu* in a preparation associated locally with treating cancerous boils; this belongs to traditional medicinal knowledge rather than an ordinary dish. Kamba trade historically included sugar-cane wine, millet, cattle, and other foods exchanged with Kikuyu, Maasai, Meru, Embu, Mijikenda, Swahili, and Arab communities.
 
 ## Oral tradition & literature
 
 Kamba oral tradition includes origin narratives, naming formulae, work songs, love songs, satire, and ritual speech. The creation account describes Mulungu creating a couple from heaven and placing them at Nzaui, where their footprints and those of their livestock are said to remain. After a great rainfall, another couple emerges from anthills; the two lineages become linked through marriage, prosperity, famine, and dispersal. The narrative explains relationships among the Akamba and neighbouring peoples including the Kikuyu and Meru.
 
-Songs function as social commentary: *Mwali* repertory criticizes antisocial behaviour, while *Mbalya* leaders improvise teasing, romantic, and satirical verses. Personal names preserve memories of birth circumstances, family relationships, migration, and hoped-for qualities such as leadership, bravery, wealth, or beauty. The supplied sources do not identify a single Kamba epic comparable to the *Alpamysh* or *Ramayana*. Kikamba radio, vernacular television, contemporary musicians, writers, and local news outlets remain important channels for preserving and renewing Kamba language and oral expression.
+Songs function as social commentary: *Mwali* repertory criticizes antisocial behaviour, while *Mbalya* leaders improvise teasing, romantic, and satirical verses. Personal names preserve memories of birth circumstances, family relationships, migration, and hoped-for qualities such as leadership, bravery, wealth, or beauty. Kikamba radio, vernacular television, contemporary musicians, writers, and local news outlets remain important channels for preserving and renewing Kamba language and oral expression.
 
 ## Language & religion
 
 Kikamba, also called Kamba, is a Bantu language in the Niger–Congo family. It is closely related to the languages of the Kikuyu, Embu, Mbeere, and Meru, and has also been influenced by long interaction with Swahili and Arab traders. The source notes that the Kikamba alphabet lacks the letters c, f, j, r, x, q, and p.
 
-Traditional Kamba belief is monotheistic. Ngai or Mulungu is an invisible, transcendent creator associated with the sky; other names include Asa, Ngai Mumbi, and Mwatuangi. The *Aimu* or *Maimu*, spirits of the departed, mediate between families and God and receive remembrance through offerings and libations. *Kilumi* and *Ngoma* express this religious worldview through healing, rain-making, movement, and prayer. Modern Kamba society is religiously diverse, but the supplied sources do not provide a detailed denominational survey.
+Traditional Kamba belief is monotheistic. Ngai or Mulungu is an invisible, transcendent creator associated with the sky; other names include Asa, Ngai Mumbi, and Mwatuangi. The *Aimu* or *Maimu*, spirits of the departed, mediate between families and God and receive remembrance through offerings and libations. *Kilumi* and *Ngoma* express this religious worldview through healing, rain-making, movement, and prayer. Modern Kamba society is religiously diverse.
 
 ## Sources & further reading
 

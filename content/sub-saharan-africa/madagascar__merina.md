@@ -71,14 +71,6 @@ Merina ornament is primarily silver, gilt metal, and beaded cloth, with many pie
 - **Hat-ornament** — A silver ornament made in the form of animal claws.
 - **Beaded bangles** — Cotton cloth covered with multicoloured glass beads.
 
-## Music & performance
-
-The available sources do not describe Merina musical instruments, song genres, or performance occasions.
-
-## Dance & theatre
-
-The available sources do not cover Merina dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Merina ritual life centers on ancestors and cattle, with family tombs serving as the foundation of social identity and caste distinction.
@@ -142,4 +134,3 @@ Merina speak the Austronesian Malagasy language in its Highland form, and follow
 - Smithsonian Folkways, Madagascar search: https://folkways.si.edu/search?query=Madagascar
 - British Museum online collection: https://www.britishmuseum.org/collection
 - Victoria and Albert Museum online collection: https://collections.vam.ac.uk/
-

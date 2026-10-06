@@ -37,7 +37,7 @@ The sources describe no pottery; stone and cedar carry the household repertoire.
 
 ### Jewelry & body adornment
 
-Engraved silver bracelets are the signature ornament in the collection, and they are signed work by named makers: one bearing a Thunderbird is inscribed "Thunderbird Bill Hellin 83," another with a frog "D M Dennis. 83 Frog." Inlay with haliotis (abalone) shell runs through high-status objects — the 1820–40 frontlet, an elkhorn club surmounted by a bird's head, and a carved wood-and-horn ornament set with abalone and copper that was probably once the upper element of a headdress or mask. Shell opercula were inlaid along the rims of feast bowls. The sources do not describe tattooing, body painting or hair practices.
+Engraved silver bracelets are the signature ornament in the collection, and they are signed work by named makers: one bearing a Thunderbird is inscribed "Thunderbird Bill Hellin 83," another with a frog "D M Dennis. 83 Frog." Inlay with haliotis (abalone) shell runs through high-status objects — the 1820–40 frontlet, an elkhorn club surmounted by a bird's head, and a carved wood-and-horn ornament set with abalone and copper that was probably once the upper element of a headdress or mask. Shell opercula were inlaid along the rims of feast bowls.
 
 ## Music & performance
 
@@ -45,7 +45,7 @@ The wooden trumpet is the instrument most specifically tied to the Tsimshian: a 
 
 ## Dance & theatre
 
-The sources document the regalia and the occasions rather than named dance repertoires. Dance capes (button blankets), frontlets worn on the forehead, masks on the crown of the head, bird's-head masks and a fire-eater's crown all point to masked performance within the feast and within the secret societies, whose initiations the hidden wooden trumpets announced. David A. Boxley, *Laxsgiik*, was the first to host a potlatch and raise a totem pole in modern times in Metlakatla, Alaska. Beyond this, the sources used do not describe specific dances or dramatic forms.
+The sources document the regalia and the occasions rather than named dance repertoires. Dance capes (button blankets), frontlets worn on the forehead, masks on the crown of the head, bird's-head masks and a fire-eater's crown all point to masked performance within the feast and within the secret societies, whose initiations the hidden wooden trumpets announced. David A. Boxley, *Laxsgiik*, was the first to host a potlatch and raise a totem pole in modern times in Metlakatla, Alaska.
 
 ## Festivals & rituals
 

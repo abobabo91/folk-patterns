@@ -31,15 +31,15 @@ The Klamath are a Native American people of the Plateau culture area in Southern
 
 ### Clothing & dress
 
-The sources do not provide a general account of everyday or ceremonial Klamath clothing. A museum record identifies a woman’s moccasin from the Klamath Reservation, Oregon, and another records a postcard depicting Klamath men and women in regalia for performing a brush dance in California. The Klamath used dentalium shells for personal adornment; the sources describe shells inserted horizontally through the nose septum and worn as ear pendants. The sources do not describe Klamath belts, head coverings, aprons, skirts, or other named garments.
+A museum record identifies a woman’s moccasin from the Klamath Reservation, Oregon, and another records a postcard depicting Klamath men and women in regalia for performing a brush dance in California. The Klamath used dentalium shells for personal adornment; the sources describe shells inserted horizontally through the nose septum and worn as ear pendants.
 
 ### Architecture
 
-Klamath winter settlements consisted of earth-lodges in permanent locations that were reoccupied annually. Construction began in Autumn, using materials salvaged from abandoned and dilapidated buildings made in previous years. Settlements stretched along riverbanks, and houses could form a practically continuous string for five or six miles. The sources do not provide a Klamath vernacular name for the earth-lodge, nor do they describe its roof, decoration, or detailed structural features.
+Klamath winter settlements consisted of earth-lodges in permanent locations that were reoccupied annually. Construction began in Autumn, using materials salvaged from abandoned and dilapidated buildings made in previous years. Settlements stretched along riverbanks, and houses could form a practically continuous string for five or six miles.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not describe Klamath ceramics, metalwork, or wooden household objects. They do record baskets, a basketry tray, a winnowing basket, a mat, bottles covered with basketry, bowls, cradles, moccasins, and a basketry rattle. The museum catalogue records do not establish whether these objects were used in particular household, ritual, or occupational contexts.
+The sources record baskets, a basketry tray, a winnowing basket, a mat, bottles covered with basketry, bowls, cradles, moccasins, and a basketry rattle. The museum catalogue records do not establish whether these objects were used in particular household, ritual, or occupational contexts.
 
 ### Jewelry & body adornment
 
@@ -47,27 +47,27 @@ Dentalium shells were used primarily as jewelry and personal adornment. Longer s
 
 ## Music & performance
 
-The sources do not describe Klamath musical instruments, song genres, musical scales, or performance contexts in detail. A British Museum record identifies a postcard showing Klamath men and women in regalia for performing a brush dance in a grassy field in California. The sources do not name the music accompanying this performance or identify a Klamath term for the dance. A basketry rattle is recorded in the Museum of World Culture catalogue, but the sources do not state whether it was used musically, ceremonially, or in another context.
+A British Museum record identifies a postcard showing Klamath men and women in regalia for performing a brush dance in a grassy field in California. A basketry rattle is recorded in the Museum of World Culture catalogue.
 
 ## Dance & theatre
 
-The museum catalogue records a postcard depicting Klamath men and women in regalia for performing a brush dance. The sources do not describe the choreography, occasion, meaning, or distinction between ceremonial and entertainment performance. They provide no information about Klamath theatre, masked performance, dramatic traditions, or other named dances.
+The museum catalogue records a postcard depicting Klamath men and women in regalia for performing a brush dance. The sources provide no information about Klamath theatre, masked performance, dramatic traditions, or other named dances.
 
 ## Festivals & rituals
 
-The sources do not describe an annual Klamath festival calendar, seasonal festivals, named ceremonies, or funeral rites. They do record that Klamath families commonly gave younger members septum piercings for inserting dentalium shells, but they do not identify this practice as part of a named coming-of-age ceremony. The sources also state that marriage differed from neighboring cultures: the Klamath did not hold formal talks between families for a bride price, and wives could leave their husbands. No Klamath wedding ritual, birth ceremony, or funeral practice is described.
+The sources record that Klamath families commonly gave younger members septum piercings for inserting dentalium shells. The sources also state that marriage differed from neighboring cultures: the Klamath did not hold formal talks between families for a bride price, and wives could leave their husbands. No Klamath wedding ritual, birth ceremony, or funeral practice is described.
 
 ## Foodways
 
-Klamath subsistence relied primarily on fish and gathered roots and seeds. The sources also identify the roots of *Lomatium canbyi* and the rootstocks of *Sagittaria cuneata* as food. Klamath used *Carex* in several ways: they ate its fresh stems and tuberous stem bases, used the juice of the pith as a beverage, and wove its leaves into mats. The sources do not name Klamath dishes, cooking methods, ceremonial foods, beverages beyond the *Carex* pith juice, or dietary rules.
+Klamath subsistence relied primarily on fish and gathered roots and seeds. The sources also identify the roots of *Lomatium canbyi* and the rootstocks of *Sagittaria cuneata* as food. Klamath used *Carex* in several ways: they ate its fresh stems and tuberous stem bases, used the juice of the pith as a beverage, and wove its leaves into mats.
 
 ## Oral tradition & literature
 
-The sources do not provide Klamath folktales, epic poetry, proverbs, riddles, or named storytelling traditions. They state that revitalization efforts for the Klamath language were underway as of 2019, with the goal of creating new speakers. The Klamath Tribes Language Project and other language documentation resources are listed among the external links and references, but the sources do not describe their contents or methods.
+The sources state that revitalization efforts for the Klamath language were underway as of 2019, with the goal of creating new speakers. The Klamath Tribes Language Project and other language documentation resources are listed among the external links and references.
 
 ## Language & religion
 
-Klamath–Modoc, historically also called Lutuamian, is a Plateau Penutian language spoken around Klamath Lake in what is now southern Oregon and northern California. Klamath and Modoc each spoke a dialect: the Klamath used the northern or “fi-ukshikni” dialect, while the Modoc used the southern dialect. The language was once considered an isolate but is now classified within the Plateau Penutian language family. Both peoples called themselves *maqlaqs*, *maqlags*, or *Maklaks*, meaning “people.” The sources do not describe Klamath religion, denominations, conversion, ritual specialists, or a historical script.
+Klamath–Modoc, historically also called Lutuamian, is a Plateau Penutian language spoken around Klamath Lake in what is now southern Oregon and northern California. Klamath and Modoc each spoke a dialect: the Klamath used the northern or “fi-ukshikni” dialect, while the Modoc used the southern dialect. The language was once considered an isolate but is now classified within the Plateau Penutian language family. Both peoples called themselves *maqlaqs*, *maqlags*, or *Maklaks*, meaning “people.”
 
 ## Sources & further reading
 

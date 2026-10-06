@@ -13,8 +13,6 @@ The Duala are a Bantu ethnic group of Cameroon, concentrated mainly in the Litto
 
 ### Textile & pattern traditions
 
-The sources used do not document a distinctive Duala textile or woven-cloth tradition.
-
 The museum records do, however, document several forms of carved wooden material culture:
 
 **Carved wooden stools** — British Museum records describe rectangular stools with crescent-shaped seats, open-work bases, small or half-height backrests, and carved supports. One stool has female figures with raised arms supporting the seat; another has leopards carved at the front and back, circles of burnt decoration, and dark-brown staining.
@@ -29,23 +27,15 @@ The museum records do, however, document several forms of carved wooden material
 
 **Motif vocabulary.** female figures with raised arms, leopards, bird figure, S-figured serpents, circles of burnt decoration.
 
-### Clothing & dress
-
-The sources used do not describe Duala everyday clothing, ceremonial dress, head coverings, belts, footwear, or named garments.
-
 ### Architecture
 
-The sources used do not describe a characteristic Duala house form, roofing system, building materials, courtyard arrangement, or named architectural type. They do state that many Duala live in and around Douala, that many still own parts of the city, and that urban property ownership allows some to live from rents and development.
+The sources state that many Duala live in and around Douala, that many still own parts of the city, and that urban property ownership allows some to live from rents and development.
 
 ### Ceramics, metalwork & everyday objects
 
 Duala material culture in the supplied records is represented chiefly by carved wood. The British Museum catalogue lists stools made from wood, including rectangular stools with open-work bases, curved or crescent-shaped seats, backrests, carved animals, human figures, serpents, letters, inscriptions, staining, pigmentation, and burnt decoration. The Metropolitan Museum of Art records a wooden prestige seat from the mid–late 19th century.
 
 A Museum of Ethnography record describes an instrument made from a wooden plate with iron keys and a small ornamented gourd attached by a string. The plate is recorded as 12.2 centimetres long and 8.8 centimetres wide, and the object is identified with Cameroon and Duala.
-
-### Jewelry & body adornment
-
-The sources used do not document Duala jewelry, body ornament, tattoos, henna, hair practices, amulets, or named adornment types.
 
 ## Music & performance
 
@@ -57,25 +47,21 @@ Pirogue racing has traditionally been the most important Duala sport and has a p
 
 ## Dance & theatre
 
-The sources used do not document a named Duala dance, theatre form, masquerade, dramatic genre, or dance costume.
-
-The Duala people article does record traditional annual festivals as visible expressions of pre-Christian beliefs in modern life. It also describes the Ngondo as an assembly of important chiefs and mentions secret societies including the Ekongolo, Jengu, Losango, and Munji. The sources do not provide performance descriptions for these institutions.
+The Duala people article does record traditional annual festivals as visible expressions of pre-Christian beliefs in modern life. It also describes the Ngondo as an assembly of important chiefs and mentions secret societies including the Ekongolo, Jengu, Losango, and Munji.
 
 ## Festivals & rituals
 
 The Duala have been mostly Christianized since the 1930s, with Evangelical denominations, particularly the Baptist church, dominant. Remnants of pre-Christian ancestor worship persist, and the sea has an important place in Duala belief. The sources state that Duala belief holds that ancestors live in the sea. Demi-human water spirits called *Miengu*, singular *Jengu*, live in the waters and mediate between worshippers and God.
 
-Traditional festivals held each year are described as the most visible modern expression of these beliefs. The supplied sources do not name these festivals or give their ritual calendars. The Ngondo is identified as an assembly of important chiefs, but the sources used here do not describe its ceremonies, dates, or relationship to an annual festival.
+Traditional festivals held each year are described as the most visible modern expression of these beliefs. The Ngondo is identified as an assembly of important chiefs.
 
 Pirogue races were held annually on 27 January during the German colonial period. Under the French administration, they occurred twice yearly, on 14 July and 11 November. Until the late 1930s, a family on Jebale Island was said to be able to summon the Miengu water spirits to assist favoured participants in the races.
 
-The sources used do not describe Duala birth ceremonies, coming-of-age rites, weddings, funerals, or other life-cycle rituals. They do state that Duala inheritance is patrilineal and that property was traditionally divided among male heirs after the father’s death. The Duala traditionally practiced polygamy, although the custom became rarer after the introduction of Christianity.
+The sources state that Duala inheritance is patrilineal and that property was traditionally divided among male heirs after the father’s death. The Duala traditionally practiced polygamy, although the custom became rarer after the introduction of Christianity.
 
 ## Foodways
 
-The sources used do not document Duala staple foods, dishes, cooking methods, beverages, dietary rules, or ceremonial food.
-
-They do state that rural Duala work mainly as fishermen and farmers, usually at subsistence level, and that fishing is the trade of choice. The museum records include a photograph titled “Infödingar från Duala efter lyckat fiske,” described as people from Duala after successful fishing. The sources do not identify the fish caught, the methods used, or the foods prepared from them.
+The sources state that rural Duala work mainly as fishermen and farmers, usually at subsistence level, and that fishing is the trade of choice. The museum records include a photograph titled “Infödingar från Duala efter lyckat fiske,” described as people from Duala after successful fishing.
 
 ## Oral tradition & literature
 
@@ -83,7 +69,7 @@ Early Duala history is preserved in oral traditions. The Duala trace their ances
 
 According to Duala traditions, the Bakoko and Bassa occupied the Wouri estuary when the Duala arrived. The source places their displacement inland in the late 17th or early 18th century.
 
-The sources used do not document a named Duala epic, folktale cycle, proverb tradition, riddle tradition, contemporary literary revival, or formal oral-literature preservation project. They do record the early missionaries’ development of a written form of the Duala language, partly to translate the Bible.
+The sources record the early missionaries’ development of a written form of the Duala language, partly to translate the Bible.
 
 ## Language & religion
 

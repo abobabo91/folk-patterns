@@ -38,10 +38,6 @@ Pende ceremonial dress often covers the body with raffia and combines masks with
 - **Striped fiber costume** — British Museum pieces include striped fiber costume parts, skirts, hats and head ornaments.
 - **Small mask pendant** (*gikhokho*) — Small mask pendants were worn as personal display and markers of Pende identity.
 
-### Architecture
-
-The sources do not establish a distinctive Pende building type, house plan or architectural tradition.
-
 ### Ceramics, metalwork & everyday objects
 
 Pende makers produced pottery, carved vessels, baskets, tools, weapons and other objects in clay, wood, fiber, iron and ivory.
@@ -92,8 +88,6 @@ Mukanda initiation and masquerade are important documented settings for Pende pu
 - **Ancestors** (*Mvumbi*) — Mvumbi is given as a name for ancestors.
 
 ## Foodways
-
-The sources do not document a distinct Pende dish, recipe or food festival.
 
 - **First harvest share** — An older summary says artists could receive a first share of the harvest because of their social standing.
 

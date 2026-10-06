@@ -23,19 +23,11 @@ The Kiga are native to southwestern Uganda and northern Rwanda. In Uganda, they 
 
 Recorded Kiga material culture includes iron weapons and tools, carved wooden objects, cattle-hide shields and a bracelet made from goats’ hair and copper wire.
 
-### Textile & pattern traditions
-
-The sources do not record named Kiga textile, pattern or motif traditions.
-
 ### Clothing & dress
 
 Traditional weddings may feature Kikiga-Kinyakore attire, while older generations often used Western formal clothes.
 
 - **Kikiga-Kinyakore wedding attire** (*Kikiga-Kinyakore*) — Traditional wedding ceremonies may feature Kikiga-Kinyakore attire and customary practices.
-
-### Architecture
-
-The sources do not describe a distinct Kiga house or building style.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -129,4 +121,3 @@ Kiga is a Great Lakes Bantu language, and older Bakiga belief centered on the cr
 - [Kiga people](https://en.wikipedia.org/wiki/Kiga_people)
 - [Kiga language](https://en.wikipedia.org/wiki/Kiga_language)
 - British Museum catalogue records for the dagger, spears, staff, axe, bowls, mug, stool, shovel, hook, bellows, bracelet, hammers, woodworking tool, gouge and hoe shown in the atlas.
-

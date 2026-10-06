@@ -28,7 +28,7 @@ Iowa material culture used hides, cloth, wool, quills, beads, bark and earth for
 The sources document hide clothing, quillwork, bead decoration and cloth garments, but no named Iowa textile pattern tradition.
 
 - **Hide clothing** — Bison and deer hides were used for clothing, and moccasin hides were made supple with a mixture containing bone marrow, ground entrails and cactus juice.
-- **Quillwork** — Iowa chiefs wore leggings decorated with quillwork, but the sources do not describe its methods or meanings.
+- **Quillwork** — Iowa chiefs wore leggings decorated with quillwork.
 - **Beaded clothing** — Portraits show beaded leg bands, beaded leggings and decorated moccasins.
 - **Wool blankets and cloth garments** — Portraits show chiefs wearing wool blankets, cloth shirts, cloth headdresses, tunics and wool leggings.
 - **Moccasins** — A museum catalogue lists Iowa moccasins dated 1870.
@@ -54,7 +54,7 @@ Iowa buildings included bark lodges, chakiruthan, tipis and earth lodges.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources mention alum pipes and many personal or practical objects, but do not describe Iowa ceramics or craft techniques.
+The sources mention alum pipes and many personal or practical objects.
 
 - **Alum pipes** — Iowa made alum pipes that were traded with furs to French colonizers.
 - **Walking sticks** — Walking sticks appear in museum portraits of Iowa chiefs.
@@ -79,10 +79,6 @@ The sources document a recorded Iowa courtship song and efforts to preserve Chiw
 - **Courtship song** — George Miller performed an Iowa courtship song in 1897, collected by Alice Cunningham Fletcher and Francis La Flesche.
 - **Chiwere recordings** — Tribal elders used recording devices to collect Chiwere words and songs.
 - **Digital audio archive** — A 2012 NSF grant provided digital access to existing recordings of fluent speakers.
-
-## Dance & theatre
-
-The supplied sources do not document named Iowa dances, theatre forms or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -145,4 +141,3 @@ Chiwere is the Iowa language, but it declined sharply after European American co
 - [Iowa language](https://en.wikipedia.org/wiki/Iowa_language)
 - [National Museum of World Cultures Foundation](https://www.wereldculturen.nl/)
 - [British Museum collection](https://www.britishmuseum.org/collection)
-

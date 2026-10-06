@@ -67,7 +67,7 @@ The British Museum describes rice cultivation on the Shan Plateau. The selected 
 
 ## Oral tradition & literature
 
-The sources here do not document a named Shan oral genre. A British Museum manuscript does record written Buddhist texts from the Shan States.
+A British Museum manuscript does record written Buddhist texts from the Shan States.
 
 ## Language & religion
 

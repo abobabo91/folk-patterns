@@ -47,7 +47,7 @@ Banjara art includes performance arts — dance and music — beside the folk an
 
 ## Dance & theatre
 
-**Ghoomar** and **Chari** are traditional dance forms of the Banjaras. The sources used do not describe their steps, costume or performance occasions, and name no dramatic or puppet tradition for the community.
+**Ghoomar** and **Chari** are traditional dance forms of the Banjaras.
 
 ## Festivals & rituals
 
@@ -57,7 +57,7 @@ Marriage is the one religious occasion in which women are paramount, in the prep
 
 ## Foodways
 
-The sources used do not describe Banjara cooking, staple dishes or ceremonial food. What they record is trade in foodstuffs and the equipment for carrying them: the community moved grain, oilseed, sugarcane, opium, fruit and flowers, and forest produce including gums, chironji, mahua, berries and honey, with the Labana subgroup trading salt, the Multani grain and the Mukeri wood and timber; in the Deccan Plateau and Central Provinces they held a monopoly on the movement of salt before the East India Company. Among the objects shown are embroidered cotton bread bags, a paan bag and a masala and nut holder, and liquor, betel leaves and nuts are distributed to the *tanda* when a marriage is agreed.
+What the sources record is trade in foodstuffs and the equipment for carrying them: the community moved grain, oilseed, sugarcane, opium, fruit and flowers, and forest produce including gums, chironji, mahua, berries and honey, with the Labana subgroup trading salt, the Multani grain and the Mukeri wood and timber; in the Deccan Plateau and Central Provinces they held a monopoly on the movement of salt before the East India Company. Among the objects shown are embroidered cotton bread bags, a paan bag and a masala and nut holder, and liquor, betel leaves and nuts are distributed to the *tanda* when a marriage is agreed.
 
 ## Oral tradition & literature
 

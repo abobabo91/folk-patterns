@@ -7,7 +7,7 @@ tags: [ethnography, sub-saharan-africa]
 
 ## Overview
 
-The Lomwe are a Bantu-speaking people of Mozambique and Malawi. Their language, Elomwe — also called Lomwe or Lowe, and known as Western Makua — is widely spoken across central Mozambique, where it belongs with Makua in a group of distinctive Bantu languages of the northern part of the country. In Malawi a mutually unintelligible form, Malawi Lomwe, is spoken; it carries elements of the Mozambican language but stands apart from it. The Lomwe have been prominent in Malawian public life: the late former president Bingu wa Mutharika and his brother Peter Mutharika, also a president of the Republic of Malawi, belong to this ethnic group. The sources used here do not give population figures, nor do they describe a specific settlement region within Malawi.
+The Lomwe are a Bantu-speaking people of Mozambique and Malawi. Their language, Elomwe — also called Lomwe or Lowe, and known as Western Makua — is widely spoken across central Mozambique, where it belongs with Makua in a group of distinctive Bantu languages of the northern part of the country. In Malawi a mutually unintelligible form, Malawi Lomwe, is spoken; it carries elements of the Mozambican language but stands apart from it. The Lomwe have been prominent in Malawian public life: the late former president Bingu wa Mutharika and his brother Peter Mutharika, also a president of the Republic of Malawi, belong to this ethnic group.
 
 ## Material culture
 
@@ -53,7 +53,7 @@ Three classes of instrument are documented, all of bamboo or bamboo-and-seed con
 
 ## Dance & theatre
 
-The only evidence in the sources is the two rattles of seed pods on cord, catalogued as dance ornaments — proof that dancers wore sounding ornaments, with no named dance, mask tradition or dramatic form recorded. The sources used here do not cover Lomwe dance or theatre otherwise.
+The only evidence in the sources is the two rattles of seed pods on cord, catalogued as dance ornaments — proof that dancers wore sounding ornaments, with no named dance, mask tradition or dramatic form recorded.
 
 ## Festivals & rituals
 

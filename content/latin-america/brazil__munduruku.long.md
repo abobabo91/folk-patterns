@@ -21,31 +21,25 @@ The sources available here document two bodies of work in detail: feather assemb
 
 **Cipó spiral basketry** — Baskets coiled from *cipó* (vine) in spiral technique, collected on the Rio Paracuny in 1926 by Curt Nimuendajú. The documented repertoire includes tall and low conical baskets and a shallow plaited basketry dish, so the same coiling tradition covers both carrying and serving vessels.
 
-The sources used do not name motifs for any of these traditions, nor do they describe loom weaving.
-
 ### Clothing & dress
 
-What the sources record of Munduruku dress is almost entirely the feather assemblage described above, and the catalogue entries do not distinguish men's from women's wear. Head coverings appear in two forms: open head-dresses of feathers and string, and closed caps or hoods, including one made up in black feathers on cotton cord. A feather crown is catalogued separately from the head-dresses. For the body there are belts and girdles of feathers on cotton string, and a feather petticoat or skirt; for the limbs, armlets, leg-bands, leglets and pendants that survive in pairs. A further ornament is mounted on cotton cloth rather than string. Two early images give some sense of how such pieces were worn: a portrait drawing of a Munduruku man made by H. Florence at Salto Augusto in 1828, and an engraving after J. Barbosa Rodrigues's *Tribu dos Mundurucus* (Rio de Janeiro, 1882) showing a man with a head trophy. The sources do not describe footwear or everyday, non-ornamental clothing.
+What the sources record of Munduruku dress is almost entirely the feather assemblage described above, and the catalogue entries do not distinguish men's from women's wear. Head coverings appear in two forms: open head-dresses of feathers and string, and closed caps or hoods, including one made up in black feathers on cotton cord. A feather crown is catalogued separately from the head-dresses. For the body there are belts and girdles of feathers on cotton string, and a feather petticoat or skirt; for the limbs, armlets, leg-bands, leglets and pendants that survive in pairs. A further ornament is mounted on cotton cloth rather than string. Two early images give some sense of how such pieces were worn: a portrait drawing of a Munduruku man made by H. Florence at Salto Augusto in 1828, and an engraving after J. Barbosa Rodrigues's *Tribu dos Mundurucus* (Rio de Janeiro, 1882) showing a man with a head trophy.
 
 ### Architecture
 
-The sources used do not describe Munduruku house form, materials or roof construction. They do record the residence pattern, which is the most distinctive feature of the Munduruku village: households are organised not by conjugal or affinal bonds but by sex and age, with all males over the age of thirteen living in one house and all the females, together with the boys under thirteen, in another. Villages themselves sit on the margins of navigable rivers and, in the traditional pattern, in the savannah clearings of the "Tapajós fields".
+The sources record the residence pattern, which is the most distinctive feature of the Munduruku village: households are organised not by conjugal or affinal bonds but by sex and age, with all males over the age of thirteen living in one house and all the females, together with the boys under thirteen, in another. Villages themselves sit on the margins of navigable rivers and, in the traditional pattern, in the savannah clearings of the "Tapajós fields".
 
 ### Ceramics, metalwork & everyday objects
 
-The everyday objects documented for this atlas are basketry rather than pottery or metal. Three *cipó* baskets worked in spiral technique and one basket-plaited dish, all collected by Curt Nimuendajú at the Rio Paracuny in 1926, cover storage, carrying and serving; one of the baskets is explicitly recorded as low and conical. Beyond basketry, the catalogue records reed and cane as structural materials in the feathered sceptres and staffs, and resin as an adhesive. The sources used do not describe Munduruku ceramics or metalwork.
+The everyday objects documented for this atlas are basketry rather than pottery or metal. Three *cipó* baskets worked in spiral technique and one basket-plaited dish, all collected by Curt Nimuendajú at the Rio Paracuny in 1926, cover storage, carrying and serving; one of the baskets is explicitly recorded as low and conical. Beyond basketry, the catalogue records reed and cane as structural materials in the feathered sceptres and staffs, and resin as an adhesive.
 
 ### Jewelry & body adornment
 
-Munduruku body adornment as documented here is feather-based and worn on the limbs: armlets, leg-bands, leglets and pendants, all made of feathers mounted on cotton string, with pendants surviving as pairs. One further ornament is built on cotton cloth. The feather crown, caps and hoods extend the same technique to the head. The sources used do not document beadwork, seed necklaces, tattooing or hair practices. They do, however, record one body practice in detail: before the European arrival in America the Munduruku removed the skin from a man's head and dried it, producing a reduced head used for religious purposes — the practice behind their historical reputation as "head cutters". It is no longer carried out, though many of these trophy heads remain in museum collections worldwide, and a nineteenth-century drawing after Barbosa Rodrigues shows a Munduruku man holding one.
+Munduruku body adornment as documented here is feather-based and worn on the limbs: armlets, leg-bands, leglets and pendants, all made of feathers mounted on cotton string, with pendants surviving as pairs. One further ornament is built on cotton cloth. The feather crown, caps and hoods extend the same technique to the head. The sources do, however, record one body practice in detail: before the European arrival in America the Munduruku removed the skin from a man's head and dried it, producing a reduced head used for religious purposes — the practice behind their historical reputation as "head cutters". It is no longer carried out, though many of these trophy heads remain in museum collections worldwide, and a nineteenth-century drawing after Barbosa Rodrigues shows a Munduruku man holding one.
 
 ## Music & performance
 
 One Munduruku instrument is documented in the material gathered for this atlas, and it is documented unusually precisely. A side-blown trumpet 95 cm long, from the Spix & Martius collection, is held by the British Museum as catalogue number 8731; the Museum of World Culture in Gothenburg holds a British Museum photograph of it, taken before 1935 and acquired from K. G. Izikowitz in June 1948. Izikowitz published the instrument as a drawing, figure 116 in his *Musical and Other Sound Instruments of the South American Indians* (Göteborg, 1935) — the standard early survey of South American Indigenous instruments, and the reason this trumpet is comparatively well recorded. The side-blown construction places it in a distinct class from the end-blown trumpets more often collected in the region. The feathered sceptres and plumed rods in the British Museum would plausibly have been carried in performance, but the catalogue entries assign them no performance context, and the sources used name no song genres, no ensemble types and no performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Munduruku dance or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -53,7 +47,7 @@ The sources used name no annual festivals and no life-cycle rites of birth, marr
 
 ## Foodways
 
-The sources used do not cover Munduruku staples, dishes, cooking methods or ceremonial food. They establish only that hunting is central enough to be governed by an elaborate set of ritual obligations to the spirit mothers of game animals, and that the coiled *cipó* baskets and the basket-plaited dish in Gothenburg served household food handling.
+The sources establish only that hunting is central enough to be governed by an elaborate set of ritual obligations to the spirit mothers of game animals, and that the coiled *cipó* baskets and the basket-plaited dish in Gothenburg served household food handling.
 
 ## Oral tradition & literature
 

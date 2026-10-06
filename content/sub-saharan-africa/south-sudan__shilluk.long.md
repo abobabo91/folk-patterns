@@ -31,11 +31,11 @@ Shilluk potters worked both vessels and pipes, and the decoration is incised rat
 
 ### Jewelry & body adornment
 
-Ivory was worked into armlets, including armlets for the upper arm. Beadwork is represented by a bracelet of string, glass beads and metal, kept as a manufacture sample, and by a necklace of forty-two thick stone disc beads — possibly quartz — threaded on vegetable-fibre cord, closed by an elaborate fibre hook and loop and finished at each end with three amber-coloured ring beads. Cowrie and conus shells are the dominant ornament in the head-dresses described above, sewn in rows across hair or skin, and human hair itself is used as a material rather than only dressed on the head. The sources do not document tattooing, scarification, body painting or hairdressing practices.
+Ivory was worked into armlets, including armlets for the upper arm. Beadwork is represented by a bracelet of string, glass beads and metal, kept as a manufacture sample, and by a necklace of forty-two thick stone disc beads — possibly quartz — threaded on vegetable-fibre cord, closed by an elaborate fibre hook and loop and finished at each end with three amber-coloured ring beads. Cowrie and conus shells are the dominant ornament in the head-dresses described above, sewn in rows across hair or skin, and human hair itself is used as a material rather than only dressed on the head.
 
 ## Music & performance
 
-The sources name no Shilluk instrument and describe no musical genre or performance occasion. Two things at the edge of music are recorded. The British Museum holds a **dance staff**, which implies dance performed with hand-held objects but is described no further. And Wilhelm Hofmayr's *Die Schilluk* prints songs in the Shilluk language, some with an accompanying musical transcription — so nineteenth- and early twentieth-century Shilluk song was written down in notation, though the sources used here do not say what those songs were about or when they were sung. Diedrich Westermann's 1912 collection likewise includes songs and prayers alongside its tales.
+The sources name no Shilluk instrument and describe no musical genre or performance occasion. Two things at the edge of music are recorded. The British Museum holds a **dance staff**, which implies dance performed with hand-held objects but is described no further. And Wilhelm Hofmayr's *Die Schilluk* prints songs in the Shilluk language, some with an accompanying musical transcription — so nineteenth- and early twentieth-century Shilluk song was written down in notation. Diedrich Westermann's 1912 collection likewise includes songs and prayers alongside its tales.
 
 ## Dance & theatre
 

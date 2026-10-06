@@ -23,18 +23,6 @@ The Tabwa are associated with Zambia and the Democratic Republic of the Congo. T
 
 The documented material culture centers on carved wood, ivory, human figures, geometric designs, and glass beads.
 
-### Textile & pattern traditions
-
-The sources do not describe Tabwa textiles, weaving, or named cloth patterns.
-
-### Clothing & dress
-
-The sources do not describe Tabwa clothing or dress.
-
-### Architecture
-
-The sources do not describe Tabwa houses, settlements, or building traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 Museum records describe several carved wooden objects and an ivory comb.
@@ -50,26 +38,6 @@ Museum records describe several carved wooden objects and an ivory comb.
 The sources mention glass beads worn by carved human figures.
 
 - **Glass-bead necklace or string** — One standing male figure wears a string of glass beads, and another female figure wears glass beads.
-
-## Music & performance
-
-The sources do not describe Tabwa music, instruments, songs, or performances.
-
-## Dance & theatre
-
-The sources do not describe Tabwa dances, theatre, masks, or dramatic traditions.
-
-## Festivals & rituals
-
-The sources do not describe Tabwa festivals, ceremonies, rites, or ritual calendars.
-
-## Foodways
-
-The sources do not describe Tabwa foods, crops, cooking, drinks, or dietary rules.
-
-## Oral tradition & literature
-
-The sources do not describe Tabwa folktales, proverbs, riddles, songs, or literature.
 
 ## Language & religion
 
@@ -99,4 +67,3 @@ Taabwa is a Bantu language spoken in Zambia and the Democratic Republic of the C
 - [Tabwa language — Wikipedia](https://en.wikipedia.org/wiki/Tabwa_language)
 - British Museum catalogue records for the comb, seat, baton, staffs, and wooden figures described above.
 - Metropolitan Museum of Art catalogue record for *Mukisi Mupasi (ancestor figure)*, wood, glass beads, and cord, mid-19th century.
-

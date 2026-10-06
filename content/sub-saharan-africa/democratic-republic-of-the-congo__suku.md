@@ -98,14 +98,14 @@ Women grow several crops and gather wild foods, while initiation imposes many un
 
 - **Cultivated crops** — Women cultivate yams, beans, peas, pineapple, and peanuts.
 - **Gathered foods** — Women collect and forage fruits, berries, and roots.
-- **Initiation food restrictions** — Camp leaders impose many food restrictions during initiation, but the sources do not name the restricted foods.
+- **Initiation food restrictions** — Camp leaders impose many food restrictions during initiation.
 
 ## Oral tradition & literature
 
 The profile names storytelling during initiation but gives no Suku tales, poetry, proverbs, or written literature.
 
 - **Initiation storytelling** (*mukhanda*) — Storytelling is taught to boys during the period after circumcision at the mukhanda camp.
-- **Legendary battle stories** (*mbeedya phoko*) — The Lunda war-dance recalls legendary battles, but the sources do not give the stories.
+- **Legendary battle stories** (*mbeedya phoko*) — The Lunda war-dance recalls legendary battles.
 
 ## Language & religion
 
@@ -143,4 +143,3 @@ Suku is a Bantu language, and Suku society is matrilineal, with belief in a crea
 - “Suku language,” Wikipedia: https://en.wikipedia.org/wiki/Suku_language
 - UNESCO Intangible Cultural Heritage: no inscription for this country was supplied in the sources.
 - British Museum catalogue records supplied for the masks and figures shown: Register 1954 wood face mask with raffia fringe; wood helmet mask with raffia fringe and quadrupedic animal; helmet mask in the shape of a human face; and two female wood figures.
-

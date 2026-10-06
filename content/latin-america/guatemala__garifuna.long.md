@@ -31,11 +31,11 @@ The objects this atlas shows are Garifuna pieces collected in Belize and held by
 
 ### Clothing & dress
 
-Everyday and festival dress in the collected set is built from checked cotton cloth cut into a small number of named forms: the *gudu* skirt with its wrap-around tie belt, the *gown* shift dress, and the *dashiki* tunic worn by men and boys, trimmed in white at neck, sleeves, back and pockets and slit at the sides for movement. Headgear includes the plaited "jippy jappa" hat finished with a blue silk ribbon. Masquerade dress is sharply distinct from daily wear: wire-mesh dance-masks with solid metal borders, moulded as human faces and painted pink with black eyebrows, moustache and beard, white eyes outlined in black and red lips, are held on by a blue cotton strip sewn to the top corners. A cloth doll of a male dancer records the rest of that costume — a white cotton tunic and pants, a pink silk ribbon crossed over the chest, a green ribbon at the knees topped with white cloth sewn with white shells, a pink scarf wrapped round the head, a fuchsia wire-mesh mask, and a yellow, green and burgundy striped bandana set with a red glass jewel, two silver foil circles and feathers glued inside. The sources do not describe footwear.
+Everyday and festival dress in the collected set is built from checked cotton cloth cut into a small number of named forms: the *gudu* skirt with its wrap-around tie belt, the *gown* shift dress, and the *dashiki* tunic worn by men and boys, trimmed in white at neck, sleeves, back and pockets and slit at the sides for movement. Headgear includes the plaited "jippy jappa" hat finished with a blue silk ribbon. Masquerade dress is sharply distinct from daily wear: wire-mesh dance-masks with solid metal borders, moulded as human faces and painted pink with black eyebrows, moustache and beard, white eyes outlined in black and red lips, are held on by a blue cotton strip sewn to the top corners. A cloth doll of a male dancer records the rest of that costume — a white cotton tunic and pants, a pink silk ribbon crossed over the chest, a green ribbon at the knees topped with white cloth sewn with white shells, a pink scarf wrapped round the head, a fuchsia wire-mesh mask, and a yellow, green and burgundy striped bandana set with a red glass jewel, two silver foil circles and feathers glued inside.
 
 ### Architecture
 
-The sources used here do not describe Garifuna house forms, construction or ornament. The single architectural image among them is painted rather than built: a calabash gourd drinking bowl carries a scene of a thatched building with drums hanging from the eaves, inscribed "Warasa, Belize" around the rim, and a painted *sisira* shaker shows a drummer performing in front of a house.
+The single architectural image among them is painted rather than built: a calabash gourd drinking bowl carries a scene of a thatched building with drums hanging from the eaves, inscribed "Warasa, Belize" around the rim, and a painted *sisira* shaker shows a drummer performing in front of a house.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,7 +43,7 @@ No pottery appears in the sources; the household vessels are gourd and wood. **C
 
 ### Jewelry & body adornment
 
-The sources used here do not cover Garifuna jewelry, tattooing or hair practice. The only adornment they record is on costume: white shells sewn to the cloth above a dancer's knee-ribbons, and a red glass jewel with two silver foil circles fixed to a striped head bandana.
+The only adornment they record is on costume: white shells sewn to the cloth above a dancer's knee-ribbons, and a red glass jewel with two silver foil circles fixed to a striped head bandana.
 
 ## Music & performance
 
@@ -51,7 +51,7 @@ Garifuna music fuses African, Arawak and Kalinago elements, and was proclaimed w
 
 ## Dance & theatre
 
-The sources name Garifuna dance as a UNESCO-proclaimed element and record its costume in detail, but do not name individual dances. What they document is a masquerade: wire-mesh masks painted as pale, bearded male faces; a flower-and-feather cardboard head-dress tied under the chin; and a full male dancer's dress of white tunic and pants crossed with silk ribbons, shell-trimmed knee bands, a head scarf and a jewelled striped bandana, preserved in a cloth doll. A segunda drum painted with a scene of the re-enactment performed on Garifuna Settlement Day places this costumed performance in a commemorative drama of the 1797 arrival. Ritual dance also belongs to the *dügü*, where drumming accompanied by song and dance is held to calm the person possessed by the ancestral spirits (*gubida*).
+The sources name Garifuna dance as a UNESCO-proclaimed element and record its costume in detail. What they document is a masquerade: wire-mesh masks painted as pale, bearded male faces; a flower-and-feather cardboard head-dress tied under the chin; and a full male dancer's dress of white tunic and pants crossed with silk ribbons, shell-trimmed knee bands, a head scarf and a jewelled striped bandana, preserved in a cloth doll. A segunda drum painted with a scene of the re-enactment performed on Garifuna Settlement Day places this costumed performance in a commemorative drama of the 1797 arrival. Ritual dance also belongs to the *dügü*, where drumming accompanied by song and dance is held to calm the person possessed by the ancestral spirits (*gubida*).
 
 ## Festivals & rituals
 
@@ -59,7 +59,7 @@ The sources name Garifuna dance as a UNESCO-proclaimed element and record its co
 
 ## Foodways
 
-The sources used here do not describe Garifuna cooking or dishes. What they do record is the food economy and a few ingredients. Garifuna communities long relied on farming for income, but much of that land was taken by fruit companies in the twentieth century and later sold on to mestizo farmers; men now work for foreign-owned companies collecting timber and chicle for export, or as fishermen, and by 1981 the Central American population was concentrated in fifty-four fishing villages. Three food materials appear in the object records and ritual descriptions: cassava, in the form of the cassava wine with which new drums are rubbed; canna seeds, used as the rattling fill of the *sisira* shaker; and the calabash gourd, hollowed into drinking bowls. A mahogany grater inlaid with stones is the one food-processing tool in the collection.
+What the sources do record is the food economy and a few ingredients. Garifuna communities long relied on farming for income, but much of that land was taken by fruit companies in the twentieth century and later sold on to mestizo farmers; men now work for foreign-owned companies collecting timber and chicle for export, or as fishermen, and by 1981 the Central American population was concentrated in fifty-four fishing villages. Three food materials appear in the object records and ritual descriptions: cassava, in the form of the cassava wine with which new drums are rubbed; canna seeds, used as the rattling fill of the *sisira* shaker; and the calabash gourd, hollowed into drinking bowls. A mahogany grater inlaid with stones is the one food-processing tool in the collection.
 
 ## Oral tradition & literature
 
@@ -81,6 +81,5 @@ Garifuna, also called Karif, belongs to the Arawakan family, unusually for a lan
 - https://en.wikipedia.org/wiki/Garifuna_language
 - https://en.wikipedia.org/wiki/Garifuna_music
 - https://en.wikipedia.org/wiki/Garifuna_religion
-- UNESCO proclaimed the language, dance and music of the Garifuna a Masterpiece of the Oral and Intangible Heritage of Humanity in 2001 for Nicaragua, Honduras and Belize; no inscription in the sources used here lists Guatemala, and no ICH element code was supplied.
 - https://folkways.si.edu/search?query=Garifuna
 - British Museum collection (the objects shown here, collected in Belize): https://www.britishmuseum.org/collection

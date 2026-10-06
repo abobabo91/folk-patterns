@@ -25,7 +25,7 @@ Dusun material culture includes barkcloth garments, rattan hats and girdles, fea
 
 ### Textile & pattern traditions
 
-The sources mention barkcloth and decorated garments, but do not give detailed Dusun textile traditions.
+The sources mention barkcloth and decorated garments.
 
 - **Barkcloth tunic** — A British Museum record describes a Dusun tunic made of barkcloth.
 - **Velvety garments** — Two Dusun girls are recorded wearing velvety garments decorated with metal sewing.
@@ -76,10 +76,6 @@ Dusun musical instruments include mouth organs, flutes, lutes and a guitar-like 
 - **Nose flute** — A Dusun nose flute is made of bamboo.
 - **Guitar-like instrument** — A guitar-like instrument is made of wood and vegetable-fibre string.
 - **Emergency signal gong** (*canang*) — Gana Dusun people formerly hammered canang instruments to signal an emergency.
-
-## Dance & theatre
-
-The sources do not document named Dusun dances or theatre forms.
 
 ## Festivals & rituals
 
@@ -151,4 +147,3 @@ Dusun languages belong to the Austronesian family, while Dusun religion includes
 - British Museum catalogue records for Dusun knives, jars, dress, baskets, tools, fish traps, ornaments and musical instruments.
 - Náprstek Museum of Asian, African and American Cultures catalogue records: “Dusunské dívky” and “Dusunští kněží.”
 - No UNESCO Intangible Cultural Heritage inscription supplied for this country or ethnic group.
-

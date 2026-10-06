@@ -29,11 +29,7 @@ The Kissi are a West African ethnolinguistic group found in Guinea, Liberia and 
 
 ### Clothing & dress
 
-The sources document clothing connected with the *Bundu* or *Bandu* societies. Girls wore the *Jo* dance skirt over imported cotton cloth. The *Kondoyila* net shirt belonged to the dance costume and was decorated around the neck and sleeves with cauris. The *Fujó* was braided into a girl’s hair by an older woman after she left the *Bundu* bush following a ceremony; it was later removed. Other museum records describe a hunter’s or warrior’s tunic made from hand-spun and hand-woven cotton strips, with amulets wrapped in cotton and small horns sewn to the back of the neck. The sources do not describe ordinary everyday clothing, footwear or separate men’s and women’s dress beyond these records.
-
-### Architecture
-
-The sources used do not describe Kissi houses, settlements, roofs, workshops or other architectural traditions.
+The sources document clothing connected with the *Bundu* or *Bandu* societies. Girls wore the *Jo* dance skirt over imported cotton cloth. The *Kondoyila* net shirt belonged to the dance costume and was decorated around the neck and sleeves with cauris. The *Fujó* was braided into a girl’s hair by an older woman after she left the *Bundu* bush following a ceremony; it was later removed. Other museum records describe a hunter’s or warrior’s tunic made from hand-spun and hand-woven cotton strips, with amulets wrapped in cotton and small horns sewn to the back of the neck.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -41,27 +37,23 @@ Kissi smiths were known for ironworking, and museum records identify knives, a f
 
 ### Jewelry & body adornment
 
-The sources document cauris as decoration on *Fujó* head coverings and on the *Kondoyila* net shirt. The *Fujó* is worn by girls after *Bundu* or *Bandu* ceremonies and is braided into the hair by an older woman. The sources do not describe tattoos, henna, permanent body modification or other jewelry traditions.
+The sources document cauris as decoration on *Fujó* head coverings and on the *Kondoyila* net shirt. The *Fujó* is worn by girls after *Bundu* or *Bandu* ceremonies and is braided into the hair by an older woman.
 
 ## Music & performance
 
-Museum records document several Kissi musical instruments. The *sangbaa* is a goblet-shaped drum with a drumskin, a wooden drumstick and a network of cords used to tension the skin. Its foot is tubular and ends in a tripod. The *sansa* has seven metal tongues fastened to a wooden board with a characteristic plaited design. A *tjekó* is a rattle made from a rattan vine with a base formed from part of a calabash fruit and containing seeds of *Canna indica*. A *seláng* is a calabash rattle with an attached bead rattle; the catalogue places it in an ensemble including the *sangbáa*. Another instrument is a scraping stick made from *Raphia vinifera*, with fifty-one grooves over an area of thirty centimetres; a stick or palm-nut is drawn across the grooves in time with dance or song rhythm. A British Museum record also describes an ivory musical horn carved with a lizard, snake and crosshatched decoration. The sources do not name song genres or describe complete performance occasions beyond dance, song rhythm and musical ensembles.
+Museum records document several Kissi musical instruments. The *sangbaa* is a goblet-shaped drum with a drumskin, a wooden drumstick and a network of cords used to tension the skin. Its foot is tubular and ends in a tripod. The *sansa* has seven metal tongues fastened to a wooden board with a characteristic plaited design. A *tjekó* is a rattle made from a rattan vine with a base formed from part of a calabash fruit and containing seeds of *Canna indica*. A *seláng* is a calabash rattle with an attached bead rattle; the catalogue places it in an ensemble including the *sangbáa*. Another instrument is a scraping stick made from *Raphia vinifera*, with fifty-one grooves over an area of thirty centimetres; a stick or palm-nut is drawn across the grooves in time with dance or song rhythm. A British Museum record also describes an ivory musical horn carved with a lizard, snake and crosshatched decoration.
 
 ## Dance & theatre
 
-The sources document dance objects associated with the *Bundu* or *Bandu* societies. The *Jo* skirt and *Kondoyila* net shirt formed part of a dance costume, while the *Jajei* ankle rattle was made for girls of the *Bundu* society. A dance rattle made from a hollow bottle-like fruit and covered with seed beads was used by women at *Bundu* parties in connection with the appearance of a masked *Bundu* “devil.” The same catalogue record says that a similar rattle was seen among Kissi men at one of their special dances. A wooden mask with two horns, four teeth probably from chimpanzee and animal-fur decoration is also recorded. The sources do not describe named dances, theatrical plots or shadow-puppet traditions.
+The sources document dance objects associated with the *Bundu* or *Bandu* societies. The *Jo* skirt and *Kondoyila* net shirt formed part of a dance costume, while the *Jajei* ankle rattle was made for girls of the *Bundu* society. A dance rattle made from a hollow bottle-like fruit and covered with seed beads was used by women at *Bundu* parties in connection with the appearance of a masked *Bundu* “devil.” The same catalogue record says that a similar rattle was seen among Kissi men at one of their special dances. A wooden mask with two horns, four teeth probably from chimpanzee and animal-fur decoration is also recorded.
 
 ## Festivals & rituals
 
-The sources used do not describe an annual festival calendar or provide dates for Kissi festivals. They do document *Bundu* or *Bandu* ceremonies for girls. After returning from the *Bundu* bush, girls wore *Fujó* head coverings braided into their hair, and the coverings were removed after some time. The *Jajei* ankle rattle and the *Jo* and *Kondoyila* dance garments are associated with this society. A razor is identified as an instrument for circumcision, but the sources do not provide a broader account of the rite, its participants or its timing. The sources also do not describe weddings, funerals, birth ceremonies or annual agricultural festivals.
+The sources document *Bundu* or *Bandu* ceremonies for girls. After returning from the *Bundu* bush, girls wore *Fujó* head coverings braided into their hair, and the coverings were removed after some time. The *Jajei* ankle rattle and the *Jo* and *Kondoyila* dance garments are associated with this society. A razor is identified as an instrument for circumcision.
 
 ## Foodways
 
-The sources identify rice fields and rice birds in the description of the *fanda*, a sling used from a platform to drive away birds. They also record a sieve used for producing palm oil and a knife chiefly intended for harvesting palm fruits. The sources do not describe named dishes, drinks, cooking methods, dietary rules or ceremonial foods.
-
-## Oral tradition & literature
-
-The sources used do not describe Kissi folktales, epics, proverbs, riddles, oral performers or literary preservation projects.
+The sources identify rice fields and rice birds in the description of the *fanda*, a sling used from a platform to drive away birds. They also record a sieve used for producing palm oil and a knife chiefly intended for harvesting palm fruits.
 
 ## Language & religion
 

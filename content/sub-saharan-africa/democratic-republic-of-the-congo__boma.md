@@ -25,8 +25,6 @@ Documented material culture includes cloths, personal ornaments, bows, baskets, 
 
 ### Textile & pattern traditions
 
-The sources do not document Boma textile or pattern traditions.
-
 - **Bronze status ring** (*Ngondo*) — Ngondo is a bronze ring described as a coin, a status symbol, and part of the bride-price.
 - **Catalogue term** (*Bamboma*) — Bamboma appears in a Museum of World Culture record associated with the Bakongo tribe and the Democratic Republic of the Congo.
 
@@ -54,27 +52,13 @@ The best-documented adornment is the bronze ring Ngondo, while photographs also 
 - **Bronze ring** (*Ngondo*) — Ngondo is about 6 cm wide, formed part of the bride-price, and was collected on bast cords or similar materials.
 - **Holding or fastening** (*Nsimbi*) — Nsimbi is explained through simba, meaning to hold, hold fast, or hold in.
 
-## Music & performance
-
-The sources do not document Boma musical instruments, song genres, performances, or performance settings.
-
-## Dance & theatre
-
-The sources do not document Boma dances, theatre, dramatic traditions, or ceremonial performances.
-
 ## Festivals & rituals
-
-The sources do not document a Boma festival calendar or detailed ceremonies.
 
 - **Bride-price ring** (*Ngondo*) — The catalogue states that the bronze ring Ngondo formed part of the bride-price, but gives no further ritual details.
 
-## Foodways
-
-The sources do not document Boma foods, cooking methods, drinks, or dietary rules.
-
 ## Oral tradition & literature
 
-The sources record the Boma Kingdom but do not describe Boma oral or written literature.
+The sources record the Boma Kingdom.
 
 - **Boma Kingdom** (*Boma*) — The Boma formed the Boma Kingdom in the 17th century, and it lasted until Belgian colonial conquest.
 
@@ -113,4 +97,3 @@ Boma is a Bantu language, and the profile does not document Boma religion.
 - British Museum catalogue records for a wood-and-string bow, a cane basket, and photographic prints showing Boma people.
 - Museum of Ethnography catalogue record for “svärd, sword,” record 1890.06.0001.
 - Museum of World Culture catalogue record for “Bronsring, ring,” record 1966.15.0001.
-

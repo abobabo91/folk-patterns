@@ -27,11 +27,11 @@ The sources available here describe no named weaving or dyeing tradition; what f
 
 ### Clothing & dress
 
-Two garment classes appear in the object record: the fringed bast-fibre dress described above, and belts of wrapped straw twine in red, black and yellow. The taboo system reported for first-born children names two further items of men's dress — the cap and the tunic — which carry ritual weight rather than decorative meaning: from the age of five or six a first-born son may not wear his father's cap or tunic, and he puts both on for the first time at his father's funeral, when he assumes the ritual standing of a mature man. Beyond these, the sources used do not describe everyday or ceremonial dress, head coverings or footwear, and do not distinguish men's from women's clothing.
+Two garment classes appear in the object record: the fringed bast-fibre dress described above, and belts of wrapped straw twine in red, black and yellow. The taboo system reported for first-born children names two further items of men's dress — the cap and the tunic — which carry ritual weight rather than decorative meaning: from the age of five or six a first-born son may not wear his father's cap or tunic, and he puts both on for the first time at his father's funeral, when he assumes the ritual standing of a mature man.
 
 ### Architecture
 
-The sources touch the built environment only through the ritual geography of the homestead. Households live in a walled compound whose entrance is itself a ritually charged place: once a first-born son reaches adolescence he may not meet his father there. The granary is the other marked structure — a son may not look inside his father's granary during the father's lifetime, and at the funeral a tribal elder carrying the dead man's bow leads him to it and shows him the inside. A woman's storage pot works the same way between mother and first-born daughter. The sources used do not describe house form, materials, roofing or architectural decoration.
+The sources touch the built environment only through the ritual geography of the homestead. Households live in a walled compound whose entrance is itself a ritually charged place: once a first-born son reaches adolescence he may not meet his father there. The granary is the other marked structure — a son may not look inside his father's granary during the father's lifetime, and at the funeral a tribal elder carrying the dead man's bow leads him to it and shows him the inside. A woman's storage pot works the same way between mother and first-born daughter.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -40,14 +40,6 @@ Pottery smoking pipes are the most numerous single class in the collection, and 
 ### Jewelry & body adornment
 
 The metal ornaments recorded are a cast brass leg-band in the form of an oval ring bent upwards at both ends, with a conical projection at one end and chevron patterning around its upper and lower edges, and a brass finger-ring with an upright hollow bezel, terminating in a button bound with brass wire and flanked by applied and serrated bands. Scarification is documented not on living bodies in these sources but on two objects: a pipe bowl modelled as a seated female figure with cicatrices on face and body, and a terracotta female figure whose chest marks and arm band are painted dark brown, with black wool tied around the waist.
-
-## Music & performance
-
-The sources used do not cover Tallensi instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Tallensi dance or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -59,13 +51,9 @@ A second body of belief concerns crocodiles. Particular crocodiles in particular
 
 Millet and sorghum are the staple crops, supplemented by cattle, sheep and goats kept on a small scale; crocodiles taken from the dry-season fishing rivers are eaten, while sacred crocodiles are not. Food also carries ritual prohibition: a first-born son may not eat from the same dish as his father from the age of five or six. The sources used name no dishes and describe no cooking methods.
 
-## Oral tradition & literature
-
-The sources used do not cover Tallensi folktales, proverbs, riddles or storytelling occasions.
-
 ## Language & religion
 
-Tallensi speak a Gur language of the Niger-Congo family; Ethnologue's report on Farefare lists *Talni* as one of its dialects. Religious life as documented here is ancestral: a man's fulfilment lies in being venerated as an ancestor, sacrifice to the ancestors is the duty of the ritually adult first-born son, and the recently dead father mediates between the living and the older ancestors. Clan ancestors are also present in the world as sacred crocodiles inhabiting particular pools. *Tongnaab*, a fertility deity, is associated with the Tallensi. The sources used do not describe any historical script or the present-day balance of religious affiliation.
+Tallensi speak a Gur language of the Niger-Congo family; Ethnologue's report on Farefare lists *Talni* as one of its dialects. Religious life as documented here is ancestral: a man's fulfilment lies in being venerated as an ancestor, sacrifice to the ancestors is the duty of the ritually adult first-born son, and the recently dead father mediates between the living and the older ancestors. Clan ancestors are also present in the world as sacred crocodiles inhabiting particular pools. *Tongnaab*, a fertility deity, is associated with the Tallensi.
 
 ## Sources & further reading
 

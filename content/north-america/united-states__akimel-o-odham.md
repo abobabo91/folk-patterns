@@ -63,8 +63,6 @@ Everyday objects included pottery, baskets, stone arrow-heads, game-sticks, plat
 
 ### Jewelry & body adornment
 
-The sources do not document named jewelry or adornment practices.
-
 - **Cap plaits** — A portrait shows plaits hanging from a woven fabric cap, without explaining them as a cultural practice.
 - **Dreadlocks** — A portrait shows dreadlocks at the back of the head, without explaining them as a cultural practice.
 
@@ -74,10 +72,6 @@ Ceremonial speeches recite parts of a cosmic myth and are adapted for each occas
 
 - **Ceremonial speech** — Speakers recite portions of the cosmic myth in set speeches during ceremonies.
 - **Storyteller dialect song** — A song from O'odham Hoho'ok A'agida is identified as an example of the Storyteller dialect.
-
-## Dance & theatre
-
-The sources do not identify named dances, theatre forms, masks, or ceremonial dance settings.
 
 ## Festivals & rituals
 
@@ -143,4 +137,3 @@ O'odham is a Uto-Aztecan language, and himdagi is a river-centered way of life c
 - *Oʼodham Hohoʼok Aʼagida* (*Oʼodham Legends and Lore*), by Susanne Ignacio Enos, Dean Saxton, and Lucille Saxton.
 - Oʼodham Piipaash Language Program: *Taḏai* (“Roadrunner”).
 - British Museum catalogue records for arrow-heads, pots, baskets, platters, a carrying-sling jar, game-sticks, postcards, and photographic prints.
-

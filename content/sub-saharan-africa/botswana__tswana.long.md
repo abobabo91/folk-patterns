@@ -17,13 +17,11 @@ The Tswana, or Batswana, are a Bantu ethnic group native to Southern Africa. The
 
 **Mogagolwane** — *Mogagolwane* is a checkered small blanket worn by mothers during traditional baby-showers and by married women during traditional weddings. Batswana women also wear it during initiation ceremonies and funerals.
 
-The sources used do not document further Tswana textile traditions or a comparative account distinguishing these fabrics from neighbouring cultures’ equivalents.
-
 **Motif vocabulary.** Triangular patterns, incised dots, faint black painted decoration, chevrons, and incised oval motifs are named in the museum catalogue descriptions.
 
 ### Clothing & dress
 
-Batswana women wear *mogagolwane*, a checkered small blanket, during traditional baby-showers, weddings, initiation ceremonies, and funerals. The source identifies *Leteisi*, also called *Shweshwe*, as a cotton fabric used for weddings and other traditional celebrations. A museum photograph describes adult women wearing skirts, head-cloths, and blouses in a Tswana village. Museum objects include a cloak made of ox hide, an apron made of beads, a leather sandal, a woven wire belt, waist-bands, and waist ornaments made with ostrich eggshell discs, leather, fibre cord, and coloured red ochre. A dance head-dress is made of porcupine bristles mounted on a leather band. The sources do not describe everyday men’s clothing in further detail.
+Batswana women wear *mogagolwane*, a checkered small blanket, during traditional baby-showers, weddings, initiation ceremonies, and funerals. The source identifies *Leteisi*, also called *Shweshwe*, as a cotton fabric used for weddings and other traditional celebrations. A museum photograph describes adult women wearing skirts, head-cloths, and blouses in a Tswana village. Museum objects include a cloak made of ox hide, an apron made of beads, a leather sandal, a woven wire belt, waist-bands, and waist ornaments made with ostrich eggshell discs, leather, fibre cord, and coloured red ochre. A dance head-dress is made of porcupine bristles mounted on a leather band.
 
 ### Architecture
 
@@ -35,7 +33,7 @@ Traditional Tswana craft production included pottery, metalworking, woodworking,
 
 ### Jewelry & body adornment
 
-Museum records document necklaces made from alternating seeds and beads, ostrich eggshell pieces strung on twisted fibre, and ostrich eggshell discs combined with leather. Waist ornaments use ostrich eggshell discs, leather discs, fibre cord, hide, and red ochre. Armlets and bangles are made from brass coils, brass wire, copper beads, and bright iron wire. A charm is made of cane bound with string, with gourd ends and strings of buttons and beads. A snuff-box combines carved ivory, wood, a small bearded human head, incised oval motifs, and a leather strap; another snuff-flask or box is made from springbok horn. The sources do not document tattoos, henna, or hair practices.
+Museum records document necklaces made from alternating seeds and beads, ostrich eggshell pieces strung on twisted fibre, and ostrich eggshell discs combined with leather. Waist ornaments use ostrich eggshell discs, leather discs, fibre cord, hide, and red ochre. Armlets and bangles are made from brass coils, brass wire, copper beads, and bright iron wire. A charm is made of cane bound with string, with gourd ends and strings of buttons and beads. A snuff-box combines carved ivory, wood, a small bearded human head, incised oval motifs, and a leather strap; another snuff-flask or box is made from springbok horn.
 
 ## Music & performance
 
@@ -47,25 +45,25 @@ Instruments include *Setinkane*, a miniature piano, *Segankure* or *Segaba*, *Mo
 
 ## Dance & theatre
 
-The sources connect Tswana music and dance with feasts, beer gatherings, weddings, initiation ceremonies, agricultural seasons, and group dancing. Group dancing may use the *moropa* drum, *lepapata* antelope horn, and *mathlo* leg rattles. Beer-dances are associated with *Selemo*, the summer season in the classification of Tswana music. The sources used do not document named dramatic traditions, theatre forms, or specific dances.
+The sources connect Tswana music and dance with feasts, beer gatherings, weddings, initiation ceremonies, agricultural seasons, and group dancing. Group dancing may use the *moropa* drum, *lepapata* antelope horn, and *mathlo* leg rattles. Beer-dances are associated with *Selemo*, the summer season in the classification of Tswana music.
 
 ## Festivals & rituals
 
-The sources do not identify an annual Tswana festival calendar or dated festivals. They do associate musical and communal activities with four agricultural seasons: *Letlhafula* or Autumn, *Mariga* or Winter, *Dikgakologo* or Spring, and *Selemo* or Summer. These seasons are linked respectively with hoeing and work-party songs, children’s fireside story songs, singing in the fields, and beer-brewing, beer-songs, and beer-dances.
+The sources associate musical and communal activities with four agricultural seasons: *Letlhafula* or Autumn, *Mariga* or Winter, *Dikgakologo* or Spring, and *Selemo* or Summer. These seasons are linked respectively with hoeing and work-party songs, children’s fireside story songs, singing in the fields, and beer-brewing, beer-songs, and beer-dances.
 
-Tswana life-cycle and initiation practices include *Bojale*, a female initiation practice through which girls were incorporated into female *mephato*. Its training included songs, community responsibilities, morality, and preparation for marriage and motherhood. Male initiation involved *bogwane*, a preparatory phase, followed by enrolment into initiation camps. Boys of 16 years were taken to a remote place and circumcised; after training, they were brought to the *kgotla*, given a regimental name, and presented with weapons, including specialized daggers. Marriage was formalised through *bogadi*, usually cattle, while negotiations called *patlo* were conducted between families. The sources mention weddings and funerals as occasions for dress, music, and food but do not provide funeral rites in further detail.
+Tswana life-cycle and initiation practices include *Bojale*, a female initiation practice through which girls were incorporated into female *mephato*. Its training included songs, community responsibilities, morality, and preparation for marriage and motherhood. Male initiation involved *bogwane*, a preparatory phase, followed by enrolment into initiation camps. Boys of 16 years were taken to a remote place and circumcised; after training, they were brought to the *kgotla*, given a regimental name, and presented with weapons, including specialized daggers. Marriage was formalised through *bogadi*, usually cattle, while negotiations called *patlo* were conducted between families. The sources mention weddings and funerals as occasions for dress, music, and food.
 
 ## Foodways
 
 *Bogobe* is a staple food made from sorghum meal and eaten with meat or vegetables. The most popular sorghum porridge is *Ting*. *Bogobe jwa Logala* or *Sengana* is made from sorghum porridge mixed or cooked with milk. *Seswaa*, described as Botswana’s national dish, consists of pounded or shredded meat and is often served with *Bogobe*. The source associates it with weddings, funerals, and other celebrations.
 
-*Madila* is sour cultured milk prepared from cow and goat milk until fully matured. Traditionally, it was prepared using *Lekuka*, a leather sack or bag used for processing and storing it. *Madila* is also eaten as relish with pap and used in *motogo*, a soft porridge. Museum records include a milk pot made of earthenware with a constricted neck and black and red triangular patterns. A museum photograph from Kanye, Botswana, shows a woman using a large wooden pestle and mortar. The sources do not describe dietary rules, tea or coffee traditions, or additional ceremonial foods.
+*Madila* is sour cultured milk prepared from cow and goat milk until fully matured. Traditionally, it was prepared using *Lekuka*, a leather sack or bag used for processing and storing it. *Madila* is also eaten as relish with pap and used in *motogo*, a soft porridge. Museum records include a milk pot made of earthenware with a constricted neck and black and red triangular patterns. A museum photograph from Kanye, Botswana, shows a woman using a large wooden pestle and mortar.
 
 ## Oral tradition & literature
 
 A famous Tswana proverb is “Mmualebe o a bo a bua la gagwe,” translated in the source as meaning that even the one who speaks “badly” must be allowed to speak. It is described as a cornerstone of *kgotla* governance, where people voice their opinions and the *Kgosi* brings different views together into a decision acceptable to the community.
 
-Tswana oral traditions include creation myths concerning *Modimo*, *Badimo*, *Loowe*, *Tintibane*, and *Matsieng*. According to the source, the first man and animals emerged from a hole in the earth at Lowe near Mochudi, while Matsieng left giant footprints in sandstone. The sources used do not document a named Tswana epic, a literary cycle, or a contemporary preservation project.
+Tswana oral traditions include creation myths concerning *Modimo*, *Badimo*, *Loowe*, *Tintibane*, and *Matsieng*. According to the source, the first man and animals emerged from a hole in the earth at Lowe near Mochudi, while Matsieng left giant footprints in sandstone.
 
 ## Language & religion
 

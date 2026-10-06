@@ -43,10 +43,6 @@ The Gomesi and Kanzu are the traditional clothes of Baganda women and men.
 - **Goat-skin garment** — Some recorded garments were made from several pieces of goat skin sewn together and pierced around the edges.
 - **Gazelle-skin robe** — Museum records include a robe made from white gazelle skin.
 
-### Architecture
-
-The sources do not describe Baganda houses or named building types.
-
 ### Ceramics, metalwork & everyday objects
 
 Baganda everyday objects included pottery, baskets, snuff containers, shields, knives, and grain-pounding tools.
@@ -153,4 +149,3 @@ Luganda is a tonal language, and Baganda religious life includes Abrahamic faith
 - UNESCO Intangible Cultural Heritage: no Uganda inscriptions were supplied in the sources.
 - British Museum collection records supplied for shields, barkcloth, clothing, musical instruments, tools, pottery, jewelry, and photographs.
 - Museum of World Culture and Museum of Ethnography catalogue records supplied for Baganda barkcloth beaters and barkcloth.
-

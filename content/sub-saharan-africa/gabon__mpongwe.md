@@ -25,20 +25,14 @@ The profile records beadwork, ivory and tooth adornment, a dagger and a few clot
 
 ### Textile & pattern traditions
 
-The sources do not record named Mpongwe textile traditions or pattern systems.
-
 - **Beadwork belt patterns** — A museum catalogue describes a broad belt with lozenge and other repeated patterns in blue, red, green, amber, pink and black.
 
 ### Clothing & dress
-
-The sources do not describe ordinary Mpongwe clothing or named garments.
 
 - **Patterned cloth and head-cloth** — A photograph shows an adult woman in Gabon wearing long patterned cloth and a head-cloth formed into two points.
 - **Broad beadwork belt** — A catalogue records a broad belt with eight cords of twisted blue beads at each end.
 
 ### Architecture
-
-The sources do not describe Mpongwe houses or building traditions.
 
 - **Okolo village** (*Okolo*) — King Louis, Anguilè Ré-Dowé, ceded his village of Okolo and moved away.
 - **Fort d’Aumale** — The French established Fort d’Aumale on the site of Okolo in 1843.
@@ -57,29 +51,15 @@ Museum records show necklaces and necklets made with beads, ivory and tooth, tho
 - **Beaded tooth necklet** — Another necklet is made from beads and tooth.
 - **Black-and-yellow bead necklace** — A third necklace has black and yellow glass beads with a central cylindrical pendant.
 
-## Music & performance
-
-The sources do not document Mpongwe instruments, song genres or performance settings.
-
-## Dance & theatre
-
-The sources do not describe Mpongwe dances, masquerades or theatre.
-
 ## Festivals & rituals
-
-The sources do not record a festival calendar or named rituals.
 
 - **Accepted unions with European men** — Unions between Mpongwé women and European men were accepted when families consented and bridewealth was given, though French law did not treat them as legal marriages.
 
 ## Foodways
 
-The sources do not describe Mpongwe foods or cooking traditions.
-
 - **Coastal trade goods** — In the 1830s, Mpongwe trade included slaves, dyewood, ebony, rubber, ivory and gum copal exchanged for cloth, iron, firearms and alcoholic drinks.
 
 ## Oral tradition & literature
-
-The sources do not describe particular Mpongwe stories or oral genres.
 
 - **Pongwe dictionary** — Jean-Rémy Bessieux published a Pongwe dictionary in 1847.
 - **Myene online resource** — An online Myene resource contains proverbs, tales, audio courses, stories, rites and legends, but the sources give no titles.
@@ -116,4 +96,3 @@ Mpongwe is a distinctive Bantu variety within the Myènè language cluster, whil
 - Museum of World Culture catalogue record for dagger 0000.00.0973a-b.
 - British Museum catalogue records for beadwork belt, necklaces, necklet and photographic print.
 - Metropolitan Museum of Art catalogue record for a nineteenth-century wood and hide drum.
-

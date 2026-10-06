@@ -62,10 +62,6 @@ Haya metalwork is especially known for iron smelting, while everyday objects inc
 - **Iron-pointed spear** — Haya-associated objects include spears with iron points.
 - **Wooden shield** — One shield has a flat wooden core surrounded by a plaited edge.
 
-### Jewelry & body adornment
-
-The sources do not document Haya jewelry or named body-adornment traditions.
-
 ## Music & performance
 
 Haya-associated instruments include bow harps, a monochord, and an oil gourd instrument.
@@ -160,4 +156,3 @@ Haya is a Bantu language, and traditional religious life centered on clans, ance
 - [Haya language](https://en.wikipedia.org/wiki/Haya_language)
 - The supplied UNESCO Intangible Cultural Heritage sources list no inscriptions for this ethnic group or country.
 - Museum of World Culture catalogue records and British Museum catalogue records for Haya-associated objects.
-

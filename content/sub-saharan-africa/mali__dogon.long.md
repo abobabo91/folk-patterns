@@ -68,7 +68,7 @@ Millet and other grains are central to farming in the Bandiagara region. Granari
 
 ## Oral tradition & literature
 
-Stories and ritual knowledge are transmitted in different Dogon languages and settings. Published accounts by Marcel Griaule and later writers made selected narratives widely known, but they do not describe every Dogon community. The collection presents documented objects and practices without assigning one cosmology to all makers.
+Stories and ritual knowledge are transmitted in different Dogon languages and settings. Published accounts by Marcel Griaule and later writers made selected narratives widely known. The collection presents documented objects and practices without assigning one cosmology to all makers.
 
 ## Language & religion
 

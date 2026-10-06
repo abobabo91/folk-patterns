@@ -93,10 +93,6 @@ Makonde rituals mark the move from childhood to adulthood and maintain balance b
 - **Fire symbolism** — Fire represents new life and the continuity of the cultural group.
 - **Life-force balance** — Makonde spirituality connects the living and the dead, and ritual protects this balance.
 
-## Foodways
-
-The sources do not document Makonde foods, cooking, drinks, meals, or dietary rules.
-
 ## Oral tradition & literature
 
 The sources do not name Makonde literary works, but initiation uses stories, proverbs, and teaching figures.
@@ -141,4 +137,3 @@ Makonde is a Bantu language linked to ancestor worship, animism, and continuing 
 - [Makonde art](https://en.wikipedia.org/wiki/Makonde_art)
 - [Makonde language](https://en.wikipedia.org/wiki/Makonde_language)
 - No UNESCO Intangible Cultural Heritage inscription for this country was included among the sources used.
-

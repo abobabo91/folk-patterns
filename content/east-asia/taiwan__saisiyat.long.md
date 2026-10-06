@@ -39,23 +39,13 @@ Ornament is the best-documented part of Saisiyat material culture in this collec
 - **Necklaces and necklets** — one strung from plant seeds and string; one a necklet of black glass beads and brass; and a plain string of glass beads.
 - **Bracelets** — worn in pairs, combining glass beads, shell beads and bone in a single piece.
 
-The sources do not describe who wore these, on what occasions, or what the materials signified, and they document no tattooing, hairdressing or other body-marking practices.
-
 ## Music & performance
 
 The sources name no Saisiyat instruments and no song genres. They record only that ritual practice at *Pasta'ay* has been the subject of documentary attention — BBC News reported on Saisiyat efforts to keep the *pas-ta'ai* rituals alive — and, in the flood narrative, that the god Otspoehobong chanted an incantation over the pounded flesh of the survivor before casting it into the sea. Nothing further about performance can be stated from them.
 
-## Dance & theatre
-
-The sources used do not describe any Saisiyat dance or dramatic tradition.
-
 ## Festivals & rituals
 
 The Saisiyat hold a festival called *Pasta'ay*, also written *pas-ta'ai*, every two years. It is the single named element of Saisiyat ceremonial life in these sources, and its biennial rhythm — rather than an annual calendar — is what they specify. The rituals attached to it have been the object of deliberate maintenance by the Saisiyat themselves, reported on by BBC News under the heading of keeping the *pas-ta'ai* rituals alive. The sources used here give no dates or season for the festival, no account of its sequence or of who officiates, and no description of Saisiyat life-cycle rites — birth, coming-of-age, marriage or funeral. A Museum of Saisiyat Folklore exists and is the institutional point of reference for the group's ceremonial and material culture.
-
-## Foodways
-
-The sources used for this profile contain no information on Saisiyat staples, cooking, dishes, ceremonial food or drink.
 
 ## Oral tradition & literature
 

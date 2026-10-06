@@ -28,7 +28,7 @@ Grebo material culture includes carved masks, brass ritual objects, large drums,
 The named textile tradition is the ceremonial lappa, while other patterns are recorded mainly on masks and metal objects.
 
 - **Ceremonial wrap cloth** (*lappa*) — Lappa is a ceremonial wrap-around cloth compared with material made from raffia.
-- **Named surface patterns** — Sources name spirals, zig-zag lines, parallel lines, spots, stripes, and incised motifs, but do not identify a specifically Grebo textile pattern system.
+- **Named surface patterns** — Sources name spirals, zig-zag lines, parallel lines, spots, stripes, and incised motifs.
 
 ### Clothing & dress
 
@@ -134,4 +134,3 @@ Grebo is a tonal Kru language, and religious life centers on gods, ancestors, sp
 - Jean-Baptiste Bacquart, *The Tribal Arts of Africa*, Thames and Hudson, 1998.
 - *Grebo people*: https://en.wikipedia.org/wiki/Grebo_people
 - *Grebo language*: https://en.wikipedia.org/wiki/Grebo_language
-

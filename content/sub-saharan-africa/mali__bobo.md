@@ -32,13 +32,7 @@ The sources do not document Bobo textile traditions, but they name several carve
 
 ### Clothing & dress
 
-The sources do not describe Bobo clothing or dress.
-
 - **Wooden pall carried over the shoulder** (*Bobo Ule*) — A wooden pall from Bomborokuy was carried hooked over one shoulder, but the source does not call it clothing.
-
-### Architecture
-
-The sources do not describe Bobo buildings or other built spaces.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -48,10 +42,6 @@ Documented everyday objects are chiefly wooden, with two recorded metal objects.
 - **Wooden pall** (*Bobo Ule*) — A one-piece pall from Bomborokuy was owned by one family for at least three generations.
 - **Small metal human figure** (*Bobo Fing-folket*) — This copper or possibly bronze figure has a round pointed hat and a bent implement over one shoulder.
 - **Crocodile figure** (*Bobo Fing-folket*) — This reddish figure was probably made of copper.
-
-### Jewelry & body adornment
-
-The sources do not document Bobo jewelry or body adornment.
 
 ## Music & performance
 
@@ -131,4 +121,3 @@ Bobo is a Mande language with two strongly differing dialects, and Bobo religion
 - Guy Le Moal, *Les Bobo. Nature et fonction des masques*, Musée royal de l’Afrique centrale, Tervuren, 1999.
 - [Bobo people](https://en.wikipedia.org/wiki/Bobo_people)
 - [Bobo language](https://en.wikipedia.org/wiki/Bobo_language)
-

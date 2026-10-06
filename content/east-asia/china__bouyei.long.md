@@ -25,11 +25,7 @@ The sources name no motifs, so no motif vocabulary is given here.
 
 ### Clothing & dress
 
-The sources document dress only through the catalogued objects, and these are all female garments and accessories. A woman's outfit is represented by a cotton jacket decorated with batik, embroidery and appliqué; cotton trousers; an embroidered apron of cotton and silk with a matching pair of embroidered, appliquéd apron-ties; and a pair of cotton-and-silk tie-belts, recorded as belts worn in pairs. The head is covered with a length of striped, patterned, embroidered cotton rather than a shaped hat. Footwear is represented by a single pair of straw sandals. A small girl's apron, appliquéd and embroidered in cotton and silk, shows the same construction as the adult garment at child scale, and an embroidered baby-carrier of cotton and probable silk extends the same decorative repertoire to infant care. The sources do not describe men's dress, nor do they distinguish ceremonial from everyday clothing.
-
-### Architecture
-
-The sources used do not cover Bouyei house form, building materials or architectural decoration.
+The sources document dress only through the catalogued objects, and these are all female garments and accessories. A woman's outfit is represented by a cotton jacket decorated with batik, embroidery and appliqué; cotton trousers; an embroidered apron of cotton and silk with a matching pair of embroidered, appliquéd apron-ties; and a pair of cotton-and-silk tie-belts, recorded as belts worn in pairs. The head is covered with a length of striped, patterned, embroidered cotton rather than a shaped hat. Footwear is represented by a single pair of straw sandals. A small girl's apron, appliquéd and embroidered in cotton and silk, shows the same construction as the adult garment at child scale, and an embroidered baby-carrier of cotton and probable silk extends the same decorative repertoire to infant care.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,13 +35,9 @@ The sources record no Bouyei pottery, woodwork or agricultural tools. The only e
 
 Silver is the documented material for Bouyei personal ornament. The collection holds a woman's silver bracelet and a woman's silver finger-ring, both catalogued simply by form and metal. The sources describe no other jewellery types and say nothing about tattooing, hair practices or other body adornment.
 
-## Music & performance
-
-The sources used do not cover Bouyei instruments, song genres or performance occasions.
-
 ## Dance & theatre
 
-The sources used do not describe Bouyei dance. They do record a related textual tradition: *Nuo* books and Nuo scripts, written in the ancient Bouyei script, have circulated among the Bouyei of the Libo region for more than a thousand years, praising goodness, condemning evil, advocating filiality and promoting truth, kindness and beauty, to the point of serving as a local code of conduct. The sources present these as scriptures and texts and do not say how, or whether, they were performed.
+The sources record a related textual tradition: *Nuo* books and Nuo scripts, written in the ancient Bouyei script, have circulated among the Bouyei of the Libo region for more than a thousand years, praising goodness, condemning evil, advocating filiality and promoting truth, kindness and beauty, to the point of serving as a local code of conduct. The sources present these as scriptures and texts and do not say how, or whether, they were performed.
 
 ## Festivals & rituals
 

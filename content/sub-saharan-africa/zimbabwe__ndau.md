@@ -33,14 +33,10 @@ The Ndau traded distinctive red, white, and blue cloths in Mapungubwe-centered n
 
 ### Clothing & dress
 
-The sources name traded cloths, animal skins, and bones but do not describe how Ndau people dressed.
+The sources name traded cloths, animal skins, and bones.
 
-- **Traded cloths** (*Mpalu, Njeti, Vukotlo*) — The Ndau traded red, white, and blue cloths, but the sources do not say how they were worn.
+- **Traded cloths** (*Mpalu, Njeti, Vukotlo*) — The Ndau traded red, white, and blue cloths.
 - **Animal skins and bones** — Animal skins and bones were among the goods traded by the Ndau.
-
-### Architecture
-
-The sources do not describe Ndau houses, buildings, or architectural traditions.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -74,7 +70,7 @@ Ndau musical traditions are preserved in published songs, lyrics, musical transc
 
 ## Dance & theatre
 
-The sources name a girls’ dance and dance songs but do not describe movements or theatre forms.
+The sources name a girls’ dance and dance songs.
 
 - **Girls’ dance** (*Mafu've*) — Mafu've is identified as a dance of girls.
 - **Dance songs** — The sources refer generally to Ndau dance songs.
@@ -143,4 +139,3 @@ Ndau is a mutually intelligible Shona language, and traditional identity centers
 - Christy Schuetze, *Spirit Wives and Church Mothers: Marriage, Survival, and Healing in Central Mozambique*. University of Wisconsin Press, 2023.
 - Carin Vijfhuizen, *The People You Live With: Gender Identities and Social Practices, Beliefs and Power in the livelihoods of Ndau women and men in a village with an irrigation scheme in Zimbabwe*. Wageningen University, 1998.
 - British Museum catalogue records for Ndau-associated objects: stopper; flask and containers forming part of divination equipment; basket; chief’s ornament; head-band; belt; necklet; and fly-whisk.
-

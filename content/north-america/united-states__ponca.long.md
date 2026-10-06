@@ -13,8 +13,6 @@ The Ponca people (Omaha-Ponca: *Páⁿka*) are an Indigenous nation of the Great
 
 ### Textile & pattern traditions
 
-The sources used do not document named Ponca textile or pattern traditions.
-
 **Motif vocabulary.** The sources name quill work, floral cloth, and beadwork only as descriptions of objects and clothing.
 
 ### Clothing & dress
@@ -23,39 +21,35 @@ Museum catalogue records describe Ponca men wearing shirts, long-sleeved tops, c
 
 ### Architecture
 
-The sources describe a prehistoric Ponca village excavated during an archaeological project conducted by the University of Nebraska and the Smithsonian Institution in the 1930s. It included large circular homes up to sixty feet in diameter, located almost two miles along the south bank of the Niobrara River. The sources do not specify the construction materials, roof forms, decoration, or a Ponca name for these houses.
+The sources describe a prehistoric Ponca village excavated during an archaeological project conducted by the University of Nebraska and the Smithsonian Institution in the 1930s. It included large circular homes up to sixty feet in diameter, located almost two miles along the south bank of the Niobrara River.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not document Ponca ceramics, metalwork, wooden household objects, or named tool traditions. Museum records do identify tomahawks, a sword, floral cloth, furs, blankets, bead and hide objects, and other personal possessions in photographic portraits.
+Museum records do identify tomahawks, a sword, floral cloth, furs, blankets, bead and hide objects, and other personal possessions in photographic portraits.
 
 ### Jewelry & body adornment
 
-Museum records describe bear claw necklaces, shell necklaces, bead chokers, beaded and shell necklaces, ear ornaments, peace medals, arm ornaments, bead and hide objects, and personal ornaments. One catalogue record describes a diadanum shell necklace, a bear claw necklace, an arm ornament, and leg ornaments including a fur leg ornament. The records also describe hair arranged in two bunches wrapped in fur and the use of headdresses, feathers, and warbonners. The sources do not explain the ritual functions of these forms of adornment.
+Museum records describe bear claw necklaces, shell necklaces, bead chokers, beaded and shell necklaces, ear ornaments, peace medals, arm ornaments, bead and hide objects, and personal ornaments. One catalogue record describes a diadanum shell necklace, a bear claw necklace, an arm ornament, and leg ornaments including a fur leg ornament. The records also describe hair arranged in two bunches wrapped in fur and the use of headdresses, feathers, and warbonners.
 
 ## Music & performance
 
-The sources identify three Ponca men—Frank Eagle, Louis McDonald, and McKinley Eagle—as co-founders of the Native American Church in 1918. They state that, as of 2024, the Native American Church was the most widespread Indigenous religion among Native Americans in the continental United States, Canada, and Mexico, with an estimated 300,000 adherents. The sources otherwise do not document Ponca musical instruments, song genres, musical structures, performance settings, or named musical traditions.
-
-## Dance & theatre
-
-The sources used do not document named Ponca dances, theatrical forms, dramatic traditions, or distinctions between ceremonial and entertainment performance.
+The sources identify three Ponca men—Frank Eagle, Louis McDonald, and McKinley Eagle—as co-founders of the Native American Church in 1918. They state that, as of 2024, the Native American Church was the most widespread Indigenous religion among Native Americans in the continental United States, Canada, and Mexico, with an estimated 300,000 adherents.
 
 ## Festivals & rituals
 
-The sources used do not describe an annual Ponca festival calendar or provide accounts of Ponca birth, coming-of-age, wedding, or funeral rites. They do record Standing Bear’s promise to bury his eldest son, Bear Shield, on the tribe’s ancestral lands. To fulfil that promise, Standing Bear left the reservation in Oklahoma and travelled toward the Ponca homelands, leading to his arrest and the habeas corpus case Standing Bear v. Crook in 1879. The United States District Court in Omaha, Nebraska, established in that case that Native Americans were “persons within the meaning of the law” of the United States.
+The sources record Standing Bear’s promise to bury his eldest son, Bear Shield, on the tribe’s ancestral lands. To fulfil that promise, Standing Bear left the reservation in Oklahoma and travelled toward the Ponca homelands, leading to his arrest and the habeas corpus case Standing Bear v. Crook in 1879. The United States District Court in Omaha, Nebraska, established in that case that Native Americans were “persons within the meaning of the law” of the United States.
 
 ## Foodways
 
-The Ponca grew maize and kept vegetable gardens, unlike most other Plains Indians. Their last successful buffalo hunt took place in 1855. After forced removal to Indian Territory, the Ponca struggled with malaria, a shortage of food, and the hot climate; one in four members died within the first year. The sources do not name Ponca dishes, cooking methods, ceremonial foods, beverages, or dietary rules.
+The Ponca grew maize and kept vegetable gardens, unlike most other Plains Indians. Their last successful buffalo hunt took place in 1855. After forced removal to Indian Territory, the Ponca struggled with malaria, a shortage of food, and the hot climate; one in four members died within the first year.
 
 ## Oral tradition & literature
 
-According to the sources, Ponca tradition holds that the people moved to the mouth of the Niobrara River from an area east of the Mississippi shortly before Columbus’s arrival in the Americas. The sources also describe traditions among related Siouan-speaking peoples concerning migration westward from east of the Mississippi River. The sources used do not document named Ponca folktales, epics, proverbs, riddles, storytelling genres, or a Ponca literary canon. Language preservation includes Louis Headman’s dictionary of the Ponca People, published by the University of Nebraska Press.
+According to the sources, Ponca tradition holds that the people moved to the mouth of the Niobrara River from an area east of the Mississippi shortly before Columbus’s arrival in the Americas. The sources also describe traditions among related Siouan-speaking peoples concerning migration westward from east of the Mississippi River. Language preservation includes Louis Headman’s dictionary of the Ponca People, published by the University of Nebraska Press.
 
 ## Language & religion
 
-Omaha–Ponca is a Dhegihan language of the Siouan–Catawban language family, spoken by the Omaha people of Nebraska and the Ponca people of Oklahoma and Nebraska. Its two dialects differ minimally but are considered distinct languages by their speakers. As of 2008, the sources report 50 fluent speakers of Omaha and 35 fluent speakers of Ponca, all elderly. The language has subject–object–verb syntax, definite articles that mark features including animacy, position, and number, and a tonal system using downstep. The sources mention language classes, Internet-based learning materials, the Umónhon Nation Public School, and language-revitalization partnerships. In 1918, three Ponca men helped co-found the Native American Church. The sources do not provide a fuller account of Ponca religious beliefs or practices.
+Omaha–Ponca is a Dhegihan language of the Siouan–Catawban language family, spoken by the Omaha people of Nebraska and the Ponca people of Oklahoma and Nebraska. Its two dialects differ minimally but are considered distinct languages by their speakers. As of 2008, the sources report 50 fluent speakers of Omaha and 35 fluent speakers of Ponca, all elderly. The language has subject–object–verb syntax, definite articles that mark features including animacy, position, and number, and a tonal system using downstep. The sources mention language classes, Internet-based learning materials, the Umónhon Nation Public School, and language-revitalization partnerships. In 1918, three Ponca men helped co-found the Native American Church.
 
 ## Sources & further reading
 

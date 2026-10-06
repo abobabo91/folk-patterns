@@ -23,10 +23,6 @@ The Caddo are a Native people whose homeland included parts of present-day Texas
 
 Caddo material culture included earthwork mounds, pottery, wooden tools, bows and arrows, body painting, tattoos, jewelry, and decorated hair.
 
-### Textile & pattern traditions
-
-The sources do not document Caddo textile or pattern traditions.
-
 ### Clothing & dress
 
 Caddo clothing work was associated with women, while body painting, jewelry, hair decoration, and tattoos were important forms of appearance.
@@ -146,4 +142,3 @@ Caddo is a Caddoan language with several named dialects, and its religious tradi
 - [Caddo language — Wikipedia](https://en.wikipedia.org/wiki/Caddo_language)
 - Museum of Ethnography catalogue record, object 1925.09.0006.
 - British Museum catalogue records for photographs of Little Boy, White Deer, and Warloupe.
-

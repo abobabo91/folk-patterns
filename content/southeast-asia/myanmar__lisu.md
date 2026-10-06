@@ -25,7 +25,7 @@ Lisu material culture includes textile clothing, silver adornment, bamboo contai
 
 ### Textile & pattern traditions
 
-The sources name Lisu textile clothing and patchwork objects but do not describe specific patterns or textile traditions.
+The sources name Lisu textile clothing and patchwork objects.
 
 - **Woman’s appliquéd dress** — The museum catalogue records a woman’s dress made from synthetic and cotton textile with appliqué.
 - **Appliquéd cap** — The catalogue records a cap made from synthetic and wool textile with appliqué.
@@ -76,10 +76,6 @@ Songs carry Lisu history across generations, and some performances last all nigh
 - **History songs** (*songs*) — Lisu history is traditionally passed down through songs.
 - **All-night song** (*song*) — Some songs are so long that one performance can take an entire night.
 - **Mission hymns** (*hymns*) — Missionaries used hymns when teaching and spreading Christianity among the Lisu.
-
-## Dance & theatre
-
-The sources do not describe Lisu dance, theatre, or other named entertainment forms.
 
 ## Festivals & rituals
 
@@ -147,5 +143,3 @@ Lisu is a tonal language with several dialects and two main writing systems, whi
 - James O. Fraser and Ba Thaw, Fraser alphabet and Lisu-language publications, as described in the sources.
 - Wikipedia, [Lisu people](https://en.wikipedia.org/wiki/Lisu_people).
 - Wikipedia, [Lisu language](https://en.wikipedia.org/wiki/Lisu_language).
-- UNESCO Intangible Cultural Heritage: the sources used identify no UNESCO inscriptions for Myanmar concerning the Lisu.
-

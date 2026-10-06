@@ -106,10 +106,6 @@ The Senufo are mainly farmers who grow staple crops, cotton, and cash crops.
 - **Peanut farming** — Peanuts are one of the crops cultivated by the Senufo.
 - **Cotton and cash crops** — The Senufo grow cotton and other cash crops for the international market.
 
-## Oral tradition & literature
-
-The sources do not describe Senufo folktales, poetry, proverbs, riddles, storytelling, or literary preservation.
-
 ## Language & religion
 
 Senufo languages form their own branch of Niger–Congo, while Senufo religion centers on spirits, ancestors, and a Supreme Being.
@@ -145,4 +141,3 @@ Senufo languages form their own branch of Niger–Congo, while Senufo religion c
 - [Senufo people](https://en.wikipedia.org/wiki/Senufo_people)
 - [Senufo language](https://en.wikipedia.org/wiki/Senufo_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group was provided in the sources.
-

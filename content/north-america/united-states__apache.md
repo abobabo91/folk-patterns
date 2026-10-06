@@ -12,7 +12,7 @@ tags: [ethnography, north-america]
 | Where | The Southwest, Southern Plains and Northern Mexico. |
 | How many | Seven Southern Athabaskan languages. |
 | Language | Southern Athabaskan, or Apachean, languages. |
-| Religion | The sources mention mountain spirits and medicine men but do not establish an Apache religious system. |
+| Religion | The sources mention mountain spirits and medicine men. |
 | Known for | Apache basketry · Fringed skin clothing · Bison hunting · Mountain-spirit masks · Southern Athabaskan languages |
 
 ## Overview
@@ -69,7 +69,7 @@ Apache adornment records feature beads, shells, feathers, medals and embroidered
 
 ## Music & performance
 
-The sources record flutes, rattles, masks and a medicine figure, but do not name Apache song genres or repertories.
+The sources record flutes, rattles, masks and a medicine figure.
 
 - **End-blown flute** — A Metropolitan Museum record identifies a flute made of wood, skin, shell and beads.
 - **Polychrome flute** — Another flute is made of wood, polychrome material and sinew.
@@ -146,4 +146,3 @@ Apache languages form a Southern Athabaskan group, while the sources give only l
 - Museum of World Culture and Museum of Ethnography catalogue records supplied for the Apache objects shown.
 - Metropolitan Museum of Art catalogue records supplied for the flutes.
 - British Museum catalogue records supplied for the Apache photographs.
-

@@ -25,8 +25,6 @@ The material record includes weapons, fishing tools, spoons, jewelry and limited
 
 ### Textile & pattern traditions
 
-The sources do not document a detailed Meru textile tradition.
-
 - **Eight-sided cloth** — Koome Njoe supplied a cloth shaped like a maize cob with an eight-sided peeled husk.
 
 ### Clothing & dress
@@ -71,10 +69,6 @@ The sources do not describe traditional Meru music, but they mention ritual publ
 - **High Pitch Band Afrika cover** — The Kenyan group High Pitch Band Afrika made a Kimeru cover of “Despacito” in 2017.
 - **Kiama council** (*Kiama*) — The Kiama was a council of elders that interpreted difficult tasks and directed collective action.
 - **Curse remover** (*Muga*) — Koome Njoe is remembered as a Muga who advised the Kiama.
-
-## Dance & theatre
-
-The sources do not cover Meru dance, theatre or other named dramatic traditions.
 
 ## Festivals & rituals
 
@@ -145,4 +139,3 @@ Meru is a Bantu language with seven mutually intelligible dialects, and traditio
 - “Meru language,” Wikipedia: https://en.wikipedia.org/wiki/Meru_language
 - The supplied UNESCO Intangible Cultural Heritage material lists no inscriptions for Kenya.
 - British Museum and Museum of Ethnography catalogue records supplied with the object list.
-

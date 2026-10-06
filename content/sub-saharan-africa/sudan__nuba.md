@@ -23,10 +23,6 @@ The Nuba are indigenous people of the Nuba Mountains in southern Sudan. They liv
 
 Nuba material culture includes round mud huts, decorated bowls, weapons, musical instruments, initiation objects, beads, shells, and body adornment.
 
-### Textile & pattern traditions
-
-The sources do not describe named Nuba textile or pattern traditions in enough detail for separate entries.
-
 ### Clothing & dress
 
 Dress includes sarongs, beads, cloaks, braided hair, scarification, and special initiation and wrestling garments.
@@ -151,4 +147,3 @@ Nuba languages vary widely, and Islam, Christianity, and traditional animistic b
 - *Nuba peoples*, Wikipedia: https://en.wikipedia.org/wiki/Nuba_peoples
 - No UNESCO Intangible Cultural Heritage inscription for Sudan is included in the supplied sources.
 - British Museum catalogue records for the objects described above are identified in the supplied museum catalogue source; no collection URL is provided.
-

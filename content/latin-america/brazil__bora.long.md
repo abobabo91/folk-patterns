@@ -21,7 +21,7 @@ The sources used here name no further textile traditions and no motif vocabulary
 
 ### Clothing & dress
 
-The sources used do not describe Bora everyday or ceremonial clothing. What they record of dress is ornament worn on the body: necklaces, wrist bands of snakeskin and ear ornaments, all collected in northwestern Amazonas (Brazil) on the Swedish Amazon expedition of 1923–1925, together with the feather headdress described above. Nothing in these records separates men's from women's dress, or ceremonial from daily wear.
+What the sources record of dress is ornament worn on the body: necklaces, wrist bands of snakeskin and ear ornaments, all collected in northwestern Amazonas (Brazil) on the Swedish Amazon expedition of 1923–1925, together with the feather headdress described above. Nothing in these records separates men's from women's dress, or ceremonial from daily wear.
 
 ### Architecture
 
@@ -39,17 +39,9 @@ Four of the objects shown are personal ornaments collected by Douglas Melin in n
 
 The sources document a single instrument, and they document it as an object rather than as a repertoire. The wooden drums photographed on the Yaguasyacu river in 1941 were made in at least two sizes or genders, the catalogue identifying one as the "male" drum by comparison with the companion image of the pair. The photographs come from the Wenner-Gren expedition of 1940–1941 and reached the Gothenburg museum in 1965 through Mrs. M. Wenner-Gren, Carl-E. Grenninger and Henry Wassén; the catalogue record cites Julian Steward's chapter "The Witotoan Tribes" in volume 3 of the *Handbook of South American Indians* (1946) as its ethnographic reference. The same record places the photographs with a Bora sub-group it names Bua, glossing the name as "crocodile." No song genre, singer, vocal style or performance occasion is named in any of the sources used here, and nothing in them describes how the drums were played or what they communicated.
 
-## Dance & theatre
-
-The sources used do not cover Bora dance or dramatic performance.
-
 ## Festivals & rituals
 
-The sources used do not describe a festival calendar or named life-cycle rites. They do record two features of social and religious life. Bora families practise exogamy, marrying outside the group. The Bora worldview is animist and makes no distinction between the physical and the spiritual world, spirits being understood as present throughout it. The elaborate Bora knowledge of the plants of the surrounding rainforest, and in particular the complex importance of trees — a concern they share with other Indigenous peoples of the Peruvian Amazon such as the Urarina — is the one domain the sources treat as both practical and more than practical.
-
-## Foodways
-
-The sources used do not cover Bora food, cooking or drink.
+The sources record two features of social and religious life. Bora families practise exogamy, marrying outside the group. The Bora worldview is animist and makes no distinction between the physical and the spiritual world, spirits being understood as present throughout it. The elaborate Bora knowledge of the plants of the surrounding rainforest, and in particular the complex importance of trees — a concern they share with other Indigenous peoples of the Peruvian Amazon such as the Urarina — is the one domain the sources treat as both practical and more than practical.
 
 ## Oral tradition & literature
 

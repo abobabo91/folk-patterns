@@ -27,23 +27,15 @@ The documented garments divide clearly by wearer. Women's shoes and men's shoes 
 
 ### Architecture
 
-The only built form the sources record is in that same photograph: a small group of domed grass huts, photographed with the villagers, their sheep, a calf and a single very large dog, and described in the catalogue as closely resembling nomad groups still known today. Beyond this, a tenth-century notice in the Ḥudūd al-ʿĀlam of 982 locates Afghans at Saul, "a pleasant village on a mountain," probably near Gardez — a settlement site without a description of its houses. The sources used do not otherwise cover house form, materials, roofing, ornament or urban building traditions.
+The only built form the sources record is in that same photograph: a small group of domed grass huts, photographed with the villagers, their sheep, a calf and a single very large dog, and described in the catalogue as closely resembling nomad groups still known today. Beyond this, a tenth-century notice in the Ḥudūd al-ʿĀlam of 982 locates Afghans at Saul, "a pleasant village on a mountain," probably near Gardez — a settlement site without a description of its houses.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not cover Pashtun ceramics, vessel forms, tools or household goods. The only metalwork they document is applied ornament on clothing: metal thread stitched through the leather shoe uppers, metal stamped disks along the dress cuffs, and the bells and Afghan coins of 1968–1981 fixed to the dress bodice.
+The only metalwork they document is applied ornament on clothing: metal thread stitched through the leather shoe uppers, metal stamped disks along the dress cuffs, and the bells and Afghan coins of 1968–1981 fixed to the dress bodice.
 
 ### Jewelry & body adornment
 
 No jewelry as such appears in these records. What they do show is that the materials of adornment — glass beads, pearly buttons, cowrie shells, metal stamped disks, *gul-i peron* discs, beaded tassels and struck coin — were sewn directly onto the garment rather than worn separately, concentrated on the bodice and sleeve cuffs of the woman's dress. The sources used say nothing about tattooing, henna or hair practices.
-
-## Music & performance
-
-The sources used do not cover Pashtun instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Pashtun dance or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -51,7 +43,7 @@ The sources used carry no description of a Pashtun festival calendar or of birth
 
 ## Foodways
 
-The sources used do not cover Pashtun staples, cooking methods, dishes or tea customs. Their only mentions of food production are incidental and ancient or colonial: fourth-century Bactrian letters addressed to and about "the clan of the Afghans" instruct a correspondent to look after the farming and hand over grain, and nineteenth-century records describe Rohillas recruited from British India as indentured labourers to the sugarcane fields of Trinidad, Surinam, Guyana and Fiji.
+Their only mentions of food production are incidental and ancient or colonial: fourth-century Bactrian letters addressed to and about "the clan of the Afghans" instruct a correspondent to look after the farming and hand over grain, and nineteenth-century records describe Rohillas recruited from British India as indentured labourers to the sugarcane fields of Trinidad, Surinam, Guyana and Fiji.
 
 ## Oral tradition & literature
 

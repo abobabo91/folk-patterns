@@ -53,7 +53,7 @@ The sources used do not describe a Konkomba festival calendar or life-cycle rite
 
 ## Foodways
 
-The sources record the productive base but no cuisine: the Konkomba are primarily subsistence farmers who raise poultry, small ruminants and cattle, and until the turn of the 21st century farming and animal husbandry were their primary occupation. Their twentieth-century movement out of Ghana's eastern corridor was driven partly by the search for fertile farmland, alongside colonial pressures. No staple grain, dish, brewing practice or ceremonial food is named in the sources used.
+The sources record the productive base but no cuisine: the Konkomba are primarily subsistence farmers who raise poultry, small ruminants and cattle, and until the turn of the 21st century farming and animal husbandry were their primary occupation. Their twentieth-century movement out of Ghana's eastern corridor was driven partly by the search for fertile farmland, alongside colonial pressures.
 
 ## Oral tradition & literature
 

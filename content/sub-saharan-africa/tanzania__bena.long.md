@@ -13,7 +13,7 @@ The Bena, who call themselves and are also called the Wabena, are a Bantu ethnol
 
 ### Textile & pattern traditions
 
-The sources used give no account of Bena weaving, dyeing or cloth-making. What they do document is patterned work in plant fibre, which is where decorative surface appears in the collected material:
+What the sources do document is patterned work in plant fibre, which is where decorative surface appears in the collected material:
 
 **Twined grass bottle** — A bottle-shaped vessel worked in twined grass, banded horizontally in pale and darker yellow so that the colour contrast of the fibre itself forms the pattern.
 
@@ -27,7 +27,7 @@ The sources used say almost nothing about Bena dress. The only direct evidence i
 
 ### Architecture
 
-The sources used do not describe Bena house forms, building materials, roofing or architectural decoration. What they establish about the built and worked environment is indirect: the pottery is fired outdoors in a rural setting, at an open hearth that the women poke with long poles, rather than in a permanent kiln structure; and the smith's equipment includes a bellows outfit whose forked wooden nozzle, or tuyère, is carved in one piece with two box-shaped hollows, implying a fixed working place for iron. Beyond this, granaries, dwellings and settlement layout are outside what the sources cover.
+What the sources establish about the built and worked environment is indirect: the pottery is fired outdoors in a rural setting, at an open hearth that the women poke with long poles, rather than in a permanent kiln structure; and the smith's equipment includes a bellows outfit whose forked wooden nozzle, or tuyère, is carved in one piece with two box-shaped hollows, implying a fixed working place for iron. Beyond this, granaries, dwellings and settlement layout are outside what the sources cover.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,7 +37,7 @@ Ironworking is documented both by its products and by the smith's own kit. The p
 
 ### Jewelry & body adornment
 
-The sources used do not document Bena jewelry, tattooing or hair practice. Beads appear only once in the collected material, and not as ornament worn on the body: a *sansa* has beads attached to it as a jangle, to add a buzzing rattle to the sound of the plucked keys.
+Beads appear only once in the collected material, and not as ornament worn on the body: a *sansa* has beads attached to it as a jangle, to add a buzzing rattle to the sound of the plucked keys.
 
 ## Music & performance
 
@@ -45,11 +45,11 @@ Three Bena instruments are held in the collection, and together they cover the p
 
 The **sansa** is a lamellophone: a wooden body fitted with metal keys that are plucked with the thumbs, and hung with beads that jangle against the instrument as it sounds, so that the buzz is part of the intended tone rather than a fault. The **drum** is built from wood and skin, with wax — the material used on many East African drums to tune the head by weighting it. The third is a **combined flute and rattle**, a single wooden instrument that both blows and shakes, its surface worked with burnt ornament, that is, decoration scorched into the wood rather than carved or painted.
 
-The sources used do not name Bena song genres, singers or performance occasions, and do not record which of these instruments is played together with which, who plays them, or on what occasions. The instruments themselves are the evidence, and what they show is a household-scale rather than a courtly music: portable, individually played, made of wood, skin, iron and bead by the same crafts — smithing and carving — that produced the hoes and ladles beside them in the collection.
+The instruments themselves are the evidence, and what they show is a household-scale rather than a courtly music: portable, individually played, made of wood, skin, iron and bead by the same crafts — smithing and carving — that produced the hoes and ladles beside them in the collection.
 
 ## Dance & theatre
 
-The sources used do not document Bena dance or dramatic traditions. No dance names, regalia, masking or theatrical forms appear in the Wikipedia articles, and no dance-related objects — no costume, mask or dance staff — are among the Bena objects catalogued here, though the drum, flute-rattle and sansa listed above imply music-making of some kind.
+No dance names, regalia, masking or theatrical forms appear in the Wikipedia articles, and no dance-related objects — no costume, mask or dance staff — are among the Bena objects catalogued here, though the drum, flute-rattle and sansa listed above imply music-making of some kind.
 
 ## Festivals & rituals
 
@@ -59,7 +59,7 @@ One object bears on the reckoning of time, and it is worth setting out precisely
 
 ## Foodways
 
-The sources used do not describe Bena staple crops, dishes, cooking methods, ceremonial food or drink customs. The material evidence bears on the equipment of food production and consumption rather than its content. Two implements point to farming and clearance: the iron hoe blade, which the British Museum record notes also functioned as currency — a form that, in much of the region, carries value in bridewealth and exchange as well as in the field — and the tanged iron bill-hook made by the smith. One points to hunting: an iron harpoon-head made for taking hippopotamus, which places the Bena of the relevant area within reach of water large enough to hold them.
+The material evidence bears on the equipment of food production and consumption rather than its content. Two implements point to farming and clearance: the iron hoe blade, which the British Museum record notes also functioned as currency — a form that, in much of the region, carries value in bridewealth and exchange as well as in the field — and the tanged iron bill-hook made by the smith. One points to hunting: an iron harpoon-head made for taking hippopotamus, which places the Bena of the relevant area within reach of water large enough to hold them.
 
 For cooking and serving, the collection holds wooden spoons and ladles, and the range of pottery described above: open bowls, bowls raised on pedestals, vases and other vessels, and separately made lids to cover pots during cooking or storage. Taken together, this is the kit of a cooking tradition based on pots set over a fire rather than on baking or grilling equipment — but the dishes themselves, and what was grown or brewed to fill these vessels, are not in the sources.
 

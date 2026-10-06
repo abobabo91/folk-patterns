@@ -79,8 +79,6 @@ The sources focus on sacred objects and ceremonies rather than detailed music tr
 
 ## Dance & theatre
 
-The Sun Dance is the only named Cheyenne dance, and the sources do not describe a theatre tradition.
-
 - **Sun Dance** — The Sun Dance was given to the people by Tomȯsévėséhe and was connected with the Sacred Buffalo Hat.
 
 ## Festivals & rituals
@@ -147,4 +145,3 @@ Cheyenne is an Algonquian language, and Cheyenne spiritual life centers on sacre
 - Wikipedia, “Cheyenne”: https://en.wikipedia.org/wiki/Cheyenne
 - Museum of Ethnography, Museum of World Culture, Metropolitan Museum of Art, and British Museum catalogue records supplied with this atlas.
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is listed in the supplied sources.
-

@@ -19,8 +19,6 @@ The Tiwi, who call themselves *Tunuvivi*, are an Aboriginal people of the Tiwi I
 
 **Plaited cane and fibre bands** — Head-bands are made either of plaited cane fibre alone or of fibre string decorated with pigment and closed with fibre ties. A more elaborate version combines vegetable fibre, paint, beeswax, gum and feathers in one band.
 
-The sources do not describe a loom-woven cloth tradition.
-
 **Motif vocabulary.** Diagonal lines infilled with repetitive smaller lines; circles and rings of colour ranged around a container's edge; hatch patterns, which stand for friendships within the community; and the Lorraine Cross, taken from the Alsace–Lorraine of the missionary Francis Xavier Gsell and since used on *pukumani* poles and in Tiwi printing.
 
 ### Clothing & dress

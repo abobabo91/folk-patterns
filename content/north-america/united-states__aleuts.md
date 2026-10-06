@@ -140,8 +140,6 @@ Aleut is called Unangam Tunuu, has three dialects, and exists alongside Christia
 
 ## Sources & further reading
 
-- The sources used do not provide bibliographic information for books or named scholarly documentation projects.
 - Museum catalogue records supplied for the Aleut objects shown, including records from the Museum of Ethnography, British Museum, and Metropolitan Museum of Art.
 - [“Aleuts,” Wikipedia](https://en.wikipedia.org/wiki/Aleuts)
 - The supplied UNESCO Intangible Cultural Heritage sources identify no UNESCO inscriptions for this ethnic group.
-

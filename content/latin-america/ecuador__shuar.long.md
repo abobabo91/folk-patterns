@@ -25,7 +25,7 @@ The Shuar are an Indigenous ethnic group inhabiting the Ecuadorian and Peruvian 
 
 **Faldas** — Catalogue records describe rectangular cotton skirts with vertical bands in red, white, purple, yellow, and green. One record identifies this form as the *itip*.
 
-**Beadwork** — The sources document woven and sewn adornments using glass beads, seeds, teeth, bones, vegetable fibre, cotton, feathers, and beetle wing-cases, but do not describe a named Shuar beadwork pattern tradition.
+**Beadwork** — The sources document woven and sewn adornments using glass beads, seeds, teeth, bones, vegetable fibre, cotton, feathers, and beetle wing-cases.
 
 **Motif vocabulary.** Star, four-pointed star, nine-pointed star, seventeen triangles, zigzag lines, trapezoids, diamonds, heart-shaped arrangement, anaconda.
 
@@ -37,45 +37,45 @@ Belts are woven from cotton in brown and beige tones and may have nacre discs. T
 
 ### Architecture
 
-The sources used do not cover Shuar house forms, settlement architecture, roofing, or architectural decoration. They state only that Shuar formerly lived in separate households dispersed through the rainforest and later formed nucleated settlements called *centros*. From the 1950s, these settlements commonly contained 5 to 30 families.
+The sources state only that Shuar formerly lived in separate households dispersed through the rainforest and later formed nucleated settlements called *centros*. From the 1950s, these settlements commonly contained 5 to 30 families.
 
 ### Ceramics, metalwork & everyday objects
 
 Museum records document ceramic bowls with a truncated-conical base, hemispherical body, straight rim, red slip, black-and-white painted decoration, and glossy varnish inside and outside. Their interiors include geometric stars, diamonds, zigzag bands, trapezoids, and an anaconda viewed from above. One bowl is dated 2008, another 2012, and another 2013.
 
-Other objects include a wooden circular shield with three carved concentric discs, a cane-shafted arrow with a dark-brown wooden point and seven teeth on each side, and a spherical fruit-shell container called *mati*. The catalogue describes the *mati* as a fruit-bark container filled with cottony ceiba seed fibre, accompanying a quiver with darts for a blowgun. The sources do not document Shuar metalwork.
+Other objects include a wooden circular shield with three carved concentric discs, a cane-shafted arrow with a dark-brown wooden point and seven teeth on each side, and a spherical fruit-shell container called *mati*. The catalogue describes the *mati* as a fruit-bark container filled with cottony ceiba seed fibre, accompanying a quiver with darts for a blowgun.
 
 ### Jewelry & body adornment
 
 Shuar, Achuar, and Shiwiar adornment is documented through necklaces, bracelets, earrings, collars, pectorals, belts, headbands, and other ornaments. Materials include black and coloured seeds, glass beads, monkey teeth, animal teeth, bird bones, feathers, bird skins, cotton, vegetable fibre, human hair, and beetle wing-cases.
 
-One bracelet has seven horizontal rows of small black seeds crossed by five vertical strings of larger white, tear-shaped seeds. Necklaces include arrangements of grey and garnet-coloured seeds, bird specimens, beetle wing-cases, and a collar containing 66 monkey teeth. Earrings are made from iridescent green beetle wing-cases with toucan feathers and black human hair. A pectoral consists of six strings of glass beads, fangs, vertebrae, and different seeds. The sources do not document tattoos, henna, or other body-painting practices.
+One bracelet has seven horizontal rows of small black seeds crossed by five vertical strings of larger white, tear-shaped seeds. Necklaces include arrangements of grey and garnet-coloured seeds, bird specimens, beetle wing-cases, and a collar containing 66 monkey teeth. Earrings are made from iridescent green beetle wing-cases with toucan feathers and black human hair. A pectoral consists of six strings of glass beads, fangs, vertebrae, and different seeds.
 
 ## Music & performance
 
-The sources used do not document Shuar musical instruments, named song genres, musical scales, dance music, or performance contexts. They mention radio schools established in the late 1960s to promote communication and education in Spanish and Shuar. These schools were closed in 2001 and replaced by formal bilingual classroom teaching, but the sources do not describe their musical content.
+The sources mention radio schools established in the late 1960s to promote communication and education in Spanish and Shuar. These schools were closed in 2001 and replaced by formal bilingual classroom teaching.
 
 ## Dance & theatre
 
-The sources used do not cover Shuar dances, theatrical traditions, masked performances, or shadow-puppet traditions. They describe warrior society, hunting, shamanism, and ritual journeys, but do not identify these as dance or theatre forms.
+The sources describe warrior society, hunting, shamanism, and ritual journeys.
 
 ## Festivals & rituals
 
 Before missionization in the 1940s and 1950s, Shuar culture organized and promoted a warrior society. Boys of about eight years were taken by their fathers or uncles on a three- to five-day journey to a nearby waterfall. During the journey they drank only tobacco water, and at some point they were given *maikua* (*Datura arborea*, Solanaceae), with the hope that they would see visions called *arútam*. These visions were believed to be produced by a *wakaní*, or ancestral spirit. A boy who touched an *arútam* could acquire an *arútam wakaní*, which was believed to make him very strong. The ritual could be repeated because Shuar believed that *arútam wakaní* could be lost.
 
-A warrior who had killed many people was called a *kakáram*. Shuar beliefs also held that a person possessing an *arútam wakaní* who died peacefully would give birth to a new *wakaní*, while one killed violently would give birth to a *muísak*. The sources do not provide an annual festival calendar or describe weddings, funerals, or birth ceremonies.
+A warrior who had killed many people was called a *kakáram*. Shuar beliefs also held that a person possessing an *arútam wakaní* who died peacefully would give birth to a new *wakaní*, while one killed violently would give birth to a *muísak*.
 
 ## Foodways
 
 Shuar women cultivated manioc and made *chicha*, described as manioc beer. Manioc and *chicha* together provided the bulk of calories and carbohydrates in the Shuar diet, making women’s labour central to biological and social life. Shuar communities are also described as organized around agriculture and hunting.
 
-The sources mention hunting skills and identify bows, blowguns, spears, arrows, quivers, and darts among the material culture represented in the catalogue. They do not provide additional named dishes, cooking methods, food taboos, tea or coffee traditions, or a detailed account of hunting and agricultural foods. The sources also state that some Shuar work in mining and the timber industry, while others participate in cattle production and the market economy.
+The sources mention hunting skills and identify bows, blowguns, spears, arrows, quivers, and darts among the material culture represented in the catalogue. The sources also state that some Shuar work in mining and the timber industry, while others participate in cattle production and the market economy.
 
 ## Oral tradition & literature
 
-The sources used do not document a Shuar epic, folktale cycle, proverb tradition, riddle tradition, or named oral-literary genre. They mention Shuar mythology in connection with the *Iwia*, a feared demon that devours people. The name *Iwia* means “Jungle Demon,” and the Ecuadorian Army has formed elite *Iwia* units of Shuar soldiers.
+The sources mention Shuar mythology in connection with the *Iwia*, a feared demon that devours people. The name *Iwia* means “Jungle Demon,” and the Ecuadorian Army has formed elite *Iwia* units of Shuar soldiers.
 
-The Shuar language has been used in formal written translation: the Constitution of Ecuador has been translated in its entirety into Shuar. Its official Shuar name is *Ecuador Nunka Umíktin Umpuarma*. The sources do not describe a broader literary revival or a specific contemporary Shuar publishing project.
+The Shuar language has been used in formal written translation: the Constitution of Ecuador has been translated in its entirety into Shuar. Its official Shuar name is *Ecuador Nunka Umíktin Umpuarma*.
 
 ## Language & religion
 

@@ -25,10 +25,8 @@ Baga material culture is especially known for carved wood and metal objects, rit
 
 ### Textile & pattern traditions
 
-The sources do not document a named Baga textile tradition.
-
-- **Chequerboard design** — Chequerboard designs appear on some Baga objects, but the sources do not identify them as textile motifs.
-- **Leaf design** — Leaf designs appear on some Baga objects, but the sources do not identify them as textile motifs.
+- **Chequerboard design** — Chequerboard designs appear on some Baga objects.
+- **Leaf design** — Leaf designs appear on some Baga objects.
 - **Diamond design** — Diamond designs appear in descriptions of Baga objects, but not as a named textile tradition.
 - **Chevron design** — Chevron designs appear in descriptions of Baga objects, but not as a named textile tradition.
 
@@ -37,7 +35,7 @@ The sources do not document a named Baga textile tradition.
 The sources give little information about everyday Baga clothing.
 
 - **Nimba or D’mba masking outfit** (*Nimba; D’mba*) — A male dancer wears the wooden mask on his shoulders and is hidden by European cloth and raffia.
-- **Loin-cloth figure** — A British Museum record shows a carved wooden figure wearing a loin-cloth, but does not identify it as general Baga dress.
+- **Loin-cloth figure** — A British Museum record shows a carved wooden figure wearing a loin-cloth.
 
 ### Architecture
 
@@ -151,4 +149,3 @@ Baga languages form an Atlantic Niger-Congo dialect cluster, and the Baga are no
 - No UNESCO Intangible Cultural Heritage inscription is identified in the supplied sources.
 - [Metropolitan Museum of Art collection](https://www.metmuseum.org/art/collection)
 - [British Museum collection](https://www.britishmuseum.org/collection)
-

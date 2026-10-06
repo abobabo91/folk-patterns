@@ -73,7 +73,7 @@ The maguaré drum is the one named Witoto instrument, played by men in the maloc
 
 ## Dance & theatre
 
-Witoto dance was equipped with sounded staffs, feathered headwear, and seed ornaments that created sound in motion, but the sources do not name specific dances or dramatic traditions.
+Witoto dance was equipped with sounded staffs, feathered headwear, and seed ornaments that created sound in motion.
 
 - **Dance ornaments** — Sets of four ornaments made of seeds, string and glass beads, worn together and producing sound as the dancer moved.
 - **Toucan tail feathers** — Bundles of toucan tail feathers bound with grass string and worn as ornament during performance.
@@ -136,4 +136,3 @@ Witoto is an endangered Indigenous language of the Witotoan family spoken in Col
 - Wikipedia: https://en.wikipedia.org/wiki/Witoto_language
 - UNESCO Intangible Cultural Heritage, Colombia: https://ich.unesco.org/en/state/colombia — no inscription concerns this group
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Colombia
-

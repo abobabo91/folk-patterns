@@ -42,10 +42,6 @@ Women’s dress includes hide front pieces, beaded aprons, girdles, tail-pieces,
 - **Composite feather headdress** — This headdress uses black ostrich feathers mounted on cow hide with a fibre chin strap.
 - **Hair-and-clay chignon** (*Chignon*) — This head-dress is made of human hair and clay and painted brown, blue, and grey.
 
-### Architecture
-
-The sources do not describe Karamojong houses, settlements, fences, roofs, or other architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Everyday objects include metal tools and weapons, clay pots, gourds, wooden vessels, and containers for storing food.
@@ -137,4 +133,3 @@ Ngakarimojong is a written Nilotic language with several tones, related language
 - Bruno Novelli, *A Grammar of the Karimojong Language*, D. Reimer, 1985.
 - [Karamojong people](https://en.wikipedia.org/wiki/Karamojong_people)
 - [Karamojong language](https://en.wikipedia.org/wiki/Karamojong_language)
-

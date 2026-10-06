@@ -25,17 +25,7 @@ The documented material culture includes fibre baskets, wooden and iron tools, a
 
 ### Textile & pattern traditions
 
-The sources do not document named Nalu textile traditions or weaving patterns.
-
 - **Crocodile mask imagery** — A wooden mask shows a crocodile with two long horns and white painted decorations along the top of its snout.
-
-### Clothing & dress
-
-The sources do not describe Nalu clothing, dress, or body-covering traditions.
-
-### Architecture
-
-The sources do not describe Nalu houses, settlements, or named building types.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -47,38 +37,24 @@ Museum records document baskets, a stool, an oyster-gathering tool, and a fish-t
 - **Bamboo fish-trap** — The fish-trap is made of bamboo.
 - **Storage basket** — The storage basket is made from vegetable fibre, straw, and bamboo.
 
-### Jewelry & body adornment
-
-The sources do not describe Nalu jewelry, hairstyles, tattoos, or other body decoration.
-
 ## Music & performance
 
-The sources name the Simo secret society but do not describe Nalu music or performance.
+The sources name the Simo secret society.
 
 - **Simo secret society** (*Simo*) — The Simo is a West African secret society active among the Nalu and related groups.
 - **Crocodile mask** — A wooden mask has two long horns, white painted decorations, and a fringe of grass along its bottom edge.
 
 ## Dance & theatre
 
-The sources do not name a Nalu dance, theatre form, or mask-dance tradition.
-
 - **Crocodile-shaped wooden mask** — The mask has two long horns, white painted decorations, and a grass fringe, but its use is not explained.
 
 ## Festivals & rituals
-
-The sources do not describe a Nalu festival calendar, life-cycle rite, or religious ritual.
 
 - **Simo society** (*Simo*) — The Simo is identified as a secret society, but its rites and calendar are not described.
 
 ## Foodways
 
-The sources do not describe Nalu foods, dishes, cooking, or dietary customs.
-
-- **Oyster-gathering tool** — An iron-and-wood tool is used to knock oysters from mangrove roots, but the sources do not describe oyster preparation or its wider role in foodways.
-
-## Oral tradition & literature
-
-The sources do not record Nalu folktales, poems, proverbs, riddles, or named literary works.
+- **Oyster-gathering tool** — An iron-and-wood tool is used to knock oysters from mangrove roots.
 
 ## Language & religion
 
@@ -108,4 +84,3 @@ Nalu is an endangered Atlantic language spoken mainly by adults, while Nalu reli
 - “Nalu language,” *Wikipedia*: https://en.wikipedia.org/wiki/Nalu_language
 - UNESCO Intangible Cultural Heritage: the supplied UNESCO material lists no inscriptions for Guinea concerning the Nalu.
 - British Museum catalogue records supplied for the basket, stool, oyster-gathering tool, fish-trap, storage basket, crocodile mask, and painted wooden bird figure.
-

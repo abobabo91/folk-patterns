@@ -94,8 +94,6 @@ Nupe oral tradition preserves a multifaceted cultural practice of gift-giving an
 
 ## Foodways
 
-Sources provide no information on Nupe staples or dishes, only the vessels used at table.
-
 - **Brass serving vessels** — Lidded bowls tinned on the inside, hinged-lid teapots, beaten ewers, hammered dishes and repoussé spoons used for serving and consumption.
 
 ## Oral tradition & literature
@@ -147,4 +145,3 @@ Nupe is a Volta-Niger language with five dialects, and the people are primarily 
 - https://en.wikipedia.org/wiki/Nupe_language
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Nigeria
 - British Museum online collection (source of the doors, brasswork, textiles and instruments described above): https://www.britishmuseum.org/collection
-

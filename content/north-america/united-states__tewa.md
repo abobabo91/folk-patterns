@@ -25,7 +25,7 @@ Pottery is the most influential art form described, while woven goods, clothing,
 
 ### Textile & pattern traditions
 
-Woven goods, cotton garments, and hide clothing are described, but the sources do not name Tewa patterns or weaving methods.
+Woven goods, cotton garments, and hide clothing are described.
 
 - **Woven goods** — Woven goods provide an alternative source of income and are part of the modern economy.
 - **Cotton garments** — Cotton was made into clothing and shoes.
@@ -40,10 +40,10 @@ Tewa clothing used cotton and animal hides, but the sources do not distinguish n
 
 ### Architecture
 
-The sources mention homes, pueblos, villages, kivas, and agricultural settlements but do not describe their construction.
+The sources mention homes, pueblos, villages, kivas, and agricultural settlements.
 
 - **Pueblos** (*pueblo*) — Pueblos are mentioned as Tewa communities, but their building forms are not described.
-- **Kivas** (*kiva*) — Kivas are mentioned, but the sources do not explain their construction or use.
+- **Kivas** (*kiva*) — Kivas are mentioned.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -61,14 +61,6 @@ Jewelry provided income before Spanish colonization and remains part of the mode
 
 - **Jewelry** — Jewelry was an alternative source of income and contributes to the modern-day economy.
 - **Beadwork** — Museum records describe beadwork in white, blue, yellow, orange, maroon, red, and other colors on regalia components.
-
-## Music & performance
-
-The sources do not describe Tewa instruments, song genres, or musical performances.
-
-## Dance & theatre
-
-The sources do not describe named Tewa dances, theatre, or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -136,4 +128,3 @@ Tewa is a Tanoan language with pueblo-level dialect differences, and Tewa religi
 - UNESCO Intangible Cultural Heritage: no United States inscription in the supplied sources.
 - Museum of World Culture catalogue records for Santa Clara Pueblo and Tewa or Hano vessels.
 - British Museum catalogue records for powwow regalia.
-

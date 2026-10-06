@@ -31,7 +31,7 @@ The Akha are an ethnic group living in small villages at higher elevations in th
 
 ### Clothing & dress
 
-Akha women traditionally wear broad leggings, a short black skirt with a white beaded sporran, and a loose-fitting black jacket with heavily embroidered cuffs and lapels. Women spin cotton, weave cloth on a foot-treadle loom, and dye it with indigo. Museum records include a woman’s black cotton coat, a woman’s pleated woven black cotton skirt, an appliquéd and embroidered apron, an appliquéd cotton sash, a woman’s gown from Thailand, and a cotton, hemp, silver, glass, and shell ensemble dating to about 1900. Women’s headdresses indicate age or marital status. At roughly age 12, a girl exchanges her child’s cap for a girl’s cap; during mid-adolescence she begins wearing the adult woman’s headdress. The sources describe women’s clothing in detail but do not describe specific men’s garments, footwear, or belts beyond the *jejaw* sash.
+Akha women traditionally wear broad leggings, a short black skirt with a white beaded sporran, and a loose-fitting black jacket with heavily embroidered cuffs and lapels. Women spin cotton, weave cloth on a foot-treadle loom, and dye it with indigo. Museum records include a woman’s black cotton coat, a woman’s pleated woven black cotton skirt, an appliquéd and embroidered apron, an appliquéd cotton sash, a woman’s gown from Thailand, and a cotton, hemp, silver, glass, and shell ensemble dating to about 1900. Women’s headdresses indicate age or marital status. At roughly age 12, a girl exchanges her child’s cap for a girl’s cap; during mid-adolescence she begins wearing the adult woman’s headdress. The sources describe women’s clothing in detail.
 
 ### Architecture
 
@@ -41,23 +41,23 @@ Entrances to Akha villages have a wooden gate with elaborate carvings on both si
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not describe Akha ceramics. They document iron, bamboo, wood, cane, cotton, silver, shell, glass, and fibre objects. Museum records include poisoned arrows made of iron and bamboo, poisoned arrows made of bamboo, and an unpoisoned bamboo arrow associated with the Akha. The catalogue also records rice baskets made of wood and cane, an ancestor basket, cane baskets, a wooden spool, and wooden weaving equipment. The Akha have an expert in ironworks called the *pa jee*, who holds the second most important position within the society.
+The sources document iron, bamboo, wood, cane, cotton, silver, shell, glass, and fibre objects. Museum records include poisoned arrows made of iron and bamboo, poisoned arrows made of bamboo, and an unpoisoned bamboo arrow associated with the Akha. The catalogue also records rice baskets made of wood and cane, an ancestor basket, cane baskets, a wooden spool, and wooden weaving equipment. The Akha have an expert in ironworks called the *pa jee*, who holds the second most important position within the society.
 
 ### Jewelry & body adornment
 
 Akha women’s headdresses may be decorated with silver coins, monkey fur, and dyed chicken feathers. The headdress styles described for the Ulo, Pamee, and Lomi Akha include beads, silver studs, seeds, coins, chicken-feather tassels, silver rings, silver balls, pendants, and an inscribed plate. Museum records include silver bracelets with incised geometric patterns, silver ornaments, brass and shell head ornaments, necklaces of glass beads, fibre, carnelian, and shell, and an armlet made from rattan, a yellow leaf, fibre cord, coix seeds, and hair.
 
-A museum record describes a silver armband with dragon heads worn by older Akha men. A silver bead called the “heart” rings inside the hollow bracelet, and the catalogue states that this has religious meaning. The sources do not document tattoos, henna, or particular hair practices.
+A museum record describes a silver armband with dragon heads worn by older Akha men. A silver bead called the “heart” rings inside the hollow bracelet, and the catalogue states that this has religious meaning.
 
 ## Music & performance
 
-The sources do not identify named musical instruments or song genres. They state that Akha women perform traditional dances and songs for villagers during the Swing Festival. The sources also report that village squares were once filled with the sounds of courtship songs, while radios are now more likely to play pop hits.
+The sources state that Akha women perform traditional dances and songs for villagers during the Swing Festival. The sources also report that village squares were once filled with the sounds of courtship songs, while radios are now more likely to play pop hits.
 
-A British Museum catalogue record identifies a Jew’s harp made of wood and thread, but the sources do not describe its performance context or provide an Akha name for the instrument. Music is therefore documented mainly through festival dancing and singing and through the contrast between courtship songs and contemporary radio listening.
+A British Museum catalogue record identifies a Jew’s harp made of wood and thread. Music is therefore documented mainly through festival dancing and singing and through the contrast between courtship songs and contemporary radio listening.
 
 ## Dance & theatre
 
-The sources do not name a particular Akha dance or theatrical tradition. During the Swing Festival, women dress in traditional clothing and ornaments and perform traditional dances and songs for the villagers. This performance is connected with women’s display of clothing, ornamentation, age, and marriageable status.
+During the Swing Festival, women dress in traditional clothing and ornaments and perform traditional dances and songs for the villagers. This performance is connected with women’s display of clothing, ornamentation, age, and marriageable status.
 
 ## Festivals & rituals
 
@@ -65,7 +65,7 @@ The annual ritual cycle consists of nine or twelve ancestor offerings, rice ritu
 
 The most important festival described is the four-day Akha Swing Festival. It takes place in late August each year and falls on the 120th day after the village has planted its rice. The Akha call it *Yehkuja*, translated as “eating bitter rice,” a phrase referring to the previous year’s dwindling rice supply and hope that monsoons will water the new crop. Ritual offerings are made to family ancestral spirits at an altar in the women’s side of the house. Offerings include cooked food, water, and rice whiskey. The festival is particularly important for women and is also known as Women’s New Year. The traditional New Year, held in late December, is known as Men’s New Year.
 
-The village swing is built annually by an elder called a *dzoeuh mah*. It is used in an ancestor offering related to the fertility of rice. The sources also describe annual rebuilding of village gates and the swing, the recitation of patrilineal genealogy during important ceremonies, and rules concerning marriage, death, and birth. They do not provide a fuller calendar of life-cycle ceremonies.
+The village swing is built annually by an elder called a *dzoeuh mah*. It is used in an ancestor offering related to the fertility of rice. The sources also describe annual rebuilding of village gates and the swing, the recitation of patrilineal genealogy during important ceremonies, and rules concerning marriage, death, and birth.
 
 ## Foodways
 
@@ -73,7 +73,7 @@ Highland rice is the main staple of Akha cuisine. The Akha grow rice, corn, soyb
 
 Most Akha plant dry-land rice, which depends on rainfall, although some villages irrigate paddy fields. The sources describe slash-and-burn agriculture, in which forests and woodlands are cleared by burning or cutting. Women gather plants, eggs, and insects, while women and men fish in local lakes and streams. Some villages construct bee gums to attract colonies and harvest honey. Hunting is a male activity and supplies food; the barking deer is described as a favourite prey.
 
-Ritual offerings at the Swing Festival include cooked food, water, and rice whiskey. The sources do not name specific cooked dishes, brewing methods, tea or coffee traditions, or dietary rules.
+Ritual offerings at the Swing Festival include cooked food, water, and rice whiskey.
 
 ## Oral tradition & literature
 
@@ -81,7 +81,7 @@ Akha beliefs are passed down through oral recitation. The Akha believe that the 
 
 The Akha place strong emphasis on genealogy. During important ceremonies, Akha males recite their patrilineal genealogy back over 50 generations to the first Akha, Sm Mi O. This recitation also helps regulate marriage, because a man and woman who share a common male ancestor within their last six generations may not marry.
 
-The sources do not identify Akha folktales, epics, proverbs, riddles, or contemporary literary revivals. The Akha language has been documented through dictionaries, linguistic surveys, and archive collections, but the provided sources do not describe a specific oral-literature preservation project.
+The Akha language has been documented through dictionaries, linguistic surveys, and archive collections.
 
 ## Language & religion
 

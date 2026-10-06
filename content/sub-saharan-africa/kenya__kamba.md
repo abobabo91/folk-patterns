@@ -60,7 +60,7 @@ Kamba everyday objects serve farming, hunting, household work, trade, and ceremo
 - **Beehive** — Kamba woodworkers make beehives for practical use.
 - **Bows and arrows** — Bows and arrows belong to Kamba hunting and everyday material culture.
 - **Iron tools and weapons** — Ironworking produced tools and weapons used in farming, hunting, pastoralism, and trade.
-- **Pottery** — Pottery remains a Kamba craft, although the sources do not name a distinct vessel style.
+- **Pottery** — Pottery remains a Kamba craft.
 
 ### Jewelry & body adornment
 

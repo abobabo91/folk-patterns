@@ -70,8 +70,6 @@ The named performance tradition is Tromba, a ceremony for communicating with dec
 
 ## Dance & theatre
 
-The sources do not describe named Sakalava dances or theatre forms.
-
 - **Royal processions** — Tromba includes ceremonies and processions for the spirits of deceased royalty, but their movements are not described.
 
 ## Festivals & rituals
@@ -85,7 +83,7 @@ Sakalava religious life centers on royal ancestors, Tromba, memorial sites, and 
 
 ## Foodways
 
-The Sakalava have historically kept large herds of zebu cattle, but the sources do not describe their food.
+The Sakalava have historically kept large herds of zebu cattle.
 
 - **Zebu cattle herding** — Pastoralists traditionally allowed large zebu herds to graze freely over grasslands in the northwest.
 
@@ -95,7 +93,7 @@ Sakalava history is preserved through local tradition, oral histories, and writt
 
 - **Maroseraña founders** (*Maroseraña*) — Local tradition says the founders of the Sakalava kingdom were the Maroseraña princes from Fiherenana, now Toliara.
 - **Maroseranana name** (*Maroseranana*) — The Maroseraña are also called Maroseranana, meaning “those who owned many ports.”
-- **Ibonia epic** (*Ibonia*) — Ibonia is a Malagasy national epic about a folk hero, but the source does not identify it as specifically Sakalava.
+- **Ibonia epic** (*Ibonia*) — Ibonia is a Malagasy national epic about a folk hero.
 
 ## Language & religion
 
@@ -131,4 +129,3 @@ Sakalava speak two main Malagasy dialects and follow a mix of traditional, Islam
 - “Sakalava language,” Wikipedia: https://en.wikipedia.org/wiki/Sakalava_language
 - UNESCO Intangible Cultural Heritage: no Madagascar inscription was supplied in the source material.
 - British Museum catalogue records supplied for the objects illustrated in this atlas.
-

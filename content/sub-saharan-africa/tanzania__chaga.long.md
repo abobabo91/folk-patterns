@@ -15,10 +15,6 @@ The Chaga, or Chagga (Swahili *Wachagga*), are a Bantu-speaking people of the Ki
 
 The sources used here — the Wikipedia articles on the Chaga people, the Chaga language and Chaga cuisine — describe no textile or weaving tradition, and there are no museum catalogue records among the sources, so nothing can be said about pattern-bearing cloth for this people.
 
-### Clothing & dress
-
-The sources used do not describe Chaga clothing, headgear, footwear or ceremonial dress.
-
 ### Architecture
 
 Chagga settlement is made of small clusters rather than large agglomerations, each family in its own home. The household unit is the *kihamba*: a fenced farmhouse enclosure, ringed by the *masale* plant (*Dracaena fragrans*), which is a revered symbol of peace and forgiveness. Inside the fence is a banana grove whose long overhanging fronds shade tomatoes, onions and varieties of yam, and in the middle of the grove stands a round, beehive-shaped house of earth roofed with grass or banana leaves. A fire burns in the centre of the single room on three supporting stones, with bananas drying in a small loft above it; the sleeping place — a leather hide or a bed of dry banana leaves — lies near the door, where the husband's hoe and tools are also kept. A homestead may hold several structures for the head of the family, wives, children and slaves, plus stalling for livestock, and a smaller well-kept store raised on poles for millet, bananas, beans, honey and banana beer. The garden is enclosed by a living hedge of dracaena or thorny capers, with flowering creepers arching over the entrance and an irrigation channel running nearby. Neighbouring homesteads usually belong to one clan, linked by interior paths and separated from the next clan's ground by a larger hedge or an earth bank; a *mtaa* is a chiefdom made up of several clans. House designs differ east and west of the Weru Weru River. When Rebmann reached Kilema in 1848 he remarked at once on the order the *mangi*'s firm authority had produced.
@@ -27,17 +23,9 @@ Chagga settlement is made of small clusters rather than large agglomerations, ea
 
 Blacksmiths work in many homesteads, bent over hot embers with an anvil and goatskin bellows; women making and firing earthen pots are a less common sight. Beehives are made from hollowed tree trunks fitted with stoppers and hung from nearby trees, and hides are stretched on pegs to dry at the door of the house. The hoe is the tool kept in the sleeping quarters with the husband's other equipment. The most elaborate everyday engineering is not an object but the water system: water is gathered from distant sources beyond the virgin forest, led along hillsides and cliffs, dropped down less conspicuous slopes into reservoirs and distributed through a network of small channels giving all households equitable access — the practice the French missionary Alexandre Le Roy singled out when he visited in 1890.
 
-### Jewelry & body adornment
-
-The sources used do not describe Chaga jewelry, hair practice, tattooing or other body adornment, except that male circumcision is common and marks the point in the life cycle after which a child is prepared for marriage.
-
 ## Music & performance
 
-The sources used do not describe Chaga instruments, song genres or musical performance contexts. Tanzania has no UNESCO Intangible Cultural Heritage inscriptions, so none bear on Chaga music.
-
-## Dance & theatre
-
-The sources used do not describe Chaga dance or dramatic traditions.
+Tanzania has no UNESCO Intangible Cultural Heritage inscriptions, so none bear on Chaga music.
 
 ## Festivals & rituals
 

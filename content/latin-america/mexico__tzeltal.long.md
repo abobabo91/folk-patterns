@@ -27,7 +27,7 @@ Handcrafts are the main specialization of Tzeltal who live in the larger village
 
 ### Clothing & dress
 
-Dress is strongly gendered. Women are recognizable by a black skirt with a wool belt and an undyed cotton blouse embroidered with flowers; the hair is tied with ribbons and covered with a cloth. The woven *huipil* and the machine-cotton *blusa bordada* both belong to this wardrobe, the first made at home on the backstrap loom, the second assembled from factory cloth and embroidered. Men, as a rule, no longer wear traditional attire, though the brocaded man's sash in the British Museum collection shows what that attire included. Dress is also local rather than ethnic: each community has its own clothing alongside its own dialect and territory, and the sources treat garment style as one of the markers that distinguish one village from the next. The sources used do not describe footwear, hats or a separate ceremonial costume.
+Dress is strongly gendered. Women are recognizable by a black skirt with a wool belt and an undyed cotton blouse embroidered with flowers; the hair is tied with ribbons and covered with a cloth. The woven *huipil* and the machine-cotton *blusa bordada* both belong to this wardrobe, the first made at home on the backstrap loom, the second assembled from factory cloth and embroidered. Men, as a rule, no longer wear traditional attire, though the brocaded man's sash in the British Museum collection shows what that attire included. Dress is also local rather than ethnic: each community has its own clothing alongside its own dialect and territory, and the sources treat garment style as one of the markers that distinguish one village from the next.
 
 ### Architecture
 
@@ -43,11 +43,7 @@ The sources used cover almost no jewelry. What they record is cloth and hair: th
 
 ## Music & performance
 
-The sources used do not describe Tzeltal instruments, song genres or musical performance contexts. The one documented broadcast tradition is spoken rather than sung: Tzeltal-language programming carried by the CDI radio station XEVFS, which broadcasts from Las Margaritas, Chiapas.
-
-## Dance & theatre
-
-The sources used do not cover Tzeltal dance or dramatic traditions.
+The one documented broadcast tradition is spoken rather than sung: Tzeltal-language programming carried by the CDI radio station XEVFS, which broadcasts from Las Margaritas, Chiapas.
 
 ## Festivals & rituals
 
@@ -57,11 +53,11 @@ Alongside this, shamanism and magical practice remain active, and ritual is boun
 
 ## Foodways
 
-Agriculture is the base of Tzeltal economic life, and the field crops are the classic Mesoamerican set: maize, beans, squash and chili peppers are the most important. Around them grow wheat, manioc, sweet potatoes, cotton, chayote, some fruits, other vegetables and coffee. Domestic animals are pigs, donkeys, cattle and domestic fowl; in the Lacandon Jungle settlements founded since the 1930s, cattle-raising is a particular object of the migration. Maize reaches the table as *waj*, tortilla, and the act of making it is lexicalized as *pakʼwaj*, "tortilla baking," from *pakʼ* ("strike with the hand") and *waj* — the compound itself records the handmade tortilla as a named daily task. For many households neither farming nor craft income is enough, so wage labour supplements both. The sources used do not describe specific prepared dishes, ceremonial foods or drink traditions beyond this.
+Agriculture is the base of Tzeltal economic life, and the field crops are the classic Mesoamerican set: maize, beans, squash and chili peppers are the most important. Around them grow wheat, manioc, sweet potatoes, cotton, chayote, some fruits, other vegetables and coffee. Domestic animals are pigs, donkeys, cattle and domestic fowl; in the Lacandon Jungle settlements founded since the 1930s, cattle-raising is a particular object of the migration. Maize reaches the table as *waj*, tortilla, and the act of making it is lexicalized as *pakʼwaj*, "tortilla baking," from *pakʼ* ("strike with the hand") and *waj* — the compound itself records the handmade tortilla as a named daily task. For many households neither farming nor craft income is enough, so wage labour supplements both.
 
 ## Oral tradition & literature
 
-One of the group's two self-designations is itself a claim about oral tradition: *batzilʼop*, "those of the original word," refers to the Maya oral tradition the Tzeltal carry. The sources used do not record particular folktales, epics, proverbs or storytelling occasions. They do document how the language stands today, which bears directly on its oral literature: Ethnologue rates Tzeltal 5 of 10, "Developing," and describes its use as "vigorous," but that use is almost exclusively oral — schools rarely use Tzeltal materials, and as a result nearly everyone under thirty is bilingual in Spanish, while many grandparents remain monolingual Tzeltal speakers. Two institutional supports exist: Tzeltal radio programming on XEVFS from Las Margaritas, and the liturgical translations approved by Pope Francis in 2013 covering the prayers for Mass, marriage, baptism, confirmation, confession, ordination and the anointing of the sick. Bishop Arizmendi said that the texts took roughly eight years to translate and would be used in his diocese and in the neighbouring Archdiocese of Tuxtla Gutiérrez.
+One of the group's two self-designations is itself a claim about oral tradition: *batzilʼop*, "those of the original word," refers to the Maya oral tradition the Tzeltal carry. The sources document how the language stands today, which bears directly on its oral literature: Ethnologue rates Tzeltal 5 of 10, "Developing," and describes its use as "vigorous," but that use is almost exclusively oral — schools rarely use Tzeltal materials, and as a result nearly everyone under thirty is bilingual in Spanish, while many grandparents remain monolingual Tzeltal speakers. Two institutional supports exist: Tzeltal radio programming on XEVFS from Las Margaritas, and the liturgical translations approved by Pope Francis in 2013 covering the prayers for Mass, marriage, baptism, confirmation, confession, ordination and the anointing of the sick. Bishop Arizmendi said that the texts took roughly eight years to translate and would be used in his diocese and in the neighbouring Archdiocese of Tuxtla Gutiérrez.
 
 ## Language & religion
 

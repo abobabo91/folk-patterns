@@ -33,10 +33,6 @@ The sources document leather, skin, bead, hair, and feather clothing and dress a
 
 Head coverings include a red leather cap made from folded strips of oxhide, a felted human-hair head-dress decorated with four large feathers, and a tightly fitting war head-dress of woven human hair with a crest of black and white ostrich plumes. Another head-dress is described as a wig, in fact a helmet, made of matted human hair with side-flaps, a gourd pendant, and ostrich feathers in cane settings. Footwear is not covered by the sources used.
 
-### Architecture
-
-The sources used do not cover Pokot architecture, house forms, roofing, settlement layouts, or built decoration.
-
 ### Ceramics, metalwork & everyday objects
 
 Museum catalogues record a pottery vessel with a rounded bottom and two handles, brownish in color with black scorch marks. Household containers include a long, slender gourd milk-container with an attached lid, skin strap, beads, and repairs in palm-stalk and palm fibre. A wooden elliptical water-bowl has a rounded bottom, a wire repair, a blackened interior base, and a plaited leather carrying loop. A composite reed basket with a leather handle is recorded as being used for grain.
@@ -53,21 +49,17 @@ Women’s collars use strings of black, red, white, green, and other colored bea
 
 The sources used provide limited information about Pokot music and performance. The museum catalogue records a side-blown war-horn made of wood covered with strips of hide, but gives no further account of its performance context, repertoire, or musical system.
 
-The strongest documented performance tradition is verbal art. Proverbs are used both to teach and to make a point. At gatherings of elders, a speaker may use proverbs to demonstrate skill in speaking. Proverbs also teach younger people the consequences of straying from the moral path. The Pokot classify forms of speech, including *Lökoi* for news of other places, *Chiran* for news of events in the neighborhood, *Kokwö* for serious business-like conversations, *Kiruok* for conversations of a legal nature, and *Ng'öliontoköny* for talk of olden times. The sources do not describe named song genres, dances performed with the war-horn, or musical ensembles.
-
-## Dance & theatre
-
-The sources used do not cover named Pokot dances, theatre, masked performance, shadow puppetry, or other dramatic traditions.
+The strongest documented performance tradition is verbal art. Proverbs are used both to teach and to make a point. At gatherings of elders, a speaker may use proverbs to demonstrate skill in speaking. Proverbs also teach younger people the consequences of straying from the moral path. The Pokot classify forms of speech, including *Lökoi* for news of other places, *Chiran* for news of events in the neighborhood, *Kokwö* for serious business-like conversations, *Kiruok* for conversations of a legal nature, and *Ng'öliontoköny* for talk of olden times.
 
 ## Festivals & rituals
 
-The sources describe social organization, initiation, and a public controversy connected with circumcision, but do not provide an annual festival calendar. Pokot men were socially divided into three groupings: *Karachna*, boys; *Muren*, circumcised men; and *Poi*, old men. Boys joined an age-set after circumcision. The sources state that there were no notable differences in initiation or governance between the agricultural and pastoral groupings described in early twentieth-century accounts.
+The sources describe social organization, initiation, and a public controversy connected with circumcision. Pokot men were socially divided into three groupings: *Karachna*, boys; *Muren*, circumcised men; and *Poi*, old men. Boys joined an age-set after circumcision. The sources state that there were no notable differences in initiation or governance between the agricultural and pastoral groupings described in early twentieth-century accounts.
 
-In November 2014, pictures of the circumcision of young Pokot girls caused public outrage abroad. The source notes that Kenya had legally banned the practice. The sources do not describe wedding ceremonies, funerals, birth rites, named initiation songs, seasonal festivals, or ritual foods.
+In November 2014, pictures of the circumcision of young Pokot girls caused public outrage abroad. The source notes that Kenya had legally banned the practice.
 
 ## Foodways
 
-The sources used do not document a Pokot staple-grain system, named dishes, cooking techniques, tea or coffee traditions, ceremonial meals, or dietary rules. Museum catalogues do, however, record vessels associated with food and pastoral life. A long gourd container was used to store milk. Another container, made from a hollowed wooden piece with leather bottom and lid, is recorded as being used for sheep fat or honey; the catalogue specifically states that the Pokot generally use this type of container for honey. A composite basket is recorded as being used for grain.
+Museum catalogues do, however, record vessels associated with food and pastoral life. A long gourd container was used to store milk. Another container, made from a hollowed wooden piece with leather bottom and lid, is recorded as being used for sheep fat or honey; the catalogue specifically states that the Pokot generally use this type of container for honey. A composite basket is recorded as being used for grain.
 
 The sources also document agricultural and pastoral distinctions. An agricultural section of the Pokot is contrasted with a pastoral section in early twentieth-century accounts, and a cattle-bell was used on a bull. No named Pokot food or beverage appears in the supplied sources.
 
@@ -75,11 +67,11 @@ The sources also document agricultural and pastoral distinctions. An agricultura
 
 Verbal art is described as very important among the Pokot. Proverbs are used flexibly for instruction, argument, and demonstrations of eloquence at gatherings of elders. They teach younger people about the consequences of leaving the moral path. A popular tale about the Louwialan clan warns against pride, while another common tale concerns a blind girl who returns from death.
 
-Riddles, called *Tyangoi*, are mainly used to sharpen children’s wits and hold their attention during storytelling. Even after the introduction of Western education, folklore continued to be used as a means of teaching. The sources do not identify an epic poem, written literary tradition, contemporary literary revival, or named preservation project beyond these oral forms.
+Riddles, called *Tyangoi*, are mainly used to sharpen children’s wits and hold their attention during storytelling. Even after the introduction of Western education, folklore continued to be used as a means of teaching.
 
 ## Language & religion
 
-Pökoot, also known as Pokot, Päkot, Pökot, and in older literature as Suk, is spoken in western Kenya and eastern Uganda. It belongs to the northern branch of the Kalenjin languages, found in Kenya, Uganda, and Tanzania. The Pökoot are usually called “Kimukon” by other Kalenjin peoples. The language area is bordered by Karimojong to the north, Turkana to the northeast, the Maa languages Samburu and Camus to the east, and Tugen and Markweta to the south. The supplied sources do not describe a historical script, religious system, named deities, or specific spiritual practices.
+Pökoot, also known as Pokot, Päkot, Pökot, and in older literature as Suk, is spoken in western Kenya and eastern Uganda. It belongs to the northern branch of the Kalenjin languages, found in Kenya, Uganda, and Tanzania. The Pökoot are usually called “Kimukon” by other Kalenjin peoples. The language area is bordered by Karimojong to the north, Turkana to the northeast, the Maa languages Samburu and Camus to the east, and Tugen and Markweta to the south.
 
 ## Sources & further reading
 

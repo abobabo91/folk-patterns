@@ -76,10 +76,6 @@ The sources document little secular Evenki music beyond a herder's signalling to
 - **Evenki folk songs** — A collection transcribed in IPA and Mongolian script with Chinese-style numbered musical notation, published with the Evenki–Mongolian–Chinese dictionary of 1983.
 - **Shamanic performance** — The shamaness Dula'r kept hidden an Abagaldi bear spirit shaman mask of a type also documented among the Mongols and Daur.
 
-## Dance & theatre
-
-The sources used do not cover Evenki dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Evenki ritual life centers on animism, belief in upper, middle and lower worlds, the soul, and totemistic concepts, with shamanism taking over magical hunting and herding rituals.
@@ -140,7 +136,5 @@ Evenki is the largest northern Tungusic language, highly agglutinating with 13 c
 - Scholarship and documentation: G. M. Vasilevich on Evenki ethnogenesis; A. A. Sirina on the Evenki "ecological ethic"; Richard Noll and Kun Shi's 1994 field report and photographs on the shamaness Dula'r; Juha Janhunen on multilingualism in Hulunbuir; the Evenki DoReCo corpus (Olga Kazakevich and Elena Klyachko); *Эвенкитека* (the Evenki Library); "The Evenks," *The Red Book of the Peoples of the Russian Empire*; Natalya Saprunova, "The Evenki people, custodians of the resources of Yakutia – photo essay," *The Guardian*, 3 October 2023.
 - https://en.wikipedia.org/wiki/Evenki_people
 - https://en.wikipedia.org/wiki/Evenki_language
-- UNESCO Intangible Cultural Heritage: no inscription for this group appears in the sources used.
 - https://folkways.si.edu/search?query=Evenki
 - British Museum collection online (the lance, bow and bow-case, quiver, coats, trousers, boots, beaded apron, saddle-bag, smoking pipes, mammoth-ivory comb, reindeer-call horn and ritual figure shown here): https://www.britishmuseum.org/collection
-

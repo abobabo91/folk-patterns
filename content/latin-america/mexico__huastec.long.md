@@ -31,7 +31,7 @@ The catalogued garments here are hats, and the palm-fibre hat is documented in u
 
 ### Architecture
 
-The sources used here do not describe Huastec houses, building materials or settlement form. What they do record of the pre-Columbian built environment is that Huastecs constructed temples on step-pyramids.
+What the sources do record of the pre-Columbian built environment is that Huastecs constructed temples on step-pyramids.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -45,13 +45,9 @@ The sources name engraved shell gorgets and fan headdresses among pre-Columbian 
 
 The sources record that other Mesoamerican peoples admired the Huastecs for their musical abilities, but name no instrument, song genre or performance occasion. Huastec-language broadcasting is carried out by the CDI's radio station XEANT-AM, based in Tancanhuitz de Santos, San Luis Potosí.
 
-## Dance & theatre
-
-The sources used do not cover Huastec dance or dramatic traditions.
-
 ## Festivals & rituals
 
-The sources used do not describe a Huastec festival calendar or life-cycle rites. Mexico has no UNESCO Intangible Cultural Heritage inscription listed here that concerns this group. The one ritual practice the sources touch on is pre-Columbian and known through carved iconography: the "yoke-palm-axe" complex, found from Jaina Island in coastal Campeche through Aparicio in Veracruz to the Huasteca, in association with the *pelota* ballgame, decapitation and tooth mutilation — though this distribution may reflect coastal trade contacts made after the Huastecs were established in the Huasteca rather than a shared inheritance.
+Mexico has no UNESCO Intangible Cultural Heritage inscription listed here that concerns this group. The one ritual practice the sources touch on is pre-Columbian and known through carved iconography: the "yoke-palm-axe" complex, found from Jaina Island in coastal Campeche through Aparicio in Veracruz to the Huasteca, in association with the *pelota* ballgame, decapitation and tooth mutilation — though this distribution may reflect coastal trade contacts made after the Huastecs were established in the Huasteca rather than a shared inheritance.
 
 ## Foodways
 

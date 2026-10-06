@@ -25,8 +25,6 @@ Ponca material culture is best documented through clothing, jewelry, blankets, w
 
 ### Textile & pattern traditions
 
-The sources do not document named Ponca textile or pattern traditions.
-
 - **Quill work** — Quill work appears as decoration on hide leggings.
 - **Floral cloth** — Floral cloth appears in museum records as an object and clothing material.
 - **Beadwork** — Beadwork appears in descriptions of Ponca objects and clothing.
@@ -49,8 +47,6 @@ A prehistoric Ponca village had large circular homes along the Niobrara River.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources do not document named Ponca traditions for ceramics, metalwork, wooden objects, or tools.
-
 - **Tomahawks** — Tomahawks appear in a portrait of four Ponca chiefs.
 - **Sword** — A sword appears in museum records of Ponca personal possessions.
 - **Blankets** — Blankets appear among the objects recorded in photographic portraits.
@@ -68,13 +64,9 @@ Ponca adornment included necklaces, chokers, ear ornaments, medals, arm ornament
 
 ## Music & performance
 
-The sources identify three Ponca co-founders of the Native American Church but do not document named Ponca musical traditions.
+The sources identify three Ponca co-founders of the Native American Church.
 
 - **Native American Church** — Frank Eagle, Louis McDonald, and McKinley Eagle helped found the Native American Church in 1918.
-
-## Dance & theatre
-
-The sources do not document named Ponca dances, theatrical forms, or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -138,4 +130,3 @@ Omaha–Ponca has two closely related dialects, few elderly fluent speakers, and
 - [Ponca](https://en.wikipedia.org/wiki/Ponca)
 - [Ponca language](https://en.wikipedia.org/wiki/Ponca_language)
 - The supplied UNESCO Intangible Cultural Heritage list contains no inscription for this ethnic group.
-

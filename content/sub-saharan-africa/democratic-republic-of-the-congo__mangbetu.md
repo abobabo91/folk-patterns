@@ -17,7 +17,7 @@ tags: [ethnography, sub-saharan-africa]
 
 ## Overview
 
-The Mangbetu live in northeastern Congo. Their culture is known for developed art, music, metalwork, pottery, textiles, body adornment, and royal imagery. Their language is Mangbetu, also called Nemangbetu. The sources do not give a population figure or describe their religion.
+The Mangbetu live in northeastern Congo. Their culture is known for developed art, music, metalwork, pottery, textiles, body adornment, and royal imagery. Their language is Mangbetu, also called Nemangbetu.
 
 ## Material culture
 
@@ -88,7 +88,7 @@ Mangbetu dances were documented by Western photographers and filmmakers, but no 
 The sources give no festival calendar but record Lipombo and political events linked to royal rule.
 
 - **Head-wrapping practice** (*Lipombo*) — Babies’ heads were traditionally wrapped tightly with cloth in Lipombo, which declined in the 1950s with westernization.
-- **Royal courts and dances** — The sources mention royal courts and dances but do not describe their rituals.
+- **Royal courts and dances** — The sources mention royal courts and dances.
 - **Political expansion through wives** — The sources mention local wives used in King Nabiembali’s political expansion.
 - **Independent kingdoms** — Independent kingdoms were established after King Nabiembali’s death in 1859.
 
@@ -140,4 +140,3 @@ Mangbetu is a Central Sudanic language with several named dialects and links to 
 - [Mangbetu people](https://en.wikipedia.org/wiki/Mangbetu_people)
 - [Mangbetu language](https://en.wikipedia.org/wiki/Mangbetu_language)
 - The supplied UNESCO Intangible Cultural Heritage sources list no inscriptions for the Democratic Republic of the Congo concerning the Mangbetu.
-

@@ -49,7 +49,7 @@ Music is not an occasional art among the Rarámuri but a frame for ordinary cond
 
 ## Dance & theatre
 
-Music and dance are described as highly integrated into Rarámuri social life, and the named dance tradition is the ***matachín***: dancers in elaborate, brightly coloured costume moving to violin tunes during the end-of-year cycle, accompanied by *sáuraka* rattles. Dancing also belongs to the beer-centred gatherings, where it goes on alongside the fiddles, flutes, drums and guitars. The other patterned public performances are competitive rather than theatrical. In *rarajipari* — translated as 'foot throwing' — teams of men kick a wooden ball as they run, relaying it to the next runner while teammates move ahead to the following relay point; races run from a few hours to a couple of days without a break. Women's races use a stick and hoop. Collections hold the equipment: wooden balls carved for use in a throwing game, catalogued as game-balls and sporting equipment. Footraces appear in the sources under the names *rarajípare* and *ariwete*. The sources used do not describe a masked or puppet theatre.
+Music and dance are described as highly integrated into Rarámuri social life, and the named dance tradition is the ***matachín***: dancers in elaborate, brightly coloured costume moving to violin tunes during the end-of-year cycle, accompanied by *sáuraka* rattles. Dancing also belongs to the beer-centred gatherings, where it goes on alongside the fiddles, flutes, drums and guitars. The other patterned public performances are competitive rather than theatrical. In *rarajipari* — translated as 'foot throwing' — teams of men kick a wooden ball as they run, relaying it to the next runner while teammates move ahead to the following relay point; races run from a few hours to a couple of days without a break. Women's races use a stick and hoop. Collections hold the equipment: wooden balls carved for use in a throwing game, catalogued as game-balls and sporting equipment. Footraces appear in the sources under the names *rarajípare* and *ariwete*.
 
 ## Festivals & rituals
 
@@ -77,6 +77,5 @@ Rarámuri — endonym *Rarámuri* or *Ralámuli ra'ícha*, 'people language' —
 - Gabriela Caballero, *A Grammar of Choguita Rarámuri*, Language Science Press, 2022, and her 2008 Berkeley dissertation on Choguita Rarámuri phonology and morphology.
 - Jerome M. Levi on Rarámuri ritual healing and identity; Felice S. Wyndham on Rarámuri plant knowledge and landscape.
 - Wikipedia: https://en.wikipedia.org/wiki/Rar%C3%A1muri and https://en.wikipedia.org/wiki/Rar%C3%A1muri_language
-- UNESCO Intangible Cultural Heritage: no inscription in the sources used concerns the Rarámuri.
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Tarahumara
 - Museum collections holding the objects shown: the British Museum (pottery, pine-needle and sotol basketry, sashes, *matraca* rattles, fiddle, game balls), the Museum of World Culture, Gothenburg (blouses, *natépare*, *faja* and *ceñidor* bands, band looms, beadwork, *jícara* and *jarro* vessels), and the Metropolitan Museum of Art (*raberi* folk violin): https://www.metmuseum.org/art/collection

@@ -79,10 +79,6 @@ Dinka musical practice is embedded in religious ceremony and prayer, using tradi
 - **Ox-songs** — Hymns of honour sung by the congregation during stages of sacrificial prayer, used to offer praise and expel misfortune onto the sacrificial animal.
 - **Prayer chanting** — During sacrifice, those leading prayers hold a fishing spear and chant short phrases naming the need while thrusting the spear at the animal, with participants repeating the leader's words.
 
-## Dance & theatre
-
-No named dance or dramatic traditions are documented in the available sources.
-
 ## Festivals & rituals
 
 The ritual year is set by the flood and the herd, with annual celebrations at shrine-mounds and life-cycle rites marking initiation and marriage.
@@ -157,4 +153,3 @@ Dinka is a Nilotic dialect cluster with 13 contrastive vowels and heavy use of t
 - https://en.wikipedia.org/wiki/Dinka_language
 - https://folkways.si.edu/search?query=Dinka
 - British Museum online collection: https://www.britishmuseum.org/collection
-

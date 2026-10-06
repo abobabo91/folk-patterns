@@ -10,7 +10,7 @@ tags: [ethnography, sub-saharan-africa]
 |---|---|
 | Who | The Budu, also called Babudu, are a Bantu people. |
 | Where | Wamba Territory, Orientale Province, Democratic Republic of the Congo, on both sides of the Nepoko River. |
-| How many | The sources do not state the population size. |
+ |
 | Language | Budu, also called Ɨbʉdhʉ. |
 | Religion | The Catholic church and WEC International have been active with the Budu. |
 | Known for | Beaten-bark loin cloths · Palm-leaf-thatched houses · Iron weapons · A war whistle · Forest exchange with the Mbuti people |
@@ -66,10 +66,6 @@ The only recorded musical object is a war whistle made from hollow wood and meta
 
 - **War whistle** — The whistle is a long conical piece of hollow wood bound with iron and copper strips, with a plaited fibre band for suspension.
 
-## Dance & theatre
-
-The sources do not describe Budu dances, theatre, masked performance, or dramatic traditions.
-
 ## Festivals & rituals
 
 The sources describe elder consensus and Christian activity but no festival calendar or life-cycle rites.
@@ -123,9 +119,7 @@ The sources do not describe Budu stories or literature, but they mention the loc
 
 ## Sources & further reading
 
-- The sources provided do not identify books, scholars, documentation projects, or publication details.
 - Wikipedia, “[Budu people](https://en.wikipedia.org/wiki/Budu_people)”.
 - Wikipedia, “[Budu language](https://en.wikipedia.org/wiki/Budu_language)”.
 - UNESCO Intangible Cultural Heritage: the sources state that there are no UNESCO ICH inscriptions for the Democratic Republic of the Congo.
 - British Museum catalogue records for the arm-dagger, knives, spears, sword, sickle-shaped ceremonial knife, war whistle, necklace, and armlet described above.
-

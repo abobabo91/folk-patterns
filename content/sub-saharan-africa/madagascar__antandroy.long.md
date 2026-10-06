@@ -23,7 +23,7 @@ The Tandroy — also written Antandroy, and called Ampatres in the 17th century 
 
 ### Clothing & dress
 
-The southern region is hot for most of the year, and Tandroy dress is correspondingly minimal; the sources note that outsiders turned this into a stereotype of "half-clothed savages" during the colonial period. The staple garments are the woven cotton *lamba* wrapper and the loincloth, sometimes in raw silk (*landy*). The museum objects shown here fill out the rest of the outfit: a hat woven of basketry, a hat-and-wig made of goat hair, and a sandal of cattle hide, one of a pair. Metal bracelets, silver necklaces and metal hair-pins (below) are worn with these. The sources do not describe belts, nor a separate ceremonial costume distinct from daily wear, beyond the ritual use of *fole velo* thread tied at the wrist and worn in the circumcision rite.
+The southern region is hot for most of the year, and Tandroy dress is correspondingly minimal; the sources note that outsiders turned this into a stereotype of "half-clothed savages" during the colonial period. The staple garments are the woven cotton *lamba* wrapper and the loincloth, sometimes in raw silk (*landy*). The museum objects shown here fill out the rest of the outfit: a hat woven of basketry, a hat-and-wig made of goat hair, and a sandal of cattle hide, one of a pair. Metal bracelets, silver necklaces and metal hair-pins (below) are worn with these.
 
 ### Architecture
 
@@ -35,7 +35,7 @@ The sources say nothing about Tandroy pottery. Iron is the historical speciality
 
 ### Jewelry & body adornment
 
-Silver is the prestige metal: two of the necklaces here are silver. Bracelets are metal, worn in numbers — five are in this selection alone — and hair is dressed with metal hair-pins. Adornment extends to hair itself in the form of a hat-and-wig made of goat hair. The one documented ritual ornament is textile rather than metal: the *ambiasa* ties *fole velo* thread around a person's wrist to protect them. Baskets made for jewellery and medicinal plants, woven of raffia and fitted with lids, indicate that ornaments were kept alongside amulet material. The sources do not mention tattooing or cosmetic body painting.
+Silver is the prestige metal: two of the necklaces here are silver. Bracelets are metal, worn in numbers — five are in this selection alone — and hair is dressed with metal hair-pins. Adornment extends to hair itself in the form of a hat-and-wig made of goat hair. The one documented ritual ornament is textile rather than metal: the *ambiasa* ties *fole velo* thread around a person's wrist to protect them. Baskets made for jewellery and medicinal plants, woven of raffia and fitted with lids, indicate that ornaments were kept alongside amulet material.
 
 ## Music & performance
 

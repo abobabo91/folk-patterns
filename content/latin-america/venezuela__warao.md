@@ -52,10 +52,6 @@ The signature Warao object is the dugout canoe, built through a deliberate seaso
 - **Large canoe** (*bongo*) — Holds up to five people, made by felling a large tree and hollowing it with fire and tools, with knowledge passed from the eldest woman to her daughters.
 - **Small canoe** — Seats three and used for daily travel to food sources.
 
-### Jewelry & body adornment
-
-No jewelry, body painting, or adornment traditions are documented in the sources.
-
 ## Music & performance
 
 Warao shamans perform music including rain dances and songs.
@@ -129,4 +125,3 @@ Warao is an endangered agglutinative language isolate with an unusual object-sub
 - https://folkways.si.edu/search?query=Warao
 - British Museum collection: https://www.britishmuseum.org/collection
 - Museum of World Culture, Gothenburg: https://www.varldskulturmuseerna.se
-

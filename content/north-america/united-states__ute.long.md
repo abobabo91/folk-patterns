@@ -15,7 +15,7 @@ The Utes are an Indigenous people of the Great Basin and Colorado Plateau in pre
 
 **Beadwork** — The sources document seed beadwork on a small man's or child's fringed hide shirt, with decoration at the cuffs, neck, and shoulders in black, white, blue, and green. Shoulder fringes carried haliotis shell pendants, textile ribbons, strips of tin, and deer-hoof tinklers. Beaded chokers, sashes, neck ornaments, leggings, moccasins, and other garments also appear in museum portraits.
 
-**Hide garments** — Museum records describe shirts, smocks, leggings, dresses, ponchos, and tunics made of hide, often with fringe, beads, or other decoration. The sources do not identify named Ute stitch techniques or pattern systems.
+**Hide garments** — Museum records describe shirts, smocks, leggings, dresses, ponchos, and tunics made of hide, often with fringe, beads, or other decoration.
 
 **Moccasins** — A British Museum record describes a pair of woman's moccasins with attached leggings, made of hide and beads. Other portraits show Ute men and women wearing moccasins with decorated leggings and hide clothing.
 
@@ -35,15 +35,15 @@ The sources describe Ute clothing through both historical accounts and museum po
 
 ### Architecture
 
-The sources describe eastern Utes as living in tepees after the 17th century and show a museum photograph of an Ute woman seated in front of a tipi. They also mention winter camps established along rivers and mountain valleys, and a bear living in a wickiup in a Bear Dance origin story. The sources do not provide a fuller account of house construction, roof forms, or architectural decoration.
+The sources describe eastern Utes as living in tepees after the 17th century and show a museum photograph of an Ute woman seated in front of a tipi. They also mention winter camps established along rivers and mountain valleys, and a bear living in a wickiup in a Bear Dance origin story.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum records document a coiled basket and a possible water-bottle made of vegetal material and partly covered in pitch, with cloth, skin, and possible horse-hair handles. They also describe a painted fringed quiver made of skin and beads. A photograph shows two pots in front of a tipi. Museum portraits record metal ear ornaments, strips of tin, peace medals, shell ornaments, and guns. The sources mention grinding stones at Garden of the Gods and describe the processing of meat and tanning of hides there. They do not identify named ceramic forms or a distinct metalworking tradition.
+The museum records document a coiled basket and a possible water-bottle made of vegetal material and partly covered in pitch, with cloth, skin, and possible horse-hair handles. They also describe a painted fringed quiver made of skin and beads. A photograph shows two pots in front of a tipi. Museum portraits record metal ear ornaments, strips of tin, peace medals, shell ornaments, and guns. The sources mention grinding stones at Garden of the Gods and describe the processing of meat and tanning of hides there.
 
 ### Jewelry & body adornment
 
-Documented adornment includes beaded chokers, bead neck ornaments, shell neck ornaments, a shell gorget, dentalium ear ornaments, metal ear ornaments, rings, and an ear-ring. The decorated hide shirt in the British Museum record includes haliotis shell pendants, textile ribbons, strips of tin, and deer-hoof tinklers among the shoulder fringes. Museum portraits also show quillwork sashes, embroidered sashes, breast ornaments, feathers, and belts. The sources describe men's hair in braids or two bunches but do not document tattoos, painting practices outside warfare, or named jewelry forms.
+Documented adornment includes beaded chokers, bead neck ornaments, shell neck ornaments, a shell gorget, dentalium ear ornaments, metal ear ornaments, rings, and an ear-ring. The decorated hide shirt in the British Museum record includes haliotis shell pendants, textile ribbons, strips of tin, and deer-hoof tinklers among the shoulder fringes. Museum portraits also show quillwork sashes, embroidered sashes, breast ornaments, feathers, and belts. The sources describe men's hair in braids or two bunches.
 
 ## Music & performance
 
@@ -61,7 +61,7 @@ The dance is named *Mamaqui Mawats*, meaning “to move forward and back.” Men
 
 ## Festivals & rituals
 
-The Utes traditionally came together for ceremonies and trade, and the sources describe annual trade fairs or rescates with Rio Grande River Pueblo people at Taos, Santa Clara, Pecos, and other pueblos. These fairs were ceremonial and social events that could last up to ten days or more. The sources do not provide a complete annual festival calendar or descriptions of Ute birth, marriage, or funeral rites.
+The Utes traditionally came together for ceremonies and trade, and the sources describe annual trade fairs or rescates with Rio Grande River Pueblo people at Taos, Santa Clara, Pecos, and other pueblos. These fairs were ceremonial and social events that could last up to ten days or more.
 
 The Bear Dance takes place in spring and is not danced in winter according to the story attributed to Snake John. It is connected with a bear emerging from its winter shelter and moving forward and backward near a tree. Ute belief holds that the people descended from bears and that the dance creates a bridge between people and their ancestors. The sources also mention annual performances of the Bear and Sun dances. Men preparing for warfare fasted, took part in sweat lodge ceremonies, and painted their faces and horses for special symbolic meanings.
 
@@ -69,7 +69,7 @@ The Bear Dance takes place in spring and is not danced in winter according to th
 
 The sources describe a subsistence economy based on hunting and gathering, including hunting buffalo, deer, elk, and other game. Meat was processed after hunts, and grinding stones found at Garden of the Gods suggest gatherings for tanning hides and processing meat. Utes traded meat, buffalo robes, soft tanned deerskins, maize, flour, and other goods. They also hunted in areas extending through Utah, Colorado, Wyoming, Oklahoma, Texas, and New Mexico.
 
-The sources do not identify named Ute dishes, staple recipes, cooking methods, beverages, dietary rules, or ceremonial foods. They mention foods and trade goods such as meat, maize, and flour but do not provide enough information for a fuller foodways account.
+The sources mention foods and trade goods such as meat, maize, and flour.
 
 ## Oral tradition & literature
 
@@ -81,7 +81,7 @@ Named mythological figures include Wolf, described as the creator and culture he
 
 Ute is a dialect of Colorado River Numic in the Southern subdivision of the Numic branch of the Uto-Aztecan language family. It is closely related to Shoshone, and other dialects in the dialect chain include Chemehuevi and Southern Paiute. The Ute language is spoken on the Uintah-Ouray, Southern Ute, and Ute Mountain reservations. The language is classified as threatened, although tribally sponsored revitalization programs exist. The Ute people refer to their language as *núu-'apaghapi̱* or *núuchi*, meaning “the people's speech” and “of the people.”
 
-The sources describe sacred relationships with nature, animals, and particular places. Pikes Peak was a sacred ceremonial area, and the mineral springs at Manitou Springs were sacred. Ute mythology holds that the people descended from bears and that the Bear Dance connects them with their ancestors. The sources do not describe a current religious denomination or formal religious institution.
+The sources describe sacred relationships with nature, animals, and particular places. Pikes Peak was a sacred ceremonial area, and the mineral springs at Manitou Springs were sacred. Ute mythology holds that the people descended from bears and that the Bear Dance connects them with their ancestors.
 
 ## Sources & further reading
 

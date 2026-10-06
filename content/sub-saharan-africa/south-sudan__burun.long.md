@@ -11,49 +11,13 @@ The Burun are a Luo Nilotic ethnic group from South Sudan. They live in and arou
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Burun textile or pattern traditions.
-
-### Clothing & dress
-
-The sources used do not document Burun everyday clothing, ceremonial dress, head coverings, belts, footwear, or named garments.
-
-### Architecture
-
-The sources used do not document Burun houses, shelters, building materials, roof forms, decoration, or named architectural traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 The museum records include several Burun-associated objects. These include an iron throwing knife of eccentric shape; a spear head with a chased design and barbs pointed backwards, attached to a wooden shaft; a spear with a metal head and a thin light wooden shaft attached by a metal sleeve, with a band of commercial tape wrapped some 10 inches from the top; and a wooden club with a flat head and handle. The catalogue also records a bamboo bow with a string and arrows with bamboo shafts and tapering wood heads hardened by fire. The arrows are variously described as notched with fibre binding, notched with remains of binding, or wrapped with a strip of grass.
 
-### Jewelry & body adornment
-
-The sources used do not document Burun jewelry, body adornment, tattoos, henna, hairstyles, or ritual ornaments.
-
-## Music & performance
-
-The sources used do not document Burun instruments, songs, musical genres, performance contexts, or music-making traditions.
-
-## Dance & theatre
-
-The sources used do not document Burun dances, theatre, dramatic traditions, or performance contexts.
-
-## Festivals & rituals
-
-The sources used do not document Burun festivals, annual rituals, life-cycle ceremonies, weddings, funerals, or other ritual practices.
-
-## Foodways
-
-The sources used do not document Burun staple foods, dishes, cooking methods, food-related ceremonies, beverages, or dietary rules.
-
-## Oral tradition & literature
-
-The sources used do not document Burun folktales, epics, proverbs, riddles, storytelling practices, written literature, or preservation efforts.
-
 ## Language & religion
 
-Burun is described as a Luo Nilotic language. Northern Burun is described as a Nilotic language of Sudan, and Blench (2012) lists three varieties separately. The sources used do not document Burun religious beliefs, institutions, spiritual practices, or historical writing systems.
+Burun is described as a Luo Nilotic language. Northern Burun is described as a Nilotic language of Sudan, and Blench (2012) lists three varieties separately.
 
 ## Sources & further reading
 

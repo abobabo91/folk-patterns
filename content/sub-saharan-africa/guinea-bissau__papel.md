@@ -39,24 +39,12 @@ One recorded cotton garment for men and women is made from six loosely sewn stri
 
 - **Six-strip cotton garment** — The garment uses white and black yarns, a black-and-white grid with diamond decoration in the center, and extra patterns at both ends.
 
-### Architecture
-
-The sources do not describe Papel buildings or settlement design.
-
 ### Ceramics, metalwork & everyday objects
 
 The recorded tools are an iron hoe edge-blade and an iron adze-blade.
 
 - **Hoe edge-blade** — The British Museum records an iron edge-blade for a hoe.
 - **Adze-blade** — The British Museum records an iron adze-blade.
-
-### Jewelry & body adornment
-
-The sources do not describe Papel jewelry, hairstyles, tattoos, or other body adornment.
-
-## Music & performance
-
-The sources do not describe Papel instruments, song types, or musical performances.
 
 ## Dance & theatre
 
@@ -76,7 +64,7 @@ The sources describe oral origins, matrilineal kingship, Catholic conversion, wa
 
 ## Foodways
 
-The sources identify farming and hunting as traditional activities but do not describe named dishes or cooking methods.
+The sources identify farming and hunting as traditional activities.
 
 - **Kola trade** (*Kola*) — Kola was traded with Europeans, and Maria Soares brought a cargo of it to Bissau from Sierra Leone in 1699.
 - **Traditional hunting** — Hunting was one of the Papel’s traditional activities.
@@ -129,4 +117,3 @@ Papel is a Bak language of coastal Guinea-Bissau, with several dialects and hist
 - Wikipedia, “Papel language”: https://en.wikipedia.org/wiki/Papel_language
 - UNESCO Intangible Cultural Heritage: no inscription for Guinea-Bissau was supplied in the sources.
 - British Museum catalogue records for a cotton garment, cotton textiles, an iron hoe edge-blade, and an iron adze-blade.
-

@@ -43,10 +43,6 @@ Samburu dress is marked by wrapped cloth, bead ornaments, shaved or braided hair
 - **Red ochre body decoration** — Hair and bodies may be coloured or decorated with red ochre.
 - **Plaid skirts** — Plaid skirts have become common in women’s clothing since the 2000s.
 
-### Architecture
-
-The profile gives no information about Samburu architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 Samburu collections include weapons, tools, a game board, and containers made from wood, hide, leather, metal, fibre, and feathers.
@@ -140,5 +136,3 @@ Samburu speak a Maa dialect and traditionally follow Nkai, while many are now Ch
 - Wikipedia, [“Samburu people”](https://en.wikipedia.org/wiki/Samburu_people).
 - Wikipedia, [“Samburu language”](https://en.wikipedia.org/wiki/Samburu_language).
 - British Museum and Museum of World Culture catalogue records supplied for the objects shown.
-- The sources used do not provide publisher and year details for the book, named Samburu documentation projects, UNESCO Intangible Cultural Heritage inscriptions, or museum collection URLs.
-

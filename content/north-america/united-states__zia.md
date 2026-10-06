@@ -23,10 +23,6 @@ The Zia are a Keres Pueblo people centered at Zia Pueblo in New Mexico. They spe
 
 Zia material culture is especially known for painted pottery, adobe pueblo homes, farming tools, and objects used in religious ceremonies.
 
-### Textile & pattern traditions
-
-The sources do not document Zia textile traditions or textile-specific patterns.
-
 ### Clothing & dress
 
 The sources document only religious men dressing as kachinas during ceremonies.
@@ -49,10 +45,6 @@ Pottery was central to daily life and trade, and Zia potters made painted vessel
 - **Storage jar** — A large coiled clay storage jar was painted with orange and black slips and decorated with two birds.
 - **Water jar** (*olla*) — A large pottery water jar had black, white, and red floral and geometric patterns and was repaired with native sinew.
 - **Earthenware bowl** — Small and large earthenware bowls had white or red grounds with black and red decoration along the rim.
-
-### Jewelry & body adornment
-
-The sources do not document Zia jewelry or other body adornment.
 
 ## Music & performance
 
@@ -129,4 +121,3 @@ The Zia speak Eastern Keres and follow traditions centered on the sacred Sun, ka
 - [Zia people (New Mexico)](https://en.wikipedia.org/wiki/Zia_people_%28New_Mexico%29)
 - [Zia language](https://en.wikipedia.org/wiki/Zia_language)
 - UNESCO Intangible Cultural Heritage: no United States inscription concerning the Zia is listed in the supplied sources.
-

@@ -55,11 +55,11 @@ The Breton festival year is organised around *pardons*, each the feast day of a 
 
 The major pilgrimage is the *Tro Breizh*, the "tour of Brittany", in which pilgrims walk from the grave of one of the Seven Founder Saints to the next; today the circuit is usually completed over several years. In 2002 the *Tro Breizh* included a pilgrimage to Wales, symbolically reversing the journey made by the Welshmen Paul Aurelian, Brioc and Samson. Breton religious tradition holds that anyone who fails to make the pilgrimage once in life must make it after death, advancing only the length of their coffin every seven years. Attendance at Sunday mass fell through the 1970s and 1980s, but pilgrimage has revived.
 
-The "national day" falls on 1 August, the Feast of Saint Erwann (Saint Yves); the largest Breton national event, the *Gouel Breizh*, takes place each year in the week of 19 May, the day Saint Yves died. The sources used here do not describe Breton birth, coming-of-age, wedding or funeral rites.
+The "national day" falls on 1 August, the Feast of Saint Erwann (Saint Yves); the largest Breton national event, the *Gouel Breizh*, takes place each year in the week of 19 May, the day Saint Yves died.
 
 ## Foodways
 
-Breton cooking draws much from the wider French culinary tradition, with a set of local specialities the sources name directly. *Krampouezh* — crêpes or galettes — are thin pancakes made from either wheat or buckwheat flour, usually eaten as a main course rather than as a sweet. *Kouign-amann* is a butter pastry. *Fars forn*, also called *far breton*, is a sweet suet pudding with prunes. *Caramel au beurre salé*, salted butter caramel, rounds out the sweet repertoire. Three drinks belong to the same list: *sistr*, cider; *lambig*, an apple eau de vie; and *chouchenn*, a Breton mead. Pardons are accompanied by village fairs, and the *fest-noz* is a festival in its own right, but the sources do not specify which foods belong to which occasion, nor do they record dietary rules or a tea or coffee tradition.
+Breton cooking draws much from the wider French culinary tradition, with a set of local specialities the sources name directly. *Krampouezh* — crêpes or galettes — are thin pancakes made from either wheat or buckwheat flour, usually eaten as a main course rather than as a sweet. *Kouign-amann* is a butter pastry. *Fars forn*, also called *far breton*, is a sweet suet pudding with prunes. *Caramel au beurre salé*, salted butter caramel, rounds out the sweet repertoire. Three drinks belong to the same list: *sistr*, cider; *lambig*, an apple eau de vie; and *chouchenn*, a Breton mead. Pardons are accompanied by village fairs, and the *fest-noz* is a festival in its own right.
 
 ## Oral tradition & literature
 

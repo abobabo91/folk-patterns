@@ -13,7 +13,7 @@ The Luvale, also called Lovale, Balovale, Lubale, Lwena, or Luena, are a Bantu e
 
 ### Textile & pattern traditions
 
-**Visalo** — Luvale are known for weaving mats called *visalo*. The sources identify these as part of Luvale craft production but do not provide further information about their materials, patterns, or techniques.
+**Visalo** — Luvale are known for weaving mats called *visalo*. The sources identify these as part of Luvale craft production.
 
 **Costume of coloured vegetable string** — A museum catalogue records a costume consisting of a complete tight-fitting net made from coloured vegetable string.
 
@@ -31,25 +31,25 @@ The Luvale, also called Lovale, Balovale, Lubale, Lwena, or Luena, are a Bantu e
 
 ### Clothing & dress
 
-The sources describe both ordinary and ceremonial clothing only in limited detail. During *wali*, an initiate makes a girdle called a *zeva*, which she wears throughout the ceremony. When she returns to her village, she is covered in a traditional cotton cloth called *chitenge*. The *wali* initiate, or *mwali*, remains in seclusion and receives instruction from an older woman called a *chilombola*. During *mukanda*, male initiates and the makishi are associated with dyed woven costumes made from barkcloth. The sources do not describe ordinary Luvale garments, footwear, daily head coverings, or a separate men’s and women’s clothing system beyond these ceremonial items. A museum catalogue records a hemispherical head-dress made of bark string arranged in closely set projecting loops and covered with red earth and grease.
+The sources describe both ordinary and ceremonial clothing only in limited detail. During *wali*, an initiate makes a girdle called a *zeva*, which she wears throughout the ceremony. When she returns to her village, she is covered in a traditional cotton cloth called *chitenge*. The *wali* initiate, or *mwali*, remains in seclusion and receives instruction from an older woman called a *chilombola*. During *mukanda*, male initiates and the makishi are associated with dyed woven costumes made from barkcloth. A museum catalogue records a hemispherical head-dress made of bark string arranged in closely set projecting loops and covered with red earth and grease.
 
 ### Architecture
 
-The sources do not provide a general description of Luvale houses, village layouts, roofs, or construction methods. They mention a grass hut called a *litungu*, which is built for a girl undergoing *wali* initiation after she has been taken into seclusion near a fig tree called *muulya*. The sources also describe an isolated bush camp used by boys during the seclusion stage of *mukanda*, but do not give its construction details.
+The sources mention a grass hut called a *litungu*, which is built for a girl undergoing *wali* initiation after she has been taken into seclusion near a fig tree called *muulya*. The sources also describe an isolated bush camp used by boys during the seclusion stage of *mukanda*.
 
 ### Ceramics, metalwork & everyday objects
 
-Luvale are described as skilled in pottery, metalwork, basketry, mat weaving, and woodwork. Their wooden objects include stools, some made entirely of wood and others with a hide seat on a wooden frame called a *likupu*. Museum records include axes with iron or steel blades and carved or coloured wooden handles, an iron-bladed knife with a wooden handle, two wooden cassava ladles, and a wooden comb with ten teeth and a handle carved with a human face and tall hair-do. A chair of hard dark wood is made after a European model and has a hide-covered seat. Its legs carry carved male and female figures, while its back legs have brass studs. The sources do not describe Luvale ceramic forms beyond pottery generally.
+Luvale are described as skilled in pottery, metalwork, basketry, mat weaving, and woodwork. Their wooden objects include stools, some made entirely of wood and others with a hide seat on a wooden frame called a *likupu*. Museum records include axes with iron or steel blades and carved or coloured wooden handles, an iron-bladed knife with a wooden handle, two wooden cassava ladles, and a wooden comb with ten teeth and a handle carved with a human face and tall hair-do. A chair of hard dark wood is made after a European model and has a hide-covered seat. Its legs carry carved male and female figures, while its back legs have brass studs.
 
 ### Jewelry & body adornment
 
-The sources do not describe tattoos, henna, or named systems of body ornament. Museum records include an upper portion of a white helix-shell ornament covered with yellow-brown spots, pierced at the top, with a strip of hide inserted. Another record describes a pair of small U-shaped copper ornaments with bosses, repousse dots, hollow interiors, and small pieces of metal that produce a jingling sound; they are strung on fibre. During *wali*, the initiate is covered in oil and red ochre after performing dances. The sources also record beads as decoration on the wooden handle of an axe.
+Museum records include an upper portion of a white helix-shell ornament covered with yellow-brown spots, pierced at the top, with a strip of hide inserted. Another record describes a pair of small U-shaped copper ornaments with bosses, repousse dots, hollow interiors, and small pieces of metal that produce a jingling sound; they are strung on fibre. During *wali*, the initiate is covered in oil and red ochre after performing dances. The sources also record beads as decoration on the wooden handle of an axe.
 
 ## Music & performance
 
 Luvale musical instruments include the *jinjimba*, a xylophone, the *likembe*, a small hand piano, and various drums. Museum objects include a royal drum carved of wood, with a lizard-skin membrane at each end, four handles, and a gourd tube with a spider-web diaphragm. The drum is identified as a symbol of the Chief. Other catalogue records include a sansa with its resonator, a composite thumb-piano or sansa with eight iron keys and a carved wooden sounding board, a slit drum made from a hollow section of a tree trunk, and a composite double rattle of twigs and grass basketry with seed rattles on a central stick. The rattle was used for dancing.
 
-Drumming forms part of **Likumbi Lya Mize**, the official traditional ceremony, which also includes speeches, masked dancing, and dances by girls who have undergone *wali*. In *mukanda*, the female character *Pwebo*, or *Mwanapwebo*, is responsible for the musical accompaniment of rituals and dances. The sources do not identify named song genres, instrumental ensembles, or performance settings beyond initiation ceremonies, the traditional festival, dancing, and social gatherings.
+Drumming forms part of **Likumbi Lya Mize**, the official traditional ceremony, which also includes speeches, masked dancing, and dances by girls who have undergone *wali*. In *mukanda*, the female character *Pwebo*, or *Mwanapwebo*, is responsible for the musical accompaniment of rituals and dances.
 
 ## Dance & theatre
 
@@ -69,13 +69,13 @@ The male coming-of-age ceremony **mukanda**, also called *kumukanda*, involves L
 
 The Luvale have a largely agrarian economy. Their staple crops are manioc, cassava, yams, and peanuts. Tobacco and hemp are grown for snuff, while maize is grown for beer. Women do most of the farming and processing of agricultural products. Slash-and-burn techniques and crop rotation are practiced, and pigs, chickens, sheep, and goats are kept for domestic use.
 
-A society of hunters called *yanga* is responsible for catching bigger game, while everyone contributes to catching small game. The sources state that game has become scarce in much of the region. Luvale are also described as renowned fishermen who export dried catfish to the mining centers of the Copperbelt. Museum records include two wooden cassava ladles and a basket-work porridge dish. The sources do not name additional dishes, cooking methods, dietary rules, or ceremonial foods.
+A society of hunters called *yanga* is responsible for catching bigger game, while everyone contributes to catching small game. The sources state that game has become scarce in much of the region. Luvale are also described as renowned fishermen who export dried catfish to the mining centers of the Copperbelt. Museum records include two wooden cassava ladles and a basket-work porridge dish.
 
 ## Oral tradition & literature
 
 Luvale oral tradition holds that the first leader among migrants moving south from north of Lake Tanganyika was Kenga Naweji. The tradition continues with the Luvale dynasty’s origin from Konde Mateti and the descent of Chinyama cha Mukwamayi, the founder of the Luvale chieftainship. Clan history is preserved through legendary explanations of how each clan arose and through a clan recitation called *kulisasula jikumbu*, which identifies a clan member.
 
-The *mukanda* curriculum includes *tusona*, described as an ancient form of design and calculus consisting of ideographic tracings made in sand. Luvale naming traditions also preserve meanings connected with birth circumstances, reincarnation, and misfortune. The sources give *Kahilu*, meaning “he who has returned/come back,” and the female version *Omba*. They do not describe a named epic, folktale cycle, proverb tradition, or contemporary literary preservation project.
+The *mukanda* curriculum includes *tusona*, described as an ancient form of design and calculus consisting of ideographic tracings made in sand. Luvale naming traditions also preserve meanings connected with birth circumstances, reincarnation, and misfortune. The sources give *Kahilu*, meaning “he who has returned/come back,” and the female version *Omba*.
 
 ## Language & religion
 

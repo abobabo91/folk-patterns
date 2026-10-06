@@ -12,7 +12,7 @@ tags: [ethnography, north-america]
 | Where | Their historical territory included Green Bay, Wisconsin, and areas from the St. Lawrence River to Oklahoma. |
 | How many | Three federally recognized tribes are based in Iowa, Kansas, Nebraska, and Oklahoma. |
 | Language | Sauk belongs to the Algonquian language family and is endangered. |
-| Religion | The sources do not describe Sauk religious beliefs or current religious life. |
+ |
 | Known for | Clan and moiety organization · Lacrosse · Hunting and farming · Oral traditions · Distinctive dress and adornment |
 
 ## Overview
@@ -42,13 +42,9 @@ The clothing records show shirts, blankets, leggings, moccasins, headwear, and m
 - **Feathered headwear** — Men wore feather hair ornaments, eagle feathers, fur headdresses, cloth head wraps, beaded headdresses, and fur hats with eagle feathers.
 - **Ceremonial objects** — Portraits show men holding feather fans, feather pouches, walking sticks, ceremonial objects, and tomahawks.
 
-### Architecture
-
-The sources do not cover Sauk houses or named building traditions.
-
 ### Ceramics, metalwork & everyday objects
 
-The sources record several personal and everyday objects but do not describe Sauk pottery or house goods.
+The sources record several personal and everyday objects.
 
 - **Peace medals** — Museum records document peace medals worn or carried by Sauk men.
 - **Tomahawks** — Portraits show men holding tomahawks.
@@ -73,13 +69,9 @@ The sources do not identify Sauk music, instruments, or song traditions, but the
 - **Lacrosse** — Lacrosse was played for recreation, at festivals, to toughen young warriors, and to prepare for wars or raids.
 - **Written language samples** — Sauk language materials include a greeting and a narrative about turtles, but do not call them songs or performance genres.
 
-## Dance & theatre
-
-The sources do not cover Sauk dances, theatre, masked performance, or named dance forms.
-
 ## Festivals & rituals
 
-The sources mention festivals, moieties, chiefs, and war preparation but do not give an annual ritual calendar.
+The sources mention festivals, moieties, chiefs, and war preparation.
 
 - **Festival lacrosse** — Lacrosse was part of festivals and was also used to prepare young warriors for combat.
 - **Two moieties** (*Kîshkôha; Shkasha*) — The Sauk and Fox peoples were divided into the Kîshkôha and Shkasha moieties, linked with long hair and bravery.
@@ -136,4 +128,3 @@ Sauk is an endangered Algonquian language with several names, close ties to Mesk
 - Wikipedia, “Sauk language”: https://en.wikipedia.org/wiki/Sauk_language
 - UNESCO Intangible Cultural Heritage: no United States inscription concerning the Sauk was supplied in the sources.
 - British Museum catalogue records supplied for the portrait of Keokuk, also known as Watchful Fox; Moses Keokuk; Big Bear; A Brave of the Foxes; two Sauk and Fox men; Shell Fish; the Sea; Dead Indian; White Fish; Fish Rising Above the Water; and Che-Ko-Skuk.
-

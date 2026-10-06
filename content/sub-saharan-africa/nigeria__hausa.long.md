@@ -68,11 +68,11 @@ Qur'an boards, the leather Qur'an cover and ablution vessels in the object selec
 
 ## Foodways
 
-The selected collection contains a brass cover probably used over food or kola nuts, a cup, baskets, a cooking hearth and a market photograph. These give evidence of serving, cooking and exchange. They do not establish the ingredients or origin of a named dish, so no recipe is attributed to Hausa people here.
+The selected collection contains a brass cover probably used over food or kola nuts, a cup, baskets, a cooking hearth and a market photograph. These give evidence of serving, cooking and exchange.
 
 ## Oral tradition & literature
 
-The selected Qur'an boards carry written passages and the leather cover protects loose sheets. The drawn embroidery plans show another use of graphic design on paper. These records document writing, study and design, but the consulted sources do not establish a particular folktale, song text or literary work for this profile.
+The selected Qur'an boards carry written passages and the leather cover protects loose sheets. The drawn embroidery plans show another use of graphic design on paper. These records document writing, study and design.
 
 ## Language & religion
 

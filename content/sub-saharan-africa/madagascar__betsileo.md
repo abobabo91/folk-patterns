@@ -79,10 +79,6 @@ Recorded Betsileo instruments include the valiha and several reed, bark and bamb
 - **Bamboo flute** — Bamboo flutes are also recorded.
 - **Snuff-box instrument** — An unfinished reed or bamboo instrument is described as a snuff-box.
 
-## Dance & theatre
-
-The sources do not describe Betsileo dances, theatre or staged entertainment.
-
 ## Festivals & rituals
 
 Betsileo ritual life combines Christian practice with ancestral traditions, including the famadihana ceremony.
@@ -136,10 +132,7 @@ The Betsileo speak a Malagasy dialect and combine Christian practice with belief
 
 ## Sources & further reading
 
-- The sources used do not provide books with author, title, publisher and year for further reading.
-- The sources used do not identify a named scholar or documentation project for Betsileo culture.
 - [Betsileo people — Wikipedia](https://en.wikipedia.org/wiki/Betsileo_people)
 - The UNESCO Intangible Cultural Heritage source supplied for this profile lists no inscriptions for Madagascar.
-- The sources used do not provide a Smithsonian Folkways search link.
-- The museum catalogue records supplied identify holdings of the British Museum, the Museum of World Culture and the Museum of Ethnography, but do not provide collection URLs.
 
+- The museum catalogue records supplied identify holdings of the British Museum, the Museum of World Culture and the Museum of Ethnography.

@@ -29,35 +29,15 @@ The museum objects in this atlas are almost entirely cotton garments and cloths,
 
 ### Clothing & dress
 
-Women's dress in these records consists of the *huipil* and a tubular skirt. The huipil appears in both of its construction types — the woven two-panel garment with a cut square neck, and the embroidered *cuadrillé* rectangle with a rounded neck — and in both cases the ornament is concentrated on the chest, shoulders and lower border, that is, on the parts that read at a distance. The skirt is a sewn tube decorated only along the bottom edge, where brocade or cross-stitch sits above a contrasting blue hem binding. A square white head cloth, brocaded in red and fringed on two sides, completes the women's set; a 1952 photograph of inhabitants of San Bartolomé Ayautla, Oaxaca, taken by Bodil Christensen, is catalogued for its headwear. Men's dress is represented by a girdle — an off-white cotton rectangle with sets of three red stripes and brocaded geometric bands at each end, finished with four white tassels per end — and by the plaid shoulder cloth or scarf. A striped and brocaded cotton bag with braided carrying loops sewn into its top corners is the one accessory in the group. The sources used do not describe footwear or a ceremonial dress distinct from daily wear.
-
-### Architecture
-
-The sources used do not cover Mazatec house form, building materials or architectural decoration.
-
-### Ceramics, metalwork & everyday objects
-
-Apart from the woven cotton bag with braided loops, the sources used do not cover Mazatec ceramics, metalwork, woodwork or household tools.
-
-### Jewelry & body adornment
-
-The sources used do not cover Mazatec jewelry, body ornament or hair practices.
+Women's dress in these records consists of the *huipil* and a tubular skirt. The huipil appears in both of its construction types — the woven two-panel garment with a cut square neck, and the embroidered *cuadrillé* rectangle with a rounded neck — and in both cases the ornament is concentrated on the chest, shoulders and lower border, that is, on the parts that read at a distance. The skirt is a sewn tube decorated only along the bottom edge, where brocade or cross-stitch sits above a contrasting blue hem binding. A square white head cloth, brocaded in red and fringed on two sides, completes the women's set; a 1952 photograph of inhabitants of San Bartolomé Ayautla, Oaxaca, taken by Bodil Christensen, is catalogued for its headwear. Men's dress is represented by a girdle — an off-white cotton rectangle with sets of three red stripes and brocaded geometric bands at each end, finished with four white tassels per end — and by the plaid shoulder cloth or scarf. A striped and brocaded cotton bag with braided carrying loops sewn into its top corners is the one accessory in the group.
 
 ## Music & performance
 
-The sources used do not describe Mazatec instruments, song genres or performance occasions. What they do document is a non-musical use of pitch: most Mazatec communities employ whistle speech, in which utterances are produced by whistling the tonal contours of words and phrases, a practice the language supports because tone carries so much grammatical and semantic load. Whistling is above all the register of young men, who hold complex conversations entirely in it; small boys learn to whistle as they learn to talk, older men use it more rarely, and women generally do not use it. It serves to communicate across distance, to catch the attention of a passer-by, or to avoid cutting across a spoken conversation, and even economic transactions can be concluded in it. Because the whistle encodes nothing precise about vowels or consonants, an utterance is often ambiguous, but the narrow range of topics normally lets context settle the meaning. Mazatecan-language radio programming is broadcast by the CDI station XEOJN at San Lucas Ojitlán, Oaxaca.
-
-## Dance & theatre
-
-The sources used do not cover Mazatec dance or dramatic traditions.
+What the sources do document is a non-musical use of pitch: most Mazatec communities employ whistle speech, in which utterances are produced by whistling the tonal contours of words and phrases, a practice the language supports because tone carries so much grammatical and semantic load. Whistling is above all the register of young men, who hold complex conversations entirely in it; small boys learn to whistle as they learn to talk, older men use it more rarely, and women generally do not use it. It serves to communicate across distance, to catch the attention of a passer-by, or to avoid cutting across a spoken conversation, and even economic transactions can be concluded in it. Because the whistle encodes nothing precise about vowels or consonants, an utterance is often ambiguous, but the narrow range of topics normally lets context settle the meaning. Mazatecan-language radio programming is broadcast by the CDI station XEOJN at San Lucas Ojitlán, Oaxaca.
 
 ## Festivals & rituals
 
-Mazatec ritual practice as documented here centres on the cultivation of entheogens for spiritual and ceremonial use. Three are named: psilocybin mushrooms; the psychoactive seeds of morning glories, including the species *Ipomoea tricolor* and *Ipomoea corymbosa*; and *Salvia divinorum*, which Mazatec shamans call *ska María Pastora* — a name that invokes the Virgin Mary and so marks the overlay of Catholic devotion on the practice. The two Mazatec figures the sources name, María Sabina and Julieta Casimiro, both belong to this tradition. The sources used do not give an annual festival calendar or describe birth, coming-of-age, marriage or funeral rites.
-
-## Foodways
-
-The sources used do not cover Mazatec staple foods, cooking methods, ceremonial dishes or drink traditions.
+Mazatec ritual practice as documented here centres on the cultivation of entheogens for spiritual and ceremonial use. Three are named: psilocybin mushrooms; the psychoactive seeds of morning glories, including the species *Ipomoea tricolor* and *Ipomoea corymbosa*; and *Salvia divinorum*, which Mazatec shamans call *ska María Pastora* — a name that invokes the Virgin Mary and so marks the overlay of Catholic devotion on the practice. The two Mazatec figures the sources name, María Sabina and Julieta Casimiro, both belong to this tradition.
 
 ## Oral tradition & literature
 

@@ -11,7 +11,7 @@ tags: [ethnography, sub-saharan-africa]
 | Who | The Jiji, also called Bajiji and Wajiji, are a Bantu ethnic and linguistic group. |
 | Where | Kigoma Region, Tanzania. |
 | How many | The sources give no population estimate. |
-| Language | The sources do not establish a separate currently recognized Jiji language. |
+ |
 | Religion | Most Jiji people are Muslim, and a minority are Christian. |
 | Known for | The former kingdom of Bujiji · Cotton cloth with striped borders · Iron spears · Red wooden objects · A polished boar-tusk neck ornament |
 
@@ -30,14 +30,6 @@ The sources record cotton cloth with striped borders and a square of iron-red ba
 - **Striped cotton cloth** — This oblong cotton cloth has broad side borders of narrow dark brown lines, narrower middle stripes, and loose warp ends.
 - **Iron-red barkcloth** — This square of barkcloth is coloured iron red.
 
-### Clothing & dress
-
-The sources do not describe Jiji everyday or ceremonial clothing.
-
-### Architecture
-
-The sources do not describe Jiji houses or settlement traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 The recorded objects include two iron spears and small red wooden containers.
@@ -54,29 +46,9 @@ The profile records one neck ornament made from a polished boar’s tusk.
 
 - **Boar-tusk neck ornament** — This polished boar’s tusk is stained yellow and has four carved holes.
 
-## Music & performance
-
-The sources do not describe Jiji music or performance traditions.
-
-## Dance & theatre
-
-The sources do not document Jiji dance or theatre.
-
-## Festivals & rituals
-
-The sources do not describe named Jiji festivals or rituals.
-
-## Foodways
-
-The sources do not document Jiji foods or food customs.
-
-## Oral tradition & literature
-
-The sources do not describe Jiji oral or written literature.
-
 ## Language & religion
 
-The Jiji are described as a Bantu group, but the sources do not establish a separate recognized Jiji language.
+The Jiji are described as a Bantu group.
 
 - **Bujiji kingdom** (*Bujiji*) — The Jiji were traditionally organized into the separate kingdom of Bujiji, called Ujiji in Swahili.
 - **Buha territory** (*Buha*) — Bujiji formed part of Buha, also called Uha or Ha territory, with several other kingdoms.
@@ -102,4 +74,3 @@ The Jiji are described as a Bantu group, but the sources do not establish a sepa
 - “Jiji language,” Wikipedia: https://en.wikipedia.org/wiki/Jiji_language
 - UNESCO Intangible Cultural Heritage: the supplied material states that there are no UNESCO inscriptions for Tanzania.
 - British Museum catalogue records supplied for the spear, bowl, tobacco-box, box, neck-ornament, cloth, and barkcloth objects.
-

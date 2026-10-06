@@ -25,8 +25,6 @@ Kipsigis material culture includes iron, wood, horn, gourd, leather, animal hide
 
 ### Textile & pattern traditions
 
-The sources do not document Kipsigis textiles or named patterns.
-
 - **Beaded leather objects** — Leather objects and containers were decorated with glass beads, chains, and other details.
 - **Animal-hide shield** — A Lumbwa boy was recorded holding a shield made of animal hide.
 - **Monkey-skin cap** — An old man’s cap was made of monkey skin and had a leather strap.
@@ -40,8 +38,6 @@ The sources give only a few clothing details and do not describe a general dress
 - **Neck ornaments** — A Lumbwa boy was shown wearing neck ornaments.
 
 ### Architecture
-
-The sources do not document Kipsigis house forms or named buildings.
 
 - **Settlement cluster** (*kokwet*) — A kokwet is a geographic cluster of settlement similar to a village.
 - **Village council** (*kok*) — The kok is the village council and local authority for arbitration and conflict resolution.
@@ -68,15 +64,11 @@ Beads, leather, iron chains, ornaments, and braided hair appear in the records.
 
 ## Music & performance
 
-Kipsigis oral tradition has many songs, but the sources do not name instruments or song genres.
+Kipsigis oral tradition has many songs.
 
 - **Oral songs** — Kipsigis oral tradition is described as having a rich background in songs.
 - **Chemosi** — Chemosi is a monstrous ape-like creature with basic intelligence that appears in many oral traditions.
 - **Dingonek** — Dingonek was described as a strange water creature in the Maggori River.
-
-## Dance & theatre
-
-The sources do not document Kipsigis dances, theatre, or named dramatic traditions.
 
 ## Festivals & rituals
 
@@ -146,4 +138,3 @@ Kipsigis is a Kalenjin language, and Kipsigis belief includes supreme deities, n
 - “Kipsigis language,” Wikipedia: https://en.wikipedia.org/wiki/Kipsigis_language
 - British Museum catalogue records for the spear, sheath, cap, snuff-boxes, snuff-horns, horn bottle, ear ornament, and photographic print described in the source material.
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group was provided in the sources.
-

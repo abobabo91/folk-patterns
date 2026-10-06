@@ -21,23 +21,21 @@ The sources do not document named Pokomo textile traditions or pattern systems, 
 
 **Raffia mats** — Two museum records describe mats made of raffia.
 
-The sources do not identify motifs or distinguish these objects from neighboring cultures’ equivalents.
-
 ### Clothing & dress
 
-The sources describe a traditional costume associated with *mwaribe*, a dance performed by young girls during circumcision ceremonies. The costume is a grass skirt made from the fronds of the Doum Palm, called *Mkoma* leaves, and is worn especially by boys. The sources do not document everyday garments, head coverings, footwear or a broader system of men’s and women’s dress. Museum catalogue records describe women’s girdles made of glass beads, vegetable fibre, cotton thread and hide, including examples decorated with cowrie shells. They also record neck ornaments, ear ornaments, ear pendants and other personal ornaments made from glass beads, metal, basketry, cowrie shells, buttons and coins.
+The sources describe a traditional costume associated with *mwaribe*, a dance performed by young girls during circumcision ceremonies. The costume is a grass skirt made from the fronds of the Doum Palm, called *Mkoma* leaves, and is worn especially by boys. Museum catalogue records describe women’s girdles made of glass beads, vegetable fibre, cotton thread and hide, including examples decorated with cowrie shells. They also record neck ornaments, ear ornaments, ear pendants and other personal ornaments made from glass beads, metal, basketry, cowrie shells, buttons and coins.
 
 ### Architecture
 
-The sources do not provide a general description of Pokomo houses, village architecture, roofing or decorative construction. During flood seasons at Nkozi, residents erected structures above the water level called *Mahandaki*, where they lived. The sources also state that Pokomo villages were located on small hills, likely to avoid river flooding, while farmlands lay in the riverine zone. Sacred places included Mji wa Walevu, Nkozi and Laini Keya; Nkozi was described as the mother village of Kitere and the centre of the Kijo. The sources do not cover urban traditions or workshop architecture.
+During flood seasons at Nkozi, residents erected structures above the water level called *Mahandaki*, where they lived. The sources also state that Pokomo villages were located on small hills, likely to avoid river flooding, while farmlands lay in the riverine zone. Sacred places included Mji wa Walevu, Nkozi and Laini Keya; Nkozi was described as the mother village of Kitere and the centre of the Kijo.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum catalogue records wooden combs, a wooden food-stirrer with three spikes projecting radially from one end, and a lamp-stand made of palm-leaf midrib. The lamp-stand is formed by splitting the midrib into strips and intertwining twisted leaf to create a conical hollow at one end. A composite zither is recorded with a sounding-trough narrowing at the waist and pokerwork decoration on its sides. The catalogue also lists a shell disc, white-metal ear ornaments made from wire twisted into a double spiral, and girdles incorporating coins. The sources do not document Pokomo ceramics, named metalworking techniques or a broader typology of household tools.
+The museum catalogue records wooden combs, a wooden food-stirrer with three spikes projecting radially from one end, and a lamp-stand made of palm-leaf midrib. The lamp-stand is formed by splitting the midrib into strips and intertwining twisted leaf to create a conical hollow at one end. A composite zither is recorded with a sounding-trough narrowing at the waist and pokerwork decoration on its sides. The catalogue also lists a shell disc, white-metal ear ornaments made from wire twisted into a double spiral, and girdles incorporating coins.
 
 ### Jewelry & body adornment
 
-The museum catalogue records neck ornaments made of glass beads with pendant fringes of cowrie shells, including openwork examples with loops and a button at the end. Ear ornaments include white-metal wire twisted into a double spiral and ear pendants made from red, white, blue and green beads. The catalogue also lists a shell disc, a personal ornament made of basketry, glass beads and metal coins, and women’s waist ornaments made of glass beads in red, white, black, green and blue. The sources do not document tattoos, henna, hair practices or ritual functions for these objects.
+The museum catalogue records neck ornaments made of glass beads with pendant fringes of cowrie shells, including openwork examples with loops and a button at the end. Ear ornaments include white-metal wire twisted into a double spiral and ear pendants made from red, white, blue and green beads. The catalogue also lists a shell disc, a personal ornament made of basketry, glass beads and metal coins, and women’s waist ornaments made of glass beads in red, white, black, green and blue.
 
 ## Music & performance
 
@@ -51,7 +49,7 @@ The Pokomo have various songs and musical performances connected with birth, wed
 
 The sources name *Miri*, *Kingika*, *Beni*, *Mwaribe* and *Kitoko* as Pokomo dances or performance traditions. *Miri* is performed by young men and women at weddings and birthday ceremonies. *Kingika* is a women’s performance associated with childbirth and the end of confinement. *Beni* welcomes visitors in Wema village. *Mwaribe* is danced by young girls during circumcision ceremonies, while *Kitoko* is performed by everyone during weddings, births and joyful celebrations.
 
-The sources also describe a ritual performance connected with the Kijo. At sacred places called *Ngaji*, the Kijo leader emerged from the sacred forest at night, walking on stilts, wearing a white dress and covering his face with a mask. He walked around and danced to beating drums before returning to the forest. The sources do not describe a dramatic theatre tradition or a separate form of staged performance.
+The sources also describe a ritual performance connected with the Kijo. At sacred places called *Ngaji*, the Kijo leader emerged from the sacred forest at night, walking on stilts, wearing a white dress and covering his face with a mask. He walked around and danced to beating drums before returning to the forest.
 
 ## Festivals & rituals
 
@@ -59,25 +57,25 @@ The Pokomo observe two main seasons, *Sika* and *Kilimo*. They traditionally use
 
 The passage to adulthood for men is marked by initiation involving circumcision, called *kuhinywa*. Age groups are formed by adolescent men who are circumcised together; named groups include Uhuru or Wembe, Mau Mau, Shiti, Pali and Kingishore. The sources associate Uhuru or Wembe with circumcision during the time of Kenya gaining independence.
 
-Birth is marked by *Kingika*, performed when a woman leaves the house after the confinement period. Wedding procedures include family consultations, the presentation of a *perenkera* tobacco vessel, a *hasi* reed basket and *jifu*, followed by payment of *mahari* and the wedding ceremony. Couples also elope in many cases, and women may later return to their parents for further training by their aunts. The sources do not describe a funeral calendar or named annual festivals beyond the two seasons.
+Birth is marked by *Kingika*, performed when a woman leaves the house after the confinement period. Wedding procedures include family consultations, the presentation of a *perenkera* tobacco vessel, a *hasi* reed basket and *jifu*, followed by payment of *mahari* and the wedding ceremony. Couples also elope in many cases, and women may later return to their parents for further training by their aunts.
 
 ## Foodways
 
 The Pokomo depend on the flooding regime of the Tana River to grow rice, bananas, green grams, beans and maize. Rice and fish are staple foods. They eat Tana river catfish, called *mtonzi* or *mpumi* when especially large, as well as tilapia called *ntuku*, trout called *ningu*, eel called *mamba* and crocodile called *ngwena*. Catfish are mainly boiled or sun-dried or smoked.
 
-Other food sources include plantains, palm tree seeds, bananas, peas and pumpkins. *Matoli* consists of cooked banana chips mixed with fish. *Marika* is cooked banana mixed with fish and mashed together. *Konole* is a cooked mixture of sifted maize and green grams or beans. *Nkumbu* is an ash-baked or boiled banana. *Sima*, stiff cornmeal porridge, became a staple dish because changes in river flooding regimes and weather patterns no longer supported rice cultivation. The sources do not describe tea, coffee, ceremonial food or dietary rules.
+Other food sources include plantains, palm tree seeds, bananas, peas and pumpkins. *Matoli* consists of cooked banana chips mixed with fish. *Marika* is cooked banana mixed with fish and mashed together. *Konole* is a cooked mixture of sifted maize and green grams or beans. *Nkumbu* is an ash-baked or boiled banana. *Sima*, stiff cornmeal porridge, became a staple dish because changes in river flooding regimes and weather patterns no longer supported rice cultivation.
 
 ## Oral tradition & literature
 
 Pokomo stories were traditionally used to influence behaviour. One story warned that whistling at night would cause an encounter with a spirit being called *seha*, teaching children not to whistle at night so that they would not disclose their location to enemies. The sources also describe local folklore concerning the haunting spirits called *Maseha*, believed to live at Kitere village.
 
-According to the story, the ancestors of the Nkozi people could be heard talking at Kitere and singing and dancing *Miri*. People from Mnazini travelled northwards toward Nkozi, while people from Nkozi travelled southwards toward Mnazini, eventually meeting while trying to locate the singing. A song from Ndera is quoted beginning “mpanzi mpanzi kuniyawa...” and continuing “nakwenda Kitere...”. After the 1946 floods covered Nkozi and its surroundings, the community relocated to Kitere after religious cleansing rituals. The sources do not document epic poetry, proverbs, riddles or contemporary literary revivals.
+According to the story, the ancestors of the Nkozi people could be heard talking at Kitere and singing and dancing *Miri*. People from Mnazini travelled northwards toward Nkozi, while people from Nkozi travelled southwards toward Mnazini, eventually meeting while trying to locate the singing. A song from Ndera is quoted beginning “mpanzi mpanzi kuniyawa...” and continuing “nakwenda Kitere...”. After the 1946 floods covered Nkozi and its surroundings, the community relocated to Kitere after religious cleansing rituals.
 
 ## Language & religion
 
-Pokomo, or Kipfokomo, is a Bantu language spoken primarily along the East African coast near the Tana River. It originated from Kingozi, which the sources describe as the ancestor of Swahili. The Pokomo are described as the only ethnic group that continues to use Kingozi, and all adult speakers of Pokomo are bilingual in Swahili. The language has substantial lexical similarity with Mvita, Amu, Mrima, Kigiryama, Chidigo and Bajun. The sources do not document a historical script.
+Pokomo, or Kipfokomo, is a Bantu language spoken primarily along the East African coast near the Tana River. It originated from Kingozi, which the sources describe as the ancestor of Swahili. The Pokomo are described as the only ethnic group that continues to use Kingozi, and all adult speakers of Pokomo are bilingual in Swahili. The language has substantial lexical similarity with Mvita, Amu, Mrima, Kigiryama, Chidigo and Bajun.
 
-Mulungu among the Upper Pokomo and Mungu among the Lower Pokomo is the universal being, referring to God and the creator of everything. Traditional religion was guided by spiritual elders among the Kijo, who sought guidance at sacred prayer areas in riverine forests. The Upper Pokomo became mainly Muslim by the end of the 19th century, while the Lower Pokomo began converting to Christianity in the late 1870s and had almost exclusively converted by 1914. The sources do not identify a UNESCO Intangible Cultural Heritage inscription for the Pokomo.
+Mulungu among the Upper Pokomo and Mungu among the Lower Pokomo is the universal being, referring to God and the creator of everything. Traditional religion was guided by spiritual elders among the Kijo, who sought guidance at sacred prayer areas in riverine forests. The Upper Pokomo became mainly Muslim by the end of the 19th century, while the Lower Pokomo began converting to Christianity in the late 1870s and had almost exclusively converted by 1914.
 
 ## Sources & further reading
 

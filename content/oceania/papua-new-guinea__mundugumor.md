@@ -31,14 +31,6 @@ The sources do not describe a wider textile tradition, but they record vegetable
 - **Wicker mask frame** — A British Museum mask has a wicker frame behind the wooden mask.
 - **Vegetable fibre tassel** — One British Museum mask has an ear threaded with a vegetable fibre tassel.
 
-### Clothing & dress
-
-The sources do not describe everyday or ceremonial clothing.
-
-### Architecture
-
-The sources do not describe Mundugumor houses or village buildings.
-
 ### Ceramics, metalwork & everyday objects
 
 The documented objects are mainly carved wooden drums, slit-drums, masks, and ancestral figures.
@@ -50,8 +42,6 @@ The documented objects are mainly carved wooden drums, slit-drums, masks, and an
 
 ### Jewelry & body adornment
 
-The sources do not document personal jewelry or named body-adornment practices.
-
 - **Pearl shell eyes** — One mask has perforated pearl shell eyes.
 - **Pigment** — One mask uses red, black, and white pigment.
 - **Bamboo strips** — Rigid strips of bamboo are threaded through mask perforations.
@@ -62,10 +52,6 @@ Museum records identify drums and slit-drums, but give no musical names or perfo
 
 - **Drum** — A wooden drum has incised decoration and handles carved as heads.
 - **Slit-drum** — A wooden slit-drum has quadruped-shaped handles, cowrie shells, and feathers.
-
-## Dance & theatre
-
-The sources do not describe named dances, theatre, choreography, or mask use.
 
 ## Festivals & rituals
 
@@ -122,4 +108,3 @@ Mundugumor is a Yuat language, and the people also speak Melanesian Pidgin; late
 - [Mundugumor language](https://en.wikipedia.org/wiki/Mundugumor_language)
 - No UNESCO Intangible Cultural Heritage inscription for this group is identified in the supplied sources.
 - British Museum catalogue records for the drum, slit-drum, masks, and ancestral figures described above.
-

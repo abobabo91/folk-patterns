@@ -21,21 +21,17 @@ The Mambwe live in northeastern Zambia and western Tanzania. They speak Mambwe, 
 
 ## Material culture
 
-The sources list many museum objects, but do not say which were made or used specifically by the Mambwe.
+The sources list many museum objects.
 
 ### Textile & pattern traditions
 
-The sources do not document a Mambwe textile tradition.
-
-- **Incised geometric ornament** — A wooden belt has an incised geometric ornament, but the sources do not identify it as a Mambwe motif.
-- **Incised leaf pattern** — A gourd vessel has an incised leaf pattern, but the sources do not identify it as a Mambwe motif.
+- **Incised geometric ornament** — A wooden belt has an incised geometric ornament.
+- **Incised leaf pattern** — A gourd vessel has an incised leaf pattern.
 
 ### Clothing & dress
 
-The sources do not describe everyday or ceremonial Mambwe clothing.
-
 - **Baby-carrying bark cloth** — Bark cloth was used to carry babies during a conflict with the Bemba.
-- **Wooden belt** — A museum catalogue records a wooden belt with incised geometric ornament, but does not identify its use in dress.
+- **Wooden belt** — A museum catalogue records a wooden belt with incised geometric ornament.
 
 ### Architecture
 
@@ -55,7 +51,7 @@ Museum records list tools, furniture, baskets and vessels, without linking them 
 
 ### Jewelry & body adornment
 
-The sources record two adornments but do not explain their meanings or use.
+The sources record two adornments.
 
 - **Ivory armlet** — A museum catalogue records an ivory armlet repaired in two places with local vegetal fibre.
 - **Agate bead string** — A museum catalogue records a string of 28 barrel-shaped beads made of agate, with some uncertainty.
@@ -89,7 +85,7 @@ The main named ceremony celebrates the harvest, gives thanks to ancestors and as
 
 ## Foodways
 
-The sources mention harvest food offerings and wartime starvation, but do not name ordinary dishes or crops.
+The sources mention harvest food offerings and wartime starvation.
 
 - **Chiefdom food samples** — At the annual harvest ceremony, chiefs’ wives present samples of food grown in their chiefdoms.
 - **Harvest thanksgiving food** — Part of each crop is left at a shrine during thanks to the ancestral spirits.
@@ -138,5 +134,3 @@ Mambwe is a Bantu language, while traditional religion centers on Leza, chiefly 
 - A. Werner and A. N. Tucker, “Mambwe Proverbs,” *Bulletin of the School of Oriental Studies* 10.2, 1940, pp. 455–467.
 - [Mambwe people](https://en.wikipedia.org/wiki/Mambwe_people)
 - [Mambwe language](https://en.wikipedia.org/wiki/Mambwe_language)
-- The UNESCO Intangible Cultural Heritage sources used do not list an inscription for this ethnic group.
-

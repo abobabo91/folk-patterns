@@ -39,10 +39,6 @@ The profile records patterned kyadze wrappers but gives little information about
 
 - **Kyadze wrapper** (*kyadze*) — Some wrappers are made from nine or ten narrow strips and have reversible patterns, multicoloured decoration, embroidery, border strips and short fringes.
 
-### Architecture
-
-The sources do not describe Jukun architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 The profile records ceremonial metal axes, wooden masks and carved human figures.
@@ -52,10 +48,6 @@ The profile records ceremonial metal axes, wooden masks and carved human figures
 - **Horned wooden mask** — A wooden mask has eye holes and two horns.
 - **Helmeted wooden figure** — One standing figure has a helmet-like head-dress, a tapering body, joined arms, a scarified face and aluminium-looking eyes.
 - **Conical-head wooden figure** — Another figure has a conical head-dress and one remaining eye apparently made of aluminium coated with resin.
-
-### Jewelry & body adornment
-
-The sources do not cover Jukun jewelry or other body adornment.
 
 ## Music & performance
 
@@ -72,9 +64,7 @@ The profile gives no named Jukun dances or theatre traditions.
 
 ## Festivals & rituals
 
-The sources do not describe a Jukun festival calendar or named ceremonies.
-
-- **Ceremonial axe** — A catalogue calls one axe ceremonial but does not explain the ceremony where it was used.
+- **Ceremonial axe** — A catalogue calls one axe ceremonial.
 - **Traditional religions** — Before Christianity and Islam, the Jukun followed their own traditional religions.
 
 ## Foodways
@@ -134,4 +124,3 @@ Jukun names cover several dialect groups and related language names, while older
 - [Jukun language](https://en.wikipedia.org/wiki/Jukun_language)
 - No UNESCO Intangible Cultural Heritage inscription for Nigeria was provided among the sources used.
 - [British Museum collection](https://www.britishmuseum.org/collection)
-

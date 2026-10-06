@@ -64,8 +64,6 @@ Pahari crafts include pottery, wood carving, and woodwork, while some lower-cast
 
 ### Jewelry & body adornment
 
-The sources do not name Pahari jewelry or body-adornment forms.
-
 - **Painted jewelry** — Pahari paintings include jewelry rendered with fine brushstrokes, especially in Kangra compositions.
 
 ## Music & performance
@@ -159,4 +157,3 @@ Pahari refers to languages and communities in the lower Himalayas, with Nepalese
 - [Pahari art](https://en.wikipedia.org/wiki/Pahari_art)
 - [Pahari language](https://en.wikipedia.org/wiki/Pahari_language)
 - No UNESCO Intangible Cultural Heritage inscription for this country was supplied in the sources.
-

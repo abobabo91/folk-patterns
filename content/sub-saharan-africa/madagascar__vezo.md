@@ -73,10 +73,6 @@ The Vezo hold five official cultural ceremonies called Fomba, though little is r
 - **Takasy** — An official Fomba ceremony unique to the Vezo.
 - **Soro** — An official Fomba ceremony also practiced by the neighbouring Masikoro.
 
-## Dance & theatre
-
-No dance or dramatic traditions are recorded in the sources.
-
 ## Festivals & rituals
 
 Ritual life centers on five Fomba ceremonies and the constant obligation to keep the dead informed of family events.
@@ -136,4 +132,3 @@ The Vezo speak a Malagasy dialect and practice ancestral religion centered on ob
 - Blue Ventures — marine conservation work with Vezo fishers in southwest Madagascar
 - British Museum online collection (the twenty Vezo objects shown here: canoe model, paddle, bailer, sail, fish spears, pottery, raffia hat, basket, sandal, bracelets, seed necklace, zebu-horn heron figure, model of an ancestor's house) — https://www.britishmuseum.org/collection
 - No UNESCO Intangible Cultural Heritage element is inscribed for Madagascar.
-

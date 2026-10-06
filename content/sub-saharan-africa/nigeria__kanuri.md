@@ -43,10 +43,6 @@ The records show quilted clothing, leather belts, neck and ear ornaments, plaite
 - **Women’s shirt and neck ornament** — One photograph shows a woman wearing a shirt and a neck ornament with a disc at the front.
 - **Plaited hairstyle** — Photographs show hair plaited against the scalp or in a plait over the forehead.
 
-### Architecture
-
-The supplied sources do not describe Kanuri buildings or settlement design.
-
 ### Ceramics, metalwork & everyday objects
 
 Kanuri objects include iron weapons, riding gear, pottery, calabash vessels, a chess set, and leather bags.
@@ -66,14 +62,6 @@ Adornment includes stone hair ornaments, neck and ear ornaments, styled hair, an
 - **Circular ear ornaments** — Women wear circular ear ornaments and other ear ornaments.
 - **Ear piercing** — One portrait shows holes in the ears for ear ornaments.
 - **Facial scarification** — Facial scarification is visible in one portrait.
-
-## Music & performance
-
-The supplied sources do not document named Kanuri instruments, songs, or musical performances.
-
-## Dance & theatre
-
-The supplied sources do not document named Kanuri dances, theatre, masked performance, or ceremonial entertainment.
 
 ## Festivals & rituals
 
@@ -134,4 +122,3 @@ Kanuri is a tonal Nilo-Saharan language with several dialects, Arabic and Latin 
 - [Kanuri culture](https://en.wikipedia.org/wiki/Kanuri_culture)
 - [Kanuri language](https://en.wikipedia.org/wiki/Kanuri_language)
 - No UNESCO Intangible Cultural Heritage inscription for this country is included in the supplied sources.
-

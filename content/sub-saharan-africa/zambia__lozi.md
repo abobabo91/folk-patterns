@@ -39,10 +39,6 @@ Traditional Lozi dress includes separate garments for men and women.
 - **Red beret** (*mashushu*) — The mashushu is a red beret sometimes worn with the siziba.
 - **Makishi dance hat** (*Makishi*) — Makishi dance hats are round and made from bark, willow and grass.
 
-### Architecture
-
-The sources do not describe Lozi houses, settlements or building traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 Lozi household objects include pottery, carved wood, baskets and iron tools.
@@ -150,4 +146,3 @@ Silozi grew from Luyana and Kololo languages and belongs to the Bantu language f
 - [Lozi people](https://en.wikipedia.org/wiki/Lozi_people)
 - [Lozi mythology](https://en.wikipedia.org/wiki/Lozi_mythology)
 - [Lozi language](https://en.wikipedia.org/wiki/Lozi_language)
-

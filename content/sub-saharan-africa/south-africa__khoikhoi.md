@@ -37,10 +37,6 @@ Recorded clothing includes leather aprons and a cowrie-covered head-band.
 - **Leather back apron** — Leather back aprons were decorated with beadwork.
 - **Cowrie-covered head-band** — A leather head-band was faced with cowrie shells.
 
-### Architecture
-
-The supplied sources do not describe Khoekhoe houses or settlement buildings.
-
 ### Ceramics, metalwork & everyday objects
 
 Recorded everyday objects include a tortoise-shell pouch, a quiver model, and smoking pipes.
@@ -58,14 +54,6 @@ Recorded adornment includes bead ornaments, cowrie shells, ostrich shell beads, 
 - **Glass-bead wrist or leg ornament** — An ornament for the wrist or leg was made of glass beads attached to a backing.
 - **Cowrie head-band** — A leather head-band was faced with cowrie shells.
 - **Seed bead ornament** — Reddish brown seeds were attached to the ends of two pouch strings.
-
-## Music & performance
-
-The supplied sources do not document Khoekhoe instruments, song genres, or music traditions.
-
-## Dance & theatre
-
-The supplied sources do not describe Khoekhoe dances, theatre, or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -132,4 +120,3 @@ Khoekhoe is a Khoe-family language with click consonants, several dialects, and 
 - British Museum catalogue records for the quiver, leather aprons, head-band, pouch, smoking pipes, and bead ornament described above.
 - [Khoikhoi mythology](https://en.wikipedia.org/wiki/Khoikhoi_mythology)
 - [Khoikhoi language](https://en.wikipedia.org/wiki/Khoikhoi_language)
-

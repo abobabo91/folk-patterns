@@ -23,10 +23,6 @@ The Arrernte live around Alice Springs and across nearby Central Australian land
 
 Documented material culture includes wooden weapons, stone tools, resin objects, hair-string girdles, seed necklaces, bone nose ornaments and ochre.
 
-### Textile & pattern traditions
-
-The sources do not document a named Arrernte textile or pattern tradition.
-
 ### Clothing & dress
 
 Documented dress includes hair-string girdles, a seed necklace and bone nose ornaments.
@@ -35,10 +31,6 @@ Documented dress includes hair-string girdles, a seed necklace and bone nose orn
 - **Possum-fur waist girdle** — Another waist girdle uses reddish, slightly crimped possum-fur strings secured by short cross-bindings.
 - **Seed necklace** — A woman’s necklace is made from red bean-tree seeds strung on vegetable fibre.
 - **Bone nose ornament** — Men wore sharpened bone nose ornaments through a hole in the nasal septum, sometimes with gum knobs and ochre.
-
-### Architecture
-
-The sources do not document Arrernte houses or named architectural traditions.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -81,10 +73,6 @@ Arrernte spirituality connects the landscape with Altyerre, ancestral beings and
 - **Religious objects** (*Tjurunga*) — Tjurunga are objects of religious significance.
 - **Eastern MacDonnell ancestor** (*Ayepe-arenye*) — Ayepe-arenye is an ancestral caterpillar-being associated with forming the eastern MacDonnell Ranges.
 - **Western MacDonnell ancestor** (*Ntyarlke*) — Ntyarlke is an ancestral caterpillar-being associated with forming the western MacDonnell Ranges.
-
-## Foodways
-
-The sources do not document Arrernte foods, cooking methods or dietary rules.
 
 ## Oral tradition & literature
 
@@ -131,7 +119,6 @@ Arrernte is an Arandic dialect cluster with several threatened dialects and a hi
 - The documentation of Arrernte songs and ceremonies by Carl Strehlow, Walter Baldwin Spencer, Francis Gillen and T. G. H. Strehlow.
 - https://en.wikipedia.org/wiki/Arrernte_people
 - https://en.wikipedia.org/wiki/Arrernte_language
-- The sources used do not identify a UNESCO Intangible Cultural Heritage inscription for Arrernte or Australia.
+
 - https://folkways.si.edu/search?query=Arrernte
 - British Museum collections and Museum of World Culture catalogue records cited in the object descriptions.
-

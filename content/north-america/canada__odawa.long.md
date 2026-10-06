@@ -33,7 +33,7 @@ The earliest description is Samuel de Champlain's, who in 1615 met 300 men near 
 
 ### Architecture
 
-The sources used do not describe Odawa house forms. They do record one built feature of the homeland: the Saugeen complex people of the Bruce Peninsula, a Hopewell-influenced Middle Woodland group that may have developed into the Odawa, raised earthwork mounds for burials, a practice that ended about 250 CE; the Saugeen mounds have not been excavated.
+The sources record one built feature of the homeland: the Saugeen complex people of the Bruce Peninsula, a Hopewell-influenced Middle Woodland group that may have developed into the Odawa, raised earthwork mounds for burials, a practice that ended about 250 CE; the Saugeen mounds have not been excavated.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,21 +43,13 @@ Bark and wood dominate. A model canoe is made of birch bark, wood and gum, and b
 
 Body ornament is documented mainly in early contact description and in later photographs. Champlain recorded tattooing in many designs, painted faces, pierced noses, and the raised, rolled hair that gave the people their French name. The twentieth-century photographs show a headband and multiple necklaces on an Odawa woman, and face paint on a man in a feather headdress. "Jewelry and decorative items" are listed among the European goods received for furs, and white glass beads are the medium of the embroidery on the beaver-skin chief's pouch. The sources name no individual ornament types.
 
-## Music & performance
-
-The sources used do not cover Odawa instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Odawa dance or dramatic traditions.
-
 ## Festivals & rituals
 
-Odawa religion is described as the traditional Native American religion of the Odawa, practised in communities in both Canada and the United States, with no formal leadership or organizational structure and much internal variation; it is particularly close to that of the Ojibwe, and like other Native American religions has adapted to environmental change and contact with other communities. The sources record one body of sacred narrative in detail rather than a festival calendar: directed by the *miigis* (luminescent) beings, the Anishinaabe peoples moved inland along the Saint Lawrence River, and at the "Third Stopping Place" near the present Straits of Mackinac the southern Anishinaabeg divided into Ojibwe, Odawa and Potawatomi. Burial under earthwork mounds is attested archaeologically for the Saugeen complex. Christian practice arrived unevenly: Catholic missionaries, among them Frederic Baraga, worked in Michigan, Manitoulin Island converts divided between Catholic, Methodist and Anglican affiliation, and Enmegahbowh (c. 1807–1902) became the first Native American ordained an Episcopal priest. The sources used do not describe Odawa birth, coming-of-age, wedding or funeral rites.
+Odawa religion is described as the traditional Native American religion of the Odawa, practised in communities in both Canada and the United States, with no formal leadership or organizational structure and much internal variation; it is particularly close to that of the Ojibwe, and like other Native American religions has adapted to environmental change and contact with other communities. The sources record one body of sacred narrative in detail rather than a festival calendar: directed by the *miigis* (luminescent) beings, the Anishinaabe peoples moved inland along the Saint Lawrence River, and at the "Third Stopping Place" near the present Straits of Mackinac the southern Anishinaabeg divided into Ojibwe, Odawa and Potawatomi. Burial under earthwork mounds is attested archaeologically for the Saugeen complex. Christian practice arrived unevenly: Catholic missionaries, among them Frederic Baraga, worked in Michigan, Manitoulin Island converts divided between Catholic, Methodist and Anglican affiliation, and Enmegahbowh (c. 1807–1902) became the first Native American ordained an Episcopal priest.
 
 ## Foodways
 
-The sources do not describe Odawa cooking or named dishes. What they document is the food economy. Cornmeal and sunflower oil head the list of goods the Odawa traded, alongside tobacco and medicinal roots and herbs, which indicates both horticulture and the processing of seed oil. Hunting supplied the trade in beaver — the most highly prized fur in Europe — and in deer, marten, raccoon, fox, otter and muskrat. Among the European goods taken in exchange, kettles, traps, needles and fish hooks all bear on getting and cooking food, as does the alcohol that entered later. One episode of ritual cannibalism is recorded in the sources, at the 1752 raid on Pickawillany, where the Miami chief Memeskia was killed, boiled and eaten in front of his warriors by the allied Odawa, Potawatomi and Ojibwe war party assembled by Charles Langlade.
+What the sources document is the food economy. Cornmeal and sunflower oil head the list of goods the Odawa traded, alongside tobacco and medicinal roots and herbs, which indicates both horticulture and the processing of seed oil. Hunting supplied the trade in beaver — the most highly prized fur in Europe — and in deer, marten, raccoon, fox, otter and muskrat. Among the European goods taken in exchange, kettles, traps, needles and fish hooks all bear on getting and cooking food, as does the alcohol that entered later. One episode of ritual cannibalism is recorded in the sources, at the 1752 raid on Pickawillany, where the Miami chief Memeskia was killed, boiled and eaten in front of his warriors by the allied Odawa, Potawatomi and Ojibwe war party assembled by Charles Langlade.
 
 ## Oral tradition & literature
 

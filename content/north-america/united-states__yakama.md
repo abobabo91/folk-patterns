@@ -34,7 +34,7 @@ Beadwork appears on gauntlets, bags, purses, and handbags, with flower, animal, 
 
 ### Clothing & dress
 
-The sources document beaded skin gauntlets and photographs of Yakama people in regalia, but do not name the garments.
+The sources document beaded skin gauntlets and photographs of Yakama people in regalia.
 
 - **Skin gauntlets** — The documented gauntlets are made from skin, including smoked skin, with fringe and glass beadwork.
 - **Regalia** — Photographs show Yakama men gathered in a longhouse and the sons of a Yakama chief wearing regalia.
@@ -63,15 +63,11 @@ The sources document decorative beadwork, tassels, and fringe attached to skin a
 
 ## Music & performance
 
-The sources name the Washane religion and its prophets but do not describe music or performance.
+The sources name the Washane religion and its prophets.
 
 - **Dreamer Religion** (*Washane*) — Washane is associated with the Wanapum dreamer-prophet Smohalla.
 - **Smohalla** — Smohalla was a prominent Washane prophet whose name means “Dreamer” or “Preacher.”
 - **Other Washane prophets** — The sources also name Chief Homli, Kotiakan, Lishwailait, and Ashnithlai.
-
-## Dance & theatre
-
-The sources do not cover Yakama dances, theatre, dramatic traditions, or named entertainment forms.
 
 ## Festivals & rituals
 
@@ -108,7 +104,7 @@ Yakama is a Sahaptin dialect called Ichishkíin Sɨ́nwit, and the sources docum
 - **Yakama language** (*Ichishkíin*) — The Yakama call their language Ichishkíin, also spelled Ichishkíin Sɨ́nwit, Íchishkin, Íchishkink, or Chishkíin.
 - **In this way or manner** (*Ichishkínk*) — Ichishkínk literally means “in this way/manner.”
 - **In this way or manner** (*Chishkín*) — Chishkín literally means “in this way/manner.”
-- **Dreamer Religion** (*Washane*) — The Washane was led most prominently by Smohalla, but the sources do not give a broader account of current Yakama religious life.
+- **Dreamer Religion** (*Washane*) — The Washane was led most prominently by Smohalla.
 
 ## Glossary
 
@@ -134,4 +130,3 @@ Yakama is a Sahaptin dialect called Ichishkíin Sɨ́nwit, and the sources docum
 - *Yakama*, Wikipedia: https://en.wikipedia.org/wiki/Yakama
 - *Yakama language*, Wikipedia: https://en.wikipedia.org/wiki/Yakama_language
 - The supplied sources state that there are no UNESCO Intangible Cultural Heritage inscriptions for this country.
-

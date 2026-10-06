@@ -25,8 +25,6 @@ Ogoni material culture is especially represented by carved wooden masks and figu
 
 ### Textile & pattern traditions
 
-The sources do not document named Ogoni textile or pattern traditions.
-
 - **Raffia clothing** — Raffia clothing is used in performances with Ogoni masks and headdresses.
 - **Plaited fibre loops** — Some pottery vessels have fibre loops attached to handles or threaded through holes in their rims.
 - **Raffia cloth hoods** — Several carved wooden masks have raffia cloth hoods, sometimes with long black hair or a raffia fringe.
@@ -38,10 +36,6 @@ The sources describe performance clothing and head-worn forms but not everyday O
 - **Performance raffia clothing** — Masks and headdresses may be accompanied by raffia clothing during performances.
 - **Braided head helmet** — A carved wooden figure from Ogoni has a braided lower part described as a helmet for the wearer’s head.
 - **Head-mounted figures** — Some carved figures were mounted on bases and were probably intended to be worn on the head.
-
-### Architecture
-
-The sources do not describe Ogoni houses, settlements or named architectural traditions.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -55,8 +49,6 @@ Ogoni museum records show a varied pottery tradition and an iron sword with a ca
 
 ### Jewelry & body adornment
 
-The sources do not document Ogoni jewelry or named body-adornment traditions.
-
 - **Mask grass fringe** — Some masks have grass fringes.
 - **Mask raffia fringe** — Some masks have raffia fringes.
 - **Attached black hair** — Some masks have long black hair attached to them.
@@ -64,7 +56,7 @@ The sources do not document Ogoni jewelry or named body-adornment traditions.
 
 ## Music & performance
 
-Ogoni performance centers on masks, headdresses, dances, masquerades and puppets, but the sources do not name instruments or song types.
+Ogoni performance centers on masks, headdresses, dances, masquerades and puppets.
 
 - **Amanikpo society performances** (*Amanikpo*) — The Amanikpo society sponsored dances and masquerades.
 - **Karikpo society performances** (*Karikpo*) — The Karikpo society sponsored dances and masquerades.
@@ -94,7 +86,7 @@ The sources do not document an annual festival calendar but connect performance 
 
 ## Foodways
 
-The sources describe agriculture and palm-oil production but do not name Ogoni dishes or recipes.
+The sources describe agriculture and palm-oil production.
 
 - **Palm oil** — Palm oil was the main production described in the source.
 - **Yams** — The climate and agriculture support yams.
@@ -152,4 +144,3 @@ Ogoni languages form East and West clusters, while traditional religion centers 
 - British Museum catalogue records for Ogoni swords, pottery, masks and carved wooden figures, as supplied in the source material.
 - Museum of World Culture catalogue record 1974.04.0001, Ogoni carved wooden figure, as supplied in the source material.
 - No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.
-

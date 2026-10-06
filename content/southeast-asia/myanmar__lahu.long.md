@@ -31,33 +31,21 @@ The sources describing Lahu textiles here are museum catalogue records rather th
 
 Subgroup names encode dress: where a Lahu subgroup name refers to a colour — Black, Red, White or Yellow Lahu — it refers to the traditional colour of that group's clothing. The garments documented in the collection are jackets, coats, caps, belts, skirts and bags. Jackets exist in both men's and women's forms made of indigo-dyed woven cotton decorated with appliqué; one jacket of this type closes with a large silver button, and another jacket, of silk and cotton, has a silver buckle. A woman's coat of cotton was collected together with a silver brooch, indicating that metal ornament was worn with, and catalogued as part of, the outfit. A second coat is a jacket embroidered and appliquéd in cotton with a large metal button. Children's dress is represented by a boy's cap of appliquéd and embroidered cotton and wool. The woman's lower garment is the tube skirt or *phasin*, assembled from several horizontal sections of banded cotton (see above). A man's fringed woollen belt completes the recorded male outfit. Bags of appliquéd cotton were carried; the collection also holds an appliquéd passport holder closed with a nylon zip, showing the same technique applied to a modern object.
 
-### Architecture
-
-The sources used here do not describe Lahu house form, building materials or settlement layout.
-
 ### Ceramics, metalwork & everyday objects
 
 Everyday objects in the collection are few and made from local plant and textile materials rather than fired clay. A quiver is made of bamboo, the only hunting equipment recorded — a notable pairing with the Tai exonym *Musoe*, 'hunter'. Bamboo appears again structurally in the two wall hangings, which combine cloth with bamboo, one of them bearing an elephant image. Cotton bags decorated with appliqué serve as carrying gear, and the appliquéd passport holder with a nylon zip shows the same decorative technique carried onto a twentieth-century travel object. Silver is the metal of the collection, but it appears as personal ornament and as dress fittings — a silver buckle on a silk-and-cotton jacket, large silver and metal buttons on coats and jackets — rather than as vessels or tools.
 
 ### Jewelry & body adornment
 
-Silver dominates Lahu ornament as recorded here. The collection holds neck ornaments of silver (two examples), a silver brooch, silver ear-rings including a woman's pair, a woman's silver bracelet and a woman's pair of silver bracelets. Beadwork is represented by a woman's necklace of glass beads. Silver also crosses from ornament into dress fastening: a jacket closes with a large silver button and another with a silver buckle. That a woman's cotton coat was accessioned together with its silver brooch suggests ornament and garment were treated as a single assemblage. The sources used do not describe tattooing, hair practice or body painting among the Lahu.
+Silver dominates Lahu ornament as recorded here. The collection holds neck ornaments of silver (two examples), a silver brooch, silver ear-rings including a woman's pair, a woman's silver bracelet and a woman's pair of silver bracelets. Beadwork is represented by a woman's necklace of glass beads. Silver also crosses from ornament into dress fastening: a jacket closes with a large silver button and another with a silver buckle. That a woman's cotton coat was accessioned together with its silver brooch suggests ornament and garment were treated as a single assemblage.
 
 ## Music & performance
 
-The sources used here do not describe Lahu instruments, song genres or performance occasions. Two indirect points touch on music: among Christian Lahu villages the language has been enriched by neologisms in the areas of hygiene, music and education alongside loanwords from English, Latin and Greek introduced through Bible translation; and Lahu-language radio soap opera and Lahu audio resources are among the documentation projects listed for the language.
-
-## Dance & theatre
-
-The sources used here do not describe Lahu dance or dramatic traditions.
+Two indirect points touch on music: among Christian Lahu villages the language has been enriched by neologisms in the areas of hygiene, music and education alongside loanwords from English, Latin and Greek introduced through Bible translation; and Lahu-language radio soap opera and Lahu audio resources are among the documentation projects listed for the language.
 
 ## Festivals & rituals
 
 The sources used here give little on the Lahu festival calendar, and nothing on annual or seasonal festivals. What they do document is ritual protection and naming. The Lahu of northeastern Thailand encountered Theravada Buddhist forest monks (*tudong* monks) around the years 1930–1940; the leader of one such group, Mun Bhuridatta, spent time in Lahu territory, and these Lahu asked him for a *gatha* that would protect them from ghosts and demons — a request that shows traditional concern with spirits being addressed through a Buddhist verbal formula. Birth is marked in the naming system. Lahu given names are made of two syllables, one showing gender and one giving information on the day of birth according to the zodiac: a person born on the Ox day is named *Zanu* if a boy and *Nanu* if a girl. Surnames are a later, external imposition — the Lahu used to have only a given name until the Chinese government gave them surnames, and about 90% of Lahu people now bear either Lee or Zhang, two of the most common Chinese surnames. Kinship practice frames these rites: the Lahu have no kin groups above the family, trace descent bilaterally, and typically practise matrilocal residence, so the subgroups function as neither tribes nor clans.
-
-## Foodways
-
-The sources used here do not describe Lahu staple crops, dishes, cooking methods or drink traditions.
 
 ## Oral tradition & literature
 

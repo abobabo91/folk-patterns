@@ -13,7 +13,7 @@ The Cherokee, also called *Tsalagi*, are Indigenous people of the Southeastern W
 
 ### Textile & pattern traditions
 
-**Basketry** — Museum records describe Cherokee baskets and basketry trays made from cane, with plaiting, diagonal lines, triangles, and rectangles. Another record describes a single-tube blower pipe with cogs of basket braiding and willow. The sources do not document the seed traditions of rivercane basketry, double-wall basketry, white oak basketry, Cherokee beadwork, finger weaving, tear dress, ribbon shirts, or named Cherokee motifs.
+**Basketry** — Museum records describe Cherokee baskets and basketry trays made from cane, with plaiting, diagonal lines, triangles, and rectangles. Another record describes a single-tube blower pipe with cogs of basket braiding and willow.
 
 **Motif vocabulary.** Diagonal lines, triangles, rectangles, cogs of basket braiding.
 
@@ -25,33 +25,33 @@ The same description records hair and body adornment. The hair of the head was s
 
 ### Architecture
 
-The sources do not provide a general account of Cherokee houses, roofs, wall construction, or settlement architecture. They do describe the *Council House*, called *ga-tu-yi*, as a large meeting house in Cherokee towns. It served as the center of government, had seven sides, and contained seven sections for the representatives of the clans. The sections surrounded a sacred fire. Weddings and other meetings were also held there.
+The sources describe the *Council House*, called *ga-tu-yi*, as a large meeting house in Cherokee towns. It served as the center of government, had seven sides, and contained seven sections for the representatives of the clans. The sections surrounded a sacred fire. Weddings and other meetings were also held there.
 
-Cherokee towns are described as autonomous communities situated along river valleys and mountain ridges. The sources also state that towns in the region could have a platform mound serving as a political center for smaller villages. They do not document the construction of wattle-and-daub houses, Cherokee arbors, or another named domestic architectural form.
+Cherokee towns are described as autonomous communities situated along river valleys and mountain ridges. The sources also state that towns in the region could have a platform mound serving as a political center for smaller villages.
 
 ### Ceramics, metalwork & everyday objects
 
 The museum records document several everyday and material objects. A wooden spoon from the Qualla Reservation in North Carolina was used in food preparation. British Museum records describe a stone tobacco pipe-bowl, terrapin-shell rattles, a wooden mask with a snake, and baskets or basketry trays made of cane. A catalogue record also describes an arrow and a blower pipe associated with Cherokee arrow poison.
 
-The sources mention silver breast-plates, bracelets, pendants, and rings in the account of Cherokee dress. They do not provide a documented Cherokee ceramic tradition, named pottery form, or detailed account of metalworking techniques.
+The sources mention silver breast-plates, bracelets, pendants, and rings in the account of Cherokee dress.
 
 ### Jewelry & body adornment
 
 Cherokee body adornment in the sources includes collars made from wampum beads cut from clam-shells, silver breast-plates, silver bracelets, silver pendants, and silver rings worn on the ears and nose. Hair could be shaved or plucked, leaving a decorated patch at the back of the head. Beads, feathers, wampum, stained deer hair, and similar materials were used in this hair arrangement.
 
-The sources also describe tattooing or staining only in a general historical description: people were painted, and their skins were stained with gun-powder, which was pricked into the skin in figures. The sources do not name particular tattoo designs, jewelry types, or ritual functions for these adornments.
+The sources also describe tattooing or staining only in a general historical description: people were painted, and their skins were stained with gun-powder, which was pricked into the skin in figures.
 
 ## Music & performance
 
-The sources do not describe Cherokee song genres, musical scales, vocal forms, or named musical instruments in detail. They do document dance performance and objects used in it. The British Museum records two dance rattles made from seven terrapin shells pierced with holes and filled with stones, tied onto the upper part of a boot with hide strips. Another rattle consists of a terrapin shell filled with stones and socketed into a shaft wrapped with hide.
+The sources document dance performance and objects used in it. The British Museum records two dance rattles made from seven terrapin shells pierced with holes and filled with stones, tied onto the upper part of a boot with hide strips. Another rattle consists of a terrapin shell filled with stones and socketed into a shaft wrapped with hide.
 
-Cherokee spiritual traditions include public ceremonies, dances around a sacred fire, and prayers. The sacred fire is described as a special gift, and dancing around it was said to unite the people as one mind. Priests prayed to the thunder beings for rain and blessings from the South. The sources do not identify particular musical contexts such as weddings, funerals, courts, or tea houses, and do not document the instruments or musical repertories associated with these performances.
+Cherokee spiritual traditions include public ceremonies, dances around a sacred fire, and prayers. The sacred fire is described as a special gift, and dancing around it was said to unite the people as one mind. Priests prayed to the thunder beings for rain and blessings from the South.
 
 ## Dance & theatre
 
 Cherokee culture includes both social and ceremonial dances. The sources name the Booger Dance, Stomp Dance, War Dance, Eagle Tail Dance, Ant Dance, Bear Dance, Beaver Hunting Dance, Friendship Dance, Forest Buffalo Dance, and Uke Dance. The Eagle Tail Dance is described as a victory dance.
 
-The sources also list the *Uku* or *Ookah Dance* among the primary Cherokee ceremonies and state that it was performed every seven years. Cherokee dances could be affected by neighboring cultures, and some surviving dances may be held for purposes different from those they had historically. A British Museum catalogue records a wooden human face mask with a snake, but the sources do not explain its performance context or connect it to a named theatrical tradition.
+The sources also list the *Uku* or *Ookah Dance* among the primary Cherokee ceremonies and state that it was performed every seven years. Cherokee dances could be affected by neighboring cultures, and some surviving dances may be held for purposes different from those they had historically. A British Museum catalogue records a wooden human face mask with a snake.
 
 ## Festivals & rituals
 
@@ -59,7 +59,7 @@ The sources describe seven primary ceremonies traditionally celebrated by Cherok
 
 Corn was important in agriculture and ceremony. During the South Appalachian Mississippian culture period, local women developed eastern flint corn, and corn surpluses supported larger and more complex communities. Corn became celebrated among numerous peoples in religious ceremonies, especially the Green Corn Ceremony.
 
-Purification was also important to ceremonial and spiritual balance. Bathing in rivers was practiced year-round, including during winter when ice was on the river. The “going to the water” rite involved prayers and new water from free-flowing streams. Cherokee towns held weddings and other meetings in the Council House. The sources do not provide a complete account of birth, coming-of-age, funeral, or wedding rites beyond these references.
+Purification was also important to ceremonial and spiritual balance. Bathing in rivers was practiced year-round, including during winter when ice was on the river. The “going to the water” rite involved prayers and new water from free-flowing streams. Cherokee towns held weddings and other meetings in the Council House.
 
 ## Foodways
 
@@ -67,7 +67,7 @@ The sources identify corn, beans, and meat from hunted animals as important elem
 
 A creation narrative explains the origins of corn and beans through Selu, whose secret was to fill baskets with corn by rubbing her stomach and baskets with beans by rubbing her sides. The story says that corn appeared after Selu’s body was dragged over soil, although the boys did not complete the instructions. Medicine and plant life are connected to foodways in the same narrative: plants were said to provide cures for diseases created by animals.
 
-A museum catalogue records a wooden spoon from the Qualla Reservation used in food preparation. The sources do not name prepared dishes, cooking methods, beverages, dietary rules, or a ceremonial menu.
+A museum catalogue records a wooden spoon from the Qualla Reservation used in food preparation.
 
 ## Oral tradition & literature
 
@@ -83,7 +83,7 @@ Cherokee, or *Tsalagi Gawonihisdi*, is an Iroquoian language and the only Southe
 
 Cherokee uses an 85-character syllabary invented by Sequoyah, also known as George Gist. The language is polysynthetic, and the syllabary was used for newspapers, books, religious texts, legal documents, and descriptions of Indian medicine. Cherokee is described as “definitely endangered” in Oklahoma and “severely endangered” in North Carolina according to UNESCO. Preservation efforts include immersion schools, language curricula, community programs, and a language center near Tahlequah.
 
-Cherokee spirituality joins the physical and spiritual worlds. Traditional cosmology describes the Upper World, the Under World, and This World. Humans are understood to live in coexistence with plants, animals, rivers, mountains, caves, and other natural formations. The sources do not provide a general account of present-day religious affiliation.
+Cherokee spirituality joins the physical and spiritual worlds. Traditional cosmology describes the Upper World, the Under World, and This World. Humans are understood to live in coexistence with plants, animals, rivers, mountains, caves, and other natural formations.
 
 ## Sources & further reading
 

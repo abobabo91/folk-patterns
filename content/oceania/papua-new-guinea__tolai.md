@@ -41,10 +41,6 @@ The sources do not describe everyday Tolai clothing or ceremonial dress, but som
 - **Feather headdress** — Dance objects include headdresses and other ornaments made with white, yellowish, black, and red feathers.
 - **Textile-covered hat** — One carved mask has a hat covered with red European textile.
 
-### Architecture
-
-The sources do not describe Tolai houses, villages, buildings, roofs, or construction traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 Documented objects include fishing gear, wood tools, drums, masks, dance-wands, and a stone figure; ceramics and metalwork are not described.
@@ -65,10 +61,10 @@ The sources do not explain Tolai jewelry or body-adornment practices, but museum
 
 ## Music & performance
 
-Tolai performance objects include drums and slit-drums, but the sources do not name their musical styles or uses in detail.
+Tolai performance objects include drums and slit-drums.
 
 - **Dance drum** — A wooden drum is recorded as being used in dance.
-- **Slit-drum** — A small wooden slit-drum has a central tongue and handles, but the sources do not say how it is played.
+- **Slit-drum** — A small wooden slit-drum has a central tongue and handles.
 - **Kai.Tupi drum** (*Kai.Tupi*) — One drum bears the inscription “Kai.Tupi” near its handle.
 
 ## Dance & theatre
@@ -99,8 +95,6 @@ The sources give only a few Tolai terms connected with chewing betelnut.
 - **Chew betelnut** (*mamai*) — Mamai is the Tolai verb meaning to chew betelnut.
 
 ## Oral tradition & literature
-
-The sources do not document Tolai stories, poetry, proverbs, riddles, or written literature.
 
 - **The language** (*tinata*) — The Tolai language source gives tinata as meaning “the language.”
 - **Aibika** — Aibika is listed as a Tok Pisin vocabulary item likely derived from Tolai or a related language.
@@ -138,10 +132,8 @@ Kuanua is a prestigious Oceanic language, and most Tolai are Christian while old
 
 ## Sources & further reading
 
-- The sources supplied do not provide book references, publishers, years, or named documentation projects.
 - [Tolai people — Wikipedia](https://en.wikipedia.org/wiki/Tolai_people)
 - [Tolai language — Wikipedia](https://en.wikipedia.org/wiki/Tolai_language)
 - No UNESCO Intangible Cultural Heritage inscription was supplied for Papua New Guinea.
 - British Museum catalogue records supplied for fishing net, adze, fish-hook, drum, slit-drum, *lor* dance-mask, dance-wands, carved mask and stone ingut figure.
 - Metropolitan Museum of Art catalogue record supplied for a wood-and-paint mask dated to the mid to late 19th century.
-

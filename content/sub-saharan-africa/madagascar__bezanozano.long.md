@@ -43,7 +43,7 @@ Three instruments survive in the collected objects: a drum with a wooden body an
 
 ## Dance & theatre
 
-One dance is named in the sources and it is unique to this people: the **Betatoato**. The sources used give no description of its steps, its accompaniment or its occasion, and no theatrical or masked tradition.
+One dance is named in the sources and it is unique to this people: the **Betatoato**.
 
 ## Festivals & rituals
 

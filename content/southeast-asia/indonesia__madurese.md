@@ -59,10 +59,6 @@ Madurese craftspeople work in pottery, tanning, blacksmithing, boat building, an
 - **Winged-horse kris** (*kris*) — One record describes a Madurese kris with an old ivory winged-horse hilt, a Minangkabau sheath, and a Madurese blade.
 - **Spear** — Museum records include spears associated with Indonesian collections.
 
-### Jewelry & body adornment
-
-The sources do not document Madurese personal adornment.
-
 ## Music & performance
 
 Gamelan is shared with eastern Javanese culture and accompanies bull races.
@@ -139,5 +135,3 @@ Madurese is a Malayo-Sumbawan language, and Sunni Islam is central to social lif
 - [Madurese cuisine](https://en.wikipedia.org/wiki/Madurese_cuisine)
 - Metropolitan Museum of Art catalogue records for *Kris with Sheath* and *Spear*.
 - Museum of World Culture catalogue record: *dolk, dagger, keris naga, keris, kris*, 2015.06.0001a-b.
-- The UNESCO Intangible Cultural Heritage sources used contain no inscriptions for this group.
-

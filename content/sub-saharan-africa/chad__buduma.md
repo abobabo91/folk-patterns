@@ -34,7 +34,7 @@ The sources do not describe named Buduma textile patterns, but they record many 
 
 ### Clothing & dress
 
-The sources record sandals and bracelets but do not describe named everyday or ceremonial clothing.
+The sources record sandals and bracelets.
 
 - **Ambatch sandals** — A pair of sandals was made from ambatch wood with straps of vegetal fibre.
 - **Brass and iron bracelets** — The catalogue records bracelets made of brass and iron, without identifying their dress or ceremonial use.
@@ -64,14 +64,6 @@ The sources describe brass and iron bracelets but give no ritual or body-adornme
 - **Penannular iron bracelet** — One iron bracelet was half-twisted and had coiled terminals.
 - **Looped iron bracelet** — Another iron bracelet was twisted with three loops around its circumference.
 - **Brass bracelets** — The catalogue also lists additional bracelets made of brass.
-
-## Music & performance
-
-The sources do not describe Buduma instruments, songs, performance settings, or music-making practices.
-
-## Dance & theatre
-
-The sources do not describe named Buduma dances, theatre, dramatic traditions, or entertainment practices.
 
 ## Festivals & rituals
 
@@ -121,4 +113,3 @@ Yedina is the Buduma language, and the Buduma are Muslims who retain older belie
 - [Buduma people](https://en.wikipedia.org/wiki/Buduma_people)
 - [Buduma language](https://en.wikipedia.org/wiki/Buduma_language)
 - British Museum catalogue records for the Buduma objects shown.
-

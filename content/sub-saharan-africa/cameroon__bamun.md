@@ -29,14 +29,6 @@ The profile does not name Bamun textile traditions, but it records a woven fibre
 
 - **Woven bag** — The bag is woven from raffia or sisal, with striped fringe, green X-shaped decoration, and a braided brown-fibre handle with tassels.
 
-### Clothing & dress
-
-The sources do not document Bamun everyday or ceremonial clothing.
-
-### Architecture
-
-The sources do not describe Bamun houses, palaces, courtyards, or building traditions.
-
 ### Ceramics, metalwork & everyday objects
 
 Museum records show brass objects, smoking-pipes, a knife, a woven bag, and a palm-wine bottle.
@@ -49,10 +41,8 @@ Museum records show brass objects, smoking-pipes, a knife, a woven bag, and a pa
 
 ### Jewelry & body adornment
 
-The sources do not document Bamun jewelry or body-adornment practices.
-
 - **Hip mask** — The records include a cast brass hip mask shaped as a face with a beard of mudfish.
-- **Pendant-mask** — The records mention a pendant-mask but do not describe it as jewelry or explain its use.
+- **Pendant-mask** — The records mention a pendant-mask.
 
 ## Music & performance
 
@@ -65,19 +55,15 @@ Bamum is used in song, and museum records show a xylophone figure and decorated 
 
 ## Dance & theatre
 
-A wooden dance mask is recorded, but the sources do not describe its performance context.
+A wooden dance mask is recorded.
 
 - **Wooden dance mask** — A British Museum register records a wooden dance mask.
-
-## Festivals & rituals
-
-The sources do not document Bamun festivals, rites, or ritual observances.
 
 ## Foodways
 
 The sources do not describe Bamun foods or cooking, but they record a palm-wine bottle.
 
-- **Palm wine bottle** — A bead-mosaic bottle is recorded, but the sources do not explain how palm wine was made, served, or used socially.
+- **Palm wine bottle** — A bead-mosaic bottle is recorded.
 
 ## Oral tradition & literature
 
@@ -118,4 +104,3 @@ Bamum is a tonal Eastern Grassfields language with an original script, while rel
 - Wikipedia, [“Bamun language”](https://en.wikipedia.org/wiki/Bamun_language)
 - British Museum collection records for the arm-dagger, smoking-pipes, bag, masks, staff finial, figures, and related objects.
 - Museum of Ethnography catalogue records for Bamun objects.
-

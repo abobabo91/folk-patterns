@@ -25,7 +25,7 @@ Nara material culture in the supplied sources is marked by plant-based objects w
 
 ### Textile & pattern traditions
 
-The supplied sources show geometric patterns on cane, fibre, gourds, bamboo and wood, but do not name a separate textile tradition.
+The supplied sources show geometric patterns on cane, fibre, gourds, bamboo and wood.
 
 - **Cane belt** — This belt uses finely plaited dark brown cane cord, barkcloth and beaten bark ribbons.
 - **Plant-fibre netbag** (*bilum*) — This rounded bag has red and black bands, diagonal lines, repeated rectangles and dark circular patches.
@@ -35,9 +35,9 @@ The supplied sources show geometric patterns on cane, fibre, gourds, bamboo and 
 
 ### Clothing & dress
 
-The sources describe one wearable belt but do not record everyday or ceremonial clothing.
+The sources describe one wearable belt.
 
-- **Cane belt** — The belt is made from finely plaited cane cord, barkcloth and lightly beaten bark ribbons, but the sources do not say who wore it or when.
+- **Cane belt** — The belt is made from finely plaited cane cord, barkcloth and lightly beaten bark ribbons.
 
 ### Architecture
 
@@ -65,10 +65,6 @@ The sources do not document Nara music, but they record a model bullroarer.
 
 - **Model bullroarer** — This flat wooden model has incised diamond decoration and a twisted fibre cord, but its sound and use are not described.
 
-## Dance & theatre
-
-The supplied sources do not document Nara dances, theatre, masked performances or other entertainment forms.
-
 ## Festivals & rituals
 
 The sources give no festival or ritual descriptions, but they record a change from animist beliefs to Islam.
@@ -78,9 +74,9 @@ The sources give no festival or ritual descriptions, but they record a change fr
 
 ## Foodways
 
-The Nara are mostly subsistence farmers, but the sources do not name foods or cooking traditions.
+The Nara are mostly subsistence farmers.
 
-- **Lime powder** — Some gourd containers and tobacco-pipes contain traces of lime powder, but the sources do not explain its related practices.
+- **Lime powder** — Some gourd containers and tobacco-pipes contain traces of lime powder.
 
 ## Oral tradition & literature
 
@@ -123,4 +119,3 @@ Nara is spoken around Barentu and is classified either as Northern Eastern Sudan
 - “Nara language,” Wikipedia: https://en.wikipedia.org/wiki/Nara_language
 - British Museum catalogue records for the Nara objects shown, including the belt, tobacco-pipes, lime-containers, cigar-holder, netbag, model bullroarer and charm
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is listed in the supplied sources.
-

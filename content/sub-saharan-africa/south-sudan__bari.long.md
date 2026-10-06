@@ -7,7 +7,7 @@ tags: [ethnography, sub-saharan-africa]
 
 ## Overview
 
-The Bari are a Nilotic people of the Karo group living along the White Nile in South Sudan, occupying the savanna on both banks and reaching up to forty miles east and west of the river. Their country holds the historical settlements of Mongalla, Lado, Gondokoro and Rejaf, as well as Juba, the capital of South Sudan, which lies ten miles south of Gondokoro and seven miles north of Rejaf. They speak *Bari*, a Nilotic language also called *Kutuk* ("mother tongue"), shared in distinct dialects with the Pojulu, Kakwa, Nyangwara, Mundari and Kuku. As sedentary agropastoralists they combine subsistence mixed farming with livestock held less for daily food than as social and financial capital — exchanged in marriage, sacrificed at celebrations and funerals, and sold for cash when needed. The sources consulted do not give a population figure.
+The Bari are a Nilotic people of the Karo group living along the White Nile in South Sudan, occupying the savanna on both banks and reaching up to forty miles east and west of the river. Their country holds the historical settlements of Mongalla, Lado, Gondokoro and Rejaf, as well as Juba, the capital of South Sudan, which lies ten miles south of Gondokoro and seven miles north of Rejaf. They speak *Bari*, a Nilotic language also called *Kutuk* ("mother tongue"), shared in distinct dialects with the Pojulu, Kakwa, Nyangwara, Mundari and Kuku. As sedentary agropastoralists they combine subsistence mixed farming with livestock held less for daily food than as social and financial capital — exchanged in marriage, sacrificed at celebrations and funerals, and sold for cash when needed.
 
 ## Material culture
 
@@ -31,7 +31,7 @@ Bari dress in the catalogued collection is built from hide, fibre and metal. Wom
 
 ### Architecture
 
-The sources used do not describe Bari house forms, building materials or roofing. What they do record is settlement pattern and its destruction: Bari oral tradition holds that the land flanking the Nile once carried strings of villages spread to the horizon, and Samuel Baker, who first saw the area in the 1860s, confirmed this had been so before the slave trade reduced the Bari villages to a miserable few by the time of his later expedition. Photographs in the museum collection show a shelter with an entrance where a man and woman kneel holding pots, a screen standing beside a woman at her potting, and a fence of woven sticks behind a seated woman — the only built fabric the sources put on record.
+What the sources do record is settlement pattern and its destruction: Bari oral tradition holds that the land flanking the Nile once carried strings of villages spread to the horizon, and Samuel Baker, who first saw the area in the 1860s, confirmed this had been so before the slave trade reduced the Bari villages to a miserable few by the time of his later expedition. Photographs in the museum collection show a shelter with an entrance where a man and woman kneel holding pots, a screen standing beside a woman at her potting, and a fence of woven sticks behind a seated woman — the only built fabric the sources put on record.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -55,7 +55,7 @@ No annual festival calendar appears in the sources. Life-cycle ritual is documen
 
 ## Foodways
 
-The Bari economy rests on subsistence mixed farming, with small and large domestic livestock raised mainly to supplement food but held above all as a socio-economic and financial investment. The sources consulted do not name Bari staple crops, dishes or cooking methods.
+The Bari economy rests on subsistence mixed farming, with small and large domestic livestock raised mainly to supplement food but held above all as a socio-economic and financial investment.
 
 ## Oral tradition & literature
 

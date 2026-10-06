@@ -68,10 +68,6 @@ Adornment included ornaments, straps, scarification, styled hair, and fibre twin
 - **Crested hair** — The carved male figure has hair dressed in a crest.
 - **Neck twine** — Fibre twine is shown around the carved figure’s neck.
 
-## Music & performance
-
-The sources do not document Irigwe music, instruments, songs, or musical styles.
-
 ## Dance & theatre
 
 Dances linked farming and occupational groups, and hunters used animal movements in ritual.
@@ -88,14 +84,6 @@ Ritual life included crop festivals, a group-wide rite, and spirit possession cu
 - **Group well-being ritual** — An all-important ritual for the well-being of the whole group was led by priestly elders.
 - **Spirit possession cults** — Spirit possession cults involved nearly all mature women and supported emotional release and social integration.
 - **Priestly elder authority** — Priestly elders from several tribal subdivisions traditionally held authority over the group-wide ritual.
-
-## Foodways
-
-The sources do not document Irigwe foods, cooking, dietary rules, or food ceremonies.
-
-## Oral tradition & literature
-
-The sources do not document Irigwe folktales, poetry, proverbs, riddles, or storytelling practices.
 
 ## Language & religion
 
@@ -122,4 +110,3 @@ Rigwe is a complex Central Plateau language, and most Irigwe people were reporte
 - British Museum catalogue records for Irigwe photographic prints, daggers, and carved wood.
 - [Irigwe people](https://en.wikipedia.org/wiki/Irigwe_people)
 - [Irigwe language](https://en.wikipedia.org/wiki/Irigwe_language)
-

@@ -13,8 +13,6 @@ The Zia, also called Tsʾíiyʾamʾé, are an Indigenous nation centered at Zia 
 
 ### Textile & pattern traditions
 
-The sources used do not document Zia textile traditions, embroidery, woven garments, or other textile-specific pattern practices.
-
 **Pottery painting** — Zia pottery is painted after the vessels have dried, using nature and religious symbols. Common motifs include geometric designs, plants, and animals, often placed on white or red backgrounds.
 
 **Polychrome lerkärl** — A museum catalogue records a Zia polychrome clay vessel from New Mexico decorated with two red birds outlined in black. The catalogue identifies the bird as the sacred water bird, which is considered to bring water and life.
@@ -29,7 +27,7 @@ The sources used do not document Zia textile traditions, embroidery, woven garme
 
 ### Clothing & dress
 
-The sources used do not document Zia everyday clothing, footwear, belts, head coverings, embroidery, or gender-specific dress. They state only that religious men dressed as kachinas during religious festivals and ceremonies, dancing among the people for three days before returning to the mountains.
+The sources state only that religious men dressed as kachinas during religious festivals and ceremonies, dancing among the people for three days before returning to the mountains.
 
 ### Architecture
 
@@ -43,29 +41,25 @@ Pottery was an important part of daily life in Zia Pueblo and historically serve
 
 The sources document clay storage jars, water jars, ollas, bowls, and painted vessels. Museum records describe vessels with floral, geometric, plant, animal, and bird designs. The records also identify vessels from Zia Pueblo and Sia Pueblo in New Mexico.
 
-### Jewelry & body adornment
-
-The sources used do not document Zia jewelry, ornaments, tattoos, henna, hair practices, or other forms of body adornment.
-
 ## Music & performance
 
 The sources document music in connection with kachina worship and agricultural religious ceremonies. The Zia believe in spirits called kachinas, understood as ancestral spirits that live among their people. The kachinas were said to have withdrawn to the sky after people failed to pay attention to them, but to return occasionally with rain and clouds. More than 300 kachinas are present in the worship described by the source.
 
 During religious festivals and ceremonies, the Zia asked the kachinas to bring rain and make the crops grow. Drums and rattles were used in the dances accompanying these ceremonies. Religious men dressed as kachinas came down from the mountains and danced among the people. After three days, they went back up.
 
-The source also describes women singing religious songs while grinding dried corn into flour at grinding stones. They sang because they considered corn sacred. No specific song genre, musical scale, named instrument beyond drums and rattles, or independent secular performance tradition is documented in the sources used.
+The source also describes women singing religious songs while grinding dried corn into flour at grinding stones. They sang because they considered corn sacred.
 
 ## Dance & theatre
 
-The sources document ceremonial kachina dancing but do not describe a separate theatrical tradition. During religious festivals and ceremonies, religious men dressed as kachinas danced among the people. The dances used drums and rattles and were connected with requests for rain and the growth of crops. The kachina dancers came down from the mountains and returned after three days.
+The sources document ceremonial kachina dancing. During religious festivals and ceremonies, religious men dressed as kachinas danced among the people. The dances used drums and rattles and were connected with requests for rain and the growth of crops. The kachina dancers came down from the mountains and returned after three days.
 
 ## Festivals & rituals
 
-The sources used do not provide an annual festival calendar or named Zia feast days. They describe religious festivals and ceremonies connected with kachinas, rain, clouds, and agricultural growth. The Zia believed that kachinas were ancestral spirits who could bring rain and make crops grow. Religious men dressed as kachinas came down from the mountains, danced among the people, and returned after three days.
+The sources describe religious festivals and ceremonies connected with kachinas, rain, clouds, and agricultural growth. The Zia believed that kachinas were ancestral spirits who could bring rain and make crops grow. Religious men dressed as kachinas came down from the mountains, danced among the people, and returned after three days.
 
 The sun also had an important ritual role. The Zia regarded the Sun as sacred. Their solar symbol, a red circle with groups of rays pointing in four directions, was painted on ceremonial vases, drawn on the ground around campfires, and used to introduce newborns to the Sun. Four was regarded as the sacred number of the Zia. It represented the four points of the compass, the four seasons of the year, the four periods of each day, and the four seasons of life. It also represented four sacred obligations: a strong body, a clear mind, a pure spirit, and devotion to the welfare of others.
 
-The sources describe historical religious suppression. Spanish religious orders outlawed traditional Zia religious ceremonies. A church and convent had been built by tribal members by 1613. The sources do not document Zia wedding, funeral, coming-of-age, or other life-cycle rites.
+The sources describe historical religious suppression. Spanish religious orders outlawed traditional Zia religious ceremonies. A church and convent had been built by tribal members by 1613.
 
 ## Foodways
 
@@ -79,11 +73,11 @@ The Zia were primarily vegetarians but ate meat when it was available. Hunting i
 
 ## Oral tradition & literature
 
-The sources used do not document Zia folktales, epic poetry, proverbs, riddles, written literature, or contemporary literary preservation efforts. They do record religious songs sung by women while grinding sacred corn and describe religious knowledge concerning kachinas, the Sun, and the obligations represented by the number four.
+The sources record religious songs sung by women while grinding sacred corn and describe religious knowledge concerning kachinas, the Sun, and the obligations represented by the number four.
 
 ## Language & religion
 
-The Zia are one of the Keres Pueblo peoples and speak Eastern Keres. The sources describe their language as Keresan-speaking but do not provide a more detailed account of dialects, historical scripts, or language documentation.
+The Zia are one of the Keres Pueblo peoples and speak Eastern Keres. The sources describe their language as Keresan-speaking.
 
 The Zia regard the Sun as sacred and use a solar symbol consisting of a red circle with groups of rays pointing in four directions. Four is sacred and represents the compass points, seasons, periods of the day, seasons of life, and four obligations concerning the body, mind, spirit, and welfare of others. Zia religious traditions also include kachinas, understood as ancestral spirits associated with rain and clouds. Festivals and ceremonies use drums, rattles, dance, and religious dress.
 

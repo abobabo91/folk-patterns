@@ -33,8 +33,6 @@ Lokono textile work uses plaited cane and fibre, with patterns built from altern
 
 ### Clothing & dress
 
-The sources do not describe Lokono everyday or ceremonial clothing.
-
 - **Headband with shell plaques** — A headband on a carved figure is embellished with a row of decorative elements that may represent shell plaques.
 
 ### Architecture
@@ -141,4 +139,3 @@ Lokono is a critically endangered active-stative language spoken by roughly 2,50
 - Wikipedia, "Arawak language": https://en.wikipedia.org/wiki/Arawak_language
 - No UNESCO Intangible Cultural Heritage element is inscribed for Trinidad and Tobago
 - British Museum online collection, for the *duho* ritual seat, the Birdman figure, the plaited cane boxes and rattles, the pineapple-fibre hammock and the bamboo quiver: https://www.britishmuseum.org/collection
-

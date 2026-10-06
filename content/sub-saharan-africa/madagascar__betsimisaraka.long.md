@@ -25,25 +25,25 @@ The Betsimisaraka are the second largest ethnic group in Madagascar, constitutin
 
 **Basketry** — Museum records include basketry hats, baskets, eating mats, a baby cover and a handbag combining basketry and raffia.
 
-**Motif vocabulary.** The sources name stripes in green, red, purple, off-white, blue, beige, magenta and pink, but do not identify named Betsimisaraka motifs.
+**Motif vocabulary.** The sources name stripes in green, red, purple, off-white, blue, beige, magenta and pink.
 
 ### Clothing & dress
 
-Traditional clothing was based on raffia fiber. Women wore a short wrapper called a *simbo*, generally with a bandeau top called an *akanjo*. Men wore raffia smocks. Museum records document men’s work-shirts with stripes, sleeves, collars and pockets, as well as sleeveless raffia jackets; women’s skirts are recorded as tubes made from folded and sewn raffia cloth. Hats were made from raffia or basketry. The sources do not document belts, footwear or a separate ceremonial dress.
+Traditional clothing was based on raffia fiber. Women wore a short wrapper called a *simbo*, generally with a bandeau top called an *akanjo*. Men wore raffia smocks. Museum records document men’s work-shirts with stripes, sleeves, collars and pockets, as well as sleeveless raffia jackets; women’s skirts are recorded as tubes made from folded and sewn raffia cloth. Hats were made from raffia or basketry.
 
 Dress also marked mourning. Women in mourning unbraided their hair and stopped wearing their *akanjo*, while men no longer wore a hat. The mourning period typically lasted two to four months, depending on the deceased person’s relationship to the mourner. Traditional raffia clothing continues to be worn by some Betsimisaraka.
 
 ### Architecture
 
-The museum catalogue includes a model hut made of bamboo and paper. The supplied sources do not describe the ordinary Betsimisaraka house form, roof type, decoration or settlement layout in further detail. A newly constructed house is nevertheless the focus of a communal inauguration celebration, listed among major Betsimisaraka customs.
+The museum catalogue includes a model hut made of bamboo and paper. A newly constructed house is nevertheless the focus of a communal inauguration celebration, listed among major Betsimisaraka customs.
 
 ### Ceramics, metalwork & everyday objects
 
-The catalogue records iron fish-spear heads, knives, axes, bill-hooks and a manioc scraper made of wood and tin. It also includes wooden combs, basketry baskets and eating mats, a wooden loom, fish sieves, a fish trap made from raffia spine, and a wooden musical horn. The sources do not describe distinctive ceramics. Agriculture, fishing and forest gathering are important in the economy: Betsimisaraka cultivate rice, vanilla and other crops, and catch river crabs, shrimp and fish.
+The catalogue records iron fish-spear heads, knives, axes, bill-hooks and a manioc scraper made of wood and tin. It also includes wooden combs, basketry baskets and eating mats, a wooden loom, fish sieves, a fish trap made from raffia spine, and a wooden musical horn. Agriculture, fishing and forest gathering are important in the economy: Betsimisaraka cultivate rice, vanilla and other crops, and catch river crabs, shrimp and fish.
 
 ### Jewelry & body adornment
 
-The museum catalogue records a metal ear-ring, a vanilla ornament, and figures made from bark, stone and wood. The sources do not document tattoos, henna, named jewelry forms or a distinctive body-adornment system. They do describe mourning hair practices: women unbraid their hair after a death.
+The museum catalogue records a metal ear-ring, a vanilla ornament, and figures made from bark, stone and wood. The sources describe mourning hair practices: women unbraid their hair after a death.
 
 ## Music & performance
 
@@ -51,11 +51,11 @@ The Betsimisaraka musical style most closely associated with *tromba* is *basesa
 
 Another regional genre is *valse*, a Malagasy interpretation of European seafarers’ waltzes performed on accordion. Unlike basesa, valse is not performed during tromba ceremonies. European influence is also evident in these musical forms and in the Betsimisaraka’s long interaction with European seafarers, pirates, traders and settlers.
 
-*Tromba* is a widespread ritual of spirit possession. Both men and women act as mediums and spectators. Religious rites and customs are traditionally presided over by a *tangalamena* officiant. The museum catalogue also records wooden horns, a wooden guitar and a violin made of wood and raffia, but the sources do not explain their performance contexts.
+*Tromba* is a widespread ritual of spirit possession. Both men and women act as mediums and spectators. Religious rites and customs are traditionally presided over by a *tangalamena* officiant. The museum catalogue also records wooden horns, a wooden guitar and a violin made of wood and raffia.
 
 ## Dance & theatre
 
-The dance associated with traditional basesa is performed with the arms held at the sides and with heavy foot movements. Contemporary basesa dance has been influenced by dances performed to sega and kwassa kwassa music from Reunion Island. The sources do not describe a separate Betsimisaraka theatre, masked dance, puppet tradition or dramatic genre.
+The dance associated with traditional basesa is performed with the arms held at the sides and with heavy foot movements. Contemporary basesa dance has been influenced by dances performed to sega and kwassa kwassa music from Reunion Island.
 
 ## Festivals & rituals
 
@@ -63,7 +63,7 @@ Betsimisaraka social life follows the agricultural year. Field preparation begin
 
 Major customs include *sambatra*, or circumcision; *folanaka*, associated with the birth of a tenth child; ritual sacrifice of zebu for the ancestors; and the inauguration of a newly constructed house. Tromba spirit-possession ceremonies are widespread, with men and women participating as mediums and spectators.
 
-Some Betsimisaraka, principally around Maroantsetra, practice *famadihana*, a reburial ceremony in a simpler form than that practiced in the Highlands. In the south, coffins are placed in tombs; in the north, they are placed under outdoor shelters. The sources do not provide a festival calendar with fixed dates beyond the seasonal agricultural cycle.
+Some Betsimisaraka, principally around Maroantsetra, practice *famadihana*, a reburial ceremony in a simpler form than that practiced in the Highlands. In the south, coffins are placed in tombs; in the north, they are placed under outdoor shelters.
 
 Birth is surrounded by complex rites. During a woman’s first childbirth, she is secluded in a special birthing house called a *komby*. After seven days, stored leaves and the newborn’s waste are burned, and the ash is rubbed on the mother’s and baby’s forehead and cheeks. On the fifteenth day, both are bathed in water soaked with lime or lemon leaves in a ritual called *ranom-boahangy*, or “bath of the leaves.” The community drinks rum and holds wrestling matches, while the mother remains in the komby until the celebration has ended.
 
@@ -81,13 +81,13 @@ Betsimisaraka folktales and taboos frequently concern lemurs and crocodiles. Lem
 
 Crocodiles are treated with reverence and fear. Villagers may offer them zebu hindquarters, geese and other food at river banks. Amulets for protection may be worn or thrown into the water. Witches and sorcerers are believed to be connected with crocodiles and capable of ordering them to attack.
 
-The sources do not document a named Betsimisaraka epic, proverb collection, riddle tradition or contemporary literary revival. Malagasy more broadly has a tradition of oratory arts and poetic histories and legends, including the national epic *Ibonia*.
+Malagasy more broadly has a tradition of oratory arts and poetic histories and legends, including the national epic *Ibonia*.
 
 ## Language & religion
 
 Betsimisaraka speech consists of several dialects of Malagasy, an Austronesian language in the Barito language group. Northern Betsimisaraka is closer to Tsimihety, while Southern Betsimisaraka is more similar to Antambahoaka. Malagasy is written in the Latin script, introduced by Western missionaries in the early 19th century; the earlier *Sorabe* script was a local development of the Arabic script.
 
-Traditional rites are presided over by a *tangalamena*. Betsimisaraka communities recognize supernatural beings including ghosts called *angatra*, mermaids called *zazavavy an-drano*, and the imp-like *kalamoro*. Ancestor worship remains central, and Christian practice is described as syncretically blended with traditional beliefs where Christianity is practiced. The sources do not identify a separate religious denomination specific to the Betsimisaraka.
+Traditional rites are presided over by a *tangalamena*. Betsimisaraka communities recognize supernatural beings including ghosts called *angatra*, mermaids called *zazavavy an-drano*, and the imp-like *kalamoro*. Ancestor worship remains central, and Christian practice is described as syncretically blended with traditional beliefs where Christianity is practiced.
 
 ## Sources & further reading
 

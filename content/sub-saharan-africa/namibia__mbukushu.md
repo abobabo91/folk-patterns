@@ -12,7 +12,7 @@ tags: [ethnography, sub-saharan-africa]
 | Where | They live mainly along the Kavango River and in Ngamiland, including the Okavango Delta, across Angola, Botswana, Namibia, and Zambia. |
 | How many | Around 120,000 people. |
 | Language | Mbukushu, or Thimbukushu, is a Bantu language and a national language in Namibia. |
-| Religion | The profile gives no information about religious affiliations or beliefs. |
+ |
 | Known for | Basket weaving · Rain-making in the Okavango Delta · Fishing, farming, and livestock keeping · Women using traps to catch fish |
 
 ## Overview
@@ -65,17 +65,9 @@ Museum records show necklaces, bracelets, rings, hair ornaments, head ornaments,
 - **Bean and bead hair ornament** — Another hair ornament combines glass beads, a bean, and fibre thread.
 - **Giraffe-hair leg ornament** — Leg ornaments include giraffe hair, leather, fibre, copper beads, and glass beads.
 
-## Music & performance
-
-The sources do not describe Mbukushu instruments, song types, musical performances, or performance settings.
-
-## Dance & theatre
-
-The sources do not describe named dances, theatre, mask performances, or other entertainment traditions.
-
 ## Festivals & rituals
 
-Rain-making is a renowned Hambukushu ability, but the sources do not describe its ritual details.
+Rain-making is a renowned Hambukushu ability.
 
 - **Rain-making** — The Hambukushu are associated with rain-making in the Okavango Delta.
 - **Royal rainmaking** — A cited historical work refers to royal rainmaking but gives no details about its sequence, participants, objects, or calendar.
@@ -119,4 +111,3 @@ Mbukushu, also called Thimbukushu, is a Bantu language spoken in Namibia and nea
 - [Wikipedia: Mbukushu](https://en.wikipedia.org/wiki/Mbukushu)
 - [Wikipedia: Mbukushu language](https://en.wikipedia.org/wiki/Mbukushu_language)
 - [British Museum collection](https://www.britishmuseum.org/collection)
-

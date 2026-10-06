@@ -149,11 +149,9 @@ SiSwati unifies Swazi identity, while traditional beliefs recognize a creator, a
 
 ## Sources & further reading
 
-- The sources supplied do not provide books, named scholars or documentation projects.
 - [Swazi people](https://en.wikipedia.org/wiki/Swazi_people)
 - [Swazi culture](https://en.wikipedia.org/wiki/Swazi_culture)
 - [Swazi language](https://en.wikipedia.org/wiki/Swazi_language)
 - [Swazi music](https://en.wikipedia.org/wiki/Swazi_music)
 - The supplied UNESCO Intangible Cultural Heritage source states that there are no UNESCO ICH inscriptions for Eswatini.
 - The supplied museum catalogue records do not provide collection URLs.
-

@@ -15,7 +15,7 @@ The selected wooden masks differ markedly. A British Museum example collected by
 
 The Smithsonian's label for an Idoma face mask is careful about function. It explains that masks and associated practices moved across ethnic divisions in the region. The mask may have been used at a formal funeral, for entertainment, or to maintain order, but a definite use is not known. This caution also applies when looking at a museum mask without a documented performance history. A mask's form is evidence of carving and decoration; it does not by itself prove a specific named rite.
 
-A seated woman carrying a child is another form of Idoma sculpture in the British Museum collection. Its record describes the figure and its condition but does not supply a secure ritual interpretation. The accompanying Commons museum photographs add other views of Idoma-attributed sculpture and masks; one sculpture is cautiously described by its museum as possibly connected with Anjenu.
+A seated woman carrying a child is another form of Idoma sculpture in the British Museum collection. Its record describes the figure and its condition. The accompanying Commons museum photographs add other views of Idoma-attributed sculpture and masks; one sculpture is cautiously described by its museum as possibly connected with Anjenu.
 
 ## Clothing, furnishings, and metal
 

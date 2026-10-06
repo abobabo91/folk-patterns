@@ -5,10 +5,6 @@ region: "Sub Saharan Africa"
 tags: [ethnography, sub-saharan-africa]
 ---
 
-## Overview
-
-The sources used do not cover the Bishareen people’s population, settlement areas, language family, or broader cultural significance.
-
 ## Material culture
 
 ### Textile & pattern traditions
@@ -21,35 +17,15 @@ The catalogue records include an openwork woman’s apron made of glass beadwork
 
 ### Architecture
 
-A photographic print records an adult male standing in front of a domed shelter covered with mats, but the sources used do not describe the shelter’s construction, terminology, decoration, or wider built environment.
+A photographic print records an adult male standing in front of a domed shelter covered with mats.
 
 ### Ceramics, metalwork & everyday objects
 
 The catalogue records include a hippopotamus-hide shield with a central silver boss, silver plates in the rim, and eight leather pockets containing charms; a spear or lance with an iron head and wooden shaft; gourd containers decorated with beads or covered with a network of beads; leather strip and fibre baskets; and several flat or conical baskets formed of coiled grass or fibre.
 
-### Jewelry & body adornment
-
-The sources used do not describe Bishareen jewelry, tattoos, henna, hair practices, or other body adornment beyond the beadwork and cowrie-shell aprons recorded in the catalogue.
-
-## Music & performance
-
-The sources used do not cover Bishareen instruments, song genres, musical performance, or performance contexts.
-
-## Dance & theatre
-
-The sources used do not cover Bishareen dances, theatre, or other dramatic traditions.
-
-## Festivals & rituals
-
-The sources used do not cover Bishareen festivals, annual rituals, life-cycle ceremonies, weddings, funerals, or other ritual practices.
-
 ## Foodways
 
 The sources used do not cover Bishareen foodways, staple foods, cooking methods, dishes, beverages, or dietary rules; one catalogue record identifies an object as a possible food-cover.
-
-## Oral tradition & literature
-
-The sources used do not cover Bishareen folktales, epic poetry, proverbs, riddles, storytelling, literature, or preservation efforts.
 
 ## Language & religion
 

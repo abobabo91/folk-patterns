@@ -25,7 +25,7 @@ The sources document decorated birchbark and beadwork rather than loom textiles.
 
 ### Clothing & dress
 
-The sources describe dress mainly through one photographic record and one amulet. The Algonquin man Um-Pa-Tuth, photographed in Wisconsin, wears a headdress, a beaded hide tunic, a beaded belt, hide leggings, beaded leg-bands and beaded moccasins — an assembled outfit in which hide forms the ground and glass beadwork the ornament, from the belt down to the footwear. Worn with it, or in the same repertoire, is an amulet of leather, beads and a tooth, hung from a leather suspension loop. The sources do not say whether this outfit was everyday or ceremonial, nor do they distinguish men's from women's dress, and they give no vernacular garment names. Clothing was shaped by the same requirement as the rest of the material culture: because the people emphasized mobility, they used materials that were light and easy to transport.
+The sources describe dress mainly through one photographic record and one amulet. The Algonquin man Um-Pa-Tuth, photographed in Wisconsin, wears a headdress, a beaded hide tunic, a beaded belt, hide leggings, beaded leg-bands and beaded moccasins — an assembled outfit in which hide forms the ground and glass beadwork the ornament, from the belt down to the footwear. Worn with it, or in the same repertoire, is an amulet of leather, beads and a tooth, hung from a leather suspension loop. Clothing was shaped by the same requirement as the rest of the material culture: because the people emphasized mobility, they used materials that were light and easy to transport.
 
 ### Architecture
 
@@ -37,15 +37,7 @@ Archaeological sites on Morrison Island, near Pembroke, reveal a thousand-year-o
 
 ### Jewelry & body adornment
 
-The one ornament in the catalogue is an **amulet** of leather, glass beads and a tooth, with a leather suspension loop — a worn, pendant object combining animal material with imported trade beads. The beaded belt and beaded leg-bands recorded in the Um-Pa-Tuth photograph belong to the same beadwork repertoire. The sources used do not cover tattooing, hair practices or other body adornment.
-
-## Music & performance
-
-The sources used do not cover Algonquin instruments, song genres or musical performance contexts.
-
-## Dance & theatre
-
-The sources used do not cover Algonquin dance or dramatic traditions.
+The one ornament in the catalogue is an **amulet** of leather, glass beads and a tooth, with a leather suspension loop — a worn, pendant object combining animal material with imported trade beads. The beaded belt and beaded leg-bands recorded in the Um-Pa-Tuth photograph belong to the same beadwork repertoire.
 
 ## Festivals & rituals
 

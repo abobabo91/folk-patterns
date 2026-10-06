@@ -81,10 +81,6 @@ Kelabit instruments are carved almost entirely from bamboo sections, each with s
 - **Nose flute** (*kelingut*) — A telang bamboo flute played through the nose with three triangular stops.
 - **Carved wooden lute** (*sape*) — A single-piece menubun wood instrument with two metal strings on wooden bridges, beeswax frets, and ornamental carving.
 
-## Dance & theatre
-
-No documented Kelabit dance or theatre traditions are recorded in the sources.
-
 ## Festivals & rituals
 
 The annual Bario Food and Culture Festival anchors community life; life events bind rank, inheritance, and expensive commemorative obligations.
@@ -157,4 +153,3 @@ Kelabit is a North Bornean language marked by rare voiced aspirates; the people 
 - https://en.wikipedia.org/wiki/Kelabit_language
 - https://folkways.si.edu/search?query=Sarawak
 - British Museum online collection (the Kelabit holdings of tools, pots, hats, instruments and glass negatives shown here): https://www.britishmuseum.org/collection
-

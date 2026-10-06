@@ -17,11 +17,7 @@ The sources used here document no Embu textile or weaving tradition. The pattern
 
 ### Clothing & dress
 
-The catalogue records reach Embu dress only through the head. Two **head-dresses or head-rings** are built of leather and faced with cowrie shells, glass beads and shell beads — a combination of marine shell and imported glass on a hide ground. A third, a **head-band**, is of leather hung with pendants covered in red and pink beads. A separate **head-dress fringe** is made of reeds and seeds threaded onto a plaited vegetable-fibre cord, a lighter and entirely local construction beside the beaded leather pieces. A wooden **ear-plug** completes the recorded personal ornament. The sources do not describe Embu garments, belts or footwear, nor do they distinguish men's from women's dress or everyday from ceremonial wear.
-
-### Architecture
-
-The sources used here do not describe Embu house form, building materials, roofing or architectural decoration.
+The catalogue records reach Embu dress only through the head. Two **head-dresses or head-rings** are built of leather and faced with cowrie shells, glass beads and shell beads — a combination of marine shell and imported glass on a hide ground. A third, a **head-band**, is of leather hung with pendants covered in red and pink beads. A separate **head-dress fringe** is made of reeds and seeds threaded onto a plaited vegetable-fibre cord, a lighter and entirely local construction beside the beaded leather pieces. A wooden **ear-plug** completes the recorded personal ornament.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -33,7 +29,7 @@ Body adornment in the museum record is concentrated in the beaded leather headge
 
 ## Music & performance
 
-Two instruments appear in the museum record, both wooden side-blown horns: a **war horn** of wood, and a second **carved war horn** — signalling instruments tied to the defence of territory rather than to entertainment. Wikipedia describes the Aembu love of music and dance as evident in performances at occasions of regional and national importance and at many events of daily life, but names no song genre, no ensemble and no other instrument. It notes that cultural loss, urbanisation and modernisation have heavily affected indigenous knowledge in this domain. The sources used here do not name Embu song forms, praise genres, professional musicians or performance venues, and the search terms indexed for this atlas — drums, iron bells, ankle rattles and the like — are not corroborated by any source available here, so they are not described.
+Two instruments appear in the museum record, both wooden side-blown horns: a **war horn** of wood, and a second **carved war horn** — signalling instruments tied to the defence of territory rather than to entertainment. Wikipedia describes the Aembu love of music and dance as evident in performances at occasions of regional and national importance and at many events of daily life, but names no song genre, no ensemble and no other instrument. It notes that cultural loss, urbanisation and modernisation have heavily affected indigenous knowledge in this domain.
 
 ## Dance & theatre
 
@@ -41,7 +37,7 @@ Embu dance is documented in general terms only. In their dances the Aembu displa
 
 ## Festivals & rituals
 
-No annual festival calendar and no birth, initiation, marriage or funeral rite is described in the sources used here. What the record does document in depth is the equipment of ritual and healing specialists — the largest single group of Embu objects held by the British Museum, catalogued as witchdoctors' equipment. It includes a **'wizard's bag'** cut from a single piece of folded hide, stitched up at the sides with a carrying strap attached; bamboo **tubes** holding medicinal powder, and another bamboo tube holding chalk powder for ceremonies; gourd **vessels** of medicine and medicinal powder, variously mounted with skin, haired skin, hide thongs and goat dung, one bound with decorative bands of hide; a gourd and skin **vessel containing divination powder**; a wooden **container** of powder and possibly snuff; and a set of **charms** made of horn — one of gerenuk antelope horn, others combining horn with hide, wood, skin, claws and conch shell. A wooden **medicine spoon** belongs to the same complex. Divination powder and medicine kept in the same kit indicate practitioners who both diagnosed and treated.
+What the record does document in depth is the equipment of ritual and healing specialists — the largest single group of Embu objects held by the British Museum, catalogued as witchdoctors' equipment. It includes a **'wizard's bag'** cut from a single piece of folded hide, stitched up at the sides with a carrying strap attached; bamboo **tubes** holding medicinal powder, and another bamboo tube holding chalk powder for ceremonies; gourd **vessels** of medicine and medicinal powder, variously mounted with skin, haired skin, hide thongs and goat dung, one bound with decorative bands of hide; a gourd and skin **vessel containing divination powder**; a wooden **container** of powder and possibly snuff; and a set of **charms** made of horn — one of gerenuk antelope horn, others combining horn with hide, wood, skin, claws and conch shell. A wooden **medicine spoon** belongs to the same complex. Divination powder and medicine kept in the same kit indicate practitioners who both diagnosed and treated.
 
 ## Foodways
 

@@ -19,7 +19,7 @@ The sources used for this profile — the Wikipedia articles on the Masalit peop
 
 ### Clothing & dress
 
-The sources do not describe Masalit dress, everyday or ceremonial. One item of personal equipment is documented: the **arm-dagger**, held by the British Museum in two examples, each a blade of iron and leather paired with a sheath of wood and leather. A dagger worn on the arm is carried on the body rather than at the belt, which places it among the things a person wears rather than merely owns, but the catalogue records give no account of who wore it, on which arm, or on what occasions, and nothing in the sources connects it to a particular garment, headcloth or footwear.
+One item of personal equipment is documented: the **arm-dagger**, held by the British Museum in two examples, each a blade of iron and leather paired with a sheath of wood and leather. A dagger worn on the arm is carried on the body rather than at the belt, which places it among the things a person wears rather than merely owns, but the catalogue records give no account of who wore it, on which arm, or on what occasions, and nothing in the sources connects it to a particular garment, headcloth or footwear.
 
 ### Architecture
 
@@ -35,15 +35,11 @@ The sources used here record no Masalit jewellery, beadwork, henna practice, sca
 
 ## Music & performance
 
-Neither Wikipedia article on the Masalit describes musical instruments, song genres or performance occasions, and Chad has no UNESCO Intangible Cultural Heritage inscription that could be cited for them, so the sources used do not cover Masalit music. What the sources do document, and what bears on how verbal art would be performed, is the sociolinguistic split within the language itself: Masalit is spoken in a **"heavy"** variety, used by higher-ranking people and in the countryside, with a complicated agglutinative grammar, and a **"light"** variety used at home and in the market, grammatically simplified and carrying many loans from Sudanese Arabic, the region's lingua franca and the language of education. Any sung or spoken performance among the Masalit therefore has two registers available to it, one associated with rank and rural speech and the other with everyday exchange, and most speakers command Arabic as well — except in the central part of Masalit country, where the Nilo-Saharan language is what is chiefly spoken.
-
-## Dance & theatre
-
-The sources used do not cover Masalit dance or dramatic performance.
+What the sources do document, and what bears on how verbal art would be performed, is the sociolinguistic split within the language itself: Masalit is spoken in a **"heavy"** variety, used by higher-ranking people and in the countryside, with a complicated agglutinative grammar, and a **"light"** variety used at home and in the market, grammatically simplified and carrying many loans from Sudanese Arabic, the region's lingua franca and the language of education. Any sung or spoken performance among the Masalit therefore has two registers available to it, one associated with rank and rural speech and the other with everyday exchange, and most speakers command Arabic as well — except in the central part of Masalit country, where the Nilo-Saharan language is what is chiefly spoken.
 
 ## Festivals & rituals
 
-The sources describe no festival calendar and no life-cycle rites for the Masalit. What they do record about the religious ground on which such observances rest is that the Masalit are Muslim, and that their religious practice incorporates older beliefs and customs alongside Islam. Islam reached the area around the seventeenth century, carried by wandering Muslim mystics rather than by conquest or state decree — an arrival by itinerant holy men that is the usual setting in which local practice and Islamic observance combine rather than displace one another. The sources do not say which observances belong to which layer, nor do they name any annual gathering, seasonal rite tied to the millet and peanut harvest, or ceremony connected with birth, initiation, marriage or burial. They also give no account of ritual life around the Masalit sultanate, whose rulers — Hajjam Hasab Allah from 1874, Ismail Abdel Nebi from 1883, and Taj al-Din Isma'il after 1903 — are described in the sources only in political and military terms.
+The sources describe no festival calendar and no life-cycle rites for the Masalit. What they do record about the religious ground on which such observances rest is that the Masalit are Muslim, and that their religious practice incorporates older beliefs and customs alongside Islam. Islam reached the area around the seventeenth century, carried by wandering Muslim mystics rather than by conquest or state decree — an arrival by itinerant holy men that is the usual setting in which local practice and Islamic observance combine rather than displace one another. The sources give no account of ritual life around the Masalit sultanate, whose rulers — Hajjam Hasab Allah from 1874, Ismail Abdel Nebi from 1883, and Taj al-Din Isma'il after 1903 — are described in the sources only in political and military terms.
 
 ## Foodways
 

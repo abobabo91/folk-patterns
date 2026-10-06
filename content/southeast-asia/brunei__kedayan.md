@@ -23,20 +23,10 @@ The Kedayan live mainly in Brunei and nearby parts of Malaysian Borneo. Their li
 
 The recorded material culture includes palm-leaf and rattan household objects, bamboo blowpipe equipment, and bead, bronze, silver and cloth adornment.
 
-### Textile & pattern traditions
-
-The sources do not document a Kedayan textile or pattern tradition.
-
 ### Clothing & dress
-
-The sources do not describe everyday or ceremonial clothing.
 
 - **Woman’s hair ornament** — This ornament is made of bronze, cotton cloth, string and beads.
 - **Woman’s necklace** — This necklace is made of glass beads and possibly nuts and seeds.
-
-### Architecture
-
-The sources do not describe Kedayan houses, settlements or named building types.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -55,29 +45,11 @@ Recorded adornment includes bead, bronze, cloth, cane and silver objects.
 - **Childbirth charm** — This woman’s charm is associated with childbirth and the ankle and is made of beads.
 - **Spiral silver bracelet** — Each bracelet is dark cane wound with a thin silver band and covered partly by punched silver plate with floral decoration.
 
-## Music & performance
-
-The sources do not describe Kedayan instruments, songs or musical performances.
-
-## Dance & theatre
-
-The sources do not document Kedayan dance, theatre, masks or puppetry.
-
 ## Festivals & rituals
-
-The sources do not provide a Kedayan festival calendar or describe named ceremonies.
 
 - **Childbirth charm practice** — A museum record links one woman’s bead charm with childbirth and the ankle, but gives no further details.
 - **Medicinal plant practice** — Kedayans are known for cultivating medicinal plants used to treat ailments and make tonics.
 - **Spiritual healing** — The sources describe Kedayans as experts in various spiritual healings.
-
-## Foodways
-
-The sources do not describe Kedayan dishes, cooking, drinks, dietary rules or food ceremonies.
-
-## Oral tradition & literature
-
-The sources do not document Kedayan folktales, epics, proverbs, riddles or storytelling.
 
 ## Language & religion
 
@@ -116,4 +88,3 @@ Kedayan is close to Brunei Malay, and most Kedayans have adopted Islam and Malay
 - *Kedayan language*, Wikipedia: https://en.wikipedia.org/wiki/Kedayan_language
 - UNESCO Intangible Cultural Heritage: no inscriptions for Brunei were supplied in the sources.
 - British Museum collection records for the Kedayan objects described above.
-

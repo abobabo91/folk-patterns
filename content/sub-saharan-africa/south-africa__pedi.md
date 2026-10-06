@@ -36,7 +36,7 @@ Pedi textile traditions are not named in the sources, but beadwork and grass wor
 The sources describe fur aprons and a grass belt but give little information about everyday clothing.
 
 - **Fur apron** — Fur aprons were decorated with glass beads and worn with ties or a waistband.
-- **Women’s kneeling dance dress** — The sources describe women dancing on their knees but do not name a separate costume for the dance.
+- **Women’s kneeling dance dress** — The sources describe women dancing on their knees.
 
 ### Architecture
 
@@ -147,4 +147,3 @@ Pedi religious life centers on ancestors, while language labels remain debated.
 - Pan South African Language Board, “PANSALB clarifies naming convention for Sesotho sa Leboa to promote linguistic unity and inclusivity”: https://www.pansalb.org/pansalb-clarifies-naming-convention-for-sesotho-sa-leboa-to-promote-linguistic-unity-and-inclusivity/
 - British Museum catalogue records for bowls, aprons, belt, baskets, meat trays, dish covers, spoons and divination-tablets.
 - No UNESCO Intangible Cultural Heritage inscription in the supplied sources concerns the Pedi.
-

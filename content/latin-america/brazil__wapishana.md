@@ -58,14 +58,6 @@ Feather decoration appears mainly on objects rather than persons.
 
 - **Child's bead necklace** — A necklace with a tapir hoof and toucan beaks hung from it.
 
-## Music & performance
-
-Sources do not cover Wapishana instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-Sources do not cover Wapishana dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Healing and death are the main ritual occasions, shaped by Catholicism, northeastern Brazilian folk medicine and traditional beliefs.
@@ -126,4 +118,3 @@ Wapishana is an Arawakan language spoken by over 13,000 people on both sides of 
 - https://en.wikipedia.org/wiki/Wapishana
 - https://en.wikipedia.org/wiki/Wapishana_language
 - British Museum online collection — https://www.britishmuseum.org/collection
-

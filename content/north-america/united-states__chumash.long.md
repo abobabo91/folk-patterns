@@ -25,11 +25,11 @@ The sources describe Chumash basketry rather than woven cloth, and coiled basket
 
 ### Clothing & dress
 
-The sources say almost nothing about Chumash garments. What they do record is headgear and adornment: the coiled *somelelu* hat described above, a smaller coiled basketry hat made for a child, and bone hair-pins — one made from a pelican wing bone. Necklaces and ear-rings of shell disc beads, glass beads, stone and bone were worn (see Jewelry below). The one clothing detail the sources carry is social rather than technical: *'aqi*, a third Chumash gender, was defined by biological males who performed work and wore clothing traditionally of women, and is closely tied in the record to non-procreative sexual activity, with archaeological evidence drawn from mortuary practice. The sources do not describe men's and women's everyday dress, footwear, belts, or any distinct ceremonial costume.
+The sources say almost nothing about Chumash garments. What they do record is headgear and adornment: the coiled *somelelu* hat described above, a smaller coiled basketry hat made for a child, and bone hair-pins — one made from a pelican wing bone. Necklaces and ear-rings of shell disc beads, glass beads, stone and bone were worn (see Jewelry below). The one clothing detail the sources carry is social rather than technical: *'aqi*, a third Chumash gender, was defined by biological males who performed work and wore clothing traditionally of women, and is closely tied in the record to non-procreative sexual activity, with archaeological evidence drawn from mortuary practice.
 
 ### Architecture
 
-The sources do not describe Chumash house form, building materials, roofing or architectural ornament. What they do record of the built and shaped landscape is that large piles of shellfish waste were expanded over time to create ceremonial and residential mounds, and that the Chumash lived in over 150 independent villages before the mission period, in three environments — the interior of plains, rivers and mountains; the coast; and the Northern Channel Islands. Villages along the mainland coast emerged as intermediaries in trade between island, coastal and mainland groups. From 1772 the Franciscan missions replaced village life as the frame of Chumash settlement: Mission San Luis Obispo (1772), San Buenaventura (1782), Santa Barbara (1786), La Purisima Concepción (1789) and Santa Ynez (1804), with Mission San Fernando (1798) drawing in Chumash speakers from the middle Santa Clara River valley.
+What the sources do record of the built and shaped landscape is that large piles of shellfish waste were expanded over time to create ceremonial and residential mounds, and that the Chumash lived in over 150 independent villages before the mission period, in three environments — the interior of plains, rivers and mountains; the coast; and the Northern Channel Islands. Villages along the mainland coast emerged as intermediaries in trade between island, coastal and mainland groups. From 1772 the Franciscan missions replaced village life as the frame of Chumash settlement: Mission San Luis Obispo (1772), San Buenaventura (1782), Santa Barbara (1786), La Purisima Concepción (1789) and Santa Ynez (1804), with Mission San Fernando (1798) drawing in Chumash speakers from the middle Santa Clara River valley.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -38,14 +38,6 @@ The sources record no Chumash pottery or metalwork — pottery reached the Chuma
 ### Jewelry & body adornment
 
 Bead making is embedded in the people's own name. Shell beads were made from the marine olive snail (*Callianax biplicata*) from the Millingstone period onward and served as the currency of an exchange system reaching to Arizona. Surviving necklaces combine shell discs, single and multicoloured glass beads, stone pendants and cylindrical ivory or bone beads; one strings shell, stone and glass including two broken parts of a hookstone. Ear-rings alternate shell discs with blue-green glass beads. Hair was dressed with bone pins, including one of pelican wing bone. Red abalone shell was used for beads and ornaments as well as fishhooks. The sources record no tattooing or body painting.
-
-## Music & performance
-
-The sources used here do not describe Chumash instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used here do not describe Chumash dance or dramatic traditions.
 
 ## Festivals & rituals
 

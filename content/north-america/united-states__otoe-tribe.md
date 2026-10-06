@@ -62,18 +62,6 @@ Chiefly dress included ear ornaments, beads, rings, medals, and feathered fur tu
 - **Beaded necklaces** — Medicine Horse and Buffalo Chief wore beaded necklaces.
 - **Fur turbans with eagle feathers** — Little Pipe and Medicine Horse wore turbans with one eagle feather, while Buffalo Chief wore one with two.
 
-## Music & performance
-
-The sources do not document Otoe instruments, songs, musical performances, or music settings.
-
-## Dance & theatre
-
-The sources do not document Otoe dances, theatre, dramatic traditions, or performance settings.
-
-## Festivals & rituals
-
-The sources do not describe named Otoe festivals or rituals.
-
 ## Foodways
 
 Farming and buffalo hunting shaped Otoe foodways, with bison central to diet and culture.
@@ -125,4 +113,3 @@ Chiwere is a Siouan language related to Iowa, Missouria, and Ho-Chunk, while the
 - British Museum catalogue records for photographic prints depicting Little Pipe (Ranunwe Inge), Medicine Horse (Shun-Gech-Hoy), Buffalo Chief (Cha-Wan-Na-Ga-He), Baptiste Deroin, Baptiste Barnabi, and Something Eaten Raw (Wathake Ruche).
 - Ioway Cultural Institute, “Ioway-Otoe Language.”
 - The sources supplied state that there are no UNESCO Intangible Cultural Heritage inscriptions for this ethnic group.
-

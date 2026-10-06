@@ -49,7 +49,7 @@ Performance among the Coast Salish is bound to spirit power. Coast Salish people
 
 ## Dance & theatre
 
-Two named dance traditions appear in the sources. The *sxwayxwey* (also *Sx̱wáýx̱way* or *Skwayskway*) mask dance is performed by hereditarily entitled men of the central Coast Salish, in masks with bulging cylindrical eyeballs, "horns" rendered as animal heads, and drooping tongues, crowned dynamically with large feathers; dancers wear feather-covered regalia and hoof-rattle leggings, and women sing. Winter spirit dancing, by contrast, is the collective but individually owned display of acquired spirit powers on the longhouse floor through song and dance. The sources used do not describe a theatrical or puppet tradition.
+Two named dance traditions appear in the sources. The *sxwayxwey* (also *Sx̱wáýx̱way* or *Skwayskway*) mask dance is performed by hereditarily entitled men of the central Coast Salish, in masks with bulging cylindrical eyeballs, "horns" rendered as animal heads, and drooping tongues, crowned dynamically with large feathers; dancers wear feather-covered regalia and hoof-rattle leggings, and women sing. Winter spirit dancing, by contrast, is the collective but individually owned display of acquired spirit powers on the longhouse floor through song and dance.
 
 ## Festivals & rituals
 

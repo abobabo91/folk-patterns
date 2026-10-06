@@ -27,7 +27,7 @@ Monpa material culture combines wood, bamboo, paper, stone, wool, silver, coral,
 
 Monpa weaving includes carpets, bamboo work, paper making, and religious woodblock printing.
 
-- **Carpet making** — The Monpa are known for making carpets and weaving, but the sources do not name specific carpet patterns.
+- **Carpet making** — The Monpa are known for making carpets and weaving.
 - **Herringbone bamboo box** — A rectangular box is woven from split bamboo strips in a mostly yellow herringbone pattern with green counterpoint designs.
 - **Sukso paper** (*sukso*) — Paper is made from the pulp of the local sukso tree.
 - **Prayer-flag print** (*wind horse*) — A woodblock print on handmade paper shows a wind horse, protective animals, Tibetan text, and auspicious symbols.
@@ -156,4 +156,3 @@ Monpa languages are varied Tibeto-Burman languages written in Tibetan script, an
 - “Monpa language,” Wikipedia: https://en.wikipedia.org/wiki/Monpa_language
 - UNESCO Intangible Cultural Heritage: no relevant inscriptions were supplied; no UNESCO ICH identifier applies.
 - British Museum catalogue records supplied for the bamboo box, votive stupas, amulets, prayer-flag prints, mantra sheets, and related objects.
-

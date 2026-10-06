@@ -75,10 +75,6 @@ The only evidence of dance is seed-pod rattles worn as dance ornaments, indicati
 
 - **Seed-pod rattles** — Seed pods strung on cord and worn as sounding ornaments by dancers.
 
-## Festivals & rituals
-
-No annual festivals or life-cycle rites are documented in the available sources.
-
 ## Foodways
 
 Smoking and tobacco-chewing with lime are the only consumption practices documented in detail.
@@ -125,4 +121,3 @@ Elomwe is a Bantu language grouped with Makua, featuring distinctive phonetic di
 - Lewis Mataka Bandawe and E. D. Bowman, New Testament translation into Lomwe (four gospels and Acts published by 1928, Mihecani Mission)
 - British Museum online collection — https://www.britishmuseum.org/collection
 - Smithsonian Folkways search — https://folkways.si.edu/search?query=Malawi
-

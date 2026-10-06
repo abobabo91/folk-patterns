@@ -38,11 +38,7 @@ Karuk basketry uses many plant and animal materials and includes caps, hats, tra
 The profile gives little information about clothing beyond basketry hats and ceremonial caps.
 
 - **Woman’s basketry hat** — One catalogue record identifies a woman’s basketry hat, possibly made with pine root.
-- **Ceremonial basket caps** — The sources identify ceremonial caps and basket hats but do not describe other garments.
-
-### Architecture
-
-The sources do not describe Karuk houses, villages, roofs, building materials, or named building types.
+- **Ceremonial basket caps** — The sources identify ceremonial caps and basket hats.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -56,8 +52,6 @@ The sources record baskets and trays for storage, cooking, seeds, trinkets, and 
 
 ### Jewelry & body adornment
 
-The sources do not describe Karuk jewelry, tattoos, hair practices, or other body adornment.
-
 - **Porcupine quill basket decoration** — Porcupine quill appears as a material in several basketry catalogue records.
 
 ## Music & performance
@@ -70,8 +64,6 @@ Ceremonial performances last several days and seek healing, good harvests, socia
 - **Pikyáv film** (*Pikyáv (to fix it)*) — A 2008 film documents the subject of Pikyavish and world repair.
 
 ## Dance & theatre
-
-The named ceremonial dances are the Brush Dance, Jump Dance, and Pikyavish, and the sources do not describe theatre.
 
 - **Brush Dance** — The Brush Dance lasts several days and is practiced for healing and repairing the world.
 - **Jump Dance** — The Jump Dance includes prayer for plentiful acorns, deer, and salmon.
@@ -136,7 +128,7 @@ Karuk is a language isolate with three tones, and revitalization includes biling
 
 ## Sources & further reading
 
-- William Bright, *The Karok Language*; the source identifies this work but does not provide its publisher or year of publication.
+- William Bright, *The Karok Language*; the source identifies this work.
 - William Bright, *Karuk Dictionary*, Los Angeles, CA, 2005.
 - Susan Gehr and William Bright, documentation and recording of Karuk conversations, songs, stories, and poetry, as described in the Karuk language article.
 - Karuk Language Restoration Committee, language revitalization work described in the Karuk language article.
@@ -144,4 +136,3 @@ Karuk is a language isolate with three tones, and revitalization includes biling
 - [Karuk language](https://en.wikipedia.org/wiki/Karuk_language)
 - UNESCO Intangible Cultural Heritage: no United States inscription concerning the Karuk people is identified in the supplied sources.
 - British Museum catalogue records for Karuk basketry hats, caps, trays, baskets, and containers, as summarized in the supplied museum object records.
-

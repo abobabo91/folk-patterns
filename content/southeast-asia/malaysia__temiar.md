@@ -39,10 +39,6 @@ The only documented clothing item is a plaited bamboo-fiber headband, with no so
 
 - **Plaited headband** — A band plaited from undyed and pale green dyed bamboo fibers arranged to form repeating diamonds, with a white polythene frill sewn along one edge.
 
-### Architecture
-
-No descriptions of Temiar house forms, building materials or settlement design are recorded in the sources.
-
 ### Ceramics, metalwork & everyday objects
 
 Household and forest equipment is made from bamboo, cane and wood, with metal used only for blades and binding.
@@ -86,10 +82,6 @@ Three dishes are named, all cooked in or with bamboo, and betel nut, leaf and to
 - **Pucuk paku peno'ol** — Young fronds of the pucuk paku fern combined with tapioca leaves and anchovies, cooked in bamboo.
 - **Betel pouch set** — Three plaited pouches joined by one strap used to carry betel nuts, tobacco and leaves together.
 
-## Oral tradition & literature
-
-No folktales, epics, proverbs or storytelling occasions are recorded in the sources used.
-
 ## Language & religion
 
 Temiar is a Central Aslian language with three allomorphic classes of pronouns, and the Temiar are traditional animists.
@@ -126,4 +118,3 @@ Temiar is a Central Aslian language with three allomorphic classes of pronouns, 
 - https://en.wikipedia.org/wiki/Temiar_language
 - Smithsonian Folkways search: https://folkways.si.edu/search?query=Temiar
 - British Museum online collection (the plaited pouches, quiver, baskets, mats and bamboo instruments described above): https://www.britishmuseum.org/collection
-

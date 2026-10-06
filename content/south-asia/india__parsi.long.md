@@ -21,13 +21,11 @@ The Parsis or Parsees are an ethno-religious community in the Indian subcontinen
 
 *Woman’s cap* — A green cotton cap embroidered on the outside with suns, cypress trees, flowers, fish and birds. The catalogue associates these motifs with strength, fertility, abundance and life in Zoroastrian beliefs.
 
-The sources used do not document gara embroidery, Parsi gara, sudreh, kusti, dagli, Parsi paghdi, or other named Parsi textile traditions.
-
 **Motif vocabulary.** Suns, cypress trees, flowers, fish and birds; the catalogue associates these with strength, fertility, abundance and life in Zoroastrian beliefs.
 
 ### Clothing & dress
 
-The museum records identify a blouse, a green and red silk tunic, a pair of baggy trousers and embroidered shawls as elements associated with Parsi or Zoroastrian clothing. The tunic is loose-fitting and has several-coloured embroidery on the front of the skirt. A green cotton cap is embroidered with motifs including suns, cypress trees, flowers, fish and birds. The sources do not describe everyday dress, men’s clothing, footwear, belts, ceremonial dress, or the use of the terms sudreh, kusti, dagli or Parsi paghdi. The sources also do not describe the occasions on which the recorded garments were worn.
+The museum records identify a blouse, a green and red silk tunic, a pair of baggy trousers and embroidered shawls as elements associated with Parsi or Zoroastrian clothing. The tunic is loose-fitting and has several-coloured embroidery on the front of the skirt. A green cotton cap is embroidered with motifs including suns, cypress trees, flowers, fish and birds.
 
 ### Architecture
 
@@ -37,23 +35,15 @@ The sources describe a fire temple at Sanjan and the later movement of the “Fi
 
 The museum records include an expanding lantern made of calico, with a copper top and base and a cast brass carrying handle. The sources also mention religious implements called the *alat* in the account of a second group arriving from Greater Khorasan. No additional information about ceramics, wooden objects, tools, household goods or metalworking traditions is provided.
 
-### Jewelry & body adornment
-
-The sources used do not document Parsi jewelry, body adornment, tattoos, henna, hair practices or named adornment types.
-
 ## Music & performance
 
-The sources used do not document Parsi musical instruments, song genres, musical performances or performance contexts. They mention the Parsi epic *Qissa-i Sanjan*, but provide no information about whether it was sung, recited or performed.
-
-## Dance & theatre
-
-The sources used do not document Parsi dances, theatrical traditions, dramatic performances, shadow puppetry, mask practices or entertainment contexts.
+The sources mention the Parsi epic *Qissa-i Sanjan*, but provide no information about whether it was sung, recited or performed.
 
 ## Festivals & rituals
 
 Zoroastrianism is described as the religion of the Parsis. In ancient Persia, Zarathushtra taught that good, identified as Ohrmazd, and evil, identified as Angra Mainyu, were opposite forces. The sources describe judgment at the Chinvat bridge, with passage to Paradise, Hammistagan or Hell. They also describe a final battle between good and evil, followed by a river of fire and a post-resurrection paradise.
 
-The sources identify the *navjote* ceremony as the formal admission of a person into the Zoroastrian religion. They state that the definition of a Parsi is generally understood to involve descent from the original Persian refugees and formal admission through this ceremony. The *Qissa-i Sanjan* says that the early community was allowed to settle in India after demonstrating similarities between its faith and local beliefs, and that it had to speak the local language, follow local marriage customs and carry no weapons. The sources do not describe annual festivals, wedding rites, funerals, birth practices, or the festivals named Navroz, Jashan or Muktad.
+The sources identify the *navjote* ceremony as the formal admission of a person into the Zoroastrian religion. They state that the definition of a Parsi is generally understood to involve descent from the original Persian refugees and formal admission through this ceremony. The *Qissa-i Sanjan* says that the early community was allowed to settle in India after demonstrating similarities between its faith and local beliefs, and that it had to speak the local language, follow local marriage customs and carry no weapons.
 
 ## Foodways
 
@@ -83,6 +73,5 @@ Parsis follow Zoroastrianism, also called Zarathushti Pantha. Their religious tr
 - Wikipedia, “Parsi language”: https://en.wikipedia.org/wiki/Parsi_language
 - Wikipedia, “Parsi cuisine”: https://en.wikipedia.org/wiki/Parsi_cuisine
 - Wikipedia, “Parsi religion”: https://en.wikipedia.org/wiki/Parsi_religion
-- UNESCO Intangible Cultural Heritage inscriptions: the sources used state that there are no UNESCO inscriptions for this country concerning this ethnic group.
 - British Museum catalogue records for the blouse, cap, tunic, shawl and lantern.
 - Museum of Ethnography catalogue record for “Parser-kvinna. D. Macropolo & Co., Calcutta. 0321.m.0028 A parsi lady.”

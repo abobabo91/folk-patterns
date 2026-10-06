@@ -25,8 +25,6 @@ The Kokama are known primarily for their pottery, which features geometric desig
 
 ### Textile & pattern traditions
 
-No textile traditions are documented in the sources.
-
 - **Kene design** (*kene*) — A geometric pattern used on polychrome pottery vessels.
 
 ### Clothing & dress
@@ -61,10 +59,6 @@ No traditional instruments or song genres are named, but the Cocama language is 
 ## Dance & theatre
 
 Kokama dance and dramatic traditions are not documented in the sources.
-
-## Festivals & rituals
-
-No Kokama festivals or life-cycle rituals are documented in the sources.
 
 ## Foodways
 
@@ -113,4 +107,3 @@ Cocama is spoken by thousands across western South America with three dialects, 
 - https://en.wikipedia.org/wiki/Kokama_people
 - https://en.wikipedia.org/wiki/Kokama_language
 - British Museum online collection: https://www.britishmuseum.org/collection
-

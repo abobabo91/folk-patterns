@@ -61,14 +61,6 @@ Metal ornaments include cast brass leg-bands and finger-rings with geometric pat
 - **Brass leg-band** — A cast brass leg-band in the form of an oval ring bent upwards at both ends, with a conical projection at one end and chevron patterning around its upper and lower edges.
 - **Brass finger-ring** — A brass finger-ring with an upright hollow bezel, terminating in a button bound with brass wire and flanked by applied and serrated bands.
 
-## Music & performance
-
-Sources do not document Tallensi instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-Sources do not document Tallensi dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Ritual life centres on the ambivalence between a man and his first-born, expressed through avoidances that begin at age five or six and culminate at the father's funeral.
@@ -85,10 +77,6 @@ Millet and sorghum are staples, supplemented by cattle, sheep and goats; crocodi
 - **Staple crops** — Millet and sorghum are the staple crops.
 - **Livestock** — Cattle, sheep and goats are kept on a small scale.
 - **First-born food prohibition** — A first-born son may not eat from the same dish as his father from the age of five or six.
-
-## Oral tradition & literature
-
-Sources do not document Tallensi folktales, proverbs, riddles or storytelling occasions.
 
 ## Language & religion
 
@@ -129,4 +117,3 @@ Religious life is ancestral: fulfilment lies in being venerated as an ancestor, 
 - Wikipedia: https://en.wikipedia.org/wiki/Tallensi
 - The objects shown here are held by the British Museum: https://www.britishmuseum.org/collection
 - No UNESCO Intangible Cultural Heritage element listing Ghana concerns this group.
-

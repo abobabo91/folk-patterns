@@ -43,7 +43,7 @@ Crafts were a part-time occupation and were not hereditary. The goods that trave
 
 ### Jewelry & body adornment
 
-Glass beads strung on fibre account for most of the ornament collected: plain bead necklaces, one with two strings of black mingling with two black strips, and bracelets built as sections of small beads separated by larger ones. Metal and animal materials carry the more emphatic pieces — a necklace of biconical copper beads graded in size, a necklace of eleven rounded triangular plaques of ivory or rhinoceros bone strung together, an ivory armlet, and a bracelet made from the tail of an elephant. The last two connect ornament directly to the elephant hunters' guild, the most prestigious occupation in the society. The sources do not cover tattooing, scarification, hair practice or cosmetics.
+Glass beads strung on fibre account for most of the ornament collected: plain bead necklaces, one with two strings of black mingling with two black strips, and bracelets built as sections of small beads separated by larger ones. Metal and animal materials carry the more emphatic pieces — a necklace of biconical copper beads graded in size, a necklace of eleven rounded triangular plaques of ivory or rhinoceros bone strung together, an ivory armlet, and a bracelet made from the tail of an elephant. The last two connect ornament directly to the elephant hunters' guild, the most prestigious occupation in the society.
 
 ## Music & performance
 
@@ -51,7 +51,7 @@ Drums were among the wooden goods the Nyamwezi traded across the region, which p
 
 ## Dance & theatre
 
-The sources used here do not cover Nyamwezi dance or dramatic performance. A carved wooden mask with an open mouth and shell teeth is held in the collection, but its catalogue entry records no performance context, and nothing in the written sources attaches masking to a named dance or masquerade.
+A carved wooden mask with an open mouth and shell teeth is held in the collection, but its catalogue entry records no performance context, and nothing in the written sources attaches masking to a named dance or masquerade.
 
 ## Festivals & rituals
 

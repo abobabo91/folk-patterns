@@ -58,8 +58,6 @@ Brass work is a major feature of the material culture described in the sources.
 
 ### Jewelry & body adornment
 
-The sources do not document named Efik jewelry or detailed body-adornment practices.
-
 - **Crowns** — Crowns were among the personal objects associated with nobles and kings at burial.
 - **Burial ornaments** — Ornaments and other personal objects were placed with nobles and kings at burial.
 
@@ -158,4 +156,3 @@ Efik is a Lower Cross language, and traditional religion centers on Abasi, ances
 - [Efik religion — Wikipedia](https://en.wikipedia.org/wiki/Efik_religion)
 - No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.
 - British Museum and Metropolitan Museum of Art catalogue records supplied for the objects shown.
-

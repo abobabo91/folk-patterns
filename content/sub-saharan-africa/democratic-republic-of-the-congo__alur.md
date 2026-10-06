@@ -23,14 +23,6 @@ The Alur live around the northwestern Great Lakes region, mainly north of Lake A
 
 Alur material culture is marked by grass-thatched huts and practical iron tools, weapons, hunting gear, and sound-producing objects.
 
-### Textile & pattern traditions
-
-The sources do not document Alur textiles, patterns, or motifs.
-
-### Clothing & dress
-
-The sources do not describe Alur clothing or named garments.
-
 ### Architecture
 
 Alur homesteads traditionally contain grass-thatched huts built by men.
@@ -47,10 +39,6 @@ The sources record many iron tools and weapons but no Alur ceramics or named hou
 - **Chopper** — The chopper has a wide iron blade, a side projection, and a wooden handle bound with iron wire bands.
 - **Iron adze or axe blade** — The adze or axe blade has a split hollow socket.
 - **Iron fish-hook** — The fish-hook is made of iron and attached with string made from vegetable fibre.
-
-### Jewelry & body adornment
-
-The sources do not document Alur personal jewelry or body adornment.
 
 ## Music & performance
 
@@ -88,7 +76,7 @@ Alur foodways combine farming, herding, fishing, hunting, and a strong social ra
 
 ## Oral tradition & literature
 
-The sources preserve clan and chiefly histories but do not record Alur folktales or named literary forms.
+The sources preserve clan and chiefly histories.
 
 - **Atyak Kingdom history** (*Atyak*) — Clan and chiefly accounts preserve traditions about the Atyak Kingdom.
 - **Ukuru Chiefdom history** (*Ukuru*) — Traditions describe the foundation of the Ukuru Chiefdom.
@@ -129,4 +117,3 @@ Alur is a Western Nilotic language with several dialects and no officially accep
 - “Alur language,” *Wikipedia*: https://en.wikipedia.org/wiki/Alur_language
 - UNESCO Intangible Cultural Heritage: the supplied sources identify no UNESCO inscription for the Democratic Republic of the Congo concerning the Alur.
 - British Museum catalogue records for the knife, quiver and arrows, bows, arrow-head, reaping knife, chopper, adze or axe, fish-hook, and trumpet described above.
-

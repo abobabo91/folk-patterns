@@ -41,10 +41,6 @@ Everyday clothing is not described in the sources; ceremonial dress is documente
 - **Shoulder ornament** — Worked from egret feathers, quills and twine.
 - **Feather band** — An ornament of uncertain use worked from feathers.
 
-### Architecture
-
-The sources do not describe house forms or building materials, only the history of settlement and displacement.
-
 ### Ceramics, metalwork & everyday objects
 
 No ceramic or metalworking tradition is named in the sources, but basketry and wood carving are documented as living object trades.
@@ -139,4 +135,3 @@ Yshyr ahwoso is a Zamucoan language with four dialects, now endangered under pre
 - National Museum of the American Indian — Chamacoco artwork.
 - https://en.wikipedia.org/wiki/Chamacoco
 - https://en.wikipedia.org/wiki/Chamacoco_language
-

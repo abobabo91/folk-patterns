@@ -66,14 +66,6 @@ Algonquin adornment combined animal materials with imported trade beads in penda
 - **Beaded belt** — Part of the beadwork repertoire that also included beaded leg-bands.
 - **Beaded leg-bands** — Leg decoration made with glass beads, recorded in photographic evidence.
 
-## Music & performance
-
-The sources used do not cover Algonquin instruments, song genres or musical performance contexts.
-
-## Dance & theatre
-
-The sources used do not cover Algonquin dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Algonquin ritual life centered on Midewiwin and belief in spirits in the natural world, later modified by Catholic conversion.
@@ -142,4 +134,3 @@ Algonquin is an Algonquian language of the Algic family with strong verb structu
 - https://en.wikipedia.org/wiki/Algonquin_mythology
 - https://en.wikipedia.org/wiki/Algonquin_language
 - British Museum online collection (knife, birchbark box, baby-carriers, amulet, Algonquin postcards): https://www.britishmuseum.org/collection
-

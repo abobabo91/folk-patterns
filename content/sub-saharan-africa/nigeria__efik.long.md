@@ -13,11 +13,9 @@ The Efik, also known as the Akwa Akpa people, live primarily in southern Nigeria
 
 ### Textile & pattern traditions
 
-*Ikpaya* — a woven raffia robe identified in an account of royal emblems associated with Uruan. The sources do not describe its structure or decoration further.
+*Ikpaya* — a woven raffia robe identified in an account of royal emblems associated with Uruan.
 
 *Akpangkpang* — brass plates bearing engravings connected with Efik beliefs in Ndem and Ekpe. The sources state that Efik women previously decorated houses with geometric designs and that brass replaced more fragile engraved calabashes.
-
-The sources do not document additional named Efik textile traditions, textile techniques, or distinctive neighboring comparisons.
 
 **Motif vocabulary.** Geometric designs — house decoration made by Efik women; feather design — a punched design on one British Museum brass tray; ornate headdresses, birdlike tails, bows and arrows, and triangular objects — figures represented in the tray’s central decoration.
 
@@ -25,11 +23,11 @@ The sources do not document additional named Efik textile traditions, textile te
 
 The sources provide little information about ordinary Efik clothing, footwear, belts, or head coverings. They describe traditional attire for the oldest man conducting libation as a loincloth wrapped around the hips and flowing to the ground, with a shirt worn above it. If he wore other clothing, a piece of cloth or handkerchief was placed in front of the trousers to make up for the loincloth.
 
-Ceremonial and elite clothing appears in descriptions of royal and funerary objects. The royal emblem *Ikpaya* was a woven raffia robe. The sources also mention crowns, umbrellas, swords, and ornaments placed with nobles and kings at burial, but they do not identify a complete ceremonial costume.
+Ceremonial and elite clothing appears in descriptions of royal and funerary objects. The royal emblem *Ikpaya* was a woven raffia robe. The sources also mention crowns, umbrellas, swords, and ornaments placed with nobles and kings at burial.
 
 ### Architecture
 
-The sources do not provide a systematic description of Efik house forms, roof types, settlement plans, or construction materials. They do record house decoration with geometric designs and refer to shrines and sacred structures. Worship of Abasi took place before *Isu Abasi*, described as a little mud hut with an altar in the middle of the yard, where plates and bones were placed.
+The sources record house decoration with geometric designs and refer to shrines and sacred structures. Worship of Abasi took place before *Isu Abasi*, described as a little mud hut with an altar in the middle of the yard, where plates and bones were placed.
 
 The sources also mention the Iron Palace of Eyamba V. It was destroyed during the reign of King Archibong II after King Archibong claimed that Eyamba V had appeared in the ghostland without shelter and had requested that his palace be sent to him. The records otherwise do not describe the palace’s construction or ornament.
 
@@ -37,11 +35,11 @@ The sources also mention the Iron Palace of Eyamba V. It was destroyed during th
 
 Efik material culture is particularly associated in the sources with brass objects. Efik women transferred designs from fragile calabashes to brass, producing trays, dishes, and basins. Several brass dishes carried images of Efik deities and animals symbolic of those deities. The British Museum records include brass trays, circular trays with repoussé ornament, a brass bowl with repoussé ornament, and a brass circular dish. One circular tray has a wide rim with punched feather designs in seven fields, punched squares made of dots, and four central figures with ornate headdresses.
 
-The Metropolitan Museum of Art catalogue records a *Mbira* and a *Zanze*, both from the late 19th century and made from wood identified as kapok, *Ceiba pentandra Gaertn*; the *Zanze* also includes rattan. The sources do not explain their Efik use or manufacture.
+The Metropolitan Museum of Art catalogue records a *Mbira* and a *Zanze*, both from the late 19th century and made from wood identified as kapok, *Ceiba pentandra Gaertn*; the *Zanze* also includes rattan.
 
 ### Jewelry & body adornment
 
-The sources provide no documented account of named Efik jewelry types, tattooing, henna, hair practices, coral beadwork, brass ring adornment, or ivory bracelets. They mention crowns, ornaments, and other personal objects associated with nobles and kings, but do not specify their forms or ritual techniques.
+The sources provide no documented account of named Efik jewelry types, tattooing, henna, hair practices, coral beadwork, brass ring adornment, or ivory bracelets. They mention crowns, ornaments, and other personal objects associated with nobles and kings.
 
 ## Music & performance
 
@@ -49,7 +47,7 @@ Efik mythology identifies songs, bardic poetry, and oral tradition as important 
 
 Bardic poetry, or *Uto*, was recited in the Efik language by knowledgeable bards who preserved historical events, myths, and legends. Subjects included the death of Akpa Uyok, the disappearance of Otu Asiya, and Efik-Portuguese interrelations. Named bards include Adiaha Etim Anwa Anwa, Atim Etayong, Okpok Ndem Ndem, Nne Eke Mkpananie, and Etim Anwa Etim Nsa. Adiaha Etim Anua also recited a 1910 ballad concerning deaths at Ndodoghi.
 
-The sources name the *mbɔkɔ* as an instrument producing a sound similar to a leopard’s roar and central to legends concerning the Ekpe society. Ekpe processions also used names including Eyo Ema, Esien Ekpe, Asibong Ekondo, Mutaka, and Nkok Ofuta. The sources do not describe instrumental ensembles or musical scales.
+The sources name the *mbɔkɔ* as an instrument producing a sound similar to a leopard’s roar and central to legends concerning the Ekpe society. Ekpe processions also used names including Eyo Ema, Esien Ekpe, Asibong Ekondo, Mutaka, and Nkok Ofuta.
 
 ## Dance & theatre
 
@@ -57,7 +55,7 @@ The sources document *Mbre Ọffiọñ*, moonlight plays, as performances known 
 
 *Ekpa* was a private and mysterious dance performed only by elderly women before the Obong’s coronation ceremony. It was intended to cleanse society of evil and disease and to ensure peace and fertility. The dance was performed at night, away from observers, and in the nude.
 
-The *Ankọ Ebekpa* ritual included a dance performed at midnight after war. Non-members remained indoors during the performance. The sources do not describe its choreography or musical accompaniment.
+The *Ankọ Ebekpa* ritual included a dance performed at midnight after war. Non-members remained indoors during the performance.
 
 ## Festivals & rituals
 
@@ -71,7 +69,7 @@ Funeral ceremonies historically involved the burial of nobles and kings with per
 
 ## Foodways
 
-The sources do not describe a general Efik diet, staple grains, everyday cooking, or a complete set of named dishes. They do record foods used in religious offerings. Offerings to Ndem were placed in a woven basket called *Ekete* and could include oil palm fruit, an oil palm kernel, pieces of plantain, pieces of mashed yam, and a small croaker. Offerings could also include eggs, white fowl, white goats, cows, and tortoises.
+The sources record foods used in religious offerings. Offerings to Ndem were placed in a woven basket called *Ekete* and could include oil palm fruit, an oil palm kernel, pieces of plantain, pieces of mashed yam, and a small croaker. Offerings could also include eggs, white fowl, white goats, cows, and tortoises.
 
 A special sacrificial meal called *Iwewe* consisted of boiled yam mashed with a small amount of palm oil and stirred with a spoon. Goats, chicken, cows, and rams could be sacrificed, with white animals especially valued. The sources also mention palm wine, *Mmịn Efịk*, as the drink formerly used for libation. The records do not cover ordinary Efik food preparation, brewing, tea, coffee, or dietary rules.
 

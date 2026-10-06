@@ -31,7 +31,7 @@ The nineteenth-century studio portraits of Yankton-Yanktonai, Santee and related
 
 ### Architecture
 
-The sources used do not describe Dakota house forms or building techniques. The only architectural trace is linguistic: the Dakota prefix *wi-* serves, among other functions, as the classifier for terms relating to the *thípi*.
+The only architectural trace is linguistic: the Dakota prefix *wi-* serves, among other functions, as the classifier for terms relating to the *thípi*.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -55,7 +55,7 @@ The sources name powwows as the principal public gathering, opened by the Flag S
 
 ## Foodways
 
-Before the seventeenth century the Santee Dakota lived around Lake Superior, in what is now northern Minnesota and Wisconsin, where they gathered wild rice, hunted woodland animals and fished from canoes. On the prairie the Yankton hunted deer, antelope and small game with the bow, and were reported able to kill a bison with each arrow in a quiver. Food shortage enters the historical record directly: low food supplies, together with the United States' failure to make treaty payments on time, precipitated the Dakota War of 1862. The sources used do not describe Dakota dishes, cooking methods, ceremonial foods or drink traditions, and none are invented here.
+Before the seventeenth century the Santee Dakota lived around Lake Superior, in what is now northern Minnesota and Wisconsin, where they gathered wild rice, hunted woodland animals and fished from canoes. On the prairie the Yankton hunted deer, antelope and small game with the bow, and were reported able to kill a bison with each arrow in a quiver. Food shortage enters the historical record directly: low food supplies, together with the United States' failure to make treaty payments on time, precipitated the Dakota War of 1862.
 
 ## Oral tradition & literature
 

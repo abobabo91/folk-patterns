@@ -54,28 +54,12 @@ The sources do not document Palestinian ceramics, metalwork or wooden household 
 
 - **Metal-foil-wrapped braid** — Braided cotton wrapped in metal foil used to trim the seams of the man's abayeh.
 
-### Jewelry & body adornment
-
-The sources do not cover Palestinian jewellery, tattooing, henna or hair practices.
-
-## Music & performance
-
-The sources do not cover Palestinian instruments, song genres or musical performance contexts.
-
-## Dance & theatre
-
-The sources do not cover Palestinian dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Marriage is the only life-cycle rite documented, known through bridal dress; secular commemorations mark the 1948 establishment of Israel and Palestinian displacements.
 
 - **Bridal trousseau** — In Beit Dajan, a bride's trousseau comprised many dresses, with the embroidered jellaya being the most costly and worn at the moment the bride first appeared in public.
 - **International Day of Solidarity with the Palestinian People** — Observed annually by the United Nations since 1978.
-
-## Foodways
-
-The sources do not cover Palestinian staples, dishes, ceremonial food or coffee and tea customs.
 
 ## Oral tradition & literature
 
@@ -113,4 +97,3 @@ Palestinians are Arabic-speaking and religiously mixed — Muslim, Christian, Sa
 - UNESCO Intangible Cultural Heritage: no inscriptions for this country in the material consulted.
 - British Museum online collection (village thob, abayeh, cushion covers): https://www.britishmuseum.org/collection
 - National Museum of World Cultures Foundation (Beit Dajan jellaya): https://collectie.wereldculturen.nl
-

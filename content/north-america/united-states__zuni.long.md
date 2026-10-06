@@ -13,7 +13,7 @@ The Zuni, also called *A:shiwi*, are Native American Pueblo peoples native to th
 
 ### Textile & pattern traditions
 
-The supplied sources do not describe a distinct Zuni textile tradition in sufficient detail. A museum postcard records We Wha, a Zuni Ihamana, weaving a belt, but it does not identify the belt’s materials, technique, or pattern system.
+A museum postcard records We Wha, a Zuni Ihamana, weaving a belt.
 
 **Pottery decoration** — Zuni women traditionally made pottery for storing food and water. They used clan symbols, and common ornamentation included spiral scrolls edged with triangles, deer, frogs, dragonflies, and other symbols associated with rain and water. Museum records show vessels painted in white, black, red, dark brown, and light brown, with some decorated on both their interior and exterior surfaces.
 
@@ -27,13 +27,13 @@ The supplied sources do not describe a distinct Zuni textile tradition in suffic
 
 The supplied sources provide little information about everyday Zuni clothing. The Zuni people are described as making, more rarely, clothing or baskets, and a museum postcard records a Zuni man wearing a cloth shirt, trousers, boots, a metal disc belt, a beaded neck ornament, and a cloth headband with several feathers attached. Another museum postcard records Zuni women dressed in Zuni-style clothing while performing a dance in regalia.
 
-Ceremonial dress is described more clearly. Shalako dancers wear outfits that can be as high as eight feet. The dancers represent “couriers of the rain deities come to bless new homes.” The sources also describe Kachina costumes and headdresses, which the Lost Children instructed the Zuni to copy. A museum photograph records a painted skin mask of Awehuyan–hielashukti Kachina. The sources do not describe named Zuni footwear, daily women’s garments, hairstyles, or a complete dress system.
+Ceremonial dress is described more clearly. Shalako dancers wear outfits that can be as high as eight feet. The dancers represent “couriers of the rain deities come to bless new homes.” The sources also describe Kachina costumes and headdresses, which the Lost Children instructed the Zuni to copy. A museum photograph records a painted skin mask of Awehuyan–hielashukti Kachina.
 
 ### Architecture
 
 Traditional Zuni homes in the Pueblo are multi-level adobe houses. Museum records describe a re-created Zuni Pueblo with adobe structures and Zuni-style clothing, and a separate postcard records Zuni agricultural plots separated by adobe walls. The sources also identify kivas as cultural and religious institutions and describe the Zuni settlement called Village of the Great Kivas as having nine kivas.
 
-The historical settlement pattern included villages built on mesas. Atsinna was built on Inscription Rock, and Dowa Yalanne was a defensible steep mesa 5 km southeast of the present Pueblo of Zuni. During the period after the Pueblo Revolt of 1680, the Zuni took refuge atop Dowa Yalanne until 1692. The supplied sources do not describe roof construction, room arrangement, interior decoration, or a named workshop architecture.
+The historical settlement pattern included villages built on mesas. Atsinna was built on Inscription Rock, and Dowa Yalanne was a defensible steep mesa 5 km southeast of the present Pueblo of Zuni. During the period after the Pueblo Revolt of 1680, the Zuni took refuge atop Dowa Yalanne until 1692.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -45,7 +45,7 @@ The museum catalogue records painted bowls, krukas, vessels, and pots described 
 
 Zuni jewelers set hand-cut turquoise and other stones in silver. The sources identify mosaic and channel inlay as techniques for creating intricate designs and unique patterns. Needlepoint and petit point are the named specialties. Zuni also make fetishes and necklaces for ritual, trade, and sale to collectors.
 
-Museum records document silver and coral earrings of needlepoint design, silver bracelets incorporating turquoise, coral, jet, serpentine, abalone shell, and silver, a turquoise and silver finger-ring, a turquoise and silver brooch, and a necklace with silver cloud pendants and stones held in silver bezels. Another catalogue record describes a trial piece for a bolo tie with a “sunface” design made from mother-of-pearl, gold-lipped mother-of-pearl, acoma jet, and coral. The supplied sources do not describe tattoos, henna, or hair practices.
+Museum records document silver and coral earrings of needlepoint design, silver bracelets incorporating turquoise, coral, jet, serpentine, abalone shell, and silver, a turquoise and silver finger-ring, a turquoise and silver brooch, and a necklace with silver cloud pendants and stones held in silver bezels. Another catalogue record describes a trial piece for a bolo tie with a “sunface” design made from mother-of-pearl, gold-lipped mother-of-pearl, acoma jet, and coral.
 
 ## Music & performance
 
@@ -53,15 +53,15 @@ Pueblo music includes the music of the Hopi, Zuni, Taos Pueblo, San Ildefonso, S
 
 Nettl identifies Kachina dance songs as the most complex songs and describes the music of Hopi and Zuni as the most complex of the Pueblo. Work songs are found in Pueblo music. Peyote songs share characteristics with Apache music and Plains-Pueblo music.
 
-One well-known melody from the Zuni people is *Zuni Sunrise*, also called *The Sunrise Call*. It is frequently played on Native American flute. Carlos Troyer initially collected the melody and published an arrangement for voice and piano in 1904. The museum records also include a photographic postcard of a Zuni man playing a drum. The supplied sources do not describe named instrumental construction traditions, complete song texts, or performance contexts beyond Kachina dances, ceremonies, and the recorded melody.
+One well-known melody from the Zuni people is *Zuni Sunrise*, also called *The Sunrise Call*. It is frequently played on Native American flute. Carlos Troyer initially collected the melody and published an arrangement for voice and piano in 1904. The museum records also include a photographic postcard of a Zuni man playing a drum.
 
 ## Dance & theatre
 
-The Zuni ceremonial cycle includes dances, and the Kachina Society is responsible for performing the rites of the Kachina. The Lost Children instructed the Zuni to copy their costumes, headdresses, and dances for the time when they would be with them in spirit. The sources do not describe a theatrical tradition comparable to shadow puppetry or a named dramatic genre.
+The Zuni ceremonial cycle includes dances, and the Kachina Society is responsible for performing the rites of the Kachina. The Lost Children instructed the Zuni to copy their costumes, headdresses, and dances for the time when they would be with them in spirit.
 
 *Shalako* is a series of ceremonial dances taking place throughout the night on or around the winter solstice. Six dancers wear Shalako outfits and move from house to house. Their singing blesses houses built during the year. At dawn, Saiyatasha performs a final prayer and the ceremony is complete. The ceremony is closed to non-native individuals unless there is a personal invitation by a tribal member.
 
-A museum postcard records Zuni women performing a dance in regalia. Another catalogue record identifies a painted skin mask of Awehuyan–hielashukti Kachina. The sources do not provide a complete choreography or describe dances intended specifically as entertainment.
+A museum postcard records Zuni women performing a dance in regalia. Another catalogue record identifies a painted skin mask of Awehuyan–hielashukti Kachina.
 
 ## Festivals & rituals
 
@@ -71,7 +71,7 @@ The Shalako ceremony takes place throughout the night on or around the winter so
 
 The priesthood includes three priests—north, above, and below—and Pekwin, the above priest, determines the religious calendar. A religious society is associated with each of the six kivas. Each boy is initiated into one of these societies by his ceremonial father around the age of five or six. According to the Zuni mythology source, males are initiated into the Kachina Society by the age of 12.
 
-The sources describe marriage as an exchange of gifts between female relatives of the marrying couple and the husband’s sharing of a meal with his wife’s family. Female relatives prepare the wedding and dress the bride. The supplied sources do not describe birth ceremonies, funerals, or a complete annual festival calendar beyond the named seasonal ceremonies.
+The sources describe marriage as an exchange of gifts between female relatives of the marrying couple and the husband’s sharing of a meal with his wife’s family. Female relatives prepare the wedding and dress the bride.
 
 ## Foodways
 
@@ -79,15 +79,13 @@ The Zuni have traditionally lived by irrigated agriculture and raising livestock
 
 The Zuni mythology source describes corn as a food taught to the people after their emergence into the daylight world. Corn fetishes were planted in fields; after they multiplied and grew, the harvest was given to the men to take home to their wives. The people learned to eat corn by grinding, pounding, and molding it into porridge and corncakes.
 
-The sources do not identify named everyday dishes beyond porridge and corncakes, nor do they describe cooking vessels in use, tea or coffee traditions, dietary rules, or a detailed ceremonial food system.
-
 ## Oral tradition & literature
 
 Zuni mythology is an oral history, cosmology, and religion integrated into daily life. The supplied accounts describe creation, the emergence of people through successive worlds, the Twin Children of the Sun, and the search for the Middle, *itiwana*. In one account, Áwonawílona made himself into the Sun Father, Yatoka. Earth Mother, Áwitelin Tsíta, and Sky Father, Ápoyan Ta’chu, formed the Great Waters, and the Twin Children of the Sun were Ko’wituma and Wats’usi.
 
 Another account describes people emerging from the fourth world through the first, second, and third worlds before reaching the daylight world. The bow priests used prayer sticks made from pine, spruce, silver spruce, and aspen. The sources also describe Kiaklo learning the story of creation, the customs and rites of the kachinas, and the pathway followed by the dead to the spirit world.
 
-Storytelling is identified in the Zuni language source as *Delapna꞉we*. The Zuni adults are often known through their relationship to a child, such as “father of so-and-so,” because adult names have religious meanings and are very personal. The sources do not describe a Zuni epic, proverb corpus, riddle tradition, or contemporary literary revival.
+Storytelling is identified in the Zuni language source as *Delapna꞉we*. The Zuni adults are often known through their relationship to a child, such as “father of so-and-so,” because adult names have religious meanings and are very personal.
 
 ## Language & religion
 

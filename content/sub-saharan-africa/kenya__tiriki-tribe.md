@@ -17,15 +17,11 @@ tags: [ethnography, sub-saharan-africa]
 
 ## Overview
 
-The Tiriki are associated with Kenya and the Kisumu area of East Africa. Museum records show wood carvers, adult men, adult women, and children. The sources describe clothing, tools, pottery, jewelry, musical instruments, and masks. They do not give a population estimate or detailed information about Tiriki language, religion, settlement, or social organization.
+The Tiriki are associated with Kenya and the Kisumu area of East Africa. Museum records show wood carvers, adult men, adult women, and children. The sources describe clothing, tools, pottery, jewelry, musical instruments, and masks.
 
 ## Material culture
 
 Tiriki material culture in the records includes pottery, wood, iron, leather, horn, cane, banana fibre, cow skin, animal skin, hide, glass beads, and reed.
-
-### Textile & pattern traditions
-
-The sources do not document Tiriki textiles, named patterns, weaving techniques, or textile terms.
 
 ### Clothing & dress
 
@@ -96,14 +92,6 @@ Food-related records include salt filters, cooking bowls, water and milk vessels
 - **Milking jug** — A wooden milking jug had an iron ring.
 - **Beer-pot brush** — A brush made from a cow’s tail was used to clean a beer-pot or as a fly-whisk.
 
-## Oral tradition & literature
-
-The sources do not document Tiriki folktales, poems, proverbs, riddles, storytellers, or literary works.
-
-## Language & religion
-
-The sources do not identify the Tiriki language, language family, religion, religious institutions, or spiritual practices.
-
 ## Glossary
 
 - *Tiriki* — The group associated with Kenya
@@ -132,4 +120,3 @@ The sources do not identify the Tiriki language, language family, religion, reli
 - British Museum catalogue records supplied for the Tiriki objects, instruments, photographs, and circumcision masks.
 - Museum of Ethnography catalogue records supplied for jewellery associated with Kenya, the Kisumu area, and Tiriki.
 - No UNESCO Intangible Cultural Heritage inscription for Kenya was supplied in the source material.
-

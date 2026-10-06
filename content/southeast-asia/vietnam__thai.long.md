@@ -11,53 +11,36 @@ The Thái, also known as Táy or Thảy, are officially recognized as one of Vie
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Thái textile or pattern traditions.
-
-### Clothing & dress
-
-The sources used do not document Thái everyday or ceremonial clothing, head coverings, belts, footwear, or other dress practices.
-
 ### Architecture
 
-The sources identify the village (*ban*) and chiefdom (*mueang*, Vietnamese: *mường*) as core social units, but do not describe Thái houses, building materials, roof forms, decoration, or named architectural types.
+The sources identify the village (*ban*) and chiefdom (*mueang*, Vietnamese: *mường*) as core social units.
 
 ### Ceramics, metalwork & everyday objects
 
 The museum catalogue records several objects shown for this atlas: **Knife (Dha) with Sheath**, made of silver, wood, and steel; **Lance with Sheath**, made of gold, bamboo, and wood; two objects titled **Knife**, made respectively of steel, brass, and shell, and of horn, brass, and rattan; *Phin phia*, made of wood, coconut shell, and metal; and *Klong mēng* (ฆ้องเหม่ง), made of brass and wood. All are recorded by the Metropolitan Museum of Art. The catalogue dates the knives and lance to the 18th–19th century and the *Phin phia* and *Klong mēng* to the late 19th century. The records do not explain their use or specifically identify their makers.
 
-### Jewelry & body adornment
-
-The sources used do not document Thái jewelry, body adornment, tattooing, hair practices, or ritual uses of ornaments.
-
 ## Music & performance
 
-UNESCO inscribes the **Practices of Then by Tày, Nùng and Thái ethnic groups in Viet Nam**. This is the only musical or performance tradition in the supplied sources that explicitly concerns the Thái. The inscription identifies Then as a practice shared by Tày, Nùng, and Thái ethnic groups in Viet Nam, but the supplied material does not describe its instruments, songs, performers, occasions, or performance structure. The museum catalogue records *Klong mēng* (ฆ้องเหม่ง), made of brass and wood and dated to the late 19th century, but does not state that it is a Thái instrument or explain how it is played.
-
-## Dance & theatre
-
-The sources used do not document Thái dances, theatre, dramatic traditions, or distinctions between ceremonial and entertainment performance.
+UNESCO inscribes the **Practices of Then by Tày, Nùng and Thái ethnic groups in Viet Nam**. This is the only musical or performance tradition in the supplied sources that explicitly concerns the Thái. The inscription identifies Then as a practice shared by Tày, Nùng, and Thái ethnic groups in Viet Nam, but the supplied material does not describe its instruments, songs, performers, occasions, or performance structure. The museum catalogue records *Klong mēng* (ฆ้องเหม่ง), made of brass and wood and dated to the late 19th century.
 
 ## Festivals & rituals
 
-The supplied UNESCO inscription concerns the **Practices of Then by Tày, Nùng and Thái ethnic groups in Viet Nam**, but the provided source material does not describe annual festivals, ritual calendars, life-cycle ceremonies, weddings, funerals, or seasonal observances among the Thái.
+The supplied UNESCO inscription concerns the **Practices of Then by Tày, Nùng and Thái ethnic groups in Viet Nam**.
 
 ## Foodways
 
-The sources state that the Thái mainly settled in river valleys and cultivated rice. They do not provide information about cooking methods, named dishes, ceremonial foods, beverages, dietary rules, or meal traditions.
+The sources state that the Thái mainly settled in river valleys and cultivated rice.
 
 ## Oral tradition & literature
 
-The historical account connects the valley of Muang Thaeng with the legend of Khun Borom. Beyond this association, the sources used do not document Thái folktales, epic poetry, proverbs, riddles, storytelling contexts, literary works, or preservation efforts.
+The historical account connects the valley of Muang Thaeng with the legend of Khun Borom.
 
 ## Language & religion
 
-The Thái are Tai ethnic groups whose languages belong to the Tai language grouping; they mostly speak languages in the Chiang Saen branch of the Southwestern Tai languages. They use the Tai Viet script. The sources distinguish them from the Tày and Nùng people, who are natives of Vietnam’s Northeast Region, and state that the Thái in Vietnam originate from Yunnan. The supplied sources do not describe Thái religious beliefs, institutions, spiritual specialists, or religious practices.
+The Thái are Tai ethnic groups whose languages belong to the Tai language grouping; they mostly speak languages in the Chiang Saen branch of the Southwestern Tai languages. They use the Tai Viet script. The sources distinguish them from the Tày and Nùng people, who are natives of Vietnam’s Northeast Region, and state that the Thái in Vietnam originate from Yunnan.
 
 ## Sources & further reading
 
-- The supplied sources do not provide books, named scholars, documentation projects, or publication details.
 - [Thái people (Vietnam)](https://en.wikipedia.org/wiki/Th%C3%A1i_people_%28Vietnam%29)
 - UNESCO Intangible Cultural Heritage: [Practices of Then by Tày, Nùng and Thái ethnic groups in Viet Nam](https://ich.unesco.org/en/RL/practices-of-then-by-tay-nung-and-thai-ethnic-groups-in-viet-nam-01379) — RL/01379
 - [Metropolitan Museum of Art](https://www.metmuseum.org/) online collection records for the catalogue objects listed above.

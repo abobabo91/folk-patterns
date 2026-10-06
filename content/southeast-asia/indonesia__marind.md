@@ -39,10 +39,6 @@ The sources give only limited information about clothing, mainly ceremonial head
 - **Mourner’s hood** — A vegetable-fibre hood has a thick bark-fibre fringe and a multicoloured plaited design.
 - **Age-group anklets** (*wahuku*) — A museum photograph shows a Marind girl with plaited anklets who was in the “wahuku”-age.
 
-### Architecture
-
-The sources do not describe Marind houses, buildings, settlements, or architectural decoration.
-
 ### Ceramics, metalwork & everyday objects
 
 The sources do not document ceramics or metalwork, but they describe arrows and hour-glass-shaped drums.
@@ -62,15 +58,11 @@ The sources offer limited evidence of bodily adornment, especially plaited ankle
 
 ## Music & performance
 
-The sources show that drums were used in ceremonial imagery, but they do not name Marind song or drum traditions.
+The sources show that drums were used in ceremonial imagery.
 
 - **Hour-glass drum** — Marind drums were made from solid wood and had skin membranes, fibre attachments, and painted designs.
 - **Ceremonial drumming** — A photograph record shows Marind-Anim men dressed for ceremony with drums.
 - **Fish totem performance image** — A ceremonial image shows a man holding a carved wooden fish totem.
-
-## Dance & theatre
-
-The sources do not name Marind dances, theatre forms, mask performances, or choreographic traditions.
 
 ## Festivals & rituals
 
@@ -83,7 +75,7 @@ Marind ritual life included clan traditions, dema ancestor veneration, former he
 
 ## Foodways
 
-The sources mention sago or coconut palms but do not describe Marind cooking, dishes, or food rules.
+The sources mention sago or coconut palms.
 
 - **Sago palms** — Sago palm trees were originally planted in Marind territory.
 - **Coconut palms** — Coconut palm trees were originally planted in Marind territory.
@@ -125,4 +117,3 @@ Marind is a Papuan language, and traditional beliefs focused on ancestors, dema,
 - Marind language: https://en.wikipedia.org/wiki/Marind_language
 - British Museum catalogue records for Marind arrows, head-dress, mourner’s hood, and drums.
 - Museum of World Culture catalogue record for a photograph of a Marind girl with plaited anklets.
-

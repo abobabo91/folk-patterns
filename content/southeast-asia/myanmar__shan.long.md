@@ -31,7 +31,7 @@ The [British Museum's wooden body stamp](https://www.britishmuseum.org/collectio
 
 ## Music, dance & festivals
 
-The gong and bell are material evidence of sound-making, with no documented tune or performance in these catalogue records. A [Commons photograph of a Shan peacock dance](https://commons.wikimedia.org/wiki/File:Shan_peacock_dance.jpg) documents one named dance performance. It does not establish that all Shan communities perform it in the same way.
+The gong and bell are material evidence of sound-making, with no documented tune or performance in these catalogue records. A [Commons photograph of a Shan peacock dance](https://commons.wikimedia.org/wiki/File:Shan_peacock_dance.jpg) documents one named dance performance.
 
 A second [Commons image of Poi Sang Long](https://commons.wikimedia.org/wiki/File:Poi_Sang_Long_Festiva04.JPG) describes a Shan novice ordination celebration in Thailand. The image's own description connects the procession, decorated children and temple ordination. The celebration provides a specific example of Buddhist practice across the border; it should not be confused with every festival held in Shan State.
 

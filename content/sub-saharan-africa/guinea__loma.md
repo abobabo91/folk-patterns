@@ -23,19 +23,11 @@ The Loma live mainly in sparsely populated mountain areas near Guinea and Liberi
 
 The documented material culture centers on large wooden masks, ritual figures, mixed-material objects, and a medicine-covered composite hat.
 
-### Textile & pattern traditions
-
-The sources do not document Loma textile or pattern traditions.
-
 ### Clothing & dress
 
 The sources give only one detailed example of Loma dress: a composite ritual hat.
 
 - **Composite hat** — The hat had a woven textile cap, cowrie shells, plaster, horns, black fur, and lumps of medicine.
-
-### Architecture
-
-The sources do not cover Loma buildings, houses, roofs, settlements, or named building types.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -46,8 +38,6 @@ Museum records describe wooden ritual objects and a mixed-material implement or 
 - **Ritual wooden figures** — Museum records describe wooden figures used as religious or ritual equipment, including one male figure covered with blood and another recorded as its pair.
 
 ### Jewelry & body adornment
-
-The sources do not document named Loma jewelry or body-adornment traditions.
 
 - **Cowrie shells** — Cowrie shells were used around the rim of a composite hat.
 - **Amulets** — Amulets are listed among the materials or motifs of particular masks and hats.
@@ -60,8 +50,6 @@ Loma hymn singing is documented through hymns written in Loma and later adopted 
 - **“A va de laa”** — “A va de laa” is the most widely used hymn and was translated into singable English in 2004 and also into German.
 
 ## Dance & theatre
-
-The sources do not name Loma dances, drama, or theatre traditions.
 
 - **Poro mask performance** (*Poro*) — Large wooden masks are associated with Poro secret rites of passage.
 
@@ -76,7 +64,7 @@ Loma ritual life includes traditional religion, Poro rites of passage, and large
 
 ## Foodways
 
-The Loma farm rice in shifting farms, but the sources do not name dishes or cooking traditions.
+The Loma farm rice in shifting farms.
 
 - **Shifting rice farming** — The Loma grow rice in shifting farms.
 
@@ -119,4 +107,3 @@ Loma is a Southwestern Mande language with several dialects, a Latin alphabet, a
 - [Loma language](https://en.wikipedia.org/wiki/Loma_language)
 - The UNESCO Intangible Cultural Heritage sources supplied for this profile list no inscriptions for Guinea.
 - Museum catalogue records supplied for the British Museum, Museum of World Culture, Metropolitan Museum of Art, and Museum of Ethnography.
-

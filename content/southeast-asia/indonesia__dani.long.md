@@ -29,11 +29,7 @@ The Dani, also spelled Ndani, are an ethnic group of the Central Highlands of We
 
 ### Clothing & dress
 
-The sources used describe body ornaments and carrying objects but do not cover everyday clothing, named garments, head coverings, belts, footwear, or a complete distinction between men’s and women’s dress. Museum records identify two bound pig tusks used as nose ornaments, with recorded heights of 8, 8.4, 8.5, and 9.5 cm. A shell necklace from the Baliem Valley is described as usually worn by men and sometimes by women. The Dani are described in the museum record as a highland people who obtain shells for ornaments through exchange with coastal peoples.
-
-### Architecture
-
-The sources used do not cover Dani house forms, roof construction, named buildings, settlement layout, decoration, or other aspects of vernacular architecture.
+The sources used describe body ornaments and carrying objects. Museum records identify two bound pig tusks used as nose ornaments, with recorded heights of 8, 8.4, 8.5, and 9.5 cm. A shell necklace from the Baliem Valley is described as usually worn by men and sometimes by women. The Dani are described in the museum record as a highland people who obtain shells for ornaments through exchange with coastal peoples.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -47,17 +43,17 @@ Other necklaces in the Museum of World Culture records are made from small shell
 
 ## Music & performance
 
-The sources used do not identify musical instruments, song genres, or a distinct Dani musical tradition. They do describe communal dance and victory performance. Robert Gardner’s ethnographic work records the Dani term *edai* for a two-day dance of victory held after an enemy was killed. The Dani terms *wim*, “dead birds,” and “dead men” refer to weapons and ornaments taken from an enemy during battle; these trophies were displayed during the *edai*.
+The sources describe communal dance and victory performance. Robert Gardner’s ethnographic work records the Dani term *edai* for a two-day dance of victory held after an enemy was killed. The Dani terms *wim*, “dead birds,” and “dead men” refer to weapons and ornaments taken from an enemy during battle; these trophies were displayed during the *edai*.
 
 ## Dance & theatre
 
-The sources identify *edai* as a two-day dance of victory following the killing of an enemy. Robert Gardner recorded the Dani of the Baliem River Valley in Kurulu District and Wita Waya District, Jayawijaya Regency, and created the film *Dead Birds* from this experience in 1965. The sources do not describe other dances, theatrical forms, masks, puppetry, or entertainment performance.
+The sources identify *edai* as a two-day dance of victory following the killing of an enemy. Robert Gardner recorded the Dani of the Baliem River Valley in Kurulu District and Wita Waya District, Jayawijaya Regency, and created the film *Dead Birds* from this experience in 1965.
 
 ## Festivals & rituals
 
-The sources describe communal feasting, warfare, and exchange but do not provide an annual festival calendar. Pig feasts are important for celebrating events communally. The success of a feast, and the standing of a village big man or organiser, is often gauged by the number of pigs slaughtered. Pigs are valuable and are reserved for special occasions rather than served regularly.
+The sources describe communal feasting, warfare, and exchange. Pig feasts are important for celebrating events communally. The success of a feast, and the standing of a village big man or organiser, is often gauged by the number of pigs slaughtered. Pigs are valuable and are reserved for special occasions rather than served regularly.
 
-Sweet potatoes are important in local culture and are the most important tool used in bartering, especially in dowries. Museum records describe a shell band used as a bridal gift, a gift at cremation, on other occasions, and as payment. The sources do not cover birth ceremonies, coming-of-age rites, a complete wedding sequence, or other funeral practices.
+Sweet potatoes are important in local culture and are the most important tool used in bartering, especially in dowries. Museum records describe a shell band used as a bridal gift, a gift at cremation, on other occasions, and as payment.
 
 Ritual small-scale warfare between rival villages was an integral part of traditional Dani culture. Much time was spent preparing weapons and treating injuries. In 1966, 125 people were killed in a massacre during an attack by an enemy clan. The emphasis of battle was typically to insult the enemy and wound or kill token victims rather than capture territory, property, or an enemy village. The sources state that this fighting is no longer done.
 
@@ -67,11 +63,9 @@ Sweet potatoes are a staple crop and an important medium of barter, particularly
 
 The method begins by heating stones in a fire until they are extremely hot. Some of the stones line a pit. Cuts of meat and pieces of sweet potato or banana are wrapped in banana leaves and lowered into the pit. More hot stones are placed on top, and the pit is covered with grass and a cover to retain steam. After a couple of hours, the food is ready to eat. Pigs are too valuable for regular meals and are reserved for special occasions, especially communal feasts.
 
-The sources do not cover beverages, tea or coffee traditions, dietary rules, food prohibitions, or further named dishes.
-
 ## Oral tradition & literature
 
-The sources used do not identify Dani folktales, epic poetry, proverbs, riddles, or a named oral-literary cycle. They do record the Dani expressions *wim*, “dead birds,” and “dead men,” referring to weapons and ornaments taken from enemies during battle. Robert Gardner’s film *Dead Birds* emphasised death and people-as-birds in Dani culture.
+The sources record the Dani expressions *wim*, “dead birds,” and “dead men,” referring to weapons and ornaments taken from enemies during battle. Robert Gardner’s film *Dead Birds* emphasised death and people-as-birds in Dani culture.
 
 The sources also list ethnographic books concerning the Dani, including Robert Gardner’s *Gardens of War: Life and Death in the New Guinea Stone Age*, Karl G. Heider’s *The Dugum Dani* and *Grand Valley Dani: Peaceful Warriors*, and Peter Matthiessen’s *Under the Mountain Wall*. These are documentation of Dani life rather than works identified by the sources as Dani oral literature.
 
@@ -79,7 +73,7 @@ The sources also list ethnographic books concerning the Dani, including Robert G
 
 Linguists identify at least four sub-groupings of Dani or Baliem Valley languages: Wano, Nggem, Central Dani, Grand Valley Dani, Lani or Western Dani, Walak, and Ngalik. Grand Valley Dani includes Lower-Grand Valley Dani and Hupla, Mid-Grand Valley Dani, and Upper-Grand Valley Dani. The sources also list Nduga, Silimo, and Yali as part of the Ngalik grouping.
 
-Dani languages distinguish two basic colour terms: *mili* for cool or dark shades such as blue, green, and black, and *mola* for warm or light colours such as red, yellow, and white. The sources used do not cover a language family, historical script, religious affiliation, or Dani spiritual practices.
+Dani languages distinguish two basic colour terms: *mili* for cool or dark shades such as blue, green, and black, and *mola* for warm or light colours such as red, yellow, and white.
 
 ## Sources & further reading
 

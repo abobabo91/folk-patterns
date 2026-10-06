@@ -39,15 +39,11 @@ The catalogued objects are overwhelmingly wood, bark, hide and imported iron rat
 
 ### Jewelry & body adornment
 
-The sources document adornment as garment ornament rather than jewellery: coins, bells and beads of wood, glass or metal, mostly of Manchurian and Chinese origin, sewn to the sleeves, collar and hem of women's *hukht*, and more sparingly to men's *skiy*. A brass-mounted belt set with horn, bone and ivory fittings is the closest thing in the catalogue to worn metalwork. Shamans (*ch'am*) wore elaborate coats with belts often made of metal, and gave or used talismans to prevent sickness. Alongside these, the collection holds a group of carved charms: a human head with a fish tail, a fish vertebra, a jointed human figure, a torso, seal or fish figures in wood, one with fish skin and one with cloth, and a four-footed carving with four anthropomorphic heads, a different fish or animal carved beneath each head. The sources do not describe tattooing, hair practice or cosmetic adornment.
+The sources document adornment as garment ornament rather than jewellery: coins, bells and beads of wood, glass or metal, mostly of Manchurian and Chinese origin, sewn to the sleeves, collar and hem of women's *hukht*, and more sparingly to men's *skiy*. A brass-mounted belt set with horn, bone and ivory fittings is the closest thing in the catalogue to worn metalwork. Shamans (*ch'am*) wore elaborate coats with belts often made of metal, and gave or used talismans to prevent sickness. Alongside these, the collection holds a group of carved charms: a human head with a fish tail, a fish vertebra, a jointed human figure, a torso, seal or fish figures in wood, one with fish skin and one with cloth, and a four-footed carving with four anthropomorphic heads, a different fish or animal carved beneath each head.
 
 ## Music & performance
 
 The sources record that the Nivkh have extensive folklore and songs but name no instruments, song genres or performance occasions, so the musical repertoire cannot be described here from them.
-
-## Dance & theatre
-
-The sources used do not cover Nivkh dance or theatre.
 
 ## Festivals & rituals
 

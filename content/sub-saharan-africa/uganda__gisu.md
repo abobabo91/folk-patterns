@@ -23,10 +23,6 @@ The Gisu live mainly around Mount Elgon in eastern Uganda. They are agricultural
 
 Recorded Gisu material culture includes pottery vessels, wooden and iron tools, shields, whistles, ornaments, and rattles.
 
-### Textile & pattern traditions
-
-The sources do not document Gisu textiles, patterns, or named motifs.
-
 ### Clothing & dress
 
 The sources do not describe everyday or ceremonial clothing, but they record several forms of warrior ornament.
@@ -35,10 +31,6 @@ The sources do not describe everyday or ceremonial clothing, but they record sev
 - **Tusk head ornament** — Warrior head ornaments are made from pierced tusks and attached with leather thongs.
 - **Iron necklet** — An iron necklet is one of the recorded forms of body adornment.
 - **Rattling leglet** — A leather leglet is bound with cotton cloth and fitted with an iron rattle.
-
-### Architecture
-
-The sources do not describe Gisu houses, settlements, roofs, or building styles.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -61,13 +53,7 @@ Gisu ornaments include iron, seed, leather, cotton, tusk, and a small rattle.
 
 ## Music & performance
 
-The sources do not document Gisu music, song genres, ensembles, or performance settings.
-
 - **Bound wooden whistle** — A wooden whistle is bound with iron and brass wire, but its musical use is not described.
-
-## Dance & theatre
-
-The sources do not describe Gisu dances, theatre, masked performances, or named entertainment forms.
 
 ## Festivals & rituals
 
@@ -129,4 +115,3 @@ Masaba is a Bantu language with several dialects, and most Bagisu are Christian.
 - [Gisu people — Wikipedia](https://en.wikipedia.org/wiki/Gisu_people)
 - [Gisu language — Wikipedia](https://en.wikipedia.org/wiki/Gisu_language)
 - [British Museum collection search](https://www.britishmuseum.org/collection)
-

@@ -73,10 +73,6 @@ The sources record Gogo musicians and a wooden drum but no named Gogo musical st
 - **Patrick Balisidya** — Patrick Balisidya is named as a Gogo musician.
 - **Ben Pol** (*Benard Michael Paul Mnyang'anga*) — Benard Michael Paul Mnyang'anga, also known as Ben Pol, is named as a Gogo musician.
 
-## Dance & theatre
-
-The sources do not document named Gogo dances, theatre, masks, or puppet traditions.
-
 ## Festivals & rituals
 
 Ritual leaders, age-group defence, and livestock bridewealth are important documented practices.
@@ -97,8 +93,6 @@ The Gogo became farmers with cattle, but drought and famine repeatedly shaped fo
 - **Drought famine** — Unreliable rainfall and drought caused repeated famines in Ugogo.
 
 ## Oral tradition & literature
-
-The sources do not record Gogo folktales or named oral-literary traditions.
 
 - **Historical accounts** — European writers including Edward Hore, Henry M. Stanley, and Emin Pasha recorded accounts of the Gogo.
 - **Stanley’s travel account** — Stanley’s In Darkest Africa preserves a long passage about travel through Ugogo.
@@ -138,4 +132,3 @@ Gogo is a Bantu language with three dialects and is spoken by both Christians an
 - Wikipedia, “Gogo language”: https://en.wikipedia.org/wiki/Gogo_language
 - Wikipedia, “Gogo music”: https://en.wikipedia.org/wiki/Gogo_music
 - Museum catalogue records supplied for this atlas: British Museum objects including clubs, sword, axe, bowl, belts, headdress, basket, water-pipe, drum, armlets, necklet, ear ornaments, ear-plugs, girdles, and cowbell.
-

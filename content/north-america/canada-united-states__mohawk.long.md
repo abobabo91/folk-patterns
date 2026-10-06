@@ -17,7 +17,7 @@ The sources used for this profile document one pattern-bearing craft tradition d
 
 **Splint and sweetgrass basketry** — A lidded "fancy" basket in the British Museum is made from black ash splints dyed a fuchsia colour, worked together with sweetgrass. Its decorative language is three-dimensional rather than woven-in: the splints are looped into raised "curls" across the outside of both body and lid. The weft at the base of the basket and at the top of the lid is sweetgrass, a braided strip of sweetgrass runs around the lid rim, and the lid handle is a green-dyed splint. Against the plain-weave carrying baskets of neighbouring traditions, the effect depends on dyed colour, the aromatic sweetgrass element, and the projecting curl.
 
-The catalogue records also show beadwork applied to garments — a beaded bandolier bag, a beaded collar, a beaded vest, a decorated headband — but they do not describe its motifs or technique, so nothing more can be said about it here.
+The catalogue records also show beadwork applied to garments — a beaded bandolier bag, a beaded collar, a beaded vest, a decorated headband —.
 
 ### Clothing & dress
 
@@ -27,7 +27,7 @@ The British Museum postcards photographed at Kahnawà꞉ke (Caughnawaga) show ho
 
 ### Architecture
 
-The sources used here do not describe Mohawk house forms, building materials or architectural ornament. They do record the settlement pattern instead: three villages along the south side of the Mohawk River — Ossernenon, Andagaron and Tionontoguen, recorded by Isaac Jogues in 1642 and by the Dutch minister Johannes Megapolensis as Asserué, Banagiro and Thenondiogo — into which four earlier villages had been consolidated after the smallpox epidemic of 1635. In the eighteenth century most Mohawks in the Province of New York lived at Canajoharie, the "Upper Castle," with a second major settlement some thirty miles downstream at Tionondorage Castle, also called Fort Hunter, the "Lower Castle," a few families living at Schoharie.
+The sources record the settlement pattern instead: three villages along the south side of the Mohawk River — Ossernenon, Andagaron and Tionontoguen, recorded by Isaac Jogues in 1642 and by the Dutch minister Johannes Megapolensis as Asserué, Banagiro and Thenondiogo — into which four earlier villages had been consolidated after the smallpox epidemic of 1635. In the eighteenth century most Mohawks in the Province of New York lived at Canajoharie, the "Upper Castle," with a second major settlement some thirty miles downstream at Tionondorage Castle, also called Fort Hunter, the "Lower Castle," a few families living at Schoharie.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,11 +39,11 @@ The sources document adornment chiefly through the plucked male hairstyle and th
 
 ## Music & performance
 
-The sources used do not describe Mohawk instruments, song genres or musical performance contexts. What they do record of the spoken-word tradition in performance is the Thanksgiving Address, *Ohén꞉ton Karihwatékwen* — "the words before all else" — recited every morning in the hallway by teachers and students together at the Ahkwesásne Freedom School, where the curriculum is built on a traditional cycle of fifteen seasonal ceremonies. Mohawk-language broadcasting is carried by CKON-FM, licensed by the Ahkwesáhsne Mohawk Nation, on air at 97.3 in Hogansburg, New York and Saint Regis, Quebec and streaming online; part of its programming is in *Kanienʼkéha*, and its call sign refers to the Mohawk word *she:kon*, "hello."
+What the sources do record of the spoken-word tradition in performance is the Thanksgiving Address, *Ohén꞉ton Karihwatékwen* — "the words before all else" — recited every morning in the hallway by teachers and students together at the Ahkwesásne Freedom School, where the curriculum is built on a traditional cycle of fifteen seasonal ceremonies. Mohawk-language broadcasting is carried by CKON-FM, licensed by the Ahkwesáhsne Mohawk Nation, on air at 97.3 in Hogansburg, New York and Saint Regis, Quebec and streaming online; part of its programming is in *Kanienʼkéha*, and its call sign refers to the Mohawk word *she:kon*, "hello."
 
 ## Dance & theatre
 
-The sources used do not describe Mohawk dance or dramatic traditions. They do record Mohawk performance in other media: Go-Won-Go, photographed in a studio portrait held by the British Museum, was a Mohawk performer; and the language has carried a substantial screen presence, in the 2017 film *Mohawk*, the 1991 film *Black Robe*, the 1990 film *The Company of Strangers*, the 2020 series *Barkskins*, Ubisoft Montreal's 2012 game *Assassin's Creed III* — whose half-Mohawk protagonist Ratonhnhaké꞉ton speaks it — and the Marvel animated series *What If...?*, in the episode "What If... Kahhori Reshaped the World?"
+The sources record Mohawk performance in other media: Go-Won-Go, photographed in a studio portrait held by the British Museum, was a Mohawk performer; and the language has carried a substantial screen presence, in the 2017 film *Mohawk*, the 1991 film *Black Robe*, the 1990 film *The Company of Strangers*, the 2020 series *Barkskins*, Ubisoft Montreal's 2012 game *Assassin's Creed III* — whose half-Mohawk protagonist Ratonhnhaké꞉ton speaks it — and the Marvel animated series *What If...?*, in the episode "What If... Kahhori Reshaped the World?"
 
 ## Festivals & rituals
 

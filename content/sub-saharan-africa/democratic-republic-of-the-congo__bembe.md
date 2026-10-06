@@ -12,7 +12,7 @@ tags: [ethnography, sub-saharan-africa]
 | Where | Eastern Democratic Republic of the Congo and western Kigoma Region of Tanzania, mainly around Fizi, Tanganyika, and the Itombwe Mountains. |
 | How many | About 252,000 in the Democratic Republic of the Congo in 1991; around 1.5 million in 2005. |
 | Language | Kibembe. |
-| Religion | The profile mentions Christian missions and Arab-Swahili Muslim customs, but does not give a full account of current religion. |
+| Religion | The profile mentions Christian missions and Arab-Swahili Muslim customs. |
 | Known for | Mountain farming · Hunting and fishing · Drums and dance · Cassava foods · Named wooden, metal, ceramic, and textile objects |
 
 ## Overview
@@ -25,21 +25,17 @@ Bembe material culture includes named wooden, metal, ceramic, textile, and woven
 
 ### Textile & pattern traditions
 
-The sources name textile reliquary figures but do not describe Bembe weaving or patterns.
+The sources name textile reliquary figures.
 
 - **Textile reliquary figure** (*muzidi*) — A muzidi is generally seated, with a long narrow body and extended limbs ending in clearly shaped fingers and toes.
 
 ### Clothing & dress
 
-The sources mention a straw hat and rings but do not describe everyday or ceremonial dress.
+The sources mention a straw hat and rings.
 
 - **Straw hat** (*mpu yangara*) — The mpu yangara is a brimmed, Europeanized straw hat associated with Babembe.
 - **Neck ring** — A neck ring was worn by both sexes.
 - **Iron head or neck ring** — An iron head or neck ring is associated with Babembe-bambamba.
-
-### Architecture
-
-The sources do not describe Bembe houses, settlements, or named building types.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -136,4 +132,3 @@ Bembe is a Bantu language called Kibembe, while the profile mentions Christian m
 - “Bembe language,” Wikipedia: https://en.wikipedia.org/wiki/Bembe_language
 - Museum catalogue records supplied for British Museum, Museum of World Culture, and Museum of Ethnography objects associated with Babembe or Bembe.
 - The UNESCO Intangible Cultural Heritage sources supplied contain no inscriptions for this ethnic group or for the Democratic Republic of the Congo.
-

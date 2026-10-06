@@ -27,11 +27,11 @@ The Senufo, also known as Siena, Senefo, Sene, Senoufo, and Syénambélé, are a
 
 ### Clothing & dress
 
-The sources describe no complete account of everyday or ceremonial dress. The museum record states that Korhogo painted textile motifs were formerly reserved for hunters, who had historical heroic status, ritual dancers, and initiated Senufo people. The Senufo are also described as wearing specially crafted brass jewelry, including pieces that imitate wildlife. The sources do not document specific garments, head coverings, belts, footwear, or gendered dress.
+The sources describe no complete account of everyday or ceremonial dress. The museum record states that Korhogo painted textile motifs were formerly reserved for hunters, who had historical heroic status, ritual dancers, and initiated Senufo people. The Senufo are also described as wearing specially crafted brass jewelry, including pieces that imitate wildlife.
 
 ### Architecture
 
-Senufo villages consist of small mud-brick homes. In rainy southern communities, thatched roofs are common, while flat roofs are prevalent in the dry, desert-like north. The sources do not provide a named Senufo building type, detailed settlement plan, courtyard arrangement, or architectural workshop tradition. A museum record describes a carved Senufo door from Ivory Coast with low-relief decoration, pivot projections, and a wooden lock; the door’s upper composition includes a turtle, two toucan-like birds, and a snake.
+Senufo villages consist of small mud-brick homes. In rainy southern communities, thatched roofs are common, while flat roofs are prevalent in the dry, desert-like north. A museum record describes a carved Senufo door from Ivory Coast with low-relief decoration, pivot projections, and a wooden lock; the door’s upper composition includes a turtle, two toucan-like birds, and a snake.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,29 +39,29 @@ The sources describe wooden household and workshop objects rather than a develop
 
 ### Jewelry & body adornment
 
-Senufo people wear specially crafted brass jewelry, including forms that imitate wildlife. Museum figures show scarification marks on the face, cheeks, breasts, abdomen, back, and around the navel. One seated female figure has a hairstyle incorporating a stylized bird head. The sources do not document specific jewelry names, tattooing rites, hair ceremonies, or other forms of body adornment in detail.
+Senufo people wear specially crafted brass jewelry, including forms that imitate wildlife. Museum figures show scarification marks on the face, cheeks, breasts, abdomen, back, and around the navel. One seated female figure has a hairstyle incorporating a stylized bird head.
 
 ## Music & performance
 
 The Senufo are regionally and internationally known as musicians. The sources classify their instruments into wind instruments, stringed instruments, and percussive instruments. Museum objects include a standing wooden drum with a hide head, relief figures, four feet, and six wedges used to tighten the drum skin. Its relief decoration includes a woman, snakes, a turtle, a lizard, and slave bracelets. Another drum has a carved wooden body, a hide top, wooden pegs, hide thongs, and reliefs including a mask, snake, bird, reptiles, a man with a vertical flute, and manacles.
 
-Other museum records include a composite horn made from antelope horn with a wooden end and animal fur and skin. The sources do not name Senufo song genres, melodies, dances performed to particular instruments, or musical occasions such as weddings or harvest ceremonies. They do state that musicians form a recognized occupational group within Senufo society and that Senufo communities use several categories of instruments.
+Other museum records include a composite horn made from antelope horn with a wooden end and animal fur and skin. The sources state that musicians form a recognized occupational group within Senufo society and that Senufo communities use several categories of instruments.
 
 ## Dance & theatre
 
 The sources document masks, dance masks, figurines, and ritual equipment carved by Senufo artists. Museum records include animal-head masks, human-face masks, a hyaena-head dance mask with antelope horns and a bird on the forehead, a spotted quadruped dance mask, and a baboon-head dance mask coloured in white and red. A museum dance staff is described as a zoomorphic wooden sculpture.
 
-The sources state that carved figures were used in a *tyekpa* funeral ceremony as dance sculptures, carried on the heads of dancers during the ceremony. They do not describe theatrical narratives, named dramatic genres, or distinctions between entertainment and ritual performance beyond these ritual and funeral references.
+The sources state that carved figures were used in a *tyekpa* funeral ceremony as dance sculptures, carried on the heads of dancers during the ceremony.
 
 ## Festivals & rituals
 
-The sources do not provide an annual festival calendar or named seasonal festivals. They describe several ritual and institutional practices. Senufo villages traditionally have a male secret society called **Poro**, with elaborate initiation rituals held in a sacred forest. These rituals involve masks, figurines, and ritual equipment. The main function of Poro is described as guaranteeing a good relationship between the living world and the ancestors.
+The sources describe several ritual and institutional practices. Senufo villages traditionally have a male secret society called **Poro**, with elaborate initiation rituals held in a sacred forest. These rituals involve masks, figurines, and ritual equipment. The main function of Poro is described as guaranteeing a good relationship between the living world and the ancestors.
 
-The **Sandogo** society governs divination and is generally associated with women. Men who inherit the profession through the matrilineal line may also become diviners. The Senufo also have **Wambele** and **Tyekpa**, which perform sorcery and rituals. Caryatid figures are used in ceremonies connected with advancement through the age-grade cycle, and carved figures were used in a *tyekpa* funeral ceremony. The sources do not describe birth rites, weddings, annual festivals, or a detailed funeral calendar.
+The **Sandogo** society governs divination and is generally associated with women. Men who inherit the profession through the matrilineal line may also become diviners. The Senufo also have **Wambele** and **Tyekpa**, which perform sorcery and rituals. Caryatid figures are used in ceremonies connected with advancement through the age-grade cycle, and carved figures were used in a *tyekpa* funeral ceremony.
 
 ## Foodways
 
-The Senufo are predominantly agricultural people cultivating corn, millet, yams, and peanut. They also cultivate cotton and cash crops for the international market. The sources do not name prepared dishes, cooking methods, drinks, ceremonial foods, or dietary rules. They likewise do not document food exchange, feasting, or restrictions connected with Islam or traditional religion.
+The Senufo are predominantly agricultural people cultivating corn, millet, yams, and peanut. They also cultivate cotton and cash crops for the international market. The sources likewise do not document food exchange, feasting, or restrictions connected with Islam or traditional religion.
 
 ## Oral tradition & literature
 

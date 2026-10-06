@@ -23,10 +23,6 @@ The Ambonese come from Ambon Island and southwest Seram Island in Indonesia. The
 
 Ambonese material culture includes sago-leaf and bamboo houses, pottery, palm-leaf weaving, carving, blacksmithing, weapons making, and shipbuilding.
 
-### Textile & pattern traditions
-
-The sources do not document named Ambonese textile or pattern traditions.
-
 ### Clothing & dress
 
 Ambonese dress includes European-style clothing for men and blouses, sarongs, and cotton dresses for women.
@@ -54,10 +50,6 @@ Ambonese craftspeople made pottery, metalwork, weapons, ships, carvings, palm-le
 - **Cooking-pot or water-pot** — The museum catalogue records a pottery cooking-pot or water-pot.
 - **Palm-leaf boxes and mats** — Craftspeople wove boxes and mats from strips of palm leaves.
 
-### Jewelry & body adornment
-
-The sources do not document Ambonese jewelry or named body adornment, and tattooing has largely disappeared through assimilation.
-
 ## Music & performance
 
 Ambonese music absorbed European elements and includes katreji, lagoon songs, and several named instruments.
@@ -67,10 +59,6 @@ Ambonese music absorbed European elements and includes katreji, lagoon songs, an
 - **Bamboo flute** (*efluit*) — The efluit is a named traditional bamboo flute.
 - **Wooden xylophone** (*tatabuhan kayu*) — The tatabuhan kayu is a named traditional xylophone.
 - **Twelve gongs** — Twelve gongs are among the traditional instruments named in the sources.
-
-## Dance & theatre
-
-The sources do not document Ambonese dances, theatre forms, or dramatic traditions beyond katreji as a quadrille.
 
 ## Festivals & rituals
 
@@ -124,10 +112,6 @@ Ambonese Malay is a Malay-based creole and a regional lingua franca used by most
 
 ## Sources & further reading
 
-- The sources provided do not supply bibliographic details for books.
-- The sources provided do not identify a separate documentation project or named ethnographic scholar for the material and intangible culture described here.
 - [Ambonese people](https://en.wikipedia.org/wiki/Ambonese_people)
 - [Ambonese language](https://en.wikipedia.org/wiki/Ambonese_language)
-- The UNESCO Intangible Cultural Heritage sources used list no inscriptions for this country.
 - The museum catalogue records supplied do not include online-collection URLs.
-

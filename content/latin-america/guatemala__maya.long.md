@@ -43,17 +43,13 @@ Ancient Maya towns and cities, especially ceremonial centers, were organized aro
 
 Named building types include ceremonial platforms, courtyards and palaces, residential buildings, temples and temple pyramids, ball courts, and sweat baths. Outside the ceremonial center were structures of lesser nobles, smaller temples, individual shrines, and the wards of commoners. Dam-like causeways called *sacbeob* connected ceremonial centers with other habitation nuclei.
 
-Architectural ensembles included triadic pyramids, E-groups, and twin pyramid complexes. Corbelled vaults were common in palaces and temple rooms. In the Guatemalan Highlands, Postclassic hilltop sites such as the Kʼicheʼ capital Qʼumarkaj show strong Toltec influences. The sources used do not describe the ordinary house forms, roofing materials, or domestic architecture of contemporary Guatemalan Maya communities.
+Architectural ensembles included triadic pyramids, E-groups, and twin pyramid complexes. Corbelled vaults were common in palaces and temple rooms. In the Guatemalan Highlands, Postclassic hilltop sites such as the Kʼicheʼ capital Qʼumarkaj show strong Toltec influences.
 
 ### Ceramics, metalwork & everyday objects
 
 Maya material culture includes ceramics, carved stone, stucco, wood, jade, obsidian, and painted murals. Decorated pottery included cylinder vessels, lidded dishes, tripod plates, vases, and bowls. It was made without a potter’s wheel and could be painted, carved into relief, or incised. Ceramic scenes represented palace life, courtly ritual, mythology, divinatory glyphs, and dynastic texts.
 
 Ceramic sculpture included incense burners and burial urns. Classic burners from Palenque had modeled faces of deities or kings attached to elongated hollow tubes. The sources also describe bark-paper books, leather leaves, metates, agricultural tools, woven bags, bark containers, hammocks, and log hives for stingless bees. Maya wooden objects included lintels, boxes, drums, and other carvings. Metal instruments generally had no place in Classic Maya music, apart from pellet-bell rattles.
-
-### Jewelry & body adornment
-
-The sources used here do not provide sufficient information about Maya jewelry, jewelry types, body adornment, tattoos, or ritual hair practices beyond the use of woven *cintas* by women and hats or cloths used as head coverings.
 
 ## Music & performance
 
@@ -81,7 +77,7 @@ Offerings included maize breads, maize and cacao drinks, honey liquor, flowers, 
 
 The Maya calendar was fundamental to ritual life. It included a 260-day cycle, a 365-day year, a five-day marginal period called *Uayeb*, and thirteen twenty-year periods called *katuns*. The 18 months had festivals dedicated to specific deities and associated with occupational groups such as hunters, fishermen, beekeepers, cacao planters, curers, and warriors.
 
-Life-cycle practices included rituals for making young boys and girls marriageable and the Yucatec Maya *Hetz mek*, which marks a child’s movement from cradling or carrying to the mother’s hip. Agricultural rituals focused on sowing and harvesting maize, thanksgiving, and rain-making. The sources used do not provide a complete contemporary annual festival calendar for Maya communities in Guatemala.
+Life-cycle practices included rituals for making young boys and girls marriageable and the Yucatec Maya *Hetz mek*, which marks a child’s movement from cradling or carrying to the mother’s hip. Agricultural rituals focused on sowing and harvesting maize, thanksgiving, and rain-making.
 
 ## Foodways
 

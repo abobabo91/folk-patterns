@@ -13,8 +13,6 @@ The Makonde are an ethnic group in southeast Tanzania, northern Mozambique, and 
 
 ### Textile & pattern traditions
 
-The sources used do not document a Makonde textile or pattern tradition.
-
 **Mapiko** — Mapiko masks are made from hard or soft wood and may include hair or fibers. Some include beeswax patterns representing scarification.
 
 **Ujamaa** — Also called the “Tree of Life” style, *ujamaa* consists of connected human forms climbing over one another in postures of support. The forms refer to family, unity, and reciprocal relationships.
@@ -29,11 +27,11 @@ The sources used do not document a Makonde textile or pattern tradition.
 
 ### Clothing & dress
 
-The sources used do not provide a general account of everyday Makonde clothing, footwear, belts, or ordinary dress. In initiation contexts, however, clothing marks a change in social status. At the conclusion of the boys’ months-long initiation process, they return to their families as men with new names, clothing, and celebrations. Girls are anointed with oil and dressed in new garments created for the occasion after their ceremonial bath. Makonde masks may depict male or female figures: female masks include lip plugs and ear spools, while male masks include facial hair. One museum catalogue records a *kofia*, an embroidered Islamic skull cap, on a painted wooden *lipiko* mask representing the head of a Swahili trader.
+In initiation contexts, however, clothing marks a change in social status. At the conclusion of the boys’ months-long initiation process, they return to their families as men with new names, clothing, and celebrations. Girls are anointed with oil and dressed in new garments created for the occasion after their ceremonial bath. Makonde masks may depict male or female figures: female masks include lip plugs and ear spools, while male masks include facial hair. One museum catalogue records a *kofia*, an embroidered Islamic skull cap, on a painted wooden *lipiko* mask representing the head of a Swahili trader.
 
 ### Architecture
 
-The sources used do not describe Makonde house forms, roofs, settlement layouts, named building types, or architectural decoration. They state only that wood was traditionally used for building houses as well as for ritual figures, masks, household objects, and fertility and lineage sculptures.
+The sources state only that wood was traditionally used for building houses as well as for ritual figures, masks, household objects, and fertility and lineage sculptures.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -59,7 +57,7 @@ In the male initiation performance, a masked dancer represents a dead man who ha
 
 ## Festivals & rituals
 
-The sources used do not describe an annual Makonde festival calendar or seasonal festivals. They document several life-cycle and ritual practices.
+The sources document several life-cycle and ritual practices.
 
 Initiation rites mark the transition from childhood to adulthood and reaffirm cultural values, secrecy, respect, and community knowledge. Boys undergo seclusion, instruction, circumcision, and a months-long process that ends with their return to their families as men. Fire symbolizes new life and continuity. Their instruction includes discipline, endurance, respect for maternal figures, and the use of clay and wooden figures to convey proverbs and morals.
 
@@ -67,13 +65,9 @@ Girls undergo the *ciputu*, which marks puberty and prepares them for womanhood.
 
 The sources also describe a spirituality in which life-force connects the living and the dead. Illness and misfortune can result when this balance is disturbed, while magic, ritual, and education are used to protect individuals and maintain harmony.
 
-## Foodways
-
-The sources used do not document Makonde staple foods, dishes, cooking methods, ceremonial meals, beverages, or dietary rules.
-
 ## Oral tradition & literature
 
-The sources used do not document named Makonde folktales, epics, written literature, or storytelling genres. They state that children receive instruction through routines and stories during initiation and that wooden and clay figures are used to represent proverbs and morals. The sources do not identify particular proverbs, tales, or literary preservation projects.
+The sources state that children receive instruction through routines and stories during initiation and that wooden and clay figures are used to represent proverbs and morals.
 
 ## Language & religion
 

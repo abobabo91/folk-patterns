@@ -36,10 +36,6 @@ The sources provide limited documentation of Yakut clothing beyond a child's rei
 
 - **Child's hooded reindeer-fur coat** — A pieced and fur-lined coat with a hooded design and slight flare, decorated with reindeer-fur appliqué in red cloth and grey or brown fur.
 
-### Architecture
-
-The sources do not describe Yakut house forms, materials, or ornament.
-
 ### Ceramics, metalwork & everyday objects
 
 Yakut everyday objects are crafted from wood and mammoth ivory, with no recorded ceramics or metalwork.
@@ -61,10 +57,6 @@ Music is recognized as a field of Yakut achievement, though specific instruments
 
 - **Yakut ethnomusicology** — Eduard Yefimovich Alekseyev is recognized as a Yakut ethnomusicologist studying music in the Sakha Republic.
 - **Yakut musicians** — Sarantuya, a mezzo-soprano, and Kjuregej, described as painter, actor and musician, represent Yakut musical achievement.
-
-## Dance & theatre
-
-The sources do not describe Yakut dance or dramatic traditions.
 
 ## Festivals & rituals
 
@@ -127,4 +119,3 @@ Yakut, a Northern Siberian Turkic language most closely related to Dolgan, is sp
 - UNESCO Intangible Cultural Heritage: no inscription for this group appears in the material used
 - British Museum online collection — https://www.britishmuseum.org/collection — holder of all the objects shown here: the appliquéd reindeer-fur child's coat, the choron cup and jar, the mammoth-ivory cock and animal-head game-pieces, the ivory lip-or-ear ornament, the ivory dog-sled model and the model of a Yakut summer encampment
 - Smithsonian Folkways search (for Sakha recordings; not a source for this profile) — https://folkways.si.edu/search?query=Yakut
-

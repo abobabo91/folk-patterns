@@ -14,7 +14,7 @@ tags: [ethnography, sub-saharan-africa]
 
 ## People and place
 
-Fante communities are concentrated along Ghana's coast and its nearby hinterland. The museum sources place objects in Ghana and identify their makers as Fante. A label such as ?Akan? alone is broader: it does not establish that a specific object was made by a Fante artist. That distinction matters here, because Akan, Asante, and Fante objects are often displayed together.
+Fante communities are concentrated along Ghana's coast and its nearby hinterland. The museum sources place objects in Ghana and identify their makers as Fante. That distinction matters here, because Akan, Asante, and Fante objects are often displayed together.
 
 ## Asafo companies and their flags
 

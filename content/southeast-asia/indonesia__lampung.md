@@ -40,10 +40,6 @@ Lampung ceremonial clothing includes decorated sarongs and women’s skirts.
 - **Ceremonial skirt** (*tapis*) — Women’s ceremonial skirts called tapis are recorded from the nineteenth century.
 - **Ceremonial sarong** (*sarong*) — One sarong is yellow, blue, and white cotton with gold embroidery and woven suns, sun wheels, and birds.
 
-### Architecture
-
-The sources do not describe Lampung architecture.
-
 ### Ceramics, metalwork & everyday objects
 
 The sources mainly document Lampung-linked kris and do not describe ceramics or ordinary household tools.
@@ -53,8 +49,6 @@ The sources mainly document Lampung-linked kris and do not describe ceramics or 
 - **Jawa Demam kris** (*kris*) — A Lampung kris has a Jawa Demam stylized bird hilt and a blade with five ondulations.
 
 ### Jewelry & body adornment
-
-The sources do not describe Lampung jewelry or body-adornment practices.
 
 - **Mica mirrors** — Mica mirrors appear as decorations on Lampung textiles.
 - **Paillettes** — Paillettes are recorded as materials or decorations on Lampung textiles.
@@ -66,10 +60,6 @@ The sources do not describe Lampung music, but they record adi-adi poems express
 
 - **Value poems** (*adi-adi*) — Adi-adi are poems expressing characteristic Lampung values.
 
-## Dance & theatre
-
-The sources do not describe Lampung dance or theatre.
-
 ## Festivals & rituals
 
 The profile records social values and community practices but no annual festivals or named life-cycle rites.
@@ -79,10 +69,6 @@ The profile records social values and community practices but no annual festival
 - **Mutual assistance** (*Sakai-Sambaian*) — Sakai-Sambaian means giving mutual assistance in the community.
 - **Title and character** (*Juluk-Adok*) — Juluk-Adok concerns having a personality that fits one’s customary title.
 - **Sense of honor** (*Piil-Pusanggiri*) — Piil-Pusanggiri describes embarrassment at doing despised work in relation to religion and self-esteem.
-
-## Foodways
-
-The sources do not describe Lampung foods, cooking, drinks, or dietary rules.
 
 ## Oral tradition & literature
 
@@ -134,4 +120,3 @@ Lampung is an Austronesian language cluster with two major dialects and a tradit
 - [Lampung language](https://en.wikipedia.org/wiki/Lampung_language)
 - Museum of Ethnography catalogue records: [1901.21.1190](https://collections.smvk.se/carlotta-em/web/object/1901.21.1190) and [1889.04.4036](https://collections.smvk.se/carlotta-em/web/object/1889.04.4036)
 - Museum of World Culture catalogue records: [1935.01.0043a-b](https://collections.smvk.se/carlotta-em/web/object/1935.01.0043a-b), [1998.11.0058](https://collections.smvk.se/carlotta-em/web/object/1998.11.0058), [1998.11.0059](https://collections.smvk.se/carlotta-em/web/object/1998.11.0059), and [1998.11.0060](https://collections.smvk.se/carlotta-em/web/object/1998.11.0060)
-

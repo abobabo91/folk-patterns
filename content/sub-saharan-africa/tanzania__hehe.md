@@ -76,10 +76,6 @@ The sources do not identify Hehe musical genres or performance traditions, but t
 - **Iron bell** — This bell had a hide sling.
 - **Rattle anklet** — This anklet had iron rattle bells.
 
-## Dance & theatre
-
-The sources do not document Hehe dances, theatre, masked performances, or named entertainment traditions.
-
 ## Festivals & rituals
 
 The sources describe family customs, marriage rules, bride-wealth, and open legal hearings but no named festivals.
@@ -97,11 +93,9 @@ Hehe foodways centered on farming maize and sweet potatoes, with some cattle and
 - **Maize fields** (*Uhehe*) — Scattered homesteads were normally surrounded by large maize fields by 1800.
 - **Sweet potatoes** (*Mkwawa*) — Sweet potatoes were mentioned, including at Mkwawa’s camp.
 - **Cattle and goats** — Some people kept a limited number of cattle and goats.
-- **Porridge** — The sources record a pottery bowl for cooking porridge but do not identify its grain or preparation.
+- **Porridge** — The sources record a pottery bowl for cooking porridge.
 
 ## Oral tradition & literature
-
-The sources do not document Hehe folktales, epics, proverbs, riddles, praise poetry, or named storytelling genres.
 
 - **Lugalo ambush** (*Lugalo*) — Historical accounts preserve descriptions of the Hehe ambush at Lugalo.
 - **Mkwawa’s resistance** (*Mkwawa*) — Historical sources describe Mkwawa’s resistance, his wars, and his death in 1898.
@@ -135,6 +129,5 @@ Kihehe is a tonal Bantu language with four main dialects, while the profile give
 
 - [“Hehe people,” Wikipedia](https://en.wikipedia.org/wiki/Hehe_people)
 - [“Hehe language,” Wikipedia](https://en.wikipedia.org/wiki/Hehe_language)
-- The supplied museum catalogue records identify British Museum objects but do not provide collection URLs.
+- The supplied museum catalogue records identify British Museum objects.
 - The supplied sources contain no UNESCO Intangible Cultural Heritage inscriptions for Tanzania concerning the Hehe.
-

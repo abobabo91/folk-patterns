@@ -41,14 +41,6 @@ The museum records show a household repertoire in wood, cane, coconut shell and 
 
 The sources name no jewelry types, but they do describe one worn object in detail: amulets inscribed with verses of the Qur'an in the *sorabe* script, commonly made and worn by the Antemoro. Charm-making is a livelihood as well as a devotional practice — the manufacture of charms is listed among the community's occupations, and the Anakara clan knew how to make charms, cast spells and practise geomancy using local gemstones. Tattooing, henna and hair practices are not covered by the sources used here.
 
-## Music & performance
-
-The sources used here do not cover Antemoro musical instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used here do not cover Antemoro dance or dramatic traditions.
-
 ## Festivals & rituals
 
 Antemoro ritual life turns on ancestral observance, clan privilege and *fady* (taboo). The most consequential rite is *sombili* (also given as *sombily*), the ritual sacrifice of animals for the ancestors — a prerogative the Zafiraminia held until the Zafikasimambo clan absorbed it on taking power around 1550, and which they then used to shape political and economic activity in the region. Butchering particular animals for human consumption was assigned to particular clans, and members of a clan could traditionally eat only with others of the same clan. Divination is the other pillar: *ombiasy* predicted the future from lunar phases and offered charms, spells and divinations across the island.

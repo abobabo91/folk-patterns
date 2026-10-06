@@ -35,11 +35,7 @@ The catalogue records of the objects shown here are the sources for this section
 
 The women's costume documented here is built from a white blouse of tabby-woven cotton, made up from three full weaving widths and hand stitched, with a gathered neckline edged in blue blanket stitch, a V-shaped opening overstitched in black wool, and a black rectangular embroidered panel with diamond patterning on the upper sleeve. Over it go the *katrinca* skirt wrap and a narrow warp-faced under belt; an unfinished sleeve kept as an embroidery sample shows the same diagonal snowflake and trellis patterning being worked in wool and tinsel thread. The head is covered by the *kerpa ruva*. For outerwear there is a woman's sleeveless sheepskin waistcoat, two tones of brown fleece inside and cream leather outside, embroidered in multicoloured wool with circular and leaf motifs, edged with solid black wool bands at hem, armholes, neckline and centre front, and fastened with three leather toggles with pom-poms and loops.
 
-Men wear a long cream cotton shirt reaching to just above or just below the knee, cut with a straight front and back panel plus extra panels and small diamond gussets to give an A-line, finished with a V-neck, a small collar and self-colour or geometric embroidery in yellow, pink and lilac cotton, and with drawn-thread work. Summer trousers are hand-woven tabby cotton, two full loom widths for the legs and a folded diamond of cloth for the crutch, gathered on a white cotton drawstring. The wide herringbone *öv* is the man's belt. The sources do not describe Csángó footwear.
-
-### Architecture
-
-The sources used do not describe Csángó house forms, building materials or architectural decoration.
+Men wear a long cream cotton shirt reaching to just above or just below the knee, cut with a straight front and back panel plus extra panels and small diamond gussets to give an A-line, finished with a V-neck, a small collar and self-colour or geometric embroidery in yellow, pink and lilac cotton, and with drawn-thread work. Summer trousers are hand-woven tabby cotton, two full loom widths for the legs and a folded diamond of cloth for the crutch, gathered on a white cotton drawstring. The wide herringbone *öv* is the man's belt.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -51,11 +47,7 @@ Three necklaces are recorded, all of threaded glass beads tied off with twisted 
 
 ## Music & performance
 
-Csángó music shows the characteristic features of Hungarian music, and the words of the songs are mostly Hungarian with some dialect differences; the anthem of the Csángós refers to Csángó Hungarians repeatedly. The sources used do not name individual instruments, song genres or performance occasions.
-
-## Dance & theatre
-
-The sources used do not cover Csángó dance or dramatic traditions.
+Csángó music shows the characteristic features of Hungarian music, and the words of the songs are mostly Hungarian with some dialect differences; the anthem of the Csángós refers to Csángó Hungarians repeatedly.
 
 ## Festivals & rituals
 
@@ -63,11 +55,11 @@ The sources used give no festival calendar, but they do describe the ritual fram
 
 ## Foodways
 
-The sources used do not describe Csángó dishes or cooking. They record only the agricultural base: the Csángós were historically a rural and agricultural people who raised stock such as sheep and cows and farmed corn, potatoes and hemp — the last of which reappears as the probable fibre of the twill floor runner in the collection shown here.
+The sources record only the agricultural base: the Csángós were historically a rural and agricultural people who raised stock such as sheep and cows and farmed corn, potatoes and hemp — the last of which reappears as the probable fibre of the twill floor runner in the collection shown here.
 
 ## Oral tradition & literature
 
-The sources used do not record Csángó folktales, epics or storytelling occasions. What they do document is a written and scholarly record around the dialect. The Munich Codex, a Hussite translation of the New Testament into Hungarian, is dated in its text to 1466 in Moldavia. A Jesuit report from Roman in 1588 by Stanisław Warszewicki observed that the Hungarians and Saxons of the region's fifteen towns and surrounding villages mostly could not read and did not recognise the letters. The Csángós took no part in the language reforms of the Age of Enlightenment or the bourgeois transformation that produced modern national consciousness, and had neither a noble stratum nor an intelligentsia to shape a Hungarian consciousness for them. Very few Csángós today can write in their mother tongue, since there is no teaching of the language in the Csángó villages; the Csángós make no political demands beyond recognition as a distinct culture and education and church services in their dialect. Vilmos Tánczos's fieldwork of 2008–2010 is the most recent documentation of the dialect's decline.
+What the sources do document is a written and scholarly record around the dialect. The Munich Codex, a Hussite translation of the New Testament into Hungarian, is dated in its text to 1466 in Moldavia. A Jesuit report from Roman in 1588 by Stanisław Warszewicki observed that the Hungarians and Saxons of the region's fifteen towns and surrounding villages mostly could not read and did not recognise the letters. The Csángós took no part in the language reforms of the Age of Enlightenment or the bourgeois transformation that produced modern national consciousness, and had neither a noble stratum nor an intelligentsia to shape a Hungarian consciousness for them. Very few Csángós today can write in their mother tongue, since there is no teaching of the language in the Csángó villages; the Csángós make no political demands beyond recognition as a distinct culture and education and church services in their dialect. Vilmos Tánczos's fieldwork of 2008–2010 is the most recent documentation of the dialect's decline.
 
 ## Language & religion
 

@@ -69,10 +69,6 @@ The sources provide little information about Moriori music, but efforts have pre
 - **Moriori songs** — Work began in 2001 to preserve Moriori songs as part of cultural and language revival.
 - **Pipes of the fire god** — Moriori oral tradition remembered the crew of HMS Chatham as containing the god of fire because they smoked pipes.
 
-## Dance & theatre
-
-The sources do not document Moriori dance, theatre, or named entertainment traditions.
-
 ## Festivals & rituals
 
 The central Moriori ritual principle was the law of Nunuku, which prohibited warfare and cannibalism and promoted peace.
@@ -134,4 +130,3 @@ Moriori was a distinct Eastern Polynesian language, and its religious and ethica
 - [Moriori language](https://en.wikipedia.org/wiki/Moriori_language)
 - No UNESCO Intangible Cultural Heritage inscription for this ethnic group is listed in the supplied sources.
 - British Museum catalogue records for Moriori clubs, bird-spear point and whale-tooth or whalebone pendants.
-

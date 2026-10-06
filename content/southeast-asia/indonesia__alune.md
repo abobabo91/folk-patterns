@@ -12,7 +12,7 @@ tags: [ethnography, southeast-asia]
 | Where | Western-central Seram Island, Indonesia, in the Maluku archipelago. |
 | How many | About 21,300 people in 27 villages. |
 | Language | Alune, an Austronesian language of Malayo-Polynesian origin, with several dialects. |
-| Religion | The sources do not identify a religious affiliation or specific spiritual practices. |
+ |
 | Known for | Forest products and sago · Bark-fibre loincloths · Warrior clothing and long swords · Elaborate houses · The Hainuwele legend |
 
 ## Overview
@@ -36,7 +36,7 @@ Traditional dress was light because of the humid environment, with special warri
 
 - **Bark-fibre loincloth** — Adults traditionally wore a short bark-fibre loincloth from the waist down.
 - **Warrior clothing** — On special occasions, Alune men wore elaborate warrior clothes and carried long swords.
-- **Women’s necklaces** — Women wore necklaces, but the sources do not give their name, design, or ritual use.
+- **Women’s necklaces** — Women wore necklaces.
 
 ### Architecture
 
@@ -67,10 +67,6 @@ Women wore necklaces, and museum records include shell and metal bracelets.
 The only recorded musical instrument is a bamboo slit gong.
 
 - **Bamboo slit gong** — The museum catalogue records a slit gong made of bamboo, but gives no playing method or performance context.
-
-## Dance & theatre
-
-The sources do not document named Alune dances or theatre traditions.
 
 ## Festivals & rituals
 
@@ -129,4 +125,3 @@ Alune is a Malayo-Polynesian language with several dialects, including the prest
 - Wikipedia, “Alune language”: https://en.wikipedia.org/wiki/Alune_language
 - British Museum catalogue records for a palm-sugar ladle, tongs, strainer, bamboo slit gong, traded metal bracelet, and shell female’s bracelet.
 - The supplied UNESCO Intangible Cultural Heritage material lists no inscriptions for Indonesia concerning the Alune.
-

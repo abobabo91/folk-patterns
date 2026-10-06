@@ -43,10 +43,6 @@ Dress consists of cotton garments worn with adornments of seeds, animal teeth, s
 - **Leg-band** — Adornment made of cotton and snail shell, worn in pairs.
 - **Feather head-dress** — Built on a cane ring with small red, yellow and blue feathers attached, bound with wool strips, and a larger ring of long feathers standing behind.
 
-### Architecture
-
-No information about house forms, building materials or settlement layout is documented in the sources.
-
 ### Ceramics, metalwork & everyday objects
 
 Pottery bowls feature knobbed rims as a recurring formal trait, while woodwork includes clubs, stirrers, initiation stools and fishing nets.
@@ -70,10 +66,6 @@ Adornment is made from gathered animal and plant material: seeds, animal teeth, 
 ## Music & performance
 
 No information about instruments, song genres or performance occasions is documented, though narrative audio has been recorded.
-
-## Dance & theatre
-
-No information about dance or dramatic traditions is documented in the sources.
 
 ## Festivals & rituals
 
@@ -137,4 +129,3 @@ Hãtxa Kuĩ is a Panoan language with three named dialects and two extinct relat
 - Wikipedia, "Kaxinawá language": https://en.wikipedia.org/wiki/Kaxinaw%C3%A1_language
 - Wikipedia, "Kaxinawá" (people): https://en.wikipedia.org/wiki/Kaxinaw%C3%A1
 - British Museum online collection, which holds the objects shown here: https://www.britishmuseum.org/collection
-

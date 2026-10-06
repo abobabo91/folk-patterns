@@ -7,13 +7,13 @@ tags: [ethnography, sub-saharan-africa]
 
 ## Overview
 
-The Taita are a Bantu-speaking people of Taita-Taveta County in southeastern Kenya, living in and around the Taita Hills — the massifs of Dawida, Saghalla and Kasighau that rise out of the surrounding lowlands. They speak *Kidawida* (also *Kitaita*), a Bantu language closely related to the Chaga languages of Kenya and Tanzania. West-Bantu speakers reached the area around 1000–1300, settling in five groups across what is now Taita-Taveta. The sources do not give a population figure. In folk-culture terms the Taita are notable for practices tied to their landscape: skulls of the dead "buried" in caves and rock shelters, sacred forests called *Fighi*, and a hill-country religion of ancestor offerings — together with a documented nineteenth-century tradition of beadwork, ear-plugs and metal ornament, which is what the museum objects in this atlas show.
+The Taita are a Bantu-speaking people of Taita-Taveta County in southeastern Kenya, living in and around the Taita Hills — the massifs of Dawida, Saghalla and Kasighau that rise out of the surrounding lowlands. They speak *Kidawida* (also *Kitaita*), a Bantu language closely related to the Chaga languages of Kenya and Tanzania. West-Bantu speakers reached the area around 1000–1300, settling in five groups across what is now Taita-Taveta. In folk-culture terms the Taita are notable for practices tied to their landscape: skulls of the dead "buried" in caves and rock shelters, sacred forests called *Fighi*, and a hill-country religion of ancestor offerings — together with a documented nineteenth-century tradition of beadwork, ear-plugs and metal ornament, which is what the museum objects in this atlas show.
 
 ## Material culture
 
 ### Textile & pattern traditions
 
-The sources used do not describe Taita weaving, dyeing or any patterned textile tradition. What they do document is bead- and fibre-work worn on the body, which carries the group's ornamental vocabulary in place of cloth:
+What the sources do document is bead- and fibre-work worn on the body, which carries the group's ornamental vocabulary in place of cloth:
 
 **Beaded waist ornament** — a band of red beads hung with single-strand tassels of red, white or dark blue beads threaded onto fibre, recorded in the British Museum collection. The colour set — red with white and dark blue — matches the bead palette described for Taita women in the nineteenth century.
 
@@ -27,11 +27,11 @@ The nineteenth-century record describes women wearing a short cotton loincloth o
 
 ### Architecture
 
-The sources used do not describe Taita house form, building materials or roofing. What they do document is the built and natural landscape of ritual: the prominent rocks called *Magamba* and the caves called *Mbanga* in the Taita Hills, treated as places of worship and as resting places for the dead. The *Mbanga* caves served practical ends as well — shelter, security, and isolation wards where people with contagious diseases were confined and fed, and readmitted to the community if they survived. Sacred forests called *Fighi*, comparable to the Mijikenda's *Kaya*, were closed to other uses and so functioned as conservation reserves. The Wabasi cult likewise held its own sacred forests and meeting places. The same hills and rocks carried a judicial use: those convicted of crimes were taken to the heights and thrown to their death.
+What the sources do document is the built and natural landscape of ritual: the prominent rocks called *Magamba* and the caves called *Mbanga* in the Taita Hills, treated as places of worship and as resting places for the dead. The *Mbanga* caves served practical ends as well — shelter, security, and isolation wards where people with contagious diseases were confined and fed, and readmitted to the community if they survived. Sacred forests called *Fighi*, comparable to the Mijikenda's *Kaya*, were closed to other uses and so functioned as conservation reserves. The Wabasi cult likewise held its own sacred forests and meeting places. The same hills and rocks carried a judicial use: those convicted of crimes were taken to the heights and thrown to their death.
 
 ### Ceramics, metalwork & everyday objects
 
-The museum objects here are ornament and weapon rather than household ware. Ironwork appears in two **leg ornaments**: one a crescent-shaped iron bell with two iron balls as clappers and two iron beads, all threaded on a hide thong; the other a larger crescent iron bell with a single lead ball for a clapper on a hide thong. Woodwork appears in a **knobkerrie**, a club carved from ebony with an ovoid head. The sources used do not describe Taita pottery, basketry or agricultural tools.
+The museum objects here are ornament and weapon rather than household ware. Ironwork appears in two **leg ornaments**: one a crescent-shaped iron bell with two iron balls as clappers and two iron beads, all threaded on a hide thong; the other a larger crescent iron bell with a single lead ball for a clapper on a hide thong. Woodwork appears in a **knobkerrie**, a club carved from ebony with an ovoid head.
 
 ### Jewelry & body adornment
 
@@ -39,11 +39,7 @@ Ear ornament is the best-documented Taita form in this collection. Three **ear-p
 
 ## Music & performance
 
-The sources used do not describe Taita song genres, instruments or performance occasions. The only sounding objects recorded are the two iron leg ornaments, crescent bells with iron or lead clappers threaded onto hide thongs and worn on the leg, so that movement produced sound — but the catalogue does not say in what context they were worn.
-
-## Dance & theatre
-
-The sources used do not document any named Taita dance or dramatic tradition.
+The only sounding objects recorded are the two iron leg ornaments, crescent bells with iron or lead clappers threaded onto hide thongs and worn on the leg, so that movement produced sound — but the catalogue does not say in what context they were worn.
 
 ## Festivals & rituals
 
@@ -51,11 +47,11 @@ Ritual among the Taita centred on the dead and on the ancestors rather than on a
 
 ## Foodways
 
-The sources used do not describe Taita staples, dishes, cooking methods or drink traditions. The only food practice they record is the provisioning of people isolated in the *Mbanga* caves during contagious illness, who were confined there and had food brought to them.
+The only food practice they record is the provisioning of people isolated in the *Mbanga* caves during contagious illness, who were confined there and had food brought to them.
 
 ## Oral tradition & literature
 
-The sources used do not document Taita folktales, epic, proverbs or riddles. They do preserve one figure of historical memory: **Mwangeka**, Joseph Mwambi, described as a legendary figure among the Taita for resisting British colonists encroaching on Wataita land. Traditional Taita political life was organised not around a tribe but around lineages or clans, *vichuku* (singular *kichuku*), each holding a territorial area in the hills as an independent political unit; before colonialism there was no concept of a unified Taita tribe.
+The sources preserve one figure of historical memory: **Mwangeka**, Joseph Mwambi, described as a legendary figure among the Taita for resisting British colonists encroaching on Wataita land. Traditional Taita political life was organised not around a tribe but around lineages or clans, *vichuku* (singular *kichuku*), each holding a territorial area in the hills as an independent political unit; before colonialism there was no concept of a unified Taita tribe.
 
 ## Language & religion
 

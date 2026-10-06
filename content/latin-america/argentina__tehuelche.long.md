@@ -37,17 +37,9 @@ Two object classes dominate the catalogued material. The hunting weapon of stone
 
 Adornment is documented only through the photographs: headbands worn by men, women, a young man and a boy; earrings on a young man in a guanaco cloak; ankle bands, uncertainly identified, on a chief; and necklaces — two of them worn at once by a woman in a head-and-shoulders portrait, one by a boy. The sources used name no jewellery types, materials or ritual functions, and record no tattooing, body painting or hair practice.
 
-## Music & performance
-
-The sources used do not cover Tehuelche instruments, song genres or musical performance contexts.
-
-## Dance & theatre
-
-The sources used do not cover Tehuelche dance or dramatic traditions.
-
 ## Festivals & rituals
 
-No annual festival calendar appears in the sources used. What they document is ritual life without an institutional frame: like other peoples without a state structure, the Tehuelche had no organised religious system with a liturgy and a vertical hierarchy, but held a body of belief in their own myths and rites, narrated and renewed by shamans who also practised medicine with the help of spirits invoked within themselves. Earth spirits were many, and above them stood a supreme being who made the world and does not intervene in it. Evil spirits called *guarichos* were part of the same world, and *Gualichu* is named as an evil spirit of the mythology. The one life-cycle rite the sources describe is marriage, and they describe it as a transaction within a strongly ordered family unit in which men held authority and women were subordinate: a father would offer his daughter in marriage in exchange for goods, and a man could have two or three wives according to his standing. The sources used do not cover birth, coming-of-age or funerary rites. Among sacred places, Mount Fitz Roy is named as one of the sites held sacred by groups who moved up to the central Patagonian plateaus or into the Andes in summer.
+No annual festival calendar appears in the sources used. What they document is ritual life without an institutional frame: like other peoples without a state structure, the Tehuelche had no organised religious system with a liturgy and a vertical hierarchy, but held a body of belief in their own myths and rites, narrated and renewed by shamans who also practised medicine with the help of spirits invoked within themselves. Earth spirits were many, and above them stood a supreme being who made the world and does not intervene in it. Evil spirits called *guarichos* were part of the same world, and *Gualichu* is named as an evil spirit of the mythology. The one life-cycle rite the sources describe is marriage, and they describe it as a transaction within a strongly ordered family unit in which men held authority and women were subordinate: a father would offer his daughter in marriage in exchange for goods, and a man could have two or three wives according to his standing. Among sacred places, Mount Fitz Roy is named as one of the sites held sacred by groups who moved up to the central Patagonian plateaus or into the Andes in summer.
 
 ## Foodways
 

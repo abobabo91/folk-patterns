@@ -40,8 +40,6 @@ Carved figures show strip-textile aprons at the waist, and masks reveal elaborat
 
 ### Architecture
 
-The sources do not describe traditional Mano houses or buildings.
-
 - **Ganta United Mission** — Founded by American missionary Dr. George Way Harley, it grew into schools, hospital, and colleges including the Winifred J. Harley School of Nursing.
 
 ### Ceramics, metalwork & everyday objects
@@ -130,4 +128,3 @@ Mano is a heavily tonal Mande language written in Latin orthography; worship of 
 - British Museum online collection (the spear, vessel, mancala board, combs, bracelets, masks, figures, Janus heads and mat shown here, registered 1954) — https://www.britishmuseum.org/collection
 - UNESCO Intangible Cultural Heritage, Liberia — no elements are inscribed for this country
 - Smithsonian Folkways search — https://folkways.si.edu/search?query=Liberia
-

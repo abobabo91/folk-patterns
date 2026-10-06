@@ -11,19 +11,13 @@ The Murle are a Surmic ethnic group inhabiting Pibor County and the Boma area in
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The supplied sources do not document named Murle textile or pattern traditions.
-
-**Motif vocabulary.** The supplied sources do not name Murle textile motifs.
-
 ### Clothing & dress
 
-The supplied sources do not describe everyday or ceremonial Murle clothing in general. A British Museum catalogue records a woman’s apron ornament made from hide and decorated with short strings of round black seeds, light brown berries, and sections of small round white shells. It also records a waist belt made from a strip of hide with white cowrie shells sewn on one side. No named garment, head covering, footwear, or male dress tradition is described in the supplied sources.
+A British Museum catalogue records a woman’s apron ornament made from hide and decorated with short strings of round black seeds, light brown berries, and sections of small round white shells. It also records a waist belt made from a strip of hide with white cowrie shells sewn on one side.
 
 ### Architecture
 
-The supplied sources do not describe Murle houses, huts, shelters, roofs, building materials, settlement plans, or architectural decoration. Arensen’s *Sticks and straw: Comparative house forms in southern Sudan and northern Kenya* is listed among the references, but its contents are not supplied here.
+Arensen’s *Sticks and straw: Comparative house forms in southern Sudan and northern Kenya* is listed among the references, but its contents are not supplied here.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -31,27 +25,27 @@ The museum catalogue records several wooden objects associated with the displaye
 
 ### Jewelry & body adornment
 
-The British Museum records several women’s lower-lip ornaments. They are made of earthenware pricked with circles and lines, wood, ivory, or rhinoceros horn. The catalogue includes a wooden lip ornament, a lip ornament made of ivory, and several ornaments identified as made of rhinoceros horn or possibly rhinoceros horn. The supplied sources do not explain the ornaments’ names, meanings, ritual functions, or relation to age, marriage, or status. No tattooing, henna, or hair practice is documented.
+The British Museum records several women’s lower-lip ornaments. They are made of earthenware pricked with circles and lines, wood, ivory, or rhinoceros horn. The catalogue includes a wooden lip ornament, a lip ornament made of ivory, and several ornaments identified as made of rhinoceros horn or possibly rhinoceros horn. No tattooing, henna, or hair practice is documented.
 
 ## Music & performance
 
 Murle oral traditions are preserved in songs and myths. One song recalls the creation of Murle humanity at *Jen*, while another version connects the first union between spirit and woman with the birth of Murimaan. The sources also state that a song about creation was still performed at the time of the account. Murle songs and myths describe *Jen* as a mythical Eden and associate it with the arrival of the ancestors, black cattle, and sweet tobacco.
 
-The supplied sources do not name Murle instruments, musical genres, dances performed with music, or performance institutions. They do record that the rat has a ceremonial association with Murle funerary rites, particularly the deaths of Kelenya chiefs and their senior wives. No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
+The sources record that the rat has a ceremonial association with Murle funerary rites, particularly the deaths of Kelenya chiefs and their senior wives. No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
 
 ## Dance & theatre
 
-The supplied sources do not describe named Murle dances, theatrical traditions, mask performances, shadow theatre, or entertainment genres. They mention songs and myths, including creation narratives and stories concerning Murimaan, Jen, Manidherbo, the Pleiades, and the Etiwur stories about the discovery of animals.
+The sources mention songs and myths, including creation narratives and stories concerning Murimaan, Jen, Manidherbo, the Pleiades, and the Etiwur stories about the discovery of animals.
 
 ## Festivals & rituals
 
-The supplied sources do not identify an annual Murle festival calendar or provide dates for seasonal celebrations. They describe several ritual and religious associations. In Murle cosmology, *Jen* is venerated as a sacred point of origin and symbolizes the East, the source of life, rainfall, and ancestral memory. The rat has an enduring ceremonial association with funerary rites involving Kelenya chiefs and their senior wives.
+The sources describe several ritual and religious associations. In Murle cosmology, *Jen* is venerated as a sacred point of origin and symbolizes the East, the source of life, rainfall, and ancestral memory. The rat has an enduring ceremonial association with funerary rites involving Kelenya chiefs and their senior wives.
 
-Marriage is connected to bride wealth: men can marry only after paying several dozens of cows. The sources describe this system as a major factor in Murle social and economic life. They also state that Murle practice a blend of animism and Christianity, and that elders and witches often function as trouble fixers. The supplied sources do not describe initiation ceremonies, birth rites, wedding procedures, annual observances, or named funerals in detail.
+Marriage is connected to bride wealth: men can marry only after paying several dozens of cows. The sources describe this system as a major factor in Murle social and economic life. They also state that Murle practice a blend of animism and Christianity, and that elders and witches often function as trouble fixers.
 
 ## Foodways
 
-The supplied sources do not document named Murle dishes, staple grains, cooking methods, dietary rules, tea or coffee traditions, or ceremonial foods. They mention tobacco in Murle creation traditions, including a verse describing tobacco at *Jen* as sweet like cattle. The sources also describe pastoral dependence on cattle and note localized shortages of rain, drinking water, bush fruits, and cattle grass. No further food preparation or cuisine is covered by the supplied sources.
+The sources mention tobacco in Murle creation traditions, including a verse describing tobacco at *Jen* as sweet like cattle. The sources also describe pastoral dependence on cattle and note localized shortages of rain, drinking water, bush fruits, and cattle grass. No further food preparation or cuisine is covered by the supplied sources.
 
 ## Oral tradition & literature
 

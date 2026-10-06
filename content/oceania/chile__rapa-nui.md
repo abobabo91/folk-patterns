@@ -37,7 +37,7 @@ Rapa Nui arts include feather headdresses, bark cloth, plaited bags, and carving
 
 The sources give little information about clothing but describe feather headdresses and traditional tattooing.
 
-- **Feather headdress** — Feather headdresses were historically made by the Rapa Nui, but the sources do not describe their form or patterns.
+- **Feather headdress** — Feather headdresses were historically made by the Rapa Nui.
 - **Tattoo comb** (*Uhi*) — Uhi were combs made from bird or fish bones and used in tattooing.
 - **Ti leaf ink** (*Ti*) — Ti leaves were burned to help make tattoo ink.
 
@@ -64,7 +64,7 @@ The sources do not describe ceramics or metalwork, but they record stone tools, 
 Tattoos were spiritual signs of strength and social class, while body painting and wooden gorgets were also recorded.
 
 - **Spiritual power** (*mana*) — Tattoos could be seen as a receptor for divine strength or mana.
-- **Wooden gorget** (*rei miro*) — A rei miro is a wooden gorget, but the sources do not explain its use or social meaning.
+- **Wooden gorget** (*rei miro*) — A rei miro is a wooden gorget.
 - **Tattoo designs** — Traditional tattoo designs combined human-like and animal-like images.
 
 ## Music & performance
@@ -158,4 +158,3 @@ Rapa Nui is an Eastern Polynesian language, while traditional beliefs include cr
 - [Rapa Nui mythology](https://en.wikipedia.org/wiki/Rapa_Nui_mythology)
 - [Rapa Nui language](https://en.wikipedia.org/wiki/Rapa_Nui_language)
 - [Rapa Nui cuisine](https://en.wikipedia.org/wiki/Rapa_Nui_cuisine)
-

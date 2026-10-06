@@ -13,8 +13,6 @@ The Bamun are a people of Cameroon’s highlands. Their language is known as Bam
 
 ### Textile & pattern traditions
 
-The sources used do not document named Bamun textile or pattern traditions.
-
 **Palm-wine bottle** — A museum catalogue records a palm-wine bottle with bead mosaic.
 
 **Woven bag** — A British Museum catalogue records a bag woven of raffia or sisal. It is made from a rectangular piece of beige fibre folded and sewn at the sides, with striped fringe, green X-shaped decoration, and a braided brown-fibre handle with tassels.
@@ -31,11 +29,7 @@ The sources used do not document named Bamun textile or pattern traditions.
 
 ### Clothing & dress
 
-The sources used do not document Bamun everyday or ceremonial dress, garment names, head coverings, footwear, or distinctions between men’s and women’s clothing. One Museum of Ethnography catalogue entry is titled “Bamun; folk types” and describes men and horses in Fumban, but it does not provide further information about dress.
-
-### Architecture
-
-The sources used do not describe Bamun houses, roofs, building materials, palace architecture, courtyards, workshops, carved doors, pillars, or urban traditions.
+One Museum of Ethnography catalogue entry is titled “Bamun; folk types” and describes men and horses in Fumban.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,35 +37,31 @@ The museum catalogues document metalwork and household objects. These include ca
 
 ### Jewelry & body adornment
 
-The sources used do not document Bamun jewelry, bodily ornament, tattoos, henna, hair practices, or ritual functions of adornment. They record a cast brass hip mask and a pendant-mask, but do not describe these objects as jewelry or explain their use.
+The sources record a cast brass hip mask and a pendant-mask.
 
 ## Music & performance
 
 Bamum has four or five tones and distinguishes between lexical and grammatical tone. Cameroonian musician Claude Ndam was a native speaker of Bamum and sang in the language. A museum catalogue records a brass figure of a man with a xylophone and several smoking-pipes, including one with a bowl shaped like an elephant head and another with a bowl representing two human heads flanked by two crocodiles.
 
-The sources used do not identify Bamun musical instruments apart from the xylophone represented by the catalogue figure. They do not describe song genres, ensembles, musical scales, performance settings, court music, ceremonies, weddings, funerals, or festivals.
-
 ## Dance & theatre
 
-A British Museum register records a wooden dance mask. The sources do not name a Bamun dance, dramatic tradition, theatre form, mask-dance context, performance sequence, or distinction between ceremonial and entertainment use.
+A British Museum register records a wooden dance mask.
 
 ## Festivals & rituals
 
-The sources used do not document a Bamun annual festival calendar, seasonal celebration, life-cycle rite, wedding, funeral, initiation, birth ceremony, or ritual observance. The museum records describe objects, but do not provide ritual contexts for them.
+The museum records describe objects.
 
 ## Foodways
 
-The sources used do not describe Bamun staple foods, dishes, cooking methods, dietary rules, ceremonial foods, or tea and coffee traditions. One museum catalogue records a palm-wine bottle with bead mosaic, but does not explain the production, serving, or social use of palm wine.
+One museum catalogue records a palm-wine bottle with bead mosaic.
 
 ## Oral tradition & literature
 
-The sources used do not document Bamun folktales, epics, proverbs, riddles, oral genres, storytelling contexts, or literary works. The Bamum language is described as having an original script developed by King Njoya and his palace circle in the Kingdom of Bamum around 1895. The sources do not provide texts written in the script or describe contemporary literary preservation.
+The Bamum language is described as having an original script developed by King Njoya and his palace circle in the Kingdom of Bamum around 1895.
 
 ## Language & religion
 
 Bamum, also called *Shü Pamom*, *Shümom*, Shupamem, Bamun, or Bamoun, is an Eastern Grassfields language of Cameroon. It has tone, vowel length, diphthongs, and coda consonants. The language has four or five tones; one analysis includes a mid tone, while another includes downstep. Bamum distinguishes between lexical and grammatical tone. Its original script was developed by King Njoya and his palace circle in the Kingdom of Bamum around 1895.
-
-The sources used do not describe Bamun dialects, religious affiliation, religious institutions, syncretism, spiritual practices, or relations between language and religion.
 
 ## Sources & further reading
 

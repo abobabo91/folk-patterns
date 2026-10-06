@@ -31,11 +31,7 @@ The Abelam are a people of East Sepik Province in Papua New Guinea. They live in
 
 ### Clothing & dress
 
-The sources do not provide a general account of everyday clothing, footwear, belts, or distinctions between men’s and women’s dress. Museum catalogues do record adornments and carrying equipment. A net bag from Wosera has a carrying band that serves as a headband. A hair ornament from Malmba consists of a long, narrow plate of light wood with feathers inserted into it. A comb from Niamingum has five pointed wooden pins held together at the top by plaiting, with feathers inserted on one side. A necklace from Malmba consists of kauri shells strung on a cord. The *karawut* is associated with dancing and can be worn on the back or carried in the mouth. A yam mask from the Maprik district is described as having adorned large yam tubers during harvest ceremonies, according to information supplied by its seller.
-
-### Architecture
-
-The sources used do not describe Abelam houses, ceremonial buildings, roofs, construction materials, settlement forms, or architectural decoration.
+Museum catalogues do record adornments and carrying equipment. A net bag from Wosera has a carrying band that serves as a headband. A hair ornament from Malmba consists of a long, narrow plate of light wood with feathers inserted into it. A comb from Niamingum has five pointed wooden pins held together at the top by plaiting, with feathers inserted on one side. A necklace from Malmba consists of kauri shells strung on a cord. The *karawut* is associated with dancing and can be worn on the back or carried in the mouth. A yam mask from the Maprik district is described as having adorned large yam tubers during harvest ceremonies, according to information supplied by its seller.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,37 +39,37 @@ The catalogued objects include a dark-brown bone dagger with incised ornament an
 
 ### Jewelry & body adornment
 
-The catalogues record a necklace from Malmba made of kauri shells strung on a cord. A hair ornament from probably Malmba is a narrow light-wood plate into which feathers are inserted. The Niamingum comb has five pointed wooden pins, feather decoration, and a braided upper part. A net bag from Wosera has a carrying band used as a headband. British Museum records also describe a *karawut* decorated with rows of cut nassa shells and boar’s tusks, with red, black, and yellow pigment. The sources do not describe tattoos, hair practices beyond these ornaments, or other body-modification practices.
+The catalogues record a necklace from Malmba made of kauri shells strung on a cord. A hair ornament from probably Malmba is a narrow light-wood plate into which feathers are inserted. The Niamingum comb has five pointed wooden pins, feather decoration, and a braided upper part. A net bag from Wosera has a carrying band used as a headband. British Museum records also describe a *karawut* decorated with rows of cut nassa shells and boar’s tusks, with red, black, and yellow pigment.
 
 ## Music & performance
 
-The museum catalogue records a flute from Maundu made from a coconut shell with two round holes: one near a pointed end and another on the side. The shell is decorated on the outside with incisions, including a zigzag pattern. It is a vessel flute and can also be used as an edge flute by blowing against either opening. The sources do not name a musical genre, repertory, song form, or ensemble.
+The museum catalogue records a flute from Maundu made from a coconut shell with two round holes: one near a pointed end and another on the side. The shell is decorated on the outside with incisions, including a zigzag pattern. It is a vessel flute and can also be used as an edge flute by blowing against either opening.
 
-Performance is represented through objects connected with dancing and yam ceremonies. The *karawut* is an ornament worn on the back or carried in the mouth when dancing. Its stylised human form, attached shells, and boar’s tusks are part of its described appearance. British Museum records also identify basketry masks as men’s yam ceremony masks and identify another fibre mask as a yam cult mask. The sources do not provide information about performers, instruments used together, musical occasions beyond these references, or the social organisation of performances.
+Performance is represented through objects connected with dancing and yam ceremonies. The *karawut* is an ornament worn on the back or carried in the mouth when dancing. Its stylised human form, attached shells, and boar’s tusks are part of its described appearance. British Museum records also identify basketry masks as men’s yam ceremony masks and identify another fibre mask as a yam cult mask.
 
 ## Dance & theatre
 
-The sources mention dancing through the *karawut*, an ornament worn on the back or carried in the mouth when dancing. They also document masks connected with yam ceremonies, including basketry masks, a rattan mask, and a yam cult mask made of vegetable fibre. The catalogue descriptions record their materials, pigments, forms, and attachments but do not describe choreographies, named dances, theatrical narratives, or distinctions between ceremonial and entertainment performance.
+The sources mention dancing through the *karawut*, an ornament worn on the back or carried in the mouth when dancing. They also document masks connected with yam ceremonies, including basketry masks, a rattan mask, and a yam cult mask made of vegetable fibre. The catalogue descriptions record their materials, pigments, forms, and attachments.
 
 ## Festivals & rituals
 
 Yam growing forms a large part of Abelam society. Large yams can reach 80-90 inches, or 2.3 m, in length, and the growing of large yams determines the status of individuals and whole villages. At yam festivals, an individual gives his largest yam to his worst enemy, who is then obligated to grow an even larger yam or experience a fall in status in each year when this is not achieved. Separate villages gather at yam festivals, where the host village’s status is determined by the size of its yams and by its ability to provide more food than the rival village can eat and carry away.
 
-During the yam-growing season, strong emotions are kept to a minimum because they are thought to impede yam growth. Fighting and sexual activity are taboo, and the yams are thought to have a spirit capable of sensing strong emotions. Museum records identify several masks as men’s yam ceremony masks or yam cult masks. The sources do not provide dates, a full annual calendar, or life-cycle rites such as birth, marriage, or funerals.
+During the yam-growing season, strong emotions are kept to a minimum because they are thought to impede yam growth. Fighting and sexual activity are taboo, and the yams are thought to have a spirit capable of sensing strong emotions. Museum records identify several masks as men’s yam ceremony masks or yam cult masks.
 
 ## Foodways
 
-The main Abelam food crops are yams, taro, bananas, and sweet potatoes. These crops are supplemented by food gathered from the tropical rainforest, pigs and chickens raised domestically, and hunted small marsupials and cassowaries. The sources describe villages at yam festivals providing more food than a rival village could eat and carry away. They do not name particular dishes, cooking methods, beverages, dietary rules, or food-related religious restrictions.
+The main Abelam food crops are yams, taro, bananas, and sweet potatoes. These crops are supplemented by food gathered from the tropical rainforest, pigs and chickens raised domestically, and hunted small marsupials and cassowaries. The sources describe villages at yam festivals providing more food than a rival village could eat and carry away.
 
 ## Oral tradition & literature
 
-The sources used do not describe Abelam folktales, epics, proverbs, riddles, storytelling contexts, written literature, or preservation projects. The Abelam language source gives information about word formation, including reduplication, compound stems, and derivational stems, but it does not present oral narratives or literary genres.
+The Abelam language source gives information about word formation, including reduplication, compound stems, and derivational stems, but it does not present oral narratives or literary genres.
 
 ## Language & religion
 
 Ambulas, also called Abelam or Abulas, is a member of the Ndu languages of the Sepik River region of northern Papua New Guinea. The source identifies the dialects as Maprik, Wingei, Wosera-Kamu, and Wosera-Mamu. Most words in Ambulas are roots, although some word-stems are reduplicated, compounded, or derived. Compound stems occur in nouns, including temporal nouns and quantifiers, and in verbs. Adjective stems can be formed by adding suffixes such as *-mama*, meaning “possessing much,” to noun roots or noun stems.
 
-The sources do not describe current religious affiliation, religious institutions, historical scripts, or a complete Abelam spiritual system. They do state that yams are thought to have a spirit and can sense strong emotions during the yam-growing season. Museum records also use the terms yam cult mask and yam ceremony mask.
+The sources state that yams are thought to have a spirit and can sense strong emotions during the yam-growing season. Museum records also use the terms yam cult mask and yam ceremony mask.
 
 ## Sources & further reading
 

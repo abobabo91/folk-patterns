@@ -39,10 +39,6 @@ The profile gives little information about everyday clothing but records shell n
 - **Bound pig tusk nose ornament** — Two bound pig tusks are used as nose ornaments.
 - **Shell necklace** — A shell necklace is usually worn by men and sometimes by women.
 
-### Architecture
-
-The sources do not describe Dani houses, buildings, roofs, or settlement layout.
-
 ### Ceramics, metalwork & everyday objects
 
 The records contain no ceramics or metalwork but describe several stone tools and axe blades.
@@ -141,4 +137,3 @@ The Dani languages have several regional groupings and use two basic colour term
 - The supplied sources identify no UNESCO Intangible Cultural Heritage inscription for this ethnic group.
 - Museum of World Culture and Museum of Ethnography catalogue records supplied for the objects shown.
 - British Museum catalogue records supplied for bags and shell-decorated rope.
-

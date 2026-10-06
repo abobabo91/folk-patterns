@@ -11,13 +11,9 @@ The Caddo people, also called *Hasí꞉nay* in the Caddo language, comprise the 
 
 ## Material culture
 
-### Textile & pattern traditions
-
-The sources used do not document Caddo textile or pattern traditions.
-
 ### Clothing & dress
 
-The Caddo sources describe clothing production as part of women’s material work but do not identify named garments, weaving traditions, footwear, or head coverings. A Caddo woman named Zacado is said to have instructed the tribe in making clothing. The Caddo also practiced body ornamentation. Men favored painted skin, jewelry, pierced ears, and hair decorations such as braids adorned with bird feathers or animal fur. Women wore some jewelry and styled their hair similarly to men, while tattooing was especially associated with women and could cover most of the body, including the face.
+The Caddo sources describe clothing production as part of women’s material work. A Caddo woman named Zacado is said to have instructed the tribe in making clothing. The Caddo also practiced body ornamentation. Men favored painted skin, jewelry, pierced ears, and hair decorations such as braids adorned with bird feathers or animal fur. Women wore some jewelry and styled their hair similarly to men, while tattooing was especially associated with women and could cover most of the body, including the face.
 
 Museum records show studio portraits of Caddo chiefs wearing western-style three-piece suits. Little Boy, also identified as Show-e-tat, is shown with a beaded waistband and metal ear ornaments. White Deer is shown with metal ear ornaments, while Warloupe, also identified as Nah-ah-sa-nah, is shown in a western-style three-piece suit.
 
@@ -25,7 +21,7 @@ Museum records show studio portraits of Caddo chiefs wearing western-style three
 
 Caddo settlements included villages, hamlets, and farmsteads distributed throughout the Caddo world. Leaders directed the construction of platform mounds, which served as temple mounds and platforms for residences of the elite. These flat-topped earthworks were arranged around leveled, large, open plazas that were usually kept swept clean and were often used for ceremonial occasions.
 
-The Caddo lived mainly in the Piney Woods, a region of rolling hills, steep river valleys, and intermittent wetlands called “bayous.” The sources do not describe the form, materials, or roofs of ordinary Caddo dwellings.
+The Caddo lived mainly in the Piney Woods, a region of rolling hills, steep river valleys, and intermittent wetlands called “bayous.”
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,17 +33,17 @@ The Caddo also used handcrafted bows and arrows for hunting. An old Caddo man ca
 
 Caddo body adornment included painted skin, jewelry, pierced ears, hair decorations, braids, bird feathers, and animal fur. Men are specifically described as favoring body modifications and ornamentation, while women used tattooing extensively. Tattoos could cover most of the body, including the face.
 
-The museum portraits of Little Boy, White Deer, and Warloupe document metal ear ornaments, and Little Boy is additionally shown with a beaded waistband. The sources do not provide named jewelry types or describe the manufacture or ritual functions of these ornaments.
+The museum portraits of Little Boy, White Deer, and Warloupe document metal ear ornaments, and Little Boy is additionally shown with a beaded waistband.
 
 ## Music & performance
 
-Caddo culture includes songs and dances taught and performed by the Hasinai Society and the Caddo Culture Club. These organizations support the continuation of Caddo culture and its transmission to younger generations. The sources do not give specific names for the songs or dances, describe their musical structures, or identify a complete instrument tradition.
+Caddo culture includes songs and dances taught and performed by the Hasinai Society and the Caddo Culture Club. These organizations support the continuation of Caddo culture and its transmission to younger generations.
 
 The creation story assigns continuing religious importance to a drum, a pipe, and fire. Tobacco was cultivated and used ceremonially. Caddo religious life developed a cycle of ceremonies around important periods of seasonal corn cultivation. In the late 19th century, the Caddo adopted the Ghost Dance religion, which practitioners believed would help restore traditional ways and halt European-American intrusions. John Wilson, a Caddo/Delaware medicine man who spoke only Caddo, became an influential Ghost Dance leader. In 1880 he became a peyote roadman and introduced the Big Moon ceremony, while the tribe already knew the Half Moon peyote ceremony. The Caddo Nation remains active in the Native American Church.
 
 ## Dance & theatre
 
-The Hasinai Society and Caddo Culture Club teach and perform Caddo songs and dances as part of cultural preservation. The Ghost Dance was practiced by Caddo people in the late 19th century and was associated with hopes of returning to traditional ways and stopping European-American intrusions. The sources do not identify named Caddo dances beyond the Ghost Dance, nor do they describe theatrical, masked, or dramatic traditions.
+The Hasinai Society and Caddo Culture Club teach and perform Caddo songs and dances as part of cultural preservation. The Ghost Dance was practiced by Caddo people in the late 19th century and was associated with hopes of returning to traditional ways and stopping European-American intrusions.
 
 ## Festivals & rituals
 
@@ -55,7 +51,7 @@ Caddo religious practice centers on Kadhi háyuh, translated as “Leader Above�
 
 The Caddo creation story says that the people emerged from a cave called *Chahkanina*, or “the place of crying,” at the confluence of the Red River of the South and the Mississippi River in northern present-day Louisiana. Their leader, Moon, instructed them not to look back. An old man carried a drum, a pipe, and fire, while his wife carried corn and pumpkin seeds. The wolf looked back, and the exit from the underground closed to those remaining below.
 
-Tobacco was used ceremonially, and early priests drank a purifying sacrament made from wild olive leaves. The sources do not describe Caddo weddings, funerals, initiations, annual festivals with fixed dates, or other life-cycle ceremonies.
+Tobacco was used ceremonially, and early priests drank a purifying sacrament made from wild olive leaves.
 
 ## Foodways
 
@@ -63,13 +59,13 @@ Caddo foodways were based on cultivated crops, hunting, gathering, and seasonal 
 
 The Caddo were farmers, and by 1200 their villages, hamlets, and farmsteads had developed extensive maize agriculture. Agricultural surpluses supported denser settlement, while artisans and craftsmen developed specialized skills. Elderly women planted and cultivated the seeds for the seasonal crop, and younger and healthy women gathered fruits, seeds, and vegetables during warm seasons.
 
-The sources do not identify named Caddo dishes, recipes, cooking methods, beverages, dietary rules, or food served at particular ceremonies. Tobacco was cultivated and used ceremonially, and wild olive leaves were used in a purifying sacrament drink by early priests.
+Tobacco was cultivated and used ceremonially, and wild olive leaves were used in a purifying sacrament drink by early priests.
 
 ## Oral tradition & literature
 
 Caddo oral history preserves a creation account centered on emergence from *Chahkanina*, the “place of crying,” at the confluence of the Red River of the South and the Mississippi River. The story includes Moon, the wolf that looked back, the drum, pipe, fire, corn, and pumpkin seeds. It also recounts the westward movement of the Caddo along the Red River, called *Bah'hatteno* in Caddo, and the teachings of Zacado concerning hunting, fishing, dwellings, and clothing.
 
-Caddoan oral traditions are described as an important part of Caddo culture. The Kiwat Hasí꞉nay foundation worked to record and digitally archive them, while the Caddo Nation Language Preservation Program, launched in August 2022, sought to archive resources, share them through community events and programs, and develop a curriculum. The sources do not identify a Caddo epic, proverb collection, riddle tradition, or named literary genre.
+Caddoan oral traditions are described as an important part of Caddo culture. The Kiwat Hasí꞉nay foundation worked to record and digitally archive them, while the Caddo Nation Language Preservation Program, launched in August 2022, sought to archive resources, share them through community events and programs, and develop a curriculum.
 
 ## Language & religion
 

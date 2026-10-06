@@ -23,10 +23,6 @@ The Balanta are the second largest ethnic group in Guinea-Bissau. Their social l
 
 Balanta material culture includes ceremonial clothing, pottery, palm-leaf and fibre objects, wooden objects and farming tools.
 
-### Textile & pattern traditions
-
-The supplied sources do not document Balanta textile traditions or named patterns.
-
 ### Clothing & dress
 
 Ceremonial clothing is especially linked to Fanado initiation.
@@ -53,8 +49,6 @@ Balanta everyday objects include pottery, palm-leaf tools, fibre baskets and a r
 - **Soil-preparing tool** (*kebinde*) — The kebinde is an agricultural tool used to prepare soil for planting, usually rice.
 
 ### Jewelry & body adornment
-
-The sources do not document Balanta jewelry or named adornment traditions.
 
 - **Fibre arm-bands** — Men’s arm-bands are made from vegetable fibre and wood saplings, but their ritual use is not described.
 
@@ -145,4 +139,3 @@ Balanta life combines related Bak languages with indigenous spiritual customs, I
 - [Balanta language](https://en.wikipedia.org/wiki/Balanta_language)
 - No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.
 - British Museum catalogue records supplied for the objects shown.
-

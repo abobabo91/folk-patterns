@@ -61,7 +61,7 @@ The sources used for this profile contain no folktales, epic cycles, proverbs or
 
 ## Language & religion
 
-The sources used for this profile give no information about the Wichí language or its classification, and none about religion or spiritual practice. The only linguistic material in the records is the set of names under which the objects were accessioned — *Wichí*, *Mataco* and *Mataco-Vejos* — and the fibre name *caraguata*, used for the plant whose fibre the bags are twined from.
+The only linguistic material in the records is the set of names under which the objects were accessioned — *Wichí*, *Mataco* and *Mataco-Vejos* — and the fibre name *caraguata*, used for the plant whose fibre the bags are twined from.
 
 ## Sources & further reading
 

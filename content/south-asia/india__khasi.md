@@ -63,14 +63,10 @@ Ceremonial Khasi adornment includes crowns and ornamental waist-bands.
 
 ## Music & performance
 
-The profile names a Khasi folk singer and the Shillong Chamber Choir but does not describe their music.
+The profile names a Khasi folk singer and the Shillong Chamber Choir.
 
 - **Khasi folk singer** — Skendrowell Syiemlieh is identified as a Khasi folk singer.
 - **Choir** — The Shillong Chamber Choir is identified, but its repertoire and performance practice are not described.
-
-## Dance & theatre
-
-The sources do not cover Khasi dances, theatre, dramatic traditions, mask performances, or named entertainment forms.
 
 ## Festivals & rituals
 
@@ -139,4 +135,3 @@ Khasi is a matrilineal society’s Austroasiatic language, and its indigenous re
 - Khasi language: https://en.wikipedia.org/wiki/Khasi_language
 - UNESCO Intangible Cultural Heritage: the supplied sources identify no UNESCO ICH inscriptions for India concerning the Khasi.
 - British Museum collections: https://www.britishmuseum.org/collection
-

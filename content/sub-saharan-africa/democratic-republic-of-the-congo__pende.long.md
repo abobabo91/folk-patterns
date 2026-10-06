@@ -40,7 +40,7 @@ Small mask pendants are another kind of bodily display. The Met distinguishes wo
 
 ### Architecture
 
-The consulted museum and historical sources do not establish a distinctive Pende building type, house plan or decorative architectural tradition. They identify communities and ceremonial settings, but the objects selected for this atlas give too little evidence for a detailed architectural account. Carved figures and stools in collections should not be presented as doorposts or building panels without a record that identifies that use.
+The sources identify communities and ceremonial settings, but the objects selected for this atlas give too little evidence for a detailed architectural account. Carved figures and stools in collections should not be presented as doorposts or building panels without a record that identifies that use.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -78,7 +78,7 @@ The sources used for this profile do not document a distinct Pende dish, recipe 
 
 ## Oral tradition & literature
 
-Museum descriptions preserve interpretations of mask characters and of their performances. The Smithsonian reports that Pende people connect the giwoyo masking tradition with an Angolan origin. The Met records how masks and pendants took on new political meaning in the wake of the 1931 revolt. These are examples of historical memory carried by objects and performance, though the sources do not provide the words of a Pende song, story cycle or epic for this profile.
+Museum descriptions preserve interpretations of mask characters and of their performances. The Smithsonian reports that Pende people connect the giwoyo masking tradition with an Angolan origin. The Met records how masks and pendants took on new political meaning in the wake of the 1931 revolt. These are examples of historical memory carried by objects and performance.
 
 The Pende people's oral histories, contemporary literature and locally named genres need documentation from speakers and communities. The selected objects alone cannot supply a complete account.
 

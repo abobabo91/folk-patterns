@@ -29,11 +29,7 @@ Barkcloth also served as bedding and for wrapping goods. Museum records include 
 
 The traditional dress of Baganda women is the Gomesi, while the Kanzu is the traditional dress of Baganda men. Barkcloth, or Lubugo, is the traditional fabric and is made from the bark of the Mutuba tree. Historical descriptions state that Baganda covered the body from head to toe and regarded nudity as disgusting and shameful. Bark cloaks could resemble yellow corduroy cloth and were carefully made, crimped, and set as though stiffened with starch.
 
-Museum records add garments made of goat skin, composed of several pieces sewn together and pierced with small holes around the edges, as well as a robe made from white gazelle skin. Recorded adornments include a headband of fibre and red, white, and blue glass beads, and a waist belt made of fibrous material covered with small blackened wooden rings. The sources do not describe footwear or a separate everyday dress tradition.
-
-### Architecture
-
-The sources used do not describe Baganda houses, architectural forms, roofing, decoration, or named building types.
+Museum records add garments made of goat skin, composed of several pieces sewn together and pierced with small holes around the edges, as well as a robe made from white gazelle skin. Recorded adornments include a headband of fibre and red, white, and blue glass beads, and a waist belt made of fibrous material covered with small blackened wooden rings.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -57,11 +53,11 @@ The amadinda is a log xylophone with 12 wooden bars placed on two fresh banana s
 
 ## Dance & theatre
 
-The sources used do not describe named Baganda dances, theatrical genres, masked performances, or dramatic traditions. They state that dancing forms part of the twin-naming ceremony called okuzina abalongo.
+The sources state that dancing forms part of the twin-naming ceremony called okuzina abalongo.
 
 ## Festivals & rituals
 
-The sources do not describe an annual Baganda festival calendar or seasonal festivals. They do describe rites connected with naming, marriage, death, and the confirmation of twins.
+The sources describe rites connected with naming, marriage, death, and the confirmation of twins.
 
 In the former naming ceremony called okwalula abaana, a child was named and confirmed as a member of the clan. A saved piece of the child’s umbilical cord was used in confirming connection to the father. Twin-related names and titles include ssaalongo for the father of twins, nnaalongo for the mother, and particular surnames for older and younger twins. The naming and confirmation of twins is called okuzina abalongo and involves drinking, eating, obscene words, promiscuity, and dancing. Some participants may undergo a cleansing ceremony called okukansira.
 
@@ -71,13 +67,13 @@ Death rites include Okubika, the announcement of death; a communal wake; prepara
 
 ## Foodways
 
-The sources used do not describe Baganda staple foods, named dishes, cooking traditions, ceremonial meals, beverages, or dietary rules. They mention eating and drinking as parts of the twin-naming ceremony and record a wooden pestle and mortar used by a Ganda man for pounding grain.
+The sources mention eating and drinking as parts of the twin-naming ceremony and record a wooden pestle and mortar used by a Ganda man for pounding grain.
 
 ## Oral tradition & literature
 
 The Baganda creation myth identifies Kintu as the first man on earth and in Buganda. Kintu married Nnambi, the daughter of the god Ggulu, and the Baganda are described as the descendants of Kintu and Nnambi. Nnambi’s jealous brother Walumbe is responsible in the myth for human disease, sickness, and death. Kayikuuzi tried to protect humans from Walumbe and continues trying to capture him from the underground where he hides. On the basis of this myth, the Baganda are called abaana ba Nnambi, or Nnambi’s children.
 
-The sources also record a Ganda proverb: “He who makes you shed tears, you make him shed blood.” They describe clan traditions, mythological names, and songs whose titles refer to associated texts. The sources used do not describe a Baganda epic, riddle tradition, contemporary literary revival, or preservation project.
+The sources also record a Ganda proverb: “He who makes you shed tears, you make him shed blood.” They describe clan traditions, mythological names, and songs whose titles refer to associated texts.
 
 ## Language & religion
 

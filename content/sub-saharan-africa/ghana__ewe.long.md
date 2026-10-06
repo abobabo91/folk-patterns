@@ -31,19 +31,15 @@ The Ewe are a Gbe-speaking ethnic group located primarily in the coastal regions
 
 ### Clothing & dress
 
-The sources describe wrappers, cloths and wrap-around garments for men and women. Women’s wrappers include narrow strips of imported industrial cotton, hand-woven or machine-stitched strips, and weft-faced blocks in colours such as orange, yellow, turquoise, indigo, red and white. Men’s wrappers include Ewe kente and other strip-woven cloths with hand-sewn hems, supplementary weft patterns and fringes. A recorded man’s cloth was folded and sewn at the sides to form a crude sleeveless tunic, leaving openings for the head and arms. A photographic print shows an adult male wearing a cloth, shirt and wrist-ornament while holding a staff. The sources do not describe Ewe head coverings, belts, footwear, or a separate system of ceremonial dress.
-
-### Architecture
-
-The sources used do not cover Ewe house forms, building materials, roof types, architectural decoration, or named vernacular building traditions.
+The sources describe wrappers, cloths and wrap-around garments for men and women. Women’s wrappers include narrow strips of imported industrial cotton, hand-woven or machine-stitched strips, and weft-faced blocks in colours such as orange, yellow, turquoise, indigo, red and white. Men’s wrappers include Ewe kente and other strip-woven cloths with hand-sewn hems, supplementary weft patterns and fringes. A recorded man’s cloth was folded and sewn at the sides to form a crude sleeveless tunic, leaving openings for the head and arms. A photographic print shows an adult male wearing a cloth, shirt and wrist-ornament while holding a staff.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources used do not cover Ewe ceramics, pottery, metalwork, household vessels, agricultural tools, or other everyday objects in sufficient detail. They do mention wooden and metal components in musical instruments, including drums constructed with wooden staves and metal rings, and bells played with sticks.
+The sources mention wooden and metal components in musical instruments, including drums constructed with wooden staves and metal rings, and bells played with sticks.
 
 ### Jewelry & body adornment
 
-The sources used do not describe Ewe jewelry systems, body modification, tattooing, henna, hair practices, or named adornment types. A museum photographic record shows an adult male wearing a wrist-ornament, but it gives no further information about its material or function.
+A museum photographic record shows an adult male wearing a wrist-ornament, but it gives no further information about its material or function.
 
 ## Music & performance
 
@@ -73,11 +69,11 @@ The sources describe dances and music connected with war, hunting, funerals, shr
 
 The traditional Ewe religion is called Vodun. It holds Mawu as the creator God, who created lesser deities called *trɔwo*. The Ewe concept of *Si* describes a “spiritual marriage” between a deity and a faithful person. Ancestral spirits are important in the traditional religion and are shared by a clan. The cult of Yewe is associated with sacred music, and Yewe is described as the God of Thunder and lightning among Ewe-speaking people of Togo, Benin and the south-eastern parts of the Volta Region.
 
-The sources describe funerals, naming ceremonies and religious occasions, but do not provide a complete annual festival calendar or detailed accounts of coming-of-age or wedding rites. The Ewe language source states that a final name is given at a naming ceremony seven days after birth.
+The sources describe funerals, naming ceremonies and religious occasions. The Ewe language source states that a final name is given at a naming ceremony seven days after birth.
 
 ## Foodways
 
-The Ewe people flourished historically in cotton and rice farming, palm oil and copra production and exports. The sources therefore document rice, palm oil and copra as economic products, but they do not describe named dishes, cooking methods, staple-food combinations, ceremonial foods, beverages, dietary rules, or table customs.
+The Ewe people flourished historically in cotton and rice farming, palm oil and copra production and exports. The sources therefore document rice, palm oil and copra as economic products.
 
 ## Oral tradition & literature
 
