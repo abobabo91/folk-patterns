@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__wappo",
   "people_key": "Q2031854",
-  "count": 2,
+  "count": 5,
   "buckets": {
     "household": [
       {
@@ -12,13 +12,37 @@
         "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25271"
       },
       {
-        "id": "prm-object-147166",
-        "source": "prm",
-        "title": "Closely stitch-coiled round basket.",
-        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS404045_1884.0044.2.jpg",
-        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-147166"
+        "id": "6188",
+        "source": "peabody",
+        "title": "Beaded basket",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/46447/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/6188"
+      }
+    ],
+    "photo": [
+      {
+        "id": "536772",
+        "source": "peabody",
+        "title": "Strainer, from a collection through G. Nicholson",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/354047/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/536772"
+      },
+      {
+        "id": "536779",
+        "source": "peabody",
+        "title": "Beaded basket from the collection of G. Nicholson and C. Hartman",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/354054/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/536779"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "11225",
+      "source": "peabody",
+      "title": "Strainer",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/55627/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/11225"
+    }
+  ]
 }

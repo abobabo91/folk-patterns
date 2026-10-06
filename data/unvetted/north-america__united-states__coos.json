@@ -1,7 +1,40 @@
 {
   "ethnicity_key": "north-america__united-states__coos",
   "people_key": "Q2750650",
-  "count": 0,
-  "buckets": {},
+  "count": 4,
+  "buckets": {
+    "household": [
+      {
+        "id": "14658",
+        "source": "peabody",
+        "title": "Basket",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/74363/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/14658"
+      },
+      {
+        "id": "14660",
+        "source": "peabody",
+        "title": "Basket",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/116174/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/14660"
+      }
+    ],
+    "photo": [
+      {
+        "id": "536356",
+        "source": "peabody",
+        "title": "Photograph",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/351206/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/536356"
+      },
+      {
+        "id": "536357",
+        "source": "peabody",
+        "title": "Basket",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/351207/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/536357"
+      }
+    ]
+  },
   "other": []
 }

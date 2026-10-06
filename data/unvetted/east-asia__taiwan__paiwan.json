@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "east-asia__taiwan__paiwan",
   "people_key": "Q715238",
-  "count": 153,
+  "count": 159,
   "buckets": {
     "household": [
       {
@@ -255,6 +255,13 @@
         "title": "Cuiller",
         "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/087/87034.jpg&width=400&height=400&cache=yes",
         "object_url": "https://collections.quaibranly.fr/#/search?q=71.1986.42.11.1"
+      },
+      {
+        "id": "84258",
+        "source": "peabody",
+        "title": "Wooden comb, incised and carved decoration of trophy heads",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/181808/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/84258"
       }
     ],
     "garment": [
@@ -1082,6 +1089,38 @@
         "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/075/75977.jpg&width=400&height=400&cache=yes",
         "object_url": "https://collections.quaibranly.fr/#/search?q=71.1970.86.30"
       }
+    ],
+    "sculpture": [
+      {
+        "id": "78288",
+        "source": "peabody",
+        "title": "Carved wooden male figure",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/184211/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/78288"
+      },
+      {
+        "id": "78289",
+        "source": "peabody",
+        "title": "Carved wooden female figure",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/214196/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/78289"
+      },
+      {
+        "id": "78290",
+        "source": "peabody",
+        "title": "Carved wooden figure of a child",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/184212/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/78290"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "84259",
+        "source": "peabody",
+        "title": "Wooden staff decorated with heads, snakes, rifles and female figures",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/174142/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/84259"
+      }
     ]
   },
   "other": [
@@ -1091,6 +1130,13 @@
       "title": "Pièce de bois sculptée",
       "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/076/76003.jpg&width=400&height=400&cache=yes",
       "object_url": "https://collections.quaibranly.fr/#/search?q=71.1970.86.57"
+    },
+    {
+      "id": "84260",
+      "source": "peabody",
+      "title": "Carved tree trunk base; decoration of trophy heads and snakes;",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/130267/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/84260"
     }
   ]
 }

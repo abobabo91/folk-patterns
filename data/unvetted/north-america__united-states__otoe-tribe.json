@@ -1,8 +1,17 @@
 {
   "ethnicity_key": "north-america__united-states__otoe-tribe",
   "people_key": "Q1790907",
-  "count": 33,
+  "count": 50,
   "buckets": {
+    "household": [
+      {
+        "id": "7326",
+        "source": "peabody",
+        "title": "Wooden spoon",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/105335/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/7326"
+      }
+    ],
     "photo": [
       {
         "id": "EA_Am-A13-38",
@@ -31,20 +40,6 @@
         "title": "häst, män, fjäderskrud, fotografi, photograph",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2470173%2F0187.0022.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2470170"
-      },
-      {
-        "id": "prm-object-281954",
-        "source": "prm",
-        "title": "[Main entry see:B54.4a]\r\nFull-face half length portrait of Standing Rock. Wearing fur hat with single feather and beadwork roundals. Shell and abalone shell neck ornaments. Bear claw, shell and fur breast ornament. Holding hatchet-pipe with studded handle.",
-        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS55852_1998.0273.36.jpg",
-        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-281954"
-      },
-      {
-        "id": "prm-object-281955",
-        "source": "prm",
-        "title": "[Main entry see: B54.4b]\r\nFull-face half length portrait of Big Black Bear. Floral shirt and blanket. Feather? head ornament, ear ornaments, shell and beadwork neck ornaments. Bear claw, fur and shell breast ornament. Holding hatchet-pipe.",
-        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS55842_1998.0273.37.jpg",
-        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-281955"
       },
       {
         "id": "PP0023921",
@@ -234,6 +229,138 @@
         "title": "Baptiste Devoin and Tcha-Wan-Na-Ga-He. Dakota-Otoes",
         "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.12_03/PA000163_667_505.jpg&width=400&height=400&cache=yes",
         "object_url": "https://collections.quaibranly.fr/#/search?q=PA000163.505"
+      },
+      {
+        "id": "708725",
+        "source": "peabody",
+        "title": "Otoe interpreter sitting with his wives and children",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/579598/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/708725"
+      },
+      {
+        "id": "579404",
+        "source": "peabody",
+        "title": "Portrait of Lone Chief",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/461760/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/579404"
+      },
+      {
+        "id": "568318",
+        "source": "peabody",
+        "title": "Portrait of Old Eagle",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/461759/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/568318"
+      },
+      {
+        "id": "568320",
+        "source": "peabody",
+        "title": "Portrait of Standing Two",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/461761/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/568320"
+      },
+      {
+        "id": "568321",
+        "source": "peabody",
+        "title": "Wakonda",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/461762/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/568321"
+      },
+      {
+        "id": "568322",
+        "source": "peabody",
+        "title": "Wakonda, portrait",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/461763/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/568322"
+      },
+      {
+        "id": "477390",
+        "source": "peabody",
+        "title": "Drawing \"Mah-to-toh-pa, Mandan chief\" and \"Raw-no-way-who-krah, an Ottoe Indian\"",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/259820/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/477390"
+      },
+      {
+        "id": "475833",
+        "source": "peabody",
+        "title": "Snake skin",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/327167/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/475833"
+      },
+      {
+        "id": "595209",
+        "source": "peabody",
+        "title": "Snake skin",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/327168/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/595209"
+      },
+      {
+        "id": "550255",
+        "source": "peabody",
+        "title": "Otoe Chief",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/333892/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/550255"
+      },
+      {
+        "id": "550256",
+        "source": "peabody",
+        "title": "Otoe Chiefs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/333893/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/550256"
+      },
+      {
+        "id": "571604",
+        "source": "peabody",
+        "title": "Otoe chief",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/461764/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/571604"
+      },
+      {
+        "id": "571605",
+        "source": "peabody",
+        "title": "Studio portrait of five seated chiefs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/461765/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/571605"
+      }
+    ],
+    "garment": [
+      {
+        "id": "7698",
+        "source": "peabody",
+        "title": "Moccasin",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/431025/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/7698"
+      },
+      {
+        "id": "648560",
+        "source": "peabody",
+        "title": "Moccasin",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/431017/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/648560"
+      },
+      {
+        "id": "67746",
+        "source": "peabody",
+        "title": "Oto belt. Glass seed beads strung on a loom. Long yarn fringe on each end",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/111309/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/67746"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "7713",
+        "source": "peabody",
+        "title": "Warriors badge of rattlesnake skin",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/336837/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/7713"
+      }
+    ],
+    "textile": [
+      {
+        "id": "67499",
+        "source": "peabody",
+        "title": "Beaded Blanket Strip",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/98385/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/67499"
       }
     ]
   },

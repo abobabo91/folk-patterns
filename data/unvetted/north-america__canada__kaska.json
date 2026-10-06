@@ -1,7 +1,26 @@
 {
   "ethnicity_key": "north-america__canada__kaska",
   "people_key": "Q489924",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "household": [
+      {
+        "id": "13990",
+        "source": "peabody",
+        "title": "Small game bag",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/407855/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/13990"
+      }
+    ],
+    "photo": [
+      {
+        "id": "567511",
+        "source": "peabody",
+        "title": "Group of Liard Indians in front of wood cabin",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/436125/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/567511"
+      }
+    ]
+  },
   "other": []
 }

@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__mono",
   "people_key": "Q2983801",
-  "count": 6,
+  "count": 8,
   "buckets": {
     "household": [
       {
@@ -47,6 +47,22 @@
         "title": "Lerkärl, kärl",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1156609%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15269"
+      }
+    ],
+    "photo": [
+      {
+        "id": "595682",
+        "source": "peabody",
+        "title": "Storage Basket, Shoshonean (probably Mono), ca. 1900",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/328129/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/595682"
+      },
+      {
+        "id": "595683",
+        "source": "peabody",
+        "title": "Storage Basket, Shoshonean (probably Mono), ca. 1900",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/328130/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/595683"
       }
     ]
   },

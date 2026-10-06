@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__cupeno",
   "people_key": "Q1257154",
-  "count": 4,
+  "count": 6,
   "buckets": {
     "household": [
       {
@@ -34,7 +34,24 @@
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/fbd340ce_0e2a_485e_b291_a3c7009c6bc2/preview_01028085_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B73-147"
       }
+    ],
+    "ceramic": [
+      {
+        "id": "5048",
+        "source": "peabody",
+        "title": "Tray",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/53566/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/5048"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "11057",
+      "source": "peabody",
+      "title": "Sifter",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/57626/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/11057"
+    }
+  ]
 }

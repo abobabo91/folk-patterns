@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__gullah",
   "people_key": "Q13560779",
-  "count": 60,
+  "count": 65,
   "buckets": {
     "photo": [
       {
@@ -424,7 +424,45 @@
         "image": "https://collection.kunstkamera.ru/api/spf/p0G0_wgftgzswSO44sRY2kwnzB7Uq_OqhdFtdpw4i3lnk-zBeT1plQ9lR9bonUmO.jpg",
         "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/93776"
       }
+    ],
+    "household": [
+      {
+        "id": "731571",
+        "source": "peabody",
+        "title": "Lidded sewing basket",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/675657/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/731571"
+      },
+      {
+        "id": "731576",
+        "source": "peabody",
+        "title": "Basket with overlapping coils at rim",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/675763/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/731576"
+      },
+      {
+        "id": "731577",
+        "source": "peabody",
+        "title": "Basket with handle, foot",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/675662/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/731577"
+      },
+      {
+        "id": "731578",
+        "source": "peabody",
+        "title": "Basket in process of manufacture",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/675660/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/731578"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "731575",
+      "source": "peabody",
+      "title": "Wall pocket",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/675658/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/731575"
+    }
+  ]
 }

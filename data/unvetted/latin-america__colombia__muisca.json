@@ -1,8 +1,17 @@
 {
   "ethnicity_key": "latin-america__colombia__muisca",
   "people_key": "Q828578",
-  "count": 177,
+  "count": 185,
   "buckets": {
+    "arms": [
+      {
+        "id": "107010",
+        "source": "peabody",
+        "title": "Bow and two arrows",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/105152/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/107010"
+      }
+    ],
     "ceramic": [
       {
         "id": "/2022703/pages_Main_idt_22209_inventary_1997_03_008_table_FMUS_museum_MAM",
@@ -68,6 +77,13 @@
         "title": "Sprang plaited bag of agave fibre with diagonal stripes woven in orange & red. [EC 'DCF 2004-2006 What's Upstairs?' 5/1/2006]",
         "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS314693_1972.0022.6.jpg",
         "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-29925"
+      },
+      {
+        "id": "112967",
+        "source": "peabody",
+        "title": "Lime gourd or spatula",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/126672/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/112967"
       }
     ],
     "sculpture": [
@@ -196,6 +212,15 @@
         "title": "Figura",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF07352_P.JPG%26Ninv%3D07352&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_5740_inventary_07352_table_FMUS_museum_MAM"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "606182",
+        "source": "maa",
+        "title": "Reproduction of the Muisca raft depicting a gold offering ceremony. On a wooden base with centre wrapped in leather.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1121133_TEMP.02869_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/606182/"
       }
     ],
     "jewelry": [
@@ -760,6 +785,34 @@
         "title": "Personnage",
         "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_17/PP0121733_01.JPG&width=400&height=400&cache=yes",
         "object_url": "https://collections.quaibranly.fr/#/search?q=PP0121733"
+      },
+      {
+        "id": "527067",
+        "source": "peabody",
+        "title": "Two tetrapod jars",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/279159/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/527067"
+      },
+      {
+        "id": "527068",
+        "source": "peabody",
+        "title": "Large armadillo ware jar",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/264833/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/527068"
+      },
+      {
+        "id": "527069",
+        "source": "peabody",
+        "title": "Three ceramic vessels",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/279160/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/527069"
+      },
+      {
+        "id": "527070",
+        "source": "peabody",
+        "title": "Two tetrapod jars",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/268249/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/527070"
       }
     ],
     "painting-mss": [
@@ -1255,6 +1308,13 @@
       "title": "Peson",
       "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/446/446364.jpg&width=400&height=400&cache=yes",
       "object_url": "https://collections.quaibranly.fr/#/search?q=70.2011.21.412"
+    },
+    {
+      "id": "175426",
+      "source": "peabody",
+      "title": "Ceremonial suit- three pieces",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/68871/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/175426"
     }
   ]
 }

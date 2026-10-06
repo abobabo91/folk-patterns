@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__miniconjou",
   "people_key": "Q1737293",
-  "count": 4,
+  "count": 6,
   "buckets": {
     "photo": [
       {
@@ -32,7 +32,24 @@
         "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0005.03_14/PF0029494_01.JPG&width=400&height=400&cache=yes",
         "object_url": "https://collections.quaibranly.fr/#/search?q=PF0029494"
       }
+    ],
+    "textile": [
+      {
+        "id": "7903",
+        "source": "peabody",
+        "title": "Tobacco bag",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/58718/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/7903"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "8132",
+      "source": "peabody",
+      "title": "Corn: blue",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/295040/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/8132"
+    }
+  ]
 }
