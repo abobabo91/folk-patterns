@@ -167,12 +167,22 @@ _SRC = r"(?:[Ss]ources?(?: [a-z]+){0,2}?|[Tt]hey|[Ii]t)(?: also| therefore| othe
 _GAP_CLAUSE = re.compile(r",? (?:but|although|yet|though)(?: the [a-z ]{0,25}sources?(?: [a-z]+){0,2}?| they| it| this)?(?: also)? " + _GAP + r"[^.]*\.")
 _NOT_COVERED = re.compile(r"(?:^|(?<=[.!?*”’])[ \t]+)[^.\n]*\b" + _SRC + " " + _GAP + r"[^.\n]*\.", re.M)
 
+# The same remark in other words: "The sources used provide no account of
+# Khinalug folktales", "No annual festival calendar ... is documented in the
+# sources used" (stub run 2026-10-05).
+_NO_ACCOUNT = re.compile(
+    r"(?:^|(?<=[.!?*”’])[ \t]+)(?:[^.\n]*\b(?:provides?|gives?|offers?|contains?) no "
+    r"(?:account|information|description|details?|record)\b[^.\n]*"
+    r"|No [^.\n]* (?:is|are) (?:documented|described|recorded|mentioned|named) in the [a-z ]*sources?[^.\n]*)\.", re.M)
+
 
 def _drop_uncovered(md: str) -> str:
     """Remove "the sources do not cover X" sentences, then every section left
     empty, then a "## Material culture" with no subsection left."""
     md = _GAP_CLAUSE.sub(".", md)
     md = _NOT_COVERED.sub("", md)
+    md = _NO_ACCOUNT.sub("", md)
+    md = re.sub(r"(?m)^ +(?=[A-Z])", "", md)   # a paragraph whose first sentence went
     # List items and bold lead-ins ("**Motifs.**") the removal left empty.
     md = re.sub(r"(?m)^[ \t]*(?:[-*•]|\d+\.)[ \t]*(?:\*\*[^*\n]*\*\*)?[ \t]*$\n?", "", md)
     md = re.sub(r"(?m)^[ \t]*\*\*[^*\n]*\*\*[ \t]*$\n?", "", md)
