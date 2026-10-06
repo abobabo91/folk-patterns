@@ -1,0 +1,59 @@
+---
+title: "Gelao"
+subtitle: "China"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Gelao people, also spelled Gelo and called *Klau*, are an ethnic group of China and Vietnam and one of the 56 ethnic groups officially recognized by the People’s Republic of China. They number approximately 677,521 and are mainly located in Gelao autonomous counties in the western part of Guizhou, including Wuchuan Gelao and Miao Autonomous County and Daozhen Gelao and Miao Autonomous County in Zunyi. They are also found in Liupanshui, Anshun, Dafang, Bijie, western Guangxi, southeastern Yunnan, and southern Sichuan. The Gelao languages belong to the Kra–Dai language family, although Mandarin is now the main language spoken by Gelaos. Their folk culture includes distinctive clothing, the two-stringed *jiaohu* fiddle, oral poetry and proverbs, and regional language varieties that are among the most endangered in the area.
+
+## Material culture
+
+### Textile & pattern traditions
+
+The sources describe Gelao clothing and fabrics.
+
+### Clothing & dress
+
+Gelao men’s traditional suit consists of a jacket fastened up the side and long pants. Gelao women wear short jackets and narrow skirts divided into three parts. The top section is elaborate in red wool, while the other two sections are made of black and white bordered fabric. Both men and women wear long scarves.
+
+### Ceramics, metalwork & everyday objects
+
+ They mention that the Gelao people are said to have invented their own words for tea, fireworks, copper, and iron.
+
+## Music & performance
+
+The Gelao make a two-stringed fiddle with a body made from a cow horn, called the *jiaohu*. It is used in their traditional music. The sources also describe Gelao folk songs as oral literature. Ancient folk songs consist of long and short sentences with varying numbers of words. During the past two or three hundred years, these songs have been greatly influenced by the genre of Han poetry, and many have borrowed Chinese words and phrases.
+
+## Festivals & rituals
+
+ The Gelao people are described as mainly practicing Taoism, with a small but significant Buddhist minority.
+
+## Foodways
+
+ They mention tea only in connection with the claim that the Gelao people invented their own word for it.
+
+## Oral tradition & literature
+
+Gelao folk circulates oral literature such as poetry and proverbs. Ancient folk songs use long and short sentences of varying numbers of words. They have been influenced by Han poetry during the past two or three hundred years, and many contain borrowed Chinese words and phrases.
+
+The sources also discuss a work called *The History of Jiu Tian Da Ling*, or *Record of the Nine Heavens*, which was found in Guizhou in September 2008. The book is kept by a Gelao person with the surname Li in Qianbei, whose ancestors were from the Song dynasty. The discovery was presented as evidence of a long Gelao history and of a written language, but the Gelao-language and classical Chinese passages contain many grammatical errors, and the Gelao language article states that scholarship reveals a book allegedly written in a native Gelao script to be certainly fake. In western Guizhou, including Anshun, Gelao characters derived from Chinese characters were formerly used to record some folk songs.
+
+## Language & religion
+
+Gelao is a Kra language in the Kra–Dai language family. Its autonym is *Kláo*; the Chinese name is 仡佬 *Gēlǎo*, and the Vietnamese name is *Cờ Lao*. It is spoken by the Gelao people in southern China and northern Vietnam. Although the ethnic population was given as 580,000 in the 2000 census of China, only a few thousand still spoke Gelao in China according to the estimates cited by the source. Estimates range from 3,000 speakers in China in 1999 to 7,900 in 2008. The varieties in Vietnam are not mutually intelligible, and varieties in China may also be distinct languages.
+
+The Gelao languages have Central, Northern, and Southwestern branches in one classification, while other classifications use names such as Hagei, Duoluo, Gao, and A’ou. Mandarin is now the main language spoken by Gelaos; Hmong, Nuosu, Bouyei, Zhuang, and local varieties of Chinese are also used. The main religion practiced is Taoism, with a small but significant Buddhist minority. The Yi subgroup is noted for belief in the Zitong Bodhisattva.
+
+## Sources & further reading
+
+- Zhang Jimin, *Gelao yu yan jiu* (*A study of Gelao*), Guizhou People’s Press, 1993.
+- He Jiashan, *Gelao yu jian zhi* (*A sketch of Gelao*), Ethnic Publishing House, 1983.
+- Ryūichi Kosaka, Guoyan Zhou, and Jinfang Li, *仡央语言词汇集/Geyang yu yan ci hui ji*, Guizhou Minzu Chubanshe, 1998.
+- Li Jinfang and Guoyan Zhou, *仡央语言探索/Geyang yu yan tan suo*, Central Minzu University Press, 1999.
+- Li Jinfang, *Studies on endangered languages in the Southwest China*, Minzu University, 2006.
+- [Gelao people](https://en.wikipedia.org/wiki/Gelao_people)
+- [Gelao language](https://en.wikipedia.org/wiki/Gelao_language)
+- No UNESCO Intangible Cultural Heritage inscription or museum catalogue record was supplied among the sources used.

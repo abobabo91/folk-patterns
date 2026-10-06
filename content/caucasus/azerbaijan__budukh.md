@@ -1,0 +1,34 @@
+---
+title: "Budukh"
+subtitle: "Azerbaijan"
+region: "Caucasus"
+tags: [ethnography, caucasus]
+---
+
+## Overview
+
+The Budukhs are an ethnic group primarily from the mountainous village of Buduq in northeastern Azerbaijan. They are one of the Shahdagh peoples and speak Budukh, a Northeast Caucasian language of the Lezgic branch. Azerbaijani is widely spoken. Budukh is spoken in parts of the Quba Rayon by about 200 of approximately 1,000 ethnic Budukhs. The language is severely endangered and is classified by UNESCO’s Atlas of the World’s Languages in Danger. The available sources document the Budukhs mainly through their settlement, language, historical experiences, religious affiliation, and subsistence activities. They traditionally raise sheep and cattle, trade, and practise limited farming, mainly cultivating barley and rye.
+
+## Festivals & rituals
+
+The sources describe the Budukhs as overwhelmingly Sunni Muslims. They state that in the early 18th century the Budukhs participated in a Sunni-Shia conflict in Shirvan. The conflict later became a revolt against the Shah and attracted the attention of the Ottomans and Safavids.
+
+## Foodways
+
+ They state that Budukhs traditionally raise sheep and cattle and practise limited farming, mainly cultivating barley and rye.
+
+## Oral tradition & literature
+
+ The available linguistic material includes *Budad mez*, a Budukh name for the Budukh language. The sources also mention the *Buduq Picture Dictionary*, published by Adigözəl Hacıyev in 2017, and the *Budud dili* school manual, published by Adigözəl Hacıyev in 2025.
+
+## Language & religion
+
+Budukh or Budugh is a Lezgic language of the Northeast Caucasian language family spoken in parts of the Quba Rayon of Azerbaijan. Its Budukh name is *Budad mez*. The language is spoken by about 200 of approximately 1,000 ethnic Budukhs, is severely endangered, and is classified as such by UNESCO’s Atlas of the World’s Languages in Danger. Azerbaijani is widely spoken. Budukh has two orthographies, and its orthography is beginning to be introduced into schools. The *Buduq Picture Dictionary* uses one orthography, while the *Budud dili* school manual uses another revision. Budukh is an SOV language; possessors precede possessed nouns, and adjectives precede the nouns they modify. The sources state that the Budukhs are overwhelmingly Sunni Muslims.
+
+## Sources & further reading
+
+- Margus Kolga, Igor Tõnurist, Lembit Vaba, and Jüri Viikberg, “The Budukhs,” *The Red Book of the Peoples of the Russian Empire*, 1993.
+- Gilles Authier, “Development of Introflexion (Root-and-pattern Morphology) in Budugh Verbs,” report, 2009.
+- Gilles Authier, “Finite and Non-Finite: Prosodic Distinctions on Budugh Verb Stems,” in Isabelle Brill, ed., *Clause Linking and Clause Hierarchy: Syntax and Pragmatics*, Amsterdam: John Benjamins, 2010, pp. 143–164.
+- [Budukh people](https://en.wikipedia.org/wiki/Budukh_people)
+- [Budukh language](https://en.wikipedia.org/wiki/Budukh_language)

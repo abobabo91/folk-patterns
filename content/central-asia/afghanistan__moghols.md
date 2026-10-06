@@ -1,0 +1,24 @@
+---
+title: "Moghols"
+subtitle: "Afghanistan"
+region: "Central Asia"
+tags: [ethnography, central-asia]
+---
+
+## Overview
+
+The Moghols, also called Mogols, Moghuls, Moguls, Monghuls, and Monguls, are a Mongolic people in Afghanistan. They reside in the Kundur and Karez-e-Mulla villages of Herat province and in some parts of northern Afghanistan. Their ancestors were soldiers of the Mongol Empire who conquered Afghanistan, then part of the Khwarazmian Empire, during the 13th and 14th centuries. The Moghols previously lived in Ghor, throughout the Hazarajat, and as far east as Badakhshan. Their settlements were reduced to Herat by the mid-20th century. They used to speak the Moghol language, but most Moghols have adopted Dari in recent decades, and the Moghol language may currently be extinct. They are predominantly Sunni Muslims.
+
+## Festivals & rituals
+
+ The sources state only that the Moghols are predominantly Sunni Muslims.
+
+## Language & religion
+
+The Moghols used to speak the Moghol language. In recent decades, most Moghols have adopted Dari, and the Moghol language may currently be extinct. The sources identify the Moghols as a Mongolic people and state that they are predominantly Sunni Muslims. No further information about dialects, scripts, religious practices, or syncretism is provided.
+
+## Sources & further reading
+
+- “Moghol people,” Wikipedia: https://en.wikipedia.org/wiki/Moghol_people
+- UNESCO Intangible Cultural Heritage inscriptions: no relevant inscription was provided.
+- Museum catalogue records: no records were provided.

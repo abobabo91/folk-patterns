@@ -1,0 +1,43 @@
+---
+title: "Shughni"
+subtitle: "Tajikistan"
+region: "Central Asia"
+tags: [ethnography, central-asia]
+---
+
+## Overview
+
+The Shughni, also known as the Shughnan, are an Iranian sub-ethnic group of Pamiris who reside in the Pamir Mountains of the Badakhshan region of Central Asia. They mostly live in Tajikistan, while minorities live in Afghanistan, Pakistan, and China. In Tajikistan, Shughni is spoken primarily in Gorno-Badakhshan, including the regional capital Khorog, and in Afghanistan in Badakhshan Province and Sheghnan. According to the 1980s data, about 50,000 Shughnis lived in GBAO; as of 1997, approximately 100,000 people spoke Shughni. The language is an Eastern Iranian language of the Pamiri subgroup. The sources document Shughni history, multilingualism, dialects, orthographic development, mountain agriculture, migration for work, and oral traditions.
+
+## Music & performance
+
+ They mention oral traditions in Ghoron, but provide no information about their content, performance, or musical form.
+
+## Festivals & rituals
+
+ They mention oral traditions in Ghoron and conflicts involving Shughni communities.
+
+## Foodways
+
+ They state that the Shughani supplemented “scanty” resources in Shughnan, but provide no further information about food production or consumption.
+
+## Oral tradition & literature
+
+The sources state that proof had been found of Shughni people’s oral traditions in Ghoron. The sources also document a history of writing and literary production. From the second half of the 19th century, attempts were made to adapt the Persian script for Shughni. Some poetry, including work by the poet Mullo Lochin, and medical or historical works, including those associated with Shohzoda Muhammad, were written in it, although the practice never became widespread.
+
+The first Shughni grammar was compiled by the English researcher Robert Shaw in 1877. In 1883, the Russian scholar D. L. Ivanov produced the first Shughni dictionary. Further publications appeared in the early 20th century, while the language itself remained largely unwritten. More recent orthographic work includes a 2004 publication by Khair Mohammad Haidari, a 2011 publication by Dr. Nur Ali Dost, and 2011 compilations by Mazhab Shah Zahoori, Alishah Sabbar, and Dr. Khush Nazar Parmerzad. The Afghan government officially adopted Shughni orthography and the Ministry of Education created textbooks for Badakhshan Province.
+
+## Language & religion
+
+Shughni is one of the Pamir languages of the Southeastern Iranian language group and is also described as an Eastern Iranian language of the Pamiri subgroup. Its distribution includes the Gorno-Badakhshan Autonomous Region in Tajikistan, Badakhshan Province in Afghanistan, Chitral district in Pakistan, and Tashkurgan Tajik Autonomous County in China. Shughani is the largest of the Pamiri languages and includes the dialects Rushani, Bartangri, Oroshori, Khufi, and Shughni proper; Bartangi and Khufi may be separate languages.
+
+Shughni-Rushani tends toward SOV word order and distinguishes masculine and feminine gender in nouns and some adjectives. Shughni is not formally taught in schools in Tajikistan, although it may be used unofficially in primary grades. The language serves as a local lingua franca in Khorog and throughout the region. Its orthographic history includes Persian, Latin, and Cyrillic systems.
+
+## Sources & further reading
+
+- D. (Joy) I. Edelman and Leila R. Dodykhudoeva, “Shughni,” in Gernot Windfuhr (ed.), *The Iranian Languages*, Routledge, 2009.
+- Karen Olson, *Shughni Phonology Statement*, SIL International, 2017.
+- I. I. Zarubin, *Shugnanskie teksty i slovar*, Izd-vo Akademii nauk SSSR, 1960.
+- Katja S. Mueller, *Deixis in Shughni: Grammatical and semantic considerations*, University of North Dakota, 2015.
+- [Shughni people](https://en.wikipedia.org/wiki/Shughni_people)
+- [Shughni language](https://en.wikipedia.org/wiki/Shughni_language)

@@ -1,0 +1,62 @@
+---
+title: "Talysh"
+subtitle: "Azerbaijan"
+region: "Caucasus"
+tags: [ethnography, caucasus]
+---
+
+## Overview
+
+The Talysh people, also called Talyshis, Talyshes, Talishis and other forms, are an Iranian ethnic group whose majority resides in Azerbaijan and whose minority resides in Iran. They are indigenous to Talish, on the western shore of the Caspian Sea. In Azerbaijan, their homeland includes Lankaran, Astara, Lerik, Masally and Yardimli; in Iran, Talish extends through the western part of Gilan province to Kapurchal. Lankaran is described as their main city and ethnic homeland. The Talysh language is a Northwestern Iranian language closely related to Tati and Zaza. Most Talyshis in Azerbaijan are Shiite Muslims, while Talyshis in Iran are predominantly Sunni. The sources also describe Talysh longevity and centenarianism.
+
+## Material culture
+
+### Architecture
+
+ They mention a military base in Lankaran and settlements in the Talish region.
+
+### Ceramics, metalwork & everyday objects
+
+ Talysh mythology mentions copper dishes in a ritual response to lunar eclipses, but provides no catalogue of objects or production techniques.
+
+## Music & performance
+
+ The Talysh mythology article states that Boris Miller published Talysh songs, anecdotes, short stories, fairy tales and proverbs in *Talysh Texts* in 1930. The Talysh language article also discusses Talysh songs included in A. Khodzko’s work and examined by Ilya Berezin in 1853.
+
+The sources describe folklore as including tales, legends, anecdotes, songs, fairy tales and proverbs. They mention Talysh newspapers and publications, including “Tolyshi Sado,”.
+
+## Festivals & rituals
+
+The sources do describe several religious and mythological practices. During a lunar eclipse, ancestors of the Talysh were said to have knocked on copper dishes and fired guns, attempting to free the Moon from devils believed to hold it in a large lake in the “third heaven.” Sacred trees included beech, oak and platanus. Places containing sacred trees were called *odjah*, meaning “hearth.” People lit candles, left money, and decorated such trees with fabrics, scarves and rags. Cutting their branches was forbidden. Cemeteries later formed near some of these trees, where people remembered the dead and worshipped trees and stones.
+
+## Foodways
+
+ The historical material states that Talish supplied fruits, vegetables, tea, grains and meat to the Soviet Union.
+
+## Oral tradition & literature
+
+Talysh folklore includes tales, legends, anecdotes, short stories, songs, fairy tales and proverbs. One early record was the work of Teimurbek Bayramalibekov in the “Collection of the Materials for Description of Places and Tribes of the Caucasus” in 1894–1899. His articles described Talysh tales, legends and beliefs. In 1894, Asad-bey Talyshkhanov helped Lev Lopatinsky check Talysh texts, including the fairy tales “Magic Apple” and “Coward,” which were published with Russian translations.
+
+In 1930, Boris Miller published Talysh anecdotes, short stories, songs, fairy tales, proverbs and a small Talysh-Russian-French dictionary in *Talysh Texts*. The sources also identify the quatrains of Safi-ad-din Ardabili as Old Azeri poetry considered a variant of Talysh. The quatrains of Sayyed Sharif al-Din, also known as Sharafshah of Dula or Dulab, and poems by Qasim-i Anvar are described as collections sometimes regarded as Talysh.
+
+After the collapse of the Soviet Union, Talysh fairy tales, mythological images and legends were published in books. Founded in 2010, the Talysh National Academy studies Talysh folklore and mythology. One collection is titled *Tolışə xəlqi folklor. Nəğılon iyən əfsonon*, translated in the source as “Talysh folklore. Fairy tales and legends.”
+
+Talysh mythology combines natural cult, Zoroastrian religion reflected in the Avesta, and elements associated with Islam. Named beings include Azhdaho, Alazhen, Alamerd, Gara, Jinn, Div, Duduk, Ledu and Mahmud, Siyakh Galesh, Siyo Chiho, Peri, Hohan, Khydyr Nabi, Choshamba Khatun and Shasha.
+
+## Language & religion
+
+Talysh is a Northwestern Iranian language within the Western Iranian languages and the Tatic language family. It is closely related to Tati and Zaza and has northern, central and southern dialects. Northern Talysh is spoken in Azerbaijan and Iran, while central and southern varieties are spoken in Iran. In Azerbaijan, the sources identify speech varieties associated with Astara, Lankaran, Lerik and Masalli. Talysh is partially, but not fully, mutually intelligible with Persian.
+
+A Latin-based alphabet was created for Talysh in the Soviet Union in 1929. In 1938 it was changed to a Cyrillic-based alphabet. An orthography based on Azeri Latin is used in Azerbaijan, while the Perso-Arabic script is also used in Iran. The sources state that written documents in Talysh are rare.
+
+The majority of Talyshis in Azerbaijan are Shiite Muslims, while most Talyshis in Iran are Sunnis and adherents of the Naqshbandi order. The sources describe Talysh mythology as combining natural cult, Zoroastrian elements from the Avesta and Islam. Sacred groves and trees, lunar-eclipse practices, spirits, deities and mythological guardians form part of the documented folk-religious material.
+
+## Sources & further reading
+
+- Garnik Asatrian and Habib Borjian, “Talish: people and language: The state of research,” *Iran and the Caucasus*, 9 (1), Brill, 2005.
+- A. Mamedov, *Talishes as carriers of the ancient language of Azerbaijan*.
+- Boris Miller, *Talysh Texts*, 1930.
+- Abdoli, *Tat and Talysh literature (Iran and Azerbaijan republic)*, Entešâr Publication, 2001.
+- [Talysh people](https://en.wikipedia.org/wiki/Talysh_people)
+- [Talysh mythology](https://en.wikipedia.org/wiki/Talysh_mythology)
+- [Talysh language](https://en.wikipedia.org/wiki/Talysh_language)

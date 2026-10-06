@@ -1,0 +1,56 @@
+---
+title: "Lezgins"
+subtitle: "Russia"
+region: "Caucasus"
+tags: [ethnography, caucasus]
+---
+
+## Overview
+
+Lezgins are a Northeast Caucasian ethnic group native to southern Dagestan, a republic of Russia, and northern Azerbaijan. They speak the Lezgin language, which belongs to the Lezgic branch of the Northeast Caucasian language family. Their territory extends across the basin of the Samur River, from the eastern Greater Caucasus to the Caspian Sea, including parts of Dagestan and northeastern Azerbaijan. The population is believed to be around 700,000, with 474,000 living in Russia; the Azerbaijani government census counts 180,300. Lezgin society has traditionally been egalitarian and organised around autonomous local clans. Its cultural identity is associated with freedom, the eagle symbol called *Lek*, the code of honor *Lezgiwal*, Lezgin dance, epic-historical songs, and distinctive local village structures.
+
+## Material culture
+
+### Architecture
+
+Lezgin villages are known as *hurs*. Villages are divided into quarters, with one *syhil* living in every quarter. A *syhil* is a clan descended from a long-ago common ancestor, and each has its own village and mountain. The sources state that Lezgins live mainly in mountainous and piedmont zones.
+
+## Music & performance
+
+Epic-historical songs about wars are popular among Lezgins. The sources name the ballads “Shamil atana,” about Imam Shamil, and “Kiri Buba,” about a Lezgin *abrek*. The sources also connect Lezgin musical and theatrical development with the nineteenth and twentieth centuries. Lezgin culture and literature underwent significant influence from Azerbaijan in the second half of the nineteenth century and the beginning of the twentieth.
+
+The first Lezgin theater originated in 1906 in the village of Akhty. In 1935, a Lezgin State Music and Drama Theatre named after S. Stalsky was created on the basis of a semi-professional team. In 1998, the State Lezgin theater was opened in Azerbaijan, located in Qusar.
+
+## Dance & theatre
+
+Lezgin dance is common among many peoples of the Caucasus and includes a Lezgin solo male dance and a pair dance. The dance uses a “2 image,” as stated in the source. The man moves in the way of an “eagle,” alternating between a slow and rapid pace. Spectacular movements include dancing on the toes and throwing the hands in different directions. The woman moves in the form of a “Swan,” with graceful posture and smooth hand movements, and increases the tempo of her dance after the man.
+
+The dance is associated with the ancient Lezgin totem *Lek*, a Lezgian word meaning eagle. The sources present the eagle as a common symbol in Lezgin artifacts and connect it with freedom, one of the central values of Lezgin culture.
+
+## Festivals & rituals
+
+Lezgins celebrate *Yaran Suvar*, which dates to the pre-Islamic period. Some Lezgins also celebrate Ramadan and Eid al-Fitr.
+
+Lezgiwal is an unwritten code of honor and conduct passed down from generation to generation by parents and society. It covers all spheres of life of a member of society, beginning in childhood. It implies moral and ethical behaviour, generosity, and the will to safeguard the honor of women.
+
+Lezgin social life is organised around *djamaat*, described as unions of clans. Within a *djamaat* there are about 200–300 *syhils*, or clans, which are further subdivided into *miresar*, or patronymic families. Each village has a *Kim*, a gathering of the male residents of the village that addresses the most important issues of public life.
+
+## Oral tradition & literature
+
+Lezgins have epic-historical songs about wars, including “Shamil atana” and “Kiri Buba.” The first concerns Imam Shamil, while the second concerns a Lezgin *abrek*. The sources also identify a rich Lezgin oral tradition whose disappearance has caused concern among Lezgins in Azerbaijan.
+
+Lezgiwal is transmitted orally and socially by parents and society. It is an ethical code rather than a literary genre, and it expresses moral and ethical behaviour, generosity, and the protection of women’s honor. The source quotes the legendary Abrek Kiri Buba as saying: “Better a knife in the chest than honor in the dirt.”
+
+The sources name Abdullah Kirivi, also known as Kiri Buba, as a legendary Lezgin folk hero and *abrek*. They also identify Haji Davud Mushkurvi, Sheikh Muhammad Yarguvi, Khas Muhammad Huluhvi, Imam Shamil, and other religious or military leaders in Lezgin history.
+
+## Language & religion
+
+The Lezgin language belongs to the Lezgic branch of the Northeast Caucasian language family, alongside Aghul, Rutul, Tsakhur, Tabasaran, Budukh, Khinalug, Jek, Khaput, Kryts, and Udi. It has three closely related and mutually intelligible dialects: Kurin, also called Gunei or Kurakh; Akhti; and Kuba. Kurin is the most widespread and is spoken throughout most of the Lezgin territories in Dagestan. Akhti is spoken in southeastern Dagestan, while Kuba is widespread among Lezgins of northern Azerbaijan.
+
+ Lezgins are Muslims, although traditional beliefs have influenced the form and social importance of religion. Practitioners follow either the Shafi'i or Hanafi schools of jurisprudence, *fiqh*. Religion was suppressed to an extent under neighbouring states and predominantly by Soviets, and the source states that it now plays a less significant role than cultural traditions.
+
+## Sources & further reading
+
+- [Lezgins — Wikipedia](https://en.wikipedia.org/wiki/Lezgins)
+- UNESCO Intangible Cultural Heritage: no relevant inscription was supplied in the sources.
+- Museum catalogue records: none were supplied.

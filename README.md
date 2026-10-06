@@ -213,8 +213,12 @@ is no test: Russia's lies in Siberia, 3,000+ km from the Kalmyks. Without a
 point, a European Russian people goes to a European Russia point, a North
 Caucasus people to a Caucasus point, anything else to the jittered centroid.
 `build_index.py` then pushes apart markers that would still cover each other
-(golden-angle spiral, 0.6 degrees between stubs, 0.15 between vetted cultures,
-vetted placed first); on 2026-10-05 that moved 125 stubs, at most 142 km.
+(golden-angle spiral, 0.3 degrees between stubs, 0.15 between vetted cultures;
+vetted placed first, then stubs by Wikipedia language editions so a crowded
+area keeps its large peoples in place). With 1,471 stubs, 0.6 degrees and
+alphabetical order pushed Dagestan's small peoples up to 309 km out and the
+Lezgins into the Caspian; 0.3 and size order move 215 stubs, at most 120 km
+(Tindi), and leave the Lezgins where they are (2026-10-05).
 On the map a hovered marker grows 1.8x and turns opaque, and an invisible
 9 px hit layer takes clicks, since unreviewed dots are only 2.5 px. Europeana tiles load through Europeana's thumbnail
 service: Finnish Heritage Agency originals answer 401. The Met sits behind

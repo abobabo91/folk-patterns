@@ -1,0 +1,24 @@
+---
+title: "Hunzib"
+subtitle: "Russia"
+region: "Caucasus"
+tags: [ethnography, caucasus]
+---
+
+## Overview
+
+The Hunzibs are an indigenous people of Dagestan in the North Caucasus. They live in three villages in the Tsuntinsky District, in the upper regions of the Avar-Koysu river area. Hunzib is their language, and the people primarily follow Sunni Islam. Islam spread among the Hunzib people around the 8th or 9th century and became consolidated around the 16th and 17th centuries. The land they inhabit was part of the Avar Khanate. In 1926, 105 people reported themselves as ethnic Hunzibs in the Russian Census; later Russian censuses listed them as Avars. In 1967, the Hunzib population was estimated at about 600. Their language belongs to the Tsezic group of the Northeast Caucasian languages.
+
+## Festivals & rituals
+
+ The sources state only that the Hunzib primarily follow Sunni Islam and that Islam spread among them around the 8th or 9th century before becoming consolidated around the 16th and 17th centuries.
+
+## Language & religion
+
+Hunzib is a Northeast Caucasian language spoken by the Hunzib people in the Tsunta and Kizilyurt districts of Dagestan and in two villages across the Russian border in Georgia. It belongs to the Tsezic group and is most closely related to Bezhta and Khwarshi according to the latest research; other Tsezic languages include Tsez and Hinukh. Hunzib is not an official language and is rarely written. It has 35 consonants, while its vowels may be short, long, or nasalized. The language has five grammatical gender classes and usually follows subject–object–verb word order. The Hunzib primarily follow Sunni Islam. Islam spread among them around the 8th or 9th century and became consolidated around the 16th and 17th centuries.
+
+## Sources & further reading
+
+- Helma van den Berg, *A Grammar of Hunzib (with Texts and Lexicon)*, Lincom Europa, 1995.
+- “Hunzib people,” Wikipedia: https://en.wikipedia.org/wiki/Hunzib_people
+- “Hunzib language,” Wikipedia: https://en.wikipedia.org/wiki/Hunzib_language

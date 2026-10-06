@@ -170,7 +170,7 @@ def _ethnicity_key(region: str, country: str, ethnicity: str) -> str:
 # Markers closer than this (degrees) cover each other and cannot be clicked.
 # A stub keeps this distance from every marker; vetted cultures, whose
 # homelands are curated, only move when they sit almost exactly on another.
-_STUB_SEP = 0.6
+_STUB_SEP = 0.3   # 0.6 pushed Dagestan's small peoples up to 309 km out (2026-10-05)
 _VETTED_SEP = 0.15
 
 
@@ -198,7 +198,9 @@ def _spread_markers(eth_meta: dict[str, dict]) -> None:
         meta["homeland"] = {**h, "lat": round(max(-89.0, min(89.0, lat)), 4), "lon": round(lon, 4)}
         placed.append((meta["homeland"]["lat"], meta["homeland"]["lon"]))
 
-    metas = sorted(eth_meta.values(), key=lambda m: (bool(m.get("stub")), m["key"]))
+    # Vetted first, then stubs by Wikipedia language editions: a crowded area
+    # (Dagestan) keeps its large peoples in place and moves the small ones.
+    metas = sorted(eth_meta.values(), key=lambda m: (bool(m.get("stub")), -m.get("_sitelinks", 0), m["key"]))
     for meta in metas:
         place(meta, _STUB_SEP if meta.get("stub") else _VETTED_SEP)
 
@@ -246,6 +248,9 @@ def build() -> None:
         stubs = json.loads(stubs_path.read_text(encoding="utf-8")) if stubs_path.exists() else []
     except (OSError, json.JSONDecodeError):
         stubs = []
+    wd_path = DATA_DIR / "world" / "wikidata.json"
+    sitelinks = ({r["qid"]: int(r.get("sitelinks") or 0) for r in json.loads(wd_path.read_text(encoding="utf-8"))}
+                 if wd_path.exists() else {})
     for stub in stubs:
         key = str(stub.get("ethnicity_key") or "")
         if not key or key in eth_meta:
@@ -260,8 +265,11 @@ def build() -> None:
             "seed_traditions": [],
             "unvetted_only": True,
             "stub": True,
+            "_sitelinks": sitelinks.get(str(stub.get("people_key") or ""), 0),
         }
     _spread_markers(eth_meta)
+    for meta in eth_meta.values():
+        meta.pop("_sitelinks", None)
 
     # Majority ethnicity per country — used as the fallback bucket for records
     # that were tagged with country=ethnicity or _regional and don't have a

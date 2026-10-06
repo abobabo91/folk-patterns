@@ -1,0 +1,36 @@
+---
+title: "Baraba Tatars"
+subtitle: "Russia"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Baraba Tatars, also called Paraba Tatars, are a subgroup of Siberian Tatars and an indigenous people of the Ob-Irtysh interfluve. They traditionally live on the Baraba Steppe, in separate villages or alongside Russians, and their historical administrative center was Ton-Tura. Some still speak the Baraba dialect of Siberian Tatar. According to the Russian Empire Census of 1897, their population was 4,433; in 1926 it was 7,528. Ethnographers estimated 8,380 in 1971, while the Institute of Philology of the Siberian Branch of the RAS recorded 8,000 Baraba Tatars in Novosibirsk oblast in 2012. Their folk-culture profile is documented chiefly through agriculture, hunting, fishing, animal breeding, Islam influenced by shamanism, and their history in the Ob-Irtysh region.
+
+## Festivals & rituals
+
+The sources describe no annual festival calendar or named Baraba Tatar festivals. They do record that the Baraba Tatars are Sunni Muslims and that they adopted Islam around the latter half of the 18th century, while some may have been Muslim by the early 17th century. The form of Islam practiced by the Baraba is significantly influenced by shamanism and by residual beliefs in nature spirits and deities.
+
+## Foodways
+
+ They state that Baraba Tatars traditionally engaged in hunting, fishing, agriculture, and breeding some cattle and horses, and that they now live by agriculture.
+
+## Oral tradition & literature
+
+The sources mention legends of Siberian Tatars recorded by N. F. Katanov. According to the account cited, the army of Kuchum Khan was divided into four wings: Kordak, Turaly, Ayaly, and Baraba.
+
+## Language & religion
+
+The Baraba Tatars are a subgroup of Siberian Tatars, and some still speak the Baraba dialect of Siberian Tatar. They identify the Baraba Tatars as Sunni Muslims. They state that Islam was adopted around the latter half of the 18th century, although the Baraba Tatars may have been exposed to Islam as early as the late 16th century and some may have been Muslim by the early 17th century. Their form of Islam is significantly influenced by shamanism and residual beliefs in nature spirits and deities.
+
+Historically, the Dzungar Khanate extracted *yasaq* (tribute) from its Baraba Tatar underlings. Becoming Russian subjects was used by the Baraba Tatars as a tactic to find an excuse not to pay *yasaq* to the Dzungars. Because Muslim Siberian Bukharans had legal advantages and privileges under Russia, Baraba Tatars pretended to be them. During the reign of Elizabeth of Russia, a campaign attempted to forcefully convert Tatars, including the Baraba, to Christianity; punishments for refusal included imprisonment or beating.
+
+## Sources & further reading
+
+- Wixman, Ronald. *The Peoples of the USSR: An Ethnographic Handbook*. Armonk: M. E. Shapre, 1984, p. 22. ISBN 0-87332-506-0.
+- N. F. Katanov, cited in the source account for his study of Siberian Tatar legends.
+- [Baraba Tatars — Wikipedia](https://en.wikipedia.org/wiki/Baraba_Tatars)
+- No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
+- No museum catalogue records or relevant museum collection URLs are included in the supplied sources.

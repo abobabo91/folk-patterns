@@ -1,0 +1,34 @@
+---
+title: "Adjarians"
+subtitle: "Georgia"
+region: "Caucasus"
+tags: [ethnography, caucasus]
+---
+
+## Overview
+
+The Adjarians (*აჭარლები*, romanized as *ach'arlebi*) are an ethnographic group of Georgians indigenous to Adjara in southwestern Georgia. Adjarian settlements are also found in Guria, Kvemo Kartli, and Kakheti, as well as in several areas of neighbouring Turkey. They speak Adjarian, a Georgian dialect with Turkish loanwords and features shared with the Zan languages, Mingrelian and Laz, within the Kartvelian language group. Historically Christian, Adjarians were gradually converted to Islam during Ottoman rule and were fully Islamized by the end of the eighteenth century; many later returned to Christianity. Since Georgian independence, most Adjarians consider themselves Georgians, although Muslim Adjarians have also been viewed by some Georgian society as “Turkicized” Georgians.
+
+## Material culture
+
+### Architecture
+
+The sources mention mosques and madrassas in connection with religious administration.
+
+## Festivals & rituals
+
+The sources describe religious change and practice. They state that Islamic religious practice became a cultural norm during the dissolution of the USSR, that madrassas reopened, and that the call to prayer sounded from mosques. The sources also mention the Christianization of remaining Muslim Adjarians, especially among the youth, during the government of Zviad Gamsakhurdia.
+
+## Oral tradition & literature
+
+The sources state that Adjarians have kept the Georgian language, with their own dialect, and traditions.
+
+## Language & religion
+
+Adjarians speak Adjarian, a Georgian dialect related to the dialect spoken in the neighbouring northern province of Guria. Adjarian contains Turkish loanwords and shares many features with the Zan languages, Mingrelian and Laz; these languages are sisters to Georgian and belong to the Kartvelian language group. Historically, Adjarians followed Christianity, but Ottoman rule encouraged conversion to Islam, and the population was fully Islamized by the end of the eighteenth century. According to the 2014 census, 54.5% of Adjarians were Orthodox Christian. Muslims formed majorities in Khulo Municipality, Shuakhevi Municipality, Keda Municipality, and Khelvachauri Municipality, while they were minorities in Batumi and Kobuleti Municipality.
+
+## Sources & further reading
+
+- [“Adjarians,” Wikipedia](https://en.wikipedia.org/wiki/Adjarians)
+- No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.
+- No museum catalogue records were supplied for the objects shown.

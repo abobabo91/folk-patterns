@@ -1,0 +1,65 @@
+---
+title: "Oroqen"
+subtitle: "China"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Oroqen or Orochen are a Tungusic ethnic group native to Siberia and northern China. In China, they are concentrated mainly in Heilongjiang and Inner Mongolia, including the Oroqen Autonomous Banner. The source gives a population of 8,259 Oroqen people living in China. They are chiefly associated with hunting, animal-fur clothing, birch-bark material culture, reindeer herding, and shamanism. The Oroqen language is a Northern Tungusic language closely related to Evenki. Their traditional culture is documented through dwellings, clothing, hunting practices, birch-bark objects, clan organization, animal veneration, and oral accounts of shamanic practice.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Birch bark culture** — Birch bark is an important raw material alongside animal furs. It is used to make containers of many kinds, including cradles and boats.
+
+**Motif vocabulary.** The sources name no Oroqen textile motifs.
+
+### Clothing & dress
+
+Traditional clothing was primarily made from deer or seal skin. Stitching was done with needles and sinew, meaning animal tendons. Winter garments had fur linings that were essential for surviving extreme cold. The sources do not distinguish men’s and women’s clothing, identify named garments, or describe head coverings, belts, footwear, or ceremonial dress.
+
+### Architecture
+
+The traditional dwelling is called a *sierranju* (Chinese: 斜仁柱; pinyin: xiérénzhù). It has a conical form and is constructed from 20 to 30 pine sticks. The dwelling is usually about six meters in diameter and five meters in height. In summer it is covered with birch bark, while in winter it is covered with deer furs. A central fire serves as a kitchen and source of lighting.
+
+### Ceramics, metalwork & everyday objects
+
+ Birch bark is used to make containers, cradles, and boats. The sources also describe hunting, animal furs, skins, needles, sinew, pine sticks, and central fires.
+
+## Music & performance
+
+ They mention spirit songs in connection with shamanic practice and describe the last living shaman, Chuonnasuan, whose account includes altered states of consciousness and one ritual journey to the lower world, called *Buni*. No further musical information is provided.
+
+## Festivals & rituals
+
+Until the early 1950s, shamanism was the main religion of the nomadic Oroqen. In 1952, cadres of the Chinese Communist Party coerced Oroqen leaders to abandon religious practices. The leaders Chuonnasuan and Zhao Li Ben were also powerful shamans.
+
+A ritual to “send away the spirits” and ask them not to return was held over three nights in Baiyinna and Shibazhan. Over three nights in July 1952, Oroqen communities held rituals in which they asked the spirits to leave them forever. The sources also state that sacrifices to ancestral spirits were still routinely made and that a folk psychological belief in animism existed.
+
+## Foodways
+
+ They state that the Oroqen were mainly hunters and that, during the Japanese occupation of Manchuria, some were forced to hunt animals in exchange for rations and clothing that were sometimes insufficient for survival.
+
+## Oral tradition & literature
+
+ They report that Chuonnasuan’s life, initiatory illness, and training as a shaman are described in a published article. His account includes spirit songs, altered states of consciousness, and a ritual journey to *Buni*, the lower world or land of the dead.
+
+The sources also mention the Oroqen language’s lack of a traditional written form. Since the 1980s, teachers in Oroqen-speaking areas have produced language materials using either the International Phonetic Alphabet or Pinyin.
+
+## Language & religion
+
+Oroqen is a Northern Tungusic language. It is very similar to Evenki, and speakers of the two languages are believed to understand 70% of one another’s language. Oroqen remains unwritten, although most Oroqen people can read and write Chinese, and some can speak Daur. The language has Gankui and Heilongjiang dialects, with Gankui identified as the standard dialect.
+
+The main religion of the nomadic Oroqen was shamanism until the early 1950s. The sources describe spirit songs, ancestral sacrifices, animism, and ritual journeys. Animals received special veneration, especially the bear and the tiger, which were regarded as blood brothers. The tiger was called *wutaqi*, meaning “elderly man,” and the bear *amaha*, meaning “uncle.” Chuonnasuan, the last living Oroqen shaman, died at the age of 73 on 9 October 2000.
+
+## Sources & further reading
+
+- Loretta Kim, *Ethnic Chrysalis: China’s Orochen People and the Legacy of Qing Borderland Administration*, Harvard University Asia Center, 2019.
+- Richard Noll and Shi Kun, “Chuonnasuan (Meng Jin Fu). The Last Shaman of the Oroqen of Northeast China,” *Journal of Korean Religions* 6, 2004, pp. 135–162.
+- [Oroqen people](https://en.wikipedia.org/wiki/Oroqen_people)
+- [Oroqen language](https://en.wikipedia.org/wiki/Oroqen_language)
+- The supplied UNESCO Intangible Cultural Heritage sources identify no UNESCO inscriptions for this ethnic group.
+- The supplied museum catalogue sources identify no museum objects.
