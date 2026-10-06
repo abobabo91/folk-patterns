@@ -1133,6 +1133,21 @@ def cmd_candidates() -> None:
         for l in (OUT / "eu_objects.jsonl").read_text(encoding="utf-8").splitlines():
             d = json.loads(l)
             eu[d["key"]] = d["objects"]   # the last line per key wins (--only reruns)
+    # Met/Cleveland culture texts local-audit judged to name a place or another
+    # people for this one ("India (Rajasthan, Kota)" for the Kotas).
+    lv_p = OUT / "local_verdicts.json"
+    lv = json.loads(lv_p.read_text(encoding="utf-8")) if lv_p.exists() else {}
+    # A region-named people takes its region's rows on purpose (_PLACE_PEOPLES:
+    # Kalighat paintings are Bengali, Kutch embroidery Kutchi), so a drop that
+    # only says "Bengal is a place" does not count for it. The judge read 211
+    # pairs as drops; this keeps the ones naming the people's own places.
+    own = {k: [p.casefold() for p in places] for k, places in _PLACE_PEOPLES}
+
+    def dropped(k: str, people: str) -> bool:
+        if (lv.get(_local_pair_id(k, people)) or {}).get("verdict") != "drop":
+            return False
+        return not any(p in people.casefold() for p in own.get(k, []))
+    loc = {k: [o for o in objs if not dropped(k, str(o.get("people")))] for k, objs in loc.items()}
     pool = {r["key"]: [dict(o, source="bm") for o in bm.get(r["key"], []) if _bm_dept_ok(o["id"], r)] + loc.get(r["key"], [])
             + [{k: v for k, v in o.items() if k != "item"} for o in eu.get(r["key"], [])] for r in pe}
     size = {k: len(v) for k, v in pool.items()}
@@ -1897,6 +1912,96 @@ def cmd_screen(only: list[str], limit: int = 0, workers: int = 3) -> None:
     print(Counter(v["verdict"] for v in cache.values()))
 
 
+LOCAL_AUDIT_PROMPT = """A world atlas of folk culture attributes museum objects to peoples. The Met and
+Cleveland objects below were matched because a word of the museum's culture
+field equals a name of the people, so the match is text only. The culture field
+mixes geography and peoples: "Africa, West Africa, Burkina Faso, Bwa" names the
+Bwa people, but "India (Rajasthan, Kota)" names the city of Kota, not the Kota
+people, and "Italian, Milan" names a city.
+
+For each entry decide whether the culture field attributes the object to THIS
+people (the one named, in the country given):
+- keep: the field names this people as maker or culture, alone or as the most
+  specific term ("Quechua", "Slovak", "German, Augsburg" for Germans, "Fang-Betsi"
+  for Fang). A nation's own adjective counts ("Danish" for Danes).
+- drop: the matched word is a place, city, kingdom, school or dynasty and not
+  this people; or it names a different people with the same or a similar name;
+  or the people is named only for a part that the field gives to another
+  people ("hilt Turkish; blade Iranian" stays keep for both peoples named).
+- uncertain: the field hedges between peoples ("Persian or Turkish", "possibly
+  Italian", "Mongolian or Tibetan").
+
+Answer for every entry, with its exact id.
+
+{entries}"""
+
+LOCAL_AUDIT_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["entries"],
+    "properties": {"entries": {"type": "array", "items": {
+        "type": "object", "additionalProperties": False, "required": ["id", "verdict", "reason"],
+        "properties": {"id": {"type": "integer"}, "verdict": {"type": "string", "enum": ["keep", "drop", "uncertain"]},
+                       "reason": {"type": "string"}}}}},
+}
+
+
+def _local_pair_id(key: str, people: str) -> str:
+    return f"{key}|{people}"
+
+
+def cmd_local_audit(limit: int = 0, workers: int = 3) -> None:
+    """Codex judges each distinct (people, Met/Cleveland culture text) pair that
+    reached the candidates once: keep / drop / uncertain. `candidates` leaves
+    out the objects of a pair judged drop. Measured 2026-10-06: the Kotas of
+    India held 15 Met paintings of the Kota school ("India (Rajasthan, Kota)").
+    -> data/world/local_verdicts.json (cache), local_audit_raw.jsonl."""
+    from concurrent.futures import ThreadPoolExecutor
+    from folk_patterns.codex_cli import ask
+    cache_p, raw_p = OUT / "local_verdicts.json", OUT / "local_audit_raw.jsonl"
+    cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
+    cand = {json.loads(l)["key"]: json.loads(l) for l in (OUT / "candidates.jsonl").read_text(encoding="utf-8").splitlines()}
+    pairs: dict[str, dict] = {}
+    for d in (json.loads(l) for l in (OUT / "local_objects.jsonl").read_text(encoding="utf-8").splitlines()):
+        r = cand.get(d["key"])
+        if not r:
+            continue
+        ids = {(o.get("source"), str(o["id"])) for v in r["objects"].values() for o in v}
+        for o in d["objects"]:
+            # A row with no culture field was matched by its place on purpose
+            # (_PLACE_PEOPLES); there is no text to judge.
+            if (o["source"], str(o["id"])) in ids and o.get("people"):
+                pid = _local_pair_id(d["key"], o["people"])
+                p = pairs.setdefault(pid, {"label": r["label"], "country": r.get("country"), "people": o["people"], "n": 0, "names": []})
+                p["n"] += 1
+                if len(p["names"]) < 3 and o.get("name") not in p["names"]:
+                    p["names"].append(o.get("name"))
+    todo = [pid for pid in pairs if pid not in cache]
+    if limit:
+        todo = todo[:limit]
+    batches = [todo[i:i + 40] for i in range(0, len(todo), 40)]
+    print(f"local-audit: {len(pairs)} pairs, {len(todo)} to judge in {len(batches)} batches", flush=True)
+
+    def one(batch: list[str]) -> list[tuple[str, dict]]:
+        entries = "\n".join(f'- id: {i} | people: {pairs[pid]["label"]} ({pairs[pid]["country"] or "-"}) | '
+                            f'culture field: "{pairs[pid]["people"]}" | objects: {pairs[pid]["n"]}, e.g. {", ".join(map(str, pairs[pid]["names"]))}'
+                            for i, pid in enumerate(batch))
+        reply = ask(LOCAL_AUDIT_PROMPT.format(entries=entries), schema=LOCAL_AUDIT_SCHEMA, timeout=900)
+        got = (json.loads(reply) if isinstance(reply, str) else reply).get("entries", [])
+        with open(raw_p, "a", encoding="utf-8") as raw:
+            raw.write(json.dumps({"pairs": batch, "reply": got}, ensure_ascii=False) + "\n")
+        return [(batch[g["id"]], g) for g in got if isinstance(g.get("id"), int) and 0 <= g["id"] < len(batch)]
+
+    with ThreadPoolExecutor(workers) as ex:
+        for got in ex.map(one, batches):
+            for pid, g in got:
+                cache[pid] = {"verdict": g["verdict"], "reason": g["reason"], "objects": pairs[pid]["n"]}
+                if g["verdict"] != "keep":
+                    print(f'  {g["verdict"]:9} {pairs[pid]["label"][:28]:28} "{str(pairs[pid]["people"])[:50]}" ({pairs[pid]["n"]}) {g["reason"][:90]}', flush=True)
+            cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
+    from collections import Counter
+    print(Counter(v["verdict"] for v in cache.values()),
+          {k: sum(v["objects"] for v in cache.values() if v["verdict"] == k) for k in ("keep", "drop", "uncertain")})
+
+
 def cmd_gaps() -> None:
     """Write source/site coverage gaps from the classified world list."""
     classified = json.loads((OUT / "classified.json").read_text(encoding="utf-8")) if (OUT / "classified.json").exists() else {}
@@ -2025,7 +2130,7 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "labels", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "gaps", "pick", "coverage", "pick-import", "screen"])
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "labels", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "gaps", "pick", "coverage", "pick-import", "screen", "local-audit"])
     ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name; screen: Wikidata keys")
     ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
     ap.add_argument("--cached-only", action="store_true", help="pick: no judge calls, no pick file written; record outcomes only")
@@ -2049,6 +2154,6 @@ if __name__ == "__main__":
      "europeana-objects": lambda: cmd_europeana_objects(a.only),
      "classify": lambda: cmd_classify(a.threshold, a.backend, a.all_min_sitelinks),
      "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit),
-     "candidates": cmd_candidates, "gaps": cmd_gaps, "screen": lambda: cmd_screen(a.only, a.limit),
+     "candidates": cmd_candidates, "gaps": cmd_gaps, "screen": lambda: cmd_screen(a.only, a.limit), "local-audit": lambda: cmd_local_audit(a.limit),
      "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only, a.no_judge, a.export_batch),
      "coverage": lambda: cmd_coverage(a.only), "pick-import": lambda: cmd_pick_import(a.batch)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

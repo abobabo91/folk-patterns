@@ -132,6 +132,7 @@ python scripts/world_peoples.py report
 python scripts/world_peoples.py europeana-objects
 python scripts/normalize_kinds.py --world
 python scripts/world_peoples.py candidates
+FOLK_LLM_BACKEND=codex python scripts/world_peoples.py local-audit   # then candidates again
 FOLK_LLM_BACKEND=codex python scripts/world_peoples.py screen
 python scripts/unvetted.py resolve
 python scripts/unvetted.py places
@@ -174,6 +175,26 @@ from Nguni 463 -> 39); wrong objects left Lodha (234 Lozi), Kotas (25 Kota
 of Gabon), Teke (Congo, Turkmen Teke), Catawba, Nara, Toubou and the
 colonial-era French, Spanish and Dutch rows. The Kotas still show 15 Met
 paintings of the Kota school of Rajput painting, named after the city.
+`local-audit` (local Codex, 40 pairs per call) judges each distinct pair of
+people and Met/Cleveland culture text once as keep / drop / uncertain
+(`data/world/local_verdicts.json`, raw replies `local_audit_raw.jsonl`), and
+`candidates` leaves out the objects of a drop. Rows matched by place on purpose
+(no culture text) are not judged, and a drop does not count for a
+`_PLACE_PEOPLES` people when the text names one of its own places: the judge
+called "Bengal, Kolkata, Kalighat" a place, but Kalighat paintings are Bengali.
+Run of 2026-10-06: 952 pairs, 532 keep (6,886 objects), 209 uncertain (619,
+kept: "probably German", "Armenian or Georgian"), 211 drop, 69 of them
+effective (137 objects). Among them: Milan, an Iraqi people, had 49 Italian
+Milanese pieces; the Kotas the 15 Kota-school paintings; Hän (Canada) Chinese
+Han objects; Sinixt Great Lakes and Lake Van objects; Massachusett objects of
+towns in Massachusetts. Moved objects went to the right culture (Kota of Gabon
+25 -> 40 with the Met's "Kota peoples, Mbete group"; Italians +9), and the Lu
+Mien Yao objects made a new stub, Yao (China). Two samples of 30 and 25
+Europeana objects read by hand were attributed right apart from about one in
+ten weak or wrong items (a coin under Vikings, a 1940 sports photograph under
+Swedes, a Templo Mayor photograph under Yaqui), so Europeana has no extra
+filter. BM spellings shared by two peoples with BM objects: only Jarawa
+(India 107, Afizere of Nigeria 3), which the department check keeps apart.
 Matching reads only vetted
 shards: `build_index.py` writes the stubs into `data/ethnicities/` too, and a
 people matched against its own stub would drop out of `stubs.json` on the next
