@@ -1,8 +1,82 @@
 {
   "ethnicity_key": "sub-saharan-africa__tanzania__fipa",
   "people_key": "Q2995992",
-  "count": 3,
-  "buckets": {},
+  "count": 15,
+  "buckets": {
+    "household": [
+      {
+        "id": "obj-200225",
+        "source": "smb",
+        "title": "Rührlöffel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/080/005/5080333.jpg",
+        "object_url": "https://id.smb.museum/object/200225"
+      },
+      {
+        "id": "obj-209983",
+        "source": "smb",
+        "title": "Hammer",
+        "image": "https://search.smb.museum/media/images/thumbs/large/078/005/5078039.jpg",
+        "object_url": "https://id.smb.museum/object/209983"
+      },
+      {
+        "id": "prm-object-80706",
+        "source": "prm",
+        "title": "Small wooden headrest. It comprises a rectangular, concavely curved seat, a fusiform, circular-sectioned support and a circular base. [JC [OPS Move] 22/3/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS326346_1938.0021.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-80706"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "obj-209163",
+        "source": "smb",
+        "title": "Gefäßrassel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513877.jpg",
+        "object_url": "https://id.smb.museum/object/209163"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "obj-209162",
+        "source": "smb",
+        "title": "Floßrassel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513876.jpg",
+        "object_url": "https://id.smb.museum/object/209162"
+      },
+      {
+        "id": "obj-209079",
+        "source": "smb",
+        "title": "Querflöte",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513745.jpg",
+        "object_url": "https://id.smb.museum/object/209079"
+      },
+      {
+        "id": "obj-209078",
+        "source": "smb",
+        "title": "'kininkira‘ / ,mbaya‘",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513744.jpg",
+        "object_url": "https://id.smb.museum/object/209078"
+      }
+    ],
+    "arms": [
+      {
+        "id": "obj-208713",
+        "source": "smb",
+        "title": "Dolch",
+        "image": "https://search.smb.museum/media/images/thumbs/large/078/005/5078029.jpg",
+        "object_url": "https://id.smb.museum/object/208713"
+      }
+    ],
+    "textile": [
+      {
+        "id": "prm-object-56348",
+        "source": "prm",
+        "title": "cotton cloth",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS573988_1906.0020.163.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-56348"
+      }
+    ]
+  },
   "other": [
     {
       "id": "E_Af1981-02-87",
@@ -24,6 +98,27 @@
       "title": "paint sample",
       "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/f9edaa13_7035_4dcf_a1fc_a3e0008021b0/preview_01569647_001.jpg",
       "object_url": "https://www.britishmuseum.org/collection/object/E_Af1981-02-88"
+    },
+    {
+      "id": "obj-199279",
+      "source": "smb",
+      "title": "Blasebalg",
+      "image": "https://search.smb.museum/media/images/thumbs/large/079/005/5079078.jpg",
+      "object_url": "https://id.smb.museum/object/199279"
+    },
+    {
+      "id": "obj-210611",
+      "source": "smb",
+      "title": "Dechsel",
+      "image": "https://search.smb.museum/media/images/thumbs/large/077/005/5077981.jpg",
+      "object_url": "https://id.smb.museum/object/210611"
+    },
+    {
+      "id": "obj-201617",
+      "source": "smb",
+      "title": "Ohrpflöcke",
+      "image": "https://search.smb.museum/media/images/thumbs/large/077/005/5077814.jpg",
+      "object_url": "https://id.smb.museum/object/201617"
     }
   ]
 }

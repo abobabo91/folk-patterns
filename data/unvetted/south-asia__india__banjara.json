@@ -1,8 +1,17 @@
 {
   "ethnicity_key": "south-asia__india__banjara",
   "people_key": "Q252885",
-  "count": 53,
+  "count": 84,
   "buckets": {
+    "household": [
+      {
+        "id": "prm-object-30569",
+        "source": "prm",
+        "title": "Sash or piece for betel bag, worn by men.  Densely embroidered on one face, largely in red and yellow thread with geometric designs.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS267172_1993.0064.7.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-30569"
+      }
+    ],
     "jewelry": [
       {
         "id": "A_As1986-09-17",
@@ -157,6 +166,13 @@
         "title": "armlet",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/342d8bad_cfc9_4de4_ba46_a3bb00266d3b/preview_00289267_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1995-01-32"
+      },
+      {
+        "id": "71.1986.69.88.1-2",
+        "source": "quaibranly",
+        "title": "Paire de boucles d'oreilles",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/000000/87201y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1986.69.88.1-2"
       }
     ],
     "textile": [
@@ -222,6 +238,20 @@
         "title": "textile",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2022_7/20_13/5cfdb74d_a6c6_4447_8ddf_aed800d8361c/preview_EAS30327_front.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1985-19-17"
+      },
+      {
+        "id": "prm-object-30568",
+        "source": "prm",
+        "title": "Rectangular piece of embroidery to be sewn onto the headshawl (odhni) worn by women.  Geometric designs largely in yellow and red.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS267473_1993.0064.6.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-30568"
+      },
+      {
+        "id": "71.1961.121.112",
+        "source": "quaibranly",
+        "title": "Brassière",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/064/64289.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.121.112"
       }
     ],
     "garment": [
@@ -378,8 +408,200 @@
         "title": "sword-belt",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2022_7/25_14/c6b2982e_6b10_493e_abce_aedd00f29870/preview_EAS94444_front.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1986-09-20"
+      },
+      {
+        "id": "71.1961.106.1",
+        "source": "quaibranly",
+        "title": "Costume de femme : jupe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/000000/63760y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.106.1"
+      },
+      {
+        "id": "71.1961.106.2",
+        "source": "quaibranly",
+        "title": "Costume de femme : brassière",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/063/63761.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.106.2"
+      },
+      {
+        "id": "71.1961.106.3",
+        "source": "quaibranly",
+        "title": "Costume de femme : voile",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/063/63762.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.106.3"
+      },
+      {
+        "id": "71.1961.106.4",
+        "source": "quaibranly",
+        "title": "Costume de femme : partie de jupe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/063/63763.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.106.4"
+      },
+      {
+        "id": "71.1961.106.5",
+        "source": "quaibranly",
+        "title": "Costume de danseuse : jupe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/000000/63764y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.106.5"
+      },
+      {
+        "id": "71.1961.106.6",
+        "source": "quaibranly",
+        "title": "Costume de danseuse : brassière",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/063/63765.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.106.6"
+      },
+      {
+        "id": "71.1961.121.55",
+        "source": "quaibranly",
+        "title": "Voile",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/064/64231.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.121.55"
+      },
+      {
+        "id": "71.1961.121.111",
+        "source": "quaibranly",
+        "title": "Jupe de femme",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/000000/64288y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.121.111"
+      },
+      {
+        "id": "71.1961.121.123",
+        "source": "quaibranly",
+        "title": "Tunique",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/064/64300.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.121.123"
+      },
+      {
+        "id": "71.1964.11.7",
+        "source": "quaibranly",
+        "title": "Costume de femme : brassière",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/068/68279.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1964.11.7"
+      },
+      {
+        "id": "71.1964.11.8",
+        "source": "quaibranly",
+        "title": "Costume de femme : jupe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/068/68280.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1964.11.8"
+      },
+      {
+        "id": "71.1964.11.9",
+        "source": "quaibranly",
+        "title": "Costume de femme : voile",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/068/68281.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1964.11.9"
+      },
+      {
+        "id": "71.1996.63.1",
+        "source": "quaibranly",
+        "title": "Costume de femme : voile",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/090/90247.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1996.63.1"
+      },
+      {
+        "id": "71.1996.63.2",
+        "source": "quaibranly",
+        "title": "Costume de femme : brassière",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/000000/90248y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1996.63.2"
+      },
+      {
+        "id": "71.1996.63.3",
+        "source": "quaibranly",
+        "title": "Costume de femme : jupe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/090/90249.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1996.63.3"
+      },
+      {
+        "id": "71.1996.63.4",
+        "source": "quaibranly",
+        "title": "Ceinture",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/090/90250.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1996.63.4"
+      }
+    ],
+    "photo": [
+      {
+        "id": "prm-object-287315",
+        "source": "prm",
+        "title": "A group of men and children.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS572988_1998.0216.47.2.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-287315"
+      },
+      {
+        "id": "prm-object-287318",
+        "source": "prm",
+        "title": "A woman standing in the domestic area outside a house, covering her face with her shawl.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS572989_1998.0216.47.5.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-287318"
+      },
+      {
+        "id": "prm-object-287314",
+        "source": "prm",
+        "title": "A group of men and dogs.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS572990_1998.0216.47.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-287314"
+      },
+      {
+        "id": "prm-object-287316",
+        "source": "prm",
+        "title": "Two women with vessels near some houses.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS572991_1998.0216.47.3.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-287316"
+      },
+      {
+        "id": "PP0106582",
+        "source": "quaibranly",
+        "title": "Costumes des femmes de la caste Banjara",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.06_09/PP0106582_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0106582"
+      },
+      {
+        "id": "PP0106187",
+        "source": "quaibranly",
+        "title": "Jupe en coton brodé",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.06_08/PP0106187_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0106187"
+      },
+      {
+        "id": "PP0106220.1",
+        "source": "quaibranly",
+        "title": "Partie inférieure d'une sorte de jaquette",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.06_08/PP0106220_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0106220.1"
+      },
+      {
+        "id": "PP0106220.2",
+        "source": "quaibranly",
+        "title": "Partie inférieure d'une sorte de jaquette",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.06_08/PP0106220_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0106220.2"
+      },
+      {
+        "id": "PF0147467",
+        "source": "quaibranly",
+        "title": "Madhya Pradesh, diverses régions : activités, sanctuaires, paysages, pélerinages",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.39_06/PF0147467_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0147467"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-30571",
+      "source": "prm",
+      "title": "Rectangular decoration, galla, which hangs down under the headring used for carrying water pots.",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS267088_1993.0064.9.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-30571"
+    },
+    {
+      "id": "prm-object-30570",
+      "source": "prm",
+      "title": "Decoration, galla, which hangs down under the headring used for carrying water pots.",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS267777_1993.0064.8.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-30570"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__angola__mbangala",
   "people_key": "Q61813408",
-  "count": 1,
+  "count": 4,
   "buckets": {
     "photo": [
       {
@@ -11,7 +11,31 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2664052%2F0200.0106.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2664049"
       }
+    ],
+    "household": [
+      {
+        "id": "obj-209127",
+        "source": "smb",
+        "title": "Hocker",
+        "image": "https://search.smb.museum/media/images/thumbs/large/583/583767.jpg",
+        "object_url": "https://id.smb.museum/object/209127"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-61442",
+      "source": "prm",
+      "title": "Waist fringe of grass and twisted fibre, twisted into a single tuft. [El.B 'DCF 2004-2006 What's Upstairs?' 27/10/2005]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS226521_1902.0009.7.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-61442"
+    },
+    {
+      "id": "prm-object-61443",
+      "source": "prm",
+      "title": "Waist fringe of grass and twisted fibre. [FB 15/01/2015]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS331791_1902.0009.8.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-61443"
+    }
+  ]
 }

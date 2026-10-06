@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__yuki",
   "people_key": "Q2063871",
-  "count": 1,
+  "count": 4,
   "buckets": {
     "household": [
       {
@@ -10,6 +10,31 @@
         "title": "Sked, redskap",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1049337%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17163"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "prm-object-82283",
+        "source": "prm",
+        "title": "Double whistle.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS394265_1929.0010.6.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-82283"
+      },
+      {
+        "id": "prm-object-41350",
+        "source": "prm",
+        "title": "End Flute",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS486680_1929.0010.8.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-41350"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "prm-object-25398",
+        "source": "prm",
+        "title": "Basktry bowl. Mainly globular with flat bottom and no rim. Design of stepped triangles, chevrons and hook shapes in black.  [MOBB [OPS move] 2/11/2016]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS359891_1949.0003.33.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25398"
       }
     ]
   },

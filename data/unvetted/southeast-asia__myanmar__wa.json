@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "southeast-asia__myanmar__wa",
   "people_key": "Q843392",
-  "count": 5,
+  "count": 11,
   "buckets": {
     "painting-mss": [
       {
@@ -41,7 +41,56 @@
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_18/4f5c6574_9469_4154_83b5_a3be012e5581/preview_00454767_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1901-0318-14"
       }
+    ],
+    "photo": [
+      {
+        "id": "prm-object-317579",
+        "source": "prm",
+        "title": "Men from Kengtung state photographed in Taunggyi.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS102813_1998.0323.56.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-317579"
+      }
+    ],
+    "household": [
+      {
+        "id": "prm-object-44364",
+        "source": "prm",
+        "title": "Bag used by men and women, black and mirrors in crocheted circles",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS205318_1997.0028.47.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-44364"
+      }
+    ],
+    "arms": [
+      {
+        "id": "70.2009.50.2",
+        "source": "quaibranly",
+        "title": "Carquois",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/423686y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2009.50.2"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-32881",
+      "source": "prm",
+      "title": "Fire piston",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS353773_1938.0035.79.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-32881"
+    },
+    {
+      "id": "prm-object-264144",
+      "source": "prm",
+      "title": "Bamboo cylinder of a fire piston. [MJD (Verve) 5/9/2017]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS591534_1938.0035.79.1.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-264144"
+    },
+    {
+      "id": "prm-object-264145",
+      "source": "prm",
+      "title": "Wooden piston of a fire piston. [MJD (Verve) 5/9/2017]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS591533_1938.0035.79.2.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-264145"
+    }
+  ]
 }

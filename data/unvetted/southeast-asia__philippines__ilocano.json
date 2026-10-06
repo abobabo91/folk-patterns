@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "southeast-asia__philippines__ilocano",
   "people_key": "Q2527423",
-  "count": 14,
+  "count": 21,
   "buckets": {
     "household": [
       {
@@ -107,6 +107,61 @@
         "title": "Manta",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE6862_P.JPG%26Ninv%3DCE6862&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_22676_inventary_CE6862_table_FMUS_museum_MNA"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "prm-object-135195",
+        "source": "prm",
+        "title": "Charm against evil spirits, hung outside the house. Consists of 12 thin plates of pearl shell (?Gold-lip oyster or similar) tied with string to a circle of twisted cane.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS488997_1965.0003.148.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-135195"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "71.1902.1.359",
+        "source": "quaibranly",
+        "title": "Vase",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/328/328775.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1902.1.359"
+      },
+      {
+        "id": "71.1902.1.374",
+        "source": "quaibranly",
+        "title": "Vase funéraire",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/000000/5851y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1902.1.374"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PV0020488",
+        "source": "quaibranly",
+        "title": "Félippo - 29 ans - [masculin]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.43_02/PV0020488_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0020488"
+      },
+      {
+        "id": "PV0020487",
+        "source": "quaibranly",
+        "title": "Angelino - 25 ans - [masculin]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.43_02/PV0020487_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0020487"
+      },
+      {
+        "id": "PV0002630",
+        "source": "quaibranly",
+        "title": "Galindo",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0004.02_02/PV0002630_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0002630"
+      },
+      {
+        "id": "PV0079684",
+        "source": "quaibranly",
+        "title": "Urne funéraire",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0004.53_05/PV0079684_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0079684"
       }
     ]
   },

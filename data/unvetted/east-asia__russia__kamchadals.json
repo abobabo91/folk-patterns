@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "east-asia__russia__kamchadals",
   "people_key": "Q1322825",
-  "count": 21,
+  "count": 33,
   "buckets": {
     "photo": [
       {
@@ -150,8 +150,99 @@
         "title": "män, tillverkning, batt [?], rök, kvinnor, fett, kanot, fotografi, photograph",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2275716%2F0946.0338.0001_bearb.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2683556"
+      },
+      {
+        "id": "PA000304",
+        "source": "quaibranly",
+        "title": "Corpus de treize portraits de personnes originaires de Russie, de Chine et de Siam",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/ANONYMES/PA000304%20Sommier-Ramond-Anonyme_prise%20de%20vue%20Pauline%20Guyon/pa000304.1_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000304"
+      },
+      {
+        "id": "PV0062047",
+        "source": "quaibranly",
+        "title": "Kamtschadal, en costume d'été",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.45_03/PV0062047_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0062047"
+      },
+      {
+        "id": "PV0062048",
+        "source": "quaibranly",
+        "title": "Femme Kamtschadale avec ses enfants",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.45_03/PV0062048_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0062048"
+      },
+      {
+        "id": "98167",
+        "source": "kunstkamera",
+        "title": "Доярка колхоза \"Север\" Камчадалы. Россия, Магаданская область, Ольский р-он, пос. Ола. 1939",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTBADNSdag1jDefnXddTwfEAZmJwdPFtXT7Y2v_cyTqAj.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/98167"
+      },
+      {
+        "id": "335434",
+        "source": "kunstkamera",
+        "title": "Камчадалка. Камчадалы. Россия, Камчатский край. 1925-1930",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KXN1QnCS8eXoGCrhUXzyGX9lj-NxFcTu_mBIGi0YYbk0.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/335434"
+      }
+    ],
+    "garment": [
+      {
+        "id": "/91619/SMVK_EM_objekt_1314085",
+        "source": "europeana",
+        "title": "anorak",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1314087%2F2002.12.0001.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1314085"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "71.1943.27.448",
+        "source": "quaibranly",
+        "title": "Statuette représentant un Itelmène",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/261/261166.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1943.27.448"
+      },
+      {
+        "id": "296478",
+        "source": "kunstkamera",
+        "title": "Модель грузовой собачьей нарты. Камчадалы. Россия, Камчатский край, первая половина XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KS-rbfWH4G8FszgSgFaTT28_3xXUrchBrv6uKMgexdr8.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/296478"
+      },
+      {
+        "id": "314215",
+        "source": "kunstkamera",
+        "title": "Модель лодки. Коряки, чукчи, камчадалы",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KfZoAsFLcEQEddimKcjmjJLbAEmHiutene7weqUR_77O.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/314215"
+      }
+    ],
+    "household": [
+      {
+        "id": "137943",
+        "source": "rem",
+        "title": "Корзина. Камчадалы (ительмены)",
+        "image": "https://collection.ethnomuseum.ru/api/spf/1uBD4_Xq2UN9nmkBT4rmmazJzCnssecLRai7bSkxOjOBgLBCoav0Dqf71BMTXFxS.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/137943"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "112333",
+      "source": "rem",
+      "title": "«Алык» - упряжь на собаку. Камчадалы (ительмены)",
+      "image": "https://collection.ethnomuseum.ru/api/spf/YAC6RrMndqlTIQdhUdPkBlxbc6cSURuGrj_UOJW4hEUyUtWlIK2CZQrZ_TuqfSIo.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/112333"
+    },
+    {
+      "id": "112320",
+      "source": "rem",
+      "title": "«Малахай». Камчадалы (ительмены)",
+      "image": "https://collection.ethnomuseum.ru/api/spf/YAC6RrMndqlTIQdhUdPkBpvxb-1JdRSY8s4Gjmnyw-Ivh7j11opNB1gE98hSg0Db.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/112320"
+    }
+  ]
 }

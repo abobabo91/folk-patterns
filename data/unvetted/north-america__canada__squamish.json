@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__canada__squamish",
   "people_key": "Q2034266",
-  "count": 6,
+  "count": 12,
   "buckets": {
     "photo": [
       {
@@ -40,6 +40,29 @@
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2110659"
       }
     ],
+    "household": [
+      {
+        "id": "E_Am1861-0312-20",
+        "source": "bm",
+        "title": "bucket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/8120b74d_0f42_4571_bbe1_a3d70100040d/preview_01090541_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1861-0312-20"
+      },
+      {
+        "id": "E_Am1861-0312-22",
+        "source": "bm",
+        "title": "bucket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/c1a7bb39_8651_4727_b3f5_a3d70104d747/preview_01091789_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1861-0312-22"
+      },
+      {
+        "id": "E_Am1861-0312-21",
+        "source": "bm",
+        "title": "bucket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/0a14445c_5a1b_48d7_8c28_a3d701000bbf/preview_01090545_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1861-0312-21"
+      }
+    ],
     "painting-mss": [
       {
         "id": "/91608/SMVK_VKM_objekt_16844",
@@ -48,7 +71,31 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1244794%2Fimage.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16844"
       }
+    ],
+    "sculpture": [
+      {
+        "id": "prm-object-254888",
+        "source": "prm",
+        "title": "Wooden painted model totem pole. [FB 30/10/2014]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS270482_2014.0043.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-254888"
+      },
+      {
+        "id": "prm-object-221529",
+        "source": "prm",
+        "title": "Model totem pole carved from red cedar wood. [MdeA 14/03/2008]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS292539_2008.0051.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-221529"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-222337",
+      "source": "prm",
+      "title": "Carving depicting an eagle, bear, raven and wolf, for suspension on a wall.",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS292657_2008.0080.1.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-222337"
+    }
+  ]
 }

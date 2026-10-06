@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__tanzania__ngindo",
   "people_key": "Q1570205",
-  "count": 6,
+  "count": 9,
   "buckets": {
     "household": [
       {
@@ -31,6 +31,20 @@
         "title": "filter",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/9f8e5da2_3bb5_481d_a27f_a3e60148a112/preview_01607370_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1935-1024-7"
+      },
+      {
+        "id": "obj-213785",
+        "source": "smb",
+        "title": "Hocker",
+        "image": "https://search.smb.museum/media/images/thumbs/large/899/002/2899772.jpg",
+        "object_url": "https://id.smb.museum/object/213785"
+      },
+      {
+        "id": "obj-213872",
+        "source": "smb",
+        "title": "Kopfstütze",
+        "image": "https://search.smb.museum/media/images/thumbs/large/577/005/5577501.jpg",
+        "object_url": "https://id.smb.museum/object/213872"
       }
     ],
     "ceramic": [
@@ -50,5 +64,13 @@
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "obj-216587",
+      "source": "smb",
+      "title": "Medizinische Objekte",
+      "image": "https://search.smb.museum/media/images/thumbs/large/076/005/5076670.jpg",
+      "object_url": "https://id.smb.museum/object/216587"
+    }
+  ]
 }

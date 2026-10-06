@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__canada__chipewyan",
   "people_key": "Q127515",
-  "count": 6,
+  "count": 14,
   "buckets": {
     "household": [
       {
@@ -10,6 +10,13 @@
         "title": "ammunition-pouch",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/1d90d117_dce6_4a34_a16f_a3bb005ef8ea/preview_00305372_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1986-18-17"
+      },
+      {
+        "id": "71.1931.44.143",
+        "source": "quaibranly",
+        "title": "Sac à montre",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/126/126720.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1931.44.143"
       }
     ],
     "garment": [
@@ -33,6 +40,20 @@
         "title": "moccasin",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2017_10/6_15/b8ddd6ca_aeb4_4b97_9f33_a80401033f39/preview_am1855_1126_282__a_.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1855-1126-282"
+      },
+      {
+        "id": "71.1931.44.144",
+        "source": "quaibranly",
+        "title": "Bandeau de tête",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/126/126721.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1931.44.144"
+      },
+      {
+        "id": "71.1878.33.16",
+        "source": "quaibranly",
+        "title": "Raquette à neige",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/096/96082.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1878.33.16"
       }
     ],
     "photo": [
@@ -42,6 +63,13 @@
         "title": "postcard; photographic print (black and white)",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/fbe30ce8_cb41_414d_b767_a3c600ed0247/preview_01017481_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B56-122"
+      },
+      {
+        "id": "PP0125499",
+        "source": "quaibranly",
+        "title": "Bandeau de tête, en perles rouges et bleues",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_06/PP0125499_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0125499"
       }
     ],
     "textile": [
@@ -51,8 +79,39 @@
         "title": "bag",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/18_14/4d2b2e82_6d4d_412e_86dc_a9ba00f26d09/preview_am1982_28_10__a_.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1982-28-10"
+      },
+      {
+        "id": "71.1931.44.175",
+        "source": "quaibranly",
+        "title": "Navette",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/126/126752.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1931.44.175"
+      },
+      {
+        "id": "71.1931.44.176",
+        "source": "quaibranly",
+        "title": "Navette",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/126/126753.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1931.44.176"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "/2022703/pages_Main_idt_5718_inventary_CE10001_table_FMUS_museum_MNA",
+        "source": "europeana",
+        "title": "Escultura de busto",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE10001_SEQ_001_P.JPG%26Ninv%3DCE10001&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_5718_inventary_CE10001_table_FMUS_museum_MNA"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "71.1952.14.8",
+      "source": "quaibranly",
+      "title": "Fragment de canot",
+      "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/262/262638.jpg&width=400&height=400&cache=yes",
+      "object_url": "https://collections.quaibranly.fr/#/search?q=71.1952.14.8"
+    }
+  ]
 }

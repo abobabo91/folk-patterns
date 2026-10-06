@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__nicaragua__miskito",
   "people_key": "Q332976",
-  "count": 2,
+  "count": 7,
   "buckets": {
     "textile": [
       {
@@ -10,6 +10,13 @@
         "title": "barkcloth",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/1ccc1075_6d74_4708_b866_a3da010e65ac/preview_01215158_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am-8798"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_10491_inventary_13354BIS_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Manta",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF13354BIS_P.JPG%26Ninv%3D13354BIS&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_10491_inventary_13354BIS_table_FMUS_museum_MAM"
       }
     ],
     "arms": [
@@ -19,6 +26,38 @@
         "title": "hatchet; axe",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_22/40f4db97_479f_4a69_90cf_a3b801741fce/preview_00340544_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am-SLMisc-43"
+      }
+    ],
+    "garment": [
+      {
+        "id": "/2022703/pages_Main_idt_18467_inventary_11239_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Blusa",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF11239_SEQ_003_P.JPG%26Ninv%3D11239&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_18467_inventary_11239_table_FMUS_museum_MAM"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PP0121714",
+        "source": "quaibranly",
+        "title": "Urne funéraire précolombienne",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_17/PP0121714_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0121714"
+      },
+      {
+        "id": "PP0121715",
+        "source": "quaibranly",
+        "title": "Urne funéraire en céramique",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_17/PP0121715_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0121715"
+      },
+      {
+        "id": "PP0232111",
+        "source": "quaibranly",
+        "title": "Mosquito - urn",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0003.34_09/PP0232111_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0232111"
       }
     ]
   },

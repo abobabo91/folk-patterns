@@ -1,7 +1,43 @@
 {
   "ethnicity_key": "south-asia__india__wancho",
   "people_key": "Q4103467",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 4,
+  "buckets": {
+    "painting-mss": [
+      {
+        "id": "prm-object-221587",
+        "source": "prm",
+        "title": "Watercolour painting of two men.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS292377_2008.0070.14.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-221587"
+      }
+    ],
+    "household": [
+      {
+        "id": "obj-120410",
+        "source": "smb",
+        "title": "Tut Jong",
+        "image": "https://search.smb.museum/media/images/thumbs/large/909/001/1909355.jpg",
+        "object_url": "https://id.smb.museum/object/120410"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "obj-1035701",
+        "source": "smb",
+        "title": "Ohrring",
+        "image": "https://search.smb.museum/media/images/thumbs/large/865/004/4865476.jpg",
+        "object_url": "https://id.smb.museum/object/1035701"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "obj-1847016",
+      "source": "smb",
+      "title": "–",
+      "image": "https://search.smb.museum/media/images/thumbs/large/252/004/4252621.jpg",
+      "object_url": "https://id.smb.museum/object/1847016"
+    }
+  ]
 }

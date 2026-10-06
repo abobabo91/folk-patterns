@@ -1,7 +1,894 @@
 {
   "ethnicity_key": "east-asia__russia__yukaghir",
   "people_key": "Q720386",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 125,
+  "buckets": {
+    "jewelry": [
+      {
+        "id": "437235",
+        "source": "rem",
+        "title": "Нагрудник мужской. Юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/WHzgaCFJWd8HaozvTIeQwl6gn9aODUh7e25PY8jkyKN5Gtlw7wr1DHMz5Tpph8ZX.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/437235"
+      }
+    ],
+    "garment": [
+      {
+        "id": "112337",
+        "source": "rem",
+        "title": "Головной убор. Юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/NVkc0CzIKsXgZ6yhfDe7REDm1uW2B3y0yItNaz8IeZoBmOCZuJ2au_-OYRaJzrbI.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/112337"
+      }
+    ],
+    "photo": [
+      {
+        "id": "61886",
+        "source": "rem",
+        "title": "Негатив: Мужчина около чума. Юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/3dWO24f6MPc1MWY1VFx8uz10kVJngcLMOQp0dRRFoH5n0HLG6PKIrUC6hOMv64sr.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/61886"
+      },
+      {
+        "id": "61919",
+        "source": "rem",
+        "title": "Негатив: Старинные и современные жилища. Юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/3dWO24f6MPc1MWY1VFx8u-rVcVZaLaaHLdRhX4DVhbgTpmLVdYa_r2XDBqmaFP6W.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/61919"
+      },
+      {
+        "id": "472663",
+        "source": "rem",
+        "title": "Негатив: Часть центральной улицы. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89K_8CG-ublV4xkqTd_sNLJXZ6EGUDf66-G3HhbuSMH2E.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472663"
+      },
+      {
+        "id": "472664",
+        "source": "rem",
+        "title": "Негатив: Традиционные постройки в филиале краеведческого музея. Якуты; эвены; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89Frc3uXAK3fMvTuKKXfaWO3ODgGCwN5qq6YtQf-hAXjK.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472664"
+      },
+      {
+        "id": "472665",
+        "source": "rem",
+        "title": "Негатив: Группа людей. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89MaV61wUnAtyjAJCXTI9y5Pp4-xiEpfJYwd0LY5ADykL.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472665"
+      },
+      {
+        "id": "472666",
+        "source": "rem",
+        "title": "Негатив: Чум. Юкагиры; якуты; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89GDg4jyFG9JgyulISsYvs2brZl3bEzjVBUpOC7x4_eEA.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472666"
+      },
+      {
+        "id": "472667",
+        "source": "rem",
+        "title": "Негатив: Чум. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89MNfD41M6Qc1ol-E61F7Dou3PdhJ6gAvNdln9Gw0P8bp.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472667"
+      },
+      {
+        "id": "472668",
+        "source": "rem",
+        "title": "Негатив: Плетение сети. Эвены; якуты; юкагиры; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89PMxqikcT68oSxT4Lvc7HJs5VvhI3PV_CldwjfIc-Z8m.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472668"
+      },
+      {
+        "id": "472669",
+        "source": "rem",
+        "title": "Негатив: Плетение сети. Эвены; юкагиры; якуты; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89IQ1p5oSXwFtZjaj0ZbMpBGvcEg77qOnxjVwGo84JXS6.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472669"
+      },
+      {
+        "id": "472670",
+        "source": "rem",
+        "title": "Негатив: Часть поселка. Якуты; эвены; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89KyKko4mGMp86cU9Watx-8tU3UUBWt-2rJQUFidauzCy.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472670"
+      },
+      {
+        "id": "472671",
+        "source": "rem",
+        "title": "Негатив: Окрестности поселка. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89MTewP_dDpo0SN10qQmvbKNMxJmKUkfv5cV3ZDUtUgTI.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472671"
+      },
+      {
+        "id": "472672",
+        "source": "rem",
+        "title": "Негатив: Хотон для скота. Юкагиры; якуты; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89CRIZnMeSoekP18Sz0hRQqt4R48wrfLbpfN1XhQDCshl.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472672"
+      },
+      {
+        "id": "472673",
+        "source": "rem",
+        "title": "Негатив: Хотон для скота. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89O9iZ2_NYdiDRmKjS4Ldp2Z0bnNmxa9k3YvR_jBQxDNj.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472673"
+      },
+      {
+        "id": "472674",
+        "source": "rem",
+        "title": "Негатив: Окрестности поселка. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89AyLhWjlRbHOZ_FTAwP9PpzWHibvD8ugItWVxCw4aGWW.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472674"
+      },
+      {
+        "id": "472675",
+        "source": "rem",
+        "title": "Негатив: Приготовление вяленой рыбы. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89HB2OomD8XPu58-awgm9FFBJf3DzL-SlkwH8ApeKGQdX.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472675"
+      },
+      {
+        "id": "472676",
+        "source": "rem",
+        "title": "Негатив: Срубная постройка. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89NJekYQzKfOzVTqeeyLsapSgdeVnJuVd3CPQs3JyVnQN.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472676"
+      },
+      {
+        "id": "472677",
+        "source": "rem",
+        "title": "Негатив: Срубная постройка. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89HUfWyoDnL1o52YkyuOSiWVi86K_U_Blo6TP4T0TBGW4.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472677"
+      },
+      {
+        "id": "472678",
+        "source": "rem",
+        "title": "Негатив: Окрестности поселка. Чукчи; юкагиры; эвены; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89MbXNBO53kB6cNm4M9N5O28EoB_yh4UuVSeswhsbNU3S.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472678"
+      },
+      {
+        "id": "472679",
+        "source": "rem",
+        "title": "Негатив: Вид на реку Нелемное. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89KoM81yTkf83a_TCnJ13fuJbKyBLuGZdhRv-1WwDRlTJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472679"
+      },
+      {
+        "id": "472680",
+        "source": "rem",
+        "title": "Негатив: Вид с парома на поселок. Эвены; якуты; юкагиры; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89BiLY-ssUa-ehyKdy01kCMzpb6RznaGCGlfAJZVaR72i.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472680"
+      },
+      {
+        "id": "472681",
+        "source": "rem",
+        "title": "Негатив: Вид с парома на поселок. Эвены; юкагиры; якуты; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89GgN6paVWMXY-DCx4kptFpJJa8w-wn9Um-OVSOeuXIOu.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472681"
+      },
+      {
+        "id": "472682",
+        "source": "rem",
+        "title": "Негатив: Подсобные помещения. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89Gfgpvriz5UPkEJ7FuJ9CR133kQY1RO5ns0n2GASFa_k.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472682"
+      },
+      {
+        "id": "472683",
+        "source": "rem",
+        "title": "Негатив: Пейзаж. Якуты; юкагиры; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89NM-EI-jd3BZbxBFdv2mP1HQx-Dh7RvBwuDxtsLFPNcc.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472683"
+      },
+      {
+        "id": "472684",
+        "source": "rem",
+        "title": "Негатив: Пейзаж. Эвены; чукчи; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89PmFnhpKY-2DrP5LqB2zPNgxCFTtijsgkI7HkHOAs3Dw.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472684"
+      },
+      {
+        "id": "472685",
+        "source": "rem",
+        "title": "Негатив: Пейзаж. Якуты; чукчи; юкагиры; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89C3CuhYr40JdkthewfJFc5Yv8sAZMTCNrNJLQ-Q_BrDT.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472685"
+      },
+      {
+        "id": "472686",
+        "source": "rem",
+        "title": "Негатив: Приготовление вяленой рыбы. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89E-0N6DmnxQa7MHCuSgmG8a6t6zAJKdzcjNCxtENfJA6.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472686"
+      },
+      {
+        "id": "472687",
+        "source": "rem",
+        "title": "Негатив: Здание библиотеки и клуба. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89AE2HMTO1qGANyLXwSAPD_w9OCRfUCaxQnSUpRXseake.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472687"
+      },
+      {
+        "id": "472688",
+        "source": "rem",
+        "title": "Негатив: Здание библиотеки и клуба. Чукчи; юкагиры; эвены; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89KMIAAjwzoYsL1GTszAc51XzB5I9fRSUSxPgDWhBDvRA.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472688"
+      },
+      {
+        "id": "472689",
+        "source": "rem",
+        "title": "Негатив: Аэропорт. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89MpOjPPa8UKmHMwJr2QAQVKVAuFBLIos2JfHRnJNX0FQ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472689"
+      },
+      {
+        "id": "472691",
+        "source": "rem",
+        "title": "Негатив: Памятник Е.М. Ярославскому. Эвены; юкагиры; якуты; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89D787BaYkOI7hgqIFdV1PciOOIXSl4mccCTjL4mZGkrE.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472691"
+      },
+      {
+        "id": "472692",
+        "source": "rem",
+        "title": "Негатив: Краеведческий музей. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89Eezl9abFoi5Y9RdntfRUYxsjmcO_ywaRVBiVYpxfFKu.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472692"
+      },
+      {
+        "id": "472693",
+        "source": "rem",
+        "title": "Негатив: Остатки башни крепости в музее. Якуты; юкагиры; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89DbU9yYbYmoWSK9qJKyeR0acMLcSOFt5rcWJYSDkru85.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472693"
+      },
+      {
+        "id": "472694",
+        "source": "rem",
+        "title": "Негатив: Группа людей. Эвены; чукчи; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89Gq_M2pNHi7jclw7PBUbz5qLl_wK5_h1_3ZMj9mn-v2k.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472694"
+      },
+      {
+        "id": "472695",
+        "source": "rem",
+        "title": "Негатив: Группа людей. Якуты; чукчи; юкагиры; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89DqgNRlyjs3bgIEAGdsD_45jTlB_c3Fu1jApDJ2XiE7s.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472695"
+      },
+      {
+        "id": "472696",
+        "source": "rem",
+        "title": "Негатив: Группа людей. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89HnCkyRT-I6-Clo60UfZt1z2Xa4T2LPPJj-rkvmCY3ls.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472696"
+      },
+      {
+        "id": "472697",
+        "source": "rem",
+        "title": "Негатив: Директор краеведческого музея Д.А. Лебедев с женой и инспектор «Рыбнадзора». Эвены; юкагиры; якуты; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89BXizVJdF7jd39APS5D2mps8Px6C3BSA_F8COEJkjDLb.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472697"
+      },
+      {
+        "id": "472698",
+        "source": "rem",
+        "title": "Негатив: Группа людей. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89HgZqeYwREJmgItZNBs95vc3-lVQPEbNgmfXRaDleZUQ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472698"
+      },
+      {
+        "id": "472699",
+        "source": "rem",
+        "title": "Негатив: Сотрудник музея Л.Г. Лельчук. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89KI03YUPApx29A74pNMenFRAgdGraS0C6BRkCqzvVeaN.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472699"
+      },
+      {
+        "id": "472700",
+        "source": "rem",
+        "title": "Негатив: Усадьба. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89G-ya23fgfM-SmS6GdshKaNmw9hR9qFirHDa11CBRkoE.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472700"
+      },
+      {
+        "id": "472701",
+        "source": "rem",
+        "title": "Негатив: Усадьба. Эвены; якуты; юкагиры; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89KTem60bgDXhlVDtxXGPd8k_7rUWDJGFFrWGEW0j7xcv.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472701"
+      },
+      {
+        "id": "472702",
+        "source": "rem",
+        "title": "Негатив: Школа-интернат. Эвены; юкагиры; якуты; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89ICEa3Yvw9jdbiQ6DFIgBc2vLpefvhTKc0bY5DuXtK-F.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472702"
+      },
+      {
+        "id": "472703",
+        "source": "rem",
+        "title": "Негатив: Здание сельсовета. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89F2n7NrKCMjbt33hQzTx3OvMSxpUWTGsTss08sa4kl5g.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472703"
+      },
+      {
+        "id": "472704",
+        "source": "rem",
+        "title": "Негатив: Срубное жилище и чум. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89AMhcFwziD34BA8uPrbQ63y2CB3OXfWo-1BEIWmVF4HQ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472704"
+      },
+      {
+        "id": "472705",
+        "source": "rem",
+        "title": "Негатив: Окрестности поселка. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89NbTt0p1Bn5J-9GPggBIq9rolhSKqmmce2jtBCUuT7Ro.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472705"
+      },
+      {
+        "id": "472706",
+        "source": "rem",
+        "title": "Негатив: Окрестности поселка. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89ABvmHOHksEufdEHizHotwWyxTdGZTLWPbso4HH2_nMY.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472706"
+      },
+      {
+        "id": "472707",
+        "source": "rem",
+        "title": "Негатив: Вид на реку. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89GPFWBhvh6SAwhlYmY40JTo__bEsfpG9_3BREFofzX72.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472707"
+      },
+      {
+        "id": "472708",
+        "source": "rem",
+        "title": "Негатив: Директор краеведческого музея Д.А. Лебедев, инспектор «Рыбнадзора» и сотрудник музея. Юкагиры; якуты; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89CWkiRih3lFHhsaVVFe6VE9uOfxSHsTypr5oWf2DqZYA.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472708"
+      },
+      {
+        "id": "472709",
+        "source": "rem",
+        "title": "Негатив: Тайга. Якуты; эвены; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89J0Y4B9Je2yJsGk7TSBm8Hi8cCDWbOoAre93AwZTG8J8.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472709"
+      },
+      {
+        "id": "472710",
+        "source": "rem",
+        "title": "Негатив: Надмогильный памятник. Эвены; якуты; юкагиры; чукчи",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89Aj6n8KRuYt_yq2FWxpie57d3dFZcM_BKBuz-F3KyMx2.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472710"
+      },
+      {
+        "id": "472711",
+        "source": "rem",
+        "title": "Негатив: Надмогильный памятник. Юкагиры; якуты; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89FOAH7Jaxk5vG9Ra9nUV2lwyD2dZDyeZx3iPtuNNzQ9X.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472711"
+      },
+      {
+        "id": "472712",
+        "source": "rem",
+        "title": "Негатив: Кладбище. Якуты; эвены; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89I4mLFcoaIz0AvNUsXtWG3LfP4BV336KTpFJcReZw-WD.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472712"
+      },
+      {
+        "id": "472713",
+        "source": "rem",
+        "title": "Негатив: Кладбище. Юкагиры; якуты; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89FOdz5RpOJ1ue77zQMNEV6QVgImj8QoKN3r9WlJgCufW.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472713"
+      },
+      {
+        "id": "472714",
+        "source": "rem",
+        "title": "Негатив: Детская могила. Эвены; чукчи; юкагиры; якуты",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89CQYToeiLZGmEAft9NWCNMhUpFVlf03gtBs3pwJBNnaC.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472714"
+      },
+      {
+        "id": "472715",
+        "source": "rem",
+        "title": "Негатив: Детская могила. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89BzWbHaM7F892y5Q08YqV7Er_lnBjdqPqOaE_8BTZkPt.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472715"
+      },
+      {
+        "id": "472716",
+        "source": "rem",
+        "title": "Негатив: Лесотундра. Эвены; якуты; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89MqHbi4cDFsjQfg3y_qSLMs00l51ZMD8b02cjr6Q_gUB.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472716"
+      },
+      {
+        "id": "472717",
+        "source": "rem",
+        "title": "Негатив: Лесотундра. Якуты; эвены; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89D8mIXKsg4eyvwsRCiRqhAPIC36FrCfjQ6M0icbzddrJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472717"
+      },
+      {
+        "id": "472718",
+        "source": "rem",
+        "title": "Негатив: Срубное жилище и чум. Чукчи; эвены; якуты; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89AkMOTZCiZ5pJkwola0x7ZnyiXrVIzOTjHV0dR2flMXE.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472718"
+      },
+      {
+        "id": "472719",
+        "source": "rem",
+        "title": "Негатив: Сотрудники краеведческого музея в тундре. Юкагиры; якуты; чукчи; эвены",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89EazIMGfy-8-7OhFS2T_ViL_QQghrFJJMtwkEjAasIr-.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472719"
+      },
+      {
+        "id": "472720",
+        "source": "rem",
+        "title": "Негатив: Срубное жилище и чум. Якуты; эвены; чукчи; юкагиры",
+        "image": "https://collection.ethnomuseum.ru/api/spf/Zvo2ngnSan-tDHMdcPs89LNZzoZIA53Zh18KNelpcjKyblLfsBjvwgbVw_RNbbTI.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/472720"
+      },
+      {
+        "id": "82776",
+        "source": "kunstkamera",
+        "title": "Императорская Академия наук. Музей антропологии и этнографии: зимняя одежда юкагиров. Юкагиры. Россия, город Санкт-Петербург, конец XIX - начало XX вв.",
+        "image": "https://collection.kunstkamera.ru/api/spf/kLEwWFV_AqrOf706WczLxWN6fPThkYrnqLfNQjp3fqR70IsQLTww-Wny8wa0Cm56.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/82776"
+      },
+      {
+        "id": "89879",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Амбар. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/8EOZMqY2fJOZxROeF1vYifKI5geIVn3Xd8RrMY4Kb9q1hZ6uMWp1jQX4pvWYbaN0.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89879"
+      },
+      {
+        "id": "89763",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Берестяной чум. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTMZauGckcqFrMjDKy94HysgNpj6j2Sc1wa-eHdeoFlxP.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89763"
+      },
+      {
+        "id": "89873",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Верхнеколымские юкагиры отправляются по ягоды. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTAFotyBfJsowfM9QtflsBuVe83kI9fHebPjxycT8lKTW.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89873"
+      },
+      {
+        "id": "90501",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Верхнеколымские юкагиры с реки Ясачной едут осенью настораживать ловушки на лисицу. Юкагиры. Россия, Якутия (Саха), Верхнеколмыский р-он, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTIARjUAjmLNRGICEPHRd33CET6WIOwkWCGfKHovZpulp.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/90501"
+      },
+      {
+        "id": "90369",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Вид кладбища. Якуты, юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTCGwDYT3v5S5Gw_Z7IQKFZQ95cNa_5fGa1-pXHLV2kar.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/90369"
+      },
+      {
+        "id": "89864",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Вид на устье реки Коркодон, впадающей в Колыму, вдали видны чумы юкагиров. Юкагиры. Россия, Магаданская область, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTBbxcOnr824T6LWkx32yL8IU_O3N2w6Eq3APQk00UOxz.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89864"
+      },
+      {
+        "id": "90510",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Вид сломанного леса. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTNJ74ruKnYZHzR5vEJVGcsV5rBVy9zuTYODZDgFzDLY5.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/90510"
+      },
+      {
+        "id": "89854",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа детей. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTBxsepnMNPdErFbOgrLuqDQfzTB1W_PTzYyyHU6MV_Qv.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89854"
+      },
+      {
+        "id": "89915",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа колымских юкагиров передвигается на ездовых собаках. Юкагиры, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/8EOZMqY2fJOZxROeF1vYicwnvSbsOUugAi_CjQZYE_B_3bHPnCKabfHsI09wini2.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89915"
+      },
+      {
+        "id": "89772",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа мужчин и женщин в традиционных костюмах. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTAaiNZ9qkYTg35-Alv513F8Or4g7CtZG6rREkyqUnl7G.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89772"
+      },
+      {
+        "id": "89786",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа юкагиров в традиционных зимних костюмах. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTPmEIGIGf5TPWuvN8sRP_uwAizskn_42p-82YuM7_BUm.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89786"
+      },
+      {
+        "id": "89806",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа юкагиров в традиционных костюмах. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTP3OAMyoKEcln7h5qN1xkyzp3uG8EEzJ3qwD3dbBYXB_.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89806"
+      },
+      {
+        "id": "89888",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа юкагиров на берегу реки. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTA0T7ppEL48VsT4QB2zyK-Rwi0YdEN7An9r4sVSteMrb.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89888"
+      },
+      {
+        "id": "89943",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа юкагиров перед заслонами на берегу, слева - берестяной чум. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTAt4Bn-XzGVx0lL_LbaSRfuX-gXJK7LdL5CZrSJhdEYL.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89943"
+      },
+      {
+        "id": "89942",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа юкагиров перед заслонами. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTCW4Unl6uInLoUVml26nbg2SJXq3CGZUvP4xFR799YJH.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89942"
+      },
+      {
+        "id": "89785",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа юкагиров. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/Yi06sdV4Us4xx0UD77VJZTDwdLl0WXm4M4nmS517ntAC8_xglfsqXpNcyi2vlBbm.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89785"
+      },
+      {
+        "id": "89867",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Группа юкагирских детей, одетых в меховую одежду. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTFClBUv6x1U3c-op4jPu85za3x8pkUtohC4c3G_rJtX8.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89867"
+      },
+      {
+        "id": "90498",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Две молодые девушки с реки Ясачной в традиционных летних костюмах. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTMF347XPWvungmy7v5eD-NzlaI_yn6dNkJS_9Js8slk9.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/90498"
+      },
+      {
+        "id": "89862",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Девушки-юкагирки в традиционных костюмах. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTGRPFeZ3uqd9xq3CVtgEO0S94a6B9F6641fviq0CYTB3.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89862"
+      },
+      {
+        "id": "90399",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Деревянный дом обруселых юкагиров, переделанный под часовню. Рядом - могила Д. И. Черского. Юкагиры. Россия, Якутия (Саха), Нижнеколымский р-он, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTNkFRGVR-rwdkhKUYJHbXzKUoMh_0EfbNDKz52z9jdMX.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/90399"
+      },
+      {
+        "id": "89783",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Дети. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTLbQYci-bhKFZTTAf78vgUdYAdrFF45oFBXYl2Ho4xvR.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89783"
+      },
+      {
+        "id": "89761",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Детская меховая одежда юкагиров. Юкагиры, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTNRtbR_asVbTX20Kci02fyFx_xjRjOYZTGVDKtl7_zDp.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89761"
+      },
+      {
+        "id": "89881",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Древнее надземное погребение. Юкагиры, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTK2LQKQJAoHJEvyqLuu5q5w8uwR-kQDWdBf1IZ6zn_Vm.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89881"
+      },
+      {
+        "id": "89795",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Езда на лодке-долбленке. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTKvBHZgbC7B9vteGnKXShrltz0z6OrZUvLJKbzEvw3aU.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89795"
+      },
+      {
+        "id": "89759",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Жена и сестра князца первого Алазейского юкагирского рода (слева - ламутка, справа - юкагирка). Юкагиры, ламуты. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTJnZFxg9Rq_gV846Up_KrGqDYqXLKuVsZi48crKQ7-sQ.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89759"
+      },
+      {
+        "id": "89844",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщина в европейском платье и платке. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/8EOZMqY2fJOZxROeF1vYiQNcJ3okcHQUOcczyk_xZIZLExwJfEfYsdrPVRXmVvr3.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89844"
+      },
+      {
+        "id": "89845",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщина в европейском платье и платке. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/8EOZMqY2fJOZxROeF1vYiUoKbv0J2BkXDknM2-xmBt2JezbsvjH5fYN5optHfEVJ.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89845"
+      },
+      {
+        "id": "89866",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщина на пороге дома сучит нитки, у ее ног - ребенок. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTECB2deT22v8OvKSXYl9OZjsU83vj32j4kmUcOuwvqIk.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89866"
+      },
+      {
+        "id": "89948",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины (профиль). Юкагиры (?), эвенки, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTIdEJcsa3WGkkJNuCFXdiSDQtWKfrG_FNgkuXNjqsov5.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89948"
+      },
+      {
+        "id": "89777",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины в кафтанах. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTOUI3XsRS_tJZ3u6H8hPO9e5422fUu6JaY2bX6OHboeW.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89777"
+      },
+      {
+        "id": "90429",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины в меховых одеждах. Чукчи, юкагиры (?). Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTOEVJ4goGVhDI-2eUjJvYlKhFwlblZ6T03pLxEaXle1Z.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/90429"
+      },
+      {
+        "id": "89758",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины в традиционных костюмах (фас, профиль). Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTKLvlQic3hOFVxcZbGnDE6bbrCFLrPSmEHE1SwI4ks2X.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89758"
+      },
+      {
+        "id": "89901",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины тащат лодку с детьми. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTB7beGYBBX3t03L1tiwju4y5wV5bwtBlZopeOoXHXH2g.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89901"
+      },
+      {
+        "id": "89902",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины тащат лодку с детьми. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTFNvOQOaxOP7gmXN_OFQqaavLiH5SJQmFuvV2DZlYTdD.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89902"
+      },
+      {
+        "id": "89863",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины-юкагирки в традиционных костюмах (профиль). Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTH_24rcC8_EEFRdS3alqsCMP-71ITEGWMUQUIS82HNxr.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89863"
+      },
+      {
+        "id": "89766",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Женщины: одна в меховом кафтане, другая - в платье европейского покроя. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTDC04dXpUnC837BY2odpRTEAYHeVJsWfYycqOZzvS9i-.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89766"
+      },
+      {
+        "id": "90493",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Жертвенник духу гор. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTNFhQiRUAyIx_nytNEN2SdMRy33UXxaiDnbPUM-V4IoF.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/90493"
+      },
+      {
+        "id": "89935",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Жилище оседлых юкагиров. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTEHQP4z-GTGZzUJ53frjx1U42Vj-26r0KYSxApjNpw9w.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89935"
+      },
+      {
+        "id": "89767",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. За едой в чуме. Юкагиры, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTJ2xNMKT6PY56mXFwsvoDnkZVaMeoAXrTidAWA0UKFcm.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89767"
+      },
+      {
+        "id": "89891",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Закол на реке Нелемной. Юкагиры. Россия, Якутия (Саха), Верхнеколмыский р-он, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTH6Z5xLdSHt8XYHBoqk2UINyKZlsHzN-kUXdVkEtZUlp.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89891"
+      },
+      {
+        "id": "89892",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Закол на реке, вдали - стойбище юкагиров. Юкагиры. Россия, Якутия (Саха), Верхнеколмыский р-он, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/8EOZMqY2fJOZxROeF1vYifd_elZucpAikxC8X1QzHwUacV7E0qg99oHSKDJ8CSct.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89892"
+      },
+      {
+        "id": "89940",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Зимнее жилище на реке Ясачной. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTGZgbuSlbAbiLMGu7ju6U8ay0MiiTLUQ_0ST9D7NdY8r.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89940"
+      },
+      {
+        "id": "89939",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Зимнее жилище юкагиров. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTLFNOV02gbiqgFTmP7fzDT3ZZaCLg6h4zAckVhVVsSPR.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89939"
+      },
+      {
+        "id": "89764",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Зимнее жилище: чум, покрытый ровдугой и меховыми покрышками. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTATyb0UGgnw2QCc60lHnXck_-UDNxE-qH5XJiaCXZSzO.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89764"
+      },
+      {
+        "id": "89765",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Зимняя ураса у края лесов князьца первого Алозейского рода и его отца. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTHJAvjo3TMy1dOuLDnpE3zm4bby8Pu6e6OUxmU3SD5_G.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89765"
+      },
+      {
+        "id": "89905",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Ивовые морды на рыбу. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTC7gFQ29fAVLmSlbcx0x6-yQgxy_5EaCGAglo4Jb4yBX.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89905"
+      },
+      {
+        "id": "89908",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Камелек (очаг). Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTCBglOvIf-Th1FQdhYF2pAxGBPAsEM9yxfP0SBgNT1YZ.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89908"
+      },
+      {
+        "id": "89945",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Карта маршрутов по рекам Ясачной и Каркадону. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/8EOZMqY2fJOZxROeF1vYiR6FjUXrwHDChzFDICtv9qjnxegLcJz-GogqAjasig9L.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89945"
+      },
+      {
+        "id": "89947",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Карта реки Колымы с притоками. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTM7us3JKC75-Ud0OuNQZore8pJPHjxyTRqOs1htGRPar.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89947"
+      },
+      {
+        "id": "89910",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Коллективные танцы юкагиров. Юкагиры, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTIWIfQIAhgLhg1GXJFQ3BMZ2u7ZGo104v9Ln_l_HERJg.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89910"
+      },
+      {
+        "id": "89911",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Коллективные танцы юкагиров. Юкагиры, конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTCNuM5R4sTf5RC7euyhqW0r1uzNC781tES1l_Kmsa7YE.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89911"
+      },
+      {
+        "id": "89909",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Коллективные танцы юкагиров. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTHliqYvI7vUoVn2TwMD9aR3p_PCo9XADdRInvr9vosyF.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89909"
+      },
+      {
+        "id": "89865",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Костюм юкагирских женщин. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTA6kVen9_nnipmc9UOsos7J30wFEfQVHo_WvO__KzIPU.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89865"
+      },
+      {
+        "id": "89912",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Лежащая собака. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/8EOZMqY2fJOZxROeF1vYifRVWY0MB0TxuePw1lBGB9_RG4nxqzzoM_xaeJl6fIqb.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89912"
+      },
+      {
+        "id": "89941",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Летнее жилище на реке Ясачной. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTADA_wKWyGGaxb0odWsz-eJxWZO11V45vIiQgf41Rveb.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89941"
+      },
+      {
+        "id": "89874",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Летнее стойбище на реке Коркодон. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTLRmI8PVbBVzve6FujBjE8sNpeojjxUtbadYHjeCARmm.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89874"
+      },
+      {
+        "id": "89824",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Летний чум и вешала для рыбы. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTHdK0dwe-i43vwp7qkxsQqOmObcE6dzdXTgPjvHmRxrv.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89824"
+      },
+      {
+        "id": "410174",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Летний чум и вешала для рыбы. Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KdUgiKsKnlDuX6L707GJDPsYlQZVzMNPqBdAk42aZKcT.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/410174"
+      },
+      {
+        "id": "89760",
+        "source": "kunstkamera",
+        "title": "Иохельсон В.И. Молодые мужчины в традиционных костюмах (фас, профиль). Юкагиры. Россия, Якутия (Саха), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/sF2bdmbLV10iP2z2G-ASTGjddnnzgE5GHhpB5h0FVkDY2UhNMMSTJqk_Lc1M-yq2.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/89760"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "380344",
+        "source": "kunstkamera",
+        "title": "Модель нарты и упряжи. Юкагиры. Россия, Якутия (Саха), Нижнеколымский р-он. 1959 г.",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KQfM0mnzPM61LBajrnWet1VauA-REuzTpOK1Ne1WQS_2.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/380344"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "266157",
+        "source": "kunstkamera",
+        "title": "Травин Н.Д. Юкагиская трубка из мамонтовой кости. Юкагиры. Россия, Якутия (Саха), не позднее 1932",
+        "image": "https://collection.kunstkamera.ru/api/spf/G6HUA_gHBIhgm2PGC5ppi-0U3Q4GPJRQx_zvnvznO5Zf2XkngzvaCfEFhL1W-k2Q.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/266157"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "473712",
+      "source": "rem",
+      "title": "Парка мужская зимняя «махил». Юкагиры",
+      "image": "https://collection.ethnomuseum.ru/api/spf/0sVM-qcNWNApBL5MLf-PFwsytMDzfKN5FgYc2GDoBsaQqlbIXFJj3Q5HSwYR2FvD.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/473712"
+    },
+    {
+      "id": "464727",
+      "source": "rem",
+      "title": "Боа - шарф. Юкагиры",
+      "image": "https://collection.ethnomuseum.ru/api/spf/5zPDQ_XpxLw0Xpmi9f5KtJKB7MCS4ECVm2M2tS6vXyn_Rpte02EsFc2lBfVxz3dD.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/464727"
+    }
+  ]
 }

@@ -1,7 +1,26 @@
 {
   "ethnicity_key": "europe__romania__vlachs",
   "people_key": "Q475021",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "household": [
+      {
+        "id": "prm-object-40872",
+        "source": "prm",
+        "title": "Bagpipes, bag made from a sheep's hide.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS303522_1938.0034.122.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-40872"
+      }
+    ],
+    "photo": [
+      {
+        "id": "72933",
+        "source": "kunstkamera",
+        "title": "Ордэн Ф. Валах из Бессарабии. Влахи. Молдова (Бессарабия.), конец XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/md1kGr0I6GEd6NThjpTTyU2SHLmb6FjuWXqWevzK0GlWS0puN_4nP06UuadOIppg.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/72933"
+      }
+    ]
+  },
   "other": []
 }

@@ -1,7 +1,81 @@
 {
   "ethnicity_key": "north-america__united-states__wichita",
   "people_key": "Q1425238",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 10,
+  "buckets": {
+    "photo": [
+      {
+        "id": "PP0197553",
+        "source": "quaibranly",
+        "title": "Wichita",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0003.08_03/PP0197553_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0197553"
+      },
+      {
+        "id": "PP0022028.1",
+        "source": "quaibranly",
+        "title": "Buffalo Goad",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.04_02/PP0022028_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0022028.1"
+      },
+      {
+        "id": "PP0022028.2",
+        "source": "quaibranly",
+        "title": "Buffalo Goad",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.04_02/PP0022028_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0022028.2"
+      },
+      {
+        "id": "PP0045239",
+        "source": "quaibranly",
+        "title": "Groupe d'Indiens et métis",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.06_02/PP0045239_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0045239"
+      },
+      {
+        "id": "PA000164.62",
+        "source": "quaibranly",
+        "title": "Long Soldier. (Front.) Wacos",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.12_04/PA000164_076_062.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000164.62"
+      },
+      {
+        "id": "PA000164.63",
+        "source": "quaibranly",
+        "title": "Long Soldier. (Profile.) Wacos",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.12_04/PA000164_077_063.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000164.63"
+      },
+      {
+        "id": "PA000164.64",
+        "source": "quaibranly",
+        "title": "Assadawa. (Front.) Wichitas",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.12_04/PA000164_078_064.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000164.64"
+      },
+      {
+        "id": "PA000164.65",
+        "source": "quaibranly",
+        "title": "Assadawa. (Profile.) Wichitas",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.12_04/PA000164_081_065.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000164.65"
+      },
+      {
+        "id": "PA000164.74",
+        "source": "quaibranly",
+        "title": "Buffalo Goad",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.12_04/PA000164_092_074.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000164.74"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "/2021657/resource_document_museon_218940",
+      "source": "europeana",
+      "title": "EVGL",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcc.museon.nl%2Fcc%2Fimageproxy.ashx%3Ffilename%3Dimages%2Fgeschiedenis%2FDig094-11-060_218940.jpg&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2021657/resource_document_museon_218940"
+    }
+  ]
 }

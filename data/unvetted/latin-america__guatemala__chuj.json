@@ -1,7 +1,33 @@
 {
   "ethnicity_key": "latin-america__guatemala__chuj",
   "people_key": "Q2804638",
-  "count": 0,
-  "buckets": {},
+  "count": 3,
+  "buckets": {
+    "garment": [
+      {
+        "id": "71.1997.24.43",
+        "source": "quaibranly",
+        "title": "Tunique",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/188/188433.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1997.24.43"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PF0184353",
+        "source": "quaibranly",
+        "title": "Huipil",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.40_05/PF0184353_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0184353"
+      },
+      {
+        "id": "PF0184367",
+        "source": "quaibranly",
+        "title": "Huipil",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.40_05/PF0184367_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0184367"
+      }
+    ]
+  },
   "other": []
 }

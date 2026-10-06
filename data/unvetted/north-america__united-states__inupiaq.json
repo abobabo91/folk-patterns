@@ -1,7 +1,78 @@
 {
   "ethnicity_key": "north-america__united-states__inupiaq",
   "people_key": "Q1417088",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 9,
+  "buckets": {
+    "household": [
+      {
+        "id": "/2021009/_4272B082087AB343C5DF804B6AF0E502",
+        "source": "europeana",
+        "title": "kuokka",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D602458%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_4272B082087AB343C5DF804B6AF0E502"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_8627_inventary_CE493_table_FMUS_museum_MNA",
+        "source": "europeana",
+        "title": "Cuchillo",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE493_SEQ_003_P.JPG%26Ninv%3DCE493&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_8627_inventary_CE493_table_FMUS_museum_MNA"
+      }
+    ],
+    "garment": [
+      {
+        "id": "/2021009/_1B68E6D3888B32248E4D84F2EDAFDD0E",
+        "source": "europeana",
+        "title": "kamleika",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D540175%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_1B68E6D3888B32248E4D84F2EDAFDD0E"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "/2021009/_61CBD4D9DB69929ED86097725D3BCEB4",
+        "source": "europeana",
+        "title": "veistos",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D599584%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2021009/_61CBD4D9DB69929ED86097725D3BCEB4"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "/2021009/_42E720CA70E15D2822C1A0353CBD5736",
+      "source": "europeana",
+      "title": "pienoisveistos, billiken",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D610371%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2021009/_42E720CA70E15D2822C1A0353CBD5736"
+    },
+    {
+      "id": "/2021009/_6ECD107EF8DEA2C7D54241E7C06F8F0D",
+      "source": "europeana",
+      "title": "pienoisveistos, billiken",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D607851%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2021009/_6ECD107EF8DEA2C7D54241E7C06F8F0D"
+    },
+    {
+      "id": "/2021009/_86DEFEC4EC62966B7553D1FB007562E1",
+      "source": "europeana",
+      "title": "pienoisveistos, billiken",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D610174%26size%3Dextra_large%26org%3D43094&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2021009/_86DEFEC4EC62966B7553D1FB007562E1"
+    },
+    {
+      "id": "/2022703/pages_Main_idt_26793_inventary_CE12492_table_FMUS_museum_MNA",
+      "source": "europeana",
+      "title": "Colgadura",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE12492_P.JPG%26Ninv%3DCE12492&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_26793_inventary_CE12492_table_FMUS_museum_MNA"
+    },
+    {
+      "id": "/2022703/pages_Main_idt_36986_inventary_CE20461_table_FMUS_museum_MNA",
+      "source": "europeana",
+      "title": "Tablero de juego",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE20461_SEQ_001_P.JPG%26Ninv%3DCE20461&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_36986_inventary_CE20461_table_FMUS_museum_MNA"
+    }
+  ]
 }

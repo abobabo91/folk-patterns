@@ -1,7 +1,26 @@
 {
   "ethnicity_key": "latin-america__ecuador__canari",
   "people_key": "Q1122582",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "ceramic": [
+      {
+        "id": "/2022703/pages_Main_idt_2197_inventary_03415_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Vasija",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF03415_SEQ_001_P.JPG%26Ninv%3D03415&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_2197_inventary_03415_table_FMUS_museum_MAM"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PF0070007",
+        "source": "quaibranly",
+        "title": "Vase à col céphalomorphe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0005.53_03/PF0070007_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0070007"
+      }
+    ]
+  },
   "other": []
 }

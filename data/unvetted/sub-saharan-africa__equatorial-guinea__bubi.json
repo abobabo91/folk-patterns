@@ -1,7 +1,49 @@
 {
   "ethnicity_key": "sub-saharan-africa__equatorial-guinea__bubi",
   "people_key": "Q41477",
-  "count": 0,
-  "buckets": {},
+  "count": 5,
+  "buckets": {
+    "household": [
+      {
+        "id": "obj-993342",
+        "source": "smb",
+        "title": "Deckelkorb",
+        "image": "https://search.smb.museum/media/images/thumbs/large/315/007/7315299.jpg",
+        "object_url": "https://id.smb.museum/object/993342"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "71.1961.120.80",
+        "source": "quaibranly",
+        "title": "Cloche",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/237/237856.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.120.80"
+      },
+      {
+        "id": "71.1961.120.95",
+        "source": "quaibranly",
+        "title": "Flûte globulaire",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/237/237875.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1961.120.95"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PP0176620",
+        "source": "quaibranly",
+        "title": "Sculpteur sur bois, un Boubi, Moka (Fernando Poo)",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0003.11_01/PP0176620_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0176620"
+      },
+      {
+        "id": "PF0174352",
+        "source": "quaibranly",
+        "title": "Danseurs",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.36_06/PF0174352_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0174352"
+      }
+    ]
+  },
   "other": []
 }

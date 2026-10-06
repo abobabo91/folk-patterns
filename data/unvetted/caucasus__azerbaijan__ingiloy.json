@@ -1,7 +1,26 @@
 {
   "ethnicity_key": "caucasus__azerbaijan__ingiloy",
   "people_key": "Q2385630",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "painting-mss": [
+      {
+        "id": "67259",
+        "source": "kunstkamera",
+        "title": "Тильке М. Ингилойка. Грузия. Ингилойцы. Россия, город Москва. 1936",
+        "image": "https://collection.kunstkamera.ru/api/spf/03wFJLSTN_t_hYMrFxruX_pLRfOSsYDvmyRJQz8TADzC9GrM_KcoB4eGsLGi-kUH.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/67259"
+      }
+    ],
+    "photo": [
+      {
+        "id": "66300",
+        "source": "kunstkamera",
+        "title": "Ингилойки из селения Ках в нарядных национальных костюмах. Ингилойцы. Азербайджан, Закатальский округ, с. Ках (Бакинская губ.). 1883",
+        "image": "https://collection.kunstkamera.ru/api/spf/OfMRoqKrurw_8ta7ZmiB6y1uS1m9J_ZI5k2pqoDhkBi3P0fNBaMNYMtK_wk9tcRG.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66300"
+      }
+    ]
+  },
   "other": []
 }

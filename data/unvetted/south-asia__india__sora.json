@@ -1,7 +1,33 @@
 {
   "ethnicity_key": "south-asia__india__sora",
   "people_key": "Q3491125",
-  "count": 0,
-  "buckets": {},
+  "count": 3,
+  "buckets": {
+    "textile": [
+      {
+        "id": "71.1933.42.2.1-2",
+        "source": "quaibranly",
+        "title": "Matériaux pour fabrication de cithare",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/330/330930.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1933.42.2.1-2"
+      },
+      {
+        "id": "71.1933.42.3",
+        "source": "quaibranly",
+        "title": "Matériaux pour fabrication de cithare",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/051/51386.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1933.42.3"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "71.1933.42.1",
+        "source": "quaibranly",
+        "title": "Cithare-radeau",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/051/51384.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1933.42.1"
+      }
+    ]
+  },
   "other": []
 }

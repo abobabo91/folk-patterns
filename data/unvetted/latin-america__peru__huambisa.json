@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__peru__huambisa",
   "people_key": "Q4120516",
-  "count": 2,
+  "count": 7,
   "buckets": {
     "instruments": [
       {
@@ -20,7 +20,45 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1070210%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71990"
       }
+    ],
+    "garment": [
+      {
+        "id": "/2022703/pages_Main_idt_15546_inventary_1986_04_001_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Corona",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF1986_04_001_SEQ_001_P.JPG%26Ninv%3D1986%2F04%2F001&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_15546_inventary_1986_04_001_table_FMUS_museum_MAM"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_15547_inventary_1986_04_002_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Corona",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF1986_04_002_SEQ_003_P.JPG%26Ninv%3D1986%2F04%2F002&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_15547_inventary_1986_04_002_table_FMUS_museum_MAM"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_15550_inventary_1986_04_012_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Tocado",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF1986_04_012_SEQ_006_P.JPG%26Ninv%3D1986%2F04%2F012&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_15550_inventary_1986_04_012_table_FMUS_museum_MAM"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "/2022703/pages_Main_idt_15554_inventary_1986_04_097_table_FMUS_museum_MAM",
+      "source": "europeana",
+      "title": "Cerco de tocado",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF1986_04_097_SEQ_002_P.JPG%26Ninv%3D1986%2F04%2F097&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_15554_inventary_1986_04_097_table_FMUS_museum_MAM"
+    },
+    {
+      "id": "/2022703/pages_Main_idt_15556_inventary_1986_04_073_table_FMUS_museum_MAM",
+      "source": "europeana",
+      "title": "Cerco de tocado",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF1986_04_073_SEQ_001_P.JPG%26Ninv%3D1986%2F04%2F073&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_15556_inventary_1986_04_073_table_FMUS_museum_MAM"
+    }
+  ]
 }

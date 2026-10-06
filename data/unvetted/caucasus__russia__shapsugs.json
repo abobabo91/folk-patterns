@@ -1,7 +1,484 @@
 {
   "ethnicity_key": "caucasus__russia__shapsugs",
   "people_key": "Q1473943",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 67,
+  "buckets": {
+    "arms": [
+      {
+        "id": "151133",
+        "source": "rem",
+        "title": "Топор. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvDQg6v8pqT-N85ZfG14gtTQLG18w2ZvZ6gD1PkQQRTjq.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/151133"
+      },
+      {
+        "id": "662303",
+        "source": "rem",
+        "title": "Нож ткацкий. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/eSeJpWipJkpLaVWXCEe4CGW1o_3gH9Z_aa-_J_cncYyt5_ozc9i30eE-4D63Uxlr.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/662303"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "662300",
+        "source": "rem",
+        "title": "Жезл. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/W44tpSHh7H14FxLoSJk9gqYZBDDWzwRDZD7nRrN8GWhbti5MXz-Y1UvzC3xbT_dn.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/662300"
+      }
+    ],
+    "photo": [
+      {
+        "id": "455294",
+        "source": "rem",
+        "title": "Негатив: Игра на адыгской скрипке. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSWq2EMPVscYda_UrPvHkv5Kw7l3eM3HBoG1AigWXf1wI.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455294"
+      },
+      {
+        "id": "455225",
+        "source": "rem",
+        "title": "Негатив: Висячий мост через реку. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSSbBLmnrRSL58t06I27d8AMNcf1GMwMDBNLbSmYAe1t0.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455225"
+      },
+      {
+        "id": "455226",
+        "source": "rem",
+        "title": "Негатив: Строящийся дом. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSbVavrL_VVJhD26if0ka90Pup7O9_JhvX1OgY90Pwk54.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455226"
+      },
+      {
+        "id": "455227",
+        "source": "rem",
+        "title": "Негатив: Сарай. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSbQu_TKKMnNl2pv-Z9i3ZwW6GUnSjVr8Sn3Tv5692d0M.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455227"
+      },
+      {
+        "id": "455228",
+        "source": "rem",
+        "title": "Негатив: Двухэтажный дом. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSfC_3OIwy1lJmXIarTsrRjnbpcQKYCeT_hEmipPWwI4y.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455228"
+      },
+      {
+        "id": "455229",
+        "source": "rem",
+        "title": "Негатив: Кровля дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSZT1BvGf9iIEydv6TGmwRipIh7R2Oc4ADmzG43aHU5RH.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455229"
+      },
+      {
+        "id": "455230",
+        "source": "rem",
+        "title": "Негатив: Способ сушки и хранения дров. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSfj6_ouN5c-KdTy0xJ0AbzEVr0TAjfK2d3d82c48I0Ug.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455230"
+      },
+      {
+        "id": "455231",
+        "source": "rem",
+        "title": "Негатив: Часть дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSa0ul2sPFk9QfEHjyGIoDN7Pr3pAQXRb_5s23ncXTE1l.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455231"
+      },
+      {
+        "id": "455232",
+        "source": "rem",
+        "title": "Негатив: Часть дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSbRdo8jTwnQUx2BghVODjQFeeHwrmQWAzIG32O65Ezz7.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455232"
+      },
+      {
+        "id": "455233",
+        "source": "rem",
+        "title": "Негатив: Фасадная стена дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSfOf4iyodR2KLSfoFWz_15xWxVga7YOWMx_DgFGImlYv.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455233"
+      },
+      {
+        "id": "455234",
+        "source": "rem",
+        "title": "Негатив: Часть дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSeRKpQOfti7cRpF71xZkpmWjcKF_JfXHsMzfnMJc4463.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455234"
+      },
+      {
+        "id": "455235",
+        "source": "rem",
+        "title": "Негатив: Часть дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSR4Ofd4MBczXuXzzPOPZjwocSVgwDYRtObuNmt_4XaX0.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455235"
+      },
+      {
+        "id": "455236",
+        "source": "rem",
+        "title": "Негатив: Каменный курган в лесу. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSeuqEH4_6nS69HSdX1K6OocYVVeJQ8u198qB-1Oibi_l.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455236"
+      },
+      {
+        "id": "455237",
+        "source": "rem",
+        "title": "Негатив: Вид на реку и окраину аула. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSSmwcNhuIDuxmC2WlK3_KYbAxj1Py9Rfc8Q7Hy2JrQmx.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455237"
+      },
+      {
+        "id": "455238",
+        "source": "rem",
+        "title": "Негатив: Каменный курган в лесу. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSWJIdM7mHlstqRzd0tblLb6eaSX9mLn8F2rqR-LO3mHj.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455238"
+      },
+      {
+        "id": "455239",
+        "source": "rem",
+        "title": "Негатив: Часть калитки. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSTGAELehx55InH6qg6d38WuYfwJ4h8e-g-Derc_lPrw4.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455239"
+      },
+      {
+        "id": "455240",
+        "source": "rem",
+        "title": "Негатив: Крыша дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSRmHVVLrsAom9YODy1LXcX1Y6iCq4Jbb3EsoX9xh4QIf.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455240"
+      },
+      {
+        "id": "455241",
+        "source": "rem",
+        "title": "Негатив: Нижняя часть террасы дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSf_nlmlUOPxFaqqwbCIR6cosvPw7-abs8ZeVw0jHlmMw.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455241"
+      },
+      {
+        "id": "455242",
+        "source": "rem",
+        "title": "Негатив: Козы. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSdoE6ougRgTRDDAosqoX9ubdR0QuZbmbb-RbEZ9kASkF.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455242"
+      },
+      {
+        "id": "455243",
+        "source": "rem",
+        "title": "Негатив: Коза. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSXbsnNcadwkS6x7V4xMcwAHxj3bvJYER8G_0X13mEHG9.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455243"
+      },
+      {
+        "id": "455244",
+        "source": "rem",
+        "title": "Негатив: Коза. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSQsSu9X4N21h8ZThtm3DJJWvkhjzwgZtXGPjOTrbVODL.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455244"
+      },
+      {
+        "id": "455245",
+        "source": "rem",
+        "title": "Негатив: Пастух, сидящий под деревом. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSVrMo_W9zam1KmmGIVcNT7z-5iyqkXdmKNLl1jKsOVWi.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455245"
+      },
+      {
+        "id": "455246",
+        "source": "rem",
+        "title": "Негатив: Подготовка прутьев для плетения корзин. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSemjG3KgoRFjwyiBhKMk4sjf-1ehvwY8_MT2B45mMDMB.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455246"
+      },
+      {
+        "id": "455247",
+        "source": "rem",
+        "title": "Негатив: Отбор прутьев для плетения корзин. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSb2pFkjZhiXviz88sY7qaA0Cqv8o7tBT9lenNndNGdHt.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455247"
+      },
+      {
+        "id": "455248",
+        "source": "rem",
+        "title": "Негатив: Хозяйственные постройки. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSVB_0KMLiCDOKyfjkIdg_Becey2MdhpMWaIfVVv0VOFD.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455248"
+      },
+      {
+        "id": "455249",
+        "source": "rem",
+        "title": "Негатив: Козы. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSR47ckBKCEXLe9DYhKwZaccc6k1kiK4pBm2VOdvlJU4k.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455249"
+      },
+      {
+        "id": "455250",
+        "source": "rem",
+        "title": "Негатив: Коза. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSYCAyGh7vFSQtK1BHZ9y3EwYxJxbJEvr3yEZ533lbnsJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455250"
+      },
+      {
+        "id": "455251",
+        "source": "rem",
+        "title": "Негатив: Улей. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSWi_pwEVAxgtBtMoGSqnQmMxqOa7TXjLLFRwh5USwn9N.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455251"
+      },
+      {
+        "id": "455252",
+        "source": "rem",
+        "title": "Негатив: Тачка из корыта. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSVYap6pdA8ryf72ziu3Nn5ny4k4SccV60GWJgZu-2qfr.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455252"
+      },
+      {
+        "id": "455253",
+        "source": "rem",
+        "title": "Негатив: Чайные плантации и сенокосное поле. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSRdT2wh8YVZakb8PYRPtAEHd7JnZpXSYDEHnbm2xQ9pA.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455253"
+      },
+      {
+        "id": "455254",
+        "source": "rem",
+        "title": "Негатив: Местность по дороге. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSRqYVfdE03sHgdesRDoUHnqqTCcfsN7Gmq1PcUdyfJZM.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455254"
+      },
+      {
+        "id": "455255",
+        "source": "rem",
+        "title": "Негатив: Корзина с пучком прутьев. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSeoPLhyQchFc0xFb6AzPrlGf7FAvi8Op7G77pEYyLqUJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455255"
+      },
+      {
+        "id": "455256",
+        "source": "rem",
+        "title": "Негатив: Остатки дольмена. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSUvDoY8j0KYTODd30oMTCfbqUr783CfYCQExGZEd-FRc.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455256"
+      },
+      {
+        "id": "455257",
+        "source": "rem",
+        "title": "Негатив: Замок калитки. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSZILqvLMM7IMkaWOR90bCmf3M6Bl_zDGwxgQGYp-A10N.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455257"
+      },
+      {
+        "id": "455258",
+        "source": "rem",
+        "title": "Негатив: Мужчина с козами. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSQJg9bczGZXMNNcRQMhpFoiAahap3f7ThKZ55QqyphNo.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455258"
+      },
+      {
+        "id": "455259",
+        "source": "rem",
+        "title": "Негатив: Часть дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSb-Z3Fp7TijJXWzzy003JMEfEGKVoiLZwXGO7zm-Vuth.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455259"
+      },
+      {
+        "id": "455260",
+        "source": "rem",
+        "title": "Негатив: Часть усадьбы. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSUf5OcGSE8zC0ojd8qfN2w7Q7PFikCu-nWL1uQcTBQeT.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455260"
+      },
+      {
+        "id": "455261",
+        "source": "rem",
+        "title": "Негатив: «Скала стариков» над долиной реки. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rScxTa36OFDDth0uTDsNqpG7aZs0jz70_vORYgvxdD_7f.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455261"
+      },
+      {
+        "id": "455262",
+        "source": "rem",
+        "title": "Негатив: Старик. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSYYO5ewOAtVUhvDiCsFOfeG_ZKm3AjZb2oGiwJV47ijR.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455262"
+      },
+      {
+        "id": "455263",
+        "source": "rem",
+        "title": "Негатив: Нож и ножны. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rScGmUutk3KG846ic4RvzidbUc1MMVGI0nZ-imb2d7Bnw.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455263"
+      },
+      {
+        "id": "455264",
+        "source": "rem",
+        "title": "Негатив: Часть дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSdNrHQC43_Ba4cyZFluztr7Clzh0jcoDNMjTFXluBjju.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455264"
+      },
+      {
+        "id": "455265",
+        "source": "rem",
+        "title": "Негатив: Стела на месте погибшего в автокатастрофе. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSdmVs_wuilv0QUCjbMkGShgmWLumB3Y7e1S9W7DqjhID.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455265"
+      },
+      {
+        "id": "455266",
+        "source": "rem",
+        "title": "Негатив: Следы террасирования горных склонов. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSd4ES-Z5J-yBN0ny0nweGijPkwpxPh0Xhs2yVKnX1HaU.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455266"
+      },
+      {
+        "id": "455267",
+        "source": "rem",
+        "title": "Негатив: Горный склон. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSRUW6QDZPnwEO964e6m3B38El6POcvuxF8b1Q802BpwL.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455267"
+      },
+      {
+        "id": "455268",
+        "source": "rem",
+        "title": "Негатив: Пояс мужской. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSYjbtL7xg1aUPb9hluc0iBfMqTo8Jqjw11Q_tRB8i0gg.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455268"
+      },
+      {
+        "id": "455269",
+        "source": "rem",
+        "title": "Негатив: Сальница. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSRxgABH0oBhexVmi0Z5qAgwzxn4jiH51s4Lso06umQQh.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455269"
+      },
+      {
+        "id": "455270",
+        "source": "rem",
+        "title": "Негатив: Часть стены дома с окном. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSdf7x2FihLK3pXOWkM1eudWQwgcU0PWz8Lb-ZWoNHGUO.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455270"
+      },
+      {
+        "id": "455271",
+        "source": "rem",
+        "title": "Негатив: Сальница. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSS1vYmPA9XmeVey9nTjtE5P8XtW23jVyEiyTGDA1oXfx.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455271"
+      },
+      {
+        "id": "455272",
+        "source": "rem",
+        "title": "Негатив: Висячий мост. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSYxwOh4ZC5WIpJ1nRvBKyTgPiqdj85OM7qhXI4WA6GPj.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455272"
+      },
+      {
+        "id": "455273",
+        "source": "rem",
+        "title": "Негатив: Надпись на обложке Корана. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSRlvnnOjZhH7-WOs_nGmXyg-ZZTX1hV8Hc7BRWsw4yjW.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455273"
+      },
+      {
+        "id": "455274",
+        "source": "rem",
+        "title": "Негатив: Календарь в Коране. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSYvLU-eX4QZ6UgUAZ_XhoRR8Lt-WeHXWJqz6HevXxXBW.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455274"
+      },
+      {
+        "id": "455275",
+        "source": "rem",
+        "title": "Негатив: Нижняя часть дымаря очага. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSXM4mAziwisizo7FHRigSigTHRFB_IHu_mroJAWyamnb.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455275"
+      },
+      {
+        "id": "455276",
+        "source": "rem",
+        "title": "Негатив: Плита. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSZSV8ItjfYsDVmUvVx2GsdnwD0VX7dx57lV8YQUDVDjC.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455276"
+      },
+      {
+        "id": "455277",
+        "source": "rem",
+        "title": "Негатив: Ступа с пестом. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSfvTsEQYf0CcOTifIODPIownqv2cfPWkhTNbeoK1MZTP.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455277"
+      },
+      {
+        "id": "455278",
+        "source": "rem",
+        "title": "Негатив: Часть крытой террасы. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSWARh3Dw8O4spF5NT_uJbju36hfDSkt7hNJZiAkCyhzK.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455278"
+      },
+      {
+        "id": "455279",
+        "source": "rem",
+        "title": "Негатив: Часть крыши дома. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSaFjWn0Vs1YBXuCtOSsFlv9pywByqPZ-GfxIhPhgyZQi.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455279"
+      },
+      {
+        "id": "455280",
+        "source": "rem",
+        "title": "Негатив: Дымарь над очагом. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSTY4vp8XOP_Pa-U7NEkYni9gZ_zTD7oCxSJ2_GDgKrEb.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455280"
+      },
+      {
+        "id": "455281",
+        "source": "rem",
+        "title": "Негатив: Женщина за прядением. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSX8WKxfEQ6_PXrwiolFqQeSHFShbQ9p7jESNzvAj_ElD.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455281"
+      },
+      {
+        "id": "455282",
+        "source": "rem",
+        "title": "Негатив: Долбленое корыто. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rSZXGN2sTZhqXFTU8kh0C0KNOj5L00vmy_ErfB6MsnWFX.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455282"
+      },
+      {
+        "id": "455283",
+        "source": "rem",
+        "title": "Негатив: Очаг и яма для золы. Адыгейцы: шапсуги",
+        "image": "https://collection.ethnomuseum.ru/api/spf/4JFDxP4eviBBN3PAFd7rScXnsNupPo7W0COIEfBaoZjyOuMn5gVesHfEoUMuI5C7.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/455283"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "662304",
+      "source": "rem",
+      "title": "Цепь очажная. Адыгейцы: шапсуги",
+      "image": "https://collection.ethnomuseum.ru/api/spf/eSeJpWipJkpLaVWXCEe4CCmZ6n69Ef-pfvFnV6vZYkeqBDME38nBaQ4dXQpVbMNJ.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/662304"
+    },
+    {
+      "id": "662305",
+      "source": "rem",
+      "title": "Дощечка. Адыгейцы: шапсуги",
+      "image": "https://collection.ethnomuseum.ru/api/spf/eSeJpWipJkpLaVWXCEe4CPVs3XypM0713x7BwfC9lQjIGXGNTYx_kWfEE5YLrov5.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/662305"
+    },
+    {
+      "id": "662306",
+      "source": "rem",
+      "title": "Дощечка. Адыгейцы: шапсуги",
+      "image": "https://collection.ethnomuseum.ru/api/spf/eSeJpWipJkpLaVWXCEe4CJsyHtwXesYkqgTrA6-Pueq2RGWDReeBDR8_99uAEwri.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/662306"
+    },
+    {
+      "id": "179611",
+      "source": "rem",
+      "title": "Подчасник. Адыгейцы: шапсуги",
+      "image": "https://collection.ethnomuseum.ru/api/spf/Tjrf7b-AvW-lZ5VhN8tk8rrwjWo_rhaYD4tW9HBOzVFDDFCvBPPK5DaLCxS25eZo.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/179611"
+    }
+  ]
 }

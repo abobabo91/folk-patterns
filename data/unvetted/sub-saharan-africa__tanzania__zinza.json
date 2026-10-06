@@ -1,9 +1,9 @@
 {
   "ethnicity_key": "sub-saharan-africa__tanzania__zinza",
   "people_key": "Q3110223",
-  "count": 9,
+  "count": 10,
   "buckets": {
-    "sculpture": [
+    "household": [
       {
         "id": "E_Af1927-1215-1-a",
         "source": "bm",
@@ -17,9 +17,7 @@
         "title": "canoe; model",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_15/6b6285d8_797f_4861_b453_a3e000f9a565/preview_01600485_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1927-1215-2-a"
-      }
-    ],
-    "household": [
+      },
       {
         "id": "E_Af1950-42-6",
         "source": "bm",
@@ -68,6 +66,15 @@
         "title": "basket",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_15/cec9ec1c_0c90_470a_b4fc_a3e00104739f/preview_01603307_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1950-42-17"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "obj-255855",
+        "source": "smb",
+        "title": "Schalenzither",
+        "image": "https://search.smb.museum/media/images/thumbs/large/757/003/3757877.jpg",
+        "object_url": "https://id.smb.museum/object/255855"
       }
     ]
   },

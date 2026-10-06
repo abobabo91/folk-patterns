@@ -1,7 +1,26 @@
 {
   "ethnicity_key": "sub-saharan-africa__ethiopia__qemant",
   "people_key": "Q1738459",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "garment": [
+      {
+        "id": "71.1931.74.3114",
+        "source": "quaibranly",
+        "title": "Chapeau",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/213/213534.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1931.74.3114"
+      }
+    ],
+    "arms": [
+      {
+        "id": "71.1931.74.3124",
+        "source": "quaibranly",
+        "title": "Couteau",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/213/213542.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1931.74.3124"
+      }
+    ]
+  },
   "other": []
 }

@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__kickapoo",
   "people_key": "Q1429504",
-  "count": 21,
+  "count": 28,
   "buckets": {
     "textile": [
       {
@@ -40,6 +40,13 @@
         "title": "halsband, necklace",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1335596%2F1910.11.0014.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1067607"
+      },
+      {
+        "id": "prm-object-25104",
+        "source": "prm",
+        "title": "Pair of ribbon strips for ornamenting garments.  Typical geometric style.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS268851_1939.0008.26.1B.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25104"
       }
     ],
     "household": [
@@ -56,6 +63,13 @@
         "title": "malsten (a),  löpare (b), Malsten., a) metate,  b) mano",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1204773%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17600"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1067606",
+        "source": "europeana",
+        "title": "pipa, stenpipa, pipe",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1335500%2F1910.11.0013.A-B_alt3.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1067606"
       },
       {
         "id": "/91619/SMVK_EM_objekt_1067618",
@@ -154,15 +168,51 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1335497%2F1910.11.0013.A-B_det2.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91607/SMVK_EM_delobjekt_1312910"
       }
+    ],
+    "photo": [
+      {
+        "id": "70.2023.46.1",
+        "source": "quaibranly",
+        "title": "Sans titre [Portrait d'un groupe Kickapoo]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0003.60/PP0254965_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2023.46.1"
+      },
+      {
+        "id": "PP0025797.2",
+        "source": "quaibranly",
+        "title": "Indiens Kikapoes des environs de Monterey",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.04_07/PP0025797_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0025797.2"
+      },
+      {
+        "id": "PP0025797.1",
+        "source": "quaibranly",
+        "title": "Indiens Kikapoes des environs de Monterey",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.04_07/PP0025797_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0025797.1"
+      },
+      {
+        "id": "PP0025797.4",
+        "source": "quaibranly",
+        "title": "Indiens Kikapoes des environs de Monterey",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.04_07/PP0025797_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0025797.4"
+      },
+      {
+        "id": "PP0025797.3",
+        "source": "quaibranly",
+        "title": "Indiens Kikapoes des environs de Monterey",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.04_07/PP0025797_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0025797.3"
+      },
+      {
+        "id": "PV0060362",
+        "source": "quaibranly",
+        "title": "Indien kikapoe [portrait]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.45_01/PV0060362_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0060362"
+      }
     ]
   },
-  "other": [
-    {
-      "id": "/91619/SMVK_EM_objekt_1067606",
-      "source": "europeana",
-      "title": "pipa, stenpipa, pipe",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1335500%2F1910.11.0013.A-B_alt3.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1067606"
-    }
-  ]
+  "other": []
 }

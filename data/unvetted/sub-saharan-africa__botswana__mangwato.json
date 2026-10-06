@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__botswana__mangwato",
   "people_key": "Q2628797",
-  "count": 1,
+  "count": 10,
   "buckets": {
     "household": [
       {
@@ -10,8 +10,78 @@
         "title": "staff",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_13/e1523151_5b05_47c5_9b4d_a3e000d75c4b/preview_01589169_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1933-1030-1"
+      },
+      {
+        "id": "71.1881.59.18",
+        "source": "quaibranly",
+        "title": "Cuiller",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192783.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.18"
+      },
+      {
+        "id": "71.1881.59.20",
+        "source": "quaibranly",
+        "title": "Cuiller",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192785.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.20"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "71.1881.59.8",
+        "source": "quaibranly",
+        "title": "Bracelet avec spatule",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192770.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.8"
+      }
+    ],
+    "arms": [
+      {
+        "id": "71.1881.59.1",
+        "source": "quaibranly",
+        "title": "Hache",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192763.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.1"
+      },
+      {
+        "id": "71.1881.59.4",
+        "source": "quaibranly",
+        "title": "Massue",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192766.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.4"
+      },
+      {
+        "id": "71.1881.59.14",
+        "source": "quaibranly",
+        "title": "Lance",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192779.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.14"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "71.1881.59.9",
+        "source": "quaibranly",
+        "title": "Amulette",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192771.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.9"
+      },
+      {
+        "id": "71.1881.59.23",
+        "source": "quaibranly",
+        "title": "Amulette",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/192/192788.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1881.59.23"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "obj-1660390",
+      "source": "smb",
+      "title": "Querhorn",
+      "image": "https://search.smb.museum/media/images/thumbs/large/469/005/5469515.jpg",
+      "object_url": "https://id.smb.museum/object/1660390"
+    }
+  ]
 }

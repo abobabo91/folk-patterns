@@ -1,23 +1,9 @@
 {
   "ethnicity_key": "north-america__canada__komoks",
   "people_key": "Q1406599",
-  "count": 4,
+  "count": 11,
   "buckets": {
     "household": [
-      {
-        "id": "E_Am1861-0312-20",
-        "source": "bm",
-        "title": "bucket",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/8120b74d_0f42_4571_bbe1_a3d70100040d/preview_01090541_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1861-0312-20"
-      },
-      {
-        "id": "E_Am1861-0312-22",
-        "source": "bm",
-        "title": "bucket",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/c1a7bb39_8651_4727_b3f5_a3d70104d747/preview_01091789_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1861-0312-22"
-      },
       {
         "id": "E_Am1949-22-153",
         "source": "bm",
@@ -26,11 +12,80 @@
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1949-22-153"
       },
       {
-        "id": "E_Am1861-0312-21",
-        "source": "bm",
-        "title": "bucket",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_15/0a14445c_5a1b_48d7_8c28_a3d701000bbf/preview_01090545_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1861-0312-21"
+        "id": "prm-object-24730",
+        "source": "prm",
+        "title": "Hand-adze with blade made from a small trade-axe blade mounted on wooden loop-handle.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS302909_1934.0020.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24730"
+      },
+      {
+        "id": "prm-object-24732",
+        "source": "prm",
+        "title": "Spoon of mountain sheep's horn.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS302784_1934.0020.2.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24732"
+      },
+      {
+        "id": "prm-object-84574",
+        "source": "prm",
+        "title": "Wooden needle, carved to a point at one end and rounded at the other. The rounded end is flatter at the tip, and has a circular eye. [EH [OPS Move] 21/6/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS277095_1934.0020.5.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-84574"
+      },
+      {
+        "id": "prm-object-24733",
+        "source": "prm",
+        "title": "Wooden spoon with a pointed bowl, the handle ending in a narrower section.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS303059_1934.0020.3.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24733"
+      },
+      {
+        "id": "prm-object-24735",
+        "source": "prm",
+        "title": "Wooden needle.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS276972_1934.0020.4.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24735"
+      },
+      {
+        "id": "prm-object-84575",
+        "source": "prm",
+        "title": "Wooden needle, carved to a point at one end and rounded at the other. The rounded end is flatter at the tip, and has a circular eye. [EH [OPS Move] 21/6/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS277542_1934.0020.6.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-84575"
+      },
+      {
+        "id": "prm-object-84576",
+        "source": "prm",
+        "title": "Wooden needle, carved to a point at one end and rounded at the other. The rounded end is flatter at the tip, and has a circular eye. [EH [OPS Move] 21/6/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS277165_1934.0020.7.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-84576"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "prm-object-148217",
+        "source": "prm",
+        "title": "Wooden figure of a seated man with brimmed hat",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS499850_1884.0065.2.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-148217"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "prm-object-38640",
+        "source": "prm",
+        "title": "Sistrum consisting of 13 pecten shells loosely threaded on wooden rings furnished with a grip of shredded cedar-bark.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS484957_1923.0025.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-38640"
+      }
+    ],
+    "textile": [
+      {
+        "id": "prm-object-24769",
+        "source": "prm",
+        "title": "Mat creaser; grooved wooden implement used in mat-making.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS678033_1934.0020.8.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24769"
       }
     ]
   },

@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__canada__tahltan",
   "people_key": "Q36550",
-  "count": 6,
+  "count": 9,
   "buckets": {
     "photo": [
       {
@@ -24,6 +24,13 @@
         "title": "postcard; photographic print (black and white)",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/b93a041a_c427_46be_a787_a3c600eca3a7/preview_01017339_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/EA_Am-B56-99"
+      },
+      {
+        "id": "PP0125376",
+        "source": "quaibranly",
+        "title": "Ornement d'oreille en coquilles",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_06/PP0125376_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0125376"
       }
     ],
     "textile": [
@@ -33,6 +40,13 @@
         "title": "bag",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2016_7/19_14/6038f219_d090_4f10_b662_a64800f586d2/preview_1980_am_11_2__a_.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1980-11-2"
+      },
+      {
+        "id": "prm-object-24805",
+        "source": "prm",
+        "title": "Cloth and beadwork 'octopus bag' with pendants of white glass beads and woollen tassels.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS295117_1947.0010.36.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24805"
       }
     ],
     "metalwork": [
@@ -49,6 +63,15 @@
         "title": "Kniv, gehäng",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1001409%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_12730"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "71.1937.16.22",
+        "source": "quaibranly",
+        "title": "Bracelet",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/134/134530.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1937.16.22"
       }
     ]
   },

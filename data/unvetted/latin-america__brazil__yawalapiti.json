@@ -1,7 +1,35 @@
 {
   "ethnicity_key": "latin-america__brazil__yawalapiti",
   "people_key": "Q2537324",
-  "count": 0,
-  "buckets": {},
+  "count": 3,
+  "buckets": {
+    "photo": [
+      {
+        "id": "prm-object-461785",
+        "source": "prm",
+        "title": "Three young boys sit beside 'festive ornaments', decorated with large, brightly-coloured feathers.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS13731_2014.0066.432.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-461785"
+      }
+    ],
+    "textile": [
+      {
+        "id": "71.1971.43.23",
+        "source": "quaibranly",
+        "title": "Hamac",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/170/170548.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1971.43.23"
+      }
+    ],
+    "garment": [
+      {
+        "id": "71.1971.43.111",
+        "source": "quaibranly",
+        "title": "Ceinture",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/170/170663.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1971.43.111"
+      }
+    ]
+  },
   "other": []
 }

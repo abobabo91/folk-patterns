@@ -1,8 +1,101 @@
 {
   "ethnicity_key": "north-america__united-states__yokuts",
   "people_key": "Q2585783",
-  "count": 1,
-  "buckets": {},
+  "count": 13,
+  "buckets": {
+    "household": [
+      {
+        "id": "/2022703/pages_Main_idt_10626_inventary_13879_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Cesta",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF13879_SEQ_002_P.JPG%26Ninv%3D13879&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_10626_inventary_13879_table_FMUS_museum_MAM"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_10664_inventary_13928_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Cesta",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF13928_SEQ_002_P.JPG%26Ninv%3D13928&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_10664_inventary_13928_table_FMUS_museum_MAM"
+      },
+      {
+        "id": "prm-object-25587",
+        "source": "prm",
+        "title": "Meal-basket,  finely coiled, two bands of diamonds and triangles in red and black on buff ground. [BH [OPS Move] 11/11/2016]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS331045_1949.0003.36.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25587"
+      },
+      {
+        "id": "prm-object-25395",
+        "source": "prm",
+        "title": "Meal basket for cooking, fine coil to the right, spiral design in stepped rectangles, dark red and black on natural ground. [RM [OPS move] 10/11/2016]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS331495_1949.0003.35.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25395"
+      }
+    ],
+    "garment": [
+      {
+        "id": "71.1882.30.61",
+        "source": "quaibranly",
+        "title": "Coiffe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/097/97678.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1882.30.61"
+      },
+      {
+        "id": "71.1882.30.62",
+        "source": "quaibranly",
+        "title": "Bandeau de tête",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/000000/97679y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1882.30.62"
+      },
+      {
+        "id": "71.1882.30.92",
+        "source": "quaibranly",
+        "title": "Ornement de tête",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/097/97708.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1882.30.92"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "71.1882.30.63",
+        "source": "quaibranly",
+        "title": "Ornement cérémoniel",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/097/97680.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1882.30.63"
+      },
+      {
+        "id": "71.1882.30.64",
+        "source": "quaibranly",
+        "title": "Ornement cérémoniel",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/097/97681.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1882.30.64"
+      },
+      {
+        "id": "71.1882.30.65",
+        "source": "quaibranly",
+        "title": "Ornement cérémoniel",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/097/97682.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1882.30.65"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PP0124915",
+        "source": "quaibranly",
+        "title": "Bandeau de tête",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_05/PP0124915_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0124915"
+      },
+      {
+        "id": "PP0240332",
+        "source": "quaibranly",
+        "title": "Etats-Unis, Californie, le chêne, vitrine 10",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0003.44/PP0240332_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0240332"
+      }
+    ]
+  },
   "other": [
     {
       "id": "/91608/SMVK_VKM_objekt_19948",

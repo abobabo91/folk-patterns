@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__paraguay__sanapana",
   "people_key": "Q3436520",
-  "count": 6,
+  "count": 17,
   "buckets": {
     "textile": [
       {
@@ -49,6 +49,89 @@
         "title": "väska, porträtt, fåglar, mantel, man, fotografi, photograph",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2467290%2F0176.0009.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2467287"
+      },
+      {
+        "id": "obj-1614802",
+        "source": "smb",
+        "title": "Indio Sanapaná, Puerto Casado",
+        "image": "https://search.smb.museum/media/images/thumbs/large/784/003/3784663.jpg",
+        "object_url": "https://id.smb.museum/object/1614802"
+      },
+      {
+        "id": "obj-1706164",
+        "source": "smb",
+        "title": "Indianergruppe aus Paraguay (Sanapana)",
+        "image": "https://search.smb.museum/media/images/thumbs/large/798/003/3798093.jpg",
+        "object_url": "https://id.smb.museum/object/1706164"
+      },
+      {
+        "id": "PP0154205",
+        "source": "quaibranly",
+        "title": "Indio Sanapaná",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0002.11_10/PP0154205_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0154205"
+      },
+      {
+        "id": "PV0065391",
+        "source": "quaibranly",
+        "title": "Sanapana. [cinq hommes]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.46_03/PV0065391_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0065391"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "prm-object-64396",
+        "source": "prm",
+        "title": "Charm. Plant fibre rolled and tied to form a bundle that is round and wider at one end, tapering at the other. [AF [OPS Move] 5/5/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS365645_1914.0029.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-64396"
+      }
+    ],
+    "household": [
+      {
+        "id": "prm-object-42668",
+        "source": "prm",
+        "title": "Humming top: gourd on wooden spindle [.1],  with piece of wood tied with twisted plant fibre string [.2] [L.Ph 'DCF 2004-2006 What's Upstairs?' 14/3/2005]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS237048_1914.0029.5.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-42668"
+      },
+      {
+        "id": "prm-object-42036",
+        "source": "prm",
+        "title": "Call with 'retreating reed' sounding mechanism, enclosed in small gourd.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS374243_1914.0029.4.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-42036"
+      }
+    ],
+    "arms": [
+      {
+        "id": "71.1964.39.87",
+        "source": "quaibranly",
+        "title": "Flèche",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/164/164249.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1964.39.87"
+      },
+      {
+        "id": "71.1964.39.88.1-2",
+        "source": "quaibranly",
+        "title": "Flèche",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/164/164250.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1964.39.88.1-2"
+      },
+      {
+        "id": "71.1964.39.89",
+        "source": "quaibranly",
+        "title": "Flèche",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/164/164251.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1964.39.89"
+      },
+      {
+        "id": "71.1964.39.98",
+        "source": "quaibranly",
+        "title": "Arc",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/164/164263.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1964.39.98"
       }
     ]
   },

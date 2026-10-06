@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__tanzania__arusha",
   "people_key": "Q3271270",
-  "count": 22,
+  "count": 25,
   "buckets": {
     "household": [
       {
@@ -124,6 +124,13 @@
         "title": "bröstprydnad",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703373%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48703"
+      },
+      {
+        "id": "prm-object-61439",
+        "source": "prm",
+        "title": "Necklet of hide with red, black and white beads and a large white stone bead. [El.B 'DCF 2004-2006 What's Upstairs?' 31/5/2005]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS226489_1902.0009.4.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-61439"
       }
     ],
     "arms": [
@@ -165,6 +172,22 @@
         "title": "kärl",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703337%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48585"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PA000121.165",
+        "source": "quaibranly",
+        "title": "Aruska",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.06_03/PA000121_049.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000121.165"
+      },
+      {
+        "id": "PA000121.167",
+        "source": "quaibranly",
+        "title": "Aruska",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.06_03/PA000121_049.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PA000121.167"
       }
     ]
   },

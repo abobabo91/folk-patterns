@@ -5,20 +5,6 @@
   "buckets": {
     "garment": [
       {
-        "id": "/2022703/pages_Main_idt_30963_inventary_CE19475_table_FMUS_museum_MNA",
-        "source": "europeana",
-        "title": "Mocasín",
-        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE19475_SEQ_003_P.JPG%26Ninv%3DCE19475&type=IMAGE&size=w400",
-        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_30963_inventary_CE19475_table_FMUS_museum_MNA"
-      },
-      {
-        "id": "/2022703/pages_Main_idt_30964_inventary_CE19476_table_FMUS_museum_MNA",
-        "source": "europeana",
-        "title": "Mocasín",
-        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE19476_SEQ_002_P.JPG%26Ninv%3DCE19476&type=IMAGE&size=w400",
-        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_30964_inventary_CE19476_table_FMUS_museum_MNA"
-      },
-      {
         "id": "/2021009/_91DB78D3ED75B75AEA81D0F8B1F70801",
         "source": "europeana",
         "title": "hattu",
@@ -27,5 +13,20 @@
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "/2022703/pages_Main_idt_10076_inventary_12546_table_FMUS_museum_MAM",
+      "source": "europeana",
+      "title": "Indio lipán - Figura",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF12546_SEQ_005_P.JPG%26Ninv%3D12546&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_10076_inventary_12546_table_FMUS_museum_MAM"
+    },
+    {
+      "id": "/2022703/pages_Main_idt_10102_inventary_12572_table_FMUS_museum_MAM",
+      "source": "europeana",
+      "title": "Indio lipán - Figura",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF12572_SEQ_004_P.JPG%26Ninv%3D12572&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_10102_inventary_12572_table_FMUS_museum_MAM"
+    }
+  ]
 }

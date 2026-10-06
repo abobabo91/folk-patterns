@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "southeast-asia__indonesia__lampung",
   "people_key": "Q1801725",
-  "count": 11,
+  "count": 13,
   "buckets": {
     "garment": [
       {
@@ -81,7 +81,24 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1232492%2Fimage.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_49191"
       }
+    ],
+    "household": [
+      {
+        "id": "70.2018.54.1.1-2",
+        "source": "quaibranly",
+        "title": "boîte",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/70_2018_54_1_1_2.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2018.54.1.1-2"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "/91608/SMVK_VKM_objekt_105112",
+      "source": "europeana",
+      "title": "skeppsvävnad, Tampan",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2272285%2F2000.01.0012.jpg&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_105112"
+    }
+  ]
 }

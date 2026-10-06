@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "europe__slovakia__slovaks",
   "people_key": "Q171336",
-  "count": 21,
+  "count": 96,
   "buckets": {
     "garment": [
       {
@@ -150,8 +150,540 @@
         "title": "Cap",
         "image": "https://images.metmuseum.org/CRDImages/es/web-large/26.254_CP2.jpg",
         "object_url": "https://www.metmuseum.org/art/collection/search/173312"
+      },
+      {
+        "id": "173313",
+        "source": "met",
+        "title": "Cap",
+        "image": "https://images.metmuseum.org/CRDImages/es/web-large/26.258_CP2.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/173313"
+      },
+      {
+        "id": "65090",
+        "source": "kunstkamera",
+        "title": "Пражская Венеция. Словаки, чехи. Чехия. Начало XX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIAmxYtvPgwCgyZ_Kppyns5EOQRtGzvIQ5PpawwedZLG5.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65090"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PP0126586",
+        "source": "quaibranly",
+        "title": "Longue ceinture de maintien de bucheron",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_08/PP0126586_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0126586"
+      },
+      {
+        "id": "PP0126590",
+        "source": "quaibranly",
+        "title": "Récipient fait dans un morceau de bois",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_08/PP0126590_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0126590"
+      },
+      {
+        "id": "PP0126594",
+        "source": "quaibranly",
+        "title": "Manchettes en laine naturelle",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_08/PP0126594_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0126594"
+      },
+      {
+        "id": "PP0126595",
+        "source": "quaibranly",
+        "title": "Métier de bois et manchettes en laine",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_08/PP0126595_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0126595"
+      },
+      {
+        "id": "PP0126596",
+        "source": "quaibranly",
+        "title": "Métier pour fabriquer des manchettes de laine",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_08/PP0126596_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0126596"
+      },
+      {
+        "id": "98366",
+        "source": "rem",
+        "title": "Фотоотпечаток: Мария Гора, 20 лет из окрестностей Кривана. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/KdYcWePConJy-PDgfqZKlXgUFaOVVRKKUQbHR9Nzcs9bchL7dqlheZI5LWOW5soY.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/98366"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "335826",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgRNZZyBunZzQLl_DbYUIRWGgk-2_SFA-9aelQmUbcFWZ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335826"
+      },
+      {
+        "id": "385407",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/PU6htfstDU9pt58obsfUWM90iMnqDGZK_WcJbZoP_zUZTwAwYu3KWtZSy8c5QZ1h.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/385407"
+      },
+      {
+        "id": "207395",
+        "source": "rem",
+        "title": "«Писанка» - яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/MGJ8AGVhuKxmLc_p4Ym1TuEJUhDknO2QArTZok0c42vykUvJajK5rXSJbaqtwEjh.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/207395"
+      },
+      {
+        "id": "216580",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/PU6htfstDU9pt58obsfUWLBovyTZSuz7DBvTPBRCFFDdFbgWflMaOUN6e__Mt7oJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/216580"
+      },
+      {
+        "id": "216587",
+        "source": "rem",
+        "title": "«Писанка» - яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/PU6htfstDU9pt58obsfUWHthnRovAHXKgWzMOnHS9M9KINFO9OThyzcOe6Jte5V5.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/216587"
+      },
+      {
+        "id": "335837",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgWC5yVA3M5hr-ZHOP2CxJ_auwmxwcY27ABt4AjSmuzCz.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335837"
+      },
+      {
+        "id": "335865",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/rcFjSa0sj-EPCRqLphddp6RRMiP4U8tIvkWi_RIi5Ysb0ekrnP3CUTaoHQe1QkFZ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335865"
+      },
+      {
+        "id": "335859",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgY8ynQaeZsTlc_6Xz7jnHXA49TIzQGazmsUCobajS6jQ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335859"
+      },
+      {
+        "id": "335881",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgTn0u97Hq0xKv7xy31N_POOtb66Zo2uXZ7okkvairQ0H.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335881"
+      },
+      {
+        "id": "216569",
+        "source": "rem",
+        "title": "«Писанка» - яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/PU6htfstDU9pt58obsfUWOt8KbhruQ5mJsIasYlE3EDjX4IkQl5RdCVQ4oWqSJgG.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/216569"
+      },
+      {
+        "id": "335818",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgabOzdRdWzjtxjkTcpNev0vuv3X-48DAvoK5bC58Yx5x.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335818"
+      },
+      {
+        "id": "335819",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgeZtuUXydGbcyJkehzysBOyu2ly7ofEah1vrh60RTGUh.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335819"
+      },
+      {
+        "id": "335834",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgUdL28IVfHe3Vh0J24OCl7oTmb-0K1fYSrzdNQ4PRgZj.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335834"
+      },
+      {
+        "id": "335835",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgbNrw7fQTWr842PMEa__uSuLZzWgXyOtsNp7C1M9QxSC.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335835"
+      },
+      {
+        "id": "335836",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgYrwc0aY8r_bWDsEI0dM-K5SOceAQINLGQYEAzXaI3Mn.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335836"
+      },
+      {
+        "id": "335840",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/rcFjSa0sj-EPCRqLphddp3upAPb5Ccohp2Uw2v2v8rX18fKD286_pkViUaLyg_KN.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335840"
+      },
+      {
+        "id": "385344",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/rcFjSa0sj-EPCRqLphddp9OLNuMURF-2LjNMxQLEo5gXI9CkgFjf9RYARJY5bU4w.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/385344"
+      },
+      {
+        "id": "216586",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/PU6htfstDU9pt58obsfUWB-WEW6znAiK2Hcd4dvHVu-23Bg_VfSJqoU2QcGLXBrk.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/216586"
+      },
+      {
+        "id": "335815",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgRxJ9Cp4WQIdxp8nds1DVUVXDHMce-3_wy5ahxkHfP3n.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335815"
+      },
+      {
+        "id": "335816",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgfN_k0rM7-z3RMxgZW5YFF5HkHd9jvTXYxRN_iabC6fx.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335816"
+      },
+      {
+        "id": "335824",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgV6tBlqceaYSRdIrSvZ_b6mnn9CmQIux5VHhYM1n15Yt.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335824"
+      },
+      {
+        "id": "335825",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgdoI7weHz4wrEO9z7UC1tugW_QKhCuHYY2nUtQGH9C4h.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335825"
+      },
+      {
+        "id": "335827",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgZKJsH5sa2HT5LYQ-FluiyAN_1a02Vs_2cDjUwhqvEQ2.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335827"
+      },
+      {
+        "id": "335828",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgabkol2yezbQT8wUAzGXpvTNFNQhy_rV-2W5qrBpwty-.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335828"
+      },
+      {
+        "id": "335829",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgcUok-QPE9KsfLUWmDrai_EbyWvSdyrgEGpfg_56vL1R.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335829"
+      },
+      {
+        "id": "335830",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgWqaHKCqaUtumidHqU0kPVq_3Ll7DKiRRK42jpUYzpfA.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335830"
+      },
+      {
+        "id": "335870",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgWkELV0hSR467zP2FUcrWM-i0ZBDO74HhO0RMsUgyThQ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335870"
+      },
+      {
+        "id": "335903",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgZxg2gOOfoBbAKiao4h6oU2NqIotAH-7GSA_X3lSAtgJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335903"
+      },
+      {
+        "id": "216584",
+        "source": "rem",
+        "title": "«Писанка» - яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/PU6htfstDU9pt58obsfUWDq061MMqrSkpwETSMYbXA73pY84LAKTT4FEiVKmd7D2.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/216584"
+      },
+      {
+        "id": "335820",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgSV7sEbrSz4oMva526C34Psl8hChfQFxPhB8Iaqb_-9k.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335820"
+      },
+      {
+        "id": "335821",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgR7BT_vWHHY6BtjiCDXPtjGAM837FWHi3BQh1NtytjUh.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335821"
+      },
+      {
+        "id": "335822",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgYeHs5mLu--WZcFHkUc_5PIyPenlG0TEPVPOmYbX3His.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335822"
+      },
+      {
+        "id": "335848",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/u64GPsyJyq_yegDHqshtgYVMzKpCw6aJVe0B-yzNj0B6xRDE8XOvBuxqSOKKmkoE.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335848"
+      },
+      {
+        "id": "335868",
+        "source": "rem",
+        "title": "Яйцо пасхальное. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/rcFjSa0sj-EPCRqLphddp3upAPb5Ccohp2Uw2v2v8rX18fKD286_pkViUaLyg_KN.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/335868"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "385413",
+        "source": "rem",
+        "title": "Фигура из соломы. Словаки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/q0lFQPpJFsnPFF8ScGv0t5BAN7Lz-ZcBwaQgoWDjscqHb_eQ7sdtRKmAjWZ22an5.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/385413"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "772795",
+      "source": "rem",
+      "title": "Словаки. Мужской костюм. Моравия. Окрестности г. Подивин. Середина XIX века. Словаки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/X5LdagnMqPcfudoDojoqQ-MHk4C1PdpNr6huIyZ1p5RkqCmETUl8c-ZM7ioqc4-n.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/772795"
+    },
+    {
+      "id": "385307",
+      "source": "rem",
+      "title": "Жилет. Словаки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/aHaB0M8Q-A9kJD1e-KaqTDBeaWb4VoEeysjQM9Om_hcNdqrlGDpB3m2bFbZuWq-Z.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/385307"
+    },
+    {
+      "id": "385411",
+      "source": "rem",
+      "title": "Кнут «Žila velikonočni». Словаки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/q0lFQPpJFsnPFF8ScGv0t678F6XhdtcL0zed91pvPj1NTWT2CoNbaK72brGVcwW9.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/385411"
+    },
+    {
+      "id": "666464",
+      "source": "rem",
+      "title": "Валашка. Словаки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/T_C90zI6m8o7BWioHyN6i-7TQxZaDgVpIJ8LS1whU21_Jh8WiYdoufTCFCAdn6x_.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/666464"
+    },
+    {
+      "id": "201814",
+      "source": "rem",
+      "title": "Елочка «lito» («máječek»). Словаки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/MGJ8AGVhuKxmLc_p4Ym1TstKERTkpFiDTUFLgVJwTtYqFmWu7bGCKp42CEZeosNJ.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/201814"
+    },
+    {
+      "id": "65057",
+      "source": "kunstkamera",
+      "title": "Uprky J. На пути к св. Антоничку. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIBb9ssTZqlaI_iBjaDEWZ6aGy8F5NtFbr8wEj3hlLTqM.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65057"
+    },
+    {
+      "id": "65058",
+      "source": "kunstkamera",
+      "title": "Uprky J. Сцена Ланжхотского шествия. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIPgfcHVAXmsjURsjPrHIZp7M2R0NUvTmjzLxPFxll1ue.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65058"
+    },
+    {
+      "id": "65059",
+      "source": "kunstkamera",
+      "title": "Uprky J. Сцена Ланжхотского шествия. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIEppNfDi71SndNk7_m9HCGx5RZ1hIk7jYEjp8XK6GLye.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65059"
+    },
+    {
+      "id": "65080",
+      "source": "kunstkamera",
+      "title": "Адам Райсок из Зволена. Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIIyfhNYZjE3BGn_YYVu-jVzmmzJ9c402nEJQqBa2qjIf.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65080"
+    },
+    {
+      "id": "65088",
+      "source": "kunstkamera",
+      "title": "Башня на мосту Карла IV в Праге. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHILb4c6WxKZdiocrr3Fev5gag0A_SjF5kCTrjNpvPdv8s.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65088"
+    },
+    {
+      "id": "65089",
+      "source": "kunstkamera",
+      "title": "Вид собора и древних стен замка в Праге. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIOh0w3ZFc0ZdJTNzbaQWQ183-9mHO6CJH8cLRprE06K1.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65089"
+    },
+    {
+      "id": "65043",
+      "source": "kunstkamera",
+      "title": "Выставка мебели и посуды в чехословацком этнографическом музее в Праге. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIPeEzlOLLhDNvd1i6KlwtnRxxH4vPM3eaPRg_p1_ggAe.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65043"
+    },
+    {
+      "id": "65044",
+      "source": "kunstkamera",
+      "title": "Выставка моделей деревянных построек в чехословацком этнографическом музее в Праге. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIFZ6mrtdBaPSu3fdUHUwVPzkru17GEWcJUj5uALWW58C.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65044"
+    },
+    {
+      "id": "65042",
+      "source": "kunstkamera",
+      "title": "Выставка старинной мебели в чехословацком этнографическом музее в Праге. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIFvSazxcsfyYk8rumeQnMv_CNDsN46CsJ8_ZXvCOnT4D.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65042"
+    },
+    {
+      "id": "65078",
+      "source": "kunstkamera",
+      "title": "Девушка из Детвы. Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIKwRnTSg_ZiTc7Y-KnqkQ_tqtBfbB1a9-AIDY4VIvHRQ.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65078"
+    },
+    {
+      "id": "65085",
+      "source": "kunstkamera",
+      "title": "Женщина из Валашю Биеле (Тренчин). Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIN8mdiQUhBjhp595TDVtwsBpBxD33JUsV5VTr9HjR9dT.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65085"
+    },
+    {
+      "id": "65079",
+      "source": "kunstkamera",
+      "title": "Женщина из Тренчина. Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIIjUmdL1WqSD8Ub7LA5BTL0gOhnNdOWBG4q5N5xGuncm.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65079"
+    },
+    {
+      "id": "65041",
+      "source": "kunstkamera",
+      "title": "Здание чехословацкого этнографического музея в Праге. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHINeVRq6d8SGv1vW2d5HGDkZPeR4KqaSikSY3mB_MTUDl.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65041"
+    },
+    {
+      "id": "65047",
+      "source": "kunstkamera",
+      "title": "Краевое шествие в честь коронации короля Фердинанда, 1836 г. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIBGJ9wa7eCagmT7FQH43sLQYIbvlhTAoi2C190vxvdZd.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65047"
+    },
+    {
+      "id": "65049",
+      "source": "kunstkamera",
+      "title": "Краевое шествие в честь коронации короля Фердинанда, 1836 г.: свадебный воз из Клатовско. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIJvu1O8smN_BByl3pfPOyenNiLgQLdDaUOt8yFTPp4cw.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65049"
+    },
+    {
+      "id": "65046",
+      "source": "kunstkamera",
+      "title": "Краевое шествие в честь коронации короля Фердинанда, 1836 г.: свадебный воз из Крживоклатско. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIFJZIN4bwndu7ckykowhAz_C9mfpbcAOTNOfeN7wVILL.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65046"
+    },
+    {
+      "id": "65050",
+      "source": "kunstkamera",
+      "title": "Краевое шествие в честь коронации короля Фердинанда, 1836 г.: свадебный воз из Младоболеславско. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIMWIUV4XLDhCUef2BruS8Mq9LVTmRoXMdtDNCjYDfR9s.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65050"
+    },
+    {
+      "id": "65048",
+      "source": "kunstkamera",
+      "title": "Краевое шествие в честь коронации короля Фердинанда, 1836 г.: свадебный воз из Хрудимско. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHICR7dk8ZIa8SQA-dxc5oMqWeeh2SDaGgRqxbj5l7ivRv.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65048"
+    },
+    {
+      "id": "65062",
+      "source": "kunstkamera",
+      "title": "Лаштянка. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIHbGBxsBhMCnVGusfsG6LCjYx3BeULBaL71uSJcScCcn.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65062"
+    },
+    {
+      "id": "65084",
+      "source": "kunstkamera",
+      "title": "Матуш Канамский из Пешты (Детва). Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIDCzStTLBmK_yumjaSBS7wCCq_gAIaXtixFqFZAud3lv.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65084"
+    },
+    {
+      "id": "65086",
+      "source": "kunstkamera",
+      "title": "Мост Карла IV в Праге. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIMe-B4DwqBKSiGREmU2lwRahn1iqxSRERdC4p3YPhapA.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65086"
+    },
+    {
+      "id": "65061",
+      "source": "kunstkamera",
+      "title": "Музыкант, играющий на дуде (\"дудак\") из Детвы. Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIDdIZg1doE4gdIfZQ7G0AHFhkjV5IQIqYjgU5qKmbP1R.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65061"
+    },
+    {
+      "id": "65083",
+      "source": "kunstkamera",
+      "title": "Невеста из Добронивы (Зволен). Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIOY8sV5MDSX3b_y40Narwsu4uJKdsZy0aVwQH7Hjlzu8.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65083"
+    },
+    {
+      "id": "65082",
+      "source": "kunstkamera",
+      "title": "Портрет мужчины из Детвы. Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIEt9_rLrgAybycsHbR_zkbzqJmVugXYXlufT9mmR_fBm.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65082"
+    },
+    {
+      "id": "65081",
+      "source": "kunstkamera",
+      "title": "Портрет мужчины. Словаки. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIF0wIJ3U3gE_JiUP8S4gPTeczPVwyCLrz6bFO7QH704p.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65081"
+    },
+    {
+      "id": "65087",
+      "source": "kunstkamera",
+      "title": "Синагога и еврейская ратуша в Праге. Словаки, чехи, евреи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIGcQ_MeR6JRe5-MdmXhqZdsR51Rt418UyCRZtpquE9Y_.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65087"
+    },
+    {
+      "id": "65045",
+      "source": "kunstkamera",
+      "title": "Этнографический музей. Выставка - внутренность крестьянской комнаты. Словаки, чехи. Чехия. Начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/5Y_GeqZmJZRzvacxcsmHIAtDA7QUzjNTN_So5oGfBcTtK6iatQFqQWDjH-oxViTF.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/65045"
+    }
+  ]
 }

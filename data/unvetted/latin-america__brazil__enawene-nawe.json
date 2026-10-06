@@ -1,7 +1,56 @@
 {
   "ethnicity_key": "latin-america__brazil__enawene-nawe",
   "people_key": "Q1114291",
-  "count": 0,
-  "buckets": {},
+  "count": 6,
+  "buckets": {
+    "garment": [
+      {
+        "id": "70.2010.1.1",
+        "source": "quaibranly",
+        "title": "Couronne",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/435850y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2010.1.1"
+      },
+      {
+        "id": "70.2010.1.2",
+        "source": "quaibranly",
+        "title": "Couronne",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/435851y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2010.1.2"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "70.2010.1.3.1-2",
+        "source": "quaibranly",
+        "title": "Paire de brassards",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/435852y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2010.1.3.1-2"
+      },
+      {
+        "id": "70.2010.1.4.1-2",
+        "source": "quaibranly",
+        "title": "Paire de brassards",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/435853y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2010.1.4.1-2"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "70.2010.1.5",
+        "source": "quaibranly",
+        "title": "Maraca",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/435854y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2010.1.5"
+      },
+      {
+        "id": "70.2010.1.6",
+        "source": "quaibranly",
+        "title": "Flûte",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/435855y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2010.1.6"
+      }
+    ]
+  },
   "other": []
 }

@@ -1,7 +1,31 @@
 {
   "ethnicity_key": "north-america__united-states__tonkawa",
   "people_key": "Q1493185",
-  "count": 0,
-  "buckets": {},
+  "count": 3,
+  "buckets": {
+    "photo": [
+      {
+        "id": "obj-1389191",
+        "source": "smb",
+        "title": "Grant Richards",
+        "image": "https://search.smb.museum/media/images/thumbs/large/561/002/2561714.jpg",
+        "object_url": "https://id.smb.museum/object/1389191"
+      },
+      {
+        "id": "PP0208150",
+        "source": "quaibranly",
+        "title": "Chief Grant Richards. Tonkawa",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0003.13_05/PP0208150_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0208150"
+      },
+      {
+        "id": "PP0208195.2",
+        "source": "quaibranly",
+        "title": "Chief Grant Richards, Tonkawa",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0003.15_04/PP0208195_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0208195.2"
+      }
+    ]
+  },
   "other": []
 }

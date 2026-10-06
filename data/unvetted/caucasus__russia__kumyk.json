@@ -1,7 +1,814 @@
 {
   "ethnicity_key": "caucasus__russia__kumyk",
   "people_key": "Q211018",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 113,
+  "buckets": {
+    "arms": [
+      {
+        "id": "283453",
+        "source": "rem",
+        "title": "Нож для формовки глиняных сосудов. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvJIXf0fJ-c9B1hZJMte8Fcq2MqCXmzSGDeflfN1O-JF_.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283453"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "283468",
+        "source": "rem",
+        "title": "Форма для обработки дна кувшинов. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvCRN0XJ9vkM_rr7slicj76LSKhpArKTUjusogdl8Mcr5.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283468"
+      },
+      {
+        "id": "283523",
+        "source": "rem",
+        "title": "Миска. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvEq2eEjob3SXs1xt50nxoMSFXesG2OVxUmHzMiEW_Tsn.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283523"
+      },
+      {
+        "id": "283613",
+        "source": "rem",
+        "title": "Кувшин. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/5VaTcQfrs_2hx3jrR0eVQ7mRGnu2HaoiyYcuHjDb_G3hkBIZSm9ubOAZM_RRq3hF.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283613"
+      },
+      {
+        "id": "283622",
+        "source": "rem",
+        "title": "Горшок. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/5VaTcQfrs_2hx3jrR0eVQ5DAAcb7Zl-wptcDs2EVbA2bsebHwI_EdZIXyjiqfozl.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283622"
+      }
+    ],
+    "household": [
+      {
+        "id": "283604",
+        "source": "rem",
+        "title": "Скамья – кресло гончара. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvBJZl-fPJmabSQtU_2Fgy1WLjm5ii9n6pNBqe1JMY_fD.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283604"
+      }
+    ],
+    "garment": [
+      {
+        "id": "732737",
+        "source": "rem",
+        "title": "Обувь женская. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvKMyQF06KBtKSHPe5RHl8GaX3HNWzYx1sUYFeR1iq4kZ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/732737"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "150018",
+        "source": "rem",
+        "title": "«Гомуз» (комуз) - инструмент музыкальный: струнный: шейковый: щипковый. Аварцы; кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/BkBdC9Zh2fbdaKvqddElnI3ziAc15khYlRr5VW6mtCAXBn7pWAP5-b_C9aCFUFCH.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/150018"
+      }
+    ],
+    "textile": [
+      {
+        "id": "281030",
+        "source": "rem",
+        "title": "Ковер безворсовый двусторонний. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/tGNn8CiYdlvCyuC-TEYvcwq1OLs_g3ReYF9T27RdgfQIBn-sARhKQ4A2D57AtgTQ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/281030"
+      }
+    ],
+    "photo": [
+      {
+        "id": "280129",
+        "source": "rem",
+        "title": "Фотоотпечаток: Коновязь. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDr6Tr0W12AMZl-wfVkP2PlY3g3w1L7f9ddLfN8lVLIc_.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280129"
+      },
+      {
+        "id": "280183",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина за изготовлением овчины. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfGfWcDggJq6D-xKmBSZHcq7mhmhpTrJbbUMFaEaCjOdK.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280183"
+      },
+      {
+        "id": "280192",
+        "source": "rem",
+        "title": "Фотоотпечаток: Начало разборки гончарного горна. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfKjStwowovnZ6USuGDuE9dl4qSYr64YXWEHT1geJS-Ze.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280192"
+      },
+      {
+        "id": "280195",
+        "source": "rem",
+        "title": "Фотоотпечаток: Гончар за работой. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfCCmAYRwHWIHPVWU0dg4bH4Uq1XPrPzLIrL0qZXcrTzr.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280195"
+      },
+      {
+        "id": "30782",
+        "source": "rem",
+        "title": "Фотоотпечаток: Чтение газеты в поле. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/2a7GONpMuGwrGDS3L6C_-nfOsxgaQh_acXHq4AD8y0kEetqjC6rlEjybBFB-8w8d.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/30782"
+      },
+      {
+        "id": "261638",
+        "source": "rem",
+        "title": "Фотоотпечаток: Ремонт школы. Аварцы; кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/IwLeBMcpj6-U9mTc8dRt6Oul5w3ZOfpqitsY4e16bLIALLR27DtnzrPNUDxCbJRw.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/261638"
+      },
+      {
+        "id": "280114",
+        "source": "rem",
+        "title": "Фотоотпечаток: Урок в школе. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfBxaJY8N00Fw2XPA47IvyKeasE8ZAP3hJ8pqqo2ow9cz.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280114"
+      },
+      {
+        "id": "280127",
+        "source": "rem",
+        "title": "Фотоотпечаток: Печь. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDt8ECjH4WyMcgOTTewN29puXeotXhknTmbbq_rVRQ0NC.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280127"
+      },
+      {
+        "id": "280143",
+        "source": "rem",
+        "title": "Фотоотпечаток: Бороньба пшеницы. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDj0293OB9TyK0CtBcj6z2vwVUV8v9HNq3nHjz9ETBq-F.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280143"
+      },
+      {
+        "id": "280144",
+        "source": "rem",
+        "title": "Фотоотпечаток: Молотьба. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDo-mYNeGankdRH4p3IqsnMjQ6VEgzznnHXq_R6QaLZFA.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280144"
+      },
+      {
+        "id": "280159",
+        "source": "rem",
+        "title": "Фотоотпечаток: Стрижка овец во дворе. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDhsGU4xV-CfChV-7HTnzb-OYY3Mh1kxiid3Ylaixio2u.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280159"
+      },
+      {
+        "id": "280095",
+        "source": "rem",
+        "title": "Фотоотпечаток: Общий вид селения. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDu4PD7EwVMKNz9E1wBnFK0hjPwdORoSpqRVILx7CEgvH.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280095"
+      },
+      {
+        "id": "280099",
+        "source": "rem",
+        "title": "Фотоотпечаток: Портрет старика. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfMNTdTkCyMzN72SlhQYYg6o9lsqj5TMllSCabVetsNFI.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280099"
+      },
+      {
+        "id": "280101",
+        "source": "rem",
+        "title": "Фотоотпечаток: Дети. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfG-5Dfq2F0pPNR7zT3_jiQrA6_cZZGgYxVuDjw55PHdS.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280101"
+      },
+      {
+        "id": "280107",
+        "source": "rem",
+        "title": "Фотоотпечаток: Общий вид улицы. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDl14Dj50CjfdnkoRGS-ZdTbEq865e0BIbFfxLRTSlIZD.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280107"
+      },
+      {
+        "id": "280119",
+        "source": "rem",
+        "title": "Фотоотпечаток: Мечеть. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDtSMGBriZfKuzjU3AQrkNhdu0d0yWYZDg-SOJWDDUezU.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280119"
+      },
+      {
+        "id": "280121",
+        "source": "rem",
+        "title": "Фотоотпечаток: Внутренний вид двора зажиточного крестьянина. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDlhsjgAkAuE10G6S3DMaa8RnuM6dKUYYFJTx6gtfaT5E.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280121"
+      },
+      {
+        "id": "280123",
+        "source": "rem",
+        "title": "Фотоотпечаток: Жилище бедняка. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDmQHBYEzm12miV3GiOdW134DFh93O-akpHZMZoz7hk6S.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280123"
+      },
+      {
+        "id": "280124",
+        "source": "rem",
+        "title": "Фотоотпечаток: Укатка крыши. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDu-JI_R1nPIcyruXewdwE5elrTIz2Psilp2AiF4rC-AV.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280124"
+      },
+      {
+        "id": "280131",
+        "source": "rem",
+        "title": "Фотоотпечаток: Внутренний вид комнаты. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDn1kzfS9Qm4ybRojecDO5N2briebZZ4o-uYtt_nNBGUY.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280131"
+      },
+      {
+        "id": "280137",
+        "source": "rem",
+        "title": "Фотоотпечаток: Амбары для хранения половы. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDl6ibp0rt8WMv3C6ieo4_4Q8O1dPI2-WD5TGs4baJBPk.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280137"
+      },
+      {
+        "id": "280139",
+        "source": "rem",
+        "title": "Фотоотпечаток: Сушка кирпичей. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDlqzad9R9Kao2AP-jHWgoJbpMiLZJC2kV-yOqm0ZQgjL.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280139"
+      },
+      {
+        "id": "280150",
+        "source": "rem",
+        "title": "Фотоотпечаток: Перевозка кукурузы с поля во двор. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDq23bGiU8a3uTNZN4trUnRMoF_4macDp_JljzTWyEN11.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280150"
+      },
+      {
+        "id": "280151",
+        "source": "rem",
+        "title": "Фотоотпечаток: Отбор кукурузы. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDnvTFhwZXsexSlURTBD7iqIrEWOmqMVyIcnbhbPlC55O.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280151"
+      },
+      {
+        "id": "280160",
+        "source": "rem",
+        "title": "Фотоотпечаток: Ульи. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDhGt6scm8LFxDiwrf24Jzu6BRTCoS0_057weT6FekNbm.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280160"
+      },
+      {
+        "id": "280165",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина с веретеном во время сучения пряжи. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDqqEbMvtNr3qiM5NHSXsJyyYLyKXtd8KnCaHLtIM4KEf.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280165"
+      },
+      {
+        "id": "280167",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина за ткацким станком. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDtZUz5fXikdIooxHfbkia3OmLFiPeq7dQo2cFEZY6LHk.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280167"
+      },
+      {
+        "id": "280179",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина за станком. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfFx2lPtpEI0GeLgzOKVdNktzq6CpxlOXr6iQhjrQl2sB.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280179"
+      },
+      {
+        "id": "280180",
+        "source": "rem",
+        "title": "Фотоотпечаток: Мусульманское кладбище. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDsDofQMD5vwCPHFRESg8zIWW0KiOJK01Zd0AqYF4GiQK.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280180"
+      },
+      {
+        "id": "280181",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина за вырезанием узора для арбабаша. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfCgk49PcskQfRBA1o87CVeBB6qktAVT6yCNFFvjGTJib.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280181"
+      },
+      {
+        "id": "280184",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина, разминающая баранью шкуру. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfMGlNuhdXWXZJj-3Rf65xJbWb-9n5mmFr92cuv8rn4k5.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280184"
+      },
+      {
+        "id": "280193",
+        "source": "rem",
+        "title": "Фотоотпечаток: Мастерская гончара. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfGaGspV0N9JGJfWofo7pNOsYCTXs8HCYnfwxv3lX5T6h.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280193"
+      },
+      {
+        "id": "280198",
+        "source": "rem",
+        "title": "Фотоотпечаток: Возвращение с базара. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfL_DLQM0RrMaFfedWYKfiMyHGkfe1OGTGgtSBBWZdrIs.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280198"
+      },
+      {
+        "id": "280108",
+        "source": "rem",
+        "title": "Фотоотпечаток: Базарная площадь. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfMtucV9O7U1Th1hGr059m-gRpLbh8yB9U4ZbvL5yr2Y3.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280108"
+      },
+      {
+        "id": "280113",
+        "source": "rem",
+        "title": "Фотоотпечаток: Члены ковровой артели «Хальча». Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfMySCQ7U0wy2YDaOmly8zT1m6ZI0MlND2HDvKZWNeuMn.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280113"
+      },
+      {
+        "id": "280117",
+        "source": "rem",
+        "title": "Фотоотпечаток: Общий вид улицы. Кумыки; аварцы",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDjdwJQoyEtEs4usZdmpMPvZ7sElFHWFdPdYwv21Q2sQn.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280117"
+      },
+      {
+        "id": "280118",
+        "source": "rem",
+        "title": "Фотоотпечаток: Общий вид улицы. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDnjtoo9DVm9MGuCe8-F0DH57iaBMPmOGmuv74zA44lkJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280118"
+      },
+      {
+        "id": "280120",
+        "source": "rem",
+        "title": "Фотоотпечаток: Вид с крыши на соседний двор. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDpnpAwAhbblCXsmM5TTsnx_CbCEiXp-EYyW7iGHdxmDy.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280120"
+      },
+      {
+        "id": "280146",
+        "source": "rem",
+        "title": "Фотоотпечаток: Уборка кукурузы. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDmiUZ6LGH-bTf9woTY9n8Rw3nIEoXdFW22OKUfWEPTvQ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280146"
+      },
+      {
+        "id": "280161",
+        "source": "rem",
+        "title": "Фотоотпечаток: Закрома для хранения зерна. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDgF-Y6M6Sljcmkm2zlpUX_2fKXnyfNO7fuo01OAI4NGj.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280161"
+      },
+      {
+        "id": "280164",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина, расчесывающая шерсть на гребне. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDhM3ELeKTTFFoT6zkVLkXCQshxOyZ12M9tNYNEtG5DZJ.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280164"
+      },
+      {
+        "id": "280170",
+        "source": "rem",
+        "title": "Фотоотпечаток: Две женщины за ткацким станком. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDppxzX_CRbNMjFieqjVNRPNUAHbRXh8LrbhnUdqUMFey.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280170"
+      },
+      {
+        "id": "280182",
+        "source": "rem",
+        "title": "Фотоотпечаток: Женщина за изготовлением узора для арбабаша. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfFGsDMOoldFmWHI0IxiczulyP01Am0eOz3n6Ja_BjebO.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280182"
+      },
+      {
+        "id": "280191",
+        "source": "rem",
+        "title": "Фотоотпечаток: Памятники умершим на чужбине. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/LCqizBkSc-kY3mvMEQ1BDuMbuwnw5Nt-BkPqDykV0mcfHQ97PcFS4SXOYmNaPsR4.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280191"
+      },
+      {
+        "id": "280194",
+        "source": "rem",
+        "title": "Фотоотпечаток: Гончар за работой. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfBFV5hePS4GM8E9HI9Cg6xAK5fisS9n6_nPLedA4qVps.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280194"
+      },
+      {
+        "id": "280196",
+        "source": "rem",
+        "title": "Фотоотпечаток: Заточка ножниц. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfOmY0WVYt361OrPyMJdgwlJ3VazlHfVpcgUKc7B_W7uC.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280196"
+      },
+      {
+        "id": "280197",
+        "source": "rem",
+        "title": "Фотоотпечаток: Мастерская кинжальщика. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfKjOvbuDfZUUJCoE0jUnvQ-7qFBpjLnEc4_N3AGdk9dx.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280197"
+      },
+      {
+        "id": "280208",
+        "source": "rem",
+        "title": "Фотоотпечаток: Три поколения семьи. Кумыки",
+        "image": "https://collection.ethnomuseum.ru/api/spf/iLq-iWMdr7PNMFneJHFdfPfiJbM_C4LtCL1Rn_gYpmcUghviRKZi5IJ9yHJc3Lv3.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/280208"
+      },
+      {
+        "id": "66893",
+        "source": "kunstkamera",
+        "title": "«Ермоловская дорога» к крепости \"Бурная\" Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KQuhya56uI8VwVgtUJe7vhUVbRCzXfKiFo6_W5Bu59Ti.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66893"
+      },
+      {
+        "id": "66219",
+        "source": "kunstkamera",
+        "title": "Ашенбреннер. Девица (вероятно, кумычка). Кумыки (?). Дагестан, Буйнакский р-он, селение Буйнакск (Темир-Хан-Шура), вторая половина XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/TBnebx2wAN2161tYIm35AVPvnuwF4wXZLXAZssYuJ8DghFbWX9RLUUBQaRoLdW1r.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66219"
+      },
+      {
+        "id": "66217",
+        "source": "kunstkamera",
+        "title": "Ашенбреннер. Маленькая девочка из Темир-Хан-Шуры. Кумыки (?). Дагестан, Буйнакский р-он, селение Буйнакск (Темир-Хан-Шура), вторая половина XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/TBnebx2wAN2161tYIm35ATr8DNskoTMVAwAA7lAqfYkk0d3TbVrVKv2TBX_CgslV.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66217"
+      },
+      {
+        "id": "66218",
+        "source": "kunstkamera",
+        "title": "Ашенбреннер. Регинат-бике, сестра шамхала Тарковского, вдова Ибрагим-хана Мехтулинского в г. Темир-Хан-Шуре. Кумыки. Дагестан, Буйнакский р-он, селение Буйнакск (Темир-Хан-Шура), вторая половина XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/TBnebx2wAN2161tYIm35AZUXB5E6zCJ2uDwD9U_fBawkITDjhh_cgYwxTlUqDXqe.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66218"
+      },
+      {
+        "id": "66894",
+        "source": "kunstkamera",
+        "title": "Вид селения сверху. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KfVtuXRR5SOgIxO2cDiEwNq4_uoCtIHV5H4OqxBMeikc.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66894"
+      },
+      {
+        "id": "66900",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF2N8xTF8B8UXyfjH_-bnIdSSOwj2-7yAkGDss49vbFv5.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66900"
+      },
+      {
+        "id": "66902",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPFxG9zsPd3xS8Rnni1Ap2UjwR1aNO-AhEVFfn4NAnBnbe.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66902"
+      },
+      {
+        "id": "66904",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPFxWY4pisIWiNoFqkfYgPmWOlnwWwKGRHnBlc2BrINWIz.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66904"
+      },
+      {
+        "id": "66905",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF3SweyoIgnYqJyglNCc4PFbxYm13QNnjhCKKep3-EdD6.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66905"
+      },
+      {
+        "id": "66906",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF9VzOlfuEea_2ZZgvzVfdcycPQEjHR9Dqw_9kIsLCOzk.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66906"
+      },
+      {
+        "id": "66907",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF5Jjax1RU64uiLNgeS8ED1RO7q-BbGkapZpp36yZMTVw.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66907"
+      },
+      {
+        "id": "66908",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPFwc1nN_OPGBDdaocwGTvrpDZlKEIwWJyHrHUrN8qa-Z6.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66908"
+      },
+      {
+        "id": "66909",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF3nAFVh2-VASuQ3EmalyeQgu5vzaHbFbQDK1mGjeFCvy.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66909"
+      },
+      {
+        "id": "66910",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF9zHK0rlghv9zL0sT7TgIqibls6n2Rqk6k7jClEFNYin.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66910"
+      },
+      {
+        "id": "66911",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF-pedR1iJ0BWfM1ukJJxeCHaZyM1tKTro6CUNnVU2VRF.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66911"
+      },
+      {
+        "id": "66912",
+        "source": "kunstkamera",
+        "title": "Вид селения. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF3_1iUujOXDLHWq2FrpvrYpkTG4DkqQaYGty1Ginqxn7.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66912"
+      },
+      {
+        "id": "193599",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Две девочки, одну из них зовут Опал. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/qB0t_5-5PciWFKl_ShQQ5-konQRueKnq46S7NhKiZoK4SY2jPiV_m_bEaYAzMwa_.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193599"
+      },
+      {
+        "id": "193598",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Жители аула у источника. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/qB0t_5-5PciWFKl_ShQQ53WXDTDkXZMs7iMzmVbqAiHW0xpKiTYBBtJXTtzlb6VK.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193598"
+      },
+      {
+        "id": "193603",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Месят глину. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/qB0t_5-5PciWFKl_ShQQ50C1G9I10etfHnGJU8-0OttQTQ9Tp2vW9uufeTpzwMnz.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193603"
+      },
+      {
+        "id": "193602",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Молотьба. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/qB0t_5-5PciWFKl_ShQQ56BMD2L7GGu-wspNuNoEK5m5g8VY6sKOY0VVbgpLCAkr.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193602"
+      },
+      {
+        "id": "193594",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Общий вид аула Тарки. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/qB0t_5-5PciWFKl_ShQQ5x62ZHRP8ugDMZoKMwWzdeYQSjlnvHttAg7skul_8B1I.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193594"
+      },
+      {
+        "id": "193596",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Общий вид аула Тарки. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/qB0t_5-5PciWFKl_ShQQ52NDLSj4ndnSi3nfq6AFV-Huc8F_GiYfG_SKjvi1UiCc.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193596"
+      },
+      {
+        "id": "193601",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Семья за едой. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KTGfezxog3K1WvFDaDQ56MQOMz1FICaR7bVfF5DNr2bY.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193601"
+      },
+      {
+        "id": "193600",
+        "source": "kunstkamera",
+        "title": "Зиберт Э.В. Угол двора. Кумыки. Дагестан, город Махачкала, селение Тарки. 1927",
+        "image": "https://collection.kunstkamera.ru/api/spf/qB0t_5-5PciWFKl_ShQQ553vs935FoCYiaKGypCyezkzjP7-fvCht6k-tK823SKp.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/193600"
+      },
+      {
+        "id": "66919",
+        "source": "kunstkamera",
+        "title": "Изображение всадника, змеи, коня, полустертой арабской надписи и даты 610, соответствующей 1213/14 гг. (чертеж с фотографии). Кумыки. Дагестан, Рутульский р-он, селение Лучек (окрестности). 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KW6SDSOw5Mz4QvCfsNGpgnTgth5ORDJjJcE51Y0Pb9f_.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66919"
+      },
+      {
+        "id": "66901",
+        "source": "kunstkamera",
+        "title": "Кладбище. Кумыки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPFxFHcT9Qvck-PB3btbHiya4QqQELbCHOkrFJa1x5qg0W.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66901"
+      },
+      {
+        "id": "66167",
+        "source": "kunstkamera",
+        "title": "Кумычка. Кумыки. Дагестан, Буйнакский р-он, селение Малые Казанище, вторая половина XIX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/TBnebx2wAN2161tYIm35AeyABAF5m8pcpQToyDc1_TPcP1PWZADt54tMjpZ-_7Zi.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66167"
+      },
+      {
+        "id": "67639",
+        "source": "kunstkamera",
+        "title": "Лавров Л.И. (?). Надгробные памятники ХХ века на кладбище. Кумыки. Дагестан, Буйнакский р-он, селение Буйнакск. 1953",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KV0l0rpx3Y3FTtdVwoE2ELGfT2UIUBeAYGydhC5wFUnl.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/67639"
+      },
+      {
+        "id": "66890",
+        "source": "kunstkamera",
+        "title": "Место первоначального захоронения имама Кази-Магомы. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9Ke0BuWzh_JE7a2oBzFdsy4mDE9hd2M-KvPy5lu4ohSmH.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66890"
+      },
+      {
+        "id": "66918",
+        "source": "kunstkamera",
+        "title": "Наскальное изображение корабля (чертеж с фотографии). Кумыки. Дагестан, Рутульский р-он, селение Лучек (окрестности). 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KQvQBF-9L3XByxFrm_Yhvvwz77wEL56KAuTHYunGdJrq.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66918"
+      },
+      {
+        "id": "66462",
+        "source": "kunstkamera",
+        "title": "Ордэн Ф. Вид аула Кафыр-Кумык. Кумыки. Дагестан (Дагестанская обл.). 1890-е (?)",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF3otkFYZjk_Jw1YuM8gByh-sSqF67PWFMYcOat1z2gY0.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66462"
+      },
+      {
+        "id": "66897",
+        "source": "kunstkamera",
+        "title": "Пещера под крепостью Бурная. Кумыки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KUKxHR0ukl36R7aZAPv9XqLZcvsjgptY7g6SS15D6Nrj.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66897"
+      },
+      {
+        "id": "66891",
+        "source": "kunstkamera",
+        "title": "Плато над селением. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KUdwMYb9iqpD6_edW5kqbf6QhjUTc2MDXHAOjjrOaWih.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66891"
+      },
+      {
+        "id": "66892",
+        "source": "kunstkamera",
+        "title": "Развалины русской крепости \"Бурная\" (начало XIX в.). Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KXu10tyEBUdqPbZ2H48Uo49XkqN2wJIpEbSNpHSQYb3K.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66892"
+      },
+      {
+        "id": "113197",
+        "source": "kunstkamera",
+        "title": "Рыбные промыслы: чаны для засола рыбы вместимостью 750000 и 500000 пудов, солят сома и сазана. Кумыки. Дагестан, Хасавюртовский р-он, с. Бакил. 14.07.1928",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KYQFqVI3_c3sj04mLFL1Et5W0Cb-zMk3ONqgp8smZmtT.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/113197"
+      },
+      {
+        "id": "66903",
+        "source": "kunstkamera",
+        "title": "Спуск от крепости \"Бурная\" Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPFzSZeP1e3FWqryAMz1mns-tydsnUmK-oY5NVs-JXouZ5.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66903"
+      },
+      {
+        "id": "66898",
+        "source": "kunstkamera",
+        "title": "Старинная могила на кладбище. Кумыки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPFyDy6Fl974bRzHjCn_D7038XrDEi4bVQgRD-gi5CWPlq.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66898"
+      },
+      {
+        "id": "66899",
+        "source": "kunstkamera",
+        "title": "Старинная могила на кладбище. Кумыки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF_EjWOeuaogiNKaiynnmzDGB1cGkZNY1BsARQtL485xD.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66899"
+      },
+      {
+        "id": "66913",
+        "source": "kunstkamera",
+        "title": "Старинная могила. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF8eoEG90R1pki1S3bBNyD59s7lqDT7m0EMhUpP_FS8fP.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66913"
+      },
+      {
+        "id": "66914",
+        "source": "kunstkamera",
+        "title": "Старинная могила. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/o9ZIpOMZhGGdZFXF5LJPF0B_pU1ikVhif8vX_rPrWIzEhfJVRKGtKIi3FJqJoxnr.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66914"
+      },
+      {
+        "id": "113156",
+        "source": "kunstkamera",
+        "title": "Типы кумыкских девушек. Кумыки. Дагестан, Хасавюртовский р-он. 1928",
+        "image": "https://collection.kunstkamera.ru/api/spf/OfMRoqKrurw_8ta7ZmiB64gvGbt2GDXR_u0d07r0ujgdqsOeGrghGTIYQVwkF0M1.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/113156"
+      },
+      {
+        "id": "66895",
+        "source": "kunstkamera",
+        "title": "Тропа из крепости в пещеру. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KblZHqjsPOHhyX1ISNvdMwdgW8dR9dFbeVz9jFNR89v0.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66895"
+      },
+      {
+        "id": "66896",
+        "source": "kunstkamera",
+        "title": "Тропа из крепости в пещеру. Кумыки. Дагестан, город Махачкала, селение Тарки. 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KWrBEE2tknh4xBTZg_TmTL2zJuXVbqTPTGVlzUBVGkly.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66896"
+      },
+      {
+        "id": "113154",
+        "source": "kunstkamera",
+        "title": "Хаджар Аджиева. Кумыки. Дагестан, Хасавюртовский р-он (Аксай, Тупь-Катан). 12.07.1928",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KTLMsagTXHIBLEX2e7ynFaveS1PpRwsPlc3P2fYZhoXe.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/113154"
+      },
+      {
+        "id": "487827",
+        "source": "kunstkamera",
+        "title": "Хаджар Аджиева. Кумыки. Дагестан, Хасавюртовский р-он. 12.07.1928",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KSHLXZGlYQ3dIe-bXsROIST-RcS2_nEdhwT8Y55KRaA8.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/487827"
+      },
+      {
+        "id": "66916",
+        "source": "kunstkamera",
+        "title": "Эстампаж - изображения лошадей. Кумыки. Дагестан, Рутульский р-он, селение Лучек (окрестности). 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KZBS8VKx43CILuxHrSXnumm6zT8WEKpfaDCykMGBslDz.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66916"
+      },
+      {
+        "id": "66917",
+        "source": "kunstkamera",
+        "title": "Эстампаж изображения человеческого лица. Кумыки. Дагестан, Рутульский р-он, селение Лучек (окрестности). 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KfRNyzCC9ROuD2sWuawgQomFcjIcgk9X_KUbrNsiT9D5.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66917"
+      },
+      {
+        "id": "66915",
+        "source": "kunstkamera",
+        "title": "Эстампаж наскального изображения мужчины. Кумыки. Дагестан, Рутульский р-он, селение Лучек (окрестности). 1952",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KXe4YtwwoHAjd3qOeZZr-TuyoFE2O6qMRjBpebbEBNtv.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66915"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "283483",
+      "source": "rem",
+      "title": "Кусок глины. Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvMO9yxaW9I7nKTl048f4DTo1I-K8sINLxu3OFTPLohMi.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283483"
+    },
+    {
+      "id": "283534",
+      "source": "rem",
+      "title": "Подойник. Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvDdbNuIYX5pWBt4NLQQ7zArdLOmsQGow63E81CTUGJJo.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283534"
+    },
+    {
+      "id": "283591",
+      "source": "rem",
+      "title": "Инструмент для изготовления кожи. Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvCn-W9j2SlXhkmZLGdJAGvzfYWKXTnjtPW0CTK_3KAUR.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283591"
+    },
+    {
+      "id": "283602",
+      "source": "rem",
+      "title": "Подставка и гончарный круг. Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvE399UvkV9FSn6hjP6-WEgJGkILNwl5pO_ehbg8a2DK4.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283602"
+    },
+    {
+      "id": "283610",
+      "source": "rem",
+      "title": "Глиняная болванка. Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvCb-b7rZpO7DNeIiEUajL8XgBF0FwYPx35zFGQGzkX7Y.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283610"
+    },
+    {
+      "id": "732733",
+      "source": "rem",
+      "title": "Ноговица. Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/MqKcFN3Je6l_ReZ9BsOeEuefvU04CEXs_eOsrWfNgHeD6yGGyGlIBo1hm0B5pbaT.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/732733"
+    },
+    {
+      "id": "283603",
+      "source": "rem",
+      "title": "Серп. Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/X5LdagnMqPcfudoDojoqQ9dK3WI0tHJgppRYC21mVvxd9D86PmRJtVTKP-3tn__w.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/283603"
+    },
+    {
+      "id": "745337",
+      "source": "rem",
+      "title": "Образцы шерстяных ниток (намотаны на основу). Кумыки",
+      "image": "https://collection.ethnomuseum.ru/api/spf/5VaTcQfrs_2hx3jrR0eVQ7ab7uM1w9zy6fYUl4y0uCPqN1tYZB2KUkJQvccPr28h.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/745337"
+    }
+  ]
 }

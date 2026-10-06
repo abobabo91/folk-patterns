@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__cameroon__makaa",
   "people_key": "Q1324834",
-  "count": 1,
+  "count": 10,
   "buckets": {
     "jewelry": [
       {
@@ -11,7 +11,77 @@
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/6_13/ac1729ba_e5bc_4b46_a032_a71200dbe87b/preview_EAF56577.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1979-01-2363"
       }
+    ],
+    "instruments": [
+      {
+        "id": "obj-793961",
+        "source": "smb",
+        "title": "Zylindertrommel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/823/007/7823363.jpg",
+        "object_url": "https://id.smb.museum/object/793961"
+      }
+    ],
+    "arms": [
+      {
+        "id": "prm-object-77887",
+        "source": "prm",
+        "title": "Iron spear-head, with shaft and socket, used as money. [El.B 12/04/2011]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS236220_1932.0059.25.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-77887"
+      },
+      {
+        "id": "prm-object-238637",
+        "source": "prm",
+        "title": "Iron spear-head, with shaft and socket, used as money. [El.B 12/04/2011]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS236357_1932.0059.26.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-238637"
+      },
+      {
+        "id": "71.1930.29.474",
+        "source": "quaibranly",
+        "title": "Couteau de jet",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/206/206486.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1930.29.474"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PV0060218",
+        "source": "quaibranly",
+        "title": "Instruments primitifs en pierre et métal",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.45_01/PV0060218_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0060218"
+      },
+      {
+        "id": "PV0060219",
+        "source": "quaibranly",
+        "title": "Instruments de pierre avec un coin en bois pour fendre le bois",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0004.45_01/PV0060219_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PV0060219"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "obj-2034956",
+      "source": "smb",
+      "title": "Blasinstrument",
+      "image": "https://search.smb.museum/media/images/thumbs/large/011/005/5011873.jpg",
+      "object_url": "https://id.smb.museum/object/2034956"
+    },
+    {
+      "id": "prm-object-77885",
+      "source": "prm",
+      "title": "Broad spatulate iron blade with tang  [ZM  5/5/2005]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS236680_1932.0059.23.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-77885"
+    },
+    {
+      "id": "prm-object-77886",
+      "source": "prm",
+      "title": "Broad spatulate iron blade with tang  [ZM  5/5/2005]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS236534_1932.0059.24.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-77886"
+    }
+  ]
 }

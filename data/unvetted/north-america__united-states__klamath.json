@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "north-america__united-states__klamath",
   "people_key": "Q498844",
-  "count": 37,
+  "count": 50,
   "buckets": {
     "household": [
       {
@@ -17,6 +17,13 @@
         "title": "basket",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_17/da797157_145d_475f_af89_a3d9011da602/preview_01178274_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1900-119"
+      },
+      {
+        "id": "/91619/SMVK_EM_objekt_1618712",
+        "source": "europeana",
+        "title": "Cart, Harvesters, Basketball",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2199621%2Fbild-1924.02.0178.jpg&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1618712"
       },
       {
         "id": "/91608/SMVK_VKM_objekt_14850",
@@ -234,6 +241,89 @@
         "title": "korg, basket",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155193%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14883"
+      },
+      {
+        "id": "obj-1384506",
+        "source": "smb",
+        "title": "Körbchen",
+        "image": "https://search.smb.museum/media/images/thumbs/large/480/003/3480034.jpg",
+        "object_url": "https://id.smb.museum/object/1384506"
+      },
+      {
+        "id": "prm-object-25109",
+        "source": "prm",
+        "title": "Fire fan.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS239882_1905.0068.4.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25109"
+      },
+      {
+        "id": "prm-object-25111",
+        "source": "prm",
+        "title": "Woman's flexible basketry hat in twined work, decorated with zigzags of dark brown and yellow.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS575174_1948.0012.61.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25111"
+      }
+    ],
+    "photo": [
+      {
+        "id": "prm-object-587530",
+        "source": "prm",
+        "title": "Portrait of Susseli Nizhoni Pete, seated wearing quillwork and hat.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS519580_2021.0005.39.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-587530"
+      },
+      {
+        "id": "PP0124978",
+        "source": "quaibranly",
+        "title": "Pagne de femme en cuir, fibres végétales",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.08_05/PP0124978_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0124978"
+      },
+      {
+        "id": "PF0195172",
+        "source": "quaibranly",
+        "title": "Calotte en vannerie",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0005.53_03/PF0195172_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0195172"
+      },
+      {
+        "id": "PF0066742",
+        "source": "quaibranly",
+        "title": "Sans titre [pagne de femme]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0005.53_01/PF0066742_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0066742"
+      },
+      {
+        "id": "PF0195937",
+        "source": "quaibranly",
+        "title": "Calotte",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0005.59/PF0195937_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0195937"
+      }
+    ],
+    "garment": [
+      {
+        "id": "71.1885.78.328",
+        "source": "quaibranly",
+        "title": "Calotte",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/103/103465.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1885.78.328"
+      },
+      {
+        "id": "71.1885.78.160",
+        "source": "quaibranly",
+        "title": "Pagne de femme",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/103/103296.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1885.78.160"
+      }
+    ],
+    "arms": [
+      {
+        "id": "71.1885.78.430",
+        "source": "quaibranly",
+        "title": "Flèche",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/102/102655.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1885.78.430"
       }
     ]
   },
@@ -253,18 +343,25 @@
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1275937"
     },
     {
-      "id": "/91619/SMVK_EM_objekt_1618712",
-      "source": "europeana",
-      "title": "Cart, Harvesters, Basketball",
-      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2199621%2Fbild-1924.02.0178.jpg&type=IMAGE&size=w400",
-      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1618712"
-    },
-    {
       "id": "/91608/SMVK_VKM_objekt_14896",
       "source": "europeana",
       "title": "skallra, Skallra av korgverk.",
       "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155198%2Fzoom&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14896"
+    },
+    {
+      "id": "obj-1384507",
+      "source": "smb",
+      "title": "Büchse",
+      "image": "https://search.smb.museum/media/images/thumbs/large/480/003/3480035.jpg",
+      "object_url": "https://id.smb.museum/object/1384507"
+    },
+    {
+      "id": "prm-object-25110",
+      "source": "prm",
+      "title": "Flexible basked in twined work, decoration of alternate bands of dark and light coloured weft (straw or plant stems).  [MOBB [OPS move] 1/11/2016]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS369386_1948.0012.60.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-25110"
     }
   ]
 }

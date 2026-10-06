@@ -1,8 +1,55 @@
 {
   "ethnicity_key": "sub-saharan-africa__malawi__lomwe",
   "people_key": "Q1868817",
-  "count": 2,
-  "buckets": {},
+  "count": 13,
+  "buckets": {
+    "household": [
+      {
+        "id": "123543",
+        "source": "peabody",
+        "title": "Bamboo and bark fibre string mouse trap",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/130391/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/123543"
+      },
+      {
+        "id": "123545",
+        "source": "peabody",
+        "title": "Bamboo and bark fibre string mouse trap",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/129871/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/123545"
+      },
+      {
+        "id": "118348",
+        "source": "peabody",
+        "title": "Basket with handle",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/101026/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/118348"
+      },
+      {
+        "id": "118349",
+        "source": "peabody",
+        "title": "Basket with handle broken off",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/103830/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/118349"
+      },
+      {
+        "id": "118350",
+        "source": "peabody",
+        "title": "Large basket - handle missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/139672/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/118350"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "obj-212614",
+        "source": "smb",
+        "title": "Ahnenfigur",
+        "image": "https://search.smb.museum/media/images/thumbs/large/675/002/2675355.jpg",
+        "object_url": "https://id.smb.museum/object/212614"
+      }
+    ]
+  },
   "other": [
     {
       "id": "E_Af-7113",
@@ -17,6 +64,41 @@
       "title": "handle",
       "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/0eacaadc_3416_40a3_8f0b_a3df0170355d/preview_01556348_001.jpg",
       "object_url": "https://www.britishmuseum.org/collection/object/E_Af-7234-b"
+    },
+    {
+      "id": "123544",
+      "source": "peabody",
+      "title": "6 mousetraps, bamboo and fiber string; Kitimbi",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/168014/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/123544"
+    },
+    {
+      "id": "123546",
+      "source": "peabody",
+      "title": "Hyrax snare - cord and wood; Msampa",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/114218/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/123546"
+    },
+    {
+      "id": "123664",
+      "source": "peabody",
+      "title": "Boy's wooden knobkerrie; Ntonga",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/107482/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/123664"
+    },
+    {
+      "id": "123665",
+      "source": "peabody",
+      "title": "Boy's wooden knobkerrie; Ntonga",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/106455/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/123665"
+    },
+    {
+      "id": "123666",
+      "source": "peabody",
+      "title": "Boy's wooden knobkerrie; Ntonga",
+      "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/110709/preview",
+      "object_url": "https://collections.peabody.harvard.edu/objects/details/123666"
     }
   ]
 }

@@ -1,7 +1,24 @@
 {
   "ethnicity_key": "east-asia__china__hoklo",
   "people_key": "Q703914",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "household": [
+      {
+        "id": "obj-212156",
+        "source": "smb",
+        "title": "Tabakpfeifenkopf",
+        "image": "https://search.smb.museum/media/images/thumbs/large/914/007/7914451.jpg",
+        "object_url": "https://id.smb.museum/object/212156"
+      },
+      {
+        "id": "obj-831496",
+        "source": "smb",
+        "title": "Tabakpfeife",
+        "image": "https://search.smb.museum/media/images/thumbs/large/914/007/7914467.jpg",
+        "object_url": "https://id.smb.museum/object/831496"
+      }
+    ]
+  },
   "other": []
 }

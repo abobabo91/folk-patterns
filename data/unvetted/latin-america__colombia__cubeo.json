@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__colombia__cubeo",
   "people_key": "Q2258624",
-  "count": 128,
+  "count": 134,
   "buckets": {
     "masks-ritual": [
       {
@@ -252,6 +252,20 @@
         "title": "Cinturón",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE7561_P.JPG%26Ninv%3DCE7561&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_8951_inventary_CE7561_table_FMUS_museum_MNA"
+      },
+      {
+        "id": "70.2013.18.1",
+        "source": "quaibranly",
+        "title": "Costume-masque",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/432640y.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2013.18.1"
+      },
+      {
+        "id": "71.1947.63.4",
+        "source": "quaibranly",
+        "title": "Costume-masque",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/140/140474.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1947.63.4"
       }
     ],
     "arms": [
@@ -508,6 +522,13 @@
         "title": "Soporte",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE7595_P.JPG%26Ninv%3DCE7595&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_8825_inventary_CE7595_table_FMUS_museum_MNA"
+      },
+      {
+        "id": "obj-1508224",
+        "source": "smb",
+        "title": "Kamm",
+        "image": "https://search.smb.museum/media/images/thumbs/large/810/005/5810680.jpg",
+        "object_url": "https://id.smb.museum/object/1508224"
       }
     ],
     "textile": [
@@ -855,6 +876,13 @@
         "title": "Colgante",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE7602_SEQ_001_P.JPG%26Ninv%3DCE7602&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_8936_inventary_CE7602_table_FMUS_museum_MNA"
+      },
+      {
+        "id": "obj-155288",
+        "source": "smb",
+        "title": "Halskette für Männer",
+        "image": "https://search.smb.museum/media/images/thumbs/large/607/005/5607956.jpg",
+        "object_url": "https://id.smb.museum/object/155288"
       }
     ],
     "sculpture": [
@@ -902,9 +930,25 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE7779_SEQ_001_P.JPG%26Ninv%3DCE7779&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_27704_inventary_CE7779_table_FMUS_museum_MNA"
       }
+    ],
+    "photo": [
+      {
+        "id": "PP0121291",
+        "source": "quaibranly",
+        "title": "Costume-masque de danse",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_16/PP0121291_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0121291"
+      }
     ]
   },
   "other": [
+    {
+      "id": "/2022703/pages_Main_idt_15042_inventary_14924_table_FMUS_museum_MAM",
+      "source": "europeana",
+      "title": "Batea",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF14924_P.JPG%26Ninv%3D14924&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_15042_inventary_14924_table_FMUS_museum_MAM"
+    },
     {
       "id": "/2022703/pages_Main_idt_21710_inventary_CE7430_table_FMUS_museum_MNA",
       "source": "europeana",

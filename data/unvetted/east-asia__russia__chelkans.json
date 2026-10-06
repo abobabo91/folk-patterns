@@ -1,7 +1,33 @@
 {
   "ethnicity_key": "east-asia__russia__chelkans",
   "people_key": "Q2632800",
-  "count": 0,
-  "buckets": {},
+  "count": 3,
+  "buckets": {
+    "photo": [
+      {
+        "id": "256420",
+        "source": "rem",
+        "title": "Негатив: Группа людей с музыкальными инструментами. Алтайцы: северная группа: челканцы",
+        "image": "https://collection.ethnomuseum.ru/api/spf/X5cslnukauEfhLkrELADvGFbUlqFJa5cR-QjBwzXooKwpDAT3Bk56h8s0V3dhba7.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/256420"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "267155",
+        "source": "kunstkamera",
+        "title": "Гуркин (Чорос-Гуркин) Г.И. Портрет мужчины. Челканцы. Россия, Алтай республика. 1930",
+        "image": "https://collection.kunstkamera.ru/api/spf/ghiZaMLMGuvQm4b3CT1BK4lo3JCT6hSxlsuKsOYClBqKT_NrBWqVVFxsac00cJqT.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/267155"
+      },
+      {
+        "id": "267175",
+        "source": "kunstkamera",
+        "title": "Гуркин (Чорос-Гуркин) Г.И. Трубка курительная деревянная. Челканцы. Россия, Алтай республика. 1930",
+        "image": "https://collection.kunstkamera.ru/api/spf/ghiZaMLMGuvQm4b3CT1BK0bD3hHGN_pMIGCxyQM6vdbjjvQa5WxBmHU3l9jAdVYf.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/267175"
+      }
+    ]
+  },
   "other": []
 }

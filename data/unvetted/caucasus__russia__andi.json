@@ -1,7 +1,41 @@
 {
   "ethnicity_key": "caucasus__russia__andi",
   "people_key": "Q2420428",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 4,
+  "buckets": {
+    "instruments": [
+      {
+        "id": "738387",
+        "source": "rem",
+        "title": "«Чагана» - инструмент музыкальный: струнный: черенковый: пиколютня: смычковый. Андийцы",
+        "image": "https://collection.ethnomuseum.ru/api/spf/KNVypYybyPw6o-htpBFQmSldlIz3LzfyFnnkJUfyAIC-5kASnTSrulPYZhEXU32w.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/738387"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "67264",
+        "source": "kunstkamera",
+        "title": "Тильке М. Женщина из с. Анди. Дагестан. Андийцы. Россия, город Москва. 1936",
+        "image": "https://collection.kunstkamera.ru/api/spf/03wFJLSTN_t_hYMrFxruX8yTUK6rL5qQSEsdOY-KHYs-SCUkeh6X-OazAbS8tEYO.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/67264"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "738388",
+      "source": "rem",
+      "title": "Смычок. Андийцы",
+      "image": "https://collection.ethnomuseum.ru/api/spf/KNVypYybyPw6o-htpBFQmfJXTXE9pc7VdswwKka5vtcwH_J2l_nEs9YTg-XcCiHg.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/738388"
+    },
+    {
+      "id": "236447",
+      "source": "rem",
+      "title": "Бурка. Андийцы",
+      "image": "https://collection.ethnomuseum.ru/api/spf/b4AT4rF8uCwuMu__VayHd7QTsFNZpINssJtVRoACBVE3uSIeWbaHfreNb0mBCF7a.jpg",
+      "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/236447"
+    }
+  ]
 }

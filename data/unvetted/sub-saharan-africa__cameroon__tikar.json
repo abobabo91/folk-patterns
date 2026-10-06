@@ -1,7 +1,365 @@
 {
   "ethnicity_key": "sub-saharan-africa__cameroon__tikar",
   "people_key": "Q241843",
-  "count": 0,
-  "buckets": {},
+  "count": 49,
+  "buckets": {
+    "garment": [
+      {
+        "id": "E_Af1989-08-2",
+        "source": "bm",
+        "title": "gown",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_11/ffa3ab99_6667_499e_ac6d_a3bc00b93253/preview_00409046_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1989-08-2"
+      },
+      {
+        "id": "E_Af1989-08-3",
+        "source": "bm",
+        "title": "cap",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_21/43ccae3c_785c_4f69_9767_a3e101684a52/preview_00135072_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1989-08-3"
+      }
+    ],
+    "household": [
+      {
+        "id": "E_Af1948-40-2",
+        "source": "bm",
+        "title": "chair",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2025_11/3_8/76612e47_83ab_4f8c_ace3_b38a0090811f/preview_EAF18994.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1948-40-2"
+      },
+      {
+        "id": "obj-737675",
+        "source": "smb",
+        "title": "Tabakpfeifenkopf",
+        "image": "https://search.smb.museum/media/images/thumbs/large/105/002/2105017.jpg",
+        "object_url": "https://id.smb.museum/object/737675"
+      },
+      {
+        "id": "obj-1288534",
+        "source": "smb",
+        "title": "Tabakpfeifenkopf",
+        "image": "https://search.smb.museum/media/images/thumbs/large/104/002/2104986.jpg",
+        "object_url": "https://id.smb.museum/object/1288534"
+      },
+      {
+        "id": "obj-1288532",
+        "source": "smb",
+        "title": "Tabakpfeifenkopf",
+        "image": "https://search.smb.museum/media/images/thumbs/large/104/002/2104982.jpg",
+        "object_url": "https://id.smb.museum/object/1288532"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "obj-1652436",
+        "source": "smb",
+        "title": "Rassel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/020/005/5020641.jpg",
+        "object_url": "https://id.smb.museum/object/1652436"
+      },
+      {
+        "id": "obj-221638",
+        "source": "smb",
+        "title": "Glocke",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513721.jpg",
+        "object_url": "https://id.smb.museum/object/221638"
+      },
+      {
+        "id": "obj-221639",
+        "source": "smb",
+        "title": "Messingglocke",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513717.jpg",
+        "object_url": "https://id.smb.museum/object/221639"
+      },
+      {
+        "id": "obj-255844",
+        "source": "smb",
+        "title": "Klöppelglocke",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513718.jpg",
+        "object_url": "https://id.smb.museum/object/255844"
+      },
+      {
+        "id": "obj-815609",
+        "source": "smb",
+        "title": "tsom*",
+        "image": "https://search.smb.museum/media/images/thumbs/large/827/004/4827162.jpg",
+        "object_url": "https://id.smb.museum/object/815609"
+      },
+      {
+        "id": "obj-815016",
+        "source": "smb",
+        "title": "Reibtrommel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/723/007/7723387.jpg",
+        "object_url": "https://id.smb.museum/object/815016"
+      },
+      {
+        "id": "obj-223278",
+        "source": "smb",
+        "title": "Zylindertrommel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/827/004/4827160.jpg",
+        "object_url": "https://id.smb.museum/object/223278"
+      },
+      {
+        "id": "obj-978950",
+        "source": "smb",
+        "title": "Glocke",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513722.jpg",
+        "object_url": "https://id.smb.museum/object/978950"
+      },
+      {
+        "id": "obj-979091",
+        "source": "smb",
+        "title": "Klöppelglocke",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513723.jpg",
+        "object_url": "https://id.smb.museum/object/979091"
+      },
+      {
+        "id": "obj-979340",
+        "source": "smb",
+        "title": "Klöppelglocke",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513724.jpg",
+        "object_url": "https://id.smb.museum/object/979340"
+      },
+      {
+        "id": "obj-1621698",
+        "source": "smb",
+        "title": "mbi",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513725.jpg",
+        "object_url": "https://id.smb.museum/object/1621698"
+      },
+      {
+        "id": "obj-1654102",
+        "source": "smb",
+        "title": "Messingglocke",
+        "image": "https://search.smb.museum/media/images/thumbs/large/594/003/3594531.jpg",
+        "object_url": "https://id.smb.museum/object/1654102"
+      },
+      {
+        "id": "obj-1660087",
+        "source": "smb",
+        "title": "Lamellophon",
+        "image": "https://search.smb.museum/media/images/thumbs/large/514/003/3514162.jpg",
+        "object_url": "https://id.smb.museum/object/1660087"
+      },
+      {
+        "id": "obj-1659237",
+        "source": "smb",
+        "title": "Rassel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513555.jpg",
+        "object_url": "https://id.smb.museum/object/1659237"
+      },
+      {
+        "id": "71.1934.171.660",
+        "source": "quaibranly",
+        "title": "Lamellophone",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/268/268145.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1934.171.660"
+      },
+      {
+        "id": "71.1934.171.661",
+        "source": "quaibranly",
+        "title": "Lamellophone",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/268/268248.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1934.171.661"
+      },
+      {
+        "id": "71.1934.171.662",
+        "source": "quaibranly",
+        "title": "Lamellophone",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/268/268249.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1934.171.662"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "309790",
+        "source": "met",
+        "title": "Helmet crest from a Ngumba/Kwifon masquerade",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-39204-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/309790"
+      },
+      {
+        "id": "obj-1352734",
+        "source": "smb",
+        "title": "menschliches Gesicht",
+        "image": "https://search.smb.museum/media/images/thumbs/large/976/004/4976435.jpg",
+        "object_url": "https://id.smb.museum/object/1352734"
+      },
+      {
+        "id": "obj-1352744",
+        "source": "smb",
+        "title": "menschlicher Kopf",
+        "image": "https://search.smb.museum/media/images/thumbs/large/462/002/2462840.jpg",
+        "object_url": "https://id.smb.museum/object/1352744"
+      },
+      {
+        "id": "73.1970.6.1",
+        "source": "quaibranly",
+        "title": "Masque anthropomorphe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/200000/291981y-2.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=73.1970.6.1"
+      },
+      {
+        "id": "prm-object-20970",
+        "source": "prm",
+        "title": "Helmet mask [ZM 23/04/2013]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS282547_1987.0023.3.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-20970"
+      }
+    ],
+    "photo": [
+      {
+        "id": "obj-1787759",
+        "source": "smb",
+        "title": "Borassus-Palme im Dorf Ngambe",
+        "image": "https://search.smb.museum/media/images/thumbs/large/996/003/3996630.jpg",
+        "object_url": "https://id.smb.museum/object/1787759"
+      },
+      {
+        "id": "obj-1756946",
+        "source": "smb",
+        "title": "Berittener Großmann",
+        "image": "https://search.smb.museum/media/images/thumbs/large/902/003/3902086.jpg",
+        "object_url": "https://id.smb.museum/object/1756946"
+      },
+      {
+        "id": "obj-1787870",
+        "source": "smb",
+        "title": "Kegeldachhütten mit Graszäunen",
+        "image": "https://search.smb.museum/media/images/thumbs/large/998/003/3998376.jpg",
+        "object_url": "https://id.smb.museum/object/1787870"
+      },
+      {
+        "id": "obj-1787873",
+        "source": "smb",
+        "title": "Gehöft eines Häuptlings\" (OT)",
+        "image": "https://search.smb.museum/media/images/thumbs/large/998/003/3998379.jpg",
+        "object_url": "https://id.smb.museum/object/1787873"
+      },
+      {
+        "id": "PP0137460",
+        "source": "quaibranly",
+        "title": "Masque tikar masculin Mangam. Tikar",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0006.01_04/PP0137460_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0137460"
+      },
+      {
+        "id": "PF0094015",
+        "source": "quaibranly",
+        "title": "Masque tikar féminin Mih-yang collecté par Thorbecke",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0005.67/PF0094015_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0094015"
+      },
+      {
+        "id": "PF0094016",
+        "source": "quaibranly",
+        "title": "Masque tikar féminin Mih-yang collecté par Thorbecke",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=/vm-iconopat/ICONOTHEQUE/MQB-P-0005.67/PF0094016_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0094016"
+      },
+      {
+        "id": "PP0137450",
+        "source": "quaibranly",
+        "title": "Masque tikar féminin Mih-yang collecté par Thorbecke. Bumbo",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0006.01_04/PP0137450_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0137450"
+      },
+      {
+        "id": "PP0137462",
+        "source": "quaibranly",
+        "title": "Africa-Cameroon - Tikar Bamum funerary headdress",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0006.01_04/PP0137462_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0137462"
+      },
+      {
+        "id": "PP0137463",
+        "source": "quaibranly",
+        "title": "Africa Cameroon Tikar Bamum [masque cimier funéraire]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0006.01_04/PP0137463_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0137463"
+      },
+      {
+        "id": "PP0115836",
+        "source": "quaibranly",
+        "title": "\"Sanza\" sur caisse à 15 lamelles végétales",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_07/PP0115836_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0115836"
+      },
+      {
+        "id": "PP0116033",
+        "source": "quaibranly",
+        "title": "\"Sanza\", sur caisse en bois à 27 lamelles",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_07/PP0116033_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0116033"
+      },
+      {
+        "id": "PP0116045",
+        "source": "quaibranly",
+        "title": "\"Sanza\" sur deux poutrelles en bois spongieux",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_07/PP0116045_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0116045"
+      },
+      {
+        "id": "PF0065342",
+        "source": "quaibranly",
+        "title": "Sanza",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_01/PF0065342_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0065342"
+      },
+      {
+        "id": "PF0065343",
+        "source": "quaibranly",
+        "title": "Sanza",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_01/PF0065343_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0065343"
+      },
+      {
+        "id": "PF0065344",
+        "source": "quaibranly",
+        "title": "Sanza",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_01/PF0065344_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0065344"
+      },
+      {
+        "id": "PF0068873",
+        "source": "quaibranly",
+        "title": "Sanza",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_01/PF0068873_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0068873"
+      },
+      {
+        "id": "PP0137653",
+        "source": "quaibranly",
+        "title": "Statuette",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0006.01_04/PP0137653_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0137653"
+      }
+    ],
+    "arms": [
+      {
+        "id": "obj-221821",
+        "source": "smb",
+        "title": "Schwert mit Schwertscheide",
+        "image": "https://search.smb.museum/media/images/thumbs/large/019/005/5019183.jpg",
+        "object_url": "https://id.smb.museum/object/221821"
+      },
+      {
+        "id": "71.1934.171.667",
+        "source": "quaibranly",
+        "title": "Bouclier",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/220/220166.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1934.171.667"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "obj-1659238",
+        "source": "smb",
+        "title": "Gefäßrassel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513556.jpg",
+        "object_url": "https://id.smb.museum/object/1659238"
+      }
+    ]
+  },
   "other": []
 }

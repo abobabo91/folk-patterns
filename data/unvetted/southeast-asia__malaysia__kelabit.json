@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "southeast-asia__malaysia__kelabit",
   "people_key": "Q475951",
-  "count": 83,
+  "count": 92,
   "buckets": {
     "household": [
       {
@@ -61,11 +61,25 @@
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-58"
       },
       {
+        "id": "A_As1988-22-59",
+        "source": "bm",
+        "title": "basket; model",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/a7bbec33_95d3_4c3b_a464_a3bb00674e73/preview_00308108_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-59"
+      },
+      {
         "id": "A_As1988-22-75-a",
         "source": "bm",
         "title": "carrying-basket",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_5/f534fde0_3c65_455a_86e5_a3c100611da5/preview_00606286_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-75-a"
+      },
+      {
+        "id": "A_As1988-22-57",
+        "source": "bm",
+        "title": "carrying-basket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_15/7d2626bd_cab9_4deb_8773_a3bc010711e7/preview_00429755_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-57"
       },
       {
         "id": "A_As1988-22-94",
@@ -425,6 +439,13 @@
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-54"
       },
       {
+        "id": "A_As1988-22-56",
+        "source": "bm",
+        "title": "carrying-basket",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/b31becb6_8c02_49f0_be7c_a3bb00674a51/preview_00308106_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-56"
+      },
+      {
         "id": "A_As1988-22-20",
         "source": "bm",
         "title": "tongs; cooking-implement",
@@ -549,6 +570,40 @@
         "title": "fish-trap",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_17/d57834d1_6ec0_4b0f_8c1a_a3dd0127ef4f/preview_01391557_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-112"
+      },
+      {
+        "id": "prm-object-142908",
+        "source": "prm",
+        "title": "Basket of green-ish cane,desig in double and triple twill technique. Body of the vessel is roughly cylindrical with a square or rectangular base and lid. The lid is connected to the body by a red and white string threaded through both. [RM [OPS move] 1/11/2016]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS368863_1956.0012.103B.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-142908"
+      }
+    ],
+    "textile": [
+      {
+        "id": "prm-object-142909",
+        "source": "prm",
+        "title": "Leopard skin sitting mat",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS327062_1956.0012.104B.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-142909"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "prm-object-161538",
+        "source": "prm",
+        "title": "Ear pendant made from spirally twisted metal wire. [SM  25/03/2008]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS224778_1923.0086.185.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-161538"
+      }
+    ],
+    "arms": [
+      {
+        "id": "prm-object-91399",
+        "source": "prm",
+        "title": "Spear with flat triangular sectioned blade bound with cane to the wooden shaft. There is an iron point at the butt. [AB [OPS move] 22/8/2018]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS328211_1934.0025.2.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-91399"
       }
     ]
   },
@@ -587,6 +642,20 @@
       "title": "poison sample",
       "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_4/f9159833_d4d7_4ff7_982c_a3c1004fe193/preview_00601251_001.jpg",
       "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-11"
+    },
+    {
+      "id": "prm-object-97295",
+      "source": "prm",
+      "title": "Bamboo tube, with incised patterns, and carved wooden stopper. [BR 'DCF 2004-2006 What's Upstairs?' 13/12/2004]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS296077_1940.0012.476.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-97295"
+    },
+    {
+      "id": "prm-object-35970",
+      "source": "prm",
+      "title": "Woman’s headband, plaited in very fine strips of rattan, half of which are dyed black. [SM  25/03/2008]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS222159_1997.0011.19.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-35970"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__mexico__seri",
   "people_key": "Q1263088",
-  "count": 9,
+  "count": 10,
   "buckets": {
     "sculpture": [
       {
@@ -19,20 +19,18 @@
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1978-15-800"
       },
       {
-        "id": "E_Am1978-15-801",
-        "source": "bm",
-        "title": "figurine",
-        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_20/5b2acc78_e1c6_43f0_a316_a3b50159fb21/preview_00167652_001.jpg",
-        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1978-15-801"
-      }
-    ],
-    "household": [
-      {
         "id": "E_Am1978-15-726-b",
         "source": "bm",
         "title": "figurine; toy",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_19/fe851b3a_692b_436c_a89a_a3b501422047/preview_00159874_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Am1978-15-726-b"
+      },
+      {
+        "id": "E_Am1978-15-801",
+        "source": "bm",
+        "title": "figurine",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_20/5b2acc78_e1c6_43f0_a316_a3b50159fb21/preview_00167652_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Am1978-15-801"
       },
       {
         "id": "E_Am1978-15-726-a",
@@ -79,5 +77,13 @@
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "/91619/SMVK_EM_objekt_1938171",
+      "source": "europeana",
+      "title": "brev",
+      "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F4105548%2F1901.09.0015.jpg&type=IMAGE&size=w400",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1938171"
+    }
+  ]
 }

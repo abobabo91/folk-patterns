@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "south-asia__india__marathi",
   "people_key": "Q1265028",
-  "count": 5,
+  "count": 11,
   "buckets": {
     "painting-mss": [
       {
@@ -40,8 +40,51 @@
         "title": "porträtt, fotografi, photograph",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F4005930%2F0321.m.0031.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_4005927"
+      },
+      {
+        "id": "102616",
+        "source": "kunstkamera",
+        "title": "Девушка в национальных маратхских украшениях. Маратхи. Индия, третья четверть XX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/Yi06sdV4Us4xx0UD77VJZRv8GLrTh78-mi0j98xdo-iSFoeUx6DAX39AT5fGGJjE.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/102616"
+      },
+      {
+        "id": "102846",
+        "source": "kunstkamera",
+        "title": "Подъем в крепость Райгад - столицу Шиваджи. Маратхи. Индия, штат Махараштра, третья четверть XX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/Yi06sdV4Us4xx0UD77VJZciz3QrBCZ_Q04axrTWc3wkNyLEdzYmwri-Y55C183k0.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/102846"
+      },
+      {
+        "id": "99862",
+        "source": "kunstkamera",
+        "title": "Портик резной из г. Насик (№1789). Маратхи. Россия, город Ленинград. 1950-е гг.",
+        "image": "https://collection.kunstkamera.ru/api/spf/Yi06sdV4Us4xx0UD77VJZeldkQ3GC0PMgqoP0aWzq1-rk4i4IygYD53cSWAwII5l.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/99862"
+      },
+      {
+        "id": "102593",
+        "source": "kunstkamera",
+        "title": "Танец рыбаков. Индийцы, маратхи, гуджаратцы. Индия, третья четверть XX в.",
+        "image": "https://collection.kunstkamera.ru/api/spf/Yi06sdV4Us4xx0UD77VJZbjQB2lakcgZYiATuT9q0nwd4MRk0bC_5wK4iOoXSvTV.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/102593"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "317286",
+      "source": "kunstkamera",
+      "title": "Кастет. Маратхи. Индия, штат Махараштра. Середина XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KZQ0fUU-xo70tjrp1Bwca6dn2BHuuIE7rxH5tGyovYKi.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/317286"
+    },
+    {
+      "id": "1493",
+      "source": "kunstkamera",
+      "title": "Резной портик террасы дворца пешвы – верховного правителя города Махараштры. Маратхи. Индия, штат Махараштра, не позже второй половины XVIII в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/G6HUA_gHBIhgm2PGC5ppi_1vBTwEgtgCHQL3fQ7Kcr_rPf7PwLSx06NfcJ9w4Cj9.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/1493"
+    }
+  ]
 }

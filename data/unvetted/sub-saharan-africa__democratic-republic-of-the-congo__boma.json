@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__democratic-republic-of-the-congo__boma",
   "people_key": "Q2909576",
-  "count": 21,
+  "count": 23,
   "buckets": {
     "photo": [
       {
@@ -151,7 +151,24 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1469178%2F0803.028.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_1462211"
       }
+    ],
+    "sculpture": [
+      {
+        "id": "prm-object-74468",
+        "source": "prm",
+        "title": "Carved wooden figure of a woman, seated on a stool and clutching her breasts with both hands. [JC [OPS Move] 12/6/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS324879_1926.0008.8.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-74468"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-74466",
+      "source": "prm",
+      "title": "Carving of human head and neck. Hair and facial features painted with black paint.",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS265524_1926.0008.6.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-74466"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__kenya__digo",
   "people_key": "Q692836",
-  "count": 7,
+  "count": 16,
   "buckets": {
     "household": [
       {
@@ -38,6 +38,13 @@
         "title": "potter&#039;s tool/implement",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/fa0b28db_dcd7_4714_9a79_a3e601484a0d/preview_01607344_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1935-0611-2"
+      },
+      {
+        "id": "prm-object-254437",
+        "source": "prm",
+        "title": "Film showing a group of girls playing various games, possibly filmed during fieldwork among the Digo people of southern Kenya.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS497438_2014.0039.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-254437"
       }
     ],
     "garment": [
@@ -57,7 +64,66 @@
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/f9b17945_31c8_4fc4_8a22_a3e60144e48a/preview_01606609_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af-2237-a-b"
       }
+    ],
+    "instruments": [
+      {
+        "id": "obj-258027",
+        "source": "smb",
+        "title": "Kudu",
+        "image": "https://search.smb.museum/media/images/thumbs/large/466/003/3466705.jpg",
+        "object_url": "https://id.smb.museum/object/258027"
+      },
+      {
+        "id": "obj-258028",
+        "source": "smb",
+        "title": "Schnurreibtrommel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/796/003/3796191.jpg",
+        "object_url": "https://id.smb.museum/object/258028"
+      },
+      {
+        "id": "prm-object-273046",
+        "source": "prm",
+        "title": "One of a pair of rattles worn on ankle when dancing.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS487120_1910.0028.41.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-273046"
+      },
+      {
+        "id": "prm-object-38914",
+        "source": "prm",
+        "title": "One of a pair of rattles worn on ankle when dancing.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS487121_1910.0028.41.2.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-38914"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "obj-258026",
+      "source": "smb",
+      "title": "Querhorn",
+      "image": "https://search.smb.museum/media/images/thumbs/large/466/003/3466587.jpg",
+      "object_url": "https://id.smb.museum/object/258026"
+    },
+    {
+      "id": "obj-258030",
+      "source": "smb",
+      "title": "Stimm-Klangfilter (\"zum Hineinsingen\")",
+      "image": "https://search.smb.museum/media/images/thumbs/large/466/003/3466754.jpg",
+      "object_url": "https://id.smb.museum/object/258030"
+    },
+    {
+      "id": "obj-1648122",
+      "source": "smb",
+      "title": "Stimm-Klangfilter (\"zum Hineinsingen\")",
+      "image": "https://search.smb.museum/media/images/thumbs/large/466/003/3466742.jpg",
+      "object_url": "https://id.smb.museum/object/1648122"
+    },
+    {
+      "id": "obj-4064975",
+      "source": "smb",
+      "title": "Stimm-Klangfilter (\"zum Hineinsingen\")",
+      "image": "https://search.smb.museum/media/images/thumbs/large/466/003/3466742.jpg",
+      "object_url": "https://id.smb.museum/object/4064975"
+    }
+  ]
 }

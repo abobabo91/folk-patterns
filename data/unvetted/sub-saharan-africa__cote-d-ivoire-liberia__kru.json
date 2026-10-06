@@ -1,8 +1,838 @@
 {
   "ethnicity_key": "sub-saharan-africa__cote-d-ivoire-liberia__kru",
   "people_key": "Q1537493",
-  "count": 7,
+  "count": 375,
   "buckets": {
+    "instruments": [
+      {
+        "id": "obj-824548",
+        "source": "smb",
+        "title": "Quertrompete",
+        "image": "https://search.smb.museum/media/images/thumbs/large/914/007/7914276.jpg",
+        "object_url": "https://id.smb.museum/object/824548"
+      },
+      {
+        "id": "obj-824925",
+        "source": "smb",
+        "title": "bagida",
+        "image": "https://search.smb.museum/media/images/thumbs/large/906/007/7906372.jpg",
+        "object_url": "https://id.smb.museum/object/824925"
+      },
+      {
+        "id": "prm-object-41840",
+        "source": "prm",
+        "title": "Side-blown trumpet",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS485453_1899.0014.2.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-41840"
+      },
+      {
+        "id": "prm-object-40225",
+        "source": "prm",
+        "title": "Triangular harp with gourd resonator. 7 strings.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS220289_1913.0048.83.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-40225"
+      },
+      {
+        "id": "prm-object-40224",
+        "source": "prm",
+        "title": "Triangular harp with six strings and gourd resonator. [MJD 25/09/2008]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS303604_1908.0009.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-40224"
+      }
+    ],
+    "photo": [
+      {
+        "id": "obj-617125",
+        "source": "smb",
+        "title": "Zwei Kru-boys in europäischer Kleidung\" (OT)",
+        "image": "https://search.smb.museum/media/images/thumbs/large/828/828621.jpg",
+        "object_url": "https://id.smb.museum/object/617125"
+      },
+      {
+        "id": "PP0151422",
+        "source": "quaibranly",
+        "title": "Kru women and children",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0002.11_06/PP0151422_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0151422"
+      },
+      {
+        "id": "70.2014.20.2",
+        "source": "quaibranly",
+        "title": "Kroumanns du Cap Coast",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/HOUZE%20de%20L%27AULNOIT/MQB.2014.HOUZE/PP0213368_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2014.20.2"
+      },
+      {
+        "id": "PP0213158",
+        "source": "quaibranly",
+        "title": "Enfant",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0003.26_04/PP0213158_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0213158"
+      },
+      {
+        "id": "70.2017.65.87",
+        "source": "quaibranly",
+        "title": "Les chefs de guerre de Péhiri, Lia et Gnina",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0003.32_01/PP0241185_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.87"
+      },
+      {
+        "id": "70.2017.65.1.39",
+        "source": "quaibranly",
+        "title": "Bougry, Ooué, Touali, Krooboys de Drewin",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000589_25.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.1.39"
+      },
+      {
+        "id": "70.2017.65.1.40",
+        "source": "quaibranly",
+        "title": "Bougry, Ooué, Touali, Krooboys de Drewin",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000589_25.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.1.40"
+      },
+      {
+        "id": "70.2017.65.1.48",
+        "source": "quaibranly",
+        "title": "Krooboys de la maison Verdier à Lahou",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000589_31.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.1.48"
+      },
+      {
+        "id": "70.2017.65.1.81",
+        "source": "quaibranly",
+        "title": "Krooboys de Drewin",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000589_48.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.1.81"
+      },
+      {
+        "id": "70.2017.65.2.211",
+        "source": "quaibranly",
+        "title": "Krowmen",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000590_79.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.2.211"
+      },
+      {
+        "id": "70.2017.65.6.25",
+        "source": "quaibranly",
+        "title": "Guerriers bakoués",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000594_013.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.6.25"
+      },
+      {
+        "id": "70.2017.65.6.41",
+        "source": "quaibranly",
+        "title": "Guidéko, danse de guerre des gens de Lia",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000594_021.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.6.41"
+      },
+      {
+        "id": "70.2008.16.2.24",
+        "source": "quaibranly",
+        "title": "Type de Krooman",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.03_01/PA000231_025_024.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2008.16.2.24"
+      },
+      {
+        "id": "70.2008.16.1.86",
+        "source": "quaibranly",
+        "title": "Type de Kruwman, Finess",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.03_01/PA000230_037_086.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2008.16.1.86"
+      },
+      {
+        "id": "70.2008.16.1.87",
+        "source": "quaibranly",
+        "title": "Type de Kruwman, Finess",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0009.03_01/PA000230_037_087.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2008.16.1.87"
+      },
+      {
+        "id": "PP0009129.1",
+        "source": "quaibranly",
+        "title": "Type Krou",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0001.03_16/PP0009129_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0009129.1"
+      },
+      {
+        "id": "PP0009129.2",
+        "source": "quaibranly",
+        "title": "Type Krou",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0001.03_16/PP0009129_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0009129.2"
+      },
+      {
+        "id": "PP0071312",
+        "source": "quaibranly",
+        "title": "Indigène Krou de la côte du Libéria",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071312_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071312"
+      },
+      {
+        "id": "PP0071430",
+        "source": "quaibranly",
+        "title": "Fétiche \"krou\"",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071430_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071430"
+      },
+      {
+        "id": "PP0097781",
+        "source": "quaibranly",
+        "title": "Enfant Krou [de profil présentant une hernie sur le ventre]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=consultation-sur-place-vert-blanc.png&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0097781"
+      },
+      {
+        "id": "PF0021151",
+        "source": "quaibranly",
+        "title": "Peintures murales Krou",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0005.03_01/PF0021151_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0021151"
+      },
+      {
+        "id": "PP0137968",
+        "source": "quaibranly",
+        "title": "Masque. Krou",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0006.01_04/PP0137968_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0137968"
+      },
+      {
+        "id": "PP0179946",
+        "source": "quaibranly",
+        "title": "Retour des pêcheurs krou. Mission IFAN Dekeyser-Holas au Libéria en 1948",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0003.12_03/PP0179946_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0179946"
+      },
+      {
+        "id": "PP0179443",
+        "source": "quaibranly",
+        "title": "Un chasseur des Krou de la Forêt (High-Bush-Krumen) de la région de Barclayville",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0003.12_02/PP0179443_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0179443"
+      },
+      {
+        "id": "PP0071302",
+        "source": "quaibranly",
+        "title": "Chaise à bras articulés",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071302_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071302"
+      },
+      {
+        "id": "PP0071303",
+        "source": "quaibranly",
+        "title": "Chaise à bras articulés",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071303_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071303"
+      },
+      {
+        "id": "PP0071427",
+        "source": "quaibranly",
+        "title": "Case de féticheurs",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071427_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071427"
+      },
+      {
+        "id": "PP0071431",
+        "source": "quaibranly",
+        "title": "L'anneau vivant",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071431_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071431"
+      },
+      {
+        "id": "PP0071432",
+        "source": "quaibranly",
+        "title": "Fétiches",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071432_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071432"
+      },
+      {
+        "id": "PP0071433",
+        "source": "quaibranly",
+        "title": "Sans titre [têtes fétiches krous]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.03_15/PP0071433_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0071433"
+      },
+      {
+        "id": "PP0114389",
+        "source": "quaibranly",
+        "title": "Masque Sassandra en bois",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_04/PP0114389_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0114389"
+      },
+      {
+        "id": "PP0114393",
+        "source": "quaibranly",
+        "title": "Masque en bois peint orné de plumes, coton",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_04/PP0114393_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0114393"
+      },
+      {
+        "id": "PF0040098",
+        "source": "quaibranly",
+        "title": "Sans titre [fétiches]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0005.05_08/PF0040098_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0040098"
+      },
+      {
+        "id": "PF0040160",
+        "source": "quaibranly",
+        "title": "Sans titre [têtes fétiches]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0005.05_08/PF0040160_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0040160"
+      },
+      {
+        "id": "PF0065516",
+        "source": "quaibranly",
+        "title": "Masque en bois peint",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_02/PF0065516_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0065516"
+      },
+      {
+        "id": "PF0065521",
+        "source": "quaibranly",
+        "title": "Masque en bois peint",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_02/PF0065521_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0065521"
+      },
+      {
+        "id": "PF0071142",
+        "source": "quaibranly",
+        "title": "Masque en bois pour la danse Sassandra",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_03/PF0071142_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0071142"
+      },
+      {
+        "id": "PF0105994",
+        "source": "quaibranly",
+        "title": "Masque en bois peint",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_02/PF0105994_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0105994"
+      },
+      {
+        "id": "PF0106060",
+        "source": "quaibranly",
+        "title": "Masque en bois pour la danse Sassandra",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_03/PF0106060_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0106060"
+      },
+      {
+        "id": "PP0179441",
+        "source": "quaibranly",
+        "title": "Un chasseur de potamochères armé de lance et de couteaux d'abatis",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0003.12_02/PP0179441_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0179441"
+      },
+      {
+        "id": "PF0180714",
+        "source": "quaibranly",
+        "title": "Masque",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.38_04/PF0180714_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0180714"
+      },
+      {
+        "id": "PP0211764",
+        "source": "quaibranly",
+        "title": "Vannage du riz",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0003.26_01/PP0211764_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0211764"
+      },
+      {
+        "id": "PP0211824",
+        "source": "quaibranly",
+        "title": "Préparation du copra",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0003.26_01/PP0211824_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0211824"
+      },
+      {
+        "id": "PF0121556",
+        "source": "quaibranly",
+        "title": "Sans titre [masque anthropomorphe de danse]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_03/PF0121556_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0121556"
+      },
+      {
+        "id": "PF0121557",
+        "source": "quaibranly",
+        "title": "Sans titre [masque anthropomorphe de danse]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_03/PF0121557_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0121557"
+      },
+      {
+        "id": "PF0121564",
+        "source": "quaibranly",
+        "title": "Sans titre [masque anthropomorphe de danse]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_03/PF0121564_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0121564"
+      },
+      {
+        "id": "PF0121572",
+        "source": "quaibranly",
+        "title": "Sans titre [masque anthropomorphe de danse]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0005.49_03/PF0121572_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PF0121572"
+      },
+      {
+        "id": "70.2017.65.2.31",
+        "source": "quaibranly",
+        "title": "Bakoué",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/THOMANN/Campagne%202018-Claude%20Germain/PA000590_16.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=70.2017.65.2.31"
+      },
+      {
+        "id": "prm-object-287774",
+        "source": "prm",
+        "title": "Boat crewmen wearing waist-cloths and hats.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS49534_1998.0066.28.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-287774"
+      },
+      {
+        "id": "prm-object-587541",
+        "source": "prm",
+        "title": "Young men in dugout canoes beside a ship.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS520916_1998.0558.10.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-587541"
+      },
+      {
+        "id": "prm-object-287796",
+        "source": "prm",
+        "title": "Group of men, most shirtless and wearing hats, in front of a European type structure.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS49566_1998.0066.50.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-287796"
+      },
+      {
+        "id": "prm-object-587545",
+        "source": "prm",
+        "title": "Men in dugout canoes near the coast.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS520920_1998.0558.14.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-587545"
+      },
+      {
+        "id": "prm-object-587544",
+        "source": "prm",
+        "title": "Men in dugout canoes near the coast.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS520919_1998.0558.13.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-587544"
+      },
+      {
+        "id": "579303",
+        "source": "peabody",
+        "title": "Mano, Head of Sande",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/294427/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/579303"
+      },
+      {
+        "id": "579304",
+        "source": "peabody",
+        "title": "1 days quota of new patients, Ganta",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/293291/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/579304"
+      },
+      {
+        "id": "579305",
+        "source": "peabody",
+        "title": "Woman accused of withcraft awaiting trial",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/293292/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/579305"
+      },
+      {
+        "id": "579306",
+        "source": "peabody",
+        "title": "Chief W#n (in helmet to right of center) opening market",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/277534/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/579306"
+      },
+      {
+        "id": "522887",
+        "source": "peabody",
+        "title": "[George Latimer?] Bates and rubber tree",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/239304/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/522887"
+      },
+      {
+        "id": "523296",
+        "source": "peabody",
+        "title": "No. 8 man - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271193/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523296"
+      },
+      {
+        "id": "523327",
+        "source": "peabody",
+        "title": "Backyards of Monrovia",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/241034/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523327"
+      },
+      {
+        "id": "523328",
+        "source": "peabody",
+        "title": "Old house of Monrovia",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271196/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523328"
+      },
+      {
+        "id": "523329",
+        "source": "peabody",
+        "title": "Old house and new - Monrovia",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/241035/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523329"
+      },
+      {
+        "id": "523330",
+        "source": "peabody",
+        "title": "Old house and new - Monrovia",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271197/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523330"
+      },
+      {
+        "id": "523331",
+        "source": "peabody",
+        "title": "Old house - Monrovia",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/228614/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523331"
+      },
+      {
+        "id": "523332",
+        "source": "peabody",
+        "title": "St. Mark's P.E. Church (the Church of Liberia)",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238144/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523332"
+      },
+      {
+        "id": "523348",
+        "source": "peabody",
+        "title": "Group of Kru and children in Mano country",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/231364/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523348"
+      },
+      {
+        "id": "519953",
+        "source": "peabody",
+        "title": "This hole is the property of the American Colonization Society",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238146/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/519953"
+      },
+      {
+        "id": "519954",
+        "source": "peabody",
+        "title": "View of the President's Mansion, looking up Broad St.",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238492/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/519954"
+      },
+      {
+        "id": "519955",
+        "source": "peabody",
+        "title": "Front and Curley streets - grass growing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/237795/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/519955"
+      },
+      {
+        "id": "519956",
+        "source": "peabody",
+        "title": "Colored American Baptist hospital",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/236616/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/519956"
+      },
+      {
+        "id": "519957",
+        "source": "peabody",
+        "title": "Island where first colonists landed",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/236617/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/519957"
+      },
+      {
+        "id": "523350",
+        "source": "peabody",
+        "title": "Monarovian street",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/237796/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523350"
+      },
+      {
+        "id": "523351",
+        "source": "peabody",
+        "title": "No. 1 man - front view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238493/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523351"
+      },
+      {
+        "id": "523352",
+        "source": "peabody",
+        "title": "No. 1 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238147/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523352"
+      },
+      {
+        "id": "523353",
+        "source": "peabody",
+        "title": "No. 2 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238494/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523353"
+      },
+      {
+        "id": "523354",
+        "source": "peabody",
+        "title": "No. 2 man - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/231365/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523354"
+      },
+      {
+        "id": "523355",
+        "source": "peabody",
+        "title": "No. 3 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271201/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523355"
+      },
+      {
+        "id": "523356",
+        "source": "peabody",
+        "title": "No. 3 man - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/241038/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523356"
+      },
+      {
+        "id": "523357",
+        "source": "peabody",
+        "title": "No. 4 man - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271202/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523357"
+      },
+      {
+        "id": "523358",
+        "source": "peabody",
+        "title": "No. 4 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/241039/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523358"
+      },
+      {
+        "id": "523359",
+        "source": "peabody",
+        "title": "No. 5 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238148/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523359"
+      },
+      {
+        "id": "523374",
+        "source": "peabody",
+        "title": "Tuabo clan, man dressed for war dance - rear view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271203/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523374"
+      },
+      {
+        "id": "523375",
+        "source": "peabody",
+        "title": "Tuabo clan, man dressed for war dance, frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/241040/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523375"
+      },
+      {
+        "id": "523376",
+        "source": "peabody",
+        "title": "Tuabo clan, government school house",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271204/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523376"
+      },
+      {
+        "id": "523377",
+        "source": "peabody",
+        "title": "Tuabo clan, Government school - teachers and pupils",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/241041/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523377"
+      },
+      {
+        "id": "523379",
+        "source": "peabody",
+        "title": "Tuabo clan, children helping father",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238150/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523379"
+      },
+      {
+        "id": "523380",
+        "source": "peabody",
+        "title": "Tuabo clan, man's grave",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238496/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523380"
+      },
+      {
+        "id": "523381",
+        "source": "peabody",
+        "title": "Tuabo clan, sacrificing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/231368/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523381"
+      },
+      {
+        "id": "523382",
+        "source": "peabody",
+        "title": "Tuabo clan, women hulling rice",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/236621/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523382"
+      },
+      {
+        "id": "523383",
+        "source": "peabody",
+        "title": "Tuabo clan, medicine man's outfit",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/236622/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523383"
+      },
+      {
+        "id": "523384",
+        "source": "peabody",
+        "title": "Tuabo clan, medicine man's outfit",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/237799/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523384"
+      },
+      {
+        "id": "523385",
+        "source": "peabody",
+        "title": "Tuabo clan, town drums",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/237800/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523385"
+      },
+      {
+        "id": "523386",
+        "source": "peabody",
+        "title": "Tuabo clan, town sacrificial and medicinal place",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238151/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523386"
+      },
+      {
+        "id": "523387",
+        "source": "peabody",
+        "title": "No. 1 woman - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238497/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523387"
+      },
+      {
+        "id": "523388",
+        "source": "peabody",
+        "title": "No. 5 woman - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/231369/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523388"
+      },
+      {
+        "id": "523389",
+        "source": "peabody",
+        "title": "No. 5 woman - lateral view, sapa, sabo clan",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238498/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523389"
+      },
+      {
+        "id": "523398",
+        "source": "peabody",
+        "title": "No. 1 man - front view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/228623/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523398"
+      },
+      {
+        "id": "545520",
+        "source": "peabody",
+        "title": "Number 5 Man -- frontal view, sapa, sabo clan",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/236623/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/545520"
+      },
+      {
+        "id": "523399",
+        "source": "peabody",
+        "title": "No. 5 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/236624/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523399"
+      },
+      {
+        "id": "523400",
+        "source": "peabody",
+        "title": "No. 15 man - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/237802/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523400"
+      },
+      {
+        "id": "523401",
+        "source": "peabody",
+        "title": "No. 15 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/228624/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523401"
+      },
+      {
+        "id": "523402",
+        "source": "peabody",
+        "title": "No. 20 man - frontal view, Sapa, Sabo clan",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238153/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523402"
+      },
+      {
+        "id": "523403",
+        "source": "peabody",
+        "title": "No. 20 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/228625/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523403"
+      },
+      {
+        "id": "523404",
+        "source": "peabody",
+        "title": "No. 25 man - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/231371/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523404"
+      },
+      {
+        "id": "523405",
+        "source": "peabody",
+        "title": "No. 25 man - lateral view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/241045/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523405"
+      },
+      {
+        "id": "523406",
+        "source": "peabody",
+        "title": "No. 5 man - frontal view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/271207/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523406"
+      },
+      {
+        "id": "523535",
+        "source": "peabody",
+        "title": "Mission house",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/245553/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523535"
+      },
+      {
+        "id": "523544",
+        "source": "peabody",
+        "title": "Hearth",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/245555/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523544"
+      },
+      {
+        "id": "523629",
+        "source": "peabody",
+        "title": "View of French boundary bridge, partially submerged in river",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/246606/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523629"
+      },
+      {
+        "id": "523703",
+        "source": "peabody",
+        "title": "Men counting cola at Saniquelle",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/246617/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/523703"
+      },
+      {
+        "id": "525600",
+        "source": "peabody",
+        "title": "Wooden mask",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238797/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/525600"
+      },
+      {
+        "id": "525627",
+        "source": "peabody",
+        "title": "Wooden chair, front view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/238802/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/525627"
+      },
+      {
+        "id": "553552",
+        "source": "peabody",
+        "title": "Wooden chair, side view",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/240013/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/553552"
+      }
+    ],
     "household": [
       {
         "id": "E_Af1958-04-4",
@@ -10,6 +840,1759 @@
         "title": "canoe",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_15/4df9535d_9913_4a15_a3c5_a3c500fb7a67/preview_00950629_001.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1958-04-4"
+      },
+      {
+        "id": "prm-object-147531",
+        "source": "prm",
+        "title": "Paddle with small broad blade, with central tongue and side points (trident like), lagoon paddle.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS320197_1884.0055.52.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-147531"
+      },
+      {
+        "id": "120276",
+        "source": "peabody",
+        "title": "Fish trap",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/116638/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/120276"
+      }
+    ],
+    "garment": [
+      {
+        "id": "71.1891.22.156",
+        "source": "quaibranly",
+        "title": "Bonnet",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/195/195400.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1891.22.156"
+      }
+    ],
+    "arms": [
+      {
+        "id": "71.1891.22.163",
+        "source": "quaibranly",
+        "title": "Couteau",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/195/195407.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1891.22.163"
+      },
+      {
+        "id": "71.1891.22.164",
+        "source": "quaibranly",
+        "title": "Couteau",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/195/195408.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1891.22.164"
+      },
+      {
+        "id": "443040",
+        "source": "peabody",
+        "title": "Iron war knife",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/108730/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/443040"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "71.1900.44.103",
+        "source": "quaibranly",
+        "title": "Masque anthropomorphe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/100000/199012y-2.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1900.44.103"
+      },
+      {
+        "id": "73.1967.1.7 D",
+        "source": "quaibranly",
+        "title": "Masque",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/200000/293261y-2.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=73.1967.1.7%20D"
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "obj-212441",
+        "source": "smb",
+        "title": "Figur",
+        "image": "https://search.smb.museum/media/images/thumbs/large/583/583748.jpg",
+        "object_url": "https://id.smb.museum/object/212441"
+      },
+      {
+        "id": "obj-222192",
+        "source": "smb",
+        "title": "Modell eines Bootes",
+        "image": "https://search.smb.museum/media/images/thumbs/large/398/005/5398224.jpg",
+        "object_url": "https://id.smb.museum/object/222192"
+      },
+      {
+        "id": "obj-2299779",
+        "source": "smb",
+        "title": "Modell eines Kanus",
+        "image": "https://search.smb.museum/media/images/thumbs/large/267/005/5267971.jpg",
+        "object_url": "https://id.smb.museum/object/2299779"
+      },
+      {
+        "id": "obj-2298876",
+        "source": "smb",
+        "title": "Modell eines Kanus",
+        "image": "https://search.smb.museum/media/images/thumbs/large/260/005/5260136.jpg",
+        "object_url": "https://id.smb.museum/object/2298876"
+      },
+      {
+        "id": "obj-2299007",
+        "source": "smb",
+        "title": "Modell eines Kanus",
+        "image": "https://search.smb.museum/media/images/thumbs/large/260/005/5260578.jpg",
+        "object_url": "https://id.smb.museum/object/2299007"
+      },
+      {
+        "id": "116543",
+        "source": "peabody",
+        "title": "Standing female figure",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/333427/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/116543"
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "122278",
+        "source": "peabody",
+        "title": "String of red beads",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/98079/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/122278"
+      },
+      {
+        "id": "122279",
+        "source": "peabody",
+        "title": "String of red beads",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/49426/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/122279"
+      },
+      {
+        "id": "652310",
+        "source": "peabody",
+        "title": "Metal ring, nitien, open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531509/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/652310"
+      },
+      {
+        "id": "653819",
+        "source": "peabody",
+        "title": "Metal ring, nitien; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531510/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653819"
+      },
+      {
+        "id": "653844",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531511/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653844"
+      },
+      {
+        "id": "653824",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531512/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653824"
+      },
+      {
+        "id": "653825",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531513/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653825"
+      },
+      {
+        "id": "653827",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531514/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653827"
+      },
+      {
+        "id": "653828",
+        "source": "peabody",
+        "title": "Metal ring, nitien; four knobs, clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531515/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653828"
+      },
+      {
+        "id": "653829",
+        "source": "peabody",
+        "title": "Metal ring, nitien; clay core; one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531516/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653829"
+      },
+      {
+        "id": "653830",
+        "source": "peabody",
+        "title": "Metal ring, nitien; four knobs, clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531517/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653830"
+      },
+      {
+        "id": "653835",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531518/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653835"
+      },
+      {
+        "id": "653836",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531519/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653836"
+      },
+      {
+        "id": "653858",
+        "source": "peabody",
+        "title": "Metal ring, nitien, open ring with three knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531520/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653858"
+      },
+      {
+        "id": "653859",
+        "source": "peabody",
+        "title": "Metal ring, nitien, open ring with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531521/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653859"
+      },
+      {
+        "id": "653860",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs and additional short protrusion; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531522/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653860"
+      },
+      {
+        "id": "653861",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531523/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653861"
+      },
+      {
+        "id": "653862",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531524/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653862"
+      },
+      {
+        "id": "653863",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531525/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653863"
+      },
+      {
+        "id": "653864",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs, one knob damaged or casting flaw; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531526/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653864"
+      },
+      {
+        "id": "653865",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531527/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653865"
+      },
+      {
+        "id": "653866",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531528/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653866"
+      },
+      {
+        "id": "653869",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531529/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653869"
+      },
+      {
+        "id": "653870",
+        "source": "peabody",
+        "title": "Small metal ring, nitien or finger ring resembling nitien, with 3 bumps",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531530/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653870"
+      },
+      {
+        "id": "653871",
+        "source": "peabody",
+        "title": "Small metal ring, nitien or bracelet resembling a nitien, with 4 bumps",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531531/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653871"
+      },
+      {
+        "id": "653872",
+        "source": "peabody",
+        "title": "Small metal ring, nitien or finger ring resembling a nitien, with 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531532/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653872"
+      },
+      {
+        "id": "653873",
+        "source": "peabody",
+        "title": "Small metal ring, nitien or finger ring resembling a nitien, with 3 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531533/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653873"
+      },
+      {
+        "id": "653874",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531534/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653874"
+      },
+      {
+        "id": "653875",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531535/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653875"
+      },
+      {
+        "id": "653876",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531536/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653876"
+      },
+      {
+        "id": "653877",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531537/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653877"
+      },
+      {
+        "id": "653878",
+        "source": "peabody",
+        "title": "Metal ring, nitien, twisted, with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531538/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653878"
+      },
+      {
+        "id": "653944",
+        "source": "peabody",
+        "title": "Metal ring, nitien, large, 4 knobs; area missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531539/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653944"
+      },
+      {
+        "id": "653945",
+        "source": "peabody",
+        "title": "Metal ring, nitien, 4 knobs; large and heavy, thick patina",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531540/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653945"
+      },
+      {
+        "id": "653946",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 3 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531541/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653946"
+      },
+      {
+        "id": "653953",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531542/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653953"
+      },
+      {
+        "id": "653954",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531543/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653954"
+      },
+      {
+        "id": "653955",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531544/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653955"
+      },
+      {
+        "id": "653956",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531545/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653956"
+      },
+      {
+        "id": "653957",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531546/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653957"
+      },
+      {
+        "id": "653958",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; one knob deficient, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531547/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653958"
+      },
+      {
+        "id": "653959",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531548/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653959"
+      },
+      {
+        "id": "653960",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531549/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653960"
+      },
+      {
+        "id": "653961",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531550/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653961"
+      },
+      {
+        "id": "653967",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531551/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653967"
+      },
+      {
+        "id": "653968",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; areas missing, casting flaw, unusual knobs and bosses",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531552/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653968"
+      },
+      {
+        "id": "653969",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; two knobs missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531553/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653969"
+      },
+      {
+        "id": "653970",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; parts of two knobs missing, crack, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531554/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653970"
+      },
+      {
+        "id": "653971",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; end of one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531555/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653971"
+      },
+      {
+        "id": "669085",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531556/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/669085"
+      },
+      {
+        "id": "653973",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; large, ends of two knobs missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531557/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653973"
+      },
+      {
+        "id": "653974",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; one knob missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531558/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653974"
+      },
+      {
+        "id": "653975",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; one half of a two-part ring",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531559/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653975"
+      },
+      {
+        "id": "653976",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 4 knobs, each with different design",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531560/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653976"
+      },
+      {
+        "id": "653977",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; ends of two knobs and area of ring missing, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531561/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653977"
+      },
+      {
+        "id": "653842",
+        "source": "peabody",
+        "title": "Metal ring, nitien, three knobs, surface cavity",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531562/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653842"
+      },
+      {
+        "id": "653972",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring, one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531563/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653972"
+      },
+      {
+        "id": "653978",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring, fine detail, unique pattern",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531564/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653978"
+      },
+      {
+        "id": "653979",
+        "source": "peabody",
+        "title": "Metal ring, metal, nitien, cast brass, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531565/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653979"
+      },
+      {
+        "id": "653980",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531566/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653980"
+      },
+      {
+        "id": "653981",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531567/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653981"
+      },
+      {
+        "id": "653982",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531568/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653982"
+      },
+      {
+        "id": "653984",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; ends of two knobs missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531569/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653984"
+      },
+      {
+        "id": "653985",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, one knob missing, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531570/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653985"
+      },
+      {
+        "id": "653986",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass, open ring with two knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531571/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653986"
+      },
+      {
+        "id": "653987",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531572/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653987"
+      },
+      {
+        "id": "653988",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass, open ring with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531573/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653988"
+      },
+      {
+        "id": "653989",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; part of ring and part of one knob deficient, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531574/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653989"
+      },
+      {
+        "id": "653990",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531575/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653990"
+      },
+      {
+        "id": "653991",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; two knobs deficient, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531576/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653991"
+      },
+      {
+        "id": "653992",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs; casting mold remnants on surface",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531577/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653992"
+      },
+      {
+        "id": "653993",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; most of one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531578/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653993"
+      },
+      {
+        "id": "653994",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531579/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653994"
+      },
+      {
+        "id": "653995",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; part of ring missing, casting flaw; patina",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531580/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653995"
+      },
+      {
+        "id": "653996",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, holes in ring, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531581/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653996"
+      },
+      {
+        "id": "653997",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531582/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653997"
+      },
+      {
+        "id": "653998",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass, open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531583/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653998"
+      },
+      {
+        "id": "653999",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531584/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653999"
+      },
+      {
+        "id": "654000",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; large, hinged, two parts, missing knob, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531585/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654000"
+      },
+      {
+        "id": "654001",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; hinged, two parts, patina",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531586/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654001"
+      },
+      {
+        "id": "654002",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass, open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531587/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654002"
+      },
+      {
+        "id": "654003",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring, one knob missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531588/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654003"
+      },
+      {
+        "id": "654004",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531589/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654004"
+      },
+      {
+        "id": "654005",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531590/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654005"
+      },
+      {
+        "id": "654006",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; two parts, hinged, knob missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531591/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654006"
+      },
+      {
+        "id": "654007",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring, one knob missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531592/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654007"
+      },
+      {
+        "id": "654008",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531593/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654008"
+      },
+      {
+        "id": "654009",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531594/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654009"
+      },
+      {
+        "id": "654010",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531595/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654010"
+      },
+      {
+        "id": "653837",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; only one side of nitien is present, with an iron ring in the cavity",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531596/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653837"
+      },
+      {
+        "id": "654011",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531597/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654011"
+      },
+      {
+        "id": "654012",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531598/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654012"
+      },
+      {
+        "id": "654013",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531429/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654013"
+      },
+      {
+        "id": "654014",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531430/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654014"
+      },
+      {
+        "id": "654015",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; large, part of one knob missing, crack, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531431/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654015"
+      },
+      {
+        "id": "653845",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531432/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653845"
+      },
+      {
+        "id": "654016",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531433/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654016"
+      },
+      {
+        "id": "654017",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, patina",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531434/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654017"
+      },
+      {
+        "id": "654018",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; two knobs deficient, casting flaws; unusual knobs, one with unique ring of small knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531435/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654018"
+      },
+      {
+        "id": "654019",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; large; four knobs with different designs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531436/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654019"
+      },
+      {
+        "id": "654020",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531437/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654020"
+      },
+      {
+        "id": "654021",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, another deficient, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531438/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654021"
+      },
+      {
+        "id": "653843",
+        "source": "peabody",
+        "title": "Metal ring, nitien, open ring with 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531439/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653843"
+      },
+      {
+        "id": "654022",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531440/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654022"
+      },
+      {
+        "id": "653855",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531441/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653855"
+      },
+      {
+        "id": "654023",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with two knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531442/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654023"
+      },
+      {
+        "id": "654024",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; large; four knobs; crack in ring, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531443/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654024"
+      },
+      {
+        "id": "654025",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531444/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654025"
+      },
+      {
+        "id": "654026",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; top of one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531445/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654026"
+      },
+      {
+        "id": "653838",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531446/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653838"
+      },
+      {
+        "id": "654028",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531447/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654028"
+      },
+      {
+        "id": "654029",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531448/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654029"
+      },
+      {
+        "id": "654030",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring, one knob missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531449/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654030"
+      },
+      {
+        "id": "654031",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531450/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654031"
+      },
+      {
+        "id": "654032",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531451/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654032"
+      },
+      {
+        "id": "654033",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531452/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654033"
+      },
+      {
+        "id": "654034",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, each different",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531453/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654034"
+      },
+      {
+        "id": "654035",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531454/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654035"
+      },
+      {
+        "id": "654036",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531455/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654036"
+      },
+      {
+        "id": "654037",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531456/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654037"
+      },
+      {
+        "id": "654038",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; top of two knobs missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531457/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654038"
+      },
+      {
+        "id": "654039",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; crack in one knob, casting flaw, unusual knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531458/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654039"
+      },
+      {
+        "id": "654040",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531459/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654040"
+      },
+      {
+        "id": "654041",
+        "source": "peabody",
+        "title": "Small metal ring, cast brass with three rounded knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531460/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654041"
+      },
+      {
+        "id": "654042",
+        "source": "peabody",
+        "title": "Small metal ring, cast brass; three pointed knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531461/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654042"
+      },
+      {
+        "id": "654043",
+        "source": "peabody",
+        "title": "Small metal ring, cast brass; three rounded knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531462/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654043"
+      },
+      {
+        "id": "654044",
+        "source": "peabody",
+        "title": "Small metal ring, cast brass with four knobs, resembling a nitien",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531463/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654044"
+      },
+      {
+        "id": "654045",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four round knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531464/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654045"
+      },
+      {
+        "id": "654046",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs, two bell-shaped",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531465/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654046"
+      },
+      {
+        "id": "654047",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531466/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654047"
+      },
+      {
+        "id": "654048",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531467/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654048"
+      },
+      {
+        "id": "654049",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, top of one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531468/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654049"
+      },
+      {
+        "id": "654053",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531469/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654053"
+      },
+      {
+        "id": "654054",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531470/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654054"
+      },
+      {
+        "id": "654055",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; top of one knob, areas in ring missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531471/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654055"
+      },
+      {
+        "id": "654056",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; top of one knob missing, cracks in ring, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531472/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654056"
+      },
+      {
+        "id": "654057",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531473/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654057"
+      },
+      {
+        "id": "654058",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531474/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654058"
+      },
+      {
+        "id": "654059",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531475/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654059"
+      },
+      {
+        "id": "654060",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, one knob deficient, casting flaw.",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531476/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654060"
+      },
+      {
+        "id": "654061",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531477/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654061"
+      },
+      {
+        "id": "654062",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531478/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654062"
+      },
+      {
+        "id": "654063",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, top of one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531479/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654063"
+      },
+      {
+        "id": "654064",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531480/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654064"
+      },
+      {
+        "id": "654065",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; large; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531481/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654065"
+      },
+      {
+        "id": "653846",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531482/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653846"
+      },
+      {
+        "id": "653847",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531483/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653847"
+      },
+      {
+        "id": "654072",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four large knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531484/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654072"
+      },
+      {
+        "id": "654073",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531485/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654073"
+      },
+      {
+        "id": "654074",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs with different designs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531486/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654074"
+      },
+      {
+        "id": "654075",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four large knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531487/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654075"
+      },
+      {
+        "id": "654076",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; large; four knobs; patina",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531488/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654076"
+      },
+      {
+        "id": "653853",
+        "source": "peabody",
+        "title": "Metal ring, nitien; clay core; one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531599/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653853"
+      },
+      {
+        "id": "654077",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, top of one knob missing; crack in ring, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531600/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654077"
+      },
+      {
+        "id": "654147",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open form, four knobs, fine details",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531601/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654147"
+      },
+      {
+        "id": "654087",
+        "source": "peabody",
+        "title": "Metal ring, nitien, small ring, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531602/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654087"
+      },
+      {
+        "id": "654088",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, part of one knob missing, casting flaw.",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531603/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654088"
+      },
+      {
+        "id": "654089",
+        "source": "peabody",
+        "title": "Small metal ring, cast brass; resembles nitien",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531604/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654089"
+      },
+      {
+        "id": "654090",
+        "source": "peabody",
+        "title": "Small metal ring, cast brass; resembles nitien",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531605/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654090"
+      },
+      {
+        "id": "654095",
+        "source": "peabody",
+        "title": "Small metal ring; cast brass, resembles nitien",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531606/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654095"
+      },
+      {
+        "id": "654096",
+        "source": "peabody",
+        "title": "Small metal ring; cast brass, resembles nitien",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531607/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654096"
+      },
+      {
+        "id": "653854",
+        "source": "peabody",
+        "title": "Small metal ring, nitien, with four knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531608/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653854"
+      },
+      {
+        "id": "654094",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; large area missing, major casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531489/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654094"
+      },
+      {
+        "id": "654091",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass, 4 knobs, clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531490/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654091"
+      },
+      {
+        "id": "654092",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; cracks in ring, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531491/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654092"
+      },
+      {
+        "id": "654093",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531492/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654093"
+      },
+      {
+        "id": "654137",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531493/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654137"
+      },
+      {
+        "id": "654138",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; tip of one knob deficient, casting flaw",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531494/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654138"
+      },
+      {
+        "id": "654139",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531495/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654139"
+      },
+      {
+        "id": "654136",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531496/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654136"
+      },
+      {
+        "id": "654141",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; verdigris",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531497/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654141"
+      },
+      {
+        "id": "654142",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531498/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654142"
+      },
+      {
+        "id": "654146",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; four knobs, one deficient; large, some casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531499/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654146"
+      },
+      {
+        "id": "654140",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; oval with 4 knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531500/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654140"
+      },
+      {
+        "id": "654148",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531501/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654148"
+      },
+      {
+        "id": "654149",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs; part of one knob missing, casting flaw.",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531502/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654149"
+      },
+      {
+        "id": "654150",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, one knob deficient",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531503/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654150"
+      },
+      {
+        "id": "654151",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with two knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531504/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654151"
+      },
+      {
+        "id": "654152",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, one knob deficient",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531505/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654152"
+      },
+      {
+        "id": "654153",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531506/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654153"
+      },
+      {
+        "id": "654154",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, three knobs deficient, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531507/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654154"
+      },
+      {
+        "id": "654155",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, cracks and areas of ring missing, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531508/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654155"
+      },
+      {
+        "id": "654163",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; one half of two-part ring",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531609/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654163"
+      },
+      {
+        "id": "654164",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531610/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654164"
+      },
+      {
+        "id": "654165",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531611/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654165"
+      },
+      {
+        "id": "654166",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with three knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531612/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654166"
+      },
+      {
+        "id": "654167",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531613/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654167"
+      },
+      {
+        "id": "654168",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs, one in the form of a human head",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531614/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654168"
+      },
+      {
+        "id": "654169",
+        "source": "peabody",
+        "title": "Ring, nitien, (currency or ritual object)",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531615/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654169"
+      },
+      {
+        "id": "654170",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with three knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531616/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654170"
+      },
+      {
+        "id": "654171",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with three small knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531617/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654171"
+      },
+      {
+        "id": "654172",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531618/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654172"
+      },
+      {
+        "id": "654173",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four large knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531619/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654173"
+      },
+      {
+        "id": "654174",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531620/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654174"
+      },
+      {
+        "id": "654175",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531621/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654175"
+      },
+      {
+        "id": "654176",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531622/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654176"
+      },
+      {
+        "id": "654177",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, one deficient",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531623/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654177"
+      },
+      {
+        "id": "654178",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs, two deficient",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531624/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654178"
+      },
+      {
+        "id": "654179",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; one knob missing, another deficient, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531625/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654179"
+      },
+      {
+        "id": "654180",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; areas of ring and one knob missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531626/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654180"
+      },
+      {
+        "id": "654181",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; areas of ring missing, one full knob present",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531627/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654181"
+      },
+      {
+        "id": "654182",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531628/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654182"
+      },
+      {
+        "id": "654183",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531629/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654183"
+      },
+      {
+        "id": "653839",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs and an additional short metal protrusion; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531630/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653839"
+      },
+      {
+        "id": "654184",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531631/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654184"
+      },
+      {
+        "id": "654185",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; very large; four knobs, cracks in ring",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531632/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654185"
+      },
+      {
+        "id": "654186",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs, patina",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531633/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654186"
+      },
+      {
+        "id": "654187",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with one knob",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531634/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654187"
+      },
+      {
+        "id": "653856",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 2 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531635/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653856"
+      },
+      {
+        "id": "653823",
+        "source": "peabody",
+        "title": "Metal ring, nitien, with 4 knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531636/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653823"
+      },
+      {
+        "id": "654188",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531637/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654188"
+      },
+      {
+        "id": "654189",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; very large open ring with four knobs, casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531638/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654189"
+      },
+      {
+        "id": "654190",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, crack across ring and two knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531639/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654190"
+      },
+      {
+        "id": "654191",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, one knob deficient",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531640/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654191"
+      },
+      {
+        "id": "654192",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531641/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654192"
+      },
+      {
+        "id": "654193",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; very large open ring with four knobs; casting flaws",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531642/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654193"
+      },
+      {
+        "id": "654194",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; large, with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531643/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654194"
+      },
+      {
+        "id": "654195",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531644/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654195"
+      },
+      {
+        "id": "653841",
+        "source": "peabody",
+        "title": "Metal ring, nitien, very large with four knobs; clay core",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531645/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/653841"
+      },
+      {
+        "id": "654197",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, two missing small areas",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531646/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654197"
+      },
+      {
+        "id": "654198",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, one knob deficient.",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531647/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654198"
+      },
+      {
+        "id": "654199",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531648/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654199"
+      },
+      {
+        "id": "654200",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531649/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654200"
+      },
+      {
+        "id": "654201",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531650/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654201"
+      },
+      {
+        "id": "654203",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; four minimal knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531651/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654203"
+      },
+      {
+        "id": "654204",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; ring made of two parts that fit together; large",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531652/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654204"
+      },
+      {
+        "id": "654205",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531653/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654205"
+      },
+      {
+        "id": "654206",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531654/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654206"
+      },
+      {
+        "id": "654207",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531655/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654207"
+      },
+      {
+        "id": "654208",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs, top of one knob missing",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531656/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654208"
+      },
+      {
+        "id": "654209",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core; four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531657/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654209"
+      },
+      {
+        "id": "654196",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass with clay core, four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531658/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654196"
+      },
+      {
+        "id": "654210",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531659/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654210"
+      },
+      {
+        "id": "654211",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with four knobs",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531660/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654211"
+      },
+      {
+        "id": "654212",
+        "source": "peabody",
+        "title": "Metal ring, nitien, cast brass; open ring with one knob and rows of small knobs near opening",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/531661/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/654212"
       }
     ]
   },
@@ -55,6 +2638,13 @@
       "title": "currency",
       "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/1230bb32_e97a_4bff_96d8_a3be0112f00c/preview_00446455_001.jpg",
       "object_url": "https://www.britishmuseum.org/collection/object/E_Af1971-01-4"
+    },
+    {
+      "id": "obj-1445099",
+      "source": "smb",
+      "title": "kani",
+      "image": "https://search.smb.museum/media/images/thumbs/large/914/007/7914263.jpg",
+      "object_url": "https://id.smb.museum/object/1445099"
     }
   ]
 }

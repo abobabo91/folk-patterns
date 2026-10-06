@@ -1,7 +1,83 @@
 {
   "ethnicity_key": "east-asia__russia__chuvans",
   "people_key": "Q1945649",
-  "count": 0,
-  "buckets": {},
+  "count": 9,
+  "buckets": {
+    "arms": [
+      {
+        "id": "396979",
+        "source": "rem",
+        "title": "Колчан для стрел. Чуванцы",
+        "image": "https://collection.ethnomuseum.ru/api/spf/YAC6RrMndqlTIQdhUdPkBr3hbdChJWiyclndOewOcNKeq9CFVbNB5LiBjcv32OMM.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/396979"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "396980",
+        "source": "rem",
+        "title": "Фетиши - предмет культа. Чуванцы",
+        "image": "https://collection.ethnomuseum.ru/api/spf/V2k9lo0gPs-FBiQOiOIcEhCa99HEB76FTxrkuXJzuVFvYEHo7pGTtlXpwMck3y8T.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/396980"
+      }
+    ],
+    "garment": [
+      {
+        "id": "396945",
+        "source": "rem",
+        "title": "Парка - одежда женская верхняя. Чуванцы",
+        "image": "https://collection.ethnomuseum.ru/api/spf/MqKcFN3Je6l_ReZ9BsOeEpJ2wFmgDmNS4E7eVYdpqN0NQ8xYeH0HEtl19aoUp3qo.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/396945"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "353406",
+        "source": "kunstkamera",
+        "title": "Бубен шаманский. Чукчи, чуванцы, коряки. Россия, Чукотский автономный округ, Чукотский р-он. 1980-1990",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KQM12rjQEO4nu_gIkZa5lPB8ePSj21iwni_8eR1cAXox.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/353406"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "17247",
+        "source": "kunstkamera",
+        "title": "Доска с картинными изображениями: часть карты реки Анадырь в районе мыса Чикаевский. Чукчи, чуванцы. Россия, Чукотский автономный округ, не позднее 1898 г.",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KSv15MvRj5BNrOqOv4UcKRMlumdl5HFa53Ehr0kgrjGU.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/17247"
+      },
+      {
+        "id": "17235",
+        "source": "kunstkamera",
+        "title": "Доска с картинными изображениями: часть карты реки Анадырь в районе переката Камешки. Чукчи, чуванцы. Россия, Чукотский автономный округ, не позднее 1898 г.",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9KWq6i7UKayDnCe5qsob9zXPU80vyZUq8tHzjT9IvADPU.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/17235"
+      },
+      {
+        "id": "17245",
+        "source": "kunstkamera",
+        "title": "Доска с картинными изображениями: часть карты реки Анадырь в районе реки Утесики. Чукчи, чуванцы. Россия, Чукотский автономный округ, не позднее 1898 г.",
+        "image": "https://collection.kunstkamera.ru/api/spf/P3jjNFapKkK6a3WhXoU9Kc2NATRwlppHmQ6RanXnbRacbjSd1H6Mq_HDRDy8gKvj.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/17245"
+      }
+    ],
+    "photo": [
+      {
+        "id": "94347",
+        "source": "kunstkamera",
+        "title": "Калинин И.С. Группа кочевников. Чуванцы. Россия, Чукотский автономный округ, Анадырский край (Анадырский уезд Приморской области). 1897 - 1907",
+        "image": "https://collection.kunstkamera.ru/api/spf/p0G0_wgftgzswSO44sRY2hnYBl8u2TIZShh8T80I3OXjhhQ0xmG_hcqTl-FEUsE4.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/94347"
+      },
+      {
+        "id": "94348",
+        "source": "kunstkamera",
+        "title": "Калинин И.С. Чуванские и ламутские женщины (костюмы последних расшиты бисером). Чуванцы, ламуты. Россия, Чукотский автономный округ, Анадырский край (Анадырский уезд Приморской области). 1897 - 1907",
+        "image": "https://collection.kunstkamera.ru/api/spf/p0G0_wgftgzswSO44sRY2rjz-ka3T-oi9qTydsuIlAENpmCx9Y-Ed8i8r2Of4nhP.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/94348"
+      }
+    ]
+  },
   "other": []
 }

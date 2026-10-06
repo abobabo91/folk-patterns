@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__togo__tem",
   "people_key": "Q739827",
-  "count": 1,
+  "count": 4,
   "buckets": {
     "garment": [
       {
@@ -11,7 +11,33 @@
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/2_14/611f638c_a1d1_4045_b40b_aee500ebb55b/preview_2018_2036_274_F.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_2018-2036-274"
       }
+    ],
+    "instruments": [
+      {
+        "id": "obj-737574",
+        "source": "smb",
+        "title": "ssunko",
+        "image": "https://search.smb.museum/media/images/thumbs/large/377/007/7377281.jpg",
+        "object_url": "https://id.smb.museum/object/737574"
+      }
+    ],
+    "household": [
+      {
+        "id": "obj-1079954",
+        "source": "smb",
+        "title": "Tragebeutel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/651/007/7651477.jpg",
+        "object_url": "https://id.smb.museum/object/1079954"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "obj-1574147",
+      "source": "smb",
+      "title": "Querhorn",
+      "image": "https://search.smb.museum/media/images/thumbs/large/013/005/5013919.jpg",
+      "object_url": "https://id.smb.museum/object/1574147"
+    }
+  ]
 }

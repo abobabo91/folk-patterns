@@ -1,7 +1,48 @@
 {
   "ethnicity_key": "caucasus__russia__archi",
   "people_key": "Q4320",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 5,
+  "buckets": {
+    "photo": [
+      {
+        "id": "72752",
+        "source": "rem",
+        "title": "Негатив: Дом. Арчинцы",
+        "image": "https://collection.ethnomuseum.ru/api/spf/BLv0sYDN5wPDK10aB8PVSAF5EIKeNM-2IKVzmZyO3oSxW3RpoyZlzeleQsk_woxV.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/72752"
+      },
+      {
+        "id": "66315",
+        "source": "kunstkamera",
+        "title": "Арчинка в национальном головном уборе. Арчинцы. Дагестан. 1883",
+        "image": "https://collection.kunstkamera.ru/api/spf/OfMRoqKrurw_8ta7ZmiB61I9-SucInswEOFlKf4cmovBJjH0P87wDYsmjnPrCFbB.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66315"
+      },
+      {
+        "id": "66316",
+        "source": "kunstkamera",
+        "title": "Арчинка в национальном головном уборе. Арчинцы. Дагестан. 1883",
+        "image": "https://collection.kunstkamera.ru/api/spf/OfMRoqKrurw_8ta7ZmiB6wNXQT-UzJuzyOxa2GMcIlvEzD3mk8G52GQwbcIBu8Yl.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/66316"
+      }
+    ],
+    "household": [
+      {
+        "id": "45389",
+        "source": "kunstkamera",
+        "title": "Ложка-вилка. Арчинцы. Дагестан, Чародинский р-он, с. Арчиб. 1930-е гг.",
+        "image": "https://collection.kunstkamera.ru/api/spf/RPnO_GVrYJd-TMkjodooI6VBEgwCfV_XVvSW7_Ee609ESHcslbhgJhmd-JhT2o6O.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/45389"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "45033",
+      "source": "kunstkamera",
+      "title": "Резец для теста. Арчинцы. Дагестан, Чародинский р-он, с. Арчиб, начало XX в.",
+      "image": "https://collection.kunstkamera.ru/api/spf/RPnO_GVrYJd-TMkjodooI1XwmSSfrYJBiI8JYdQqPoP48IzLHrKUDChRFeaR24ZB.jpg",
+      "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/45033"
+    }
+  ]
 }

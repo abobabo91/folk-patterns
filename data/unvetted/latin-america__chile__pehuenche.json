@@ -1,7 +1,40 @@
 {
   "ethnicity_key": "latin-america__chile__pehuenche",
   "people_key": "Q2067521",
-  "count": 0,
-  "buckets": {},
+  "count": 4,
+  "buckets": {
+    "garment": [
+      {
+        "id": "/2022703/pages_Main_idt_16275_inventary_13577_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Sombrero",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF13577_SEQ_001_P.JPG%26Ninv%3D13577&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_16275_inventary_13577_table_FMUS_museum_MAM"
+      },
+      {
+        "id": "/2022703/pages_Main_idt_16826_inventary_13576_table_FMUS_museum_MAM",
+        "source": "europeana",
+        "title": "Sombrero",
+        "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF13576_SEQ_014_P.JPG%26Ninv%3D13576&type=IMAGE&size=w400",
+        "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_16826_inventary_13576_table_FMUS_museum_MAM"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PP0033557",
+        "source": "quaibranly",
+        "title": "Vase avec incrustations parietales",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0001.05_04/PP0033557_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0033557"
+      },
+      {
+        "id": "obj-1614542",
+        "source": "smb",
+        "title": "Argent. Indianer (Pehuenche)",
+        "image": "https://search.smb.museum/media/images/thumbs/large/793/003/3793718.jpg",
+        "object_url": "https://id.smb.museum/object/1614542"
+      }
+    ]
+  },
   "other": []
 }

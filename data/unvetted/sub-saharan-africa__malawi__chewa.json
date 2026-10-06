@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__malawi__chewa",
   "people_key": "Q1071390",
-  "count": 1,
+  "count": 13,
   "buckets": {
     "masks-ritual": [
       {
@@ -11,7 +11,102 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1202834%2F2004.14.0001.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1202832"
       }
+    ],
+    "instruments": [
+      {
+        "id": "obj-200590",
+        "source": "smb",
+        "title": "Hanfpfeife",
+        "image": "https://search.smb.museum/media/images/thumbs/large/468/003/3468734.jpg",
+        "object_url": "https://id.smb.museum/object/200590"
+      },
+      {
+        "id": "obj-208845",
+        "source": "smb",
+        "title": "Trommel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/513/003/3513260.jpg",
+        "object_url": "https://id.smb.museum/object/208845"
+      }
+    ],
+    "household": [
+      {
+        "id": "prm-object-137742",
+        "source": "prm",
+        "title": "Wooden spoon.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS489073_1969.0029.97.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-137742"
+      },
+      {
+        "id": "prm-object-137739",
+        "source": "prm",
+        "title": "Wooden spoon.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS489069_1969.0029.94.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-137739"
+      },
+      {
+        "id": "prm-object-137740",
+        "source": "prm",
+        "title": "Wooden spoon.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS489072_1969.0029.95.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-137740"
+      },
+      {
+        "id": "prm-object-137741",
+        "source": "prm",
+        "title": "Wooden spoon.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS489074_1969.0029.96.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-137741"
+      },
+      {
+        "id": "prm-object-137743",
+        "source": "prm",
+        "title": "Wooden spoon.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS489075_1969.0029.98.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-137743"
+      }
+    ],
+    "textile": [
+      {
+        "id": "prm-object-96624",
+        "source": "prm",
+        "title": "Barkcloth sack. The cloth is brown in colour and undecorated, formed into a tube and stitched at one end. It has a dense and very fibrous texture.  [AF [OPS move] 3/8/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS355992_1940.0011.1.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-96624"
+      },
+      {
+        "id": "prm-object-96627",
+        "source": "prm",
+        "title": "Wooden barkcloth beater. Cylindrical handle and rectangular head, with sub-oval cross section. Areas of the head are sunken and worn. [EH [OPS Move] 30/3/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS346380_1940.0011.3.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-96627"
+      }
+    ],
+    "arms": [
+      {
+        "id": "prm-object-99434",
+        "source": "prm",
+        "title": "Bow, made from wood. [ASh [OPS move] 4/8/2017]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS324509_1904.0047.22.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-99434"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PP0231619",
+        "source": "quaibranly",
+        "title": "Vessel [récipient]",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0003.33/PP0231619_01.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0231619"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-96625",
+      "source": "prm",
+      "title": "Bark for making string folded and tied into a bundle. [FB 22/06/2015]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS355884_1940.0011.2.1.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-96625"
+    }
+  ]
 }

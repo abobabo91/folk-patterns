@@ -1,7 +1,25 @@
 {
   "ethnicity_key": "north-america__united-states__ahtna",
   "people_key": "Q46826",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 2,
+  "buckets": {
+    "garment": [
+      {
+        "id": "obj-1361285",
+        "source": "smb",
+        "title": "Lederstiefel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/481/003/3481588.jpg",
+        "object_url": "https://id.smb.museum/object/1361285"
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "obj-1361286",
+      "source": "smb",
+      "title": "Paar Mokkasins",
+      "image": "https://search.smb.museum/media/images/thumbs/large/481/003/3481589.jpg",
+      "object_url": "https://id.smb.museum/object/1361286"
+    }
+  ]
 }

@@ -1,7 +1,24 @@
 {
   "ethnicity_key": "east-asia__china__sui",
   "people_key": "Q857529",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "painting-mss": [
+      {
+        "id": "prm-object-42976",
+        "source": "prm",
+        "title": "Painting of a man playing a string instrument and a woman dancing. [El.B 19/03/2008]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS312459_1986.0035.10.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-42976"
+      },
+      {
+        "id": "prm-object-20420",
+        "source": "prm",
+        "title": "Painting of 3 girls in traditional costume. [El.B 19/03/2008]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS312108_1986.0035.11.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-20420"
+      }
+    ]
+  },
   "other": []
 }

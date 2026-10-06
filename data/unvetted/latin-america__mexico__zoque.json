@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__mexico__zoque",
   "people_key": "Q509276",
-  "count": 3,
+  "count": 9,
   "buckets": {
     "garment": [
       {
@@ -24,6 +24,54 @@
         "title": "huipil, kvinnomantel, blus, skjorta",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1143909%2F1946.12.0039.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1022530"
+      }
+    ],
+    "household": [
+      {
+        "id": "prm-object-20715",
+        "source": "prm",
+        "title": "Large net bag of two-ply agave fibre string. [LM 'DCF 2004-2006 What's Upstairs?' 17/1/2006]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS295016_1947.0005.25.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-20715"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "71.1955.84.100",
+        "source": "quaibranly",
+        "title": "Vase",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/155/155446.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1955.84.100"
+      },
+      {
+        "id": "71.1955.84.101",
+        "source": "quaibranly",
+        "title": "Coupe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/155/155447.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1955.84.101"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "71.1955.84.102",
+        "source": "quaibranly",
+        "title": "Encensoir",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/155/155448.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1955.84.102"
+      },
+      {
+        "id": "71.1955.84.103",
+        "source": "quaibranly",
+        "title": "Encensoir",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/155/155449.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1955.84.103"
+      },
+      {
+        "id": "71.1955.84.104",
+        "source": "quaibranly",
+        "title": "Encensoir",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/155/155450.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1955.84.104"
       }
     ]
   },

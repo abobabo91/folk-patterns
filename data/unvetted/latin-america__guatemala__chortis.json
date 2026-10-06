@@ -1,7 +1,31 @@
 {
   "ethnicity_key": "latin-america__guatemala__chortis",
   "people_key": "Q1076608",
-  "count": 0,
-  "buckets": {},
+  "count": 3,
+  "buckets": {
+    "garment": [
+      {
+        "id": "71.1997.24.1",
+        "source": "quaibranly",
+        "title": "Jupe",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/188/188378.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1997.24.1"
+      },
+      {
+        "id": "71.1997.24.2",
+        "source": "quaibranly",
+        "title": "Blouse",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/188/188379.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1997.24.2"
+      },
+      {
+        "id": "71.1997.24.3",
+        "source": "quaibranly",
+        "title": "Blouse",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/Images/188/188380.jpg&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=71.1997.24.3"
+      }
+    ]
+  },
   "other": []
 }

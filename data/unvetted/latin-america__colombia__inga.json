@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__colombia__inga",
   "people_key": "Q2707733",
-  "count": 5,
+  "count": 7,
   "buckets": {
     "jewelry": [
       {
@@ -24,6 +24,13 @@
         "title": "fjäderprydnad, feather ornament",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F601110%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_39111"
+      },
+      {
+        "id": "prm-object-29981",
+        "source": "prm",
+        "title": "Condor claw for necklace or other personal ornament.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS217670_1923.0088.305.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-29981"
       }
     ],
     "masks-ritual": [
@@ -45,5 +52,13 @@
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-42069",
+      "source": "prm",
+      "title": "Pan pipes; ten 'pipes' made from condor quills, tied together with plant fibre and quill.",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS217413_1923.0088.304.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-42069"
+    }
+  ]
 }

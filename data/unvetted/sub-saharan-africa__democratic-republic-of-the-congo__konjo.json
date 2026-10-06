@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__democratic-republic-of-the-congo__konjo",
   "people_key": "Q804474",
-  "count": 9,
+  "count": 16,
   "buckets": {
     "instruments": [
       {
@@ -17,6 +17,13 @@
         "title": "zither",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_12/30_9/9049b713_5872_4d94_864e_a411009c9cf6/preview_EAF40383.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1919-1106-33"
+      },
+      {
+        "id": "obj-814559",
+        "source": "smb",
+        "title": "Konustrommel",
+        "image": "https://search.smb.museum/media/images/thumbs/large/745/007/7745635.jpg",
+        "object_url": "https://id.smb.museum/object/814559"
       }
     ],
     "jewelry": [
@@ -68,8 +75,55 @@
         "title": "necklet",
         "image": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/15_10/6ab8f70f_3189_4787_a219_a42100b1cb78/preview_EAF58609.jpg",
         "object_url": "https://www.britishmuseum.org/collection/object/E_Af1983-31-51"
+      },
+      {
+        "id": "prm-object-139847",
+        "source": "prm",
+        "title": "Waist ornament or girdle. Made from glass blue and red beads, hung with metal chains with spiral ornaments at the ends. [ASh [OPS move] 7/11/2016]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS341705_1940.0007.0279.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-139847"
+      },
+      {
+        "id": "prm-object-139677",
+        "source": "prm",
+        "title": "Neck ornament or torque. [ASh [OPS move] 2/11/2016]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS359607_1940.0007.0110.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-139677"
+      },
+      {
+        "id": "prm-object-139676",
+        "source": "prm",
+        "title": "Waist ornament or belt. Twelve narrow plaited cords that have been woven together with vertical plant fibre bands. These bands have been dyed orange and dark brown. Plaited ties at the end of the belt.  [ASh [OPS move] 17/08/2016]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS262144_1940.0007.0109.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-139676"
+      }
+    ],
+    "household": [
+      {
+        "id": "prm-object-77091",
+        "source": "prm",
+        "title": "Pedestal stool with circular seat, wide stem support and wide base carved with linear and cross-hatched designs. [SM (Verve) 13/05/2014]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS266617_1922.0048.2.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-77091"
+      }
+    ],
+    "ceramic": [
+      {
+        "id": "525083",
+        "source": "maa",
+        "title": "Nkulingo [A-B], Enyora [C] and Kihama [D] pottery making tools. The Nkulingo is of stone, with 'A' being of a smaller smooth pebble than 'B'. The Enyora, 'C' is of a small notched cylinder of wood. The Kihama, 'D', is of a split wooden stick with rough ends.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/916691_1934.32_A-D_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/525083/"
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "509741",
+      "source": "maa",
+      "title": "Animal horn with finger-hole at the point and irregularly shaped mouth hole close to the point. Used by hunters for signalling.",
+      "image": "https://collections.maa.cam.ac.uk/media/library_images/web/959952_1994.188_001.jpg",
+      "object_url": "https://collections.maa.cam.ac.uk/objects/509741/"
+    }
+  ]
 }

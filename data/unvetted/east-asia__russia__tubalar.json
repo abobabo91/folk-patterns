@@ -1,7 +1,35 @@
 {
   "ethnicity_key": "east-asia__russia__tubalar",
   "people_key": "Q1313979",
-  "count": 0,
-  "buckets": {},
+  "count": 3,
+  "buckets": {
+    "instruments": [
+      {
+        "id": "318025",
+        "source": "rem",
+        "title": "Бубен шамана Санака Сеянова. Алтайцы: северная группа: тубалары",
+        "image": "https://collection.ethnomuseum.ru/api/spf/rcFjSa0sj-EPCRqLphddp-NEMRZgKvyy5DgEihzA7z0quDpiGNfrAG3SEzOtoWP9.jpg",
+        "object_url": "https://collection.ethnomuseum.ru/entity/OBJECT/318025"
+      }
+    ],
+    "painting-mss": [
+      {
+        "id": "267193",
+        "source": "kunstkamera",
+        "title": "Гуркин (Чорос-Гуркин) Г.И. Музыкальные инструменты. Тубалары. Россия, Алтай республика. 1930",
+        "image": "https://collection.kunstkamera.ru/api/spf/ghiZaMLMGuvQm4b3CT1BK9yWSxnxfASqgiEoYof7PQLfst7KuqWvZQcSxO5U411a.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/267193"
+      }
+    ],
+    "photo": [
+      {
+        "id": "252185",
+        "source": "kunstkamera",
+        "title": "Тубаларка П.А. Будуева с детьми, родом из Кебезени, замужем за теленгитом. Тубалары. Россия, Алтай республика (Ойротская АО). 1932",
+        "image": "https://collection.kunstkamera.ru/api/spf/TfkVaRT6rDCCKbce3OGrL5ZD3BuGWcgoHaHfF1ISqOFExBRfWLvm_ce1IEEqOoMc.jpg",
+        "object_url": "https://collection.kunstkamera.ru/entity/OBJECT/252185"
+      }
+    ]
+  },
   "other": []
 }

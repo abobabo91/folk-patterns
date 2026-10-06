@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "europe__cyprus__turkish-cypriots",
   "people_key": "Q245807",
-  "count": 1,
+  "count": 7,
   "buckets": {
     "painting-mss": [
       {
@@ -11,7 +11,54 @@
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fdigital-files-from-preservator%2Fedm-record%2FEIM%2F000042-353041&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2064920/https___www_searchculture_gr_aggregator_edm_EIM_000042_353041"
       }
+    ],
+    "household": [
+      {
+        "id": "prm-object-24341",
+        "source": "prm",
+        "title": "Knitted purse decorated with designs of ewers. [El.B 'DCF 2004-2006 What's Upstairs?' 9/11/2005]",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS205955_1914.0053.26.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24341"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "prm-object-40967",
+        "source": "prm",
+        "title": "Primitive clarinet, katsambouna, without stops.  Reed up-cut towards head.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS401488_1914.0053.4.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-40967"
+      },
+      {
+        "id": "prm-object-40968",
+        "source": "prm",
+        "title": "Rough clarinet, with 2 fingerholes.  The single reed is up-cut from the fresh cane of the pipe itself.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS401616_1914.0053.5.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-40968"
+      },
+      {
+        "id": "prm-object-40969",
+        "source": "prm",
+        "title": "Rough clarinet, with 2 stops.",
+        "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS374099_1914.0053.6.jpg",
+        "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-40969"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "prm-object-46139",
+      "source": "prm",
+      "title": "Tally stick",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS489292_1993.0024.1.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-46139"
+    },
+    {
+      "id": "prm-object-24313",
+      "source": "prm",
+      "title": "Garter worn by men below the knee. [L.Ph 'DCF 2004-2006 What's Upstairs?' 22/4/2005]",
+      "image": "https://prm-online-collections-assets-prd.s3.eu-west-1.amazonaws.com/assets/PRM_RS237441_1914.0072.4.jpg",
+      "object_url": "https://www.prm.ox.ac.uk/collections-online#/item/prm-object-24313"
+    }
+  ]
 }

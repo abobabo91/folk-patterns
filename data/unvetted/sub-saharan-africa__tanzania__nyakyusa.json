@@ -1,8 +1,27 @@
 {
   "ethnicity_key": "sub-saharan-africa__tanzania__nyakyusa",
   "people_key": "Q3140817",
-  "count": 2,
-  "buckets": {},
+  "count": 4,
+  "buckets": {
+    "instruments": [
+      {
+        "id": "obj-209483",
+        "source": "smb",
+        "title": "ipangu",
+        "image": "https://search.smb.museum/media/images/thumbs/large/514/003/3514463.jpg",
+        "object_url": "https://id.smb.museum/object/209483"
+      }
+    ],
+    "photo": [
+      {
+        "id": "PP0116602",
+        "source": "quaibranly",
+        "title": "Statuette en bois sculpté",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconotheque/MQB-P-0002.07_08/PP0116602_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0116602"
+      }
+    ]
+  },
   "other": [
     {
       "id": "E_Af1984-09-20",
