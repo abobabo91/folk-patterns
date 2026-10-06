@@ -1480,8 +1480,9 @@ def cmd_candidates() -> None:
                     moved += 1
                     continue
                 af = _art_form(kinds, o.get("name"))
-                if af == "unclassified":
-                    af = _QB_CLASS.get(o.get("museum_class") or "", af)
+                if af == "unclassified":   # the museum's own class: quai Branly's, Peabody's ("Headrest")
+                    mc = o.get("museum_class") or (o.get("item") or {}).get("classification") or ""
+                    af = _QB_CLASS.get(mc) or _art_form(kinds, mc)
                 cats.setdefault(af, []).append(
                     {"source": o.get("source"), "id": o["id"], "name": o.get("name"),
                      "kind": _kind(kinds, o.get("name")).get("kind")})

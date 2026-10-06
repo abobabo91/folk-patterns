@@ -338,7 +338,18 @@ musique", "Arts graphiques"…) fills what the lexicon leaves. Measured
 80 hits read by hand had about 5 wrong art forms per 100 (a netsuke as a bowl,
 a horn dish as ceramic, a kitchen knife as arms before it got its own rule).
 The rest are names the lexicon cannot read ("Sans titre", "Hatu leka, pebble",
-banknotes) and show under "Other", so no LLM pass is run for them. Accents are
+banknotes) and show under "Other", so no LLM pass is run for them. Peabody's
+classification column ("Headrest", "Necklace", "Woodwind") is the fallback
+there, as quai Branly's class is for its objects.
+
+A people the visual judge already picked from shows its unjudged candidates
+too: a candidate harvested after that judge run has no `pick_coverage` row and
+counts as `not_reached`, while the judge's drops keep their status. Before
+this, every museum added later was invisible for those peoples (Mapuche showed
+101 of ~840 candidates). Measured 2026-10-06 after all sources but the
+unfinished Peabody and MAA runs: 236,795 objects on the map (87,601 before),
+peoples with no object 484 (857), under 20 objects 984 (1,448); Mapuche
+168 -> 806, Hopi 185 -> 565, Navajo 486 -> 922, Wayuu 38 -> 375, Basques 4 -> 45. Accents are
 folded on both sides: quai Branly writes capitals bare ("Epingle", "Etui").
 
 Checked and not used: Wikidata items with P2596/P172 (606 items across all

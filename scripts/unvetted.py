@@ -115,8 +115,10 @@ def _has_pick(key: str) -> bool:
 
 
 def _candidate_status(key: str, triple: tuple[str, str, str], coverage: dict[tuple[str, str, str], str]) -> str:
-    """A no-pick people has no judge gate: every candidate is text-only."""
-    return coverage.get(triple, "") if _has_pick(key) else "no_pick"
+    """A no-pick people has no judge gate: every candidate is text-only. A
+    candidate harvested after its people's judge run has no coverage row; the
+    judge never saw it, so it is "not_reached" (its drops keep their status)."""
+    return coverage.get(triple, "not_reached") if _has_pick(key) else "no_pick"
 
 
 def _object_stems() -> set[str]:

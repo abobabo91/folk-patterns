@@ -68,9 +68,9 @@ KEYWORDS = [
     (r"\bcloche|\bclochette|\bbell\b|glocke|колокол|бубенец", "bell", "instruments"),
     (r"\bluth|\blute\b|laute\b|\bharpe|\bharp\b|harfe|\bvièle|\bfiddle|geige|\bsanza|lamellophon|zither|leier\b|lamella?phone|\bcithare|"
      r"\bguitar|гитар|домбр|балалайк|гусли|кобыз|скрипк|варган|jew.s harp|maultrommel|guimbarde|\btrompe\b|\btrumpet|trompete|"
-     r"\bhorn\b(?=.*instrument)|\bxylophon|\bgong\b|instrument de musique|musical instrument|musikinstrument|музыкальн", "musical instrument", "instruments"),
+     r"\bhorn\b(?=.*instrument)|\bxylophon|\bgong\b|instrument de musique|musical instrument|\bwoodwind|\bpercussion|\bstringed|\b(idio|aero|chordo|membrano)phone|musikinstrument|музыкальн", "musical instrument", "instruments"),
     # jewelry
-    (r"\bperles\b|\btorques?\b|\bcollier|\bnecklace|halskette|halsschmuck|ожерель|бусы|\bbeads?\b|perle\b|perlen", "necklace", "jewelry"),
+    (r"\bneck ?band|\bperles\b|\btorques?\b|\bcollier|\bnecklace|halskette|halsschmuck|ожерель|бусы|\bbeads?\b|perle\b|perlen", "necklace", "jewelry"),
     (r"\bpendentif|\bpendant|anhänger|подвес", "pendant", "jewelry"),
     (r"пряжк|\bbuckle|schnalle|\bhalsband|\bbracelet|\bbangle|\barmlet|armband|armreif|браслет|\bbrassard", "bracelet", "jewelry"),
     (r"armring|\banneau\b|\bbague\b|\bring\b|fingerring|ohrring|кольц|перстен", "ring", "jewelry"),
@@ -82,7 +82,7 @@ KEYWORDS = [
     (r"\bceinture|\bbelt\b|gürtel|\bgurt\b|пояс|кушак", "belt", "garment"),
     (r"\bjupon|\bpagne|\bloincloth|lendentuch|\bsarong|\bskirt|\bjupe|(?<=[a-zäöü])rock\b|^rock\b|юбк", "skirt", "garment"),
     (r"\bcouvre-chef|\bchapeau|\bhat\b|\bhut\b|\bmütze|шляп|шапк|\bcap\b|\bbonnet", "hat", "garment"),
-    (r"убор головной|haube\b|\bcoiffure|\bhampe de coiffure|\bcalotte|\bbandeau|\bornements? de (tête|cheveux)|\bhead ornament|\bcoiffe|\bheaddress|kopfschmuck|kopfputz|головн[оы]й убор|\bdiadème|\bcouronne|\bcrown|krone|венец|кокошник", "headdress", "garment"),
+    (r"\bhead covering|убор головной|haube\b|\bcoiffure|\bhampe de coiffure|\bcalotte|\bbandeau|\bornements? de (tête|cheveux)|\bhead ornament|\bcoiffe|\bheaddress|kopfschmuck|kopfputz|головн[оы]й убор|\bdiadème|\bcouronne|\bcrown|krone|венец|кокошник", "headdress", "garment"),
     (r"чулок|чулк|носок|носк[иа]|schurz|korsett|камлейк|\bjambières|\bbande molletière|\bleggings?\b|\bpantalon|\bcaleçon|\btrousers|\bhose\b|штаны|шаровар", "trousers", "garment"),
     (r"\bpenis.?sheath|\bcache-fesses|\bcache-sexe|\bétui pénien|\bpenis sheath", "loincloth", "garment"),
     (r"\bboubou|\bplastron|\bcarré d.épaule|\bbaldric|\btunique|\btunic|\bchemise|\bshirt|hemd|рубах|рубаш|\bblouse|\bcorsage|bluse", "shirt", "garment"),
@@ -115,7 +115,7 @@ KEYWORDS = [
     (r"\bblague à tabac|\btabatière|snuff|schnupftabak|табакерк|флакон табачн|\bflacon", "snuff container", "household"),
     (r"\bpeigne|\bcomb\b|\bkamm\b|kämme|гребен|гребн|расческ", "comb", "household"),
     (r"\btabouret|\bstool|hocker|\bsiège|\bseat\b|\bchaise|\bchair\b|stuhl|табурет|стул|скамь|\bbanc\b|\bbench|\bbed\b|bettfuß|\blit\b|кровать", "stool", "household"),
-    (r"kopfstütze|\bappui-?nuque|\bappui-?tête|\bheadrest|\bneckrest|nackenstütze|подголовник", "headrest", "household"),
+    (r"\bhead ?rest|\bneck ?rest|kopfstütze|\bappui-?nuque|\bappui-?tête|\bheadrest|\bneckrest|nackenstütze|подголовник", "headrest", "household"),
     (r"\béventail|\bfan\b|fächer|веер|опахал", "fan", "household"),
     (r"\bcerf-volant|\bkite\b|\bballe\b|\bball\b|для игры|\bjouet|\btoy\b|spielzeug|игрушк|\bjeu\b|\bgame\b|spiel\b|домино|фишк|шашк|\bdice\b|\bdés\b|würfel|карт[ыа] игральн|toupie", "toy", "household"),
     (r"\bracloir|\bracleur|\bgrattoir|\bscraper|schaber|скребок", "scraper", "household"),
