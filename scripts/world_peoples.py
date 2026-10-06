@@ -676,7 +676,10 @@ def _eu_index() -> dict[str, dict]:
 ETHNO_CAP, ETHNO_PHOTO_CAP = 300, 60   # objects / field photographs kept per people per museum
 # Sound and film carriers: their picture is a label or a box. Shellac records
 # (269) and cassettes (39) were in the first 250 peoples' harvest, 2026-10-06.
-_SMB_SKIP_TYPE = re.compile(r"tonband|schallplatte|schellack|platte|kassette|walze|tonträger|film|video|audio", re.I)
+_SMB_SKIP_TYPE = re.compile(r"tonband|tonbänd|schallplatte|schellack|platte|kassette|walze|tonträger|film|video|audio|^dat$|^cd$", re.I)
+
+
+_NOT_PEOPLE = re.compile(r"period|dynasty|era|phase|horizon|culture \(archaeolog|archaeolog|période|dynastie|эпох|период|династ", re.I)
 
 
 def _ethno_match(title: str, names: list[str]) -> bool:
@@ -684,6 +687,8 @@ def _ethno_match(title: str, names: list[str]) -> bool:
     plus a subgroup ("марийцы горные", "Mapuche-Huilliche")."""
     t = _fold(title).strip()
     if "?" in t:   # the museum's own doubt ("литовцы (?)")
+        return False
+    if _NOT_PEOPLE.search(t):   # "Edo (Japanese period)" is not the Edo of Nigeria (Peabody, 2026-10-06)
         return False
     return any(t == n or t.startswith(n + " ") or t.startswith(n + "-") or t.startswith(n + " (") for n in names)
 
@@ -804,11 +809,36 @@ def _qb_people(cl: httpx.Client, names: list[str]) -> list[dict]:
                 kept += 1
                 out.append({"source": "quaibranly", "id": num,
                             "name": "photographie" if photos else (qb.title(rec) or str(rec.get("Classification") or ""))[:120],
+                            # the museum's own category, mapped to an art form without an LLM
+                            "museum_class": "Photographie" if photos else str(rec.get("Classification") or ""),
                             "item": {"title": qb.title(rec), "image_url": img, "ethnos": qb.populations(rec)}})
     return out
 
 
-ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly")
+def _peabody_people(cl: httpx.Client, names: list[str]) -> list[dict]:
+    from folk_patterns.museums import peabody
+    folded = [_fold(n) for n in names]
+    flts = dict((f, label) for n in names for label, f in peabody.cultures(cl, n) if _ethno_match(label, folded))
+    out: list[dict] = []
+    seen: set[str] = set()
+    for dept, cap in (("Ethnographic", ETHNO_CAP), ("Photographic", ETHNO_PHOTO_CAP)):
+        kept = 0
+        for f in flts:
+            for it in peabody.records(cl, f, cap - kept, dept):
+                if it["id"] in seen:
+                    continue
+                seen.add(it["id"])
+                kept += 1
+                out.append({"source": "peabody", "id": it["id"],
+                            "name": "photograph" if dept == "Photographic" else (it["title"] or it["classification"])[:120],
+                            "item": {"title": it["title"], "image_url": peabody.image_url(it["image"]),
+                                     "classification": it["classification"], "ethnos": [flts[f]]}})
+            if kept >= cap:
+                break
+    return out
+
+
+ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly", "peabody")
 
 
 def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...] = ("kamis", "smb")) -> None:
@@ -819,7 +849,9 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
     English and German names). Assignment is by that text field alone, no
     picture is judged. Up to ETHNO_CAP objects and ETHNO_PHOTO_CAP field
     photographs per people per museum.
-    -> data/world/ethno_objects.jsonl (gitignored); the last line per key wins."""
+    -> data/world/ethno_objects_<museums>.jsonl (gitignored), one file per museum
+    set: parallel runs appending to one file corrupted a line on 2026-10-06.
+    The last line per key wins."""
     from concurrent.futures import ThreadPoolExecutor
     import threading
     import urllib3
@@ -834,11 +866,11 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
     want = {s.lower() for s in only}
     if want:
         pe = [r for r in pe if {r["key"].lower(), r["label"].lower()} & want]
-    p = OUT / "ethno_objects.jsonl"
+    p = OUT / f"ethno_objects_{'-'.join(sources)}.jsonl"
     # A line covers the museums in its "sources"; a run for other museums
     # adds lines beside it instead of replacing it.
-    done = {json.loads(l)["key"] for l in p.read_text(encoding="utf-8").splitlines()
-            if tuple(json.loads(l).get("sources") or ("kamis", "smb")) == tuple(sources)} if p.exists() and not want else set()
+    done = {d["key"] for d in _ethno_lines()   # the shared pre-split file counts too
+            if tuple(d.get("sources") or ("kamis", "smb")) == tuple(sources)} if not want else set()
     todo = [r for r in pe if r["key"] not in done]
     print(f"ethno-objects {'+'.join(sources)}: {len(todo)} peoples ({len(done)} cached)", flush=True)
     lock = threading.Lock()
@@ -867,6 +899,9 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
             fr = list(dict.fromkeys([*variants(r["label"]), *(x for v in lab.get("fr") or [] if len(v.strip()) >= 4 and "(" not in v
                                                               for x in variants(v.strip()))]))
             jobs.append(("quaibranly", qb.client, lambda c: _qb_people(c, fr)))
+        if "peabody" in sources:
+            from folk_patterns.museums import peabody
+            jobs.append(("peabody", peabody.client, lambda c: _peabody_people(c, lat)))
         for name, mk, fn in jobs:
             try:
                 with mk() as c:
@@ -893,10 +928,21 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
 
 @__import__("functools").lru_cache(maxsize=1)
 def _ethno_index() -> dict[tuple[str, str], dict]:
-    p = OUT / "ethno_objects.jsonl"
-    if not p.exists():
-        return {}
-    return {(o["source"], o["id"]): o["item"] for l in p.read_text(encoding="utf-8").splitlines() for o in json.loads(l)["objects"]}
+    return {(o["source"], o["id"]): o["item"] for d in _ethno_lines() for o in d["objects"]}
+
+
+def _ethno_lines() -> list[dict]:
+    """Every parseable line of the ethno-objects files, oldest file first.
+    The shared ethno_objects.jsonl, written before the per-set files, always
+    reads first: its quai Branly lines predate museum_class."""
+    out = []
+    for f in sorted(OUT.glob("ethno_objects*.jsonl"), key=lambda f: (f.name != "ethno_objects.jsonl", f.stat().st_mtime)):
+        for l in f.read_text(encoding="utf-8").splitlines():
+            try:
+                out.append(json.loads(l))
+            except json.JSONDecodeError:
+                continue
+    return out
 
 
 def _bm_name(k: str) -> str | None:
@@ -1277,6 +1323,15 @@ _KIND_FIX = [
 ]
 
 
+# quai Branly's own object class, for names no kind covers ("Sans titre",
+# "Malgache" under Arts graphiques). Counted 2026-10-06: 13,081 of 24,071
+# objects are "(non renseigné)"; Denrée alimentaire, Objet archéologique and
+# Monnaies stay unclassified, Restes humains are dropped before this.
+_QB_CLASS = {"Photographie": "photo", "Textile ou vêtement": "textile", "Sculpture": "sculpture",
+             "Instrument de musique": "instruments", "Arts graphiques": "painting-mss", "Peinture": "painting-mss",
+             "Manuscrit": "painting-mss", "Maquette ou modèle": "sculpture", "Moulage": "sculpture"}
+
+
 # Peoples whose old court art the judge files as "archaeological" although the
 # tradition is still practised. Edo: the Benin brass-casters' guild (Igun
 # Street, Benin City) still works, so the 16th-century plaques are kept
@@ -1289,9 +1344,20 @@ def _kinds() -> dict:
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
 
 
+def _kind(kinds: dict, name: str | None) -> dict:
+    """The cached LLM reading of an object name, else the keyword lexicon's
+    (kind_lexicon.py: the ethnographic museums' plain nouns, no LLM)."""
+    from folk_patterns.kind_lexicon import classify
+    n = (name or "").strip()[:120]
+    c = kinds.get(n)
+    if c and c.get("art_form") != "unclassified":
+        return c
+    return classify(n) or c or {}
+
+
 def _art_form(kinds: dict, name: str | None) -> str:
     n = (name or "").strip()[:120]
-    af = (kinds.get(n) or {}).get("art_form", "unclassified")
+    af = _kind(kinds, n).get("art_form", "unclassified")
     if af == "unclassified":
         for rx, fix in _KIND_FIX:
             if rx.search(n):
@@ -1369,13 +1435,17 @@ def cmd_candidates() -> None:
             d = json.loads(l)
             eu[d["key"]] = d["objects"]   # the last line per key wins (--only reruns)
     ethno = {}
-    if (OUT / "ethno_objects.jsonl").exists():
-        for l in (OUT / "ethno_objects.jsonl").read_text(encoding="utf-8").splitlines():
-            d = json.loads(l)
-            # the last line per key and museum set wins
-            ethno.setdefault(d["key"], {})[tuple(d.get("sources") or ("kamis", "smb"))] = d["objects"]
+    for d in _ethno_lines():
+        # the last line per key and museum set wins
+        ethno.setdefault(d["key"], {})[tuple(d.get("sources") or ("kamis", "smb"))] = d["objects"]
+    from folk_patterns.museums import kamis
+    for objs in (o for v in ethno.values() for o in v.values()):
+        for o in objs:   # names cut before kamis.object_name read artists' initials
+            if o["source"] in kamis.SITES and o.get("name") != "фотография":
+                o["name"] = kamis.object_name((o.get("item") or {}).get("title") or o.get("name") or "")
     ethno = {k: list({(o["source"], o["id"]): o for objs in v.values() for o in objs   # runs may overlap
-                      if not (o["source"] == "smb" and _SMB_SKIP_TYPE.search(o.get("name") or ""))}.values())
+                      if not (o["source"] == "smb" and _SMB_SKIP_TYPE.search(o.get("name") or ""))
+                      and o.get("museum_class") != "Restes humains"}.values())
              for k, v in ethno.items()}
     # Met/Cleveland culture texts local-audit judged to name a place or another
     # people for this one ("India (Rajasthan, Kota)" for the Kotas).
@@ -1409,9 +1479,12 @@ def cmd_candidates() -> None:
                 if owner[(o.get("source"), o["id"])] != r["key"]:
                     moved += 1
                     continue
-                cats.setdefault(_art_form(kinds, o.get("name")), []).append(
+                af = _art_form(kinds, o.get("name"))
+                if af == "unclassified":
+                    af = _QB_CLASS.get(o.get("museum_class") or "", af)
+                cats.setdefault(af, []).append(
                     {"source": o.get("source"), "id": o["id"], "name": o.get("name"),
-                     "kind": (kinds.get((o.get("name") or "").strip()[:120]) or {}).get("kind")})
+                     "kind": _kind(kinds, o.get("name")).get("kind")})
             f.write(json.dumps({"key": r["key"], "label": r["label"], "continent": r.get("continent"),
                                 "region": r.get("region"), "country": r.get("country"), "in_atlas": r["in_atlas"],
                                 "unvetted_only": bool(r.get("unvetted_only")),
@@ -1462,7 +1535,7 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
                        # edmPlaceLabel is one {"def": name} per language: the first Latin-script one
                        "place": next((p for p in ((x.get("def") if isinstance(x, dict) else x) for x in it.get("edmPlaceLabel") or [])
                                       if p and p.isascii()), "")}
-    if o["source"] in ("rem", "kunstkamera", "smb", "prm", "maa", "quaibranly"):
+    if o["source"] in ("rem", "kunstkamera", "smb", "prm", "maa", "quaibranly", "peabody"):
         it = _ethno_index().get((o["source"], o["id"]))
         return it and {"title": it.get("title") or o.get("name") or "", "image_url": it["image_url"],
                        "description": "Museum's people term: " + ", ".join(it.get("ethnos") or []), "place": ""}

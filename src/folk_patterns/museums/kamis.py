@@ -26,6 +26,7 @@ thumbnail URL and links to the record, as for every other source.
 """
 from __future__ import annotations
 
+import re
 import time
 
 import httpx
@@ -89,6 +90,16 @@ def object_url(site: str, oid: str) -> str:
     return f"{SITES[site]}/entity/OBJECT/{oid}"
 
 
+_AUTHOR = re.compile(r"^[А-ЯЁ][^.]*\s[А-ЯЁ]\.(\s?[А-ЯЁ]\.?)?$")
+
+
 def object_name(title: str) -> str:
-    """The object part of a KAMIS title: "Женский костюм. Марийцы: ..." -> "Женский костюм"."""
-    return title.split(". ")[0].strip()[:120]
+    """The object part of a KAMIS title: "Женский костюм. Марийцы: ..." -> "Женский костюм".
+
+    A title led by a person's surname and initials is an artist's drawing
+    ("Воронина-Уткина А.А. Орнамент на сундуке ...", Kunstkamera, checked
+    2026-10-06); it is named "Рисунок: <subject>"."""
+    parts = [p.strip() for p in title.split(". ")]
+    if len(parts) > 1 and _AUTHOR.match(parts[0] + ("." if not parts[0].endswith(".") else "")):
+        return f"Рисунок: {parts[1]}"[:120]
+    return parts[0][:120]

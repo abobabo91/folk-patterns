@@ -49,7 +49,11 @@ UNVETTED_DIR = DATA_DIR / "unvetted"
 
 UNVETTED_STATUSES = {"not_reached", "awaiting_judge", "fetch_failed", "unclassified", "no_pick"}
 HUMAN_REMAINS_RE = re.compile(
-    r"cranium|kranium|skull|skalle|\btooth\b|\bteeth\b|\btand\b|human remains|mummy|bone|\bben\b",
+    r"cranium|kranium|skull|skalle|\btooth\b|\bteeth\b|\btand\b|human remains|mummy|bone|\bben\b"
+    # French, German and Russian titles from quai Branly, Berlin and the KAMIS
+    # museums (quai Branly classes some records "Restes humains")
+    r"|crâne|restes humains|ossements|\bos humain|momie|tête réduite|tsantsa|shrunken head"
+    r"|schädel|skelett|mumie|menschenknochen|schrumpfkopf|череп|скелет|мумия|останки",
     re.I,
 )
 AF_ORDER = [
@@ -626,6 +630,9 @@ def _object_url(source: str, oid: str) -> str:
     if source == "quaibranly":
         from folk_patterns.museums import quaibranly
         return quaibranly.object_url(oid)
+    if source == "peabody":
+        from folk_patterns.museums import peabody
+        return peabody.object_url(oid)
     return ""
 
 

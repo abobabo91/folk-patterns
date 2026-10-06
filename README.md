@@ -290,7 +290,9 @@ takes objects from museums whose records name the people in a controlled field
 of their own, so an object is assigned by that text alone and no picture is
 judged. A museum term counts when it equals one of the people's names or is
 that name plus a subgroup ("марийцы горные", "Seneca-Tuscarora"); a term the
-museum marks as doubtful ("литовцы (?)") does not.
+museum marks as doubtful ("литовцы (?)") does not, nor does a term naming a
+period, dynasty or archaeological culture: Peabody's "Edo (Japanese period)"
+had matched the Edo of Nigeria.
 
 | `--museums` | Museum | People field, matched with | Strong for |
 |---|---|---|---|
@@ -298,16 +300,25 @@ museum marks as doubtful ("литовцы (?)") does not.
 | `smb` | Berlin Ethnological Museum (`search.smb.museum`) | `geography` role `Ethnie`; English + German names | Africa, Americas, Asia (CC BY-NC-SA images) |
 | `prm` | Pitt Rivers Museum, Oxford | `culturalGroups.culturalGroup`; English + German names | Africa, South and Southeast Asia (Naga, Iban, Kayan, Karen) |
 | `maa` | Museum of Archaeology and Anthropology, Cambridge | "Cultural Affiliation" on the record page; English + German names | South and Southeast Asia, Oceania |
+| `peabody` | Peabody Museum, Harvard (eMuseum HTML; JSON export is 403) | culture facet term (`cultureThesFilter`), departments Ethnographic and Photographic; English + German names | North America (Haida 321, Pomo 307), Africa (Zulu, Maasai, Fang) |
 | `quaibranly` | Musée du quai Branly, Paris | `Ethnonyme` (objects), `IThesTerm` Populations (photographs); English + French singular names | Latin America (Wayana, Bororo, Yanomami, Huichol, Mapuche) |
 
 Up to 300 objects and 60 field photographs per people per museum. Berlin sound
-carriers (shellac records, cassettes) are skipped: their picture is a label.
+carriers (shellac records, cassettes, tapes, DAT, CD) are skipped: their picture is a label.
+quai Branly objects classed "Restes humains" are dropped, as are titles matching
+`unvetted.py`'s human-remains terms (French, German and Russian ones included).
+A KAMIS title led by a surname and initials ("Воронина-Уткина А.А. Орнамент на
+сундуке …") is an artist's drawing and is named "Рисунок: <subject>".
 All Russian and German names are used, not `_ml_variants`' skeleton-filtered
 ones (it drops "литовцы" for Lithuanians): an alias only matters when it is a
-museum's own term. Each line of `data/world/ethno_objects.jsonl` (gitignored)
-covers the museums in its `sources`; `candidates` merges them with the other
-pools and drops duplicates. MAA reads one record page per object and slows
-down under load (503s), so it runs as its own job with 2 workers.
+museum's own term. Each museum set writes its own
+`data/world/ethno_objects_<museums>.jsonl` (gitignored): four runs appending
+to one file in parallel corrupted a line on 2026-10-06, and on Windows such
+appends can also overwrite one another, so a people whose line went missing is
+simply fetched again by the next run of its set. `candidates` merges the files
+with the other pools and drops duplicates. MAA reads one record page per object and answered
+503 to every other request at ~3 per second, so it runs alone with 1 worker,
+a 1 s pause per record, and only for the stubs with fewer than 50 objects.
 
 Read by hand on 2026-10-06: the first 247 peoples with Russian/Berlin objects,
 20 records from 10 peoples, all attributed right (Duala canoe prows, Klamath
@@ -316,11 +327,28 @@ defect was Berlin's shellac records, now skipped. Tested coverage: Mari 432,
 Lithuanians 332, Belarusians 327, Chechens 160, Kurds 157 + 309 at quai
 Branly, Mapuche 146 + 358, Iban 458, Bhil 120, Wayuu 334, Hmong 360.
 
+Categories without an LLM: the ~38,000 new object names were ~150 LLM
+batches, so `src/folk_patterns/kind_lexicon.py` maps the museums' plain nouns
+(French, Russian, German, English) to a kind and art form by keyword, and
+`world_peoples._kind` uses it wherever the kinds cache has no answer or only
+"unclassified". quai Branly's own class ("Textile ou vêtement", "Instrument de
+musique", "Arts graphiques"…) fills what the lexicon leaves. Measured
+2026-10-06: the lexicon covers 87% of the new objects (quai Branly 91%, PRM
+82%, MAA 89%, Kunstkamera 81%, REM 73%, SMB 72%); three samples of 120 + 80 +
+80 hits read by hand had about 5 wrong art forms per 100 (a netsuke as a bowl,
+a horn dish as ceramic, a kitchen knife as arms before it got its own rule).
+The rest are names the lexicon cannot read ("Sans titre", "Hatu leka, pebble",
+banknotes) and show under "Other", so no LLM pass is run for them. Accents are
+folded on both sides: quai Branly writes capitals bare ("Epingle", "Etui").
+
 Checked and not used: Wikidata items with P2596/P172 (606 items across all
 stubs); Finna, Penn Museum and the Field Museum (Cloudflare or a bot check);
 Goskatalog (not reachable from here); DigitaltMuseum (hits are surnames:
 "Kven"); the Smithsonian anthropology search (ExtJS form, restrictive image
-policy); SURDOC Chile (no search URL). Museo de América and Museon reach us
+policy); the Smithsonian Open Access API's `culture` field (a prefix query
+`culture:Hopi*` finds NMAI and NMNH Anthropology records by LC heading,
+"Hopi Indians", "Miao (Chinese people)", but neither `/search` nor `/content`
+returns any image for them, checked on Hopi, Navajo, Ainu, Miao and Yoruba); SURDOC Chile (no search URL). Museo de América and Museon reach us
 through Europeana: their English provider labels ("Museum of America",
 "Museon") were added to `_EU_GOOD`, and `europeana-objects` now also searches
 the screened stubs, which it had never searched.
@@ -328,9 +356,9 @@ the screened stubs, which it had never searched.
 ```bash
 python scripts/world_peoples.py ethno-objects                       # kamis,smb
 python scripts/world_peoples.py ethno-objects --museums prm --workers 4
-python scripts/world_peoples.py ethno-objects --museums maa --workers 2
+python scripts/world_peoples.py ethno-objects --museums maa --workers 1 --only <thin stub keys>
 python scripts/world_peoples.py ethno-objects --museums quaibranly --workers 4
-FOLK_LLM_BACKEND=codex python scripts/normalize_kinds.py --world    # categories for the new object names
+python scripts/world_peoples.py ethno-objects --museums peabody --workers 2
 python scripts/world_peoples.py candidates
 ```
 

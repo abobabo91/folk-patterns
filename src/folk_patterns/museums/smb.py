@@ -19,6 +19,8 @@ those are skipped.
 """
 from __future__ import annotations
 
+import time
+
 import httpx
 
 BASE = "https://search.smb.museum"
@@ -32,17 +34,23 @@ def client() -> httpx.Client:
     return httpx.Client(timeout=60, headers=_UA)
 
 
+def _get(cl: httpx.Client, url: str, **params) -> dict:
+    """GET with backoff: the API answered 502 for a few minutes on 2026-10-06."""
+    for wait in (5, 30, 120, 0):
+        r = cl.get(url, params=params or None)
+        if r.status_code < 500 or not wait:
+            r.raise_for_status()
+            return r.json()
+        time.sleep(wait)
+    return {}
+
+
 def search(cl: httpx.Client, q: str, start: int = 0, limit: int = 100) -> dict:
-    r = cl.get(f"{BASE}/api/objects/search-expert",
-               params={"q": q, "start": start, "limit": limit, "has_images": "true"})
-    r.raise_for_status()
-    return r.json()
+    return _get(cl, f"{BASE}/api/objects/search-expert", q=q, start=start, limit=limit, has_images="true")
 
 
 def detail(cl: httpx.Client, oid: str) -> dict:
-    r = cl.get(f"{BASE}/api/objects/detail/{oid}")
-    r.raise_for_status()
-    return r.json()
+    return _get(cl, f"{BASE}/api/objects/detail/{oid}")
 
 
 def ethnie(d: dict) -> list[str]:

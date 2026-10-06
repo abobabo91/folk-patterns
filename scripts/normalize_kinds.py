@@ -70,11 +70,17 @@ NAMES
 def _names(world: bool = False) -> collections.Counter:
     c = collections.Counter()
     if world:   # object names from world_peoples.py harvest + local
-        for fn in ("bm_objects.jsonl", "local_objects.jsonl", "eu_objects.jsonl", "ethno_objects.jsonl"):
+        fns = ["bm_objects.jsonl", "local_objects.jsonl", "eu_objects.jsonl"] + sorted(
+            f.name for f in (DATA_DIR / "world").glob("ethno_objects*.jsonl"))
+        for fn in fns:
           if not (DATA_DIR / "world" / fn).exists():
               continue
           for l in (DATA_DIR / "world" / fn).read_text(encoding="utf-8").splitlines():
-            for o in json.loads(l)["objects"]:
+            try:
+                row = json.loads(l)
+            except json.JSONDecodeError:
+                continue
+            for o in row["objects"]:
                 n = (o.get("name") or "").strip()[:120]
                 if n:
                     c[n] += 1
